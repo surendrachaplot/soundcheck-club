@@ -1,6 +1,6 @@
 # Johænsson
 
-Johænsson is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at OXI, Berlin on Sat, 19 Dec 2026.
+Johænsson is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at OXI, Berlin on Sat, 19 Dec 2026.
 
 Johænsson is a techno and trance artist based in Germany, with 51 gigs on soundcheck across Berlin, Cologne, Dresden and Frankfurt and 4 more. Often billed alongside LASERBOY, Elias Doré and Multifun. Next up: OXI, Berlin on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Johænsson is a techno and trance artist based in Germany, with 51 gigs on sound
 
 LASERBOY, Elias Doré, Multifun
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johaensson/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johaensson/)*

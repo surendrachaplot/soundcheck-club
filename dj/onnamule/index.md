@@ -1,6 +1,6 @@
 # onna mule
 
-onna mule is a Italo Disco and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Bastet, Philadelphia on Fri, 13 Nov 2026.
+onna mule is a Italo Disco and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Bastet, Philadelphia on Fri, 13 Nov 2026.
 
 onna mule is an italo disco and techno artist, with 7 gigs on soundcheck across Philadelphia. Often billed alongside Phreakwency, 9TAILSHADOWWOLF and G I N A. Next up: Bastet, Philadelphia on Fri 13 Nov.
 
@@ -23,4 +23,4 @@ onna mule is an italo disco and techno artist, with 7 gigs on soundcheck across 
 
 Phreakwency, 9TAILSHADOWWOLF, G I N A
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/onnamule/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/onnamule/)*

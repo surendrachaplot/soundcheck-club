@@ -1,18 +1,18 @@
 # Imecka
 
-Imecka is a Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at L'Ostra Club, East on Sun, 8 Nov 2026.
+Imecka is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at L'Ostra Club, East on Sat, 21 Nov 2026.
 
-Imecka is a techno artist based in France, with 6 gigs on soundcheck across East, Paris and Strasbourg. Often billed alongside Adriana Lopez, Arjun Vagale and Croix. Next up: L'Ostra Club, East on Sun 8 Nov.
+Imecka is a techno artist based in France, with 6 gigs on soundcheck across East, Paris and Strasbourg. Often billed alongside Adriana Lopez, Arjun Vagale and Croix. Next up: L'Ostra Club, East on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 8 Nov 2026 | L'Ostra Club | East |
 | Sat, 21 Nov 2026 | L'Ostra Club | East |
 
 ## Recently played
 
+- L'Ostra Club, East · Sun, 8 Nov 2026
 - L'Ostra Club, East · Sat, 17 Oct 2026
 - Glazart, Paris · Sat, 28 Mar 2026
 - KALT, Strasbourg · Sat, 12 Jul 2025
@@ -22,4 +22,4 @@ Imecka is a techno artist based in France, with 6 gigs on soundcheck across East
 
 Adriana Lopez, Arjun Vagale, Croix
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/imecka/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/imecka/)*

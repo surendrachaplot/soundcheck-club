@@ -1,6 +1,6 @@
 # KETTAMA
 
-KETTAMA is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at GASHOUDER, Amsterdam on Fri, 27 Nov 2026.
+KETTAMA is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at GASHOUDER, Amsterdam on Fri, 27 Nov 2026.
 
 KETTAMA is a techno and house artist based in Ireland, with 275 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Antwerp and 85 more. Often billed alongside Partiboi69, Ben Hemsley and Mall Grab. Next up: GASHOUDER, Amsterdam on Fri 27 Nov.
 
@@ -31,4 +31,4 @@ KETTAMA is a techno and house artist based in Ireland, with 275 gigs on soundche
 
 Partiboi69, Ben Hemsley, Mall Grab
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kettama/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kettama/)*

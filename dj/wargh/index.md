@@ -1,6 +1,6 @@
 # wargh
 
-wargh is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Apéro Village, Tokyo on Sat, 21 Nov 2026.
+wargh is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Apéro Village, Tokyo on Sat, 21 Nov 2026.
 
 wargh is a house and techno artist based in Singapore, with 42 gigs on soundcheck across Tokyo. Often billed alongside WAKA XINXI, Ryuga Nomoto and YOSHI KANOU. Next up: Apéro Village, Tokyo on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ wargh is a house and techno artist based in Singapore, with 42 gigs on soundchec
 
 WAKA XINXI, Ryuga Nomoto, YOSHI KANOU
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wargh/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wargh/)*

@@ -1,6 +1,6 @@
 # Loney
 
-Loney is a Electronica and Ambient artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at The White Hotel, Manchester on Wed, 25 Nov 2026.
+Loney is a Electronica and Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The White Hotel, Manchester on Wed, 25 Nov 2026.
 
 Loney is an electronica and ambient artist based in United Kingdom, with 18 gigs on soundcheck across London and Manchester. Often billed alongside AEON FUX, Flames Disperse and Kop-Z. Next up: The White Hotel, Manchester on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ Loney is an electronica and ambient artist based in United Kingdom, with 18 gigs
 
 AEON FUX, Flames Disperse, Kop-Z
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loney/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loney/)*

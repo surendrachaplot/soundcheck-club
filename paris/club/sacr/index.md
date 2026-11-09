@@ -1,6 +1,6 @@
 # Sacré
 
-Sacré is a music venue in Paris with 13 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Sacré présente: TV Store Takeover (veille de jour férié)" on Tue, 10 Nov 2026.
+Sacré is a music venue in Paris with 13 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Sacré présente: TV Store Takeover (veille de jour férié)" on Tue, 10 Nov 2026.
 
 Sacré is a music venue in Paris listed on soundcheck. 13 upcoming gigs, with line-ups including COEO, Daisybelle, Demm Deep and DJ Carlos and 2 more. See dates, start times and who's playing. 142 rue montmartre 75002 Paris.
 
@@ -23,4 +23,4 @@ Sacré is a music venue in Paris listed on soundcheck. 13 upcoming gigs, with li
 
 142 rue montmartre 75002 Paris, Paris
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/sacr/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/sacr/)*

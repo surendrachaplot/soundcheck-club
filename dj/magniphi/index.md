@@ -1,6 +1,6 @@
 # Magniphi
 
-Magniphi is a Dubstep and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Entre Nous, Montreal on Fri, 13 Nov 2026.
+Magniphi is a Dubstep and Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Entre Nous, Montreal on Fri, 13 Nov 2026.
 
 Magniphi is a dubstep and bass artist based in Canada, with 2 gigs on soundcheck across Montreal. Often billed alongside Astroboii, GUNS and Kentsuji. Next up: Entre Nous, Montreal on Fri 13 Nov.
 
@@ -15,4 +15,4 @@ Magniphi is a dubstep and bass artist based in Canada, with 2 gigs on soundcheck
 
 Astroboii, GUNS, Kentsuji
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/magniphi/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/magniphi/)*

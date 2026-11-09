@@ -1,14 +1,13 @@
 # Yesterdayneverhappened
 
-Yesterdayneverhappened is a Jungle and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA, Chicago on Sat, 7 Nov 2026.
+Yesterdayneverhappened is a Jungle and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Hifi Charlotte, Charlotte on Sat, 21 Nov 2026.
 
-Yesterdayneverhappened is a jungle and house artist based in United States of America, with 68 gigs on soundcheck across Atlanta, Baltimore, Boston and Charlotte and 13 more. Often billed alongside Dazegxd, 3mouth and XXHARDBIT3S. Next up: TBA, Chicago on Sat 7 Nov.
+Yesterdayneverhappened is a jungle and house artist based in United States of America, with 68 gigs on soundcheck across Atlanta, Baltimore, Boston and Charlotte and 13 more. Often billed alongside Dazegxd, 3mouth and XXHARDBIT3S. Next up: Hifi Charlotte, Charlotte on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | TBA | Chicago |
 | Sat, 21 Nov 2026 | Hifi Charlotte | Charlotte |
 
 ## Recently played
@@ -26,4 +25,4 @@ Yesterdayneverhappened is a jungle and house artist based in United States of Am
 
 Dazegxd, 3mouth, XXHARDBIT3S
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yesterdayneverhappened/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yesterdayneverhappened/)*

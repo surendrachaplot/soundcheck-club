@@ -1,6 +1,6 @@
 # Cell
 
-Cell is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Abbots Yard, Melbourne on Sat, 21 Nov 2026.
+Cell is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Abbots Yard, Melbourne on Sat, 21 Nov 2026.
 
 Cell is a techno and downtempo artist, with 6 gigs on soundcheck across Athens and Melbourne. Often billed alongside Fia Fiell, Greer and Other Joe. Next up: Abbots Yard, Melbourne on Sat 21 Nov.
 
@@ -22,4 +22,4 @@ Cell is a techno and downtempo artist, with 6 gigs on soundcheck across Athens a
 
 Fia Fiell, Greer, Other Joe
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cell/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cell/)*

@@ -1,6 +1,6 @@
 # hitty
 
-hitty is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at NUMBER 90 LONDON, London on Sat, 28 Nov 2026.
+hitty is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at NUMBER 90 LONDON, London on Sat, 28 Nov 2026.
 
 hitty is a house and tech house artist based in United Kingdom, with 84 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Brighton and 10 more. Often billed alongside Meeshy, Sammy Porter and Shenin Amara. Next up: NUMBER 90 LONDON, London on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ hitty is a house and tech house artist based in United Kingdom, with 84 gigs on 
 
 Meeshy, Sammy Porter, Shenin Amara
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hitty/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hitty/)*

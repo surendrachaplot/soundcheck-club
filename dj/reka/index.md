@@ -1,6 +1,6 @@
 # Reka
 
-Reka is a Techno and EBM artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Moog Club, Barcelona on Thu, 19 Nov 2026.
+Reka is a Techno and EBM artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Moog Club, Barcelona on Thu, 19 Nov 2026.
 
 Reka is a techno and ebm artist based in Spain, with 44 gigs on soundcheck across Athens, Barcelona, Berlin and Brussels and 13 more. Often billed alongside Phase Fatale, Unhuman and Bloody Mary. Next up: Moog Club, Barcelona on Thu 19 Nov.
 
@@ -26,4 +26,4 @@ Reka is a techno and ebm artist based in Spain, with 44 gigs on soundcheck acros
 
 Phase Fatale, Unhuman, Bloody Mary
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reka/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reka/)*

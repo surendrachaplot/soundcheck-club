@@ -1,6 +1,6 @@
 # Percy Main
 
-Percy Main is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Fruitmarket, Edinburgh on Fri, 13 Nov 2026.
+Percy Main is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Fruitmarket, Edinburgh on Fri, 13 Nov 2026.
 
 Percy Main is a disco and funk / soul artist based in United Kingdom, with 79 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside Tuesday Gonzalez, Soul Jam and Chrissy G. Next up: Fruitmarket, Edinburgh on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Percy Main is a disco and funk / soul artist based in United Kingdom, with 79 gi
 
 Tuesday Gonzalez, Soul Jam, Chrissy G (2)
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/percymain/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/percymain/)*

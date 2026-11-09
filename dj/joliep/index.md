@@ -1,6 +1,6 @@
 # Jolie P
 
-Jolie P is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at The Clock Factory, Bristol on Thu, 31 Dec 2026.
+Jolie P is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Clock Factory, Bristol on Thu, 31 Dec 2026.
 
 Jolie P is a jungle and drum & bass artist based in United Kingdom, with 6 gigs on soundcheck across Brighton, Bristol, London and Manchester and 2 more. Often billed alongside SKALAH (UK), 2Shy MC and 4am Kru. Next up: The Clock Factory, Bristol on Thu 31 Dec.
 
@@ -22,4 +22,4 @@ Jolie P is a jungle and drum & bass artist based in United Kingdom, with 6 gigs 
 
 SKALAH (UK), 2Shy MC, 4am Kru
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joliep/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joliep/)*

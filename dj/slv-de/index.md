@@ -1,6 +1,6 @@
 # SLV
 
-SLV is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA, Berlin on Fri, 5 Feb 2027.
+SLV is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA, Berlin on Fri, 5 Feb 2027.
 
 SLV is a techno artist based in Italy, with 5 gigs on soundcheck across Berlin and Ibiza. Often billed alongside SEMREH, Acierate and AnD. Next up: TBA, Berlin on Fri 5 Feb.
 
@@ -21,4 +21,4 @@ SLV is a techno artist based in Italy, with 5 gigs on soundcheck across Berlin a
 
 SEMREH, Acierate, AnD
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slv-de/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slv-de/)*

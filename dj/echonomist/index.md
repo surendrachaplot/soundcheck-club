@@ -1,6 +1,6 @@
 # Echonomist
 
-Echonomist is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Parque Fundidora, Monterrey on Fri, 13 Nov 2026.
+Echonomist is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Parque Fundidora, Monterrey on Fri, 13 Nov 2026.
 
 Echonomist is a house and techno artist based in Greece, with 148 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bangkok and 43 more. Often billed alongside Jenia Tarsol, Denis Horvat and Avangart Tabldot. Next up: Parque Fundidora, Monterrey on Fri 13 Nov.
 
@@ -28,4 +28,4 @@ Echonomist is a house and techno artist based in Greece, with 148 gigs on soundc
 
 Jenia Tarsol, Denis Horvat, Avangart Tabldot
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/echonomist/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/echonomist/)*

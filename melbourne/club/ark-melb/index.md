@@ -1,6 +1,6 @@
 # ark (Melb)
 
-ark (Melb) is a music venue in Melbourne with 10 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "ark // James Poole [UK] - Jim Jonathan [NL] - KELLAR [NL]" on Sat, 14 Nov 2026.
+ark (Melb) is a music venue in Melbourne with 10 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "ark // James Poole [UK] - Jim Jonathan [NL] - KELLAR [NL]" on Sat, 14 Nov 2026.
 
 ark (Melb) is a music venue in Melbourne listed on soundcheck. 10 upcoming gigs, with line-ups including Auramatic, Cybernet, Dan Newman and DJ Optimism and 2 more. See dates, start times and who's playing. 2 Geddes Lane, Melbourne, VIC.
 
@@ -23,4 +23,4 @@ ark (Melb) is a music venue in Melbourne listed on soundcheck. 10 upcoming gigs,
 
 2 Geddes Lane, Melbourne, VIC, Melbourne
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/ark-melb/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/ark-melb/)*

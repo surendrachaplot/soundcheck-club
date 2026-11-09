@@ -1,6 +1,6 @@
 # ZAC (1)
 
-ZAC (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA, Uruguay on Mon, 21 Dec 2026.
+ZAC (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA, Uruguay on Mon, 21 Dec 2026.
 
 ZAC is a techno and house artist based in Brazil, with 8 gigs on soundcheck across Beijing, Copenhagen, London and Sao Paulo and 2 more. Often billed alongside NILU, AARON SEVILLA and ANOTR. Next up: TBA, Uruguay on Mon 21 Dec.
 
@@ -24,4 +24,4 @@ ZAC is a techno and house artist based in Brazil, with 8 gigs on soundcheck acro
 
 NILU, AARON SEVILLA, ANOTR
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zac-1/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zac-1/)*

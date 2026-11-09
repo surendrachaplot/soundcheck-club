@@ -1,18 +1,18 @@
 # Krushak
 
-Krushak is a Experimental and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Secret Location on the telegram group, Berlin on Sun, 8 Nov 2026.
+Krushak is a Experimental and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Void Club, Berlin on Fri, 27 Nov 2026.
 
-Krushak is an experimental and drum & bass artist based in Germany, with 7 gigs on soundcheck across Berlin and Wroclaw. Often billed alongside Alex Pastore, RMW (DE) and Nicki Black. Next up: TBA - Secret Location on the telegram group, Berlin on Sun 8 Nov.
+Krushak is an experimental and drum & bass artist based in Germany, with 7 gigs on soundcheck across Berlin and Wroclaw. Often billed alongside Alex Pastore, RMW (DE) and Nicki Black. Next up: Void Club, Berlin on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 8 Nov 2026 | TBA - Secret Location on the telegram group | Berlin |
 | Fri, 27 Nov 2026 | Void Club | Berlin |
 
 ## Recently played
 
+- TBA - Secret Location on the telegram group, Berlin · Sun, 8 Nov 2026
 - Void Club, Berlin · Sat, 18 Jul 2026
 - Bar Neun, Berlin · Thu, 9 Apr 2026
 - TBA, Berlin · Fri, 3 Oct 2025
@@ -23,4 +23,4 @@ Krushak is an experimental and drum & bass artist based in Germany, with 7 gigs 
 
 Alex Pastore, RMW (DE), Nicki Black
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krushak/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krushak/)*

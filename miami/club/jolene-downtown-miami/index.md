@@ -1,6 +1,6 @@
 # Jolene Downtown Miami
 
-Jolene Downtown Miami is a music venue in Miami with 9 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Helena Hauff" on Fri, 13 Nov 2026.
+Jolene Downtown Miami is a music venue in Miami with 9 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Helena Hauff" on Fri, 13 Nov 2026.
 
 Jolene Downtown Miami is a music venue in Miami listed on soundcheck. 9 upcoming gigs, with line-ups including Adiel, Benny Benassi, Bill Patrick and Bort and 2 more. See dates, start times and who's playing. 200 E Flagler Street Miami, FL 33131.
 
@@ -22,4 +22,4 @@ Jolene Downtown Miami is a music venue in Miami listed on soundcheck. 9 upcoming
 
 200 E Flagler Street Miami, FL 33131, Miami
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/jolene-downtown-miami/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/jolene-downtown-miami/)*

@@ -1,6 +1,6 @@
 # Qnoe
 
-Qnoe is a Garage and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at elipamanoke, Leipzig on Fri, 4 Dec 2026.
+Qnoe is a Garage and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at elipamanoke, Leipzig on Fri, 4 Dec 2026.
 
 Qnoe is a garage and club artist, with 8 gigs on soundcheck across Bavaria, Berlin, Hamburg and Leipzig and 3 more. Often billed alongside DJ Business, Eluzid and 45 Tours Mon Amour. Next up: elipamanoke, Leipzig on Fri 4 Dec.
 
@@ -24,4 +24,4 @@ Qnoe is a garage and club artist, with 8 gigs on soundcheck across Bavaria, Berl
 
 DJ Business (2), Eluzid, 45 Tours Mon Amour
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/qnoe/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/qnoe/)*

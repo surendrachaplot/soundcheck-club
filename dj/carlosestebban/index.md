@@ -1,6 +1,6 @@
 # Carlos Estebban
 
-Carlos Estebban is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Bambi's, Toronto on Sat, 12 Dec 2026.
+Carlos Estebban is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Bambi's, Toronto on Sat, 12 Dec 2026.
 
 Carlos Estebban is a house and deep house artist based in Canada, with 25 gigs on soundcheck across Toronto. Often billed alongside Nicholas Nothing, Underwaterhasa and Eddie Logix. Next up: Bambi's, Toronto on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Carlos Estebban is a house and deep house artist based in Canada, with 25 gigs o
 
 Nicholas Nothing, Underwaterhasa, Eddie Logix
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosestebban/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosestebban/)*

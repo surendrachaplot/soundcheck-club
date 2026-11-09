@@ -1,6 +1,6 @@
 # Mihai Popoviciu
 
-Mihai Popoviciu is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Thuishaven, Amsterdam on Sat, 5 Dec 2026.
+Mihai Popoviciu is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Thuishaven, Amsterdam on Sat, 5 Dec 2026.
 
 Mihai Popoviciu is a house and deep house artist based in Romania, with 85 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 39 more. Often billed alongside Andrey Pushkarev, Lola Palmer and Priku. Next up: Thuishaven, Amsterdam on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Mihai Popoviciu is a house and deep house artist based in Romania, with 85 gigs 
 
 Andrey Pushkarev, Lola Palmer, Priku
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mihaipopoviciu/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mihaipopoviciu/)*

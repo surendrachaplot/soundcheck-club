@@ -1,6 +1,6 @@
 # Fish56Octagon
 
-Fish56Octagon is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Digital, Newcastle on Fri, 27 Nov 2026.
+Fish56Octagon is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Digital, Newcastle on Fri, 27 Nov 2026.
 
 Fish56Octagon is a house and techno artist based in United Kingdom, with 73 gigs on soundcheck across Adelaide, Amsterdam, Austria and Bangalore and 31 more. Often billed alongside Badger (UK), Ben Hemsley and 4am Kru. Next up: Digital, Newcastle on Fri 27 Nov.
 
@@ -30,4 +30,4 @@ Fish56Octagon is a house and techno artist based in United Kingdom, with 73 gigs
 
 Badger (UK), Ben Hemsley, 4am Kru
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fish56octagon/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fish56octagon/)*

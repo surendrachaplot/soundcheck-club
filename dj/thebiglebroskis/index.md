@@ -1,6 +1,6 @@
 # The Big Lebroskis
 
-The Big Lebroskis is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Beat Boutique, Hamburg on Sat, 14 Nov 2026.
+The Big Lebroskis is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Beat Boutique, Hamburg on Sat, 14 Nov 2026.
 
 The Big Lebroskis is a house and disco artist based in Germany, with 5 gigs on soundcheck across Hamburg. Often billed alongside Klausmarie, Luise and Natsu. Next up: Beat Boutique, Hamburg on Sat 14 Nov.
 
@@ -21,4 +21,4 @@ The Big Lebroskis is a house and disco artist based in Germany, with 5 gigs on s
 
 Klausmarie, Luise, Natsu
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thebiglebroskis/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thebiglebroskis/)*

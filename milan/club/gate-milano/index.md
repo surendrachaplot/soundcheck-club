@@ -1,6 +1,6 @@
 # Gate Milano
 
-Gate Milano is a music venue in Milan with 17 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Funk Tribu" on Fri, 13 Nov 2026.
+Gate Milano is a music venue in Milan with 17 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Funk Tribu" on Fri, 13 Nov 2026.
 
 Gate Milano is a music venue in Milan listed on soundcheck. 17 upcoming gigs, with line-ups including Amygdala, Anetha, Angerfist and ANKKH and 2 more. See dates, start times and who's playing. Via Valtellina, 21, 20159 Milano MI.
 
@@ -16,11 +16,11 @@ Gate Milano is a music venue in Milan listed on soundcheck. 17 upcoming gigs, wi
 | Fri, 27 Nov 2026 | 180BPM |  |
 | Fri, 4 Dec 2026 | BISCOTTO: Héctor Oaks | Héctor Oaks, Ivan Carbone, NOVZE |
 | Mon, 7 Dec 2026 | PLASMA: Clara Cuvé & William Luck | ANKKH, Clara Cuvé, William Luck |
-| Mon, 7 Dec 2026 | Arkore | Sick Boy |
+| Mon, 7 Dec 2026 | ARKÔRE: Hardbounce • Early Hardstyle • Old School Hardcore | Sick Boy |
 | Fri, 11 Dec 2026 | BCCO: Blawan & ÜBERKIKZ & FENIM0RE | Blawan, FENIM0RE, ÜBERKIKZ |
 
 ## Address
 
 Via Valtellina, 21, 20159 Milano MI, Milan
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/gate-milano/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/gate-milano/)*

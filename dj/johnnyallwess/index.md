@@ -1,14 +1,15 @@
 # Johnny Allwess
 
-Johnny Allwess is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Der Weiße Hase, Berlin on Tue, 10 Nov 2026.
+Johnny Allwess is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Der Weiße Hase, Berlin on Tue, 10 Nov 2026.
 
-Johnny Allwess is a techno and trance artist based in Germany, with 10 gigs on soundcheck across Berlin. Often billed alongside Cat Vermillion, Klangpusch and Tom Marten. Next up: Der Weiße Hase, Berlin on Tue 10 Nov.
+Johnny Allwess is a techno and industrial artist based in Germany, with 11 gigs on soundcheck across Berlin. Often billed alongside Klangpusch, Cat Vermillion and Tom Marten. Next up: Der Weiße Hase, Berlin on Tue 10 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 10 Nov 2026 | Der Weiße Hase | Berlin |
+| Tue, 8 Dec 2026 | Der Weiße Hase | Berlin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Johnny Allwess is a techno and trance artist based in Germany, with 10 gigs on s
 
 ## Shares bills with
 
-Cat Vermillion, Klangpusch, Tom Marten
+Klangpusch, Cat Vermillion, Tom Marten
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johnnyallwess/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johnnyallwess/)*

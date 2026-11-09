@@ -1,6 +1,6 @@
 # DJ Also Cool
 
-DJ Also Cool is a House and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Système, Montreal on Thu, 19 Nov 2026.
+DJ Also Cool is a House and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Système, Montreal on Thu, 19 Nov 2026.
 
 DJ Also Cool is a house and post-punk artist based in Canada, with 3 gigs on soundcheck across Montreal. Often billed alongside Flleur. Next up: Système, Montreal on Thu 19 Nov.
 
@@ -19,4 +19,4 @@ DJ Also Cool is a house and post-punk artist based in Canada, with 3 gigs on sou
 
 Flleur
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djalsocool/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djalsocool/)*

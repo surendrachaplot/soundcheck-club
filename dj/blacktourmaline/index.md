@@ -1,6 +1,6 @@
 # Black Tourmaline
 
-Black Tourmaline is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at The Foundry, Boston on Fri, 11 Dec 2026.
+Black Tourmaline is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Foundry, Boston on Fri, 11 Dec 2026.
 
 Black Tourmaline is an electronica and techno artist based in Austria, with 7 gigs on soundcheck across Boston and Vienna. Often billed alongside Albin Brezlan, Huebl and Violet Nox. Next up: The Foundry, Boston on Fri 11 Dec.
 
@@ -23,4 +23,4 @@ Black Tourmaline is an electronica and techno artist based in Austria, with 7 gi
 
 Albin Brezlan, Huebl, Violet Nox
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blacktourmaline/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blacktourmaline/)*

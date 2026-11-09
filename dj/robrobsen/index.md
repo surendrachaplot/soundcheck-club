@@ -1,6 +1,6 @@
 # Rob Robsen
 
-Rob Robsen is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Void Club, Berlin on Fri, 11 Dec 2026.
+Rob Robsen is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Void Club, Berlin on Fri, 11 Dec 2026.
 
 Rob Robsen is a techno and trance artist based in Germany, with 49 gigs on soundcheck across Berlin, Brandenburg, Hamburg and London and 1 more. Often billed alongside GHOST DE, DJ Jordan and Klipp&Klar. Next up: Void Club, Berlin on Fri 11 Dec.
 
@@ -27,4 +27,4 @@ Rob Robsen is a techno and trance artist based in Germany, with 49 gigs on sound
 
 GHOST DE, DJ Jordan, Klipp&Klar
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robrobsen/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robrobsen/)*

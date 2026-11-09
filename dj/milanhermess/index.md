@@ -1,14 +1,13 @@
 # Milan Hermess
 
-Milan Hermess is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at RSO.BERLIN, Berlin on Sat, 7 Nov 2026.
+Milan Hermess is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at BABY01, Berlin on Sat, 5 Dec 2026.
 
-Milan Hermess is an electro and techno artist based in Netherlands, with 62 gigs on soundcheck across Athens, Barcelona, Berlin and Glasgow and 11 more. Often billed alongside Aura Nox, ElectroDon and Mejle. Next up: RSO.BERLIN, Berlin on Sat 7 Nov.
+Milan Hermess is an electro and techno artist based in Netherlands, with 62 gigs on soundcheck across Athens, Barcelona, Berlin and Glasgow and 11 more. Often billed alongside Aura Nox, ElectroDon and Mejle. Next up: BABY01, Berlin on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | RSO.BERLIN | Berlin |
 | Sat, 5 Dec 2026 | BABY01 | Berlin |
 
 ## Recently played
@@ -26,4 +25,4 @@ Milan Hermess is an electro and techno artist based in Netherlands, with 62 gigs
 
 Aura Nox, ElectroDon, Mejle
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milanhermess/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milanhermess/)*

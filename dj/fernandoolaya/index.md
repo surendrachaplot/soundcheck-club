@@ -1,6 +1,6 @@
 # Fernando Olaya
 
-Fernando Olaya is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Do Not Sit On The Furniture, Miami on Sat, 21 Nov 2026.
+Fernando Olaya is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Do Not Sit On The Furniture, Miami on Sat, 21 Nov 2026.
 
 Fernando Olaya is a house and deep house artist based in Colombia, with 4 gigs on soundcheck across Medellin and Miami. Often billed alongside DJ Chus, Juanes Mesa and Kike Roldan. Next up: Do Not Sit On The Furniture, Miami on Sat 21 Nov.
 
@@ -20,4 +20,4 @@ Fernando Olaya is a house and deep house artist based in Colombia, with 4 gigs o
 
 DJ Chus, Juanes Mesa, Kike Roldan
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fernandoolaya/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fernandoolaya/)*

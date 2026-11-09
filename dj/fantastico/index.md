@@ -1,6 +1,6 @@
 # Fantástico
 
-Fantástico is a Latin Bass and Dub artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Latino Power, Bogotá on Thu, 26 Nov 2026.
+Fantástico is a Latin Bass and Dub artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Latino Power, Bogotá on Thu, 26 Nov 2026.
 
 Fantástico is a latin bass and dub artist, with 3 gigs on soundcheck across Bogotá. Often billed alongside Antonio C, Conjunto Media Luna and Ela Vann. Next up: Latino Power, Bogotá on Thu 26 Nov.
 
@@ -19,4 +19,4 @@ Fantástico is a latin bass and dub artist, with 3 gigs on soundcheck across Bog
 
 Antonio C, Conjunto Media Luna, Ela Vann
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fantastico/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fantastico/)*

@@ -1,6 +1,6 @@
 # Oxygeno
 
-Oxygeno is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at FLUCC, Vienna on Fri, 13 Nov 2026.
+Oxygeno is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at FLUCC, Vienna on Fri, 13 Nov 2026.
 
 Oxygeno is a techno and experimental artist based in Spain, with 23 gigs on soundcheck across Amsterdam, Athens, Barcelona and Boston and 8 more. Often billed alongside AEREA, Anxiety for Living and Cera Khin. Next up: FLUCC, Vienna on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Oxygeno is a techno and experimental artist based in Spain, with 23 gigs on soun
 
 AEREA, Anxiety for Living, Cera Khin
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oxygeno/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oxygeno/)*

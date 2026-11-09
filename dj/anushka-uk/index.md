@@ -1,6 +1,6 @@
 # Anushka (UK)
 
-Anushka (UK) is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at DEX, Moscow on Fri, 13 Nov 2026.
+Anushka (UK) is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at DEX, Moscow on Fri, 13 Nov 2026.
 
 Anushka (UK) is an electronic artist based in United Kingdom, with 3 gigs on soundcheck across London, Montreal and Moscow. Often billed alongside Abelle, Etrigan and Nocow. Next up: DEX, Moscow on Fri 13 Nov.
 
@@ -19,4 +19,4 @@ Anushka (UK) is an electronic artist based in United Kingdom, with 3 gigs on sou
 
 Abelle, Etrigan, Nocow
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anushka-uk/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anushka-uk/)*

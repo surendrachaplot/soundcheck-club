@@ -1,6 +1,6 @@
 # DJ Ironing Board
 
-DJ Ironing Board is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Alaska Waterloo, London on Fri, 11 Dec 2026.
+DJ Ironing Board is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Alaska Waterloo, London on Fri, 11 Dec 2026.
 
 DJ Ironing Board is a garage and house artist based in United Kingdom, with 4 gigs on soundcheck across London. Often billed alongside Joe Rose, Karim Bitar and Kiwii. Next up: Alaska Waterloo, London on Fri 11 Dec.
 
@@ -20,4 +20,4 @@ DJ Ironing Board is a garage and house artist based in United Kingdom, with 4 gi
 
 Joe Rose, Karim Bitar, Kiwii
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djironingboard/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djironingboard/)*

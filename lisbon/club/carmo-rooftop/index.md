@@ -1,6 +1,6 @@
 # Carmo Rooftop
 
-Carmo Rooftop is a music venue in Lisbon with 5 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Micronova Series 02 w/DJ Honesty & Micaia" on Fri, 13 Nov 2026.
+Carmo Rooftop is a music venue in Lisbon with 5 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Micronova Series 02 w/DJ Honesty & Micaia" on Fri, 13 Nov 2026.
 
 Carmo Rooftop is a music venue in Lisbon listed on soundcheck. 5 upcoming gigs, with line-ups including DJ Honesty, Micaia, Rui Alves and Simonee and 1 more. See dates, start times and who's playing. Terraços do Carmo Lisboa.
 
@@ -18,4 +18,4 @@ Carmo Rooftop is a music venue in Lisbon listed on soundcheck. 5 upcoming gigs, 
 
 Terraços do Carmo Lisboa, Lisbon
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/carmo-rooftop/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/carmo-rooftop/)*

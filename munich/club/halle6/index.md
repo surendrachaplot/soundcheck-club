@@ -1,6 +1,6 @@
 # Halle6
 
-Halle6 is a music venue in Munich with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. The next is "Symposia Munich — Art, Sound & People" on Sat, 28 Nov 2026.
+Halle6 is a music venue in Munich with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. The next is "Symposia Munich — Art, Sound & People" on Sat, 28 Nov 2026.
 
 Halle6 is a music venue in Munich listed on soundcheck. 1 upcoming gig, with line-ups including daisytwo, EKIN and Marcella. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Halle6 is a music venue in Munich listed on soundcheck. 1 upcoming gig, with lin
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Symposia Munich — Art, Sound & People | EKIN, Marcella, daisytwo |
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/halle6/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/halle6/)*

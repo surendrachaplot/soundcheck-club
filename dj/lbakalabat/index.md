@@ -1,6 +1,6 @@
 # LB aka LABAT
 
-LB aka LABAT is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Le Confort Moderne, West on Sat, 14 Nov 2026.
+LB aka LABAT is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Le Confort Moderne, West on Sat, 14 Nov 2026.
 
 LB aka LABAT is a techno and house artist based in France, with 227 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Barcelona and 68 more. Often billed alongside DJ Gigola, Partiboi69 and Juicy Romance. Next up: Le Confort Moderne, West on Sat 14 Nov.
 
@@ -29,4 +29,4 @@ LB aka LABAT is a techno and house artist based in France, with 227 gigs on soun
 
 DJ Gigola, Partiboi69, Juicy Romance
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lbakalabat/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lbakalabat/)*

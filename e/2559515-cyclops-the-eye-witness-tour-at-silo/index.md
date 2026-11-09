@@ -1,6 +1,6 @@
 # Cyclops - The Eye Witness Tour at SILO
 
-Cyclops - The Eye Witness Tour at SILO on Sat 6 Feb, New York City. 1 artist: Cyclops. See the line-up on soundcheck.
+Cyclops - The Eye Witness Tour at SILO on Sat 6 Feb, New York City. 1 artist: Cyclops. Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

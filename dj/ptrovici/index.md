@@ -1,6 +1,6 @@
 # Ptrovici
 
-Ptrovici is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Happy Buddha, Vietnam on Thu, 31 Dec 2026.
+Ptrovici is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Happy Buddha, Vietnam on Thu, 31 Dec 2026.
 
 Ptrovici is a techno and house artist, with 3 gigs on soundcheck across Barcelona, Ho Chi Minh City and Vietnam. Often billed alongside Biliguudei, Bytz and Chris Wolter. Next up: Happy Buddha, Vietnam on Thu 31 Dec.
 
@@ -19,4 +19,4 @@ Ptrovici is a techno and house artist, with 3 gigs on soundcheck across Barcelon
 
 Biliguudei, Bytz, Chris Wolter
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ptrovici/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ptrovici/)*

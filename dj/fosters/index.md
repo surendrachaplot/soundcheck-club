@@ -1,6 +1,6 @@
 # Fosters
 
-Fosters is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at OneSixOne, Melbourne on Fri, 13 Nov 2026.
+Fosters is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at OneSixOne, Melbourne on Fri, 13 Nov 2026.
 
 Fosters is a techno and house artist based in Australia, with 56 gigs on soundcheck across Hobart and Melbourne. Often billed alongside HYBE, Mount Mike and TEMPER TANTRA. Next up: OneSixOne, Melbourne on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Fosters is a techno and house artist based in Australia, with 56 gigs on soundch
 
 HYBE, Mount Mike, TEMPER TANTRA
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fosters/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fosters/)*

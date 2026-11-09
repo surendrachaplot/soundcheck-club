@@ -1,6 +1,6 @@
 # Alex Nantaya
 
-Alex Nantaya is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Secret Place, Paris on Thu, 31 Dec 2026.
+Alex Nantaya is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Secret Place, Paris on Thu, 31 Dec 2026.
 
 Alex Nantaya is a techno and electro artist based in Switzerland, with 88 gigs on soundcheck across Bangkok, Basel, Beijing and Berlin and 13 more. Often billed alongside Gioski, Bours? and Doma. Next up: TBA - Secret Place, Paris on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Alex Nantaya is a techno and electro artist based in Switzerland, with 88 gigs o
 
 Gioski, Bours?, Doma
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexnantaya/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexnantaya/)*

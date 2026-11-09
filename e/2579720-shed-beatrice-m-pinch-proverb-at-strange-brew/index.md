@@ -1,6 +1,6 @@
 # Shed, Beatrice M. Pinch & Proverb at Strange Brew
 
-Shed, Beatrice M. Pinch & Proverb at Strange Brew on Sat 12 Dec, Bristol. 4 artists: Beatrice M., Pinch, Proverb and Shed. See the line-up on soundcheck.
+Shed, Beatrice M. Pinch & Proverb at Strange Brew on Sat 12 Dec, Bristol. 4 artists: Beatrice M., Pinch, Proverb and Shed. Techno and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

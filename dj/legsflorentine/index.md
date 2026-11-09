@@ -1,6 +1,6 @@
 # Legs Florentine
 
-Legs Florentine is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Handlebar, Toronto on Fri, 20 Nov 2026.
+Legs Florentine is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Handlebar, Toronto on Fri, 20 Nov 2026.
 
 Legs Florentine is a house and techno artist, with 5 gigs on soundcheck across Toronto. Often billed alongside Assassin Bug, Coy Haste and DJ RATA. Next up: Handlebar, Toronto on Fri 20 Nov.
 
@@ -21,4 +21,4 @@ Legs Florentine is a house and techno artist, with 5 gigs on soundcheck across T
 
 Assassin Bug, Coy Haste, DJ RATA
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/legsflorentine/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/legsflorentine/)*

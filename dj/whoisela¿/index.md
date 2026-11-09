@@ -1,6 +1,6 @@
 # Who is ela¿
 
-Who is ela¿ is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Grelle Forelle, Vienna on Fri, 4 Dec 2026.
+Who is ela¿ is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Grelle Forelle, Vienna on Fri, 4 Dec 2026.
 
 Who is ela¿ is a techno and trance artist based in Austria, with 50 gigs on soundcheck across Berlin, Munich and Vienna. Often billed alongside KRAWALLBARBIE, Anna Ullrich and BRX. Next up: Grelle Forelle, Vienna on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Who is ela¿ is a techno and trance artist based in Austria, with 50 gigs on sou
 
 KRAWALLBARBIE, Anna Ullrich, BRX (2)
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/whoisela¿/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/whoisela¿/)*

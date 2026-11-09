@@ -1,6 +1,6 @@
 # 9LALEY
 
-9LALEY is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Lokschuppen Berlin, Berlin on Wed, 11 Nov 2026.
+9LALEY is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Lokschuppen Berlin, Berlin on Wed, 11 Nov 2026.
 
 9LALEY is a trance and techno artist based in Germany, with 73 gigs on soundcheck across Amsterdam, Berlin, Cologne and Hannover and 2 more. Often billed alongside NAGINI, HIVEMIND and Praun. Next up: Lokschuppen Berlin, Berlin on Wed 11 Nov.
 
@@ -26,4 +26,4 @@
 
 NAGINI, HIVEMIND, Praun
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/9laley/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/9laley/)*

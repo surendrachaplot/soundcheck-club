@@ -1,6 +1,6 @@
 # Tom of England
 
-Tom of England is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Good Room, New York City on Sun, 22 Nov 2026.
+Tom of England is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Good Room, New York City on Sun, 22 Nov 2026.
 
 Tom of England is a house and acid artist based in United Kingdom, with 37 gigs on soundcheck across Athens, Bali, Berlin and Bristol and 10 more. Often billed alongside Jeno, Paul Nickerson and Tranquil Elephantizer. Next up: Good Room, New York City on Sun 22 Nov.
 
@@ -26,4 +26,4 @@ Tom of England is a house and acid artist based in United Kingdom, with 37 gigs 
 
 Jeno, Paul Nickerson, Tranquil Elephantizer
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomofengland/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomofengland/)*

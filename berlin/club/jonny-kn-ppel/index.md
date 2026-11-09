@@ -1,6 +1,6 @@
 # Jonny Knüppel
 
-Jonny Knüppel is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "JK x Trips & Ticks" on Sat, 14 Nov 2026.
+Jonny Knüppel is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "JK x Trips & Ticks" on Sat, 14 Nov 2026.
 
 Jonny Knüppel is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including Christian Kuhlmann, doob and jorke. See dates, start times and who's playing. Lilli-Henoch-Straße 10, 10405 Berlin.
 
@@ -16,4 +16,4 @@ Jonny Knüppel is a music venue in Berlin listed on soundcheck. 3 upcoming gigs,
 
 Lilli-Henoch-Straße 10, 10405 Berlin, Berlin
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/jonny-kn-ppel/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/jonny-kn-ppel/)*

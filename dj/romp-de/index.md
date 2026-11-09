@@ -1,6 +1,6 @@
 # romp (DE)
 
-romp (DE) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Turtur, Hamburg on Fri, 20 Nov 2026.
+romp (DE) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Turtur, Hamburg on Fri, 20 Nov 2026.
 
 romp (DE) is a techno and house artist based in Germany, with 3 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Ali Rajat, Bouncing Mirrors and Dino S. Next up: Turtur, Hamburg on Fri 20 Nov.
 
@@ -19,4 +19,4 @@ romp (DE) is a techno and house artist based in Germany, with 3 gigs on soundche
 
 Ali Rajat, Bouncing Mirrors, Dino S
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/romp-de/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/romp-de/)*

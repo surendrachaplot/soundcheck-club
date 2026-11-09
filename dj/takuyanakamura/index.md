@@ -1,6 +1,6 @@
 # Takuya Nakamura
 
-Takuya Nakamura is a Jungle and Jazz artist with 11 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Music Box, San Diego on Fri, 20 Nov 2026.
+Takuya Nakamura is a Jungle and Jazz artist with 11 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Music Box, San Diego on Fri, 20 Nov 2026.
 
 Takuya Nakamura is a jungle and jazz artist based in Japan, with 124 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bangkok and 42 more. Often billed alongside rmzi, Aanandi and Doc Scott. Next up: Music Box, San Diego on Fri 20 Nov.
 
@@ -35,4 +35,4 @@ Takuya Nakamura is a jungle and jazz artist based in Japan, with 124 gigs on sou
 
 rmzi, Aanandi, Doc Scott
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/takuyanakamura/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/takuyanakamura/)*

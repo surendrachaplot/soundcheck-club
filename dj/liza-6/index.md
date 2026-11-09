@@ -1,6 +1,6 @@
 # LIZA (6)
 
-LIZA (6) is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Joule, Osaka on Sat, 14 Nov 2026.
+LIZA (6) is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Joule, Osaka on Sat, 14 Nov 2026.
 
 LIZA is a techno and industrial artist based in Japan, with 37 gigs on soundcheck across Osaka. Often billed alongside FENGX2, ZAGUN and 死者蘇生CH. Next up: Joule, Osaka on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ LIZA is a techno and industrial artist based in Japan, with 37 gigs on soundchec
 
 FENGX2, ZAGUN, 死者蘇生CH
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/liza-6/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/liza-6/)*

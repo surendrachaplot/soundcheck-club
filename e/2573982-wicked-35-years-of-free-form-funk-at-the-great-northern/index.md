@@ -1,6 +1,6 @@
 # Wicked - 35 Years of Free Form Funk at The Great Northern
 
-Wicked - 35 Years of Free Form Funk at The Great Northern on Sat 19 Dec, San Francisco/Oakland. 3 artists: Jeno, Tom of England and Tranquil Elephantizer. Acid and Deep House. See the line-up on soundcheck.
+Wicked - 35 Years of Free Form Funk at The Great Northern on Sat 19 Dec, San Francisco/Oakland. 3 artists: Jeno, Tom of England and Tranquil Elephantizer. Deep House and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

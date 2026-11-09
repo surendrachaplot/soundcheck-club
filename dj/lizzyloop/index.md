@@ -1,6 +1,6 @@
 # Lizzy LoOp
 
-Lizzy LoOp is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - instagram | telegram: @klangsubstanz, Berlin on Sat, 12 Dec 2026.
+Lizzy LoOp is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - instagram | telegram: @klangsubstanz, Berlin on Sat, 12 Dec 2026.
 
 Lizzy LoOp is a house and techno artist based in Germany, with 4 gigs on soundcheck across Berlin. Often billed alongside Aslan Venom, Einfach Taffo and Jabuka. Next up: TBA - instagram | telegram: @klangsubstanz, Berlin on Sat 12 Dec.
 
@@ -20,4 +20,4 @@ Lizzy LoOp is a house and techno artist based in Germany, with 4 gigs on soundch
 
 Aslan Venom, Einfach Taffo, Jabuka
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lizzyloop/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lizzyloop/)*

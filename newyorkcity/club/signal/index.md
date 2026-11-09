@@ -1,14 +1,13 @@
 # Signal
 
-Signal is a music venue in New York City with 13 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "AUX: Mariposa, My Flower, J.Richards" on Sun, 8 Nov 2026.
+Signal is a music venue in New York City with 12 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Archivio + 1: Kiyoshi, Pablo Romero, Daniel Dutts," on Thu, 12 Nov 2026.
 
-Signal is a music venue in New York City listed on soundcheck. 13 upcoming gigs, with line-ups including 98dots, AceMo, Adriana Ruas and Alfonsvs and 2 more. See dates, start times and who's playing. 175 Morgan Ave, Brooklyn, NY 11237.
+Signal is a music venue in New York City listed on soundcheck. 12 upcoming gigs, with line-ups including 98dots, AceMo, Adriana Ruas and Alfonsvs and 2 more. See dates, start times and who's playing. 175 Morgan Ave, Brooklyn, NY 11237.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 8 Nov 2026 | AUX: Mariposa, My Flower, J.Richards | J. Richards, Mariposa, My Flower |
 | Thu, 12 Nov 2026 | Archivio + 1: Kiyoshi, Pablo Romero, Daniel Dutts, | Daniel Dutts, Kiyoshi, Pablo Romero |
 | Fri, 13 Nov 2026 | Night & Day: Ellen Allien, Rrose, Spekki Webu, KYRUH, Connor Wrong | Connor Wrong, Ellen Allien, KYRUH, Rrose, Spekki Webu |
 | Sat, 14 Nov 2026 | Gio Shengelia, Woreq, Tripmastaz, YONIT & Amba, CHKLTE | Amba, CHKLTE, Gio Shengelia, Tripmastaz, Woreq, YONIT |
@@ -18,9 +17,10 @@ Signal is a music venue in New York City listed on soundcheck. 13 upcoming gigs,
 | Wed, 25 Nov 2026 | Hector Romero & Robbie Lumpkin | Hector Romero, Robbie Lumpkin |
 | Fri, 27 Nov 2026 | Night & Day: Janina, Peachlyfe, Yazzus, Adriana Ruas, Alfonsvs, Jek b2b 98dots | 98dots, Adriana Ruas, Alfonsvs, Annie Lew, Janina, Jek (US), Peachlyfe, Yazzus |
 | Sat, 28 Nov 2026 | Galcher Lustwerk (LIVE), AceMo, Lauren Flax, Devoye | AceMo, Devoye, Galcher Lustwerk, Lauren Flax |
+| Sat, 5 Dec 2026 | E.LINA b2b Hugo Martinez, Maxime dB, Clovis b2b Matt Foley, Nate S.U | Clovis, E.LINA, Hugo Martinez, Matt Foley, Maxime dB, Nate S.U |
 
 ## Address
 
 175 Morgan Ave, Brooklyn, NY 11237, New York City
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/signal/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/signal/)*

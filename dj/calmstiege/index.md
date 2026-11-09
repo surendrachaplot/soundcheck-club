@@ -1,8 +1,8 @@
 # Calm Stiege
 
-Calm Stiege is a UK Funky and Garage artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Four Quarters, London on Fri, 27 Nov 2026.
+Calm Stiege is a UK Funky and Garage artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Four Quarters, London on Fri, 27 Nov 2026.
 
-Calm Stiege is an uk funky and garage artist based in United Kingdom, with 26 gigs on soundcheck across London, Nottingham and Poznan. Often billed alongside Latec0mer, Izzi and Sachana. Next up: Four Quarters, London on Fri 27 Nov.
+Calm Stiege is an uk funky and garage artist based in United Kingdom, with 27 gigs on soundcheck across London, Nottingham and Poznan. Often billed alongside Latec0mer, Izzi and Sachana. Next up: Four Quarters, London on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Calm Stiege is an uk funky and garage artist based in United Kingdom, with 26 gi
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Four Quarters | London |
 | Sat, 28 Nov 2026 | Ninety One | London |
+| Fri, 11 Dec 2026 | Tola | London |
 | Thu, 31 Dec 2026 | The Fox and Firkin | London |
 
 ## Recently played
@@ -27,4 +28,4 @@ Calm Stiege is an uk funky and garage artist based in United Kingdom, with 26 gi
 
 Latec0mer, Izzi, Sachana
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/calmstiege/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/calmstiege/)*

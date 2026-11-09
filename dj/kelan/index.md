@@ -1,6 +1,6 @@
 # Kelan
 
-Kelan is a Industrial and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at The Island, Bristol on Thu, 31 Dec 2026.
+Kelan is a Industrial and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Island, Bristol on Thu, 31 Dec 2026.
 
 Kelan is an industrial and club artist based in United Kingdom, with 4 gigs on soundcheck across Bristol, London and Paris. Often billed alongside ALYA L, Anina and Bruce. Next up: The Island, Bristol on Thu 31 Dec.
 
@@ -20,4 +20,4 @@ Kelan is an industrial and club artist based in United Kingdom, with 4 gigs on s
 
 ALYA L, Anina, Bruce
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kelan/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kelan/)*

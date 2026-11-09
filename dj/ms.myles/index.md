@@ -1,6 +1,6 @@
 # MS.MYLES
 
-MS.MYLES is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Osler Records, Toronto on Sat, 21 Nov 2026.
+MS.MYLES is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Osler Records, Toronto on Sat, 21 Nov 2026.
 
 MS.MYLES is a club and techno artist based in Canada, with 37 gigs on soundcheck across Toronto. Often billed alongside Sakina Garcia, Chissmiss Cherry and Ace Dillinger. Next up: Osler Records, Toronto on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ MS.MYLES is a club and techno artist based in Canada, with 37 gigs on soundcheck
 
 Sakina Garcia, Chissmiss Cherry, Ace Dillinger
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ms.myles/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ms.myles/)*

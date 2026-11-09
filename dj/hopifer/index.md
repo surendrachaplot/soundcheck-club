@@ -1,6 +1,6 @@
 # hopifer
 
-hopifer is a Pop and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Val’s Lesbian Bar, Philadelphia on Sat, 21 Nov 2026.
+hopifer is a Pop and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Val’s Lesbian Bar, Philadelphia on Sat, 21 Nov 2026.
 
 hopifer is a pop and club artist based in United States of America, with 42 gigs on soundcheck across Philadelphia. Often billed alongside Firestone, Deluxe Ultra and Gravers Lane. Next up: Val’s Lesbian Bar, Philadelphia on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ hopifer is a pop and club artist based in United States of America, with 42 gigs
 
 Firestone, Deluxe Ultra, Gravers Lane
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hopifer/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hopifer/)*

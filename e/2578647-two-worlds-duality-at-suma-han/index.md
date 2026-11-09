@@ -1,6 +1,6 @@
 # Two Worlds Duality at Suma Han
 
-Two Worlds Duality at Suma Han on Fri 13 Nov, Istanbul. 4 artists: 4dali, CHTDEVIL, ONI BLVCK and Sadriano. Techno and Club. See the line-up on soundcheck.
+Two Worlds Duality at Suma Han on Fri 13 Nov, Istanbul. 3 artists: 4dali, CHTDEVIL and ONI BLVCK. Techno and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,5 @@ Two Worlds Duality at Suma Han on Fri 13 Nov, Istanbul. 4 artists: 4dali, CHTDEV
 - 4dali
 - CHTDEVIL
 - ONI BLVCK
-- Sadriano
 
 *Source: [soundcheck](https://soundcheck.club/e/2578647-two-worlds-duality-at-suma-han/)*

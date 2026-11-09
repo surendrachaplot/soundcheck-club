@@ -1,6 +1,6 @@
 # Bliss Kiss
 
-Bliss Kiss is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Ciało, Wroclaw on Sat, 5 Dec 2026.
+Bliss Kiss is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Ciało, Wroclaw on Sat, 5 Dec 2026.
 
 Bliss Kiss is a house and trance artist based in Poland, with 15 gigs on soundcheck across Krakow, Poznan, Warsaw and Wroclaw. Often billed alongside AGILY, Aexhy and Aftersunday. Next up: Ciało, Wroclaw on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Bliss Kiss is a house and trance artist based in Poland, with 15 gigs on soundch
 
 AGILY, Aexhy, Aftersunday
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blisskiss/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blisskiss/)*

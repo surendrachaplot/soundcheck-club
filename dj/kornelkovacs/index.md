@@ -1,14 +1,15 @@
 # Kornél Kovács
 
-Kornél Kovács is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Under Bron, Stockholm on Thu, 31 Dec 2026.
+Kornél Kovács is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Under Bron, Stockholm on Thu, 31 Dec 2026.
 
-Kornél Kovács is a house and techno artist based in Sweden, with 100 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Budapest and 29 more. Often billed alongside Axel Boman, Pedrodollar and Studio Barnhus. Next up: Under Bron, Stockholm on Thu 31 Dec.
+Kornél Kovács is a house and techno artist based in Sweden, with 101 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Budapest and 29 more. Often billed alongside Axel Boman, Pedrodollar and Studio Barnhus. Next up: Under Bron, Stockholm on Thu 31 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 31 Dec 2026 | Under Bron | Stockholm |
+| Sat, 6 Feb 2027 | The Berkeley Suite | Glasgow |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Kornél Kovács is a house and techno artist based in Sweden, with 100 gigs on s
 
 Axel Boman, Pedrodollar, Studio Barnhus
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kornelkovacs/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kornelkovacs/)*

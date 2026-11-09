@@ -1,6 +1,6 @@
 # Bisou Mayfair
 
-Bisou Mayfair is a music venue in London with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. The next is "La French Kiss" on Fri, 8 Jan 2027.
+Bisou Mayfair is a music venue in London with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. The next is "La French Kiss" on Fri, 8 Jan 2027.
 
 Bisou Mayfair is a music venue in London listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 9 Swallow Street, London, W1B 4DF.
 
@@ -14,4 +14,4 @@ Bisou Mayfair is a music venue in London listed on soundcheck. 1 upcoming gig. S
 
 9 Swallow Street, London, W1B 4DF, London
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/bisou-mayfair/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/bisou-mayfair/)*

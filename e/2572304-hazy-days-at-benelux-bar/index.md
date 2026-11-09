@@ -1,6 +1,6 @@
 # HAZY DAYS at Benelux BAR
 
-HAZY DAYS at Benelux BAR on Sun 6 Dec, Amsterdam. 3 artists: Amandla, Aron Friedman and Galen. See the line-up on soundcheck.
+HAZY DAYS at Benelux BAR on Sun 6 Dec, Amsterdam. 6 artists: Amandla, Aron Friedman, Charmaine and Galen and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,9 @@ HAZY DAYS at Benelux BAR on Sun 6 Dec, Amsterdam. 3 artists: Amandla, Aron Fried
 
 - Amandla
 - Aron Friedman
+- Charmaine
 - Galen
+- Intergalactic Gary
+- Thara Bergen
 
 *Source: [soundcheck](https://soundcheck.club/e/2572304-hazy-days-at-benelux-bar/)*

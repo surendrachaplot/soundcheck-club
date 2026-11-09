@@ -1,6 +1,6 @@
 # HLM (UK)
 
-HLM (UK) is a Club artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Wibar, Netherlands on Sat, 12 Dec 2026.
+HLM (UK) is a Club artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Wibar, Netherlands on Sat, 12 Dec 2026.
 
 HLM (UK) is a club artist based in China, with 5 gigs on soundcheck across London, Netherlands and Vienna. Often billed alongside Thao, AIS and Abobo. Next up: Wibar, Netherlands on Sat 12 Dec.
 
@@ -21,4 +21,4 @@ HLM (UK) is a club artist based in China, with 5 gigs on soundcheck across Londo
 
 Thao, AIS (2), Abobo
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hlm-1/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hlm-1/)*

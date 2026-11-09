@@ -1,6 +1,6 @@
 # Anastazja
 
-Anastazja is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Good Room, New York City on Fri, 13 Nov 2026.
+Anastazja is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Good Room, New York City on Fri, 13 Nov 2026.
 
 Anastazja is a house and techno artist based in United States of America, with 39 gigs on soundcheck across Chicago, Ibiza, Istanbul and Lisbon and 14 more. Often billed alongside Ayanna Heaven, CTRLZORA and DJ Holographic. Next up: Good Room, New York City on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Anastazja is a house and techno artist based in United States of America, with 3
 
 Ayanna Heaven, CTRLZORA, DJ Holographic
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anastazja/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anastazja/)*

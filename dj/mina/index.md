@@ -1,6 +1,6 @@
 # MINÄ
 
-MINÄ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at The Flinders, Sydney on Sat, 19 Dec 2026.
+MINÄ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Flinders, Sydney on Sat, 19 Dec 2026.
 
 MINÄ is a techno and house artist based in United Kingdom, with 95 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 32 more. Often billed alongside Bryte, SANA and Tash LC. Next up: The Flinders, Sydney on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ MINÄ is a techno and house artist based in United Kingdom, with 95 gigs on soun
 
 Bryte, SANA, Tash LC
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mina/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mina/)*

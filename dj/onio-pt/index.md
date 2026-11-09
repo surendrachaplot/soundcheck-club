@@ -1,6 +1,6 @@
 # Onio (PT)
 
-Onio (PT) is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Pérola Negra Club, Porto on Fri, 13 Nov 2026.
+Onio (PT) is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Pérola Negra Club, Porto on Fri, 13 Nov 2026.
 
 Onio (PT) is a techno and club artist based in Portugal, with 31 gigs on soundcheck across Berlin, Glasgow, Lisbon and Porto. Often billed alongside Caliente Isa, CLYTA and Oldyungmayn. Next up: Pérola Negra Club, Porto on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Onio (PT) is a techno and club artist based in Portugal, with 31 gigs on soundch
 
 Caliente Isa, CLYTA, Oldyungmayn
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/onio-pt/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/onio-pt/)*

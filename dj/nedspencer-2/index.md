@@ -1,6 +1,6 @@
 # Ned Spencer (2)
 
-Ned Spencer (2) is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Patterns, Brighton on Fri, 11 Dec 2026.
+Ned Spencer (2) is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Patterns, Brighton on Fri, 11 Dec 2026.
 
 Ned Spencer is a house and garage artist based in United Kingdom, with 5 gigs on soundcheck across Brighton. Often billed alongside Asa Ray, DAVYROE and INKY MCKAY. Next up: Patterns, Brighton on Fri 11 Dec.
 
@@ -21,4 +21,4 @@ Ned Spencer is a house and garage artist based in United Kingdom, with 5 gigs on
 
 Asa Ray, DAVYROE, INKY MCKAY
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nedspencer-2/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nedspencer-2/)*

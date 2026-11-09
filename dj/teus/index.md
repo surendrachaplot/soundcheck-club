@@ -1,6 +1,6 @@
 # TEUS
 
-TEUS is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Baby Club, Marseille on Sat, 21 Nov 2026.
+TEUS is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Baby Club, Marseille on Sat, 21 Nov 2026.
 
 TEUS is a house and minimal artist based in France, with 8 gigs on soundcheck across Barcelona, Brussels, Lyon and Marseille and 3 more. Often billed alongside Alya, ADEZ and D Jaguar. Next up: Baby Club, Marseille on Sat 21 Nov.
 
@@ -24,4 +24,4 @@ TEUS is a house and minimal artist based in France, with 8 gigs on soundcheck ac
 
 Alya, ADEZ, D Jaguar
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/teus/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/teus/)*

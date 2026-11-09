@@ -1,6 +1,6 @@
 # Molly Cules
 
-Molly Cules is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Akhnaton, Amsterdam on Fri, 18 Dec 2026.
+Molly Cules is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Akhnaton, Amsterdam on Fri, 18 Dec 2026.
 
 Molly Cules is a techno artist based in Netherlands, with 3 gigs on soundcheck across Amsterdam. Often billed alongside Shady Lady, YOJIBERI and issagirl. Next up: Akhnaton, Amsterdam on Fri 18 Dec.
 
@@ -19,4 +19,4 @@ Molly Cules is a techno artist based in Netherlands, with 3 gigs on soundcheck a
 
 Shady Lady, YOJIBERI, issagirl
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mollycules/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mollycules/)*

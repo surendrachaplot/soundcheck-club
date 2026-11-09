@@ -1,6 +1,6 @@
 # Rafiki (IN)
 
-Rafiki (IN) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Foothills of Nandi, Karahalli, Bangalore on Sat, 5 Dec 2026.
+Rafiki (IN) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Foothills of Nandi, Karahalli, Bangalore on Sat, 5 Dec 2026.
 
 Rafiki (IN) is a house and techno artist based in India, with 10 gigs on soundcheck across Bangalore, Brussels, Hanoi and Lisbon and 5 more. Often billed alongside Coline Cornélis, Dreamstates and Umbra.. Next up: TBA - Foothills of Nandi, Karahalli, Bangalore on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Rafiki (IN) is a house and techno artist based in India, with 10 gigs on soundch
 
 Coline Cornélis, Dreamstates, Umbra.
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rafikiin/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rafikiin/)*

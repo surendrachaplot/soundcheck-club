@@ -1,6 +1,6 @@
 # Palms Trax
 
-Palms Trax is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Ghent, Ghent on Wed, 11 Nov 2026.
+Palms Trax is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Ghent, Ghent on Wed, 11 Nov 2026.
 
 Palms Trax is a house and techno artist based in Germany, with 219 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 67 more. Often billed alongside Job Jobse, Peach and Francesco Del Garda. Next up: TBA - Ghent, Ghent on Wed 11 Nov.
 
@@ -34,4 +34,4 @@ Palms Trax is a house and techno artist based in Germany, with 219 gigs on sound
 
 Job Jobse, Peach, Francesco Del Garda
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/palmstrax/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/palmstrax/)*

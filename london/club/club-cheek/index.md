@@ -1,6 +1,6 @@
 # Club Cheek
 
-Club Cheek is a music venue in London with 12 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "[CANCELLED] Amadeus presents: Ariane V, Serious Hots, WildWood (Live) and Flash Mitra" on Fri, 13 Nov 2026.
+Club Cheek is a music venue in London with 12 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "[CANCELLED] Amadeus presents: Ariane V, Serious Hots, WildWood (Live) and Flash Mitra" on Fri, 13 Nov 2026.
 
 Club Cheek is a music venue in London listed on soundcheck. 12 upcoming gigs, with line-ups including Ruby SD, Ariane V, batgirl and Bekefi and 2 more. See dates, start times and who's playing. 302-304 Barrington Road, London, SW9 7JJ.
 
@@ -23,4 +23,4 @@ Club Cheek is a music venue in London listed on soundcheck. 12 upcoming gigs, wi
 
 302-304 Barrington Road, London, SW9 7JJ, London
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-cheek/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-cheek/)*

@@ -1,6 +1,6 @@
 # Nina Las Vegas
 
-Nina Las Vegas is a Club and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Pier 48's Shed A, San Francisco/Oakland on Sat, 28 Nov 2026.
+Nina Las Vegas is a Club and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Pier 48's Shed A, San Francisco/Oakland on Sat, 28 Nov 2026.
 
 Nina Las Vegas is a club and house artist based in Australia, with 18 gigs on soundcheck across Bali, Denver, Edinburgh and London and 6 more. Often billed alongside dameeeela, Bob Moses and Boys Noize. Next up: Pier 48's Shed A, San Francisco/Oakland on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Nina Las Vegas is a club and house artist based in Australia, with 18 gigs on so
 
 dameeeela, Bob Moses, Boys Noize
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ninalasvegas/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ninalasvegas/)*

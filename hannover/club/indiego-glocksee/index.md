@@ -1,6 +1,6 @@
 # Indiego Glocksee
 
-Indiego Glocksee is a music venue in Hannover with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "3YRS - RAUH IM INDIEGO" on Sat, 14 Nov 2026.
+Indiego Glocksee is a music venue in Hannover with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "3YRS - RAUH IM INDIEGO" on Sat, 14 Nov 2026.
 
 Indiego Glocksee is a music venue in Hannover listed on soundcheck. 3 upcoming gigs, with line-ups including BNZN, Cari Lekebusch, Cryptofauna and DJ SPORTSCHUH and 2 more. See dates, start times and who's playing. Glockseestr.35; 30169 Hannover; Germany.
 
@@ -16,4 +16,4 @@ Indiego Glocksee is a music venue in Hannover listed on soundcheck. 3 upcoming g
 
 Glockseestr.35; 30169 Hannover; Germany, Hannover
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/hannover/club/indiego-glocksee/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/hannover/club/indiego-glocksee/)*

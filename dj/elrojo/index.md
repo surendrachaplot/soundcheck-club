@@ -1,6 +1,6 @@
 # elRojo
 
-elRojo is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA, Mexico City on Sat, 14 Nov 2026.
+elRojo is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA, Mexico City on Sat, 14 Nov 2026.
 
 elRojo is a house and minimal artist based in Mexico, with 34 gigs on soundcheck across Chicago, Mexico City, New York City and Pittsburgh and 1 more. Often billed alongside ViiV, Bastard Love and Rubinskee. Next up: TBA, Mexico City on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ elRojo is a house and minimal artist based in Mexico, with 34 gigs on soundcheck
 
 ViiV, Bastard Love, Rubinskee
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elrojo/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elrojo/)*

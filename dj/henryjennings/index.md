@@ -1,6 +1,6 @@
 # Henry Jennings
 
-Henry Jennings is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Mood Ring, New York City on Fri, 13 Nov 2026.
+Henry Jennings is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Mood Ring, New York City on Fri, 13 Nov 2026.
 
 Henry Jennings is a club and techno artist based in United States of America, with 6 gigs on soundcheck across New York City and Seattle. Often billed alongside BUNZ, Peregrine (US) and Ben Zo. Next up: Mood Ring, New York City on Fri 13 Nov.
 
@@ -22,4 +22,4 @@ Henry Jennings is a club and techno artist based in United States of America, wi
 
 BUNZ, Peregrine (US), Ben Zo
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/henryjennings/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/henryjennings/)*

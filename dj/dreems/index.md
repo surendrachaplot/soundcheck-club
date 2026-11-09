@@ -1,6 +1,6 @@
 # Dreems
 
-Dreems is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA, Victoria on Fri, 6 Nov 2026.
+Dreems is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA, Victoria on Fri, 6 Nov 2026.
 
 Dreems is a house and techno artist based in Armenia, with 19 gigs on soundcheck across Berlin, Brisbane, Glasgow and London and 4 more. Often billed alongside Darcy Justice, Babycino and DJ Raff. Next up: TBA, Victoria on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Dreems is a house and techno artist based in Armenia, with 19 gigs on soundcheck
 
 Darcy Justice, Babycino, DJ Raff
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dreems/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dreems/)*

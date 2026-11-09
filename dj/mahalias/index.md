@@ -1,6 +1,6 @@
 # m̶a̶h̶[alias]
 
-m̶a̶h̶[alias] is a Drum & Bass and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at M.O.T, London on Wed, 11 Nov 2026.
+m̶a̶h̶[alias] is a Drum & Bass and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at M.O.T, London on Wed, 11 Nov 2026.
 
 m̶a̶h̶[alias] is a drum & bass and club artist based in United Kingdom, with 3 gigs on soundcheck across London. Often billed alongside m-onz, Chris Speed Visuals and SYNTƏL8. Next up: M.O.T, London on Wed 11 Nov.
 
@@ -19,4 +19,4 @@ m̶a̶h̶[alias] is a drum & bass and club artist based in United Kingdom, with 
 
 m-onz, Chris Speed Visuals, SYNTƏL8
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mahalias/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mahalias/)*

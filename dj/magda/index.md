@@ -1,8 +1,8 @@
 # Magda
 
-Magda is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at D-Edge RIO, Rio de Janeiro on Fri, 13 Nov 2026.
+Magda is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at D-Edge RIO, Rio de Janeiro on Fri, 13 Nov 2026.
 
-Magda is a techno and house artist based in United States of America, with 183 gigs on soundcheck across Amsterdam, Austin, Barcelona and Beijing and 60 more. Often billed alongside Mike Servito, Morgan and Tomas Station. Next up: D-Edge RIO, Rio de Janeiro on Fri 13 Nov.
+Magda is a techno and house artist based in United States of America, with 184 gigs on soundcheck across Amsterdam, Austin, Barcelona and Beijing and 60 more. Often billed alongside Mike Servito, Morgan and Tomas Station. Next up: D-Edge RIO, Rio de Janeiro on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Magda is a techno and house artist based in United States of America, with 183 g
 | Thu, 19 Nov 2026 | Club Vibe | Brazil |
 | Fri, 11 Dec 2026 | Kauz | Zurich |
 | Sat, 26 Dec 2026 | RSO.BERLIN | Berlin |
+| Sat, 6 Feb 2027 | Cadavra | Madrid |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Magda is a techno and house artist based in United States of America, with 183 g
 
 Mike Servito, Morgan, Tomas Station
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/magda/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/magda/)*

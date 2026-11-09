@@ -1,8 +1,8 @@
 # _goodbyeforever_
 
-_goodbyeforever_ is a Techno and Hardcore artist with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Joule, Osaka on Sat, 14 Nov 2026.
+_goodbyeforever_ is a Techno and Hardcore artist with 5 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Joule, Osaka on Sat, 14 Nov 2026.
 
-_goodbyeforever_ is a techno and hardcore artist based in Japan, with 77 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside FENGX2, ZAGUN and 死者蘇生CH. Next up: Joule, Osaka on Sat 14 Nov.
+_goodbyeforever_ is a techno and hardcore artist based in Japan, with 78 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside FENGX2, ZAGUN and 死者蘇生CH. Next up: Joule, Osaka on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ _goodbyeforever_ is a techno and hardcore artist based in Japan, with 77 gigs on
 | Sat, 14 Nov 2026 | Joule | Osaka |
 | Sat, 14 Nov 2026 | Triangle | Osaka |
 | Sat, 14 Nov 2026 | Blvck Water | Osaka |
+| Sat, 21 Nov 2026 | Blvck Water | Osaka |
 | Sat, 12 Dec 2026 | Blvck Water | Osaka |
 
 ## Recently played
@@ -28,4 +29,4 @@ _goodbyeforever_ is a techno and hardcore artist based in Japan, with 77 gigs on
 
 FENGX2, ZAGUN, 死者蘇生CH
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/_goodbyeforever_/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/_goodbyeforever_/)*

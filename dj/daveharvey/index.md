@@ -1,6 +1,6 @@
 # Dave Harvey
 
-Dave Harvey is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at The Garden Tisno, Croatia on Wed, 7 Jul 2027.
+Dave Harvey is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Garden Tisno, Croatia on Wed, 7 Jul 2027.
 
 Dave Harvey is a house and techno artist based in United Kingdom, with 73 gigs on soundcheck across Amsterdam, Belgrade, Bristol and Bucharest and 13 more. Often billed alongside Ellie Stokes, Chez de Milo and Felix Dickinson. Next up: The Garden Tisno, Croatia on Wed 7 Jul.
 
@@ -25,4 +25,4 @@ Dave Harvey is a house and techno artist based in United Kingdom, with 73 gigs o
 
 Ellie Stokes, Chez de Milo, Felix Dickinson
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daveharvey/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daveharvey/)*

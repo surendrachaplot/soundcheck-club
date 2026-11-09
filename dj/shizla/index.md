@@ -1,6 +1,6 @@
 # Shizla
 
-Shizla is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Eiger Studios, Leeds on Fri, 13 Nov 2026.
+Shizla is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Eiger Studios, Leeds on Fri, 13 Nov 2026.
 
 Shizla is a techno and trance artist, with 3 gigs on soundcheck across Leeds. Often billed alongside SUBVISIONS, t e s t p r e s s and švedka. Next up: Eiger Studios, Leeds on Fri 13 Nov.
 
@@ -19,4 +19,4 @@ Shizla is a techno and trance artist, with 3 gigs on soundcheck across Leeds. Of
 
 SUBVISIONS, t e s t p r e s s, švedka
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shizla/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shizla/)*

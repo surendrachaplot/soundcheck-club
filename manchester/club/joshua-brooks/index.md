@@ -1,6 +1,6 @@
 # Joshua Brooks
 
-Joshua Brooks is a music venue in Manchester with 14 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Laidback Luke" on Fri, 13 Nov 2026.
+Joshua Brooks is a music venue in Manchester with 14 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Laidback Luke" on Fri, 13 Nov 2026.
 
 Joshua Brooks is a music venue in Manchester listed on soundcheck. 14 upcoming gigs, with line-ups including AYDN, Benny L, CEEKAY and Chicane and 2 more. See dates, start times and who's playing. 106 Princess Street; Manchester; M1 6NG, United Kingdom.
 
@@ -23,4 +23,4 @@ Joshua Brooks is a music venue in Manchester listed on soundcheck. 14 upcoming g
 
 106 Princess Street; Manchester; M1 6NG, United Kingdom, Manchester
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/joshua-brooks/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/joshua-brooks/)*

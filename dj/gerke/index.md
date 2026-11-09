@@ -1,6 +1,6 @@
 # GERKE
 
-GERKE is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Tokonoma Club, Frankfurt on Fri, 20 Nov 2026.
+GERKE is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Tokonoma Club, Frankfurt on Fri, 20 Nov 2026.
 
 GERKE is a techno and trance artist based in Germany, with 27 gigs on soundcheck across Frankfurt. Often billed alongside Jannis Brinkmann, not even noticed and AUHAM. Next up: Tokonoma Club, Frankfurt on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ GERKE is a techno and trance artist based in Germany, with 27 gigs on soundcheck
 
 Jannis Brinkmann, not even noticed, AUHAM
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gerke/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gerke/)*

@@ -1,6 +1,6 @@
 # Mikropol
 
-Mikropol is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "heylucas" on Thu, 12 Nov 2026.
+Mikropol is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "heylucas" on Thu, 12 Nov 2026.
 
 Mikropol is a music venue in Berlin listed on soundcheck. 4 upcoming gigs. See dates, start times and who's playing. Nollendorfplatz 5, 10777 Berlin.
 
@@ -17,4 +17,4 @@ Mikropol is a music venue in Berlin listed on soundcheck. 4 upcoming gigs. See d
 
 Nollendorfplatz 5, 10777 Berlin, Berlin
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/mikropol/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/mikropol/)*

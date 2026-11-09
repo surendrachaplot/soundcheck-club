@@ -1,6 +1,6 @@
 # S_STEELE
 
-S_STEELE is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Club Cheek, London on Sat, 14 Nov 2026.
+S_STEELE is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Club Cheek, London on Sat, 14 Nov 2026.
 
 S_STEELE is a club and techno artist based in United Kingdom, with 63 gigs on soundcheck across Barcelona, London and San Francisco/Oakland. Often billed alongside teleopath, Bekefi and Sam Londt. Next up: Club Cheek, London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ S_STEELE is a club and techno artist based in United Kingdom, with 63 gigs on so
 
 teleopath, Bekefi, Sam Londt
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/s_steele/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/s_steele/)*

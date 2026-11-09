@@ -1,6 +1,6 @@
 # KC Grad
 
-KC Grad is a music venue in Belgrade with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Ki Klop KC Grad" on Thu, 12 Nov 2026.
+KC Grad is a music venue in Belgrade with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Ki Klop KC Grad" on Thu, 12 Nov 2026.
 
 KC Grad is a music venue in Belgrade listed on soundcheck. 2 upcoming gigs, with line-ups including Ki Klop. See dates, start times and who's playing. Belgrade, 11000, Serbia.
 
@@ -15,4 +15,4 @@ KC Grad is a music venue in Belgrade listed on soundcheck. 2 upcoming gigs, with
 
 Belgrade, 11000, Serbia, Belgrade
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/kc-grad/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/kc-grad/)*

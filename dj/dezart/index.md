@@ -1,6 +1,6 @@
 # Dezart
 
-Dezart is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Le Grand Sud, Lille on Fri, 18 Dec 2026.
+Dezart is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Le Grand Sud, Lille on Fri, 18 Dec 2026.
 
 Dezart is a house and techno artist based in Netherlands, with 4 gigs on soundcheck across Amsterdam, Lille and Utrecht. Often billed alongside Abr., Afem Syko and Britney Speed (FR). Next up: Le Grand Sud, Lille on Fri 18 Dec.
 
@@ -20,4 +20,4 @@ Dezart is a house and techno artist based in Netherlands, with 4 gigs on soundch
 
 Abr., Afem Syko, Britney Speed (FR)
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dezart/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dezart/)*

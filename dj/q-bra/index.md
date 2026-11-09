@@ -1,6 +1,6 @@
 # Q-BRA
 
-Q-BRA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Electrowerkz, London on Fri, 13 Nov 2026.
+Q-BRA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Electrowerkz, London on Fri, 13 Nov 2026.
 
 Q-BRA is a techno and house artist based in Turkey, with 17 gigs on soundcheck across Istanbul and London. Often billed alongside 4-i, Mx. Sür and birgay. Next up: Electrowerkz, London on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Q-BRA is a techno and house artist based in Turkey, with 17 gigs on soundcheck a
 
 4-i, Mx. Sür, birgay
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/q-bra/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/q-bra/)*

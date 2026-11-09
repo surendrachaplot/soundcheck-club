@@ -1,6 +1,6 @@
 # Bardo (1)
 
-Bardo (1) is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Treefort Music Hall, Idaho on Wed, 31 Mar 2027.
+Bardo (1) is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Treefort Music Hall, Idaho on Wed, 31 Mar 2027.
 
 Bardo is a techno and ambient artist based in Spain, with 12 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Idaho. Often billed alongside Charlie Caves, Ousia Sound and Phalcon. Next up: Treefort Music Hall, Idaho on Wed 31 Mar.
 
@@ -25,4 +25,4 @@ Bardo is a techno and ambient artist based in Spain, with 12 gigs on soundcheck 
 
 Charlie Caves, Ousia Sound, Phalcon
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bardo-1/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bardo-1/)*

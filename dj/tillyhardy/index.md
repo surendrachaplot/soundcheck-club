@@ -1,14 +1,13 @@
 # Tilly Hardy
 
-Tilly Hardy is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Revolver Upstairs, Melbourne on Mon, 9 Nov 2026.
+Tilly Hardy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at 7 Palmer Parade, Cremorne 3121, Melbourne on Fri, 1 Jan 2027.
 
-Tilly Hardy is a house and techno artist based in Australia, with 4 gigs on soundcheck across Melbourne. Often billed alongside Ben Silver, Boogs and Dj Bouncy. Next up: Revolver Upstairs, Melbourne on Mon 9 Nov.
+Tilly Hardy is a house and techno artist based in Australia, with 4 gigs on soundcheck across Melbourne. Often billed alongside Ben Silver, Boogs and Dj Bouncy. Next up: 7 Palmer Parade, Cremorne 3121, Melbourne on Fri 1 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 9 Nov 2026 | Revolver Upstairs | Melbourne |
 | Fri, 1 Jan 2027 | 7 Palmer Parade, Cremorne 3121 | Melbourne |
 
 ## Recently played
@@ -20,4 +19,4 @@ Tilly Hardy is a house and techno artist based in Australia, with 4 gigs on soun
 
 Ben Silver, Boogs, Dj Bouncy
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tillyhardy/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tillyhardy/)*

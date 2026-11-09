@@ -1,6 +1,6 @@
 # Le Petit Salon
 
-Le Petit Salon is a music venue in Lyon with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "23:59: TNT, RDØ, Istigkeit, Glaskeen - R2: DPMØ, HERMOS" on Fri, 20 Nov 2026.
+Le Petit Salon is a music venue in Lyon with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "23:59: TNT, RDØ, Istigkeit, Glaskeen - R2: DPMØ, HERMOS" on Fri, 20 Nov 2026.
 
 Le Petit Salon is a music venue in Lyon listed on soundcheck. 4 upcoming gigs, with line-ups including Glaskeen, Istigkeit, MATRAKK and Maudux and 1 more. See dates, start times and who's playing. Rue de Cronstadt 69007 Lyon France.
 
@@ -17,4 +17,4 @@ Le Petit Salon is a music venue in Lyon listed on soundcheck. 4 upcoming gigs, w
 
 Rue de Cronstadt 69007 Lyon France, Lyon
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/le-petit-salon/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/le-petit-salon/)*

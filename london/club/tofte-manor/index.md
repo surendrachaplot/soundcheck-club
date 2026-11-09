@@ -1,6 +1,6 @@
 # Tofte Manor
 
-Tofte Manor is a music venue in London with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Labyrinth Open Air: Sasha & John Digweed 6 Hour Set" on Sat, 3 Jul 2027.
+Tofte Manor is a music venue in London with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Labyrinth Open Air: Sasha & John Digweed 6 Hour Set" on Sat, 3 Jul 2027.
 
 Tofte Manor is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Cinthie, John Digweed, Erol Alkan and James Lavelle and 2 more. See dates, start times and who's playing. Souldrop Rd, Sharnbrook, Bedford MK44 1HH, United Kingdom.
 
@@ -15,4 +15,4 @@ Tofte Manor is a music venue in London listed on soundcheck. 2 upcoming gigs, wi
 
 Souldrop Rd, Sharnbrook, Bedford MK44 1HH, United Kingdom, London
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/tofte-manor/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/tofte-manor/)*

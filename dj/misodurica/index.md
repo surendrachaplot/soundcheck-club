@@ -1,6 +1,6 @@
 # misodurica
 
-misodurica is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Radost Music Club, Bratislava on Sat, 14 Nov 2026.
+misodurica is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Radost Music Club, Bratislava on Sat, 14 Nov 2026.
 
 misodurica is a techno and house artist based in Slovakia, with 5 gigs on soundcheck across Bratislava and Copenhagen. Often billed alongside charlii, jamadam and MIKLEI. Next up: Radost Music Club, Bratislava on Sat 14 Nov.
 
@@ -21,4 +21,4 @@ misodurica is a techno and house artist based in Slovakia, with 5 gigs on soundc
 
 charlii, jamadam, MIKLEI
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/misodurica/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/misodurica/)*

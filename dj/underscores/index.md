@@ -1,6 +1,6 @@
 # underscores
 
-underscores is a Electro and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Yamamori Tengu, Dublin on Mon, 9 Nov 2026.
+underscores is a Electro and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Yamamori Tengu, Dublin on Mon, 9 Nov 2026.
 
 underscores is an electro and house artist based in United States of America, with 12 gigs on soundcheck across Brussels, Chicago, Dublin and Glasgow and 5 more. Often billed alongside umru, FCUKERS and Sophia Stel. Next up: Yamamori Tengu, Dublin on Mon 9 Nov.
 
@@ -28,4 +28,4 @@ underscores is an electro and house artist based in United States of America, wi
 
 umru, FCUKERS, Sophia Stel
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/underscores/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/underscores/)*

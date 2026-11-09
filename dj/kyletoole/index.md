@@ -1,6 +1,6 @@
 # Kyle Toole
 
-Kyle Toole is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at radial, London on Fri, 27 Nov 2026.
+Kyle Toole is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at radial, London on Fri, 27 Nov 2026.
 
 Kyle Toole is a house and techno artist based in United Kingdom, with 101 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside Kian OK, DJ Dustin and Hamish & Toby. Next up: radial, London on Fri 27 Nov.
 
@@ -29,4 +29,4 @@ Kyle Toole is a house and techno artist based in United Kingdom, with 101 gigs o
 
 Kian OK, DJ Dustin, Hamish & Toby
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kyletoole/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kyletoole/)*

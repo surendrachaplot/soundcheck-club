@@ -1,6 +1,6 @@
 # Lemon & Mint
 
-Lemon & Mint is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at WARRECORDS, Antwerp on Sat, 14 Nov 2026.
+Lemon & Mint is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at WARRECORDS, Antwerp on Sat, 14 Nov 2026.
 
 Lemon & Mint are a jungle and drum & bass duo based in Mexico, with 4 gigs on soundcheck across Antwerp, Brussels and Lisbon. Often billed alongside Coco Bryce, Très Beau Paradis Fiscal and CHUBBZ. Next up: WARRECORDS, Antwerp on Sat 14 Nov.
 
@@ -20,4 +20,4 @@ Lemon & Mint are a jungle and drum & bass duo based in Mexico, with 4 gigs on so
 
 Coco Bryce, Très Beau Paradis Fiscal, CHUBBZ
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lemonmint/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lemonmint/)*

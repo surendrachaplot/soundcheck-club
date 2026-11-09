@@ -1,6 +1,6 @@
 # Mofo
 
-Mofo is a Latin Bass and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Kyoto University Yoshida Dormitory, Kyoto on Sat, 14 Nov 2026.
+Mofo is a Latin Bass and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Kyoto University Yoshida Dormitory, Kyoto on Sat, 14 Nov 2026.
 
 Mofo is a latin bass and reggaeton artist based in United Kingdom, with 3 gigs on soundcheck across Kyoto, Sydney and Tokyo. Often billed alongside Whatman, Aiconga and Bash. Next up: Kyoto University Yoshida Dormitory, Kyoto on Sat 14 Nov.
 
@@ -19,4 +19,4 @@ Mofo is a latin bass and reggaeton artist based in United Kingdom, with 3 gigs o
 
 Whatman, Aiconga, Bash
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mofo/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mofo/)*

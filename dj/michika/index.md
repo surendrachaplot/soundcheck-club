@@ -1,6 +1,6 @@
 # michika
 
-michika is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at West Harlem, Kyoto on Fri, 4 Dec 2026.
+michika is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at West Harlem, Kyoto on Fri, 4 Dec 2026.
 
 michika is a house and techno artist based in Japan, with 66 gigs on soundcheck across Kyoto and Tokyo. Often billed alongside arow, MICO and DJ melody. Next up: West Harlem, Kyoto on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ michika is a house and techno artist based in Japan, with 66 gigs on soundcheck 
 
 arow, MICO, DJ melody
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/michika/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/michika/)*

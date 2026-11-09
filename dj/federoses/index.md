@@ -1,6 +1,6 @@
 # Fede Roses
 
-Fede Roses is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Safestay Rooftop, Barcelona on Fri, 13 Nov 2026.
+Fede Roses is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Safestay Rooftop, Barcelona on Fri, 13 Nov 2026.
 
 Fede Roses is a techno and progressive house artist based in Argentina, with 11 gigs on soundcheck across Barcelona. Often billed alongside Juannce, VASAP and NAC Oliver. Next up: Safestay Rooftop, Barcelona on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Fede Roses is a techno and progressive house artist based in Argentina, with 11 
 
 Juannce, VASAP, NAC Oliver
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/federoses/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/federoses/)*

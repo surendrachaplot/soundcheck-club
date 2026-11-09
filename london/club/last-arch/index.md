@@ -1,6 +1,6 @@
 # Last Arch
 
-Last Arch is a music venue in London with 14 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "FAM JAM PRESENTS: Punky and the Brain" on Fri, 13 Nov 2026.
+Last Arch is a music venue in London with 14 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "FAM JAM PRESENTS: Punky and the Brain" on Fri, 13 Nov 2026.
 
 Last Arch is a music venue in London listed on soundcheck. 14 upcoming gigs, with line-ups including BEADS, Bunney, Calla and Dilemma and 2 more. See dates, start times and who's playing. 392 Wandsworth Road SW84PH (Through the black gates, last arch).
 
@@ -23,4 +23,4 @@ Last Arch is a music venue in London listed on soundcheck. 14 upcoming gigs, wit
 
 392 Wandsworth Road SW84PH (Through the black gates, last arch), London
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/last-arch/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/last-arch/)*

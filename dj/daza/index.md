@@ -1,6 +1,6 @@
 # DAZA
 
-DAZA is a Techno and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Der Weiße Hase, Berlin on Fri, 20 Nov 2026.
+DAZA is a Techno and Minimal artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Der Weiße Hase, Berlin on Fri, 20 Nov 2026.
 
 DAZA is a techno and minimal artist based in Colombia, with 142 gigs on soundcheck across Barcelona, Berlin, Bogotá and Karlsruhe and 2 more. Often billed alongside Daniel Jaramillo, Sika Akis and Basstronauten. Next up: Der Weiße Hase, Berlin on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ DAZA is a techno and minimal artist based in Colombia, with 142 gigs on soundche
 
 Daniel Jaramillo, Sika Akis, Basstronauten
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daza/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daza/)*

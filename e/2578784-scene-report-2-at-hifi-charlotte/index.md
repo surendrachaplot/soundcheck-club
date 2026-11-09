@@ -1,6 +1,6 @@
 # SCENE REPORT 2 at Hifi Charlotte
 
-SCENE REPORT 2 at Hifi Charlotte on Sat 21 Nov, Charlotte. 3 artists: Aumnï, EQ Why and Yesterdayneverhappened. Acid and Ghetto Tech. See the line-up on soundcheck.
+SCENE REPORT 2 at Hifi Charlotte on Sat 21 Nov, Charlotte. 3 artists: Aumnï, EQ Why and Yesterdayneverhappened. Club and Ghetto Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

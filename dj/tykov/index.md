@@ -1,6 +1,6 @@
 # Tykov
 
-Tykov is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 25 Dec 2026.
+Tykov is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 25 Dec 2026.
 
 Tykov is a house and minimal artist based in Netherlands, with 9 gigs on soundcheck across Amsterdam. Often billed alongside Voss, Daan Donk and Brennan. Next up: Shelter Amsterdam, Amsterdam on Fri 25 Dec.
 
@@ -25,4 +25,4 @@ Tykov is a house and minimal artist based in Netherlands, with 9 gigs on soundch
 
 Voss, Daan Donk, Brennan
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tykov/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tykov/)*

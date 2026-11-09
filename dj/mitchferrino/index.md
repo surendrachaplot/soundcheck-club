@@ -1,6 +1,6 @@
 # Mitch Ferrino
 
-Mitch Ferrino is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at District Eagle DC, Washington DC on Sat, 14 Nov 2026.
+Mitch Ferrino is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at District Eagle DC, Washington DC on Sat, 14 Nov 2026.
 
 Mitch Ferrino is a house and disco artist based in United States of America, with 36 gigs on soundcheck across New York City, Seattle, Toronto and Washington DC. Often billed alongside DJ Dawson, DROPO and Boomer Banks. Next up: District Eagle DC, Washington DC on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Mitch Ferrino is a house and disco artist based in United States of America, wit
 
 DJ Dawson, DROPO, Boomer Banks
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mitchferrino/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mitchferrino/)*

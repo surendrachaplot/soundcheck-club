@@ -1,6 +1,6 @@
 # Idu Berg
 
-Idu Berg is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at RSO.BERLIN, Berlin on Sat, 19 Dec 2026.
+Idu Berg is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at RSO.BERLIN, Berlin on Sat, 19 Dec 2026.
 
 Idu Berg is a techno and breakbeat artist, with 8 gigs on soundcheck across Berlin and Karlsruhe. Often billed alongside Schicktanz, Vysion and 20 100. Next up: RSO.BERLIN, Berlin on Sat 19 Dec.
 
@@ -24,4 +24,4 @@ Idu Berg is a techno and breakbeat artist, with 8 gigs on soundcheck across Berl
 
 Schicktanz, Vysion, 20 100
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iduberg/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iduberg/)*

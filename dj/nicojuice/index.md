@@ -1,6 +1,6 @@
 # Nico Juice
 
-Nico Juice is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Amigo, Ghent on Thu, 31 Dec 2026.
+Nico Juice is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Amigo, Ghent on Thu, 31 Dec 2026.
 
 Nico Juice is a disco and house artist based in Belgium, with 16 gigs on soundcheck across Ghent. Often billed alongside Thang, Forbidden Fruit and Lowie Trio. Next up: Amigo, Ghent on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Nico Juice is a disco and house artist based in Belgium, with 16 gigs on soundch
 
 Thang, Forbidden Fruit, Lowie Trio
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicojuice/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicojuice/)*

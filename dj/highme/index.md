@@ -1,6 +1,6 @@
 # Highme
 
-Highme is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at EL SÓTANO, Madrid on Mon, 7 Dec 2026.
+Highme is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at EL SÓTANO, Madrid on Mon, 7 Dec 2026.
 
 Highme is a house and techno artist, with 7 gigs on soundcheck across Madrid. Often billed alongside Allisson Nunes, Andrés Mokk and Daniel Chica. Next up: EL SÓTANO, Madrid on Mon 7 Dec.
 
@@ -23,4 +23,4 @@ Highme is a house and techno artist, with 7 gigs on soundcheck across Madrid. Of
 
 Allisson Nunes, Andrés Mokk, Daniel Chica
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/highme/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/highme/)*

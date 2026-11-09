@@ -1,6 +1,6 @@
 # Bembi
 
-Bembi is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at EL SÓTANO, Madrid on Fri, 4 Dec 2026.
+Bembi is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at EL SÓTANO, Madrid on Fri, 4 Dec 2026.
 
 Bembi is a house and afro house artist based in Argentina, with 6 gigs on soundcheck across Madrid. Often billed alongside BlackChilli, Giulia Mad and Guada Mariani. Next up: EL SÓTANO, Madrid on Fri 4 Dec.
 
@@ -22,4 +22,4 @@ Bembi is a house and afro house artist based in Argentina, with 6 gigs on soundc
 
 BlackChilli, Giulia Mad, Guada Mariani
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bembi/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bembi/)*

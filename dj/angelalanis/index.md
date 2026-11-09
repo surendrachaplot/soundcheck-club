@@ -1,6 +1,6 @@
 # Angel Alanis
 
-Angel Alanis is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Zhora Darling, Minneapolis/St Paul on Sat, 5 Dec 2026.
+Angel Alanis is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Zhora Darling, Minneapolis/St Paul on Sat, 5 Dec 2026.
 
 Angel Alanis is a techno and house artist based in United States of America, with 5 gigs on soundcheck across Chicago, Los Angeles, Mexico City and Minneapolis/St Paul. Often billed alongside Truncate, Alice Longyu Gao and Axkan. Next up: Zhora Darling, Minneapolis/St Paul on Sat 5 Dec.
 
@@ -21,4 +21,4 @@ Angel Alanis is a techno and house artist based in United States of America, wit
 
 Truncate, Alice Longyu Gao, Axkan
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/angelalanis/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/angelalanis/)*

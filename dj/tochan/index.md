@@ -1,6 +1,6 @@
 # TOCHAN
 
-TOCHAN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at WOMB, Tokyo on Fri, 27 Nov 2026.
+TOCHAN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at WOMB, Tokyo on Fri, 27 Nov 2026.
 
 TOCHAN is a techno and house artist based in Japan, with 45 gigs on soundcheck across Okinawa and Tokyo. Often billed alongside Drunken Kong, RINALUCKY and SIGNAL (JP). Next up: WOMB, Tokyo on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ TOCHAN is a techno and house artist based in Japan, with 45 gigs on soundcheck a
 
 Drunken Kong, RINALUCKY, SIGNAL (JP)
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tochan/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tochan/)*

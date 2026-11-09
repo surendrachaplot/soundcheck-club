@@ -1,6 +1,6 @@
 # KLARYOKO
 
-KLARYOKO is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at glimmer, Hamburg on Fri, 20 Nov 2026.
+KLARYOKO is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at glimmer, Hamburg on Fri, 20 Nov 2026.
 
 KLARYOKO is a techno and trance artist based in Germany, with 56 gigs on soundcheck across Barcelona, Berlin, Cologne and Hamburg and 2 more. Often billed alongside DJ Pinky Promise, Carluschka and Philo_. Next up: glimmer, Hamburg on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ KLARYOKO is a techno and trance artist based in Germany, with 56 gigs on soundch
 
 DJ Pinky Promise, Carluschka, Philo_
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/klaryoko/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/klaryoko/)*

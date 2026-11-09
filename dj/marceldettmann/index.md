@@ -1,14 +1,13 @@
 # Marcel Dettmann
 
-Marcel Dettmann is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 7 Nov 2026.
+Marcel Dettmann is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Parque Fundidora, Monterrey on Fri, 13 Nov 2026.
 
-Marcel Dettmann is a techno and house artist based in Germany, with 297 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 86 more. Often billed alongside Ben Klock, Ogazón and BASHKKA. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 7 Nov.
+Marcel Dettmann is a techno and house artist based in Germany, with 297 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 86 more. Often billed alongside Ben Klock, Ogazón and BASHKKA. Next up: Parque Fundidora, Monterrey on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 13 Nov 2026 | Parque Fundidora | Monterrey |
 | Fri, 13 Nov 2026 | TBA | Amsterdam |
 | Fri, 20 Nov 2026 | Oxford Art Factory | Sydney |
@@ -35,4 +34,4 @@ Marcel Dettmann is a techno and house artist based in Germany, with 297 gigs on 
 
 Ben Klock, Ogazón, BASHKKA
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marceldettmann/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marceldettmann/)*

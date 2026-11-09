@@ -1,6 +1,6 @@
 # Hideki Ito
 
-Hideki Ito is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Manila, Philippines on Sat, 14 Nov 2026.
+Hideki Ito is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Manila, Philippines on Sat, 14 Nov 2026.
 
 Hideki Ito is a techno and house artist based in Philippines, with 27 gigs on soundcheck across Manila, Philippines, Taipei and Tokyo. Often billed alongside Karlo, Al Jones and Teruu. Next up: TBA - Manila, Philippines on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Hideki Ito is a techno and house artist based in Philippines, with 27 gigs on so
 
 Karlo, Al Jones, Teruu
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hidekiito/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hidekiito/)*

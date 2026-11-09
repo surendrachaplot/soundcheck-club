@@ -1,6 +1,6 @@
 # The Hacker
 
-The Hacker is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Elastica, Vilnius on Fri, 20 Nov 2026.
+The Hacker is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Elastica, Vilnius on Fri, 20 Nov 2026.
 
 The Hacker is a techno and electro artist based in France, with 132 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 49 more. Often billed alongside Miss Kittin, Alessandro Adriani and Charlie. Next up: Elastica, Vilnius on Fri 20 Nov.
 
@@ -28,4 +28,4 @@ The Hacker is a techno and electro artist based in France, with 132 gigs on soun
 
 Miss Kittin, Alessandro Adriani, Charlie
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thehacker/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thehacker/)*

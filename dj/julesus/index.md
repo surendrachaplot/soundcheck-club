@@ -1,6 +1,6 @@
 # Jules
 
-Jules is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Ciało, Wroclaw on Fri, 27 Nov 2026.
+Jules is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Ciało, Wroclaw on Fri, 27 Nov 2026.
 
 Jules is a techno and deep house artist based in United States of America, with 24 gigs on soundcheck across Berlin, New York City, Oslo and Vienna and 2 more. Often billed alongside Dio Garcia, Valentin Lamar and ALIKHAN. Next up: Ciało, Wroclaw on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Jules is a techno and deep house artist based in United States of America, with 
 
 Dio Garcia, Valentin Lamar, ALIKHAN
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/julesus/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/julesus/)*

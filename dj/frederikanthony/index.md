@@ -1,6 +1,6 @@
 # Frederik Anthony
 
-Frederik Anthony is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Hoxton Cabin, London on Sat, 21 Nov 2026.
+Frederik Anthony is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Hoxton Cabin, London on Sat, 21 Nov 2026.
 
 Frederik Anthony is a deep house and house artist based in United Kingdom, with 5 gigs on soundcheck across London. Often billed alongside Dominic (UK), MAHAR and Brawther. Next up: Hoxton Cabin, London on Sat 21 Nov.
 
@@ -21,4 +21,4 @@ Frederik Anthony is a deep house and house artist based in United Kingdom, with 
 
 Dominic (UK), MAHAR, Brawther
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frederikanthony/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frederikanthony/)*

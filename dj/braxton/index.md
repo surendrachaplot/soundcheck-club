@@ -1,6 +1,6 @@
 # Braxton
 
-Braxton is a Progressive House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at The Fibre Penthouse, Leeds on Sat, 14 Nov 2026.
+Braxton is a Progressive House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at The Fibre Penthouse, Leeds on Sat, 14 Nov 2026.
 
 Braxton is a progressive house and deep house artist based in United Kingdom, with 45 gigs on soundcheck across Austin, Berlin, Brighton and Bristol and 19 more. Often billed alongside Durante, Rezident and Hana. Next up: The Fibre Penthouse, Leeds on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Braxton is a progressive house and deep house artist based in United Kingdom, wi
 
 Durante, Rezident, Hana
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/braxton/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/braxton/)*

@@ -1,6 +1,6 @@
 # SONGPANCAKE
 
-SONGPANCAKE is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
+SONGPANCAKE is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
 
 SONGPANCAKE is a techno and electro artist based in South Korea, with 59 gigs on soundcheck across Seoul, South Korea and Sydney. Often billed alongside Honn, X2C and AVALON. Next up: TBA - Jacks Bar, South Korea on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ SONGPANCAKE is a techno and electro artist based in South Korea, with 59 gigs on
 
 Honn, X2C (1), AVALON
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/songpancake/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/songpancake/)*

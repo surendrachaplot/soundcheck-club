@@ -1,6 +1,6 @@
 # Superpoze
 
-Superpoze is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Le Sucre, Lyon on Thu, 26 Nov 2026.
+Superpoze is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Le Sucre, Lyon on Thu, 26 Nov 2026.
 
 Superpoze is an electronic artist based in France, with 3 gigs on soundcheck across Lyon and Paris. Often billed alongside Kamaal Williams, Kungs and Lazuli. Next up: Le Sucre, Lyon on Thu 26 Nov.
 
@@ -19,4 +19,4 @@ Superpoze is an electronic artist based in France, with 3 gigs on soundcheck acr
 
 Kamaal Williams, Kungs, Lazuli
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/superpoze/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/superpoze/)*

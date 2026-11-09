@@ -1,6 +1,6 @@
 # Capisonne
 
-Capisonne is a Tech House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Kugelbar.Berlin, Berlin on Fri, 27 Nov 2026.
+Capisonne is a Tech House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Kugelbar.Berlin, Berlin on Fri, 27 Nov 2026.
 
 Capisonne is a tech house and disco artist based in Germany, with 4 gigs on soundcheck across Berlin. Often billed alongside Dcurv and Siho. Next up: Kugelbar.Berlin, Berlin on Fri 27 Nov.
 
@@ -20,4 +20,4 @@ Capisonne is a tech house and disco artist based in Germany, with 4 gigs on soun
 
 Dcurv, Siho
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/capisonne/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/capisonne/)*

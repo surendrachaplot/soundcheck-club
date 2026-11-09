@@ -1,6 +1,6 @@
 # Matteo (IT)
 
-Matteo (IT) is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Sol y Luna Lounge & Club, Düsseldorf on Wed, 11 Nov 2026.
+Matteo (IT) is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Sol y Luna Lounge & Club, Düsseldorf on Wed, 11 Nov 2026.
 
 Matteo (IT) is a tech house and minimal artist based in Germany, with 7 gigs on soundcheck across Amsterdam, Cologne, Düsseldorf and Paris. Often billed alongside Ben:Rodd, CORZ and Catsinka. Next up: Sol y Luna Lounge & Club, Düsseldorf on Wed 11 Nov.
 
@@ -23,4 +23,4 @@ Matteo (IT) is a tech house and minimal artist based in Germany, with 7 gigs on 
 
 Ben:Rodd, CORZ, Catsinka
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matteoit/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matteoit/)*

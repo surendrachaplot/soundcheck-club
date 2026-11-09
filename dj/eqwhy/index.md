@@ -1,6 +1,6 @@
 # EQ Why
 
-EQ Why is a Footwork and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Hifi Charlotte, Charlotte on Sat, 21 Nov 2026.
+EQ Why is a Footwork and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Hifi Charlotte, Charlotte on Sat, 21 Nov 2026.
 
 EQ Why is a footwork and experimental artist based in United States of America, with 11 gigs on soundcheck across Charlotte, Chicago and Detroit. Often billed alongside Seanni B, Aumnï and Casper McFadden. Next up: Hifi Charlotte, Charlotte on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ EQ Why is a footwork and experimental artist based in United States of America, 
 
 Seanni B, Aumnï, Casper McFadden
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eqwhy/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eqwhy/)*

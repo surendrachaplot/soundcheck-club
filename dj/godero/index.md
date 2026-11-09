@@ -1,6 +1,6 @@
 # Godero
 
-Godero is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at UMI, Brussels on Fri, 27 Nov 2026.
+Godero is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at UMI, Brussels on Fri, 27 Nov 2026.
 
 Godero is a techno and house artist based in Belgium, with 22 gigs on soundcheck across Amsterdam, Brussels, Ghent and Lisbon. Often billed alongside DJ Rino, Dana Kuehr and Kuba'97. Next up: UMI, Brussels on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Godero is a techno and house artist based in Belgium, with 22 gigs on soundcheck
 
 DJ Rino, Dana Kuehr, Kuba'97
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/godero/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/godero/)*

@@ -1,6 +1,6 @@
 # Forge
 
-Forge is a music venue in Bucharest with 6 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "3O3 DIVISION #7 — MIRRORCLASH" on Fri, 13 Nov 2026.
+Forge is a music venue in Bucharest with 6 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "3O3 DIVISION #7 — MIRRORCLASH" on Fri, 13 Nov 2026.
 
 Forge is a music venue in Bucharest listed on soundcheck. 6 upcoming gigs, with line-ups including Clast, DA NA, Extrawelt and FAUST and 2 more. See dates, start times and who's playing. Șoseaua Pantelimon 1A, Bucharest, Romania 022401.
 
@@ -19,4 +19,4 @@ Forge is a music venue in Bucharest listed on soundcheck. 6 upcoming gigs, with 
 
 Șoseaua Pantelimon 1A, Bucharest, Romania 022401, Bucharest
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/forge/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/forge/)*

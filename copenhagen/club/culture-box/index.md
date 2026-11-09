@@ -1,6 +1,6 @@
 # Culture Box
 
-Culture Box is a music venue in Copenhagen with 17 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Dusky presents SIGNALS TOUR / Samuel Rees / DRØZE / SÓLTMÄNN / RÓS" on Fri, 13 Nov 2026.
+Culture Box is a music venue in Copenhagen with 17 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Dusky presents SIGNALS TOUR / Samuel Rees / DRØZE / SÓLTMÄNN / RÓS" on Fri, 13 Nov 2026.
 
 Culture Box is a music venue in Copenhagen listed on soundcheck. 17 upcoming gigs, with line-ups including Adelina, Aerocell, Aja Gulris and Ama Lien and 2 more. See dates, start times and who's playing. Kronprinsessegade 54; Copenhagen K. 1306; Denmark.
 
@@ -23,4 +23,4 @@ Culture Box is a music venue in Copenhagen listed on soundcheck. 17 upcoming gig
 
 Kronprinsessegade 54; Copenhagen K. 1306; Denmark, Copenhagen
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/culture-box/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/culture-box/)*

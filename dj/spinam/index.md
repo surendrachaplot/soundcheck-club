@@ -1,6 +1,6 @@
 # Spin Am
 
-Spin Am is a Club and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Bread and Butter, London on Sat, 14 Nov 2026.
+Spin Am is a Club and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Bread and Butter, London on Sat, 14 Nov 2026.
 
 Spin Am is a club and ghetto tech artist based in United Kingdom, with 4 gigs on soundcheck across London. Often billed alongside BBSHKALES, Jean Blaire and XT1ANA. Next up: Bread and Butter, London on Sat 14 Nov.
 
@@ -20,4 +20,4 @@ Spin Am is a club and ghetto tech artist based in United Kingdom, with 4 gigs on
 
 BBSHKALES, Jean Blaire, XT1ANA
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spinam/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spinam/)*

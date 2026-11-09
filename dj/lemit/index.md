@@ -1,6 +1,6 @@
 # LEM (IT)
 
-LEM (IT) is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Tigullio, Malta on Sat, 14 Nov 2026.
+LEM (IT) is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Tigullio, Malta on Sat, 14 Nov 2026.
 
 LEM (IT) is a progressive house and deep house artist based in Italy, with 8 gigs on soundcheck across Malta. Often billed alongside Abdy, Shabab Khan and CHINO [AR]. Next up: Tigullio, Malta on Sat 14 Nov.
 
@@ -24,4 +24,4 @@ LEM (IT) is a progressive house and deep house artist based in Italy, with 8 gig
 
 Abdy, Shabab Khan, CHINO [AR]
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lemit/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lemit/)*

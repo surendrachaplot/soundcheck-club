@@ -1,6 +1,6 @@
 # Soulphonetics
 
-Soulphonetics is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Parachute HIFI, Chicago on Sat, 21 Nov 2026.
+Soulphonetics is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Parachute HIFI, Chicago on Sat, 21 Nov 2026.
 
 Soulphonetics is a deep house and house artist, with 32 gigs on soundcheck across Chicago, Guadalajara and Thessaloniki. Often billed alongside Karl Almaria, Chachi Guerrero and Czboogie. Next up: Parachute HIFI, Chicago on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Soulphonetics is a deep house and house artist, with 32 gigs on soundcheck acros
 
 Karl Almaria, Chachi Guerrero, Czboogie
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soulphonetics/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soulphonetics/)*

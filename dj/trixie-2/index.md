@@ -1,6 +1,6 @@
 # Trixie (2)
 
-Trixie (2) is a Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Cieloterra, Rome on Sat, 28 Nov 2026.
+Trixie (2) is a Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Cieloterra, Rome on Sat, 28 Nov 2026.
 
 Trixie is a techno artist based in Italy, with 2 gigs on soundcheck across Rome. Often billed alongside ANXHELA and ØTTA. Next up: Cieloterra, Rome on Sat 28 Nov.
 
@@ -15,4 +15,4 @@ Trixie is a techno artist based in Italy, with 2 gigs on soundcheck across Rome.
 
 ANXHELA, ØTTA
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trixie-2/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trixie-2/)*

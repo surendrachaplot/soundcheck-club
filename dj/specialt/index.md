@@ -1,6 +1,6 @@
 # Special T
 
-Special T is a Deep House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Happy Buddha, Vietnam on Thu, 31 Dec 2026.
+Special T is a Deep House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Happy Buddha, Vietnam on Thu, 31 Dec 2026.
 
 Special T is a deep house and techno artist, with 4 gigs on soundcheck across Ho Chi Minh City, Tokyo and Vietnam. Often billed alongside Eleou, Bytz and Chris Wolter. Next up: Happy Buddha, Vietnam on Thu 31 Dec.
 
@@ -20,4 +20,4 @@ Special T is a deep house and techno artist, with 4 gigs on soundcheck across Ho
 
 Eleou, Bytz, Chris Wolter
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/specialt/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/specialt/)*

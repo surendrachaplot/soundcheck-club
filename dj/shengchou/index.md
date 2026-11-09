@@ -1,6 +1,6 @@
 # Shengchou
 
-Shengchou is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Pillbox Beijing, Beijing on Fri, 13 Nov 2026.
+Shengchou is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Pillbox Beijing, Beijing on Fri, 13 Nov 2026.
 
 Shengchou is a techno and electro artist based in China, with 38 gigs on soundcheck across Beijing, Chongqing, Mongolia and Shanghai and 2 more. Often billed alongside LIUYANG, cisco and NYB. Next up: Pillbox Beijing, Beijing on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Shengchou is a techno and electro artist based in China, with 38 gigs on soundch
 
 LIUYANG, cisco (3), NYB (1)
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shengchou/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shengchou/)*

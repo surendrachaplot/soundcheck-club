@@ -1,6 +1,6 @@
 # Inuza
 
-Inuza is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Campidarte Sardegna, Sardinia on Sun, 14 Mar 2027.
+Inuza is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Campidarte Sardegna, Sardinia on Sun, 14 Mar 2027.
 
 Inuza is a bass and drum & bass artist, with 3 gigs on soundcheck across Bologna, London and Sardinia. Often billed alongside HNGVR, Last Life and Dusty Ohms. Next up: Campidarte Sardegna, Sardinia on Sun 14 Mar.
 
@@ -19,4 +19,4 @@ Inuza is a bass and drum & bass artist, with 3 gigs on soundcheck across Bologna
 
 HNGVR, Last Life, Dusty Ohms
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inuza/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inuza/)*

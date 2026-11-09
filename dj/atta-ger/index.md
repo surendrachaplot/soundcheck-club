@@ -1,6 +1,6 @@
 # ATTA (GER)
 
-ATTA (GER) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Bulbul Berlin, Berlin on Thu, 12 Nov 2026.
+ATTA (GER) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Bulbul Berlin, Berlin on Thu, 12 Nov 2026.
 
 ATTA (GER) is a house and techno artist based in Germany, with 74 gigs on soundcheck across Berlin, Cologne, Dresden and Hamburg and 1 more. Often billed alongside Christa K, DJ SPORTSCHUH and Jokka. Next up: Bulbul Berlin, Berlin on Thu 12 Nov.
 
@@ -26,4 +26,4 @@ ATTA (GER) is a house and techno artist based in Germany, with 74 gigs on soundc
 
 Christa K, DJ SPORTSCHUH, Jokka
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/atta-ger/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/atta-ger/)*

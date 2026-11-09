@@ -1,6 +1,6 @@
 # Giu Nunez
 
-Giu Nunez is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Fünk, Mexico City on Thu, 12 Nov 2026.
+Giu Nunez is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Fünk, Mexico City on Thu, 12 Nov 2026.
 
 Giu Nunez is a house and disco artist based in Brazil, with 108 gigs on soundcheck across Amsterdam, Berlin, Bordeaux and Brazil and 14 more. Often billed alongside Craig Ouar, Carrot Green and Cashu. Next up: Fünk, Mexico City on Thu 12 Nov.
 
@@ -26,4 +26,4 @@ Giu Nunez is a house and disco artist based in Brazil, with 108 gigs on soundche
 
 Craig Ouar, Carrot Green, Cashu
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giununez/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giununez/)*

@@ -1,6 +1,6 @@
 # Casnova
 
-Casnova is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at La Cheetah Club, Glasgow on Fri, 27 Nov 2026.
+Casnova is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at La Cheetah Club, Glasgow on Fri, 27 Nov 2026.
 
 Casnova is a garage and house artist based in United Kingdom, with 38 gigs on soundcheck across Belfast, Bristol, Glasgow and Leeds and 3 more. Often billed alongside p-rallel, Laelo Black and Tommy Gold. Next up: La Cheetah Club, Glasgow on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Casnova is a garage and house artist based in United Kingdom, with 38 gigs on so
 
 p-rallel, Laelo Black, Tommy Gold
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/casnova/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/casnova/)*

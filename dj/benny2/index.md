@@ -1,14 +1,13 @@
 # Benny2
 
-Benny2 is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
+Benny2 is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Lofi, Amsterdam on Sun, 29 Nov 2026.
 
-Benny2 is a house and techno artist based in Netherlands, with 30 gigs on soundcheck across Amsterdam and The Hague. Often billed alongside Jan Koster, Moody Mehran and SAIDAH. Next up: TILLATEC, Amsterdam on Fri 6 Nov.
+Benny2 is a house and techno artist based in Netherlands, with 30 gigs on soundcheck across Amsterdam and The Hague. Often billed alongside Jan Koster, Moody Mehran and SAIDAH. Next up: Lofi, Amsterdam on Sun 29 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | TILLATEC | Amsterdam |
 | Sun, 29 Nov 2026 | Lofi | Amsterdam |
 
 ## Recently played
@@ -26,4 +25,4 @@ Benny2 is a house and techno artist based in Netherlands, with 30 gigs on soundc
 
 Jan Koster, Moody Mehran, SAIDAH
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benny2/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benny2/)*

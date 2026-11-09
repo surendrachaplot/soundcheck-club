@@ -1,6 +1,6 @@
 # Ivy Lab
 
-Ivy Lab is a Bass and Drum & Bass artist with 7 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Kavka Oudaan, Antwerp on Fri, 13 Nov 2026.
+Ivy Lab is a Bass and Drum & Bass artist with 7 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Kavka Oudaan, Antwerp on Fri, 13 Nov 2026.
 
 Ivy Lab is a bass and drum & bass artist based in United Kingdom, with 105 gigs on soundcheck across Adelaide, Antwerp, Arkansas and Atlanta and 43 more. Often billed alongside Kasra, Lake Hills and Jubilee. Next up: Kavka Oudaan, Antwerp on Fri 13 Nov.
 
@@ -31,4 +31,4 @@ Ivy Lab is a bass and drum & bass artist based in United Kingdom, with 105 gigs 
 
 Kasra, Lake Hills, Jubilee
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ivylab/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ivylab/)*

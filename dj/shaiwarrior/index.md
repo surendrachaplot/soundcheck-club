@@ -1,6 +1,6 @@
 # shaiwarrior
 
-shaiwarrior is a Experimental and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Off The Cuff, London on Tue, 10 Nov 2026.
+shaiwarrior is a Experimental and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Off The Cuff, London on Tue, 10 Nov 2026.
 
 shaiwarrior is an experimental and hip-hop artist based in United Kingdom, with 9 gigs on soundcheck across Birmingham, Glasgow and London. Often billed alongside Lijan, Megsuperstarprincess and Oatmilkandcodeine. Next up: Off The Cuff, London on Tue 10 Nov.
 
@@ -25,4 +25,4 @@ shaiwarrior is an experimental and hip-hop artist based in United Kingdom, with 
 
 Lijan, Megsuperstarprincess, Oatmilkandcodeine
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shaiwarrior/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shaiwarrior/)*

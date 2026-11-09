@@ -1,6 +1,6 @@
 # Annelies Monseré
 
-Annelies Monseré is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Magasin 4, Brussels on Tue, 10 Nov 2026.
+Annelies Monseré is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Magasin 4, Brussels on Tue, 10 Nov 2026.
 
 Annelies Monseré is an electronic artist, with 3 gigs on soundcheck across Brussels and Stockholm. Often billed alongside Beau Wanzer, DJ Lycox and DJ Spence. Next up: Magasin 4, Brussels on Tue 10 Nov.
 
@@ -19,4 +19,4 @@ Annelies Monseré is an electronic artist, with 3 gigs on soundcheck across Brus
 
 Beau Wanzer, DJ Lycox, DJ Spence
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anneliesmonsere/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anneliesmonsere/)*

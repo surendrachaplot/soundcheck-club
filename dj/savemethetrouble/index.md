@@ -1,6 +1,6 @@
 # Save Me The Trouble
 
-Save Me The Trouble is a Experimental and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Circus Tokyo, Tokyo on Sun, 22 Nov 2026.
+Save Me The Trouble is a Experimental and Dubstep artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Circus Tokyo, Tokyo on Sun, 22 Nov 2026.
 
 Save Me The Trouble is an experimental and dubstep artist based in Japan, with 3 gigs on soundcheck across Tokyo. Often billed alongside Ginji, ITSUKI and MOOTOE. Next up: Circus Tokyo, Tokyo on Sun 22 Nov.
 
@@ -19,4 +19,4 @@ Save Me The Trouble is an experimental and dubstep artist based in Japan, with 3
 
 Ginji, ITSUKI, MOOTOE
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/savemethetrouble/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/savemethetrouble/)*

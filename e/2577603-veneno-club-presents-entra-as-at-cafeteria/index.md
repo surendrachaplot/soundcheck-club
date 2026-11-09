@@ -1,6 +1,6 @@
 # Veneno Club presents Entrañas at Cafeteria
 
-Veneno Club presents Entrañas at Cafeteria on Fri 20 Nov, Toronto. 1 artist: Entrañas. Latin Bass and Dembow. See the line-up on soundcheck.
+Veneno Club presents Entrañas at Cafeteria on Fri 20 Nov, Toronto. 5 artists: Ana Luisa, Entrañas, Geezr and mo.fede and 1 more. Latin Bass and Dembow. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,10 @@ Veneno Club presents Entrañas at Cafeteria on Fri 20 Nov, Toronto. 1 artist: En
 
 ## Line-up
 
+- Ana Luisa
 - Entrañas
+- Geezr
+- mo.fede
+- Sofia Fly
 
 *Source: [soundcheck](https://soundcheck.club/e/2577603-veneno-club-presents-entra-as-at-cafeteria/)*

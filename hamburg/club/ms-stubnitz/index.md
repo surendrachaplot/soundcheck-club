@@ -1,6 +1,6 @@
 # MS Stubnitz
 
-MS Stubnitz is a music venue in Hamburg with 14 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Kreidler, Die Wilde Jagd - Bureau B Label Night" on Thu, 12 Nov 2026.
+MS Stubnitz is a music venue in Hamburg with 14 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Kreidler, Die Wilde Jagd - Bureau B Label Night" on Thu, 12 Nov 2026.
 
 MS Stubnitz is a music venue in Hamburg listed on soundcheck. 14 upcoming gigs, with line-ups including AMRTUM, AFAR, Alex Benz and Bandulera and 2 more. See dates, start times and who's playing. Kirchenpauerkai 29, 20457 Hamburg, Germany.
 
@@ -23,4 +23,4 @@ MS Stubnitz is a music venue in Hamburg listed on soundcheck. 14 upcoming gigs, 
 
 Kirchenpauerkai 29, 20457 Hamburg, Germany, Hamburg
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/ms-stubnitz/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/ms-stubnitz/)*

@@ -1,6 +1,6 @@
 # Mike Larry
 
-Mike Larry is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at NWHR, Montreal on Sat, 21 Nov 2026.
+Mike Larry is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at NWHR, Montreal on Sat, 21 Nov 2026.
 
 Mike Larry is a techno and house artist based in Canada, with 66 gigs on soundcheck across Barcelona, Boston, Montreal and Paris and 1 more. Often billed alongside Bianca Badita, Isabel Soto and Christø. Next up: NWHR, Montreal on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Mike Larry is a techno and house artist based in Canada, with 66 gigs on soundch
 
 Bianca Badita, Isabel Soto, Christø
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikelarry/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikelarry/)*

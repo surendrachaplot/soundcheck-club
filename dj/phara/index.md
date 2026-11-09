@@ -1,6 +1,6 @@
 # Phara
 
-Phara is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Circolo Amelia, Milan on Sat, 14 Nov 2026.
+Phara is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Circolo Amelia, Milan on Sat, 14 Nov 2026.
 
 Phara is a techno and house artist based in Belgium, with 199 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside Altinbas, Marie-Julie and Kr!z. Next up: Circolo Amelia, Milan on Sat 14 Nov.
 
@@ -28,4 +28,4 @@ Phara is a techno and house artist based in Belgium, with 199 gigs on soundcheck
 
 Altinbas, Marie-Julie, Kr!z
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/phara/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/phara/)*

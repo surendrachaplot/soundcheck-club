@@ -1,6 +1,6 @@
 # Outside In at Grub Records
 
-Outside In at Grub Records on Fri 27 Nov, Sheffield. Disco and Balearic. See the line-up on soundcheck.
+Outside In at Grub Records on Fri 27 Nov, Sheffield. Balearic and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # karete bu
 
-karete bu is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at ://about blank, Berlin on Thu, 31 Dec 2026.
+karete bu is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at ://about blank, Berlin on Thu, 31 Dec 2026.
 
 karete bu is a house and techno artist based in Germany, with 95 gigs on soundcheck across Amsterdam, Berlin, Brussels and Cologne and 10 more. Often billed alongside V:SONNTAG, fr. JPLA and Jessamine. Next up: ://about blank, Berlin on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ karete bu is a house and techno artist based in Germany, with 95 gigs on soundch
 
 V:SONNTAG, fr. JPLA, Jessamine
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karetebu/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karetebu/)*

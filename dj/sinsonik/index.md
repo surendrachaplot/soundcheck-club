@@ -1,8 +1,8 @@
 # Sin Sonik
 
-Sin Sonik is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Der Weiße Hase, Berlin on Tue, 10 Nov 2026.
+Sin Sonik is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Der Weiße Hase, Berlin on Tue, 10 Nov 2026.
 
-Sin Sonik is a techno and tech house artist based in Germany, with 3 gigs on soundcheck across Berlin. Often billed alongside Algerics, Cat Vermillion and Johnny Allwess. Next up: Der Weiße Hase, Berlin on Tue 10 Nov.
+Sin Sonik is a techno and tech house artist based in Germany, with 3 gigs on soundcheck across Berlin. Often billed alongside Johnny Allwess, Algerics and Cat Vermillion. Next up: Der Weiße Hase, Berlin on Tue 10 Nov.
 
 ## Upcoming shows
 
@@ -14,6 +14,6 @@ Sin Sonik is a techno and tech house artist based in Germany, with 3 gigs on sou
 
 ## Shares bills with
 
-Algerics, Cat Vermillion, Johnny Allwess
+Johnny Allwess, Algerics, Cat Vermillion
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sinsonik/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sinsonik/)*

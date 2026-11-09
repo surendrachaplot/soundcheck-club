@@ -1,6 +1,6 @@
 # Monika Taneska
 
-Monika Taneska is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at NDR2 Red Room, London on Sat, 21 Nov 2026.
+Monika Taneska is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at NDR2 Red Room, London on Sat, 21 Nov 2026.
 
 Monika Taneska is a techno and house artist based in United Kingdom, with 35 gigs on soundcheck across Bristol and London. Often billed alongside Forever, A For Alpha and Ollie Kirk. Next up: NDR2 Red Room, London on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Monika Taneska is a techno and house artist based in United Kingdom, with 35 gig
 
 Forever, A For Alpha, Ollie Kirk
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/monikataneska/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/monikataneska/)*

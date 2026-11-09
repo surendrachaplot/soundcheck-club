@@ -1,6 +1,6 @@
 # Chmury
 
-Chmury is a music venue in Warsaw with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Free Rave" on Tue, 10 Nov 2026.
+Chmury is a music venue in Warsaw with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Free Rave" on Tue, 10 Nov 2026.
 
 Chmury is a music venue in Warsaw listed on soundcheck. 3 upcoming gigs, with line-ups including SOLOWINSKI. See dates, start times and who's playing. 11 Listopada 22, 03-436 Warszawa.
 
@@ -16,4 +16,4 @@ Chmury is a music venue in Warsaw listed on soundcheck. 3 upcoming gigs, with li
 
 11 Listopada 22, 03-436 Warszawa, Warsaw
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/chmury/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/chmury/)*

@@ -1,6 +1,6 @@
 # Alexander Kowalski
 
-Alexander Kowalski is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - SUBLANUA MEDELLIN, Colombia on Fri, 18 Dec 2026.
+Alexander Kowalski is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - SUBLANUA MEDELLIN, Colombia on Fri, 18 Dec 2026.
 
 Alexander Kowalski is a techno and house artist based in Germany, with 49 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 7 more. Often billed alongside BLACK ANTHEM RESTORE, Any Mello and Esther Dune. Next up: TBA - SUBLANUA MEDELLIN, Colombia on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Alexander Kowalski is a techno and house artist based in Germany, with 49 gigs o
 
 BLACK ANTHEM RESTORE, Any Mello, Esther Dune
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexanderkowalski/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexanderkowalski/)*

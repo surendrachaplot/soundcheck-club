@@ -1,6 +1,6 @@
 # Nayoo
 
-Nayoo is a Club and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Nest, Basel on Sat, 14 Nov 2026.
+Nayoo is a Club and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Nest, Basel on Sat, 14 Nov 2026.
 
 Nayoo is a club and electronica artist based in Jordan, with 13 gigs on soundcheck across Basel, Berlin, Brussels and Paris and 2 more. Often billed alongside ELAKH, Salma and AOIFE. Next up: Nest, Basel on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Nayoo is a club and electronica artist based in Jordan, with 13 gigs on soundche
 
 ELAKH, Salma, AOIFE
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nayoo/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nayoo/)*

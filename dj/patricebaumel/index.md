@@ -1,6 +1,6 @@
 # Patrice Bäumel
 
-Patrice Bäumel is a Techno and Progressive House artist with 10 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Arts Factory Garden Bar, Byron-bay on Sat, 14 Nov 2026.
+Patrice Bäumel is a Techno and Progressive House artist with 10 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Arts Factory Garden Bar, Byron-bay on Sat, 14 Nov 2026.
 
 Patrice Bäumel is a techno and progressive house artist based in Germany, with 170 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 51 more. Often billed alongside Patrice, Sasha and Hernan Cattaneo. Next up: Arts Factory Garden Bar, Byron Bay on Sat 14 Nov.
 
@@ -34,4 +34,4 @@ Patrice Bäumel is a techno and progressive house artist based in Germany, with 
 
 Patrice, Sasha, Hernan Cattaneo
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/patricebaumel/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/patricebaumel/)*

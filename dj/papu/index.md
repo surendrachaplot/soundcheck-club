@@ -1,6 +1,6 @@
 # PAPU
 
-PAPU is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Desa Kitsune, Bali on Fri, 20 Nov 2026.
+PAPU is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Desa Kitsune, Bali on Fri, 20 Nov 2026.
 
 PAPU is a house and disco artist based in Spain, with 25 gigs on soundcheck across Bali, Barcelona, Beijing and Berlin and 5 more. Often billed alongside Kaiser Waldon, Scotty Cal and ALIBERTI. Next up: Desa Kitsune, Bali on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ PAPU is a house and disco artist based in Spain, with 25 gigs on soundcheck acro
 
 Kaiser Waldon, Scotty Cal, ALIBERTI
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/papu/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/papu/)*

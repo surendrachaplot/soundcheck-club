@@ -1,6 +1,6 @@
 # Lasociaciøn
 
-Lasociaciøn is a music venue in Madrid with 8 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Krakem (SPECIAL BIRTHDAY)" on Fri, 13 Nov 2026.
+Lasociaciøn is a music venue in Madrid with 8 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Krakem (SPECIAL BIRTHDAY)" on Fri, 13 Nov 2026.
 
 Lasociaciøn is a music venue in Madrid listed on soundcheck. 8 upcoming gigs, with line-ups including ADRI.G, Ania Bruster, Arlase and Babu and 2 more. See dates, start times and who's playing. C. Gamonal, 5, 28031 Madrid.
 
@@ -21,4 +21,4 @@ Lasociaciøn is a music venue in Madrid listed on soundcheck. 8 upcoming gigs, w
 
 C. Gamonal, 5, 28031 Madrid, Madrid
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lasociaci-n/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lasociaci-n/)*

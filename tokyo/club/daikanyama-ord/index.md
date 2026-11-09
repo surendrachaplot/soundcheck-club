@@ -1,6 +1,6 @@
 # Daikanyama ORD.
 
-Daikanyama ORD. is a music venue in Tokyo with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Vermilion" on Wed, 25 Nov 2026.
+Daikanyama ORD. is a music venue in Tokyo with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Vermilion" on Wed, 25 Nov 2026.
 
 Daikanyama ORD. is a music venue in Tokyo listed on soundcheck. 3 upcoming gigs, with line-ups including Albino Sound, juli, July and Kaori Watt and 2 more. See dates, start times and who's playing. za HOUSE 2F 1-34-17 ebisu-nishi shibuyaku tokyo.
 
@@ -16,4 +16,4 @@ Daikanyama ORD. is a music venue in Tokyo listed on soundcheck. 3 upcoming gigs,
 
 za HOUSE 2F 1-34-17 ebisu-nishi shibuyaku tokyo, Tokyo
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/daikanyama-ord/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/daikanyama-ord/)*

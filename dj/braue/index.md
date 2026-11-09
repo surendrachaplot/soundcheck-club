@@ -1,6 +1,6 @@
 # Braue
 
-Braue is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at ESC, Montreal on Sat, 21 Nov 2026.
+Braue is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at ESC, Montreal on Sat, 21 Nov 2026.
 
 Braue is a house and techno artist based in Canada, with 9 gigs on soundcheck across Montreal and Vancouver. Often billed alongside Max Ulis, AWood and Abasi. Next up: ESC, Montreal on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Braue is a house and techno artist based in Canada, with 9 gigs on soundcheck ac
 
 Max Ulis, AWood, Abasi
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/braue/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/braue/)*

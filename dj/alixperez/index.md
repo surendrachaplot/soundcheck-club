@@ -1,6 +1,6 @@
 # Alix Perez
 
-Alix Perez is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Chop Shop & 1st Ward, Chicago on Thu, 12 Nov 2026.
+Alix Perez is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Chop Shop & 1st Ward, Chicago on Thu, 12 Nov 2026.
 
 Alix Perez is a drum & bass and bass artist based in United Kingdom, with 64 gigs on soundcheck across Antwerp, Auckland, Basel and Berlin and 30 more. Often billed alongside SP:MC, Cesco and Visages. Next up: Chop Shop & 1st Ward, Chicago on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Alix Perez is a drum & bass and bass artist based in United Kingdom, with 64 gig
 
 SP:MC, Cesco, Visages
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alixperez/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alixperez/)*

@@ -1,6 +1,6 @@
 # dj g2g
 
-dj g2g is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at CLUB RAUM, Amsterdam on Fri, 4 Dec 2026.
+dj g2g is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at CLUB RAUM, Amsterdam on Fri, 4 Dec 2026.
 
 dj g2g is a techno and club artist based in Uruguay, with 136 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Bali and 54 more. Often billed alongside Azyr, Alex Farell and Faster Horses. Next up: CLUB RAUM, Amsterdam on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ dj g2g is a techno and club artist based in Uruguay, with 136 gigs on soundcheck
 
 Azyr, Alex Farell, Faster Horses
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djg2g/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djg2g/)*

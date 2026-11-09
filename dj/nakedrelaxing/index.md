@@ -1,6 +1,6 @@
 # naked relaxing
 
-naked relaxing is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Ciało, Wroclaw on Fri, 13 Nov 2026.
+naked relaxing is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Ciało, Wroclaw on Fri, 13 Nov 2026.
 
 naked relaxing is a techno and trance artist based in Poland, with 63 gigs on soundcheck across Krakow, Poznan, Warsaw and Wroclaw. Often billed alongside Kuriozum, Meg (PL) and Truant. Next up: Ciało, Wroclaw on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ naked relaxing is a techno and trance artist based in Poland, with 63 gigs on so
 
 Kuriozum, Meg (PL), Truant
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nakedrelaxing/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nakedrelaxing/)*

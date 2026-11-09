@@ -1,6 +1,6 @@
 # Ally King
 
-Ally King is a Dubstep and Footwork artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Stage and Radio, Manchester on Fri, 27 Nov 2026.
+Ally King is a Dubstep and Footwork artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Stage and Radio, Manchester on Fri, 27 Nov 2026.
 
 Ally King is a dubstep and footwork artist, with 3 gigs on soundcheck across London and Manchester. Often billed alongside Amelia Leigh, GEOMETRIKK and Radioactive Man. Next up: Stage and Radio, Manchester on Fri 27 Nov.
 
@@ -19,4 +19,4 @@ Ally King is a dubstep and footwork artist, with 3 gigs on soundcheck across Lon
 
 Amelia Leigh, GEOMETRIKK, Radioactive Man
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/allyking/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/allyking/)*

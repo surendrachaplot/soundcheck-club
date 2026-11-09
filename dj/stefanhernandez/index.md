@@ -1,8 +1,8 @@
 # Stefan Hernandez
 
-Stefan Hernandez is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Nether Club, Bucharest on Fri, 20 Nov 2026.
+Stefan Hernandez is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Nether Club, Bucharest on Fri, 20 Nov 2026.
 
-Stefan Hernandez is a techno and tech house artist based in United States of America, with 20 gigs on soundcheck across Bucharest. Often billed alongside AMEDEUS, KATHERYNE and Amnesico. Next up: Nether Club, Bucharest on Fri 20 Nov.
+Stefan Hernandez is a techno and tech house artist based in United States of America, with 21 gigs on soundcheck across Bucharest. Often billed alongside AMEDEUS, KATHERYNE and Amnesico. Next up: Nether Club, Bucharest on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Stefan Hernandez is a techno and tech house artist based in United States of Ame
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Nether Club | Bucharest |
 | Fri, 18 Dec 2026 | Nether Club | Bucharest |
+| Fri, 15 Jan 2027 | Nether Club | Bucharest |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Stefan Hernandez is a techno and tech house artist based in United States of Ame
 
 AMEDEUS, KATHERYNE, Amnesico
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanhernandez/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanhernandez/)*

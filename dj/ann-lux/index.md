@@ -1,6 +1,6 @@
 # ANN-LUX
 
-ANN-LUX is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Airport Würzburg, Nürnberg on Fri, 4 Dec 2026.
+ANN-LUX is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Airport Würzburg, Nürnberg on Fri, 4 Dec 2026.
 
 ANN-LUX is a techno and trance artist based in Germany, with 14 gigs on soundcheck across Frankfurt, Nürnberg and Stuttgart. Often billed alongside The Belgian Stallion, DeGuzman and Kacy. Next up: Airport Würzburg, Nürnberg on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ ANN-LUX is a techno and trance artist based in Germany, with 14 gigs on soundche
 
 The Belgian Stallion, DeGuzman, Kacy
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ann-lux/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ann-lux/)*

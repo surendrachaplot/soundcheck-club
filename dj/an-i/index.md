@@ -1,6 +1,6 @@
 # An-i
 
-An-i is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at The Buzz, Berlin on Fri, 20 Nov 2026.
+An-i is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at The Buzz, Berlin on Fri, 20 Nov 2026.
 
 An-i is a techno and house artist based in Germany, with 52 gigs on soundcheck across Beijing, Belgrade, Berlin and Bucharest and 16 more. Often billed alongside Veronica Vasicka, Layne and FFAN. Next up: The Buzz, Berlin on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ An-i is a techno and house artist based in Germany, with 52 gigs on soundcheck a
 
 Veronica Vasicka, Layne, FFAN
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/an-i/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/an-i/)*

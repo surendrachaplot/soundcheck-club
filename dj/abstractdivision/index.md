@@ -1,14 +1,13 @@
 # Abstract Division
 
-Abstract Division is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
+Abstract Division is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Thuishaven, Amsterdam on Sat, 28 Nov 2026.
 
-Abstract Division is a techno and house artist based in Netherlands, with 52 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogot and 14 more. Often billed alongside Grace Dahl, ROD and Rødhåd. Next up: TILLATEC, Amsterdam on Fri 6 Nov.
+Abstract Division is a techno and house artist based in Netherlands, with 52 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogot and 14 more. Often billed alongside Grace Dahl, ROD and Rødhåd. Next up: Thuishaven, Amsterdam on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | TILLATEC | Amsterdam |
 | Sat, 28 Nov 2026 | Thuishaven | Amsterdam |
 | Sat, 28 Nov 2026 | CLUB RAUM | Amsterdam |
 | Fri, 4 Dec 2026 | Coliseo Medplus | Bogot |
@@ -29,4 +28,4 @@ Abstract Division is a techno and house artist based in Netherlands, with 52 gig
 
 Grace Dahl, ROD, Rødhåd
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/abstractdivision/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/abstractdivision/)*

@@ -1,6 +1,6 @@
 # Romare at The Independent
 
-Romare at The Independent on Sat 6 Feb, San Francisco Oakland. 1 artist: Romare. See the line-up on soundcheck.
+Romare at The Independent on Sat 6 Feb, San Francisco Oakland. 1 artist: Romare. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

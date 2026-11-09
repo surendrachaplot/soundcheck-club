@@ -1,6 +1,6 @@
 # unimmune: HER BLOOD at Cafeteria
 
-unimmune: HER BLOOD at Cafeteria on Fri 4 Dec, Toronto. 2 artists: OMG.BLOG and Stella Maise. Electro and Club. See the line-up on soundcheck.
+unimmune: HER BLOOD at Cafeteria on Fri 4 Dec, Toronto. 2 artists: OMG.BLOG and Stella Maise. Techno and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

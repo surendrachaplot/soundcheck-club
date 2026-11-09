@@ -1,6 +1,6 @@
 # Still Agua
 
-Still Agua is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at OXI, Berlin on Thu, 31 Dec 2026.
+Still Agua is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at OXI, Berlin on Thu, 31 Dec 2026.
 
 Still Agua is a house and techno artist, with 3 gigs on soundcheck across Berlin and Rome. Often billed alongside AGY3NA, Costanza and Courtesy. Next up: OXI, Berlin on Thu 31 Dec.
 
@@ -19,4 +19,4 @@ Still Agua is a house and techno artist, with 3 gigs on soundcheck across Berlin
 
 AGY3NA, Costanza, Courtesy
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stillagua/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stillagua/)*

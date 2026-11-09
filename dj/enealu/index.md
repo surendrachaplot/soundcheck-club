@@ -1,14 +1,13 @@
 # Enea Lu
 
-Enea Lu is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Sektor Evolution, Dresden on Sat, 7 Nov 2026.
+Enea Lu is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Prisma, Berlin on Fri, 20 Nov 2026.
 
-Enea Lu is a techno and trance artist based in Germany, with 7 gigs on soundcheck across Berlin, Dresden and Leipzig. Often billed alongside phillson, Atimo and Axoon. Next up: Sektor Evolution, Dresden on Sat 7 Nov.
+Enea Lu is a techno and trance artist based in Germany, with 7 gigs on soundcheck across Berlin, Dresden and Leipzig. Often billed alongside phillson, Atimo and Axoon. Next up: Prisma, Berlin on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Sektor Evolution | Dresden |
 | Fri, 20 Nov 2026 | Prisma | Berlin |
 
 ## Recently played
@@ -24,4 +23,4 @@ Enea Lu is a techno and trance artist based in Germany, with 7 gigs on soundchec
 
 phillson, Atimo, Axoon
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enealu/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enealu/)*

@@ -1,6 +1,6 @@
 # A.N.I.
 
-A.N.I. is a Techno and Trance artist with 12 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Edelfettwerk, Hamburg on Sat, 14 Nov 2026.
+A.N.I. is a Techno and Trance artist with 12 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Edelfettwerk, Hamburg on Sat, 14 Nov 2026.
 
 A.N.I. is a techno and trance artist based in Germany, with 224 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 50 more. Often billed alongside SaltySis, DJ Jordan and IGDA. Next up: Edelfettwerk, Hamburg on Sat 14 Nov.
 
@@ -36,4 +36,4 @@ A.N.I. is a techno and trance artist based in Germany, with 224 gigs on soundche
 
 SaltySis, DJ Jordan, IGDA
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ani/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ani/)*

@@ -1,6 +1,6 @@
 # Cucumelo
 
-Cucumelo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Carrer de Joaquín Costa, 12, Barcelona on Fri, 13 Nov 2026.
+Cucumelo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Carrer de Joaquín Costa, 12, Barcelona on Fri, 13 Nov 2026.
 
 Cucumelo is a house and techno artist based in Spain, with 22 gigs on soundcheck across Barcelona, Buenos Aires and Paris. Often billed alongside Franco Brida, Fera and Lautaro Deem. Next up: TBA - Carrer de Joaquín Costa, 12, Barcelona on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Cucumelo is a house and techno artist based in Spain, with 22 gigs on soundcheck
 
 Franco Brida, Fera, Lautaro Deem
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cucumelo/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cucumelo/)*

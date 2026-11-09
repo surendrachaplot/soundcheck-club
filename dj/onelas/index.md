@@ -1,6 +1,6 @@
 # Onelas
 
-Onelas is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Le Cargö, West on Sat, 5 Dec 2026.
+Onelas is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Le Cargö, West on Sat, 5 Dec 2026.
 
 Onelas is an industrial and techno artist, with 4 gigs on soundcheck across Lyon, Madrid, Paris and West. Often billed alongside BFVR, D44 and DIOW. Next up: Le Cargö, West on Sat 5 Dec.
 
@@ -20,4 +20,4 @@ Onelas is an industrial and techno artist, with 4 gigs on soundcheck across Lyon
 
 BFVR, D44, DIOW
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/onelas/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/onelas/)*

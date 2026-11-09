@@ -1,6 +1,6 @@
 # Neptune
 
-Neptune is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Am Hawerkamp, Münster on Fri, 11 Dec 2026.
+Neptune is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Am Hawerkamp, Münster on Fri, 11 Dec 2026.
 
 Neptune is a techno and electro artist based in Germany, with 11 gigs on soundcheck across Amsterdam, Baden W Rttemberg, Berlin and Frankfurt and 4 more. Often billed alongside A.D.H.S., Anna Tur and NACHTIGALL. Next up: Am Hawerkamp, Münster on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Neptune is a techno and electro artist based in Germany, with 11 gigs on soundch
 
 A.D.H.S., Anna Tur, NACHTIGALL
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neptune/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neptune/)*

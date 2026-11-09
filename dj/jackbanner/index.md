@@ -1,6 +1,6 @@
 # Jack Banner
 
-Jack Banner is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Rebellion, Manchester on Thu, 31 Dec 2026.
+Jack Banner is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Rebellion, Manchester on Thu, 31 Dec 2026.
 
 Jack Banner is a drum & bass and jungle artist based in United Kingdom, with 23 gigs on soundcheck across Liverpool and Manchester. Often billed alongside DAIZ, Rich Reason and Chimpo. Next up: Rebellion, Manchester on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Jack Banner is a drum & bass and jungle artist based in United Kingdom, with 23 
 
 DAIZ, Rich Reason, Chimpo
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jackbanner/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jackbanner/)*

@@ -1,6 +1,6 @@
 # Luke Una
 
-Luke Una is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Dahlia Stereo, Manchester on Mon, 28 Dec 2026.
+Luke Una is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Dahlia Stereo, Manchester on Mon, 28 Dec 2026.
 
 Luke Una is a house and disco artist based in United Kingdom, with 150 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 37 more. Often billed alongside Erol Alkan, Joey T and Simon Morell. Next up: Dahlia Stereo, Manchester on Mon 28 Dec.
 
@@ -30,4 +30,4 @@ Luke Una is a house and disco artist based in United Kingdom, with 150 gigs on s
 
 Erol Alkan, Joey T, Simon Morell
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukeuna/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukeuna/)*

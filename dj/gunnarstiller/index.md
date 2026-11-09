@@ -1,6 +1,6 @@
 # Gunnar Stiller
 
-Gunnar Stiller is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Palais, Munich on Sat, 14 Nov 2026.
+Gunnar Stiller is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Palais, Munich on Sat, 14 Nov 2026.
 
 Gunnar Stiller is a techno and house artist based in Germany, with 66 gigs on soundcheck across Berlin, Frankfurt, Hamburg and Munich and 1 more. Often billed alongside Mømentum, Slurm McKenzie and Cosmokat. Next up: Palais, Munich on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Gunnar Stiller is a techno and house artist based in Germany, with 66 gigs on so
 
 Mømentum, Slurm McKenzie, Cosmokat
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gunnarstiller/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gunnarstiller/)*

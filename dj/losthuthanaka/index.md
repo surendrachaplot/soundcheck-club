@@ -1,14 +1,13 @@
 # Los Thuthanaka
 
-Los Thuthanaka is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
+Los Thuthanaka is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Autódromo de Interlagos, Sao Paulo on Sat, 5 Dec 2026.
 
-Los Thuthanaka is an experimental and electronica artist based in United States of America, with 6 gigs on soundcheck across Austin, Oslo, Philadelphia and Sao Paulo and 2 more. Often billed alongside Eris Drew, Hervé and Introspekt. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
+Los Thuthanaka is an experimental and electronica artist based in United States of America, with 6 gigs on soundcheck across Austin, Oslo, Philadelphia and Sao Paulo and 2 more. Often billed alongside Eris Drew, Hervé and Introspekt. Next up: Autódromo de Interlagos, Sao Paulo on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | TivoliVredenburg | Utrecht |
 | Sat, 5 Dec 2026 | Autódromo de Interlagos | Sao Paulo |
 
 ## Recently played
@@ -23,4 +22,4 @@ Los Thuthanaka is an experimental and electronica artist based in United States 
 
 Eris Drew, Hervé, Introspekt
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/losthuthanaka/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/losthuthanaka/)*

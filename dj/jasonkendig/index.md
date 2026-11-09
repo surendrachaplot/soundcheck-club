@@ -1,6 +1,6 @@
 # Jason Kendig
 
-Jason Kendig is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
+Jason Kendig is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
 
 Jason Kendig is a techno and house artist based in United States of America, with 83 gigs on soundcheck across Bali, Berlin, Chicago and Detroit and 15 more. Often billed alongside Kilopatrah Jones, Auspex and Cosmo (NY). Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Jason Kendig is a techno and house artist based in United States of America, wit
 
 Kilopatrah Jones, Auspex, Cosmo (NY)
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonkendig/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonkendig/)*

@@ -1,13 +1,14 @@
 # Argento Dust
 
-Argento Dust is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at 1Fox Precinct, Johannesburg on Sat, 12 Dec 2026.
+Argento Dust is a Afro House and Afro Tech artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at The Werehouse, Durban on Fri, 11 Dec 2026.
 
-Argento Dust is an afro house and afro tech artist, with 5 gigs on soundcheck across Amsterdam, Cape Town, Johannesburg and London. Often billed alongside Rosey Gold, Thakzin and AfroKillerz. Next up: 1Fox Precinct, Johannesburg on Sat 12 Dec.
+Argento Dust is an afro house and afro tech artist, with 6 gigs on soundcheck across Amsterdam, Cape Town, Durban and Johannesburg and 1 more. Often billed alongside CLEIDO, Kususa and Rosey Gold. Next up: The Werehouse, Durban on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Dec 2026 | The Werehouse | Durban |
 | Sat, 12 Dec 2026 | 1Fox Precinct | Johannesburg |
 
 ## Recently played
@@ -19,6 +20,6 @@ Argento Dust is an afro house and afro tech artist, with 5 gigs on soundcheck ac
 
 ## Shares bills with
 
-Rosey Gold, Thakzin, AfroKillerz
+CLEIDO, Kususa, Rosey Gold
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/argentodust/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/argentodust/)*

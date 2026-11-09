@@ -1,6 +1,6 @@
 # I-F
 
-I-F is a Disco and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Doka, Amsterdam on Fri, 27 Nov 2026.
+I-F is a Disco and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Doka, Amsterdam on Fri, 27 Nov 2026.
 
 I-F is a disco and house artist based in Netherlands, with 95 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 19 more. Often billed alongside Intergalactic Gary, Esther Dune and Marsman. Next up: Doka, Amsterdam on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ I-F is a disco and house artist based in Netherlands, with 95 gigs on soundcheck
 
 Intergalactic Gary, Esther Dune, Marsman
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/i-f/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/i-f/)*

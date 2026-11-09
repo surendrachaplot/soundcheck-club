@@ -1,6 +1,6 @@
 # Nørbak
 
-Nørbak is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Gare Porto, Porto on Fri, 13 Nov 2026.
+Nørbak is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Gare Porto, Porto on Fri, 13 Nov 2026.
 
 Nørbak is a techno and house artist based in Portugal, with 167 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 54 more. Often billed alongside Temudo, Quelza and CRAVO. Next up: Gare Porto, Porto on Fri 13 Nov.
 
@@ -30,4 +30,4 @@ Nørbak is a techno and house artist based in Portugal, with 167 gigs on soundch
 
 Temudo, Quelza, CRAVO
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/norbak/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/norbak/)*

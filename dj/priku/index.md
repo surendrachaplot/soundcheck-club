@@ -1,6 +1,6 @@
 # Priku
 
-Priku is a House and Minimal artist with 9 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Fünk, Mexico City on Sat, 14 Nov 2026.
+Priku is a House and Minimal artist with 9 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Fünk, Mexico City on Sat, 14 Nov 2026.
 
 Priku is a house and minimal artist based in Romania, with 191 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 47 more. Often billed alongside Arapu, Sossa and Seth Troxler. Next up: Fünk, Mexico City on Sat 14 Nov.
 
@@ -33,4 +33,4 @@ Priku is a house and minimal artist based in Romania, with 191 gigs on soundchec
 
 Arapu, Sossa, Seth Troxler
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/priku/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/priku/)*

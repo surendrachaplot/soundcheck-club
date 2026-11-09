@@ -1,6 +1,6 @@
 # Lexx
 
-Lexx is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Kino Roland, Zurich on Fri, 27 Nov 2026.
+Lexx is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Kino Roland, Zurich on Fri, 27 Nov 2026.
 
 Lexx is a house and balearic artist based in Switzerland, with 12 gigs on soundcheck across Manchester, Mexico City and Zurich. Often billed alongside KAYYAK, Kalabrese and Alex Dallas. Next up: Kino Roland, Zurich on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Lexx is a house and balearic artist based in Switzerland, with 12 gigs on soundc
 
 KAYYAK, Kalabrese, Alex Dallas
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lexx/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lexx/)*

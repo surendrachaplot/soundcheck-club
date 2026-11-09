@@ -1,6 +1,6 @@
 # Mars O10C
 
-Mars O10C is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Renate, Berlin on Sat, 5 Dec 2026.
+Mars O10C is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Renate, Berlin on Sat, 5 Dec 2026.
 
 Mars O10C is a techno and trance artist based in France, with 57 gigs on soundcheck across Berlin, Brussels, Leipzig and London and 5 more. Often billed alongside Julie Desire, Jolly (FR) and A-440. Next up: Renate, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Mars O10C is a techno and trance artist based in France, with 57 gigs on soundch
 
 Julie Desire, Jolly (FR), A-440
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marso10c/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marso10c/)*

@@ -1,6 +1,6 @@
 # GYPSY
 
-GYPSY is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Mowbray Indoor Sport N Skate, Tasmania on Sat, 28 Nov 2026.
+GYPSY is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Mowbray Indoor Sport N Skate, Tasmania on Sat, 28 Nov 2026.
 
 GYPSY is a techno and industrial artist based in Australia, with 5 gigs on soundcheck across Sydney, Tasmania and Tokyo. Often billed alongside HIJCKD, KEi and Kvrt. Next up: Mowbray Indoor Sport N Skate, Tasmania on Sat 28 Nov.
 
@@ -21,4 +21,4 @@ GYPSY is a techno and industrial artist based in Australia, with 5 gigs on sound
 
 HIJCKD, KEi, Kvrt
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gypsy/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gypsy/)*

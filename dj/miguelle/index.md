@@ -1,6 +1,6 @@
 # Miguelle
 
-Miguelle is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Estadio Fray Nano , Mexico City on Sat, 28 Nov 2026.
+Miguelle is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Estadio Fray Nano , Mexico City on Sat, 28 Nov 2026.
 
 Miguelle is a tech house and house artist based in Venezuela, with 124 gigs on soundcheck across Amsterdam, Austin, Barcelona and Boston and 22 more. Often billed alongside TONS, Ben Sterling and Marco Carola. Next up: TBA - Estadio Fray Nano , Mexico City on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Miguelle is a tech house and house artist based in Venezuela, with 124 gigs on s
 
 TONS, Ben Sterling, Marco Carola
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelle/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelle/)*

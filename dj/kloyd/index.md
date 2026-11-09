@@ -1,6 +1,6 @@
 # Kloyd
 
-Kloyd is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at NOWHERE, Manchester on Sat, 21 Nov 2026.
+Kloyd is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at NOWHERE, Manchester on Sat, 21 Nov 2026.
 
 Kloyd is a house and electronica artist based in United Kingdom, with 18 gigs on soundcheck across Amsterdam, Bristol, Leeds and London and 1 more. Often billed alongside Jacana People, Ezequiel Arias and 16BL. Next up: NOWHERE, Manchester on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Kloyd is a house and electronica artist based in United Kingdom, with 18 gigs on
 
 Jacana People, Ezequiel Arias, 16BL
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kloyd/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kloyd/)*

@@ -1,8 +1,8 @@
 # Lens (2)
 
-Lens (2) is a Drum & Bass and Dubstep artist with 11 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at XOYO Birmingham, Birmingham on Fri, 13 Nov 2026.
+Lens (2) is a Drum & Bass and Dubstep artist with 12 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at XOYO Birmingham, Birmingham on Fri, 13 Nov 2026.
 
-Lens is a drum & bass and dubstep artist based in United Kingdom, with 37 gigs on soundcheck across Barcelona, Birmingham, Brighton and Brisbane and 26 more. Often billed alongside Degs, Mozey and MPH. Next up: XOYO Birmingham, Birmingham on Fri 13 Nov.
+Lens is a drum & bass and dubstep artist based in United Kingdom, with 38 gigs on soundcheck across Barcelona, Birmingham, Brighton and Brisbane and 27 more. Often billed alongside Degs, Mozey and MPH. Next up: XOYO Birmingham, Birmingham on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Lens is a drum & bass and dubstep artist based in United Kingdom, with 37 gigs o
 | Fri, 13 Nov 2026 | XOYO Birmingham | Birmingham |
 | Sat, 14 Nov 2026 | Hidden | Manchester |
 | Sat, 28 Nov 2026 | Patterns | Brighton |
+| Fri, 4 Dec 2026 | Runnymede Hall | Toronto |
 | Sat, 5 Dec 2026 | Le Centre: Hub Creatif | Quebec-city |
 | Sat, 5 Dec 2026 | Le Centre: Hub Creatif | Quebec-city |
 | Thu, 10 Dec 2026 | The Woodshop | New York City |
@@ -35,4 +36,4 @@ Lens is a drum & bass and dubstep artist based in United Kingdom, with 37 gigs o
 
 Degs, Mozey, MPH (1)
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lens-2/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lens-2/)*

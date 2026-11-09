@@ -1,6 +1,6 @@
 # Yemz
 
-Yemz is a Garage and Bass artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Cakeshop, Seoul on Thu, 19 Nov 2026.
+Yemz is a Garage and Bass artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Cakeshop, Seoul on Thu, 19 Nov 2026.
 
 Yemz is a garage and bass artist based in United Kingdom, with 98 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 21 more. Often billed alongside Dr Dubplate, Bakey and A For Alpha. Next up: Cakeshop, Seoul on Thu 19 Nov.
 
@@ -27,4 +27,4 @@ Yemz is a garage and bass artist based in United Kingdom, with 98 gigs on soundc
 
 Dr Dubplate, Bakey, A For Alpha
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yemz/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yemz/)*

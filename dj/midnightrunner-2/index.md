@@ -1,6 +1,6 @@
 # Midnight Runner (2)
 
-Midnight Runner (2) is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at R Lounge, Tokyo on Fri, 20 Nov 2026.
+Midnight Runner (2) is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at R Lounge, Tokyo on Fri, 20 Nov 2026.
 
 Midnight Runner is a drum & bass and bass artist based in Japan, with 20 gigs on soundcheck across London, Seoul, Taiwan and Tokyo. Often billed alongside maidable, snobo and Dayzero. Next up: R Lounge, Tokyo on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Midnight Runner is a drum & bass and bass artist based in Japan, with 20 gigs on
 
 maidable, snobo (2), Dayzero
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/midnightrunner-2/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/midnightrunner-2/)*

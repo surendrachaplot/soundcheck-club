@@ -1,6 +1,6 @@
 # Sala Salamandra
 
-Sala Salamandra is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. The next is "QueNo Tardeo - Sala Salamandra (L'H)" on Sat, 19 Dec 2026.
+Sala Salamandra is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. The next is "QueNo Tardeo - Sala Salamandra (L'H)" on Sat, 19 Dec 2026.
 
 Sala Salamandra is a music venue in Barcelona listed on soundcheck. 1 upcoming gig, with line-ups including Maadraassoo. See dates, start times and who's playing. Av Carrilet 235, 08907, L'Hospitalet de Llobregat - Barcelona.
 
@@ -14,4 +14,4 @@ Sala Salamandra is a music venue in Barcelona listed on soundcheck. 1 upcoming g
 
 Av Carrilet 235, 08907, L'Hospitalet de Llobregat - Barcelona, Barcelona
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/sala-salamandra/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/sala-salamandra/)*

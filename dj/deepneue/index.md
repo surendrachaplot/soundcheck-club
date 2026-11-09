@@ -1,6 +1,6 @@
 # Deepneue
 
-Deepneue is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Pérola Negra Club, Porto on Fri, 13 Nov 2026.
+Deepneue is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Pérola Negra Club, Porto on Fri, 13 Nov 2026.
 
 Deepneue is a techno and house artist based in Germany, with 73 gigs on soundcheck across Amsterdam, Athens, Berlin and Brussels and 18 more. Often billed alongside Rakans, Projekt Gestalten and Rachel Noon. Next up: Pérola Negra Club, Porto on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Deepneue is a techno and house artist based in Germany, with 73 gigs on soundche
 
 Rakans, Projekt Gestalten, Rachel Noon
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deepneue/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deepneue/)*

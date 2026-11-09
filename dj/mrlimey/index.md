@@ -1,6 +1,6 @@
 # Mr. Limey
 
-Mr. Limey is a Afro House and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at XOYO Birmingham, Birmingham on Sat, 28 Nov 2026.
+Mr. Limey is a Afro House and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at XOYO Birmingham, Birmingham on Sat, 28 Nov 2026.
 
 Mr. Limey is an afro house and garage artist based in United Kingdom, with 3 gigs on soundcheck across Birmingham. Often billed alongside Danny Ghost, N:Fostell and DJ IC. Next up: XOYO Birmingham, Birmingham on Sat 28 Nov.
 
@@ -19,4 +19,4 @@ Mr. Limey is an afro house and garage artist based in United Kingdom, with 3 gig
 
 Danny Ghost, N:Fostell, DJ IC
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mrlimey/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mrlimey/)*

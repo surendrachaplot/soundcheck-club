@@ -1,6 +1,6 @@
 # Chloé Caillet
 
-Chloé Caillet is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Parque Fundidora, Monterrey on Fri, 13 Nov 2026.
+Chloé Caillet is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Parque Fundidora, Monterrey on Fri, 13 Nov 2026.
 
 Chloé Caillet is a house and techno artist based in United States of America, with 264 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 64 more. Often billed alongside Seth Troxler, DJ Tennis and Mochakk. Next up: Parque Fundidora, Monterrey on Fri 13 Nov.
 
@@ -28,4 +28,4 @@ Chloé Caillet is a house and techno artist based in United States of America, w
 
 Seth Troxler, DJ Tennis, Mochakk
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chloecaillet/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chloecaillet/)*

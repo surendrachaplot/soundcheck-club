@@ -1,8 +1,8 @@
 # Ken Ishii
 
-Ken Ishii is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at or, Tokyo on Mon, 23 Nov 2026.
+Ken Ishii is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at or, Tokyo on Mon, 23 Nov 2026.
 
-Ken Ishii is a techno and house artist based in Japan, with 123 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Budapest and 18 more. Often billed alongside Drunken Kong, Risa Taniguchi and Ririko. Next up: or, Tokyo on Mon 23 Nov.
+Ken Ishii is a techno and house artist based in Japan, with 124 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Budapest and 18 more. Often billed alongside Drunken Kong, Risa Taniguchi and Ririko. Next up: or, Tokyo on Mon 23 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Ken Ishii is a techno and house artist based in Japan, with 123 gigs on soundche
 | Mon, 23 Nov 2026 | or | Tokyo |
 | Thu, 3 Dec 2026 | WOMB | Tokyo |
 | Sat, 5 Dec 2026 | Liquidroom | Tokyo |
+| Sat, 26 Dec 2026 | R Lounge | Tokyo |
 | Tue, 29 Dec 2026 | Joule | Osaka |
 
 ## Recently played
@@ -28,4 +29,4 @@ Ken Ishii is a techno and house artist based in Japan, with 123 gigs on soundche
 
 Drunken Kong, Risa Taniguchi, Ririko
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kenishii/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kenishii/)*

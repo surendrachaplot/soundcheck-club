@@ -1,6 +1,6 @@
 # Dea (6)
 
-Dea (6) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at ://about blank, Berlin on Thu, 31 Dec 2026.
+Dea (6) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at ://about blank, Berlin on Thu, 31 Dec 2026.
 
 Dea is a techno and house artist based in Croatia, with 75 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 21 more. Often billed alongside ERIS, Enrica Falqui and Free Zing. Next up: ://about blank, Berlin on Thu 31 Dec.
 
@@ -26,4 +26,4 @@ Dea is a techno and house artist based in Croatia, with 75 gigs on soundcheck ac
 
 ERIS, Enrica Falqui, Free Zing
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deadvornik/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deadvornik/)*

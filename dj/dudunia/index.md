@@ -1,6 +1,6 @@
 # DUDUNIA
 
-DUDUNIA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Beben, Rhineland-palatinate on Fri, 13 Nov 2026.
+DUDUNIA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Beben, Rhineland-palatinate on Fri, 13 Nov 2026.
 
 DUDUNIA is a techno and house artist based in Georgia, with 4 gigs on soundcheck across Frankfurt, Hannover and Rhineland Palatinate. Often billed alongside Viktoriia Merlan, IraYa and VIKTORIIA. Next up: Beben, Rhineland Palatinate on Fri 13 Nov.
 
@@ -20,4 +20,4 @@ DUDUNIA is a techno and house artist based in Georgia, with 4 gigs on soundcheck
 
 Viktoriia Merlan, IraYa, VIKTORIIA
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dudunia/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dudunia/)*

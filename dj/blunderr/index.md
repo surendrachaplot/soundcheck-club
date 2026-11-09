@@ -1,6 +1,6 @@
 # Blunderr
 
-Blunderr is a Bass and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Brancaleone, Rome on Sat, 21 Nov 2026.
+Blunderr is a Bass and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Brancaleone, Rome on Sat, 21 Nov 2026.
 
 Blunderr is a bass and electro artist based in Italy, with 16 gigs on soundcheck across Bologna, Milan and Rome. Often billed alongside MA\E, Collider and Hemolymph. Next up: Brancaleone, Rome on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Blunderr is a bass and electro artist based in Italy, with 16 gigs on soundcheck
 
 MA\E, Collider, Hemolymph
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blunderr/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blunderr/)*

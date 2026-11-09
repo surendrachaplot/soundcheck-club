@@ -1,6 +1,6 @@
 # Howie Lee
 
-Howie Lee is a Gqom and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
+Howie Lee is a Gqom and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
 
 Howie Lee is a gqom and hip-hop artist, with 8 gigs on soundcheck across Berlin, Chengdu, Los Angeles and Shanghai and 2 more. Often billed alongside ALEX WANG, Afrodite and Alex Albrecht. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
 
@@ -24,4 +24,4 @@ Howie Lee is a gqom and hip-hop artist, with 8 gigs on soundcheck across Berlin,
 
 ALEX WANG, Afrodite (2), Alex Albrecht
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/howielee/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/howielee/)*

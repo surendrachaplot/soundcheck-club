@@ -1,6 +1,6 @@
 # VENERE
 
-VENERE is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Gallery, London on Sat, 28 Nov 2026.
+VENERE is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Gallery, London on Sat, 28 Nov 2026.
 
 VENERE is a deep house and house artist based in United Kingdom, with 63 gigs on soundcheck across Buenos Aires, London and Tallinn. Often billed alongside Colaps, Lester Isaac and Tear of Joy. Next up: Gallery, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ VENERE is a deep house and house artist based in United Kingdom, with 63 gigs on
 
 Colaps, Lester Isaac, Tear of Joy
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/venere/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/venere/)*

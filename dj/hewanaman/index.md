@@ -1,6 +1,6 @@
 # Hewan Aman
 
-Hewan Aman is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - DTLA, Los Angeles on Fri, 20 Nov 2026.
+Hewan Aman is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - DTLA, Los Angeles on Fri, 20 Nov 2026.
 
 Hewan Aman is a techno and trance artist based in France, with 88 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside Kasper Marott, Lastvuska and Mama Snake. Next up: TBA - DTLA, Los Angeles on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Hewan Aman is a techno and trance artist based in France, with 88 gigs on soundc
 
 Kasper Marott, Lastvuska, Mama Snake
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hewanaman/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hewanaman/)*

@@ -1,6 +1,6 @@
 # Housequake All Day Long at Het Sieraad
 
-Housequake All Day Long at Het Sieraad on Sat 6 Feb, Amsterdam. 1 artist: Housequake. See the line-up on soundcheck.
+Housequake All Day Long at Het Sieraad on Sat 6 Feb, Amsterdam. 1 artist: Housequake. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

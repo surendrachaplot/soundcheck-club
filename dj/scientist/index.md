@@ -1,15 +1,13 @@
 # The Scientist
 
-The Scientist is a Dub and Jungle artist with 7 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
+The Scientist is a Dub and Jungle artist with 5 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA, Los Angeles on Fri, 4 Dec 2026.
 
-The Scientist is a dub and jungle artist based in Jamaica, with 22 gigs on soundcheck across Amsterdam, Bristol, Helsinki and Liverpool and 11 more. Often billed alongside Aba Shanti-I, Kelman Duran and Azu Tiwaline. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
+The Scientist is a dub and jungle artist based in Jamaica, with 22 gigs on soundcheck across Amsterdam, Bristol, Helsinki and Liverpool and 11 more. Often billed alongside Aba Shanti-I, Kelman Duran and Azu Tiwaline. Next up: TBA, Los Angeles on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | TivoliVredenburg | Utrecht |
-| Sat, 7 Nov 2026 | KABUL à GoGo | Utrecht |
 | Fri, 4 Dec 2026 | TBA | Los Angeles |
 | Fri, 5 Feb 2027 | Fasching | Stockholm |
 | Sat, 6 Feb 2027 | Inkonst | Malmo |
@@ -31,4 +29,4 @@ The Scientist is a dub and jungle artist based in Jamaica, with 22 gigs on sound
 
 Aba Shanti-I, Kelman Duran, Azu Tiwaline
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scientist/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scientist/)*

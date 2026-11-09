@@ -1,6 +1,6 @@
 # Thomas Corbach
 
-Thomas Corbach is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Sauna Klub Wolfsburg, Lower-saxony on Sat, 12 Dec 2026.
+Thomas Corbach is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Sauna Klub Wolfsburg, Lower-saxony on Sat, 12 Dec 2026.
 
 Thomas Corbach is a house and tech house artist based in Germany, with 4 gigs on soundcheck across Hannover and Lower Saxony. Often billed alongside Andi de Luxe, Christian Burkhardt and Nervous. Next up: Sauna Klub Wolfsburg, Lower Saxony on Sat 12 Dec.
 
@@ -20,4 +20,4 @@ Thomas Corbach is a house and tech house artist based in Germany, with 4 gigs on
 
 Andi de Luxe, Christian Burkhardt, Nervous
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thomascorbach/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thomascorbach/)*

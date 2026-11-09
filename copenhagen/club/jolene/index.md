@@ -1,6 +1,6 @@
 # Jolene
 
-Jolene is a music venue in Copenhagen with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Club 1210 with sportjohan, Muzzla+, Anton Goltermann, Arto" on Thu, 12 Nov 2026.
+Jolene is a music venue in Copenhagen with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Club 1210 with sportjohan, Muzzla+, Anton Goltermann, Arto" on Thu, 12 Nov 2026.
 
 Jolene is a music venue in Copenhagen listed on soundcheck. 3 upcoming gigs, with line-ups including Anton Goltermann, Crisco, DJ Woo Girl and NAT (SK) and 2 more. See dates, start times and who's playing. Flaesketorvet 81; Copenhagen V. 1711; Denmark.
 
@@ -16,4 +16,4 @@ Jolene is a music venue in Copenhagen listed on soundcheck. 3 upcoming gigs, wit
 
 Flaesketorvet 81; Copenhagen V. 1711; Denmark, Copenhagen
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/jolene/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/jolene/)*

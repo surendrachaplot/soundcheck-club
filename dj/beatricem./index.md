@@ -1,6 +1,6 @@
 # Beatrice M.
 
-Beatrice M. is a Dubstep and Bass artist with 7 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Point Ephémère, Paris on Fri, 13 Nov 2026.
+Beatrice M. is a Dubstep and Bass artist with 7 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Point Ephémère, Paris on Fri, 13 Nov 2026.
 
 Beatrice M. is a dubstep and bass artist based in France, with 136 gigs on soundcheck across Amsterdam, Belgium, Berlin and Bordeaux and 32 more. Often billed alongside Tim Reaper, EMA and Mia Koden. Next up: Point Ephémère, Paris on Fri 13 Nov.
 
@@ -31,4 +31,4 @@ Beatrice M. is a dubstep and bass artist based in France, with 136 gigs on sound
 
 Tim Reaper, EMA (1), Mia Koden
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beatricem./)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beatricem./)*

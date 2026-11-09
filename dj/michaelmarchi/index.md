@@ -1,6 +1,6 @@
 # Michael Marchi
 
-Michael Marchi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Sensorium, Berlin on Wed, 2 Dec 2026.
+Michael Marchi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Sensorium, Berlin on Wed, 2 Dec 2026.
 
 Michael Marchi is a techno and house artist based in Italy, with 5 gigs on soundcheck across Berlin and Florence. Often billed alongside April the pink, DJ Kodah and Domovnika. Next up: Sensorium, Berlin on Wed 2 Dec.
 
@@ -21,4 +21,4 @@ Michael Marchi is a techno and house artist based in Italy, with 5 gigs on sound
 
 April the pink, DJ Kodah, Domovnika
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelmarchi/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelmarchi/)*

@@ -1,6 +1,6 @@
 # Very Small Club
 
-Very Small Club is a music venue in Budapest with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Fine Selection #225 - Electric Boutique, Kirill, Kernel" on Fri, 20 Nov 2026.
+Very Small Club is a music venue in Budapest with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Fine Selection #225 - Electric Boutique, Kirill, Kernel" on Fri, 20 Nov 2026.
 
 Very Small Club is a music venue in Budapest listed on soundcheck. 2 upcoming gigs, with line-ups including Electric Boutique and Monoclick. See dates, start times and who's playing. Dohány u. 28, 1074.
 
@@ -15,4 +15,4 @@ Very Small Club is a music venue in Budapest listed on soundcheck. 2 upcoming gi
 
 Dohány u. 28, 1074, Budapest
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/very-small-club/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/very-small-club/)*

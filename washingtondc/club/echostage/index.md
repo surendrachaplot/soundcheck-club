@@ -1,6 +1,6 @@
 # Echostage
 
-Echostage is a music venue in Washington DC with 20 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Brutalismus 3000 w/ Boys Noize, pluko, 10cust, Gabberbitch69 b2b HissyFit" on Fri, 13 Nov 2026.
+Echostage is a music venue in Washington DC with 20 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Brutalismus 3000 w/ Boys Noize, pluko, 10cust, Gabberbitch69 b2b HissyFit" on Fri, 13 Nov 2026.
 
 Echostage is a music venue in Washington DC listed on soundcheck. 20 upcoming gigs, with line-ups including 10cust, Boys Noize, Brutalismus 3000 and Casey Club and 2 more. See dates, start times and who's playing. 2135 Queens Chapel Road NE, Washington, DC 20018.
 
@@ -23,4 +23,4 @@ Echostage is a music venue in Washington DC listed on soundcheck. 20 upcoming gi
 
 2135 Queens Chapel Road NE, Washington, DC 20018, Washington DC
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/echostage/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/echostage/)*

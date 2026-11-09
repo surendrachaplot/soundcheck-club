@@ -1,6 +1,6 @@
 # 314 Scholes
 
-314 Scholes is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Regal86/1OO1O/shekdash/1morning" on Fri, 13 Nov 2026.
+314 Scholes is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Regal86/1OO1O/shekdash/1morning" on Fri, 13 Nov 2026.
 
 314 Scholes is a music venue in New York City listed on soundcheck. 4 upcoming gigs, with line-ups including 1morning, 1OO1O, Modeselektor and Nita Aviance and 2 more. See dates, start times and who's playing. 314 Scholes St Brooklyn, NY 11206.
 
@@ -17,4 +17,4 @@
 
 314 Scholes St Brooklyn, NY 11206, New York City
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/314-scholes/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/314-scholes/)*

@@ -1,6 +1,6 @@
 # Slipmatt
 
-Slipmatt is a Hardcore and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA, Amsterdam on Fri, 9 Apr 2027.
+Slipmatt is a Hardcore and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA, Amsterdam on Fri, 9 Apr 2027.
 
 Slipmatt is a hardcore and house artist based in United Kingdom, with 67 gigs on soundcheck across Amsterdam, Berlin, Birmingham and Brighton and 11 more. Often billed alongside Ratpack, Grooverider and Nicky Blackmarket. Next up: TBA, Amsterdam on Fri 9 Apr.
 
@@ -25,4 +25,4 @@ Slipmatt is a hardcore and house artist based in United Kingdom, with 67 gigs on
 
 Ratpack, Grooverider, Nicky Blackmarket
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slipmatt/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slipmatt/)*

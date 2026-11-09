@@ -1,6 +1,6 @@
 # Robert Templa
 
-Robert Templa is a Ambient and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at BLO Ateliers, Berlin on Fri, 20 Nov 2026.
+Robert Templa is a Ambient and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at BLO Ateliers, Berlin on Fri, 20 Nov 2026.
 
 Robert Templa is an ambient and techno artist based in Germany, with 3 gigs on soundcheck across Berlin. Often billed alongside B. Ashra, BERLIN and FrankReich. Next up: BLO Ateliers, Berlin on Fri 20 Nov.
 
@@ -19,4 +19,4 @@ Robert Templa is an ambient and techno artist based in Germany, with 3 gigs on s
 
 B. Ashra, BERLIN, FrankReich
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roberttempla/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roberttempla/)*

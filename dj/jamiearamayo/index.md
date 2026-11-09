@@ -1,6 +1,6 @@
 # Jamie Aramayo
 
-Jamie Aramayo is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at OVO Arena Wembley, London on Fri, 1 Jan 2027.
+Jamie Aramayo is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at OVO Arena Wembley, London on Fri, 1 Jan 2027.
 
 Jamie Aramayo is a tech house and house artist based in United Kingdom, with 4 gigs on soundcheck across Calgary, Leeds and London. Often billed alongside Joss Dean, Wheats and Beave. Next up: OVO Arena Wembley, London on Fri 1 Jan.
 
@@ -20,4 +20,4 @@ Jamie Aramayo is a tech house and house artist based in United Kingdom, with 4 g
 
 Joss Dean, Wheats, Beave
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiearamayo/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiearamayo/)*

@@ -1,6 +1,6 @@
 # Ontal
 
-Ontal is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Drugstore Beograd, Belgrade on Fri, 27 Nov 2026.
+Ontal is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Drugstore Beograd, Belgrade on Fri, 27 Nov 2026.
 
 Ontal is a techno and industrial artist, with 3 gigs on soundcheck across Belgrade and Paris. Often billed alongside Jamie Bissmire, Keepsakes and Ledeni. Next up: Drugstore Beograd, Belgrade on Fri 27 Nov.
 
@@ -19,4 +19,4 @@ Ontal is a techno and industrial artist, with 3 gigs on soundcheck across Belgra
 
 Jamie Bissmire, Keepsakes, Ledeni
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ontal/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ontal/)*

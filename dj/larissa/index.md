@@ -1,6 +1,6 @@
 # larissa
 
-larissa is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Crackhouse, Gdansk on Fri, 13 Nov 2026.
+larissa is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Crackhouse, Gdansk on Fri, 13 Nov 2026.
 
 larissa is a bass and house artist based in Poland, with 20 gigs on soundcheck across Gdansk, Miami, Warsaw and Wroclaw. Often billed alongside ALLG, DiV4 and monka. Next up: Crackhouse, Gdansk on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ larissa is a bass and house artist based in Poland, with 20 gigs on soundcheck a
 
 ALLG, DiV4, monka
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/larissa/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/larissa/)*

@@ -1,6 +1,6 @@
 # Flabaire
 
-Flabaire is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Pamela Club, Paris on Sat, 14 Nov 2026.
+Flabaire is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Pamela Club, Paris on Sat, 14 Nov 2026.
 
 Flabaire is a house and electro artist based in France, with 65 gigs on soundcheck across Barcelona, Berlin, Bordeaux and Brussels and 8 more. Often billed alongside GGGG, Larry Houl and Mad Rey. Next up: Pamela Club, Paris on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Flabaire is a house and electro artist based in France, with 65 gigs on soundche
 
 GGGG, Larry Houl, Mad Rey
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flabaire/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flabaire/)*

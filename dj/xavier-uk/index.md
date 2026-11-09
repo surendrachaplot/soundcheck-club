@@ -1,6 +1,6 @@
 # Xavier (UK)
 
-Xavier (UK) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Quarry, Liverpool on Thu, 12 Nov 2026.
+Xavier (UK) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Quarry, Liverpool on Thu, 12 Nov 2026.
 
 Xavier (UK) is a techno and trance artist based in United Kingdom, with 22 gigs on soundcheck across Copenhagen, Leipzig, Liverpool and London and 4 more. Often billed alongside Anabel Arroyo, Anastasia Kristensen and BOJ. Next up: Quarry, Liverpool on Thu 12 Nov.
 
@@ -26,4 +26,4 @@ Xavier (UK) is a techno and trance artist based in United Kingdom, with 22 gigs 
 
 Anabel Arroyo, Anastasia Kristensen, BOJ (1)
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xavier-uk/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xavier-uk/)*

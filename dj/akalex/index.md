@@ -1,6 +1,6 @@
 # Akalex
 
-Akalex is a Electro and Baile Funk artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Pamela Club, Paris on Fri, 13 Nov 2026.
+Akalex is a Electro and Baile Funk artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Pamela Club, Paris on Fri, 13 Nov 2026.
 
 Akalex is an electro and baile funk artist based in France, with 25 gigs on soundcheck across Amsterdam, Geneva, Lisbon and London and 5 more. Often billed alongside Yosef (ES), Diego Armando and MATVEÏ. Next up: Pamela Club, Paris on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Akalex is an electro and baile funk artist based in France, with 25 gigs on soun
 
 Yosef (ES), Diego Armando, MATVEÏ
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akalex/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akalex/)*

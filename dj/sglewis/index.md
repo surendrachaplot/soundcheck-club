@@ -1,6 +1,6 @@
 # SG Lewis
 
-SG Lewis is a House and Electronica artist with 6 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
+SG Lewis is a House and Electronica artist with 6 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
 
 SG Lewis is a house and electronica artist based in United Kingdom, with 95 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 26 more. Often billed alongside Gorgon City, Dom Dolla and Eliza Rose. Next up: The Concourse Project, Austin on Fri 13 Nov.
 
@@ -30,4 +30,4 @@ SG Lewis is a house and electronica artist based in United Kingdom, with 95 gigs
 
 Gorgon City, Dom Dolla, Eliza Rose
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sglewis/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sglewis/)*

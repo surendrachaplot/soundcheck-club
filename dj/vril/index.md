@@ -1,14 +1,13 @@
 # .VRIL
 
-.VRIL is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Green Room NYC, New York City on Sat, 7 Nov 2026.
+.VRIL is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Printhouse, Munich on Sat, 14 Nov 2026.
 
-.VRIL is a techno and house artist based in Germany, with 154 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 48 more. Often billed alongside DJ Dustin, Konstantin and Edward. Next up: Green Room NYC, New York City on Sat 7 Nov.
+.VRIL is a techno and house artist based in Germany, with 154 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 48 more. Often billed alongside DJ Dustin, Konstantin and Edward. Next up: Printhouse, Munich on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Green Room NYC | New York City |
 | Sat, 14 Nov 2026 | Printhouse | Munich |
 | Fri, 20 Nov 2026 | Magasins Généraux | Paris |
 | Sat, 21 Nov 2026 | Magasins Généraux | Paris |
@@ -30,4 +29,4 @@
 
 DJ Dustin, Konstantin, Edward
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vril/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vril/)*

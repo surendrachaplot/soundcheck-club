@@ -1,6 +1,6 @@
 # Zaleel
 
-Zaleel is a Bass and Pop artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Colour Factory, London on Fri, 13 Nov 2026.
+Zaleel is a Bass and Pop artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Colour Factory, London on Fri, 13 Nov 2026.
 
 Zaleel is a bass and pop artist based in United Kingdom, with 28 gigs on soundcheck across London and Manchester. Often billed alongside Manara (UK), Basmati and MOYA_. Next up: Colour Factory, London on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Zaleel is a bass and pop artist based in United Kingdom, with 28 gigs on soundch
 
 Manara (UK), Basmati (1), MOYA_
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zaleel/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zaleel/)*

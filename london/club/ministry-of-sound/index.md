@@ -1,14 +1,13 @@
 # Ministry Of Sound
 
-Ministry Of Sound is a music venue in London with 23 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "DJ FERE live in LONDON" on Sun, 8 Nov 2026.
+Ministry Of Sound is a music venue in London with 22 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Milkshake, Ministry Of Sound - London's Biggest Student Night" on Tue, 10 Nov 2026.
 
-Ministry Of Sound is a music venue in London listed on soundcheck. 23 upcoming gigs, with line-ups including AARON SEVILLA, Afrobeat, Amber Rose and Amy Cutter and 2 more. See dates, start times and who's playing. 103 Gaunt St, London SE1 6DP.
+Ministry Of Sound is a music venue in London listed on soundcheck. 22 upcoming gigs, with line-ups including AARON SEVILLA, Afrobeat, Amber Rose and Amy Cutter and 2 more. See dates, start times and who's playing. 103 Gaunt St, London SE1 6DP.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 8 Nov 2026 | DJ FERE live in LONDON |  |
 | Tue, 10 Nov 2026 | Milkshake, Ministry Of Sound - London's Biggest Student Night |  |
 | Fri, 13 Nov 2026 | Juany Bravo (MAKE THE GIRLS DANCE), David Tort + SPECIAL GUESTS | David Tort, Juany Bravo |
 | Sat, 14 Nov 2026 | Deep Supply | Atjazz, Billy Cocks, David Bailey (UK), Groove Assassin, The Journey Men |
@@ -18,9 +17,10 @@ Ministry Of Sound is a music venue in London listed on soundcheck. 23 upcoming g
 | Sat, 21 Nov 2026 | Robbie Doherty, DJ Cosworth B2B Oldboy + more | Caleb Laurenson, Candidate, Chris Gialanze, DJ Cosworth, Danny P, Lily C-D, Niva, Oldboy, Rennie Peters, Robbie Doherty |
 | Tue, 24 Nov 2026 | Milkshake, Ministry Of Sound - London's Biggest Student Night |  |
 | Fri, 27 Nov 2026 | Chris Watson | Chris Watson |
+| Fri, 27 Nov 2026 | HOME ROOTED |  |
 
 ## Address
 
 103 Gaunt St, London SE1 6DP, London
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/ministry-of-sound/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/ministry-of-sound/)*

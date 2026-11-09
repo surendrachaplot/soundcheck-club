@@ -1,6 +1,6 @@
 # Alexandthere
 
-Alexandthere is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Loo Loo, Mexico City on Fri, 13 Nov 2026.
+Alexandthere is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Loo Loo, Mexico City on Fri, 13 Nov 2026.
 
 Alexandthere is a house and deep house artist based in Mexico, with 43 gigs on soundcheck across Guadalajara and Mexico City. Often billed alongside B'ida, Rampue and Dennis Cruz. Next up: Loo Loo, Mexico City on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Alexandthere is a house and deep house artist based in Mexico, with 43 gigs on s
 
 B'ida, Rampue, Dennis Cruz
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandthere/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandthere/)*

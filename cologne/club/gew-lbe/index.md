@@ -1,14 +1,13 @@
 # Gewölbe
 
-Gewölbe is a music venue in Cologne with 16 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Research with Elisen, Mariami, Marv & Sven" on Sun, 8 Nov 2026.
+Gewölbe is a music venue in Cologne with 15 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Elfter Elfter with Phonovision" on Wed, 11 Nov 2026.
 
-Gewölbe is a music venue in Cologne listed on soundcheck. 16 upcoming gigs, with line-ups including Paula Tape, Ahmet Sisman, Anatoli [DE] and ATEQ and 2 more. See dates, start times and who's playing. Hans-Böckler Platz 2, 50672; Cologne; Germany.
+Gewölbe is a music venue in Cologne listed on soundcheck. 15 upcoming gigs, with line-ups including Paula Tape, Ahmet Sisman, Anatoli [DE] and ATEQ and 2 more. See dates, start times and who's playing. Hans-Böckler Platz 2, 50672; Cologne; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 8 Nov 2026 | Research with Elisen, Mariami, Marv & Sven | Elisen, Mariami |
 | Wed, 11 Nov 2026 | Elfter Elfter with Phonovision | DJ ASS TITS, HiHat, Pavelo Promillo, Slaymira, Sophti, juno.j |
 | Fri, 13 Nov 2026 | Perfect Timing with Biggie Schoellz, Fero Duman, Nic Lorenz, Sidney Charles, SIMES | Fero Duman, Nic Lorenz, SIMES, Sidney Charles |
 | Sat, 14 Nov 2026 | Klubnacht with Michael Mayer - all night long- | Michael Mayer |
@@ -18,9 +17,10 @@ Gewölbe is a music venue in Cologne listed on soundcheck. 16 upcoming gigs, wit
 | Sat, 28 Nov 2026 | Im Fokus with Di² & Elisen, Locrian, Marco Hilbert & rilé | Elisen, Marco Hilbert (2), rilé |
 | Fri, 4 Dec 2026 | HOOVE with Chiara Kley, Julian, Onur Özer | Julian Feierabend, Onur Özer |
 | Sat, 5 Dec 2026 | Schleuse Eins with ATEQ & Skee Mask - all night long - | ATEQ, Skee Mask |
+| Fri, 11 Dec 2026 | CLR with Chris Liebing, Plumitaa | Chris Liebing, Plumitaa |
 
 ## Address
 
 Hans-Böckler Platz 2, 50672; Cologne; Germany, Cologne
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/gew-lbe/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/gew-lbe/)*

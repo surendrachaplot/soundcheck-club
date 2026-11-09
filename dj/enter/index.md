@@ -1,8 +1,8 @@
 # ENTER
 
-ENTER is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at ZEROTOKYO, Tokyo on Fri, 13 Nov 2026.
+ENTER is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at ZEROTOKYO, Tokyo on Fri, 13 Nov 2026.
 
-ENTER is an industrial and techno artist, with 3 gigs on soundcheck across Kyoto, Tokyo and Vilnius. Often billed alongside CHIKA, Calavera and Daichi. Next up: ZEROTOKYO, Tokyo on Fri 13 Nov.
+ENTER is an industrial and techno artist, with 3 gigs on soundcheck across Kyoto, Tokyo and Vilnius. Often billed alongside ABOUT SOFIYA, CHIKA and Calavera. Next up: ZEROTOKYO, Tokyo on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -17,6 +17,6 @@ ENTER is an industrial and techno artist, with 3 gigs on soundcheck across Kyoto
 
 ## Shares bills with
 
-CHIKA, Calavera, Daichi
+ABOUT SOFIYA, CHIKA, Calavera
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enter/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enter/)*

@@ -1,8 +1,8 @@
 # Rooléh
 
-Rooléh is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at fabric, London on Fri, 27 Nov 2026.
+Rooléh is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at fabric, London on Fri, 27 Nov 2026.
 
-Rooléh is a house and tech house artist based in Netherlands, with 94 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Glasgow and 17 more. Often billed alongside Easttown, Prunk and Benny Rodrigues. Next up: fabric, London on Fri 27 Nov.
+Rooléh is a house and tech house artist based in Netherlands, with 95 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Glasgow and 18 more. Often billed alongside Easttown, Prunk and Benny Rodrigues. Next up: fabric, London on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Rooléh is a house and tech house artist based in Netherlands, with 94 gigs on s
 | Wed, 2 Dec 2026 | Factory Town | Miami |
 | Sun, 6 Dec 2026 | Factory Town | Miami |
 | Tue, 29 Dec 2026 | Sub Club | Glasgow |
+| Sat, 6 Feb 2027 | Halcyon | San Francisco/Oakland |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Rooléh is a house and tech house artist based in Netherlands, with 94 gigs on s
 
 Easttown, Prunk, Benny Rodrigues
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rooleh/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rooleh/)*

@@ -1,6 +1,6 @@
 # Hamdi (UK)
 
-Hamdi (UK) is a Bass and Dubstep artist with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Club Magno, Madrid on Thu, 12 Nov 2026.
+Hamdi (UK) is a Bass and Dubstep artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Club Magno, Madrid on Thu, 12 Nov 2026.
 
 Hamdi (UK) is a bass and dubstep artist based in United Kingdom, with 77 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 41 more. Often billed alongside SICARIA, Ahadadream and MPH. Next up: Club Magno, Madrid on Thu 12 Nov.
 
@@ -28,4 +28,4 @@ Hamdi (UK) is a bass and dubstep artist based in United Kingdom, with 77 gigs on
 
 SICARIA, Ahadadream, MPH (1)
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hamdiuk/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hamdiuk/)*

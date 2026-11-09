@@ -1,6 +1,6 @@
 # Blueprint
 
-Blueprint is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at The Golden Sheaf, New-south-wales on Sat, 26 Dec 2026.
+Blueprint is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Golden Sheaf, New-south-wales on Sat, 26 Dec 2026.
 
 Blueprint is a techno and electro artist, with 4 gigs on soundcheck across Bristol, Ljubljana, London and New South Wales. Often billed alongside 2ManyDJs, Almared and Ashlea Milinkovic. Next up: The Golden Sheaf, New South Wales on Sat 26 Dec.
 
@@ -20,4 +20,4 @@ Blueprint is a techno and electro artist, with 4 gigs on soundcheck across Brist
 
 2ManyDJs, Almared, Ashlea Milinkovic
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blueprint/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blueprint/)*

@@ -1,6 +1,6 @@
 # Sindh
 
-Sindh is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at 宀 Club, Hong Kong on Sat, 26 Dec 2026.
+Sindh is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at 宀 Club, Hong Kong on Sat, 26 Dec 2026.
 
 Sindh is a techno and trance artist based in France, with 17 gigs on soundcheck across Brussels, Central, Hong Kong and Lyon and 7 more. Often billed alongside Emilia Grima, TSUNIMAN and A Strange Wedding. Next up: 宀 Club, Hong Kong on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Sindh is a techno and trance artist based in France, with 17 gigs on soundcheck 
 
 Emilia Grima, TSUNIMAN, A Strange Wedding
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sindh/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sindh/)*

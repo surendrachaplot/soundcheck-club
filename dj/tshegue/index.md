@@ -1,14 +1,13 @@
 # Tshegue
 
-Tshegue is a Techno and Dub artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
+Tshegue is a Techno and Dub artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 28 Jan 2027.
 
-Tshegue is a techno and dub artist based in France, with 4 gigs on soundcheck across Berlin, Lyon, Nantes and Utrecht. Often billed alongside Azu Tiwaline, Heith and 96 Back. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
+Tshegue is a techno and dub artist based in France, with 4 gigs on soundcheck across Berlin, Lyon, Nantes and Utrecht. Often billed alongside Azu Tiwaline, Heith and 96 Back. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 28 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | TivoliVredenburg | Utrecht |
 | Thu, 28 Jan 2027 | Berghain / Panorama Bar / Säule | Berlin |
 
 ## Recently played
@@ -21,4 +20,4 @@ Tshegue is a techno and dub artist based in France, with 4 gigs on soundcheck ac
 
 Azu Tiwaline, Heith, 96 Back
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tshegue/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tshegue/)*

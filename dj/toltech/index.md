@@ -1,6 +1,6 @@
 # Toltech
 
-Toltech is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at ESC, Montreal on Thu, 12 Nov 2026.
+Toltech is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at ESC, Montreal on Thu, 12 Nov 2026.
 
 Toltech is a techno and minimal techno artist based in Canada, with 25 gigs on soundcheck across Montreal, Quebec City and Toronto. Often billed alongside Miss Oana, VIKE KING and ALEX REV. Next up: ESC, Montreal on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Toltech is a techno and minimal techno artist based in Canada, with 25 gigs on s
 
 Miss Oana, VIKE KING, ALEX REV
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toltech/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toltech/)*

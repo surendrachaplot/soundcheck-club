@@ -1,6 +1,6 @@
 # Schaed
 
-Schaed is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Vault Club, East on Fri, 20 Nov 2026.
+Schaed is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Vault Club, East on Fri, 20 Nov 2026.
 
 Schaed is a house and tech house artist based in France, with 6 gigs on soundcheck across East and Strasbourg. Often billed alongside Arkan, Ben Sims and Chill (FR). Next up: Vault Club, East on Fri 20 Nov.
 
@@ -22,4 +22,4 @@ Schaed is a house and tech house artist based in France, with 6 gigs on soundche
 
 Arkan, Ben Sims, Chill (FR)
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/schaed/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/schaed/)*

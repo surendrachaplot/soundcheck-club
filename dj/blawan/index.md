@@ -1,6 +1,6 @@
 # Blawan
 
-Blawan is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Huxley's Neue Welt, Berlin on Thu, 12 Nov 2026.
+Blawan is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Huxley's Neue Welt, Berlin on Thu, 12 Nov 2026.
 
 Blawan is a techno and house artist based in United Kingdom, with 175 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 65 more. Often billed alongside Helena Hauff, JakoJako and Overmono. Next up: Huxley's Neue Welt, Berlin on Thu 12 Nov.
 
@@ -32,4 +32,4 @@ Blawan is a techno and house artist based in United Kingdom, with 175 gigs on so
 
 Helena Hauff, JakoJako, Overmono
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blawan/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blawan/)*

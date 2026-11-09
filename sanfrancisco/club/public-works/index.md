@@ -1,8 +1,8 @@
 # Public Works
 
-Public Works is a music venue in San Francisco/Oakland with 16 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "QUEEN OUT FINALE PT 1: Bianca Oblivion, BabiDoll" on Fri, 13 Nov 2026.
+Public Works is a music venue in San Francisco/Oakland with 17 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "QUEEN OUT FINALE PT 1: Bianca Oblivion, BabiDoll" on Fri, 13 Nov 2026.
 
-Public Works is a music venue in San Francisco/Oakland listed on soundcheck. 16 upcoming gigs, with line-ups including BabiDoll, Bandēs, Bianca Oblivion and Cali Rose and 2 more. See dates, start times and who's playing. 161 Erie Street, San Francisco, CA 94103, United States.
+Public Works is a music venue in San Francisco/Oakland listed on soundcheck. 17 upcoming gigs, with line-ups including BabiDoll, Bandēs, Bianca Oblivion and Cali Rose and 2 more. See dates, start times and who's playing. 161 Erie Street, San Francisco, CA 94103, United States.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Public Works is a music venue in San Francisco/Oakland listed on soundcheck. 16 
 
 161 Erie Street, San Francisco, CA 94103, United States, San Francisco/Oakland
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/public-works/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/public-works/)*

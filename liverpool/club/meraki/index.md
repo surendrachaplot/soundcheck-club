@@ -1,6 +1,6 @@
 # Meraki
 
-Meraki is a music venue in Liverpool with 6 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Addley - Live (With COZEN & Limb)" on Fri, 13 Nov 2026.
+Meraki is a music venue in Liverpool with 6 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Addley - Live (With COZEN & Limb)" on Fri, 13 Nov 2026.
 
 Meraki is a music venue in Liverpool listed on soundcheck. 6 upcoming gigs, with line-ups including Binny, cuci cuci coo, djcd and FKA Hardcore and 2 more. See dates, start times and who's playing. 3 Dickson St, Liverpool, L3 7EB, United Kingdom.
 
@@ -19,4 +19,4 @@ Meraki is a music venue in Liverpool listed on soundcheck. 6 upcoming gigs, with
 
 3 Dickson St, Liverpool, L3 7EB, United Kingdom, Liverpool
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/meraki/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/meraki/)*

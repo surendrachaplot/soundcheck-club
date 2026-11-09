@@ -1,6 +1,6 @@
 # NOS Event Center
 
-NOS Event Center is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Countdown NYE 2026" on Thu, 31 Dec 2026.
+NOS Event Center is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Countdown NYE 2026" on Thu, 31 Dec 2026.
 
 NOS Event Center is a music venue in Los Angeles listed on soundcheck. 2 upcoming gigs, with line-ups including Alesso, Archie Hamilton, ARLO (UK) and Borne (US) and 2 more. See dates, start times and who's playing. 689 South E Street, San Bernardino, CA 92408.
 
@@ -15,4 +15,4 @@ NOS Event Center is a music venue in Los Angeles listed on soundcheck. 2 upcomin
 
 689 South E Street, San Bernardino, CA 92408, Los Angeles
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/nos-event-center/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/nos-event-center/)*

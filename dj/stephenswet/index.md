@@ -1,6 +1,6 @@
 # Stephen’s Wet
 
-Stephen’s Wet is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Bossa Nova Civic Club, New York City on Fri, 13 Nov 2026.
+Stephen’s Wet is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Bossa Nova Civic Club, New York City on Fri, 13 Nov 2026.
 
 Stephen’s Wet is a techno and garage artist, with 3 gigs on soundcheck across New York City. Often billed alongside goodnight goodnight. Next up: Bossa Nova Civic Club, New York City on Fri 13 Nov.
 
@@ -19,4 +19,4 @@ Stephen’s Wet is a techno and garage artist, with 3 gigs on soundcheck across 
 
 goodnight goodnight
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stephenswet/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stephenswet/)*

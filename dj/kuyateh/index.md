@@ -1,6 +1,6 @@
 # Kuyateh
 
-Kuyateh is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Weekend, Berlin on Fri, 27 Nov 2026.
+Kuyateh is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Weekend, Berlin on Fri, 27 Nov 2026.
 
 Kuyateh is a house and techno artist based in Germany, with 23 gigs on soundcheck across Barcelona, Berlin, Frankfurt and London and 3 more. Often billed alongside Elli.on, Arno and Christian AB. Next up: Weekend, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Kuyateh is a house and techno artist based in Germany, with 23 gigs on soundchec
 
 Elli.on, Arno, Christian AB
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kuyateh/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kuyateh/)*

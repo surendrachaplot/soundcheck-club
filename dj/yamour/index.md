@@ -1,6 +1,6 @@
 # Yamour
 
-Yamour is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Gaffe, London on Fri, 13 Nov 2026.
+Yamour is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Gaffe, London on Fri, 13 Nov 2026.
 
 Yamour is a house and techno artist based in Germany, with 183 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 45 more. Often billed alongside Konstantin, Edward and Leafar Legov. Next up: Gaffe, London on Fri 13 Nov.
 
@@ -31,4 +31,4 @@ Yamour is a house and techno artist based in Germany, with 183 gigs on soundchec
 
 Konstantin, Edward, Leafar Legov
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yamour/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yamour/)*

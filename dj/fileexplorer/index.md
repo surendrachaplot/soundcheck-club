@@ -1,15 +1,15 @@
 # File Explorer
 
-File Explorer is a Jungle and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Forestlimit, Tokyo on Fri, 13 Nov 2026.
+File Explorer is a Jungle and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Forestlimit, Tokyo on Fri, 13 Nov 2026.
 
-File Explorer is a jungle and trance artist based in Australia, with 10 gigs on soundcheck across Beijing, Chengdu, Chongqing and Chubu and 5 more. Often billed alongside nabii, ADEAD and Bearback. Next up: Forestlimit, Tokyo on Fri 13 Nov.
+File Explorer is a jungle and electro artist based in Australia, with 10 gigs on soundcheck across Beijing, Chengdu, Chongqing and Chubu and 5 more. Often billed alongside nabii, ADEAD and Bearback. Next up: Forestlimit, Tokyo on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Forestlimit | Tokyo |
-| Sat, 27 Feb 2027 | QQQ ST. Park | Melbourne |
+| Fri, 26 Feb 2027 | QQQ ST. Park | Melbourne |
 
 ## Recently played
 
@@ -26,4 +26,4 @@ File Explorer is a jungle and trance artist based in Australia, with 10 gigs on 
 
 nabii, ADEAD, Bearback
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fileexplorer/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fileexplorer/)*

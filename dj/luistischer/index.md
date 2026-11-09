@@ -1,6 +1,6 @@
 # Luis Tischer
 
-Luis Tischer is a Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at LEO, Brussels on Sun, 6 Dec 2026.
+Luis Tischer is a Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at LEO, Brussels on Sun, 6 Dec 2026.
 
 Luis Tischer is an experimental artist, with 8 gigs on soundcheck across Berlin, Brussels and Munich. Often billed alongside Scherfe, Vroomfondel and DJ Fart in the Club. Next up: LEO, Brussels on Sun 6 Dec.
 
@@ -24,4 +24,4 @@ Luis Tischer is an experimental artist, with 8 gigs on soundcheck across Berlin,
 
 Scherfe, Vroomfondel, DJ Fart in the Club
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luistischer/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luistischer/)*

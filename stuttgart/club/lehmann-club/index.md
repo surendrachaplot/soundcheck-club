@@ -1,6 +1,6 @@
 # Lehmann Club
 
-Lehmann Club is a music venue in Stuttgart with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "LEHMANN CONCRETE with Onlynumbers" on Fri, 13 Nov 2026.
+Lehmann Club is a music venue in Stuttgart with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "LEHMANN CONCRETE with Onlynumbers" on Fri, 13 Nov 2026.
 
 Lehmann Club is a music venue in Stuttgart listed on soundcheck. 3 upcoming gigs, with line-ups including Blasha & Allatt, GLIA, lex_shockwerk and Onlynumbers and 2 more. See dates, start times and who's playing. Seidenstraße 20, 70174, Stuttgart.
 
@@ -16,4 +16,4 @@ Lehmann Club is a music venue in Stuttgart listed on soundcheck. 3 upcoming gigs
 
 Seidenstraße 20, 70174, Stuttgart, Stuttgart
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/lehmann-club/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/lehmann-club/)*

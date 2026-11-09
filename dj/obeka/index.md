@@ -1,6 +1,6 @@
 # Obeka
 
-Obeka is a Baile Funk and Latin Bass artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Cupra City Garage Manchester, Manchester on Fri, 27 Nov 2026.
+Obeka is a Baile Funk and Latin Bass artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Cupra City Garage Manchester, Manchester on Fri, 27 Nov 2026.
 
 Obeka is a baile funk and latin bass artist based in Bermuda, with 129 gigs on soundcheck across Amsterdam, Berlin, Bogotá and Bologna and 14 more. Often billed alongside Atiké, DR MYSTERY and Kop-Z. Next up: Cupra City Garage Manchester, Manchester on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Obeka is a baile funk and latin bass artist based in Bermuda, with 129 gigs on s
 
 Atiké, DR MYSTERY, Kop-Z
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/obeka/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/obeka/)*

@@ -1,6 +1,6 @@
 # sportjohan
 
-sportjohan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Jolene, Copenhagen on Thu, 12 Nov 2026.
+sportjohan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Jolene, Copenhagen on Thu, 12 Nov 2026.
 
 sportjohan is a house and techno artist based in Denmark, with 3 gigs on soundcheck across Copenhagen. Often billed alongside Anton Goltermann, Arto and Max Finney. Next up: Jolene, Copenhagen on Thu 12 Nov.
 
@@ -19,4 +19,4 @@ sportjohan is a house and techno artist based in Denmark, with 3 gigs on soundch
 
 Anton Goltermann, Arto (2), Max Finney
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sportjohan/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sportjohan/)*

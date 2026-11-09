@@ -1,8 +1,8 @@
 # KJ Physical
 
-KJ Physical is a Electro and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Wakuwaku Panic, Tokyo on Sat, 21 Nov 2026.
+KJ Physical is a Electro and Dubstep artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Wakuwaku Panic, Tokyo on Sat, 21 Nov 2026.
 
-KJ Physical is an electro and dubstep artist, with 3 gigs on soundcheck across Tokyo. Often billed alongside R1pq, AIOT and ATMK. Next up: Wakuwaku Panic, Tokyo on Sat 21 Nov.
+KJ Physical is an electro and dubstep artist, with 3 gigs on soundcheck across Tokyo. Often billed alongside R1pq, --- mr --- and AIOT. Next up: Wakuwaku Panic, Tokyo on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -17,6 +17,6 @@ KJ Physical is an electro and dubstep artist, with 3 gigs on soundcheck across T
 
 ## Shares bills with
 
-R1pq, AIOT, ATMK
+R1pq, --- mr ---, AIOT
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kjphysical/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kjphysical/)*

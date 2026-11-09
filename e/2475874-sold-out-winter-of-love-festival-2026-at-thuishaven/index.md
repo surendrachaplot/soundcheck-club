@@ -1,0 +1,27 @@
+# SOLD OUT! - Winter of Love festival 2026 at Thuishaven
+
+SOLD OUT! - Winter of Love festival 2026 at Thuishaven on Sat 12 Dec, Amsterdam. 13 artists: Alexander Koning, Alfredo, Darren Emerson and Dimitri and 9 more. House and Acid. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 12 Dec 2026 |
+| Venue | Thuishaven |
+| City | Amsterdam |
+
+## Line-up
+
+- Alexander Koning
+- Alfredo
+- Darren Emerson
+- Dimitri (1)
+- Divine
+- Erick E
+- Funkerman
+- Gregor Salto
+- Kim Kaos
+- Klubbheads
+- ROOG
+- Sander Kleinenberg
+- Ven
+
+*Source: [soundcheck](https://soundcheck.club/e/2475874-sold-out-winter-of-love-festival-2026-at-thuishaven/)*

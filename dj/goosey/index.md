@@ -1,6 +1,6 @@
 # Goosey
 
-Goosey is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 20 Nov 2026.
+Goosey is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 20 Nov 2026.
 
 Goosey is a house and tech house artist based in United Kingdom, with 78 gigs on soundcheck across Amsterdam, Austin, Barcelona and Birmingham and 14 more. Often billed alongside Enzo is Burning, Gaskin and Manda Moor. Next up: Depot Mayfield, Manchester on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Goosey is a house and tech house artist based in United Kingdom, with 78 gigs on
 
 Enzo is Burning, Gaskin, Manda Moor
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/goosey/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/goosey/)*

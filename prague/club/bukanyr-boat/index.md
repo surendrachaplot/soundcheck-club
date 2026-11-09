@@ -1,6 +1,6 @@
 # Bukanyr Boat
 
-Bukanyr Boat is a music venue in Prague with 6 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Spank - djs Ondrej K, Identic, Ark3r" on Fri, 13 Nov 2026.
+Bukanyr Boat is a music venue in Prague with 6 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Spank - djs Ondrej K, Identic, Ark3r" on Fri, 13 Nov 2026.
 
 Bukanyr Boat is a music venue in Prague listed on soundcheck. 6 upcoming gigs, with line-ups including Ark3r, Big Lil, Cubik and Da Moon and 2 more. See dates, start times and who's playing. Nábřeží Ludvíka Svobody 1, 110 00 Prague, Czech Republic.
 
@@ -19,4 +19,4 @@ Bukanyr Boat is a music venue in Prague listed on soundcheck. 6 upcoming gigs, w
 
 Nábřeží Ludvíka Svobody 1, 110 00 Prague, Czech Republic, Prague
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bukanyr-boat/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bukanyr-boat/)*

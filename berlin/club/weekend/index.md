@@ -1,6 +1,6 @@
 # Weekend
 
-Weekend is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "WKND X OPERATOR" on Fri, 13 Nov 2026.
+Weekend is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "WKND X OPERATOR" on Fri, 13 Nov 2026.
 
 Weekend is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line-ups including Alex Gallus, Anna Belove, Brigado Crew and Ceci Fierce and 2 more. See dates, start times and who's playing. Alexanderstrasse 7; Mitte; 10178 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Weekend is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with 
 
 Alexanderstrasse 7; Mitte; 10178 Berlin; Germany, Berlin
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/weekend/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/weekend/)*

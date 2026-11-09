@@ -1,6 +1,6 @@
 # Carlos Bros
 
-Carlos Bros is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Culture Cafe, Bangkok on Sun, 15 Nov 2026.
+Carlos Bros is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Culture Cafe, Bangkok on Sun, 15 Nov 2026.
 
 Carlos Bros is a house and techno artist based in Spain, with 10 gigs on soundcheck across Bangkok and Ho Chi Minh City. Often billed alongside Pokpong, Carlo Natale and DANE.. Next up: Culture Cafe, Bangkok on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Carlos Bros is a house and techno artist based in Spain, with 10 gigs on soundch
 
 Pokpong, Carlo Natale, DANE.
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosbros/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosbros/)*

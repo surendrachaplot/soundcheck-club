@@ -1,6 +1,6 @@
 # Sordid
 
-Sordid is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Elektricity, Detroit on Sat, 28 Nov 2026.
+Sordid is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Elektricity, Detroit on Sat, 28 Nov 2026.
 
 Sordid is an industrial and techno artist, with 7 gigs on soundcheck across Detroit and Munich. Often billed alongside Udo Wiessmann, Cervello Elettronico and Monya. Next up: Elektricity, Detroit on Sat 28 Nov.
 
@@ -23,4 +23,4 @@ Sordid is an industrial and techno artist, with 7 gigs on soundcheck across Detr
 
 Udo Wiessmann, Cervello Elettronico, Monya
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sordid/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sordid/)*

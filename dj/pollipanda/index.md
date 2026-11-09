@@ -1,6 +1,6 @@
 # Polli Panda
 
-Polli Panda is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Café Katoen, Amsterdam on Thu, 12 Nov 2026.
+Polli Panda is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Café Katoen, Amsterdam on Thu, 12 Nov 2026.
 
 Polli Panda is a house and electro artist based in Czech Republic, with 40 gigs on soundcheck across Amsterdam, Canary Islands, Hannover and Prague and 2 more. Often billed alongside Abiba Sokoto, DAMN DANIEL and Figlio Böler. Next up: Café Katoen, Amsterdam on Thu 12 Nov.
 
@@ -26,4 +26,4 @@ Polli Panda is a house and electro artist based in Czech Republic, with 40 gigs 
 
 Abiba Sokoto, DAMN DANIEL, Figlio Böler
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pollipanda/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pollipanda/)*

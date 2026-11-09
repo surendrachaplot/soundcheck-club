@@ -1,6 +1,6 @@
 # SIMOFF
 
-SIMOFF is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Bredouille, Berlin on Fri, 13 Nov 2026.
+SIMOFF is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Bredouille, Berlin on Fri, 13 Nov 2026.
 
 SIMOFF is a techno and house artist based in Switzerland, with 11 gigs on soundcheck across Berlin and Lausanne. Often billed alongside MEGUROLOVE, DJ SUN (CH/DE) and TAUREAN. Next up: Bredouille, Berlin on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ SIMOFF is a techno and house artist based in Switzerland, with 11 gigs on soundc
 
 MEGUROLOVE, DJ SUN (CH/DE), TAUREAN (2)
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simoff/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simoff/)*

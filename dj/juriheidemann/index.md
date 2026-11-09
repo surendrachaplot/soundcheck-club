@@ -1,6 +1,6 @@
 # Juri Heidemann
 
-Juri Heidemann is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Karmen Camina, Strasbourg on Sat, 28 Nov 2026.
+Juri Heidemann is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Karmen Camina, Strasbourg on Sat, 28 Nov 2026.
 
 Juri Heidemann is a techno and house artist based in Germany, with 59 gigs on soundcheck across Amsterdam, Berlin, Bratislava and Budapest and 22 more. Often billed alongside Brut., Disguised and Miran N. Next up: Karmen Camina, Strasbourg on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Juri Heidemann is a techno and house artist based in Germany, with 59 gigs on so
 
 Brut., Disguised, Miran N
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juriheidemann/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juriheidemann/)*

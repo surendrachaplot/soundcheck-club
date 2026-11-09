@@ -1,6 +1,6 @@
 # BUNKER WITH MEDUSA AND ENOC - TECHNO / HARD TECHNO / MORE at ZEROTOKYO
 
-BUNKER WITH MEDUSA AND ENOC - TECHNO / HARD TECHNO / MORE at ZEROTOKYO on Fri 13 Nov, Tokyo. 14 artists: Calavera, CHIKA, ENTER and K4BUKI and 10 more. Techno and Industrial. See the line-up on soundcheck.
+BUNKER WITH MEDUSA AND ENOC - TECHNO / HARD TECHNO / MORE at ZEROTOKYO on Fri 13 Nov, Tokyo. 15 artists: ABOUT SOFIYA, Calavera, CHIKA and ENTER and 11 more. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ BUNKER WITH MEDUSA AND ENOC - TECHNO / HARD TECHNO / MORE at ZEROTOKYO on Fri 13
 
 ## Line-up
 
+- ABOUT SOFIYA
 - Calavera
 - CHIKA
 - ENTER

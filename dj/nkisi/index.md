@@ -1,6 +1,6 @@
 # Nkisi
 
-Nkisi is a Experimental and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at FOLD, London on Thu, 12 Nov 2026.
+Nkisi is a Experimental and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at FOLD, London on Thu, 12 Nov 2026.
 
 Nkisi is an experimental and techno artist based in Democratic Republic of the Congo, with 101 gigs on soundcheck across Amsterdam, Bergen, Berlin and Birmingham and 24 more. Often billed alongside Rainy Miller, Jon K and 2K88. Next up: FOLD, London on Thu 12 Nov.
 
@@ -27,4 +27,4 @@ Nkisi is an experimental and techno artist based in Democratic Republic of the C
 
 Rainy Miller, Jon K, 2K88
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nkisi/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nkisi/)*

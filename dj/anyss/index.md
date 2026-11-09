@@ -1,6 +1,6 @@
 # Anyss
 
-Anyss is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at 宀 Club, Hong Kong on Sat, 21 Nov 2026.
+Anyss is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at 宀 Club, Hong Kong on Sat, 21 Nov 2026.
 
 Anyss is a house and techno artist based in France, with 33 gigs on soundcheck across Hong Kong. Often billed alongside Vence, Jeremy Cheung and Saint Bernard. Next up: 宀 Club, Hong Kong on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Anyss is a house and techno artist based in France, with 33 gigs on soundcheck a
 
 Vence, Jeremy Cheung, Saint Bernard
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anyss/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anyss/)*

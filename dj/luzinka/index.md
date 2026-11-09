@@ -1,6 +1,6 @@
 # Luzinka
 
-Luzinka is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Amp, Münster on Fri, 20 Nov 2026.
+Luzinka is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Amp, Münster on Fri, 20 Nov 2026.
 
 Luzinka is a trance and techno artist based in Germany, with 14 gigs on soundcheck across Kassel and Münster. Often billed alongside snoritz, M.A.S.C and Valeby. Next up: Amp, Münster on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Luzinka is a trance and techno artist based in Germany, with 14 gigs on soundche
 
 snoritz, M.A.S.C, Valeby
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luzinka/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luzinka/)*

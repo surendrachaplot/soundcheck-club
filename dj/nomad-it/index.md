@@ -1,6 +1,6 @@
 # No:mad
 
-No:mad is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Jungle Experience Koh Phangan, Thailand on Tue, 12 Jan 2027.
+No:mad is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Jungle Experience Koh Phangan, Thailand on Tue, 12 Jan 2027.
 
 No:mad is a house and electronica artist based in Italy, with 5 gigs on soundcheck across Milan, Singapore, Thailand and Warsaw. Often billed alongside Alex Cancino, Call Me Ben and David Löhlein. Next up: Jungle Experience Koh Phangan, Thailand on Tue 12 Jan.
 
@@ -21,4 +21,4 @@ No:mad is a house and electronica artist based in Italy, with 5 gigs on soundche
 
 Alex Cancino, Call Me Ben, David Löhlein
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nomad-it/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nomad-it/)*

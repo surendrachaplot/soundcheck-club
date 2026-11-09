@@ -1,6 +1,6 @@
 # Warehouse Elementenstraat
 
-Warehouse Elementenstraat is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "ADATP presents: Housequake 10 Hours" on Sat, 14 Nov 2026.
+Warehouse Elementenstraat is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "ADATP presents: Housequake 10 Hours" on Sat, 14 Nov 2026.
 
 Warehouse Elementenstraat is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, with line-ups including A.M.C., A-Sides, b-line and BassLayerz and 2 more. See dates, start times and who's playing. Elementenstraat 25, 1014 AR, Amsterdam.
 
@@ -15,4 +15,4 @@ Warehouse Elementenstraat is a music venue in Amsterdam listed on soundcheck. 2 
 
 Elementenstraat 25, 1014 AR, Amsterdam, Amsterdam
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/warehouse-elementenstraat/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/warehouse-elementenstraat/)*

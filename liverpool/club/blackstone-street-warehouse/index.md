@@ -1,6 +1,6 @@
 # Blackstone Street Warehouse
 
-Blackstone Street Warehouse is a music venue in Liverpool with 6 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Glitterbox Liverpool" on Sat, 14 Nov 2026.
+Blackstone Street Warehouse is a music venue in Liverpool with 6 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Glitterbox Liverpool" on Sat, 14 Nov 2026.
 
 Blackstone Street Warehouse is a music venue in Liverpool listed on soundcheck. 6 upcoming gigs, with line-ups including Ben Sterling, CHRIS STASSY, Fantasm and Franky Rizardo and 2 more. See dates, start times and who's playing. Blackstone Street, Liverpool, L5 9TL.
 
@@ -19,4 +19,4 @@ Blackstone Street Warehouse is a music venue in Liverpool listed on soundcheck. 
 
 Blackstone Street, Liverpool, L5 9TL, Liverpool
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/blackstone-street-warehouse/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/blackstone-street-warehouse/)*

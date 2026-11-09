@@ -1,6 +1,6 @@
 # M3LO
 
-M3LO is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Specka, Madrid on Sat, 26 Dec 2026.
+M3LO is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Specka, Madrid on Sat, 26 Dec 2026.
 
 M3LO is a techno and industrial artist based in Portugal, with 54 gigs on soundcheck across Berlin and Madrid. Often billed alongside jotagee, Pulpix and Reitze. Next up: Specka, Madrid on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ M3LO is a techno and industrial artist based in Portugal, with 54 gigs on soundc
 
 jotagee, Pulpix, Reitze
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/m3lo/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/m3lo/)*

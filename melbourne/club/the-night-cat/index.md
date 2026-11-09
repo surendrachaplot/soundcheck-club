@@ -1,8 +1,8 @@
 # The Night Cat
 
-The Night Cat is a music venue in Melbourne with 8 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Hercules & Love Affair (DJ Set)" on Sat, 14 Nov 2026.
+The Night Cat is a music venue in Melbourne with 10 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Hercules & Love Affair (DJ Set)" on Sat, 14 Nov 2026.
 
-The Night Cat is a music venue in Melbourne listed on soundcheck. 8 upcoming gigs, with line-ups including Elsie, Flamingo Pier, Hercules & Love Affair and NALIITA and 1 more. See dates, start times and who's playing. 137-141 Johnston St, Fitzroy VIC 3065, Australia.
+The Night Cat is a music venue in Melbourne listed on soundcheck. 10 upcoming gigs, with line-ups including Bellaire, Elsie, Flamingo Pier and Hercules & Love Affair and 2 more. See dates, start times and who's playing. 137-141 Johnston St, Fitzroy VIC 3065, Australia.
 
 ## What's on
 
@@ -16,9 +16,11 @@ The Night Cat is a music venue in Melbourne listed on soundcheck. 8 upcoming gig
 | Sat, 9 Jan 2027 | Soul Mass Transit System | Soul Mass Transit System |
 | Sat, 16 Jan 2027 | DANIEL ALLAN |  |
 | Sat, 23 Jan 2027 | Flamingo Pier (live) - Woven Together Tour | Flamingo Pier |
+| Sat, 13 Feb 2027 | BL3SS - Melbourne |  |
+| Fri, 26 Feb 2027 | Bellaire (FR) - The Night Cat, Melbourne | Bellaire |
 
 ## Address
 
 137-141 Johnston St, Fitzroy VIC 3065, Australia, Melbourne
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-night-cat/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-night-cat/)*

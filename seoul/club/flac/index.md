@@ -1,6 +1,6 @@
 # Flac
 
-Flac is a music venue in Seoul with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Flac: Toni Varga(Es/Elrow)" on Sat, 14 Nov 2026.
+Flac is a music venue in Seoul with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Flac: Toni Varga(Es/Elrow)" on Sat, 14 Nov 2026.
 
 Flac is a music venue in Seoul listed on soundcheck. 4 upcoming gigs, with line-ups including Davico, Demuk, Departs and Dukwa and 2 more. See dates, start times and who's playing. 2F, 5, Itaewon-ro 27ga-gil, Yongsan-gu, Seoul, Republic of Korea.
 
@@ -17,4 +17,4 @@ Flac is a music venue in Seoul listed on soundcheck. 4 upcoming gigs, with line-
 
 2F, 5, Itaewon-ro 27ga-gil, Yongsan-gu, Seoul, Republic of Korea, Seoul
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/flac/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/flac/)*

@@ -1,6 +1,6 @@
 # Kongresai
 
-Kongresai is a music venue in Vilnius with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Strange Wave: Equinoxious (MX) live, Caroil live, SHN" on Fri, 13 Nov 2026.
+Kongresai is a music venue in Vilnius with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Strange Wave: Equinoxious (MX) live, Caroil live, SHN" on Fri, 13 Nov 2026.
 
 Kongresai is a music venue in Vilnius listed on soundcheck. 4 upcoming gigs, with line-ups including J.G. Biberkopf, Marija, Matas Petrikas and Mirror Slave and 2 more. See dates, start times and who's playing.
 
@@ -13,4 +13,4 @@ Kongresai is a music venue in Vilnius listed on soundcheck. 4 upcoming gigs, wit
 | Fri, 27 Nov 2026 | Faith: Rat Section, Gediminas Žygus, Holly Childs, Onyte, Kotryna Briedytė | J.G. Biberkopf, Onyte, Rat Section |
 | Sat, 12 Dec 2026 | Metal Beat: Ngly (live), Mux, Times New Roman | Ngly, Times New Roman |
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/vilnius/club/kongresai/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/vilnius/club/kongresai/)*

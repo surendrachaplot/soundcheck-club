@@ -1,6 +1,6 @@
 # object blue
 
-object blue is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Various Venues (EartH theatre, Cafe OTO, ORMSIDE Projects), London on Thu, 18 Feb 2027.
+object blue is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Various Venues (EartH theatre, Cafe OTO, ORMSIDE Projects), London on Thu, 18 Feb 2027.
 
 object blue is a techno and experimental artist based in Japan, with 53 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Beijing and 23 more. Often billed alongside TSVI, Anz and DJ Voices. Next up: TBA - Various Venues (EartH theatre, Cafe OTO, ORMSIDE Projects), London on Thu 18 Feb.
 
@@ -26,4 +26,4 @@ object blue is a techno and experimental artist based in Japan, with 53 gigs on 
 
 TSVI, Anz, DJ Voices
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/objectblue/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/objectblue/)*

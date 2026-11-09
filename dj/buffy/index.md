@@ -1,6 +1,6 @@
 # Buffy
 
-Buffy is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Downtown Manhattan Loft, New York City on Sat, 21 Nov 2026.
+Buffy is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Downtown Manhattan Loft, New York City on Sat, 21 Nov 2026.
 
 Buffy is a club and experimental artist based in United States of America, with 12 gigs on soundcheck across Hamburg, London, New Orleans and New York City and 1 more. Often billed alongside MTHR TRSA, ARCHANGEL (US) and FASHION (US). Next up: TBA - Downtown Manhattan Loft, New York City on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Buffy is a club and experimental artist based in United States of America, with 
 
 MTHR TRSA, ARCHANGEL (US), FASHION (US)
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/buffy/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/buffy/)*

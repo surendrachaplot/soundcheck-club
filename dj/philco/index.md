@@ -1,6 +1,6 @@
 # Philco
 
-Philco is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 13 Nov 2026.
+Philco is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 13 Nov 2026.
 
 Philco is a house and tech house artist based in United States of America, with 29 gigs on soundcheck across San Francisco/Oakland and Washington DC. Often billed alongside Louiv, Combover and zacky. Next up: The Great Northern, San Francisco/Oakland on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Philco is a house and tech house artist based in United States of America, with 
 
 Louiv, Combover, zacky
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/philco/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/philco/)*

@@ -1,6 +1,6 @@
 # MTW
 
-MTW is a music venue in Frankfurt with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Raum für Ton Klubnacht: Parallx, Artificial DNA, co:co, MAURER, Maeksll, Butschi u.v.m" on Sat, 14 Nov 2026.
+MTW is a music venue in Frankfurt with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Raum für Ton Klubnacht: Parallx, Artificial DNA, co:co, MAURER, Maeksll, Butschi u.v.m" on Sat, 14 Nov 2026.
 
 MTW is a music venue in Frankfurt listed on soundcheck. 4 upcoming gigs, with line-ups including Artificial DNA, Butschi, CiKi and CLAVD and 2 more. See dates, start times and who's playing. Nordring 131, 63067 Offenbach, Germany.
 
@@ -17,4 +17,4 @@ MTW is a music venue in Frankfurt listed on soundcheck. 4 upcoming gigs, with li
 
 Nordring 131, 63067 Offenbach, Germany, Frankfurt
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/mtw/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/mtw/)*

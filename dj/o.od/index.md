@@ -1,6 +1,6 @@
 # O.od
 
-O.od is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Cakeshop, Seoul on Fri, 20 Nov 2026.
+O.od is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Cakeshop, Seoul on Fri, 20 Nov 2026.
 
 O.od is a club and bass artist based in South Korea, with 15 gigs on soundcheck across Seoul. Often billed alongside MOHOHOMO, rue and KISEWA. Next up: Cakeshop, Seoul on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ O.od is a club and bass artist based in South Korea, with 15 gigs on soundcheck 
 
 MOHOHOMO, rue (3), KISEWA
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/o.od/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/o.od/)*

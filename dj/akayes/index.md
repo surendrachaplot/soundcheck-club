@@ -1,6 +1,6 @@
 # AKAY (ES)
 
-AKAY (ES) is a House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at The Listening Room, London on Sat, 14 Nov 2026.
+AKAY (ES) is a House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Listening Room, London on Sat, 14 Nov 2026.
 
 AKAY (ES) is a house artist based in United Kingdom, with 3 gigs on soundcheck across London. Often billed alongside Yüs (TN), Nadia Boulif and Nadrums. Next up: The Listening Room, London on Sat 14 Nov.
 
@@ -19,4 +19,4 @@ AKAY (ES) is a house artist based in United Kingdom, with 3 gigs on soundcheck a
 
 Yüs (TN), Nadia Boulif, Nadrums
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akayes/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akayes/)*

@@ -1,6 +1,6 @@
 # Daniel Ward
 
-Daniel Ward is a House and Garage artist with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Planet Wax, London on Sat, 14 Nov 2026.
+Daniel Ward is a House and Garage artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Planet Wax, London on Sat, 14 Nov 2026.
 
 Daniel Ward is a house and garage artist based in United Kingdom, with 16 gigs on soundcheck across London. Often billed alongside Hermit, DJ Listener and MC Secret Agent. Next up: Planet Wax, London on Sat 14 Nov.
 
@@ -28,4 +28,4 @@ Daniel Ward is a house and garage artist based in United Kingdom, with 16 gigs o
 
 Hermit, DJ Listener, MC Secret Agent
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielward/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielward/)*

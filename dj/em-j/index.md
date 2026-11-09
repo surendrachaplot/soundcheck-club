@@ -1,6 +1,6 @@
 # Em-J
 
-Em-J is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Avve, Bangkok on Fri, 20 Nov 2026.
+Em-J is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Avve, Bangkok on Fri, 20 Nov 2026.
 
 Em-J is a techno and garage artist based in Thailand, with 46 gigs on soundcheck across Bangkok. Often billed alongside GUNI, Accidental District and Wot?. Next up: Avve, Bangkok on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Em-J is a techno and garage artist based in Thailand, with 46 gigs on soundcheck
 
 GUNI, Accidental District, Wot?
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/em-j/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/em-j/)*

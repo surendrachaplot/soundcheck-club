@@ -1,14 +1,13 @@
 # Mathew Jonson
 
-Mathew Jonson is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Kauz, Zurich on Sat, 7 Nov 2026.
+Mathew Jonson is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Lincoln Factory, Detroit on Fri, 13 Nov 2026.
 
-Mathew Jonson is a techno and house artist based in Canada, with 160 gigs on soundcheck across Amsterdam, Atlanta, Bali and Barcelona and 56 more. Often billed alongside EVGHENIIA, Francesco Del Garda and O.BEE. Next up: Kauz, Zurich on Sat 7 Nov.
+Mathew Jonson is a techno and house artist based in Canada, with 160 gigs on soundcheck across Amsterdam, Atlanta, Bali and Barcelona and 56 more. Often billed alongside EVGHENIIA, Francesco Del Garda and O.BEE. Next up: Lincoln Factory, Detroit on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Kauz | Zurich |
 | Fri, 13 Nov 2026 | Lincoln Factory | Detroit |
 | Sat, 21 Nov 2026 | TBA - Lurín live / Lima, Perú. | Peru |
 | Sat, 28 Nov 2026 | fabric | London |
@@ -29,4 +28,4 @@ Mathew Jonson is a techno and house artist based in Canada, with 160 gigs on sou
 
 EVGHENIIA, Francesco Del Garda, O.BEE
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mathewjonson/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mathewjonson/)*

@@ -1,6 +1,6 @@
 # SEWA
 
-SEWA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Roundhouse Community Arts & Recreation Centre, Vancouver on Sat, 14 Nov 2026.
+SEWA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Roundhouse Community Arts & Recreation Centre, Vancouver on Sat, 14 Nov 2026.
 
 SEWA is a techno and house artist based in United States of America, with 19 gigs on soundcheck across Austin, Dallas/Fort Worth, Mexico City and Montreal and 3 more. Often billed alongside Vonne, ITZA and JAViii. Next up: Roundhouse Community Arts & Recreation Centre, Vancouver on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ SEWA is a techno and house artist based in United States of America, with 19 gig
 
 Vonne, ITZA, JAViii
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sewa/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sewa/)*

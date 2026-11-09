@@ -1,6 +1,6 @@
 # tiger&dragon
 
-tiger&dragon is a Hip-Hop and R&B artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Arch, Tokyo on Sun, 22 Nov 2026.
+tiger&dragon is a Hip-Hop and R&B artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Arch, Tokyo on Sun, 22 Nov 2026.
 
 tiger&dragon is a hip-hop and r&b artist based in Japan, with 4 gigs on soundcheck across Tokyo. Often billed alongside MAXIM, DJ POIPOI and RUKE. Next up: Arch, Tokyo on Sun 22 Nov.
 
@@ -20,4 +20,4 @@ tiger&dragon is a hip-hop and r&b artist based in Japan, with 4 gigs on soundche
 
 MAXIM (8), DJ POIPOI, RUKE
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tigerdragon/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tigerdragon/)*

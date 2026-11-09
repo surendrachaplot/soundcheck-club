@@ -1,6 +1,6 @@
 # El cuerpo del Disco
 
-El cuerpo del Disco is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at berlinClub, Madrid on Sat, 14 Nov 2026.
+El cuerpo del Disco is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at berlinClub, Madrid on Sat, 14 Nov 2026.
 
 El cuerpo del Disco is a disco and house artist based in Spain, with 87 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Eder Croket, Fer Xplosion and WO KEM. Next up: berlinClub, Madrid on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ El cuerpo del Disco is a disco and house artist based in Spain, with 87 gigs on 
 
 Eder Croket, Fer Xplosion, WO KEM
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elcuerpodeldisco/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elcuerpodeldisco/)*

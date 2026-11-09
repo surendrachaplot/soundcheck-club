@@ -1,6 +1,6 @@
 # Franczesko
 
-Franczesko is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Ciało, Wroclaw on Fri, 11 Dec 2026.
+Franczesko is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Ciało, Wroclaw on Fri, 11 Dec 2026.
 
 Franczesko is a house and disco artist, with 7 gigs on soundcheck across Warsaw and Wroclaw. Often billed alongside Jellin, Easy Audio and Alarico. Next up: Ciało, Wroclaw on Fri 11 Dec.
 
@@ -23,4 +23,4 @@ Franczesko is a house and disco artist, with 7 gigs on soundcheck across Warsaw 
 
 Jellin, Easy Audio, Alarico
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/Franczesko/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/Franczesko/)*

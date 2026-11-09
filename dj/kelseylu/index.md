@@ -1,14 +1,13 @@
 # Kelsey Lu
 
-Kelsey Lu is a Electronica and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
+Kelsey Lu is a Electronica and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Botanique, Brussels on Wed, 11 Nov 2026.
 
-Kelsey Lu is an electronica and electro artist based in United States of America, with 4 gigs on soundcheck across Brussels, Paris and Utrecht. Often billed alongside Aba Shanti-I, Aho Ssan and Ambu Bambu. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
+Kelsey Lu is an electronica and electro artist based in United States of America, with 4 gigs on soundcheck across Brussels, Paris and Utrecht. Often billed alongside Aba Shanti-I, Aho Ssan and Ambu Bambu. Next up: Botanique, Brussels on Wed 11 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | TivoliVredenburg | Utrecht |
 | Wed, 11 Nov 2026 | Botanique | Brussels |
 
 ## Recently played
@@ -21,4 +20,4 @@ Kelsey Lu is an electronica and electro artist based in United States of America
 
 Aba Shanti-I, Aho Ssan, Ambu Bambu
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kelseylu/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kelseylu/)*

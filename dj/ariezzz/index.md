@@ -1,6 +1,6 @@
 # Ariezzz
 
-Ariezzz is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Spook Club, Valencia on Sat, 14 Nov 2026.
+Ariezzz is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Spook Club, Valencia on Sat, 14 Nov 2026.
 
 Ariezzz is a tech house and house artist based in Spain, with 82 gigs on soundcheck across Barcelona, Berlin, Brussels and London and 3 more. Often billed alongside CAMMMMM, Ladrillovitz and Lucía Gea. Next up: Spook Club, Valencia on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Ariezzz is a tech house and house artist based in Spain, with 82 gigs on soundch
 
 CAMMMMM, Ladrillovitz, Lucía Gea
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ariezzz/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ariezzz/)*

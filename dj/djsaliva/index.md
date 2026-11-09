@@ -1,6 +1,6 @@
 # Dj Saliva
 
-Dj Saliva is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at ÆDEN, Berlin on Sat, 21 Nov 2026.
+Dj Saliva is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at ÆDEN, Berlin on Sat, 21 Nov 2026.
 
 Dj Saliva is a techno and house artist based in Portugal, with 130 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Beijing and 37 more. Often billed alongside CEM, MCMLXXXV and JASSS. Next up: ÆDEN, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Dj Saliva is a techno and house artist based in Portugal, with 130 gigs on sound
 
 CEM, MCMLXXXV, JASSS
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsaliva/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsaliva/)*

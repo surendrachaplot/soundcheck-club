@@ -1,6 +1,6 @@
 # Tinzo
 
-Tinzo is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Bus Palladium, Paris on Sat, 14 Nov 2026.
+Tinzo is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Bus Palladium, Paris on Sat, 14 Nov 2026.
 
 Tinzo is a house and techno artist based in United States of America, with 137 gigs on soundcheck across Atlanta, Austin, Barcelona and Boston and 25 more. Often billed alongside Jojo Lorenzo, RaeCola and Varist. Next up: Bus Palladium, Paris on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Tinzo is a house and techno artist based in United States of America, with 137 g
 
 Jojo Lorenzo, RaeCola, Varist
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tinzo/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tinzo/)*

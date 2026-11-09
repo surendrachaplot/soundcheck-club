@@ -1,6 +1,6 @@
 # Fonoteek
 
-Fonoteek is a music venue in Tallinn with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Glitch Club" on Sat, 14 Nov 2026.
+Fonoteek is a music venue in Tallinn with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Glitch Club" on Sat, 14 Nov 2026.
 
 Fonoteek is a music venue in Tallinn listed on soundcheck. 2 upcoming gigs, with line-ups including DJ WUF, Fedo (UA), Lill and Rony Rex and 1 more. See dates, start times and who's playing. Telliskivi tn 62, 10412 ,Tallinn, Estonia.
 
@@ -15,4 +15,4 @@ Fonoteek is a music venue in Tallinn listed on soundcheck. 2 upcoming gigs, with
 
 Telliskivi tn 62, 10412 ,Tallinn, Estonia, Tallinn
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/fonoteek/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/fonoteek/)*

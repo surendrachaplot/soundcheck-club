@@ -1,6 +1,6 @@
 # Spanners
 
-Spanners is a music venue in London with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "$hotta Rave" on Sat, 21 Nov 2026.
+Spanners is a music venue in London with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "$hotta Rave" on Sat, 21 Nov 2026.
 
 Spanners is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including Joe Hart, KD22LR, Mellowdramatics and Scott Fraser and 1 more. See dates, start times and who's playing. SPANNERS, arch 504, Loughborough Junction, SW9 7EX.
 
@@ -16,4 +16,4 @@ Spanners is a music venue in London listed on soundcheck. 3 upcoming gigs, with 
 
 SPANNERS, arch 504, Loughborough Junction, SW9 7EX, London
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/spanners/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/spanners/)*

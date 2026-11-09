@@ -1,6 +1,6 @@
 # Kaori Watt
 
-Kaori Watt is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Daikanyama ORD., Tokyo on Tue, 29 Dec 2026.
+Kaori Watt is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Daikanyama ORD., Tokyo on Tue, 29 Dec 2026.
 
 Kaori Watt is a techno and industrial artist based in Japan, with 49 gigs on soundcheck across Tokyo. Often billed alongside marimari, Akiko Iwahara and YUXI. Next up: Daikanyama ORD., Tokyo on Tue 29 Dec.
 
@@ -25,4 +25,4 @@ Kaori Watt is a techno and industrial artist based in Japan, with 49 gigs on sou
 
 marimari, Akiko Iwahara, YUXI
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaoriwatt/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaoriwatt/)*

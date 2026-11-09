@@ -1,6 +1,6 @@
 # Nujabes Metaphorical Ensemble
 
-Nujabes Metaphorical Ensemble is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Yebisu The Garden Hall, Tokyo on Sun, 27 Dec 2026.
+Nujabes Metaphorical Ensemble is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Yebisu The Garden Hall, Tokyo on Sun, 27 Dec 2026.
 
 Nujabes Metaphorical Ensemble is a house and hip-hop artist based in Japan, with 4 gigs on soundcheck across Tokyo. Often billed alongside DJ Nori, Muro and Abiu. Next up: Yebisu The Garden Hall, Tokyo on Sun 27 Dec.
 
@@ -20,4 +20,4 @@ Nujabes Metaphorical Ensemble is a house and hip-hop artist based in Japan, with
 
 DJ Nori, Muro, Abiu
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nujabesmetaphoricalensemble/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nujabesmetaphoricalensemble/)*

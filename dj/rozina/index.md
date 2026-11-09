@@ -1,6 +1,6 @@
 # Rozina
 
-Rozina is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Castle Club, Cyprus on Fri, 4 Dec 2026.
+Rozina is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Castle Club, Cyprus on Fri, 4 Dec 2026.
 
 Rozina is an electronic artist based in Greece, with 4 gigs on soundcheck across Athens and Cyprus. Often billed alongside Até., Esquizo and OUST. Next up: Castle Club, Cyprus on Fri 4 Dec.
 
@@ -20,4 +20,4 @@ Rozina is an electronic artist based in Greece, with 4 gigs on soundcheck across
 
 Até., Esquizo, OUST
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rozina/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rozina/)*

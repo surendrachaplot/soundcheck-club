@@ -1,6 +1,6 @@
 # Nekes
 
-Nekes is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Doggy Klœb, Malaga on Fri, 13 Nov 2026.
+Nekes is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Doggy Klœb, Malaga on Fri, 13 Nov 2026.
 
 Nekes is a house and minimal artist based in Germany, with 56 gigs on soundcheck across Athens, Barcelona, Berlin and Budapest and 6 more. Often billed alongside Federico Molinari, Alvaro Medina and Lee Burton. Next up: Doggy Klœb, Malaga on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Nekes is a house and minimal artist based in Germany, with 56 gigs on soundcheck
 
 Federico Molinari, Alvaro Medina, Lee Burton
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nekes/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nekes/)*

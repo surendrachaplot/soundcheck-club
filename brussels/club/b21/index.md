@@ -1,6 +1,6 @@
 # B21
 
-B21 is a music venue in Brussels with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "breathing grounds presents ℛₑ: ₚℒₐy" on Fri, 13 Nov 2026.
+B21 is a music venue in Brussels with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "breathing grounds presents ℛₑ: ₚℒₐy" on Fri, 13 Nov 2026.
 
 B21 is a music venue in Brussels listed on soundcheck. 2 upcoming gigs, with line-ups including Berdy, Echo/Dawn, elsa winner and Fairyprincesswithmagicpowers and 1 more. See dates, start times and who's playing. Rue de Belgrade, 21 1190 Forest.
 
@@ -15,4 +15,4 @@ B21 is a music venue in Brussels listed on soundcheck. 2 upcoming gigs, with lin
 
 Rue de Belgrade, 21 1190 Forest, Brussels
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/b21/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/b21/)*

@@ -1,6 +1,6 @@
 # Mama Yha Yha
 
-Mama Yha Yha is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at KREUZWERK, Berlin on Sat, 5 Dec 2026.
+Mama Yha Yha is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at KREUZWERK, Berlin on Sat, 5 Dec 2026.
 
 Mama Yha Yha is a techno and house artist based in Germany, with 71 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 9 more. Often billed alongside Khloe, ALP (DE) and Cali Rose. Next up: KREUZWERK, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Mama Yha Yha is a techno and house artist based in Germany, with 71 gigs on soun
 
 Khloe, ALP (DE), Cali Rose
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yhayha/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yhayha/)*

@@ -1,6 +1,6 @@
 # Sean Johnston
 
-Sean Johnston is a Acid and Electronica artist with 5 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at The Sound House, Dublin on Fri, 13 Nov 2026.
+Sean Johnston is a Acid and Electronica artist with 5 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at The Sound House, Dublin on Fri, 13 Nov 2026.
 
 Sean Johnston is an acid and electronica artist based in United Kingdom, with 78 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 13 more. Often billed alongside A LOVE FROM OUTER SPACE, Vladimir Ivkovic and Chris Massey. Next up: The Sound House, Dublin on Fri 13 Nov.
 
@@ -29,4 +29,4 @@ Sean Johnston is an acid and electronica artist based in United Kingdom, with 78
 
 A LOVE FROM OUTER SPACE, Vladimir Ivkovic, Chris Massey
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seanjohnston/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seanjohnston/)*

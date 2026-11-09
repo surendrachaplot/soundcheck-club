@@ -1,6 +1,6 @@
 # 8trone
 
-8trone is a Jazz and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at FS., Tokyo on Tue, 17 Nov 2026.
+8trone is a Jazz and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at FS., Tokyo on Tue, 17 Nov 2026.
 
 8trone is a jazz and experimental artist based in United Kingdom, with 3 gigs on soundcheck across London and Tokyo. Often billed alongside #STDRUMS, Deep Dive and Obscenity State. Next up: FS., Tokyo on Tue 17 Nov.
 
@@ -19,4 +19,4 @@
 
 #STDRUMS, Deep Dive, Obscenity State
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/8trone/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/8trone/)*

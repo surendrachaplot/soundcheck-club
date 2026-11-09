@@ -1,6 +1,6 @@
 # Igloofest #12: Subtronics at Igloofest
 
-Igloofest #12: Subtronics on Sat 6 Feb, Montreal. 3 artists: hÿdra, Miss Bashful and Siren Mars. See the line-up on soundcheck.
+Igloofest #12: Subtronics on Sat 6 Feb, Montreal. 3 artists: hÿdra, Miss Bashful and Siren Mars. Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

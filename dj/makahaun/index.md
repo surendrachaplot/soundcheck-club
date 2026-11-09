@@ -1,6 +1,6 @@
 # makahaun
 
-makahaun is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Tresor.West, Dortmund / Essen on Sat, 21 Nov 2026.
+makahaun is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Tresor.West, Dortmund / Essen on Sat, 21 Nov 2026.
 
 makahaun is a techno and house artist based in Germany, with 41 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Dresden and 4 more. Often billed alongside pik, Anuli and HTML 2020. Next up: Tresor.West, Dortmund / Essen on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ makahaun is a techno and house artist based in Germany, with 41 gigs on soundche
 
 pik (1), Anuli, HTML 2020
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/makahaun/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/makahaun/)*

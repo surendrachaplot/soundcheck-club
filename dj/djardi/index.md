@@ -1,6 +1,6 @@
 # DJ Ardi
 
-DJ Ardi is a Jungle and Dancehall artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Mayrhofen, Austria, Austria on Mon, 5 Apr 2027.
+DJ Ardi is a Jungle and Dancehall artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Mayrhofen, Austria, Austria on Mon, 5 Apr 2027.
 
 DJ Ardi is a jungle and dancehall artist, with 4 gigs on soundcheck across Austria and London. Often billed alongside Daddy Nature, Uncle Dugs and 2ManyDJs. Next up: TBA - Mayrhofen, Austria, Austria on Mon 5 Apr.
 
@@ -20,4 +20,4 @@ DJ Ardi is a jungle and dancehall artist, with 4 gigs on soundcheck across Austr
 
 Daddy Nature, Uncle Dugs, 2ManyDJs
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djardi/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djardi/)*

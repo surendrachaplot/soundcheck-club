@@ -1,6 +1,6 @@
 # Discopapi
 
-Discopapi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Kater, Berlin on Sat, 19 Dec 2026.
+Discopapi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Kater, Berlin on Sat, 19 Dec 2026.
 
 Discopapi is a techno and house artist based in Germany, with 17 gigs on soundcheck across Berlin. Often billed alongside Freya K., ALKARLINE and BBetriebswirt. Next up: Kater, Berlin on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Discopapi is a techno and house artist based in Germany, with 17 gigs on soundch
 
 Freya K., ALKARLINE, BBetriebswirt
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/discopapi/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/discopapi/)*

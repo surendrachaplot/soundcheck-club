@@ -1,6 +1,6 @@
 # Martin Books
 
-Martin Books is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Bernsteinsee Velten, Brandenburg on Sat, 26 Jun 2027.
+Martin Books is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Bernsteinsee Velten, Brandenburg on Sat, 26 Jun 2027.
 
 Martin Books is a techno and tech house artist based in Germany, with 18 gigs on soundcheck across Berlin, Brandenburg, Bratislava and Brussels and 2 more. Often billed alongside Basstronauten, Daniel Boon and Grace Thompson. Next up: Bernsteinsee Velten, Brandenburg on Sat 26 Jun.
 
@@ -25,4 +25,4 @@ Martin Books is a techno and tech house artist based in Germany, with 18 gigs on
 
 Basstronauten, Daniel Boon, Grace Thompson
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/martinbooks/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/martinbooks/)*

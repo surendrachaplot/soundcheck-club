@@ -1,6 +1,6 @@
 # Ant. (US)
 
-Ant. (US) is a Acid and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Iron Cow, Orlando on Fri, 20 Nov 2026.
+Ant. (US) is a Acid and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Iron Cow, Orlando on Fri, 20 Nov 2026.
 
 Ant. (US) is an acid and minimal artist based in United States of America, with 8 gigs on soundcheck across Orlando. Often billed alongside Cataclisma, Durosai and Meghan Lee. Next up: Iron Cow, Orlando on Fri 20 Nov.
 
@@ -24,4 +24,4 @@ Ant. (US) is an acid and minimal artist based in United States of America, with 
 
 Cataclisma, Durosai, Meghan Lee
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ant.us/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ant.us/)*

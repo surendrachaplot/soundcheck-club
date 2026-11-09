@@ -1,6 +1,6 @@
 # CBR.
 
-CBR. is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at K9 Station, Serbia on Sat, 28 Nov 2026.
+CBR. is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at K9 Station, Serbia on Sat, 28 Nov 2026.
 
 CBR. is a techno and trance artist based in Serbia, with 4 gigs on soundcheck across Belgrade and Serbia. Often billed alongside TRUST TRUE, EVRSN and RIKHTER. Next up: K9 Station, Serbia on Sat 28 Nov.
 
@@ -20,4 +20,4 @@ CBR. is a techno and trance artist based in Serbia, with 4 gigs on soundcheck ac
 
 TRUST TRUE, EVRSN, RIKHTER
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cbr./)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cbr./)*

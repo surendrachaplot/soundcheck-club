@@ -1,6 +1,6 @@
 # justFinn
 
-justFinn is a House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at All My Friends, London on Sat, 21 Nov 2026.
+justFinn is a House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at All My Friends, London on Sat, 21 Nov 2026.
 
 justFinn is a house artist, with 3 gigs on soundcheck across Berlin and London. Often billed alongside George Askaroff, Josh Wickers and Lyde. Next up: All My Friends, London on Sat 21 Nov.
 
@@ -19,4 +19,4 @@ justFinn is a house artist, with 3 gigs on soundcheck across Berlin and London. 
 
 George Askaroff, Josh Wickers, Lyde
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/justfinn-de/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/justfinn-de/)*

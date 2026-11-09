@@ -1,6 +1,6 @@
 # Citadel invites:Axel Karakasis (GR) at STK 47 WAREHOUSE
 
-Citadel invites:Axel Karakasis (GR) at STK 47 WAREHOUSE on Sat 6 Feb, Krakow. 2 artists: Axel Karakasis and Forest (PL). See the line-up on soundcheck.
+Citadel invites:Axel Karakasis (GR) at STK 47 WAREHOUSE on Sat 6 Feb, Krakow. 2 artists: Axel Karakasis and Forest (PL). Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

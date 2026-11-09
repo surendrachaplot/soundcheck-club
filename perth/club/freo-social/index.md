@@ -1,6 +1,6 @@
 # Freo.Social
 
-Freo.Social is a music venue in Perth with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. The next is "The Pharcyde (US)" on Sun, 29 Nov 2026.
+Freo.Social is a music venue in Perth with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. The next is "The Pharcyde (US)" on Sun, 29 Nov 2026.
 
 Freo.Social is a music venue in Perth listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Freo.Social is a music venue in Perth listed on soundcheck. 1 upcoming gig. See 
 | --- | --- | --- |
 | Sun, 29 Nov 2026 | The Pharcyde (US) |  |
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/perth/club/freo-social/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/perth/club/freo-social/)*

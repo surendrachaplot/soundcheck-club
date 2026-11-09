@@ -1,6 +1,6 @@
 # Tapia
 
-Tapia is a Techno and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at CHICO, Mexico City on Sat, 14 Nov 2026.
+Tapia is a Techno and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at CHICO, Mexico City on Sat, 14 Nov 2026.
 
 Tapia is a techno and reggaeton artist based in Spain, with 3 gigs on soundcheck across Mexico City. Often billed alongside Octoptic, 500MA and Ana Armada. Next up: CHICO, Mexico City on Sat 14 Nov.
 
@@ -19,4 +19,4 @@ Tapia is a techno and reggaeton artist based in Spain, with 3 gigs on soundcheck
 
 Octoptic, 500MA, Ana Armada
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tapia/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tapia/)*

@@ -1,6 +1,6 @@
 # Tobias Lineker
 
-Tobias Lineker is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Dear Darling, London on Fri, 4 Dec 2026.
+Tobias Lineker is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Dear Darling, London on Fri, 4 Dec 2026.
 
 Tobias Lineker is a house and garage artist based in United Kingdom, with 27 gigs on soundcheck across London. Often billed alongside Hamish Glass, Luke Mannion and Pedrum. Next up: Dear Darling, London on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Tobias Lineker is a house and garage artist based in United Kingdom, with 27 gig
 
 Hamish Glass, Luke Mannion, Pedrum
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tobiaslineker/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tobiaslineker/)*

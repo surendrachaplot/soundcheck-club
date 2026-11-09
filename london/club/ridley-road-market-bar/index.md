@@ -1,8 +1,8 @@
 # Ridley Road Market Bar
 
-Ridley Road Market Bar is a music venue in London with 15 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "B-SIDE BABES" on Tue, 10 Nov 2026.
+Ridley Road Market Bar is a music venue in London with 16 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "B-SIDE BABES" on Tue, 10 Nov 2026.
 
-Ridley Road Market Bar is a music venue in London listed on soundcheck. 15 upcoming gigs. See dates, start times and who's playing. 49 Ridley Road; London E8 2NP; United Kingdom.
+Ridley Road Market Bar is a music venue in London listed on soundcheck. 16 upcoming gigs, with line-ups including Franzine. See dates, start times and who's playing. 49 Ridley Road; London E8 2NP; United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Ridley Road Market Bar is a music venue in London listed on soundcheck. 15 upcom
 
 49 Ridley Road; London E8 2NP; United Kingdom, London
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/ridley-road-market-bar/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/ridley-road-market-bar/)*

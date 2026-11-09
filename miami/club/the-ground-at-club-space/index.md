@@ -1,6 +1,6 @@
 # The Ground at Club Space
 
-The Ground at Club Space is a music venue in Miami with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Notion" on Fri, 13 Nov 2026.
+The Ground at Club Space is a music venue in Miami with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Notion" on Fri, 13 Nov 2026.
 
 The Ground at Club Space is a music venue in Miami listed on soundcheck. 3 upcoming gigs, with line-ups including Bakke, Dj Flashdrive, EQ (Estratosfera + Qiri) and EREZ.JPG and 2 more. See dates, start times and who's playing. 34 NE 11 Street, Miami, FL 33132, USA.
 
@@ -16,4 +16,4 @@ The Ground at Club Space is a music venue in Miami listed on soundcheck. 3 upcom
 
 34 NE 11 Street, Miami, FL 33132, USA, Miami
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/the-ground-at-club-space/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/the-ground-at-club-space/)*

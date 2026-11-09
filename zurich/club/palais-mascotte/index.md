@@ -1,6 +1,6 @@
 # Palais Mascotte
 
-Palais Mascotte is a music venue in Zurich with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Toy Tonics JAMS ZURICH: FIMIANI - BÁRBARA BOEING | SCHACKE99" on Fri, 20 Nov 2026.
+Palais Mascotte is a music venue in Zurich with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Toy Tonics JAMS ZURICH: FIMIANI - BÁRBARA BOEING | SCHACKE99" on Fri, 20 Nov 2026.
 
 Palais Mascotte is a music venue in Zurich listed on soundcheck. 3 upcoming gigs, with line-ups including Barbara Boeing, FIMIANI, DJ Hell and Onur Ozman and 1 more. See dates, start times and who's playing. Theaterstrasse 10, 8001 Zürich.
 
@@ -16,4 +16,4 @@ Palais Mascotte is a music venue in Zurich listed on soundcheck. 3 upcoming gigs
 
 Theaterstrasse 10, 8001 Zürich, Zurich
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/palais-mascotte/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/palais-mascotte/)*

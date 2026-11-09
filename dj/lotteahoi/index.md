@@ -1,6 +1,6 @@
 # Lotte Ahoi
 
-Lotte Ahoi is a Downtempo and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Klunkerkranich, Berlin on Sat, 14 Nov 2026.
+Lotte Ahoi is a Downtempo and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Klunkerkranich, Berlin on Sat, 14 Nov 2026.
 
 Lotte Ahoi is a downtempo and house artist, with 65 gigs on soundcheck across Berlin, Denver, Hamburg and Milan and 3 more. Often billed alongside Nigel Nagel, BurnTale and Chris Schwarzwälder. Next up: Klunkerkranich, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Lotte Ahoi is a downtempo and house artist, with 65 gigs on soundcheck across Be
 
 Nigel Nagel, BurnTale, Chris Schwarzwälder
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lotteahoi/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lotteahoi/)*

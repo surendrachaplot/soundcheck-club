@@ -1,6 +1,6 @@
 # BERRA
 
-BERRA is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at O2 Academy Bristol, Bristol on Sat, 28 Nov 2026.
+BERRA is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at O2 Academy Bristol, Bristol on Sat, 28 Nov 2026.
 
 BERRA is a garage and bass artist based in United Kingdom, with 12 gigs on soundcheck across Bristol, London, Manchester and Nottingham. Often billed alongside Akira, Killa P and Saint Ludo. Next up: O2 Academy Bristol, Bristol on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ BERRA is a garage and bass artist based in United Kingdom, with 12 gigs on sound
 
 Akira, Killa P, Saint Ludo
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/berra/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/berra/)*

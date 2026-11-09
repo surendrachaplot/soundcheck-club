@@ -1,6 +1,6 @@
 # Julio Red
 
-Julio Red is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Folies Pigalle, Paris on Sat, 14 Nov 2026.
+Julio Red is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Folies Pigalle, Paris on Sat, 14 Nov 2026.
 
 Julio Red is a tech house and house artist based in France, with 3 gigs on soundcheck across Paris. Often billed alongside Karl Jefferson, MOON and Ben:Rodd. Next up: Folies Pigalle, Paris on Sat 14 Nov.
 
@@ -19,4 +19,4 @@ Julio Red is a tech house and house artist based in France, with 3 gigs on sound
 
 Karl Jefferson, MOON, Ben:Rodd
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juliored/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juliored/)*

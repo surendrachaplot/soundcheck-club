@@ -1,6 +1,6 @@
 # De La Reef
 
-De La Reef is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - All My Friends + Secret Location, London on Sat, 14 Nov 2026.
+De La Reef is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - All My Friends + Secret Location, London on Sat, 14 Nov 2026.
 
 De La Reef is a house and techno artist based in Spain, with 66 gigs on soundcheck across Barcelona, Berlin, Brighton and Edinburgh and 3 more. Often billed alongside Alien Communications, Jos and Ste Roberts. Next up: TBA - All My Friends + Secret Location, London on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ De La Reef is a house and techno artist based in Spain, with 66 gigs on soundche
 
 Alien Communications, Jos, Ste Roberts
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/delareef/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/delareef/)*

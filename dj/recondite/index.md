@@ -1,6 +1,6 @@
 # Recondite
 
-Recondite is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Printhouse, Munich on Sat, 14 Nov 2026.
+Recondite is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Printhouse, Munich on Sat, 14 Nov 2026.
 
 Recondite is a techno and house artist based in Germany, with 118 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 45 more. Often billed alongside Tale Of Us, Anyma and Massano. Next up: Printhouse, Munich on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Recondite is a techno and house artist based in Germany, with 118 gigs on soundc
 
 Tale Of Us, Anyma, Massano
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/recondite/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/recondite/)*

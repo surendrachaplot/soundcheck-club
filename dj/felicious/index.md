@@ -1,6 +1,6 @@
 # Felicious
 
-Felicious is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at glimmer, Hamburg on Fri, 27 Nov 2026.
+Felicious is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at glimmer, Hamburg on Fri, 27 Nov 2026.
 
 Felicious is a techno and trance artist based in Germany, with 11 gigs on soundcheck across Hamburg. Often billed alongside DJ Pinky Promise, Carluschka and Krash Cora. Next up: glimmer, Hamburg on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Felicious is a techno and trance artist based in Germany, with 11 gigs on soundc
 
 DJ Pinky Promise, Carluschka, Krash Cora
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/felicious/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/felicious/)*

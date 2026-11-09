@@ -1,6 +1,6 @@
 # Homemade Explosives
 
-Homemade Explosives is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Elastica, Vilnius on Thu, 12 Nov 2026.
+Homemade Explosives is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Elastica, Vilnius on Thu, 12 Nov 2026.
 
 Homemade Explosives is a techno and house artist based in Lithuania, with 16 gigs on soundcheck across Vilnius. Often billed alongside Interiors, Mirror Slave and Valdagger. Next up: Elastica, Vilnius on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Homemade Explosives is a techno and house artist based in Lithuania, with 16 gig
 
 Interiors, Mirror Slave, Valdagger
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/homemadeexplosives/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/homemadeexplosives/)*

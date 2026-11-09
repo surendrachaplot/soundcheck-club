@@ -1,6 +1,6 @@
 # Prysm Nightclub
 
-Prysm Nightclub is a music venue in Chicago with 5 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "SERUM: Ragie Ban & Braydon Terzo" on Sat, 14 Nov 2026.
+Prysm Nightclub is a music venue in Chicago with 5 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "SERUM: Ragie Ban & Braydon Terzo" on Sat, 14 Nov 2026.
 
 Prysm Nightclub is a music venue in Chicago listed on soundcheck. 5 upcoming gigs, with line-ups including Enrico Sangiuliano, Iváno Lima, Kapote and Natalia Roth and 2 more. See dates, start times and who's playing. 1543 N Kingsbury St.
 
@@ -18,4 +18,4 @@ Prysm Nightclub is a music venue in Chicago listed on soundcheck. 5 upcoming gig
 
 1543 N Kingsbury St, Chicago
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/prysm-nightclub/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/prysm-nightclub/)*

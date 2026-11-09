@@ -1,6 +1,6 @@
 # OCCA
 
-OCCA is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Club Daphnia, Osaka on Fri, 13 Nov 2026.
+OCCA is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Club Daphnia, Osaka on Fri, 13 Nov 2026.
 
 OCCA is a techno and house artist based in Japan, with 151 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 25 more. Often billed alongside Spekki Webu, Diskonnected and OSHALEY. Next up: Club Daphnia, Osaka on Fri 13 Nov.
 
@@ -28,4 +28,4 @@ OCCA is a techno and house artist based in Japan, with 151 gigs on soundcheck ac
 
 Spekki Webu, Diskonnected, OSHALEY
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/occa/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/occa/)*

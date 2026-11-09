@@ -1,6 +1,6 @@
 # FOREVER: The Exhibition by Indie Sleaze Forever (19:00-22:00) at Sub Club
 
-FOREVER: The Exhibition by Indie Sleaze Forever (19:00-22:00) at Sub Club on Sat 28 Nov, Glasgow. 1 artist: SKYLERMYLER. House. See the line-up on soundcheck.
+FOREVER: The Exhibition by Indie Sleaze Forever (19:00-22:00) at Sub Club on Sat 28 Nov, Glasgow. 1 artist: SKYLERMYLER. House and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # RIGOROS
 
-RIGOROS is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Kauz, Zurich on Sat, 21 Nov 2026.
+RIGOROS is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Kauz, Zurich on Sat, 21 Nov 2026.
 
 RIGOROS is a techno and tech house artist based in Germany, with 3 gigs on soundcheck across Freiburg and Zurich. Often billed alongside AKA AKA, Anina Owly and Anthik. Next up: Kauz, Zurich on Sat 21 Nov.
 
@@ -19,4 +19,4 @@ RIGOROS is a techno and tech house artist based in Germany, with 3 gigs on sound
 
 AKA AKA, Anina Owly, Anthik
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rigoros/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rigoros/)*

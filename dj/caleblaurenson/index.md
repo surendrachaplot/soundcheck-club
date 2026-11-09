@@ -1,6 +1,6 @@
 # Caleb Laurenson
 
-Caleb Laurenson is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 20 Nov 2026.
+Caleb Laurenson is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 20 Nov 2026.
 
 Caleb Laurenson is a house and tech house artist based in United Kingdom, with 4 gigs on soundcheck across Amsterdam, London and Mallorca. Often billed alongside Danny P, Kepler and Lily C-D. Next up: Shelter Amsterdam, Amsterdam on Fri 20 Nov.
 
@@ -17,4 +17,4 @@ Caleb Laurenson is a house and tech house artist based in United Kingdom, with 4
 
 Danny P, Kepler, Lily C-D
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caleblaurenson/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caleblaurenson/)*

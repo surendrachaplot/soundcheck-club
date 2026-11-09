@@ -1,6 +1,6 @@
 # Emilio (FR)
 
-Emilio (FR) is a Techno and Noise artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at The Flinders, Sydney on Sat, 14 Nov 2026.
+Emilio (FR) is a Techno and Noise artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Flinders, Sydney on Sat, 14 Nov 2026.
 
 Emilio (FR) is a techno and noise artist based in France, with 3 gigs on soundcheck across Budapest, Sydney and Tokyo. Often billed alongside 7e, DIV and EVE. Next up: The Flinders, Sydney on Sat 14 Nov.
 
@@ -19,4 +19,4 @@ Emilio (FR) is a techno and noise artist based in France, with 3 gigs on soundch
 
 7e, DIV, EVE (1)
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emilio-fr/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emilio-fr/)*

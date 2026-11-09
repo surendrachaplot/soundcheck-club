@@ -1,6 +1,6 @@
 # Robek
 
-Robek is a Deep House and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at MONKEY LOVE, Warsaw on Fri, 20 Nov 2026.
+Robek is a Deep House and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at MONKEY LOVE, Warsaw on Fri, 20 Nov 2026.
 
 Robek is a deep house and dub techno artist, with 21 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Spajder Jeruzalem, Matt Rudnicki and Libront. Next up: MONKEY LOVE, Warsaw on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Robek is a deep house and dub techno artist, with 21 gigs on soundcheck across K
 
 Spajder Jeruzalem, Matt Rudnicki, Libront
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robek/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robek/)*

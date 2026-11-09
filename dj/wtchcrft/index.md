@@ -1,6 +1,6 @@
 # WTCHCRFT
 
-WTCHCRFT is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Warehouse on Watts, Philadelphia on Sat, 28 Nov 2026.
+WTCHCRFT is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Warehouse on Watts, Philadelphia on Sat, 28 Nov 2026.
 
 WTCHCRFT is a techno and club artist based in United States of America, with 161 gigs on soundcheck across Austin, Berlin, Boston and Chicago and 18 more. Often billed alongside KYRUH, RITCHRD and estoc. Next up: Warehouse on Watts, Philadelphia on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ WTCHCRFT is a techno and club artist based in United States of America, with 161
 
 KYRUH, RITCHRD, estoc
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wtchcrft/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wtchcrft/)*

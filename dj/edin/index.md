@@ -1,6 +1,6 @@
 # E D I N
 
-E D I N is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at One Gallery, Sofia on Sat, 28 Nov 2026.
+E D I N is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at One Gallery, Sofia on Sat, 28 Nov 2026.
 
 E D I N is a progressive house and techno artist based in Greece, with 13 gigs on soundcheck across Sofia. Often billed alongside PLAN X, ZDEPTH and AMY (BG). Next up: One Gallery, Sofia on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ E D I N is a progressive house and techno artist based in Greece, with 13 gigs o
 
 PLAN X, ZDEPTH, AMY (BG)
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edin/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edin/)*

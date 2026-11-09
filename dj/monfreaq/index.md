@@ -1,6 +1,6 @@
 # Monfreaq
 
-Monfreaq is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at High Note, Melbourne on Sat, 28 Nov 2026.
+Monfreaq is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at High Note, Melbourne on Sat, 28 Nov 2026.
 
 Monfreaq is a techno and house artist based in Australia, with 38 gigs on soundcheck across Berlin and Melbourne. Often billed alongside Hannah D, Yollks and Mabel. Next up: High Note, Melbourne on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Monfreaq is a techno and house artist based in Australia, with 38 gigs on soundc
 
 Hannah D, Yollks, Mabel
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/monfreaq/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/monfreaq/)*

@@ -1,6 +1,6 @@
 # BENSY
 
-BENSY is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Halcyon, San Francisco/Oakland on Fri, 27 Nov 2026.
+BENSY is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Halcyon, San Francisco/Oakland on Fri, 27 Nov 2026.
 
 BENSY is a house and electronica artist based in France, with 3 gigs on soundcheck across Dubai, Ibiza and San Francisco/Oakland. Often billed alongside Luca Saporito (Audiofly), Maurizio Schmitz and Super Flu. Next up: Halcyon, San Francisco/Oakland on Fri 27 Nov.
 
@@ -19,4 +19,4 @@ BENSY is a house and electronica artist based in France, with 3 gigs on soundche
 
 Luca Saporito (Audiofly), Maurizio Schmitz, Super Flu
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bensy/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bensy/)*

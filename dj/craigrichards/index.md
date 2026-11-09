@@ -1,6 +1,6 @@
 # Craig Richards
 
-Craig Richards is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at The White Hotel, Manchester on Sat, 14 Nov 2026.
+Craig Richards is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at The White Hotel, Manchester on Sat, 14 Nov 2026.
 
 Craig Richards is a house and techno artist based in United Kingdom, with 169 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 32 more. Often billed alongside Bobby., Francesco Del Garda and Christian AB. Next up: The White Hotel, Manchester on Sat 14 Nov.
 
@@ -32,4 +32,4 @@ Craig Richards is a house and techno artist based in United Kingdom, with 169 gi
 
 Bobby., Francesco Del Garda, Christian AB
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/craigrichards/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/craigrichards/)*

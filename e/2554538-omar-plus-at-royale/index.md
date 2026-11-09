@@ -1,6 +1,6 @@
 # Omar Plus at Royale
 
-Omar Plus at Royale on Sat 6 Feb, Boston. 1 artist: Omar+. See the line-up on soundcheck.
+Omar Plus at Royale on Sat 6 Feb, Boston. 1 artist: Omar+. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Alexion
 
-Alexion is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Lunchbox, Atlanta on Sat, 5 Dec 2026.
+Alexion is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Lunchbox, Atlanta on Sat, 5 Dec 2026.
 
 Alexion is a techno and house artist based in United States of America, with 3 gigs on soundcheck across Atlanta, Nashville and Pittsburgh. Often billed alongside Sesli, Linska and Stone Van Brooken. Next up: Lunchbox, Atlanta on Sat 5 Dec.
 
@@ -19,4 +19,4 @@ Alexion is a techno and house artist based in United States of America, with 3 g
 
 Sesli, Linska, Stone Van Brooken
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexion/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexion/)*

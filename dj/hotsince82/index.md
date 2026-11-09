@@ -1,6 +1,6 @@
 # Hot Since 82
 
-Hot Since 82 is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Amok Club, Mallorca on Sat, 14 Nov 2026.
+Hot Since 82 is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Amok Club, Mallorca on Sat, 14 Nov 2026.
 
 Hot Since 82 is a house and tech house artist based in United Kingdom, with 228 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 54 more. Often billed alongside Jamie Jones, Prunk and Fleur Shore. Next up: Amok Club, Mallorca on Sat 14 Nov.
 
@@ -31,4 +31,4 @@ Hot Since 82 is a house and tech house artist based in United Kingdom, with 228 
 
 Jamie Jones, Prunk, Fleur Shore
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hotsince82/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hotsince82/)*

@@ -1,6 +1,6 @@
 # Upi
 
-Upi is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Oddspace, Helsinki on Fri, 4 Dec 2026.
+Upi is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Oddspace, Helsinki on Fri, 4 Dec 2026.
 
 Upi is a house and acid artist based in Finland, with 3 gigs on soundcheck across Helsinki. Often billed alongside P o B, Lamaani and Jekaterina. Next up: Oddspace, Helsinki on Fri 4 Dec.
 
@@ -19,4 +19,4 @@ Upi is a house and acid artist based in Finland, with 3 gigs on soundcheck acros
 
 P o B, Lamaani, Jekaterina
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/upi/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/upi/)*

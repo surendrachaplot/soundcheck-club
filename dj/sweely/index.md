@@ -1,14 +1,13 @@
 # Sweely
 
-Sweely is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at essaim, Paris on Sun, 8 Nov 2026.
+Sweely is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 27 Nov 2026.
 
-Sweely is a house and techno artist based in France, with 190 gigs on soundcheck across Amsterdam, Athens, Bangalore and Barcelona and 54 more. Often billed alongside Enzo Siragusa, Traumer and The Ghost. Next up: essaim, Paris on Sun 8 Nov.
+Sweely is a house and techno artist based in France, with 190 gigs on soundcheck across Amsterdam, Athens, Bangalore and Barcelona and 54 more. Often billed alongside Enzo Siragusa, Traumer and The Ghost. Next up: Depot Mayfield, Manchester on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 8 Nov 2026 | essaim | Paris |
 | Fri, 27 Nov 2026 | Depot Mayfield | Manchester |
 | Sat, 28 Nov 2026 | DRUMSHEDS | London |
 | Thu, 3 Dec 2026 | The Fields at Siam Country Club | Thailand |
@@ -18,6 +17,7 @@ Sweely is a house and techno artist based in France, with 190 gigs on soundcheck
 
 ## Recently played
 
+- essaim, Paris · Sun, 8 Nov 2026
 - Flash, Washington DC · Fri, 6 Nov 2026
 - H0L0, New York City · Sat, 31 Oct 2026
 - Salon Daomé, Montreal · Sat, 31 Oct 2026
@@ -25,10 +25,9 @@ Sweely is a house and techno artist based in France, with 190 gigs on soundcheck
 - Blast Galaxy, Amsterdam · Thu, 22 Oct 2026
 - Tokonoma Club, Frankfurt · Sat, 17 Oct 2026
 - Folklor, Lausanne · Fri, 16 Oct 2026
-- Les Enfants Brillants, Barcelona · Fri, 9 Oct 2026
 
 ## Shares bills with
 
 Enzo Siragusa, Traumer, The Ghost
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sweely/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sweely/)*

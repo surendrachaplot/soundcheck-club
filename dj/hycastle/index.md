@@ -1,6 +1,6 @@
 # Hycastle
 
-Hycastle is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Junction Underground, Toronto on Fri, 13 Nov 2026.
+Hycastle is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Junction Underground, Toronto on Fri, 13 Nov 2026.
 
 Hycastle is a techno and electro artist based in Canada, with 42 gigs on soundcheck across Toronto. Often billed alongside /ASYNC, Xela. and Pauliexoxoxo. Next up: Junction Underground, Toronto on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Hycastle is a techno and electro artist based in Canada, with 42 gigs on soundch
 
 /ASYNC, Xela., Pauliexoxoxo
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hycastle/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hycastle/)*

@@ -1,6 +1,6 @@
 # Caroune
 
-Caroune is a Dub and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at radial, London on Fri, 4 Dec 2026.
+Caroune is a Dub and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at radial, London on Fri, 4 Dec 2026.
 
 Caroune is a dub and techno artist based in United Kingdom, with 21 gigs on soundcheck across London and Paris. Often billed alongside 9dwa, Andy Martin and Labyrinthine. Next up: radial, London on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Caroune is a dub and techno artist based in United Kingdom, with 21 gigs on soun
 
 9dwa, Andy Martin, Labyrinthine
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caroune/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caroune/)*

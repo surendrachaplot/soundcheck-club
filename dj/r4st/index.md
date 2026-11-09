@@ -1,6 +1,6 @@
 # R4ST
 
-R4ST is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Patision65, Athens on Sat, 14 Nov 2026.
+R4ST is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Patision65, Athens on Sat, 14 Nov 2026.
 
 R4ST is a techno and trance artist based in Greece, with 7 gigs on soundcheck across Athens. Often billed alongside LEFTYT, Alma Libre and Imperium. Next up: Patision65, Athens on Sat 14 Nov.
 
@@ -23,4 +23,4 @@ R4ST is a techno and trance artist based in Greece, with 7 gigs on soundcheck ac
 
 LEFTYT, Alma Libre, Imperium
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/r4st/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/r4st/)*

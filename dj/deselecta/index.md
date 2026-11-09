@@ -1,8 +1,8 @@
 # Deselecta
 
-Deselecta is a Jungle and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at The Boxing Club, Bristol on Fri, 13 Nov 2026.
+Deselecta is a Jungle and Drum & Bass artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at The Boxing Club, Bristol on Fri, 13 Nov 2026.
 
-Deselecta is a jungle and drum & bass artist based in United Kingdom, with 76 gigs on soundcheck across Bristol, Frankfurt, London and Manchester and 2 more. Often billed alongside Krash Dubs, 50CAL and Mousai. Next up: The Boxing Club, Bristol on Fri 13 Nov.
+Deselecta is a jungle and drum & bass artist based in United Kingdom, with 77 gigs on soundcheck across Bristol, Frankfurt, London and Manchester and 2 more. Often billed alongside Krash Dubs, 50CAL and Mousai. Next up: The Boxing Club, Bristol on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Deselecta is a jungle and drum & bass artist based in United Kingdom, with 76 gi
 | Fri, 13 Nov 2026 | The Boxing Club | Bristol |
 | Fri, 18 Dec 2026 | The Cause | London |
 | Thu, 31 Dec 2026 | The Clock Factory | Bristol |
+| Sat, 6 Feb 2027 | The Social | London |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Deselecta is a jungle and drum & bass artist based in United Kingdom, with 76 gi
 
 Krash Dubs, 50CAL, Mousai
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deselecta/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deselecta/)*

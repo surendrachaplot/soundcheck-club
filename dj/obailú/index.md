@@ -1,6 +1,6 @@
 # Oba Ilú
 
-Oba Ilú is a Club and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Latino Power, Bogotá on Thu, 26 Nov 2026.
+Oba Ilú is a Club and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Latino Power, Bogotá on Thu, 26 Nov 2026.
 
 Oba Ilú is a club and latin bass artist, with 3 gigs on soundcheck across Bogotá. Often billed alongside Conjunto Media Luna, Dulce and Fantástico. Next up: Latino Power, Bogotá on Thu 26 Nov.
 
@@ -19,4 +19,4 @@ Oba Ilú is a club and latin bass artist, with 3 gigs on soundcheck across Bogot
 
 Conjunto Media Luna, Dulce (1), Fantástico
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/obailú/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/obailú/)*

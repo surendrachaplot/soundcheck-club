@@ -1,6 +1,6 @@
 # Tausend
 
-Tausend is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Tausend Live: Tigerskin" on Wed, 11 Nov 2026.
+Tausend is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Tausend Live: Tigerskin" on Wed, 11 Nov 2026.
 
 Tausend is a music venue in Berlin listed on soundcheck. 6 upcoming gigs, with line-ups including CCTV, Frau Hofmann, KC Wray and Nikklaas and 2 more. See dates, start times and who's playing. Schiffbauerdamm 11; Mitte; 10117 Berlin; Germany.
 
@@ -19,4 +19,4 @@ Tausend is a music venue in Berlin listed on soundcheck. 6 upcoming gigs, with l
 
 Schiffbauerdamm 11; Mitte; 10117 Berlin; Germany, Berlin
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tausend/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tausend/)*

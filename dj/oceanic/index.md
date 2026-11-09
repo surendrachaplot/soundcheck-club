@@ -1,6 +1,6 @@
 # Oceanic
 
-Oceanic is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at CLUB RAUM, Amsterdam on Fri, 1 Jan 2027.
+Oceanic is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at CLUB RAUM, Amsterdam on Fri, 1 Jan 2027.
 
 Oceanic is a techno and house artist based in Netherlands, with 93 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside Oberman, Mary Lake and Nelly (NL). Next up: CLUB RAUM, Amsterdam on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Oceanic is a techno and house artist based in Netherlands, with 93 gigs on sound
 
 Oberman, Mary Lake, Nelly (NL)
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oceanic/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oceanic/)*

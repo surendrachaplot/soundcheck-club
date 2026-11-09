@@ -1,6 +1,6 @@
 # Rev Lon
 
-Rev Lon is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Tender, Melbourne on Thu, 3 Dec 2026.
+Rev Lon is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Tender, Melbourne on Thu, 3 Dec 2026.
 
 Rev Lon is a house and techno artist based in Australia, with 44 gigs on soundcheck across Berlin, Edinburgh, Hobart and Lisbon and 2 more. Often billed alongside Bex, Terri and Katharine. Next up: Tender, Melbourne on Thu 3 Dec.
 
@@ -26,4 +26,4 @@ Rev Lon is a house and techno artist based in Australia, with 44 gigs on soundch
 
 Bex, Terri (2), Katharine
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/revlon/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/revlon/)*

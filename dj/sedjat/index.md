@@ -1,6 +1,6 @@
 # sedjat
 
-sedjat is a Electro and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Sala La2, South on Sat, 14 Nov 2026.
+sedjat is a Electro and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Sala La2, South on Sat, 14 Nov 2026.
 
 sedjat is an electro and electronica artist based in Spain, with 6 gigs on soundcheck across Madrid, Malaga and South. Often billed alongside Unreal Vibes, Bea Moy and Carla Clay. Next up: Sala La2, South on Sat 14 Nov.
 
@@ -22,4 +22,4 @@ sedjat is an electro and electronica artist based in Spain, with 6 gigs on sound
 
 Unreal Vibes, Bea Moy, Carla Clay
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sedjat/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sedjat/)*

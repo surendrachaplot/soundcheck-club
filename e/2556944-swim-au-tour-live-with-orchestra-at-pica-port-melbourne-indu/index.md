@@ -1,6 +1,6 @@
 # SWIM - AU Tour Live with Orchestra at Pica (Port Melbourne Industrial Centre for the Arts)
 
-SWIM - AU Tour Live with Orchestra at Pica (Port Melbourne Industrial Centre for the Arts) on Sat 6 Feb, Melbourne. 1 artist: SWIM (AU). See the line-up on soundcheck.
+SWIM - AU Tour Live with Orchestra at Pica (Port Melbourne Industrial Centre for the Arts) on Sat 6 Feb, Melbourne. 1 artist: SWIM (AU). House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

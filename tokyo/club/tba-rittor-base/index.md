@@ -1,8 +1,8 @@
-# TBA - RITTOR BASE
+# TBA - 御茶ノ水RITTOR BASE
 
-TBA - RITTOR BASE is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "PHONOMETRICA vol.3〜階調する記憶～" on Sat, 21 Nov 2026.
+TBA - 御茶ノ水RITTOR BASE is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "PHONOMETRICA vol.3〜階調する記憶～" on Sat, 21 Nov 2026.
 
-TBA - RITTOR BASE is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing.
+TBA - 御茶ノ水RITTOR BASE is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing.
 
 ## What's on
 
@@ -11,4 +11,4 @@ TBA - RITTOR BASE is a music venue in Tokyo listed on soundcheck. 2 upcoming gig
 | Sat, 21 Nov 2026 | PHONOMETRICA vol.3〜階調する記憶～ |  |
 | Sat, 28 Nov 2026 | LIG（佐藤理＋ゴンドウトモヒコ）オーディオビジュアル・ライブ！ |  |
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/tba-rittor-base/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/tba-rittor-base/)*

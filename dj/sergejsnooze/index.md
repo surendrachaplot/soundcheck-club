@@ -1,6 +1,6 @@
 # Sergej Snooze
 
-Sergej Snooze is a Tech House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Masters, Zagreb on Wed, 11 Nov 2026.
+Sergej Snooze is a Tech House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Masters, Zagreb on Wed, 11 Nov 2026.
 
 Sergej Snooze is a tech house and deep house artist, with 4 gigs on soundcheck across Zagreb. Often billed alongside Mimi, Octile and Stipo. Next up: Masters, Zagreb on Wed 11 Nov.
 
@@ -20,4 +20,4 @@ Sergej Snooze is a tech house and deep house artist, with 4 gigs on soundcheck a
 
 Mimi, Octile, Stipo
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sergejsnooze/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sergejsnooze/)*

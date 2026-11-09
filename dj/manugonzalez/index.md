@@ -1,6 +1,6 @@
 # Manu Gonzalez
 
-Manu Gonzalez is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at E1, London on Fri, 13 Nov 2026.
+Manu Gonzalez is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at E1, London on Fri, 13 Nov 2026.
 
 Manu Gonzalez is a tech house and house artist based in Spain, with 46 gigs on soundcheck across Amsterdam, Barcelona, Bucharest and Dubai and 8 more. Often billed alongside Paco Osuna, Melanie Ribbe and Darius Syrossian. Next up: E1, London on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Manu Gonzalez is a tech house and house artist based in Spain, with 46 gigs on s
 
 Paco Osuna, Melanie Ribbe, Darius Syrossian
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manugonzalez/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manugonzalez/)*

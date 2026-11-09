@@ -1,6 +1,6 @@
 # control
 
-control is a music venue in Bucharest with 10 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Panoramic with Maalem Houssam Guinia [MO], Al Ehtifal" on Wed, 11 Nov 2026.
+control is a music venue in Bucharest with 10 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Panoramic with Maalem Houssam Guinia [MO], Al Ehtifal" on Wed, 11 Nov 2026.
 
 control is a music venue in Bucharest listed on soundcheck. 10 upcoming gigs, with line-ups including Actress, Benjamin Fröhlich, Bjørn Torske and Borusiade and 2 more. See dates, start times and who's playing. Str. Constantin Mille, nr. 4, 010142 Bucharest, Romania.
 
@@ -23,4 +23,4 @@ control is a music venue in Bucharest listed on soundcheck. 10 upcoming gigs, wi
 
 Str. Constantin Mille, nr. 4, 010142 Bucharest, Romania, Bucharest
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/control/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/control/)*

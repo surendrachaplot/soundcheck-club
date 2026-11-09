@@ -1,6 +1,6 @@
 # LOFILA
 
-LOFILA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Obedient Missionary, Detroit on Sat, 28 Nov 2026.
+LOFILA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Obedient Missionary, Detroit on Sat, 28 Nov 2026.
 
 LOFILA is a techno and house artist, with 11 gigs on soundcheck across Cleveland and Detroit. Often billed alongside KICK (DET), Redax and moregasm. Next up: TBA - Obedient Missionary, Detroit on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ LOFILA is a techno and house artist, with 11 gigs on soundcheck across Cleveland
 
 KICK (DET), Redax, moregasm
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lofila/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lofila/)*

@@ -1,6 +1,6 @@
 # Heepmann
 
-Heepmann is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at KitKatClub, Berlin on Wed, 11 Nov 2026.
+Heepmann is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at KitKatClub, Berlin on Wed, 11 Nov 2026.
 
 Heepmann is a techno and industrial artist based in Germany, with 19 gigs on soundcheck across Berlin and Frankfurt. Often billed alongside Preta, DJ Jordan and Damien Barthet. Next up: KitKatClub, Berlin on Wed 11 Nov.
 
@@ -28,4 +28,4 @@ Heepmann is a techno and industrial artist based in Germany, with 19 gigs on sou
 
 Preta, DJ Jordan, Damien Barthet (2)
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/heepmann/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/heepmann/)*

@@ -1,6 +1,6 @@
 # Carlos Agraz
 
-Carlos Agraz is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Metro Dance Club, Alicante on Sat, 14 Nov 2026.
+Carlos Agraz is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Metro Dance Club, Alicante on Sat, 14 Nov 2026.
 
 Carlos Agraz is an industrial and techno artist based in Spain, with 3 gigs on soundcheck across Alicante, Madrid and Valencia. Often billed alongside ANNĒ, Acid Pimps and Ania Bruster. Next up: Metro Dance Club, Alicante on Sat 14 Nov.
 
@@ -19,4 +19,4 @@ Carlos Agraz is an industrial and techno artist based in Spain, with 3 gigs on s
 
 ANNĒ, Acid Pimps, Ania Bruster
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosagraz/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosagraz/)*

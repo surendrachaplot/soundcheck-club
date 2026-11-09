@@ -1,6 +1,6 @@
 # TRIVEAT
 
-TRIVEAT is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Foro Roma, Mexico City on Sat, 14 Nov 2026.
+TRIVEAT is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Foro Roma, Mexico City on Sat, 14 Nov 2026.
 
 TRIVEAT is a house and afro house artist based in Mexico, with 7 gigs on soundcheck across Mexico City. Often billed alongside Andrreas, Cinema Paradisco and Dani Barbosa. Next up: Foro Roma, Mexico City on Sat 14 Nov.
 
@@ -23,4 +23,4 @@ TRIVEAT is a house and afro house artist based in Mexico, with 7 gigs on soundch
 
 Andrreas, Cinema Paradisco, Dani Barbosa
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/triveat/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/triveat/)*

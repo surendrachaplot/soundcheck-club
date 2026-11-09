@@ -1,6 +1,6 @@
 # FEIERN WIE FRÜHER - NUR FRÜHER! x OUTSIDE WORLD at Baggi
 
-FEIERN WIE FRÜHER - NUR FRÜHER! x OUTSIDE WORLD at Baggi on Sat 6 Feb, Hannover. 3 artists: Anna Reusch, Marc van Linden and Thomas Schumacher. See the line-up on soundcheck.
+FEIERN WIE FRÜHER - NUR FRÜHER! x OUTSIDE WORLD at Baggi on Sat 6 Feb, Hannover. 3 artists: Anna Reusch, Marc van Linden and Thomas Schumacher. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

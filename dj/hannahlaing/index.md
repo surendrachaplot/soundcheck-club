@@ -1,6 +1,6 @@
 # Hannah Laing
 
-Hannah Laing is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
+Hannah Laing is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
 
 Hannah Laing is a techno and house artist based in United Kingdom, with 184 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 57 more. Often billed alongside Azyr, Ben Hemsley and James Hype (UK). Next up: The Queen Mary, Los Angeles on Fri 20 Nov.
 
@@ -29,4 +29,4 @@ Hannah Laing is a techno and house artist based in United Kingdom, with 184 gigs
 
 Azyr, Ben Hemsley, James Hype (UK)
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahlaing/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahlaing/)*

@@ -1,6 +1,6 @@
 # CEM
 
-CEM is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Pillbox Beijing, Beijing on Fri, 13 Nov 2026.
+CEM is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Pillbox Beijing, Beijing on Fri, 13 Nov 2026.
 
 CEM is a techno and house artist based in Germany, with 246 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 65 more. Often billed alongside MCMLXXXV, Dj Saliva and JASSS. Next up: Pillbox Beijing, Beijing on Fri 13 Nov.
 
@@ -32,4 +32,4 @@ CEM is a techno and house artist based in Germany, with 246 gigs on soundcheck a
 
 MCMLXXXV, Dj Saliva, JASSS
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cem/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cem/)*

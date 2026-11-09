@@ -1,6 +1,6 @@
 # Lee De Rosa
 
-Lee De Rosa is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Basing House, London on Fri, 27 Nov 2026.
+Lee De Rosa is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Basing House, London on Fri, 27 Nov 2026.
 
 Lee De Rosa is a house and tech house artist based in United Kingdom, with 4 gigs on soundcheck across London. Often billed alongside CHLO (UK), Cage and Dimmish. Next up: Basing House, London on Fri 27 Nov.
 
@@ -20,4 +20,4 @@ Lee De Rosa is a house and tech house artist based in United Kingdom, with 4 gig
 
 CHLO (UK), Cage (1), Dimmish
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leederosa/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leederosa/)*

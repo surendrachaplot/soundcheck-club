@@ -1,6 +1,6 @@
 # JAWS
 
-JAWS is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Zabal Techno, Buenos Aires on Fri, 13 Nov 2026.
+JAWS is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Zabal Techno, Buenos Aires on Fri, 13 Nov 2026.
 
 JAWS is a techno and industrial artist based in Colombia, with 37 gigs on soundcheck across Buenos Aires, London, Madrid and Manchester and 1 more. Often billed alongside Nigabba, BELCEBÚ and MVPDJ. Next up: Zabal Techno, Buenos Aires on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ JAWS is a techno and industrial artist based in Colombia, with 37 gigs on soundc
 
 Nigabba, BELCEBÚ, MVPDJ
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaws/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaws/)*

@@ -1,6 +1,6 @@
 # The Mash House
 
-The Mash House is a music venue in Edinburgh with 5 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "USB Roulette" on Tue, 10 Nov 2026.
+The Mash House is a music venue in Edinburgh with 5 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "USB Roulette" on Tue, 10 Nov 2026.
 
 The Mash House is a music venue in Edinburgh listed on soundcheck. 5 upcoming gigs, with line-ups including CU-SITH, Dan Jakson, Lara Sinclair and silkrot and 1 more. See dates, start times and who's playing. 37 Guthrie Street, Edinburgh, EH1 1JQ, Scotland, United Kingdom.
 
@@ -18,4 +18,4 @@ The Mash House is a music venue in Edinburgh listed on soundcheck. 5 upcoming gi
 
 37 Guthrie Street, Edinburgh, EH1 1JQ, Scotland, United Kingdom, Edinburgh
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-mash-house/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-mash-house/)*

@@ -1,6 +1,6 @@
 # Cut Copy
 
-Cut Copy is a House and Electronica artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Night We Met, Nashville on Thu, 12 Nov 2026.
+Cut Copy is a House and Electronica artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Night We Met, Nashville on Thu, 12 Nov 2026.
 
 Cut Copy is a house and electronica artist based in Australia, with 16 gigs on soundcheck across Arkansas, Chicago, Denver and Los Angeles and 7 more. Often billed alongside Crazy P, nimino and ANTIMATTER. Next up: Night We Met, Nashville on Thu 12 Nov.
 
@@ -27,4 +27,4 @@ Cut Copy is a house and electronica artist based in Australia, with 16 gigs on s
 
 Crazy P, nimino, ANTIMATTER
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cutcopy/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cutcopy/)*

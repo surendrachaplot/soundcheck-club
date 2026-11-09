@@ -1,8 +1,8 @@
 # Monarch
 
-Monarch is a music venue in San Francisco/Oakland with 13 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Navid Izadi: AYANDE — A Celebration of Life & Music" on Thu, 12 Nov 2026.
+Monarch is a music venue in San Francisco/Oakland with 14 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Navid Izadi: AYANDE — A Celebration of Life & Music" on Thu, 12 Nov 2026.
 
-Monarch is a music venue in San Francisco/Oakland listed on soundcheck. 13 upcoming gigs, with line-ups including .KINA, 1OO1O, Amatric and Axel Boman and 2 more. See dates, start times and who's playing. 101 6th Street, San Francisco, CA 94103, United States.
+Monarch is a music venue in San Francisco/Oakland listed on soundcheck. 14 upcoming gigs, with line-ups including .KINA, 1OO1O, 93FM and Amatric and 2 more. See dates, start times and who's playing. 101 6th Street, San Francisco, CA 94103, United States.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Monarch is a music venue in San Francisco/Oakland listed on soundcheck. 13 upcom
 
 101 6th Street, San Francisco, CA 94103, United States, San Francisco/Oakland
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/monarch/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/monarch/)*

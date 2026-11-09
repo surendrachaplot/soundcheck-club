@@ -1,6 +1,6 @@
 # Levi Dry
 
-Levi Dry is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Fitzroy, Berlin on Thu, 12 Nov 2026.
+Levi Dry is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Fitzroy, Berlin on Thu, 12 Nov 2026.
 
 Levi Dry is a house and afro house artist based in South Africa, with 18 gigs on soundcheck across Berlin. Often billed alongside Theodor Luv, Caroux and Montague. Next up: Fitzroy, Berlin on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Levi Dry is a house and afro house artist based in South Africa, with 18 gigs on
 
 Theodor Luv, Caroux, Montague
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/levidry/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/levidry/)*

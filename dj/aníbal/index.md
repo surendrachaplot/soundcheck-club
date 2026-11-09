@@ -1,6 +1,6 @@
 # ANÍBAL
 
-ANÍBAL is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Pérola Negra Club, Porto on Fri, 13 Nov 2026.
+ANÍBAL is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Pérola Negra Club, Porto on Fri, 13 Nov 2026.
 
 ANÍBAL is a techno and trance artist based in Portugal, with 27 gigs on soundcheck across Berlin, Lisbon, Madrid and Porto. Often billed alongside Djooke, AAguilAA and Dimitri Tenot. Next up: Pérola Negra Club, Porto on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ ANÍBAL is a techno and trance artist based in Portugal, with 27 gigs on soundch
 
 Djooke, AAguilAA, Dimitri Tenot
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aníbal/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aníbal/)*

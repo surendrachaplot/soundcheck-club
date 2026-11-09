@@ -1,6 +1,6 @@
 # Dan Andrei
 
-Dan Andrei is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Eiger Studios, Leeds on Sat, 21 Nov 2026.
+Dan Andrei is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Eiger Studios, Leeds on Sat, 21 Nov 2026.
 
 Dan Andrei is a house and minimal artist based in Romania, with 126 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 33 more. Often billed alongside Cap, Rhadoo and Sonja Moonear. Next up: Eiger Studios, Leeds on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ Dan Andrei is a house and minimal artist based in Romania, with 126 gigs on soun
 
 Cap, Rhadoo, Sonja Moonear
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danandrei/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danandrei/)*

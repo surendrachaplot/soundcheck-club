@@ -1,8 +1,8 @@
 # Ken Okuda
 
-Ken Okuda is a House and Broken Beat artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Atemporal, Berlin on Sat, 14 Nov 2026.
+Ken Okuda is a House and Jazz artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Atemporal, Berlin on Sat, 14 Nov 2026.
 
-Ken Okuda is a house and broken beat artist based in Germany, with 63 gigs on soundcheck across Antwerp, Berlin, Hamburg and London and 2 more. Often billed alongside D'Monk, Orlando Rosé and Femdelic. Next up: Atemporal, Berlin on Sat 14 Nov.
+Ken Okuda is a house and jazz artist based in Germany, with 64 gigs on soundcheck across Antwerp, Berlin, Hamburg and London and 2 more. Often billed alongside D'Monk, Orlando Rosé and Femdelic. Next up: Atemporal, Berlin on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ken Okuda is a house and broken beat artist based in Germany, with 63 gigs on so
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Atemporal | Berlin |
 | Sat, 21 Nov 2026 | TBA - Secret Location (U+S Jannowitzbrücke) | Berlin |
+| Sat, 28 Nov 2026 | Studio dB | Berlin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Ken Okuda is a house and broken beat artist based in Germany, with 63 gigs on so
 
 D'Monk, Orlando Rosé, Femdelic
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kenokuda/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kenokuda/)*

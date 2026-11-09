@@ -1,6 +1,6 @@
 # Jasmine Infiniti
 
-Jasmine Infiniti is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Public Works, San Francisco/Oakland on Thu, 31 Dec 2026.
+Jasmine Infiniti is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Public Works, San Francisco/Oakland on Thu, 31 Dec 2026.
 
 Jasmine Infiniti is a techno and house artist based in United States of America, with 82 gigs on soundcheck across Atlanta, Auckland, Barcelona and Berlin and 19 more. Often billed alongside Cali Rose, TYGAPAW and Cisne. Next up: Public Works, San Francisco/Oakland on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Jasmine Infiniti is a techno and house artist based in United States of America,
 
 Cali Rose, TYGAPAW, Cisne
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jasmineinfiniti/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jasmineinfiniti/)*

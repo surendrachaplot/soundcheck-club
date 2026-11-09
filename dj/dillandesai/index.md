@@ -1,6 +1,6 @@
 # Dillan Desai
 
-Dillan Desai is a Progressive House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Paragem Feima, Mozambique on Sat, 5 Dec 2026.
+Dillan Desai is a Progressive House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Paragem Feima, Mozambique on Sat, 5 Dec 2026.
 
 Dillan Desai is a progressive house artist based in United Kingdom, with 10 gigs on soundcheck across Johannesburg, London and Mozambique. Often billed alongside CLEIDO, Artist Lebo and Kadosh. Next up: Paragem Feima, Mozambique on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Dillan Desai is a progressive house artist based in United Kingdom, with 10 gigs
 
 CLEIDO, Artist Lebo, Kadosh
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dillandesai/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dillandesai/)*

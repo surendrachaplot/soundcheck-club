@@ -1,14 +1,13 @@
 # Flash
 
-Flash is a music venue in Washington DC with 18 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Daybreaker" on Sun, 8 Nov 2026.
+Flash is a music venue in Washington DC with 17 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Enzo Siragusa" on Fri, 13 Nov 2026.
 
-Flash is a music venue in Washington DC listed on soundcheck. 18 upcoming gigs, with line-ups including Alanapana, Andy Big, Anetha and Aurora Halal and 2 more. See dates, start times and who's playing. 645 Florida Ave, NW, Washington, D.C. 20001.
+Flash is a music venue in Washington DC listed on soundcheck. 17 upcoming gigs, with line-ups including Alanapana, Andy Big, Anetha and Aurora Halal and 2 more. See dates, start times and who's playing. 645 Florida Ave, NW, Washington, D.C. 20001.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 8 Nov 2026 | Daybreaker |  |
 | Fri, 13 Nov 2026 | Enzo Siragusa | DURFY, Enzo Siragusa |
 | Sat, 14 Nov 2026 | Jasper James - Tobias Lindén | Alanapana, Jasper James, Moreon, Tobias Lindén, V.X (US), enz.O |
 | Thu, 19 Nov 2026 | FOCUS: Anetha | Anetha, Xav (US) |
@@ -18,9 +17,10 @@ Flash is a music venue in Washington DC listed on soundcheck. 18 upcoming gigs, 
 | Wed, 25 Nov 2026 | FlashGiving: Steve Bug | Bad Reputations, Jandro, Steve Bug |
 | Fri, 27 Nov 2026 | AmapianoDMV | Nativesun |
 | Sat, 28 Nov 2026 | Janina - Clovis | Clovis, DJ Soul (US), Gradient Descent, Janina, markintheDark, shilimili |
+| Fri, 4 Dec 2026 | Matisa - Maxime dB | Martino Boga, Matisa, Maxime dB |
 
 ## Address
 
 645 Florida Ave, NW, Washington, D.C. 20001, Washington DC
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/flash/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/flash/)*

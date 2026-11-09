@@ -1,6 +1,6 @@
 # nd_baumecker
 
-nd_baumecker is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Shredenhams, Bristol on Fri, 20 Nov 2026.
+nd_baumecker is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Shredenhams, Bristol on Fri, 20 Nov 2026.
 
 nd_baumecker is a house and techno artist based in Germany, with 139 gigs on soundcheck across Athens, Bali, Bangkok and Barcelona and 43 more. Often billed alongside Jorkes, Steffi and Efdemin. Next up: Shredenhams, Bristol on Fri 20 Nov.
 
@@ -28,4 +28,4 @@ nd_baumecker is a house and techno artist based in Germany, with 139 gigs on sou
 
 Jorkes, Steffi, Efdemin
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nd_baumecker/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nd_baumecker/)*

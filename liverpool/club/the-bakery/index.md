@@ -1,6 +1,6 @@
 # The Bakery
 
-The Bakery is a music venue in Liverpool with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. The next is "UNLICHT PRESENTS: D|K|OXY + LRNZFRDN & MORE @ The Bakery" on Fri, 26 Feb 2027.
+The Bakery is a music venue in Liverpool with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. The next is "UNLICHT PRESENTS: D|K|OXY + LRNZFRDN & MORE @ The Bakery" on Fri, 26 Feb 2027.
 
 The Bakery is a music venue in Liverpool listed on soundcheck. 1 upcoming gig, with line-ups including D|K|OXY, Robo and Stevo. See dates, start times and who's playing. Marvin St, Kensington, Liverpool L6 1NF.
 
@@ -14,4 +14,4 @@ The Bakery is a music venue in Liverpool listed on soundcheck. 1 upcoming gig, w
 
 Marvin St, Kensington, Liverpool L6 1NF, Liverpool
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/the-bakery/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/the-bakery/)*

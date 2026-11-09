@@ -1,6 +1,6 @@
 # Zotos
 
-Zotos is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at public records, New York City on Fri, 11 Dec 2026.
+Zotos is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at public records, New York City on Fri, 11 Dec 2026.
 
 Zotos is a techno and house artist based in United States of America, with 4 gigs on soundcheck across New York City. Often billed alongside AADJA, Byron The Aquarius and DJ G.. Next up: public records, New York City on Fri 11 Dec.
 
@@ -20,4 +20,4 @@ Zotos is a techno and house artist based in United States of America, with 4 gig
 
 AADJA, Byron The Aquarius, DJ G.
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zotos/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zotos/)*

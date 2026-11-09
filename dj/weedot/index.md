@@ -1,6 +1,6 @@
 # WeeDot
 
-WeeDot is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at renae, Manchester on Fri, 27 Nov 2026.
+WeeDot is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at renae, Manchester on Fri, 27 Nov 2026.
 
 WeeDot is a house and progressive house artist based in United Kingdom, with 41 gigs on soundcheck across Cork and Manchester. Often billed alongside Róisín W, Pangölin and Pattie Mac. Next up: renae, Manchester on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ WeeDot is a house and progressive house artist based in United Kingdom, with 41 
 
 Róisín W, Pangölin, Pattie Mac
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/weedot/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/weedot/)*

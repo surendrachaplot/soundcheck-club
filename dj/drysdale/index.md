@@ -1,8 +1,8 @@
 # Drysdale
 
-Drysdale is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at The Clock Factory, Bristol on Fri, 11 Dec 2026.
+Drysdale is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Clock Factory, Bristol on Fri, 11 Dec 2026.
 
-Drysdale is a house and electro artist, with 7 gigs on soundcheck across Bristol and London. Often billed alongside Joe Seymour, ANNX and Aiden Francis. Next up: The Clock Factory, Bristol on Fri 11 Dec.
+Drysdale is a house and electro artist based in United Kingdom, with 7 gigs on soundcheck across Bristol and London. Often billed alongside Joe Seymour, ANNX and Aiden Francis. Next up: The Clock Factory, Bristol on Fri 11 Dec.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ Drysdale is a house and electro artist, with 7 gigs on soundcheck across Bristol
 
 Joe Seymour, ANNX, Aiden Francis
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drysdale/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drysdale/)*

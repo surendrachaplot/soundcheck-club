@@ -1,6 +1,6 @@
 # Izzi
 
-Izzi is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Honey Street Studio, Manchester on Sun, 22 Nov 2026.
+Izzi is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Honey Street Studio, Manchester on Sun, 22 Nov 2026.
 
 Izzi is a bass and club artist based in United Kingdom, with 74 gigs on soundcheck across Bangkok, Barcelona, Berlin and Bristol and 3 more. Often billed alongside yourboykiran, Ìyáàlù and Chande. Next up: Honey Street Studio, Manchester on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ Izzi is a bass and club artist based in United Kingdom, with 74 gigs on soundche
 
 yourboykiran, Ìyáàlù, Chande
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/izzi/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/izzi/)*

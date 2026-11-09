@@ -1,6 +1,6 @@
 # SIJIN
 
-SIJIN is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at vurt., Seoul on Fri, 13 Nov 2026.
+SIJIN is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at vurt., Seoul on Fri, 13 Nov 2026.
 
 SIJIN is a techno and ebm artist based in South Korea, with 92 gigs on soundcheck across Bangkok, Seoul, Tbilisi and Tokyo. Often billed alongside DJ SIN, Purusha and ComaRobot. Next up: vurt., Seoul on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ SIJIN is a techno and ebm artist based in South Korea, with 92 gigs on soundchec
 
 DJ SIN, Purusha, ComaRobot
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sijin/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sijin/)*

@@ -1,6 +1,6 @@
 # BIG REG
 
-BIG REG is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at fabric, London on Fri, 11 Dec 2026.
+BIG REG is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at fabric, London on Fri, 11 Dec 2026.
 
 BIG REG is a house and tech house artist based in United Kingdom, with 16 gigs on soundcheck across Austria, Bristol, London and Sheffield and 1 more. Often billed alongside Spingall, Gingall and Andy C. Next up: fabric, London on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ BIG REG is a house and tech house artist based in United Kingdom, with 16 gigs o
 
 Spingall, Gingall, Andy C
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bigreg/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bigreg/)*

@@ -1,6 +1,6 @@
 # Sameheads
 
-Sameheads is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "KIMCHI RECORDS X Sameheads" on Thu, 12 Nov 2026.
+Sameheads is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "KIMCHI RECORDS X Sameheads" on Thu, 12 Nov 2026.
 
 Sameheads is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with line-ups including Alexander Arpeggio, Amelia Holt, Yoshi (DE) and Andrea Zucca and 2 more. See dates, start times and who's playing. Richardstrasse 10; Neukölln; 12043 Berlin; Germany.
 
@@ -22,4 +22,4 @@ Sameheads is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with
 
 Richardstrasse 10; Neukölln; 12043 Berlin; Germany, Berlin
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sameheads/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sameheads/)*

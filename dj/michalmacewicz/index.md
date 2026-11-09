@@ -1,6 +1,6 @@
 # Michal Macewicz
 
-Michal Macewicz is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Ciało, Wroclaw on Sat, 5 Dec 2026.
+Michal Macewicz is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Ciało, Wroclaw on Sat, 5 Dec 2026.
 
 Michal Macewicz is a techno and ambient artist based in Poland, with 7 gigs on soundcheck across Warsaw and Wroclaw. Often billed alongside Aksamit, Alexander Skancke and Anna Kost. Next up: Ciało, Wroclaw on Sat 5 Dec.
 
@@ -23,4 +23,4 @@ Michal Macewicz is a techno and ambient artist based in Poland, with 7 gigs on s
 
 Aksamit, Alexander Skancke, Anna Kost
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/michalmacewicz/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/michalmacewicz/)*

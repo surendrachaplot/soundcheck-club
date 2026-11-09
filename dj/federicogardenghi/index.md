@@ -1,6 +1,6 @@
 # Federico Gardenghi
 
-Federico Gardenghi is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Apophis Club, Milan on Fri, 13 Nov 2026.
+Federico Gardenghi is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Apophis Club, Milan on Fri, 13 Nov 2026.
 
 Federico Gardenghi is an electronica and house artist, with 3 gigs on soundcheck across Milan. Often billed alongside ffina. Next up: Apophis Club, Milan on Fri 13 Nov.
 
@@ -19,4 +19,4 @@ Federico Gardenghi is an electronica and house artist, with 3 gigs on soundcheck
 
 ffina
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/federicogardenghi/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/federicogardenghi/)*

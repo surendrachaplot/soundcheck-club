@@ -1,6 +1,6 @@
 # Unbalance
 
-Unbalance is a Industrial and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Desert Inn Resort and Camp, Dubai on Fri, 13 Nov 2026.
+Unbalance is a Industrial and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Desert Inn Resort and Camp, Dubai on Fri, 13 Nov 2026.
 
 Unbalance is an industrial and techno artist based in Russia, with 4 gigs on soundcheck across Dubai, Moscow and Saint Petersburg. Often billed alongside ALOD, Chain Damage and Gemüt. Next up: Desert Inn Resort and Camp, Dubai on Fri 13 Nov.
 
@@ -20,4 +20,4 @@ Unbalance is an industrial and techno artist based in Russia, with 4 gigs on sou
 
 ALOD, Chain Damage, Gemüt
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/unbalance/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/unbalance/)*

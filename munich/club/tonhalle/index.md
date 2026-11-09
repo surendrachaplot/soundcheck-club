@@ -1,6 +1,6 @@
 # Tonhalle
 
-Tonhalle is a music venue in Munich with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. The next is "Schrotthagen Neue Welt Tour @Tonhalle München" on Sat, 12 Dec 2026.
+Tonhalle is a music venue in Munich with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. The next is "Schrotthagen Neue Welt Tour @Tonhalle München" on Sat, 12 Dec 2026.
 
 Tonhalle is a music venue in Munich listed on soundcheck. 1 upcoming gig, with line-ups including Schrotthagen. See dates, start times and who's playing. Ateliertrasse 24, 81671 München.
 
@@ -14,4 +14,4 @@ Tonhalle is a music venue in Munich listed on soundcheck. 1 upcoming gig, with l
 
 Ateliertrasse 24, 81671 München, Munich
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/tonhalle/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/tonhalle/)*

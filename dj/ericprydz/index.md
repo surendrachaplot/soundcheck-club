@@ -1,6 +1,6 @@
 # Eric Prydz
 
-Eric Prydz is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Echostage, Washington DC on Fri, 20 Nov 2026.
+Eric Prydz is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Echostage, Washington DC on Fri, 20 Nov 2026.
 
 Eric Prydz is a techno and house artist based in Sweden, with 118 gigs on soundcheck across Amsterdam, Austin, Austria and Bali and 40 more. Often billed alongside Adam Beyer, Patrick Topping and Cristoph. Next up: Echostage, Washington DC on Fri 20 Nov.
 
@@ -29,4 +29,4 @@ Eric Prydz is a techno and house artist based in Sweden, with 118 gigs on soundc
 
 Adam Beyer, Patrick Topping, Cristoph
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ericprydz/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ericprydz/)*

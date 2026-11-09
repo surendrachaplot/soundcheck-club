@@ -1,6 +1,6 @@
 # Peter Invasion
 
-Peter Invasion is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Good Room, New York City on Sat, 14 Nov 2026.
+Peter Invasion is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Good Room, New York City on Sat, 14 Nov 2026.
 
 Peter Invasion is a house and techno artist based in Germany, with 58 gigs on soundcheck across Amsterdam, Bali, Barcelona and Beijing and 15 more. Often billed alongside Panthera Krause, Baby Mango and Vincent Neumann. Next up: Good Room, New York City on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Peter Invasion is a house and techno artist based in Germany, with 58 gigs on so
 
 Panthera Krause, Baby Mango, Vincent Neumann
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peterinvasion/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peterinvasion/)*

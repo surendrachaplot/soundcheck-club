@@ -1,6 +1,6 @@
 # MARIE CLAIRE
 
-MARIE CLAIRE is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Westhafen, Berlin on Fri, 27 Nov 2026.
+MARIE CLAIRE is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Westhafen, Berlin on Fri, 27 Nov 2026.
 
 MARIE CLAIRE is a techno and tech house artist based in United Kingdom, with 6 gigs on soundcheck across Berlin and Munich. Often billed alongside Rad.Lez, Anne-Sophie Selig and BERLIN. Next up: TBA - Westhafen, Berlin on Fri 27 Nov.
 
@@ -22,4 +22,4 @@ MARIE CLAIRE is a techno and tech house artist based in United Kingdom, with 6 g
 
 Rad.Lez, Anne-Sophie Selig, BERLIN
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marieclaire/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marieclaire/)*

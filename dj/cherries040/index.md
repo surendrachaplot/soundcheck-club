@@ -1,6 +1,6 @@
 # Cherries040
 
-Cherries040 is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at glimmer, Hamburg on Sat, 21 Nov 2026.
+Cherries040 is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at glimmer, Hamburg on Sat, 21 Nov 2026.
 
 Cherries040 is a techno and house artist based in Germany, with 21 gigs on soundcheck across Hamburg. Often billed alongside LYNDA, Franziska Frizzante and LAURIX (DE). Next up: glimmer, Hamburg on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Cherries040 is a techno and house artist based in Germany, with 21 gigs on sound
 
 LYNDA, Franziska Frizzante, LAURIX (DE)
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cherries040/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cherries040/)*

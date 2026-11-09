@@ -1,18 +1,18 @@
 # Jamesey
 
-Jamesey is a Deep House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Bread & Butter Arch, London on Sun, 8 Nov 2026.
+Jamesey is a Deep House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Timber Loft, London on Sat, 5 Dec 2026.
 
-Jamesey is a deep house and disco artist, with 58 gigs on soundcheck across London and Paris. Often billed alongside Matt L-S, Davide Del Vecchio and Kojay. Next up: Bread & Butter Arch, London on Sun 8 Nov.
+Jamesey is a deep house and disco artist, with 58 gigs on soundcheck across London and Paris. Often billed alongside Matt L-S, Davide Del Vecchio and Kojay. Next up: The Timber Loft, London on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 8 Nov 2026 | Bread & Butter Arch | London |
 | Sat, 5 Dec 2026 | The Timber Loft | London |
 
 ## Recently played
 
+- Bread & Butter Arch, London · Sun, 8 Nov 2026
 - The BBE Store, London · Fri, 6 Nov 2026
 - 91 Brick Lane, London · Fri, 18 Sept 2026
 - Notting Hill Arts Club, London · Mon, 31 Aug 2026
@@ -20,10 +20,9 @@ Jamesey is a deep house and disco artist, with 58 gigs on soundcheck across Lond
 - Electric Ballroom, London · Sat, 29 Aug 2026
 - Setlist @ Somerset House, London · Sun, 2 Aug 2026
 - Two Tribes CAMPFIRE, London · Sat, 20 Jun 2026
-- Phonox, London · Sat, 16 May 2026
 
 ## Shares bills with
 
 Matt L-S, Davide Del Vecchio, Kojay
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesey/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesey/)*

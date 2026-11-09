@@ -1,6 +1,6 @@
 # The Chancellor
 
-The Chancellor is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Marble Bar, Detroit on Thu, 10 Dec 2026.
+The Chancellor is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Marble Bar, Detroit on Thu, 10 Dec 2026.
 
 The Chancellor is a jungle and drum & bass artist based in United States of America, with 4 gigs on soundcheck across Detroit. Often billed alongside Andre Ramos, Axkan and Brent Shay. Next up: Marble Bar, Detroit on Thu 10 Dec.
 
@@ -20,4 +20,4 @@ The Chancellor is a jungle and drum & bass artist based in United States of Amer
 
 Andre Ramos, Axkan, Brent Shay
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thechancellor/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thechancellor/)*

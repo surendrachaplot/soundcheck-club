@@ -1,6 +1,6 @@
 # Meetsysteem
 
-Meetsysteem is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at De Studio, Antwerp on Sat, 14 Nov 2026.
+Meetsysteem is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at De Studio, Antwerp on Sat, 14 Nov 2026.
 
 Meetsysteem is a techno and experimental artist based in Netherlands, with 10 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Rotterdam and 1 more. Often billed alongside Oberman, Eversines and Konduku. Next up: De Studio, Antwerp on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Meetsysteem is a techno and experimental artist based in Netherlands, with 10 gi
 
 Oberman, Eversines, Konduku
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meetsysteem/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meetsysteem/)*

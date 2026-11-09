@@ -1,6 +1,6 @@
 # Lenny Dee
 
-Lenny Dee is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Aaja Basement, London on Fri, 27 Nov 2026.
+Lenny Dee is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Aaja Basement, London on Fri, 27 Nov 2026.
 
 Lenny Dee is a hardcore and techno artist based in United States of America, with 35 gigs on soundcheck across Amsterdam, Berlin, Bogotá and Central and 14 more. Often billed alongside DEMEN-TEK, Destro187 and Malke. Next up: Aaja Basement, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Lenny Dee is a hardcore and techno artist based in United States of America, wit
 
 DEMEN-TEK, Destro187, Malke
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lennydee/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lennydee/)*

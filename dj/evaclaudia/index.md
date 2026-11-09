@@ -1,6 +1,6 @@
 # Eva Claudia
 
-Eva Claudia is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Hangaren, Copenhagen on Sat, 21 Nov 2026.
+Eva Claudia is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Hangaren, Copenhagen on Sat, 21 Nov 2026.
 
 Eva Claudia is a techno and house artist based in Denmark, with 6 gigs on soundcheck across Copenhagen. Often billed alongside avoN, Bestrawa and Biesmans. Next up: Hangaren, Copenhagen on Sat 21 Nov.
 
@@ -22,4 +22,4 @@ Eva Claudia is a techno and house artist based in Denmark, with 6 gigs on soundc
 
 avoN, Bestrawa, Biesmans
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/evaclaudia/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/evaclaudia/)*

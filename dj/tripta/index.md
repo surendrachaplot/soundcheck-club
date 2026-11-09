@@ -1,6 +1,6 @@
 # Tripta
 
-Tripta is a Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Alternity, Toronto on Fri, 20 Nov 2026.
+Tripta is a Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Alternity, Toronto on Fri, 20 Nov 2026.
 
 Tripta is a bass and jungle artist based in Canada, with 5 gigs on soundcheck across Toronto. Often billed alongside Assassin Bug, Angelphroot and Ciel. Next up: Alternity, Toronto on Fri 20 Nov.
 
@@ -21,4 +21,4 @@ Tripta is a bass and jungle artist based in Canada, with 5 gigs on soundcheck ac
 
 Assassin Bug, Angelphroot, Ciel
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tripta/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tripta/)*

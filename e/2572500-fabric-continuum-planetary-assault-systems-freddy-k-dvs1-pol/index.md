@@ -1,6 +1,6 @@
 # fabric Continuum: Planetary Assault Systems, Freddy K, DVS1, Polygonia, Efdemin, Wata Igarashi at fabric
 
-fabric Continuum: Planetary Assault Systems, Freddy K, DVS1, Polygonia, Efdemin, Wata Igarashi on Sat 6 Feb, London. 12 artists: Amphia, ANNĒ, Burden and DVS1 and 8 more. See the line-up on soundcheck.
+fabric Continuum: Planetary Assault Systems, Freddy K, DVS1, Polygonia, Efdemin, Wata Igarashi on Sat 6 Feb, London. 12 artists: Amphia, ANNĒ, Burden and DVS1 and 8 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

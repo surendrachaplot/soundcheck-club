@@ -1,6 +1,6 @@
 # The Haggerston
 
-The Haggerston is a music venue in London with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Ndnacho AND ALISA BDAY" on Fri, 13 Nov 2026.
+The Haggerston is a music venue in London with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Ndnacho AND ALISA BDAY" on Fri, 13 Nov 2026.
 
 The Haggerston is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including Camporeale (FR), Imaniii, KSHA and Martelo and 2 more. See dates, start times and who's playing. 438 Kingsland Rd, London, E8 4AA.
 
@@ -17,4 +17,4 @@ The Haggerston is a music venue in London listed on soundcheck. 4 upcoming gigs,
 
 438 Kingsland Rd, London, E8 4AA, London
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-haggerston/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-haggerston/)*

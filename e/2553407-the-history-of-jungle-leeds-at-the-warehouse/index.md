@@ -1,6 +1,6 @@
 # The History of Jungle: Leeds at The Warehouse
 
-The History of Jungle: Leeds at The Warehouse on Sat 6 Feb, Leeds. 11 artists: Dillinja, DJ Hype, DJ Phantasy and DJ Rap and 7 more. See the line-up on soundcheck.
+The History of Jungle: Leeds at The Warehouse on Sat 6 Feb, Leeds. 11 artists: Dillinja, DJ Hype, DJ Phantasy and DJ Rap and 7 more. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

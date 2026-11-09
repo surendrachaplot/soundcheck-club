@@ -1,6 +1,6 @@
 # PALACIO
 
-PALACIO is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at La Fin Taipei, Taipei on Sat, 21 Nov 2026.
+PALACIO is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at La Fin Taipei, Taipei on Sat, 21 Nov 2026.
 
 PALACIO is a techno and electronica artist based in United States of America, with 26 gigs on soundcheck across Amsterdam, Brisbane, Ibiza and London and 7 more. Often billed alongside DEIV BUITRAGO, DomnRob and Mr. Proper. Next up: La Fin Taipei, Taipei on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ PALACIO is a techno and electronica artist based in United States of America, wi
 
 DEIV BUITRAGO, DomnRob, Mr. Proper
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/palacio/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/palacio/)*

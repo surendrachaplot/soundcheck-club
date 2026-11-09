@@ -1,6 +1,6 @@
 # Joël Ruck
 
-Joël Ruck is a Minimal Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Südpol, Hamburg on Fri, 27 Nov 2026.
+Joël Ruck is a Minimal Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Südpol, Hamburg on Fri, 27 Nov 2026.
 
 Joël Ruck is a minimal techno and house artist based in Germany, with 14 gigs on soundcheck across Hamburg and Switzerland. Often billed alongside MELINA, ple:xy and A.B.U.. Next up: Südpol, Hamburg on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Joël Ruck is a minimal techno and house artist based in Germany, with 14 gigs o
 
 MELINA (3), ple:xy, A.B.U.
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joelruck/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joelruck/)*

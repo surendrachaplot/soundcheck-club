@@ -1,6 +1,6 @@
 # Point Ephémère
 
-Point Ephémère is a music venue in Paris with 6 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Diggers Factory turns 10. Let's make some noise" on Tue, 10 Nov 2026.
+Point Ephémère is a music venue in Paris with 6 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Diggers Factory turns 10. Let's make some noise" on Tue, 10 Nov 2026.
 
 Point Ephémère is a music venue in Paris listed on soundcheck. 6 upcoming gigs, with line-ups including Beatrice M., Château Flight, Fvbricia and Gaia and 2 more. See dates, start times and who's playing. 200 quai de Valmy; 75010; Paris; France.
 
@@ -19,4 +19,4 @@ Point Ephémère is a music venue in Paris listed on soundcheck. 6 upcoming gigs
 
 200 quai de Valmy; 75010; Paris; France, Paris
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/point-eph-m-re/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/point-eph-m-re/)*

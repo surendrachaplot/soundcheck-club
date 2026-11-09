@@ -1,6 +1,6 @@
 # DMX Krew
 
-DMX Krew is a Electro and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Nitsa Club, Barcelona on Sat, 28 Nov 2026.
+DMX Krew is a Electro and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Nitsa Club, Barcelona on Sat, 28 Nov 2026.
 
 DMX Krew is an electro and house artist based in United Kingdom, with 105 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 31 more. Often billed alongside Alien Communications, Andre King and DVDE. Next up: Nitsa Club, Barcelona on Sat 28 Nov.
 
@@ -28,4 +28,4 @@ DMX Krew is an electro and house artist based in United Kingdom, with 105 gigs o
 
 Alien Communications, Andre King, DVDE
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dmxkrew/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dmxkrew/)*

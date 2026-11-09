@@ -1,6 +1,6 @@
 # Anatolian Weapons
 
-Anatolian Weapons is a Electro and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Universe Athens, Athens on Fri, 27 Nov 2026.
+Anatolian Weapons is a Electro and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Universe Athens, Athens on Fri, 27 Nov 2026.
 
 Anatolian Weapons is an electro and acid artist based in Greece, with 27 gigs on soundcheck across Athens, Barcelona, Berlin and Cardiff and 4 more. Often billed alongside Andreas Palmer, Bekha Mujiri and Kuunde. Next up: Universe Athens, Athens on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Anatolian Weapons is an electro and acid artist based in Greece, with 27 gigs on
 
 Andreas Palmer, Bekha Mujiri, Kuunde
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anatolianweapons/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anatolianweapons/)*

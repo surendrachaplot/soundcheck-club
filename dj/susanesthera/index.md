@@ -1,6 +1,6 @@
 # Susan Esthera
 
-Susan Esthera is a Deep House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Middlesex, Boston on Thu, 19 Nov 2026.
+Susan Esthera is a Deep House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Middlesex, Boston on Thu, 19 Nov 2026.
 
 Susan Esthera is a deep house and afro house artist based in United States of America, with 3 gigs on soundcheck across Boston. Often billed alongside Bradford James, Coflo and Mark Francis. Next up: Middlesex, Boston on Thu 19 Nov.
 
@@ -19,4 +19,4 @@ Susan Esthera is a deep house and afro house artist based in United States of Am
 
 Bradford James, Coflo, Mark Francis
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/susanesthera/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/susanesthera/)*

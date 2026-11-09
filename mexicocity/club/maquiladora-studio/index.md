@@ -1,6 +1,6 @@
 # Maquiladora Studio
 
-Maquiladora Studio is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. The next is "VoidddxOnirum" on Thu, 12 Nov 2026.
+Maquiladora Studio is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. The next is "VoidddxOnirum" on Thu, 12 Nov 2026.
 
 Maquiladora Studio is a music venue in Mexico City listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. C. Bajío 62, Roma Sur, Cuauhtémoc, 06760 Ciudad de México, CDMX, Mexico.
 
@@ -14,4 +14,4 @@ Maquiladora Studio is a music venue in Mexico City listed on soundcheck. 1 upcom
 
 C. Bajío 62, Roma Sur, Cuauhtémoc, 06760 Ciudad de México, CDMX, Mexico, Mexico City
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/maquiladora-studio/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/maquiladora-studio/)*

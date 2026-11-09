@@ -1,6 +1,6 @@
 # Headphones Girl
 
-Headphones Girl is a Acid and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Jupiter Disco, New York City on Wed, 11 Nov 2026.
+Headphones Girl is a Acid and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Jupiter Disco, New York City on Wed, 11 Nov 2026.
 
 Headphones Girl is an acid and breakbeat artist based in United States of America, with 5 gigs on soundcheck across Boston, Cleveland and New York City. Often billed alongside CYCLO BONETTE, Hannah Account and Hector Mamajuana. Next up: Jupiter Disco, New York City on Wed 11 Nov.
 
@@ -21,4 +21,4 @@ Headphones Girl is an acid and breakbeat artist based in United States of Americ
 
 CYCLO BONETTE, Hannah Account, Hector Mamajuana
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/headphonesgirl/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/headphonesgirl/)*

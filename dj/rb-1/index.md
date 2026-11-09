@@ -1,6 +1,6 @@
 # RB (1)
 
-RB (1) is a Techno and Amapiano artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Mardakan, Azerbaijan on Fri, 20 Nov 2026.
+RB (1) is a Techno and Amapiano artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Mardakan, Azerbaijan on Fri, 20 Nov 2026.
 
 RB is a techno and amapiano artist, with 5 gigs on soundcheck across Azerbaijan, Birmingham, Manchester and Taipei. Often billed alongside Aöcram, DMNSNL and Faustin (NL). Next up: TBA - Mardakan, Azerbaijan on Fri 20 Nov.
 
@@ -21,4 +21,4 @@ RB is a techno and amapiano artist, with 5 gigs on soundcheck across Azerbaijan,
 
 Aöcram, DMNSNL, Faustin (NL)
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rb-1/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rb-1/)*

@@ -1,6 +1,6 @@
 # Legal
 
-Legal is a music venue in Munich with 8 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Legal x STRING with Andre Zimmer, VINCI, Haze, WITTGENSTEIN, VSMR" on Fri, 13 Nov 2026.
+Legal is a music venue in Munich with 8 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Legal x STRING with Andre Zimmer, VINCI, Haze, WITTGENSTEIN, VSMR" on Fri, 13 Nov 2026.
 
 Legal is a music venue in Munich listed on soundcheck. 8 upcoming gigs, with line-ups including Almedina, Andi Britz, Andre Zimmer and Bliss Inc. and 2 more. See dates, start times and who's playing. Sendlinger Tor, Thalkirchener Strasse 2, 80337 Munchen.
 
@@ -21,4 +21,4 @@ Legal is a music venue in Munich listed on soundcheck. 8 upcoming gigs, with lin
 
 Sendlinger Tor, Thalkirchener Strasse 2, 80337 Munchen, Munich
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/legal/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/legal/)*

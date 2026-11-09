@@ -1,6 +1,6 @@
 # Pavel Doronin
 
-Pavel Doronin is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Coldharbour Blue, London on Thu, 10 Dec 2026.
+Pavel Doronin is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Coldharbour Blue, London on Thu, 10 Dec 2026.
 
 Pavel Doronin is an ambient and experimental artist based in United Kingdom, with 4 gigs on soundcheck across Lisbon and London. Often billed alongside Aliya Lark, DJ Himitsu and Khalil Suleman. Next up: Coldharbour Blue, London on Thu 10 Dec.
 
@@ -20,4 +20,4 @@ Pavel Doronin is an ambient and experimental artist based in United Kingdom, wit
 
 Aliya Lark, DJ Himitsu, Khalil Suleman
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paveldoronin/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paveldoronin/)*

@@ -1,6 +1,6 @@
 # Nomad
 
-Nomad is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Obsidiana Tulum, Tulum on Fri, 20 Nov 2026.
+Nomad is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Obsidiana Tulum, Tulum on Fri, 20 Nov 2026.
 
 Nomad is a house and techno artist based in Mexico, with 27 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Calgary and 13 more. Often billed alongside Ejeckt, Franky A and Gus McKinna. Next up: Obsidiana Tulum, Tulum on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Nomad is a house and techno artist based in Mexico, with 27 gigs on soundcheck a
 
 Ejeckt, Franky A, Gus McKinna
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nomad/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nomad/)*

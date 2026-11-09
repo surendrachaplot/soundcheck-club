@@ -1,6 +1,6 @@
 # key watch
 
-key watch is a House and Dembow artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Newspeak, Montreal on Sat, 28 Nov 2026.
+key watch is a House and Dembow artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Newspeak, Montreal on Sat, 28 Nov 2026.
 
 key watch is a house and dembow artist based in Canada, with 4 gigs on soundcheck across Montreal and Quebec City. Often billed alongside Melek, Dick Lee and Mezraa. Next up: Newspeak, Montreal on Sat 28 Nov.
 
@@ -20,4 +20,4 @@ key watch is a house and dembow artist based in Canada, with 4 gigs on soundchec
 
 Melek, Dick Lee, Mezraa
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/keywatch/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/keywatch/)*

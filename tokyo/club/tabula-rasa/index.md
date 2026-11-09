@@ -1,6 +1,6 @@
 # Tabula Rasa
 
-Tabula Rasa is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. The next is "The S●X Floor" on Sat, 14 Nov 2026.
+Tabula Rasa is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. The next is "The S●X Floor" on Sat, 14 Nov 2026.
 
 Tabula Rasa is a music venue in Tokyo listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 2-12-13 Ikebukuro, Toshima-ku, Tokyo, 171-0014 Japan.
 
@@ -14,4 +14,4 @@ Tabula Rasa is a music venue in Tokyo listed on soundcheck. 1 upcoming gig. See 
 
 2-12-13 Ikebukuro, Toshima-ku, Tokyo, 171-0014 Japan, Tokyo
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/tabula-rasa/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/tabula-rasa/)*

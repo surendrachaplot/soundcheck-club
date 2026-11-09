@@ -1,8 +1,8 @@
 # GooGirl
 
-GooGirl is a Club and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA, Ontario on Sat, 19 Dec 2026.
+GooGirl is a Club and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA, Ontario on Sat, 19 Dec 2026.
 
-GooGirl is a club and drum & bass artist, with 11 gigs on soundcheck across Ontario and Toronto. Often billed alongside Vaughan, Zellers and Plastic Heart Surgery. Next up: TBA, Ontario on Sat 19 Dec.
+GooGirl is a club and drum & bass artist based in Canada, with 11 gigs on soundcheck across Ontario and Toronto. Often billed alongside Vaughan, Zellers and Plastic Heart Surgery. Next up: TBA, Ontario on Sat 19 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ GooGirl is a club and drum & bass artist, with 11 gigs on soundcheck across Onta
 
 Vaughan (2), Zellers, Plastic Heart Surgery
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/googirl/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/googirl/)*

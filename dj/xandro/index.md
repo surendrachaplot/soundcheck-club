@@ -1,6 +1,6 @@
 # Xandro
 
-Xandro is a Tech House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at BORIS CLUB, Barcelona on Sat, 28 Nov 2026.
+Xandro is a Tech House and Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at BORIS CLUB, Barcelona on Sat, 28 Nov 2026.
 
 Xandro is a tech house and afro house artist based in Spain, with 5 gigs on soundcheck across Barcelona. Often billed alongside Marcel BS, Better Late and Connect. Next up: BORIS CLUB, Barcelona on Sat 28 Nov.
 
@@ -21,4 +21,4 @@ Xandro is a tech house and afro house artist based in Spain, with 5 gigs on soun
 
 Marcel BS, Better Late, Connect
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xandro/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xandro/)*

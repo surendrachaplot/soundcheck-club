@@ -1,6 +1,6 @@
 # not even noticed
 
-not even noticed is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Legal, Munich on Sat, 14 Nov 2026.
+not even noticed is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Legal, Munich on Sat, 14 Nov 2026.
 
 not even noticed is a house and techno artist based in Germany, with 45 gigs on soundcheck across Amsterdam, Bangkok, Beijing and Berlin and 14 more. Often billed alongside GERKE, Bliss Inc. and Will A. Next up: Legal, Munich on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ not even noticed is a house and techno artist based in Germany, with 45 gigs on 
 
 GERKE, Bliss Inc., Will A
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/notevennoticed/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/notevennoticed/)*

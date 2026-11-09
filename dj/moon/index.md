@@ -1,15 +1,14 @@
 # MOON
 
-MOON is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Folies Pigalle, Paris on Sat, 14 Nov 2026.
+MOON is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Folies Pigalle, Paris on Sat, 14 Nov 2026.
 
-MOON is a house and tech house artist based in France, with 27 gigs on soundcheck across Cologne, Montreal and Paris. Often billed alongside Edouard!, Julie Saint Germain and Arthur Nozen. Next up: Folies Pigalle, Paris on Sat 14 Nov.
+MOON is a house and tech house artist based in France, with 26 gigs on soundcheck across Cologne and Paris. Often billed alongside Edouard!, Julie Saint Germain and Arthur Nozen. Next up: Folies Pigalle, Paris on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Folies Pigalle | Paris |
-| Thu, 3 Dec 2026 | Ausgang Plaza | Montreal |
 
 ## Recently played
 
@@ -26,4 +25,4 @@ MOON is a house and tech house artist based in France, with 27 gigs on soundchec
 
 Edouard!, Julie Saint Germain, Arthur Nozen
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moon/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moon/)*

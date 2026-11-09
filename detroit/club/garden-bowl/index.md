@@ -1,6 +1,6 @@
 # Garden Bowl
 
-Garden Bowl is a music venue in Detroit with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. The next is "Open Decks" on Tue, 3 Nov 2026.
+Garden Bowl is a music venue in Detroit with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. The next is "Open Decks" on Tue, 10 Nov 2026.
 
 Garden Bowl is a music venue in Detroit listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 4140 Woodward Ave, Detroit, MI 48201.
 
@@ -8,10 +8,10 @@ Garden Bowl is a music venue in Detroit listed on soundcheck. 1 upcoming gig. Se
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 3 Nov 2026 | Open Decks |  |
+| Tue, 10 Nov 2026 | Open Decks |  |
 
 ## Address
 
 4140 Woodward Ave, Detroit, MI 48201, Detroit
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/garden-bowl/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/garden-bowl/)*

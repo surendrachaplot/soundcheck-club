@@ -1,6 +1,6 @@
 # Bambi's
 
-Bambi's is a music venue in Toronto with 7 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "CABARET: The Return of Chanel Ross" on Thu, 12 Nov 2026.
+Bambi's is a music venue in Toronto with 7 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "CABARET: The Return of Chanel Ross" on Thu, 12 Nov 2026.
 
 Bambi's is a music venue in Toronto listed on soundcheck. 7 upcoming gigs, with line-ups including 99hp, Carlos Estebban, Critter and Eddie C and 2 more. See dates, start times and who's playing. 1265 Dundas W, Toronto, ON M6J 1X6, Canada.
 
@@ -20,4 +20,4 @@ Bambi's is a music venue in Toronto listed on soundcheck. 7 upcoming gigs, with 
 
 1265 Dundas W, Toronto, ON M6J 1X6, Canada, Toronto
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/bambi-s/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/bambi-s/)*

@@ -1,6 +1,6 @@
 # TIISHA
 
-TIISHA is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Marrickville NSW, Sydney on Sat, 14 Nov 2026.
+TIISHA is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Marrickville NSW, Sydney on Sat, 14 Nov 2026.
 
 TIISHA is a techno and house artist based in Australia, with 12 gigs on soundcheck across Sydney. Often billed alongside Lustwell, DAYZZI and AMZDAMN B2B SMAGS. Next up: TBA - Marrickville NSW, Sydney on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ TIISHA is a techno and house artist based in Australia, with 12 gigs on soundche
 
 Lustwell, DAYZZI, AMZDAMN B2B SMAGS
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tiisha/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tiisha/)*

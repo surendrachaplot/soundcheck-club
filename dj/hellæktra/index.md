@@ -1,6 +1,6 @@
 # Hellæktra
 
-Hellæktra is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at The Bongo Club, Edinburgh on Sat, 26 Dec 2026.
+Hellæktra is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Bongo Club, Edinburgh on Sat, 26 Dec 2026.
 
 Hellæktra is a techno and electro artist based in United Kingdom, with 3 gigs on soundcheck across Edinburgh. Often billed alongside Nikki Guild, iluna and ona:v. Next up: The Bongo Club, Edinburgh on Sat 26 Dec.
 
@@ -19,4 +19,4 @@ Hellæktra is a techno and electro artist based in United Kingdom, with 3 gigs o
 
 Nikki Guild, iluna, ona:v
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hellæktra/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hellæktra/)*

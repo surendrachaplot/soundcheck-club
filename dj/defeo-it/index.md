@@ -1,14 +1,15 @@
 # DE FEO
 
-DE FEO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at POTENT, Shanghai on Fri, 13 Nov 2026.
+DE FEO is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at POTENT, Shanghai on Fri, 13 Nov 2026.
 
-DE FEO is a techno and house artist based in Italy, with 28 gigs on soundcheck across Amsterdam, Berlin, Chongqing and Hong Kong and 4 more. Often billed alongside Pooja B, BOHO and Eclectic Elektra. Next up: POTENT, Shanghai on Fri 13 Nov.
+DE FEO is a techno and house artist based in Italy, with 29 gigs on soundcheck across Amsterdam, Berlin, Chengdu and Chongqing and 5 more. Often billed alongside Pooja B, BOHO and Eclectic Elektra. Next up: POTENT, Shanghai on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | POTENT | Shanghai |
+| Sun, 15 Nov 2026 | Creator Dock 创作者码头 | Chengdu |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ DE FEO is a techno and house artist based in Italy, with 28 gigs on soundcheck a
 
 Pooja B, BOHO, Eclectic Elektra
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/defeo-it/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/defeo-it/)*

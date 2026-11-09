@@ -1,14 +1,13 @@
 # BAR Inc
 
-BAR Inc is a music venue in Osaka with 22 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "HOLIDAY ORDERS" on Sun, 8 Nov 2026.
+BAR Inc is a music venue in Osaka with 21 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "WEEKDAY ORDERS" on Mon, 9 Nov 2026.
 
-BAR Inc is a music venue in Osaka listed on soundcheck. 22 upcoming gigs, with line-ups including An-i, AOKI takamasa, CH.0 and CRAZY-T and 2 more. See dates, start times and who's playing. B1F, 3-10-19 Minamisenba, Chuo-ku, Osaka 542-0081, Japan.
+BAR Inc is a music venue in Osaka listed on soundcheck. 21 upcoming gigs, with line-ups including An-i, AOKI takamasa, CH.0 and CRAZY-T and 2 more. See dates, start times and who's playing. B1F, 3-10-19 Minamisenba, Chuo-ku, Osaka 542-0081, Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 8 Nov 2026 | HOLIDAY ORDERS | Junki Akutagawa |
 | Mon, 9 Nov 2026 | WEEKDAY ORDERS | MAX PELA |
 | Wed, 11 Nov 2026 | WEEKDAY ORDERS |  |
 | Thu, 12 Nov 2026 | WEEKDAY ORDERS | Ryu (JP) |
@@ -18,9 +17,10 @@ BAR Inc is a music venue in Osaka listed on soundcheck. 22 upcoming gigs, with l
 | Wed, 18 Nov 2026 | WEEKDAY ORDERS |  |
 | Fri, 20 Nov 2026 | WEEKEND SELECTERS | MUSCLECARS |
 | Sat, 21 Nov 2026 | Weekend Selectors | Ground (1) |
+| Sat, 21 Nov 2026 | WEEKEND SELECTERS | Ground (1), Shhhhh |
 
 ## Address
 
 B1F, 3-10-19 Minamisenba, Chuo-ku, Osaka 542-0081, Japan, Osaka
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/bar-inc/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/bar-inc/)*

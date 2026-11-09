@@ -1,6 +1,6 @@
 # DAX J
 
-DAX J is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at TRANSMISSION DC, Washington DC on Fri, 13 Nov 2026.
+DAX J is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at TRANSMISSION DC, Washington DC on Fri, 13 Nov 2026.
 
 DAX J is a techno and house artist based in United Kingdom, with 306 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 91 more. Often billed alongside SPFDJ, Daria Kolosova and Chlär. Next up: TRANSMISSION DC, Washington DC on Fri 13 Nov.
 
@@ -34,4 +34,4 @@ DAX J is a techno and house artist based in United Kingdom, with 306 gigs on sou
 
 SPFDJ, Daria Kolosova, Chlär
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daxj/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daxj/)*

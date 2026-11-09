@@ -1,6 +1,6 @@
 # Charlie Florez
 
-Charlie Florez is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA, Bogotá on Sat, 28 Nov 2026.
+Charlie Florez is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA, Bogotá on Sat, 28 Nov 2026.
 
 Charlie Florez is a house and minimal artist based in Colombia, with 47 gigs on soundcheck across Bogotá and Medellin. Often billed alongside Memek, Julio Garcés and Panthora. Next up: TBA, Bogotá on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Charlie Florez is a house and minimal artist based in Colombia, with 47 gigs on 
 
 Memek, Julio Garcés, Panthora
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/charlieflorez/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/charlieflorez/)*

@@ -1,6 +1,6 @@
 # Cali
 
-Cali is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Fluid510, San Francisco/Oakland on Sat, 14 Nov 2026.
+Cali is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Fluid510, San Francisco/Oakland on Sat, 14 Nov 2026.
 
 Cali is a house and afro house artist based in United States of America, with 12 gigs on soundcheck across Bogotá, Los Angeles, Naples and Paris and 3 more. Often billed alongside Cecil Carthen, Jayvi Velasco and Brina Knauss. Next up: Fluid510, San Francisco/Oakland on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Cali is a house and afro house artist based in United States of America, with 12
 
 Cecil Carthen, Jayvi Velasco, Brina Knauss
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cali/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cali/)*

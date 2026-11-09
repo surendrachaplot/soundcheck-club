@@ -1,6 +1,6 @@
 # K15
 
-K15 is a Broken Beat and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Club Cheek, London on Sat, 28 Nov 2026.
+K15 is a Broken Beat and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Club Cheek, London on Sat, 28 Nov 2026.
 
 K15 is a broken beat and funk / soul artist based in United Kingdom, with 8 gigs on soundcheck across Berlin, Leeds and London. Often billed alongside Alex Rita, Aqwea and Bulma Brief. Next up: Club Cheek, London on Sat 28 Nov.
 
@@ -24,4 +24,4 @@ K15 is a broken beat and funk / soul artist based in United Kingdom, with 8 gigs
 
 Alex Rita, Aqwea, Bulma Brief
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/k15/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/k15/)*

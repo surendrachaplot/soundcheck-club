@@ -1,6 +1,6 @@
 # RIHO ASAEDA
 
-RIHO ASAEDA is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at COUNTER CLUB, Tokyo on Tue, 10 Nov 2026.
+RIHO ASAEDA is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at COUNTER CLUB, Tokyo on Tue, 10 Nov 2026.
 
 RIHO ASAEDA is a house and techno artist based in Japan, with 156 gigs on soundcheck across Amsterdam, Taipei and Tokyo. Often billed alongside Leo Gabriel, Yamariki and Hayato Iwaki. Next up: COUNTER CLUB, Tokyo on Tue 10 Nov.
 
@@ -27,4 +27,4 @@ RIHO ASAEDA is a house and techno artist based in Japan, with 156 gigs on soundc
 
 Leo Gabriel, Yamariki, Hayato Iwaki
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rihoasaeda/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rihoasaeda/)*

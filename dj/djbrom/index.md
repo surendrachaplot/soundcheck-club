@@ -1,6 +1,6 @@
 # DJ Brom
 
-DJ Brom is a Experimental and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Open Ground, Wuppertal on Sat, 19 Dec 2026.
+DJ Brom is a Experimental and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Open Ground, Wuppertal on Sat, 19 Dec 2026.
 
 DJ Brom is an experimental and breakbeat artist based in Germany, with 22 gigs on soundcheck across Berlin, Brussels, Cologne and Dortmund / Essen and 3 more. Often billed alongside BROM, Sarah San and 41ISSA. Next up: Open Ground, Wuppertal on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ DJ Brom is an experimental and breakbeat artist based in Germany, with 22 gigs o
 
 BROM, Sarah San, 41ISSA
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbrom/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbrom/)*

@@ -1,6 +1,6 @@
 # Swig
 
-Swig is a music venue in Chicago with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Goods Thursdays: Aman Ster & PFAC (Loud Lush)" on Thu, 12 Nov 2026.
+Swig is a music venue in Chicago with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Goods Thursdays: Aman Ster & PFAC (Loud Lush)" on Thu, 12 Nov 2026.
 
 Swig is a music venue in Chicago listed on soundcheck. 3 upcoming gigs, with line-ups including Composuresquad, Duke Shin, Fortune (US) and Jevon Jackson and 1 more. See dates, start times and who's playing. 1469 n milwaukee chicago, il.
 
@@ -16,4 +16,4 @@ Swig is a music venue in Chicago listed on soundcheck. 3 upcoming gigs, with lin
 
 1469 n milwaukee chicago, il, Chicago
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/swig/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/swig/)*

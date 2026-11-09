@@ -1,6 +1,6 @@
 # MileZ
 
-MileZ is a Techno and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at The Edge Seoul, Seoul on Sat, 14 Nov 2026.
+MileZ is a Techno and Jungle artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at The Edge Seoul, Seoul on Sat, 14 Nov 2026.
 
 MileZ is a techno and jungle artist based in United Kingdom, with 147 gigs on soundcheck across Beijing, Chubu, Kyoto and London and 4 more. Often billed alongside YUVIE, SAMO (JP) and r1ku. Next up: The Edge Seoul, Seoul on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ MileZ is a techno and jungle artist based in United Kingdom, with 147 gigs on so
 
 YUVIE, SAMO (JP), r1ku
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milez/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milez/)*

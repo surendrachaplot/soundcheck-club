@@ -1,6 +1,6 @@
 # Blind Delon
 
-Blind Delon is a Post-Punk and EBM artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Umbo, Zurich on Fri, 13 Nov 2026.
+Blind Delon is a Post-Punk and EBM artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Umbo, Zurich on Fri, 13 Nov 2026.
 
 Blind Delon is a post-punk and ebm artist, with 3 gigs on soundcheck across Berlin, Paris and Zurich. Often billed alongside Absolute Body Control, Claudia Kane and LAVION. Next up: Umbo, Zurich on Fri 13 Nov.
 
@@ -19,4 +19,4 @@ Blind Delon is a post-punk and ebm artist, with 3 gigs on soundcheck across Berl
 
 Absolute Body Control, Claudia Kane, LAVION
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blinddelon/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blinddelon/)*

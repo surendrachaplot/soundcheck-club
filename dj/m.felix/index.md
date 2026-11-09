@@ -1,6 +1,6 @@
 # M. FELIX
 
-M. FELIX is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Le TLM Paris, 105 Rue Curial, 75019 Paris, France, Paris on Sat, 19 Dec 2026.
+M. FELIX is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Le TLM Paris, 105 Rue Curial, 75019 Paris, France, Paris on Sat, 19 Dec 2026.
 
 M. FELIX is a house and electro artist based in France, with 17 gigs on soundcheck across Berlin, Marseille, Nantes and Paris. Often billed alongside El Hey, One Tough Cookie and Amine S. Next up: TBA - Le TLM Paris, 105 Rue Curial, 75019 Paris, France, Paris on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ M. FELIX is a house and electro artist based in France, with 17 gigs on soundche
 
 El Hey, One Tough Cookie, Amine S
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/m.felix/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/m.felix/)*

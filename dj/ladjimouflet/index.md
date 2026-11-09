@@ -1,6 +1,6 @@
 # Ladji Mouflet
 
-Ladji Mouflet is a Baile Funk and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Cafeteria, Toronto on Fri, 27 Nov 2026.
+Ladji Mouflet is a Baile Funk and Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Cafeteria, Toronto on Fri, 27 Nov 2026.
 
 Ladji Mouflet is a baile funk and afro house artist based in United States of America, with 3 gigs on soundcheck across Toronto. Often billed alongside AVRY, Andre Zimmer and Lizard Time. Next up: Cafeteria, Toronto on Fri 27 Nov.
 
@@ -19,4 +19,4 @@ Ladji Mouflet is a baile funk and afro house artist based in United States of Am
 
 AVRY, Andre Zimmer, Lizard Time
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ladjimouflet/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ladjimouflet/)*

@@ -1,6 +1,6 @@
 # 30 Years of Chicane, Australian National Tour - Melbourne at The Timber Yard
 
-30 Years of Chicane, Australian National Tour - Melbourne at The Timber Yard on Sat 6 Feb, Melbourne. 2 artists: Anthony Pappa and Chicane. See the line-up on soundcheck.
+30 Years of Chicane, Australian National Tour - Melbourne at The Timber Yard on Sat 6 Feb, Melbourne. 2 artists: Anthony Pappa and Chicane. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

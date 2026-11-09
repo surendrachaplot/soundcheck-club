@@ -1,6 +1,6 @@
 # BABANASHE
 
-BABANASHE is a Amapiano and Gqom artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Wax Music Lounge, Melbourne on Sat, 21 Nov 2026.
+BABANASHE is a Amapiano and Gqom artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Wax Music Lounge, Melbourne on Sat, 21 Nov 2026.
 
 BABANASHE is an amapiano and gqom artist based in Zimbabwe, with 6 gigs on soundcheck across Melbourne. Often billed alongside KALI (AU). Next up: Wax Music Lounge, Melbourne on Sat 21 Nov.
 
@@ -22,4 +22,4 @@ BABANASHE is an amapiano and gqom artist based in Zimbabwe, with 6 gigs on sound
 
 KALI (AU)
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babanashe/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babanashe/)*

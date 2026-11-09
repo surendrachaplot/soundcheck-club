@@ -1,6 +1,6 @@
 # two girls one mom
 
-two girls one mom is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Mia Mao, Paris on Tue, 10 Nov 2026.
+two girls one mom is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Mia Mao, Paris on Tue, 10 Nov 2026.
 
 two girls one mom is a techno and trance artist based in Germany, with 101 gigs on soundcheck across Barcelona, Berlin, Cologne and Frankfurt and 12 more. Often billed alongside bbymeister, August Kind and HANÀ. Next up: Mia Mao, Paris on Tue 10 Nov.
 
@@ -31,4 +31,4 @@ two girls one mom is a techno and trance artist based in Germany, with 101 gigs 
 
 bbymeister, August Kind, HANÀ
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/twogirlsonemom/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/twogirlsonemom/)*

@@ -1,13 +1,14 @@
 # Britney Speed (FR)
 
-Britney Speed (FR) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Le Grand Sud, Lille on Fri, 18 Dec 2026.
+Britney Speed (FR) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Cabaret  Aléatoire, Marseille on Fri, 11 Dec 2026.
 
-Britney Speed (FR) is a techno and trance artist, with 26 gigs on soundcheck across Copenhagen, Lille, London and Marseille and 4 more. Often billed alongside BETÏSES, Etienne Nogues and DJ GUESTLIST. Next up: Le Grand Sud, Lille on Fri 18 Dec.
+Britney Speed (FR) is a techno and trance artist, with 27 gigs on soundcheck across Copenhagen, Lille, London and Marseille and 4 more. Often billed alongside BETÏSES, Etienne Nogues and DJ GUESTLIST. Next up: Cabaret  Aléatoire, Marseille on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Dec 2026 | Cabaret  Aléatoire | Marseille |
 | Fri, 18 Dec 2026 | Le Grand Sud | Lille |
 
 ## Recently played
@@ -25,4 +26,4 @@ Britney Speed (FR) is a techno and trance artist, with 26 gigs on soundcheck acr
 
 BETÏSES, Etienne Nogues, DJ GUESTLIST
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/britneyspeed-FR/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/britneyspeed-FR/)*

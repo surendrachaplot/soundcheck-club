@@ -1,6 +1,6 @@
 # Andrreas
 
-Andrreas is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Foro Roma, Mexico City on Sat, 14 Nov 2026.
+Andrreas is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Foro Roma, Mexico City on Sat, 14 Nov 2026.
 
 Andrreas is a house and tech house artist based in Mexico, with 4 gigs on soundcheck across Mexico City. Often billed alongside TRIVEAT, ARWEN and Arii. Next up: Foro Roma, Mexico City on Sat 14 Nov.
 
@@ -20,4 +20,4 @@ Andrreas is a house and tech house artist based in Mexico, with 4 gigs on soundc
 
 TRIVEAT, ARWEN, Arii
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andrreas/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andrreas/)*

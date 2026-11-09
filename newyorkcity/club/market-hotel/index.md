@@ -1,6 +1,6 @@
 # Market Hotel
 
-Market Hotel is a music venue in New York City with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "My Bushwick Romance: 2000's emo and pop punk party" on Fri, 13 Nov 2026.
+Market Hotel is a music venue in New York City with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "My Bushwick Romance: 2000's emo and pop punk party" on Fri, 13 Nov 2026.
 
 Market Hotel is a music venue in New York City listed on soundcheck. 3 upcoming gigs, with line-ups including 7038634357 and Chloe Scarlett. See dates, start times and who's playing. 1140 Myrtle Avenue; Brooklyn, NY 11206; United States.
 
@@ -16,4 +16,4 @@ Market Hotel is a music venue in New York City listed on soundcheck. 3 upcoming 
 
 1140 Myrtle Avenue; Brooklyn, NY 11206; United States, New York City
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/market-hotel/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/market-hotel/)*

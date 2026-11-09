@@ -1,6 +1,6 @@
 # Chaperone
 
-Chaperone is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at St. Michael's Lutheran Church, Philadelphia on Sat, 21 Nov 2026.
+Chaperone is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at St. Michael's Lutheran Church, Philadelphia on Sat, 21 Nov 2026.
 
 Chaperone is an ambient and experimental artist, with 3 gigs on soundcheck across Philadelphia. Often billed alongside Westov Temple, ADAB and Alex Kassian. Next up: St. Michael's Lutheran Church, Philadelphia on Sat 21 Nov.
 
@@ -19,4 +19,4 @@ Chaperone is an ambient and experimental artist, with 3 gigs on soundcheck acros
 
 Westov Temple, ADAB, Alex Kassian
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chaperone/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chaperone/)*

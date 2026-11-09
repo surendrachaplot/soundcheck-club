@@ -1,6 +1,6 @@
 # DJ ZBB
 
-DJ ZBB is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Crack Bellmer, Berlin on Fri, 20 Nov 2026.
+DJ ZBB is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Crack Bellmer, Berlin on Fri, 20 Nov 2026.
 
 DJ ZBB is a house and techno artist based in Australia, with 21 gigs on soundcheck across Bangkok, Barcelona, Berlin and Budapest and 4 more. Often billed alongside Pierre Vice, Britta Arnold and Chris Schwarzwälder. Next up: Crack Bellmer, Berlin on Fri 20 Nov.
 
@@ -28,4 +28,4 @@ DJ ZBB is a house and techno artist based in Australia, with 21 gigs on soundche
 
 Pierre Vice, Britta Arnold, Chris Schwarzwälder
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djzbb/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djzbb/)*

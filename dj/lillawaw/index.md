@@ -1,6 +1,6 @@
 # Lil Lawaw
 
-Lil Lawaw is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Doka, Amsterdam on Sat, 5 Dec 2026.
+Lil Lawaw is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Doka, Amsterdam on Sat, 5 Dec 2026.
 
 Lil Lawaw is a house and electro artist based in Belgium, with 52 gigs on soundcheck across Amsterdam, Antwerp, Berlin and London and 2 more. Often billed alongside askmelater, DTM Funk and DJ Corridor. Next up: Doka, Amsterdam on Sat 5 Dec.
 
@@ -27,4 +27,4 @@ Lil Lawaw is a house and electro artist based in Belgium, with 52 gigs on soundc
 
 askmelater, DTM Funk, DJ Corridor
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lillawaw/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lillawaw/)*

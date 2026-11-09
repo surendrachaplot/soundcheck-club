@@ -1,6 +1,6 @@
 # Chris Hewitt
 
-Chris Hewitt is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at 93 Feet East, London on Sat, 14 Nov 2026.
+Chris Hewitt is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at 93 Feet East, London on Sat, 14 Nov 2026.
 
 Chris Hewitt is a house and deep house artist based in United Kingdom, with 3 gigs on soundcheck across Glasgow, London and Manchester. Often billed alongside Ross Purcell, JOC (A Deeper Groove) and Steph (A Deeper Groove). Next up: 93 Feet East, London on Sat 14 Nov.
 
@@ -19,4 +19,4 @@ Chris Hewitt is a house and deep house artist based in United Kingdom, with 3 gi
 
 Ross Purcell, JOC (A Deeper Groove), Steph (A Deeper Groove)
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrishewitt/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrishewitt/)*

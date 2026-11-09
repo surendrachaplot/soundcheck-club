@@ -1,14 +1,13 @@
 # BRET
 
-BRET is a music venue in Amsterdam with 12 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "FRENZY 7YRS WKNDR" on Sun, 8 Nov 2026.
+BRET is a music venue in Amsterdam with 11 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "EFFE: Lauren Lo Sung, Phelan, Kate Seach" on Fri, 13 Nov 2026.
 
-BRET is a music venue in Amsterdam listed on soundcheck. 12 upcoming gigs, with line-ups including Maqossa, Al Ex, Alex Dima and Alexia Glensy and 2 more. See dates, start times and who's playing. Orlyplein 76, 1043 DP Amsterdam, Netherlands.
+BRET is a music venue in Amsterdam listed on soundcheck. 11 upcoming gigs, with line-ups including Maqossa, Al Ex, Alex Dima and Alexia Glensy and 2 more. See dates, start times and who's playing. Orlyplein 76, 1043 DP Amsterdam, Netherlands.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 8 Nov 2026 | FRENZY 7YRS WKNDR | Bailey Ibbs, Elisa Batti, Julia Maria, KUSS |
 | Fri, 13 Nov 2026 | EFFE: Lauren Lo Sung, Phelan, Kate Seach | Lauren Lo Sung |
 | Sat, 14 Nov 2026 | Main Phase [extended set] & TWIENA | Main Phase, TWIENA |
 | Fri, 20 Nov 2026 | Bambounou b2b Julian Anthony [all night long] | Bambounou, Julian Anthony |
@@ -18,9 +17,10 @@ BRET is a music venue in Amsterdam listed on soundcheck. 12 upcoming gigs, with 
 | Sat, 28 Nov 2026 | Picnic x Les Enfants Brilliants | Alex Dima, Alexia Glensy, Andy Luff, Gabbs, Kithers |
 | Sat, 28 Nov 2026 | Picnic & Les Enfants Brilliants | Alex Dima, Alexia Glensy, Andy Luff, Gabbs, Kithers |
 | Sun, 6 Dec 2026 | ALARICO PRES. FLIRT SHOWCASE |  |
+| Fri, 11 Dec 2026 | ØTTA HOTTIES Album Tour | ØTTA |
 
 ## Address
 
 Orlyplein 76, 1043 DP Amsterdam, Netherlands, Amsterdam
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bret/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bret/)*

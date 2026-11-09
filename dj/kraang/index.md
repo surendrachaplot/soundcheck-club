@@ -1,6 +1,6 @@
 # Kraang
 
-Kraang is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA, Vancouver on Fri, 13 Nov 2026.
+Kraang is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA, Vancouver on Fri, 13 Nov 2026.
 
 Kraang is a garage and house artist based in Canada, with 10 gigs on soundcheck across Vancouver. Often billed alongside Donna Dada, Danny Mal and ROSHI. Next up: TBA, Vancouver on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Kraang is a garage and house artist based in Canada, with 10 gigs on soundcheck 
 
 Donna Dada, Danny Mal, ROSHI
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kraang/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kraang/)*

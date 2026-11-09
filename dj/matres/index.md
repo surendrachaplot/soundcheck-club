@@ -1,6 +1,6 @@
 # matres
 
-matres is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Bar Fader, Osaka on Fri, 13 Nov 2026.
+matres is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Bar Fader, Osaka on Fri, 13 Nov 2026.
 
 matres is a jungle and drum & bass artist based in Japan, with 54 gigs on soundcheck across Bristol and Osaka. Often billed alongside kakepon, Savage States and yu-more. Next up: Bar Fader, Osaka on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ matres is a jungle and drum & bass artist based in Japan, with 54 gigs on soundc
 
 kakepon, Savage States, yu-more
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matres/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matres/)*

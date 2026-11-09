@@ -1,6 +1,6 @@
 # East Cafe
 
-East Cafe is a Progressive House and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Turbina, Budapest on Sat, 14 Nov 2026.
+East Cafe is a Progressive House and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Turbina, Budapest on Sat, 14 Nov 2026.
 
 East Cafe is a progressive house and trance artist based in Hungary, with 3 gigs on soundcheck across Budapest. Often billed alongside Hunter, Kühl and Lloyd Barwood. Next up: Turbina, Budapest on Sat 14 Nov.
 
@@ -19,4 +19,4 @@ East Cafe is a progressive house and trance artist based in Hungary, with 3 gigs
 
 Hunter (2), Kühl, Lloyd Barwood
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eastcafe/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eastcafe/)*

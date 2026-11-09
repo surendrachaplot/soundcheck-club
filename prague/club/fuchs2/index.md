@@ -1,6 +1,6 @@
 # Fuchs2
 
-Fuchs2 is a music venue in Prague with 12 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "SALO: Lovačka Srca Takeover" on Thu, 12 Nov 2026.
+Fuchs2 is a music venue in Prague with 12 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "SALO: Lovačka Srca Takeover" on Thu, 12 Nov 2026.
 
 Fuchs2 is a music venue in Prague listed on soundcheck. 12 upcoming gigs, with line-ups including 2NDRA, AddlyMuff, Asher and DDK and 2 more. See dates, start times and who's playing. Štvanice, 17000 Prague.
 
@@ -23,4 +23,4 @@ Fuchs2 is a music venue in Prague listed on soundcheck. 12 upcoming gigs, with l
 
 Štvanice, 17000 Prague, Prague
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/fuchs2/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/fuchs2/)*

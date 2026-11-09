@@ -1,20 +1,20 @@
 # Alex Kassian
 
-Alex Kassian is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Kiku Room, San Diego on Sun, 8 Nov 2026.
+Alex Kassian is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Secret Location, London on Sat, 14 Nov 2026.
 
-Alex Kassian is a house and techno artist based in Germany, with 205 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 68 more. Often billed alongside PARAMIDA, Running Hot and Job Jobse. Next up: Kiku Room, San Diego on Sun 8 Nov.
+Alex Kassian is a house and techno artist based in Germany, with 205 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 68 more. Often billed alongside PARAMIDA, Running Hot and Job Jobse. Next up: Secret Location, London on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 8 Nov 2026 | Kiku Room | San Diego |
 | Sat, 14 Nov 2026 | Secret Location | London |
 | Sat, 21 Nov 2026 | KALT | Strasbourg |
 | Fri, 5 Mar 2027 | Moyston | Melbourne |
 
 ## Recently played
 
+- Kiku Room, San Diego · Sun, 8 Nov 2026
 - BASEMENT, New York City · Fri, 6 Nov 2026
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 31 Oct 2026
 - San Francisco, Amsterdam · Sun, 25 Oct 2026
@@ -22,10 +22,9 @@ Alex Kassian is a house and techno artist based in Germany, with 205 gigs on sou
 - Salon Iksv, Istanbul · Sat, 17 Oct 2026
 - TBA - 252 boulevard Victor Hugo, Lille, North · Sat, 10 Oct 2026
 - Palais, London · Fri, 9 Oct 2026
-- Usquare, Brussels · Sat, 26 Sept 2026
 
 ## Shares bills with
 
 PARAMIDA, Running Hot, Job Jobse
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alkassian/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alkassian/)*

@@ -1,6 +1,6 @@
 # Victor Mantel
 
-Victor Mantel is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at La Gare / Le Gore, Paris on Sat, 21 Nov 2026.
+Victor Mantel is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at La Gare / Le Gore, Paris on Sat, 21 Nov 2026.
 
 Victor Mantel is a techno and house artist, with 3 gigs on soundcheck across Marseille and Paris. Often billed alongside Aubry and VANROOSE. Next up: La Gare / Le Gore, Paris on Sat 21 Nov.
 
@@ -19,4 +19,4 @@ Victor Mantel is a techno and house artist, with 3 gigs on soundcheck across Mar
 
 Aubry, VANROOSE
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/victormantel/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/victormantel/)*

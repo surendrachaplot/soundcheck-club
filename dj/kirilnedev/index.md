@@ -1,6 +1,6 @@
 # Kiril Nedev
 
-Kiril Nedev is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Rive Rouge, Lisbon on Wed, 11 Nov 2026.
+Kiril Nedev is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Rive Rouge, Lisbon on Wed, 11 Nov 2026.
 
 Kiril Nedev is a tech house and house artist based in Bulgaria, with 11 gigs on soundcheck across Berlin, Dubai, Ibiza and Lisbon and 1 more. Often billed alongside Dom James U.K, ACA (YU) and Adam Romo. Next up: Rive Rouge, Lisbon on Wed 11 Nov.
 
@@ -25,4 +25,4 @@ Kiril Nedev is a tech house and house artist based in Bulgaria, with 11 gigs on 
 
 Dom James U.K, ACA (YU), Adam Romo
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kirilnedev/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kirilnedev/)*

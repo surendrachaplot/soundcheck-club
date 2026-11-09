@@ -1,6 +1,6 @@
 # SEELIE.
 
-SEELIE. is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Brooklyn, New-york-city on Sat, 5 Dec 2026.
+SEELIE. is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Brooklyn, New-york-city on Sat, 5 Dec 2026.
 
 SEELIE. is a techno and trance artist based in United States of America, with 5 gigs on soundcheck across New York City. Often billed alongside stress tess, Noctus and R-DNA. Next up: TBA - Brooklyn, New York City on Sat 5 Dec.
 
@@ -21,4 +21,4 @@ SEELIE. is a techno and trance artist based in United States of America, with 5 
 
 stress tess, Noctus, R-DNA
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seelie-ny/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seelie-ny/)*

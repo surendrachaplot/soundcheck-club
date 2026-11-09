@@ -1,6 +1,6 @@
 # bullet tooth
 
-bullet tooth is a House and Garage artist with 6 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Club Colette, Birmingham on Sat, 14 Nov 2026.
+bullet tooth is a House and Garage artist with 6 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Club Colette, Birmingham on Sat, 14 Nov 2026.
 
 bullet tooth is a house and garage artist based in United Kingdom, with 141 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Antwerp and 40 more. Often billed alongside Silva Bumpa, Capo Lee and Locklead. Next up: Club Colette, Birmingham on Sat 14 Nov.
 
@@ -30,4 +30,4 @@ bullet tooth is a house and garage artist based in United Kingdom, with 141 gigs
 
 Silva Bumpa, Capo Lee, Locklead
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bullettooth/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bullettooth/)*

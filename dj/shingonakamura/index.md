@@ -1,6 +1,6 @@
 # Shingo Nakamura
 
-Shingo Nakamura is a Progressive House and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at The Fibre Penthouse, Leeds on Sat, 14 Nov 2026.
+Shingo Nakamura is a Progressive House and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at The Fibre Penthouse, Leeds on Sat, 14 Nov 2026.
 
 Shingo Nakamura is a progressive house and trance artist based in Japan, with 60 gigs on soundcheck across Boston, Houston, Leeds and London and 13 more. Often billed alongside Conures (DJ Tokunaga), DJ NECO and Dominant Space. Next up: The Fibre Penthouse, Leeds on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Shingo Nakamura is a progressive house and trance artist based in Japan, with 60
 
 Conures (DJ Tokunaga), DJ NECO, Dominant Space
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shingonakamura/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shingonakamura/)*

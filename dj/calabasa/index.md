@@ -1,6 +1,6 @@
 # Calabasa
 
-Calabasa is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Club Malasaña, Madrid on Fri, 13 Nov 2026.
+Calabasa is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Club Malasaña, Madrid on Fri, 13 Nov 2026.
 
 Calabasa is a house and minimal artist based in Spain, with 54 gigs on soundcheck across Antwerp, Barcelona, Berlin and Bologna and 11 more. Often billed alongside Foie Gras, MARYO and Cap. Next up: Club Malasaña, Madrid on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Calabasa is a house and minimal artist based in Spain, with 54 gigs on soundchec
 
 Foie Gras, MARYO, Cap
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/calabasa/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/calabasa/)*

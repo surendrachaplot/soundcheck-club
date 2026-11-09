@@ -1,14 +1,13 @@
 # Gioski
 
-Gioski is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Kauz, Zurich on Sat, 7 Nov 2026.
+Gioski is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Le Bourg, Lausanne on Fri, 20 Nov 2026.
 
-Gioski is a techno and trance artist based in Switzerland, with 71 gigs on soundcheck across Basel, Berlin, Geneva and Lausanne and 1 more. Often billed alongside Pooja B, Alex Nantaya and Frankie Flowerz. Next up: Kauz, Zurich on Sat 7 Nov.
+Gioski is a techno and trance artist based in Switzerland, with 71 gigs on soundcheck across Basel, Berlin, Geneva and Lausanne and 1 more. Often billed alongside Pooja B, Alex Nantaya and Frankie Flowerz. Next up: Le Bourg, Lausanne on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Kauz | Zurich |
 | Fri, 20 Nov 2026 | Le Bourg | Lausanne |
 
 ## Recently played
@@ -26,4 +25,4 @@ Gioski is a techno and trance artist based in Switzerland, with 71 gigs on sound
 
 Pooja B, Alex Nantaya, Frankie Flowerz
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gioski/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gioski/)*

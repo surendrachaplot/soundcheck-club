@@ -1,6 +1,6 @@
 # VEGA
 
-VEGA is a music venue in Copenhagen with 7 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Thea Dora // VEGA" on Fri, 13 Nov 2026.
+VEGA is a music venue in Copenhagen with 7 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Thea Dora // VEGA" on Fri, 13 Nov 2026.
 
 VEGA is a music venue in Copenhagen listed on soundcheck. 7 upcoming gigs, with line-ups including 100%WET, Arlo Parks, Muskila and Orbital and 2 more. See dates, start times and who's playing. Enghavevej 40, 1674 København V, Danmark.
 
@@ -20,4 +20,4 @@ VEGA is a music venue in Copenhagen listed on soundcheck. 7 upcoming gigs, with 
 
 Enghavevej 40, 1674 København V, Danmark, Copenhagen
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/vega/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/vega/)*

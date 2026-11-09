@@ -1,6 +1,6 @@
 # MKO
 
-MKO is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Ciało, Wroclaw on Fri, 11 Dec 2026.
+MKO is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Ciało, Wroclaw on Fri, 11 Dec 2026.
 
 MKO is a tech house and house artist based in Italy, with 12 gigs on soundcheck across Berlin, Los Angeles, Paris and Poznan and 2 more. Often billed alongside Spectribe, Danté and MIHVU. Next up: Ciało, Wroclaw on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ MKO is a tech house and house artist based in Italy, with 12 gigs on soundcheck 
 
 Spectribe, Danté, MIHVU
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mko/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mko/)*

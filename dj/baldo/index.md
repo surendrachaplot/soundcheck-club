@@ -1,6 +1,6 @@
 # Baldo
 
-Baldo is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Circus Osaka, Osaka on Fri, 13 Nov 2026.
+Baldo is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Circus Osaka, Osaka on Fri, 13 Nov 2026.
 
 Baldo is a house and acid artist based in Spain, with 94 gigs on soundcheck across Bali, Bangkok, Barcelona and Belgrade and 26 more. Often billed alongside Benjamin Fröhlich, Al Jones and Alex Neri. Next up: Circus Osaka, Osaka on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Baldo is a house and acid artist based in Spain, with 94 gigs on soundcheck acro
 
 Benjamin Fröhlich, Al Jones, Alex Neri
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baldo/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baldo/)*

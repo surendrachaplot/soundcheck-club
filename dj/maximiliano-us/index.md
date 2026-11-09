@@ -1,20 +1,20 @@
 # MAXIMILIANO (US)
 
-MAXIMILIANO (US) is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Well Done Goods, Detroit on Sun, 8 Nov 2026.
+MAXIMILIANO (US) is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Eaton Workshop, Washington DC on Mon, 9 Nov 2026.
 
-MAXIMILIANO (US) is a house and deep house artist based in Argentina, with 202 gigs on soundcheck across Barcelona, Buenos Aires, Detroit and Ibiza and 6 more. Often billed alongside Mikey J, Factory Reset and Room 12. Next up: Well Done Goods, Detroit on Sun 8 Nov.
+MAXIMILIANO (US) is a house and deep house artist based in Argentina, with 202 gigs on soundcheck across Barcelona, Buenos Aires, Detroit and Ibiza and 6 more. Often billed alongside Mikey J, Factory Reset and Room 12. Next up: Eaton Workshop, Washington DC on Mon 9 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 8 Nov 2026 | Well Done Goods | Detroit |
 | Mon, 9 Nov 2026 | Eaton Workshop | Washington DC |
 | Wed, 11 Nov 2026 | Jimmy Valentine's Lonely Hearts Club | Washington DC |
 | Wed, 25 Nov 2026 | TBA - Secret Location - Washington DC | Washington DC |
 
 ## Recently played
 
+- Well Done Goods, Detroit · Sun, 8 Nov 2026
 - Spkrbox, Detroit · Sat, 7 Nov 2026
 - Eighteenth Street Lounge (ESL), Washington DC · Wed, 4 Nov 2026
 - Eighteenth Street Lounge (ESL), Washington DC · Fri, 30 Oct 2026
@@ -22,10 +22,9 @@ MAXIMILIANO (US) is a house and deep house artist based in Argentina, with 202 g
 - TBA - 309 Shorty's Ave., Toronto · Sat, 24 Oct 2026
 - Eighteenth Street Lounge (ESL), Washington DC · Wed, 21 Oct 2026
 - Eaton Workshop, Washington DC · Mon, 12 Oct 2026
-- Eighteenth Street Lounge (ESL), Washington DC · Sun, 11 Oct 2026
 
 ## Shares bills with
 
 Mikey J, Factory Reset, Room 12
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maximiliano-us/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maximiliano-us/)*

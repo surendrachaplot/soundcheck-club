@@ -1,6 +1,6 @@
 # Das Werk
 
-Das Werk is a music venue in Vienna with 5 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "-" on Fri, 13 Nov 2026.
+Das Werk is a music venue in Vienna with 5 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "-" on Fri, 13 Nov 2026.
 
 Das Werk is a music venue in Vienna listed on soundcheck. 5 upcoming gigs, with line-ups including Amøn, carlo kalu, Crystal O and Dj Wifi and 2 more. See dates, start times and who's playing. Spittelauer Lände 12, Stadtbahnbogen 331, 1090 Vienna, Austria.
 
@@ -18,4 +18,4 @@ Das Werk is a music venue in Vienna listed on soundcheck. 5 upcoming gigs, with 
 
 Spittelauer Lände 12, Stadtbahnbogen 331, 1090 Vienna, Austria, Vienna
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/das-werk/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/das-werk/)*

@@ -1,6 +1,6 @@
 # Perila
 
-Perila is a Ambient and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Acme Estudio, Madrid on Sat, 14 Nov 2026.
+Perila is a Ambient and Experimental artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Acme Estudio, Madrid on Sat, 14 Nov 2026.
 
 Perila is an ambient and experimental artist based in Germany, with 51 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 15 more. Often billed alongside Ulla, DjRUM and upsammy. Next up: Acme Estudio, Madrid on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Perila is an ambient and experimental artist based in Germany, with 51 gigs on s
 
 Ulla, DjRUM, upsammy
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/perila/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/perila/)*

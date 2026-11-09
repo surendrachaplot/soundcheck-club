@@ -1,6 +1,6 @@
 # Senavinin
 
-Senavinin is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Strato 550, Alabama on Sat, 21 Nov 2026.
+Senavinin is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Strato 550, Alabama on Sat, 21 Nov 2026.
 
 Senavinin is a house and progressive house artist based in United States of America, with 6 gigs on soundcheck across Alabama, Austin, Houston and New Orleans. Often billed alongside Tré, Amtrac and Nile Ashton. Next up: Strato 550, Alabama on Sat 21 Nov.
 
@@ -22,4 +22,4 @@ Senavinin is a house and progressive house artist based in United States of Amer
 
 Tré, Amtrac, Nile Ashton
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/senavinin/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/senavinin/)*

@@ -1,6 +1,6 @@
 # Kice
 
-Kice is a House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Caveau Boston, Boston on Fri, 26 Mar 2027.
+Kice is a House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Caveau Boston, Boston on Fri, 26 Mar 2027.
 
 Kice is a house artist based in United States of America, with 4 gigs on soundcheck across Boston, Chicago, Dallas/Fort Worth and New York City. Often billed alongside Violin Girl. Next up: Caveau Boston, Boston on Fri 26 Mar.
 
@@ -20,4 +20,4 @@ Kice is a house artist based in United States of America, with 4 gigs on soundch
 
 Violin Girl
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kice/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kice/)*

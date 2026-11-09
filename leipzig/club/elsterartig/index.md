@@ -1,6 +1,6 @@
 # Elsterartig
 
-Elsterartig is a music venue in Leipzig with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Burning Bird with Marten Hørger" on Tue, 17 Nov 2026.
+Elsterartig is a music venue in Leipzig with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Burning Bird with Marten Hørger" on Tue, 17 Nov 2026.
 
 Elsterartig is a music venue in Leipzig listed on soundcheck. 2 upcoming gigs, with line-ups including FYNN, Jil Tanner, Marten Hørger and OLEA and 1 more. See dates, start times and who's playing. Dittrichring 17, 04109 Leipzig.
 
@@ -15,4 +15,4 @@ Elsterartig is a music venue in Leipzig listed on soundcheck. 2 upcoming gigs, w
 
 Dittrichring 17, 04109 Leipzig, Leipzig
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/elsterartig/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/elsterartig/)*

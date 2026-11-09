@@ -1,6 +1,6 @@
 # Pauli403
 
-Pauli403 is a Garage and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - ask your local angler-punk, Berlin on Fri, 13 Nov 2026.
+Pauli403 is a Garage and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - ask your local angler-punk, Berlin on Fri, 13 Nov 2026.
 
 Pauli403 is a garage and post-punk artist based in Germany, with 3 gigs on soundcheck across Berlin. Often billed alongside Jimmie, Karolina Bnv and Kidcat. Next up: TBA - ask your local angler-punk, Berlin on Fri 13 Nov.
 
@@ -19,4 +19,4 @@ Pauli403 is a garage and post-punk artist based in Germany, with 3 gigs on sound
 
 Jimmie, Karolina Bnv, Kidcat
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pauli403/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pauli403/)*

@@ -1,6 +1,6 @@
 # anyka
 
-anyka is a Trance and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Artheater, Cologne on Sat, 14 Nov 2026.
+anyka is a Trance and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Artheater, Cologne on Sat, 14 Nov 2026.
 
 anyka is a trance and house artist based in Germany, with 4 gigs on soundcheck across Cologne. Often billed alongside Ken Brause, Lizzle and Tristan K. Next up: Artheater, Cologne on Sat 14 Nov.
 
@@ -20,4 +20,4 @@ anyka is a trance and house artist based in Germany, with 4 gigs on soundcheck a
 
 Ken Brause, Lizzle, Tristan K
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anyka-de/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anyka-de/)*

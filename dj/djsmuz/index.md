@@ -1,6 +1,6 @@
 # djsmuz
 
-djsmuz is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at The Buff Club, Glasgow on Fri, 13 Nov 2026.
+djsmuz is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at The Buff Club, Glasgow on Fri, 13 Nov 2026.
 
 djsmuz is a house and disco artist based in United Kingdom, with 41 gigs on soundcheck across Glasgow. Often billed alongside Tropicaux, Jenn Gunn and MMS. Next up: The Buff Club, Glasgow on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ djsmuz is a house and disco artist based in United Kingdom, with 41 gigs on soun
 
 Tropicaux, Jenn Gunn (2), MMS (2)
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsmuz/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsmuz/)*

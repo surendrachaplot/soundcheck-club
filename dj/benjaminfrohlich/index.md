@@ -1,6 +1,6 @@
 # Benjamin Fröhlich
 
-Benjamin Fröhlich is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at control, Bucharest on Fri, 4 Dec 2026.
+Benjamin Fröhlich is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at control, Bucharest on Fri, 4 Dec 2026.
 
 Benjamin Fröhlich is a house and techno artist based in Germany, with 44 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bucharest and 12 more. Often billed alongside Rosa Red, Jorkes and Rhode & Brown. Next up: control, Bucharest on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Benjamin Fröhlich is a house and techno artist based in Germany, with 44 gigs o
 
 Rosa Red, Jorkes, Rhode & Brown
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benjaminfrohlich/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benjaminfrohlich/)*

@@ -1,6 +1,6 @@
 # leahgte
 
-leahgte is a Hip-Hop and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Off The Cuff, London on Tue, 10 Nov 2026.
+leahgte is a Hip-Hop and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Off The Cuff, London on Tue, 10 Nov 2026.
 
 leahgte is a hip-hop and techno artist based in United Kingdom, with 27 gigs on soundcheck across Edinburgh, Glasgow and London. Often billed alongside Rahul.mp3, Bellarosa and Salam Kitty. Next up: Off The Cuff, London on Tue 10 Nov.
 
@@ -25,4 +25,4 @@ leahgte is a hip-hop and techno artist based in United Kingdom, with 27 gigs on 
 
 Rahul.mp3, Bellarosa, Salam Kitty
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leahgte/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leahgte/)*

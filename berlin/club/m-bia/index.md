@@ -1,6 +1,6 @@
 # M-BIA
 
-M-BIA is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "One Night with Greb Levah & Bassmassage" on Fri, 13 Nov 2026.
+M-BIA is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "One Night with Greb Levah & Bassmassage" on Fri, 13 Nov 2026.
 
 M-BIA is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with line-ups including BrettHit, DELTA LABS, INTOX and LISA LOCA and 2 more. See dates, start times and who's playing. Dircksenstr. 123, 10178 Berlin.
 
@@ -22,4 +22,4 @@ M-BIA is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with lin
 
 Dircksenstr. 123, 10178 Berlin, Berlin
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bia/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bia/)*

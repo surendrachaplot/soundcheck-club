@@ -1,6 +1,6 @@
 # Jateen
 
-Jateen is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Glenworth Valley, Sydney on Mon, 28 Dec 2026.
+Jateen is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Glenworth Valley, Sydney on Mon, 28 Dec 2026.
 
 Jateen is a house and afro house artist based in Australia, with 22 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Bryan Ro, Casual P and Almared. Next up: Glenworth Valley, Sydney on Mon 28 Dec.
 
@@ -25,4 +25,4 @@ Jateen is a house and afro house artist based in Australia, with 22 gigs on soun
 
 Bryan Ro, Casual P, Almared
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jateen/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jateen/)*

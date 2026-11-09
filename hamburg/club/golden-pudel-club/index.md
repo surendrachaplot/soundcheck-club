@@ -1,6 +1,6 @@
 # Golden Pudel Club
 
-Golden Pudel Club is a music venue in Hamburg with 7 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "50PHIE b2b Christian Kluge All Night Long" on Thu, 12 Nov 2026.
+Golden Pudel Club is a music venue in Hamburg with 7 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "50PHIE b2b Christian Kluge All Night Long" on Thu, 12 Nov 2026.
 
 Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 7 upcoming gigs, with line-ups including 50PHIE, Anton Jonathan, ATAVEM and Beau Wanzer and 2 more. See dates, start times and who's playing. St. Pauli Fischmarkt 27; 20359 Hamburg; Germany.
 
@@ -20,4 +20,4 @@ Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 7 upcoming g
 
 St. Pauli Fischmarkt 27; 20359 Hamburg; Germany, Hamburg
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/golden-pudel-club/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/golden-pudel-club/)*

@@ -1,6 +1,6 @@
 # Liquid Earth
 
-Liquid Earth is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Casa Checo - Plaza Cuicuilco, Mexico-city on Sat, 21 Nov 2026.
+Liquid Earth is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Casa Checo - Plaza Cuicuilco, Mexico-city on Sat, 21 Nov 2026.
 
 Liquid Earth is a house and techno artist based in United States of America, with 209 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 64 more. Often billed alongside Mari.te, tINI and Hamish & Toby. Next up: Casa Checo - Plaza Cuicuilco, Mexico City on Sat 21 Nov.
 
@@ -28,4 +28,4 @@ Liquid Earth is a house and techno artist based in United States of America, wit
 
 Mari.te, tINI, Hamish & Toby
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/liquidearth/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/liquidearth/)*

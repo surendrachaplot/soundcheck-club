@@ -1,6 +1,6 @@
 # Start.Bahn - Genezarethkirche
 
-Start.Bahn - Genezarethkirche is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Midwife (US) & Devin Shaffer (US) — Live at the church" on Wed, 11 Nov 2026.
+Start.Bahn - Genezarethkirche is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Midwife (US) & Devin Shaffer (US) — Live at the church" on Wed, 11 Nov 2026.
 
 Start.Bahn - Genezarethkirche is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with line-ups including APRS, bod [包家巷], inbuilt obsolescence and Javier Marimon and 2 more. See dates, start times and who's playing. Herrfurthplatz 14, 12049 Berlin.
 
@@ -18,4 +18,4 @@ Start.Bahn - Genezarethkirche is a music venue in Berlin listed on soundcheck. 5
 
 Herrfurthplatz 14, 12049 Berlin, Berlin
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/start-bahn-genezarethkirche/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/start-bahn-genezarethkirche/)*

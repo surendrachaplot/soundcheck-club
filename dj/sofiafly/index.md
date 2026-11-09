@@ -1,13 +1,14 @@
 # Sofia Fly
 
-Sofia Fly is a Club and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Osler Records, Toronto on Sat, 21 Nov 2026.
+Sofia Fly is a Club and Latin Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Cafeteria, Toronto on Fri, 20 Nov 2026.
 
-Sofia Fly is a club and latin bass artist based in Canada, with 71 gigs on soundcheck across Toronto and Vancouver. Often billed alongside Ana Luisa, Young Teesh and Zellers. Next up: Osler Records, Toronto on Sat 21 Nov.
+Sofia Fly is a club and latin bass artist based in Canada, with 72 gigs on soundcheck across Toronto and Vancouver. Often billed alongside Ana Luisa, Young Teesh and Zellers. Next up: Cafeteria, Toronto on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | Cafeteria | Toronto |
 | Sat, 21 Nov 2026 | Osler Records | Toronto |
 
 ## Recently played
@@ -25,4 +26,4 @@ Sofia Fly is a club and latin bass artist based in Canada, with 71 gigs on sound
 
 Ana Luisa, Young Teesh, Zellers
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sofiafly/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sofiafly/)*

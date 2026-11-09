@@ -1,6 +1,6 @@
 # Sickmode
 
-Sickmode is a Hardcore and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Camelot, Tokyo on Fri, 13 Nov 2026.
+Sickmode is a Hardcore and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Camelot, Tokyo on Fri, 13 Nov 2026.
 
 Sickmode is a hardcore and techno artist based in Netherlands, with 20 gigs on soundcheck across Amsterdam, Bangkok, Brussels and Cologne and 12 more. Often billed alongside Angerfist, Dimitri K and Da Tweekaz. Next up: Camelot, Tokyo on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Sickmode is a hardcore and techno artist based in Netherlands, with 20 gigs on s
 
 Angerfist, Dimitri K, Da Tweekaz
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sickmode/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sickmode/)*

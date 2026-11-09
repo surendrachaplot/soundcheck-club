@@ -1,6 +1,6 @@
 # Afrojack
 
-Afrojack is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Shrine Auditorium and Expo Hall, Los Angeles on Fri, 27 Nov 2026.
+Afrojack is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Shrine Auditorium and Expo Hall, Los Angeles on Fri, 27 Nov 2026.
 
 Afrojack is a house and progressive house artist based in Netherlands, with 61 gigs on soundcheck across Amsterdam, Athens, Boston and Buenos Aires and 23 more. Often billed alongside David Guetta, Paul Reynolds and Francis Mercier. Next up: Shrine Auditorium and Expo Hall, Los Angeles on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Afrojack is a house and progressive house artist based in Netherlands, with 61 g
 
 David Guetta, Paul Reynolds, Francis Mercier
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/afrojack/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/afrojack/)*

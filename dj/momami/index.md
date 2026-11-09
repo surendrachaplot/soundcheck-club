@@ -1,6 +1,6 @@
 # Mo Mami
 
-Mo Mami is a Club and Ghetto Tech artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at TV Lounge, Detroit on Fri, 13 Nov 2026.
+Mo Mami is a Club and Ghetto Tech artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at TV Lounge, Detroit on Fri, 13 Nov 2026.
 
 Mo Mami is a club and ghetto tech artist based in United States of America, with 22 gigs on soundcheck across Chicago, Detroit and New York City. Often billed alongside Constantine (US), DJ Lady D and Mr. Apop. Next up: TV Lounge, Detroit on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Mo Mami is a club and ghetto tech artist based in United States of America, with
 
 Constantine (US), DJ Lady D, Mr. Apop
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/momami/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/momami/)*

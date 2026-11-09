@@ -1,6 +1,6 @@
 # Qrion
 
-Qrion is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Circus Tokyo, Tokyo on Fri, 20 Nov 2026.
+Qrion is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Circus Tokyo, Tokyo on Fri, 20 Nov 2026.
 
 Qrion is a house and techno artist based in Japan, with 80 gigs on soundcheck across Adelaide, Amsterdam, Austin and Bali and 30 more. Often billed alongside Nicky Elisabeth, Rezident and Romain Garcia. Next up: Circus Tokyo, Tokyo on Fri 20 Nov.
 
@@ -29,4 +29,4 @@ Qrion is a house and techno artist based in Japan, with 80 gigs on soundcheck ac
 
 Nicky Elisabeth, Rezident, Romain Garcia
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/qrion/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/qrion/)*

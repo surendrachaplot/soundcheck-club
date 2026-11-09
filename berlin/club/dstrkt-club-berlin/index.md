@@ -1,6 +1,6 @@
 # DSTRKT Club Berlin
 
-DSTRKT Club Berlin is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "KALTBAU: DJ Hyperdrive, HUJUS, DJ Cringey, HUMAN ERROR, relajadita" on Fri, 13 Nov 2026.
+DSTRKT Club Berlin is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "KALTBAU: DJ Hyperdrive, HUJUS, DJ Cringey, HUMAN ERROR, relajadita" on Fri, 13 Nov 2026.
 
 DSTRKT Club Berlin is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including 2HOT2PLAY, Al Aslan, Alex Friday and Andreas Henneberg and 2 more. See dates, start times and who's playing. Storkower Straße 123, 10407 Berlin, Deutschland.
 
@@ -23,4 +23,4 @@ DSTRKT Club Berlin is a music venue in Berlin listed on soundcheck. 10 upcoming 
 
 Storkower Straße 123, 10407 Berlin, Deutschland, Berlin
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dstrkt-club-berlin/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dstrkt-club-berlin/)*

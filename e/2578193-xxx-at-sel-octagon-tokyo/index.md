@@ -1,6 +1,6 @@
 # XXX at SEL OCTAGON TOKYO
 
-XXX at SEL OCTAGON TOKYO on Wed 18 Nov, Tokyo. 2 artists: Miki and PUSTER. Psytrance. See the line-up on soundcheck.
+XXX at SEL OCTAGON TOKYO on Wed 18 Nov, Tokyo. 1 artist: PUSTER. Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ XXX at SEL OCTAGON TOKYO on Wed 18 Nov, Tokyo. 2 artists: Miki and PUSTER. Psytr
 
 ## Line-up
 
-- Miki
 - PUSTER
 
 *Source: [soundcheck](https://soundcheck.club/e/2578193-xxx-at-sel-octagon-tokyo/)*

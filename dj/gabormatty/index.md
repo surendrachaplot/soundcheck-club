@@ -1,13 +1,14 @@
 # Gabor Matty
 
-Gabor Matty is a Disco and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Nice N Sleazy, Glasgow on Sat, 5 Dec 2026.
+Gabor Matty is a Disco and Club artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at The Glad Cafe, Glasgow on Wed, 25 Nov 2026.
 
-Gabor Matty is a disco and club artist based in United Kingdom, with 34 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside ButhoTheWarrior, David Barbarossa and Hu-Sane. Next up: Nice N Sleazy, Glasgow on Sat 5 Dec.
+Gabor Matty is a disco and club artist based in United Kingdom, with 35 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside ButhoTheWarrior, David Barbarossa and Hu-Sane. Next up: The Glad Cafe, Glasgow on Wed 25 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 25 Nov 2026 | The Glad Cafe | Glasgow |
 | Sat, 5 Dec 2026 | Nice N Sleazy | Glasgow |
 
 ## Recently played
@@ -25,4 +26,4 @@ Gabor Matty is a disco and club artist based in United Kingdom, with 34 gigs on 
 
 ButhoTheWarrior, David Barbarossa, Hu-Sane
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabormatty/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabormatty/)*

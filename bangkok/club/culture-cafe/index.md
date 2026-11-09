@@ -1,14 +1,13 @@
 # Culture Cafe
 
-Culture Cafe is a music venue in Bangkok with 26 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "G2G House'n'Techno Music Collective presents; Giantsiam" on Sun, 8 Nov 2026.
+Culture Cafe is a music venue in Bangkok with 25 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Monday Night: Minimal&Techno Vinyl Sessions by plazdj" on Mon, 9 Nov 2026.
 
-Culture Cafe is a music venue in Bangkok listed on soundcheck. 26 upcoming gigs, with line-ups including Carlos Bros, Damon Rider, DJ Krit Morton and DJ Mandol and 2 more. See dates, start times and who's playing. 249 Thanon Samsen, Wat Sam Phraya, Phra Nakorn, Bangkok, Thailand, Bangkok.
+Culture Cafe is a music venue in Bangkok listed on soundcheck. 25 upcoming gigs, with line-ups including Carlos Bros, Damon Rider, DJ Krit Morton and DJ Mandol and 2 more. See dates, start times and who's playing. 249 Thanon Samsen, Wat Sam Phraya, Phra Nakorn, Bangkok, Thailand, Bangkok.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 8 Nov 2026 | G2G House'n'Techno Music Collective presents; Giantsiam | Giantsiam |
 | Mon, 9 Nov 2026 | Monday Night: Minimal&Techno Vinyl Sessions by plazdj | plazdj |
 | Tue, 10 Nov 2026 | Bangkok Vinyl Minimal&Techno Sessions with MOODYBOOM / Highwire crew | MOODYBOOM |
 | Wed, 11 Nov 2026 | WEDNESDAY MINIMAL HOUSE'n'TECHNO 'VINYL SESSIONS' presents; plazdj (Strictly Vi‬‬‬‬‬‬‬‬‬nyl) | plazdj |
@@ -18,9 +17,10 @@ Culture Cafe is a music venue in Bangkok listed on soundcheck. 26 upcoming gigs,
 | Sun, 15 Nov 2026 | G2G House'n'Techno Music Collective by Giantsiam presents; Carlos Bros(Exclusively Vinyl Set) | Carlos Bros, Giantsiam |
 | Mon, 16 Nov 2026 | Monday Night: Minimal&Techno Vinyl Sessions by plazdj | plazdj |
 | Tue, 17 Nov 2026 | Bangkok Vinyl Minimal&Techno Sessions with MOODYBOOM / Highwire crew | MOODYBOOM |
+| Wed, 18 Nov 2026 | WEDNESDAY MINIMAL HOUSE'n'TECHNO 'VINYL SESSIONS' presents; plazdj (Strictly Vi‬‬‬‬‬‬‬‬‬nyl) | plazdj |
 
 ## Address
 
 249 Thanon Samsen, Wat Sam Phraya, Phra Nakorn, Bangkok, Thailand, Bangkok, Bangkok
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/culture-cafe/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/culture-cafe/)*

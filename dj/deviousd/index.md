@@ -1,6 +1,6 @@
 # Devious D
 
-Devious D is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA, London on Fri, 20 Nov 2026.
+Devious D is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA, London on Fri, 20 Nov 2026.
 
 Devious D is a jungle and drum & bass artist based in United States of America, with 14 gigs on soundcheck across Denver and London. Often billed alongside Nicky Blackmarket, Millz and The Ragga Twins. Next up: TBA, London on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Devious D is a jungle and drum & bass artist based in United States of America, 
 
 Nicky Blackmarket, Millz, The Ragga Twins
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deviousd/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deviousd/)*

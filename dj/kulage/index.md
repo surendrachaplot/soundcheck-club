@@ -1,6 +1,6 @@
 # Kulage
 
-Kulage is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 22 Nov 2026.
+Kulage is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 22 Nov 2026.
 
 Kulage is a techno and house artist based in Japan, with 115 gigs on soundcheck across Seoul and Tokyo. Often billed alongside WAKA XINXI, DJ AKi and YELLOCK. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun 22 Nov.
 
@@ -26,4 +26,4 @@ Kulage is a techno and house artist based in Japan, with 115 gigs on soundcheck 
 
 WAKA XINXI, DJ AKi, YELLOCK
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kulage/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kulage/)*

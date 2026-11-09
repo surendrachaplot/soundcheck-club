@@ -1,6 +1,6 @@
 # Indecorum
 
-Indecorum is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Ciało, Wroclaw on Fri, 20 Nov 2026.
+Indecorum is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Ciało, Wroclaw on Fri, 20 Nov 2026.
 
 Indecorum is a techno and trance artist based in Poland, with 67 gigs on soundcheck across Amsterdam, Berlin, Bogotá and Cologne and 21 more. Often billed alongside EARGASM GOD, BRAVO GRL and Yung Lucy. Next up: Ciało, Wroclaw on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Indecorum is a techno and trance artist based in Poland, with 67 gigs on soundch
 
 EARGASM GOD, BRAVO GRL, Yung Lucy
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/indecorum/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/indecorum/)*

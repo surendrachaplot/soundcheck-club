@@ -1,6 +1,6 @@
 # AAKAARA
 
-AAKAARA is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Hoxton Cabin, London on Fri, 11 Dec 2026.
+AAKAARA is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Hoxton Cabin, London on Fri, 11 Dec 2026.
 
 AAKAARA is a techno and electro artist based in United Kingdom, with 15 gigs on soundcheck across London. Often billed alongside SIOBHAN., Benebe and New Flesh. Next up: Hoxton Cabin, London on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ AAKAARA is a techno and electro artist based in United Kingdom, with 15 gigs on 
 
 SIOBHAN., Benebe, New Flesh (2)
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aakaara/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aakaara/)*

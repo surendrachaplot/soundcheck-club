@@ -1,13 +1,14 @@
 # Jeremy Sylvester
 
-Jeremy Sylvester is a Garage and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at OXI, Berlin on Sat, 21 Nov 2026.
+Jeremy Sylvester is a Garage and House artist with 7 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA -  Select Fm London, Los Angeles on Fri, 13 Nov 2026.
 
-Jeremy Sylvester is a garage and house artist based in United Kingdom, with 119 gigs on soundcheck across Amsterdam, Berlin, Birmingham and Brighton and 21 more. Often billed alongside DJ Perception, Lady Passion and Mikey DJ. Next up: OXI, Berlin on Sat 21 Nov.
+Jeremy Sylvester is a garage and house artist based in United Kingdom, with 120 gigs on soundcheck across Amsterdam, Berlin, Birmingham and Brighton and 22 more. Often billed alongside DJ Perception, Lady Passion and Mikey DJ. Next up: TBA -  Select Fm London, Los Angeles on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | TBA -  Select Fm London | Los Angeles |
 | Sat, 21 Nov 2026 | OXI | Berlin |
 | Thu, 26 Nov 2026 | The Berkeley Suite | Glasgow |
 | Sat, 28 Nov 2026 | Port of Leith Distillery | Edinburgh |
@@ -30,4 +31,4 @@ Jeremy Sylvester is a garage and house artist based in United Kingdom, with 119 
 
 DJ Perception, Lady Passion, Mikey DJ
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremysylvester/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremysylvester/)*

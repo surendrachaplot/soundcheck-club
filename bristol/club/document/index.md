@@ -1,6 +1,6 @@
 # Document
 
-Document is a music venue in Bristol with 5 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Document presents: East End Dubs" on Sat, 14 Nov 2026.
+Document is a music venue in Bristol with 5 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Document presents: East End Dubs" on Sat, 14 Nov 2026.
 
 Document is a music venue in Bristol listed on soundcheck. 5 upcoming gigs, with line-ups including Artemis, Bateman, Benny L and Break and 2 more. See dates, start times and who's playing. 30 Pennywell Rd, St Jude's, Bristol, BS5 0TH.
 
@@ -18,4 +18,4 @@ Document is a music venue in Bristol listed on soundcheck. 5 upcoming gigs, with
 
 30 Pennywell Rd, St Jude's, Bristol, BS5 0TH, Bristol
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/document/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/document/)*

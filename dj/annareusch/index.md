@@ -1,6 +1,6 @@
 # Anna Reusch
 
-Anna Reusch is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Soku Neustadt, Rhineland-palatinate on Sat, 21 Nov 2026.
+Anna Reusch is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Soku Neustadt, Rhineland-palatinate on Sat, 21 Nov 2026.
 
 Anna Reusch is a techno and house artist based in Germany, with 109 gigs on soundcheck across Amsterdam, Barcelona, Basel and Bavaria and 37 more. Often billed alongside Thomas Schumacher, A.D.H.S. and Bjørnson. Next up: Soku Neustadt, Rhineland Palatinate on Sat 21 Nov.
 
@@ -35,4 +35,4 @@ Anna Reusch is a techno and house artist based in Germany, with 109 gigs on soun
 
 Thomas Schumacher, A.D.H.S., Bjørnson
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annareusch/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annareusch/)*

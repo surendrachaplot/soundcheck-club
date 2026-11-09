@@ -1,6 +1,6 @@
 # Pangaea
 
-Pangaea is a Techno and Bass artist with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Unmute, Hanoi on Sat, 21 Nov 2026.
+Pangaea is a Techno and Bass artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Unmute, Hanoi on Sat, 21 Nov 2026.
 
 Pangaea is a techno and bass artist based in United Kingdom, with 143 gigs on soundcheck across Amsterdam, Auckland, Austin and Bali and 60 more. Often billed alongside Ben UFO, Pearson Sound and Amaliah. Next up: Unmute, Hanoi on Sat 21 Nov.
 
@@ -28,4 +28,4 @@ Pangaea is a techno and bass artist based in United Kingdom, with 143 gigs on so
 
 Ben UFO, Pearson Sound, Amaliah
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pangaea/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pangaea/)*

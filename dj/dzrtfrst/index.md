@@ -1,6 +1,6 @@
 # DZRT FRST
 
-DZRT FRST is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - M Club, Taipei on Sat, 21 Nov 2026.
+DZRT FRST is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - M Club, Taipei on Sat, 21 Nov 2026.
 
 DZRT FRST is a house and techno artist based in Taiwan, with 30 gigs on soundcheck across Hong Kong, Shanghai and Taipei. Often billed alongside Berthom, The Cook, The Thief and Yellow Snap. Next up: TBA - M Club, Taipei on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ DZRT FRST is a house and techno artist based in Taiwan, with 30 gigs on soundche
 
 Berthom, The Cook, The Thief, Yellow Snap
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dzrtfrst/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dzrtfrst/)*

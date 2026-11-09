@@ -1,14 +1,13 @@
 # Playlove
 
-Playlove is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Kauz, Zurich on Sat, 7 Nov 2026.
+Playlove is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Palais Mascotte, Zurich on Fri, 27 Nov 2026.
 
-Playlove is a house and tech house artist based in Switzerland, with 33 gigs on soundcheck across Berlin, Leipzig, Munich and Stuttgart and 1 more. Often billed alongside Styro 2000, fabulus and Juli Lee. Next up: Kauz, Zurich on Sat 7 Nov.
+Playlove is a house and tech house artist based in Switzerland, with 33 gigs on soundcheck across Berlin, Leipzig, Munich and Stuttgart and 1 more. Often billed alongside Styro 2000, fabulus and Juli Lee. Next up: Palais Mascotte, Zurich on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Kauz | Zurich |
 | Fri, 27 Nov 2026 | Palais Mascotte | Zurich |
 
 ## Recently played
@@ -26,4 +25,4 @@ Playlove is a house and tech house artist based in Switzerland, with 33 gigs on 
 
 Styro 2000, fabulus, Juli Lee
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/playlove/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/playlove/)*

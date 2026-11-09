@@ -1,6 +1,6 @@
 # Open Air Club
 
-Open Air Club is a music venue in New York City with 9 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Open Air Club: Mish - Kevdiesel - Lipe" on Sun, 8 Nov 2026.
+Open Air Club is a music venue in New York City with 9 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Open Air Club: Mish - Kevdiesel - Lipe" on Sun, 8 Nov 2026.
 
 Open Air Club is a music venue in New York City listed on soundcheck. 9 upcoming gigs, with line-ups including Henry Neely, KOZLOW, Kris Lee and Max B and 2 more. See dates, start times and who's playing. 190 Allen Street, 7th Floor.
 
@@ -22,4 +22,4 @@ Open Air Club is a music venue in New York City listed on soundcheck. 9 upcoming
 
 190 Allen Street, 7th Floor, New York City
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/open-air-club/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/open-air-club/)*

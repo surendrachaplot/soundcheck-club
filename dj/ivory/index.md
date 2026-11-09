@@ -1,6 +1,6 @@
 # Ivory
 
-Ivory is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Madam, Amsterdam on Sat, 12 Dec 2026.
+Ivory is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Madam, Amsterdam on Sat, 12 Dec 2026.
 
 Ivory is a techno and house artist based in Italy, with 147 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 41 more. Often billed alongside Nandu, Aera and Auggië. Next up: Madam, Amsterdam on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Ivory is a techno and house artist based in Italy, with 147 gigs on soundcheck a
 
 Nandu, Aera, Auggië
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ivory/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ivory/)*

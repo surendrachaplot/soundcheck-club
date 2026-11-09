@@ -1,6 +1,6 @@
 # Marixia
 
-Marixia is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Liquid Club, Malta on Fri, 4 Dec 2026.
+Marixia is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Liquid Club, Malta on Fri, 4 Dec 2026.
 
 Marixia is a techno and minimal techno artist based in Serbia, with 11 gigs on soundcheck across Ibiza and Malta. Often billed alongside Philip Ackowsky, DJ SIN and DJ Nasty Deluxe. Next up: Liquid Club, Malta on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Marixia is a techno and minimal techno artist based in Serbia, with 11 gigs on s
 
 Philip Ackowsky, DJ SIN, DJ Nasty Deluxe
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marixia/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marixia/)*

@@ -1,6 +1,6 @@
 # P-Hocto
 
-P-Hocto is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at M.O.T, London on Fri, 11 Dec 2026.
+P-Hocto is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at M.O.T, London on Fri, 11 Dec 2026.
 
 P-Hocto is a techno and acid artist based in United Kingdom, with 9 gigs on soundcheck across London. Often billed alongside Jerome Hill, Shadesy and Ben Pest. Next up: M.O.T, London on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ P-Hocto is a techno and acid artist based in United Kingdom, with 9 gigs on soun
 
 Jerome Hill, Shadesy, Ben Pest
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/p-hocto/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/p-hocto/)*

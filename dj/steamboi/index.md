@@ -1,6 +1,6 @@
 # steamboi
 
-steamboi is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Pylonen - Frizonen Langebro, Copenhagen on Sat, 14 Nov 2026.
+steamboi is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Pylonen - Frizonen Langebro, Copenhagen on Sat, 14 Nov 2026.
 
 steamboi is a techno and trance artist based in Denmark, with 93 gigs on soundcheck across Copenhagen and Oslo. Often billed alongside DJ 2LATE, Kardinal Bertram and Britney Speed. Next up: Pylonen - Frizonen Langebro, Copenhagen on Sat 14 Nov.
 
@@ -28,4 +28,4 @@ steamboi is a techno and trance artist based in Denmark, with 93 gigs on soundch
 
 DJ 2LATE, Kardinal Bertram, Britney Speed
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/steamboi/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/steamboi/)*

@@ -1,6 +1,6 @@
 # Nualah
 
-Nualah is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at E1, London on Fri, 13 Nov 2026.
+Nualah is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at E1, London on Fri, 13 Nov 2026.
 
 Nualah is a house and tech house artist based in United Kingdom, with 16 gigs on soundcheck across London. Often billed alongside Brandon Marlo, Bruce Wain and J Dragon. Next up: E1, London on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Nualah is a house and tech house artist based in United Kingdom, with 16 gigs on
 
 Brandon Marlo, Bruce Wain, J Dragon
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nualah/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nualah/)*

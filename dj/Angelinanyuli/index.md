@@ -1,6 +1,6 @@
 # Angelinanyulí
 
-Angelinanyulí is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - LFO, Madrid on Fri, 20 Nov 2026.
+Angelinanyulí is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - LFO, Madrid on Fri, 20 Nov 2026.
 
 Angelinanyulí is a techno and electronica artist based in Spain, with 19 gigs on soundcheck across Barcelona, Madrid and Valencia. Often billed alongside Ariezzz, Vulva Vitamina and FAG HAG. Next up: TBA - LFO, Madrid on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Angelinanyulí is a techno and electronica artist based in Spain, with 19 gigs o
 
 Ariezzz, Vulva Vitamina, FAG HAG
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/Angelinanyuli/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/Angelinanyuli/)*

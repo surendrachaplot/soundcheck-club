@@ -1,6 +1,6 @@
 # Bohemia Beach Club
 
-Bohemia Beach Club is a music venue in Dubai with 5 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Bohemia presents Alex Wann & SONA" on Sat, 14 Nov 2026.
+Bohemia Beach Club is a music venue in Dubai with 5 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Bohemia presents Alex Wann & SONA" on Sat, 14 Nov 2026.
 
 Bohemia Beach Club is a music venue in Dubai listed on soundcheck. 5 upcoming gigs, with line-ups including Alex Wann, Miguelle, SONA and Sonny Fodera and 1 more. See dates, start times and who's playing. FIVE Palm Jumeirah - No 1 - The Palm Jumeirah -  Dubai - United Arab Emirates.
 
@@ -18,4 +18,4 @@ Bohemia Beach Club is a music venue in Dubai listed on soundcheck. 5 upcoming gi
 
 FIVE Palm Jumeirah - No 1 - The Palm Jumeirah -  Dubai - United Arab Emirates, Dubai
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dubai/club/bohemia-beach-club/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dubai/club/bohemia-beach-club/)*

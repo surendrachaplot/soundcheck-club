@@ -1,6 +1,6 @@
 # Epler
 
-Epler is a Tech House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Honey Street Studio, Manchester on Sat, 12 Dec 2026.
+Epler is a Tech House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Honey Street Studio, Manchester on Sat, 12 Dec 2026.
 
 Epler is a tech house and progressive house artist based in Ukraine, with 5 gigs on soundcheck across London and Manchester. Often billed alongside KRÄFTY, Kid_A and Baby Rollén. Next up: Honey Street Studio, Manchester on Sat 12 Dec.
 
@@ -21,4 +21,4 @@ Epler is a tech house and progressive house artist based in Ukraine, with 5 gigs
 
 KRÄFTY, Kid_A, Baby Rollén
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/epler/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/epler/)*

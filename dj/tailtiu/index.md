@@ -1,6 +1,6 @@
 # Tailtiu
 
-Tailtiu is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at M.O.T, London on Thu, 26 Nov 2026.
+Tailtiu is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at M.O.T, London on Thu, 26 Nov 2026.
 
 Tailtiu is a techno and tech house artist based in United Kingdom, with 8 gigs on soundcheck across Belfast, London and Madrid. Often billed alongside BRAVA, Boo and Origin. Next up: M.O.T, London on Thu 26 Nov.
 
@@ -24,4 +24,4 @@ Tailtiu is a techno and tech house artist based in United Kingdom, with 8 gigs o
 
 BRAVA, Boo, Origin
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tailtiu/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tailtiu/)*

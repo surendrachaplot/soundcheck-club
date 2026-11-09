@@ -1,6 +1,6 @@
 # Rachana
 
-Rachana is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Fri, 20 Nov 2026.
+Rachana is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Fri, 20 Nov 2026.
 
 Rachana is an ambient and experimental artist based in United States of America, with 3 gigs on soundcheck across Los Angeles and San Francisco/Oakland. Often billed alongside Buttechno, Jen Cardini and Konduku. Next up: F8 1192 Folsom, San Francisco/Oakland on Fri 20 Nov.
 
@@ -19,4 +19,4 @@ Rachana is an ambient and experimental artist based in United States of America,
 
 Buttechno, Jen Cardini, Konduku
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rachana/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rachana/)*

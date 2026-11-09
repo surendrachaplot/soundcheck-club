@@ -1,6 +1,6 @@
 # current (hiss)
 
-current (hiss) is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA, Berlin on Fri, 13 Nov 2026.
+current (hiss) is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA, Berlin on Fri, 13 Nov 2026.
 
 current (hiss) is an ambient and experimental artist, with 6 gigs on soundcheck across Berlin and Sao Paulo. Often billed alongside Justin Shaffer, Mitotili and Space Drum Meditation. Next up: TBA, Berlin on Fri 13 Nov.
 
@@ -22,4 +22,4 @@ current (hiss) is an ambient and experimental artist, with 6 gigs on soundcheck 
 
 Justin Shaffer, Mitotili, Space Drum Meditation
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/currenthiss/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/currenthiss/)*

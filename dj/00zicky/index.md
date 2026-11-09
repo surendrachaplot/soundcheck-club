@@ -1,6 +1,6 @@
 # 00Zicky
 
-00Zicky is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Tunnel, Milan on Sat, 12 Dec 2026.
+00Zicky is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Tunnel, Milan on Sat, 12 Dec 2026.
 
 00Zicky is a techno and progressive house artist, with 3 gigs on soundcheck across Milan and Turin. Often billed alongside Mario Piu, Antonio Marki and Luca Pechino. Next up: Tunnel, Milan on Sat 12 Dec.
 
@@ -19,4 +19,4 @@
 
 Mario Piu, Antonio Marki, Luca Pechino
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/00zicky/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/00zicky/)*

@@ -1,6 +1,6 @@
 # Ixindamix
 
-Ixindamix is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Near Jannowitzbrücke, Berlin on Fri, 27 Nov 2026.
+Ixindamix is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Near Jannowitzbrücke, Berlin on Fri, 27 Nov 2026.
 
 Ixindamix is a techno and acid artist based in United Kingdom, with 23 gigs on soundcheck across Berlin, Bologna, Dresden and Geneva and 8 more. Often billed alongside 69DB, SP23 and DJ Regret. Next up: TBA - Near Jannowitzbrücke, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Ixindamix is a techno and acid artist based in United Kingdom, with 23 gigs on s
 
 69DB, SP23, DJ Regret
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ixindamix/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ixindamix/)*

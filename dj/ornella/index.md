@@ -1,6 +1,6 @@
 # Ornella
 
-Ornella is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at MÄX, Zurich on Fri, 13 Nov 2026.
+Ornella is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at MÄX, Zurich on Fri, 13 Nov 2026.
 
 Ornella is a techno and trance artist based in Portugal, with 132 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 26 more. Often billed alongside Madson Carpenter, Stëh and Kobosil. Next up: MÄX, Zurich on Fri 13 Nov.
 
@@ -32,4 +32,4 @@ Ornella is a techno and trance artist based in Portugal, with 132 gigs on soundc
 
 Madson Carpenter, Stëh, Kobosil
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ornella/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ornella/)*

@@ -1,6 +1,6 @@
 # idvs
 
-idvs is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Bossa Nova Civic Club, New-york-city on Tue, 10 Nov 2026.
+idvs is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Bossa Nova Civic Club, New-york-city on Tue, 10 Nov 2026.
 
 idvs is a techno and minimal techno artist, with 3 gigs on soundcheck across New York City. Often billed alongside ABEILLE, Amado and Billy Buckets. Next up: Bossa Nova Civic Club, New York City on Tue 10 Nov.
 
@@ -19,4 +19,4 @@ idvs is a techno and minimal techno artist, with 3 gigs on soundcheck across New
 
 ABEILLE, Amado, Billy Buckets
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/idvs/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/idvs/)*

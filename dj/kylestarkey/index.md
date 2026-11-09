@@ -1,6 +1,6 @@
 # Kyle Starkey
 
-Kyle Starkey is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
+Kyle Starkey is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
 
 Kyle Starkey is a techno and house artist based in United Kingdom, with 184 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 47 more. Often billed alongside DART, Benwal and Faster Horses. Next up: The Concourse Project, Austin on Fri 13 Nov.
 
@@ -35,4 +35,4 @@ Kyle Starkey is a techno and house artist based in United Kingdom, with 184 gigs
 
 DART, Benwal, Faster Horses
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kylestarkey/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kylestarkey/)*

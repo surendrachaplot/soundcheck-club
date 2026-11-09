@@ -1,6 +1,6 @@
 # Mad Rey
 
-Mad Rey is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at FVTVR, Paris on Fri, 4 Dec 2026.
+Mad Rey is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at FVTVR, Paris on Fri, 4 Dec 2026.
 
 Mad Rey is a house and electro artist based in France, with 64 gigs on soundcheck across Amsterdam, Berlin, Geneva and Lisbon and 6 more. Often billed alongside Mézigue, GGGG and Flabaire. Next up: FVTVR, Paris on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Mad Rey is a house and electro artist based in France, with 64 gigs on soundchec
 
 Mézigue, GGGG, Flabaire
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/madrey/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/madrey/)*

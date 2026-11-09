@@ -1,14 +1,13 @@
 # Saint Nia
 
-Saint Nia is a Bass and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
+Saint Nia is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Post Bar, Helsinki on Fri, 20 Nov 2026.
 
-Saint Nia is a bass and house artist based in Finland, with 58 gigs on soundcheck across Amsterdam, Berlin, Helsinki and Milan and 2 more. Often billed alongside KOFU, DJ JVS and DJ WUF. Next up: TILLATEC, Amsterdam on Fri 6 Nov.
+Saint Nia is a bass and house artist based in Finland, with 58 gigs on soundcheck across Amsterdam, Berlin, Helsinki and Milan and 2 more. Often billed alongside KOFU, DJ JVS and DJ WUF. Next up: Post Bar, Helsinki on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | TILLATEC | Amsterdam |
 | Fri, 20 Nov 2026 | Post Bar | Helsinki |
 
 ## Recently played
@@ -26,4 +25,4 @@ Saint Nia is a bass and house artist based in Finland, with 58 gigs on soundchec
 
 KOFU, DJ JVS, DJ WUF
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saint-nia/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saint-nia/)*

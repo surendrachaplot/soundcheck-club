@@ -1,6 +1,6 @@
 # Ed Luis
 
-Ed Luis is a Electronica and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Club Cello, Basel on Sat, 19 Dec 2026.
+Ed Luis is a Electronica and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Club Cello, Basel on Sat, 19 Dec 2026.
 
 Ed Luis is an electronica and deep house artist based in Switzerland, with 3 gigs on soundcheck across Basel. Often billed alongside Pino Arduini, Blaqq & Why'd and De La Maso. Next up: Club Cello, Basel on Sat 19 Dec.
 
@@ -19,4 +19,4 @@ Ed Luis is an electronica and deep house artist based in Switzerland, with 3 gig
 
 Pino Arduini, Blaqq & Why'd, De La Maso
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edluis/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edluis/)*

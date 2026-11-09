@@ -1,6 +1,6 @@
 # Dychromatic
 
-Dychromatic is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Tresor.West, Dortmund / Essen on Sat, 19 Dec 2026.
+Dychromatic is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Tresor.West, Dortmund / Essen on Sat, 19 Dec 2026.
 
 Dychromatic is a techno and electro artist based in Ukraine, with 45 gigs on soundcheck across Berlin, Copenhagen, Dortmund / Essen and Leipzig. Often billed alongside Medea, Rostøm and Shaleen. Next up: Tresor.West, Dortmund / Essen on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Dychromatic is a techno and electro artist based in Ukraine, with 45 gigs on sou
 
 Medea, Rostøm, Shaleen
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dychromatic/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dychromatic/)*

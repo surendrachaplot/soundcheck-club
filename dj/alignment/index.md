@@ -1,6 +1,6 @@
 # Alignment
 
-Alignment is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at 74 Hall, Istanbul on Fri, 13 Nov 2026.
+Alignment is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at 74 Hall, Istanbul on Fri, 13 Nov 2026.
 
 Alignment is a techno and house artist based in Germany, with 259 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 83 more. Often billed alongside Shlømo, Basswell and DYEN. Next up: 74 Hall, Istanbul on Fri 13 Nov.
 
@@ -30,4 +30,4 @@ Alignment is a techno and house artist based in Germany, with 259 gigs on soundc
 
 Shlømo, Basswell, DYEN
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alignment/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alignment/)*

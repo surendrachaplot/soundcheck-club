@@ -1,6 +1,6 @@
 # Philo_
 
-Philo_ is a House and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Golden Pudel Club, Hamburg on Sat, 21 Nov 2026.
+Philo_ is a House and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Golden Pudel Club, Hamburg on Sat, 21 Nov 2026.
 
 Philo_ is a house and breakbeat artist based in Austria, with 21 gigs on soundcheck across Berlin, Cologne, Hamburg and Münster and 1 more. Often billed alongside KLARYOKO, Aino DJ and BØRT. Next up: Golden Pudel Club, Hamburg on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Philo_ is a house and breakbeat artist based in Austria, with 21 gigs on soundch
 
 KLARYOKO, Aino DJ, BØRT
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/philo_/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/philo_/)*

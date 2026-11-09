@@ -1,6 +1,6 @@
 # Soichi Terada
 
-Soichi Terada is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at West Harlem, Kyoto on Sat, 5 Dec 2026.
+Soichi Terada is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at West Harlem, Kyoto on Sat, 5 Dec 2026.
 
 Soichi Terada is a house and techno artist based in Japan, with 128 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 40 more. Often billed alongside Antal, SAMO (JP) and Moxie. Next up: West Harlem, Kyoto on Sat 5 Dec.
 
@@ -28,4 +28,4 @@ Soichi Terada is a house and techno artist based in Japan, with 128 gigs on soun
 
 Antal, SAMO (JP), Moxie
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soichiterada/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soichiterada/)*

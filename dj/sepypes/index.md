@@ -1,6 +1,6 @@
 # sepypes
 
-sepypes is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Gare Porto, Porto on Mon, 30 Nov 2026.
+sepypes is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Gare Porto, Porto on Mon, 30 Nov 2026.
 
 sepypes is a techno and electronica artist, with 5 gigs on soundcheck across Porto. Often billed alongside Amotik, FERRO. and Freshkitos. Next up: Gare Porto, Porto on Mon 30 Nov.
 
@@ -21,4 +21,4 @@ sepypes is a techno and electronica artist, with 5 gigs on soundcheck across Por
 
 Amotik, FERRO., Freshkitos
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sepypes/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sepypes/)*

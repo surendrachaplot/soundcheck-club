@@ -1,6 +1,6 @@
 # Recyclart
 
-Recyclart is a music venue in Brussels with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Julie Rains & friends ~ Lentement Remix Release" on Fri, 13 Nov 2026.
+Recyclart is a music venue in Brussels with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Julie Rains & friends ~ Lentement Remix Release" on Fri, 13 Nov 2026.
 
 Recyclart is a music venue in Brussels listed on soundcheck. 4 upcoming gigs, with line-ups including Bianca Scout, Binkbeats, Carrageenan and Dasha Fyah and 2 more. See dates, start times and who's playing. Rue de Manchester 13, 1080, Sint-Jans-Molenbeek, Brussels.
 
@@ -17,4 +17,4 @@ Recyclart is a music venue in Brussels listed on soundcheck. 4 upcoming gigs, wi
 
 Rue de Manchester 13, 1080, Sint-Jans-Molenbeek, Brussels, Brussels
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/recyclart/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/recyclart/)*

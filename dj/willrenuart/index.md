@@ -1,6 +1,6 @@
 # Will Renuart
 
-Will Renuart is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at The Pickle, Miami on Thu, 3 Dec 2026.
+Will Renuart is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Pickle, Miami on Thu, 3 Dec 2026.
 
 Will Renuart is a house and techno artist based in United States of America, with 25 gigs on soundcheck across Austin, Berlin, Detroit and Miami and 3 more. Often billed alongside Terence Tabeau, Danny Daze and Inbal. Next up: The Pickle, Miami on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Will Renuart is a house and techno artist based in United States of America, wit
 
 Terence Tabeau, Danny Daze, Inbal
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/willrenuart/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/willrenuart/)*

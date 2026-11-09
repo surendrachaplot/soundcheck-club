@@ -1,14 +1,13 @@
 # Devon Rexi
 
-Devon Rexi is a Dub and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
+Devon Rexi is a Dub and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The White Hotel, Manchester on Fri, 20 Nov 2026.
 
-Devon Rexi is a dub and experimental artist based in Netherlands, with 43 gigs on soundcheck across Amsterdam, Antwerp, Bergen and Berlin and 20 more. Often billed alongside John T. Gast, DJ Marcelle and Batu. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
+Devon Rexi is a dub and experimental artist based in Netherlands, with 43 gigs on soundcheck across Amsterdam, Antwerp, Bergen and Berlin and 20 more. Often billed alongside John T. Gast, DJ Marcelle and Batu. Next up: The White Hotel, Manchester on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | TivoliVredenburg | Utrecht |
 | Fri, 20 Nov 2026 | The White Hotel | Manchester |
 
 ## Recently played
@@ -26,4 +25,4 @@ Devon Rexi is a dub and experimental artist based in Netherlands, with 43 gigs o
 
 John T. Gast, DJ Marcelle, Batu
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/devonrexi/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/devonrexi/)*

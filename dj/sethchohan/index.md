@@ -1,6 +1,6 @@
 # Seth Chohan
 
-Seth Chohan is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Holding Patterns, Leeds on Fri, 27 Nov 2026.
+Seth Chohan is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Holding Patterns, Leeds on Fri, 27 Nov 2026.
 
 Seth Chohan is a house and disco artist based in United Kingdom, with 23 gigs on soundcheck across Leeds and Manchester. Often billed alongside Sam Pratt, AVIAX and Bod Min. Next up: Holding Patterns, Leeds on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Seth Chohan is a house and disco artist based in United Kingdom, with 23 gigs on
 
 Sam Pratt, AVIAX, Bod Min
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sethchohan/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sethchohan/)*

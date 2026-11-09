@@ -1,6 +1,6 @@
 # FLIN (US)
 
-FLIN (US) is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Good Room, New York City on Sun, 22 Nov 2026.
+FLIN (US) is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Good Room, New York City on Sun, 22 Nov 2026.
 
 FLIN (US) is an electronic artist, with 3 gigs on soundcheck across New York City. Often billed alongside SMURFOUDIRTY, Timo Lee and UMA DJ. Next up: Good Room, New York City on Sun 22 Nov.
 
@@ -19,4 +19,4 @@ FLIN (US) is an electronic artist, with 3 gigs on soundcheck across New York Cit
 
 SMURFOUDIRTY, Timo Lee, UMA DJ
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flynnb/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flynnb/)*

@@ -1,6 +1,6 @@
 # Gold Panda (DJ) : Free Time - Glasgow at The Berkeley Suite
 
-Gold Panda (DJ) : Free Time - Glasgow at The Berkeley Suite on Sat 6 Feb, Glasgow. 1 artist: Gold Panda. See the line-up on soundcheck.
+Gold Panda (DJ) : Free Time - Glasgow at The Berkeley Suite on Sat 6 Feb, Glasgow. 1 artist: Gold Panda. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

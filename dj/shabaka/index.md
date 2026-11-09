@@ -1,14 +1,13 @@
 # Shabaka
 
-Shabaka is a Electronica and Jazz artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
+Shabaka is a Electronica and Jazz artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Good Room, New York City on Sun, 17 Jan 2027.
 
-Shabaka is an electronica and jazz artist based in United Kingdom, with 12 gigs on soundcheck across Antwerp, Bristol, Chicago and Dublin and 7 more. Often billed alongside Arsenal Mikebe, John Glacier and Olof Dreijer. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
+Shabaka is an electronica and jazz artist based in United Kingdom, with 12 gigs on soundcheck across Antwerp, Bristol, Chicago and Dublin and 7 more. Often billed alongside Arsenal Mikebe, John Glacier and Olof Dreijer. Next up: Good Room, New York City on Sun 17 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | TivoliVredenburg | Utrecht |
 | Sun, 17 Jan 2027 | Good Room | New York City |
 
 ## Recently played
@@ -26,4 +25,4 @@ Shabaka is an electronica and jazz artist based in United Kingdom, with 12 gigs 
 
 Arsenal Mikebe, John Glacier, Olof Dreijer
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shabaka/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shabaka/)*

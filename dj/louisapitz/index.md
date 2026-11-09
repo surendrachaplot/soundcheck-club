@@ -1,6 +1,6 @@
 # Louisa Pitz
 
-Louisa Pitz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Mergener Hof, Rhineland-palatinate on Sat, 21 Nov 2026.
+Louisa Pitz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Mergener Hof, Rhineland-palatinate on Sat, 21 Nov 2026.
 
 Louisa Pitz is a techno and house artist, with 9 gigs on soundcheck across Frankfurt, Freiburg, Mannheim and Rhineland Palatinate and 1 more. Often billed alongside AKA AKA, B2 and DAHNE. Next up: Mergener Hof, Rhineland Palatinate on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Louisa Pitz is a techno and house artist, with 9 gigs on soundcheck across Frank
 
 AKA AKA, B2 (1), DAHNE
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/louisapitz/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/louisapitz/)*

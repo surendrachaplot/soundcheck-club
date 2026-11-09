@@ -1,6 +1,6 @@
 # Stratera
 
-Stratera is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Turbinenhalle, Oberhausen on Sat, 14 Nov 2026.
+Stratera is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Turbinenhalle, Oberhausen on Sat, 14 Nov 2026.
 
 Stratera is a techno and trance artist based in Austria, with 32 gigs on soundcheck across Budapest, Hamburg, Oberhausen and Sofia and 1 more. Often billed alongside TEKKNISH, IOSIO and Jubin Amiri. Next up: Turbinenhalle, Oberhausen on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Stratera is a techno and trance artist based in Austria, with 32 gigs on soundch
 
 TEKKNISH, IOSIO, Jubin Amiri
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stratera/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stratera/)*

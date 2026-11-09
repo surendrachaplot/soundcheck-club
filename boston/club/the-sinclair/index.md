@@ -1,6 +1,6 @@
 # The Sinclair
 
-The Sinclair is a music venue in Boston with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. The next is "Amtrac" on Thu, 17 Dec 2026.
+The Sinclair is a music venue in Boston with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. The next is "Amtrac" on Thu, 17 Dec 2026.
 
 The Sinclair is a music venue in Boston listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 52 Church St; Cambridge, MA 02138; USA.
 
@@ -14,4 +14,4 @@ The Sinclair is a music venue in Boston listed on soundcheck. 1 upcoming gig. Se
 
 52 Church St; Cambridge, MA 02138; USA, Boston
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/boston/club/the-sinclair/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/boston/club/the-sinclair/)*

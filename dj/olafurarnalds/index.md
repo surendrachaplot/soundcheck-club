@@ -1,6 +1,6 @@
 # Olafur Arnalds
 
-Olafur Arnalds is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at The Wiltern, Los Angeles on Fri, 13 Nov 2026.
+Olafur Arnalds is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Wiltern, Los Angeles on Fri, 13 Nov 2026.
 
 Olafur Arnalds is an electronic artist based in Iceland, with 3 gigs on soundcheck across Cologne, London and Los Angeles. Often billed alongside Janus Rasmussen, Kiasmos and Rival Consoles. Next up: The Wiltern, Los Angeles on Fri 13 Nov.
 
@@ -19,4 +19,4 @@ Olafur Arnalds is an electronic artist based in Iceland, with 3 gigs on soundche
 
 Janus Rasmussen, Kiasmos, Rival Consoles
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/olafurarnalds/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/olafurarnalds/)*

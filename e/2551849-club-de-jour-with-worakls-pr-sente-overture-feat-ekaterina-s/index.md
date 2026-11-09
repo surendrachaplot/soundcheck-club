@@ -1,6 +1,6 @@
 # CLUB DE JOUR with Worakls présente OVERTURE feat. Ekaterina Shelehova & Antonin Winter at Warehouse
 
-CLUB DE JOUR with Worakls présente OVERTURE feat. Ekaterina Shelehova & Antonin Winter at Warehouse on Sat 6 Feb, Nantes. 3 artists: Dan Bono, Quentin Schneider and Worakls. See the line-up on soundcheck.
+CLUB DE JOUR with Worakls présente OVERTURE feat. Ekaterina Shelehova & Antonin Winter at Warehouse on Sat 6 Feb, Nantes. 3 artists: Dan Bono, Quentin Schneider and Worakls. Techno and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

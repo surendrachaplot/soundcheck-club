@@ -1,8 +1,8 @@
 # NEGITIV
 
-NEGITIV is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
+NEGITIV is a Techno and Trance artist with 10 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
 
-NEGITIV is a techno and trance artist based in Germany, with 124 gigs on soundcheck across Amsterdam, Antwerp, Athens and Baden W Rttemberg and 59 more. Often billed alongside Onlynumbers, Alex Farell and Nicolas Julian. Next up: Hungexpo Budapest, Budapest on Fri 13 Nov.
+NEGITIV is a techno and trance artist based in Germany, with 125 gigs on soundcheck across Amsterdam, Antwerp, Athens and Baden W Rttemberg and 59 more. Often billed alongside Alex Farell, Onlynumbers and Nicolas Julian. Next up: Hungexpo Budapest, Budapest on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ NEGITIV is a techno and trance artist based in Germany, with 124 gigs on soundch
 | Wed, 30 Dec 2026 | Brussels Expo | Brussels |
 | Thu, 31 Dec 2026 | Hala Orion | Wroclaw |
 | Sat, 30 Jan 2027 | TBA - Genting, Malaysia | Kuala Lumpur |
+| Sat, 27 Feb 2027 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |
 
 ## Recently played
 
@@ -31,6 +32,6 @@ NEGITIV is a techno and trance artist based in Germany, with 124 gigs on soundch
 
 ## Shares bills with
 
-Onlynumbers, Alex Farell, Nicolas Julian
+Alex Farell, Onlynumbers, Nicolas Julian
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/negitiv/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/negitiv/)*

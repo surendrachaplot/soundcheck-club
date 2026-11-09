@@ -1,8 +1,8 @@
 # Luas
 
-Luas is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Last Arch, London on Sat, 30 Jan 2027.
+Luas is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Last Arch, London on Sat, 30 Jan 2027.
 
-Luas is a jungle and drum & bass artist, with 5 gigs on soundcheck across London and Rotterdam. Often billed alongside Episode Three, Apollo Navigation and Bluck. Next up: Last Arch, London on Sat 30 Jan.
+Luas is a jungle and drum & bass artist based in United Kingdom, with 5 gigs on soundcheck across London and Rotterdam. Often billed alongside Episode Three, Apollo Navigation and Bluck. Next up: Last Arch, London on Sat 30 Jan.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ Luas is a jungle and drum & bass artist, with 5 gigs on soundcheck across London
 
 Episode Three, Apollo Navigation, Bluck
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luas/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luas/)*

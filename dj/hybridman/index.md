@@ -1,6 +1,6 @@
 # Hybrid Man
 
-Hybrid Man is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Collingwood Children's Farm, Melbourne on Sat, 30 Jan 2027.
+Hybrid Man is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Collingwood Children's Farm, Melbourne on Sat, 30 Jan 2027.
 
 Hybrid Man is a techno and house artist based in Australia, with 39 gigs on soundcheck across Berlin, Birmingham, Canberra and Kyoto and 6 more. Often billed alongside Pjenné, Sleep D and Darcy Justice. Next up: Collingwood Children's Farm, Melbourne on Sat 30 Jan.
 
@@ -25,4 +25,4 @@ Hybrid Man is a techno and house artist based in Australia, with 39 gigs on soun
 
 Pjenné, Sleep D, Darcy Justice
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hybridman/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hybridman/)*

@@ -1,14 +1,15 @@
 # DJ Lee
 
-DJ Lee is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Phonox, London on Wed, 30 Dec 2026.
+DJ Lee is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Phonox, London on Wed, 30 Dec 2026.
 
-DJ Lee is a drum & bass and jungle artist based in United Kingdom, with 23 gigs on soundcheck across Bristol, Budapest, London and Paris and 2 more. Often billed alongside Need For Mirrors, Doc Scott and Mantmast. Next up: Phonox, London on Wed 30 Dec.
+DJ Lee is a drum & bass and jungle artist based in United Kingdom, with 24 gigs on soundcheck across Bristol, Budapest, London and Manchester and 3 more. Often billed alongside Need For Mirrors, Doc Scott and Mantmast. Next up: Phonox, London on Wed 30 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 30 Dec 2026 | Phonox | London |
+| Sat, 9 Jan 2027 | The Golden Lion | Manchester |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ DJ Lee is a drum & bass and jungle artist based in United Kingdom, with 23 gigs 
 
 Need For Mirrors, Doc Scott, Mantmast
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djlee/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djlee/)*

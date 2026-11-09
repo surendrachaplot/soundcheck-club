@@ -1,6 +1,6 @@
 # DJILL
 
-DJILL is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at KitKatClub, Berlin on Fri, 27 Nov 2026.
+DJILL is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at KitKatClub, Berlin on Fri, 27 Nov 2026.
 
 DJILL is a house and techno artist based in Germany, with 4 gigs on soundcheck across Berlin and Mecklenburg Vorpommern. Often billed alongside Chris Bekker, KEN (DE) and PADERKID. Next up: KitKatClub, Berlin on Fri 27 Nov.
 
@@ -20,4 +20,4 @@ DJILL is a house and techno artist based in Germany, with 4 gigs on soundcheck a
 
 Chris Bekker, KEN (DE), PADERKID
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djill/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djill/)*

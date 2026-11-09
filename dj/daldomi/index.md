@@ -1,6 +1,6 @@
 # Daldomi
 
-Daldomi is a Dub Techno and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Cadavra, Madrid on Fri, 18 Dec 2026.
+Daldomi is a Dub Techno and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Cadavra, Madrid on Fri, 18 Dec 2026.
 
 Daldomi is a dub techno and techno artist based in Spain, with 3 gigs on soundcheck across Madrid. Often billed alongside Bambi (FR), Blue Terrain and Claws. Next up: Cadavra, Madrid on Fri 18 Dec.
 
@@ -19,4 +19,4 @@ Daldomi is a dub techno and techno artist based in Spain, with 3 gigs on soundch
 
 Bambi (FR), Blue Terrain, Claws
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daldomi/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daldomi/)*

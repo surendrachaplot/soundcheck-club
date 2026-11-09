@@ -1,6 +1,6 @@
 # DUBYAH
 
-DUBYAH is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at The Clubhouse Detroit, Detroit on Fri, 20 Nov 2026.
+DUBYAH is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Clubhouse Detroit, Detroit on Fri, 20 Nov 2026.
 
 DUBYAH is a house and tech house artist based in United States of America, with 13 gigs on soundcheck across Detroit. Often billed alongside Govan Jones, K-LALA and ARCS. Next up: The Clubhouse Detroit, Detroit on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ DUBYAH is a house and tech house artist based in United States of America, with 
 
 Govan Jones, K-LALA, ARCS
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dubyah/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dubyah/)*

@@ -1,6 +1,6 @@
 # Soul Frequency
 
-Soul Frequency is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Badaboum, Paris on Tue, 10 Nov 2026.
+Soul Frequency is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Badaboum, Paris on Tue, 10 Nov 2026.
 
 Soul Frequency is a house and electronica artist based in France, with 4 gigs on soundcheck across Bordeaux and Paris. Often billed alongside Dan Shake, Danilo Plessow and Dielli. Next up: Badaboum, Paris on Tue 10 Nov.
 
@@ -20,4 +20,4 @@ Soul Frequency is a house and electronica artist based in France, with 4 gigs on
 
 Dan Shake, Danilo Plessow, Dielli
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soulfrequency/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soulfrequency/)*

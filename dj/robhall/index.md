@@ -1,6 +1,6 @@
 # Rob Hall
 
-Rob Hall is a Electronica and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at The White Hotel, Manchester on Mon, 28 Dec 2026.
+Rob Hall is a Electronica and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The White Hotel, Manchester on Mon, 28 Dec 2026.
 
 Rob Hall is an electronica and electro artist, with 4 gigs on soundcheck across Cork, Galway and Manchester. Often billed alongside SDEM, Afrodeutsche and Anodyne. Next up: The White Hotel, Manchester on Mon 28 Dec.
 
@@ -20,4 +20,4 @@ Rob Hall is an electronica and electro artist, with 4 gigs on soundcheck across 
 
 SDEM, Afrodeutsche, Anodyne
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robhall/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robhall/)*

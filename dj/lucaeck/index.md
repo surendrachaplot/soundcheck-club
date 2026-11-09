@@ -1,6 +1,6 @@
 # Luca Eck
 
-Luca Eck is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Cakeshop, Seoul on Thu, 12 Nov 2026.
+Luca Eck is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Cakeshop, Seoul on Thu, 12 Nov 2026.
 
 Luca Eck is a techno and trance artist based in Germany, with 83 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Chicago and 25 more. Often billed alongside Miss Bashful, Nur Jaber and Meg10. Next up: Cakeshop, Seoul on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Luca Eck is a techno and trance artist based in Germany, with 83 gigs on soundch
 
 Miss Bashful, Nur Jaber, Meg10
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaeck/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaeck/)*

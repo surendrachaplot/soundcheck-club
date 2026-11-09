@@ -1,6 +1,6 @@
 # Special Request
 
-Special Request is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Mdlr, Singapore on Fri, 20 Nov 2026.
+Special Request is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Mdlr, Singapore on Fri, 20 Nov 2026.
 
 Special Request is a techno and house artist based in United Kingdom, with 179 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Bali and 54 more. Often billed alongside Ewan McVicar, Goldie and SHERELLE. Next up: Mdlr, Singapore on Fri 20 Nov.
 
@@ -28,4 +28,4 @@ Special Request is a techno and house artist based in United Kingdom, with 179 g
 
 Ewan McVicar, Goldie, SHERELLE
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/specialrequest/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/specialrequest/)*

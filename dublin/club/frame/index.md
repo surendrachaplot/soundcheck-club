@@ -1,6 +1,6 @@
 # Frame
 
-Frame is a music venue in Dublin with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. The next is "Frame presents: MARRØN" on Fri, 20 Nov 2026.
+Frame is a music venue in Dublin with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. The next is "Frame presents: MARRØN" on Fri, 20 Nov 2026.
 
 Frame is a music venue in Dublin listed on soundcheck. 1 upcoming gig, with line-ups including MARRØN. See dates, start times and who's playing. 35 Lower Liffey Street, Dublin 1, D01 C3N0, Ireland.
 
@@ -14,4 +14,4 @@ Frame is a music venue in Dublin listed on soundcheck. 1 upcoming gig, with line
 
 35 Lower Liffey Street, Dublin 1, D01 C3N0, Ireland, Dublin
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/frame/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/frame/)*

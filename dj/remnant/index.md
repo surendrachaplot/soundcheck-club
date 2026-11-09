@@ -1,6 +1,6 @@
 # Remnant
 
-Remnant is a Industrial and EBM artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Tangent Gallery, Detroit on Sat, 28 Nov 2026.
+Remnant is a Industrial and EBM artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Tangent Gallery, Detroit on Sat, 28 Nov 2026.
 
 Remnant is an industrial and ebm artist based in United States of America, with 22 gigs on soundcheck across Brussels, Detroit, Los Angeles and Prague and 3 more. Often billed alongside REMNANT.exe, Djedi and Juche. Next up: Tangent Gallery, Detroit on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Remnant is an industrial and ebm artist based in United States of America, with 
 
 REMNANT.exe, Djedi, Juche
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/remnant/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/remnant/)*

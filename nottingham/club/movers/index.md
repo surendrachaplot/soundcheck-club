@@ -1,6 +1,6 @@
 # Movers
 
-Movers is a music venue in Nottingham with 18 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Brick Rhythm x UMS: House & Garage all night long" on Thu, 12 Nov 2026.
+Movers is a music venue in Nottingham with 18 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Brick Rhythm x UMS: House & Garage all night long" on Thu, 12 Nov 2026.
 
 Movers is a music venue in Nottingham listed on soundcheck. 18 upcoming gigs, with line-ups including Alex Traska, Another Place, Brawther and Crazy P and 2 more. See dates, start times and who's playing. 15 Hockley, Nottingham, NG1 1FH.
 
@@ -23,4 +23,4 @@ Movers is a music venue in Nottingham listed on soundcheck. 18 upcoming gigs, wi
 
 15 Hockley, Nottingham, NG1 1FH, Nottingham
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/movers/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/movers/)*

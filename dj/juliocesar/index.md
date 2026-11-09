@@ -1,6 +1,6 @@
 # Julio César
 
-Julio César is a Latin Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at El Pumarejo Barcelona, Barcelona on Sat, 14 Nov 2026.
+Julio César is a Latin Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at El Pumarejo Barcelona, Barcelona on Sat, 14 Nov 2026.
 
 Julio César is a latin bass and techno artist based in Mexico, with 24 gigs on soundcheck across Barcelona, Berlin, Manchester and Mexico City. Often billed alongside Tiyumii, Sofy Suars and T0M1. Next up: El Pumarejo Barcelona, Barcelona on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Julio César is a latin bass and techno artist based in Mexico, with 24 gigs on 
 
 Tiyumii, Sofy Suars, T0M1
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juliocesar/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juliocesar/)*

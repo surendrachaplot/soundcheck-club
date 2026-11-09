@@ -1,6 +1,6 @@
 # baby-g
 
-baby-g is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Madame X, New York City on Thu, 12 Nov 2026.
+baby-g is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Madame X, New York City on Thu, 12 Nov 2026.
 
 baby-g is a techno and house artist based in South Africa, with 54 gigs on soundcheck across Mexico City, New York City and Philadelphia. Often billed alongside Chillosophy, Lucia Haze and ACIDMOM. Next up: Madame X, New York City on Thu 12 Nov.
 
@@ -26,4 +26,4 @@ baby-g is a techno and house artist based in South Africa, with 54 gigs on sound
 
 Chillosophy, Lucia Haze, ACIDMOM
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baby-g/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baby-g/)*

@@ -1,6 +1,6 @@
 # Kate.Land
 
-Kate.Land is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Galaxy Bar, Christchurch on Fri, 11 Dec 2026.
+Kate.Land is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Galaxy Bar, Christchurch on Fri, 11 Dec 2026.
 
 Kate.Land is a techno and house artist based in New Zealand, with 5 gigs on soundcheck across Christchurch and New York City. Often billed alongside Keepsakes, The Rat and Alissa Brianna. Next up: Galaxy Bar, Christchurch on Fri 11 Dec.
 
@@ -21,4 +21,4 @@ Kate.Land is a techno and house artist based in New Zealand, with 5 gigs on soun
 
 Keepsakes, The Rat, Alissa Brianna
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kate.land/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kate.land/)*

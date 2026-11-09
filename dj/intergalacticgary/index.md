@@ -1,14 +1,15 @@
 # Intergalactic Gary
 
-Intergalactic Gary is a Techno and Italo Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at The Buzz, Berlin on Fri, 20 Nov 2026.
+Intergalactic Gary is a Techno and Italo Disco artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at The Buzz, Berlin on Fri, 20 Nov 2026.
 
-Intergalactic Gary is a techno and italo disco artist based in Netherlands, with 69 gigs on soundcheck across Amsterdam, Antwerp, Athens and Belgrade and 19 more. Often billed alongside I-F, Marsman and Mowgli (NL). Next up: The Buzz, Berlin on Fri 20 Nov.
+Intergalactic Gary is a techno and italo disco artist based in Netherlands, with 70 gigs on soundcheck across Amsterdam, Antwerp, Athens and Belgrade and 19 more. Often billed alongside I-F, Marsman and Mowgli (NL). Next up: The Buzz, Berlin on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | The Buzz | Berlin |
+| Sun, 6 Dec 2026 | Benelux BAR | Amsterdam |
 | Wed, 3 Mar 2027 | El Rio Hostel | Colombia |
 
 ## Recently played
@@ -26,4 +27,4 @@ Intergalactic Gary is a techno and italo disco artist based in Netherlands, with
 
 I-F, Marsman, Mowgli (NL)
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/intergalacticgary/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/intergalacticgary/)*

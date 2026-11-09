@@ -1,6 +1,6 @@
 # Sean Nolan
 
-Sean Nolan is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Colour Factory, London on Sat, 5 Dec 2026.
+Sean Nolan is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Colour Factory, London on Sat, 5 Dec 2026.
 
 Sean Nolan is a techno and house artist based in Ireland, with 4 gigs on soundcheck across London. Often billed alongside Jack Costello, Coinín Beag and DIEBYVEG. Next up: Colour Factory, London on Sat 5 Dec.
 
@@ -20,4 +20,4 @@ Sean Nolan is a techno and house artist based in Ireland, with 4 gigs on soundch
 
 Jack Costello, Coinín Beag, DIEBYVEG
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seannolan/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seannolan/)*

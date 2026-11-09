@@ -1,6 +1,6 @@
 # Festival De La House at Ausgang Plaza
 
-Festival De La House at Ausgang Plaza on Thu 3 Dec, Montreal. 11 artists: Akpossoul, Amarji King, DJ BlackGold and Ekitwanda and 7 more. House and Deep House. See the line-up on soundcheck.
+Festival De La House at Ausgang Plaza on Thu 3 Dec, Montreal. 10 artists: Akpossoul, Amarji King, DJ BlackGold and Ekitwanda and 6 more. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -20,6 +20,5 @@ Festival De La House at Ausgang Plaza on Thu 3 Dec, Montreal. 11 artists: Akposs
 - LEXI (BE)
 - Lost Heroes
 - Marvin
-- MOON
 
 *Source: [soundcheck](https://soundcheck.club/e/2579323-festival-de-la-house-at-ausgang-plaza/)*

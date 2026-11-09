@@ -1,6 +1,6 @@
 # Gabo Forero
 
-Gabo Forero is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Casa Real Getsemani Cartagena, Colombia on Sat, 14 Nov 2026.
+Gabo Forero is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Casa Real Getsemani Cartagena, Colombia on Sat, 14 Nov 2026.
 
 Gabo Forero is a house and tech house artist based in Colombia, with 126 gigs on soundcheck across Amsterdam, Barcelona, Bogotá and Colombia and 4 more. Often billed alongside Mao Loading, Caus and Memek. Next up: Casa Real Getsemani Cartagena, Colombia on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Gabo Forero is a house and tech house artist based in Colombia, with 126 gigs on
 
 Mao Loading, Caus, Memek
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gaboforero/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gaboforero/)*

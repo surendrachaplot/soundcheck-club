@@ -1,6 +1,6 @@
 # Tibotonic
 
-Tibotonic is a Funk / Soul and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Brauhaus Neulich, Berlin on Fri, 13 Nov 2026.
+Tibotonic is a Funk / Soul and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Brauhaus Neulich, Berlin on Fri, 13 Nov 2026.
 
 Tibotonic is a funk / soul and techno artist based in France, with 3 gigs on soundcheck across Berlin. Often billed alongside KLUBMATI, Anna Hoeber and Anton Quasi. Next up: Brauhaus Neulich, Berlin on Fri 13 Nov.
 
@@ -19,4 +19,4 @@ Tibotonic is a funk / soul and techno artist based in France, with 3 gigs on sou
 
 KLUBMATI, Anna Hoeber, Anton Quasi
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tibotonic/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tibotonic/)*

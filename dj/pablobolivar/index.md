@@ -1,6 +1,6 @@
 # Pablo Bolivar
 
-Pablo Bolivar is a Deep House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Sala Niagara, North on Sat, 28 Nov 2026.
+Pablo Bolivar is a Deep House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Sala Niagara, North on Sat, 28 Nov 2026.
 
 Pablo Bolivar is a deep house and electronica artist based in Spain, with 13 gigs on soundcheck across Barcelona, Budapest, Madrid and Malmo and 4 more. Often billed alongside isu, Palma Palma and Anémi. Next up: Sala Niagara, North on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Pablo Bolivar is a deep house and electronica artist based in Spain, with 13 gig
 
 isu, Palma Palma, Anémi
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pablobolivar/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pablobolivar/)*

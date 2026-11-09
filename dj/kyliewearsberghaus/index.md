@@ -1,6 +1,6 @@
 # Kylie Wears Berghaus
 
-Kylie Wears Berghaus is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Romantso, Athens on Fri, 13 Nov 2026.
+Kylie Wears Berghaus is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Romantso, Athens on Fri, 13 Nov 2026.
 
 Kylie Wears Berghaus is a techno and house artist based in United Kingdom, with 20 gigs on soundcheck across Athens, Berlin, Birmingham and Brighton and 11 more. Often billed alongside Hannah Holland, KENZA and miszo. Next up: Romantso, Athens on Fri 13 Nov.
 
@@ -29,4 +29,4 @@ Kylie Wears Berghaus is a techno and house artist based in United Kingdom, with 
 
 Hannah Holland, KENZA, miszo
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kyliewearsberghaus/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kyliewearsberghaus/)*

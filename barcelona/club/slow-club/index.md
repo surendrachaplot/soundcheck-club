@@ -1,6 +1,6 @@
 # Slow Club
 
-Slow Club is a music venue in Barcelona with 9 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Deep, Tech, House: Hermes Disco Eterno" on Thu, 12 Nov 2026.
+Slow Club is a music venue in Barcelona with 9 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Deep, Tech, House: Hermes Disco Eterno" on Thu, 12 Nov 2026.
 
 Slow Club is a music venue in Barcelona listed on soundcheck. 9 upcoming gigs, with line-ups including Frankie G, Hermes Disco Eterno, Kenzø and Navider. See dates, start times and who's playing. Carrer de París, 186, 08036 Barcelona.
 
@@ -22,4 +22,4 @@ Slow Club is a music venue in Barcelona listed on soundcheck. 9 upcoming gigs, w
 
 Carrer de París, 186, 08036 Barcelona, Barcelona
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/slow-club/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/slow-club/)*

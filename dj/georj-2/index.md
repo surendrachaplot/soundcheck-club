@@ -1,6 +1,6 @@
 # Georj (2)
 
-Georj (2) is a Jungle and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Sneaky Pete's, Edinburgh on Thu, 26 Nov 2026.
+Georj (2) is a Jungle and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Sneaky Pete's, Edinburgh on Thu, 26 Nov 2026.
 
 Georj is a jungle and bass artist based in United Kingdom, with 4 gigs on soundcheck across Edinburgh. Often billed alongside Gilbo, Texyo and billybawbags. Next up: Sneaky Pete's, Edinburgh on Thu 26 Nov.
 
@@ -20,4 +20,4 @@ Georj is a jungle and bass artist based in United Kingdom, with 4 gigs on soundc
 
 Gilbo, Texyo, billybawbags
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/georj-2/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/georj-2/)*

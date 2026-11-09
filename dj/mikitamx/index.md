@@ -1,14 +1,13 @@
 # MIKITA (MX)
 
-MIKITA (MX) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Brutal Mx, Mexico City on Sat, 7 Nov 2026.
+MIKITA (MX) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Penthouse, Mexico City on Sun, 15 Nov 2026.
 
-MIKITA (MX) is a techno and house artist based in Mexico, with 34 gigs on soundcheck across Guadalajara, Leipzig and Mexico City. Often billed alongside Portugal, Ursula Prawn and sadgal. Next up: Brutal Mx, Mexico City on Sat 7 Nov.
+MIKITA (MX) is a techno and house artist based in Mexico, with 34 gigs on soundcheck across Guadalajara, Leipzig and Mexico City. Often billed alongside Portugal, Ursula Prawn and sadgal. Next up: TBA - Penthouse, Mexico City on Sun 15 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Brutal Mx | Mexico City |
 | Sun, 15 Nov 2026 | TBA - Penthouse | Mexico City |
 
 ## Recently played
@@ -26,4 +25,4 @@ MIKITA (MX) is a techno and house artist based in Mexico, with 34 gigs on soundc
 
 Portugal, Ursula Prawn, sadgal
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikitamx/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikitamx/)*

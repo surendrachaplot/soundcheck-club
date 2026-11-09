@@ -1,6 +1,6 @@
 # DJ FERRARI
 
-DJ FERRARI is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Arche*Ahoi (Innsbruck), Austria on Fri, 13 Nov 2026.
+DJ FERRARI is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Arche*Ahoi (Innsbruck), Austria on Fri, 13 Nov 2026.
 
 DJ FERRARI is a techno and trance artist based in Austria, with 27 gigs on soundcheck across Austria, Dresden, Leipzig and Vienna. Often billed alongside presso, DJ Böhm and Dimitrios. Next up: TBA - Arche*Ahoi (Innsbruck), Austria on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ DJ FERRARI is a techno and trance artist based in Austria, with 27 gigs on sound
 
 presso, DJ Böhm, Dimitrios (2)
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djferrari/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djferrari/)*

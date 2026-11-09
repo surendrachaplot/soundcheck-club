@@ -1,6 +1,6 @@
 # kaydi
 
-kaydi is a Electro and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Indiranagar Social, Bangalore on Sat, 14 Nov 2026.
+kaydi is a Electro and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Indiranagar Social, Bangalore on Sat, 14 Nov 2026.
 
 kaydi is an electro and garage artist, with 3 gigs on soundcheck across Bangalore and Seattle. Often billed alongside Claudia LB, Felon5 and Nono Gigsta. Next up: Indiranagar Social, Bangalore on Sat 14 Nov.
 
@@ -19,4 +19,4 @@ kaydi is an electro and garage artist, with 3 gigs on soundcheck across Bangalor
 
 Claudia LB, Felon5, Nono Gigsta
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaydi/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaydi/)*

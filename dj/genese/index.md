@@ -1,6 +1,6 @@
 # Genese
 
-Genese is a Garage and UK Funky artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at The Waiting Room, London on Sat, 28 Nov 2026.
+Genese is a Garage and UK Funky artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Waiting Room, London on Sat, 28 Nov 2026.
 
 Genese is a garage and uk funky artist based in United States of America, with 9 gigs on soundcheck across London and New York City. Often billed alongside Taal, Beeches and JVXTA. Next up: The Waiting Room, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Genese is a garage and uk funky artist based in United States of America, with 9
 
 Taal, Beeches, JVXTA
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/genese/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/genese/)*

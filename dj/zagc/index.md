@@ -1,6 +1,6 @@
 # Zagc
 
-Zagc is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Podlasie Club, Chicago on Sat, 12 Dec 2026.
+Zagc is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Podlasie Club, Chicago on Sat, 12 Dec 2026.
 
 Zagc is a techno and house artist based in United States of America, with 28 gigs on soundcheck across Berlin, Chicago, Detroit and New York City and 2 more. Often billed alongside 11111111111, Miguel Cisne and Hameedullah. Next up: Podlasie Club, Chicago on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Zagc is a techno and house artist based in United States of America, with 28 gig
 
 11111111111, Miguel Cisne, Hameedullah
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zagc/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zagc/)*

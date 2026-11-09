@@ -1,6 +1,6 @@
 # Carotin
 
-Carotin is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at ://about blank, Berlin on Fri, 20 Nov 2026.
+Carotin is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at ://about blank, Berlin on Fri, 20 Nov 2026.
 
 Carotin is a techno and trance artist based in Germany, with 76 gigs on soundcheck across Berlin, Cologne, Dresden and Geneva and 3 more. Often billed alongside ELOISA, Paraçek and Palastoni. Next up: ://about blank, Berlin on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Carotin is a techno and trance artist based in Germany, with 76 gigs on soundche
 
 ELOISA, Paraçek, Palastoni
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carotin/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carotin/)*

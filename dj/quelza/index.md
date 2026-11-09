@@ -1,14 +1,13 @@
 # Quelza
 
-Quelza is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 7 Nov 2026.
+Quelza is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at essaim, Paris on Fri, 13 Nov 2026.
 
-Quelza is a techno and house artist based in France, with 248 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 76 more. Often billed alongside Freddy K, BASHKKA and Ogazón. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 7 Nov.
+Quelza is a techno and house artist based in France, with 248 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 76 more. Often billed alongside Freddy K, BASHKKA and Ogazón. Next up: essaim, Paris on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 13 Nov 2026 | essaim | Paris |
 | Sat, 14 Nov 2026 | fabric | London |
 | Sat, 21 Nov 2026 | WDM | Hannover |
@@ -33,4 +32,4 @@ Quelza is a techno and house artist based in France, with 248 gigs on soundcheck
 
 Freddy K, BASHKKA, Ogazón
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/quelza/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/quelza/)*

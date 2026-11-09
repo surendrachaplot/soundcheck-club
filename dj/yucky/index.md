@@ -1,6 +1,6 @@
 # Yucky
 
-Yucky is a Dubstep and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at nachbar, Amsterdam on Thu, 26 Nov 2026.
+Yucky is a Dubstep and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at nachbar, Amsterdam on Thu, 26 Nov 2026.
 
 Yucky is a dubstep and house artist based in Netherlands, with 46 gigs on soundcheck across Amsterdam, Rhineland Palatinate, Rotterdam and San Francisco/Oakland and 2 more. Often billed alongside Styn, A For Alpha and Koperblond. Next up: nachbar, Amsterdam on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Yucky is a dubstep and house artist based in Netherlands, with 46 gigs on soundc
 
 Styn, A For Alpha, Koperblond
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yucky/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yucky/)*

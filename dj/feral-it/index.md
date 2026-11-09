@@ -1,6 +1,6 @@
 # Feral
 
-Feral is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA, Toronto on Fri, 13 Nov 2026.
+Feral is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA, Toronto on Fri, 13 Nov 2026.
 
 Feral is a techno and electronica artist based in Italy, with 84 gigs on soundcheck across Adelaide, Amsterdam, Athens and Baltimore and 34 more. Often billed alongside Luigi Tozzi, Spekki Webu and D-Leria. Next up: TBA, Toronto on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Feral is a techno and electronica artist based in Italy, with 84 gigs on soundch
 
 Luigi Tozzi, Spekki Webu, D-Leria
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/feral-it/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/feral-it/)*

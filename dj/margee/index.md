@@ -1,6 +1,6 @@
 # Margee
 
-Margee is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Vice Versa, Paris on Fri, 27 Nov 2026.
+Margee is a House and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Vice Versa, Paris on Fri, 27 Nov 2026.
 
 Margee is a house and club artist, with 8 gigs on soundcheck across London, Montreal, New York City and Paris. Often billed alongside DJelley, Djé Djé from the block and Florent Sales. Next up: Vice Versa, Paris on Fri 27 Nov.
 
@@ -24,4 +24,4 @@ Margee is a house and club artist, with 8 gigs on soundcheck across London, Mont
 
 DJelley, Djé Djé from the block, Florent Sales
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/margee/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/margee/)*

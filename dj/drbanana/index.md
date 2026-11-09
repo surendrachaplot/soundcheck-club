@@ -1,6 +1,6 @@
 # Dr Banana
 
-Dr Banana is a House and Garage artist with 11 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Lurín live / Lima, Perú., Peru on Sat, 21 Nov 2026.
+Dr Banana is a House and Garage artist with 11 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Lurín live / Lima, Perú., Peru on Sat, 21 Nov 2026.
 
 Dr Banana is a house and garage artist based in United Kingdom, with 272 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Belfast and 52 more. Often billed alongside Laidlaw, Melody RA+RE and The Ghost. Next up: TBA - Lurín live / Lima, Perú., Peru on Sat 21 Nov.
 
@@ -35,4 +35,4 @@ Dr Banana is a house and garage artist based in United Kingdom, with 272 gigs on
 
 Laidlaw, Melody RA+RE, The Ghost
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drbanana/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drbanana/)*

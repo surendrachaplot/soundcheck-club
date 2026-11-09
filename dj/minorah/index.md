@@ -1,6 +1,6 @@
 # Minorah
 
-Minorah is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Rockstore, Montpellier on Fri, 20 Nov 2026.
+Minorah is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Rockstore, Montpellier on Fri, 20 Nov 2026.
 
 Minorah is a techno and house artist based in France, with 4 gigs on soundcheck across Lyon and Montpellier. Often billed alongside Souvnear, Aalson and Adiel. Next up: Rockstore, Montpellier on Fri 20 Nov.
 
@@ -20,4 +20,4 @@ Minorah is a techno and house artist based in France, with 4 gigs on soundcheck 
 
 Souvnear, Aalson, Adiel
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/minorah/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/minorah/)*

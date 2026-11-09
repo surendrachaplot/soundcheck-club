@@ -1,6 +1,6 @@
 # Teetee
 
-Teetee is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at The Glove That Fits, London on Fri, 20 Nov 2026.
+Teetee is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Glove That Fits, London on Fri, 20 Nov 2026.
 
 Teetee is a techno and house artist based in United Kingdom, with 24 gigs on soundcheck across Dublin, Ireland, London and Nottingham. Often billed alongside Delano (UK), Paddy Cotter and Alien Communications. Next up: The Glove That Fits, London on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Teetee is a techno and house artist based in United Kingdom, with 24 gigs on sou
 
 Delano (UK), Paddy Cotter, Alien Communications
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/teeteedj/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/teeteedj/)*

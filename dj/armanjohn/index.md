@@ -1,6 +1,6 @@
 # Arman John
 
-Arman John is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at glimmer, Hamburg on Fri, 13 Nov 2026.
+Arman John is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at glimmer, Hamburg on Fri, 13 Nov 2026.
 
 Arman John is a techno and trance artist based in Germany, with 160 gigs on soundcheck across Amsterdam, Antwerp, Basel and Belfast and 34 more. Often billed alongside Melushka, VIVUS and 5euroGoldi. Next up: glimmer, Hamburg on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Arman John is a techno and trance artist based in Germany, with 160 gigs on soun
 
 Melushka, VIVUS, 5euroGoldi
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/armanjohn/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/armanjohn/)*

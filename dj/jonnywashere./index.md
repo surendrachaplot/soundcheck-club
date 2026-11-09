@@ -1,6 +1,6 @@
 # Jonny was Here.
 
-Jonny was Here. is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at The Ulster Sports Club, Belfast on Sat, 21 Nov 2026.
+Jonny was Here. is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Ulster Sports Club, Belfast on Sat, 21 Nov 2026.
 
 Jonny was Here. is a house and deep house artist, with 4 gigs on soundcheck across Belfast and London. Often billed alongside Dejector, JENKS and Montee. Next up: The Ulster Sports Club, Belfast on Sat 21 Nov.
 
@@ -20,4 +20,4 @@ Jonny was Here. is a house and deep house artist, with 4 gigs on soundcheck acro
 
 Dejector, JENKS, Montee
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jonnywashere./)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jonnywashere./)*

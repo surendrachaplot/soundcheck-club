@@ -1,6 +1,6 @@
 # Xen Chron
 
-Xen Chron is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at P0rtal, Rhode-island on Fri, 11 Dec 2026.
+Xen Chron is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at P0rtal, Rhode-island on Fri, 11 Dec 2026.
 
 Xen Chron is a techno and bass artist based in United States of America, with 10 gigs on soundcheck across Boston, London, Madrid and Manchester and 2 more. Often billed alongside Lenore, AAKAARA and Audiofields. Next up: P0rtal, Rhode Island on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Xen Chron is a techno and bass artist based in United States of America, with 10
 
 Lenore, AAKAARA, Audiofields
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xenchron/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xenchron/)*

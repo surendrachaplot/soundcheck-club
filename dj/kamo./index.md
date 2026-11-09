@@ -1,6 +1,6 @@
 # kamo.
 
-kamo. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Lieberscholli, Munich on Sat, 28 Nov 2026.
+kamo. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Lieberscholli, Munich on Sat, 28 Nov 2026.
 
 kamo. is a techno and house artist based in Germany, with 4 gigs on soundcheck across Munich. Often billed alongside ANASTASÍA, Jeyrototo and SHAJAN. Next up: Lieberscholli, Munich on Sat 28 Nov.
 
@@ -20,4 +20,4 @@ kamo. is a techno and house artist based in Germany, with 4 gigs on soundcheck a
 
 ANASTASÍA, Jeyrototo, SHAJAN
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kamo./)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kamo./)*

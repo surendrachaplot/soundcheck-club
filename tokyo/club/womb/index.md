@@ -1,14 +1,13 @@
 # WOMB
 
-WOMB is a music venue in Tokyo with 19 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "NESTAL 14TH ANNIVERSARY K-POP NIGHT" on Sun, 8 Nov 2026.
+WOMB is a music venue in Tokyo with 18 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Asia Tech" on Tue, 10 Nov 2026.
 
-WOMB is a music venue in Tokyo listed on soundcheck. 19 upcoming gigs, with line-ups including Addiy, AHREUM, AIBA and ALEXANDER M and 2 more. See dates, start times and who's playing. 2-16 Maruyamacho Shibuya, Tokyo 150-0044 Japan.
+WOMB is a music venue in Tokyo listed on soundcheck. 18 upcoming gigs, with line-ups including Addiy, AHREUM, AIBA and ALEXANDER M and 2 more. See dates, start times and who's playing. 2-16 Maruyamacho Shibuya, Tokyo 150-0044 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 8 Nov 2026 | NESTAL 14TH ANNIVERSARY K-POP NIGHT |  |
 | Tue, 10 Nov 2026 | Asia Tech |  |
 | Wed, 11 Nov 2026 | WTW (HOUSE) | YO.AN, Youngisland |
 | Thu, 12 Nov 2026 | WTW × AFP (HOUSE / TECH HOUSE) | Dukwa, Nari (2), Sekitova |
@@ -18,9 +17,10 @@ WOMB is a music venue in Tokyo listed on soundcheck. 19 upcoming gigs, with line
 | Fri, 20 Nov 2026 | Rainbow Disco Club PRESENTS FOLD (TECHNO / HOUSE) | DJ MARIA., Haruka, James Newmarch, Kenji Takimi, Kikiorix, MAYURASHKA, Nari (2), Voicedrone |
 | Sat, 21 Nov 2026 | HOUSETRIBE (TECH HOUSE / HOUSE) | AIBA, ANZU, Addiy, CARTOON, Chika Luna, Dan Miyagishi, HiTOMi, Nausica, PUNK N MATRIX, Yamariki |
 | Sun, 22 Nov 2026 | NEWNEU. SYNAPSE. PRESENTS Joseph Capriati | ALEXANDER M, DONAES, EIGHT, Joseph Capriati, Koki Byrd, TARO TOKO, TOSHI |
+| Tue, 24 Nov 2026 | Asia Tech |  |
 
 ## Address
 
 2-16 Maruyamacho Shibuya, Tokyo 150-0044 Japan, Tokyo
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/womb/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/womb/)*

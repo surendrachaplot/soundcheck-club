@@ -1,6 +1,6 @@
 # Remain
 
-Remain is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Petit CAB, Marseille on Sun, 15 Nov 2026.
+Remain is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Petit CAB, Marseille on Sun, 15 Nov 2026.
 
 Remain is a techno and house artist based in France, with 32 gigs on soundcheck across Berlin, Estado De M Xico, Lyon and Marseille and 3 more. Often billed alongside Marc Houle, daWad and Chloé. Next up: Petit CAB, Marseille on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Remain is a techno and house artist based in France, with 32 gigs on soundcheck 
 
 Marc Houle, daWad, Chloé
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/remain/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/remain/)*

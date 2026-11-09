@@ -1,6 +1,6 @@
 # VIERZUDREI
 
-VIERZUDREI is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Das Werk, Vienna on Sat, 14 Nov 2026.
+VIERZUDREI is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Das Werk, Vienna on Sat, 14 Nov 2026.
 
 VIERZUDREI is a techno and trance artist based in Austria, with 5 gigs on soundcheck across Vienna. Often billed alongside DJ Wolle, Crystal O and DJ Böhm. Next up: Das Werk, Vienna on Sat 14 Nov.
 
@@ -21,4 +21,4 @@ VIERZUDREI is a techno and trance artist based in Austria, with 5 gigs on soundc
 
 DJ Wolle, Crystal O, DJ Böhm
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vierzudrei/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vierzudrei/)*

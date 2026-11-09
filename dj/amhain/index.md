@@ -1,6 +1,6 @@
 # Amháin
 
-Amháin is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Arts Factory Garden Bar, Byron-bay on Sat, 14 Nov 2026.
+Amháin is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Arts Factory Garden Bar, Byron-bay on Sat, 14 Nov 2026.
 
 Amháin is a progressive house and techno artist based in Ireland, with 3 gigs on soundcheck across Byron Bay and Sydney. Often billed alongside Zankee Gulati, Aaiste and Alec Falconer. Next up: Arts Factory Garden Bar, Byron Bay on Sat 14 Nov.
 
@@ -19,4 +19,4 @@ Amháin is a progressive house and techno artist based in Ireland, with 3 gigs o
 
 Zankee Gulati, Aaiste, Alec Falconer
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amhain/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amhain/)*

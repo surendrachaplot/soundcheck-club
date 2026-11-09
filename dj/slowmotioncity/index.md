@@ -1,6 +1,6 @@
 # Slow Motion City
 
-Slow Motion City is a Funk / Soul and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Koue Bokkeveld, Cape-town on Wed, 30 Dec 2026.
+Slow Motion City is a Funk / Soul and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Koue Bokkeveld, Cape-town on Wed, 30 Dec 2026.
 
 Slow Motion City is a funk / soul and techno artist, with 7 gigs on soundcheck across Cape Town. Often billed alongside Kyle Russouw, Esa and Hypoestes. Next up: TBA - Koue Bokkeveld, Cape Town on Wed 30 Dec.
 
@@ -23,4 +23,4 @@ Slow Motion City is a funk / soul and techno artist, with 7 gigs on soundcheck a
 
 Kyle Russouw, Esa, Hypoestes
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slowmotioncity/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slowmotioncity/)*

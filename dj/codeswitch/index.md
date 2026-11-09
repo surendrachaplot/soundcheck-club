@@ -1,6 +1,6 @@
 # Codeswitch
 
-Codeswitch is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Warp Shinjuku, Tokyo on Sun, 15 Nov 2026.
+Codeswitch is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Warp Shinjuku, Tokyo on Sun, 15 Nov 2026.
 
 Codeswitch is a techno and deep house artist, with 3 gigs on soundcheck across San Francisco/Oakland and Tokyo. Often billed alongside Derek Ryan, HIDRA and JustJovani. Next up: Warp Shinjuku, Tokyo on Sun 15 Nov.
 
@@ -19,4 +19,4 @@ Codeswitch is a techno and deep house artist, with 3 gigs on soundcheck across S
 
 Derek Ryan, HIDRA, JustJovani
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/codeswitch/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/codeswitch/)*

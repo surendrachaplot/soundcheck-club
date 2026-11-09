@@ -1,8 +1,8 @@
 # Troji
 
-Troji is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Mezz, Netherlands on Fri, 27 Nov 2026.
+Troji is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Mezz, Netherlands on Fri, 27 Nov 2026.
 
-Troji is an electronic artist, with 3 gigs on soundcheck across Amsterdam, Netherlands and Rotterdam. Often billed alongside WALT, Dave Clarke and GiGi FM. Next up: Mezz, Netherlands on Fri 27 Nov.
+Troji is an electronic artist based in Netherlands, with 3 gigs on soundcheck across Amsterdam, Netherlands and Rotterdam. Often billed alongside WALT, Dave Clarke and GiGi FM. Next up: Mezz, Netherlands on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -19,4 +19,4 @@ Troji is an electronic artist, with 3 gigs on soundcheck across Amsterdam, Nethe
 
 WALT (4), Dave Clarke, GiGi FM
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/troji/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/troji/)*

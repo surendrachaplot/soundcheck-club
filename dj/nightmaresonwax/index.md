@@ -1,6 +1,6 @@
 # Nightmares on Wax
 
-Nightmares on Wax is a House and Electronica artist with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - 25hours Hotel One Central, Dubai on Sat, 14 Nov 2026.
+Nightmares on Wax is a House and Electronica artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - 25hours Hotel One Central, Dubai on Sat, 14 Nov 2026.
 
 Nightmares on Wax is a house and electronica artist based in United Kingdom, with 84 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 36 more. Often billed alongside Colleen 'Cosmo' Murphy, Mr Scruff and Romare. Next up: TBA - 25hours Hotel One Central, Dubai on Sat 14 Nov.
 
@@ -28,4 +28,4 @@ Nightmares on Wax is a house and electronica artist based in United Kingdom, wit
 
 Colleen 'Cosmo' Murphy, Mr Scruff, Romare
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nightmaresonwax/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nightmaresonwax/)*

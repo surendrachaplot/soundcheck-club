@@ -1,6 +1,6 @@
 # The Chill Out Tent at Wood Street Bear
 
-The Chill Out Tent at Wood Street Bear on Sat 14 Nov, London. 1 artist: Chris Coco. Ambient and Balearic. See the line-up on soundcheck.
+The Chill Out Tent at Wood Street Bear on Sat 14 Nov, London. 1 artist: Chris Coco. Balearic and Ambient. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

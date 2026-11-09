@@ -1,6 +1,6 @@
 # Opal Sunn
 
-Opal Sunn is a House and Balearic artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Secret Location, London on Sat, 14 Nov 2026.
+Opal Sunn is a House and Balearic artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Secret Location, London on Sat, 14 Nov 2026.
 
 Opal Sunn is a house and balearic artist based in Germany, with 8 gigs on soundcheck across Barcelona, Berlin, Croatia and Ho Chi Minh City and 3 more. Often billed alongside Alex Kassian, Aurora Halal and Francesco Del Garda. Next up: Secret Location, London on Sat 14 Nov.
 
@@ -24,4 +24,4 @@ Opal Sunn is a house and balearic artist based in Germany, with 8 gigs on soundc
 
 Alex Kassian, Aurora Halal, Francesco Del Garda
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/opalsunn/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/opalsunn/)*

@@ -1,6 +1,6 @@
 # D|K|OXY
 
-D|K|OXY is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at BASIS, Utrecht on Fri, 11 Dec 2026.
+D|K|OXY is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at BASIS, Utrecht on Fri, 11 Dec 2026.
 
 D|K|OXY is a techno and industrial artist based in Ireland, with 51 gigs on soundcheck across Amsterdam, Antwerp, Belgrade and Berlin and 15 more. Often billed alongside PARAPHER, Sørenga and Bildgewalt. Next up: BASIS, Utrecht on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ D|K|OXY is a techno and industrial artist based in Ireland, with 51 gigs on soun
 
 PARAPHER, Sørenga, Bildgewalt
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dkoxy/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dkoxy/)*

@@ -1,6 +1,6 @@
 # Husa & Zeyada
 
-Husa & Zeyada is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
+Husa & Zeyada is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
 
 Husa & Zeyada are a progressive house and deep house duo based in Egypt, with 12 gigs on soundcheck across Budapest, Ibiza, London and Mexico City and 5 more. Often billed alongside Mustafa Ismaeel, Afrodite and Alex Albrecht. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Husa & Zeyada are a progressive house and deep house duo based in Egypt, with 12
 
 Mustafa Ismaeel, Afrodite (2), Alex Albrecht
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/husazeyada-2/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/husazeyada-2/)*

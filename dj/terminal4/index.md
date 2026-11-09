@@ -1,6 +1,6 @@
 # TERMINAL 4
 
-TERMINAL 4 is a Afro House and Amapiano artist with 6 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Egg London, London on Sat, 14 Nov 2026.
+TERMINAL 4 is a Afro House and Amapiano artist with 6 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Egg London, London on Sat, 14 Nov 2026.
 
 TERMINAL 4 is an afro house and amapiano artist based in United Kingdom, with 10 gigs on soundcheck across London and Midlands. Often billed alongside Supa D, DJ Majesty and Shenin Amara. Next up: Egg London, London on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ TERMINAL 4 is an afro house and amapiano artist based in United Kingdom, with 10
 
 Supa D, DJ Majesty, Shenin Amara
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/terminal4/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/terminal4/)*

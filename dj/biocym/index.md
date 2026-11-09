@@ -1,6 +1,6 @@
 # Biocym
 
-Biocym is a Techno and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at DURO, Milan on Fri, 20 Nov 2026.
+Biocym is a Techno and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at DURO, Milan on Fri, 20 Nov 2026.
 
 Biocym is a techno and italo disco artist based in Italy, with 31 gigs on soundcheck across Amsterdam, Berlin, Bologna and Budapest and 10 more. Often billed alongside LUCE (IT), Known Artist and ARMANDO. Next up: DURO, Milan on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Biocym is a techno and italo disco artist based in Italy, with 31 gigs on soundc
 
 LUCE (IT), Known Artist, ARMANDO
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/biocym/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/biocym/)*

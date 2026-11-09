@@ -1,6 +1,6 @@
 # KISEWA
 
-KISEWA is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Cakeshop, Seoul on Fri, 20 Nov 2026.
+KISEWA is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Cakeshop, Seoul on Fri, 20 Nov 2026.
 
 KISEWA is a club and bass artist based in South Korea, with 114 gigs on soundcheck across Bali, Seoul, Shanghai and Taipei and 1 more. Often billed alongside Kitty, Ligrye and NET GALA. Next up: Cakeshop, Seoul on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ KISEWA is a club and bass artist based in South Korea, with 114 gigs on soundche
 
 Kitty, Ligrye, NET GALA
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kisewa/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kisewa/)*

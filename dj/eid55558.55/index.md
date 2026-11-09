@@ -1,6 +1,6 @@
 # eid55558.55
 
-eid55558.55 is a Bass and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at RSO.BERLIN, Berlin on Sat, 23 Jan 2027.
+eid55558.55 is a Bass and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at RSO.BERLIN, Berlin on Sat, 23 Jan 2027.
 
 eid55558.55 is a bass and hardcore artist, with 3 gigs on soundcheck across Beijing, Berlin and Shanghai. Often billed alongside ABADIR, DISCIPLINE and Darcy. Next up: RSO.BERLIN, Berlin on Sat 23 Jan.
 
@@ -19,4 +19,4 @@ eid55558.55 is a bass and hardcore artist, with 3 gigs on soundcheck across Beij
 
 ABADIR, DISCIPLINE, Darcy
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eid55558.55/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eid55558.55/)*

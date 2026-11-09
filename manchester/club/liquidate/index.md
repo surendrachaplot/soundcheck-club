@@ -1,6 +1,6 @@
 # Liquidate
 
-Liquidate is a music venue in Manchester with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Liquid Reggae" on Fri, 13 Nov 2026.
+Liquidate is a music venue in Manchester with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Liquid Reggae" on Fri, 13 Nov 2026.
 
 Liquidate is a music venue in Manchester listed on soundcheck. 3 upcoming gigs, with line-ups including Selecta Shaun. See dates, start times and who's playing. 855 Stockport road.
 
@@ -16,4 +16,4 @@ Liquidate is a music venue in Manchester listed on soundcheck. 3 upcoming gigs, 
 
 855 Stockport road, Manchester
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/liquidate/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/liquidate/)*

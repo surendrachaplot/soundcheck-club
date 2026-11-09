@@ -1,6 +1,6 @@
 # Hibiya Line
 
-Hibiya Line is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Le Café des Stagiaires Saigon, Ho Chi Minh City on Sat, 28 Nov 2026.
+Hibiya Line is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Le Café des Stagiaires Saigon, Ho Chi Minh City on Sat, 28 Nov 2026.
 
 Hibiya Line is a house and techno artist based in Vietnam, with 101 gigs on soundcheck across Bangkok, Hanoi, Ho Chi Minh City and Hong Kong and 3 more. Often billed alongside YOKOSUN, Dan Lo and Park:ING. Next up: Le Café des Stagiaires Saigon, Ho Chi Minh City on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Hibiya Line is a house and techno artist based in Vietnam, with 101 gigs on soun
 
 YOKOSUN, Dan Lo, Park:ING
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hibiyaline/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hibiyaline/)*

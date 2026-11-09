@@ -1,6 +1,6 @@
 # Viennaus
 
-Viennaus is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at underiolo, Warsaw on Tue, 10 Nov 2026.
+Viennaus is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at underiolo, Warsaw on Tue, 10 Nov 2026.
 
 Viennaus is a techno and house artist based in Poland, with 29 gigs on soundcheck across Krakow, Poznan, Warsaw and Wroclaw. Often billed alongside Dedenia, Edvvin and Mohji. Next up: underiolo, Warsaw on Tue 10 Nov.
 
@@ -25,4 +25,4 @@ Viennaus is a techno and house artist based in Poland, with 29 gigs on soundchec
 
 Dedenia, Edvvin, Mohji
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/viennaus/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/viennaus/)*

@@ -1,6 +1,6 @@
 # Kim April
 
-Kim April is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Apophis Club, Milan on Sat, 28 Nov 2026.
+Kim April is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Apophis Club, Milan on Sat, 28 Nov 2026.
 
 Kim April is a house and tech house artist based in Netherlands, with 96 gigs on soundcheck across Amsterdam, Barcelona, Dubai and Hannover and 8 more. Often billed alongside Sidney Charles, ELVI (SE) and Job de Jong. Next up: Apophis Club, Milan on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Kim April is a house and tech house artist based in Netherlands, with 96 gigs on
 
 Sidney Charles, ELVI (SE), Job de Jong
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kimapril/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kimapril/)*

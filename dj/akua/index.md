@@ -1,6 +1,6 @@
 # Akua
 
-Akua is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at La Machine Du Moulin Rouge, Paris on Fri, 13 Nov 2026.
+Akua is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at La Machine Du Moulin Rouge, Paris on Fri, 13 Nov 2026.
 
 Akua is a techno and house artist based in United States of America, with 230 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 59 more. Often billed alongside 1morning, Freddy K and Rødhåd. Next up: La Machine Du Moulin Rouge, Paris on Fri 13 Nov.
 
@@ -31,4 +31,4 @@ Akua is a techno and house artist based in United States of America, with 230 gi
 
 1morning, Freddy K, Rødhåd
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akua/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akua/)*

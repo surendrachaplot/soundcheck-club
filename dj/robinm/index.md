@@ -1,6 +1,6 @@
 # Robin M
 
-Robin M is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Qube Elephant & Castle, London on Sat, 14 Nov 2026.
+Robin M is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Qube Elephant & Castle, London on Sat, 14 Nov 2026.
 
 Robin M is a house and afro house artist based in United Kingdom, with 26 gigs on soundcheck across Ibiza, London and San Francisco/Oakland. Often billed alongside Jeremiah Asiamah, Bedouin and L.A. Dave. Next up: Qube Elephant & Castle, London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Robin M is a house and afro house artist based in United Kingdom, with 26 gigs o
 
 Jeremiah Asiamah, Bedouin, L.A. Dave
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robinm/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robinm/)*

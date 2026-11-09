@@ -1,6 +1,6 @@
 # Sir Alex
 
-Sir Alex is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Nude Bucharest, Bucharest on Sat, 14 Nov 2026.
+Sir Alex is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Nude Bucharest, Bucharest on Sat, 14 Nov 2026.
 
 Sir Alex is a tech house and house artist, with 5 gigs on soundcheck across Bucharest. Often billed alongside Manolaco, Aleksan'dru and Alexander Fabyann. Next up: Nude Bucharest, Bucharest on Sat 14 Nov.
 
@@ -21,4 +21,4 @@ Sir Alex is a tech house and house artist, with 5 gigs on soundcheck across Buch
 
 Manolaco, Aleksan'dru, Alexander Fabyann
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/siralex/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/siralex/)*

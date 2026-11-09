@@ -1,6 +1,6 @@
 # Creatura
 
-Creatura is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - VANCOUVER, Vancouver on Sat, 28 Nov 2026.
+Creatura is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - VANCOUVER, Vancouver on Sat, 28 Nov 2026.
 
 Creatura is a bass and dubstep artist based in Canada, with 9 gigs on soundcheck across Berlin, Toronto and Vancouver. Often billed alongside DEMEANOR, Kasey Riot and Larhythmix. Next up: TBA - VANCOUVER, Vancouver on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Creatura is a bass and dubstep artist based in Canada, with 9 gigs on soundcheck
 
 DEMEANOR, Kasey Riot, Larhythmix
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/creatura/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/creatura/)*

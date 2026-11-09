@@ -1,6 +1,6 @@
 # METAFIZIQ: BEYOND DISTANCE III — NO RETURN - DRUM & BASS NIGHT at Mixtape 5
 
-METAFIZIQ: BEYOND DISTANCE III — NO RETURN - DRUM & BASS NIGHT at Mixtape 5 on Fri 27 Nov, Sofia. 1 artist: Ogonek. See the line-up on soundcheck.
+METAFIZIQ: BEYOND DISTANCE III — NO RETURN - DRUM & BASS NIGHT at Mixtape 5 on Fri 27 Nov, Sofia. 1 artist: Ogonek. Drum & Bass and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

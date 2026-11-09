@@ -1,6 +1,6 @@
 # Zellers
 
-Zellers is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Rhythm, Toronto on Wed, 18 Nov 2026.
+Zellers is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Rhythm, Toronto on Wed, 18 Nov 2026.
 
 Zellers is a techno and house artist based in Canada, with 72 gigs on soundcheck across Montreal, New York City and Toronto. Often billed alongside Marnigurl, Jaw Jones and DJ RATA. Next up: Rhythm, Toronto on Wed 18 Nov.
 
@@ -27,4 +27,4 @@ Zellers is a techno and house artist based in Canada, with 72 gigs on soundcheck
 
 Marnigurl, Jaw Jones, DJ RATA
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zellers/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zellers/)*

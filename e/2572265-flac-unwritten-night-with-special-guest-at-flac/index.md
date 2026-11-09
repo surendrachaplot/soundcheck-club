@@ -1,6 +1,6 @@
 # Flac: Unwritten Night with special Guest at Flac
 
-Flac: Unwritten Night with special Guest on Sat 19 Dec, Seoul. Tech House. See the line-up on soundcheck.
+Flac: Unwritten Night with special Guest on Sat 19 Dec, Seoul. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

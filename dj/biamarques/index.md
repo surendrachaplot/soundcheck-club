@@ -1,6 +1,6 @@
 # Bia Marques
 
-Bia Marques is a Baile Funk and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Rua da Conceição 168, Rio de Janeiro on Sat, 14 Nov 2026.
+Bia Marques is a Baile Funk and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Rua da Conceição 168, Rio de Janeiro on Sat, 14 Nov 2026.
 
 Bia Marques is a baile funk and hip-hop artist based in Brazil, with 57 gigs on soundcheck across Leeds, London, Manchester and Milan and 3 more. Often billed alongside LETGABS, Daviaa and LOELASH. Next up: TBA - Rua da Conceição 168, Rio de Janeiro on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Bia Marques is a baile funk and hip-hop artist based in Brazil, with 57 gigs on 
 
 LETGABS, Daviaa, LOELASH
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/biamarques/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/biamarques/)*

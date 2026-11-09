@@ -1,6 +1,6 @@
 # Samid
 
-Samid is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Tunnel Club, Pereira on Sat, 28 Nov 2026.
+Samid is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Tunnel Club, Pereira on Sat, 28 Nov 2026.
 
 Samid is a house and minimal artist based in Colombia, with 8 gigs on soundcheck across Bogotá, Medellin and Pereira. Often billed alongside Bettels, Febe and Moscofly. Next up: Tunnel Club, Pereira on Sat 28 Nov.
 
@@ -24,4 +24,4 @@ Samid is a house and minimal artist based in Colombia, with 8 gigs on soundcheck
 
 Bettels, Febe, Moscofly
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samid/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samid/)*

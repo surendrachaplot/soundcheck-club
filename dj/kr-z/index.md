@@ -1,6 +1,6 @@
 # Kr!z
 
-Kr!z is a Techno and Acid artist with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 5 Dec 2026.
+Kr!z is a Techno and Acid artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 5 Dec 2026.
 
 Kr!z is a techno and acid artist based in Belgium, with 120 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 36 more. Often billed alongside Phara, Border One and Marie-Julie. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 5 Dec.
 
@@ -28,4 +28,4 @@ Kr!z is a techno and acid artist based in Belgium, with 120 gigs on soundcheck a
 
 Phara, Border One, Marie-Julie
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kr-z/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kr-z/)*

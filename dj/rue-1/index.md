@@ -1,6 +1,6 @@
 # RUE (1)
 
-RUE (1) is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at UNDERCITY, Seoul on Fri, 13 Nov 2026.
+RUE (1) is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at UNDERCITY, Seoul on Fri, 13 Nov 2026.
 
 RUE is a club and techno artist, with 4 gigs on soundcheck across Melbourne and Seoul. Often billed alongside Connor Graham, AEIDA and CREAM. Next up: UNDERCITY, Seoul on Fri 13 Nov.
 
@@ -20,4 +20,4 @@ RUE is a club and techno artist, with 4 gigs on soundcheck across Melbourne and 
 
 Connor Graham, AEIDA, CREAM (2)
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rue-1/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rue-1/)*

@@ -1,6 +1,6 @@
 # notn4u
 
-notn4u is a Ghetto Tech and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Mashroom, Krakow on Sat, 28 Nov 2026.
+notn4u is a Ghetto Tech and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Mashroom, Krakow on Sat, 28 Nov 2026.
 
 notn4u is a ghetto tech and house artist based in Belarus, with 16 gigs on soundcheck across Krakow. Often billed alongside godemodegame, Aim Ana and Nadezh No. Next up: Mashroom, Krakow on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ notn4u is a ghetto tech and house artist based in Belarus, with 16 gigs on sound
 
 godemodegame, Aim Ana, Nadezh No
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/notn4u/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/notn4u/)*

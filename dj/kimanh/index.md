@@ -1,14 +1,13 @@
 # Kim Anh
 
-Kim Anh is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Refuge, New York City on Sat, 7 Nov 2026.
+Kim Anh is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - 1 INGRAHAM ST, New York City on Sat, 21 Nov 2026.
 
-Kim Anh is a house and disco artist based in United States of America, with 133 gigs on soundcheck across Atlanta, Barcelona, Berlin and Detroit and 11 more. Often billed alongside Eli Escobar, The Carry Nation and Mike Servito. Next up: Refuge, New York City on Sat 7 Nov.
+Kim Anh is a house and disco artist based in United States of America, with 133 gigs on soundcheck across Atlanta, Barcelona, Berlin and Detroit and 11 more. Often billed alongside Eli Escobar, The Carry Nation and Mike Servito. Next up: TBA - 1 INGRAHAM ST, New York City on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Refuge | New York City |
 | Sat, 21 Nov 2026 | TBA - 1 INGRAHAM ST | New York City |
 
 ## Recently played
@@ -26,4 +25,4 @@ Kim Anh is a house and disco artist based in United States of America, with 133 
 
 Eli Escobar, The Carry Nation, Mike Servito
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kimanh/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kimanh/)*

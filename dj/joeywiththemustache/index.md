@@ -1,13 +1,14 @@
 # Joey with the Mustache
 
-Joey with the Mustache is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Mantamar Beach Club, Puerto-vallarta on Thu, 11 Mar 2027.
+Joey with the Mustache is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA, Mexico City on Sat, 6 Feb 2027.
 
-Joey with the Mustache is a house and disco artist based in United States of America, with 19 gigs on soundcheck across Bogotá, Chicago, Mexico City and New York City and 1 more. Often billed alongside Drew Baker, Grant Tyler and Aspirin. Next up: Mantamar Beach Club, Puerto Vallarta on Thu 11 Mar.
+Joey with the Mustache is a house and techno artist based in United States of America, with 20 gigs on soundcheck across Bogotá, Chicago, Mexico City and New York City and 1 more. Often billed alongside Drew Baker, Grant Tyler and Aspirin. Next up: TBA, Mexico City on Sat 6 Feb.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 6 Feb 2027 | TBA | Mexico City |
 | Thu, 11 Mar 2027 | Mantamar Beach Club | Puerto-vallarta |
 
 ## Recently played
@@ -25,4 +26,4 @@ Joey with the Mustache is a house and disco artist based in United States of Ame
 
 Drew Baker, Grant Tyler, Aspirin
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joeywiththemustache/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joeywiththemustache/)*

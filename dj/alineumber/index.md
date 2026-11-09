@@ -1,14 +1,13 @@
 # Aline Umber
 
-Aline Umber is a House and Minimal artist with 5 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
+Aline Umber is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Frankhan Selectist, Istanbul on Sat, 14 Nov 2026.
 
-Aline Umber is a house and minimal artist based in France, with 113 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 28 more. Often billed alongside Maxime dB, Krol and Tomas Station. Next up: One Resort, Tunisia on Thu 5 Nov.
+Aline Umber is a house and minimal artist based in France, with 113 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 28 more. Often billed alongside Maxime dB, Krol and Tomas Station. Next up: Frankhan Selectist, Istanbul on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | One Resort | Tunisia |
 | Sat, 14 Nov 2026 | Frankhan Selectist | Istanbul |
 | Sat, 28 Nov 2026 | TBA - Estadio Fray Nano  | Mexico City |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
@@ -29,4 +28,4 @@ Aline Umber is a house and minimal artist based in France, with 113 gigs on soun
 
 Maxime dB, Krol, Tomas Station
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alineumber/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alineumber/)*

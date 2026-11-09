@@ -1,14 +1,13 @@
 # Philippa Pacho
 
-Philippa Pacho is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 7 Nov 2026.
+Philippa Pacho is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Poolen, Copenhagen on Fri, 13 Nov 2026.
 
-Philippa Pacho is a techno and house artist based in Sweden, with 274 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bangkok and 82 more. Often billed alongside Blue Hour, Fadi Mohem and Rene Wise. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 7 Nov.
+Philippa Pacho is a techno and house artist based in Sweden, with 274 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bangkok and 82 more. Often billed alongside Blue Hour, Fadi Mohem and Rene Wise. Next up: Poolen, Copenhagen on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 13 Nov 2026 | Poolen | Copenhagen |
 | Sat, 14 Nov 2026 | Under Bron | Stockholm |
 | Fri, 20 Nov 2026 | Tuff Club | Singapore |
@@ -35,4 +34,4 @@ Philippa Pacho is a techno and house artist based in Sweden, with 274 gigs on so
 
 Blue Hour, Fadi Mohem, Rene Wise
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/philippapacho/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/philippapacho/)*

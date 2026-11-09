@@ -1,6 +1,6 @@
 # Day Out of Time
 
-Day Out of Time is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Baiúca DJ Bar, Rio de Janeiro on Thu, 19 Nov 2026.
+Day Out of Time is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Baiúca DJ Bar, Rio de Janeiro on Thu, 19 Nov 2026.
 
 Day Out of Time is a house and deep house artist, with 3 gigs on soundcheck across Lisbon and Rio de Janeiro. Often billed alongside Ashibah, Awka and Marie Bouret. Next up: Baiúca DJ Bar, Rio de Janeiro on Thu 19 Nov.
 
@@ -19,4 +19,4 @@ Day Out of Time is a house and deep house artist, with 3 gigs on soundcheck acro
 
 Ashibah, Awka, Marie Bouret
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dayoutoftime/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dayoutoftime/)*

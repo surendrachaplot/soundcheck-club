@@ -1,14 +1,13 @@
 # Fantastic Man
 
-Fantastic Man is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 7 Nov 2026.
+Fantastic Man is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
 
-Fantastic Man is a house and techno artist, with 147 gigs on soundcheck across Adelaide, Amsterdam, Bali and Bangkok and 50 more. Often billed alongside Tornado Wallace, Alex Kassian and Andy Hart. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 7 Nov.
+Fantastic Man is a house and techno artist, with 147 gigs on soundcheck across Adelaide, Amsterdam, Bali and Bangkok and 50 more. Often billed alongside Tornado Wallace, Alex Kassian and Andy Hart. Next up: The Wildlands, Melbourne on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 
 ## Recently played
@@ -26,4 +25,4 @@ Fantastic Man is a house and techno artist, with 147 gigs on soundcheck across A
 
 Tornado Wallace, Alex Kassian, Andy Hart
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fantasticman/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fantasticman/)*

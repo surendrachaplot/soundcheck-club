@@ -1,6 +1,6 @@
 # D. Tiffany
 
-D. Tiffany is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA, Vancouver on Sat, 26 Dec 2026.
+D. Tiffany is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA, Vancouver on Sat, 26 Dec 2026.
 
 D. Tiffany is a techno and house artist based in Canada, with 198 gigs on soundcheck across Adelaide, Amsterdam, Athens and Austin and 59 more. Often billed alongside Roza Terenzi, Regularfantasy and Job Jobse. Next up: TBA, Vancouver on Sat 26 Dec.
 
@@ -26,4 +26,4 @@ D. Tiffany is a techno and house artist based in Canada, with 198 gigs on soundc
 
 Roza Terenzi, Regularfantasy, Job Jobse
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/d.tiffany/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/d.tiffany/)*

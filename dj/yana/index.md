@@ -1,6 +1,6 @@
 # YANA
 
-YANA is a Hip-Hop and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Treefort Music Hall, Idaho on Wed, 31 Mar 2027.
+YANA is a Hip-Hop and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Treefort Music Hall, Idaho on Wed, 31 Mar 2027.
 
 YANA is a hip-hop and tech house artist based in Germany, with 20 gigs on soundcheck across Berlin, Idaho, Sofia and Tokyo. Often billed alongside ATAMI, DA BOOK and DJ B2B. Next up: Treefort Music Hall, Idaho on Wed 31 Mar.
 
@@ -25,4 +25,4 @@ YANA is a hip-hop and tech house artist based in Germany, with 20 gigs on soundc
 
 ATAMI, DA BOOK, DJ B2B
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yana/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yana/)*

@@ -1,14 +1,13 @@
 # Biltmore Cabaret
 
-Biltmore Cabaret is a music venue in Vancouver with 15 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Devours (Live) with shyperv" on Sun, 8 Nov 2026.
+Biltmore Cabaret is a music venue in Vancouver with 14 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Ravefurrest x Impact! - Vancouver" on Sat, 14 Nov 2026.
 
-Biltmore Cabaret is a music venue in Vancouver listed on soundcheck. 15 upcoming gigs, with line-ups including Afrooz, Altinbas, Angel Science and Beiti and 2 more. See dates, start times and who's playing. 395 Kingsway; Vancouver, BC V5T 3J5; Canada.
+Biltmore Cabaret is a music venue in Vancouver listed on soundcheck. 14 upcoming gigs, with line-ups including Afrooz, Altinbas, Angel Science and Beiti and 2 more. See dates, start times and who's playing. 395 Kingsway; Vancouver, BC V5T 3J5; Canada.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 8 Nov 2026 | Devours (Live) with shyperv |  |
 | Sat, 14 Nov 2026 | Ravefurrest x Impact! - Vancouver | Demifiend, EtOH, TR4CK ID? |
 | Sat, 21 Nov 2026 | Stamina presents: Neel (Spazio Disponible) with ephemeral objects & LVT | LVT, Neel, ephemeral objects |
 | Thu, 3 Dec 2026 | SUB ZERO Festival: Ciel with Lerma & xtine | Ciel, Lerma, xtine |
@@ -18,9 +17,10 @@ Biltmore Cabaret is a music venue in Vancouver listed on soundcheck. 15 upcoming
 | Thu, 10 Dec 2026 | SUB ZERO Festival: zi! with Njoki Njoki & Dairy Free | Dairy Free, Njoki Njoki, zi! |
 | Fri, 11 Dec 2026 | SUB ZERO Festival: Bergsonist with Afrooz & Ian Prentice | Afrooz, Bergsonist |
 | Sat, 12 Dec 2026 | SUB ZERO Festival: Vera Logdanidi with Overland & Slim J | Overland, Slim J (2), Vera Logdanidi |
+| Sun, 13 Dec 2026 | SUB ZERO Festival: Uun (Live) with DJ Hockey & La Vie Ténébreuse | DJ Hockey, LVT, Uun |
 
 ## Address
 
 395 Kingsway; Vancouver, BC V5T 3J5; Canada, Vancouver
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/biltmore-cabaret/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/biltmore-cabaret/)*

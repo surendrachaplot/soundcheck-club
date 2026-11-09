@@ -1,6 +1,6 @@
 # Matteo Canori
 
-Matteo Canori is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Soap House - Ex Saponerie Mira Lanza, Rome on Sat, 21 Nov 2026.
+Matteo Canori is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Soap House - Ex Saponerie Mira Lanza, Rome on Sat, 21 Nov 2026.
 
 Matteo Canori is a house and electronica artist based in Italy, with 11 gigs on soundcheck across London and Rome. Often billed alongside Mordak, Petra and Nadir. Next up: Soap House - Ex Saponerie Mira Lanza, Rome on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Matteo Canori is a house and electronica artist based in Italy, with 11 gigs on 
 
 Mordak, Petra (4), Nadir
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matteocanori/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matteocanori/)*

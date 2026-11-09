@@ -1,6 +1,6 @@
 # Nile Rodgers
 
-Nile Rodgers is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Clifton Downs, Bristol on Sun, 8 Aug 2027.
+Nile Rodgers is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Clifton Downs, Bristol on Sun, 8 Aug 2027.
 
 Nile Rodgers is a house and disco artist based in United States of America, with 3 gigs on soundcheck across Bristol and London. Often billed alongside CHIC, Cerrone and Dimitri From Paris. Next up: Clifton Downs, Bristol on Sun 8 Aug.
 
@@ -19,4 +19,4 @@ Nile Rodgers is a house and disco artist based in United States of America, with
 
 CHIC, Cerrone, Dimitri From Paris
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nilerodgers/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nilerodgers/)*

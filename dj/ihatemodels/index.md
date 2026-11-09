@@ -1,6 +1,6 @@
 # I Hate Models
 
-I Hate Models is a Techno and House artist with 17 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - International Center - 6900 Airport Road, Toronto on Fri, 13 Nov 2026.
+I Hate Models is a Techno and House artist with 17 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - International Center - 6900 Airport Road, Toronto on Fri, 13 Nov 2026.
 
 I Hate Models is a techno and house artist based in France, with 330 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Argentina and 95 more. Often billed alongside 999999999, Nico Moreno and Charlie Sparks. Next up: TBA - International Center - 6900 Airport Road, Toronto on Fri 13 Nov.
 
@@ -36,4 +36,4 @@ I Hate Models is a techno and house artist based in France, with 330 gigs on sou
 
 999999999, Nico Moreno, Charlie Sparks
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ihatemodels/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ihatemodels/)*

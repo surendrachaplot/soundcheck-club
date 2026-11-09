@@ -1,6 +1,6 @@
 # AIRGLO
 
-AIRGLO is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Lunchbox, Atlanta on Sun, 13 Dec 2026.
+AIRGLO is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Lunchbox, Atlanta on Sun, 13 Dec 2026.
 
 AIRGLO is a drum & bass and jungle artist based in United States of America, with 3 gigs on soundcheck across Atlanta, Phoenix and San Francisco/Oakland. Often billed alongside Aries, Audio and Crissy Criss. Next up: Lunchbox, Atlanta on Sun 13 Dec.
 
@@ -19,4 +19,4 @@ AIRGLO is a drum & bass and jungle artist based in United States of America, wit
 
 Aries, Audio, Crissy Criss
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/airglo/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/airglo/)*

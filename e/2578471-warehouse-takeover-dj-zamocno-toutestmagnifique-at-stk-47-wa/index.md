@@ -1,6 +1,6 @@
 # WAREHOUSE TAKEOVER: DJ ZAMOCNO & toutestmagnifique at STK 47 WAREHOUSE
 
-WAREHOUSE TAKEOVER: DJ ZAMOCNO & toutestmagnifique at STK 47 WAREHOUSE on Sat 14 Nov, Krakow. 2 artists: BOM83L and toutestmagnifique. Techno. See the line-up on soundcheck.
+WAREHOUSE TAKEOVER: DJ ZAMOCNO & toutestmagnifique at STK 47 WAREHOUSE on Sat 14 Nov, Krakow. 3 artists: BOM83L, dj.zamocno and toutestmagnifique. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ WAREHOUSE TAKEOVER: DJ ZAMOCNO & toutestmagnifique at STK 47 WAREHOUSE on Sat 14
 ## Line-up
 
 - BOM83L
+- dj.zamocno
 - toutestmagnifique
 
 *Source: [soundcheck](https://soundcheck.club/e/2578471-warehouse-takeover-dj-zamocno-toutestmagnifique-at-stk-47-wa/)*

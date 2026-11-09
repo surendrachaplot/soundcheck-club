@@ -1,6 +1,6 @@
 # Youngisland
 
-Youngisland is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at WOMB, Tokyo on Wed, 11 Nov 2026.
+Youngisland is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at WOMB, Tokyo on Wed, 11 Nov 2026.
 
 Youngisland is a house and disco artist based in South Korea, with 168 gigs on soundcheck across Seoul and Tokyo. Often billed alongside Cityboy from Seoul, Joshüa and Gio (KR). Next up: WOMB, Tokyo on Wed 11 Nov.
 
@@ -25,4 +25,4 @@ Youngisland is a house and disco artist based in South Korea, with 168 gigs on s
 
 Cityboy from Seoul, Joshüa, Gio (KR)
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/youngisland/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/youngisland/)*

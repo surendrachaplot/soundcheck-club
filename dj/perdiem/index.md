@@ -1,6 +1,6 @@
 # Perdiem
 
-Perdiem is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Two More Years, London on Sat, 12 Dec 2026.
+Perdiem is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Two More Years, London on Sat, 12 Dec 2026.
 
 Perdiem is a disco and house artist based in United Kingdom, with 14 gigs on soundcheck across London. Often billed alongside Late Night Disco, Another George and Haruka. Next up: Two More Years, London on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Perdiem is a disco and house artist based in United Kingdom, with 14 gigs on sou
 
 Late Night Disco, Another George, Haruka
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/perdiem/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/perdiem/)*

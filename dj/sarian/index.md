@@ -1,6 +1,6 @@
 # SARIAN
 
-SARIAN is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at ÆDEN, Berlin on Fri, 27 Nov 2026.
+SARIAN is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at ÆDEN, Berlin on Fri, 27 Nov 2026.
 
 SARIAN is a techno and trance artist based in Germany, with 5 gigs on soundcheck across Berlin and Mexico City. Often billed alongside Edgar Os, futurristic and 4NOUK. Next up: ÆDEN, Berlin on Fri 27 Nov.
 
@@ -21,4 +21,4 @@ SARIAN is a techno and trance artist based in Germany, with 5 gigs on soundcheck
 
 Edgar Os, futurristic, 4NOUK
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sarian/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sarian/)*

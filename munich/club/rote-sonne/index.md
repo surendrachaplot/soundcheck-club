@@ -1,6 +1,6 @@
 # Rote Sonne
 
-Rote Sonne is a music venue in Munich with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "garryklein" on Wed, 11 Nov 2026.
+Rote Sonne is a music venue in Munich with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "garryklein" on Wed, 11 Nov 2026.
 
 Rote Sonne is a music venue in Munich listed on soundcheck. 4 upcoming gigs, with line-ups including Amotik, Artifex (DE), Chet Rubbs and E2NMN and 2 more. See dates, start times and who's playing. Maximiliansplatz 5; 80333 Munich; Germany.
 
@@ -17,4 +17,4 @@ Rote Sonne is a music venue in Munich listed on soundcheck. 4 upcoming gigs, wit
 
 Maximiliansplatz 5; 80333 Munich; Germany, Munich
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/rote-sonne/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/rote-sonne/)*

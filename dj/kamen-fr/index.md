@@ -1,6 +1,6 @@
 # Kamen (FR)
 
-Kamen (FR) is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Macadam, Nantes on Sat, 21 Nov 2026.
+Kamen (FR) is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Macadam, Nantes on Sat, 21 Nov 2026.
 
 Kamen (FR) is a techno artist, with 4 gigs on soundcheck across London, Nantes and Paris. Often billed alongside BLILI, DREIAN and Elli Acula. Next up: Macadam, Nantes on Sat 21 Nov.
 
@@ -20,4 +20,4 @@ Kamen (FR) is a techno artist, with 4 gigs on soundcheck across London, Nantes a
 
 BLILI, DREIAN, Elli Acula
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kamen-fr/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kamen-fr/)*

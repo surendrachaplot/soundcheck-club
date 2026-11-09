@@ -1,6 +1,6 @@
 # Conny Club
 
-Conny Club is a music venue in Münster with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "King Kong Kicks • Indie Pop & Hypes • FADE • Münster" on Sat, 14 Nov 2026.
+Conny Club is a music venue in Münster with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "King Kong Kicks • Indie Pop & Hypes • FADE • Münster" on Sat, 14 Nov 2026.
 
 Conny Club is a music venue in Münster listed on soundcheck. 4 upcoming gigs, with line-ups including skathi, Stefan Meser and Sven Kerkhoff. See dates, start times and who's playing. Am Hawerkamp 31, 48155 Münster, Deutschland.
 
@@ -17,4 +17,4 @@ Conny Club is a music venue in Münster listed on soundcheck. 4 upcoming gigs, w
 
 Am Hawerkamp 31, 48155 Münster, Deutschland, Münster
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/munster/club/conny-club/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/munster/club/conny-club/)*

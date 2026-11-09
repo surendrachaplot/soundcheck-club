@@ -1,6 +1,6 @@
 # MENTAL DISTORTION
 
-MENTAL DISTORTION is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at DEX, Moscow on Fri, 11 Dec 2026.
+MENTAL DISTORTION is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at DEX, Moscow on Fri, 11 Dec 2026.
 
 MENTAL DISTORTION is an electronic artist based in Netherlands, with 4 gigs on soundcheck across Berlin, Budapest and Moscow. Often billed alongside Chain Damage, Kyk and BANDEE. Next up: DEX, Moscow on Fri 11 Dec.
 
@@ -20,4 +20,4 @@ MENTAL DISTORTION is an electronic artist based in Netherlands, with 4 gigs on s
 
 Chain Damage, Kyk, BANDEE
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mentaldistortion/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mentaldistortion/)*

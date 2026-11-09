@@ -1,6 +1,6 @@
 # Scientist at Inkonst at Inkonst
 
-Scientist at Inkonst on Sat 6 Feb, Malmo. 1 artist: The Scientist. See the line-up on soundcheck.
+Scientist at Inkonst on Sat 6 Feb, Malmo. 1 artist: The Scientist. Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

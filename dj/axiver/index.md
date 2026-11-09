@@ -1,6 +1,6 @@
 # Axiver
 
-Axiver is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Kindergarten Club, Bologna on Sat, 14 Nov 2026.
+Axiver is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Kindergarten Club, Bologna on Sat, 14 Nov 2026.
 
 Axiver is a techno and hardcore artist based in Italy, with 28 gigs on soundcheck across Amsterdam and Bologna. Often billed alongside A1R1N, BVNNII and Claudia Sapienza. Next up: Kindergarten Club, Bologna on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Axiver is a techno and hardcore artist based in Italy, with 28 gigs on soundchec
 
 A1R1N, BVNNII, Claudia Sapienza
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/axiver/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/axiver/)*

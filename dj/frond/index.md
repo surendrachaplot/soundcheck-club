@@ -1,6 +1,6 @@
 # FROND
 
-FROND is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at 24 Kitchen Street, Liverpool on Fri, 20 Nov 2026.
+FROND is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at 24 Kitchen Street, Liverpool on Fri, 20 Nov 2026.
 
 FROND is a techno and trance artist based in United Kingdom, with 60 gigs on soundcheck across Bristol, Copenhagen, Leeds and Liverpool and 3 more. Often billed alongside Ryan Ingleby, Adam Pits and Yasmine (UK). Next up: 24 Kitchen Street, Liverpool on Fri 20 Nov.
 
@@ -29,4 +29,4 @@ FROND is a techno and trance artist based in United Kingdom, with 60 gigs on sou
 
 Ryan Ingleby, Adam Pits, Yasmine (UK)
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frond/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frond/)*

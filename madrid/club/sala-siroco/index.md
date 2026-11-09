@@ -1,18 +1,17 @@
 # Sala Siroco
 
-Sala Siroco is a music venue in Madrid with 10 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Abyss Techno Club VINILO" on Sun, 8 Nov 2026.
+Sala Siroco is a music venue in Madrid with 9 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "RAW 16th" on Thu, 12 Nov 2026.
 
-Sala Siroco is a music venue in Madrid listed on soundcheck. 10 upcoming gigs, with line-ups including ADRI.G, Belkan, Blood of Aza and Cerescente and 2 more. See dates, start times and who's playing. Calle San Dimas, 3, 28015 Madrid, Spain.
+Sala Siroco is a music venue in Madrid listed on soundcheck. 9 upcoming gigs, with line-ups including ADRI.G, Belkan, Blood of Aza and Cerescente and 2 more. See dates, start times and who's playing. Calle San Dimas, 3, 28015 Madrid, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 8 Nov 2026 | Abyss Techno Club VINILO | Trasto |
-| Sun, 8 Nov 2026 | The Fan Club |  |
 | Thu, 12 Nov 2026 | RAW 16th | Maga Knaup, Vandiaz |
 | Fri, 13 Nov 2026 | HACK THE MUSIC presenta: Oxbin + BNR64 + Sasenart | Inertial Theory, Oxbin |
 | Fri, 13 Nov 2026 | Takt x Pogo Live: Ideasforconversations (live) + Blu Boi |  |
+| Sun, 15 Nov 2026 | MINCODE x ABYSS Techno Club | ADRI.G, Nicolas Cetina. |
 | Sat, 21 Nov 2026 | 「lotura」presenta Blood of Aza + Cerescente + Klau + Ruidoso Paisaje takeover | Blood of Aza, Cerescente, Gael (2), KLAU (6), Muriel |
 | Thu, 26 Nov 2026 | GOMZ - Sala Siroco |  |
 | Sat, 28 Nov 2026 | OCKTIVE invites Lethal K-Pol | OCKTIVE |
@@ -23,4 +22,4 @@ Sala Siroco is a music venue in Madrid listed on soundcheck. 10 upcoming gigs, w
 
 Calle San Dimas, 3, 28015 Madrid, Spain, Madrid
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-siroco/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-siroco/)*

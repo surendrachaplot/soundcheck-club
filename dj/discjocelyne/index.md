@@ -1,6 +1,6 @@
 # discjocelyne
 
-discjocelyne is a Post-Punk and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at People's Leisure Club, Edinburgh on Tue, 24 Nov 2026.
+discjocelyne is a Post-Punk and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at People's Leisure Club, Edinburgh on Tue, 24 Nov 2026.
 
 discjocelyne is a post-punk and house artist based in United Kingdom, with 41 gigs on soundcheck across Edinburgh. Often billed alongside Ravelston, Lara Sinclair and Lietzsche. Next up: People's Leisure Club, Edinburgh on Tue 24 Nov.
 
@@ -25,4 +25,4 @@ discjocelyne is a post-punk and house artist based in United Kingdom, with 41 gi
 
 Ravelston, Lara Sinclair, Lietzsche
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/discjocelyne/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/discjocelyne/)*

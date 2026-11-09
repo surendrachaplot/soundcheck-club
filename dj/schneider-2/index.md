@@ -1,6 +1,6 @@
 # SCHNEIDER (2)
 
-SCHNEIDER (2) is a EBM and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Urban Spree, Berlin on Thu, 26 Nov 2026.
+SCHNEIDER (2) is a EBM and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Urban Spree, Berlin on Thu, 26 Nov 2026.
 
 SCHNEIDER is an ebm and techno artist based in Germany, with 3 gigs on soundcheck across Berlin. Often billed alongside Philipp Strobel, Rhys Fulber and She's Hearing Voices. Next up: Urban Spree, Berlin on Thu 26 Nov.
 
@@ -19,4 +19,4 @@ SCHNEIDER is an ebm and techno artist based in Germany, with 3 gigs on soundchec
 
 Philipp Strobel, Rhys Fulber, She's Hearing Voices
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/schneider-2/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/schneider-2/)*

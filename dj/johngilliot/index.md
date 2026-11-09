@@ -1,6 +1,6 @@
 # John Gilliot
 
-John Gilliot is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Studio Citygate, Brussels on Fri, 11 Dec 2026.
+John Gilliot is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Studio Citygate, Brussels on Fri, 11 Dec 2026.
 
 John Gilliot is a techno and trance artist based in Belgium, with 22 gigs on soundcheck across Berlin, Brussels, Ghent and Paris. Often billed alongside VICKEY, Ce$ar and Odymel. Next up: Studio Citygate, Brussels on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ John Gilliot is a techno and trance artist based in Belgium, with 22 gigs on sou
 
 VICKEY, Ce$ar, Odymel
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johngilliot/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johngilliot/)*

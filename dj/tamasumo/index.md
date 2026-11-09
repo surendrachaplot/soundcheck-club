@@ -1,14 +1,13 @@
 # Tama Sumo
 
-Tama Sumo is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - 3 LOCAIS / 3 LOCATIONS, Sao-paulo on Fri, 6 Nov 2026.
+Tama Sumo is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 14 Nov 2026.
 
-Tama Sumo is a house and techno artist based in Germany, with 220 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 62 more. Often billed alongside Lakuti, Roi Perez and MUSCLECARS. Next up: TBA - 3 LOCAIS / 3 LOCATIONS, Sao Paulo on Fri 6 Nov.
+Tama Sumo is a house and techno artist based in Germany, with 220 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 62 more. Often billed alongside Lakuti, Roi Perez and MUSCLECARS. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | TBA - 3 LOCAIS / 3 LOCATIONS | Sao-paulo |
 | Sat, 14 Nov 2026 | NAMA - Nuovo Anfiteatro Martesana | Milan |
 | Fri, 4 Dec 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 26 Dec 2026 | TBA - Fortim CE | Brazil |
@@ -32,4 +31,4 @@ Tama Sumo is a house and techno artist based in Germany, with 220 gigs on soundc
 
 Lakuti, Roi Perez, MUSCLECARS
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tamasumo/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tamasumo/)*

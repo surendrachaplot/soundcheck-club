@@ -1,6 +1,6 @@
 # SYNE.
 
-SYNE. is a Dubstep and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Circus Tokyo, Tokyo on Sun, 15 Nov 2026.
+SYNE. is a Dubstep and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Circus Tokyo, Tokyo on Sun, 15 Nov 2026.
 
 SYNE. is a dubstep and house artist based in Japan, with 5 gigs on soundcheck across Tokyo. Often billed alongside MOOTOE, SAKO and VECSILLE. Next up: Circus Tokyo, Tokyo on Sun 15 Nov.
 
@@ -21,4 +21,4 @@ SYNE. is a dubstep and house artist based in Japan, with 5 gigs on soundcheck ac
 
 MOOTOE, SAKO, VECSILLE
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/syne./)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/syne./)*

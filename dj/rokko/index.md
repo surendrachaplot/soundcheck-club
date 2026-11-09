@@ -1,6 +1,6 @@
 # Rokko
 
-Rokko is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Mercati Generali, Sicily on Sat, 14 Nov 2026.
+Rokko is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Mercati Generali, Sicily on Sat, 14 Nov 2026.
 
 Rokko is a techno artist based in Germany, with 10 gigs on soundcheck across Amsterdam, Karlsruhe, Munich and Rotterdam and 1 more. Often billed alongside TRAFFK, PABLØ (DE) and Arc Mode. Next up: Mercati Generali, Sicily on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Rokko is a techno artist based in Germany, with 10 gigs on soundcheck across Ams
 
 TRAFFK, PABLØ (DE), Arc Mode
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rokko/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rokko/)*

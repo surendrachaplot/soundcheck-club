@@ -1,6 +1,6 @@
 # CHAERIN
 
-CHAERIN is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Aapex, Seoul on Sat, 21 Nov 2026.
+CHAERIN is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Aapex, Seoul on Sat, 21 Nov 2026.
 
 CHAERIN is a techno and electronica artist based in South Korea, with 13 gigs on soundcheck across Berlin, Rotterdam and Seoul. Often billed alongside KYU., SIJIN and ASYNC. Next up: Aapex, Seoul on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ CHAERIN is a techno and electronica artist based in South Korea, with 13 gigs on
 
 KYU., SIJIN, ASYNC
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chaerin/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chaerin/)*

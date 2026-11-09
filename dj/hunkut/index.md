@@ -1,6 +1,6 @@
 # Hunkut
 
-Hunkut is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at POTENT, Shanghai on Sat, 14 Nov 2026.
+Hunkut is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at POTENT, Shanghai on Sat, 14 Nov 2026.
 
 Hunkut is a techno and house artist based in France, with 16 gigs on soundcheck across Bangkok, Berlin, Chengdu and Marseille and 2 more. Often billed alongside Feroui, Nymed and Mars O10C. Next up: POTENT, Shanghai on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Hunkut is a techno and house artist based in France, with 16 gigs on soundcheck 
 
 Feroui, Nymed, Mars O10C
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hunkut/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hunkut/)*

@@ -1,6 +1,6 @@
 # underiolo
 
-underiolo is a music venue in Warsaw with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "underiolo: HOUSE FLAVA" on Tue, 10 Nov 2026.
+underiolo is a music venue in Warsaw with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "underiolo: HOUSE FLAVA" on Tue, 10 Nov 2026.
 
 underiolo is a music venue in Warsaw listed on soundcheck. 3 upcoming gigs, with line-ups including DJNIEMUSIAŁ, Edvvin, eylau and Fourth World Music and 2 more. See dates, start times and who's playing. Nowy Świat 22/28a, Pawilon 21/22, 00-373 Warszawa.
 
@@ -16,4 +16,4 @@ underiolo is a music venue in Warsaw listed on soundcheck. 3 upcoming gigs, with
 
 Nowy Świat 22/28a, Pawilon 21/22, 00-373 Warszawa, Warsaw
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/underiolo/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/underiolo/)*

@@ -1,6 +1,6 @@
 # maxim_ESL
 
-maxim_ESL is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Baby Battista @ Nico's, Los Angeles on Fri, 13 Nov 2026.
+maxim_ESL is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Baby Battista @ Nico's, Los Angeles on Fri, 13 Nov 2026.
 
 maxim_ESL is a house and disco artist based in United States of America, with 3 gigs on soundcheck across Los Angeles. Often billed alongside Akumen, Andy Oro and Guaparda. Next up: Baby Battista @ Nico's, Los Angeles on Fri 13 Nov.
 
@@ -19,4 +19,4 @@ maxim_ESL is a house and disco artist based in United States of America, with 3 
 
 Akumen, Andy Oro, Guaparda
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxim_esl/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxim_esl/)*

@@ -1,6 +1,6 @@
 # DJ HMC
 
-DJ HMC is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Leighton's Farm, Auckland on Wed, 30 Dec 2026.
+DJ HMC is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Leighton's Farm, Auckland on Wed, 30 Dec 2026.
 
 DJ HMC is a techno and house artist based in Australia, with 7 gigs on soundcheck across Adelaide, Auckland and Melbourne. Often billed alongside Late Nite Tuff Guy, Alan Braxe and DJ F16 Falcon. Next up: Leighton's Farm, Auckland on Wed 30 Dec.
 
@@ -23,4 +23,4 @@ DJ HMC is a techno and house artist based in Australia, with 7 gigs on soundchec
 
 Late Nite Tuff Guy, Alan Braxe, DJ F16 Falcon
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djhmc/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djhmc/)*

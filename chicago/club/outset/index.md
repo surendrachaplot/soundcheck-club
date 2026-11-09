@@ -1,6 +1,6 @@
 # Outset
 
-Outset is a music venue in Chicago with 8 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Only Fire & Friends" on Sat, 14 Nov 2026.
+Outset is a music venue in Chicago with 8 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Only Fire & Friends" on Sat, 14 Nov 2026.
 
 Outset is a music venue in Chicago listed on soundcheck. 8 upcoming gigs, with line-ups including Alice Longyu Gao, Amtrac, Ariel Zetina and DJ_Dave and 2 more. See dates, start times and who's playing. 1675 N Elston Ave, Chicago, IL 60642.
 
@@ -21,4 +21,4 @@ Outset is a music venue in Chicago listed on soundcheck. 8 upcoming gigs, with l
 
 1675 N Elston Ave, Chicago, IL 60642, Chicago
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/outset/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/outset/)*

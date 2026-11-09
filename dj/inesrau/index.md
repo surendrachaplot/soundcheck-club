@@ -1,6 +1,6 @@
 # Inès Rau
 
-Inès Rau is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at KOKO, London on Fri, 27 Nov 2026.
+Inès Rau is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at KOKO, London on Fri, 27 Nov 2026.
 
 Inès Rau is a house and disco artist based in France, with 12 gigs on soundcheck across Ibiza, London, Miami and New York City and 1 more. Often billed alongside ALEJO (US), ANDREA VANDALL and ATRIP. Next up: KOKO, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Inès Rau is a house and disco artist based in France, with 12 gigs on soundchec
 
 ALEJO (US), ANDREA VANDALL, ATRIP
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inesrau/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inesrau/)*

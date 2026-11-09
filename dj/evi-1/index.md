@@ -1,6 +1,6 @@
 # Evi (1)
 
-Evi (1) is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at KABUL à GoGo, Utrecht on Fri, 20 Nov 2026.
+Evi (1) is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at KABUL à GoGo, Utrecht on Fri, 20 Nov 2026.
 
 Evi is a house and disco artist based in Netherlands, with 10 gigs on soundcheck across Amsterdam and Utrecht. Often billed alongside 36framez, BELLA (NL) and Ada. Next up: KABUL à GoGo, Utrecht on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Evi is a house and disco artist based in Netherlands, with 10 gigs on soundcheck
 
 36framez, BELLA (NL), Ada
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/evi-1/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/evi-1/)*

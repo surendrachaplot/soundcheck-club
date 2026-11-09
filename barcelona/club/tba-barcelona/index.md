@@ -1,6 +1,6 @@
 # TBA - Barcelona
 
-TBA - Barcelona is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. The next is "DIFFUSE REALITY [Community Gathering] - Free Tickets " on Sat, 28 Nov 2026.
+TBA - Barcelona is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. The next is "DIFFUSE REALITY [Community Gathering] - Free Tickets " on Sat, 28 Nov 2026.
 
 TBA - Barcelona is a music venue in Barcelona listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Barcelona is a music venue in Barcelona listed on soundcheck. 1 upcoming g
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | DIFFUSE REALITY [Community Gathering] - Free Tickets  |  |
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-barcelona/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-barcelona/)*

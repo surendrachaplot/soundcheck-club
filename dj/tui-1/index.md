@@ -1,13 +1,14 @@
 # Tui (1)
 
-Tui (1) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Club Daphnia, Osaka on Sat, 5 Dec 2026.
+Tui (1) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at rake?raka?, Osaka on Fri, 13 Nov 2026.
 
-Tui is a techno and house artist based in Japan, with 36 gigs on soundcheck across Kyoto, Osaka, Shanghai and Tokyo. Often billed alongside Eichi Abe, GAKUTO(TOKYO) and JUN INAGAWA. Next up: Club Daphnia, Osaka on Sat 5 Dec.
+Tui is a techno and house artist based in Japan, with 37 gigs on soundcheck across Kyoto, Osaka, Shanghai and Tokyo. Often billed alongside Eichi Abe, GAKUTO(TOKYO) and JUN INAGAWA. Next up: rake?raka?, Osaka on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | rake?raka? | Osaka |
 | Sat, 5 Dec 2026 | Club Daphnia | Osaka |
 | Fri, 11 Dec 2026 | Club Metro | Kyoto |
 
@@ -26,4 +27,4 @@ Tui is a techno and house artist based in Japan, with 36 gigs on soundcheck acro
 
 Eichi Abe, GAKUTO(TOKYO), JUN INAGAWA
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tui-1/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tui-1/)*

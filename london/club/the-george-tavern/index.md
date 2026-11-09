@@ -1,6 +1,6 @@
 # The George Tavern
 
-The George Tavern is a music venue in London with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. The next is "Family Art Club+Running Standard+amistakeholiday" on Mon, 23 Nov 2026.
+The George Tavern is a music venue in London with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. The next is "Family Art Club+Running Standard+amistakeholiday" on Mon, 23 Nov 2026.
 
 The George Tavern is a music venue in London listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ The George Tavern is a music venue in London listed on soundcheck. 1 upcoming gi
 | --- | --- | --- |
 | Mon, 23 Nov 2026 | Family Art Club+Running Standard+amistakeholiday |  |
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-george-tavern/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-george-tavern/)*

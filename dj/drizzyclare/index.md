@@ -1,6 +1,6 @@
 # Drizzyclare
 
-Drizzyclare is a Techno and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Barcelona (Sónar by Day) & Fira Gran Via (Sónar by Night), Barcelona on Thu, 17 Jun 2027.
+Drizzyclare is a Techno and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Barcelona (Sónar by Day) & Fira Gran Via (Sónar by Night), Barcelona on Thu, 17 Jun 2027.
 
 Drizzyclare is a techno and ghetto tech artist based in Spain, with 36 gigs on soundcheck across Barcelona, Lisbon, Madrid and Valencia. Often billed alongside DJ2D2, Dirti Larita and PethbUri. Next up: TBA - Barcelona (Sónar by Day) & Fira Gran Via (Sónar by Night), Barcelona on Thu 17 Jun.
 
@@ -25,4 +25,4 @@ Drizzyclare is a techno and ghetto tech artist based in Spain, with 36 gigs on s
 
 DJ2D2, Dirti Larita, PethbUri
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drizzyclare/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drizzyclare/)*

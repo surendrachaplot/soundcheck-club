@@ -1,6 +1,6 @@
 # Sensorium
 
-Sensorium is a music venue in Berlin with 13 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "TECHNO MITTWOCH" on Wed, 11 Nov 2026.
+Sensorium is a music venue in Berlin with 13 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "TECHNO MITTWOCH" on Wed, 11 Nov 2026.
 
 Sensorium is a music venue in Berlin listed on soundcheck. 13 upcoming gigs, with line-ups including ALICA RØUGH, Andeel, André Skuda and Ankit and 2 more. See dates, start times and who's playing. warschauer platz 18, 10245 Berlin.
 
@@ -23,4 +23,4 @@ Sensorium is a music venue in Berlin listed on soundcheck. 13 upcoming gigs, wit
 
 warschauer platz 18, 10245 Berlin, Berlin
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sensorium/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sensorium/)*

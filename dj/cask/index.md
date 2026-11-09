@@ -1,6 +1,6 @@
 # Cask
 
-Cask is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Hall, Tallinn on Sat, 14 Nov 2026.
+Cask is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Hall, Tallinn on Sat, 14 Nov 2026.
 
 Cask is a techno and house artist based in Estonia, with 3 gigs on soundcheck across Tallinn. Often billed alongside Brett Rästas, Charch and pikkauch. Next up: Hall, Tallinn on Sat 14 Nov.
 
@@ -19,4 +19,4 @@ Cask is a techno and house artist based in Estonia, with 3 gigs on soundcheck ac
 
 Brett Rästas, Charch, pikkauch
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cask/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cask/)*

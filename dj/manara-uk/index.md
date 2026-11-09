@@ -1,6 +1,6 @@
 # Manara (UK)
 
-Manara (UK) is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Bourse de Commerce — Pinault Collection, Paris on Fri, 4 Dec 2026.
+Manara (UK) is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Bourse de Commerce — Pinault Collection, Paris on Fri, 4 Dec 2026.
 
 Manara (UK) is a club and techno artist based in United Kingdom, with 36 gigs on soundcheck across Auckland, Brighton, Brisbane and Edinburgh and 8 more. Often billed alongside Zaleel, Ahadadream and harpriya. Next up: Bourse de Commerce — Pinault Collection, Paris on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Manara (UK) is a club and techno artist based in United Kingdom, with 36 gigs on
 
 Zaleel, Ahadadream, harpriya
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manara-uk/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manara-uk/)*

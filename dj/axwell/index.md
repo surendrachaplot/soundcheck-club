@@ -1,6 +1,6 @@
 # Axwell
 
-Axwell is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Warehouse ZRH, Switzerland on Sat, 21 Nov 2026.
+Axwell is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Warehouse ZRH, Switzerland on Sat, 21 Nov 2026.
 
 Axwell is a progressive house and house artist based in Sweden, with 8 gigs on soundcheck across Athens, Bogotá, Buenos Aires and Miami and 3 more. Often billed alongside Oliver Heldens, Adam Ten and Innellea. Next up: Warehouse ZRH, Switzerland on Sat 21 Nov.
 
@@ -24,4 +24,4 @@ Axwell is a progressive house and house artist based in Sweden, with 8 gigs on s
 
 Oliver Heldens, Adam Ten, Innellea
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/axwell/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/axwell/)*

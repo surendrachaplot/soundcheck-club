@@ -1,6 +1,6 @@
 # Mithra (3)
 
-Mithra (3) is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Swig, Chicago on Thu, 19 Nov 2026.
+Mithra (3) is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Swig, Chicago on Thu, 19 Nov 2026.
 
 Mithra is a bass and techno artist based in United States of America, with 11 gigs on soundcheck across Chicago. Often billed alongside Dj Scari, Relativity Lounge and Steve Noah. Next up: Swig, Chicago on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Mithra is a bass and techno artist based in United States of America, with 11 gi
 
 Dj Scari, Relativity Lounge, Steve Noah
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mithra-3/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mithra-3/)*

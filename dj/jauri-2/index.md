@@ -1,6 +1,6 @@
 # Jauri (2)
 
-Jauri (2) is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Video Club, Bogotá on Sat, 21 Nov 2026.
+Jauri (2) is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Video Club, Bogotá on Sat, 21 Nov 2026.
 
 Jauri is a techno and club artist based in Colombia, with 3 gigs on soundcheck across Bogotá. Often billed alongside AMORAL, B444DLOVE and FRESKO. Next up: Video Club, Bogotá on Sat 21 Nov.
 
@@ -19,4 +19,4 @@ Jauri is a techno and club artist based in Colombia, with 3 gigs on soundcheck a
 
 AMORAL, B444DLOVE, FRESKO
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jauri-2/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jauri-2/)*

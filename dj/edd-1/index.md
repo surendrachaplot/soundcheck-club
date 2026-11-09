@@ -1,6 +1,6 @@
 # Edd (1)
 
-Edd (1) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Formation Brewery, Phoenix on Sat, 14 Nov 2026.
+Edd (1) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Formation Brewery, Phoenix on Sat, 14 Nov 2026.
 
 Edd is a house and tech house artist based in Malta, with 61 gigs on soundcheck across Bali, Barcelona, Denver and Ibiza and 13 more. Often billed alongside Andrea Oliva, Nic Fanciulli and Fresh Prince. Next up: Formation Brewery, Phoenix on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Edd is a house and tech house artist based in Malta, with 61 gigs on soundcheck 
 
 Andrea Oliva, Nic Fanciulli, Fresh Prince
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edd-1/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edd-1/)*

@@ -1,6 +1,6 @@
 # XXX at SEL OCTAGON TOKYO
 
-XXX at SEL OCTAGON TOKYO on Wed 25 Nov, Tokyo. 3 artists: Miki, PUSTER and Xana. Electro and Club. See the line-up on soundcheck.
+XXX at SEL OCTAGON TOKYO on Wed 25 Nov, Tokyo. 2 artists: PUSTER and Xana. Electro and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ XXX at SEL OCTAGON TOKYO on Wed 25 Nov, Tokyo. 3 artists: Miki, PUSTER and Xana.
 
 ## Line-up
 
-- Miki
 - PUSTER
 - Xana
 

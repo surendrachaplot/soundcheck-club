@@ -1,6 +1,6 @@
 # DEZ (SG)
 
-DEZ (SG) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Mdlr, Singapore on Fri, 4 Dec 2026.
+DEZ (SG) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Mdlr, Singapore on Fri, 4 Dec 2026.
 
 DEZ (SG) is a techno and house artist based in Singapore, with 37 gigs on soundcheck across Singapore. Often billed alongside VAIBS, sho&tell and 3MZY. Next up: Mdlr, Singapore on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ DEZ (SG) is a techno and house artist based in Singapore, with 37 gigs on soundc
 
 VAIBS, sho&tell, 3MZY
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dez-sg/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dez-sg/)*

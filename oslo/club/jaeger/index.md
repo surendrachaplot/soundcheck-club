@@ -1,6 +1,6 @@
 # Jaeger
 
-Jaeger is a music venue in Oslo with 11 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Frædag x Epiphany: Hraach" on Fri, 13 Nov 2026.
+Jaeger is a music venue in Oslo with 11 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Frædag x Epiphany: Hraach" on Fri, 13 Nov 2026.
 
 Jaeger is a music venue in Oslo listed on soundcheck. 11 upcoming gigs, with line-ups including Dam Swindle, Fabio, FJAAK and G-HA and 2 more. See dates, start times and who's playing. Grensen 9; 0159 Oslo; Norway,.
 
@@ -23,4 +23,4 @@ Jaeger is a music venue in Oslo listed on soundcheck. 11 upcoming gigs, with lin
 
 Grensen 9; 0159 Oslo; Norway,, Oslo
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/jaeger/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/jaeger/)*

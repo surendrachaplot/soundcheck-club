@@ -1,6 +1,6 @@
 # Kumara (PA)
 
-Kumara (PA) is a Techno and Gabber artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at The Flinders, Sydney on Sat, 12 Dec 2026.
+Kumara (PA) is a Techno and Gabber artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Flinders, Sydney on Sat, 12 Dec 2026.
 
 Kumara (PA) is a techno and gabber artist based in Panama, with 6 gigs on soundcheck across Sydney. Often billed alongside Bleach, pretzelz and Sam I Am. Next up: The Flinders, Sydney on Sat 12 Dec.
 
@@ -22,4 +22,4 @@ Kumara (PA) is a techno and gabber artist based in Panama, with 6 gigs on soundc
 
 Bleach, pretzelz, Sam I Am
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kumarapa/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kumarapa/)*

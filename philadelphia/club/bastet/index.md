@@ -1,6 +1,6 @@
 # Bastet
 
-Bastet is a music venue in Philadelphia with 6 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "SHADOWPLAY FRIDAY THE 13TH GOTH/DARKWAVE/INDUSTRIAL // Floor One: vinectomy, onna mule" on Fri, 13 Nov 2026.
+Bastet is a music venue in Philadelphia with 6 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "SHADOWPLAY FRIDAY THE 13TH GOTH/DARKWAVE/INDUSTRIAL // Floor One: vinectomy, onna mule" on Fri, 13 Nov 2026.
 
 Bastet is a music venue in Philadelphia listed on soundcheck. 6 upcoming gigs, with line-ups including Andre Power, Ash Lauryn, DJ Dommis and DJ Sylo and 2 more. See dates, start times and who's playing. 601 Spring Garden St, Philadelphia PA 19123.
 
@@ -19,4 +19,4 @@ Bastet is a music venue in Philadelphia listed on soundcheck. 6 upcoming gigs, w
 
 601 Spring Garden St, Philadelphia PA 19123, Philadelphia
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/bastet/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/bastet/)*

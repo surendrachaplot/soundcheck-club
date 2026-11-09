@@ -1,6 +1,6 @@
 # Tangerine Dream at The Trinity Centre
 
-Tangerine Dream at The Trinity Centre on Sat 6 Feb, Bristol. 1 artist: Tangerine Dream. See the line-up on soundcheck.
+Tangerine Dream at The Trinity Centre on Sat 6 Feb, Bristol. 1 artist: Tangerine Dream. Experimental and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

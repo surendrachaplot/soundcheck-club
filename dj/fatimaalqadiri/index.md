@@ -1,6 +1,6 @@
 # Fatima Al Qadiri
 
-Fatima Al Qadiri is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Bourse de Commerce — Pinault Collection, Paris on Fri, 4 Dec 2026.
+Fatima Al Qadiri is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Bourse de Commerce — Pinault Collection, Paris on Fri, 4 Dec 2026.
 
 Fatima Al Qadiri is an electronic artist, with 3 gigs on soundcheck across Ljubljana, Paris and Utrecht. Often billed alongside 33EMYBW, ARN4L2 and Able Noise. Next up: Bourse de Commerce — Pinault Collection, Paris on Fri 4 Dec.
 
@@ -19,4 +19,4 @@ Fatima Al Qadiri is an electronic artist, with 3 gigs on soundcheck across Ljubl
 
 33EMYBW, ARN4L2, Able Noise
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fatimaalqadiri/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fatimaalqadiri/)*

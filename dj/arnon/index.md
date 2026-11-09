@@ -1,6 +1,6 @@
 # ARNON
 
-ARNON is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Woowon, Bangsaen, Chonburi, Thailand on Sat, 14 Nov 2026.
+ARNON is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Woowon, Bangsaen, Chonburi, Thailand on Sat, 14 Nov 2026.
 
 ARNON is a house and tech house artist, with 4 gigs on soundcheck across Bangkok and Thailand. Often billed alongside Piti (TH), Wildealer and DJ Sweed. Next up: TBA - Woowon, Bangsaen, Chonburi, Thailand on Sat 14 Nov.
 
@@ -20,4 +20,4 @@ ARNON is a house and tech house artist, with 4 gigs on soundcheck across Bangkok
 
 Piti (TH), Wildealer, DJ Sweed
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arnon/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arnon/)*

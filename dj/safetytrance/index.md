@@ -1,6 +1,6 @@
 # Safety Trance
 
-Safety Trance is a Techno and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at OCZKI, Warsaw on Sat, 12 Dec 2026.
+Safety Trance is a Techno and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at OCZKI, Warsaw on Sat, 12 Dec 2026.
 
 Safety Trance is a techno and reggaeton artist based in Venezuela, with 122 gigs on soundcheck across Adelaide, Amsterdam, Athens and Atlanta and 52 more. Often billed alongside Cardopusher, Manuka Honey and Florentino. Next up: OCZKI, Warsaw on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Safety Trance is a techno and reggaeton artist based in Venezuela, with 122 gigs
 
 Cardopusher, Manuka Honey, Florentino
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/safetytrance/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/safetytrance/)*

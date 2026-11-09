@@ -1,6 +1,6 @@
 # YKAi
 
-YKAi is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at La Fabriek, Brussels on Fri, 13 Nov 2026.
+YKAi is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at La Fabriek, Brussels on Fri, 13 Nov 2026.
 
 YKAi is a techno and acid artist based in Belgium, with 20 gigs on soundcheck across Brussels. Often billed alongside Susano, Moupe and ECH/O. Next up: La Fabriek, Brussels on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ YKAi is a techno and acid artist based in Belgium, with 20 gigs on soundcheck ac
 
 Susano, Moupe, ECH/O
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ykai/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ykai/)*

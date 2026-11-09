@@ -1,14 +1,13 @@
 # Grub Stretford
 
-Grub Stretford is a music venue in Manchester with 8 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "GRUB Stretford: DJ Danny Ward / Moodymanc: All Day Long" on Sun, 8 Nov 2026.
+Grub Stretford is a music venue in Manchester with 7 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "GRUB Stretford: SNO (DJ Set) FREE ENTRY" on Fri, 13 Nov 2026.
 
-Grub Stretford is a music venue in Manchester listed on soundcheck. 8 upcoming gigs, with line-ups including Moodymanc, SNO (UK) and Yarni. See dates, start times and who's playing. Multi-Storey Car park, King St, Stretford, Manchester M32 9AH.
+Grub Stretford is a music venue in Manchester listed on soundcheck. 7 upcoming gigs, with line-ups including SNO (UK) and Yarni. See dates, start times and who's playing. Multi-Storey Car park, King St, Stretford, Manchester M32 9AH.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 8 Nov 2026 | GRUB Stretford: DJ Danny Ward / Moodymanc: All Day Long | Moodymanc |
 | Fri, 13 Nov 2026 | GRUB Stretford: SNO (DJ Set) FREE ENTRY | SNO (UK) |
 | Sat, 14 Nov 2026 | GRUB Stretford: Stanley Chow (DJ Set) |  |
 | Sun, 15 Nov 2026 | GRUB Stretford: Hip Hop Chess Club |  |
@@ -21,4 +20,4 @@ Grub Stretford is a music venue in Manchester listed on soundcheck. 8 upcoming g
 
 Multi-Storey Car park, King St, Stretford, Manchester M32 9AH, Manchester
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/grub-stretford/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/grub-stretford/)*

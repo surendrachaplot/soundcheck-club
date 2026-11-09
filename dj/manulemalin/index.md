@@ -1,6 +1,6 @@
 # Manu Le Malin
 
-Manu Le Malin is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Mia Mao, Paris on Fri, 11 Dec 2026.
+Manu Le Malin is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Mia Mao, Paris on Fri, 11 Dec 2026.
 
 Manu Le Malin is a techno and hardcore artist based in France, with 42 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bogotá and 12 more. Often billed alongside Thrasher, KRTM and Kilbourne. Next up: Mia Mao, Paris on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ Manu Le Malin is a techno and hardcore artist based in France, with 42 gigs on s
 
 Thrasher, KRTM, Kilbourne
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manulemalin/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manulemalin/)*

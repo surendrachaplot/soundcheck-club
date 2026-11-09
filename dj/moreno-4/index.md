@@ -1,6 +1,6 @@
 # Moreno (4)
 
-Moreno (4) is a Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at La Pente, Lyon on Thu, 12 Nov 2026.
+Moreno (4) is a Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at La Pente, Lyon on Thu, 12 Nov 2026.
 
 Moreno is a bass and breakbeat artist based in Colombia, with 6 gigs on soundcheck across Berlin and Lyon. Often billed alongside Rivda, HBB (MA) and Klefman. Next up: La Pente, Lyon on Thu 12 Nov.
 
@@ -22,4 +22,4 @@ Moreno is a bass and breakbeat artist based in Colombia, with 6 gigs on soundche
 
 Rivda, HBB (MA), Klefman
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moreno-4/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moreno-4/)*

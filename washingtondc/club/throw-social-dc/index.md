@@ -1,6 +1,6 @@
 # Throw Social DC
 
-Throw Social DC is a music venue in Washington DC with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Guy Mantzur" on Sat, 14 Nov 2026.
+Throw Social DC is a music venue in Washington DC with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Guy Mantzur" on Sat, 14 Nov 2026.
 
 Throw Social DC is a music venue in Washington DC listed on soundcheck. 2 upcoming gigs, with line-ups including Guy Mantzur. See dates, start times and who's playing. 1401 Okie St NE, Ste #102 Washington D.C. 20002.
 
@@ -15,4 +15,4 @@ Throw Social DC is a music venue in Washington DC listed on soundcheck. 2 upcomi
 
 1401 Okie St NE, Ste #102 Washington D.C. 20002, Washington DC
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/throw-social-dc/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/throw-social-dc/)*

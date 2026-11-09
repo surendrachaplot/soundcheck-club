@@ -1,8 +1,8 @@
 # Program Sam
 
-Program Sam is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Bambi's, Toronto on Thu, 12 Nov 2026.
+Program Sam is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Bambi's, Toronto on Thu, 12 Nov 2026.
 
-Program Sam is a techno and house artist based in Canada, with 42 gigs on soundcheck across Detroit and Toronto. Often billed alongside maxedvisa, florasystem and 999ADJ. Next up: Bambi's, Toronto on Thu 12 Nov.
+Program Sam is a techno and house artist based in Canada, with 43 gigs on soundcheck across Detroit and Toronto. Often billed alongside maxedvisa, florasystem and 999ADJ. Next up: Bambi's, Toronto on Thu 12 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Program Sam is a techno and house artist based in Canada, with 42 gigs on soundc
 | --- | --- | --- |
 | Thu, 12 Nov 2026 | Bambi's | Toronto |
 | Sat, 14 Nov 2026 | Mooi Space | Toronto |
+| Fri, 4 Dec 2026 | The Jama | Toronto |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Program Sam is a techno and house artist based in Canada, with 42 gigs on soundc
 
 maxedvisa, florasystem, 999ADJ
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/programsam/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/programsam/)*

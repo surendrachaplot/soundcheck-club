@@ -1,6 +1,6 @@
 # Similar Clouds
 
-Similar Clouds is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Complex Maastricht, Netherlands on Sat, 19 Dec 2026.
+Similar Clouds is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Complex Maastricht, Netherlands on Sat, 19 Dec 2026.
 
 Similar Clouds is a house and tech house artist, with 5 gigs on soundcheck across Amsterdam, Mannheim, Netherlands and Rotterdam. Often billed alongside ADAPT (DK), AELVA K and Adam Mclean. Next up: Complex Maastricht, Netherlands on Sat 19 Dec.
 
@@ -21,4 +21,4 @@ Similar Clouds is a house and tech house artist, with 5 gigs on soundcheck acros
 
 ADAPT (DK), AELVA K, Adam Mclean
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/similarclouds/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/similarclouds/)*

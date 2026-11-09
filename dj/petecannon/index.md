@@ -1,6 +1,6 @@
 # Pete Cannon
 
-Pete Cannon is a Jungle and Drum & Bass artist with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at FORGE, Sheffield on Fri, 4 Dec 2026.
+Pete Cannon is a Jungle and Drum & Bass artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at FORGE, Sheffield on Fri, 4 Dec 2026.
 
 Pete Cannon is a jungle and drum & bass artist based in United Kingdom, with 72 gigs on soundcheck across Amsterdam, Baltimore, Berlin and Brighton and 17 more. Often billed alongside Swankout, The Bass Injector and Arkyn. Next up: FORGE, Sheffield on Fri 4 Dec.
 
@@ -28,4 +28,4 @@ Pete Cannon is a jungle and drum & bass artist based in United Kingdom, with 72 
 
 Swankout, The Bass Injector, Arkyn
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/petecannon/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/petecannon/)*

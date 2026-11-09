@@ -1,6 +1,6 @@
 # Seebase
 
-Seebase is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Maimarkthalle, Mannheim on Sat, 3 Apr 2027.
+Seebase is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Maimarkthalle, Mannheim on Sat, 3 Apr 2027.
 
 Seebase is a techno and house artist based in Germany, with 10 gigs on soundcheck across Berlin and Mannheim. Often billed alongside Joseph Capriati, Loco Dice and Nina Kraviz. Next up: Maimarkthalle, Mannheim on Sat 3 Apr.
 
@@ -25,4 +25,4 @@ Seebase is a techno and house artist based in Germany, with 10 gigs on soundchec
 
 Joseph Capriati, Loco Dice, Nina Kraviz
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seebase/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seebase/)*

@@ -1,6 +1,6 @@
 # VICTORIA WHYNOT
 
-VICTORIA WHYNOT is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA -  Private Location, Houston, Houston on Sat, 12 Dec 2026.
+VICTORIA WHYNOT is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA -  Private Location, Houston, Houston on Sat, 12 Dec 2026.
 
 VICTORIA WHYNOT is a house and techno artist based in Argentina, with 28 gigs on soundcheck across Amsterdam, Barcelona, Buenos Aires and Houston and 5 more. Often billed alongside Kirilski, FR3ADY and Pete Tong. Next up: TBA -  Private Location, Houston, Houston on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ VICTORIA WHYNOT is a house and techno artist based in Argentina, with 28 gigs on
 
 Kirilski, FR3ADY, Pete Tong
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/victoriawhynot/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/victoriawhynot/)*

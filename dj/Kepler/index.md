@@ -1,14 +1,13 @@
 # Kepler
 
-Kepler is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Thuishaven, Amsterdam on Sun, 8 Nov 2026.
+Kepler is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at DRUMSHEDS, London on Sat, 28 Nov 2026.
 
-Kepler is a house and tech house artist based in United Kingdom, with 171 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Berlin and 36 more. Often billed alongside Burnski, Job de Jong and Reeshy. Next up: Thuishaven, Amsterdam on Sun 8 Nov.
+Kepler is a house and tech house artist based in United Kingdom, with 171 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Berlin and 36 more. Often billed alongside Burnski, Job de Jong and Reeshy. Next up: DRUMSHEDS, London on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 8 Nov 2026 | Thuishaven | Amsterdam |
 | Sat, 28 Nov 2026 | DRUMSHEDS | London |
 | Sat, 28 Nov 2026 | Cardiff Students' Union - The Great Hall | Cardiff |
 | Fri, 4 Dec 2026 | Digital | Newcastle |
@@ -19,6 +18,7 @@ Kepler is a house and tech house artist based in United Kingdom, with 171 gigs o
 
 ## Recently played
 
+- Thuishaven, Amsterdam · Sun, 8 Nov 2026
 - Cottiers Theatre, Glasgow · Sat, 7 Nov 2026
 - Mint Warehouse, Leeds · Sat, 31 Oct 2026
 - TBA - Secret Location, London · Thu, 29 Oct 2026
@@ -26,10 +26,9 @@ Kepler is a house and tech house artist based in United Kingdom, with 171 gigs o
 - Ijland, Amsterdam · Fri, 23 Oct 2026
 - Levenslang Amsterdam, Amsterdam · Fri, 23 Oct 2026
 - Bajes Amsterdam, Amsterdam · Thu, 22 Oct 2026
-- Gaswrx Birmingham, Birmingham · Sat, 17 Oct 2026
 
 ## Shares bills with
 
 Burnski, Job de Jong, Reeshy
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/Kepler/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/Kepler/)*

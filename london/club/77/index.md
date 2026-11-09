@@ -1,6 +1,6 @@
 # 77
 
-77 is a music venue in London with 7 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "77: Wheats" on Fri, 13 Nov 2026.
+77 is a music venue in London with 7 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "77: Wheats" on Fri, 13 Nov 2026.
 
 77 is a music venue in London listed on soundcheck. 7 upcoming gigs, with line-ups including Alan Dixon, AliTR, Deb FA and DOVnROBS and 2 more. See dates, start times and who's playing. 77 Welbeck Street, W1G 0BB.
 
@@ -20,4 +20,4 @@
 
 77 Welbeck Street, W1G 0BB, London
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/77/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/77/)*

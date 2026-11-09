@@ -1,6 +1,6 @@
 # Gabriel & Dresden
 
-Gabriel & Dresden is a Trance and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Public Works, San Francisco/Oakland on Sat, 14 Nov 2026.
+Gabriel & Dresden is a Trance and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Public Works, San Francisco/Oakland on Sat, 14 Nov 2026.
 
 Gabriel & Dresden are a trance and progressive house duo based in United States of America, with 57 gigs on soundcheck across Austin, Bristol, Chicago and Dallas/Fort Worth and 17 more. Often billed alongside Luccio, Amy Wiles and Mat Zo. Next up: Public Works, San Francisco/Oakland on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Gabriel & Dresden are a trance and progressive house duo based in United States 
 
 Luccio, Amy Wiles, Mat Zo
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielndresden/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielndresden/)*

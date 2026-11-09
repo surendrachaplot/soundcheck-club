@@ -1,15 +1,13 @@
 # DJ Tennis
 
-DJ Tennis is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at The Lenovo Garage, Madrid on Sun, 8 Nov 2026.
+DJ Tennis is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Coda, Toronto on Fri, 13 Nov 2026.
 
-DJ Tennis is a house and techno artist based in Italy, with 338 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 70 more. Often billed alongside Carlita, Seth Troxler and Chloé Caillet. Next up: The Lenovo Garage, Madrid on Sun 8 Nov.
+DJ Tennis is a house and techno artist based in Italy, with 338 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 70 more. Often billed alongside Carlita, Seth Troxler and Chloé Caillet. Next up: Coda, Toronto on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 8 Nov 2026 | The Lenovo Garage | Madrid |
-| Sun, 8 Nov 2026 | The Bassement | Madrid |
 | Fri, 13 Nov 2026 | Coda | Toronto |
 | Fri, 13 Nov 2026 | Parque Fundidora | Monterrey |
 | Fri, 20 Nov 2026 | Expo Santa Fe | Mexico City |
@@ -22,17 +20,17 @@ DJ Tennis is a house and techno artist based in Italy, with 338 gigs on soundche
 
 ## Recently played
 
+- The Lenovo Garage, Madrid · Sun, 8 Nov 2026
+- The Bassement, Madrid · Sun, 8 Nov 2026
 - The Warehouse By IT Quarter, Cyprus · Sat, 7 Nov 2026
 - Frankhan Selectist, Istanbul · Fri, 6 Nov 2026
 - Warehouse on Watts, Philadelphia · Sat, 31 Oct 2026
 - NOS Event Center, Los Angeles · Fri, 30 Oct 2026
 - Thuishaven, Amsterdam · Sat, 24 Oct 2026
 - Shelter Amsterdam, Amsterdam · Sat, 24 Oct 2026
-- Fosbury and Sons, Amsterdam · Fri, 23 Oct 2026
-- A'DAM Toren, Amsterdam · Wed, 21 Oct 2026
 
 ## Shares bills with
 
 Carlita, Seth Troxler, Chloé Caillet
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djtennis/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djtennis/)*

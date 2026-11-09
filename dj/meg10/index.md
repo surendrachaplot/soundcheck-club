@@ -1,6 +1,6 @@
 # Meg10
 
-Meg10 is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Cakeshop, Seoul on Fri, 20 Nov 2026.
+Meg10 is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Cakeshop, Seoul on Fri, 20 Nov 2026.
 
 Meg10 is a techno and club artist based in Germany, with 159 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Basel and 37 more. Often billed alongside Hanaby, Luca Eck and MCR-T. Next up: Cakeshop, Seoul on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Meg10 is a techno and club artist based in Germany, with 159 gigs on soundcheck 
 
 Hanaby, Luca Eck, MCR-T
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meg10/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meg10/)*

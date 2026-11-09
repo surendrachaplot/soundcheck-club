@@ -1,6 +1,6 @@
 # MURINO (2)
 
-MURINO (2) is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Soap House - Ex Saponerie Mira Lanza, Rome on Sat, 14 Nov 2026.
+MURINO (2) is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Soap House - Ex Saponerie Mira Lanza, Rome on Sat, 14 Nov 2026.
 
 MURINO is a techno and electro artist based in Italy, with 17 gigs on soundcheck across Milan and Rome. Often billed alongside Asymptote, Speedy J and Alarico. Next up: Soap House - Ex Saponerie Mira Lanza, Rome on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ MURINO is a techno and electro artist based in Italy, with 17 gigs on soundcheck
 
 Asymptote, Speedy J, Alarico
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/murino-2/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/murino-2/)*

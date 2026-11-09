@@ -1,14 +1,13 @@
 # Ryoichi Kurokawa
 
-Ryoichi Kurokawa is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
+Ryoichi Kurokawa is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at MoN Takanawa, Tokyo on Fri, 20 Nov 2026.
 
-Ryoichi Kurokawa is an experimental and electronica artist based in Japan, with 10 gigs on soundcheck across Barcelona, Helsinki, Krakow and Mexico City and 4 more. Often billed alongside Ali M. Demirel, Daito Manabe and Grand River. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
+Ryoichi Kurokawa is an experimental and electronica artist based in Japan, with 10 gigs on soundcheck across Barcelona, Helsinki, Krakow and Mexico City and 4 more. Often billed alongside Ali M. Demirel, Daito Manabe and Grand River. Next up: MoN Takanawa, Tokyo on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | TivoliVredenburg | Utrecht |
 | Fri, 20 Nov 2026 | MoN Takanawa | Tokyo |
 
 ## Recently played
@@ -26,4 +25,4 @@ Ryoichi Kurokawa is an experimental and electronica artist based in Japan, with 
 
 Ali M. Demirel, Daito Manabe, Grand River
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryoichikurokawa/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryoichikurokawa/)*

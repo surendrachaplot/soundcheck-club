@@ -1,6 +1,6 @@
 # Princess P
 
-Princess P is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Kino Roland, Zurich on Fri, 27 Nov 2026.
+Princess P is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Kino Roland, Zurich on Fri, 27 Nov 2026.
 
 Princess P is a house and techno artist based in Switzerland, with 33 gigs on soundcheck across Basel, Belgrade, Dublin and Edinburgh and 5 more. Often billed alongside Leo Gretener, Kalabrese and Optimo (Espacio). Next up: Kino Roland, Zurich on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Princess P is a house and techno artist based in Switzerland, with 33 gigs on so
 
 Leo Gretener, Kalabrese, Optimo (Espacio)
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/princessp/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/princessp/)*

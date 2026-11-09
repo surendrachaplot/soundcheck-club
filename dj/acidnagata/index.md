@@ -1,6 +1,6 @@
 # ACID NAGATA
 
-ACID NAGATA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Azumaya, Tokyo on Thu, 26 Nov 2026.
+ACID NAGATA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Azumaya, Tokyo on Thu, 26 Nov 2026.
 
 ACID NAGATA is a techno and house artist based in Japan, with 16 gigs on soundcheck across Tokyo. Often billed alongside NAGATA, nylon and Takashi Mori. Next up: Azumaya, Tokyo on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ ACID NAGATA is a techno and house artist based in Japan, with 16 gigs on soundch
 
 NAGATA, nylon, Takashi Mori
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/acidnagata/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/acidnagata/)*

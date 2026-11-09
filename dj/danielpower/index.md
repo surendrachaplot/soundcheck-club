@@ -1,6 +1,6 @@
 # Daniel Power
 
-Daniel Power is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at OIL Club, Shenzhen on Sat, 5 Dec 2026.
+Daniel Power is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at OIL Club, Shenzhen on Sat, 5 Dec 2026.
 
 Daniel Power is a drum & bass and bass artist based in China, with 21 gigs on soundcheck across Beijing, Hong Kong, Shanghai and Shenzhen. Often billed alongside Foambb, Immuno and DJ 86. Next up: OIL Club, Shenzhen on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Daniel Power is a drum & bass and bass artist based in China, with 21 gigs on so
 
 Foambb, Immuno, DJ 86
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielpower/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielpower/)*

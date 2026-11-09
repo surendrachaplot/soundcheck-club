@@ -1,6 +1,6 @@
 # Green Velvet
 
-Green Velvet is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Beach House San Diego, San Diego on Fri, 13 Nov 2026.
+Green Velvet is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Beach House San Diego, San Diego on Fri, 13 Nov 2026.
 
 Green Velvet is a house and techno artist based in United States of America, with 120 gigs on soundcheck across Austin, Bogotá, Boston and Buenos Aires and 27 more. Often billed alongside Patrick Topping, Layton Giordani and Dom Dolla. Next up: Beach House San Diego, San Diego on Fri 13 Nov.
 
@@ -28,4 +28,4 @@ Green Velvet is a house and techno artist based in United States of America, wit
 
 Patrick Topping, Layton Giordani, Dom Dolla
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/greenvelvet/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/greenvelvet/)*

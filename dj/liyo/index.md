@@ -1,6 +1,6 @@
 # Liyo
 
-Liyo is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at La Station - Gare des Mines, Paris on Sat, 28 Nov 2026.
+Liyo is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at La Station - Gare des Mines, Paris on Sat, 28 Nov 2026.
 
 Liyo is a club and techno artist, with 33 gigs on soundcheck across Beijing, Berlin, Brussels and Chengdu and 8 more. Often billed alongside Otis (BE), Vegyn and Why Be. Next up: La Station - Gare des Mines, Paris on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Liyo is a club and techno artist, with 33 gigs on soundcheck across Beijing, Ber
 
 Otis (BE), Vegyn, Why Be
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/liyo/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/liyo/)*

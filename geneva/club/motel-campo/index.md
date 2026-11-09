@@ -1,6 +1,6 @@
 # Motel Campo
 
-Motel Campo is a music venue in Geneva with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Motel ✰ Gata, Hirma b2b Spice & Curls, Segenttarius, Les Novas" on Sat, 14 Nov 2026.
+Motel Campo is a music venue in Geneva with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Motel ✰ Gata, Hirma b2b Spice & Curls, Segenttarius, Les Novas" on Sat, 14 Nov 2026.
 
 Motel Campo is a music venue in Geneva listed on soundcheck. 4 upcoming gigs, with line-ups including Audrey Danza, Hirma, Quelza and Spice & Curls and 1 more. See dates, start times and who's playing. Route des Jeunes 13; Carouge, 1227, Geneva, Switzerland.
 
@@ -17,4 +17,4 @@ Motel Campo is a music venue in Geneva listed on soundcheck. 4 upcoming gigs, wi
 
 Route des Jeunes 13; Carouge, 1227, Geneva, Switzerland, Geneva
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/motel-campo/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/motel-campo/)*

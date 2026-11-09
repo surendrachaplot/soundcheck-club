@@ -1,14 +1,13 @@
 # Mastak
 
-Mastak is a music venue in Warsaw with 13 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "SUNDAY: PIØTR" on Sun, 8 Nov 2026.
+Mastak is a music venue in Warsaw with 12 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "klub Zaproszenie 14: yaka, innerinnerlife, pongifani" on Tue, 10 Nov 2026.
 
-Mastak is a music venue in Warsaw listed on soundcheck. 13 upcoming gigs, with line-ups including Adrian Skiba, Alex Kosta, Axis Operandi and Inhaberin and 2 more. See dates, start times and who's playing. Solec 81B, Wieżyca, 00-382 Warszawa.
+Mastak is a music venue in Warsaw listed on soundcheck. 12 upcoming gigs, with line-ups including Adrian Skiba, Alex Kosta, Axis Operandi and Inhaberin and 2 more. See dates, start times and who's playing. Solec 81B, Wieżyca, 00-382 Warszawa.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 8 Nov 2026 | SUNDAY: PIØTR | PIØTR |
 | Tue, 10 Nov 2026 | klub Zaproszenie 14: yaka, innerinnerlife, pongifani |  |
 | Fri, 13 Nov 2026 | Mastak 2ND BIRTHDAY: DAY 1 - LAMPA NIGHT | JESS.mp5, Plastik (1), Puha, Samogulov, Shjva, ira mos, zeroday |
 | Sat, 14 Nov 2026 | Label Night |  |
@@ -18,9 +17,10 @@ Mastak is a music venue in Warsaw listed on soundcheck. 13 upcoming gigs, with l
 | Sat, 21 Nov 2026 | L.A.N.L. IV – Live Acts All Night Long IV | Internal Observer, Kata (PL), Private Press |
 | Sun, 29 Nov 2026 | SUNDAY: VIKKI | VIKKI_ |
 | Sat, 5 Dec 2026 | FĀLĀ | Larix, Mateusz Grzybowski, Nightfall |
+| Sun, 6 Dec 2026 | SUNDAY: dulub |  |
 
 ## Address
 
 Solec 81B, Wieżyca, 00-382 Warszawa, Warsaw
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/mastak/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/mastak/)*

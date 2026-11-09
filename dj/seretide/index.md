@@ -1,6 +1,6 @@
 # seretide
 
-seretide is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at DRUMSHEDS, London on Sat, 19 Dec 2026.
+seretide is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at DRUMSHEDS, London on Sat, 19 Dec 2026.
 
 seretide is a techno and trance artist based in United Kingdom, with 43 gigs on soundcheck across Barcelona, Beijing, Chengdu and Geneva and 8 more. Often billed alongside Evian Christ, Alex Farell and Clouds. Next up: DRUMSHEDS, London on Sat 19 Dec.
 
@@ -26,4 +26,4 @@ seretide is a techno and trance artist based in United Kingdom, with 43 gigs on 
 
 Evian Christ, Alex Farell, Clouds
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seretide/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seretide/)*

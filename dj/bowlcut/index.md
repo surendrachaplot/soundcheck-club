@@ -1,6 +1,6 @@
 # Bowlcut
 
-Bowlcut is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Nico's Bar at Hackney Bridge, London on Fri, 27 Nov 2026.
+Bowlcut is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Nico's Bar at Hackney Bridge, London on Fri, 27 Nov 2026.
 
 Bowlcut is a disco and house artist based in United Kingdom, with 14 gigs on soundcheck across Edinburgh, London and Seoul. Often billed alongside Alfaz, ARLYSS and Ize. Next up: Nico's Bar at Hackney Bridge, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Bowlcut is a disco and house artist based in United Kingdom, with 14 gigs on sou
 
 Alfaz, ARLYSS, Ize (1)
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bowlcut/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bowlcut/)*

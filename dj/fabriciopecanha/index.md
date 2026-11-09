@@ -1,6 +1,6 @@
 # Fabrício Peçanha
 
-Fabrício Peçanha is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Terraza Music Park, Brazil on Fri, 1 Jan 2027.
+Fabrício Peçanha is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Terraza Music Park, Brazil on Fri, 1 Jan 2027.
 
 Fabrício Peçanha is a tech house and deep house artist, with 3 gigs on soundcheck across Brazil, Buenos Aires and Sao Paulo. Often billed alongside Bhaskar, Calussa and Czerniak. Next up: Terraza Music Park, Brazil on Fri 1 Jan.
 
@@ -19,4 +19,4 @@ Fabrício Peçanha is a tech house and deep house artist, with 3 gigs on soundch
 
 Bhaskar, Calussa, Czerniak
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fabriciopecanha/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fabriciopecanha/)*

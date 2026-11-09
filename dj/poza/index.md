@@ -1,6 +1,6 @@
 # PØZA
 
-PØZA is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Off-Club, Belgium on Sat, 5 Dec 2026.
+PØZA is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Off-Club, Belgium on Sat, 5 Dec 2026.
 
 PØZA is a techno artist based in Belgium, with 3 gigs on soundcheck across Belgium and Brussels. Often billed alongside TIIA, Cri du Coeur and Arucal. Next up: Off-Club, Belgium on Sat 5 Dec.
 
@@ -19,4 +19,4 @@ PØZA is a techno artist based in Belgium, with 3 gigs on soundcheck across Belg
 
 TIIA, Cri du Coeur, Arucal
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/poza/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/poza/)*

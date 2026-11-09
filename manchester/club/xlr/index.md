@@ -1,6 +1,6 @@
 # XLR
 
-XLR is a music venue in Manchester with 5 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Ghosts of Garage - Bring Your Own Moves [B.Y.O.B]" on Sat, 14 Nov 2026.
+XLR is a music venue in Manchester with 5 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Ghosts of Garage - Bring Your Own Moves [B.Y.O.B]" on Sat, 14 Nov 2026.
 
 XLR is a music venue in Manchester listed on soundcheck. 5 upcoming gigs, with line-ups including A For Alpha, DJ HEADTORCH, GSpot and LARISHKA (UK) and 2 more. See dates, start times and who's playing. 455 Wilmslow Road, Withington, Manchester, M20 4AN.
 
@@ -18,4 +18,4 @@ XLR is a music venue in Manchester listed on soundcheck. 5 upcoming gigs, with l
 
 455 Wilmslow Road, Withington, Manchester, M20 4AN, Manchester
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/xlr/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/xlr/)*

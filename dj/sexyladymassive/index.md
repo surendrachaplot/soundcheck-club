@@ -1,6 +1,6 @@
 # Sexy Lady Massive
 
-Sexy Lady Massive is a Jungle and Garage artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Albert Hall, Manchester on Sat, 14 Nov 2026.
+Sexy Lady Massive is a Jungle and Garage artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Albert Hall, Manchester on Sat, 14 Nov 2026.
 
 Sexy Lady Massive is a jungle and garage artist based in United Kingdom, with 74 gigs on soundcheck across Barcelona, Berlin, Brighton and Bristol and 9 more. Often billed alongside 4am Kru, Betsy Mae and Napes. Next up: Albert Hall, Manchester on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Sexy Lady Massive is a jungle and garage artist based in United Kingdom, with 74
 
 4am Kru, Betsy Mae, Napes
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sexyladymassive/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sexyladymassive/)*

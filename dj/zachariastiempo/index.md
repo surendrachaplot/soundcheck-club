@@ -1,6 +1,6 @@
 # Zacharias Tiempo
 
-Zacharias Tiempo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Delgalleria - Espa, Helsinki on Sat, 14 Nov 2026.
+Zacharias Tiempo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Delgalleria - Espa, Helsinki on Sat, 14 Nov 2026.
 
 Zacharias Tiempo is a techno and house artist based in Finland, with 5 gigs on soundcheck across Helsinki. Often billed alongside Ozzy Sahin, VLT (FI) and AKITEK. Next up: Delgalleria - Espa, Helsinki on Sat 14 Nov.
 
@@ -21,4 +21,4 @@ Zacharias Tiempo is a techno and house artist based in Finland, with 5 gigs on s
 
 Ozzy Sahin, VLT (FI), AKITEK
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zachariastiempo/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zachariastiempo/)*

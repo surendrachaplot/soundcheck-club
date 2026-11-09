@@ -1,6 +1,6 @@
 # Micronox
 
-Micronox is a Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Kino Corso, Belgium on Sat, 21 Nov 2026.
+Micronox is a Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Kino Corso, Belgium on Sat, 21 Nov 2026.
 
 Micronox is a drum & bass artist based in Belgium, with 3 gigs on soundcheck across Belgium, Brussels and Ghent. Often billed alongside Hiraeth, Cellarman and Expensive KVR. Next up: Kino Corso, Belgium on Sat 21 Nov.
 
@@ -19,4 +19,4 @@ Micronox is a drum & bass artist based in Belgium, with 3 gigs on soundcheck acr
 
 Hiraeth, Cellarman, Expensive KVR
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/micronox-be/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/micronox-be/)*

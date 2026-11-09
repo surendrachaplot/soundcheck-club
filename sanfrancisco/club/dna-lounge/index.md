@@ -1,6 +1,6 @@
 # DNA Lounge
 
-DNA Lounge is a music venue in San Francisco/Oakland with 5 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Nu Metal vs Emo w/Live Bands" on Fri, 13 Nov 2026.
+DNA Lounge is a music venue in San Francisco/Oakland with 5 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Nu Metal vs Emo w/Live Bands" on Fri, 13 Nov 2026.
 
 DNA Lounge is a music venue in San Francisco/Oakland listed on soundcheck. 5 upcoming gigs, with line-ups including An Dy, Anthony Zmoda, Berk and redstickman. See dates, start times and who's playing. 375 Eleventh Street, San Francisco, CA 94103, United States.
 
@@ -18,4 +18,4 @@ DNA Lounge is a music venue in San Francisco/Oakland listed on soundcheck. 5 upc
 
 375 Eleventh Street, San Francisco, CA 94103, United States, San Francisco/Oakland
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/dna-lounge/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/dna-lounge/)*

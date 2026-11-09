@@ -1,6 +1,6 @@
 # Kings Turntable: Here On Earth [29.11.26] at Kings Arms E2
 
-Kings Turntable: Here On Earth [29.11.26] at Kings Arms E2 on Sun 29 Nov, London. 1 artist: Here on Earth. Jazz. See the line-up on soundcheck.
+Kings Turntable: Here On Earth [29.11.26] at Kings Arms E2 on Sun 29 Nov, London. 1 artist: Here on Earth. Downtempo and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

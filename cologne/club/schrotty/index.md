@@ -1,6 +1,6 @@
 # Schrotty
 
-Schrotty is a music venue in Cologne with 8 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "KLUENGEL XXL w/ Überkikz, Fenimore, DJ Hyperdrive, Felix Kröcher, Justin Tinderdate, Elotrance" on Wed, 11 Nov 2026.
+Schrotty is a music venue in Cologne with 8 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "KLUENGEL XXL w/ Überkikz, Fenimore, DJ Hyperdrive, Felix Kröcher, Justin Tinderdate, Elotrance" on Wed, 11 Nov 2026.
 
 Schrotty is a music venue in Cologne listed on soundcheck. 8 upcoming gigs, with line-ups including Alfred Heinrichs, Amilli, ANNĒ and Bergen and 2 more. See dates, start times and who's playing. Vogelsanger Straße 406, 50827 Köln.
 
@@ -21,4 +21,4 @@ Schrotty is a music venue in Cologne listed on soundcheck. 8 upcoming gigs, with
 
 Vogelsanger Straße 406, 50827 Köln, Cologne
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/schrotty/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/schrotty/)*

@@ -1,6 +1,6 @@
 # Doctor Dru
 
-Doctor Dru is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Les Enfants Brillants, Barcelona on Sat, 19 Dec 2026.
+Doctor Dru is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Les Enfants Brillants, Barcelona on Sat, 19 Dec 2026.
 
 Doctor Dru is a house and progressive house artist based in Germany, with 14 gigs on soundcheck across Barcelona, Hamburg, Medellin and Mexico City and 2 more. Often billed alongside Miss Manu, Andrea Castells and Bambook. Next up: Les Enfants Brillants, Barcelona on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Doctor Dru is a house and progressive house artist based in Germany, with 14 gig
 
 Miss Manu, Andrea Castells, Bambook
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doctordru/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doctordru/)*

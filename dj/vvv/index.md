@@ -1,6 +1,6 @@
 # VVV
 
-VVV is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Paral•lel 62, Barcelona on Fri, 20 Nov 2026.
+VVV is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Paral•lel 62, Barcelona on Fri, 20 Nov 2026.
 
 VVV is an electronic artist, with 3 gigs on soundcheck across Barcelona. Often billed alongside Dengue Dengue Dengue, Fakeguido and Javi Lier. Next up: Paral•lel 62, Barcelona on Fri 20 Nov.
 
@@ -19,4 +19,4 @@ VVV is an electronic artist, with 3 gigs on soundcheck across Barcelona. Often b
 
 Dengue Dengue Dengue, Fakeguido, Javi Lier
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vvv/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vvv/)*

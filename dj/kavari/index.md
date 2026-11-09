@@ -1,6 +1,6 @@
 # KAVARI
 
-KAVARI is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 18 Dec 2026.
+KAVARI is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 18 Dec 2026.
 
 KAVARI is an experimental and techno artist based in United Kingdom, with 113 gigs on soundcheck across Amsterdam, Auckland, Austin and Austria and 39 more. Often billed alongside Blood of Aza, gyrofield and Blawan. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 18 Dec.
 
@@ -26,4 +26,4 @@ KAVARI is an experimental and techno artist based in United Kingdom, with 113 gi
 
 Blood of Aza, gyrofield, Blawan
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kavari/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kavari/)*

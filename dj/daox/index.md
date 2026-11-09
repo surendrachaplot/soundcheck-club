@@ -1,14 +1,13 @@
 # Daox
 
-Daox is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
+Daox is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Les Asnouss, Morocco on Fri, 13 Nov 2026.
 
-Daox is a house and techno artist based in Morocco, with 29 gigs on soundcheck across Bangkok, Barcelona, Berlin and Central and 7 more. Often billed alongside Penelope, Aline Umber and Caruan. Next up: One Resort, Tunisia on Thu 5 Nov.
+Daox is a house and techno artist based in Morocco, with 29 gigs on soundcheck across Bangkok, Barcelona, Berlin and Central and 7 more. Often billed alongside Penelope, Aline Umber and Caruan. Next up: TBA - Les Asnouss, Morocco on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | One Resort | Tunisia |
 | Fri, 13 Nov 2026 | TBA - Les Asnouss | Morocco |
 
 ## Recently played
@@ -26,4 +25,4 @@ Daox is a house and techno artist based in Morocco, with 29 gigs on soundcheck a
 
 Penelope (2), Aline Umber, Caruan
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daox/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daox/)*

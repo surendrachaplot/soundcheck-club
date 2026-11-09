@@ -1,6 +1,6 @@
 # Mod.1
 
-Mod.1 is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - El Invernadero, Madrid on Sat, 21 Nov 2026.
+Mod.1 is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - El Invernadero, Madrid on Sat, 21 Nov 2026.
 
 Mod.1 is a techno and dub techno artist based in Spain, with 67 gigs on soundcheck across Barcelona, Berlin, Madrid and Milan and 4 more. Often billed alongside ABSIS, Ana Alves and Queixal. Next up: TBA - El Invernadero, Madrid on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Mod.1 is a techno and dub techno artist based in Spain, with 67 gigs on soundche
 
 ABSIS, Ana Alves, Queixal
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mod1/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mod1/)*

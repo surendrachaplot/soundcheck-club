@@ -1,6 +1,6 @@
 # Mr. Roussos
 
-Mr. Roussos is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Astron Club, Athens on Fri, 20 Nov 2026.
+Mr. Roussos is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Astron Club, Athens on Fri, 20 Nov 2026.
 
 Mr. Roussos is a house and techno artist based in Greece, with 57 gigs on soundcheck across Athens. Often billed alongside Bonso, Mr.M and Useless Co.. Next up: Astron Club, Athens on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Mr. Roussos is a house and techno artist based in Greece, with 57 gigs on soundc
 
 Bonso, Mr.M, Useless Co.
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.roussos/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.roussos/)*

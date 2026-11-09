@@ -1,6 +1,6 @@
 # Danny Jarvis
 
-Danny Jarvis is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at The Cut, Newcastle on Sun, 27 Dec 2026.
+Danny Jarvis is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Cut, Newcastle on Sun, 27 Dec 2026.
 
 Danny Jarvis is an electronic artist based in United Kingdom, with 13 gigs on soundcheck across Newcastle. Often billed alongside Robbie Robinson. Next up: The Cut, Newcastle on Sun 27 Dec.
 
@@ -25,4 +25,4 @@ Danny Jarvis is an electronic artist based in United Kingdom, with 13 gigs on so
 
 Robbie Robinson
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyjarvis/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyjarvis/)*

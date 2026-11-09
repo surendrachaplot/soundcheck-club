@@ -1,6 +1,6 @@
 # DJ Ultra Violet
 
-DJ Ultra Violet is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Superior Ingredients, New York City on Sat, 21 Nov 2026.
+DJ Ultra Violet is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Superior Ingredients, New York City on Sat, 21 Nov 2026.
 
 DJ Ultra Violet is a house and techno artist based in United States of America, with 101 gigs on soundcheck across New York City. Often billed alongside Eli Escobar, DADA COZMIC and Bendito. Next up: Superior Ingredients, New York City on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ DJ Ultra Violet is a house and techno artist based in United States of America, 
 
 Eli Escobar, DADA COZMIC, Bendito
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djultraviolet/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djultraviolet/)*

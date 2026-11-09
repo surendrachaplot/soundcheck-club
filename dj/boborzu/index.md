@@ -1,6 +1,6 @@
 # Bo (Borzu)
 
-Bo (Borzu) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 13 Nov 2026.
+Bo (Borzu) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 13 Nov 2026.
 
 Bo (Borzu) is a house and deep house artist, with 17 gigs on soundcheck across Berlin, New York City, San Francisco/Oakland and Washington DC. Often billed alongside Rooz, Mira and Anthony Mansfield. Next up: The Great Northern, San Francisco/Oakland on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Bo (Borzu) is a house and deep house artist, with 17 gigs on soundcheck across B
 
 Rooz, Mira, Anthony Mansfield
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boborzu/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boborzu/)*

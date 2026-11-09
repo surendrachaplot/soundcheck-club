@@ -1,6 +1,6 @@
 # nunu (2)
 
-nunu (2) is a Club and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Trans-Pecos, New York City on Sat, 21 Nov 2026.
+nunu (2) is a Club and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Trans-Pecos, New York City on Sat, 21 Nov 2026.
 
 nunu is a club and electronica artist based in United States of America, with 5 gigs on soundcheck across New York City. Often billed alongside AceMo, Bodegaparty and Castillonaire. Next up: Trans-Pecos, New York City on Sat 21 Nov.
 
@@ -21,4 +21,4 @@ nunu is a club and electronica artist based in United States of America, with 5 
 
 AceMo, Bodegaparty, Castillonaire
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nunu-2/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nunu-2/)*

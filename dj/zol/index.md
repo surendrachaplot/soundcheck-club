@@ -1,6 +1,6 @@
 # ZOL
 
-ZOL is a Dub Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Turbina, Budapest on Sat, 14 Nov 2026.
+ZOL is a Dub Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Turbina, Budapest on Sat, 14 Nov 2026.
 
 ZOL is a dub techno and minimal artist, with 9 gigs on soundcheck across Budapest. Often billed alongside Garpo, Arapu and Bekø. Next up: Turbina, Budapest on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ ZOL is a dub techno and minimal artist, with 9 gigs on soundcheck across Budapes
 
 Garpo, Arapu, Bekø
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zol/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zol/)*

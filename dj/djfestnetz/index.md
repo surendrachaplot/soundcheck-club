@@ -1,6 +1,6 @@
 # DJ Festnetz
 
-DJ Festnetz is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Humboldthain Club, Berlin on Sat, 21 Nov 2026.
+DJ Festnetz is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Humboldthain Club, Berlin on Sat, 21 Nov 2026.
 
 DJ Festnetz is a trance and techno artist based in Germany, with 6 gigs on soundcheck across Berlin, Munich, Nürnberg and Vienna. Often billed alongside ACSID, Amo (IT) and August Kind. Next up: Humboldthain Club, Berlin on Sat 21 Nov.
 
@@ -22,4 +22,4 @@ DJ Festnetz is a trance and techno artist based in Germany, with 6 gigs on sound
 
 ACSID, Amo (IT), August Kind
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djfestnetz/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djfestnetz/)*

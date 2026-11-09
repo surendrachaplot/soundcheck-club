@@ -1,6 +1,6 @@
 # h1rune
 
-h1rune is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Club Move, Kansai on Fri, 13 Nov 2026.
+h1rune is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Club Move, Kansai on Fri, 13 Nov 2026.
 
 h1rune is a house and disco artist based in Japan, with 7 gigs on soundcheck across Kansai, Kyoto and Osaka. Often billed alongside FUMiC, CRAZYHYUGA and K-SUKE. Next up: Club Move, Kansai on Fri 13 Nov.
 
@@ -23,4 +23,4 @@ h1rune is a house and disco artist based in Japan, with 7 gigs on soundcheck acr
 
 FUMiC, CRAZYHYUGA, K-SUKE
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/h1rune/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/h1rune/)*

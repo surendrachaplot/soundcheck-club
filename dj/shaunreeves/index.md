@@ -1,6 +1,6 @@
 # Shaun Reeves
 
-Shaun Reeves is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Lincoln Factory, Detroit on Fri, 13 Nov 2026.
+Shaun Reeves is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Lincoln Factory, Detroit on Fri, 13 Nov 2026.
 
 Shaun Reeves is a house and minimal artist based in United States of America, with 93 gigs on soundcheck across Atlanta, Berlin, Boston and Brussels and 16 more. Often billed alongside Ryan Crosson, Stretch (DET) and Andrea Ghita. Next up: Lincoln Factory, Detroit on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Shaun Reeves is a house and minimal artist based in United States of America, wi
 
 Ryan Crosson, Stretch (DET), Andrea Ghita
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shaunreeves/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shaunreeves/)*

@@ -1,6 +1,6 @@
 # Rare Highs
 
-Rare Highs is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Crack Bellmer, Berlin on Sat, 21 Nov 2026.
+Rare Highs is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Crack Bellmer, Berlin on Sat, 21 Nov 2026.
 
 Rare Highs is a techno and bass artist based in Ireland, with 5 gigs on soundcheck across Berlin and Galway. Often billed alongside Supergross, 2727 and Walodja. Next up: Crack Bellmer, Berlin on Sat 21 Nov.
 
@@ -21,4 +21,4 @@ Rare Highs is a techno and bass artist based in Ireland, with 5 gigs on soundche
 
 Supergross, 2727, Walodja
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rarehighs/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rarehighs/)*

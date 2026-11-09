@@ -1,6 +1,6 @@
 # Lou Celsius
 
-Lou Celsius is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Système, Montreal on Fri, 27 Nov 2026.
+Lou Celsius is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Système, Montreal on Fri, 27 Nov 2026.
 
 Lou Celsius is a techno and bass artist based in Canada, with 15 gigs on soundcheck across Montreal and Toronto. Often billed alongside Fate, CrisseMarqueur and Divina (CA). Next up: Système, Montreal on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Lou Celsius is a techno and bass artist based in Canada, with 15 gigs on soundch
 
 Fate (2), CrisseMarqueur, Divina (CA)
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loucelsius/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loucelsius/)*

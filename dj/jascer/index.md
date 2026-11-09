@@ -1,6 +1,6 @@
 # Jascer
 
-Jascer is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Tai Tong Organic Ecopark, Hong Kong on Sat, 14 Nov 2026.
+Jascer is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Tai Tong Organic Ecopark, Hong Kong on Sat, 14 Nov 2026.
 
 Jascer is a techno and electro artist based in China, with 80 gigs on soundcheck across Beijing, Chengdu, Hanoi and Hong Kong and 2 more. Often billed alongside Sirens, DJ 86 and Warmchainss. Next up: Tai Tong Organic Ecopark, Hong Kong on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Jascer is a techno and electro artist based in China, with 80 gigs on soundcheck
 
 Sirens, DJ 86, Warmchainss
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jascer/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jascer/)*

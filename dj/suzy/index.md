@@ -1,6 +1,6 @@
 # su:zy
 
-su:zy is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Ankali & Planeta Za, Prague on Sat, 28 Nov 2026.
+su:zy is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Ankali & Planeta Za, Prague on Sat, 28 Nov 2026.
 
 su:zy is a techno and trance artist based in Belgium, with 26 gigs on soundcheck across Antwerp, Brussels, Ghent and Paris and 1 more. Often billed alongside Ampe, Fais Le Beau and STDJ. Next up: Ankali & Planeta Za, Prague on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ su:zy is a techno and trance artist based in Belgium, with 26 gigs on soundcheck
 
 Ampe, Fais Le Beau, STDJ
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suzy/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suzy/)*

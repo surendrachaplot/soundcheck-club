@@ -1,6 +1,6 @@
 # AXÖN
 
-AXÖN is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at ZEROTOKYO, Tokyo on Fri, 18 Dec 2026.
+AXÖN is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at ZEROTOKYO, Tokyo on Fri, 18 Dec 2026.
 
 AXÖN is a house and tech house artist based in Japan, with 11 gigs on soundcheck across Los Angeles, Seattle, Seoul and Tokyo. Often billed alongside Kijta, Onacity and James Gatz. Next up: ZEROTOKYO, Tokyo on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ AXÖN is a house and tech house artist based in Japan, with 11 gigs on soundchec
 
 Kijta, Onacity, James Gatz
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/axon-jp/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/axon-jp/)*

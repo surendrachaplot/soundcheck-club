@@ -1,6 +1,6 @@
 # KATARAMA
 
-KATARAMA is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Bambi's, Toronto on Fri, 27 Nov 2026.
+KATARAMA is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Bambi's, Toronto on Fri, 27 Nov 2026.
 
 KATARAMA is a club and bass artist based in Canada, with 25 gigs on soundcheck across Montreal, Toronto and Vancouver. Often billed alongside Eytan Tobin, Vaughan and MIASALAV. Next up: Bambi's, Toronto on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ KATARAMA is a club and bass artist based in Canada, with 25 gigs on soundcheck a
 
 Eytan Tobin, Vaughan (2), MIASALAV
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katarama/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katarama/)*

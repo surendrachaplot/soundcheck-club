@@ -1,6 +1,6 @@
 # 50PHIE
 
-50PHIE is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Golden Pudel Club, Hamburg on Thu, 12 Nov 2026.
+50PHIE is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Golden Pudel Club, Hamburg on Thu, 12 Nov 2026.
 
 50PHIE is a techno and house artist based in Germany, with 45 gigs on soundcheck across Berlin, Frankfurt, Hamburg and Hannover and 2 more. Often billed alongside Christian Kluge, Jacob Knob and Vy Tran. Next up: Golden Pudel Club, Hamburg on Thu 12 Nov.
 
@@ -26,4 +26,4 @@
 
 Christian Kluge, Jacob Knob, Vy Tran
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/50phie/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/50phie/)*

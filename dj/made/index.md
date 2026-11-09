@@ -1,6 +1,6 @@
 # MADE
 
-MADE is a Balearic and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at The White Hotel, Manchester on Mon, 28 Dec 2026.
+MADE is a Balearic and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The White Hotel, Manchester on Mon, 28 Dec 2026.
 
 MADE is a balearic and minimal techno artist, with 5 gigs on soundcheck across Amsterdam, Bali, Glasgow and Manchester. Often billed alongside AISHA, ASLO and Afrodeutsche. Next up: The White Hotel, Manchester on Mon 28 Dec.
 
@@ -21,4 +21,4 @@ MADE is a balearic and minimal techno artist, with 5 gigs on soundcheck across A
 
 AISHA, ASLO, Afrodeutsche
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/made/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/made/)*

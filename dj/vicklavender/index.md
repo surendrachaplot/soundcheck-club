@@ -1,6 +1,6 @@
 # Vick Lavender
 
-Vick Lavender is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Podlasie Club, Chicago on Sat, 28 Nov 2026.
+Vick Lavender is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Podlasie Club, Chicago on Sat, 28 Nov 2026.
 
 Vick Lavender is a house and deep house artist based in United States of America, with 24 gigs on soundcheck across Amsterdam, Berlin, Chicago and Detroit and 8 more. Often billed alongside Anthony Nicholson, Craig White and ANGEL-A. Next up: Podlasie Club, Chicago on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Vick Lavender is a house and deep house artist based in United States of America
 
 Anthony Nicholson, Craig White, ANGEL-A
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vicklavender/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vicklavender/)*

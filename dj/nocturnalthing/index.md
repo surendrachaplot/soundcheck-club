@@ -1,6 +1,6 @@
 # Nocturnal Thing
 
-Nocturnal Thing is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Stadion Strahov, Prague on Fri, 13 Nov 2026.
+Nocturnal Thing is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Stadion Strahov, Prague on Fri, 13 Nov 2026.
 
 Nocturnal Thing is a techno and drum & bass artist based in Czech Republic, with 3 gigs on soundcheck across Prague. Often billed alongside Citty, Etienn Grey and Olivia Mendez. Next up: Stadion Strahov, Prague on Fri 13 Nov.
 
@@ -19,4 +19,4 @@ Nocturnal Thing is a techno and drum & bass artist based in Czech Republic, with
 
 Citty, Etienn Grey, Olivia Mendez
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nocturnalthing/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nocturnalthing/)*

@@ -1,6 +1,6 @@
 # Mandolin
 
-Mandolin is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Morgan's Bar, Manchester on Sat, 12 Dec 2026.
+Mandolin is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Morgan's Bar, Manchester on Sat, 12 Dec 2026.
 
 Mandolin is a house and disco artist based in United Kingdom, with 6 gigs on soundcheck across Bristol and Manchester. Often billed alongside Old Child, AdomasLP and Babs. Next up: Morgan's Bar, Manchester on Sat 12 Dec.
 
@@ -22,4 +22,4 @@ Mandolin is a house and disco artist based in United Kingdom, with 6 gigs on sou
 
 Old Child, AdomasLP, Babs (3)
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mandolin/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mandolin/)*

@@ -1,6 +1,6 @@
 # Silent Green
 
-Silent Green is a music venue in Berlin with 14 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Ana  + Clarice " on Mon, 9 Nov 2026.
+Silent Green is a music venue in Berlin with 14 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Ana  + Clarice " on Mon, 9 Nov 2026.
 
 Silent Green is a music venue in Berlin listed on soundcheck. 14 upcoming gigs, with line-ups including Abdullah Miniawy, Ana Roxanne, Babak Ahteshamipour and Cinna Peyghamy and 2 more. See dates, start times and who's playing. Gerichtstraße 35, 13347 Berlin, Germany.
 
@@ -23,4 +23,4 @@ Silent Green is a music venue in Berlin listed on soundcheck. 14 upcoming gigs, 
 
 Gerichtstraße 35, 13347 Berlin, Germany, Berlin
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/silent-green/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/silent-green/)*

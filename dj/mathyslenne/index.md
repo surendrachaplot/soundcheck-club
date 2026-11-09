@@ -1,6 +1,6 @@
 # Mathys Lenne
 
-Mathys Lenne is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at FVTVR, Paris on Fri, 13 Nov 2026.
+Mathys Lenne is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at FVTVR, Paris on Fri, 13 Nov 2026.
 
 Mathys Lenne is a techno and house artist based in France, with 102 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 32 more. Often billed alongside Olivia Mendez, Maris Shilton and Mara Menace. Next up: FVTVR, Paris on Fri 13 Nov.
 
@@ -28,4 +28,4 @@ Mathys Lenne is a techno and house artist based in France, with 102 gigs on soun
 
 Olivia Mendez, Maris Shilton, Mara Menace
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mathyslenne/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mathyslenne/)*

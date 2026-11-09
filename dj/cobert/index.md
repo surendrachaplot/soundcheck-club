@@ -1,6 +1,6 @@
 # Cobert
 
-Cobert is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Bassiani, Tbilisi on Sat, 28 Nov 2026.
+Cobert is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Bassiani, Tbilisi on Sat, 28 Nov 2026.
 
 Cobert is an experimental and techno artist based in Georgia, with 40 gigs on soundcheck across Berlin, Lisbon and Tbilisi. Often billed alongside Gio Shengelia, Ottonian and Bero. Next up: Bassiani, Tbilisi on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Cobert is an experimental and techno artist based in Georgia, with 40 gigs on so
 
 Gio Shengelia, Ottonian, Bero
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cobert/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cobert/)*

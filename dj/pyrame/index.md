@@ -1,6 +1,6 @@
 # Pyrame
 
-Pyrame is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Minimal Bar, Berlin on Thu, 26 Nov 2026.
+Pyrame is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Minimal Bar, Berlin on Thu, 26 Nov 2026.
 
 Pyrame is a house and electro artist based in Switzerland, with 58 gigs on soundcheck across Barcelona, Berlin, Lausanne and Marseille. Often billed alongside Acid Washed, Bardamu and Justin Rivera. Next up: Minimal Bar, Berlin on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Pyrame is a house and electro artist based in Switzerland, with 58 gigs on sound
 
 Acid Washed, Bardamu, Justin Rivera
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pyrame/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pyrame/)*

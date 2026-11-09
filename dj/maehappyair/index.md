@@ -1,6 +1,6 @@
 # Mae Happyair
 
-Mae Happyair is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Horn, Bangkok on Sat, 14 Nov 2026.
+Mae Happyair is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Horn, Bangkok on Sat, 14 Nov 2026.
 
 Mae Happyair is a techno and house artist based in Thailand, with 79 gigs on soundcheck across Bali, Bangkok, Hanoi and Ho Chi Minh City and 3 more. Often billed alongside MJMA, Gres Teh and Club Mascot. Next up: Horn, Bangkok on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Mae Happyair is a techno and house artist based in Thailand, with 79 gigs on sou
 
 MJMA, Gres Teh, Club Mascot
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maehappyair/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maehappyair/)*

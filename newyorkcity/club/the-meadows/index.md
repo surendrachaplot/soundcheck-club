@@ -1,6 +1,6 @@
 # The Meadows
 
-The Meadows is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Perreo Meets Techno (21+)" on Fri, 13 Nov 2026.
+The Meadows is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Perreo Meets Techno (21+)" on Fri, 13 Nov 2026.
 
 The Meadows is a music venue in New York City listed on soundcheck. 5 upcoming gigs. See dates, start times and who's playing. 17 Meadow St, Brooklyn, NY 11206.
 
@@ -18,4 +18,4 @@ The Meadows is a music venue in New York City listed on soundcheck. 5 upcoming g
 
 17 Meadow St, Brooklyn, NY 11206, New York City
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-meadows/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-meadows/)*

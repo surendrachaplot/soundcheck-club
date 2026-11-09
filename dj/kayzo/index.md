@@ -1,6 +1,6 @@
 # Kayzo
 
-Kayzo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Radius, Chicago on Fri, 5 Mar 2027.
+Kayzo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Radius, Chicago on Fri, 5 Mar 2027.
 
 Kayzo is a techno and house artist based in United States of America, with 31 gigs on soundcheck across Amsterdam, Atlanta, Austin and Boston and 20 more. Often billed alongside hhunter, Alesso and Audien. Next up: Radius, Chicago on Fri 5 Mar.
 
@@ -25,4 +25,4 @@ Kayzo is a techno and house artist based in United States of America, with 31 gi
 
 hhunter, Alesso, Audien
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kayzo/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kayzo/)*

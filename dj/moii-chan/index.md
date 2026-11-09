@@ -1,6 +1,6 @@
 # moii-chan
 
-moii-chan is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Cafeteria, Toronto on Sat, 28 Nov 2026.
+moii-chan is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Cafeteria, Toronto on Sat, 28 Nov 2026.
 
 moii-chan is a club and techno artist based in Canada, with 22 gigs on soundcheck across Toronto. Often billed alongside CYLLA, 999ADJ and Akkai. Next up: Cafeteria, Toronto on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ moii-chan is a club and techno artist based in Canada, with 22 gigs on soundchec
 
 CYLLA, 999ADJ, Akkai (2)
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moii-chan/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moii-chan/)*

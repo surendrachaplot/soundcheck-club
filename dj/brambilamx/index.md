@@ -1,6 +1,6 @@
 # Brambila (MX)
 
-Brambila (MX) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Radio 28, Puebla on Sat, 14 Nov 2026.
+Brambila (MX) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Radio 28, Puebla on Sat, 14 Nov 2026.
 
 Brambila (MX) is a house and electro artist, with 3 gigs on soundcheck across Guadalajara, Mexico City and Puebla. Often billed alongside Axolote, Hanzo Tono and Jimbo (MX). Next up: Radio 28, Puebla on Sat 14 Nov.
 
@@ -19,4 +19,4 @@ Brambila (MX) is a house and electro artist, with 3 gigs on soundcheck across Gu
 
 Axolote, Hanzo Tono, Jimbo (MX)
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brambilamx/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brambilamx/)*

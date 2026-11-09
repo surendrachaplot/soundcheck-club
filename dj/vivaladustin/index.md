@@ -1,6 +1,6 @@
 # VivaLaDustin
 
-VivaLaDustin is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Sensorium, Berlin on Wed, 2 Dec 2026.
+VivaLaDustin is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Sensorium, Berlin on Wed, 2 Dec 2026.
 
 VivaLaDustin is a techno and tech house artist, with 4 gigs on soundcheck across Berlin. Often billed alongside April the pink, DJ Longpape and Determiner. Next up: Sensorium, Berlin on Wed 2 Dec.
 
@@ -20,4 +20,4 @@ VivaLaDustin is a techno and tech house artist, with 4 gigs on soundcheck across
 
 April the pink, DJ Longpape, Determiner
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vivaladustin/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vivaladustin/)*

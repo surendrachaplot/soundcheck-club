@@ -1,6 +1,6 @@
 # Odysseus
 
-Odysseus is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at House of Vans CDMX, Mexico City on Sat, 5 Dec 2026.
+Odysseus is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at House of Vans CDMX, Mexico City on Sat, 5 Dec 2026.
 
 Odysseus is a techno and house artist based in Mexico, with 4 gigs on soundcheck across Florence, Guadalajara, Istanbul and Mexico City. Often billed alongside DJ WINDOWS 7, Mike.D and Pijus. Next up: House of Vans CDMX, Mexico City on Sat 5 Dec.
 
@@ -20,4 +20,4 @@ Odysseus is a techno and house artist based in Mexico, with 4 gigs on soundcheck
 
 DJ WINDOWS 7, Mike.D, Pijus
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/odysseus/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/odysseus/)*

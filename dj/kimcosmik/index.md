@@ -1,6 +1,6 @@
 # Kim Cosmik
 
-Kim Cosmik is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at M.O.T, London on Fri, 11 Dec 2026.
+Kim Cosmik is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at M.O.T, London on Fri, 11 Dec 2026.
 
 Kim Cosmik is an acid and techno artist based in United Kingdom, with 12 gigs on soundcheck across Birmingham, Bristol and London. Often billed alongside Jerome Hill, Sterling Moss and Aaron Liberator. Next up: M.O.T, London on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Kim Cosmik is an acid and techno artist based in United Kingdom, with 12 gigs on
 
 Jerome Hill, Sterling Moss, Aaron Liberator
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kimcosmik/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kimcosmik/)*

@@ -1,6 +1,6 @@
 # shakesbiier
 
-shakesbiier is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Sensorium, Berlin on Wed, 2 Dec 2026.
+shakesbiier is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Sensorium, Berlin on Wed, 2 Dec 2026.
 
 shakesbiier is a techno and tech house artist based in Germany, with 3 gigs on soundcheck across Berlin. Often billed alongside April the pink, Andara Nox and Anna Hoeber. Next up: Sensorium, Berlin on Wed 2 Dec.
 
@@ -19,4 +19,4 @@ shakesbiier is a techno and tech house artist based in Germany, with 3 gigs on s
 
 April the pink, Andara Nox, Anna Hoeber
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shakesbiier/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shakesbiier/)*

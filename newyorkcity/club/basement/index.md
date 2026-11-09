@@ -1,6 +1,6 @@
 # BASEMENT
 
-BASEMENT is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Schwefelgelb / Justine Perry / Liza Rivs / Makadsi / Sterling Juan Diaz / Baroque Hoe" on Fri, 13 Nov 2026.
+BASEMENT is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Schwefelgelb / Justine Perry / Liza Rivs / Makadsi / Sterling Juan Diaz / Baroque Hoe" on Fri, 13 Nov 2026.
 
 BASEMENT is a music venue in New York City listed on soundcheck. 4 upcoming gigs, with line-ups including Justine Perry, LYDO, Amotik and Baroque Hoe and 2 more. See dates, start times and who's playing. 52-19 Flushing Ave., Maspeth, NY 11378 USA.
 
@@ -17,4 +17,4 @@ BASEMENT is a music venue in New York City listed on soundcheck. 4 upcoming gigs
 
 52-19 Flushing Ave., Maspeth, NY 11378 USA, New York City
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/basement/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/basement/)*

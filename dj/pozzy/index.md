@@ -1,6 +1,6 @@
 # Pozzy
 
-Pozzy is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Sensorium, Berlin on Wed, 9 Dec 2026.
+Pozzy is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Sensorium, Berlin on Wed, 9 Dec 2026.
 
 Pozzy is a tech house and techno artist based in Germany, with 10 gigs on soundcheck across Berlin, Bristol, London and Manchester. Often billed alongside IZZIT, DASHY and Deselecta. Next up: Sensorium, Berlin on Wed 9 Dec.
 
@@ -25,4 +25,4 @@ Pozzy is a tech house and techno artist based in Germany, with 10 gigs on soundc
 
 IZZIT, DASHY, Deselecta
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pozzy/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pozzy/)*

@@ -1,6 +1,6 @@
 # Elias the Prophet
 
-Elias the Prophet is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Powered by: Void Acoustics, Madrid on Sat, 28 Nov 2026.
+Elias the Prophet is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Powered by: Void Acoustics, Madrid on Sat, 28 Nov 2026.
 
 Elias the Prophet is a techno and minimal techno artist, with 7 gigs on soundcheck across Madrid. Often billed alongside Hector MAD, A Thousand Details and Akenaton. Next up: TBA - Powered by: Void Acoustics, Madrid on Sat 28 Nov.
 
@@ -23,4 +23,4 @@ Elias the Prophet is a techno and minimal techno artist, with 7 gigs on soundche
 
 Hector MAD, A Thousand Details, Akenaton
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eliastheprophet/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eliastheprophet/)*

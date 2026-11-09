@@ -1,8 +1,8 @@
 # Cadavra
 
-Cadavra is a music venue in Madrid with 21 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Mareena, Charlton & Unkle Fon at ANFANG" on Thu, 12 Nov 2026.
+Cadavra is a music venue in Madrid with 22 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Mareena, Charlton & Unkle Fon at ANFANG" on Thu, 12 Nov 2026.
 
-Cadavra is a music venue in Madrid listed on soundcheck. 21 upcoming gigs, with line-ups including Abdulla A., Answer Code Request, Avo (ES) and Bambi (FR) and 2 more. See dates, start times and who's playing. C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain.
+Cadavra is a music venue in Madrid listed on soundcheck. 22 upcoming gigs, with line-ups including Abdulla A., Answer Code Request, Avo (ES) and Bambi (FR) and 2 more. See dates, start times and who's playing. C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Cadavra is a music venue in Madrid listed on soundcheck. 21 upcoming gigs, with 
 
 C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain, Madrid
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/cadavra/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/cadavra/)*

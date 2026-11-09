@@ -1,6 +1,6 @@
 # D.O.D at Echostage
 
-D.O.D at Echostage on Sat 6 Feb, Washington Dc. 1 artist: D.O.D.. See the line-up on soundcheck.
+D.O.D at Echostage on Sat 6 Feb, Washington Dc. 1 artist: D.O.D.. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Jewel Kid
 
-Jewel Kid is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Armania Phuket, Thailand on Fri, 13 Nov 2026.
+Jewel Kid is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Armania Phuket, Thailand on Fri, 13 Nov 2026.
 
 Jewel Kid is a house and tech house artist based in Malta, with 8 gigs on soundcheck across Amsterdam, Ibiza, London and Malta and 4 more. Often billed alongside James Hurr, NODUS and Sam Supplier. Next up: Armania Phuket, Thailand on Fri 13 Nov.
 
@@ -24,4 +24,4 @@ Jewel Kid is a house and tech house artist based in Malta, with 8 gigs on soundc
 
 James Hurr, NODUS, Sam Supplier
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jewelkid/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jewelkid/)*

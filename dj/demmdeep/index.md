@@ -1,6 +1,6 @@
 # Demm Deep
 
-Demm Deep is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Sacré, Paris on Fri, 18 Dec 2026.
+Demm Deep is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Sacré, Paris on Fri, 18 Dec 2026.
 
 Demm Deep is a house and garage artist, with 4 gigs on soundcheck across Paris and Zurich. Often billed alongside JACK MARLOW, Polyphone and p-rallel. Next up: Sacré, Paris on Fri 18 Dec.
 
@@ -20,4 +20,4 @@ Demm Deep is a house and garage artist, with 4 gigs on soundcheck across Paris a
 
 JACK MARLOW, Polyphone, p-rallel
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/demmdeep/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/demmdeep/)*

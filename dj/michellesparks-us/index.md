@@ -1,6 +1,6 @@
 # Michelle Sparks
 
-Michelle Sparks is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Undisclosed Location, Arizona on Sat, 14 Nov 2026.
+Michelle Sparks is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Undisclosed Location, Arizona on Sat, 14 Nov 2026.
 
 Michelle Sparks is a techno and house artist based in United States of America, with 11 gigs on soundcheck across Amsterdam, Arizona, Chicago and Denver and 5 more. Often billed alongside Juheun, Barbosa and Declan James. Next up: TBA - Undisclosed Location, Arizona on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Michelle Sparks is a techno and house artist based in United States of America, 
 
 Juheun, Barbosa, Declan James
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/michellesparks-us/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/michellesparks-us/)*

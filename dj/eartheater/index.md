@@ -1,6 +1,6 @@
 # Eartheater
 
-Eartheater is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Treefort Music Hall, Idaho on Wed, 31 Mar 2027.
+Eartheater is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Treefort Music Hall, Idaho on Wed, 31 Mar 2027.
 
 Eartheater is an electronica and techno artist based in United States of America, with 26 gigs on soundcheck across Amsterdam, Atlanta, Basel and Berlin and 10 more. Often billed alongside Doss, FKA twigs and Sega Bodega. Next up: Treefort Music Hall, Idaho on Wed 31 Mar.
 
@@ -25,4 +25,4 @@ Eartheater is an electronica and techno artist based in United States of America
 
 Doss, FKA twigs, Sega Bodega
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eartheater/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eartheater/)*

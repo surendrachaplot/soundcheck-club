@@ -1,6 +1,6 @@
 # Grey People
 
-Grey People is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Secret Venue, Chicago on Sat, 14 Nov 2026.
+Grey People is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Secret Venue, Chicago on Sat, 14 Nov 2026.
 
 Grey People is an acid and techno artist based in United States of America, with 9 gigs on soundcheck across Chicago. Often billed alongside Justin Aulis Long, Miss Twink USA and Pen Pals. Next up: TBA - Secret Venue, Chicago on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Grey People is an acid and techno artist based in United States of America, with
 
 Justin Aulis Long, Miss Twink USA, Pen Pals
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/greypeople/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/greypeople/)*

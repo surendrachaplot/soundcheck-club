@@ -1,6 +1,6 @@
 # Spicy Gipsy
 
-Spicy Gipsy is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Dusty Munky Bar, Cyprus on Sat, 21 Nov 2026.
+Spicy Gipsy is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Dusty Munky Bar, Cyprus on Sat, 21 Nov 2026.
 
 Spicy Gipsy is an electronic artist based in France, with 4 gigs on soundcheck across Cyprus. Often billed alongside Dreus, pesha and 92Groovz. Next up: Dusty Munky Bar, Cyprus on Sat 21 Nov.
 
@@ -20,4 +20,4 @@ Spicy Gipsy is an electronic artist based in France, with 4 gigs on soundcheck a
 
 Dreus, pesha, 92Groovz
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spicygipsy/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spicygipsy/)*

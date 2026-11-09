@@ -1,6 +1,6 @@
 # BREIAL
 
-BREIAL is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Valsemøllen, Bergen on Sat, 12 Dec 2026.
+BREIAL is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Valsemøllen, Bergen on Sat, 12 Dec 2026.
 
 BREIAL is a techno artist based in Norway, with 4 gigs on soundcheck across Bergen. Often billed alongside M:RC, Afem Syko and Bailey Ibbs. Next up: Valsemøllen, Bergen on Sat 12 Dec.
 
@@ -20,4 +20,4 @@ BREIAL is a techno artist based in Norway, with 4 gigs on soundcheck across Berg
 
 M:RC, Afem Syko, Bailey Ibbs
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/breial/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/breial/)*

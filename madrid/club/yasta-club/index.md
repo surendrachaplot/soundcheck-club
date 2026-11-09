@@ -1,6 +1,6 @@
 # Yasta Club
 
-Yasta Club is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. The next is "ARTERIA Club" on Fri, 20 Nov 2026.
+Yasta Club is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. The next is "ARTERIA Club" on Fri, 20 Nov 2026.
 
 Yasta Club is a music venue in Madrid listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Yasta Club is a music venue in Madrid listed on soundcheck. 1 upcoming gig. See 
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | ARTERIA Club |  |
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/yasta-club/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/yasta-club/)*

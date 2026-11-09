@@ -1,6 +1,6 @@
 # André Baum
 
-André Baum is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Block1, Berlin on Fri, 20 Nov 2026.
+André Baum is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Block1, Berlin on Fri, 20 Nov 2026.
 
 André Baum is a house and techno artist based in United States of America, with 15 gigs on soundcheck across Berlin, Miami, New York City and Paris. Often billed alongside Gulp, Arno aka Einzelkind and Adam Collins. Next up: Block1, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ André Baum is a house and techno artist based in United States of America, with
 
 Gulp, Arno aka Einzelkind, Adam Collins
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andrebaum/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andrebaum/)*

@@ -1,14 +1,15 @@
 # Daniele Baldelli
 
-Daniele Baldelli is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Nowadays, New York City on Thu, 31 Dec 2026.
+Daniele Baldelli is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Nowadays, New York City on Thu, 31 Dec 2026.
 
-Daniele Baldelli is a disco and house artist based in Italy, with 46 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 13 more. Often billed alongside Giuseppe Fava, Alexander Robotnick and Budino. Next up: Nowadays, New York City on Thu 31 Dec.
+Daniele Baldelli is a disco and house artist based in Italy, with 47 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 14 more. Often billed alongside Giuseppe Fava, Alexander Robotnick and Budino. Next up: Nowadays, New York City on Thu 31 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 31 Dec 2026 | Nowadays | New York City |
+| Sat, 6 Feb 2027 | The Golden Lion | Manchester |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Daniele Baldelli is a disco and house artist based in Italy, with 46 gigs on sou
 
 Giuseppe Fava, Alexander Robotnick, Budino
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielebaldelli/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielebaldelli/)*

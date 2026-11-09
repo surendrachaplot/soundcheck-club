@@ -1,6 +1,6 @@
 # Man Called Dylan
 
-Man Called Dylan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Pamela Club, Paris on Sat, 14 Nov 2026.
+Man Called Dylan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Pamela Club, Paris on Sat, 14 Nov 2026.
 
 Man Called Dylan is a house and techno artist based in France, with 29 gigs on soundcheck across Paris and Tokyo. Often billed alongside Aleqs Notal, Alex From Tokyo and HOLDTight. Next up: Pamela Club, Paris on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Man Called Dylan is a house and techno artist based in France, with 29 gigs on s
 
 Aleqs Notal, Alex From Tokyo, HOLDTight
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mancalleddylan/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mancalleddylan/)*

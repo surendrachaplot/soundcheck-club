@@ -1,6 +1,6 @@
 # nanatranquillo
 
-nanatranquillo is a Bass and Ghetto Tech artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Enter Shibuya, Tokyo on Wed, 11 Nov 2026.
+nanatranquillo is a Bass and Ghetto Tech artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Enter Shibuya, Tokyo on Wed, 11 Nov 2026.
 
 nanatranquillo is a bass and ghetto tech artist based in Germany, with 12 gigs on soundcheck across Berlin, Hamburg, Leipzig and Tokyo. Often billed alongside Haaizey, Cho Room and Speckman. Next up: Enter Shibuya, Tokyo on Wed 11 Nov.
 
@@ -26,4 +26,4 @@ nanatranquillo is a bass and ghetto tech artist based in Germany, with 12 gigs o
 
 Haaizey, Cho Room, Speckman
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nanatranquillo/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nanatranquillo/)*

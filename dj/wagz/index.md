@@ -1,6 +1,6 @@
 # Wagz
 
-Wagz is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Sidney & Matilda, Sheffield on Sat, 21 Nov 2026.
+Wagz is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Sidney & Matilda, Sheffield on Sat, 21 Nov 2026.
 
 Wagz is a drum & bass and jungle artist based in United Kingdom, with 9 gigs on soundcheck across London, Manchester, North and Sheffield. Often billed alongside Need For Mirrors, Doc Scott and Grooverider. Next up: Sidney & Matilda, Sheffield on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Wagz is a drum & bass and jungle artist based in United Kingdom, with 9 gigs on 
 
 Need For Mirrors, Doc Scott, Grooverider
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wagz/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wagz/)*

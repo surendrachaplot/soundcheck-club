@@ -1,6 +1,6 @@
 # Loqum
 
-Loqum is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Podlasie Club, Chicago on Fri, 20 Nov 2026.
+Loqum is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Podlasie Club, Chicago on Fri, 20 Nov 2026.
 
 Loqum is a techno and club artist based in Turkey, with 45 gigs on soundcheck across Berlin, Chicago, Detroit and Istanbul and 1 more. Often billed alongside Flores Negras, Elock and karennoid. Next up: Podlasie Club, Chicago on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Loqum is a techno and club artist based in Turkey, with 45 gigs on soundcheck ac
 
 Flores Negras, Elock, karennoid
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loqum/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loqum/)*

@@ -1,6 +1,6 @@
 # angelina
 
-angelina is a Jazz and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at DEX, Moscow on Fri, 13 Nov 2026.
+angelina is a Jazz and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at DEX, Moscow on Fri, 13 Nov 2026.
 
 angelina is a jazz and hip-hop artist, with 4 gigs on soundcheck across London, Marseille and Moscow. Often billed alongside Doul, Abelle and Anushka (UK). Next up: DEX, Moscow on Fri 13 Nov.
 
@@ -20,4 +20,4 @@ angelina is a jazz and hip-hop artist, with 4 gigs on soundcheck across London, 
 
 Doul, Abelle, Anushka (UK)
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/angelina/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/angelina/)*

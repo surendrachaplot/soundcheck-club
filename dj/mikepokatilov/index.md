@@ -1,6 +1,6 @@
 # Mike Pokatilov
 
-Mike Pokatilov is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Ktima Camelot, Cyprus on Thu, 31 Dec 2026.
+Mike Pokatilov is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Ktima Camelot, Cyprus on Thu, 31 Dec 2026.
 
 Mike Pokatilov is an electronic artist based in Cyprus, with 3 gigs on soundcheck across Amsterdam and Cyprus. Often billed alongside Djen, HÅKK and INLIMEN. Next up: Ktima Camelot, Cyprus on Thu 31 Dec.
 
@@ -19,4 +19,4 @@ Mike Pokatilov is an electronic artist based in Cyprus, with 3 gigs on soundchec
 
 Djen (2), HÅKK, INLIMEN
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikepokatilov/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikepokatilov/)*

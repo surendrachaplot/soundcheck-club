@@ -1,6 +1,6 @@
 # Tatu
 
-Tatu is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Post Bar, Helsinki on Fri, 13 Nov 2026.
+Tatu is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Post Bar, Helsinki on Fri, 13 Nov 2026.
 
 Tatu is a techno and house artist based in Finland, with 10 gigs on soundcheck across Helsinki and Madrid. Often billed alongside Vulker, DJ2OYCE and Paulina Casi Rubio. Next up: Post Bar, Helsinki on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Tatu is a techno and house artist based in Finland, with 10 gigs on soundcheck a
 
 Vulker, DJ2OYCE, Paulina Casi Rubio
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tatu/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tatu/)*

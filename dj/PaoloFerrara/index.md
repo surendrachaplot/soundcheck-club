@@ -1,6 +1,6 @@
 # Paolo Ferrara
 
-Paolo Ferrara is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Fabrik, Madrid on Sat, 14 Nov 2026.
+Paolo Ferrara is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Fabrik, Madrid on Sat, 14 Nov 2026.
 
 Paolo Ferrara is a techno and hardcore artist based in Italy, with 97 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 48 more. Often billed alongside Lorenzo Raganzini, Alignment and BIIA. Next up: Fabrik, Madrid on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Paolo Ferrara is a techno and hardcore artist based in Italy, with 97 gigs on so
 
 Lorenzo Raganzini, Alignment, BIIA
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/PaoloFerrara/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/PaoloFerrara/)*

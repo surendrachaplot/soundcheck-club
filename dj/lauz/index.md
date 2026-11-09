@@ -1,6 +1,6 @@
 # LAUZ
 
-LAUZ is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at The Marlborough Red Room, Glasgow on Sat, 14 Nov 2026.
+LAUZ is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Marlborough Red Room, Glasgow on Sat, 14 Nov 2026.
 
 LAUZ is a techno and acid artist based in United Kingdom, with 26 gigs on soundcheck across Edinburgh, Glasgow, Ibiza and London and 2 more. Often billed alongside ASLO, JM-X and 999999999. Next up: The Marlborough Red Room, Glasgow on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ LAUZ is a techno and acid artist based in United Kingdom, with 26 gigs on soundc
 
 ASLO, JM-X, 999999999
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lauz/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lauz/)*

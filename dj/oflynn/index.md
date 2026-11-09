@@ -1,6 +1,6 @@
 # O'Flynn
 
-O'Flynn is a House and Garage artist with 5 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Belgrave Music Hall, Leeds on Sat, 14 Nov 2026.
+O'Flynn is a House and Garage artist with 5 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Belgrave Music Hall, Leeds on Sat, 14 Nov 2026.
 
 O'Flynn is a house and garage artist based in United Kingdom, with 87 gigs on soundcheck across Auckland, Barcelona, Berlin and Brighton and 29 more. Often billed alongside Dan Shake, Eliza Rose and Jasper Tygner. Next up: Belgrave Music Hall, Leeds on Sat 14 Nov.
 
@@ -29,4 +29,4 @@ O'Flynn is a house and garage artist based in United Kingdom, with 87 gigs on so
 
 Dan Shake, Eliza Rose, Jasper Tygner
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oflynn/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oflynn/)*

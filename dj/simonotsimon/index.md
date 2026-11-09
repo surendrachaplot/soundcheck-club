@@ -1,6 +1,6 @@
 # simo not simon
 
-simo not simon is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Joá Jungle Rooftop, Rio de Janeiro on Sat, 14 Nov 2026.
+simo not simon is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Joá Jungle Rooftop, Rio de Janeiro on Sat, 14 Nov 2026.
 
 simo not simon is a house and disco artist based in Brazil, with 16 gigs on soundcheck across Brazil, Rio de Janeiro and Sao Paulo. Often billed alongside Bauhouse, Leo Janeiro and From House to Disco. Next up: Joá Jungle Rooftop, Rio de Janeiro on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ simo not simon is a house and disco artist based in Brazil, with 16 gigs on soun
 
 Bauhouse, Leo Janeiro, From House to Disco
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simonotsimon/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simonotsimon/)*

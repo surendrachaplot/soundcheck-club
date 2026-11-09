@@ -1,6 +1,6 @@
 # Gretjane
 
-Gretjane is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at 1983, Riga on Fri, 11 Dec 2026.
+Gretjane is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at 1983, Riga on Fri, 11 Dec 2026.
 
 Gretjane is a techno and electro artist based in Latvia, with 7 gigs on soundcheck across Riga. Often billed alongside 2B, DEP (LV) and Existal. Next up: 1983, Riga on Fri 11 Dec.
 
@@ -23,4 +23,4 @@ Gretjane is a techno and electro artist based in Latvia, with 7 gigs on soundche
 
 2B (1), DEP (LV), Existal
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gretjane/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gretjane/)*

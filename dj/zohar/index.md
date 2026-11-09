@@ -1,6 +1,6 @@
 # Zohar
 
-Zohar is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at De Studio, Antwerp on Sat, 14 Nov 2026.
+Zohar is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at De Studio, Antwerp on Sat, 14 Nov 2026.
 
 Zohar is a techno and experimental artist based in Netherlands, with 70 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bordeaux and 18 more. Often billed alongside NVST, ojoo and Spekki Webu. Next up: De Studio, Antwerp on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Zohar is a techno and experimental artist based in Netherlands, with 70 gigs on 
 
 NVST, ojoo, Spekki Webu
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zohar/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zohar/)*

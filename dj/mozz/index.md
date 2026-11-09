@@ -1,6 +1,6 @@
 # Mozz
 
-Mozz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Abercrombie Hotel, Sydney on Fri, 18 Dec 2026.
+Mozz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Abercrombie Hotel, Sydney on Fri, 18 Dec 2026.
 
 Mozz is a techno and house artist based in Australia, with 25 gigs on soundcheck across Frankfurt and Sydney. Often billed alongside jyc., DAVYROE and Sleep Exchange. Next up: Abercrombie Hotel, Sydney on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Mozz is a techno and house artist based in Australia, with 25 gigs on soundcheck
 
 jyc., DAVYROE, Sleep Exchange
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mozz/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mozz/)*

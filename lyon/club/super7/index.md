@@ -1,15 +1,14 @@
 # Super7
 
-Super7 is a music venue in Lyon with 6 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "pastresdrole • Sklaer" on Sun, 8 Nov 2026.
+Super7 is a music venue in Lyon with 5 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "LOTTA • MAKA" on Tue, 10 Nov 2026.
 
-Super7 is a music venue in Lyon listed on soundcheck. 6 upcoming gigs, with line-ups including pastresdrole and Sklaer. See dates, start times and who's playing. 40 rue Saint-Jérôme 69007 Lyon.
+Super7 is a music venue in Lyon listed on soundcheck. 5 upcoming gigs. See dates, start times and who's playing. 40 rue Saint-Jérôme 69007 Lyon.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 8 Nov 2026 | pastresdrole • Sklaer | Sklaer, pastresdrole |
-| Tue, 10 Nov 2026 | Super7: lieu de vie et club |  |
+| Tue, 10 Nov 2026 | LOTTA • MAKA |  |
 | Thu, 12 Nov 2026 | Super7: lieu de vie et club |  |
 | Fri, 13 Nov 2026 | Super7: lieu de vie et club |  |
 | Sat, 14 Nov 2026 | Super7: lieu de vie et club |  |
@@ -19,4 +18,4 @@ Super7 is a music venue in Lyon listed on soundcheck. 6 upcoming gigs, with line
 
 40 rue Saint-Jérôme 69007 Lyon, Lyon
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/super7/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/super7/)*

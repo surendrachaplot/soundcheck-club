@@ -1,6 +1,6 @@
 # Jay Newman
 
-Jay Newman is a House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Mayrhofen, Austria, Austria on Mon, 5 Apr 2027.
+Jay Newman is a House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Mayrhofen, Austria, Austria on Mon, 5 Apr 2027.
 
 Jay Newman is a house artist based in United Kingdom, with 3 gigs on soundcheck across Austria and London. Often billed alongside 2ManyDJs, Andy C and Arielle Free. Next up: TBA - Mayrhofen, Austria, Austria on Mon 5 Apr.
 
@@ -19,4 +19,4 @@ Jay Newman is a house artist based in United Kingdom, with 3 gigs on soundcheck 
 
 2ManyDJs, Andy C, Arielle Free
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaynewman/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaynewman/)*

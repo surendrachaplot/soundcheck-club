@@ -1,6 +1,6 @@
 # FIRZA
 
-FIRZA is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Egg London, London on Fri, 13 Nov 2026.
+FIRZA is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Egg London, London on Fri, 13 Nov 2026.
 
 FIRZA is a house and tech house artist based in United Kingdom, with 31 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Ibiza and 10 more. Often billed alongside Ryan Resso, FINKY and Stef Davidse. Next up: Egg London, London on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ FIRZA is a house and tech house artist based in United Kingdom, with 31 gigs on 
 
 Ryan Resso, FINKY, Stef Davidse
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/firza/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/firza/)*

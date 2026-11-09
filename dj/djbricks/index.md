@@ -1,6 +1,6 @@
 # DJ Bricks
 
-DJ Bricks is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Paloma, Berlin on Sun, 22 Nov 2026.
+DJ Bricks is a House and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Paloma, Berlin on Sun, 22 Nov 2026.
 
 DJ Bricks is a house and club artist based in Germany, with 3 gigs on soundcheck across Berlin. Often billed alongside MVHY, Bézier and Charlie Vaux. Next up: Paloma, Berlin on Sun 22 Nov.
 
@@ -19,4 +19,4 @@ DJ Bricks is a house and club artist based in Germany, with 3 gigs on soundcheck
 
 MVHY, Bézier, Charlie Vaux
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbricks/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbricks/)*

@@ -1,6 +1,6 @@
 # leanripke
 
-leanripke is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Kosmos Karoline, Hamburg on Sat, 28 Nov 2026.
+leanripke is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Kosmos Karoline, Hamburg on Sat, 28 Nov 2026.
 
 leanripke is a house and balearic artist based in Germany, with 4 gigs on soundcheck across Berlin, East and Hamburg. Often billed alongside 5euroGoldi, August Kind and DJ Handtuch. Next up: Kosmos Karoline, Hamburg on Sat 28 Nov.
 
@@ -20,4 +20,4 @@ leanripke is a house and balearic artist based in Germany, with 4 gigs on soundc
 
 5euroGoldi, August Kind, DJ Handtuch
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leanripke/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leanripke/)*

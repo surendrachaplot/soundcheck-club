@@ -1,6 +1,6 @@
 # George Askaroff
 
-George Askaroff is a House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at All My Friends, London on Sat, 21 Nov 2026.
+George Askaroff is a House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at All My Friends, London on Sat, 21 Nov 2026.
 
 George Askaroff is a house artist, with 16 gigs on soundcheck across London. Often billed alongside Josh Wickers, Bridger Ryland and Lyde. Next up: All My Friends, London on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ George Askaroff is a house artist, with 16 gigs on soundcheck across London. Oft
 
 Josh Wickers, Bridger Ryland, Lyde
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/georgeaskaroff/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/georgeaskaroff/)*

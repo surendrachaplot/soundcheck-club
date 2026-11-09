@@ -1,6 +1,6 @@
 # Carl Stone
 
-Carl Stone is a Experimental and Ambient artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Passos Manuel, Porto on Fri, 13 Nov 2026.
+Carl Stone is a Experimental and Ambient artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Passos Manuel, Porto on Fri, 13 Nov 2026.
 
 Carl Stone is an experimental and ambient artist based in United States of America, with 26 gigs on soundcheck across Barcelona, Beijing, Berlin and Denver and 13 more. Often billed alongside Crystallmess, DJ Python and Laraaji. Next up: Passos Manuel, Porto on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Carl Stone is an experimental and ambient artist based in United States of Ameri
 
 Crystallmess, DJ Python, Laraaji
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlstone/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlstone/)*

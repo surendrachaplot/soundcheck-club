@@ -1,6 +1,6 @@
 # Laure Croft
 
-Laure Croft is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - LOCO PARK TBILISI, David Guramishvili Avenue 84, Tbilisi on Sat, 14 Nov 2026.
+Laure Croft is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - LOCO PARK TBILISI, David Guramishvili Avenue 84, Tbilisi on Sat, 14 Nov 2026.
 
 Laure Croft is a techno and house artist based in Netherlands, with 229 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 68 more. Often billed alongside Lacchesi, Spikey Lee and Carmen Electro. Next up: TBA - LOCO PARK TBILISI, David Guramishvili Avenue 84, Tbilisi on Sat 14 Nov.
 
@@ -32,4 +32,4 @@ Laure Croft is a techno and house artist based in Netherlands, with 229 gigs on 
 
 Lacchesi, Spikey Lee, Carmen Electro
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laurecroft/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laurecroft/)*

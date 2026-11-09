@@ -1,6 +1,6 @@
 # Miche
 
-Miche is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Club Empire, London on Fri, 20 Nov 2026.
+Miche is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Club Empire, London on Fri, 20 Nov 2026.
 
 Miche is a disco and funk / soul artist based in United Kingdom, with 40 gigs on soundcheck across Amsterdam, Bristol, Cologne and Edinburgh and 5 more. Often billed alongside Rainer Trüby, Joseph Russell and Admin. Next up: Club Empire, London on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Miche is a disco and funk / soul artist based in United Kingdom, with 40 gigs on
 
 Rainer Trüby, Joseph Russell, Admin
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miche-uk/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miche-uk/)*

@@ -1,6 +1,6 @@
 # Aftersunday
 
-Aftersunday is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Moon Warsaw, Warsaw on Sat, 28 Nov 2026.
+Aftersunday is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Moon Warsaw, Warsaw on Sat, 28 Nov 2026.
 
 Aftersunday is a house and tech house artist based in Poland, with 28 gigs on soundcheck across Amsterdam, Düsseldorf and Warsaw. Often billed alongside NuCasa, Kuvau and Angelo Mike. Next up: Moon Warsaw, Warsaw on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Aftersunday is a house and tech house artist based in Poland, with 28 gigs on so
 
 NuCasa, Kuvau, Angelo Mike
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aftersunday/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aftersunday/)*

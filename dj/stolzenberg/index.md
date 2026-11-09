@@ -1,6 +1,6 @@
 # Stolzenberg
 
-Stolzenberg is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at ://about blank, Berlin on Fri, 4 Dec 2026.
+Stolzenberg is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at ://about blank, Berlin on Fri, 4 Dec 2026.
 
 Stolzenberg is a techno and trance artist, with 3 gigs on soundcheck across Berlin. Often billed alongside *Tia*, Alexander Pohl and Amin Fallaha. Next up: ://about blank, Berlin on Fri 4 Dec.
 
@@ -19,4 +19,4 @@ Stolzenberg is a techno and trance artist, with 3 gigs on soundcheck across Berl
 
 *Tia*, Alexander Pohl, Amin Fallaha
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stolzenberg/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stolzenberg/)*

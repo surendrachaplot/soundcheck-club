@@ -1,6 +1,6 @@
 # Stanly
 
-Stanly is a Electronica and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Tell Me, Sofia on Fri, 27 Nov 2026.
+Stanly is a Electronica and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Tell Me, Sofia on Fri, 27 Nov 2026.
 
 Stanly is an electronica and electro artist, with 17 gigs on soundcheck across Berlin, Sofia and Warsaw. Often billed alongside Garo, Davy and cccvvv. Next up: Tell Me, Sofia on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Stanly is an electronica and electro artist, with 17 gigs on soundcheck across B
 
 Garo, Davy, cccvvv
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stanly/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stanly/)*

@@ -1,8 +1,8 @@
 # Grooverider
 
-Grooverider is a Drum & Bass and Jungle artist with 16 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Outernet Live, London on Sat, 14 Nov 2026.
+Grooverider is a Drum & Bass and Jungle artist with 17 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Outernet Live, London on Sat, 14 Nov 2026.
 
-Grooverider is a drum & bass and jungle artist based in United Kingdom, with 150 gigs on soundcheck across Adelaide, Amsterdam, Bali and Bangkok and 28 more. Often billed alongside Fabio, Nicky Blackmarket and Doc Scott. Next up: Outernet Live, London on Sat 14 Nov.
+Grooverider is a drum & bass and jungle artist based in United Kingdom, with 151 gigs on soundcheck across Adelaide, Amsterdam, Bali and Bangkok and 28 more. Often billed alongside Fabio, Nicky Blackmarket and Doc Scott. Next up: Outernet Live, London on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -16,10 +16,10 @@ Grooverider is a drum & bass and jungle artist based in United Kingdom, with 150
 | Sat, 26 Dec 2026 | Hare & Hounds | Birmingham |
 | Sun, 27 Dec 2026 | Hare & Hounds | Birmingham |
 | Thu, 31 Dec 2026 | Volks | Brighton |
+| Sat, 9 Jan 2027 | The Golden Lion | Manchester |
 | Sat, 20 Feb 2027 | Future Yard | Liverpool |
 | Thu, 3 Jun 2027 | O2 Academy Bournemouth | South-east |
 | Fri, 4 Jun 2027 | O2 Academy Birmingham | Birmingham |
-| Thu, 10 Jun 2027 | O2 Academy Leeds | Leeds |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Grooverider is a drum & bass and jungle artist based in United Kingdom, with 150
 
 Fabio, Nicky Blackmarket, Doc Scott
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grooverider/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grooverider/)*

@@ -1,6 +1,6 @@
 # Manchild
 
-Manchild is a Electronica and Jazz artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Wax Music Lounge, Melbourne on Fri, 13 Nov 2026.
+Manchild is a Electronica and Jazz artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Wax Music Lounge, Melbourne on Fri, 13 Nov 2026.
 
 Manchild is an electronica and jazz artist based in Australia, with 4 gigs on soundcheck across London and Melbourne. Often billed alongside Bby Cass, Chicane and Ciaran McAuley. Next up: Wax Music Lounge, Melbourne on Fri 13 Nov.
 
@@ -20,4 +20,4 @@ Manchild is an electronica and jazz artist based in Australia, with 4 gigs on so
 
 Bby Cass, Chicane, Ciaran McAuley
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manchild/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manchild/)*

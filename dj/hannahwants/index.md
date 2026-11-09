@@ -1,14 +1,13 @@
 # Hannah Wants
 
-Hannah Wants is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Butlin's Skegness Resort, Midlands on Fri, 6 Nov 2026.
+Hannah Wants is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at The Clock Factory, Bristol on Fri, 20 Nov 2026.
 
-Hannah Wants is a house and tech house artist based in United Kingdom, with 112 gigs on soundcheck across Amsterdam, Auckland, Austin and Bali and 37 more. Often billed alongside Arielle Free, Claptone and Sam Divine. Next up: Butlin's Skegness Resort, Midlands on Fri 6 Nov.
+Hannah Wants is a house and tech house artist based in United Kingdom, with 112 gigs on soundcheck across Amsterdam, Auckland, Austin and Bali and 37 more. Often billed alongside Arielle Free, Claptone and Sam Divine. Next up: The Clock Factory, Bristol on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Butlin's Skegness Resort | Midlands |
 | Fri, 20 Nov 2026 | The Clock Factory | Bristol |
 | Sat, 28 Nov 2026 | 54 Liverpool | Liverpool |
 | Sat, 5 Dec 2026 | Night Tales | London |
@@ -28,4 +27,4 @@ Hannah Wants is a house and tech house artist based in United Kingdom, with 112 
 
 Arielle Free, Claptone, Sam Divine
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahwants/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahwants/)*

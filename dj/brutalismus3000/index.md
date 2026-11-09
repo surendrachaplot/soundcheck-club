@@ -1,6 +1,6 @@
 # Brutalismus 3000
 
-Brutalismus 3000 is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
+Brutalismus 3000 is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
 
 Brutalismus 3000 is a techno and house artist based in Germany, with 86 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 42 more. Often billed alongside DJ Gigola, MCR-T and Boys Noize. Next up: The Concourse Project, Austin on Fri 13 Nov.
 
@@ -31,4 +31,4 @@ Brutalismus 3000 is a techno and house artist based in Germany, with 86 gigs on 
 
 DJ Gigola, MCR-T, Boys Noize
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brutalismus3000/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brutalismus3000/)*

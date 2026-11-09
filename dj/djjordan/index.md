@@ -1,6 +1,6 @@
 # DJ Jordan
 
-DJ Jordan is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at KitKatClub, Berlin on Wed, 11 Nov 2026.
+DJ Jordan is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at KitKatClub, Berlin on Wed, 11 Nov 2026.
 
 DJ Jordan is a techno and trance artist based in Germany, with 269 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brandenburg and 11 more. Often billed alongside Grace Thompson, A.N.I. and LeoSkiDj. Next up: KitKatClub, Berlin on Wed 11 Nov.
 
@@ -30,4 +30,4 @@ DJ Jordan is a techno and trance artist based in Germany, with 269 gigs on sound
 
 Grace Thompson, A.N.I., LeoSkiDj
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djjordan/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djjordan/)*

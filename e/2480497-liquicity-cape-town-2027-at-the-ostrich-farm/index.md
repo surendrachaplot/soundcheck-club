@@ -1,6 +1,6 @@
 # Liquicity Cape Town 2027 at The Ostrich Farm
 
-Liquicity Cape Town 2027 at The Ostrich Farm on Sat 6 Feb, Cape Town. 1 artist: Dimension. See the line-up on soundcheck.
+Liquicity Cape Town 2027 at The Ostrich Farm on Sat 6 Feb, Cape Town. 1 artist: Dimension. Drum & Bass and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Nancy Noise
 
-Nancy Noise is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at People's Leisure Club, Edinburgh on Sat, 14 Nov 2026.
+Nancy Noise is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at People's Leisure Club, Edinburgh on Sat, 14 Nov 2026.
 
 Nancy Noise is a house and balearic artist based in United Kingdom, with 30 gigs on soundcheck across Brighton, Edinburgh, Ibiza and London and 3 more. Often billed alongside Terry Farley, Stuart Patterson and Lisa Loud. Next up: People's Leisure Club, Edinburgh on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Nancy Noise is a house and balearic artist based in United Kingdom, with 30 gigs
 
 Terry Farley, Stuart Patterson, Lisa Loud
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nancynoise/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nancynoise/)*

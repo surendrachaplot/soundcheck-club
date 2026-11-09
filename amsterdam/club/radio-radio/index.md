@@ -1,6 +1,6 @@
 # Radio Radio
 
-Radio Radio is a music venue in Amsterdam with 9 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Hannecart invites Anna Wall & Pieter Jansen" on Fri, 13 Nov 2026.
+Radio Radio is a music venue in Amsterdam with 9 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Hannecart invites Anna Wall & Pieter Jansen" on Fri, 13 Nov 2026.
 
 Radio Radio is a music venue in Amsterdam listed on soundcheck. 9 upcoming gigs, with line-ups including Anna Wall, BELLA (NL), Danielle (UK) and Dany E and 2 more. See dates, start times and who's playing. Pazzanistraat 3.
 
@@ -22,4 +22,4 @@ Radio Radio is a music venue in Amsterdam listed on soundcheck. 9 upcoming gigs,
 
 Pazzanistraat 3, Amsterdam
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radio-radio/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radio-radio/)*

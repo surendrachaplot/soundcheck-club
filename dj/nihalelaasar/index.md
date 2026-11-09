@@ -1,6 +1,6 @@
 # Nihal El Aasar
 
-Nihal El Aasar is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at The Crypt at St. Matthews Church, London on Sat, 28 Nov 2026.
+Nihal El Aasar is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Crypt at St. Matthews Church, London on Sat, 28 Nov 2026.
 
 Nihal El Aasar is a club and experimental artist based in United Kingdom, with 19 gigs on soundcheck across Glasgow, London and Manchester. Often billed alongside Toumba, Fantastic Man and Jeneen. Next up: The Crypt at St. Matthews Church, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Nihal El Aasar is a club and experimental artist based in United Kingdom, with 1
 
 Toumba, Fantastic Man, Jeneen
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nihalelaasar/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nihalelaasar/)*

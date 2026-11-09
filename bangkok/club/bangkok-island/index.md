@@ -1,14 +1,13 @@
 # Bangkok Island
 
-Bangkok Island is a music venue in Bangkok with 8 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "JOEL DAVID & HIS BAND" on Sun, 8 Nov 2026.
+Bangkok Island is a music venue in Bangkok with 7 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "DJ COMMUNITY" on Wed, 11 Nov 2026.
 
-Bangkok Island is a music venue in Bangkok listed on soundcheck. 8 upcoming gigs, with line-ups including Katya, Midnight, Selecta (ES) and Unix. See dates, start times and who's playing. 499/1 Talat Chong Nonsi Alley, Chong Nonsi, Yan Nawa, Bangkok 10120.
+Bangkok Island is a music venue in Bangkok listed on soundcheck. 7 upcoming gigs, with line-ups including Katya, Midnight, Selecta (ES) and Unix. See dates, start times and who's playing. 499/1 Talat Chong Nonsi Alley, Chong Nonsi, Yan Nawa, Bangkok 10120.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 8 Nov 2026 | JOEL DAVID & HIS BAND |  |
 | Wed, 11 Nov 2026 | DJ COMMUNITY | Midnight (1) |
 | Fri, 13 Nov 2026 | Queer On Deck | Unix |
 | Fri, 13 Nov 2026 | USELESS AND PATHETIC |  |
@@ -21,4 +20,4 @@ Bangkok Island is a music venue in Bangkok listed on soundcheck. 8 upcoming gigs
 
 499/1 Talat Chong Nonsi Alley, Chong Nonsi, Yan Nawa, Bangkok 10120, Bangkok
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/bangkok-island/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/bangkok-island/)*

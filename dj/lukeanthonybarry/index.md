@@ -1,6 +1,6 @@
 # lukeanthonybarry
 
-lukeanthonybarry is a House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Cafeteria, Toronto on Sat, 12 Dec 2026.
+lukeanthonybarry is a House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Cafeteria, Toronto on Sat, 12 Dec 2026.
 
 lukeanthonybarry is a house and minimal techno artist based in Canada, with 3 gigs on soundcheck across Toronto. Often billed alongside Blkvirgo, Amedeo (CA) and Amelia Holt. Next up: Cafeteria, Toronto on Sat 12 Dec.
 
@@ -19,4 +19,4 @@ lukeanthonybarry is a house and minimal techno artist based in Canada, with 3 gi
 
 Blkvirgo, Amedeo (CA), Amelia Holt
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukeanthonybarry/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukeanthonybarry/)*

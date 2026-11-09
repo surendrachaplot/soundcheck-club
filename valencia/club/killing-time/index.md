@@ -1,6 +1,6 @@
 # Killing Time
 
-Killing Time is a music venue in Valencia with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Beat Cult - Rave Cafe event" on Fri, 27 Nov 2026.
+Killing Time is a music venue in Valencia with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Beat Cult - Rave Cafe event" on Fri, 27 Nov 2026.
 
 Killing Time is a music venue in Valencia listed on soundcheck. 2 upcoming gigs, with line-ups including Broken boy, Mundo D, Roma Khropko and Svarn and 2 more. See dates, start times and who's playing. Doctor Sumsi, 21 (Ruzafa), Valencia.
 
@@ -15,4 +15,4 @@ Killing Time is a music venue in Valencia listed on soundcheck. 2 upcoming gigs,
 
 Doctor Sumsi, 21 (Ruzafa), Valencia, Valencia
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/killing-time/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/killing-time/)*

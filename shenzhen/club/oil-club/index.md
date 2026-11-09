@@ -1,14 +1,13 @@
 # OIL Club
 
-OIL Club is a music venue in Shenzhen with 21 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "EVEPHY pres. 岩汐6.0：界中界" on Sun, 8 Nov 2026.
+OIL Club is a music venue in Shenzhen with 20 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Couch Co-Op 双十一特别游戏：别笑，你来你也过不了第二关" on Wed, 11 Nov 2026.
 
-OIL Club is a music venue in Shenzhen listed on soundcheck. 21 upcoming gigs, with line-ups including 33EMYBW, 3ASiC, ADEAD and Alion and 2 more. See dates, start times and who's playing. 11A Ground Floor, Tairan Mansion, Tairan 8th Rd, Futian District Shenzhen.
+OIL Club is a music venue in Shenzhen listed on soundcheck. 20 upcoming gigs, with line-ups including 33EMYBW, 3ASiC, ADEAD and Alion and 2 more. See dates, start times and who's playing. 11A Ground Floor, Tairan Mansion, Tairan 8th Rd, Futian District Shenzhen.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 8 Nov 2026 | EVEPHY pres. 岩汐6.0：界中界 |  |
 | Wed, 11 Nov 2026 | Couch Co-Op 双十一特别游戏：别笑，你来你也过不了第二关 |  |
 | Thu, 12 Nov 2026 | The Mantis Project |  |
 | Fri, 13 Nov 2026 | 反向大金刚 / Vajra in Reverse: A Temporal ECHO |  |
@@ -18,9 +17,10 @@ OIL Club is a music venue in Shenzhen listed on soundcheck. 21 upcoming gigs, wi
 | Sat, 21 Nov 2026 | OIL Soundsystem Showcase-Day 2 | Beibeilon, Fatalis, Jascer, Sirens, Yangyang, zzm (2) |
 | Sun, 22 Nov 2026 | HOUSE in da house | TiaNT |
 | Thu, 26 Nov 2026 | Dissolve The Ego Area 55B Vol. 3 |  |
+| Fri, 27 Nov 2026 | System 5周年呈现：Amnesia Scanner+DJ Love | Amnesia Scanner, DJ Love |
 
 ## Address
 
 11A Ground Floor, Tairan Mansion, Tairan 8th Rd, Futian District Shenzhen, Shenzhen
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/shenzhen/club/oil-club/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/shenzhen/club/oil-club/)*

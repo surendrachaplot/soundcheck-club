@@ -1,6 +1,6 @@
 # The Black Box
 
-The Black Box is a music venue in Denver with 11 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Sub.mission presents: ENiGMA DUBZ" on Fri, 13 Nov 2026.
+The Black Box is a music venue in Denver with 11 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Sub.mission presents: ENiGMA DUBZ" on Fri, 13 Nov 2026.
 
 The Black Box is a music venue in Denver listed on soundcheck. 11 upcoming gigs, with line-ups including Arkyn, Belik, Darkstar and DLR and 2 more. See dates, start times and who's playing. 314 E. 13th Ave. Denver, CO 80203.
 
@@ -23,4 +23,4 @@ The Black Box is a music venue in Denver listed on soundcheck. 11 upcoming gigs,
 
 314 E. 13th Ave. Denver, CO 80203, Denver
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/denver/club/the-black-box/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/denver/club/the-black-box/)*

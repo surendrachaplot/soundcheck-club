@@ -1,6 +1,6 @@
 # maxim_jl
 
-maxim_jl is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at ciao ciao Bar, Berlin on Sun, 13 Dec 2026.
+maxim_jl is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at ciao ciao Bar, Berlin on Sun, 13 Dec 2026.
 
 maxim_jl is a techno and house artist based in Germany, with 18 gigs on soundcheck across Berlin and Munich. Often billed alongside Marit, Nikklaas and Bákayan. Next up: ciao ciao Bar, Berlin on Sun 13 Dec.
 
@@ -25,4 +25,4 @@ maxim_jl is a techno and house artist based in Germany, with 18 gigs on soundche
 
 Marit, Nikklaas, Bákayan
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxim_jl/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxim_jl/)*

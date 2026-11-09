@@ -1,14 +1,13 @@
 # CHRIS STASSY
 
-CHRIS STASSY is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at The Lenovo Garage, Madrid on Sun, 8 Nov 2026.
+CHRIS STASSY is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Antwerp Expo, Antwerp on Fri, 13 Nov 2026.
 
-CHRIS STASSY is a house and techno artist based in Netherlands, with 305 gigs on soundcheck across Amsterdam, Antwerp, Argentina and Austin and 70 more. Often billed alongside Jamie Jones, Seth Troxler and Joseph Capriati. Next up: The Lenovo Garage, Madrid on Sun 8 Nov.
+CHRIS STASSY is a house and techno artist based in Netherlands, with 305 gigs on soundcheck across Amsterdam, Antwerp, Argentina and Austin and 70 more. Often billed alongside Jamie Jones, Seth Troxler and Joseph Capriati. Next up: Antwerp Expo, Antwerp on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 8 Nov 2026 | The Lenovo Garage | Madrid |
 | Fri, 13 Nov 2026 | Antwerp Expo | Antwerp |
 | Sun, 22 Nov 2026 | Blackstone Street Warehouse | Liverpool |
 | Sat, 28 Nov 2026 | GASHOUDER | Amsterdam |
@@ -20,9 +19,11 @@ CHRIS STASSY is a house and techno artist based in Netherlands, with 305 gigs on
 | Sat, 26 Dec 2026 | Kaiserlounge Ellmau | Austria |
 | Fri, 8 Jan 2027 | TBA - La Fabrica, Cordoba | Argentina |
 | Sun, 28 Feb 2027 | Ozone Reserve | Perth |
+| Fri, 5 Mar 2027 | Moyston | Melbourne |
 
 ## Recently played
 
+- The Lenovo Garage, Madrid · Sun, 8 Nov 2026
 - Gallagher Square, San Diego · Sat, 31 Oct 2026
 - The Concourse Project, Austin · Thu, 29 Oct 2026
 - Taets Art & Event Park, Amsterdam · Sat, 24 Oct 2026
@@ -30,10 +31,9 @@ CHRIS STASSY is a house and techno artist based in Netherlands, with 305 gigs on
 - Bootshaus, Cologne · Fri, 16 Oct 2026
 - Aviva Studios, Manchester · Sat, 10 Oct 2026
 - Aviva Studios, Manchester · Fri, 9 Oct 2026
-- Amnesia Ibiza, Ibiza · Tue, 29 Sept 2026
 
 ## Shares bills with
 
 Jamie Jones, Seth Troxler, Joseph Capriati
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisstussy/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisstussy/)*

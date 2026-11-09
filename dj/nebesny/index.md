@@ -1,6 +1,6 @@
 # NEBESNY
 
-NEBESNY is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Avve, Bangkok on Fri, 11 Dec 2026.
+NEBESNY is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Avve, Bangkok on Fri, 11 Dec 2026.
 
 NEBESNY is a techno and industrial artist based in Russia, with 9 gigs on soundcheck across Bangkok. Often billed alongside Jorgium, POKOLENIE MIKROZAYMOV and REIKS. Next up: Avve, Bangkok on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ NEBESNY is a techno and industrial artist based in Russia, with 9 gigs on soundc
 
 Jorgium, POKOLENIE MIKROZAYMOV, REIKS
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nebesny/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nebesny/)*

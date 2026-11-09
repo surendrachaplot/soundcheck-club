@@ -1,6 +1,6 @@
 # E. Alexander
 
-E. Alexander is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Brithdir Hall, West-wales on Fri, 2 Jul 2027.
+E. Alexander is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Brithdir Hall, West-wales on Fri, 2 Jul 2027.
 
 E. Alexander is a house and tech house artist based in United Kingdom, with 56 gigs on soundcheck across Brighton, Edinburgh, Hamburg and London and 1 more. Often billed alongside Trixie (UK), Jake Hodgkinson and Alien Communications. Next up: Brithdir Hall, West Wales on Fri 2 Jul.
 
@@ -25,4 +25,4 @@ E. Alexander is a house and tech house artist based in United Kingdom, with 56 g
 
 Trixie (UK), Jake Hodgkinson, Alien Communications
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/e.alexander/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/e.alexander/)*

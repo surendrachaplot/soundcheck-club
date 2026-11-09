@@ -1,6 +1,6 @@
 # Let Techno Unite Vinyls & Codes at Club Rodenburg
 
-Let Techno Unite Vinyls & Codes at Club Rodenburg on Fri 27 Nov, Netherlands. 7 artists: BALAI, DJ Perroz, Microvibez and Rein (NL) and 3 more. See the line-up on soundcheck.
+Let Techno Unite Vinyls & Codes at Club Rodenburg on Fri 27 Nov, Netherlands. 8 artists: BALAI, DJ Perroz, Microvibez and Rein (NL) and 4 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,6 +16,7 @@ Let Techno Unite Vinyls & Codes at Club Rodenburg on Fri 27 Nov, Netherlands. 7 
 - Rein (NL)
 - RobertS (NL)
 - Thalia
+- VNSDJ
 - YU4X
 
 *Source: [soundcheck](https://soundcheck.club/e/2551370-let-techno-unite-vinyls-codes-at-club-rodenburg/)*

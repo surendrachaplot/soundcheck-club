@@ -1,6 +1,6 @@
 # Shonky
 
-Shonky is a House and Minimal artist with 11 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Kapsule, Liverpool on Sat, 21 Nov 2026.
+Shonky is a House and Minimal artist with 11 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Kapsule, Liverpool on Sat, 21 Nov 2026.
 
 Shonky is a house and minimal artist based in France, with 256 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 76 more. Often billed alongside Dyed Soundorom, Dan Ghenacia and Apollonia. Next up: Kapsule, Liverpool on Sat 21 Nov.
 
@@ -35,4 +35,4 @@ Shonky is a house and minimal artist based in France, with 256 gigs on soundchec
 
 Dyed Soundorom, Dan Ghenacia, Apollonia
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shonky/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shonky/)*

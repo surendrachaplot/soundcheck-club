@@ -1,6 +1,6 @@
 # Komplex Berlin
 
-Komplex Berlin is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "MIT DIR on EIS - Eisdisco inkl. Afterparty" on Sat, 28 Nov 2026.
+Komplex Berlin is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "MIT DIR on EIS - Eisdisco inkl. Afterparty" on Sat, 28 Nov 2026.
 
 Komplex Berlin is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including Clara Cuvé and davyboi. See dates, start times and who's playing. Modersohnstraße 34-45, 10245 Berlin.
 
@@ -15,4 +15,4 @@ Komplex Berlin is a music venue in Berlin listed on soundcheck. 2 upcoming gigs,
 
 Modersohnstraße 34-45, 10245 Berlin, Berlin
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/komplex-berlin/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/komplex-berlin/)*

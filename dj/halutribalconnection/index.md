@@ -1,6 +1,6 @@
 # HALU(Tribal Connection)
 
-HALU(Tribal Connection) is a Jungle and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Forestlimit, Tokyo on Fri, 13 Nov 2026.
+HALU(Tribal Connection) is a Jungle and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Forestlimit, Tokyo on Fri, 13 Nov 2026.
 
 HALU(Tribal Connection) is a jungle and drum & bass artist based in Japan, with 110 gigs on soundcheck across Beijing, Kanto, Osaka and Seoul and 1 more. Often billed alongside Jungle Rock, MileZ and Frankie $. Next up: Forestlimit, Tokyo on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ HALU(Tribal Connection) is a jungle and drum & bass artist based in Japan, with 
 
 Jungle Rock, MileZ, Frankie $
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/halutribalconnection/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/halutribalconnection/)*

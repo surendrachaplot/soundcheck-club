@@ -1,6 +1,6 @@
 # Julean
 
-Julean is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Baalsaal, Hamburg on Fri, 4 Dec 2026.
+Julean is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Baalsaal, Hamburg on Fri, 4 Dec 2026.
 
 Julean is a house and afro house artist based in Germany, with 22 gigs on soundcheck across Berlin, Hamburg, Portland and Rio de Janeiro and 1 more. Often billed alongside Mario Lui, Paàl and Sofia Kourtesis. Next up: Baalsaal, Hamburg on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Julean is a house and afro house artist based in Germany, with 22 gigs on soundc
 
 Mario Lui, Paàl, Sofia Kourtesis
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/julean/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/julean/)*

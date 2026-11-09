@@ -1,14 +1,15 @@
 # Sam I Am
 
-Sam I Am is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at The Flinders, Sydney on Fri, 27 Nov 2026.
+Sam I Am is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at The Flinders, Sydney on Fri, 27 Nov 2026.
 
-Sam I Am is a techno and tech house artist based in Canada, with 15 gigs on soundcheck across Sydney and Toronto. Often billed alongside Pandemonium, Bleach and <777>. Next up: The Flinders, Sydney on Fri 27 Nov.
+Sam I Am is a techno and tech house artist based in Canada, with 16 gigs on soundcheck across Sydney, Toronto and Vancouver. Often billed alongside Pandemonium, Bleach and <777>. Next up: The Flinders, Sydney on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | The Flinders | Sydney |
+| Thu, 31 Dec 2026 | The Penthouse Night Club - Vancouver | Vancouver |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Sam I Am is a techno and tech house artist based in Canada, with 15 gigs on soun
 
 Pandemonium, Bleach, <777>
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samiam/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samiam/)*

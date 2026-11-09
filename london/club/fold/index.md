@@ -1,14 +1,13 @@
 # FOLD
 
-FOLD is a music venue in London with 26 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "UNFOLD CXXXIV" on Sun, 8 Nov 2026.
+FOLD is a music venue in London with 25 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "FUTUR.SHOCK X UNDER MY FEET. : INTERREGNUM" on Thu, 12 Nov 2026.
 
-FOLD is a music venue in London listed on soundcheck. 26 upcoming gigs, with line-ups including Aaron Liberator, adobeprincess, Altinbas and Amelia Holt and 2 more. See dates, start times and who's playing. Gillian House, Stephenson St, London E16 4SA, UK.
+FOLD is a music venue in London listed on soundcheck. 25 upcoming gigs, with line-ups including Aaron Liberator, adobeprincess, Altinbas and Amelia Holt and 2 more. See dates, start times and who's playing. Gillian House, Stephenson St, London E16 4SA, UK.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 8 Nov 2026 | UNFOLD CXXXIV |  |
 | Thu, 12 Nov 2026 | FUTUR.SHOCK X UNDER MY FEET. : INTERREGNUM | Him Gone Ape, Ireen Amnes, Karolina Magnusson Murray, Nkisi, Rami Abi Rafi, SWARMM |
 | Fri, 13 Nov 2026 | Boudica x Gegen - 1 room + XXL Playroom | Boris, Jeneva, Mar/us, Metaraph, Samantha Togni |
 | Sat, 14 Nov 2026 | Chaos In The CBD present 'In Dust We Trust' Tour [SOLD OUT] | Chaos In The CBD, Sanctuary |
@@ -18,9 +17,10 @@ FOLD is a music venue in London listed on soundcheck. 26 upcoming gigs, with lin
 | Sat, 21 Nov 2026 | Transmissions with Donato Dozzy, Sedef Adasï, Naone, David Fogarty  | David Fogarty, Donato Dozzy, FROND, Inner Zone, Naone, Ryan Ingleby, Sedef Adasï |
 | Sun, 22 Nov 2026 | UNFOLD CXXXV |  |
 | Fri, 27 Nov 2026 | Dresden Extended [SOLD OUT] | C.A.R., Dresden, Ivan Smagghe, Josey Rebelle, Manfredas, Marc Piñol |
+| Sat, 28 Nov 2026 | Mount Kimbie (DJ) - All Day Long | Mount Kimbie |
 
 ## Address
 
 Gillian House, Stephenson St, London E16 4SA, UK, London
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/fold/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/fold/)*

@@ -1,6 +1,6 @@
 # DJ Primo
 
-DJ Primo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Mood Ring, New York City on Fri, 13 Nov 2026.
+DJ Primo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Mood Ring, New York City on Fri, 13 Nov 2026.
 
 DJ Primo is a house and techno artist based in United States of America, with 30 gigs on soundcheck across Los Angeles, Montreal, New York City and San Francisco/Oakland. Often billed alongside Shvili, Max Sprauer and Kiyoshi. Next up: Mood Ring, New York City on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ DJ Primo is a house and techno artist based in United States of America, with 30
 
 Shvili, Max Sprauer, Kiyoshi
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djprimo/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djprimo/)*

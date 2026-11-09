@@ -1,6 +1,6 @@
 # OUT OF OFFICE: TUMOSA at When Coffee Meets Whisky
 
-OUT OF OFFICE: TUMOSA at When Coffee Meets Whisky on Fri 13 Nov, Riga. Electro and Acid. See the line-up on soundcheck.
+OUT OF OFFICE: TUMOSA at When Coffee Meets Whisky on Fri 13 Nov, Riga. Acid and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Cho Room
 
-Cho Room is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Enter Shibuya, Tokyo on Wed, 11 Nov 2026.
+Cho Room is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Enter Shibuya, Tokyo on Wed, 11 Nov 2026.
 
 Cho Room is a bass and techno artist based in Germany, with 43 gigs on soundcheck across Berlin, Brussels, Hamburg and London and 2 more. Often billed alongside Haaizey, Spriteeyez and nanatranquillo. Next up: Enter Shibuya, Tokyo on Wed 11 Nov.
 
@@ -26,4 +26,4 @@ Cho Room is a bass and techno artist based in Germany, with 43 gigs on soundchec
 
 Haaizey, Spriteeyez, nanatranquillo
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/choroom/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/choroom/)*

@@ -1,6 +1,6 @@
 # Speckman
 
-Speckman is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Schrotty, Cologne on Sat, 28 Nov 2026.
+Speckman is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Schrotty, Cologne on Sat, 28 Nov 2026.
 
 Speckman is a house and techno artist based in Germany, with 62 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 9 more. Often billed alongside EliaHaze, Penglord and DJ SOURCE. Next up: Schrotty, Cologne on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Speckman is a house and techno artist based in Germany, with 62 gigs on soundche
 
 EliaHaze, Penglord, DJ SOURCE
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/speckman/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/speckman/)*

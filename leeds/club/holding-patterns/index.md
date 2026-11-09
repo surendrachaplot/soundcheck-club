@@ -1,6 +1,6 @@
 # Holding Patterns
 
-Holding Patterns is a music venue in Leeds with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Club Copine Sapphic Speed Dating (35+) & Social" on Thu, 19 Nov 2026.
+Holding Patterns is a music venue in Leeds with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Club Copine Sapphic Speed Dating (35+) & Social" on Thu, 19 Nov 2026.
 
 Holding Patterns is a music venue in Leeds listed on soundcheck. 2 upcoming gigs, with line-ups including Mighty Funk Houser, Sam Pratt, Seth Chohan and Ted Coyle. See dates, start times and who's playing. 2 Albion Place, LS1 6JL.
 
@@ -15,4 +15,4 @@ Holding Patterns is a music venue in Leeds listed on soundcheck. 2 upcoming gigs
 
 2 Albion Place, LS1 6JL, Leeds
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/holding-patterns/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/holding-patterns/)*

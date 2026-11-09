@@ -1,6 +1,6 @@
 # Smoke & Mirrors
 
-Smoke & Mirrors is a music venue in Chicago with 10 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "6 SENSE + SHOKI287" on Fri, 13 Nov 2026.
+Smoke & Mirrors is a music venue in Chicago with 10 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "6 SENSE + SHOKI287" on Fri, 13 Nov 2026.
 
 Smoke & Mirrors is a music venue in Chicago listed on soundcheck. 10 upcoming gigs, with line-ups including 6 SENSE, ANNĒ, Denham Audio and dj flood and 2 more. See dates, start times and who's playing. 2045 N Milwaukee Ave, Chicago, IL 60647.
 
@@ -23,4 +23,4 @@ Smoke & Mirrors is a music venue in Chicago listed on soundcheck. 10 upcoming gi
 
 2045 N Milwaukee Ave, Chicago, IL 60647, Chicago
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smoke-mirrors/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smoke-mirrors/)*

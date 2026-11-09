@@ -1,6 +1,6 @@
 # Yant
 
-Yant is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at The Bassement, Madrid on Sun, 6 Dec 2026.
+Yant is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at The Bassement, Madrid on Sun, 6 Dec 2026.
 
 Yant is a techno and house artist based in United Kingdom, with 85 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 28 more. Often billed alongside Setaoc Mass, Blasha & Allatt and Aletha. Next up: The Bassement, Madrid on Sun 6 Dec.
 
@@ -26,4 +26,4 @@ Yant is a techno and house artist based in United Kingdom, with 85 gigs on sound
 
 Setaoc Mass, Blasha & Allatt, Aletha
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yant/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yant/)*

@@ -1,6 +1,6 @@
 # Rafa Nandez
 
-Rafa Nandez is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at París 15, Malaga on Sat, 14 Nov 2026.
+Rafa Nandez is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at París 15, Malaga on Sat, 14 Nov 2026.
 
 Rafa Nandez is a tech house and house artist based in Spain, with 3 gigs on soundcheck across London, Malaga and Paris. Often billed alongside Alex Rush, CARSA and Nico Loco. Next up: París 15, Malaga on Sat 14 Nov.
 
@@ -19,4 +19,4 @@ Rafa Nandez is a tech house and house artist based in Spain, with 3 gigs on soun
 
 Alex Rush, CARSA, Nico Loco
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rafanandez/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rafanandez/)*

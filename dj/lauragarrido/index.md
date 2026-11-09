@@ -1,6 +1,6 @@
 # Laura Garrido
 
-Laura Garrido is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Block1, Berlin on Fri, 20 Nov 2026.
+Laura Garrido is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Block1, Berlin on Fri, 20 Nov 2026.
 
 Laura Garrido is a techno and house artist based in Germany, with 5 gigs on soundcheck across Berlin, Dublin and London. Often billed alongside Losoul, 0dysseus and Alexander Skancke. Next up: Block1, Berlin on Fri 20 Nov.
 
@@ -21,4 +21,4 @@ Laura Garrido is a techno and house artist based in Germany, with 5 gigs on soun
 
 Losoul, 0dysseus, Alexander Skancke
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lauragarrido/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lauragarrido/)*

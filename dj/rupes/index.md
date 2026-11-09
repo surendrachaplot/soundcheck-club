@@ -1,6 +1,6 @@
 # Rupes
 
-Rupes is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Starlane Pizza Bar, London on Sat, 21 Nov 2026.
+Rupes is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Starlane Pizza Bar, London on Sat, 21 Nov 2026.
 
 Rupes is a tech house and techno artist, with 3 gigs on soundcheck across London. Often billed alongside Inner Zone, Alien Communications and David Fogarty. Next up: Starlane Pizza Bar, London on Sat 21 Nov.
 
@@ -19,4 +19,4 @@ Rupes is a tech house and techno artist, with 3 gigs on soundcheck across London
 
 Inner Zone, Alien Communications, David Fogarty
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rupes/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rupes/)*

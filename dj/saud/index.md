@@ -1,6 +1,6 @@
 # SAUD
 
-SAUD is a Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Medane Beach, Croatia on Thu, 17 Jun 2027.
+SAUD is a Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Medane Beach, Croatia on Thu, 17 Jun 2027.
 
 SAUD is a bass and jungle artist based in Serbia, with 34 gigs on soundcheck across Belgrade, Berlin, Budapest and Chengdu and 8 more. Often billed alongside Carne, Phillie P and VLAHEK. Next up: Medane Beach, Croatia on Thu 17 Jun.
 
@@ -25,4 +25,4 @@ SAUD is a bass and jungle artist based in Serbia, with 34 gigs on soundcheck acr
 
 Carne, Phillie P, VLAHEK
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saud/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saud/)*

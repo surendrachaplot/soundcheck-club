@@ -1,6 +1,6 @@
 # CVN (1)
 
-CVN (1) is a Electronica and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Forestlimit, Tokyo on Mon, 23 Nov 2026.
+CVN (1) is a Electronica and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Forestlimit, Tokyo on Mon, 23 Nov 2026.
 
 CVN is an electronica and hardcore artist based in Japan, with 11 gigs on soundcheck across Chicago, Osaka and Tokyo. Often billed alongside NordOst, lilbesh ramko and Yoyou. Next up: Forestlimit, Tokyo on Mon 23 Nov.
 
@@ -25,4 +25,4 @@ CVN is an electronica and hardcore artist based in Japan, with 11 gigs on soundc
 
 NordOst, lilbesh ramko, Yoyou
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cvn-1/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cvn-1/)*

@@ -1,6 +1,6 @@
 # Frederik's Bar
 
-Frederik's Bar is a music venue in Liverpool with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. The next is "Frederiks NYE - Disco & Decadence" on Thu, 31 Dec 2026.
+Frederik's Bar is a music venue in Liverpool with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. The next is "Frederiks NYE - Disco & Decadence" on Thu, 31 Dec 2026.
 
 Frederik's Bar is a music venue in Liverpool listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 32 Hope St, Liverpool L1 9BX, United Kingdom.
 
@@ -14,4 +14,4 @@ Frederik's Bar is a music venue in Liverpool listed on soundcheck. 1 upcoming gi
 
 32 Hope St, Liverpool L1 9BX, United Kingdom, Liverpool
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/frederik-s-bar/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/frederik-s-bar/)*

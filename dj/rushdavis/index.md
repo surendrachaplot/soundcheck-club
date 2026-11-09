@@ -1,6 +1,6 @@
 # Rush Davis
 
-Rush Davis is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Paragon, New York City on Sat, 28 Nov 2026.
+Rush Davis is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Paragon, New York City on Sat, 28 Nov 2026.
 
 Rush Davis is a house and techno artist based in United States of America, with 46 gigs on soundcheck across Berlin, Cardiff, Edinburgh and Hamburg and 7 more. Often billed alongside Shaun Ross, Ashley Younniä and Saturn Risin9. Next up: Paragon, New York City on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Rush Davis is a house and techno artist based in United States of America, with 
 
 Shaun Ross, Ashley Younniä, Saturn Risin9
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rushdavis/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rushdavis/)*

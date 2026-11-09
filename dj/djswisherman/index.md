@@ -1,14 +1,13 @@
 # DJ SWISHERMAN
 
-DJ SWISHERMAN is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Sala Cocó, Madrid on Sun, 8 Nov 2026.
+DJ SWISHERMAN is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Den Anden Side, Copenhagen on Sat, 14 Nov 2026.
 
-DJ SWISHERMAN is a techno and house artist based in Spain, with 138 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 35 more. Often billed alongside Gerardo Niva, Benwal and John Mood. Next up: Sala Cocó, Madrid on Sun 8 Nov.
+DJ SWISHERMAN is a techno and house artist based in Spain, with 137 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 35 more. Often billed alongside Gerardo Niva, Benwal and John Mood. Next up: Den Anden Side, Copenhagen on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 8 Nov 2026 | Sala Cocó | Madrid |
 | Sat, 14 Nov 2026 | Den Anden Side | Copenhagen |
 | Sat, 21 Nov 2026 | Sala Cocó | Madrid |
 | Thu, 26 Nov 2026 | Sala Cocó | Madrid |
@@ -32,4 +31,4 @@ DJ SWISHERMAN is a techno and house artist based in Spain, with 138 gigs on soun
 
 Gerardo Niva, Benwal, John Mood
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djswisherman/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djswisherman/)*

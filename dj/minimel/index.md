@@ -1,6 +1,6 @@
 # miniMel
 
-miniMel is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at The Glove That Fits, London on Sat, 28 Nov 2026.
+miniMel is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Glove That Fits, London on Sat, 28 Nov 2026.
 
 miniMel is a techno and house artist based in United Kingdom, with 8 gigs on soundcheck across London. Often billed alongside Ranj Kaler, 1979 and Aidan Doherty. Next up: The Glove That Fits, London on Sat 28 Nov.
 
@@ -24,4 +24,4 @@ miniMel is a techno and house artist based in United Kingdom, with 8 gigs on sou
 
 Ranj Kaler, 1979, Aidan Doherty
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/minimel/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/minimel/)*

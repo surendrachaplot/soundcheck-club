@@ -1,6 +1,6 @@
 # sak (4)
 
-sak (4) is a House and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at West Harlem, Kyoto on Wed, 11 Nov 2026.
+sak (4) is a House and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at West Harlem, Kyoto on Wed, 11 Nov 2026.
 
 sak is a house and downtempo artist based in Japan, with 14 gigs on soundcheck across Kyoto and Osaka. Often billed alongside kotakunisaki, DJ Master Kohta and Matthias Abe. Next up: West Harlem, Kyoto on Wed 11 Nov.
 
@@ -26,4 +26,4 @@ sak is a house and downtempo artist based in Japan, with 14 gigs on soundcheck a
 
 kotakunisaki, DJ Master Kohta, Matthias Abe
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sak-4/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sak-4/)*

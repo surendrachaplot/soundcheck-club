@@ -1,14 +1,13 @@
 # Kinjo
 
-Kinjo is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA, Seattle on Sat, 7 Nov 2026.
+Kinjo is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Sat, 21 Nov 2026.
 
-Kinjo is a house and minimal artist based in United States of America, with 15 gigs on soundcheck across Seattle and Vancouver. Often billed alongside Interwave Surfer, Konifer and Ana-Lucid. Next up: TBA, Seattle on Sat 7 Nov.
+Kinjo is a house and minimal artist based in United States of America, with 15 gigs on soundcheck across Seattle and Vancouver. Often billed alongside Interwave Surfer, Konifer and Ana-Lucid. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | TBA | Seattle |
 | Sat, 21 Nov 2026 | Kremwerk-Timbre Room-Cherry Complex | Seattle |
 
 ## Recently played
@@ -26,4 +25,4 @@ Kinjo is a house and minimal artist based in United States of America, with 15 g
 
 Interwave Surfer, Konifer, Ana-Lucid
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kinjo/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kinjo/)*

@@ -1,6 +1,6 @@
 # Steve (IT)
 
-Steve (IT) is a electronic artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at fabric, London on Sat, 28 Nov 2026.
+Steve (IT) is a electronic artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at fabric, London on Sat, 28 Nov 2026.
 
 Steve (IT) is an electronic artist based in Italy, with 2 gigs on soundcheck across London. Often billed alongside Ricky Morrison, Bobby. and CJ Mackintosh. Next up: fabric, London on Sat 28 Nov.
 
@@ -15,4 +15,4 @@ Steve (IT) is an electronic artist based in Italy, with 2 gigs on soundcheck acr
 
 Ricky Morrison, Bobby., CJ Mackintosh
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/steve-it/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/steve-it/)*

@@ -1,6 +1,6 @@
 # Doggy Klœb
 
-Doggy Klœb is a music venue in Malaga with 7 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Undergroove: Arval invites Nekes" on Fri, 13 Nov 2026.
+Doggy Klœb is a music venue in Malaga with 7 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Undergroove: Arval invites Nekes" on Fri, 13 Nov 2026.
 
 Doggy Klœb is a music venue in Malaga listed on soundcheck. 7 upcoming gigs, with line-ups including Andrés Sancho, Arval, Checa and Fer Sanfer and 2 more. See dates, start times and who's playing. C. Casablanca, 13, 29620 Torremolinos, Málaga, Spain.
 
@@ -20,4 +20,4 @@ Doggy Klœb is a music venue in Malaga listed on soundcheck. 7 upcoming gigs, wi
 
 C. Casablanca, 13, 29620 Torremolinos, Málaga, Spain, Malaga
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/doggy-kl-b/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/doggy-kl-b/)*

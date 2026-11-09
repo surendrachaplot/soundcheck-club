@@ -1,6 +1,6 @@
 # THE SLAUGHTER (2)
 
-THE SLAUGHTER (2) is a Gabber and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Aaja Basement, London on Fri, 27 Nov 2026.
+THE SLAUGHTER (2) is a Gabber and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Aaja Basement, London on Fri, 27 Nov 2026.
 
 THE SLAUGHTER is a gabber and hardcore artist based in Spain, with 4 gigs on soundcheck across London. Often billed alongside Torque, Dres Codex and KIM HUNTER. Next up: Aaja Basement, London on Fri 27 Nov.
 
@@ -20,4 +20,4 @@ THE SLAUGHTER is a gabber and hardcore artist based in Spain, with 4 gigs on sou
 
 Torque (2), Dres Codex, KIM HUNTER
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theslaughter-2/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theslaughter-2/)*

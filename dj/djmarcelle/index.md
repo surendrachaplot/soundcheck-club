@@ -1,6 +1,6 @@
 # DJ Marcelle
 
-DJ Marcelle is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Recyclart, Brussels on Sat, 14 Nov 2026.
+DJ Marcelle is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Recyclart, Brussels on Sat, 14 Nov 2026.
 
 DJ Marcelle is an experimental and electronica artist based in Netherlands, with 119 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 42 more. Often billed alongside DjRUM, ojoo and Objekt. Next up: Recyclart, Brussels on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ DJ Marcelle is an experimental and electronica artist based in Netherlands, with
 
 DjRUM, ojoo, Objekt
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmarcelle/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmarcelle/)*

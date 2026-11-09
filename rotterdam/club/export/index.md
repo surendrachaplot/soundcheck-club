@@ -1,6 +1,6 @@
 # export
 
-export is a music venue in Rotterdam with 8 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Amaliah, Hugo Out, Jazz Dalia" on Fri, 13 Nov 2026.
+export is a music venue in Rotterdam with 8 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Amaliah, Hugo Out, Jazz Dalia" on Fri, 13 Nov 2026.
 
 export is a music venue in Rotterdam listed on soundcheck. 8 upcoming gigs, with line-ups including Amaliah, Ambu Bambu, Da Gremlin and De Sluwe Vos and 2 more. See dates, start times and who's playing. Keilestraat 7E, 3029 BP, Rotterdam.
 
@@ -21,4 +21,4 @@ export is a music venue in Rotterdam listed on soundcheck. 8 upcoming gigs, with
 
 Keilestraat 7E, 3029 BP, Rotterdam, Rotterdam
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/export/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/export/)*

@@ -1,6 +1,6 @@
 # JT Donaldson
 
-JT Donaldson is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at The Garden Tisno, Croatia on Thu, 26 Aug 2027.
+JT Donaldson is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Garden Tisno, Croatia on Thu, 26 Aug 2027.
 
 JT Donaldson is a house and hip-hop artist based in United States of America, with 47 gigs on soundcheck across Atlanta, Austin, Chicago and Croatia and 8 more. Often billed alongside Dvize, Lumin and Brett Johnson. Next up: The Garden Tisno, Croatia on Thu 26 Aug.
 
@@ -25,4 +25,4 @@ JT Donaldson is a house and hip-hop artist based in United States of America, wi
 
 Dvize, Lumin, Brett Johnson
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jtdonaldson/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jtdonaldson/)*

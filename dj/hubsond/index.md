@@ -1,6 +1,6 @@
 # Hubsond
 
-Hubsond is a Minimal and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Sekta Selekta, Krakow on Sat, 21 Nov 2026.
+Hubsond is a Minimal and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Sekta Selekta, Krakow on Sat, 21 Nov 2026.
 
 Hubsond is a minimal and electro artist based in Poland, with 20 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Wills Witbooi, Hodgson_ale and Nadezh No. Next up: Sekta Selekta, Krakow on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Hubsond is a minimal and electro artist based in Poland, with 20 gigs on soundch
 
 Wills Witbooi, Hodgson_ale, Nadezh No
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hubsond/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hubsond/)*

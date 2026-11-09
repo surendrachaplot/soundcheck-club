@@ -1,6 +1,6 @@
 # Stadtgarten Konzertsaal / Cafe
 
-Stadtgarten Konzertsaal / Cafe is a music venue in Cologne with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. The next is "KARNEVAL!?! – DER TANZ AUF DER MEMBRAN" on Wed, 11 Nov 2026.
+Stadtgarten Konzertsaal / Cafe is a music venue in Cologne with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. The next is "KARNEVAL!?! – DER TANZ AUF DER MEMBRAN" on Wed, 11 Nov 2026.
 
 Stadtgarten Konzertsaal / Cafe is a music venue in Cologne listed on soundcheck. 1 upcoming gig, with line-ups including Gourski, LSG and MAURO. See dates, start times and who's playing. Venloer Str. 40; 50672 Cologne; Germany.
 
@@ -14,4 +14,4 @@ Stadtgarten Konzertsaal / Cafe is a music venue in Cologne listed on soundcheck.
 
 Venloer Str. 40; 50672 Cologne; Germany, Cologne
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/stadtgarten-konzertsaal-cafe/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/stadtgarten-konzertsaal-cafe/)*

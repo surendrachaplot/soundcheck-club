@@ -1,6 +1,6 @@
 # Kings of the Rollers
 
-Kings of the Rollers is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Tramshed, Cardiff on Sat, 14 Nov 2026.
+Kings of the Rollers is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Tramshed, Cardiff on Sat, 14 Nov 2026.
 
 Kings of the Rollers is a drum & bass and jungle artist based in United Kingdom, with 38 gigs on soundcheck across Amsterdam, Auckland, Brighton and Bristol and 13 more. Often billed alongside Inja, Harriet Jaxxon and Hedex. Next up: Tramshed, Cardiff on Sat 14 Nov.
 
@@ -29,4 +29,4 @@ Kings of the Rollers is a drum & bass and jungle artist based in United Kingdom,
 
 Inja, Harriet Jaxxon, Hedex
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kingsoftherollers/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kingsoftherollers/)*

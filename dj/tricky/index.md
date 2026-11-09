@@ -1,6 +1,6 @@
 # Tricky
 
-Tricky is a Hip-Hop and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Zoom Club, Frankfurt on Fri, 29 Jan 2027.
+Tricky is a Hip-Hop and Experimental artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Zoom Club, Frankfurt on Fri, 29 Jan 2027.
 
 Tricky is a hip-hop and experimental artist based in United Kingdom, with 21 gigs on soundcheck across Bristol, Bucharest, Budapest and Copenhagen and 10 more. Often billed alongside Jenny C, Bassvictim and Beltran. Next up: Zoom Club, Frankfurt on Fri 29 Jan.
 
@@ -26,4 +26,4 @@ Tricky is a hip-hop and experimental artist based in United Kingdom, with 21 gig
 
 Jenny C (1), Bassvictim, Beltran
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tricky/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tricky/)*

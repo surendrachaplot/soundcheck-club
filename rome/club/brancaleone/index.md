@@ -1,6 +1,6 @@
 # Brancaleone
 
-Brancaleone is a music venue in Rome with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Fleurs Sonores x Reveries" on Sat, 21 Nov 2026.
+Brancaleone is a music venue in Rome with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Fleurs Sonores x Reveries" on Sat, 21 Nov 2026.
 
 Brancaleone is a music venue in Rome listed on soundcheck. 2 upcoming gigs, with line-ups including Ame Noir, Blunderr, Collider and Donato Dozzy and 2 more. See dates, start times and who's playing. 11 Via Levanna 00141, Rome (RM), Italy.
 
@@ -15,4 +15,4 @@ Brancaleone is a music venue in Rome listed on soundcheck. 2 upcoming gigs, with
 
 11 Via Levanna 00141, Rome (RM), Italy, Rome
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/rome/club/brancaleone/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/rome/club/brancaleone/)*

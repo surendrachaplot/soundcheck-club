@@ -1,6 +1,6 @@
 # Sunga
 
-Sunga is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Mago, Chubu on Sat, 19 Dec 2026.
+Sunga is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Mago, Chubu on Sat, 19 Dec 2026.
 
 Sunga is a house and techno artist based in Japan, with 119 gigs on soundcheck across Bangkok, Chubu, Kanto and Osaka and 2 more. Often billed alongside Mamazu, YO.AN and DJ Kensei. Next up: Mago, Chubu on Sat 19 Dec.
 
@@ -26,4 +26,4 @@ Sunga is a house and techno artist based in Japan, with 119 gigs on soundcheck a
 
 Mamazu, YO.AN, DJ Kensei
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sunga/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sunga/)*

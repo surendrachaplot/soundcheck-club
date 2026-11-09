@@ -1,6 +1,6 @@
 # Botanic Soundsystem
 
-Botanic Soundsystem is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at D-EDGE, Sao Paulo on Fri, 27 Nov 2026.
+Botanic Soundsystem is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at D-EDGE, Sao Paulo on Fri, 27 Nov 2026.
 
 Botanic Soundsystem is a minimal and house artist, with 9 gigs on soundcheck across Barcelona, Berlin, Rio de Janeiro and Sao Paulo. Often billed alongside Cesare vs Disorder, Andre Buljat and Olga Korol. Next up: D-EDGE, Sao Paulo on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Botanic Soundsystem is a minimal and house artist, with 9 gigs on soundcheck acr
 
 Cesare vs Disorder, Andre Buljat, Olga Korol
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/botanicsoundsystem/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/botanicsoundsystem/)*

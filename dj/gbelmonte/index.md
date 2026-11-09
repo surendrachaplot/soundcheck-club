@@ -1,6 +1,6 @@
 # G Belmonte
 
-G Belmonte is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - All My Friends + Secret Location, London on Sat, 14 Nov 2026.
+G Belmonte is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - All My Friends + Secret Location, London on Sat, 14 Nov 2026.
 
 G Belmonte is a house and electro artist based in Brazil, with 29 gigs on soundcheck across Barcelona, Berlin, Brighton and London. Often billed alongside Leonardo Cruz DJ, Simoon Pedro and De La Reef. Next up: TBA - All My Friends + Secret Location, London on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ G Belmonte is a house and electro artist based in Brazil, with 29 gigs on soundc
 
 Leonardo Cruz DJ, Simoon Pedro, De La Reef
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gbelmonte/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gbelmonte/)*

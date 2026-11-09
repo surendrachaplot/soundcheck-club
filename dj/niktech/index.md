@@ -1,8 +1,8 @@
 # Niktech
 
-Niktech is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - SECRET WAREHOUSE, Berlin on Sat, 12 Dec 2026.
+Niktech is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - SECRET WAREHOUSE, Berlin on Sat, 12 Dec 2026.
 
-Niktech is a techno and tech house artist, with 8 gigs on soundcheck across Berlin, Leipzig and Naples. Often billed alongside Gianmarco Silvetti, IRA DELTA and Blasha & Allatt. Next up: TBA - SECRET WAREHOUSE, Berlin on Sat 12 Dec.
+Niktech is a techno and tech house artist based in Italy, with 8 gigs on soundcheck across Berlin, Leipzig and Naples. Often billed alongside Gianmarco Silvetti, IRA DELTA and Blasha & Allatt. Next up: TBA - SECRET WAREHOUSE, Berlin on Sat 12 Dec.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ Niktech is a techno and tech house artist, with 8 gigs on soundcheck across Berl
 
 Gianmarco Silvetti, IRA DELTA, Blasha & Allatt
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/niktech/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/niktech/)*

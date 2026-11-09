@@ -1,6 +1,6 @@
 # Freeflow
 
-Freeflow is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Eleusis LFC Music Studio, Athens on Sat, 21 Nov 2026.
+Freeflow is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Eleusis LFC Music Studio, Athens on Sat, 21 Nov 2026.
 
 Freeflow is a techno artist based in Greece, with 14 gigs on soundcheck across Athens and Thessaloniki. Often billed alongside Philip Paul, Blame The Mono and LEFTYT. Next up: Eleusis LFC Music Studio, Athens on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Freeflow is a techno artist based in Greece, with 14 gigs on soundcheck across A
 
 Philip Paul, Blame The Mono, LEFTYT
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/freeflow/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/freeflow/)*

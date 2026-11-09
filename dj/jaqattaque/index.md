@@ -1,14 +1,18 @@
 # Jaq Attaque
 
-Jaq Attaque is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Secret Venue, Chicago on Sat, 14 Nov 2026.
+Jaq Attaque is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at The California Clipper, Chicago on Tue, 10 Nov 2026.
 
-Jaq Attaque is a house and techno artist based in United States of America, with 34 gigs on soundcheck across Berlin, Boston, Chicago and Detroit and 3 more. Often billed alongside Dan B Hood, Olin and The Blessed Madonna. Next up: TBA - Secret Venue, Chicago on Sat 14 Nov.
+Jaq Attaque is a house and techno artist based in United States of America, with 38 gigs on soundcheck across Berlin, Boston, Chicago and Detroit and 3 more. Often billed alongside Dan B Hood, Olin and The Blessed Madonna. Next up: The California Clipper, Chicago on Tue 10 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Tue, 10 Nov 2026 | The California Clipper | Chicago |
 | Sat, 14 Nov 2026 | TBA - Secret Venue | Chicago |
+| Tue, 24 Nov 2026 | The California Clipper | Chicago |
+| Tue, 8 Dec 2026 | The California Clipper | Chicago |
+| Tue, 29 Dec 2026 | The California Clipper | Chicago |
 
 ## Recently played
 
@@ -25,4 +29,4 @@ Jaq Attaque is a house and techno artist based in United States of America, with
 
 Dan B Hood, Olin, The Blessed Madonna
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaqattaque/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaqattaque/)*

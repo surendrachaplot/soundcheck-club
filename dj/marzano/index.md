@@ -1,8 +1,8 @@
 # Marzano
 
-Marzano is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Balagan Roma, Rome on Fri, 20 Nov 2026.
+Marzano is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Balagan Roma, Rome on Fri, 20 Nov 2026.
 
-Marzano is a tech house and house artist, with 6 gigs on soundcheck across Rome. Often billed alongside DIANA, ABsG and Ale Bi. Next up: Balagan Roma, Rome on Fri 20 Nov.
+Marzano is a tech house and house artist based in Italy, with 6 gigs on soundcheck across Rome. Often billed alongside DIANA, ABsG and Ale Bi. Next up: Balagan Roma, Rome on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -22,4 +22,4 @@ Marzano is a tech house and house artist, with 6 gigs on soundcheck across Rome.
 
 DIANA, ABsG, Ale Bi
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marzano/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marzano/)*

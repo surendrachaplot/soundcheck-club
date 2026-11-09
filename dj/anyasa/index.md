@@ -1,6 +1,6 @@
 # Anyasa
 
-Anyasa is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Magazine London, London on Sat, 28 Nov 2026.
+Anyasa is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Magazine London, London on Sat, 28 Nov 2026.
 
 Anyasa is a house and techno artist based in India, with 22 gigs on soundcheck across Amsterdam, Bangalore, Chicago and Denver and 8 more. Often billed alongside CRi, Firungi and Harji. Next up: Magazine London, London on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Anyasa is a house and techno artist based in India, with 22 gigs on soundcheck a
 
 CRi, Firungi, Harji
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anyasa/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anyasa/)*

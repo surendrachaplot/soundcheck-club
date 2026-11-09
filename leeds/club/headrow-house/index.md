@@ -1,8 +1,8 @@
 # Headrow House
 
-Headrow House is a music venue in Leeds with 11 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "3PM Selects and Her Groove present Headrow Rooftop Party Part 5" on Tue, 10 Nov 2026.
+Headrow House is a music venue in Leeds with 12 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "3PM Selects and Her Groove present Headrow Rooftop Party Part 5" on Tue, 10 Nov 2026.
 
-Headrow House is a music venue in Leeds listed on soundcheck. 11 upcoming gigs, with line-ups including Capo Lee, Dublon, jord.n and Kylie Wears Berghaus and 2 more. See dates, start times and who's playing. Bramleys Yard, 19 The Headrow, Leeds, LS1 6PU, United Kingdom.
+Headrow House is a music venue in Leeds listed on soundcheck. 12 upcoming gigs, with line-ups including Capo Lee, Dublon, jord.n and Kylie Wears Berghaus and 2 more. See dates, start times and who's playing. Bramleys Yard, 19 The Headrow, Leeds, LS1 6PU, United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Headrow House is a music venue in Leeds listed on soundcheck. 11 upcoming gigs, 
 
 Bramleys Yard, 19 The Headrow, Leeds, LS1 6PU, United Kingdom, Leeds
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/headrow-house/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/headrow-house/)*

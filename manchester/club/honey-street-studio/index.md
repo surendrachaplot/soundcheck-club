@@ -1,6 +1,6 @@
 # Honey Street Studio
 
-Honey Street Studio is a music venue in Manchester with 8 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Fingers Crossed: Shroom Shroom" on Sat, 14 Nov 2026.
+Honey Street Studio is a music venue in Manchester with 8 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Fingers Crossed: Shroom Shroom" on Sat, 14 Nov 2026.
 
 Honey Street Studio is a music venue in Manchester listed on soundcheck. 8 upcoming gigs, with line-ups including LALIT, Arkane, Baby Rollén and Banana Hill and 2 more. See dates, start times and who's playing. Honey St, Cheetham Hill, Manchester M8 8RG.
 
@@ -21,4 +21,4 @@ Honey Street Studio is a music venue in Manchester listed on soundcheck. 8 upcom
 
 Honey St, Cheetham Hill, Manchester M8 8RG, Manchester
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/honey-street-studio/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/honey-street-studio/)*

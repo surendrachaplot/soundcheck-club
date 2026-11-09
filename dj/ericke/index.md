@@ -1,6 +1,6 @@
 # Erick E
 
-Erick E is a House and Acid artist with 9 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Warehouse Elementenstraat, Amsterdam on Sat, 14 Nov 2026.
+Erick E is a House and Acid artist with 9 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Warehouse Elementenstraat, Amsterdam on Sat, 14 Nov 2026.
 
 Erick E is a house and acid artist based in Netherlands, with 73 gigs on soundcheck across Amsterdam, Netherlands, Nijmegen and Rotterdam and 2 more. Often billed alongside ROOG, Alexander Koning and Lucien Foort. Next up: Warehouse Elementenstraat, Amsterdam on Sat 14 Nov.
 
@@ -33,4 +33,4 @@ Erick E is a house and acid artist based in Netherlands, with 73 gigs on soundch
 
 ROOG, Alexander Koning, Lucien Foort
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ericke/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ericke/)*

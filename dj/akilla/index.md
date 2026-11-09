@@ -1,6 +1,6 @@
 # Akilla
 
-Akilla is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Amigo, Ghent on Thu, 31 Dec 2026.
+Akilla is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Amigo, Ghent on Thu, 31 Dec 2026.
 
 Akilla is a house and disco artist based in Belgium, with 3 gigs on soundcheck across Ghent. Often billed alongside Arian Zand, Bafana and DTM Funk. Next up: Amigo, Ghent on Thu 31 Dec.
 
@@ -19,4 +19,4 @@ Akilla is a house and disco artist based in Belgium, with 3 gigs on soundcheck a
 
 Arian Zand, Bafana, DTM Funk
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akilla/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akilla/)*

@@ -1,6 +1,6 @@
 # WEEKEND OCTAGON at SEL OCTAGON TOKYO
 
-WEEKEND OCTAGON at SEL OCTAGON TOKYO on Fri 20 Nov, Tokyo. 4 artists: kazuma, Lemi, Miki and Zukky. Electro and Club. See the line-up on soundcheck.
+WEEKEND OCTAGON at SEL OCTAGON TOKYO on Fri 20 Nov, Tokyo. 3 artists: kazuma, Lemi and Zukky. Electro and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,6 @@ WEEKEND OCTAGON at SEL OCTAGON TOKYO on Fri 20 Nov, Tokyo. 4 artists: kazuma, Le
 
 - kazuma
 - Lemi
-- Miki
 - Zukky
 
 *Source: [soundcheck](https://soundcheck.club/e/2578197-weekend-octagon-at-sel-octagon-tokyo/)*

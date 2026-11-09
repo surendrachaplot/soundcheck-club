@@ -1,6 +1,6 @@
 # Times New Roman
 
-Times New Roman is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Kongresai, Vilnius on Sat, 12 Dec 2026.
+Times New Roman is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Kongresai, Vilnius on Sat, 12 Dec 2026.
 
 Times New Roman is a techno and electro artist based in Lithuania, with 15 gigs on soundcheck across Athens, Berlin, Vilnius and Warsaw. Often billed alongside Eivydas K, Ernestas Sadau and Cyber. Next up: Kongresai, Vilnius on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Times New Roman is a techno and electro artist based in Lithuania, with 15 gigs 
 
 Eivydas K, Ernestas Sadau, Cyber (3)
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/timesnewroman/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/timesnewroman/)*

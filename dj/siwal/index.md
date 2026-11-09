@@ -1,6 +1,6 @@
 # SIWAL
 
-SIWAL is a House and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Macadam, Nantes on Sat, 16 Jan 2027.
+SIWAL is a House and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Macadam, Nantes on Sat, 16 Jan 2027.
 
 SIWAL is a house and dub techno artist based in France, with 16 gigs on soundcheck across Brussels, Nantes and Paris. Often billed alongside Combe, Ottäkam and Akira Yamagata. Next up: Macadam, Nantes on Sat 16 Jan.
 
@@ -25,4 +25,4 @@ SIWAL is a house and dub techno artist based in France, with 16 gigs on soundche
 
 Combe, Ottäkam, Akira Yamagata
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/siwal/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/siwal/)*

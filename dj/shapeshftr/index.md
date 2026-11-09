@@ -1,6 +1,6 @@
 # SHAPESHFTR
 
-SHAPESHFTR is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Catalina Classic Cruises, Los Angeles on Sat, 14 Nov 2026.
+SHAPESHFTR is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Catalina Classic Cruises, Los Angeles on Sat, 14 Nov 2026.
 
 SHAPESHFTR is a tech house and house artist based in United States of America, with 3 gigs on soundcheck across Los Angeles and Seattle. Often billed alongside CANDL, Sacha Robotti and Thee Mike B. Next up: Catalina Classic Cruises, Los Angeles on Sat 14 Nov.
 
@@ -19,4 +19,4 @@ SHAPESHFTR is a tech house and house artist based in United States of America, w
 
 CANDL, Sacha Robotti, Thee Mike B
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shapeshftr/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shapeshftr/)*

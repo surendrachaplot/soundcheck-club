@@ -1,6 +1,6 @@
 # URI (NL)
 
-URI (NL) is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at 303 Audiophile Bar, Barcelona on Thu, 19 Nov 2026.
+URI (NL) is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at 303 Audiophile Bar, Barcelona on Thu, 19 Nov 2026.
 
 URI (NL) is a techno and downtempo artist based in Netherlands, with 5 gigs on soundcheck across Amsterdam, Barcelona and Ibiza. Often billed alongside 100 faces, 3LEEZA and AREA ØNE. Next up: 303 Audiophile Bar, Barcelona on Thu 19 Nov.
 
@@ -21,4 +21,4 @@ URI (NL) is a techno and downtempo artist based in Netherlands, with 5 gigs on s
 
 100 faces, 3LEEZA, AREA ØNE
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/urinl/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/urinl/)*

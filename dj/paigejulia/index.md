@@ -1,6 +1,6 @@
 # Paige Julia
 
-Paige Julia is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Xchc, Christchurch on Sat, 5 Dec 2026.
+Paige Julia is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Xchc, Christchurch on Sat, 5 Dec 2026.
 
 Paige Julia is a drum & bass and bass artist based in New Zealand, with 34 gigs on soundcheck across Auckland, Bristol, Christchurch and Leeds and 5 more. Often billed alongside Dylan C, Rob Warner and Truth. Next up: Xchc, Christchurch on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Paige Julia is a drum & bass and bass artist based in New Zealand, with 34 gigs 
 
 Dylan C, Rob Warner, Truth
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paigejulia/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paigejulia/)*

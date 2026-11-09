@@ -1,6 +1,6 @@
 # Julia Govor
 
-Julia Govor is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at public records, New York City on Fri, 4 Dec 2026.
+Julia Govor is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at public records, New York City on Fri, 4 Dec 2026.
 
 Julia Govor is a techno and house artist based in United States of America, with 134 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 38 more. Often billed alongside Kamran Sadeghi, Adrian Hex and Bloody Mary. Next up: public records, New York City on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Julia Govor is a techno and house artist based in United States of America, with
 
 Kamran Sadeghi, Adrian Hex, Bloody Mary
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juliagovor/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juliagovor/)*

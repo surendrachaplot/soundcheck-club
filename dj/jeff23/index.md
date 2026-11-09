@@ -1,6 +1,6 @@
 # Jeff23
 
-Jeff23 is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Near Jannowitzbrücke, Berlin on Fri, 27 Nov 2026.
+Jeff23 is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Near Jannowitzbrücke, Berlin on Fri, 27 Nov 2026.
 
 Jeff23 is a techno and psytrance artist based in Albania, with 7 gigs on soundcheck across Berlin, Geneva, Manchester and Tirana and 1 more. Often billed alongside 69DB, 010010* and Ixindamix. Next up: TBA - Near Jannowitzbrücke, Berlin on Fri 27 Nov.
 
@@ -23,4 +23,4 @@ Jeff23 is a techno and psytrance artist based in Albania, with 7 gigs on soundch
 
 69DB, 010010*, Ixindamix
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jeff23/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jeff23/)*

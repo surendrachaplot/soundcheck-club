@@ -1,6 +1,6 @@
 # Uus Laine
 
-Uus Laine is a music venue in Tallinn with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Laine Klubiöö: Tapes All Night Long" on Fri, 20 Nov 2026.
+Uus Laine is a music venue in Tallinn with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Laine Klubiöö: Tapes All Night Long" on Fri, 20 Nov 2026.
 
 Uus Laine is a music venue in Tallinn listed on soundcheck. 4 upcoming gigs, with line-ups including adobeprincess, State OFFF, T.NO and Tapes. See dates, start times and who's playing. Vana-Kalamaja 1 Tallinn, Estonia.
 
@@ -17,4 +17,4 @@ Uus Laine is a music venue in Tallinn listed on soundcheck. 4 upcoming gigs, wit
 
 Vana-Kalamaja 1 Tallinn, Estonia, Tallinn
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/uus-laine/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/uus-laine/)*

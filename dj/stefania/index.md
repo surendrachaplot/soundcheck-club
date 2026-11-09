@@ -1,6 +1,6 @@
 # Stefania
 
-Stefania is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Ankali & Planeta Za, Prague on Sat, 14 Nov 2026.
+Stefania is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Ankali & Planeta Za, Prague on Sat, 14 Nov 2026.
 
 Stefania is a house and disco artist based in United Kingdom, with 3 gigs on soundcheck across London and Prague. Often billed alongside Alex Neri, Binh and Calla. Next up: Ankali & Planeta Za, Prague on Sat 14 Nov.
 
@@ -19,4 +19,4 @@ Stefania is a house and disco artist based in United Kingdom, with 3 gigs on sou
 
 Alex Neri, Binh, Calla
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stefania/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stefania/)*

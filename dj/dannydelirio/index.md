@@ -1,6 +1,6 @@
 # DannyDelirio
 
-DannyDelirio is a Trance and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Scirocco by mare culturale urbano, Milan on Sun, 22 Nov 2026.
+DannyDelirio is a Trance and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Scirocco by mare culturale urbano, Milan on Sun, 22 Nov 2026.
 
 DannyDelirio is a trance and electronica artist based in Italy, with 4 gigs on soundcheck across Milan. Often billed alongside Giampiero Ciceri. Next up: Scirocco by mare culturale urbano, Milan on Sun 22 Nov.
 
@@ -20,4 +20,4 @@ DannyDelirio is a trance and electronica artist based in Italy, with 4 gigs on s
 
 Giampiero Ciceri
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dannydelirio/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dannydelirio/)*

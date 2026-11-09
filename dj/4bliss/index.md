@@ -1,6 +1,6 @@
 # 4BLISS#
 
-4BLISS# is a Bass and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA, Berlin on Sat, 14 Nov 2026.
+4BLISS# is a Bass and Downtempo artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA, Berlin on Sat, 14 Nov 2026.
 
 4BLISS# is a bass and downtempo artist, with 24 gigs on soundcheck across Berlin. Often billed alongside JAPV95, Strobe and doctor doms. Next up: TBA, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@
 
 JAPV95, Strobe, doctor doms
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/4bliss/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/4bliss/)*

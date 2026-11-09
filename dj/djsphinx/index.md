@@ -1,6 +1,6 @@
 # DJ SPHiNX
 
-DJ SPHiNX is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Russell Industrial Center, Detroit on Sat, 14 Nov 2026.
+DJ SPHiNX is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Russell Industrial Center, Detroit on Sat, 14 Nov 2026.
 
 DJ SPHiNX is a techno and house artist based in United States of America, with 93 gigs on soundcheck across Adelaide, Cleveland, Detroit and Paris. Often billed alongside Craig Gonzalez, LATEX GIRL and hypemelo. Next up: Russell Industrial Center, Detroit on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ DJ SPHiNX is a techno and house artist based in United States of America, with 9
 
 Craig Gonzalez, LATEX GIRL, hypemelo
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsphinx/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsphinx/)*

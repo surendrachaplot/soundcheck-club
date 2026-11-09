@@ -1,6 +1,6 @@
 # TBA - Tabu Uluwatu
 
-TBA - Tabu Uluwatu is a music venue in Bali with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. The next is "Tabu Saturdays: Body Talk Records Takeover" on Sat, 14 Nov 2026.
+TBA - Tabu Uluwatu is a music venue in Bali with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. The next is "Tabu Saturdays: Body Talk Records Takeover" on Sat, 14 Nov 2026.
 
 TBA - Tabu Uluwatu is a music venue in Bali listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Tabu Uluwatu is a music venue in Bali listed on soundcheck. 1 upcoming gig
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Tabu Saturdays: Body Talk Records Takeover |  |
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/bali/club/tba-tabu-uluwatu/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/bali/club/tba-tabu-uluwatu/)*

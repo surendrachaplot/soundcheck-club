@@ -1,14 +1,13 @@
 # Numm
 
-Numm is a music venue in Tokyo with 21 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Prisma" on Sun, 8 Nov 2026.
+Numm is a music venue in Tokyo with 20 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "10% DISco" on Thu, 12 Nov 2026.
 
-Numm is a music venue in Tokyo listed on soundcheck. 21 upcoming gigs, with line-ups including 3rill, CHIDA, DAIY and Dazzle Drums and 2 more. See dates, start times and who's playing. B1F AiiA ANEX bld 2-9-13 Shibuya, Shibuya-ku, Tokyo-to 150-0002 Japan.
+Numm is a music venue in Tokyo listed on soundcheck. 20 upcoming gigs, with line-ups including 3rill, CHIDA, DAIY and Dazzle Drums and 2 more. See dates, start times and who's playing. B1F AiiA ANEX bld 2-9-13 Shibuya, Shibuya-ku, Tokyo-to 150-0002 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 8 Nov 2026 | Prisma | Dazzle Drums, MINAMI |
 | Thu, 12 Nov 2026 | 10% DISco |  |
 | Sat, 14 Nov 2026 | DIVUM |  |
 | Sat, 14 Nov 2026 | DIVUM |  |
@@ -18,9 +17,10 @@ Numm is a music venue in Tokyo listed on soundcheck. 21 upcoming gigs, with line
 | Tue, 17 Nov 2026 | Area Deep |  |
 | Wed, 18 Nov 2026 | Spin | 3rill, DAIY, Junki Akutagawa |
 | Thu, 19 Nov 2026 | 歓喜 | Sota Shimada |
+| Sat, 21 Nov 2026 | Parallel | 3rill, Keigo, Onométro, Terax, takumar |
 
 ## Address
 
 B1F AiiA ANEX bld 2-9-13 Shibuya, Shibuya-ku, Tokyo-to 150-0002 Japan, Tokyo
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/numm/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/numm/)*

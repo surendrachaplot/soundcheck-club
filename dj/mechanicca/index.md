@@ -1,6 +1,6 @@
 # Mechanic (CA)
 
-Mechanic (CA) is a Electro and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at NWHR, Montreal on Fri, 20 Nov 2026.
+Mechanic (CA) is a Electro and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at NWHR, Montreal on Fri, 20 Nov 2026.
 
 Mechanic (CA) is an electro and deep house artist based in Canada, with 4 gigs on soundcheck across Montreal. Often billed alongside ACE-F, Elyēs and Jino K. Next up: NWHR, Montreal on Fri 20 Nov.
 
@@ -20,4 +20,4 @@ Mechanic (CA) is an electro and deep house artist based in Canada, with 4 gigs o
 
 ACE-F, Elyēs (2), Jino K
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mechanicca/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mechanicca/)*

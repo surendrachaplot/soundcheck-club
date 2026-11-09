@@ -1,6 +1,6 @@
 # Casual
 
-Casual is a music venue in Hong Kong with 8 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "REGGIE THE LEAF VOL.2 - Live Band Residency" on Wed, 11 Nov 2026.
+Casual is a music venue in Hong Kong with 8 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "REGGIE THE LEAF VOL.2 - Live Band Residency" on Wed, 11 Nov 2026.
 
 Casual is a music venue in Hong Kong listed on soundcheck. 8 upcoming gigs, with line-ups including CASAMUSICA, Drafus, Emel and Mamie's and 2 more. See dates, start times and who's playing. 3rd Floor, 1 Lockhart Road, Wan Chai, Hong Kong Island.
 
@@ -21,4 +21,4 @@ Casual is a music venue in Hong Kong listed on soundcheck. 8 upcoming gigs, with
 
 3rd Floor, 1 Lockhart Road, Wan Chai, Hong Kong Island, Hong Kong
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/casual/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/casual/)*

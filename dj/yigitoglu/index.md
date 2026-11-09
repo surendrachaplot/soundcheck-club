@@ -1,6 +1,6 @@
 # Yigitoglu
 
-Yigitoglu is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at UNDERCITY, Seoul on Sat, 21 Nov 2026.
+Yigitoglu is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at UNDERCITY, Seoul on Sat, 21 Nov 2026.
 
 Yigitoglu is a techno artist, with 8 gigs on soundcheck across Berlin, Istanbul and Seoul. Often billed alongside KVTS, Closet Yi and Dubfire. Next up: UNDERCITY, Seoul on Sat 21 Nov.
 
@@ -24,4 +24,4 @@ Yigitoglu is a techno artist, with 8 gigs on soundcheck across Berlin, Istanbul 
 
 KVTS, Closet Yi, Dubfire
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yigitoglu/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yigitoglu/)*

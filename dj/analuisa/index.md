@@ -1,8 +1,8 @@
 # Ana Luisa
 
-Ana Luisa is a Latin Bass and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - given out to ticket holders day before, Toronto on Fri, 13 Nov 2026.
+Ana Luisa is a Latin Bass and Club artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - given out to ticket holders day before, Toronto on Fri, 13 Nov 2026.
 
-Ana Luisa is a latin bass and club artist based in Venezuela, with 65 gigs on soundcheck across Montreal, Toronto and Vancouver. Often billed alongside Sofia Fly, Litney and HVN. Next up: TBA - given out to ticket holders day before, Toronto on Fri 13 Nov.
+Ana Luisa is a latin bass and club artist based in Venezuela, with 66 gigs on soundcheck across Montreal, Toronto and Vancouver. Often billed alongside Sofia Fly, Litney and HVN. Next up: TBA - given out to ticket holders day before, Toronto on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ana Luisa is a latin bass and club artist based in Venezuela, with 65 gigs on so
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | TBA - given out to ticket holders day before | Toronto |
 | Sat, 14 Nov 2026 | The Jama | Toronto |
+| Fri, 20 Nov 2026 | Cafeteria | Toronto |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Ana Luisa is a latin bass and club artist based in Venezuela, with 65 gigs on so
 
 Sofia Fly, Litney, HVN (1)
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/analuisa/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/analuisa/)*

@@ -1,6 +1,6 @@
 # Hangar48 Club
 
-Hangar48 Club is a music venue in Madrid with 12 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "190DBS" on Fri, 13 Nov 2026.
+Hangar48 Club is a music venue in Madrid with 12 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "190DBS" on Fri, 13 Nov 2026.
 
 Hangar48 Club is a music venue in Madrid listed on soundcheck. 12 upcoming gigs, with line-ups including Jara, Nahuel Farina, Nico Spina and PASTIGAY and 1 more. See dates, start times and who's playing. C. de Bailén, 24, 28005 Madrid.
 
@@ -23,4 +23,4 @@ Hangar48 Club is a music venue in Madrid listed on soundcheck. 12 upcoming gigs,
 
 C. de Bailén, 24, 28005 Madrid, Madrid
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/hangar48-club/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/hangar48-club/)*

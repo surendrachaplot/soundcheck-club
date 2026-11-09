@@ -1,6 +1,6 @@
 # BobbyG
 
-BobbyG is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Avalon Cafe Bermondsey, London on Sat, 14 Nov 2026.
+BobbyG is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Avalon Cafe Bermondsey, London on Sat, 14 Nov 2026.
 
 BobbyG is a tech house and minimal artist based in United Kingdom, with 4 gigs on soundcheck across Brighton and London. Often billed alongside Hector., Admo and EEBEE. Next up: Avalon Cafe Bermondsey, London on Sat 14 Nov.
 
@@ -20,4 +20,4 @@ BobbyG is a tech house and minimal artist based in United Kingdom, with 4 gigs o
 
 Hector., Admo, EEBEE
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bobbyg/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bobbyg/)*

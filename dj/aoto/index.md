@@ -1,6 +1,6 @@
 # Aoto
 
-Aoto is a Garage and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Kieth Flack, Kyushu on Fri, 20 Nov 2026.
+Aoto is a Garage and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Kieth Flack, Kyushu on Fri, 20 Nov 2026.
 
 Aoto is a garage and hip-hop artist based in Canada, with 4 gigs on soundcheck across Kyushu, Tokyo and Toronto. Often billed alongside Fanndemm, Mizuki and Peterparker69. Next up: Kieth Flack, Kyushu on Fri 20 Nov.
 
@@ -20,4 +20,4 @@ Aoto is a garage and hip-hop artist based in Canada, with 4 gigs on soundcheck a
 
 Fanndemm, Mizuki, Peterparker69
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aoto/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aoto/)*

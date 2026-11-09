@@ -1,6 +1,6 @@
 # Claire O'Brien
 
-Claire O'Brien is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Sidney Myer Music Bowl, Melbourne on Thu, 31 Dec 2026.
+Claire O'Brien is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Sidney Myer Music Bowl, Melbourne on Thu, 31 Dec 2026.
 
 Claire O'Brien is a techno and house artist based in Australia, with 43 gigs on soundcheck across Amsterdam, Bristol, Byron Bay and Galway and 6 more. Often billed alongside Prizefight, ATARANGI and Effy. Next up: Sidney Myer Music Bowl, Melbourne on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Claire O'Brien is a techno and house artist based in Australia, with 43 gigs on 
 
 Prizefight, ATARANGI, Effy
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/claireobrien/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/claireobrien/)*

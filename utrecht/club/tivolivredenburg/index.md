@@ -1,14 +1,13 @@
 # TivoliVredenburg
 
-TivoliVredenburg is a music venue in Utrecht with 9 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Le Guess Who? 2026" on Thu, 5 Nov 2026.
+TivoliVredenburg is a music venue in Utrecht with 8 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "ON&ON: Locklead e.a" on Fri, 13 Nov 2026.
 
-TivoliVredenburg is a music venue in Utrecht listed on soundcheck. 9 upcoming gigs, with line-ups including Aba Shanti-I, Aho Ssan, Ambu Bambu and Ana Roxanne and 2 more. See dates, start times and who's playing. Vredenburgkade 11, 3511 WC, Utrecht, Netherlands.
+TivoliVredenburg is a music venue in Utrecht listed on soundcheck. 8 upcoming gigs, with line-ups including Elias Mazian, Erick E, Fiene and Funkerman and 2 more. See dates, start times and who's playing. Vredenburgkade 11, 3511 WC, Utrecht, Netherlands.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | Le Guess Who? 2026 | Aba Shanti-I, Aho Ssan, Ambu Bambu, Ana Roxanne, Arsenal Mikebe, Aunty Rayzor, Azu Tiwaline, BBBBBBB, CARISTA, Carmen Villain, Chinnamasta, Craven Faults, DJ Lycox, DJ Plead, DJK, Devon Rexi, Dj Danifox, Elvin Brandhi, Eris Drew, Galecta (2), Georgia Anne Muldrow, Gigi Masin, Goat (JP), Grouper, Heith, Hervé, Introspekt, JUDGITZU, KMRU, Kelman Duran, Kelsey Lu, Loraine James, Los Thuthanaka, Mad Professor, Mai Mai Mai, Mark Fell, NEXCYIA, Octo Octa, Ouri, Ryoichi Kurokawa, Seekersinternational, Shabaka, Sign Libra, Tash LC, Teatre, The Bug, The Scientist, Tony Njoku, Tortoise, Tshegue, Valentina Magaletti, YPY, jannah, more eaze, ojoo |
 | Fri, 13 Nov 2026 | ON&ON: Locklead e.a | Locklead |
 | Sat, 21 Nov 2026 | Hush with MENESIX & More | MENESIX, Simon Kidzoo |
 | Sat, 28 Nov 2026 | History of House Utrecht | Erick E, Funkerman, Housequake, ROOG |
@@ -22,4 +21,4 @@ TivoliVredenburg is a music venue in Utrecht listed on soundcheck. 9 upcoming gi
 
 Vredenburgkade 11, 3511 WC, Utrecht, Netherlands, Utrecht
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/tivolivredenburg/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/tivolivredenburg/)*

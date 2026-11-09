@@ -1,6 +1,6 @@
 # Richard Durand
 
-Richard Durand is a Trance and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at La Fin Taipei, Taipei on Sat, 14 Nov 2026.
+Richard Durand is a Trance and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at La Fin Taipei, Taipei on Sat, 14 Nov 2026.
 
 Richard Durand is a trance and techno artist based in Netherlands, with 15 gigs on soundcheck across Amsterdam, Bangkok, Los Angeles and Manchester and 9 more. Often billed alongside Ferry Corsten, Giuseppe Ottaviani and John O'Callaghan. Next up: La Fin Taipei, Taipei on Sat 14 Nov.
 
@@ -28,4 +28,4 @@ Richard Durand is a trance and techno artist based in Netherlands, with 15 gigs 
 
 Ferry Corsten, Giuseppe Ottaviani, John O'Callaghan
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/richarddurand/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/richarddurand/)*

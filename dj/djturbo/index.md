@@ -1,6 +1,6 @@
 # DJ TURBO
 
-DJ TURBO is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at KitKatClub, Berlin on Fri, 22 Jan 2027.
+DJ TURBO is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at KitKatClub, Berlin on Fri, 22 Jan 2027.
 
 DJ TURBO is an electronic artist based in Spain, with 42 gigs on soundcheck across Berlin and Madrid. Often billed alongside Theia Daja, NETN and RMXR. Next up: KitKatClub, Berlin on Fri 22 Jan.
 
@@ -25,4 +25,4 @@ DJ TURBO is an electronic artist based in Spain, with 42 gigs on soundcheck acro
 
 Theia Daja, NETN, RMXR
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djturbo/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djturbo/)*

@@ -1,6 +1,6 @@
 # Solar Punk
 
-Solar Punk is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at ESC, Montreal on Fri, 27 Nov 2026.
+Solar Punk is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at ESC, Montreal on Fri, 27 Nov 2026.
 
 Solar Punk is a house and electro artist, with 15 gigs on soundcheck across Bangkok, Barcelona, Edinburgh and Hanoi and 5 more. Often billed alongside Chris Gorrie, Jua'Rez and Brasi. Next up: ESC, Montreal on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Solar Punk is a house and electro artist, with 15 gigs on soundcheck across Bang
 
 Chris Gorrie, Jua'Rez, Brasi
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/solarpunk/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/solarpunk/)*

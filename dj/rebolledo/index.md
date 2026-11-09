@@ -1,6 +1,6 @@
 # Rebolledo
 
-Rebolledo is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Metro Dance Club, Alicante on Sat, 14 Nov 2026.
+Rebolledo is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Metro Dance Club, Alicante on Sat, 14 Nov 2026.
 
 Rebolledo is a house and techno artist based in Mexico, with 84 gigs on soundcheck across Alicante, Austin, Baltimore and Barcelona and 20 more. Often billed alongside Daniel Weil, Metrika and Paulor. Next up: Metro Dance Club, Alicante on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Rebolledo is a house and techno artist based in Mexico, with 84 gigs on soundche
 
 Daniel Weil, Metrika, Paulor
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rebolledo/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rebolledo/)*

@@ -1,14 +1,13 @@
 # Carousel Bar & Ballroom
 
-Carousel Bar & Ballroom is a music venue in Sydney with 16 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Carousel Sundays" on Sun, 8 Nov 2026.
+Carousel Bar & Ballroom is a music venue in Sydney with 15 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Thomas Schumacher - SYDNEY - CULTO MUSIC & Carousel FRIDAYS" on Fri, 13 Nov 2026.
 
-Carousel Bar & Ballroom is a music venue in Sydney listed on soundcheck. 16 upcoming gigs, with line-ups including Bushbaby, Caike., Cristina Lazic and Ellia Jaya and 2 more. See dates, start times and who's playing. Level 2, 169 Oxford Street, Darlinghurst, NSW, 2000.
+Carousel Bar & Ballroom is a music venue in Sydney listed on soundcheck. 15 upcoming gigs, with line-ups including Bushbaby, Caike., Cristina Lazic and Ellia Jaya and 2 more. See dates, start times and who's playing. Level 2, 169 Oxford Street, Darlinghurst, NSW, 2000.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 8 Nov 2026 | Carousel Sundays |  |
 | Fri, 13 Nov 2026 | Thomas Schumacher - SYDNEY - CULTO MUSIC & Carousel FRIDAYS | Thomas Schumacher |
 | Sat, 14 Nov 2026 | ★ S.A.S.H Sydney ★ X ★ Saturday 14th November ★ |  |
 | Sun, 15 Nov 2026 | Carousel Sundays |  |
@@ -18,9 +17,10 @@ Carousel Bar & Ballroom is a music venue in Sydney listed on soundcheck. 16 upco
 | Fri, 27 Nov 2026 | MINDSET | Caike., LIIA, Nadine B, PAPCO, PRO5PECT |
 | Fri, 27 Nov 2026 | Mindset x Carousel Fridays | LIIA, Nadine B, PAPCO, PRO5PECT |
 | Sat, 28 Nov 2026 | ★ S.A.S.H Sydney ★ Secret Guest ★ Saturday 28th November ★ |  |
+| Sun, 29 Nov 2026 | Carousel Sundays |  |
 
 ## Address
 
 Level 2, 169 Oxford Street, Darlinghurst, NSW, 2000, Sydney
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/carousel-bar-ballroom/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/carousel-bar-ballroom/)*

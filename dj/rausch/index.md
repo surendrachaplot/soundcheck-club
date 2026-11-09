@@ -1,8 +1,8 @@
 # raūsch
 
-raūsch is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at M.N.Roy, Mexico City on Thu, 3 Dec 2026.
+raūsch is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at M.N.Roy, Mexico City on Thu, 3 Dec 2026.
 
-raūsch is an electronica and techno artist, with 3 gigs on soundcheck across Mexico City. Often billed alongside VCIII and Marc DePulse. Next up: M.N.Roy, Mexico City on Thu 3 Dec.
+raūsch is an electronica and techno artist based in Mexico, with 3 gigs on soundcheck across Mexico City. Often billed alongside VCIII and Marc DePulse. Next up: M.N.Roy, Mexico City on Thu 3 Dec.
 
 ## Upcoming shows
 
@@ -19,4 +19,4 @@ raūsch is an electronica and techno artist, with 3 gigs on soundcheck across Me
 
 VCIII, Marc DePulse
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rausch/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rausch/)*

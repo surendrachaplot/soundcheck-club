@@ -1,6 +1,6 @@
 # Joff
 
-Joff is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Lottus, Porto on Sat, 14 Nov 2026.
+Joff is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Lottus, Porto on Sat, 14 Nov 2026.
 
 Joff is a house and tech house artist based in Germany, with 8 gigs on soundcheck across Berlin, Lisbon, Milan and Porto. Often billed alongside 9T2, Rui Alves and 41ISSA. Next up: Lottus, Porto on Sat 14 Nov.
 
@@ -24,4 +24,4 @@ Joff is a house and tech house artist based in Germany, with 8 gigs on soundchec
 
 9T2, Rui Alves, 41ISSA
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joff/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joff/)*

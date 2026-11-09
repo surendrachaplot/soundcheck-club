@@ -1,6 +1,6 @@
-# QNA all night at El Cid
+# QNA ALL NIGHT at El Cid
 
-QNA all night at El Cid on Fri 20 Nov, Los Angeles. 2 artists: Ly Tran and Pauliewog. Club. See the line-up on soundcheck.
+QNA ALL NIGHT at El Cid on Fri 20 Nov, Los Angeles. 2 artists: Ly Tran and Pauliewog. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

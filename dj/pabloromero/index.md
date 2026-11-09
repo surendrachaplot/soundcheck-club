@@ -1,6 +1,6 @@
 # Pablo Romero
 
-Pablo Romero is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Signal, New York City on Thu, 12 Nov 2026.
+Pablo Romero is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Signal, New York City on Thu, 12 Nov 2026.
 
 Pablo Romero is a house and techno artist based in United States of America, with 139 gigs on soundcheck across Amsterdam, Bogotá, Boston and Colombia and 9 more. Often billed alongside Daniel Dutts, Jean-Paul and mink. Next up: Signal, New York City on Thu 12 Nov.
 
@@ -26,4 +26,4 @@ Pablo Romero is a house and techno artist based in United States of America, wit
 
 Daniel Dutts, Jean-Paul, mink
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pabloromero/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pabloromero/)*

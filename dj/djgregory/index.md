@@ -1,6 +1,6 @@
 # DJ Gregory
 
-DJ Gregory is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Colour Factory, London on Fri, 18 Dec 2026.
+DJ Gregory is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Colour Factory, London on Fri, 18 Dec 2026.
 
 DJ Gregory is a house and afro house artist based in France, with 26 gigs on soundcheck across Amsterdam, Basel, Birmingham and Edinburgh and 9 more. Often billed alongside Bob Sinclar, Laurent Garnier and Marina Trench. Next up: Colour Factory, London on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ DJ Gregory is a house and afro house artist based in France, with 26 gigs on sou
 
 Bob Sinclar, Laurent Garnier, Marina Trench
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djgregory/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djgregory/)*

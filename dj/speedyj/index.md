@@ -1,6 +1,6 @@
 # Speedy J
 
-Speedy J is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at De Papierfabriek, Nijmegen on Sat, 28 Nov 2026.
+Speedy J is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at De Papierfabriek, Nijmegen on Sat, 28 Nov 2026.
 
 Speedy J is a techno and house artist based in Netherlands, with 153 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 44 more. Often billed alongside SPEEDY, Chris Liebing and FJAAK. Next up: De Papierfabriek, Nijmegen on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Speedy J is a techno and house artist based in Netherlands, with 153 gigs on sou
 
 SPEEDY, Chris Liebing, FJAAK
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/speedyj/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/speedyj/)*

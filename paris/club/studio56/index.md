@@ -1,6 +1,6 @@
 # Studio56
 
-Studio56 is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Core W/ Timburtek , Lothar , Killoverjoy" on Mon, 9 Nov 2026.
+Studio56 is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Core W/ Timburtek , Lothar , Killoverjoy" on Mon, 9 Nov 2026.
 
 Studio56 is a music venue in Paris listed on soundcheck. 4 upcoming gigs, with line-ups including LILI. See dates, start times and who's playing. 56 rue de la Fontaine au Roi 75011 Paris.
 
@@ -17,4 +17,4 @@ Studio56 is a music venue in Paris listed on soundcheck. 4 upcoming gigs, with l
 
 56 rue de la Fontaine au Roi 75011 Paris, Paris
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/studio56/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/studio56/)*

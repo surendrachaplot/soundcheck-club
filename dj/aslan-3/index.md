@@ -1,6 +1,6 @@
 # Aslan (3)
 
-Aslan (3) is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - SECRET PORTAL WAREHOUSE RAVE, Berlin on Sat, 20 Mar 2027.
+Aslan (3) is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - SECRET PORTAL WAREHOUSE RAVE, Berlin on Sat, 20 Mar 2027.
 
 Aslan is a techno and hardcore artist based in Poland, with 5 gigs on soundcheck across Berlin and Wroclaw. Often billed alongside GNADENLOS, M.F.D.A and BOBAIO. Next up: TBA - SECRET PORTAL WAREHOUSE RAVE, Berlin on Sat 20 Mar.
 
@@ -21,4 +21,4 @@ Aslan is a techno and hardcore artist based in Poland, with 5 gigs on soundcheck
 
 GNADENLOS, M.F.D.A, BOBAIO
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aslan-3/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aslan-3/)*

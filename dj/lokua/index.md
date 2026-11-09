@@ -1,6 +1,6 @@
 # Lokua
 
-Lokua is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Secret Venue, Chicago on Sat, 14 Nov 2026.
+Lokua is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Secret Venue, Chicago on Sat, 14 Nov 2026.
 
 Lokua is a techno and electro artist, with 8 gigs on soundcheck across Chicago. Often billed alongside Jace Inman, Josh Tong and Shanti. Next up: TBA - Secret Venue, Chicago on Sat 14 Nov.
 
@@ -24,4 +24,4 @@ Lokua is a techno and electro artist, with 8 gigs on soundcheck across Chicago. 
 
 Jace Inman, Josh Tong, Shanti
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lokua/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lokua/)*

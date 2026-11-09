@@ -1,6 +1,6 @@
 # Gostoja
 
-Gostoja is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Ložionica, Belgrade on Sat, 21 Nov 2026.
+Gostoja is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Ložionica, Belgrade on Sat, 21 Nov 2026.
 
 Gostoja is a house and techno artist based in Serbia, with 18 gigs on soundcheck across Belgrade, Dresden and Naples. Often billed alongside Dakman, Dakissa and Gard. Next up: Ložionica, Belgrade on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Gostoja is a house and techno artist based in Serbia, with 18 gigs on soundcheck
 
 Dakman, Dakissa, Gard
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gostoja/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gostoja/)*

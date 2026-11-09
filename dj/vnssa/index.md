@@ -1,6 +1,6 @@
 # Vnssa
 
-Vnssa is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA, Los Angeles on Sat, 21 Nov 2026.
+Vnssa is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA, Los Angeles on Sat, 21 Nov 2026.
 
 Vnssa is a house and tech house artist based in United States of America, with 63 gigs on soundcheck across Arkansas, Austin, Calgary and Chicago and 13 more. Often billed alongside Walker & Royce, Nala and Black V Neck. Next up: TBA, Los Angeles on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Vnssa is a house and tech house artist based in United States of America, with 6
 
 Walker & Royce, Nala, Black V Neck
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vnssa/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vnssa/)*

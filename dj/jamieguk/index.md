@@ -1,6 +1,6 @@
 # Jamie G
 
-Jamie G is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Four Quarters, London on Sat, 28 Nov 2026.
+Jamie G is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Four Quarters, London on Sat, 28 Nov 2026.
 
 Jamie G is a drum & bass and jungle artist, with 20 gigs on soundcheck across Barcelona, Lisbon, Liverpool and London. Often billed alongside Funsta, Nicky Blackmarket and The Ragga Twins. Next up: Four Quarters, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Jamie G is a drum & bass and jungle artist, with 20 gigs on soundcheck across Ba
 
 Funsta, Nicky Blackmarket, The Ragga Twins
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamieguk/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamieguk/)*

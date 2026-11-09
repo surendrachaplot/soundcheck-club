@@ -1,6 +1,6 @@
 # CARMICHAEL
 
-CARMICHAEL is a Ambient and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Palac Akropolis, Prague on Sat, 5 Dec 2026.
+CARMICHAEL is a Ambient and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Palac Akropolis, Prague on Sat, 5 Dec 2026.
 
 CARMICHAEL is an ambient and electronica artist, with 3 gigs on soundcheck across Leeds and Prague. Often billed alongside Josef Khan, DJ LUMBRIDGE and Junior Simba. Next up: Palac Akropolis, Prague on Sat 5 Dec.
 
@@ -19,4 +19,4 @@ CARMICHAEL is an ambient and electronica artist, with 3 gigs on soundcheck acros
 
 Josef Khan, DJ LUMBRIDGE, Junior Simba
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carmichael/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carmichael/)*

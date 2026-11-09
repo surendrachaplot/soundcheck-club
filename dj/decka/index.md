@@ -1,6 +1,6 @@
 # Decka
 
-Decka is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Sandinos, Northern-ireland on Sat, 14 Nov 2026.
+Decka is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Sandinos, Northern-ireland on Sat, 14 Nov 2026.
 
 Decka is a techno and electronica artist based in United Kingdom, with 54 gigs on soundcheck across Barcelona, Belgrade, Berlin and Birmingham and 17 more. Often billed alongside Claudio PRC, Roseen and The Lady Machine. Next up: Sandinos, Northern Ireland on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Decka is a techno and electronica artist based in United Kingdom, with 54 gigs o
 
 Claudio PRC, Roseen, The Lady Machine
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/decka/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/decka/)*

@@ -1,6 +1,6 @@
 # MAY/O
 
-MAY/O is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA, Leipzig on Sat, 28 Nov 2026.
+MAY/O is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA, Leipzig on Sat, 28 Nov 2026.
 
 MAY/O is a house and techno artist based in Germany, with 15 gigs on soundcheck across Cologne, Dortmund / Essen and Leipzig. Often billed alongside Traxx Jr, Buteo and Dardara. Next up: TBA, Leipzig on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ MAY/O is a house and techno artist based in Germany, with 15 gigs on soundcheck 
 
 Traxx Jr, Buteo, Dardara
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mayo/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mayo/)*

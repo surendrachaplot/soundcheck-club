@@ -1,14 +1,13 @@
 # McChuills Music Bar
 
-McChuills Music Bar is a music venue in Glasgow with 7 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Let's Go Back's Sunday Soundclash - 3SR" on Sun, 8 Nov 2026.
+McChuills Music Bar is a music venue in Glasgow with 6 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "LET'S GO BACK presents: Suddi Raval (Together 'Hardcore Uproar')" on Sun, 15 Nov 2026.
 
-McChuills Music Bar is a music venue in Glasgow listed on soundcheck. 7 upcoming gigs, with line-ups including Bonzai Bonner, David Vunk, Woody McBride and Gary Beck and 2 more. See dates, start times and who's playing. 80 High St, Glasgow G1 1NL.
+McChuills Music Bar is a music venue in Glasgow listed on soundcheck. 6 upcoming gigs, with line-ups including Bonzai Bonner, David Vunk, Woody McBride and Gary Beck and 2 more. See dates, start times and who's playing. 80 High St, Glasgow G1 1NL.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 8 Nov 2026 | Let's Go Back's Sunday Soundclash - 3SR |  |
 | Sun, 15 Nov 2026 | LET'S GO BACK presents: Suddi Raval (Together 'Hardcore Uproar') | Suddi Raval |
 | Sat, 28 Nov 2026 | Visionaire | Gary Beck, JOC (A Deeper Groove), Steph (A Deeper Groove) |
 | Sat, 5 Dec 2026 | Let's Go Back presents Direct From The USA: Woody McBride | Woody McBride |
@@ -20,4 +19,4 @@ McChuills Music Bar is a music venue in Glasgow listed on soundcheck. 7 upcoming
 
 80 High St, Glasgow G1 1NL, Glasgow
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/mcchuills-music-bar/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/mcchuills-music-bar/)*

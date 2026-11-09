@@ -1,6 +1,6 @@
 # EXIT (2)
 
-EXIT (2) is a Minimal Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at objekt klein a, Dresden on Fri, 13 Nov 2026.
+EXIT (2) is a Minimal Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at objekt klein a, Dresden on Fri, 13 Nov 2026.
 
 EXIT is a minimal techno and deep house artist based in United Kingdom, with 4 gigs on soundcheck across Cologne, Dresden, London and Paris. Often billed alongside Grady Steele, ex.sses and 1985. Next up: objekt klein a, Dresden on Fri 13 Nov.
 
@@ -20,4 +20,4 @@ EXIT is a minimal techno and deep house artist based in United Kingdom, with 4 g
 
 Grady Steele, ex.sses, 1985
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/exit-2/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/exit-2/)*

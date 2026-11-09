@@ -1,6 +1,6 @@
 # OK EG
 
-OK EG is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Djargurd Wurrong Country (Victoria, Australia), Melbourne on Fri, 26 Mar 2027.
+OK EG is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Djargurd Wurrong Country (Victoria, Australia), Melbourne on Fri, 26 Mar 2027.
 
 OK EG is a techno and experimental artist based in Australia, with 62 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bordeaux and 22 more. Often billed alongside Kia (AU), Bambi (FR) and Andy Martin. Next up: TBA - Djargurd Wurrong Country (Victoria, Australia), Melbourne on Fri 26 Mar.
 
@@ -25,4 +25,4 @@ OK EG is a techno and experimental artist based in Australia, with 62 gigs on so
 
 Kia (AU), Bambi (FR), Andy Martin
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/okeg/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/okeg/)*

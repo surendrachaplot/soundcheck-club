@@ -1,6 +1,6 @@
 # Miguel Migs
 
-Miguel Migs is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Jungle Hollywood, Los Angeles on Wed, 25 Nov 2026.
+Miguel Migs is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Jungle Hollywood, Los Angeles on Wed, 25 Nov 2026.
 
 Miguel Migs is a house and deep house artist based in United States of America, with 41 gigs on soundcheck across Chicago, Dallas/Fort Worth, Detroit and Los Angeles and 8 more. Often billed alongside Julius Papp, Franky Boissy and Lisa Shaw. Next up: Jungle Hollywood, Los Angeles on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ Miguel Migs is a house and deep house artist based in United States of America, 
 
 Julius Papp, Franky Boissy, Lisa Shaw
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelmigs/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelmigs/)*

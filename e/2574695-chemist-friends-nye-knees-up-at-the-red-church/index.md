@@ -1,6 +1,6 @@
-# Chemist& Friends: NYE Knees Up at The Red Church
+# Chemist & Friends: NYE Knees Up at The Red Church
 
-Chemist& Friends: NYE Knees Up at The Red Church on Thu 31 Dec, Bristol. 3 artists: Brenen, Tommy Dymock and Touré. Progressive House and House. See the line-up on soundcheck.
+Chemist & Friends: NYE Knees Up at The Red Church on Thu 31 Dec, Bristol. 3 artists: Brenen, Tommy Dymock and Touré. Progressive House and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

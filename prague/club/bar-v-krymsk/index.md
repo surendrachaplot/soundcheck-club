@@ -1,6 +1,6 @@
 # Bar v Krymský
 
-Bar v Krymský is a music venue in Prague with 7 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "BE GOOD with Aiffel, johan, Mido" on Fri, 13 Nov 2026.
+Bar v Krymský is a music venue in Prague with 7 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "BE GOOD with Aiffel, johan, Mido" on Fri, 13 Nov 2026.
 
 Bar v Krymský is a music venue in Prague listed on soundcheck. 7 upcoming gigs, with line-ups including Brady and Lillou. See dates, start times and who's playing. Krymská 21, Praha.
 
@@ -20,4 +20,4 @@ Bar v Krymský is a music venue in Prague listed on soundcheck. 7 upcoming gigs,
 
 Krymská 21, Praha, Prague
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bar-v-krymsk/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bar-v-krymsk/)*

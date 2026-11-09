@@ -1,6 +1,6 @@
 # Knocktopuss
 
-Knocktopuss is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at The Jackhammer Chicago, Chicago on Mon, 7 Jun 2027.
+Knocktopuss is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Jackhammer Chicago, Chicago on Mon, 7 Jun 2027.
 
 Knocktopuss is a house and electro artist based in United States of America, with 3 gigs on soundcheck across Chicago. Often billed alongside DJ heroic.vers, Floor Supervisor and tigermilk. Next up: The Jackhammer Chicago, Chicago on Mon 7 Jun.
 
@@ -19,4 +19,4 @@ Knocktopuss is a house and electro artist based in United States of America, wit
 
 DJ heroic.vers, Floor Supervisor, tigermilk
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/knocktopuss/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/knocktopuss/)*

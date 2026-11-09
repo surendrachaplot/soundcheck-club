@@ -1,6 +1,6 @@
 # Ninety One
 
-Ninety One is a music venue in London with 5 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Sounds Like London: Jazz Grime w/ NikNak" on Sat, 14 Nov 2026.
+Ninety One is a music venue in London with 5 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Sounds Like London: Jazz Grime w/ NikNak" on Sat, 14 Nov 2026.
 
 Ninety One is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including BIG DRECO, Calm Stiege, candice a.m and Joe Milli and 2 more. See dates, start times and who's playing. 91 Brick Ln, London E1 6QL, UK.
 
@@ -18,4 +18,4 @@ Ninety One is a music venue in London listed on soundcheck. 5 upcoming gigs, wit
 
 91 Brick Ln, London E1 6QL, UK, London
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/ninety-one/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/ninety-one/)*

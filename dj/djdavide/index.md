@@ -1,6 +1,6 @@
 # DJ Davidé
 
-DJ Davidé is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Skylight Warehouse, Vancouver on Sat, 14 Nov 2026.
+DJ Davidé is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Skylight Warehouse, Vancouver on Sat, 14 Nov 2026.
 
 DJ Davidé is a techno and tech house artist based in Canada, with 36 gigs on soundcheck across Montreal, Tokyo and Vancouver. Often billed alongside DJ Mushin, Mushin and Omni. Next up: Skylight Warehouse, Vancouver on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ DJ Davidé is a techno and tech house artist based in Canada, with 36 gigs on so
 
 DJ Mushin, Mushin, Omni
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdavide/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdavide/)*

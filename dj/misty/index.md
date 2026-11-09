@@ -1,6 +1,6 @@
 # Misty
 
-Misty is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Matakanarama Festival Site, Auckland on Tue, 29 Dec 2026.
+Misty is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Matakanarama Festival Site, Auckland on Tue, 29 Dec 2026.
 
 Misty is a techno and house artist based in Egypt, with 21 gigs on soundcheck across Amsterdam, Auckland, Dubai and Egypt and 7 more. Often billed alongside Cine, Jade and MINERVA. Next up: Matakanarama Festival Site, Auckland on Tue 29 Dec.
 
@@ -25,4 +25,4 @@ Misty is a techno and house artist based in Egypt, with 21 gigs on soundcheck ac
 
 Cine, Jade, MINERVA
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/misty/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/misty/)*

@@ -1,6 +1,6 @@
 # Abajour
 
-Abajour is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 28 Nov 2026.
+Abajour is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 28 Nov 2026.
 
 Abajour is an electronic artist based in France, with 16 gigs on soundcheck across Berlin, Brussels, New York City and Paris. Often billed alongside Kwartz, Ben Klock and Budino. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Abajour is an electronic artist based in France, with 16 gigs on soundcheck acro
 
 Kwartz, Ben Klock, Budino
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/abajour/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/abajour/)*

@@ -1,6 +1,6 @@
 # DJ Mochi
 
-DJ Mochi is a Amapiano and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Podlasie Club, Chicago on Thu, 12 Nov 2026.
+DJ Mochi is a Amapiano and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Podlasie Club, Chicago on Thu, 12 Nov 2026.
 
 DJ Mochi is an amapiano and club artist based in United States of America, with 44 gigs on soundcheck across Chicago, Detroit, Mexico City and Montreal and 2 more. Often billed alongside DJ IGGY, DJ Moma and SAMIA. Next up: Podlasie Club, Chicago on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ DJ Mochi is an amapiano and club artist based in United States of America, with 
 
 DJ IGGY, DJ Moma, SAMIA
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmochi/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmochi/)*

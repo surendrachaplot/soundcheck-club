@@ -1,6 +1,6 @@
 # Massive
 
-Massive is a music venue in Seattle with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Thee Baile" on Fri, 13 Nov 2026.
+Massive is a music venue in Seattle with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Thee Baile" on Fri, 13 Nov 2026.
 
 Massive is a music venue in Seattle listed on soundcheck. 4 upcoming gigs, with line-ups including Bimbo Hypnosis, Griffin Maxwell Brooks, Korra the Kid and Mirin Doja and 1 more. See dates, start times and who's playing. 619 E Pine Street, Seattle, WA 98122.
 
@@ -17,4 +17,4 @@ Massive is a music venue in Seattle listed on soundcheck. 4 upcoming gigs, with 
 
 619 E Pine Street, Seattle, WA 98122, Seattle
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/massive/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/massive/)*

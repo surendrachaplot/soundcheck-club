@@ -1,6 +1,6 @@
 # Borja S
 
-Borja S is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Dabadaba, North on Fri, 27 Nov 2026.
+Borja S is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Dabadaba, North on Fri, 27 Nov 2026.
 
 Borja S is a techno and electronica artist based in Spain, with 21 gigs on soundcheck across Barcelona, Berlin, Ibiza and Lisbon and 6 more. Often billed alongside Avo (ES), Cesc (ES) and Nurias. Next up: Dabadaba, North on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Borja S is a techno and electronica artist based in Spain, with 21 gigs on sound
 
 Avo (ES), Cesc (ES), Nurias
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/borjas/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/borjas/)*

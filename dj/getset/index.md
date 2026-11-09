@@ -1,6 +1,6 @@
 # GETSET
 
-GETSET is a Techno and Garage artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Music Club Pulse 22, Prague on Fri, 13 Nov 2026.
+GETSET is a Techno and Garage artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Music Club Pulse 22, Prague on Fri, 13 Nov 2026.
 
 GETSET is a techno and garage artist based in Czech Republic, with 4 gigs on soundcheck across Czech Republic and Prague. Often billed alongside Nøteleks, 2NDRA and NEUWERTH. Next up: Music Club Pulse 22, Prague on Fri 13 Nov.
 
@@ -20,4 +20,4 @@ GETSET is a techno and garage artist based in Czech Republic, with 4 gigs on sou
 
 Nøteleks, 2NDRA, NEUWERTH
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/getset/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/getset/)*

@@ -1,6 +1,6 @@
 # ORACLE666
 
-ORACLE666 is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - 1108 Cypress Ave (CIA Gallery), New York City on Sat, 14 Nov 2026.
+ORACLE666 is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - 1108 Cypress Ave (CIA Gallery), New York City on Sat, 14 Nov 2026.
 
 ORACLE666 is a techno and drum & bass artist, with 4 gigs on soundcheck across New York City. Often billed alongside Angel Money, DJ Sour and James Demon. Next up: TBA - 1108 Cypress Ave (CIA Gallery), New York City on Sat 14 Nov.
 
@@ -20,4 +20,4 @@ ORACLE666 is a techno and drum & bass artist, with 4 gigs on soundcheck across N
 
 Angel Money, DJ Sour, James Demon
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oracle666/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oracle666/)*

@@ -1,6 +1,6 @@
 # LEON SCHANZENBACH
 
-LEON SCHANZENBACH is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Kassablanca, Jena on Fri, 4 Dec 2026.
+LEON SCHANZENBACH is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Kassablanca, Jena on Fri, 4 Dec 2026.
 
 LEON SCHANZENBACH is a techno and house artist based in Germany, with 24 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Düsseldorf and 5 more. Often billed alongside Bailey Ibbs, Carmen Electro and DJ Saunameister. Next up: Kassablanca, Jena on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ LEON SCHANZENBACH is a techno and house artist based in Germany, with 24 gigs on
 
 Bailey Ibbs, Carmen Electro, DJ Saunameister
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leonschanzenbach/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leonschanzenbach/)*

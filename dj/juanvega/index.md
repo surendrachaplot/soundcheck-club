@@ -1,6 +1,6 @@
 # JUAN VEGA
 
-JUAN VEGA is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at EL SÓTANO, Madrid on Sun, 15 Nov 2026.
+JUAN VEGA is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at EL SÓTANO, Madrid on Sun, 15 Nov 2026.
 
 JUAN VEGA is a tech house and house artist based in Spain, with 4 gigs on soundcheck across London and Madrid. Often billed alongside Almuedo, CAMZ and Cristian Ebasta. Next up: EL SÓTANO, Madrid on Sun 15 Nov.
 
@@ -20,4 +20,4 @@ JUAN VEGA is a tech house and house artist based in Spain, with 4 gigs on soundc
 
 Almuedo, CAMZ, Cristian Ebasta
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juanvega/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juanvega/)*

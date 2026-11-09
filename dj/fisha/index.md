@@ -1,6 +1,6 @@
 # Fisha
 
-Fisha is a Club and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Hidden, Manchester on Sat, 28 Nov 2026.
+Fisha is a Club and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Hidden, Manchester on Sat, 28 Nov 2026.
 
 Fisha is a club and trance artist based in United Kingdom, with 8 gigs on soundcheck across Birmingham, Brighton, Bristol and Ibiza and 3 more. Often billed alongside Chris Bayne, Edele Andaya and Agnelli & Nelson. Next up: Hidden, Manchester on Sat 28 Nov.
 
@@ -24,4 +24,4 @@ Fisha is a club and trance artist based in United Kingdom, with 8 gigs on soundc
 
 Chris Bayne, Edele Andaya, Agnelli & Nelson
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fisha/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fisha/)*

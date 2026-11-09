@@ -1,6 +1,6 @@
 # Futa
 
-Futa is a Ambient artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at ZUBAR, Tokyo on Sun, 15 Nov 2026.
+Futa is a Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at ZUBAR, Tokyo on Sun, 15 Nov 2026.
 
 Futa is an ambient artist based in United Kingdom, with 5 gigs on soundcheck across London and Tokyo. Often billed alongside Ozwick, TOSHIHISA HIRANO and Anchorsong. Next up: ZUBAR, Tokyo on Sun 15 Nov.
 
@@ -21,4 +21,4 @@ Futa is an ambient artist based in United Kingdom, with 5 gigs on soundcheck acr
 
 Ozwick, TOSHIHISA HIRANO, Anchorsong
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/futa/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/futa/)*

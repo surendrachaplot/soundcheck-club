@@ -1,6 +1,6 @@
 # Psyberix
 
-Psyberix is a Hardcore and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA, Ontario on Sun, 5 Sept 2027.
+Psyberix is a Hardcore and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA, Ontario on Sun, 5 Sept 2027.
 
 Psyberix is a hardcore and electronica artist based in Canada, with 5 gigs on soundcheck across Ontario and Toronto. Often billed alongside 'PAVV', Azalea the Witch and 666.pastel. Next up: TBA, Ontario on Sun 5 Sept.
 
@@ -21,4 +21,4 @@ Psyberix is a hardcore and electronica artist based in Canada, with 5 gigs on so
 
 'PAVV', Azalea the Witch, 666.pastel
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/psyberix/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/psyberix/)*

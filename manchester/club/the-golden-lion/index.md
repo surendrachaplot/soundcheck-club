@@ -1,8 +1,8 @@
 # The Golden Lion
 
-The Golden Lion is a music venue in Manchester with 8 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Zukunft X Optimo at Golden Lion Todmorden" on Fri, 13 Nov 2026.
+The Golden Lion is a music venue in Manchester with 10 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Zukunft X Optimo at Golden Lion Todmorden" on Fri, 13 Nov 2026.
 
-The Golden Lion is a music venue in Manchester listed on soundcheck. 8 upcoming gigs, with line-ups including Alex Dallas, Balrog, Cio (Spezialmaterial) and Danny Howells and 2 more. See dates, start times and who's playing. Fielden Square, Todmorden, OL14 6LZ, United Kingdom.
+The Golden Lion is a music venue in Manchester listed on soundcheck. 10 upcoming gigs, with line-ups including Alex Dallas, Balrog, Cio (Spezialmaterial) and Daniele Baldelli and 2 more. See dates, start times and who's playing. Fielden Square, Todmorden, OL14 6LZ, United Kingdom.
 
 ## What's on
 
@@ -15,10 +15,12 @@ The Golden Lion is a music venue in Manchester listed on soundcheck. 8 upcoming 
 | Sun, 13 Dec 2026 | Gary Beck / Rhod Parry Hospitality party | Gary Beck, Rhod Parry |
 | Thu, 31 Dec 2026 | GL NYE 2026: Luke Una / Justin Robertson / Matthew Hum / Nessa Johnston | Justin Robertson, Luke Una, Matt Hum, Nessa Johnston |
 | Fri, 1 Jan 2027 | Ducks in Harmony | Balrog |
+| Sat, 9 Jan 2027 | Metal headz Blue note present Grooverider/DJLee/Diverge | DJ Lee, Diverge, Grooverider |
 | Fri, 22 Jan 2027 | 22 January 2027 | James Holroyd, Jane Fitz, Sean Johnston, Vladimir Ivkovic |
+| Sat, 6 Feb 2027 | Naturalis preview Todmorden 2027 | Daniele Baldelli, Deep Futuristic, Nunzio Borino |
 
 ## Address
 
 Fielden Square, Todmorden, OL14 6LZ, United Kingdom, Manchester
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-golden-lion/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-golden-lion/)*

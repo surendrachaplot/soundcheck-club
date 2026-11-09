@@ -1,6 +1,6 @@
 # Super5
 
-Super5 is a music venue in Lyon with 13 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "CLUB SILK" on Tue, 10 Nov 2026.
+Super5 is a music venue in Lyon with 13 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "CLUB SILK" on Tue, 10 Nov 2026.
 
 Super5 is a music venue in Lyon listed on soundcheck. 13 upcoming gigs, with line-ups including Blackhouse, Enshade, Jo Kovaa and Margo (GER) and 2 more. See dates, start times and who's playing. 2 Rue de Savy - Lyon.
 
@@ -23,4 +23,4 @@ Super5 is a music venue in Lyon listed on soundcheck. 13 upcoming gigs, with lin
 
 2 Rue de Savy - Lyon, Lyon
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/super5/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/super5/)*

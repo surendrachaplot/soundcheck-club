@@ -1,6 +1,6 @@
 # Ralone
 
-Ralone is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at The Host, Thessaloniki on Fri, 13 Nov 2026.
+Ralone is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Host, Thessaloniki on Fri, 13 Nov 2026.
 
 Ralone is a techno and industrial artist based in Greece, with 17 gigs on soundcheck across Athens and Thessaloniki. Often billed alongside Oppose, Delmon and Indelekt. Next up: The Host, Thessaloniki on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Ralone is a techno and industrial artist based in Greece, with 17 gigs on soundc
 
 Oppose, Delmon, Indelekt
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ralone/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ralone/)*

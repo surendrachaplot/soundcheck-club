@@ -1,6 +1,6 @@
 # Karmakoma
 
-Karmakoma is a music venue in Belgrade with 10 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Apgrade with Cormac" on Fri, 13 Nov 2026.
+Karmakoma is a music venue in Belgrade with 10 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Apgrade with Cormac" on Fri, 13 Nov 2026.
 
 Karmakoma is a music venue in Belgrade listed on soundcheck. 10 upcoming gigs, with line-ups including Aneri, Cormac, Dazion and Felver and 2 more. See dates, start times and who's playing. Poenkareova 32, 11000 Belgrade.
 
@@ -23,4 +23,4 @@ Karmakoma is a music venue in Belgrade listed on soundcheck. 10 upcoming gigs, w
 
 Poenkareova 32, 11000 Belgrade, Belgrade
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/karmakoma/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/karmakoma/)*

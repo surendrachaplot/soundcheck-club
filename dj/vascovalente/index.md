@@ -1,6 +1,6 @@
 # Vasco Valente
 
-Vasco Valente is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Lottus, Porto on Sat, 21 Nov 2026.
+Vasco Valente is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Lottus, Porto on Sat, 21 Nov 2026.
 
 Vasco Valente is a techno and house artist based in Portugal, with 26 gigs on soundcheck across Lisbon and Porto. Often billed alongside Pedro Tabuada, Carlos Regadas and Alfonsvs. Next up: Lottus, Porto on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Vasco Valente is a techno and house artist based in Portugal, with 26 gigs on so
 
 Pedro Tabuada, Carlos Regadas, Alfonsvs
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vascovalente/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vascovalente/)*

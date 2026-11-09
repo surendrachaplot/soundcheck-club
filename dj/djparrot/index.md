@@ -1,6 +1,6 @@
 # DJ Parrot
 
-DJ Parrot is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Wed, 11 Nov 2026.
+DJ Parrot is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Wed, 11 Nov 2026.
 
 DJ Parrot is a house and tech house artist based in United States of America, with 40 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Velvet Pistol, vRok and Black Panda. Next up: F8 1192 Folsom, San Francisco/Oakland on Wed 11 Nov.
 
@@ -25,4 +25,4 @@ DJ Parrot is a house and tech house artist based in United States of America, wi
 
 Velvet Pistol, vRok, Black Panda
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djparrot/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djparrot/)*

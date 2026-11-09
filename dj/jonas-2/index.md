@@ -1,6 +1,6 @@
 # Jonas (2)
 
-Jonas (2) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at All My Friends, London on Sat, 21 Nov 2026.
+Jonas (2) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at All My Friends, London on Sat, 21 Nov 2026.
 
 Jonas is a house and tech house artist based in Belgium, with 5 gigs on soundcheck across Amsterdam, Antwerp, London and Prague. Often billed alongside BUD, Lyde and A For Alpha. Next up: All My Friends, London on Sat 21 Nov.
 
@@ -21,4 +21,4 @@ Jonas is a house and tech house artist based in Belgium, with 5 gigs on soundche
 
 BUD (1), Lyde, A For Alpha
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jonas-2/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jonas-2/)*

@@ -1,6 +1,6 @@
 # FCUKERS
 
-FCUKERS is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Meredith Supernatural Ampitheatre, Melbourne on Fri, 11 Dec 2026.
+FCUKERS is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Meredith Supernatural Ampitheatre, Melbourne on Fri, 11 Dec 2026.
 
 FCUKERS is a house and techno artist based in United States of America, with 79 gigs on soundcheck across Amsterdam, Auckland, Austin and Barcelona and 30 more. Often billed alongside DJ Gigola, Dom Dolla and KETTAMA. Next up: Meredith Supernatural Ampitheatre, Melbourne on Fri 11 Dec.
 
@@ -27,4 +27,4 @@ FCUKERS is a house and techno artist based in United States of America, with 79 
 
 DJ Gigola, Dom Dolla, KETTAMA
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fcukers/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fcukers/)*

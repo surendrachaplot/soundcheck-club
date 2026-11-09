@@ -1,6 +1,6 @@
 # Makar
 
-Makar is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Karmen Camina, Strasbourg on Thu, 26 Nov 2026.
+Makar is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Karmen Camina, Strasbourg on Thu, 26 Nov 2026.
 
 Makar is a house and techno artist based in France, with 33 gigs on soundcheck across Glasgow and Strasbourg. Often billed alongside 1client, Tal Stef and Zhar. Next up: Karmen Camina, Strasbourg on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Makar is a house and techno artist based in France, with 33 gigs on soundcheck a
 
 1client, Tal Stef, Zhar
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/makar/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/makar/)*

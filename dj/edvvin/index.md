@@ -1,6 +1,6 @@
 # Edvvin
 
-Edvvin is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at underiolo, Warsaw on Tue, 10 Nov 2026.
+Edvvin is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at underiolo, Warsaw on Tue, 10 Nov 2026.
 
 Edvvin is a techno and breakbeat artist based in Poland, with 84 gigs on soundcheck across Bergen, Berlin, Budapest and Krakow and 3 more. Often billed alongside Buchan, MATRIX3K and DJNIEMUSIAŁ. Next up: underiolo, Warsaw on Tue 10 Nov.
 
@@ -25,4 +25,4 @@ Edvvin is a techno and breakbeat artist based in Poland, with 84 gigs on soundch
 
 Buchan, MATRIX3K, DJNIEMUSIAŁ
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edvvin/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edvvin/)*

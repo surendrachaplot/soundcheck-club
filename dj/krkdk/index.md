@@ -1,6 +1,6 @@
 # KR:KD K
 
-KR:KD K is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Factory - Your Favourit Secret Rave, Bulgaria on Sat, 14 Nov 2026.
+KR:KD K is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Factory - Your Favourit Secret Rave, Bulgaria on Sat, 14 Nov 2026.
 
 KR:KD K is a techno and hardcore artist based in Bulgaria, with 37 gigs on soundcheck across Amsterdam, Bulgaria, London and Sofia. Often billed alongside Polith, Royal Flush and KASSIS. Next up: Factory - Your Favourit Secret Rave, Bulgaria on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ KR:KD K is a techno and hardcore artist based in Bulgaria, with 37 gigs on sound
 
 Polith, Royal Flush, KASSIS
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krkdk/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krkdk/)*

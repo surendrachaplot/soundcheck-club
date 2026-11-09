@@ -1,6 +1,6 @@
 # Labåzuy
 
-Labåzuy is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Low Profile Studios, London on Fri, 13 Nov 2026.
+Labåzuy is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Low Profile Studios, London on Fri, 13 Nov 2026.
 
 Labåzuy is a techno and industrial artist based in United Kingdom, with 80 gigs on soundcheck across Brighton, Budapest, Cyprus and London and 6 more. Often billed alongside Lau.tastic, Diana Bravo and Lezcano. Next up: Low Profile Studios, London on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Labåzuy is a techno and industrial artist based in United Kingdom, with 80 gigs
 
 Lau.tastic, Diana Bravo, Lezcano
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/labazuy-3/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/labazuy-3/)*

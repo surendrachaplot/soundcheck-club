@@ -1,6 +1,6 @@
 # Raphaelito
 
-Raphaelito is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Madam, Amsterdam on Fri, 11 Dec 2026.
+Raphaelito is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Madam, Amsterdam on Fri, 11 Dec 2026.
 
 Raphaelito is a tech house and house artist based in Netherlands, with 24 gigs on soundcheck across Amsterdam and Rotterdam. Often billed alongside HIGHTS, Nour (NL) and Anderdox. Next up: Madam, Amsterdam on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Raphaelito is a tech house and house artist based in Netherlands, with 24 gigs o
 
 HIGHTS, Nour (NL), Anderdox
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raphaelito/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raphaelito/)*

@@ -1,6 +1,6 @@
 # The O
 
-The O is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA, Paris on Fri, 20 Nov 2026.
+The O is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA, Paris on Fri, 20 Nov 2026.
 
 The O is a techno and house artist, with 8 gigs on soundcheck across Barcelona, London, Medellin and Paris and 2 more. Often billed alongside Ale Hope, Angelo Cortines and Cyrus. Next up: TBA, Paris on Fri 20 Nov.
 
@@ -24,4 +24,4 @@ The O is a techno and house artist, with 8 gigs on soundcheck across Barcelona, 
 
 Ale Hope, Angelo Cortines, Cyrus
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theo/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theo/)*

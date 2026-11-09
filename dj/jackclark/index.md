@@ -1,6 +1,6 @@
 # Jack Clark
 
-Jack Clark is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Zur Klappe, Berlin on Fri, 20 Nov 2026.
+Jack Clark is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Zur Klappe, Berlin on Fri, 20 Nov 2026.
 
 Jack Clark is a house and minimal artist based in Australia, with 26 gigs on soundcheck across Berlin and Milan. Often billed alongside Scoopsi, Annina and Papa K. Next up: Zur Klappe, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Jack Clark is a house and minimal artist based in Australia, with 26 gigs on sou
 
 Scoopsi, Annina, Papa K
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jackclark/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jackclark/)*

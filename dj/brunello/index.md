@@ -1,6 +1,6 @@
 # Brunello
 
-Brunello is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
+Brunello is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
 
 Brunello is a house and tech house artist based in United States of America, with 18 gigs on soundcheck across Amsterdam, Austin, Chicago and Guadalajara and 8 more. Often billed alongside VTSS, Brutalismus 3000 and Dennis Cruz. Next up: The Concourse Project, Austin on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Brunello is a house and tech house artist based in United States of America, wit
 
 VTSS, Brutalismus 3000, Dennis Cruz
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brunello/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brunello/)*

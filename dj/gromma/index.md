@@ -1,6 +1,6 @@
 # Gromma
 
-Gromma is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Hub Criativo Beato, Lisbon on Sat, 14 Nov 2026.
+Gromma is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Hub Criativo Beato, Lisbon on Sat, 14 Nov 2026.
 
 Gromma is a house and techno artist based in Brazil, with 32 gigs on soundcheck across Berlin, Brazil, Buenos Aires and Dublin and 8 more. Often billed alongside Cruz (PT), Royce Larøca and Adnan Sharif. Next up: Hub Criativo Beato, Lisbon on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Gromma is a house and techno artist based in Brazil, with 32 gigs on soundcheck 
 
 Cruz (PT), Royce Larøca, Adnan Sharif
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gromma/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gromma/)*

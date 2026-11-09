@@ -1,6 +1,6 @@
 # TAISHI IWAMI
 
-TAISHI IWAMI is a Pop and Post-Punk artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Suns Shimokitazawa, Tokyo on Fri, 13 Nov 2026.
+TAISHI IWAMI is a Pop and Post-Punk artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Suns Shimokitazawa, Tokyo on Fri, 13 Nov 2026.
 
 TAISHI IWAMI is a pop and post-punk artist based in Japan, with 58 gigs on soundcheck across Seoul and Tokyo. Often billed alongside Keigo, HALU(Tribal Connection) and AYANA KOSHIBA. Next up: Suns Shimokitazawa, Tokyo on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ TAISHI IWAMI is a pop and post-punk artist based in Japan, with 58 gigs on sound
 
 Keigo, HALU(Tribal Connection), AYANA KOSHIBA
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taishiiwami/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taishiiwami/)*

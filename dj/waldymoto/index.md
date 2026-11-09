@@ -1,6 +1,6 @@
 # Waldymoto
 
-Waldymoto is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Location in Telegram, Berlin on Sat, 21 Nov 2026.
+Waldymoto is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Location in Telegram, Berlin on Sat, 21 Nov 2026.
 
 Waldymoto is a techno and house artist based in Germany, with 38 gigs on soundcheck across Antwerp, Berlin, Cologne and Dortmund / Essen and 4 more. Often billed alongside mojo, Ariel (DE) and Anna Konda. Next up: TBA - Location in Telegram, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Waldymoto is a techno and house artist based in Germany, with 38 gigs on soundch
 
 mojo, Ariel (DE), Anna Konda
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/waldymoto/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/waldymoto/)*

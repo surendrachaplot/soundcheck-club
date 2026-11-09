@@ -1,6 +1,6 @@
 # Bluey
 
-Bluey is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Four Quarters, London on Sat, 28 Nov 2026.
+Bluey is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Four Quarters, London on Sat, 28 Nov 2026.
 
 Bluey is a tech house and house artist, with 12 gigs on soundcheck across London. Often billed alongside Darrell Privett, Jenny C and Amine Edge & DANCE. Next up: Four Quarters, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Bluey is a tech house and house artist, with 12 gigs on soundcheck across London
 
 Darrell Privett, Jenny C (1), Amine Edge & DANCE
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bluey/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bluey/)*

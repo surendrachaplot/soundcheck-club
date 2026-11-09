@@ -1,6 +1,6 @@
 # Kink Bar & Restaurant
 
-Kink Bar & Restaurant is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. The next is "ORIOL // plays Afro-Latin, Disco, Boogie, Balearic at KINK" on Thu, 26 Nov 2026.
+Kink Bar & Restaurant is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. The next is "ORIOL // plays Afro-Latin, Disco, Boogie, Balearic at KINK" on Thu, 26 Nov 2026.
 
 Kink Bar & Restaurant is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including ORIOL //. See dates, start times and who's playing. Schönhauser Allee 176,10119 Berlin.
 
@@ -14,4 +14,4 @@ Kink Bar & Restaurant is a music venue in Berlin listed on soundcheck. 1 upcomin
 
 Schönhauser Allee 176,10119 Berlin, Berlin
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kink-bar-restaurant/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kink-bar-restaurant/)*

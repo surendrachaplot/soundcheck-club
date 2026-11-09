@@ -1,14 +1,13 @@
 # Eli Escobar
 
-Eli Escobar is a House and Electro artist with 13 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Bossa Nova Civic Club, New York City on Sun, 8 Nov 2026.
+Eli Escobar is a House and Electro artist with 12 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Gabriela, New York City on Thu, 12 Nov 2026.
 
-Eli Escobar is a house and electro artist based in United States of America, with 583 gigs on soundcheck across Atlanta, Barcelona, Berlin and Bogotá and 28 more. Often billed alongside DJ Moma, Andi and The Carry Nation. Next up: Bossa Nova Civic Club, New York City on Sun 8 Nov.
+Eli Escobar is a house and electro artist based in United States of America, with 583 gigs on soundcheck across Atlanta, Barcelona, Berlin and Bogotá and 28 more. Often billed alongside DJ Moma, Andi and The Carry Nation. Next up: Gabriela, New York City on Thu 12 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 8 Nov 2026 | Bossa Nova Civic Club | New York City |
 | Thu, 12 Nov 2026 | Gabriela | New York City |
 | Fri, 13 Nov 2026 | TBA | Denver |
 | Sat, 14 Nov 2026 | SILO | New York City |
@@ -20,9 +19,11 @@ Eli Escobar is a house and electro artist based in United States of America, wit
 | Fri, 4 Dec 2026 | House of Yes | New York City |
 | Sun, 27 Dec 2026 | public records | New York City |
 | Thu, 31 Dec 2026 | Good Room | New York City |
+| Sat, 23 Jan 2027 | Elsewhere | New York City |
 
 ## Recently played
 
+- Bossa Nova Civic Club, New York City · Sun, 8 Nov 2026
 - House of Yes, New York City · Fri, 6 Nov 2026
 - Gabriela, New York City · Thu, 5 Nov 2026
 - Good Room, New York City · Sat, 31 Oct 2026
@@ -30,10 +31,9 @@ Eli Escobar is a house and electro artist based in United States of America, wit
 - Industry City, New York City · Fri, 30 Oct 2026
 - Gabriela, New York City · Thu, 29 Oct 2026
 - BASEMENT, New York City · Sat, 24 Oct 2026
-- Tigres de la Noche, Washington DC · Fri, 23 Oct 2026
 
 ## Shares bills with
 
 DJ Moma, Andi, The Carry Nation
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eliescobar/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eliescobar/)*

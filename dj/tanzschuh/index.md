@@ -1,6 +1,6 @@
 # tanzschuh
 
-tanzschuh is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Secret Location, Berlin on Sun, 29 Nov 2026.
+tanzschuh is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Secret Location, Berlin on Sun, 29 Nov 2026.
 
 tanzschuh is a techno and minimal artist based in Germany, with 4 gigs on soundcheck across Berlin. Often billed alongside 0dysseus, Alex Jenkin and Anselmus. Next up: TBA - Secret Location, Berlin on Sun 29 Nov.
 
@@ -20,4 +20,4 @@ tanzschuh is a techno and minimal artist based in Germany, with 4 gigs on soundc
 
 0dysseus, Alex Jenkin, Anselmus
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tanzschuh/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tanzschuh/)*

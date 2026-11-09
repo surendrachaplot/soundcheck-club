@@ -1,6 +1,6 @@
 # SONYDIAM
 
-SONYDIAM is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Culture Box, Copenhagen on Sat, 5 Dec 2026.
+SONYDIAM is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Culture Box, Copenhagen on Sat, 5 Dec 2026.
 
 SONYDIAM is a techno and trance artist based in Ukraine, with 7 gigs on soundcheck across Copenhagen and Odense. Often billed alongside CF682, ASTA MARI and Adam Eisert. Next up: Culture Box, Copenhagen on Sat 5 Dec.
 
@@ -23,4 +23,4 @@ SONYDIAM is a techno and trance artist based in Ukraine, with 7 gigs on soundche
 
 CF682, ASTA MARI, Adam Eisert
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sonydiam/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sonydiam/)*

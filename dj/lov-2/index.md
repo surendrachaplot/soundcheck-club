@@ -1,6 +1,6 @@
 # LOV (2)
 
-LOV (2) is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at C12, Brussels on Fri, 1 Jan 2027.
+LOV (2) is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at C12, Brussels on Fri, 1 Jan 2027.
 
 LOV is a techno and acid artist based in Belgium, with 6 gigs on soundcheck across Antwerp, Brussels, New York City and Paris. Often billed alongside Azo, Disjoli and KŌMA. Next up: C12, Brussels on Fri 1 Jan.
 
@@ -22,4 +22,4 @@ LOV is a techno and acid artist based in Belgium, with 6 gigs on soundcheck acro
 
 Azo, Disjoli, KŌMA (3)
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lov-2/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lov-2/)*

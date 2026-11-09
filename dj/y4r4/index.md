@@ -1,6 +1,6 @@
 # Y4R4
 
-Y4R4 is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Borisov Amsterdam, Amsterdam on Fri, 20 Nov 2026.
+Y4R4 is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Borisov Amsterdam, Amsterdam on Fri, 20 Nov 2026.
 
 Y4R4 is a techno and club artist based in Netherlands, with 10 gigs on soundcheck across Amsterdam. Often billed alongside inKKiss, Lasse and TRANZ. Next up: Borisov Amsterdam, Amsterdam on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Y4R4 is a techno and club artist based in Netherlands, with 10 gigs on soundchec
 
 inKKiss, Lasse, TRANZ
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/y4r4/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/y4r4/)*

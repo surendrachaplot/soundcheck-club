@@ -1,6 +1,6 @@
 # SLVR
 
-SLVR is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Parque Ciudad Empresarial, Santiago on Sat, 21 Nov 2026.
+SLVR is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Parque Ciudad Empresarial, Santiago on Sat, 21 Nov 2026.
 
 SLVR is a house and deep house artist based in Italy, with 3 gigs on soundcheck across London, Madrid and Santiago. Often billed alongside Mathame, 19:26 and JĀST. Next up: Parque Ciudad Empresarial, Santiago on Sat 21 Nov.
 
@@ -19,4 +19,4 @@ SLVR is a house and deep house artist based in Italy, with 3 gigs on soundcheck 
 
 Mathame, 19:26, JĀST
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slvr/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slvr/)*

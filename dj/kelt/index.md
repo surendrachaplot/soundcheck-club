@@ -1,6 +1,6 @@
 # KELT
 
-KELT is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at 360 Istanbul, Istanbul on Fri, 13 Nov 2026.
+KELT is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at 360 Istanbul, Istanbul on Fri, 13 Nov 2026.
 
 KELT is a house and tech house artist based in Turkey, with 4 gigs on soundcheck across Istanbul. Often billed alongside Boxer, Evren Ulusoy and Just Lauren. Next up: 360 Istanbul, Istanbul on Fri 13 Nov.
 
@@ -20,4 +20,4 @@ KELT is a house and tech house artist based in Turkey, with 4 gigs on soundcheck
 
 Boxer, Evren Ulusoy, Just Lauren
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kelt/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kelt/)*

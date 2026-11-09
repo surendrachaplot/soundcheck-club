@@ -1,6 +1,6 @@
 # Justy
 
-Justy is a Hip-Hop and R&B artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at gallery 1986, Vilnius on Fri, 25 Dec 2026.
+Justy is a Hip-Hop and R&B artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at gallery 1986, Vilnius on Fri, 25 Dec 2026.
 
 Justy is a hip-hop and r&b artist, with 5 gigs on soundcheck across Tokyo and Vilnius. Often billed alongside TATSUYA, BEN and Ambroza. Next up: gallery 1986, Vilnius on Fri 25 Dec.
 
@@ -21,4 +21,4 @@ Justy is a hip-hop and r&b artist, with 5 gigs on soundcheck across Tokyo and Vi
 
 TATSUYA, BEN (1), Ambroza
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/justy/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/justy/)*

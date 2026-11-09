@@ -1,6 +1,6 @@
 # Ruben de Ronde
 
-Ruben de Ronde is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at DRUMSHEDS, London on Sat, 14 Nov 2026.
+Ruben de Ronde is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at DRUMSHEDS, London on Sat, 14 Nov 2026.
 
 Ruben de Ronde is a trance and techno artist based in Netherlands, with 8 gigs on soundcheck across Calgary, Hamburg, London and Paris and 3 more. Often billed alongside Cosmic Gate, Ferry Corsten and Madwave. Next up: DRUMSHEDS, London on Sat 14 Nov.
 
@@ -24,4 +24,4 @@ Ruben de Ronde is a trance and techno artist based in Netherlands, with 8 gigs o
 
 Cosmic Gate, Ferry Corsten, Madwave
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rubenderonde/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rubenderonde/)*

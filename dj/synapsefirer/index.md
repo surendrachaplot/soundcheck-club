@@ -1,6 +1,6 @@
 # Synapsefirer
 
-Synapsefirer is a Hardcore and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Unit 58, London on Fri, 20 Nov 2026.
+Synapsefirer is a Hardcore and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Unit 58, London on Fri, 20 Nov 2026.
 
 Synapsefirer is a hardcore and experimental artist based in United Kingdom, with 27 gigs on soundcheck across London. Often billed alongside Baptist (UK), Naramnesia and flippedcrosses. Next up: Unit 58, London on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Synapsefirer is a hardcore and experimental artist based in United Kingdom, with
 
 Baptist (UK), Naramnesia, flippedcrosses
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/synapsefirer/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/synapsefirer/)*

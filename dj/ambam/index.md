@@ -1,6 +1,6 @@
 # AMBAM
 
-AMBAM is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Sky Club, Leipzig on Sat, 28 Nov 2026.
+AMBAM is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Sky Club, Leipzig on Sat, 28 Nov 2026.
 
 AMBAM is a techno and trance artist based in Germany, with 84 gigs on soundcheck across Augsburg, Barcelona, Berlin and Bielefeld and 19 more. Often billed alongside DeGuzman, Kacy and PENELOPE (DE). Next up: Sky Club, Leipzig on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ AMBAM is a techno and trance artist based in Germany, with 84 gigs on soundcheck
 
 DeGuzman, Kacy, PENELOPE (DE)
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ambam/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ambam/)*

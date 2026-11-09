@@ -1,6 +1,6 @@
 # à la Folie Paris
 
-à la Folie Paris is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Toyz ✕ TANGA: CROSSHOEVER EDITION" on Fri, 13 Nov 2026.
+à la Folie Paris is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Toyz ✕ TANGA: CROSSHOEVER EDITION" on Fri, 13 Nov 2026.
 
 à la Folie Paris is a music venue in Paris listed on soundcheck. 2 upcoming gigs, with line-ups including ALP (DE), Ceyda Yagiz, DJ City and Khloe and 1 more. See dates, start times and who's playing. 26 Avenue Corentin Cariou, 75019 Paris.
 
@@ -15,4 +15,4 @@
 
 26 Avenue Corentin Cariou, 75019 Paris, Paris
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-folie-paris/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-folie-paris/)*

@@ -1,6 +1,6 @@
 # 999999999
 
-999999999 is a Techno and Acid artist with 6 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - LOCO PARK TBILISI, David Guramishvili Avenue 84, Tbilisi on Sat, 14 Nov 2026.
+999999999 is a Techno and Acid artist with 6 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - LOCO PARK TBILISI, David Guramishvili Avenue 84, Tbilisi on Sat, 14 Nov 2026.
 
 999999999 is a techno and acid artist based in Italy, with 326 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Antwerp and 94 more. Often billed alongside I Hate Models, Charlie Sparks and Clara Cuvé. Next up: TBA - LOCO PARK TBILISI, David Guramishvili Avenue 84, Tbilisi on Sat 14 Nov.
 
@@ -30,4 +30,4 @@
 
 I Hate Models, Charlie Sparks, Clara Cuvé
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/999999999/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/999999999/)*

@@ -1,14 +1,13 @@
 # Ouri
 
-Ouri is a Experimental and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
+Ouri is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Mayhem, Copenhagen on Fri, 13 Nov 2026.
 
-Ouri is an experimental and club artist based in Canada, with 25 gigs on soundcheck across Beijing, Berlin, Brussels and Copenhagen and 12 more. Often billed alongside Bby Eco, Valentina Magaletti and Chinnamasta. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
+Ouri is an experimental and club artist based in Canada, with 25 gigs on soundcheck across Beijing, Berlin, Brussels and Copenhagen and 12 more. Often billed alongside Bby Eco, Valentina Magaletti and Chinnamasta. Next up: Mayhem, Copenhagen on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | TivoliVredenburg | Utrecht |
 | Fri, 13 Nov 2026 | Mayhem | Copenhagen |
 
 ## Recently played
@@ -26,4 +25,4 @@ Ouri is an experimental and club artist based in Canada, with 25 gigs on soundch
 
 Bby Eco, Valentina Magaletti, Chinnamasta
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ouri/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ouri/)*

@@ -1,6 +1,6 @@
 # Setaoc Mass
 
-Setaoc Mass is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Stadion Strahov, Prague on Fri, 13 Nov 2026.
+Setaoc Mass is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Stadion Strahov, Prague on Fri, 13 Nov 2026.
 
 Setaoc Mass is a techno and house artist based in United Kingdom, with 222 gigs on soundcheck across Adelaide, Amsterdam, Athens and Atlanta and 77 more. Often billed alongside Philippa Pacho, Blasha & Allatt and Altinbas. Next up: Stadion Strahov, Prague on Fri 13 Nov.
 
@@ -33,4 +33,4 @@ Setaoc Mass is a techno and house artist based in United Kingdom, with 222 gigs 
 
 Philippa Pacho, Blasha & Allatt, Altinbas
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/setaocmass/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/setaocmass/)*

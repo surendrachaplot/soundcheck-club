@@ -1,6 +1,6 @@
 # Danilo Filipe
 
-Danilo Filipe is a Techno and Trance artist with 10 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at FVTVR, Paris on Sat, 14 Nov 2026.
+Danilo Filipe is a Techno and Trance artist with 10 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at FVTVR, Paris on Sat, 14 Nov 2026.
 
 Danilo Filipe is a techno and trance artist based in Germany, with 28 gigs on soundcheck across Berlin, Cologne, Freiburg and Karlsruhe and 6 more. Often billed alongside Vagabund, Alex Friday and Athina. Next up: FVTVR, Paris on Sat 14 Nov.
 
@@ -34,4 +34,4 @@ Danilo Filipe is a techno and trance artist based in Germany, with 28 gigs on so
 
 Vagabund, Alex Friday, Athina
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danilofilipe/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danilofilipe/)*

@@ -1,6 +1,6 @@
 # VER pres. Ueberrest (44 FRONT ROW), SPECIAL GUEST (44 FRONT ROW) uvm at Edelfettwerk
 
-VER pres. Ueberrest (44 FRONT ROW), SPECIAL GUEST (44 FRONT ROW) uvm at Edelfettwerk on Sat 6 Feb, Hamburg. 2 artists: Special Guest (US) and Ueberrest. See the line-up on soundcheck.
+VER pres. Ueberrest (44 FRONT ROW), SPECIAL GUEST (44 FRONT ROW) uvm at Edelfettwerk on Sat 6 Feb, Hamburg. 2 artists: Special Guest (US) and Ueberrest. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

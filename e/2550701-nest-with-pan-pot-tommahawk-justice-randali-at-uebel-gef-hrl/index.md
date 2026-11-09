@@ -1,6 +1,6 @@
 # NEST with PAN POT, Tommahawk, Justice & Randali at Uebel & Gefährlich
 
-NEST with PAN POT, Tommahawk, Justice & Randali at Uebel & Gefährlich on Sat 6 Feb, Hamburg. 4 artists: Justice, Pan-Pot, Randali and Tommahawk. See the line-up on soundcheck.
+NEST with PAN POT, Tommahawk, Justice & Randali at Uebel & Gefährlich on Sat 6 Feb, Hamburg. 4 artists: Justice, Pan-Pot, Randali and Tommahawk. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

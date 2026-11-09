@@ -1,6 +1,6 @@
 # Jack Fresia
 
-Jack Fresia is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Azimut Club, Turin on Mon, 7 Dec 2026.
+Jack Fresia is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Azimut Club, Turin on Mon, 7 Dec 2026.
 
 Jack Fresia is a techno and house artist based in Italy, with 46 gigs on soundcheck across Amsterdam, Berlin, Brussels and Milan and 4 more. Often billed alongside DJ Bone, Azucy and Tälor. Next up: Azimut Club, Turin on Mon 7 Dec.
 
@@ -26,4 +26,4 @@ Jack Fresia is a techno and house artist based in Italy, with 46 gigs on soundch
 
 DJ Bone, Azucy, Tälor
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jackfresia/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jackfresia/)*

@@ -1,6 +1,6 @@
 # Carina Lawrence
 
-Carina Lawrence is a Progressive House and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Cupra City Garage Manchester, Manchester on Sat, 14 Nov 2026.
+Carina Lawrence is a Progressive House and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Cupra City Garage Manchester, Manchester on Sat, 14 Nov 2026.
 
 Carina Lawrence is a progressive house and house artist based in Australia, with 67 gigs on soundcheck across Brighton, Bristol, London and Los Angeles and 6 more. Often billed alongside Innerstice, Jesabel and Redfreya. Next up: Cupra City Garage Manchester, Manchester on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Carina Lawrence is a progressive house and house artist based in Australia, with
 
 Innerstice, Jesabel, Redfreya
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carinalawrence/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carinalawrence/)*

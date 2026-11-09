@@ -1,6 +1,6 @@
 # Humboldthain Club
 
-Humboldthain Club is a music venue in Berlin with 14 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Open Decks & Tischtennis" on Tue, 10 Nov 2026.
+Humboldthain Club is a music venue in Berlin with 14 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Open Decks & Tischtennis" on Tue, 10 Nov 2026.
 
 Humboldthain Club is a music venue in Berlin listed on soundcheck. 14 upcoming gigs, with line-ups including 3diz, aykanakdag, CC:NIELOS and DJ-Ween and 2 more. See dates, start times and who's playing. Hochstraße 46; 13357 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Humboldthain Club is a music venue in Berlin listed on soundcheck. 14 upcoming g
 
 Hochstraße 46; 13357 Berlin; Germany, Berlin
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/humboldthain-club/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/humboldthain-club/)*

@@ -1,6 +1,6 @@
 # dj bootymagic
 
-dj bootymagic is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at MODULE, Copenhagen on Sat, 21 Nov 2026.
+dj bootymagic is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at MODULE, Copenhagen on Sat, 21 Nov 2026.
 
 dj bootymagic is a techno and house artist based in Denmark, with 38 gigs on soundcheck across Copenhagen. Often billed alongside Baime, Arto and Anna Logic. Next up: MODULE, Copenhagen on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ dj bootymagic is a techno and house artist based in Denmark, with 38 gigs on sou
 
 Baime, Arto (2), Anna Logic
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbootymagic/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbootymagic/)*

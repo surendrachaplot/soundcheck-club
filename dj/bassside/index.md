@@ -1,6 +1,6 @@
 # BASS SIDE
 
-BASS SIDE is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Sonorama, Medellin on Sun, 15 Nov 2026.
+BASS SIDE is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Sonorama, Medellin on Sun, 15 Nov 2026.
 
 BASS SIDE is a house and minimal artist based in Colombia, with 8 gigs on soundcheck across Medellin. Often billed alongside Martin Leaves, Federico Torres and Bettels. Next up: Sonorama, Medellin on Sun 15 Nov.
 
@@ -24,4 +24,4 @@ BASS SIDE is a house and minimal artist based in Colombia, with 8 gigs on soundc
 
 Martin Leaves, Federico Torres, Bettels
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bassside/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bassside/)*

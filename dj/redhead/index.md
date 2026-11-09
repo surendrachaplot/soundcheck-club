@@ -1,6 +1,6 @@
 # Steve RedHead
 
-Steve RedHead is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Off-Club, Belgium on Sat, 21 Nov 2026.
+Steve RedHead is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Off-Club, Belgium on Sat, 21 Nov 2026.
 
 Steve RedHead is a techno and house artist based in Belgium, with 24 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgium and 8 more. Often billed alongside SHDW, Gumja and Marko Nastic. Next up: Off-Club, Belgium on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Steve RedHead is a techno and house artist based in Belgium, with 24 gigs on sou
 
 SHDW, Gumja, Marko Nastic
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/redhead/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/redhead/)*

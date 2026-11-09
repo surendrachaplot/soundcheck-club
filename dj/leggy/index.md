@@ -1,6 +1,6 @@
 # LEGGY
 
-LEGGY is a Bass and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Abercrombie Hotel, Sydney on Fri, 20 Nov 2026.
+LEGGY is a Bass and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Abercrombie Hotel, Sydney on Fri, 20 Nov 2026.
 
 LEGGY is a bass and hardcore artist based in Australia, with 3 gigs on soundcheck across Sydney. Often billed alongside Baba Boubou, IXNAEY and Kassita. Next up: Abercrombie Hotel, Sydney on Fri 20 Nov.
 
@@ -19,4 +19,4 @@ LEGGY is a bass and hardcore artist based in Australia, with 3 gigs on soundchec
 
 Baba Boubou, IXNAEY, Kassita
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leggy/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leggy/)*

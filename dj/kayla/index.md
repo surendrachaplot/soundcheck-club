@@ -1,6 +1,6 @@
 # KAYLA
 
-KAYLA is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA, Boston on Sat, 28 Nov 2026.
+KAYLA is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA, Boston on Sat, 28 Nov 2026.
 
 KAYLA is a techno and acid artist based in United States of America, with 9 gigs on soundcheck across Boston. Often billed alongside Cløtur, Annie Lew and BAUGRUPPE90. Next up: TBA, Boston on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ KAYLA is a techno and acid artist based in United States of America, with 9 gigs
 
 Cløtur, Annie Lew, BAUGRUPPE90
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kayla/)*
+*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kayla/)*
