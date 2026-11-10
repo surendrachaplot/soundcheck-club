@@ -1,6 +1,6 @@
 # EVSKA
 
-EVSKA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Club Makossa, London on Fri, 4 Dec 2026.
+EVSKA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Club Makossa, London on Fri, 4 Dec 2026.
 
 EVSKA is a techno and house artist based in Poland, with 32 gigs on soundcheck across Edinburgh, London and Warsaw. Often billed alongside ROXAN (UK), SADOVSKI and VERTEX. Next up: Club Makossa, London on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ EVSKA is a techno and house artist based in Poland, with 32 gigs on soundcheck a
 
 ROXAN (UK), SADOVSKI, VERTEX (2)
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/evska/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/evska/)*

@@ -1,6 +1,6 @@
 # Davis Galvin
 
-Davis Galvin is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Collapse, Pittsburgh on Sun, 15 Nov 2026.
+Davis Galvin is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Collapse, Pittsburgh on Sun, 15 Nov 2026.
 
 Davis Galvin is a house and techno artist based in United States of America, with 42 gigs on soundcheck across Boston, Chicago, Detroit and Mexico City and 3 more. Often billed alongside Kiernan Laveaux, MIRA MIRA and Malzof. Next up: Collapse, Pittsburgh on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Davis Galvin is a house and techno artist based in United States of America, wit
 
 Kiernan Laveaux, MIRA MIRA, Malzof
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davisgalvin/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davisgalvin/)*

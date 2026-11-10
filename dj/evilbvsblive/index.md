@@ -1,6 +1,6 @@
 # Evil B vs B Live
 
-Evil B vs B Live is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri, 20 Nov 2026.
+Evil B vs B Live is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri, 20 Nov 2026.
 
 Evil B vs B Live are a drum & bass and jungle duo based in United Kingdom, with 10 gigs on soundcheck across Amsterdam, Birmingham, London and Riga and 1 more. Often billed alongside Bou (UK), IC3 and Logan D. Next up: TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Evil B vs B Live are a drum & bass and jungle duo based in United Kingdom, with 
 
 Bou (UK), IC3, Logan D
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/evilbvsblive/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/evilbvsblive/)*

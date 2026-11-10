@@ -1,6 +1,6 @@
 # fuxi
 
-fuxi is a House and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Bulbul Berlin, Berlin on Sat, 28 Nov 2026.
+fuxi is a House and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Bulbul Berlin, Berlin on Sat, 28 Nov 2026.
 
 fuxi is a house and club artist based in Germany, with 6 gigs on soundcheck across Berlin. Often billed alongside Julien Josh, ZYMT and Ashbeat. Next up: Bulbul Berlin, Berlin on Sat 28 Nov.
 
@@ -22,4 +22,4 @@ fuxi is a house and club artist based in Germany, with 6 gigs on soundcheck acro
 
 Julien Josh, ZYMT, Ashbeat
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fuxi/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fuxi/)*

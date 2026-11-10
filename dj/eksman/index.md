@@ -1,6 +1,6 @@
 # Eksman
 
-Eksman is a Drum & Bass and Jungle artist with 12 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Basing House, London on Fri, 13 Nov 2026.
+Eksman is a Drum & Bass and Jungle artist with 12 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Basing House, London on Fri, 13 Nov 2026.
 
 Eksman is a drum & bass and jungle artist based in United Kingdom, with 78 gigs on soundcheck across Auckland, Birmingham, Bristol and Cardiff and 12 more. Often billed alongside IC3, Hedex and Logan D. Next up: Basing House, London on Fri 13 Nov.
 
@@ -36,4 +36,4 @@ Eksman is a drum & bass and jungle artist based in United Kingdom, with 78 gigs 
 
 IC3, Hedex, Logan D
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eksman/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eksman/)*

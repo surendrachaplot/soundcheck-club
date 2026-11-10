@@ -1,6 +1,6 @@
 # Kiki B
 
-Kiki B is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Otherways Site, Mallorca, Mallorca on Fri, 30 Apr 2027.
+Kiki B is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Otherways Site, Mallorca, Mallorca on Fri, 30 Apr 2027.
 
 Kiki B is a garage and bass artist based in United Kingdom, with 14 gigs on soundcheck across Liverpool, London, Mallorca and Manchester. Often billed alongside FLORA THA EXPLORA, ODF and Y U QT. Next up: TBA - Otherways Site, Mallorca, Mallorca on Fri 30 Apr.
 
@@ -25,4 +25,4 @@ Kiki B is a garage and bass artist based in United Kingdom, with 14 gigs on soun
 
 FLORA THA EXPLORA, ODF (1), Y U QT
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kikib/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kikib/)*

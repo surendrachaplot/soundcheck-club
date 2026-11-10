@@ -1,14 +1,15 @@
 # Emok
 
-Emok is a House and Psytrance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Culture Box, Copenhagen on Fri, 11 Dec 2026.
+Emok is a Psytrance and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Culture Box, Copenhagen on Fri, 11 Dec 2026.
 
-Emok is a house and psytrance artist, with 11 gigs on soundcheck across Copenhagen, Osaka, Paris and Zurich. Often billed alongside Tim Andresen, Ambient Pino and Beat Herren. Next up: Culture Box, Copenhagen on Fri 11 Dec.
+Emok is a psytrance and house artist, with 12 gigs on soundcheck across Antwerp, Copenhagen, Osaka and Paris and 1 more. Often billed alongside Tim Andresen, Ambient Pino and Beat Herren. Next up: Culture Box, Copenhagen on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Dec 2026 | Culture Box | Copenhagen |
+| Sat, 19 Dec 2026 | TRAUM | Antwerp |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Emok is a house and psytrance artist, with 11 gigs on soundcheck across Copenhag
 
 Tim Andresen, Ambient Pino, Beat Herren
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emok/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emok/)*

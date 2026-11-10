@@ -1,6 +1,6 @@
 # Okaydante
 
-Okaydante is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Luu Bar, Ho Chi Minh City on Sat, 14 Nov 2026.
+Okaydante is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Luu Bar, Ho Chi Minh City on Sat, 14 Nov 2026.
 
 Okaydante is a techno and house artist based in Philippines, with 4 gigs on soundcheck across Hanoi and Ho Chi Minh City. Often billed alongside CONG, Di Linh and TaoFu. Next up: Luu Bar, Ho Chi Minh City on Sat 14 Nov.
 
@@ -20,4 +20,4 @@ Okaydante is a techno and house artist based in Philippines, with 4 gigs on soun
 
 CONG, Di Linh, TaoFu
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/okaydante/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/okaydante/)*

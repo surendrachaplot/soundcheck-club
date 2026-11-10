@@ -1,6 +1,6 @@
 # Arjun Vagale
 
-Arjun Vagale is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Foothills of Nandi, Karahalli, Bangalore on Sat, 5 Dec 2026.
+Arjun Vagale is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Foothills of Nandi, Karahalli, Bangalore on Sat, 5 Dec 2026.
 
 Arjun Vagale is a techno and house artist based in India, with 3 gigs on soundcheck across Bangalore, Bangkok and Strasbourg. Often billed alongside ANSWER (IN), Anyasa and BLAC Koncept. Next up: TBA - Foothills of Nandi, Karahalli, Bangalore on Sat 5 Dec.
 
@@ -19,4 +19,4 @@ Arjun Vagale is a techno and house artist based in India, with 3 gigs on soundch
 
 ANSWER (IN), Anyasa, BLAC Koncept
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arjunvagale/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arjunvagale/)*

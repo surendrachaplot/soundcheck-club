@@ -1,6 +1,6 @@
 # Voltage
 
-Voltage is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri, 20 Nov 2026.
+Voltage is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri, 20 Nov 2026.
 
 Voltage is a drum & bass and jungle artist based in United Kingdom, with 69 gigs on soundcheck across Amsterdam, Auckland, Austria and Bali and 17 more. Often billed alongside Turno, Bladerunner and Inja. Next up: TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri 20 Nov.
 
@@ -28,4 +28,4 @@ Voltage is a drum & bass and jungle artist based in United Kingdom, with 69 gigs
 
 Turno, Bladerunner, Inja
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/voltage/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/voltage/)*

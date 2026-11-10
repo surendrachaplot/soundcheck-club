@@ -1,6 +1,6 @@
 # DJ.K2
 
-DJ.K2 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Bossa Nova Civic Club, New York City on Tue, 17 Nov 2026.
+DJ.K2 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Bossa Nova Civic Club, New York City on Tue, 17 Nov 2026.
 
 DJ.K2 is a techno and house artist based in United States of America, with 3 gigs on soundcheck across Detroit and New York City. Often billed alongside DR. Disko Dust, Garrison XR and Gay Felony. Next up: Bossa Nova Civic Club, New York City on Tue 17 Nov.
 
@@ -19,4 +19,4 @@ DJ.K2 is a techno and house artist based in United States of America, with 3 gig
 
 DR. Disko Dust, Garrison XR, Gay Felony
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/DJK2-USA/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/DJK2-USA/)*

@@ -1,8 +1,8 @@
 # YOUSUKE FUYAMA
 
-YOUSUKE FUYAMA is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Chitei 地底, Tokyo on Tue, 10 Nov 2026.
+YOUSUKE FUYAMA is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Chitei 地底, Tokyo on Tue, 10 Nov 2026.
 
-YOUSUKE FUYAMA is an experimental and electronica artist based in Japan, with 10 gigs on soundcheck across Tokyo. Often billed alongside Eric Frye, B.A.R.K and NTsKi. Next up: Chitei 地底, Tokyo on Tue 10 Nov.
+YOUSUKE FUYAMA is an experimental and electronica artist based in Japan, with 10 gigs on soundcheck across Tokyo. Often billed alongside Eric Frye, B.A.R.K and Makoto Oshiro. Next up: Chitei 地底, Tokyo on Tue 10 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ YOUSUKE FUYAMA is an experimental and electronica artist based in Japan, with 10
 
 ## Shares bills with
 
-Eric Frye, B.A.R.K, NTsKi
+Eric Frye, B.A.R.K, Makoto Oshiro
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yousukefuyama/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yousukefuyama/)*

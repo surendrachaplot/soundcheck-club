@@ -1,6 +1,6 @@
 # Rina Katen
 
-Rina Katen is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at ciao ciao Bar, Berlin on Sat, 19 Dec 2026.
+Rina Katen is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at ciao ciao Bar, Berlin on Sat, 19 Dec 2026.
 
 Rina Katen is a house and disco artist based in Ukraine, with 54 gigs on soundcheck across Berlin. Often billed alongside justcallmesergio, Loves_kills and Slow PSTL. Next up: ciao ciao Bar, Berlin on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Rina Katen is a house and disco artist based in Ukraine, with 54 gigs on soundch
 
 justcallmesergio, Loves_kills, Slow PSTL
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rinakaten/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rinakaten/)*

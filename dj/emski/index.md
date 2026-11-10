@@ -1,6 +1,6 @@
 # Emski
 
-Emski is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Stardust Garage, Austin on Fri, 20 Nov 2026.
+Emski is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Stardust Garage, Austin on Fri, 20 Nov 2026.
 
 Emski is a techno and garage artist based in Germany, with 10 gigs on soundcheck across Austin, Berlin, Bristol and New York City. Often billed alongside Thrilogy, Milly on Air and Bubski. Next up: Stardust Garage, Austin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Emski is a techno and garage artist based in Germany, with 10 gigs on soundcheck
 
 Thrilogy, Milly on Air, Bubski
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emski/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emski/)*

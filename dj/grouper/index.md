@@ -1,6 +1,6 @@
 # Grouper
 
-Grouper is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Temppeliaukio Church, Helsinki on Mon, 16 Nov 2026.
+Grouper is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Temppeliaukio Church, Helsinki on Mon, 16 Nov 2026.
 
 Grouper is an experimental and ambient artist based in United States of America, with 6 gigs on soundcheck across Brussels, Helsinki, London and Montreal and 2 more. Often billed alongside KMRU, Marina Herlop and Aba Shanti-I. Next up: Temppeliaukio Church, Helsinki on Mon 16 Nov.
 
@@ -22,4 +22,4 @@ Grouper is an experimental and ambient artist based in United States of America,
 
 KMRU, Marina Herlop, Aba Shanti-I
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grouper/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grouper/)*

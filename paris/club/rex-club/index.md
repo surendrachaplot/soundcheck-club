@@ -1,6 +1,6 @@
 # Rex Club
 
-Rex Club is a music venue in Paris with 15 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Rex Club presents: Gabriel Belabbas b2b Poggio all night long" on Tue, 10 Nov 2026.
+Rex Club is a music venue in Paris with 15 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Rex Club presents: Gabriel Belabbas b2b Poggio all night long" on Tue, 10 Nov 2026.
 
 Rex Club is a music venue in Paris listed on soundcheck. 15 upcoming gigs, with line-ups including Abr., Avenir, Chippy Nonstop and DJ MARIA. and 2 more. See dates, start times and who's playing. 5 boulevard Poissonnière; 75002; Paris; France.
 
@@ -23,4 +23,4 @@ Rex Club is a music venue in Paris listed on soundcheck. 15 upcoming gigs, with 
 
 5 boulevard Poissonnière; 75002; Paris; France, Paris
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/rex-club/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/rex-club/)*

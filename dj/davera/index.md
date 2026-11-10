@@ -1,6 +1,6 @@
 # Davera
 
-Davera is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at La Gare / Le Gore, Paris on Wed, 25 Nov 2026.
+Davera is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at La Gare / Le Gore, Paris on Wed, 25 Nov 2026.
 
 Davera is a house and techno artist based in France, with 10 gigs on soundcheck across Paris. Often billed alongside Bubs, Töm and AA/XX. Next up: La Gare / Le Gore, Paris on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ Davera is a house and techno artist based in France, with 10 gigs on soundcheck 
 
 Bubs, Töm, AA/XX
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davera/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davera/)*

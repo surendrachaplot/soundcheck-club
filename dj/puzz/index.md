@@ -1,6 +1,6 @@
 # PUZZ
 
-PUZZ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Crackhouse, Gdansk on Sat, 14 Nov 2026.
+PUZZ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Crackhouse, Gdansk on Sat, 14 Nov 2026.
 
 PUZZ is a techno and house artist based in Poland, with 29 gigs on soundcheck across Gdansk, Krakow, Poznan and Warsaw and 1 more. Often billed alongside Tekknik, Furie and somnifobia. Next up: Crackhouse, Gdansk on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ PUZZ is a techno and house artist based in Poland, with 29 gigs on soundcheck ac
 
 Tekknik, Furie, somnifobia
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/puzz/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/puzz/)*

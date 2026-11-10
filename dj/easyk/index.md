@@ -1,6 +1,6 @@
 # Easy K
 
-Easy K is a Progressive House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Crack Bellmer, Berlin on Sun, 29 Nov 2026.
+Easy K is a Progressive House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Crack Bellmer, Berlin on Sun, 29 Nov 2026.
 
 Easy K is a progressive house and electro artist based in Germany, with 8 gigs on soundcheck across Berlin. Often billed alongside R4F4, Suzanne Dolmancé and Fennypenny. Next up: Crack Bellmer, Berlin on Sun 29 Nov.
 
@@ -24,4 +24,4 @@ Easy K is a progressive house and electro artist based in Germany, with 8 gigs o
 
 R4F4, Suzanne Dolmancé, Fennypenny
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/easyk/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/easyk/)*

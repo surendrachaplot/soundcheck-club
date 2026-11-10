@@ -1,6 +1,6 @@
 # Nulab Chengdu
 
-Nulab Chengdu is a music venue in Chengdu with 14 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "厅 |  Electro JYM @Tin" on Wed, 11 Nov 2026.
+Nulab Chengdu is a music venue in Chengdu with 14 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "厅 |  Electro JYM @Tin" on Wed, 11 Nov 2026.
 
 Nulab Chengdu is a music venue in Chengdu listed on soundcheck. 14 upcoming gigs, with line-ups including Airbear, Erik Luebs, Florian Picasso and G0vernmentsLie and 2 more. See dates, start times and who's playing. No.666. Yong'an Rd. Jinjiang Dist. Chengdu China.
 
@@ -23,4 +23,4 @@ Nulab Chengdu is a music venue in Chengdu listed on soundcheck. 14 upcoming gigs
 
 No.666. Yong'an Rd. Jinjiang Dist. Chengdu China, Chengdu
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/chengdu/club/nulab-chengdu/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/chengdu/club/nulab-chengdu/)*

@@ -1,6 +1,6 @@
 # Bob Moses
 
-Bob Moses is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Factory Town, Miami on Sat, 14 Nov 2026.
+Bob Moses is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Factory Town, Miami on Sat, 14 Nov 2026.
 
 Bob Moses is a house and deep house artist based in Canada, with 60 gigs on soundcheck across Amsterdam, Austin, Barcelona and Bogotá and 26 more. Often billed alongside Ben Böhmer, Boys Noize and Claptone. Next up: Factory Town, Miami on Sat 14 Nov.
 
@@ -28,4 +28,4 @@ Bob Moses is a house and deep house artist based in Canada, with 60 gigs on soun
 
 Ben Böhmer, Boys Noize, Claptone
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bobmoses/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bobmoses/)*

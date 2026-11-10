@@ -1,14 +1,14 @@
 # Jeffrey (DE)
 
-Jeffrey (DE) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA, Berlin on Sat, 19 Dec 2026.
+Jeffrey (DE) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - SECRET WHAREHOUSE, Berlin on Sat, 19 Dec 2026.
 
-Jeffrey (DE) is a techno and house artist based in Germany, with 28 gigs on soundcheck across Berlin, Munich and Stuttgart. Often billed alongside DJ Saunameister, DMCG and Inverse Element. Next up: TBA, Berlin on Sat 19 Dec.
+Jeffrey (DE) is a techno and house artist based in Germany, with 28 gigs on soundcheck across Berlin, Munich and Stuttgart. Often billed alongside DJ Saunameister, DMCG and Inverse Element. Next up: TBA - SECRET WHAREHOUSE, Berlin on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Dec 2026 | TBA | Berlin |
+| Sat, 19 Dec 2026 | TBA - SECRET WHAREHOUSE | Berlin |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Jeffrey (DE) is a techno and house artist based in Germany, with 28 gigs on soun
 
 DJ Saunameister, DMCG, Inverse Element
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffrey-de/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffrey-de/)*

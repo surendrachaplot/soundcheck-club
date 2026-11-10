@@ -1,6 +1,6 @@
 # Apexsion
 
-Apexsion is a Psytrance and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at ://about blank, Berlin on Fri, 27 Nov 2026.
+Apexsion is a Psytrance and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at ://about blank, Berlin on Fri, 27 Nov 2026.
 
 Apexsion is a psytrance and trance artist based in Germany, with 3 gigs on soundcheck across Berlin. Often billed alongside Haffenloher, C150 and DJ ritalino. Next up: ://about blank, Berlin on Fri 27 Nov.
 
@@ -19,4 +19,4 @@ Apexsion is a psytrance and trance artist based in Germany, with 3 gigs on sound
 
 Haffenloher, C150, DJ ritalino
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/apexsion/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/apexsion/)*

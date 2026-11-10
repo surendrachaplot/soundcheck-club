@@ -1,6 +1,6 @@
 # Kaiser (K S R)
 
-Kaiser (K S R) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at The Greyhound, London on Sun, 29 Nov 2026.
+Kaiser (K S R) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at The Greyhound, London on Sun, 29 Nov 2026.
 
 Kaiser (K S R) is a techno and house artist based in Italy, with 146 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 50 more. Often billed alongside Freddy K, Kwartz and Chami. Next up: The Greyhound, London on Sun 29 Nov.
 
@@ -27,4 +27,4 @@ Kaiser (K S R) is a techno and house artist based in Italy, with 146 gigs on sou
 
 Freddy K, Kwartz, Chami
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaiser_ksr/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaiser_ksr/)*

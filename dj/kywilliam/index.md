@@ -1,6 +1,6 @@
 # Ky William
 
-Ky William is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Outer Heaven, New York City on Thu, 17 Dec 2026.
+Ky William is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Outer Heaven, New York City on Thu, 17 Dec 2026.
 
 Ky William is a house and tech house artist based in United States of America, with 63 gigs on soundcheck across Amsterdam, Austin, Baltimore and Boston and 19 more. Often billed alongside Ms. Mada, Danyelino and Lilly Palmer. Next up: Outer Heaven, New York City on Thu 17 Dec.
 
@@ -25,4 +25,4 @@ Ky William is a house and tech house artist based in United States of America, w
 
 Ms. Mada, Danyelino, Lilly Palmer
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kywilliam/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kywilliam/)*

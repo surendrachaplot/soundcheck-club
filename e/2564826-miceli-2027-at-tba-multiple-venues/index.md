@@ -1,6 +1,6 @@
 # MICELI 2027 at TBA - Multiple Venues
 
-MICELI 2027 at TBA - Multiple Venues on Wed 28 Apr, Barcelona. 5 artists: Cut Hands, RNXRX, Rrose and Ryosuke Kiyasu and 1 more. See the line-up on soundcheck.
+MICELI 2027 at TBA - Multiple Venues on Wed 28 Apr, Barcelona. 6 artists: Curbside Lambsear, Cut Hands, RNXRX and Rrose and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ MICELI 2027 at TBA - Multiple Venues on Wed 28 Apr, Barcelona. 5 artists: Cut Ha
 
 ## Line-up
 
+- Curbside Lambsear
 - Cut Hands
 - RNXRX
 - Rrose

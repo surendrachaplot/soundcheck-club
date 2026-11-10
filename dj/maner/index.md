@@ -1,6 +1,6 @@
 # MANER
 
-MANER is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Frankhan Selectist, Istanbul on Fri, 13 Nov 2026.
+MANER is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Frankhan Selectist, Istanbul on Fri, 13 Nov 2026.
 
 MANER is a house and tech house artist, with 5 gigs on soundcheck across Istanbul. Often billed alongside Jamie S (TR), Deetron and Delilah. Next up: Frankhan Selectist, Istanbul on Fri 13 Nov.
 
@@ -21,4 +21,4 @@ MANER is a house and tech house artist, with 5 gigs on soundcheck across Istanbu
 
 Jamie S (TR), Deetron, Delilah
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maner/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maner/)*

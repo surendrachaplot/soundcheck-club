@@ -1,6 +1,6 @@
 # Esa
 
-Esa is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Koue Bokkeveld, Cape-town on Wed, 30 Dec 2026.
+Esa is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Koue Bokkeveld, Cape-town on Wed, 30 Dec 2026.
 
 Esa is a house and disco artist based in South Africa, with 62 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Bordeaux and 22 more. Often billed alongside Antal, Jamz Supernova and Yu Su. Next up: TBA - Koue Bokkeveld, Cape Town on Wed 30 Dec.
 
@@ -25,4 +25,4 @@ Esa is a house and disco artist based in South Africa, with 62 gigs on soundchec
 
 Antal, Jamz Supernova, Yu Su
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/esa/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/esa/)*

@@ -1,6 +1,6 @@
 # Amanita
 
-Amanita is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at migas, a listening bar, Berlin on Fri, 13 Nov 2026.
+Amanita is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at migas, a listening bar, Berlin on Fri, 13 Nov 2026.
 
 Amanita is a techno and trance artist based in Italy, with 36 gigs on soundcheck across Berlin, Bologna, Lisbon and Lyon and 5 more. Often billed alongside Abo Abo, Marco Maldarella and The Burrell Connection. Next up: migas, a listening bar, Berlin on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Amanita is a techno and trance artist based in Italy, with 36 gigs on soundcheck
 
 Abo Abo, Marco Maldarella, The Burrell Connection
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amanita/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amanita/)*

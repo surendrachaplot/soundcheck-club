@@ -1,6 +1,6 @@
 # Globular Waves
 
-Globular Waves is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Masada, Milan on Sat, 5 Dec 2026.
+Globular Waves is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Masada, Milan on Sat, 5 Dec 2026.
 
 Globular Waves is a techno artist based in Italy, with 4 gigs on soundcheck across Milan. Often billed alongside Ben Kaczor, Dorisburg and Index. Next up: Masada, Milan on Sat 5 Dec.
 
@@ -20,4 +20,4 @@ Globular Waves is a techno artist based in Italy, with 4 gigs on soundcheck acro
 
 Ben Kaczor, Dorisburg, Index
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/globularwaves/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/globularwaves/)*

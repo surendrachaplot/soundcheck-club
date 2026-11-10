@@ -1,6 +1,6 @@
 # Brookesia
 
-Brookesia is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Cabaret  Aléatoire, Marseille on Fri, 20 Nov 2026.
+Brookesia is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Cabaret  Aléatoire, Marseille on Fri, 20 Nov 2026.
 
 Brookesia is a techno and minimal techno artist based in France, with 4 gigs on soundcheck across Marseille. Often billed alongside BonÏpso, Fab Massimo and John A Marr. Next up: Cabaret  Aléatoire, Marseille on Fri 20 Nov.
 
@@ -20,4 +20,4 @@ Brookesia is a techno and minimal techno artist based in France, with 4 gigs on 
 
 BonÏpso, Fab Massimo, John A Marr
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brookesia/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brookesia/)*

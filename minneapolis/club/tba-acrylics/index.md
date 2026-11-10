@@ -1,6 +1,6 @@
 # TBA - ACRYLICS
 
-TBA - ACRYLICS is a music venue in Minneapolis/St Paul with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. The next is "FOCUS GROUP" on Fri, 20 Nov 2026.
+TBA - ACRYLICS is a music venue in Minneapolis/St Paul with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. The next is "FOCUS GROUP" on Fri, 20 Nov 2026.
 
 TBA - ACRYLICS is a music venue in Minneapolis/St Paul listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - ACRYLICS is a music venue in Minneapolis/St Paul listed on soundcheck. 1 u
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | FOCUS GROUP |  |
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/minneapolis/club/tba-acrylics/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/minneapolis/club/tba-acrylics/)*

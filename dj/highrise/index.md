@@ -1,6 +1,6 @@
 # Highrise
 
-Highrise is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Arks of Deptford, London on Sat, 19 Dec 2026.
+Highrise is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Arks of Deptford, London on Sat, 19 Dec 2026.
 
 Highrise is a garage and house artist based in United Kingdom, with 21 gigs on soundcheck across Berlin, Brussels, Glasgow and London and 3 more. Often billed alongside Dwarde, Strange Signals and ohmydais. Next up: Arks of Deptford, London on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Highrise is a garage and house artist based in United Kingdom, with 21 gigs on s
 
 Dwarde, Strange Signals, ohmydais
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/highrise/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/highrise/)*

@@ -1,6 +1,6 @@
 # Juanjo Martin
 
-Juanjo Martin is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Las Ventas, Madrid on Sat, 19 Dec 2026.
+Juanjo Martin is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Las Ventas, Madrid on Sat, 19 Dec 2026.
 
 Juanjo Martin is a house and techno artist based in Spain, with 11 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and Madrid and 2 more. Often billed alongside Rebeka Brown, J.Louis and Paco Maroto. Next up: Las Ventas, Madrid on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Juanjo Martin is a house and techno artist based in Spain, with 11 gigs on sound
 
 Rebeka Brown, J.Louis, Paco Maroto
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juanjomartin/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juanjomartin/)*

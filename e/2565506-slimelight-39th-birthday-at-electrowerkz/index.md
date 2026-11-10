@@ -1,6 +1,6 @@
 # Slimelight 39TH BIRTHDAY at Electrowerkz
 
-Slimelight 39TH BIRTHDAY at Electrowerkz on Fri 27 Nov, London. 6 artists: Brother of Set, Daniel Knutz, Dj.Malefica and Ricardo Castro and 2 more. EBM and Post-Punk. See the line-up on soundcheck.
+Slimelight 39TH BIRTHDAY at Electrowerkz on Fri 27 Nov, London. 7 artists: Brother of Set, Daniel Knutz, DJ Rusty Egan and Dj.Malefica and 3 more. EBM and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Slimelight 39TH BIRTHDAY at Electrowerkz on Fri 27 Nov, London. 6 artists: Broth
 
 - Brother of Set
 - Daniel Knutz
+- DJ Rusty Egan
 - Dj.Malefica
 - Ricardo Castro
 - Steve Weeks

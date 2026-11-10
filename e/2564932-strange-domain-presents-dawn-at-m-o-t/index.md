@@ -1,6 +1,6 @@
 # strange-domain presents: Dawn at M.O.T
 
-strange-domain presents: Dawn at M.O.T on Thu 19 Nov, London. 1 artist: ARKNGL. Bass and Club. See the line-up on soundcheck.
+strange-domain presents: Dawn at M.O.T on Thu 19 Nov, London. 2 artists: ARKNGL and CESKA. Bass and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ strange-domain presents: Dawn at M.O.T on Thu 19 Nov, London. 1 artist: ARKNGL. 
 ## Line-up
 
 - ARKNGL
+- CESKA
 
 *Source: [soundcheck](https://soundcheck.club/e/2564932-strange-domain-presents-dawn-at-m-o-t/)*

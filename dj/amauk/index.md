@@ -1,6 +1,6 @@
 # Ama (UK)
 
-Ama (UK) is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Vespers Club, London on Sun, 27 Dec 2026.
+Ama (UK) is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Vespers Club, London on Sun, 27 Dec 2026.
 
 Ama (UK) is a drum & bass and jungle artist based in United Kingdom, with 47 gigs on soundcheck across Amsterdam, Bali, Birmingham and Bologna and 11 more. Often billed alongside Grooverider, Hybrid Minds and Voltage. Next up: Vespers Club, London on Sun 27 Dec.
 
@@ -25,4 +25,4 @@ Ama (UK) is a drum & bass and jungle artist based in United Kingdom, with 47 gig
 
 Grooverider, Hybrid Minds, Voltage
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amauk/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amauk/)*

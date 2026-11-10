@@ -1,6 +1,6 @@
 # SiSeN
 
-SiSeN is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Shinjuku Loft, Tokyo on Sat, 21 Nov 2026.
+SiSeN is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Shinjuku Loft, Tokyo on Sat, 21 Nov 2026.
 
 SiSeN is a techno and industrial artist based in Japan, with 53 gigs on soundcheck across Kanto and Tokyo. Often billed alongside Takuya Angel, CHIKA and andro (GOTHIKA). Next up: Shinjuku Loft, Tokyo on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ SiSeN is a techno and industrial artist based in Japan, with 53 gigs on soundche
 
 Takuya Angel, CHIKA, andro (GOTHIKA)
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sisen/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sisen/)*

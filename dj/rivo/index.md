@@ -1,6 +1,6 @@
 # Rivo
 
-Rivo is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Future Nightlife, Toronto on Thu, 12 Nov 2026.
+Rivo is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Future Nightlife, Toronto on Thu, 12 Nov 2026.
 
 Rivo is a house and afro house artist based in France, with 69 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 29 more. Often billed alongside Eric Prydz, Bender and Miss Monique. Next up: Future Nightlife, Toronto on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Rivo is a house and afro house artist based in France, with 69 gigs on soundchec
 
 Eric Prydz, Bender, Miss Monique
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rivo/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rivo/)*

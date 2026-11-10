@@ -1,6 +1,6 @@
 # PUNX
 
-PUNX is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Nulab Chengdu, Chengdu on Sat, 28 Nov 2026.
+PUNX is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Nulab Chengdu, Chengdu on Sat, 28 Nov 2026.
 
 PUNX is a techno and industrial artist based in China, with 28 gigs on soundcheck across Beijing, Chengdu, Hong Kong and Shanghai and 1 more. Often billed alongside R Ξ Π, ΛNGELVS and DJ EBP. Next up: Nulab Chengdu, Chengdu on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ PUNX is a techno and industrial artist based in China, with 28 gigs on soundchec
 
 R Ξ Π, ΛNGELVS, DJ EBP
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/punx/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/punx/)*

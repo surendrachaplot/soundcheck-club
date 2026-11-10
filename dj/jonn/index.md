@@ -1,6 +1,6 @@
 # Jonn
 
-Jonn is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Dybbuk, Athens on Sat, 21 Nov 2026.
+Jonn is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Dybbuk, Athens on Sat, 21 Nov 2026.
 
 Jonn is a house and minimal artist based in Greece, with 72 gigs on soundcheck across Amsterdam, Athens, Bucharest and Greece and 3 more. Often billed alongside Always Late, Cap and Priku. Next up: Dybbuk, Athens on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Jonn is a house and minimal artist based in Greece, with 72 gigs on soundcheck a
 
 Always Late, Cap, Priku
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jonn/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jonn/)*

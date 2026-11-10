@@ -1,6 +1,6 @@
 # YAREE
 
-YAREE is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Faust, Seoul on Sat, 28 Nov 2026.
+YAREE is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Faust, Seoul on Sat, 28 Nov 2026.
 
 YAREE is a house and tech house artist based in South Korea, with 30 gigs on soundcheck across Seoul and Taipei. Often billed alongside Uni, July and NUSNOOM. Next up: Faust, Seoul on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ YAREE is a house and tech house artist based in South Korea, with 30 gigs on sou
 
 Uni (3), July (1), NUSNOOM
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yaree/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yaree/)*

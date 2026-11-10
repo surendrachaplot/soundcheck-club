@@ -1,6 +1,6 @@
 # Demolition Man
 
-Demolition Man is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Stealth, Nottingham on Fri, 20 Nov 2026.
+Demolition Man is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Stealth, Nottingham on Fri, 20 Nov 2026.
 
 Demolition Man is a drum & bass and jungle artist based in United Kingdom, with 9 gigs on soundcheck across Amsterdam, Birmingham, Bristol and Cardiff and 4 more. Often billed alongside Crossy, Trafic MC and Inja. Next up: Stealth, Nottingham on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Demolition Man is a drum & bass and jungle artist based in United Kingdom, with 
 
 Crossy, Trafic MC, Inja
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/demolitionman/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/demolitionman/)*

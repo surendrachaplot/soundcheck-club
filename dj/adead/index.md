@@ -1,6 +1,6 @@
 # ADEAD
 
-ADEAD is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at OIL Club, Shenzhen on Sat, 5 Dec 2026.
+ADEAD is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at OIL Club, Shenzhen on Sat, 5 Dec 2026.
 
 ADEAD is a club and techno artist based in China, with 14 gigs on soundcheck across Hong Kong and Shenzhen. Often billed alongside Funkie, Warmchainss and anormalturtle300. Next up: OIL Club, Shenzhen on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ ADEAD is a club and techno artist based in China, with 14 gigs on soundcheck acr
 
 Funkie, Warmchainss, anormalturtle300
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adead/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adead/)*

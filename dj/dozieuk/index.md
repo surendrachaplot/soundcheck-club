@@ -1,6 +1,6 @@
 # dozie (uk)
 
-dozie (uk) is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
+dozie (uk) is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
 
 dozie (uk) is a house and electronica artist based in United Kingdom, with 27 gigs on soundcheck across Melbourne. Often billed alongside Slumdog, DJ Optimism and Kailyn Crabbe. Next up: Lardner Park, Melbourne on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ dozie (uk) is a house and electronica artist based in United Kingdom, with 27 gi
 
 Slumdog, DJ Optimism, Kailyn Crabbe
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dozieuk/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dozieuk/)*

@@ -1,6 +1,6 @@
 # DJ Name
 
-DJ Name is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Angel Music Bar, Melbourne on Sat, 19 Dec 2026.
+DJ Name is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Angel Music Bar, Melbourne on Sat, 19 Dec 2026.
 
 DJ Name is a house and deep house artist based in New Zealand, with 28 gigs on soundcheck across Auckland, Christchurch and Melbourne. Often billed alongside Logan Baker, Jay Tripwire and Terra Verner. Next up: Angel Music Bar, Melbourne on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ DJ Name is a house and deep house artist based in New Zealand, with 28 gigs on s
 
 Logan Baker, Jay Tripwire, Terra Verner
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djname/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djname/)*

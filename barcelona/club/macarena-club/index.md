@@ -1,6 +1,6 @@
 # Macarena Club
 
-Macarena Club is a music venue in Barcelona with 24 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Memento Xs" on Mon, 9 Nov 2026.
+Macarena Club is a music venue in Barcelona with 24 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Memento Xs" on Mon, 9 Nov 2026.
 
 Macarena Club is a music venue in Barcelona listed on soundcheck. 24 upcoming gigs, with line-ups including Jo-Sie, Acid Astrid, AFFKT and Brieela and 2 more. See dates, start times and who's playing. Carrer Nou de Sant Francesc, 5; 08002 Barcelona; Spain.
 
@@ -23,4 +23,4 @@ Macarena Club is a music venue in Barcelona listed on soundcheck. 24 upcoming gi
 
 Carrer Nou de Sant Francesc, 5; 08002 Barcelona; Spain, Barcelona
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/macarena-club/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/macarena-club/)*

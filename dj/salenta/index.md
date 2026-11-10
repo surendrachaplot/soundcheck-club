@@ -1,6 +1,6 @@
 # Salenta
 
-Salenta is a Experimental and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Airliner, Los Angeles on Sat, 21 Nov 2026.
+Salenta is a Experimental and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Airliner, Los Angeles on Sat, 21 Nov 2026.
 
 Salenta is an experimental and garage artist based in United States of America, with 12 gigs on soundcheck across Berlin, Brussels, London and Los Angeles and 3 more. Often billed alongside Able Noise, Carlos Niño and Tommaso Cappellato. Next up: The Airliner, Los Angeles on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Salenta is an experimental and garage artist based in United States of America, 
 
 Able Noise, Carlos Niño, Tommaso Cappellato
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/salenta/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/salenta/)*

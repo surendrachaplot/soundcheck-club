@@ -1,6 +1,6 @@
 # Kiaro
 
-Kiaro is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Gate Club, Armenia on Sat, 14 Nov 2026.
+Kiaro is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Gate Club, Armenia on Sat, 14 Nov 2026.
 
 Kiaro is an electronic artist, with 4 gigs on soundcheck across Amsterdam, Armenia and Tallinn. Often billed alongside Armen Miran, Around Us and Beard2Beard. Next up: The Gate Club, Armenia on Sat 14 Nov.
 
@@ -20,4 +20,4 @@ Kiaro is an electronic artist, with 4 gigs on soundcheck across Amsterdam, Armen
 
 Armen Miran, Around Us, Beard2Beard
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kiaro/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kiaro/)*

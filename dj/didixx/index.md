@@ -1,6 +1,6 @@
 # DIDIXX
 
-DIDIXX is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Fire, London on Fri, 13 Nov 2026.
+DIDIXX is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Fire, London on Fri, 13 Nov 2026.
 
 DIDIXX is a techno and house artist based in Spain, with 41 gigs on soundcheck across Barcelona, Ibiza and London. Often billed alongside KARELBLADE, Rowsi and ANJELIKA SAHAKIAN. Next up: Fire, London on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ DIDIXX is a techno and house artist based in Spain, with 41 gigs on soundcheck a
 
 KARELBLADE, Rowsi, ANJELIKA SAHAKIAN
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/didixx/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/didixx/)*

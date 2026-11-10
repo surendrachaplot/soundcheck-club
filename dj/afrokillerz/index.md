@@ -1,6 +1,6 @@
 # AfroKillerz
 
-AfroKillerz is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Steel Yard, London on Fri, 5 Feb 2027.
+AfroKillerz is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Steel Yard, London on Fri, 5 Feb 2027.
 
 AfroKillerz is an afro house and afro tech artist based in Portugal, with 26 gigs on soundcheck across Amsterdam, Basel, Lisbon and London and 3 more. Often billed alongside Mr Silk, Studio Bros and DJ Lilocox. Next up: The Steel Yard, London on Fri 5 Feb.
 
@@ -25,4 +25,4 @@ AfroKillerz is an afro house and afro tech artist based in Portugal, with 26 gig
 
 Mr Silk, Studio Bros, DJ Lilocox
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/afrokillerz/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/afrokillerz/)*

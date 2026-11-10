@@ -1,6 +1,6 @@
 # Devilman
 
-Devilman is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Komedia Bath, West-wales on Fri, 18 Dec 2026.
+Devilman is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Komedia Bath, West-wales on Fri, 18 Dec 2026.
 
 Devilman is a drum & bass and bass artist based in United Kingdom, with 14 gigs on soundcheck across Birmingham, Brighton, Bristol and Cardiff and 5 more. Often billed alongside Eksman, Benny L and Ego Trippin. Next up: Komedia Bath, West Wales on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Devilman is a drum & bass and bass artist based in United Kingdom, with 14 gigs 
 
 Eksman, Benny L, Ego Trippin
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/devilman/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/devilman/)*

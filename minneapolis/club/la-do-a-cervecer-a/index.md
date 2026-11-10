@@ -1,6 +1,6 @@
 # La Doña Cervecería
 
-La Doña Cervecería is a music venue in Minneapolis/St Paul with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. The next is "Pinky Swear: One Year Anniversary" on Sat, 19 Dec 2026.
+La Doña Cervecería is a music venue in Minneapolis/St Paul with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. The next is "Pinky Swear: One Year Anniversary" on Sat, 19 Dec 2026.
 
 La Doña Cervecería is a music venue in Minneapolis/St Paul listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ La Doña Cervecería is a music venue in Minneapolis/St Paul listed on soundchec
 | --- | --- | --- |
 | Sat, 19 Dec 2026 | Pinky Swear: One Year Anniversary |  |
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/minneapolis/club/la-do-a-cervecer-a/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/minneapolis/club/la-do-a-cervecer-a/)*

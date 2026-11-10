@@ -1,6 +1,6 @@
 # Diversion presents: With Love From The Underground at Onyx (E1)
 
-Diversion presents: With Love From The Underground at Onyx (E1) on Sat 19 Dec, London. 8 artists: Bluck, JAY-MO, Nizan and Pinks and 4 more. Drum & Bass and Jungle. See the line-up on soundcheck.
+Diversion presents: With Love From The Underground at Onyx (E1) on Sat 19 Dec, London. 9 artists: Bluck, Degs, JAY-MO and Nizan and 5 more. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Diversion presents: With Love From The Underground at Onyx (E1) on Sat 19 Dec, L
 ## Line-up
 
 - Bluck
+- Degs
 - JAY-MO
 - Nizan
 - Pinks

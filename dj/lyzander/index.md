@@ -1,6 +1,6 @@
 # LYZANDER
 
-LYZANDER is a Dubstep and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Bag Factory, Manchester on Sun, 29 Nov 2026.
+LYZANDER is a Dubstep and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Bag Factory, Manchester on Sun, 29 Nov 2026.
 
 LYZANDER is a dubstep and techno artist based in United Kingdom, with 10 gigs on soundcheck across Bristol, London and Manchester. Often billed alongside Ifeoluwa, Princess Xixi and Alif Hilal. Next up: The Bag Factory, Manchester on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ LYZANDER is a dubstep and techno artist based in United Kingdom, with 10 gigs on
 
 Ifeoluwa, Princess Xixi, Alif Hilal
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lyzander/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lyzander/)*

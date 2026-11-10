@@ -1,6 +1,6 @@
 # hiro (CZ)
 
-hiro (CZ) is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Bukanyr Boat, Prague on Sat, 19 Dec 2026.
+hiro (CZ) is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Bukanyr Boat, Prague on Sat, 19 Dec 2026.
 
 hiro (CZ) is a techno and progressive house artist based in Czech Republic, with 4 gigs on soundcheck across Prague. Often billed alongside ASCENDER, Jan Nedved and Braxton. Next up: Bukanyr Boat, Prague on Sat 19 Dec.
 
@@ -20,4 +20,4 @@ hiro (CZ) is a techno and progressive house artist based in Czech Republic, with
 
 ASCENDER, Jan Nedved, Braxton
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hirocz/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hirocz/)*

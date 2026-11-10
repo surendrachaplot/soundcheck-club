@@ -1,6 +1,6 @@
 # Babour Sauvage
 
-Babour Sauvage is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Void x series invites Minube" on Sat, 14 Nov 2026.
+Babour Sauvage is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Void x series invites Minube" on Sat, 14 Nov 2026.
 
 Babour Sauvage is a music venue in Paris listed on soundcheck. 2 upcoming gigs, with line-ups including Any Yugël, Daymount, Fawzi Adjan and Minube and 1 more. See dates, start times and who's playing. 59 Bd Macdonald, 75019 Paris.
 
@@ -15,4 +15,4 @@ Babour Sauvage is a music venue in Paris listed on soundcheck. 2 upcoming gigs, 
 
 59 Bd Macdonald, 75019 Paris, Paris
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/babour-sauvage/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/babour-sauvage/)*

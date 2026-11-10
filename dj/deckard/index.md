@@ -1,6 +1,6 @@
 # Deckard
 
-Deckard is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 1 Jan 2027.
+Deckard is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 1 Jan 2027.
 
 Deckard is a house and techno artist based in Spain, with 167 gigs on soundcheck across Barcelona, Bologna, Lyon and Madrid and 3 more. Often billed alongside Fede Zerdan, Zonzo and Bruno (DO). Next up: The Great Northern, San Francisco/Oakland on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Deckard is a house and techno artist based in Spain, with 167 gigs on soundcheck
 
 Fede Zerdan, Zonzo, Bruno (DO)
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deckard/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deckard/)*

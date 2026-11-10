@@ -1,13 +1,14 @@
 # IPOK
 
-IPOK is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Menjo's, Detroit on Sat, 28 Nov 2026.
+IPOK is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Red Eye NY, New York City on Fri, 13 Nov 2026.
 
-IPOK is a techno and house artist, with 33 gigs on soundcheck across Detroit and New York City. Often billed alongside Morabito, Telesforo and autogyro. Next up: Menjo's, Detroit on Sat 28 Nov.
+IPOK is a techno and house artist, with 34 gigs on soundcheck across Detroit and New York City. Often billed alongside Morabito, autogyro and Telesforo. Next up: Red Eye NY, New York City on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | Red Eye NY | New York City |
 | Sat, 28 Nov 2026 | Menjo's | Detroit |
 
 ## Recently played
@@ -23,6 +24,6 @@ IPOK is a techno and house artist, with 33 gigs on soundcheck across Detroit and
 
 ## Shares bills with
 
-Morabito, Telesforo, autogyro
+Morabito, autogyro, Telesforo
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ipok/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ipok/)*

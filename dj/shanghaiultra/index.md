@@ -1,6 +1,6 @@
 # Shanghai Ultra
 
-Shanghai Ultra is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at OIL Club, Shenzhen on Fri, 4 Dec 2026.
+Shanghai Ultra is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at OIL Club, Shenzhen on Fri, 4 Dec 2026.
 
 Shanghai Ultra is a techno and electro artist based in China, with 16 gigs on soundcheck across Shanghai and Shenzhen. Often billed alongside Ma Haiping, NAXIN and Illsee. Next up: OIL Club, Shenzhen on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Shanghai Ultra is a techno and electro artist based in China, with 16 gigs on so
 
 Ma Haiping, NAXIN, Illsee
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shanghaiultra/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shanghaiultra/)*

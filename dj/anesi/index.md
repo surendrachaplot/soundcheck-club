@@ -1,6 +1,6 @@
 # ANESI
 
-ANESI is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Dugattyús, Budapest on Sat, 21 Nov 2026.
+ANESI is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Dugattyús, Budapest on Sat, 21 Nov 2026.
 
 ANESI is a house and techno artist based in Hungary, with 25 gigs on soundcheck across Budapest. Often billed alongside Ratkay, Viktor Bondar and Zorall. Next up: Dugattyús, Budapest on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ ANESI is a house and techno artist based in Hungary, with 25 gigs on soundcheck 
 
 Ratkay, Viktor Bondar, Zorall
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anesi/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anesi/)*

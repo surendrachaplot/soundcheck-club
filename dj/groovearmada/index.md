@@ -1,6 +1,6 @@
 # Groove Armada
 
-Groove Armada is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at fabric, London on Fri, 11 Dec 2026.
+Groove Armada is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at fabric, London on Fri, 11 Dec 2026.
 
 Groove Armada is a house and disco artist based in United Kingdom, with 89 gigs on soundcheck across Antwerp, Athens, Auckland and Austria and 22 more. Often billed alongside Eats Everything, The Shapeshifters and Melvo Baptiste. Next up: fabric, London on Fri 11 Dec.
 
@@ -29,4 +29,4 @@ Groove Armada is a house and disco artist based in United Kingdom, with 89 gigs 
 
 Eats Everything, The Shapeshifters, Melvo Baptiste
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/groovearmada/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/groovearmada/)*

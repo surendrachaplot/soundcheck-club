@@ -1,8 +1,8 @@
 # Josiane
 
-Josiane is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Open Ground, Wuppertal on Sat, 14 Nov 2026.
+Josiane is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Open Ground, Wuppertal on Sat, 14 Nov 2026.
 
-Josiane is a house and techno artist based in Germany, with 133 gigs on soundcheck across Baden W Rttemberg, Berlin, Cologne and Dortmund / Essen and 7 more. Often billed alongside Lena Brecht, LeVe and Mad Shivers. Next up: Open Ground, Wuppertal on Sat 14 Nov.
+Josiane is a house and techno artist based in Germany, with 134 gigs on soundcheck across Baden W Rttemberg, Berlin, Cologne and Dortmund / Essen and 7 more. Often billed alongside Lena Brecht, LeVe and Mad Shivers. Next up: Open Ground, Wuppertal on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Josiane is a house and techno artist based in Germany, with 133 gigs on soundche
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Open Ground | Wuppertal |
 | Fri, 20 Nov 2026 | Neue Welle | Leipzig |
+| Fri, 4 Dec 2026 | Paloma | Berlin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Josiane is a house and techno artist based in Germany, with 133 gigs on soundche
 
 Lena Brecht, LeVe, Mad Shivers
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/josiane/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/josiane/)*

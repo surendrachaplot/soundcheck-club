@@ -1,6 +1,6 @@
 # Wilkinson
 
-Wilkinson is a Drum & Bass and Bass artist with 7 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at The Prospect Building, Bristol on Sat, 14 Nov 2026.
+Wilkinson is a Drum & Bass and Bass artist with 7 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at The Prospect Building, Bristol on Sat, 14 Nov 2026.
 
 Wilkinson is a drum & bass and bass artist based in United Kingdom, with 89 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Austin and 41 more. Often billed alongside Andy C, Kanine and Mozey. Next up: The Prospect Building, Bristol on Sat 14 Nov.
 
@@ -9,7 +9,7 @@ Wilkinson is a drum & bass and bass artist based in United Kingdom, with 89 gigs
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | The Prospect Building | Bristol |
-| Sat, 5 Dec 2026 | The Nest | Nottingham |
+| Fri, 4 Dec 2026 | The Nest | Nottingham |
 | Fri, 15 Jan 2027 | D! Club | Lausanne |
 | Fri, 15 Jan 2027 | D! Club | Lausanne |
 | Sat, 16 Jan 2027 | MÄX | Zurich |
@@ -31,4 +31,4 @@ Wilkinson is a drum & bass and bass artist based in United Kingdom, with 89 gigs
 
 Andy C, Kanine, Mozey
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wilkinson/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wilkinson/)*

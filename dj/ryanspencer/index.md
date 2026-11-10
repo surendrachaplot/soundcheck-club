@@ -1,6 +1,6 @@
 # Ryan Spencer
 
-Ryan Spencer is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Bambi's, Toronto on Fri, 20 Nov 2026.
+Ryan Spencer is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Bambi's, Toronto on Fri, 20 Nov 2026.
 
 Ryan Spencer is a house and techno artist based in United States of America, with 270 gigs on soundcheck across Detroit, Los Angeles, Montreal and New York City and 1 more. Often billed alongside Shigeto, Tammy Lakkis and Charles Trees. Next up: Bambi's, Toronto on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Ryan Spencer is a house and techno artist based in United States of America, wit
 
 Shigeto, Tammy Lakkis, Charles Trees
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanspencer/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanspencer/)*

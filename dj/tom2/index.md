@@ -1,6 +1,6 @@
 # tom2
 
-tom2 is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Wakuwaku Panic, Tokyo on Sat, 21 Nov 2026.
+tom2 is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Wakuwaku Panic, Tokyo on Sat, 21 Nov 2026.
 
 tom2 is a house and deep house artist based in Japan, with 72 gigs on soundcheck across Kyoto, Okinawa, Osaka and Tokyo. Often billed alongside --- mr ---, Zeqoo and UUUKi. Next up: Wakuwaku Panic, Tokyo on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ tom2 is a house and deep house artist based in Japan, with 72 gigs on soundcheck
 
 --- mr ---, Zeqoo, UUUKi
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tom2/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tom2/)*

@@ -1,6 +1,6 @@
 # KUSS
 
-KUSS is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at essaim, Paris on Tue, 10 Nov 2026.
+KUSS is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at essaim, Paris on Tue, 10 Nov 2026.
 
 KUSS is a techno and house artist based in France, with 143 gigs on soundcheck across Amsterdam, Athens, Berlin and Bogotá and 36 more. Often billed alongside Sicion, Koboyo and RUIZ OSC1. Next up: essaim, Paris on Tue 10 Nov.
 
@@ -32,4 +32,4 @@ KUSS is a techno and house artist based in France, with 143 gigs on soundcheck a
 
 Sicion, Koboyo, RUIZ OSC1
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kuss/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kuss/)*

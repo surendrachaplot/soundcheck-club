@@ -1,6 +1,6 @@
 # Buds Buzzy
 
-Buds Buzzy is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Le Romandie, Lausanne on Sat, 21 Nov 2026.
+Buds Buzzy is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Le Romandie, Lausanne on Sat, 21 Nov 2026.
 
 Buds Buzzy is a techno and house artist based in Switzerland, with 28 gigs on soundcheck across Berlin, Geneva and Lausanne. Often billed alongside Hyperaktivist, Ziri and mimetic. Next up: Le Romandie, Lausanne on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Buds Buzzy is a techno and house artist based in Switzerland, with 28 gigs on so
 
 Hyperaktivist, Ziri, mimetic
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/budsbuzzy/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/budsbuzzy/)*

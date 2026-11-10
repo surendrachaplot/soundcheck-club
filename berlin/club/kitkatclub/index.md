@@ -1,6 +1,6 @@
 # KitKatClub
 
-KitKatClub is a music venue in Berlin with 26 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Electric Monday@KitKat" on Mon, 9 Nov 2026.
+KitKatClub is a music venue in Berlin with 26 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Electric Monday@KitKat" on Mon, 9 Nov 2026.
 
 KitKatClub is a music venue in Berlin listed on soundcheck. 26 upcoming gigs, with line-ups including AAguilAA, ADAM MUNNINGS, androgienia and Ari Denaro and 2 more. See dates, start times and who's playing. Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany.
 
@@ -23,4 +23,4 @@ KitKatClub is a music venue in Berlin listed on soundcheck. 26 upcoming gigs, wi
 
 Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany, Berlin
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kitkatclub/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kitkatclub/)*

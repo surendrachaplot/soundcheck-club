@@ -1,6 +1,6 @@
 # Kaj.O
 
-Kaj.O is a Drum & Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Butelkownia, Warsaw on Tue, 10 Nov 2026.
+Kaj.O is a Drum & Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Butelkownia, Warsaw on Tue, 10 Nov 2026.
 
 Kaj.O is a drum & bass and breakbeat artist based in Poland, with 11 gigs on soundcheck across Krakow, Poznan, Warsaw and Wroclaw. Often billed alongside Solin, shhron and Adnable. Next up: Butelkownia, Warsaw on Tue 10 Nov.
 
@@ -25,4 +25,4 @@ Kaj.O is a drum & bass and breakbeat artist based in Poland, with 11 gigs on sou
 
 Solin, shhron, Adnable
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaj.o/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaj.o/)*

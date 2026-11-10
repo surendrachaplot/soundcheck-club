@@ -1,6 +1,6 @@
 # levolant
 
-levolant is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Mitsuki, Tokyo on Thu, 12 Nov 2026.
+levolant is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Mitsuki, Tokyo on Thu, 12 Nov 2026.
 
 levolant is a techno and house artist based in Japan, with 162 gigs on soundcheck across Bangkok, Hanoi, Hong Kong and Jakarta and 4 more. Often billed alongside Satoshi Otsuki, DJ Shibata and Celter. Next up: Mitsuki, Tokyo on Thu 12 Nov.
 
@@ -29,4 +29,4 @@ levolant is a techno and house artist based in Japan, with 162 gigs on soundchec
 
 Satoshi Otsuki, DJ Shibata, Celter
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/levolant/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/levolant/)*

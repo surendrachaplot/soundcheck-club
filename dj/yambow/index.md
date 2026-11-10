@@ -1,6 +1,6 @@
 # Yambow
 
-Yambow is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Vino Disco, Montreal on Fri, 13 Nov 2026.
+Yambow is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Vino Disco, Montreal on Fri, 13 Nov 2026.
 
 Yambow is a house and disco artist based in France, with 27 gigs on soundcheck across Montreal, New York City and Paris. Often billed alongside Pierrinski, Laila Amira and Marbré. Next up: Vino Disco, Montreal on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Yambow is a house and disco artist based in France, with 27 gigs on soundcheck a
 
 Pierrinski, Laila Amira, Marbré
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yambow/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yambow/)*

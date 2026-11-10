@@ -1,6 +1,6 @@
 # Garagen
 
-Garagen is a music venue in Cologne with 5 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "TECHNOLIEBE #AFTERWORK" on Wed, 4 Nov 2026.
+Garagen is a music venue in Cologne with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "TECHNOLIEBE #AFTERWORK" on Wed, 4 Nov 2026.
 
 Garagen is a music venue in Cologne listed on soundcheck. 5 upcoming gigs, with line-ups including AREA ØNE, DAESU, Daniel Noah and Mietze Conte. See dates, start times and who's playing. Oskar-Jäger-Straße 179, 50825 Köln.
 
@@ -18,4 +18,4 @@ Garagen is a music venue in Cologne listed on soundcheck. 5 upcoming gigs, with 
 
 Oskar-Jäger-Straße 179, 50825 Köln, Cologne
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/garagen/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/garagen/)*

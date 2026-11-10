@@ -1,6 +1,6 @@
 # DJ Sarah Bonito
 
-DJ Sarah Bonito is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at The Cause, London on Fri, 13 Nov 2026.
+DJ Sarah Bonito is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at The Cause, London on Fri, 13 Nov 2026.
 
 DJ Sarah Bonito is a hardcore and techno artist based in United Kingdom, with 22 gigs on soundcheck across Amsterdam, Berlin, Bristol and Glasgow and 4 more. Often billed alongside Slayphex Twins, PLUSHB4BY and Peggy Viennetta. Next up: The Cause, London on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ DJ Sarah Bonito is a hardcore and techno artist based in United Kingdom, with 22
 
 Slayphex Twins, PLUSHB4BY, Peggy Viennetta
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsarahbonito/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsarahbonito/)*

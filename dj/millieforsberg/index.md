@@ -1,13 +1,14 @@
 # Millie Forsberg
 
-Millie Forsberg is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Elysia, Basel on Sat, 12 Dec 2026.
+Millie Forsberg is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Elysia, Basel on Sat, 12 Dec 2026.
 
-Millie Forsberg is a techno and trance artist based in Germany, with 106 gigs on soundcheck across Basel, Berlin, Cologne and Dresden and 6 more. Often billed alongside DJ Jordan, Melanchromie and Cara Elizabeth. Next up: Elysia, Basel on Sat 12 Dec.
+Millie Forsberg is a techno and trance artist based in Germany, with 107 gigs on soundcheck across Basel, Berlin, Cologne and Dresden and 6 more. Often billed alongside DJ Jordan, Melanchromie and Cara Elizabeth. Next up: Elysia, Basel on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Dec 2026 | Elysia | Basel |
 | Sat, 12 Dec 2026 | Elysia | Basel |
 
 ## Recently played
@@ -25,4 +26,4 @@ Millie Forsberg is a techno and trance artist based in Germany, with 106 gigs on
 
 DJ Jordan, Melanchromie, Cara Elizabeth
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/millieforsberg/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/millieforsberg/)*

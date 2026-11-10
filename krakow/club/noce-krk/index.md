@@ -1,6 +1,6 @@
 # Noce KRK
 
-Noce KRK is a music venue in Krakow with 6 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "TECHNOSESSIONS 05: AM END MAREK (DE), LASKAA, MRV, RAJZ" on Tue, 10 Nov 2026.
+Noce KRK is a music venue in Krakow with 6 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "TECHNOSESSIONS 05: AM END MAREK (DE), LASKAA, MRV, RAJZ" on Tue, 10 Nov 2026.
 
 Noce KRK is a music venue in Krakow listed on soundcheck. 6 upcoming gigs, with line-ups including AB, Adriana Lopez, Aetha and diabot and 2 more. See dates, start times and who's playing. Dajwór 14/16, 31-052 Kraków.
 
@@ -19,4 +19,4 @@ Noce KRK is a music venue in Krakow listed on soundcheck. 6 upcoming gigs, with 
 
 Dajwór 14/16, 31-052 Kraków, Krakow
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/noce-krk/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/noce-krk/)*

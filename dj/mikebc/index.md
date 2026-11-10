@@ -1,6 +1,6 @@
 # Mike BC
 
-Mike BC is a Acid and Downtempo artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Outlaws Yacht Club, Leeds on Sun, 15 Nov 2026.
+Mike BC is a Acid and Downtempo artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Outlaws Yacht Club, Leeds on Sun, 15 Nov 2026.
 
 Mike BC is an acid and downtempo artist based in United Kingdom, with 29 gigs on soundcheck across Leeds and Manchester. Often billed alongside Simon Scott, edv3ctor and Annie Errez. Next up: Outlaws Yacht Club, Leeds on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Mike BC is an acid and downtempo artist based in United Kingdom, with 29 gigs on
 
 Simon Scott, edv3ctor, Annie Errez
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikebc/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikebc/)*

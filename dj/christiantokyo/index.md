@@ -1,6 +1,6 @@
 # Christian Tokyo
 
-Christian Tokyo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Greenpoint, New York City on Sat, 14 Nov 2026.
+Christian Tokyo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Greenpoint, New York City on Sat, 14 Nov 2026.
 
 Christian Tokyo is a techno and house artist based in United States of America, with 69 gigs on soundcheck across Berlin, Boston, Istanbul and New York City and 1 more. Often billed alongside Devoye, JADALAREIGN and Jedai. Next up: TBA - Greenpoint, New York City on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Christian Tokyo is a techno and house artist based in United States of America, 
 
 Devoye, JADALAREIGN, Jedai
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/christiantokyo/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/christiantokyo/)*

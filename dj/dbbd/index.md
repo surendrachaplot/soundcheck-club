@@ -1,6 +1,6 @@
 # DBBD
 
-DBBD is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at DSTRKT Club Berlin, Berlin on Fri, 27 Nov 2026.
+DBBD is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at DSTRKT Club Berlin, Berlin on Fri, 27 Nov 2026.
 
 DBBD is a techno and trance artist based in Germany, with 109 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Miss Bashful, Miss Bashful x DBBD and MCR-T. Next up: DSTRKT Club Berlin, Berlin on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ DBBD is a techno and trance artist based in Germany, with 109 gigs on soundcheck
 
 Miss Bashful, Miss Bashful x DBBD, MCR-T
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dbbd/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dbbd/)*

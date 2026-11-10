@@ -1,6 +1,6 @@
 # DR 4SKYN
 
-DR 4SKYN is a House and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Resonnce, Hamilton on Sat, 14 Nov 2026.
+DR 4SKYN is a House and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Resonnce, Hamilton on Sat, 14 Nov 2026.
 
 DR 4SKYN is a house and club artist based in Canada, with 15 gigs on soundcheck across Hamilton and Toronto. Often billed alongside XANGA, Delicious DJ and EMRYSLAZULI. Next up: Resonnce, Hamilton on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ DR 4SKYN is a house and club artist based in Canada, with 15 gigs on soundcheck 
 
 XANGA, Delicious DJ, EMRYSLAZULI
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dr4skyn/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dr4skyn/)*

@@ -1,6 +1,6 @@
 # BAR.ONE
 
-BAR.ONE is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Zemin Art Gallery, Berlin on Fri, 13 Nov 2026.
+BAR.ONE is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Zemin Art Gallery, Berlin on Fri, 13 Nov 2026.
 
 BAR.ONE is a techno and ambient artist based in Italy, with 3 gigs on soundcheck across Berlin and Seoul. Often billed alongside Enursli, Holo and KAISENDON. Next up: Zemin Art Gallery, Berlin on Fri 13 Nov.
 
@@ -19,4 +19,4 @@ BAR.ONE is a techno and ambient artist based in Italy, with 3 gigs on soundcheck
 
 Enursli, Holo (2), KAISENDON
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bar.one/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bar.one/)*

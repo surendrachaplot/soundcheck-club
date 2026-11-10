@@ -1,14 +1,14 @@
 # pudding
 
-pudding is a Minimal and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Inner City Location, Brisbane on Sat, 14 Nov 2026.
+pudding is a Minimal and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Bonnie Doon Public House, Brisbane on Sat, 14 Nov 2026.
 
-pudding is a minimal and techno artist based in Australia, with 7 gigs on soundcheck across Brisbane. Often billed alongside creasedvenetian, Ben Kamal and Foxtrot. Next up: TBA - Inner City Location, Brisbane on Sat 14 Nov.
+pudding is a minimal and techno artist based in Australia, with 7 gigs on soundcheck across Brisbane. Often billed alongside creasedvenetian, Ben Kamal and Foxtrot. Next up: Bonnie Doon Public House, Brisbane on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | TBA - Inner City Location | Brisbane |
+| Sat, 14 Nov 2026 | Bonnie Doon Public House | Brisbane |
 
 ## Recently played
 
@@ -23,4 +23,4 @@ pudding is a minimal and techno artist based in Australia, with 7 gigs on soundc
 
 creasedvenetian, Ben Kamal, Foxtrot (2)
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pudding/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pudding/)*

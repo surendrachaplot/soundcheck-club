@@ -1,6 +1,6 @@
 # Nikol
 
-Nikol is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Eastern Bloc Records, Manchester on Sat, 14 Nov 2026.
+Nikol is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Eastern Bloc Records, Manchester on Sat, 14 Nov 2026.
 
 Nikol is a house and tech house artist based in United Kingdom, with 33 gigs on soundcheck across Barcelona, Berlin, Leeds and London and 1 more. Often billed alongside .cosm, Etienne Groh and Alex Picone. Next up: Eastern Bloc Records, Manchester on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Nikol is a house and tech house artist based in United Kingdom, with 33 gigs on 
 
 .cosm, Etienne Groh, Alex Picone
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nikol/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nikol/)*

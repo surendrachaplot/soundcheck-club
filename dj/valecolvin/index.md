@@ -1,6 +1,6 @@
 # Vale Colvin
 
-Vale Colvin is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Golden Gate, Berlin on Fri, 13 Nov 2026.
+Vale Colvin is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Golden Gate, Berlin on Fri, 13 Nov 2026.
 
 Vale Colvin is a house and techno artist based in Chile, with 14 gigs on soundcheck across Berlin and Santiago. Often billed alongside Foehn & Jerome, Dea and Finona Rider. Next up: Golden Gate, Berlin on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Vale Colvin is a house and techno artist based in Chile, with 14 gigs on soundch
 
 Foehn & Jerome, Dea (6), Finona Rider
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/valecolvin/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/valecolvin/)*

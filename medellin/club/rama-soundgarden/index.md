@@ -1,6 +1,6 @@
 # Rama Soundgarden
 
-Rama Soundgarden is a music venue in Medellin with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "RTS.FM W/ Denis Kaznacheev (Nervmusic, RU)" on Fri, 13 Nov 2026.
+Rama Soundgarden is a music venue in Medellin with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "RTS.FM W/ Denis Kaznacheev (Nervmusic, RU)" on Fri, 13 Nov 2026.
 
 Rama Soundgarden is a music venue in Medellin listed on soundcheck. 3 upcoming gigs, with line-ups including Alvaro Medina, Denis Kaznacheev, D Jaguar and DJ WINDOWS 7 and 2 more. See dates, start times and who's playing. Cr48#10-70 El Poblado, (Manila) - Medellin.
 
@@ -16,4 +16,4 @@ Rama Soundgarden is a music venue in Medellin listed on soundcheck. 3 upcoming g
 
 Cr48#10-70 El Poblado, (Manila) - Medellin, Medellin
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/medellin/club/rama-soundgarden/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/medellin/club/rama-soundgarden/)*

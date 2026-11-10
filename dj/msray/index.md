@@ -1,6 +1,6 @@
 # Ms Ray
 
-Ms Ray is a Pop and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Medane Beach, Croatia on Thu, 17 Jun 2027.
+Ms Ray is a Pop and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Medane Beach, Croatia on Thu, 17 Jun 2027.
 
 Ms Ray is a pop and electronica artist based in United Kingdom, with 5 gigs on soundcheck across Berlin, Bristol, Croatia and Leeds and 1 more. Often billed alongside 96 Back, A Good Year and Alex Wilcox. Next up: Medane Beach, Croatia on Thu 17 Jun.
 
@@ -21,4 +21,4 @@ Ms Ray is a pop and electronica artist based in United Kingdom, with 5 gigs on s
 
 96 Back, A Good Year, Alex Wilcox
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/msray/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/msray/)*

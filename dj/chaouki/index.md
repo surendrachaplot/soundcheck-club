@@ -1,0 +1,28 @@
+# Chaouki Alba
+
+Chaouki Alba is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at BCA Cyclorama, Boston on Fri, 13 Nov 2026.
+
+Chaouki Alba is a house and techno artist based in Morocco, with 36 gigs on soundcheck across Boston and New York City. Often billed alongside Rasaaq, Bintokin and Joe Rizk. Next up: BCA Cyclorama, Boston on Fri 13 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 13 Nov 2026 | BCA Cyclorama | Boston |
+
+## Recently played
+
+- TBA - Secret Warehouse Location, Boston · Sat, 26 Sept 2026
+- TBA - 8 Copley Street, Roxbury MA, Boston · Sat, 22 Aug 2026
+- Institute of Contemporary Art, Boston · Fri, 21 Aug 2026
+- Mansions, New York City · Sat, 1 Aug 2026
+- TBA - Charlestown Navy Yard, Boston · Sat, 11 Jul 2026
+- TBA - Secret Warehouse Location, Boston · Sat, 20 Jun 2026
+- Green Room NYC, New York City · Sat, 13 Jun 2026
+- TBA - Secret Warehouse Location, Boston · Sat, 2 May 2026
+
+## Shares bills with
+
+Rasaaq, Bintokin, Joe Rizk
+
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chaouki/)*

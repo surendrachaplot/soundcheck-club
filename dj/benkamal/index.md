@@ -1,6 +1,6 @@
 # Ben Kamal
 
-Ben Kamal is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA, Sydney on Fri, 13 Nov 2026.
+Ben Kamal is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA, Sydney on Fri, 13 Nov 2026.
 
 Ben Kamal is a house and techno artist based in Belgium, with 57 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brisbane and 11 more. Often billed alongside Lola Haro, Dana Kuehr and Walrus. Next up: TBA, Sydney on Fri 13 Nov.
 
@@ -9,7 +9,7 @@ Ben Kamal is a house and techno artist based in Belgium, with 57 gigs on soundch
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | TBA | Sydney |
-| Sat, 14 Nov 2026 | TBA - Inner City Location | Brisbane |
+| Sat, 14 Nov 2026 | Bonnie Doon Public House | Brisbane |
 | Fri, 20 Nov 2026 | Amigo | Ghent |
 
 ## Recently played
@@ -27,4 +27,4 @@ Ben Kamal is a house and techno artist based in Belgium, with 57 gigs on soundch
 
 Lola Haro, Dana Kuehr, Walrus
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benkamal/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benkamal/)*

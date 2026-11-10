@@ -1,6 +1,6 @@
 # Bolero: STAY HIGH presents DIORVSYOU LIVE IN SEOUL at Bolero
 
-Bolero: STAY HIGH presents DIORVSYOU LIVE IN SEOUL on Sun 22 Nov, Seoul. Club. See the line-up on soundcheck.
+Bolero: STAY HIGH presents DIORVSYOU LIVE IN SEOUL on Sun 22 Nov, Seoul. Hip-Hop and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

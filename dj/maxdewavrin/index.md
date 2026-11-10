@@ -1,6 +1,6 @@
 # Max Dewavrin
 
-Max Dewavrin is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at La Gare / Le Gore, Paris on Thu, 26 Nov 2026.
+Max Dewavrin is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at La Gare / Le Gore, Paris on Thu, 26 Nov 2026.
 
 Max Dewavrin is a techno and house artist based in France, with 21 gigs on soundcheck across Berlin, Cape Town, Cologne and Ljubljana and 2 more. Often billed alongside Ogazón, OPH and VICE/VERSA. Next up: La Gare / Le Gore, Paris on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Max Dewavrin is a techno and house artist based in France, with 21 gigs on sound
 
 Ogazón, OPH, VICE/VERSA
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxdewavrin/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxdewavrin/)*

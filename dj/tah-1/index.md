@@ -1,14 +1,15 @@
 # Tah (1)
 
-Tah (1) is a Club and Ghetto Tech artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at M.O.T, London on Thu, 12 Nov 2026.
+Tah (1) is a Club and Ghetto Tech artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at M.O.T, London on Thu, 12 Nov 2026.
 
-Tah is a club and ghetto tech artist based in United States of America, with 49 gigs on soundcheck across Baltimore, Berlin, Cape Town and Detroit and 7 more. Often billed alongside CalvoMusic, ARCHANGEL (US) and purp. Next up: M.O.T, London on Thu 12 Nov.
+Tah is a club and ghetto tech artist based in United States of America, with 50 gigs on soundcheck across Baltimore, Berlin, Cape Town and Detroit and 8 more. Often billed alongside CalvoMusic, ARCHANGEL (US) and purp. Next up: M.O.T, London on Thu 12 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 12 Nov 2026 | M.O.T | London |
+| Fri, 20 Nov 2026 | Sneaky Pete's | Edinburgh |
 | Sat, 21 Nov 2026 | Chausseestrasse 131 | Berlin |
 | Fri, 4 Dec 2026 | Dalston Den | London |
 
@@ -27,4 +28,4 @@ Tah is a club and ghetto tech artist based in United States of America, with 49 
 
 CalvoMusic, ARCHANGEL (US), purp
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tah-1/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tah-1/)*

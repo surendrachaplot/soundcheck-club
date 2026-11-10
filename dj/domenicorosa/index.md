@@ -1,6 +1,6 @@
 # Domenico Rosa
 
-Domenico Rosa is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Basic Club, Naples on Fri, 13 Nov 2026.
+Domenico Rosa is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Basic Club, Naples on Fri, 13 Nov 2026.
 
 Domenico Rosa is an electro and house artist based in Italy, with 48 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bologna and 7 more. Often billed alongside Marcolino, GNMR and Giammarco Orsini. Next up: Basic Club, Naples on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Domenico Rosa is an electro and house artist based in Italy, with 48 gigs on sou
 
 Marcolino, GNMR, Giammarco Orsini
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/domenicorosa/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/domenicorosa/)*

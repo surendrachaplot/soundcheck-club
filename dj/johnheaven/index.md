@@ -1,14 +1,15 @@
 # John Heaven
 
-John Heaven is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Razzmatazz, Barcelona on Fri, 13 Nov 2026.
+John Heaven is a Electronica and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Razzmatazz, Barcelona on Fri, 13 Nov 2026.
 
-John Heaven is an electronica and house artist based in Spain, with 55 gigs on soundcheck across Barcelona, Berlin and Madrid. Often billed alongside Nile Fee, Daniel 2000 and Marcelo Pantani. Next up: Razzmatazz, Barcelona on Fri 13 Nov.
+John Heaven is an electronica and house artist based in Spain, with 56 gigs on soundcheck across Barcelona, Berlin and Madrid. Often billed alongside Nile Fee, Daniel 2000 and Marcelo Pantani. Next up: Razzmatazz, Barcelona on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Razzmatazz | Barcelona |
+| Fri, 13 Nov 2026 | Bridge 48 | Barcelona |
 | Fri, 27 Nov 2026 | Razzmatazz | Barcelona |
 
 ## Recently played
@@ -26,4 +27,4 @@ John Heaven is an electronica and house artist based in Spain, with 55 gigs on s
 
 Nile Fee, Daniel 2000, Marcelo Pantani
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johnheaven/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johnheaven/)*

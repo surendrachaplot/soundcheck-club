@@ -1,6 +1,6 @@
 # Gui (PT)
 
-Gui (PT) is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Planet Wax, London on Sat, 21 Nov 2026.
+Gui (PT) is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Planet Wax, London on Sat, 21 Nov 2026.
 
 Gui (PT) is a drum & bass and jungle artist, with 10 gigs on soundcheck across Amsterdam, Brighton, London and Oslo and 2 more. Often billed alongside MYNX, Woody92 and ADHI. Next up: Planet Wax, London on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Gui (PT) is a drum & bass and jungle artist, with 10 gigs on soundcheck across A
 
 MYNX, Woody92, ADHI
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gui/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gui/)*

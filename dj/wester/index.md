@@ -1,6 +1,6 @@
 # Wester
 
-Wester is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA, Buenos Aires on Sat, 14 Nov 2026.
+Wester is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA, Buenos Aires on Sat, 14 Nov 2026.
 
 Wester is a techno and minimal techno artist, with 5 gigs on soundcheck across Buenos Aires. Often billed alongside Bruno Ledesma, Gonzalo Trejo and Gresil. Next up: TBA, Buenos Aires on Sat 14 Nov.
 
@@ -21,4 +21,4 @@ Wester is a techno and minimal techno artist, with 5 gigs on soundcheck across B
 
 Bruno Ledesma, Gonzalo Trejo, Gresil
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wester/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wester/)*

@@ -1,6 +1,6 @@
 # Vv Pete
 
-Vv Pete is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Brooman NSW, Sydney on Fri, 27 Nov 2026.
+Vv Pete is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Brooman NSW, Sydney on Fri, 27 Nov 2026.
 
 Vv Pete is a house and club artist based in Australia, with 32 gigs on soundcheck across Amsterdam, Berlin, Brussels and Egypt and 7 more. Often billed alongside UTILITY, Brodinski and DJ PGZ. Next up: TBA - Brooman NSW, Sydney on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Vv Pete is a house and club artist based in Australia, with 32 gigs on soundchec
 
 UTILITY, Brodinski, DJ PGZ
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vvpete/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vvpete/)*

@@ -1,6 +1,6 @@
 # Ratkay
 
-Ratkay is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Vektor - The Klub, Budapest on Fri, 13 Nov 2026.
+Ratkay is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Vektor - The Klub, Budapest on Fri, 13 Nov 2026.
 
 Ratkay is a house and techno artist, with 101 gigs on soundcheck across Budapest, Ibiza and Vienna. Often billed alongside Viktor Bondar, StereoStrip and ANESI. Next up: Vektor - The Klub, Budapest on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Ratkay is a house and techno artist, with 101 gigs on soundcheck across Budapest
 
 Viktor Bondar, StereoStrip, ANESI
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ratkay/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ratkay/)*

@@ -1,6 +1,6 @@
 # Mimi Love
 
-Mimi Love is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Südpol, Hamburg on Fri, 27 Nov 2026.
+Mimi Love is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Südpol, Hamburg on Fri, 27 Nov 2026.
 
 Mimi Love is a house and techno artist based in Germany, with 107 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cape Town and 21 more. Often billed alongside Franca, Britta Arnold and Sven Dohse. Next up: Südpol, Hamburg on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Mimi Love is a house and techno artist based in Germany, with 107 gigs on soundc
 
 Franca, Britta Arnold, Sven Dohse
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mimilove/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mimilove/)*

@@ -1,6 +1,6 @@
 # Vinylsurfer
 
-Vinylsurfer is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Am Hawerkamp, Münster on Fri, 11 Dec 2026.
+Vinylsurfer is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Am Hawerkamp, Münster on Fri, 11 Dec 2026.
 
 Vinylsurfer is a tech house and techno artist based in Germany, with 8 gigs on soundcheck across Dortmund / Essen, Leipzig and Münster. Often billed alongside Purple Palms, Roxy Nox and Tim Andresen. Next up: Am Hawerkamp, Münster on Fri 11 Dec.
 
@@ -24,4 +24,4 @@ Vinylsurfer is a tech house and techno artist based in Germany, with 8 gigs on s
 
 Purple Palms, Roxy Nox, Tim Andresen
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vinylsurfer/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vinylsurfer/)*

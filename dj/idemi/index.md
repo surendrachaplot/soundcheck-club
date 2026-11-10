@@ -1,8 +1,8 @@
 # IDEMI
 
-IDEMI is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 20 Nov 2026.
+IDEMI is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 20 Nov 2026.
 
-IDEMI is a house and tech house artist based in United Kingdom, with 27 gigs on soundcheck across Aberdeen, Amsterdam, Austin and Brisbane and 15 more. Often billed alongside Marsolo, Chris Stussy and DJ Gigola. Next up: Shelter Amsterdam, Amsterdam on Fri 20 Nov.
+IDEMI is a house and tech house artist based in United Kingdom, with 27 gigs on soundcheck across Aberdeen, Amsterdam, Austin and Brisbane and 15 more. Often billed alongside Marsolo, CHRIS STASSY and DJ Gigola. Next up: Shelter Amsterdam, Amsterdam on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ IDEMI is a house and tech house artist based in United Kingdom, with 27 gigs on 
 
 ## Shares bills with
 
-Marsolo, Chris Stussy, DJ Gigola
+Marsolo, CHRIS STASSY, DJ Gigola
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/idemi/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/idemi/)*

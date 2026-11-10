@@ -1,6 +1,6 @@
 # Trayzonne
 
-Trayzonne is a Dubstep artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Jh Alleman, Brussels on Sat, 28 Nov 2026.
+Trayzonne is a Dubstep artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Jh Alleman, Brussels on Sat, 28 Nov 2026.
 
 Trayzonne is a dubstep artist, with 6 gigs on soundcheck across Brussels. Often billed alongside Oxtazz, Auk. and Ce$ar. Next up: Jh Alleman, Brussels on Sat 28 Nov.
 
@@ -22,4 +22,4 @@ Trayzonne is a dubstep artist, with 6 gigs on soundcheck across Brussels. Often 
 
 Oxtazz, Auk., Ce$ar
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trayzonne/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trayzonne/)*

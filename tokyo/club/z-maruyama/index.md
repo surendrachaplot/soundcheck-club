@@ -1,6 +1,6 @@
 # Z Maruyama
 
-Z Maruyama is a music venue in Tokyo with 12 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "FLAT401: DIG DEEPER (TECHNO)" on Thu, 12 Nov 2026.
+Z Maruyama is a music venue in Tokyo with 12 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "FLAT401: DIG DEEPER (TECHNO)" on Thu, 12 Nov 2026.
 
 Z Maruyama is a music venue in Tokyo listed on soundcheck. 12 upcoming gigs, with line-ups including ACHIRI, AHREUM, ASSIGN and Chihoshi and 2 more. See dates, start times and who's playing. 1F 2-4 Maruyamacho Shibuya-ku Tokyo 150-0044.
 
@@ -23,4 +23,4 @@ Z Maruyama is a music venue in Tokyo listed on soundcheck. 12 upcoming gigs, wit
 
 1F 2-4 Maruyamacho Shibuya-ku Tokyo 150-0044, Tokyo
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/z-maruyama/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/z-maruyama/)*

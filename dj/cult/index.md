@@ -1,6 +1,6 @@
 # CULT
 
-CULT is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Wigwam, Dublin on Fri, 27 Nov 2026.
+CULT is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Wigwam, Dublin on Fri, 27 Nov 2026.
 
 CULT is a techno and house artist based in Ireland, with 46 gigs on soundcheck across Amsterdam, Belfast, Berlin and Dortmund / Essen and 12 more. Often billed alongside Dylan Fogarty, Dahveed and Erik Burka. Next up: Wigwam, Dublin on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ CULT is a techno and house artist based in Ireland, with 46 gigs on soundcheck a
 
 Dylan Fogarty, Dahveed, Erik Burka
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cult/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cult/)*

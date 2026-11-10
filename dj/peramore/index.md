@@ -1,6 +1,6 @@
 # PERAMORE
 
-PERAMORE is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at OT301, Amsterdam on Sat, 28 Nov 2026.
+PERAMORE is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at OT301, Amsterdam on Sat, 28 Nov 2026.
 
 PERAMORE is a techno and electronica artist based in Netherlands, with 5 gigs on soundcheck across Amsterdam and Turin. Often billed alongside Lorenzo Donato, Whatsthepro and ARIHA. Next up: OT301, Amsterdam on Sat 28 Nov.
 
@@ -21,4 +21,4 @@ PERAMORE is a techno and electronica artist based in Netherlands, with 5 gigs on
 
 Lorenzo Donato, Whatsthepro, ARIHA
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peramore/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peramore/)*

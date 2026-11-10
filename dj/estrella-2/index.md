@@ -1,6 +1,6 @@
 # ESTRELLA
 
-ESTRELLA is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Doka, Amsterdam on Sat, 14 Nov 2026.
+ESTRELLA is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Doka, Amsterdam on Sat, 14 Nov 2026.
 
 ESTRELLA is a house and techno artist based in Netherlands, with 46 gigs on soundcheck across Amsterdam, Berlin, Rotterdam and San Francisco/Oakland and 1 more. Often billed alongside Tsepo, Crinkhoff and nik-ey. Next up: Doka, Amsterdam on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ ESTRELLA is a house and techno artist based in Netherlands, with 46 gigs on soun
 
 Tsepo, Crinkhoff, nik-ey
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/estrella-2/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/estrella-2/)*

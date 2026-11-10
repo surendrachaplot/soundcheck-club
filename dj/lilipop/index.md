@@ -1,6 +1,6 @@
 # lilipop
 
-lilipop is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at DOCK B, Paris on Thu, 31 Dec 2026.
+lilipop is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at DOCK B, Paris on Thu, 31 Dec 2026.
 
 lilipop is a techno and minimal artist based in France, with 16 gigs on soundcheck across Bordeaux and Paris. Often billed alongside AMAYO, Alex Wilcox and Altinbas. Next up: DOCK B, Paris on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ lilipop is a techno and minimal artist based in France, with 16 gigs on soundche
 
 AMAYO, Alex Wilcox, Altinbas
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lilipop/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lilipop/)*

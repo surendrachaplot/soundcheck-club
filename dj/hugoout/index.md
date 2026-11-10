@@ -1,6 +1,6 @@
 # Hugo Out
 
-Hugo Out is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at export, Rotterdam on Fri, 13 Nov 2026.
+Hugo Out is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at export, Rotterdam on Fri, 13 Nov 2026.
 
 Hugo Out is a disco and house artist based in Netherlands, with 17 gigs on soundcheck across Amsterdam and Rotterdam. Often billed alongside Boogie Mind, Pelanoir and Dienaar. Next up: export, Rotterdam on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Hugo Out is a disco and house artist based in Netherlands, with 17 gigs on sound
 
 Boogie Mind, Pelanoir, Dienaar
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hugoout/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hugoout/)*

@@ -1,6 +1,6 @@
 # Anthila
 
-Anthila is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at objekt klein a, Dresden on Fri, 13 Nov 2026.
+Anthila is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at objekt klein a, Dresden on Fri, 13 Nov 2026.
 
 Anthila is a bass and drum & bass artist, with 11 gigs on soundcheck across Dresden and Poznan. Often billed alongside Alegria, k.o (PL) and Bambi Uzi. Next up: objekt klein a, Dresden on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Anthila is a bass and drum & bass artist, with 11 gigs on soundcheck across Dres
 
 Alegria, k.o (PL), Bambi Uzi
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anthila/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anthila/)*

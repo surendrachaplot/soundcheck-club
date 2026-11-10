@@ -1,6 +1,6 @@
 # Simrana
 
-Simrana is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Fitzroy, Berlin on Sat, 12 Dec 2026.
+Simrana is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Fitzroy, Berlin on Sat, 12 Dec 2026.
 
 Simrana is a techno and trance artist based in Australia, with 45 gigs on soundcheck across Berlin and Melbourne. Often billed alongside Hasvat Informant, Missé and Cybernet. Next up: Fitzroy, Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Simrana is a techno and trance artist based in Australia, with 45 gigs on soundc
 
 Hasvat Informant, Missé, Cybernet
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simrana/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simrana/)*

@@ -1,6 +1,6 @@
 # Pura Pura
 
-Pura Pura is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Unité.22, Marseille on Sat, 21 Nov 2026.
+Pura Pura is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Unité.22, Marseille on Sat, 21 Nov 2026.
 
 Pura Pura is a bass and techno artist based in France, with 39 gigs on soundcheck across Bordeaux, Brussels, Ghent and Lyon and 5 more. Often billed alongside Hyas, Miley Serious and Dylan Dylan. Next up: Unité.22, Marseille on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Pura Pura is a bass and techno artist based in France, with 39 gigs on soundchec
 
 Hyas, Miley Serious, Dylan Dylan
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/purapura/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/purapura/)*

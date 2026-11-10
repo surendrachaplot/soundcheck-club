@@ -1,6 +1,6 @@
 # Lyo.
 
-Lyo. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Renate, Berlin on Thu, 31 Dec 2026.
+Lyo. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Renate, Berlin on Thu, 31 Dec 2026.
 
 Lyo. is a techno and house artist based in Germany, with 21 gigs on soundcheck across Barcelona, Berlin, Madrid and Mallorca and 1 more. Often billed alongside JD Typo, eric.a and xupid. Next up: Renate, Berlin on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Lyo. is a techno and house artist based in Germany, with 21 gigs on soundcheck a
 
 JD Typo, eric.a, xupid
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lyo./)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lyo./)*

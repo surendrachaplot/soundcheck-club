@@ -1,6 +1,6 @@
 # Tom Westy
 
-Tom Westy is a Progressive House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The General Assembly, London on Sat, 28 Nov 2026.
+Tom Westy is a Progressive House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The General Assembly, London on Sat, 28 Nov 2026.
 
 Tom Westy is a progressive house and tech house artist, with 6 gigs on soundcheck across Amsterdam and London. Often billed alongside Westy, Nour (UK) and AmyElle. Next up: The General Assembly, London on Sat 28 Nov.
 
@@ -22,4 +22,4 @@ Tom Westy is a progressive house and tech house artist, with 6 gigs on soundchec
 
 Westy, Nour (UK), AmyElle
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomwesty/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomwesty/)*

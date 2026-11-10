@@ -1,8 +1,8 @@
 # Max Best
 
-Max Best is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Tokonoma Club, Frankfurt on Sat, 14 Nov 2026.
+Max Best is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Tokonoma Club, Frankfurt on Sat, 14 Nov 2026.
 
-Max Best is a techno and house artist, with 13 gigs on soundcheck across Frankfurt, Osaka, Seoul and Tokyo. Often billed alongside MiTSUYAS, SAITO and ARODES. Next up: Tokonoma Club, Frankfurt on Sat 14 Nov.
+Max Best is a techno and house artist based in Germany, with 13 gigs on soundcheck across Frankfurt, Osaka, Seoul and Tokyo. Often billed alongside MiTSUYAS, SAITO and ARODES. Next up: Tokonoma Club, Frankfurt on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Max Best is a techno and house artist, with 13 gigs on soundcheck across Frankfu
 
 MiTSUYAS, SAITO, ARODES
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxbest/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxbest/)*

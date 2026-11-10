@@ -1,6 +1,6 @@
 # DJ Zombie
 
-DJ Zombie is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Dual, Bangkok on Thu, 12 Nov 2026.
+DJ Zombie is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Dual, Bangkok on Thu, 12 Nov 2026.
 
 DJ Zombie is a house and techno artist based in Thailand, with 46 gigs on soundcheck across Amsterdam and Bangkok. Often billed alongside Yoongying, SaoTeknik and Club Mascot. Next up: Dual, Bangkok on Thu 12 Nov.
 
@@ -26,4 +26,4 @@ DJ Zombie is a house and techno artist based in Thailand, with 46 gigs on soundc
 
 Yoongying, SaoTeknik, Club Mascot
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djzombie/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djzombie/)*

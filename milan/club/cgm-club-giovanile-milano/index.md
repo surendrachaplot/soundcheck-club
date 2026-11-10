@@ -1,6 +1,6 @@
 # CGM - Club Giovanile Milano
 
-CGM - Club Giovanile Milano is a music venue in Milan with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "GM presenta: South Freequency" on Thu, 12 Nov 2026.
+CGM - Club Giovanile Milano is a music venue in Milan with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "GM presenta: South Freequency" on Thu, 12 Nov 2026.
 
 CGM - Club Giovanile Milano is a music venue in Milan listed on soundcheck. 3 upcoming gigs, with line-ups including CRHERZ, Eros Renard, frieda (IT) and Lvca Versace and 1 more. See dates, start times and who's playing. Via Antonio Raimondi, 15, 20156 Milano MI, Italy.
 
@@ -16,4 +16,4 @@ CGM - Club Giovanile Milano is a music venue in Milan listed on soundcheck. 3 up
 
 Via Antonio Raimondi, 15, 20156 Milano MI, Italy, Milan
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/cgm-club-giovanile-milano/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/cgm-club-giovanile-milano/)*

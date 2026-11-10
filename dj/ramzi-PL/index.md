@@ -1,6 +1,6 @@
 # RĀMZĪ
 
-RĀMZĪ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Smolna, Warsaw on Fri, 13 Nov 2026.
+RĀMZĪ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Smolna, Warsaw on Fri, 13 Nov 2026.
 
 RĀMZĪ is a techno and house artist based in Poland, with 23 gigs on soundcheck across Krakow, Poznan, Warsaw and Wroclaw. Often billed alongside vitcat, Claude Degas and Robsessive. Next up: Smolna, Warsaw on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ RĀMZĪ is a techno and house artist based in Poland, with 23 gigs on soundcheck
 
 vitcat (3), Claude Degas, Robsessive
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ramzi-PL/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ramzi-PL/)*

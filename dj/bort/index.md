@@ -1,6 +1,6 @@
 # BØRT
 
-BØRT is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Club U, Vienna on Fri, 13 Nov 2026.
+BØRT is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Club U, Vienna on Fri, 13 Nov 2026.
 
 BØRT is a techno and bass artist based in Austria, with 34 gigs on soundcheck across Bratislava, Munich and Vienna. Often billed alongside Farr, CEM and DJ Spit. Next up: Club U, Vienna on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ BØRT is a techno and bass artist based in Austria, with 34 gigs on soundcheck a
 
 Farr, CEM, DJ Spit
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bort/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bort/)*

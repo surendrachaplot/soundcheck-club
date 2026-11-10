@@ -1,6 +1,6 @@
 # The Loft
 
-The Loft is a music venue in Manchester with 18 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "The Loft: J Wave b2b Lewis Taylor (All Night Long)" on Thu, 12 Nov 2026.
+The Loft is a music venue in Manchester with 18 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "The Loft: J Wave b2b Lewis Taylor (All Night Long)" on Thu, 12 Nov 2026.
 
 The Loft is a music venue in Manchester listed on soundcheck. 18 upcoming gigs, with line-ups including Alexander Skancke, Alexia Glensy, Captain Wallop and Chopper (UK) and 2 more. See dates, start times and who's playing. Unit 1, New Street, Manchester, M40 8AW.
 
@@ -23,4 +23,4 @@ The Loft is a music venue in Manchester listed on soundcheck. 18 upcoming gigs, 
 
 Unit 1, New Street, Manchester, M40 8AW, Manchester
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-loft/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-loft/)*

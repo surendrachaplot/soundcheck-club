@@ -1,6 +1,6 @@
 # SOR.
 
-SOR. is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Speakerbox, Bangkok on Sat, 28 Nov 2026.
+SOR. is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Speakerbox, Bangkok on Sat, 28 Nov 2026.
 
 SOR. is an electro and techno artist based in Thailand, with 12 gigs on soundcheck across Bangkok. Often billed alongside DJ Krit Morton, Eizu 映図 and .g (TH). Next up: Speakerbox, Bangkok on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ SOR. is an electro and techno artist based in Thailand, with 12 gigs on soundche
 
 DJ Krit Morton, Eizu 映図, .g (TH)
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sor./)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sor./)*

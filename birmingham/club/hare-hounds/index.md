@@ -1,6 +1,6 @@
 # Hare & Hounds
 
-Hare & Hounds is a music venue in Birmingham with 5 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Horse Meat Disco" on Sat, 14 Nov 2026.
+Hare & Hounds is a music venue in Birmingham with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Horse Meat Disco" on Sat, 14 Nov 2026.
 
 Hare & Hounds is a music venue in Birmingham listed on soundcheck. 5 upcoming gigs, with line-ups including Fabio, Grooverider, High Fade and Horse Meat Disco and 1 more. See dates, start times and who's playing. 106 High Street; Birmingham, B14 7JZ; United Kingdom.
 
@@ -18,4 +18,4 @@ Hare & Hounds is a music venue in Birmingham listed on soundcheck. 5 upcoming gi
 
 106 High Street; Birmingham, B14 7JZ; United Kingdom, Birmingham
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/hare-hounds/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/hare-hounds/)*

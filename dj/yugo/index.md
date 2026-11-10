@@ -1,6 +1,6 @@
 # yugo
 
-yugo is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at DeTour, Tokyo on Tue, 10 Nov 2026.
+yugo is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at DeTour, Tokyo on Tue, 10 Nov 2026.
 
 yugo is a techno artist based in Japan, with 4 gigs on soundcheck across Tokyo. Often billed alongside Kanamemandala, Kenjiro and Kigma. Next up: DeTour, Tokyo on Tue 10 Nov.
 
@@ -20,4 +20,4 @@ yugo is a techno artist based in Japan, with 4 gigs on soundcheck across Tokyo. 
 
 Kanamemandala, Kenjiro, Kigma
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yugo/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yugo/)*

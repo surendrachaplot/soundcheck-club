@@ -1,6 +1,6 @@
 # Trixie (UK)
 
-Trixie (UK) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Starlane Pizza Bar, London on Fri, 4 Dec 2026.
+Trixie (UK) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Starlane Pizza Bar, London on Fri, 4 Dec 2026.
 
 Trixie (UK) is a house and techno artist based in United Kingdom, with 88 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 4 more. Often billed alongside E. Alexander, Mauro Ferno and Myriam. Next up: Starlane Pizza Bar, London on Fri 4 Dec.
 
@@ -27,4 +27,4 @@ Trixie (UK) is a house and techno artist based in United Kingdom, with 88 gigs o
 
 E. Alexander, Mauro Ferno, Myriam
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trixie-uk/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trixie-uk/)*

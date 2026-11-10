@@ -1,6 +1,6 @@
 # The Waiting Room
 
-The Waiting Room is a music venue in London with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Inflo presents - Darkside Rinseout" on Sat, 14 Nov 2026.
+The Waiting Room is a music venue in London with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Inflo presents - Darkside Rinseout" on Sat, 14 Nov 2026.
 
 The Waiting Room is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including Beeches, Genese, JVXTA and Zapata. See dates, start times and who's playing. 175 Stoke Newington High Street; Stoke Newington; London N16 0LH; United Kingdom.
 
@@ -17,4 +17,4 @@ The Waiting Room is a music venue in London listed on soundcheck. 4 upcoming gig
 
 175 Stoke Newington High Street; Stoke Newington; London N16 0LH; United Kingdom, London
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-waiting-room/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-waiting-room/)*

@@ -1,6 +1,6 @@
 # Rare Effect 2026: Countersurveillance at Arroz Estúdios
 
-Rare Effect 2026: Countersurveillance at Arroz Estúdios on Wed 11 Nov, Lisbon. 8 artists: GAYANCE, João Pedro Fonseca, Marie Dior and Odete and 4 more. See the line-up on soundcheck.
+Rare Effect 2026: Countersurveillance at Arroz Estúdios on Wed 11 Nov, Lisbon. 10 artists: Carincur, GAYANCE, João Pedro Fonseca and Maria Amor and 6 more. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,10 @@ Rare Effect 2026: Countersurveillance at Arroz Estúdios on Wed 11 Nov, Lisbon. 
 
 ## Line-up
 
+- Carincur
 - GAYANCE
 - João Pedro Fonseca
+- Maria Amor
 - Marie Dior
 - Odete
 - Tania Kim

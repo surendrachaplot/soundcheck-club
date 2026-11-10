@@ -1,6 +1,6 @@
 # Chris.SU
 
-Chris.SU is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Crackhouse, Gdansk on Fri, 20 Nov 2026.
+Chris.SU is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Crackhouse, Gdansk on Fri, 20 Nov 2026.
 
 Chris.SU is a drum & bass and jungle artist based in Hungary, with 29 gigs on soundcheck across Budapest, Gdansk, Prague and Wroclaw. Often billed alongside E-Z Rollers, Black Sun Empire and Gemcamp. Next up: Crackhouse, Gdansk on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Chris.SU is a drum & bass and jungle artist based in Hungary, with 29 gigs on so
 
 E-Z Rollers, Black Sun Empire, Gemcamp
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chris.su/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chris.su/)*

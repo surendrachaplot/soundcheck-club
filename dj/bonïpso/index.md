@@ -1,6 +1,6 @@
 # BonÏpso
 
-BonÏpso is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Cabaret  Aléatoire, Marseille on Fri, 20 Nov 2026.
+BonÏpso is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Cabaret  Aléatoire, Marseille on Fri, 20 Nov 2026.
 
 BonÏpso is a techno and tech house artist based in France, with 4 gigs on soundcheck across Berlin and Marseille. Often billed alongside Brookesia, Fab Massimo and John A Marr. Next up: Cabaret  Aléatoire, Marseille on Fri 20 Nov.
 
@@ -20,4 +20,4 @@ BonÏpso is a techno and tech house artist based in France, with 4 gigs on sound
 
 Brookesia, Fab Massimo, John A Marr
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bonïpso/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bonïpso/)*

@@ -1,6 +1,6 @@
 # Brandon Latta
 
-Brandon Latta is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA, Chicago on Sat, 14 Nov 2026.
+Brandon Latta is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA, Chicago on Sat, 14 Nov 2026.
 
 Brandon Latta is a house and techno artist based in United States of America, with 8 gigs on soundcheck across Chicago, Cleveland and Detroit. Often billed alongside Andy Stroble, Duke Shin and Gino (DET). Next up: TBA, Chicago on Sat 14 Nov.
 
@@ -24,4 +24,4 @@ Brandon Latta is a house and techno artist based in United States of America, wi
 
 Andy Stroble, Duke Shin, Gino (DET)
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brandonlatta/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brandonlatta/)*

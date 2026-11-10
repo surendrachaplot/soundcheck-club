@@ -1,6 +1,6 @@
 # Ruim
 
-Ruim is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at República Da Música, Lisbon on Fri, 20 Nov 2026.
+Ruim is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at República Da Música, Lisbon on Fri, 20 Nov 2026.
 
 Ruim is a drum & bass and jungle artist based in Portugal, with 4 gigs on soundcheck across Lisbon. Often billed alongside 404 Not Found, 911 Request and J:Kenzo. Next up: República Da Música, Lisbon on Fri 20 Nov.
 
@@ -20,4 +20,4 @@ Ruim is a drum & bass and jungle artist based in Portugal, with 4 gigs on soundc
 
 404 Not Found, 911 Request, J:Kenzo
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ruim/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ruim/)*

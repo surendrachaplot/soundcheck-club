@@ -1,6 +1,6 @@
 # Techno ! /...leck Eier at Der Weiße Hase
 
-Techno ! /...leck Eier at Der Weiße Hase on Fri 20 Nov, Berlin. 5 artists: DAZA, Emma Keks, maniaclina and Sika Akis and 1 more. Trance and Techno. See the line-up on soundcheck.
+Techno ! /...leck Eier at Der Weiße Hase on Fri 20 Nov, Berlin. 7 artists: DAZA, Emma Keks, Kaminka Merel and maniaclina and 3 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,9 @@ Techno ! /...leck Eier at Der Weiße Hase on Fri 20 Nov, Berlin. 5 artists: DAZA
 
 - DAZA
 - Emma Keks
+- Kaminka Merel
 - maniaclina
+- Marvel Gold
 - Sika Akis
 - SUDO
 

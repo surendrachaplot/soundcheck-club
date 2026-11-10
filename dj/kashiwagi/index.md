@@ -1,6 +1,6 @@
 # KASHIWAGI
 
-KASHIWAGI is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Sat, 14 Nov 2026.
+KASHIWAGI is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Sat, 14 Nov 2026.
 
 KASHIWAGI is a techno and house artist based in Japan, with 60 gigs on soundcheck across Tokyo. Often billed alongside Krankent, ksd6700 and DJ ISE. Next up: UTOPIA / DYSTOPIA, Tokyo on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ KASHIWAGI is a techno and house artist based in Japan, with 60 gigs on soundchec
 
 Krankent, ksd6700, DJ ISE
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kashiwagi/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kashiwagi/)*

@@ -1,6 +1,6 @@
 # Benjamin Damage
 
-Benjamin Damage is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at OXI, Berlin on Fri, 20 Nov 2026.
+Benjamin Damage is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at OXI, Berlin on Fri, 20 Nov 2026.
 
 Benjamin Damage is a techno and house artist based in United Kingdom, with 28 gigs on soundcheck across Berlin, Birmingham, Bogotá and Dortmund / Essen and 11 more. Often billed alongside Anetha, DVS1 and Lacchesi. Next up: OXI, Berlin on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Benjamin Damage is a techno and house artist based in United Kingdom, with 28 gi
 
 Anetha, DVS1, Lacchesi
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benjamindamage/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benjamindamage/)*

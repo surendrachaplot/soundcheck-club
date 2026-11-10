@@ -1,6 +1,6 @@
 # Mikkel Rev
 
-Mikkel Rev is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Kafe Hærverk, Oslo on Fri, 13 Nov 2026.
+Mikkel Rev is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Kafe Hærverk, Oslo on Fri, 13 Nov 2026.
 
 Mikkel Rev is a trance and techno artist based in Sweden, with 27 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 7 more. Often billed alongside Marius Bø, Ekkel and Oprofessionell. Next up: Kafe Hærverk, Oslo on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Mikkel Rev is a trance and techno artist based in Sweden, with 27 gigs on soundc
 
 Marius Bø, Ekkel, Oprofessionell
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikkelrev/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikkelrev/)*

@@ -1,6 +1,6 @@
 # DJ LoveCatt
 
-DJ LoveCatt is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Paloma, Berlin on Sat, 5 Dec 2026.
+DJ LoveCatt is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Paloma, Berlin on Sat, 5 Dec 2026.
 
 DJ LoveCatt is a house and disco artist based in Denmark, with 71 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 1 more. Often billed alongside Robin Flux, CAYOOTEE and Ghosten. Next up: Paloma, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ DJ LoveCatt is a house and disco artist based in Denmark, with 71 gigs on soundc
 
 Robin Flux, CAYOOTEE, Ghosten
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djlovecatt/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djlovecatt/)*

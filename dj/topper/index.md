@@ -1,14 +1,15 @@
 # Topper
 
-Topper is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Oven Club, Valencia on Sat, 14 Nov 2026.
+Topper is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Oven Club, Valencia on Sat, 14 Nov 2026.
 
-Topper is a house and minimal artist, with 92 gigs on soundcheck across Bali, Bangkok, Barcelona and Berlin and 17 more. Often billed alongside Daniele Papini, Clovis and Triptease. Next up: Oven Club, Valencia on Sat 14 Nov.
+Topper is a house and minimal artist, with 93 gigs on soundcheck across Bali, Bangkok, Barcelona and Berlin and 17 more. Often billed alongside Daniele Papini, Clovis and Triptease. Next up: Oven Club, Valencia on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Oven Club | Valencia |
+| Sat, 20 Mar 2027 | TBA - Secret Location | Bali |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Topper is a house and minimal artist, with 92 gigs on soundcheck across Bali, Ba
 
 Daniele Papini, Clovis, Triptease
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/topper/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/topper/)*

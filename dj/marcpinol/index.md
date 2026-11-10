@@ -1,8 +1,8 @@
 # Marc Piñol
 
-Marc Piñol is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at FOLD, London on Fri, 27 Nov 2026.
+Marc Piñol is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at FOLD, London on Fri, 27 Nov 2026.
 
-Marc Piñol is a techno and electro artist, with 18 gigs on soundcheck across Barcelona, London and Zurich. Often billed alongside Ivan Smagghe, Breixo Martinez and -nico-. Next up: FOLD, London on Fri 27 Nov.
+Marc Piñol is a techno and electro artist based in Spain, with 18 gigs on soundcheck across Barcelona, London and Zurich. Often billed alongside Ivan Smagghe, Breixo Martinez and -nico-. Next up: FOLD, London on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Marc Piñol is a techno and electro artist, with 18 gigs on soundcheck across Ba
 
 Ivan Smagghe, Breixo Martinez, -nico-
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcpinol/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcpinol/)*

@@ -1,6 +1,6 @@
 # Young Sun
 
-Young Sun is a Tech House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Ilion Plus, Athens on Sat, 14 Nov 2026.
+Young Sun is a Tech House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Ilion Plus, Athens on Sat, 14 Nov 2026.
 
 Young Sun is a tech house and minimal techno artist based in United States of America, with 112 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 11 more. Often billed alongside .2ndfloor, Lyumin and Mihak. Next up: Ilion Plus, Athens on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Young Sun is a tech house and minimal techno artist based in United States of Am
 
 .2ndfloor, Lyumin, Mihak
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/youngsun/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/youngsun/)*

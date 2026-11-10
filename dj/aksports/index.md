@@ -1,6 +1,6 @@
 # AK SPORTS
 
-AK SPORTS is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Dirtyhouse, Shanghai on Fri, 13 Nov 2026.
+AK SPORTS is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Dirtyhouse, Shanghai on Fri, 13 Nov 2026.
 
 AK SPORTS is a techno and house artist based in Australia, with 10 gigs on soundcheck across Amsterdam, Brisbane, Chengdu and Hong Kong and 6 more. Often billed alongside Riordan, salute and Bella Claxton. Next up: Dirtyhouse, Shanghai on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ AK SPORTS is a techno and house artist based in Australia, with 10 gigs on sound
 
 Riordan, salute, Bella Claxton
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aksports/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aksports/)*

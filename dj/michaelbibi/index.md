@@ -1,8 +1,8 @@
 # Michael Bibi
 
-Michael Bibi is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Arena Norte, Nuñez, Buenos Aires on Sat, 21 Nov 2026.
+Michael Bibi is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Arena Norte, Nuñez, Buenos Aires on Sat, 21 Nov 2026.
 
-Michael Bibi is a tech house and house artist based in United Kingdom, with 57 gigs on soundcheck across Amsterdam, Argentina, Bali and Barcelona and 23 more. Often billed alongside Dennis Cruz, PAWSA and Chris Stussy. Next up: TBA - Arena Norte, Nuñez, Buenos Aires on Sat 21 Nov.
+Michael Bibi is a tech house and house artist based in United Kingdom, with 57 gigs on soundcheck across Amsterdam, Argentina, Bali and Barcelona and 23 more. Often billed alongside Dennis Cruz, PAWSA and CHRIS STASSY. Next up: TBA - Arena Norte, Nuñez, Buenos Aires on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ Michael Bibi is a tech house and house artist based in United Kingdom, with 57 g
 
 ## Shares bills with
 
-Dennis Cruz, PAWSA, Chris Stussy
+Dennis Cruz, PAWSA, CHRIS STASSY
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelbibi/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelbibi/)*

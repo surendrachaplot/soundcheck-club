@@ -1,6 +1,6 @@
 # Elina
 
-Elina is a Breakcore and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Dark Room, Kyushu on Fri, 13 Nov 2026.
+Elina is a Breakcore and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Dark Room, Kyushu on Fri, 13 Nov 2026.
 
 Elina is a breakcore and hardcore artist based in Australia, with 16 gigs on soundcheck across Barcelona, Ibiza, Kyushu and Malta and 2 more. Often billed alongside Melt Unit, Midsizedsedance and Across Boundaries. Next up: The Dark Room, Kyushu on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Elina is a breakcore and hardcore artist based in Australia, with 16 gigs on sou
 
 Melt Unit, Midsizedsedance, Across Boundaries
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elina/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elina/)*

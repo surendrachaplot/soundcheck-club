@@ -1,6 +1,6 @@
 # MADAMI
 
-MADAMI is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Fraser Park, Sydney on Sat, 19 Dec 2026.
+MADAMI is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Fraser Park, Sydney on Sat, 19 Dec 2026.
 
 MADAMI is a house and techno artist based in Australia, with 33 gigs on soundcheck across Berlin, Manila and Sydney. Often billed alongside Jacqui Cunningham, anusha and 1tbsp. Next up: Fraser Park, Sydney on Sat 19 Dec.
 
@@ -26,4 +26,4 @@ MADAMI is a house and techno artist based in Australia, with 33 gigs on soundche
 
 Jacqui Cunningham, anusha, 1tbsp
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/madami/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/madami/)*

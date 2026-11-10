@@ -1,6 +1,6 @@
 # Juan Elvadin
 
-Juan Elvadin is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA, Buenos Aires on Fri, 20 Nov 2026.
+Juan Elvadin is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA, Buenos Aires on Fri, 20 Nov 2026.
 
 Juan Elvadin is a techno and progressive house artist based in Argentina, with 10 gigs on soundcheck across Buenos Aires. Often billed alongside 19:26, Adam Beyer and Adana Twins. Next up: TBA, Buenos Aires on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Juan Elvadin is a techno and progressive house artist based in Argentina, with 1
 
 19:26, Adam Beyer, Adana Twins
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juanelvadin/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juanelvadin/)*

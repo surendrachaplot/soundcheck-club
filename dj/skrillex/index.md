@@ -1,6 +1,6 @@
 # Skrillex
 
-Skrillex is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Woodshop, New York City on Fri, 13 Nov 2026.
+Skrillex is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Woodshop, New York City on Fri, 13 Nov 2026.
 
 Skrillex is a house and techno artist based in United States of America, with 41 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 18 more. Often billed alongside Four Tet, Jyoty and RHR. Next up: The Woodshop, New York City on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Skrillex is a house and techno artist based in United States of America, with 41
 
 Four Tet, Jyoty, RHR
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skrillex/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skrillex/)*

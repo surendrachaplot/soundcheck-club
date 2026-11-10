@@ -1,6 +1,6 @@
 # TEZMA
 
-TEZMA is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at OST, Berlin on Sat, 21 Nov 2026.
+TEZMA is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at OST, Berlin on Sat, 21 Nov 2026.
 
 TEZMA is a techno and trance artist based in Germany, with 11 gigs on soundcheck across Berlin. Often billed alongside Filialleiter, DTEXX and SIKXTO. Next up: OST, Berlin on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ TEZMA is a techno and trance artist based in Germany, with 11 gigs on soundcheck
 
 Filialleiter, DTEXX, SIKXTO
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tezma/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tezma/)*

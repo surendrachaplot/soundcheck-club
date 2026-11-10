@@ -1,6 +1,6 @@
 # Arp (SNT)
 
-Arp (SNT) is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Kunstverein Familie Montez, Frankfurt on Sat, 28 Nov 2026.
+Arp (SNT) is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Kunstverein Familie Montez, Frankfurt on Sat, 28 Nov 2026.
 
 Arp (SNT) is a techno artist based in Colombia, with 7 gigs on soundcheck across Frankfurt and Madrid. Often billed alongside Anxiety_Dj, Hakkon and JONSN.OFC. Next up: Kunstverein Familie Montez, Frankfurt on Sat 28 Nov.
 
@@ -23,4 +23,4 @@ Arp (SNT) is a techno artist based in Colombia, with 7 gigs on soundcheck across
 
 Anxiety_Dj, Hakkon, JONSN.OFC
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arpsnt/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arpsnt/)*

@@ -1,6 +1,6 @@
 # Mark Broom
 
-Mark Broom is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Selva Club, East on Sat, 14 Nov 2026.
+Mark Broom is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Selva Club, East on Sat, 14 Nov 2026.
 
 Mark Broom is a techno and house artist based in United Kingdom, with 132 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 58 more. Often billed alongside Autechre, CESAR ALMENA and Nuke. Next up: Selva Club, East on Sat 14 Nov.
 
@@ -28,4 +28,4 @@ Mark Broom is a techno and house artist based in United Kingdom, with 132 gigs o
 
 Autechre, CESAR ALMENA, Nuke
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markbroom/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markbroom/)*

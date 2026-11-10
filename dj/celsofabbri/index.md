@@ -1,6 +1,6 @@
 # Celso Fabbri
 
-Celso Fabbri is a Afro House and Gqom artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Pérola Negra Club, Porto on Sat, 14 Nov 2026.
+Celso Fabbri is a Afro House and Gqom artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Pérola Negra Club, Porto on Sat, 14 Nov 2026.
 
 Celso Fabbri is an afro house and gqom artist, with 13 gigs on soundcheck across Cape Town, London and Porto. Often billed alongside CLEIDO, Soulchoke and Lemon & Herb. Next up: Pérola Negra Club, Porto on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Celso Fabbri is an afro house and gqom artist, with 13 gigs on soundcheck across
 
 CLEIDO, Soulchoke, Lemon & Herb
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/celsofabbri/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/celsofabbri/)*

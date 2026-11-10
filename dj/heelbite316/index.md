@@ -1,6 +1,6 @@
 # heelbite316
 
-heelbite316 is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA, Los Angeles on Fri, 13 Nov 2026.
+heelbite316 is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA, Los Angeles on Fri, 13 Nov 2026.
 
 heelbite316 is a techno and house artist based in United States of America, with 14 gigs on soundcheck across Chicago, Los Angeles, San Diego and San Francisco/Oakland. Often billed alongside BEEBA, DR. GABBA and JAQ.XS. Next up: TBA, Los Angeles on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ heelbite316 is a techno and house artist based in United States of America, with
 
 BEEBA, DR. GABBA, JAQ.XS
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/heelbite316/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/heelbite316/)*

@@ -1,8 +1,8 @@
 # ERNST (NL)
 
-ERNST (NL) is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Grelle Forelle, Vienna on Fri, 20 Nov 2026.
+ERNST (NL) is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Grelle Forelle, Vienna on Fri, 20 Nov 2026.
 
-ERNST (NL) is a techno artist, with 7 gigs on soundcheck across Vienna, Warsaw and Wroclaw. Often billed alongside Józef Keuner, SCHELLT and VRAXX. Next up: Grelle Forelle, Vienna on Fri 20 Nov.
+ERNST (NL) is a techno artist based in Netherlands, with 7 gigs on soundcheck across Vienna, Warsaw and Wroclaw. Often billed alongside Józef Keuner, SCHELLT and VRAXX. Next up: Grelle Forelle, Vienna on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ ERNST (NL) is a techno artist, with 7 gigs on soundcheck across Vienna, Warsaw a
 
 Józef Keuner, SCHELLT, VRAXX
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ernst-nl/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ernst-nl/)*

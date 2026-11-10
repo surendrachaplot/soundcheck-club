@@ -1,6 +1,6 @@
 # Michenlo
 
-Michenlo is a Tech House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Fabrik, Madrid on Fri, 1 Jan 2027.
+Michenlo is a Tech House and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Fabrik, Madrid on Fri, 1 Jan 2027.
 
 Michenlo is a tech house and electronica artist based in Spain, with 10 gigs on soundcheck across London, Madrid, Mallorca and Miami. Often billed alongside ART NO LOGIA, Alex Clap and Andres Campo. Next up: Fabrik, Madrid on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Michenlo is a tech house and electronica artist based in Spain, with 10 gigs on 
 
 ART NO LOGIA, Alex Clap, Andres Campo
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/michenlo/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/michenlo/)*

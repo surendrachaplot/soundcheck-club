@@ -1,17 +1,17 @@
 # CCEMx
 
-CCEMx is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "Secuencias & Señales" on Sat, 24 Oct 2026.
+CCEMx is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. The next is "She Makes Noise x México" on Sat, 14 Nov 2026.
 
-CCEMx is a music venue in Mexico City listed on soundcheck. 1 upcoming gig, with line-ups including Carm1na, DNZA, Nenúfar and OMAAR. See dates, start times and who's playing. República de Guatemala 18, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX, Mexico.
+CCEMx is a music venue in Mexico City listed on soundcheck. 1 upcoming gig, with line-ups including Delise. See dates, start times and who's playing. República de Guatemala 18, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX, Mexico.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Secuencias & Señales | Carm1na, DNZA, Nenúfar, OMAAR |
+| Sat, 14 Nov 2026 | She Makes Noise x México | Delise |
 
 ## Address
 
 República de Guatemala 18, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX, Mexico, Mexico City
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/ccemx/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/ccemx/)*

@@ -1,6 +1,6 @@
 # Nuno Bernardino (2)
 
-Nuno Bernardino (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Collect - Cais do Sodre, Lisbon on Mon, 30 Nov 2026.
+Nuno Bernardino (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Collect - Cais do Sodre, Lisbon on Mon, 30 Nov 2026.
 
 Nuno Bernardino is a techno and house artist, with 5 gigs on soundcheck across Lisbon. Often billed alongside Nuno Bernardino. Next up: Collect - Cais do Sodre, Lisbon on Mon 30 Nov.
 
@@ -21,4 +21,4 @@ Nuno Bernardino is a techno and house artist, with 5 gigs on soundcheck across L
 
 Nuno Bernardino
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nunobernardino-2/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nunobernardino-2/)*

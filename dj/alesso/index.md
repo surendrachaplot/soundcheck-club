@@ -1,6 +1,6 @@
 # Alesso
 
-Alesso is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at NOS Event Center, Los-angeles on Thu, 31 Dec 2026.
+Alesso is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at NOS Event Center, Los-angeles on Thu, 31 Dec 2026.
 
 Alesso is a house and techno artist based in Sweden, with 34 gigs on soundcheck across Amsterdam, Bangkok, Brisbane and Buenos Aires and 17 more. Often billed alongside Gryffin, KREAM and Steve Aoki. Next up: NOS Event Center, Los Angeles on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Alesso is a house and techno artist based in Sweden, with 34 gigs on soundcheck 
 
 Gryffin, KREAM, Steve Aoki
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alesso/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alesso/)*

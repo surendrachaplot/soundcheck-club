@@ -1,6 +1,6 @@
 # Eurotech
 
-Eurotech is a House and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at nachbar, Amsterdam on Thu, 26 Nov 2026.
+Eurotech is a House and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at nachbar, Amsterdam on Thu, 26 Nov 2026.
 
 Eurotech is a house and club artist based in Netherlands, with 9 gigs on soundcheck across Amsterdam and Rotterdam. Often billed alongside Megan Jane, BLUMITSU and Bibtiana. Next up: nachbar, Amsterdam on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Eurotech is a house and club artist based in Netherlands, with 9 gigs on soundch
 
 Megan Jane, BLUMITSU, Bibtiana
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eurotech/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eurotech/)*

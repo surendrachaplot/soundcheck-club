@@ -1,6 +1,6 @@
 # RUSHKO
 
-RUSHKO is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Cafe Glocksee, Hannover on Sat, 21 Nov 2026.
+RUSHKO is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Cafe Glocksee, Hannover on Sat, 21 Nov 2026.
 
 RUSHKO is a techno and hardcore artist based in Germany, with 4 gigs on soundcheck across Berlin and Hannover. Often billed alongside OnkelSam, Cenan Holland and AINA.KRU. Next up: Cafe Glocksee, Hannover on Sat 21 Nov.
 
@@ -20,4 +20,4 @@ RUSHKO is a techno and hardcore artist based in Germany, with 4 gigs on soundche
 
 OnkelSam, Cenan Holland, AINA.KRU
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rushko/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rushko/)*

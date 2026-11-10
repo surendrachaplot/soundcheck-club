@@ -1,6 +1,6 @@
 # Stefano Andriezzi
 
-Stefano Andriezzi is a Electro and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Les Enfants Brillants, Barcelona on Mon, 7 Dec 2026.
+Stefano Andriezzi is a Electro and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Les Enfants Brillants, Barcelona on Mon, 7 Dec 2026.
 
 Stefano Andriezzi is an electro and house artist based in Venezuela, with 60 gigs on soundcheck across Barcelona, Brussels, Buenos Aires and Cologne and 8 more. Often billed alongside Sampol, Brieela and LM. Next up: Les Enfants Brillants, Barcelona on Mon 7 Dec.
 
@@ -26,4 +26,4 @@ Stefano Andriezzi is an electro and house artist based in Venezuela, with 60 gig
 
 Sampol, Brieela, LM
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanoandriezzi/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanoandriezzi/)*

@@ -1,6 +1,6 @@
-# Ma Haiping《CHANG'E-4》5th Anniversary Reissue Release Party at Pillbox Beijing
+# Ma Haiping: Chang'e-4 5th Anniversary Reissue Release Party at Pillbox Beijing
 
-Ma Haiping《CHANG'E-4》5th Anniversary Reissue Release Party at Pillbox Beijing on Fri 20 Nov, Beijing. 4 artists: Afra, Ma Haiping, NAXIN and Serge. See the line-up on soundcheck.
+Ma Haiping: Chang'e-4 5th Anniversary Reissue Release Party at Pillbox Beijing on Fri 20 Nov, Beijing. 4 artists: Afra, Ma Haiping, NAXIN and Serge. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

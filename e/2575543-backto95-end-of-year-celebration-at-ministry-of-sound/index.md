@@ -1,6 +1,6 @@
 # Backto95 End of Year Celebration at Ministry Of Sound
 
-Backto95 End of Year Celebration at Ministry Of Sound on Sat 26 Dec, London. 17 artists: Afrobeat, Daniel Ward, DJ Listener and DJRon and 13 more. See the line-up on soundcheck.
+Backto95 End of Year Celebration at Ministry Of Sound on Sat 26 Dec, London. 17 artists: Afrobeat, Daniel Ward, DJ Listener and DJ Ron and 13 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,7 +13,7 @@ Backto95 End of Year Celebration at Ministry Of Sound on Sat 26 Dec, London. 17 
 - Afrobeat
 - Daniel Ward
 - DJ Listener
-- DJRon
+- DJ Ron
 - Dominique Danielle
 - Gemini
 - Hermit

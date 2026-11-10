@@ -1,6 +1,6 @@
 # Kursa
 
-Kursa is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Reelworks Denver, Denver on Fri, 20 Nov 2026.
+Kursa is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Reelworks Denver, Denver on Fri, 20 Nov 2026.
 
 Kursa is a bass and dubstep artist based in United Kingdom, with 12 gigs on soundcheck across Bristol, Chicago, Denver and Detroit and 5 more. Often billed alongside Cartridge (UK), Caspa and Combine. Next up: Reelworks Denver, Denver on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Kursa is a bass and dubstep artist based in United Kingdom, with 12 gigs on soun
 
 Cartridge (UK), Caspa, Combine
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kursa/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kursa/)*

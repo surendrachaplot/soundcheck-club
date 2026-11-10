@@ -1,6 +1,6 @@
 # Radart
 
-Radart is a Electronica and Downtempo artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Collingwood Children's Farm, Melbourne on Sat, 30 Jan 2027.
+Radart is a Electronica and Downtempo artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Collingwood Children's Farm, Melbourne on Sat, 30 Jan 2027.
 
 Radart is an electronica and downtempo artist based in Australia, with 15 gigs on soundcheck across Berlin, Brussels, Melbourne and The Hague and 1 more. Often billed alongside Mike Midnight, Paper-Cuts and Bridget Small. Next up: Collingwood Children's Farm, Melbourne on Sat 30 Jan.
 
@@ -25,4 +25,4 @@ Radart is an electronica and downtempo artist based in Australia, with 15 gigs o
 
 Mike Midnight, Paper-Cuts, Bridget Small (2)
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/radart/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/radart/)*

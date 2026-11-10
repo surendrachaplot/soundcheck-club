@@ -1,6 +1,6 @@
 # Eva May
 
-Eva May is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Folklor, Lausanne on Fri, 13 Nov 2026.
+Eva May is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Folklor, Lausanne on Fri, 13 Nov 2026.
 
 Eva May is a techno and house artist based in Switzerland, with 33 gigs on soundcheck across Berlin, Brussels, Geneva and Lausanne and 4 more. Often billed alongside Nahomi, Gioski and picchu. Next up: Folklor, Lausanne on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Eva May is a techno and house artist based in Switzerland, with 33 gigs on sound
 
 Nahomi, Gioski, picchu
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/evamay/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/evamay/)*

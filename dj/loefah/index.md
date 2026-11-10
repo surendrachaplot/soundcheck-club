@@ -1,6 +1,6 @@
 # Loefah
 
-Loefah is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Phonox, London on Sat, 16 Jan 2027.
+Loefah is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Phonox, London on Sat, 16 Jan 2027.
 
 Loefah is a bass and dubstep artist based in United Kingdom, with 44 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 15 more. Often billed alongside Chinese Daughter, Coki and SGT Pokes. Next up: Phonox, London on Sat 16 Jan.
 
@@ -25,4 +25,4 @@ Loefah is a bass and dubstep artist based in United Kingdom, with 44 gigs on sou
 
 Chinese Daughter, Coki, SGT Pokes
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loefah/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loefah/)*

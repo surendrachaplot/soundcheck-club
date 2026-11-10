@@ -1,6 +1,6 @@
 # Georgia Bird
 
-Georgia Bird is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Secret Venue, Berlin on Fri, 20 Nov 2026.
+Georgia Bird is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Secret Venue, Berlin on Fri, 20 Nov 2026.
 
 Georgia Bird is a techno and house artist based in Australia, with 35 gigs on soundcheck across Berlin, Byron Bay, Hobart and Melbourne and 4 more. Often billed alongside Alfred Czital, Yan (CZ) and Ayū. Next up: TBA - Secret Venue, Berlin on Fri 20 Nov.
 
@@ -28,4 +28,4 @@ Georgia Bird is a techno and house artist based in Australia, with 35 gigs on so
 
 Alfred Czital, Yan (CZ), Ayū (1)
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/georgiabird/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/georgiabird/)*

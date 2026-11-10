@@ -1,6 +1,6 @@
 # CEKTA
 
-CEKTA is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Zabal Techno, Buenos Aires on Fri, 13 Nov 2026.
+CEKTA is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Zabal Techno, Buenos Aires on Fri, 13 Nov 2026.
 
 CEKTA is a techno and industrial artist based in Russia, with 17 gigs on soundcheck across Antwerp, Barcelona, Bogotá and Budapest and 8 more. Often billed alongside Draag, PARAPHER and Lethal M. Next up: Zabal Techno, Buenos Aires on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ CEKTA is a techno and industrial artist based in Russia, with 17 gigs on soundch
 
 Draag, PARAPHER, Lethal M
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cekta/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cekta/)*

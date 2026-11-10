@@ -1,13 +1,14 @@
 # Pixelchick
 
-Pixelchick is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - 3.5 Hours West of Gadigal, Sydney on Fri, 11 Dec 2026.
+Pixelchick is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - INNER WEST, Sydney on Sat, 21 Nov 2026.
 
-Pixelchick is a progressive house and techno artist based in Australia, with 6 gigs on soundcheck across Sydney. Often billed alongside Ari Kiko, mi.key and Bouki. Next up: TBA - 3.5 Hours West of Gadigal, Sydney on Fri 11 Dec.
+Pixelchick is a techno and progressive house artist based in Australia, with 7 gigs on soundcheck across Sydney. Often billed alongside Ari Kiko, Lily FM and mi.key. Next up: TBA - INNER WEST, Sydney on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | TBA - INNER WEST | Sydney |
 | Fri, 11 Dec 2026 | TBA - 3.5 Hours West of Gadigal | Sydney |
 
 ## Recently played
@@ -20,6 +21,6 @@ Pixelchick is a progressive house and techno artist based in Australia, with 6 g
 
 ## Shares bills with
 
-Ari Kiko, mi.key, Bouki
+Ari Kiko, Lily FM, mi.key
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pixelchick/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pixelchick/)*

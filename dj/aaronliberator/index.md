@@ -1,13 +1,14 @@
 # Aaron Liberator
 
-Aaron Liberator is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at FOLD, London on Sat, 19 Dec 2026.
+Aaron Liberator is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Volks, Brighton on Fri, 4 Dec 2026.
 
-Aaron Liberator is an acid and techno artist based in United Kingdom, with 12 gigs on soundcheck across Bristol, London, Sheffield and Vancouver. Often billed alongside Sterling Moss, Alba Heidari and Teecra. Next up: FOLD, London on Sat 19 Dec.
+Aaron Liberator is a techno and acid artist based in United Kingdom, with 13 gigs on soundcheck across Brighton, Bristol, London and Sheffield and 1 more. Often billed alongside Sterling Moss, Alba Heidari and Chris Liberator. Next up: Volks, Brighton on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Dec 2026 | Volks | Brighton |
 | Sat, 19 Dec 2026 | FOLD | London |
 
 ## Recently played
@@ -23,6 +24,6 @@ Aaron Liberator is an acid and techno artist based in United Kingdom, with 12 gi
 
 ## Shares bills with
 
-Sterling Moss, Alba Heidari, Teecra
+Sterling Moss, Alba Heidari, Chris Liberator
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aaronliberator/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aaronliberator/)*

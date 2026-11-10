@@ -1,6 +1,6 @@
 # Fake Agent
 
-Fake Agent is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Le Clan, Prague on Sat, 28 Nov 2026.
+Fake Agent is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Le Clan, Prague on Sat, 28 Nov 2026.
 
 Fake Agent is a techno and house artist, with 30 gigs on soundcheck across Bratislava and Prague. Often billed alongside Pink Concrete, aláya and Adamatron. Next up: Le Clan, Prague on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Fake Agent is a techno and house artist, with 30 gigs on soundcheck across Brati
 
 Pink Concrete, aláya, Adamatron
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fakeagent/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fakeagent/)*

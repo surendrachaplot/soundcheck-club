@@ -1,6 +1,6 @@
 # DJ Zenta
 
-DJ Zenta is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Mitsuki, Tokyo on Sun, 22 Nov 2026.
+DJ Zenta is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Mitsuki, Tokyo on Sun, 22 Nov 2026.
 
 DJ Zenta is a house and techno artist, with 22 gigs on soundcheck across Bangkok, Montreal, New York City and Osaka and 2 more. Often billed alongside Cosmic JD, Chicaiza and levolant. Next up: Mitsuki, Tokyo on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ DJ Zenta is a house and techno artist, with 22 gigs on soundcheck across Bangkok
 
 Cosmic JD, Chicaiza, levolant
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djzenta/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djzenta/)*

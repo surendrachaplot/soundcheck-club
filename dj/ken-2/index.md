@@ -1,6 +1,6 @@
 # Ken (2)
 
-Ken (2) is a Hip-Hop and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at SEL OCTAGON TOKYO, Tokyo on Sun, 15 Nov 2026.
+Ken (2) is a Hip-Hop and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at SEL OCTAGON TOKYO, Tokyo on Sun, 15 Nov 2026.
 
 Ken is a hip-hop and techno artist based in United States of America, with 19 gigs on soundcheck across Ghent, London, Melbourne and Tokyo. Often billed alongside Cheshire Yums, EMpTy and Flex (Italy). Next up: SEL OCTAGON TOKYO, Tokyo on Sun 15 Nov.
 
@@ -26,4 +26,4 @@ Ken is a hip-hop and techno artist based in United States of America, with 19 gi
 
 Cheshire Yums, EMpTy, Flex (Italy)
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ken-2/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ken-2/)*

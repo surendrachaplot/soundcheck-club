@@ -1,6 +1,6 @@
 # Die Selektion
 
-Die Selektion is a EBM and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Rollbergstr. 26 12053, Berlin on Fri, 13 Nov 2026.
+Die Selektion is a EBM and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Rollbergstr. 26 12053, Berlin on Fri, 13 Nov 2026.
 
 Die Selektion is an ebm and post-punk artist based in Germany, with 12 gigs on soundcheck across Berlin, Brussels, Dortmund / Essen and Hannover and 4 more. Often billed alongside Philipp Strobel, 24sex-b and Alessandro Adriani. Next up: TBA - Rollbergstr. 26 12053, Berlin on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Die Selektion is an ebm and post-punk artist based in Germany, with 12 gigs on s
 
 Philipp Strobel, 24sex-b, Alessandro Adriani
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dieselektion/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dieselektion/)*

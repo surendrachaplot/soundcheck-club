@@ -1,6 +1,6 @@
 # Mike Bell
 
-Mike Bell is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Zinkbad Eventhalle, Zurich on Thu, 31 Dec 2026.
+Mike Bell is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Zinkbad Eventhalle, Zurich on Thu, 31 Dec 2026.
 
 Mike Bell is a techno and trance artist based in Switzerland, with 4 gigs on soundcheck across Zurich. Often billed alongside Madwave, Meo Weiss and DJ Ace. Next up: Zinkbad Eventhalle, Zurich on Thu 31 Dec.
 
@@ -20,4 +20,4 @@ Mike Bell is a techno and trance artist based in Switzerland, with 4 gigs on sou
 
 Madwave, Meo Weiss, DJ Ace
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikebell/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikebell/)*

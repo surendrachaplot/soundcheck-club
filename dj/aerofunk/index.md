@@ -1,6 +1,6 @@
 # Aerofunk
 
-Aerofunk is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Kapsule, Liverpool on Sat, 26 Dec 2026.
+Aerofunk is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Kapsule, Liverpool on Sat, 26 Dec 2026.
 
 Aerofunk is a house and techno artist based in United Kingdom, with 40 gigs on soundcheck across Bristol, Leeds, Lisbon and Liverpool and 3 more. Often billed alongside Dig This, 4D (UK) and DMC.. Next up: Kapsule, Liverpool on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Aerofunk is a house and techno artist based in United Kingdom, with 40 gigs on s
 
 Dig This, 4D (UK), DMC.
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aerofunk/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aerofunk/)*

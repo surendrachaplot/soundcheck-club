@@ -1,6 +1,6 @@
 # Iori
 
-Iori is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Secret Venue in Minatoku-Nishiazabu, Tokyo on Fri, 13 Nov 2026.
+Iori is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Secret Venue in Minatoku-Nishiazabu, Tokyo on Fri, 13 Nov 2026.
 
 Iori is a techno and house artist based in Japan, with 67 gigs on soundcheck across Okinawa, Osaka, Playa Del Carmen and Seoul and 1 more. Often billed alongside Sakuma, YUTA and YouForgot. Next up: Secret Venue in Minatoku-Nishiazabu, Tokyo on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Iori is a techno and house artist based in Japan, with 67 gigs on soundcheck acr
 
 Sakuma, YUTA, YouForgot
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iori/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iori/)*

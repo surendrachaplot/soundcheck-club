@@ -1,6 +1,6 @@
 # Galantis
 
-Galantis is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Panther Island Pavilion, Dallas-fort-worth on Fri, 23 Apr 2027.
+Galantis is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Panther Island Pavilion, Dallas-fort-worth on Fri, 23 Apr 2027.
 
 Galantis is a house and progressive house artist based in Sweden, with 27 gigs on soundcheck across Austin, Boston, Chicago and Dallas Fort Worth and 14 more. Often billed alongside Zedd, Coco & Breezy and KREAM. Next up: Panther Island Pavilion, Dallas Fort Worth on Fri 23 Apr.
 
@@ -25,4 +25,4 @@ Galantis is a house and progressive house artist based in Sweden, with 27 gigs o
 
 Zedd, Coco & Breezy, KREAM
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/galantis/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/galantis/)*

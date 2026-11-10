@@ -1,6 +1,6 @@
 # Restricted
 
-Restricted is a Techno and Hardcore artist with 10 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Espacio Riesco Expo Centre, Santiago on Sat, 21 Nov 2026.
+Restricted is a Techno and Hardcore artist with 10 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Espacio Riesco Expo Centre, Santiago on Sat, 21 Nov 2026.
 
 Restricted is a techno and hardcore artist based in Australia, with 91 gigs on soundcheck across Amsterdam, Antwerp, Arizona and Athens and 56 more. Often billed alongside Azyr, Onlynumbers and Vieze Asbak. Next up: Espacio Riesco Expo Centre, Santiago on Sat 21 Nov.
 
@@ -34,4 +34,4 @@ Restricted is a techno and hardcore artist based in Australia, with 91 gigs on s
 
 Azyr, Onlynumbers, Vieze Asbak
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/restricted/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/restricted/)*

@@ -1,17 +1,19 @@
 # Phoenix Landing
 
-Phoenix Landing is a music venue in Boston with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. The next is "elements - Dave Shichman (Driven AM - Play Me Records - NYC)" on Thu, 5 Nov 2026.
+Phoenix Landing is a music venue in Boston with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Modular presents: VÄNTABLÄK, Puccikat, SMOKEIT&WEEP" on Tue, 10 Nov 2026.
 
-Phoenix Landing is a music venue in Boston listed on soundcheck. 1 upcoming gig, with line-ups including Dave Shichman. See dates, start times and who's playing. 512 Massachusetts Avenue; Cambridge, MA 02123; United States.
+Phoenix Landing is a music venue in Boston listed on soundcheck. 3 upcoming gigs, with line-ups including LOLAXVA. See dates, start times and who's playing. 512 Massachusetts Avenue; Cambridge, MA 02123; United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | elements - Dave Shichman (Driven AM - Play Me Records - NYC) | Dave Shichman |
+| Tue, 10 Nov 2026 | Modular presents: VÄNTABLÄK, Puccikat, SMOKEIT&WEEP |  |
+| Tue, 17 Nov 2026 | Modular presents: MIZ ANDROMEDA, LOLAXVA, & GLYPH MAUDE | LOLAXVA |
+| Tue, 24 Nov 2026 | Modular presents: Profiler [OPEN TO CLOSE] |  |
 
 ## Address
 
 512 Massachusetts Avenue; Cambridge, MA 02123; United States, Boston
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/boston/club/phoenix-landing/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/boston/club/phoenix-landing/)*

@@ -1,6 +1,6 @@
 # Birdsnake
 
-Birdsnake is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
+Birdsnake is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
 
 Birdsnake is a house and disco artist based in Australia, with 3 gigs on soundcheck across Melbourne. Often billed alongside Tornado Wallace, 1tbsp and 6 SENSE. Next up: The Wildlands, Melbourne on Fri 20 Nov.
 
@@ -19,4 +19,4 @@ Birdsnake is a house and disco artist based in Australia, with 3 gigs on soundch
 
 Tornado Wallace, 1tbsp, 6 SENSE
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/birdsnake/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/birdsnake/)*

@@ -1,6 +1,6 @@
 # GENAU: Luke Slater (Mote Evolver - Ostgut Ton / UK) at not|or|ius Club
 
-GENAU: Luke Slater (Mote Evolver - Ostgut Ton / UK) at not|or|ius Club on Sat 21 Nov, Turin. 1 artist: Luke Slater. Techno. See the line-up on soundcheck.
+GENAU: Luke Slater (Mote Evolver - Ostgut Ton / UK) at not|or|ius Club on Sat 21 Nov, Turin. 3 artists: Gandalf, Luke Slater and Polizei. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ GENAU: Luke Slater (Mote Evolver - Ostgut Ton / UK) at not|or|ius Club on Sat 21
 
 ## Line-up
 
+- Gandalf
 - Luke Slater
+- Polizei
 
 *Source: [soundcheck](https://soundcheck.club/e/2518371-genau-luke-slater-mote-evolver-ostgut-ton-uk-at-not-or-ius-c/)*

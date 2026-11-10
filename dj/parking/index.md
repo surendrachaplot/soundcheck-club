@@ -1,6 +1,6 @@
 # Park:ING
 
-Park:ING is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Unmute, Hanoi on Sat, 28 Nov 2026.
+Park:ING is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Unmute, Hanoi on Sat, 28 Nov 2026.
 
 Park:ING is a house and techno artist based in Vietnam, with 128 gigs on soundcheck across Bangkok, Hanoi, Ho Chi Minh City and Hong Kong and 2 more. Often billed alongside BongBongQuayQuay, Anh Vy and Khoi Mai. Next up: Unmute, Hanoi on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Park:ING is a house and techno artist based in Vietnam, with 128 gigs on soundch
 
 BongBongQuayQuay, Anh Vy, Khoi Mai
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/parking/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/parking/)*

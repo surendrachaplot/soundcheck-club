@@ -1,6 +1,6 @@
 # The Doobskins
 
-The Doobskins is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The System, Sheffield on Sat, 21 Nov 2026.
+The Doobskins is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The System, Sheffield on Sat, 21 Nov 2026.
 
 The Doobskins is a tech house and deep house artist, with 12 gigs on soundcheck across London and Sheffield. Often billed alongside Freddie Grisbi, Rhys Dyer and obviouslyalex. Next up: The System, Sheffield on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ The Doobskins is a tech house and deep house artist, with 12 gigs on soundcheck 
 
 Freddie Grisbi, Rhys Dyer, obviouslyalex
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thedoobskins/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thedoobskins/)*

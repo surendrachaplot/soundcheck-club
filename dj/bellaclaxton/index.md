@@ -1,8 +1,8 @@
 # Bella Claxton
 
-Bella Claxton is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Colour Factory, London on Fri, 20 Nov 2026.
+Bella Claxton is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Colour Factory, London on Fri, 20 Nov 2026.
 
-Bella Claxton is a techno and house artist based in Australia, with 139 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 35 more. Often billed alongside Faster Horses, Kyle Starkey and LAMMER. Next up: Colour Factory, London on Fri 20 Nov.
+Bella Claxton is a techno and house artist based in Australia, with 140 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 36 more. Often billed alongside Faster Horses, Kyle Starkey and LAMMER. Next up: Colour Factory, London on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Bella Claxton is a techno and house artist based in Australia, with 139 gigs on 
 | Sat, 2 Jan 2027 | Superordinary | Brisbane |
 | Sat, 23 Jan 2027 | Sydney Portugal Community Club | Sydney |
 | Sun, 24 Jan 2027 | Graham St, Port Melbourne | Melbourne |
+| Sat, 27 Feb 2027 | Thoroughbred Park | Australian-capital-territory |
 | Sun, 28 Mar 2027 | NDSM Docklands | Amsterdam |
 
 ## Recently played
@@ -32,4 +33,4 @@ Bella Claxton is a techno and house artist based in Australia, with 139 gigs on 
 
 Faster Horses, Kyle Starkey, LAMMER
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bellaclaxton/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bellaclaxton/)*

@@ -1,6 +1,6 @@
 # adak7
 
-adak7 is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA, Tokyo on Wed, 30 Dec 2026.
+adak7 is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA, Tokyo on Wed, 30 Dec 2026.
 
 adak7 is a techno and experimental artist based in Japan, with 54 gigs on soundcheck across Chubu, Osaka and Tokyo. Often billed alongside Masafumi Take, Olevv and OSHALEY. Next up: TBA, Tokyo on Wed 30 Dec.
 
@@ -25,4 +25,4 @@ adak7 is a techno and experimental artist based in Japan, with 54 gigs on soundc
 
 Masafumi Take, Olevv, OSHALEY
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adak7/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adak7/)*

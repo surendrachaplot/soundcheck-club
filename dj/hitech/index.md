@@ -1,14 +1,15 @@
 # HiTech
 
-HiTech is a Ghetto Tech and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Spin, San Diego on Fri, 4 Dec 2026.
+HiTech is a Ghetto Tech and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Spin, San Diego on Fri, 4 Dec 2026.
 
-HiTech is a ghetto tech and techno artist based in United States of America, with 102 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bangkok and 38 more. Often billed alongside ojoo, Crystallmess and Fullbodydurag. Next up: Spin, San Diego on Fri 4 Dec.
+HiTech is a ghetto tech and techno artist based in United States of America, with 103 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bangkok and 38 more. Often billed alongside ojoo, Crystallmess and Fullbodydurag. Next up: Spin, San Diego on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | Spin | San Diego |
+| Sat, 26 Dec 2026 | Radius | Chicago |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ HiTech is a ghetto tech and techno artist based in United States of America, wit
 
 ojoo, Crystallmess, Fullbodydurag
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hitech/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hitech/)*

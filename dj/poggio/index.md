@@ -1,6 +1,6 @@
 # Poggio
 
-Poggio is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Rex Club, Paris on Tue, 10 Nov 2026.
+Poggio is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Rex Club, Paris on Tue, 10 Nov 2026.
 
 Poggio is a house and electro artist based in France, with 95 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 20 more. Often billed alongside Gabriel Belabbas, Automatic Writing and E.LINA. Next up: Rex Club, Paris on Tue 10 Nov.
 
@@ -25,4 +25,4 @@ Poggio is a house and electro artist based in France, with 95 gigs on soundcheck
 
 Gabriel Belabbas, Automatic Writing, E.LINA
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/poggio/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/poggio/)*

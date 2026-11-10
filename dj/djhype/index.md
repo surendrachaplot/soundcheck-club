@@ -1,6 +1,6 @@
 # DJ Hype
 
-DJ Hype is a Drum & Bass and Jungle artist with 7 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Outernet Live, London on Sat, 14 Nov 2026.
+DJ Hype is a Drum & Bass and Jungle artist with 7 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Outernet Live, London on Sat, 14 Nov 2026.
 
 DJ Hype is a drum & bass and jungle artist based in United Kingdom, with 92 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Bangkok and 28 more. Often billed alongside IC3, Nicky Blackmarket and Dillinja. Next up: Outernet Live, London on Sat 14 Nov.
 
@@ -31,4 +31,4 @@ DJ Hype is a drum & bass and jungle artist based in United Kingdom, with 92 gigs
 
 IC3, Nicky Blackmarket, Dillinja
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djhype/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djhype/)*

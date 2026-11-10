@@ -1,6 +1,6 @@
 # Peter Power
 
-Peter Power is a Downtempo and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at BAR Inc, Osaka on Fri, 13 Nov 2026.
+Peter Power is a Downtempo and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at BAR Inc, Osaka on Fri, 13 Nov 2026.
 
 Peter Power is a downtempo and acid artist, with 5 gigs on soundcheck across Lisbon, Mexico City, Osaka and Tokyo. Often billed alongside Thomash, Acid Pauli and Barreto. Next up: BAR Inc, Osaka on Fri 13 Nov.
 
@@ -21,4 +21,4 @@ Peter Power is a downtempo and acid artist, with 5 gigs on soundcheck across Lis
 
 Thomash, Acid Pauli, Barreto
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peterpower/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peterpower/)*

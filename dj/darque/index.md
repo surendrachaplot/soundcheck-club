@@ -1,8 +1,8 @@
 # Darque
 
-Darque is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at 1Fox Precinct, Johannesburg on Sat, 12 Dec 2026.
+Darque is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at 1Fox Precinct, Johannesburg on Sat, 12 Dec 2026.
 
-Darque is an afro house and afro tech artist, with 9 gigs on soundcheck across Amsterdam, Cape Town, Ibiza and Johannesburg and 1 more. Often billed alongside Shimza, Baby Whitz and CLEIDO. Next up: 1Fox Precinct, Johannesburg on Sat 12 Dec.
+Darque is an afro house and afro tech artist based in South Africa, with 9 gigs on soundcheck across Amsterdam, Cape Town, Ibiza and Johannesburg and 1 more. Often billed alongside Shimza, Baby Whitz and CLEIDO. Next up: 1Fox Precinct, Johannesburg on Sat 12 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Darque is an afro house and afro tech artist, with 9 gigs on soundcheck across A
 
 Shimza, Baby Whitz, CLEIDO
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/darque/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/darque/)*

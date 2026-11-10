@@ -1,6 +1,6 @@
 # Gut Level
 
-Gut Level is a music venue in Sheffield with 10 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Sleazy Peelers (02) w/ Rosie Ama, Kay Fabe, Betty & Paniolo" on Fri, 13 Nov 2026.
+Gut Level is a music venue in Sheffield with 10 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Sleazy Peelers (02) w/ Rosie Ama, Kay Fabe, Betty & Paniolo" on Fri, 13 Nov 2026.
 
 Gut Level is a music venue in Sheffield listed on soundcheck. 10 upcoming gigs, with line-ups including Aquamarine, Backseat Driver, Ben Vince and Bubbles (UK) and 2 more. See dates, start times and who's playing. 32-34 Chapel Walk, Sheffield, S1 2PD.
 
@@ -23,4 +23,4 @@ Gut Level is a music venue in Sheffield listed on soundcheck. 10 upcoming gigs, 
 
 32-34 Chapel Walk, Sheffield, S1 2PD, Sheffield
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/gut-level/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/gut-level/)*

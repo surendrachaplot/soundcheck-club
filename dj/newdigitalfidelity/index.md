@@ -1,6 +1,6 @@
 # New Digital Fidelity
 
-New Digital Fidelity is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Kater, Berlin on Sat, 14 Nov 2026.
+New Digital Fidelity is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Kater, Berlin on Sat, 14 Nov 2026.
 
 New Digital Fidelity is a house and disco artist based in United Kingdom, with 11 gigs on soundcheck across Berlin, Chicago, London and Paris. Often billed alongside Davide Del Vecchio, BASHKKA and BUSSI. Next up: Kater, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ New Digital Fidelity is a house and disco artist based in United Kingdom, with 1
 
 Davide Del Vecchio, BASHKKA, BUSSI
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/newdigitalfidelity/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/newdigitalfidelity/)*

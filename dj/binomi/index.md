@@ -1,6 +1,6 @@
 # Binomi
 
-Binomi is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Sala Niagara, North on Sat, 28 Nov 2026.
+Binomi is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Sala Niagara, North on Sat, 28 Nov 2026.
 
 Binomi is a techno and ambient artist based in Spain, with 11 gigs on soundcheck across Barcelona, Malta and North. Often billed alongside ABSIS, Imox and Josh Hoppen. Next up: Sala Niagara, North on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Binomi is a techno and ambient artist based in Spain, with 11 gigs on soundcheck
 
 ABSIS, Imox, Josh Hoppen
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/binomi/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/binomi/)*

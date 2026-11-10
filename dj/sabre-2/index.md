@@ -1,6 +1,6 @@
 # Sabre (PL)
 
-Sabre (PL) is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Gdynia, Gdansk on Fri, 13 Nov 2026.
+Sabre (PL) is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Gdynia, Gdansk on Fri, 13 Nov 2026.
 
 Sabre (PL) is a techno and acid artist, with 47 gigs on soundcheck across Amsterdam, Bucharest, Edinburgh and Gdansk and 5 more. Often billed alongside Mislaw, Jurek Przezdziecki and Wencel. Next up: TBA - Gdynia, Gdansk on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Sabre (PL) is a techno and acid artist, with 47 gigs on soundcheck across Amster
 
 Mislaw, Jurek Przezdziecki, Wencel
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sabre-2/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sabre-2/)*

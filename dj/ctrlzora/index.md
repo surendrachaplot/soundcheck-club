@@ -1,8 +1,8 @@
 # CTRLZORA
 
-CTRLZORA is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Podlasie Club, Chicago on Fri, 13 Nov 2026.
+CTRLZORA is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Podlasie Club, Chicago on Fri, 13 Nov 2026.
 
-CTRLZORA is a house and techno artist based in United States of America, with 121 gigs on soundcheck across Amsterdam, Atlanta, Chicago and Copenhagen and 12 more. Often billed alongside JADALAREIGN, BLESSTONIO and Cordell Johnson. Next up: Podlasie Club, Chicago on Fri 13 Nov.
+CTRLZORA is a house and techno artist based in United States of America, with 122 gigs on soundcheck across Amsterdam, Atlanta, Chicago and Copenhagen and 12 more. Often billed alongside JADALAREIGN, BLESSTONIO and Cordell Johnson. Next up: Podlasie Club, Chicago on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ CTRLZORA is a house and techno artist based in United States of America, with 12
 | Fri, 13 Nov 2026 | Podlasie Club | Chicago |
 | Sat, 21 Nov 2026 | Ormside Projects | London |
 | Sat, 28 Nov 2026 | Doka | Amsterdam |
+| Sun, 27 Dec 2026 | Radius | Chicago |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ CTRLZORA is a house and techno artist based in United States of America, with 12
 
 JADALAREIGN, BLESSTONIO, Cordell Johnson
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ctrlzora/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ctrlzora/)*

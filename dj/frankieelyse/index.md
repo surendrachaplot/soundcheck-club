@@ -1,6 +1,6 @@
 # Frankie Elyse
 
-Frankie Elyse is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at The Berkeley Suite, Glasgow on Fri, 20 Nov 2026.
+Frankie Elyse is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at The Berkeley Suite, Glasgow on Fri, 20 Nov 2026.
 
 Frankie Elyse is a house and electro artist based in United Kingdom, with 85 gigs on soundcheck across Aberdeen, Berlin, Edinburgh and Glasgow and 4 more. Often billed alongside Jozette, Corran and Neoma. Next up: The Berkeley Suite, Glasgow on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Frankie Elyse is a house and electro artist based in United Kingdom, with 85 gig
 
 Jozette, Corran, Neoma
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frankieelyse/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frankieelyse/)*

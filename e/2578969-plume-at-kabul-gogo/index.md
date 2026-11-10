@@ -1,6 +1,6 @@
 # Plume at KABUL à GoGo
 
-Plume at KABUL à GoGo on Fri 20 Nov, Utrecht. 2 artists: Evi and MBQT. House and Disco. See the line-up on soundcheck.
+Plume at KABUL à GoGo on Fri 20 Nov, Utrecht. 3 artists: Evi, MBQT and NT-FRAGILE. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Plume at KABUL à GoGo on Fri 20 Nov, Utrecht. 2 artists: Evi and MBQT. House an
 
 - Evi (1)
 - MBQT
+- NT-FRAGILE
 
 *Source: [soundcheck](https://soundcheck.club/e/2578969-plume-at-kabul-gogo/)*

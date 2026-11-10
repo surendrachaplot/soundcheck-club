@@ -1,6 +1,6 @@
 # Brick Lane Tap Room
 
-Brick Lane Tap Room is a music venue in London with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. The next is "Brick Lane NYE | House Digs, Global Groove, Disco - feat. ARLYSS, Marley, Flat Earth Disco" on Thu, 31 Dec 2026.
+Brick Lane Tap Room is a music venue in London with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. The next is "Brick Lane NYE | House Digs, Global Groove, Disco - feat. ARLYSS, Marley, Flat Earth Disco" on Thu, 31 Dec 2026.
 
 Brick Lane Tap Room is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including ARLYSS, Jahmed and Marley Reid. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Brick Lane Tap Room is a music venue in London listed on soundcheck. 1 upcoming 
 | --- | --- | --- |
 | Thu, 31 Dec 2026 | Brick Lane NYE / House Digs, Global Groove, Disco - feat. ARLYSS, Marley, Flat Earth Disco | ARLYSS, Jahmed, Marley Reid |
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/brick-lane-tap-room/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/brick-lane-tap-room/)*

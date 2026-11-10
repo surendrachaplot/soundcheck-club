@@ -1,6 +1,6 @@
 # Paal12
 
-Paal12 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Turmquartier, Baden-w-rttemberg on Sat, 30 Jan 2027.
+Paal12 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Turmquartier, Baden-w-rttemberg on Sat, 30 Jan 2027.
 
 Paal12 is a techno and house artist based in Germany, with 5 gigs on soundcheck across Baden W Rttemberg, Berlin and Mannheim. Often billed alongside JayKosy, Bisk and Don Tom. Next up: Turmquartier, Baden W Rttemberg on Sat 30 Jan.
 
@@ -21,4 +21,4 @@ Paal12 is a techno and house artist based in Germany, with 5 gigs on soundcheck 
 
 JayKosy, Bisk, Don Tom
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paal12/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paal12/)*

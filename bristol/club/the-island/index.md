@@ -1,6 +1,6 @@
 # The Island
 
-The Island is a music venue in Bristol with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "En Masse After Party" on Sat, 14 Nov 2026.
+The Island is a music venue in Bristol with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "En Masse After Party" on Sat, 14 Nov 2026.
 
 The Island is a music venue in Bristol listed on soundcheck. 4 upcoming gigs, with line-ups including ALYA L, Anina, Bruce and Clarity and 2 more. See dates, start times and who's playing. Bridewell St, Bristol, BS1 2QD, United Kingdom.
 
@@ -17,4 +17,4 @@ The Island is a music venue in Bristol listed on soundcheck. 4 upcoming gigs, wi
 
 Bridewell St, Bristol, BS1 2QD, United Kingdom, Bristol
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-island/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-island/)*

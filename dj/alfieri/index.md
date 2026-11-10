@@ -1,6 +1,6 @@
 # Alfieri
 
-Alfieri is a Electro and Dub artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - TUTTO / NIENTE Lugano, Switzerland on Thu, 31 Dec 2026.
+Alfieri is a Electro and Dub artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - TUTTO / NIENTE Lugano, Switzerland on Thu, 31 Dec 2026.
 
 Alfieri is an electro and dub artist based in Switzerland, with 3 gigs on soundcheck across Berlin, Milan and Switzerland. Often billed alongside Deckneeco, Dr. Sud and Funken. Next up: TBA - TUTTO / NIENTE Lugano, Switzerland on Thu 31 Dec.
 
@@ -19,4 +19,4 @@ Alfieri is an electro and dub artist based in Switzerland, with 3 gigs on soundc
 
 Deckneeco, Dr. Sud, Funken
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alfieri/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alfieri/)*

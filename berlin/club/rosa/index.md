@@ -1,6 +1,6 @@
 # ROSA
 
-ROSA is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "RE:CODED - Gay Fetish Party · XXL Darkroom · Techno & House" on Fri, 13 Nov 2026.
+ROSA is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "RE:CODED - Gay Fetish Party · XXL Darkroom · Techno & House" on Fri, 13 Nov 2026.
 
 ROSA is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, with line-ups including ābnamā, ADAM MUNNINGS, AISHA and Amo (IT) and 2 more. See dates, start times and who's playing. Storkower Str. 121, 10407 Berlin.
 
@@ -20,4 +20,4 @@ ROSA is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, with line
 
 Storkower Str. 121, 10407 Berlin, Berlin
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rosa/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rosa/)*

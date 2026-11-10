@@ -1,6 +1,6 @@
 # Memoryman aka Uovo
 
-Memoryman aka Uovo is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Apophis Club, Milan on Sat, 14 Nov 2026.
+Memoryman aka Uovo is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Apophis Club, Milan on Sat, 14 Nov 2026.
 
 Memoryman aka Uovo is a house and deep house artist based in Italy, with 17 gigs on soundcheck across Bologna, Florence and Milan. Often billed alongside Goodjacobbe, DJ Rou and Dirty Channels. Next up: Apophis Club, Milan on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Memoryman aka Uovo is a house and deep house artist based in Italy, with 17 gigs
 
 Goodjacobbe, DJ Rou, Dirty Channels
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/memorymanakauovo/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/memorymanakauovo/)*

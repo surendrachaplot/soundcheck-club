@@ -1,6 +1,6 @@
 # nastygloss
 
-nastygloss is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at NWHR, Montreal on Fri, 13 Nov 2026.
+nastygloss is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at NWHR, Montreal on Fri, 13 Nov 2026.
 
 nastygloss is a techno and club artist based in Canada, with 62 gigs on soundcheck across Montreal and Quebec City. Often billed alongside hÿdra, Casa Kobrae and Katamina. Next up: NWHR, Montreal on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ nastygloss is a techno and club artist based in Canada, with 62 gigs on soundche
 
 hÿdra, Casa Kobrae, Katamina
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nastygloss/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nastygloss/)*

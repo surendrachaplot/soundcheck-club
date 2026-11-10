@@ -1,6 +1,6 @@
 # MSG (2)
 
-MSG (2) is a Footwork and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Lovehaus, Seoul on Sat, 14 Nov 2026.
+MSG (2) is a Footwork and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Lovehaus, Seoul on Sat, 14 Nov 2026.
 
 MSG is a footwork and hip-hop artist, with 4 gigs on soundcheck across Seoul. Often billed alongside Destin, Delic'amarr and DJ Spinn. Next up: Lovehaus, Seoul on Sat 14 Nov.
 
@@ -20,4 +20,4 @@ MSG is a footwork and hip-hop artist, with 4 gigs on soundcheck across Seoul. Of
 
 Destin, Delic'amarr, DJ Spinn
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/msg-2/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/msg-2/)*

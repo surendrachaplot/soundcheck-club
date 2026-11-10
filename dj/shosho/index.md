@@ -1,6 +1,6 @@
 # Shosho
 
-Shosho is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Thu, 26 Nov 2026.
+Shosho is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Thu, 26 Nov 2026.
 
 Shosho is a house and minimal artist based in Bulgaria, with 48 gigs on soundcheck across Amsterdam, Ho Chi Minh City, Sofia and Tokyo. Often billed alongside Zimone, Frykk and JINI. Next up: DJ Bar Bridge Shinjuku, Tokyo on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Shosho is a house and minimal artist based in Bulgaria, with 48 gigs on soundche
 
 Zimone, Frykk, JINI
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shosho/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shosho/)*

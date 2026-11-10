@@ -1,6 +1,6 @@
 # ANSWER (IN)
 
-ANSWER (IN) is a Tech House and Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Foothills of Nandi, Karahalli, Bangalore on Sat, 5 Dec 2026.
+ANSWER (IN) is a Tech House and Afro House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Foothills of Nandi, Karahalli, Bangalore on Sat, 5 Dec 2026.
 
 ANSWER (IN) is a tech house and afro house artist based in India, with 3 gigs on soundcheck across Amsterdam and Bangalore. Often billed alongside AATMA, Ae:ther and Anyasa. Next up: TBA - Foothills of Nandi, Karahalli, Bangalore on Sat 5 Dec.
 
@@ -19,4 +19,4 @@ ANSWER (IN) is a tech house and afro house artist based in India, with 3 gigs on
 
 AATMA, Ae:ther, Anyasa
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/answerin/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/answerin/)*

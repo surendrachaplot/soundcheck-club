@@ -1,6 +1,6 @@
 # Shamiso
 
-Shamiso is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Paragem Feima, Mozambique on Sat, 5 Dec 2026.
+Shamiso is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Paragem Feima, Mozambique on Sat, 5 Dec 2026.
 
 Shamiso is an afro house and afro tech artist based in South Africa, with 16 gigs on soundcheck across Amsterdam, Cape Town, Johannesburg and London and 3 more. Often billed alongside CLEIDO, Dillan Desai and Johnny Fiore. Next up: Paragem Feima, Mozambique on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Shamiso is an afro house and afro tech artist based in South Africa, with 16 gig
 
 CLEIDO, Dillan Desai, Johnny Fiore
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shamiso/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shamiso/)*

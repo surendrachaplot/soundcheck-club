@@ -1,6 +1,6 @@
 # Stones Taro
 
-Stones Taro is a House and Bass artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - to ticket holders via email, Denver on Fri, 13 Nov 2026.
+Stones Taro is a House and Bass artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - to ticket holders via email, Denver on Fri, 13 Nov 2026.
 
 Stones Taro is a house and bass artist based in Japan, with 134 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Berlin and 24 more. Often billed alongside Lomax, KOTSU and FELINE (JP). Next up: TBA - to ticket holders via email, Denver on Fri 13 Nov.
 
@@ -28,4 +28,4 @@ Stones Taro is a house and bass artist based in Japan, with 134 gigs on soundche
 
 Lomax, KOTSU, FELINE (JP)
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stonestaro/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stonestaro/)*

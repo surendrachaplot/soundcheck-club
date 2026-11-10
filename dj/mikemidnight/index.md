@@ -1,14 +1,13 @@
 # Mike Midnight
 
-Mike Midnight is a Downtempo and Electronica artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Mount Adrah, Wiradjuri Country NSW, New-south-wales on Fri, 6 Nov 2026.
+Mike Midnight is a Downtempo and Electronica artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at boomroom, Perth on Sat, 14 Nov 2026.
 
-Mike Midnight is a downtempo and electronica artist based in Australia, with 49 gigs on soundcheck across Athens, Berlin, Bologna and Copenhagen and 14 more. Often billed alongside Paper-Cuts, Roza Terenzi and Miscmeg. Next up: TBA - Mount Adrah, Wiradjuri Country NSW, New South Wales on Fri 6 Nov.
+Mike Midnight is a downtempo and electronica artist based in Australia, with 49 gigs on soundcheck across Athens, Berlin, Bologna and Copenhagen and 14 more. Often billed alongside Paper-Cuts, Roza Terenzi and Miscmeg. Next up: boomroom, Perth on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | TBA - Mount Adrah, Wiradjuri Country NSW | New-south-wales |
 | Sat, 14 Nov 2026 | boomroom | Perth |
 | Thu, 17 Jun 2027 | Medane Beach | Croatia |
 
@@ -27,4 +26,4 @@ Mike Midnight is a downtempo and electronica artist based in Australia, with 49 
 
 Paper-Cuts, Roza Terenzi, Miscmeg
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikemidnight/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikemidnight/)*

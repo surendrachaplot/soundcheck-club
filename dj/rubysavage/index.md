@@ -1,6 +1,6 @@
 # Ruby Savage
 
-Ruby Savage is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Fortim CE, Brazil on Sat, 26 Dec 2026.
+Ruby Savage is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Fortim CE, Brazil on Sat, 26 Dec 2026.
 
 Ruby Savage is a house and disco artist based in Netherlands, with 103 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 24 more. Often billed alongside Shy One, Mendel and Dee Diggs. Next up: TBA - Fortim CE, Brazil on Sat 26 Dec.
 
@@ -26,4 +26,4 @@ Ruby Savage is a house and disco artist based in Netherlands, with 103 gigs on s
 
 Shy One, Mendel, Dee Diggs
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rubysavage/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rubysavage/)*

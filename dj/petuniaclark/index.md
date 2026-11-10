@@ -1,6 +1,6 @@
 # Petunia Clark
 
-Petunia Clark is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Subcero Club, Madrid on Thu, 12 Nov 2026.
+Petunia Clark is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Subcero Club, Madrid on Thu, 12 Nov 2026.
 
 Petunia Clark is an electronica and house artist based in Spain, with 5 gigs on soundcheck across Madrid. Often billed alongside Cerescente, ESTRELLA OR and Falsx. Next up: Subcero Club, Madrid on Thu 12 Nov.
 
@@ -21,4 +21,4 @@ Petunia Clark is an electronica and house artist based in Spain, with 5 gigs on 
 
 Cerescente, ESTRELLA OR, Falsx
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/petuniaclark/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/petuniaclark/)*

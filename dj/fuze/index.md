@@ -1,13 +1,14 @@
 # FUZE
 
-FUZE is a Drum & Bass and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Clock Factory, Bristol on Sat, 23 Jan 2027.
+FUZE is a Drum & Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at The Full Moon Pub & Attic Bar, Bristol on Thu, 3 Dec 2026.
 
-FUZE is a drum & bass and house artist based in United Kingdom, with 7 gigs on soundcheck across Bristol, Cardiff and London. Often billed alongside ACID HARRY, Anton X and HARTY. Next up: The Clock Factory, Bristol on Sat 23 Jan.
+FUZE is a drum & bass and dubstep artist based in United Kingdom, with 8 gigs on soundcheck across Bristol, Cardiff and London. Often billed alongside ACID HARRY, Anton X and HARTY. Next up: The Full Moon Pub & Attic Bar, Bristol on Thu 3 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 3 Dec 2026 | The Full Moon Pub & Attic Bar | Bristol |
 | Sat, 23 Jan 2027 | The Clock Factory | Bristol |
 
 ## Recently played
@@ -23,4 +24,4 @@ FUZE is a drum & bass and house artist based in United Kingdom, with 7 gigs on s
 
 ACID HARRY, Anton X, HARTY
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fuze/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fuze/)*

@@ -1,6 +1,6 @@
 # EMPTY(IT)
 
-EMPTY(IT) is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Azimut Club, Turin on Mon, 7 Dec 2026.
+EMPTY(IT) is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Azimut Club, Turin on Mon, 7 Dec 2026.
 
 EMPTY(IT) is an electronica and techno artist based in Italy, with 4 gigs on soundcheck across Turin. Often billed alongside BLACK CROW, Jack Fresia and Alberto Tolo. Next up: Azimut Club, Turin on Mon 7 Dec.
 
@@ -20,4 +20,4 @@ EMPTY(IT) is an electronica and techno artist based in Italy, with 4 gigs on sou
 
 BLACK CROW, Jack Fresia, Alberto Tolo
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emptyit/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emptyit/)*

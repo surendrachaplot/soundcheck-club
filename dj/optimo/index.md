@@ -1,6 +1,6 @@
 # Optimo (Espacio)
 
-Optimo (Espacio) is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at The Golden Lion, Manchester on Fri, 13 Nov 2026.
+Optimo (Espacio) is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at The Golden Lion, Manchester on Fri, 13 Nov 2026.
 
 Optimo (Espacio) is a house and techno artist based in United Kingdom, with 204 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Athens and 48 more. Often billed alongside Daniel Avery, HAAi and Erol Alkan. Next up: The Golden Lion, Manchester on Fri 13 Nov.
 
@@ -34,4 +34,4 @@ Optimo (Espacio) is a house and techno artist based in United Kingdom, with 204 
 
 Daniel Avery, HAAi, Erol Alkan
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/optimo/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/optimo/)*

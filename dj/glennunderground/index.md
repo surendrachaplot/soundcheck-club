@@ -1,6 +1,6 @@
 # Glenn Underground
 
-Glenn Underground is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Northern Lights Lounge, Detroit on Sat, 14 Nov 2026.
+Glenn Underground is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Northern Lights Lounge, Detroit on Sat, 14 Nov 2026.
 
 Glenn Underground is a house and deep house artist based in United States of America, with 86 gigs on soundcheck across Amsterdam, Berlin, Bristol and Chicago and 7 more. Often billed alongside Aaron Dae, Adorio and Av0n. Next up: Northern Lights Lounge, Detroit on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Glenn Underground is a house and deep house artist based in United States of Ame
 
 Aaron Dae, Adorio, Av0n
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/glennunderground/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/glennunderground/)*

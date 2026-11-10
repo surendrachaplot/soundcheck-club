@@ -1,6 +1,6 @@
 # Paixão
 
-Paixão is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Collect LX Factory, Lisbon on Fri, 20 Nov 2026.
+Paixão is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Collect LX Factory, Lisbon on Fri, 20 Nov 2026.
 
 Paixão is a house and techno artist based in Portugal, with 33 gigs on soundcheck across Berlin, Krakow and Lisbon. Often billed alongside João Melgueira, MESTIZANA and Caroline Lethô. Next up: Collect LX Factory, Lisbon on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Paixão is a house and techno artist based in Portugal, with 33 gigs on soundche
 
 João Melgueira, MESTIZANA, Caroline Lethô
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paixao/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paixao/)*

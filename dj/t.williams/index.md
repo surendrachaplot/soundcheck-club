@@ -1,6 +1,6 @@
 # T.Williams
 
-T.Williams is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Margate Arts Club, South-east on Sat, 5 Dec 2026.
+T.Williams is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Margate Arts Club, South-east on Sat, 5 Dec 2026.
 
 T.Williams is a house and minimal artist, with 21 gigs on soundcheck across Amsterdam, Calgary, London and Paris and 3 more. Often billed alongside A G E, Melvo Baptiste and Angela Rose. Next up: Margate Arts Club, South East on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ T.Williams is a house and minimal artist, with 21 gigs on soundcheck across Amst
 
 A G E, Melvo Baptiste, Angela Rose
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/t.williams/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/t.williams/)*

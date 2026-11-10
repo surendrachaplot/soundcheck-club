@@ -1,6 +1,6 @@
 # Mati Espina
 
-Mati Espina is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Zecret Location (Ask on Instagram via DM), Berlin on Fri, 27 Nov 2026.
+Mati Espina is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Zecret Location (Ask on Instagram via DM), Berlin on Fri, 27 Nov 2026.
 
 Mati Espina is a house and minimal artist based in Argentina, with 11 gigs on soundcheck across Barcelona and Berlin. Often billed alongside Catania, Cavilla and Hubz. Next up: TBA - Zecret Location (Ask on Instagram via DM), Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Mati Espina is a house and minimal artist based in Argentina, with 11 gigs on so
 
 Catania, Cavilla, Hubz
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matiespina/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matiespina/)*

@@ -1,6 +1,6 @@
 # RMW (DE)
 
-RMW (DE) is a Experimental and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Void Club, Berlin on Fri, 27 Nov 2026.
+RMW (DE) is a Experimental and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Void Club, Berlin on Fri, 27 Nov 2026.
 
 RMW (DE) is an experimental and drum & bass artist, with 4 gigs on soundcheck across Berlin. Often billed alongside Alex Pastore, Krushak and Shapednoise. Next up: Void Club, Berlin on Fri 27 Nov.
 
@@ -20,4 +20,4 @@ RMW (DE) is an experimental and drum & bass artist, with 4 gigs on soundcheck ac
 
 Alex Pastore, Krushak, Shapednoise
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rmw-de/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rmw-de/)*

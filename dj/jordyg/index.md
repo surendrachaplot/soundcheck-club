@@ -1,6 +1,6 @@
 # Jordy G
 
-Jordy G is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Komedia Bath, West-wales on Fri, 18 Dec 2026.
+Jordy G is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Komedia Bath, West-wales on Fri, 18 Dec 2026.
 
 Jordy G is a drum & bass and bass artist based in United Kingdom, with 16 gigs on soundcheck across Bristol, London, Manchester and West Wales. Often billed alongside Benny L, Carasel and Deanie Rankin. Next up: Komedia Bath, West Wales on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Jordy G is a drum & bass and bass artist based in United Kingdom, with 16 gigs o
 
 Benny L, Carasel, Deanie Rankin
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jordyg/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jordyg/)*

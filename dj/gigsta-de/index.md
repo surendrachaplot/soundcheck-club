@@ -1,6 +1,6 @@
 # Nono Gigsta
 
-Nono Gigsta is a Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Indiranagar Social, Bangalore on Sat, 14 Nov 2026.
+Nono Gigsta is a Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Indiranagar Social, Bangalore on Sat, 14 Nov 2026.
 
 Nono Gigsta is a bass and techno artist based in Belgium, with 80 gigs on soundcheck across Amsterdam, Armenia, Bangalore and Berlin and 31 more. Often billed alongside CCL, Minor Science and Nazar. Next up: Indiranagar Social, Bangalore on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Nono Gigsta is a bass and techno artist based in Belgium, with 80 gigs on soundc
 
 CCL, Minor Science, Nazar
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gigsta-de/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gigsta-de/)*

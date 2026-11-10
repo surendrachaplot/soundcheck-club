@@ -1,6 +1,6 @@
 # OnsBerg
 
-OnsBerg is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Hangaren, Copenhagen on Sat, 28 Nov 2026.
+OnsBerg is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Hangaren, Copenhagen on Sat, 28 Nov 2026.
 
 OnsBerg is a techno and house artist based in Denmark, with 31 gigs on soundcheck across Copenhagen. Often billed alongside Tim Andresen, Baime and Aja Gulris. Next up: Hangaren, Copenhagen on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ OnsBerg is a techno and house artist based in Denmark, with 31 gigs on soundchec
 
 Tim Andresen, Baime, Aja Gulris
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/onsberg/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/onsberg/)*

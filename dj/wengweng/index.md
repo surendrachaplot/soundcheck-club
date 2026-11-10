@@ -1,6 +1,6 @@
 # Weng Weng
 
-Weng Weng is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at OIL Club, Shenzhen on Sun, 6 Dec 2026.
+Weng Weng is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at OIL Club, Shenzhen on Sun, 6 Dec 2026.
 
 Weng Weng is a techno and house artist based in China, with 68 gigs on soundcheck across Beijing, Chengdu, Osaka and Shanghai and 1 more. Often billed alongside Nigls, Mickey Zhang and Skögul. Next up: OIL Club, Shenzhen on Sun 6 Dec.
 
@@ -25,4 +25,4 @@ Weng Weng is a techno and house artist based in China, with 68 gigs on soundchec
 
 Nigls, Mickey Zhang, Skögul
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wengweng/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wengweng/)*

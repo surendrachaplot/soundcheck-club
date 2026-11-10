@@ -1,6 +1,6 @@
 # alter.world
 
-alter.world is a Techno and Dub Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - VITAL Lower East Side, New York City on Sat, 14 Nov 2026.
+alter.world is a Techno and Dub Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - VITAL Lower East Side, New York City on Sat, 14 Nov 2026.
 
 alter.world is a techno and dub techno artist based in United States of America, with 9 gigs on soundcheck across New York City. Often billed alongside Oscil, Uttaraa and Qtea. Next up: TBA - VITAL Lower East Side, New York City on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ alter.world is a techno and dub techno artist based in United States of America,
 
 Oscil, Uttaraa, Qtea
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alter.world/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alter.world/)*

@@ -1,6 +1,6 @@
 # Goldener Reiter
 
-Goldener Reiter is a music venue in Munich with 7 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "House of Lolo Dancing Session" on Fri, 13 Nov 2026.
+Goldener Reiter is a music venue in Munich with 7 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "House of Lolo Dancing Session" on Fri, 13 Nov 2026.
 
 Goldener Reiter is a music venue in Munich listed on soundcheck. 7 upcoming gigs, with line-ups including Adriano Scopece, André Dancekowski, Arninho and die_ley and 2 more. See dates, start times and who's playing. Theklastraße 1 Munich, Germany 80469.
 
@@ -20,4 +20,4 @@ Goldener Reiter is a music venue in Munich listed on soundcheck. 7 upcoming gigs
 
 Theklastraße 1 Munich, Germany 80469, Munich
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/goldener-reiter/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/goldener-reiter/)*

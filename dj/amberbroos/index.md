@@ -1,6 +1,6 @@
 # Amber Broos
 
-Amber Broos is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at DRUMSHEDS, London on Sat, 14 Nov 2026.
+Amber Broos is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at DRUMSHEDS, London on Sat, 14 Nov 2026.
 
 Amber Broos is a techno and electro artist based in Belgium, with 36 gigs on soundcheck across Amsterdam, Basel, Berlin and Brussels and 13 more. Often billed alongside SHDW, Alarico and Juliet Fox. Next up: DRUMSHEDS, London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Amber Broos is a techno and electro artist based in Belgium, with 36 gigs on sou
 
 SHDW, Alarico, Juliet Fox
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amberbroos/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amberbroos/)*

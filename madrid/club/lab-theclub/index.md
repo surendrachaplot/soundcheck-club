@@ -1,6 +1,6 @@
 # LAB theCLUB
 
-LAB theCLUB is a music venue in Madrid with 12 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Joris Voorn pres. A Trip To Galaxy" on Fri, 13 Nov 2026.
+LAB theCLUB is a music venue in Madrid with 12 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Joris Voorn pres. A Trip To Galaxy" on Fri, 13 Nov 2026.
 
 LAB theCLUB is a music venue in Madrid listed on soundcheck. 12 upcoming gigs, with line-ups including AAfrAA, Abdon, ART NO LOGIA and BASHKKA and 2 more. See dates, start times and who's playing. Estación de Chamartín. Primera planta s/n 28036 Madrid.
 
@@ -23,4 +23,4 @@ LAB theCLUB is a music venue in Madrid listed on soundcheck. 12 upcoming gigs, w
 
 Estación de Chamartín. Primera planta s/n 28036 Madrid, Madrid
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lab-theclub/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lab-theclub/)*

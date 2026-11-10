@@ -1,6 +1,6 @@
 # yayoi (JP)
 
-yayoi (JP) is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Heavy Sick Zero, Tokyo on Sat, 14 Nov 2026.
+yayoi (JP) is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Heavy Sick Zero, Tokyo on Sat, 14 Nov 2026.
 
 yayoi (JP) is a bass and drum & bass artist based in Japan, with 15 gigs on soundcheck across Tokyo. Often billed alongside Velocity, HALU(Tribal Connection) and Jungle Rock. Next up: Heavy Sick Zero, Tokyo on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ yayoi (JP) is a bass and drum & bass artist based in Japan, with 15 gigs on soun
 
 Velocity, HALU(Tribal Connection), Jungle Rock
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yayoi-jp/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yayoi-jp/)*

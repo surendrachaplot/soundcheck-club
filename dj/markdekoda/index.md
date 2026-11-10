@@ -1,14 +1,15 @@
 # Mark Dekoda
 
-Mark Dekoda is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Die Rakete, Nürnberg on Fri, 11 Dec 2026.
+Mark Dekoda is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Die Rakete, Nürnberg on Fri, 11 Dec 2026.
 
-Mark Dekoda is a techno and electro artist based in Germany, with 74 gigs on soundcheck across Basel, Berlin, Cologne and Cyprus and 14 more. Often billed alongside Klanglos, Sylvie Miles and Ben Dust. Next up: Die Rakete, Nürnberg on Fri 11 Dec.
+Mark Dekoda is a techno and electro artist based in Germany, with 75 gigs on soundcheck across Basel, Berlin, Cologne and Cyprus and 14 more. Often billed alongside Klanglos, Sylvie Miles and Ben Dust. Next up: Die Rakete, Nürnberg on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Dec 2026 | Die Rakete | Nürnberg |
+| Sat, 12 Dec 2026 | Elysia | Basel |
 | Sat, 12 Dec 2026 | Elysia | Basel |
 | Fri, 6 Aug 2027 | Base Events Venue | Cyprus |
 
@@ -27,4 +28,4 @@ Mark Dekoda is a techno and electro artist based in Germany, with 74 gigs on sou
 
 Klanglos, Sylvie Miles, Ben Dust
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markdekoda/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markdekoda/)*

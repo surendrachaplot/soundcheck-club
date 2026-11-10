@@ -1,14 +1,13 @@
 # Cousin
 
-Cousin is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Mount Adrah, Wiradjuri Country NSW, New-south-wales on Fri, 6 Nov 2026.
+Cousin is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at MIDNIGHT EAST, Tokyo on Fri, 20 Nov 2026.
 
-Cousin is a techno and house artist based in Australia, with 105 gigs on soundcheck across Adelaide, Amsterdam, Athens and Auckland and 28 more. Often billed alongside DJ Fart in the Club, Kia (AU) and D-Grade. Next up: TBA - Mount Adrah, Wiradjuri Country NSW, New South Wales on Fri 6 Nov.
+Cousin is a techno and house artist based in Australia, with 105 gigs on soundcheck across Adelaide, Amsterdam, Athens and Auckland and 28 more. Often billed alongside DJ Fart in the Club, Kia (AU) and D-Grade. Next up: MIDNIGHT EAST, Tokyo on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | TBA - Mount Adrah, Wiradjuri Country NSW | New-south-wales |
 | Fri, 20 Nov 2026 | MIDNIGHT EAST | Tokyo |
 | Sun, 22 Nov 2026 | West Harlem | Kyoto |
 | Fri, 26 Mar 2027 | TBA - Eagle Ridge Event Park, Tallarook | Victoria |
@@ -28,4 +27,4 @@ Cousin is a techno and house artist based in Australia, with 105 gigs on soundch
 
 DJ Fart in the Club, Kia (AU), D-Grade
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cousin/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cousin/)*

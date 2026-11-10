@@ -1,6 +1,6 @@
 # 1720
 
-1720 is a music venue in Los Angeles with 5 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Blade Rave" on Sat, 2 Jan 2027.
+1720 is a music venue in Los Angeles with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Blade Rave" on Sat, 2 Jan 2027.
 
 1720 is a music venue in Los Angeles listed on soundcheck. 5 upcoming gigs, with line-ups including Klangkarussell and Modeselektor. See dates, start times and who's playing. 1720 E. 16th Ave, Los Angeles, CA 90021.
 
@@ -18,4 +18,4 @@
 
 1720 E. 16th Ave, Los Angeles, CA 90021, Los Angeles
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/1720/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/1720/)*

@@ -1,6 +1,6 @@
 # maux
 
-maux is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Do Not Sit On The Furniture, Miami on Wed, 11 Nov 2026.
+maux is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Do Not Sit On The Furniture, Miami on Wed, 11 Nov 2026.
 
 maux is a house and deep house artist, with 5 gigs on soundcheck across Miami. Often billed alongside Uncle Jei, //DLM and Ale Acosta. Next up: Do Not Sit On The Furniture, Miami on Wed 11 Nov.
 
@@ -21,4 +21,4 @@ maux is a house and deep house artist, with 5 gigs on soundcheck across Miami. O
 
 Uncle Jei, //DLM, Ale Acosta
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maux/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maux/)*

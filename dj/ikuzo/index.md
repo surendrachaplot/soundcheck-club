@@ -1,6 +1,6 @@
 # IKUZO
 
-IKUZO is a Minimal Techno and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Compufunk Records, Osaka on Fri, 27 Nov 2026.
+IKUZO is a Minimal Techno and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Compufunk Records, Osaka on Fri, 27 Nov 2026.
 
 IKUZO is a minimal techno and techno artist based in Japan, with 4 gigs on soundcheck across Osaka. Often billed alongside Yudai Sugiyama, Ashikaga and CHISE. Next up: Compufunk Records, Osaka on Fri 27 Nov.
 
@@ -20,4 +20,4 @@ IKUZO is a minimal techno and techno artist based in Japan, with 4 gigs on sound
 
 Yudai Sugiyama, Ashikaga, CHISE
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ikuzo/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ikuzo/)*

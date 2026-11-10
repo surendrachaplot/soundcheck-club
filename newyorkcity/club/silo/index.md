@@ -1,6 +1,6 @@
 # SILO
 
-SILO is a music venue in New York City with 37 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Open Decks with STEEN & Body Art" on Tue, 10 Nov 2026.
+SILO is a music venue in New York City with 37 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Open Decks with STEEN & Body Art" on Tue, 10 Nov 2026.
 
 SILO is a music venue in New York City listed on soundcheck. 37 upcoming gigs, with line-ups including Bag Raiders, Bella De León, Bella Hex and Body Art and 2 more. See dates, start times and who's playing. 90 Scott Ave, East Williamsburg, Brooklyn.
 
@@ -23,4 +23,4 @@ SILO is a music venue in New York City listed on soundcheck. 37 upcoming gigs, w
 
 90 Scott Ave, East Williamsburg, Brooklyn, New York City
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silo/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silo/)*

@@ -1,6 +1,6 @@
 # Loods
 
-Loods is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Glenworth Valley, Sydney on Mon, 28 Dec 2026.
+Loods is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Glenworth Valley, Sydney on Mon, 28 Dec 2026.
 
 Loods is a house and techno artist based in Australia, with 63 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Auckland and 18 more. Often billed alongside KETTAMA, Partiboi69 and Benwal. Next up: Glenworth Valley, Sydney on Mon 28 Dec.
 
@@ -25,4 +25,4 @@ Loods is a house and techno artist based in Australia, with 63 gigs on soundchec
 
 KETTAMA, Partiboi69, Benwal
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loods-1/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loods-1/)*

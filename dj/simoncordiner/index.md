@@ -1,6 +1,6 @@
 # Simon Cordiner
 
-Simon Cordiner is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Buff Club, Glasgow on Fri, 4 Dec 2026.
+Simon Cordiner is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Buff Club, Glasgow on Fri, 4 Dec 2026.
 
 Simon Cordiner is a disco and house artist based in United Kingdom, with 12 gigs on soundcheck across Glasgow. Often billed alongside Rebecca Vasmant, Shaka Loves You and Aba Shanti-I. Next up: The Buff Club, Glasgow on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Simon Cordiner is a disco and house artist based in United Kingdom, with 12 gigs
 
 Rebecca Vasmant, Shaka Loves You, Aba Shanti-I
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simoncordiner/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simoncordiner/)*

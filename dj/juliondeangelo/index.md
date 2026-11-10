@@ -1,6 +1,6 @@
 # Julion De'Angelo
 
-Julion De'Angelo is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Atemporal, Berlin on Thu, 19 Nov 2026.
+Julion De'Angelo is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Atemporal, Berlin on Thu, 19 Nov 2026.
 
 Julion De'Angelo is a house and techno artist based in United States of America, with 55 gigs on soundcheck across Amsterdam, Berlin, Chicago and Copenhagen and 8 more. Often billed alongside Meftah, Whodat and CTRLZORA. Next up: Atemporal, Berlin on Thu 19 Nov.
 
@@ -27,4 +27,4 @@ Julion De'Angelo is a house and techno artist based in United States of America,
 
 Meftah, Whodat, CTRLZORA
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juliondeangelo/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juliondeangelo/)*

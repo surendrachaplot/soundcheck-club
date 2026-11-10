@@ -1,6 +1,6 @@
 # Shannen SP
 
-Shannen SP is a Gqom and Amapiano artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Unit 58, London on Fri, 4 Dec 2026.
+Shannen SP is a Gqom and Amapiano artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Unit 58, London on Fri, 4 Dec 2026.
 
 Shannen SP is a gqom and amapiano artist based in United Kingdom, with 69 gigs on soundcheck across Adelaide, Amsterdam, Athens and Barcelona and 22 more. Often billed alongside Bok Bok, Ikonika and Call Super. Next up: Unit 58, London on Fri 4 Dec.
 
@@ -27,4 +27,4 @@ Shannen SP is a gqom and amapiano artist based in United Kingdom, with 69 gigs o
 
 Bok Bok, Ikonika, Call Super
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shannensp/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shannensp/)*

@@ -1,8 +1,8 @@
 # manque
 
-manque is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Kater, Berlin on Sat, 21 Nov 2026.
+manque is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Kater, Berlin on Sat, 21 Nov 2026.
 
-manque is a house and techno artist, with 9 gigs on soundcheck across Berlin. Often billed alongside Dancel Culture, Sebastian Gabriel and Anna Almani. Next up: Kater, Berlin on Sat 21 Nov.
+manque is a house and techno artist based in Germany, with 9 gigs on soundcheck across Berlin. Often billed alongside Dancel Culture, Sebastian Gabriel and Anna Almani. Next up: Kater, Berlin on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ manque is a house and techno artist, with 9 gigs on soundcheck across Berlin. Of
 
 Dancel Culture, Sebastian Gabriel, Anna Almani
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manque/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manque/)*

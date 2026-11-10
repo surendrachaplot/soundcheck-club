@@ -1,6 +1,6 @@
 # Blindspot*
 
-Blindspot* is a music venue in Bucharest with 10 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Lightless / First Encounter I / NOIR & VDV" on Sat, 14 Nov 2026.
+Blindspot* is a music venue in Bucharest with 10 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Lightless / First Encounter I / NOIR & VDV" on Sat, 14 Nov 2026.
 
 Blindspot* is a music venue in Bucharest listed on soundcheck. 10 upcoming gigs, with line-ups including Alienmade, AMEDEUS, Amnesico and ANIN and 2 more. See dates, start times and who's playing. Bulevardul Energeticienilor 13-15.
 
@@ -23,4 +23,4 @@ Blindspot* is a music venue in Bucharest listed on soundcheck. 10 upcoming gigs,
 
 Bulevardul Energeticienilor 13-15, Bucharest
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/blindspot/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/blindspot/)*

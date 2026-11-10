@@ -1,6 +1,6 @@
 # PATRICK, 2FA, DJ Christmas at Bar Datcha
 
-PATRICK, 2FA, DJ Christmas at Bar Datcha on Thu 19 Nov, Montreal. 1 artist: DJ Christmas. See the line-up on soundcheck.
+PATRICK, 2FA, DJ Christmas at Bar Datcha on Thu 19 Nov, Montreal. 2 artists: DJ Christmas and Patrick. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ PATRICK, 2FA, DJ Christmas at Bar Datcha on Thu 19 Nov, Montreal. 1 artist: DJ C
 ## Line-up
 
 - DJ Christmas
+- Patrick (6)
 
 *Source: [soundcheck](https://soundcheck.club/e/2575092-patrick-2fa-dj-christmas-at-bar-datcha/)*

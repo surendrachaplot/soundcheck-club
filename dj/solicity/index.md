@@ -1,6 +1,6 @@
 # Soli City
 
-Soli City is a New Wave and Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Mayhem, Copenhagen on Fri, 13 Nov 2026.
+Soli City is a New Wave and Ambient artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Mayhem, Copenhagen on Fri, 13 Nov 2026.
 
 Soli City is a new wave and ambient artist based in Denmark, with 19 gigs on soundcheck across Berlin, Brussels, Copenhagen and Osaka and 2 more. Often billed alongside Croatian Amor, Ryong and oqbqbo. Next up: Mayhem, Copenhagen on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Soli City is a new wave and ambient artist based in Denmark, with 19 gigs on sou
 
 Croatian Amor, Ryong, oqbqbo
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/solicity/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/solicity/)*

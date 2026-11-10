@@ -1,6 +1,6 @@
 # Spunky
 
-Spunky is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Club Paula, Dresden on Fri, 20 Nov 2026.
+Spunky is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Club Paula, Dresden on Fri, 20 Nov 2026.
 
 Spunky is a techno and house artist based in Germany, with 5 gigs on soundcheck across Berlin and Dresden. Often billed alongside Coline, Alphonsine Koh and Antigone. Next up: Club Paula, Dresden on Fri 20 Nov.
 
@@ -21,4 +21,4 @@ Spunky is a techno and house artist based in Germany, with 5 gigs on soundcheck 
 
 Coline, Alphonsine Koh, Antigone
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spunky/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spunky/)*

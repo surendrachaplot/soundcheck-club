@@ -1,6 +1,6 @@
 # Bad Lieutenant
 
-Bad Lieutenant is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Spy Bar, Boston on Sat, 21 Nov 2026.
+Bad Lieutenant is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Spy Bar, Boston on Sat, 21 Nov 2026.
 
 Bad Lieutenant is a house and disco artist based in United States of America, with 6 gigs on soundcheck across Boston. Next up: Spy Bar, Boston on Sat 21 Nov.
 
@@ -18,4 +18,4 @@ Bad Lieutenant is a house and disco artist based in United States of America, wi
 - The Chemist, Boston · Sat, 1 Feb 2025
 - Desnuda Cocina, Boston · Sat, 18 Jan 2025
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/badlieutenant/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/badlieutenant/)*

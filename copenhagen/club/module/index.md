@@ -1,6 +1,6 @@
 # MODULE
 
-MODULE is a music venue in Copenhagen with 8 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "RITUALS" on Fri, 13 Nov 2026.
+MODULE is a music venue in Copenhagen with 8 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "RITUALS" on Fri, 13 Nov 2026.
 
 MODULE is a music venue in Copenhagen listed on soundcheck. 8 upcoming gigs, with line-ups including ADAPT (DK), Aerocell, Aja Gulris and Anders HP and 2 more. See dates, start times and who's playing. Vesterbrogade 2B, 1620 København V, Danmark.
 
@@ -21,4 +21,4 @@ MODULE is a music venue in Copenhagen listed on soundcheck. 8 upcoming gigs, wit
 
 Vesterbrogade 2B, 1620 København V, Danmark, Copenhagen
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/module/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/module/)*

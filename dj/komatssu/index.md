@@ -1,6 +1,6 @@
 # Komatssu
 
-Komatssu is a Industrial and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Studio76 Club, Madrid on Sat, 5 Dec 2026.
+Komatssu is a Industrial and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Studio76 Club, Madrid on Sat, 5 Dec 2026.
 
 Komatssu is an industrial and electro artist, with 5 gigs on soundcheck across Barcelona, Berlin and Madrid. Often billed alongside ADRI.G, Alvva and Ari Jani. Next up: Studio76 Club, Madrid on Sat 5 Dec.
 
@@ -21,4 +21,4 @@ Komatssu is an industrial and electro artist, with 5 gigs on soundcheck across B
 
 ADRI.G, Alvva, Ari Jani
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/komatssu/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/komatssu/)*

@@ -1,6 +1,6 @@
 # BOYPRINCESS
 
-BOYPRINCESS is a Latin Bass and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - SECRET SF LOCATION, San Francisco/Oakland on Sat, 21 Nov 2026.
+BOYPRINCESS is a Latin Bass and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - SECRET SF LOCATION, San Francisco/Oakland on Sat, 21 Nov 2026.
 
 BOYPRINCESS is a latin bass and industrial artist based in United States of America, with 5 gigs on soundcheck across San Francisco/Oakland. Often billed alongside 2AT, @djlobottomy and BRIIZV. Next up: TBA - SECRET SF LOCATION, San Francisco/Oakland on Sat 21 Nov.
 
@@ -21,4 +21,4 @@ BOYPRINCESS is a latin bass and industrial artist based in United States of Amer
 
 2AT, @djlobottomy, BRIIZV
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boyprincess/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boyprincess/)*

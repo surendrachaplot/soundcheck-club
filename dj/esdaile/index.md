@@ -1,6 +1,6 @@
 # Esdaile
 
-Esdaile is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Distrikt, Leeds on Fri, 4 Dec 2026.
+Esdaile is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Distrikt, Leeds on Fri, 4 Dec 2026.
 
 Esdaile is a garage and house artist based in United Kingdom, with 5 gigs on soundcheck across Leeds. Often billed alongside Josef Khan, Buckley (UK) and Cottam. Next up: Distrikt, Leeds on Fri 4 Dec.
 
@@ -21,4 +21,4 @@ Esdaile is a garage and house artist based in United Kingdom, with 5 gigs on sou
 
 Josef Khan, Buckley (UK), Cottam (2)
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/esdaile/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/esdaile/)*

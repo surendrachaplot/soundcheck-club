@@ -1,6 +1,6 @@
 # Meduza
 
-Meduza is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Savaya Bali, Bali on Fri, 1 Jan 2027.
+Meduza is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Savaya Bali, Bali on Fri, 1 Jan 2027.
 
 Meduza is a house and techno artist based in Italy, with 183 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 39 more. Often billed alongside James Hype (UK), David Guetta and Arielle Free. Next up: Savaya Bali, Bali on Fri 1 Jan.
 
@@ -27,4 +27,4 @@ Meduza is a house and techno artist based in Italy, with 183 gigs on soundcheck 
 
 James Hype (UK), David Guetta, Arielle Free
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meduza/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meduza/)*

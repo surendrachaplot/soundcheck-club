@@ -1,6 +1,6 @@
 # Chaitu
 
-Chaitu is a Techno and Dubstep artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Tola, London on Fri, 11 Dec 2026.
+Chaitu is a Techno and Dubstep artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Tola, London on Fri, 11 Dec 2026.
 
 Chaitu is a techno and dubstep artist, with 5 gigs on soundcheck across Berlin and London. Often billed alongside Arnav, AZIEZ and Arugula. Next up: Tola, London on Fri 11 Dec.
 
@@ -21,4 +21,4 @@ Chaitu is a techno and dubstep artist, with 5 gigs on soundcheck across Berlin a
 
 Arnav, AZIEZ, Arugula
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chaitu/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chaitu/)*

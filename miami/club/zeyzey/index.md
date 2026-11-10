@@ -1,6 +1,6 @@
 # ZeyZey
 
-ZeyZey is a music venue in Miami with 17 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Christian Löffler LIVE – Fall 2026 Tour" on Fri, 13 Nov 2026.
+ZeyZey is a music venue in Miami with 17 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Christian Löffler LIVE – Fall 2026 Tour" on Fri, 13 Nov 2026.
 
 ZeyZey is a music venue in Miami listed on soundcheck. 17 upcoming gigs, with line-ups including Anastazja, A-Trak, Christian Löffler and Chromeo and 2 more. See dates, start times and who's playing. 353 NE 61st St, Miami, FL 33137, USA.
 
@@ -23,4 +23,4 @@ ZeyZey is a music venue in Miami listed on soundcheck. 17 upcoming gigs, with li
 
 353 NE 61st St, Miami, FL 33137, USA, Miami
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/zeyzey/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/zeyzey/)*

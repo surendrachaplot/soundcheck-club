@@ -1,6 +1,6 @@
 # Greg Orca
 
-Greg Orca is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Toldi Klub, Budapest on Tue, 1 Dec 2026.
+Greg Orca is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Toldi Klub, Budapest on Tue, 1 Dec 2026.
 
 Greg Orca is a house and techno artist based in Hungary, with 20 gigs on soundcheck across Budapest. Often billed alongside klpflrtpr, Jaffa Surfa and Meduzah. Next up: Toldi Klub, Budapest on Tue 1 Dec.
 
@@ -25,4 +25,4 @@ Greg Orca is a house and techno artist based in Hungary, with 20 gigs on soundch
 
 klpflrtpr, Jaffa Surfa, Meduzah
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gregorca/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gregorca/)*

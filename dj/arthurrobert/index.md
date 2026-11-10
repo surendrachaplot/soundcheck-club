@@ -1,6 +1,6 @@
 # Arthur Robert
 
-Arthur Robert is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Chinastraat, Ghent on Tue, 10 Nov 2026.
+Arthur Robert is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Chinastraat, Ghent on Tue, 10 Nov 2026.
 
 Arthur Robert is a techno and house artist based in Austria, with 98 gigs on soundcheck across Amsterdam, Austin, Bangkok and Beijing and 40 more. Often billed alongside Pink Concrete, Philippa Pacho and Altinbas. Next up: Chinastraat, Ghent on Tue 10 Nov.
 
@@ -26,4 +26,4 @@ Arthur Robert is a techno and house artist based in Austria, with 98 gigs on sou
 
 Pink Concrete, Philippa Pacho, Altinbas
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arthurrobert/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arthurrobert/)*

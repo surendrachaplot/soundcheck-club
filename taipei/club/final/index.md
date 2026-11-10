@@ -1,6 +1,6 @@
 # Final
 
-Final is a music venue in Taipei with 8 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "ZONA: Liu Lee" on Fri, 13 Nov 2026.
+Final is a music venue in Taipei with 8 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "ZONA: Liu Lee" on Fri, 13 Nov 2026.
 
 Final is a music venue in Taipei listed on soundcheck. 8 upcoming gigs, with line-ups including Animistic Beliefs, Async Figure, Batu and B E N N and 2 more. See dates, start times and who's playing. 10666, Taiwan, Taipei City, Da’an District, Section 1, Fuxing South Road, 249號號地下一樓.
 
@@ -21,4 +21,4 @@ Final is a music venue in Taipei listed on soundcheck. 8 upcoming gigs, with lin
 
 10666, Taiwan, Taipei City, Da’an District, Section 1, Fuxing South Road, 249號號地下一樓, Taipei
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/taipei/club/final/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/taipei/club/final/)*

@@ -1,14 +1,13 @@
 # Woreq
 
-Woreq is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Signal, New York City on Sat, 14 Nov 2026.
+Woreq is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - 333, New York City on Sat, 28 Nov 2026.
 
-Woreq is a house and techno artist based in Georgia, with 24 gigs on soundcheck across Los Angeles, Montreal and New York City. Often billed alongside Mitrimar, Kurilo and 98dots. Next up: Signal, New York City on Sat 14 Nov.
+Woreq is a house and techno artist based in Georgia, with 23 gigs on soundcheck across Los Angeles, Montreal and New York City. Often billed alongside Mitrimar, Kurilo and 98dots. Next up: TBA - 333, New York City on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Signal | New York City |
 | Sat, 28 Nov 2026 | TBA - 333 | New York City |
 
 ## Recently played
@@ -26,4 +25,4 @@ Woreq is a house and techno artist based in Georgia, with 24 gigs on soundcheck 
 
 Mitrimar, Kurilo, 98dots
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/woreq/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/woreq/)*

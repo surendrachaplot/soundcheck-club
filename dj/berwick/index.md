@@ -1,6 +1,6 @@
 # Berwick
 
-Berwick is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Glove That Fits, London on Fri, 20 Nov 2026.
+Berwick is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Glove That Fits, London on Fri, 20 Nov 2026.
 
 Berwick is a techno and electro artist based in United Kingdom, with 24 gigs on soundcheck across Berlin, Brighton, Bristol and London and 2 more. Often billed alongside YouYou, Yushh and 1-800 GIRLS. Next up: The Glove That Fits, London on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Berwick is a techno and electro artist based in United Kingdom, with 24 gigs on 
 
 YouYou (2), Yushh, 1-800 GIRLS
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/berwick/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/berwick/)*

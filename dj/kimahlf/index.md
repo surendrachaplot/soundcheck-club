@@ -1,6 +1,6 @@
 # KIM AHLF
 
-KIM AHLF is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Kesselhaus Augsburg, Augsburg on Sat, 5 Dec 2026.
+KIM AHLF is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Kesselhaus Augsburg, Augsburg on Sat, 5 Dec 2026.
 
 KIM AHLF is a techno and trance artist based in Germany, with 51 gigs on soundcheck across Athens, Augsburg, Bavaria and Berlin and 10 more. Often billed alongside Mark Dekoda, Frank Rayo and Sylvie Miles. Next up: Kesselhaus Augsburg, Augsburg on Sat 5 Dec.
 
@@ -28,4 +28,4 @@ KIM AHLF is a techno and trance artist based in Germany, with 51 gigs on soundch
 
 Mark Dekoda, Frank Rayo, Sylvie Miles
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kimahlf/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kimahlf/)*

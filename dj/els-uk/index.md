@@ -1,6 +1,6 @@
 # ELS (UK)
 
-ELS (UK) is a Hardcore and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Plot 22, Sheffield on Fri, 20 Nov 2026.
+ELS (UK) is a Hardcore and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Plot 22, Sheffield on Fri, 20 Nov 2026.
 
 ELS (UK) is a hardcore and bass artist, with 4 gigs on soundcheck across London and Sheffield. Often billed alongside Ebz, Aerbreak and Betsy Mae. Next up: Plot 22, Sheffield on Fri 20 Nov.
 
@@ -20,4 +20,4 @@ ELS (UK) is a hardcore and bass artist, with 4 gigs on soundcheck across London 
 
 Ebz, Aerbreak, Betsy Mae
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/els-uk/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/els-uk/)*

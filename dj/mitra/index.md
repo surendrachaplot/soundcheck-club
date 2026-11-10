@@ -1,6 +1,6 @@
 # Mitra
 
-Mitra is a Techno and Dub artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Secret Venue in Minatoku-Nishiazabu, Tokyo on Fri, 13 Nov 2026.
+Mitra is a Techno and Dub artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Secret Venue in Minatoku-Nishiazabu, Tokyo on Fri, 13 Nov 2026.
 
 Mitra is a techno and dub artist, with 5 gigs on soundcheck across Hamburg, Leipzig, Munich and Osaka and 1 more. Often billed alongside Polygonia, Vanta (DE) and Iori. Next up: Secret Venue in Minatoku-Nishiazabu, Tokyo on Fri 13 Nov.
 
@@ -21,4 +21,4 @@ Mitra is a techno and dub artist, with 5 gigs on soundcheck across Hamburg, Leip
 
 Polygonia, Vanta (DE), Iori
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mitra/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mitra/)*

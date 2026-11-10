@@ -1,8 +1,8 @@
 # Sophie Lorena
 
-Sophie Lorena is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Duo Clapham, London on Sat, 28 Nov 2026.
+Sophie Lorena is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Duo Clapham, London on Sat, 28 Nov 2026.
 
-Sophie Lorena is a house and tech house artist, with 24 gigs on soundcheck across London. Often billed alongside Tough Love, Bepe and Elise Meidell. Next up: Duo Clapham, London on Sat 28 Nov.
+Sophie Lorena is a house and tech house artist based in United Kingdom, with 24 gigs on soundcheck across London. Often billed alongside Tough Love, Bepe and Elise Meidell. Next up: Duo Clapham, London on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Sophie Lorena is a house and tech house artist, with 24 gigs on soundcheck acros
 
 Tough Love, Bepe, Elise Meidell
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sophielorena/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sophielorena/)*

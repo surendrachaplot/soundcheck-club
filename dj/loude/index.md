@@ -1,6 +1,6 @@
 # Loud E
 
-Loud E is a Disco and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Hang Dai Chinese, Dublin on Sat, 14 Nov 2026.
+Loud E is a Disco and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Hang Dai Chinese, Dublin on Sat, 14 Nov 2026.
 
 Loud E is a disco and electro artist, with 28 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 5 more. Often billed alongside I-F, Richelle Soigni and Intergalactic Gary. Next up: Hang Dai Chinese, Dublin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Loud E is a disco and electro artist, with 28 gigs on soundcheck across Amsterda
 
 I-F, Richelle Soigni, Intergalactic Gary
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loude/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loude/)*

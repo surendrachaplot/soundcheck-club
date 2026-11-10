@@ -1,6 +1,6 @@
 # Saro Carrasi
 
-Saro Carrasi is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Mercati Generali, Sicily on Sat, 14 Nov 2026.
+Saro Carrasi is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Mercati Generali, Sicily on Sat, 14 Nov 2026.
 
 Saro Carrasi is an electronic artist based in Italy, with 9 gigs on soundcheck across Barcelona, Rome and Sicily. Often billed alongside Bartolomeo, DIGGIN' SOUNDSYSTEM and Franz Scala. Next up: Mercati Generali, Sicily on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Saro Carrasi is an electronic artist based in Italy, with 9 gigs on soundcheck a
 
 Bartolomeo, DIGGIN' SOUNDSYSTEM, Franz Scala
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carrasi/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carrasi/)*

@@ -1,6 +1,6 @@
 # WaqWaq Kingdom
 
-WaqWaq Kingdom is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at WUK, Vienna on Sat, 5 Dec 2026.
+WaqWaq Kingdom is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at WUK, Vienna on Sat, 5 Dec 2026.
 
 WaqWaq Kingdom is an experimental and techno artist based in Japan, with 21 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Lisbon and 8 more. Often billed alongside DJ Scotch Egg, Deadbeat and Eiko Ishibashi. Next up: WUK, Vienna on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ WaqWaq Kingdom is an experimental and techno artist based in Japan, with 21 gigs
 
 DJ Scotch Egg, Deadbeat, Eiko Ishibashi
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/waqwaqkingdom/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/waqwaqkingdom/)*

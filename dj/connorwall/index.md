@@ -1,6 +1,6 @@
 # Connor Wall
 
-Connor Wall is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Masada, Milan on Sat, 14 Nov 2026.
+Connor Wall is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Masada, Milan on Sat, 14 Nov 2026.
 
 Connor Wall is a techno and house artist based in Australia, with 52 gigs on soundcheck across Amsterdam, Athens, Belgrade and Berlin and 28 more. Often billed alongside Anthony Linell, Tauceti (FR) and Toobris. Next up: Masada, Milan on Sat 14 Nov.
 
@@ -29,4 +29,4 @@ Connor Wall is a techno and house artist based in Australia, with 52 gigs on sou
 
 Anthony Linell, Tauceti (FR), Toobris
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/connorwall/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/connorwall/)*

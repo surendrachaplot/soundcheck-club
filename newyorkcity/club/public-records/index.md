@@ -1,6 +1,6 @@
 # public records
 
-public records is a music venue in New York City with 32 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "DURATIONS Festival 2026" on Mon, 9 Nov 2026.
+public records is a music venue in New York City with 32 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "DURATIONS Festival 2026" on Mon, 9 Nov 2026.
 
 public records is a music venue in New York City listed on soundcheck. 32 upcoming gigs, with line-ups including 320, MORENXXX, Abby Echiverri and Afrikan Sciences and 2 more. See dates, start times and who's playing. 233 Butler St, Brooklyn, NY 11217, USA.
 
@@ -23,4 +23,4 @@ public records is a music venue in New York City listed on soundcheck. 32 upcomi
 
 233 Butler St, Brooklyn, NY 11217, USA, New York City
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/public-records/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/public-records/)*

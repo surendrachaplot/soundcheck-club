@@ -1,8 +1,8 @@
 # Minimal Bar
 
-Minimal Bar is a music venue in Berlin with 80 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Manic.Monday with Fineberg" on Mon, 9 Nov 2026.
+Minimal Bar is a music venue in Berlin with 81 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Manic.Monday with Fineberg" on Mon, 9 Nov 2026.
 
-Minimal Bar is a music venue in Berlin listed on soundcheck. 80 upcoming gigs, with line-ups including Beshy, CEEE, Danilo Schneider and DAZA and 2 more. See dates, start times and who's playing. Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany.
+Minimal Bar is a music venue in Berlin listed on soundcheck. 81 upcoming gigs, with line-ups including Beshy, CEEE, Danilo Schneider and DAZA and 2 more. See dates, start times and who's playing. Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Minimal Bar is a music venue in Berlin listed on soundcheck. 80 upcoming gigs, w
 
 Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany, Berlin
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/minimal-bar/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/minimal-bar/)*

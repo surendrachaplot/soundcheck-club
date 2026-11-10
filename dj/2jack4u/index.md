@@ -1,6 +1,6 @@
 # 2jack4u
 
-2jack4u is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Collect LX Factory, Lisbon on Fri, 20 Nov 2026.
+2jack4u is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Collect LX Factory, Lisbon on Fri, 20 Nov 2026.
 
 2jack4u is a techno and house artist based in Portugal, with 14 gigs on soundcheck across Lisbon and Porto. Often billed alongside Moreno Ácido, Pedro Goya and A Guy Called Gerald. Next up: Collect LX Factory, Lisbon on Fri 20 Nov.
 
@@ -25,4 +25,4 @@
 
 Moreno Ácido, Pedro Goya, A Guy Called Gerald
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/2jack4u/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/2jack4u/)*

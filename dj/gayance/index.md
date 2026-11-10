@@ -1,6 +1,6 @@
 # GAYANCE
 
-GAYANCE is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Arroz Estúdios, Lisbon on Wed, 11 Nov 2026.
+GAYANCE is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Arroz Estúdios, Lisbon on Wed, 11 Nov 2026.
 
 GAYANCE is a house and techno artist based in Canada, with 70 gigs on soundcheck across Amsterdam, Berlin, Brussels and Leeds and 10 more. Often billed alongside Chima Isaaro, Deez and Passion DEEZ. Next up: Arroz Estúdios, Lisbon on Wed 11 Nov.
 
@@ -26,4 +26,4 @@ GAYANCE is a house and techno artist based in Canada, with 70 gigs on soundcheck
 
 Chima Isaaro, Deez, Passion DEEZ
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gayance/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gayance/)*

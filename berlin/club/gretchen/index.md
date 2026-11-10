@@ -1,6 +1,6 @@
 # Gretchen
 
-Gretchen is a music venue in Berlin with 27 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "TRUE LOVES *live" on Tue, 10 Nov 2026.
+Gretchen is a music venue in Berlin with 27 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "TRUE LOVES *live" on Tue, 10 Nov 2026.
 
 Gretchen is a music venue in Berlin listed on soundcheck. 27 upcoming gigs, with line-ups including alllone, Allynx, anna andersrum and Ant TC1 and 2 more. See dates, start times and who's playing. Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany.
 
@@ -23,4 +23,4 @@ Gretchen is a music venue in Berlin listed on soundcheck. 27 upcoming gigs, with
 
 Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany, Berlin
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gretchen/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gretchen/)*

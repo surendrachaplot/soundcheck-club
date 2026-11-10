@@ -1,6 +1,6 @@
 # Owen Drummond
 
-Owen Drummond is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The DBA, Manchester on Fri, 4 Dec 2026.
+Owen Drummond is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The DBA, Manchester on Fri, 4 Dec 2026.
 
 Owen Drummond is a house and tech house artist based in United Kingdom, with 12 gigs on soundcheck across Liverpool and Manchester. Often billed alongside DUCK-E, Connor Southerland and International Mac. Next up: The DBA, Manchester on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Owen Drummond is a house and tech house artist based in United Kingdom, with 12 
 
 DUCK-E, Connor Southerland, International Mac
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/owendrummond/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/owendrummond/)*

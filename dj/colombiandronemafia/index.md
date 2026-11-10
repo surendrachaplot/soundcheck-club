@@ -1,6 +1,6 @@
 # Colombian Drone Mafia
 
-Colombian Drone Mafia is a Ambient and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Raleigh Chapel, London on Wed, 2 Dec 2026.
+Colombian Drone Mafia is a Ambient and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Raleigh Chapel, London on Wed, 2 Dec 2026.
 
 Colombian Drone Mafia is an ambient and latin bass artist based in Colombia, with 25 gigs on soundcheck across Berlin, Bogotá, London and Milan and 2 more. Often billed alongside Nyksan, Nick León and Verraco. Next up: Raleigh Chapel, London on Wed 2 Dec.
 
@@ -25,4 +25,4 @@ Colombian Drone Mafia is an ambient and latin bass artist based in Colombia, wit
 
 Nyksan, Nick León, Verraco
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/colombiandronemafia/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/colombiandronemafia/)*

@@ -1,8 +1,8 @@
 # Champagner.Jannick
 
-Champagner.Jannick is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at ciao ciao Bar, Berlin on Sun, 13 Dec 2026.
+Champagner.Jannick is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at ciao ciao Bar, Berlin on Sun, 13 Dec 2026.
 
-Champagner.Jannick is a house and techno artist, with 11 gigs on soundcheck across Berlin. Often billed alongside CFF.VALE, Denifitiv Manu and Jopka. Next up: ciao ciao Bar, Berlin on Sun 13 Dec.
+Champagner.Jannick is a house and techno artist based in Germany, with 11 gigs on soundcheck across Berlin. Often billed alongside CFF.VALE, Denifitiv Manu and Jopka. Next up: ciao ciao Bar, Berlin on Sun 13 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Champagner.Jannick is a house and techno artist, with 11 gigs on soundcheck acro
 
 CFF.VALE, Denifitiv Manu, Jopka
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/champagner.jannick/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/champagner.jannick/)*

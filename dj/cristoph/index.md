@@ -1,6 +1,6 @@
 # Cristoph
 
-Cristoph is a Techno and Progressive House artist with 5 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Echostage, Washington DC on Fri, 20 Nov 2026.
+Cristoph is a Techno and Progressive House artist with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Echostage, Washington DC on Fri, 20 Nov 2026.
 
 Cristoph is a techno and progressive house artist based in United Kingdom, with 159 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Austin and 41 more. Often billed alongside Eric Prydz, Adam Beyer and Patrick Topping. Next up: Echostage, Washington DC on Fri 20 Nov.
 
@@ -29,4 +29,4 @@ Cristoph is a techno and progressive house artist based in United Kingdom, with 
 
 Eric Prydz, Adam Beyer, Patrick Topping
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cristoph/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cristoph/)*

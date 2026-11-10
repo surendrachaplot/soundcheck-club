@@ -1,14 +1,15 @@
 # VINTASH
 
-VINTASH is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Gotec, Karlsruhe on Sat, 21 Nov 2026.
+VINTASH is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Gotec, Karlsruhe on Sat, 21 Nov 2026.
 
-VINTASH is a techno and trance artist, with 22 gigs on soundcheck across Berlin, Cologne, Copenhagen and Karlsruhe and 1 more. Often billed alongside Solique, AVANT and Marino Canal. Next up: Gotec, Karlsruhe on Sat 21 Nov.
+VINTASH is a techno and trance artist based in Germany, with 23 gigs on soundcheck across Berlin, Cologne, Copenhagen and Hannover and 2 more. Often billed alongside Solique, AVANT and Marino Canal. Next up: Gotec, Karlsruhe on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Gotec | Karlsruhe |
+| Sat, 13 Feb 2027 | WDM | Hannover |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ VINTASH is a techno and trance artist, with 22 gigs on soundcheck across Berlin,
 
 Solique, AVANT, Marino Canal
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vintash/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vintash/)*

@@ -1,6 +1,6 @@
 # kogo.berlin
 
-kogo.berlin is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Void Club, Berlin on Sat, 28 Nov 2026.
+kogo.berlin is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Void Club, Berlin on Sat, 28 Nov 2026.
 
 kogo.berlin is a techno and drum & bass artist based in Germany, with 10 gigs on soundcheck across Berlin. Often billed alongside Upzet, Dark Anomaly and Kimby. Next up: Void Club, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ kogo.berlin is a techno and drum & bass artist based in Germany, with 10 gigs on
 
 Upzet, Dark Anomaly (2), Kimby
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kogo.berlin/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kogo.berlin/)*

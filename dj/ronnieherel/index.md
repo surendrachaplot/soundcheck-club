@@ -1,6 +1,6 @@
 # Ronnie Herel
 
-Ronnie Herel is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at fabric, London on Sat, 28 Nov 2026.
+Ronnie Herel is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at fabric, London on Sat, 28 Nov 2026.
 
 Ronnie Herel is a house and deep house artist based in United Kingdom, with 25 gigs on soundcheck across Leeds, Lisbon, London and Malaga. Often billed alongside Neil Pierce, DJ Murrell and DJ Spen. Next up: fabric, London on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Ronnie Herel is a house and deep house artist based in United Kingdom, with 25 g
 
 Neil Pierce, DJ Murrell, DJ Spen
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ronnieherel/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ronnieherel/)*

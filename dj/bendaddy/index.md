@@ -1,0 +1,25 @@
+# Ben Daddy
+
+Ben Daddy is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Headrow House, Leeds on Thu, 12 Nov 2026.
+
+Ben Daddy is a house and italo disco artist, with 6 gigs on soundcheck across Leeds and Liverpool. Often billed alongside Shauna, Bellaire and Dublon. Next up: Headrow House, Leeds on Thu 12 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Thu, 12 Nov 2026 | Headrow House | Leeds |
+
+## Recently played
+
+- Outlaws Yacht Club, Leeds · Sat, 19 Sept 2026
+- Outlaws Yacht Club, Leeds · Sat, 30 May 2026
+- The Wardrobe, Leeds · Thu, 28 May 2026
+- Wharf Chambers, Leeds · Sat, 1 Jun 2024
+- District, Liverpool · Fri, 17 May 2024
+
+## Shares bills with
+
+Shauna, Bellaire, Dublon
+
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bendaddy/)*

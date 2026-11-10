@@ -1,6 +1,6 @@
 # The Resistance
 
-The Resistance is a Dubstep and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Circolo Magnolia, Milan on Fri, 13 Nov 2026.
+The Resistance is a Dubstep and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Circolo Magnolia, Milan on Fri, 13 Nov 2026.
 
 The Resistance is a dubstep and breakbeat artist based in Netherlands, with 4 gigs on soundcheck across Budapest, Detroit, Milan and Seattle. Often billed alongside BARK, Blood of Aza and Delta Heavy. Next up: Circolo Magnolia, Milan on Fri 13 Nov.
 
@@ -20,4 +20,4 @@ The Resistance is a dubstep and breakbeat artist based in Netherlands, with 4 gi
 
 BARK, Blood of Aza, Delta Heavy
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theresistance/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theresistance/)*

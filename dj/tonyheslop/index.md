@@ -1,6 +1,6 @@
 # Tony Heslop
 
-Tony Heslop is a Balearic and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Social, London on Sat, 6 Feb 2027.
+Tony Heslop is a Balearic and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Social, London on Sat, 6 Feb 2027.
 
 Tony Heslop is a balearic and disco artist based in United Kingdom, with 5 gigs on soundcheck across London and Newcastle. Often billed alongside Andy Dunn and Mick Jarmain. Next up: The Social, London on Sat 6 Feb.
 
@@ -21,4 +21,4 @@ Tony Heslop is a balearic and disco artist based in United Kingdom, with 5 gigs 
 
 Andy Dunn, Mick Jarmain
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyheslop/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyheslop/)*

@@ -1,6 +1,6 @@
 # Käptn Hässler
 
-Käptn Hässler is a Techno and Deep House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Karree, Baden-w-rttemberg on Sat, 28 Nov 2026.
+Käptn Hässler is a Techno and Deep House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Karree, Baden-w-rttemberg on Sat, 28 Nov 2026.
 
 Käptn Hässler is a techno and deep house artist based in Germany, with 29 gigs on soundcheck across Baden W Rttemberg and Freiburg. Often billed alongside Danca, Solvane and Leika. Next up: Karree, Baden W Rttemberg on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Käptn Hässler is a techno and deep house artist based in Germany, with 29 gigs
 
 Danca, Solvane, Leika
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaptnhassler/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaptnhassler/)*

@@ -1,6 +1,6 @@
 # Ekkel
 
-Ekkel is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at 42 Marches, Paris on Sat, 14 Nov 2026.
+Ekkel is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at 42 Marches, Paris on Sat, 14 Nov 2026.
 
 Ekkel is a techno and trance artist based in Norway, with 65 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 25 more. Often billed alongside Marius Bø, Mikkel Rev and Nelly (NL). Next up: 42 Marches, Paris on Sat 14 Nov.
 
@@ -28,4 +28,4 @@ Ekkel is a techno and trance artist based in Norway, with 65 gigs on soundcheck 
 
 Marius Bø, Mikkel Rev, Nelly (NL)
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ekkel/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ekkel/)*

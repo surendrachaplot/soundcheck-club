@@ -1,6 +1,6 @@
 # Nowosad
 
-Nowosad is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at MONKEY LOVE, Warsaw on Fri, 13 Nov 2026.
+Nowosad is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at MONKEY LOVE, Warsaw on Fri, 13 Nov 2026.
 
 Nowosad is a house and electro artist based in Poland, with 40 gigs on soundcheck across Berlin, Warsaw and Wroclaw. Often billed alongside Jellin, Easy Audio and uiava. Next up: MONKEY LOVE, Warsaw on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Nowosad is a house and electro artist based in Poland, with 40 gigs on soundchec
 
 Jellin, Easy Audio, uiava
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nowosad/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nowosad/)*

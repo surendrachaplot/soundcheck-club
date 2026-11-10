@@ -1,6 +1,6 @@
 # Dublon (Live) at Headrow House
 
-Dublon (Live) at Headrow House on Thu 12 Nov, Leeds. 1 artist: Dublon. House and Jazz. See the line-up on soundcheck.
+Dublon (Live) at Headrow House on Thu 12 Nov, Leeds. 2 artists: Ben Daddy and Dublon. House and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Dublon (Live) at Headrow House on Thu 12 Nov, Leeds. 1 artist: Dublon. House and
 
 ## Line-up
 
+- Ben Daddy
 - Dublon
 
 *Source: [soundcheck](https://soundcheck.club/e/2433333-dublon-live-at-headrow-house/)*

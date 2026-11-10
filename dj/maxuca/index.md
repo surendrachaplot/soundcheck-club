@@ -1,6 +1,6 @@
 # MAXUCA
 
-MAXUCA is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Colour Factory, London on Sat, 12 Dec 2026.
+MAXUCA is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Colour Factory, London on Sat, 12 Dec 2026.
 
 MAXUCA is a techno and industrial artist based in Portugal, with 27 gigs on soundcheck across Brighton, Buenos Aires and London. Often billed alongside Eudoxie, Lezcano and Gloria Rose. Next up: Colour Factory, London on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ MAXUCA is a techno and industrial artist based in Portugal, with 27 gigs on soun
 
 Eudoxie, Lezcano, Gloria Rose
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxuca/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxuca/)*

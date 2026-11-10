@@ -1,6 +1,6 @@
 # Christian Kluge
 
-Christian Kluge is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Golden Pudel Club, Hamburg on Thu, 12 Nov 2026.
+Christian Kluge is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Golden Pudel Club, Hamburg on Thu, 12 Nov 2026.
 
 Christian Kluge is a house and techno artist based in Germany, with 33 gigs on soundcheck across Berlin and Hamburg. Often billed alongside N:in (DE), Ivaldo Gino and A_P_F_L. Next up: Golden Pudel Club, Hamburg on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Christian Kluge is a house and techno artist based in Germany, with 33 gigs on s
 
 N:in (DE), Ivaldo Gino, A_P_F_L
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/christiankluge/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/christiankluge/)*

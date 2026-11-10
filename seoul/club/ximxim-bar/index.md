@@ -1,6 +1,6 @@
 # Ximxim Bar
 
-Ximxim Bar is a music venue in Seoul with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "DEPP IN THE HOUSE x PLAY IT FORWARD: ASIAN TRANCE Special" on Fri, 13 Nov 2026.
+Ximxim Bar is a music venue in Seoul with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "DEPP IN THE HOUSE x PLAY IT FORWARD: ASIAN TRANCE Special" on Fri, 13 Nov 2026.
 
 Ximxim Bar is a music venue in Seoul listed on soundcheck. 2 upcoming gigs, with line-ups including Casepeat, Purple Rabbit and Scalar. See dates, start times and who's playing. 11, Yeonmujang 15-gil, Seongdong-gu, Seoul.
 
@@ -15,4 +15,4 @@ Ximxim Bar is a music venue in Seoul listed on soundcheck. 2 upcoming gigs, with
 
 11, Yeonmujang 15-gil, Seongdong-gu, Seoul, Seoul
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/ximxim-bar/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/ximxim-bar/)*

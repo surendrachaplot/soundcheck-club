@@ -1,6 +1,6 @@
 # Shelter Antwerp
 
-Shelter Antwerp is a music venue in Antwerp with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. The next is "Aperitivo Sonoro: Audacious After Work 1.2" on Thu, 3 Dec 2026.
+Shelter Antwerp is a music venue in Antwerp with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. The next is "Aperitivo Sonoro: Audacious After Work 1.2" on Thu, 3 Dec 2026.
 
 Shelter Antwerp is a music venue in Antwerp listed on soundcheck. 1 upcoming gig, with line-ups including AMARE. See dates, start times and who's playing. Oude Koornmarkt 42, 2000 Antwerpen, Belgium.
 
@@ -14,4 +14,4 @@ Shelter Antwerp is a music venue in Antwerp listed on soundcheck. 1 upcoming gig
 
 Oude Koornmarkt 42, 2000 Antwerpen, Belgium, Antwerp
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/shelter-antwerp/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/shelter-antwerp/)*

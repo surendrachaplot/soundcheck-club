@@ -1,6 +1,6 @@
 # !Sooks
 
-!Sooks is a Afro House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Beneath the Baobabs, Kenya on Wed, 30 Dec 2026.
+!Sooks is a Afro House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Beneath the Baobabs, Kenya on Wed, 30 Dec 2026.
 
 !Sooks is an afro house and hip-hop artist, with 3 gigs on soundcheck across Cape Town, Kenya and Seoul. Often billed alongside Amy Mauritz, Arondight and Atmos Blaq. Next up: Beneath the Baobabs, Kenya on Wed 30 Dec.
 
@@ -19,4 +19,4 @@
 
 Amy Mauritz, Arondight, Atmos Blaq
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/!sooks/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/!sooks/)*

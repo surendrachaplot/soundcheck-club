@@ -1,6 +1,6 @@
 # Sindercombe Social
 
-Sindercombe Social is a music venue in London with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. The next is "Electronic Music Open Mic" on Tue, 1 Dec 2026.
+Sindercombe Social is a music venue in London with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. The next is "Electronic Music Open Mic" on Tue, 1 Dec 2026.
 
 Sindercombe Social is a music venue in London listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. London, 2 Goldhawk Road, LW12 8QD.
 
@@ -14,4 +14,4 @@ Sindercombe Social is a music venue in London listed on soundcheck. 1 upcoming g
 
 London, 2 Goldhawk Road, LW12 8QD, London
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/sindercombe-social/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/sindercombe-social/)*

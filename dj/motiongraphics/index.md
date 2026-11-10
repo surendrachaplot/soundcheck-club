@@ -1,6 +1,6 @@
 # Motion Graphics
 
-Motion Graphics is a Electronica and Balearic artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Nowadays, New York City on Thu, 12 Nov 2026.
+Motion Graphics is a Electronica and Balearic artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Nowadays, New York City on Thu, 12 Nov 2026.
 
 Motion Graphics is an electronica and balearic artist based in United States of America, with 4 gigs on soundcheck across New York City and Toronto. Often billed alongside A Pleasure, Alima Lee and Beautiful Swimmers. Next up: Nowadays, New York City on Thu 12 Nov.
 
@@ -20,4 +20,4 @@ Motion Graphics is an electronica and balearic artist based in United States of 
 
 A Pleasure, Alima Lee, Beautiful Swimmers
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/motiongraphics/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/motiongraphics/)*

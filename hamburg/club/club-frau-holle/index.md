@@ -1,17 +1,18 @@
 # Club Frau Holle
 
-Club Frau Holle is a music venue in Hamburg with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. The next is "Invited with AAVA (Berlin Room Belgium)" on Sat, 7 Nov 2026.
+Club Frau Holle is a music venue in Hamburg with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Relax or Rolex" on Thu, 12 Nov 2026.
 
-Club Frau Holle is a music venue in Hamburg listed on soundcheck. 1 upcoming gig, with line-ups including AAVA, Cosmokat, DIESEN and Timeless Moments. See dates, start times and who's playing. Friedrichsstrasse 9, 20359 Hamburg.
+Club Frau Holle is a music venue in Hamburg listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. Friedrichsstrasse 9, 20359 Hamburg.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Invited with AAVA (Berlin Room Belgium) | AAVA, Cosmokat, DIESEN, Timeless Moments |
+| Thu, 12 Nov 2026 | Relax or Rolex |  |
+| Fri, 13 Nov 2026 | Timeless Rave |  |
 
 ## Address
 
 Friedrichsstrasse 9, 20359 Hamburg, Hamburg
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/club-frau-holle/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/club-frau-holle/)*

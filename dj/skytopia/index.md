@@ -1,8 +1,8 @@
 # SKYTOPIA
 
-SKYTOPIA is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at ZEROTOKYO, Tokyo on Thu, 12 Nov 2026.
+SKYTOPIA is a Garage and Bass artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at ZEROTOKYO, Tokyo on Thu, 12 Nov 2026.
 
-SKYTOPIA is a garage and house artist based in Japan, with 6 gigs on soundcheck across Tokyo. Often billed alongside DJ Flexure, Genick and VECSILLE. Next up: ZEROTOKYO, Tokyo on Thu 12 Nov.
+SKYTOPIA is a garage and bass artist based in Japan, with 7 gigs on soundcheck across Tokyo. Often billed alongside Genick, VECSILLE and DJ Flexure. Next up: ZEROTOKYO, Tokyo on Thu 12 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ SKYTOPIA is a garage and house artist based in Japan, with 6 gigs on soundcheck 
 | --- | --- | --- |
 | Thu, 12 Nov 2026 | ZEROTOKYO | Tokyo |
 | Fri, 20 Nov 2026 | Perry's Bar Shibuya | Tokyo |
+| Sat, 28 Nov 2026 | Circus Tokyo | Tokyo |
 
 ## Recently played
 
@@ -20,6 +21,6 @@ SKYTOPIA is a garage and house artist based in Japan, with 6 gigs on soundcheck 
 
 ## Shares bills with
 
-DJ Flexure, Genick, VECSILLE
+Genick, VECSILLE, DJ Flexure
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skytopia/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skytopia/)*

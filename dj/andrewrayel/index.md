@@ -1,6 +1,6 @@
 # Andrew Rayel
 
-Andrew Rayel is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Loo Loo, Mexico City on Sat, 21 Nov 2026.
+Andrew Rayel is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Loo Loo, Mexico City on Sat, 21 Nov 2026.
 
 Andrew Rayel is a trance and techno artist based in Moldova, with 31 gigs on soundcheck across Amsterdam, Austin, Dallas/Fort Worth and Denver and 19 more. Often billed alongside Alesso, Armin van Buuren and Bart Skils. Next up: Loo Loo, Mexico City on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Andrew Rayel is a trance and techno artist based in Moldova, with 31 gigs on sou
 
 Alesso, Armin van Buuren, Bart Skils
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewrayel/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewrayel/)*

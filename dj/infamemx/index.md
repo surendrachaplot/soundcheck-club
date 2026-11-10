@@ -1,6 +1,6 @@
 # INFAME (MX)
 
-INFAME (MX) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Sigma, Ibiza on Sat, 21 Nov 2026.
+INFAME (MX) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Sigma, Ibiza on Sat, 21 Nov 2026.
 
 INFAME (MX) is a techno and trance artist based in Mexico, with 35 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ibiza and 5 more. Often billed alongside Mikka, Rocco.fx and Jayzo. Next up: Sigma, Ibiza on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ INFAME (MX) is a techno and trance artist based in Mexico, with 35 gigs on sound
 
 Mikka, Rocco.fx, Jayzo
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/infamemx/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/infamemx/)*

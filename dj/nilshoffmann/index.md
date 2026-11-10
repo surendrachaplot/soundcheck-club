@@ -1,6 +1,6 @@
 # Nils Hoffmann
 
-Nils Hoffmann is a Deep House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Russell Industrial Center, Detroit on Fri, 20 Nov 2026.
+Nils Hoffmann is a Deep House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Russell Industrial Center, Detroit on Fri, 20 Nov 2026.
 
 Nils Hoffmann is a deep house and progressive house artist based in Germany, with 97 gigs on soundcheck across Adelaide, Amsterdam, Austin and Bali and 41 more. Often billed alongside Marsh, Nicky Elisabeth and Romain Garcia. Next up: Russell Industrial Center, Detroit on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Nils Hoffmann is a deep house and progressive house artist based in Germany, wit
 
 Marsh, Nicky Elisabeth, Romain Garcia
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nilshoffmann/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nilshoffmann/)*

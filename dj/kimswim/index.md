@@ -1,6 +1,6 @@
 # KIM SWIM
 
-KIM SWIM is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Artheater, Cologne on Fri, 20 Nov 2026.
+KIM SWIM is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Artheater, Cologne on Fri, 20 Nov 2026.
 
 KIM SWIM is a techno and trance artist based in Germany, with 128 gigs on soundcheck across Amsterdam, Antwerp, Basel and Beijing and 28 more. Often billed alongside Mika Heggemann, Trancemaster Krause and davyboi. Next up: Artheater, Cologne on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ KIM SWIM is a techno and trance artist based in Germany, with 128 gigs on soundc
 
 Mika Heggemann, Trancemaster Krause, davyboi
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kimswim/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kimswim/)*

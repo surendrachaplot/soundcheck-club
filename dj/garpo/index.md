@@ -1,6 +1,6 @@
 # Garpo
 
-Garpo is a Dub Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Turbina, Budapest on Sat, 14 Nov 2026.
+Garpo is a Dub Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Turbina, Budapest on Sat, 14 Nov 2026.
 
 Garpo is a dub techno and ambient artist based in Hungary, with 20 gigs on soundcheck across Budapest. Often billed alongside ZOL, Bekø and Maron. Next up: Turbina, Budapest on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Garpo is a dub techno and ambient artist based in Hungary, with 20 gigs on sound
 
 ZOL, Bekø, Maron
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/garpo/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/garpo/)*

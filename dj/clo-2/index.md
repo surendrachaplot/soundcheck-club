@@ -1,14 +1,15 @@
 # CLO (2)
 
-CLO (2) is a Club and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Poetry Club, Glasgow on Sat, 5 Dec 2026.
+CLO (2) is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at The Poetry Club, Glasgow on Sat, 5 Dec 2026.
 
-CLO is a club and house artist based in United Kingdom, with 31 gigs on soundcheck across Edinburgh, Glasgow and Paris. Often billed alongside strawb.bby, Babyjaii and Bellarosa. Next up: The Poetry Club, Glasgow on Sat 5 Dec.
+CLO is a house and club artist based in United Kingdom, with 32 gigs on soundcheck across Edinburgh, Glasgow, Paris and Shanghai. Often billed alongside strawb.bby, Babyjaii and Bellarosa. Next up: The Poetry Club, Glasgow on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | The Poetry Club | Glasgow |
+| Thu, 31 Dec 2026 | TBA - HYATT ON THE BUND- VUE BAR | Shanghai |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ CLO is a club and house artist based in United Kingdom, with 31 gigs on soundche
 
 strawb.bby, Babyjaii, Bellarosa
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clo-2/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clo-2/)*

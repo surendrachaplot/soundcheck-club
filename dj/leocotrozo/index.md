@@ -1,6 +1,6 @@
 # Leo Cotrozo
 
-Leo Cotrozo is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Sensorium, Berlin on Wed, 16 Dec 2026.
+Leo Cotrozo is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Sensorium, Berlin on Wed, 16 Dec 2026.
 
 Leo Cotrozo is a techno and tech house artist based in Chile, with 88 gigs on soundcheck across Barcelona and Berlin. Often billed alongside Claramonte, Mahe and SuttleK. Next up: Sensorium, Berlin on Wed 16 Dec.
 
@@ -25,4 +25,4 @@ Leo Cotrozo is a techno and tech house artist based in Chile, with 88 gigs on so
 
 Claramonte, Mahe, SuttleK
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leocotrozo/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leocotrozo/)*

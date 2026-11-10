@@ -1,6 +1,6 @@
 # Hoodbabyblue
 
-Hoodbabyblue is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Bossa Nova Civic Club, New York City on Thu, 12 Nov 2026.
+Hoodbabyblue is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Bossa Nova Civic Club, New York City on Thu, 12 Nov 2026.
 
 Hoodbabyblue is a club and techno artist based in United States of America, with 8 gigs on soundcheck across New York City. Often billed alongside DJ Freedem, Tah and 3mouth. Next up: Bossa Nova Civic Club, New York City on Thu 12 Nov.
 
@@ -24,4 +24,4 @@ Hoodbabyblue is a club and techno artist based in United States of America, with
 
 DJ Freedem, Tah (1), 3mouth
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hoodbabyblue/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hoodbabyblue/)*

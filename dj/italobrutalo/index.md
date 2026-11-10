@@ -1,6 +1,6 @@
 # Italo Brutalo
 
-Italo Brutalo is a Italo Disco and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Time is the new space, Rotterdam on Sat, 21 Nov 2026.
+Italo Brutalo is a Italo Disco and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Time is the new space, Rotterdam on Sat, 21 Nov 2026.
 
 Italo Brutalo is an italo disco and techno artist based in Germany, with 28 gigs on soundcheck across Athens, Berlin, Hamburg and Ibiza and 7 more. Often billed alongside ANDI A., Crille & Tamalt and Franz Scala. Next up: Time is the new space, Rotterdam on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Italo Brutalo is an italo disco and techno artist based in Germany, with 28 gigs
 
 ANDI A., Crille & Tamalt, Franz Scala
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/italobrutalo/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/italobrutalo/)*

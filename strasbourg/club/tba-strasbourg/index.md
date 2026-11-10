@@ -1,6 +1,6 @@
 # TBA - Strasbourg
 
-TBA - Strasbourg is a music venue in Strasbourg with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. The next is "UNDERSOUND Disco-House VI" on Tue, 10 Nov 2026.
+TBA - Strasbourg is a music venue in Strasbourg with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. The next is "UNDERSOUND Disco-House VI" on Tue, 10 Nov 2026.
 
 TBA - Strasbourg is a music venue in Strasbourg listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Strasbourg is a music venue in Strasbourg listed on soundcheck. 1 upcoming
 | --- | --- | --- |
 | Tue, 10 Nov 2026 | UNDERSOUND Disco-House VI |  |
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/tba-strasbourg/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/tba-strasbourg/)*

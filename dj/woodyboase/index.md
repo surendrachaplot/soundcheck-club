@@ -1,6 +1,6 @@
 # Woody Boase
 
-Woody Boase is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at NDR2 Red Room, London on Fri, 27 Nov 2026.
+Woody Boase is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at NDR2 Red Room, London on Fri, 27 Nov 2026.
 
 Woody Boase is a techno and deep house artist based in United Kingdom, with 28 gigs on soundcheck across Brighton, Cardiff, London and Manchester. Often billed alongside Antoin KMA, Jossy Mitsu and Nora (UK). Next up: NDR2 Red Room, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Woody Boase is a techno and deep house artist based in United Kingdom, with 28 g
 
 Antoin KMA, Jossy Mitsu, Nora (UK)
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/woodyboase/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/woodyboase/)*

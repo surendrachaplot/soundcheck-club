@@ -1,6 +1,6 @@
 # Martinesque
 
-Martinesque is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Postkantine, Basel on Sat, 19 Dec 2026.
+Martinesque is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Postkantine, Basel on Sat, 19 Dec 2026.
 
 Martinesque is a house and techno artist based in Switzerland, with 18 gigs on soundcheck across Basel, East, Lausanne and Zurich. Often billed alongside Aline (CH), Jelena and Osiris. Next up: Postkantine, Basel on Sat 19 Dec.
 
@@ -26,4 +26,4 @@ Martinesque is a house and techno artist based in Switzerland, with 18 gigs on s
 
 Aline (CH), Jelena, Osiris (4)
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/martinesque-ch/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/martinesque-ch/)*

@@ -1,6 +1,6 @@
 # Robin RB
 
-Robin RB is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Tokonoma Club, Frankfurt on Sat, 21 Nov 2026.
+Robin RB is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Tokonoma Club, Frankfurt on Sat, 21 Nov 2026.
 
 Robin RB is a house and electro artist based in Germany, with 38 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 9 more. Often billed alongside Ben Balance, Anthea and Carmelo. Next up: Tokonoma Club, Frankfurt on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Robin RB is a house and electro artist based in Germany, with 38 gigs on soundch
 
 Ben Balance, Anthea, Carmelo
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robinrb/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robinrb/)*

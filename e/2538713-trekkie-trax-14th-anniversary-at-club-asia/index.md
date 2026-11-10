@@ -1,6 +1,6 @@
 # TREKKIE TRAX 14th Anniversary at club asia
 
-TREKKIE TRAX 14th Anniversary at club asia on Sat 21 Nov, Tokyo. 10 artists: 80KIDZ, Amps, Carpainter and DubGuy and 6 more. Bass and Club. See the line-up on soundcheck.
+TREKKIE TRAX 14th Anniversary at club asia on Sat 21 Nov, Tokyo. 11 artists: 80KIDZ, Amps, Carpainter and DubGuy and 7 more. Bass and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -19,6 +19,7 @@ TREKKIE TRAX 14th Anniversary at club asia on Sat 21 Nov, Tokyo. 10 artists: 80K
 - Oyubi
 - Seimei
 - Stupid Kozo
+- TREKKIE TRAX CREW
 - Wrack
 
 *Source: [soundcheck](https://soundcheck.club/e/2538713-trekkie-trax-14th-anniversary-at-club-asia/)*

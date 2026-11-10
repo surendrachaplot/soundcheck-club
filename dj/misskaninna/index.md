@@ -1,8 +1,8 @@
 # Miss Kaninna
 
-Miss Kaninna is a House and Pop artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
+Miss Kaninna is a House and Pop artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
 
-Miss Kaninna is a house and pop artist based in Australia, with 8 gigs on soundcheck across Brisbane, Melbourne, Perth and Sydney. Often billed alongside Cassian, Channel Tres and Chris Stussy. Next up: The Wildlands, Melbourne on Fri 20 Nov.
+Miss Kaninna is a house and pop artist based in Australia, with 8 gigs on soundcheck across Brisbane, Melbourne, Perth and Sydney. Often billed alongside CHRIS STASSY, Cassian and Channel Tres. Next up: The Wildlands, Melbourne on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -22,6 +22,6 @@ Miss Kaninna is a house and pop artist based in Australia, with 8 gigs on soundc
 
 ## Shares bills with
 
-Cassian, Channel Tres, Chris Stussy
+CHRIS STASSY, Cassian, Channel Tres
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/misskaninna/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/misskaninna/)*

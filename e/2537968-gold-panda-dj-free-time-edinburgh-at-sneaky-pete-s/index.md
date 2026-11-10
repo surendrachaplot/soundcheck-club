@@ -1,6 +1,6 @@
 # Gold Panda (DJ) : Free Time - Edinburgh at Sneaky Pete's
 
-Gold Panda (DJ) : Free Time - Edinburgh at Sneaky Pete's on Sun 7 Feb, Edinburgh. 1 artist: Gold Panda. See the line-up on soundcheck.
+Gold Panda (DJ) : Free Time - Edinburgh at Sneaky Pete's on Sun 7 Feb, Edinburgh. 1 artist: Gold Panda. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

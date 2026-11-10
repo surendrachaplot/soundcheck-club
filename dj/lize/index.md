@@ -1,6 +1,6 @@
 # Lize
 
-Lize is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Wimborne St Giles, Dorset, South-east on Sat, 21 Nov 2026.
+Lize is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Wimborne St Giles, Dorset, South-east on Sat, 21 Nov 2026.
 
 Lize is a tech house and techno artist, with 6 gigs on soundcheck across London and South East. Often billed alongside Oliver Koletzki, William Lake and Abstraal. Next up: Wimborne St Giles, Dorset, South East on Sat 21 Nov.
 
@@ -22,4 +22,4 @@ Lize is a tech house and techno artist, with 6 gigs on soundcheck across London 
 
 Oliver Koletzki, William Lake, Abstraal
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lize/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lize/)*

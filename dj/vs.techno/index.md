@@ -1,6 +1,6 @@
 # VS.techno
 
-VS.techno is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at La Douche Froide Metz, East on Tue, 10 Nov 2026.
+VS.techno is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at La Douche Froide Metz, East on Tue, 10 Nov 2026.
 
 VS.techno is a techno artist based in France, with 4 gigs on soundcheck across East and Malta. Often billed alongside Kingsmo, Naomi Baldacchino and DJ SUN (CH/DE). Next up: La Douche Froide Metz, East on Tue 10 Nov.
 
@@ -20,4 +20,4 @@ VS.techno is a techno artist based in France, with 4 gigs on soundcheck across E
 
 Kingsmo, Naomi Baldacchino, DJ SUN (CH/DE)
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vs.techno/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vs.techno/)*

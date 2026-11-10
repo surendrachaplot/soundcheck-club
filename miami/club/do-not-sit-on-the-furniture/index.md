@@ -1,6 +1,6 @@
 # Do Not Sit On The Furniture
 
-Do Not Sit On The Furniture is a music venue in Miami with 27 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Jessy & Friends" on Wed, 11 Nov 2026.
+Do Not Sit On The Furniture is a music venue in Miami with 27 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Jessy & Friends" on Wed, 11 Nov 2026.
 
 Do Not Sit On The Furniture is a music venue in Miami listed on soundcheck. 27 upcoming gigs, with line-ups including Anthony Middleton, Armen Miran, Britta Arnold and DAVI and 2 more. See dates, start times and who's playing. 423 16th St, Miami Beach, FL 33139.
 
@@ -23,4 +23,4 @@ Do Not Sit On The Furniture is a music venue in Miami listed on soundcheck. 27 u
 
 423 16th St, Miami Beach, FL 33139, Miami
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/do-not-sit-on-the-furniture/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/do-not-sit-on-the-furniture/)*

@@ -1,6 +1,6 @@
 # Coline
 
-Coline is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Club Paula, Dresden on Fri, 20 Nov 2026.
+Coline is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Club Paula, Dresden on Fri, 20 Nov 2026.
 
 Coline is a techno and house artist based in Germany, with 20 gigs on soundcheck across Detroit, Dresden, Leipzig and Prague. Often billed alongside Axoon, Caren Callas and Spunky. Next up: Club Paula, Dresden on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Coline is a techno and house artist based in Germany, with 20 gigs on soundcheck
 
 Axoon, Caren Callas, Spunky
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/coline/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/coline/)*

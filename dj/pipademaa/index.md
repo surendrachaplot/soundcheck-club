@@ -1,8 +1,8 @@
 # PIPA DE MA$$A
 
-PIPA DE MA$$A is a Hardcore and Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Fitzroy, Berlin on Fri, 27 Nov 2026.
+PIPA DE MA$$A is a Hardcore and Ambient artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Fitzroy, Berlin on Fri, 27 Nov 2026.
 
-PIPA DE MA$$A is a hardcore and ambient artist, with 19 gigs on soundcheck across Berlin, Edinburgh, Lisbon and Paris and 1 more. Often billed alongside Angel Rider, Gabybaby and malicedeejay. Next up: Fitzroy, Berlin on Fri 27 Nov.
+PIPA DE MA$$A is a hardcore and ambient artist based in Portugal, with 19 gigs on soundcheck across Berlin, Edinburgh, Lisbon and Paris and 1 more. Often billed alongside Angel Rider, Gabybaby and malicedeejay. Next up: Fitzroy, Berlin on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ PIPA DE MA$$A is a hardcore and ambient artist, with 19 gigs on soundcheck acros
 
 Angel Rider, Gabybaby, malicedeejay
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pipademaa/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pipademaa/)*

@@ -1,6 +1,6 @@
 # AARON BLEEK
 
-AARON BLEEK is a Deep House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Noxe Barcelona, Barcelona on Wed, 18 Nov 2026.
+AARON BLEEK is a Deep House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Noxe Barcelona, Barcelona on Wed, 18 Nov 2026.
 
 AARON BLEEK is a deep house and minimal artist based in Spain, with 19 gigs on soundcheck across Barcelona and Berlin. Often billed alongside Cendales, TvMnstr and Alex Silva. Next up: Noxe Barcelona, Barcelona on Wed 18 Nov.
 
@@ -25,4 +25,4 @@ AARON BLEEK is a deep house and minimal artist based in Spain, with 19 gigs on s
 
 Cendales, TvMnstr, Alex Silva
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aaronbleek/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aaronbleek/)*

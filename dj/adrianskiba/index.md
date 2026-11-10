@@ -1,6 +1,6 @@
 # Adrian Skiba
 
-Adrian Skiba is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at EXIT Glasgow, Glasgow on Fri, 18 Dec 2026.
+Adrian Skiba is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at EXIT Glasgow, Glasgow on Fri, 18 Dec 2026.
 
 Adrian Skiba is a techno and experimental artist based in United Kingdom, with 7 gigs on soundcheck across Glasgow, Manchester and Warsaw. Often billed alongside KOSAA, Subcode and Angel Negrin. Next up: EXIT Glasgow, Glasgow on Fri 18 Dec.
 
@@ -23,4 +23,4 @@ Adrian Skiba is a techno and experimental artist based in United Kingdom, with 7
 
 KOSAA, Subcode, Angel Negrin
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianskiba/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianskiba/)*

@@ -1,10 +1,10 @@
 # DAHLIA STEREO with SOMEWHERE SOUL at Dahlia Stereo
 
-DAHLIA STEREO with SOMEWHERE SOUL at Dahlia Stereo on Thu 12 Nov, Manchester. Disco and Jazz. See the line-up on soundcheck.
+DAHLIA STEREO with SOMEWHERE SOUL at Dahlia Stereo on Sun 6 Dec, Manchester. Disco and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Thu, 12 Nov 2026 |
+| Date | Sun, 6 Dec 2026 |
 | Venue | Dahlia Stereo |
 | City | Manchester |
 

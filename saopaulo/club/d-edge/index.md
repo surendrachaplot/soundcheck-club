@@ -1,6 +1,6 @@
 # D-EDGE
 
-D-EDGE is a music venue in Sao Paulo with 13 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "MOVING D-EDGE SP pres.: Tim Baresko (FR). M4RKZ. SHELDON" on Thu, 12 Nov 2026.
+D-EDGE is a music venue in Sao Paulo with 13 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "MOVING D-EDGE SP pres.: Tim Baresko (FR). M4RKZ. SHELDON" on Thu, 12 Nov 2026.
 
 D-EDGE is a music venue in Sao Paulo listed on soundcheck. 13 upcoming gigs, with line-ups including Âme, Amine Edge, Andre Torquato and BAPP and 2 more. See dates, start times and who's playing. Av. Auro Soares de Moura Andrade, 141. 01155-040 São Paulo , Brazil.
 
@@ -23,4 +23,4 @@ D-EDGE is a music venue in Sao Paulo listed on soundcheck. 13 upcoming gigs, wit
 
 Av. Auro Soares de Moura Andrade, 141. 01155-040 São Paulo , Brazil, Sao Paulo
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/d-edge/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/d-edge/)*

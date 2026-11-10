@@ -1,6 +1,6 @@
 # Maurice Werner
 
-Maurice Werner is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Secret Location, Berlin on Fri, 20 Nov 2026.
+Maurice Werner is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Secret Location, Berlin on Fri, 20 Nov 2026.
 
 Maurice Werner is a techno and trance artist based in Germany, with 23 gigs on soundcheck across Berlin. Often billed alongside NIKØ, DJ Spaßgetränk and Konsument. Next up: TBA - Secret Location, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Maurice Werner is a techno and trance artist based in Germany, with 23 gigs on s
 
 NIKØ, DJ Spaßgetränk, Konsument
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mauricewerner/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mauricewerner/)*

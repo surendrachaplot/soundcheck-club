@@ -1,10 +1,10 @@
 # DAHLIA STEREO with DJ Die at Dahlia Stereo
 
-DAHLIA STEREO with DJ Die at Dahlia Stereo on Thu 19 Nov, Manchester. 1 artist: DJ Die. Bass and Funk / Soul. See the line-up on soundcheck.
+DAHLIA STEREO with DJ Die at Dahlia Stereo on Wed 16 Dec, Manchester. 1 artist: DJ Die. Bass and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Thu, 19 Nov 2026 |
+| Date | Wed, 16 Dec 2026 |
 | Venue | Dahlia Stereo |
 | City | Manchester |
 

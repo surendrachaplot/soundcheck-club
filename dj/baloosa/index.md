@@ -1,6 +1,6 @@
 # Baloo (SA)
 
-Baloo (SA) is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Soundscapes Zanzi, Tanzania on Thu, 21 Jan 2027.
+Baloo (SA) is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Soundscapes Zanzi, Tanzania on Thu, 21 Jan 2027.
 
 Baloo (SA) is a house and minimal artist based in Saudi Arabia, with 16 gigs on soundcheck across Amsterdam, Berlin, Dubai and Ibiza and 4 more. Often billed alongside Carlo, Agha and Andrey Pushkarev. Next up: Soundscapes Zanzi, Tanzania on Thu 21 Jan.
 
@@ -25,4 +25,4 @@ Baloo (SA) is a house and minimal artist based in Saudi Arabia, with 16 gigs on 
 
 Carlo, Agha, Andrey Pushkarev
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baloosa/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baloosa/)*

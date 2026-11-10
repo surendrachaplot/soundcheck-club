@@ -1,6 +1,6 @@
 # Dreimal T
 
-Dreimal T is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Tresor / Globus, Berlin on Fri, 18 Dec 2026.
+Dreimal T is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Tresor / Globus, Berlin on Fri, 18 Dec 2026.
 
 Dreimal T is a techno and house artist based in Germany, with 42 gigs on soundcheck across Berlin, Leipzig, Munich and Warsaw. Often billed alongside degen, Leone Knight and mole. Next up: Tresor / Globus, Berlin on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Dreimal T is a techno and house artist based in Germany, with 42 gigs on soundch
 
 degen, Leone Knight, mole (2)
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dreimalt/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dreimalt/)*

@@ -1,6 +1,6 @@
 # Klein
 
-Klein is a Experimental and Club artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at public records, New York City on Mon, 9 Nov 2026.
+Klein is a Experimental and Club artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at public records, New York City on Mon, 9 Nov 2026.
 
 Klein is an experimental and club artist based in United States of America, with 37 gigs on soundcheck across Amsterdam, Berlin, Brussels and Buenos Aires and 15 more. Often billed alongside Space Afrika, upsammy and Buttechno. Next up: public records, New York City on Mon 9 Nov.
 
@@ -13,6 +13,7 @@ Klein is an experimental and club artist based in United States of America, with
 
 ## Recently played
 
+- public records, New York City · Mon, 9 Nov 2026
 - Nowa Miodowa, Warsaw · Sun, 4 Oct 2026
 - Various venues - Warsaw & Krakow, Poland · Fri, 2 Oct 2026
 - Recyclart, Brussels · Sat, 12 Sept 2026
@@ -20,10 +21,9 @@ Klein is an experimental and club artist based in United States of America, with
 - 8MM, Berlin · Fri, 22 May 2026
 - 8MM, Berlin · Thu, 21 May 2026
 - TBA - Multiple Venues , Helsinki · Wed, 13 May 2026
-- TivoliVredenburg, Utrecht · Thu, 6 Nov 2025
 
 ## Shares bills with
 
 Space Afrika, upsammy, Buttechno
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/klein/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/klein/)*

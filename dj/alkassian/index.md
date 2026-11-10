@@ -1,6 +1,6 @@
 # Alex Kassian
 
-Alex Kassian is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Secret Location, London on Sat, 14 Nov 2026.
+Alex Kassian is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Secret Location, London on Sat, 14 Nov 2026.
 
 Alex Kassian is a house and techno artist based in Germany, with 205 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 68 more. Often billed alongside PARAMIDA, Running Hot and Job Jobse. Next up: Secret Location, London on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Alex Kassian is a house and techno artist based in Germany, with 205 gigs on sou
 
 PARAMIDA, Running Hot, Job Jobse
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alkassian/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alkassian/)*

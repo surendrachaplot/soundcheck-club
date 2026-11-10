@@ -1,6 +1,6 @@
 # TropiCals
 
-TropiCals is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Cine Iris, Rua da Carioca, 49 - Centro, Rio de Janeiro - RJ, 20050-008, Rio de Janeiro on Sat, 14 Nov 2026.
+TropiCals is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Cine Iris, Rua da Carioca, 49 - Centro, Rio de Janeiro - RJ, 20050-008, Rio de Janeiro on Sat, 14 Nov 2026.
 
 TropiCals is a house and disco artist based in Brazil, with 56 gigs on soundcheck across Barcelona, Buenos Aires, Paris and Rio de Janeiro and 1 more. Often billed alongside Rara Djs, Millos Kaiser and Craig Ouar. Next up: TBA - Cine Iris, Rua da Carioca, 49 - Centro, Rio de Janeiro - RJ, 20050-008, Rio de Janeiro on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ TropiCals is a house and disco artist based in Brazil, with 56 gigs on soundchec
 
 Rara Djs, Millos Kaiser, Craig Ouar
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tropicals/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tropicals/)*

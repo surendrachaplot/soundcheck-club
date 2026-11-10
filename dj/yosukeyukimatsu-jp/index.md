@@ -1,8 +1,8 @@
 # ¥ØU$UK€ ¥UK1MAT$U
 
-¥ØU$UK€ ¥UK1MAT$U is a Techno and Experimental artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Petco Park, San-diego on Thu, 31 Dec 2026.
+¥ØU$UK€ ¥UK1MAT$U is a Techno and Experimental artist with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Petco Park, San-diego on Thu, 31 Dec 2026.
 
-¥ØU$UK€ ¥UK1MAT$U is a techno and experimental artist based in Japan, with 203 gigs on soundcheck across Adelaide, Amsterdam, Athens and Atlanta and 69 more. Often billed alongside Blawan, DJ Gigola and Interplanetary Criminal. Next up: Petco Park, San Diego on Thu 31 Dec.
+¥ØU$UK€ ¥UK1MAT$U is a techno and experimental artist based in Japan, with 204 gigs on soundcheck across Adelaide, Amsterdam, Athens and Atlanta and 70 more. Often billed alongside Blawan, DJ Gigola and Interplanetary Criminal. Next up: Petco Park, San Diego on Thu 31 Dec.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@
 | Thu, 4 Mar 2027 | Dom im Berg | Austria |
 | Sat, 13 Mar 2027 | 104 CENTQUATRE | Paris |
 | Wed, 24 Mar 2027 | Poolen | Copenhagen |
+| Thu, 5 Aug 2027 | Velodrom TJ Favorit Brno | Brno |
 
 ## Recently played
 
@@ -28,4 +29,4 @@
 
 Blawan, DJ Gigola, Interplanetary Criminal
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yosukeyukimatsu-jp/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yosukeyukimatsu-jp/)*

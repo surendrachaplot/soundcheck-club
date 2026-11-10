@@ -1,6 +1,6 @@
 # Shabi Seyf
 
-Shabi Seyf is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Minimüzikhol, Istanbul on Fri, 13 Nov 2026.
+Shabi Seyf is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Minimüzikhol, Istanbul on Fri, 13 Nov 2026.
 
 Shabi Seyf is a house and deep house artist based in United Kingdom, with 7 gigs on soundcheck across Berlin, Istanbul and London. Often billed alongside Adam Romo, Bear Winder and Bren Bailey. Next up: Minimüzikhol, Istanbul on Fri 13 Nov.
 
@@ -23,4 +23,4 @@ Shabi Seyf is a house and deep house artist based in United Kingdom, with 7 gigs
 
 Adam Romo, Bear Winder, Bren Bailey
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shabiseyf/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shabiseyf/)*

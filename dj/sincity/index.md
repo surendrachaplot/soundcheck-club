@@ -1,6 +1,6 @@
 # Sin City
 
-Sin City is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA, Toronto on Fri, 18 Dec 2026.
+Sin City is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA, Toronto on Fri, 18 Dec 2026.
 
 Sin City is an electronica and experimental artist based in Canada, with 5 gigs on soundcheck across Toronto. Often billed alongside Alister Johnson, Vjollca and Chiara. Next up: TBA, Toronto on Fri 18 Dec.
 
@@ -21,4 +21,4 @@ Sin City is an electronica and experimental artist based in Canada, with 5 gigs 
 
 Alister Johnson, Vjollca, Chiara
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sincity/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sincity/)*

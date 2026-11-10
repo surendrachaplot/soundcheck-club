@@ -1,6 +1,6 @@
 # Binh
 
-Binh is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Monument SF, San Francisco/Oakland on Sat, 14 Nov 2026.
+Binh is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Monument SF, San Francisco/Oakland on Sat, 14 Nov 2026.
 
 Binh is a techno and house artist based in Germany, with 217 gigs on soundcheck across Amsterdam, Austin, Bali and Bangkok and 48 more. Often billed alongside DJ Masda, Nicolas Lutz and Francesco Del Garda. Next up: Monument SF, San Francisco/Oakland on Sat 14 Nov.
 
@@ -31,4 +31,4 @@ Binh is a techno and house artist based in Germany, with 217 gigs on soundcheck 
 
 DJ Masda, Nicolas Lutz, Francesco Del Garda
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/binh/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/binh/)*

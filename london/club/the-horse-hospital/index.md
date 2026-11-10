@@ -1,8 +1,8 @@
 # The Horse Hospital
 
-The Horse Hospital is a music venue in London with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Haunter presents: Angelica - Stereocaulon ALBUM LAUNCH" on Fri, 13 Nov 2026.
+The Horse Hospital is a music venue in London with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Haunter presents: Angelica - Stereocaulon ALBUM LAUNCH" on Fri, 13 Nov 2026.
 
-The Horse Hospital is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Aircode and Angelicaa. See dates, start times and who's playing. Colonnade, Bloomsbury, WC1N 1HX, London.
+The Horse Hospital is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including Aircode and Angelicaa. See dates, start times and who's playing. Colonnade, Bloomsbury, WC1N 1HX, London.
 
 ## What's on
 
@@ -10,9 +10,11 @@ The Horse Hospital is a music venue in London listed on soundcheck. 2 upcoming g
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Haunter presents: Angelica - Stereocaulon ALBUM LAUNCH | Aircode, Angelicaa |
 | Sun, 15 Nov 2026 | Odda: Tara Cunningham (live), Fohn (live) |  |
+| Wed, 18 Nov 2026 | Bad Punk Resonance Fundraiser |  |
+| Fri, 20 Nov 2026 | False Locust presents: Resonance Fundraiser |  |
 
 ## Address
 
 Colonnade, Bloomsbury, WC1N 1HX, London, London
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-horse-hospital/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-horse-hospital/)*

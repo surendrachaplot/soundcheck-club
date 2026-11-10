@@ -18,7 +18,7 @@ Pitch Music & Arts 2027 (SOLD OUT) at Moyston on Fri 5 Mar, Melbourne. 61 artist
 - Bad Boombox
 - Caucasian Opportunities
 - Chlär
-- Chris Stussy
+- CHRIS STASSY
 - Clara Cuvé
 - Clementaum
 - Clouds

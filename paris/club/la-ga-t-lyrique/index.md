@@ -1,6 +1,6 @@
 # La Gaîté Lyrique
 
-La Gaîté Lyrique is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Nosaj Thing & Daito Manabe" on Fri, 13 Nov 2026.
+La Gaîté Lyrique is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Nosaj Thing & Daito Manabe" on Fri, 13 Nov 2026.
 
 La Gaîté Lyrique is a music venue in Paris listed on soundcheck. 2 upcoming gigs, with line-ups including Actress, Daito Manabe and Nosaj Thing. See dates, start times and who's playing. 3 bis rue Papin; 75003; Paris; France.
 
@@ -15,4 +15,4 @@ La Gaîté Lyrique is a music venue in Paris listed on soundcheck. 2 upcoming gi
 
 3 bis rue Papin; 75003; Paris; France, Paris
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-ga-t-lyrique/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-ga-t-lyrique/)*

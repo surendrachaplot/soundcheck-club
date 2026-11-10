@@ -1,6 +1,6 @@
 # Club Favela
 
-Club Favela is a music venue in Münster with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Nova Memoria mit YESOLO, Dave Demon uvm" on Sat, 14 Nov 2026.
+Club Favela is a music venue in Münster with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Nova Memoria mit YESOLO, Dave Demon uvm" on Sat, 14 Nov 2026.
 
 Club Favela is a music venue in Münster listed on soundcheck. 2 upcoming gigs, with line-ups including carlo kalu, Dave Demon, Ian Crank and YESOLO. See dates, start times and who's playing. Am Hawerkamp 21; 48155 Münster; German.
 
@@ -15,4 +15,4 @@ Club Favela is a music venue in Münster listed on soundcheck. 2 upcoming gigs, 
 
 Am Hawerkamp 21; 48155 Münster; German, Münster
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/munster/club/club-favela/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/munster/club/club-favela/)*

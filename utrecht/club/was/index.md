@@ -1,6 +1,6 @@
 # WAS.
 
-WAS. is a music venue in Utrecht with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Hiss & Hertz with Chlär, Colin Benders & Joya Astou" on Sat, 19 Dec 2026.
+WAS. is a music venue in Utrecht with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Hiss & Hertz with Chlär, Colin Benders & Joya Astou" on Sat, 19 Dec 2026.
 
 WAS. is a music venue in Utrecht listed on soundcheck. 3 upcoming gigs, with line-ups including Chlär, Colin Benders, Joya Astou and Merel Helderman and 2 more. See dates, start times and who's playing. Tractieweg 41, 3534 AP Utrecht.
 
@@ -16,4 +16,4 @@ WAS. is a music venue in Utrecht listed on soundcheck. 3 upcoming gigs, with lin
 
 Tractieweg 41, 3534 AP Utrecht, Utrecht
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/was/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/was/)*

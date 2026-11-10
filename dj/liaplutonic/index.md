@@ -1,6 +1,6 @@
 # Lia Plutonic
 
-Lia Plutonic is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Igloofest, Montreal on Thu, 21 Jan 2027.
+Lia Plutonic is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Igloofest, Montreal on Thu, 21 Jan 2027.
 
 Lia Plutonic is a house and techno artist based in Canada, with 76 gigs on soundcheck across Chicago, Montreal, Toronto and Vancouver. Often billed alongside Guthrie, Lis Dalton and Pascale Project. Next up: Igloofest, Montreal on Thu 21 Jan.
 
@@ -25,4 +25,4 @@ Lia Plutonic is a house and techno artist based in Canada, with 76 gigs on sound
 
 Guthrie, Lis Dalton, Pascale Project
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/liaplutonic/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/liaplutonic/)*

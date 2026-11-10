@@ -1,6 +1,6 @@
 # Darren Styles
 
-Darren Styles is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 28 Nov 2026.
+Darren Styles is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 28 Nov 2026.
 
 Darren Styles is a techno and hardcore artist based in United Kingdom, with 26 gigs on soundcheck across Aberdeen, Birmingham, Brighton and Edinburgh and 12 more. Often billed alongside Hixxy, Coone and Gammer. Next up: Depot Mayfield, Manchester on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Darren Styles is a techno and hardcore artist based in United Kingdom, with 26 g
 
 Hixxy, Coone, Gammer
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/darrenstyles/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/darrenstyles/)*

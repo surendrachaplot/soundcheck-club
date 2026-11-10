@@ -1,6 +1,6 @@
 # Ma Haiping
 
-Ma Haiping is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Pillbox Beijing, Beijing on Fri, 20 Nov 2026.
+Ma Haiping is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Pillbox Beijing, Beijing on Fri, 20 Nov 2026.
 
 Ma Haiping is a techno and house artist based in China, with 53 gigs on soundcheck across Bangkok, Beijing, Belgrade and Denver and 8 more. Often billed alongside NAXIN, Shanghai Ultra and LIUYANG. Next up: Pillbox Beijing, Beijing on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Ma Haiping is a techno and house artist based in China, with 53 gigs on soundche
 
 NAXIN, Shanghai Ultra, LIUYANG
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mahaiping/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mahaiping/)*

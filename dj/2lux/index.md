@@ -1,6 +1,6 @@
 # 2LUX
 
-2LUX is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Flinders, Sydney on Sat, 5 Dec 2026.
+2LUX is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Flinders, Sydney on Sat, 5 Dec 2026.
 
 2LUX is a techno and industrial artist based in France, with 12 gigs on soundcheck across Sydney. Often billed alongside ARTISAH, <777> and Aggro. Next up: The Flinders, Sydney on Sat 5 Dec.
 
@@ -25,4 +25,4 @@
 
 ARTISAH, <777>, Aggro
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/2lux/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/2lux/)*

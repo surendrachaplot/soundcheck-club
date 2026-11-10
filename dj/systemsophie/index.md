@@ -1,6 +1,6 @@
 # System Sophie
 
-System Sophie is a Electronica and IDM artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Passos Manuel, Porto on Sat, 14 Nov 2026.
+System Sophie is a Electronica and IDM artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Passos Manuel, Porto on Sat, 14 Nov 2026.
 
 System Sophie is an electronica and idm artist based in Portugal, with 2 gigs on soundcheck across Porto. Often billed alongside Amuleto Apotropaico, Banditst4r and Catarina Silva. Next up: Passos Manuel, Porto on Sat 14 Nov.
 
@@ -15,4 +15,4 @@ System Sophie is an electronica and idm artist based in Portugal, with 2 gigs on
 
 Amuleto Apotropaico, Banditst4r, Catarina Silva
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/systemsophie/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/systemsophie/)*

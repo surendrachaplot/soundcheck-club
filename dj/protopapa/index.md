@@ -1,13 +1,14 @@
 # Protopapa
 
-Protopapa is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Company Club, Milan on Sat, 21 Nov 2026.
+Protopapa is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Republic Milano, Milan on Fri, 13 Nov 2026.
 
-Protopapa is a house and electronica artist based in Italy, with 27 gigs on soundcheck across Amsterdam, Brussels, Geneva and London and 5 more. Often billed alongside ASHTATTZ, Absoluut and ArmaDisco. Next up: Company Club, Milan on Sat 21 Nov.
+Protopapa is a house and electronica artist based in Italy, with 28 gigs on soundcheck across Amsterdam, Brussels, Geneva and London and 5 more. Often billed alongside ASHTATTZ, Absoluut and ArmaDisco. Next up: Republic Milano, Milan on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | Republic Milano | Milan |
 | Sat, 21 Nov 2026 | Company Club | Milan |
 
 ## Recently played
@@ -25,4 +26,4 @@ Protopapa is a house and electronica artist based in Italy, with 27 gigs on soun
 
 ASHTATTZ, Absoluut, ArmaDisco
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/protopapa/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/protopapa/)*

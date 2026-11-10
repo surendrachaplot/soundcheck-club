@@ -1,6 +1,6 @@
 # IXNAEY
 
-IXNAEY is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Oxford Art Factory, Sydney on Fri, 27 Nov 2026.
+IXNAEY is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Oxford Art Factory, Sydney on Fri, 27 Nov 2026.
 
 IXNAEY is a techno and breakbeat artist based in Australia, with 8 gigs on soundcheck across Sydney. Often billed alongside NFRMT, AMZDAMN B2B SMAGS and Baba Boubou. Next up: Oxford Art Factory, Sydney on Fri 27 Nov.
 
@@ -24,4 +24,4 @@ IXNAEY is a techno and breakbeat artist based in Australia, with 8 gigs on sound
 
 NFRMT, AMZDAMN B2B SMAGS, Baba Boubou
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ixnaey/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ixnaey/)*

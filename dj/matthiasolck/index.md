@@ -1,6 +1,6 @@
 # Matthias Olck
 
-Matthias Olck is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at MTW, Frankfurt on Thu, 31 Dec 2026.
+Matthias Olck is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at MTW, Frankfurt on Thu, 31 Dec 2026.
 
 Matthias Olck is a techno and trance artist based in Germany, with 23 gigs on soundcheck across Bavaria, Berlin, Cologne and Dortmund / Essen and 3 more. Often billed alongside Ropemaker, Diode Eins and Kos:mo. Next up: MTW, Frankfurt on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Matthias Olck is a techno and trance artist based in Germany, with 23 gigs on so
 
 Ropemaker, Diode Eins, Kos:mo
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matthiasolck/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matthiasolck/)*

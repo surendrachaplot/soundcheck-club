@@ -1,8 +1,8 @@
 # Ossia
 
-Ossia is a Experimental and Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at The Loco Klub, Bristol on Thu, 12 Nov 2026.
+Ossia is a Experimental and Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at The Loco Klub, Bristol on Thu, 12 Nov 2026.
 
-Ossia is an experimental and bass artist based in United Kingdom, with 53 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Bergen and 17 more. Often billed alongside ojoo, Dan Johnson and Anina. Next up: The Loco Klub, Bristol on Thu 12 Nov.
+Ossia is an experimental and bass artist based in United Kingdom, with 53 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Bergen and 17 more. Often billed alongside ojoo, Dan Johnson and i-sha. Next up: The Loco Klub, Bristol on Thu 12 Nov.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Ossia is an experimental and bass artist based in United Kingdom, with 53 gigs o
 
 ## Shares bills with
 
-ojoo, Dan Johnson, Anina
+ojoo, Dan Johnson, i-sha
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ossia/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ossia/)*

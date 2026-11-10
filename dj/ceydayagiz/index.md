@@ -1,6 +1,6 @@
 # Ceyda Yagiz
 
-Ceyda Yagiz is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at à la Folie Paris, Paris on Fri, 27 Nov 2026.
+Ceyda Yagiz is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at à la Folie Paris, Paris on Fri, 27 Nov 2026.
 
 Ceyda Yagiz is a house and techno artist based in France, with 30 gigs on soundcheck across Berlin, Lisbon and Paris. Often billed alongside Nicol, Aubry and Cornelius Doctor. Next up: à la Folie Paris, Paris on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Ceyda Yagiz is a house and techno artist based in France, with 30 gigs on soundc
 
 Nicol, Aubry, Cornelius Doctor
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ceydayagiz/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ceydayagiz/)*

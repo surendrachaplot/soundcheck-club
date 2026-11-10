@@ -1,6 +1,6 @@
 # Planetary Assault Systems
 
-Planetary Assault Systems is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA, Amsterdam on Sat, 14 Nov 2026.
+Planetary Assault Systems is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA, Amsterdam on Sat, 14 Nov 2026.
 
 Planetary Assault Systems is a techno and house artist based in United Kingdom, with 44 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 22 more. Often billed alongside DVS1, Fadi Mohem and DJ Red. Next up: TBA, Amsterdam on Sat 14 Nov.
 
@@ -29,4 +29,4 @@ Planetary Assault Systems is a techno and house artist based in United Kingdom, 
 
 DVS1, Fadi Mohem, DJ Red
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/planetaryassaultsystems/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/planetaryassaultsystems/)*

@@ -1,6 +1,6 @@
 # Chlär
 
-Chlär is a Techno and House artist with 18 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Prince Charles, Berlin on Fri, 13 Nov 2026.
+Chlär is a Techno and House artist with 18 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Prince Charles, Berlin on Fri, 13 Nov 2026.
 
 Chlär is a techno and house artist based in Switzerland, with 293 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Athens and 70 more. Often billed alongside Alarico, Funk Assault and Freddy K. Next up: Prince Charles, Berlin on Fri 13 Nov.
 
@@ -36,4 +36,4 @@ Chlär is a techno and house artist based in Switzerland, with 293 gigs on sound
 
 Alarico, Funk Assault, Freddy K
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chlar/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chlar/)*

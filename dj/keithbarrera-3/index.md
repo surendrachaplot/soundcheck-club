@@ -1,6 +1,6 @@
 # Keith barrera (3)
 
-Keith barrera (3) is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Radio Estrella, Bogotá on Sat, 14 Nov 2026.
+Keith barrera (3) is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Radio Estrella, Bogotá on Sat, 14 Nov 2026.
 
 Keith barrera is a techno and hardcore artist based in Colombia, with 24 gigs on soundcheck across Bogotá, Lisbon, Medellin and Mexico City and 1 more. Often billed alongside ANDHRAY, Ann García and Sunny K. Next up: Radio Estrella, Bogotá on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Keith barrera is a techno and hardcore artist based in Colombia, with 24 gigs on
 
 ANDHRAY, Ann García, Sunny K
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/keithbarrera-3/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/keithbarrera-3/)*

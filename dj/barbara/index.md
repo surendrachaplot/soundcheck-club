@@ -1,8 +1,8 @@
 # Barbara
 
-Barbara is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Barraca, Valencia on Sat, 21 Nov 2026.
+Barbara is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Barraca, Valencia on Sat, 21 Nov 2026.
 
-Barbara is a techno and club artist, with 10 gigs on soundcheck across Idaho, Kyoto, New York City and Prague and 2 more. Often billed alongside AMPRS&ND, Ayra Nishati and Bachtroy. Next up: Barraca, Valencia on Sat 21 Nov.
+Barbara is a techno and club artist based in United States of America, with 10 gigs on soundcheck across Idaho, Kyoto, New York City and Prague and 2 more. Often billed alongside AMPRS&ND, Ayra Nishati and Bachtroy. Next up: Barraca, Valencia on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Barbara is a techno and club artist, with 10 gigs on soundcheck across Idaho, Ky
 
 AMPRS&ND, Ayra Nishati, Bachtroy
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/barbara/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/barbara/)*

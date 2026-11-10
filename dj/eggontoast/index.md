@@ -1,6 +1,6 @@
 # Egg On Toast
 
-Egg On Toast is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Soup, Manchester on Sat, 21 Nov 2026.
+Egg On Toast is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Soup, Manchester on Sat, 21 Nov 2026.
 
 Egg On Toast is a techno and house artist based in United Kingdom, with 37 gigs on soundcheck across London, Manchester and Sheffield. Often billed alongside MARACUYá, THT GRL and Aiden Francis. Next up: Soup, Manchester on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Egg On Toast is a techno and house artist based in United Kingdom, with 37 gigs 
 
 MARACUYá, THT GRL, Aiden Francis
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eggontoast/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eggontoast/)*

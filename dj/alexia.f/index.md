@@ -1,6 +1,6 @@
 # alexia.f
 
-alexia.f is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Otherworld, Seattle on Fri, 13 Nov 2026.
+alexia.f is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Otherworld, Seattle on Fri, 13 Nov 2026.
 
 alexia.f is a house and deep house artist based in United States of America, with 48 gigs on soundcheck across Los Angeles and Seattle. Often billed alongside KJ3 (US), Temenon and Freddy M. Next up: Otherworld, Seattle on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ alexia.f is a house and deep house artist based in United States of America, wit
 
 KJ3 (US), Temenon, Freddy M
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexia.f/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexia.f/)*

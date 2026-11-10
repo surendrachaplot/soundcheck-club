@@ -1,14 +1,15 @@
 # Lupini
 
-Lupini is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at 24 Kitchen Street, Liverpool on Fri, 4 Dec 2026.
+Lupini is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at 24 Kitchen Street, Liverpool on Fri, 4 Dec 2026.
 
-Lupini is a house and techno artist based in United Kingdom, with 58 gigs on soundcheck across Berlin, Bristol, Copenhagen and Dublin and 7 more. Often billed alongside Cowper, Annabel Fraser and Chez de Milo. Next up: 24 Kitchen Street, Liverpool on Fri 4 Dec.
+Lupini is a house and techno artist based in United Kingdom, with 59 gigs on soundcheck across Berlin, Bristol, Copenhagen and Dublin and 7 more. Often billed alongside Cowper, Annabel Fraser and Chez de Milo. Next up: 24 Kitchen Street, Liverpool on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | 24 Kitchen Street | Liverpool |
+| Sat, 5 Dec 2026 | Soup | Manchester |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Lupini is a house and techno artist based in United Kingdom, with 58 gigs on sou
 
 Cowper, Annabel Fraser, Chez de Milo
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lupini/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lupini/)*

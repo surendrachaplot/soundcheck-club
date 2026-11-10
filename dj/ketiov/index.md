@@ -1,6 +1,6 @@
 # Ketiov
 
-Ketiov is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at MONKEY LOVE, Warsaw on Fri, 13 Nov 2026.
+Ketiov is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at MONKEY LOVE, Warsaw on Fri, 13 Nov 2026.
 
 Ketiov is a house and techno artist based in Spain, with 32 gigs on soundcheck across Barcelona, Berlin, Edinburgh and Lisbon and 3 more. Often billed alongside Fernanda Arrau, Marcos in Dub and Cormac. Next up: MONKEY LOVE, Warsaw on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Ketiov is a house and techno artist based in Spain, with 32 gigs on soundcheck a
 
 Fernanda Arrau, Marcos in Dub, Cormac
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ketiov/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ketiov/)*

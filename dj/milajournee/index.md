@@ -1,6 +1,6 @@
 # Mila Journée
 
-Mila Journée is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - P12 Beach Club, Jurerê, Florianopolis, Brazil on Fri, 26 Feb 2027.
+Mila Journée is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - P12 Beach Club, Jurerê, Florianopolis, Brazil on Fri, 26 Feb 2027.
 
 Mila Journée is a techno and house artist based in Brazil, with 37 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brazil and 10 more. Often billed alongside Vintage Culture, DJ DUE and From House to Disco. Next up: TBA - P12 Beach Club, Jurerê, Florianopolis, Brazil on Fri 26 Feb.
 
@@ -25,4 +25,4 @@ Mila Journée is a techno and house artist based in Brazil, with 37 gigs on soun
 
 Vintage Culture, DJ DUE, From House to Disco
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milajournee/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milajournee/)*

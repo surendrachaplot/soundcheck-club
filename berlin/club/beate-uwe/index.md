@@ -1,6 +1,6 @@
 # Beate Uwe
 
-Beate Uwe is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Magic Circus" on Fri, 13 Nov 2026.
+Beate Uwe is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Magic Circus" on Fri, 13 Nov 2026.
 
 Beate Uwe is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with line-ups including Adrian Schneider, Andrea Zucca, ANXA and Audae and 2 more. See dates, start times and who's playing. Schillingstr. 31, 10179, Berlin.
 
@@ -23,4 +23,4 @@ Beate Uwe is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, wit
 
 Schillingstr. 31, 10179, Berlin, Berlin
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/beate-uwe/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/beate-uwe/)*

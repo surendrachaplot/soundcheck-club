@@ -1,6 +1,6 @@
 # Luma
 
-Luma is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Palais, London on Sat, 21 Nov 2026.
+Luma is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Palais, London on Sat, 21 Nov 2026.
 
 Luma is a techno and house artist, with 10 gigs on soundcheck across Bali, Berlin, Liverpool and London and 2 more. Often billed alongside ADJ, Amerza and Azymuth. Next up: Palais, London on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Luma is a techno and house artist, with 10 gigs on soundcheck across Bali, Berli
 
 ADJ, Amerza, Azymuth
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luma/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luma/)*

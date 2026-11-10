@@ -1,6 +1,6 @@
 # PyjamaMama
 
-PyjamaMama is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at elipamanoke, Leipzig on Fri, 20 Nov 2026.
+PyjamaMama is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at elipamanoke, Leipzig on Fri, 20 Nov 2026.
 
 PyjamaMama is a techno and house artist based in Germany, with 50 gigs on soundcheck across Berlin, Krakow and Leipzig. Often billed alongside Dj Sunflash, DJ Spaßgetränk and Westside Bass. Next up: elipamanoke, Leipzig on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ PyjamaMama is a techno and house artist based in Germany, with 50 gigs on soundc
 
 Dj Sunflash, DJ Spaßgetränk, Westside Bass
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pyjamamama/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pyjamamama/)*

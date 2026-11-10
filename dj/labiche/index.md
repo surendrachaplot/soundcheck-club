@@ -1,6 +1,6 @@
 # La Biche
 
-La Biche is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Zoo, Geneva on Fri, 20 Nov 2026.
+La Biche is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Zoo, Geneva on Fri, 20 Nov 2026.
 
 La Biche is a techno and trance artist based in France, with 18 gigs on soundcheck across Berlin, Geneva, Lausanne and Lyon and 1 more. Often billed alongside Gioski, Frankie Flowerz and No Human Code. Next up: Zoo, Geneva on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ La Biche is a techno and trance artist based in France, with 18 gigs on soundche
 
 Gioski, Frankie Flowerz, No Human Code
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/labiche/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/labiche/)*

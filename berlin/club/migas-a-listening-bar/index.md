@@ -1,6 +1,6 @@
 # migas, a listening bar
 
-migas, a listening bar is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "maxiu plays at migas" on Thu, 12 Nov 2026.
+migas, a listening bar is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "maxiu plays at migas" on Thu, 12 Nov 2026.
 
 migas, a listening bar is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, with line-ups including Amanita, maxiu and moe.. See dates, start times and who's playing. Lindower Straße 19 13347 Berlin.
 
@@ -20,4 +20,4 @@ migas, a listening bar is a music venue in Berlin listed on soundcheck. 7 upcomi
 
 Lindower Straße 19 13347 Berlin, Berlin
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/migas-a-listening-bar/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/migas-a-listening-bar/)*

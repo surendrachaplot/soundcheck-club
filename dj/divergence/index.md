@@ -1,6 +1,6 @@
 # Divergence
 
-Divergence is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Art School, Glasgow on Fri, 20 Nov 2026.
+Divergence is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Art School, Glasgow on Fri, 20 Nov 2026.
 
 Divergence is a house and techno artist based in United Kingdom, with 40 gigs on soundcheck across Belfast, Dublin, Glasgow and Liverpool. Often billed alongside HI-KRU, Princess Glitoris and Bristol Luke. Next up: The Art School, Glasgow on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Divergence is a house and techno artist based in United Kingdom, with 40 gigs on
 
 HI-KRU, Princess Glitoris, Bristol Luke
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/divergence/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/divergence/)*

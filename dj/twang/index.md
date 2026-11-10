@@ -1,6 +1,6 @@
 # Twang
 
-Twang is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at The Glove That Fits, London on Sun, 20 Dec 2026.
+Twang is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at The Glove That Fits, London on Sun, 20 Dec 2026.
 
 Twang is a techno and house artist based in United Kingdom, with 46 gigs on soundcheck across Athens, Beijing, Berlin and Leipzig and 2 more. Often billed alongside TEDESCO, ENGALANAN and THEMPRESS. Next up: The Glove That Fits, London on Sun 20 Dec.
 
@@ -26,4 +26,4 @@ Twang is a techno and house artist based in United Kingdom, with 46 gigs on soun
 
 TEDESCO, ENGALANAN, THEMPRESS
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/twang/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/twang/)*

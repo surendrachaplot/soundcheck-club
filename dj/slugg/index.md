@@ -1,8 +1,8 @@
 # slugg
 
-slugg is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Beach House San Diego, San Diego on Fri, 13 Nov 2026.
+slugg is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Beach House San Diego, San Diego on Fri, 13 Nov 2026.
 
-slugg is a tech house and house artist based in United States of America, with 96 gigs on soundcheck across Atlanta, Austin, Boston and Charlotte and 16 more. Often billed alongside Lousy Lover, Ms. Mada and ChaseWest. Next up: Beach House San Diego, San Diego on Fri 13 Nov.
+slugg is a tech house and house artist based in United States of America, with 97 gigs on soundcheck across Atlanta, Austin, Boston and Charlotte and 16 more. Often billed alongside Lousy Lover, Ms. Mada and ChaseWest. Next up: Beach House San Diego, San Diego on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ slugg is a tech house and house artist based in United States of America, with 9
 | Fri, 13 Nov 2026 | Beach House San Diego | San Diego |
 | Fri, 20 Nov 2026 | Culture | Washington DC |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
+| Sat, 26 Dec 2026 | Radius | Chicago |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ slugg is a tech house and house artist based in United States of America, with 9
 
 Lousy Lover, Ms. Mada, ChaseWest
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slugg/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slugg/)*

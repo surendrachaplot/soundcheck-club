@@ -1,6 +1,6 @@
 # Akhnaton
 
-Akhnaton is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. The next is "CLUB CVNT PRESENTS: CUNTY CHRISTMAS" on Fri, 18 Dec 2026.
+Akhnaton is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. The next is "CLUB CVNT PRESENTS: CUNTY CHRISTMAS" on Fri, 18 Dec 2026.
 
 Akhnaton is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with line-ups including Molly Cules. See dates, start times and who's playing. Nieuwezijds Kolk 25, 1012 PV Amsterdam.
 
@@ -14,4 +14,4 @@ Akhnaton is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, wit
 
 Nieuwezijds Kolk 25, 1012 PV Amsterdam, Amsterdam
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/akhnaton/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/akhnaton/)*

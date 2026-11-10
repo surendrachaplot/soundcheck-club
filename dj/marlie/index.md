@@ -1,6 +1,6 @@
 # Marlie
 
-Marlie is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Mint XL, Leeds on Sat, 21 Nov 2026.
+Marlie is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Mint XL, Leeds on Sat, 21 Nov 2026.
 
 Marlie is a house and tech house artist, with 140 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Austria and 32 more. Often billed alongside Enzo Siragusa, Traumer and PACH. Next up: Mint XL, Leeds on Sat 21 Nov.
 
@@ -31,4 +31,4 @@ Marlie is a house and tech house artist, with 140 gigs on soundcheck across Amst
 
 Enzo Siragusa, Traumer, PACH
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marlie/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marlie/)*

@@ -1,6 +1,6 @@
 # stargurl
 
-stargurl is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Tanzhaus West, Frankfurt on Sat, 28 Nov 2026.
+stargurl is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Tanzhaus West, Frankfurt on Sat, 28 Nov 2026.
 
 stargurl is a techno and trance artist based in France, with 36 gigs on soundcheck across Amsterdam, Berlin, Brussels and Cologne and 8 more. Often billed alongside The Jakob Sister, vizionn and DJ Angel. Next up: Tanzhaus West, Frankfurt on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ stargurl is a techno and trance artist based in France, with 36 gigs on soundche
 
 The Jakob Sister, vizionn, DJ Angel (1)
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stargurl/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stargurl/)*

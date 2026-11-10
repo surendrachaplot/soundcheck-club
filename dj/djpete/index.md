@@ -1,6 +1,6 @@
 # DJ Pete
 
-DJ Pete is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Tresor / Globus, Berlin on Mon, 9 Nov 2026.
+DJ Pete is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Tresor / Globus, Berlin on Mon, 9 Nov 2026.
 
 DJ Pete is a techno and electro artist based in Germany, with 145 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 28 more. Often billed alongside Finn Johannsen, Substance and BLACK ANTHEM RESTORE. Next up: Tresor / Globus, Berlin on Mon 9 Nov.
 
@@ -13,6 +13,7 @@ DJ Pete is a techno and electro artist based in Germany, with 145 gigs on soundc
 
 ## Recently played
 
+- Tresor / Globus, Berlin · Mon, 9 Nov 2026
 - OXI, Berlin · Tue, 27 Oct 2026
 - Paloma, Berlin · Fri, 16 Oct 2026
 - MTW, Frankfurt · Fri, 9 Oct 2026
@@ -20,10 +21,9 @@ DJ Pete is a techno and electro artist based in Germany, with 145 gigs on soundc
 - Tunnel Club, Birmingham · Fri, 2 Oct 2026
 - Amnesia Ibiza, Ibiza · Sun, 27 Sept 2026
 - Else, Berlin · Sun, 20 Sept 2026
-- CLUB RAUM, Amsterdam · Fri, 11 Sept 2026
 
 ## Shares bills with
 
 Finn Johannsen, Substance, BLACK ANTHEM RESTORE
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djpete/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djpete/)*

@@ -1,6 +1,6 @@
 # Birrell
 
-Birrell is a Electro and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Cellar, London on Fri, 4 Dec 2026.
+Birrell is a Electro and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Cellar, London on Fri, 4 Dec 2026.
 
 Birrell is an electro and minimal techno artist based in United Kingdom, with 29 gigs on soundcheck across London and Manchester. Often billed alongside Slim Shae, Front Bench and Jovak. Next up: Cellar, London on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Birrell is an electro and minimal techno artist based in United Kingdom, with 29
 
 Slim Shae, Front Bench, Jovak
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/birrell/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/birrell/)*

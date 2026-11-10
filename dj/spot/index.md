@@ -1,6 +1,6 @@
 # SPOT (JPN)
 
-SPOT (JPN) is a Minimal Techno and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Nakano Heavysick Zero, Tokyo on Mon, 30 Nov 2026.
+SPOT (JPN) is a Minimal Techno and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Nakano Heavysick Zero, Tokyo on Mon, 30 Nov 2026.
 
 SPOT (JPN) is a minimal techno and techno artist based in Japan, with 6 gigs on soundcheck across Osaka and Tokyo. Often billed alongside ALUCA, AOKI takamasa and Akira Saotome. Next up: Nakano Heavysick Zero, Tokyo on Mon 30 Nov.
 
@@ -22,4 +22,4 @@ SPOT (JPN) is a minimal techno and techno artist based in Japan, with 6 gigs on 
 
 ALUCA, AOKI takamasa, Akira Saotome
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spot/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spot/)*

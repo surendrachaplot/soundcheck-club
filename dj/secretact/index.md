@@ -1,6 +1,6 @@
 # Secret Act
 
-Secret Act is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at OXI, Berlin on Sat, 27 Feb 2027.
+Secret Act is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at OXI, Berlin on Sat, 27 Feb 2027.
 
 Secret Act is a techno and electro artist based in Germany, with 20 gigs on soundcheck across Berlin, Cologne, Dresden and Hamburg. Often billed alongside Newinfluenzer, Bailey Brown and Brauer. Next up: OXI, Berlin on Sat 27 Feb.
 
@@ -26,4 +26,4 @@ Secret Act is a techno and electro artist based in Germany, with 20 gigs on soun
 
 Newinfluenzer, Bailey Brown, Brauer
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/secretact/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/secretact/)*

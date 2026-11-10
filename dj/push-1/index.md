@@ -1,6 +1,6 @@
 # PUSH (1)
 
-PUSH (1) is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Chinastraat, Ghent on Sat, 28 Nov 2026.
+PUSH (1) is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Chinastraat, Ghent on Sat, 28 Nov 2026.
 
 PUSH is an electronic artist based in China, with 4 gigs on soundcheck across Antwerp, Ghent and Vienna. Often billed alongside AJNA, Aili and Ampe. Next up: Chinastraat, Ghent on Sat 28 Nov.
 
@@ -20,4 +20,4 @@ PUSH is an electronic artist based in China, with 4 gigs on soundcheck across An
 
 AJNA, Aili, Ampe
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/push-1/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/push-1/)*

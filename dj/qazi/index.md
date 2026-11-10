@@ -1,6 +1,6 @@
 # Qazi
 
-Qazi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Culture Box, Copenhagen on Sat, 9 Jan 2027.
+Qazi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Culture Box, Copenhagen on Sat, 9 Jan 2027.
 
 Qazi is a techno and house artist based in Denmark, with 17 gigs on soundcheck across Copenhagen. Often billed alongside NILU, Frede (NO) and Desaint (DK). Next up: Culture Box, Copenhagen on Sat 9 Jan.
 
@@ -25,4 +25,4 @@ Qazi is a techno and house artist based in Denmark, with 17 gigs on soundcheck a
 
 NILU, Frede (NO), Desaint (DK)
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/qazi/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/qazi/)*

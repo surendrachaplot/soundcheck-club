@@ -1,6 +1,6 @@
 # Village Underground Barcelona
 
-Village Underground Barcelona is a music venue in Barcelona with 6 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "CHEZ PERROS with Jimin, Sohrab at VU BCN" on Fri, 13 Nov 2026.
+Village Underground Barcelona is a music venue in Barcelona with 6 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "CHEZ PERROS with Jimin, Sohrab at VU BCN" on Fri, 13 Nov 2026.
 
 Village Underground Barcelona is a music venue in Barcelona listed on soundcheck. 6 upcoming gigs, with line-ups including 4R15, Breakfake, Charla Green and Dave Angel and 2 more. See dates, start times and who's playing. Carrer Cobalt 12, 08907 L'Hospitalet de Llobregat.
 
@@ -19,4 +19,4 @@ Village Underground Barcelona is a music venue in Barcelona listed on soundcheck
 
 Carrer Cobalt 12, 08907 L'Hospitalet de Llobregat, Barcelona
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/village-underground-barcelona/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/village-underground-barcelona/)*

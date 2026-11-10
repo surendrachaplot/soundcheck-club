@@ -1,6 +1,6 @@
 # Mighty Funk Houser
 
-Mighty Funk Houser is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Holding Patterns, Leeds on Fri, 27 Nov 2026.
+Mighty Funk Houser is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Holding Patterns, Leeds on Fri, 27 Nov 2026.
 
 Mighty Funk Houser is a deep house and house artist based in United Kingdom, with 5 gigs on soundcheck across Leeds, London and Manchester. Often billed alongside Sam Pratt, Seth Chohan and Bugz in the Attic. Next up: Holding Patterns, Leeds on Fri 27 Nov.
 
@@ -21,4 +21,4 @@ Mighty Funk Houser is a deep house and house artist based in United Kingdom, wit
 
 Sam Pratt, Seth Chohan, Bugz in the Attic
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mightyfunkhouser/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mightyfunkhouser/)*

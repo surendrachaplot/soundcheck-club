@@ -1,6 +1,6 @@
 # ESE UVE
 
-ESE UVE is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Sala Oasis, Zaragoza, North on Sat, 28 Nov 2026.
+ESE UVE is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Sala Oasis, Zaragoza, North on Sat, 28 Nov 2026.
 
 ESE UVE is a techno and trance artist based in Spain, with 6 gigs on soundcheck across Lisbon, Madrid and North. Often billed alongside Dibison, Abel Ramos and Afem Syko. Next up: TBA - Sala Oasis, Zaragoza, North on Sat 28 Nov.
 
@@ -22,4 +22,4 @@ ESE UVE is a techno and trance artist based in Spain, with 6 gigs on soundcheck 
 
 Dibison, Abel Ramos, Afem Syko
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eseuve/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eseuve/)*

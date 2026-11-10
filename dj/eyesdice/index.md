@@ -1,6 +1,6 @@
 # Eyesdice
 
-Eyesdice is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Phantom Bar Berlin, Berlin on Thu, 12 Nov 2026.
+Eyesdice is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Phantom Bar Berlin, Berlin on Thu, 12 Nov 2026.
 
 Eyesdice is a techno and electro artist based in Poland, with 69 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 13 more. Often billed alongside Berlin Bunny, Paty Vapor and Franz Scala. Next up: Phantom Bar Berlin, Berlin on Thu 12 Nov.
 
@@ -27,4 +27,4 @@ Eyesdice is a techno and electro artist based in Poland, with 69 gigs on soundch
 
 Berlin Bunny, Paty Vapor, Franz Scala
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eyesdice/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eyesdice/)*

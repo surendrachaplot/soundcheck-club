@@ -1,6 +1,6 @@
 # STONI O DRAGÃO
 
-STONI O DRAGÃO is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Digital Debris Video Gallery, Los Angeles on Fri, 13 Nov 2026.
+STONI O DRAGÃO is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Digital Debris Video Gallery, Los Angeles on Fri, 13 Nov 2026.
 
 STONI O DRAGÃO is a club and experimental artist based in United States of America, with 21 gigs on soundcheck across Los Angeles and San Francisco/Oakland. Often billed alongside Asphodèle, Terrell Brooke and BODII. Next up: TBA - Digital Debris Video Gallery, Los Angeles on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ STONI O DRAGÃO is a club and experimental artist based in United States of Amer
 
 Asphodèle, Terrell Brooke, BODII
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stoniodragão/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stoniodragão/)*

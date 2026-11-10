@@ -1,8 +1,8 @@
 # zhart
 
-zhart is a Downtempo and Deep House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Goldener Salon, Hamburg on Sun, 15 Nov 2026.
+zhart is a Downtempo and Deep House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Goldener Salon, Hamburg on Sun, 15 Nov 2026.
 
-zhart is a downtempo and deep house artist, with 12 gigs on soundcheck across Berlin, Hamburg and Zurich. Often billed alongside ANNAWAFFEL, Agrest and Chris Loud. Next up: Goldener Salon, Hamburg on Sun 15 Nov.
+zhart is a downtempo and deep house artist based in Germany, with 12 gigs on soundcheck across Berlin, Hamburg and Zurich. Often billed alongside ANNAWAFFEL, Agrest and Chris Loud. Next up: Goldener Salon, Hamburg on Sun 15 Nov.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ zhart is a downtempo and deep house artist, with 12 gigs on soundcheck across Be
 
 ANNAWAFFEL, Agrest, Chris Loud
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zhart/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zhart/)*

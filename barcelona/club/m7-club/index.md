@@ -1,8 +1,8 @@
 # M7 Club
 
-M7 Club is a music venue in Barcelona with 12 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "ANIVERSARIO (Bono 4dias) WILDERÍCH*KX CHR*Suavé*DAISY*GIRLS ON DECKS*Nita Key*Xavi BCN*SuttleK" on Thu, 12 Nov 2026.
+M7 Club is a music venue in Barcelona with 14 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "ANIVERSARIO (Bono 4dias) WILDERÍCH*KX CHR*Suavé*DAISY*GIRLS ON DECKS*Nita Key*Xavi BCN*SuttleK" on Thu, 12 Nov 2026.
 
-M7 Club is a music venue in Barcelona listed on soundcheck. 12 upcoming gigs, with line-ups including Adviro, BreakStyle, DAISY and EDS (ESP) and 2 more. See dates, start times and who's playing. Carrer de Mèxic, 7, 08004 Barcelona, Spain.
+M7 Club is a music venue in Barcelona listed on soundcheck. 14 upcoming gigs, with line-ups including Adviro, ANDHRAY, BreakStyle and DAISY and 2 more. See dates, start times and who's playing. Carrer de Mèxic, 7, 08004 Barcelona, Spain.
 
 ## What's on
 
@@ -23,4 +23,4 @@ M7 Club is a music venue in Barcelona listed on soundcheck. 12 upcoming gigs, wi
 
 Carrer de Mèxic, 7, 08004 Barcelona, Spain, Barcelona
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/m7-club/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/m7-club/)*

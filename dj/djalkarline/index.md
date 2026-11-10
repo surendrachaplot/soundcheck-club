@@ -1,6 +1,6 @@
 # ALKARLINE
 
-ALKARLINE is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Tresor / Globus, Berlin on Wed, 16 Dec 2026.
+ALKARLINE is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Tresor / Globus, Berlin on Wed, 16 Dec 2026.
 
 ALKARLINE is a house and techno artist based in Germany, with 47 gigs on soundcheck across Berlin, Dresden and Hamburg. Often billed alongside Momo Femi, BBetriebswirt and Revolucien. Next up: Tresor / Globus, Berlin on Wed 16 Dec.
 
@@ -26,4 +26,4 @@ ALKARLINE is a house and techno artist based in Germany, with 47 gigs on soundch
 
 Momo Femi, BBetriebswirt, Revolucien
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djalkarline/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djalkarline/)*

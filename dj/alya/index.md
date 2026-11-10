@@ -1,6 +1,6 @@
 # Alya
 
-Alya is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Baby Club, Marseille on Sat, 21 Nov 2026.
+Alya is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Baby Club, Marseille on Sat, 21 Nov 2026.
 
 Alya is a tech house and minimal artist, with 6 gigs on soundcheck across Barcelona, Ibiza and Marseille. Often billed alongside TEUS, 8KAYS and ADEZ. Next up: Baby Club, Marseille on Sat 21 Nov.
 
@@ -22,4 +22,4 @@ Alya is a tech house and minimal artist, with 6 gigs on soundcheck across Barcel
 
 TEUS, 8KAYS, ADEZ
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alya/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alya/)*

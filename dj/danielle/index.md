@@ -1,6 +1,6 @@
 # Danielle (UK)
 
-Danielle (UK) is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Pawnshop, Taipei on Fri, 20 Nov 2026.
+Danielle (UK) is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Pawnshop, Taipei on Fri, 20 Nov 2026.
 
 Danielle (UK) is a techno and house artist based in United Kingdom, with 162 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Beijing and 43 more. Often billed alongside Amaliah, Ryan Elliott and Ogazón. Next up: Pawnshop, Taipei on Fri 20 Nov.
 
@@ -30,4 +30,4 @@ Danielle (UK) is a techno and house artist based in United Kingdom, with 162 gig
 
 Amaliah, Ryan Elliott, Ogazón
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielle/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielle/)*

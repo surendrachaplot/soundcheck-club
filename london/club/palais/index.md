@@ -1,6 +1,6 @@
 # Palais
 
-Palais is a music venue in London with 22 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Keep Hush x SPE:C 10 Years: Manami, Dubrunner, Buckley & Very Special Guest" on Thu, 12 Nov 2026.
+Palais is a music venue in London with 22 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Keep Hush x SPE:C 10 Years: Manami, Dubrunner, Buckley & Very Special Guest" on Thu, 12 Nov 2026.
 
 Palais is a music venue in London listed on soundcheck. 22 upcoming gigs, with line-ups including Adi (CO), anu, Bakey and Bindās and 2 more. See dates, start times and who's playing. 1a Rye Ln, London SE15 5EW.
 
@@ -23,4 +23,4 @@ Palais is a music venue in London listed on soundcheck. 22 upcoming gigs, with l
 
 1a Rye Ln, London SE15 5EW, London
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/palais/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/palais/)*

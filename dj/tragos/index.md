@@ -1,6 +1,6 @@
 # TRAGOS
 
-TRAGOS is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Noce KRK, Krakow on Fri, 18 Dec 2026.
+TRAGOS is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Noce KRK, Krakow on Fri, 18 Dec 2026.
 
 TRAGOS is a techno and hardcore artist based in United States of America, with 12 gigs on soundcheck across Chicago, Krakow and Wroclaw. Often billed alongside PRVR, innominepatrix and AB. Next up: Noce KRK, Krakow on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ TRAGOS is a techno and hardcore artist based in United States of America, with 1
 
 PRVR, innominepatrix, AB
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tragos/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tragos/)*

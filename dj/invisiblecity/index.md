@@ -1,6 +1,6 @@
 # Invisible City
 
-Invisible City is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Bambi's, Toronto on Fri, 20 Nov 2026.
+Invisible City is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Bambi's, Toronto on Fri, 20 Nov 2026.
 
 Invisible City is a house and balearic artist based in Canada, with 52 gigs on soundcheck across Belgrade, Berlin, London and Montreal and 3 more. Often billed alongside Milch, Tony Price and Ryan Spencer. Next up: Bambi's, Toronto on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Invisible City is a house and balearic artist based in Canada, with 52 gigs on s
 
 Milch (1), Tony Price, Ryan Spencer
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/invisiblecity/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/invisiblecity/)*

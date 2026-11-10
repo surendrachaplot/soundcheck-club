@@ -1,6 +1,6 @@
 # Knopha
 
-Knopha is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at OIL Club, Shenzhen on Fri, 4 Dec 2026.
+Knopha is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at OIL Club, Shenzhen on Fri, 4 Dec 2026.
 
 Knopha is a techno and house artist based in China, with 88 gigs on soundcheck across Bangkok, Beijing, Chengdu and Hanoi and 8 more. Often billed alongside echocatcher, YKK (CN) and chuan. Next up: OIL Club, Shenzhen on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Knopha is a techno and house artist based in China, with 88 gigs on soundcheck a
 
 echocatcher, YKK (CN), chuan
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/knopha/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/knopha/)*

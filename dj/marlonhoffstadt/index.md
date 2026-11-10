@@ -1,6 +1,6 @@
 # Marlon Hoffstadt
 
-Marlon Hoffstadt is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at ZEROTOKYO, Tokyo on Fri, 4 Dec 2026.
+Marlon Hoffstadt is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at ZEROTOKYO, Tokyo on Fri, 4 Dec 2026.
 
 Marlon Hoffstadt is a techno and trance artist based in Germany, with 141 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 53 more. Often billed alongside MALUGI, Surf 2 Glory and I Hate Models. Next up: ZEROTOKYO, Tokyo on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Marlon Hoffstadt is a techno and trance artist based in Germany, with 141 gigs o
 
 MALUGI, Surf 2 Glory, I Hate Models
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marlonhoffstadt/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marlonhoffstadt/)*

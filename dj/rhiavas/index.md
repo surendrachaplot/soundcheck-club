@@ -1,6 +1,6 @@
 # Rhiavas
 
-Rhiavas is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Grow, London on Fri, 20 Nov 2026.
+Rhiavas is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Grow, London on Fri, 20 Nov 2026.
 
 Rhiavas is a house and tech house artist based in United Kingdom, with 18 gigs on soundcheck across London. Often billed alongside FLORA THA EXPLORA, DRIA and Jerome Six. Next up: Grow, London on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Rhiavas is a house and tech house artist based in United Kingdom, with 18 gigs o
 
 FLORA THA EXPLORA, DRIA, Jerome Six
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rhiavas/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rhiavas/)*

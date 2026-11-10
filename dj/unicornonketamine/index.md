@@ -1,6 +1,6 @@
 # Unicorn on Ketamine
 
-Unicorn on Ketamine is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Warehouse, Nantes on Fri, 13 Nov 2026.
+Unicorn on Ketamine is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Warehouse, Nantes on Fri, 13 Nov 2026.
 
 Unicorn on Ketamine is a hardcore and techno artist based in Spain, with 18 gigs on soundcheck across Barcelona, Berlin, Brussels and Budapest and 10 more. Often billed alongside billx, Angerfist and The Dark Horror. Next up: Warehouse, Nantes on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Unicorn on Ketamine is a hardcore and techno artist based in Spain, with 18 gigs
 
 billx, Angerfist, The Dark Horror
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/unicornonketamine/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/unicornonketamine/)*

@@ -1,6 +1,6 @@
 # Siren
 
-Siren is a Drum & Bass and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Windmill, London on Thu, 17 Dec 2026.
+Siren is a Drum & Bass and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Windmill, London on Thu, 17 Dec 2026.
 
 Siren is a drum & bass and house artist based in United States of America, with 25 gigs on soundcheck across Auckland, Cologne, Denver and Hamburg and 8 more. Often billed alongside Hybrid Minds, CHASE and Futurebound. Next up: The Windmill, London on Thu 17 Dec.
 
@@ -25,4 +25,4 @@ Siren is a drum & bass and house artist based in United States of America, with 
 
 Hybrid Minds, CHASE, Futurebound
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/siren/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/siren/)*

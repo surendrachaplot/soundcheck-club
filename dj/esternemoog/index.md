@@ -1,8 +1,8 @@
 # Esterne Moog
 
-Esterne Moog is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Renate, Berlin on Sat, 21 Nov 2026.
+Esterne Moog is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Renate, Berlin on Sat, 21 Nov 2026.
 
-Esterne Moog is a techno and electro artist based in Spain, with 36 gigs on soundcheck across Berlin and Madrid. Often billed alongside Semuta, Sito LP and Donkker. Next up: Renate, Berlin on Sat 21 Nov.
+Esterne Moog is a techno and electro artist based in Spain, with 37 gigs on soundcheck across Berlin and Madrid. Often billed alongside Semuta, Sito LP and Donkker. Next up: Renate, Berlin on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Esterne Moog is a techno and electro artist based in Spain, with 36 gigs on soun
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Renate | Berlin |
 | Sat, 12 Dec 2026 | TBA - SECRET WAREHOUSE | Berlin |
+| Sat, 19 Dec 2026 | TBA - SECRET WHAREHOUSE | Berlin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Esterne Moog is a techno and electro artist based in Spain, with 36 gigs on soun
 
 Semuta, Sito LP, Donkker
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/esternemoog/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/esternemoog/)*

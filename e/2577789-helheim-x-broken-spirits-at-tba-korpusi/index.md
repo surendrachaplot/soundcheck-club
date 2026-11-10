@@ -1,6 +1,6 @@
 # Helheim X Broken Spirits at TBA - Korpusi
 
-Helheim X Broken Spirits at TBA - Korpusi on Sat 21 Nov, Tbilisi. 9 artists: Fank Ford, Human, Joe C and KamavoSian and 5 more. Techno and Industrial. See the line-up on soundcheck.
+Helheim X Broken Spirits at TBA - Korpusi on Sat 21 Nov, Tbilisi. 10 artists: Fank Ford, Human, Joe C and KamavoSian and 6 more. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -19,5 +19,6 @@ Helheim X Broken Spirits at TBA - Korpusi on Sat 21 Nov, Tbilisi. 9 artists: Fan
 - OIZA
 - PARAPHER
 - vngdr
+- X3NO
 
 *Source: [soundcheck](https://soundcheck.club/e/2577789-helheim-x-broken-spirits-at-tba-korpusi/)*

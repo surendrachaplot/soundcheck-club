@@ -1,6 +1,6 @@
 # southstar
 
-southstar is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at EXIL, Zurich on Fri, 20 Nov 2026.
+southstar is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at EXIL, Zurich on Fri, 20 Nov 2026.
 
 southstar is a techno and house artist based in Germany, with 74 gigs on soundcheck across Amsterdam, Barcelona, Basel and Belfast and 42 more. Often billed alongside Funk Tribu, DJ Heartstring and SPFDJ. Next up: EXIL, Zurich on Fri 20 Nov.
 
@@ -32,4 +32,4 @@ southstar is a techno and house artist based in Germany, with 74 gigs on soundch
 
 Funk Tribu, DJ Heartstring, SPFDJ
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/southstar/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/southstar/)*

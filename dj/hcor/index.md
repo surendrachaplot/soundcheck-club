@@ -1,6 +1,6 @@
 # HCOR
 
-HCOR is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Powered by: Void Acoustics, Madrid on Fri, 13 Nov 2026.
+HCOR is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Powered by: Void Acoustics, Madrid on Fri, 13 Nov 2026.
 
 HCOR is an electro and techno artist based in Spain, with 39 gigs on soundcheck across Madrid and Malaga. Often billed alongside Semuta, Neurite and Irazu. Next up: TBA - Powered by: Void Acoustics, Madrid on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ HCOR is an electro and techno artist based in Spain, with 39 gigs on soundcheck 
 
 Semuta, Neurite, Irazu
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hcor/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hcor/)*

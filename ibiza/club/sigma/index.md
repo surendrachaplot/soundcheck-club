@@ -1,6 +1,6 @@
 # Sigma
 
-Sigma is a music venue in Ibiza with 9 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Indeep" on Tue, 10 Nov 2026.
+Sigma is a music venue in Ibiza with 9 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Indeep" on Tue, 10 Nov 2026.
 
 Sigma is a music venue in Ibiza listed on soundcheck. 9 upcoming gigs, with line-ups including Acidella, Ana Rs, Carlos (Arupa) and David Melo and 2 more. See dates, start times and who's playing. C/ de Carles V, nº 11, local 15, 07800 Ibiza.
 
@@ -22,4 +22,4 @@ Sigma is a music venue in Ibiza listed on soundcheck. 9 upcoming gigs, with line
 
 C/ de Carles V, nº 11, local 15, 07800 Ibiza, Ibiza
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/sigma/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/sigma/)*

@@ -1,14 +1,15 @@
 # LISAKEEKS
 
-LISAKEEKS is a Club and UK Funky artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Bread and Butter, London on Sat, 14 Nov 2026.
+LISAKEEKS is a Club and UK Funky artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Bread and Butter, London on Sat, 14 Nov 2026.
 
-LISAKEEKS is a club and uk funky artist based in United Kingdom, with 31 gigs on soundcheck across Glasgow and London. Often billed alongside BABY JACKZ, TEBI TV and DotTV. Next up: Bread and Butter, London on Sat 14 Nov.
+LISAKEEKS is a club and uk funky artist based in United Kingdom, with 32 gigs on soundcheck across Glasgow and London. Often billed alongside BABY JACKZ, TEBI TV and DotTV. Next up: Bread and Butter, London on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Bread and Butter | London |
+| Sat, 14 Nov 2026 | The Orange Room | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ LISAKEEKS is a club and uk funky artist based in United Kingdom, with 31 gigs on
 
 BABY JACKZ, TEBI TV, DotTV
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lisakeeks/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lisakeeks/)*

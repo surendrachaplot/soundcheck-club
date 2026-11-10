@@ -1,6 +1,6 @@
 # Erna (FR)
 
-Erna (FR) is a Techno and Bass artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Kater, Berlin on Sat, 28 Nov 2026.
+Erna (FR) is a Techno and Bass artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Kater, Berlin on Sat, 28 Nov 2026.
 
 Erna (FR) is a techno and bass artist, with 67 gigs on soundcheck across Antwerp, Berlin, Bordeaux and Brussels and 7 more. Often billed alongside Egna, Greg and MALAISE VAGAL. Next up: Kater, Berlin on Sat 28 Nov.
 
@@ -28,4 +28,4 @@ Erna (FR) is a techno and bass artist, with 67 gigs on soundcheck across Antwerp
 
 Egna, Greg (2), MALAISE VAGAL
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erna-fr/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erna-fr/)*

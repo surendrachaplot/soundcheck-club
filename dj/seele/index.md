@@ -1,6 +1,6 @@
 # Seele
 
-Seele is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Kowalski, Stuttgart on Fri, 20 Nov 2026.
+Seele is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Kowalski, Stuttgart on Fri, 20 Nov 2026.
 
 Seele is a techno and trance artist based in China, with 5 gigs on soundcheck across Berlin, Seoul and Stuttgart. Often billed alongside Ari Denaro, Bisk and Frida Darko. Next up: Kowalski, Stuttgart on Fri 20 Nov.
 
@@ -21,4 +21,4 @@ Seele is a techno and trance artist based in China, with 5 gigs on soundcheck ac
 
 Ari Denaro, Bisk, Frida Darko
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seele/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seele/)*

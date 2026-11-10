@@ -1,6 +1,6 @@
 # Darling
 
-Darling is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Epiphany Center for the Arts, Chicago on Fri, 20 Nov 2026.
+Darling is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Epiphany Center for the Arts, Chicago on Fri, 20 Nov 2026.
 
 Darling is a hardcore and gabber artist, with 4 gigs on soundcheck across Belgrade, Chicago and Ghent. Often billed alongside Bass, Corvus Ex and KRTM. Next up: Epiphany Center for the Arts, Chicago on Fri 20 Nov.
 
@@ -20,4 +20,4 @@ Darling is a hardcore and gabber artist, with 4 gigs on soundcheck across Belgra
 
 Bass, Corvus Ex, KRTM
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/darling/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/darling/)*

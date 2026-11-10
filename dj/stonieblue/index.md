@@ -1,6 +1,6 @@
 # Stonie Blue
 
-Stonie Blue is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Bar  Milagro, New York City on Wed, 25 Nov 2026.
+Stonie Blue is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Bar  Milagro, New York City on Wed, 25 Nov 2026.
 
 Stonie Blue is a house and deep house artist based in United States of America, with 105 gigs on soundcheck across Atlanta, Chicago, Dallas/Fort Worth and Detroit and 7 more. Often billed alongside Ben Hixon, Honey Bun and Mo Yasin. Next up: Bar  Milagro, New York City on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ Stonie Blue is a house and deep house artist based in United States of America, 
 
 Ben Hixon, Honey Bun, Mo Yasin
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stonieblue/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stonieblue/)*

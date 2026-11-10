@@ -1,14 +1,15 @@
 # Kimonos
 
-Kimonos is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Utopia, Los Angeles on Sat, 21 Nov 2026.
+Kimonos is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Utopia, Los Angeles on Sat, 21 Nov 2026.
 
-Kimonos is a house and afro house artist based in United States of America, with 60 gigs on soundcheck across Amsterdam, Austin, Barcelona and Bratislava and 15 more. Often billed alongside Guy Gerber, BLOND:ISH and Vintage Culture. Next up: Utopia, Los Angeles on Sat 21 Nov.
+Kimonos is a house and afro house artist based in United States of America, with 61 gigs on soundcheck across Amsterdam, Austin, Barcelona and Bratislava and 15 more. Often billed alongside Guy Gerber, BLOND:ISH and Vintage Culture. Next up: Utopia, Los Angeles on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Utopia | Los Angeles |
+| Sat, 28 Nov 2026 | Bohemia Beach Club | Dubai |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Kimonos is a house and afro house artist based in United States of America, with
 
 Guy Gerber, BLOND:ISH, Vintage Culture
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kimonos/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kimonos/)*

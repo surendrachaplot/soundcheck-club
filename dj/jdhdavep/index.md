@@ -1,6 +1,6 @@
 # JDH & Dave P
 
-JDH & Dave P is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Good Room, New York City on Sat, 5 Dec 2026.
+JDH & Dave P is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Good Room, New York City on Sat, 5 Dec 2026.
 
 JDH & Dave P are a techno and house duo based in United States of America, with 46 gigs on soundcheck across Austin and New York City. Often billed alongside Ivan Berko, Alex McCracken and Cosmo (NY). Next up: Good Room, New York City on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ JDH & Dave P are a techno and house duo based in United States of America, with 
 
 Ivan Berko, Alex McCracken, Cosmo (NY)
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jdhdavep/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jdhdavep/)*

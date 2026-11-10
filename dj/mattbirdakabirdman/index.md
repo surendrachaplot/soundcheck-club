@@ -1,6 +1,6 @@
 # Matt Bird aka Birdman
 
-Matt Bird aka Birdman is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at WaterBear Venue, Brighton on Fri, 11 Dec 2026.
+Matt Bird aka Birdman is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at WaterBear Venue, Brighton on Fri, 11 Dec 2026.
 
 Matt Bird aka Birdman is a progressive house and techno artist based in United Kingdom, with 5 gigs on soundcheck across Brighton. Often billed alongside Sp.oon, Xpanda and Nadia. Next up: WaterBear Venue, Brighton on Fri 11 Dec.
 
@@ -21,4 +21,4 @@ Matt Bird aka Birdman is a progressive house and techno artist based in United K
 
 Sp.oon, Xpanda, Nadia
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mattbirdakabirdman/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mattbirdakabirdman/)*

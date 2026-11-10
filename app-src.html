@@ -3399,6 +3399,23 @@ a.fst-t:hover{text-decoration:underline}
 .yst-more .yst-e b{font-size:26px;line-height:28px;color:var(--fg)}
 .yst-more .yst-e span{color:var(--muted)}
 .yst-empty{min-height:156px}
+.yst-w{font:700 13px/17px var(--body);color:var(--fg);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:96px}
+/* Diary stamps (Paper NEXT "V5 STAMPS · Diary", 10 Nov 2026): month heads with counts, a stamp row per month */
+.dsv-sw{margin:16px 0 4px}
+.dst-yc{margin-left:14px;font:700 11px/16px var(--font-mono);letter-spacing:.1em;text-transform:uppercase;color:var(--muted);vertical-align:middle}
+.dst-mo i.s{background:var(--accent-grad)}
+.dst-month.dsv-mh{display:flex;justify-content:space-between;gap:12px;padding-bottom:8px;margin-bottom:6px;border-bottom:1px solid var(--border)}
+.dst-month.dsv-mh span:last-child{color:var(--faint)}
+.dsr{margin:4px 0 10px}
+.dsr-h{display:flex;justify-content:space-between;align-items:baseline;margin-bottom:10px}
+.dsr-h b{font:700 14px/18px var(--body);color:var(--fg)}
+.dsr-h span{font:600 13px/18px var(--body);color:var(--muted)}
+.dsr-row{display:flex;gap:14px;overflow-x:auto;scrollbar-width:none;margin-right:calc(-1 * var(--gut,18px));padding-right:var(--gut,18px)}
+.dsr-row::-webkit-scrollbar{display:none}
+.dsr-row .yst[hidden]{display:none}
+.dsr-more{padding:0;border:0;background:none;cursor:pointer;align-self:flex-start}
+@media(max-width:759.98px){.dst-yc{display:block;margin:2px 0 0}}
+@media(min-width:760px){.dsr-row{margin-right:0;padding-right:0}.dsr-row.all{flex-wrap:wrap;row-gap:18px}}
 @media(min-width:760px){
   .yas{flex-direction:row;gap:48px;margin:32px 0 0;padding-top:32px}
   .yas-l{flex:0 0 320px}
@@ -5516,7 +5533,7 @@ a.fst-t:hover{text-decoration:underline}
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1794242908690">
+<meta name="sc-build" content="1794275564846">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Gigs%20%26%20artist%20sets%20in%20171%20cities" />
 </head>
@@ -5576,7 +5593,7 @@ a.fst-t:hover{text-decoration:underline}
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-11-09/">Mon 9 Nov <span class="c">5 events</span></a></li><li><a href="/london/2026-11-10/">Tue 10 Nov <span class="c">5 events</span></a></li><li><a href="/london/2026-11-11/">Wed 11 Nov <span class="c">13 events</span></a></li><li><a href="/london/2026-11-12/">Thu 12 Nov <span class="c">36 events</span></a></li><li><a href="/london/2026-11-13/">Fri 13 Nov <span class="c">107 events</span></a></li><li><a href="/london/2026-11-14/">Sat 14 Nov <span class="c">134 events</span></a></li><li><a href="/london/2026-11-15/">Sun 15 Nov <span class="c">23 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 171 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-11-10/">Tue 10 Nov <span class="c">5 events</span></a></li><li><a href="/london/2026-11-11/">Wed 11 Nov <span class="c">13 events</span></a></li><li><a href="/london/2026-11-12/">Thu 12 Nov <span class="c">36 events</span></a></li><li><a href="/london/2026-11-13/">Fri 13 Nov <span class="c">107 events</span></a></li><li><a href="/london/2026-11-14/">Sat 14 Nov <span class="c">134 events</span></a></li><li><a href="/london/2026-11-15/">Sun 15 Nov <span class="c">25 events</span></a></li><li><a href="/london/2026-11-17/">Tue 17 Nov <span class="c">4 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 171 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          h1 in the DOM (on home and city pages; build-seo makes it an h2 elsewhere), so it is
@@ -11055,7 +11072,8 @@ a.fst-t:hover{text-decoration:underline}
       if(open){ el.classList.remove('fit'); el.querySelectorAll('span.h').forEach(function(x){ x.classList.remove('h'); }); b.textContent='Show less'; b.setAttribute('aria-expanded','true'); }
       else dstArtsFit(el.parentNode);
     }
-    function diaryTLHTML(diary, isMe, handle){
+    function diaryTLHTML(diary, isMe, handle, st){
+      if(st && st.n) return dsvHTML(diary, handle, st);
       if(!diary.length){
         return isMe
           ? '<button class="pb-prob" id="diary-log2" type="button"><div class="pb-nudge-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0Z"/><circle cx="12" cy="10" r="3"/></svg></div><div class="pb-prob-tx"><b>No gigs logged yet</b><p>Log a gig and it shows here.</p></div><span class="pb-prob-btn" data-ic="plus">Log a gig</span></button>'
@@ -11087,6 +11105,65 @@ a.fst-t:hover{text-decoration:underline}
         out+=dstStubHTML(d, isMe);
       });
       return '<div class="dst" data-handle="'+esc(handle||'')+'">'+out+'</div></div>';
+    }
+    // ── DIARY STAMPS (Paper NEXT "V5 STAMPS · Diary", founder OK 10 Nov 2026) ──
+    // Stubs view of your own Diary: per month your gig stubs, then that month's sets as postage stamps
+    // (the artist-page stamp + the artist's name). st = { n, by:{ 'y-m':[stamp] } } from dsvStamps().
+    var DSR_SHOW=9, _dsrSets=[];
+    async function dsvStamps(){
+      var out=[], before='';
+      for(var pg=0; pg<5; pg++){   // ponytail: 500 sets max; a month index on the API if someone plays more
+        var j=await authedFetch('/api/me/timeline?kind=stamps&limit=100'+(before?'&before='+encodeURIComponent(before):''))
+          .then(function(r){ if(!r.ok) throw new Error(r.status); return r.json(); });
+        out=out.concat(j.items||[]); if(!j.next) break; before=j.next;
+      }
+      var ra=resAll(), by={}, n=0;
+      out.forEach(function(it){
+        if(!it.title) return;
+        var t=new Date(it.at), k=t.getFullYear()+'-'+t.getMonth(), r=ra[it.key], f;
+        if(r && r[0]>5) f=(r[1]>0 && r[0]<r[1]-RES_END) ? Math.min(1,r[0]/r[1]) : 1;
+        else f=it.heard ? 1 : (it.duration ? Math.min(1,(it.heardSecs||0)/it.duration) : 0);
+        if(it.stars && !(it.key in _rt.mine)) _rt.mine[it.key]=it.stars;
+        var i=_dsrSets.push(it)-1;
+        (by[k]=by[k]||[]).push({ it:{ title:it.title, thumb:it.thumb, badge:it.source==='yt'?'YT':it.source==='nts'?'NTS':'SC' }, i:i, k:it.key, f:f, t:t.getTime(), who:it.artistName||'' });
+        n++;
+      });
+      return { n:n, by:by };
+    }
+    function dsvHTML(diary, handle, st){
+      var per={}, keys={};
+      diary.forEach(function(d){ var dt=dstDate(d); if(dt){ var k=dt.getFullYear()+'-'+dt.getMonth(); (per[k]=per[k]||[]).push(d); keys[k]=1; } });
+      Object.keys(st.by).forEach(function(k){ keys[k]=1; });
+      var mk=Object.keys(keys).sort(function(a,b){ var x=a.split('-'), y=b.split('-'); return (y[0]*12+ +y[1])-(x[0]*12+ +x[1]); });
+      function cnt(g,s){ return [g?g+(g===1?' gig':' gigs'):'', s?s+(s===1?' set':' sets'):''].filter(Boolean).join(' · '); }
+      function strip(y){
+        var top=-1, G=0, S=0; for(var m=11;m>=0;m--){ if(keys[y+'-'+m] && top<0) top=m; G+=(per[y+'-'+m]||[]).length; S+=(st.by[y+'-'+m]||[]).length; }
+        var mo='';
+        for(var i=0;i<12;i++){
+          var g=(per[y+'-'+i]||[]).length, s=(st.by[y+'-'+i]||[]).length, nm=new Date(y,i,1).toLocaleDateString('en-GB',{month:'long'}), gt=Math.min(g,8);
+          // ponytail: 8 ticks a month at most (gigs first, cream; then sets, sunset) so a busy month stays short.
+          mo+='<button class="dst-mo'+(i===top?' on':'')+'" type="button" data-jump="'+y+'-'+i+'" aria-label="'+esc(nm+' '+y+', '+(cnt(g,s)||'nothing'))+'"'+(g||s?'':' disabled')+'>'+
+            new Array(Math.min(s,8-gt)+1).join('<i class="s"></i>')+new Array(gt+1).join('<i></i>')+nm.charAt(0)+'</button>';
+        }
+        return '<div class="dst-year"><div class="dst-y">'+y+'<span class="dst-yc">'+esc(cnt(G,S))+'</span></div><div class="dst-months">'+mo+'</div></div>';
+      }
+      var out='', curY;
+      mk.forEach(function(k){
+        var y=+k.split('-')[0], m=+k.split('-')[1], gs=per[k]||[], ss=st.by[k]||[];
+        if(y!==curY){ out+=strip(y); curY=y; }
+        out+='<div class="dst-month dsv-mh" data-month="'+k+'"><span>'+esc(new Date(y,m,1).toLocaleDateString('en-GB',{month:'long'}))+'</span><span>'+esc(cnt(gs.length,ss.length))+'</span></div>';
+        if(gs.length) out+='<div class="dst-grid">'+gs.map(function(d){ if(d.id!=null) _diaryById[d.id]=d; return dstStubHTML(d, true); }).join('')+'</div>';
+        if(ss.length){
+          var more=ss.length>DSR_SHOW+1 ? ss.length-DSR_SHOW : 0;
+          out+='<div class="dsr"><div class="dsr-h"><b>'+ss.length+(ss.length===1?' set':' sets')+' this month</b>'+(more?'<span>newest first</span>':'')+'</div><div class="dsr-row">'+
+            ss.map(function(x, j){ return more && j>=DSR_SHOW ? yasStampHTML(x).replace('<div class="yst"','<div class="yst" hidden') : yasStampHTML(x); }).join('')+
+            (more?'<button class="yst-more dsr-more" type="button"><span class="yst-e"><b>+'+more+'</b><span>Show all</span></span></button>':'')+'</div></div>';
+        }
+      });
+      var nodate=diary.filter(function(d){ return !dstDate(d); });
+      if(nodate.length) out+='<div class="dst-grid">'+nodate.map(function(d){ if(d.id!=null) _diaryById[d.id]=d; return dstStubHTML(d, true); }).join('')+'</div>';
+      // no gigs yet: the "No gigs logged yet · Log a gig" line stays on top, the stamps under it
+      return (diary.length ? '' : diaryTLHTML([], true, handle))+'<div class="dst" data-handle="'+esc(handle||'')+'">'+out+'</div>';
     }
     // Passport stat band above the diary: nights / venues / cities / most-seen act.
     function diaryStatsHTML(diary){
@@ -11596,11 +11673,21 @@ a.fst-t:hover{text-decoration:underline}
     function tlMount(db, diary, handle, onChange){
       var kind='all', next=null, busy=false, lastDay=null, run=0;
       diary.forEach(function(d){ if(d.id!=null) _diaryById[d.id]=d; });
-      db.innerHTML='<div class="dtl"><div class="lsn-chips dtl-chips" role="tablist">'+TL_CHIPS.map(function(c){ var on=c[0]==='all';
+      // Stubs (default) | All activity — Paper NEXT "V5 STAMPS · Diary" (10 Nov 2026). All activity = this timeline, unchanged.
+      db.innerHTML='<div class="lsn-chips dsv-sw" role="tablist"><button class="qchip on" type="button" role="tab" aria-selected="true" data-dv="stubs" data-ic="ticket">Stubs'+(diary.length?' <span class="c">'+diary.length+'</span>':'')+'</button>'+
+          '<button class="qchip" type="button" role="tab" aria-selected="false" data-dv="all" data-ic="list">All activity</button></div><div class="dsv"></div>'+
+        '<div class="dtl" hidden><div class="lsn-chips dtl-chips" role="tablist">'+TL_CHIPS.map(function(c){ var on=c[0]==='all';
           return '<button class="qchip'+(on?' on':'')+'" type="button" role="tab" aria-selected="'+on+'" data-tlk="'+c[0]+'">'+c[1]+(c[0]==='gigs'&&diary.length?' <span class="c">'+diary.length+'</span>':'')+'</button>'; }).join('')+
         '</div><div class="dst dtl-list" data-handle="'+esc(handle||'')+'"></div><div class="dtl-end" aria-hidden="true"></div></div>';
-      var list=db.querySelector('.dtl-list'), end=db.querySelector('.dtl-end');
-      wireDiary(db, true, onChange);
+      var list=db.querySelector('.dtl-list'), end=db.querySelector('.dtl-end'), tlBox=db.querySelector('.dtl'), dsv=db.querySelector('.dsv'), tlOn=false;
+      wireDiary(tlBox, true, onChange);
+      dsvMount(dsv, diary, handle, onChange, db.querySelector('[data-dv="stubs"]'));
+      db.querySelectorAll('[data-dv]').forEach(function(b){ b.addEventListener('click', function(){
+        var all=b.dataset.dv==='all';
+        db.querySelectorAll('[data-dv]').forEach(function(x){ var on=x===b; x.classList.toggle('on',on); x.setAttribute('aria-selected',on); });
+        dsv.hidden=all; tlBox.hidden=!all;
+        if(all && !tlOn){ tlOn=true; load(true); }
+      }); });
       db.querySelectorAll('[data-tlk]').forEach(function(b){ b.addEventListener('click', function(){
         if(b.dataset.tlk===kind) return; kind=b.dataset.tlk;
         db.querySelectorAll('[data-tlk]').forEach(function(x){ var on=x===b; x.classList.toggle('on',on); x.setAttribute('aria-selected',on); });
@@ -11611,8 +11698,7 @@ a.fst-t:hover{text-decoration:underline}
         var a=e.target.closest('.dtl-art[data-artist]'); if(a && !e.target.closest('.nh')) openArtist(a.dataset.artist);
       });
       list.addEventListener('keydown', function(e){ var a=e.target.closest&&e.target.closest('.dtl-art'); if(a && (e.key==='Enter'||e.key===' ')){ e.preventDefault(); openArtist(a.dataset.artist); } });
-      if(window.IntersectionObserver) new IntersectionObserver(function(en){ if(en[0].isIntersecting) load(false); }, { rootMargin:'600px' }).observe(end);
-      load(true);
+      if(window.IntersectionObserver) new IntersectionObserver(function(en){ if(en[0].isIntersecting && tlOn) load(false); }, { rootMargin:'600px' }).observe(end);
       function load(first){
         if(busy && !first) return; if(!first && !next) return;
         // Gigs = the stack of stubs as before, with its year strip (a redesign keeps every feature)
@@ -11628,7 +11714,7 @@ a.fst-t:hover{text-decoration:underline}
           })
           .catch(function(){
             if(me!==run) return; busy=false;
-            if(first && kind==='all'){ db.innerHTML=diaryTLHTML(diary, true, handle); wireDiary(db, true, onChange); }   // the old stack, never a blank tab
+            if(first && kind==='all'){ list.innerHTML=diaryTLHTML(diary, true, handle); }   // the old stack, never a blank tab
           });
       }
       // One page of items: day heads, then runs of the same verb (3+ fold behind "Show N more").
@@ -11647,6 +11733,25 @@ a.fst-t:hover{text-decoration:underline}
         });
         return out;
       }
+    }
+    // The Stubs view: the old stack at once (no wait), then again with the stamps when they arrive.
+    function dsvMount(box, diary, handle, onChange, tab){
+      box.innerHTML=diaryTLHTML(diary, true, handle); wireDiary(box, true, onChange);
+      var lg=document.getElementById('diary-log2'); if(lg) lg.addEventListener('click', function(){ openLog(); });
+      dsvStamps().then(function(st){
+        if(!st.n || !document.body.contains(box)) return;
+        box.innerHTML=diaryTLHTML(diary, true, handle, st); wireDiary(box, true, onChange);
+        var lg2=document.getElementById('diary-log2'); if(lg2) lg2.addEventListener('click', function(){ openLog(); });
+        if(tab) tab.innerHTML='Stubs <span class="c">'+(diary.length+st.n)+'</span>';
+      }).catch(function(){});
+      box.addEventListener('click', function(e){
+        var mo=e.target.closest('.dsr-more'); if(mo){ var row=mo.parentNode; row.querySelectorAll('.yst[hidden]').forEach(function(x){ x.hidden=false; }); row.classList.add('all'); mo.remove(); return; }
+        var r=e.target.closest('.yst-rt'); if(r){ var ri=_dsrSets[+r.dataset.i]||{}; rtOpen(r, r.dataset.k, { title:ri.title, thumb:ri.thumb }); return; }
+        var p=e.target.closest('.yst-p'), it=p && _dsrSets[+p.dataset.i]; if(!it) return;
+        trkWant('row');
+        if(it.source==='yt') playYtList([{ slug:it.artistSlug, name:it.artistName, title:it.title, videoId:it.id, poster:'' }], 0);
+        else playScUrl(it.id, it.title, it.thumb, it.source==='nts'?'NTS Radio':'SoundCloud', { name:it.artistName, slug:it.artistSlug });
+      });
     }
     function tlVerbKey(it){ return it.kind==='gig' ? 'gig' : it.kind==='artist' ? it.status : (it.did.indexOf('listened')>=0?'listened':it.did.indexOf('rated')>=0?'rated':'saved'); }
     // "now" / "5m" / "2h" today, then the weekday for 6 days, then "26 Sep"
@@ -13537,7 +13642,7 @@ a.fst-t:hover{text-decoration:underline}
           '<span class="yst-bar"><i style="width:'+pct+'%"></i></span>'+
           '<span class="yst-m"><span>'+pct+'%</span><span>'+esc(s.it.badge||'')+'</span></span>'+
           (pct>=100?'<svg class="yst-pm" viewBox="0 0 46 46" aria-hidden="true"><circle cx="23" cy="23" r="17"/><circle cx="23" cy="23" r="12.5" class="i"/><path d="M-6 18q5-3 10 0t10 0M-6 23q5-3 10 0t10 0M-6 28q5-3 10 0t10 0"/></svg>':'')+
-        '</button>'+
+        '</button>'+(s.who?'<span class="yst-w">'+esc(s.who)+'</span>':'')+
         '<span class="yst-u">'+(m?'<span class="rt-5">'+stars+'</span>':'<button class="yst-rt" type="button" data-k="'+esc(s.k)+'" data-i="'+s.i+'">'+rtS('off')+'Rate it</button>')+
         '<span class="yst-d">'+esc(yasDay(s.t))+'</span></span></div>';
     }

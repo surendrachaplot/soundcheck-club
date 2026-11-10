@@ -1,6 +1,6 @@
 # Oboe (2)
 
-Oboe (2) is a House and Jazz artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Bar Espina, Tijuana on Fri, 13 Nov 2026.
+Oboe (2) is a House and Jazz artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Bar Espina, Tijuana on Fri, 13 Nov 2026.
 
 Oboe is a house and jazz artist based in Mexico, with 6 gigs on soundcheck across Los Angeles, San Diego and Tijuana. Often billed alongside Andër, Kana Hishiya and Pily. Next up: Bar Espina, Tijuana on Fri 13 Nov.
 
@@ -22,4 +22,4 @@ Oboe is a house and jazz artist based in Mexico, with 6 gigs on soundcheck acros
 
 Andër, Kana Hishiya, Pily (2)
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oboe-2/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oboe-2/)*

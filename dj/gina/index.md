@@ -1,6 +1,6 @@
 # G I N A
 
-G I N A is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at 24 Kitchen Street, Liverpool on Fri, 13 Nov 2026.
+G I N A is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at 24 Kitchen Street, Liverpool on Fri, 13 Nov 2026.
 
 G I N A is a techno and house artist based in United States of America, with 240 gigs on soundcheck across Barcelona, Bratislava, Liverpool and Los Angeles and 6 more. Often billed alongside Shearn, Dave Tidey and Andi. Next up: 24 Kitchen Street, Liverpool on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ G I N A is a techno and house artist based in United States of America, with 240
 
 Shearn, Dave Tidey, Andi
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gina/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gina/)*

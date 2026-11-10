@@ -1,6 +1,6 @@
 # Eventhuset
 
-Eventhuset is a music venue in Stockholm with 7 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "hypnorex [Berlin], 'Mindbender', Momenth, The Machine Soul, Högt I Tak, Yomi One, Nevada Cato" on Sat, 14 Nov 2026.
+Eventhuset is a music venue in Stockholm with 7 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "hypnorex [Berlin], 'Mindbender', Momenth, The Machine Soul, Högt I Tak, Yomi One, Nevada Cato" on Sat, 14 Nov 2026.
 
 Eventhuset is a music venue in Stockholm listed on soundcheck. 7 upcoming gigs, with line-ups including ARANEA, Billie Jo, BMI (GE) and CC Luna and 2 more. See dates, start times and who's playing. Vretensborgsvägen 5, 12630 Hägersten.
 
@@ -20,4 +20,4 @@ Eventhuset is a music venue in Stockholm listed on soundcheck. 7 upcoming gigs, 
 
 Vretensborgsvägen 5, 12630 Hägersten, Stockholm
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/eventhuset/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/eventhuset/)*

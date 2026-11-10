@@ -1,6 +1,6 @@
 # Jun Wan
 
-Jun Wan is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Northcote Theatre, Melbourne on Thu, 31 Dec 2026.
+Jun Wan is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Northcote Theatre, Melbourne on Thu, 31 Dec 2026.
 
 Jun Wan is a techno and house artist based in Australia, with 12 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Obeido, Alilia and Ash Lauryn. Next up: Northcote Theatre, Melbourne on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Jun Wan is a techno and house artist based in Australia, with 12 gigs on soundch
 
 Obeido, Alilia, Ash Lauryn
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/junwan/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/junwan/)*

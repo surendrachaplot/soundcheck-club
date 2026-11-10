@@ -1,6 +1,6 @@
 # Acud Macht NEU
 
-Acud Macht NEU is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "punktò - BERLIN (€URO TOUR 2026)" on Thu, 12 Nov 2026.
+Acud Macht NEU is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "punktò - BERLIN (€URO TOUR 2026)" on Thu, 12 Nov 2026.
 
 Acud Macht NEU is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including Amowia, Bokaric, DJ Sea View and FILTH.y and 2 more. See dates, start times and who's playing. Veteranenstraße 21, 10119 Berlin, Germany.
 
@@ -17,4 +17,4 @@ Acud Macht NEU is a music venue in Berlin listed on soundcheck. 4 upcoming gigs,
 
 Veteranenstraße 21, 10119 Berlin, Germany, Berlin
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/acud-macht-neu/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/acud-macht-neu/)*

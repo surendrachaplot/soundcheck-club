@@ -1,14 +1,15 @@
 # Ultra Naté
 
-Ultra Naté is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Oxford Art Factory, Sydney on Sun, 22 Nov 2026.
+Ultra Naté is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Oxford Art Factory, Sydney on Sun, 22 Nov 2026.
 
-Ultra Naté is a house and afro house artist based in United States of America, with 54 gigs on soundcheck across Amsterdam, Baltimore, Barcelona and Berlin and 14 more. Often billed alongside DJ Spen, DJ Minx and Derrick Carter. Next up: Oxford Art Factory, Sydney on Sun 22 Nov.
+Ultra Naté is a house and afro house artist based in United States of America, with 55 gigs on soundcheck across Amsterdam, Baltimore, Barcelona and Berlin and 15 more. Often billed alongside DJ Spen, DJ Minx and Derrick Carter. Next up: Oxford Art Factory, Sydney on Sun 22 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 22 Nov 2026 | Oxford Art Factory | Sydney |
+| Fri, 27 Nov 2026 | The Arts Factory Byron Bay | Byron Bay |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Ultra Naté is a house and afro house artist based in United States of America, 
 
 DJ Spen, DJ Minx, Derrick Carter
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ultranate/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ultranate/)*

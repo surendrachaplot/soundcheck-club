@@ -1,6 +1,6 @@
 # Mystic Jungle
 
-Mystic Jungle is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Tempo, Naples on Fri, 13 Nov 2026.
+Mystic Jungle is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Tempo, Naples on Fri, 13 Nov 2026.
 
 Mystic Jungle is a disco and house artist based in Italy, with 11 gigs on soundcheck across Berlin, Copenhagen, Istanbul and Milan and 3 more. Often billed alongside Whodamanny, Kapote and Adriana. Next up: Tempo, Naples on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Mystic Jungle is a disco and house artist based in Italy, with 11 gigs on soundc
 
 Whodamanny, Kapote, Adriana (1)
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mysticjungle/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mysticjungle/)*

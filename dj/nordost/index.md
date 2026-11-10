@@ -1,6 +1,6 @@
 # NordOst
 
-NordOst is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Forestlimit, Tokyo on Fri, 27 Nov 2026.
+NordOst is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Forestlimit, Tokyo on Fri, 27 Nov 2026.
 
 NordOst is a hardcore and techno artist based in Japan, with 112 gigs on soundcheck across Seoul and Tokyo. Often billed alongside migeru, illequal and arow. Next up: Forestlimit, Tokyo on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ NordOst is a hardcore and techno artist based in Japan, with 112 gigs on soundch
 
 migeru, illequal, arow
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nordost/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nordost/)*

@@ -1,6 +1,6 @@
 # Sodabass
 
-Sodabass is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Blue Velvet, Berlin on Sun, 13 Dec 2026.
+Sodabass is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Blue Velvet, Berlin on Sun, 13 Dec 2026.
 
 Sodabass is a trance and techno artist based in Germany, with 4 gigs on soundcheck across Berlin, Dresden and Erfurt. Often billed alongside 3LEEZA, BENITO (DE) and DJ Achim Feuervogel. Next up: Blue Velvet, Berlin on Sun 13 Dec.
 
@@ -20,4 +20,4 @@ Sodabass is a trance and techno artist based in Germany, with 4 gigs on soundche
 
 3LEEZA, BENITO (DE), DJ Achim Feuervogel
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sodabass/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sodabass/)*

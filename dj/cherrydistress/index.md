@@ -1,6 +1,6 @@
 # Cherry Distress
 
-Cherry Distress is a House and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Romantso, Athens on Sat, 28 Nov 2026.
+Cherry Distress is a House and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Romantso, Athens on Sat, 28 Nov 2026.
 
 Cherry Distress is a house and club artist based in Greece, with 32 gigs on soundcheck across Athens, Berlin and Hamburg. Often billed alongside ClubKid, Miss Trouli and ZANNT. Next up: Romantso, Athens on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Cherry Distress is a house and club artist based in Greece, with 32 gigs on soun
 
 ClubKid, Miss Trouli, ZANNT
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cherrydistress/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cherrydistress/)*

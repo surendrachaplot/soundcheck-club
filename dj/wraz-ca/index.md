@@ -1,6 +1,6 @@
 # Wraz
 
-Wraz is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Chocolate Factory, New York City on Fri, 20 Nov 2026.
+Wraz is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Chocolate Factory, New York City on Fri, 20 Nov 2026.
 
 Wraz is a dubstep and bass artist based in Canada, with 8 gigs on soundcheck across Detroit, Los Angeles, Montreal and New York City and 2 more. Often billed alongside Hypho, Truth and ANDROMEDA. Next up: The Chocolate Factory, New York City on Fri 20 Nov.
 
@@ -24,4 +24,4 @@ Wraz is a dubstep and bass artist based in Canada, with 8 gigs on soundcheck acr
 
 Hypho, Truth, ANDROMEDA
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wraz-ca/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wraz-ca/)*

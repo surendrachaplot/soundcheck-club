@@ -1,6 +1,6 @@
 # ZEROTOKYO
 
-ZEROTOKYO is a music venue in Tokyo with 20 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "AUREKA:006 -UK GARAGE / BASS MUSIC-" on Thu, 12 Nov 2026.
+ZEROTOKYO is a music venue in Tokyo with 20 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "AUREKA:006 -UK GARAGE / BASS MUSIC-" on Thu, 12 Nov 2026.
 
 ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 20 upcoming gigs, with line-ups including ABOUT SOFIYA, AEMI, Aiobahn and Anfisa Letyago and 2 more. See dates, start times and who's playing. B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo.
 
@@ -9,7 +9,7 @@ ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 20 upcoming gigs, with
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 12 Nov 2026 | AUREKA:006 -UK GARAGE / BASS MUSIC- | Dom (1), Genick, Ginji, ITSUKI, NOIA, Ririko, SKYTOPIA, VECSILLE, Yess, mah-ble soda |
-| Fri, 13 Nov 2026 | BUNKER WITH MEDUSA AND ENOC - TECHNO / HARD TECHNO / MORE | ABOUT SOFIYA, CHIKA, Calavera, ENTER, K4BUKI, LYOM, Lava, SATELLA, SONATA, Soluna, Tenju, Vincent Favard, VÏVÏ, YUXI, na-na |
+| Fri, 13 Nov 2026 | BUNKER WITH MEDUSA AND ENOC - TECHNO / HARD TECHNO / MORE | ABOUT SOFIYA, CHIKA, Calavera, ENTER, K4BUKI, LYOM, Lava, MUSCLE ∞ BROTHERS, SATELLA, SONATA, Soluna, Tenju, Vincent Favard, VÏVÏ, YUXI, na-na |
 | Sat, 14 Nov 2026 | FAVELA MEGA - LATIN -  |  |
 | Sun, 15 Nov 2026 | 暴爆 Vol. 0 |  |
 | Thu, 19 Nov 2026 | COINCIDENCE - ALL MIX / HOUSE / TECHNO / HIPHOP / LATIN / POPS - | DADO |
@@ -23,4 +23,4 @@ ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 20 upcoming gigs, with
 
 B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo, Tokyo
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/zerotokyo/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/zerotokyo/)*

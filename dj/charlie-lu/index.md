@@ -1,14 +1,15 @@
 # charli/e
 
-charli/e is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Paloma, Berlin on Sun, 15 Nov 2026.
+charli/e is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Paloma, Berlin on Sun, 15 Nov 2026.
 
-charli/e is a house and techno artist, with 32 gigs on soundcheck across Berlin, Dresden, Hamburg and Leipzig and 2 more. Often billed alongside Beqqi, Aimé You and ALKARLINE. Next up: Paloma, Berlin on Sun 15 Nov.
+charli/e is a house and techno artist, with 33 gigs on soundcheck across Berlin, Dresden, Hamburg and Leipzig and 2 more. Often billed alongside Beqqi, Aimé You and ALKARLINE. Next up: Paloma, Berlin on Sun 15 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 15 Nov 2026 | Paloma | Berlin |
+| Sun, 13 Dec 2026 | TBA - Pücklerstraße 34, 10997 Berlin | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ charli/e is a house and techno artist, with 32 gigs on soundcheck across Berlin,
 
 Beqqi, Aimé You, ALKARLINE
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/charlie-lu/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/charlie-lu/)*

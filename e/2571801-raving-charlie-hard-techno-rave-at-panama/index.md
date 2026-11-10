@@ -1,11 +1,15 @@
 # RAVING CHARLIE: Hard Techno / Rave at Panama
 
-RAVING CHARLIE: Hard Techno / Rave at Panama on Fri 20 Nov, Amsterdam. Techno and Hardcore. See the line-up on soundcheck.
+RAVING CHARLIE: Hard Techno / Rave at Panama on Fri 20 Nov, Amsterdam. 1 artist: Zeyvers. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Fri, 20 Nov 2026 |
 | Venue | Panama |
 | City | Amsterdam |
+
+## Line-up
+
+- Zeyvers
 
 *Source: [soundcheck](https://soundcheck.club/e/2571801-raving-charlie-hard-techno-rave-at-panama/)*

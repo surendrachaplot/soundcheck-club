@@ -1,6 +1,6 @@
 # Sala Siroco
 
-Sala Siroco is a music venue in Madrid with 9 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "RAW 16th" on Thu, 12 Nov 2026.
+Sala Siroco is a music venue in Madrid with 9 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "RAW 16th" on Thu, 12 Nov 2026.
 
 Sala Siroco is a music venue in Madrid listed on soundcheck. 9 upcoming gigs, with line-ups including ADRI.G, Belkan, Blood of Aza and Cerescente and 2 more. See dates, start times and who's playing. Calle San Dimas, 3, 28015 Madrid, Spain.
 
@@ -22,4 +22,4 @@ Sala Siroco is a music venue in Madrid listed on soundcheck. 9 upcoming gigs, wi
 
 Calle San Dimas, 3, 28015 Madrid, Spain, Madrid
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-siroco/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-siroco/)*

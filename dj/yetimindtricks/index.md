@@ -1,14 +1,15 @@
 # Yeti Mind Tricks
 
-Yeti Mind Tricks is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Tresor / Globus, Berlin on Fri, 13 Nov 2026.
+Yeti Mind Tricks is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Tresor / Globus, Berlin on Fri, 13 Nov 2026.
 
-Yeti Mind Tricks is a techno and house artist based in United Kingdom, with 33 gigs on soundcheck across Amsterdam, Berlin, Edinburgh and Glasgow. Often billed alongside DJ Bone, Tälor and Azucy. Next up: Tresor / Globus, Berlin on Fri 13 Nov.
+Yeti Mind Tricks is a techno and house artist based in United Kingdom, with 34 gigs on soundcheck across Amsterdam, Berlin, Edinburgh and Glasgow. Often billed alongside DJ Bone, Azucy and Mr Andy. Next up: Tresor / Globus, Berlin on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Tresor / Globus | Berlin |
+| Thu, 31 Dec 2026 | RADION | Amsterdam |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Yeti Mind Tricks is a techno and house artist based in United Kingdom, with 33 g
 
 ## Shares bills with
 
-DJ Bone, Tälor, Azucy
+DJ Bone, Azucy, Mr Andy
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yetimindtricks/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yetimindtricks/)*

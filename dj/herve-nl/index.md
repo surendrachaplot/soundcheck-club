@@ -1,6 +1,6 @@
 # Hervé
 
-Hervé is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 14 Nov 2026.
+Hervé is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 14 Nov 2026.
 
 Hervé is a techno and house artist based in Netherlands, with 51 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 10 more. Often billed alongside Octo Octa, Eris Drew and Noord Loop. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 14 Nov.
 
@@ -28,4 +28,4 @@ Hervé is a techno and house artist based in Netherlands, with 51 gigs on soundc
 
 Octo Octa, Eris Drew, Noord Loop
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/herve-nl/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/herve-nl/)*

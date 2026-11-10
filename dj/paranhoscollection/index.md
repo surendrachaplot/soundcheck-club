@@ -1,6 +1,6 @@
 # Paranhos Collection
 
-Paranhos Collection is a Italo Disco and Pop artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Catraio (Porto), Porto on Fri, 13 Nov 2026.
+Paranhos Collection is a Italo Disco and Pop artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Catraio (Porto), Porto on Fri, 13 Nov 2026.
 
 Paranhos Collection is an italo disco and pop artist based in Portugal, with 33 gigs on soundcheck across Lisbon and Porto. Often billed alongside Antonov and Boogaloo Steve. Next up: TBA - Catraio (Porto), Porto on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Paranhos Collection is an italo disco and pop artist based in Portugal, with 33 
 
 Antonov (2), Boogaloo Steve
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paranhoscollection/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paranhoscollection/)*

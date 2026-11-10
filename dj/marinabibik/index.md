@@ -1,6 +1,6 @@
 # Marina Bibik
 
-Marina Bibik is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at NOH Extended, Istanbul on Fri, 27 Nov 2026.
+Marina Bibik is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at NOH Extended, Istanbul on Fri, 27 Nov 2026.
 
 Marina Bibik is a techno and club artist based in Russia, with 5 gigs on soundcheck across Istanbul and New York City. Often billed alongside dj s1ck s0ck, ALİN and Arnaud Rebotini. Next up: NOH Extended, Istanbul on Fri 27 Nov.
 
@@ -21,4 +21,4 @@ Marina Bibik is a techno and club artist based in Russia, with 5 gigs on soundch
 
 dj s1ck s0ck, ALİN, Arnaud Rebotini
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marinabibik/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marinabibik/)*

@@ -1,6 +1,6 @@
 # The Red Church
 
-The Red Church is a music venue in Bristol with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. The next is "Chemist & Friends: NYE Knees Up" on Thu, 31 Dec 2026.
+The Red Church is a music venue in Bristol with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. The next is "Chemist & Friends: NYE Knees Up" on Thu, 31 Dec 2026.
 
 The Red Church is a music venue in Bristol listed on soundcheck. 1 upcoming gig, with line-ups including Brenen, Tommy Dymock and Touré. See dates, start times and who's playing. 190 Church Rd, Redfield, Bristol BS5 8AE.
 
@@ -14,4 +14,4 @@ The Red Church is a music venue in Bristol listed on soundcheck. 1 upcoming gig,
 
 190 Church Rd, Redfield, Bristol BS5 8AE, Bristol
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-red-church/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-red-church/)*

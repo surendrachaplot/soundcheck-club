@@ -1,6 +1,6 @@
 # Frank Funke
 
-Frank Funke is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA -  Kreuzberg, Berlin on Fri, 13 Nov 2026.
+Frank Funke is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA -  Kreuzberg, Berlin on Fri, 13 Nov 2026.
 
 Frank Funke is an electronica and techno artist based in Germany, with 11 gigs on soundcheck across Berlin and Lisbon. Often billed alongside 3rd Party Influence, CPTN and 4625kHz. Next up: TBA -  Kreuzberg, Berlin on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Frank Funke is an electronica and techno artist based in Germany, with 11 gigs o
 
 3rd Party Influence, CPTN, 4625kHz
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frankfunke/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frankfunke/)*

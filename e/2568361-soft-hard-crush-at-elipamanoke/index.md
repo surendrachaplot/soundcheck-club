@@ -1,6 +1,6 @@
 # soft & HARD CRUSH at elipamanoke
 
-soft & HARD CRUSH at elipamanoke on Fri 20 Nov, Leipzig. 6 artists: Cat-J, DYNASTY, KETA PERRY and LYZI and 2 more. Trance and Techno. See the line-up on soundcheck.
+soft & HARD CRUSH at elipamanoke on Fri 20 Nov, Leipzig. 6 artists: Cat-J, KETA PERRY, LYZI and meowmeyer and 2 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,10 +11,10 @@ soft & HARD CRUSH at elipamanoke on Fri 20 Nov, Leipzig. 6 artists: Cat-J, DYNAS
 ## Line-up
 
 - Cat-J
-- DYNASTY
 - KETA PERRY
 - LYZI
 - meowmeyer
 - PyjamaMama
+- Rebel
 
 *Source: [soundcheck](https://soundcheck.club/e/2568361-soft-hard-crush-at-elipamanoke/)*

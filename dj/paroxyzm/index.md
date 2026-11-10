@@ -1,6 +1,6 @@
 # Paroxyzm
 
-Paroxyzm is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at John Doe, Amsterdam on Sat, 28 Nov 2026.
+Paroxyzm is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at John Doe, Amsterdam on Sat, 28 Nov 2026.
 
 Paroxyzm is a techno artist, with 35 gigs on soundcheck across Amsterdam and Utrecht. Often billed alongside Robin Hastings, Mischa Duncan and ADHDJ. Next up: John Doe, Amsterdam on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Paroxyzm is a techno artist, with 35 gigs on soundcheck across Amsterdam and Utr
 
 Robin Hastings, Mischa Duncan, ADHDJ (2)
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paroxyzm/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paroxyzm/)*

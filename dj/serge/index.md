@@ -1,6 +1,6 @@
 # Serge
 
-Serge is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Pillbox Beijing, Beijing on Fri, 20 Nov 2026.
+Serge is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Pillbox Beijing, Beijing on Fri, 20 Nov 2026.
 
 Serge is a techno and house artist based in Netherlands, with 73 gigs on soundcheck across Amsterdam, Bali, Barcelona and Beijing and 18 more. Often billed alongside Afra, Alberta Balsam and Detroit In Effect. Next up: Pillbox Beijing, Beijing on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Serge is a techno and house artist based in Netherlands, with 73 gigs on soundch
 
 Afra, Alberta Balsam, Detroit In Effect
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/serge/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/serge/)*

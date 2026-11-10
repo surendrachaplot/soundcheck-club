@@ -1,6 +1,6 @@
 # MI-ZI
 
-MI-ZI is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Avalon Cafe Bermondsey, London on Fri, 5 Feb 2027.
+MI-ZI is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Avalon Cafe Bermondsey, London on Fri, 5 Feb 2027.
 
 MI-ZI is a drum & bass and techno artist based in United Kingdom, with 5 gigs on soundcheck across London and Sheffield. Often billed alongside Torque, Hollie Anthwax and ISORA. Next up: Avalon Cafe Bermondsey, London on Fri 5 Feb.
 
@@ -21,4 +21,4 @@ MI-ZI is a drum & bass and techno artist based in United Kingdom, with 5 gigs on
 
 Torque (2), Hollie Anthwax, ISORA
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mi-zi/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mi-zi/)*

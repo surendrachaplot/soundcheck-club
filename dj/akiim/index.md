@@ -1,6 +1,6 @@
 # AKIIM
 
-AKIIM is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Baalsaal, Hamburg on Sat, 14 Nov 2026.
+AKIIM is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Baalsaal, Hamburg on Sat, 14 Nov 2026.
 
 AKIIM is a techno and trance artist based in Germany, with 47 gigs on soundcheck across Berlin, Hamburg and Hannover. Often billed alongside SPORTMANN, co:co and Elon Bass. Next up: Baalsaal, Hamburg on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ AKIIM is a techno and trance artist based in Germany, with 47 gigs on soundcheck
 
 SPORTMANN, co:co, Elon Bass
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akiim/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akiim/)*

@@ -1,6 +1,6 @@
 # Jacklyn
 
-Jacklyn is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at fabric, London on Sat, 20 Mar 2027.
+Jacklyn is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at fabric, London on Sat, 20 Mar 2027.
 
 Jacklyn is a techno and trance artist based in United Kingdom, with 48 gigs on soundcheck across Amsterdam, Berlin, Brussels and Copenhagen and 6 more. Often billed alongside Boo, 1000raks and AYLIN IDAH. Next up: fabric, London on Sat 20 Mar.
 
@@ -25,4 +25,4 @@ Jacklyn is a techno and trance artist based in United Kingdom, with 48 gigs on s
 
 Boo, 1000raks, AYLIN IDAH
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jacklyn/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jacklyn/)*

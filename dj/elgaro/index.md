@@ -1,6 +1,6 @@
 # EL GARO
 
-EL GARO is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Friends & Lovers, New York City on Thu, 12 Nov 2026.
+EL GARO is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Friends & Lovers, New York City on Thu, 12 Nov 2026.
 
 EL GARO is a disco and house artist based in Cuba, with 6 gigs on soundcheck across New York City. Often billed alongside Mickey Perez and Mike Terra. Next up: Friends & Lovers, New York City on Thu 12 Nov.
 
@@ -22,4 +22,4 @@ EL GARO is a disco and house artist based in Cuba, with 6 gigs on soundcheck acr
 
 Mickey Perez, Mike Terra
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elgaro/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elgaro/)*

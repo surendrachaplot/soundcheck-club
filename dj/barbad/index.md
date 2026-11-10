@@ -1,6 +1,6 @@
 # Barbad
 
-Barbad is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Renate, Berlin on Sat, 5 Dec 2026.
+Barbad is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Renate, Berlin on Sat, 5 Dec 2026.
 
 Barbad is a techno and trance artist based in Iran, with 76 gigs on soundcheck across Berlin, Bucharest, Budapest and Paris and 1 more. Often billed alongside CRB, Nakrasia and 5ogol. Next up: Renate, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Barbad is a techno and trance artist based in Iran, with 76 gigs on soundcheck a
 
 CRB, Nakrasia, 5ogol
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/barbad/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/barbad/)*

@@ -1,6 +1,6 @@
 # Nola
 
-Nola is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Coliwoo Resort Changi, Singapore on Sat, 28 Nov 2026.
+Nola is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Coliwoo Resort Changi, Singapore on Sat, 28 Nov 2026.
 
 Nola is a house and deep house artist based in Canada, with 5 gigs on soundcheck across Chicago, Detroit, Paris and Singapore. Often billed alongside Dennis Quin, Gino (DET) and Kellie Allen. Next up: Coliwoo Resort Changi, Singapore on Sat 28 Nov.
 
@@ -21,4 +21,4 @@ Nola is a house and deep house artist based in Canada, with 5 gigs on soundcheck
 
 Dennis Quin, Gino (DET), Kellie Allen
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nola/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nola/)*

@@ -1,6 +1,6 @@
 # SOPHI (4)
 
-SOPHI (4) is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
+SOPHI (4) is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
 
 SOPHI is a techno and garage artist based in Australia, with 7 gigs on soundcheck across Brisbane, Melbourne, Seoul and South Korea. Often billed alongside Jamjari, Kataploks and A K. Next up: TBA - Jacks Bar, South Korea on Sat 14 Nov.
 
@@ -23,4 +23,4 @@ SOPHI is a techno and garage artist based in Australia, with 7 gigs on soundchec
 
 Jamjari, Kataploks, A K
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sophi-4/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sophi-4/)*

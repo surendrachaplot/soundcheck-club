@@ -1,6 +1,6 @@
 # Gledd
 
-Gledd is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Fünk, Mexico City on Thu, 12 Nov 2026.
+Gledd is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Fünk, Mexico City on Thu, 12 Nov 2026.
 
 Gledd is a house and deep house artist, with 23 gigs on soundcheck across Beijing, Medellin, Mexico City and Miami and 3 more. Often billed alongside Duke Skylocker (Disco Dust), Miss Voltaghe and Barreto. Next up: Fünk, Mexico City on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Gledd is a house and deep house artist, with 23 gigs on soundcheck across Beijin
 
 Duke Skylocker (Disco Dust), Miss Voltaghe, Barreto
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gledd/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gledd/)*

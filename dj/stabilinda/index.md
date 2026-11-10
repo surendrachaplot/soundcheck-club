@@ -1,6 +1,6 @@
 # STABILINDA
 
-STABILINDA is a Electronica and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Main Club, Milan on Sat, 21 Nov 2026.
+STABILINDA is a Electronica and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Main Club, Milan on Sat, 21 Nov 2026.
 
 STABILINDA is an electronica and hardcore artist based in Italy, with 8 gigs on soundcheck across Berlin, Central and Milan. Often billed alongside ANKKH, ABYSS 369 and Dandy M. Next up: Main Club, Milan on Sat 21 Nov.
 
@@ -24,4 +24,4 @@ STABILINDA is an electronica and hardcore artist based in Italy, with 8 gigs on 
 
 ANKKH, ABYSS 369, Dandy M
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stabilinda/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stabilinda/)*

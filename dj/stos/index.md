@@ -1,6 +1,6 @@
 # Stos
 
-Stos is a Italo Disco and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Eighteenth Street Lounge (ESL), Washington DC on Fri, 13 Nov 2026.
+Stos is a Italo Disco and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Eighteenth Street Lounge (ESL), Washington DC on Fri, 13 Nov 2026.
 
 Stos is an italo disco and techno artist based in United States of America, with 18 gigs on soundcheck across Washington DC. Often billed alongside Associate, Kiva and Bastet (US). Next up: Eighteenth Street Lounge (ESL), Washington DC on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Stos is an italo disco and techno artist based in United States of America, with
 
 Associate, Kiva, Bastet (US)
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stos/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stos/)*

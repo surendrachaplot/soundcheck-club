@@ -1,6 +1,6 @@
 # obviouslyalex
 
-obviouslyalex is a Deep House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The System, Sheffield on Sat, 21 Nov 2026.
+obviouslyalex is a Deep House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The System, Sheffield on Sat, 21 Nov 2026.
 
 obviouslyalex is a deep house and tech house artist based in United Kingdom, with 5 gigs on soundcheck across London and Sheffield. Often billed alongside Freddie Grisbi, The Doobskins and Alex Hartley. Next up: The System, Sheffield on Sat 21 Nov.
 
@@ -21,4 +21,4 @@ obviouslyalex is a deep house and tech house artist based in United Kingdom, wit
 
 Freddie Grisbi, The Doobskins, Alex Hartley
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/obviouslyalex/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/obviouslyalex/)*

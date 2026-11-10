@@ -1,6 +1,6 @@
 # CARALUS
 
-CARALUS is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at renae, Manchester on Sat, 5 Dec 2026.
+CARALUS is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at renae, Manchester on Sat, 5 Dec 2026.
 
 CARALUS is a house and tech house artist based in United Kingdom, with 4 gigs on soundcheck across Manchester. Often billed alongside A Little Bit Orange, Babs and Allius. Next up: renae, Manchester on Sat 5 Dec.
 
@@ -20,4 +20,4 @@ CARALUS is a house and tech house artist based in United Kingdom, with 4 gigs on
 
 A Little Bit Orange, Babs (3), Allius
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caralus/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caralus/)*

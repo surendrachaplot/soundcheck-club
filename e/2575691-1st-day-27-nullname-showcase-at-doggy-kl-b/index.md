@@ -1,6 +1,6 @@
-# 1st Day 27: NullName showcase at Doggy Klœb
+# 1st Day 27: NullName Showcase at Doggy Klœb
 
-1st Day 27: NullName showcase at Doggy Klœb on Fri 1 Jan, Malaga. Techno. See the line-up on soundcheck.
+1st Day 27: NullName Showcase at Doggy Klœb on Fri 1 Jan, Malaga. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

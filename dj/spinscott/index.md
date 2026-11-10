@@ -1,6 +1,6 @@
 # Spinscott
 
-Spinscott is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Baltimore Soundstage, Baltimore on Sat, 28 Nov 2026.
+Spinscott is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Baltimore Soundstage, Baltimore on Sat, 28 Nov 2026.
 
 Spinscott is a jungle and drum & bass artist based in United States of America, with 17 gigs on soundcheck across Atlanta, Baltimore, Belfast and Bristol and 9 more. Often billed alongside Bladerunner, DJ SS and Dieselboy. Next up: Baltimore Soundstage, Baltimore on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Spinscott is a jungle and drum & bass artist based in United States of America, 
 
 Bladerunner, DJ SS, Dieselboy
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spinscott/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spinscott/)*

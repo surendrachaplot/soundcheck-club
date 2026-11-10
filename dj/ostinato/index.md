@@ -1,6 +1,6 @@
 # OSTINATO
 
-OSTINATO is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Lottus, Porto on Sat, 28 Nov 2026.
+OSTINATO is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Lottus, Porto on Sat, 28 Nov 2026.
 
 OSTINATO is a house and deep house artist based in Portugal, with 19 gigs on soundcheck across Lisbon and Porto. Often billed alongside Serginho, Miguel Rendeiro and Carlos Regadas. Next up: Lottus, Porto on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ OSTINATO is a house and deep house artist based in Portugal, with 19 gigs on sou
 
 Serginho, Miguel Rendeiro, Carlos Regadas
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ostinato/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ostinato/)*

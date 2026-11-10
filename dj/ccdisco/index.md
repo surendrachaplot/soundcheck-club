@@ -1,6 +1,6 @@
 # CC:DISCO!
 
-CC:DISCO! is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at RASA, Singapore on Fri, 13 Nov 2026.
+CC:DISCO! is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at RASA, Singapore on Fri, 13 Nov 2026.
 
 CC:DISCO! is a house and disco artist based in Australia, with 160 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austria and 48 more. Often billed alongside Chima Isaaro, Erol Alkan and Jennifer Loveless. Next up: RASA, Singapore on Fri 13 Nov.
 
@@ -31,4 +31,4 @@ CC:DISCO! is a house and disco artist based in Australia, with 160 gigs on sound
 
 Chima Isaaro, Erol Alkan, Jennifer Loveless
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ccdisco/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ccdisco/)*

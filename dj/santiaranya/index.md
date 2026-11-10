@@ -1,6 +1,6 @@
 # Santi Aranya
 
-Santi Aranya is a Techno and Gabber artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at M7 Club, Barcelona on Sat, 28 Nov 2026.
+Santi Aranya is a Techno and Gabber artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at M7 Club, Barcelona on Sat, 28 Nov 2026.
 
 Santi Aranya is a techno and gabber artist based in Spain, with 12 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Rowsi, Gigi D'Amico and Yeyo. Next up: M7 Club, Barcelona on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Santi Aranya is a techno and gabber artist based in Spain, with 12 gigs on sound
 
 Rowsi, Gigi D'Amico, Yeyo
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/santiaranya/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/santiaranya/)*

@@ -1,6 +1,6 @@
 # comma,
 
-comma, is a House and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Cafeteria, Toronto on Sat, 28 Nov 2026.
+comma, is a House and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Cafeteria, Toronto on Sat, 28 Nov 2026.
 
 comma, is a house and club artist based in Canada, with 16 gigs on soundcheck across Toronto. Often billed alongside Akkai, GG STEPS and Program Sam. Next up: Cafeteria, Toronto on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ comma, is a house and club artist based in Canada, with 16 gigs on soundcheck ac
 
 Akkai (2), GG STEPS, Program Sam
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/comma,/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/comma,/)*

@@ -1,6 +1,6 @@
 # Circuit Showcase at TBA - Undisclosed Location
 
-Circuit Showcase at TBA - Undisclosed Location on Sat 14 Nov, Arizona. 6 artists: Freightrain, Juheun, LIFTER and LILENE and 2 more. See the line-up on soundcheck.
+Circuit Showcase at TBA - Undisclosed Location on Sat 14 Nov, Arizona. 7 artists: Donnerstag, Freightrain, Juheun and LIFTER and 3 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Circuit Showcase at TBA - Undisclosed Location on Sat 14 Nov, Arizona. 6 artists
 
 ## Line-up
 
+- Donnerstag (1)
 - Freightrain
 - Juheun
 - LIFTER

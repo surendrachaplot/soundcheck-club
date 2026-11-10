@@ -1,6 +1,6 @@
 # Droom
 
-Droom is a Italo Disco and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Melkweg, Amsterdam on Sat, 12 Dec 2026.
+Droom is a Italo Disco and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Melkweg, Amsterdam on Sat, 12 Dec 2026.
 
 Droom is an italo disco and disco artist based in Netherlands, with 4 gigs on soundcheck across Amsterdam, Rotterdam and The Hague. Often billed alongside I-F, Alden Tyrell and DD. Next up: Melkweg, Amsterdam on Sat 12 Dec.
 
@@ -20,4 +20,4 @@ Droom is an italo disco and disco artist based in Netherlands, with 4 gigs on so
 
 I-F, Alden Tyrell, DD
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/droom/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/droom/)*

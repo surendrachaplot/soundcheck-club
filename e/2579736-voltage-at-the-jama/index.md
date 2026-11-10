@@ -1,6 +1,6 @@
-# 🗲 VOLTAGE 🗲 at The Jama
+# VOLTAGE at The Jama
 
-🗲 VOLTAGE 🗲 at The Jama on Fri 4 Dec, Toronto. 3 artists: 999ADJ, Program Sam and Shawescape Renegade. Techno and Electro. See the line-up on soundcheck.
+VOLTAGE at The Jama on Fri 4 Dec, Toronto. 3 artists: 999ADJ, Program Sam and Shawescape Renegade. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Cannelle
 
-Cannelle is a Disco and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Fairmount Theatre, Montreal on Fri, 13 Nov 2026.
+Cannelle is a Disco and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Fairmount Theatre, Montreal on Fri, 13 Nov 2026.
 
 Cannelle is a disco and techno artist based in France, with 39 gigs on soundcheck across Antwerp, Barcelona, Berlin and Chicago and 7 more. Often billed alongside LeBRON, ali rq and Luksek. Next up: Fairmount Theatre, Montreal on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Cannelle is a disco and techno artist based in France, with 39 gigs on soundchec
 
 LeBRON, ali rq, Luksek
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cannelle/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cannelle/)*

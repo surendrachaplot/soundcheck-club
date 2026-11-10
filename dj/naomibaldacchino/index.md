@@ -1,6 +1,6 @@
 # Naomi Baldacchino
 
-Naomi Baldacchino is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Desert Inn Resort and Camp, Dubai on Fri, 13 Nov 2026.
+Naomi Baldacchino is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Desert Inn Resort and Camp, Dubai on Fri, 13 Nov 2026.
 
 Naomi Baldacchino is a techno and industrial artist based in United Arab Emirates, with 54 gigs on soundcheck across Bucharest, Dortmund / Essen, Dubai and Malta. Often billed alongside Kingsmo, A-THØX and Alex Micca. Next up: Desert Inn Resort and Camp, Dubai on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Naomi Baldacchino is a techno and industrial artist based in United Arab Emirate
 
 Kingsmo, A-THØX, Alex Micca
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/naomibaldacchino/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/naomibaldacchino/)*

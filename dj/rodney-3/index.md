@@ -1,6 +1,6 @@
 # Rodney (3)
 
-Rodney (3) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Rolling Stock, London on Fri, 4 Dec 2026.
+Rodney (3) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Rolling Stock, London on Fri, 4 Dec 2026.
 
 Rodney is a house and tech house artist based in United Kingdom, with 4 gigs on soundcheck across London. Often billed alongside Sahil, Josh German and A Hard Day's Dance. Next up: Rolling Stock, London on Fri 4 Dec.
 
@@ -20,4 +20,4 @@ Rodney is a house and tech house artist based in United Kingdom, with 4 gigs on 
 
 Sahil, Josh German, A Hard Day's Dance
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rodney-3/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rodney-3/)*

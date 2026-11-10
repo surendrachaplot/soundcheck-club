@@ -1,6 +1,6 @@
 # Albert Hall
 
-Albert Hall is a music venue in Manchester with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "[CANCELLED] Adam F [LIVE] - Circles Revisited Tour" on Sat, 14 Nov 2026.
+Albert Hall is a music venue in Manchester with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "[CANCELLED] Adam F [LIVE] - Circles Revisited Tour" on Sat, 14 Nov 2026.
 
 Albert Hall is a music venue in Manchester listed on soundcheck. 2 upcoming gigs, with line-ups including Adam F, Chimpo, Harry Shotta and Metrodome and 2 more. See dates, start times and who's playing. 27 Peter Street, Manchester, M2 5QR, United Kingdom.
 
@@ -15,4 +15,4 @@ Albert Hall is a music venue in Manchester listed on soundcheck. 2 upcoming gigs
 
 27 Peter Street, Manchester, M2 5QR, United Kingdom, Manchester
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/albert-hall/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/albert-hall/)*

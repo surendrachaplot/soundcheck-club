@@ -1,6 +1,6 @@
 # Lowsteppa
 
-Lowsteppa is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Sacré, Paris on Sat, 5 Dec 2026.
+Lowsteppa is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Sacré, Paris on Sat, 5 Dec 2026.
 
 Lowsteppa is a house and tech house artist based in United Kingdom, with 56 gigs on soundcheck across Amsterdam, Auckland, Austin and Brisbane and 11 more. Often billed alongside Sam Divine, Hannah Wants and Arielle Free. Next up: Sacré, Paris on Sat 5 Dec.
 
@@ -27,4 +27,4 @@ Lowsteppa is a house and tech house artist based in United Kingdom, with 56 gigs
 
 Sam Divine, Hannah Wants, Arielle Free
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lowsteppa/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lowsteppa/)*

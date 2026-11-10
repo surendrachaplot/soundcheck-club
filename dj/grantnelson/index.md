@@ -1,6 +1,6 @@
 # Grant Nelson
 
-Grant Nelson is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Port of Leith Distillery, Edinburgh on Sat, 28 Nov 2026.
+Grant Nelson is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Port of Leith Distillery, Edinburgh on Sat, 28 Nov 2026.
 
 Grant Nelson is a house and garage artist based in United Kingdom, with 38 gigs on soundcheck across Amsterdam, Barcelona, Brighton and Dublin and 12 more. Often billed alongside Matt Jam Lamont, Steve Taylor and Trimtone. Next up: Port of Leith Distillery, Edinburgh on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Grant Nelson is a house and garage artist based in United Kingdom, with 38 gigs 
 
 Matt Jam Lamont, Steve Taylor, Trimtone
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grantnelson/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grantnelson/)*

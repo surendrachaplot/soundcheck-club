@@ -1,6 +1,6 @@
 # FUNKA04
 
-FUNKA04 is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Alte Zimmerei, Baden-w-rttemberg on Sat, 14 Nov 2026.
+FUNKA04 is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Alte Zimmerei, Baden-w-rttemberg on Sat, 14 Nov 2026.
 
 FUNKA04 is a techno and house artist based in Germany, with 27 gigs on soundcheck across Amsterdam, Baden W Rttemberg, Berlin and Dresden and 9 more. Often billed alongside Skotsch, Dj Kero B and MATRIX3K. Next up: Alte Zimmerei, Baden W Rttemberg on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ FUNKA04 is a techno and house artist based in Germany, with 27 gigs on soundchec
 
 Skotsch, Dj Kero B, MATRIX3K
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/funka04/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/funka04/)*

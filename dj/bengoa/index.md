@@ -1,13 +1,14 @@
 # Bengoa
 
-Bengoa is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Arch 14, London on Fri, 18 Dec 2026.
+Bengoa is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at renae, Manchester on Sat, 14 Nov 2026.
 
-Bengoa is a house and deep house artist based in Greece, with 23 gigs on soundcheck across Athens, London and Manchester. Often billed alongside Fannoire Ge, ARLYSS and Chevy. Next up: Arch 14, London on Fri 18 Dec.
+Bengoa is a house and deep house artist based in Greece, with 24 gigs on soundcheck across Athens, London and Manchester. Often billed alongside Fannoire Ge, ARLYSS and Chevy. Next up: renae, Manchester on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | renae | Manchester |
 | Fri, 18 Dec 2026 | Arch 14 | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ Bengoa is a house and deep house artist based in Greece, with 23 gigs on soundch
 
 Fannoire Ge, ARLYSS, Chevy
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bengoa/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bengoa/)*

@@ -1,6 +1,6 @@
 # The Cornershop Bar
 
-The Cornershop Bar is a music venue in London with 21 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Afrobeats Meets Amapiano Shoreditch – Everyone Free Before 12AM" on Fri, 13 Nov 2026.
+The Cornershop Bar is a music venue in London with 21 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Afrobeats Meets Amapiano Shoreditch – Everyone Free Before 12AM" on Fri, 13 Nov 2026.
 
 The Cornershop Bar is a music venue in London listed on soundcheck. 21 upcoming gigs. See dates, start times and who's playing. 123 Shoreditch High Street  London E1 6JE.
 
@@ -23,4 +23,4 @@ The Cornershop Bar is a music venue in London listed on soundcheck. 21 upcoming 
 
 123 Shoreditch High Street  London E1 6JE, London
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-cornershop-bar/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-cornershop-bar/)*

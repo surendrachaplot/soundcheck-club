@@ -1,6 +1,6 @@
 # DJ Pierre
 
-DJ Pierre is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Marble Bar, Detroit on Thu, 31 Dec 2026.
+DJ Pierre is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Marble Bar, Detroit on Thu, 31 Dec 2026.
 
 DJ Pierre is an acid and techno artist based in United States of America, with 50 gigs on soundcheck across Amsterdam, Atlanta, Baltimore and Berlin and 20 more. Often billed alongside Alex Pi, Posthuman and BLACKCLUB. Next up: Marble Bar, Detroit on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ DJ Pierre is an acid and techno artist based in United States of America, with 5
 
 Alex Pi, Posthuman, BLACKCLUB
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djpierre/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djpierre/)*

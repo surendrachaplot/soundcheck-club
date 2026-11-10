@@ -1,6 +1,6 @@
 # makaya
 
-makaya is a Dancehall and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - The Ceilidh Place Venue, Scotland on Sat, 14 Nov 2026.
+makaya is a Dancehall and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - The Ceilidh Place Venue, Scotland on Sat, 14 Nov 2026.
 
 makaya is a dancehall and bass artist, with 32 gigs on soundcheck across Edinburgh, Glasgow, London and Scotland and 1 more. Often billed alongside xivro, Chicha and effua. Next up: TBA - The Ceilidh Place Venue, Scotland on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ makaya is a dancehall and bass artist, with 32 gigs on soundcheck across Edinbur
 
 xivro, Chicha (2), effua
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/makaya/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/makaya/)*

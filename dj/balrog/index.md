@@ -1,14 +1,15 @@
 # Balrog
 
-Balrog is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Eastern Bloc Records, Manchester on Fri, 13 Nov 2026.
+Balrog is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Eastern Bloc Records, Manchester on Fri, 13 Nov 2026.
 
-Balrog is a techno and house artist based in United Kingdom, with 45 gigs on soundcheck across Belfast, Berlin, Copenhagen and Krakow and 6 more. Often billed alongside Aero, Habgud and INLIMEN. Next up: Eastern Bloc Records, Manchester on Fri 13 Nov.
+Balrog is a techno and house artist based in United Kingdom, with 46 gigs on soundcheck across Belfast, Berlin, Copenhagen and Krakow and 6 more. Often billed alongside Aero, Habgud and INLIMEN. Next up: Eastern Bloc Records, Manchester on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Eastern Bloc Records | Manchester |
+| Fri, 27 Nov 2026 | The Vinyl Whistle | Leeds |
 | Fri, 1 Jan 2027 | The Golden Lion | Manchester |
 
 ## Recently played
@@ -26,4 +27,4 @@ Balrog is a techno and house artist based in United Kingdom, with 45 gigs on sou
 
 Aero (1), Habgud, INLIMEN
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/balrog/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/balrog/)*

@@ -1,6 +1,6 @@
 # ZACKITO
 
-ZACKITO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Horn, Bangkok on Sat, 28 Nov 2026.
+ZACKITO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Horn, Bangkok on Sat, 28 Nov 2026.
 
 ZACKITO is a techno and house artist, with 29 gigs on soundcheck across Bangkok, Berlin, London and Manchester and 1 more. Often billed alongside CEM, GUNI and Gloria Rose. Next up: Horn, Bangkok on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ ZACKITO is a techno and house artist, with 29 gigs on soundcheck across Bangkok,
 
 CEM, GUNI, Gloria Rose
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zackito/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zackito/)*

@@ -1,6 +1,6 @@
 # ARLYSS
 
-ARLYSS is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Tola, London on Sat, 14 Nov 2026.
+ARLYSS is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Tola, London on Sat, 14 Nov 2026.
 
 ARLYSS is a house and disco artist based in United Kingdom, with 66 gigs on soundcheck across Amsterdam and London. Often billed alongside Davide Del Vecchio, Alfaz and Ize. Next up: Tola, London on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ ARLYSS is a house and disco artist based in United Kingdom, with 66 gigs on soun
 
 Davide Del Vecchio, Alfaz, Ize (1)
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arlyss/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arlyss/)*

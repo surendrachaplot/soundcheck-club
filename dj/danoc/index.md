@@ -1,6 +1,6 @@
 # Dano C
 
-Dano C is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Scirocco, Malaga on Sat, 21 Nov 2026.
+Dano C is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Scirocco, Malaga on Sat, 21 Nov 2026.
 
 Dano C is a techno and progressive house artist based in Netherlands, with 5 gigs on soundcheck across Malaga, Rotterdam and The Hague. Often billed alongside De Plaag, T-Falcon and saskia laval. Next up: Scirocco, Malaga on Sat 21 Nov.
 
@@ -21,4 +21,4 @@ Dano C is a techno and progressive house artist based in Netherlands, with 5 gig
 
 De Plaag, T-Falcon, saskia laval
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danoc/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danoc/)*

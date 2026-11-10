@@ -1,6 +1,6 @@
 # Bacon Chang
 
-Bacon Chang is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Panke, Berlin on Sun, 29 Nov 2026.
+Bacon Chang is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Panke, Berlin on Sun, 29 Nov 2026.
 
 Bacon Chang is a house and trance artist based in Japan, with 12 gigs on soundcheck across Berlin, Milan and Sao Paulo. Often billed alongside Marcel da Kinky Koala, AmadoPeace and Ana Molina. Next up: Panke, Berlin on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Bacon Chang is a house and trance artist based in Japan, with 12 gigs on soundch
 
 Marcel da Kinky Koala, AmadoPeace, Ana Molina
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baconchang/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baconchang/)*

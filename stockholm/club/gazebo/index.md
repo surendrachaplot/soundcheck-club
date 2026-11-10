@@ -1,6 +1,6 @@
 # Gazebo
 
-Gazebo is a music venue in Stockholm with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "RUBY ROSE - THE DEEP RETURN" on Sat, 14 Nov 2026.
+Gazebo is a music venue in Stockholm with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "RUBY ROSE - THE DEEP RETURN" on Sat, 14 Nov 2026.
 
 Gazebo is a music venue in Stockholm listed on soundcheck. 2 upcoming gigs, with line-ups including Ahiram, Antonsson, Ed Noodle and Fabian Tanz and 2 more. See dates, start times and who's playing. Upplagsvägen 22, 142 91 Skogås.
 
@@ -15,4 +15,4 @@ Gazebo is a music venue in Stockholm listed on soundcheck. 2 upcoming gigs, with
 
 Upplagsvägen 22, 142 91 Skogås, Stockholm
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/gazebo/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/gazebo/)*

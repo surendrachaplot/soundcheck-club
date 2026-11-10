@@ -1,6 +1,6 @@
 # Shaba (1)
 
-Shaba (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Noto Philadelphia, Philadelphia on Thu, 12 Nov 2026.
+Shaba (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Noto Philadelphia, Philadelphia on Thu, 12 Nov 2026.
 
 Shaba is a techno and house artist based in Argentina, with 4 gigs on soundcheck across Philadelphia. Often billed alongside PHIL TY, ANNĒ and Dadrev. Next up: Noto Philadelphia, Philadelphia on Thu 12 Nov.
 
@@ -20,4 +20,4 @@ Shaba is a techno and house artist based in Argentina, with 4 gigs on soundcheck
 
 PHIL TY, ANNĒ, Dadrev
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shaba-1/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shaba-1/)*

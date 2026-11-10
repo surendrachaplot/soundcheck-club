@@ -1,6 +1,6 @@
 # Meliha
 
-Meliha is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Pisco Bar, Kuala Lumpur on Fri, 13 Nov 2026.
+Meliha is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Pisco Bar, Kuala Lumpur on Fri, 13 Nov 2026.
 
 Meliha is a techno and house artist based in Malaysia, with 116 gigs on soundcheck across Bali, Bangkok, Kuala Lumpur and Singapore. Often billed alongside Obadius, Biscuit (MY) and OtherKind. Next up: Pisco Bar, Kuala Lumpur on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Meliha is a techno and house artist based in Malaysia, with 116 gigs on soundche
 
 Obadius, Biscuit (MY), OtherKind
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meliha/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meliha/)*

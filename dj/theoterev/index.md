@@ -1,6 +1,6 @@
 # Theo Terev
 
-Theo Terev is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - The Parlor @ The Standard Bangkok, Bangkok on Sat, 21 Nov 2026.
+Theo Terev is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - The Parlor @ The Standard Bangkok, Bangkok on Sat, 21 Nov 2026.
 
 Theo Terev is a house and disco artist based in France, with 51 gigs on soundcheck across Bangkok, Barcelona, Bristol and Chubu and 11 more. Often billed alongside Seiji Ono, Hugo LX and Mafalda. Next up: TBA - The Parlor @ The Standard Bangkok, Bangkok on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Theo Terev is a house and disco artist based in France, with 51 gigs on soundche
 
 Seiji Ono, Hugo LX, Mafalda
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theoterev/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theoterev/)*

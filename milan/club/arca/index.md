@@ -1,6 +1,6 @@
 # Arca
 
-Arca is a music venue in Milan with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Take It Easy with John Talabot" on Sat, 14 Nov 2026.
+Arca is a music venue in Milan with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Take It Easy with John Talabot" on Sat, 14 Nov 2026.
 
 Arca is a music venue in Milan listed on soundcheck. 3 upcoming gigs, with line-ups including BLUME, Bugsy, Davide D'Amico and Dirty Channels and 2 more. See dates, start times and who's playing. Via Rimini, 38 20142 Milan, Italy.
 
@@ -16,4 +16,4 @@ Arca is a music venue in Milan listed on soundcheck. 3 upcoming gigs, with line-
 
 Via Rimini, 38 20142 Milan, Italy, Milan
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/arca/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/arca/)*

@@ -1,6 +1,6 @@
 # DizzyDray
 
-DizzyDray is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Club U, Vienna on Fri, 20 Nov 2026.
+DizzyDray is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Club U, Vienna on Fri, 20 Nov 2026.
 
 DizzyDray is a techno and trance artist, with 5 gigs on soundcheck across Vienna. Often billed alongside Anna Ullrich, Aleta and DJ YARAK. Next up: Club U, Vienna on Fri 20 Nov.
 
@@ -21,4 +21,4 @@ DizzyDray is a techno and trance artist, with 5 gigs on soundcheck across Vienna
 
 Anna Ullrich, Aleta, DJ YARAK
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dizzydray/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dizzydray/)*

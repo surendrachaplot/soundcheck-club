@@ -1,6 +1,6 @@
 # Aril Brikha
 
-Aril Brikha is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Kult, Belgrade on Sat, 21 Nov 2026.
+Aril Brikha is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Kult, Belgrade on Sat, 21 Nov 2026.
 
 Aril Brikha is a techno and electro artist, with 6 gigs on soundcheck across Amsterdam, Belgrade, Madrid and Marseille and 1 more. Often billed alongside Nuno dos Santos, Alex Downey and AliA. Next up: Kult, Belgrade on Sat 21 Nov.
 
@@ -22,4 +22,4 @@ Aril Brikha is a techno and electro artist, with 6 gigs on soundcheck across Ams
 
 Nuno dos Santos, Alex Downey, AliA
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arilbrikha/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arilbrikha/)*

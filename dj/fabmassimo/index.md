@@ -1,6 +1,6 @@
 # Fab Massimo
 
-Fab Massimo is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Cabaret  Aléatoire, Marseille on Fri, 20 Nov 2026.
+Fab Massimo is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Cabaret  Aléatoire, Marseille on Fri, 20 Nov 2026.
 
 Fab Massimo is a techno and tech house artist based in Germany, with 92 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Budapest and 12 more. Often billed alongside Bombata, Techmo and Katzengold. Next up: Cabaret  Aléatoire, Marseille on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Fab Massimo is a techno and tech house artist based in Germany, with 92 gigs on 
 
 Bombata, Techmo, Katzengold
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fabmassimo/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fabmassimo/)*

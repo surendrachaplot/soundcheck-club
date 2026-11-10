@@ -1,6 +1,6 @@
 # Rhys Dyer
 
-Rhys Dyer is a Electro and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Starlane Pizza Bar, London on Sat, 28 Nov 2026.
+Rhys Dyer is a Electro and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Starlane Pizza Bar, London on Sat, 28 Nov 2026.
 
 Rhys Dyer is an electro and tech house artist based in United Kingdom, with 19 gigs on soundcheck across London and Sheffield. Often billed alongside Myles Apps, The Doobskins and Aaron Burr. Next up: Starlane Pizza Bar, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Rhys Dyer is an electro and tech house artist based in United Kingdom, with 19 g
 
 Myles Apps, The Doobskins, Aaron Burr (2)
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rhysdyer/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rhysdyer/)*

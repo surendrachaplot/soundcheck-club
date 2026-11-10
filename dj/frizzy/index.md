@@ -1,6 +1,6 @@
 # Frizzy
 
-Frizzy is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Fairfield Amphitheatre, Melbourne on Sat, 14 Nov 2026.
+Frizzy is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Fairfield Amphitheatre, Melbourne on Sat, 14 Nov 2026.
 
 Frizzy is a house and disco artist based in Australia, with 39 gigs on soundcheck across Melbourne and Victoria. Often billed alongside Milo Eastwood, Sunset Boys and Gracey. Next up: Fairfield Amphitheatre, Melbourne on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Frizzy is a house and disco artist based in Australia, with 39 gigs on soundchec
 
 Milo Eastwood, Sunset Boys, Gracey
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frizzy/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frizzy/)*

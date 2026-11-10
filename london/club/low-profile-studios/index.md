@@ -1,6 +1,6 @@
 # Low Profile Studios
 
-Low Profile Studios is a music venue in London with 9 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "SPICED: SUPERSTITION" on Fri, 13 Nov 2026.
+Low Profile Studios is a music venue in London with 9 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "SPICED: SUPERSTITION" on Fri, 13 Nov 2026.
 
 Low Profile Studios is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including AKnight, ANNX, Arrosa and Chester Hayes and 2 more. See dates, start times and who's playing. 94 Vale Rd, Harringay Warehouse District, London N4 1PT.
 
@@ -22,4 +22,4 @@ Low Profile Studios is a music venue in London listed on soundcheck. 9 upcoming 
 
 94 Vale Rd, Harringay Warehouse District, London N4 1PT, London
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/low-profile-studios/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/low-profile-studios/)*

@@ -1,6 +1,6 @@
 # Sbase
 
-Sbase is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. The next is "Altar/d States: Service 01 with Sriracha" on Thu, 10 Dec 2026.
+Sbase is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. The next is "Altar/d States: Service 01 with Sriracha" on Thu, 10 Dec 2026.
 
 Sbase is a music venue in Melbourne listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Sbase is a music venue in Melbourne listed on soundcheck. 1 upcoming gig. See da
 | --- | --- | --- |
 | Thu, 10 Dec 2026 | Altar/d States: Service 01 with Sriracha |  |
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/sbase/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/sbase/)*

@@ -1,8 +1,8 @@
 # Union Club, Vauxhall
 
-Union Club, Vauxhall is a music venue in London with 14 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "DESIRE - Weekly Thursday After Party - ELISA NAU" on Thu, 12 Nov 2026.
+Union Club, Vauxhall is a music venue in London with 16 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "DESIRE - Weekly Thursday After Party - ELISA NAU" on Thu, 12 Nov 2026.
 
-Union Club, Vauxhall is a music venue in London listed on soundcheck. 14 upcoming gigs, with line-ups including Alex Rebel, Armooniaman, Dani B and Dhez and 2 more. See dates, start times and who's playing. 66 Albert Embankment, Lambeth, London SE1 7TW.
+Union Club, Vauxhall is a music venue in London listed on soundcheck. 16 upcoming gigs, with line-ups including Alex Rebel, Armooniaman, Dani B and Dhez and 2 more. See dates, start times and who's playing. 66 Albert Embankment, Lambeth, London SE1 7TW.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Union Club, Vauxhall is a music venue in London listed on soundcheck. 14 upcomin
 
 66 Albert Embankment, Lambeth, London SE1 7TW, London
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/union-club-vauxhall/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/union-club-vauxhall/)*

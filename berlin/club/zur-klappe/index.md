@@ -1,6 +1,6 @@
 # Zur Klappe
 
-Zur Klappe is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Disko Dolce" on Fri, 13 Nov 2026.
+Zur Klappe is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Disko Dolce" on Fri, 13 Nov 2026.
 
 Zur Klappe is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including Annina, grey.ish, Jack Clark and Rangø and 1 more. See dates, start times and who's playing. Yorckstrasse 0, 10965, Berlin.
 
@@ -17,4 +17,4 @@ Zur Klappe is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, wit
 
 Yorckstrasse 0, 10965, Berlin, Berlin
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/zur-klappe/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/zur-klappe/)*

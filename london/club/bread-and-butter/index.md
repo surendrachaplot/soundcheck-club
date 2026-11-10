@@ -1,6 +1,6 @@
 # Bread and Butter
 
-Bread and Butter is a music venue in London with 5 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "BRICKS N' MORTAR: Birthday Bonanza" on Sat, 14 Nov 2026.
+Bread and Butter is a music venue in London with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "BRICKS N' MORTAR: Birthday Bonanza" on Sat, 14 Nov 2026.
 
 Bread and Butter is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including Andy Caruso, Any Koh, Carl Rowlinson and Deepmore and 2 more. See dates, start times and who's playing. 72 rivington street London EC2A 3AY.
 
@@ -18,4 +18,4 @@ Bread and Butter is a music venue in London listed on soundcheck. 5 upcoming gig
 
 72 rivington street London EC2A 3AY, London
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/bread-and-butter/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/bread-and-butter/)*

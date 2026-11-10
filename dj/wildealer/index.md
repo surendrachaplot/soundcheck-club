@@ -1,6 +1,6 @@
 # Wildealer
 
-Wildealer is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Woowon, Bangsaen, Chonburi, Thailand on Sat, 14 Nov 2026.
+Wildealer is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Woowon, Bangsaen, Chonburi, Thailand on Sat, 14 Nov 2026.
 
 Wildealer is a house and tech house artist based in Thailand, with 46 gigs on soundcheck across Amsterdam, Bangkok, Ibiza and Kuala Lumpur and 5 more. Often billed alongside IYY (TH), Meltmode and PunTue. Next up: TBA - Woowon, Bangsaen, Chonburi, Thailand on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Wildealer is a house and tech house artist based in Thailand, with 46 gigs on so
 
 IYY (TH), Meltmode (2), PunTue
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wildealer/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wildealer/)*

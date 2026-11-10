@@ -1,6 +1,6 @@
 # Yasmin Regisford
 
-Yasmin Regisford is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Gotec, Karlsruhe on Sat, 21 Nov 2026.
+Yasmin Regisford is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Gotec, Karlsruhe on Sat, 21 Nov 2026.
 
 Yasmin Regisford is a techno and trance artist based in France, with 75 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Bordeaux and 27 more. Often billed alongside 25EMEHEURE, Carla Schmitt and PRADA2000. Next up: Gotec, Karlsruhe on Sat 21 Nov.
 
@@ -28,4 +28,4 @@ Yasmin Regisford is a techno and trance artist based in France, with 75 gigs on 
 
 25EMEHEURE, Carla Schmitt, PRADA2000
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yasminregisford/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yasminregisford/)*

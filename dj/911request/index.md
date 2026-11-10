@@ -1,6 +1,6 @@
 # 911 Request
 
-911 Request is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at República Da Música, Lisbon on Fri, 20 Nov 2026.
+911 Request is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at República Da Música, Lisbon on Fri, 20 Nov 2026.
 
 911 Request is a drum & bass and jungle artist based in Portugal, with 3 gigs on soundcheck across Lisbon. Often billed alongside JSwift, LMajor and POLO LILLI. Next up: República Da Música, Lisbon on Fri 20 Nov.
 
@@ -19,4 +19,4 @@
 
 JSwift, LMajor, POLO LILLI
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/911request/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/911request/)*

@@ -1,6 +1,6 @@
 # Soul Mass Transit System
 
-Soul Mass Transit System is a Garage and House artist with 12 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at La Cheetah Club, Glasgow on Fri, 13 Nov 2026.
+Soul Mass Transit System is a Garage and House artist with 12 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at La Cheetah Club, Glasgow on Fri, 13 Nov 2026.
 
 Soul Mass Transit System is a garage and house artist based in United Kingdom, with 167 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 42 more. Often billed alongside Silva Bumpa, Dr Dubplate and Faster Horses. Next up: La Cheetah Club, Glasgow on Fri 13 Nov.
 
@@ -36,4 +36,4 @@ Soul Mass Transit System is a garage and house artist based in United Kingdom, w
 
 Silva Bumpa, Dr Dubplate, Faster Horses
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soulmasstransitsystem/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soulmasstransitsystem/)*

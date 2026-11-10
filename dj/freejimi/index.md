@@ -1,6 +1,6 @@
 # FREE JIMI
 
-FREE JIMI is a Electro and Pop artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Cakeshop, Seoul on Thu, 12 Nov 2026.
+FREE JIMI is a Electro and Pop artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Cakeshop, Seoul on Thu, 12 Nov 2026.
 
 FREE JIMI is an electro and pop artist based in Germany, with 17 gigs on soundcheck across Berlin, Copenhagen, Hamburg and Leipzig and 3 more. Often billed alongside Geo22, Luca Eck and Lucy Dye. Next up: Cakeshop, Seoul on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ FREE JIMI is an electro and pop artist based in Germany, with 17 gigs on soundch
 
 Geo22, Luca Eck, Lucy Dye
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/freejimi/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/freejimi/)*

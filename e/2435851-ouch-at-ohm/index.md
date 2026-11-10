@@ -1,6 +1,6 @@
 # ouch at OHM
 
-ouch at OHM on Thu 17 Dec, Berlin. 4 artists: Dj Goodboy, FIFI, Marylou and Rafush. Bass and Experimental. See the line-up on soundcheck.
+ouch at OHM on Thu 17 Dec, Berlin. 4 artists: Dj Goodboy, FIFI LA ROUX, Marylou and Rafush. Bass and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,7 @@ ouch at OHM on Thu 17 Dec, Berlin. 4 artists: Dj Goodboy, FIFI, Marylou and Rafu
 ## Line-up
 
 - Dj Goodboy
-- FIFI (2)
+- FIFI LA ROUX
 - Marylou
 - Rafush
 

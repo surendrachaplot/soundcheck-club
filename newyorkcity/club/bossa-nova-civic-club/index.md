@@ -1,8 +1,8 @@
 # Bossa Nova Civic Club
 
-Bossa Nova Civic Club is a music venue in New York City with 31 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Evolution: Saga's Gender Affirming Fundraiser" on Mon, 9 Nov 2026.
+Bossa Nova Civic Club is a music venue in New York City with 33 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Evolution: Saga's Gender Affirming Fundraiser" on Mon, 9 Nov 2026.
 
-Bossa Nova Civic Club is a music venue in New York City listed on soundcheck. 31 upcoming gigs, with line-ups including 1-800 GIRLS, DJ.K2, ABEILLE and Adam X and 2 more. See dates, start times and who's playing. 1271 Myrtle Ave; Brooklyn, NY 11221; United States.
+Bossa Nova Civic Club is a music venue in New York City listed on soundcheck. 33 upcoming gigs, with line-ups including 1-800 GIRLS, DJ.K2, ABEILLE and Adam X and 2 more. See dates, start times and who's playing. 1271 Myrtle Ave; Brooklyn, NY 11221; United States.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Bossa Nova Civic Club is a music venue in New York City listed on soundcheck. 31
 
 1271 Myrtle Ave; Brooklyn, NY 11221; United States, New York City
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/bossa-nova-civic-club/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/bossa-nova-civic-club/)*

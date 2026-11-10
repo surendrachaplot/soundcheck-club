@@ -1,14 +1,15 @@
 # Cee ElAssaad
 
-Cee ElAssaad is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Circie, Dresden on Fri, 20 Nov 2026.
+Cee ElAssaad is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Circie, Dresden on Fri, 20 Nov 2026.
 
-Cee ElAssaad is a house and techno artist, with 8 gigs on soundcheck across Amsterdam, Barcelona, Dresden and Dubai and 1 more. Often billed alongside KETATA, TheBrooves and UnesGroove. Next up: Circie, Dresden on Fri 20 Nov.
+Cee ElAssaad is a house and techno artist based in Morocco, with 9 gigs on soundcheck across Amsterdam, Barcelona, Dresden and Dubai and 2 more. Often billed alongside KETATA, TheBrooves and UnesGroove. Next up: Circie, Dresden on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Circie | Dresden |
+| Sat, 28 Nov 2026 | La Cale Rabat | Morocco |
 
 ## Recently played
 
@@ -24,4 +25,4 @@ Cee ElAssaad is a house and techno artist, with 8 gigs on soundcheck across Amst
 
 KETATA, TheBrooves, UnesGroove
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ceeelassaad/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ceeelassaad/)*

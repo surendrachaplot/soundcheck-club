@@ -1,6 +1,6 @@
 # Shonky
 
-Shonky is a House and Minimal artist with 12 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at FVTVR, Paris on Tue, 10 Nov 2026.
+Shonky is a House and Minimal artist with 12 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at FVTVR, Paris on Tue, 10 Nov 2026.
 
 Shonky is a house and minimal artist based in France, with 257 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 76 more. Often billed alongside Dyed Soundorom, Dan Ghenacia and Apollonia. Next up: FVTVR, Paris on Tue 10 Nov.
 
@@ -36,4 +36,4 @@ Shonky is a house and minimal artist based in France, with 257 gigs on soundchec
 
 Dyed Soundorom, Dan Ghenacia, Apollonia
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shonky/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shonky/)*

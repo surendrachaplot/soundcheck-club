@@ -1,6 +1,6 @@
 # Ben Santiago
 
-Ben Santiago is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Palm House, Liverpool on Sat, 6 Feb 2027.
+Ben Santiago is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Palm House, Liverpool on Sat, 6 Feb 2027.
 
 Ben Santiago is a house and trance artist based in Spain, with 23 gigs on soundcheck across Amsterdam, Birmingham, Edinburgh and Ibiza and 2 more. Often billed alongside Lovely Laura, Bongo Ben and Jason Bye. Next up: Palm House, Liverpool on Sat 6 Feb.
 
@@ -25,4 +25,4 @@ Ben Santiago is a house and trance artist based in Spain, with 23 gigs on soundc
 
 Lovely Laura, Bongo Ben, Jason Bye
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bensantiago/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bensantiago/)*

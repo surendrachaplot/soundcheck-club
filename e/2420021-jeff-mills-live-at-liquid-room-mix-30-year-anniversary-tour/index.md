@@ -1,6 +1,6 @@
 # Jeff Mills Live at Liquid Room Mix 30 Year Anniversary Tour. Medellín, Colombia at Plaza Mayor Medellin
 
-Jeff Mills Live at Liquid Room Mix 30 Year Anniversary Tour. Medellín, Colombia at Plaza Mayor Medellin on Sat 14 Nov, Medellin. 2 artists: Jeff Mills and Merino. Techno. See the line-up on soundcheck.
+Jeff Mills Live at Liquid Room Mix 30 Year Anniversary Tour. Medellín, Colombia at Plaza Mayor Medellin on Sat 14 Nov, Medellin. 3 artists: Jeff Mills, Lars Huismann and Merino. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Jeff Mills Live at Liquid Room Mix 30 Year Anniversary Tour. Medellín, Colombia
 ## Line-up
 
 - Jeff Mills
+- Lars Huismann
 - Merino
 
 *Source: [soundcheck](https://soundcheck.club/e/2420021-jeff-mills-live-at-liquid-room-mix-30-year-anniversary-tour/)*

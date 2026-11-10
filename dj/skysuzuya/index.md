@@ -1,6 +1,6 @@
 # sky suzuya
 
-sky suzuya is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Off The Cuff, London on Tue, 10 Nov 2026.
+sky suzuya is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Off The Cuff, London on Tue, 10 Nov 2026.
 
 sky suzuya is an experimental and bass artist based in United Kingdom, with 4 gigs on soundcheck across London. Often billed alongside bloodonmybalmains, DJ KIK0 and $kirmish. Next up: Off The Cuff, London on Tue 10 Nov.
 
@@ -20,4 +20,4 @@ sky suzuya is an experimental and bass artist based in United Kingdom, with 4 gi
 
 bloodonmybalmains, DJ KIK0, $kirmish
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skysuzuya/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skysuzuya/)*

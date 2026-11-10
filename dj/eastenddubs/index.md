@@ -1,8 +1,8 @@
 # East End Dubs
 
-East End Dubs is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at NX Newcastle, Newcastle on Fri, 13 Nov 2026.
+East End Dubs is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at NX Newcastle, Newcastle on Fri, 13 Nov 2026.
 
-East End Dubs is a house and tech house artist based in United Kingdom, with 294 gigs on soundcheck across Amsterdam, Antwerp, Austin and Austria and 55 more. Often billed alongside ALISHA, Max Dean and Jamback. Next up: NX Newcastle, Newcastle on Fri 13 Nov.
+East End Dubs is a house and tech house artist based in United Kingdom, with 295 gigs on soundcheck across Amsterdam, Antwerp, Austin and Austria and 55 more. Often billed alongside ALISHA, Max Dean and Jamback. Next up: NX Newcastle, Newcastle on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -18,6 +18,7 @@ East End Dubs is a house and tech house artist based in United Kingdom, with 294
 | Wed, 30 Dec 2026 | SWG3 | Glasgow |
 | Thu, 31 Dec 2026 | Esferic Bcn | Barcelona |
 | Fri, 1 Jan 2027 | KOKO | London |
+| Sat, 30 Jan 2027 | Bohemia Beach Club | Dubai |
 | Mon, 5 Apr 2027 | TBA - Mayrhofen, Austria | Austria |
 
 ## Recently played
@@ -35,4 +36,4 @@ East End Dubs is a house and tech house artist based in United Kingdom, with 294
 
 ALISHA, Max Dean, Jamback
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eastenddubs/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eastenddubs/)*

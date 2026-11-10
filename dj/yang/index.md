@@ -1,6 +1,6 @@
 # Yang
 
-Yang is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Warp Shinjuku, Tokyo on Sun, 15 Nov 2026.
+Yang is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Warp Shinjuku, Tokyo on Sun, 15 Nov 2026.
 
 Yang is a techno and trance artist, with 4 gigs on soundcheck across Bangkok, Hanoi and Tokyo. Often billed alongside Codeswitch, Derek Ryan and Kenno. Next up: Warp Shinjuku, Tokyo on Sun 15 Nov.
 
@@ -20,4 +20,4 @@ Yang is a techno and trance artist, with 4 gigs on soundcheck across Bangkok, Ha
 
 Codeswitch, Derek Ryan, Kenno
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yang/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yang/)*

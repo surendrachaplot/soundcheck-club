@@ -1,6 +1,6 @@
 # Omar Sherif
 
-Omar Sherif is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Steelyard Kelham, Sheffield on Sat, 12 Jun 2027.
+Omar Sherif is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Steelyard Kelham, Sheffield on Sat, 12 Jun 2027.
 
 Omar Sherif is a house and techno artist, with 4 gigs on soundcheck across Berlin and Sheffield. Often billed alongside .JKM, Aidan and Akirahawks. Next up: Steelyard Kelham, Sheffield on Sat 12 Jun.
 
@@ -20,4 +20,4 @@ Omar Sherif is a house and techno artist, with 4 gigs on soundcheck across Berli
 
 .JKM, Aidan, Akirahawks
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/omarsherif/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/omarsherif/)*

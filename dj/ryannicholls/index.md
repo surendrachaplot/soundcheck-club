@@ -1,14 +1,15 @@
 # Ryan Nicholls
 
-Ryan Nicholls is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 20 Nov 2026.
+Ryan Nicholls is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 20 Nov 2026.
 
-Ryan Nicholls is a house and tech house artist based in United Kingdom, with 34 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Edinburgh and 9 more. Often billed alongside Fleur Shore, Josh Gregg and Ryan Resso. Next up: Depot Mayfield, Manchester on Fri 20 Nov.
+Ryan Nicholls is a house and tech house artist based in United Kingdom, with 35 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Edinburgh and 9 more. Often billed alongside Fleur Shore, Josh Gregg and Ryan Resso. Next up: Depot Mayfield, Manchester on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Depot Mayfield | Manchester |
+| Sat, 5 Dec 2026 | The Nest | Nottingham |
 | Sat, 12 Dec 2026 | The Pitt Market | Edinburgh |
 | Fri, 1 Jan 2027 | KOKO | London |
 
@@ -27,4 +28,4 @@ Ryan Nicholls is a house and tech house artist based in United Kingdom, with 34 
 
 Fleur Shore, Josh Gregg, Ryan Resso
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryannicholls/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryannicholls/)*

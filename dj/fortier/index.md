@@ -1,6 +1,6 @@
 # Fortier
 
-Fortier is a Techno and Gabber artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Pulquería Vacas Verdes, Mexico City on Sat, 12 Dec 2026.
+Fortier is a Techno and Gabber artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Pulquería Vacas Verdes, Mexico City on Sat, 12 Dec 2026.
 
 Fortier is a techno and gabber artist based in Mexico, with 6 gigs on soundcheck across Mexico City. Often billed alongside Mr. Increible, Ivxn and Alcala. Next up: Pulquería Vacas Verdes, Mexico City on Sat 12 Dec.
 
@@ -22,4 +22,4 @@ Fortier is a techno and gabber artist based in Mexico, with 6 gigs on soundcheck
 
 Mr. Increible, Ivxn, Alcala
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fortier/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fortier/)*

@@ -1,6 +1,6 @@
 # Hush & Sleep
 
-Hush & Sleep is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at DEX, Moscow on Fri, 11 Dec 2026.
+Hush & Sleep is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at DEX, Moscow on Fri, 11 Dec 2026.
 
 Hush & Sleep are a techno and industrial duo, with 5 gigs on soundcheck across Amsterdam, Antwerp, Geneva and Moscow and 1 more. Often billed alongside KETTING, ALOD and Ahl Iver. Next up: DEX, Moscow on Fri 11 Dec.
 
@@ -21,4 +21,4 @@ Hush & Sleep are a techno and industrial duo, with 5 gigs on soundcheck across A
 
 KETTING, ALOD, Ahl Iver
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hushsleep/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hushsleep/)*

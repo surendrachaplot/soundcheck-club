@@ -1,6 +1,6 @@
 # Franta Masakr
 
-Franta Masakr is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Husitská 22, Prague on Fri, 20 Nov 2026.
+Franta Masakr is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Husitská 22, Prague on Fri, 20 Nov 2026.
 
 Franta Masakr is a psytrance and techno artist, with 7 gigs on soundcheck across Prague. Often billed alongside 2NDRA, DAVIDOFFWHITE and Nøteleks. Next up: Husitská 22, Prague on Fri 20 Nov.
 
@@ -23,4 +23,4 @@ Franta Masakr is a psytrance and techno artist, with 7 gigs on soundcheck across
 
 2NDRA, DAVIDOFFWHITE, Nøteleks
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frantamasakr/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frantamasakr/)*

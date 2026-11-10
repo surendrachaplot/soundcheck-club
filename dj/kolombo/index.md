@@ -1,6 +1,6 @@
 # Kolombo
 
-Kolombo is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at D-EDGE, Sao Paulo on Thu, 19 Nov 2026.
+Kolombo is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at D-EDGE, Sao Paulo on Thu, 19 Nov 2026.
 
 Kolombo is a house and tech house artist, with 21 gigs on soundcheck across Auckland, Barcelona, Brisbane and Buenos Aires and 7 more. Often billed alongside Fran Bortolossi, Dyed Soundorom and Franco Cinelli. Next up: D-EDGE, Sao Paulo on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Kolombo is a house and tech house artist, with 21 gigs on soundcheck across Auck
 
 Fran Bortolossi, Dyed Soundorom, Franco Cinelli
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kolombo/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kolombo/)*

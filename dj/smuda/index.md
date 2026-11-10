@@ -1,6 +1,6 @@
 # Smuda
 
-Smuda is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Frieda's Büxe, Zurich on Sat, 21 Nov 2026.
+Smuda is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Frieda's Büxe, Zurich on Sat, 21 Nov 2026.
 
 Smuda is a techno and house artist based in Switzerland, with 6 gigs on soundcheck across Berlin and Zurich. Often billed alongside CATALUNA, Caniche and Cortez. Next up: Frieda's Büxe, Zurich on Sat 21 Nov.
 
@@ -22,4 +22,4 @@ Smuda is a techno and house artist based in Switzerland, with 6 gigs on soundche
 
 CATALUNA, Caniche, Cortez (2)
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/smuda/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/smuda/)*

@@ -1,6 +1,6 @@
 # Dan Shake
 
-Dan Shake is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at DRUMSHEDS, London on Fri, 13 Nov 2026.
+Dan Shake is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at DRUMSHEDS, London on Fri, 13 Nov 2026.
 
 Dan Shake is a house and disco artist based in United Kingdom, with 209 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Austria and 54 more. Often billed alongside Eliza Rose, MiNNA and Eats Everything. Next up: DRUMSHEDS, London on Fri 13 Nov.
 
@@ -29,4 +29,4 @@ Dan Shake is a house and disco artist based in United Kingdom, with 209 gigs on 
 
 Eliza Rose, MiNNA, Eats Everything
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danshake/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danshake/)*

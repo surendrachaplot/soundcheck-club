@@ -1,6 +1,6 @@
 # Forno
 
-Forno is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Spkrbox, Detroit on Thu, 12 Nov 2026.
+Forno is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Spkrbox, Detroit on Thu, 12 Nov 2026.
 
 Forno is a house and techno artist based in United States of America, with 9 gigs on soundcheck across Detroit and Munich. Often billed alongside Garrison XR, Artwork and Detroit Techno Militia 2x4. Next up: Spkrbox, Detroit on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Forno is a house and techno artist based in United States of America, with 9 gig
 
 Garrison XR, Artwork, Detroit Techno Militia 2x4
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/forno/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/forno/)*

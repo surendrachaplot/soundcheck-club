@@ -1,6 +1,6 @@
 # LJO HA
 
-LJO HA is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at 1983, Riga on Fri, 11 Dec 2026.
+LJO HA is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at 1983, Riga on Fri, 11 Dec 2026.
 
 LJO HA is an electronica and techno artist based in Latvia, with 6 gigs on soundcheck across Riga. Often billed alongside Radiotehnika, 2B and A$PHYXXXÏA. Next up: 1983, Riga on Fri 11 Dec.
 
@@ -22,4 +22,4 @@ LJO HA is an electronica and techno artist based in Latvia, with 6 gigs on sound
 
 Radiotehnika, 2B (1), A$PHYXXXÏA
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ljoha/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ljoha/)*

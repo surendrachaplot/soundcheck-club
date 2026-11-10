@@ -1,6 +1,6 @@
 # Glamorama
 
-Glamorama is a music venue in Melbourne with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Interval - Stef Davidse [NL]" on Fri, 13 Nov 2026.
+Glamorama is a music venue in Melbourne with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Interval - Stef Davidse [NL]" on Fri, 13 Nov 2026.
 
 Glamorama is a music venue in Melbourne listed on soundcheck. 3 upcoming gigs, with line-ups including Elias Mazian and Stef Davidse. See dates, start times and who's playing. 393 Brunswick street, Fitzroy, Victoria 3065.
 
@@ -16,4 +16,4 @@ Glamorama is a music venue in Melbourne listed on soundcheck. 3 upcoming gigs, w
 
 393 Brunswick street, Fitzroy, Victoria 3065, Melbourne
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/glamorama/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/glamorama/)*

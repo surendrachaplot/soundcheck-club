@@ -1,6 +1,6 @@
 # Haus der Visionäre
 
-Haus der Visionäre is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "HOUSE OF PLAMORË - GRIEF EROTICS - SALON SERIES 3" on Wed, 11 Nov 2026.
+Haus der Visionäre is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "HOUSE OF PLAMORË - GRIEF EROTICS - SALON SERIES 3" on Wed, 11 Nov 2026.
 
 Haus der Visionäre is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including EROS IN FURS, Gudrun Gut, Kabeaushé and Manta and 2 more. See dates, start times and who's playing. Eichenstr. 4a, 12435 Berlin.
 
@@ -16,4 +16,4 @@ Haus der Visionäre is a music venue in Berlin listed on soundcheck. 3 upcoming 
 
 Eichenstr. 4a, 12435 Berlin, Berlin
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/haus-der-vision-re/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/haus-der-vision-re/)*

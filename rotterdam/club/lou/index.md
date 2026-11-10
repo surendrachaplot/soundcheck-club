@@ -1,8 +1,8 @@
 # LOU
 
-LOU is a music venue in Rotterdam with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "LOU w. Bouk Liúw" on Fri, 13 Nov 2026.
+LOU is a music venue in Rotterdam with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "LOU w. Bouk Liúw" on Fri, 13 Nov 2026.
 
-LOU is a music venue in Rotterdam listed on soundcheck. 4 upcoming gigs, with line-ups including Bouk Liúw. See dates, start times and who's playing. Benthuizerstraat 94A,  3035 CR, Rotterdam, The Netherlands.
+LOU is a music venue in Rotterdam listed on soundcheck. 5 upcoming gigs, with line-ups including Bouk Liúw and DJ Tjizza. See dates, start times and who's playing. Benthuizerstraat 94A,  3035 CR, Rotterdam, The Netherlands.
 
 ## What's on
 
@@ -12,9 +12,10 @@ LOU is a music venue in Rotterdam listed on soundcheck. 4 upcoming gigs, with li
 | Sat, 14 Nov 2026 | LOU w. Uncle P |  |
 | Fri, 20 Nov 2026 | LOU w. Yutte |  |
 | Sat, 21 Nov 2026 | LOU w. Onitsown |  |
+| Sat, 28 Nov 2026 | Latebloomers gathering of the crews | DJ Tjizza |
 
 ## Address
 
 Benthuizerstraat 94A,  3035 CR, Rotterdam, The Netherlands, Rotterdam
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/lou/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/lou/)*

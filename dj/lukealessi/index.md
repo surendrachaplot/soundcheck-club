@@ -1,8 +1,8 @@
 # Luke Alessi
 
-Luke Alessi is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
+Luke Alessi is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
 
-Luke Alessi is a house and techno artist based in Australia, with 131 gigs on soundcheck across Amsterdam, Austin, Bangkok and Belgrade and 43 more. Often billed alongside Jordan Brando, DJ Tennis and William Kiss. Next up: The Concourse Project, Austin on Fri 13 Nov.
+Luke Alessi is a house and techno artist based in Australia, with 132 gigs on soundcheck across Amsterdam, Austin, Australian Capital Territory and Bangkok and 44 more. Often billed alongside Jordan Brando, DJ Tennis and William Kiss. Next up: The Concourse Project, Austin on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Luke Alessi is a house and techno artist based in Australia, with 131 gigs on so
 | Fri, 13 Nov 2026 | 3oz Dive Club | San Diego |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 | Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
+| Sat, 27 Feb 2027 | Thoroughbred Park | Australian-capital-territory |
 | Sun, 28 Feb 2027 | Ozone Reserve | Perth |
 | Sat, 6 Mar 2027 | Gateway Bridge Underpass | Brisbane |
 
@@ -30,4 +31,4 @@ Luke Alessi is a house and techno artist based in Australia, with 131 gigs on so
 
 Jordan Brando, DJ Tennis, William Kiss
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukealessi/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukealessi/)*

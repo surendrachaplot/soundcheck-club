@@ -1,6 +1,6 @@
 # Cchekoz
 
-Cchekoz is a Bass and Hard Drum artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
+Cchekoz is a Bass and Hard Drum artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
 
 Cchekoz is a bass and hard drum artist, with 4 gigs on soundcheck across Seoul and South Korea. Often billed alongside Adroit Joe, BASSKRAP and Bagagee Viphex13. Next up: TBA - Jacks Bar, South Korea on Sat 14 Nov.
 
@@ -20,4 +20,4 @@ Cchekoz is a bass and hard drum artist, with 4 gigs on soundcheck across Seoul a
 
 Adroit Joe, BASSKRAP, Bagagee Viphex13
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cchekoz/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cchekoz/)*

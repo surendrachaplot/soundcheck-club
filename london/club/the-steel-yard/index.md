@@ -1,8 +1,8 @@
 # The Steel Yard
 
-The Steel Yard is a music venue in London with 13 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Bass Face // DNB, HOUSE:TECHNO, UKG // 360° LEVEL UP *SPECIAL GUESTS* FREE TICKETS + FREE DRINK" on Fri, 13 Nov 2026.
+The Steel Yard is a music venue in London with 14 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Bass Face // DNB, HOUSE:TECHNO, UKG // 360° LEVEL UP *SPECIAL GUESTS* FREE TICKETS + FREE DRINK" on Fri, 13 Nov 2026.
 
-The Steel Yard is a music venue in London listed on soundcheck. 13 upcoming gigs, with line-ups including CLEIDO, AfroKillerz, Arrosa and Bassface and 2 more. See dates, start times and who's playing. 13-16 Allhallows Lane, London, EC4R 3UL.
+The Steel Yard is a music venue in London listed on soundcheck. 14 upcoming gigs, with line-ups including CLEIDO, AfroKillerz, Arrosa and Ashley Knights and 2 more. See dates, start times and who's playing. 13-16 Allhallows Lane, London, EC4R 3UL.
 
 ## What's on
 
@@ -16,11 +16,11 @@ The Steel Yard is a music venue in London listed on soundcheck. 13 upcoming gigs
 | Fri, 4 Dec 2026 | Modestep Live | Modestep |
 | Sat, 5 Dec 2026 | Crossy presents: The Breakthrough - London | Crossy |
 | Sat, 5 Dec 2026 | Housework presents Bad Santa 5 | Erik Hagleton, John Jones, K-Klass |
+| Sat, 19 Dec 2026 | Back 2 Back Sessions: Christmas Sessions | Ashley Knights, Iwizz, JAYDAA, K.Coleman |
 | Sat, 26 Dec 2026 | Inked Ldn ( Free Tickets ) |  |
-| Thu, 31 Dec 2026 | My House - NYE | Dean Lambert, Dolly Rockers, Lizzie Curious, Seb Fontaine |
 
 ## Address
 
 13-16 Allhallows Lane, London, EC4R 3UL, London
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-steel-yard/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-steel-yard/)*

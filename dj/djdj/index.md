@@ -1,6 +1,6 @@
 # DJ DJ
 
-DJ DJ is a Hip-Hop and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Veronica Schip, Amsterdam on Sat, 12 Dec 2026.
+DJ DJ is a Hip-Hop and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Veronica Schip, Amsterdam on Sat, 12 Dec 2026.
 
 DJ DJ is a hip-hop and club artist based in Germany, with 4 gigs on soundcheck across Amsterdam, Dortmund / Essen, Philadelphia and Tokyo. Often billed alongside BLACKMDNA, Bae Blade and DJ VIC. Next up: Veronica Schip, Amsterdam on Sat 12 Dec.
 
@@ -20,4 +20,4 @@ DJ DJ is a hip-hop and club artist based in Germany, with 4 gigs on soundcheck a
 
 BLACKMDNA, Bae Blade, DJ VIC
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdj/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdj/)*

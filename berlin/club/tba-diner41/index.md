@@ -1,6 +1,6 @@
 # TBA - Diner41
 
-TBA - Diner41 is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. The next is "ohr's people through music dinner" on Thu, 26 Nov 2026.
+TBA - Diner41 is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. The next is "ohr's people through music dinner" on Thu, 26 Nov 2026.
 
 TBA - Diner41 is a music venue in Berlin listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Diner41 is a music venue in Berlin listed on soundcheck. 1 upcoming gig. S
 | --- | --- | --- |
 | Thu, 26 Nov 2026 | ohr's people through music dinner |  |
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-diner41/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-diner41/)*

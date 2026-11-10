@@ -1,6 +1,6 @@
 # Oneman
 
-Oneman is a Garage and Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at M.O.T, London on Fri, 27 Nov 2026.
+Oneman is a Garage and Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at M.O.T, London on Fri, 27 Nov 2026.
 
 Oneman is a garage and bass artist based in United Kingdom, with 93 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Bristol and 14 more. Often billed alongside RIZ LA TEEF, Lu.Re and Flowdan. Next up: M.O.T, London on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Oneman is a garage and bass artist based in United Kingdom, with 93 gigs on soun
 
 RIZ LA TEEF, Lu.Re, Flowdan
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oneman/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oneman/)*

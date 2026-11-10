@@ -1,6 +1,6 @@
 # teller
 
-teller is a music venue in Seoul with 6 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Subtrance" on Fri, 13 Nov 2026.
+teller is a music venue in Seoul with 6 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Subtrance" on Fri, 13 Nov 2026.
 
 teller is a music venue in Seoul listed on soundcheck. 6 upcoming gigs, with line-ups including .2ndfloor, hcy., Ion Ludwig and Jongho and 2 more. See dates, start times and who's playing. B1, 39, Usadan-ro, Yongsan-gu, Seoul.
 
@@ -19,4 +19,4 @@ teller is a music venue in Seoul listed on soundcheck. 6 upcoming gigs, with lin
 
 B1, 39, Usadan-ro, Yongsan-gu, Seoul, Seoul
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/teller/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/teller/)*

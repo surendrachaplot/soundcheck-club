@@ -1,6 +1,6 @@
 # Club Wintercircus
 
-Club Wintercircus is a music venue in Ghent with 6 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Spreey x Ksawery Komputery ✱ Wintercircus - Arena & Club" on Tue, 10 Nov 2026.
+Club Wintercircus is a music venue in Ghent with 6 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Spreey x Ksawery Komputery ✱ Wintercircus - Arena & Club" on Tue, 10 Nov 2026.
 
 Club Wintercircus is a music venue in Ghent listed on soundcheck. 6 upcoming gigs, with line-ups including Max Cooper and Pongo. See dates, start times and who's playing. Miriam Makebaplein 2, 9000 Gent.
 
@@ -19,4 +19,4 @@ Club Wintercircus is a music venue in Ghent listed on soundcheck. 6 upcoming gig
 
 Miriam Makebaplein 2, 9000 Gent, Ghent
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/club-wintercircus/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/club-wintercircus/)*

@@ -1,8 +1,8 @@
 # Club Metro
 
-Club Metro is a music venue in Kyoto with 31 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "SPEEDER-X featuring MICHIYO YAGI" on Tue, 10 Nov 2026.
+Club Metro is a music venue in Kyoto with 32 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "SPEEDER-X featuring MICHIYO YAGI" on Tue, 10 Nov 2026.
 
-Club Metro is a music venue in Kyoto listed on soundcheck. 31 upcoming gigs, with line-ups including Alex Neri, Al Jones, Baldo and DJ Krush and 2 more. See dates, start times and who's playing. 82 Simodutsumicho, Kawabata Marutamachi, Sakyo-ku, Kyoto-shi, 606-8396 Japan.
+Club Metro is a music venue in Kyoto listed on soundcheck. 32 upcoming gigs, with line-ups including Alex Neri, Al Jones, Baldo and DJ Krush and 2 more. See dates, start times and who's playing. 82 Simodutsumicho, Kawabata Marutamachi, Sakyo-ku, Kyoto-shi, 606-8396 Japan.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Club Metro is a music venue in Kyoto listed on soundcheck. 31 upcoming gigs, wit
 
 82 Simodutsumicho, Kawabata Marutamachi, Sakyo-ku, Kyoto-shi, 606-8396 Japan, Kyoto
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/club-metro/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/club-metro/)*

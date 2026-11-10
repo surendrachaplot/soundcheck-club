@@ -1,6 +1,6 @@
 # Gingerino's Pizza
 
-Gingerino's Pizza is a music venue in Newcastle with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Public House Hifi presents Diz and Vins (Public House Residents)" on Sat, 14 Nov 2026.
+Gingerino's Pizza is a music venue in Newcastle with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Public House Hifi presents Diz and Vins (Public House Residents)" on Sat, 14 Nov 2026.
 
 Gingerino's Pizza is a music venue in Newcastle listed on soundcheck. 3 upcoming gigs, with line-ups including Diz Jockey, Mr Scruff, Sam Don and Vinny Vins. See dates, start times and who's playing. 8 Stepney Bank, Newcastle upon Tyne NE1 2PW.
 
@@ -16,4 +16,4 @@ Gingerino's Pizza is a music venue in Newcastle listed on soundcheck. 3 upcoming
 
 8 Stepney Bank, Newcastle upon Tyne NE1 2PW, Newcastle
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/gingerino-s-pizza/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/gingerino-s-pizza/)*

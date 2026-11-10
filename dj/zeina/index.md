@@ -1,6 +1,6 @@
 # Zeina
 
-Zeina is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Lions Den, Miami on Fri, 13 Nov 2026.
+Zeina is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Lions Den, Miami on Fri, 13 Nov 2026.
 
 Zeina is a house and techno artist based in Egypt, with 54 gigs on soundcheck across Amsterdam, Berlin, Boston and Colombia and 16 more. Often billed alongside O.BEE, Mari.te and Omar Fayyad. Next up: Lions Den, Miami on Fri 13 Nov.
 
@@ -31,4 +31,4 @@ Zeina is a house and techno artist based in Egypt, with 54 gigs on soundcheck ac
 
 O.BEE, Mari.te, Omar Fayyad
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zeina/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zeina/)*

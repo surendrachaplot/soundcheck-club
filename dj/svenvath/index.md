@@ -1,8 +1,8 @@
 # Sven Vath
 
-Sven Vath is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Deseo BS AS, Buenos Aires on Fri, 13 Nov 2026.
+Sven Vath is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Deseo BS AS, Buenos Aires on Fri, 13 Nov 2026.
 
-Sven Vath is a techno and house artist based in Germany, with 256 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 64 more. Often billed alongside Maurizio Schmitz, Richie Hawtin and Nina Kraviz. Next up: Deseo BS AS, Buenos Aires on Fri 13 Nov.
+Sven Vath is a techno and house artist based in Germany, with 257 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 65 more. Often billed alongside Maurizio Schmitz, Richie Hawtin and Nina Kraviz. Next up: Deseo BS AS, Buenos Aires on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -15,11 +15,11 @@ Sven Vath is a techno and house artist based in Germany, with 256 gigs on soundc
 | Fri, 20 Nov 2026 | Duggal Greenhouse | New York City |
 | Fri, 20 Nov 2026 | TBA | Buenos Aires |
 | Sat, 28 Nov 2026 | Ampere | Antwerp |
+| Fri, 4 Dec 2026 | Document | Bristol |
 | Sat, 5 Dec 2026 | DRUMSHEDS | London |
 | Fri, 11 Dec 2026 | Pacha | Munich |
 | Sat, 12 Dec 2026 | Lofi | Amsterdam |
 | Thu, 31 Dec 2026 | WOMB | Tokyo |
-| Sat, 3 Apr 2027 | Maimarkthalle | Mannheim |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Sven Vath is a techno and house artist based in Germany, with 256 gigs on soundc
 
 Maurizio Schmitz, Richie Hawtin, Nina Kraviz
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/svenvath/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/svenvath/)*

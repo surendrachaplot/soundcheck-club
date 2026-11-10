@@ -1,6 +1,6 @@
 # NAXIN
 
-NAXIN is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Pillbox Beijing, Beijing on Fri, 20 Nov 2026.
+NAXIN is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Pillbox Beijing, Beijing on Fri, 20 Nov 2026.
 
 NAXIN is a techno and house artist based in China, with 29 gigs on soundcheck across Beijing, Belgrade, Milan and Shanghai and 1 more. Often billed alongside Ma Haiping, Shanghai Ultra and Ecilo. Next up: Pillbox Beijing, Beijing on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ NAXIN is a techno and house artist based in China, with 29 gigs on soundcheck ac
 
 Ma Haiping, Shanghai Ultra, Ecilo
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/naxin/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/naxin/)*

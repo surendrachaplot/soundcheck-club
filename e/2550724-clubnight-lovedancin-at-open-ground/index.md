@@ -1,6 +1,6 @@
 # Clubnight - LOVEDANCIN' at Open Ground
 
-Clubnight - LOVEDANCIN' at Open Ground on Sat 12 Dec, Wuppertal. 2 artists: Louie Vega and Tom Kutsche. See the line-up on soundcheck.
+Clubnight - LOVEDANCIN' at Open Ground on Sat 12 Dec, Wuppertal. 4 artists: Louie Vega, Sandilé, Sebastian Habben and Tom Kutsche. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,8 @@ Clubnight - LOVEDANCIN' at Open Ground on Sat 12 Dec, Wuppertal. 2 artists: Loui
 ## Line-up
 
 - Louie Vega
+- Sandilé
+- Sebastian Habben
 - Tom Kutsche
 
 *Source: [soundcheck](https://soundcheck.club/e/2550724-clubnight-lovedancin-at-open-ground/)*

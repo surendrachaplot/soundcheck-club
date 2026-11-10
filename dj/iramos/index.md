@@ -1,6 +1,6 @@
 # ira mos
 
-ira mos is a Minimal and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Mastak, Warsaw on Fri, 13 Nov 2026.
+ira mos is a Minimal and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Mastak, Warsaw on Fri, 13 Nov 2026.
 
 ira mos is a minimal and experimental artist based in Poland, with 16 gigs on soundcheck across Krakow, Tbilisi and Warsaw. Often billed alongside Shjva, Samogulov and Okravan. Next up: Mastak, Warsaw on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ ira mos is a minimal and experimental artist based in Poland, with 16 gigs on so
 
 Shjva, Samogulov, Okravan
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iramos/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iramos/)*

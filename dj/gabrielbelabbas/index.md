@@ -1,6 +1,6 @@
 # Gabriel Belabbas
 
-Gabriel Belabbas is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Rex Club, Paris on Tue, 10 Nov 2026.
+Gabriel Belabbas is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Rex Club, Paris on Tue, 10 Nov 2026.
 
 Gabriel Belabbas is a house and electro artist based in France, with 65 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 12 more. Often billed alongside Poggio, Massaï and Charlotte (FR). Next up: Rex Club, Paris on Tue 10 Nov.
 
@@ -25,4 +25,4 @@ Gabriel Belabbas is a house and electro artist based in France, with 65 gigs on 
 
 Poggio, Massaï, Charlotte (FR)
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielbelabbas/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielbelabbas/)*

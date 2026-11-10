@@ -1,6 +1,6 @@
 # Spekki Webu
 
-Spekki Webu is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Signal, New York City on Fri, 13 Nov 2026.
+Spekki Webu is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Signal, New York City on Fri, 13 Nov 2026.
 
 Spekki Webu is a techno and house artist based in Netherlands, with 231 gigs on soundcheck across Amsterdam, Athens, Auckland and Baltimore and 55 more. Often billed alongside Mama Snake, OCCA and Feral. Next up: Signal, New York City on Fri 13 Nov.
 
@@ -32,4 +32,4 @@ Spekki Webu is a techno and house artist based in Netherlands, with 231 gigs on 
 
 Mama Snake, OCCA, Feral
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spekkiwebu/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spekkiwebu/)*

@@ -1,6 +1,6 @@
 # 96 Degrees
 
-96 Degrees is a music venue in Manchester with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. The next is "Tropica" on Sat, 28 Nov 2026.
+96 Degrees is a music venue in Manchester with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. The next is "Tropica" on Sat, 28 Nov 2026.
 
 96 Degrees is a music venue in Manchester listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Tropica |  |
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/96-degrees/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/96-degrees/)*

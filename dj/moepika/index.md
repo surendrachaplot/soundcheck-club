@@ -1,14 +1,15 @@
 # MoEPiKA
 
-MoEPiKA is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Circus Tokyo, Tokyo on Sat, 14 Nov 2026.
+MoEPiKA is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Circus Tokyo, Tokyo on Sat, 14 Nov 2026.
 
-MoEPiKA is a techno and bass artist based in Japan, with 168 gigs on soundcheck across Osaka, Seoul and Tokyo. Often billed alongside YUVIE, ecec and Romy Mats. Next up: Circus Tokyo, Tokyo on Sat 14 Nov.
+MoEPiKA is a techno and bass artist based in Japan, with 169 gigs on soundcheck across Osaka, Seoul and Tokyo. Often billed alongside YUVIE, ecec and Romy Mats. Next up: Circus Tokyo, Tokyo on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Circus Tokyo | Tokyo |
+| Fri, 20 Nov 2026 | Modeci | Seoul |
 | Thu, 26 Nov 2026 | club asia | Tokyo |
 
 ## Recently played
@@ -26,4 +27,4 @@ MoEPiKA is a techno and bass artist based in Japan, with 168 gigs on soundcheck 
 
 YUVIE, ecec, Romy Mats
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moepika/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moepika/)*

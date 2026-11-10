@@ -1,6 +1,6 @@
 # j:me
 
-j:me is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 27 Nov 2026.
+j:me is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 27 Nov 2026.
 
 j:me is a tech house and house artist based in United Kingdom, with 39 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and Leeds and 2 more. Often billed alongside Jude Lenihan, Benji King and Phill de Janeiro. Next up: Depot Mayfield, Manchester on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ j:me is a tech house and house artist based in United Kingdom, with 39 gigs on s
 
 Jude Lenihan, Benji King, Phill de Janeiro
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jme/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jme/)*

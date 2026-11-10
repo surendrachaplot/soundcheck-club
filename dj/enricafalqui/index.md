@@ -1,6 +1,6 @@
 # Enrica Falqui
 
-Enrica Falqui is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Kater, Berlin on Sat, 14 Nov 2026.
+Enrica Falqui is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Kater, Berlin on Sat, 14 Nov 2026.
 
 Enrica Falqui is a techno and house artist based in Italy, with 135 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 46 more. Often billed alongside Dea, ERIS and Alexia Glensy. Next up: Kater, Berlin on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Enrica Falqui is a techno and house artist based in Italy, with 135 gigs on soun
 
 Dea (6), ERIS, Alexia Glensy
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enricafalqui/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enricafalqui/)*

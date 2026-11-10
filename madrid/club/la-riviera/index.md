@@ -1,6 +1,6 @@
 # La Riviera
 
-La Riviera is a music venue in Madrid with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Blackworks Skryption All Night Long" on Sat, 21 Nov 2026.
+La Riviera is a music venue in Madrid with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Blackworks Skryption All Night Long" on Sat, 21 Nov 2026.
 
 La Riviera is a music venue in Madrid listed on soundcheck. 3 upcoming gigs, with line-ups including Camo & Krooked, Daxta, Dexphase and Gabriella Bongo and 2 more. See dates, start times and who's playing. Paseo de la Virgen del Puerto, Madrid, España.
 
@@ -16,4 +16,4 @@ La Riviera is a music venue in Madrid listed on soundcheck. 3 upcoming gigs, wit
 
 Paseo de la Virgen del Puerto, Madrid, España, Madrid
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/la-riviera/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/la-riviera/)*

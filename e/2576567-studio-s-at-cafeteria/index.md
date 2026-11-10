@@ -1,6 +1,6 @@
 # Studio S at Cafeteria
 
-Studio S at Cafeteria on Sat 12 Dec, Toronto. 4 artists: Amedeo (CA), Blkvirgo, dj miss and lukeanthonybarry. House and Club. See the line-up on soundcheck.
+Studio S at Cafeteria on Sat 12 Dec, Toronto. 5 artists: Amedeo (CA), Blkvirgo, dj miss and lukeanthonybarry and 1 more. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,5 +14,6 @@ Studio S at Cafeteria on Sat 12 Dec, Toronto. 4 artists: Amedeo (CA), Blkvirgo, 
 - Blkvirgo
 - dj miss
 - lukeanthonybarry
+- R-ODERICK
 
 *Source: [soundcheck](https://soundcheck.club/e/2576567-studio-s-at-cafeteria/)*

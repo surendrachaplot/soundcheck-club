@@ -1,6 +1,6 @@
 # Milli
 
-Milli is a Club and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Colour Factory, London on Fri, 27 Nov 2026.
+Milli is a Club and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Colour Factory, London on Fri, 27 Nov 2026.
 
 Milli is a club and disco artist based in United Kingdom, with 71 gigs on soundcheck across Amsterdam, Austin, Berlin and Frankfurt and 3 more. Often billed alongside Anahita Shamsaei, RONISA and Rohan the producer. Next up: Colour Factory, London on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Milli is a club and disco artist based in United Kingdom, with 71 gigs on soundc
 
 Anahita Shamsaei, RONISA, Rohan the producer
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milli-uk/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milli-uk/)*

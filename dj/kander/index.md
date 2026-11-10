@@ -1,6 +1,6 @@
 # Kander
 
-Kander is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at E1, London on Fri, 13 Nov 2026.
+Kander is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at E1, London on Fri, 13 Nov 2026.
 
 Kander is a techno and trance artist based in United Kingdom, with 173 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Atlanta and 55 more. Often billed alongside Azyr, Faster Horses and SIKOTI. Next up: E1, London on Fri 13 Nov.
 
@@ -32,4 +32,4 @@ Kander is a techno and trance artist based in United Kingdom, with 173 gigs on s
 
 Azyr, Faster Horses, SIKOTI
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kander/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kander/)*

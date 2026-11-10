@@ -1,6 +1,6 @@
 # Fabiola
 
-Fabiola is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Podlasie Club, Chicago on Thu, 19 Nov 2026.
+Fabiola is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Podlasie Club, Chicago on Thu, 19 Nov 2026.
 
 Fabiola is a techno and acid artist, with 72 gigs on soundcheck across Berlin, Buenos Aires, Chicago and Detroit and 6 more. Often billed alongside Alexx in Chainss, Carozilla and DJ Etta (US). Next up: Podlasie Club, Chicago on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Fabiola is a techno and acid artist, with 72 gigs on soundcheck across Berlin, B
 
 Alexx in Chainss, Carozilla, DJ Etta (US)
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fabiola/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fabiola/)*

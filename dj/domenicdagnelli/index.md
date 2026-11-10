@@ -1,13 +1,14 @@
 # Domenic D'Agnelli
 
-Domenic D'Agnelli is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Fridas Pier, Stuttgart on Sat, 28 Nov 2026.
+Domenic D'Agnelli is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Pacha, Munich on Fri, 27 Nov 2026.
 
-Domenic D'Agnelli is a tech house and house artist based in Italy, with 23 gigs on soundcheck across Bangkok, Barcelona, Berlin and Cologne and 6 more. Often billed alongside Chris Di Perri, Matthias Tanzmann and Melanie Ribbe. Next up: Fridas Pier, Stuttgart on Sat 28 Nov.
+Domenic D'Agnelli is a tech house and house artist based in Italy, with 24 gigs on soundcheck across Bangkok, Barcelona, Berlin and Cologne and 6 more. Often billed alongside Chris Di Perri, Matthias Tanzmann and Melanie Ribbe. Next up: Pacha, Munich on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | Pacha | Munich |
 | Sat, 28 Nov 2026 | Fridas Pier | Stuttgart |
 
 ## Recently played
@@ -25,4 +26,4 @@ Domenic D'Agnelli is a tech house and house artist based in Italy, with 23 gigs 
 
 Chris Di Perri, Matthias Tanzmann, Melanie Ribbe
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/domenicdagnelli/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/domenicdagnelli/)*

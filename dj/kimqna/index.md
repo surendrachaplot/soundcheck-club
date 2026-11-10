@@ -1,6 +1,6 @@
 # Kim.Qna
 
-Kim.Qna is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Paper, Seoul on Fri, 27 Nov 2026.
+Kim.Qna is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Paper, Seoul on Fri, 27 Nov 2026.
 
 Kim.Qna is a techno and house artist based in South Korea, with 196 gigs on soundcheck across Bangkok, Beijing, Chengdu and Chongqing and 6 more. Often billed alongside Zeemen, DJ Funny and Gumi. Next up: Paper, Seoul on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Kim.Qna is a techno and house artist based in South Korea, with 196 gigs on soun
 
 Zeemen, DJ Funny, Gumi
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kimqna/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kimqna/)*

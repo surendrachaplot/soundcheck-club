@@ -1,6 +1,6 @@
 # Menjo's
 
-Menjo's is a music venue in Detroit with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. The next is "Sanctuary: Offering - 1 Year Anniversary" on Sat, 28 Nov 2026.
+Menjo's is a music venue in Detroit with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. The next is "Sanctuary: Offering - 1 Year Anniversary" on Sat, 28 Nov 2026.
 
 Menjo's is a music venue in Detroit listed on soundcheck. 1 upcoming gig, with line-ups including Misss.Mamasss, Amino, autogyro and Boyfriend Dick and 2 more. See dates, start times and who's playing. 928 W. McNichols Rd, Detroit, MI 48203.
 
@@ -14,4 +14,4 @@ Menjo's is a music venue in Detroit listed on soundcheck. 1 upcoming gig, with l
 
 928 W. McNichols Rd, Detroit, MI 48203, Detroit
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/menjo-s/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/menjo-s/)*

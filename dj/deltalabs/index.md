@@ -1,6 +1,6 @@
 # DELTA LABS
 
-DELTA LABS is a Psytrance and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at M-BIA, Berlin on Sat, 14 Nov 2026.
+DELTA LABS is a Psytrance and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at M-BIA, Berlin on Sat, 14 Nov 2026.
 
 DELTA LABS is a psytrance and techno artist based in Germany, with 36 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and London and 1 more. Often billed alongside Gourski, Enaly and LYNE. Next up: M-BIA, Berlin on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ DELTA LABS is a psytrance and techno artist based in Germany, with 36 gigs on so
 
 Gourski, Enaly, LYNE
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deltalabs/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deltalabs/)*

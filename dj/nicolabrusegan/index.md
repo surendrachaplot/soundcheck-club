@@ -1,13 +1,14 @@
 # Nicola Brusegan
 
-Nicola Brusegan is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at 303 Audiophile Bar, Barcelona on Sat, 28 Nov 2026.
+Nicola Brusegan is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Switch Bar, Barcelona on Fri, 27 Nov 2026.
 
-Nicola Brusegan is a house and minimal artist, with 4 gigs on soundcheck across Barcelona and Leeds. Often billed alongside Enzo Siragusa, Everything In Between and FRAXA. Next up: 303 Audiophile Bar, Barcelona on Sat 28 Nov.
+Nicola Brusegan is a house and minimal artist, with 5 gigs on soundcheck across Barcelona and Leeds. Often billed alongside Enzo Siragusa, Everything In Between and FRAXA. Next up: Switch Bar, Barcelona on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | Switch Bar | Barcelona |
 | Sat, 28 Nov 2026 | 303 Audiophile Bar | Barcelona |
 
 ## Recently played
@@ -20,4 +21,4 @@ Nicola Brusegan is a house and minimal artist, with 4 gigs on soundcheck across 
 
 Enzo Siragusa, Everything In Between, FRAXA
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolabrusegan/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolabrusegan/)*

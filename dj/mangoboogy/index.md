@@ -1,6 +1,6 @@
 # Mango Boogy
 
-Mango Boogy is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Distrikt, Leeds on Sat, 5 Dec 2026.
+Mango Boogy is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Distrikt, Leeds on Sat, 5 Dec 2026.
 
 Mango Boogy is a house and tech house artist based in United Kingdom, with 6 gigs on soundcheck across Leeds. Often billed alongside Cian Joy, Jartley and Arty. Next up: Distrikt, Leeds on Sat 5 Dec.
 
@@ -22,4 +22,4 @@ Mango Boogy is a house and tech house artist based in United Kingdom, with 6 gig
 
 Cian Joy, Jartley, Arty
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mangoboogy/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mangoboogy/)*

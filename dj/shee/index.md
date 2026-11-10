@@ -1,6 +1,6 @@
 # SHEE
 
-SHEE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Phonox, London on Fri, 11 Dec 2026.
+SHEE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Phonox, London on Fri, 11 Dec 2026.
 
 SHEE is a house and techno artist based in United Kingdom, with 56 gigs on soundcheck across Amsterdam, Belfast, Berlin and Brighton and 18 more. Often billed alongside Prospa, salute and DJ Heartstring. Next up: Phonox, London on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ SHEE is a house and techno artist based in United Kingdom, with 56 gigs on sound
 
 Prospa, salute, DJ Heartstring
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shee/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shee/)*

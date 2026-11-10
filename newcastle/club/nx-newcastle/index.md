@@ -1,6 +1,6 @@
 # NX Newcastle
 
-NX Newcastle is a music venue in Newcastle with 14 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "East End Dubs" on Fri, 13 Nov 2026.
+NX Newcastle is a music venue in Newcastle with 14 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "East End Dubs" on Fri, 13 Nov 2026.
 
 NX Newcastle is a music venue in Newcastle listed on soundcheck. 14 upcoming gigs, with line-ups including D.O.D., DREAD MC, East End Dubs and Ellie Scougall and 2 more. See dates, start times and who's playing. Westgate Road, Newcastle upon Tyne, Tyne and Wear, England, NE1 1SW, United Kingdom.
 
@@ -23,4 +23,4 @@ NX Newcastle is a music venue in Newcastle listed on soundcheck. 14 upcoming gig
 
 Westgate Road, Newcastle upon Tyne, Tyne and Wear, England, NE1 1SW, United Kingdom, Newcastle
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/nx-newcastle/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/nx-newcastle/)*

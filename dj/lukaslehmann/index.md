@@ -1,6 +1,6 @@
 # Lukas Lehmann
 
-Lukas Lehmann is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Galerie Kurzweil, Darmstadt on Fri, 13 Nov 2026.
+Lukas Lehmann is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Galerie Kurzweil, Darmstadt on Fri, 13 Nov 2026.
 
 Lukas Lehmann is a house and techno artist based in Germany, with 6 gigs on soundcheck across Berlin, Darmstadt, Frankfurt and Hamburg and 2 more. Often billed alongside Johannes Albert, Phonk D and Soundstream. Next up: Galerie Kurzweil, Darmstadt on Fri 13 Nov.
 
@@ -22,4 +22,4 @@ Lukas Lehmann is a house and techno artist based in Germany, with 6 gigs on soun
 
 Johannes Albert, Phonk D, Soundstream
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukaslehmann/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukaslehmann/)*

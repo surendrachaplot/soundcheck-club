@@ -1,6 +1,6 @@
 # Justine Perry
 
-Justine Perry is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at BASEMENT, New York City on Fri, 13 Nov 2026.
+Justine Perry is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at BASEMENT, New York City on Fri, 13 Nov 2026.
 
 Justine Perry is a techno and house artist based in France, with 186 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 56 more. Often billed alongside Paula Koski, Blasha & Allatt and Setaoc Mass. Next up: BASEMENT, New York City on Fri 13 Nov.
 
@@ -30,4 +30,4 @@ Justine Perry is a techno and house artist based in France, with 186 gigs on sou
 
 Paula Koski, Blasha & Allatt, Setaoc Mass
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/JustinePerry/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/JustinePerry/)*

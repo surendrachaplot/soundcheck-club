@@ -1,6 +1,6 @@
 # ACHIRI
 
-ACHIRI is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Z Maruyama, Tokyo on Thu, 12 Nov 2026.
+ACHIRI is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Z Maruyama, Tokyo on Thu, 12 Nov 2026.
 
 ACHIRI is a techno and house artist based in Japan, with 20 gigs on soundcheck across Tokyo. Often billed alongside MYUMA, YUVIE and DANA NADA. Next up: Z Maruyama, Tokyo on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ ACHIRI is a techno and house artist based in Japan, with 20 gigs on soundcheck a
 
 MYUMA, YUVIE, DANA NADA
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/achiri/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/achiri/)*

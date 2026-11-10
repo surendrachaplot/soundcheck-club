@@ -1,6 +1,6 @@
 # Ilses Erika
 
-Ilses Erika is a music venue in Leipzig with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Brotfabrik & Kernkraftoase" on Fri, 13 Nov 2026.
+Ilses Erika is a music venue in Leipzig with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Brotfabrik & Kernkraftoase" on Fri, 13 Nov 2026.
 
 Ilses Erika is a music venue in Leipzig listed on soundcheck. 3 upcoming gigs, with line-ups including DJ Cvntroller, Drommaro, EinfachWinter and Kalimanda and 2 more. See dates, start times and who's playing. Bernhard-Göringstr.127, 04277 Leipzig.
 
@@ -16,4 +16,4 @@ Ilses Erika is a music venue in Leipzig listed on soundcheck. 3 upcoming gigs, w
 
 Bernhard-Göringstr.127, 04277 Leipzig, Leipzig
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/ilses-erika/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/ilses-erika/)*

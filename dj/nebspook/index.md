@@ -1,6 +1,6 @@
 # Neb Spook
 
-Neb Spook is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Concept Haus, Manchester on Thu, 31 Dec 2026.
+Neb Spook is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Concept Haus, Manchester on Thu, 31 Dec 2026.
 
 Neb Spook is a house and techno artist based in United Kingdom, with 27 gigs on soundcheck across London and Manchester. Often billed alongside Olita (UK), Laimonas and Kian OK. Next up: Concept Haus, Manchester on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Neb Spook is a house and techno artist based in United Kingdom, with 27 gigs on 
 
 Olita (UK), Laimonas, Kian OK
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nebspook/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nebspook/)*

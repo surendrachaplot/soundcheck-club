@@ -1,6 +1,6 @@
 # Colin Chiddle
 
-Colin Chiddle is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Great Fulford, West-wales on Thu, 22 Jul 2027.
+Colin Chiddle is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Great Fulford, West-wales on Thu, 22 Jul 2027.
 
 Colin Chiddle is a house and techno artist based in United Kingdom, with 42 gigs on soundcheck across Barcelona, Brussels, Leeds and Lisbon and 5 more. Often billed alongside Raphael Carrau, DMC. and Onur Özer. Next up: Great Fulford, West Wales on Thu 22 Jul.
 
@@ -25,4 +25,4 @@ Colin Chiddle is a house and techno artist based in United Kingdom, with 42 gigs
 
 Raphael Carrau, DMC., Onur Özer
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/colinchiddle/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/colinchiddle/)*

@@ -1,6 +1,6 @@
 # Go Kitahara
 
-Go Kitahara is a Breakbeat and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Débris, Tokyo on Fri, 11 Dec 2026.
+Go Kitahara is a Breakbeat and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Débris, Tokyo on Fri, 11 Dec 2026.
 
 Go Kitahara is a breakbeat and garage artist based in Japan, with 7 gigs on soundcheck across Tokyo. Often billed alongside Pokaska, fvku and Medical. Next up: Débris, Tokyo on Fri 11 Dec.
 
@@ -23,4 +23,4 @@ Go Kitahara is a breakbeat and garage artist based in Japan, with 7 gigs on soun
 
 Pokaska, fvku, Medical
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gokitahara/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gokitahara/)*

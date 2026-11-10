@@ -1,6 +1,6 @@
 # Syback
 
-Syback is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Secret Location, Madrid on Fri, 20 Nov 2026.
+Syback is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Secret Location, Madrid on Fri, 20 Nov 2026.
 
 Syback is a techno artist based in United Kingdom, with 15 gigs on soundcheck across Athens, London and Madrid. Often billed alongside MILLI (IT), KRSDJ and Marotö. Next up: TBA - Secret Location, Madrid on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Syback is a techno artist based in United Kingdom, with 15 gigs on soundcheck ac
 
 MILLI (IT), KRSDJ, Marotö
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/syback/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/syback/)*

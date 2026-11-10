@@ -1,6 +1,6 @@
 # kafuka
 
-kafuka is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at West Harlem, Kyoto on Sun, 15 Nov 2026.
+kafuka is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at West Harlem, Kyoto on Sun, 15 Nov 2026.
 
 kafuka is a techno and house artist, with 46 gigs on soundcheck across Chicago, Kyoto, Osaka and Tokyo. Often billed alongside metome, Lhinen and Masahiko Takeda. Next up: West Harlem, Kyoto on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ kafuka is a techno and house artist, with 46 gigs on soundcheck across Chicago, 
 
 metome, Lhinen, Masahiko Takeda
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kafuka/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kafuka/)*

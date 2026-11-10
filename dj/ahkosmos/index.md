@@ -1,6 +1,6 @@
 # Ah! Kosmos
 
-Ah! Kosmos is a Experimental and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Wrocławski Klub Formaty, Wroclaw on Sat, 21 Nov 2026.
+Ah! Kosmos is a Experimental and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Wrocławski Klub Formaty, Wroclaw on Sat, 21 Nov 2026.
 
 Ah! Kosmos is an experimental and electro artist based in Turkey, with 4 gigs on soundcheck across Berlin, Montreal and Wroclaw. Often billed alongside Hainbach, Fennesz and Lillevan. Next up: Wrocławski Klub Formaty, Wroclaw on Sat 21 Nov.
 
@@ -20,4 +20,4 @@ Ah! Kosmos is an experimental and electro artist based in Turkey, with 4 gigs on
 
 Hainbach, Fennesz, Lillevan
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ahkosmos/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ahkosmos/)*

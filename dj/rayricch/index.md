@@ -1,6 +1,6 @@
 # RAY RICCH
 
-RAY RICCH is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Terminal Zero, Barcelona on Sat, 14 Nov 2026.
+RAY RICCH is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Terminal Zero, Barcelona on Sat, 14 Nov 2026.
 
 RAY RICCH is a tech house and house artist based in Spain, with 12 gigs on soundcheck across Barcelona, Lisbon and Madrid. Often billed alongside Cristian Gardeta, Daniel Chica and Alejo mata. Next up: Terminal Zero, Barcelona on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ RAY RICCH is a tech house and house artist based in Spain, with 12 gigs on sound
 
 Cristian Gardeta, Daniel Chica, Alejo mata
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rayricch/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rayricch/)*

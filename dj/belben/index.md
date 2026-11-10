@@ -1,14 +1,16 @@
 # Belben
 
-Belben is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Society, Brussels on Fri, 13 Nov 2026.
+Belben is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Society, Brussels on Tue, 10 Nov 2026.
 
-Belben is a house and techno artist, with 122 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Brussels. Often billed alongside MAKII, Fools Sound Machine and Maxim Lany. Next up: Society, Brussels on Fri 13 Nov.
+Belben is a house and techno artist, with 124 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Brussels. Often billed alongside MAKII, Fools Sound Machine and Maxim Lany. Next up: Society, Brussels on Tue 10 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Tue, 10 Nov 2026 | Society | Brussels |
 | Fri, 13 Nov 2026 | Society | Brussels |
+| Sat, 14 Nov 2026 | Society | Brussels |
 
 ## Recently played
 
@@ -25,4 +27,4 @@ Belben is a house and techno artist, with 122 gigs on soundcheck across Amsterda
 
 MAKII, Fools Sound Machine, Maxim Lany
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/belben/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/belben/)*

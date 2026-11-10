@@ -1,6 +1,6 @@
 # Ca$h Bandicoot
 
-Ca$h Bandicoot is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 18 Dec 2026.
+Ca$h Bandicoot is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 18 Dec 2026.
 
 Ca$h Bandicoot is a techno and club artist, with 16 gigs on soundcheck across London, Manila, New York City and Seattle and 1 more. Often billed alongside DJ WIFI, Jason Code and Sepha. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Ca$h Bandicoot is a techno and club artist, with 16 gigs on soundcheck across Lo
 
 DJ WIFI, Jason Code, Sepha
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cahbandicoot/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cahbandicoot/)*

@@ -1,6 +1,6 @@
 # Marc DePulse
 
-Marc DePulse is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA, Estado-de-m-xico on Sat, 28 Nov 2026.
+Marc DePulse is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA, Estado-de-m-xico on Sat, 28 Nov 2026.
 
 Marc DePulse is a techno and house artist based in Germany, with 42 gigs on soundcheck across Bali, Barcelona, Berlin and Brussels and 19 more. Often billed alongside Dirty Doering, Kamira and Robin Schellenberg. Next up: TBA, Estado De M Xico on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Marc DePulse is a techno and house artist based in Germany, with 42 gigs on soun
 
 Dirty Doering, Kamira, Robin Schellenberg
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcdepulse/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcdepulse/)*

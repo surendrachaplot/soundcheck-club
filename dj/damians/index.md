@@ -1,6 +1,6 @@
 # Damian S
 
-Damian S is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Transformator, Wroclaw on Sat, 9 Jan 2027.
+Damian S is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Transformator, Wroclaw on Sat, 9 Jan 2027.
 
 Damian S is a techno and progressive house artist based in United Kingdom, with 4 gigs on soundcheck across Warsaw and Wroclaw. Often billed alongside KATHARSIS, Lopez Dj and Diana d'Rouze. Next up: Transformator, Wroclaw on Sat 9 Jan.
 
@@ -20,4 +20,4 @@ Damian S is a techno and progressive house artist based in United Kingdom, with 
 
 KATHARSIS, Lopez Dj, Diana d'Rouze
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/damians/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/damians/)*

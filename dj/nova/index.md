@@ -1,14 +1,15 @@
 # Nova
 
-Nova is a Techno and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at club asia, Tokyo on Thu, 19 Nov 2026.
+Nova is a Techno and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at club asia, Tokyo on Thu, 19 Nov 2026.
 
-Nova is a techno and hip-hop artist based in United States of America, with 32 gigs on soundcheck across Aberdeen, Budapest, Copenhagen and Istanbul and 7 more. Often billed alongside Adexia, HERBS and HEX ELECTRONIX. Next up: club asia, Tokyo on Thu 19 Nov.
+Nova is a techno and hip-hop artist based in United States of America, with 33 gigs on soundcheck across Aberdeen, Budapest, Copenhagen and Glasgow and 8 more. Often billed alongside Adexia, HERBS and HEX ELECTRONIX. Next up: club asia, Tokyo on Thu 19 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 19 Nov 2026 | club asia | Tokyo |
+| Fri, 5 Feb 2027 | EXIT Glasgow | Glasgow |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Nova is a techno and hip-hop artist based in United States of America, with 32 g
 
 Adexia, HERBS, HEX ELECTRONIX
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nova/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nova/)*

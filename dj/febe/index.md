@@ -1,6 +1,6 @@
 # Febe
 
-Febe is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - El Gato 90's Club, Bogotá on Sat, 14 Nov 2026.
+Febe is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - El Gato 90's Club, Bogotá on Sat, 14 Nov 2026.
 
 Febe is a house and minimal artist based in Colombia, with 58 gigs on soundcheck across Bogotá, Colombia, Madrid and Medellin and 1 more. Often billed alongside Moscofly, Bettels and Jan Nachtigall. Next up: TBA - El Gato 90's Club, Bogotá on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Febe is a house and minimal artist based in Colombia, with 58 gigs on soundcheck
 
 Moscofly, Bettels, Jan Nachtigall
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/febe/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/febe/)*

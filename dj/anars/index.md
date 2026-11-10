@@ -1,6 +1,6 @@
 # Ana Rs
 
-Ana Rs is a Techno and Experimental artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Sigma, Ibiza on Sat, 21 Nov 2026.
+Ana Rs is a Techno and Experimental artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Sigma, Ibiza on Sat, 21 Nov 2026.
 
 Ana Rs is a techno and experimental artist based in Montenegro, with 51 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Belgrade and 25 more. Often billed alongside CONCEPTUAL, MOE (LB) and ROPE. Next up: Sigma, Ibiza on Sat 21 Nov.
 
@@ -28,4 +28,4 @@ Ana Rs is a techno and experimental artist based in Montenegro, with 51 gigs on 
 
 CONCEPTUAL, MOE (LB), ROPE
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anars/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anars/)*

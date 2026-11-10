@@ -1,6 +1,6 @@
 # Partok
 
-Partok is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Studionotte, Milan on Sat, 14 Nov 2026.
+Partok is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Studionotte, Milan on Sat, 14 Nov 2026.
 
 Partok is a house and techno artist, with 132 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 43 more. Often billed alongside Roi Perez, David Elimelech and BASHKKA. Next up: Studionotte, Milan on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Partok is a house and techno artist, with 132 gigs on soundcheck across Amsterda
 
 Roi Perez, David Elimelech, BASHKKA
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/partok/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/partok/)*

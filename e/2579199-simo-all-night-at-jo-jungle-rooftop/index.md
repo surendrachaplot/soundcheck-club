@@ -1,6 +1,6 @@
 # Simo All Night at Joá Jungle Rooftop
 
-Simo All Night at Joá Jungle Rooftop on Sat 14 Nov, Rio de Janeiro. 1 artist: simo not simon. See the line-up on soundcheck.
+Simo All Night at Joá Jungle Rooftop on Sat 14 Nov, Rio de Janeiro. 1 artist: simo not simon. House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

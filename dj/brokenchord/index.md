@@ -1,6 +1,6 @@
 # Brokenchord
 
-Brokenchord is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Sodas 2123, Vilnius on Fri, 27 Nov 2026.
+Brokenchord is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Sodas 2123, Vilnius on Fri, 27 Nov 2026.
 
 Brokenchord is a house and techno artist based in Lithuania, with 16 gigs on soundcheck across Amsterdam, Berlin, Chengdu and London and 4 more. Often billed alongside Rosie Ama, A.Certo and Ajukaja and Ats. Next up: Sodas 2123, Vilnius on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Brokenchord is a house and techno artist based in Lithuania, with 16 gigs on sou
 
 Rosie Ama, A.Certo, Ajukaja and Ats
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brokenchord/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brokenchord/)*

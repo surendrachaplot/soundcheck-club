@@ -1,6 +1,6 @@
 # awhlkuhn
 
-awhlkuhn is a Dancehall and Club artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Worm, Rotterdam on Sat, 21 Nov 2026.
+awhlkuhn is a Dancehall and Club artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Worm, Rotterdam on Sat, 21 Nov 2026.
 
 awhlkuhn is a dancehall and club artist based in Netherlands, with 21 gigs on soundcheck across Amsterdam, Berlin, London and New York City and 2 more. Often billed alongside Shinshan Salazar, amara and Jarreau Vandal. Next up: Worm, Rotterdam on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ awhlkuhn is a dancehall and club artist based in Netherlands, with 21 gigs on so
 
 Shinshan Salazar, amara, Jarreau Vandal
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/awhlkuhn/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/awhlkuhn/)*

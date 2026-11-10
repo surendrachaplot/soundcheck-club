@@ -1,6 +1,6 @@
 # Bass Modulators
 
-Bass Modulators is a Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Club Hípico de Santiago, Santiago on Sat, 14 Nov 2026.
+Bass Modulators is a Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Club Hípico de Santiago, Santiago on Sat, 14 Nov 2026.
 
 Bass Modulators is an electronica artist, with 3 gigs on soundcheck across Madrid and Santiago. Often billed alongside Aaron Hibell, Act of Rage and Anfisa Letyago. Next up: Club Hípico de Santiago, Santiago on Sat 14 Nov.
 
@@ -19,4 +19,4 @@ Bass Modulators is an electronica artist, with 3 gigs on soundcheck across Madri
 
 Aaron Hibell, Act of Rage, Anfisa Letyago
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bassmodulators/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bassmodulators/)*

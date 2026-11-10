@@ -1,6 +1,6 @@
 # Michele Lopardo
 
-Michele Lopardo is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Duel Club, Naples on Fri, 13 Nov 2026.
+Michele Lopardo is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Duel Club, Naples on Fri, 13 Nov 2026.
 
 Michele Lopardo is a tech house and house artist based in Italy, with 9 gigs on soundcheck across Naples. Often billed alongside EKSPO, ALISHA and Aga. Next up: Duel Club, Naples on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Michele Lopardo is a tech house and house artist based in Italy, with 9 gigs on 
 
 EKSPO, ALISHA, Aga
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/michelelopardo/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/michelelopardo/)*

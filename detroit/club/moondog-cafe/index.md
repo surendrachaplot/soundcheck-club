@@ -1,6 +1,6 @@
 # Moondog Cafe
 
-Moondog Cafe is a music venue in Detroit with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "What Sounds I'm Sitting On" on Fri, 13 Nov 2026.
+Moondog Cafe is a music venue in Detroit with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "What Sounds I'm Sitting On" on Fri, 13 Nov 2026.
 
 Moondog Cafe is a music venue in Detroit listed on soundcheck. 4 upcoming gigs, with line-ups including Cody Hammer, Human Robot, OMO (US) and Wrcklés. See dates, start times and who's playing. 8045 Linwood St #2, Detroit, MI 48206.
 
@@ -17,4 +17,4 @@ Moondog Cafe is a music venue in Detroit listed on soundcheck. 4 upcoming gigs, 
 
 8045 Linwood St #2, Detroit, MI 48206, Detroit
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/moondog-cafe/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/moondog-cafe/)*

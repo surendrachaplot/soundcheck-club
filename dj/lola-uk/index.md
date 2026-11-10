@@ -1,8 +1,8 @@
 # Lola (UK)
 
-Lola (UK) is a Techno and Deep House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Prisma, Berlin on Tue, 24 Nov 2026.
+Lola (UK) is a Techno and Deep House artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Prisma, Berlin on Tue, 24 Nov 2026.
 
-Lola (UK) is a techno and deep house artist based in United Kingdom, with 21 gigs on soundcheck across Berlin, Brighton, London and Miami and 1 more. Often billed alongside POoK, Ross Harper and Cage. Next up: Prisma, Berlin on Tue 24 Nov.
+Lola (UK) is a techno and deep house artist based in United Kingdom, with 22 gigs on soundcheck across Berlin, Brighton, London and Miami and 1 more. Often billed alongside POoK, Ross Harper and Cage. Next up: Prisma, Berlin on Tue 24 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Lola (UK) is a techno and deep house artist based in United Kingdom, with 21 gig
 | --- | --- | --- |
 | Tue, 24 Nov 2026 | Prisma | Berlin |
 | Fri, 4 Dec 2026 | TAC (Tottenham Arts Collective) | London |
+| Fri, 4 Dec 2026 | Volks | Brighton |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Lola (UK) is a techno and deep house artist based in United Kingdom, with 21 gig
 
 POoK, Ross Harper, Cage (1)
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lola-uk/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lola-uk/)*

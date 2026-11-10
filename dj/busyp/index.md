@@ -1,6 +1,6 @@
 # Busy P
 
-Busy P is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Barcelona (Sónar by Day) & Fira Gran Via (Sónar by Night), Barcelona on Thu, 17 Jun 2027.
+Busy P is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Barcelona (Sónar by Day) & Fira Gran Via (Sónar by Night), Barcelona on Thu, 17 Jun 2027.
 
 Busy P is a house and electro artist based in France, with 56 gigs on soundcheck across Amsterdam, Barcelona, Bordeaux and Brussels and 16 more. Often billed alongside Tatyana Jane, Breakbot and Myd. Next up: TBA - Barcelona (Sónar by Day) & Fira Gran Via (Sónar by Night), Barcelona on Thu 17 Jun.
 
@@ -25,4 +25,4 @@ Busy P is a house and electro artist based in France, with 56 gigs on soundcheck
 
 Tatyana Jane, Breakbot, Myd
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/busyp/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/busyp/)*

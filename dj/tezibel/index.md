@@ -1,6 +1,6 @@
 # TEZIBEL
 
-TEZIBEL is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at SASS Music Club, Vienna on Sun, 15 Nov 2026.
+TEZIBEL is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at SASS Music Club, Vienna on Sun, 15 Nov 2026.
 
 TEZIBEL is a techno and electro artist based in Austria, with 50 gigs on soundcheck across Berlin, Munich, Vienna and Warsaw. Often billed alongside DJ Deadlift, DREYA and Katia Curie. Next up: SASS Music Club, Vienna on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ TEZIBEL is a techno and electro artist based in Austria, with 50 gigs on soundch
 
 DJ Deadlift, DREYA, Katia Curie
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tezibel/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tezibel/)*

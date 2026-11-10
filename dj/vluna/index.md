@@ -1,14 +1,15 @@
 # VLUNA
 
-VLUNA is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Westhafen, Leipzig on Tue, 17 Nov 2026.
+VLUNA is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Westhafen, Leipzig on Tue, 17 Nov 2026.
 
-VLUNA is a trance and techno artist based in Germany, with 63 gigs on soundcheck across Berlin, Dresden, Erfurt and Leipzig. Often billed alongside Raphus, CAVVØ and Scrappy Coco. Next up: Westhafen, Leipzig on Tue 17 Nov.
+VLUNA is a trance and techno artist based in Germany, with 64 gigs on soundcheck across Berlin, Dresden, Erfurt and Leipzig. Often billed alongside Raphus, CAVVØ and Scrappy Coco. Next up: Westhafen, Leipzig on Tue 17 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 17 Nov 2026 | Westhafen | Leipzig |
+| Sat, 19 Dec 2026 | elipamanoke | Leipzig |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ VLUNA is a trance and techno artist based in Germany, with 63 gigs on soundcheck
 
 Raphus, CAVVØ, Scrappy Coco
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vluna/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vluna/)*

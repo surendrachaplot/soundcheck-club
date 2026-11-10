@@ -1,6 +1,6 @@
 # slave to the rave at OIL Club
 
-slave to the rave at OIL Club on Sat 28 Nov, Shenzhen. 3 artists: DJ Godfather, Sulk and Wittes. Techno. See the line-up on soundcheck.
+slave to the rave at OIL Club on Sat 28 Nov, Shenzhen. 3 artists: DJ Godfather, Sulk and Wittes. Techno and Ghetto Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

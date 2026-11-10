@@ -1,6 +1,6 @@
 # David Harness
 
-David Harness is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Cardiff Lounge, San Francisco/Oakland on Fri, 20 Nov 2026.
+David Harness is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Cardiff Lounge, San Francisco/Oakland on Fri, 20 Nov 2026.
 
 David Harness is a house and deep house artist based in United States of America, with 75 gigs on soundcheck across Amsterdam, Detroit, Lisbon and London and 6 more. Often billed alongside Homero Espinosa, DJ M3 and nina sol. Next up: Cardiff Lounge, San Francisco/Oakland on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ David Harness is a house and deep house artist based in United States of America
 
 Homero Espinosa, DJ M3, nina sol
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidharness/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidharness/)*

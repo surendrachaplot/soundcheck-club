@@ -1,6 +1,6 @@
 # JAIROSKUN
 
-JAIROSKUN is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Underclub, Alicante on Fri, 13 Nov 2026.
+JAIROSKUN is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Underclub, Alicante on Fri, 13 Nov 2026.
 
 JAIROSKUN is a techno and trance artist, with 35 gigs on soundcheck across Alicante and Madrid. Often billed alongside Møstroh, JRG and Tasuik. Next up: Underclub, Alicante on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ JAIROSKUN is a techno and trance artist, with 35 gigs on soundcheck across Alica
 
 Møstroh, JRG, Tasuik
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jairoskun/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jairoskun/)*

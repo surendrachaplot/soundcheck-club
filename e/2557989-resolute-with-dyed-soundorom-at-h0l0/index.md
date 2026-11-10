@@ -12,7 +12,7 @@ ReSolute with Dyed Soundorom at H0L0 on Sat 14 Nov, New York City. 4 artists: CA
 
 - CAMILLA
 - Dyed Soundorom
-- Josefina Tapia
+- Josefina Tapia (2)
 - Shvili
 
 *Source: [soundcheck](https://soundcheck.club/e/2557989-resolute-with-dyed-soundorom-at-h0l0/)*

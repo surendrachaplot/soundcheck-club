@@ -1,6 +1,6 @@
 # Smirks
 
-Smirks is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Harmony Cafe, Toronto on Sat, 14 Nov 2026.
+Smirks is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Harmony Cafe, Toronto on Sat, 14 Nov 2026.
 
 Smirks is a house and tech house artist based in Canada, with 13 gigs on soundcheck across Toronto. Often billed alongside Julius Jordan, Burnin' Vernon and D.Mo. Next up: The Harmony Cafe, Toronto on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Smirks is a house and tech house artist based in Canada, with 13 gigs on soundch
 
 Julius Jordan, Burnin' Vernon, D.Mo
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/smirks/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/smirks/)*

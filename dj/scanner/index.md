@@ -1,6 +1,6 @@
 # Scanner
 
-Scanner is a Experimental and IDM artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Verdurin, London on Fri, 20 Nov 2026.
+Scanner is a Experimental and IDM artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Verdurin, London on Fri, 20 Nov 2026.
 
 Scanner is an experimental and idm artist based in United Kingdom, with 12 gigs on soundcheck across Barcelona, Bristol, Brussels and Lisbon and 3 more. Often billed alongside Air Liquide, Andrea Cichecki and BOW. Next up: Verdurin, London on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ Scanner is an experimental and idm artist based in United Kingdom, with 12 gigs 
 
 Air Liquide, Andrea Cichecki, BOW (1)
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scanner/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scanner/)*

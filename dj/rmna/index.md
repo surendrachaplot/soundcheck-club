@@ -1,6 +1,6 @@
 # RMNA
 
-RMNA is a Techno and Dub artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Fri, 13 Nov 2026.
+RMNA is a Techno and Dub artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Fri, 13 Nov 2026.
 
 RMNA is a techno and dub artist based in United States of America, with 16 gigs on soundcheck across Berlin, Detroit, Rome and San Francisco/Oakland. Often billed alongside Kudeki, Torsion and Neel. Next up: F8 1192 Folsom, San Francisco/Oakland on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ RMNA is a techno and dub artist based in United States of America, with 16 gigs 
 
 Kudeki, Torsion, Neel
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rmna/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rmna/)*

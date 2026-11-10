@@ -1,6 +1,6 @@
 # Alkemiss Erika
 
-Alkemiss Erika is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 13 Nov 2026.
+Alkemiss Erika is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 13 Nov 2026.
 
 Alkemiss Erika is a deep house and house artist based in United States of America, with 39 gigs on soundcheck across Miami and San Francisco/Oakland. Often billed alongside Reza Tabrizi, Joseph Lee and IZIK. Next up: The Great Northern, San Francisco/Oakland on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Alkemiss Erika is a deep house and house artist based in United States of Americ
 
 Reza Tabrizi, Joseph Lee, IZIK
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alkemisserika/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alkemisserika/)*

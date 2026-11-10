@@ -1,6 +1,6 @@
 # Prisma
 
-Prisma is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Klubkneipe x Tuesday Ritual Vulva Workshop" on Tue, 10 Nov 2026.
+Prisma is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Klubkneipe x Tuesday Ritual Vulva Workshop" on Tue, 10 Nov 2026.
 
 Prisma is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line-ups including Benua, Carl Conrad, D.Sociation and DJ Kodah and 2 more. See dates, start times and who's playing. Brückenstraße 1, 10179 Berlin.
 
@@ -23,4 +23,4 @@ Prisma is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with l
 
 Brückenstraße 1, 10179 Berlin, Berlin
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/prisma/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/prisma/)*

@@ -1,6 +1,6 @@
 # Thrilian
 
-Thrilian is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Mesmeric Sofia, Sofia on Fri, 27 Nov 2026.
+Thrilian is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Mesmeric Sofia, Sofia on Fri, 27 Nov 2026.
 
 Thrilian is a house and garage artist, with 4 gigs on soundcheck across Sofia. Often billed alongside Fewmurnz, Captain Wallop and DJ Perception. Next up: Mesmeric Sofia, Sofia on Fri 27 Nov.
 
@@ -20,4 +20,4 @@ Thrilian is a house and garage artist, with 4 gigs on soundcheck across Sofia. O
 
 Fewmurnz, Captain Wallop, DJ Perception
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thrilian/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thrilian/)*

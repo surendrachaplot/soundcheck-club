@@ -1,6 +1,6 @@
 # Pedro Costa
 
-Pedro Costa is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Club Madame, Porto on Sat, 14 Nov 2026.
+Pedro Costa is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Club Madame, Porto on Sat, 14 Nov 2026.
 
 Pedro Costa is a house and tech house artist, with 6 gigs on soundcheck across Porto and Turin. Often billed alongside Andy Caz, Pedro Tabuada and Reu.Ven. Next up: Club Madame, Porto on Sat 14 Nov.
 
@@ -22,4 +22,4 @@ Pedro Costa is a house and tech house artist, with 6 gigs on soundcheck across P
 
 Andy Caz, Pedro Tabuada, Reu.Ven
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pedrocosta/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pedrocosta/)*

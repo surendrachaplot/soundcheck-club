@@ -1,6 +1,6 @@
 # Malur
 
-Malur is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Jago, London on Fri, 11 Dec 2026.
+Malur is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Jago, London on Fri, 11 Dec 2026.
 
 Malur is a disco and house artist based in Italy, with 22 gigs on soundcheck across London, Paris and Rome. Often billed alongside ARLYSS, Edible and Groove Boys Project. Next up: The Jago, London on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Malur is a disco and house artist based in Italy, with 22 gigs on soundcheck acr
 
 ARLYSS, Edible, Groove Boys Project
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/malur/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/malur/)*

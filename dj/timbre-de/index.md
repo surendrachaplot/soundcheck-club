@@ -1,6 +1,6 @@
 # tim|bre
 
-tim|bre is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Kowalski, Stuttgart on Fri, 20 Nov 2026.
+tim|bre is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Kowalski, Stuttgart on Fri, 20 Nov 2026.
 
 tim|bre is a techno and tech house artist based in Germany, with 45 gigs on soundcheck across Stuttgart. Often billed alongside Molekularmusik, Alyne and Line. Next up: Kowalski, Stuttgart on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ tim|bre is a techno and tech house artist based in Germany, with 45 gigs on soun
 
 Molekularmusik, Alyne, Line
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/timbre-de/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/timbre-de/)*

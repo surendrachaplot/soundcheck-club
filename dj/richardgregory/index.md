@@ -1,6 +1,6 @@
 # Richard Gregory
 
-Richard Gregory is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Announced day of , New York City on Sat, 14 Nov 2026.
+Richard Gregory is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Announced day of , New York City on Sat, 14 Nov 2026.
 
 Richard Gregory is a techno and trance artist based in United Kingdom, with 49 gigs on soundcheck across Amsterdam, Berlin, Birmingham and Bristol and 8 more. Often billed alongside Carl H, Lora Mipsum and Inner Zone. Next up: TBA - Announced day of , New York City on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Richard Gregory is a techno and trance artist based in United Kingdom, with 49 g
 
 Carl H, Lora Mipsum, Inner Zone
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/richardgregory/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/richardgregory/)*

@@ -1,6 +1,6 @@
 # Ben Hamama
 
-Ben Hamama is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at 42 Marches, Paris on Fri, 11 Dec 2026.
+Ben Hamama is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at 42 Marches, Paris on Fri, 11 Dec 2026.
 
 Ben Hamama is a techno and house artist based in France, with 19 gigs on soundcheck across Paris, Strasbourg and Tokyo. Often billed alongside Ian Maur, Benales and Ismaël. Next up: 42 Marches, Paris on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Ben Hamama is a techno and house artist based in France, with 19 gigs on soundch
 
 Ian Maur, Benales, Ismaël
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benhamama/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benhamama/)*

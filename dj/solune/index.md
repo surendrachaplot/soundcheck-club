@@ -1,6 +1,6 @@
 # Solune
 
-Solune is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - 3.5 Hours West of Gadigal, Sydney on Fri, 11 Dec 2026.
+Solune is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - 3.5 Hours West of Gadigal, Sydney on Fri, 11 Dec 2026.
 
 Solune is a house and deep house artist based in Germany, with 4 gigs on soundcheck across Miami and Sydney. Often billed alongside Conosur, Jessy Nimni and Bouki. Next up: TBA - 3.5 Hours West of Gadigal, Sydney on Fri 11 Dec.
 
@@ -20,4 +20,4 @@ Solune is a house and deep house artist based in Germany, with 4 gigs on soundch
 
 Conosur, Jessy Nimni, Bouki
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/solune/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/solune/)*

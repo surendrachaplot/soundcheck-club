@@ -1,6 +1,6 @@
 # K.EULE
 
-K.EULE is a Techno and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Void Club, Berlin on Fri, 13 Nov 2026.
+K.EULE is a Techno and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Void Club, Berlin on Fri, 13 Nov 2026.
 
 K.EULE is a techno and drum & bass artist based in Germany, with 40 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Upzet, DE.fine and Aynaet. Next up: Void Club, Berlin on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ K.EULE is a techno and drum & bass artist based in Germany, with 40 gigs on soun
 
 Upzet, DE.fine, Aynaet
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/keule-de/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/keule-de/)*

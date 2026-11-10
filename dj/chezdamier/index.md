@@ -1,8 +1,8 @@
 # Chez Damier
 
-Chez Damier is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at MIDNIGHT EAST, Tokyo on Fri, 13 Nov 2026.
+Chez Damier is a House and Deep House artist with 6 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at MIDNIGHT EAST, Tokyo on Fri, 13 Nov 2026.
 
-Chez Damier is a house and deep house artist based in United States of America, with 163 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 53 more. Often billed alongside Eddie Leader, DJ Deep and Dennis Ferrer. Next up: MIDNIGHT EAST, Tokyo on Fri 13 Nov.
+Chez Damier is a house and deep house artist based in United States of America, with 164 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 54 more. Often billed alongside Eddie Leader, DJ Deep and Dennis Ferrer. Next up: MIDNIGHT EAST, Tokyo on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Chez Damier is a house and deep house artist based in United States of America, 
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | MIDNIGHT EAST | Tokyo |
 | Sat, 14 Nov 2026 | Tai Tong Organic Ecopark | Hong Kong |
+| Sat, 21 Nov 2026 | Modeci | Seoul |
 | Thu, 3 Dec 2026 | Lion's Den | Miami |
 | Fri, 11 Dec 2026 | Colour Factory | London |
 | Fri, 28 May 2027 | Peckham Rye Park | London |
@@ -29,4 +30,4 @@ Chez Damier is a house and deep house artist based in United States of America, 
 
 Eddie Leader, DJ Deep, Dennis Ferrer
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chezdamier/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chezdamier/)*

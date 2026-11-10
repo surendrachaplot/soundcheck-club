@@ -1,8 +1,8 @@
 # Maya Fourteen
 
-Maya Fourteen is a Progressive House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Terraza Music Park, Brazil on Sat, 5 Dec 2026.
+Maya Fourteen is a Progressive House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Terraza Music Park, Brazil on Sat, 5 Dec 2026.
 
-Maya Fourteen is a progressive house and tech house artist, with 11 gigs on soundcheck across Amsterdam, Bergen, Brazil and Dubai and 6 more. Often billed alongside Costax, Francesco Mami and ANNA. Next up: Terraza Music Park, Brazil on Sat 5 Dec.
+Maya Fourteen is a progressive house and tech house artist based in Brazil, with 11 gigs on soundcheck across Amsterdam, Bergen, Brazil and Dubai and 6 more. Often billed alongside Costax, Francesco Mami and ANNA. Next up: Terraza Music Park, Brazil on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Maya Fourteen is a progressive house and tech house artist, with 11 gigs on soun
 
 Costax, Francesco Mami, ANNA
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mayafourteen/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mayafourteen/)*

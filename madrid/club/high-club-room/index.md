@@ -1,6 +1,6 @@
 # High Club Room
 
-High Club Room is a music venue in Madrid with 8 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Tortilla w/ Dr Amor + Nix" on Sat, 14 Nov 2026.
+High Club Room is a music venue in Madrid with 8 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Tortilla w/ Dr Amor + Nix" on Sat, 14 Nov 2026.
 
 High Club Room is a music venue in Madrid listed on soundcheck. 8 upcoming gigs, with line-ups including frankydrama and zizi k. See dates, start times and who's playing. C/ de Joaquin Costa 27, 28002. Madrid.
 
@@ -21,4 +21,4 @@ High Club Room is a music venue in Madrid listed on soundcheck. 8 upcoming gigs,
 
 C/ de Joaquin Costa 27, 28002. Madrid, Madrid
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/high-club-room/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/high-club-room/)*

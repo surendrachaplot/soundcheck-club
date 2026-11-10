@@ -1,14 +1,13 @@
 # The Rose
 
-The Rose is a music venue in New York City with 7 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Vibe Out with Eugene Nicholas Santos , Curator Paul Vicente Diaz , Dj Dech" on Mon, 9 Nov 2026.
+The Rose is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "MMF Society Open Decks" on Mon, 16 Nov 2026.
 
-The Rose is a music venue in New York City listed on soundcheck. 7 upcoming gigs, with line-ups including Gino Santos and shirlz. See dates, start times and who's playing. 160 W 25th St, New York, NY 10001.
+The Rose is a music venue in New York City listed on soundcheck. 6 upcoming gigs, with line-ups including Gino Santos and shirlz. See dates, start times and who's playing. 160 W 25th St, New York, NY 10001.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 9 Nov 2026 | Vibe Out with Eugene Nicholas Santos , Curator Paul Vicente Diaz , Dj Dech | Gino Santos |
 | Mon, 16 Nov 2026 | MMF Society Open Decks | shirlz |
 | Tue, 17 Nov 2026 | Tinamarie Diva , Gino Santos & Slade  | Gino Santos |
 | Tue, 1 Dec 2026 | Heather Teather  | Gino Santos |
@@ -20,4 +19,4 @@ The Rose is a music venue in New York City listed on soundcheck. 7 upcoming gigs
 
 160 W 25th St, New York, NY 10001, New York City
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-rose/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-rose/)*

@@ -1,6 +1,6 @@
 # Rudy Zigliara
 
-Rudy Zigliara is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Crack Bellmer, Berlin on Thu, 26 Nov 2026.
+Rudy Zigliara is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Crack Bellmer, Berlin on Thu, 26 Nov 2026.
 
 Rudy Zigliara is a house and techno artist based in France, with 19 gigs on soundcheck across Berlin and Paris. Often billed alongside doctor doms, Roots. and Caldii. Next up: Crack Bellmer, Berlin on Thu 26 Nov.
 
@@ -26,4 +26,4 @@ Rudy Zigliara is a house and techno artist based in France, with 19 gigs on soun
 
 doctor doms, Roots., Caldii
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rudyzigliara/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rudyzigliara/)*

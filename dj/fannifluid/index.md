@@ -1,6 +1,6 @@
 # Fanni Fluid
 
-Fanni Fluid is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Hangaren, Copenhagen on Sat, 21 Nov 2026.
+Fanni Fluid is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Hangaren, Copenhagen on Sat, 21 Nov 2026.
 
 Fanni Fluid is a techno and trance artist based in Hungary, with 10 gigs on soundcheck across Copenhagen. Often billed alongside DJ 2LATE, Aja Gulris and Anna Logic. Next up: Hangaren, Copenhagen on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Fanni Fluid is a techno and trance artist based in Hungary, with 10 gigs on soun
 
 DJ 2LATE, Aja Gulris, Anna Logic
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fannifluid/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fannifluid/)*

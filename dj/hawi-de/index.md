@@ -1,6 +1,6 @@
 # hawi
 
-hawi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Goldener Reiter, Munich on Fri, 27 Nov 2026.
+hawi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Goldener Reiter, Munich on Fri, 27 Nov 2026.
 
 hawi is a house and techno artist based in Germany, with 22 gigs on soundcheck across Berlin, Ho Chi Minh City and Munich. Often billed alongside Thalo Santana, Thabo and Blame Anthony. Next up: Goldener Reiter, Munich on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ hawi is a house and techno artist based in Germany, with 22 gigs on soundcheck a
 
 Thalo Santana, Thabo, Blame Anthony
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hawi-de/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hawi-de/)*

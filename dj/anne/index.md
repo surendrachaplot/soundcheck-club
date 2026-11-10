@@ -1,6 +1,6 @@
 # ANNĒ
 
-ANNĒ is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Metro Dance Club, Alicante on Sat, 14 Nov 2026.
+ANNĒ is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Metro Dance Club, Alicante on Sat, 14 Nov 2026.
 
 ANNĒ is a techno and house artist based in Greece, with 222 gigs on soundcheck across Alicante, Amsterdam, Antwerp and Athens and 74 more. Often billed alongside SHDW, Sera J and Sol Ortega. Next up: Metro Dance Club, Alicante on Sat 14 Nov.
 
@@ -36,4 +36,4 @@ ANNĒ is a techno and house artist based in Greece, with 222 gigs on soundcheck 
 
 SHDW, Sera J, Sol Ortega
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anne/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anne/)*

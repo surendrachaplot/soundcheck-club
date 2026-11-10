@@ -1,6 +1,6 @@
 # Zak Miller
 
-Zak Miller is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Grow, London on Fri, 20 Nov 2026.
+Zak Miller is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Grow, London on Fri, 20 Nov 2026.
 
 Zak Miller is a house and garage artist based in United Kingdom, with 21 gigs on soundcheck across London. Often billed alongside Alfaz, Bear Winder and A Hard Day's Dance. Next up: Grow, London on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Zak Miller is a house and garage artist based in United Kingdom, with 21 gigs on
 
 Alfaz, Bear Winder, A Hard Day's Dance
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zakmiller/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zakmiller/)*

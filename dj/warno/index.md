@@ -1,6 +1,6 @@
 # WARNO
 
-WARNO is a Hip-Hop and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at YOTO, Hamburg on Sat, 14 Nov 2026.
+WARNO is a Hip-Hop and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at YOTO, Hamburg on Sat, 14 Nov 2026.
 
 WARNO is a hip-hop and house artist based in Germany, with 11 gigs on soundcheck across Hamburg. Often billed alongside NEAF, J.TU and ARMAH. Next up: YOTO, Hamburg on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ WARNO is a hip-hop and house artist based in Germany, with 11 gigs on soundcheck
 
 NEAF, J.TU, ARMAH
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/warno/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/warno/)*

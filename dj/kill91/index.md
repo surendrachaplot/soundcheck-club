@@ -1,6 +1,6 @@
 # KILL 9 1
 
-KILL 9 1 is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at The Comfort Zone, Toronto on Fri, 13 Nov 2026.
+KILL 9 1 is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at The Comfort Zone, Toronto on Fri, 13 Nov 2026.
 
 KILL 9 1 is a techno and trance artist based in Canada, with 51 gigs on soundcheck across Toronto. Often billed alongside R4TS, Maul and Mand0. Next up: The Comfort Zone, Toronto on Fri 13 Nov.
 
@@ -28,4 +28,4 @@ KILL 9 1 is a techno and trance artist based in Canada, with 51 gigs on soundche
 
 R4TS, Maul (2), Mand0
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kill91/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kill91/)*

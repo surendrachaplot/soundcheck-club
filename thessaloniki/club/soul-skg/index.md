@@ -1,6 +1,6 @@
 # Soul SKG
 
-Soul SKG is a music venue in Thessaloniki with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "PRISM X OUTCAST W/ Alex Dima, Munir Nadir & Danae" on Sat, 5 Dec 2026.
+Soul SKG is a music venue in Thessaloniki with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "PRISM X OUTCAST W/ Alex Dima, Munir Nadir & Danae" on Sat, 5 Dec 2026.
 
 Soul SKG is a music venue in Thessaloniki listed on soundcheck. 3 upcoming gigs, with line-ups including AEREA, Alex Dima, Claudio PRC and Danae and 2 more. See dates, start times and who's playing. Thessaloniki, 54627,  26is Oktovriou 104, Greece.
 
@@ -16,4 +16,4 @@ Soul SKG is a music venue in Thessaloniki listed on soundcheck. 3 upcoming gigs,
 
 Thessaloniki, 54627,  26is Oktovriou 104, Greece, Thessaloniki
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/thessaloniki/club/soul-skg/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/thessaloniki/club/soul-skg/)*

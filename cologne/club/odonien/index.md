@@ -1,6 +1,6 @@
 # Odonien
 
-Odonien is a music venue in Cologne with 9 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "18h Outdoor&Indoor Rave I Oliver Koletzki, Rheinfeuern uvm" on Wed, 11 Nov 2026.
+Odonien is a music venue in Cologne with 9 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "18h Outdoor&Indoor Rave I Oliver Koletzki, Rheinfeuern uvm" on Wed, 11 Nov 2026.
 
 Odonien is a music venue in Cologne listed on soundcheck. 9 upcoming gigs, with line-ups including Aio, Alyne, andré wiese and Bergen and 2 more. See dates, start times and who's playing. Hornstrasse 85; 50825 Cologne; Germany.
 
@@ -22,4 +22,4 @@ Odonien is a music venue in Cologne listed on soundcheck. 9 upcoming gigs, with 
 
 Hornstrasse 85; 50825 Cologne; Germany, Cologne
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/odonien/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/odonien/)*

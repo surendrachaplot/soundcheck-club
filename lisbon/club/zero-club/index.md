@@ -1,6 +1,6 @@
 # Zero Club
 
-Zero Club is a music venue in Lisbon with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Inner Label — BEHIND THE MASK" on Sat, 21 Nov 2026.
+Zero Club is a music venue in Lisbon with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Inner Label — BEHIND THE MASK" on Sat, 21 Nov 2026.
 
 Zero Club is a music venue in Lisbon listed on soundcheck. 2 upcoming gigs, with line-ups including Better Call Karll, ELEVIN and Lukas Galhardo. See dates, start times and who's playing. Avenida 24 de Julho, 68.
 
@@ -15,4 +15,4 @@ Zero Club is a music venue in Lisbon listed on soundcheck. 2 upcoming gigs, with
 
 Avenida 24 de Julho, 68, Lisbon
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/zero-club/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/zero-club/)*

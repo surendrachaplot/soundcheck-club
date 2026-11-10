@@ -1,6 +1,6 @@
 # Baba T
 
-Baba T is a Afrobeats and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Ormside Projects, London on Sat, 21 Nov 2026.
+Baba T is a Afrobeats and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Ormside Projects, London on Sat, 21 Nov 2026.
 
 Baba T is an afrobeats and house artist based in United Kingdom, with 29 gigs on soundcheck across Amsterdam, Berlin, Leeds and London and 1 more. Often billed alongside Tolu, 2 Bad Mice and Aletha. Next up: Ormside Projects, London on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Baba T is an afrobeats and house artist based in United Kingdom, with 29 gigs on
 
 Tolu, 2 Bad Mice, Aletha
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babat/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babat/)*

@@ -1,13 +1,14 @@
 # Lars Huismann
 
-Lars Huismann is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Warehouse, New York City on Sun, 22 Nov 2026.
+Lars Huismann is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Plaza Mayor Medellin, Medellin on Sat, 14 Nov 2026.
 
-Lars Huismann is a techno and house artist based in Germany, with 118 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 56 more. Often billed alongside SHDW, ANNĒ and Chontane. Next up: TBA - Warehouse, New York City on Sun 22 Nov.
+Lars Huismann is a techno and house artist based in Germany, with 119 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 56 more. Often billed alongside SHDW, ANNĒ and Chontane. Next up: Plaza Mayor Medellin, Medellin on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | Plaza Mayor Medellin | Medellin |
 | Sun, 22 Nov 2026 | TBA - Warehouse | New York City |
 | Sat, 28 Nov 2026 | RSO.BERLIN | Berlin |
 
@@ -26,4 +27,4 @@ Lars Huismann is a techno and house artist based in Germany, with 118 gigs on so
 
 SHDW, ANNĒ, Chontane
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/larshuismann/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/larshuismann/)*

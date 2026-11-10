@@ -1,6 +1,6 @@
 # Moor Mother
 
-Moor Mother is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Secret Location near Jannowitzbrücke, Berlin on Thu, 12 Nov 2026.
+Moor Mother is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Secret Location near Jannowitzbrücke, Berlin on Thu, 12 Nov 2026.
 
 Moor Mother is an experimental and electronica artist based in United States of America, with 25 gigs on soundcheck across Amsterdam, Berlin, Bristol and Cologne and 11 more. Often billed alongside Aquiles Navarro, Hieroglyphic Being and A Guy Called Gerald. Next up: TBA - Secret Location near Jannowitzbrücke, Berlin on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Moor Mother is an experimental and electronica artist based in United States of 
 
 Aquiles Navarro, Hieroglyphic Being, A Guy Called Gerald
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moormother/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moormother/)*

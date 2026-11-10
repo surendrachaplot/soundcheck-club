@@ -1,6 +1,6 @@
 # Amphia
 
-Amphia is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Secret Location, Berlin on Fri, 13 Nov 2026.
+Amphia is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Secret Location, Berlin on Fri, 13 Nov 2026.
 
 Amphia is a techno and house artist based in Spain, with 45 gigs on soundcheck across Amsterdam, Berlin, Bristol and Copenhagen and 4 more. Often billed alongside Gloria Rose, MarcelDune and ANNĒ. Next up: TBA - Secret Location, Berlin on Fri 13 Nov.
 
@@ -29,4 +29,4 @@ Amphia is a techno and house artist based in Spain, with 45 gigs on soundcheck a
 
 Gloria Rose, MarcelDune, ANNĒ
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amphia/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amphia/)*

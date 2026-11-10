@@ -1,6 +1,6 @@
 # Lampé
 
-Lampé is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Odonien, Cologne on Sat, 14 Nov 2026.
+Lampé is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Odonien, Cologne on Sat, 14 Nov 2026.
 
 Lampé is a techno and minimal techno artist based in Germany, with 48 gigs on soundcheck across Berlin, Cape Town, Cologne and Copenhagen and 10 more. Often billed alongside Konfusia, Joseph Disco and TiM TASTE. Next up: Odonien, Cologne on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Lampé is a techno and minimal techno artist based in Germany, with 48 gigs on s
 
 Konfusia, Joseph Disco, TiM TASTE
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lampe/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lampe/)*

@@ -1,6 +1,6 @@
 # Tampo
 
-Tampo is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Le Sucre, Lyon on Fri, 18 Dec 2026.
+Tampo is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Le Sucre, Lyon on Fri, 18 Dec 2026.
 
 Tampo is a techno and electro artist, with 5 gigs on soundcheck across Lyon. Often billed alongside Diapasøn, Minù Jr and Wild Aspect. Next up: Le Sucre, Lyon on Fri 18 Dec.
 
@@ -21,4 +21,4 @@ Tampo is a techno and electro artist, with 5 gigs on soundcheck across Lyon. Oft
 
 Diapasøn, Minù Jr, Wild Aspect
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tampo/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tampo/)*

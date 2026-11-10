@@ -1,6 +1,6 @@
 # Demo Room
 
-Demo Room is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "ASMBLY: A gathering for new ideas, tech, and art" on Thu, 19 Nov 2026.
+Demo Room is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "ASMBLY: A gathering for new ideas, tech, and art" on Thu, 19 Nov 2026.
 
 Demo Room is a music venue in Toronto listed on soundcheck. 2 upcoming gigs, with line-ups including Mathame. See dates, start times and who's playing. 307 Lake Shore Blvd E, Toronto, ON M5A 1C1.
 
@@ -15,4 +15,4 @@ Demo Room is a music venue in Toronto listed on soundcheck. 2 upcoming gigs, wit
 
 307 Lake Shore Blvd E, Toronto, ON M5A 1C1, Toronto
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/demo-room/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/demo-room/)*

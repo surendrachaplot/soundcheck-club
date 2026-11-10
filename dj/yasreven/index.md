@@ -1,6 +1,6 @@
 # Yas Reven
 
-Yas Reven is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Renate, Berlin on Fri, 13 Nov 2026.
+Yas Reven is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Renate, Berlin on Fri, 13 Nov 2026.
 
 Yas Reven is a techno and house artist based in Italy, with 34 gigs on soundcheck across Berlin, Lisbon, London and Milan and 4 more. Often billed alongside Simone de Kunovich, Nicola Mazzetti and Pascal Moscheni. Next up: Renate, Berlin on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Yas Reven is a techno and house artist based in Italy, with 34 gigs on soundchec
 
 Simone de Kunovich, Nicola Mazzetti, Pascal Moscheni
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yasreven/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yasreven/)*

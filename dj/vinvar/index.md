@@ -1,6 +1,6 @@
 # VINVAR
 
-VINVAR is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at OST, Berlin on Thu, 31 Dec 2026.
+VINVAR is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at OST, Berlin on Thu, 31 Dec 2026.
 
 VINVAR is a techno and house artist, with 122 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 18 more. Often billed alongside Rakans, LOLSNAKE and Khloe. Next up: OST, Berlin on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ VINVAR is a techno and house artist, with 122 gigs on soundcheck across Amsterda
 
 Rakans, LOLSNAKE, Khloe
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vinvar/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vinvar/)*

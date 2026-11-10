@@ -1,14 +1,15 @@
 # Mylo Harvey
 
-Mylo Harvey is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Mssng Pieces, Nottingham on Sat, 14 Nov 2026.
+Mylo Harvey is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Mssng Pieces, Nottingham on Sat, 14 Nov 2026.
 
-Mylo Harvey is a house and disco artist based in United Kingdom, with 24 gigs on soundcheck across Brighton, London, Manchester and Nottingham. Often billed alongside Chenzo, Acuña Collective and Faro. Next up: Mssng Pieces, Nottingham on Sat 14 Nov.
+Mylo Harvey is a house and disco artist based in United Kingdom, with 25 gigs on soundcheck across Brighton, Bristol, London and Manchester and 1 more. Often billed alongside Chenzo, Acuña Collective and Faro. Next up: Mssng Pieces, Nottingham on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Mssng Pieces | Nottingham |
+| Fri, 4 Dec 2026 | The Love Inn | Bristol |
 | Fri, 11 Dec 2026 | Colour Factory | London |
 
 ## Recently played
@@ -26,4 +27,4 @@ Mylo Harvey is a house and disco artist based in United Kingdom, with 24 gigs on
 
 Chenzo, Acuña Collective, Faro
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/myloharvey/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/myloharvey/)*

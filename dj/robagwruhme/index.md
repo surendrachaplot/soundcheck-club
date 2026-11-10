@@ -1,6 +1,6 @@
 # Robag Wruhme
 
-Robag Wruhme is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Fridas Pier, Stuttgart on Sat, 21 Nov 2026.
+Robag Wruhme is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Fridas Pier, Stuttgart on Sat, 21 Nov 2026.
 
 Robag Wruhme is a house and techno artist based in Germany, with 130 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 42 more. Often billed alongside Michael Mayer, Denis Stockhausen and Jonathan Kaspar. Next up: Fridas Pier, Stuttgart on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Robag Wruhme is a house and techno artist based in Germany, with 130 gigs on sou
 
 Michael Mayer, Denis Stockhausen, Jonathan Kaspar
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robagwruhme/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robagwruhme/)*

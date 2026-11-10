@@ -1,6 +1,6 @@
 # Nina Farrina
 
-Nina Farrina is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Ankali & Planeta Za, Prague on Fri, 13 Nov 2026.
+Nina Farrina is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Ankali & Planeta Za, Prague on Fri, 13 Nov 2026.
 
 Nina Farrina is a techno and electro artist based in Slovakia, with 158 gigs on soundcheck across Berlin, Bratislava, Brussels and Budapest and 13 more. Often billed alongside 3ever, SJ Yellow and tmk (CZ). Next up: Ankali & Planeta Za, Prague on Fri 13 Nov.
 
@@ -28,4 +28,4 @@ Nina Farrina is a techno and electro artist based in Slovakia, with 158 gigs on 
 
 3ever, SJ Yellow, tmk (CZ)
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ninafarrina/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ninafarrina/)*

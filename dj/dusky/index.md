@@ -1,6 +1,6 @@
 # Dusky
 
-Dusky is a House and Techno artist with 15 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Culture Box, Copenhagen on Fri, 13 Nov 2026.
+Dusky is a House and Techno artist with 15 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Culture Box, Copenhagen on Fri, 13 Nov 2026.
 
 Dusky is a house and techno artist based in United Kingdom, with 115 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 41 more. Often billed alongside Dan Shake, Denham Audio and Ella Knight. Next up: Culture Box, Copenhagen on Fri 13 Nov.
 
@@ -36,4 +36,4 @@ Dusky is a house and techno artist based in United Kingdom, with 115 gigs on sou
 
 Dan Shake, Denham Audio, Ella Knight
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dusky/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dusky/)*

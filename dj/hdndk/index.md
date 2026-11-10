@@ -1,6 +1,6 @@
 # HDN (DK)
 
-HDN (DK) is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Kraftwerket, Copenhagen on Thu, 12 Nov 2026.
+HDN (DK) is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Kraftwerket, Copenhagen on Thu, 12 Nov 2026.
 
 HDN (DK) is a drum & bass and dubstep artist based in Denmark, with 15 gigs on soundcheck across Copenhagen. Often billed alongside Dwonji, ASTA MARI and CALIFANO. Next up: Kraftwerket, Copenhagen on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ HDN (DK) is a drum & bass and dubstep artist based in Denmark, with 15 gigs on s
 
 Dwonji, ASTA MARI, CALIFANO
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hdndk/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hdndk/)*

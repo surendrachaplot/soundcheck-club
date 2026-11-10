@@ -1,14 +1,13 @@
 # Maï-Linh
 
-Maï-Linh is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Macadam, Nantes on Tue, 10 Nov 2026.
+Maï-Linh is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at People's Leisure Club, Edinburgh on Fri, 13 Nov 2026.
 
-Maï-Linh is a house and techno artist based in France, with 95 gigs on soundcheck across Amsterdam, Berlin, Budapest and Cologne and 20 more. Often billed alongside Soyoon, GTI and Youl. Next up: Macadam, Nantes on Tue 10 Nov.
+Maï-Linh is a house and techno artist based in France, with 94 gigs on soundcheck across Amsterdam, Berlin, Budapest and Cologne and 20 more. Often billed alongside Soyoon, GTI and Youl. Next up: People's Leisure Club, Edinburgh on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 10 Nov 2026 | Macadam | Nantes |
 | Fri, 13 Nov 2026 | People's Leisure Club | Edinburgh |
 | Thu, 31 Dec 2026 | Macadam | Nantes |
 
@@ -27,4 +26,4 @@ Maï-Linh is a house and techno artist based in France, with 95 gigs on soundche
 
 Soyoon, GTI, Youl
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mai-linh/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mai-linh/)*

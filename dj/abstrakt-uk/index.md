@@ -1,6 +1,6 @@
 # Abstrakt (UK)
 
-Abstrakt (UK) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Eldorado, North on Sat, 21 Nov 2026.
+Abstrakt (UK) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Eldorado, North on Sat, 21 Nov 2026.
 
 Abstrakt (UK) is a house and tech house artist, with 6 gigs on soundcheck across Bologna, Glasgow, Liverpool and Madrid and 2 more. Often billed alongside DRS, Deadly Guns and Ender. Next up: Eldorado, North on Sat 21 Nov.
 
@@ -22,4 +22,4 @@ Abstrakt (UK) is a house and tech house artist, with 6 gigs on soundcheck across
 
 DRS, Deadly Guns, Ender
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/abstrakt-uk/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/abstrakt-uk/)*

@@ -1,6 +1,6 @@
 # Le Chinois
 
-Le Chinois is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. The next is "LAMOVIDA 2 AÑOS W/ DJ Python + Orieta Chrem" on Fri, 27 Nov 2026.
+Le Chinois is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. The next is "LAMOVIDA 2 AÑOS W/ DJ Python + Orieta Chrem" on Fri, 27 Nov 2026.
 
 Le Chinois is a music venue in Paris listed on soundcheck. 1 upcoming gig, with line-ups including mika.collage, dieglitter, DJ Python and Orieta Chrem and 1 more. See dates, start times and who's playing. 6 place du Marché, Montreuil.
 
@@ -14,4 +14,4 @@ Le Chinois is a music venue in Paris listed on soundcheck. 1 upcoming gig, with 
 
 6 place du Marché, Montreuil, Paris
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-chinois/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-chinois/)*

@@ -1,6 +1,6 @@
 # Mística
 
-Mística is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Enter Enter Enter, Bogotá on Sat, 14 Nov 2026.
+Mística is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Enter Enter Enter, Bogotá on Sat, 14 Nov 2026.
 
 Mística is a techno and club artist based in Colombia, with 31 gigs on soundcheck across Bogotá and Medellin. Often billed alongside DJ Maybe, Ritornelo and WOST. Next up: Enter Enter Enter, Bogotá on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Mística is a techno and club artist based in Colombia, with 31 gigs on soundche
 
 DJ Maybe, Ritornelo, WOST
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mistica-co/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mistica-co/)*

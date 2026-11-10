@@ -1,8 +1,8 @@
 # Faster Horses
 
-Faster Horses is a Techno and Trance artist with 14 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Lakota, Bristol on Fri, 20 Nov 2026.
+Faster Horses is a Techno and Trance artist with 15 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Lakota, Bristol on Fri, 20 Nov 2026.
 
-Faster Horses is a techno and trance artist based in United Kingdom, with 267 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 66 more. Often billed alongside Azyr, Leaha and Kander. Next up: Lakota, Bristol on Fri 20 Nov.
+Faster Horses is a techno and trance artist based in United Kingdom, with 268 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 66 more. Often billed alongside Azyr, Leaha and Kander. Next up: Lakota, Bristol on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Faster Horses is a techno and trance artist based in United Kingdom, with 267 gi
 | Fri, 20 Nov 2026 | Lakota | Bristol |
 | Sat, 21 Nov 2026 | Werkspoorkathedraal | Netherlands |
 | Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
+| Wed, 2 Dec 2026 | Amber's | Manchester |
 | Fri, 4 Dec 2026 | MFCC Arena | Malta |
 | Sat, 5 Dec 2026 | The Telegraph Building | Belfast |
 | Sat, 19 Dec 2026 | DRUMSHEDS | London |
@@ -19,7 +20,6 @@ Faster Horses is a techno and trance artist based in United Kingdom, with 267 gi
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |
 | Mon, 28 Dec 2026 | Langley Park | Perth |
 | Sat, 2 Jan 2027 | Superordinary | Brisbane |
-| Sun, 3 Jan 2027 | The Ivy | Sydney |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Faster Horses is a techno and trance artist based in United Kingdom, with 267 gi
 
 Azyr, Leaha, Kander
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fasterhorses/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fasterhorses/)*

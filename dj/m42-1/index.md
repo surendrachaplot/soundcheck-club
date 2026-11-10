@@ -1,6 +1,6 @@
 # M42 (1)
 
-M42 (1) is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Warp Shinjuku, Tokyo on Sun, 15 Nov 2026.
+M42 (1) is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Warp Shinjuku, Tokyo on Sun, 15 Nov 2026.
 
 M42 is a trance and techno artist based in South Korea, with 13 gigs on soundcheck across Seoul and Tokyo. Often billed alongside Casepeat, Kataploks and Kago Pengchi. Next up: Warp Shinjuku, Tokyo on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ M42 is a trance and techno artist based in South Korea, with 13 gigs on soundche
 
 Casepeat, Kataploks, Kago Pengchi
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/m42-1/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/m42-1/)*

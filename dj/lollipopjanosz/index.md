@@ -1,6 +1,6 @@
 # Lollipop Janosz
 
-Lollipop Janosz is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Drugstore Beograd, Belgrade on Fri, 11 Dec 2026.
+Lollipop Janosz is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Drugstore Beograd, Belgrade on Fri, 11 Dec 2026.
 
 Lollipop Janosz is a techno and electronica artist based in Serbia, with 50 gigs on soundcheck across Belgrade. Often billed alongside Filip Xavi, Impedance and Luka Jukic. Next up: Drugstore Beograd, Belgrade on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Lollipop Janosz is a techno and electronica artist based in Serbia, with 50 gigs
 
 Filip Xavi, Impedance, Luka Jukic
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lollipopjanosz/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lollipopjanosz/)*

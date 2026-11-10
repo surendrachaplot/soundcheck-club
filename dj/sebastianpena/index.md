@@ -1,6 +1,6 @@
 # Sebastián Peña
 
-Sebastián Peña is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at NIX Barcelona, Barcelona on Fri, 20 Nov 2026.
+Sebastián Peña is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at NIX Barcelona, Barcelona on Fri, 20 Nov 2026.
 
 Sebastián Peña is a tech house and minimal artist based in Spain, with 9 gigs on soundcheck across Barcelona. Often billed alongside DIROS, Giuseppe Martini and ALBERTO DIMEO. Next up: NIX Barcelona, Barcelona on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Sebastián Peña is a tech house and minimal artist based in Spain, with 9 gigs 
 
 DIROS, Giuseppe Martini, ALBERTO DIMEO
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastianpena/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastianpena/)*

@@ -1,6 +1,6 @@
 # KT
 
-KT is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Arena Joondalup, Perth on Sat, 2 Jan 2027.
+KT is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Arena Joondalup, Perth on Sat, 2 Jan 2027.
 
 KT is a house and techno artist based in United Kingdom, with 132 gigs on soundcheck across Barcelona, Berlin, Bogotá and Brighton and 28 more. Often billed alongside Papa Nugs, Darush and Alien Communications. Next up: Arena Joondalup, Perth on Sat 2 Jan.
 
@@ -25,4 +25,4 @@ KT is a house and techno artist based in United Kingdom, with 132 gigs on soundc
 
 Papa Nugs, Darush, Alien Communications
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/KT/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/KT/)*

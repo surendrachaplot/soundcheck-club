@@ -1,10 +1,10 @@
 # Church of AlpaKa 3.0 - Techno / Psy at ESC
 
-Church of AlpaKa 3.0 - Techno / Psy at ESC on Fri 27 Nov, Montreal. 2 artists: Beathead and Solar Punk. Techno and Psytrance. See the line-up on soundcheck.
+Church of AlpaKa 3.0 - Techno / Psy at ESC on Sat 28 Nov, Montreal. 2 artists: Beathead and Solar Punk. Techno and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Fri, 27 Nov 2026 |
+| Date | Sat, 28 Nov 2026 |
 | Venue | ESC |
 | City | Montreal |
 

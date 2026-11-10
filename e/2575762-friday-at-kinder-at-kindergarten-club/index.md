@@ -1,6 +1,6 @@
 # Friday at Kinder at Kindergarten Club
 
-Friday at Kinder at Kindergarten Club on Fri 13 Nov, Bologna. 1 artist: Doumu. Techno and Industrial. See the line-up on soundcheck.
+Friday at Kinder at Kindergarten Club on Fri 13 Nov, Bologna. 2 artists: Doumu and O-MAN. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Friday at Kinder at Kindergarten Club on Fri 13 Nov, Bologna. 1 artist: Doumu. T
 ## Line-up
 
 - Doumu
+- O-MAN
 
 *Source: [soundcheck](https://soundcheck.club/e/2575762-friday-at-kinder-at-kindergarten-club/)*

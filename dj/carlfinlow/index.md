@@ -1,6 +1,6 @@
 # Carl Finlow
 
-Carl Finlow is a Electro and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Circolo Masada + Circolo Amelia, Milan on Sat, 21 Nov 2026.
+Carl Finlow is a Electro and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Circolo Masada + Circolo Amelia, Milan on Sat, 21 Nov 2026.
 
 Carl Finlow is an electro and techno artist based in France, with 33 gigs on soundcheck across Barcelona, Berlin, Brighton and Bristol and 12 more. Often billed alongside Random Factor, Alien Communications and Anna Wall. Next up: TBA - Circolo Masada + Circolo Amelia, Milan on Sat 21 Nov.
 
@@ -28,4 +28,4 @@ Carl Finlow is an electro and techno artist based in France, with 33 gigs on sou
 
 Random Factor, Alien Communications, Anna Wall
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlfinlow/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlfinlow/)*

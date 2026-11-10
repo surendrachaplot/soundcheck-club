@@ -1,6 +1,6 @@
 # Duorhythm
 
-Duorhythm is a Deep House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Club Cello, Switzerland on Sat, 21 Nov 2026.
+Duorhythm is a Deep House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Club Cello, Switzerland on Sat, 21 Nov 2026.
 
 Duorhythm is a deep house and electronica artist based in Switzerland, with 2 gigs on soundcheck across Basel and Switzerland. Often billed alongside DJ Jamie Lewis, Ed Luis and George Morel. Next up: Club Cello, Switzerland on Sat 21 Nov.
 
@@ -15,4 +15,4 @@ Duorhythm is a deep house and electronica artist based in Switzerland, with 2 gi
 
 DJ Jamie Lewis, Ed Luis, George Morel
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/duorhythm/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/duorhythm/)*

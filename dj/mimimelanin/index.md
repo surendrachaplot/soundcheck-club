@@ -1,6 +1,6 @@
 # MIMI MELANIN
 
-MIMI MELANIN is a Dub and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Le Poisson Volant, Paris on Thu, 3 Dec 2026.
+MIMI MELANIN is a Dub and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Le Poisson Volant, Paris on Thu, 3 Dec 2026.
 
 MIMI MELANIN is a dub and hip-hop artist based in France, with 16 gigs on soundcheck across Berlin, Marseille and Paris. Often billed alongside Kokoprisci, Audrey Danza and BLUME. Next up: Le Poisson Volant, Paris on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ MIMI MELANIN is a dub and hip-hop artist based in France, with 16 gigs on soundc
 
 Kokoprisci, Audrey Danza, BLUME
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mimimelanin/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mimimelanin/)*

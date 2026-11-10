@@ -1,6 +1,6 @@
 # París 15
 
-París 15 is a music venue in Malaga with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Mlg Crew 2026" on Sat, 14 Nov 2026.
+París 15 is a music venue in Malaga with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Mlg Crew 2026" on Sat, 14 Nov 2026.
 
 París 15 is a music venue in Malaga listed on soundcheck. 2 upcoming gigs, with line-ups including Nico Loco, Rafa Nandez, Spega and Vieze Asbak. See dates, start times and who's playing. Calle la Orotava 25, 29006 Malaga.
 
@@ -15,4 +15,4 @@ París 15 is a music venue in Malaga listed on soundcheck. 2 upcoming gigs, with
 
 Calle la Orotava 25, 29006 Malaga, Malaga
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/par-s-15/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/par-s-15/)*

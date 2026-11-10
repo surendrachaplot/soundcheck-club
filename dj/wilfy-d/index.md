@@ -1,6 +1,6 @@
 # Wilfy D
 
-Wilfy D is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at The Berkeley Suite, Glasgow on Thu, 26 Nov 2026.
+Wilfy D is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at The Berkeley Suite, Glasgow on Thu, 26 Nov 2026.
 
 Wilfy D is a garage and house artist based in United Kingdom, with 47 gigs on soundcheck across Bristol, Glasgow, Leeds and London and 3 more. Often billed alongside DJ Stolen, Tommy Gold and Elliot Schooling. Next up: The Berkeley Suite, Glasgow on Thu 26 Nov.
 
@@ -26,4 +26,4 @@ Wilfy D is a garage and house artist based in United Kingdom, with 47 gigs on so
 
 DJ Stolen, Tommy Gold, Elliot Schooling
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wilfy-d/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wilfy-d/)*

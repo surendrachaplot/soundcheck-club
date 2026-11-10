@@ -1,6 +1,6 @@
 # Yoshiko
 
-Yoshiko is a Techno and Hardcore artist with 10 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Warehouse, Nantes on Fri, 20 Nov 2026.
+Yoshiko is a Techno and Hardcore artist with 10 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Warehouse, Nantes on Fri, 20 Nov 2026.
 
 Yoshiko is a techno and hardcore artist based in Italy, with 46 gigs on soundcheck across Amsterdam, Antwerp, Austria and Barcelona and 26 more. Often billed alongside Dimitri K, The Dark Horror and KIRSTY. Next up: Warehouse, Nantes on Fri 20 Nov.
 
@@ -34,4 +34,4 @@ Yoshiko is a techno and hardcore artist based in Italy, with 46 gigs on soundche
 
 Dimitri K, The Dark Horror, KIRSTY
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshiko/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshiko/)*

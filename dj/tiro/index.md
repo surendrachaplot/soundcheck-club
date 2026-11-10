@@ -1,6 +1,6 @@
 # tiro!
 
-tiro! is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Evol, Cape Town on Sat, 28 Nov 2026.
+tiro! is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Evol, Cape Town on Sat, 28 Nov 2026.
 
 tiro! is a techno and house artist based in South Africa, with 4 gigs on soundcheck across Berlin and Cape Town. Often billed alongside Hypoestes, Kyle Russouw and 131bpm. Next up: Evol, Cape Town on Sat 28 Nov.
 
@@ -20,4 +20,4 @@ tiro! is a techno and house artist based in South Africa, with 4 gigs on soundch
 
 Hypoestes, Kyle Russouw, 131bpm
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tiro/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tiro/)*

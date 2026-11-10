@@ -1,6 +1,6 @@
 # DJ $YCLOPS
 
-DJ $YCLOPS is a Techno and Dubstep artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Poetry Club, Glasgow on Sat, 5 Dec 2026.
+DJ $YCLOPS is a Techno and Dubstep artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Poetry Club, Glasgow on Sat, 5 Dec 2026.
 
 DJ $YCLOPS is a techno and dubstep artist based in Uganda, with 8 gigs on soundcheck across Glasgow. Often billed alongside Maveen, Miss Cabbage and Bellarosa. Next up: The Poetry Club, Glasgow on Sat 5 Dec.
 
@@ -24,4 +24,4 @@ DJ $YCLOPS is a techno and dubstep artist based in Uganda, with 8 gigs on soundc
 
 Maveen, Miss Cabbage, Bellarosa
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djyclops/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djyclops/)*

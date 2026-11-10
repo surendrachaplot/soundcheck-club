@@ -1,6 +1,6 @@
 # Melt Unit
 
-Melt Unit is a Breakcore and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Dark Room, Kyushu on Fri, 13 Nov 2026.
+Melt Unit is a Breakcore and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Dark Room, Kyushu on Fri, 13 Nov 2026.
 
 Melt Unit is a breakcore and hardcore artist based in Australia, with 9 gigs on soundcheck across Kyushu and Sydney. Often billed alongside Elina, Midsizedsedance and Hedonist. Next up: The Dark Room, Kyushu on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Melt Unit is a breakcore and hardcore artist based in Australia, with 9 gigs on 
 
 Elina, Midsizedsedance, Hedonist
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meltunit/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meltunit/)*

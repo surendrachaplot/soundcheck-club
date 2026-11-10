@@ -1,6 +1,6 @@
 # nueve cero nueve
 
-nueve cero nueve is a music venue in Mexico City with 6 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "SUBSUELO pres - BELOW" on Fri, 13 Nov 2026.
+nueve cero nueve is a music venue in Mexico City with 6 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "SUBSUELO pres - BELOW" on Fri, 13 Nov 2026.
 
 nueve cero nueve is a music venue in Mexico City listed on soundcheck. 6 upcoming gigs, with line-ups including Alex Bau, Cabe, Carm1na and Cybebe and 2 more. See dates, start times and who's playing. C. Versalles 94, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX.
 
@@ -19,4 +19,4 @@ nueve cero nueve is a music venue in Mexico City listed on soundcheck. 6 upcomin
 
 C. Versalles 94, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico City
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/nueve-cero-nueve/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/nueve-cero-nueve/)*

@@ -1,6 +1,6 @@
 # Beta
 
-Beta is a Experimental and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Kassa Boat, Budapest on Fri, 18 Dec 2026.
+Beta is a Experimental and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Kassa Boat, Budapest on Fri, 18 Dec 2026.
 
 Beta is an experimental and house artist based in Hungary, with 24 gigs on soundcheck across Budapest and New York City. Often billed alongside Andras Bader, Krics and Maron. Next up: Kassa Boat, Budapest on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Beta is an experimental and house artist based in Hungary, with 24 gigs on sound
 
 Andras Bader, Krics, Maron
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beta/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beta/)*

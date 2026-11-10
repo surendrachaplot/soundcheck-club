@@ -1,6 +1,6 @@
 # Makileo
 
-Makileo is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Night Market, Milan on Thu, 19 Nov 2026.
+Makileo is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Night Market, Milan on Thu, 19 Nov 2026.
 
 Makileo is an electronic artist, with 11 gigs on soundcheck across Milan. Often billed alongside Daniele Barberi, Cristian Comes and CCorrado. Next up: Night Market, Milan on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Makileo is an electronic artist, with 11 gigs on soundcheck across Milan. Often 
 
 Daniele Barberi, Cristian Comes, CCorrado
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/makileo/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/makileo/)*

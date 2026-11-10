@@ -1,6 +1,6 @@
 # UZI (Soulmeka)
 
-UZI (Soulmeka) is a House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Salon Daomé, Montreal on Sun, 29 Nov 2026.
+UZI (Soulmeka) is a House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Salon Daomé, Montreal on Sun, 29 Nov 2026.
 
 UZI (Soulmeka) is a house artist based in Canada, with 4 gigs on soundcheck across Montreal. Often billed alongside Don Barbarino. Next up: Salon Daomé, Montreal on Sun 29 Nov.
 
@@ -20,4 +20,4 @@ UZI (Soulmeka) is a house artist based in Canada, with 4 gigs on soundcheck acro
 
 Don Barbarino
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/uzisoulmeka/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/uzisoulmeka/)*

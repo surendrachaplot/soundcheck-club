@@ -1,8 +1,8 @@
 # Mecániko
 
-Mecániko is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Premises, Chicago on Sat, 21 Nov 2026.
+Mecániko is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Premises, Chicago on Sat, 21 Nov 2026.
 
-Mecániko is a bass and techno artist, with 8 gigs on soundcheck across Chicago. Often billed alongside J. Córdova, Liquid City Motors and karennoid. Next up: TBA - Premises, Chicago on Sat 21 Nov.
+Mecániko is a bass and techno artist based in United States of America, with 8 gigs on soundcheck across Chicago. Often billed alongside J. Córdova, Liquid City Motors and karennoid. Next up: TBA - Premises, Chicago on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ Mecániko is a bass and techno artist, with 8 gigs on soundcheck across Chicago.
 
 J. Córdova, Liquid City Motors, karennoid
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mecániko/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mecániko/)*

@@ -1,6 +1,6 @@
 # Mithra
 
-Mithra is a Electronica and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Podlasie Club, Chicago on Fri, 27 Nov 2026.
+Mithra is a Electronica and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Podlasie Club, Chicago on Fri, 27 Nov 2026.
 
 Mithra is an electronica and electro artist based in Germany, with 9 gigs on soundcheck across Berlin, Chicago and Detroit. Often billed alongside WD40, Ana Malo and Basslinewizard. Next up: Podlasie Club, Chicago on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Mithra is an electronica and electro artist based in Germany, with 9 gigs on sou
 
 WD40, Ana Malo, Basslinewizard
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mithra/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mithra/)*

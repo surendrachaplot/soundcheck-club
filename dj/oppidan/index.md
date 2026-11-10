@@ -1,8 +1,8 @@
 # Oppidan
 
-Oppidan is a Garage and House artist with 11 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at fabric, London on Fri, 13 Nov 2026.
+Oppidan is a Garage and House artist with 12 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at fabric, London on Fri, 13 Nov 2026.
 
-Oppidan is a garage and house artist based in United Kingdom, with 163 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 57 more. Often billed alongside MPH, Sammy Virji and Notion. Next up: fabric, London on Fri 13 Nov.
+Oppidan is a garage and house artist based in United Kingdom, with 164 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 58 more. Often billed alongside MPH, Sammy Virji and Notion. Next up: fabric, London on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -19,6 +19,7 @@ Oppidan is a garage and house artist based in United Kingdom, with 163 gigs on s
 | Fri, 22 Jan 2027 | Mirage | Hanoi |
 | Fri, 28 May 2027 | Peckham Rye Park | London |
 | Sat, 29 May 2027 | Ashton Court Estate | Bristol |
+| Thu, 5 Aug 2027 | Velodrom TJ Favorit Brno | Brno |
 
 ## Recently played
 
@@ -35,4 +36,4 @@ Oppidan is a garage and house artist based in United Kingdom, with 163 gigs on s
 
 MPH (1), Sammy Virji, Notion
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oppidan/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oppidan/)*

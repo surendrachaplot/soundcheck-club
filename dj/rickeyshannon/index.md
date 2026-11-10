@@ -1,6 +1,6 @@
 # Rickey Shannon
 
-Rickey Shannon is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Enter Shibuya, Tokyo on Fri, 13 Nov 2026.
+Rickey Shannon is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Enter Shibuya, Tokyo on Fri, 13 Nov 2026.
 
 Rickey Shannon is a techno and tech house artist based in Japan, with 72 gigs on soundcheck across Tokyo. Often billed alongside Louis Shannon, TARO TOKO and EIGHT. Next up: Enter Shibuya, Tokyo on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Rickey Shannon is a techno and tech house artist based in Japan, with 72 gigs on
 
 Louis Shannon, TARO TOKO, EIGHT
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rickeyshannon/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rickeyshannon/)*

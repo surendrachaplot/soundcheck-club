@@ -1,6 +1,6 @@
 # Alex Wann
 
-Alex Wann is a Afro House and House artist with 7 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Bohemia Beach Club, Dubai on Sat, 14 Nov 2026.
+Alex Wann is a Afro House and House artist with 7 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Bohemia Beach Club, Dubai on Sat, 14 Nov 2026.
 
 Alex Wann is an afro house and house artist based in France, with 159 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 47 more. Often billed alongside Notre Dame, Andrea Oliva and Shimza. Next up: Bohemia Beach Club, Dubai on Sat 14 Nov.
 
@@ -31,4 +31,4 @@ Alex Wann is an afro house and house artist based in France, with 159 gigs on so
 
 Notre Dame, Andrea Oliva, Shimza
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexwann/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexwann/)*

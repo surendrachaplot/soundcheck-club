@@ -1,6 +1,6 @@
 # Gaston Dini
 
-Gaston Dini is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Macarena Club, Barcelona on Wed, 18 Nov 2026.
+Gaston Dini is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Macarena Club, Barcelona on Wed, 18 Nov 2026.
 
 Gaston Dini is a techno and electro artist, with 3 gigs on soundcheck across Barcelona. Often billed alongside Saulo Pisa and Andy Woldman. Next up: Macarena Club, Barcelona on Wed 18 Nov.
 
@@ -19,4 +19,4 @@ Gaston Dini is a techno and electro artist, with 3 gigs on soundcheck across Bar
 
 Saulo Pisa, Andy Woldman
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gastondini/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gastondini/)*

@@ -1,16 +1,18 @@
 # NewTone
 
-NewTone is a House and Trance artist with 5 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Thuishaven, Amsterdam on Sun, 22 Nov 2026.
+NewTone is a House and Trance artist with 7 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at De Helling, Utrecht on Sat, 14 Nov 2026.
 
-NewTone is a house and trance artist based in Netherlands, with 111 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 15 more. Often billed alongside Boris Coelman, TINS and DART. Next up: Thuishaven, Amsterdam on Sun 22 Nov.
+NewTone is a house and trance artist based in Netherlands, with 113 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 15 more. Often billed alongside Boris Coelman, TINS and DART. Next up: De Helling, Utrecht on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | De Helling | Utrecht |
 | Sun, 22 Nov 2026 | Thuishaven | Amsterdam |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 | Sun, 29 Nov 2026 | The Ivy | Sydney |
+| Sat, 12 Dec 2026 | SISSI'S Amsterdam | Amsterdam |
 | Sat, 19 Dec 2026 | Van Nelle Fabriek | Rotterdam |
 | Sat, 30 Jan 2027 | Cruise Terminal Rotterdam | Rotterdam |
 
@@ -29,4 +31,4 @@ NewTone is a house and trance artist based in Netherlands, with 111 gigs on soun
 
 Boris Coelman, TINS, DART
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/newtone/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/newtone/)*

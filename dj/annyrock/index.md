@@ -1,6 +1,6 @@
 # Annyrock
 
-Annyrock is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - El Invernadero, Madrid on Sat, 21 Nov 2026.
+Annyrock is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - El Invernadero, Madrid on Sat, 21 Nov 2026.
 
 Annyrock is a house and techno artist based in Ukraine, with 79 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Copenhagen and 13 more. Often billed alongside E.LINA, slin and Ancut. Next up: TBA - El Invernadero, Madrid on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Annyrock is a house and techno artist based in Ukraine, with 79 gigs on soundche
 
 E.LINA, slin, Ancut
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annyrock/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annyrock/)*

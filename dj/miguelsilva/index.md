@@ -1,6 +1,6 @@
 # Miguel Silva
 
-Miguel Silva is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Süss War Gestern, Berlin on Sat, 21 Nov 2026.
+Miguel Silva is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Süss War Gestern, Berlin on Sat, 21 Nov 2026.
 
 Miguel Silva is a techno and house artist based in Chile, with 124 gigs on soundcheck across Barcelona, Berlin, Bucharest and Ibiza and 5 more. Often billed alongside Elwei, Popsky and Djoan. Next up: Süss War Gestern, Berlin on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Miguel Silva is a techno and house artist based in Chile, with 124 gigs on sound
 
 Elwei, Popsky, Djoan
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelsilva/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelsilva/)*

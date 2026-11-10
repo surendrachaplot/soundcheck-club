@@ -1,6 +1,6 @@
 # Jauri
 
-Jauri is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Arzenal, Budapest on Sat, 19 Dec 2026.
+Jauri is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Arzenal, Budapest on Sat, 19 Dec 2026.
 
 Jauri is a techno and electro artist based in Hungary, with 14 gigs on soundcheck across Bogotá, Budapest, Prague and Strasbourg. Often billed alongside Technokool, JAPAU and Paralich. Next up: Arzenal, Budapest on Sat 19 Dec.
 
@@ -26,4 +26,4 @@ Jauri is a techno and electro artist based in Hungary, with 14 gigs on soundchec
 
 Technokool, JAPAU, Paralich
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jauri/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jauri/)*

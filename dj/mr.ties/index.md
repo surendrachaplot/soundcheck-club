@@ -1,6 +1,6 @@
 # Mr. Ties
 
-Mr. Ties is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Herning Geometriske Haver, Denmark on Sat, 26 Jun 2027.
+Mr. Ties is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Herning Geometriske Haver, Denmark on Sat, 26 Jun 2027.
 
 Mr. Ties is a techno and house artist based in Germany, with 9 gigs on soundcheck across Berlin, Denmark, Istanbul and Milan and 2 more. Often billed alongside Tyler Ov Gaia, 4-i and Attila. Next up: TBA - Herning Geometriske Haver, Denmark on Sat 26 Jun.
 
@@ -25,4 +25,4 @@ Mr. Ties is a techno and house artist based in Germany, with 9 gigs on soundchec
 
 Tyler Ov Gaia, 4-i, Attila
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.ties/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.ties/)*

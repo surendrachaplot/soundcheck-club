@@ -1,6 +1,6 @@
 # Peace Keeper
 
-Peace Keeper is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Faust, Seoul on Fri, 20 Nov 2026.
+Peace Keeper is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Faust, Seoul on Fri, 20 Nov 2026.
 
 Peace Keeper is a techno and house artist based in South Korea, with 26 gigs on soundcheck across Seoul. Often billed alongside Kuro, Stann Lumo and HAO(KR). Next up: Faust, Seoul on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Peace Keeper is a techno and house artist based in South Korea, with 26 gigs on 
 
 Kuro, Stann Lumo, HAO(KR)
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peacekeeper/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peacekeeper/)*

@@ -1,6 +1,6 @@
 # Nonna Fab
 
-Nonna Fab is a Funk / Soul and Jazz artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Pan-Pan, Birmingham on Sat, 21 Nov 2026.
+Nonna Fab is a Funk / Soul and Jazz artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Pan-Pan, Birmingham on Sat, 21 Nov 2026.
 
 Nonna Fab is a funk / soul and jazz artist based in United Kingdom, with 97 gigs on soundcheck across Birmingham, Cardiff, Leeds and Liverpool and 5 more. Often billed alongside Joi La Frique, Sirrey and Wow & Flutter. Next up: Pan-Pan, Birmingham on Sat 21 Nov.
 
@@ -28,4 +28,4 @@ Nonna Fab is a funk / soul and jazz artist based in United Kingdom, with 97 gigs
 
 Joi La Frique, Sirrey, Wow & Flutter
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nonnafab/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nonnafab/)*

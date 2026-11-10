@@ -1,6 +1,6 @@
 # Lernon
 
-Lernon is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at FVTVR, Paris on Tue, 10 Nov 2026.
+Lernon is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at FVTVR, Paris on Tue, 10 Nov 2026.
 
 Lernon is a minimal and house artist, with 4 gigs on soundcheck across Amsterdam and Paris. Often billed alongside Amina, Call Super and Legri. Next up: FVTVR, Paris on Tue 10 Nov.
 
@@ -20,4 +20,4 @@ Lernon is a minimal and house artist, with 4 gigs on soundcheck across Amsterdam
 
 Amina, Call Super, Legri
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lernon/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lernon/)*

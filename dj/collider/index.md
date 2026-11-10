@@ -1,6 +1,6 @@
 # Collider
 
-Collider is a Bass and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Brancaleone, Rome on Sat, 21 Nov 2026.
+Collider is a Bass and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Brancaleone, Rome on Sat, 21 Nov 2026.
 
 Collider is a bass and electronica artist based in Italy, with 32 gigs on soundcheck across Bologna, Milan and Rome. Often billed alongside Hemolymph, PPPoldo and Blunderr. Next up: Brancaleone, Rome on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Collider is a bass and electronica artist based in Italy, with 32 gigs on soundc
 
 Hemolymph, PPPoldo, Blunderr
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/collider/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/collider/)*

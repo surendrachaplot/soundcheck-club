@@ -1,6 +1,6 @@
 # LENI (DE)
 
-LENI (DE) is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Kater, Berlin on Sat, 28 Nov 2026.
+LENI (DE) is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Kater, Berlin on Sat, 28 Nov 2026.
 
 LENI (DE) is a house and electronica artist based in Germany, with 23 gigs on soundcheck across Berlin, Hamburg, Leipzig and London and 7 more. Often billed alongside Gina Sabatini, Isabeau Fort and Caleesi. Next up: Kater, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ LENI (DE) is a house and electronica artist based in Germany, with 23 gigs on so
 
 Gina Sabatini, Isabeau Fort, Caleesi
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lenide/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lenide/)*

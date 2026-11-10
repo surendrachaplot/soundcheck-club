@@ -1,6 +1,6 @@
 # The Avalanches
 
-The Avalanches is a Electronica and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Centre Point, Dublin on Sat, 14 Nov 2026.
+The Avalanches is a Electronica and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Centre Point, Dublin on Sat, 14 Nov 2026.
 
 The Avalanches is an electronica and house artist based in Australia, with 13 gigs on soundcheck across Adelaide, Bali, Bristol and Brussels and 7 more. Often billed alongside Flume, 2ManyDJs and 4am Kru. Next up: Centre Point, Dublin on Sat 14 Nov.
 
@@ -28,4 +28,4 @@ The Avalanches is an electronica and house artist based in Australia, with 13 gi
 
 Flume, 2ManyDJs, 4am Kru
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avalanches/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avalanches/)*

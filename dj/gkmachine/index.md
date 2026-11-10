@@ -1,6 +1,6 @@
 # GK Machine
 
-GK Machine is a Acid and Experimental artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at La Cheetah Club, Glasgow on Sat, 14 Nov 2026.
+GK Machine is a Acid and Experimental artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at La Cheetah Club, Glasgow on Sat, 14 Nov 2026.
 
 GK Machine is an acid and experimental artist based in United Kingdom, with 30 gigs on soundcheck across Aberdeen, Edinburgh, Glasgow and Leeds and 1 more. Often billed alongside Illogical Operator, Wrong Party! and Miles J Paralysis. Next up: La Cheetah Club, Glasgow on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ GK Machine is an acid and experimental artist based in United Kingdom, with 30 g
 
 Illogical Operator, Wrong Party!, Miles J Paralysis
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gkmachine/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gkmachine/)*

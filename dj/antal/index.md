@@ -1,6 +1,6 @@
 # Antal
 
-Antal is a House and Disco artist with 13 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Inter-City, The Hague on Sat, 14 Nov 2026.
+Antal is a House and Disco artist with 13 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Inter-City, The Hague on Sat, 14 Nov 2026.
 
 Antal is a house and disco artist based in Netherlands, with 176 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 55 more. Often billed alongside Hunee, Kléo and Coco Maria. Next up: Inter-City, The Hague on Sat 14 Nov.
 
@@ -36,4 +36,4 @@ Antal is a house and disco artist based in Netherlands, with 176 gigs on soundch
 
 Hunee, Kléo, Coco Maria
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antal/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antal/)*

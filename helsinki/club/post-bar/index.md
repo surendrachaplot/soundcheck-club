@@ -1,6 +1,6 @@
 # Post Bar
 
-Post Bar is a music venue in Helsinki with 8 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "DEFRAGGED invites: ⁠Kameliia, undrtow, Ozan, Tatu, ⁠⁠Idamine" on Fri, 13 Nov 2026.
+Post Bar is a music venue in Helsinki with 8 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "DEFRAGGED invites: ⁠Kameliia, undrtow, Ozan, Tatu, ⁠⁠Idamine" on Fri, 13 Nov 2026.
 
 Post Bar is a music venue in Helsinki listed on soundcheck. 8 upcoming gigs, with line-ups including Aurora Halal, Daniel Kayrouz, Denzel and Desto and 2 more. See dates, start times and who's playing. Kaikukatu 2.
 
@@ -21,4 +21,4 @@ Post Bar is a music venue in Helsinki listed on soundcheck. 8 upcoming gigs, wit
 
 Kaikukatu 2, Helsinki
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/post-bar/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/post-bar/)*

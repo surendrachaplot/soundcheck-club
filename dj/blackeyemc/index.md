@@ -1,13 +1,14 @@
 # Blackeye MC
 
-Blackeye MC is a Jungle and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at EXIT Glasgow, Glasgow on Fri, 11 Dec 2026.
+Blackeye MC is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Notting Hill Arts Club, London on Fri, 4 Dec 2026.
 
-Blackeye MC is a jungle and drum & bass artist based in United Kingdom, with 78 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Bristol and 12 more. Often billed alongside Mantra, Double O and Tim Reaper. Next up: EXIT Glasgow, Glasgow on Fri 11 Dec.
+Blackeye MC is a drum & bass and jungle artist based in United Kingdom, with 79 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Bristol and 12 more. Often billed alongside Mantra, Double O and Tim Reaper. Next up: Notting Hill Arts Club, London on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Dec 2026 | Notting Hill Arts Club | London |
 | Fri, 11 Dec 2026 | EXIT Glasgow | Glasgow |
 | Fri, 18 Dec 2026 | Atno | Budapest |
 | Fri, 29 Jan 2027 | The Cause | London |
@@ -27,4 +28,4 @@ Blackeye MC is a jungle and drum & bass artist based in United Kingdom, with 78 
 
 Mantra, Double O, Tim Reaper
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blackeyemc/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blackeyemc/)*

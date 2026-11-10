@@ -1,8 +1,8 @@
 # Bins
 
-Bins is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
+Bins is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
 
-Bins is a house and techno artist, with 7 gigs on soundcheck across Bangkok, Hanoi, Manila and Thailand. Often billed alongside DOTT, Emel and Jirus (MELA). Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
+Bins is a house and techno artist based in Philippines, with 7 gigs on soundcheck across Bangkok, Hanoi, Manila and Thailand. Often billed alongside DOTT, Emel and Jirus (MELA). Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ Bins is a house and techno artist, with 7 gigs on soundcheck across Bangkok, Han
 
 DOTT, Emel, Jirus (MELA)
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bins/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bins/)*

@@ -1,6 +1,6 @@
 # PWRPUFF
 
-PWRPUFF is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Bossa Nova Civic Club, New York City on Sun, 29 Nov 2026.
+PWRPUFF is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Bossa Nova Civic Club, New York City on Sun, 29 Nov 2026.
 
 PWRPUFF is a techno and house artist based in United States of America, with 29 gigs on soundcheck across Baltimore, New York City, Richmond and Washington DC. Often billed alongside Gail Force One, Prince Rose and Joann Fabrixx. Next up: Bossa Nova Civic Club, New York City on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ PWRPUFF is a techno and house artist based in United States of America, with 29 
 
 Gail Force One, Prince Rose, Joann Fabrixx
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pwrpuff/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pwrpuff/)*

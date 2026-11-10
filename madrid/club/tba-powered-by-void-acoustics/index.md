@@ -1,6 +1,6 @@
 # TBA - Powered by: Void Acoustics
 
-TBA - Powered by: Void Acoustics is a music venue in Madrid with 6 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Jaleo Real • 5ª Temporada • Parte 1/3" on Fri, 13 Nov 2026.
+TBA - Powered by: Void Acoustics is a music venue in Madrid with 6 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Jaleo Real • 5ª Temporada • Parte 1/3" on Fri, 13 Nov 2026.
 
 TBA - Powered by: Void Acoustics is a music venue in Madrid listed on soundcheck. 6 upcoming gigs, with line-ups including Ali-Az, Brody, CEM3340 and Elias the Prophet and 2 more. See dates, start times and who's playing.
 
@@ -15,4 +15,4 @@ TBA - Powered by: Void Acoustics is a music venue in Madrid listed on soundcheck
 | Sat, 20 Feb 2027 | Void Control x Sinergia | Brody (2), M. Freelance, NODRESSCODE, enjundia94 |
 | Sat, 8 May 2027 | Void Control VI: a chant of many voices  | Brody (2), M. Freelance, scaruncho |
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/tba-powered-by-void-acoustics/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/tba-powered-by-void-acoustics/)*

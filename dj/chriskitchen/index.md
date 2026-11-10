@@ -1,6 +1,6 @@
 # Chris Kitchen
 
-Chris Kitchen is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Primrose, Leeds on Sat, 21 Nov 2026.
+Chris Kitchen is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Primrose, Leeds on Sat, 21 Nov 2026.
 
 Chris Kitchen is a tech house and house artist, with 19 gigs on soundcheck across Berlin, Leeds and London. Often billed alongside Roya Brehl, LXK. and Cavilla. Next up: The Primrose, Leeds on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Chris Kitchen is a tech house and house artist, with 19 gigs on soundcheck acros
 
 Roya Brehl, LXK., Cavilla
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chriskitchen/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chriskitchen/)*

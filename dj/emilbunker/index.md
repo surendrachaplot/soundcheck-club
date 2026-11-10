@@ -1,6 +1,6 @@
 # Emil Bunker
 
-Emil Bunker is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at K39, Frankfurt on Sat, 19 Dec 2026.
+Emil Bunker is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at K39, Frankfurt on Sat, 19 Dec 2026.
 
 Emil Bunker is a techno and trance artist based in Germany, with 6 gigs on soundcheck across Frankfurt. Often billed alongside Antonym, DeGuzman and Kacy. Next up: K39, Frankfurt on Sat 19 Dec.
 
@@ -22,4 +22,4 @@ Emil Bunker is a techno and trance artist based in Germany, with 6 gigs on sound
 
 Antonym, DeGuzman, Kacy
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emilbunker/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emilbunker/)*

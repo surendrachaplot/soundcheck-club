@@ -1,14 +1,13 @@
 # Nia Archives
 
-Nia Archives is a Jungle and Drum & Bass artist with 10 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at The Regency Ballroom, San Francisco/Oakland on Sun, 8 Nov 2026.
+Nia Archives is a Jungle and Drum & Bass artist with 9 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Société des arts technologiques, Montreal on Tue, 10 Nov 2026.
 
-Nia Archives is a jungle and drum & bass artist based in United Kingdom, with 111 gigs on soundcheck across Amsterdam, Auckland, Bangkok and Barcelona and 35 more. Often billed alongside Overmono, SHERELLE and Oppidan. Next up: The Regency Ballroom, San Francisco/Oakland on Sun 8 Nov.
+Nia Archives is a jungle and drum & bass artist based in United Kingdom, with 111 gigs on soundcheck across Amsterdam, Auckland, Bangkok and Barcelona and 35 more. Often billed alongside Overmono, SHERELLE and Oppidan. Next up: Société des arts technologiques, Montreal on Tue 10 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 8 Nov 2026 | The Regency Ballroom | San Francisco/Oakland |
 | Tue, 10 Nov 2026 | Société des arts technologiques | Montreal |
 | Wed, 11 Nov 2026 | Opera House | Toronto |
 | Tue, 1 Dec 2026 | Uber Eats Music Hall | Berlin |
@@ -34,4 +33,4 @@ Nia Archives is a jungle and drum & bass artist based in United Kingdom, with 11
 
 Overmono, SHERELLE, Oppidan
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/niaarchives/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/niaarchives/)*

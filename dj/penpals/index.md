@@ -1,6 +1,6 @@
 # Pen Pals
 
-Pen Pals is a Italo Disco and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Podlasie Club, Chicago on Thu, 19 Nov 2026.
+Pen Pals is a Italo Disco and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Podlasie Club, Chicago on Thu, 19 Nov 2026.
 
 Pen Pals is an italo disco and disco artist based in United States of America, with 28 gigs on soundcheck across Chicago. Often billed alongside Nolia, Grey People and Jackersize. Next up: Podlasie Club, Chicago on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Pen Pals is an italo disco and disco artist based in United States of America, w
 
 Nolia, Grey People, Jackersize
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/penpals/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/penpals/)*

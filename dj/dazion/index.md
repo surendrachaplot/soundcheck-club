@@ -1,6 +1,6 @@
 # Dazion
 
-Dazion is a Techno and Gabber artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Karmakoma, Belgrade on Fri, 11 Dec 2026.
+Dazion is a Techno and Gabber artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Karmakoma, Belgrade on Fri, 11 Dec 2026.
 
 Dazion is a techno and gabber artist based in Netherlands, with 24 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Belgrade and 2 more. Often billed alongside HyperLili, Jeans (NL) and mul/ANNA. Next up: Karmakoma, Belgrade on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Dazion is a techno and gabber artist based in Netherlands, with 24 gigs on sound
 
 HyperLili, Jeans (NL), mul/ANNA
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dazion/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dazion/)*

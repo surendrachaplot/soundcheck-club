@@ -1,6 +1,6 @@
 # Obskur
 
-Obskur is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 27 Nov 2026.
+Obskur is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 27 Nov 2026.
 
 Obskur is a house and tech house artist, with 166 gigs on soundcheck across Aberdeen, Amsterdam, Austin and Barcelona and 42 more. Often billed alongside East End Dubs, Max Dean and Jamback. Next up: Depot Mayfield, Manchester on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Obskur is a house and tech house artist, with 166 gigs on soundcheck across Aber
 
 East End Dubs, Max Dean, Jamback
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/obskur/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/obskur/)*

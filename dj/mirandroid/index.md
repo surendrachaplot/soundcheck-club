@@ -1,6 +1,6 @@
 # mirandroid
 
-mirandroid is a Bass and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Heavy Sick Zero, Tokyo on Sat, 14 Nov 2026.
+mirandroid is a Bass and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Heavy Sick Zero, Tokyo on Sat, 14 Nov 2026.
 
 mirandroid is a bass and experimental artist based in United Kingdom, with 4 gigs on soundcheck across Mexico City and Tokyo. Often billed alongside cityofbrokendolls, mlosims and Ani Phoebe. Next up: Heavy Sick Zero, Tokyo on Sat 14 Nov.
 
@@ -20,4 +20,4 @@ mirandroid is a bass and experimental artist based in United Kingdom, with 4 gig
 
 cityofbrokendolls, mlosims, Ani Phoebe
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mirandroid/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mirandroid/)*

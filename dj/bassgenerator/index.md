@@ -1,6 +1,6 @@
 # Bass Generator
 
-Bass Generator is a Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Classic Grand, Glasgow on Sat, 30 Jan 2027.
+Bass Generator is a Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Classic Grand, Glasgow on Sat, 30 Jan 2027.
 
 Bass Generator is a trance artist based in United Kingdom, with 8 gigs on soundcheck across Glasgow and Newcastle. Often billed alongside Joe Deacon, The Rhythmic State and Marc Smith. Next up: The Classic Grand, Glasgow on Sat 30 Jan.
 
@@ -24,4 +24,4 @@ Bass Generator is a trance artist based in United Kingdom, with 8 gigs on soundc
 
 Joe Deacon, The Rhythmic State, Marc Smith
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bassgenerator/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bassgenerator/)*

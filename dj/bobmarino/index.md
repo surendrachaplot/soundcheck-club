@@ -1,6 +1,6 @@
 # Bob Marino
 
-Bob Marino is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at 215 W, Detroit on Fri, 20 Nov 2026.
+Bob Marino is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at 215 W, Detroit on Fri, 20 Nov 2026.
 
 Bob Marino is a techno and house artist based in United States of America, with 7 gigs on soundcheck across Detroit. Often billed alongside Brent Shay, A. Garcia and Alexander Technique. Next up: 215 W, Detroit on Fri 20 Nov.
 
@@ -23,4 +23,4 @@ Bob Marino is a techno and house artist based in United States of America, with 
 
 Brent Shay, A. Garcia, Alexander Technique
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bobmarino/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bobmarino/)*

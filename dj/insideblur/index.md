@@ -1,6 +1,6 @@
 # Inside Blur
 
-Inside Blur is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Salon Daomé, Montreal on Sat, 28 Nov 2026.
+Inside Blur is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Salon Daomé, Montreal on Sat, 28 Nov 2026.
 
 Inside Blur is a techno and trance artist based in France, with 41 gigs on soundcheck across Berlin, Brussels, Lyon and Montreal and 3 more. Often billed alongside Anatohl, Xaviera and No Police. Next up: Salon Daomé, Montreal on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Inside Blur is a techno and trance artist based in France, with 41 gigs on sound
 
 Anatohl, Xaviera, No Police
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/insideblur/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/insideblur/)*

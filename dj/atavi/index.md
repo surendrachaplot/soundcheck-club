@@ -1,6 +1,6 @@
 # Atavi
 
-Atavi is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Fitzroy, Berlin on Sun, 15 Nov 2026.
+Atavi is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Fitzroy, Berlin on Sun, 15 Nov 2026.
 
 Atavi is a techno and minimal techno artist based in France, with 4 gigs on soundcheck across Berlin, Budapest and Toulouse. Often billed alongside rêve, Chaton and Elsia. Next up: Fitzroy, Berlin on Sun 15 Nov.
 
@@ -20,4 +20,4 @@ Atavi is a techno and minimal techno artist based in France, with 4 gigs on soun
 
 rêve, Chaton, Elsia
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/atavi/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/atavi/)*

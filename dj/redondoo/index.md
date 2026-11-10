@@ -1,6 +1,6 @@
 # Redondoo
 
-Redondoo is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Lasociaciøn, Madrid on Thu, 24 Dec 2026.
+Redondoo is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Lasociaciøn, Madrid on Thu, 24 Dec 2026.
 
 Redondoo is a techno and electronica artist based in Spain, with 21 gigs on soundcheck across Berlin and Madrid. Often billed alongside K1000o, Yiye and Liszt. Next up: Lasociaciøn, Madrid on Thu 24 Dec.
 
@@ -25,4 +25,4 @@ Redondoo is a techno and electronica artist based in Spain, with 21 gigs on soun
 
 K1000o, Yiye, Liszt
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/redondoo/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/redondoo/)*

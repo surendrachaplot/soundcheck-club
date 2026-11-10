@@ -1,6 +1,6 @@
 # Kardnl
 
-Kardnl is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Music For A While, New York City on Sat, 21 Nov 2026.
+Kardnl is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Music For A While, New York City on Sat, 21 Nov 2026.
 
 Kardnl is a house and tech house artist based in United States of America, with 4 gigs on soundcheck across New York City. Often billed alongside softsky. Next up: Music For A While, New York City on Sat 21 Nov.
 
@@ -20,4 +20,4 @@ Kardnl is a house and tech house artist based in United States of America, with 
 
 softsky
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kardnl/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kardnl/)*

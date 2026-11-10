@@ -1,6 +1,6 @@
 # Bambalan
 
-Bambalan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Funkhaus, Vienna on Fri, 13 Nov 2026.
+Bambalan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Funkhaus, Vienna on Fri, 13 Nov 2026.
 
 Bambalan is a house and techno artist based in Austria, with 31 gigs on soundcheck across Valencia and Vienna. Often billed alongside Jas Rial, Paul Walter and Thomas Grün. Next up: Funkhaus, Vienna on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Bambalan is a house and techno artist based in Austria, with 31 gigs on soundche
 
 Jas Rial, Paul Walter, Thomas Grün
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bambalan/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bambalan/)*

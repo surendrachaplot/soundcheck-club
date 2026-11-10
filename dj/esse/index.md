@@ -1,6 +1,6 @@
 # Esse
 
-Esse is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at NOS Event Center, Los-angeles on Thu, 31 Dec 2026.
+Esse is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at NOS Event Center, Los-angeles on Thu, 31 Dec 2026.
 
 Esse is a house and tech house artist based in Lithuania, with 7 gigs on soundcheck across Amsterdam, Boston, Hamburg and Los Angeles and 2 more. Often billed alongside Alesso, TroyBoi and A Little Sound. Next up: NOS Event Center, Los Angeles on Thu 31 Dec.
 
@@ -23,4 +23,4 @@ Esse is a house and tech house artist based in Lithuania, with 7 gigs on soundch
 
 Alesso, TroyBoi, A Little Sound
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/esse/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/esse/)*

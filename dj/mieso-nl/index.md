@@ -1,6 +1,6 @@
 # MIESØ
 
-MIESØ is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Borisov Amsterdam, Amsterdam on Fri, 20 Nov 2026.
+MIESØ is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Borisov Amsterdam, Amsterdam on Fri, 20 Nov 2026.
 
 MIESØ is a techno and house artist based in Netherlands, with 17 gigs on soundcheck across Amsterdam and Utrecht. Often billed alongside Gaya Carmeli, BVNNII and CØPTER. Next up: Borisov Amsterdam, Amsterdam on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ MIESØ is a techno and house artist based in Netherlands, with 17 gigs on soundc
 
 Gaya Carmeli, BVNNII, CØPTER
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mieso-nl/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mieso-nl/)*

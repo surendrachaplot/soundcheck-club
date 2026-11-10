@@ -1,6 +1,6 @@
 # Mimimosa
 
-Mimimosa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA, Berlin on Fri, 27 Nov 2026.
+Mimimosa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA, Berlin on Fri, 27 Nov 2026.
 
 Mimimosa is a techno and house artist based in Germany, with 5 gigs on soundcheck across Berlin. Often billed alongside Christa K, AGILY and Beqqi. Next up: TBA, Berlin on Fri 27 Nov.
 
@@ -21,4 +21,4 @@ Mimimosa is a techno and house artist based in Germany, with 5 gigs on soundchec
 
 Christa K, AGILY, Beqqi
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mimimosa/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mimimosa/)*

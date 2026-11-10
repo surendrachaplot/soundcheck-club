@@ -1,6 +1,6 @@
 # Craig Gonzalez
 
-Craig Gonzalez is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Marble Bar, Detroit on Fri, 27 Nov 2026.
+Craig Gonzalez is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Marble Bar, Detroit on Fri, 27 Nov 2026.
 
 Craig Gonzalez is a techno and house artist based in United States of America, with 73 gigs on soundcheck across Berlin, Chicago, Cleveland and Detroit and 4 more. Often billed alongside DJ SPHiNX, Erika and Patrick Russell. Next up: Marble Bar, Detroit on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Craig Gonzalez is a techno and house artist based in United States of America, w
 
 DJ SPHiNX, Erika, Patrick Russell
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/craiggonzalez/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/craiggonzalez/)*

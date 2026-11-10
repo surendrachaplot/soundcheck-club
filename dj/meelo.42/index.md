@@ -1,6 +1,6 @@
 # Meelo.42
 
-Meelo.42 is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Klub K4, Ljubljana on Fri, 13 Nov 2026.
+Meelo.42 is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Klub K4, Ljubljana on Fri, 13 Nov 2026.
 
 Meelo.42 is a techno and electro artist based in Slovenia, with 3 gigs on soundcheck across Belgrade and Ljubljana. Often billed alongside Impedance, Lollipop Janosz and Unknown Texture. Next up: Klub K4, Ljubljana on Fri 13 Nov.
 
@@ -19,4 +19,4 @@ Meelo.42 is a techno and electro artist based in Slovenia, with 3 gigs on soundc
 
 Impedance, Lollipop Janosz, Unknown Texture
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meelo.42/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meelo.42/)*

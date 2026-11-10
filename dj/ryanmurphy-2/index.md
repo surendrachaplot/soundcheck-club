@@ -1,14 +1,15 @@
 # Ryan Murphy (2)
 
-Ryan Murphy (2) is a Techno and Garage artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Sneaky Pete's, Edinburgh on Wed, 18 Nov 2026.
+Ryan Murphy (2) is a Techno and Garage artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Sneaky Pete's, Edinburgh on Wed, 18 Nov 2026.
 
-Ryan Murphy is a techno and garage artist based in United Kingdom, with 9 gigs on soundcheck across Edinburgh. Often billed alongside OFFGRID, TOOKAST and ARWEN. Next up: Sneaky Pete's, Edinburgh on Wed 18 Nov.
+Ryan Murphy is a techno and garage artist based in United Kingdom, with 10 gigs on soundcheck across Edinburgh. Often billed alongside OFFGRID, TOOKAST and ARWEN. Next up: Sneaky Pete's, Edinburgh on Wed 18 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 18 Nov 2026 | Sneaky Pete's | Edinburgh |
+| Sat, 21 Nov 2026 | The Mash House | Edinburgh |
 | Sun, 20 Dec 2026 | Sneaky Pete's | Edinburgh |
 
 ## Recently played
@@ -25,4 +26,4 @@ Ryan Murphy is a techno and garage artist based in United Kingdom, with 9 gigs o
 
 OFFGRID, TOOKAST, ARWEN
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanmurphy-2/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanmurphy-2/)*

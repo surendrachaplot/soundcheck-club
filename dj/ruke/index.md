@@ -1,6 +1,6 @@
 # RUKE
 
-RUKE is a House and Amapiano artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Z Maruyama, Tokyo on Fri, 20 Nov 2026.
+RUKE is a House and Amapiano artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Z Maruyama, Tokyo on Fri, 20 Nov 2026.
 
 RUKE is a house and amapiano artist based in Japan, with 55 gigs on soundcheck across Bangkok and Tokyo. Often billed alongside MUNÉO, INAE and DJ POIPOI. Next up: Z Maruyama, Tokyo on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ RUKE is a house and amapiano artist based in Japan, with 55 gigs on soundcheck a
 
 MUNÉO, INAE, DJ POIPOI
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ruke/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ruke/)*

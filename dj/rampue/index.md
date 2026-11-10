@@ -1,6 +1,6 @@
 # Rampue
 
-Rampue is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Het Sieraad, Amsterdam on Sat, 14 Nov 2026.
+Rampue is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Het Sieraad, Amsterdam on Sat, 14 Nov 2026.
 
 Rampue is a house and techno artist based in Germany, with 87 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 24 more. Often billed alongside Britta Arnold, Chris Schwarzwälder and Mimi Love. Next up: Het Sieraad, Amsterdam on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Rampue is a house and techno artist based in Germany, with 87 gigs on soundcheck
 
 Britta Arnold, Chris Schwarzwälder, Mimi Love
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rampue/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rampue/)*

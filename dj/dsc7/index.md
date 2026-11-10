@@ -1,6 +1,6 @@
 # DSC7
 
-DSC7 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at AMT, Berlin on Tue, 10 Nov 2026.
+DSC7 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at AMT, Berlin on Tue, 10 Nov 2026.
 
 DSC7 is a techno and trance artist based in Argentina, with 17 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Madrid. Often billed alongside JUICY (DE), 4NOUK and ALISA FILATOVA. Next up: AMT, Berlin on Tue 10 Nov.
 
@@ -25,4 +25,4 @@ DSC7 is a techno and trance artist based in Argentina, with 17 gigs on soundchec
 
 JUICY (DE), 4NOUK, ALISA FILATOVA
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dsc7/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dsc7/)*

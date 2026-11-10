@@ -1,6 +1,6 @@
 # Ize (1)
 
-Ize (1) is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Nico's Bar at Hackney Bridge, London on Fri, 27 Nov 2026.
+Ize (1) is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Nico's Bar at Hackney Bridge, London on Fri, 27 Nov 2026.
 
 Ize is a house and garage artist based in United Kingdom, with 29 gigs on soundcheck across Brighton and London. Often billed alongside Alfaz, Tenzin and ARLYSS. Next up: Nico's Bar at Hackney Bridge, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Ize is a house and garage artist based in United Kingdom, with 29 gigs on soundc
 
 Alfaz, Tenzin, ARLYSS
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ize-1/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ize-1/)*

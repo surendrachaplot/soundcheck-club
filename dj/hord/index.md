@@ -1,6 +1,6 @@
 # HorD
 
-HorD is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Frekuence, Tirana on Fri, 13 Nov 2026.
+HorD is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Frekuence, Tirana on Fri, 13 Nov 2026.
 
 HorD is an acid and techno artist based in Germany, with 4 gigs on soundcheck across Barcelona, Berlin, Prague and Tirana. Often billed alongside Alex Neivel, Alexander Stone and Avni Leka. Next up: Frekuence, Tirana on Fri 13 Nov.
 
@@ -20,4 +20,4 @@ HorD is an acid and techno artist based in Germany, with 4 gigs on soundcheck ac
 
 Alex Neivel, Alexander Stone, Avni Leka
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hord/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hord/)*

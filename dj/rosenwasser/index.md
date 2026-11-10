@@ -1,6 +1,6 @@
 # Røsenwasser
 
-Røsenwasser is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Sensorium, Berlin on Wed, 9 Dec 2026.
+Røsenwasser is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Sensorium, Berlin on Wed, 9 Dec 2026.
 
 Røsenwasser is a techno and tech house artist based in Latvia, with 4 gigs on soundcheck across Berlin and Riga. Often billed alongside BIJI ON DECKS, BOOTHBUNNY and Bloodkedelic. Next up: Sensorium, Berlin on Wed 9 Dec.
 
@@ -20,4 +20,4 @@ Røsenwasser is a techno and tech house artist based in Latvia, with 4 gigs on s
 
 BIJI ON DECKS, BOOTHBUNNY, Bloodkedelic
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rosenwasser/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rosenwasser/)*

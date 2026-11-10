@@ -1,0 +1,28 @@
+# Willing Witness
+
+Willing Witness is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Rote Flora, Hamburg on Sat, 21 Nov 2026.
+
+Willing Witness is a techno and electro artist based in Germany, with 17 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Falke, Antoine Baiser and Marco Baskind. Next up: Rote Flora, Hamburg on Sat 21 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 21 Nov 2026 | Rote Flora | Hamburg |
+
+## Recently played
+
+- Turtur, Hamburg · Sat, 7 Nov 2026
+- MS Artville, Hamburg · Sat, 18 Jul 2026
+- Turtur, Hamburg · Sat, 18 Apr 2026
+- Südpol, Hamburg · Sat, 24 Jan 2026
+- Südpol, Hamburg · Fri, 26 Dec 2025
+- Turtur, Hamburg · Sun, 14 Dec 2025
+- Renate, Berlin · Thu, 2 Oct 2025
+- MS Artville, Hamburg · Sat, 19 Jul 2025
+
+## Shares bills with
+
+Falke, Antoine Baiser, Marco Baskind
+
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/willingwitness/)*

@@ -1,6 +1,6 @@
 # Joung Philip
 
-Joung Philip is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Holy Poly, Lower-saxony on Fri, 20 Nov 2026.
+Joung Philip is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Holy Poly, Lower-saxony on Fri, 20 Nov 2026.
 
 Joung Philip is a techno and trance artist based in Germany, with 4 gigs on soundcheck across Berlin, Lower Saxony and Münster. Often billed alongside KYUB, DJ Dios and FRÆNCIS. Next up: Holy Poly, Lower Saxony on Fri 20 Nov.
 
@@ -20,4 +20,4 @@ Joung Philip is a techno and trance artist based in Germany, with 4 gigs on soun
 
 KYUB, DJ Dios, FRÆNCIS
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joungphilip/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joungphilip/)*

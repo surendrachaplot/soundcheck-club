@@ -1,6 +1,6 @@
 # Artemis.105
 
-Artemis.105 is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at El Secreto De Rosita, Washington DC on Sat, 21 Nov 2026.
+Artemis.105 is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at El Secreto De Rosita, Washington DC on Sat, 21 Nov 2026.
 
 Artemis.105 is a techno and club artist based in United States of America, with 30 gigs on soundcheck across Baltimore, New York City, Philadelphia and Washington DC. Often billed alongside side II side, Juana and Nocturnal Wax. Next up: El Secreto De Rosita, Washington DC on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Artemis.105 is a techno and club artist based in United States of America, with 
 
 side II side, Juana, Nocturnal Wax
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/artemis.105/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/artemis.105/)*

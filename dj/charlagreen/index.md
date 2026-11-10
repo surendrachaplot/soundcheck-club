@@ -1,6 +1,6 @@
 # Charla Green
 
-Charla Green is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Village Underground Barcelona, Barcelona on Sat, 21 Nov 2026.
+Charla Green is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Village Underground Barcelona, Barcelona on Sat, 21 Nov 2026.
 
 Charla Green is a drum & bass and jungle artist based in United Kingdom, with 53 gigs on soundcheck across Barcelona, Brighton, Bristol and Leeds and 5 more. Often billed alongside King Chuga, Phatworld and 96 Back. Next up: Village Underground Barcelona, Barcelona on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Charla Green is a drum & bass and jungle artist based in United Kingdom, with 53
 
 King Chuga, Phatworld, 96 Back
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/charlagreen/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/charlagreen/)*

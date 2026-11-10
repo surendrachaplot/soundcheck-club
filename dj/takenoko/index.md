@@ -1,14 +1,15 @@
 # TAKENOKO
 
-TAKENOKO is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Bolero, Seoul on Fri, 13 Nov 2026.
+TAKENOKO is a Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Bolero, Seoul on Fri, 13 Nov 2026.
 
-TAKENOKO is a bass and techno artist based in Japan, with 67 gigs on soundcheck across Kyoto, Osaka, Seoul and Tokyo. Often billed alongside SAMO (JP), YUVIE and kengotaki. Next up: Bolero, Seoul on Fri 13 Nov.
+TAKENOKO is a bass and techno artist based in Japan, with 68 gigs on soundcheck across Kyoto, Osaka, Seoul and Tokyo. Often billed alongside SAMO (JP), YUVIE and kengotaki. Next up: Bolero, Seoul on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Bolero | Seoul |
+| Sat, 14 Nov 2026 | Bolero | Seoul |
 | Sun, 22 Nov 2026 | ZEROTOKYO | Tokyo |
 
 ## Recently played
@@ -26,4 +27,4 @@ TAKENOKO is a bass and techno artist based in Japan, with 67 gigs on soundcheck 
 
 SAMO (JP), YUVIE, kengotaki
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/takenoko/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/takenoko/)*

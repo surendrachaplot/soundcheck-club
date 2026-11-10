@@ -1,6 +1,6 @@
 # PuppyFat
 
-PuppyFat is a House and Dubstep artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Gloucester Ski & Snowboard Centre, Bristol on Sat, 6 Feb 2027.
+PuppyFat is a House and Dubstep artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Gloucester Ski & Snowboard Centre, Bristol on Sat, 6 Feb 2027.
 
 PuppyFat is a house and dubstep artist based in United Kingdom, with 9 gigs on soundcheck across Brighton, Bristol, Glasgow and London. Often billed alongside B4B, DJ TinyHandz and FURIOUS STYLES. Next up: Gloucester Ski & Snowboard Centre, Bristol on Sat 6 Feb.
 
@@ -25,4 +25,4 @@ PuppyFat is a house and dubstep artist based in United Kingdom, with 9 gigs on s
 
 B4B (1), DJ TinyHandz, FURIOUS STYLES
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/puppyfat/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/puppyfat/)*

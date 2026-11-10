@@ -1,6 +1,6 @@
 # SIGGY
 
-SIGGY is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at DRUMSHEDS, London on Fri, 13 Nov 2026.
+SIGGY is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at DRUMSHEDS, London on Fri, 13 Nov 2026.
 
 SIGGY is a disco and house artist based in United Kingdom, with 4 gigs on soundcheck across Ibiza, Liverpool, London and Manchester. Often billed alongside Dan Shake, Annie Mac and Black Hawks of Panamá. Next up: DRUMSHEDS, London on Fri 13 Nov.
 
@@ -20,4 +20,4 @@ SIGGY is a disco and house artist based in United Kingdom, with 4 gigs on soundc
 
 Dan Shake, Annie Mac, Black Hawks of Panamá
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/siggy/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/siggy/)*

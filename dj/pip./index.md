@@ -1,6 +1,6 @@
 # PIP.
 
-PIP. is a House and Electro artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at The Berkeley Suite, Glasgow on Fri, 13 Nov 2026.
+PIP. is a House and Electro artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at The Berkeley Suite, Glasgow on Fri, 13 Nov 2026.
 
 PIP. is a house and electro artist based in United Kingdom, with 47 gigs on soundcheck across Amsterdam, Glasgow, Leeds and London and 3 more. Often billed alongside Weston, FroD and Westy. Next up: The Berkeley Suite, Glasgow on Fri 13 Nov.
 
@@ -28,4 +28,4 @@ PIP. is a house and electro artist based in United Kingdom, with 47 gigs on soun
 
 Weston, FroD, Westy
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pip./)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pip./)*

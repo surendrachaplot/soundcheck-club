@@ -1,6 +1,6 @@
 # MCMLXXXV
 
-MCMLXXXV is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Pillbox Beijing, Beijing on Fri, 13 Nov 2026.
+MCMLXXXV is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Pillbox Beijing, Beijing on Fri, 13 Nov 2026.
 
 MCMLXXXV is a techno and house artist based in Germany, with 210 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bangkok and 64 more. Often billed alongside CEM, Dj Saliva and JASSS. Next up: Pillbox Beijing, Beijing on Fri 13 Nov.
 
@@ -28,4 +28,4 @@ MCMLXXXV is a techno and house artist based in Germany, with 210 gigs on soundch
 
 CEM, Dj Saliva, JASSS
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mcmlxxxv/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mcmlxxxv/)*

@@ -1,6 +1,6 @@
 # Schwefelgelb
 
-Schwefelgelb is a Techno and EBM artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Tresor / Globus, Berlin on Mon, 9 Nov 2026.
+Schwefelgelb is a Techno and EBM artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Tresor / Globus, Berlin on Mon, 9 Nov 2026.
 
 Schwefelgelb is a techno and ebm artist based in Germany, with 78 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 34 more. Often billed alongside Ancient Methods, OTHR and Parrish Smith. Next up: Tresor / Globus, Berlin on Mon 9 Nov.
 
@@ -14,6 +14,7 @@ Schwefelgelb is a techno and ebm artist based in Germany, with 78 gigs on soundc
 
 ## Recently played
 
+- Tresor / Globus, Berlin · Mon, 9 Nov 2026
 - Daina | Kaunas, Lithuania · Sat, 7 Nov 2026
 - Elastica, Vilnius · Fri, 6 Nov 2026
 - Abyss Shanghai, Shanghai · Fri, 30 Oct 2026
@@ -21,10 +22,9 @@ Schwefelgelb is a techno and ebm artist based in Germany, with 78 gigs on soundc
 - OIL Club, Shenzhen · Fri, 23 Oct 2026
 - Pillbox Beijing, Beijing · Sat, 17 Oct 2026
 - RSO.BERLIN, Berlin · Fri, 2 Oct 2026
-- OXI, Berlin · Tue, 15 Sept 2026
 
 ## Shares bills with
 
 Ancient Methods, OTHR, Parrish Smith
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/schwefelgelb/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/schwefelgelb/)*

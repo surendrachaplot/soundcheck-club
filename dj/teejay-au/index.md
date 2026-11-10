@@ -1,6 +1,6 @@
 # TEEJAY
 
-TEEJAY is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Solace, Melbourne on Sat, 14 Nov 2026.
+TEEJAY is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Solace, Melbourne on Sat, 14 Nov 2026.
 
 TEEJAY is a techno and house artist based in Australia, with 15 gigs on soundcheck across London and Melbourne. Often billed alongside Bby Cass, ADMINISTRATOR and Charlotte Rooney. Next up: Solace, Melbourne on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ TEEJAY is a techno and house artist based in Australia, with 15 gigs on soundche
 
 Bby Cass, ADMINISTRATOR, Charlotte Rooney
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/teejay-au/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/teejay-au/)*

@@ -1,6 +1,6 @@
 # HALFPINT
 
-HALFPINT is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 27 Nov 2026.
+HALFPINT is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 27 Nov 2026.
 
 HALFPINT is a house and techno artist based in United Kingdom, with 51 gigs on soundcheck across Aberdeen, Amsterdam, Belfast and Brighton and 7 more. Often billed alongside Jamback, Sossa and Prospa. Next up: Depot Mayfield, Manchester on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ HALFPINT is a house and techno artist based in United Kingdom, with 51 gigs on s
 
 Jamback, Sossa, Prospa
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/halfpint/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/halfpint/)*

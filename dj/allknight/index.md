@@ -1,6 +1,6 @@
 # ALLKNIGHT
 
-ALLKNIGHT is a Deep House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at The Roundhouse, London on Fri, 13 Nov 2026.
+ALLKNIGHT is a Deep House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at The Roundhouse, London on Fri, 13 Nov 2026.
 
 ALLKNIGHT is a deep house and progressive house artist based in United Kingdom, with 15 gigs on soundcheck across Amsterdam, London, Madrid and Manchester and 2 more. Often billed alongside Estiva, MXV (UK) and Fejká. Next up: The Roundhouse, London on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ ALLKNIGHT is a deep house and progressive house artist based in United Kingdom, 
 
 Estiva, MXV (UK), Fejká
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/allknight/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/allknight/)*

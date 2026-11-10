@@ -1,6 +1,6 @@
 # Zoom Club
 
-Zoom Club is a music venue in Frankfurt with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "240KM/H x Heat x Face2Face Frankfurt" on Sat, 5 Dec 2026.
+Zoom Club is a music venue in Frankfurt with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "240KM/H x Heat x Face2Face Frankfurt" on Sat, 5 Dec 2026.
 
 Zoom Club is a music venue in Frankfurt listed on soundcheck. 4 upcoming gigs, with line-ups including Cara Elizabeth, O.B.I. (DE), Ornella and Paraçek and 2 more. See dates, start times and who's playing. Carl-Benz-Straße 21, 60386 Frankfurt am Main, Germany.
 
@@ -17,4 +17,4 @@ Zoom Club is a music venue in Frankfurt listed on soundcheck. 4 upcoming gigs, w
 
 Carl-Benz-Straße 21, 60386 Frankfurt am Main, Germany, Frankfurt
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/zoom-club/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/zoom-club/)*

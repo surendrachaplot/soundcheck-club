@@ -1,6 +1,6 @@
 # PETERBLUE
 
-PETERBLUE is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Colour Factory, London on Fri, 13 Nov 2026.
+PETERBLUE is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Colour Factory, London on Fri, 13 Nov 2026.
 
 PETERBLUE is a techno and trance artist based in Colombia, with 89 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 40 more. Often billed alongside Noise Mafia, Adrian Mills and fumi (DE). Next up: Colour Factory, London on Fri 13 Nov.
 
@@ -30,4 +30,4 @@ PETERBLUE is a techno and trance artist based in Colombia, with 89 gigs on sound
 
 Noise Mafia, Adrian Mills, fumi (DE)
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peterblue/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peterblue/)*

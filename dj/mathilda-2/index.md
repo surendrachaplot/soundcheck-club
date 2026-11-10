@@ -1,14 +1,15 @@
 # MATHILDA (2)
 
-MATHILDA (2) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at WDM, Hannover on Fri, 13 Nov 2026.
+MATHILDA (2) is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at WDM, Hannover on Fri, 13 Nov 2026.
 
-MATHILDA is a techno and house artist based in Germany, with 68 gigs on soundcheck across Berlin, Cologne, Hamburg and Hannover and 5 more. Often billed alongside Carluschka, DJ SPORTSCHUH and Talia Dorr. Next up: WDM, Hannover on Fri 13 Nov.
+MATHILDA is a techno and house artist based in Germany, with 69 gigs on soundcheck across Berlin, Cologne, Hamburg and Hannover and 5 more. Often billed alongside Carluschka, DJ SPORTSCHUH and Talia Dorr. Next up: WDM, Hannover on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | WDM | Hannover |
+| Fri, 20 Nov 2026 | Indiego Glocksee | Hannover |
 | Sat, 21 Nov 2026 | ://about blank | Berlin |
 | Sat, 19 Dec 2026 | Kater | Berlin |
 
@@ -27,4 +28,4 @@ MATHILDA is a techno and house artist based in Germany, with 68 gigs on soundche
 
 Carluschka, DJ SPORTSCHUH, Talia Dorr
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mathilda-2/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mathilda-2/)*

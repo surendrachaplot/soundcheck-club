@@ -1,6 +1,6 @@
 # WINDFUHR
 
-WINDFUHR is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Rote Sonne, Munich on Sat, 28 Nov 2026.
+WINDFUHR is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Rote Sonne, Munich on Sat, 28 Nov 2026.
 
 WINDFUHR is a techno and house artist based in Germany, with 60 gigs on soundcheck across Amsterdam, Athens, Berlin and Hamburg and 14 more. Often billed alongside Hitam, Angioma and Phil Berg. Next up: Rote Sonne, Munich on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ WINDFUHR is a techno and house artist based in Germany, with 60 gigs on soundche
 
 Hitam, Angioma, Phil Berg
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/windfuhr/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/windfuhr/)*

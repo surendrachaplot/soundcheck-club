@@ -1,6 +1,6 @@
 # Metaraph
 
-Metaraph is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at FOLD, London on Fri, 13 Nov 2026.
+Metaraph is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at FOLD, London on Fri, 13 Nov 2026.
 
 Metaraph is a techno and industrial artist based in United Kingdom, with 181 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 57 more. Often billed alongside Mar/us, Ellen Allien and Samantha Togni. Next up: FOLD, London on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Metaraph is a techno and industrial artist based in United Kingdom, with 181 gig
 
 Mar/us, Ellen Allien, Samantha Togni
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/metaraph/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/metaraph/)*

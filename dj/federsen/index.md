@@ -1,6 +1,6 @@
 # Federsen
 
-Federsen is a Dub Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Turbina, Budapest on Sat, 14 Nov 2026.
+Federsen is a Dub Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Turbina, Budapest on Sat, 14 Nov 2026.
 
 Federsen is a dub techno and acid artist based in United States of America, with 5 gigs on soundcheck across Budapest, London, Manchester and Prague. Often billed alongside Andy Green, Antepop and Ferenc Szanati. Next up: Turbina, Budapest on Sat 14 Nov.
 
@@ -21,4 +21,4 @@ Federsen is a dub techno and acid artist based in United States of America, with
 
 Andy Green, Antepop, Ferenc Szanati
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/federsen/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/federsen/)*

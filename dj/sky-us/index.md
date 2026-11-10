@@ -1,6 +1,6 @@
 # S K Y
 
-S K Y is a Afrobeat and Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
+S K Y is a Afrobeat and Afro House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
 
 S K Y is an afrobeat and afro house artist, with 5 gigs on soundcheck across Montreal, Paris, Rio de Janeiro and South Korea and 1 more. Often billed alongside A K, Adroit Joe and BASSKRAP. Next up: TBA - Jacks Bar, South Korea on Sat 14 Nov.
 
@@ -21,4 +21,4 @@ S K Y is an afrobeat and afro house artist, with 5 gigs on soundcheck across Mon
 
 A K, Adroit Joe, BASSKRAP
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sky-us/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sky-us/)*

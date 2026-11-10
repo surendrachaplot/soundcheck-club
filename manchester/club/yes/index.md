@@ -1,6 +1,6 @@
 # Yes
 
-Yes is a music venue in Manchester with 15 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Reek0 - Hybrid Live and Extended DJ Set" on Fri, 13 Nov 2026.
+Yes is a music venue in Manchester with 15 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Reek0 - Hybrid Live and Extended DJ Set" on Fri, 13 Nov 2026.
 
 Yes is a music venue in Manchester listed on soundcheck. 15 upcoming gigs, with line-ups including Conducta, Girls of the Internet, Jackum and Jacques Greene and 2 more. See dates, start times and who's playing. 38 Charles Street Manchester, M1 7BD, United Kingdom.
 
@@ -23,4 +23,4 @@ Yes is a music venue in Manchester listed on soundcheck. 15 upcoming gigs, with 
 
 38 Charles Street Manchester, M1 7BD, United Kingdom, Manchester
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/yes/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/yes/)*

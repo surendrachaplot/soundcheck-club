@@ -1,13 +1,14 @@
 # Sandilé
 
-Sandilé is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Gewölbe, Cologne on Fri, 18 Dec 2026.
+Sandilé is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Open Ground, Wuppertal on Sat, 12 Dec 2026.
 
-Sandilé is a house and techno artist based in Germany, with 62 gigs on soundcheck across Berlin, Bratislava, Cologne and Dortmund / Essen and 5 more. Often billed alongside DCHM, Cinthie and Thabo. Next up: Gewölbe, Cologne on Fri 18 Dec.
+Sandilé is a house and techno artist based in Germany, with 63 gigs on soundcheck across Berlin, Bratislava, Cologne and Dortmund / Essen and 6 more. Often billed alongside DCHM, Cinthie and Sebastian Habben. Next up: Open Ground, Wuppertal on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Dec 2026 | Open Ground | Wuppertal |
 | Fri, 18 Dec 2026 | Gewölbe | Cologne |
 
 ## Recently played
@@ -23,6 +24,6 @@ Sandilé is a house and techno artist based in Germany, with 62 gigs on soundche
 
 ## Shares bills with
 
-DCHM, Cinthie, Thabo
+DCHM, Cinthie, Sebastian Habben
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sandile-de/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sandile-de/)*

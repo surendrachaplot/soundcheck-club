@@ -1,6 +1,6 @@
 # Kater
 
-Kater is a music venue in Berlin with 18 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Hot Mess with eveava" on Thu, 12 Nov 2026.
+Kater is a music venue in Berlin with 18 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Hot Mess with eveava" on Thu, 12 Nov 2026.
 
 Kater is a music venue in Berlin listed on soundcheck. 18 upcoming gigs, with line-ups including Acid Pauli, Aio, Alison Swing and alko and 2 more. See dates, start times and who's playing. Holzmarktstrasse 25, 10243 Berlin.
 
@@ -23,4 +23,4 @@ Kater is a music venue in Berlin listed on soundcheck. 18 upcoming gigs, with li
 
 Holzmarktstrasse 25, 10243 Berlin, Berlin
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kater/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kater/)*

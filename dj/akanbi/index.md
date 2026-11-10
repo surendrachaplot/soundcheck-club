@@ -1,6 +1,6 @@
 # Akanbi
 
-Akanbi is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Bossa Nova Civic Club, New York City on Sun, 22 Nov 2026.
+Akanbi is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Bossa Nova Civic Club, New York City on Sun, 22 Nov 2026.
 
 Akanbi is a techno and bass artist based in United States of America, with 127 gigs on soundcheck across Amsterdam, Basel, Berlin and Bristol and 22 more. Often billed alongside The Large, Yogic and Ayanna Heaven. Next up: Bossa Nova Civic Club, New York City on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ Akanbi is a techno and bass artist based in United States of America, with 127 g
 
 The Large, Yogic, Ayanna Heaven
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akanbi/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akanbi/)*

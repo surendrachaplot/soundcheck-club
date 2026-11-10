@@ -1,14 +1,15 @@
 # The Dreamer
 
-The Dreamer is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Romantso, Athens on Fri, 13 Nov 2026.
+The Dreamer is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Romantso, Athens on Fri, 13 Nov 2026.
 
-The Dreamer is a house and techno artist based in Greece, with 117 gigs on soundcheck across Athens, Berlin, Istanbul and London and 3 more. Often billed alongside WrappeD In PlastiC, SIMEONSKG and ClubKid. Next up: Romantso, Athens on Fri 13 Nov.
+The Dreamer is a house and techno artist based in Greece, with 118 gigs on soundcheck across Athens, Berlin, Istanbul and London and 3 more. Often billed alongside WrappeD In PlastiC, SIMEONSKG and ClubKid. Next up: Romantso, Athens on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Romantso | Athens |
+| Fri, 13 Nov 2026 | Yan Gastro | Istanbul |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ The Dreamer is a house and techno artist based in Greece, with 117 gigs on sound
 
 WrappeD In PlastiC, SIMEONSKG, ClubKid
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thedreamer/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thedreamer/)*

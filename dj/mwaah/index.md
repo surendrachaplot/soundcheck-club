@@ -1,6 +1,6 @@
 # Mwaah
 
-Mwaah is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Goldener Salon, Hamburg on Sun, 15 Nov 2026.
+Mwaah is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Goldener Salon, Hamburg on Sun, 15 Nov 2026.
 
 Mwaah is a techno and house artist based in Germany, with 28 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Dresden and 2 more. Often billed alongside Barabass, Punching Polly and gemue. Next up: Goldener Salon, Hamburg on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Mwaah is a techno and house artist based in Germany, with 28 gigs on soundcheck 
 
 Barabass, Punching Polly, gemue
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mwaah/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mwaah/)*

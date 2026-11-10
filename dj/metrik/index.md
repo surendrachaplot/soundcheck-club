@@ -1,6 +1,6 @@
 # Metrik
 
-Metrik is a Drum & Bass and Bass artist with 6 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at La Riviera, Madrid on Sat, 5 Dec 2026.
+Metrik is a Drum & Bass and Bass artist with 6 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at La Riviera, Madrid on Sat, 5 Dec 2026.
 
 Metrik is a drum & bass and bass artist based in United Kingdom, with 69 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Barcelona and 29 more. Often billed alongside Degs, Camo & Krooked and Whiney. Next up: La Riviera, Madrid on Sat 5 Dec.
 
@@ -30,4 +30,4 @@ Metrik is a drum & bass and bass artist based in United Kingdom, with 69 gigs on
 
 Degs, Camo & Krooked, Whiney
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/metrik/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/metrik/)*

@@ -1,6 +1,6 @@
 # Belasto
 
-Belasto is a Trance and Gabber artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Helios37, Cologne on Sat, 28 Nov 2026.
+Belasto is a Trance and Gabber artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Helios37, Cologne on Sat, 28 Nov 2026.
 
 Belasto is a trance and gabber artist based in Germany, with 4 gigs on soundcheck across Cologne and Frankfurt. Often billed alongside HKKPTR, Sabu! and Danilo Filipe. Next up: Helios37, Cologne on Sat 28 Nov.
 
@@ -20,4 +20,4 @@ Belasto is a trance and gabber artist based in Germany, with 4 gigs on soundchec
 
 HKKPTR, Sabu!, Danilo Filipe
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/belasto/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/belasto/)*

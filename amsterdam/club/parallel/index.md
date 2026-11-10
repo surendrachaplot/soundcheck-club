@@ -1,6 +1,6 @@
 # Parallel
 
-Parallel is a music venue in Amsterdam with 9 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Ziongate x Moonshine" on Fri, 13 Nov 2026.
+Parallel is a music venue in Amsterdam with 9 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Ziongate x Moonshine" on Fri, 13 Nov 2026.
 
 Parallel is a music venue in Amsterdam listed on soundcheck. 9 upcoming gigs, with line-ups including Hamdi (UK), I-RO, MALLAURY and Nene H and 2 more. See dates, start times and who's playing. Buiksloterweg 5C, 1031 CC Amsterdam.
 
@@ -22,4 +22,4 @@ Parallel is a music venue in Amsterdam listed on soundcheck. 9 upcoming gigs, wi
 
 Buiksloterweg 5C, 1031 CC Amsterdam, Amsterdam
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/parallel/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/parallel/)*

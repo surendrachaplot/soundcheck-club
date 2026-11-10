@@ -1,6 +1,6 @@
 # Neri
 
-Neri is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at The Life Standard, Tokyo on Wed, 11 Nov 2026.
+Neri is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at The Life Standard, Tokyo on Wed, 11 Nov 2026.
 
 Neri is a house and disco artist based in Japan, with 113 gigs on soundcheck across Athens, Mexico City and Tokyo. Often billed alongside DJ ISE, DJ Shu-ma and Stev3NN. Next up: The Life Standard, Tokyo on Wed 11 Nov.
 
@@ -28,4 +28,4 @@ Neri is a house and disco artist based in Japan, with 113 gigs on soundcheck acr
 
 DJ ISE, DJ Shu-ma, Stev3NN
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neri/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neri/)*

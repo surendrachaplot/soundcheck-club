@@ -1,6 +1,6 @@
 # ALL1SØN
 
-ALL1SØN is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Rooftop105, Geneva on Sat, 14 Nov 2026.
+ALL1SØN is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Rooftop105, Geneva on Sat, 14 Nov 2026.
 
 ALL1SØN is a techno and acid artist based in Italy, with 3 gigs on soundcheck across Geneva. Often billed alongside Alex Nantaya, Christelle Angela and JUICYMOKA. Next up: Rooftop105, Geneva on Sat 14 Nov.
 
@@ -19,4 +19,4 @@ ALL1SØN is a techno and acid artist based in Italy, with 3 gigs on soundcheck a
 
 Alex Nantaya, Christelle Angela, JUICYMOKA
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/all1son/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/all1son/)*

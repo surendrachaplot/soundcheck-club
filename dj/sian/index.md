@@ -1,6 +1,6 @@
 # Sian
 
-Sian is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Sky Beach - The Standard Bangkok Mahanakhon, Bangkok on Sat, 14 Nov 2026.
+Sian is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Sky Beach - The Standard Bangkok Mahanakhon, Bangkok on Sat, 14 Nov 2026.
 
 Sian is a techno and progressive house artist based in United States of America, with 13 gigs on soundcheck across Bangkok, Chicago, Denver and Detroit and 3 more. Often billed alongside Eulalia, DJ Krit Morton and VILENA. Next up: Sky Beach - The Standard Bangkok Mahanakhon, Bangkok on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Sian is a techno and progressive house artist based in United States of America,
 
 Eulalia, DJ Krit Morton, VILENA
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sian/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sian/)*

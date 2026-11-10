@@ -1,14 +1,14 @@
 # Dast
 
-Dast is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA, Berlin on Sat, 19 Dec 2026.
+Dast is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - SECRET WHAREHOUSE, Berlin on Sat, 19 Dec 2026.
 
-Dast is a techno and house artist based in Italy, with 9 gigs on soundcheck across Berlin, Ljubljana and Naples. Often billed alongside Backlogs, Jesooria and Markantonio. Next up: TBA, Berlin on Sat 19 Dec.
+Dast is a techno and house artist based in Italy, with 9 gigs on soundcheck across Berlin, Ljubljana and Naples. Often billed alongside Backlogs, Esterne Moog and Jesooria. Next up: TBA - SECRET WHAREHOUSE, Berlin on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Dec 2026 | TBA | Berlin |
+| Sat, 19 Dec 2026 | TBA - SECRET WHAREHOUSE | Berlin |
 
 ## Recently played
 
@@ -23,6 +23,6 @@ Dast is a techno and house artist based in Italy, with 9 gigs on soundcheck acro
 
 ## Shares bills with
 
-Backlogs, Jesooria, Markantonio
+Backlogs, Esterne Moog, Jesooria
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dast/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dast/)*

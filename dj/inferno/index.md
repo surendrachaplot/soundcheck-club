@@ -1,6 +1,6 @@
 # Inferno
 
-Inferno is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Ciało, Wroclaw on Fri, 13 Nov 2026.
+Inferno is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Ciało, Wroclaw on Fri, 13 Nov 2026.
 
 Inferno is a techno and bass artist based in United States of America, with 13 gigs on soundcheck across Atlanta, Berlin, London and Warsaw and 1 more. Often billed alongside Glassz, LuLu Malina and Spectribe. Next up: Ciało, Wroclaw on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Inferno is a techno and bass artist based in United States of America, with 13 g
 
 Glassz, LuLu Malina, Spectribe
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inferno/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inferno/)*

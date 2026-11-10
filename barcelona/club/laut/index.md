@@ -1,6 +1,6 @@
 # LAUT
 
-LAUT is a music venue in Barcelona with 10 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "NEMS-B (All Night Long)" on Fri, 13 Nov 2026.
+LAUT is a music venue in Barcelona with 10 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "NEMS-B (All Night Long)" on Fri, 13 Nov 2026.
 
 LAUT is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs, with line-ups including ABSIS, Alex Picone, Ángel Molina and BAMBI (BE) and 2 more. See dates, start times and who's playing. Carrer de Vila i Vilà, 63, 08004 Barcelona, Spain.
 
@@ -23,4 +23,4 @@ LAUT is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs, with 
 
 Carrer de Vila i Vilà, 63, 08004 Barcelona, Spain, Barcelona
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/laut/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/laut/)*

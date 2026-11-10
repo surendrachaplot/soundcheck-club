@@ -1,6 +1,6 @@
 # Nekita
 
-Nekita is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Selva Club, East on Fri, 13 Nov 2026.
+Nekita is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Selva Club, East on Fri, 13 Nov 2026.
 
 Nekita is an electronic artist based in Spain, with 4 gigs on soundcheck across Barcelona, East and Ibiza. Often billed alongside Alignment, Biondo and FLAKOO. Next up: Selva Club, East on Fri 13 Nov.
 
@@ -20,4 +20,4 @@ Nekita is an electronic artist based in Spain, with 4 gigs on soundcheck across 
 
 Alignment, Biondo, FLAKOO
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nekita/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nekita/)*

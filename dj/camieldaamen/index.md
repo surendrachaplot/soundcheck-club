@@ -1,6 +1,6 @@
 # Camiel Daamen
 
-Camiel Daamen is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Spook Club, Valencia on Thu, 31 Dec 2026.
+Camiel Daamen is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Spook Club, Valencia on Thu, 31 Dec 2026.
 
 Camiel Daamen is a house and tech house artist based in Netherlands, with 25 gigs on soundcheck across Amsterdam, Ibiza and Valencia. Often billed alongside Caballeri, Pau Pérez and Pizzicatto. Next up: Spook Club, Valencia on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Camiel Daamen is a house and tech house artist based in Netherlands, with 25 gig
 
 Caballeri, Pau Pérez, Pizzicatto
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/camieldaamen/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/camieldaamen/)*

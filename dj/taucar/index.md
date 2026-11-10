@@ -1,6 +1,6 @@
 # Tau Car
 
-Tau Car is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Under Bron, Stockholm on Fri, 13 Nov 2026.
+Tau Car is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Under Bron, Stockholm on Fri, 13 Nov 2026.
 
 Tau Car is a house and techno artist based in France, with 124 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Bangkok and 34 more. Often billed alongside International Mac, Konstantin and Edward. Next up: Under Bron, Stockholm on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Tau Car is a house and techno artist based in France, with 124 gigs on soundchec
 
 International Mac, Konstantin, Edward
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taucar/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taucar/)*

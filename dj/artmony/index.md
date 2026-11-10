@@ -1,6 +1,6 @@
 # Artmony
 
-Artmony is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Unmute, Hanoi on Sat, 28 Nov 2026.
+Artmony is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Unmute, Hanoi on Sat, 28 Nov 2026.
 
 Artmony is a techno and house artist based in Vietnam, with 21 gigs on soundcheck across Hanoi and Ho Chi Minh City. Often billed alongside Huygnut, Min8 and CONG. Next up: Unmute, Hanoi on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Artmony is a techno and house artist based in Vietnam, with 21 gigs on soundchec
 
 Huygnut, Min8, CONG
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/artmony/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/artmony/)*

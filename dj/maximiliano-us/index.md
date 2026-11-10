@@ -1,6 +1,6 @@
 # MAXIMILIANO (US)
 
-MAXIMILIANO (US) is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Eaton Workshop, Washington DC on Mon, 9 Nov 2026.
+MAXIMILIANO (US) is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Eaton Workshop, Washington DC on Mon, 9 Nov 2026.
 
 MAXIMILIANO (US) is a house and deep house artist based in Argentina, with 202 gigs on soundcheck across Barcelona, Buenos Aires, Detroit and Ibiza and 6 more. Often billed alongside Mikey J, Factory Reset and Room 12. Next up: Eaton Workshop, Washington DC on Mon 9 Nov.
 
@@ -14,6 +14,7 @@ MAXIMILIANO (US) is a house and deep house artist based in Argentina, with 202 g
 
 ## Recently played
 
+- Eaton Workshop, Washington DC · Mon, 9 Nov 2026
 - Well Done Goods, Detroit · Sun, 8 Nov 2026
 - Spkrbox, Detroit · Sat, 7 Nov 2026
 - Eighteenth Street Lounge (ESL), Washington DC · Wed, 4 Nov 2026
@@ -21,10 +22,9 @@ MAXIMILIANO (US) is a house and deep house artist based in Argentina, with 202 g
 - Wiggle Room, Toronto · Sun, 25 Oct 2026
 - TBA - 309 Shorty's Ave., Toronto · Sat, 24 Oct 2026
 - Eighteenth Street Lounge (ESL), Washington DC · Wed, 21 Oct 2026
-- Eaton Workshop, Washington DC · Mon, 12 Oct 2026
 
 ## Shares bills with
 
 Mikey J, Factory Reset, Room 12
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maximiliano-us/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maximiliano-us/)*

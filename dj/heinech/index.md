@@ -1,6 +1,6 @@
 # Heinech
 
-Heinech is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Freedonia, Barcelona on Sat, 28 Nov 2026.
+Heinech is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Freedonia, Barcelona on Sat, 28 Nov 2026.
 
 Heinech is an electro and techno artist based in Spain, with 46 gigs on soundcheck across Barcelona, Berlin, Madrid and Malmo. Often billed alongside Ludviq, Diego Montiel and Javier Ferreira. Next up: Freedonia, Barcelona on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Heinech is an electro and techno artist based in Spain, with 46 gigs on soundche
 
 Ludviq, Diego Montiel, Javier Ferreira
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/heinech/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/heinech/)*

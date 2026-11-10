@@ -1,13 +1,14 @@
 # Jordan
 
-Jordan is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Elysia, Basel on Sat, 12 Dec 2026.
+Jordan is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Elysia, Basel on Sat, 12 Dec 2026.
 
-Jordan is a house and techno artist based in United States of America, with 15 gigs on soundcheck across Basel, Berlin, London and San Francisco/Oakland and 2 more. Often billed alongside Bjørn, DJ Cira and Grace Thompson. Next up: Elysia, Basel on Sat 12 Dec.
+Jordan is a house and techno artist based in United States of America, with 16 gigs on soundcheck across Basel, Berlin, London and San Francisco/Oakland and 2 more. Often billed alongside Grace Thompson, BENNETT and Bjørn. Next up: Elysia, Basel on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Dec 2026 | Elysia | Basel |
 | Sat, 12 Dec 2026 | Elysia | Basel |
 | Fri, 18 Dec 2026 | Underground SF | San Francisco/Oakland |
 
@@ -24,6 +25,6 @@ Jordan is a house and techno artist based in United States of America, with 15 g
 
 ## Shares bills with
 
-Bjørn, DJ Cira, Grace Thompson
+Grace Thompson, BENNETT, Bjørn
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jordan/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jordan/)*

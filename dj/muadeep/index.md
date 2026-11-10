@@ -1,6 +1,6 @@
 # MUADEEP
 
-MUADEEP is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Void Hall, Berlin on Sat, 21 Nov 2026.
+MUADEEP is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Void Hall, Berlin on Sat, 21 Nov 2026.
 
 MUADEEP is a bass and drum & bass artist based in Germany, with 4 gigs on soundcheck across Berlin, Bologna and Poznan. Often billed alongside DJ SHOUT, Dub Isotope and Juana Valeria. Next up: Void Hall, Berlin on Sat 21 Nov.
 
@@ -20,4 +20,4 @@ MUADEEP is a bass and drum & bass artist based in Germany, with 4 gigs on soundc
 
 DJ SHOUT, Dub Isotope, Juana Valeria
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/muadeep/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/muadeep/)*

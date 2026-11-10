@@ -1,6 +1,6 @@
 # Stef de Haan
 
-Stef de Haan is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Club Vaag, Antwerp on Sat, 21 Nov 2026.
+Stef de Haan is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Club Vaag, Antwerp on Sat, 21 Nov 2026.
 
 Stef de Haan is a techno and trance artist based in Netherlands, with 86 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 24 more. Often billed alongside Anton Jonathan, DJ Babyblade and EliaHaze. Next up: Club Vaag, Antwerp on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Stef de Haan is a techno and trance artist based in Netherlands, with 86 gigs on
 
 Anton Jonathan, DJ Babyblade, EliaHaze
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stefdehaan/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stefdehaan/)*

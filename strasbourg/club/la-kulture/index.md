@@ -1,6 +1,6 @@
 # La Kulture
 
-La Kulture is a music venue in Strasbourg with 7 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Kulture Club TecHouse: Joey 808 - Phil D - Lil'Ghost" on Tue, 10 Nov 2026.
+La Kulture is a music venue in Strasbourg with 7 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Kulture Club TecHouse: Joey 808 - Phil D - Lil'Ghost" on Tue, 10 Nov 2026.
 
 La Kulture is a music venue in Strasbourg listed on soundcheck. 7 upcoming gigs, with line-ups including Derode, Joey 808 and Seedreak. See dates, start times and who's playing. 9 Rue des Bateliers, 67000 Strasbourg, France.
 
@@ -20,4 +20,4 @@ La Kulture is a music venue in Strasbourg listed on soundcheck. 7 upcoming gigs,
 
 9 Rue des Bateliers, 67000 Strasbourg, France, Strasbourg
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/la-kulture/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/la-kulture/)*

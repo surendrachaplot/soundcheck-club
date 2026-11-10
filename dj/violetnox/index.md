@@ -1,6 +1,6 @@
 # Violet Nox
 
-Violet Nox is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Foundry, Boston on Fri, 11 Dec 2026.
+Violet Nox is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Foundry, Boston on Fri, 11 Dec 2026.
 
 Violet Nox is an electronica and experimental artist based in United States of America, with 5 gigs on soundcheck across Boston. Often billed alongside Black Tourmaline, Sunshine and Sunshine [at Night]. Next up: The Foundry, Boston on Fri 11 Dec.
 
@@ -21,4 +21,4 @@ Violet Nox is an electronica and experimental artist based in United States of A
 
 Black Tourmaline, Sunshine, Sunshine [at Night]
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/violetnox/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/violetnox/)*

@@ -1,6 +1,6 @@
 # TNR Media at CHICO
 
-TNR Media at CHICO on Sat 14 Nov, Mexico City. 6 artists: Elliot Milan, nasty, Octoptic and Seli and 2 more. Breakbeat and Techno. See the line-up on soundcheck.
+TNR Media at CHICO on Sat 14 Nov, Mexico City. 4 artists: GEO LINN, Koscoy, Laura Coch and TAPIIA. Breakbeat and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,11 +10,9 @@ TNR Media at CHICO on Sat 14 Nov, Mexico City. 6 artists: Elliot Milan, nasty, O
 
 ## Line-up
 
-- Elliot Milan
-- nasty (1)
-- Octoptic
-- Seli (2)
-- Sinistermind
-- Tapia
+- GEO LINN
+- Koscoy
+- Laura Coch
+- TAPIIA
 
 *Source: [soundcheck](https://soundcheck.club/e/2567127-tnr-media-at-chico/)*

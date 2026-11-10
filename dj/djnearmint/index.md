@@ -1,6 +1,6 @@
 # DJ NEAR MiNT
 
-DJ NEAR MiNT is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Mokka Mitte Bar / James Simon Park, Berlin on Sat, 12 Dec 2026.
+DJ NEAR MiNT is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Mokka Mitte Bar / James Simon Park, Berlin on Sat, 12 Dec 2026.
 
 DJ NEAR MiNT is a deep house and house artist, with 5 gigs on soundcheck across Berlin. Often billed alongside Mark van der Ree, Pilar Jordan and Ceci Fierce. Next up: Mokka Mitte Bar / James Simon Park, Berlin on Sat 12 Dec.
 
@@ -21,4 +21,4 @@ DJ NEAR MiNT is a deep house and house artist, with 5 gigs on soundcheck across 
 
 Mark van der Ree, Pilar Jordan, Ceci Fierce
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djnearmint/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djnearmint/)*

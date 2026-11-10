@@ -1,6 +1,6 @@
 # Beavs
 
-Beavs is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Nico's Bar at Hackney Bridge, London on Fri, 27 Nov 2026.
+Beavs is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Nico's Bar at Hackney Bridge, London on Fri, 27 Nov 2026.
 
 Beavs is a house and disco artist based in United Kingdom, with 24 gigs on soundcheck across Bristol and London. Often billed alongside Lost Track of Time, JOSH FB and Milly on Air. Next up: Nico's Bar at Hackney Bridge, London on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Beavs is a house and disco artist based in United Kingdom, with 24 gigs on sound
 
 Lost Track of Time, JOSH FB, Milly on Air
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beavs/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beavs/)*

@@ -1,6 +1,6 @@
 # Atype
 
-Atype is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at PKH Warehouse, Berlin on Sat, 21 Nov 2026.
+Atype is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at PKH Warehouse, Berlin on Sat, 21 Nov 2026.
 
 Atype is a techno and trance artist based in Germany, with 7 gigs on soundcheck across Berlin and Freiburg. Often billed alongside Mikadoo, DJ Junior and Daora. Next up: PKH Warehouse, Berlin on Sat 21 Nov.
 
@@ -23,4 +23,4 @@ Atype is a techno and trance artist based in Germany, with 7 gigs on soundcheck 
 
 Mikadoo (2), DJ Junior (2), Daora
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/atype/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/atype/)*

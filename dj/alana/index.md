@@ -1,6 +1,6 @@
 # A lana
 
-A lana is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at public records, New York City on Sat, 12 Dec 2026.
+A lana is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at public records, New York City on Sat, 12 Dec 2026.
 
 A lana is a house and techno artist based in United States of America, with 49 gigs on soundcheck across Boston and New York City. Often billed alongside DJ Christmas, Dee Diggs and Interpretive Sound. Next up: public records, New York City on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ A lana is a house and techno artist based in United States of America, with 49 g
 
 DJ Christmas, Dee Diggs, Interpretive Sound
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alana/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alana/)*

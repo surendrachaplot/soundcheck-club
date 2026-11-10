@@ -1,6 +1,6 @@
 # WolfJazz
 
-WolfJazz is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at The Safari Lounge, Edinburgh on Fri, 27 Nov 2026.
+WolfJazz is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at The Safari Lounge, Edinburgh on Fri, 27 Nov 2026.
 
 WolfJazz is a techno and house artist based in United Kingdom, with 40 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside Keyte, Bash Man and Neil Landstrumm. Next up: The Safari Lounge, Edinburgh on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ WolfJazz is a techno and house artist based in United Kingdom, with 40 gigs on s
 
 Keyte, Bash Man, Neil Landstrumm
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wolfjazz/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wolfjazz/)*

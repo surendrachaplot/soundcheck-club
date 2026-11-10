@@ -1,6 +1,6 @@
 # NZE NZE
 
-NZE NZE is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Mains D'œuvres, Paris on Sat, 28 Nov 2026.
+NZE NZE is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Mains D'œuvres, Paris on Sat, 28 Nov 2026.
 
 NZE NZE is an experimental and ambient artist based in France, with 5 gigs on soundcheck across Brussels, Ljubljana, London and Paris. Often billed alongside Damna, Deena Abdelwahed and Dela Savelli. Next up: Mains D'œuvres, Paris on Sat 28 Nov.
 
@@ -21,4 +21,4 @@ NZE NZE is an experimental and ambient artist based in France, with 5 gigs on so
 
 Damna, Deena Abdelwahed, Dela Savelli
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nzenze/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nzenze/)*

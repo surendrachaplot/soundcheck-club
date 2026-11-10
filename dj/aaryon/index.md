@@ -1,8 +1,8 @@
 # Aaryon
 
-Aaryon is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Les Enfants Brillants, Barcelona on Sat, 19 Dec 2026.
+Aaryon is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Les Enfants Brillants, Barcelona on Sat, 19 Dec 2026.
 
-Aaryon is a techno and tech house artist, with 44 gigs on soundcheck across Barcelona and Dubai. Often billed alongside MOii, Jean B and Sam Farsio. Next up: Les Enfants Brillants, Barcelona on Sat 19 Dec.
+Aaryon is a techno and tech house artist based in Spain, with 44 gigs on soundcheck across Barcelona and Dubai. Often billed alongside MOii, Jean B and Sam Farsio. Next up: Les Enfants Brillants, Barcelona on Sat 19 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Aaryon is a techno and tech house artist, with 44 gigs on soundcheck across Barc
 
 MOii, Jean B, Sam Farsio
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aaryon/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aaryon/)*

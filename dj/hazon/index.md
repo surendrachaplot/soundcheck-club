@@ -1,6 +1,6 @@
 # HAZÓN
 
-HAZÓN is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Supernatural Haus, Miami on Fri, 27 Nov 2026.
+HAZÓN is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Supernatural Haus, Miami on Fri, 27 Nov 2026.
 
 HAZÓN is a tech house and techno artist based in United States of America, with 17 gigs on soundcheck across Miami. Often billed alongside Ale Acosta, Trippie Hippie (US) and SATURNSARii. Next up: Supernatural Haus, Miami on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ HAZÓN is a tech house and techno artist based in United States of America, with
 
 Ale Acosta, Trippie Hippie (US), SATURNSARii
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hazon/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hazon/)*

@@ -1,6 +1,6 @@
 # Juicy Romance
 
-Juicy Romance is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA, Amsterdam on Sat, 14 Nov 2026.
+Juicy Romance is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA, Amsterdam on Sat, 14 Nov 2026.
 
 Juicy Romance is a techno and house artist based in Australia, with 162 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Barcelona and 56 more. Often billed alongside Partiboi69, Mischluft and X CLUB.. Next up: TBA, Amsterdam on Sat 14 Nov.
 
@@ -32,4 +32,4 @@ Juicy Romance is a techno and house artist based in Australia, with 162 gigs on 
 
 Partiboi69, Mischluft, X CLUB.
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juicyromance/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juicyromance/)*

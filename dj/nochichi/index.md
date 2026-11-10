@@ -1,6 +1,6 @@
 # nochichi
 
-nochichi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Super5, Lyon on Fri, 13 Nov 2026.
+nochichi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Super5, Lyon on Fri, 13 Nov 2026.
 
 nochichi is a techno and house artist based in France, with 21 gigs on soundcheck across Lyon, Montreal and New York City. Often billed alongside Sinai, -ROUX- and Alex Kassian. Next up: Super5, Lyon on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ nochichi is a techno and house artist based in France, with 21 gigs on soundchec
 
 Sinai (2), -ROUX-, Alex Kassian
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nochichi/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nochichi/)*

@@ -1,8 +1,8 @@
 # Locklead
 
-Locklead is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at TivoliVredenburg, Utrecht on Fri, 13 Nov 2026.
+Locklead is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TivoliVredenburg, Utrecht on Fri, 13 Nov 2026.
 
-Locklead is a house and tech house artist based in Netherlands, with 207 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 44 more. Often billed alongside Marsolo, Chris Stussy and Rossi. Next up: TivoliVredenburg, Utrecht on Fri 13 Nov.
+Locklead is a house and tech house artist based in Netherlands, with 207 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 44 more. Often billed alongside Marsolo, CHRIS STASSY and Rossi. Next up: TivoliVredenburg, Utrecht on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -32,6 +32,6 @@ Locklead is a house and tech house artist based in Netherlands, with 207 gigs on
 
 ## Shares bills with
 
-Marsolo, Chris Stussy, Rossi
+Marsolo, CHRIS STASSY, Rossi
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/locklead/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/locklead/)*

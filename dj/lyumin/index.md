@@ -1,6 +1,6 @@
 # Lyumin
 
-Lyumin is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at teller, Seoul on Fri, 27 Nov 2026.
+Lyumin is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at teller, Seoul on Fri, 27 Nov 2026.
 
 Lyumin is a house and tech house artist based in South Korea, with 255 gigs on soundcheck across Barcelona, Seoul and South Korea. Often billed alongside Mihak, givogi and .2ndfloor. Next up: teller, Seoul on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Lyumin is a house and tech house artist based in South Korea, with 255 gigs on s
 
 Mihak, givogi, .2ndfloor
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lyumin/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lyumin/)*

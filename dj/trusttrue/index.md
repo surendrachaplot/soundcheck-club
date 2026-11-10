@@ -1,6 +1,6 @@
 # TRUST TRUE
 
-TRUST TRUE is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at K9 Station, Serbia on Sat, 28 Nov 2026.
+TRUST TRUE is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at K9 Station, Serbia on Sat, 28 Nov 2026.
 
 TRUST TRUE is a techno and trance artist based in Russia, with 4 gigs on soundcheck across Belgrade and Serbia. Often billed alongside CBR., EVRSN and RIKHTER. Next up: K9 Station, Serbia on Sat 28 Nov.
 
@@ -20,4 +20,4 @@ TRUST TRUE is a techno and trance artist based in Russia, with 4 gigs on soundch
 
 CBR., EVRSN, RIKHTER
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trusttrue/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trusttrue/)*

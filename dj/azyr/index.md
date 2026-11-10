@@ -1,6 +1,6 @@
 # Azyr
 
-Azyr is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Club Cultural Lima, Peru on Fri, 13 Nov 2026.
+Azyr is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Club Cultural Lima, Peru on Fri, 13 Nov 2026.
 
 Azyr is a techno and house artist based in United Kingdom, with 263 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 75 more. Often billed alongside LESSSS, Charlie Sparks and I Hate Models. Next up: Club Cultural Lima, Peru on Fri 13 Nov.
 
@@ -33,4 +33,4 @@ Azyr is a techno and house artist based in United Kingdom, with 263 gigs on soun
 
 LESSSS, Charlie Sparks, I Hate Models
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/azyr/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/azyr/)*

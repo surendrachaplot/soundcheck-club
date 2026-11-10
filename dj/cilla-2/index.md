@@ -1,6 +1,6 @@
 # Cilla (AU)
 
-Cilla (AU) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Specka, Madrid on Fri, 20 Nov 2026.
+Cilla (AU) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Specka, Madrid on Fri, 20 Nov 2026.
 
 Cilla (AU) is a house and techno artist based in Spain, with 25 gigs on soundcheck across Madrid and Melbourne. Often billed alongside Lava Brain, Acid Safari and Mike Callander. Next up: Specka, Madrid on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Cilla (AU) is a house and techno artist based in Spain, with 25 gigs on soundche
 
 Lava Brain, Acid Safari, Mike Callander
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cilla-2/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cilla-2/)*

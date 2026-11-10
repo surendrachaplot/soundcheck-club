@@ -1,6 +1,6 @@
 # Martelo
 
-Martelo is a Bass and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Haggerston, London on Fri, 20 Nov 2026.
+Martelo is a Bass and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Haggerston, London on Fri, 20 Nov 2026.
 
 Martelo is a bass and hip-hop artist based in United Kingdom, with 29 gigs on soundcheck across Berlin, Bogotá, Bristol and Glasgow and 1 more. Often billed alongside Oneman, Charisse C and Kemarr. Next up: The Haggerston, London on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Martelo is a bass and hip-hop artist based in United Kingdom, with 29 gigs on so
 
 Oneman, Charisse C, Kemarr
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/martelo/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/martelo/)*

@@ -1,6 +1,6 @@
 # The Bug
 
-The Bug is a Dub and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Gretchen, Berlin on Sat, 21 Nov 2026.
+The Bug is a Dub and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Gretchen, Berlin on Sat, 21 Nov 2026.
 
 The Bug is a dub and experimental artist based in United Kingdom, with 51 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 18 more. Often billed alongside Flowdan, Warrior Queen and CCL. Next up: Gretchen, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ The Bug is a dub and experimental artist based in United Kingdom, with 51 gigs o
 
 Flowdan, Warrior Queen, CCL
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thebug/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thebug/)*

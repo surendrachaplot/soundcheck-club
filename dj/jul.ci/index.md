@@ -1,6 +1,6 @@
 # jul.ci
 
-jul.ci is a Bass and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Hydrozagadka, Warsaw on Fri, 13 Nov 2026.
+jul.ci is a Bass and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Hydrozagadka, Warsaw on Fri, 13 Nov 2026.
 
 jul.ci is a bass and electronica artist based in Poland, with 27 gigs on soundcheck across Krakow, Poland, Vienna and Warsaw. Often billed alongside ZLX, 2K88 and Some Guest. Next up: Hydrozagadka, Warsaw on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ jul.ci is a bass and electronica artist based in Poland, with 27 gigs on soundch
 
 ZLX, 2K88, Some Guest
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jul.ci/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jul.ci/)*

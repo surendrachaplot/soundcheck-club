@@ -1,6 +1,6 @@
 # Ciara
 
-Ciara is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Club 77, Sydney on Fri, 27 Nov 2026.
+Ciara is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Club 77, Sydney on Fri, 27 Nov 2026.
 
 Ciara is a house and techno artist based in Australia, with 110 gigs on soundcheck across London, Melbourne, Sheffield and Sydney. Often billed alongside Deepa, Setwun and Jhassic. Next up: Club 77, Sydney on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Ciara is a house and techno artist based in Australia, with 110 gigs on soundche
 
 Deepa, Setwun, Jhassic
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ciara/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ciara/)*

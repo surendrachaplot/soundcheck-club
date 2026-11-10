@@ -1,6 +1,6 @@
 # SOMEGUY
 
-SOMEGUY is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Basing House, London on Fri, 27 Nov 2026.
+SOMEGUY is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Basing House, London on Fri, 27 Nov 2026.
 
 SOMEGUY is a house and garage artist based in United Kingdom, with 7 gigs on soundcheck across Hannover, Ibiza, London and Sheffield. Often billed alongside Billy Golden, CHLO (UK) and David Penn. Next up: Basing House, London on Fri 27 Nov.
 
@@ -23,4 +23,4 @@ SOMEGUY is a house and garage artist based in United Kingdom, with 7 gigs on sou
 
 Billy Golden, CHLO (UK), David Penn
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/someguy/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/someguy/)*

@@ -1,6 +1,6 @@
 # La Cheetah Club
 
-La Cheetah Club is a music venue in Glasgow with 19 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Pedestrianism presents - LOBSTA B" on Thu, 12 Nov 2026.
+La Cheetah Club is a music venue in Glasgow with 19 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Pedestrianism presents - LOBSTA B" on Thu, 12 Nov 2026.
 
 La Cheetah Club is a music venue in Glasgow listed on soundcheck. 19 upcoming gigs, with line-ups including Alliyah Enyo, Angel Negrin, Arlo Duke and Bonzai Bonner and 2 more. See dates, start times and who's playing. Basement, 73 Queen Street; Glasgow, G1 3BZ; Scotland; United Kingdom.
 
@@ -23,4 +23,4 @@ La Cheetah Club is a music venue in Glasgow listed on soundcheck. 19 upcoming gi
 
 Basement, 73 Queen Street; Glasgow, G1 3BZ; Scotland; United Kingdom, Glasgow
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/la-cheetah-club/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/la-cheetah-club/)*

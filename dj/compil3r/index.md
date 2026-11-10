@@ -1,6 +1,6 @@
 # compil3r
 
-compil3r is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Bourbon On Division, Chicago on Fri, 13 Nov 2026.
+compil3r is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Bourbon On Division, Chicago on Fri, 13 Nov 2026.
 
 compil3r is a house and techno artist based in United States of America, with 6 gigs on soundcheck across Chicago. Often billed alongside Mr. Bobby, Pat Fee and Vincent R. Next up: Bourbon On Division, Chicago on Fri 13 Nov.
 
@@ -22,4 +22,4 @@ compil3r is a house and techno artist based in United States of America, with 6 
 
 Mr. Bobby, Pat Fee, Vincent R
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/compil3r/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/compil3r/)*

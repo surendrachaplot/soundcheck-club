@@ -1,6 +1,6 @@
 # Shoki Hayashi
 
-Shoki Hayashi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Sound space α, Kyushu on Sat, 14 Nov 2026.
+Shoki Hayashi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Sound space α, Kyushu on Sat, 14 Nov 2026.
 
 Shoki Hayashi is a techno and house artist based in Japan, with 7 gigs on soundcheck across Kyushu, Osaka, Taipei and Tokyo. Often billed alongside 3.14, Astma and GOBI. Next up: Sound space α, Kyushu on Sat 14 Nov.
 
@@ -23,4 +23,4 @@ Shoki Hayashi is a techno and house artist based in Japan, with 7 gigs on soundc
 
 3.14, Astma, GOBI
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shokihayashi/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shokihayashi/)*

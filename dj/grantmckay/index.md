@@ -1,6 +1,6 @@
 # Grant McKay
 
-Grant McKay is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Horse & Groom, London on Sat, 28 Nov 2026.
+Grant McKay is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Horse & Groom, London on Sat, 28 Nov 2026.
 
 Grant McKay is a progressive house and techno artist based in United Kingdom, with 4 gigs on soundcheck across London. Often billed alongside Industry Standard, Nick Muir and Danny Howells. Next up: The Horse & Groom, London on Sat 28 Nov.
 
@@ -20,4 +20,4 @@ Grant McKay is a progressive house and techno artist based in United Kingdom, wi
 
 Industry Standard, Nick Muir, Danny Howells
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grantmckay/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grantmckay/)*

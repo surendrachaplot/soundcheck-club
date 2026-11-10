@@ -1,6 +1,6 @@
 # S.I.M
 
-S.I.M is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Monarch, San Francisco/Oakland on Sat, 14 Nov 2026.
+S.I.M is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Monarch, San Francisco/Oakland on Sat, 14 Nov 2026.
 
 S.I.M is a techno and breakbeat artist based in United States of America, with 14 gigs on soundcheck across Los Angeles, San Diego and San Francisco/Oakland. Often billed alongside JAQ.XS, JustJovani and Saffaire. Next up: Monarch, San Francisco/Oakland on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ S.I.M is a techno and breakbeat artist based in United States of America, with 1
 
 JAQ.XS, JustJovani, Saffaire
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sim.us/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sim.us/)*

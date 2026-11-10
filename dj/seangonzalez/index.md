@@ -1,6 +1,6 @@
 # Sean Gonzalez
 
-Sean Gonzalez is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Secret Location, Berlin on Sat, 19 Dec 2026.
+Sean Gonzalez is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Secret Location, Berlin on Sat, 19 Dec 2026.
 
 Sean Gonzalez is a house and electro artist based in Bolivia, with 13 gigs on soundcheck across Berlin and New York City. Often billed alongside Juan Diego Drouet, Baroma and Daniel Jaramillo. Next up: TBA - Secret Location, Berlin on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Sean Gonzalez is a house and electro artist based in Bolivia, with 13 gigs on so
 
 Juan Diego Drouet, Baroma, Daniel Jaramillo
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seangonzalez/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seangonzalez/)*

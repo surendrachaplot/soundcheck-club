@@ -1,6 +1,6 @@
 # Zaidokhi
 
-Zaidokhi is a Afro House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Café Social B Hive, Montreal on Sat, 28 Nov 2026.
+Zaidokhi is a Afro House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Café Social B Hive, Montreal on Sat, 28 Nov 2026.
 
 Zaidokhi is an afro house and progressive house artist based in United States of America, with 4 gigs on soundcheck across Montreal. Often billed alongside 6RAJ, Joseph Crime and Rebel Of Sleep. Next up: Café Social B Hive, Montreal on Sat 28 Nov.
 
@@ -20,4 +20,4 @@ Zaidokhi is an afro house and progressive house artist based in United States of
 
 6RAJ, Joseph Crime, Rebel Of Sleep
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zaidokhi/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zaidokhi/)*

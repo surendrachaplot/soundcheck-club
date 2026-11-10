@@ -1,6 +1,6 @@
 # Arninho
 
-Arninho is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Goldener Reiter, Munich on Sat, 28 Nov 2026.
+Arninho is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Goldener Reiter, Munich on Sat, 28 Nov 2026.
 
 Arninho is a techno and house artist based in Germany, with 28 gigs on soundcheck across Berlin, Cologne, Hamburg and Munich and 1 more. Often billed alongside DJ SPORTSCHUH, HiHat and Flavius (DE). Next up: Goldener Reiter, Munich on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Arninho is a techno and house artist based in Germany, with 28 gigs on soundchec
 
 DJ SPORTSCHUH, HiHat, Flavius (DE)
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arninho/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arninho/)*

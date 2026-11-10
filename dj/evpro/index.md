@@ -1,6 +1,6 @@
 # EVPRO
 
-EVPRO is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Club Republic, Midlands on Sat, 21 Nov 2026.
+EVPRO is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Club Republic, Midlands on Sat, 21 Nov 2026.
 
 EVPRO is an electronic artist based in United Kingdom, with 7 gigs on soundcheck across Ibiza, London and Midlands. Often billed alongside George Mensah, Sammy Porter and Alfie. Next up: Club Republic, Midlands on Sat 21 Nov.
 
@@ -23,4 +23,4 @@ EVPRO is an electronic artist based in United Kingdom, with 7 gigs on soundcheck
 
 George Mensah, Sammy Porter, Alfie
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/evpro/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/evpro/)*

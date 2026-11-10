@@ -1,6 +1,6 @@
 # Skryption
 
-Skryption is a Techno and Industrial artist with 5 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Oddity Club, Athens on Fri, 13 Nov 2026.
+Skryption is a Techno and Industrial artist with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Oddity Club, Athens on Fri, 13 Nov 2026.
 
 Skryption is a techno and industrial artist based in Argentina, with 86 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 36 more. Often billed alongside Dexphase, Bárbara Lago and Luciid. Next up: Oddity Club, Athens on Fri 13 Nov.
 
@@ -29,4 +29,4 @@ Skryption is a techno and industrial artist based in Argentina, with 86 gigs on 
 
 Dexphase, Bárbara Lago, Luciid
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skryption/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skryption/)*

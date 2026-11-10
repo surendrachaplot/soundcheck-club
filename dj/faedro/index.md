@@ -1,6 +1,6 @@
 # Faedro
 
-Faedro is a Club and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at SISSI'S Amsterdam, Amsterdam on Fri, 27 Nov 2026.
+Faedro is a Club and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at SISSI'S Amsterdam, Amsterdam on Fri, 27 Nov 2026.
 
 Faedro is a club and house artist based in Netherlands, with 12 gigs on soundcheck across Amsterdam and Rotterdam. Often billed alongside Thym Flies, Candy Coup and Maysa Chahbari. Next up: SISSI'S Amsterdam, Amsterdam on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Faedro is a club and house artist based in Netherlands, with 12 gigs on soundche
 
 Thym Flies, Candy Coup, Maysa Chahbari
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/faedro/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/faedro/)*

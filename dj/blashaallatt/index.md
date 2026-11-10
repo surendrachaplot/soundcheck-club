@@ -1,6 +1,6 @@
 # Blasha & Allatt
 
-Blasha & Allatt is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at The White Hotel, Manchester on Fri, 13 Nov 2026.
+Blasha & Allatt is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at The White Hotel, Manchester on Fri, 13 Nov 2026.
 
 Blasha & Allatt are a techno and house duo based in United Kingdom, with 313 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 65 more. Often billed alongside aalice, Freddy K and Steffi. Next up: The White Hotel, Manchester on Fri 13 Nov.
 
@@ -34,4 +34,4 @@ Blasha & Allatt are a techno and house duo based in United Kingdom, with 313 gig
 
 aalice, Freddy K, Steffi
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blashaallatt/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blashaallatt/)*

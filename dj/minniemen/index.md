@@ -1,6 +1,6 @@
 # MINNIEMEN
 
-MINNIEMEN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at BRET, Amsterdam on Sun, 22 Nov 2026.
+MINNIEMEN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at BRET, Amsterdam on Sun, 22 Nov 2026.
 
 MINNIEMEN is a techno and house artist based in Netherlands, with 4 gigs on soundcheck across Amsterdam and Berlin. Often billed alongside SHE/HER, Uksimo and 42nd Avenue. Next up: BRET, Amsterdam on Sun 22 Nov.
 
@@ -20,4 +20,4 @@ MINNIEMEN is a techno and house artist based in Netherlands, with 4 gigs on soun
 
 SHE/HER, Uksimo, 42nd Avenue
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/minniemen/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/minniemen/)*

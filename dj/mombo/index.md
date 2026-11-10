@@ -1,6 +1,6 @@
 # Mombo
 
-Mombo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Paramour, Brussels on Thu, 12 Nov 2026.
+Mombo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Paramour, Brussels on Thu, 12 Nov 2026.
 
 Mombo is a house and techno artist based in Spain, with 11 gigs on soundcheck across Brussels. Often billed alongside Groove Principality, AMARE and bemira. Next up: Paramour, Brussels on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Mombo is a house and techno artist based in Spain, with 11 gigs on soundcheck ac
 
 Groove Principality, AMARE, bemira
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mombo/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mombo/)*

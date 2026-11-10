@@ -1,6 +1,6 @@
 # MANU OWUSU
 
-MANU OWUSU is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Frappant, Hamburg on Sat, 28 Nov 2026.
+MANU OWUSU is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Frappant, Hamburg on Sat, 28 Nov 2026.
 
 MANU OWUSU is a house and bass artist based in Germany, with 15 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Anton Jonathan, Jean Mauj and Carl Bergé. Next up: Frappant, Hamburg on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ MANU OWUSU is a house and bass artist based in Germany, with 15 gigs on soundche
 
 Anton Jonathan, Jean Mauj, Carl Bergé
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manuowusu/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manuowusu/)*

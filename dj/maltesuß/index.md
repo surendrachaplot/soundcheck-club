@@ -1,6 +1,6 @@
 # Malte Süß
 
-Malte Süß is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at OXI, Berlin on Sat, 5 Dec 2026.
+Malte Süß is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at OXI, Berlin on Sat, 5 Dec 2026.
 
 Malte Süß is a house and disco artist based in Germany, with 22 gigs on soundcheck across Berlin, Frankfurt and Leipzig. Often billed alongside Luca Olivotto, Michael Lane and Eva Crystaltips. Next up: OXI, Berlin on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Malte Süß is a house and disco artist based in Germany, with 22 gigs on soundc
 
 Luca Olivotto, Michael Lane, Eva Crystaltips
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maltesuß/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maltesuß/)*

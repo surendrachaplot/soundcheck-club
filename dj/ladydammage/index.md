@@ -1,6 +1,6 @@
 # Lady Dammage
 
-Lady Dammage is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Le Grand Sud, Lille on Fri, 18 Dec 2026.
+Lady Dammage is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Le Grand Sud, Lille on Fri, 18 Dec 2026.
 
 Lady Dammage is a hardcore and techno artist based in Spain, with 16 gigs on soundcheck across Barcelona, Cologne, Frankfurt and Glasgow and 5 more. Often billed alongside Art of Fighters, DIDIXX and Dimitri K. Next up: Le Grand Sud, Lille on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Lady Dammage is a hardcore and techno artist based in Spain, with 16 gigs on sou
 
 Art of Fighters, DIDIXX, Dimitri K
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ladydammage/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ladydammage/)*

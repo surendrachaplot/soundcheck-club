@@ -1,6 +1,6 @@
 # Decius
 
-Decius is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Cause, London on Sat, 28 Nov 2026.
+Decius is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Cause, London on Sat, 28 Nov 2026.
 
 Decius is a techno and house artist based in United Kingdom, with 31 gigs on soundcheck across Berlin, Bristol, Bucharest and Dublin and 11 more. Often billed alongside Chez de Milo, Ellie Stokes and Erol Alkan. Next up: The Cause, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Decius is a techno and house artist based in United Kingdom, with 31 gigs on sou
 
 Chez de Milo, Ellie Stokes, Erol Alkan
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/decius-2/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/decius-2/)*

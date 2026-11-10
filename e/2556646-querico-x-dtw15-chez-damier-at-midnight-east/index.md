@@ -1,6 +1,6 @@
 # QUERICO x DTW15 - Chez Damier at MIDNIGHT EAST
 
-QUERICO x DTW15 - Chez Damier at MIDNIGHT EAST on Fri 13 Nov, Tokyo. 7 artists: Chez Damier, Dean Chew, Dexter Colt and FU (JP) and 3 more. House and Disco. See the line-up on soundcheck.
+QUERICO x DTW15 - Chez Damier at MIDNIGHT EAST on Fri 13 Nov, Tokyo. 8 artists: Chez Damier, Dean Chew, Dexter Colt and FU (JP) and 4 more. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ QUERICO x DTW15 - Chez Damier at MIDNIGHT EAST on Fri 13 Nov, Tokyo. 7 artists: 
 - Dean Chew
 - Dexter Colt
 - FU (JP)
+- Marco Weibel
 - Midori Aoyama
 - MUSCLECARS
 - Pam Anantr

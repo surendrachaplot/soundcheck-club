@@ -1,6 +1,6 @@
 # Franklin_
 
-Franklin_ is a House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Kizuna, London on Sat, 14 Nov 2026.
+Franklin_ is a House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Kizuna, London on Sat, 14 Nov 2026.
 
 Franklin_ is a house artist, with 9 gigs on soundcheck across Dublin and London. Often billed alongside ACKERMAN, Cricky Lyttle and Keeva G. Next up: Kizuna, London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Franklin_ is a house artist, with 9 gigs on soundcheck across Dublin and London.
 
 ACKERMAN, Cricky Lyttle, Keeva G
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/franklin_/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/franklin_/)*

@@ -1,6 +1,6 @@
 # Rick Offen
 
-Rick Offen is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Dusty Munky Bar, Cyprus on Fri, 20 Nov 2026.
+Rick Offen is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Dusty Munky Bar, Cyprus on Fri, 20 Nov 2026.
 
 Rick Offen is a house and deep house artist based in Portugal, with 29 gigs on soundcheck across Amsterdam, Barcelona, Copenhagen and Cyprus and 10 more. Often billed alongside Ander Race, Awk and Reezar. Next up: Dusty Munky Bar, Cyprus on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ Rick Offen is a house and deep house artist based in Portugal, with 29 gigs on s
 
 Ander Race, Awk (2), Reezar
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rickoffen/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rickoffen/)*

@@ -1,14 +1,15 @@
 # Ju Lovett
 
-Ju Lovett is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Media One Hotel, Level 43, Dubai on Sat, 14 Nov 2026.
+Ju Lovett is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Media One Hotel, Level 43, Dubai on Sat, 14 Nov 2026.
 
-Ju Lovett is a techno and house artist based in United Kingdom, with 21 gigs on soundcheck across Dubai and Milan. Often billed alongside Kirill Zhan, Dea (IT) and Baby B.. Next up: TBA - Media One Hotel, Level 43, Dubai on Sat 14 Nov.
+Ju Lovett is a techno and house artist based in United Kingdom, with 22 gigs on soundcheck across Dubai and Milan. Often billed alongside Kirill Zhan, Dea (IT) and Baby B.. Next up: TBA - Media One Hotel, Level 43, Dubai on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | TBA - Media One Hotel, Level 43 | Dubai |
+| Sat, 28 Nov 2026 | TBA - The Forum | Dubai |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Ju Lovett is a techno and house artist based in United Kingdom, with 21 gigs on 
 
 Kirill Zhan, Dea (IT), Baby B.
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/julovett/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/julovett/)*

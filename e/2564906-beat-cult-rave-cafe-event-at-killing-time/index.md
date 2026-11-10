@@ -1,6 +1,6 @@
 # Beat Cult - Rave Cafe event at Killing Time
 
-Beat Cult - Rave Cafe event at Killing Time on Fri 27 Nov, Valencia. 5 artists: Broken boy, Roma Khropko, Svarn and Toxin and 1 more. Tech House and Minimal. See the line-up on soundcheck.
+Beat Cult - Rave Cafe event at Killing Time on Fri 27 Nov, Valencia. 4 artists: Broken boy, Roma Khropko, Toxin and Zahvat. Tech House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,6 @@ Beat Cult - Rave Cafe event at Killing Time on Fri 27 Nov, Valencia. 5 artists: 
 
 - Broken boy
 - Roma Khropko
-- Svarn
 - Toxin
 - Zahvat
 

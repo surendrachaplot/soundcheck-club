@@ -1,6 +1,6 @@
 # HELKTRAM
 
-HELKTRAM is a Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Azumaya, Tokyo on Wed, 11 Nov 2026.
+HELKTRAM is a Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Azumaya, Tokyo on Wed, 11 Nov 2026.
 
 HELKTRAM is a bass and dubstep artist based in Japan, with 40 gigs on soundcheck across Tokyo. Often billed alongside Goth-Trad, CITY1 and yuitty. Next up: Azumaya, Tokyo on Wed 11 Nov.
 
@@ -26,4 +26,4 @@ HELKTRAM is a bass and dubstep artist based in Japan, with 40 gigs on soundcheck
 
 Goth-Trad, CITY1, yuitty
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/helktram/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/helktram/)*

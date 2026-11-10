@@ -1,6 +1,6 @@
 # Vane Vepe
 
-Vane Vepe is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Secret Location, Puerto Escondido, Puerto-escondido on Sat, 14 Nov 2026.
+Vane Vepe is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Secret Location, Puerto Escondido, Puerto-escondido on Sat, 14 Nov 2026.
 
 Vane Vepe is a house and techno artist based in Mexico, with 8 gigs on soundcheck across Barcelona, Berlin, Madrid and Mexico City and 1 more. Often billed alongside Eliel Capa, Alvaro Medina and Bruno Schmidt. Next up: TBA - Secret Location, Puerto Escondido, Puerto Escondido on Sat 14 Nov.
 
@@ -24,4 +24,4 @@ Vane Vepe is a house and techno artist based in Mexico, with 8 gigs on soundchec
 
 Eliel Capa, Alvaro Medina, Bruno Schmidt
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vanevepe/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vanevepe/)*

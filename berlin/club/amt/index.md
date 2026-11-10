@@ -1,6 +1,6 @@
 # AMT
 
-AMT is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Rx presents: Molly Lollen / DSC7 / Clarisse" on Tue, 10 Nov 2026.
+AMT is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Rx presents: Molly Lollen / DSC7 / Clarisse" on Tue, 10 Nov 2026.
 
 AMT is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with line-ups including .Cheka, Achilles, Anja Schneider and Anna Amato and 2 more. See dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ AMT is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with line
 | Tue, 24 Nov 2026 | Rx presents: Noise Daughters Showcase  | GAEL, New Frames, Skungal |
 | Fri, 27 Nov 2026 | Night Bloom | Achilles, Ezio Aguiar, Helina, KALEA, Kataya, Luca Nova, MUKKIMIAU, Max Joni, Noor Sanchez, SvP, hero |
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/amt/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/amt/)*

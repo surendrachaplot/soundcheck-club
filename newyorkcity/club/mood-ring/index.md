@@ -1,6 +1,6 @@
 # Mood Ring
 
-Mood Ring is a music venue in New York City with 17 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Hand to Phone" on Wed, 11 Nov 2026.
+Mood Ring is a music venue in New York City with 17 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Hand to Phone" on Wed, 11 Nov 2026.
 
 Mood Ring is a music venue in New York City listed on soundcheck. 17 upcoming gigs, with line-ups including Abril IRL, AG, ARINI and asapalena and 2 more. See dates, start times and who's playing. 1260 Myrtle Ave, Brooklyn, NY 11221, USA.
 
@@ -23,4 +23,4 @@ Mood Ring is a music venue in New York City listed on soundcheck. 17 upcoming gi
 
 1260 Myrtle Ave, Brooklyn, NY 11221, USA, New York City
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mood-ring/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mood-ring/)*

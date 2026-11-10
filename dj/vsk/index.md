@@ -1,6 +1,6 @@
 # VSK
 
-VSK is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at RSO.BERLIN, Berlin on Sat, 5 Dec 2026.
+VSK is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at RSO.BERLIN, Berlin on Sat, 5 Dec 2026.
 
 VSK is a techno and acid artist based in Italy, with 52 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Detroit and 15 more. Often billed alongside Tommy Four Seven, Cristian Marras and Tauceti (FR). Next up: RSO.BERLIN, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ VSK is a techno and acid artist based in Italy, with 52 gigs on soundcheck acros
 
 Tommy Four Seven, Cristian Marras, Tauceti (FR)
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vsk/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vsk/)*

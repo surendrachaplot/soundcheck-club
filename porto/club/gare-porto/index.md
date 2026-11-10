@@ -1,6 +1,6 @@
 # Gare Porto
 
-Gare Porto is a music venue in Porto with 7 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Hayes with Nørbak, Oisel" on Fri, 13 Nov 2026.
+Gare Porto is a music venue in Porto with 7 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Hayes with Nørbak, Oisel" on Fri, 13 Nov 2026.
 
 Gare Porto is a music venue in Porto listed on soundcheck. 7 upcoming gigs, with line-ups including Amulador, Banditst4r, Boston 168 and Catarina Silva and 2 more. See dates, start times and who's playing. Rua da Madeira 182, 4000 Porto, Portugal.
 
@@ -20,4 +20,4 @@ Gare Porto is a music venue in Porto listed on soundcheck. 7 upcoming gigs, with
 
 Rua da Madeira 182, 4000 Porto, Portugal, Porto
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/porto/club/gare-porto/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/porto/club/gare-porto/)*

@@ -1,6 +1,6 @@
 # Alameda Beer Company
 
-Alameda Beer Company is a music venue in Santiago with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. The next is "Nexosónica Aniversario: Pfirter " on Sat, 14 Nov 2026.
+Alameda Beer Company is a music venue in Santiago with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. The next is "Nexosónica Aniversario: Pfirter 4 hrs set" on Sat, 14 Nov 2026.
 
 Alameda Beer Company is a music venue in Santiago listed on soundcheck. 1 upcoming gig, with line-ups including Eurydome, Kalopsia (CL) and Pfirter. See dates, start times and who's playing.
 
@@ -8,6 +8,6 @@ Alameda Beer Company is a music venue in Santiago listed on soundcheck. 1 upcomi
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Nexosónica Aniversario: Pfirter  | Eurydome, Kalopsia (CL), Pfirter |
+| Sat, 14 Nov 2026 | Nexosónica Aniversario: Pfirter 4 hrs set | Eurydome, Kalopsia (CL), Pfirter |
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/santiago/club/alameda-beer-company/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/santiago/club/alameda-beer-company/)*

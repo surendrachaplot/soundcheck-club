@@ -1,6 +1,6 @@
 # Gathaspar
 
-Gathaspar is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 5 Dec 2026.
+Gathaspar is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 5 Dec 2026.
 
 Gathaspar is a house and electro artist based in Poland, with 6 gigs on soundcheck across Barcelona, Berlin, Ghent and Munich. Often billed alongside Buzé, Tobi Neumann and Alexey Orlov. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat 5 Dec.
 
@@ -22,4 +22,4 @@ Gathaspar is a house and electro artist based in Poland, with 6 gigs on soundche
 
 Buzé, Tobi Neumann, Alexey Orlov
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gathaspar/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gathaspar/)*

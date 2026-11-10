@@ -1,6 +1,6 @@
 # Alex Wilcox
 
-Alex Wilcox is a Techno and Electronica artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at The Greyhound, London on Thu, 12 Nov 2026.
+Alex Wilcox is a Techno and Electronica artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at The Greyhound, London on Thu, 12 Nov 2026.
 
 Alex Wilcox is a techno and electronica artist based in United States of America, with 86 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bangkok and 43 more. Often billed alongside Ben UFO, DJ Nobu and DVS1. Next up: The Greyhound, London on Thu 12 Nov.
 
@@ -28,4 +28,4 @@ Alex Wilcox is a techno and electronica artist based in United States of America
 
 Ben UFO, DJ Nobu, DVS1
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexwilcox/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexwilcox/)*

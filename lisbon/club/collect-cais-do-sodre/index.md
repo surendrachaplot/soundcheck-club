@@ -1,6 +1,6 @@
 # Collect - Cais do Sodre
 
-Collect - Cais do Sodre is a music venue in Lisbon with 16 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "COLLECT w/ MIRROR PEOPLE" on Mon, 9 Nov 2026.
+Collect - Cais do Sodre is a music venue in Lisbon with 16 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "COLLECT w/ MIRROR PEOPLE" on Mon, 9 Nov 2026.
 
 Collect - Cais do Sodre is a music venue in Lisbon listed on soundcheck. 16 upcoming gigs, with line-ups including Bernardo Vaz, Eluse, Francisco Berberan and Johan (PT) and 2 more. See dates, start times and who's playing. R. Nova do Carvalho 60 62, 1200-371 Lisboa.
 
@@ -23,4 +23,4 @@ Collect - Cais do Sodre is a music venue in Lisbon listed on soundcheck. 16 upco
 
 R. Nova do Carvalho 60 62, 1200-371 Lisboa, Lisbon
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/collect-cais-do-sodre/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/collect-cais-do-sodre/)*

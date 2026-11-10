@@ -1,14 +1,13 @@
 # DJ Bar Bridge
 
-DJ Bar Bridge is a music venue in Tokyo with 43 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "DJ MINOYAMA, DAH-ISHI & ISABELLE" on Mon, 9 Nov 2026.
+DJ Bar Bridge is a music venue in Tokyo with 42 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "DRUNKEN, RYOSUKE, EDDY & JITSUMITSU" on Tue, 10 Nov 2026.
 
-DJ Bar Bridge is a music venue in Tokyo listed on soundcheck. 43 upcoming gigs, with line-ups including DJ Emma, DJ Nori, FELINE (JP) and JOKI and 2 more. See dates, start times and who's playing. Park Side Kyoudou Bldg.10F, 1-25-6 Shibuya, Shibuya-ku, Tokyo, 150-0002, Japan.
+DJ Bar Bridge is a music venue in Tokyo listed on soundcheck. 42 upcoming gigs, with line-ups including DJ Emma, DJ Nori, FELINE (JP) and JOKI and 2 more. See dates, start times and who's playing. Park Side Kyoudou Bldg.10F, 1-25-6 Shibuya, Shibuya-ku, Tokyo, 150-0002, Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 9 Nov 2026 | DJ MINOYAMA, DAH-ISHI & ISABELLE |  |
 | Tue, 10 Nov 2026 | DRUNKEN, RYOSUKE, EDDY & JITSUMITSU |  |
 | Wed, 11 Nov 2026 | KUBOTA,TAKESHI & Jungle Rock  | Jungle Rock |
 | Thu, 12 Nov 2026 | HOUSE-TEX | DJ Emma, KATIMI AI |
@@ -18,9 +17,10 @@ DJ Bar Bridge is a music venue in Tokyo listed on soundcheck. 43 upcoming gigs, 
 | Tue, 17 Nov 2026 | ZUKIE, Ryo Futojima & DJ HARUKI |  |
 | Wed, 18 Nov 2026 | HIROSHI KAWANABE & FELINE | FELINE (JP) |
 | Thu, 19 Nov 2026 | HOUSE-TEX | DJ Emma |
+| Fri, 20 Nov 2026 | LONDON AFTER MIDNIGHT feat.DJ Nori | DJ Nori |
 
 ## Address
 
 Park Side Kyoudou Bldg.10F, 1-25-6 Shibuya, Shibuya-ku, Tokyo, 150-0002, Japan, Tokyo
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dj-bar-bridge/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dj-bar-bridge/)*

@@ -1,6 +1,6 @@
 # Anna Ullrich pres. Achterbahn at PRST
 
-Anna Ullrich pres. Achterbahn at PRST on Fri 20 Nov, Vienna. 4 artists: Aleta, Anna Ullrich, Armin Hermann and NO ONE. Trance and Techno. See the line-up on soundcheck.
+Anna Ullrich pres. Achterbahn at PRST on Fri 20 Nov, Vienna. 4 artists: Aleta, Anna Ullrich, Armin Hermann and Noone. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,6 @@ Anna Ullrich pres. Achterbahn at PRST on Fri 20 Nov, Vienna. 4 artists: Aleta, A
 - Aleta
 - Anna Ullrich
 - Armin Hermann
-- NO ONE
+- Noone
 
 *Source: [soundcheck](https://soundcheck.club/e/2577227-anna-ullrich-pres-achterbahn-at-prst/)*

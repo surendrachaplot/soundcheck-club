@@ -1,8 +1,8 @@
 # Dan Johnson
 
-Dan Johnson is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Loco Klub, Bristol on Thu, 12 Nov 2026.
+Dan Johnson is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Loco Klub, Bristol on Thu, 12 Nov 2026.
 
-Dan Johnson is a techno and experimental artist based in United Kingdom, with 7 gigs on soundcheck across Bristol and London. Often billed alongside Ossia, Memotone and i-sha. Next up: The Loco Klub, Bristol on Thu 12 Nov.
+Dan Johnson is a techno and experimental artist based in United Kingdom, with 7 gigs on soundcheck across Bristol and London. Often billed alongside Ossia, i-sha and Memotone. Next up: The Loco Klub, Bristol on Thu 12 Nov.
 
 ## Upcoming shows
 
@@ -21,6 +21,6 @@ Dan Johnson is a techno and experimental artist based in United Kingdom, with 7 
 
 ## Shares bills with
 
-Ossia, Memotone, i-sha
+Ossia, i-sha, Memotone
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danjohnson/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danjohnson/)*

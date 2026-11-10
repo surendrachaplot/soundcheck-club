@@ -1,8 +1,8 @@
 # Il Bosco
 
-Il Bosco is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Honey Street Studio, Manchester on Sat, 28 Nov 2026.
+Il Bosco is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Honey Street Studio, Manchester on Sat, 28 Nov 2026.
 
-Il Bosco is a house and disco artist based in United Kingdom, with 49 gigs on soundcheck across Berlin, Bristol, Hamburg and Ibiza and 3 more. Often billed alongside Pharaoh Brunson, Kickin Pigeon and Royal Male. Next up: Honey Street Studio, Manchester on Sat 28 Nov.
+Il Bosco is a house and disco artist based in United Kingdom, with 50 gigs on soundcheck across Berlin, Bristol, Hamburg and Ibiza and 3 more. Often billed alongside Pharaoh Brunson, Kickin Pigeon and Royal Male. Next up: Honey Street Studio, Manchester on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Il Bosco is a house and disco artist based in United Kingdom, with 49 gigs on so
 | Sat, 28 Nov 2026 | Honey Street Studio | Manchester |
 | Sat, 5 Dec 2026 | The White Hotel | Manchester |
 | Sat, 12 Dec 2026 | Sameheads | Berlin |
+| Sat, 16 Jan 2027 | The White Hotel | Manchester |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Il Bosco is a house and disco artist based in United Kingdom, with 49 gigs on so
 
 Pharaoh Brunson, Kickin Pigeon, Royal Male
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ilbosco/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ilbosco/)*

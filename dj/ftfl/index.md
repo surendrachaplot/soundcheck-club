@@ -1,6 +1,6 @@
 # FTFL
 
-FTFL is a Techno and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Vault Club, East on Fri, 20 Nov 2026.
+FTFL is a Techno and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Vault Club, East on Fri, 20 Nov 2026.
 
 FTFL is a techno and dub techno artist based in France, with 12 gigs on soundcheck across East and Strasbourg. Often billed alongside Arbo, Clarence Rise and Diliman. Next up: Vault Club, East on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ FTFL is a techno and dub techno artist based in France, with 12 gigs on soundche
 
 Arbo, Clarence Rise, Diliman
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ftfl/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ftfl/)*

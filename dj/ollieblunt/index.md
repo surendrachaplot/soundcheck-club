@@ -1,6 +1,6 @@
 # Ollie Blunt
 
-Ollie Blunt is a Acid and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - SECRET LOCATION, ROCHFORD ESSEX, South-east on Thu, 31 Dec 2026.
+Ollie Blunt is a Acid and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - SECRET LOCATION, ROCHFORD ESSEX, South-east on Thu, 31 Dec 2026.
 
 Ollie Blunt is an acid and minimal techno artist, with 5 gigs on soundcheck across London and South East. Often billed alongside Ben Lucas, Curby and Harold.. Next up: TBA - SECRET LOCATION, ROCHFORD ESSEX, South East on Thu 31 Dec.
 
@@ -21,4 +21,4 @@ Ollie Blunt is an acid and minimal techno artist, with 5 gigs on soundcheck acro
 
 Ben Lucas, Curby, Harold.
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ollieblunt/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ollieblunt/)*

@@ -1,6 +1,6 @@
 # Dino S
 
-Dino S is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Turtur, Hamburg on Fri, 20 Nov 2026.
+Dino S is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Turtur, Hamburg on Fri, 20 Nov 2026.
 
 Dino S is a techno and drum & bass artist, with 22 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Upzet, IRAD and Ali Rajat. Next up: Turtur, Hamburg on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Dino S is a techno and drum & bass artist, with 22 gigs on soundcheck across Ber
 
 Upzet, IRAD, Ali Rajat
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dinos/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dinos/)*

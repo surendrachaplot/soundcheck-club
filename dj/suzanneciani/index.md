@@ -1,6 +1,6 @@
 # Suzanne Ciani
 
-Suzanne Ciani is a Experimental and Electronica artist with 6 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at public records, New York City on Mon, 9 Nov 2026.
+Suzanne Ciani is a Experimental and Electronica artist with 6 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at public records, New York City on Mon, 9 Nov 2026.
 
 Suzanne Ciani is an experimental and electronica artist based in United States of America, with 36 gigs on soundcheck across Adelaide, Amsterdam, Athens and Auckland and 23 more. Often billed alongside Actress, Eiko Ishibashi and Blawan. Next up: public records, New York City on Mon 9 Nov.
 
@@ -17,6 +17,7 @@ Suzanne Ciani is an experimental and electronica artist based in United States o
 
 ## Recently played
 
+- public records, New York City · Mon, 9 Nov 2026
 - Lietuvos Nacionalinis Kultūros Centras, Lithuania · Wed, 7 Oct 2026
 - Venues Across Glasgow, Glasgow · Thu, 24 Sept 2026
 - TBA - The Loom (2150 Livingston St, Oakland), San Francisco/Oakland · Fri, 18 Sept 2026
@@ -24,10 +25,9 @@ Suzanne Ciani is an experimental and electronica artist based in United States o
 - Hindley Street Music Hall, Adelaide · Sat, 11 Jul 2026
 - TBA - Takanawa Gateway City, Tokyo · Sun, 28 Jun 2026
 - Le Lieu Unique / Nantes, Nantes · Sat, 11 Apr 2026
-- TBA - Multiple Venues , The Hague · Thu, 9 Apr 2026
 
 ## Shares bills with
 
 Actress, Eiko Ishibashi, Blawan
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suzanneciani/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suzanneciani/)*

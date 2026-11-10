@@ -1,6 +1,6 @@
 # Marli
 
-Marli is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Badaboum, Paris on Fri, 13 Nov 2026.
+Marli is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Badaboum, Paris on Fri, 13 Nov 2026.
 
 Marli is a house and techno artist based in Australia, with 71 gigs on soundcheck across Amsterdam, Auckland, Berlin and Madrid and 3 more. Often billed alongside Ricky Nord, Emma Moon and Hannah D. Next up: Badaboum, Paris on Fri 13 Nov.
 
@@ -28,4 +28,4 @@ Marli is a house and techno artist based in Australia, with 71 gigs on soundchec
 
 Ricky Nord, Emma Moon, Hannah D
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marli/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marli/)*

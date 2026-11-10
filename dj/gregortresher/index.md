@@ -1,13 +1,14 @@
 # Gregor Tresher
 
-Gregor Tresher is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Die Halle, Stuttgart on Sat, 5 Dec 2026.
+Gregor Tresher is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Stromwerk Dresden, Dresden on Sat, 14 Nov 2026.
 
-Gregor Tresher is a techno and house artist based in Germany, with 82 gigs on soundcheck across Amsterdam, Athens, Austria and Barcelona and 24 more. Often billed alongside Karotte, Lilly Palmer and Sven Vath. Next up: Die Halle, Stuttgart on Sat 5 Dec.
+Gregor Tresher is a techno and house artist based in Germany, with 83 gigs on soundcheck across Amsterdam, Athens, Austria and Barcelona and 25 more. Often billed alongside Karotte, Lilly Palmer and Sven Vath. Next up: Stromwerk Dresden, Dresden on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | Stromwerk Dresden | Dresden |
 | Sat, 5 Dec 2026 | Die Halle | Stuttgart |
 | Thu, 10 Dec 2026 | Saalbach-Hinterglemm | Austria |
 
@@ -26,4 +27,4 @@ Gregor Tresher is a techno and house artist based in Germany, with 82 gigs on so
 
 Karotte, Lilly Palmer, Sven Vath
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gregortresher/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gregortresher/)*

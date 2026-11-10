@@ -1,14 +1,15 @@
 # Théo Muller
 
-Théo Muller is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Macadam, Nantes on Sun, 20 Dec 2026.
+Théo Muller is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Macadam, Nantes on Sun, 20 Dec 2026.
 
-Théo Muller is a techno and house artist based in France, with 11 gigs on soundcheck across Lisbon, Lyon, Marseille and Nantes and 1 more. Often billed alongside ojoo, NVST and Salma Rosa. Next up: Macadam, Nantes on Sun 20 Dec.
+Théo Muller is a techno and trance artist based in France, with 12 gigs on soundcheck across Lisbon, Lyon, Marseille and Nantes and 1 more. Often billed alongside ojoo, NVST and Salma Rosa. Next up: Macadam, Nantes on Sun 20 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 20 Dec 2026 | Macadam | Nantes |
+| Thu, 31 Dec 2026 | Château de Goulaine | Nantes |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Théo Muller is a techno and house artist based in France, with 11 gigs on sound
 
 ojoo, NVST, Salma Rosa
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theomuller/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theomuller/)*

@@ -1,6 +1,6 @@
 # PAUNA
 
-PAUNA is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Club Lucia, Vienna on Fri, 20 Nov 2026.
+PAUNA is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Club Lucia, Vienna on Fri, 20 Nov 2026.
 
 PAUNA is a techno and minimal artist based in Austria, with 43 gigs on soundcheck across Berlin and Vienna. Often billed alongside NUNØ, KRETA and Kay Barton. Next up: Club Lucia, Vienna on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ PAUNA is a techno and minimal artist based in Austria, with 43 gigs on soundchec
 
 NUNØ, KRETA, Kay Barton
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pauna/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pauna/)*

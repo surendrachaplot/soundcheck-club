@@ -1,6 +1,6 @@
 # Echoes Of October
 
-Echoes Of October is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at RSO.BERLIN, Berlin on Fri, 25 Dec 2026.
+Echoes Of October is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at RSO.BERLIN, Berlin on Fri, 25 Dec 2026.
 
 Echoes Of October is a techno and trance artist based in Germany, with 95 gigs on soundcheck across Berlin, Dresden, Freiburg and Hamburg and 18 more. Often billed alongside Inverse Element, Philipp Drube and SHADYLINES. Next up: RSO.BERLIN, Berlin on Fri 25 Dec.
 
@@ -25,4 +25,4 @@ Echoes Of October is a techno and trance artist based in Germany, with 95 gigs o
 
 Inverse Element, Philipp Drube, SHADYLINES
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/echoesofoctober/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/echoesofoctober/)*

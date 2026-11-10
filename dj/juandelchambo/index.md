@@ -1,6 +1,6 @@
 # Juan Del Chambo
 
-Juan Del Chambo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Prisma, Berlin on Tue, 10 Nov 2026.
+Juan Del Chambo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Prisma, Berlin on Tue, 10 Nov 2026.
 
 Juan Del Chambo is a techno and house artist based in Germany, with 65 gigs on soundcheck across Amsterdam, Berlin, Brussels and Cologne and 3 more. Often billed alongside KEN (DE), DJ PayPaul and Kos:mo. Next up: Prisma, Berlin on Tue 10 Nov.
 
@@ -25,4 +25,4 @@ Juan Del Chambo is a techno and house artist based in Germany, with 65 gigs on s
 
 KEN (DE), DJ PayPaul, Kos:mo
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juandelchambo/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juandelchambo/)*

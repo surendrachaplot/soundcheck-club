@@ -1,6 +1,6 @@
 # Extrawelt
 
-Extrawelt is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Forge, Bucharest on Fri, 18 Dec 2026.
+Extrawelt is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Forge, Bucharest on Fri, 18 Dec 2026.
 
 Extrawelt is a techno and house artist based in Germany, with 55 gigs on soundcheck across Amsterdam, Berlin, Brussels and Bucharest and 20 more. Often billed alongside Robag Wruhme, Anja Schneider and Gregor Tresher. Next up: Forge, Bucharest on Fri 18 Dec.
 
@@ -26,4 +26,4 @@ Extrawelt is a techno and house artist based in Germany, with 55 gigs on soundch
 
 Robag Wruhme, Anja Schneider, Gregor Tresher
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/extrawelt/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/extrawelt/)*

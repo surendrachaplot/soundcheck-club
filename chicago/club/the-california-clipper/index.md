@@ -1,6 +1,6 @@
 # The California Clipper
 
-The California Clipper is a music venue in Chicago with 6 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "TRIAGE: A Tuesday Industry Night" on Tue, 10 Nov 2026.
+The California Clipper is a music venue in Chicago with 6 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "TRIAGE: A Tuesday Industry Night" on Tue, 10 Nov 2026.
 
 The California Clipper is a music venue in Chicago listed on soundcheck. 6 upcoming gigs, with line-ups including Dan B Hood, Emmaculate, Jaq Attaque and jayah and 2 more. See dates, start times and who's playing. 1002 N California Ave, Chicago, IL 60622.
 
@@ -19,4 +19,4 @@ The California Clipper is a music venue in Chicago listed on soundcheck. 6 upcom
 
 1002 N California Ave, Chicago, IL 60622, Chicago
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/the-california-clipper/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/the-california-clipper/)*

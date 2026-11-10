@@ -1,6 +1,6 @@
 # MIMA
 
-MIMA is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Bike Jesus, Prague on Sat, 28 Nov 2026.
+MIMA is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Bike Jesus, Prague on Sat, 28 Nov 2026.
 
 MIMA is a house and tech house artist based in Serbia, with 23 gigs on soundcheck across Barcelona and Prague. Often billed alongside Sam Gittis, KAWA and Pink Concrete. Next up: Bike Jesus, Prague on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ MIMA is a house and tech house artist based in Serbia, with 23 gigs on soundchec
 
 Sam Gittis, KAWA, Pink Concrete
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mima/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mima/)*

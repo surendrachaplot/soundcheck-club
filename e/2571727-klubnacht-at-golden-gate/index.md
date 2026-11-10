@@ -1,6 +1,6 @@
 # Klubnacht at Golden Gate
 
-Klubnacht at Golden Gate on Sat 14 Nov, Berlin. 5 artists: Crowdpleaser, Mr. Laboso, Pentti Igor and Shakèd and 1 more. See the line-up on soundcheck.
+Klubnacht at Golden Gate on Sat 14 Nov, Berlin. 5 artists: Crowdpleaser, Mr. Laboso, Pentti Igor and SaPu and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,7 +13,7 @@ Klubnacht at Golden Gate on Sat 14 Nov, Berlin. 5 artists: Crowdpleaser, Mr. Lab
 - Crowdpleaser
 - Mr. Laboso
 - Pentti Igor
-- Shakèd
+- SaPu
 - TINDRA
 
 *Source: [soundcheck](https://soundcheck.club/e/2571727-klubnacht-at-golden-gate/)*

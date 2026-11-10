@@ -1,8 +1,8 @@
 # Big Softy
 
-Big Softy is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Shacklewell Arms, Bristol on Tue, 10 Nov 2026.
+Big Softy is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Shacklewell Arms, Bristol on Tue, 10 Nov 2026.
 
-Big Softy is an electronic artist, with 5 gigs on soundcheck across Bristol and London. Often billed alongside Areola Grande Latte, Jaguar and KDA. Next up: The Shacklewell Arms, Bristol on Tue 10 Nov.
+Big Softy is an electronic artist based in United Kingdom, with 5 gigs on soundcheck across Bristol and London. Often billed alongside Areola Grande Latte, Jaguar and KDA. Next up: The Shacklewell Arms, Bristol on Tue 10 Nov.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ Big Softy is an electronic artist, with 5 gigs on soundcheck across Bristol and 
 
 Areola Grande Latte, Jaguar, KDA
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bigsofty/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bigsofty/)*

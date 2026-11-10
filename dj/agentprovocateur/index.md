@@ -1,6 +1,6 @@
 # AGENT PROVOCATEUR
 
-AGENT PROVOCATEUR is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Indigo Mrkto, Chicago on Sat, 14 Nov 2026.
+AGENT PROVOCATEUR is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Indigo Mrkto, Chicago on Sat, 14 Nov 2026.
 
 AGENT PROVOCATEUR is a techno and house artist based in Ukraine, with 18 gigs on soundcheck across Berlin, Chicago, New York City and Warsaw. Often billed alongside Cleopard2000, Erley and Floor Force One. Next up: Indigo Mrkto, Chicago on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ AGENT PROVOCATEUR is a techno and house artist based in Ukraine, with 18 gigs on
 
 Cleopard2000, Erley, Floor Force One
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/agentprovocateur/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/agentprovocateur/)*

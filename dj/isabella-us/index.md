@@ -1,6 +1,6 @@
 # Isabella Koen
 
-Isabella Koen is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Premises, Chicago on Sat, 21 Nov 2026.
+Isabella Koen is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Premises, Chicago on Sat, 21 Nov 2026.
 
 Isabella Koen is a techno and club artist based in United States of America, with 18 gigs on soundcheck across Boston, Chicago, New York City and Rhode Island. Often billed alongside Arushi Jain, D. Strange and DJ Clone. Next up: TBA - Premises, Chicago on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Isabella Koen is a techno and club artist based in United States of America, wit
 
 Arushi Jain, D. Strange, DJ Clone
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/isabella-us/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/isabella-us/)*

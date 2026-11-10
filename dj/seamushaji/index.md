@@ -1,6 +1,6 @@
 # Seamus Haji
 
-Seamus Haji is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at 24 Kitchen Street, Liverpool on Fri, 4 Dec 2026.
+Seamus Haji is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at 24 Kitchen Street, Liverpool on Fri, 4 Dec 2026.
 
 Seamus Haji is a house and disco artist based in United Kingdom, with 51 gigs on soundcheck across Amsterdam, Barcelona, Brighton and Bristol and 14 more. Often billed alongside Melvo Baptiste, Horse Meat Disco and Roger Sanchez. Next up: 24 Kitchen Street, Liverpool on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Seamus Haji is a house and disco artist based in United Kingdom, with 51 gigs on
 
 Melvo Baptiste, Horse Meat Disco, Roger Sanchez
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seamushaji/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seamushaji/)*

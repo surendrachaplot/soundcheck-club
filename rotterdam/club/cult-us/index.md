@@ -1,6 +1,6 @@
 # Cult=us
 
-Cult=us is a music venue in Rotterdam with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. The next is "Love Transmission with Offbeat Records" on Fri, 27 Nov 2026.
+Cult=us is a music venue in Rotterdam with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. The next is "Love Transmission with Offbeat Records" on Fri, 27 Nov 2026.
 
 Cult=us is a music venue in Rotterdam listed on soundcheck. 1 upcoming gig, with line-ups including Ays (NL) and Kuriosa. See dates, start times and who's playing. Keilestraat 7a, 3029 BP Rotterdam.
 
@@ -14,4 +14,4 @@ Cult=us is a music venue in Rotterdam listed on soundcheck. 1 upcoming gig, with
 
 Keilestraat 7a, 3029 BP Rotterdam, Rotterdam
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/cult-us/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/cult-us/)*

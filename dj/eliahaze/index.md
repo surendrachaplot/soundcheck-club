@@ -1,6 +1,6 @@
 # EliaHaze
 
-EliaHaze is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Golden Pudel Club, Hamburg on Sat, 14 Nov 2026.
+EliaHaze is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Golden Pudel Club, Hamburg on Sat, 14 Nov 2026.
 
 EliaHaze is a techno and house artist based in Germany, with 127 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Dortmund / Essen and 5 more. Often billed alongside DJ Babyblade, DJ SOURCE and Anton Jonathan. Next up: Golden Pudel Club, Hamburg on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ EliaHaze is a techno and house artist based in Germany, with 127 gigs on soundch
 
 DJ Babyblade, DJ SOURCE, Anton Jonathan
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eliahaze/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eliahaze/)*

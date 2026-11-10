@@ -1,6 +1,6 @@
 # Maher Daniel
 
-Maher Daniel is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Downtown Los Angeles, Los Angeles on Sat, 12 Dec 2026.
+Maher Daniel is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Downtown Los Angeles, Los Angeles on Sat, 12 Dec 2026.
 
 Maher Daniel is a house and minimal artist based in Palestine, with 113 gigs on soundcheck across Amsterdam, Atlanta, Baltimore and Barcelona and 29 more. Often billed alongside Danyelino, Ricardo Villalobos and Raresh. Next up: TBA - Downtown Los Angeles, Los Angeles on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Maher Daniel is a house and minimal artist based in Palestine, with 113 gigs on 
 
 Danyelino, Ricardo Villalobos, Raresh
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maherdaniel/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maherdaniel/)*

@@ -1,6 +1,6 @@
 # La Station - Gare des Mines
 
-La Station - Gare des Mines is a music venue in Paris with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Spectrum Waves" on Fri, 13 Nov 2026.
+La Station - Gare des Mines is a music venue in Paris with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Spectrum Waves" on Fri, 13 Nov 2026.
 
 La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 3 upcoming gigs, with line-ups including DJ Music, encore une autre, fetva and Golce and 2 more. See dates, start times and who's playing. 29 avenue de la Porte d’Aubervilliers Paris.
 
@@ -16,4 +16,4 @@ La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 3 up
 
 29 avenue de la Porte d’Aubervilliers Paris, Paris
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-station-gare-des-mines/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-station-gare-des-mines/)*

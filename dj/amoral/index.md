@@ -1,6 +1,6 @@
 # AMORAL
 
-AMORAL is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Video Club, Bogotá on Sat, 21 Nov 2026.
+AMORAL is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Video Club, Bogotá on Sat, 21 Nov 2026.
 
 AMORAL is a techno and house artist based in Netherlands, with 180 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 45 more. Often billed alongside MARRØN, Rene Wise and Lobster (NL). Next up: Video Club, Bogotá on Sat 21 Nov.
 
@@ -30,4 +30,4 @@ AMORAL is a techno and house artist based in Netherlands, with 180 gigs on sound
 
 MARRØN, Rene Wise, Lobster (NL)
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amoral/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amoral/)*

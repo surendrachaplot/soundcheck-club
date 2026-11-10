@@ -1,6 +1,6 @@
 # Marco Ortore
 
-Marco Ortore is a Minimal and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TAG Culture Rome, Rome on Sun, 15 Nov 2026.
+Marco Ortore is a Minimal and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TAG Culture Rome, Rome on Sun, 15 Nov 2026.
 
 Marco Ortore is a minimal and minimal techno artist based in Italy, with 8 gigs on soundcheck across Bologna, London and Rome. Often billed alongside Luca Priulla, Flavio Deff and 2VIBES. Next up: TAG Culture Rome, Rome on Sun 15 Nov.
 
@@ -24,4 +24,4 @@ Marco Ortore is a minimal and minimal techno artist based in Italy, with 8 gigs 
 
 Luca Priulla, Flavio Deff, 2VIBES
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoortore/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoortore/)*

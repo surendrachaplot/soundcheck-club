@@ -1,6 +1,6 @@
 # LA MAISON
 
-LA MAISON is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Marlborough Red Room, Glasgow on Sat, 14 Nov 2026.
+LA MAISON is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Marlborough Red Room, Glasgow on Sat, 14 Nov 2026.
 
 LA MAISON is a techno and trance artist based in United Kingdom, with 36 gigs on soundcheck across Edinburgh, Glasgow, Manchester and Paris. Often billed alongside D4N, VXYX and Céleste. Next up: The Marlborough Red Room, Glasgow on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ LA MAISON is a techno and trance artist based in United Kingdom, with 36 gigs on
 
 D4N (1), VXYX, Céleste
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lamaison/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lamaison/)*

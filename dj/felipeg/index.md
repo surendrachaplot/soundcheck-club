@@ -1,6 +1,6 @@
 # Felipe G
 
-Felipe G is a Electronica and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Minimal Bar, Berlin on Wed, 17 Feb 2027.
+Felipe G is a Electronica and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Minimal Bar, Berlin on Wed, 17 Feb 2027.
 
 Felipe G is an electronica and disco artist based in Chile, with 9 gigs on soundcheck across Berlin. Often billed alongside Juan Ferreyra, Alison Swing and Ariel (DE). Next up: Minimal Bar, Berlin on Wed 17 Feb.
 
@@ -25,4 +25,4 @@ Felipe G is an electronica and disco artist based in Chile, with 9 gigs on sound
 
 Juan Ferreyra, Alison Swing, Ariel (DE)
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/felipeg/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/felipeg/)*

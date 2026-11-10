@@ -1,6 +1,6 @@
 # Sammy Porter
 
-Sammy Porter is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Chelmsford City Racecourse, London on Thu, 31 Dec 2026.
+Sammy Porter is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Chelmsford City Racecourse, London on Thu, 31 Dec 2026.
 
 Sammy Porter is a house and tech house artist based in United Kingdom, with 151 gigs on soundcheck across Birmingham, Brighton, Dublin and Hobart and 7 more. Often billed alongside George Mensah, Charlotte Van de Peer and Tilli Murphy. Next up: Chelmsford City Racecourse, London on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Sammy Porter is a house and tech house artist based in United Kingdom, with 151 
 
 George Mensah, Charlotte Van de Peer, Tilli Murphy
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sammyporter/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sammyporter/)*

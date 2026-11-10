@@ -1,6 +1,6 @@
 # Avocado
 
-Avocado is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Kasteel De Berckt, Netherlands on Fri, 20 Nov 2026.
+Avocado is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Kasteel De Berckt, Netherlands on Fri, 20 Nov 2026.
 
 Avocado is a techno and house artist based in Germany, with 92 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 8 more. Often billed alongside Dave Dinger, Rachel Raw and Leon Licht. Next up: Kasteel De Berckt, Netherlands on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Avocado is a techno and house artist based in Germany, with 92 gigs on soundchec
 
 Dave Dinger, Rachel Raw, Leon Licht
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avocado/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avocado/)*

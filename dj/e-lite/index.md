@@ -1,6 +1,6 @@
 # e-Lite
 
-e-Lite is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at public records, New York City on Fri, 4 Dec 2026.
+e-Lite is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at public records, New York City on Fri, 4 Dec 2026.
 
 e-Lite is a house and techno artist based in United States of America, with 16 gigs on soundcheck across New York City. Often billed alongside The Carry Nation, donofrio and Grace Sands. Next up: public records, New York City on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ e-Lite is a house and techno artist based in United States of America, with 16 g
 
 The Carry Nation, donofrio, Grace Sands
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/e-lite/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/e-lite/)*

@@ -1,6 +1,6 @@
 # ASHACK
 
-ASHACK is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Smoot Standard, Boston on Sat, 14 Nov 2026.
+ASHACK is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Smoot Standard, Boston on Sat, 14 Nov 2026.
 
 ASHACK is a garage and house artist based in United Kingdom, with 3 gigs on soundcheck across Boston. Next up: The Smoot Standard, Boston on Sat 14 Nov.
 
@@ -15,4 +15,4 @@ ASHACK is a garage and house artist based in United Kingdom, with 3 gigs on soun
 - The Smoot Standard, Boston · Sat, 17 Oct 2026
 - Naco Taco, Boston · Sat, 29 Aug 2026
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ashack/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ashack/)*

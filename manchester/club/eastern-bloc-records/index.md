@@ -1,8 +1,8 @@
 # Eastern Bloc Records
 
-Eastern Bloc Records is a music venue in Manchester with 12 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Timeloop Rec presents: Jambo" on Thu, 12 Nov 2026.
+Eastern Bloc Records is a music venue in Manchester with 14 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Timeloop Rec presents: Jambo" on Thu, 12 Nov 2026.
 
-Eastern Bloc Records is a music venue in Manchester listed on soundcheck. 12 upcoming gigs, with line-ups including AdomasLP, Balrog, BinaryFunction and Ikigai and 2 more. See dates, start times and who's playing. 5a Stevenson Square, Northern Quarter, Manchester, M1 1DN.
+Eastern Bloc Records is a music venue in Manchester listed on soundcheck. 14 upcoming gigs, with line-ups including AdomasLP, Balrog, BinaryFunction and Daz Mac and 2 more. See dates, start times and who's playing. 5a Stevenson Square, Northern Quarter, Manchester, M1 1DN.
 
 ## What's on
 
@@ -17,10 +17,10 @@ Eastern Bloc Records is a music venue in Manchester listed on soundcheck. 12 upc
 | Fri, 27 Nov 2026 | Nightshade Records 001 Launch Party - Jay Tripwire / Kieran Jandu & Hugo Maher | Jay Tripwire, Kieran Jandu |
 | Sat, 28 Nov 2026 | Surge | BinaryFunction, Nestor (IE), Randle P Mcmurphy |
 | Fri, 4 Dec 2026 | Evasive Records | Rob Pearson |
-| Sat, 12 Dec 2026 | Ten Lovers Music - TLM043 Release Party |  |
+| Sat, 5 Dec 2026 | A Sky Full Of Numbers presents | Mouridis, Zuri, gwa (1) |
 
 ## Address
 
 5a Stevenson Square, Northern Quarter, Manchester, M1 1DN, Manchester
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/eastern-bloc-records/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/eastern-bloc-records/)*

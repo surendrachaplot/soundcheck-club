@@ -1,6 +1,6 @@
 # Ariberto
 
-Ariberto is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Station Live Club, Milan on Fri, 18 Dec 2026.
+Ariberto is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Station Live Club, Milan on Fri, 18 Dec 2026.
 
 Ariberto is a techno and house artist, with 5 gigs on soundcheck across Milan. Often billed alongside DiemK, VISIONARY and Gumbelly. Next up: Station Live Club, Milan on Fri 18 Dec.
 
@@ -21,4 +21,4 @@ Ariberto is a techno and house artist, with 5 gigs on soundcheck across Milan. O
 
 DiemK, VISIONARY, Gumbelly
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ariberto/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ariberto/)*

@@ -1,6 +1,6 @@
 # Katire
 
-Katire is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Secret Location Burgos (casco historico), North on Fri, 1 Jan 2027.
+Katire is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Secret Location Burgos (casco historico), North on Fri, 1 Jan 2027.
 
 Katire is an electronic artist based in Spain, with 5 gigs on soundcheck across Amsterdam, Madrid and North. Often billed alongside ARSA, Backbone and Gitow. Next up: TBA - Secret Location Burgos (casco historico), North on Fri 1 Jan.
 
@@ -21,4 +21,4 @@ Katire is an electronic artist based in Spain, with 5 gigs on soundcheck across 
 
 ARSA, Backbone, Gitow
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katire/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katire/)*

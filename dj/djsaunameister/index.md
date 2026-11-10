@@ -1,14 +1,14 @@
 # DJ Saunameister
 
-DJ Saunameister is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA, Berlin on Sat, 19 Dec 2026.
+DJ Saunameister is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - SECRET WHAREHOUSE, Berlin on Sat, 19 Dec 2026.
 
-DJ Saunameister is a techno and trance artist based in Germany, with 47 gigs on soundcheck across Amsterdam, Berlin, Hamburg and Karlsruhe and 3 more. Often billed alongside Jeffrey (DE), DMCG and Stevyl. Next up: TBA, Berlin on Sat 19 Dec.
+DJ Saunameister is a techno and trance artist based in Germany, with 47 gigs on soundcheck across Amsterdam, Berlin, Hamburg and Karlsruhe and 3 more. Often billed alongside Jeffrey (DE), DMCG and Stevyl. Next up: TBA - SECRET WHAREHOUSE, Berlin on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Dec 2026 | TBA | Berlin |
+| Sat, 19 Dec 2026 | TBA - SECRET WHAREHOUSE | Berlin |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ DJ Saunameister is a techno and trance artist based in Germany, with 47 gigs on 
 
 Jeffrey (DE), DMCG, Stevyl
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsaunameister/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsaunameister/)*

@@ -1,6 +1,6 @@
 # ALEX PANKOV
 
-ALEX PANKOV is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at RNDM, Moscow on Fri, 13 Nov 2026.
+ALEX PANKOV is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at RNDM, Moscow on Fri, 13 Nov 2026.
 
 ALEX PANKOV is an electronic artist based in Russia, with 4 gigs on soundcheck across Madrid, Moscow and Saint Petersburg. Often billed alongside Chain Damage, ALOD and Gemüt. Next up: RNDM, Moscow on Fri 13 Nov.
 
@@ -20,4 +20,4 @@ ALEX PANKOV is an electronic artist based in Russia, with 4 gigs on soundcheck a
 
 Chain Damage, ALOD, Gemüt
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexpankov/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexpankov/)*

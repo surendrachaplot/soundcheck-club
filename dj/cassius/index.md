@@ -1,6 +1,6 @@
 # Cassius
 
-Cassius is a House and Electro artist with 5 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Melkweg, Amsterdam on Fri, 13 Nov 2026.
+Cassius is a House and Electro artist with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Melkweg, Amsterdam on Fri, 13 Nov 2026.
 
 Cassius is a house and electro artist based in France, with 55 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 25 more. Often billed alongside Myd, Busy P and LB aka LABAT. Next up: Melkweg, Amsterdam on Fri 13 Nov.
 
@@ -29,4 +29,4 @@ Cassius is a house and electro artist based in France, with 55 gigs on soundchec
 
 Myd, Busy P, LB aka LABAT
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cassius/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cassius/)*

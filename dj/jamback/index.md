@@ -1,6 +1,6 @@
 # Jamback
 
-Jamback is a House and Tech House artist with 18 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Unit 51, Aberdeen on Thu, 12 Nov 2026.
+Jamback is a House and Tech House artist with 18 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Unit 51, Aberdeen on Thu, 12 Nov 2026.
 
 Jamback is a house and tech house artist based in Netherlands, with 216 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 49 more. Often billed alongside East End Dubs, Marsolo and Rossi. Next up: Unit 51, Aberdeen on Thu 12 Nov.
 
@@ -36,4 +36,4 @@ Jamback is a house and tech house artist based in Netherlands, with 216 gigs on 
 
 East End Dubs, Marsolo, Rossi
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamback/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamback/)*

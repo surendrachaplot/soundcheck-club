@@ -1,6 +1,6 @@
 # Snake Radical
 
-Snake Radical is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Collect LX Factory, Lisbon on Fri, 13 Nov 2026.
+Snake Radical is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Collect LX Factory, Lisbon on Fri, 13 Nov 2026.
 
 Snake Radical is a techno and electronica artist, with 6 gigs on soundcheck across Lisbon. Often billed alongside Albin (BR), Bobby Dreams and C0linas. Next up: Collect LX Factory, Lisbon on Fri 13 Nov.
 
@@ -22,4 +22,4 @@ Snake Radical is a techno and electronica artist, with 6 gigs on soundcheck acro
 
 Albin (BR), Bobby Dreams, C0linas
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/snakeradical/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/snakeradical/)*

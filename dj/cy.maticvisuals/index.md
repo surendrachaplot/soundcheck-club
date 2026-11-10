@@ -1,6 +1,6 @@
 # cy.matic (visuals)
 
-cy.matic (visuals) is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - East Van, Vancouver on Sat, 28 Nov 2026.
+cy.matic (visuals) is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - East Van, Vancouver on Sat, 28 Nov 2026.
 
 cy.matic (visuals) is a techno and bass artist based in Canada, with 10 gigs on soundcheck across Vancouver. Often billed alongside cy.matic, DJ Hockey and Vasho. Next up: TBA - East Van, Vancouver on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ cy.matic (visuals) is a techno and bass artist based in Canada, with 10 gigs on 
 
 cy.matic, DJ Hockey, Vasho
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cy.maticvisuals/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cy.maticvisuals/)*

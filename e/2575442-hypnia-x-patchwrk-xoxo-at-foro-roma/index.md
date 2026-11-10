@@ -1,6 +1,6 @@
 # HYPNIA x Patchwrk - XOXO at Foro Roma
 
-HYPNIA x Patchwrk - XOXO at Foro Roma on Sat 14 Nov, Mexico City. 2 artists: Andrreas and TRIVEAT. House and Tech House. See the line-up on soundcheck.
+HYPNIA x Patchwrk - XOXO at Foro Roma on Sat 14 Nov, Mexico City. 3 artists: Andrreas, TRIVEAT and Value of Time. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ HYPNIA x Patchwrk - XOXO at Foro Roma on Sat 14 Nov, Mexico City. 2 artists: And
 
 - Andrreas
 - TRIVEAT
+- Value of Time
 
 *Source: [soundcheck](https://soundcheck.club/e/2575442-hypnia-x-patchwrk-xoxo-at-foro-roma/)*

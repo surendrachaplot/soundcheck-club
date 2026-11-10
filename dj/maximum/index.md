@@ -1,6 +1,6 @@
 # MAXImum
 
-MAXImum is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Klakaz, Athens on Sun, 29 Nov 2026.
+MAXImum is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Klakaz, Athens on Sun, 29 Nov 2026.
 
 MAXImum is a techno and trance artist based in Greece, with 22 gigs on soundcheck across Athens, Dublin, Ibiza and Manchester and 2 more. Often billed alongside CHEX, Clowl and Enjoint. Next up: Klakaz, Athens on Sun 29 Nov.
 
@@ -27,4 +27,4 @@ MAXImum is a techno and trance artist based in Greece, with 22 gigs on soundchec
 
 CHEX, Clowl, Enjoint
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maximum/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maximum/)*

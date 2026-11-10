@@ -1,6 +1,6 @@
 # Leo Roskovec
 
-Leo Roskovec is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Secret Location, Stockholm on Sat, 14 Nov 2026.
+Leo Roskovec is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Secret Location, Stockholm on Sat, 14 Nov 2026.
 
 Leo Roskovec is a techno and house artist based in France, with 6 gigs on soundcheck across Berlin and Stockholm. Often billed alongside .JKM, Maris Shilton and Ponygirl. Next up: TBA - Secret Location, Stockholm on Sat 14 Nov.
 
@@ -22,4 +22,4 @@ Leo Roskovec is a techno and house artist based in France, with 6 gigs on soundc
 
 .JKM, Maris Shilton, Ponygirl
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leoroskovec/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leoroskovec/)*

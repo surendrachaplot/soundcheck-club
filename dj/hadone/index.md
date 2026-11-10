@@ -1,6 +1,6 @@
 # Hadone
 
-Hadone is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at RADION, Amsterdam on Fri, 13 Nov 2026.
+Hadone is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at RADION, Amsterdam on Fri, 13 Nov 2026.
 
 Hadone is a techno and house artist based in France, with 202 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 65 more. Often billed alongside UFO95, Chlär and DAX J. Next up: RADION, Amsterdam on Fri 13 Nov.
 
@@ -29,4 +29,4 @@ Hadone is a techno and house artist based in France, with 202 gigs on soundcheck
 
 UFO95, Chlär, DAX J
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hadone/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hadone/)*

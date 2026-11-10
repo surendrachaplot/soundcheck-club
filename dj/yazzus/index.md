@@ -1,8 +1,8 @@
 # Yazzus
 
-Yazzus is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at La Machine Du Moulin Rouge, Paris on Fri, 13 Nov 2026.
+Yazzus is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at La Machine Du Moulin Rouge, Paris on Fri, 13 Nov 2026.
 
-Yazzus is a techno and house artist based in United Kingdom, with 193 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 52 more. Often billed alongside DJ TOOL, Hyperaktivist and D.Dan. Next up: La Machine Du Moulin Rouge, Paris on Fri 13 Nov.
+Yazzus is a techno and house artist based in United Kingdom, with 194 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 53 more. Often billed alongside DJ TOOL, Hyperaktivist and D.Dan. Next up: La Machine Du Moulin Rouge, Paris on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Yazzus is a techno and house artist based in United Kingdom, with 193 gigs on so
 | Fri, 20 Nov 2026 | Bassiani | Tbilisi |
 | Fri, 27 Nov 2026 | Signal | New York City |
 | Fri, 4 Dec 2026 | TBA - San Francisco | San Francisco/Oakland |
+| Fri, 19 Mar 2027 | The Groove Garden | Sri-lanka |
 
 ## Recently played
 
@@ -30,4 +31,4 @@ Yazzus is a techno and house artist based in United Kingdom, with 193 gigs on so
 
 DJ TOOL, Hyperaktivist, D.Dan
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yazzus/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yazzus/)*

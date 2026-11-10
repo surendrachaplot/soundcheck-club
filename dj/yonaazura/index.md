@@ -1,6 +1,6 @@
 # Yona Azura
 
-Yona Azura is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Prozak 2.0, Krakow on Fri, 13 Nov 2026.
+Yona Azura is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Prozak 2.0, Krakow on Fri, 13 Nov 2026.
 
 Yona Azura is a techno and trance artist based in Poland, with 9 gigs on soundcheck across Krakow. Often billed alongside Kuriozum, Forest (PL) and Meg (PL). Next up: Prozak 2.0, Krakow on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Yona Azura is a techno and trance artist based in Poland, with 9 gigs on soundch
 
 Kuriozum, Forest (PL), Meg (PL)
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yonaazura/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yonaazura/)*

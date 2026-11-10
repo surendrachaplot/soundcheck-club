@@ -1,8 +1,8 @@
 # Juheun
 
-Juheun is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Undisclosed Location, Arizona on Sat, 14 Nov 2026.
+Juheun is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Undisclosed Location, Arizona on Sat, 14 Nov 2026.
 
-Juheun is a techno and house artist based in United States of America, with 12 gigs on soundcheck across Amsterdam, Arizona, Detroit and Pittsburgh and 4 more. Often billed alongside Michelle Sparks, Dani Savant and Donnerstag. Next up: TBA - Undisclosed Location, Arizona on Sat 14 Nov.
+Juheun is a techno and house artist based in United States of America, with 12 gigs on soundcheck across Amsterdam, Arizona, Detroit and Pittsburgh and 4 more. Often billed alongside Michelle Sparks, Donnerstag and Dani Savant. Next up: TBA - Undisclosed Location, Arizona on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Juheun is a techno and house artist based in United States of America, with 12 g
 
 ## Shares bills with
 
-Michelle Sparks, Dani Savant, Donnerstag (1)
+Michelle Sparks, Donnerstag (1), Dani Savant
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juheun/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juheun/)*

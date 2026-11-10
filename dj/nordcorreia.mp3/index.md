@@ -1,13 +1,14 @@
 # nordcorreia.mp3
 
-nordcorreia.mp3 is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Schrotty, Cologne on Sat, 5 Dec 2026.
+nordcorreia.mp3 is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Lehmann Club, Stuttgart on Fri, 20 Nov 2026.
 
-nordcorreia.mp3 is a techno and trance artist based in Germany, with 58 gigs on soundcheck across Amsterdam, Berlin, Budapest and Cologne and 6 more. Often billed alongside Amøn, FEROTONINO and Boltcore. Next up: Schrotty, Cologne on Sat 5 Dec.
+nordcorreia.mp3 is a techno and trance artist based in Germany, with 59 gigs on soundcheck across Amsterdam, Berlin, Budapest and Cologne and 7 more. Often billed alongside Amøn, FEROTONINO and Boltcore. Next up: Lehmann Club, Stuttgart on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | Lehmann Club | Stuttgart |
 | Sat, 5 Dec 2026 | Schrotty | Cologne |
 | Wed, 16 Dec 2026 | Lokschuppen Berlin | Berlin |
 
@@ -26,4 +27,4 @@ nordcorreia.mp3 is a techno and trance artist based in Germany, with 58 gigs on 
 
 Amøn, FEROTONINO, Boltcore
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nordcorreia.mp3/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nordcorreia.mp3/)*

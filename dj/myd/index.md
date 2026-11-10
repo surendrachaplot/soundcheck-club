@@ -1,14 +1,13 @@
 # Myd
 
-Myd is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Le Sucre, Lyon on Sun, 8 Nov 2026.
+Myd is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Hydrozagadka, Warsaw on Fri, 11 Dec 2026.
 
-Myd is a house and electro artist based in France, with 118 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 30 more. Often billed alongside Busy P, Breakbot and Cassius. Next up: Le Sucre, Lyon on Sun 8 Nov.
+Myd is a house and electro artist based in France, with 118 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 30 more. Often billed alongside Busy P, Breakbot and Cassius. Next up: Hydrozagadka, Warsaw on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 8 Nov 2026 | Le Sucre | Lyon |
 | Fri, 11 Dec 2026 | Hydrozagadka | Warsaw |
 | Sat, 23 Jan 2027 | Warehouse | Nantes |
 
@@ -27,4 +26,4 @@ Myd is a house and electro artist based in France, with 118 gigs on soundcheck a
 
 Busy P, Breakbot, Cassius
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/myd/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/myd/)*

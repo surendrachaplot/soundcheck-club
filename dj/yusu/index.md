@@ -1,8 +1,8 @@
 # Yu Su
 
-Yu Su is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at public records, New York City on Mon, 9 Nov 2026.
+Yu Su is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at public records, New York City on Mon, 9 Nov 2026.
 
-Yu Su is a house and techno artist based in China, with 169 gigs on soundcheck across Adelaide, Amsterdam, Austin and Bali and 53 more. Often billed alongside Leon Vynehall, Antal and Job Jobse. Next up: public records, New York City on Mon 9 Nov.
+Yu Su is a house and techno artist based in China, with 170 gigs on soundcheck across Adelaide, Amsterdam, Austin and Bali and 54 more. Often billed alongside Leon Vynehall, Antal and Job Jobse. Next up: public records, New York City on Mon 9 Nov.
 
 ## Upcoming shows
 
@@ -15,12 +15,14 @@ Yu Su is a house and techno artist based in China, with 169 gigs on soundcheck a
 | Sat, 21 Nov 2026 | La Cheetah Club | Glasgow |
 | Fri, 27 Nov 2026 | Stinsen | Stockholm |
 | Fri, 4 Dec 2026 | NDR2 Red Room | London |
+| Sat, 12 Dec 2026 | Robert Johnson | Hesse |
 | Thu, 17 Jun 2027 | TBA - Barcelona (Sónar by Day) & Fira Gran Via (Sónar by Night) | Barcelona |
 | Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
 | Thu, 19 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 
+- public records, New York City · Mon, 9 Nov 2026
 - Jaeger, Oslo · Sat, 24 Oct 2026
 - TBA, Amsterdam · Fri, 23 Oct 2026
 - Fidelity Studio, Dublin · Sat, 17 Oct 2026
@@ -28,10 +30,9 @@ Yu Su is a house and techno artist based in China, with 169 gigs on soundcheck a
 - Strange Brew, Bristol · Wed, 7 Oct 2026
 - Open Ground, Wuppertal · Sat, 3 Oct 2026
 - St. Bartholomew's Church, New York City · Sun, 27 Sept 2026
-- The Cross, London · Thu, 24 Sept 2026
 
 ## Shares bills with
 
 Leon Vynehall, Antal, Job Jobse
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yusu/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yusu/)*

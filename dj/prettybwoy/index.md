@@ -1,6 +1,6 @@
 # PRETTYBWOY
 
-PRETTYBWOY is a Bass and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at club asia, Tokyo on Thu, 12 Nov 2026.
+PRETTYBWOY is a Bass and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at club asia, Tokyo on Thu, 12 Nov 2026.
 
 PRETTYBWOY is a bass and experimental artist based in Japan, with 20 gigs on soundcheck across Beijing and Tokyo. Often billed alongside Eichi Abe, Kim Laughton and MUNÉO. Next up: club asia, Tokyo on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ PRETTYBWOY is a bass and experimental artist based in Japan, with 20 gigs on sou
 
 Eichi Abe, Kim Laughton, MUNÉO
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prettybwoy/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prettybwoy/)*

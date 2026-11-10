@@ -1,6 +1,6 @@
 # Panama
 
-Panama is a music venue in Amsterdam with 8 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "30pm.club" on Fri, 13 Nov 2026.
+Panama is a music venue in Amsterdam with 8 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "30pm.club" on Fri, 13 Nov 2026.
 
 Panama is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs, with line-ups including Ben Techy, David Morales, Divasi and Kel Mozy and 2 more. See dates, start times and who's playing. Oostelijke Handelskade 4; 1019 Zeeburg; Amsterdam; Netherlands.
 
@@ -10,7 +10,7 @@ Panama is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs, with
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | 30pm.club | David Morales |
 | Sat, 14 Nov 2026 | Girls Like R&B - Winter Indoor Festival - Panama Amsterdam |  |
-| Fri, 20 Nov 2026 | RAVING CHARLIE: Hard Techno / Rave |  |
+| Fri, 20 Nov 2026 | RAVING CHARLIE: Hard Techno / Rave  | Zeyvers |
 | Sat, 21 Nov 2026 | KOMPLOTT | Ben Techy, Divasi, Rudaki, SANTØS |
 | Sat, 28 Nov 2026 | Oliver Sullivan & Friends | Oliver Sullivan |
 | Sat, 19 Dec 2026 | BASS3 x Panama AMSTERDAM | Kel Mozy, Simon Kidzoo |
@@ -21,4 +21,4 @@ Panama is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs, with
 
 Oostelijke Handelskade 4; 1019 Zeeburg; Amsterdam; Netherlands, Amsterdam
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/panama/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/panama/)*

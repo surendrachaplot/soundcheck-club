@@ -1,6 +1,6 @@
 # THA NXXT STEP
 
-THA NXXT STEP is a Footwork and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Sat, 21 Nov 2026.
+THA NXXT STEP is a Footwork and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Sat, 21 Nov 2026.
 
 THA NXXT STEP is a footwork and club artist based in United States of America, with 4 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Mars Kasei, Discnogirl and 40split. Next up: F8 1192 Folsom, San Francisco/Oakland on Sat 21 Nov.
 
@@ -20,4 +20,4 @@ THA NXXT STEP is a footwork and club artist based in United States of America, w
 
 Mars Kasei, Discnogirl, 40split
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thanxxtstep/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thanxxtstep/)*

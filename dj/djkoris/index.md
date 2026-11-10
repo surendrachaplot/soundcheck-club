@@ -1,6 +1,6 @@
 # DJ KORIS
 
-DJ KORIS is a Club and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TRANSMISSION DC, Washington DC on Sat, 21 Nov 2026.
+DJ KORIS is a Club and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TRANSMISSION DC, Washington DC on Sat, 21 Nov 2026.
 
 DJ KORIS is a club and ghetto tech artist, with 36 gigs on soundcheck across Baltimore and Washington DC. Often billed alongside CYB3R T0NIN, JACKIECHANSDOG and Mooncrumb. Next up: TRANSMISSION DC, Washington DC on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ DJ KORIS is a club and ghetto tech artist, with 36 gigs on soundcheck across Bal
 
 CYB3R T0NIN, JACKIECHANSDOG, Mooncrumb
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djkoris/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djkoris/)*

@@ -1,6 +1,6 @@
 # Majandra
 
-Majandra is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Beat Boutique, Hamburg on Fri, 11 Dec 2026.
+Majandra is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Beat Boutique, Hamburg on Fri, 11 Dec 2026.
 
 Majandra is a techno and trance artist based in Germany, with 27 gigs on soundcheck across Berlin, Dresden, Hamburg and Münster. Often billed alongside Mergence, DAIVER and Oliver Eich. Next up: Beat Boutique, Hamburg on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Majandra is a techno and trance artist based in Germany, with 27 gigs on soundch
 
 Mergence, DAIVER, Oliver Eich
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/majandra/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/majandra/)*

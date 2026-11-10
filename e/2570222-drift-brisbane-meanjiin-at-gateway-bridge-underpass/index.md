@@ -1,6 +1,6 @@
 # DRIFT - Brisbane / Meanjiin at Gateway Bridge Underpass
 
-DRIFT - Brisbane / Meanjiin at Gateway Bridge Underpass on Sat 6 Mar, Brisbane. 11 artists: Alycia Bezgo, BLADEXC, Chlär and Chris Stussy and 7 more. See the line-up on soundcheck.
+DRIFT - Brisbane / Meanjiin at Gateway Bridge Underpass on Sat 6 Mar, Brisbane. 11 artists: Alycia Bezgo, BLADEXC, Chlär and CHRIS STASSY and 7 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,7 +13,7 @@ DRIFT - Brisbane / Meanjiin at Gateway Bridge Underpass on Sat 6 Mar, Brisbane. 
 - Alycia Bezgo
 - BLADEXC
 - Chlär
-- Chris Stussy
+- CHRIS STASSY
 - Clouds
 - DJ BORING
 - Luke Alessi

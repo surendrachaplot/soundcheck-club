@@ -1,6 +1,6 @@
 # Royal Male
 
-Royal Male is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Good Room, New York City on Fri, 13 Nov 2026.
+Royal Male is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Good Room, New York City on Fri, 13 Nov 2026.
 
 Royal Male is a house and disco artist based in United Kingdom, with 28 gigs on soundcheck across Hamburg, Ibiza, Leeds and London and 3 more. Often billed alongside Pharaoh Brunson, Il Bosco and Bobby Thorpe. Next up: Good Room, New York City on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Royal Male is a house and disco artist based in United Kingdom, with 28 gigs on 
 
 Pharaoh Brunson, Il Bosco, Bobby Thorpe
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/royalmale/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/royalmale/)*

@@ -1,8 +1,8 @@
-# Chris Stussy
+# CHRIS STASSY
 
-Chris Stussy is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Antwerp Expo, Antwerp on Fri, 13 Nov 2026.
+CHRIS STASSY is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Antwerp Expo, Antwerp on Fri, 13 Nov 2026.
 
-Chris Stussy is a house and techno artist based in Netherlands, with 305 gigs on soundcheck across Amsterdam, Antwerp, Argentina and Austin and 70 more. Often billed alongside Jamie Jones, Seth Troxler and Joseph Capriati. Next up: Antwerp Expo, Antwerp on Fri 13 Nov.
+CHRIS STASSY is a house and techno artist based in Netherlands, with 305 gigs on soundcheck across Amsterdam, Antwerp, Argentina and Austin and 70 more. Often billed alongside Jamie Jones, Seth Troxler and Joseph Capriati. Next up: Antwerp Expo, Antwerp on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Chris Stussy is a house and techno artist based in Netherlands, with 305 gigs on
 
 Jamie Jones, Seth Troxler, Joseph Capriati
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisstussy/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisstussy/)*

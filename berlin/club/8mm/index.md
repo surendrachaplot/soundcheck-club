@@ -1,6 +1,6 @@
 # 8MM
 
-8MM is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "LYZZA + Wedding (CPN) LIVE" on Thu, 12 Nov 2026.
+8MM is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "LYZZA + Wedding (CPN) LIVE" on Thu, 12 Nov 2026.
 
 8MM is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including Aleksandra Słyż, Circular Ruins, Debbie Sings and LINTD and 2 more. See dates, start times and who's playing. Schönhauser Allee 177b, 10119 Berlin.
 
@@ -17,4 +17,4 @@
 
 Schönhauser Allee 177b, 10119 Berlin, Berlin
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/8mm/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/8mm/)*

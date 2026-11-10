@@ -1,6 +1,6 @@
 # Ministry Of Sound
 
-Ministry Of Sound is a music venue in London with 22 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Milkshake, Ministry Of Sound - London's Biggest Student Night" on Tue, 10 Nov 2026.
+Ministry Of Sound is a music venue in London with 22 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Milkshake, Ministry Of Sound - London's Biggest Student Night" on Tue, 10 Nov 2026.
 
 Ministry Of Sound is a music venue in London listed on soundcheck. 22 upcoming gigs, with line-ups including AARON SEVILLA, Afrobeat, Amber Rose and Amy Cutter and 2 more. See dates, start times and who's playing. 103 Gaunt St, London SE1 6DP.
 
@@ -23,4 +23,4 @@ Ministry Of Sound is a music venue in London listed on soundcheck. 22 upcoming g
 
 103 Gaunt St, London SE1 6DP, London
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/ministry-of-sound/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/ministry-of-sound/)*

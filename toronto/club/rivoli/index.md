@@ -1,6 +1,6 @@
 # Rivoli
 
-Rivoli is a music venue in Toronto with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. The next is "Queer Pool Night - 3 Years Anniversary" on Tue, 17 Nov 2026.
+Rivoli is a music venue in Toronto with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. The next is "Queer Pool Night - 3 Years Anniversary" on Tue, 17 Nov 2026.
 
 Rivoli is a music venue in Toronto listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 334 Queen Street W; Toronto, ON M5V 2A2; Canada.
 
@@ -14,4 +14,4 @@ Rivoli is a music venue in Toronto listed on soundcheck. 1 upcoming gig. See dat
 
 334 Queen Street W; Toronto, ON M5V 2A2; Canada, Toronto
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/rivoli/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/rivoli/)*

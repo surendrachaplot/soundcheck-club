@@ -1,6 +1,6 @@
 # NEBULAE
 
-NEBULAE is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at OIL Club, Shenzhen on Sat, 5 Dec 2026.
+NEBULAE is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at OIL Club, Shenzhen on Sat, 5 Dec 2026.
 
 NEBULAE is a techno and electro artist based in China, with 27 gigs on soundcheck across Beijing, Hong Kong and Shenzhen. Often billed alongside Nebulae, Sulk and Jascer. Next up: OIL Club, Shenzhen on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ NEBULAE is a techno and electro artist based in China, with 27 gigs on soundchec
 
 Nebulae, Sulk, Jascer
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nebulae/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nebulae/)*

@@ -1,6 +1,6 @@
 # EliseThere
 
-EliseThere is a Dub and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Recyclart, Brussels on Fri, 4 Dec 2026.
+EliseThere is a Dub and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Recyclart, Brussels on Fri, 4 Dec 2026.
 
 EliseThere is a dub and bass artist based in Belgium, with 32 gigs on soundcheck across Antwerp, Brussels, Ghent and Paris and 1 more. Often billed alongside STDJ, ojoo and DJ Rino. Next up: Recyclart, Brussels on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ EliseThere is a dub and bass artist based in Belgium, with 32 gigs on soundcheck
 
 STDJ, ojoo, DJ Rino
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elisethere/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elisethere/)*

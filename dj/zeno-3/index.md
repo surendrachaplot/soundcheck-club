@@ -1,6 +1,6 @@
 # Zeno (3)
 
-Zeno (3) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Happyfun Hideaway, New York City on Sat, 12 Dec 2026.
+Zeno (3) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Happyfun Hideaway, New York City on Sat, 12 Dec 2026.
 
 Zeno is a house and tech house artist based in United States of America, with 4 gigs on soundcheck across New York City. Often billed alongside Norty Cotto. Next up: Happyfun Hideaway, New York City on Sat 12 Dec.
 
@@ -20,4 +20,4 @@ Zeno is a house and tech house artist based in United States of America, with 4 
 
 Norty Cotto
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zeno-3/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zeno-3/)*

@@ -1,6 +1,6 @@
 # HOCHIWAH
 
-HOCHIWAH is a Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Mains D'œuvres, Paris on Sat, 5 Dec 2026.
+HOCHIWAH is a Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Mains D'œuvres, Paris on Sat, 5 Dec 2026.
 
 HOCHIWAH is an experimental artist, with 5 gigs on soundcheck across Amsterdam, Brussels, Milan and Paris. Often billed alongside Able Noise, Kim David Bots and Maria Bertel. Next up: Mains D'œuvres, Paris on Sat 5 Dec.
 
@@ -21,4 +21,4 @@ HOCHIWAH is an experimental artist, with 5 gigs on soundcheck across Amsterdam, 
 
 Able Noise, Kim David Bots, Maria Bertel
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hochiwah/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hochiwah/)*

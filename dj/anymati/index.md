@@ -1,6 +1,6 @@
 # anymati
 
-anymati is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at K-Bar Powiśle, Warsaw on Sat, 14 Nov 2026.
+anymati is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at K-Bar Powiśle, Warsaw on Sat, 14 Nov 2026.
 
 anymati is a club and experimental artist based in Poland, with 46 gigs on soundcheck across Ljubljana, Poznan, Warsaw and Wroclaw. Often billed alongside dj neurospicy, czuly and monia.mp3. Next up: K-Bar Powiśle, Warsaw on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ anymati is a club and experimental artist based in Poland, with 46 gigs on sound
 
 dj neurospicy, czuly, monia.mp3
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anymati/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anymati/)*

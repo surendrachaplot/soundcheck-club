@@ -1,6 +1,6 @@
 # Vino (1)
 
-Vino (1) is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at WOMB, Tokyo on Sat, 14 Nov 2026.
+Vino (1) is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at WOMB, Tokyo on Sat, 14 Nov 2026.
 
 Vino is a house and progressive house artist based in United States of America, with 4 gigs on soundcheck across Tokyo. Often billed alongside Conures (DJ Tokunaga), Kamekawa and 2bnsn. Next up: WOMB, Tokyo on Sat 14 Nov.
 
@@ -20,4 +20,4 @@ Vino is a house and progressive house artist based in United States of America, 
 
 Conures (DJ Tokunaga), Kamekawa, 2bnsn
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vino-1/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vino-1/)*

@@ -1,6 +1,6 @@
 # Banan Kompaniet
 
-Banan Kompaniet is a music venue in Stockholm with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. The next is "Peggy Gou checks in at Hotel Grand Stade" on Fri, 11 Dec 2026.
+Banan Kompaniet is a music venue in Stockholm with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. The next is "Peggy Gou checks in at Hotel Grand Stade" on Fri, 11 Dec 2026.
 
 Banan Kompaniet is a music venue in Stockholm listed on soundcheck. 1 upcoming gig, with line-ups including Peggy Gou. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Banan Kompaniet is a music venue in Stockholm listed on soundcheck. 1 upcoming g
 | --- | --- | --- |
 | Fri, 11 Dec 2026 | Peggy Gou checks in at Hotel Grand Stade | Peggy Gou |
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/banan-kompaniet/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/banan-kompaniet/)*

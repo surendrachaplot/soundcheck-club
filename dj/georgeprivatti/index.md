@@ -1,6 +1,6 @@
 # George Privatti
 
-George Privatti is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Club Madame, Porto on Sat, 14 Nov 2026.
+George Privatti is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Club Madame, Porto on Sat, 14 Nov 2026.
 
 George Privatti is a tech house and house artist based in Spain, with 37 gigs on soundcheck across Barcelona, Bucharest, Buenos Aires and Ibiza and 10 more. Often billed alongside Guille Placencia, Eats Everything and Claptone. Next up: Club Madame, Porto on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ George Privatti is a tech house and house artist based in Spain, with 37 gigs on
 
 Guille Placencia, Eats Everything, Claptone
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/georgeprivatti/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/georgeprivatti/)*

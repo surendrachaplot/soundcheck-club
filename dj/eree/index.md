@@ -1,14 +1,15 @@
 # eRee
 
-eRee is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA, Toronto on Fri, 13 Nov 2026.
+eRee is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA, Toronto on Fri, 13 Nov 2026.
 
-eRee is a techno and minimal techno artist based in Japan, with 6 gigs on soundcheck across Toronto. Often billed alongside DINO, anise and noa. Next up: TBA, Toronto on Fri 13 Nov.
+eRee is a techno and experimental artist based in Japan, with 7 gigs on soundcheck across Toronto. Often billed alongside 2HZY, DINO and Utopos. Next up: TBA, Toronto on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | TBA | Toronto |
+| Sat, 21 Nov 2026 | TBA | Toronto |
 
 ## Recently played
 
@@ -20,6 +21,6 @@ eRee is a techno and minimal techno artist based in Japan, with 6 gigs on soundc
 
 ## Shares bills with
 
-DINO (3), anise, noa (6)
+2HZY, DINO (3), Utopos
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eree/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eree/)*

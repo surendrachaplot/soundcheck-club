@@ -1,6 +1,6 @@
 # Obscur
 
-Obscur is a Techno and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 26 Nov 2026.
+Obscur is a Techno and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 26 Nov 2026.
 
 Obscur is a techno and post-punk artist based in Slovenia, with 19 gigs on soundcheck across Amsterdam, Athens, Belgrade and Berlin and 6 more. Often billed alongside Brtinzz, Connor Wall and MMali. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Obscur is a techno and post-punk artist based in Slovenia, with 19 gigs on sound
 
 Brtinzz, Connor Wall, MMali
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/obscur/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/obscur/)*

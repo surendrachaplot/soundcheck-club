@@ -1,6 +1,6 @@
 # DJ Plead
 
-DJ Plead is a Techno and Bass artist with 5 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Miscellania, Melbourne on Sun, 15 Nov 2026.
+DJ Plead is a Techno and Bass artist with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Miscellania, Melbourne on Sun, 15 Nov 2026.
 
 DJ Plead is a techno and bass artist based in Australia, with 156 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Basel and 48 more. Often billed alongside rRoxymore, Azu Tiwaline and livwutang. Next up: Miscellania, Melbourne on Sun 15 Nov.
 
@@ -29,4 +29,4 @@ DJ Plead is a techno and bass artist based in Australia, with 156 gigs on soundc
 
 rRoxymore, Azu Tiwaline, livwutang
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djplead/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djplead/)*

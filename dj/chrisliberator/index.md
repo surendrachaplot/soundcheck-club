@@ -1,8 +1,8 @@
 # Chris Liberator
 
-Chris Liberator is a Techno and Acid artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Drugstore Beograd, Belgrade on Fri, 20 Nov 2026.
+Chris Liberator is a Techno and Acid artist with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Drugstore Beograd, Belgrade on Fri, 20 Nov 2026.
 
-Chris Liberator is a techno and acid artist based in United Kingdom, with 54 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 22 more. Often billed alongside DAVE the Drummer, Sterling Moss and Aaron Liberator. Next up: Drugstore Beograd, Belgrade on Fri 20 Nov.
+Chris Liberator is a techno and acid artist based in United Kingdom, with 55 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 22 more. Often billed alongside DAVE the Drummer, Sterling Moss and Aaron Liberator. Next up: Drugstore Beograd, Belgrade on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Chris Liberator is a techno and acid artist based in United Kingdom, with 54 gig
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Drugstore Beograd | Belgrade |
 | Sat, 21 Nov 2026 | Distillery N17 | London |
+| Fri, 4 Dec 2026 | Volks | Brighton |
 | Sat, 19 Dec 2026 | FOLD | London |
 | Sat, 20 Feb 2027 | Eiger Studios | Leeds |
 
@@ -28,4 +29,4 @@ Chris Liberator is a techno and acid artist based in United Kingdom, with 54 gig
 
 DAVE the Drummer, Sterling Moss, Aaron Liberator
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisliberator/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisliberator/)*

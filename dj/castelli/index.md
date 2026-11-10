@@ -1,6 +1,6 @@
 # Francesco Castelli
 
-Francesco Castelli is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Desa Kitsune, Bali on Fri, 13 Nov 2026.
+Francesco Castelli is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Desa Kitsune, Bali on Fri, 13 Nov 2026.
 
 Francesco Castelli is a house and tech house artist based in Italy, with 17 gigs on soundcheck across Bali. Often billed alongside Kaiser Waldon, Sara Siu and Nacho Corominas. Next up: Desa Kitsune, Bali on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Francesco Castelli is a house and tech house artist based in Italy, with 17 gigs
 
 Kaiser Waldon, Sara Siu, Nacho Corominas
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/castelli/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/castelli/)*

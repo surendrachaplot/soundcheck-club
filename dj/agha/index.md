@@ -1,6 +1,6 @@
 # Agha
 
-Agha is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Soundscapes Zanzi, Tanzania on Thu, 21 Jan 2027.
+Agha is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Soundscapes Zanzi, Tanzania on Thu, 21 Jan 2027.
 
 Agha is an electronic artist based in Germany, with 3 gigs on soundcheck across Berlin and Tanzania. Often billed alongside Andrey Pushkarev, Baloo (SA) and GAZI. Next up: Soundscapes Zanzi, Tanzania on Thu 21 Jan.
 
@@ -19,4 +19,4 @@ Agha is an electronic artist based in Germany, with 3 gigs on soundcheck across 
 
 Andrey Pushkarev, Baloo (SA), GAZI
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/agha/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/agha/)*

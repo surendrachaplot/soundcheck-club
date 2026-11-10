@@ -1,6 +1,6 @@
 # CLOVA
 
-CLOVA is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Komedia Bath, West-wales on Fri, 18 Dec 2026.
+CLOVA is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Komedia Bath, West-wales on Fri, 18 Dec 2026.
 
 CLOVA is a techno and club artist based in United Kingdom, with 13 gigs on soundcheck across Auckland, Glasgow, North Island and West Wales. Often billed alongside Nessy, Benjaminaudio. and K-LUB. Next up: Komedia Bath, West Wales on Fri 18 Dec.
 
@@ -27,4 +27,4 @@ CLOVA is a techno and club artist based in United Kingdom, with 13 gigs on sound
 
 Nessy, Benjaminaudio., K-LUB
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clova/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clova/)*

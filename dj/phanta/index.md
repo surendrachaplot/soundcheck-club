@@ -1,6 +1,6 @@
 # Phanta
 
-Phanta is a Electronica and Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA, Mexico City on Sat, 14 Nov 2026.
+Phanta is a Electronica and Ambient artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA, Mexico City on Sat, 14 Nov 2026.
 
 Phanta is an electronica and ambient artist based in Mexico, with 96 gigs on soundcheck across Mexico City. Often billed alongside Bluecommand, Tahres and Primordial Om. Next up: TBA, Mexico City on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Phanta is an electronica and ambient artist based in Mexico, with 96 gigs on sou
 
 Bluecommand, Tahres, Primordial Om
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/phanta/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/phanta/)*

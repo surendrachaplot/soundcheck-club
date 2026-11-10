@@ -1,6 +1,6 @@
 # 10cust
 
-10cust is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Echostage, Washington DC on Fri, 13 Nov 2026.
+10cust is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Echostage, Washington DC on Fri, 13 Nov 2026.
 
 10cust is a techno and club artist based in United States of America, with 27 gigs on soundcheck across Barcelona, Berlin, Boston and Chicago and 9 more. Often billed alongside ali rq, Frost Children and MCR-T. Next up: Echostage, Washington DC on Fri 13 Nov.
 
@@ -26,4 +26,4 @@
 
 ali rq, Frost Children, MCR-T
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/10cust/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/10cust/)*

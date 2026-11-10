@@ -1,6 +1,6 @@
 # ORIOL //
 
-ORIOL // is a Disco and Balearic artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Bembé Club, North on Sat, 21 Nov 2026.
+ORIOL // is a Disco and Balearic artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Bembé Club, North on Sat, 21 Nov 2026.
 
 ORIOL // is a disco and balearic artist based in Spain, with 12 gigs on soundcheck across Berlin and North. Often billed alongside VictorDiscos. Next up: Bembé Club, North on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ ORIOL // is a disco and balearic artist based in Spain, with 12 gigs on soundche
 
 VictorDiscos
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oriol-1/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oriol-1/)*

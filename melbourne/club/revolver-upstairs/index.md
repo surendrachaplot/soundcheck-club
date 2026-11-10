@@ -1,6 +1,6 @@
 # Revolver Upstairs
 
-Revolver Upstairs is a music venue in Melbourne with 11 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "REVOLVER BANDROOM: MELB BABES feat. Jewel Owusu, Medhanit, Toy Shaw & Aubany" on Thu, 12 Nov 2026.
+Revolver Upstairs is a music venue in Melbourne with 11 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "REVOLVER BANDROOM: MELB BABES feat. Jewel Owusu, Medhanit, Toy Shaw & Aubany" on Thu, 12 Nov 2026.
 
 Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 11 upcoming gigs, with line-ups including Aristo G, Dasha SPRW, DINA and Dylan Griffin and 2 more. See dates, start times and who's playing. 229 Chapel St, Prahran VIC 3181, Australia.
 
@@ -23,4 +23,4 @@ Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 11 upcomin
 
 229 Chapel St, Prahran VIC 3181, Australia, Melbourne
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/revolver-upstairs/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/revolver-upstairs/)*

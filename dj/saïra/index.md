@@ -1,6 +1,6 @@
 # Saïra
 
-Saïra is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Daikanyama ORD., Tokyo on Tue, 29 Dec 2026.
+Saïra is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Daikanyama ORD., Tokyo on Tue, 29 Dec 2026.
 
 Saïra is a techno and electro artist based in Japan, with 9 gigs on soundcheck across London and Tokyo. Often billed alongside BENXTAN, JFOX and tech-nas. Next up: Daikanyama ORD., Tokyo on Tue 29 Dec.
 
@@ -25,4 +25,4 @@ Saïra is a techno and electro artist based in Japan, with 9 gigs on soundcheck 
 
 BENXTAN, JFOX, tech-nas
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saïra/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saïra/)*

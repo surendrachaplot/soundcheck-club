@@ -1,13 +1,14 @@
 # GIØ (1)
 
-GIØ (1) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Magma, Tenerife, Canary-islands on Sat, 5 Dec 2026.
+GIØ (1) is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Lehmann Club, Stuttgart on Fri, 20 Nov 2026.
 
-GIØ is a techno and trance artist based in Italy, with 44 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Budapest and 17 more. Often billed alongside HUMAN ERROR, KUKO and Adrian Mills. Next up: Magma, Tenerife, Canary Islands on Sat 5 Dec.
+GIØ is a techno and trance artist based in Italy, with 45 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Budapest and 17 more. Often billed alongside HUMAN  ERROR, KUKO and Adrian Mills. Next up: Lehmann Club, Stuttgart on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | Lehmann Club | Stuttgart |
 | Sat, 5 Dec 2026 | Magma, Tenerife | Canary-islands |
 | Wed, 30 Dec 2026 | MUENZE | Berlin |
 
@@ -24,6 +25,6 @@ GIØ is a techno and trance artist based in Italy, with 44 gigs on soundcheck ac
 
 ## Shares bills with
 
-HUMAN ERROR, KUKO, Adrian Mills
+HUMAN  ERROR, KUKO, Adrian Mills
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gio-1-it/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gio-1-it/)*

@@ -1,8 +1,8 @@
 # Mousse T.
 
-Mousse T. is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at BORIS CLUB, Barcelona on Fri, 20 Nov 2026.
+Mousse T. is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at BORIS CLUB, Barcelona on Fri, 20 Nov 2026.
 
-Mousse T. is a house and disco artist based in Germany, with 105 gigs on soundcheck across Adelaide, Amsterdam, Bali and Barcelona and 31 more. Often billed alongside Dave Lee, Horse Meat Disco and Melvo Baptiste. Next up: BORIS CLUB, Barcelona on Fri 20 Nov.
+Mousse T. is a house and disco artist based in Germany, with 106 gigs on soundcheck across Adelaide, Amsterdam, Bali and Barcelona and 31 more. Often billed alongside Dave Lee, Horse Meat Disco and Melvo Baptiste. Next up: BORIS CLUB, Barcelona on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Mousse T. is a house and disco artist based in Germany, with 105 gigs on soundch
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | BORIS CLUB | Barcelona |
 | Sat, 12 Dec 2026 | The Dome | Liverpool |
+| Sat, 26 Dec 2026 | Foro Niebla | Mexico City |
 | Sat, 23 Jan 2027 | The Greenwood Hotel | Sydney |
 | Sun, 24 Jan 2027 | Bourke Street Courtyard | Melbourne |
 | Sun, 31 Jan 2027 | Port Beach Brewery | Perth |
@@ -29,4 +30,4 @@ Mousse T. is a house and disco artist based in Germany, with 105 gigs on soundch
 
 Dave Lee, Horse Meat Disco, Melvo Baptiste
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mousset/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mousset/)*

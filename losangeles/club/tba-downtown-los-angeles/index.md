@@ -1,6 +1,6 @@
 # TBA - Downtown Los Angeles
 
-TBA - Downtown Los Angeles is a music venue in Los Angeles with 6 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Midnight Lovers with Cinthie (All Night Long)" on Sat, 21 Nov 2026.
+TBA - Downtown Los Angeles is a music venue in Los Angeles with 6 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Midnight Lovers with Cinthie (All Night Long)" on Sat, 21 Nov 2026.
 
 TBA - Downtown Los Angeles is a music venue in Los Angeles listed on soundcheck. 6 upcoming gigs, with line-ups including Baauer, Bianca Oblivion, Cinthie and Federico Daiup and 2 more. See dates, start times and who's playing.
 
@@ -15,4 +15,4 @@ TBA - Downtown Los Angeles is a music venue in Los Angeles listed on soundcheck.
 | Sat, 12 Dec 2026 | Certified Groovers: Maher Daniel | Federico Daiup, Gilbert0, Ian Llorens, Maher Daniel |
 | Thu, 31 Dec 2026 | CERTIFIED GROOVERS NYE [72 HOURS NONSTOP] |  |
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-downtown-los-angeles/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-downtown-los-angeles/)*

@@ -1,6 +1,6 @@
 # TOKI (SE)
 
-TOKI (SE) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Stockholmsmässan, Stockholm on Sat, 30 Jan 2027.
+TOKI (SE) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Stockholmsmässan, Stockholm on Sat, 30 Jan 2027.
 
 TOKI (SE) is a techno and tech house artist, with 5 gigs on soundcheck across Mexico City and Stockholm. Often billed alongside 7heads, VALON and Aera. Next up: Stockholmsmässan, Stockholm on Sat 30 Jan.
 
@@ -21,4 +21,4 @@ TOKI (SE) is a techno and tech house artist, with 5 gigs on soundcheck across Me
 
 7heads, VALON, Aera
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toki-se/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toki-se/)*

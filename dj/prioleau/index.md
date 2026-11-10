@@ -1,8 +1,8 @@
 # Prioleau
 
-Prioleau is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Kino Roland, Zurich on Sat, 28 Nov 2026.
+Prioleau is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Kino Roland, Zurich on Sat, 28 Nov 2026.
 
-Prioleau is a house and tech house artist, with 19 gigs on soundcheck across Berlin, Lausanne and Zurich. Often billed alongside Manuel Fischer, Abdel Hady and 2M (CH). Next up: Kino Roland, Zurich on Sat 28 Nov.
+Prioleau is a house and tech house artist based in Switzerland, with 19 gigs on soundcheck across Berlin, Lausanne and Zurich. Often billed alongside Manuel Fischer, Abdel Hady and 2M (CH). Next up: Kino Roland, Zurich on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Prioleau is a house and tech house artist, with 19 gigs on soundcheck across Ber
 
 Manuel Fischer, Abdel Hady, 2M (CH)
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prioleau/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prioleau/)*

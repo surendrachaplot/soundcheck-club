@@ -1,6 +1,6 @@
 # Episode Three
 
-Episode Three is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Brixton Jamm, London on Fri, 13 Nov 2026.
+Episode Three is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Brixton Jamm, London on Fri, 13 Nov 2026.
 
 Episode Three is a drum & bass and jungle artist based in United Kingdom, with 20 gigs on soundcheck across London. Often billed alongside Dove (UK), KATARINA and Luas. Next up: Brixton Jamm, London on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Episode Three is a drum & bass and jungle artist based in United Kingdom, with 2
 
 Dove (UK), KATARINA, Luas
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/episodethree/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/episodethree/)*

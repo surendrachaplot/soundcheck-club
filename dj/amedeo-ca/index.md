@@ -1,6 +1,6 @@
 # Amedeo (CA)
 
-Amedeo (CA) is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Cafeteria, Toronto on Fri, 13 Nov 2026.
+Amedeo (CA) is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Cafeteria, Toronto on Fri, 13 Nov 2026.
 
 Amedeo (CA) is a house and deep house artist based in Canada, with 12 gigs on soundcheck across Toronto. Often billed alongside Blkvirgo, Invisible City and Tony Price. Next up: Cafeteria, Toronto on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Amedeo (CA) is a house and deep house artist based in Canada, with 12 gigs on so
 
 Blkvirgo, Invisible City, Tony Price
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amedeo-ca/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amedeo-ca/)*

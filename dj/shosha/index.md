@@ -1,6 +1,6 @@
 # Shosha
 
-Shosha is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Bongo Club, Edinburgh on Sat, 2 Jan 2027.
+Shosha is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Bongo Club, Edinburgh on Sat, 2 Jan 2027.
 
 Shosha is a house and disco artist based in United Kingdom, with 4 gigs on soundcheck across Dresden and Edinburgh. Often billed alongside Hobbes, Chemical Affair and Jacksonville. Next up: The Bongo Club, Edinburgh on Sat 2 Jan.
 
@@ -20,4 +20,4 @@ Shosha is a house and disco artist based in United Kingdom, with 4 gigs on sound
 
 Hobbes, Chemical Affair, Jacksonville
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shosha/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shosha/)*

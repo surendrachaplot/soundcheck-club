@@ -1,6 +1,6 @@
 # ALOD
 
-ALOD is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at DEX, Moscow on Fri, 11 Dec 2026.
+ALOD is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at DEX, Moscow on Fri, 11 Dec 2026.
 
 ALOD is an electronic artist based in Russia, with 3 gigs on soundcheck across Moscow and Saint Petersburg. Often billed alongside Chain Damage, Gemüt and JULIA. Next up: DEX, Moscow on Fri 11 Dec.
 
@@ -19,4 +19,4 @@ ALOD is an electronic artist based in Russia, with 3 gigs on soundcheck across M
 
 Chain Damage, Gemüt, JULIA
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alod/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alod/)*

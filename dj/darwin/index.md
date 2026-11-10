@@ -1,6 +1,6 @@
 # Darwin
 
-Darwin is a Techno and Bass artist with 8 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Colour Factory, London on Sat, 14 Nov 2026.
+Darwin is a Techno and Bass artist with 8 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Colour Factory, London on Sat, 14 Nov 2026.
 
 Darwin is a techno and bass artist based in Germany, with 185 gigs on soundcheck across Amsterdam, Barcelona, Basel and Beijing and 56 more. Often billed alongside Esposito, Carré and CCL. Next up: Colour Factory, London on Sat 14 Nov.
 
@@ -32,4 +32,4 @@ Darwin is a techno and bass artist based in Germany, with 185 gigs on soundcheck
 
 Esposito, Carré, CCL
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/darwin/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/darwin/)*

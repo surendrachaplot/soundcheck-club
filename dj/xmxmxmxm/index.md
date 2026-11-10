@@ -1,6 +1,6 @@
 # XMXMXMXM
 
-XMXMXMXM is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Para Klub Beograd, Belgrade on Sun, 22 Nov 2026.
+XMXMXMXM is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Para Klub Beograd, Belgrade on Sun, 22 Nov 2026.
 
 XMXMXMXM is a techno and bass artist based in Serbia, with 6 gigs on soundcheck across Belgrade. Often billed alongside Stevie Whisper, Anit Levan and Anymodal. Next up: Para Klub Beograd, Belgrade on Sun 22 Nov.
 
@@ -22,4 +22,4 @@ XMXMXMXM is a techno and bass artist based in Serbia, with 6 gigs on soundcheck 
 
 Stevie Whisper, Anit Levan, Anymodal
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xmxmxmxm/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xmxmxmxm/)*

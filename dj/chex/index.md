@@ -1,6 +1,6 @@
 # CHEX
 
-CHEX is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Oddity Club, Athens on Sat, 19 Dec 2026.
+CHEX is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Oddity Club, Athens on Sat, 19 Dec 2026.
 
 CHEX is a techno and trance artist based in Greece, with 29 gigs on soundcheck across Athens, Manchester and Seoul. Often billed alongside Nivk Jane, VSSLS and MAXImum. Next up: Oddity Club, Athens on Sat 19 Dec.
 
@@ -26,4 +26,4 @@ CHEX is a techno and trance artist based in Greece, with 29 gigs on soundcheck a
 
 Nivk Jane, VSSLS, MAXImum
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chex/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chex/)*

@@ -1,6 +1,6 @@
 # HADA
 
-HADA is a Experimental and Broken Beat artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Sun, 29 Nov 2026.
+HADA is a Experimental and Broken Beat artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Sun, 29 Nov 2026.
 
 HADA is an experimental and broken beat artist based in Argentina, with 16 gigs on soundcheck across Bangkok, Berlin and Ibiza. Often billed alongside 7777 の天使, ARĒS and Anymodal. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sun 29 Nov.
 
@@ -26,4 +26,4 @@ HADA is an experimental and broken beat artist based in Argentina, with 16 gigs 
 
 7777 の天使, ARĒS, Anymodal
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hada/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hada/)*

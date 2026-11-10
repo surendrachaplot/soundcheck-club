@@ -1,6 +1,6 @@
 # The Vault Perth
 
-The Vault Perth is a music venue in Perth with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "The Vault | Fridays: Strategy" on Fri, 13 Nov 2026.
+The Vault Perth is a music venue in Perth with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "The Vault | Fridays: Strategy" on Fri, 13 Nov 2026.
 
 The Vault Perth is a music venue in Perth listed on soundcheck. 3 upcoming gigs, with line-ups including Strategy. See dates, start times and who's playing.
 
@@ -12,4 +12,4 @@ The Vault Perth is a music venue in Perth listed on soundcheck. 3 upcoming gigs,
 | Fri, 20 Nov 2026 | The Vault / Fridays: James Hiraeth |  |
 | Fri, 27 Nov 2026 | The Vault / Fridays: Strictly Residents |  |
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/perth/club/the-vault-perth/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/perth/club/the-vault-perth/)*

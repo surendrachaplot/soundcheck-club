@@ -1,6 +1,6 @@
 # Electro rite
 
-Electro rite is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Fuchs2, Prague on Fri, 4 Dec 2026.
+Electro rite is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Fuchs2, Prague on Fri, 4 Dec 2026.
 
 Electro rite is an acid and techno artist based in Czech Republic, with 4 gigs on soundcheck across Prague. Often billed alongside RiVid, 2NDRA and NEUWERTH. Next up: Fuchs2, Prague on Fri 4 Dec.
 
@@ -20,4 +20,4 @@ Electro rite is an acid and techno artist based in Czech Republic, with 4 gigs o
 
 RiVid, 2NDRA, NEUWERTH
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/electrorite/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/electrorite/)*

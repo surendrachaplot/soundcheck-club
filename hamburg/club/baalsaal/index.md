@@ -1,6 +1,6 @@
 # Baalsaal
 
-Baalsaal is a music venue in Hamburg with 10 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "GR:IT" on Fri, 13 Nov 2026.
+Baalsaal is a music venue in Hamburg with 10 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "GR:IT" on Fri, 13 Nov 2026.
 
 Baalsaal is a music venue in Hamburg listed on soundcheck. 10 upcoming gigs, with line-ups including AKIIM, Anne-Lu, CLAVD and dannycookin and 2 more. See dates, start times and who's playing. Reeperbahn 25; 20359 Hamburg; Germany.
 
@@ -17,10 +17,10 @@ Baalsaal is a music venue in Hamburg listed on soundcheck. 10 upcoming gigs, wit
 | Sat, 5 Dec 2026 | GROOVE with: Steven Shade (Berlin) & Strathy (Subspace / Hamburg) | Steven Shade, Strathy |
 | Fri, 18 Dec 2026 | NONCHALANT | Specific Objects, Steven Shade |
 | Sat, 19 Dec 2026 | STCTRS with RØØB tba | ROOB |
-| Fri, 8 Jan 2027 | Groove |  |
+| Sat, 9 Jan 2027 | Groove |  |
 
 ## Address
 
 Reeperbahn 25; 20359 Hamburg; Germany, Hamburg
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/baalsaal/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/baalsaal/)*

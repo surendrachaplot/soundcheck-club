@@ -1,6 +1,6 @@
 # Kreshik
 
-Kreshik is a Experimental and Downtempo artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Cellar, London on Fri, 11 Dec 2026.
+Kreshik is a Experimental and Downtempo artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Cellar, London on Fri, 11 Dec 2026.
 
 Kreshik is an experimental and downtempo artist based in Belgium, with 11 gigs on soundcheck across Bangkok, London, Mexico City and Warsaw. Often billed alongside Studio Batsumi, Antepop and Ehua. Next up: Cellar, London on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Kreshik is an experimental and downtempo artist based in Belgium, with 11 gigs o
 
 Studio Batsumi, Antepop, Ehua
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kreshik-1/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kreshik-1/)*

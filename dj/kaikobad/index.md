@@ -1,6 +1,6 @@
 # Kaikobad
 
-Kaikobad is a Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at nachbar, Amsterdam on Thu, 12 Nov 2026.
+Kaikobad is a Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at nachbar, Amsterdam on Thu, 12 Nov 2026.
 
 Kaikobad is a deep house artist based in Australia, with 4 gigs on soundcheck across Amsterdam, London and Sydney. Often billed alongside Flansie, Fouk and Knight One. Next up: nachbar, Amsterdam on Thu 12 Nov.
 
@@ -20,4 +20,4 @@ Kaikobad is a deep house artist based in Australia, with 4 gigs on soundcheck ac
 
 Flansie, Fouk, Knight One
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaikobad/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaikobad/)*

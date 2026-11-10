@@ -1,6 +1,6 @@
 # encore une autre
 
-encore une autre is a Hip-Hop and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at La Station - Gare des Mines, Paris on Sat, 28 Nov 2026.
+encore une autre is a Hip-Hop and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at La Station - Gare des Mines, Paris on Sat, 28 Nov 2026.
 
 encore une autre is a hip-hop and club artist based in France, with 34 gigs on soundcheck across Lyon, Marseille, Paris and Strasbourg. Often billed alongside MARIAD, Le Kaiju and Meli Mena. Next up: La Station - Gare des Mines, Paris on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ encore une autre is a hip-hop and club artist based in France, with 34 gigs on s
 
 MARIAD, Le Kaiju, Meli Mena
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/encoreuneautre/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/encoreuneautre/)*

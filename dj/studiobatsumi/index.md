@@ -1,6 +1,6 @@
 # Studio Batsumi
 
-Studio Batsumi is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Cellar, London on Fri, 11 Dec 2026.
+Studio Batsumi is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Cellar, London on Fri, 11 Dec 2026.
 
 Studio Batsumi is a house and italo disco artist based in Italy, with 16 gigs on soundcheck across London, Nottingham and Tokyo. Often billed alongside Mr James, Nina Yamada and JOSH FB. Next up: Cellar, London on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Studio Batsumi is a house and italo disco artist based in Italy, with 16 gigs on
 
 Mr James, Nina Yamada, JOSH FB
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/studiobatsumi/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/studiobatsumi/)*

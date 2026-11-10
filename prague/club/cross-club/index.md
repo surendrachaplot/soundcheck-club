@@ -1,6 +1,6 @@
 # Cross Club
 
-Cross Club is a music venue in Prague with 24 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "LOS TEKKENOS" on Mon, 9 Nov 2026.
+Cross Club is a music venue in Prague with 24 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "LOS TEKKENOS" on Mon, 9 Nov 2026.
 
 Cross Club is a music venue in Prague listed on soundcheck. 24 upcoming gigs, with line-ups including Aztek, Cizyhk, DAVIDOFFWHITE and Ejdm and 2 more. See dates, start times and who's playing. Plynární 1096/23, Praha 7, Czech Republic.
 
@@ -23,4 +23,4 @@ Cross Club is a music venue in Prague listed on soundcheck. 24 upcoming gigs, wi
 
 Plynární 1096/23, Praha 7, Czech Republic, Prague
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/cross-club/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/cross-club/)*

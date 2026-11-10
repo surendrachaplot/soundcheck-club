@@ -1,6 +1,6 @@
 # No solo escuchamos** II at TBA - Roma, Norte
 
-No solo escuchamos** II at TBA - Roma, Norte on Sat 21 Nov, Mexico City. 4 artists: 409, Aqua Mute, fantasm0genesis and Hermanito. Ambient and Experimental. See the line-up on soundcheck.
+No solo escuchamos** II at TBA - Roma, Norte on Sat 21 Nov, Mexico City. 5 artists: 409, Aqua Mute, Awa (uwu) and fantasm0genesis and 1 more. Ambient and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ No solo escuchamos** II at TBA - Roma, Norte on Sat 21 Nov, Mexico City. 4 artis
 
 - 409
 - Aqua Mute
+- Awa (uwu)
 - fantasm0genesis
 - Hermanito
 

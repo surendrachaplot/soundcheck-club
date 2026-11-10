@@ -15,7 +15,7 @@ WHP26 /// 20 Years of The Warehouse Project - Part 2 at Depot Mayfield on Sat 19
 - Call Super
 - Carl Cox
 - Chloé Caillet
-- Chris Stussy
+- CHRIS STASSY
 - Dan Shake
 - Delilah
 - Dr Banana

@@ -1,6 +1,6 @@
 # Sköne
 
-Sköne is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at ÆDEN, Berlin on Sat, 28 Nov 2026.
+Sköne is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at ÆDEN, Berlin on Sat, 28 Nov 2026.
 
 Sköne is a techno and hardcore artist based in France, with 40 gigs on soundcheck across Bangkok, Barcelona, Berlin and Bologna and 13 more. Often billed alongside Protokseed, EARGASM GOD and OMAKS. Next up: ÆDEN, Berlin on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Sköne is a techno and hardcore artist based in France, with 40 gigs on soundche
 
 Protokseed, EARGASM GOD, OMAKS
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skone/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skone/)*

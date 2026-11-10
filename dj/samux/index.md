@@ -1,6 +1,6 @@
 # SAMUX
 
-SAMUX is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Underclub, Alicante on Fri, 13 Nov 2026.
+SAMUX is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Underclub, Alicante on Fri, 13 Nov 2026.
 
 SAMUX is a techno and trance artist based in Ireland, with 13 gigs on soundcheck across Alicante and Dublin. Often billed alongside ALPER SKR, WINSLAO and Connect. Next up: Underclub, Alicante on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ SAMUX is a techno and trance artist based in Ireland, with 13 gigs on soundcheck
 
 ALPER SKR, WINSLAO, Connect
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samux/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samux/)*

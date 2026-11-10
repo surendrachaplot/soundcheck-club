@@ -1,6 +1,6 @@
 # 33EMYBW
 
-33EMYBW is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at OIL Club, Shenzhen on Fri, 4 Dec 2026.
+33EMYBW is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at OIL Club, Shenzhen on Fri, 4 Dec 2026.
 
 33EMYBW is an experimental and techno artist based in China, with 36 gigs on soundcheck across Amsterdam, Barcelona, Basel and Beijing and 18 more. Often billed alongside Zean, ojoo and Ale Hop. Next up: OIL Club, Shenzhen on Fri 4 Dec.
 
@@ -25,4 +25,4 @@
 
 Zean, ojoo, Ale Hop
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/33emybw/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/33emybw/)*

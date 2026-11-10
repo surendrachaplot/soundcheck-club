@@ -1,6 +1,6 @@
 # NELLIE
 
-NELLIE is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Borisov Amsterdam, Amsterdam on Fri, 20 Nov 2026.
+NELLIE is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Borisov Amsterdam, Amsterdam on Fri, 20 Nov 2026.
 
 NELLIE is a techno and industrial artist based in Netherlands, with 13 gigs on soundcheck across Amsterdam, Dallas/Fort Worth, Rotterdam and Stockholm. Often billed alongside Djaygo T, Paroxyzm and inKKiss. Next up: Borisov Amsterdam, Amsterdam on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ NELLIE is a techno and industrial artist based in Netherlands, with 13 gigs on s
 
 Djaygo T, Paroxyzm, inKKiss
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nellie/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nellie/)*

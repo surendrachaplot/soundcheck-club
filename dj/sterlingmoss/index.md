@@ -1,6 +1,6 @@
 # Sterling Moss
 
-Sterling Moss is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at FOLD, London on Sat, 19 Dec 2026.
+Sterling Moss is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at FOLD, London on Sat, 19 Dec 2026.
 
 Sterling Moss is a techno and acid artist based in United Kingdom, with 36 gigs on soundcheck across Amsterdam, Birmingham, Bogotá and Brighton and 15 more. Often billed alongside Aaron Liberator, Chris Liberator and Alba Heidari. Next up: FOLD, London on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Sterling Moss is a techno and acid artist based in United Kingdom, with 36 gigs 
 
 Aaron Liberator, Chris Liberator, Alba Heidari
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sterlingmoss/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sterlingmoss/)*

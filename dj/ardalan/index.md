@@ -1,6 +1,6 @@
 # Ardalan
 
-Ardalan is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - ON Website, Los Angeles on Fri, 13 Nov 2026.
+Ardalan is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - ON Website, Los Angeles on Fri, 13 Nov 2026.
 
 Ardalan is a house and tech house artist based in Iran, with 90 gigs on soundcheck across Atlanta, Austin, Berlin and Chicago and 15 more. Often billed alongside Life on Planets, Justin Martin and RUDEE NIK. Next up: TBA - ON Website, Los Angeles on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Ardalan is a house and tech house artist based in Iran, with 90 gigs on soundche
 
 Life on Planets, Justin Martin, RUDEE NIK
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ardalan/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ardalan/)*

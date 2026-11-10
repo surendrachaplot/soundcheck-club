@@ -1,6 +1,6 @@
 # Camion Bazar
 
-Camion Bazar is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Oven Club, Valencia on Sat, 28 Nov 2026.
+Camion Bazar is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Oven Club, Valencia on Sat, 28 Nov 2026.
 
 Camion Bazar is a house and techno artist based in France, with 72 gigs on soundcheck across Bangkok, Berlin, Bordeaux and Brussels and 17 more. Often billed alongside Romain Play, Benedetta and Mathilde Rocaboy. Next up: Oven Club, Valencia on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Camion Bazar is a house and techno artist based in France, with 72 gigs on sound
 
 Romain Play, Benedetta, Mathilde Rocaboy
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/camionbazar/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/camionbazar/)*

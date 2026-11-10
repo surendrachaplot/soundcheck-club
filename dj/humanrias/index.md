@@ -1,6 +1,6 @@
 # Human Rias
 
-Human Rias is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Kaiserlounge Ellmau, Austria on Sat, 26 Dec 2026.
+Human Rias is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Kaiserlounge Ellmau, Austria on Sat, 26 Dec 2026.
 
 Human Rias is a techno and house artist based in Germany, with 49 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austria and 13 more. Often billed alongside Black Box, Unseen. and DOBE. Next up: Kaiserlounge Ellmau, Austria on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Human Rias is a techno and house artist based in Germany, with 49 gigs on soundc
 
 Black Box, Unseen., DOBE
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/humanrias/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/humanrias/)*

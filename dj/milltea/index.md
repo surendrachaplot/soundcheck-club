@@ -1,6 +1,6 @@
 # milltea
 
-milltea is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Aoyama Hachi, Tokyo on Sun, 29 Nov 2026.
+milltea is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Aoyama Hachi, Tokyo on Sun, 29 Nov 2026.
 
 milltea is a techno and house artist based in Japan, with 49 gigs on soundcheck across Tokyo. Often billed alongside YOSHI KANOU, SIGNAL (JP) and AiMii. Next up: Aoyama Hachi, Tokyo on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ milltea is a techno and house artist based in Japan, with 49 gigs on soundcheck 
 
 YOSHI KANOU, SIGNAL (JP), AiMii
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milltea/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milltea/)*

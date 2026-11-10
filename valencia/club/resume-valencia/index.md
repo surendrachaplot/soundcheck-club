@@ -1,6 +1,6 @@
 # Resume Valencia
 
-Resume Valencia is a music venue in Valencia with 13 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "CRIS CROS, CHIBA, IKO" on Fri, 13 Nov 2026.
+Resume Valencia is a music venue in Valencia with 13 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "CRIS CROS, CHIBA, IKO" on Fri, 13 Nov 2026.
 
 Resume Valencia is a music venue in Valencia listed on soundcheck. 13 upcoming gigs, with line-ups including Andu Simion, Boranimals, Elena Megi and Fino Fino and 2 more. See dates, start times and who's playing. Carrer del Mestre Josep Serrano, 8, L'Eixample, 46005 València, Valencia.
 
@@ -23,4 +23,4 @@ Resume Valencia is a music venue in Valencia listed on soundcheck. 13 upcoming g
 
 Carrer del Mestre Josep Serrano, 8, L'Eixample, 46005 València, Valencia, Valencia
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/resume-valencia/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/resume-valencia/)*

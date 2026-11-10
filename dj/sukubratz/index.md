@@ -1,6 +1,6 @@
 # Sukubratz
 
-Sukubratz is a Techno and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Horn, Bangkok on Sat, 21 Nov 2026.
+Sukubratz is a Techno and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Horn, Bangkok on Sat, 21 Nov 2026.
 
 Sukubratz is a techno and latin bass artist based in Netherlands, with 77 gigs on soundcheck across Adelaide, Amsterdam, Bangkok and Barcelona and 28 more. Often billed alongside Slimfit, Miss Jay (RO) and NEGRACONDA. Next up: Horn, Bangkok on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Sukubratz is a techno and latin bass artist based in Netherlands, with 77 gigs o
 
 Slimfit, Miss Jay (RO), NEGRACONDA
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sukubratz/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sukubratz/)*

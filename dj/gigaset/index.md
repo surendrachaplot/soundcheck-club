@@ -1,6 +1,6 @@
 # GIGASET
 
-GIGASET is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Gólya Presszó, Budapest on Sat, 5 Dec 2026.
+GIGASET is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Gólya Presszó, Budapest on Sat, 5 Dec 2026.
 
 GIGASET is a techno and club artist based in Hungary, with 21 gigs on soundcheck across Bangkok and Budapest. Often billed alongside Kiqo, Auerbach and Meduzah. Next up: Gólya Presszó, Budapest on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ GIGASET is a techno and club artist based in Hungary, with 21 gigs on soundcheck
 
 Kiqo, Auerbach, Meduzah
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gigaset/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gigaset/)*

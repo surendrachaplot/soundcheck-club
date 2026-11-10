@@ -1,6 +1,6 @@
 # Javier Marimon
 
-Javier Marimon is a Ambient and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Start.Bahn - Genezarethkirche, Berlin on Thu, 10 Dec 2026.
+Javier Marimon is a Ambient and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Start.Bahn - Genezarethkirche, Berlin on Thu, 10 Dec 2026.
 
 Javier Marimon is an ambient and techno artist based in Spain, with 4 gigs on soundcheck across Barcelona, Berlin and Tokyo. Often billed alongside Ario, Bas Dobbelaer and ABSIS. Next up: Start.Bahn - Genezarethkirche, Berlin on Thu 10 Dec.
 
@@ -20,4 +20,4 @@ Javier Marimon is an ambient and techno artist based in Spain, with 4 gigs on so
 
 Ario, Bas Dobbelaer, ABSIS
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/javiermarimon/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/javiermarimon/)*

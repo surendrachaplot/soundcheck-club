@@ -1,6 +1,6 @@
 # Pletnev
 
-Pletnev is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at JUNA, Goa on Fri, 13 Nov 2026.
+Pletnev is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at JUNA, Goa on Fri, 13 Nov 2026.
 
 Pletnev is a techno and house artist based in Lithuania, with 16 gigs on soundcheck across Barcelona, Brussels, Goa and Lisbon and 7 more. Often billed alongside ADJ, AUREJA and Antal. Next up: JUNA, Goa on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Pletnev is a techno and house artist based in Lithuania, with 16 gigs on soundch
 
 ADJ, AUREJA, Antal
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pletnev/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pletnev/)*

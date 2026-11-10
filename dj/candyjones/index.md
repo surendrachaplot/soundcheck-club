@@ -1,6 +1,6 @@
 # Candy Jones
 
-Candy Jones is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA, Leipzig on Sat, 28 Nov 2026.
+Candy Jones is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA, Leipzig on Sat, 28 Nov 2026.
 
 Candy Jones is a techno and house artist based in Germany, with 24 gigs on soundcheck across Berlin, Dortmund / Essen, Leipzig and Munich. Often billed alongside 11:68PM, Luca Mariaux and Saber. Next up: TBA, Leipzig on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Candy Jones is a techno and house artist based in Germany, with 24 gigs on sound
 
 11:68PM, Luca Mariaux, Saber (2)
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/candyjones/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/candyjones/)*

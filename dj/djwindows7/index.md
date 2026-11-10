@@ -1,8 +1,8 @@
 # DJ WINDOWS 7
 
-DJ WINDOWS 7 is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at TRAUMA, Rio-de-janeiro on Wed, 18 Nov 2026.
+DJ WINDOWS 7 is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TRAUMA, Rio-de-janeiro on Wed, 18 Nov 2026.
 
-DJ WINDOWS 7 is a house and techno artist based in Mexico, with 10 gigs on soundcheck across Argentina, Bogotá, Guadalajara and Medellin and 5 more. Often billed alongside Target Demographic, Pijus and Mike.D. Next up: TRAUMA, Rio De Janeiro on Wed 18 Nov.
+DJ WINDOWS 7 is a house and techno artist based in Mexico, with 10 gigs on soundcheck across Argentina, Bogotá, Guadalajara and Medellin and 5 more. Often billed alongside Pijus, Target Demographic and Mike.D. Next up: TRAUMA, Rio De Janeiro on Wed 18 Nov.
 
 ## Upcoming shows
 
@@ -21,6 +21,6 @@ DJ WINDOWS 7 is a house and techno artist based in Mexico, with 10 gigs on sound
 
 ## Shares bills with
 
-Target Demographic, Pijus, Mike.D
+Pijus, Target Demographic, Mike.D
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djwindows7/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djwindows7/)*

@@ -1,6 +1,6 @@
 # TBA - Lisboa
 
-TBA - Lisboa is a music venue in Lisbon with 6 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Cosmic Clay Festival" on Sat, 14 Nov 2026.
+TBA - Lisboa is a music venue in Lisbon with 6 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Cosmic Clay Festival" on Sat, 14 Nov 2026.
 
 TBA - Lisboa is a music venue in Lisbon listed on soundcheck. 6 upcoming gigs, with line-ups including Andion, Dana Kuehr, Francisca Urbano and Inês Duarte and 2 more. See dates, start times and who's playing. To Be Announced.
 
@@ -19,4 +19,4 @@ TBA - Lisboa is a music venue in Lisbon listed on soundcheck. 6 upcoming gigs, w
 
 To Be Announced, Lisbon
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/tba-lisboa/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/tba-lisboa/)*

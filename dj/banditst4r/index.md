@@ -1,6 +1,6 @@
 # Banditst4r
 
-Banditst4r is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Gare Porto, Porto on Fri, 27 Nov 2026.
+Banditst4r is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Gare Porto, Porto on Fri, 27 Nov 2026.
 
 Banditst4r is an electro and techno artist based in Brazil, with 6 gigs on soundcheck across Lisbon and Porto. Often billed alongside AlFaer, Catarina Silva and Clothilde. Next up: Gare Porto, Porto on Fri 27 Nov.
 
@@ -22,4 +22,4 @@ Banditst4r is an electro and techno artist based in Brazil, with 6 gigs on sound
 
 AlFaer, Catarina Silva, Clothilde
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/banditst4r/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/banditst4r/)*

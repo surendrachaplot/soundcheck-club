@@ -1,14 +1,14 @@
 # Gong
 
-Gong is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Hakkabar 院吧, Chengdu on Wed, 11 Nov 2026.
+Gong is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Hakkabar 院吧, Chengdu on Thu, 12 Nov 2026.
 
-Gong is a house and minimal artist based in South Korea, with 27 gigs on soundcheck across Chengdu, Liverpool and Seoul. Often billed alongside Cy Nico, Shinyoung and LEEKUNHEE. Next up: Hakkabar 院吧, Chengdu on Wed 11 Nov.
+Gong is a house and minimal artist based in South Korea, with 27 gigs on soundcheck across Chengdu, Liverpool and Seoul. Often billed alongside Cy Nico, Shinyoung and LEEKUNHEE. Next up: Hakkabar 院吧, Chengdu on Thu 12 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 11 Nov 2026 | Hakkabar 院吧 | Chengdu |
+| Thu, 12 Nov 2026 | Hakkabar 院吧 | Chengdu |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Gong is a house and minimal artist based in South Korea, with 27 gigs on soundch
 
 Cy Nico, Shinyoung, LEEKUNHEE
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gong/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gong/)*

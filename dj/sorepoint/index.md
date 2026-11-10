@@ -1,6 +1,6 @@
 # sore point
 
-sore point is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at MODULE, Copenhagen on Sat, 14 Nov 2026.
+sore point is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at MODULE, Copenhagen on Sat, 14 Nov 2026.
 
 sore point is a techno and trance artist based in Sweden, with 8 gigs on soundcheck across Copenhagen and Malmo. Often billed alongside Danza Mortale, Minimy and UBER KNAST. Next up: MODULE, Copenhagen on Sat 14 Nov.
 
@@ -24,4 +24,4 @@ sore point is a techno and trance artist based in Sweden, with 8 gigs on soundch
 
 Danza Mortale, Minimy, UBER KNAST
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sorepoint/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sorepoint/)*

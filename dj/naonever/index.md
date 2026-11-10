@@ -1,6 +1,6 @@
 # Nao Never
 
-Nao Never is a Bass and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Le Poisson Volant, Paris on Thu, 12 Nov 2026.
+Nao Never is a Bass and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Le Poisson Volant, Paris on Thu, 12 Nov 2026.
 
 Nao Never is a bass and electro artist based in France, with 10 gigs on soundcheck across Paris and Strasbourg. Often billed alongside Gilb'R, fetva and Alexis Le-Tan. Next up: Le Poisson Volant, Paris on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Nao Never is a bass and electro artist based in France, with 10 gigs on soundche
 
 Gilb'R, fetva, Alexis Le-Tan
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/naonever/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/naonever/)*

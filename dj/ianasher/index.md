@@ -1,6 +1,6 @@
 # Ian Asher
 
-Ian Asher is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Barceló Riviera Maya Resort, Playa-del-carmen on Fri, 20 Nov 2026.
+Ian Asher is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Barceló Riviera Maya Resort, Playa-del-carmen on Fri, 20 Nov 2026.
 
 Ian Asher is a house and tech house artist based in United States of America, with 53 gigs on soundcheck across Amsterdam, Austin, Boston and Brisbane and 24 more. Often billed alongside KREAM, Adventure Club and Alok. Next up: Barceló Riviera Maya Resort, Playa Del Carmen on Fri 20 Nov.
 
@@ -29,4 +29,4 @@ Ian Asher is a house and tech house artist based in United States of America, wi
 
 KREAM, Adventure Club, Alok
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ianasher/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ianasher/)*

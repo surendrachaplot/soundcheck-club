@@ -1,6 +1,6 @@
 # goddard.
 
-goddard. is a Drum & Bass and Electronica artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Onyx (E1), London on Sat, 14 Nov 2026.
+goddard. is a Drum & Bass and Electronica artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Onyx (E1), London on Sat, 14 Nov 2026.
 
 goddard. is a drum & bass and electronica artist based in United Kingdom, with 33 gigs on soundcheck across Adelaide, Auckland, Austin and Birmingham and 17 more. Often billed alongside DREAD MC, Hybrid Minds and Dada Jones. Next up: Onyx (E1), London on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ goddard. is a drum & bass and electronica artist based in United Kingdom, with 3
 
 DREAD MC, Hybrid Minds, Dada Jones
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/goddard./)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/goddard./)*

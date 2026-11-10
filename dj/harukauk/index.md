@@ -1,6 +1,6 @@
 # Haruka (UK)
 
-Haruka (UK) is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Two More Years, London on Sat, 12 Dec 2026.
+Haruka (UK) is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Two More Years, London on Sat, 12 Dec 2026.
 
 Haruka (UK) is a disco and funk / soul artist based in United Kingdom, with 11 gigs on soundcheck across Birmingham and London. Often billed alongside BRUIN (UK), Another George and Late Night Disco. Next up: Two More Years, London on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Haruka (UK) is a disco and funk / soul artist based in United Kingdom, with 11 g
 
 BRUIN (UK), Another George, Late Night Disco
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/harukauk/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/harukauk/)*

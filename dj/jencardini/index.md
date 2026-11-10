@@ -1,6 +1,6 @@
 # Jen Cardini
 
-Jen Cardini is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Bien Public, Bordeaux on Fri, 13 Nov 2026.
+Jen Cardini is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Bien Public, Bordeaux on Fri, 13 Nov 2026.
 
 Jen Cardini is a techno and house artist based in France, with 294 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 78 more. Often billed alongside Pablo Bozzi, BASHKKA and KI/KI. Next up: Bien Public, Bordeaux on Fri 13 Nov.
 
@@ -34,4 +34,4 @@ Jen Cardini is a techno and house artist based in France, with 294 gigs on sound
 
 Pablo Bozzi, BASHKKA, KI/KI
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jencardini/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jencardini/)*

@@ -1,6 +1,6 @@
 # Geezr
 
-Geezr is a Grime and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - given out to ticket holders day before, Toronto on Fri, 13 Nov 2026.
+Geezr is a Grime and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - given out to ticket holders day before, Toronto on Fri, 13 Nov 2026.
 
 Geezr is a grime and techno artist based in Canada, with 21 gigs on soundcheck across London, Montreal and Toronto. Often billed alongside Ana Luisa, Sofia Fly and KATIE COOPER. Next up: TBA - given out to ticket holders day before, Toronto on Fri 13 Nov.
 
@@ -28,4 +28,4 @@ Geezr is a grime and techno artist based in Canada, with 21 gigs on soundcheck a
 
 Ana Luisa, Sofia Fly, KATIE COOPER
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/geezr/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/geezr/)*

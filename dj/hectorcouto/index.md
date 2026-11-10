@@ -1,6 +1,6 @@
 # Hector Couto
 
-Hector Couto is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Florida Park, Madrid on Sun, 13 Dec 2026.
+Hector Couto is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Florida Park, Madrid on Sun, 13 Dec 2026.
 
 Hector Couto is a tech house and house artist based in Spain, with 76 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 25 more. Often billed alongside Prunk, Ammo Avenue and Dimmish. Next up: Florida Park, Madrid on Sun 13 Dec.
 
@@ -25,4 +25,4 @@ Hector Couto is a tech house and house artist based in Spain, with 76 gigs on so
 
 Prunk, Ammo Avenue, Dimmish
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hectorcouto/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hectorcouto/)*

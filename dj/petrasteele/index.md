@@ -1,6 +1,6 @@
 # Petra Steele
 
-Petra Steele is a Electro and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Strays, Detroit on Sat, 14 Nov 2026.
+Petra Steele is a Electro and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Strays, Detroit on Sat, 14 Nov 2026.
 
 Petra Steele is an electro and industrial artist, with 21 gigs on soundcheck across Chicago and Detroit. Often billed alongside Auntie Chanel, Justin Carver and DJ SPHiNX. Next up: The Strays, Detroit on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Petra Steele is an electro and industrial artist, with 21 gigs on soundcheck acr
 
 Auntie Chanel, Justin Carver, DJ SPHiNX
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/petrasteele/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/petrasteele/)*

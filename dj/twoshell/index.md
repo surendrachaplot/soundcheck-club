@@ -1,6 +1,6 @@
 # Two Shell
 
-Two Shell is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Belgrave Music Hall, Leeds on Fri, 13 Nov 2026.
+Two Shell is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Belgrave Music Hall, Leeds on Fri, 13 Nov 2026.
 
 Two Shell is a techno and experimental artist based in United Kingdom, with 91 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 34 more. Often billed alongside Ogazón, Avalon Emerson and Call Super. Next up: Belgrave Music Hall, Leeds on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Two Shell is a techno and experimental artist based in United Kingdom, with 91 g
 
 Ogazón, Avalon Emerson, Call Super
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/twoshell/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/twoshell/)*

@@ -1,6 +1,6 @@
 # Dimarziio
 
-Dimarziio is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 12 Nov 2026.
+Dimarziio is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 12 Nov 2026.
 
 Dimarziio is a house and electro artist based in Spain, with 43 gigs on soundcheck across Barcelona and Berlin. Often billed alongside BERNOUT, Ale Hope and Crisalide. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Dimarziio is a house and electro artist based in Spain, with 43 gigs on soundche
 
 BERNOUT, Ale Hope, Crisalide
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dimarziio/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dimarziio/)*

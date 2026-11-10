@@ -1,6 +1,6 @@
 # Daddy Nature
 
-Daddy Nature is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Mayrhofen, Austria, Austria on Mon, 5 Apr 2027.
+Daddy Nature is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Mayrhofen, Austria, Austria on Mon, 5 Apr 2027.
 
 Daddy Nature is a drum & bass and jungle artist, with 11 gigs on soundcheck across Austria, Bangkok, Brighton and London and 1 more. Often billed alongside Uncle Dugs, DJ Ardi and DJ Mista C. Next up: TBA - Mayrhofen, Austria, Austria on Mon 5 Apr.
 
@@ -25,4 +25,4 @@ Daddy Nature is a drum & bass and jungle artist, with 11 gigs on soundcheck acro
 
 Uncle Dugs, DJ Ardi, DJ Mista C
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daddynature/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daddynature/)*

@@ -1,8 +1,8 @@
 # Kara Okay
 
-Kara Okay is a House and Trance artist with 11 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Hidden, Manchester on Fri, 13 Nov 2026.
+Kara Okay is a House and Trance artist with 14 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Hidden, Manchester on Fri, 13 Nov 2026.
 
-Kara Okay is a house and trance artist based in Netherlands, with 84 gigs on soundcheck across Amsterdam, Antwerp, Bali and Byron Bay and 19 more. Often billed alongside DART, Bella Claxton and Freddi. Next up: Hidden, Manchester on Fri 13 Nov.
+Kara Okay is a house and trance artist based in Netherlands, with 87 gigs on soundcheck across Amsterdam, Antwerp, Australian Capital Territory and Bali and 20 more. Often billed alongside DART, Bella Claxton and NewTone. Next up: Hidden, Manchester on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -10,15 +10,16 @@ Kara Okay is a house and trance artist based in Netherlands, with 84 gigs on sou
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Hidden | Manchester |
 | Sat, 14 Nov 2026 | TBA | Amsterdam |
+| Sat, 14 Nov 2026 | De Helling | Utrecht |
 | Thu, 19 Nov 2026 | Sala Cocó | Madrid |
 | Fri, 20 Nov 2026 | Artheater | Cologne |
 | Fri, 27 Nov 2026 | Shelter Amsterdam | Amsterdam |
 | Fri, 4 Dec 2026 | Mint Warehouse | Leeds |
 | Sat, 5 Dec 2026 | TivoliVredenburg | Utrecht |
+| Sat, 12 Dec 2026 | SISSI'S Amsterdam | Amsterdam |
 | Sat, 19 Dec 2026 | Zeefgebouw | Netherlands |
 | Sat, 19 Dec 2026 | Lofi | Amsterdam |
 | Sat, 30 Jan 2027 | Cruise Terminal Rotterdam | Rotterdam |
-| Fri, 5 Mar 2027 | Moyston | Melbourne |
 
 ## Recently played
 
@@ -33,6 +34,6 @@ Kara Okay is a house and trance artist based in Netherlands, with 84 gigs on sou
 
 ## Shares bills with
 
-DART, Bella Claxton, Freddi
+DART, Bella Claxton, NewTone
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karaokay/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karaokay/)*

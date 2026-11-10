@@ -1,6 +1,6 @@
 # Lixi
 
-Lixi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at KREUZWERK, Berlin on Sat, 5 Dec 2026.
+Lixi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at KREUZWERK, Berlin on Sat, 5 Dec 2026.
 
 Lixi is a techno and house artist based in Germany, with 19 gigs on soundcheck across Berlin and Prague. Often billed alongside VRTL, Sub Sahara and Aunty Nora. Next up: KREUZWERK, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Lixi is a techno and house artist based in Germany, with 19 gigs on soundcheck a
 
 VRTL, Sub Sahara, Aunty Nora
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lixi-de/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lixi-de/)*

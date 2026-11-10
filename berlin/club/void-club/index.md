@@ -1,6 +1,6 @@
 # Void Club
 
-Void Club is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "VOID x VANTA.NYX VII with Tudse, Sofi Lucius, access:dance, K.EULE, Aynaet, Sagrivox, Upzet" on Fri, 13 Nov 2026.
+Void Club is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "VOID x VANTA.NYX VII with Tudse, Sofi Lucius, access:dance, K.EULE, Aynaet, Sagrivox, Upzet" on Fri, 13 Nov 2026.
 
 Void Club is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with line-ups including AAguilAA, Abriss Andrej, access:dance and Alex Pastore and 2 more. See dates, start times and who's playing. Wiesenweg 5-9, 10365.
 
@@ -23,4 +23,4 @@ Void Club is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, wit
 
 Wiesenweg 5-9, 10365, Berlin
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*

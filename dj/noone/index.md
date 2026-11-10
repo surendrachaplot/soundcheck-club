@@ -1,8 +1,8 @@
-# NO ONE
+# Noone
 
-NO ONE is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Pérola Negra Club, Porto on Sat, 14 Nov 2026.
+Noone is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Pérola Negra Club, Porto on Sat, 14 Nov 2026.
 
-NO ONE is a techno and house artist based in Germany, with 32 gigs on soundcheck across Berlin, Bogotá, Copenhagen and Madrid and 7 more. Often billed alongside TREP, Matriark and Neri J. Next up: Pérola Negra Club, Porto on Sat 14 Nov.
+Noone is a techno and house artist based in Germany, with 32 gigs on soundcheck across Berlin, Bogotá, Copenhagen and Madrid and 7 more. Often billed alongside TREP, Matriark and Neri J. Next up: Pérola Negra Club, Porto on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ NO ONE is a techno and house artist based in Germany, with 32 gigs on soundcheck
 
 TREP, Matriark, Neri J
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noone/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noone/)*

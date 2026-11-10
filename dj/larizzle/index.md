@@ -1,8 +1,8 @@
 # Larizzle
 
-Larizzle is a Amapiano and Afrobeat artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Setlist @ Somerset House, London on Sat, 21 Nov 2026.
+Larizzle is a Amapiano and Afrobeat artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Setlist @ Somerset House, London on Sat, 21 Nov 2026.
 
-Larizzle is an amapiano and afrobeat artist based in United Kingdom, with 33 gigs on soundcheck across London. Often billed alongside Juls, Papu Raf and Duo. Next up: Setlist @ Somerset House, London on Sat 21 Nov.
+Larizzle is an amapiano and afrobeat artist based in United Kingdom, with 34 gigs on soundcheck across London. Often billed alongside Juls, Papu Raf and Duo. Next up: Setlist @ Somerset House, London on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Larizzle is an amapiano and afrobeat artist based in United Kingdom, with 33 gig
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Setlist @ Somerset House | London |
 | Fri, 4 Dec 2026 | Brixton Jamm | London |
+| Sat, 19 Dec 2026 | Setlist @ Somerset House | London |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Larizzle is an amapiano and afrobeat artist based in United Kingdom, with 33 gig
 
 Juls, Papu Raf, Duo
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/larizzle/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/larizzle/)*

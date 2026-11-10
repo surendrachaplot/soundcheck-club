@@ -1,6 +1,6 @@
 # Opium Hum
 
-Opium Hum is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 3 Dec 2026.
+Opium Hum is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 3 Dec 2026.
 
 Opium Hum is a techno and bass artist based in Germany, with 69 gigs on soundcheck across Berlin, Bogotá, Chongqing and Leipzig and 14 more. Often billed alongside AXT, Born in Flamez and DJ GHEPARD. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Opium Hum is a techno and bass artist based in Germany, with 69 gigs on soundche
 
 AXT, Born in Flamez, DJ GHEPARD
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/opiumhum/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/opiumhum/)*

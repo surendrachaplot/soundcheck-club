@@ -1,6 +1,6 @@
 # Decca Live
 
-Decca Live is a music venue in Jacksonville with 10 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "honestav - The Sweet American Boy Tour" on Tue, 10 Nov 2026.
+Decca Live is a music venue in Jacksonville with 10 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "honestav - The Sweet American Boy Tour" on Tue, 10 Nov 2026.
 
 Decca Live is a music venue in Jacksonville listed on soundcheck. 10 upcoming gigs, with line-ups including Krewella and Solardo. See dates, start times and who's playing. 323 E Bay St, Jacksonville, FL 32202.
 
@@ -23,4 +23,4 @@ Decca Live is a music venue in Jacksonville listed on soundcheck. 10 upcoming gi
 
 323 E Bay St, Jacksonville, FL 32202, Jacksonville
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/jacksonville/club/decca-live/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/jacksonville/club/decca-live/)*

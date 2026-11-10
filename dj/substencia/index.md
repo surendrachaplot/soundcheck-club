@@ -1,6 +1,6 @@
 # Substencia
 
-Substencia is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Secret Location, Berlin on Fri, 27 Nov 2026.
+Substencia is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Secret Location, Berlin on Fri, 27 Nov 2026.
 
 Substencia is a techno and industrial artist based in France, with 28 gigs on soundcheck across Barcelona, Berlin, Brussels and Paris. Often billed alongside Damien Barthet, Ottoman Grüw and Aeter. Next up: TBA - Secret Location, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Substencia is a techno and industrial artist based in France, with 28 gigs on so
 
 Damien Barthet (2), Ottoman Grüw, Aeter
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/substencia/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/substencia/)*

@@ -1,6 +1,6 @@
 # Garage 442
 
-Garage 442 is a music venue in Barcelona with 5 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Wednesnight with" on Wed, 11 Nov 2026.
+Garage 442 is a music venue in Barcelona with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Wednesnight with" on Wed, 11 Nov 2026.
 
 Garage 442 is a music venue in Barcelona listed on soundcheck. 5 upcoming gigs, with line-ups including FREDDIESS, HIRMONIX, Marco del Bosque and SORIANO and 1 more. See dates, start times and who's playing. Avinguda Diagonal, 442, 08037 Barcelona.
 
@@ -18,4 +18,4 @@ Garage 442 is a music venue in Barcelona listed on soundcheck. 5 upcoming gigs, 
 
 Avinguda Diagonal, 442, 08037 Barcelona, Barcelona
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/garage-442/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/garage-442/)*

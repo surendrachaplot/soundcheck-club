@@ -1,6 +1,6 @@
 # Kerrie
 
-Kerrie is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at INPUT High Fidelity Dance Club, Barcelona on Fri, 20 Nov 2026.
+Kerrie is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at INPUT High Fidelity Dance Club, Barcelona on Fri, 20 Nov 2026.
 
 Kerrie is a techno and house artist based in Ireland, with 144 gigs on soundcheck across Amsterdam, Armenia, Athens and Barcelona and 43 more. Often billed alongside Mareena, Neel and DJ Bone. Next up: INPUT High Fidelity Dance Club, Barcelona on Fri 20 Nov.
 
@@ -29,4 +29,4 @@ Kerrie is a techno and house artist based in Ireland, with 144 gigs on soundchec
 
 Mareena, Neel, DJ Bone
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kerrie/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kerrie/)*

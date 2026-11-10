@@ -1,6 +1,6 @@
 # 1983
 
-1983 is a music venue in Riga with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "SUBKULTŪRA #12" on Sat, 21 Nov 2026.
+1983 is a music venue in Riga with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "SUBKULTŪRA #12" on Sat, 21 Nov 2026.
 
 1983 is a music venue in Riga listed on soundcheck. 3 upcoming gigs, with line-ups including 2B, EKVA, ENK3I and Gretjane and 2 more. See dates, start times and who's playing. Vagonu 21, Riga, Latvia LV-1009.
 
@@ -16,4 +16,4 @@
 
 Vagonu 21, Riga, Latvia LV-1009, Riga
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/riga/club/1983/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/riga/club/1983/)*

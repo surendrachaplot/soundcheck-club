@@ -1,6 +1,6 @@
 # Viktor Martini
 
-Viktor Martini is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Chorus Club, Rome on Thu, 12 Nov 2026.
+Viktor Martini is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Chorus Club, Rome on Thu, 12 Nov 2026.
 
 Viktor Martini is an afro house and afro tech artist based in Italy, with 11 gigs on soundcheck across Rome. Often billed alongside Mimmo Errico, Frank Master and Aelita. Next up: TBA - Chorus Club, Rome on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Viktor Martini is an afro house and afro tech artist based in Italy, with 11 gig
 
 Mimmo Errico, Frank Master, Aelita
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/viktormartini/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/viktormartini/)*

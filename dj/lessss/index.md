@@ -1,6 +1,6 @@
 # LESSSS
 
-LESSSS is a Techno and Hardcore artist with 5 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Sainte-Catherine Hall, Montreal on Fri, 20 Nov 2026.
+LESSSS is a Techno and Hardcore artist with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Sainte-Catherine Hall, Montreal on Fri, 20 Nov 2026.
 
 LESSSS is a techno and hardcore artist based in France, with 194 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Barcelona and 61 more. Often billed alongside Azyr, OMAKS and Basswell. Next up: Sainte-Catherine Hall, Montreal on Fri 20 Nov.
 
@@ -29,4 +29,4 @@ LESSSS is a techno and hardcore artist based in France, with 194 gigs on soundch
 
 Azyr, OMAKS, Basswell
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lessss/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lessss/)*

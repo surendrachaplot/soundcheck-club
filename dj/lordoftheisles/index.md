@@ -1,6 +1,6 @@
 # Lord Of The Isles
 
-Lord Of The Isles is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at The Leith Depot, Edinburgh on Fri, 20 Nov 2026.
+Lord Of The Isles is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at The Leith Depot, Edinburgh on Fri, 20 Nov 2026.
 
 Lord Of The Isles is a house and techno artist, with 16 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Edinburgh and 2 more. Often billed alongside Eclair Fifi, LWS and Linkwood. Next up: The Leith Depot, Edinburgh on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Lord Of The Isles is a house and techno artist, with 16 gigs on soundcheck acros
 
 Eclair Fifi, LWS, Linkwood
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lordoftheisles/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lordoftheisles/)*

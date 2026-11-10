@@ -1,6 +1,6 @@
 # Ohm Hourani
 
-Ohm Hourani is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Salon Daomé, Montreal on Fri, 13 Nov 2026.
+Ohm Hourani is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Salon Daomé, Montreal on Fri, 13 Nov 2026.
 
 Ohm Hourani is a house and minimal artist based in Canada, with 114 gigs on soundcheck across Belgrade, Berlin, Bologna and Boston and 15 more. Often billed alongside Vincent Lemieux, Tomas Station and O.BEE. Next up: Salon Daomé, Montreal on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Ohm Hourani is a house and minimal artist based in Canada, with 114 gigs on soun
 
 Vincent Lemieux, Tomas Station, O.BEE
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ohmhourani/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ohmhourani/)*

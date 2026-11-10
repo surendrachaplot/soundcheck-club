@@ -1,6 +1,6 @@
 # John Jones
 
-John Jones is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Steel Yard, London on Sat, 5 Dec 2026.
+John Jones is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Steel Yard, London on Sat, 5 Dec 2026.
 
 John Jones is a disco and house artist based in United Kingdom, with 4 gigs on soundcheck across London. Often billed alongside Alena Arpels, AnDD and Andy Philp. Next up: The Steel Yard, London on Sat 5 Dec.
 
@@ -20,4 +20,4 @@ John Jones is a disco and house artist based in United Kingdom, with 4 gigs on s
 
 Alena Arpels, AnDD, Andy Philp
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johnjones/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johnjones/)*

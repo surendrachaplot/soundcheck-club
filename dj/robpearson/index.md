@@ -1,6 +1,6 @@
 # Rob Pearson
 
-Rob Pearson is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Wavio Room, Leeds on Sat, 14 Nov 2026.
+Rob Pearson is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Wavio Room, Leeds on Sat, 14 Nov 2026.
 
 Rob Pearson is a tech house and house artist based in United Kingdom, with 19 gigs on soundcheck across Barcelona, Brighton, Leeds and London and 3 more. Often billed alongside PAS, Donton and TriForm. Next up: Wavio Room, Leeds on Sat 14 Nov.
 
@@ -28,4 +28,4 @@ Rob Pearson is a tech house and house artist based in United Kingdom, with 19 gi
 
 PAS, Donton, TriForm
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robpearson/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robpearson/)*

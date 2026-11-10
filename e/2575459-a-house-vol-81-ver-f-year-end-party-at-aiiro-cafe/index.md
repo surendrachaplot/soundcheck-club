@@ -1,6 +1,6 @@
-# A HOUSE vol 81 ~#Ver.F' Year end party~ at Aiiro Cafe
+# A HOUSE vol 81 ~Ver.F~ ' Year end party' at Aiiro Cafe
 
-A HOUSE vol 81 ~#Ver.F' Year end party~ at Aiiro Cafe on Fri 11 Dec, Tokyo. 1 artist: Ritek. House and Tech House. See the line-up on soundcheck.
+A HOUSE vol 81 ~Ver.F~ ' Year end party' at Aiiro Cafe on Fri 11 Dec, Tokyo. 1 artist: Ritek. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

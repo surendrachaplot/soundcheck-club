@@ -1,6 +1,6 @@
 # The Danger Zone at Piccadilly Central
 
-The Danger Zone at Piccadilly Central on Fri 11 Dec, Manchester. 2 artists: F3rg13 and Megan Wroe. House and Garage. See the line-up on soundcheck.
+The Danger Zone at Piccadilly Central on Fri 11 Dec, Manchester. 3 artists: F3rg13, Megan Wroe and POOCH. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ The Danger Zone at Piccadilly Central on Fri 11 Dec, Manchester. 2 artists: F3rg
 
 - F3rg13
 - Megan Wroe
+- POOCH
 
 *Source: [soundcheck](https://soundcheck.club/e/2513139-the-danger-zone-at-piccadilly-central/)*

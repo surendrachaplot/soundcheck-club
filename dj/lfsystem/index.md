@@ -1,6 +1,6 @@
 # LF SYSTEM
 
-LF SYSTEM is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at fabric, London on Fri, 20 Nov 2026.
+LF SYSTEM is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at fabric, London on Fri, 20 Nov 2026.
 
 LF SYSTEM is a house and disco artist based in United Kingdom, with 144 gigs on soundcheck across Aberdeen, Adelaide, Auckland and Austin and 44 more. Often billed alongside Sonny Fodera, Solardo and Eats Everything. Next up: fabric, London on Fri 20 Nov.
 
@@ -29,4 +29,4 @@ LF SYSTEM is a house and disco artist based in United Kingdom, with 144 gigs on 
 
 Sonny Fodera, Solardo, Eats Everything
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lfsystem/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lfsystem/)*

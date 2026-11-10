@@ -1,6 +1,6 @@
 # Paul Anthonee
 
-Paul Anthonee is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA, Romania on Fri, 18 Jun 2027.
+Paul Anthonee is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA, Romania on Fri, 18 Jun 2027.
 
 Paul Anthonee is a techno and house artist based in Cyprus, with 4 gigs on soundcheck across Amsterdam, Berlin and Romania. Often billed alongside Darin Epsilon, KARINSMATIC and SHAZZE. Next up: TBA, Romania on Fri 18 Jun.
 
@@ -20,4 +20,4 @@ Paul Anthonee is a techno and house artist based in Cyprus, with 4 gigs on sound
 
 Darin Epsilon, KARINSMATIC, SHAZZE
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paulanthonee/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paulanthonee/)*

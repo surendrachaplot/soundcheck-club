@@ -1,8 +1,8 @@
 # Cinthie
 
-Cinthie is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Sala Villanos, Madrid on Fri, 13 Nov 2026.
+Cinthie is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Sala Villanos, Madrid on Fri, 13 Nov 2026.
 
-Cinthie is a house and techno artist based in Germany, with 317 gigs on soundcheck across Amsterdam, Athens, Austin and Bangkok and 65 more. Often billed alongside Meat, Gabrielle Kwarteng and Ogazón. Next up: Sala Villanos, Madrid on Fri 13 Nov.
+Cinthie is a house and techno artist based in Germany, with 318 gigs on soundcheck across Amsterdam, Athens, Austin and Bangkok and 65 more. Often billed alongside Meat, Gabrielle Kwarteng and Ogazón. Next up: Sala Villanos, Madrid on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Cinthie is a house and techno artist based in Germany, with 317 gigs on soundche
 | Sat, 14 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 20 Nov 2026 | Platform9 | Vancouver |
 | Sat, 21 Nov 2026 | TBA - Downtown Los Angeles | Los Angeles |
+| Fri, 27 Nov 2026 | 1015 Folsom | San Francisco/Oakland |
 | Fri, 27 Nov 2026 | 1015 Folsom | San Francisco/Oakland |
 | Sat, 28 Nov 2026 | public records | New York City |
 | Fri, 11 Dec 2026 | fabric | London |
@@ -35,4 +36,4 @@ Cinthie is a house and techno artist based in Germany, with 317 gigs on soundche
 
 Meat, Gabrielle Kwarteng, Ogazón
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cinthie/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cinthie/)*

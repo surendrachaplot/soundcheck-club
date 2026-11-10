@@ -1,6 +1,6 @@
 # Etienn Grey
 
-Etienn Grey is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Stadion Strahov, Prague on Fri, 13 Nov 2026.
+Etienn Grey is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Stadion Strahov, Prague on Fri, 13 Nov 2026.
 
 Etienn Grey is a techno and ambient artist based in Czech Republic, with 28 gigs on soundcheck across Prague. Often billed alongside ishka machina, SJ Yellow and Takē. Next up: Stadion Strahov, Prague on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Etienn Grey is a techno and ambient artist based in Czech Republic, with 28 gigs
 
 ishka machina, SJ Yellow, Takē
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/etienngrey/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/etienngrey/)*

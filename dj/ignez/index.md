@@ -1,6 +1,6 @@
 # Ignez
 
-Ignez is a Techno and House artist with 18 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at FVTVR, Paris on Fri, 13 Nov 2026.
+Ignez is a Techno and House artist with 18 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at FVTVR, Paris on Fri, 13 Nov 2026.
 
 Ignez is a techno and house artist based in Netherlands, with 241 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 74 more. Often billed alongside Yanamaste, Rødhåd and Alarico. Next up: FVTVR, Paris on Fri 13 Nov.
 
@@ -36,4 +36,4 @@ Ignez is a techno and house artist based in Netherlands, with 241 gigs on soundc
 
 Yanamaste, Rødhåd, Alarico
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ignez/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ignez/)*

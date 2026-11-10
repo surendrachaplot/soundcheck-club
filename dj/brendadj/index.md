@@ -1,6 +1,6 @@
 # Brenda.
 
-Brenda. is a Latin Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Bossa Nova Civic Club, New York City on Fri, 13 Nov 2026.
+Brenda. is a Latin Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Bossa Nova Civic Club, New York City on Fri, 13 Nov 2026.
 
 Brenda. is a latin bass and techno artist based in Colombia, with 62 gigs on soundcheck across Belgrade, Berlin, Bogotá and Boston and 19 more. Often billed alongside MARIA MANUELA, Aguirre and Ultrabruma. Next up: Bossa Nova Civic Club, New York City on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Brenda. is a latin bass and techno artist based in Colombia, with 62 gigs on sou
 
 MARIA MANUELA, Aguirre, Ultrabruma
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brendadj/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brendadj/)*

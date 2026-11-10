@@ -1,6 +1,6 @@
 # LOUPING
 
-LOUPING is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Void Club, Berlin on Sat, 19 Dec 2026.
+LOUPING is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Void Club, Berlin on Sat, 19 Dec 2026.
 
 LOUPING is a techno and drum & bass artist based in Germany, with 14 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Grenouillette, Upzet and Crashkitt. Next up: Void Club, Berlin on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ LOUPING is a techno and drum & bass artist based in Germany, with 14 gigs on sou
 
 Grenouillette, Upzet, Crashkitt
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/louping/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/louping/)*

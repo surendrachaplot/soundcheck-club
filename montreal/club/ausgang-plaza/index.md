@@ -1,6 +1,6 @@
 # Ausgang Plaza
 
-Ausgang Plaza is a music venue in Montreal with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Laylit #154 with Saliah (UK)" on Sat, 28 Nov 2026.
+Ausgang Plaza is a music venue in Montreal with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Laylit #154 with Saliah (UK)" on Sat, 28 Nov 2026.
 
 Ausgang Plaza is a music venue in Montreal listed on soundcheck. 3 upcoming gigs, with line-ups including Akpossoul, Amarji King, DJ BlackGold and Ekitwanda and 2 more. See dates, start times and who's playing. 6524 St-Hubert, Montreal, QC, H2S 2M3, Canada.
 
@@ -16,4 +16,4 @@ Ausgang Plaza is a music venue in Montreal listed on soundcheck. 3 upcoming gigs
 
 6524 St-Hubert, Montreal, QC, H2S 2M3, Canada, Montreal
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/ausgang-plaza/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/ausgang-plaza/)*

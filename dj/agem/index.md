@@ -1,6 +1,6 @@
 # Agem
 
-Agem is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Drugstore im Rockhaus, Berlin on Fri, 13 Nov 2026.
+Agem is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Drugstore im Rockhaus, Berlin on Fri, 13 Nov 2026.
 
 Agem is a drum & bass and jungle artist based in Czech Republic, with 51 gigs on soundcheck across Berlin and Prague. Often billed alongside DJ Agem, Upzet and Hovercat. Next up: Drugstore im Rockhaus, Berlin on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Agem is a drum & bass and jungle artist based in Czech Republic, with 51 gigs on
 
 DJ Agem, Upzet, Hovercat
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/agem/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/agem/)*

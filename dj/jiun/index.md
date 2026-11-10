@@ -1,6 +1,6 @@
 # Jiun
 
-Jiun is a Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Slap´d, Berlin on Fri, 13 Nov 2026.
+Jiun is a Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Slap´d, Berlin on Fri, 13 Nov 2026.
 
 Jiun is a bass and breakbeat artist based in Malaysia, with 8 gigs on soundcheck across Berlin and Kuala Lumpur. Often billed alongside Evaluvfrog, Katia Fis and Temple Rat. Next up: Slap´d, Berlin on Fri 13 Nov.
 
@@ -24,4 +24,4 @@ Jiun is a bass and breakbeat artist based in Malaysia, with 8 gigs on soundcheck
 
 Evaluvfrog, Katia Fis, Temple Rat
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jiun/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jiun/)*

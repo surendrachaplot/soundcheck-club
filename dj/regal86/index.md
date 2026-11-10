@@ -1,6 +1,6 @@
 # Regal86
 
-Regal86 is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at 314 Scholes, New York City on Fri, 13 Nov 2026.
+Regal86 is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at 314 Scholes, New York City on Fri, 13 Nov 2026.
 
 Regal86 is a techno and club artist based in Mexico, with 148 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Austin and 59 more. Often billed alongside 1OO1O, 1morning and Gbenga. Next up: 314 Scholes, New York City on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Regal86 is a techno and club artist based in Mexico, with 148 gigs on soundcheck
 
 1OO1O, 1morning, Gbenga
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/regal86/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/regal86/)*

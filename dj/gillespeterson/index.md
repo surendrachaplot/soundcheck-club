@@ -1,6 +1,6 @@
 # Gilles Peterson
 
-Gilles Peterson is a Jazz and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Northcote Theatre, Melbourne on Sat, 14 Nov 2026.
+Gilles Peterson is a Jazz and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Northcote Theatre, Melbourne on Sat, 14 Nov 2026.
 
 Gilles Peterson is a jazz and house artist based in United Kingdom, with 84 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 27 more. Often billed alongside Patrick Forge, Jamz Supernova and MUSCLECARS. Next up: Northcote Theatre, Melbourne on Sat 14 Nov.
 
@@ -29,4 +29,4 @@ Gilles Peterson is a jazz and house artist based in United Kingdom, with 84 gigs
 
 Patrick Forge, Jamz Supernova, MUSCLECARS
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gillespeterson/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gillespeterson/)*

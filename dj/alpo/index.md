@@ -1,6 +1,6 @@
 # Alpo
 
-Alpo is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Jolene, Copenhagen on Fri, 13 Nov 2026.
+Alpo is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Jolene, Copenhagen on Fri, 13 Nov 2026.
 
 Alpo is a minimal and tech house artist based in Denmark, with 4 gigs on soundcheck across Amsterdam and Copenhagen. Often billed alongside DJ SRA, Alin and Angel D'lite. Next up: Jolene, Copenhagen on Fri 13 Nov.
 
@@ -20,4 +20,4 @@ Alpo is a minimal and tech house artist based in Denmark, with 4 gigs on soundch
 
 DJ SRA, Alin, Angel D'lite
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alpo/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alpo/)*

@@ -1,6 +1,6 @@
 # Honn
 
-Honn is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
+Honn is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
 
 Honn is a techno and electro artist based in South Korea, with 299 gigs on soundcheck across Seoul, South Korea and Tokyo. Often billed alongside MOVIN.KR, X2C and bumv. Next up: TBA - Jacks Bar, South Korea on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Honn is a techno and electro artist based in South Korea, with 299 gigs on sound
 
 MOVIN.KR, X2C (1), bumv
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/honn/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/honn/)*

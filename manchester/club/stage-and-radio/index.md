@@ -1,6 +1,6 @@
 # Stage and Radio
 
-Stage and Radio is a music venue in Manchester with 30 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Citrus City presents: Nora" on Fri, 13 Nov 2026.
+Stage and Radio is a music venue in Manchester with 30 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Citrus City presents: Nora" on Fri, 13 Nov 2026.
 
 Stage and Radio is a music venue in Manchester listed on soundcheck. 30 upcoming gigs, with line-ups including 4D, Alex Milo, Ally King and Amelia Leigh and 2 more. See dates, start times and who's playing. 43 Port St, Manchester M1 2EQ.
 
@@ -23,4 +23,4 @@ Stage and Radio is a music venue in Manchester listed on soundcheck. 30 upcoming
 
 43 Port St, Manchester M1 2EQ, Manchester
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/stage-and-radio/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/stage-and-radio/)*

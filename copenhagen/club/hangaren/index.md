@@ -1,6 +1,6 @@
 # Hangaren
 
-Hangaren is a music venue in Copenhagen with 11 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Oliver Koletzki, Rexie Lex, Baime" on Fri, 13 Nov 2026.
+Hangaren is a music venue in Copenhagen with 11 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Oliver Koletzki, Rexie Lex, Baime" on Fri, 13 Nov 2026.
 
 Hangaren is a music venue in Copenhagen listed on soundcheck. 11 upcoming gigs, with line-ups including Anna Logic, babysquid, Bad Boombox and Baime and 2 more. See dates, start times and who's playing. Refshalevej 185, 1432 København, Denmark.
 
@@ -15,7 +15,7 @@ Hangaren is a music venue in Copenhagen listed on soundcheck. 11 upcoming gigs, 
 | Fri, 27 Nov 2026 | Mac Declos (all night long) | Mac Declos |
 | Sat, 28 Nov 2026 | Britta Arnold, MiniMalene, OnsBerg | Britta Arnold, MiniMalene (2), OnsBerg |
 | Fri, 4 Dec 2026 | Diffrent, samgood, DRABER666 | DRABER666, Diffrent, samgood |
-| Sat, 5 Dec 2026 | DJ Fuckoff, dragongirl, NAT | DJ Fuckoff, NAT(SK), dragongirl |
+| Sat, 5 Dec 2026 | DJ Fuckoff, dragongirl, NAT | DJ Fuckoff, NAT (SK), dragongirl |
 | Sat, 12 Dec 2026 | Bad Boombox, lizaliza  | Bad Boombox, lizaliza |
 | Sun, 13 Dec 2026 | Bad Boombox, lizaliza (Extra show) | Bad Boombox, lizaliza |
 
@@ -23,4 +23,4 @@ Hangaren is a music venue in Copenhagen listed on soundcheck. 11 upcoming gigs, 
 
 Refshalevej 185, 1432 København, Denmark, Copenhagen
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/hangaren/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/hangaren/)*

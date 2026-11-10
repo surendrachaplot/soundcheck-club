@@ -1,6 +1,6 @@
 # Frontline (BE)
 
-Frontline (BE) is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Little Rockers, Okinawa on Fri, 20 Nov 2026.
+Frontline (BE) is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Little Rockers, Okinawa on Fri, 20 Nov 2026.
 
 Frontline (BE) is a drum & bass and techno artist based in Belgium, with 6 gigs on soundcheck across Antwerp, Ghent and Okinawa. Often billed alongside Expensive KVR, Hiraeth and 1991. Next up: Little Rockers, Okinawa on Fri 20 Nov.
 
@@ -22,4 +22,4 @@ Frontline (BE) is a drum & bass and techno artist based in Belgium, with 6 gigs 
 
 Expensive KVR, Hiraeth, 1991
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frontlinebe/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frontlinebe/)*

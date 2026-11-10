@@ -1,6 +1,6 @@
 # Milneys
 
-Milneys is a music venue in Melbourne with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Longing for Slumber" on Fri, 13 Nov 2026.
+Milneys is a music venue in Melbourne with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Longing for Slumber" on Fri, 13 Nov 2026.
 
 Milneys is a music venue in Melbourne listed on soundcheck. 3 upcoming gigs, with line-ups including Dinh, Draw 4, Female Wizard and Lexï and 2 more. See dates, start times and who's playing. 451b Brunswick St, Fitzroy VIC 3065.
 
@@ -16,4 +16,4 @@ Milneys is a music venue in Melbourne listed on soundcheck. 3 upcoming gigs, wit
 
 451b Brunswick St, Fitzroy VIC 3065, Melbourne
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/milneys/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/milneys/)*

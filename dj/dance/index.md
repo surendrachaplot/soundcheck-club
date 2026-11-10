@@ -1,6 +1,6 @@
 # Dance
 
-Dance is a House and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Electrowerkz, London on Sat, 2 Jan 2027.
+Dance is a House and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Electrowerkz, London on Sat, 2 Jan 2027.
 
 Dance is a house and club artist based in United Kingdom, with 60 gigs on soundcheck across Athens, Bangkok, Barcelona and Berlin and 14 more. Often billed alongside DJ B2B, Amine Edge & DANCE and Bass. Next up: Electrowerkz, London on Sat 2 Jan.
 
@@ -25,4 +25,4 @@ Dance is a house and club artist based in United Kingdom, with 60 gigs on soundc
 
 DJ B2B, Amine Edge & DANCE, Bass
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dance/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dance/)*

@@ -1,6 +1,6 @@
 # Julietta Ferrari
 
-Julietta Ferrari is a Electro and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Nitsa Club, Barcelona on Fri, 20 Nov 2026.
+Julietta Ferrari is a Electro and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Nitsa Club, Barcelona on Fri, 20 Nov 2026.
 
 Julietta Ferrari is an electro and experimental artist based in Spain, with 44 gigs on soundcheck across Barcelona, Glasgow, London and Madrid and 1 more. Often billed alongside JUMER, Montenegro and ENGALANAN. Next up: Nitsa Club, Barcelona on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Julietta Ferrari is an electro and experimental artist based in Spain, with 44 g
 
 JUMER, Montenegro, ENGALANAN
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juliettaferrari/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juliettaferrari/)*

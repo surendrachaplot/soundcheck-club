@@ -1,6 +1,6 @@
 # Carbajal
 
-Carbajal is a Electronica and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA, Guadalajara on Sat, 14 Nov 2026.
+Carbajal is a Electronica and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA, Guadalajara on Sat, 14 Nov 2026.
 
 Carbajal is an electronica and tech house artist, with 28 gigs on soundcheck across Guadalajara, Mexico City and Vancouver. Often billed alongside Cachaza, Enya Botello and Celice Monnette. Next up: TBA, Guadalajara on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Carbajal is an electronica and tech house artist, with 28 gigs on soundcheck acr
 
 Cachaza, Enya Botello, Celice Monnette
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carbajal/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carbajal/)*

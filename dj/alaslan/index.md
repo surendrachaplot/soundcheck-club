@@ -1,6 +1,6 @@
 # Al Aslan
 
-Al Aslan is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA, Berlin on Fri, 13 Nov 2026.
+Al Aslan is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA, Berlin on Fri, 13 Nov 2026.
 
 Al Aslan is a techno and house artist based in Germany, with 78 gigs on soundcheck across Berlin, Dresden and Leipzig. Often billed alongside Opal, The Camel and cell1. Next up: TBA, Berlin on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Al Aslan is a techno and house artist based in Germany, with 78 gigs on soundche
 
 Opal, The Camel, cell1
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alaslan/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alaslan/)*

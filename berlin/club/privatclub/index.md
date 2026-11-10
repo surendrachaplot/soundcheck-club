@@ -1,6 +1,6 @@
 # Privatclub
 
-Privatclub is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Groove Service W/ Martin Bacik, Peeps, Robin Flux,  Leo St Laurent (Voguing Session)" on Fri, 13 Nov 2026.
+Privatclub is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Groove Service W/ Martin Bacik, Peeps, Robin Flux,  Leo St Laurent (Voguing Session)" on Fri, 13 Nov 2026.
 
 Privatclub is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with line-ups including Bizarre Billy, Lynnic and Robin Flux. See dates, start times and who's playing. Skalitzer Straße 85-86, 10997 Berlin.
 
@@ -18,4 +18,4 @@ Privatclub is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, wit
 
 Skalitzer Straße 85-86, 10997 Berlin, Berlin
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/privatclub/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/privatclub/)*

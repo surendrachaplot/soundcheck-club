@@ -1,6 +1,6 @@
 # Klubbheads
 
-Klubbheads is a Acid and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Thuishaven, Amsterdam on Sat, 12 Dec 2026.
+Klubbheads is a Acid and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Thuishaven, Amsterdam on Sat, 12 Dec 2026.
 
 Klubbheads is an acid and house artist based in Netherlands, with 12 gigs on soundcheck across Amsterdam, Belfast, Berlin and Dublin and 1 more. Often billed alongside Alexander Koning, Dimitri and Erick E. Next up: Thuishaven, Amsterdam on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Klubbheads is an acid and house artist based in Netherlands, with 12 gigs on sou
 
 Alexander Koning, Dimitri (1), Erick E
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/klubbheads/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/klubbheads/)*

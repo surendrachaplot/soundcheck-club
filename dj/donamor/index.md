@@ -1,6 +1,6 @@
 # Don Amor
 
-Don Amor is a Reggaeton and R&B artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at EL SÓTANO, Madrid on Thu, 10 Dec 2026.
+Don Amor is a Reggaeton and R&B artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at EL SÓTANO, Madrid on Thu, 10 Dec 2026.
 
 Don Amor is a reggaeton and r&b artist based in Spain, with 48 gigs on soundcheck across Madrid. Often billed alongside Linapary, PROBLEMTK and Dada (ES). Next up: EL SÓTANO, Madrid on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ Don Amor is a reggaeton and r&b artist based in Spain, with 48 gigs on soundchec
 
 Linapary, PROBLEMTK, Dada (ES)
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/donamor/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/donamor/)*

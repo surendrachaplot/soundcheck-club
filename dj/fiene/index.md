@@ -1,6 +1,6 @@
 # Fiene
 
-Fiene is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Mergener Hof, Rhineland-palatinate on Sat, 21 Nov 2026.
+Fiene is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Mergener Hof, Rhineland-palatinate on Sat, 21 Nov 2026.
 
 Fiene is a techno and trance artist based in Netherlands, with 45 gigs on soundcheck across Amsterdam, Paris, Rhineland Palatinate and Rotterdam and 2 more. Often billed alongside Benny Rodrigues, Rozie and AUTOFLOWER. Next up: Mergener Hof, Rhineland Palatinate on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Fiene is a techno and trance artist based in Netherlands, with 45 gigs on soundc
 
 Benny Rodrigues, Rozie, AUTOFLOWER
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fiene/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fiene/)*

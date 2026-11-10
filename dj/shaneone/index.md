@@ -1,13 +1,14 @@
 # Shane One
 
-Shane One is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Crossroads Cafe, New York City on Sat, 28 Nov 2026.
+Shane One is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at MAD Radio NYC, New York City on Sat, 14 Nov 2026.
 
-Shane One is a house and disco artist based in United States of America, with 31 gigs on soundcheck across Berlin, New York City and San Francisco/Oakland. Often billed alongside Lil'T, Anthony Mansfield and Galen. Next up: Crossroads Cafe, New York City on Sat 28 Nov.
+Shane One is a house and disco artist based in United States of America, with 32 gigs on soundcheck across Berlin, New York City and San Francisco/Oakland. Often billed alongside Greg Paulus, Lil'T and Anthony Mansfield. Next up: MAD Radio NYC, New York City on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | MAD Radio NYC | New York City |
 | Sat, 28 Nov 2026 | Crossroads Cafe | New York City |
 
 ## Recently played
@@ -23,6 +24,6 @@ Shane One is a house and disco artist based in United States of America, with 31
 
 ## Shares bills with
 
-Lil'T, Anthony Mansfield, Galen
+Greg Paulus, Lil'T, Anthony Mansfield
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shaneone/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shaneone/)*

@@ -1,6 +1,6 @@
 # RHYTHMICK
 
-RHYTHMICK is a Bass and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Yamamori Tengu, Dublin on Thu, 31 Dec 2026.
+RHYTHMICK is a Bass and Progressive House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Yamamori Tengu, Dublin on Thu, 31 Dec 2026.
 
 RHYTHMICK is a bass and progressive house artist based in Ireland, with 13 gigs on soundcheck across Dublin. Often billed alongside Surka, Collie and Fio Fa. Next up: Yamamori Tengu, Dublin on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ RHYTHMICK is a bass and progressive house artist based in Ireland, with 13 gigs 
 
 Surka (1), Collie (1), Fio Fa
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rhythmick/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rhythmick/)*

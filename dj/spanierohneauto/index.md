@@ -1,6 +1,6 @@
 # SpanierOhneAuto
 
-SpanierOhneAuto is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Lieberscholli, Munich on Fri, 13 Nov 2026.
+SpanierOhneAuto is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Lieberscholli, Munich on Fri, 13 Nov 2026.
 
 SpanierOhneAuto is a techno and trance artist based in Germany, with 24 gigs on soundcheck across Munich. Often billed alongside DJ Ty-Rex, Roshan (DE) and Tyrellativ. Next up: Lieberscholli, Munich on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ SpanierOhneAuto is a techno and trance artist based in Germany, with 24 gigs on 
 
 DJ Ty-Rex, Roshan (DE), Tyrellativ
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spanierohneauto/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spanierohneauto/)*

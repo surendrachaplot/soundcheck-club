@@ -1,6 +1,6 @@
 # Session Restore
 
-Session Restore is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Indiego Glocksee, Hannover on Sat, 14 Nov 2026.
+Session Restore is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Indiego Glocksee, Hannover on Sat, 14 Nov 2026.
 
 Session Restore is a techno and house artist based in Germany, with 32 gigs on soundcheck across Berlin, Frankfurt, Hannover and Leipzig. Often billed alongside .VRIL, DJ Interstella and Mareena. Next up: Indiego Glocksee, Hannover on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Session Restore is a techno and house artist based in Germany, with 32 gigs on s
 
 .VRIL, DJ Interstella, Mareena
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sessionrestore/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sessionrestore/)*

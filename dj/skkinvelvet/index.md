@@ -1,14 +1,15 @@
 # SKKIN VELVET
 
-SKKIN VELVET is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at ROSA, Berlin on Sat, 14 Nov 2026.
+SKKIN VELVET is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at ROSA, Berlin on Sat, 14 Nov 2026.
 
-SKKIN VELVET is a techno and trance artist based in Germany, with 79 gigs on soundcheck across Berlin, Hamburg and Hannover. Often billed alongside KENZ, MKHXR and DJ Pinky Promise. Next up: ROSA, Berlin on Sat 14 Nov.
+SKKIN VELVET is a techno and trance artist based in Germany, with 80 gigs on soundcheck across Berlin, Hamburg and Hannover. Often billed alongside KENZ, MKHXR and DJ Pinky Promise. Next up: ROSA, Berlin on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | ROSA | Berlin |
+| Sat, 21 Nov 2026 | Fundbureau | Hamburg |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ SKKIN VELVET is a techno and trance artist based in Germany, with 79 gigs on sou
 
 KENZ, MKHXR, DJ Pinky Promise
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skkinvelvet/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skkinvelvet/)*

@@ -1,6 +1,6 @@
 # ULDΛLL
 
-ULDΛLL is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Culture Box, Copenhagen on Sat, 28 Nov 2026.
+ULDΛLL is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Culture Box, Copenhagen on Sat, 28 Nov 2026.
 
 ULDΛLL is a house and techno artist based in Denmark, with 4 gigs on soundcheck across Copenhagen. Often billed alongside joa picaro, Denis Horvat and Radeckt. Next up: Culture Box, Copenhagen on Sat 28 Nov.
 
@@ -20,4 +20,4 @@ ULDΛLL is a house and techno artist based in Denmark, with 4 gigs on soundcheck
 
 joa picaro, Denis Horvat, Radeckt
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/uldall/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/uldall/)*

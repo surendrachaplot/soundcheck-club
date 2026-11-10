@@ -1,6 +1,6 @@
 # Toldi Klub
 
-Toldi Klub is a music venue in Budapest with 6 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "KATTT // Beta & Vedat all night long // TOLDI" on Sat, 14 Nov 2026.
+Toldi Klub is a music venue in Budapest with 6 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "KATTT // Beta & Vedat all night long // TOLDI" on Sat, 14 Nov 2026.
 
 Toldi Klub is a music venue in Budapest listed on soundcheck. 6 upcoming gigs, with line-ups including Cvrdwell, Greg Orca, IPAR and isu and 2 more. See dates, start times and who's playing. Bajcsy-Zsilinszky út 36-38, 1054 Budapest.
 
@@ -19,4 +19,4 @@ Toldi Klub is a music venue in Budapest listed on soundcheck. 6 upcoming gigs, w
 
 Bajcsy-Zsilinszky út 36-38, 1054 Budapest, Budapest
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/toldi-klub/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/toldi-klub/)*

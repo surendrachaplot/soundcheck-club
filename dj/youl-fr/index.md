@@ -1,14 +1,15 @@
 # Youl
 
-Youl is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Macadam, Nantes on Sun, 6 Dec 2026.
+Youl is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Macadam, Nantes on Sun, 6 Dec 2026.
 
-Youl is a techno and house artist based in France, with 35 gigs on soundcheck across Geneva, Nantes, Paris and Tbilisi. Often billed alongside Combe, Soyoon and Maï-Linh. Next up: Macadam, Nantes on Sun 6 Dec.
+Youl is a techno and house artist based in France, with 36 gigs on soundcheck across Geneva, Nantes, Paris and Tbilisi. Often billed alongside Combe, Soyoon and Maï-Linh. Next up: Macadam, Nantes on Sun 6 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 6 Dec 2026 | Macadam | Nantes |
+| Sun, 17 Jan 2027 | Macadam | Nantes |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Youl is a techno and house artist based in France, with 35 gigs on soundcheck ac
 
 Combe, Soyoon, Maï-Linh
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/youl-fr/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/youl-fr/)*

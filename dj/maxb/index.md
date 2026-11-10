@@ -1,6 +1,6 @@
 # Max B
 
-Max B is a House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Open Air Club, New York City on Thu, 19 Nov 2026.
+Max B is a House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Open Air Club, New York City on Thu, 19 Nov 2026.
 
 Max B is a house artist, with 5 gigs on soundcheck across Amsterdam and New York City. Often billed alongside KC The Funkaholic, Mr. Wix and Franky Sticks. Next up: Open Air Club, New York City on Thu 19 Nov.
 
@@ -21,4 +21,4 @@ Max B is a house artist, with 5 gigs on soundcheck across Amsterdam and New York
 
 KC The Funkaholic, Mr. Wix, Franky Sticks
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxb/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxb/)*

@@ -1,6 +1,6 @@
 # Karolanne
 
-Karolanne is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at ÆDEN, Berlin on Fri, 13 Nov 2026.
+Karolanne is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at ÆDEN, Berlin on Fri, 13 Nov 2026.
 
 Karolanne is a techno and house artist based in Germany, with 7 gigs on soundcheck across Berlin. Often billed alongside Levandream, DJ Hitwave and RichBeat. Next up: ÆDEN, Berlin on Fri 13 Nov.
 
@@ -23,4 +23,4 @@ Karolanne is a techno and house artist based in Germany, with 7 gigs on soundche
 
 Levandream, DJ Hitwave, RichBeat
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karolanne/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karolanne/)*

@@ -1,6 +1,6 @@
 # dreamcastmoe
 
-dreamcastmoe is a House and R&B artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Funke, Ghent on Wed, 18 Nov 2026.
+dreamcastmoe is a House and R&B artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Funke, Ghent on Wed, 18 Nov 2026.
 
 dreamcastmoe is a house and r&b artist based in United States of America, with 57 gigs on soundcheck across Amsterdam, Austin, Baltimore and Berlin and 20 more. Often billed alongside Bradley Zero, DJ Tennis and Jyoty. Next up: Funke, Ghent on Wed 18 Nov.
 
@@ -25,4 +25,4 @@ dreamcastmoe is a house and r&b artist based in United States of America, with 5
 
 Bradley Zero, DJ Tennis, Jyoty
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dreamcast/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dreamcast/)*

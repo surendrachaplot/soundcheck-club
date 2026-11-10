@@ -1,6 +1,6 @@
 # Facheroia
 
-Facheroia is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Jasna 1, Warsaw on Sat, 14 Nov 2026.
+Facheroia is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Jasna 1, Warsaw on Sat, 14 Nov 2026.
 
 Facheroia is a techno and house artist based in Ukraine, with 41 gigs on soundcheck across Berlin, Krakow, Poznan and Warsaw and 1 more. Often billed alongside Richie Beige, PAWEL (PL) and nuarrrrr. Next up: Jasna 1, Warsaw on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Facheroia is a techno and house artist based in Ukraine, with 41 gigs on soundch
 
 Richie Beige, PAWEL (PL), nuarrrrr
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/facheroia/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/facheroia/)*

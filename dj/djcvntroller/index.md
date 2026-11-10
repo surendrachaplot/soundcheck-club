@@ -1,6 +1,6 @@
 # DJ Cvntroller
 
-DJ Cvntroller is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Ilses Erika, Leipzig on Fri, 4 Dec 2026.
+DJ Cvntroller is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Ilses Erika, Leipzig on Fri, 4 Dec 2026.
 
 DJ Cvntroller is a techno and trance artist based in Germany, with 4 gigs on soundcheck across Leipzig. Often billed alongside KETA PERRY, EinfachWinter and VLUNA. Next up: Ilses Erika, Leipzig on Fri 4 Dec.
 
@@ -20,4 +20,4 @@ DJ Cvntroller is a techno and trance artist based in Germany, with 4 gigs on sou
 
 KETA PERRY, EinfachWinter, VLUNA
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djcvntroller/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djcvntroller/)*

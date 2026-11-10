@@ -1,6 +1,6 @@
 # Juniör
 
-Juniör is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Downtown Los Angeles, Los Angeles on Fri, 4 Dec 2026.
+Juniör is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Downtown Los Angeles, Los Angeles on Fri, 4 Dec 2026.
 
 Juniör is a house and techno artist based in United States of America, with 6 gigs on soundcheck across Los Angeles. Often billed alongside Scott Tillett, John Smith and Stacy Christine. Next up: TBA - Downtown Los Angeles, Los Angeles on Fri 4 Dec.
 
@@ -22,4 +22,4 @@ Juniör is a house and techno artist based in United States of America, with 6 g
 
 Scott Tillett, John Smith, Stacy Christine
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/junior-usa/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/junior-usa/)*

@@ -1,6 +1,6 @@
 # de.lus
 
-de.lus is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at 618 DC, Washington DC on Fri, 13 Nov 2026.
+de.lus is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at 618 DC, Washington DC on Fri, 13 Nov 2026.
 
 de.lus is a hardcore and techno artist based in United States of America, with 4 gigs on soundcheck across Washington DC. Often billed alongside mollygotmetrippin, ILUSM and Trinity Forever. Next up: 618 DC, Washington DC on Fri 13 Nov.
 
@@ -20,4 +20,4 @@ de.lus is a hardcore and techno artist based in United States of America, with 4
 
 mollygotmetrippin, ILUSM, Trinity Forever
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/de.lus/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/de.lus/)*

@@ -1,6 +1,6 @@
 # IRA DELTA
 
-IRA DELTA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - SECRET WAREHOUSE, Berlin on Sat, 12 Dec 2026.
+IRA DELTA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - SECRET WAREHOUSE, Berlin on Sat, 12 Dec 2026.
 
 IRA DELTA is a techno and house artist, with 4 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Gianmarco Silvetti, Niktech and CRAVO. Next up: TBA - SECRET WAREHOUSE, Berlin on Sat 12 Dec.
 
@@ -20,4 +20,4 @@ IRA DELTA is a techno and house artist, with 4 gigs on soundcheck across Berlin 
 
 Gianmarco Silvetti, Niktech, CRAVO
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iradelta/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iradelta/)*

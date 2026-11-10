@@ -1,8 +1,8 @@
 # Mitch Elliott
 
-Mitch Elliott is a Noise and Experimental artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Forestlimit, Tokyo on Fri, 13 Nov 2026.
+Mitch Elliott is a Noise and Experimental artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Forestlimit, Tokyo on Fri, 13 Nov 2026.
 
-Mitch Elliott is a noise and experimental artist, with 5 gigs on soundcheck across Hanoi, Osaka, Sydney and Tokyo. Often billed alongside Aspara, Lucas Abela and Manticora. Next up: Forestlimit, Tokyo on Fri 13 Nov.
+Mitch Elliott is a noise and experimental artist based in Australia, with 5 gigs on soundcheck across Hanoi, Osaka, Sydney and Tokyo. Often billed alongside Aspara, Lucas Abela and Manticora. Next up: Forestlimit, Tokyo on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ Mitch Elliott is a noise and experimental artist, with 5 gigs on soundcheck acro
 
 Aspara, Lucas Abela, Manticora
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mitchelliott/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mitchelliott/)*

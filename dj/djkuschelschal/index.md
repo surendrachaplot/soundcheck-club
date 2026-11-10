@@ -1,6 +1,6 @@
 # Dj Kuschelschal
 
-Dj Kuschelschal is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at ÆDEN, Berlin on Sat, 28 Nov 2026.
+Dj Kuschelschal is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at ÆDEN, Berlin on Sat, 28 Nov 2026.
 
 Dj Kuschelschal is a techno and trance artist based in Germany, with 4 gigs on soundcheck across Berlin, Cologne and Frankfurt. Often billed alongside ARPL, Bellville and Chris Brid. Next up: ÆDEN, Berlin on Sat 28 Nov.
 
@@ -20,4 +20,4 @@ Dj Kuschelschal is a techno and trance artist based in Germany, with 4 gigs on s
 
 ARPL, Bellville, Chris Brid
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djkuschelschal/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djkuschelschal/)*

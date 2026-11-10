@@ -1,6 +1,6 @@
 # Gemüt
 
-Gemüt is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at DEX, Moscow on Fri, 11 Dec 2026.
+Gemüt is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at DEX, Moscow on Fri, 11 Dec 2026.
 
 Gemüt is an industrial and techno artist based in Russia, with 5 gigs on soundcheck across Bangkok, Moscow and Saint Petersburg. Often billed alongside ALOD, Chain Damage and JULIA. Next up: DEX, Moscow on Fri 11 Dec.
 
@@ -21,4 +21,4 @@ Gemüt is an industrial and techno artist based in Russia, with 5 gigs on soundc
 
 ALOD, Chain Damage, JULIA
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gemut/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gemut/)*

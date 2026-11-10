@@ -1,6 +1,6 @@
 # Coven HQ
 
-Coven HQ is a music venue in London with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "FERAL FRIDAY presents BIMINI & ETHAN LIVE" on Fri, 13 Nov 2026.
+Coven HQ is a music venue in London with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "FERAL FRIDAY presents BIMINI & ETHAN LIVE" on Fri, 13 Nov 2026.
 
 Coven HQ is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Bimini. See dates, start times and who's playing. 30 Old Compton Street, W1D 4UR, London, UK.
 
@@ -15,4 +15,4 @@ Coven HQ is a music venue in London listed on soundcheck. 2 upcoming gigs, with 
 
 30 Old Compton Street, W1D 4UR, London, UK, London
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/coven-hq/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/coven-hq/)*

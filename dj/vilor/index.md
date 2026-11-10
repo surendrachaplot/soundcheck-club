@@ -1,6 +1,6 @@
 # Vilor
 
-Vilor is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Subcero Club, Madrid on Sat, 14 Nov 2026.
+Vilor is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Subcero Club, Madrid on Sat, 14 Nov 2026.
 
 Vilor is an electronica and techno artist based in Spain, with 4 gigs on soundcheck across Madrid. Often billed alongside ARSA and Montse. Next up: Subcero Club, Madrid on Sat 14 Nov.
 
@@ -20,4 +20,4 @@ Vilor is an electronica and techno artist based in Spain, with 4 gigs on soundch
 
 ARSA, Montse
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vilor/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vilor/)*

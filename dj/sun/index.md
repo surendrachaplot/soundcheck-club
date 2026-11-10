@@ -1,6 +1,6 @@
 # DJ Sun
 
-DJ Sun is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Les Enfants Brillants, Barcelona on Sat, 19 Dec 2026.
+DJ Sun is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Les Enfants Brillants, Barcelona on Sat, 19 Dec 2026.
 
 DJ Sun is a techno and house artist based in Lithuania, with 5 gigs on soundcheck across Barcelona, Berlin, Geneva and Paris. Often billed alongside Miss Manu, ALI3N and Aaryon. Next up: Les Enfants Brillants, Barcelona on Sat 19 Dec.
 
@@ -21,4 +21,4 @@ DJ Sun is a techno and house artist based in Lithuania, with 5 gigs on soundchec
 
 Miss Manu, ALI3N, Aaryon
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sun/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sun/)*

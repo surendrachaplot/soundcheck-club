@@ -1,6 +1,6 @@
 # smokeylegatta
 
-smokeylegatta is a Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at La Cheetah Club, Glasgow on Fri, 27 Nov 2026.
+smokeylegatta is a Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at La Cheetah Club, Glasgow on Fri, 27 Nov 2026.
 
 smokeylegatta is a garage artist based in United Kingdom, with 4 gigs on soundcheck across Glasgow. Often billed alongside hiRobbie, Casnova and Ethan. Next up: La Cheetah Club, Glasgow on Fri 27 Nov.
 
@@ -20,4 +20,4 @@ smokeylegatta is a garage artist based in United Kingdom, with 4 gigs on soundch
 
 hiRobbie, Casnova, Ethan
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/smokeylegatta/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/smokeylegatta/)*

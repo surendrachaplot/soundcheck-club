@@ -1,8 +1,8 @@
 # Radius
 
-Radius is a music venue in Chicago with 26 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Frost Children" on Thu, 12 Nov 2026.
+Radius is a music venue in Chicago with 30 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Frost Children" on Thu, 12 Nov 2026.
 
-Radius is a music venue in Chicago listed on soundcheck. 26 upcoming gigs, with line-ups including 10cust, Adiel, AEREA and Armand Van Helden and 2 more. See dates, start times and who's playing. 640 West Cermak Road Chicago, Illinois 60616, USA.
+Radius is a music venue in Chicago listed on soundcheck. 30 upcoming gigs, with line-ups including 10cust, Adiel, AEREA and Armand Van Helden and 2 more. See dates, start times and who's playing. 640 West Cermak Road Chicago, Illinois 60616, USA.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Radius is a music venue in Chicago listed on soundcheck. 26 upcoming gigs, with 
 
 640 West Cermak Road Chicago, Illinois 60616, USA, Chicago
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/radius/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/radius/)*

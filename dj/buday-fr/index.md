@@ -1,6 +1,6 @@
 # Buday
 
-Buday is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at KitKatClub, Berlin on Fri, 13 Nov 2026.
+Buday is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at KitKatClub, Berlin on Fri, 13 Nov 2026.
 
 Buday is a techno and house artist based in France, with 21 gigs on soundcheck across Amsterdam, Berlin, Bratislava and Brussels and 4 more. Often billed alongside Mar/us, Cristian Marras and BOYCA. Next up: KitKatClub, Berlin on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Buday is a techno and house artist based in France, with 21 gigs on soundcheck a
 
 Mar/us, Cristian Marras, BOYCA
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/buday-fr/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/buday-fr/)*

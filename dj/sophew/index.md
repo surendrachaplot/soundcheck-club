@@ -1,6 +1,6 @@
 # sophew
 
-sophew is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Het Bos, Antwerp on Sat, 21 Nov 2026.
+sophew is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Het Bos, Antwerp on Sat, 21 Nov 2026.
 
 sophew is a techno and bass artist based in Belgium, with 5 gigs on soundcheck across Antwerp, Brussels, Philadelphia and Singapore. Often billed alongside Bonaventure, Butchpm and DJ Nervoso. Next up: Het Bos, Antwerp on Sat 21 Nov.
 
@@ -21,4 +21,4 @@ sophew is a techno and bass artist based in Belgium, with 5 gigs on soundcheck a
 
 Bonaventure, Butchpm, DJ Nervoso
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sophew/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sophew/)*

@@ -1,6 +1,6 @@
 # Kassa Boat
 
-Kassa Boat is a music venue in Budapest with 7 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Ivy Lab: A Farewell Tour" on Sat, 14 Nov 2026.
+Kassa Boat is a music venue in Budapest with 7 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Ivy Lab: A Farewell Tour" on Sat, 14 Nov 2026.
 
 Kassa Boat is a music venue in Budapest listed on soundcheck. 7 upcoming gigs, with line-ups including Axel Karakasis, Beta, Cvrdwell and Daniel Avery and 2 more. See dates, start times and who's playing. 1011 Budapest Szilágyi Dezső square dock 2.
 
@@ -20,4 +20,4 @@ Kassa Boat is a music venue in Budapest listed on soundcheck. 7 upcoming gigs, w
 
 1011 Budapest Szilágyi Dezső square dock 2, Budapest
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/kassa-boat/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/kassa-boat/)*

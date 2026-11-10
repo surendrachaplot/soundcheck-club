@@ -1,6 +1,6 @@
 # Laia
 
-Laia is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Elysia, Basel on Sat, 14 Nov 2026.
+Laia is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Elysia, Basel on Sat, 14 Nov 2026.
 
 Laia is a techno and house artist based in Spain, with 134 gigs on soundcheck across Amsterdam, Barcelona, Basel and Belgrade and 16 more. Often billed alongside Roll Dann, Shadow Hrym (ES) and The Lady Machine. Next up: Elysia, Basel on Sat 14 Nov.
 
@@ -32,4 +32,4 @@ Laia is a techno and house artist based in Spain, with 134 gigs on soundcheck ac
 
 Roll Dann, Shadow Hrym (ES), The Lady Machine
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laia/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laia/)*

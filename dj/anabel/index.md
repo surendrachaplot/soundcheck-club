@@ -1,6 +1,6 @@
 # Anabel
 
-Anabel is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Tribunales , Buenos Aires on Sat, 21 Nov 2026.
+Anabel is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Tribunales , Buenos Aires on Sat, 21 Nov 2026.
 
 Anabel is a house and techno artist based in Argentina, with 16 gigs on soundcheck across Buenos Aires. Often billed alongside Manu Oubiña, LUKAS and ALYOSHA. Next up: TBA - Tribunales , Buenos Aires on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Anabel is a house and techno artist based in Argentina, with 16 gigs on soundche
 
 Manu Oubiña, LUKAS (4), ALYOSHA
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anabel/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anabel/)*

@@ -1,6 +1,6 @@
 # Richard Sen
 
-Richard Sen is a House and Acid artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Love Shack LDN, London on Sat, 28 Nov 2026.
+Richard Sen is a House and Acid artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Love Shack LDN, London on Sat, 28 Nov 2026.
 
 Richard Sen is a house and acid artist based in United Kingdom, with 42 gigs on soundcheck across Aberdeen, Amsterdam, Belfast and Bergen and 14 more. Often billed alongside Chez de Milo, Crazy P and DJ Subaru. Next up: Love Shack LDN, London on Sat 28 Nov.
 
@@ -28,4 +28,4 @@ Richard Sen is a house and acid artist based in United Kingdom, with 42 gigs on 
 
 Chez de Milo, Crazy P, DJ Subaru
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/richardsen/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/richardsen/)*

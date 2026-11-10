@@ -1,6 +1,6 @@
 # Pedestrian
 
-Pedestrian is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Milneys, Melbourne on Fri, 4 Dec 2026.
+Pedestrian is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Milneys, Melbourne on Fri, 4 Dec 2026.
 
 Pedestrian is a minimal and tech house artist based in United Kingdom, with 5 gigs on soundcheck across London, Manchester and Melbourne. Often billed alongside Amaliah, Ham and Jive Talk. Next up: Milneys, Melbourne on Fri 4 Dec.
 
@@ -21,4 +21,4 @@ Pedestrian is a minimal and tech house artist based in United Kingdom, with 5 gi
 
 Amaliah, Ham (5), Jive Talk
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pedestrian/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pedestrian/)*

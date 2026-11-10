@@ -1,6 +1,6 @@
 # Simbasōl
 
-Simbasōl is a House and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at NWHR, Montreal on Fri, 27 Nov 2026.
+Simbasōl is a House and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at NWHR, Montreal on Fri, 27 Nov 2026.
 
 Simbasōl is a house and club artist based in Canada, with 8 gigs on soundcheck across Montreal. Often billed alongside FAMÜ, Hillel Shabtai and Max Mignot. Next up: NWHR, Montreal on Fri 27 Nov.
 
@@ -24,4 +24,4 @@ Simbasōl is a house and club artist based in Canada, with 8 gigs on soundcheck 
 
 FAMÜ, Hillel Shabtai, Max Mignot
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simbasol/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simbasol/)*

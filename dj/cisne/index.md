@@ -1,6 +1,6 @@
 # Cisne
 
-Cisne is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Bossa Nova Civic Club, New York City on Thu, 19 Nov 2026.
+Cisne is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Bossa Nova Civic Club, New York City on Thu, 19 Nov 2026.
 
 Cisne is a club and techno artist based in United States of America, with 51 gigs on soundcheck across Montreal, New York City and Philadelphia. Often billed alongside ARCHANGEL (US), Archangel and Jasmine Infiniti. Next up: Bossa Nova Civic Club, New York City on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Cisne is a club and techno artist based in United States of America, with 51 gig
 
 ARCHANGEL (US), Archangel, Jasmine Infiniti
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cisne/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cisne/)*

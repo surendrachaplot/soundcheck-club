@@ -1,6 +1,6 @@
 # Sakr (AU)
 
-Sakr (AU) is a IDM and Noise artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at The Vanguard, Sydney on Thu, 17 Dec 2026.
+Sakr (AU) is a IDM and Noise artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at The Vanguard, Sydney on Thu, 17 Dec 2026.
 
 Sakr (AU) is an idm and noise artist based in Australia, with 4 gigs on soundcheck across Berlin, London, South East and Sydney. Often billed alongside AM sin, Aesylr and Aleromaze. Next up: The Vanguard, Sydney on Thu 17 Dec.
 
@@ -17,4 +17,4 @@ Sakr (AU) is an idm and noise artist based in Australia, with 4 gigs on soundche
 
 AM sin, Aesylr, Aleromaze
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sakr-2/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sakr-2/)*

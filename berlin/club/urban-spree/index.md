@@ -1,6 +1,6 @@
 # Urban Spree
 
-Urban Spree is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Bragolin + Carrellee // Urban Spree, Berlin" on Thu, 19 Nov 2026.
+Urban Spree is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Bragolin + Carrellee // Urban Spree, Berlin" on Thu, 19 Nov 2026.
 
 Urban Spree is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with line-ups including Darin Epsilon, Gareden, Philipp Strobel and SCHNEIDER and 1 more. See dates, start times and who's playing. Revaler Str. 99, 10245 Berlin, Germany.
 
@@ -21,4 +21,4 @@ Urban Spree is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, wi
 
 Revaler Str. 99, 10245 Berlin, Germany, Berlin
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/urban-spree/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/urban-spree/)*

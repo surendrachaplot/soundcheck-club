@@ -1,6 +1,6 @@
 # Luke Dean_
 
-Luke Dean_ is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - 546 Collins Street, Melbourne, Melbourne on Fri, 20 Nov 2026.
+Luke Dean_ is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - 546 Collins Street, Melbourne, Melbourne on Fri, 20 Nov 2026.
 
 Luke Dean_ is a house and tech house artist based in United Kingdom, with 122 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Brighton and 35 more. Often billed alongside Max Dean, Locky and L.P. Rhythm. Next up: TBA - 546 Collins Street, Melbourne, Melbourne on Fri 20 Nov.
 
@@ -34,4 +34,4 @@ Luke Dean_ is a house and tech house artist based in United Kingdom, with 122 gi
 
 Max Dean, Locky, L.P. Rhythm
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukedean_/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukedean_/)*

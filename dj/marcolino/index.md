@@ -1,6 +1,6 @@
 # Marcolino
 
-Marcolino is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at REC Napoli, Naples on Fri, 1 Jan 2027.
+Marcolino is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at REC Napoli, Naples on Fri, 1 Jan 2027.
 
 Marcolino is a techno and electro artist based in Italy, with 93 gigs on soundcheck across Barcelona, Berlin, Bologna and Bucharest and 9 more. Often billed alongside GNMR, IRIDE and Giammarco Orsini. Next up: REC Napoli, Naples on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Marcolino is a techno and electro artist based in Italy, with 93 gigs on soundch
 
 GNMR, IRIDE, Giammarco Orsini
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcolino/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcolino/)*

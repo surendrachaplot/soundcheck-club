@@ -1,6 +1,6 @@
 # jinnin
 
-jinnin is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at UNDERCITY, Seoul on Fri, 13 Nov 2026.
+jinnin is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at UNDERCITY, Seoul on Fri, 13 Nov 2026.
 
 jinnin is a techno and bass artist based in South Korea, with 4 gigs on soundcheck across Seoul. Often billed alongside AEIDA, CREAM and Earthbender. Next up: UNDERCITY, Seoul on Fri 13 Nov.
 
@@ -20,4 +20,4 @@ jinnin is a techno and bass artist based in South Korea, with 4 gigs on soundche
 
 AEIDA, CREAM (2), Earthbender
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jinnin/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jinnin/)*

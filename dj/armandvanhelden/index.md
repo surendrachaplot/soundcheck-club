@@ -1,6 +1,6 @@
 # Armand Van Helden
 
-Armand Van Helden is a House and Disco artist with 10 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Verbier, Switzerland on Fri, 20 Nov 2026.
+Armand Van Helden is a House and Disco artist with 10 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Verbier, Switzerland on Fri, 20 Nov 2026.
 
 Armand Van Helden is a house and disco artist based in United States of America, with 126 gigs on soundcheck across Amsterdam, Athens, Auckland and Barcelona and 43 more. Often billed alongside MiNNA, Fatzo and Oden. Next up: Verbier, Switzerland on Fri 20 Nov.
 
@@ -34,4 +34,4 @@ Armand Van Helden is a house and disco artist based in United States of America,
 
 MiNNA, Fatzo, Oden
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/armandvanhelden/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/armandvanhelden/)*

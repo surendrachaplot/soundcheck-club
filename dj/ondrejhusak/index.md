@@ -1,6 +1,6 @@
 # Ondrej Husak
 
-Ondrej Husak is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at pul.pit, Brno on Sat, 21 Nov 2026.
+Ondrej Husak is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at pul.pit, Brno on Sat, 21 Nov 2026.
 
 Ondrej Husak is a house and tech house artist based in Czech Republic, with 4 gigs on soundcheck across Brno and Prague. Often billed alongside Roman Rai, Täino and ANĪC. Next up: pul.pit, Brno on Sat 21 Nov.
 
@@ -20,4 +20,4 @@ Ondrej Husak is a house and tech house artist based in Czech Republic, with 4 gi
 
 Roman Rai, Täino, ANĪC
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ondrejhusak/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ondrejhusak/)*

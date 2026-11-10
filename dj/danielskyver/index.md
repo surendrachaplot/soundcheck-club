@@ -1,6 +1,6 @@
 # Daniel Skyver
 
-Daniel Skyver is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Music Club Pulse 22, Prague on Sat, 14 Nov 2026.
+Daniel Skyver is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Music Club Pulse 22, Prague on Sat, 14 Nov 2026.
 
 Daniel Skyver is a trance and techno artist based in United Kingdom, with 7 gigs on soundcheck across London and Prague. Often billed alongside ATB, Amy Wiles and Mark Landragin. Next up: Music Club Pulse 22, Prague on Sat 14 Nov.
 
@@ -23,4 +23,4 @@ Daniel Skyver is a trance and techno artist based in United Kingdom, with 7 gigs
 
 ATB, Amy Wiles, Mark Landragin
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielskyver/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielskyver/)*

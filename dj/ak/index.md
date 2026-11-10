@@ -1,6 +1,6 @@
 # A K
 
-A K is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
+A K is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
 
 A K is a techno and house artist based in United States of America, with 21 gigs on soundcheck across Berlin, Chicago, Detroit and Ibiza and 5 more. Often billed alongside Blackmoonchild, DJ Etta (US) and DJ Minx. Next up: TBA - Jacks Bar, South Korea on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ A K is a techno and house artist based in United States of America, with 21 gigs
 
 Blackmoonchild, DJ Etta (US), DJ Minx
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ak/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ak/)*

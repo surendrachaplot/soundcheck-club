@@ -1,6 +1,6 @@
 # Bear Winder
 
-Bear Winder is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Crowdedhouse, London on Sat, 24 Apr 2027.
+Bear Winder is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Crowdedhouse, London on Sat, 24 Apr 2027.
 
 Bear Winder is a house and garage artist based in United Kingdom, with 44 gigs on soundcheck across Amsterdam, Edinburgh, London and Los Angeles and 2 more. Often billed alongside Zak Miller, Jeremy Sylvester and Tiffany Quinn. Next up: Crowdedhouse, London on Sat 24 Apr.
 
@@ -25,4 +25,4 @@ Bear Winder is a house and garage artist based in United Kingdom, with 44 gigs o
 
 Zak Miller, Jeremy Sylvester, Tiffany Quinn
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bearwinder/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bearwinder/)*

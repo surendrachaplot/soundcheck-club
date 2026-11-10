@@ -1,6 +1,6 @@
 # Kyk
 
-Kyk is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at DEX, Moscow on Fri, 11 Dec 2026.
+Kyk is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at DEX, Moscow on Fri, 11 Dec 2026.
 
 Kyk is an industrial and techno artist based in Russia, with 6 gigs on soundcheck across Bangkok, Budapest, Moscow and Saint Petersburg. Often billed alongside Chain Damage, JULIA and ALOD. Next up: DEX, Moscow on Fri 11 Dec.
 
@@ -22,4 +22,4 @@ Kyk is an industrial and techno artist based in Russia, with 6 gigs on soundchec
 
 Chain Damage, JULIA, ALOD
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kyk-1/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kyk-1/)*

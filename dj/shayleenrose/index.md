@@ -1,6 +1,6 @@
 # Shayleen Rose
 
-Shayleen Rose is a Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at The Glove That Fits, London on Thu, 19 Nov 2026.
+Shayleen Rose is a Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at The Glove That Fits, London on Thu, 19 Nov 2026.
 
 Shayleen Rose is a techno artist based in United Kingdom, with 4 gigs on soundcheck across London. Often billed alongside Aniaef, dj people's princess and ANTØNIØ.. Next up: The Glove That Fits, London on Thu 19 Nov.
 
@@ -20,4 +20,4 @@ Shayleen Rose is a techno artist based in United Kingdom, with 4 gigs on soundch
 
 Aniaef, dj people's princess, ANTØNIØ.
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shayleenrose/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shayleenrose/)*

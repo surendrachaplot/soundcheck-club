@@ -1,13 +1,14 @@
 # Coeus
 
-Coeus is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Mute Beach, Buenos Aires on Sat, 21 Nov 2026.
+Coeus is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Kult, Belgrade on Fri, 13 Nov 2026.
 
-Coeus is a techno and house artist based in Serbia, with 52 gigs on soundcheck across Amsterdam, Athens, Basel and Beijing and 18 more. Often billed alongside Justrice, Ilija Djokovic and Jean B. Next up: Mute Beach, Buenos Aires on Sat 21 Nov.
+Coeus is a techno and house artist based in Serbia, with 53 gigs on soundcheck across Amsterdam, Athens, Basel and Beijing and 18 more. Often billed alongside Justrice, Ilija Djokovic and Jean B. Next up: Kult, Belgrade on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | Kult | Belgrade |
 | Sat, 21 Nov 2026 | Mute Beach | Buenos Aires |
 
 ## Recently played
@@ -25,4 +26,4 @@ Coeus is a techno and house artist based in Serbia, with 52 gigs on soundcheck a
 
 Justrice, Ilija Djokovic, Jean B
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/coeus/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/coeus/)*

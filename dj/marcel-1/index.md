@@ -1,8 +1,8 @@
 # Marcel (1)
 
-Marcel (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Golden Sheaf, New-south-wales on Sat, 26 Dec 2026.
+Marcel (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Golden Sheaf, New-south-wales on Sat, 26 Dec 2026.
 
-Marcel is a techno and house artist, with 9 gigs on soundcheck across Berlin, London, Mexico City and New South Wales and 2 more. Often billed alongside Jaxx, AALEX and ADHDj (UK). Next up: The Golden Sheaf, New South Wales on Sat 26 Dec.
+Marcel is a techno and house artist based in Croatia, with 9 gigs on soundcheck across Berlin, London, Mexico City and New South Wales and 2 more. Often billed alongside Jaxx, AALEX and ADHDj (UK). Next up: The Golden Sheaf, New South Wales on Sat 26 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Marcel is a techno and house artist, with 9 gigs on soundcheck across Berlin, Lo
 
 Jaxx, AALEX, ADHDj (UK)
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcel-1/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcel-1/)*

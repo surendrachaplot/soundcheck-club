@@ -1,6 +1,6 @@
 # Studionotte
 
-Studionotte is a music venue in Milan with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "DIG! feat. Sam Ruffillo (Toy Tonics), Lele Sacchi + more" on Fri, 13 Nov 2026.
+Studionotte is a music venue in Milan with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "DIG! feat. Sam Ruffillo (Toy Tonics), Lele Sacchi + more" on Fri, 13 Nov 2026.
 
 Studionotte is a music venue in Milan listed on soundcheck. 3 upcoming gigs, with line-ups including Acidgigi, Duwe, Kingsizebed and Lele Sacchi and 2 more. See dates, start times and who's playing. Via Feltre, 30, 20132 Milano MI.
 
@@ -16,4 +16,4 @@ Studionotte is a music venue in Milan listed on soundcheck. 3 upcoming gigs, wit
 
 Via Feltre, 30, 20132 Milano MI, Milan
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/studionotte/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/studionotte/)*

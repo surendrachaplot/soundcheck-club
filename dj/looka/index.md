@@ -1,6 +1,6 @@
 # LOOKA
 
-LOOKA is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Gradska Kavana, Croatia on Sat, 21 Nov 2026.
+LOOKA is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Gradska Kavana, Croatia on Sat, 21 Nov 2026.
 
 LOOKA is a house and tech house artist based in Croatia, with 16 gigs on soundcheck across Croatia, Ibiza, Mannheim and Zagreb. Often billed alongside Fabian Jakopetz, Teo Harouda and Mario Daic. Next up: Gradska Kavana, Croatia on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ LOOKA is a house and tech house artist based in Croatia, with 16 gigs on soundch
 
 Fabian Jakopetz, Teo Harouda, Mario Daic
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/looka/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/looka/)*

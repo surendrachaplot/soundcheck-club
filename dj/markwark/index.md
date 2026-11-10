@@ -1,6 +1,6 @@
 # Mark Wark
 
-Mark Wark is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Malaga Sin City, Milan on Sun, 15 Nov 2026.
+Mark Wark is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Malaga Sin City, Milan on Sun, 15 Nov 2026.
 
 Mark Wark is a techno and downtempo artist based in Italy, with 45 gigs on soundcheck across Bologna, Houston and Milan. Often billed alongside Zirko, Re Pigi and AllaDerivaLontano. Next up: Malaga Sin City, Milan on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Mark Wark is a techno and downtempo artist based in Italy, with 45 gigs on sound
 
 Zirko, Re Pigi, AllaDerivaLontano
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markwark/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markwark/)*

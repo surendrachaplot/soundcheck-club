@@ -1,6 +1,6 @@
-# Loveletter to... Geese at Movers
+# Loveletter to... geese at Movers
 
-Loveletter to... Geese at Movers on Fri 20 Nov, Nottingham. Pop and Post-Punk. See the line-up on soundcheck.
+Loveletter to... geese at Movers on Fri 20 Nov, Nottingham. Pop and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Rebecca & Fiona
 
-Rebecca & Fiona is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Stinsen, Stockholm on Fri, 27 Nov 2026.
+Rebecca & Fiona is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Stinsen, Stockholm on Fri, 27 Nov 2026.
 
 Rebecca & Fiona are an electronic duo based in Sweden, with 4 gigs on soundcheck across Copenhagen, Gothenburg and Stockholm. Often billed alongside Antony Szmierek, Bella Sarris and DJ Seinfeld. Next up: Stinsen, Stockholm on Fri 27 Nov.
 
@@ -20,4 +20,4 @@ Rebecca & Fiona are an electronic duo based in Sweden, with 4 gigs on soundcheck
 
 Antony Szmierek, Bella Sarris, DJ Seinfeld
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rebeccafiona/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rebeccafiona/)*

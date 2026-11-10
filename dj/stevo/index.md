@@ -1,6 +1,6 @@
 # Stevo
 
-Stevo is a House and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Bakery, Liverpool on Fri, 26 Feb 2027.
+Stevo is a House and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Bakery, Liverpool on Fri, 26 Feb 2027.
 
 Stevo is a house and drum & bass artist based in Germany, with 26 gigs on soundcheck across Berlin, Birmingham, Budapest and Hamburg and 3 more. Often billed alongside Nick Beringer, Yoshitaca and lievar. Next up: The Bakery, Liverpool on Fri 26 Feb.
 
@@ -25,4 +25,4 @@ Stevo is a house and drum & bass artist based in Germany, with 26 gigs on soundc
 
 Nick Beringer, Yoshitaca, lievar
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stevo/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stevo/)*

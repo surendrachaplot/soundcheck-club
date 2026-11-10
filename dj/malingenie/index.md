@@ -1,8 +1,8 @@
 # Malin Genie
 
-Malin Genie is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Bricks, London on Fri, 20 Nov 2026.
+Malin Genie is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Bricks, London on Fri, 20 Nov 2026.
 
-Malin Genie is a house and deep house artist based in Netherlands, with 12 gigs on soundcheck across Amsterdam, Dublin, London and Milan and 2 more. Often billed alongside Chris Stussy, Hannecart and Michel de Hey. Next up: Bricks, London on Fri 20 Nov.
+Malin Genie is a house and deep house artist based in Netherlands, with 12 gigs on soundcheck across Amsterdam, Dublin, London and Milan and 2 more. Often billed alongside CHRIS STASSY, Hannecart and Michel de Hey. Next up: Bricks, London on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Malin Genie is a house and deep house artist based in Netherlands, with 12 gigs 
 
 ## Shares bills with
 
-Chris Stussy, Hannecart, Michel de Hey
+CHRIS STASSY, Hannecart, Michel de Hey
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/malingenie/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/malingenie/)*

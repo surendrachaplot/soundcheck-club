@@ -1,6 +1,6 @@
 # Abdul Qadim Haqq
 
-Abdul Qadim Haqq is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Stone House Bar, Detroit on Wed, 11 Nov 2026.
+Abdul Qadim Haqq is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Stone House Bar, Detroit on Wed, 11 Nov 2026.
 
 Abdul Qadim Haqq is a techno and house artist based in United States of America, with 6 gigs on soundcheck across Detroit, London, Osaka and Vancouver. Often billed alongside DJ Compufunk, Dopplereffekt and Drexciya. Next up: The Stone House Bar, Detroit on Wed 11 Nov.
 
@@ -22,4 +22,4 @@ Abdul Qadim Haqq is a techno and house artist based in United States of America,
 
 DJ Compufunk, Dopplereffekt, Drexciya
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/abdulqadimhaqq/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/abdulqadimhaqq/)*

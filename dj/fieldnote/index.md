@@ -1,6 +1,6 @@
 # Field Note
 
-Field Note is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Igloofest, Montreal on Thu, 4 Feb 2027.
+Field Note is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Igloofest, Montreal on Thu, 4 Feb 2027.
 
 Field Note is a house and techno artist, with 46 gigs on soundcheck across Montreal and Toronto. Often billed alongside h1bou, Dijipoune and Lia Plutonic. Next up: Igloofest, Montreal on Thu 4 Feb.
 
@@ -25,4 +25,4 @@ Field Note is a house and techno artist, with 46 gigs on soundcheck across Montr
 
 h1bou, Dijipoune, Lia Plutonic
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fieldnote/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fieldnote/)*

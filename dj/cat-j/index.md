@@ -1,8 +1,8 @@
 # Cat-J
 
-Cat-J is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at elipamanoke, Leipzig on Fri, 20 Nov 2026.
+Cat-J is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at elipamanoke, Leipzig on Fri, 20 Nov 2026.
 
-Cat-J is a trance and techno artist based in Germany, with 9 gigs on soundcheck across Berlin, Dresden, Erfurt and Hamburg and 2 more. Often billed alongside Cara Elizabeth, DYNASTY and Meta Chrom. Next up: elipamanoke, Leipzig on Fri 20 Nov.
+Cat-J is a trance and techno artist based in Germany, with 9 gigs on soundcheck across Berlin, Dresden, Erfurt and Hamburg and 2 more. Often billed alongside Cara Elizabeth, Meta Chrom and Millie Forsberg. Next up: elipamanoke, Leipzig on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Cat-J is a trance and techno artist based in Germany, with 9 gigs on soundcheck 
 
 ## Shares bills with
 
-Cara Elizabeth, DYNASTY, Meta Chrom
+Cara Elizabeth, Meta Chrom, Millie Forsberg
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cat-j/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cat-j/)*

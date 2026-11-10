@@ -1,6 +1,6 @@
 # pvkvsv
 
-pvkvsv is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Jackworth Ginger Beer, Pittsburgh on Thu, 19 Nov 2026.
+pvkvsv is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Jackworth Ginger Beer, Pittsburgh on Thu, 19 Nov 2026.
 
 pvkvsv is a club and experimental artist based in United States of America, with 33 gigs on soundcheck across Pittsburgh. Often billed alongside Ondo / Gusto, Formosa and DJ Furniture. Next up: Jackworth Ginger Beer, Pittsburgh on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ pvkvsv is a club and experimental artist based in United States of America, with
 
 Ondo / Gusto, Formosa (1), DJ Furniture
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pvkvsv/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pvkvsv/)*

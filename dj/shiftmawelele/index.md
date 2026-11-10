@@ -1,6 +1,6 @@
 # Shift Mawelele
 
-Shift Mawelele is a Minimal Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at And Club, Johannesburg on Fri, 13 Nov 2026.
+Shift Mawelele is a Minimal Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at And Club, Johannesburg on Fri, 13 Nov 2026.
 
 Shift Mawelele is a minimal techno and house artist based in South Africa, with 4 gigs on soundcheck across Cape Town and Johannesburg. Often billed alongside Aeska, Bailey Ibbs and Daryn Steytler. Next up: And Club, Johannesburg on Fri 13 Nov.
 
@@ -20,4 +20,4 @@ Shift Mawelele is a minimal techno and house artist based in South Africa, with 
 
 Aeska, Bailey Ibbs, Daryn Steytler
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shiftmawelele/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shiftmawelele/)*

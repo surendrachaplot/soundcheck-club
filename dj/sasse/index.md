@@ -1,6 +1,6 @@
 # Sasse
 
-Sasse is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Kater, Berlin on Fri, 4 Dec 2026.
+Sasse is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Kater, Berlin on Fri, 4 Dec 2026.
 
 Sasse is a techno and house artist based in Germany, with 11 gigs on soundcheck across Berlin, Frankfurt and Stuttgart. Often billed alongside Filippo Moscatello, Jepe and Alexander Maier. Next up: Kater, Berlin on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Sasse is a techno and house artist based in Germany, with 11 gigs on soundcheck 
 
 Filippo Moscatello, Jepe, Alexander Maier
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sasse/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sasse/)*

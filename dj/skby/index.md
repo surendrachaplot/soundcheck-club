@@ -1,6 +1,6 @@
 # skby
 
-skby is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Ciało, Wroclaw on Fri, 18 Dec 2026.
+skby is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Ciało, Wroclaw on Fri, 18 Dec 2026.
 
 skby is a techno and trance artist based in Poland, with 6 gigs on soundcheck across Wroclaw. Often billed alongside Hegemoth, Donija and Glassz. Next up: Ciało, Wroclaw on Fri 18 Dec.
 
@@ -22,4 +22,4 @@ skby is a techno and trance artist based in Poland, with 6 gigs on soundcheck ac
 
 Hegemoth, Donija, Glassz
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skby/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skby/)*

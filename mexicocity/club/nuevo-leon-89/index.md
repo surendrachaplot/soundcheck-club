@@ -1,6 +1,6 @@
 # Nuevo Leon 89
 
-Nuevo Leon 89 is a music venue in Mexico City with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "SARRADA CAPITAL" on Sat, 21 Nov 2026.
+Nuevo Leon 89 is a music venue in Mexico City with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "SARRADA CAPITAL" on Sat, 21 Nov 2026.
 
 Nuevo Leon 89 is a music venue in Mexico City listed on soundcheck. 2 upcoming gigs, with line-ups including Bea Trinidad, Bustin' Loose and Monsieur Van Pratt. See dates, start times and who's playing. Nuevo Leon 89, Cuauhtemoc, 06100.
 
@@ -15,4 +15,4 @@ Nuevo Leon 89 is a music venue in Mexico City listed on soundcheck. 2 upcoming g
 
 Nuevo Leon 89, Cuauhtemoc, 06100, Mexico City
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/nuevo-leon-89/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/nuevo-leon-89/)*

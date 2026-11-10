@@ -1,6 +1,6 @@
 # Caligari_
 
-Caligari_ is a Dubstep and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at People's Leisure Club, Edinburgh on Sat, 28 Nov 2026.
+Caligari_ is a Dubstep and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at People's Leisure Club, Edinburgh on Sat, 28 Nov 2026.
 
 Caligari_ is a dubstep and techno artist based in United Kingdom, with 12 gigs on soundcheck across Edinburgh and London. Often billed alongside DR-O, Caldera and Labyrinthine. Next up: People's Leisure Club, Edinburgh on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Caligari_ is a dubstep and techno artist based in United Kingdom, with 12 gigs o
 
 DR-O, Caldera, Labyrinthine
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caligari_/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caligari_/)*

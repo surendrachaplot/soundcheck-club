@@ -1,6 +1,6 @@
 # AALIYAH
 
-AALIYAH is a Techno and R&B artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Outernet Live, London on Sat, 12 Dec 2026.
+AALIYAH is a Techno and R&B artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Outernet Live, London on Sat, 12 Dec 2026.
 
 AALIYAH is a techno and r&b artist based in Germany, with 34 gigs on soundcheck across Berlin, Dresden, Hamburg and London and 3 more. Often billed alongside Ciara, Drake (DE) and Nelly. Next up: Outernet Live, London on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ AALIYAH is a techno and r&b artist based in Germany, with 34 gigs on soundcheck 
 
 Ciara, Drake (DE), Nelly
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aaliyah/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aaliyah/)*

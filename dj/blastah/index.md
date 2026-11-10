@@ -1,6 +1,6 @@
 # blastah
 
-blastah is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 13 Nov 2026.
+blastah is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 13 Nov 2026.
 
 blastah is a club and experimental artist based in Portugal, with 33 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 13 more. Often billed alongside Eleftheria, Madjestic Kasual and Chickenmilk dot com. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ blastah is a club and experimental artist based in Portugal, with 33 gigs on sou
 
 Eleftheria, Madjestic Kasual, Chickenmilk dot com
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blastah/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blastah/)*

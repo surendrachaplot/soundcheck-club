@@ -1,6 +1,6 @@
 # Dina Summer
 
-Dina Summer is a New Wave and EBM artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Straze, Greifswald, Mecklenburg-vorpommern on Fri, 20 Nov 2026.
+Dina Summer is a New Wave and EBM artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Straze, Greifswald, Mecklenburg-vorpommern on Fri, 20 Nov 2026.
 
 Dina Summer is a new wave and ebm artist based in Germany, with 20 gigs on soundcheck across Berlin, Bogotá, Bologna and Frankfurt and 8 more. Often billed alongside Local Suicide, Kalipo and Skelesys. Next up: Straze, Greifswald, Mecklenburg Vorpommern on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Dina Summer is a new wave and ebm artist based in Germany, with 20 gigs on sound
 
 Local Suicide, Kalipo, Skelesys
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dinasummer/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dinasummer/)*

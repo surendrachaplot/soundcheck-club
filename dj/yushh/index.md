@@ -1,6 +1,6 @@
 # Yushh
 
-Yushh is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Tresor / Globus, Berlin on Fri, 4 Dec 2026.
+Yushh is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Tresor / Globus, Berlin on Fri, 4 Dec 2026.
 
 Yushh is a bass and techno artist based in United Kingdom, with 122 gigs on soundcheck across Adelaide, Amsterdam, Athens and Barcelona and 37 more. Often billed alongside Breaka, Dubrunner and Batu. Next up: Tresor / Globus, Berlin on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Yushh is a bass and techno artist based in United Kingdom, with 122 gigs on soun
 
 Breaka, Dubrunner, Batu
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yushh/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yushh/)*

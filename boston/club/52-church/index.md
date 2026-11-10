@@ -1,6 +1,6 @@
 # 52 Church
 
-52 Church is a music venue in Boston with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "fruitstand's 3rd birthday: fruit, a queer pop party" on Sat, 14 Nov 2026.
+52 Church is a music venue in Boston with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "fruitstand's 3rd birthday: fruit, a queer pop party" on Sat, 14 Nov 2026.
 
 52 Church is a music venue in Boston listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 52 Church St, Cambridge, Massachusetts 02138.
 
@@ -15,4 +15,4 @@
 
 52 Church St, Cambridge, Massachusetts 02138, Boston
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/boston/club/52-church/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/boston/club/52-church/)*

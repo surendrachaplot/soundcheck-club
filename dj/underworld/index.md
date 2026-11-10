@@ -1,6 +1,6 @@
 # Underworld
 
-Underworld is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Mandarine Park & Tent, Buenos Aires on Thu, 26 Nov 2026.
+Underworld is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Mandarine Park & Tent, Buenos Aires on Thu, 26 Nov 2026.
 
 Underworld is a techno and house artist based in United Kingdom, with 40 gigs on soundcheck across Austin, Barcelona, Belfast and Berlin and 19 more. Often billed alongside KI/KI, X CLUB. and DJ Holographic. Next up: Mandarine Park & Tent, Buenos Aires on Thu 26 Nov.
 
@@ -26,4 +26,4 @@ Underworld is a techno and house artist based in United Kingdom, with 40 gigs on
 
 KI/KI, X CLUB., DJ Holographic
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/underworld/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/underworld/)*

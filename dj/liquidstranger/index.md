@@ -1,6 +1,6 @@
 # Liquid Stranger
 
-Liquid Stranger is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Echostage, Washington DC on Fri, 5 Feb 2027.
+Liquid Stranger is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Echostage, Washington DC on Fri, 5 Feb 2027.
 
 Liquid Stranger is a bass and dubstep artist based in Sweden, with 18 gigs on soundcheck across Amsterdam, Austin, Chicago and London and 7 more. Often billed alongside Galantis, KREAM and Zedd. Next up: Echostage, Washington DC on Fri 5 Feb.
 
@@ -25,4 +25,4 @@ Liquid Stranger is a bass and dubstep artist based in Sweden, with 18 gigs on so
 
 Galantis, KREAM, Zedd
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/liquidstranger/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/liquidstranger/)*

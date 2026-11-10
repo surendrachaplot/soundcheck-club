@@ -1,6 +1,6 @@
 # rodzerA
 
-rodzerA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at ÆDEN, Berlin on Wed, 11 Nov 2026.
+rodzerA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at ÆDEN, Berlin on Wed, 11 Nov 2026.
 
 rodzerA is a techno and house artist based in Argentina, with 10 gigs on soundcheck across Berlin. Often billed alongside Brane, Ilyas S and Nexus J. Next up: ÆDEN, Berlin on Wed 11 Nov.
 
@@ -25,4 +25,4 @@ rodzerA is a techno and house artist based in Argentina, with 10 gigs on soundch
 
 Brane, Ilyas S, Nexus J
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rodzera/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rodzera/)*

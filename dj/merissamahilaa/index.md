@@ -1,6 +1,6 @@
 # Merissa Mahilaa
 
-Merissa Mahilaa is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Tulum Valencia, Valencia on Sat, 5 Dec 2026.
+Merissa Mahilaa is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Tulum Valencia, Valencia on Sat, 5 Dec 2026.
 
 Merissa Mahilaa is a house and tech house artist based in Germany, with 39 gigs on soundcheck across Amsterdam, Austria, Barcelona and Berlin and 8 more. Often billed alongside Jermaine Dotson, Alexander Aurel and Melanie Ribbe. Next up: Tulum Valencia, Valencia on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Merissa Mahilaa is a house and tech house artist based in Germany, with 39 gigs 
 
 Jermaine Dotson, Alexander Aurel, Melanie Ribbe
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/merissamahilaa/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/merissamahilaa/)*

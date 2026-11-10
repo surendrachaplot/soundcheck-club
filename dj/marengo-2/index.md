@@ -1,6 +1,6 @@
 # marengo (2)
 
-marengo (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Neue Welle, Leipzig on Fri, 20 Nov 2026.
+marengo (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Neue Welle, Leipzig on Fri, 20 Nov 2026.
 
 marengo is a techno and house artist based in Germany, with 22 gigs on soundcheck across Berlin, Dresden and Leipzig. Often billed alongside mp.ulle, MIDNXGHT and DJ G1NA R.. Next up: Neue Welle, Leipzig on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ marengo is a techno and house artist based in Germany, with 22 gigs on soundchec
 
 mp.ulle, MIDNXGHT, DJ G1NA R.
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marengo-2/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marengo-2/)*

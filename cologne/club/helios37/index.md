@@ -1,6 +1,6 @@
 # Helios37
 
-Helios37 is a music venue in Cologne with 8 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "#1111 CLUBY2Kölsch" on Wed, 11 Nov 2026.
+Helios37 is a music venue in Cologne with 8 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "#1111 CLUBY2Kölsch" on Wed, 11 Nov 2026.
 
 Helios37 is a music venue in Cologne listed on soundcheck. 8 upcoming gigs, with line-ups including AELVA K, Belasto, Bensonius and DJ SODBRENNEN and 2 more. See dates, start times and who's playing. Heliosstr. 37, 50825 Köln, Deutschland.
 
@@ -14,11 +14,11 @@ Helios37 is a music venue in Cologne listed on soundcheck. 8 upcoming gigs, with
 | Fri, 27 Nov 2026 | King Kong Kicks • Indie Pop & Hypes + Peinlo Pop Party • Helios37 • Köln |  |
 | Sat, 28 Nov 2026 | SACHSENTRANCE AT Helios37 | Belasto, HKKPTR, RaverPik, Sabu!, The Jakob Sister |
 | Fri, 4 Dec 2026 | Ascension with DJ SODBRENNEN, Dreifachzucker B2B Knstlr, Jenni Zimnol at Helios37 | Bensonius, DJ SODBRENNEN, Marco Eisenberg |
-| Fri, 18 Dec 2026 | Xmas Krawall All Weekend Long |  |
+| Fri, 18 Dec 2026 | Xmas Krawall All Weekend Long | Rosilicious, ZAHNATZIN, two girls one mom |
 | Sat, 30 Jan 2027 | BZZBZZ TECHNO x RCL | HENNESY, Pamela Rave, SCHMALLE, SPEEDO (2), Trancestrudel, flotti kotti |
 
 ## Address
 
 Heliosstr. 37, 50825 Köln, Deutschland, Cologne
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/helios37/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/helios37/)*

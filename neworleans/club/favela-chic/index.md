@@ -1,6 +1,6 @@
 # Favela Chic
 
-Favela Chic is a music venue in New Orleans with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. The next is "Lacuna & Premonition present: Machinedrum + Sam Binga" on Sat, 5 Dec 2026.
+Favela Chic is a music venue in New Orleans with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. The next is "Lacuna & Premonition present: Machinedrum + Sam Binga" on Sat, 5 Dec 2026.
 
 Favela Chic is a music venue in New Orleans listed on soundcheck. 1 upcoming gig, with line-ups including Machinedrum, Sam Binga and virtue_signal. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Favela Chic is a music venue in New Orleans listed on soundcheck. 1 upcoming gig
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Lacuna & Premonition present: Machinedrum + Sam Binga | Machinedrum, Sam Binga, virtue_signal |
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/neworleans/club/favela-chic/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/neworleans/club/favela-chic/)*

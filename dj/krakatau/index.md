@@ -1,6 +1,6 @@
 # Krakatau
 
-Krakatau is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
+Krakatau is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
 
 Krakatau is a house and electronica artist based in Australia, with 5 gigs on soundcheck across Melbourne and Victoria. Often billed alongside Intermood, Babycino and DJ Subaru. Next up: The Wildlands, Melbourne on Fri 20 Nov.
 
@@ -21,4 +21,4 @@ Krakatau is a house and electronica artist based in Australia, with 5 gigs on so
 
 Intermood, Babycino, DJ Subaru
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krakatau/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krakatau/)*

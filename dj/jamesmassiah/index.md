@@ -1,6 +1,6 @@
 # James Massiah
 
-James Massiah is a Experimental and Dancehall artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at The White Hotel, Manchester on Fri, 20 Nov 2026.
+James Massiah is a Experimental and Dancehall artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at The White Hotel, Manchester on Fri, 20 Nov 2026.
 
 James Massiah is an experimental and dancehall artist based in United Kingdom, with 102 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Brisbane and 17 more. Often billed alongside Lord Tusk, Kemarr and Richard Akingbehin. Next up: The White Hotel, Manchester on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ James Massiah is an experimental and dancehall artist based in United Kingdom, w
 
 Lord Tusk, Kemarr, Richard Akingbehin
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesmassiah/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesmassiah/)*

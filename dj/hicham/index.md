@@ -1,13 +1,14 @@
 # Hicham
 
-Hicham is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Dual, Bangkok on Sat, 14 Nov 2026.
+Hicham is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at The Back Room, Bali on Fri, 13 Nov 2026.
 
-Hicham is a house and techno artist, with 58 gigs on soundcheck across Bangkok, Barcelona, Berlin and Bologna and 20 more. Often billed alongside Onur Özer, Alex Picone and Ancut. Next up: Dual, Bangkok on Sat 14 Nov.
+Hicham is a house and techno artist, with 59 gigs on soundcheck across Bali, Bangkok, Barcelona and Berlin and 21 more. Often billed alongside Onur Özer, Alex Picone and Ancut. Next up: The Back Room, Bali on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | The Back Room | Bali |
 | Sat, 14 Nov 2026 | Dual | Bangkok |
 | Sat, 19 Dec 2026 | Soap House - Ex Saponerie Mira Lanza | Rome |
 
@@ -26,4 +27,4 @@ Hicham is a house and techno artist, with 58 gigs on soundcheck across Bangkok, 
 
 Onur Özer, Alex Picone, Ancut
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hicham/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hicham/)*

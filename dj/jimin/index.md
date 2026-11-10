@@ -1,6 +1,6 @@
 # Jimin
 
-Jimin is a House and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Village Underground Barcelona, Barcelona on Fri, 13 Nov 2026.
+Jimin is a House and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Village Underground Barcelona, Barcelona on Fri, 13 Nov 2026.
 
 Jimin is a house and club artist based in South Korea, with 151 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 5 more. Often billed alongside Jesse You, Acidwork and FOI (SK). Next up: Village Underground Barcelona, Barcelona on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Jimin is a house and club artist based in South Korea, with 151 gigs on soundche
 
 Jesse You, Acidwork, FOI (SK)
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jimin/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jimin/)*

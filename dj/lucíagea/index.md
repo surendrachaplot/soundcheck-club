@@ -1,6 +1,6 @@
 # Lucía Gea
 
-Lucía Gea is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Spook Club, Valencia on Sat, 14 Nov 2026.
+Lucía Gea is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Spook Club, Valencia on Sat, 14 Nov 2026.
 
 Lucía Gea is a techno and tech house artist based in Spain, with 76 gigs on soundcheck across Barcelona, Berlin, Hamburg and Ibiza and 3 more. Often billed alongside Dj badtrip, Finalversion3 and Ariezzz. Next up: Spook Club, Valencia on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Lucía Gea is a techno and tech house artist based in Spain, with 76 gigs on sou
 
 Dj badtrip, Finalversion3, Ariezzz
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucíagea/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucíagea/)*

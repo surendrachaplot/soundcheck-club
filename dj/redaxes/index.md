@@ -1,6 +1,6 @@
 # Red Axes
 
-Red Axes is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Village Underground, London on Fri, 13 Nov 2026.
+Red Axes is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Village Underground, London on Fri, 13 Nov 2026.
 
 Red Axes is a house and techno artist based in Israel, with 91 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 33 more. Often billed alongside DJ Tennis, Adiel and Bakke. Next up: Village Underground, London on Fri 13 Nov.
 
@@ -30,4 +30,4 @@ Red Axes is a house and techno artist based in Israel, with 91 gigs on soundchec
 
 DJ Tennis, Adiel, Bakke
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/redaxes/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/redaxes/)*

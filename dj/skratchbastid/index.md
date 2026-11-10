@@ -1,6 +1,6 @@
 # Skratch Bastid
 
-Skratch Bastid is a Hip-Hop and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Amsterdam Brewhouse, Toronto on Sat, 21 Nov 2026.
+Skratch Bastid is a Hip-Hop and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Amsterdam Brewhouse, Toronto on Sat, 21 Nov 2026.
 
 Skratch Bastid is a hip-hop and funk / soul artist based in Canada, with 23 gigs on soundcheck across London, Miami, Nashville and New York City and 3 more. Often billed alongside Dvize, Rich Medina and Swee. Next up: Amsterdam Brewhouse, Toronto on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Skratch Bastid is a hip-hop and funk / soul artist based in Canada, with 23 gigs
 
 Dvize, Rich Medina, Swee
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skratchbastid/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skratchbastid/)*

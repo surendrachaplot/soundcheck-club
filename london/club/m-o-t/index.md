@@ -1,6 +1,6 @@
 # M.O.T
 
-M.O.T is a music venue in London with 36 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "MADDISON WINDFARM / WEHMUT + more" on Wed, 11 Nov 2026.
+M.O.T is a music venue in London with 36 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "MADDISON WINDFARM / WEHMUT + more" on Wed, 11 Nov 2026.
 
 M.O.T is a music venue in London listed on soundcheck. 36 upcoming gigs, with line-ups including A.N.T, abs8lute, Aldonna and Amanda Mussi and 2 more. See dates, start times and who's playing. Orion Business Centre, Surrey Canal Rd SE14 5RT.
 
@@ -17,10 +17,10 @@ M.O.T is a music venue in London listed on soundcheck. 36 upcoming gigs, with li
 | Sat, 14 Nov 2026 | Homoelectric @ Venue M.O.T  | Jamie Bull |
 | Sat, 14 Nov 2026 | Hotflush: Scuba (All Night Long) - Venue MOT | Scuba |
 | Thu, 19 Nov 2026 | Factory Setting - live modular synth, techno and experimental - AM sin - bbecks + more | AM sin, Kinga Janicka, Simon Mós, bbecks |
-| Thu, 19 Nov 2026 | strange-domain presents: Dawn | ARKNGL |
+| Thu, 19 Nov 2026 | strange-domain presents: Dawn | ARKNGL, CESKA |
 
 ## Address
 
 Orion Business Centre, Surrey Canal Rd SE14 5RT, London
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/m-o-t/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/m-o-t/)*

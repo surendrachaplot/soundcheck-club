@@ -1,6 +1,6 @@
 # MARA BRAVO
 
-MARA BRAVO is a Progressive House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Kowalski, Stuttgart on Fri, 13 Nov 2026.
+MARA BRAVO is a Progressive House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Kowalski, Stuttgart on Fri, 13 Nov 2026.
 
 MARA BRAVO is a progressive house and deep house artist based in Spain, with 72 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Frankfurt and 4 more. Often billed alongside Lupe Republic, Cucut and ERRANT. Next up: Kowalski, Stuttgart on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ MARA BRAVO is a progressive house and deep house artist based in Spain, with 72 
 
 Lupe Republic, Cucut, ERRANT
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marabravo/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marabravo/)*

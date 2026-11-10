@@ -1,6 +1,6 @@
 # Frank Rayo
 
-Frank Rayo is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at UWE Reeperbahn, Hamburg on Sat, 14 Nov 2026.
+Frank Rayo is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at UWE Reeperbahn, Hamburg on Sat, 14 Nov 2026.
 
 Frank Rayo is a techno and industrial artist based in Colombia, with 68 gigs on soundcheck across Amsterdam, Bogotá, Cologne and Hamburg and 6 more. Often billed alongside AH-N!CE, DJ BTM and Zulu. Next up: UWE Reeperbahn, Hamburg on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Frank Rayo is a techno and industrial artist based in Colombia, with 68 gigs on 
 
 AH-N!CE, DJ BTM, Zulu
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frankrayo/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frankrayo/)*

@@ -1,8 +1,8 @@
 # Selecky
 
-Selecky is a Techno and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at radial, London on Sun, 15 Nov 2026.
+Selecky is a Techno and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at radial, London on Sun, 15 Nov 2026.
 
-Selecky is a techno and disco artist, with 19 gigs on soundcheck across London. Often billed alongside Tafkanik, teleopath and David Ramsay. Next up: radial, London on Sun 15 Nov.
+Selecky is a techno and disco artist based in United Kingdom, with 19 gigs on soundcheck across London. Often billed alongside Tafkanik, teleopath and David Ramsay. Next up: radial, London on Sun 15 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Selecky is a techno and disco artist, with 19 gigs on soundcheck across London. 
 
 Tafkanik, teleopath, David Ramsay
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/selecky/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/selecky/)*

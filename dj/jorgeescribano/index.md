@@ -1,6 +1,6 @@
 # Jorge Escribano
 
-Jorge Escribano is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Secret Location, Central on Sat, 5 Dec 2026.
+Jorge Escribano is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Secret Location, Central on Sat, 5 Dec 2026.
 
 Jorge Escribano is a house and techno artist based in Spain, with 86 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 26 more. Often billed alongside Cecilio, Laurine and Avo (ES). Next up: TBA - Secret Location, Central on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Jorge Escribano is a house and techno artist based in Spain, with 86 gigs on sou
 
 Cecilio, Laurine, Avo (ES)
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jorgeescribano/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jorgeescribano/)*

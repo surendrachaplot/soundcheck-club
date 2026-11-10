@@ -1,6 +1,6 @@
 # Green River Haze
 
-Green River Haze is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Strays, Detroit on Sat, 14 Nov 2026.
+Green River Haze is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Strays, Detroit on Sat, 14 Nov 2026.
 
 Green River Haze is a techno and electro artist based in United States of America, with 57 gigs on soundcheck across Detroit, Lisbon, Mexico City and New York City and 2 more. Often billed alongside 2Lanes, Ashton Swinton and sts (US). Next up: The Strays, Detroit on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Green River Haze is a techno and electro artist based in United States of Americ
 
 2Lanes, Ashton Swinton, sts (US)
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/greenriverhaze/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/greenriverhaze/)*

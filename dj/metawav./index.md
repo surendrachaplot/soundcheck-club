@@ -1,6 +1,6 @@
 # Metawav.
 
-Metawav. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at The Vault 313, Detroit on Sat, 28 Nov 2026.
+Metawav. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Vault 313, Detroit on Sat, 28 Nov 2026.
 
 Metawav. is a techno and house artist based in United States of America, with 5 gigs on soundcheck across Detroit. Often billed alongside Drop Catch, 88 MPH and Austin Buck. Next up: The Vault 313, Detroit on Sat 28 Nov.
 
@@ -21,4 +21,4 @@ Metawav. is a techno and house artist based in United States of America, with 5 
 
 Drop Catch, 88 MPH, Austin Buck
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/metawav./)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/metawav./)*
