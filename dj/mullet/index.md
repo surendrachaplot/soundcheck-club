@@ -1,14 +1,13 @@
 # Mullet
 
-Mullet is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Dr. Dou Social Club, Barcelona on Tue, 10 Nov 2026.
+Mullet is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Bridge 48, Barcelona on Sat, 21 Nov 2026.
 
-Mullet is a house and disco artist based in Spain, with 19 gigs on soundcheck across Barcelona. Often billed alongside Ale Hope, Andrea Zarco and Atari Stacey. Next up: Dr. Dou Social Club, Barcelona on Tue 10 Nov.
+Mullet is a house and disco artist based in Spain, with 19 gigs on soundcheck across Barcelona. Often billed alongside Ale Hope, Andrea Zarco and Atari Stacey. Next up: Bridge 48, Barcelona on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 10 Nov 2026 | Dr. Dou Social Club | Barcelona |
 | Sat, 21 Nov 2026 | Bridge 48 | Barcelona |
 
 ## Recently played

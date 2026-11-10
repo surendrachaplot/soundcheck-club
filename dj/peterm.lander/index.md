@@ -2,7 +2,7 @@
 
 peter m.lander is a Techno and Deep House artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Rooftop Henriksberg, Gothenburg on Sun, 15 Nov 2026.
 
-peter m.lander is a techno and deep house artist, with 26 gigs on soundcheck across Gothenburg. Often billed alongside Pietro Gentile, John H (SE) and Samuel L Session. Next up: Rooftop Henriksberg, Gothenburg on Sun 15 Nov.
+peter m.lander is a techno and deep house artist based in Sweden, with 26 gigs on soundcheck across Gothenburg. Often billed alongside Pietro Gentile, John H (SE) and Samuel L Session. Next up: Rooftop Henriksberg, Gothenburg on Sun 15 Nov.
 
 ## Upcoming shows
 

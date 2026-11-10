@@ -8,7 +8,7 @@ LAB theCLUB is a music venue in Madrid listed on soundcheck. 12 upcoming gigs, w
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Joris Voorn pres. A Trip To Galaxy | Joris Voorn |
+| Fri, 13 Nov 2026 | Joris Voorn pres. A Trip To Galaxy | Joris Voorn, PAULITTAHH |
 | Sat, 14 Nov 2026 | COCOA pres ART NO LOGIA ALL NIGHT LONG | ART NO LOGIA |
 | Sat, 28 Nov 2026 | Noventeros |  |
 | Sat, 28 Nov 2026 | Wally Lopez World Tour Closing | Wally Lopez |

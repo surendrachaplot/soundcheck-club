@@ -13,7 +13,7 @@ Südpol is a music venue in Hamburg listed on soundcheck. 7 upcoming gigs, with 
 | Sat, 21 Nov 2026 | Tempest | Folic State, Kamila, Sonorous, Surreal (DE) |
 | Thu, 26 Nov 2026 | Flohpol |  |
 | Fri, 27 Nov 2026 | Expedition Südpol | ALI3N, Alessia Ceruti, Barabass, CAMI (DE), Friz07, Joël Ruck, Lisbird, Lou Velours, Maurice Mino, Mimi Love, Muttiah Ashnim, Naicet, Rocko Garoni, Shanda, Sin:port, Susi&Paula, face* |
-| Fri, 4 Dec 2026 | AOS 4 YEARS | ATAVEM, Anton Jonathan, Barmbold, Beste Hira, DJ Babyblade, DJ SOURCE, Daisy Weweh, EliaHaze, JSPRV35, L.A.tifa, Mac Declos, SZELEST, Sophti, T.PLAYBOI, guuc20459 |
+| Fri, 4 Dec 2026 | AOS 4 YEARS | ATAVEM, Anton Jonathan, Barmbold, Beste Hira, DJ Babyblade, DJ SOURCE, Daisy Weweh, EliaHaze, JSPRV35, L.A.tifa, Mac Declos, SZELEST, Sophti, T.PLAYBOI |
 | Fri, 18 Dec 2026 | unceen with ANDATA & HOOM | ANDATA, HOOM, Natalox, SPORTMANN, unjani |
 
 ## Address

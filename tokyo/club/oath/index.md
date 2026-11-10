@@ -1,14 +1,13 @@
 # Oath
 
-Oath is a music venue in Tokyo with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Oath Tuesday" on Tue, 10 Nov 2026.
+Oath is a music venue in Tokyo with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "FUNKTION" on Thu, 12 Nov 2026.
 
-Oath is a music venue in Tokyo listed on soundcheck. 4 upcoming gigs, with line-ups including BIN, Celter, HANNAH (NL) and HARUTO and 2 more. See dates, start times and who's playing. 1-6-5-B1F Dogenzaka, Shibuya-ku, Tokyo, 150-0043 Japan.
+Oath is a music venue in Tokyo listed on soundcheck. 3 upcoming gigs, with line-ups including BIN, Celter, HANNAH (NL) and HARUTO and 2 more. See dates, start times and who's playing. 1-6-5-B1F Dogenzaka, Shibuya-ku, Tokyo, 150-0043 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 10 Nov 2026 | Oath Tuesday |  |
 | Thu, 12 Nov 2026 | FUNKTION | Omar Santis, Ren Yokoi |
 | Fri, 13 Nov 2026 | Oath Friday | HANNAH (NL), HARUTO, KUBOTA, monielu.h |
 | Sat, 14 Nov 2026 | Oath Saturday | BIN, Celter |

@@ -1,14 +1,13 @@
 # Miniwax
 
-Miniwax is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Finesse Rekords" on Sat, 7 Nov 2026.
+Miniwax is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. The next is "Rencontre Sameer Ahmad" on Wed, 11 Nov 2026.
 
-Miniwax is a music venue in Paris listed on soundcheck. 2 upcoming gigs, with line-ups including Carole Fe. See dates, start times and who's playing.
+Miniwax is a music venue in Paris listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Finesse Rekords |  |
-| Sun, 8 Nov 2026 | DJ set Carole Fe | Carole Fe |
+| Wed, 11 Nov 2026 | Rencontre Sameer Ahmad |  |
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/miniwax/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/miniwax/)*

@@ -2,7 +2,7 @@
 
 Seren 4 Ever is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at WALL & WALL, Tokyo on Sun, 15 Nov 2026.
 
-Seren 4 Ever is an electronica and house artist, with 7 gigs on soundcheck across London, Manchester, Tokyo and Vienna. Often billed alongside Kekeneko, nuum and 1LDK. Next up: WALL & WALL, Tokyo on Sun 15 Nov.
+Seren 4 Ever is an electronica and house artist based in United Kingdom, with 7 gigs on soundcheck across London, Manchester, Tokyo and Vienna. Often billed alongside Kekeneko, nuum and 1LDK. Next up: WALL & WALL, Tokyo on Sun 15 Nov.
 
 ## Upcoming shows
 

@@ -1,13 +1,14 @@
 # Dean Turnley
 
-Dean Turnley is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Matakana Country Park, Auckland on Sun, 27 Dec 2026.
+Dean Turnley is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at District Arena at Terraform, Bangalore on Fri, 18 Dec 2026.
 
-Dean Turnley is a house and tech house artist based in Australia, with 35 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Belfast and 26 more. Often billed alongside Hamdi, Jamback and MPH. Next up: Matakana Country Park, Auckland on Sun 27 Dec.
+Dean Turnley is a house and tech house artist based in Australia, with 36 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Bangalore and 27 more. Often billed alongside Hamdi, Jamback and MPH. Next up: District Arena at Terraform, Bangalore on Fri 18 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Dec 2026 | District Arena at Terraform | Bangalore |
 | Sun, 27 Dec 2026 | Matakana Country Park | Auckland |
 | Mon, 28 Dec 2026 | TBA - Hagley Park | Christchurch |
 | Mon, 28 Dec 2026 | Glenworth Valley | Sydney |

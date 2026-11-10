@@ -1,13 +1,14 @@
 # CLEIDO
 
-CLEIDO is a Afro House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at The Werehouse, Durban on Fri, 11 Dec 2026.
+CLEIDO is a Afro House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Koda, Nairobi on Fri, 4 Dec 2026.
 
-CLEIDO is an afro house and deep house artist based in United Kingdom, with 62 gigs on soundcheck across Amsterdam, Cape Town, Durban and Ibiza and 3 more. Often billed alongside DJEFF, Dillan Desai and Thakzin. Next up: The Werehouse, Durban on Fri 11 Dec.
+CLEIDO is an afro house and deep house artist based in United Kingdom, with 63 gigs on soundcheck across Amsterdam, Cape Town, Durban and Ibiza and 4 more. Often billed alongside DJEFF, Dillan Desai and Thakzin. Next up: Koda, Nairobi on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Dec 2026 | Koda | Nairobi |
 | Fri, 11 Dec 2026 | The Werehouse | Durban |
 | Sat, 12 Dec 2026 | 1Fox Precinct | Johannesburg |
 | Sat, 19 Dec 2026 | Old Town, Woodstock | Cape Town |

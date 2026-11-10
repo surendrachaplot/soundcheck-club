@@ -1,8 +1,8 @@
 # Roman Flügel
 
-Roman Flügel is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Modeci, Seoul on Thu, 12 Nov 2026.
+Roman Flügel is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Modeci, Seoul on Thu, 12 Nov 2026.
 
-Roman Flügel is a techno and house artist based in Germany, with 234 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 79 more. Often billed alongside Gerd Janson, Sven Vath and Ivan Smagghe. Next up: Modeci, Seoul on Thu 12 Nov.
+Roman Flügel is a techno and house artist based in Germany, with 235 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 80 more. Often billed alongside Gerd Janson, Sven Vath and Ivan Smagghe. Next up: Modeci, Seoul on Thu 12 Nov.
 
 ## Upcoming shows
 
@@ -14,12 +14,12 @@ Roman Flügel is a techno and house artist based in Germany, with 234 gigs on so
 | Tue, 17 Nov 2026 | GASHOUDER | Amsterdam |
 | Sat, 21 Nov 2026 | Distillery | Leipzig |
 | Sat, 28 Nov 2026 | Bassiani | Tbilisi |
+| Fri, 4 Dec 2026 | Faith in Strangers | South-east |
 | Sat, 5 Dec 2026 | DRUMSHEDS | London |
 | Sat, 5 Dec 2026 | DRUMSHEDS | London |
 | Sat, 19 Dec 2026 | Specka | Madrid |
 | Sat, 26 Dec 2026 | Galerie Kurzweil | Darmstadt |
 | Thu, 31 Dec 2026 | Marble Bar | Detroit |
-| Thu, 31 Dec 2026 | Signal | New York City |
 
 ## Recently played
 

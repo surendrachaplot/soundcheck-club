@@ -1,8 +1,8 @@
 # Dillinja
 
-Dillinja is a Drum & Bass and Jungle artist with 11 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at fabric, London on Sat, 14 Nov 2026.
+Dillinja is a Drum & Bass and Jungle artist with 12 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at fabric, London on Sat, 14 Nov 2026.
 
-Dillinja is a drum & bass and jungle artist based in United Kingdom, with 138 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Atlanta and 40 more. Often billed alongside IC3, Bryan Gee and MC GQ. Next up: fabric, London on Sat 14 Nov.
+Dillinja is a drum & bass and jungle artist based in United Kingdom, with 139 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Atlanta and 41 more. Often billed alongside IC3, Bryan Gee and MC GQ. Next up: fabric, London on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Dillinja is a drum & bass and jungle artist based in United Kingdom, with 138 gi
 | Fri, 20 Nov 2026 | TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday) | Amsterdam |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
 | Sat, 21 Nov 2026 | Warehouse Elementenstraat | Amsterdam |
+| Sat, 28 Nov 2026 | St Leonards Church - St Leonards | South-east |
 | Fri, 4 Dec 2026 | The Prospect Building | Bristol |
 | Sat, 5 Dec 2026 | Slaktkyrkan | Stockholm |
 | Sat, 12 Dec 2026 | Kemistry | Florida |

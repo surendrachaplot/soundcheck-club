@@ -1,8 +1,8 @@
 # Wata Igarashi
 
-Wata Igarashi is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Bassiani, Tbilisi on Fri, 13 Nov 2026.
+Wata Igarashi is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Bassiani, Tbilisi on Fri, 13 Nov 2026.
 
-Wata Igarashi is a techno and house artist based in Japan, with 247 gigs on soundcheck across Adelaide, Amsterdam, Athens and Barcelona and 64 more. Often billed alongside DJ Nobu, CCL and Polygonia. Next up: Bassiani, Tbilisi on Fri 13 Nov.
+Wata Igarashi is a techno and house artist based in Japan, with 248 gigs on soundcheck across Adelaide, Amsterdam, Athens and Barcelona and 64 more. Often billed alongside DJ Nobu, CCL and Polygonia. Next up: Bassiani, Tbilisi on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -18,6 +18,7 @@ Wata Igarashi is a techno and house artist based in Japan, with 247 gigs on soun
 | Fri, 18 Dec 2026 | Abercrombie Hotel | Sydney |
 | Wed, 27 Jan 2027 | TBA - Brooklyn | New York City |
 | Sat, 6 Feb 2027 | fabric | London |
+| Fri, 16 Apr 2027 | TBA - Campground 1H from DTLA | Los-angeles |
 
 ## Recently played
 

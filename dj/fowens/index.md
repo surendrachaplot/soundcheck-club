@@ -2,7 +2,7 @@
 
 fowens is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at gallery 1986, Vilnius on Fri, 25 Dec 2026.
 
-fowens is a house and techno artist, with 6 gigs on soundcheck across Vilnius. Often billed alongside Simas Boo, chet (UK) and A.Certo. Next up: gallery 1986, Vilnius on Fri 25 Dec.
+fowens is a house and techno artist based in Lithuania, with 6 gigs on soundcheck across Vilnius. Often billed alongside Simas Boo, chet (UK) and A.Certo. Next up: gallery 1986, Vilnius on Fri 25 Dec.
 
 ## Upcoming shows
 

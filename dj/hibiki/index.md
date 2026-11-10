@@ -1,14 +1,13 @@
 # HIBIKI
 
-HIBIKI is a Club and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at SEL OCTAGON TOKYO, Tokyo on Tue, 10 Nov 2026.
+HIBIKI is a Club and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at SEL OCTAGON TOKYO, Tokyo on Tue, 24 Nov 2026.
 
-HIBIKI is a club and electro artist based in Japan, with 6 gigs on soundcheck across Amsterdam and Tokyo. Often billed alongside Lemi, kazuma and AMG SAIMURA (TECHVANE). Next up: SEL OCTAGON TOKYO, Tokyo on Tue 10 Nov.
+HIBIKI is a club and electro artist based in Japan, with 6 gigs on soundcheck across Amsterdam and Tokyo. Often billed alongside Lemi, kazuma and AMG SAIMURA (TECHVANE). Next up: SEL OCTAGON TOKYO, Tokyo on Tue 24 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 10 Nov 2026 | SEL OCTAGON TOKYO | Tokyo |
 | Tue, 24 Nov 2026 | SEL OCTAGON TOKYO | Tokyo |
 
 ## Recently played

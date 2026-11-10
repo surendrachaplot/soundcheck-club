@@ -1,15 +1,15 @@
 # Colleen 'Cosmo' Murphy
 
-Colleen 'Cosmo' Murphy is a Disco and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Hidden Grooves, London on Tue, 10 Nov 2026.
+Colleen 'Cosmo' Murphy is a Disco and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Hope House, Leeds on Sat, 14 Nov 2026.
 
-Colleen 'Cosmo' Murphy is a disco and house artist based in United Kingdom, with 91 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 29 more. Often billed alongside Horse Meat Disco, Francois K and Love Injection. Next up: Hidden Grooves, London on Tue 10 Nov.
+Colleen 'Cosmo' Murphy is a disco and house artist based in United Kingdom, with 92 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 30 more. Often billed alongside Horse Meat Disco, Francois K and Love Injection. Next up: Hope House, Leeds on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 10 Nov 2026 | Hidden Grooves | London |
 | Sat, 14 Nov 2026 | Hope House | Leeds |
+| Sat, 14 Nov 2026 | 1756 Naud St. | Los Angeles |
 | Sat, 26 Dec 2026 | TBA - Fortim CE | Brazil |
 
 ## Recently played

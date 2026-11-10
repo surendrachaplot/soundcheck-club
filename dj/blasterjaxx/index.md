@@ -1,13 +1,14 @@
 # Blasterjaxx
 
-Blasterjaxx is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Melrose Ballroom, New York City on Fri, 20 Nov 2026.
+Blasterjaxx is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Magic Stick, Detroit on Fri, 13 Nov 2026.
 
-Blasterjaxx is a techno and house artist based in Netherlands, with 18 gigs on soundcheck across Amsterdam, Austin, Bavaria and Cologne and 10 more. Often billed alongside LNY TNZ, Gammer and Lush Tempora. Next up: Melrose Ballroom, New York City on Fri 20 Nov.
+Blasterjaxx is a techno and house artist based in Netherlands, with 19 gigs on soundcheck across Amsterdam, Austin, Bavaria and Cologne and 11 more. Often billed alongside LNY TNZ, Gammer and Lush Tempora. Next up: Magic Stick, Detroit on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | Magic Stick | Detroit |
 | Fri, 20 Nov 2026 | Melrose Ballroom | New York City |
 | Sat, 21 Nov 2026 | Melrose Ballroom | New York City |
 | Fri, 23 Jul 2027 | Open Beatz Festival | Bavaria |

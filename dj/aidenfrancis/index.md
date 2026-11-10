@@ -1,14 +1,15 @@
 # Aiden Francis
 
-Aiden Francis is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The White Hotel, Manchester on Fri, 27 Nov 2026.
+Aiden Francis is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at The White Hotel, Manchester on Fri, 27 Nov 2026.
 
-Aiden Francis is a house and progressive house artist based in United Kingdom, with 76 gigs on soundcheck across Amsterdam, Athens, Beijing and Berlin and 11 more. Often billed alongside Fastlove, Angel D'lite and Bollibubbles. Next up: The White Hotel, Manchester on Fri 27 Nov.
+Aiden Francis is a house and progressive house artist based in United Kingdom, with 77 gigs on soundcheck across Amsterdam, Athens, Beijing and Berlin and 12 more. Often billed alongside Fastlove, Angel D'lite and Bollibubbles. Next up: The White Hotel, Manchester on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | The White Hotel | Manchester |
+| Fri, 18 Dec 2026 | Castle Mandawa, Rajasthan | Other-regions |
 
 ## Recently played
 

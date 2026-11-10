@@ -2,7 +2,7 @@
 
 Lutzenkirchen is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Bernsteinsee Velten, Brandenburg on Sat, 26 Jun 2027.
 
-Lutzenkirchen is an electronic artist, with 5 gigs on soundcheck across Berlin and Brandenburg. Often billed alongside Basstronauten, Daniel Boon and Diana May. Next up: Bernsteinsee Velten, Brandenburg on Sat 26 Jun.
+Lutzenkirchen is an electronic artist based in Germany, with 5 gigs on soundcheck across Berlin and Brandenburg. Often billed alongside Basstronauten, Daniel Boon and Diana May. Next up: Bernsteinsee Velten, Brandenburg on Sat 26 Jun.
 
 ## Upcoming shows
 

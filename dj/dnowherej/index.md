@@ -1,14 +1,14 @@
 # D[NOWHERE]J
 
-D[NOWHERE]J is a Gqom and Afro Tech artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA, Seoul on Sat, 14 Nov 2026.
+D[NOWHERE]J is a Gqom and Afro Tech artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at BBCB: Beton Brut+Concrete Bar, Seoul on Sat, 14 Nov 2026.
 
-D[NOWHERE]J is a gqom and afro tech artist based in South Africa, with 8 gigs on soundcheck across Berlin, Cape Town, Manchester and Oslo and 2 more. Often billed alongside COOK SWEET, Godblesscomputers and Gojas. Next up: TBA, Seoul on Sat 14 Nov.
+D[NOWHERE]J is a gqom and afro tech artist based in South Africa, with 8 gigs on soundcheck across Berlin, Cape Town, Manchester and Oslo and 2 more. Often billed alongside COOK SWEET, Godblesscomputers and Gojas. Next up: BBCB: Beton Brut+Concrete Bar, Seoul on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | TBA | Seoul |
+| Sat, 14 Nov 2026 | BBCB: Beton Brut+Concrete Bar | Seoul |
 | Fri, 20 Nov 2026 | Forestlimit | Tokyo |
 
 ## Recently played

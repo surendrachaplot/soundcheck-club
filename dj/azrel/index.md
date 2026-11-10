@@ -1,8 +1,8 @@
 # Azrel
 
-Azrel is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Pistil, Seoul on Fri, 13 Nov 2026.
+Azrel is a Trance and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Pistil, Seoul on Fri, 13 Nov 2026.
 
-Azrel is a trance and techno artist based in United Kingdom, with 18 gigs on soundcheck across Bristol, Kyoto, Leeds and London and 3 more. Often billed alongside abejisama, Lil Farm and Loveblade. Next up: Pistil, Seoul on Fri 13 Nov.
+Azrel is a trance and techno artist based in United Kingdom, with 19 gigs on soundcheck across Bristol, Kyoto, Leeds and London and 4 more. Often billed alongside abejisama, Lil Farm and Loveblade. Next up: Pistil, Seoul on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Azrel is a trance and techno artist based in United Kingdom, with 18 gigs on sou
 | Fri, 13 Nov 2026 | Pistil | Seoul |
 | Sat, 14 Nov 2026 | Cakeshop | Seoul |
 | Sun, 22 Nov 2026 | Forestlimit | Tokyo |
+| Fri, 27 Nov 2026 | Heim Shanghai | Shanghai |
 
 ## Recently played
 

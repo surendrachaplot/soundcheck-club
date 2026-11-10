@@ -2,7 +2,7 @@
 
 Bruno Martini is a Electro and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Club Hípico de Santiago, Santiago on Sat, 14 Nov 2026.
 
-Bruno Martini is an electro and tech house artist, with 4 gigs on soundcheck across Mexico City, New York City, Santiago and Sao Paulo. Often billed alongside Aaron Hibell, Analu and Anfisa Letyago. Next up: Club Hípico de Santiago, Santiago on Sat 14 Nov.
+Bruno Martini is an electro and tech house artist based in Brazil, with 4 gigs on soundcheck across Mexico City, New York City, Santiago and Sao Paulo. Often billed alongside Aaron Hibell, Analu and Anfisa Letyago. Next up: Club Hípico de Santiago, Santiago on Sat 14 Nov.
 
 ## Upcoming shows
 

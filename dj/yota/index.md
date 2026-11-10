@@ -1,13 +1,14 @@
 # YOTA
 
-YOTA is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Soul SKG, Thessaloniki on Sat, 5 Dec 2026.
+YOTA is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at The Host, Thessaloniki on Sun, 15 Nov 2026.
 
-YOTA is a house and electronica artist based in Greece, with 18 gigs on soundcheck across Athens, Hanoi, Thessaloniki and Tokyo. Often billed alongside Irena, STOZ and Irene Kimova. Next up: Soul SKG, Thessaloniki on Sat 5 Dec.
+YOTA is a house and electronica artist based in Greece, with 19 gigs on soundcheck across Athens, Hanoi, Thessaloniki and Tokyo. Often billed alongside Irena, STOZ and Irene Kimova. Next up: The Host, Thessaloniki on Sun 15 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 15 Nov 2026 | The Host | Thessaloniki |
 | Sat, 5 Dec 2026 | Soul SKG | Thessaloniki |
 
 ## Recently played

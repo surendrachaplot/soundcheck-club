@@ -1,6 +1,6 @@
 # AOS 4 YEARS at Südpol
 
-AOS 4 YEARS at Südpol on Fri 4 Dec, Hamburg. 15 artists: Anton Jonathan, ATAVEM, Barmbold and Beste Hira and 11 more. Techno and House. See the line-up on soundcheck.
+AOS 4 YEARS at Südpol on Fri 4 Dec, Hamburg. 14 artists: Anton Jonathan, ATAVEM, Barmbold and Beste Hira and 10 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -18,7 +18,6 @@ AOS 4 YEARS at Südpol on Fri 4 Dec, Hamburg. 15 artists: Anton Jonathan, ATAVEM
 - DJ Babyblade
 - DJ SOURCE
 - EliaHaze
-- guuc20459
 - JSPRV35
 - L.A.tifa
 - Mac Declos

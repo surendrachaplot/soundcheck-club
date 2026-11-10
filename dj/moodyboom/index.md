@@ -1,14 +1,13 @@
 # MOODYBOOM
 
-MOODYBOOM is a Techno and Minimal artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Culture Cafe, Bangkok on Tue, 10 Nov 2026.
+MOODYBOOM is a Techno and Minimal artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Culture Cafe, Bangkok on Tue, 17 Nov 2026.
 
-MOODYBOOM is a techno and minimal artist based in Thailand, with 145 gigs on soundcheck across Bali, Bangkok and Hanoi. Often billed alongside Kunanon, DMT Disco and Jayja. Next up: Culture Cafe, Bangkok on Tue 10 Nov.
+MOODYBOOM is a techno and minimal artist based in Thailand, with 145 gigs on soundcheck across Bali, Bangkok and Hanoi. Often billed alongside Kunanon, DMT Disco and Jayja. Next up: Culture Cafe, Bangkok on Tue 17 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 10 Nov 2026 | Culture Cafe | Bangkok |
 | Tue, 17 Nov 2026 | Culture Cafe | Bangkok |
 | Sat, 21 Nov 2026 | Dual | Bangkok |
 | Tue, 24 Nov 2026 | Culture Cafe | Bangkok |

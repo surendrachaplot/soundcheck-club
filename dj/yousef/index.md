@@ -1,13 +1,14 @@
 # Yousef
 
-Yousef is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Blackstone Street Warehouse, Liverpool on Mon, 28 Dec 2026.
+Yousef is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at District Arena at Terraform, Bangalore on Fri, 18 Dec 2026.
 
-Yousef is a house and tech house artist based in United Kingdom, with 41 gigs on soundcheck across Cardiff, Ibiza, Leeds and Liverpool and 9 more. Often billed alongside East End Dubs, Paige Tomlinson and Eats Everything. Next up: Blackstone Street Warehouse, Liverpool on Mon 28 Dec.
+Yousef is a house and tech house artist based in United Kingdom, with 42 gigs on soundcheck across Bangalore, Cardiff, Ibiza and Leeds and 10 more. Often billed alongside East End Dubs, Paige Tomlinson and Eats Everything. Next up: District Arena at Terraform, Bangalore on Fri 18 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Dec 2026 | District Arena at Terraform | Bangalore |
 | Mon, 28 Dec 2026 | Blackstone Street Warehouse | Liverpool |
 
 ## Recently played

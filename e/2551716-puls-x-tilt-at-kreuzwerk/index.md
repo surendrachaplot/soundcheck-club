@@ -1,6 +1,6 @@
 # PULS x TILT at KREUZWERK
 
-PULS x TILT at KREUZWERK on Fri 13 Nov, Berlin. 11 artists: Dj Norma, ENNIO, Greta Spark and HAMY and 7 more. Techno and House. See the line-up on soundcheck.
+PULS x TILT at KREUZWERK on Fri 13 Nov, Berlin. 12 artists: Dj Norma, ENNIO, Faerber and Greta Spark and 8 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ PULS x TILT at KREUZWERK on Fri 13 Nov, Berlin. 11 artists: Dj Norma, ENNIO, Gre
 
 - Dj Norma
 - ENNIO
+- Faerber
 - Greta Spark
 - HAMY
 - Karina Schneider
@@ -19,7 +20,7 @@ PULS x TILT at KREUZWERK on Fri 13 Nov, Berlin. 11 artists: Dj Norma, ENNIO, Gre
 - KVLR
 - N.R.M
 - Ø [Phase]
-- Oblique
+- oblique (DE)
 - SHE/HER
 
 *Source: [soundcheck](https://soundcheck.club/e/2551716-puls-x-tilt-at-kreuzwerk/)*

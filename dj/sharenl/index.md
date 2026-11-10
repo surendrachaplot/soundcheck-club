@@ -1,13 +1,14 @@
 # SHARE (NL)
 
-SHARE (NL) is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Sun, 15 Nov 2026.
+SHARE (NL) is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at 1756 Naud St., Los Angeles on Sat, 14 Nov 2026.
 
-SHARE (NL) is a house and electronica artist based in Netherlands, with 46 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 16 more. Often billed alongside BOHEM, KAHMEYA and Konstantin Sibold. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sun 15 Nov.
+SHARE (NL) is a house and electronica artist based in Netherlands, with 47 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 16 more. Often billed alongside BOHEM, KAHMEYA and Konstantin Sibold. Next up: 1756 Naud St., Los Angeles on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | 1756 Naud St. | Los Angeles |
 | Sun, 15 Nov 2026 | Akasha Las Dalias Club - Ibiza | Ibiza |
 
 ## Recently played

@@ -1,8 +1,8 @@
 # Aiden (DE)
 
-Aiden (DE) is a Techno and Industrial artist with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at E1, London on Fri, 13 Nov 2026.
+Aiden (DE) is a Techno and Industrial artist with 6 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at E1, London on Fri, 13 Nov 2026.
 
-Aiden (DE) is a techno and industrial artist based in United States of America, with 102 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 46 more. Often billed alongside Kobosil, Somewhen and In Verruf. Next up: E1, London on Fri 13 Nov.
+Aiden (DE) is a techno and industrial artist based in United States of America, with 103 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 47 more. Often billed alongside Kobosil, Somewhen and In Verruf. Next up: E1, London on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Aiden (DE) is a techno and industrial artist based in United States of America, 
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | E1 | London |
 | Sat, 28 Nov 2026 | BEC (Bilbao Exhibition Center) | North |
+| Fri, 4 Dec 2026 | Postgarage | Austria |
 | Sat, 5 Dec 2026 | Magma, Tenerife | Canary-islands |
 | Fri, 11 Dec 2026 | TBA - Port of Belgrade, Stage 2 | Belgrade |
 | Sat, 19 Dec 2026 | Hallenstadion | Zurich |

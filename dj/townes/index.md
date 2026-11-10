@@ -1,0 +1,28 @@
+# Townes
+
+Townes is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at C2 OST, Karlsruhe on Sat, 28 Nov 2026.
+
+Townes is a techno and house artist based in Germany, with 51 gigs on soundcheck across Amsterdam, Berlin, Detroit and Dortmund / Essen and 9 more. Often billed alongside SHDW, Salty DJ and Jannis Maxim. Next up: C2 OST, Karlsruhe on Sat 28 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 28 Nov 2026 | C2 OST | Karlsruhe |
+
+## Recently played
+
+- Tokonoma Club, Frankfurt · Fri, 9 Oct 2026
+- Romantica, Stuttgart · Fri, 11 Sept 2026
+- Fridas Pier, Stuttgart · Fri, 21 Aug 2026
+- Rote Sonne, Munich · Fri, 17 Jul 2026
+- TBA - Obedient Missionary Baptist Church, Detroit · Fri, 12 Jun 2026
+- H0L0, New York City · Thu, 4 Jun 2026
+- Waldsee Gaststätten, Freiburg · Fri, 24 Apr 2026
+- TBA - OUR SAKE CLUB, Berlin · Mon, 20 Apr 2026
+
+## Shares bills with
+
+SHDW, Salty DJ, Jannis Maxim
+
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/townes/)*

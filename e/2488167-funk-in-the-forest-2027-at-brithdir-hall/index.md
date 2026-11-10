@@ -1,6 +1,6 @@
 # Funk in the Forest 2027 at Brithdir Hall
 
-Funk in the Forest 2027 at Brithdir Hall on Fri 2 Jul, West Wales. 28 artists: Adi (CO), Alex Dima, Andy Green and Caragh and 24 more. See the line-up on soundcheck.
+Funk in the Forest 2027 at Brithdir Hall on Fri 2 Jul, West Wales. 29 artists: Adi (CO), Alex Dima, Andy Green and Caragh and 25 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -20,6 +20,7 @@ Funk in the Forest 2027 at Brithdir Hall on Fri 2 Jul, West Wales. 28 artists: A
 - Forever
 - Hamatsuki
 - Harriet Gray
+- Jake Affleck
 - James Shinra
 - Kalani
 - Lawrence

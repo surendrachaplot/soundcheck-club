@@ -1,8 +1,8 @@
 # Efdemin
 
-Efdemin is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at CLUB RAUM, Amsterdam on Fri, 13 Nov 2026.
+Efdemin is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at CLUB RAUM, Amsterdam on Fri, 13 Nov 2026.
 
-Efdemin is a techno and house artist based in Germany, with 134 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 35 more. Often billed alongside Polygonia, Steffi and Quelza. Next up: CLUB RAUM, Amsterdam on Fri 13 Nov.
+Efdemin is a techno and house artist based in Germany, with 135 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 36 more. Often billed alongside Polygonia, Steffi and Quelza. Next up: CLUB RAUM, Amsterdam on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Efdemin is a techno and house artist based in Germany, with 134 gigs on soundche
 | Sat, 14 Nov 2026 | Fabrik | Madrid |
 | Sat, 14 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 21 Nov 2026 | Kino Siska | Ljubljana |
+| Fri, 18 Dec 2026 | Jimmy Jazz | North |
 | Sat, 6 Feb 2027 | fabric | London |
 | Thu, 19 Aug 2027 | The Garden Tisno | Croatia |
 

@@ -2,7 +2,7 @@
 
 Maglia is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Kater, Berlin on Sat, 28 Nov 2026.
 
-Maglia is a tech house and techno artist, with 7 gigs on soundcheck across Athens, Berlin, Ibiza and Paris. Often billed alongside Argia, Borella and Britta Arnold. Next up: Kater, Berlin on Sat 28 Nov.
+Maglia is a tech house and techno artist based in France, with 7 gigs on soundcheck across Athens, Berlin, Ibiza and Paris. Often billed alongside Argia, Borella and Britta Arnold. Next up: Kater, Berlin on Sat 28 Nov.
 
 ## Upcoming shows
 

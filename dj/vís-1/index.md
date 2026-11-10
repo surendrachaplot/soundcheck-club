@@ -1,14 +1,13 @@
 # Vís (1)
 
-Vís (1) is a Techno and Dub artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Enter Shibuya, Tokyo on Tue, 10 Nov 2026.
+Vís (1) is a Techno and Dub artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Club Daphnia, Osaka on Fri, 13 Nov 2026.
 
-Vís is a techno and dub artist based in Japan, with 137 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside Ryogo, Chanaz and E.O.U. Next up: Enter Shibuya, Tokyo on Tue 10 Nov.
+Vís is a techno and dub artist based in Japan, with 137 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside Ryogo, Chanaz and E.O.U. Next up: Club Daphnia, Osaka on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 10 Nov 2026 | Enter Shibuya | Tokyo |
 | Fri, 13 Nov 2026 | Club Daphnia | Osaka |
 | Sun, 15 Nov 2026 | West Harlem | Kyoto |
 

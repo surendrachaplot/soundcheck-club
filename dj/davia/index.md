@@ -2,7 +2,7 @@
 
 dAvi A is a Acid and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Monarch, San Francisco/Oakland on Thu, 12 Nov 2026.
 
-dAvi A is an acid and deep house artist, with 4 gigs on soundcheck across Barcelona and San Francisco/Oakland. Often billed alongside Aaron F, Anthony Mansfield and Cahl Sel. Next up: Monarch, San Francisco/Oakland on Thu 12 Nov.
+dAvi A is an acid and deep house artist based in United States of America, with 4 gigs on soundcheck across Barcelona and San Francisco/Oakland. Often billed alongside Aaron F, Anthony Mansfield and Cahl Sel. Next up: Monarch, San Francisco/Oakland on Thu 12 Nov.
 
 ## Upcoming shows
 

@@ -9,7 +9,7 @@ Under Bron is a music venue in Stockholm listed on soundcheck. 10 upcoming gigs,
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 |  Urgent Audio: Tau Car, Tata, Björn Hugo | TATA (DE), Tau Car |
-| Sat, 14 Nov 2026 | Night Time Session: Setaoc Mass, Philippa Pacho, Jessie Granqvist | Jessie Granqvist, Philippa Pacho, Setaoc Mass |
+| Sat, 14 Nov 2026 | Setaoc Mass, Philippa Pacho, Jessie Granqvist | Jessie Granqvist, Philippa Pacho, Setaoc Mass |
 | Fri, 20 Nov 2026 | IBNE presents: Isabel Soto, Harami, Andemon, ØSHUN | Andemon, Harami, Isabel Soto, ØSHUN |
 | Sat, 21 Nov 2026 | Dummy presents: Syd Woz, Juan Izguerra, Julian Artur | Juan Izguerra, Julian Artur, Syd Woz |
 | Fri, 27 Nov 2026 | Bella Boo + Aasthma | Bella Boo, Peder Mannerfelt, Pär Grindvik |

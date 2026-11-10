@@ -1,8 +1,8 @@
 # Boris Brejcha
 
-Boris Brejcha is a Techno and Minimal Techno artist with 8 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Club Hípico de Santiago, Santiago on Sat, 14 Nov 2026.
+Boris Brejcha is a Techno and Minimal Techno artist with 9 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Club Hípico de Santiago, Santiago on Sat, 14 Nov 2026.
 
-Boris Brejcha is a techno and minimal techno artist based in Germany, with 144 gigs on soundcheck across Amsterdam, Argentina, Athens and Austin and 64 more. Often billed alongside Moritz Hofbauer, Ann Clue and Deniz Bul. Next up: Club Hípico de Santiago, Santiago on Sat 14 Nov.
+Boris Brejcha is a techno and minimal techno artist based in Germany, with 145 gigs on soundcheck across Amsterdam, Argentina, Athens and Austin and 65 more. Often billed alongside Moritz Hofbauer, Ann Clue and Deniz Bul. Next up: Club Hípico de Santiago, Santiago on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Boris Brejcha is a techno and minimal techno artist based in Germany, with 144 g
 | Sat, 14 Nov 2026 | Club Hípico de Santiago | Santiago |
 | Fri, 20 Nov 2026 | Eventpyramide Vösendorf | Austria |
 | Sat, 28 Nov 2026 | Messegelände Hannover | Hannover |
+| Fri, 18 Dec 2026 | District Arena at Terraform | Bangalore |
 | Fri, 15 Jan 2027 | Arena Joondalup | Perth |
 | Sat, 16 Jan 2027 | Sydney Showgrounds | Sydney |
 | Fri, 22 Jan 2027 | Eatons Hill Hotel and Function Centre | Brisbane |

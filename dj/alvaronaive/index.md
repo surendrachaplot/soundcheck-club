@@ -1,13 +1,14 @@
 # Álvaro Naive
 
-Álvaro Naive is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Say No More Madrid, Madrid on Fri, 13 Nov 2026.
+Álvaro Naive is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Say No More Madrid, Madrid on Fri, 13 Nov 2026.
 
-Álvaro Naive is a house and electronica artist based in Spain, with 13 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Mica Wagner, Daya Dadlani and Maik Miroux. Next up: Say No More Madrid, Madrid on Fri 13 Nov.
+Álvaro Naive is a house and tech house artist based in Spain, with 14 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Mica Wagner, Daya Dadlani and Iker Lobo. Next up: Say No More Madrid, Madrid on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | Say No More Madrid | Madrid |
 | Fri, 13 Nov 2026 | Say No More Madrid | Madrid |
 
 ## Recently played
@@ -23,6 +24,6 @@
 
 ## Shares bills with
 
-Mica Wagner, Daya Dadlani, Maik Miroux
+Mica Wagner, Daya Dadlani, Iker Lobo
 
 *Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alvaronaive/)*

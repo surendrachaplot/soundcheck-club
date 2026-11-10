@@ -1,8 +1,8 @@
 # Desyn
 
-Desyn is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Les Enfants Brillants, Barcelona on Fri, 27 Nov 2026.
+Desyn is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Les Enfants Brillants, Barcelona on Fri, 27 Nov 2026.
 
-Desyn is a house and techno artist based in United Kingdom, with 108 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 22 more. Often billed alongside Tom Morgan, Faciendo Soundsystem and Rama NYC. Next up: Les Enfants Brillants, Barcelona on Fri 27 Nov.
+Desyn is a house and techno artist based in United Kingdom, with 109 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 23 more. Often billed alongside Tom Morgan, Faciendo Soundsystem and Rama NYC. Next up: Les Enfants Brillants, Barcelona on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Desyn is a house and techno artist based in United Kingdom, with 108 gigs on sou
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Les Enfants Brillants | Barcelona |
 | Thu, 3 Dec 2026 | The Pickle | Miami |
+| Sat, 5 Dec 2026 | TBA | Peru |
 
 ## Recently played
 

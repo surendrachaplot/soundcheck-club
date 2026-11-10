@@ -1,8 +1,8 @@
 # HerShe
 
-HerShe is a Bass and Dubstep artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Bassiani, Tbilisi on Sat, 28 Nov 2026.
+HerShe is a Bass and Dubstep artist with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Bassiani, Tbilisi on Sat, 28 Nov 2026.
 
-HerShe is a bass and dubstep artist based in Georgia, with 30 gigs on soundcheck across Austin, Baltimore, Chicago and Dallas Fort Worth and 6 more. Often billed alongside Azyr, Ian Asher and KETTAMA. Next up: Bassiani, Tbilisi on Sat 28 Nov.
+HerShe is a bass and dubstep artist based in Georgia, with 31 gigs on soundcheck across Austin, Baltimore, Chicago and Dallas Fort Worth and 7 more. Often billed alongside Azyr, Casey Club and Excision. Next up: Bassiani, Tbilisi on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ HerShe is a bass and dubstep artist based in Georgia, with 30 gigs on soundcheck
 | Wed, 30 Dec 2026 | Fair Park | Dallas-fort-worth |
 | Wed, 30 Dec 2026 | Fair Park | Dallas-fort-worth |
 | Fri, 22 Jan 2027 | Concord Music Hall | Chicago |
+| Fri, 23 Apr 2027 | Central Florida Fairgrounds | Florida |
 
 ## Recently played
 
@@ -26,6 +27,6 @@ HerShe is a bass and dubstep artist based in Georgia, with 30 gigs on soundcheck
 
 ## Shares bills with
 
-Azyr, Ian Asher, KETTAMA
+Azyr, Casey Club, Excision
 
 *Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hershe/)*

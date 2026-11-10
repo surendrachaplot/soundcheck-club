@@ -8,7 +8,7 @@ Drugstore Beograd is a music venue in Belgrade listed on soundcheck. 7 upcoming 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | MRAK with David Löhlein | David Löhlein |
+| Fri, 13 Nov 2026 | MRAK with David Löhlein | Asarri, David Löhlein, Kӣr, illillillillill |
 | Fri, 20 Nov 2026 | ALTEREGO - ALL YOU CAN ACID II - Chris Liberator | Chris Liberator, Deeda, Matej Rusmir |
 | Sat, 21 Nov 2026 | Hali Gali: Banzai |  |
 | Fri, 27 Nov 2026 | 8 years of KRШ with Jamie Bissmire, Keepsakes, Katran, Ledeni at Drugstore | Jamie Bissmire, Keepsakes, Ledeni, Ontal |

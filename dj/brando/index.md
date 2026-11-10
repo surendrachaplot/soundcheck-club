@@ -2,7 +2,7 @@
 
 BRANDO is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Pacha, Munich on Sat, 14 Nov 2026.
 
-BRANDO is a house and downtempo artist, with 6 gigs on soundcheck across Madrid, Melbourne, Mexico City and Milan and 1 more. Often billed alongside AJNA, Andsep and Body-O. Next up: Pacha, Munich on Sat 14 Nov.
+BRANDO is a house and downtempo artist based in Italy, with 6 gigs on soundcheck across Madrid, Melbourne, Mexico City and Milan and 1 more. Often billed alongside AJNA, Andsep and Body-O. Next up: Pacha, Munich on Sat 14 Nov.
 
 ## Upcoming shows
 

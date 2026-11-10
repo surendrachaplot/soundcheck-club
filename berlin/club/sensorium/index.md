@@ -15,7 +15,7 @@ Sensorium is a music venue in Berlin listed on soundcheck. 18 upcoming gigs, wit
 | Sat, 21 Nov 2026 | SENSO NACHT |  |
 | Wed, 25 Nov 2026 | TECHNO MITTWOCH | NYCTO, Sin Sonik, menicx |
 | Fri, 27 Nov 2026 | Senso Nacht | Camilla Tarantino, Esposito, Loco (IT), NORA (BR), Stallo, Viktor Kampf, Zokiren |
-| Wed, 2 Dec 2026 | TECHNO MITTWOCH | April the pink, Fran Lezaun, Lars Löffler, Michael Marchi, Pablo Cantuarias, Thyrse, VivaLaDustin, d4ia, shakesbiier |
+| Wed, 2 Dec 2026 | TECHNO MITTWOCH | April the pink, Fran Lezaun, JORDVN PRINCE, Lars Löffler, Michael Marchi, Pablo Cantuarias, Thyrse, VivaLaDustin, d4ia, shakesbiier |
 | Wed, 9 Dec 2026 | TECHNO MITTWOCH | Bloodkedelic, Grippe, J.A.S, Julka (2), Pozzy, Røsenwasser |
 | Wed, 16 Dec 2026 | TECHNO MITTWOCH | Bee Lincoln, Claramonte, Determiner, Leo Cotrozo, Noxumi, Vantavision, Viktor Kampf, b.e.n.m, jaynetics, nixmoon, zygonaut |
 

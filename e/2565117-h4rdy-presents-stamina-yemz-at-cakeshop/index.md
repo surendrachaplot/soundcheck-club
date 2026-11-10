@@ -1,6 +1,6 @@
 # h4rdy presents STAMINA: Yemz at Cakeshop
 
-h4rdy presents STAMINA: Yemz at Cakeshop on Thu 19 Nov, Seoul. 2 artists: h4rdy and Yemz. See the line-up on soundcheck.
+h4rdy presents STAMINA: Yemz at Cakeshop on Thu 19 Nov, Seoul. 6 artists: h4rdy, HYUNHXEE, untitled and Xena (KR) and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,10 @@ h4rdy presents STAMINA: Yemz at Cakeshop on Thu 19 Nov, Seoul. 2 artists: h4rdy 
 ## Line-up
 
 - h4rdy
+- HYUNHXEE
+- untitled (2)
+- Xena (KR)
 - Yemz
+- YENN (2)
 
 *Source: [soundcheck](https://soundcheck.club/e/2565117-h4rdy-presents-stamina-yemz-at-cakeshop/)*

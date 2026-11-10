@@ -1,6 +1,6 @@
 # TECHNO MITTWOCH at Sensorium
 
-TECHNO MITTWOCH at Sensorium on Wed 2 Dec, Berlin. 9 artists: April the pink, d4ia, Fran Lezaun and Lars Löffler and 5 more. Techno and Tech House. See the line-up on soundcheck.
+TECHNO MITTWOCH at Sensorium on Wed 2 Dec, Berlin. 10 artists: April the pink, d4ia, Fran Lezaun and JORDVN PRINCE and 6 more. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ TECHNO MITTWOCH at Sensorium on Wed 2 Dec, Berlin. 9 artists: April the pink, d4
 - April the pink
 - d4ia
 - Fran Lezaun
+- JORDVN PRINCE
 - Lars Löffler
 - Michael Marchi
 - Pablo Cantuarias

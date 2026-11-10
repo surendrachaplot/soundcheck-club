@@ -2,7 +2,7 @@
 
 Alexey Orlov is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 5 Dec 2026.
 
-Alexey Orlov is a minimal and house artist, with 8 gigs on soundcheck across Barcelona, Berlin and Zurich. Often billed alongside Tagir, Cyril The Great and Andy Kolwes. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat 5 Dec.
+Alexey Orlov is a minimal and house artist based in Russia, with 8 gigs on soundcheck across Barcelona, Berlin and Zurich. Often billed alongside Tagir, Cyril The Great and Andy Kolwes. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat 5 Dec.
 
 ## Upcoming shows
 

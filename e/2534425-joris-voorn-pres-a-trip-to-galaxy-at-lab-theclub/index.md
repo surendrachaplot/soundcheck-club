@@ -1,6 +1,6 @@
 # Joris Voorn pres. A Trip To Galaxy at LAB theCLUB
 
-Joris Voorn pres. A Trip To Galaxy at LAB theCLUB on Fri 13 Nov, Madrid. 1 artist: Joris Voorn. Techno. See the line-up on soundcheck.
+Joris Voorn pres. A Trip To Galaxy at LAB theCLUB on Fri 13 Nov, Madrid. 2 artists: Joris Voorn and PAULITTAHH. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Joris Voorn pres. A Trip To Galaxy at LAB theCLUB on Fri 13 Nov, Madrid. 1 artis
 ## Line-up
 
 - Joris Voorn
+- PAULITTAHH
 
 *Source: [soundcheck](https://soundcheck.club/e/2534425-joris-voorn-pres-a-trip-to-galaxy-at-lab-theclub/)*

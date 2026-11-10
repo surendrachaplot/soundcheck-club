@@ -1,14 +1,15 @@
 # Bandulera
 
-Bandulera is a Techno and Grime artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at MS Stubnitz, Hamburg on Fri, 13 Nov 2026.
+Bandulera is a Techno and Grime artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at MS Stubnitz, Hamburg on Fri, 13 Nov 2026.
 
-Bandulera is a techno and grime artist based in Germany, with 29 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Sarah Q, DJ Babyblade and Joney. Next up: MS Stubnitz, Hamburg on Fri 13 Nov.
+Bandulera is a techno and grime artist based in Germany, with 30 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Sarah Q, DJ Babyblade and Joney. Next up: MS Stubnitz, Hamburg on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | MS Stubnitz | Hamburg |
+| Sat, 28 Nov 2026 | Kater | Berlin |
 
 ## Recently played
 

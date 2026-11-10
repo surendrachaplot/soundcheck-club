@@ -2,7 +2,7 @@
 
 Holosound is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Do Not Sit On The Furniture, Miami on Wed, 11 Nov 2026.
 
-Holosound is a house and electronica artist, with 5 gigs on soundcheck across Mexico City, Miami and New York City. Often billed alongside Anthony Middleton, Britta Arnold and Chris Schwarzwälder. Next up: Do Not Sit On The Furniture, Miami on Wed 11 Nov.
+Holosound is a house and electronica artist based in United States of America, with 5 gigs on soundcheck across Mexico City, Miami and New York City. Often billed alongside Anthony Middleton, Britta Arnold and Chris Schwarzwälder. Next up: Do Not Sit On The Furniture, Miami on Wed 11 Nov.
 
 ## Upcoming shows
 

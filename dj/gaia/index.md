@@ -2,7 +2,7 @@
 
 Gaia is a Tech House and Afro House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Point Ephémère, Paris on Fri, 27 Nov 2026.
 
-Gaia is a tech house and afro house artist, with 14 gigs on soundcheck across Athens, Glasgow, London and Medellin and 3 more. Often billed alongside DH Moon, Adam O and Craig Charles. Next up: Point Ephémère, Paris on Fri 27 Nov.
+Gaia is a tech house and afro house artist based in Norway, with 14 gigs on soundcheck across Athens, Glasgow, London and Medellin and 3 more. Often billed alongside DH Moon, Adam O and Craig Charles. Next up: Point Ephémère, Paris on Fri 27 Nov.
 
 ## Upcoming shows
 

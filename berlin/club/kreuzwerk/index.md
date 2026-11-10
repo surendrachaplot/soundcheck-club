@@ -8,7 +8,7 @@ KREUZWERK is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, wit
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | PULS x TILT | Dj Norma, ENNIO, Greta Spark, HAMY, KUSS, KVLR, Karina Schneider, N.R.M, Oblique, SHE/HER, Ø [Phase] |
+| Fri, 13 Nov 2026 | PULS x TILT | Dj Norma, ENNIO, Faerber, Greta Spark, HAMY, KUSS, KVLR, Karina Schneider, N.R.M, SHE/HER, oblique (DE), Ø [Phase] |
 | Sat, 14 Nov 2026 | tracey [season closing] | ADAM MUNNINGS, Amowia, Angel D'lite, Bella Sarris, Costanza, DJ Petite, Goldie, Handmade, Immy, Jonathan Apelbaum, Kontronatura, Marie Malarie, Mohajer, Nancy Nutter, Rachel Noon, Rafush, Trigger T, ketia, source:link, x3butterfly |
 | Fri, 20 Nov 2026 | ABOV | Beatrice (DE), Mareena, Volvox |
 | Fri, 27 Nov 2026 | Power Dance Club | Amanda Mussi, Byron Yeates, E-Talking, Luigi Di Venere, Majdolen, Maria Politi, Stathis (GR) |

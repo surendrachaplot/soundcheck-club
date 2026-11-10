@@ -1,15 +1,14 @@
 # guuc20459
 
-guuc20459 is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at glimmer, Hamburg on Fri, 20 Nov 2026.
+guuc20459 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at glimmer, Hamburg on Fri, 20 Nov 2026.
 
-guuc20459 is a techno and trance artist based in Germany, with 38 gigs on soundcheck across Berlin, Copenhagen, Frankfurt and Hamburg and 1 more. Often billed alongside EliaHaze, DJ SOURCE and DJ Babyblade. Next up: glimmer, Hamburg on Fri 20 Nov.
+guuc20459 is a techno and trance artist based in Germany, with 37 gigs on soundcheck across Berlin, Copenhagen, Frankfurt and Hamburg and 1 more. Often billed alongside EliaHaze, DJ SOURCE and DJ Babyblade. Next up: glimmer, Hamburg on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | glimmer | Hamburg |
-| Fri, 4 Dec 2026 | Südpol | Hamburg |
 
 ## Recently played
 

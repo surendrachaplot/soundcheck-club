@@ -1,14 +1,14 @@
 # SI*BL
 
-SI*BL is a Grime and Club artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Ninety One, London on Sat, 14 Nov 2026.
+SI*BL is a Grime and Club artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at 91 Brick Lane, London on Sat, 14 Nov 2026.
 
-SI*BL is a grime and club artist based in United Kingdom, with 9 gigs on soundcheck across London. Often billed alongside CHAMBER45, Kruz Leone and Duppy. Next up: Ninety One, London on Sat 14 Nov.
+SI*BL is a grime and club artist based in United Kingdom, with 9 gigs on soundcheck across London. Often billed alongside CHAMBER45, Kruz Leone and Duppy. Next up: 91 Brick Lane, London on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Ninety One | London |
+| Sat, 14 Nov 2026 | 91 Brick Lane | London |
 | Fri, 27 Nov 2026 | M.O.T | London |
 
 ## Recently played

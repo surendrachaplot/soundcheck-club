@@ -8,6 +8,6 @@ Kyoto University Yoshida Dormitory is a music venue in Kyoto listed on soundchec
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | KUMARU祭 feat.ポンポコ山 | Aiconga, KA4U, Limited Toss, Mofo, TENTENKO, Whatman |
+| Sat, 14 Nov 2026 | KUMARU祭 feat.ポンポコ山 | Aiconga, KA4U, Limited Toss, Mofo, Prizm Wizard, TENTENKO, Whatman |
 
 *Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/kyoto-university-yoshida-dormitory/)*

@@ -1,13 +1,14 @@
 # Loren
 
-Loren is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Obedient Missionary, Detroit on Fri, 13 Nov 2026.
+Loren is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Spkrbox, Detroit on Wed, 11 Nov 2026.
 
-Loren is a techno and house artist based in United States of America, with 224 gigs on soundcheck across Berlin, Chicago, Cleveland and Detroit and 14 more. Often billed alongside Ashton Swinton, Tylr and Garrison XR. Next up: TBA - Obedient Missionary, Detroit on Fri 13 Nov.
+Loren is a techno and house artist based in United States of America, with 224 gigs on soundcheck across Berlin, Chicago, Cleveland and Detroit and 14 more. Often billed alongside Ashton Swinton, Tylr and Garrison XR. Next up: Spkrbox, Detroit on Wed 11 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 11 Nov 2026 | Spkrbox | Detroit |
 | Fri, 13 Nov 2026 | TBA - Obedient Missionary | Detroit |
 | Sun, 29 Nov 2026 | Tirana Olympic Park | Tirana |
 

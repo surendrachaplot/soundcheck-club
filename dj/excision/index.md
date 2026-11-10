@@ -1,14 +1,15 @@
 # Excision
 
-Excision is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Woodshop, New York City on Fri, 13 Nov 2026.
+Excision is a Bass and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at The Woodshop, New York City on Fri, 13 Nov 2026.
 
-Excision is a bass and drum & bass artist based in Canada, with 17 gigs on soundcheck across Auckland, Austin, Chicago and Dallas/Fort Worth and 10 more. Often billed alongside KREAM, Zedd and Cloonee. Next up: The Woodshop, New York City on Fri 13 Nov.
+Excision is a bass and drum & bass artist based in Canada, with 18 gigs on soundcheck across Auckland, Austin, Chicago and Dallas/Fort Worth and 11 more. Often billed alongside KREAM, Zedd and Cloonee. Next up: The Woodshop, New York City on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | The Woodshop | New York City |
+| Fri, 23 Apr 2027 | Central Florida Fairgrounds | Florida |
 
 ## Recently played
 

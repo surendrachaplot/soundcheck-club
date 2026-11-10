@@ -1,13 +1,14 @@
 # Mica Wagner
 
-Mica Wagner is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Say No More Madrid, Madrid on Fri, 13 Nov 2026.
+Mica Wagner is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Say No More Madrid, Madrid on Fri, 13 Nov 2026.
 
-Mica Wagner is a house and tech house artist based in Spain, with 36 gigs on soundcheck across Ibiza, Madrid and Philadelphia. Often billed alongside Mamba Nera, Álvaro Naive and SOL3M. Next up: Say No More Madrid, Madrid on Fri 13 Nov.
+Mica Wagner is a house and tech house artist based in Spain, with 37 gigs on soundcheck across Ibiza, Madrid and Philadelphia. Often billed alongside Mamba Nera, Álvaro Naive and Daya Dadlani. Next up: Say No More Madrid, Madrid on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | Say No More Madrid | Madrid |
 | Fri, 13 Nov 2026 | Say No More Madrid | Madrid |
 
 ## Recently played
@@ -23,6 +24,6 @@ Mica Wagner is a house and tech house artist based in Spain, with 36 gigs on sou
 
 ## Shares bills with
 
-Mamba Nera, Álvaro Naive, SOL3M
+Mamba Nera, Álvaro Naive, Daya Dadlani
 
 *Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/micawagner/)*

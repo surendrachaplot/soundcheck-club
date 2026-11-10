@@ -12,7 +12,7 @@ Cakeshop is a music venue in Seoul listed on soundcheck. 12 upcoming gigs, with 
 | Fri, 13 Nov 2026 | YETI SOUNDSYSTEM: SEOUL | Arthur Yeti, Coziest, Mars89, Tedman Lee, VSLORIA, bojvck, h4rdy |
 | Sat, 14 Nov 2026 | SOAR ♹ | Azrel, DDD (2) |
 | Sat, 14 Nov 2026 | SOAR: AZREL | DDD (2) |
-| Thu, 19 Nov 2026 | h4rdy presents STAMINA: Yemz | Yemz, h4rdy |
+| Thu, 19 Nov 2026 | h4rdy presents STAMINA: Yemz | HYUNHXEE, Xena (KR), YENN (2), Yemz, h4rdy, untitled (2) |
 | Fri, 20 Nov 2026 | GALACTIQUE: Pink-Ussy Speaker (w/Meg10) | DAEGARI, KISEWA, Kitty, MOHO (1), Meg10, O.od, rue (3) |
 | Wed, 25 Nov 2026 | Cakeshop presents: SBTRKT |  |
 | Fri, 27 Nov 2026 | R&B CORPORATION x SOLEIL INVITES Fold [UK] | Fold |

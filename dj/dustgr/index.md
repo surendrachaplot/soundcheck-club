@@ -1,13 +1,14 @@
 # Dust (GR)
 
-Dust (GR) is a Progressive House and Psytrance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Signal, New York City on Thu, 31 Dec 2026.
+Dust (GR) is a Progressive House and Psytrance artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Spkrbox, Detroit on Wed, 11 Nov 2026.
 
-Dust (GR) is a progressive house and psytrance artist based in Greece, with 4 gigs on soundcheck across Basel, Detroit, New York City and Sydney. Often billed alongside 1tbsp, Alien Communications and Antenna. Next up: Signal, New York City on Thu 31 Dec.
+Dust (GR) is a progressive house and psytrance artist based in Greece, with 5 gigs on soundcheck across Basel, Detroit, New York City and Sydney. Often billed alongside Loren, 1tbsp and Alien Communications. Next up: Spkrbox, Detroit on Wed 11 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 11 Nov 2026 | Spkrbox | Detroit |
 | Thu, 31 Dec 2026 | Signal | New York City |
 
 ## Recently played
@@ -18,6 +19,6 @@ Dust (GR) is a progressive house and psytrance artist based in Greece, with 4 gi
 
 ## Shares bills with
 
-1tbsp, Alien Communications, Antenna (2)
+Loren, 1tbsp, Alien Communications
 
 *Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dustgr/)*

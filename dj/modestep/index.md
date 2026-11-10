@@ -1,14 +1,13 @@
 # Modestep
 
-Modestep is a Dubstep and Drum & Bass artist with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Komplex Klub, Zurich on Tue, 10 Nov 2026.
+Modestep is a Dubstep and Drum & Bass artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Kácečko, Bratislava on Fri, 20 Nov 2026.
 
-Modestep is a dubstep and drum & bass artist based in United Kingdom, with 25 gigs on soundcheck across Amsterdam, Bratislava, Bristol and Budapest and 14 more. Often billed alongside Dirtyphonics, Enei and Koven. Next up: Komplex Klub, Zurich on Tue 10 Nov.
+Modestep is a dubstep and drum & bass artist based in United Kingdom, with 25 gigs on soundcheck across Amsterdam, Bratislava, Bristol and Budapest and 14 more. Often billed alongside Dirtyphonics, Enei and Koven. Next up: Kácečko, Bratislava on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 10 Nov 2026 | Komplex Klub | Zurich |
 | Fri, 20 Nov 2026 | Kácečko | Bratislava |
 | Fri, 27 Nov 2026 | Melkweg | Amsterdam |
 | Wed, 2 Dec 2026 | La Maroquinerie | Paris |

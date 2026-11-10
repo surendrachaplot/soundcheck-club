@@ -2,7 +2,7 @@
 
 AJAY is a Techno and Jungle artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Rebellion, Manchester on Thu, 31 Dec 2026.
 
-AJAY is a techno and jungle artist, with 6 gigs on soundcheck across Manchester and Münster. Often billed alongside snoritz and Vince von Ridder. Next up: Rebellion, Manchester on Thu 31 Dec.
+AJAY is a techno and jungle artist based in Germany, with 6 gigs on soundcheck across Manchester and Münster. Often billed alongside snoritz and Vince von Ridder. Next up: Rebellion, Manchester on Thu 31 Dec.
 
 ## Upcoming shows
 

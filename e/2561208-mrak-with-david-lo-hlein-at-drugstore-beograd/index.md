@@ -1,6 +1,6 @@
 # MRAK with David Löhlein at Drugstore Beograd
 
-MRAK with David Löhlein at Drugstore Beograd on Fri 13 Nov, Belgrade. 1 artist: David Löhlein. See the line-up on soundcheck.
+MRAK with David Löhlein at Drugstore Beograd on Fri 13 Nov, Belgrade. 4 artists: Asarri, David Löhlein, illillillillill and Kӣr. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,9 @@ MRAK with David Löhlein at Drugstore Beograd on Fri 13 Nov, Belgrade. 1 artist
 
 ## Line-up
 
+- Asarri
 - David Löhlein
+- illillillillill
+- Kӣr
 
 *Source: [soundcheck](https://soundcheck.club/e/2561208-mrak-with-david-lo-hlein-at-drugstore-beograd/)*

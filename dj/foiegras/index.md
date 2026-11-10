@@ -1,13 +1,14 @@
 # Foie Gras
 
-Foie Gras is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Lula Club, Madrid on Sat, 21 Nov 2026.
+Foie Gras is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Say No More Madrid, Madrid on Sat, 14 Nov 2026.
 
-Foie Gras is a house and electronica artist based in Spain, with 80 gigs on soundcheck across Barcelona, Budapest, Madrid and Milan and 1 more. Often billed alongside 1Night Only, Le Nomad and Antoine.. Next up: Lula Club, Madrid on Sat 21 Nov.
+Foie Gras is a house and electronica artist based in Spain, with 81 gigs on soundcheck across Barcelona, Budapest, Madrid and Milan and 1 more. Often billed alongside 1Night Only, Le Nomad and Antoine.. Next up: Say No More Madrid, Madrid on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | Say No More Madrid | Madrid |
 | Sat, 21 Nov 2026 | Lula Club | Madrid |
 
 ## Recently played

@@ -2,7 +2,7 @@
 
 Nordiks is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Les Asnouss, Morocco on Fri, 13 Nov 2026.
 
-Nordiks is an electronic artist, with 6 gigs on soundcheck across Madrid, Morocco and Oslo. Often billed alongside Anders Hajem, BKL and Clock Poets. Next up: TBA - Les Asnouss, Morocco on Fri 13 Nov.
+Nordiks is an electronic artist based in Norway, with 6 gigs on soundcheck across Madrid, Morocco and Oslo. Often billed alongside Anders Hajem, BKL and Clock Poets. Next up: TBA - Les Asnouss, Morocco on Fri 13 Nov.
 
 ## Upcoming shows
 

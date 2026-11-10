@@ -1,8 +1,8 @@
 # Edward
 
-Edward is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at VENT, Tokyo on Fri, 27 Nov 2026.
+Edward is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at VENT, Tokyo on Fri, 27 Nov 2026.
 
-Edward is a house and minimal artist based in Germany, with 142 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 34 more. Often billed alongside Konstantin, Leafar Legov and Yamour. Next up: VENT, Tokyo on Fri 27 Nov.
+Edward is a house and minimal artist based in Germany, with 143 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 35 more. Often billed alongside Konstantin, Leafar Legov and Yamour. Next up: VENT, Tokyo on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Edward is a house and minimal artist based in Germany, with 142 gigs on soundche
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | VENT | Tokyo |
 | Thu, 3 Dec 2026 | The Pickle | Miami |
+| Sat, 5 Dec 2026 | TBA | Peru |
 | Thu, 26 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played

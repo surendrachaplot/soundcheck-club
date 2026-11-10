@@ -2,7 +2,7 @@
 
 Yigitoglu is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at UNDERCITY, Seoul on Sat, 21 Nov 2026.
 
-Yigitoglu is a techno artist, with 8 gigs on soundcheck across Berlin, Istanbul and Seoul. Often billed alongside KVTS, Closet Yi and Dubfire. Next up: UNDERCITY, Seoul on Sat 21 Nov.
+Yigitoglu is a techno artist based in Turkey, with 8 gigs on soundcheck across Berlin, Istanbul and Seoul. Often billed alongside KVTS, Closet Yi and Dubfire. Next up: UNDERCITY, Seoul on Sat 21 Nov.
 
 ## Upcoming shows
 

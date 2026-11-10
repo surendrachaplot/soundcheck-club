@@ -1,13 +1,14 @@
 # HYUNHXEE
 
-HYUNHXEE is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Modeci, Seoul on Fri, 20 Nov 2026.
+HYUNHXEE is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Cakeshop, Seoul on Thu, 19 Nov 2026.
 
-HYUNHXEE is a techno and electro artist based in South Korea, with 94 gigs on soundcheck across Seoul and Tokyo. Often billed alongside Honn, DJ Co.kr and KIKOH. Next up: Modeci, Seoul on Fri 20 Nov.
+HYUNHXEE is a techno and electro artist based in South Korea, with 95 gigs on soundcheck across Seoul and Tokyo. Often billed alongside Honn, DJ Co.kr and KIKOH. Next up: Cakeshop, Seoul on Thu 19 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 19 Nov 2026 | Cakeshop | Seoul |
 | Fri, 20 Nov 2026 | Modeci | Seoul |
 | Sat, 28 Nov 2026 | Cakeshop | Seoul |
 

@@ -2,7 +2,7 @@
 
 Bastet (US) is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Secret Warehouse, Baltimore on Sat, 14 Nov 2026.
 
-Bastet (US) is a techno and minimal techno artist, with 13 gigs on soundcheck across Baltimore, Pittsburgh and Washington DC. Often billed alongside A'phreaq, Associate and Juana. Next up: TBA - Secret Warehouse, Baltimore on Sat 14 Nov.
+Bastet (US) is a techno and minimal techno artist based in United States of America, with 13 gigs on soundcheck across Baltimore, Pittsburgh and Washington DC. Often billed alongside A'phreaq, Associate and Juana. Next up: TBA - Secret Warehouse, Baltimore on Sat 14 Nov.
 
 ## Upcoming shows
 

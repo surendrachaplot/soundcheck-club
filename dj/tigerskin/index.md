@@ -2,7 +2,7 @@
 
 Tigerskin is a Deep House and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Tausend, Berlin on Wed, 11 Nov 2026.
 
-Tigerskin is a deep house and electronica artist, with 7 gigs on soundcheck across Berlin. Often billed alongside Nils Ohrmann, Dompe and Sqim. Next up: Tausend, Berlin on Wed 11 Nov.
+Tigerskin is a deep house and electronica artist based in Germany, with 7 gigs on soundcheck across Berlin. Often billed alongside Nils Ohrmann, Dompe and Sqim. Next up: Tausend, Berlin on Wed 11 Nov.
 
 ## Upcoming shows
 
