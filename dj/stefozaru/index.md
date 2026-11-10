@@ -1,14 +1,14 @@
 # Stef Ozaru
 
-Stef Ozaru is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - 310 W 7 MILE, Detroit on Sat, 5 Dec 2026.
+Stef Ozaru is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at SOS 7 Mile, Detroit on Sat, 5 Dec 2026.
 
-Stef Ozaru is a techno and hardcore artist based in United States of America, with 27 gigs on soundcheck across Detroit and New York City. Often billed alongside TS Julien, Condor and A DJ Named SNE. Next up: TBA - 310 W 7 MILE, Detroit on Sat 5 Dec.
+Stef Ozaru is a techno and hardcore artist based in United States of America, with 27 gigs on soundcheck across Detroit and New York City. Often billed alongside TS Julien, Condor and A DJ Named SNE. Next up: SOS 7 Mile, Detroit on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Dec 2026 | TBA - 310 W 7 MILE | Detroit |
+| Sat, 5 Dec 2026 | SOS 7 Mile | Detroit |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # Deborah De Luca
 
-Deborah De Luca is a Techno and Tech House artist with 6 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Club Vinyl, Denver on Fri, 13 Nov 2026.
+Deborah De Luca is a Techno and Tech House artist with 7 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Club Vinyl, Denver on Fri, 13 Nov 2026.
 
-Deborah De Luca is a techno and tech house artist based in Italy, with 177 gigs on soundcheck across Antwerp, Athens, Augsburg and Austin and 57 more. Often billed alongside Luca Donzelli, I Hate Models and 999999999. Next up: Club Vinyl, Denver on Fri 13 Nov.
+Deborah De Luca is a techno and tech house artist based in Italy, with 178 gigs on soundcheck across Antwerp, Athens, Augsburg and Austin and 57 more. Often billed alongside Luca Donzelli, I Hate Models and 999999999. Next up: Club Vinyl, Denver on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Deborah De Luca is a techno and tech house artist based in Italy, with 177 gigs 
 | Sat, 14 Nov 2026 | Halcyon | San Francisco/Oakland |
 | Sat, 21 Nov 2026 | TBA - Lurín live / Lima, Perú. | Peru |
 | Sat, 28 Nov 2026 | Messegelände Hannover | Hannover |
+| Sat, 5 Dec 2026 | Eden Thessaloniki | Thessaloniki |
 | Fri, 18 Dec 2026 | Ritter Butzke | Berlin |
 | Sat, 23 Jan 2027 | Bootshaus | Cologne |
 

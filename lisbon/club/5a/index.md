@@ -1,17 +1,23 @@
 # 5A
 
-5A is a music venue in Lisbon with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. The next is "Francisca Urbano" on Sat, 7 Nov 2026.
+5A is a music venue in Lisbon with 7 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Out of Frame" on Thu, 12 Nov 2026.
 
-5A is a music venue in Lisbon listed on soundcheck. 1 upcoming gig, with line-ups including Francisca Urbano. See dates, start times and who's playing. Rua Noronha, 5A 1250-168 Lisbon, Portugal.
+5A is a music venue in Lisbon listed on soundcheck. 7 upcoming gigs, with line-ups including FAUSTO, Afonso (PT), André Costa and Conor Brophy and 2 more. See dates, start times and who's playing. Rua Noronha, 5A 1250-168 Lisbon, Portugal.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Francisca Urbano | Francisca Urbano |
+| Thu, 12 Nov 2026 | Out of Frame | Straka (2) |
+| Fri, 13 Nov 2026 | Gromma | Gromma |
+| Sat, 14 Nov 2026 | Kaesar | Kaesar |
+| Thu, 19 Nov 2026 | Aspen Collective | Afonso (PT), André Costa, FAUSTO |
+| Fri, 20 Nov 2026 | Ze Salvador | Ze Salvador |
+| Thu, 26 Nov 2026 | Discompasso | Conor Brophy, Laimonas |
+| Sat, 28 Nov 2026 | Tiago Carvalho | Tiago Carvalho |
 
 ## Address
 
 Rua Noronha, 5A 1250-168 Lisbon, Portugal, Lisbon
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/5a/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/5a/)*

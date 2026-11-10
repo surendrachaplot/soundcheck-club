@@ -2,7 +2,7 @@
 
 Juntaro is a Tech House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
 
-Juntaro is a tech house and electro artist, with 12 gigs on soundcheck across London, Seoul, South Korea and Tokyo. Often billed alongside Sielo, LOOZBONE and 2SPADE. Next up: TBA - Jacks Bar, South Korea on Sat 14 Nov.
+Juntaro is a tech house and electro artist based in United Kingdom, with 12 gigs on soundcheck across London, Seoul, South Korea and Tokyo. Often billed alongside Sielo, LOOZBONE and 2SPADE. Next up: TBA - Jacks Bar, South Korea on Sat 14 Nov.
 
 ## Upcoming shows
 

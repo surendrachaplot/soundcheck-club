@@ -1,6 +1,6 @@
 # William Basinski
 
-William Basinski is a Ambient and Experimental artist with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at public records, New York City on Mon, 9 Nov 2026.
+William Basinski is a Ambient and Experimental artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at public records, New York City on Mon, 9 Nov 2026.
 
 William Basinski is an ambient and experimental artist based in United States of America, with 48 gigs on soundcheck across Amsterdam, Basel, Belgrade and Berlin and 28 more. Often billed alongside Buttechno, Chantal Michelle and Dasha Rush. Next up: public records, New York City on Mon 9 Nov.
 
@@ -8,7 +8,6 @@ William Basinski is an ambient and experimental artist based in United States of
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 9 Nov 2026 | public records | New York City |
 | Mon, 9 Nov 2026 | public records | New York City |
 | Tue, 10 Nov 2026 | public records | New York City |
 | Wed, 11 Nov 2026 | public records | New York City |

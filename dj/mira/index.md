@@ -1,8 +1,8 @@
 # Mira
 
-Mira is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Fünk, Mexico City on Fri, 13 Nov 2026.
+Mira is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Fünk, Mexico City on Fri, 13 Nov 2026.
 
-Mira is a house and techno artist based in Germany, with 210 gigs on soundcheck across Amsterdam, Athens, Austin and Bangkok and 45 more. Often billed alongside Chris Schwarzwälder, Britta Arnold and Caleesi. Next up: Fünk, Mexico City on Fri 13 Nov.
+Mira is a house and techno artist based in Germany, with 211 gigs on soundcheck across Amsterdam, Athens, Austin and Bangkok and 45 more. Often billed alongside Chris Schwarzwälder, Britta Arnold and Caleesi. Next up: Fünk, Mexico City on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Mira is a house and techno artist based in Germany, with 210 gigs on soundcheck 
 | Fri, 20 Nov 2026 | Odonien | Cologne |
 | Sat, 21 Nov 2026 | Colour Factory | London |
 | Sat, 28 Nov 2026 | Kater | Berlin |
+| Sat, 28 Nov 2026 | TBA - Obedient Missionary | Detroit |
 
 ## Recently played
 

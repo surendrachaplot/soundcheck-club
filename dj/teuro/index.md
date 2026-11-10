@@ -2,7 +2,7 @@
 
 Teuro is a Experimental and Dub artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Salon des Amateurs, Düsseldorf on Fri, 22 Jan 2027.
 
-Teuro is an experimental and dub artist, with 13 gigs on soundcheck across Cologne, Düsseldorf, Leipzig and Tbilisi. Often billed alongside Voltmar, Grischerr and .VRIL. Next up: Salon des Amateurs, Düsseldorf on Fri 22 Jan.
+Teuro is an experimental and dub artist based in Germany, with 13 gigs on soundcheck across Cologne, Düsseldorf, Leipzig and Tbilisi. Often billed alongside Voltmar, Grischerr and .VRIL. Next up: Salon des Amateurs, Düsseldorf on Fri 22 Jan.
 
 ## Upcoming shows
 

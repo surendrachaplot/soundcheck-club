@@ -2,7 +2,7 @@
 
 Najesh & Artišoko is a Downtempo and Progressive House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Kauz, Zurich on Fri, 27 Nov 2026.
 
-Najesh & Artišoko are a downtempo and progressive house duo, with 14 gigs on soundcheck across Berlin and Zurich. Often billed alongside AVEM, Arutani and Baerg. Next up: Kauz, Zurich on Fri 27 Nov.
+Najesh & Artišoko are a downtempo and progressive house duo based in Switzerland, with 14 gigs on soundcheck across Berlin and Zurich. Often billed alongside AVEM, Arutani and Baerg. Next up: Kauz, Zurich on Fri 27 Nov.
 
 ## Upcoming shows
 

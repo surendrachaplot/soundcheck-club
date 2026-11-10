@@ -1,14 +1,13 @@
 # Schwefelgelb
 
-Schwefelgelb is a Techno and EBM artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Tresor / Globus, Berlin on Mon, 9 Nov 2026.
+Schwefelgelb is a Techno and EBM artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at BASEMENT, New York City on Fri, 13 Nov 2026.
 
-Schwefelgelb is a techno and ebm artist based in Germany, with 78 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 34 more. Often billed alongside Ancient Methods, OTHR and Parrish Smith. Next up: Tresor / Globus, Berlin on Mon 9 Nov.
+Schwefelgelb is a techno and ebm artist based in Germany, with 78 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 34 more. Often billed alongside Ancient Methods, OTHR and Parrish Smith. Next up: BASEMENT, New York City on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 9 Nov 2026 | Tresor / Globus | Berlin |
 | Fri, 13 Nov 2026 | BASEMENT | New York City |
 | Sat, 19 Dec 2026 | Le Trabendo | Paris |
 

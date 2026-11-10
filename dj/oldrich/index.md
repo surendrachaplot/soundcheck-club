@@ -1,14 +1,15 @@
 # Old & Rich
 
-Old & Rich is a Acid and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Holešovická Tržnice, Prague on Fri, 13 Nov 2026.
+Old & Rich is a Acid and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Holešovická Tržnice, Prague on Fri, 13 Nov 2026.
 
-Old & Rich are an acid and disco duo based in Czech Republic, with 38 gigs on soundcheck across Prague. Often billed alongside Jak Sen, Austin Powers and Raphael Kosmos. Next up: Holešovická Tržnice, Prague on Fri 13 Nov.
+Old & Rich are an acid and disco duo based in Czech Republic, with 39 gigs on soundcheck across Prague. Often billed alongside Jak Sen, Austin Powers and Raphael Kosmos. Next up: Holešovická Tržnice, Prague on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Holešovická Tržnice | Prague |
+| Fri, 4 Dec 2026 | Twist Bar | Prague |
 
 ## Recently played
 

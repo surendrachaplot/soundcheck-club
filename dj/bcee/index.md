@@ -1,8 +1,8 @@
 # BCee
 
-BCee is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri, 20 Nov 2026.
+BCee is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri, 20 Nov 2026.
 
-BCee is a drum & bass and jungle artist based in United Kingdom, with 36 gigs on soundcheck across Amsterdam, Austin, Boston and Brighton and 14 more. Often billed alongside BassLayerz, Bryan Gee and Dillinja. Next up: TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri 20 Nov.
+BCee is a drum & bass and jungle artist based in United Kingdom, with 37 gigs on soundcheck across Amsterdam, Austin, Boston and Brighton and 15 more. Often billed alongside BassLayerz, Bryan Gee and Dillinja. Next up: TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ BCee is a drum & bass and jungle artist based in United Kingdom, with 36 gigs on
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday) | Amsterdam |
 | Sat, 21 Nov 2026 | Warehouse Elementenstraat | Amsterdam |
+| Fri, 11 Dec 2026 | The Art School | Glasgow |
 
 ## Recently played
 

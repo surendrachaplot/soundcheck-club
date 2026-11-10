@@ -2,7 +2,7 @@
 
 CHTDEVIL is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Suma Han, Istanbul on Fri, 13 Nov 2026.
 
-CHTDEVIL is a techno and acid artist, with 23 gigs on soundcheck across Istanbul. Often billed alongside SEV!L!R, ONI BLVCK and B-DRIVE. Next up: Suma Han, Istanbul on Fri 13 Nov.
+CHTDEVIL is a techno and acid artist based in Turkey, with 23 gigs on soundcheck across Istanbul. Often billed alongside SEV!L!R, ONI BLVCK and B-DRIVE. Next up: Suma Han, Istanbul on Fri 13 Nov.
 
 ## Upcoming shows
 

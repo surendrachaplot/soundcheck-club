@@ -1,8 +1,8 @@
 # AceMo
 
-AceMo is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Bar  Milagro, New York City on Thu, 12 Nov 2026.
+AceMo is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Bar  Milagro, New York City on Thu, 12 Nov 2026.
 
-AceMo is a techno and house artist based in United States of America, with 148 gigs on soundcheck across Amsterdam, Atlanta, Austin and Baltimore and 33 more. Often billed alongside DJ SWISHA, Swami Sound and MoMA Ready. Next up: Bar  Milagro, New York City on Thu 12 Nov.
+AceMo is a techno and house artist based in United States of America, with 149 gigs on soundcheck across Amsterdam, Atlanta, Austin and Baltimore and 33 more. Often billed alongside DJ SWISHA, Swami Sound and MoMA Ready. Next up: Bar  Milagro, New York City on Thu 12 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ AceMo is a techno and house artist based in United States of America, with 148 g
 | Sat, 14 Nov 2026 | Mooi Space | Toronto |
 | Fri, 27 Nov 2026 | Nowadays | New York City |
 | Sat, 28 Nov 2026 | Signal | New York City |
+| Fri, 4 Dec 2026 | Bossa Nova Civic Club | New York City |
 | Thu, 31 Dec 2026 | Collingwood Children's Farm | Melbourne |
 
 ## Recently played

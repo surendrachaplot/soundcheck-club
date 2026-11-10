@@ -1,6 +1,6 @@
 # Deep Field ft. Arucal at TBA - Obedient Missionary
 
-Deep Field ft. Arucal at TBA - Obedient Missionary on Sat 28 Nov, Detroit. 6 artists: ACE, Arucal, LOFILA and mira and 2 more. Techno and Ambient. See the line-up on soundcheck.
+Deep Field ft. Arucal at TBA - Obedient Missionary on Sat 28 Nov, Detroit. 6 artists: ACE, Arucal, LOFILA and Mira and 2 more. Techno and Ambient. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,7 +13,7 @@ Deep Field ft. Arucal at TBA - Obedient Missionary on Sat 28 Nov, Detroit. 6 art
 - ACE
 - Arucal
 - LOFILA
-- mira (5)
+- Mira
 - moregasm
 - Plural
 

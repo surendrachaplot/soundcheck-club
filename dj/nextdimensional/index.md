@@ -1,14 +1,15 @@
 # nextdimensional
 
-nextdimensional is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Mood Ring, New York City on Sun, 22 Nov 2026.
+nextdimensional is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Mood Ring, New York City on Sun, 22 Nov 2026.
 
-nextdimensional is a techno and club artist based in United States of America, with 100 gigs on soundcheck across Atlanta, Chicago, Los Angeles and Minneapolis St Paul and 9 more. Often billed alongside HONEY B, RITCHRD and DJ CARO. Next up: Mood Ring, New York City on Sun 22 Nov.
+nextdimensional is a techno and club artist based in United States of America, with 101 gigs on soundcheck across Atlanta, Chicago, Los Angeles and Minneapolis St Paul and 9 more. Often billed alongside HONEY B, RITCHRD and DJ CARO. Next up: Mood Ring, New York City on Sun 22 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 22 Nov 2026 | Mood Ring | New York City |
+| Thu, 10 Dec 2026 | Bossa Nova Civic Club | New York City |
 
 ## Recently played
 

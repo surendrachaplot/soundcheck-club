@@ -1,6 +1,6 @@
 # Cabaret Voltaire
 
-Cabaret Voltaire is a music venue in Edinburgh with 9 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Dreams 21+ - wAFF + more" on Fri, 13 Nov 2026.
+Cabaret Voltaire is a music venue in Edinburgh with 9 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Dreams Launch: wAFF | Over 21s" on Fri, 13 Nov 2026.
 
 Cabaret Voltaire is a music venue in Edinburgh listed on soundcheck. 9 upcoming gigs, with line-ups including Denis Sulta, Hayley Zalassi, jWave and Kitty Hall and 2 more. See dates, start times and who's playing. 36-38 Blair St; Edinburgh, EH1 1QR; Scotland; United Kingdom.
 
@@ -8,7 +8,7 @@ Cabaret Voltaire is a music venue in Edinburgh listed on soundcheck. 9 upcoming 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Dreams 21+ - wAFF + more | wAFF |
+| Fri, 13 Nov 2026 | Dreams Launch: wAFF / Over 21s | wAFF |
 | Sat, 14 Nov 2026 | NCTRN030: Club Nocturne presents Hayley Zalassi | Hayley Zalassi |
 | Thu, 19 Nov 2026 | Bpm - Blonded |  |
 | Fri, 20 Nov 2026 | For the Love of House: jWave & Local Dub [You&Me] | Local Dub, jWave |

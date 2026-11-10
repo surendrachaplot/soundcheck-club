@@ -3797,8 +3797,6 @@ a.fst-t:hover{text-decoration:underline}
     .dst-carts{ display:flex; flex-wrap:wrap; column-gap:16px; row-gap:10px; }
     .dst-carts a, .dst-carts b{ display:inline-flex; align-items:center; gap:8px; min-height:28px; font:700 15px/20px var(--body); color:var(--fg); text-decoration:none; }
     .dst-carts i{ width:28px; height:28px; flex:none; border-radius:999px; background-size:cover; background-position:center; background-color:var(--surface-3); }
-    .pf-up-dh{ font:700 12px/16px var(--body); letter-spacing:.08em; text-transform:uppercase; color:var(--muted); margin:18px 0 8px; }
-    .pf-up-dh:first-child{ margin-top:4px; }
     /* Hero buttons in ONE row on every page (Paper NEXT 30 Oct, option A; artist, gig, venue, promoter):
        natural widths, M tier on a phone, short labels. A phone narrower than the row scrolls it sideways
        (never wraps, never stretches). */
@@ -5533,7 +5531,7 @@ a.fst-t:hover{text-decoration:underline}
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1794275564846">
+<meta name="sc-build" content="1794307903309">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Gigs%20%26%20artist%20sets%20in%20171%20cities" />
 </head>
@@ -5593,7 +5591,7 @@ a.fst-t:hover{text-decoration:underline}
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-11-10/">Tue 10 Nov <span class="c">5 events</span></a></li><li><a href="/london/2026-11-11/">Wed 11 Nov <span class="c">13 events</span></a></li><li><a href="/london/2026-11-12/">Thu 12 Nov <span class="c">36 events</span></a></li><li><a href="/london/2026-11-13/">Fri 13 Nov <span class="c">107 events</span></a></li><li><a href="/london/2026-11-14/">Sat 14 Nov <span class="c">134 events</span></a></li><li><a href="/london/2026-11-15/">Sun 15 Nov <span class="c">25 events</span></a></li><li><a href="/london/2026-11-17/">Tue 17 Nov <span class="c">4 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 171 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-11-10/">Tue 10 Nov <span class="c">6 events</span></a></li><li><a href="/london/2026-11-11/">Wed 11 Nov <span class="c">14 events</span></a></li><li><a href="/london/2026-11-12/">Thu 12 Nov <span class="c">37 events</span></a></li><li><a href="/london/2026-11-13/">Fri 13 Nov <span class="c">109 events</span></a></li><li><a href="/london/2026-11-14/">Sat 14 Nov <span class="c">136 events</span></a></li><li><a href="/london/2026-11-15/">Sun 15 Nov <span class="c">26 events</span></a></li><li><a href="/london/2026-11-17/">Tue 17 Nov <span class="c">4 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 171 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          h1 in the DOM (on home and city pages; build-seo makes it an h2 elsewhere), so it is
@@ -12406,19 +12404,21 @@ a.fst-t:hover{text-decoration:underline}
         };
         _svPaint();
       } else eb.remove(); }
-      // Upcoming tab (your own diary): saved + going from today, soonest first, one block per day
+      // Upcoming tab (your own diary): saved + going from today, soonest first, ONE grid (JAC-198:
+      // per-day blocks looked broken with one gig a day). Each card carries its own date + venue · city.
       var ub=document.getElementById('pf-upcoming');
       if(ub){
         var _uT=todayISO(), _uEv=(s.events||[]).filter(function(e){ return String(e.day||'').slice(0,10)>=_uT; })
           .sort(function(a,b){ var x=String(a.day).slice(0,10)+(a.start||''), y=String(b.day).slice(0,10)+(b.start||''); return x<y?-1:x>y?1:0; });
-        var days=[]; _uEv.forEach(function(e){ var d=String(e.day).slice(0,10); if(!days.length||days[days.length-1].d!==d) days.push({ d:d, l:[] }); days[days.length-1].l.push(e); });
-        ub.innerHTML=days.map(function(g,i){ return '<div class="pf-up-dh">'+(g.d===_uT?'Tonight':fmtDateLabel(g.d))+'</div><div class="pf-box" id="pf-up-'+i+'"></div>'; }).join('');
-        days.forEach(function(g,i){
-          var box=document.getElementById('pf-up-'+i);
-          mountEventCards(box, g.l.map(function(e){ return { id:e.id, title:e.title, venue:e.venue, event_date:e.day, poster_url:e.poster_url, lineup:e.lineup }; }), {showCity:true});
-          // the card's time line says which: Going or Saved
-          g.l.forEach(function(e){ var m=box.querySelector('.gcard[data-evt="'+CSS.escape(String(e.id))+'"] .lv-m'); if(m) m.insertAdjacentHTML('beforeend',' &middot; '+(e.status==='going'?'Going':'Saved')); });
-        });
+        ub.innerHTML=_uEv.length?'<div class="pf-box" id="pf-up-0"></div>':'';
+        var box=document.getElementById('pf-up-0');
+        if(box){
+          mountEventCards(box, _uEv.map(function(e){ return { id:e.id, title:e.title, venue:e.venue, city:e.city, event_date:e.day, start_time:e.start, poster_url:e.poster_url, lineup:e.lineup }; }), {showCity:true});
+          // Going or Saved: on the phone row's time line; on the web card as the poster's glass tag (the genre stamp's slot — these rows carry no genres)
+          _uEv.forEach(function(e){ var c=box.querySelector('.gcard[data-evt="'+CSS.escape(String(e.id))+'"]'), w=e.status==='going'?'Going':'Saved'; if(!c) return;
+            var m=c.querySelector('.lv-m'), h=c.querySelector('.evc-hero');
+            if(m) m.insertAdjacentHTML('beforeend',' &middot; '+w); else if(h) h.insertAdjacentHTML('beforeend','<div class="evc-genres"><span class="evc-gtag">'+w+'</span></div>'); });
+        }
       }
       if(p.isMe){ fillPlaylists(); wireSuggest(); }
       document.querySelectorAll('.pfh-ribbon .c[data-follows]').forEach(function(c){

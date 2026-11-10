@@ -9,7 +9,7 @@ Brix LDN is a music venue in London listed on soundcheck. 2 upcoming gigs. See d
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Second Tracks |  |
-| Thu, 31 Dec 2026 | Supa Dupa Fly New Years Eve |  |
+| Thu, 31 Dec 2026 | Supa Dupa Fly: R&B NYE |  |
 
 ## Address
 

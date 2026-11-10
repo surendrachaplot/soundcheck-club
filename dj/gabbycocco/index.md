@@ -9,7 +9,7 @@ gabby cocco is a house and disco artist based in United States of America, with 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 19 Nov 2026 | Good Room | New York City |
-| Sat, 21 Nov 2026 | TBA | New York City |
+| Sat, 21 Nov 2026 | Green Room NYC | New York City |
 | Fri, 27 Nov 2026 | Le Bain | New York City |
 | Thu, 10 Dec 2026 | Good Room | New York City |
 

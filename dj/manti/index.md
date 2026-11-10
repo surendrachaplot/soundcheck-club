@@ -1,13 +1,14 @@
 # MANTi
 
-MANTi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Kater, Berlin on Sat, 28 Nov 2026.
+MANTi is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Eden NYC, New York City on Fri, 20 Nov 2026.
 
-MANTi is a techno and house artist based in Iran, with 57 gigs on soundcheck across Amsterdam, Athens, Austin and Beijing and 12 more. Often billed alongside Mira, ELIF and Borella. Next up: Kater, Berlin on Sat 28 Nov.
+MANTi is a techno and house artist based in Iran, with 58 gigs on soundcheck across Amsterdam, Athens, Austin and Beijing and 12 more. Often billed alongside Mira, ELIF and Borella. Next up: Eden NYC, New York City on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | Eden NYC | New York City |
 | Sat, 28 Nov 2026 | Kater | Berlin |
 
 ## Recently played

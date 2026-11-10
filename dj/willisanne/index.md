@@ -1,14 +1,14 @@
 # Willis Anne
 
-Willis Anne is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Collingwood Attic (64 Smith Street), Melbourne on Fri, 13 Nov 2026.
+Willis Anne is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at New Guernica, Melbourne on Fri, 13 Nov 2026.
 
-Willis Anne is a techno and house artist based in France, with 44 gigs on soundcheck across Berlin, Ho Chi Minh City, Melbourne and Osaka and 3 more. Often billed alongside Kate Miller, Rakhi and DJ Possum. Next up: TBA - Collingwood Attic (64 Smith Street), Melbourne on Fri 13 Nov.
+Willis Anne is a techno and house artist based in France, with 44 gigs on soundcheck across Berlin, Ho Chi Minh City, Melbourne and Osaka and 3 more. Often billed alongside Kate Miller, Rakhi and DJ Possum. Next up: New Guernica, Melbourne on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | TBA - Collingwood Attic (64 Smith Street) | Melbourne |
+| Fri, 13 Nov 2026 | New Guernica | Melbourne |
 
 ## Recently played
 

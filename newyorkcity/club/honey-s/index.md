@@ -12,7 +12,7 @@ Honey's is a music venue in New York City listed on soundcheck. 8 upcoming gigs,
 | Fri, 13 Nov 2026 | Cause & Effect: Shameless Deejay & Union | Shameless Deejay, Union (US) |
 | Sun, 15 Nov 2026 | Orbit Night: Caire b2b Wauce, SubSpace (Space Gray & Subjxct 5), Garbage b2b Union | Caire, Subjxct 5, Wauce |
 | Sat, 21 Nov 2026 | Stop1 Year2 | Iggy Nuclear, Isadora, Kettle, Kindred (2), Rila |
-| Sun, 29 Nov 2026 | Painfully Hueman Vol. 1 | LITA DA DOLL, SEXINCHURCH |
+| Sun, 29 Nov 2026 | Painfully Hueman Vol. 1 | SEXINCHURCH, thembow |
 | Tue, 1 Dec 2026 | Swallowed Open Decks |  |
 | Fri, 4 Dec 2026 | Village Hidden in Sound | ANICHE, Ash (14), Choo Choo, Kettle, SHRAY, ceviché |
 | Sat, 5 Dec 2026 | [PLACEHOLDER] presents Mutual Identities (NYC debut), Lou Isn't, and Bea Levy | Bea Levy, Lou Isn't, Mutual Identities, Pedestrian Access, dj goodboy (BK) |

@@ -1,14 +1,15 @@
 # Kai.F
 
-Kai.F is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Dada Beijing, Beijing on Wed, 11 Nov 2026.
+Kai.F is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Dada Beijing, Beijing on Wed, 11 Nov 2026.
 
-Kai.F is a house and techno artist based in China, with 84 gigs on soundcheck across Beijing, Chengdu, Chongqing and Shanghai and 1 more. Often billed alongside Nigls, SunMeng and Giórgi. Next up: Dada Beijing, Beijing on Wed 11 Nov.
+Kai.F is a house and techno artist based in China, with 85 gigs on soundcheck across Beijing, Chengdu, Chongqing and Shanghai and 1 more. Often billed alongside Nigls, SunMeng and Paradice Sinema. Next up: Dada Beijing, Beijing on Wed 11 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 11 Nov 2026 | Dada Beijing | Beijing |
+| Sat, 21 Nov 2026 | Groundless Factory | Beijing |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Kai.F is a house and techno artist based in China, with 84 gigs on soundcheck ac
 
 ## Shares bills with
 
-Nigls, SunMeng, Giórgi
+Nigls, SunMeng, Paradice Sinema
 
 *Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kai.f/)*

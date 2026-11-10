@@ -1,14 +1,13 @@
 # KitKatClub
 
-KitKatClub is a music venue in Berlin with 26 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Electric Monday@KitKat" on Mon, 9 Nov 2026.
+KitKatClub is a music venue in Berlin with 25 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "SYMBIOTIKKA at KitKat Club Berlin" on Wed, 11 Nov 2026.
 
-KitKatClub is a music venue in Berlin listed on soundcheck. 26 upcoming gigs, with line-ups including AAguilAA, ADAM MUNNINGS, androgienia and Ari Denaro and 2 more. See dates, start times and who's playing. Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany.
+KitKatClub is a music venue in Berlin listed on soundcheck. 25 upcoming gigs, with line-ups including AAguilAA, ADAM MUNNINGS, androgienia and Ari Denaro and 2 more. See dates, start times and who's playing. Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 9 Nov 2026 | Electric Monday@KitKat | Frankie Flowerz, Ludmila Houben, Ricardo Rodriguez |
 | Wed, 11 Nov 2026 | SYMBIOTIKKA at KitKat Club Berlin | DJ Jordan, Heepmann, LadyBird aka C.J. Parker, maniaclina |
 | Thu, 12 Nov 2026 | PSYCHO Collage | Ari Denaro |
 | Fri, 13 Nov 2026 | GEGEN SPORTS | AAguilAA, BOYCA, Buday, Byron Yeates, CHRANDY, Citizens Union, Cristian Marras, IVRA, Juan Cernadas, Liad Krispin, Lucas Abadi, PLATTER, Schacke, androgienia, g3kko |
@@ -18,6 +17,7 @@ KitKatClub is a music venue in Berlin listed on soundcheck. 26 upcoming gigs, wi
 | Wed, 18 Nov 2026 | SYMBIOTIKKA at KitKat Club Berlin meets Salty Pleasure | DJ Jordan, Flakka (2), Kjar, Miss Pin |
 | Thu, 19 Nov 2026 | SEVEN SINS: NOVEMBER SIN | Cryptofauna, rubi* |
 | Fri, 20 Nov 2026 | The Mystic Rose meets EAT STATIC & 30 Jahre COSMIC WALKERS | Chris Zippel, Der Loth |
+| Sun, 22 Nov 2026 | Nachspiel |  |
 
 ## Address
 

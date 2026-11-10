@@ -8,7 +8,7 @@ Howler is a music venue in Melbourne listed on soundcheck. 3 upcoming gigs, with
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 15 Nov 2026 | 7 YEARS OF ISU TAKI ft: Rodrigo Gallardo (Chile) | Cuerpo Negro, Otorongo, Rodrigo Gallardo |
+| Sun, 15 Nov 2026 | 7 YEARS OF ISU TAKI ft: Rodrigo Gallardo (Chile) | Cuerpo Negro, Rodrigo Gallardo |
 | Sat, 12 Dec 2026 | Planet Pink - Sarah Sommers Live (Berlin) | Lask, Sarah Sommers, Sophie Forrest, bbsanii |
 | Sat, 16 Jan 2027 | Overtake x Blackout Frequency present: KARA [UK] | Kara (UK) |
 

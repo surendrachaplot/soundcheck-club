@@ -2,7 +2,7 @@
 
 Zulu (FR) is a Experimental and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Le Poisson Volant, Paris on Thu, 12 Nov 2026.
 
-Zulu (FR) is an experimental and electro artist, with 12 gigs on soundcheck across Brussels, Nantes, Paris and Zurich. Often billed alongside Lisa More, Babyfather and Baraka. Next up: Le Poisson Volant, Paris on Thu 12 Nov.
+Zulu (FR) is an experimental and electro artist based in France, with 12 gigs on soundcheck across Brussels, Nantes, Paris and Zurich. Often billed alongside Lisa More, Babyfather and Baraka. Next up: Le Poisson Volant, Paris on Thu 12 Nov.
 
 ## Upcoming shows
 

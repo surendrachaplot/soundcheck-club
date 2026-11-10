@@ -1,13 +1,14 @@
 # VIBRAN
 
-VIBRAN is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Salon Daomé, Montreal on Thu, 19 Nov 2026.
+VIBRAN is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Blue Room, Montreal on Sat, 14 Nov 2026.
 
-VIBRAN is a house and disco artist based in Canada, with 30 gigs on soundcheck across Montreal. Often billed alongside Jino K, Deneb and MilSif. Next up: Salon Daomé, Montreal on Thu 19 Nov.
+VIBRAN is a house and disco artist based in Canada, with 31 gigs on soundcheck across Montreal. Often billed alongside Jino K, Deneb and MilSif. Next up: Blue Room, Montreal on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | Blue Room | Montreal |
 | Thu, 19 Nov 2026 | Salon Daomé | Montreal |
 
 ## Recently played

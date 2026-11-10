@@ -14,7 +14,7 @@ Seaseaclub Barcelona is a music venue in Barcelona listed on soundcheck. 7 upcom
 | Sat, 28 Nov 2026 | ■ Checkpoint & Les Enfants goes to Seaseaclub with The Ghost, Evan Baggs  | Evan Baggs, Mari.te, Otis, Paul Lution, Punky and the brain, Raf & Rod, The Ghost |
 | Sat, 5 Dec 2026 | Alta Fidelidad x DJ Service x Chez Perros pres. Lola Haro, Kyle Toole |  |
 | Sun, 6 Dec 2026 | Enrenou 1st anniversary pres. Binh | Binh, Javier Carballo, Tunik |
-| Fri, 1 Jan 2027 | AUDIODISE New Year's Day Festival - 14:00-02:00 - 4 stages |  |
+| Fri, 1 Jan 2027 | AUDIODISE New Year's Day - 14:00-02:00 - 4 stages |  |
 
 ## Address
 

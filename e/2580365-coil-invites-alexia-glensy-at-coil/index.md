@@ -1,6 +1,6 @@
 # Coil Invites: Alexia Glensy at Coil
 
-Coil Invites: Alexia Glensy on Fri 13 Nov, Melbourne. 3 artists: Alexia Glensy, DJ MBq and Mark Moon. Techno and Tech House. See the line-up on soundcheck.
+Coil Invites: Alexia Glensy on Fri 13 Nov, Melbourne. 1 artist: Alexia Glensy. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,5 @@ Coil Invites: Alexia Glensy on Fri 13 Nov, Melbourne. 3 artists: Alexia Glensy, 
 ## Line-up
 
 - Alexia Glensy
-- DJ MBq
-- Mark Moon
 
 *Source: [soundcheck](https://soundcheck.club/e/2580365-coil-invites-alexia-glensy-at-coil/)*

@@ -1,13 +1,14 @@
 # Plump DJs
 
-Plump DJs is a Breakbeat and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Felons Barrel Room, Manly Wharf, Sydney on Sat, 19 Dec 2026.
+Plump DJs is a Breakbeat and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Joshua Brooks, Manchester on Sat, 21 Nov 2026.
 
-Plump DJs is a breakbeat and house artist based in United Kingdom, with 23 gigs on soundcheck across Auckland, Birmingham, Brighton and Budapest and 8 more. Often billed alongside Krafty Kuts, Freestylers and Stanton Warriors. Next up: TBA - Felons Barrel Room, Manly Wharf, Sydney on Sat 19 Dec.
+Plump DJs is a breakbeat and house artist based in United Kingdom, with 24 gigs on soundcheck across Auckland, Birmingham, Brighton and Budapest and 8 more. Often billed alongside Krafty Kuts, Freestylers and Stanton Warriors. Next up: Joshua Brooks, Manchester on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | Joshua Brooks | Manchester |
 | Sat, 19 Dec 2026 | TBA - Felons Barrel Room, Manly Wharf | Sydney |
 
 ## Recently played

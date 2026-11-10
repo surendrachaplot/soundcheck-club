@@ -8,7 +8,7 @@ TBA - Il Mercato Centrale is a music venue in Melbourne listed on soundcheck. 2 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Eat The Beat Saturdays - Nov 21 feat. NOYSE, HUMAN ERROR & MORE | HUMAN  ERROR, Jessy, Lash, Mateo Blanco, Meeka, STVN |
+| Sat, 21 Nov 2026 | Eat The Beat Saturdays - Nov 21 feat. NOYSE, HUMAN ERROR & MORE | HUMAN ERROR, Jessy, Lash, Mateo Blanco, Meeka, STVN |
 | Thu, 31 Dec 2026 | NYE 2026 - Eat The Beat | AK SPORTS, Andrea Guadalupi, Bambii, Etwas, HYBE, John Course, Matteo Freyrie, Roja, VLAD (Terra Firma) |
 
 *Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/tba-il-mercato-centrale/)*

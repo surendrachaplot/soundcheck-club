@@ -1,13 +1,14 @@
 # Sanna Mun
 
-Sanna Mun is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The DBA, Manchester on Fri, 1 Jan 2027.
+Sanna Mun is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Groundless Factory, Beijing on Sat, 21 Nov 2026.
 
-Sanna Mun is a techno and house artist, with 46 gigs on soundcheck across Amsterdam, Berlin, Birmingham and Bologna and 18 more. Often billed alongside Amanda Mussi, CONCEPTUAL and Function. Next up: The DBA, Manchester on Fri 1 Jan.
+Sanna Mun is a techno and house artist, with 47 gigs on soundcheck across Amsterdam, Beijing, Berlin and Birmingham and 19 more. Often billed alongside Amanda Mussi, CONCEPTUAL and Function. Next up: Groundless Factory, Beijing on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | Groundless Factory | Beijing |
 | Fri, 1 Jan 2027 | The DBA | Manchester |
 
 ## Recently played

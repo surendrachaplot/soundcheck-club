@@ -1,13 +1,14 @@
 # Myd
 
-Myd is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Hydrozagadka, Warsaw on Fri, 11 Dec 2026.
+Myd is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at The Carpet Shop, London on Thu, 26 Nov 2026.
 
-Myd is a house and electro artist based in France, with 118 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 30 more. Often billed alongside Busy P, Breakbot and Cassius. Next up: Hydrozagadka, Warsaw on Fri 11 Dec.
+Myd is a house and electro artist based in France, with 119 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 30 more. Often billed alongside Busy P, Breakbot and Cassius. Next up: The Carpet Shop, London on Thu 26 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 26 Nov 2026 | The Carpet Shop | London |
 | Fri, 11 Dec 2026 | Hydrozagadka | Warsaw |
 | Sat, 23 Jan 2027 | Warehouse | Nantes |
 

@@ -1,11 +1,15 @@
 # Guts (DJ) - Extended Session at Jazz Cafe at The Jazz Cafe
 
-Guts (DJ) - Extended Session at Jazz Cafe at The Jazz Cafe on Fri 18 Dec, London. See the line-up on soundcheck.
+Guts (DJ) - Extended Session at Jazz Cafe at The Jazz Cafe on Fri 18 Dec, London. 1 artist: Poly-Ritmo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Fri, 18 Dec 2026 |
 | Venue | The Jazz Cafe |
 | City | London |
+
+## Line-up
+
+- Poly-Ritmo
 
 *Source: [soundcheck](https://soundcheck.club/e/2508358-guts-dj-extended-session-at-jazz-cafe-at-the-jazz-cafe/)*

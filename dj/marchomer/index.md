@@ -9,7 +9,7 @@ Marc Homer is a techno and house artist based in Germany, with 40 gigs on soundc
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Menjo's | Detroit |
-| Sat, 5 Dec 2026 | TBA - 310 W 7 MILE | Detroit |
+| Sat, 5 Dec 2026 | SOS 7 Mile | Detroit |
 
 ## Recently played
 

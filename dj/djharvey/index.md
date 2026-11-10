@@ -1,14 +1,15 @@
 # DJ Harvey
 
-DJ Harvey is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Knockdown Center, New York City on Fri, 13 Nov 2026.
+DJ Harvey is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Knockdown Center, New York City on Fri, 13 Nov 2026.
 
-DJ Harvey is a house and techno artist based in United States of America, with 62 gigs on soundcheck across Amsterdam, Austin, Bali and Chicago and 15 more. Often billed alongside Heidi Lawden, Seth Troxler and Natasha Diggs. Next up: Knockdown Center, New York City on Fri 13 Nov.
+DJ Harvey is a house and techno artist based in United States of America, with 63 gigs on soundcheck across Amsterdam, Austin, Bali and Chicago and 15 more. Often billed alongside Heidi Lawden, Seth Troxler and Masha Mar. Next up: Knockdown Center, New York City on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Knockdown Center | New York City |
+| Wed, 25 Nov 2026 | Catch One | Los Angeles |
 | Fri, 28 May 2027 | Peckham Rye Park | London |
 
 ## Recently played
@@ -24,6 +25,6 @@ DJ Harvey is a house and techno artist based in United States of America, with 6
 
 ## Shares bills with
 
-Heidi Lawden, Seth Troxler, Natasha Diggs
+Heidi Lawden, Seth Troxler, Masha Mar
 
 *Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djharvey/)*

@@ -1,14 +1,15 @@
 # Winslow
 
-Winslow is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at The Art School, Glasgow on Fri, 20 Nov 2026.
+Winslow is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at The Art School, Glasgow on Fri, 20 Nov 2026.
 
-Winslow is a drum & bass and jungle artist based in United States of America, with 25 gigs on soundcheck across Boston, Bristol, Columbus and Edinburgh and 8 more. Often billed alongside imo-Lu, Bristol Luke and London Elektricity. Next up: The Art School, Glasgow on Fri 20 Nov.
+Winslow is a drum & bass and jungle artist based in United States of America, with 26 gigs on soundcheck across Boston, Bristol, Columbus and Edinburgh and 8 more. Often billed alongside imo-Lu, Bristol Luke and London Elektricity. Next up: The Art School, Glasgow on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | The Art School | Glasgow |
+| Fri, 11 Dec 2026 | The Art School | Glasgow |
 | Sat, 30 Jan 2027 | Last Arch | London |
 
 ## Recently played

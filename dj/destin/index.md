@@ -2,7 +2,7 @@
 
 Destin is a Footwork and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Lovehaus, Seoul on Sat, 14 Nov 2026.
 
-Destin is a footwork and hip-hop artist, with 7 gigs on soundcheck across Seoul. Often billed alongside Delic'amarr, MSG and HYUNHXEE. Next up: Lovehaus, Seoul on Sat 14 Nov.
+Destin is a footwork and hip-hop artist based in South Korea, with 7 gigs on soundcheck across Seoul. Often billed alongside Delic'amarr, MSG and HYUNHXEE. Next up: Lovehaus, Seoul on Sat 14 Nov.
 
 ## Upcoming shows
 

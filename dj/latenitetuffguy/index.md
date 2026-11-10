@@ -1,13 +1,14 @@
 # Late Nite Tuff Guy
 
-Late Nite Tuff Guy is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Hindley Street Music Hall, Adelaide on Mon, 30 Nov 2026.
+Late Nite Tuff Guy is a House and Disco artist with 8 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Electric Circus, Adelaide on Sat, 28 Nov 2026.
 
-Late Nite Tuff Guy is a house and disco artist based in Australia, with 26 gigs on soundcheck across Adelaide, Auckland, Bali and Byron Bay and 3 more. Often billed alongside Aline Rocha, DJ HMC and The Shapeshifters. Next up: Hindley Street Music Hall, Adelaide on Mon 30 Nov.
+Late Nite Tuff Guy is a house and disco artist based in Australia, with 27 gigs on soundcheck across Adelaide, Auckland, Bali and Byron Bay and 3 more. Often billed alongside Aline Rocha, DJ HMC and The Shapeshifters. Next up: Electric Circus, Adelaide on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | Electric Circus | Adelaide |
 | Mon, 30 Nov 2026 | Hindley Street Music Hall | Adelaide |
 | Wed, 2 Dec 2026 | Ice Cream Factory | Perth |
 | Wed, 30 Dec 2026 | Leighton's Farm | Auckland |

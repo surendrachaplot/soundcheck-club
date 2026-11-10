@@ -1,8 +1,8 @@
 # Monarch
 
-Monarch is a music venue in San Francisco/Oakland with 14 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Navid Izadi: AYANDE — A Celebration of Life & Music" on Thu, 12 Nov 2026.
+Monarch is a music venue in San Francisco/Oakland with 15 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Navid Izadi: AYANDE — A Celebration of Life & Music" on Thu, 12 Nov 2026.
 
-Monarch is a music venue in San Francisco/Oakland listed on soundcheck. 14 upcoming gigs, with line-ups including .KINA, 1OO1O, 93FM and Amatric and 2 more. See dates, start times and who's playing. 101 6th Street, San Francisco, CA 94103, United States.
+Monarch is a music venue in San Francisco/Oakland listed on soundcheck. 15 upcoming gigs, with line-ups including .KINA, 1OO1O, 93FM and Amatric and 2 more. See dates, start times and who's playing. 101 6th Street, San Francisco, CA 94103, United States.
 
 ## What's on
 
@@ -14,10 +14,10 @@ Monarch is a music venue in San Francisco/Oakland listed on soundcheck. 14 upcom
 | Thu, 19 Nov 2026 | Bump | Camillionaire, FeLine, Huffy (2) |
 | Fri, 20 Nov 2026 | Marsolo | Marsolo |
 | Sat, 21 Nov 2026 | Revolutions: Staxx of Wax | Duserock |
+| Fri, 27 Nov 2026 | Darren Davis in the Lounge |  |
 | Sat, 5 Dec 2026 | FRYTM presents: SAGMO (Maccabi House) | .KINA, Kohbain, Matony, SAGMO |
 | Fri, 11 Dec 2026 | As You Like It Unedited: Open to Close with Axel Boman | Axel Boman |
 | Fri, 11 Dec 2026 | Planet Synth Holiday Soirée at Upstairs Lounge | Amatric, DJ Cira, Evbot |
-| Sat, 12 Dec 2026 | majorcrrush |  |
 
 ## Address
 

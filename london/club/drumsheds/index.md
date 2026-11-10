@@ -9,7 +9,7 @@ DRUMSHEDS is a music venue in London listed on soundcheck. 13 upcoming gigs, wit
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | La Discothèque with Purple Disco Machine, Folamour, Dan Shake, Ron Trent, Jayda G | DJ Paulette, Daisybelle, Dan Shake, Dombresky, Folamour, Heléna Star, Jayda G, Jennifer Loveless, Purple Disco Machine, Ron Trent, SIGGY, Tarzsa |
-| Sat, 14 Nov 2026 | A State Of Trance with Armin van Buuren | Amber Broos, Arielle, Ben Hemsley, Cosmic Gate, Ferry Corsten, Funk Tribu, GIA, Jordan Tilstone, Olive Anguz, Pegassi, River (1), Ruben de Ronde, The Rocketman, Thick As Thieves |
+| Sat, 14 Nov 2026 | A State Of Trance with Armin van Buuren | Amber Broos, Arielle, Armin van Buuren, Ben Hemsley, Cosmic Gate, Ferry Corsten, Funk Tribu, GIA, Jordan Tilstone, Olive Anguz, Pegassi, River (1), Ruben de Ronde, The Rocketman, Thick As Thieves |
 | Sat, 21 Nov 2026 | City Splash with Masicka, Spice, Rampage Sound and many more | DJ Ace, DJ Nate, Pioneer, Rampage Sound, Spice, Supa D, TERMINAL 4 |
 | Sat, 28 Nov 2026 | FUSE 18th Birthday w/ Enzo Siragusa b2b Rossi., Luciano, Marlie b2b Natalia Roth, Marsolo | ADMNTi, Apollonia, Boss Priester, Brawther, Dan Ghenacia, Dungeon Meat, Dyed Soundorom, E.LINA, Enzo Siragusa, Jhobei, Julian Anthony, Kepler, L.P. Rhythm, Laidlaw, Luciano, Marlie, Marsolo, Natalia Roth, PACH, Reeshy, Rossi, Samuel Deep, Shonky, Sweely, Traumer, Tristan da Cunha, Voigtmann |
 | Sat, 28 Nov 2026 | FUSE London |  |

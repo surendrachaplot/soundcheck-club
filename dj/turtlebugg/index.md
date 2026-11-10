@@ -1,14 +1,15 @@
 # Turtle Bugg
 
-Turtle Bugg is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Northern Lights Lounge, Detroit on Sat, 14 Nov 2026.
+Turtle Bugg is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Northern Lights Lounge, Detroit on Sat, 14 Nov 2026.
 
-Turtle Bugg is a house and techno artist based in United States of America, with 55 gigs on soundcheck across Baltimore, Chicago, Cleveland and Detroit and 3 more. Often billed alongside Shigeto, Savannah G and Kenjiro. Next up: Northern Lights Lounge, Detroit on Sat 14 Nov.
+Turtle Bugg is a house and techno artist based in United States of America, with 56 gigs on soundcheck across Baltimore, Chicago, Cleveland and Detroit and 3 more. Often billed alongside Shigeto, Savannah G and Kenjiro. Next up: Northern Lights Lounge, Detroit on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Northern Lights Lounge | Detroit |
+| Fri, 20 Nov 2026 | TV Lounge | Detroit |
 
 ## Recently played
 

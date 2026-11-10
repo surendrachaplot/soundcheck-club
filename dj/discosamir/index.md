@@ -2,7 +2,7 @@
 
 Disco Samir is a Electronica and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Crack Bellmer, Berlin on Sun, 22 Nov 2026.
 
-Disco Samir is an electronica and club artist, with 8 gigs on soundcheck across Berlin. Often billed alongside 80HDJ, DAEDE and Konstanthyme. Next up: Crack Bellmer, Berlin on Sun 22 Nov.
+Disco Samir is an electronica and club artist based in Lebanon, with 8 gigs on soundcheck across Berlin. Often billed alongside 80HDJ, DAEDE and Konstanthyme. Next up: Crack Bellmer, Berlin on Sun 22 Nov.
 
 ## Upcoming shows
 

@@ -2,7 +2,7 @@
 
 Berk is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at DNA Lounge, San Francisco/Oakland on Fri, 20 Nov 2026.
 
-Berk is a techno and club artist, with 7 gigs on soundcheck across Berlin, Istanbul and San Francisco/Oakland. Often billed alongside maniac&me, An Dy and Bärtaub. Next up: DNA Lounge, San Francisco/Oakland on Fri 20 Nov.
+Berk is a techno and club artist based in Turkey, with 7 gigs on soundcheck across Berlin, Istanbul and San Francisco/Oakland. Often billed alongside maniac&me, An Dy and Bärtaub. Next up: DNA Lounge, San Francisco/Oakland on Fri 20 Nov.
 
 ## Upcoming shows
 

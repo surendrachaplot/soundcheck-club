@@ -10,7 +10,7 @@ Brent Shay is a techno and house artist based in United States of America, with 
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | TBA | Detroit |
 | Wed, 25 Nov 2026 | Corktown Tavern | Detroit |
-| Sat, 5 Dec 2026 | TBA - 310 W 7 MILE | Detroit |
+| Sat, 5 Dec 2026 | SOS 7 Mile | Detroit |
 
 ## Recently played
 

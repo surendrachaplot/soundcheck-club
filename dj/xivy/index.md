@@ -1,13 +1,14 @@
 # X & Ivy
 
-X & Ivy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Barunah Plains, Victoria on Mon, 28 Dec 2026.
+X & Ivy is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Flash, Washington DC on Sat, 12 Dec 2026.
 
-X & Ivy are a house and techno duo, with 28 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Leeds and 6 more. Often billed alongside Jojo Lorenzo, Tinzo and D Stone. Next up: Barunah Plains, Victoria on Mon 28 Dec.
+X & Ivy are a house and techno duo, with 29 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Leeds and 7 more. Often billed alongside Jojo Lorenzo, Tinzo and D Stone. Next up: Flash, Washington DC on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Dec 2026 | Flash | Washington DC |
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |
 
 ## Recently played

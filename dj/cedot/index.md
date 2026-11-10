@@ -2,7 +2,7 @@
 
 Cedot is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Le Sucre, Lyon on Sat, 26 Dec 2026.
 
-Cedot is a techno and trance artist, with 9 gigs on soundcheck across Lyon. Often billed alongside Laure Croft, Luca and Parallx. Next up: Le Sucre, Lyon on Sat 26 Dec.
+Cedot is a techno and trance artist based in France, with 9 gigs on soundcheck across Lyon. Often billed alongside Laure Croft, Luca and Parallx. Next up: Le Sucre, Lyon on Sat 26 Dec.
 
 ## Upcoming shows
 

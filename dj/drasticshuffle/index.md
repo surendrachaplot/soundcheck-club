@@ -1,14 +1,15 @@
 # Drastic Shuffle
 
-Drastic Shuffle is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Hoxton Cabin, London on Fri, 20 Nov 2026.
+Drastic Shuffle is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Hoxton Cabin, London on Fri, 20 Nov 2026.
 
-Drastic Shuffle is a house and deep house artist based in Mexico, with 25 gigs on soundcheck across London. Often billed alongside Benebe, MAÏS and Make Money Mafia. Next up: Hoxton Cabin, London on Fri 20 Nov.
+Drastic Shuffle is a house and deep house artist based in Mexico, with 26 gigs on soundcheck across London. Often billed alongside Benebe, MAÏS and Make Money Mafia. Next up: Hoxton Cabin, London on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Hoxton Cabin | London |
+| Fri, 27 Nov 2026 | The Greyhound | London |
 
 ## Recently played
 

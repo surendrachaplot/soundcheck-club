@@ -1,13 +1,14 @@
 # Ze Salvador
 
-Ze Salvador is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Collect LX Factory, Lisbon on Sat, 21 Nov 2026.
+Ze Salvador is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at 5A, Lisbon on Fri, 20 Nov 2026.
 
-Ze Salvador is a techno and house artist based in Portugal, with 111 gigs on soundcheck across Lisbon and Porto. Often billed alongside Solid-Funk, Cruz (PT) and Kaesar. Next up: Collect LX Factory, Lisbon on Sat 21 Nov.
+Ze Salvador is a techno and house artist based in Portugal, with 112 gigs on soundcheck across Lisbon and Porto. Often billed alongside Solid-Funk, Cruz (PT) and Kaesar. Next up: 5A, Lisbon on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | 5A | Lisbon |
 | Sat, 21 Nov 2026 | Collect LX Factory | Lisbon |
 
 ## Recently played

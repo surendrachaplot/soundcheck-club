@@ -1,6 +1,6 @@
 # Surface DIY with Babylon Beach (Adam Rose & JJ Selects), Michael Fam, Capes at TBA
 
-Surface DIY with Babylon Beach (Adam Rose & JJ Selects), Michael Fam, Capes at TBA on Thu 12 Nov, Los Angeles. 3 artists: Adam Rose, Capes and Michael Fam. Progressive House and Tech House. See the line-up on soundcheck.
+Surface DIY with Babylon Beach (Adam Rose & JJ Selects), Michael Fam, Capes at TBA on Thu 12 Nov, Los Angeles. 3 artists: Adam Rose, Capes and Michael Fam. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

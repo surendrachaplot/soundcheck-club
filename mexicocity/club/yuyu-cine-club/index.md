@@ -9,7 +9,7 @@ YuYu Cine Club is a music venue in Mexico City listed on soundcheck. 4 upcoming 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Time Warp Afterparty: DVS1 | DVS1, MNTY |
-| Sat, 21 Nov 2026 | Time Warp Afterparty: CIARA CUVÉ | Celice Monnette, Clara Cuvé, sadgal |
+| Sat, 21 Nov 2026 | Time Warp Afterparty: CLARA CUVÉ | Celice Monnette, Clara Cuvé, sadgal |
 | Fri, 27 Nov 2026 | Yu Yu Cine Club: WiG Anniversary |  |
 | Fri, 11 Dec 2026 | Yu Yu Cine Club: DESFASE takeover with Annette, Nimue, Wolffer | Nimue, Wolffer |
 

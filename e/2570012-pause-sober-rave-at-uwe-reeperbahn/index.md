@@ -1,6 +1,6 @@
 # PAUSE: SOBER RAVE at UWE Reeperbahn
 
-PAUSE: SOBER RAVE at UWE Reeperbahn on Sat 14 Nov, Hamburg. 6 artists: Alina Viktoria, BREITBAND, Frank Rayo and Natta and 2 more. Trance and Techno. See the line-up on soundcheck.
+PAUSE: SOBER RAVE at UWE Reeperbahn on Sat 14 Nov, Hamburg. 6 artists: Alina Viktoria, BREITBAND, Frank Rayo and NATTA (DE) and 2 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,7 +13,7 @@ PAUSE: SOBER RAVE at UWE Reeperbahn on Sat 14 Nov, Hamburg. 6 artists: Alina Vik
 - Alina Viktoria
 - BREITBAND
 - Frank Rayo
-- Natta
+- NATTA (DE)
 - rodmor
 - TRYPTAJ
 

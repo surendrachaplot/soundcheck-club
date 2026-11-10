@@ -9,7 +9,7 @@ MUENZE is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with li
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | BCCO x Hot Meal | Alycia Bezgo, Bad Boombox, DJ Cringey, DJ Hyperdrive, David Löhlein, Félicie, Gusted, Janis Zielinski, Pōnky, SAIKA, TOXIMAMI, future.666, lizaliza, ÜBERKIKZ |
-| Wed, 30 Dec 2026 | BCCO x 240KMH | AEREA, Alycia Bezgo, BIIA, Brtinzz, CHAPTO_LINES, Caniche, DJ Cringey, DJ Hyperdrive, DJ SKIN, FANK, FILTRACK, GIØ (1), HALF LIFE, HUMAN  ERROR, JKS, Josh Heywood, Klaps, Luxi Villar, MAURER, Mislaw, Nuke, OUST, Per Pleks, SAIKA, SOLE DOSI, Sept, Sicion, Simone Zino, Viktoria Spielmann, WILDERÍCH, future.666, ines isla, zwilling., ÜBERKIKZ |
+| Wed, 30 Dec 2026 | BCCO x 240KMH | AEREA, Alycia Bezgo, BIIA, Brtinzz, CHAPTO_LINES, Caniche, DJ Cringey, DJ Hyperdrive, DJ SKIN, FANK, FILTRACK, GIØ (1), HALF LIFE, HUMAN ERROR, JKS, Josh Heywood, Klaps, Luxi Villar, MAURER, Mislaw, Nuke, OUST, Per Pleks, SAIKA, SOLE DOSI, Sept, Sicion, Simone Zino, Viktoria Spielmann, WILDERÍCH, future.666, ines isla, zwilling., ÜBERKIKZ |
 
 ## Address
 

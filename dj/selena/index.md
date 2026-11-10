@@ -1,14 +1,15 @@
 # SELENA
 
-SELENA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Northcote Theatre, Melbourne on Sat, 14 Nov 2026.
+SELENA is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Northcote Theatre, Melbourne on Sat, 14 Nov 2026.
 
-SELENA is a techno and house artist based in South Korea, with 17 gigs on soundcheck across Barcelona, Dubai, Melbourne and Seoul. Often billed alongside SILVERSTAR OH, Bagagee Viphex13 and Mukthi. Next up: Northcote Theatre, Melbourne on Sat 14 Nov.
+SELENA is a techno and house artist based in South Korea, with 18 gigs on soundcheck across Barcelona, Dubai, Melbourne and Seoul. Often billed alongside SILVERSTAR OH, Bagagee Viphex13 and Moopie. Next up: Northcote Theatre, Melbourne on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Northcote Theatre | Melbourne |
+| Sun, 6 Dec 2026 | Collingwood Yards | Melbourne |
 | Thu, 31 Dec 2026 | Collingwood Children's Farm | Melbourne |
 
 ## Recently played
@@ -24,6 +25,6 @@ SELENA is a techno and house artist based in South Korea, with 17 gigs on soundc
 
 ## Shares bills with
 
-SILVERSTAR OH, Bagagee Viphex13, Mukthi
+SILVERSTAR OH, Bagagee Viphex13, Moopie
 
 *Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/selena/)*

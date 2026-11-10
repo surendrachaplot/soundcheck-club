@@ -1,13 +1,14 @@
 # Restricted
 
-Restricted is a Techno and Hardcore artist with 10 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Espacio Riesco Expo Centre, Santiago on Sat, 21 Nov 2026.
+Restricted is a Techno and Hardcore artist with 11 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Factory Town, Miami on Fri, 13 Nov 2026.
 
-Restricted is a techno and hardcore artist based in Australia, with 91 gigs on soundcheck across Amsterdam, Antwerp, Arizona and Athens and 56 more. Often billed alongside Azyr, Onlynumbers and Vieze Asbak. Next up: Espacio Riesco Expo Centre, Santiago on Sat 21 Nov.
+Restricted is a techno and hardcore artist based in Australia, with 92 gigs on soundcheck across Amsterdam, Antwerp, Arizona and Athens and 57 more. Often billed alongside Azyr, Onlynumbers and Vieze Asbak. Next up: Factory Town, Miami on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | Factory Town | Miami |
 | Sat, 21 Nov 2026 | Espacio Riesco Expo Centre | Santiago |
 | Fri, 27 Nov 2026 | The Prospect Building | Bristol |
 | Fri, 27 Nov 2026 | The Prospect Building | Bristol |

@@ -1,14 +1,15 @@
 # Wigbert
 
-Wigbert is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Tokonoma Club, Frankfurt on Sat, 14 Nov 2026.
+Wigbert is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Tokonoma Club, Frankfurt on Sat, 14 Nov 2026.
 
-Wigbert is a techno and house artist based in Germany, with 16 gigs on soundcheck across Frankfurt, Hamburg and London. Often billed alongside Anna Hjalmarsson, Dussmann and Kim She. Next up: Tokonoma Club, Frankfurt on Sat 14 Nov.
+Wigbert is a techno and house artist based in Germany, with 17 gigs on soundcheck across Frankfurt, Hamburg and London. Often billed alongside Anna Hjalmarsson, Dussmann and Bliss Inc.. Next up: Tokonoma Club, Frankfurt on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Tokonoma Club | Frankfurt |
+| Fri, 27 Nov 2026 | Tokonoma Club | Frankfurt |
 | Fri, 11 Dec 2026 | Tokonoma Club | Frankfurt |
 
 ## Recently played
@@ -24,6 +25,6 @@ Wigbert is a techno and house artist based in Germany, with 16 gigs on soundchec
 
 ## Shares bills with
 
-Anna Hjalmarsson, Dussmann, Kim She
+Anna Hjalmarsson, Dussmann, Bliss Inc.
 
 *Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wigbert/)*

@@ -1,6 +1,6 @@
 # Painfully Hueman Vol. 1 at Honey's
 
-Painfully Hueman Vol. 1 at Honey's on Sun 29 Nov, New York City. 2 artists: LITA DA DOLL and SEXINCHURCH. Experimental and Ghetto Tech. See the line-up on soundcheck.
+Painfully Hueman Vol. 1 at Honey's on Sun 29 Nov, New York City. 2 artists: SEXINCHURCH and thembow. Experimental and Ghetto Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ Painfully Hueman Vol. 1 at Honey's on Sun 29 Nov, New York City. 2 artists: LITA
 
 ## Line-up
 
-- LITA DA DOLL
 - SEXINCHURCH
+- thembow
 
 *Source: [soundcheck](https://soundcheck.club/e/2580148-painfully-hueman-vol-1-at-honey-s/)*

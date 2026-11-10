@@ -1,10 +1,10 @@
 # VESSEL at Strange Field
 
-VESSEL at Strange Field on Fri 13 Nov, Glasgow. 3 artists: ACHIRĀ, CU-SITH and slyn. See the line-up on soundcheck.
+VESSEL at Strange Field on Fri 11 Dec, Glasgow. 3 artists: ACHIRĀ, CU-SITH and slyn. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Fri, 13 Nov 2026 |
+| Date | Fri, 11 Dec 2026 |
 | Venue | Strange Field |
 | City | Glasgow |
 

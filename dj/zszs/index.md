@@ -1,14 +1,15 @@
 # ZSZS
 
-ZSZS is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Legal, Munich on Sat, 14 Nov 2026.
+ZSZS is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Legal, Munich on Sat, 14 Nov 2026.
 
-ZSZS is a house and techno artist based in Germany, with 8 gigs on soundcheck across Frankfurt and Munich. Often billed alongside Cosmic Cherry, Arthur Robert and Bambi (FR). Next up: Legal, Munich on Sat 14 Nov.
+ZSZS is a house and techno artist based in Germany, with 9 gigs on soundcheck across Frankfurt and Munich. Often billed alongside Cosmic Cherry, Bliss Inc. and Maruwa. Next up: Legal, Munich on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Legal | Munich |
+| Fri, 27 Nov 2026 | Tokonoma Club | Frankfurt |
 
 ## Recently played
 
@@ -22,6 +23,6 @@ ZSZS is a house and techno artist based in Germany, with 8 gigs on soundcheck ac
 
 ## Shares bills with
 
-Cosmic Cherry, Arthur Robert, Bambi (FR)
+Cosmic Cherry, Bliss Inc., Maruwa
 
 *Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zszs/)*

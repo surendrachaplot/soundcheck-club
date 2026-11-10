@@ -9,7 +9,7 @@ madeera is a techno and house artist based in United States of America, with 24 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | TBA - (313) 395 8288 | Detroit |
-| Sat, 5 Dec 2026 | TBA - 310 W 7 MILE | Detroit |
+| Sat, 5 Dec 2026 | SOS 7 Mile | Detroit |
 | Fri, 11 Dec 2026 | TBA -   HEY HEY SOCIAL  | San-antonio |
 
 ## Recently played

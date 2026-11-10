@@ -1,6 +1,6 @@
 # A State Of Trance with Armin van Buuren at DRUMSHEDS
 
-A State Of Trance with Armin van Buuren at DRUMSHEDS on Sat 14 Nov, London. 14 artists: Amber Broos, Arielle, Ben Hemsley and Cosmic Gate and 10 more. Trance and Techno. See the line-up on soundcheck.
+A State Of Trance with Armin van Buuren at DRUMSHEDS on Sat 14 Nov, London. 15 artists: Amber Broos, Arielle, Armin van Buuren and Ben Hemsley and 11 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ A State Of Trance with Armin van Buuren at DRUMSHEDS on Sat 14 Nov, London. 14 a
 
 - Amber Broos
 - Arielle
+- Armin van Buuren
 - Ben Hemsley
 - Cosmic Gate
 - Ferry Corsten

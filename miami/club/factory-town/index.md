@@ -8,7 +8,7 @@ Factory Town is a music venue in Miami listed on soundcheck. 9 upcoming gigs, wi
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | UNREAL |  |
+| Fri, 13 Nov 2026 | UNREAL | CALLUSH, Mika Heggemann, PRADA2000, Restricted, Trym, Ueberrest, feph |
 | Sat, 14 Nov 2026 | ODESZA (DJ Set) | Bob Moses, Boys Noize, ODESZA |
 | Wed, 2 Dec 2026 | Factory Basel | ANNĒ, Adam Ten, Aline Umber, Ammo Avenue, Annie Lew, BLOND:ISH, Bastian Bux, Beltran, Ben Sterling, Broodoo Ramses, Cam Stockman, Carlita, ChaseWest, Chloé Caillet, Chlär, Chris Lake, Coffintexts, D.Dan, DJ Holographic, DJ Minx, DJ TOOL, Dennis Ferrer, Diplo, Dixon, Eats Everything, FLETCH, Ferra Black, Franky Rizardo, GENNARO, Gordo, HAAi, HALFPINT, HoneyLuv, Jamback, Jay de Lys, Jesse Perez, Jimi Jules, Jubilee, Julian Fijma, Jyoty, Krol, Luciano, Luke Dean_, Mai iachetti, Make A Dance, Malone, Mason Collective, Max Dean, Maxi Meraki, Miguelle, Mike Servito, Moorhaus, OMRI., Omar+, PAWSA, Paco Osuna, Palms Trax, Paula Tape, Pressure Point, Prospa, Rafael, Rampa, Rony Seikaly, Rossi, SHDW, Sedef Adasï, Seth Troxler, Sister System, Solomun, TEED, TONS, The Martinez Brothers, Tiga, Tommy Phillips, UNiiQU3, Zack Fox, salute |
 | Wed, 2 Dec 2026 | Factory Basel (Wednesday) | ANNĒ, Annie Lew, Broodoo Ramses, Calussa, ChaseWest, Chlär, D.Dan, DJ TOOL, Ferra Black, Franky Rizardo, GENNARO, Jay de Lys, Jubilee, Jyoty, Mai iachetti, Mason Collective, Miluhska, Nico Bernardini, Pressure Point, Rafael (IS), Rooléh, The Martinez Brothers, UNiiQU3, Viot, WhoMadeWho, Zack Fox, slugg |

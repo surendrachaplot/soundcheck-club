@@ -2,7 +2,7 @@
 
 Tante Kante is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Schlachthof Wiesbaden, Frankfurt on Sat, 14 Nov 2026.
 
-Tante Kante is a house and electro artist, with 10 gigs on soundcheck across Berlin, Frankfurt and Munich. Often billed alongside Trockener Sekt, Bee Lincoln and Kuriose Naturale. Next up: Schlachthof Wiesbaden, Frankfurt on Sat 14 Nov.
+Tante Kante is a house and electro artist based in Germany, with 10 gigs on soundcheck across Berlin, Frankfurt and Munich. Often billed alongside Trockener Sekt, Bee Lincoln and Kuriose Naturale. Next up: Schlachthof Wiesbaden, Frankfurt on Sat 14 Nov.
 
 ## Upcoming shows
 

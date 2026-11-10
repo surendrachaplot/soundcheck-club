@@ -2,7 +2,7 @@
 
 Emir Sagiroglu is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Sunset Grill, Istanbul on Sat, 21 Nov 2026.
 
-Emir Sagiroglu is a house and afro house artist, with 13 gigs on soundcheck across Istanbul and London. Often billed alongside Defne Aksoy, Max Menaged and Moojo. Next up: Sunset Grill, Istanbul on Sat 21 Nov.
+Emir Sagiroglu is a house and afro house artist based in Turkey, with 13 gigs on soundcheck across Istanbul and London. Often billed alongside Defne Aksoy, Max Menaged and Moojo. Next up: Sunset Grill, Istanbul on Sat 21 Nov.
 
 ## Upcoming shows
 

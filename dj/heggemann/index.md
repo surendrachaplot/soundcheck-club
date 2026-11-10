@@ -1,13 +1,14 @@
 # Mika Heggemann
 
-Mika Heggemann is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Kesselhaus Augsburg, Augsburg on Fri, 20 Nov 2026.
+Mika Heggemann is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Factory Town, Miami on Fri, 13 Nov 2026.
 
-Mika Heggemann is a techno and trance artist based in Germany, with 194 gigs on soundcheck across Amsterdam, Antwerp, Augsburg and Barcelona and 47 more. Often billed alongside Cleopard2000, Trancemaster Krause and davyboi. Next up: Kesselhaus Augsburg, Augsburg on Fri 20 Nov.
+Mika Heggemann is a techno and trance artist based in Germany, with 195 gigs on soundcheck across Amsterdam, Antwerp, Augsburg and Barcelona and 48 more. Often billed alongside Cleopard2000, Trancemaster Krause and davyboi. Next up: Factory Town, Miami on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | Factory Town | Miami |
 | Fri, 20 Nov 2026 | Kesselhaus Augsburg | Augsburg |
 | Sat, 21 Nov 2026 | Graf Karl | Kassel |
 | Fri, 27 Nov 2026 | Mia Mao | Paris |

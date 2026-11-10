@@ -1,13 +1,14 @@
 # Sante Sansone
 
-Sante Sansone is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
+Sante Sansone is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Amnesia Milano, Milan on Sat, 5 Dec 2026.
 
-Sante Sansone is a tech house and house artist based in Italy, with 46 gigs on soundcheck across Austria, Barcelona, Boston and Buenos Aires and 21 more. Often billed alongside Hector Couto, Pirate Copy and Ammo Avenue. Next up: Saalbach-Hinterglemm, Austria on Thu 10 Dec.
+Sante Sansone is a tech house and house artist based in Italy, with 47 gigs on soundcheck across Austria, Barcelona, Boston and Buenos Aires and 21 more. Often billed alongside Hector Couto, Pirate Copy and Ammo Avenue. Next up: Amnesia Milano, Milan on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Dec 2026 | Amnesia Milano | Milan |
 | Thu, 10 Dec 2026 | Saalbach-Hinterglemm | Austria |
 
 ## Recently played

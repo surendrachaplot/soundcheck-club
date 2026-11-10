@@ -1,8 +1,8 @@
 # Uabos
 
-Uabos is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Detune, Milan on Sat, 14 Nov 2026.
+Uabos is a House and Electronica artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Detune, Milan on Sat, 14 Nov 2026.
 
-Uabos is a house and electro artist based in Italy, with 53 gigs on soundcheck across Florence, London, Milan and Rome and 3 more. Often billed alongside Giamma Soren, San Pedro and Vannelli Bros. Next up: Detune, Milan on Sat 14 Nov.
+Uabos is a house and electronica artist based in Italy, with 54 gigs on soundcheck across Florence, London, Milan and Rome and 3 more. Often billed alongside Giamma Soren, Vannelli Bros and San Pedro. Next up: Detune, Milan on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Uabos is a house and electro artist based in Italy, with 53 gigs on soundcheck a
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Detune | Milan |
 | Sat, 21 Nov 2026 | TBA - Circolo Masada + Circolo Amelia | Milan |
+| Fri, 27 Nov 2026 | NAMA - Nuovo Anfiteatro Martesana | Milan |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Uabos is a house and electro artist based in Italy, with 53 gigs on soundcheck a
 
 ## Shares bills with
 
-Giamma Soren, San Pedro, Vannelli Bros
+Giamma Soren, Vannelli Bros, San Pedro
 
 *Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/uabos/)*

@@ -1,14 +1,13 @@
 # Bindās
 
-Bindās is a UK Funky and Garage artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Palais, London on Fri, 20 Nov 2026.
+Bindās is a UK Funky and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Ballroom at Palais, London on Fri, 20 Nov 2026.
 
-Bindās is an uk funky and garage artist based in India, with 5 gigs on soundcheck across London. Often billed alongside RIMIX, vish and ABIMBOLA. Next up: Palais, London on Fri 20 Nov.
+Bindās is an uk funky and garage artist based in India, with 4 gigs on soundcheck across London. Often billed alongside RIMIX, ABIMBOLA and AfroLicious Mumma. Next up: Ballroom at Palais, London on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Palais | London |
 | Fri, 20 Nov 2026 | Ballroom at Palais | London |
 
 ## Recently played
@@ -19,6 +18,6 @@ Bindās is an uk funky and garage artist based in India, with 5 gigs on soundche
 
 ## Shares bills with
 
-RIMIX, vish, ABIMBOLA
+RIMIX, ABIMBOLA, AfroLicious Mumma
 
 *Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bindas/)*

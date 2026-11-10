@@ -1,6 +1,6 @@
-# Ewe Turn Fleece Navidad at TBA
+# Ewe Turn: Fleece Navidad at TBA
 
-Ewe Turn Fleece Navidad at TBA on Sat 12 Dec, Vancouver. 2 artists: DJ Legal and Ev O'Reilly. House. See the line-up on soundcheck.
+Ewe Turn: Fleece Navidad at TBA on Sat 12 Dec, Vancouver. 2 artists: DJ Legal and Ev O'Reilly. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

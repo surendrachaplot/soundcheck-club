@@ -2,7 +2,7 @@
 
 TNT (2) is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Messegelände Hannover, Hannover on Sat, 28 Nov 2026.
 
-TNT is a techno and progressive house artist, with 6 gigs on soundcheck across Berlin, Hannover, London and Nürnberg and 1 more. Often billed alongside Clara Cuvé, Dr. Motte and Eksman. Next up: Messegelände Hannover, Hannover on Sat 28 Nov.
+TNT is a techno and progressive house artist based in Netherlands, with 6 gigs on soundcheck across Berlin, Hannover, London and Nürnberg and 1 more. Often billed alongside Clara Cuvé, Dr. Motte and Eksman. Next up: Messegelände Hannover, Hannover on Sat 28 Nov.
 
 ## Upcoming shows
 

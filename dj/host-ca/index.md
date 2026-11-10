@@ -1,13 +1,14 @@
 # Host (CA)
 
-Host (CA) is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Fabricxx, London on Sat, 28 Nov 2026.
+Host (CA) is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at MR Duck, Mexico City on Fri, 13 Nov 2026.
 
-Host (CA) is a house and garage artist based in Canada, with 31 gigs on soundcheck across Amsterdam, Berlin, Cologne and Frankfurt and 9 more. Often billed alongside Cardiac, Choirboi and Craft. Next up: Fabricxx, London on Sat 28 Nov.
+Host (CA) is a house and garage artist based in Canada, with 32 gigs on soundcheck across Amsterdam, Berlin, Cologne and Frankfurt and 10 more. Often billed alongside Cardiac, Choirboi and Craft. Next up: MR Duck, Mexico City on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | MR Duck | Mexico City |
 | Sat, 28 Nov 2026 | Fabricxx | London |
 | Sat, 26 Dec 2026 | Ministry Of Sound | London |
 

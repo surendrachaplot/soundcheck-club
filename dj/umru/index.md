@@ -1,14 +1,13 @@
 # umru
 
-umru is a Club and Pop artist with 6 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Yamamori Tengu, Dublin on Mon, 9 Nov 2026.
+umru is a Club and Pop artist with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Stereo, Glasgow on Tue, 10 Nov 2026.
 
-umru is a club and pop artist based in United States of America, with 173 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Auckland and 56 more. Often billed alongside Petal Supply, Ninajirachi and GRRL. Next up: Yamamori Tengu, Dublin on Mon 9 Nov.
+umru is a club and pop artist based in United States of America, with 173 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Auckland and 56 more. Often billed alongside Petal Supply, Ninajirachi and GRRL. Next up: Stereo, Glasgow on Tue 10 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 9 Nov 2026 | Yamamori Tengu | Dublin |
 | Tue, 10 Nov 2026 | Stereo | Glasgow |
 | Fri, 20 Nov 2026 | Kingdom Nightclub | Austin |
 | Sat, 21 Nov 2026 | TBA - Downtown Los Angeles | Los Angeles |

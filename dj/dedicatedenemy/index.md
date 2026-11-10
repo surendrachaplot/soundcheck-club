@@ -2,7 +2,7 @@
 
 Dedicated Enemy is a House and New Wave artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Dusty's Bar, Minneapolis/St Paul on Thu, 12 Nov 2026.
 
-Dedicated Enemy is a house and new wave artist, with 14 gigs on soundcheck across Chicago and Minneapolis/St Paul. Often billed alongside Amy Pickett, DJ Nola and DJ T-1000. Next up: Dusty's Bar, Minneapolis/St Paul on Thu 12 Nov.
+Dedicated Enemy is a house and new wave artist based in United States of America, with 14 gigs on soundcheck across Chicago and Minneapolis/St Paul. Often billed alongside Amy Pickett, DJ Nola and DJ T-1000. Next up: Dusty's Bar, Minneapolis/St Paul on Thu 12 Nov.
 
 ## Upcoming shows
 

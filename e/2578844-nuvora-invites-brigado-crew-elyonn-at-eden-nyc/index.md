@@ -1,6 +1,6 @@
 # nuvora invites BRIGADO CREW + ELYONN at Eden NYC
 
-nuvora invites BRIGADO CREW + ELYONN at Eden NYC on Fri 20 Nov, New York City. 2 artists: Brigado Crew and TimahTempo. Techno and House. See the line-up on soundcheck.
+nuvora invites BRIGADO CREW + ELYONN at Eden NYC on Fri 20 Nov, New York City. 2 artists: Brigado Crew and MANTi. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,6 @@ nuvora invites BRIGADO CREW + ELYONN at Eden NYC on Fri 20 Nov, New York City. 2
 ## Line-up
 
 - Brigado Crew
-- TimahTempo
+- MANTi
 
 *Source: [soundcheck](https://soundcheck.club/e/2578844-nuvora-invites-brigado-crew-elyonn-at-eden-nyc/)*

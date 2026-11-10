@@ -1,8 +1,8 @@
 # Emelyne
 
-Emelyne is a Bass and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Miscellania, Melbourne on Sat, 14 Nov 2026.
+Emelyne is a Bass and Techno artist with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Miscellania, Melbourne on Sat, 14 Nov 2026.
 
-Emelyne is a bass and techno artist based in Australia, with 84 gigs on soundcheck across Adelaide, Istanbul, Melbourne and Prague and 1 more. Often billed alongside Kate Miller, Moopie and Darcy Justice. Next up: Miscellania, Melbourne on Sat 14 Nov.
+Emelyne is a bass and techno artist based in Australia, with 85 gigs on soundcheck across Adelaide, Istanbul, Melbourne and Prague and 1 more. Often billed alongside Kate Miller, Moopie and Darcy Justice. Next up: Miscellania, Melbourne on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Emelyne is a bass and techno artist based in Australia, with 84 gigs on soundche
 | Sat, 14 Nov 2026 | Miscellania | Melbourne |
 | Sun, 15 Nov 2026 | Miscellania | Melbourne |
 | Fri, 20 Nov 2026 | The Wildlands | Melbourne |
+| Fri, 11 Dec 2026 | Meredith Supernatural Ampitheatre | Melbourne |
 | Fri, 26 Mar 2027 | TBA - Djargurd Wurrong Country (Victoria, Australia) | Melbourne |
 
 ## Recently played

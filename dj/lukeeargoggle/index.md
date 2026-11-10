@@ -1,14 +1,15 @@
 # Luke Eargoggle
 
-Luke Eargoggle is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Sameheads, Berlin on Fri, 13 Nov 2026.
+Luke Eargoggle is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Sameheads, Berlin on Fri, 13 Nov 2026.
 
-Luke Eargoggle is an electro and techno artist based in Sweden, with 23 gigs on soundcheck across Barcelona, Berlin, Frankfurt and Gothenburg and 5 more. Often billed alongside PRZ, Robert Leiner and Yoshi (DE). Next up: Sameheads, Berlin on Fri 13 Nov.
+Luke Eargoggle is an electro and techno artist based in Sweden, with 24 gigs on soundcheck across Barcelona, Berlin, Frankfurt and Gothenburg and 5 more. Often billed alongside PRZ, Psycho Mind Transmission and Robert Leiner. Next up: Sameheads, Berlin on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Sameheads | Berlin |
+| Thu, 31 Dec 2026 | Luma | Milan |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Luke Eargoggle is an electro and techno artist based in Sweden, with 23 gigs on 
 
 ## Shares bills with
 
-PRZ, Robert Leiner, Yoshi (DE)
+PRZ, Psycho Mind Transmission, Robert Leiner
 
 *Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukeeargoggle/)*

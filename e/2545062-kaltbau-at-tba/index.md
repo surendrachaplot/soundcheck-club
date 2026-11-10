@@ -18,7 +18,7 @@ KALTBAU on Fri 13 Nov, Berlin. 17 artists: Al Aslan, Brauer, Caniche and cell1 a
 - DJ Cringey
 - DJ Hyperdrive
 - HUJUS
-- HUMAN  ERROR
+- HUMAN ERROR
 - Johannes Wohlgeschaffen
 - Katy Rough
 - L-AUX

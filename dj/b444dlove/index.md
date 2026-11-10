@@ -1,13 +1,14 @@
 # B444DLOVE
 
-B444DLOVE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Radio Estrella, Bogotá on Thu, 19 Nov 2026.
+B444DLOVE is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Video Club, Bogotá on Sat, 14 Nov 2026.
 
-B444DLOVE is a techno and house artist based in Colombia, with 27 gigs on soundcheck across Bogotá and Madrid. Often billed alongside Briela Veneno, Lafrench Toast and Sánchez Jr.. Next up: Radio Estrella, Bogotá on Thu 19 Nov.
+B444DLOVE is a techno and house artist based in Colombia, with 28 gigs on soundcheck across Bogotá and Madrid. Often billed alongside Briela Veneno, EV-1 and Lafrench Toast. Next up: Video Club, Bogotá on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | Video Club | Bogotá |
 | Thu, 19 Nov 2026 | Radio Estrella | Bogotá |
 
 ## Recently played
@@ -23,6 +24,6 @@ B444DLOVE is a techno and house artist based in Colombia, with 27 gigs on soundc
 
 ## Shares bills with
 
-Briela Veneno, Lafrench Toast, Sánchez Jr.
+Briela Veneno, EV-1, Lafrench Toast
 
 *Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/b444dlove/)*

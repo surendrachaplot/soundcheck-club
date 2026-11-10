@@ -1,6 +1,6 @@
 # (FULL CIRCLE) at Tokonoma Club
 
-(FULL CIRCLE) at Tokonoma Club on Fri 27 Nov, Frankfurt. 16 artists: Answer Code Request, Bliss Inc., Byron Yeates and DJ Hyperdrive and 12 more. Techno and House. See the line-up on soundcheck.
+(FULL CIRCLE) at Tokonoma Club on Fri 27 Nov, Frankfurt. 21 artists: Anna Hjalmarsson, Answer Code Request, Bliss Inc. and Byron Yeates and 17 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,9 +10,11 @@
 
 ## Line-up
 
+- Anna Hjalmarsson
 - Answer Code Request
 - Bliss Inc.
 - Byron Yeates
+- Cosmic Cherry
 - DJ Hyperdrive
 - DJ MELL G
 - DJ Stingray 313
@@ -21,10 +23,13 @@
 - Massimiliano Pagliara
 - Meilgaarden
 - not even noticed
+- SAFA
 - Sansibar
 - Silverlining
 - The Lady Machine
 - Tiago Walter
 - Vera
+- Wigbert
+- ZSZS
 
 *Source: [soundcheck](https://soundcheck.club/e/2576057-full-circle-at-tokonoma-club/)*

@@ -16,7 +16,7 @@ The Ulster Sports Club is a music venue in Belfast listed on soundcheck. 10 upco
 | Fri, 4 Dec 2026 | SHINE -- Julian Anthony | Conor Schmtz, Julian Anthony |
 | Sat, 5 Dec 2026 | Crilli DNB presents DJ Hype |  |
 | Sat, 5 Dec 2026 | COUNTERCURRENTS001 | Emma O, Princess Glitoris |
-| Fri, 11 Dec 2026 | Social Sounds presents Holly Lester, Matcha + Michaél Corr |  |
+| Fri, 11 Dec 2026 | Social Sounds presents Holly Lester, Matcha + Michaél Corr | Holly Lester, Matcha |
 | Fri, 18 Dec 2026 | Glacier X Glutek: The Polar Series |  |
 
 ## Address

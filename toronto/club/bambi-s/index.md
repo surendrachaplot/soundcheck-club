@@ -1,8 +1,8 @@
 # Bambi's
 
-Bambi's is a music venue in Toronto with 8 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "CABARET: The Return of Chanel Ross" on Thu, 12 Nov 2026.
+Bambi's is a music venue in Toronto with 9 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "CABARET: The Return of Chanel Ross" on Thu, 12 Nov 2026.
 
-Bambi's is a music venue in Toronto listed on soundcheck. 8 upcoming gigs, with line-ups including 99hp, Carlos Estebban, Cosmic JD and Critter and 2 more. See dates, start times and who's playing. 1265 Dundas W, Toronto, ON M6J 1X6, Canada.
+Bambi's is a music venue in Toronto listed on soundcheck. 9 upcoming gigs, with line-ups including 99hp, Basic Soul Unit, Carlos Estebban and Cosmic JD and 2 more. See dates, start times and who's playing. 1265 Dundas W, Toronto, ON M6J 1X6, Canada.
 
 ## What's on
 
@@ -12,6 +12,7 @@ Bambi's is a music venue in Toronto listed on soundcheck. 8 upcoming gigs, with 
 | Fri, 13 Nov 2026 | IOU presents HOTPRETTY (Chicago) + Rabzi + 99hp | 99hp, HOTPRETTY, Rabzi |
 | Sat, 14 Nov 2026 | LOVE ONLY featuring CanCon Legend Eddie C and Kiki LeFreak / Last Call 4am  | Eddie C, Kiki LeFreak |
 | Fri, 20 Nov 2026 | Invisible City Presents: Ryan Spencer & Todd Modes | Invisible City, Ryan Spencer, Todd Modes |
+| Sat, 21 Nov 2026 | UNFOLD: Malik Abdul-Rahmaan | Basic Soul Unit, HXF (JEEP MIX) |
 | Fri, 27 Nov 2026 | Critter b2b KATARAMA all night | Critter, KATARAMA |
 | Fri, 4 Dec 2026 | Hypnotic Mindscapes | Cosmic JD, Masayuki Tomita |
 | Sat, 12 Dec 2026 | everything under the sun - garden disco x roam | Carlos Estebban, roam DJs |

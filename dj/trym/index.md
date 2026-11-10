@@ -1,13 +1,14 @@
 # Trym
 
-Trym is a Techno and Trance artist with 10 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Sala Urbana, Mexico City on Sat, 14 Nov 2026.
+Trym is a Techno and Trance artist with 11 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Factory Town, Miami on Fri, 13 Nov 2026.
 
-Trym is a techno and trance artist based in France, with 216 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Arizona and 80 more. Often billed alongside Shlømo, Nico Moreno and Alignment. Next up: Sala Urbana, Mexico City on Sat 14 Nov.
+Trym is a techno and trance artist based in France, with 217 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Arizona and 80 more. Often billed alongside Shlømo, Nico Moreno and Alignment. Next up: Factory Town, Miami on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | Factory Town | Miami |
 | Sat, 14 Nov 2026 | Sala Urbana | Mexico City |
 | Sat, 21 Nov 2026 | The Garage | Madrid |
 | Fri, 27 Nov 2026 | Gate Milano | Milan |

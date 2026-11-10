@@ -11,7 +11,7 @@ Wax Assassin is a techno and house artist based in United States of America, wit
 | Sat, 14 Nov 2026 | TBA - (313) 395 8288 | Detroit |
 | Sat, 14 Nov 2026 | The Eagle of Detroit | Detroit |
 | Sat, 28 Nov 2026 | Menjo's | Detroit |
-| Sat, 5 Dec 2026 | TBA - 310 W 7 MILE | Detroit |
+| Sat, 5 Dec 2026 | SOS 7 Mile | Detroit |
 
 ## Recently played
 

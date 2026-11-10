@@ -1,8 +1,8 @@
 # Twist Bar
 
-Twist Bar is a music venue in Prague with 12 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Marie April & Idea" on Tue, 10 Nov 2026.
+Twist Bar is a music venue in Prague with 13 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Marie April & Idea" on Tue, 10 Nov 2026.
 
-Twist Bar is a music venue in Prague listed on soundcheck. 12 upcoming gigs, with line-ups including Atch22, Atoloi, Dash (CZ) and Høll and 2 more. See dates, start times and who's playing.
+Twist Bar is a music venue in Prague listed on soundcheck. 13 upcoming gigs, with line-ups including Atch22, Atoloi, Dash (CZ) and DJ Fett Burger and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

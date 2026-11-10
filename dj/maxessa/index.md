@@ -1,14 +1,14 @@
 # Max Essa
 
-Max Essa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Red Bar, Tokyo on Fri, 13 Nov 2026.
+Max Essa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Aoyama Tunnel, Tokyo on Fri, 13 Nov 2026.
 
-Max Essa is a house and techno artist based in Japan, with 98 gigs on soundcheck across Berlin and Tokyo. Often billed alongside Kengo, DJ Nori and Pine. Next up: Red Bar, Tokyo on Fri 13 Nov.
+Max Essa is a house and techno artist based in Japan, with 98 gigs on soundcheck across Berlin and Tokyo. Often billed alongside Kengo, DJ Nori and Pine. Next up: Aoyama Tunnel, Tokyo on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Red Bar | Tokyo |
+| Fri, 13 Nov 2026 | Aoyama Tunnel | Tokyo |
 
 ## Recently played
 

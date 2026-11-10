@@ -2,7 +2,7 @@
 
 Asher is a Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Fuchs2, Prague on Sat, 21 Nov 2026.
 
-Asher is a bass and garage artist, with 10 gigs on soundcheck across Bristol, Cardiff, Leeds and Manchester and 1 more. Often billed alongside Dawsons Kriek, Milzy and Bakey. Next up: Fuchs2, Prague on Sat 21 Nov.
+Asher is a bass and garage artist based in United Kingdom, with 10 gigs on soundcheck across Bristol, Cardiff, Leeds and Manchester and 1 more. Often billed alongside Dawsons Kriek, Milzy and Bakey. Next up: Fuchs2, Prague on Sat 21 Nov.
 
 ## Upcoming shows
 

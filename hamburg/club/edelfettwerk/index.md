@@ -12,7 +12,7 @@ Edelfettwerk is a music venue in Hamburg listed on soundcheck. 5 upcoming gigs, 
 | Sat, 14 Nov 2026 | VER x TELETECH | A.N.I., Charleen Herzig, Eva Charley, HOOM, MKHXR, Nikolina |
 | Sat, 21 Nov 2026 | OUR HOUSE. YOUR HOUSE. SECRET LINEUP |  |
 | Fri, 27 Nov 2026 | VER pres. Paraçek ALL NIGHT LONG | Paraçek |
-| Sat, 6 Feb 2027 | VER pres. Ueberrest (44 FRONT ROW), SPECIAL GUEST (44 FRONT ROW) uvm | Special Guest (US), Ueberrest |
+| Sat, 6 Feb 2027 | VER pres. Ueberrest (44 FRONT ROW), SOMEWHEN (44 FRONT ROW) uvm | Ueberrest |
 
 ## Address
 

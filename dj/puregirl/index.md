@@ -2,7 +2,7 @@
 
 Pure Girl is a Club and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Stereo, Glasgow on Fri, 27 Nov 2026.
 
-Pure Girl is a club and hardcore artist, with 11 gigs on soundcheck across Barcelona, Edinburgh, Glasgow and Leeds and 1 more. Often billed alongside DV60, FKA Hardcore and HUNTRESS. Next up: Stereo, Glasgow on Fri 27 Nov.
+Pure Girl is a club and hardcore artist based in United Kingdom, with 11 gigs on soundcheck across Barcelona, Edinburgh, Glasgow and Leeds and 1 more. Often billed alongside DV60, FKA Hardcore and HUNTRESS. Next up: Stereo, Glasgow on Fri 27 Nov.
 
 ## Upcoming shows
 

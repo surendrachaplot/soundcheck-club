@@ -1,13 +1,14 @@
 # Cali Lanauze
 
-Cali Lanauze is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA, Puerto-rico on Thu, 7 Jan 2027.
+Cali Lanauze is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Mad Radio Miami, Miami on Sat, 14 Nov 2026.
 
-Cali Lanauze is a house and tech house artist based in Puerto Rico, with 18 gigs on soundcheck across Atlanta, Bogotá, Guadalajara and London and 8 more. Often billed alongside Art Department, Auphoria and Iñigo Vontier. Next up: TBA, Puerto Rico on Thu 7 Jan.
+Cali Lanauze is a house and tech house artist based in Puerto Rico, with 19 gigs on soundcheck across Atlanta, Bogotá, Guadalajara and London and 8 more. Often billed alongside Leo Del Toro, Art Department and Auphoria. Next up: Mad Radio Miami, Miami on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | Mad Radio Miami | Miami |
 | Thu, 7 Jan 2027 | TBA | Puerto-rico |
 
 ## Recently played
@@ -23,6 +24,6 @@ Cali Lanauze is a house and tech house artist based in Puerto Rico, with 18 gigs
 
 ## Shares bills with
 
-Art Department, Auphoria, Iñigo Vontier
+Leo Del Toro, Art Department, Auphoria
 
 *Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/calilanauze/)*

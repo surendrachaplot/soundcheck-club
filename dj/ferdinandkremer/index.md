@@ -2,7 +2,7 @@
 
 Ferdinand Kremer is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Fitzroy, Berlin on Fri, 20 Nov 2026.
 
-Ferdinand Kremer is a house and deep house artist, with 11 gigs on soundcheck across Berlin, Munich and Vienna. Often billed alongside DJLolo, MRTI and Romantony. Next up: Fitzroy, Berlin on Fri 20 Nov.
+Ferdinand Kremer is a house and deep house artist based in Germany, with 11 gigs on soundcheck across Berlin, Munich and Vienna. Often billed alongside DJLolo, MRTI and Romantony. Next up: Fitzroy, Berlin on Fri 20 Nov.
 
 ## Upcoming shows
 

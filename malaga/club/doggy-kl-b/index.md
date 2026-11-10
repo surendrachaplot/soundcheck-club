@@ -14,7 +14,7 @@ Doggy Klœb is a music venue in Malaga listed on soundcheck. 7 upcoming gigs, wi
 | Sat, 21 Nov 2026 | Cultura Club: Rickie + Rvbbio | Rickie (Overground), rubbio |
 | Fri, 27 Nov 2026 | Andres Sancho + Unreal Vibes | Andrés Sancho, Unreal Vibes |
 | Sat, 28 Nov 2026 | NullName Showcase | Fer Sanfer, Noctive, Reisender, Unreal Vibes |
-| Fri, 1 Jan 2027 | 1st Day 27: NullName Showcase |  |
+| Fri, 1 Jan 2027 | 1st Day 27: NullName Showcase | Noctive, Not Charlie, Reisender |
 
 ## Address
 

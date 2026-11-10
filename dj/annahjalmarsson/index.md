@@ -1,14 +1,15 @@
 # Anna Hjalmarsson
 
-Anna Hjalmarsson is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Tokonoma Club, Frankfurt on Sat, 14 Nov 2026.
+Anna Hjalmarsson is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Tokonoma Club, Frankfurt on Sat, 14 Nov 2026.
 
-Anna Hjalmarsson is a techno and house artist based in Sweden, with 24 gigs on soundcheck across Berlin, Frankfurt, Hannover and Leipzig and 2 more. Often billed alongside JANEIN, Stigmatique and Wigbert. Next up: Tokonoma Club, Frankfurt on Sat 14 Nov.
+Anna Hjalmarsson is a techno and house artist based in Sweden, with 25 gigs on soundcheck across Berlin, Frankfurt, Hannover and Leipzig and 2 more. Often billed alongside JANEIN, Stigmatique and Wigbert. Next up: Tokonoma Club, Frankfurt on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Tokonoma Club | Frankfurt |
+| Fri, 27 Nov 2026 | Tokonoma Club | Frankfurt |
 | Fri, 11 Dec 2026 | Tokonoma Club | Frankfurt |
 
 ## Recently played

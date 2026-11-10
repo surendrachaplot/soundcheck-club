@@ -2,7 +2,7 @@
 
 mer.ve is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Fundbureau, Hamburg on Fri, 20 Nov 2026.
 
-mer.ve is a trance and techno artist, with 9 gigs on soundcheck across Berlin and Hamburg. Often billed alongside TWOFACEDKIMMY, *Tia* and ANDATA. Next up: Fundbureau, Hamburg on Fri 20 Nov.
+mer.ve is a trance and techno artist based in Germany, with 9 gigs on soundcheck across Berlin and Hamburg. Often billed alongside TWOFACEDKIMMY, *Tia* and ANDATA. Next up: Fundbureau, Hamburg on Fri 20 Nov.
 
 ## Upcoming shows
 

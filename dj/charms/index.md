@@ -1,14 +1,15 @@
 # Charms
 
-Charms is a Bass and Dub artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Miscellania, Melbourne on Sat, 14 Nov 2026.
+Charms is a Bass and Dub artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Miscellania, Melbourne on Sat, 14 Nov 2026.
 
-Charms is a bass and dub artist based in United Kingdom, with 28 gigs on soundcheck across London, Manchester and Melbourne. Often billed alongside Cam Joon, Emelyne and Hannah O'Gorman. Next up: Miscellania, Melbourne on Sat 14 Nov.
+Charms is a bass and dub artist based in United Kingdom, with 29 gigs on soundcheck across London, Manchester and Melbourne. Often billed alongside Moopie, Cam Joon and Emelyne. Next up: Miscellania, Melbourne on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Miscellania | Melbourne |
+| Sun, 6 Dec 2026 | Collingwood Yards | Melbourne |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Charms is a bass and dub artist based in United Kingdom, with 28 gigs on soundch
 
 ## Shares bills with
 
-Cam Joon, Emelyne, Hannah O'Gorman
+Moopie, Cam Joon, Emelyne
 
 *Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/charms/)*

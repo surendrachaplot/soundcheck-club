@@ -1,6 +1,6 @@
 # LFO at Studio 26
 
-LFO at Studio 26 on Fri 13 Nov, Rome. 1 artist: Funky Knobs. Techno and Ambient. See the line-up on soundcheck.
+LFO at Studio 26 on Fri 13 Nov, Rome. 2 artists: Cuba. and Funky Knobs. Techno and Ambient. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ LFO at Studio 26 on Fri 13 Nov, Rome. 1 artist: Funky Knobs. Techno and Ambient.
 
 ## Line-up
 
+- Cuba.
 - Funky Knobs
 
 *Source: [soundcheck](https://soundcheck.club/e/2563401-lfo-at-studio-26/)*

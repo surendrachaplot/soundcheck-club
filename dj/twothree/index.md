@@ -2,7 +2,7 @@
 
 TWO/THREE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Bassement, Madrid on Fri, 11 Dec 2026.
 
-TWO/THREE is a techno and house artist, with 14 gigs on soundcheck across Antwerp, Brussels, Ghent and Madrid. Often billed alongside WLKR, Phemia and KlangKuenstler. Next up: The Bassement, Madrid on Fri 11 Dec.
+TWO/THREE is a techno and house artist based in Belgium, with 14 gigs on soundcheck across Antwerp, Brussels, Ghent and Madrid. Often billed alongside WLKR, Phemia and KlangKuenstler. Next up: The Bassement, Madrid on Fri 11 Dec.
 
 ## Upcoming shows
 

@@ -1,14 +1,13 @@
 # Yamamori Tengu
 
-Yamamori Tengu is a music venue in Dublin with 15 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Double-U Dublin" on Mon, 9 Nov 2026.
+Yamamori Tengu is a music venue in Dublin with 14 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Tengu x Omni: L.P. Rhythm" on Thu, 12 Nov 2026.
 
-Yamamori Tengu is a music venue in Dublin listed on soundcheck. 15 upcoming gigs, with line-ups including Chris Flannigan, Cormac, Craig Richards and CULT and 2 more. See dates, start times and who's playing. 37 Strand Street Great, North City, Dublin 1, Ireland.
+Yamamori Tengu is a music venue in Dublin listed on soundcheck. 14 upcoming gigs, with line-ups including Chris Flannigan, Cormac, Craig Richards and CULT and 2 more. See dates, start times and who's playing. 37 Strand Street Great, North City, Dublin 1, Ireland.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 9 Nov 2026 | Double-U Dublin | umru, underscores |
 | Thu, 12 Nov 2026 | Tengu x Omni: L.P. Rhythm | L.P. Rhythm |
 | Fri, 13 Nov 2026 | illicit: DJ Plant Texture | DJ Plant Texture, Rustal |
 | Sat, 14 Nov 2026 | SOUNDMATE GOES TO TENGU  | Oshana, Slim (IE) |
@@ -18,6 +17,7 @@ Yamamori Tengu is a music venue in Dublin listed on soundcheck. 15 upcoming gigs
 | Thu, 26 Nov 2026 | Tengu Jazz: Q.BANA (Jazz Special) & Santa Rosa - Second Show |  |
 | Fri, 27 Nov 2026 | Tengu presents: Prozak's Residency with Prozak All Night Long | Prozak (IRL) |
 | Sat, 28 Nov 2026 | Woozy X Empyrean Wave: Forest Drive West, EMA & stebu Powered by Rub A Dub Hifi | EMA (1), Forest Drive West, stebu |
+| Fri, 4 Dec 2026 | Tengu presents: Cormac's Residency with Cormac All Night Long | Cormac |
 
 ## Address
 

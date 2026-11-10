@@ -2,7 +2,7 @@
 
 SDEM is a Experimental and IDM artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The White Hotel, Manchester on Mon, 28 Dec 2026.
 
-SDEM is an experimental and idm artist, with 10 gigs on soundcheck across Bristol, Leeds, London and Manchester and 2 more. Often billed alongside Rob Hall, Silver Waves and edv3ctor. Next up: The White Hotel, Manchester on Mon 28 Dec.
+SDEM is an experimental and idm artist based in United Kingdom, with 10 gigs on soundcheck across Bristol, Leeds, London and Manchester and 2 more. Often billed alongside Rob Hall, Silver Waves and edv3ctor. Next up: The White Hotel, Manchester on Mon 28 Dec.
 
 ## Upcoming shows
 

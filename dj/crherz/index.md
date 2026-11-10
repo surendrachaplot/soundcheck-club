@@ -1,13 +1,14 @@
 # CRHERZ
 
-CRHERZ is a EBM and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at CGM - Club Giovanile Milano, Milan on Fri, 20 Nov 2026.
+CRHERZ is a EBM and Electronica artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Kestè, Naples on Sat, 14 Nov 2026.
 
-CRHERZ is an ebm and electronica artist based in Italy, with 20 gigs on soundcheck across Milan. Often billed alongside Vicky Montefusco, Lvca Versace and Eros Renard. Next up: CGM - Club Giovanile Milano, Milan on Fri 20 Nov.
+CRHERZ is an ebm and electronica artist based in Italy, with 21 gigs on soundcheck across Milan and Naples. Often billed alongside Vicky Montefusco, Lvca Versace and Eros Renard. Next up: Kestè, Naples on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | Kestè | Naples |
 | Fri, 20 Nov 2026 | CGM - Club Giovanile Milano | Milan |
 
 ## Recently played

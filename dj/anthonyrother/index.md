@@ -1,8 +1,8 @@
 # Anthony Rother
 
-Anthony Rother is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Soap House - Ex Saponerie Mira Lanza, Rome on Sat, 14 Nov 2026.
+Anthony Rother is a Techno and Electro artist with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Soap House - Ex Saponerie Mira Lanza, Rome on Sat, 14 Nov 2026.
 
-Anthony Rother is a techno and electro artist based in Germany, with 97 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside Helena Hauff, Asymptote and DJ MELL G. Next up: Soap House - Ex Saponerie Mira Lanza, Rome on Sat 14 Nov.
+Anthony Rother is a techno and electro artist based in Germany, with 98 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside Helena Hauff, Asymptote and DJ MELL G. Next up: Soap House - Ex Saponerie Mira Lanza, Rome on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Anthony Rother is a techno and electro artist based in Germany, with 97 gigs on 
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Soap House - Ex Saponerie Mira Lanza | Rome |
 | Sun, 15 Nov 2026 | REC Napoli | Naples |
+| Fri, 27 Nov 2026 | NAMA - Nuovo Anfiteatro Martesana | Milan |
 | Sat, 28 Nov 2026 | Het Sieraad | Amsterdam |
 | Sat, 5 Dec 2026 | RSO.BERLIN | Berlin |
 

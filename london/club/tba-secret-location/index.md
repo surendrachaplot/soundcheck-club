@@ -1,8 +1,8 @@
-# TBA - secret location
+# TBA - Secret Location
 
-TBA - secret location is a music venue in London with 55 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "zumzumbaile" on Thu, 12 Nov 2026.
+TBA - Secret Location is a music venue in London with 55 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "zumzumbaile" on Thu, 12 Nov 2026.
 
-TBA - secret location is a music venue in London listed on soundcheck. 55 upcoming gigs, with line-ups including 0dysseus, AINES, Alexia and Allan and 2 more. See dates, start times and who's playing.
+TBA - Secret Location is a music venue in London listed on soundcheck. 55 upcoming gigs, with line-ups including 0dysseus, AINES, Alexia and Allan and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

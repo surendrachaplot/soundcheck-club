@@ -1,6 +1,6 @@
 # 77: Wheats at 77
 
-77: Wheats on Fri 13 Nov, London. 1 artist: Wheats. House. See the line-up on soundcheck.
+77: Wheats on Fri 13 Nov, London. 2 artists: Summer Ghemati and Wheats. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@
 
 ## Line-up
 
+- Summer Ghemati
 - Wheats
 
 *Source: [soundcheck](https://soundcheck.club/e/2526007-77-wheats-at-77/)*

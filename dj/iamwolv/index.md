@@ -2,7 +2,7 @@
 
 I AM WOLV is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Turmquartier, Baden-w-rttemberg on Sat, 30 Jan 2027.
 
-I AM WOLV is a techno and electro artist, with 13 gigs on soundcheck across Amsterdam, Baden W Rttemberg, Berlin and Freiburg and 4 more. Often billed alongside A.D.H.S., ASK:ME and Joris Turenhout. Next up: Turmquartier, Baden W Rttemberg on Sat 30 Jan.
+I AM WOLV is a techno and electro artist based in Germany, with 13 gigs on soundcheck across Amsterdam, Baden W Rttemberg, Berlin and Freiburg and 4 more. Often billed alongside A.D.H.S., ASK:ME and Joris Turenhout. Next up: Turmquartier, Baden W Rttemberg on Sat 30 Jan.
 
 ## Upcoming shows
 

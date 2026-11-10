@@ -8,7 +8,7 @@
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | 77: Wheats | Wheats |
+| Fri, 13 Nov 2026 | 77: Wheats | Summer Ghemati, Wheats |
 | Sat, 14 Nov 2026 | Lone Collective x 77 present: Jamek Ortega | AliTR, Jezza, Yoel Telyaz, yaman (3) |
 | Sun, 15 Nov 2026 | 77 PRESENT SUNDAYZ : Loryobah |  |
 | Fri, 20 Nov 2026 | 77: Alan Dixon | Alan Dixon, Deb FA, Sam Holland |

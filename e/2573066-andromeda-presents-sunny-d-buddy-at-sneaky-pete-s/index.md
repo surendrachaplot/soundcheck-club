@@ -1,6 +1,6 @@
 # Andromeda presents: Sunny D & Buddy at Sneaky Pete's
 
-Andromeda presents: Sunny D & Buddy at Sneaky Pete's on Wed 2 Dec, Edinburgh. 4 artists: Buddy., Harri Pepper, Sunny D and XDB. House and Deep House. See the line-up on soundcheck.
+Andromeda presents: Sunny D & Buddy at Sneaky Pete's on Wed 2 Dec, Edinburgh. 5 artists: Buddy., Harri Pepper, SKYLAR and Sunny D and 1 more. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Andromeda presents: Sunny D & Buddy at Sneaky Pete's on Wed 2 Dec, Edinburgh. 4 
 
 - Buddy. (2)
 - Harri Pepper
+- SKYLAR
 - Sunny D
 - XDB
 

@@ -1,14 +1,14 @@
 # A Guy Called Gerald
 
-A Guy Called Gerald is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Collingwood Attic (64 Smith Street), Melbourne on Fri, 13 Nov 2026.
+A Guy Called Gerald is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at New Guernica, Melbourne on Fri, 13 Nov 2026.
 
-A Guy Called Gerald is a house and techno artist based in United Kingdom, with 124 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 41 more. Often billed alongside Will B, gyrofield and Ben UFO. Next up: TBA - Collingwood Attic (64 Smith Street), Melbourne on Fri 13 Nov.
+A Guy Called Gerald is a house and techno artist based in United Kingdom, with 124 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 41 more. Often billed alongside Will B, gyrofield and Ben UFO. Next up: New Guernica, Melbourne on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | TBA - Collingwood Attic (64 Smith Street) | Melbourne |
+| Fri, 13 Nov 2026 | New Guernica | Melbourne |
 | Sun, 15 Nov 2026 | Club 77 | Sydney |
 | Fri, 20 Nov 2026 | Verbier | Switzerland |
 | Fri, 4 Dec 2026 | Sonnenraum | Berlin |

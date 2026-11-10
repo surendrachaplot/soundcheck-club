@@ -2,7 +2,7 @@
 
 Zwie:Tech is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Erdbeermund, Karlsruhe on Fri, 13 Nov 2026.
 
-Zwie:Tech is a techno and electro artist, with 10 gigs on soundcheck across Berlin, Karlsruhe, Munich and Stuttgart. Often billed alongside Anna Lazer, CAMI (DE) and Caro Vola. Next up: Erdbeermund, Karlsruhe on Fri 13 Nov.
+Zwie:Tech is a techno and electro artist based in Germany, with 10 gigs on soundcheck across Berlin, Karlsruhe, Munich and Stuttgart. Often billed alongside Anna Lazer, CAMI (DE) and Caro Vola. Next up: Erdbeermund, Karlsruhe on Fri 13 Nov.
 
 ## Upcoming shows
 

@@ -1,15 +1,14 @@
 # mira (5)
 
-mira (5) is a Techno and Ambient artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Marble Bar, Detroit on Fri, 27 Nov 2026.
+mira (5) is a Techno and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Marble Bar, Detroit on Fri, 27 Nov 2026.
 
-mira is a techno and ambient artist based in United States of America, with 5 gigs on soundcheck across Detroit. Often billed alongside James Connor, ACE and Adam X. Next up: Marble Bar, Detroit on Fri 27 Nov.
+mira is a techno and disco artist based in United States of America, with 4 gigs on soundcheck across Detroit. Often billed alongside James Connor, Adam X and Craig Gonzalez. Next up: Marble Bar, Detroit on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Marble Bar | Detroit |
-| Sat, 28 Nov 2026 | TBA - Obedient Missionary | Detroit |
 
 ## Recently played
 
@@ -19,6 +18,6 @@ mira is a techno and ambient artist based in United States of America, with 5 gi
 
 ## Shares bills with
 
-James Connor, ACE, Adam X
+James Connor, Adam X, Craig Gonzalez
 
 *Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mira-5/)*

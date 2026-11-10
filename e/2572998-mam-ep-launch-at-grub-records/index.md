@@ -1,6 +1,6 @@
 # Mamó EP launch at Grub Records
 
-Mamó EP launch at Grub Records on Fri 13 Nov, Sheffield. 1 artist: Isis Moray. Techno and Acid. See the line-up on soundcheck.
+Mamó EP launch at Grub Records on Fri 13 Nov, Sheffield. 2 artists: Isis Moray and Laze (With Bells Records). Techno and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Mamó EP launch at Grub Records on Fri 13 Nov, Sheffield. 1 artist: Isis Moray. 
 ## Line-up
 
 - Isis Moray
+- Laze (With Bells Records)
 
 *Source: [soundcheck](https://soundcheck.club/e/2572998-mam-ep-launch-at-grub-records/)*

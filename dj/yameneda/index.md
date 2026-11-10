@@ -2,7 +2,7 @@
 
 Yamen & EDA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Nido Marseille, Marseille on Sat, 12 Dec 2026.
 
-Yamen & EDA are a house and techno duo, with 12 gigs on soundcheck across Barcelona, Berlin, Bordeaux and Budapest and 4 more. Often billed alongside Poggio, ALINA and Alex Vincent. Next up: Nido Marseille, Marseille on Sat 12 Dec.
+Yamen & EDA are a house and techno duo based in France, with 12 gigs on soundcheck across Barcelona, Berlin, Bordeaux and Budapest and 4 more. Often billed alongside Poggio, ALINA and Alex Vincent. Next up: Nido Marseille, Marseille on Sat 12 Dec.
 
 ## Upcoming shows
 

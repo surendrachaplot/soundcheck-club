@@ -1,14 +1,13 @@
 # MAXIMILIANO (US)
 
-MAXIMILIANO (US) is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Eaton Workshop, Washington DC on Mon, 9 Nov 2026.
+MAXIMILIANO (US) is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Jimmy Valentine's Lonely Hearts Club, Washington DC on Wed, 11 Nov 2026.
 
-MAXIMILIANO (US) is a house and deep house artist based in Argentina, with 202 gigs on soundcheck across Barcelona, Buenos Aires, Detroit and Ibiza and 6 more. Often billed alongside Mikey J, Factory Reset and Room 12. Next up: Eaton Workshop, Washington DC on Mon 9 Nov.
+MAXIMILIANO (US) is a house and deep house artist based in Argentina, with 202 gigs on soundcheck across Barcelona, Buenos Aires, Detroit and Ibiza and 6 more. Often billed alongside Mikey J, Factory Reset and Room 12. Next up: Jimmy Valentine's Lonely Hearts Club, Washington DC on Wed 11 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 9 Nov 2026 | Eaton Workshop | Washington DC |
 | Wed, 11 Nov 2026 | Jimmy Valentine's Lonely Hearts Club | Washington DC |
 | Wed, 25 Nov 2026 | TBA - Secret Location - Washington DC | Washington DC |
 

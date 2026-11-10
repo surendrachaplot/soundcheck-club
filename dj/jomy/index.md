@@ -9,7 +9,7 @@ JO (MY) is a house and techno artist based in Malaysia, with 7 gigs on soundchec
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Pisco Bar | Kuala Lumpur |
-| Sat, 14 Nov 2026 | TBA - JOLOKO | Kuala Lumpur |
+| Sat, 14 Nov 2026 | TBA - MANTRA BAR | Kuala Lumpur |
 
 ## Recently played
 

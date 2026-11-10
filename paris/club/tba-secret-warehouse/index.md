@@ -1,8 +1,8 @@
-# TBA - SECRET WAREHOUSE
+# TBA - Secret Warehouse
 
-TBA - SECRET WAREHOUSE is a music venue in Paris with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Secret Warehouse Party 5" on Sat, 14 Nov 2026.
+TBA - Secret Warehouse is a music venue in Paris with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Secret Warehouse Party 5" on Sat, 14 Nov 2026.
 
-TBA - SECRET WAREHOUSE is a music venue in Paris listed on soundcheck. 3 upcoming gigs, with line-ups including Bastet (US), Dominik Audio, Elyas and Esterne Moog and 2 more. See dates, start times and who's playing.
+TBA - Secret Warehouse is a music venue in Paris listed on soundcheck. 3 upcoming gigs, with line-ups including Bastet (US), Dominik Audio, Elyas and Esterne Moog and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

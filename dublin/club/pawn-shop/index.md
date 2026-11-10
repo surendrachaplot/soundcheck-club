@@ -11,7 +11,7 @@ Pawn Shop is a music venue in Dublin listed on soundcheck. 5 upcoming gigs, with
 | Sat, 7 Nov 2026 | Reclaim the Mainframe |  |
 | Fri, 13 Nov 2026 | Techno in the Bunker | Applied Rithim, DarkTrax |
 | Sat, 14 Nov 2026 | Real Talks Records Pawn Shop Takeover | (navarro), Bruno Limma, Royce Larøca, Sakro, Tunney |
-| Fri, 27 Nov 2026 | Bastardo Electrico 24th Birthday w. Jerome Hill, Co-Accussed, Jamie Behan & MEJMI | Co-Accused, Jamie Behan, Jerome Hill, MEJMI |
+| Fri, 27 Nov 2026 | Bastardo Electrico 24th Birthday w. Jerome Hill, Co-Accused,Jamie Behan, Fear-E & MEJMI | Co-Accused, Fear-E, Jamie Behan, Jerome Hill, MEJMI |
 | Fri, 11 Dec 2026 | Intrinsic Rhythm | Tr One |
 
 ## Address

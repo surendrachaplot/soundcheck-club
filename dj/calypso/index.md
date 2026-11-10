@@ -1,13 +1,14 @@
 # calypso
 
-calypso is a Hip-Hop and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Sky Club, Leipzig on Sat, 28 Nov 2026.
+calypso is a Hip-Hop and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Bar Oriente, Mexico-city on Fri, 27 Nov 2026.
 
-calypso is a hip-hop and techno artist based in United Kingdom, with 9 gigs on soundcheck across Atlanta, Leipzig and London. Often billed alongside LeNil, Sophia Nicole and AMBAM. Next up: Sky Club, Leipzig on Sat 28 Nov.
+calypso is a hip-hop and house artist based in United Kingdom, with 10 gigs on soundcheck across Atlanta, Leipzig, London and Mexico City. Often billed alongside LeNil, Sophia Nicole and AMBAM. Next up: Bar Oriente, Mexico City on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | Bar Oriente | Mexico-city |
 | Sat, 28 Nov 2026 | Sky Club | Leipzig |
 
 ## Recently played

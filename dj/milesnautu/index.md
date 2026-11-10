@@ -2,7 +2,7 @@
 
 Miles Nautu is a House and Hip-Hop artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
 
-Miles Nautu is a house and hip-hop artist based in Australia, with 6 gigs on soundcheck across Melbourne, Sydney and Victoria. Often billed alongside Coco Maria, Ezra Collective and Jamz Supernova. Next up: The Wildlands, Melbourne on Fri 20 Nov.
+Miles Nautu is a house and hip-hop artist based in Australia, with 6 gigs on soundcheck across Melbourne, Sydney and Victoria. Often billed alongside Birdsnake, Coco Maria and Emelyne. Next up: The Wildlands, Melbourne on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -20,6 +20,6 @@ Miles Nautu is a house and hip-hop artist based in Australia, with 6 gigs on sou
 
 ## Shares bills with
 
-Coco Maria, Ezra Collective, Jamz Supernova
+Birdsnake, Coco Maria, Emelyne
 
 *Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milesnautu/)*

@@ -1,6 +1,6 @@
 # Sequence Chapter.002 at TBA - Madrid
 
-Sequence Chapter.002 at TBA - Madrid on Sat 21 Nov, Madrid. 4 artists: Elisa Bee, Hector MAD, Raul Parra and RUBEN CARTER. Techno. See the line-up on soundcheck.
+Sequence Chapter.002 at TBA - Madrid on Sat 21 Nov, Madrid. 5 artists: Elisa Bee, Hector MAD, Mr Coalman and Raul Parra and 1 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Sequence Chapter.002 at TBA - Madrid on Sat 21 Nov, Madrid. 4 artists: Elisa Bee
 
 - Elisa Bee
 - Hector MAD
+- Mr Coalman
 - Raul Parra
 - RUBEN CARTER
 

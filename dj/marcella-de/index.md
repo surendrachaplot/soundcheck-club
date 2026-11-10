@@ -1,13 +1,14 @@
 # Marcella
 
-Marcella is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Halle6, Munich on Sat, 28 Nov 2026.
+Marcella is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Gorg-O-Mish, Vancouver on Fri, 13 Nov 2026.
 
-Marcella is a house and techno artist based in Germany, with 7 gigs on soundcheck across Munich and Vancouver. Often billed alongside Beiti, EKIN and Luca Fernandez. Next up: Halle6, Munich on Sat 28 Nov.
+Marcella is a house and techno artist based in Germany, with 8 gigs on soundcheck across Munich and Vancouver. Often billed alongside Beiti, EKIN and Lalo Campo. Next up: Gorg-O-Mish, Vancouver on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | Gorg-O-Mish | Vancouver |
 | Sat, 28 Nov 2026 | Halle6 | Munich |
 
 ## Recently played
@@ -21,6 +22,6 @@ Marcella is a house and techno artist based in Germany, with 7 gigs on soundchec
 
 ## Shares bills with
 
-Beiti, EKIN, Luca Fernandez
+Beiti, EKIN, Lalo Campo
 
 *Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcella-de/)*

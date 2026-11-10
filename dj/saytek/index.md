@@ -11,7 +11,7 @@ Saytek is a techno and house artist based in United Kingdom, with 51 gigs on sou
 | Wed, 11 Nov 2026 | The Carlton Club | Manchester |
 | Sat, 14 Nov 2026 | Strange Field | Glasgow |
 | Sat, 21 Nov 2026 | Ciało | Wroclaw |
-| Sat, 5 Dec 2026 | TBA - 310 W 7 MILE | Detroit |
+| Sat, 5 Dec 2026 | SOS 7 Mile | Detroit |
 | Fri, 11 Dec 2026 | Strand DC | Washington DC |
 
 ## Recently played

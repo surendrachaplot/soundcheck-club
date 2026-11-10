@@ -2,7 +2,7 @@
 
 Clowl is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Oddity Club, Athens on Sat, 19 Dec 2026.
 
-Clowl is a techno and trance artist, with 13 gigs on soundcheck across Athens, Sofia and Thessaloniki. Often billed alongside Enjoint, MAXImum and Até.. Next up: Oddity Club, Athens on Sat 19 Dec.
+Clowl is a techno and trance artist based in Greece, with 13 gigs on soundcheck across Athens, Sofia and Thessaloniki. Often billed alongside Enjoint, MAXImum and Até.. Next up: Oddity Club, Athens on Sat 19 Dec.
 
 ## Upcoming shows
 

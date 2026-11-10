@@ -1,13 +1,14 @@
 # Daega Sound
 
-Daega Sound is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Address sent to ticket holders 7 pm day of show, Vancouver on Sat, 2 Jan 2027.
+Daega Sound is a Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Biltmore Cabaret, Vancouver on Fri, 27 Nov 2026.
 
-Daega Sound is a bass and dubstep artist based in Canada, with 7 gigs on soundcheck across Vancouver. Often billed alongside Taal Mala, Max Ulis and Michael Red. Next up: TBA - Address sent to ticket holders 7 pm day of show, Vancouver on Sat 2 Jan.
+Daega Sound is a bass and dubstep artist based in Canada, with 8 gigs on soundcheck across Vancouver. Often billed alongside Taal Mala, Max Ulis and Michael Red. Next up: Biltmore Cabaret, Vancouver on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | Biltmore Cabaret | Vancouver |
 | Sat, 2 Jan 2027 | TBA - Address sent to ticket holders 7 pm day of show | Vancouver |
 
 ## Recently played

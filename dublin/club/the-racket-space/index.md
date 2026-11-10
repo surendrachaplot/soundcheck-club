@@ -14,7 +14,7 @@ The Racket Space is a music venue in Dublin listed on soundcheck. 13 upcoming gi
 | Fri, 20 Nov 2026 | DirtyDogs |  |
 | Sat, 21 Nov 2026 | Bread & Butter II | Emma Kearns, Tunney |
 | Sat, 28 Nov 2026 | Racket Space presents: Skeptic & MUCKANIKS | MUCKANIKS, Skeptic |
-| Fri, 4 Dec 2026 | Psychedelic Gaff 10 Years |  |
+| Fri, 4 Dec 2026 | Psychedelic Gaff 10 Years | JuliosMap |
 | Sat, 5 Dec 2026 | Shed | Billy Spike Iland, Shed |
 | Fri, 11 Dec 2026 | Mozey | Mozey |
 | Fri, 18 Dec 2026 | Push Ya presents: Alexander Skancke B2B Trent Voyage | Alexander Skancke, Trent Voyage |

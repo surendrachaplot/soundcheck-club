@@ -1,6 +1,6 @@
 # Mont Rouge at ORIGIN
 
-Mont Rouge at ORIGIN on Sat 21 Nov, Los Angeles. 1 artist: Mont Rouge. See the line-up on soundcheck.
+Mont Rouge at ORIGIN on Sat 21 Nov, Los Angeles. 4 artists: Annicka, Blaise S, Mont Rouge and Von Boch. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,9 @@ Mont Rouge at ORIGIN on Sat 21 Nov, Los Angeles. 1 artist: Mont Rouge. See the l
 
 ## Line-up
 
+- Annicka
+- Blaise S
 - Mont Rouge
+- Von Boch
 
 *Source: [soundcheck](https://soundcheck.club/e/2575505-mont-rouge-at-origin/)*

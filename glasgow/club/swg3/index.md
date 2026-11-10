@@ -1,8 +1,8 @@
 # SWG3
 
-SWG3 is a music venue in Glasgow with 27 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "SYNRG Presents - Francesco Del Garda & DJ Masda" on Fri, 13 Nov 2026.
+SWG3 is a music venue in Glasgow with 28 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "SYNRG Presents - Francesco Del Garda & DJ Masda" on Fri, 13 Nov 2026.
 
-SWG3 is a music venue in Glasgow listed on soundcheck. 27 upcoming gigs, with line-ups including AMMARA, Boss Priester, Bushbaby and Cassius and 2 more. See dates, start times and who's playing. 100 Eastvale Place, Glasgow, G3 8QG.
+SWG3 is a music venue in Glasgow listed on soundcheck. 28 upcoming gigs, with line-ups including AMMARA, An Dannsa Dub, Boss Priester and Bushbaby and 2 more. See dates, start times and who's playing. 100 Eastvale Place, Glasgow, G3 8QG.
 
 ## What's on
 

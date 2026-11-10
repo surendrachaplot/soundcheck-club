@@ -1,8 +1,8 @@
 # Specka
 
-Specka is a music venue in Madrid with 15 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Escaparate 14/38 pres. I Gazpacho #07" on Fri, 13 Nov 2026.
+Specka is a music venue in Madrid with 16 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Escaparate 14/38 pres. I Gazpacho #07" on Fri, 13 Nov 2026.
 
-Specka is a music venue in Madrid listed on soundcheck. 15 upcoming gigs, with line-ups including ananke, Blaark, Cilla (AU) and Cynth and 2 more. See dates, start times and who's playing. Calle Orense, 26 bajos Madrid 28020.
+Specka is a music venue in Madrid listed on soundcheck. 16 upcoming gigs, with line-ups including ananke, Blaark, Cilla (AU) and Cynth and 2 more. See dates, start times and who's playing. Calle Orense, 26 bajos Madrid 28020.
 
 ## What's on
 
@@ -16,8 +16,8 @@ Specka is a music venue in Madrid listed on soundcheck. 15 upcoming gigs, with l
 | Sat, 21 Nov 2026 | Mantra Club - Specka Club (Tardes) |  |
 | Sat, 21 Nov 2026 | 50 AÑOS - BASSDRUM I Operation Room | VNSTY |
 | Thu, 26 Nov 2026 | Dr. Smoke I Distrito 91 at Specka |  |
+| Fri, 27 Nov 2026 | Question I Specka Club | Roldan, Tief (1) |
 | Sat, 28 Nov 2026 | 28 Builder$ I Specka Live |  |
-| Sat, 28 Nov 2026 | Techno Mood Club 2.0 I Specka Club | Wavesound |
 
 ## Address
 
