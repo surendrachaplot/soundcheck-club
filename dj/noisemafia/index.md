@@ -1,8 +1,8 @@
 # Noise Mafia
 
-Noise Mafia is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Mia Mao, Paris on Tue, 10 Nov 2026.
+Noise Mafia is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Mia Mao, Paris on Tue, 10 Nov 2026.
 
-Noise Mafia is a techno and trance artist based in Colombia, with 93 gigs on soundcheck across Amsterdam, Barcelona, Basel and Belfast and 37 more. Often billed alongside PETERBLUE, Adrian Mills and Afem Syko. Next up: Mia Mao, Paris on Tue 10 Nov.
+Noise Mafia is a techno and trance artist based in Colombia, with 94 gigs on soundcheck across Amsterdam, Barcelona, Basel and Belfast and 37 more. Often billed alongside PETERBLUE, Adrian Mills and Afem Syko. Next up: Mia Mao, Paris on Tue 10 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Noise Mafia is a techno and trance artist based in Colombia, with 93 gigs on sou
 | Tue, 10 Nov 2026 | Mia Mao | Paris |
 | Sat, 14 Nov 2026 | Studio Club Malaga | Malaga |
 | Sat, 21 Nov 2026 | Amp | Münster |
+| Fri, 27 Nov 2026 | Home The Venue | Sydney |
 | Sat, 5 Dec 2026 | Zenith - Die Kulturhalle | Munich |
 | Fri, 11 Dec 2026 | Halle Tony Garnier | Lyon |
 | Sat, 12 Dec 2026 | Valsemøllen | Bergen |

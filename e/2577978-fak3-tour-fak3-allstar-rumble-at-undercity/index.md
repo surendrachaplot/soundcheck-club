@@ -15,7 +15,7 @@ FAK3 TOUR: FAK3 ALLSTAR RUMBLE at UNDERCITY on Fri 13 Nov, Seoul. 7 artists: AEI
 - jinnin
 - KIMNA
 - kirin
-- RUE (1)
+- rue (3)
 - S1LVERLUV
 
 *Source: [soundcheck](https://soundcheck.club/e/2577978-fak3-tour-fak3-allstar-rumble-at-undercity/)*

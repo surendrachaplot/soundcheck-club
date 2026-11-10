@@ -2,7 +2,7 @@
 
 Movie is a Hip-Hop and Psytrance artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Ooba Camping Village, Tokyo on Sat, 15 May 2027.
 
-Movie is a hip-hop and psytrance artist, with 6 gigs on soundcheck across Osaka, Seoul and Tokyo. Often billed alongside Tsuyoshi Suzuki, ATAMI and ATESH. Next up: Ooba Camping Village, Tokyo on Sat 15 May.
+Movie is a hip-hop and psytrance artist based in Italy, with 6 gigs on soundcheck across Osaka, Seoul and Tokyo. Often billed alongside Tsuyoshi Suzuki, ATAMI and ATESH. Next up: Ooba Camping Village, Tokyo on Sat 15 May.
 
 ## Upcoming shows
 

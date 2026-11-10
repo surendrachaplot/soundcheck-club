@@ -1,8 +1,8 @@
 # The Ulster Sports Club
 
-The Ulster Sports Club is a music venue in Belfast with 10 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "The Hammer Hits" on Sat, 14 Nov 2026.
+The Ulster Sports Club is a music venue in Belfast with 11 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "The Hammer Hits" on Sat, 14 Nov 2026.
 
-The Ulster Sports Club is a music venue in Belfast listed on soundcheck. 10 upcoming gigs, with line-ups including Blark, Cáit, Conor Schmtz and Emma O and 2 more. See dates, start times and who's playing. The Ulster Sports Club 98 High St, Belfast BT1 2BE, Northern Ireland, United Kingdom.
+The Ulster Sports Club is a music venue in Belfast listed on soundcheck. 11 upcoming gigs, with line-ups including Blark, Cáit, Conor Schmtz and Emma O and 2 more. See dates, start times and who's playing. The Ulster Sports Club 98 High St, Belfast BT1 2BE, Northern Ireland, United Kingdom.
 
 ## What's on
 
@@ -17,7 +17,7 @@ The Ulster Sports Club is a music venue in Belfast listed on soundcheck. 10 upco
 | Sat, 5 Dec 2026 | Crilli DNB presents DJ Hype |  |
 | Sat, 5 Dec 2026 | COUNTERCURRENTS001 | Emma O, Princess Glitoris |
 | Fri, 11 Dec 2026 | Social Sounds presents Holly Lester, Matcha + Michaél Corr | Holly Lester, Matcha |
-| Fri, 18 Dec 2026 | Glacier X Glutek: The Polar Series |  |
+| Sat, 12 Dec 2026 | Féline (Bébé) W/ Chris Frieze / Tripper / Conor Schmtz | Conor Schmtz |
 
 ## Address
 

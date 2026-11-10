@@ -10,7 +10,7 @@ Glamorama is a music venue in Melbourne listed on soundcheck. 4 upcoming gigs, w
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Interval - Stef Davidse [NL] | Stef Davidse |
 | Fri, 13 Nov 2026 | Glam Open Decks: #7 |  |
-| Sat, 14 Nov 2026 | Glam 11th Birthday |  |
+| Sat, 14 Nov 2026 | Glam's 11th Bday |  |
 | Fri, 20 Nov 2026 | Interval - Elias Mazian [NL] (4 Hours) | Elias Mazian |
 
 ## Address

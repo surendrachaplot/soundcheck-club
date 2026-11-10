@@ -12,7 +12,7 @@ nueve cero nueve is a music venue in Mexico City listed on soundcheck. 6 upcomin
 | Sat, 14 Nov 2026 | Love Parade Release Party CDMX | Alex Bau, Sintoma TR |
 | Fri, 20 Nov 2026 | Solo Baila takeover | Gaio |
 | Sat, 21 Nov 2026 | Boyanza takeover | Rafatel |
-| Sat, 28 Nov 2026 | Fig (dance your name) + Pato Mallet & Etta |  |
+| Sat, 28 Nov 2026 | ratback crew X nueve cero nueve |  |
 | Fri, 11 Dec 2026 | nodo en nueve cero nueve | Cabe, Disorder44, Gohtobi, Makrina |
 
 ## Address

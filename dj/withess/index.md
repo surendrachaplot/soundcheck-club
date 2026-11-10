@@ -1,14 +1,15 @@
 # With Ess
 
-With Ess is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Sub Club Melbourne, Melbourne on Fri, 20 Nov 2026.
+With Ess is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Sub Club Melbourne, Melbourne on Fri, 20 Nov 2026.
 
-With Ess is a house and techno artist based in Australia, with 15 gigs on soundcheck across Melbourne. Often billed alongside Amraks, Champagnemuma and Char(k). Next up: Sub Club Melbourne, Melbourne on Fri 20 Nov.
+With Ess is a house and techno artist based in Australia, with 16 gigs on soundcheck across Melbourne. Often billed alongside Amraks, Champagnemuma and Char(k). Next up: Sub Club Melbourne, Melbourne on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Sub Club Melbourne | Melbourne |
+| Fri, 4 Dec 2026 | Revolver Upstairs | Melbourne |
 
 ## Recently played
 

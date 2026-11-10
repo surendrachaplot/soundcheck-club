@@ -1,14 +1,15 @@
 # Daryl Knows
 
-Daryl Knows is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Earworm, Singapore on Fri, 20 Nov 2026.
+Daryl Knows is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Earworm, Singapore on Fri, 20 Nov 2026.
 
-Daryl Knows is a house and techno artist based in Singapore, with 59 gigs on soundcheck across Bali, Bangkok, Hong Kong and Kuala Lumpur and 6 more. Often billed alongside Dexter Colt, Dean Chew and Bongomann. Next up: Earworm, Singapore on Fri 20 Nov.
+Daryl Knows is a house and techno artist based in Singapore, with 60 gigs on soundcheck across Bali, Bangkok, Hong Kong and Kuala Lumpur and 6 more. Often billed alongside Dexter Colt, Dean Chew and Bongomann. Next up: Earworm, Singapore on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Earworm | Singapore |
+| Sat, 28 Nov 2026 | Earworm | Singapore |
 
 ## Recently played
 

@@ -1,6 +1,6 @@
 # WORK Weekender: Fadi Mohem, FJAAK, Lindsey Herbert, Luigi Tozzi, The Lady Machine & More at TBA - Los Angeles
 
-WORK Weekender: Fadi Mohem, FJAAK, Lindsey Herbert, Luigi Tozzi, The Lady Machine & More at TBA - Los Angeles on Fri 20 Nov, Los Angeles. 8 artists: Adrian Reyes, BB Shaine, David Castellani and Fizch and 4 more. Techno. See the line-up on soundcheck.
+WORK Weekender: Fadi Mohem, FJAAK, Lindsey Herbert, Luigi Tozzi, The Lady Machine & More at TBA - Los Angeles on Fri 20 Nov, Los Angeles. 9 artists: Adrian Reyes, BB Shaine, David Castellani and Fadi Mohem and 5 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ WORK Weekender: Fadi Mohem, FJAAK, Lindsey Herbert, Luigi Tozzi, The Lady Machin
 - Adrian Reyes
 - BB Shaine
 - David Castellani
+- Fadi Mohem
 - Fizch
 - FJAAK
 - Lindsey Herbert

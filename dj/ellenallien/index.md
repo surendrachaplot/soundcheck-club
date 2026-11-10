@@ -1,8 +1,8 @@
 # Ellen Allien
 
-Ellen Allien is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Stereo, Montreal on Fri, 13 Nov 2026.
+Ellen Allien is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Stereo, Montreal on Fri, 13 Nov 2026.
 
-Ellen Allien is a techno and house artist based in Germany, with 300 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 82 more. Often billed alongside Dr. Rubinstein, Shaleen and Daria Kolosova. Next up: Stereo, Montreal on Fri 13 Nov.
+Ellen Allien is a techno and house artist based in Germany, with 301 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 82 more. Often billed alongside Dr. Rubinstein, Shaleen and Daria Kolosova. Next up: Stereo, Montreal on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -18,8 +18,8 @@ Ellen Allien is a techno and house artist based in Germany, with 300 gigs on sou
 | Sat, 12 Dec 2026 | Q35 WAREHOUSE | Turin |
 | Sat, 19 Dec 2026 | Cieloterra | Rome |
 | Sat, 26 Dec 2026 | RSO.BERLIN | Berlin |
+| Thu, 31 Dec 2026 | Link | Bologna |
 | Fri, 15 Jan 2027 | Carfax | Johannesburg |
-| Sat, 16 Jan 2027 | The Castle of Good Hope | Cape-town |
 
 ## Recently played
 

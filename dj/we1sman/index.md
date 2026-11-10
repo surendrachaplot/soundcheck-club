@@ -1,14 +1,15 @@
 # we1sman
 
-we1sman is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Marble Bar, Detroit on Sat, 14 Nov 2026.
+we1sman is a Techno and Club artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Marble Bar, Detroit on Sat, 14 Nov 2026.
 
-we1sman is a techno and club artist based in United States of America, with 153 gigs on soundcheck across Amsterdam, Denver, Detroit and New York City. Often billed alongside Wax Assassin, jamea. and LATEX GIRL. Next up: Marble Bar, Detroit on Sat 14 Nov.
+we1sman is a techno and club artist based in United States of America, with 154 gigs on soundcheck across Amsterdam, Denver, Detroit and New York City. Often billed alongside Wax Assassin, jamea. and LATEX GIRL. Next up: Marble Bar, Detroit on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Marble Bar | Detroit |
+| Fri, 20 Nov 2026 | Lincoln Factory | Detroit |
 | Sat, 28 Nov 2026 | Menjo's | Detroit |
 | Thu, 31 Dec 2026 | RADION | Amsterdam |
 

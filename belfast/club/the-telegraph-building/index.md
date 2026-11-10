@@ -13,7 +13,7 @@ The Telegraph Building is a music venue in Belfast listed on soundcheck. 8 upcom
 | Fri, 20 Nov 2026 | Duke Dumont | Duke Dumont |
 | Sat, 28 Nov 2026 | SHINE -- DJ Heartstring | DJ Heartstring, SAIDAH |
 | Sat, 5 Dec 2026 | SHINE x INDEX -- Interplanetary Criminal | DIEBYVEG, Faster Horses, Interplanetary Criminal |
-| Fri, 11 Dec 2026 | SHINE -- Cloudy | Cloudy |
+| Fri, 11 Dec 2026 | SHINE -- Cloudy | Cloudy, Princess Glitoris, t e s t p r e s s |
 | Sat, 26 Dec 2026 | SHINE x TELETECH BOXING DAY -- Onlynumbers + Samuel Moriero  | KIRSTY, Onlynumbers, Samuel Moriero (2) |
 | Sat, 6 Mar 2027 | AREA 10 pres MK | Marc Kinchen |
 

@@ -1,8 +1,8 @@
 # Nico Moreno
 
-Nico Moreno is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
+Nico Moreno is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
 
-Nico Moreno is a techno and house artist based in France, with 227 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 86 more. Often billed alongside I Hate Models, DYEN and Trym. Next up: Hungexpo Budapest, Budapest on Fri 13 Nov.
+Nico Moreno is a techno and house artist based in France, with 228 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 86 more. Often billed alongside I Hate Models, DYEN and Trym. Next up: Hungexpo Budapest, Budapest on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Nico Moreno is a techno and house artist based in France, with 227 gigs on sound
 | Sat, 5 Dec 2026 | Fortuna Hall | Prague |
 | Fri, 18 Dec 2026 | Messe Stuttgart | Stuttgart |
 | Thu, 31 Dec 2026 | Petco Park | San-diego |
+| Fri, 1 Jan 2027 | Radius | Chicago |
 | Sat, 2 Jan 2027 | Pier 80 Warehouse | San Francisco/Oakland |
 | Fri, 5 Mar 2027 | Ziggo Dome | Amsterdam |
 | Fri, 19 Mar 2027 | Barclays | Thuringia |

@@ -1,14 +1,15 @@
 # SPRKLBB
 
-SPRKLBB is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Glove That Fits, London on Fri, 13 Nov 2026.
+SPRKLBB is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at The Glove That Fits, London on Fri, 13 Nov 2026.
 
-SPRKLBB is a house and techno artist based in United States of America, with 77 gigs on soundcheck across Austin, Baltimore, Berlin and Bogotá and 17 more. Often billed alongside Mutualism, Mike Servito and BEIGE. Next up: The Glove That Fits, London on Fri 13 Nov.
+SPRKLBB is a house and techno artist based in United States of America, with 78 gigs on soundcheck across Austin, Baltimore, Berlin and Bogotá and 17 more. Often billed alongside Mutualism, Mike Servito and BEIGE. Next up: The Glove That Fits, London on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | The Glove That Fits | London |
+| Sat, 14 Nov 2026 | Le point fort d'Aubervilliers | Paris |
 
 ## Recently played
 

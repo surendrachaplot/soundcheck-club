@@ -1,8 +1,8 @@
 # Lewis Taylor
 
-Lewis Taylor is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at The Loft, Manchester on Thu, 12 Nov 2026.
+Lewis Taylor is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at The Loft, Manchester on Thu, 12 Nov 2026.
 
-Lewis Taylor is a house and tech house artist based in United Kingdom, with 49 gigs on soundcheck across Aberdeen, Amsterdam, Brighton and Bristol and 15 more. Often billed alongside Ellia Jaya, Gaskin and Harry Robson. Next up: The Loft, Manchester on Thu 12 Nov.
+Lewis Taylor is a house and tech house artist based in United Kingdom, with 50 gigs on soundcheck across Aberdeen, Amsterdam, Brighton and Brisbane and 16 more. Often billed alongside Ellia Jaya, Gaskin and Harry Robson. Next up: The Loft, Manchester on Thu 12 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Lewis Taylor is a house and tech house artist based in United Kingdom, with 49 g
 | Thu, 12 Nov 2026 | The Loft | Manchester |
 | Sat, 14 Nov 2026 | Thuishaven | Amsterdam |
 | Sat, 14 Nov 2026 | Complex Maastricht | Netherlands |
+| Sat, 21 Nov 2026 | Prohibition Brisbane | Brisbane |
 | Sun, 22 Nov 2026 | The Ivy | Sydney |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 | Fri, 18 Dec 2026 | Mint XL | Leeds |

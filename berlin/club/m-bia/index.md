@@ -10,7 +10,7 @@ M-BIA is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with lin
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | One Night with Greb Levah & Bassmassage |  |
 | Sat, 14 Nov 2026 | Inception with Luminatix | DELTA LABS, Momentune |
-| Fri, 20 Nov 2026 | Sanctus pres. Diztorted [Belfast] | INTOX, Refl3ction |
+| Fri, 20 Nov 2026 | Sanctus pres. Diztorted [Belfast] | INTOX, L X S, Popsen, Refl3ction |
 | Sat, 21 Nov 2026 | GOA Herbst Edition [pres. Naturalize, Vertigos] |  |
 | Fri, 27 Nov 2026 | Mega 90er Rave - DJ QUICKSILVER |  |
 | Sat, 28 Nov 2026 | PsyLab – Escape the Grey |  |

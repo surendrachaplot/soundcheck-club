@@ -1,13 +1,14 @@
 # Violeta
 
-Violeta is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at The Ground at Club Space, Miami on Fri, 13 Nov 2026.
+Violeta is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Supernatural Haus, Miami on Wed, 11 Nov 2026.
 
-Violeta is a house and techno artist based in United States of America, with 34 gigs on soundcheck across Los Angeles and Miami. Often billed alongside Spice Crime, KUJO (US) and PROLETAR. Next up: The Ground at Club Space, Miami on Fri 13 Nov.
+Violeta is a house and techno artist based in United States of America, with 35 gigs on soundcheck across Los Angeles and Miami. Often billed alongside Spice Crime, KUJO (US) and PROLETAR. Next up: Supernatural Haus, Miami on Wed 11 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 11 Nov 2026 | Supernatural Haus | Miami |
 | Fri, 13 Nov 2026 | The Ground at Club Space | Miami |
 | Sat, 21 Nov 2026 | Casa Nube Wynwood | Miami |
 

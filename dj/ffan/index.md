@@ -1,13 +1,14 @@
 # FFAN
 
-FFAN is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Pawnshop, Taipei on Fri, 20 Nov 2026.
+FFAN is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Nyapi, Seoul on Thu, 19 Nov 2026.
 
-FFAN is a house and techno artist based in South Korea, with 238 gigs on soundcheck across Amsterdam, Bali, Beijing and Berlin and 16 more. Often billed alongside Juncheol, Kyper and YAMARCHY. Next up: Pawnshop, Taipei on Fri 20 Nov.
+FFAN is a house and techno artist based in South Korea, with 239 gigs on soundcheck across Amsterdam, Bali, Beijing and Berlin and 16 more. Often billed alongside Juncheol, Kyper and YAMARCHY. Next up: Nyapi, Seoul on Thu 19 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 19 Nov 2026 | Nyapi | Seoul |
 | Fri, 20 Nov 2026 | Pawnshop | Taipei |
 | Thu, 3 Dec 2026 | The Fields at Siam Country Club | Thailand |
 | Sat, 12 Dec 2026 | Sameheads | Berlin |

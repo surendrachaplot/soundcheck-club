@@ -1,6 +1,6 @@
 # Doka Studio x nice 2 be nice with ESTRELLA - Yòp - Sarkawt Hamad - Naomi - Mammo - Dj Heartbrea at Doka
 
-Doka Studio x nice 2 be nice with ESTRELLA - Yòp - Sarkawt Hamad - Naomi - Mammo - Dj Heartbrea on Sat 14 Nov, Amsterdam. 6 artists: Dj Heartbreak, ESTRELLA, Mammo and Naomi and 2 more. Techno and House. See the line-up on soundcheck.
+Doka Studio x nice 2 be nice with ESTRELLA - Yòp - Sarkawt Hamad - Naomi - Mammo - Dj Heartbrea on Sat 14 Nov, Amsterdam. 6 artists: Dj Heartbreak, ESTRELLA, Mammo and Naomi (Berlin) and 2 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,7 +13,7 @@ Doka Studio x nice 2 be nice with ESTRELLA - Yòp - Sarkawt Hamad - Naomi - Mamm
 - Dj Heartbreak
 - ESTRELLA
 - Mammo
-- Naomi (1)
+- Naomi (Berlin)
 - Sarkawt Hamad
 - Yòp
 

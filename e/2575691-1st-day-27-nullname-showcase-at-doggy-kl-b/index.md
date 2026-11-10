@@ -1,6 +1,6 @@
 # 1st Day 27: NullName Showcase at Doggy Klœb
 
-1st Day 27: NullName Showcase at Doggy Klœb on Fri 1 Jan, Malaga. 3 artists: Noctive, Not Charlie and Reisender. Techno. See the line-up on soundcheck.
+1st Day 27: NullName Showcase at Doggy Klœb on Fri 1 Jan, Malaga. 4 artists: Mario Tishok, Noctive, Not Charlie and Reisender. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@
 
 ## Line-up
 
+- Mario Tishok
 - Noctive
 - Not Charlie
 - Reisender

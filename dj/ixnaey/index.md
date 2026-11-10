@@ -1,13 +1,14 @@
 # IXNAEY
 
-IXNAEY is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Oxford Art Factory, Sydney on Fri, 27 Nov 2026.
+IXNAEY is a Techno and Garage artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Chinese Laundry, Sydney on Sat, 14 Nov 2026.
 
-IXNAEY is a techno and breakbeat artist based in Australia, with 8 gigs on soundcheck across Sydney. Often billed alongside NFRMT, AMZDAMN B2B SMAGS and Baba Boubou. Next up: Oxford Art Factory, Sydney on Fri 27 Nov.
+IXNAEY is a techno and garage artist based in Australia, with 9 gigs on soundcheck across Sydney. Often billed alongside NFRMT, AMZDAMN B2B SMAGS and Baba Boubou. Next up: Chinese Laundry, Sydney on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | Chinese Laundry | Sydney |
 | Fri, 27 Nov 2026 | Oxford Art Factory | Sydney |
 
 ## Recently played

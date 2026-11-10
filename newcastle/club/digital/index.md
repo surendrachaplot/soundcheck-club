@@ -12,7 +12,7 @@ Digital is a music venue in Newcastle listed on soundcheck. 14 upcoming gigs, wi
 | Fri, 13 Nov 2026 | Slapfunk Newcastle | Doudou MD, Dungeon Meat, Samuel Deep, The Ghost, Yass & Mali |
 | Sat, 14 Nov 2026 | Big Fat Rave: 4am Kru, Napes, Silva Snipa & Many More | 4am Kru, Napes, melba |
 | Thu, 19 Nov 2026 | UNIT.90 THURSDAYS |  |
-| Fri, 20 Nov 2026 | Digital presents: Kmotionz, Conducta & Flowdan (Live) | Conducta, Flowdan, K Motionz, keks |
+| Fri, 20 Nov 2026 | Digital presents: Kmotionz, Conducta & Flowdan (Live) | Conducta, Flowdan, K Motionz |
 | Sat, 21 Nov 2026 | DIGITAL Presents Jazzy: Peace & Patience Tour |  |
 | Thu, 26 Nov 2026 | UNIT.90 THURSDAYS |  |
 | Fri, 27 Nov 2026 | Fish56Octagon | Fish56Octagon |

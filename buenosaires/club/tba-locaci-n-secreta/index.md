@@ -1,13 +1,13 @@
-# TBA - Locación Secreta
+# TBA - locación secreta
 
-TBA - Locación Secreta is a music venue in Buenos Aires with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "FIEBRE x goth milk: Oli XL" on Fri, 30 Oct 2026.
+TBA - locación secreta is a music venue in Buenos Aires with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. The next is "mantis continua" on Sat, 21 Nov 2026.
 
-TBA - Locación Secreta is a music venue in Buenos Aires listed on soundcheck. 1 upcoming gig, with line-ups including Kozovo, Oli XL and Sinxstxsia. See dates, start times and who's playing.
+TBA - locación secreta is a music venue in Buenos Aires listed on soundcheck. 1 upcoming gig, with line-ups including SOMACCHIA. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | FIEBRE x goth milk: Oli XL | Kozovo, Oli XL, Sinxstxsia |
+| Sat, 21 Nov 2026 | mantis continua | SOMACCHIA |
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-locaci-n-secreta/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-locaci-n-secreta/)*

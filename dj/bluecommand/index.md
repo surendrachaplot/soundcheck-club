@@ -9,7 +9,7 @@ Bluecommand is a techno and electronica artist based in Mexico, with 136 gigs on
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | TBA | Mexico City |
-| Mon, 30 Nov 2026 | Relink:Data | Mexico City |
+| Fri, 20 Nov 2026 | Relink:Data | Mexico City |
 
 ## Recently played
 

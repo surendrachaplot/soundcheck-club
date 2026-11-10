@@ -10,7 +10,7 @@ Talla 2XLC is a trance and techno artist based in Germany, with 29 gigs on sound
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | The Queen Mary | Los Angeles |
 | Fri, 11 Dec 2026 | Void Club | Berlin |
-| Fri, 11 Dec 2026 | Void Club | Berlin |
+| Fri, 11 Dec 2026 | Void Hall | Berlin |
 | Sat, 19 Dec 2026 | Tropi | Baden-w-rttemberg |
 
 ## Recently played

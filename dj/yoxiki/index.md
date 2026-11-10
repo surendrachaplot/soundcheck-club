@@ -1,13 +1,14 @@
 # YOXIKI
 
-YOXIKI is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at WOMB, Tokyo on Mon, 21 Dec 2026.
+YOXIKI is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at ZEROTOKYO, Tokyo on Sat, 28 Nov 2026.
 
-YOXIKI is a techno and industrial artist based in Japan, with 79 gigs on soundcheck across Seoul and Tokyo. Often billed alongside CHIKA, YURI VALEN and DALJAE. Next up: WOMB, Tokyo on Mon 21 Dec.
+YOXIKI is a techno and industrial artist based in Japan, with 80 gigs on soundcheck across Seoul and Tokyo. Often billed alongside CHIKA, YURI VALEN and DALJAE. Next up: ZEROTOKYO, Tokyo on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | ZEROTOKYO | Tokyo |
 | Mon, 21 Dec 2026 | WOMB | Tokyo |
 
 ## Recently played

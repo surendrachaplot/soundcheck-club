@@ -1,6 +1,6 @@
 # Relink:Data
 
-Relink:Data is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. The next is "Secuencias Temporales Night" on Mon, 30 Nov 2026.
+Relink:Data is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. The next is "Secuencias Temporales Night" on Fri, 20 Nov 2026.
 
 Relink:Data is a music venue in Mexico City listed on soundcheck. 1 upcoming gig, with line-ups including Bluecommand, Cybebe, Eafhm and Koscoy and 2 more. See dates, start times and who's playing. Calle de Motolinia 33, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX.
 
@@ -8,7 +8,7 @@ Relink:Data is a music venue in Mexico City listed on soundcheck. 1 upcoming gig
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 30 Nov 2026 | Secuencias Temporales Night | Bluecommand, Cybebe, Eafhm, Koscoy, MirrorLake, Neukila |
+| Fri, 20 Nov 2026 | Secuencias Temporales Night | Bluecommand, Cybebe, Eafhm, Koscoy, MirrorLake, Neukila |
 
 ## Address
 

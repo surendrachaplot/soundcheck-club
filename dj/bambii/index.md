@@ -1,8 +1,8 @@
 # Bambii
 
-Bambii is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Société des arts technologiques, Montreal on Tue, 10 Nov 2026.
+Bambii is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Société des arts technologiques, Montreal on Tue, 10 Nov 2026.
 
-Bambii is a techno and house artist based in Canada, with 113 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 29 more. Often billed alongside Young Teesh, Nino Brown and Nia Archives. Next up: Société des arts technologiques, Montreal on Tue 10 Nov.
+Bambii is a techno and house artist based in Canada, with 114 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 29 more. Often billed alongside Young Teesh, Nino Brown and Nia Archives. Next up: Société des arts technologiques, Montreal on Tue 10 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Bambii is a techno and house artist based in Canada, with 113 gigs on soundcheck
 | --- | --- | --- |
 | Tue, 10 Nov 2026 | Société des arts technologiques | Montreal |
 | Wed, 11 Nov 2026 | Opera House | Toronto |
+| Fri, 27 Nov 2026 | Mooi Space | Toronto |
 | Fri, 11 Dec 2026 | Oxford Art Factory | Sydney |
 | Thu, 31 Dec 2026 | TBA - Il Mercato Centrale | Melbourne |
 | Thu, 19 Aug 2027 | The Garden Tisno | Croatia |

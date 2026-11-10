@@ -1,6 +1,6 @@
 # Geburtstags Klubnacht at Berghain | Panorama Bar | Säule
 
-Geburtstags Klubnacht at Berghain | Panorama Bar | Säule on Sat 12 Dec, Berlin. 26 artists: Andy Martin, annna, Barbara Preisinger and Blawan and 22 more. See the line-up on soundcheck.
+Geburtstags Klubnacht at Berghain | Panorama Bar | Säule on Sat 12 Dec, Berlin. 27 artists: Andy Martin, annna, Barbara Preisinger and Blawan and 23 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -17,6 +17,7 @@ Geburtstags Klubnacht at Berghain | Panorama Bar | Säule on Sat 12 Dec, Berlin.
 - Cecilia Tosh
 - Christian AB
 - Cosmo
+- Cosmo (KR)
 - Decoder
 - Emily Jeanne
 - Gavsborg

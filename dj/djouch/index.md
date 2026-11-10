@@ -1,13 +1,14 @@
 # DJ Ouch!
 
-DJ Ouch! is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Luu Bar, Ho-chi-minh-city on Thu, 24 Dec 2026.
+DJ Ouch! is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Luu Bar, Ho Chi Minh City on Sat, 28 Nov 2026.
 
-DJ Ouch! is a techno and house artist based in Switzerland, with 173 gigs on soundcheck across Bangkok, Barcelona, Ho Chi Minh City and London. Often billed alongside MTXIII, DESNUAGES and Manny. Next up: Luu Bar, Ho Chi Minh City on Thu 24 Dec.
+DJ Ouch! is a techno and house artist based in Switzerland, with 174 gigs on soundcheck across Bangkok, Barcelona, Ho Chi Minh City and London. Often billed alongside MTXIII, DESNUAGES and Manny. Next up: Luu Bar, Ho Chi Minh City on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | Luu Bar | Ho Chi Minh City |
 | Thu, 24 Dec 2026 | Luu Bar | Ho-chi-minh-city |
 
 ## Recently played

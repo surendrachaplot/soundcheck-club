@@ -1,8 +1,8 @@
 # sim0ne
 
-sim0ne is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at The Cause, London on Fri, 13 Nov 2026.
+sim0ne is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at The Cause, London on Fri, 13 Nov 2026.
 
-sim0ne is a techno and house artist based in United Kingdom, with 126 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Auckland and 47 more. Often billed alongside Juicy Romance, DJ Heartstring and Mischluft. Next up: The Cause, London on Fri 13 Nov.
+sim0ne is a techno and house artist based in United Kingdom, with 127 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Auckland and 47 more. Often billed alongside Juicy Romance, DJ Heartstring and Mischluft. Next up: The Cause, London on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ sim0ne is a techno and house artist based in United Kingdom, with 126 gigs on so
 | Fri, 18 Dec 2026 | Cabaret Voltaire | Edinburgh |
 | Sat, 19 Dec 2026 | Unit 51 | Aberdeen |
 | Thu, 31 Dec 2026 | NOS Event Center | Los-angeles |
+| Fri, 1 Jan 2027 | Radius | Chicago |
 
 ## Recently played
 

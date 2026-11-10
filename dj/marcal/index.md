@@ -1,8 +1,8 @@
 # Marcal
 
-Marcal is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at CLUB RAUM, Amsterdam on Fri, 13 Nov 2026.
+Marcal is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at CLUB RAUM, Amsterdam on Fri, 13 Nov 2026.
 
-Marcal is a techno and house artist based in Brazil, with 117 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 53 more. Often billed alongside Ignez, Amotik and Efdemin. Next up: CLUB RAUM, Amsterdam on Fri 13 Nov.
+Marcal is a techno and house artist based in Brazil, with 118 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 54 more. Often billed alongside Ignez, Amotik and Efdemin. Next up: CLUB RAUM, Amsterdam on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Marcal is a techno and house artist based in Brazil, with 117 gigs on soundcheck
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | CLUB RAUM | Amsterdam |
 | Sat, 14 Nov 2026 | Fabrik | Madrid |
+| Fri, 4 Dec 2026 | Post Bar | Helsinki |
 | Sat, 26 Dec 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Thu, 31 Dec 2026 | TBA - Lisboa | Lisbon |
 | Fri, 1 Jan 2027 | ELYSIUM SEVILLA | South |

@@ -1,14 +1,14 @@
 # Marc van Linden
 
-Marc van Linden is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Void Club, Berlin on Fri, 11 Dec 2026.
+Marc van Linden is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Void Hall, Berlin on Fri, 11 Dec 2026.
 
-Marc van Linden is a techno and trance artist based in Germany, with 17 gigs on soundcheck across Berlin, Brandenburg, Dresden and Hannover and 3 more. Often billed alongside GHOST DE, Rob Robsen and DJ Jordan. Next up: Void Club, Berlin on Fri 11 Dec.
+Marc van Linden is a techno and trance artist based in Germany, with 17 gigs on soundcheck across Berlin, Brandenburg, Dresden and Hannover and 3 more. Often billed alongside GHOST DE, Rob Robsen and DJ Jordan. Next up: Void Hall, Berlin on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Dec 2026 | Void Club | Berlin |
+| Fri, 11 Dec 2026 | Void Hall | Berlin |
 | Sat, 6 Feb 2027 | Baggi | Hannover |
 | Sat, 22 May 2027 | Stromwerk Dresden | Dresden |
 | Sat, 26 Jun 2027 | Bernsteinsee Velten | Brandenburg |

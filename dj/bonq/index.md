@@ -9,7 +9,7 @@ Bonq is a techno and house artist based in Germany, with 60 gigs on soundcheck a
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | KitKatClub | Berlin |
-| Fri, 11 Dec 2026 | Void Club | Berlin |
+| Fri, 11 Dec 2026 | Void Hall | Berlin |
 
 ## Recently played
 

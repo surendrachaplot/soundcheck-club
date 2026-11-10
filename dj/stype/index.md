@@ -1,14 +1,15 @@
 # Stype
 
-Stype is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Spartacus Potsdam, Berlin on Sat, 12 Dec 2026.
+Stype is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Spartacus Potsdam, Berlin on Sat, 12 Dec 2026.
 
-Stype is an electronic artist, with 5 gigs on soundcheck across Berlin. Often billed alongside Klex, eterna_l and Adonis Wolf. Next up: Spartacus Potsdam, Berlin on Sat 12 Dec.
+Stype is a techno and house artist, with 6 gigs on soundcheck across Berlin. Often billed alongside Klex, HKS97 and Wasn & Wunderwaffel. Next up: Spartacus Potsdam, Berlin on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Dec 2026 | Spartacus Potsdam | Berlin |
+| Sat, 23 Jan 2027 | ://about blank | Berlin |
 
 ## Recently played
 
@@ -19,6 +20,6 @@ Stype is an electronic artist, with 5 gigs on soundcheck across Berlin. Often bi
 
 ## Shares bills with
 
-Klex, eterna_l, Adonis Wolf
+Klex, HKS97, Wasn & Wunderwaffel
 
 *Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stype/)*

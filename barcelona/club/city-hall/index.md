@@ -1,8 +1,8 @@
 # City Hall
 
-City Hall is a music venue in Barcelona with 24 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "CLARIDAD - VRØN, DOUGLAS MANZANARES & FEDERIX - PROGRESSIVE HOUSE - MAIN ROOM" on Tue, 10 Nov 2026.
+City Hall is a music venue in Barcelona with 26 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "CLARIDAD - VRØN, DOUGLAS MANZANARES & FEDERIX - PROGRESSIVE HOUSE - MAIN ROOM" on Tue, 10 Nov 2026.
 
-City Hall is a music venue in Barcelona listed on soundcheck. 24 upcoming gigs, with line-ups including B.UNQ!, Cambric, CUTIE and DIL KASHMIR and 2 more. See dates, start times and who's playing. Rambla de Catalunya, 4; 08007 Barcelona; Spain.
+City Hall is a music venue in Barcelona listed on soundcheck. 26 upcoming gigs, with line-ups including B.UNQ!, Cambric, CUTIE and DIL KASHMIR and 2 more. See dates, start times and who's playing. Rambla de Catalunya, 4; 08007 Barcelona; Spain.
 
 ## What's on
 

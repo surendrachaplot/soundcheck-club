@@ -1,8 +1,8 @@
 # Jamvvis
 
-Jamvvis is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Système, Montreal on Thu, 12 Nov 2026.
+Jamvvis is a House and Club artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Système, Montreal on Thu, 12 Nov 2026.
 
-Jamvvis is a house and techno artist based in Canada, with 41 gigs on soundcheck across Montreal, New York City and Toronto. Often billed alongside Outback, James Benjamin and Baby Bimbo. Next up: Système, Montreal on Thu 12 Nov.
+Jamvvis is a house and club artist based in Canada, with 42 gigs on soundcheck across Montreal, New York City and Toronto. Often billed alongside Outback, James Benjamin and umru. Next up: Système, Montreal on Thu 12 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Jamvvis is a house and techno artist based in Canada, with 41 gigs on soundcheck
 | --- | --- | --- |
 | Thu, 12 Nov 2026 | Système | Montreal |
 | Thu, 26 Nov 2026 | Bar Datcha | Montreal |
+| Fri, 27 Nov 2026 | Mooi Space | Toronto |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Jamvvis is a house and techno artist based in Canada, with 41 gigs on soundcheck
 
 ## Shares bills with
 
-Outback, James Benjamin, Baby Bimbo
+Outback, James Benjamin, umru
 
 *Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamvvis/)*

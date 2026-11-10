@@ -1,6 +1,6 @@
 # Anjunadeep (Afterparty) at The Loft
 
-Anjunadeep (Afterparty) at The Loft on Sat 21 Nov, Manchester. 3 artists: Dom Donnelly, Ezequiel Arias and Kloyd. See the line-up on soundcheck.
+Anjunadeep (Afterparty) at The Loft on Sat 21 Nov, Manchester. 2 artists: Dom Donnelly and Ezequiel Arias. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,5 @@ Anjunadeep (Afterparty) at The Loft on Sat 21 Nov, Manchester. 3 artists: Dom Do
 
 - Dom Donnelly
 - Ezequiel Arias
-- Kloyd
 
 *Source: [soundcheck](https://soundcheck.club/e/2569651-anjunadeep-afterparty-at-the-loft/)*

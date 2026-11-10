@@ -1,14 +1,15 @@
 # Ryogo
 
-Ryogo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at West Harlem, Kyoto on Sun, 22 Nov 2026.
+Ryogo is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at West Harlem, Kyoto on Sun, 22 Nov 2026.
 
-Ryogo is a techno and house artist based in Japan, with 160 gigs on soundcheck across Hong Kong, Kyoto, Osaka and Tokyo. Often billed alongside Vís, Naco and imazutsubasa. Next up: West Harlem, Kyoto on Sun 22 Nov.
+Ryogo is a techno and house artist based in Japan, with 161 gigs on soundcheck across Hong Kong, Kyoto, Osaka and Tokyo. Often billed alongside Vís, ntank and Naco. Next up: West Harlem, Kyoto on Sun 22 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 22 Nov 2026 | West Harlem | Kyoto |
+| Sat, 12 Dec 2026 | West Harlem | Kyoto |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Ryogo is a techno and house artist based in Japan, with 160 gigs on soundcheck a
 
 ## Shares bills with
 
-Vís (1), Naco (2), imazutsubasa
+Vís (1), ntank, Naco (2)
 
 *Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryogo/)*

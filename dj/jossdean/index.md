@@ -1,8 +1,8 @@
 # Joss Dean
 
-Joss Dean is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
+Joss Dean is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
 
-Joss Dean is a house and tech house artist based in United Kingdom, with 95 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 32 more. Often billed alongside Tommy Phillips, Max Dean and Ozzie Guven. Next up: The Concourse Project, Austin on Fri 13 Nov.
+Joss Dean is a house and tech house artist based in United Kingdom, with 96 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 32 more. Often billed alongside Tommy Phillips, Max Dean and Ozzie Guven. Next up: The Concourse Project, Austin on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Joss Dean is a house and tech house artist based in United Kingdom, with 95 gigs
 | Fri, 20 Nov 2026 | Club Six | San Francisco/Oakland |
 | Sat, 21 Nov 2026 | Spin | San Diego |
 | Fri, 18 Dec 2026 | TivoliVredenburg | Utrecht |
+| Mon, 28 Dec 2026 | IDRA | Manchester |
 | Thu, 31 Dec 2026 | Chelmsford City Racecourse | London |
 | Fri, 1 Jan 2027 | OVO Arena Wembley | London |
 

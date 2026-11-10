@@ -1,6 +1,6 @@
 # Dos Caps de nit at 303 at 303 Audiophile Bar
 
-Dos Caps de nit at 303 at 303 Audiophile Bar on Thu 19 Nov, Barcelona. 2 artists: Francesco Papaleo and URI (NL). Downtempo. See the line-up on soundcheck.
+Dos Caps de nit at 303 at 303 Audiophile Bar on Thu 19 Nov, Barcelona. 2 artists: Francesco Papaleo and U.R.I. Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,6 @@ Dos Caps de nit at 303 at 303 Audiophile Bar on Thu 19 Nov, Barcelona. 2 artists
 ## Line-up
 
 - Francesco Papaleo
-- URI (NL)
+- U.R.I
 
 *Source: [soundcheck](https://soundcheck.club/e/2570385-dos-caps-de-nit-at-303-at-303-audiophile-bar/)*

@@ -1,15 +1,16 @@
 # Koscoy
 
-Koscoy is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at CHICO, Mexico City on Sat, 14 Nov 2026.
+Koscoy is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at CHICO, Mexico City on Sat, 14 Nov 2026.
 
-Koscoy is a techno and house artist based in Mexico, with 37 gigs on soundcheck across Mexico City. Often billed alongside Deejay Energy, Fig (DYN) and MirrorLake. Next up: CHICO, Mexico City on Sat 14 Nov.
+Koscoy is a techno and house artist based in Mexico, with 38 gigs on soundcheck across Mexico City. Often billed alongside Deejay Energy, Fig (DYN) and MirrorLake. Next up: CHICO, Mexico City on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | CHICO | Mexico City |
-| Mon, 30 Nov 2026 | Relink:Data | Mexico City |
+| Fri, 20 Nov 2026 | Relink:Data | Mexico City |
+| Fri, 27 Nov 2026 | CHICO | Mexico City |
 
 ## Recently played
 

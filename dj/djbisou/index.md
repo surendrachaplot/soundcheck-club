@@ -1,13 +1,14 @@
 # DJ Bisou
 
-DJ Bisou is a Dub and Downtempo artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at AB Club (Ancienne Belgique), Brussels on Sat, 12 Dec 2026.
+DJ Bisou is a Dub and Jungle artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Nashaz, Brussels on Fri, 4 Dec 2026.
 
-DJ Bisou is a dub and downtempo artist based in Belgium, with 18 gigs on soundcheck across Brussels. Often billed alongside Toirabat, Stel-R and Marouchka. Next up: AB Club (Ancienne Belgique), Brussels on Sat 12 Dec.
+DJ Bisou is a dub and jungle artist based in Belgium, with 19 gigs on soundcheck across Brussels. Often billed alongside Toirabat, Stel-R and Marouchka. Next up: Nashaz, Brussels on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Dec 2026 | Nashaz | Brussels |
 | Sat, 12 Dec 2026 | AB Club (Ancienne Belgique) | Brussels |
 
 ## Recently played

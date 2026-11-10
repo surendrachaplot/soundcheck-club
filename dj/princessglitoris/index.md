@@ -1,8 +1,8 @@
 # Princess Glitoris
 
-Princess Glitoris is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Yamamori Tengu, Dublin on Fri, 20 Nov 2026.
+Princess Glitoris is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Yamamori Tengu, Dublin on Fri, 20 Nov 2026.
 
-Princess Glitoris is a techno and house artist based in Ireland, with 34 gigs on soundcheck across Belfast, Dublin and Edinburgh. Often billed alongside Divergence, HI-KRU and IndeniaL. Next up: Yamamori Tengu, Dublin on Fri 20 Nov.
+Princess Glitoris is a techno and house artist based in Ireland, with 35 gigs on soundcheck across Belfast, Dublin and Edinburgh. Often billed alongside Divergence, HI-KRU and IndeniaL. Next up: Yamamori Tengu, Dublin on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Princess Glitoris is a techno and house artist based in Ireland, with 34 gigs on
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Yamamori Tengu | Dublin |
 | Sat, 5 Dec 2026 | The Ulster Sports Club | Belfast |
+| Fri, 11 Dec 2026 | The Telegraph Building | Belfast |
 
 ## Recently played
 

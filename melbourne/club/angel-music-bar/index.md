@@ -1,8 +1,8 @@
 # Angel Music Bar
 
-Angel Music Bar is a music venue in Melbourne with 9 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Slow Grind Fever with Earl Grey and Riche1250" on Wed, 11 Nov 2026.
+Angel Music Bar is a music venue in Melbourne with 10 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Slow Grind Fever with Earl Grey and Riche1250" on Wed, 11 Nov 2026.
 
-Angel Music Bar is a music venue in Melbourne listed on soundcheck. 9 upcoming gigs, with line-ups including Bappy, cash, Chilled Red and Data Flow and 2 more. See dates, start times and who's playing. 12 Bourke Street Melbourne, Victoria, Australia.
+Angel Music Bar is a music venue in Melbourne listed on soundcheck. 10 upcoming gigs, with line-ups including Bappy, cash, Chilled Red and Data Flow and 2 more. See dates, start times and who's playing. 12 Bourke Street Melbourne, Victoria, Australia.
 
 ## What's on
 
@@ -16,6 +16,7 @@ Angel Music Bar is a music venue in Melbourne listed on soundcheck. 9 upcoming g
 | Sat, 21 Nov 2026 | Angel presents Firas B2B Ramsey | Nak (AU), RAMSEY (AU) |
 | Wed, 25 Nov 2026 | Slow Grind Fever with Riche1250 and Ella Thompson |  |
 | Sat, 28 Nov 2026 | Angel presents WAT Artists | Toni Yotzi |
+| Sat, 5 Dec 2026 | Angel presents Marcellus Pittman All Night Long | Marcellus Pittman |
 | Sat, 19 Dec 2026 | 1800 Play x Helix Discs | DJ Name, Data Flow, Dolly (2), Jazz (AU), Séarlait, cash (2) |
 
 ## Address

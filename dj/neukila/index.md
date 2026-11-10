@@ -1,14 +1,14 @@
 # Neukila
 
-Neukila is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Relink:Data, Mexico City on Mon, 30 Nov 2026.
+Neukila is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Relink:Data, Mexico City on Fri, 20 Nov 2026.
 
-Neukila is a bass and drum & bass artist based in Mexico, with 28 gigs on soundcheck across Mexico City. Often billed alongside Ekcent, Vinil Motion and Redeker. Next up: Relink:Data, Mexico City on Mon 30 Nov.
+Neukila is a bass and drum & bass artist based in Mexico, with 28 gigs on soundcheck across Mexico City. Often billed alongside Ekcent, Vinil Motion and Redeker. Next up: Relink:Data, Mexico City on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 30 Nov 2026 | Relink:Data | Mexico City |
+| Fri, 20 Nov 2026 | Relink:Data | Mexico City |
 
 ## Recently played
 

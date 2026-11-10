@@ -2,7 +2,7 @@
 
 NUSIZ is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at UNDERCITY, Seoul on Fri, 27 Nov 2026.
 
-NUSIZ is a techno and minimal artist, with 23 gigs on soundcheck across Seoul. Often billed alongside Cy Nico, DJ SIN and Maetel. Next up: UNDERCITY, Seoul on Fri 27 Nov.
+NUSIZ is a techno and minimal artist based in South Korea, with 23 gigs on soundcheck across Seoul. Often billed alongside Cy Nico, DJ SIN and Maetel. Next up: UNDERCITY, Seoul on Fri 27 Nov.
 
 ## Upcoming shows
 

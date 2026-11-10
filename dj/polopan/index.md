@@ -1,13 +1,14 @@
 # Polo & Pan
 
-Polo & Pan is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at BERHTA, Washington DC on Sat, 2 Jan 2027.
+Polo & Pan is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - BRAND NEW VENUE, DTLA, Los Angeles on Thu, 31 Dec 2026.
 
-Polo & Pan are a house and electronica duo based in France, with 57 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 25 more. Often billed alongside Tycho, Olympe and Brina Knauss. Next up: BERHTA, Washington DC on Sat 2 Jan.
+Polo & Pan are a house and electro duo based in France, with 58 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 25 more. Often billed alongside Tycho, Olympe and Brina Knauss. Next up: TBA - BRAND NEW VENUE, DTLA, Los Angeles on Thu 31 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 31 Dec 2026 | TBA - BRAND NEW VENUE, DTLA | Los Angeles |
 | Sat, 2 Jan 2027 | BERHTA | Washington DC |
 
 ## Recently played

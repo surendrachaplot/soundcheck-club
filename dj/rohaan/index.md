@@ -1,8 +1,8 @@
 # Rohaan
 
-Rohaan is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Don Quixote, Los Angeles on Sat, 21 Nov 2026.
+Rohaan is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Don Quixote, Los Angeles on Sat, 21 Nov 2026.
 
-Rohaan is a drum & bass and bass artist based in United Kingdom, with 33 gigs on soundcheck across Atlanta, Auckland, Brighton and Brisbane and 20 more. Often billed alongside Ivy Lab, Buunshin and ENiGMA Dubz. Next up: Don Quixote, Los Angeles on Sat 21 Nov.
+Rohaan is a drum & bass and bass artist based in United Kingdom, with 34 gigs on soundcheck across Atlanta, Auckland, Brighton and Brisbane and 20 more. Often billed alongside Ivy Lab, Buunshin and ENiGMA Dubz. Next up: Don Quixote, Los Angeles on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Rohaan is a drum & bass and bass artist based in United Kingdom, with 33 gigs on
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Don Quixote | Los Angeles |
 | Sat, 12 Dec 2026 | Mission Ballroom | Denver |
+| Sat, 9 Jan 2027 | Petit Bain | Paris |
 
 ## Recently played
 

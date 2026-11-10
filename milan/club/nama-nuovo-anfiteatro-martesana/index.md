@@ -12,7 +12,7 @@ NAMA - Nuovo Anfiteatro Martesana is a music venue in Milan listed on soundcheck
 | Sat, 14 Nov 2026 | Le Cannibale - Tama Sumo, Hiroko Hacci, Known Artist, Bipolar | Hiroko Hacci, Known Artist, Tama Sumo, bipolar |
 | Fri, 20 Nov 2026 | LOBO 14yrs x isciān | DNN, Deena Abdelwahed, Etta Simone, NVST, Nic Casalino, Ormeye, Xaxer, kwality |
 | Sat, 21 Nov 2026 | SLATE meets HØL, inviting DJ Red | Arkane, Charley Bolton, DJ Red, Emi Lee, IKIIR, Mold Boutique, Thanhsx |
-| Fri, 27 Nov 2026 | Quando & SOS with Anthony Rother | Anthony Rother, Creamy, Giale, Giamma Soren, SOMNE, Uabos, Vannelli Bros |
+| Fri, 27 Nov 2026 | QUANDO x SOTTOSUONO with Anthony Rother (Hybrid) | Anthony Rother, Creamy, Giale, Giamma Soren, SOMNE, Uabos, Vannelli Bros |
 
 ## Address
 

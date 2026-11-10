@@ -1,14 +1,15 @@
 # Inga Sama
 
-Inga Sama is a Progressive House and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Crack Bellmer, Berlin on Thu, 3 Dec 2026.
+Inga Sama is a Trance and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Crack Bellmer, Berlin on Thu, 3 Dec 2026.
 
-Inga Sama is a progressive house and trance artist based in France, with 22 gigs on soundcheck across Berlin and Strasbourg. Often billed alongside Ahni, Manta and Ina Vietha. Next up: Crack Bellmer, Berlin on Thu 3 Dec.
+Inga Sama is a trance and progressive house artist based in France, with 23 gigs on soundcheck across Berlin, Nantes and Strasbourg. Often billed alongside Ahni, Manta and Ina Vietha. Next up: Crack Bellmer, Berlin on Thu 3 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 3 Dec 2026 | Crack Bellmer | Berlin |
+| Sat, 6 Feb 2027 | Macadam | Nantes |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # Fatalis
 
-Fatalis is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at OIL Club, Shenzhen on Sat, 21 Nov 2026.
+Fatalis is a Techno and Bass artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at OIL Club, Shenzhen on Sat, 21 Nov 2026.
 
-Fatalis is a techno and bass artist based in China, with 47 gigs on soundcheck across Berlin and Shenzhen. Often billed alongside Warmchainss, Alion and DJ 86. Next up: OIL Club, Shenzhen on Sat 21 Nov.
+Fatalis is a techno and bass artist based in China, with 48 gigs on soundcheck across Berlin and Shenzhen. Often billed alongside Warmchainss, DJ 86 and zzm. Next up: OIL Club, Shenzhen on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Fatalis is a techno and bass artist based in China, with 47 gigs on soundcheck a
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | OIL Club | Shenzhen |
 | Sat, 5 Dec 2026 | OIL Club | Shenzhen |
+| Thu, 31 Dec 2026 | OIL Club | Shenzhen |
 | Sat, 23 Jan 2027 | OIL Club | Shenzhen |
 
 ## Recently played
@@ -25,6 +26,6 @@ Fatalis is a techno and bass artist based in China, with 47 gigs on soundcheck a
 
 ## Shares bills with
 
-Warmchainss, Alion, DJ 86
+Warmchainss, DJ 86, zzm (2)
 
 *Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fatalis/)*

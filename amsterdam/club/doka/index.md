@@ -9,7 +9,7 @@ Doka is a music venue in Amsterdam listed on soundcheck. 10 upcoming gigs, with 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Doka Studio x Djoon Paris with Kapela - Karlainthemix - DJ Tracksuit | DJ Tracksuit, Kapela, Karlainthemix |
-| Sat, 14 Nov 2026 | Doka Studio x nice 2 be nice with ESTRELLA - Yòp - Sarkawt Hamad - Naomi - Mammo - Dj Heartbrea | Dj Heartbreak, ESTRELLA, Mammo, Naomi (1), Sarkawt Hamad, Yòp |
+| Sat, 14 Nov 2026 | Doka Studio x nice 2 be nice with ESTRELLA - Yòp - Sarkawt Hamad - Naomi - Mammo - Dj Heartbrea | Dj Heartbreak, ESTRELLA, Mammo, Naomi (Berlin), Sarkawt Hamad, Yòp |
 | Fri, 20 Nov 2026 | Polychrome x Doka Studio with Willow (UK) - Lennie | Lennie, Willow |
 | Sat, 21 Nov 2026 | Doka Studio with Yamour - Pieter Jansen | Pieter Jansen, Yamour |
 | Fri, 27 Nov 2026 | Doka Studio x Intergalactic FM presents Disco Fetish with I-F - Marsman - Vasco | I-F, Marsman, Vasco |

@@ -13,7 +13,7 @@ Amp is a music venue in Münster listed on soundcheck. 9 upcoming gigs, with lin
 | Sat, 21 Nov 2026 | BCCO | Noise Mafia |
 | Sat, 21 Nov 2026 | Amp POWERPLAY | Delm, RED MOJO, Vinur |
 | Fri, 27 Nov 2026 | Amp pres. Trancemaster Krause (ALL NIGHT LONG) – TOUR DE TRANCE 2.0 | Trancemaster Krause |
-| Sat, 28 Nov 2026 | ENDSTSTATION SEHNSUCHT | Cali Caracho, dylliboi_91, kichererbsenstampf |
+| Sat, 28 Nov 2026 | ENDSTATION SEHNSUCHT | Cali Caracho, dylliboi_91, kichererbsenstampf |
 | Sat, 5 Dec 2026 | schick.standort | matildnz, pik (1) |
 | Sat, 19 Dec 2026 | Panorama |  |
 | Thu, 31 Dec 2026 | Amp Silvester with Amp Soundsystem |  |

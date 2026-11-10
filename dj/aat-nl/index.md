@@ -1,8 +1,8 @@
 # AAT (NL)
 
-AAT (NL) is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Complex Maastricht, Netherlands on Fri, 13 Nov 2026.
+AAT (NL) is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Complex Maastricht, Netherlands on Fri, 13 Nov 2026.
 
-AAT (NL) is a house and tech house artist based in Netherlands, with 92 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bucharest and 12 more. Often billed alongside Prunk, Michel de Hey and Benny Rodrigues. Next up: Complex Maastricht, Netherlands on Fri 13 Nov.
+AAT (NL) is a house and techno artist based in Netherlands, with 92 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bucharest and 12 more. Often billed alongside Prunk, Michel de Hey and Benny Rodrigues. Next up: Complex Maastricht, Netherlands on Fri 13 Nov.
 
 ## Upcoming shows
 

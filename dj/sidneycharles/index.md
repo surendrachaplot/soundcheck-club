@@ -1,8 +1,8 @@
 # Sidney Charles
 
-Sidney Charles is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Gewölbe, Cologne on Fri, 13 Nov 2026.
+Sidney Charles is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Gewölbe, Cologne on Fri, 13 Nov 2026.
 
-Sidney Charles is a house and tech house artist based in Germany, with 231 gigs on soundcheck across Aberdeen, Amsterdam, Atlanta and Austin and 47 more. Often billed alongside Prunk, ALISHA and Gaskin. Next up: Gewölbe, Cologne on Fri 13 Nov.
+Sidney Charles is a house and tech house artist based in Germany, with 232 gigs on soundcheck across Aberdeen, Amsterdam, Atlanta and Austin and 47 more. Often billed alongside Prunk, ALISHA and Gaskin. Next up: Gewölbe, Cologne on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Sidney Charles is a house and tech house artist based in Germany, with 231 gigs 
 | Sat, 21 Nov 2026 | TBA - Lurín live / Lima, Perú. | Peru |
 | Sat, 12 Dec 2026 | Klokgebouw | Eindhoven |
 | Fri, 18 Dec 2026 | Mint XL | Leeds |
+| Mon, 28 Dec 2026 | IDRA | Manchester |
 | Thu, 31 Dec 2026 | Chelmsford City Racecourse | London |
 
 ## Recently played

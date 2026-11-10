@@ -2,7 +2,7 @@
 
 HNGVR is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Campidarte Sardegna, Sardinia on Sun, 14 Mar 2027.
 
-HNGVR is a bass and drum & bass artist, with 7 gigs on soundcheck across Berlin, Bologna, London and Sardinia. Often billed alongside Inuza, Pressa and Last Life. Next up: Campidarte Sardegna, Sardinia on Sun 14 Mar.
+HNGVR is a bass and drum & bass artist based in Italy, with 7 gigs on soundcheck across Berlin, Bologna, London and Sardinia. Often billed alongside Inuza, Pressa and Last Life. Next up: Campidarte Sardegna, Sardinia on Sun 14 Mar.
 
 ## Upcoming shows
 

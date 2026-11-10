@@ -1,13 +1,14 @@
 # Innassi
 
-Innassi is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Skull Bar, Athens on Sat, 14 Nov 2026.
+Innassi is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Crust Basement, Athens on Fri, 13 Nov 2026.
 
-Innassi is a house and techno artist based in Greece, with 53 gigs on soundcheck across Amsterdam, Athens, Berlin and Frankfurt and 3 more. Often billed alongside ClubKid, OPHELIA and RNO. Next up: Skull Bar, Athens on Sat 14 Nov.
+Innassi is a house and techno artist based in Greece, with 54 gigs on soundcheck across Amsterdam, Athens, Berlin and Frankfurt and 3 more. Often billed alongside ClubKid, OPHELIA and RNO. Next up: Crust Basement, Athens on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | Crust Basement | Athens |
 | Sat, 14 Nov 2026 | Skull Bar | Athens |
 | Sat, 28 Nov 2026 | Oddity Club | Athens |
 

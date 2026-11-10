@@ -2,7 +2,7 @@
 
 DALJAE is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Z Maruyama, Tokyo on Fri, 13 Nov 2026.
 
-DALJAE is a techno and industrial artist based in Japan, with 109 gigs on soundcheck across Amsterdam, Milan, Osaka and Seoul and 3 more. Often billed alongside Kaito, KAITO and YUXI. Next up: Z Maruyama, Tokyo on Fri 13 Nov.
+DALJAE is a techno and industrial artist based in Japan, with 109 gigs on soundcheck across Amsterdam, Milan, Osaka and Seoul and 3 more. Often billed alongside Kaito, KAITO and YOXIKI. Next up: Z Maruyama, Tokyo on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ DALJAE is a techno and industrial artist based in Japan, with 109 gigs on soundc
 
 ## Shares bills with
 
-Kaito, KAITO (5), YUXI
+Kaito, KAITO (5), YOXIKI
 
 *Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daljae/)*

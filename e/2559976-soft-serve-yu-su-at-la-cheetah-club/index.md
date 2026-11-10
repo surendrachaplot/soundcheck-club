@@ -1,6 +1,6 @@
 # Soft Serve: Yu Su at La Cheetah Club
 
-Soft Serve: Yu Su at La Cheetah Club on Sat 21 Nov, Glasgow. 3 artists: Alliyah Enyo, slyn and Yu Su. House and Minimal Techno. See the line-up on soundcheck.
+Soft Serve: Yu Su at La Cheetah Club on Sat 21 Nov, Glasgow. 2 artists: slyn and Yu Su. House and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ Soft Serve: Yu Su at La Cheetah Club on Sat 21 Nov, Glasgow. 3 artists: Alliyah 
 
 ## Line-up
 
-- Alliyah Enyo
 - slyn
 - Yu Su
 

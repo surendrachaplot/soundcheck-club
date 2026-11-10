@@ -9,7 +9,7 @@ Rob Robsen is a techno and trance artist based in Germany, with 49 gigs on sound
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Dec 2026 | Void Club | Berlin |
-| Fri, 11 Dec 2026 | Void Club | Berlin |
+| Fri, 11 Dec 2026 | Void Hall | Berlin |
 | Sat, 26 Jun 2027 | Bernsteinsee Velten | Brandenburg |
 
 ## Recently played

@@ -8,7 +8,7 @@ ciao ciao Bar is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 10 Nov 2026 | missed call · off hours | Nikklaas, the pesto |
+| Tue, 10 Nov 2026 | missed call · off hours | Nikklaas, TT TM |
 | Fri, 13 Nov 2026 | Ciao Ciao invites Ric Piccolo & Cosmo Dance | Ric Piccolo |
 | Sun, 13 Dec 2026 | Free entry: SHOU CLIQ Kollektiv - SUNDAY SESSIONS 002 | CFF.VALE, Champagner.Jannick, Marit, maxim_jl |
 | Sat, 19 Dec 2026 | Hauswerks presents: justcallmesergio's Sin City | Loves_kills, Rina Katen, Slow PSTL, justcallmesergio, materia hache |

@@ -1,13 +1,14 @@
 # Roto
 
-Roto is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Skull Bar, Athens on Sat, 14 Nov 2026.
+Roto is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Crust Basement, Athens on Fri, 13 Nov 2026.
 
-Roto is a house and deep house artist based in Spain, with 13 gigs on soundcheck across Athens, Barcelona, Madrid and Seoul and 2 more. Often billed alongside 2Difficult, Arlo and Bloody Mary. Next up: Skull Bar, Athens on Sat 14 Nov.
+Roto is a house and techno artist based in Spain, with 14 gigs on soundcheck across Athens, Barcelona, Madrid and Seoul and 2 more. Often billed alongside 2Difficult, Innassi and Arlo. Next up: Crust Basement, Athens on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | Crust Basement | Athens |
 | Sat, 14 Nov 2026 | Skull Bar | Athens |
 
 ## Recently played
@@ -23,6 +24,6 @@ Roto is a house and deep house artist based in Spain, with 13 gigs on soundcheck
 
 ## Shares bills with
 
-2Difficult, Arlo, Bloody Mary
+2Difficult, Innassi, Arlo
 
 *Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roto-sp/)*

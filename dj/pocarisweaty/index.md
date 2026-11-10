@@ -1,14 +1,15 @@
 # Pocari Sweaty
 
-Pocari Sweaty is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Pawnshop, Taipei on Sat, 14 Nov 2026.
+Pocari Sweaty is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Pawnshop, Taipei on Sat, 14 Nov 2026.
 
-Pocari Sweaty is a house and disco artist based in United States of America, with 96 gigs on soundcheck across Hanoi, Ho Chi Minh City, Hong Kong and Melbourne and 3 more. Often billed alongside Tsui, Kerena and L-CC. Next up: Pawnshop, Taipei on Sat 14 Nov.
+Pocari Sweaty is a house and techno artist based in United States of America, with 97 gigs on soundcheck across Hanoi, Ho Chi Minh City, Hong Kong and Melbourne and 3 more. Often billed alongside Tsui, Kerena and L-CC. Next up: Pawnshop, Taipei on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Pawnshop | Taipei |
+| Sat, 12 Dec 2026 | Final | Taipei |
 
 ## Recently played
 

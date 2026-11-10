@@ -1,14 +1,14 @@
 # Bouras
 
-Bouras is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Void Club, Berlin on Fri, 11 Dec 2026.
+Bouras is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Void Hall, Berlin on Fri, 11 Dec 2026.
 
-Bouras is a techno and house artist based in Germany, with 12 gigs on soundcheck across Berlin and North. Often billed alongside Rob Robsen, Førehand and GHOST DE. Next up: Void Club, Berlin on Fri 11 Dec.
+Bouras is a techno and house artist based in Germany, with 12 gigs on soundcheck across Berlin and North. Often billed alongside Rob Robsen, Førehand and GHOST DE. Next up: Void Hall, Berlin on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Dec 2026 | Void Club | Berlin |
+| Fri, 11 Dec 2026 | Void Hall | Berlin |
 
 ## Recently played
 

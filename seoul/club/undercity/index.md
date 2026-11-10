@@ -8,7 +8,7 @@ UNDERCITY is a music venue in Seoul listed on soundcheck. 4 upcoming gigs, with 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | FAK3 TOUR: FAK3 ALLSTAR RUMBLE | AEIDA, CREAM (2), KIMNA, RUE (1), S1LVERLUV, jinnin, kirin |
+| Fri, 13 Nov 2026 | FAK3 TOUR: FAK3 ALLSTAR RUMBLE | AEIDA, CREAM (2), KIMNA, S1LVERLUV, jinnin, kirin, rue (3) |
 | Sat, 21 Nov 2026 | CORE #011 by UNDERCITY | Lupion, No/ah, Vorus, Yigitoglu |
 | Fri, 27 Nov 2026 | UNDERCITY presents Wata Igarashi | KIMNA, NUSIZ, Wata Igarashi, lucii |
 | Sat, 28 Nov 2026 | MUSHROOM HOUSE Vol.5 | Guinneissik, HYPNOSIS THERAPY, aya |

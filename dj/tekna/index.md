@@ -1,14 +1,14 @@
 # TEKNA
 
-TEKNA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Hamerstraat 18, Amsterdam on Sat, 28 Nov 2026.
+TEKNA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA, Amsterdam on Sat, 28 Nov 2026.
 
-TEKNA is a techno and house artist based in Netherlands, with 45 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 10 more. Often billed alongside Cybersex, DIORA and Technoslave_69. Next up: TBA - Hamerstraat 18, Amsterdam on Sat 28 Nov.
+TEKNA is a techno and house artist based in Netherlands, with 45 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 10 more. Often billed alongside Cybersex, DIORA and Technoslave_69. Next up: TBA, Amsterdam on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 28 Nov 2026 | TBA - Hamerstraat 18 | Amsterdam |
+| Sat, 28 Nov 2026 | TBA | Amsterdam |
 | Fri, 11 Dec 2026 | Parallel | Amsterdam |
 
 ## Recently played

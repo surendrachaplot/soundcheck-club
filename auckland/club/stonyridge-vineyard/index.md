@@ -1,6 +1,6 @@
 # Stonyridge Vineyard
 
-Stonyridge Vineyard is a music venue in Auckland with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "Sunset Sessions at Stonyridge 2026" on Sat, 24 Oct 2026.
+Stonyridge Vineyard is a music venue in Auckland with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. The next is "Sunset Sessions at Stonyridge 2026" on Sat, 14 Nov 2026.
 
 Stonyridge Vineyard is a music venue in Auckland listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -8,6 +8,6 @@ Stonyridge Vineyard is a music venue in Auckland listed on soundcheck. 1 upcomin
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Sunset Sessions at Stonyridge 2026 |  |
+| Sat, 14 Nov 2026 | Sunset Sessions at Stonyridge 2026 |  |
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/stonyridge-vineyard/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/stonyridge-vineyard/)*

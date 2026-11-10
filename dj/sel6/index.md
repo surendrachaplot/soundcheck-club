@@ -1,13 +1,14 @@
 # Sel.6
 
-Sel.6 is a Bass and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Red Sea Ethiopian Restaurant, Minneapolis/St Paul on Fri, 11 Dec 2026.
+Sel.6 is a Bass and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at ZeyZey, Miami on Sat, 14 Nov 2026.
 
-Sel.6 is a bass and electro artist based in United States of America, with 57 gigs on soundcheck across Miami, Minneapolis/St Paul, New Orleans and New York City and 1 more. Often billed alongside Alexx in Chainss, DJ Tamsom and Pressure Point (US). Next up: The Red Sea Ethiopian Restaurant, Minneapolis/St Paul on Fri 11 Dec.
+Sel.6 is a bass and electro artist based in United States of America, with 58 gigs on soundcheck across Miami, Minneapolis/St Paul, New Orleans and New York City and 1 more. Often billed alongside Alexx in Chainss, DJ Tamsom and Pressure Point (US). Next up: ZeyZey, Miami on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | ZeyZey | Miami |
 | Fri, 11 Dec 2026 | The Red Sea Ethiopian Restaurant | Minneapolis/St Paul |
 
 ## Recently played

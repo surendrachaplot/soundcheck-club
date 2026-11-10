@@ -1,8 +1,8 @@
 # Toppings
 
-Toppings is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Casual, Hong Kong on Fri, 13 Nov 2026.
+Toppings is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Casual, Hong Kong on Fri, 13 Nov 2026.
 
-Toppings is a house and disco artist based in Philippines, with 22 gigs on soundcheck across Bangkok, Hong Kong, Kuala Lumpur and Singapore and 1 more. Often billed alongside Bongomann, MUTO and Daryl Knows. Next up: Casual, Hong Kong on Fri 13 Nov.
+Toppings is a house and disco artist based in Philippines, with 23 gigs on soundcheck across Bangkok, Hong Kong, Kuala Lumpur and Singapore and 1 more. Often billed alongside Bongomann, MUTO and Daryl Knows. Next up: Casual, Hong Kong on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Toppings is a house and disco artist based in Philippines, with 22 gigs on sound
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Casual | Hong Kong |
 | Sat, 14 Nov 2026 | Tai Tong Organic Ecopark | Hong Kong |
+| Sat, 21 Nov 2026 | Earworm | Singapore |
 
 ## Recently played
 

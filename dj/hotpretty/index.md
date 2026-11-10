@@ -1,14 +1,15 @@
 # HOTPRETTY
 
-HOTPRETTY is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Bambi's, Toronto on Fri, 13 Nov 2026.
+HOTPRETTY is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Bambi's, Toronto on Fri, 13 Nov 2026.
 
-HOTPRETTY is a techno and house artist based in United States of America, with 54 gigs on soundcheck across Chicago, London, Miami and New York City and 1 more. Often billed alongside Kirk (US), BLACKCLUB and Hiroko Yamamura. Next up: Bambi's, Toronto on Fri 13 Nov.
+HOTPRETTY is a techno and house artist based in United States of America, with 55 gigs on soundcheck across Chicago, London, Miami and New York City and 1 more. Often billed alongside Kirk (US), BLACKCLUB and Hiroko Yamamura. Next up: Bambi's, Toronto on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Bambi's | Toronto |
+| Tue, 29 Dec 2026 | Radius | Chicago |
 
 ## Recently played
 

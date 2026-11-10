@@ -1,8 +1,8 @@
 # E1
 
-E1 is a music venue in London with 27 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Teletech x Music Reactions: Vendex, AIDEN B2B TRIPTYKH, Kander + MORE" on Fri, 13 Nov 2026.
+E1 is a music venue in London with 28 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Teletech x Music Reactions: Vendex, AIDEN B2B TRIPTYKH, Kander + MORE" on Fri, 13 Nov 2026.
 
-E1 is a music venue in London listed on soundcheck. 27 upcoming gigs, with line-ups including ABEL (UK), ACOR, Aiden (DE) and Airod and 2 more. See dates, start times and who's playing. 110 Pennington Street, Wapping, London E1W 2BB.
+E1 is a music venue in London listed on soundcheck. 28 upcoming gigs, with line-ups including ABEL (UK), ACOR, Aiden (DE) and Airod and 2 more. See dates, start times and who's playing. 110 Pennington Street, Wapping, London E1W 2BB.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # DUAL 28.11 at Dual
 
-DUAL 28.11 at Dual on Sat 28 Nov, Bangkok. 6 artists: AN!KA, Kunanon, Nicola Cruz and Ouissam and 2 more. Techno and House. See the line-up on soundcheck.
+DUAL 28.11 at Dual on Sat 28 Nov, Bangkok. 7 artists: AN!KA, Kunanon, Kuniyuki and Nicola Cruz and 3 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ DUAL 28.11 at Dual on Sat 28 Nov, Bangkok. 6 artists: AN!KA, Kunanon, Nicola Cru
 
 - AN!KA
 - Kunanon
+- Kuniyuki
 - Nicola Cruz
 - Ouissam
 - Payu

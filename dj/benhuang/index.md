@@ -2,7 +2,7 @@
 
 Ben Huang is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at OIL Club, Shenzhen on Sat, 5 Dec 2026.
 
-Ben Huang is a techno and house artist, with 14 gigs on soundcheck across Beijing, Hong Kong, Shanghai and Shenzhen. Often billed alongside ZHUO, Daniel Power and Fatalis. Next up: OIL Club, Shenzhen on Sat 5 Dec.
+Ben Huang is a techno and house artist based in China, with 14 gigs on soundcheck across Beijing, Hong Kong, Shanghai and Shenzhen. Often billed alongside ZHUO, Daniel Power and Fatalis. Next up: OIL Club, Shenzhen on Sat 5 Dec.
 
 ## Upcoming shows
 

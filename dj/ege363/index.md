@@ -1,13 +1,14 @@
 # EGE363
 
-EGE363 is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Lokschuppen Berlin, Berlin on Sun, 29 Nov 2026.
+EGE363 is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Kindergarten Club, Bologna on Sat, 21 Nov 2026.
 
-EGE363 is a trance and techno artist based in Turkey, with 56 gigs on soundcheck across Ankara, Berlin, Cologne and Ghent and 3 more. Often billed alongside Orbi, Neoma and REEZN. Next up: Lokschuppen Berlin, Berlin on Sun 29 Nov.
+EGE363 is a techno and trance artist based in Turkey, with 57 gigs on soundcheck across Ankara, Berlin, Bologna and Cologne and 4 more. Often billed alongside Orbi, Neoma and REEZN. Next up: Kindergarten Club, Bologna on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | Kindergarten Club | Bologna |
 | Sun, 29 Nov 2026 | Lokschuppen Berlin | Berlin |
 | Sat, 26 Dec 2026 | Lokschuppen Berlin | Berlin |
 | Sat, 6 Feb 2027 | Kalt Izmir | Izmir |

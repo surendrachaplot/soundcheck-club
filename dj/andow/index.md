@@ -1,14 +1,15 @@
 # ANDOW
 
-ANDOW is a Club and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Modeci, Seoul on Fri, 20 Nov 2026.
+ANDOW is a Club and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Modeci, Seoul on Fri, 20 Nov 2026.
 
-ANDOW is a club and hip-hop artist based in South Korea, with 172 gigs on soundcheck across Seoul. Often billed alongside DJ Co.kr, DOBERMAN and DJ Soulscape. Next up: Modeci, Seoul on Fri 20 Nov.
+ANDOW is a club and hip-hop artist based in South Korea, with 173 gigs on soundcheck across Seoul. Often billed alongside DJ Co.kr, DOBERMAN and DJ Soulscape. Next up: Modeci, Seoul on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Modeci | Seoul |
+| Fri, 20 Nov 2026 | Bolero | Seoul |
 
 ## Recently played
 

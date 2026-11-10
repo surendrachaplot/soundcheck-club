@@ -1,8 +1,8 @@
 # LP Giobbi
 
-LP Giobbi is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Club Hípico de Santiago, Santiago on Sat, 14 Nov 2026.
+LP Giobbi is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Club Hípico de Santiago, Santiago on Sat, 14 Nov 2026.
 
-LP Giobbi is a house and techno artist based in United States of America, with 179 gigs on soundcheck across Amsterdam, Athens, Auckland and Austin and 54 more. Often billed alongside DJ Tennis, AMÉMÉ and Purple Disco Machine. Next up: Club Hípico de Santiago, Santiago on Sat 14 Nov.
+LP Giobbi is a house and techno artist based in United States of America, with 180 gigs on soundcheck across Amsterdam, Athens, Auckland and Austin and 54 more. Often billed alongside DJ Tennis, AMÉMÉ and Purple Disco Machine. Next up: Club Hípico de Santiago, Santiago on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ LP Giobbi is a house and techno artist based in United States of America, with 1
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Club Hípico de Santiago | Santiago |
 | Sun, 6 Dec 2026 | Factory Town | Miami |
+| Fri, 1 Jan 2027 | Radius | Chicago |
 | Wed, 31 Mar 2027 | Treefort Music Hall | Idaho |
 
 ## Recently played

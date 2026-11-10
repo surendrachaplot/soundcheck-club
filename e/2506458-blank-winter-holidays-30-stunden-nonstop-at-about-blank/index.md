@@ -1,6 +1,6 @@
 # Blank Winter Holidays - 30 Stunden nonstop at ://about blank
 
-Blank Winter Holidays - 30 Stunden nonstop at ://about blank on Sat 23 Jan, Berlin. 5 artists: Anna Haleta, Irakli, Portable and SKALA and 1 more. Techno and House. See the line-up on soundcheck.
+Blank Winter Holidays - 30 Stunden nonstop at ://about blank on Sat 23 Jan, Berlin. 21 artists: a:tok, Alice in Flames, Anna Haleta and Barbara Hofmann and 17 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,10 +10,26 @@ Blank Winter Holidays - 30 Stunden nonstop at ://about blank on Sat 23 Jan, Berl
 
 ## Line-up
 
+- a:tok
+- Alice in Flames
 - Anna Haleta
+- Barbara Hofmann
+- DJ Eivissa
+- evah
+- fr. JPLA
+- HKS97
 - Irakli
+- Jessamine
+- karete bu
+- Lauer
+- Lena Brumby
+- Marie Lung
 - Portable
 - SKALA
+- Soraya
 - Stephanie Sykes
+- Stype
+- Sven Weisemann
+- Wasn & Wunderwaffel
 
 *Source: [soundcheck](https://soundcheck.club/e/2506458-blank-winter-holidays-30-stunden-nonstop-at-about-blank/)*

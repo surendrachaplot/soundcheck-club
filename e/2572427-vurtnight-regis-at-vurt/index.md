@@ -1,6 +1,6 @@
 # vurtnight Regis at vurt.
 
-vurtnight Regis at vurt. on Sat 21 Nov, Seoul. 1 artist: Regis. Techno. See the line-up on soundcheck.
+vurtnight Regis at vurt. on Sat 21 Nov, Seoul. 3 artists: Regis, SJK and SUNA. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,7 @@ vurtnight Regis at vurt. on Sat 21 Nov, Seoul. 1 artist: Regis. Techno. See the 
 ## Line-up
 
 - Regis
+- SJK (1)
+- SUNA
 
 *Source: [soundcheck](https://soundcheck.club/e/2572427-vurtnight-regis-at-vurt/)*

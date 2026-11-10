@@ -17,7 +17,7 @@ VENT is a music venue in Tokyo listed on soundcheck. 15 upcoming gigs, with line
 | Fri, 4 Dec 2026 | Cleric / Clergy Records × RHYTOS | Cleric, DANA NADA, Habgud, Herbalistek, Kent Oria |
 | Sat, 5 Dec 2026 | CARRIER , DAGRASS , DJ Python , LIL' MOFO / C.E presents | Carrier, DJ Python, Lil Mofo |
 | Fri, 11 Dec 2026 | Kangding Ray / MIND OFF | Dani Savant, Kangding Ray |
-| Sat, 12 Dec 2026 | Batu , Haruka , AKIRAM EN / VENT 10th Anniversary | AKIRAM EN, Batu, Haruka |
+| Sat, 12 Dec 2026 | Batu , Haruka , AKIRAM EN / VENT 10th Anniversary | AKIRAM EN, Batu, Bundo, Crazy Neo, Haruka, NITA, Nova |
 
 ## Address
 

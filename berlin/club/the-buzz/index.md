@@ -8,6 +8,6 @@ The Buzz is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with l
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Sameheads 20th Birthday | Alessandro Adriani, Amelia Holt, An-i, André Pahl, Caillou, Capablanca, Chris Imler, Cosmo Vitelli, DJ Fett Burger, Dane Close, Diamin, Fabrizio Mammarella, Franz Scala, Hara Katsiki, Intergalactic Gary, Karolina Bnv, Kinzua, Leona Jacewska, Luigi Di Venere, Melanie Havens, Menqui, Niklas Wandt, Omega III, Paty Vapor, Rena Volvo, Richii, Saeko Killy, Sound Metaphors Djs, Telephones, Yoshi (DE), Zozo, Òlta Karawane |
+| Fri, 20 Nov 2026 | Sameheads 20th Birthday | Alessandro Adriani, Amelia Holt, An-i, André Pahl, Caillou (DE), Capablanca, Chris Imler, Cosmo Vitelli, DJ Fett Burger, Dane Close, Diamin, Fabrizio Mammarella, Franz Scala, Hara Katsiki, Intergalactic Gary, Karolina Bnv, Kinzua, Leona Jacewska, Luigi Di Venere, Melanie Havens, Menqui, Niklas Wandt, Omega III, Paty Vapor, Rena Volvo, Richii, Saeko Killy, Sound Metaphors Djs, Telephones, Yoshi (DE), Zozo, Òlta Karawane |
 
 *Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/the-buzz/)*

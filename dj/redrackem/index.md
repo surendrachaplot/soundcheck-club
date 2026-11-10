@@ -1,14 +1,15 @@
 # Red Rack'em
 
-Red Rack'em is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Dahlia Stereo, Manchester on Sat, 21 Nov 2026.
+Red Rack'em is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Dahlia Stereo, Manchester on Sat, 21 Nov 2026.
 
-Red Rack'em is a house and disco artist based in United Kingdom, with 26 gigs on soundcheck across Berlin, Brisbane, Bristol and Byron Bay and 6 more. Often billed alongside Abstract Division, Aiden Francis and Alan Dixon. Next up: Dahlia Stereo, Manchester on Sat 21 Nov.
+Red Rack'em is a house and disco artist based in United Kingdom, with 27 gigs on soundcheck across Berlin, Brisbane, Bristol and Byron Bay and 6 more. Often billed alongside Abstract Division, Aiden Francis and Alan Dixon. Next up: Dahlia Stereo, Manchester on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Dahlia Stereo | Manchester |
+| Fri, 11 Dec 2026 | The System | Sheffield |
 | Thu, 31 Dec 2026 | Wiper and True, Old Market Taproom | Bristol |
 
 ## Recently played

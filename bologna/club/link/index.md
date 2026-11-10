@@ -2,7 +2,7 @@
 
 Link is a music venue in Bologna with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Rave 'Til You Drop" on Sat, 14 Nov 2026.
 
-Link is a music venue in Bologna listed on soundcheck. 5 upcoming gigs, with line-ups including Chlär, Claudia Sapienza, Goon and Ignez and 1 more. See dates, start times and who's playing. Via Francesco Fantoni 21, 40127 Bologna (BO), Italy.
+Link is a music venue in Bologna listed on soundcheck. 5 upcoming gigs, with line-ups including Chlär, Claudia Sapienza, DJ Rou and Ellen Allien and 2 more. See dates, start times and who's playing. Via Francesco Fantoni 21, 40127 Bologna (BO), Italy.
 
 ## What's on
 
@@ -11,7 +11,7 @@ Link is a music venue in Bologna listed on soundcheck. 5 upcoming gigs, with lin
 | Sat, 14 Nov 2026 | Rave 'Til You Drop | Claudia Sapienza |
 | Sat, 21 Nov 2026 | Len Faki  | Len Faki |
 | Mon, 7 Dec 2026 | Chlär & Ignez | Chlär, Goon, Ignez |
-| Thu, 31 Dec 2026 | Tba |  |
+| Thu, 31 Dec 2026 | Ellen Allien | DJ Rou, Ellen Allien, Flavio Deff, Hamsa |
 | Sat, 30 Jan 2027 | Tba |  |
 
 ## Address

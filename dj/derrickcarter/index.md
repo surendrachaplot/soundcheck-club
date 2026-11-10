@@ -1,8 +1,8 @@
 # Derrick Carter
 
-Derrick Carter is a House and Disco artist with 10 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat, 14 Nov 2026.
+Derrick Carter is a House and Disco artist with 11 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat, 14 Nov 2026.
 
-Derrick Carter is a house and disco artist based in United States of America, with 339 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 32 more. Often billed alongside Michael Serafini, Shaun J. Wright and Garrett David. Next up: TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat 14 Nov.
+Derrick Carter is a house and disco artist based in United States of America, with 340 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 32 more. Often billed alongside Michael Serafini, Shaun J. Wright and Garrett David. Next up: TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -18,6 +18,7 @@ Derrick Carter is a house and disco artist based in United States of America, wi
 | Sat, 5 Dec 2026 | KOKO | London |
 | Sat, 5 Dec 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sun, 20 Dec 2026 | smartbar | Chicago |
+| Mon, 28 Dec 2026 | Radius | Chicago |
 
 ## Recently played
 

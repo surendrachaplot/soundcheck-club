@@ -1,13 +1,14 @@
 # Map.ache
 
-Map.ache is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Soundscapes Zanzi, Tanzania on Thu, 21 Jan 2027.
+Map.ache is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Club Space Miami, Miami on Sun, 22 Nov 2026.
 
-Map.ache is a house and techno artist based in Germany, with 103 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 26 more. Often billed alongside Konstantin, Leafar Legov and Edward. Next up: Soundscapes Zanzi, Tanzania on Thu 21 Jan.
+Map.ache is a house and techno artist based in Germany, with 104 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 26 more. Often billed alongside Konstantin, Leafar Legov and Edward. Next up: Club Space Miami, Miami on Sun 22 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 22 Nov 2026 | Club Space Miami | Miami |
 | Thu, 21 Jan 2027 | Soundscapes Zanzi | Tanzania |
 
 ## Recently played

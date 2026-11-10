@@ -2,7 +2,7 @@
 
 No Home is a Experimental and Noise artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Piehouse Coop, London on Wed, 11 Nov 2026.
 
-No Home is an experimental and noise artist, with 8 gigs on soundcheck across Berlin, Glasgow, London and Vienna. Often billed alongside 96 Back, Alvarezz and Andrey Kiritchenko. Next up: Piehouse Coop, London on Wed 11 Nov.
+No Home is an experimental and noise artist based in United Kingdom, with 8 gigs on soundcheck across Berlin, Glasgow, London and Vienna. Often billed alongside 96 Back, Alvarezz and Andrey Kiritchenko. Next up: Piehouse Coop, London on Wed 11 Nov.
 
 ## Upcoming shows
 

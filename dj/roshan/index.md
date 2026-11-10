@@ -1,13 +1,14 @@
 # Roshan
 
-Roshan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - STARR @ TRX, Kuala Lumpur on Fri, 27 Nov 2026.
+Roshan is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Kyo KL, Kuala Lumpur on Thu, 19 Nov 2026.
 
-Roshan is a house and techno artist based in Malaysia, with 76 gigs on soundcheck across Hanoi, Kuala Lumpur, Leeds and Melbourne and 3 more. Often billed alongside JonnyVicious, LZZY and Axel Groove. Next up: TBA - STARR @ TRX, Kuala Lumpur on Fri 27 Nov.
+Roshan is a house and techno artist based in Malaysia, with 77 gigs on soundcheck across Hanoi, Kuala Lumpur, Leeds and Melbourne and 3 more. Often billed alongside JonnyVicious, LZZY and Axel Groove. Next up: Kyo KL, Kuala Lumpur on Thu 19 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 19 Nov 2026 | Kyo KL | Kuala Lumpur |
 | Fri, 27 Nov 2026 | TBA - STARR @ TRX | Kuala Lumpur |
 
 ## Recently played

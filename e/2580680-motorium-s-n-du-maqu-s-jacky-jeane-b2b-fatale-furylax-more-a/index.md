@@ -1,6 +1,6 @@
 # MOTORIUM - Sòn Du Maquís, Jacky Jeane b2b Fatale Furylax & more at Les Relais Solidaires
 
-MOTORIUM - Sòn Du Maquís, Jacky Jeane b2b Fatale Furylax & more at Les Relais Solidaires on Sat 28 Nov, Paris. 3 artists: Fatale Furylax, Jacky Jeane and Maquis Son Sistèm. Bass and Dub. See the line-up on soundcheck.
+MOTORIUM - Sòn Du Maquís, Jacky Jeane b2b Fatale Furylax & more at Les Relais Solidaires on Sat 28 Nov, Paris. 4 artists: Fatale Furylax, Goussow, Jacky Jeane and Maquis Son Sistèm. Bass and Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ MOTORIUM - Sòn Du Maquís, Jacky Jeane b2b Fatale Furylax & more at Les Relais 
 ## Line-up
 
 - Fatale Furylax
+- Goussow
 - Jacky Jeane
 - Maquis Son Sistèm
 

@@ -10,7 +10,7 @@ Spook Club is a music venue in Valencia listed on soundcheck. 10 upcoming gigs, 
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Vendex + invitados | Ariezzz, ENGALANAN, Lucía Gea, M8NSE, Vendex |
 | Sat, 21 Nov 2026 | Spook conection + Special K |  |
-| Sat, 21 Nov 2026 | Special-K with Shoal, Marie Pravda (guest list in bio) | Marie Pravda, Moy Santana, Pizzicatto, Shoal |
+| Sat, 21 Nov 2026 | Special-K with Shoal, Marie Pravda (tickets 10€ in bio) | Marie Pravda, Moy Santana, Pizzicatto, Shoal |
 | Sat, 28 Nov 2026 | INVADERS 'TRIP TO JAPAN' |  |
 | Mon, 7 Dec 2026 | 42 anniversary: Onlynumbers + invitados | Ariezzz, Finalversion3, Lucía Gea, Onlynumbers |
 | Sat, 12 Dec 2026 | Richie Hawtin + invitados & Cartulis with Unai Trotti + Vass | Fase Bipolar, Richie Hawtin, SCHRZØ, Unai Trotti, Vass |

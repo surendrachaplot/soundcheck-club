@@ -1,6 +1,6 @@
 # SHINE -- Cloudy at The Telegraph Building
 
-SHINE -- Cloudy at The Telegraph Building on Fri 11 Dec, Belfast. 1 artist: Cloudy. See the line-up on soundcheck.
+SHINE -- Cloudy at The Telegraph Building on Fri 11 Dec, Belfast. 3 artists: Cloudy, Princess Glitoris and t e s t p r e s s. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,7 @@ SHINE -- Cloudy at The Telegraph Building on Fri 11 Dec, Belfast. 1 artist: Clou
 ## Line-up
 
 - Cloudy
+- Princess Glitoris
+- t e s t p r e s s
 
 *Source: [soundcheck](https://soundcheck.club/e/2554252-shine-cloudy-at-the-telegraph-building/)*

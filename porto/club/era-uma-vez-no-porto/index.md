@@ -1,8 +1,8 @@
 # Era uma vez no Porto
 
-Era uma vez no Porto is a music venue in Porto with 7 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Carlos Regadas Invites Offu" on Wed, 11 Nov 2026.
+Era uma vez no Porto is a music venue in Porto with 8 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Carlos Regadas Invites Offu" on Wed, 11 Nov 2026.
 
-Era uma vez no Porto is a music venue in Porto listed on soundcheck. 7 upcoming gigs, with line-ups including Bassment PT, Bikas, Carlos Regadas and Nuno Clam and 2 more. See dates, start times and who's playing. Rua da Madeira, nº 126, 4000-330 Porto, Portugal.
+Era uma vez no Porto is a music venue in Porto listed on soundcheck. 8 upcoming gigs, with line-ups including Bassment PT, Bikas, Carlos Regadas and Nuno Clam and 2 more. See dates, start times and who's playing. Rua da Madeira, nº 126, 4000-330 Porto, Portugal.
 
 ## What's on
 
@@ -10,6 +10,7 @@ Era uma vez no Porto is a music venue in Porto listed on soundcheck. 7 upcoming 
 | --- | --- | --- |
 | Wed, 11 Nov 2026 | Carlos Regadas Invites Offu | Carlos Regadas |
 | Fri, 13 Nov 2026 | Bassment INVITES | Bassment PT |
+| Sat, 14 Nov 2026 | R4W Clubbing / Guta & Vince Paris |  |
 | Sun, 15 Nov 2026 | T-CROSS B2B K-CROIX / PROJECT-2TK |  |
 | Wed, 18 Nov 2026 | Pedro Tabuada Invites Bikas | Bikas, Pedro Tabuada |
 | Wed, 25 Nov 2026 | Rúben Costa Invites Megre | Rúben Costa |

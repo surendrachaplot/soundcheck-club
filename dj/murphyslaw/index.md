@@ -1,8 +1,8 @@
 # Murphy's Law
 
-Murphy's Law is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Port Beach Brewery, Perth on Sat, 5 Dec 2026.
+Murphy's Law is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Port Beach Brewery, Perth on Sat, 5 Dec 2026.
 
-Murphy's Law is a house and tech house artist based in United Kingdom, with 79 gigs on soundcheck across Amsterdam, Auckland, Austin and Brighton and 26 more. Often billed alongside Darius Syrossian, David Penn and Nick Curly. Next up: Port Beach Brewery, Perth on Sat 5 Dec.
+Murphy's Law is a house and tech house artist based in United Kingdom, with 80 gigs on soundcheck across Amsterdam, Auckland, Austin and Brighton and 26 more. Often billed alongside Darius Syrossian, David Penn and Nick Curly. Next up: Port Beach Brewery, Perth on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Murphy's Law is a house and tech house artist based in United Kingdom, with 79 g
 | Sun, 6 Dec 2026 | Felons Barrel Hall | Brisbane |
 | Fri, 11 Dec 2026 | Northcote Theatre | Melbourne |
 | Sat, 12 Dec 2026 | The Ivy | Sydney |
+| Sat, 2 Jan 2027 | Radius | Chicago |
 
 ## Recently played
 

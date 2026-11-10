@@ -1,8 +1,8 @@
 # Axel Groove
 
-Axel Groove is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - 21 Roof Top Bar, Kuala Lumpur on Sat, 14 Nov 2026.
+Axel Groove is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - 21 Roof Top Bar, Kuala Lumpur on Sat, 14 Nov 2026.
 
-Axel Groove is a house and techno artist, with 59 gigs on soundcheck across Kuala Lumpur. Often billed alongside Alam, Roshan and Victor G (MY). Next up: TBA - 21 Roof Top Bar, Kuala Lumpur on Sat 14 Nov.
+Axel Groove is a house and techno artist, with 60 gigs on soundcheck across Kuala Lumpur. Often billed alongside Alam, Victor G (MY) and Roshan. Next up: TBA - 21 Roof Top Bar, Kuala Lumpur on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Axel Groove is a house and techno artist, with 59 gigs on soundcheck across Kual
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | TBA - 21 Roof Top Bar | Kuala Lumpur |
 | Sat, 14 Nov 2026 | The Iron Fairies Kuala Lumpur | Kuala Lumpur |
+| Thu, 26 Nov 2026 | Kyo KL | Kuala Lumpur |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Axel Groove is a house and techno artist, with 59 gigs on soundcheck across Kual
 
 ## Shares bills with
 
-Alam, Roshan, Victor G (MY)
+Alam, Victor G (MY), Roshan
 
 *Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/axelgroove/)*

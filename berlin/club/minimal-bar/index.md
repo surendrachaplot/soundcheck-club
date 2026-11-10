@@ -2,7 +2,7 @@
 
 Minimal Bar is a music venue in Berlin with 82 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "U10247: Marshmallow Beach (feat. maniac&me and Roy Mansur) !Free.Entry" on Tue, 10 Nov 2026.
 
-Minimal Bar is a music venue in Berlin listed on soundcheck. 82 upcoming gigs, with line-ups including Beshy, CEEE, CL-ljud and Danilo Schneider and 2 more. See dates, start times and who's playing. Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany.
+Minimal Bar is a music venue in Berlin listed on soundcheck. 82 upcoming gigs, with line-ups including Beshy, CEEE, CL-ljud and Clarence and 2 more. See dates, start times and who's playing. Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany.
 
 ## What's on
 

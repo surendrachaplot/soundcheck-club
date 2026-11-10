@@ -1,14 +1,15 @@
 # Electric Rescue
 
-Electric Rescue is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Glazart, Paris on Sat, 14 Nov 2026.
+Electric Rescue is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Glazart, Paris on Sat, 14 Nov 2026.
 
-Electric Rescue is a techno and house artist based in France, with 62 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Geneva and 9 more. Often billed alongside Alys LF, KUSS and Moteka. Next up: Glazart, Paris on Sat 14 Nov.
+Electric Rescue is a techno and house artist based in France, with 63 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Geneva and 9 more. Often billed alongside Alys LF, KUSS and Moteka. Next up: Glazart, Paris on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Glazart | Paris |
+| Fri, 11 Dec 2026 | Rex Club | Paris |
 
 ## Recently played
 

@@ -2,7 +2,7 @@
 
 Carl Hastings is a Electro and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at A L P H A B E T, Brighton on Sat, 5 Dec 2026.
 
-Carl Hastings is an electro and acid artist, with 9 gigs on soundcheck across Brighton, Leeds and London. Often billed alongside High Charter, Paddy Cotter and talk[2]frank. Next up: A L P H A B E T, Brighton on Sat 5 Dec.
+Carl Hastings is an electro and acid artist based in United Kingdom, with 9 gigs on soundcheck across Brighton, Leeds and London. Often billed alongside High Charter, Paddy Cotter and talk[2]frank. Next up: A L P H A B E T, Brighton on Sat 5 Dec.
 
 ## Upcoming shows
 

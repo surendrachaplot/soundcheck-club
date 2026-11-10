@@ -1,6 +1,6 @@
 # missed call · off hours at ciao ciao Bar
 
-missed call · off hours at ciao ciao Bar on Tue 10 Nov, Berlin. 2 artists: Nikklaas and the pesto. House and Tech House. See the line-up on soundcheck.
+missed call · off hours at ciao ciao Bar on Tue 10 Nov, Berlin. 2 artists: Nikklaas and TT TM. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,6 @@ missed call · off hours at ciao ciao Bar on Tue 10 Nov, Berlin. 2 artists: Nikk
 ## Line-up
 
 - Nikklaas
-- the pesto
+- TT TM
 
 *Source: [soundcheck](https://soundcheck.club/e/2551338-missed-call-off-hours-at-ciao-ciao-bar/)*

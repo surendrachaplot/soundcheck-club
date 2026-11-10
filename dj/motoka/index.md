@@ -1,8 +1,8 @@
 # MOTOKA
 
-MOTOKA is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at DeTour, Tokyo on Tue, 10 Nov 2026.
+MOTOKA is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at DeTour, Tokyo on Tue, 10 Nov 2026.
 
-MOTOKA is a techno and house artist based in Japan, with 141 gigs on soundcheck across Rio de Janeiro and Tokyo. Often billed alongside SIGNAL (JP), Junya and BERLINER KINDL. Next up: DeTour, Tokyo on Tue 10 Nov.
+MOTOKA is a techno and house artist based in Japan, with 142 gigs on soundcheck across Rio de Janeiro and Tokyo. Often billed alongside SIGNAL (JP), Junya and BERLINER KINDL. Next up: DeTour, Tokyo on Tue 10 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ MOTOKA is a techno and house artist based in Japan, with 141 gigs on soundcheck 
 | Tue, 10 Nov 2026 | DeTour | Tokyo |
 | Fri, 13 Nov 2026 | R Lounge | Tokyo |
 | Thu, 19 Nov 2026 | Cafe & Bar Extrawelt | Tokyo |
+| Sat, 21 Nov 2026 | UTOPIA / DYSTOPIA | Tokyo |
 | Wed, 25 Nov 2026 | White Space Lab | Tokyo |
 | Thu, 26 Nov 2026 | R Lounge | Tokyo |
 | Wed, 9 Dec 2026 | Azumaya | Tokyo |

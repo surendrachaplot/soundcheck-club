@@ -1,8 +1,8 @@
 # Tommy Phillips
 
-Tommy Phillips is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Thuishaven, Amsterdam on Sat, 14 Nov 2026.
+Tommy Phillips is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Thuishaven, Amsterdam on Sat, 14 Nov 2026.
 
-Tommy Phillips is a house and tech house artist based in United Kingdom, with 85 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Austin and 33 more. Often billed alongside Joss Dean, Max Dean and Luke Dean_. Next up: Thuishaven, Amsterdam on Sat 14 Nov.
+Tommy Phillips is a house and tech house artist based in United Kingdom, with 86 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Austin and 33 more. Often billed alongside Joss Dean, Max Dean and Luke Dean_. Next up: Thuishaven, Amsterdam on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Tommy Phillips is a house and tech house artist based in United Kingdom, with 85
 | Sun, 13 Dec 2026 | Superior Ingredients | New York City |
 | Sat, 19 Dec 2026 | Spin | San Diego |
 | Sat, 26 Dec 2026 | XOYO | London |
+| Mon, 28 Dec 2026 | IDRA | Manchester |
 | Thu, 31 Dec 2026 | Petco Park | San-diego |
 | Sat, 2 Jan 2027 | The Concourse Project | Austin |
 

@@ -1,13 +1,18 @@
 # Sam Laxton
 
-Sam Laxton is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Byblos Beach Pattaya, Bangkok on Sun, 31 Jan 2027.
+Sam Laxton is a Techno and Hardcore artist with 6 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Amnesia, Bangkok on Wed, 9 Dec 2026.
 
-Sam Laxton is a techno and hardcore artist based in United Kingdom, with 162 gigs on soundcheck across Bangkok, Hong Kong, Shenzhen and Thailand and 1 more. Often billed alongside LonSkii, Puffer P and André Pillar. Next up: TBA - Byblos Beach Pattaya, Bangkok on Sun 31 Jan.
+Sam Laxton is a techno and hardcore artist based in United Kingdom, with 167 gigs on soundcheck across Bangkok, Hong Kong, Shenzhen and Thailand and 1 more. Often billed alongside LonSkii, Puffer P and André Pillar. Next up: Amnesia, Bangkok on Wed 9 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 9 Dec 2026 | Amnesia | Bangkok |
+| Fri, 11 Dec 2026 | Amnesia | Bangkok |
+| Wed, 16 Dec 2026 | Amnesia | Bangkok |
+| Fri, 18 Dec 2026 | Amnesia | Bangkok |
+| Fri, 25 Dec 2026 | Amnesia | Bangkok |
 | Sun, 31 Jan 2027 | TBA - Byblos Beach Pattaya | Bangkok |
 
 ## Recently played

@@ -1,6 +1,6 @@
 # Unmute
 
-Unmute is a music venue in Hanoi with 12 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Unmute with Mari.te (Resolute, Tresydos/ESP)" on Fri, 13 Nov 2026.
+Unmute is a music venue in Hanoi with 12 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Unmute with Mari.te (Resolute, Tresydos/VE)" on Fri, 13 Nov 2026.
 
 Unmute is a music venue in Hanoi listed on soundcheck. 12 upcoming gigs, with line-ups including AiLien, Animistic Beliefs, Artmony and Bakey and 2 more. See dates, start times and who's playing. Floors 4F and 5&6F, 169 Phuc Tan, Hoan Kiem, Hanoi.
 
@@ -8,7 +8,7 @@ Unmute is a music venue in Hanoi listed on soundcheck. 12 upcoming gigs, with li
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Unmute with Mari.te (Resolute, Tresydos/ESP) | K-Sang, Mari.te, Zwi |
+| Fri, 13 Nov 2026 | Unmute with Mari.te (Resolute, Tresydos/VE) | K-Sang, Mari.te, Zwi |
 | Sat, 14 Nov 2026 | Unmute W/ Animistic Beliefs,  kimmah, PH00000NG, HDMi | Animistic Beliefs, HDMI?, PH00000NG, kimmah |
 | Fri, 20 Nov 2026 | Unmute W/ Piezo, Yang B2B Kway, Tanohi | Kway, Piezo, Tanohi, Yang (VN) |
 | Sat, 21 Nov 2026 | Unmute W/ Pangaea (Hessle Audio / UK), Nam Phung, CONG | CONG, Nam Phùng, Pangaea |

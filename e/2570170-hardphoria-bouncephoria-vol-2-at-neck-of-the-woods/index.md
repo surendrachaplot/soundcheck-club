@@ -1,10 +1,10 @@
 # Hardphoria: BOUNCEPHORIA VOL. 2 at Neck of the Woods
 
-Hardphoria: BOUNCEPHORIA VOL. 2 at Neck of the Woods on Fri 20 Nov, Auckland. 3 artists: Ash, JSquare and MRTN. Techno and Electro. See the line-up on soundcheck.
+Hardphoria: BOUNCEPHORIA VOL. 2 at Neck of the Woods on Fri 27 Nov, Auckland. 3 artists: Ash, JSquare and MRTN. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Fri, 20 Nov 2026 |
+| Date | Fri, 27 Nov 2026 |
 | Venue | Neck of the Woods |
 | City | Auckland |
 

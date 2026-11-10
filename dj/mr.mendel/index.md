@@ -1,13 +1,14 @@
 # Mendel
 
-Mendel is a Disco and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Club Metro, Kyoto on Mon, 23 Nov 2026.
+Mendel is a Disco and House artist with 6 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Nyapi, Seoul on Fri, 20 Nov 2026.
 
-Mendel is a disco and house artist based in Netherlands, with 104 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 28 more. Often billed alongside Ruby Savage, Giu Nunez and Millos Kaiser. Next up: Club Metro, Kyoto on Mon 23 Nov.
+Mendel is a disco and house artist based in Netherlands, with 105 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 29 more. Often billed alongside Ruby Savage, Giu Nunez and Millos Kaiser. Next up: Nyapi, Seoul on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | Nyapi | Seoul |
 | Mon, 23 Nov 2026 | Club Metro | Kyoto |
 | Fri, 27 Nov 2026 | BAR Inc | Osaka |
 | Fri, 4 Dec 2026 | WOMB | Tokyo |

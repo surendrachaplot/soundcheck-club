@@ -1,14 +1,15 @@
 # Bungalovv
 
-Bungalovv is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Studio dB, Berlin on Fri, 27 Nov 2026.
+Bungalovv is a Experimental and Club artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Studio dB, Berlin on Fri, 27 Nov 2026.
 
-Bungalovv is an experimental and club artist based in Argentina, with 65 gigs on soundcheck across Athens, Bali, Bangkok and Barcelona and 16 more. Often billed alongside TUFI, CÁRPATOS and Isaka. Next up: Studio dB, Berlin on Fri 27 Nov.
+Bungalovv is an experimental and club artist based in Argentina, with 66 gigs on soundcheck across Athens, Bali, Bangkok and Barcelona and 16 more. Often billed alongside TUFI, CÁRPATOS and Isaka. Next up: Studio dB, Berlin on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Studio dB | Berlin |
+| Thu, 10 Dec 2026 | Alte Münze | Berlin |
 
 ## Recently played
 

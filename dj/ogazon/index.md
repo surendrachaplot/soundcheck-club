@@ -1,8 +1,8 @@
 # Ogazón
 
-Ogazón is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Plano B, Porto on Fri, 13 Nov 2026.
+Ogazón is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Plano B, Porto on Fri, 13 Nov 2026.
 
-Ogazón is a techno and house artist based in Luxembourg, with 313 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 80 more. Often billed alongside Ryan Elliott, Marcel Dettmann and BASHKKA. Next up: Plano B, Porto on Fri 13 Nov.
+Ogazón is a techno and house artist based in Luxembourg, with 314 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 80 more. Often billed alongside Ryan Elliott, Marcel Dettmann and BASHKKA. Next up: Plano B, Porto on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -17,9 +17,9 @@ Ogazón is a techno and house artist based in Luxembourg, with 313 gigs on sound
 | Sat, 5 Dec 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 12 Dec 2026 | essaim | Paris |
 | Sat, 12 Dec 2026 | RADION | Amsterdam |
+| Fri, 18 Dec 2026 | Nordstern | Basel |
 | Sat, 6 Mar 2027 | fabric | London |
 | Sat, 20 Mar 2027 | den Atelier | Luxembourg |
-| Fri, 28 May 2027 | Peckham Rye Park | London |
 
 ## Recently played
 

@@ -1,13 +1,14 @@
 # Central
 
-Central is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Unmute, Hanoi on Fri, 25 Dec 2026.
+Central is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Final, Taipei on Sat, 12 Dec 2026.
 
-Central is a house and techno artist based in Denmark, with 13 gigs on soundcheck across Amsterdam, Bogotá, Bristol and Copenhagen and 4 more. Often billed alongside DJ Popup, Dragana and Manmade Deejay. Next up: Unmute, Hanoi on Fri 25 Dec.
+Central is a house and techno artist based in Denmark, with 14 gigs on soundcheck across Amsterdam, Bogotá, Bristol and Copenhagen and 5 more. Often billed alongside DJ Popup, Dragana and Manmade Deejay. Next up: Final, Taipei on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Dec 2026 | Final | Taipei |
 | Fri, 25 Dec 2026 | Unmute | Hanoi |
 | Thu, 22 Jul 2027 | Great Fulford | West-wales |
 

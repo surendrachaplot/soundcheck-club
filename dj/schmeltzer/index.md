@@ -1,14 +1,15 @@
 # Schmeltzer
 
-Schmeltzer is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at MONKEY LOVE, Warsaw on Fri, 13 Nov 2026.
+Schmeltzer is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at MONKEY LOVE, Warsaw on Fri, 13 Nov 2026.
 
-Schmeltzer is a house and techno artist based in Poland, with 60 gigs on soundcheck across Krakow, Poznan, Warsaw and Wroclaw. Often billed alongside Taan, bart ender and bielak. Next up: MONKEY LOVE, Warsaw on Fri 13 Nov.
+Schmeltzer is a house and techno artist based in Poland, with 61 gigs on soundcheck across Krakow, Poznan, Warsaw and Wroclaw. Often billed alongside Taan, bart ender and bielak. Next up: MONKEY LOVE, Warsaw on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | MONKEY LOVE | Warsaw |
+| Sat, 14 Nov 2026 | B-SIDE | Warsaw |
 
 ## Recently played
 

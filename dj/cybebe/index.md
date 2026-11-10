@@ -9,7 +9,7 @@ Cybebe is a techno and downtempo artist based in Mexico, with 36 gigs on soundch
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | nueve cero nueve | Mexico City |
-| Mon, 30 Nov 2026 | Relink:Data | Mexico City |
+| Fri, 20 Nov 2026 | Relink:Data | Mexico City |
 
 ## Recently played
 

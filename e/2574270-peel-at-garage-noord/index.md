@@ -1,6 +1,6 @@
 # PEEL at Garage Noord
 
-PEEL at Garage Noord on Sun 13 Dec, Amsterdam. 7 artists: baby ganoush, Elisa Batti, Garçon and justin case and 3 more. Techno and Bass. See the line-up on soundcheck.
+PEEL at Garage Noord on Sun 13 Dec, Amsterdam. 9 artists: August (NL), baby ganoush, Elisa Batti and Garçon and 5 more. Techno and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,10 +10,12 @@ PEEL at Garage Noord on Sun 13 Dec, Amsterdam. 7 artists: baby ganoush, Elisa Ba
 
 ## Line-up
 
+- August (NL)
 - baby ganoush
 - Elisa Batti
 - Garçon
 - justin case
+- lis (5)
 - Mia Cecille
 - PHARRISM
 - sausy
