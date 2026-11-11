@@ -1,14 +1,14 @@
 # LVT
 
-LVT is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA, Vancouver on Fri, 13 Nov 2026.
+LVT is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Private Location, Vancouver on Fri, 13 Nov 2026.
 
-LVT is a techno and acid artist, with 26 gigs on soundcheck across Portland and Vancouver. Often billed alongside 2flowers, DJ Hockey and Syd Woz. Next up: TBA, Vancouver on Fri 13 Nov.
+LVT is a techno and acid artist, with 26 gigs on soundcheck across Portland and Vancouver. Often billed alongside 2flowers, DJ Hockey and Syd Woz. Next up: TBA - Private Location, Vancouver on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | TBA | Vancouver |
+| Fri, 13 Nov 2026 | TBA - Private Location | Vancouver |
 | Sat, 21 Nov 2026 | Biltmore Cabaret | Vancouver |
 | Sun, 13 Dec 2026 | Biltmore Cabaret | Vancouver |
 

@@ -1,14 +1,16 @@
 # Marc Houle
 
-Marc Houle is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Kristal Club, Bucharest on Fri, 13 Nov 2026.
+Marc Houle is a Techno and Minimal Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Kristal Club, Bucharest on Fri, 13 Nov 2026.
 
-Marc Houle is a techno and minimal techno artist based in Canada, with 33 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 11 more. Often billed alongside Artbat, Deadmau5 and Dubfire. Next up: Kristal Club, Bucharest on Fri 13 Nov.
+Marc Houle is a techno and minimal techno artist based in Canada, with 35 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 11 more. Often billed alongside Artbat, Deadmau5 and Dubfire. Next up: Kristal Club, Bucharest on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Kristal Club | Bucharest |
+| Mon, 28 Dec 2026 | Tresor / Globus | Berlin |
+| Tue, 29 Dec 2026 | Tresor / Globus | Berlin |
 
 ## Recently played
 

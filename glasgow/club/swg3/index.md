@@ -16,7 +16,7 @@ SWG3 is a music venue in Glasgow listed on soundcheck. 28 upcoming gigs, with li
 | Sat, 14 Nov 2026 | CASSIUS Club LIVE + Special Guests | Cassius |
 | Fri, 20 Nov 2026 | RARE Club // Bushbaby | Bushbaby, gau7t |
 | Sat, 21 Nov 2026 | FLY / Paige Tomlinson / Glasgow | Paige Tomlinson |
-| Sat, 21 Nov 2026 | FLY - Paige Tomlinson & Céleste - Glasgow | Céleste, Paige Tomlinson |
+| Sat, 21 Nov 2026 | Paige Tomlinson & Céleste - Glasgow | Céleste, Paige Tomlinson |
 | Fri, 27 Nov 2026 | Mietze Conte - SWG3 Warehouse | Mietze Conte |
 
 ## Address

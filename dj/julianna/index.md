@@ -1,14 +1,15 @@
 # Julianna
 
-Julianna is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at D-Edge RIO, Rio de Janeiro on Fri, 20 Nov 2026.
+Julianna is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at D-Edge RIO, Rio de Janeiro on Fri, 20 Nov 2026.
 
-Julianna is a techno and electronica artist based in Colombia, with 76 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 9 more. Often billed alongside Retrograde Youth, dj lomalinda and Indogma. Next up: D-Edge RIO, Rio de Janeiro on Fri 20 Nov.
+Julianna is a techno and electronica artist based in Colombia, with 77 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 9 more. Often billed alongside dj lomalinda, Retrograde Youth and Indogma. Next up: D-Edge RIO, Rio de Janeiro on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | D-Edge RIO | Rio de Janeiro |
+| Sun, 6 Dec 2026 | 50 / 50 | Medellin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Julianna is a techno and electronica artist based in Colombia, with 76 gigs on s
 
 ## Shares bills with
 
-Retrograde Youth, dj lomalinda, Indogma
+dj lomalinda, Retrograde Youth, Indogma
 
 *Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/julianna/)*

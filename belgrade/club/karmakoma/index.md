@@ -2,7 +2,7 @@
 
 Karmakoma is a music venue in Belgrade with 10 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Apgrade with Cormac" on Fri, 13 Nov 2026.
 
-Karmakoma is a music venue in Belgrade listed on soundcheck. 10 upcoming gigs, with line-ups including Aneri, Cormac, Dazion and Felver and 2 more. See dates, start times and who's playing. Poenkareova 32, 11000 Belgrade.
+Karmakoma is a music venue in Belgrade listed on soundcheck. 10 upcoming gigs, with line-ups including Aneri, Breezy S, Cormac and Dakissa and 2 more. See dates, start times and who's playing. Poenkareova 32, 11000 Belgrade.
 
 ## What's on
 
@@ -12,7 +12,7 @@ Karmakoma is a music venue in Belgrade listed on soundcheck. 10 upcoming gigs, w
 | Sat, 14 Nov 2026 | Lena Willikens, tsola | Lena Willikens, tsola |
 | Fri, 20 Nov 2026 | Još Gori Live - Day 1 |  |
 | Sat, 21 Nov 2026 | Još Gori Live - Day 2 |  |
-| Sat, 21 Nov 2026 | Mindless 21/11 |  |
+| Sat, 21 Nov 2026 | Mindless with Breezy S, Dakissa & Dakman | Breezy S, Dakissa, Dakman |
 | Thu, 26 Nov 2026 | Rouzi LIVE feat. RADAR Crew |  |
 | Fri, 27 Nov 2026 | Kedr Livanskiy | Kedr Livanskiy |
 | Sat, 28 Nov 2026 | Steven Julien, Igor Jadranin | Igor Jadranin, Steven Julien |

@@ -14,7 +14,7 @@ SKY JETTA is a ghetto tech and club artist based in United States of America, wi
 | Thu, 19 Nov 2026 | TBA - Sent to ticket holders day of | New York City |
 | Fri, 20 Nov 2026 | Kremwerk-Timbre Room-Cherry Complex | Seattle |
 | Sat, 21 Nov 2026 | TRANSMISSION DC | Washington DC |
-| Fri, 11 Dec 2026 | Drunken Unicorn | Atlanta |
+| Fri, 11 Dec 2026 | 404.EXE | Atlanta |
 
 ## Recently played
 

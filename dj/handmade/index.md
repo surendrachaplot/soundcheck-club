@@ -1,14 +1,16 @@
 # Handmade
 
-Handmade is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at KREUZWERK, Berlin on Sat, 14 Nov 2026.
+Handmade is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at KREUZWERK, Berlin on Sat, 14 Nov 2026.
 
-Handmade is a techno and house artist based in Germany, with 114 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Berlin and 18 more. Often billed alongside VCO, Madalba and Kingsizebed. Next up: KREUZWERK, Berlin on Sat 14 Nov.
+Handmade is a techno and house artist based in Germany, with 116 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Berlin and 18 more. Often billed alongside VCO, Madalba and Fireground. Next up: KREUZWERK, Berlin on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | KREUZWERK | Berlin |
+| Mon, 28 Dec 2026 | Tresor / Globus | Berlin |
+| Thu, 31 Dec 2026 | Tresor / Globus | Berlin |
 
 ## Recently played
 
@@ -23,6 +25,6 @@ Handmade is a techno and house artist based in Germany, with 114 gigs on soundch
 
 ## Shares bills with
 
-VCO, Madalba, Kingsizebed
+VCO, Madalba, Fireground
 
 *Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/handmade/)*

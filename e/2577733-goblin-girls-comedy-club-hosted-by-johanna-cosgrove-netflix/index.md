@@ -1,6 +1,6 @@
 # Goblin Girls Comedy Club Hosted by Johanna Cosgrove (Netflix's Madam, Rats in the Gutter) at High Note
 
-Goblin Girls Comedy Club Hosted by Johanna Cosgrove (Netflix's Madam, Rats in the Gutter) at High Note on Wed 18 Nov, Melbourne. Funk / Soul and Balearic. See the line-up on soundcheck.
+Goblin Girls Comedy Club Hosted by Johanna Cosgrove (Netflix's Madam, Rats in the Gutter) at High Note on Wed 18 Nov, Melbourne. Balearic and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

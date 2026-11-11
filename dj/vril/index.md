@@ -1,8 +1,8 @@
 # .VRIL
 
-.VRIL is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Printhouse, Munich on Sat, 14 Nov 2026.
+.VRIL is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Printhouse, Munich on Sat, 14 Nov 2026.
 
-.VRIL is a techno and house artist based in Germany, with 154 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 48 more. Often billed alongside DJ Dustin, Konstantin and Edward. Next up: Printhouse, Munich on Sat 14 Nov.
+.VRIL is a techno and house artist based in Germany, with 156 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 48 more. Often billed alongside DJ Dustin, Konstantin and Edward. Next up: Printhouse, Munich on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,8 @@
 | Sat, 14 Nov 2026 | Printhouse | Munich |
 | Fri, 20 Nov 2026 | Magasins Généraux | Paris |
 | Sat, 21 Nov 2026 | Magasins Généraux | Paris |
+| Mon, 28 Dec 2026 | Tresor / Globus | Berlin |
+| Wed, 30 Dec 2026 | Tresor / Globus | Berlin |
 | Thu, 31 Dec 2026 | Bassiani | Tbilisi |
 | Fri, 22 Jan 2027 | Salon des Amateurs | Düsseldorf |
 

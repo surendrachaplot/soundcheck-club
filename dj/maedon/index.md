@@ -1,13 +1,14 @@
 # MAEDON
 
-MAEDON is a Techno and EBM artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA, Michigan on Fri, 4 Dec 2026.
+MAEDON is a Techno and EBM artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at La Cova, Hamburg on Sat, 21 Nov 2026.
 
-MAEDON is a techno and ebm artist based in United States of America, with 80 gigs on soundcheck across Amsterdam, Baltimore, Barcelona and Belgrade and 23 more. Often billed alongside Adam X, Lady Starlight and David Castellani. Next up: TBA, Michigan on Fri 4 Dec.
+MAEDON is a techno and ebm artist based in United States of America, with 81 gigs on soundcheck across Amsterdam, Baltimore, Barcelona and Belgrade and 23 more. Often billed alongside Adam X, Lady Starlight and David Castellani. Next up: La Cova, Hamburg on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | La Cova | Hamburg |
 | Fri, 4 Dec 2026 | TBA | Michigan |
 | Sat, 12 Dec 2026 | Tresor / Globus | Berlin |
 

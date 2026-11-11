@@ -1,14 +1,16 @@
 # Fireground
 
-Fireground is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Ankali & Planeta Za, Prague on Fri, 4 Dec 2026.
+Fireground is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Ankali & Planeta Za, Prague on Fri, 4 Dec 2026.
 
-Fireground is a techno and house artist based in Italy, with 80 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 26 more. Often billed alongside Zenker Brothers, Stenny and Skee Mask. Next up: Ankali & Planeta Za, Prague on Fri 4 Dec.
+Fireground is a techno and house artist based in Italy, with 82 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 26 more. Often billed alongside Zenker Brothers, Stenny and Skee Mask. Next up: Ankali & Planeta Za, Prague on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | Ankali & Planeta Za | Prague |
+| Mon, 28 Dec 2026 | Tresor / Globus | Berlin |
+| Thu, 31 Dec 2026 | Tresor / Globus | Berlin |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # Shoplifter
 
-Shoplifter is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Lioncity, Brussels on Sat, 12 Dec 2026.
+Shoplifter is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Lioncity, Brussels on Sat, 12 Dec 2026.
 
-Shoplifter is a techno and house artist based in Belgium, with 68 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 7 more. Often billed alongside DC Noises, KŌMA and Casper. Next up: Lioncity, Brussels on Sat 12 Dec.
+Shoplifter is a house and techno artist based in Belgium, with 68 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 7 more. Often billed alongside DC Noises, KŌMA and Casper. Next up: Lioncity, Brussels on Sat 12 Dec.
 
 ## Upcoming shows
 

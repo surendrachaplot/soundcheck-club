@@ -1,14 +1,15 @@
 # Daisy O'Dell
 
-Daisy O'Dell is a Electro and New Wave artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Spotlight, Los Angeles on Sat, 14 Nov 2026.
+Daisy O'Dell is a Electro and New Wave artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Spotlight, Los Angeles on Sat, 14 Nov 2026.
 
-Daisy O'Dell is an electro and new wave artist based in United States of America, with 9 gigs on soundcheck across Berlin, Los Angeles and New York City. Often billed alongside Sean Patrick, Josh Peace and Moderna. Next up: The Spotlight, Los Angeles on Sat 14 Nov.
+Daisy O'Dell is an electro and new wave artist based in United States of America, with 10 gigs on soundcheck across Berlin, Los Angeles and New York City. Often billed alongside Sean Patrick, Josh Peace and Moderna. Next up: The Spotlight, Los Angeles on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | The Spotlight | Los Angeles |
+| Thu, 3 Dec 2026 | Bossa Nova Civic Club | New York City |
 
 ## Recently played
 

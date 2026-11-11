@@ -1,11 +1,59 @@
 # Groove Cruise Miami 2027 - Ambassador Code: GrooveCruiseChris at Royal Caribbean Cruise Ship
 
-Groove Cruise Miami 2027 - Ambassador Code: GrooveCruiseChris at Royal Caribbean Cruise Ship on Thu 21 Jan, Miami. Trance and House. See the line-up on soundcheck.
+Groove Cruise Miami 2027 - Ambassador Code: GrooveCruiseChris at Royal Caribbean Cruise Ship on Thu 21 Jan, Miami. 45 artists: Adam Beyer, Alley Kay, AMPRS&ND and Amy Wiles and 41 more. Trance and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Thu, 21 Jan 2027 |
 | Venue | Royal Caribbean Cruise Ship |
 | City | Miami |
+
+## Line-up
+
+- Adam Beyer
+- Alley Kay
+- AMPRS&ND
+- Amy Wiles
+- Anabel Englund
+- Anthony Attalla
+- Bella Renee
+- Ciaran McAuley
+- Daxson
+- Deeper Purpose
+- DEEPFAKE
+- Dimibo
+- Doc Brown
+- Dose
+- Eli Brown
+- Ely Oaks
+- Eskuche
+- Gene Farris
+- Gravagerz
+- Jackie Hollander
+- Joshwa (IT)
+- KETTAMA
+- Laura van Dam
+- Leena Punks
+- Luccio
+- Luke Alexander
+- Marco Faraone
+- Marco Strous
+- Marie Vaunt
+- Markus Schulz
+- Maxinne
+- MPH (1)
+- Pretty Pink
+- RaeCola
+- Ranger Trucco
+- Rinaly
+- Romeo
+- Sam Feldt
+- Scooter
+- Scotty Boy
+- Sebastian Morxx
+- Silva Bumpa
+- Space 92
+- The Brothers Grim
+- Tini Gessler
 
 *Source: [soundcheck](https://soundcheck.club/e/2316319-groove-cruise-miami-2027-ambassador-code-groovecruisechris-a/)*

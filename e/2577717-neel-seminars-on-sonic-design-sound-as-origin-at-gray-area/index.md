@@ -1,6 +1,6 @@
 # Neel - Seminars on Sonic Design: Sound as Origin at Gray Area
 
-Neel - Seminars on Sonic Design: Sound as Origin at Gray Area on Thu 12 Nov, San Francisco/Oakland. 2 artists: Neel and peter nyboer. See the line-up on soundcheck.
+Neel - Seminars on Sonic Design: Sound as Origin at Gray Area on Thu 12 Nov, San Francisco/Oakland. 2 artists: NBOR and Neel. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ Neel - Seminars on Sonic Design: Sound as Origin at Gray Area on Thu 12 Nov, San
 
 ## Line-up
 
+- NBOR
 - Neel
-- peter nyboer
 
 *Source: [soundcheck](https://soundcheck.club/e/2577717-neel-seminars-on-sonic-design-sound-as-origin-at-gray-area/)*

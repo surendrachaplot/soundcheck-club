@@ -1,8 +1,8 @@
 # Joey T
 
-Joey T is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at New Wave Ramen, Manchester on Fri, 13 Nov 2026.
+Joey T is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at New Wave Ramen, Manchester on Fri, 13 Nov 2026.
 
-Joey T is a house and disco artist based in United Kingdom, with 62 gigs on soundcheck across Barcelona, Brighton, Edinburgh and Ibiza and 3 more. Often billed alongside Levi Love, Cosmik and Luke Una. Next up: New Wave Ramen, Manchester on Fri 13 Nov.
+Joey T is a house and disco artist based in United Kingdom, with 63 gigs on soundcheck across Barcelona, Brighton, Edinburgh and Ibiza and 3 more. Often billed alongside Levi Love, Cosmik and Luke Una. Next up: New Wave Ramen, Manchester on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Joey T is a house and disco artist based in United Kingdom, with 62 gigs on soun
 | Fri, 13 Nov 2026 | New Wave Ramen | Manchester |
 | Fri, 20 Nov 2026 | The DBA | Manchester |
 | Sat, 21 Nov 2026 | The Underbank | Manchester |
+| Sat, 28 Nov 2026 | A L P H A B E T | Brighton |
 
 ## Recently played
 

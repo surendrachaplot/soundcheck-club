@@ -1,14 +1,15 @@
 # ALDAVE
 
-ALDAVE is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Altrove, Milan on Sat, 14 Nov 2026.
+ALDAVE is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Altrove, Milan on Sat, 14 Nov 2026.
 
-ALDAVE is a house and tech house artist based in Argentina, with 68 gigs on soundcheck across Amsterdam, Barcelona, Cape Town and Madrid and 4 more. Often billed alongside ETNA, Massi Rocket and SOLE DOSI. Next up: Altrove, Milan on Sat 14 Nov.
+ALDAVE is a house and tech house artist based in Argentina, with 69 gigs on soundcheck across Amsterdam, Barcelona, Cape Town and Madrid and 4 more. Often billed alongside ETNA, Massi Rocket and SOLE DOSI. Next up: Altrove, Milan on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Altrove | Milan |
+| Sat, 21 Nov 2026 | MAD Radio NYC | New York City |
 
 ## Recently played
 

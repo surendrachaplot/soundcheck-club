@@ -1,14 +1,15 @@
 # Brutal Mx
 
-Brutal Mx is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "Panic Room #Posada" on Sat, 5 Dec 2026.
+Brutal Mx is a music venue in Mexico City with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Fuck Off Sundays x Dance Your Name" on Sun, 15 Nov 2026.
 
-Brutal Mx is a music venue in Mexico City listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Revillagigedo 20, Colonia Centro, Centro, Cuauhtémoc, 06050 Ciudad de México, CDMX, Mexico.
+Brutal Mx is a music venue in Mexico City listed on soundcheck. 2 upcoming gigs, with line-ups including Ann García and Rafa Beltran. See dates, start times and who's playing. Revillagigedo 20, Colonia Centro, Centro, Cuauhtémoc, 06050 Ciudad de México, CDMX, Mexico.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 5 Dec 2026 | Panic Room #Posada |  |
+| Sun, 15 Nov 2026 | Fuck Off Sundays x Dance Your Name |  |
+| Sat, 5 Dec 2026 | Panic Room x Brutal MX: Posada | Ann García, Rafa Beltran |
 
 ## Address
 

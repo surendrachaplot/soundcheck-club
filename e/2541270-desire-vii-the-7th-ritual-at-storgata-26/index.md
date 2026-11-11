@@ -1,6 +1,6 @@
 # DESIRE// VII The 7th RITUAL at Storgata 26
 
-DESIRE// VII The 7th RITUAL at Storgata 26 on Sat 14 Nov, Oslo. 1 artist: Herbrido. Techno and Hardcore. See the line-up on soundcheck.
+DESIRE// VII The 7th RITUAL at Storgata 26 on Sat 14 Nov, Oslo. 2 artists: DJ MS.GREEN and Herbrido. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ DESIRE// VII The 7th RITUAL at Storgata 26 on Sat 14 Nov, Oslo. 1 artist: Herbri
 
 ## Line-up
 
+- DJ MS.GREEN
 - Herbrido
 
 *Source: [soundcheck](https://soundcheck.club/e/2541270-desire-vii-the-7th-ritual-at-storgata-26/)*

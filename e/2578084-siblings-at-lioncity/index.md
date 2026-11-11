@@ -1,6 +1,6 @@
 # Siblings at Lioncity
 
-Siblings at Lioncity on Sat 12 Dec, Brussels. 3 artists: Alex Sourbis, Oldyungmayn and Shoplifter. Breakbeat and Bass. See the line-up on soundcheck.
+Siblings at Lioncity on Sat 12 Dec, Brussels. 3 artists: Alex Sourbis, Oldyungmayn and Shoplifter. Breakbeat and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

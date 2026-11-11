@@ -1,13 +1,14 @@
 # Darude
 
-Darude is a Trance and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Arena Joondalup, Perth on Fri, 15 Jan 2027.
+Darude is a Trance and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Bauhaus, Houston on Fri, 27 Nov 2026.
 
-Darude is a trance and techno artist based in Finland, with 38 gigs on soundcheck across Amsterdam, Auckland, Austin and Baltimore and 24 more. Often billed alongside ASLO, Adam Bartas and Boris Brejcha. Next up: Arena Joondalup, Perth on Fri 15 Jan.
+Darude is a trance and techno artist based in Finland, with 39 gigs on soundcheck across Amsterdam, Auckland, Austin and Baltimore and 25 more. Often billed alongside ASLO, Adam Bartas and Boris Brejcha. Next up: Bauhaus, Houston on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | Bauhaus | Houston |
 | Fri, 15 Jan 2027 | Arena Joondalup | Perth |
 | Sat, 16 Jan 2027 | Sydney Showgrounds | Sydney |
 | Fri, 22 Jan 2027 | Eatons Hill Hotel and Function Centre | Brisbane |

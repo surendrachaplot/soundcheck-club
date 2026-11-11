@@ -1,13 +1,14 @@
 # The Brothers Grim
 
-The Brothers Grim is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Royal Caribbean Cruise Ship, Miami on Thu, 21 Jan 2027.
+The Brothers Grim is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Royal Caribbean Cruise Ship, Miami on Thu, 21 Jan 2027.
 
-The Brothers Grim is a techno and tech house artist based in Spain, with 12 gigs on soundcheck across Ibiza, London and Miami. Often billed alongside Jeremy Weeks, Man Power and AMPRS&ND. Next up: Royal Caribbean Cruise Ship, Miami on Thu 21 Jan.
+The Brothers Grim is a house and techno artist based in Spain, with 13 gigs on soundcheck across Ibiza, London and Miami. Often billed alongside Jeremy Weeks, AMPRS&ND and Adam Beyer. Next up: Royal Caribbean Cruise Ship, Miami on Thu 21 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 21 Jan 2027 | Royal Caribbean Cruise Ship | Miami |
 | Thu, 21 Jan 2027 | Royal Caribbean Cruise Ship | Miami |
 
 ## Recently played
@@ -23,6 +24,6 @@ The Brothers Grim is a techno and tech house artist based in Spain, with 12 gigs
 
 ## Shares bills with
 
-Jeremy Weeks, Man Power, AMPRS&ND
+Jeremy Weeks, AMPRS&ND, Adam Beyer
 
 *Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thebrothersgrim/)*

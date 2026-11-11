@@ -1,8 +1,8 @@
 # Soultek
 
-Soultek is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Jupiter Disco, New York City on Thu, 12 Nov 2026.
+Soultek is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Jupiter Disco, New York City on Thu, 12 Nov 2026.
 
-Soultek is a deep house and house artist, with 7 gigs on soundcheck across New York City. Often billed alongside Pablo Romero, Jean-Paul and Alan Morehouse. Next up: Jupiter Disco, New York City on Thu 12 Nov.
+Soultek is a house and deep house artist, with 7 gigs on soundcheck across New York City. Often billed alongside Pablo Romero, Jean-Paul and Alan Morehouse. Next up: Jupiter Disco, New York City on Thu 12 Nov.
 
 ## Upcoming shows
 

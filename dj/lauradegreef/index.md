@@ -1,14 +1,15 @@
 # Laura De Greef
 
-Laura De Greef is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA, Paris on Sat, 14 Nov 2026.
+Laura De Greef is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA, Paris on Sat, 14 Nov 2026.
 
-Laura De Greef is a house and techno artist based in Belgium, with 38 gigs on soundcheck across Amsterdam, Brussels, Ghent and Ibiza and 9 more. Often billed alongside Jamback, Marsolo and Job de Jong. Next up: TBA, Paris on Sat 14 Nov.
+Laura De Greef is a house and techno artist based in Belgium, with 39 gigs on soundcheck across Amsterdam, Brussels, Ghent and Ibiza and 10 more. Often billed alongside Jamback, Marsolo and Job de Jong. Next up: TBA, Paris on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | TBA | Paris |
+| Fri, 20 Nov 2026 | Malkata Tekila | Sofia |
 | Sat, 21 Nov 2026 | Mint XL | Leeds |
 | Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 | Sat, 5 Jun 2027 | Wollaton Park | Nottingham |

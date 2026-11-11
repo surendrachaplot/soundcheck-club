@@ -1,8 +1,8 @@
-# TBA - multiple venues
+# TBA - Multiple Venues
 
-TBA - multiple venues is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "No Fun Fest" on Thu, 25 Feb 2027.
+TBA - Multiple Venues is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "No Fun Fest" on Thu, 25 Feb 2027.
 
-TBA - multiple venues is a music venue in Barcelona listed on soundcheck. 2 upcoming gigs, with line-ups including Charmaine Lee, Curbside Lambsear, Cut Hands and Kassel Jaeger and 2 more. See dates, start times and who's playing.
+TBA - Multiple Venues is a music venue in Barcelona listed on soundcheck. 2 upcoming gigs, with line-ups including Charmaine Lee, Curbside Lambsear, Cut Hands and Kassel Jaeger and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

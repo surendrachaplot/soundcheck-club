@@ -1,6 +1,6 @@
 # OXI NYE - 60 Hours [Free Re-Entry] at OXI
 
-OXI NYE - 60 Hours [Free Re-Entry] on Thu 31 Dec, Berlin. 29 artists: AGY3NA, Costanza, Demuja and DRAMA SOURCE ARTIFACTS and 25 more. Techno and House. See the line-up on soundcheck.
+OXI NYE - 60 Hours [Free Re-Entry] on Thu 31 Dec, Berlin. 32 artists: AGY3NA, Cheriii, Costanza and Demuja and 28 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,15 +11,18 @@ OXI NYE - 60 Hours [Free Re-Entry] on Thu 31 Dec, Berlin. 29 artists: AGY3NA, Co
 ## Line-up
 
 - AGY3NA
+- Cheriii
 - Costanza
 - Demuja
 - DRAMA SOURCE ARTIFACTS
 - Emanuele Barilli
 - Eva Crystaltips
 - Fafi Abdel Nour
+- Flemish.Fetish
 - Hitam
 - Immy
 - Ina Kacz
+- Joyce Muniz
 - Kr!z
 - Luca Olivotto
 - Malte Süß

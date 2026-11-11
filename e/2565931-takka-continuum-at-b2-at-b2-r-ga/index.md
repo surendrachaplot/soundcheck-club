@@ -1,6 +1,6 @@
 # TAKKA: CONTINUUM at B2 at B2 Rīga
 
-TAKKA: CONTINUUM at B2 at B2 Rīga on Sat 21 Nov, Riga. 3 artists: Aeden, Brenna Ryan and Ikss. Techno. See the line-up on soundcheck.
+TAKKA: CONTINUUM at B2 at B2 Rīga on Sat 21 Nov, Riga. 4 artists: Aeden, Brenna Ryan, ezet and Ikss. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ TAKKA: CONTINUUM at B2 at B2 Rīga on Sat 21 Nov, Riga. 3 artists: Aeden, Brenna
 
 - Aeden (1)
 - Brenna Ryan
+- ezet
 - Ikss
 
 *Source: [soundcheck](https://soundcheck.club/e/2565931-takka-continuum-at-b2-at-b2-r-ga/)*

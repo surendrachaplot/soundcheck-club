@@ -1,6 +1,6 @@
 # Expedition Südpol at Südpol
 
-Expedition Südpol on Fri 13 Nov, Hamburg. 18 artists: abs8lute, bīsu, Chris Hanke and DINKS and 14 more. See the line-up on soundcheck.
+Expedition Südpol on Fri 13 Nov, Hamburg. 19 artists: abs8lute, bīsu, Chioma and Chris Hanke and 15 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Expedition Südpol on Fri 13 Nov, Hamburg. 18 artists: abs8lute, bīsu, Chris Ha
 
 - abs8lute
 - bīsu
+- Chioma
 - Chris Hanke
 - DINKS
 - EPHIE

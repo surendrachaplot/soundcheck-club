@@ -1,6 +1,6 @@
-# Hausnacht [003] at 119
+# HAUSNACHT [003] at 119
 
-Hausnacht [003] at 119 on Fri 27 Nov, Berlin. 3 artists: DSC7, HNX and Syndrolin. Techno. See the line-up on soundcheck.
+HAUSNACHT [003] at 119 on Fri 27 Nov, Berlin. 4 artists: DSC7, HNX, Lisa de Lune and Syndrolin. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Hausnacht [003] at 119 on Fri 27 Nov, Berlin. 3 artists: DSC7, HNX and Syndrolin
 
 - DSC7
 - HNX (030)
+- Lisa de Lune
 - Syndrolin
 
 *Source: [soundcheck](https://soundcheck.club/e/2581697-hausnacht-003-at-119/)*

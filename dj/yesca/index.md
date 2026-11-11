@@ -1,14 +1,15 @@
 # Yesca
 
-Yesca is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Carpet Shop, London on Sat, 28 Nov 2026.
+Yesca is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Carpet Shop, London on Sat, 28 Nov 2026.
 
-Yesca is a techno and house artist based in United Kingdom, with 24 gigs on soundcheck across Brighton, Copenhagen, Glasgow and London and 1 more. Often billed alongside Dan be, McCart and FROSKI. Next up: The Carpet Shop, London on Sat 28 Nov.
+Yesca is a techno and house artist based in United Kingdom, with 25 gigs on soundcheck across Brighton, Copenhagen, Glasgow and London and 2 more. Often billed alongside Dan be, McCart and FROSKI. Next up: The Carpet Shop, London on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | The Carpet Shop | London |
+| Fri, 4 Dec 2026 | Kalima | Warsaw |
 
 ## Recently played
 

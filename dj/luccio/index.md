@@ -1,13 +1,14 @@
 # Luccio
 
-Luccio is a Trance and Progressive House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Royal Caribbean Cruise Ship, Miami on Thu, 21 Jan 2027.
+Luccio is a Trance and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Royal Caribbean Cruise Ship, Miami on Thu, 21 Jan 2027.
 
-Luccio is a trance and progressive house artist based in United States of America, with 44 gigs on soundcheck across Austin, Medellin, Miami and New York City and 2 more. Often billed alongside Cosmic Gate, Gabriel & Dresden and Giuseppe Ottaviani. Next up: Royal Caribbean Cruise Ship, Miami on Thu 21 Jan.
+Luccio is a trance and progressive house artist based in United States of America, with 45 gigs on soundcheck across Austin, Medellin, Miami and New York City and 2 more. Often billed alongside Cosmic Gate, Gabriel & Dresden and Giuseppe Ottaviani. Next up: Royal Caribbean Cruise Ship, Miami on Thu 21 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 21 Jan 2027 | Royal Caribbean Cruise Ship | Miami |
 | Thu, 21 Jan 2027 | Royal Caribbean Cruise Ship | Miami |
 
 ## Recently played

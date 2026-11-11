@@ -9,7 +9,7 @@ The Limelight is a music venue in Belfast listed on soundcheck. 9 upcoming gigs,
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | SHINE -- Partiboi69 | Partiboi69 |
-| Fri, 20 Nov 2026 | TELETECH x SHINE - Ali James | Ali James, Nyzero, YARIS (2) |
+| Fri, 20 Nov 2026 | TELETECH x SHINE - Ali James b2b Mark Blair  | Ali James, Mark Blair, Nyzero, YARIS (2) |
 | Fri, 27 Nov 2026 | SHINE -- Sam Alfred | Sam Alfred |
 | Sat, 28 Nov 2026 | SHINE -- Sasha | Sasha |
 | Fri, 4 Dec 2026 | SHINE -- Dusky [VENUE UPGRADE] | Dusky |

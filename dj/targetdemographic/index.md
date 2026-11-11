@@ -1,14 +1,13 @@
 # Target Demographic
 
-Target Demographic is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Onaciu, Santiago on Fri, 20 Nov 2026.
+Target Demographic is a House and Garage artist with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Casa Babylon, Argentina on Sat, 21 Nov 2026.
 
-Target Demographic is a house and techno artist based in United States of America, with 30 gigs on soundcheck across Amsterdam, Argentina, Athens and Barcelona and 17 more. Often billed alongside Shaolin Cowboy, Pijus and DJ WINDOWS 7. Next up: Onaciu, Santiago on Fri 20 Nov.
+Target Demographic is a house and garage artist based in United States of America, with 29 gigs on soundcheck across Amsterdam, Argentina, Athens and Barcelona and 16 more. Often billed alongside Shaolin Cowboy, Pijus and DJ WINDOWS 7. Next up: Casa Babylon, Argentina on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Onaciu | Santiago |
 | Sat, 21 Nov 2026 | Casa Babylon | Argentina |
 | Sun, 22 Nov 2026 | Uniclub | Argentina |
 | Fri, 27 Nov 2026 | Lumma | Peru |

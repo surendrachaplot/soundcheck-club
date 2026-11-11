@@ -1,14 +1,15 @@
 # Eden Burns
 
-Eden Burns is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Æther BKK, Bangkok on Thu, 26 Nov 2026.
+Eden Burns is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Æther BKK, Bangkok on Thu, 26 Nov 2026.
 
-Eden Burns is a house and techno artist based in New Zealand, with 61 gigs on soundcheck across Auckland, Bali, Bangkok and Barcelona and 28 more. Often billed alongside Adriana, Christopher Tubbs and DJ City. Next up: Æther BKK, Bangkok on Thu 26 Nov.
+Eden Burns is a house and tech house artist based in New Zealand, with 62 gigs on soundcheck across Auckland, Bali, Bangkok and Barcelona and 28 more. Often billed alongside Nice Girl, Adriana and Christopher Tubbs. Next up: Æther BKK, Bangkok on Thu 26 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 26 Nov 2026 | Æther BKK | Bangkok |
+| Sat, 5 Dec 2026 | TBA - Inner West Warehouse | Sydney |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Eden Burns is a house and techno artist based in New Zealand, with 61 gigs on so
 
 ## Shares bills with
 
-Adriana (1), Christopher Tubbs, DJ City
+Nice Girl, Adriana (1), Christopher Tubbs
 
 *Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edenburns/)*

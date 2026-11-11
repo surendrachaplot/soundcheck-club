@@ -1,14 +1,13 @@
 # Simo Cell
 
-Simo Cell is a Bass and Techno artist with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Club 77, Sydney on Wed, 11 Nov 2026.
+Simo Cell is a Bass and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA, Sydney on Thu, 12 Nov 2026.
 
-Simo Cell is a bass and techno artist based in France, with 138 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Barcelona and 61 more. Often billed alongside CCL, DjRUM and mad miran. Next up: Club 77, Sydney on Wed 11 Nov.
+Simo Cell is a bass and techno artist based in France, with 138 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Barcelona and 61 more. Often billed alongside CCL, DjRUM and mad miran. Next up: TBA, Sydney on Thu 12 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 11 Nov 2026 | Club 77 | Sydney |
 | Thu, 12 Nov 2026 | TBA | Sydney |
 | Sat, 14 Nov 2026 | Miscellania | Melbourne |
 | Sun, 15 Nov 2026 | Miscellania | Melbourne |

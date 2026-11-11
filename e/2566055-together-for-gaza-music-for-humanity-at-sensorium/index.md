@@ -16,10 +16,10 @@ TOGETHER FOR GAZA /// MUSIC FOR HUMANITY at Sensorium on Fri 20 Nov, Berlin. 14 
 - d4ia
 - DJ Hitwave
 - DJ YumYum
+- fiber.optyik
 - Finjas
 - Jvhnq
 - k.meower
-- krawallin
 - KÜRÜF
 - peak2soon
 - pink-panther

@@ -1,8 +1,8 @@
-# TBA - Secret spot
+# TBA - SECRET SPOT
 
-TBA - Secret spot is a music venue in Marseille with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Viernes X Tuesday" on Fri, 13 Nov 2026.
+TBA - SECRET SPOT is a music venue in Marseille with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Viernes X Tuesday" on Fri, 13 Nov 2026.
 
-TBA - Secret spot is a music venue in Marseille listed on soundcheck. 2 upcoming gigs, with line-ups including Erika, Fiedel and NSPERGER. See dates, start times and who's playing.
+TBA - SECRET SPOT is a music venue in Marseille listed on soundcheck. 2 upcoming gigs, with line-ups including Erika, Fiedel and NSPERGER. See dates, start times and who's playing.
 
 ## What's on
 

@@ -1,14 +1,15 @@
 # Proto-Exotica
 
-Proto-Exotica is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Angel Music Bar, Melbourne on Fri, 13 Nov 2026.
+Proto-Exotica is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Angel Music Bar, Melbourne on Fri, 13 Nov 2026.
 
-Proto-Exotica is a house and disco artist based in Australia, with 36 gigs on soundcheck across Bangkok, Kuala Lumpur, Melbourne and Singapore and 2 more. Often billed alongside Princey, Freddy Gardens and Porcelain Prince. Next up: Angel Music Bar, Melbourne on Fri 13 Nov.
+Proto-Exotica is a house and disco artist based in Australia, with 37 gigs on soundcheck across Bangkok, Kuala Lumpur, Melbourne and Singapore and 2 more. Often billed alongside Princey, Freddy Gardens and Porcelain Prince. Next up: Angel Music Bar, Melbourne on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Angel Music Bar | Melbourne |
+| Sun, 15 Nov 2026 | Music Room | Melbourne |
 
 ## Recently played
 

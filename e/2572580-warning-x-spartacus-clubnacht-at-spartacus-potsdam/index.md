@@ -1,6 +1,6 @@
 # Warning x Spartacus Clubnacht at Spartacus Potsdam
 
-Warning x Spartacus Clubnacht at Spartacus Potsdam on Sat 12 Dec, Berlin. 5 artists: evah, Galaxaura, Jotel California and Klex and 1 more. See the line-up on soundcheck.
+Warning x Spartacus Clubnacht at Spartacus Potsdam on Sat 12 Dec, Berlin. 6 artists: Acid Management, evah, Galaxaura and Jotel California and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Warning x Spartacus Clubnacht at Spartacus Potsdam on Sat 12 Dec, Berlin. 5 arti
 
 ## Line-up
 
+- Acid Management
 - evah
 - Galaxaura
 - Jotel California

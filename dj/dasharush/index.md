@@ -1,8 +1,8 @@
 # Dasha Rush
 
-Dasha Rush is a Techno and Experimental artist with 8 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at public records, New York City on Mon, 9 Nov 2026.
+Dasha Rush is a Techno and Experimental artist with 9 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at public records, New York City on Mon, 9 Nov 2026.
 
-Dasha Rush is a techno and experimental artist, with 187 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 49 more. Often billed alongside DVS1, Adriana Lopez and Quelza. Next up: public records, New York City on Mon 9 Nov.
+Dasha Rush is a techno and experimental artist, with 188 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 50 more. Often billed alongside DVS1, Adriana Lopez and Quelza. Next up: public records, New York City on Mon 9 Nov.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Dasha Rush is a techno and experimental artist, with 187 gigs on soundcheck acro
 | Fri, 4 Dec 2026 | MFCC Arena | Malta |
 | Sat, 26 Dec 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Thu, 31 Dec 2026 | SMUT Athens | Athens |
+| Sat, 30 Jan 2027 | Paradigm | Netherlands |
 
 ## Recently played
 

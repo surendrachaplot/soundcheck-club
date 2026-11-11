@@ -12,7 +12,7 @@ Gate Milano is a music venue in Milan listed on soundcheck. 18 upcoming gigs, wi
 | Sat, 14 Nov 2026 | Mantikore: Per Pleks | HEMPTOTE, Per Pleks, Pura Solenne |
 | Fri, 20 Nov 2026 | SOULSTICE: Ryan Elliott & Saoirse | Ferrari, Ryan Elliott, Saoirse |
 | Sat, 21 Nov 2026 | SCHRANZ MOVEMENT: Obscure Shape | Dstm, Obscure Shape |
-| Fri, 27 Nov 2026 | Trym | Flaiv Đarkø, Trym |
+| Fri, 27 Nov 2026 | Trym & Greg Willen | Flaiv Đarkø, Trym |
 | Fri, 27 Nov 2026 | 180BPM |  |
 | Fri, 4 Dec 2026 | BISCOTTO: Héctor Oaks | Héctor Oaks, Ivan Carbone, NOVZE |
 | Mon, 7 Dec 2026 | PLASMA: Clara Cuvé & William Luck | ANKKH, Clara Cuvé, William Luck |

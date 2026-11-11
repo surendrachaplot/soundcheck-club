@@ -1,14 +1,15 @@
 # Manami
 
-Manami is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Palais, London on Thu, 12 Nov 2026.
+Manami is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Palais, London on Thu, 12 Nov 2026.
 
-Manami is a house and techno artist, with 105 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Belfast and 29 more. Often billed alongside Amaliah, Beatrice M. and KT. Next up: Palais, London on Thu 12 Nov.
+Manami is a house and techno artist, with 106 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Belfast and 29 more. Often billed alongside Amaliah, Beatrice M. and KT. Next up: Palais, London on Thu 12 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 12 Nov 2026 | Palais | London |
+| Thu, 31 Dec 2026 | Colour Factory | London |
 
 ## Recently played
 

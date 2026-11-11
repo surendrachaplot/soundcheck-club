@@ -1,13 +1,14 @@
 # Süss War Gestern
 
-Süss War Gestern is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "THE UNKNOWN (𝘍𝘙𝘌𝘌 𝘌𝘕𝘛𝘙𝘠 𝘜𝘕𝘛𝘐𝘓 22:00 ⟶ 𝘋𝘖𝘕𝘈𝘛𝘐𝘖𝘕-𝘉𝘈𝘚𝘌𝘋 𝘈𝘍𝘛𝘌𝘙)" on Tue, 17 Nov 2026.
+Süss War Gestern is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Cosmic Thursday's" on Thu, 12 Nov 2026.
 
-Süss War Gestern is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including Dicso_Muzek, Good Nelson, maniac&me and Miguel Silva and 2 more. See dates, start times and who's playing. Wühlischstraße 43, 10245 Berlin.
+Süss War Gestern is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line-ups including Dicso_Muzek, Good Nelson, maniac&me and Miguel Silva and 2 more. See dates, start times and who's playing. Wühlischstraße 43, 10245 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Thu, 12 Nov 2026 | Cosmic Thursday's | Neobeo, Paqueta |
 | Tue, 17 Nov 2026 | THE UNKNOWN (𝘍𝘙𝘌𝘌 𝘌𝘕𝘛𝘙𝘠 𝘜𝘕𝘛𝘐𝘓 22:00 ⟶ 𝘋𝘖𝘕𝘈𝘛𝘐𝘖𝘕-𝘉𝘈𝘚𝘌𝘋 𝘈𝘍𝘛𝘌𝘙) | Umami Sound |
 | Sat, 21 Nov 2026 | Not Stereo INVITES x Süss War Gestern | Good Nelson, Miguel Silva, Zuleta M |
 | Tue, 24 Nov 2026 | THE UNKNOWN (𝘍𝘙𝘌𝘌 𝘌𝘕𝘛𝘙𝘠 𝘜𝘕𝘛𝘐𝘓 22:00 ⟶ 𝘋𝘖𝘕𝘈𝘛𝘐𝘖𝘕-𝘉𝘈𝘚𝘌𝘋 𝘈𝘍𝘛𝘌𝘙) | Dicso_Muzek |
@@ -17,7 +18,6 @@ Süss War Gestern is a music venue in Berlin listed on soundcheck. 10 upcoming g
 | Tue, 15 Dec 2026 | THE UNKNOWN (𝘍𝘙𝘌𝘌 𝘌𝘕𝘛𝘙𝘠 𝘜𝘕𝘛𝘐𝘓 22:00 ⟶ 𝘋𝘖𝘕𝘈𝘛𝘐𝘖𝘕-𝘉𝘈𝘚𝘌𝘋 𝘈𝘍𝘛𝘌𝘙) | Dicso_Muzek |
 | Tue, 22 Dec 2026 | THE UNKNOWN (𝘍𝘙𝘌𝘌 𝘌𝘕𝘛𝘙𝘠 𝘜𝘕𝘛𝘐𝘓 22:00 ⟶ 𝘋𝘖𝘕𝘈𝘛𝘐𝘖𝘕-𝘉𝘈𝘚𝘌𝘋 𝘈𝘍𝘛𝘌𝘙) |  |
 | Tue, 29 Dec 2026 | THE UNKNOWN (𝘍𝘙𝘌𝘌 𝘌𝘕𝘛𝘙𝘠 𝘜𝘕𝘛𝘐𝘓 22:00 ⟶ 𝘋𝘖𝘕𝘈𝘛𝘐𝘖𝘕-𝘉𝘈𝘚𝘌𝘋 𝘈𝘍𝘛𝘌𝘙) |  |
-| Sat, 2 Jan 2027 | THE UNKNOWN (𝘍𝘙𝘌𝘌 𝘌𝘕𝘛𝘙𝘠 𝘜𝘕𝘛𝘐𝘓 22:00 ⟶ 𝘛𝘞𝘖 𝘍𝘓𝘖𝘖𝘙𝘚) |  |
 
 ## Address
 

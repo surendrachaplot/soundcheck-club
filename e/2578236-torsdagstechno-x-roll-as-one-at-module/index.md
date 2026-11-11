@@ -1,6 +1,6 @@
 # TorsdagsTechno X Roll As One at MODULE
 
-TorsdagsTechno X Roll As One at MODULE on Thu 19 Nov, Copenhagen. 4 artists: Aerocell, avoN, B From E and Ziggy Stardubb. Trance and Techno. See the line-up on soundcheck.
+TorsdagsTechno X Roll As One at MODULE on Thu 19 Nov, Copenhagen. 5 artists: Aerocell, avoN, B From E and HIGHL4ND3R and 1 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ TorsdagsTechno X Roll As One at MODULE on Thu 19 Nov, Copenhagen. 4 artists: Aer
 - Aerocell
 - avoN
 - B From E
+- HIGHL4ND3R
 - Ziggy Stardubb
 
 *Source: [soundcheck](https://soundcheck.club/e/2578236-torsdagstechno-x-roll-as-one-at-module/)*

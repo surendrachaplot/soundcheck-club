@@ -1,6 +1,6 @@
 # Afroplug Night - 5th Anniversary at AB Club (Ancienne Belgique)
 
-Afroplug Night - 5th Anniversary at AB Club (Ancienne Belgique) on Fri 20 Nov, Brussels. 1 artist: Ms Mavy. Club and Afro House. See the line-up on soundcheck.
+Afroplug Night - 5th Anniversary at AB Club (Ancienne Belgique) on Fri 20 Nov, Brussels. 4 artists: Brownsugvr, Ms Mavy, Ravi Bongo and Shaka Lion. Club and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,9 @@ Afroplug Night - 5th Anniversary at AB Club (Ancienne Belgique) on Fri 20 Nov, B
 
 ## Line-up
 
+- Brownsugvr
 - Ms Mavy
+- Ravi Bongo
+- Shaka Lion
 
 *Source: [soundcheck](https://soundcheck.club/e/2561326-afroplug-night-5th-anniversary-at-ab-club-ancienne-belgique/)*

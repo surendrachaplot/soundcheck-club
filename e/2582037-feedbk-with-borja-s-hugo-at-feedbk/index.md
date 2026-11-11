@@ -1,6 +1,6 @@
 # feedbk with Borja S, Hugo at feedbk
 
-feedbk with Borja S, Hugo on Fri 20 Nov, New York City. 2 artists: Borja S and Hugo. Techno and Deep House. See the line-up on soundcheck.
+feedbk with Borja S, Hugo on Fri 20 Nov, New York City. 2 artists: Borja S and Hugo (US). Techno and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,6 @@ feedbk with Borja S, Hugo on Fri 20 Nov, New York City. 2 artists: Borja S and H
 ## Line-up
 
 - Borja S
-- Hugo
+- Hugo (US)
 
 *Source: [soundcheck](https://soundcheck.club/e/2582037-feedbk-with-borja-s-hugo-at-feedbk/)*

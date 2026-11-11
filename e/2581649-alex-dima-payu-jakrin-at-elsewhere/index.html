@@ -45,11 +45,17 @@
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
   <meta name="apple-mobile-web-app-title" content="soundcheck" />
-  <link rel="stylesheet" href="/app.5fcfd63dd8af.css">
-  <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
-       history on navigation, which umami picks up automatically. -->
-  <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1794411980114">
+  <link rel="stylesheet" href="/app.e8081087b826.css">
+  <!-- Umami analytics, loaded on the FIRST real touch, scroll, mouse move or key (11 Nov 2026: half the
+       "visitors" were headless bots from SC/SG/PK that load the page and never move). Automated browsers
+       (navigator.webdriver, headless/bot user agents, no languages) never load it. The SPA rewrites history
+       on navigation, which umami picks up once loaded. -->
+  <script id="umami-gate">(function(){var n=navigator,E=['pointerdown','pointermove','scroll','wheel','keydown','touchstart'];
+    if(n.webdriver||/headless|bot|crawl|spider|slurp|lighthouse|phantom|puppeteer|playwright|selenium/i.test(n.userAgent||'')||!(n.languages&&n.languages.length))return;
+    function go(){if(go.d)return;go.d=1;E.forEach(function(e){removeEventListener(e,go,true)});
+      var s=document.createElement('script');s.defer=true;s.src='https://cloud.umami.is/script.js';s.setAttribute('data-website-id','de210b6c-12e4-4819-95f6-f5120974855a');document.head.appendChild(s);}
+    E.forEach(function(e){addEventListener(e,go,{capture:true,passive:true})});})();</script>
+<meta name="sc-build" content="1794438479939">
 <meta name="description" content="Alex Dima / Payu / JAKRIN at Elsewhere, Bangkok on Fri, 13 Nov 2026. Full line-up (3 artists), set times and sets on soundcheck.">
 <link rel="canonical" href="https://soundcheck.club/e/2581649-alex-dima-payu-jakrin-at-elsewhere/">
 <meta property="og:type" content="website">
@@ -60,7 +66,7 @@
 <meta property="og:image" content="https://api.soundcheck.club/api/og?v=3&amp;t=Alex%20Dima%20%2F%20Payu%20%2F%20JAKRIN&amp;s=Elsewhere%20%C2%B7%20Alex%20Dima%2C%20JAKRIN%2C%20Payu&amp;e=FRI%2C%2013%20NOV%20%C2%B7%20BANGKOK&amp;p=https%3A%2F%2Fimages.ra.co%2Ffb8ecf4113af2611d5e26a2e68fd8e375521051c.png&amp;q=%2Fe%2F2581649%2F">
 <meta name="twitter:image" content="https://api.soundcheck.club/api/og?v=3&amp;t=Alex%20Dima%20%2F%20Payu%20%2F%20JAKRIN&amp;s=Elsewhere%20%C2%B7%20Alex%20Dima%2C%20JAKRIN%2C%20Payu&amp;e=FRI%2C%2013%20NOV%20%C2%B7%20BANGKOK&amp;p=https%3A%2F%2Fimages.ra.co%2Ffb8ecf4113af2611d5e26a2e68fd8e375521051c.png&amp;q=%2Fe%2F2581649%2F">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicEvent","name":"Alex Dima / Payu / JAKRIN","url":"https://soundcheck.club/e/2581649-alex-dima-payu-jakrin-at-elsewhere/","description":"Alex Dima / Payu / JAKRIN at Elsewhere on Fri 13 Nov, Bangkok. 3 artists: Alex Dima, JAKRIN and Payu. Techno and House. See the line-up on soundcheck.","startDate":"2026-11-13T23:00:00+07:00","endDate":"2026-11-13T06:00:00+07:00","eventStatus":"https://schema.org/EventScheduled","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","location":{"@type":"MusicVenue","name":"Elsewhere","address":{"@type":"PostalAddress","streetAddress":"3 Naradhiwas Rajanagarindra Rd, Si Lom, Bang Rak, Bangkok 10500","addressLocality":"Bangkok","addressCountry":"TH"},"geo":{"@type":"GeoCoordinates","latitude":13.7218174,"longitude":100.5300801},"url":"https://soundcheck.club/bangkok/club/elsewhere/"},"performer":[{"@type":"MusicGroup","name":"Alex Dima","url":"https://soundcheck.club/dj/alex-dima/"},{"@type":"MusicGroup","name":"JAKRIN","url":"https://soundcheck.club/dj/jakrin/"},{"@type":"MusicGroup","name":"Payu","url":"https://soundcheck.club/dj/payu/"}],"offers":{"@type":"Offer","url":"https://soundcheck.club/e/2581649-alex-dima-payu-jakrin-at-elsewhere/","price":"500","priceCurrency":"GBP","availability":"https://schema.org/InStock","validFrom":"2026-11-11"},"image":["https://api.soundcheck.club/api/img?u=https%3A%2F%2Fimages.ra.co%2Ffb8ecf4113af2611d5e26a2e68fd8e375521051c.png&w=1200&h=1200&fit=cover","https://api.soundcheck.club/api/img?u=https%3A%2F%2Fimages.ra.co%2Ffb8ecf4113af2611d5e26a2e68fd8e375521051c.png&w=1200&h=900&fit=cover","https://api.soundcheck.club/api/img?u=https%3A%2F%2Fimages.ra.co%2Ffb8ecf4113af2611d5e26a2e68fd8e375521051c.png&w=1200&h=675&fit=cover"]}</script>
+<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicEvent","name":"Alex Dima / Payu / JAKRIN","url":"https://soundcheck.club/e/2581649-alex-dima-payu-jakrin-at-elsewhere/","description":"Alex Dima / Payu / JAKRIN at Elsewhere on Fri 13 Nov, Bangkok. 3 artists: Alex Dima, JAKRIN and Payu. Techno and House. See the line-up on soundcheck.","startDate":"2026-11-13T23:00:00+07:00","endDate":"2026-11-13T06:00:00+07:00","eventStatus":"https://schema.org/EventScheduled","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","location":{"@type":"MusicVenue","name":"Elsewhere","address":{"@type":"PostalAddress","streetAddress":"3 Naradhiwas Rajanagarindra Rd, Si Lom, Bang Rak, Bangkok 10500","addressLocality":"Bangkok","addressCountry":"TH"},"geo":{"@type":"GeoCoordinates","latitude":13.7218174,"longitude":100.5300801},"url":"https://soundcheck.club/bangkok/club/elsewhere/"},"performer":[{"@type":"MusicGroup","name":"Alex Dima","url":"https://soundcheck.club/dj/alex-dima/"},{"@type":"MusicGroup","name":"JAKRIN","url":"https://soundcheck.club/dj/jakrin/"},{"@type":"MusicGroup","name":"Payu","url":"https://soundcheck.club/dj/payu/"}],"organizer":[{"@type":"Organization","name":"Edward & Zo "}],"offers":{"@type":"Offer","url":"https://soundcheck.club/e/2581649-alex-dima-payu-jakrin-at-elsewhere/","price":"500","priceCurrency":"GBP","availability":"https://schema.org/InStock","validFrom":"2026-11-11"},"image":["https://api.soundcheck.club/api/img?u=https%3A%2F%2Fimages.ra.co%2Ffb8ecf4113af2611d5e26a2e68fd8e375521051c.png&w=1200&h=1200&fit=cover","https://api.soundcheck.club/api/img?u=https%3A%2F%2Fimages.ra.co%2Ffb8ecf4113af2611d5e26a2e68fd8e375521051c.png&w=1200&h=900&fit=cover","https://api.soundcheck.club/api/img?u=https%3A%2F%2Fimages.ra.co%2Ffb8ecf4113af2611d5e26a2e68fd8e375521051c.png&w=1200&h=675&fit=cover"]}</script>
 <script type="application/ld+json" id="seo-crumb">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"soundcheck","item":"https://soundcheck.club/"},{"@type":"ListItem","position":2,"name":"Bangkok","item":"https://soundcheck.club/bangkok/"},{"@type":"ListItem","position":3,"name":"Alex Dima / Payu / JAKRIN"}]}</script>
 </head>
 <body>
@@ -120,7 +126,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-11-11/">Wed 11 Nov <span class="c">14 events</span></a></li><li><a href="/london/2026-11-12/">Thu 12 Nov <span class="c">37 events</span></a></li><li><a href="/london/2026-11-13/">Fri 13 Nov <span class="c">110 events</span></a></li><li><a href="/london/2026-11-14/">Sat 14 Nov <span class="c">139 events</span></a></li><li><a href="/london/2026-11-15/">Sun 15 Nov <span class="c">26 events</span></a></li><li><a href="/london/2026-11-17/">Tue 17 Nov <span class="c">4 events</span></a></li><li><a href="/london/2026-11-18/">Wed 18 Nov <span class="c">13 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 171 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-11-11/">Wed 11 Nov <span class="c">7 events</span></a></li><li><a href="/london/2026-11-12/">Thu 12 Nov <span class="c">37 events</span></a></li><li><a href="/london/2026-11-13/">Fri 13 Nov <span class="c">112 events</span></a></li><li><a href="/london/2026-11-14/">Sat 14 Nov <span class="c">143 events</span></a></li><li><a href="/london/2026-11-15/">Sun 15 Nov <span class="c">26 events</span></a></li><li><a href="/london/2026-11-17/">Tue 17 Nov <span class="c">4 events</span></a></li><li><a href="/london/2026-11-18/">Wed 18 Nov <span class="c">14 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 171 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          h1 in the DOM (on home and city pages; build-seo makes it an h2 elsewhere), so it is
@@ -241,7 +247,7 @@
        loadYtApi / loadScApi) so they stay off the critical path. The iframes
        autoplay on their own; the SDKs only add the scrubber + dock sync. -->
 
-  <script src="/app.5fcfd63dd8af.js" defer></script>
+  <script src="/app.e8081087b826.js" defer></script>
 <script>
 /* SUNSET·CRT runtime — promoted from next (2026-07-13).
    1) Android renders rem/em larger than iOS → fit the app to the width the

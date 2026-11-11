@@ -1,6 +1,6 @@
 # ELYSIUM PRESENTS: CYANOTIC at Sonia
 
-ELYSIUM PRESENTS: CYANOTIC at Sonia on Sat 21 Nov, Boston. 1 artist: Asphodel Ivory. Hardcore and Industrial. See the line-up on soundcheck.
+ELYSIUM PRESENTS: CYANOTIC at Sonia on Sat 21 Nov, Boston. 2 artists: Asphodel Ivory and DJ Hello. Hardcore and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ ELYSIUM PRESENTS: CYANOTIC at Sonia on Sat 21 Nov, Boston. 1 artist: Asphodel Iv
 ## Line-up
 
 - Asphodel Ivory
+- DJ Hello
 
 *Source: [soundcheck](https://soundcheck.club/e/2578839-elysium-presents-cyanotic-at-sonia/)*

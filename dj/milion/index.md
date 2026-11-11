@@ -1,14 +1,13 @@
 # Milion
 
-Milion is a House and Garage artist with 11 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 13 Nov 2026.
+Milion is a House and Garage artist with 10 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Maassilo, Rotterdam on Sat, 14 Nov 2026.
 
-Milion is a house and garage artist based in Netherlands, with 114 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bristol and 25 more. Often billed alongside SAIDAH, Locky and Bella Claxton. Next up: Shelter Amsterdam, Amsterdam on Fri 13 Nov.
+Milion is a house and garage artist based in Netherlands, with 113 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bristol and 25 more. Often billed alongside SAIDAH, Locky and Bella Claxton. Next up: Maassilo, Rotterdam on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Shelter Amsterdam | Amsterdam |
 | Sat, 14 Nov 2026 | Maassilo | Rotterdam |
 | Sat, 14 Nov 2026 | TBA | Amsterdam |
 | Fri, 20 Nov 2026 | Artheater | Cologne |

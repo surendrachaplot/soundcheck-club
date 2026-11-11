@@ -1,13 +1,14 @@
 # Ava Blank
 
-Ava Blank is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Airliner, Los Angeles on Thu, 3 Dec 2026.
+Ava Blank is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Soulwerks, Los Angeles on Fri, 20 Nov 2026.
 
-Ava Blank is a house and deep house artist based in United States of America, with 33 gigs on soundcheck across Los Angeles and San Francisco/Oakland. Often billed alongside Dazegxd, Eva Myra May and Akumen. Next up: The Airliner, Los Angeles on Thu 3 Dec.
+Ava Blank is a house and club artist based in United States of America, with 34 gigs on soundcheck across Los Angeles and San Francisco/Oakland. Often billed alongside Dazegxd, Draik Lezbijan and Eva Myra May. Next up: Soulwerks, Los Angeles on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | Soulwerks | Los Angeles |
 | Thu, 3 Dec 2026 | The Airliner | Los Angeles |
 
 ## Recently played
@@ -23,6 +24,6 @@ Ava Blank is a house and deep house artist based in United States of America, wi
 
 ## Shares bills with
 
-Dazegxd, Eva Myra May, Akumen
+Dazegxd, Draik Lezbijan, Eva Myra May
 
 *Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avablank/)*

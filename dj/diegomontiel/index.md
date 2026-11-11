@@ -1,14 +1,15 @@
 # Diego Montiel
 
-Diego Montiel is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at KitKatClub, Berlin on Mon, 7 Dec 2026.
+Diego Montiel is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at KitKatClub, Berlin on Mon, 7 Dec 2026.
 
-Diego Montiel is a techno and electro artist based in Spain, with 87 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Guadalajara and 6 more. Often billed alongside Frankie Flowerz, Jessica Bellomo and Heinech. Next up: KitKatClub, Berlin on Mon 7 Dec.
+Diego Montiel is a techno and electro artist based in Spain, with 88 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Guadalajara and 6 more. Often billed alongside Frankie Flowerz, Jessica Bellomo and Heinech. Next up: KitKatClub, Berlin on Mon 7 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 7 Dec 2026 | KitKatClub | Berlin |
+| Sat, 19 Dec 2026 | Sala Upload Barcelona | Barcelona |
 
 ## Recently played
 

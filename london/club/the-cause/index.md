@@ -13,7 +13,7 @@ The Cause is a music venue in London listed on soundcheck. 28 upcoming gigs, wit
 | Fri, 20 Nov 2026 | Bass Face // DNB // 360° BOILER ROOM *VERY SPECIAL GUESTS*! |  |
 | Fri, 20 Nov 2026 | XXL DNB – 140, BASS, GRIME, BREAKS, MINIMAL, ROLLERS – |  |
 | Fri, 20 Nov 2026 | Teletech London: Mandidextrous & Mates | 4000 Hz, Kichta, LIL DARK ONE, Mandidextrous, Part Time Killer, Shanixx |
-| Sat, 21 Nov 2026 | UK Funky & UK Garage Winter Festival |  |
+| Sat, 21 Nov 2026 | UK Funky & UK Garage Day Party |  |
 | Fri, 27 Nov 2026 | Bass Face // DNB, HOUSE:TECHNO, UKG // BOILER ROOM *VERY SPECIAL GUESTS*! LAST FREE TICKETS |  |
 | Fri, 27 Nov 2026 | XXL DNB – 140, BASS, GRIME, BREAKS, MINIMAL, ROLLERS – LAST FREE TICKETS |  |
 | Fri, 27 Nov 2026 | Labyrinth presents: Partiboi69 LIFE EXTENSION The Cause Workshop | Juicy Romance, Lola So, Partiboi69 |

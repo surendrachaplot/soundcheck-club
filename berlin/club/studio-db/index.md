@@ -1,18 +1,19 @@
 # Studio dB
 
-Studio dB is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Glowism" on Fri, 13 Nov 2026.
+Studio dB is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Glowism" on Fri, 13 Nov 2026.
 
-Studio dB is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with line-ups including AGUSTIN BARBEI, Bungalovv, Gabs Leyton and Hollis P. Monroe and 2 more. See dates, start times and who's playing. Studio dB - Uferstrasse 8-11, Studio A14 - 13357 Berlin.
+Studio dB is a music venue in Berlin listed on soundcheck. 6 upcoming gigs, with line-ups including AGUSTIN BARBEI, Bungalovv, Gabs Leyton and Hollis P. Monroe and 2 more. See dates, start times and who's playing. Studio dB - Uferstrasse 8-11, Studio A14 - 13357 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Glowism | Gabs Leyton, Hollis P. Monroe, Marian Tone, Morisia, Mosebo |
-| Thu, 19 Nov 2026 | MARIAMA - THE MO(U)RNING STAR EP Release Show |  |
+| Thu, 19 Nov 2026 | MARIAMA - THE MO(U)RNING STAR EP Release Show | Mariama |
 | Fri, 27 Nov 2026 | Hyper Synthesized Surrender | Bungalovv, Mithril, XI-N |
 | Sat, 28 Nov 2026 | KOTODAMA | Izumi Yamamoto, Ken Okuda |
 | Sat, 5 Dec 2026 | EVLAY & YUNNI: EPIDERMIS RELEASE PARTY | AGUSTIN BARBEI, SIVINSKI, TINKERHELL, Tomas Crow |
+| Sun, 13 Dec 2026 | Local Gr0up presents |  |
 
 ## Address
 

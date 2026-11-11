@@ -8,7 +8,7 @@ QQQ ST. Park is a music venue in Melbourne listed on soundcheck. 8 upcoming gigs
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | 150 BPM | ALIEN-A, CAITY WATSON, CJ Slayer, Yaz |
+| Fri, 13 Nov 2026 | 150 BPM | ALIEN-A, CAITY WATSON, CJ Slayer, SK4NK, Yaz (AU) |
 | Sat, 14 Nov 2026 | DRIZZZ - En Route Tour |  |
 | Fri, 27 Nov 2026 | SUBMARINE (GER), STRATEGY (UK), DEEP TEMPO (UK) | safire |
 | Sat, 28 Nov 2026 | System Killerz |  |

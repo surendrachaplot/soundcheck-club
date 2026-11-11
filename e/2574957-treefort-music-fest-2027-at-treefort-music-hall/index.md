@@ -1,6 +1,6 @@
 # Treefort Music Fest 2027 at Treefort Music Hall
 
-Treefort Music Fest 2027 at Treefort Music Hall on Wed 31 Mar, Idaho. 23 artists: Balance, Barbara, Bardo and Deeveaux and 19 more. See the line-up on soundcheck.
+Treefort Music Fest 2027 at Treefort Music Hall on Wed 31 Mar, Idaho. 24 artists: Balance, Barbara, Bardo and BULLY and 20 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Treefort Music Fest 2027 at Treefort Music Hall on Wed 31 Mar, Idaho. 23 artists
 - Balance
 - Barbara
 - Bardo (1)
+- BULLY
 - Deeveaux
 - Delivery
 - Eartheater

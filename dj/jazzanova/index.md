@@ -1,8 +1,8 @@
 # Jazzanova
 
-Jazzanova is a Jazz and Electronica artist with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Gasometer Schöneberg, Berlin on Fri, 20 Nov 2026.
+Jazzanova is a Jazz and Funk / Soul artist with 6 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Gasometer Schöneberg, Berlin on Fri, 20 Nov 2026.
 
-Jazzanova is a jazz and electronica artist based in Germany, with 32 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bratislava and 8 more. Often billed alongside Alex Barck, Markus Tone and Wayne Snow. Next up: Gasometer Schöneberg, Berlin on Fri 20 Nov.
+Jazzanova is a jazz and funk / soul artist based in Germany, with 33 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bratislava and 9 more. Often billed alongside Alex Barck, Wayne Snow and Markus Tone. Next up: Gasometer Schöneberg, Berlin on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Jazzanova is a jazz and electronica artist based in Germany, with 32 gigs on sou
 | Fri, 20 Nov 2026 | Gasometer Schöneberg | Berlin |
 | Thu, 26 Nov 2026 | Blue Note Jazz Club London | London |
 | Fri, 27 Nov 2026 | Blue Note Jazz Club London | London |
+| Sat, 28 Nov 2026 | Blue Note Milano | Milan |
 | Sat, 5 Dec 2026 | BIX | Stuttgart |
 | Sun, 6 Dec 2026 | Ampere | Munich |
 
@@ -27,6 +28,6 @@ Jazzanova is a jazz and electronica artist based in Germany, with 32 gigs on sou
 
 ## Shares bills with
 
-Alex Barck, Markus Tone, Wayne Snow
+Alex Barck, Wayne Snow, Markus Tone
 
 *Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jazzanova/)*

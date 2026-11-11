@@ -1,14 +1,15 @@
 # EYEMAY
 
-EYEMAY is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Live Haus, Tokyo on Fri, 27 Nov 2026.
+EYEMAY is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Live Haus, Tokyo on Fri, 27 Nov 2026.
 
-EYEMAY is a techno and industrial artist based in Japan, with 21 gigs on soundcheck across Osaka and Tokyo. Often billed alongside EVE, TYPE-O RISK SYSTEM and ZAGUN. Next up: Live Haus, Tokyo on Fri 27 Nov.
+EYEMAY is a techno and hardcore artist based in Japan, with 22 gigs on soundcheck across Osaka and Tokyo. Often billed alongside w (MELTDØWN), EVE and TYPE-O RISK SYSTEM. Next up: Live Haus, Tokyo on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Live Haus | Tokyo |
+| Sat, 5 Dec 2026 | Triangle | Osaka |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ EYEMAY is a techno and industrial artist based in Japan, with 21 gigs on soundch
 
 ## Shares bills with
 
-EVE (1), TYPE-O RISK SYSTEM, ZAGUN
+w (MELTDØWN), EVE (1), TYPE-O RISK SYSTEM
 
 *Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eyemay/)*

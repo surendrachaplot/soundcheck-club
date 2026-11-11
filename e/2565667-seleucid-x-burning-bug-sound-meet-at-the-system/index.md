@@ -1,6 +1,6 @@
 # SELEUCID x BURNING BUG SOUND MEET at The System
 
-SELEUCID x BURNING BUG SOUND MEET at The System on Sun 15 Nov, Sheffield. 1 artist: Lewis Bennett. Dub. See the line-up on soundcheck.
+SELEUCID x BURNING BUG SOUND MEET at The System on Sun 15 Nov, Sheffield. 2 artists: Lewis Bennett and Seleucid Soundsystem. Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ SELEUCID x BURNING BUG SOUND MEET at The System on Sun 15 Nov, Sheffield. 1 arti
 ## Line-up
 
 - Lewis Bennett
+- Seleucid Soundsystem
 
 *Source: [soundcheck](https://soundcheck.club/e/2565667-seleucid-x-burning-bug-sound-meet-at-the-system/)*

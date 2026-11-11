@@ -1,8 +1,8 @@
 # Fronsi
 
-Fronsi is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Uebel & Gefährlich, Hamburg on Fri, 20 Nov 2026.
+Fronsi is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Uebel & Gefährlich, Hamburg on Fri, 20 Nov 2026.
 
-Fronsi is a trance and techno artist based in Germany, with 26 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 6 more. Often billed alongside Amøn, zwilling. and DETOXX. Next up: Uebel & Gefährlich, Hamburg on Fri 20 Nov.
+Fronsi is a trance and techno artist based in Germany, with 27 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 6 more. Often billed alongside Amøn, zwilling. and DETOXX. Next up: Uebel & Gefährlich, Hamburg on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Fronsi is a trance and techno artist based in Germany, with 26 gigs on soundchec
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Uebel & Gefährlich | Hamburg |
 | Sat, 21 Nov 2026 | OST | Berlin |
+| Fri, 16 Apr 2027 | Festsaal Kreuzberg | Berlin |
 
 ## Recently played
 

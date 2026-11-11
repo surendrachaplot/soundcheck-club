@@ -1,14 +1,15 @@
 # De Thomaskerk
 
-De Thomaskerk is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "In:Resonance - Invisible Currents CANCELED (will happen at a later moment TBA)" on Fri, 20 Nov 2026.
+De Thomaskerk is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "In:Resonance - Invisible Currents CANCELED (will happen at a later moment TBA)" on Fri, 20 Nov 2026.
 
-De Thomaskerk is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Pr. Irenestraat 361077 WX Amsterdam.
+De Thomaskerk is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, with line-ups including Abdullah Miniawy. See dates, start times and who's playing. Pr. Irenestraat 361077 WX Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | In:Resonance - Invisible Currents CANCELED (will happen at a later moment TBA) |  |
+| Wed, 2 Dec 2026 | Tarek Atoui & Abdullah Miniawy in Concert | Abdullah Miniawy |
 
 ## Address
 

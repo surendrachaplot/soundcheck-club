@@ -1,14 +1,13 @@
 # Katja Ruge
 
-Katja Ruge is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Planetarium Hamburg, Hamburg on Wed, 11 Nov 2026.
+Katja Ruge is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Coda Club, Hamburg on Wed, 30 Dec 2026.
 
-Katja Ruge is a techno and electro artist based in Germany, with 33 gigs on soundcheck across Berlin, Bochum, Frankfurt and Hamburg and 1 more. Often billed alongside DJ MELL G, Hufnagel and JakoJako. Next up: Planetarium Hamburg, Hamburg on Wed 11 Nov.
+Katja Ruge is a techno and electro artist based in Germany, with 33 gigs on soundcheck across Berlin, Bochum, Frankfurt and Hamburg and 1 more. Often billed alongside DJ MELL G, Hufnagel and JakoJako. Next up: Coda Club, Hamburg on Wed 30 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 11 Nov 2026 | Planetarium Hamburg | Hamburg |
 | Wed, 30 Dec 2026 | Coda Club | Hamburg |
 
 ## Recently played

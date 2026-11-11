@@ -1,8 +1,8 @@
 # Luke Alexander
 
-Luke Alexander is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at 99 Scott Ave, New York City on Fri, 13 Nov 2026.
+Luke Alexander is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at 99 Scott Ave, New York City on Fri, 13 Nov 2026.
 
-Luke Alexander is a house and tech house artist based in United Kingdom, with 19 gigs on soundcheck across Boston, Chicago, Detroit and Houston and 5 more. Often billed alongside Eli Brown, Kaskade and Lane 8. Next up: 99 Scott Ave, New York City on Fri 13 Nov.
+Luke Alexander is a house and tech house artist based in United Kingdom, with 20 gigs on soundcheck across Boston, Chicago, Detroit and Houston and 5 more. Often billed alongside Eli Brown, AMPRS&ND and Adam Beyer. Next up: 99 Scott Ave, New York City on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Luke Alexander is a house and tech house artist based in United Kingdom, with 19
 | Fri, 13 Nov 2026 | 99 Scott Ave | New York City |
 | Fri, 20 Nov 2026 | Spybar | Chicago |
 | Fri, 4 Dec 2026 | Starlane Pizza Bar | London |
+| Thu, 21 Jan 2027 | Royal Caribbean Cruise Ship | Miami |
 | Thu, 21 Jan 2027 | Royal Caribbean Cruise Ship | Miami |
 
 ## Recently played
@@ -26,6 +27,6 @@ Luke Alexander is a house and tech house artist based in United Kingdom, with 19
 
 ## Shares bills with
 
-Eli Brown, Kaskade, Lane 8
+Eli Brown, AMPRS&ND, Adam Beyer
 
 *Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukealexander/)*

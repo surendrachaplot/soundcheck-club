@@ -1,8 +1,8 @@
 # DJ S (UK)
 
-DJ S (UK) is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Second Story Studios, Melbourne on Fri, 13 Nov 2026.
+DJ S (UK) is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Second Story Studios, Melbourne on Fri, 13 Nov 2026.
 
-DJ S (UK) is a house and tech house artist based in United Kingdom, with 183 gigs on soundcheck across Amsterdam, Athens, Bangkok and Belfast and 33 more. Often billed alongside Shenin Amara, Jerome Six and JAYDAA. Next up: Second Story Studios, Melbourne on Fri 13 Nov.
+DJ S (UK) is a house and tech house artist based in United Kingdom, with 184 gigs on soundcheck across Amsterdam, Athens, Bangkok and Belfast and 33 more. Often billed alongside Shenin Amara, Jerome Six and JAYDAA. Next up: Second Story Studios, Melbourne on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DJ S (UK) is a house and tech house artist based in United Kingdom, with 183 gig
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Second Story Studios | Melbourne |
 | Sat, 14 Nov 2026 | Egg London | London |
+| Sun, 15 Nov 2026 | Golden Pudel Club | Hamburg |
 | Sat, 21 Nov 2026 | Egg London | London |
 | Sat, 28 Nov 2026 | All is Joy Studios | London |
 | Sat, 5 Dec 2026 | Studio 338 | London |

@@ -1,14 +1,15 @@
 # Bok Bok
 
-Bok Bok is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Unit 58, London on Fri, 27 Nov 2026.
+Bok Bok is a Club and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Unit 58, London on Fri, 27 Nov 2026.
 
-Bok Bok is a club and bass artist based in United Kingdom, with 88 gigs on soundcheck across Amsterdam, Baltimore, Beijing and Berlin and 28 more. Often billed alongside Ikonika, Girl Unit and Nico Adomako. Next up: Unit 58, London on Fri 27 Nov.
+Bok Bok is a club and bass artist based in United Kingdom, with 89 gigs on soundcheck across Amsterdam, Baltimore, Beijing and Berlin and 28 more. Often billed alongside Ikonika, Girl Unit and Nico Adomako. Next up: Unit 58, London on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Unit 58 | London |
+| Thu, 31 Dec 2026 | Colour Factory | London |
 
 ## Recently played
 

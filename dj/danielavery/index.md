@@ -1,8 +1,8 @@
 # Daniel Avery
 
-Daniel Avery is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Berkeley Suite, Glasgow on Sat, 14 Nov 2026.
+Daniel Avery is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Berkeley Suite, Glasgow on Sat, 14 Nov 2026.
 
-Daniel Avery is a techno and house artist based in United Kingdom, with 170 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belfast and 50 more. Often billed alongside Richard Fearless, Optimo (Espacio) and Tapefeed. Next up: The Berkeley Suite, Glasgow on Sat 14 Nov.
+Daniel Avery is a techno and house artist based in United Kingdom, with 172 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belfast and 50 more. Often billed alongside Richard Fearless, Optimo (Espacio) and IMOGEN. Next up: The Berkeley Suite, Glasgow on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,8 @@ Daniel Avery is a techno and house artist based in United Kingdom, with 170 gigs
 | Sun, 15 Nov 2026 | Sneaky Pete's | Edinburgh |
 | Fri, 20 Nov 2026 | Kassa Boat | Budapest |
 | Sat, 19 Dec 2026 | Gazarte | Greece |
+| Mon, 28 Dec 2026 | Tresor / Globus | Berlin |
+| Wed, 30 Dec 2026 | Tresor / Globus | Berlin |
 | Fri, 1 Jan 2027 | Phonox | London |
 | Fri, 15 Jan 2027 | Carfax | Johannesburg |
 | Sat, 16 Jan 2027 | The Castle of Good Hope | Cape-town |
@@ -30,6 +32,6 @@ Daniel Avery is a techno and house artist based in United Kingdom, with 170 gigs
 
 ## Shares bills with
 
-Richard Fearless, Optimo (Espacio), Tapefeed
+Richard Fearless, Optimo (Espacio), IMOGEN
 
 *Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielavery/)*

@@ -1,17 +1,17 @@
 # Bonobo
 
-Bonobo is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. The next is "NEWきんぎんBDB ルナティック娑婆世界" on Sat, 7 Nov 2026.
+Bonobo is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "Twist Vol.2" on Sun, 22 Nov 2026.
 
-Bonobo is a music venue in Tokyo listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 2-23-4 Jingumae, Shibuya-ku, Tokyo, 150-0001 Japan.
+Bonobo is a music venue in Tokyo listed on soundcheck. 1 upcoming gig, with line-ups including 3rill, judgeman, Kross Section and Onométro and 1 more. See dates, start times and who's playing. 2-23-4 Jingumae, Shibuya-ku, Tokyo, 150-0001 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | NEWきんぎんBDB ルナティック娑婆世界 |  |
+| Sun, 22 Nov 2026 | Twist Vol.2 | 3rill, Kross Section, Onométro, YO.AN, judgeman |
 
 ## Address
 
 2-23-4 Jingumae, Shibuya-ku, Tokyo, 150-0001 Japan, Tokyo
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/bonobo/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/bonobo/)*

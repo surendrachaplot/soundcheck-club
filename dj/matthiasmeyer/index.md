@@ -1,14 +1,15 @@
 # Matthias Meyer
 
-Matthias Meyer is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Faunna Rooftop, Mexico City on Fri, 13 Nov 2026.
+Matthias Meyer is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Faunna Rooftop, Mexico City on Fri, 13 Nov 2026.
 
-Matthias Meyer is a house and deep house artist based in Germany, with 66 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 19 more. Often billed alongside Stimmhalt, Slurm McKenzie and Budakid. Next up: Faunna Rooftop, Mexico City on Fri 13 Nov.
+Matthias Meyer is a house and deep house artist based in Germany, with 67 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 19 more. Often billed alongside Stimmhalt, Slurm McKenzie and Budakid. Next up: Faunna Rooftop, Mexico City on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Faunna Rooftop | Mexico City |
+| Fri, 20 Nov 2026 | Noble Savage | Tbilisi |
 
 ## Recently played
 

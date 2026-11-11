@@ -1,14 +1,13 @@
 # Helena Lauwaert
 
-Helena Lauwaert is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 13 Nov 2026.
+Helena Lauwaert is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at BASIS, Utrecht on Fri, 27 Nov 2026.
 
-Helena Lauwaert is a techno and trance artist based in Belgium, with 146 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 26 more. Often billed alongside Pegassi, EMILIJA and Faster Horses. Next up: Shelter Amsterdam, Amsterdam on Fri 13 Nov.
+Helena Lauwaert is a techno and trance artist based in Belgium, with 145 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 26 more. Often billed alongside Pegassi, EMILIJA and Faster Horses. Next up: BASIS, Utrecht on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Shelter Amsterdam | Amsterdam |
 | Fri, 27 Nov 2026 | BASIS | Utrecht |
 | Fri, 18 Dec 2026 | Ancienne Belgique (AB) | Brussels |
 | Mon, 28 Dec 2026 | Glenworth Valley | Sydney |

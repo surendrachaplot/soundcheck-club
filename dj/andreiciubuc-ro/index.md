@@ -1,14 +1,15 @@
 # Andrei Ciubuc
 
-Andrei Ciubuc is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Hoppetosse, Berlin on Fri, 13 Nov 2026.
+Andrei Ciubuc is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Hoppetosse, Berlin on Fri, 13 Nov 2026.
 
-Andrei Ciubuc is a house and minimal artist based in Romania, with 66 gigs on soundcheck across Barcelona, Berlin, Brussels and Bucharest and 12 more. Often billed alongside Herodot, Cap and Aleksan'dru. Next up: Hoppetosse, Berlin on Fri 13 Nov.
+Andrei Ciubuc is a house and minimal artist based in Romania, with 67 gigs on soundcheck across Barcelona, Berlin, Brussels and Bucharest and 12 more. Often billed alongside Herodot, Cap and Aleksan'dru. Next up: Hoppetosse, Berlin on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Hoppetosse | Berlin |
+| Sun, 29 Nov 2026 | Platforma Wolff | Bucharest |
 
 ## Recently played
 

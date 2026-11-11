@@ -17,7 +17,7 @@ BRET is a music venue in Amsterdam listed on soundcheck. 13 upcoming gigs, with 
 | Sat, 28 Nov 2026 | Picnic x Les Enfants Brilliants | Alex Dima, Alexia Glensy, Andy Luff, Gabbs, Kithers |
 | Sat, 28 Nov 2026 | Picnic & Les Enfants Brilliants | Alex Dima, Alexia Glensy, Andy Luff, Gabbs, Kithers |
 | Sun, 6 Dec 2026 | ALARICO PRES. FLIRT SHOWCASE |  |
-| Fri, 11 Dec 2026 | ØTTA HOTTIES Album Tour | ØTTA |
+| Fri, 11 Dec 2026 | ØTTA HOTTIES Album Tour | Ketarina, Serafina, lizaliza, ØTTA |
 
 ## Address
 

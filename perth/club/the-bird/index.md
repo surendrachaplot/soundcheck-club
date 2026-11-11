@@ -1,8 +1,8 @@
 # The Bird
 
-The Bird is a music venue in Perth with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Tone List Presents: Marcus Whale" on Sat, 14 Nov 2026.
+The Bird is a music venue in Perth with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Tone List Presents: Marcus Whale" on Sat, 14 Nov 2026.
 
-The Bird is a music venue in Perth listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing.
+The Bird is a music venue in Perth listed on soundcheck. 4 upcoming gigs, with line-ups including EPHACY and Montana. See dates, start times and who's playing.
 
 ## What's on
 
@@ -10,6 +10,7 @@ The Bird is a music venue in Perth listed on soundcheck. 3 upcoming gigs. See da
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Tone List Presents: Marcus Whale |  |
 | Sun, 29 Nov 2026 | NEST FM POST PRIDE RECOVERY PARTY |  |
+| Sat, 5 Dec 2026 | S.O.S. CARPARK PARTY | EPHACY, Montana |
 | Sun, 13 Dec 2026 | Orb End Of Year Function |  |
 
 *Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/perth/club/the-bird/)*

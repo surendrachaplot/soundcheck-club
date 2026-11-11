@@ -1,8 +1,8 @@
 # HOTBOX COLLECTIVE
 
-HOTBOX COLLECTIVE is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Yellow House, Amsterdam on Sat, 14 Nov 2026.
+HOTBOX COLLECTIVE is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Yellow House, Amsterdam on Sat, 14 Nov 2026.
 
-HOTBOX COLLECTIVE is a tech house and house artist based in Netherlands, with 16 gigs on soundcheck across Amsterdam and Rotterdam. Often billed alongside Gils Promor, Joshi Shawn and Nindo. Next up: Yellow House, Amsterdam on Sat 14 Nov.
+HOTBOX COLLECTIVE is a tech house and house artist based in Netherlands, with 17 gigs on soundcheck across Amsterdam and Rotterdam. Often billed alongside Gils Promor, Joshi Shawn and Nindo. Next up: Yellow House, Amsterdam on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ HOTBOX COLLECTIVE is a tech house and house artist based in Netherlands, with 16
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Yellow House | Amsterdam |
 | Sat, 14 Nov 2026 | Yellow House | Amsterdam |
+| Sat, 28 Nov 2026 | Club Royal | Amsterdam |
 
 ## Recently played
 

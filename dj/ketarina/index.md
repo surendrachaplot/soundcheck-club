@@ -1,14 +1,15 @@
 # Ketarina
 
-Ketarina is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Lx Factory, Lisbon on Fri, 13 Nov 2026.
+Ketarina is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Lx Factory, Lisbon on Fri, 13 Nov 2026.
 
-Ketarina is a techno and trance artist based in Portugal, with 113 gigs on soundcheck across Barcelona, Basel, Berlin and Bogotá and 7 more. Often billed alongside Taxsh, Madson Carpenter and Schusta. Next up: Lx Factory, Lisbon on Fri 13 Nov.
+Ketarina is a techno and trance artist based in Portugal, with 114 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 8 more. Often billed alongside Taxsh, Madson Carpenter and Schusta. Next up: Lx Factory, Lisbon on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Lx Factory | Lisbon |
+| Fri, 11 Dec 2026 | BRET | Amsterdam |
 | Sun, 7 Mar 2027 | KREUZWERK | Berlin |
 
 ## Recently played

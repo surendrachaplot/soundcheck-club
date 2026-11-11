@@ -1,8 +1,8 @@
 # Sparkling Water Dreams
 
-Sparkling Water Dreams is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Tresor / Globus, Berlin on Wed, 11 Nov 2026.
+Sparkling Water Dreams is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Tresor / Globus, Berlin on Wed, 11 Nov 2026.
 
-Sparkling Water Dreams is a house and techno artist based in Germany, with 53 gigs on soundcheck across Berlin and Manchester. Often billed alongside DJ NORTHERN, Npoint_O and Josh Reid. Next up: Tresor / Globus, Berlin on Wed 11 Nov.
+Sparkling Water Dreams is a house and techno artist based in Germany, with 55 gigs on soundcheck across Berlin and Manchester. Often billed alongside DJ NORTHERN, Npoint_O and Josh Reid. Next up: Tresor / Globus, Berlin on Wed 11 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,8 @@ Sparkling Water Dreams is a house and techno artist based in Germany, with 53 gi
 | --- | --- | --- |
 | Wed, 11 Nov 2026 | Tresor / Globus | Berlin |
 | Sat, 28 Nov 2026 | Atelier Rooftop | Berlin |
+| Mon, 28 Dec 2026 | Tresor / Globus | Berlin |
+| Sat, 2 Jan 2027 | Tresor / Globus | Berlin |
 
 ## Recently played
 

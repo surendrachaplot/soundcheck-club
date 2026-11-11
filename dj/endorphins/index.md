@@ -1,13 +1,14 @@
 # Endorphins
 
-Endorphins is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Dusty Munky Bar, Cyprus on Sat, 26 Dec 2026.
+Endorphins is a Deep House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Noble Savage, Tbilisi on Fri, 20 Nov 2026.
 
-Endorphins is a techno and deep house artist based in Georgia, with 7 gigs on soundcheck across Cyprus and Tbilisi. Often billed alongside Guri De Sal, Roma J and Aalson. Next up: Dusty Munky Bar, Cyprus on Sat 26 Dec.
+Endorphins is a deep house and techno artist based in Georgia, with 8 gigs on soundcheck across Cyprus and Tbilisi. Often billed alongside Guri De Sal, Roma J and Aalson. Next up: Noble Savage, Tbilisi on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | Noble Savage | Tbilisi |
 | Sat, 26 Dec 2026 | Dusty Munky Bar | Cyprus |
 
 ## Recently played

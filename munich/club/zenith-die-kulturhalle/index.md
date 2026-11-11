@@ -9,7 +9,7 @@ Zenith - Die Kulturhalle is a music venue in Munich listed on soundcheck. 3 upco
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | Hardshift | Angerfist, Breathless, Dual Damage, Evil Activities, JAZZY (2), KRUELTY, Kili (3), Krowdexx, Lekkerfaces, Mad Dog, Marc Acardipane, Neophyte, Nomad, Paul Elstak, Ruffian, Simon Says, Sound Rush, The Dark Horror, Vieze Asbak, Villain, tnt (1) |
-| Sat, 5 Dec 2026 | Contact Festival | 2HOT2PLAY, A.N.I., Alarico, Ben Techy, Charlie Sparks, DJ DRECKISCH, Daria Kolosova, I Hate Models, In Verruf, Johannes Schuster, KUKO, Luciid, NEGITIV, NOVAH, Nicolas Julian, Nikolina, Noise Mafia, Onlynumbers, Ornella, PRADA2000, Restricted, SAIKA, SHDW, SLVL, Ueberrest, Vendex, Yanamaste, elMefti |
+| Sat, 5 Dec 2026 | Contact Festival | 2HOT2PLAY, A.N.I., Alarico, Ben Techy, Charlie Sparks, DJ DRECKISCH, Daria Kolosova, I Hate Models, In Verruf, Johannes Schuster, KUKO, Luciid, NEGITIV, NOVAH, Natte Visstick, Nicolas Julian, Nikolina, Noise Mafia, Onlynumbers, Ornella, PRADA2000, Restricted, SAIKA, SHDW, SLVL, Ueberrest, Vendex, Yanamaste, elMefti |
 | Sat, 27 Feb 2027 | F*CK Fantasm | Fantasm |
 
 ## Address

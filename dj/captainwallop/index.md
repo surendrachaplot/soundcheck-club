@@ -1,8 +1,8 @@
 # Captain Wallop
 
-Captain Wallop is a Garage and House artist with 8 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Lakota, Bristol on Fri, 13 Nov 2026.
+Captain Wallop is a Garage and House artist with 9 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Lakota, Bristol on Fri, 13 Nov 2026.
 
-Captain Wallop is a garage and house artist based in United Kingdom, with 60 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Brighton and 15 more. Often billed alongside RTK Tarantino, DAISY and MADVILLA. Next up: Lakota, Bristol on Fri 13 Nov.
+Captain Wallop is a garage and house artist based in United Kingdom, with 61 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Brighton and 15 more. Often billed alongside RTK Tarantino, DAISY and MADVILLA. Next up: Lakota, Bristol on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Captain Wallop is a garage and house artist based in United Kingdom, with 60 gig
 | Sat, 5 Dec 2026 | Hazy Club | Sheffield |
 | Thu, 31 Dec 2026 | Mint XL | Leeds |
 | Thu, 31 Dec 2026 | Chelmsford City Racecourse | London |
+| Sat, 6 Feb 2027 | Sawmills | Bristol |
 
 ## Recently played
 

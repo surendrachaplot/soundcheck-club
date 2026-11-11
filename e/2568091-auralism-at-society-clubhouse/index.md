@@ -1,6 +1,6 @@
 # Auralism at Society Clubhouse
 
-Auralism at Society Clubhouse on Sun 27 Dec, Toronto. 4 artists: GRRLCRRSH, Kira Loxx, Loving Hand and Pauliexoxoxo. Techno. See the line-up on soundcheck.
+Auralism at Society Clubhouse on Sun 27 Dec, Toronto. 4 artists: GRRLCRRSH, Kira Loxx, Loving Hand and Pauliexoxoxo. Drum & Bass and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

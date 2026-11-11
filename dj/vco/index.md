@@ -1,14 +1,16 @@
 # VCO
 
-VCO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Skin Club, Madrid on Fri, 13 Nov 2026.
+VCO is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Skin Club, Madrid on Fri, 13 Nov 2026.
 
-VCO is a techno and house artist based in Germany, with 53 gigs on soundcheck across Barcelona, Bergen, Berlin and Bogotá and 6 more. Often billed alongside Handmade, THIRTEEN DOZE and Manuela Mayoral. Next up: Skin Club, Madrid on Fri 13 Nov.
+VCO is a techno and house artist based in Germany, with 55 gigs on soundcheck across Barcelona, Bergen, Berlin and Bogotá and 6 more. Often billed alongside Handmade, THIRTEEN DOZE and Fireground. Next up: Skin Club, Madrid on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Skin Club | Madrid |
+| Mon, 28 Dec 2026 | Tresor / Globus | Berlin |
+| Wed, 30 Dec 2026 | Tresor / Globus | Berlin |
 
 ## Recently played
 
@@ -23,6 +25,6 @@ VCO is a techno and house artist based in Germany, with 53 gigs on soundcheck ac
 
 ## Shares bills with
 
-Handmade, THIRTEEN DOZE, Manuela Mayoral
+Handmade, THIRTEEN DOZE, Fireground
 
 *Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vco/)*

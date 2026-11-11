@@ -1,14 +1,13 @@
 # Machine Girl
 
-Machine Girl is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at IF Performance Hall Beşiktaş, Istanbul on Wed, 11 Nov 2026.
+Machine Girl is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Autódromo de Interlagos, Sao Paulo on Sat, 5 Dec 2026.
 
-Machine Girl is an experimental and techno artist based in United States of America, with 39 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Barcelona and 21 more. Often billed alongside Chaotic Ugly, John Talabot and Nick León. Next up: IF Performance Hall Beşiktaş, Istanbul on Wed 11 Nov.
+Machine Girl is an experimental and techno artist based in United States of America, with 39 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Barcelona and 21 more. Often billed alongside Chaotic Ugly, John Talabot and Nick León. Next up: Autódromo de Interlagos, Sao Paulo on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 11 Nov 2026 | IF Performance Hall Beşiktaş | Istanbul |
 | Sat, 5 Dec 2026 | Autódromo de Interlagos | Sao Paulo |
 
 ## Recently played

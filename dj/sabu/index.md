@@ -1,8 +1,8 @@
 # Sabu!
 
-Sabu! is a Trance and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at RSO.BERLIN, Berlin on Fri, 13 Nov 2026.
+Sabu! is a Trance and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at RSO.BERLIN, Berlin on Fri, 13 Nov 2026.
 
-Sabu! is a trance and techno artist based in Germany, with 143 gigs on soundcheck across Amsterdam, Antwerp, Austria and Berlin and 19 more. Often billed alongside RaverPik, The Jakob Sister and Blame the Booker. Next up: RSO.BERLIN, Berlin on Fri 13 Nov.
+Sabu! is a trance and techno artist based in Germany, with 144 gigs on soundcheck across Amsterdam, Antwerp, Austria and Berlin and 19 more. Often billed alongside RaverPik, The Jakob Sister and Blame the Booker. Next up: RSO.BERLIN, Berlin on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Sabu! is a trance and techno artist based in Germany, with 143 gigs on soundchec
 | Sat, 28 Nov 2026 | Helios37 | Cologne |
 | Sun, 13 Dec 2026 | Blue Velvet | Berlin |
 | Sat, 19 Dec 2026 | Kater | Berlin |
+| Thu, 31 Dec 2026 | Ritter Butzke | Berlin |
 | Wed, 7 Apr 2027 | TBA - Zillertal, Zirmstadl & Kaboom | Austria |
 
 ## Recently played

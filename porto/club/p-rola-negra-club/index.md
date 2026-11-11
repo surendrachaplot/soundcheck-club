@@ -9,7 +9,7 @@ Pérola Negra Club is a music venue in Porto listed on soundcheck. 3 upcoming gi
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Fylhas Do Dragão | ANÍBAL, Deepneue, Djooke, Onio (PT) |
-| Sat, 14 Nov 2026 | La Crème X Celso Fabbri // World Needs Afro | Celso Fabbri, Noone |
+| Sat, 14 Nov 2026 | La Crème X Celso Fabbri // World Needs Afro | Celso Fabbri, NO ONE |
 | Sat, 21 Nov 2026 | Coco Maria | Coco Maria, Helena Guedes |
 
 ## Address

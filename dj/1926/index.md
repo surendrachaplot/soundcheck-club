@@ -1,8 +1,8 @@
 # 19:26
 
-19:26 is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA, Buenos Aires on Fri, 20 Nov 2026.
+19:26 is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA, Buenos Aires on Fri, 20 Nov 2026.
 
-19:26 is a techno and house artist based in Italy, with 85 gigs on soundcheck across Amsterdam, Bali, Barcelona and Basel and 31 more. Often billed alongside Tale Of Us, Chris Avantgarde and Kevin de Vries. Next up: TBA, Buenos Aires on Fri 20 Nov.
+19:26 is a techno and house artist based in Italy, with 86 gigs on soundcheck across Amsterdam, Bali, Barcelona and Basel and 32 more. Often billed alongside Tale Of Us, Chris Avantgarde and Kevin de Vries. Next up: TBA, Buenos Aires on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | TBA | Buenos Aires |
 | Sat, 21 Nov 2026 | Parque Ciudad Empresarial | Santiago |
+| Sat, 6 Feb 2027 | Audio SF | San Francisco/Oakland |
 
 ## Recently played
 

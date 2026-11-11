@@ -8,7 +8,7 @@ Elastica is a music venue in Vilnius listed on soundcheck. 3 upcoming gigs, with
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 12 Nov 2026 | Labirintas 2026 | HASLA, Homemade Explosives, Intakx, JPSC, Jensen Interceptor, LAVION, Lucia Lu, Mechatok, Miles J Paralysis, Moteris, Sarah Sommers, Trippsy, Under Black Helmet, V musique, Valdagger |
+| Thu, 12 Nov 2026 | Labirintas 2026 | HASLA, Homemade Explosives, Intakx, JPSC, Jensen Interceptor, LAVION, Lucia Lu, Mechatok, Miles J Paralysis, Sarah Sommers, Trippsy, Under Black Helmet, Valdagger |
 | Fri, 20 Nov 2026 | Elastica: The Hacker ❚ Dominetrix ❚ Gemayel ❚ TADAS KANI X JOHN PATTER | Dominetrix, Gemayel, The Hacker |
 | Fri, 27 Nov 2026 | Elastica: 999999999 ❚ Acidless ❚ Et Cetera ❚ Mirror Slave | 999999999, Acidless, Et Cetera, Mirror Slave |
 

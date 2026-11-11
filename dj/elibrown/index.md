@@ -1,8 +1,8 @@
 # Eli Brown
 
-Eli Brown is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at City Market, Los Angeles on Sat, 14 Nov 2026.
+Eli Brown is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at City Market, Los Angeles on Sat, 14 Nov 2026.
 
-Eli Brown is a techno and house artist based in United Kingdom, with 171 gigs on soundcheck across Aberdeen, Amsterdam, Athens and Atlanta and 56 more. Often billed alongside Adam Beyer, John Summit and Anfisa Letyago. Next up: City Market, Los Angeles on Sat 14 Nov.
+Eli Brown is a techno and house artist based in United Kingdom, with 172 gigs on soundcheck across Aberdeen, Amsterdam, Athens and Atlanta and 56 more. Often billed alongside Adam Beyer, John Summit and Anfisa Letyago. Next up: City Market, Los Angeles on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Eli Brown is a techno and house artist based in United Kingdom, with 171 gigs on
 | Sat, 21 Nov 2026 | Electric Brixton | London |
 | Thu, 31 Dec 2026 | Petco Park | San-diego |
 | Sat, 2 Jan 2027 | Pier 80 Warehouse | San Francisco/Oakland |
+| Thu, 21 Jan 2027 | Royal Caribbean Cruise Ship | Miami |
 | Thu, 21 Jan 2027 | Royal Caribbean Cruise Ship | Miami |
 
 ## Recently played

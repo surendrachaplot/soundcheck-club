@@ -1,8 +1,8 @@
 # LILLIVEE
 
-LILLIVEE is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Airport Würzburg, Nürnberg on Fri, 20 Nov 2026.
+LILLIVEE is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Airport Würzburg, Nürnberg on Fri, 20 Nov 2026.
 
-LILLIVEE is a techno and trance artist based in Germany, with 43 gigs on soundcheck across Berlin, Cologne, Frankfurt and Karlsruhe and 3 more. Often billed alongside Cassa Cristano, FAROUT and Mantraa. Next up: Airport Würzburg, Nürnberg on Fri 20 Nov.
+LILLIVEE is a techno and trance artist based in Germany, with 44 gigs on soundcheck across Berlin, Cologne, Frankfurt and Karlsruhe and 3 more. Often billed alongside Cassa Cristano, FAROUT and Mantraa. Next up: Airport Würzburg, Nürnberg on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ LILLIVEE is a techno and trance artist based in Germany, with 43 gigs on soundch
 | Fri, 4 Dec 2026 | Airport Würzburg | Nürnberg |
 | Fri, 11 Dec 2026 | Airport Würzburg | Nürnberg |
 | Sat, 19 Dec 2026 | Airport Würzburg | Nürnberg |
+| Sat, 23 Jan 2027 | E-Werk Kulturzentrum | Nürnberg |
 
 ## Recently played
 

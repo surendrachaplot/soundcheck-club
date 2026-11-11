@@ -1,14 +1,13 @@
 # DJ Earl Grey
 
-DJ Earl Grey is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Angel Music Bar, Melbourne on Wed, 11 Nov 2026.
+DJ Earl Grey is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Miscellania, Melbourne on Fri, 20 Nov 2026.
 
-DJ Earl Grey is a house and bass artist, with 44 gigs on soundcheck across Byron Bay, Lisbon, Manchester and Melbourne and 2 more. Often billed alongside Adi Toohey, Deepa and Crybaby. Next up: Angel Music Bar, Melbourne on Wed 11 Nov.
+DJ Earl Grey is a house and bass artist, with 44 gigs on soundcheck across Byron Bay, Lisbon, Manchester and Melbourne and 2 more. Often billed alongside Adi Toohey, Deepa and Crybaby. Next up: Miscellania, Melbourne on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 11 Nov 2026 | Angel Music Bar | Melbourne |
 | Fri, 20 Nov 2026 | Miscellania | Melbourne |
 
 ## Recently played

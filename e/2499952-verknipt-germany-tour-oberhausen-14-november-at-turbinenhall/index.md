@@ -1,6 +1,6 @@
 # VERKNIPT GERMANY TOUR - Oberhausen - 14 November at Turbinenhalle
 
-VERKNIPT GERMANY TOUR - Oberhausen - 14 November at Turbinenhalle on Sat 14 Nov, Oberhausen. 17 artists: Alignment, Anuuk, BOVSKI and IGDA and 13 more. Techno. See the line-up on soundcheck.
+VERKNIPT GERMANY TOUR - Oberhausen - 14 November at Turbinenhalle on Sat 14 Nov, Oberhausen. 18 artists: Alignment, Anuuk, BOVSKI and GO$PEL and 14 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ VERKNIPT GERMANY TOUR - Oberhausen - 14 November at Turbinenhalle on Sat 14 Nov,
 - Alignment
 - Anuuk
 - BOVSKI
+- GO$PEL
 - IGDA
 - IOSIO
 - KRUELTY

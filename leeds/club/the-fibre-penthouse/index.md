@@ -1,6 +1,6 @@
 # The Fibre Penthouse
 
-The Fibre Penthouse is a music venue in Leeds with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "OSCURA FL presents Shingo Nakamura - Braxton - Boxer" on Sat, 14 Nov 2026.
+The Fibre Penthouse is a music venue in Leeds with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "TICKETS ON SKIDDLE ONLY - OSCURA FL presents Shingo Nakamura - Braxton - Boxer" on Sat, 14 Nov 2026.
 
 The Fibre Penthouse is a music venue in Leeds listed on soundcheck. 1 upcoming gig, with line-ups including Boxer, Braxton, Shingo Nakamura and SOBAH. See dates, start times and who's playing. 168 Lower Briggate, Leeds LS1 6LY.
 
@@ -8,7 +8,7 @@ The Fibre Penthouse is a music venue in Leeds listed on soundcheck. 1 upcoming g
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | OSCURA FL presents Shingo Nakamura - Braxton - Boxer | Boxer, Braxton, SOBAH, Shingo Nakamura |
+| Sat, 14 Nov 2026 | TICKETS ON SKIDDLE ONLY - OSCURA FL presents Shingo Nakamura - Braxton - Boxer | Boxer, Braxton, SOBAH, Shingo Nakamura |
 
 ## Address
 

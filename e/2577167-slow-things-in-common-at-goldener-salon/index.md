@@ -1,6 +1,6 @@
 # Slow things in common at Goldener Salon
 
-Slow things in common at Goldener Salon on Sun 15 Nov, Hamburg. 5 artists: ANNAWAFFEL, Mwaah, Schwofdrossel and Sutsche and 1 more. Downtempo. See the line-up on soundcheck.
+Slow things in common at Goldener Salon on Sun 15 Nov, Hamburg. 6 artists: ANNAWAFFEL, Chioma, Mwaah and Schwofdrossel and 2 more. Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Slow things in common at Goldener Salon on Sun 15 Nov, Hamburg. 5 artists: ANNAW
 ## Line-up
 
 - ANNAWAFFEL
+- Chioma
 - Mwaah
 - Schwofdrossel
 - Sutsche

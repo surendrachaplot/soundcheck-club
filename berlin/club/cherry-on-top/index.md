@@ -1,6 +1,6 @@
 # Cherry on Top
 
-Cherry on Top is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "Halloween on the Roof - 2 Floors & Skyline über Berlin" on Sat, 31 Oct 2026.
+Cherry on Top is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "Silvester on the Roof 2026/27 - 2 Floors & Skyline über Berlin" on Thu, 31 Dec 2026.
 
 Cherry on Top is a music venue in Berlin listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -8,6 +8,6 @@ Cherry on Top is a music venue in Berlin listed on soundcheck. 1 upcoming gig. S
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Halloween on the Roof - 2 Floors & Skyline über Berlin |  |
+| Thu, 31 Dec 2026 | Silvester on the Roof 2026/27 - 2 Floors & Skyline über Berlin |  |
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/cherry-on-top/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/cherry-on-top/)*

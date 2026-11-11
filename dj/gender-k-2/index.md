@@ -1,13 +1,14 @@
 # GENDER-K (2)
 
-GENDER-K (2) is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Little Rockers, Okinawa on Fri, 20 Nov 2026.
+GENDER-K (2) is a Techno and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Psyon, Okinawa on Fri, 13 Nov 2026.
 
-GENDER-K is a techno and drum & bass artist based in Japan, with 22 gigs on soundcheck across Okinawa and Tokyo. Often billed alongside EMILIO, KAMIKAZE and MA-KO. Next up: Little Rockers, Okinawa on Fri 20 Nov.
+GENDER-K is a techno and drum & bass artist based in Japan, with 23 gigs on soundcheck across Okinawa and Tokyo. Often billed alongside EMILIO, KAMIKAZE and MA-KO. Next up: Psyon, Okinawa on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | Psyon | Okinawa |
 | Fri, 20 Nov 2026 | Little Rockers | Okinawa |
 
 ## Recently played

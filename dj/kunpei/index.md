@@ -1,8 +1,8 @@
 # KUNPEI
 
-KUNPEI is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at WOMB, Tokyo on Sat, 14 Nov 2026.
+KUNPEI is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at WOMB, Tokyo on Sat, 14 Nov 2026.
 
-KUNPEI is a techno and house artist based in Japan, with 39 gigs on soundcheck across Tokyo. Often billed alongside AMIDAdrive, LogicBeat and Louis Shannon. Next up: WOMB, Tokyo on Sat 14 Nov.
+KUNPEI is a techno and house artist based in Japan, with 40 gigs on soundcheck across Tokyo. Often billed alongside AMIDAdrive, LogicBeat and Louis Shannon. Next up: WOMB, Tokyo on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ KUNPEI is a techno and house artist based in Japan, with 39 gigs on soundcheck a
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | WOMB | Tokyo |
 | Wed, 18 Nov 2026 | Enter Shibuya | Tokyo |
+| Fri, 11 Dec 2026 | WWW | Tokyo |
 
 ## Recently played
 

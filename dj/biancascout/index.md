@@ -1,14 +1,13 @@
 # Bianca Scout
 
-Bianca Scout is a Experimental and Electronica artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Hexagon Brussels, Brussels on Wed, 11 Nov 2026.
+Bianca Scout is a Experimental and Electronica artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Recyclart, Brussels on Sat, 14 Nov 2026.
 
-Bianca Scout is an experimental and electronica artist based in United Kingdom, with 51 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Berlin and 11 more. Often billed alongside Rainy Miller, 2K88 and Lauren Duffus. Next up: Hexagon Brussels, Brussels on Wed 11 Nov.
+Bianca Scout is an experimental and electronica artist based in United Kingdom, with 51 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Berlin and 11 more. Often billed alongside Rainy Miller, 2K88 and Lauren Duffus. Next up: Recyclart, Brussels on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 11 Nov 2026 | Hexagon Brussels | Brussels |
 | Sat, 14 Nov 2026 | Recyclart | Brussels |
 | Wed, 25 Nov 2026 | Milton Court Concert Hall | London |
 | Thu, 10 Dec 2026 | The White Hotel | Manchester |

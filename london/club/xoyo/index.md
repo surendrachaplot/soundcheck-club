@@ -1,8 +1,8 @@
 # XOYO
 
-XOYO is a music venue in London with 38 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "PARADOX" on Wed, 11 Nov 2026.
+XOYO is a music venue in London with 39 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "PARADOX" on Wed, 11 Nov 2026.
 
-XOYO is a music venue in London listed on soundcheck. 38 upcoming gigs, with line-ups including Adela, Alan Fitzpatrick, Andy C and Andy Farley and 2 more. See dates, start times and who's playing. 32-37 Cowper Street; Shoreditch; London EC2A 4AP; United Kingdom.
+XOYO is a music venue in London listed on soundcheck. 39 upcoming gigs, with line-ups including Adela, Alan Fitzpatrick, Andy C and Andy Farley and 2 more. See dates, start times and who's playing. 32-37 Cowper Street; Shoreditch; London EC2A 4AP; United Kingdom.
 
 ## What's on
 

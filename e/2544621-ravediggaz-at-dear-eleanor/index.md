@@ -1,6 +1,6 @@
 # RAVEDIGGAZ at Dear Eleanor
 
-RAVEDIGGAZ at Dear Eleanor on Fri 13 Nov, Miami. 1 artist: Taimur. Minimal and Acid. See the line-up on soundcheck.
+RAVEDIGGAZ at Dear Eleanor on Fri 13 Nov, Miami. 3 artists: Durosai, Seraphim and Taimur. Minimal and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ RAVEDIGGAZ at Dear Eleanor on Fri 13 Nov, Miami. 1 artist: Taimur. Minimal and A
 
 ## Line-up
 
+- Durosai
+- Seraphim
 - Taimur
 
 *Source: [soundcheck](https://soundcheck.club/e/2544621-ravediggaz-at-dear-eleanor/)*

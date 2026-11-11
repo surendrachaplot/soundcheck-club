@@ -1,14 +1,13 @@
 # Rakans
 
-Rakans is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at KREUZWERK, Berlin on Sat, 5 Dec 2026.
+Rakans is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Zinkbad Eventhalle, Zurich on Sat, 12 Dec 2026.
 
-Rakans is a techno and house artist based in Germany, with 119 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 21 more. Often billed alongside VINVAR, Khloe and The Lady Machine. Next up: KREUZWERK, Berlin on Sat 5 Dec.
+Rakans is a techno and house artist based in Germany, with 118 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 21 more. Often billed alongside VINVAR, Khloe and The Lady Machine. Next up: Zinkbad Eventhalle, Zurich on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Dec 2026 | KREUZWERK | Berlin |
 | Sat, 12 Dec 2026 | Zinkbad Eventhalle | Zurich |
 | Thu, 31 Dec 2026 | OST | Berlin |
 

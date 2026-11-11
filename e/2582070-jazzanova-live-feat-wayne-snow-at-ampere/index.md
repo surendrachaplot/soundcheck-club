@@ -1,6 +1,6 @@
 # Jazzanova Live feat. Wayne Snow at Ampere
 
-Jazzanova Live feat. Wayne Snow at Ampere on Sun 6 Dec, Munich. 3 artists: Jazzanova, Michael Reinboth and Wayne Snow. Jazz and Broken Beat. See the line-up on soundcheck.
+Jazzanova Live feat. Wayne Snow at Ampere on Sun 6 Dec, Munich. 3 artists: Jazzanova, Michael Reinboth and Wayne Snow. Broken Beat and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

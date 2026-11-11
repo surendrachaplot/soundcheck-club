@@ -1,14 +1,15 @@
 # DJ Flight
 
-DJ Flight is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Carpet Shop, London on Sun, 15 Nov 2026.
+DJ Flight is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Carpet Shop, London on Sun, 15 Nov 2026.
 
-DJ Flight is a drum & bass and jungle artist based in United Kingdom, with 122 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Berlin and 30 more. Often billed alongside Mantra, SP:MC and MC GQ. Next up: The Carpet Shop, London on Sun 15 Nov.
+DJ Flight is a drum & bass and jungle artist based in United Kingdom, with 123 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Berlin and 30 more. Often billed alongside Mantra, SP:MC and MC GQ. Next up: The Carpet Shop, London on Sun 15 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 15 Nov 2026 | The Carpet Shop | London |
+| Fri, 20 Nov 2026 | FOLD | London |
 | Sat, 21 Nov 2026 | The White Hotel | Manchester |
 | Thu, 22 Jul 2027 | The Garden Tisno | London |
 

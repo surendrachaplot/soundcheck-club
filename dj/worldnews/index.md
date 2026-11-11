@@ -2,7 +2,7 @@
 
 World News is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Treefort Music Hall, Idaho on Wed, 31 Mar 2027.
 
-World News is an experimental and electronica artist based in Canada, with 10 gigs on soundcheck across Idaho and Toronto. Often billed alongside Assassin Bug, Balance and Barbara. Next up: Treefort Music Hall, Idaho on Wed 31 Mar.
+World News is an experimental and electronica artist based in Canada, with 10 gigs on soundcheck across Idaho and Toronto. Often billed alongside Assassin Bug, BULLY and Balance. Next up: Treefort Music Hall, Idaho on Wed 31 Mar.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ World News is an experimental and electronica artist based in Canada, with 10 gi
 
 ## Shares bills with
 
-Assassin Bug, Balance, Barbara
+Assassin Bug, BULLY, Balance
 
 *Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/worldnews/)*

@@ -10,7 +10,7 @@ Madarae San Francisco is a music venue in San Francisco/Oakland listed on soundc
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Sharam (Deep Dish) at MadaRae | Sharam |
 | Sat, 14 Nov 2026 | Nocapz (Hot Creations,) at MadaRae | nocapz. |
-| Fri, 20 Nov 2026 | T-Puse (Indie Dance) | T-Puse |
+| Fri, 20 Nov 2026 | T-Puse (Indie Dance & Melodic House) at Madarae Nightclub San Francisco | T-Puse |
 | Sat, 21 Nov 2026 | DRØP presents OOKAY |  |
 
 ## Address

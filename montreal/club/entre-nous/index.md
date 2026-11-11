@@ -11,6 +11,6 @@ Entre Nous is a music venue in Montreal listed on soundcheck. 4 upcoming gigs, w
 | Fri, 13 Nov 2026 | Inframundo | Astroboii, Kentsuji, Magniphi, Pleurire |
 | Sun, 15 Nov 2026 | Joy Is A Weapon Vol. 5 | Hua Li 化力, Janette King |
 | Sat, 21 Nov 2026 | Fréquence Commune |  |
-| Fri, 4 Dec 2026 | Bass Brigade presents: UK BASS INVASION | GUNS, Magniphi |
+| Fri, 4 Dec 2026 | Bass Brigade presents: UK BASS INVASION | GUNS, Magniphi, Youngsta |
 
 *Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/entre-nous/)*

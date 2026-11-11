@@ -1,14 +1,15 @@
 # N3LYSTAR
 
-N3LYSTAR is a Baile Funk and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Mono, Rotterdam on Fri, 20 Nov 2026.
+N3LYSTAR is a Baile Funk and Rio Funk artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Mono, Rotterdam on Fri, 20 Nov 2026.
 
-N3LYSTAR is a baile funk and club artist based in Brazil, with 59 gigs on soundcheck across Amsterdam, Berlin, Brussels and Dublin and 6 more. Often billed alongside SILVASURFER, auto_timer and GUS. Next up: Mono, Rotterdam on Fri 20 Nov.
+N3LYSTAR is a baile funk and rio funk artist based in Brazil, with 60 gigs on soundcheck across Amsterdam, Berlin, Brussels and Dublin and 7 more. Often billed alongside SILVASURFER, auto_timer and GUS. Next up: Mono, Rotterdam on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Mono | Rotterdam |
+| Mon, 30 Nov 2026 | Ministerium Club | Lisbon |
 
 ## Recently played
 

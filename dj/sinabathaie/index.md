@@ -1,14 +1,13 @@
 # Sina Bathaie
 
-Sina Bathaie is a Downtempo and Deep House artist with 8 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Yost Theater, Orange-county on Wed, 11 Nov 2026.
+Sina Bathaie is a Downtempo and Deep House artist with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Vermont Hollywood, Los Angeles on Thu, 12 Nov 2026.
 
-Sina Bathaie is a downtempo and deep house artist based in Canada, with 116 gigs on soundcheck across Amsterdam, Athens, Atlanta and Auckland and 54 more. Often billed alongside DJ Joeski, Facundo Mohrr and Kora (CA). Next up: Yost Theater, Orange County on Wed 11 Nov.
+Sina Bathaie is a downtempo and deep house artist based in Canada, with 116 gigs on soundcheck across Amsterdam, Athens, Atlanta and Auckland and 54 more. Often billed alongside DJ Joeski, Facundo Mohrr and Kora (CA). Next up: The Vermont Hollywood, Los Angeles on Thu 12 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 11 Nov 2026 | Yost Theater | Orange-county |
 | Thu, 12 Nov 2026 | The Vermont Hollywood | Los Angeles |
 | Sat, 14 Nov 2026 | Quartyard | San Diego |
 | Mon, 23 Nov 2026 | Arts at the Armory | Massachusetts |

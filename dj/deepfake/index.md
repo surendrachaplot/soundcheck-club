@@ -1,13 +1,14 @@
 # DEEPFAKE
 
-DEEPFAKE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Royal Caribbean Cruise Ship, Miami on Thu, 21 Jan 2027.
+DEEPFAKE is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Royal Caribbean Cruise Ship, Miami on Thu, 21 Jan 2027.
 
-DEEPFAKE is a techno and house artist based in United States of America, with 18 gigs on soundcheck across Austin, Charlotte, Chicago and Detroit and 4 more. Often billed alongside RAEDY LEX, Anthony Attalla and Drop Catch. Next up: Royal Caribbean Cruise Ship, Miami on Thu 21 Jan.
+DEEPFAKE is a techno and house artist based in United States of America, with 19 gigs on soundcheck across Austin, Charlotte, Chicago and Detroit and 4 more. Often billed alongside Anthony Attalla, Gene Farris and Maxinne. Next up: Royal Caribbean Cruise Ship, Miami on Thu 21 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 21 Jan 2027 | Royal Caribbean Cruise Ship | Miami |
 | Thu, 21 Jan 2027 | Royal Caribbean Cruise Ship | Miami |
 
 ## Recently played
@@ -23,6 +24,6 @@ DEEPFAKE is a techno and house artist based in United States of America, with 18
 
 ## Shares bills with
 
-RAEDY LEX, Anthony Attalla, Drop Catch
+Anthony Attalla, Gene Farris, Maxinne
 
 *Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deepfake/)*

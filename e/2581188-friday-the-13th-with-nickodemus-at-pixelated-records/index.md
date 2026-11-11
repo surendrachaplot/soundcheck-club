@@ -1,6 +1,6 @@
 # FRIDAY THE 13th with Nickodemus at Pixelated Records
 
-FRIDAY THE 13th with Nickodemus at Pixelated Records on Fri 13 Nov, New York City. 3 artists: Alan Morehouse, Nickodemus and Soultek. Deep House and Afro House. See the line-up on soundcheck.
+FRIDAY THE 13th with Nickodemus at Pixelated Records on Fri 13 Nov, New York City. 3 artists: Alan Morehouse, Nickodemus and Soultek. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

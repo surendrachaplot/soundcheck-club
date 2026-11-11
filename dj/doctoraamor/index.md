@@ -1,8 +1,8 @@
 # Doctora Amor
 
-Doctora Amor is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TORTE BAR, Berlin on Thu, 19 Nov 2026.
+Doctora Amor is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TORTE BAR, Berlin on Thu, 19 Nov 2026.
 
-Doctora Amor is a house and techno artist based in Germany, with 17 gigs on soundcheck across Berlin. Often billed alongside CHRANDY, Agua con gas and Femur. Next up: TORTE BAR, Berlin on Thu 19 Nov.
+Doctora Amor is a house and techno artist based in Germany, with 19 gigs on soundcheck across Berlin. Often billed alongside CHRANDY, Agua con gas and Femur. Next up: TORTE BAR, Berlin on Thu 19 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,8 @@ Doctora Amor is a house and techno artist based in Germany, with 17 gigs on soun
 | --- | --- | --- |
 | Thu, 19 Nov 2026 | TORTE BAR | Berlin |
 | Sat, 5 Dec 2026 | Renate | Berlin |
+| Mon, 28 Dec 2026 | Tresor / Globus | Berlin |
+| Thu, 31 Dec 2026 | Tresor / Globus | Berlin |
 
 ## Recently played
 

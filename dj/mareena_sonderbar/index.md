@@ -1,8 +1,8 @@
 # Mareena
 
-Mareena is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Cadavra, Madrid on Thu, 12 Nov 2026.
+Mareena is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Cadavra, Madrid on Thu, 12 Nov 2026.
 
-Mareena is a techno and house artist based in Germany, with 132 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 42 more. Often billed alongside Kerrie, JakoJako and Stojche. Next up: Cadavra, Madrid on Thu 12 Nov.
+Mareena is a techno and house artist based in Germany, with 134 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 42 more. Often billed alongside Kerrie, Bloody Mary and JakoJako. Next up: Cadavra, Madrid on Thu 12 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,8 @@ Mareena is a techno and house artist based in Germany, with 132 gigs on soundche
 | Thu, 12 Nov 2026 | Cadavra | Madrid |
 | Fri, 13 Nov 2026 | CLUB RAUM | Amsterdam |
 | Fri, 20 Nov 2026 | KREUZWERK | Berlin |
+| Mon, 28 Dec 2026 | Tresor / Globus | Berlin |
+| Sat, 2 Jan 2027 | Tresor / Globus | Berlin |
 
 ## Recently played
 
@@ -25,6 +27,6 @@ Mareena is a techno and house artist based in Germany, with 132 gigs on soundche
 
 ## Shares bills with
 
-Kerrie, JakoJako, Stojche
+Kerrie, Bloody Mary, JakoJako
 
 *Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mareena_sonderbar/)*

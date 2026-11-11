@@ -1,8 +1,8 @@
 # RaverPik
 
-RaverPik is a Trance and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at RSO.BERLIN, Berlin on Fri, 13 Nov 2026.
+RaverPik is a Trance and Techno artist with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at RSO.BERLIN, Berlin on Fri, 13 Nov 2026.
 
-RaverPik is a trance and techno artist based in Germany, with 117 gigs on soundcheck across Amsterdam, Austria, Basel and Berlin and 22 more. Often billed alongside Sabu!, The Jakob Sister and Blame the Booker. Next up: RSO.BERLIN, Berlin on Fri 13 Nov.
+RaverPik is a trance and techno artist based in Germany, with 118 gigs on soundcheck across Amsterdam, Austria, Basel and Berlin and 22 more. Often billed alongside Sabu!, The Jakob Sister and Blame the Booker. Next up: RSO.BERLIN, Berlin on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ RaverPik is a trance and techno artist based in Germany, with 117 gigs on soundc
 | Fri, 27 Nov 2026 | ://about blank | Berlin |
 | Sat, 28 Nov 2026 | Helios37 | Cologne |
 | Sat, 19 Dec 2026 | elipamanoke | Leipzig |
+| Thu, 31 Dec 2026 | Ritter Butzke | Berlin |
 | Wed, 7 Apr 2027 | TBA - Zillertal, Zirmstadl & Kaboom | Austria |
 
 ## Recently played

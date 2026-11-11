@@ -1,0 +1,13 @@
+# Studio EW
+
+Studio EW is a music venue in Sofia with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "Pay Con Ed Electric Bill Online - Secure Payment Portal" on Sat, 14 Nov 2026.
+
+Studio EW is a music venue in Sofia listed on soundcheck. 1 upcoming gig, with line-ups including AnD. See dates, start times and who's playing.
+
+## What's on
+
+| Date | Gig | Line-up |
+| --- | --- | --- |
+| Sat, 14 Nov 2026 | Pay Con Ed Electric Bill Online - Secure Payment Portal | AnD |
+
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/sofia/club/studio-ew/)*

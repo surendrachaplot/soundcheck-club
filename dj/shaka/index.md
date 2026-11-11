@@ -1,14 +1,15 @@
 # Shaka
 
-Shaka is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at DEX, Moscow on Fri, 13 Nov 2026.
+Shaka is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at DEX, Moscow on Fri, 13 Nov 2026.
 
-Shaka is a disco and house artist based in Switzerland, with 9 gigs on soundcheck across Basel, Moscow and Tokyo. Often billed alongside Folamour, HIKARU and MICO. Next up: DEX, Moscow on Fri 13 Nov.
+Shaka is a disco and house artist based in Switzerland, with 10 gigs on soundcheck across Basel, Moscow and Tokyo. Often billed alongside Folamour, HIKARU and MICO. Next up: DEX, Moscow on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | DEX | Moscow |
+| Sat, 21 Nov 2026 | Nordstern | Basel |
 
 ## Recently played
 

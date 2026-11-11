@@ -16,7 +16,7 @@ Void Club is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, wit
 | Sat, 28 Nov 2026 | 8 Years Expedicion with Mountain (JP), Jabba, Jumpat, Upzet, Iza, edgarwilles, Astraluna | Crashkitt, IZA (6), Jame Zname, Kimby, Upzet, Wi5dom, edgarwilles, kogo.berlin |
 | Fri, 11 Dec 2026 | Face 2 Face by Kinder der Nacht | GHOST DE, Rob Robsen, Talla 2XLC |
 | Sat, 12 Dec 2026 | Dionys x I Love Modus: Hardtechno x Trance/Bounce Rave (2 Floors) | Brizze, e.leptic |
-| Fri, 18 Dec 2026 | Free Party | Anna Hoeber, Upzet |
+| Fri, 18 Dec 2026 | Free Party | Anna Hoeber, Theo Slickers, Upzet |
 | Sat, 19 Dec 2026 | Split Signal - Face2face & Back2back | Dirty Plates (2), IZA (6), K.EULE, LOUPING, Lay.Dee Strange, Mr.Lafont, Soniq, Upzet, kutscher |
 
 ## Address

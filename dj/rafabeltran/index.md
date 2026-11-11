@@ -1,13 +1,14 @@
 # Rafa Beltran
 
-Rafa Beltran is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at CHICO, Mexico City on Sat, 26 Dec 2026.
+Rafa Beltran is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Brutal Mx, Mexico City on Sat, 5 Dec 2026.
 
-Rafa Beltran is a techno and hardcore artist based in Mexico, with 17 gigs on soundcheck across Mexico City. Often billed alongside Magnolia Coronado, Bruno Salfi and Dj Fucci. Next up: CHICO, Mexico City on Sat 26 Dec.
+Rafa Beltran is a techno and hardcore artist based in Mexico, with 18 gigs on soundcheck across Mexico City. Often billed alongside Magnolia Coronado, Ann García and Bruno Salfi. Next up: Brutal Mx, Mexico City on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Dec 2026 | Brutal Mx | Mexico City |
 | Sat, 26 Dec 2026 | CHICO | Mexico City |
 
 ## Recently played
@@ -23,6 +24,6 @@ Rafa Beltran is a techno and hardcore artist based in Mexico, with 17 gigs on so
 
 ## Shares bills with
 
-Magnolia Coronado, Bruno Salfi, Dj Fucci
+Magnolia Coronado, Ann García, Bruno Salfi
 
 *Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rafabeltran/)*

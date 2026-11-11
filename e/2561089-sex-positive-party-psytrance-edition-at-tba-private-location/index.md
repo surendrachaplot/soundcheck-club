@@ -1,6 +1,6 @@
-# Sex-positive party: Psytrance Edition at TBA - private location in Barcelona, will be shared to ticket holders 48h before the event
+# Sex-positive party: Psytrance Edition // at TBA - private location in Barcelona, will be shared to ticket holders 48h before the event
 
-Sex-positive party: Psytrance Edition at TBA - private location in Barcelona, will be shared to ticket holders 48h before the event on Fri 20 Nov, Barcelona. Psytrance. See the line-up on soundcheck.
+Sex-positive party: Psytrance Edition // at TBA - private location in Barcelona, will be shared to ticket holders 48h before the event on Fri 20 Nov, Barcelona. Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

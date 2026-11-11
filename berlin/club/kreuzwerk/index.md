@@ -13,7 +13,7 @@ KREUZWERK is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, wit
 | Fri, 20 Nov 2026 | ABOV | Beatrice (DE), Mareena, Volvox |
 | Fri, 27 Nov 2026 | Power Dance Club | Amanda Mussi, Byron Yeates, E-Talking, Luigi Di Venere, Majdolen, Maria Politi, Stathis (GR) |
 | Fri, 4 Dec 2026 | M.Á.S | Jana Falcon, KUSS, Mohajer, Rachel Noon, Rachel de Moncuit, Volpe |
-| Sat, 5 Dec 2026 | Miss Dreamz presents: FERAL with BØX, Rawmantique and Tanga | ALP (DE), Aunty Nora, CLEO, Huamaniser, Lixi, Mama Yha Yha, Nycky Estrella, Ojos de miel, Rakans, Sub Sahara, VRTL |
+| Sat, 5 Dec 2026 | Miss Dreamz presents: FERAL with BØX, Rawmantique and Tanga | ALP (DE), Aunty Nora, CLEO, Huamaniser, KVKN, Lixi, Mama Yha Yha, Nycky Estrella, Ojos de miel, Sub Sahara, VRTL |
 | Sat, 19 Dec 2026 | OVERLOAD #5 |  |
 | Sat, 26 Dec 2026 | Vault Sessions x Primal Instinct - 32 HR WKNDR | Amphia, Ana Rs, BENZA, BUTZ, Chlär, Danya (DE), FENIM0RE, GLIA, HAMY, Kameliia, Katia Curie, Kim She, Lobster (NL), Mac Declos, Maōh, Naomi (Berlin), Stef Mendesidis, The Chronics, Toobris, VSC (Vault Sessions Collective), Yanamaste, evin |
 | Fri, 1 Jan 2027 | Power Dance Club NYD 2027 |  |

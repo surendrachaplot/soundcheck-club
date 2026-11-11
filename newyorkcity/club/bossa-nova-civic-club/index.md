@@ -1,8 +1,8 @@
 # Bossa Nova Civic Club
 
-Bossa Nova Civic Club is a music venue in New York City with 34 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "MASCHINENHALLE: BODY SHIFT - ft Nikitaurech, Moment of Terror, XSB-R" on Wed, 11 Nov 2026.
+Bossa Nova Civic Club is a music venue in New York City with 35 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "MASCHINENHALLE: BODY SHIFT - ft Nikitaurech, Moment of Terror, XSB-R" on Wed, 11 Nov 2026.
 
-Bossa Nova Civic Club is a music venue in New York City listed on soundcheck. 34 upcoming gigs, with line-ups including 1-800 GIRLS, DJ.K2, AceMo and Adam X and 2 more. See dates, start times and who's playing. 1271 Myrtle Ave; Brooklyn, NY 11221; United States.
+Bossa Nova Civic Club is a music venue in New York City listed on soundcheck. 35 upcoming gigs, with line-ups including 1-800 GIRLS, DJ.K2, AceMo and Adam X and 2 more. See dates, start times and who's playing. 1271 Myrtle Ave; Brooklyn, NY 11221; United States.
 
 ## What's on
 

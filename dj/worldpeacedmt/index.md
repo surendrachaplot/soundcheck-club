@@ -1,14 +1,13 @@
 # Worldpeace DMT
 
-Worldpeace DMT is a Experimental and Pop artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Lark, Berlin on Tue, 10 Nov 2026.
+Worldpeace DMT is a Experimental and Pop artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Treefort Music Hall, Idaho on Wed, 31 Mar 2027.
 
-Worldpeace DMT is an experimental and pop artist based in United Kingdom, with 16 gigs on soundcheck across Berlin, Brussels, Glasgow and Idaho and 7 more. Often billed alongside DJ Plead, DJ Python and JASSS. Next up: Lark, Berlin on Tue 10 Nov.
+Worldpeace DMT is an experimental and pop artist based in United Kingdom, with 16 gigs on soundcheck across Berlin, Brussels, Glasgow and Idaho and 7 more. Often billed alongside DJ Plead, DJ Python and JASSS. Next up: Treefort Music Hall, Idaho on Wed 31 Mar.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 10 Nov 2026 | Lark | Berlin |
 | Wed, 31 Mar 2027 | Treefort Music Hall | Idaho |
 
 ## Recently played

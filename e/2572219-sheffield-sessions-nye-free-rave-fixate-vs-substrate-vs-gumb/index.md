@@ -1,10 +1,10 @@
 # Sheffield Sessions: NYE Free Rave [Fixate vs Substrate vs Gumbo FM] at Panke Social
 
-Sheffield Sessions: NYE Free Rave [Fixate vs Substrate vs Gumbo FM] at Panke Social on Wed 30 Dec, Sheffield. 3 artists: Cimmerian, Move Elusive and Olórin. Drum & Bass and Techno. See the line-up on soundcheck.
+Sheffield Sessions: NYE Free Rave [Fixate vs Substrate vs Gumbo FM] at Panke Social on Thu 31 Dec, Sheffield. 3 artists: Cimmerian, Move Elusive and Olórin. Drum & Bass and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Wed, 30 Dec 2026 |
+| Date | Thu, 31 Dec 2026 |
 | Venue | Panke Social |
 | City | Sheffield |
 

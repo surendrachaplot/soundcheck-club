@@ -1,13 +1,14 @@
 # Miss Djax
 
-Miss Djax is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Cause, London on Sat, 6 Mar 2027.
+Miss Djax is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Paradigm, Netherlands on Sat, 30 Jan 2027.
 
-Miss Djax is a techno and acid artist based in Netherlands, with 18 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 8 more. Often billed alongside KlangKuenstler, Klaudia Gawlas and Marco Bailey. Next up: The Cause, London on Sat 6 Mar.
+Miss Djax is a techno and acid artist based in Netherlands, with 19 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 9 more. Often billed alongside Speedy J, Felix Kröcher and KlangKuenstler. Next up: Paradigm, Netherlands on Sat 30 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 30 Jan 2027 | Paradigm | Netherlands |
 | Sat, 6 Mar 2027 | The Cause | London |
 
 ## Recently played
@@ -23,6 +24,6 @@ Miss Djax is a techno and acid artist based in Netherlands, with 18 gigs on soun
 
 ## Shares bills with
 
-KlangKuenstler, Klaudia Gawlas, Marco Bailey
+Speedy J, Felix Kröcher, KlangKuenstler
 
 *Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/missdjax/)*

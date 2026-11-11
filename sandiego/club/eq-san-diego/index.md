@@ -1,8 +1,8 @@
 # EQ San Diego
 
-EQ San Diego is a music venue in San Diego with 11 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "REVERB: HARDGROOVE" on Thu, 12 Nov 2026.
+EQ San Diego is a music venue in San Diego with 12 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "REVERB: HARDGROOVE" on Thu, 12 Nov 2026.
 
-EQ San Diego is a music venue in San Diego listed on soundcheck. 11 upcoming gigs, with line-ups including Baby Jane, Damian Kuro, Dekmantel Soundsystem and Dianthe and 2 more. See dates, start times and who's playing. 1271 University Ave San Diego, CA 92103.
+EQ San Diego is a music venue in San Diego listed on soundcheck. 12 upcoming gigs, with line-ups including Baby Jane, Damian Kuro, Dekmantel Soundsystem and Dianthe and 2 more. See dates, start times and who's playing. 1271 University Ave San Diego, CA 92103.
 
 ## What's on
 
@@ -13,11 +13,11 @@ EQ San Diego is a music venue in San Diego listed on soundcheck. 11 upcoming gig
 | Tue, 17 Nov 2026 | LED presents RØZ [After Party] |  |
 | Thu, 19 Nov 2026 | REVERB x Los Perros | JAQ.XS |
 | Fri, 20 Nov 2026 | FNGRS CRSSD presents Rinzen | Rinzen |
+| Sat, 21 Nov 2026 | DISCO S!UT |  |
 | Sun, 29 Nov 2026 | OVERDRIVE PRESENTS: BAILE F**K VOL. 006 with BGZ | Nukumori |
 | Thu, 3 Dec 2026 | The Techno Jungle | Dianthe, Josh Taylor |
 | Fri, 4 Dec 2026 | LED presents The Widdler with Die By The Sword + PHIR |  |
 | Fri, 18 Dec 2026 | LED presents Baby Jane | Baby Jane |
-| Fri, 5 Feb 2027 | LED presents Artifakts x Parkbreezy |  |
 
 ## Address
 

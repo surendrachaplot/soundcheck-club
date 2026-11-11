@@ -1,8 +1,8 @@
 # Eventhuset
 
-Eventhuset is a music venue in Stockholm with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "hypnorex [Berlin], 'Mindbender', Momenth, The Machine Soul, Högt I Tak, Yomi One, Nevada Cato" on Sat, 14 Nov 2026.
+Eventhuset is a music venue in Stockholm with 8 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "hypnorex [Berlin], 'Mindbender', Momenth, The Machine Soul, Högt I Tak, Yomi One, Nevada Cato" on Sat, 14 Nov 2026.
 
-Eventhuset is a music venue in Stockholm listed on soundcheck. 7 upcoming gigs, with line-ups including ARANEA, Billie Jo, BMI (GE) and CC Luna and 2 more. See dates, start times and who's playing. Vretensborgsvägen 5, 12630 Hägersten.
+Eventhuset is a music venue in Stockholm listed on soundcheck. 8 upcoming gigs, with line-ups including ARANEA, Billie Jo, BMI (GE) and CC Luna and 2 more. See dates, start times and who's playing. Vretensborgsvägen 5, 12630 Hägersten.
 
 ## What's on
 
@@ -13,6 +13,7 @@ Eventhuset is a music venue in Stockholm listed on soundcheck. 7 upcoming gigs, 
 | Fri, 27 Nov 2026 | HYPPNOS (PSY) > MaSec > Dj RON > ROKKAZ > TISSLA > FANTAPSY > TYSTYLE > HOLTTER |  |
 | Sat, 28 Nov 2026 | BRONX > LAMACHINE (STHLM) > ARANEA (GBG) > PAUL FITZGIBBON (Ireland) > Billie Jo > Queen E | ARANEA, Billie Jo, Evelina Nässén, LAMACHINE, Paul Fitzgibbon, Queen E |
 | Sat, 5 Dec 2026 | CC Luna invites Berlin and Tiblisi Dj  Connor Wall and BMI (Bakur Metreveli Interplanetary) | BMI (GE), CC Luna, Connor Wall |
+| Fri, 11 Dec 2026 | Peggy Gou Unofficial After Party. 150kr ÖPPNAR 03:00 efter Peggy på Banankompaniet |  |
 | Sat, 12 Dec 2026 | Younger Than Me >> Lana Dushe (EE) >> MERILIN | Lana Dushe, MERILIN, Younger Than Me |
 | Thu, 31 Dec 2026 | BRONX New Year's Eve Special International guests 2 floor |  |
 

@@ -1,8 +1,8 @@
 # Silva Bumpa
 
-Silva Bumpa is a Garage and House artist with 10 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at One22, Canberra on Thu, 19 Nov 2026.
+Silva Bumpa is a Garage and House artist with 11 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at One22, Canberra on Thu, 19 Nov 2026.
 
-Silva Bumpa is a garage and house artist based in United Kingdom, with 229 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Antwerp and 58 more. Often billed alongside Soul Mass Transit System, Prozak (IRL) and Main Phase. Next up: One22, Canberra on Thu 19 Nov.
+Silva Bumpa is a garage and house artist based in United Kingdom, with 230 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Antwerp and 58 more. Often billed alongside Soul Mass Transit System, Prozak (IRL) and Main Phase. Next up: One22, Canberra on Thu 19 Nov.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Silva Bumpa is a garage and house artist based in United Kingdom, with 229 gigs 
 | Fri, 27 Nov 2026 | Circus Osaka | Osaka |
 | Sat, 28 Nov 2026 | Circus Tokyo | Tokyo |
 | Fri, 18 Dec 2026 | Depot Mayfield | Manchester |
+| Thu, 21 Jan 2027 | Royal Caribbean Cruise Ship | Miami |
 | Thu, 21 Jan 2027 | Royal Caribbean Cruise Ship | Miami |
 | Sat, 30 Jan 2027 | Klokgebouw | Eindhoven |
 

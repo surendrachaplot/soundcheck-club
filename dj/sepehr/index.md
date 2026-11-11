@@ -1,8 +1,8 @@
 # Sepehr
 
-Sepehr is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at RSO.BERLIN, Berlin on Fri, 20 Nov 2026.
+Sepehr is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at RSO.BERLIN, Berlin on Fri, 20 Nov 2026.
 
-Sepehr is a techno and house artist based in United States of America, with 144 gigs on soundcheck across Amsterdam, Baltimore, Barcelona and Beijing and 41 more. Often billed alongside Objekt, Aurora Halal and Elena Colombi. Next up: RSO.BERLIN, Berlin on Fri 20 Nov.
+Sepehr is a techno and house artist based in United States of America, with 146 gigs on soundcheck across Amsterdam, Baltimore, Barcelona and Beijing and 41 more. Often billed alongside Objekt, Aurora Halal and Elena Colombi. Next up: RSO.BERLIN, Berlin on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,8 @@ Sepehr is a techno and house artist based in United States of America, with 144 
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | RSO.BERLIN | Berlin |
 | Sat, 21 Nov 2026 | Zentralwäscherei | Zurich |
+| Mon, 28 Dec 2026 | Tresor / Globus | Berlin |
+| Sat, 2 Jan 2027 | Tresor / Globus | Berlin |
 | Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
 
 ## Recently played

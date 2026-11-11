@@ -1,14 +1,14 @@
 # Ponygirl
 
-Ponygirl is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Marmorbar, Berlin on Thu, 12 Nov 2026.
+Ponygirl is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Muschi Obermaier, Berlin on Thu, 12 Nov 2026.
 
-Ponygirl is a techno and trance artist based in Germany, with 87 gigs on soundcheck across Berlin, Brussels, Cologne and Copenhagen and 9 more. Often billed alongside Sylvie Maziarz, Kim Valmount and alemiko. Next up: Marmorbar, Berlin on Thu 12 Nov.
+Ponygirl is a techno and trance artist based in Germany, with 87 gigs on soundcheck across Berlin, Brussels, Cologne and Copenhagen and 9 more. Often billed alongside Sylvie Maziarz, Kim Valmount and alemiko. Next up: Muschi Obermaier, Berlin on Thu 12 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 12 Nov 2026 | Marmorbar | Berlin |
+| Thu, 12 Nov 2026 | Muschi Obermaier | Berlin |
 | Sat, 14 Nov 2026 | MTW | Frankfurt |
 | Sat, 6 Feb 2027 | WDM | Hannover |
 

@@ -1,8 +1,8 @@
 # Peggy Gou
 
-Peggy Gou is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 21 Nov 2026.
+Peggy Gou is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 21 Nov 2026.
 
-Peggy Gou is a house and techno artist based in Germany, with 116 gigs on soundcheck across Adelaide, Amsterdam, Austin and Bali and 51 more. Often billed alongside ANOTR, Chloé Caillet and Mochakk. Next up: Depot Mayfield, Manchester on Sat 21 Nov.
+Peggy Gou is a house and techno artist based in Germany, with 117 gigs on soundcheck across Adelaide, Amsterdam, Austin and Bali and 51 more. Often billed alongside ANOTR, Chloé Caillet and Mochakk. Next up: Depot Mayfield, Manchester on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Peggy Gou is a house and techno artist based in Germany, with 116 gigs on soundc
 | Sat, 21 Nov 2026 | Depot Mayfield | Manchester |
 | Sat, 28 Nov 2026 | TBA - Estadio Fray Nano  | Mexico City |
 | Fri, 11 Dec 2026 | Banan Kompaniet | Stockholm |
+| Sat, 6 Feb 2027 | Museu do Amanhã | Rio de Janeiro |
 | Thu, 17 Jun 2027 | TBA - Barcelona (Sónar by Day) & Fira Gran Via (Sónar by Night) | Barcelona |
 
 ## Recently played

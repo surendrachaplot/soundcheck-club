@@ -1,13 +1,14 @@
 # Tasha Safari
 
-Tasha Safari is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Renate, Berlin on Fri, 4 Dec 2026.
+Tasha Safari is a Techno and EBM artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at control, Bucharest on Fri, 20 Nov 2026.
 
-Tasha Safari is a techno and ebm artist based in Azerbaijan, with 43 gigs on soundcheck across Amsterdam, Beijing, Berlin and Bologna and 8 more. Often billed alongside Alessandro Adriani, DAHRAXT and L.F.T.. Next up: Renate, Berlin on Fri 4 Dec.
+Tasha Safari is a techno and ebm artist based in Azerbaijan, with 44 gigs on soundcheck across Amsterdam, Beijing, Berlin and Bologna and 8 more. Often billed alongside Alessandro Adriani, DAHRAXT and L.F.T.. Next up: control, Bucharest on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | control | Bucharest |
 | Fri, 4 Dec 2026 | Renate | Berlin |
 
 ## Recently played

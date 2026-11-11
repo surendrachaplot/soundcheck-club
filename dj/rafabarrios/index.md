@@ -1,14 +1,15 @@
 # Rafa Barrios
 
-Rafa Barrios is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Descent, Boston on Fri, 13 Nov 2026.
+Rafa Barrios is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Descent, Boston on Fri, 13 Nov 2026.
 
-Rafa Barrios is a tech house and house artist based in Spain, with 87 gigs on soundcheck across Austin, Barcelona, Berlin and Bogotá and 23 more. Often billed alongside Paco Osuna, Hector Couto and Chelina Manuhutu. Next up: Descent, Boston on Fri 13 Nov.
+Rafa Barrios is a tech house and house artist based in Spain, with 88 gigs on soundcheck across Austin, Barcelona, Berlin and Bogotá and 23 more. Often billed alongside Paco Osuna, Hector Couto and Chelina Manuhutu. Next up: Descent, Boston on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Descent | Boston |
+| Wed, 25 Nov 2026 | Bauhaus | Houston |
 | Sat, 28 Nov 2026 | Spybar | Chicago |
 
 ## Recently played

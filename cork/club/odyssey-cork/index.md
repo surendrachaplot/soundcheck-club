@@ -1,13 +1,13 @@
 # Odyssey Cork
 
-Odyssey Cork is a music venue in Cork with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. The next is "Omni presents Tommy Phillips" on Tue, 20 Oct 2026.
+Odyssey Cork is a music venue in Cork with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "Odyssey presents Phats and Small" on Fri, 27 Nov 2026.
 
-Odyssey Cork is a music venue in Cork listed on soundcheck. 1 upcoming gig, with line-ups including Tommy Phillips. See dates, start times and who's playing.
+Odyssey Cork is a music venue in Cork listed on soundcheck. 1 upcoming gig, with line-ups including Phats & Small. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 20 Oct 2026 | Omni presents Tommy Phillips | Tommy Phillips |
+| Fri, 27 Nov 2026 | Odyssey presents Phats and Small | Phats & Small |
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/cork/club/odyssey-cork/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/cork/club/odyssey-cork/)*

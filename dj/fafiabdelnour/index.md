@@ -1,14 +1,13 @@
 # Fafi Abdel Nour
 
-Fafi Abdel Nour is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Ghent, Ghent on Wed, 11 Nov 2026.
+Fafi Abdel Nour is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at fabric, London on Sat, 14 Nov 2026.
 
-Fafi Abdel Nour is a house and techno artist based in Netherlands, with 233 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 60 more. Often billed alongside Jennifer Loveless, Shanti Celeste and ISAbella. Next up: TBA - Ghent, Ghent on Wed 11 Nov.
+Fafi Abdel Nour is a house and techno artist based in Netherlands, with 233 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 60 more. Often billed alongside Jennifer Loveless, Shanti Celeste and ISAbella. Next up: fabric, London on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 11 Nov 2026 | TBA - Ghent | Ghent |
 | Sat, 14 Nov 2026 | fabric | London |
 | Fri, 11 Dec 2026 | FLUCC | Vienna |
 | Fri, 18 Dec 2026 | Ancienne Belgique (AB) | Brussels |

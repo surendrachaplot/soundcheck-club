@@ -2,7 +2,7 @@
 
 Insomnia is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Hello Insomnia" on Wed, 11 Nov 2026.
 
-Insomnia is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with line-ups including Diana May, Emmanuelle 5, Epicx and Felix Reichelt and 2 more. See dates, start times and who's playing. Alt-Tempelhof 17-19, 12099 Berlin.
+Insomnia is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with line-ups including Diana May, e.leptic, Emmanuelle 5 and Epicx and 2 more. See dates, start times and who's playing. Alt-Tempelhof 17-19, 12099 Berlin.
 
 ## What's on
 

@@ -1,13 +1,14 @@
 # Nunzio Borino
 
-Nunzio Borino is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Golden Lion, Manchester on Sat, 6 Feb 2027.
+Nunzio Borino is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at I Candelai, Sicily on Fri, 13 Nov 2026.
 
-Nunzio Borino is a house and techno artist based in Italy, with 23 gigs on soundcheck across Amsterdam, Berlin, Bologna and Florence and 5 more. Often billed alongside Vladimir Ivkovic, Ricardo Baez and Billy Idle. Next up: The Golden Lion, Manchester on Sat 6 Feb.
+Nunzio Borino is a house and techno artist based in Italy, with 24 gigs on soundcheck across Amsterdam, Berlin, Bologna and Florence and 5 more. Often billed alongside Vladimir Ivkovic, Ricardo Baez and Billy Idle. Next up: I Candelai, Sicily on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | I Candelai | Sicily |
 | Sat, 6 Feb 2027 | The Golden Lion | Manchester |
 | Sun, 19 Mar 2028 | I Candelai | Sicily |
 

@@ -1,14 +1,16 @@
 # Nadia Struiwigh
 
-Nadia Struiwigh is a Techno and Electronica artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at CLUB RAUM, Amsterdam on Sat, 5 Dec 2026.
+Nadia Struiwigh is a Techno and Electronica artist with 6 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at CLUB RAUM, Amsterdam on Sat, 5 Dec 2026.
 
-Nadia Struiwigh is a techno and electronica artist based in Germany, with 95 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 21 more. Often billed alongside .VRIL, DJ MELL G and Fireground. Next up: CLUB RAUM, Amsterdam on Sat 5 Dec.
+Nadia Struiwigh is a techno and electronica artist based in Germany, with 97 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 21 more. Often billed alongside .VRIL, Fireground and DJ MELL G. Next up: CLUB RAUM, Amsterdam on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | CLUB RAUM | Amsterdam |
+| Mon, 28 Dec 2026 | Tresor / Globus | Berlin |
+| Tue, 29 Dec 2026 | Tresor / Globus | Berlin |
 | Thu, 31 Dec 2026 | Tempio del Futuro Perduto | Milan |
 | Fri, 29 Jan 2027 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 2 Jul 2027 | TBA - Veta Festival, Barruelo de Santullán | North |
@@ -26,6 +28,6 @@ Nadia Struiwigh is a techno and electronica artist based in Germany, with 95 gig
 
 ## Shares bills with
 
-.VRIL, DJ MELL G, Fireground
+.VRIL, Fireground, DJ MELL G
 
 *Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nadiastruiwigh/)*

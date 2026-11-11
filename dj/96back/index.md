@@ -1,14 +1,14 @@
 # 96 Back
 
-96 Back is a Experimental and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Uhelný Mlýn, Prague on Sat, 14 Nov 2026.
+96 Back is a Experimental and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Uhelný Mlýn, Prague on Sat, 14 Nov 2026.
 
-96 Back is an experimental and techno artist based in United Kingdom, with 56 gigs on soundcheck across Beijing, Berlin, Bristol and Brussels and 16 more. Often billed alongside aya, Jennifer Walton and MYNA. Next up: TBA - Uhelný Mlýn, Prague on Sat 14 Nov.
+96 Back is an experimental and techno artist based in United Kingdom, with 56 gigs on soundcheck across Beijing, Berlin, Bristol and Brussels and 16 more. Often billed alongside aya, Jennifer Walton and MYNA. Next up: Uhelný Mlýn, Prague on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | TBA - Uhelný Mlýn | Prague |
+| Sat, 14 Nov 2026 | Uhelný Mlýn | Prague |
 | Sat, 14 Nov 2026 | Uhelný Mlýn | Prague |
 | Fri, 22 Jan 2027 | TBA | Berlin |
 | Thu, 28 Jan 2027 | Berghain / Panorama Bar / Säule | Berlin |

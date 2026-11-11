@@ -1,8 +1,8 @@
 # PETDuo
 
-PETDuo is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Wall Club, Naples on Fri, 13 Nov 2026.
+PETDuo is a Techno and Tech House artist with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Wall Club, Naples on Fri, 13 Nov 2026.
 
-PETDuo is a techno and tech house artist based in Germany, with 100 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Budapest and 24 more. Often billed alongside Viktor Kampf, OGUZ and Nuke. Next up: The Wall Club, Naples on Fri 13 Nov.
+PETDuo is a techno and tech house artist based in Germany, with 101 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Budapest and 25 more. Often billed alongside Viktor Kampf, OGUZ and Nuke. Next up: The Wall Club, Naples on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ PETDuo is a techno and tech house artist based in Germany, with 100 gigs on soun
 | Sat, 14 Nov 2026 | Fabrik | Madrid |
 | Wed, 18 Nov 2026 | Sensorium | Berlin |
 | Wed, 30 Dec 2026 | Sensorium | Berlin |
+| Sat, 30 Jan 2027 | Paradigm | Netherlands |
 
 ## Recently played
 

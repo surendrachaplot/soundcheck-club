@@ -1,8 +1,8 @@
 # Moteka
 
-Moteka is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - STARS, Zemitana street, Riga on Fri, 20 Nov 2026.
+Moteka is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - STARS, Zemitana street, Riga on Fri, 20 Nov 2026.
 
-Moteka is a techno and house artist based in France, with 11 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and London and 6 more. Often billed alongside Electric Rescue, Chich and Kmyle. Next up: TBA - STARS, Zemitana street, Riga on Fri 20 Nov.
+Moteka is a techno and hardcore artist based in France, with 11 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and London and 6 more. Often billed alongside Electric Rescue, Chich and Kmyle. Next up: TBA - STARS, Zemitana street, Riga on Fri 20 Nov.
 
 ## Upcoming shows
 

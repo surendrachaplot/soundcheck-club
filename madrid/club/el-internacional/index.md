@@ -1,14 +1,16 @@
 # El Internacional
 
-El Internacional is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "Jazz Club by 55b" on Thu, 12 Nov 2026.
+El Internacional is a music venue in Madrid with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Jazz Club by 55b" on Thu, 12 Nov 2026.
 
-El Internacional is a music venue in Madrid listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Calle de Cedaceros, 11, 28014, Madrid, Spain.
+El Internacional is a music venue in Madrid listed on soundcheck. 3 upcoming gigs, with line-ups including SENDA FATAL and Simone de Kunovich. See dates, start times and who's playing. Calle de Cedaceros, 11, 28014, Madrid, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 12 Nov 2026 | Jazz Club by 55b |  |
+| Fri, 13 Nov 2026 | El Internacional Club | SENDA FATAL |
+| Sat, 14 Nov 2026 | El Internacional Delicatessen con Simone de Kunovich | Simone de Kunovich |
 
 ## Address
 

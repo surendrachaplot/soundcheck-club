@@ -11,7 +11,7 @@ B2 Rīga is a music venue in Riga listed on soundcheck. 5 upcoming gigs, with li
 | Fri, 13 Nov 2026 | MICRONICA 9TH ANNIVERSARY - Per Hammar [Dirty Hands, SWE] | D I N, Per Hammar, iOAN (LV) |
 | Sat, 14 Nov 2026 | Keepeesch 012: B2 Takeover | Kapusta, LETRIX, Tony (LV) |
 | Fri, 20 Nov 2026 | FILTER FRIENDS EDITION (B2B2B) | PUPA, Waxid, Will Sonic |
-| Sat, 21 Nov 2026 | TAKKA: CONTINUUM at B2 | Aeden (1), Brenna Ryan, Ikss |
+| Sat, 21 Nov 2026 | TAKKA: CONTINUUM at B2 | Aeden (1), Brenna Ryan, Ikss, ezet |
 | Fri, 27 Nov 2026 | Minimal Friday | Barseghian, Electricano, PUPA |
 
 ## Address

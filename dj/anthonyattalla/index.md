@@ -1,13 +1,14 @@
 # Anthony Attalla
 
-Anthony Attalla is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Royal Caribbean Cruise Ship, Miami on Thu, 21 Jan 2027.
+Anthony Attalla is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Royal Caribbean Cruise Ship, Miami on Thu, 21 Jan 2027.
 
-Anthony Attalla is a tech house and house artist based in United States of America, with 62 gigs on soundcheck across Austin, Barcelona, Berlin and Charlotte and 15 more. Often billed alongside Gene Farris, Carlo Lio and Dub Tiger. Next up: Royal Caribbean Cruise Ship, Miami on Thu 21 Jan.
+Anthony Attalla is a tech house and house artist based in United States of America, with 63 gigs on soundcheck across Austin, Barcelona, Berlin and Charlotte and 15 more. Often billed alongside Gene Farris, Scotty Boy and Carlo Lio. Next up: Royal Caribbean Cruise Ship, Miami on Thu 21 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 21 Jan 2027 | Royal Caribbean Cruise Ship | Miami |
 | Thu, 21 Jan 2027 | Royal Caribbean Cruise Ship | Miami |
 
 ## Recently played
@@ -23,6 +24,6 @@ Anthony Attalla is a tech house and house artist based in United States of Ameri
 
 ## Shares bills with
 
-Gene Farris, Carlo Lio, Dub Tiger
+Gene Farris, Scotty Boy, Carlo Lio
 
 *Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonyattalla/)*

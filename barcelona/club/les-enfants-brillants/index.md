@@ -1,8 +1,8 @@
 # Les Enfants Brillants
 
-Les Enfants Brillants is a music venue in Barcelona with 24 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Noizer pres. Shlomi Aber + Linkan Ray" on Thu, 12 Nov 2026.
+Les Enfants Brillants is a music venue in Barcelona with 25 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Noizer pres. Shlomi Aber + Linkan Ray" on Thu, 12 Nov 2026.
 
-Les Enfants Brillants is a music venue in Barcelona listed on soundcheck. 24 upcoming gigs, with line-ups including Aaryon, Ana Alves, Anah and Angel D'lite and 2 more. See dates, start times and who's playing. Carrer de Guàrdia, 3, 08001 Barcelona.
+Les Enfants Brillants is a music venue in Barcelona listed on soundcheck. 25 upcoming gigs, with line-ups including Aaryon, Ana Alves, Anah and Angel D'lite and 2 more. See dates, start times and who's playing. Carrer de Guàrdia, 3, 08001 Barcelona.
 
 ## What's on
 

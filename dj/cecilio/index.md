@@ -1,8 +1,8 @@
 # Cecilio
 
-Cecilio is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - secret location, Barcelona on Fri, 13 Nov 2026.
+Cecilio is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - secret location, Barcelona on Fri, 13 Nov 2026.
 
-Cecilio is a house and techno artist based in Spain, with 118 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bologna and 28 more. Often billed alongside Laurine, S.Moreira and Jorge Escribano. Next up: TBA - secret location, Barcelona on Fri 13 Nov.
+Cecilio is a house and techno artist based in Spain, with 119 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bologna and 28 more. Often billed alongside Laurine, S.Moreira and Jorge Escribano. Next up: TBA - secret location, Barcelona on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Cecilio is a house and techno artist based in Spain, with 118 gigs on soundcheck
 | Sat, 14 Nov 2026 | TBA - SECRET VILLA (the venue details will be emailed to ticket holders before the event) | Barcelona |
 | Sat, 21 Nov 2026 | FOLD | London |
 | Sun, 22 Nov 2026 | NUMBER 90 LONDON | London |
+| Sat, 19 Dec 2026 | Doggy Klœb | Malaga |
 | Thu, 31 Dec 2026 | Cadavra | Madrid |
 
 ## Recently played

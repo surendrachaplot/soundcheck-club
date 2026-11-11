@@ -1,14 +1,13 @@
 # Jungle Rock
 
-Jungle Rock is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at DJ Bar Bridge, Tokyo on Wed, 11 Nov 2026.
+Jungle Rock is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Toranoko Shokudo, Tokyo on Sat, 14 Nov 2026.
 
-Jungle Rock is a jungle and drum & bass artist based in Japan, with 49 gigs on soundcheck across Tokyo. Often billed alongside HALU(Tribal Connection), MileZ and Dx. Next up: DJ Bar Bridge, Tokyo on Wed 11 Nov.
+Jungle Rock is a jungle and drum & bass artist based in Japan, with 49 gigs on soundcheck across Tokyo. Often billed alongside HALU(Tribal Connection), MileZ and Dx. Next up: Toranoko Shokudo, Tokyo on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 11 Nov 2026 | DJ Bar Bridge | Tokyo |
 | Sat, 14 Nov 2026 | Toranoko Shokudo | Tokyo |
 
 ## Recently played

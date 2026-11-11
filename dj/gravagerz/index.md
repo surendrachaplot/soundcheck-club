@@ -1,8 +1,8 @@
 # Gravagerz
 
-Gravagerz is a House and Garage artist with 6 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Elsewhere, Gold-coast on Sun, 15 Nov 2026.
+Gravagerz is a House and Garage artist with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Elsewhere, Gold-coast on Sun, 15 Nov 2026.
 
-Gravagerz is a house and garage artist based in Italy, with 19 gigs on soundcheck across Amsterdam, Arizona, Boston and Copenhagen and 15 more. Often billed alongside James Hype (UK), Tini Gessler and Casey Club. Next up: Elsewhere, Gold Coast on Sun 15 Nov.
+Gravagerz is a house and garage artist based in Italy, with 20 gigs on soundcheck across Amsterdam, Arizona, Boston and Copenhagen and 15 more. Often billed alongside Tini Gessler, Ely Oaks and Jackie Hollander. Next up: Elsewhere, Gold Coast on Sun 15 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Gravagerz is a house and garage artist based in Italy, with 19 gigs on soundchec
 | Sat, 21 Nov 2026 | Seadeck | Sydney |
 | Sat, 5 Dec 2026 | Night We Met | Nashville |
 | Thu, 31 Dec 2026 | SILO | New-york-city |
+| Thu, 21 Jan 2027 | Royal Caribbean Cruise Ship | Miami |
 | Thu, 21 Jan 2027 | Royal Caribbean Cruise Ship | Miami |
 
 ## Recently played
@@ -28,6 +29,6 @@ Gravagerz is a house and garage artist based in Italy, with 19 gigs on soundchec
 
 ## Shares bills with
 
-James Hype (UK), Tini Gessler, Casey Club
+Tini Gessler, Ely Oaks, Jackie Hollander
 
 *Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gravagerz/)*

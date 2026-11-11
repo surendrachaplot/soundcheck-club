@@ -1,14 +1,15 @@
 # Decibel
 
-Decibel is a music venue in Chicago with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Shfft with Shmoo - Ilana Ariella - Wyser" on Tue, 17 Nov 2026.
+Decibel is a music venue in Chicago with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Shfft with Shmoo - Ilana Ariella - Wyser" on Tue, 17 Nov 2026.
 
-Decibel is a music venue in Chicago listed on soundcheck. 2 upcoming gigs, with line-ups including Ilana Ariella, Shmoo and Wyser. See dates, start times and who's playing. 954 W Belmont Ave, Chicago, IL 60657.
+Decibel is a music venue in Chicago listed on soundcheck. 3 upcoming gigs, with line-ups including Ilana Ariella, Shmoo and Wyser. See dates, start times and who's playing. 954 W Belmont Ave, Chicago, IL 60657.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Tue, 17 Nov 2026 | Shfft with Shmoo - Ilana Ariella - Wyser | Ilana Ariella, Shmoo, Wyser |
+| Sat, 21 Nov 2026 | Pretty Things Takeover |  |
 | Sat, 28 Nov 2026 | Global Takeover |  |
 
 ## Address

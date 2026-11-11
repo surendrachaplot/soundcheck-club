@@ -1,8 +1,8 @@
 # F8 1192 Folsom
 
-F8 1192 Folsom is a music venue in San Francisco/Oakland with 12 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "F8 Presents Run It Back feat. Dual State" on Wed, 11 Nov 2026.
+F8 1192 Folsom is a music venue in San Francisco/Oakland with 13 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "F8 Presents Run It Back feat. Dual State" on Wed, 11 Nov 2026.
 
-F8 1192 Folsom is a music venue in San Francisco/Oakland listed on soundcheck. 12 upcoming gigs, with line-ups including Aleki, Ardalan, at-at and BRUTE and 2 more. See dates, start times and who's playing. 1192 Folsom St, San Francisco, CA 94103.
+F8 1192 Folsom is a music venue in San Francisco/Oakland listed on soundcheck. 13 upcoming gigs, with line-ups including Aleki, Ardalan, at-at and BRUTE and 2 more. See dates, start times and who's playing. 1192 Folsom St, San Francisco, CA 94103.
 
 ## What's on
 

@@ -1,14 +1,15 @@
 # Martin Ka
 
-Martin Ka is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Odonien, Cologne on Sat, 14 Nov 2026.
+Martin Ka is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Odonien, Cologne on Sat, 14 Nov 2026.
 
-Martin Ka is a techno and house artist based in Germany, with 68 gigs on soundcheck across Berlin, Cologne, Copenhagen and Frankfurt and 4 more. Often billed alongside vom Feisten, Daniel Neuland and Sin:port. Next up: Odonien, Cologne on Sat 14 Nov.
+Martin Ka is a techno and house artist based in Germany, with 69 gigs on soundcheck across Berlin, Cologne, Copenhagen and Frankfurt and 4 more. Often billed alongside vom Feisten, Daniel Neuland and Sin:port. Next up: Odonien, Cologne on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Odonien | Cologne |
+| Sat, 21 Nov 2026 | Jonny Knüppel | Berlin |
 | Thu, 31 Dec 2026 | Ritter Butzke | Berlin |
 
 ## Recently played

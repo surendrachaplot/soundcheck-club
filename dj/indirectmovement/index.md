@@ -1,14 +1,15 @@
 # Indirect Movement
 
-Indirect Movement is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Turbina, Budapest on Fri, 27 Nov 2026.
+Indirect Movement is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Turbina, Budapest on Fri, 27 Nov 2026.
 
-Indirect Movement is a techno and trance artist based in Hungary, with 69 gigs on soundcheck across Budapest and Vienna. Often billed alongside AGA2L, Cvrdwell and CRB. Next up: Turbina, Budapest on Fri 27 Nov.
+Indirect Movement is a techno and trance artist based in Hungary, with 70 gigs on soundcheck across Budapest and Vienna. Often billed alongside AGA2L, Cvrdwell and CRB. Next up: Turbina, Budapest on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Turbina | Budapest |
+| Fri, 4 Dec 2026 | Toldi Klub | Budapest |
 
 ## Recently played
 

@@ -1,13 +1,14 @@
 # Nic Krog
 
-Nic Krog is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Umbo, Zurich on Thu, 26 Nov 2026.
+Nic Krog is a Experimental and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Golden Pudel Club, Hamburg on Sun, 15 Nov 2026.
 
-Nic Krog is an experimental and club artist based in Denmark, with 24 gigs on soundcheck across Berlin, Budapest, Copenhagen and Glasgow and 11 more. Often billed alongside Nick Klein, Angelo Harmsworth and Abdullah Miniawy. Next up: Umbo, Zurich on Thu 26 Nov.
+Nic Krog is an experimental and club artist based in Denmark, with 25 gigs on soundcheck across Berlin, Budapest, Copenhagen and Glasgow and 12 more. Often billed alongside Nick Klein, Angelo Harmsworth and Abdullah Miniawy. Next up: Golden Pudel Club, Hamburg on Sun 15 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 15 Nov 2026 | Golden Pudel Club | Hamburg |
 | Thu, 26 Nov 2026 | Umbo | Zurich |
 
 ## Recently played

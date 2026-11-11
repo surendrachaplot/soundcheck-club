@@ -8,7 +8,7 @@ Südpol is a music venue in Hamburg listed on soundcheck. 7 upcoming gigs, with 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Expedition Südpol | Chris Hanke, DINKS, EPHIE, Falke, Horst Haller, Jamal, Katzenohr, Kotoe, Melbo, Newinfluenzer, Rachel Raw, Robert Romain, Surreal (DE), UNZHA, Vio PRG, abs8lute, bīsu, ple:xy |
+| Fri, 13 Nov 2026 | Expedition Südpol | Chioma, Chris Hanke, DINKS, EPHIE, Falke, Horst Haller, Jamal, Katzenohr, Kotoe, Melbo, Newinfluenzer, Rachel Raw, Robert Romain, Surreal (DE), UNZHA, Vio PRG, abs8lute, bīsu, ple:xy |
 | Fri, 20 Nov 2026 | unceen with GI.O, 3LEEZA, BNZN, 5euroGoldi & DJ WIFI | 3LEEZA, 5euroGoldi, BNZN, DJ WIFI, GI.O, Scoozy, Talia Dorr |
 | Sat, 21 Nov 2026 | Tempest | Folic State, Kamila, Sonorous, Surreal (DE) |
 | Thu, 26 Nov 2026 | Flohpol |  |

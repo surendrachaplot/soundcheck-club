@@ -1,14 +1,15 @@
 # Lara Sinclair
 
-Lara Sinclair is a Bass and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Fruitmarket, Edinburgh on Fri, 13 Nov 2026.
+Lara Sinclair is a Bass and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Fruitmarket, Edinburgh on Fri, 13 Nov 2026.
 
-Lara Sinclair is a bass and house artist based in United Kingdom, with 205 gigs on soundcheck across Dundee, Edinburgh, Glasgow and London. Often billed alongside ZO3, JI_2001 and DV60. Next up: Fruitmarket, Edinburgh on Fri 13 Nov.
+Lara Sinclair is a bass and house artist based in United Kingdom, with 206 gigs on soundcheck across Dundee, Edinburgh, Glasgow and London. Often billed alongside ZO3, JI_2001 and DV60. Next up: Fruitmarket, Edinburgh on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Fruitmarket | Edinburgh |
+| Fri, 13 Nov 2026 | West Port Oracle | Edinburgh |
 | Sat, 21 Nov 2026 | The Bongo Club | Edinburgh |
 | Fri, 27 Nov 2026 | The Mash House | Edinburgh |
 

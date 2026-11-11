@@ -1,8 +1,8 @@
 # Mazzacles
 
-Mazzacles is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Civic Underground, Sydney on Fri, 13 Nov 2026.
+Mazzacles is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Civic Underground, Sydney on Fri, 13 Nov 2026.
 
-Mazzacles is a house and techno artist based in Australia, with 87 gigs on soundcheck across Auckland, Berlin, Byron Bay and Melbourne and 1 more. Often billed alongside Kato, Reenie and Simon Caldwell. Next up: Civic Underground, Sydney on Fri 13 Nov.
+Mazzacles is a house and techno artist based in Australia, with 88 gigs on soundcheck across Auckland, Berlin, Byron Bay and Melbourne and 1 more. Often billed alongside Kato, Reenie and Simon Caldwell. Next up: Civic Underground, Sydney on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Mazzacles is a house and techno artist based in Australia, with 87 gigs on sound
 | Fri, 20 Nov 2026 | TBA | Sydney |
 | Sun, 29 Nov 2026 | TBA | Sydney |
 | Sat, 5 Dec 2026 | Club 77 | Sydney |
+| Sat, 12 Dec 2026 | Club 77 | Sydney |
 | Thu, 31 Dec 2026 | Northcote Theatre | Melbourne |
 
 ## Recently played

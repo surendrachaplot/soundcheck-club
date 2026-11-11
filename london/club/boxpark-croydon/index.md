@@ -1,17 +1,18 @@
 # Boxpark Croydon
 
-Boxpark Croydon is a music venue in London with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. The next is "THE GROOVE KITCHEN" on Wed, 21 Oct 2026.
+Boxpark Croydon is a music venue in London with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "THE GROOVE KITCHEN" on Wed, 18 Nov 2026.
 
-Boxpark Croydon is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Blue Revolutions Collective and Shayanna Harris. See dates, start times and who's playing. 99 George St, London CR0 1LD, United Kingdom.
+Boxpark Croydon is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Blue Revolutions Collective and Shayanna Harris. See dates, start times and who's playing. 99 George St, London CR0 1LD, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 21 Oct 2026 | THE GROOVE KITCHEN | Blue Revolutions Collective, Shayanna Harris |
+| Wed, 18 Nov 2026 | THE GROOVE KITCHEN | Blue Revolutions Collective, Shayanna Harris |
+| Wed, 16 Dec 2026 | THE GROOVE KITCHEN | Blue Revolutions Collective, Shayanna Harris |
 
 ## Address
 
 99 George St, London CR0 1LD, United Kingdom, London
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/boxpark-croydon/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/boxpark-croydon/)*

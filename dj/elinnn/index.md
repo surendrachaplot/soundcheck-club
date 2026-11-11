@@ -1,8 +1,8 @@
 # Elinnn
 
-Elinnn is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Pawnshop, Taipei on Fri, 20 Nov 2026.
+Elinnn is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Pawnshop, Taipei on Fri, 20 Nov 2026.
 
-Elinnn is a techno and acid artist based in Taiwan, with 48 gigs on soundcheck across Taipei. Often billed alongside Tsui, L-CC and Gemnital. Next up: Pawnshop, Taipei on Fri 20 Nov.
+Elinnn is a techno and acid artist based in Taiwan, with 49 gigs on soundcheck across Taipei. Often billed alongside Tsui, L-CC and miranda ku. Next up: Pawnshop, Taipei on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Elinnn is a techno and acid artist based in Taiwan, with 48 gigs on soundcheck a
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Pawnshop | Taipei |
 | Fri, 27 Nov 2026 | Pawnshop | Taipei |
+| Thu, 31 Dec 2026 | Pawnshop | Taipei |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Elinnn is a techno and acid artist based in Taiwan, with 48 gigs on soundcheck a
 
 ## Shares bills with
 
-Tsui, L-CC, Gemnital
+Tsui, L-CC, miranda ku
 
 *Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elinnn/)*

@@ -13,7 +13,7 @@ VENT is a music venue in Tokyo listed on soundcheck. 15 upcoming gigs, with line
 | Fri, 20 Nov 2026 | CC:DISCO | CC:DISCO!, FU (JP), Onsawa&tkc, RIHO ASAEDA, mag (JP) |
 | Sat, 21 Nov 2026 | Philippa Pacho / VELTRAUM | Bundo, Mari Sakurai, NITA, Philippa Pacho, Yo Nishijima, arow, machìna |
 | Sun, 22 Nov 2026 | Special Request | Frankie $, Goth-Trad, Hayato Iwaki, MEGURO, Special Request |
-| Fri, 27 Nov 2026 | Giegling / Giegling Tokyo Residency Closing Party | Edward, Konstantin, Lawrence, Yamour |
+| Fri, 27 Nov 2026 | Giegling / Giegling Tokyo Residency Closing Party | Atsushi Maeda, Edward, Konstantin, Lawrence, Mazlika, Yamour, iulia, ΛSYL |
 | Fri, 4 Dec 2026 | Cleric / Clergy Records × RHYTOS | Cleric, DANA NADA, Habgud, Herbalistek, Kent Oria |
 | Sat, 5 Dec 2026 | CARRIER , DAGRASS , DJ Python , LIL' MOFO / C.E presents | Carrier, DJ Python, Lil Mofo |
 | Fri, 11 Dec 2026 | Kangding Ray / MIND OFF | Dani Savant, Kangding Ray |

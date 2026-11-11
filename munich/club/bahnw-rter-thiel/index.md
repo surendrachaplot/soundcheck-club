@@ -1,8 +1,8 @@
 # Bahnwärter Thiel
 
-Bahnwärter Thiel is a music venue in Munich with 11 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "135+ mit XOXO & Secret Trance Frequencies" on Thu, 12 Nov 2026.
+Bahnwärter Thiel is a music venue in Munich with 13 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "135+ mit XOXO & Secret Trance Frequencies" on Thu, 12 Nov 2026.
 
-Bahnwärter Thiel is a music venue in Munich listed on soundcheck. 11 upcoming gigs, with line-ups including 9LALEY, antyo, Arkinice and Atzlina and 2 more. See dates, start times and who's playing. Tumblingerstraße 29, 80333 München.
+Bahnwärter Thiel is a music venue in Munich listed on soundcheck. 13 upcoming gigs, with line-ups including 9LALEY, Alex Volta, antyo and ANXA and 2 more. See dates, start times and who's playing. Tumblingerstraße 29, 80333 München.
 
 ## What's on
 
@@ -17,7 +17,7 @@ Bahnwärter Thiel is a music venue in Munich listed on soundcheck. 11 upcoming g
 | Fri, 27 Nov 2026 | Freitag mit Fab Massimo | Concentio, Fab Massimo, Gizmo, SILSAN, eira haul |
 | Sat, 28 Nov 2026 | Samstag mit Matija | seboro |
 | Thu, 3 Dec 2026 | 135+ mit Uhrwerk der Nacht & Vortex Underground |  |
-| Thu, 10 Dec 2026 | 135+ mit 1 CB & Psyfuck | S K Y, pnk pnthr |
+| Tue, 8 Dec 2026 | Wem gehört die Nacht? Diskriminierung erkennen, Solidarität leben |  |
 
 ## Address
 

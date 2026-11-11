@@ -1,6 +1,6 @@
 # Herbivox x Turbulence: Fidely-T, Taylor Taylor, Bloody Mery b2b BEN GER & syncrow at Waterhouse Studios
 
-Herbivox x Turbulence: Fidely-T, Taylor Taylor, Bloody Mery b2b BEN GER & syncrow at Waterhouse Studios on Sat 5 Dec, Amsterdam. 2 artists: syncrow and Taylor Taylor (NL). House and Acid. See the line-up on soundcheck.
+Herbivox x Turbulence: Fidely-T, Taylor Taylor, Bloody Mery b2b BEN GER & syncrow at Waterhouse Studios on Sat 5 Dec, Amsterdam. 3 artists: Lascar, syncrow and Taylor Taylor (NL). House and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Herbivox x Turbulence: Fidely-T, Taylor Taylor, Bloody Mery b2b BEN GER & syncro
 
 ## Line-up
 
+- Lascar
 - syncrow
 - Taylor Taylor (NL)
 

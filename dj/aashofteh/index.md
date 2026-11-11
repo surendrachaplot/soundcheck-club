@@ -1,13 +1,15 @@
 # Aashofteh
 
-Aashofteh is a Tech House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Djargurd Wurrong Country (Victoria, Australia), Melbourne on Fri, 26 Mar 2027.
+Aashofteh is a Tech House and Downtempo artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Pizzeria Officina, Canberra on Fri, 20 Nov 2026.
 
-Aashofteh is a tech house and downtempo artist based in Australia, with 10 gigs on soundcheck across Melbourne. Often billed alongside Miscmeg, Sofay and ATARANGI. Next up: TBA - Djargurd Wurrong Country (Victoria, Australia), Melbourne on Fri 26 Mar.
+Aashofteh is a tech house and downtempo artist based in Australia, with 12 gigs on soundcheck across Canberra and Melbourne. Often billed alongside Miscmeg, Sofay and ATARANGI. Next up: Pizzeria Officina, Canberra on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | Pizzeria Officina | Canberra |
+| Sun, 22 Nov 2026 | Miscellania | Melbourne |
 | Fri, 26 Mar 2027 | TBA - Djargurd Wurrong Country (Victoria, Australia) | Melbourne |
 
 ## Recently played

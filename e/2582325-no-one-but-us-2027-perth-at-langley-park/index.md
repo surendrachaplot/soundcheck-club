@@ -1,6 +1,6 @@
 # NO ONE BUT US 2027 | PERTH at Langley Park
 
-NO ONE BUT US 2027 | PERTH at Langley Park on Fri 1 Jan, Perth. 14 artists: 4am Kru, Andromedik, Andy C and BassLayerz and 10 more. See the line-up on soundcheck.
+NO ONE BUT US 2027 | PERTH at Langley Park on Fri 1 Jan, Perth. 14 artists: 4am Kru, Andromedik, Andy C and BassLayerz and 10 more. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

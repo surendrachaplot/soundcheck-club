@@ -1,14 +1,13 @@
 # WOMB
 
-WOMB is a music venue in Tokyo with 21 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "WTW (HOUSE)" on Wed, 11 Nov 2026.
+WOMB is a music venue in Tokyo with 21 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "WTW × AFP (HOUSE / TECH HOUSE)" on Thu, 12 Nov 2026.
 
-WOMB is a music venue in Tokyo listed on soundcheck. 21 upcoming gigs, with line-ups including Addiy, AHREUM, AIBA and ALEXANDER M and 2 more. See dates, start times and who's playing. 2-16 Maruyamacho Shibuya, Tokyo 150-0044 Japan.
+WOMB is a music venue in Tokyo listed on soundcheck. 21 upcoming gigs, with line-ups including Abura, Addiy, AHREUM and AIBA and 2 more. See dates, start times and who's playing. 2-16 Maruyamacho Shibuya, Tokyo 150-0044 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 11 Nov 2026 | WTW (HOUSE) | YO.AN, Youngisland |
 | Thu, 12 Nov 2026 | WTW × AFP (HOUSE / TECH HOUSE) | Dukwa, Nari (2), Sekitova |
 | Fri, 13 Nov 2026 | PICNIC PEOPLE PANIC (TECHNO/HOUSE) | KABUTO, KATIMI AI, MASAYASU, Moodman, Roman Flügel, Timothy Really Lab. |
 | Sat, 14 Nov 2026 | KULU (TECHNO / HOUSE) | DSKE, KUNPEI, Ko Umehara, Louis Shannon, Mita Gami, NAMIMI SENSEI, Robbie Akbal, SATICA, Sante Visioni, Vino (1), boys be kko |
@@ -18,6 +17,7 @@ WOMB is a music venue in Tokyo listed on soundcheck. 21 upcoming gigs, with line
 | Sun, 22 Nov 2026 | NEWNEU. SYNAPSE. PRESENTS Joseph Capriati | ALEXANDER M, DONAES, EIGHT, Joseph Capriati, Koki Byrd, TARO TOKO, TOSHI |
 | Tue, 24 Nov 2026 | Asia Tech |  |
 | Wed, 25 Nov 2026 | WTW | KABUTO, Kyper, SAMO (JP) |
+| Thu, 26 Nov 2026 | PASSION 4TH ANNIVERSARY (HOUSE / TECH HOUSE) | NAMIMI SENSEI, Ozwick, PiERO, Tonbo |
 
 ## Address
 

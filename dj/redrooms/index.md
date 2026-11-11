@@ -1,8 +1,8 @@
 # Red Rooms
 
-Red Rooms is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Tokonoma Club, Frankfurt on Sat, 14 Nov 2026.
+Red Rooms is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Tokonoma Club, Frankfurt on Sat, 14 Nov 2026.
 
-Red Rooms is a techno and house artist based in Germany, with 64 gigs on soundcheck across Amsterdam, Athens, Berlin and Cologne and 24 more. Often billed alongside AgainstMe, Lea Occhi and Philippa Pacho. Next up: Tokonoma Club, Frankfurt on Sat 14 Nov.
+Red Rooms is a techno and house artist based in Germany, with 66 gigs on soundcheck across Amsterdam, Athens, Berlin and Cologne and 24 more. Often billed alongside AgainstMe, Lea Occhi and Philippa Pacho. Next up: Tokonoma Club, Frankfurt on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,8 @@ Red Rooms is a techno and house artist based in Germany, with 64 gigs on soundch
 | Sat, 28 Nov 2026 | Disco Zwei | Mannheim |
 | Sat, 5 Dec 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Mon, 28 Dec 2026 | Sub Club | Glasgow |
+| Mon, 28 Dec 2026 | Tresor / Globus | Berlin |
+| Fri, 1 Jan 2027 | Tresor / Globus | Berlin |
 
 ## Recently played
 

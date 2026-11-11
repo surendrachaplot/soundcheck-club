@@ -1,0 +1,28 @@
+# unDs
+
+unDs is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Hoppetosse, Berlin on Sat, 12 Dec 2026.
+
+unDs is a techno and tech house artist based in Germany, with 28 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Leon Licht, Fast (DE) and Kaufmann. Next up: Hoppetosse, Berlin on Sat 12 Dec.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 12 Dec 2026 | Hoppetosse | Berlin |
+
+## Recently played
+
+- Hoppetosse, Berlin · Sat, 17 Oct 2026
+- elipamanoke, Leipzig · Sat, 29 Aug 2026
+- elipamanoke, Leipzig · Sat, 29 Aug 2026
+- Bulbul Berlin, Berlin · Fri, 31 Jul 2026
+- Hoppetosse, Berlin · Sat, 6 Jun 2026
+- Süss War Gestern, Berlin · Sat, 25 Apr 2026
+- Hoppetosse, Berlin · Sat, 18 Apr 2026
+- Renate, Berlin · Wed, 31 Dec 2025
+
+## Shares bills with
+
+Leon Licht, Fast (DE), Kaufmann
+
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/unds/)*

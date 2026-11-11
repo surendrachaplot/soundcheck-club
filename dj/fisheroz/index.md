@@ -1,8 +1,8 @@
 # FISHER
 
-FISHER is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Parque de la Ciudad, CABA, Buenos Aires on Sat, 14 Nov 2026.
+FISHER is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Parque de la Ciudad, CABA, Buenos Aires on Sat, 14 Nov 2026.
 
-FISHER is a house and tech house artist based in Australia, with 174 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Austin and 51 more. Often billed alongside Vintage Culture, Jason Bye and Little Fritter. Next up: TBA - Parque de la Ciudad, CABA, Buenos Aires on Sat 14 Nov.
+FISHER is a house and tech house artist based in Australia, with 175 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Austin and 52 more. Often billed alongside Vintage Culture, Jason Bye and Little Fritter. Next up: TBA - Parque de la Ciudad, CABA, Buenos Aires on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ FISHER is a house and tech house artist based in Australia, with 174 gigs on sou
 | Sat, 21 Nov 2026 | Marquee Nightclub | Las-vegas |
 | Sun, 27 Dec 2026 | Echostage | Washington DC |
 | Thu, 31 Dec 2026 | Petco Park | San-diego |
+| Tue, 9 Feb 2027 | Museu do Amanhã | Rio de Janeiro |
 
 ## Recently played
 

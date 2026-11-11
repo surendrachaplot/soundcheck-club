@@ -1,14 +1,15 @@
 # Moreon
 
-Moreon is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Flash, Washington DC on Sat, 14 Nov 2026.
+Moreon is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Flash, Washington DC on Sat, 14 Nov 2026.
 
-Moreon is a house and tech house artist based in Venezuela, with 42 gigs on soundcheck across Austin, Barcelona, Boston and Chicago and 6 more. Often billed alongside LM, DECA (VE) and Baffa. Next up: Flash, Washington DC on Sat 14 Nov.
+Moreon is a house and tech house artist based in Venezuela, with 43 gigs on soundcheck across Austin, Barcelona, Boston and Chicago and 6 more. Often billed alongside LM, DECA (VE) and Inpulse. Next up: Flash, Washington DC on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Flash | Washington DC |
+| Sat, 21 Nov 2026 | Mad Radio Miami | Miami |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Moreon is a house and tech house artist based in Venezuela, with 42 gigs on soun
 
 ## Shares bills with
 
-LM, DECA (VE), Baffa
+LM, DECA (VE), Inpulse
 
 *Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moreon/)*

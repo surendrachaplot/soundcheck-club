@@ -1,14 +1,13 @@
 # Piezo
 
-Piezo is a Techno and Bass artist with 8 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Club 77, Sydney on Wed, 11 Nov 2026.
+Piezo is a Techno and Bass artist with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA, Sydney on Thu, 12 Nov 2026.
 
-Piezo is a techno and bass artist based in Italy, with 132 gigs on soundcheck across Amsterdam, Austin, Barcelona and Basel and 52 more. Often billed alongside CCL, upsammy and mad miran. Next up: Club 77, Sydney on Wed 11 Nov.
+Piezo is a techno and bass artist based in Italy, with 132 gigs on soundcheck across Amsterdam, Austin, Barcelona and Basel and 52 more. Often billed alongside CCL, upsammy and mad miran. Next up: TBA, Sydney on Thu 12 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 11 Nov 2026 | Club 77 | Sydney |
 | Thu, 12 Nov 2026 | TBA | Sydney |
 | Sat, 14 Nov 2026 | Miscellania | Melbourne |
 | Sun, 15 Nov 2026 | Miscellania | Melbourne |

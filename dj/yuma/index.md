@@ -1,14 +1,15 @@
 # YUMA
 
-YUMA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Eldorado, North on Sat, 21 Nov 2026.
+YUMA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Eldorado, North on Sat, 21 Nov 2026.
 
-YUMA is a techno and house artist based in Germany, with 28 gigs on soundcheck across Berlin, Brighton, Düsseldorf and London and 6 more. Often billed alongside SOMMA, DAIY and Incarnated Sound. Next up: Eldorado, North on Sat 21 Nov.
+YUMA is a techno and house artist based in Germany, with 29 gigs on soundcheck across Berlin, Brighton, Düsseldorf and London and 7 more. Often billed alongside SOMMA, DAIY and Incarnated Sound. Next up: Eldorado, North on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Eldorado | North |
+| Sat, 12 Dec 2026 | Doggy Klœb | Malaga |
 
 ## Recently played
 

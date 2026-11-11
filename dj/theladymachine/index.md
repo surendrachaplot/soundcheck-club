@@ -1,8 +1,8 @@
 # The Lady Machine
 
-The Lady Machine is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Domicile, Miami on Fri, 13 Nov 2026.
+The Lady Machine is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Domicile, Miami on Fri, 13 Nov 2026.
 
-The Lady Machine is a techno and house artist based in Brazil, with 218 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 55 more. Often billed alongside Freddy K, Blasha & Allatt and DVS1. Next up: Domicile, Miami on Fri 13 Nov.
+The Lady Machine is a techno and house artist based in Brazil, with 220 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 55 more. Often billed alongside Freddy K, Blasha & Allatt and DVS1. Next up: Domicile, Miami on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -18,6 +18,7 @@ The Lady Machine is a techno and house artist based in Brazil, with 218 gigs on 
 | Sat, 5 Dec 2026 | RSO.BERLIN | Berlin |
 | Fri, 11 Dec 2026 | FVTVR | Paris |
 | Sat, 19 Dec 2026 | FOLD | London |
+| Mon, 28 Dec 2026 | Tresor / Globus | Berlin |
 | Thu, 31 Dec 2026 | Studio Club Malaga | Malaga |
 
 ## Recently played

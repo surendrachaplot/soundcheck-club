@@ -1,14 +1,13 @@
 # Nigls
 
-Nigls is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Dada Beijing, Beijing on Wed, 11 Nov 2026.
+Nigls is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Groundless Factory, Beijing on Sat, 21 Nov 2026.
 
-Nigls is a techno and house artist based in Portugal, with 98 gigs on soundcheck across Beijing, Lisbon, Shanghai and Shenzhen. Often billed alongside Kai.F, SunMeng and Weng Weng. Next up: Dada Beijing, Beijing on Wed 11 Nov.
+Nigls is a techno and house artist based in Portugal, with 98 gigs on soundcheck across Beijing, Lisbon, Shanghai and Shenzhen. Often billed alongside Kai.F, SunMeng and Weng Weng. Next up: Groundless Factory, Beijing on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 11 Nov 2026 | Dada Beijing | Beijing |
 | Sat, 21 Nov 2026 | Groundless Factory | Beijing |
 
 ## Recently played

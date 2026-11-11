@@ -1,0 +1,28 @@
+# Amnati
+
+Amnati is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Klunkerkranich, Berlin on Sat, 21 Nov 2026.
+
+Amnati is a house and electronica artist, with 12 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Anna Almani, Apolonia and Baba The Knife. Next up: Klunkerkranich, Berlin on Sat 21 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 21 Nov 2026 | Klunkerkranich | Berlin |
+
+## Recently played
+
+- TBA - Secret Location, Berlin · Fri, 6 Nov 2026
+- ., Berlin · Sun, 5 Oct 2025
+- M01, Berlin · Sat, 10 May 2025
+- Renate, Berlin · Sat, 19 Apr 2025
+- Fitzroy, Berlin · Fri, 13 Sept 2024
+- Ferropolis, Leipzig · Fri, 2 Aug 2024
+- Lark, Berlin · Sat, 27 Jul 2024
+- Renate, Berlin · Thu, 30 May 2024
+
+## Shares bills with
+
+Anna Almani, Apolonia, Baba The Knife
+
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amnati/)*

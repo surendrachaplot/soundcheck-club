@@ -1,8 +1,8 @@
 # Cara Elizabeth
 
-Cara Elizabeth is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Fuse, Brussels on Fri, 13 Nov 2026.
+Cara Elizabeth is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Fuse, Brussels on Fri, 13 Nov 2026.
 
-Cara Elizabeth is a techno and trance artist based in Germany, with 162 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 35 more. Often billed alongside Kø:lab, davyboi and Mika Heggemann. Next up: Fuse, Brussels on Fri 13 Nov.
+Cara Elizabeth is a techno and trance artist based in Germany, with 163 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 36 more. Often billed alongside Kø:lab, davyboi and Mika Heggemann. Next up: Fuse, Brussels on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Cara Elizabeth is a techno and trance artist based in Germany, with 162 gigs on 
 | Fri, 4 Dec 2026 | Kalif Storch | Erfurt |
 | Sat, 5 Dec 2026 | Zoom Club | Frankfurt |
 | Wed, 30 Dec 2026 | RAW- Lokschuppen + Astra Kulturhaus | Berlin |
+| Fri, 26 Feb 2027 | Das Zimmer | Mannheim |
 
 ## Recently played
 

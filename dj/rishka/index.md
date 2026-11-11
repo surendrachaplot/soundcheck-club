@@ -1,13 +1,14 @@
 # Rishka
 
-Rishka is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Bike Jesus, Prague on Fri, 11 Dec 2026.
+Rishka is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at AMT, Berlin on Fri, 4 Dec 2026.
 
-Rishka is a techno and trance artist based in Germany, with 24 gigs on soundcheck across Berlin, Cologne, Munich and Nürnberg and 1 more. Often billed alongside DJ SEXSTASY, KTK (DE) and LANI AKEA. Next up: Bike Jesus, Prague on Fri 11 Dec.
+Rishka is a techno and trance artist based in Germany, with 25 gigs on soundcheck across Berlin, Cologne, Munich and Nürnberg and 1 more. Often billed alongside DJ SEXSTASY, Towicz and KTK (DE). Next up: AMT, Berlin on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Dec 2026 | AMT | Berlin |
 | Fri, 11 Dec 2026 | Bike Jesus | Prague |
 
 ## Recently played
@@ -23,6 +24,6 @@ Rishka is a techno and trance artist based in Germany, with 24 gigs on soundchec
 
 ## Shares bills with
 
-DJ SEXSTASY, KTK (DE), LANI AKEA
+DJ SEXSTASY, Towicz, KTK (DE)
 
 *Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rishka/)*

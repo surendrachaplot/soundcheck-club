@@ -1,14 +1,15 @@
 # Pau Rosés
 
-Pau Rosés is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - secret location, Barcelona on Sat, 14 Nov 2026.
+Pau Rosés is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - secret location, Barcelona on Sat, 14 Nov 2026.
 
-Pau Rosés is a house and electro artist based in Spain, with 142 gigs on soundcheck across Barcelona, Ibiza, London and Madrid and 2 more. Often billed alongside Adria (ES), Swann and Vince Void. Next up: TBA - secret location, Barcelona on Sat 14 Nov.
+Pau Rosés is a house and electro artist based in Spain, with 143 gigs on soundcheck across Barcelona, Ibiza, London and Madrid and 2 more. Often billed alongside Adria (ES), Swann and Vince Void. Next up: TBA - secret location, Barcelona on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | TBA - secret location | Barcelona |
+| Fri, 25 Dec 2026 | Les Enfants Brillants | Barcelona |
 
 ## Recently played
 

@@ -1,6 +1,6 @@
 # Close Encounters III: Live Electronics Under Langebro at Pylonen - Frizonen Langebro
 
-Close Encounters III: Live Electronics Under Langebro at Pylonen - Frizonen Langebro on Sat 21 Nov, Copenhagen. 1 artist: Andi Müller. Techno and House. See the line-up on soundcheck.
+Close Encounters III: Live Electronics Under Langebro at Pylonen - Frizonen Langebro on Sat 21 Nov, Copenhagen. 2 artists: Andi Müller and Chang Rodrigues. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Close Encounters III: Live Electronics Under Langebro at Pylonen - Frizonen Lang
 ## Line-up
 
 - Andi Müller
+- Chang Rodrigues
 
 *Source: [soundcheck](https://soundcheck.club/e/2568270-close-encounters-iii-live-electronics-under-langebro-at-pylo/)*

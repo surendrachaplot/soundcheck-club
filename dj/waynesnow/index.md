@@ -1,8 +1,8 @@
 # Wayne Snow
 
-Wayne Snow is a Jazz and Electronica artist with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Gasometer Schöneberg, Berlin on Fri, 20 Nov 2026.
+Wayne Snow is a Jazz and Electronica artist with 6 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Gasometer Schöneberg, Berlin on Fri, 20 Nov 2026.
 
-Wayne Snow is a jazz and electronica artist based in Nigeria, with 20 gigs on soundcheck across Berlin, London, Milan and Munich and 4 more. Often billed alongside Jazzanova, Alex Rita and Aline Umber. Next up: Gasometer Schöneberg, Berlin on Fri 20 Nov.
+Wayne Snow is a jazz and electronica artist based in Nigeria, with 21 gigs on soundcheck across Berlin, London, Milan and Munich and 4 more. Often billed alongside Jazzanova, Alex Rita and Aline Umber. Next up: Gasometer Schöneberg, Berlin on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Wayne Snow is a jazz and electronica artist based in Nigeria, with 20 gigs on so
 | Fri, 20 Nov 2026 | Gasometer Schöneberg | Berlin |
 | Thu, 26 Nov 2026 | Blue Note Jazz Club London | London |
 | Fri, 27 Nov 2026 | Blue Note Jazz Club London | London |
+| Sat, 28 Nov 2026 | Blue Note Milano | Milan |
 | Sat, 5 Dec 2026 | BIX | Stuttgart |
 | Sun, 6 Dec 2026 | Ampere | Munich |
 

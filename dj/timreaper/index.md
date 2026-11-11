@@ -1,14 +1,15 @@
 # Tim Reaper
 
-Tim Reaper is a Jungle and Drum & Bass artist with 11 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Colour Factory, London on Sat, 14 Nov 2026.
+Tim Reaper is a Jungle and Drum & Bass artist with 12 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Colour Factory, London on Sat, 14 Nov 2026.
 
-Tim Reaper is a jungle and drum & bass artist based in United Kingdom, with 260 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 50 more. Often billed alongside Dwarde, Sully and Coco Bryce. Next up: Colour Factory, London on Sat 14 Nov.
+Tim Reaper is a jungle and drum & bass artist based in United Kingdom, with 261 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 50 more. Often billed alongside Dwarde, Sully and Coco Bryce. Next up: Colour Factory, London on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Colour Factory | London |
+| Fri, 20 Nov 2026 | FOLD | London |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
 | Sat, 28 Nov 2026 | M.O.T | London |
 | Thu, 10 Dec 2026 | Depot Mayfield | Manchester |

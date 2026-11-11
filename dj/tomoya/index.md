@@ -1,13 +1,14 @@
 # Tomoya
 
-Tomoya is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Aoyama Hachi, Tokyo on Sun, 29 Nov 2026.
+Tomoya is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Ruby Room, Tokyo on Fri, 13 Nov 2026.
 
-Tomoya is a techno and house artist based in Japan, with 42 gigs on soundcheck across London, Seoul and Tokyo. Often billed alongside Celter, Jacob Husley and NYAO. Next up: Aoyama Hachi, Tokyo on Sun 29 Nov.
+Tomoya is a techno and house artist based in Japan, with 43 gigs on soundcheck across London, Seoul and Tokyo. Often billed alongside Celter, Jacob Husley and NYAO. Next up: Ruby Room, Tokyo on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | Ruby Room | Tokyo |
 | Sun, 29 Nov 2026 | Aoyama Hachi | Tokyo |
 
 ## Recently played

@@ -1,14 +1,13 @@
 # Club Metro
 
-Club Metro is a music venue in Kyoto with 31 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "DOG RUN" on Wed, 11 Nov 2026.
+Club Metro is a music venue in Kyoto with 30 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "PHASE 26:11 (フェーズ26時11分） ーBuffalo Daughter シングルリリースパーティー" on Thu, 12 Nov 2026.
 
-Club Metro is a music venue in Kyoto listed on soundcheck. 31 upcoming gigs, with line-ups including Alex Neri, Al Jones, Baldo and DJ Krush and 2 more. See dates, start times and who's playing. 82 Simodutsumicho, Kawabata Marutamachi, Sakyo-ku, Kyoto-shi, 606-8396 Japan.
+Club Metro is a music venue in Kyoto listed on soundcheck. 30 upcoming gigs, with line-ups including Alex Neri, Al Jones, Baldo and DJ Krush and 2 more. See dates, start times and who's playing. 82 Simodutsumicho, Kawabata Marutamachi, Sakyo-ku, Kyoto-shi, 606-8396 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 11 Nov 2026 | DOG RUN |  |
 | Thu, 12 Nov 2026 | PHASE 26:11 (フェーズ26時11分） ーBuffalo Daughter シングルリリースパーティー |  |
 | Fri, 13 Nov 2026 | Connected Underground with Kiyo Nakamura (Club About/ from Nagoya), Adricted (from Argentina) | Paul Leonard, Ryoma Sasaki |
 | Sat, 14 Nov 2026 | Ree vol.2 |  |
@@ -18,6 +17,7 @@ Club Metro is a music venue in Kyoto listed on soundcheck. 31 upcoming gigs, wit
 | Wed, 18 Nov 2026 | CLUB80's -look back on the 90's- |  |
 | Thu, 19 Nov 2026 | HOME presents YUNG MEN IN THE CAR TOUR 2026 |  |
 | Fri, 20 Nov 2026 | ECCLUSIUSTICUS – Jazz sci-fi |  |
+| Sat, 21 Nov 2026 | TIGERS JAW JAPAN 2026 WITH COUNTRY YARD |  |
 
 ## Address
 

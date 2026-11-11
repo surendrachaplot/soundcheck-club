@@ -1,13 +1,14 @@
 # Maxinne
 
-Maxinne is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Royal Caribbean Cruise Ship, Miami on Thu, 21 Jan 2027.
+Maxinne is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Royal Caribbean Cruise Ship, Miami on Thu, 21 Jan 2027.
 
-Maxinne is a house and tech house artist based in United Kingdom, with 39 gigs on soundcheck across Austin, Chicago, Dubai and Frankfurt and 13 more. Often billed alongside Amine Edge & DANCE, Anabel Englund and Anthony Attalla. Next up: Royal Caribbean Cruise Ship, Miami on Thu 21 Jan.
+Maxinne is a house and tech house artist based in United Kingdom, with 40 gigs on soundcheck across Austin, Chicago, Dubai and Frankfurt and 13 more. Often billed alongside Anabel Englund, Anthony Attalla and DEEPFAKE. Next up: Royal Caribbean Cruise Ship, Miami on Thu 21 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 21 Jan 2027 | Royal Caribbean Cruise Ship | Miami |
 | Thu, 21 Jan 2027 | Royal Caribbean Cruise Ship | Miami |
 
 ## Recently played
@@ -23,6 +24,6 @@ Maxinne is a house and tech house artist based in United Kingdom, with 39 gigs o
 
 ## Shares bills with
 
-Amine Edge & DANCE, Anabel Englund, Anthony Attalla
+Anabel Englund, Anthony Attalla, DEEPFAKE
 
 *Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxinne/)*

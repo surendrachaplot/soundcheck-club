@@ -1,6 +1,6 @@
 # UNISON at TBA - Sr Grill Foro Amberes, Zona Rosa, CDMX
 
-UNISON at TBA - Sr Grill Foro Amberes, Zona Rosa, CDMX on Fri 11 Dec, Mexico City. 1 artist: Diego Saaz. Techno and House. See the line-up on soundcheck.
+UNISON at TBA - Sr Grill Foro Amberes, Zona Rosa, CDMX on Fri 11 Dec, Mexico City. 2 artists: Diego Saaz and YAM YAMS. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ UNISON at TBA - Sr Grill Foro Amberes, Zona Rosa, CDMX on Fri 11 Dec, Mexico Cit
 ## Line-up
 
 - Diego Saaz
+- YAM YAMS
 
 *Source: [soundcheck](https://soundcheck.club/e/2579764-unison-at-tba-sr-grill-foro-amberes-zona-rosa-cdmx/)*

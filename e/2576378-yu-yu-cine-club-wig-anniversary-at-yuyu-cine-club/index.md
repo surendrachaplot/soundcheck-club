@@ -1,11 +1,16 @@
 # Yu Yu Cine Club: WiG Anniversary at YuYu Cine Club
 
-Yu Yu Cine Club: WiG Anniversary at YuYu Cine Club on Fri 27 Nov, Mexico City. See the line-up on soundcheck.
+Yu Yu Cine Club: WiG Anniversary at YuYu Cine Club on Fri 27 Nov, Mexico City. 2 artists: fka phaedra and TOCCORORO. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Fri, 27 Nov 2026 |
 | Venue | YuYu Cine Club |
 | City | Mexico City |
+
+## Line-up
+
+- fka phaedra
+- TOCCORORO
 
 *Source: [soundcheck](https://soundcheck.club/e/2576378-yu-yu-cine-club-wig-anniversary-at-yuyu-cine-club/)*

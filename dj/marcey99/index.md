@@ -1,8 +1,8 @@
 # Marcey99
 
-Marcey99 is a Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at OXI, Berlin on Sat, 14 Nov 2026.
+Marcey99 is a Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at OXI, Berlin on Sat, 14 Nov 2026.
 
-Marcey99 is a techno artist based in Germany, with 9 gigs on soundcheck across Berlin and Frankfurt. Often billed alongside The Blackmailer, Damien Barthet and Heepmann. Next up: OXI, Berlin on Sat 14 Nov.
+Marcey99 is a techno artist based in Germany, with 10 gigs on soundcheck across Berlin and Frankfurt. Often billed alongside The Blackmailer, Damien Barthet and Heepmann. Next up: OXI, Berlin on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Marcey99 is a techno artist based in Germany, with 9 gigs on soundcheck across B
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | OXI | Berlin |
 | Sat, 14 Nov 2026 | OXI | Berlin |
+| Thu, 31 Dec 2026 | Tanzhaus West | Frankfurt |
 
 ## Recently played
 

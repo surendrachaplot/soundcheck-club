@@ -1,13 +1,14 @@
 # Ele Luz
 
-Ele Luz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Ritter Butzke, Berlin on Thu, 31 Dec 2026.
+Ele Luz is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Hoppetosse, Berlin on Sat, 12 Dec 2026.
 
-Ele Luz is a techno and house artist based in Germany, with 127 gigs on soundcheck across Berlin, Cologne, Copenhagen and Frankfurt and 8 more. Often billed alongside Horst Haller, Maurice Mino and Leon Licht. Next up: Ritter Butzke, Berlin on Thu 31 Dec.
+Ele Luz is a techno and house artist based in Germany, with 128 gigs on soundcheck across Berlin, Cologne, Copenhagen and Frankfurt and 8 more. Often billed alongside Horst Haller, Leon Licht and Maurice Mino. Next up: Hoppetosse, Berlin on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Dec 2026 | Hoppetosse | Berlin |
 | Thu, 31 Dec 2026 | Ritter Butzke | Berlin |
 
 ## Recently played
@@ -23,6 +24,6 @@ Ele Luz is a techno and house artist based in Germany, with 127 gigs on soundche
 
 ## Shares bills with
 
-Horst Haller, Maurice Mino, Leon Licht
+Horst Haller, Leon Licht, Maurice Mino
 
 *Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eleluz/)*

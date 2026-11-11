@@ -1,8 +1,8 @@
 # Mall Grab
 
-Mall Grab is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA, Singapore on Sat, 21 Nov 2026.
+Mall Grab is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA, Singapore on Sat, 21 Nov 2026.
 
-Mall Grab is a house and techno artist based in Australia, with 229 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Antwerp and 80 more. Often billed alongside Effy, KETTAMA and Skin On Skin. Next up: TBA, Singapore on Sat 21 Nov.
+Mall Grab is a house and techno artist based in Australia, with 230 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Antwerp and 80 more. Often billed alongside Effy, KETTAMA and Skin On Skin. Next up: TBA, Singapore on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Mall Grab is a house and techno artist based in Australia, with 229 gigs on soun
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | TBA | Singapore |
 | Sun, 22 Nov 2026 | TBA | Hong Kong |
+| Sat, 5 Dec 2026 | Mint XL | Leeds |
 | Fri, 18 Dec 2026 | Complex Maastricht | Netherlands |
 | Sat, 19 Dec 2026 | Depot Mayfield | Manchester |
 | Sun, 20 Dec 2026 | Thuishaven | Amsterdam |

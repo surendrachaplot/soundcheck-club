@@ -1,14 +1,15 @@
 # Jorge Barr
 
-Jorge Barr is a Experimental and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Carolina Sardi Studio: 260 NE 60th Street, Miami, Miami on Sat, 5 Dec 2026.
+Jorge Barr is a Experimental and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Carolina Sardi Studio: 260 NE 60th Street, Miami, Miami on Sat, 5 Dec 2026.
 
-Jorge Barr is an experimental and electro artist, with 6 gigs on soundcheck across Miami. Often billed alongside Energy No13, Eden Grey and Calderin. Next up: TBA - Carolina Sardi Studio: 260 NE 60th Street, Miami, Miami on Sat 5 Dec.
+Jorge Barr is an experimental and electro artist, with 7 gigs on soundcheck across Miami. Often billed alongside Energy No13, Eden Grey and Calderin. Next up: TBA - Carolina Sardi Studio: 260 NE 60th Street, Miami, Miami on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | TBA - Carolina Sardi Studio: 260 NE 60th Street, Miami | Miami |
+| Sat, 19 Dec 2026 | Propaganda | Miami |
 
 ## Recently played
 

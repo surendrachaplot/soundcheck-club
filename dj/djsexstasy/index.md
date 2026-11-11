@@ -1,8 +1,8 @@
 # DJ SEXSTASY
 
-DJ SEXSTASY is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Sainte-Catherine Hall, Montreal on Sat, 14 Nov 2026.
+DJ SEXSTASY is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Sainte-Catherine Hall, Montreal on Sat, 14 Nov 2026.
 
-DJ SEXSTASY is a techno and trance artist based in Brazil, with 51 gigs on soundcheck across Amsterdam, Atlanta, Austin and Berlin and 19 more. Often billed alongside Rishka, Towicz and Cara Elizabeth. Next up: Sainte-Catherine Hall, Montreal on Sat 14 Nov.
+DJ SEXSTASY is a techno and trance artist based in Brazil, with 52 gigs on soundcheck across Amsterdam, Atlanta, Austin and Berlin and 19 more. Often billed alongside Rishka, Towicz and GI.O. Next up: Sainte-Catherine Hall, Montreal on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ DJ SEXSTASY is a techno and trance artist based in Brazil, with 51 gigs on sound
 | Sat, 14 Nov 2026 | Sainte-Catherine Hall | Montreal |
 | Thu, 19 Nov 2026 | THE BATHS | Austin |
 | Sat, 21 Nov 2026 | MAD Club Live | Miami |
+| Fri, 4 Dec 2026 | AMT | Berlin |
 | Sat, 19 Dec 2026 | La Cova | Hamburg |
 | Wed, 30 Dec 2026 | RAW- Lokschuppen + Astra Kulturhaus | Berlin |
 
@@ -27,6 +28,6 @@ DJ SEXSTASY is a techno and trance artist based in Brazil, with 51 gigs on sound
 
 ## Shares bills with
 
-Rishka, Towicz, Cara Elizabeth
+Rishka, Towicz, GI.O
 
 *Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsexstasy/)*

@@ -1,13 +1,14 @@
 # Fracture
 
-Fracture is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Garden Tisno, London on Thu, 22 Jul 2027.
+Fracture is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at FOLD, London on Fri, 20 Nov 2026.
 
-Fracture is a drum & bass and jungle artist based in United Kingdom, with 53 gigs on soundcheck across Antwerp, Berlin, Brighton and Bristol and 9 more. Often billed alongside Tim Reaper, DJ Flight and Decibella. Next up: The Garden Tisno, London on Thu 22 Jul.
+Fracture is a drum & bass and jungle artist based in United Kingdom, with 54 gigs on soundcheck across Antwerp, Berlin, Brighton and Bristol and 9 more. Often billed alongside Tim Reaper, DJ Flight and Decibella. Next up: FOLD, London on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | FOLD | London |
 | Thu, 22 Jul 2027 | The Garden Tisno | London |
 
 ## Recently played

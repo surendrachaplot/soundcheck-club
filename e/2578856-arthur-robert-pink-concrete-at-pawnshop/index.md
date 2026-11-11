@@ -1,6 +1,6 @@
 # Arthur Robert & Pink Concrete at Pawnshop
 
-Arthur Robert & Pink Concrete at Pawnshop on Sat 19 Dec, Taipei. 2 artists: Arthur Robert and Pink Concrete. See the line-up on soundcheck.
+Arthur Robert & Pink Concrete at Pawnshop on Sat 19 Dec, Taipei. 4 artists: Arthur Robert, klu, Pink Concrete and SNZI. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,8 @@ Arthur Robert & Pink Concrete at Pawnshop on Sat 19 Dec, Taipei. 2 artists: Arth
 ## Line-up
 
 - Arthur Robert
+- klu (1)
 - Pink Concrete
+- SNZI
 
 *Source: [soundcheck](https://soundcheck.club/e/2578856-arthur-robert-pink-concrete-at-pawnshop/)*

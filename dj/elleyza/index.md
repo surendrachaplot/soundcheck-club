@@ -1,14 +1,15 @@
 # Elleyza
 
-Elleyza is a Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Mergener Hof, Rhineland-palatinate on Thu, 31 Dec 2026.
+Elleyza is a Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Mergener Hof, Rhineland-palatinate on Thu, 31 Dec 2026.
 
-Elleyza is a techno artist based in Germany, with 6 gigs on soundcheck across Munich and Rhineland Palatinate. Often billed alongside 9LALEY, Listenblondie and ANASTASÍA. Next up: Mergener Hof, Rhineland Palatinate on Thu 31 Dec.
+Elleyza is a techno artist based in Germany, with 7 gigs on soundcheck across Munich and Rhineland Palatinate. Often billed alongside 9LALEY, Listenblondie and ANASTASÍA. Next up: Mergener Hof, Rhineland Palatinate on Thu 31 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 31 Dec 2026 | Mergener Hof | Rhineland-palatinate |
+| Thu, 31 Dec 2026 | Bahnwärter Thiel | Munich |
 
 ## Recently played
 

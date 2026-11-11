@@ -1,6 +1,6 @@
 # Sachsentrance at RSO.BERLIN
 
-Sachsentrance at RSO.BERLIN on Fri 13 Nov, Berlin. 7 artists: Anna Ullrich, DJ GUESTLIST, kichererbsenstampf and RaverPik and 3 more. Trance and Techno. See the line-up on soundcheck.
+Sachsentrance at RSO.BERLIN on Fri 13 Nov, Berlin. 8 artists: Anna Ullrich, Atreo, DJ GUESTLIST and kichererbsenstampf and 4 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Sachsentrance at RSO.BERLIN on Fri 13 Nov, Berlin. 7 artists: Anna Ullrich, DJ G
 ## Line-up
 
 - Anna Ullrich
+- Atreo
 - DJ GUESTLIST
 - kichererbsenstampf
 - RaverPik

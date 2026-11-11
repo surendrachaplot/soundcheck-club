@@ -1,13 +1,14 @@
 # Waeys
 
-Waeys is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Flex, Vienna on Sat, 14 Nov 2026.
+Waeys is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Flex, Vienna on Sat, 14 Nov 2026.
 
-Waeys is a drum & bass and jungle artist based in Netherlands, with 38 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brighton and 18 more. Often billed alongside Kasra, Enei and Simula. Next up: Flex, Vienna on Sat 14 Nov.
+Waeys is a drum & bass and jungle artist based in Netherlands, with 39 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brighton and 18 more. Often billed alongside Kasra, Enei and Simula. Next up: Flex, Vienna on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | Flex | Vienna |
 | Sat, 14 Nov 2026 | Flex | Vienna |
 | Sat, 5 Dec 2026 | Mia Mao | Paris |
 

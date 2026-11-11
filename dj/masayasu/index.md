@@ -1,14 +1,15 @@
 # MASAYASU
 
-MASAYASU is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at WOMB, Tokyo on Fri, 13 Nov 2026.
+MASAYASU is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at WOMB, Tokyo on Fri, 13 Nov 2026.
 
-MASAYASU is a house and techno artist based in Japan, with 79 gigs on soundcheck across Osaka and Tokyo. Often billed alongside DJ SHIKISAI, LIGHTING MIURA and Kamekawa. Next up: WOMB, Tokyo on Fri 13 Nov.
+MASAYASU is a house and techno artist based in Japan, with 80 gigs on soundcheck across Osaka and Tokyo. Often billed alongside DJ SHIKISAI, LIGHTING MIURA and Kamekawa. Next up: WOMB, Tokyo on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | WOMB | Tokyo |
+| Sat, 14 Nov 2026 | Z Maruyama | Tokyo |
 
 ## Recently played
 

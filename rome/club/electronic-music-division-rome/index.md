@@ -1,14 +1,13 @@
 # Electronic Music Division Rome
 
-Electronic Music Division Rome is a music venue in Rome with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "BAR AUDIO#7 Lorenzo Fortino" on Wed, 11 Nov 2026.
+Electronic Music Division Rome is a music venue in Rome with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "BAR AUDIO #9 - Nevel, Jimo" on Wed, 25 Nov 2026.
 
-Electronic Music Division Rome is a music venue in Rome listed on soundcheck. 3 upcoming gigs, with line-ups including Lorenzo Fortino, Marzano and Nevel. See dates, start times and who's playing.
+Electronic Music Division Rome is a music venue in Rome listed on soundcheck. 2 upcoming gigs, with line-ups including Marzano and Nevel. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 11 Nov 2026 | BAR AUDIO#7 Lorenzo Fortino | Lorenzo Fortino |
 | Wed, 25 Nov 2026 | BAR AUDIO #9 - Nevel, Jimo | Nevel |
 | Wed, 16 Dec 2026 | BAR AUDIO #12 pres. ENRICO COSIMI | Marzano |
 

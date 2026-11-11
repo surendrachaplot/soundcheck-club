@@ -1,8 +1,8 @@
 # Pawlowski
 
-Pawlowski is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at OST, Berlin on Fri, 27 Nov 2026.
+Pawlowski is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at OST, Berlin on Fri, 27 Nov 2026.
 
-Pawlowski is a techno and trance artist based in France, with 141 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 61 more. Often billed alongside Nico Moreno, Azyr and LESSSS. Next up: OST, Berlin on Fri 27 Nov.
+Pawlowski is a techno and trance artist based in France, with 142 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 61 more. Often billed alongside Nico Moreno, Azyr and LESSSS. Next up: OST, Berlin on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Pawlowski is a techno and trance artist based in France, with 141 gigs on soundc
 | Fri, 4 Dec 2026 | Castle Club | Cyprus |
 | Sat, 5 Dec 2026 | Flanders Expo Centre | Ghent |
 | Wed, 30 Dec 2026 | Brussels Expo | Brussels |
+| Sat, 6 Mar 2027 | BASIS | Utrecht |
 
 ## Recently played
 

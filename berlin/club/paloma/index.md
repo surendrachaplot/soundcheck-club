@@ -1,8 +1,8 @@
 # Paloma
 
-Paloma is a music venue in Berlin with 28 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Swarm" on Thu, 12 Nov 2026.
+Paloma is a music venue in Berlin with 29 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Swarm" on Thu, 12 Nov 2026.
 
-Paloma is a music venue in Berlin listed on soundcheck. 28 upcoming gigs, with line-ups including acidheaven, Adelina, Adriano Scopece and Almost Famous and 2 more. See dates, start times and who's playing. Skalitzer Str. 135, 10999 Berlin.
+Paloma is a music venue in Berlin listed on soundcheck. 29 upcoming gigs, with line-ups including acidheaven, Adelina, Adriano Scopece and Almost Famous and 2 more. See dates, start times and who's playing. Skalitzer Str. 135, 10999 Berlin.
 
 ## What's on
 

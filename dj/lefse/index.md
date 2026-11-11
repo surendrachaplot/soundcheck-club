@@ -1,13 +1,14 @@
 # LEFSE
 
-LEFSE is a Techno and Pop artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Distillery Complex, Pittsburgh on Fri, 4 Dec 2026.
+LEFSE is a Techno and Pop artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Collapse, Pittsburgh on Fri, 20 Nov 2026.
 
-LEFSE is a techno and pop artist based in United States of America, with 17 gigs on soundcheck across Pittsburgh. Often billed alongside Lemonline, Formosa and moistbreezy. Next up: The Distillery Complex, Pittsburgh on Fri 4 Dec.
+LEFSE is a techno and pop artist based in United States of America, with 18 gigs on soundcheck across Pittsburgh. Often billed alongside Lemonline, Formosa and moistbreezy. Next up: Collapse, Pittsburgh on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | Collapse | Pittsburgh |
 | Fri, 4 Dec 2026 | The Distillery Complex | Pittsburgh |
 
 ## Recently played

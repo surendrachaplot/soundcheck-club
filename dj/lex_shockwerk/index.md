@@ -1,13 +1,14 @@
 # lex_shockwerk
 
-lex_shockwerk is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Lehmann Club, Stuttgart on Fri, 18 Dec 2026.
+lex_shockwerk is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at KALT, Strasbourg on Sat, 28 Nov 2026.
 
-lex_shockwerk is a techno and house artist based in Germany, with 42 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 10 more. Often billed alongside slin, Tino Machauer and MATRIX3K. Next up: Lehmann Club, Stuttgart on Fri 18 Dec.
+lex_shockwerk is a techno and house artist based in Germany, with 43 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 11 more. Often billed alongside slin, Tino Machauer and MATRIX3K. Next up: KALT, Strasbourg on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | KALT | Strasbourg |
 | Fri, 18 Dec 2026 | Lehmann Club | Stuttgart |
 | Thu, 31 Dec 2026 | Renate | Berlin |
 

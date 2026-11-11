@@ -1,8 +1,8 @@
 # Kiyoshi
 
-Kiyoshi is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Signal, New York City on Thu, 12 Nov 2026.
+Kiyoshi is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Signal, New York City on Thu, 12 Nov 2026.
 
-Kiyoshi is a house and techno artist based in United States of America, with 116 gigs on soundcheck across Los Angeles, New York City, Osaka and Tbilisi and 2 more. Often billed alongside Armii1n, Chuwee and Gui Machado. Next up: Signal, New York City on Thu 12 Nov.
+Kiyoshi is a house and techno artist based in United States of America, with 118 gigs on soundcheck across Los Angeles, New York City, Osaka and Tbilisi and 2 more. Often billed alongside Armii1n, Chuwee and Gui Machado. Next up: Signal, New York City on Thu 12 Nov.
 
 ## Upcoming shows
 
@@ -11,7 +11,9 @@ Kiyoshi is a house and techno artist based in United States of America, with 116
 | Thu, 12 Nov 2026 | Signal | New York City |
 | Fri, 13 Nov 2026 | House of Yes | New York City |
 | Sat, 14 Nov 2026 | Danger Danger | New York City |
+| Thu, 19 Nov 2026 | MAD Radio NYC | New York City |
 | Sat, 21 Nov 2026 | TBA - East Williamsburg | New York City |
+| Sun, 22 Nov 2026 | Green Room NYC | New York City |
 
 ## Recently played
 

@@ -1,14 +1,15 @@
 # Sabura
 
-Sabura is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Lieberscholli, Munich on Fri, 20 Nov 2026.
+Sabura is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Lieberscholli, Munich on Fri, 20 Nov 2026.
 
-Sabura is a techno and house artist based in Germany, with 112 gigs on soundcheck across Berlin, Cologne, Frankfurt and Freiburg and 12 more. Often billed alongside Maurice Mino, Konfusia and Sin:port. Next up: Lieberscholli, Munich on Fri 20 Nov.
+Sabura is a techno and house artist based in Germany, with 113 gigs on soundcheck across Berlin, Cologne, Frankfurt and Freiburg and 12 more. Often billed alongside Maurice Mino, Konfusia and Sin:port. Next up: Lieberscholli, Munich on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Lieberscholli | Munich |
+| Thu, 31 Dec 2026 | Bahnwärter Thiel | Munich |
 
 ## Recently played
 

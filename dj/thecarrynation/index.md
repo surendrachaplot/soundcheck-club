@@ -1,13 +1,14 @@
 # The Carry Nation
 
-The Carry Nation is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at 314 Scholes, New York City on Sun, 3 Jan 2027.
+The Carry Nation is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Belasco Theater, Los Angeles on Thu, 31 Dec 2026.
 
-The Carry Nation is a house and techno artist based in United States of America, with 172 gigs on soundcheck across Austin, Berlin, Chicago and Copenhagen and 19 more. Often billed alongside Nita Aviance, Will Automagic and Eli Escobar. Next up: 314 Scholes, New York City on Sun 3 Jan.
+The Carry Nation is a house and techno artist based in United States of America, with 173 gigs on soundcheck across Austin, Berlin, Chicago and Copenhagen and 19 more. Often billed alongside Nita Aviance, Will Automagic and Eli Escobar. Next up: Belasco Theater, Los Angeles on Thu 31 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 31 Dec 2026 | Belasco Theater | Los Angeles |
 | Sun, 3 Jan 2027 | 314 Scholes | New York City |
 
 ## Recently played

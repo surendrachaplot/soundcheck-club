@@ -12,7 +12,7 @@ FOLD is a music venue in London listed on soundcheck. 26 upcoming gigs, with lin
 | Fri, 13 Nov 2026 | Boudica x Gegen - 1 room + XXL Playroom | Boris, Jeneva, Mar/us, Metaraph, Samantha Togni |
 | Sat, 14 Nov 2026 | Chaos In The CBD present 'In Dust We Trust' Tour [SOLD OUT] | Chaos In The CBD, Sanctuary |
 | Sat, 14 Nov 2026 | FOLD X Mala Junta (EXTENDED) | Byron Yeates, D.Dan, DJ TOOL, Hyperaktivist, James Newmarch, Kasra V, Miss Parker, Nina Pixina, Riva, Voicedrone, Yazzus |
-| Fri, 20 Nov 2026 | 20 Years of Rupture (Ferry to the Underworld - The Play) |  |
+| Fri, 20 Nov 2026 | 20 Years of Rupture (Ferry to the Underworld - The Play) | Blackeye MC, DJ Flight, Decibella, Double O, Fracture, Mantra, SIMMS, Sweetpea, Tasha, Tim Reaper, VXRGO |
 | Sat, 21 Nov 2026 | Cartulis 17th Year Anniversary | Cecilio, DJ Masda, Das Firmament, Exkursion, Innuendo, Junki Inoue, Laurine, Paranoid London, Sanctus Libido, Unai Trotti, Vass, Z@p |
 | Sat, 21 Nov 2026 | Transmissions: Donato Dozzy, Sedef Adasï, Naone, David Fogarty (Day) | David Fogarty, Donato Dozzy, FROND, Inner Zone, Naone, Ryan Ingleby, Sedef Adasï |
 | Sun, 22 Nov 2026 | UNFOLD CXXXV |  |

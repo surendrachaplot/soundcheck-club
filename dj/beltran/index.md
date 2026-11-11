@@ -1,8 +1,8 @@
 # Beltran
 
-Beltran is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Expo Santa Fe, Mexico City on Fri, 20 Nov 2026.
+Beltran is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Expo Santa Fe, Mexico City on Fri, 20 Nov 2026.
 
-Beltran is a house and tech house artist based in United States of America, with 88 gigs on soundcheck across Amsterdam, Austin, Bogotá and Boston and 32 more. Often billed alongside Ben Sterling, Carlita and ChaseWest. Next up: Expo Santa Fe, Mexico City on Fri 20 Nov.
+Beltran is a house and tech house artist based in United States of America, with 89 gigs on soundcheck across Amsterdam, Austin, Bogotá and Boston and 32 more. Often billed alongside Ben Sterling, Carlita and ChaseWest. Next up: Expo Santa Fe, Mexico City on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Beltran is a house and tech house artist based in United States of America, with
 | Wed, 30 Dec 2026 | Radius | Chicago |
 | Thu, 31 Dec 2026 | Petco Park | San-diego |
 | Fri, 1 Jan 2027 | Pier 48's Shed A | San Francisco/Oakland |
+| Tue, 9 Feb 2027 | Museu do Amanhã | Rio de Janeiro |
 | Sat, 3 Apr 2027 | Maimarkthalle | Mannheim |
 
 ## Recently played

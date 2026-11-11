@@ -9,7 +9,7 @@ Hertz is a music venue in Seoul listed on soundcheck. 2 upcoming gigs, with line
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Hertz 헤르츠: *DAPS* with Miles Mercer (Accessory Records, US) | AND1 (2), Acidwork, Miles Mercer |
-| Sun, 15 Nov 2026 | Hertz 헤르츠 presents: Strain Showcase with Rindeau (AR) | Baso, Jesse You, Rindeau |
+| Sat, 14 Nov 2026 | Hertz 헤르츠 presents: Strain Showcase with Rindeau (AR) | Baso, Jesse You, Rindeau |
 
 ## Address
 

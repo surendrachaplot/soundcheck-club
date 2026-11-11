@@ -1,13 +1,14 @@
 # Backlogs
 
-Backlogs is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - SECRET WHAREHOUSE, Berlin on Sat, 19 Dec 2026.
+Backlogs is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Para Klub Beograd, Belgrade on Sun, 29 Nov 2026.
 
-Backlogs is a techno and house artist based in Italy, with 11 gigs on soundcheck across Berlin. Often billed alongside Esterne Moog, Gianmarco Silvetti and Joy Huebner. Next up: TBA - SECRET WHAREHOUSE, Berlin on Sat 19 Dec.
+Backlogs is a techno and house artist based in Italy, with 12 gigs on soundcheck across Belgrade and Berlin. Often billed alongside Esterne Moog, Gianmarco Silvetti and Joy Huebner. Next up: Para Klub Beograd, Belgrade on Sun 29 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 29 Nov 2026 | Para Klub Beograd | Belgrade |
 | Sat, 19 Dec 2026 | TBA - SECRET WHAREHOUSE | Berlin |
 
 ## Recently played

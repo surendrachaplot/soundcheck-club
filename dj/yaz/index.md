@@ -1,14 +1,13 @@
 # Yaz
 
-Yaz is a Deep House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at QQQ ST. Park, Melbourne on Fri, 13 Nov 2026.
+Yaz is a Deep House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Thu, 19 Nov 2026.
 
-Yaz is a deep house and tech house artist based in United States of America, with 67 gigs on soundcheck across Bangkok, Manchester, Melbourne and San Francisco/Oakland and 2 more. Often billed alongside OGAN, Kohbain and Justyn Myers. Next up: QQQ ST. Park, Melbourne on Fri 13 Nov.
+Yaz is a deep house and tech house artist based in United States of America, with 66 gigs on soundcheck across Bangkok, Manchester, Melbourne and San Francisco/Oakland and 2 more. Often billed alongside OGAN, Kohbain and Justyn Myers. Next up: F8 1192 Folsom, San Francisco/Oakland on Thu 19 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | QQQ ST. Park | Melbourne |
 | Thu, 19 Nov 2026 | F8 1192 Folsom | San Francisco/Oakland |
 | Sun, 29 Nov 2026 | Miscellania | Melbourne |
 | Thu, 3 Dec 2026 | Mothership | San Francisco/Oakland |

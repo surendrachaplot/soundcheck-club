@@ -1,6 +1,6 @@
 # Ad-hoc Acid Party at DeTour
 
-Ad-hoc Acid Party at DeTour on Sun 15 Nov, Tokyo. 3 artists: KASHIWAGI, Krankent and Will A. House and Acid. See the line-up on soundcheck.
+Ad-hoc Acid Party at DeTour on Sun 15 Nov, Tokyo. 4 artists: DJ MASASHI MATSUI, KASHIWAGI, Krankent and Will A. House and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Ad-hoc Acid Party at DeTour on Sun 15 Nov, Tokyo. 3 artists: KASHIWAGI, Krankent
 
 ## Line-up
 
+- DJ MASASHI MATSUI
 - KASHIWAGI
 - Krankent
 - Will A

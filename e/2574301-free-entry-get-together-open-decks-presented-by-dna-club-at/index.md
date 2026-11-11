@@ -1,11 +1,16 @@
 # FREE ENTRY: Get-Together: OPEN DECKS - presented by DNA. CLUB at DNA. CLUB
 
-FREE ENTRY: Get-Together: OPEN DECKS - presented by DNA. CLUB on Fri 13 Nov, Berlin. Techno and House. See the line-up on soundcheck.
+FREE ENTRY: Get-Together: OPEN DECKS - presented by DNA. CLUB on Fri 13 Nov, Berlin. 2 artists: André Skuda and Miss T Delight. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Fri, 13 Nov 2026 |
 | Venue | DNA. CLUB |
 | City | Berlin |
+
+## Line-up
+
+- André Skuda
+- Miss T Delight
 
 *Source: [soundcheck](https://soundcheck.club/e/2574301-free-entry-get-together-open-decks-presented-by-dna-club-at/)*

@@ -5532,10 +5532,16 @@ a.fst-t:hover{text-decoration:underline}
     }
     [data-ic="search"]{ --ic:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M18 11a7 7 0 1 1-14 0 7 7 0 0 1 14 0zM20 20l-4-4' fill='none' stroke='%23000' stroke-width='1.9' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E"); }
 </style>
-  <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
-       history on navigation, which umami picks up automatically. -->
-  <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1794411980114">
+  <!-- Umami analytics, loaded on the FIRST real touch, scroll, mouse move or key (11 Nov 2026: half the
+       "visitors" were headless bots from SC/SG/PK that load the page and never move). Automated browsers
+       (navigator.webdriver, headless/bot user agents, no languages) never load it. The SPA rewrites history
+       on navigation, which umami picks up once loaded. -->
+  <script id="umami-gate">(function(){var n=navigator,E=['pointerdown','pointermove','scroll','wheel','keydown','touchstart'];
+    if(n.webdriver||/headless|bot|crawl|spider|slurp|lighthouse|phantom|puppeteer|playwright|selenium/i.test(n.userAgent||'')||!(n.languages&&n.languages.length))return;
+    function go(){if(go.d)return;go.d=1;E.forEach(function(e){removeEventListener(e,go,true)});
+      var s=document.createElement('script');s.defer=true;s.src='https://cloud.umami.is/script.js';s.setAttribute('data-website-id','de210b6c-12e4-4819-95f6-f5120974855a');document.head.appendChild(s);}
+    E.forEach(function(e){addEventListener(e,go,{capture:true,passive:true})});})();</script>
+<meta name="sc-build" content="1794438479939">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Gigs%20%26%20artist%20sets%20in%20171%20cities" />
 </head>
@@ -5595,7 +5601,7 @@ a.fst-t:hover{text-decoration:underline}
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-11-11/">Wed 11 Nov <span class="c">14 events</span></a></li><li><a href="/london/2026-11-12/">Thu 12 Nov <span class="c">37 events</span></a></li><li><a href="/london/2026-11-13/">Fri 13 Nov <span class="c">110 events</span></a></li><li><a href="/london/2026-11-14/">Sat 14 Nov <span class="c">139 events</span></a></li><li><a href="/london/2026-11-15/">Sun 15 Nov <span class="c">26 events</span></a></li><li><a href="/london/2026-11-17/">Tue 17 Nov <span class="c">4 events</span></a></li><li><a href="/london/2026-11-18/">Wed 18 Nov <span class="c">13 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 171 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-11-11/">Wed 11 Nov <span class="c">7 events</span></a></li><li><a href="/london/2026-11-12/">Thu 12 Nov <span class="c">37 events</span></a></li><li><a href="/london/2026-11-13/">Fri 13 Nov <span class="c">112 events</span></a></li><li><a href="/london/2026-11-14/">Sat 14 Nov <span class="c">143 events</span></a></li><li><a href="/london/2026-11-15/">Sun 15 Nov <span class="c">26 events</span></a></li><li><a href="/london/2026-11-17/">Tue 17 Nov <span class="c">4 events</span></a></li><li><a href="/london/2026-11-18/">Wed 18 Nov <span class="c">14 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 171 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          h1 in the DOM (on home and city pages; build-seo makes it an h2 elsewhere), so it is
@@ -5943,7 +5949,7 @@ a.fst-t:hover{text-decoration:underline}
       try{
         if(_trkMute || window.__scNoGate) return;   // inside the apps this page is the hidden player: the apps send their own events
         if(window.umami && umami.track) umami.track(name, data||{});
-        else if((n||0)<10) setTimeout(function(){ sgTrack(name, data, (n||0)+1); }, 500);   // the Umami script is deferred: wait up to 5 s for it
+        else if((n||0)<20) setTimeout(function(){ sgTrack(name, data, (n||0)+1); }, 500);   // Umami loads on the first touch (bots never): wait up to 10 s for it
       }catch(_){}
     }
     // The mail provider class, from the DOMAIN only (auth.js mailProvider is the same list).

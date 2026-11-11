@@ -1,8 +1,8 @@
 # The Jama
 
-The Jama is a music venue in Toronto with 8 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "AQUAPHOR" on Fri, 13 Nov 2026.
+The Jama is a music venue in Toronto with 9 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "AQUAPHOR" on Fri, 13 Nov 2026.
 
-The Jama is a music venue in Toronto listed on soundcheck. 8 upcoming gigs, with line-ups including 999ADJ, Ana Luisa, anise and Brock Stacey and 2 more. See dates, start times and who's playing. 961 College Street.
+The Jama is a music venue in Toronto listed on soundcheck. 9 upcoming gigs, with line-ups including 999ADJ, Ana Luisa, anise and Brock Stacey and 2 more. See dates, start times and who's playing. 961 College Street.
 
 ## What's on
 
@@ -15,7 +15,8 @@ The Jama is a music venue in Toronto listed on soundcheck. 8 upcoming gigs, with
 | Fri, 27 Nov 2026 | yo yo oto presents: Daniel Bell | DJ Trustfall, Daniel Bell, Hiroki |
 | Sat, 28 Nov 2026 | SHANGO with Chicago Legend Gene Hunt / Kiki LeFreak, Zeina, Whodafunkisgreg & Brock Stacey | Brock Stacey, Gene Hunt, Kiki LeFreak, Zeina |
 | Fri, 4 Dec 2026 |  VOLTAGE  | 999ADJ, Program Sam, Shawescape Renegade |
-| Fri, 18 Dec 2026 | benefit party | Prince Batrick |
+| Sat, 5 Dec 2026 | SCORCHED EARTH: Communal Art Expo & Rave | DANTE (CA), Davis (CA), Nina Rossing |
+| Fri, 18 Dec 2026 | finally gay: the first annual decem-benefit party | Prince Batrick |
 
 ## Address
 

@@ -1,6 +1,6 @@
 # Day & Night Party - 8 Years of DRIFT at People's Leisure Club
 
-Day & Night Party - 8 Years of DRIFT at People's Leisure Club on Sat 28 Nov, Edinburgh. 14 artists: Bolam, BPK, Caligari_ and Cornetta and 10 more. Experimental and Club. See the line-up on soundcheck.
+Day & Night Party - 8 Years of DRIFT at People's Leisure Club on Sat 28 Nov, Edinburgh. 13 artists: Bolam, BPK, Caligari_ and Cornetta and 9 more. Experimental and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,7 +15,6 @@ Day & Night Party - 8 Years of DRIFT at People's Leisure Club on Sat 28 Nov, Edi
 - Caligari_
 - Cornetta
 - FLIPSIDE.
-- freddy haptic
 - Jedda
 - Kami-O
 - Kitsta

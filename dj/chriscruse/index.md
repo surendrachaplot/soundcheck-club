@@ -1,14 +1,15 @@
 # Chris Cruse
 
-Chris Cruse is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at POTENT, Shanghai on Fri, 13 Nov 2026.
+Chris Cruse is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at POTENT, Shanghai on Fri, 13 Nov 2026.
 
-Chris Cruse is a house and techno artist based in United States of America, with 122 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 38 more. Often billed alongside Luigi Di Venere, Massimiliano Pagliara and Cormac. Next up: POTENT, Shanghai on Fri 13 Nov.
+Chris Cruse is a house and techno artist based in United States of America, with 123 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 38 more. Often billed alongside Luigi Di Venere, Massimiliano Pagliara and Cormac. Next up: POTENT, Shanghai on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | POTENT | Shanghai |
+| Thu, 31 Dec 2026 | Belasco Theater | Los Angeles |
 
 ## Recently played
 

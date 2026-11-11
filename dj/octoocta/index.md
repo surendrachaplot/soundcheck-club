@@ -9,7 +9,7 @@ Octo Octa is a house and techno artist based in United States of America, with 2
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Lx Factory | Lisbon |
-| Sun, 15 Nov 2026 | Secret Location | London |
+| Sun, 15 Nov 2026 | TBA - E16 | London |
 | Sat, 19 Dec 2026 | smartbar | Chicago |
 | Wed, 30 Dec 2026 | TBA | Minneapolis/St Paul |
 | Thu, 31 Dec 2026 | Tangent Gallery | Detroit |

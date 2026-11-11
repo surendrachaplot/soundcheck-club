@@ -1,8 +1,8 @@
 # Minimal Bar
 
-Minimal Bar is a music venue in Berlin with 80 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "mittendrin mit Gabriele Congedo" on Wed, 11 Nov 2026.
+Minimal Bar is a music venue in Berlin with 82 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "mittendrin mit Gabriele Congedo" on Wed, 11 Nov 2026.
 
-Minimal Bar is a music venue in Berlin listed on soundcheck. 80 upcoming gigs, with line-ups including Beshy, CEEE, CL-ljud and Clarence and 2 more. See dates, start times and who's playing. Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany.
+Minimal Bar is a music venue in Berlin listed on soundcheck. 82 upcoming gigs, with line-ups including Beshy, CEEE, CL-ljud and Clarence and 2 more. See dates, start times and who's playing. Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany.
 
 ## What's on
 

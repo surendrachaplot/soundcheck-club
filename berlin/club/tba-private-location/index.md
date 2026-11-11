@@ -1,14 +1,15 @@
-# TBA - Private location
+# TBA - Private Location
 
-TBA - Private location is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "FASCINATION" on Fri, 13 Nov 2026.
+TBA - Private Location is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "FASCINATION" on Fri, 13 Nov 2026.
 
-TBA - Private location is a music venue in Berlin listed on soundcheck. 6 upcoming gigs, with line-ups including Angel Science, Bella Mode, Brendocha and Coffintexts and 2 more. See dates, start times and who's playing.
+TBA - Private Location is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, with line-ups including Angel Science, Bella Mode, Brendocha and Coffintexts and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | FASCINATION | Bella Mode, estro |
+| Fri, 13 Nov 2026 | LUNA presents Friday the 13th | LVT, Lerma, Thomas Workshop |
 | Sat, 14 Nov 2026 | DOLLY presents... Coffintexts (Tratratrax, omnidisc, Clasico) with Brendocha & 3C-MD | Brendocha, Coffintexts |
 | Fri, 20 Nov 2026 | Unmasked Behind The Sound presents Steve Bedlam |  |
 | Sat, 21 Nov 2026 | Bottom Forty UNDG | Kadeejah Streets, Nark |

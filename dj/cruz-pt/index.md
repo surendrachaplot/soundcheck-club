@@ -9,7 +9,7 @@ Cruz (PT) is a house and techno artist based in Portugal, with 86 gigs on soundc
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Hub Criativo Beato | Lisbon |
-| Sat, 14 Nov 2026 | 5A | Lisbon |
+| Sat, 21 Nov 2026 | 5A | Lisbon |
 
 ## Recently played
 

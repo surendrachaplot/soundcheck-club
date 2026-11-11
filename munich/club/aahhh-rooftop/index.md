@@ -9,7 +9,7 @@ Aahhh Rooftop is a music venue in Munich listed on soundcheck. 3 upcoming gigs, 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Toy Tonics Jam | A-DEE, COEO, Zsa-Zsa |
-| Sat, 12 Dec 2026 | friends. THE VIEW - XMAS - THE FINAL DANCE | Artur Bredo, Don Andres, YEPIK, diskoheinz |
+| Sat, 12 Dec 2026 | friends. THE VIEW - XMAS - THE FINAL DANCE | Artur Bredo, Don Andres, KØRY, YEPIK, diskoheinz |
 | Thu, 17 Dec 2026 | Glüh Baby Glüh |  |
 
 ## Address

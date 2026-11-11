@@ -1,15 +1,14 @@
 # Midwife
 
-Midwife is a Breakbeat and Experimental artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Start.Bahn - Genezarethkirche, Berlin on Wed, 11 Nov 2026.
+Midwife is a Breakbeat and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Uhelný Mlýn, Prague on Sat, 14 Nov 2026.
 
-Midwife is a breakbeat and experimental artist based in United Kingdom, with 11 gigs on soundcheck across Berlin, Dublin, Glasgow and London and 2 more. Often billed alongside KLOO, 222babychai and 96 Back. Next up: Start.Bahn - Genezarethkirche, Berlin on Wed 11 Nov.
+Midwife is a breakbeat and experimental artist based in United Kingdom, with 11 gigs on soundcheck across Berlin, Dublin, Glasgow and London and 2 more. Often billed alongside KLOO, 222babychai and 96 Back. Next up: Uhelný Mlýn, Prague on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 11 Nov 2026 | Start.Bahn - Genezarethkirche | Berlin |
-| Sat, 14 Nov 2026 | TBA - Uhelný Mlýn | Prague |
+| Sat, 14 Nov 2026 | Uhelný Mlýn | Prague |
 
 ## Recently played
 

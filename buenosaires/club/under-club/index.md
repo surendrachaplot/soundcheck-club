@@ -1,8 +1,8 @@
 # Under Club
 
-Under Club is a music venue in Buenos Aires with 9 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "ROOM SHOWCASE - ALETØ - Bondarük & SMT" on Sat, 14 Nov 2026.
+Under Club is a music venue in Buenos Aires with 10 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "ROOM SHOWCASE - ALETØ - Bondarük & SMT" on Sat, 14 Nov 2026.
 
-Under Club is a music venue in Buenos Aires listed on soundcheck. 9 upcoming gigs, with line-ups including Abstract Division, ALETØ, Ana Hagen and Ben Sims and 2 more. See dates, start times and who's playing. Niceto Vega 5699, 1425, Ciudad de Buenos Aires.
+Under Club is a music venue in Buenos Aires listed on soundcheck. 10 upcoming gigs, with line-ups including Abstract Division, ALETØ, Ana Hagen and Andrés Zacco and 2 more. See dates, start times and who's playing. Niceto Vega 5699, 1425, Ciudad de Buenos Aires.
 
 ## What's on
 
@@ -13,6 +13,7 @@ Under Club is a music venue in Buenos Aires listed on soundcheck. 9 upcoming gig
 | Fri, 20 Nov 2026 | RI7MO DEL GHETTO X Under Club | Fergus Sweetland, HERS, JXXXO, Lucas Sosa (AR), West Code |
 | Sat, 21 Nov 2026 | Ana Hagen - DEE JASON - Floorplan | Ana Hagen, Floorplan |
 | Sun, 22 Nov 2026 | CHIRI - Kenny Larkin - Robert Hood - + Under Club ( GASCÓN 1040 ) | Kenny Larkin, Robert Hood |
+| Fri, 4 Dec 2026 | BUENOS AIRES GARAGE VOL. 2 - RGB x Under Club | Andrés Zacco, Dejanon, Echosulky, HIHATDANCER, Tina Disco |
 | Sun, 6 Dec 2026 | Cierre De Año + Under Club (Gascón 1040) | Abstract Division, Devil Rays, Len Faki, Perc |
 | Mon, 7 Dec 2026 | Jorge Ciccioli - Len Faki | Jorge Ciccioli, Len Faki |
 | Sat, 12 Dec 2026 | Mariano DC - Steve Bicknell | Mariano DC, Steve Bicknell |

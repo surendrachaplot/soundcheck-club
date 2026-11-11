@@ -1,14 +1,13 @@
 # Gretchen
 
-Gretchen is a music venue in Berlin with 26 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "NICK HAKIM" on Wed, 11 Nov 2026.
+Gretchen is a music venue in Berlin with 25 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "NILS PETTER MOLVÆR TRIO *live" on Thu, 12 Nov 2026.
 
-Gretchen is a music venue in Berlin listed on soundcheck. 26 upcoming gigs, with line-ups including alllone, Allynx, anna andersrum and Ant TC1 and 2 more. See dates, start times and who's playing. Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany.
+Gretchen is a music venue in Berlin listed on soundcheck. 25 upcoming gigs, with line-ups including alllone, Allynx, anna andersrum and Ant TC1 and 2 more. See dates, start times and who's playing. Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 11 Nov 2026 | NICK HAKIM |  |
 | Thu, 12 Nov 2026 | NILS PETTER MOLVÆR TRIO *live |  |
 | Sat, 14 Nov 2026 | Recycle: BLACKOUT BERLIN | Black Sun Empire, Mc Jamie White, Merikan, Soniq, alllone |
 | Sun, 15 Nov 2026 | [CANCELLED] LEENALCHI *live |  |
@@ -18,6 +17,7 @@ Gretchen is a music venue in Berlin listed on soundcheck. 26 upcoming gigs, with
 | Fri, 20 Nov 2026 | LITTLE BARRIE *live |  |
 | Fri, 20 Nov 2026 | Recycle: CLASSIX | Mc Jamie White, Survey, Yoru, anna andersrum |
 | Sat, 21 Nov 2026 | The Bug presents: PRESSURE | Grandmixxer, Prison Religion, Slimzee, The Bug, Warrior Queen |
+| Mon, 23 Nov 2026 | [CANCELLED] ANDREEW *live |  |
 
 ## Address
 

@@ -1,14 +1,13 @@
 # Manta
 
-Manta is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Haus der Visionäre, Berlin on Wed, 11 Nov 2026.
+Manta is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Crack Bellmer, Berlin on Thu, 3 Dec 2026.
 
-Manta is a house and techno artist based in Chile, with 46 gigs on soundcheck across Berlin, Cologne and London. Often billed alongside Qualia Trax, Kosmovision and NoSpice. Next up: Haus der Visionäre, Berlin on Wed 11 Nov.
+Manta is a house and techno artist based in Chile, with 46 gigs on soundcheck across Berlin, Cologne and London. Often billed alongside Qualia Trax, Kosmovision and NoSpice. Next up: Crack Bellmer, Berlin on Thu 3 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 11 Nov 2026 | Haus der Visionäre | Berlin |
 | Thu, 3 Dec 2026 | Crack Bellmer | Berlin |
 
 ## Recently played

@@ -9,7 +9,7 @@ Distillery is a music venue in Leipzig listed on soundcheck. 11 upcoming gigs, w
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | S.D.H.Q. presents: Sonic Dimensions #2 | Die Ruhe, Emeveka, Kalitos, OutWithJane |
-| Sat, 14 Nov 2026 | CRÈME CLUB × R.A.N.D MUZIK w/ Bephål, LOLSNAKE, SLANY | Bephål, Davy, Franziska Berns, LOLSNAKE, Lulu & Nell, Reece Walker, SLANY, Shuray & Walle |
+| Sat, 14 Nov 2026 | CRÈME CLUB × R.A.N.D MUZIK w/ Bephål, LOLSNAKE, SLANY | Bephål, Davy (Crème Club), Franziska Berns, LOLSNAKE, Lulu & Nell, Reece Walker, SLANY, Shuray & Walle, stbr |
 | Tue, 17 Nov 2026 | Only Us - Sleepless Tuesday | DJ Schnürschuh, DJ Skonti, Delirante, Feta Felice, InterStella, STRUMM., Shaleen, Timstagram, itsadisasta |
 | Sat, 21 Nov 2026 | Roman Flügel × nebula | Cynthia Matisse, Lea Jessen, Roman Flügel, a:tok, moraine, morphin, noxsonos |
 | Fri, 27 Nov 2026 | Synergy 1 |  |

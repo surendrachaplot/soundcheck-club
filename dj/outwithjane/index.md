@@ -1,8 +1,8 @@
 # OutWithJane
 
-OutWithJane is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Distillery, Leipzig on Fri, 13 Nov 2026.
+OutWithJane is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Distillery, Leipzig on Fri, 13 Nov 2026.
 
-OutWithJane is a house and techno artist based in Germany, with 15 gigs on soundcheck across Berlin, Dresden and Leipzig. Often billed alongside T.Schaui, Kalitos and Kalpea. Next up: Distillery, Leipzig on Fri 13 Nov.
+OutWithJane is a house and techno artist based in Germany, with 17 gigs on soundcheck across Berlin, Dresden and Leipzig. Often billed alongside T.Schaui, Kalitos and Kalpea. Next up: Distillery, Leipzig on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,8 @@ OutWithJane is a house and techno artist based in Germany, with 15 gigs on sound
 | Sun, 15 Nov 2026 | Prisma | Berlin |
 | Fri, 20 Nov 2026 | Koralle | Dresden |
 | Sat, 28 Nov 2026 | TBA - Spätikatessen | Leipzig |
+| Sun, 6 Dec 2026 | TBA - Theresienstraße 2 | Leipzig |
+| Sat, 12 Dec 2026 | TBA - Leipzig West | Leipzig |
 
 ## Recently played
 

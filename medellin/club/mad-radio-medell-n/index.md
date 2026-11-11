@@ -1,8 +1,8 @@
 # Mad Radio Medellín
 
-Mad Radio Medellín is a music venue in Medellin with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "SONIDO FABRICATO: JACKIN' I'M! / BONN & MARC" on Wed, 11 Nov 2026.
+Mad Radio Medellín is a music venue in Medellin with 6 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "SONIDO FABRICATO: JACKIN' I'M! / BONN & MARC" on Wed, 11 Nov 2026.
 
-Mad Radio Medellín is a music venue in Medellin listed on soundcheck. 5 upcoming gigs, with line-ups including DÍSCOLA, JACKIN' I'M! and Sasso. See dates, start times and who's playing. Calle 8a # 33 - 40 Medellín.
+Mad Radio Medellín is a music venue in Medellin listed on soundcheck. 6 upcoming gigs, with line-ups including Barreto, DÍSCOLA, Hassio ( COL ) and JACKIN' I'M! and 2 more. See dates, start times and who's playing. Calle 8a # 33 - 40 Medellín.
 
 ## What's on
 
@@ -13,6 +13,7 @@ Mad Radio Medellín is a music venue in Medellin listed on soundcheck. 5 upcomin
 | Fri, 13 Nov 2026 | MUSIC LOVERS: TEOCREAM & CHARLOTTE / MAURA / JUAN D |  |
 | Sat, 14 Nov 2026 | KDYEL / MORRIS / TESH |  |
 | Sun, 15 Nov 2026 | CALE / DANILO |  |
+| Tue, 17 Nov 2026 | FUSS RADIO SHOW / HOSTED By HASSIO - Basslovers: Sammy Morris / Barreto | Barreto, Hassio ( COL ), Sammy Morris |
 
 ## Address
 

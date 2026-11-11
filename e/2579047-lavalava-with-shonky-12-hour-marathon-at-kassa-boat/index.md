@@ -1,6 +1,6 @@
 # LavaLava with Shonky — 12-hour Marathon at Kassa Boat
 
-LavaLava with Shonky — 12-hour Marathon at Kassa Boat on Fri 18 Dec, Budapest. 9 artists: Beta, Falcao, Kaesar and Kokeshi and 5 more. Techno and House. See the line-up on soundcheck.
+LavaLava with Shonky — 12-hour Marathon at Kassa Boat on Fri 18 Dec, Budapest. 10 artists: Beta, Falcao, Kaesar and Kokeshi and 6 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ LavaLava with Shonky — 12-hour Marathon at Kassa Boat on Fri 18 Dec, Budapest.
 - Falcao
 - Kaesar
 - Kokeshi
+- Levi Gava
 - Martin 'M
 - Shonky
 - SLYM

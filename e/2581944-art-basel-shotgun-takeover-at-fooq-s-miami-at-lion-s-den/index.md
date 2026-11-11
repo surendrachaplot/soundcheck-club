@@ -1,6 +1,6 @@
 # ART BASEL SHOTGUN TAKEOVER at FOOQ'S MIAMI at Lion's Den
 
-ART BASEL SHOTGUN TAKEOVER at FOOQ'S MIAMI at Lion's Den on Wed 2 Dec, Miami. 3 artists: Mashrik, Philou and Sainte Vie. See the line-up on soundcheck.
+ART BASEL SHOTGUN TAKEOVER at FOOQ'S MIAMI at Lion's Den on Wed 2 Dec, Miami. 4 artists: Jivan Calderone, Mashrik, Philou and Sainte Vie. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ ART BASEL SHOTGUN TAKEOVER at FOOQ'S MIAMI at Lion's Den on Wed 2 Dec, Miami. 3 
 
 ## Line-up
 
+- Jivan Calderone
 - Mashrik
 - Philou
 - Sainte Vie

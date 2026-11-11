@@ -1,10 +1,10 @@
 # Hertz 헤르츠 presents: Strain Showcase with Rindeau (AR) at Hertz
 
-Hertz 헤르츠 presents: Strain Showcase with Rindeau (AR) on Sun 15 Nov, Seoul. 3 artists: Baso, Jesse You and Rindeau. Acid and Club. See the line-up on soundcheck.
+Hertz 헤르츠 presents: Strain Showcase with Rindeau (AR) on Sat 14 Nov, Seoul. 3 artists: Baso, Jesse You and Rindeau. Acid and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sun, 15 Nov 2026 |
+| Date | Sat, 14 Nov 2026 |
 | Venue | Hertz |
 | City | Seoul |
 

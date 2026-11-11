@@ -1,8 +1,8 @@
 # BASIS
 
-BASIS is a music venue in Utrecht with 15 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "BASIS/ Amy Rymes/ saskia laval/ SNTS/ Sober" on Fri, 13 Nov 2026.
+BASIS is a music venue in Utrecht with 16 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "BASIS/ Amy Rymes/ saskia laval/ SNTS/ Sober" on Fri, 13 Nov 2026.
 
-BASIS is a music venue in Utrecht listed on soundcheck. 15 upcoming gigs, with line-ups including Amy Rymes, Aphøtic, Azzurro and BØĘRY and 2 more. See dates, start times and who's playing. Oudegracht aan de Werf 97 3511 AL Utrecht, Netherlands.
+BASIS is a music venue in Utrecht listed on soundcheck. 16 upcoming gigs, with line-ups including Amy Rymes, Aphøtic, Azzurro and BØĘRY and 2 more. See dates, start times and who's playing. Oudegracht aan de Werf 97 3511 AL Utrecht, Netherlands.
 
 ## What's on
 

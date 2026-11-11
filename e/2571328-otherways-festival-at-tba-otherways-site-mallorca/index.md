@@ -1,6 +1,6 @@
 # Otherways Festival at TBA - Otherways Site, Mallorca
 
-Otherways Festival at TBA - Otherways Site, Mallorca on Fri 30 Apr, Mallorca. 63 artists: 4am Kru, A Little Sound, ALISHA and Anaïs and 59 more. See the line-up on soundcheck.
+Otherways Festival at TBA - Otherways Site, Mallorca on Fri 30 Apr, Mallorca. 62 artists: 4am Kru, A Little Sound, ALISHA and Anaïs and 58 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -29,7 +29,6 @@ Otherways Festival at TBA - Otherways Site, Mallorca on Fri 30 Apr, Mallorca. 63
 - Hedex
 - Hidde van Wee
 - Interplanetary Criminal
-- Izzy
 - James Poole
 - JAZ IMSKY
 - Job de Jong

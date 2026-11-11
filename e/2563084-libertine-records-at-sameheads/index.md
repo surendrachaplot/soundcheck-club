@@ -1,6 +1,6 @@
 # Libertine Records at Sameheads
 
-Libertine Records at Sameheads on Fri 13 Nov, Berlin. 4 artists: Ed Warner, Luke Eargoggle, Sbri and Yoshi (DE). Electro and Electronica. See the line-up on soundcheck.
+Libertine Records at Sameheads on Fri 13 Nov, Berlin. 4 artists: Ed Warner, ElectroDon, Luke Eargoggle and Yoshi (DE). Electro and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,8 +11,8 @@ Libertine Records at Sameheads on Fri 13 Nov, Berlin. 4 artists: Ed Warner, Luke
 ## Line-up
 
 - Ed Warner
+- ElectroDon
 - Luke Eargoggle
-- Sbri
 - Yoshi (DE)
 
 *Source: [soundcheck](https://soundcheck.club/e/2563084-libertine-records-at-sameheads/)*

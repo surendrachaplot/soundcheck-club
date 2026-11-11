@@ -1,6 +1,6 @@
 # 23 JAHRE Tanzhaus West at Tanzhaus West
 
-23 JAHRE Tanzhaus West on Sat 28 Nov, Frankfurt. 14 artists: ADHASS, assena, CEM and Concussion and 10 more. See the line-up on soundcheck.
+23 JAHRE Tanzhaus West on Sat 28 Nov, Frankfurt. 14 artists: ADHASS, assena, CEM and Concussion (CNC) and 10 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,7 +13,7 @@
 - ADHASS
 - assena
 - CEM
-- Concussion
+- Concussion (CNC)
 - DJ 069
 - Fabe
 - felix (6)

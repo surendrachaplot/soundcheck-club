@@ -1,8 +1,8 @@
 # Unreal Vibes
 
-Unreal Vibes is a Electronica and Electro artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Powered by: Void Acoustics, Madrid on Fri, 13 Nov 2026.
+Unreal Vibes is a Electronica and Electro artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Powered by: Void Acoustics, Madrid on Fri, 13 Nov 2026.
 
-Unreal Vibes is an electronica and electro artist based in Italy, with 79 gigs on soundcheck across Barcelona, Brighton, Madrid and Malaga and 1 more. Often billed alongside Jorgge Decar, Andrés Sancho and KONSAT. Next up: TBA - Powered by: Void Acoustics, Madrid on Fri 13 Nov.
+Unreal Vibes is an electronica and electro artist based in Italy, with 80 gigs on soundcheck across Barcelona, Brighton, Madrid and Malaga and 1 more. Often billed alongside Jorgge Decar, Andrés Sancho and KONSAT. Next up: TBA - Powered by: Void Acoustics, Madrid on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Unreal Vibes is an electronica and electro artist based in Italy, with 79 gigs o
 | Fri, 13 Nov 2026 | TBA - Powered by: Void Acoustics | Madrid |
 | Fri, 27 Nov 2026 | Doggy Klœb | Malaga |
 | Sat, 28 Nov 2026 | Doggy Klœb | Malaga |
+| Sat, 19 Dec 2026 | Doggy Klœb | Malaga |
 
 ## Recently played
 

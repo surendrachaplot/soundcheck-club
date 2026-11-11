@@ -10,7 +10,7 @@ KALT is a music venue in Strasbourg listed on soundcheck. 9 upcoming gigs, with 
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | EMILIJA & Two Dots | DATIS, Doudeh, EMILIJA, Two Dots (FR) |
 | Sat, 21 Nov 2026 | FVTVR: Rene Wise, Eman, Alex Kassian, Full Sentimental | Alex Kassian, Chill (FR), EMAN (FR), Full Sentimental, Rene Wise |
-| Sat, 28 Nov 2026 | AISHA | AISHA, Dima Roas, Mute. |
+| Sat, 28 Nov 2026 | AISHA | AISHA, Dima Roas, Mute., lex_shockwerk |
 | Sat, 5 Dec 2026 | Mac Declos (all night long) | Mac Declos |
 | Sat, 12 Dec 2026 | Adiel | Adiel |
 | Sat, 19 Dec 2026 | David Löhlein | David Löhlein |

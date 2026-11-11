@@ -1,13 +1,14 @@
 # Eric Yaz
 
-Eric Yaz is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Strand DC, Washington DC on Fri, 11 Dec 2026.
+Eric Yaz is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Secret Location DC, Washington DC on Sat, 21 Nov 2026.
 
-Eric Yaz is a techno and house artist based in United States of America, with 77 gigs on soundcheck across Baltimore, Detroit, Miami and New York City and 3 more. Often billed alongside SPCL.K, Xav (US) and Stagira. Next up: Strand DC, Washington DC on Fri 11 Dec.
+Eric Yaz is a techno and house artist based in United States of America, with 78 gigs on soundcheck across Baltimore, Detroit, Miami and New York City and 3 more. Often billed alongside SPCL.K, Xav (US) and Stagira. Next up: TBA - Secret Location DC, Washington DC on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | TBA - Secret Location DC | Washington DC |
 | Fri, 11 Dec 2026 | Strand DC | Washington DC |
 | Wed, 16 Dec 2026 | Bossa Nova Civic Club | New York City |
 

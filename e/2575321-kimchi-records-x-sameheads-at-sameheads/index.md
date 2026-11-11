@@ -1,6 +1,6 @@
 # KIMCHI RECORDS X Sameheads at Sameheads
 
-KIMCHI RECORDS X Sameheads on Thu 12 Nov, Berlin. 3 artists: IDA, Kim Bruun and Soliad. Electro and Acid. See the line-up on soundcheck.
+KIMCHI RECORDS X Sameheads on Thu 12 Nov, Berlin. 3 artists: IDA, Kim Bruun and Soliad. Acid and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

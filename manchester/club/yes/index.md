@@ -11,7 +11,7 @@ Yes is a music venue in Manchester listed on soundcheck. 16 upcoming gigs, with 
 | Fri, 13 Nov 2026 | Reek0 - Hybrid Live and Extended DJ Set | Kusasa |
 | Thu, 19 Nov 2026 | Desperados Lotería presents Conducta | Conducta |
 | Fri, 20 Nov 2026 | Jacques Greene (Extended DJ Set) - Yes | Jacques Greene |
-| Sat, 21 Nov 2026 | 10 Years of Deptford Northern Soul Club |  |
+| Sat, 21 Nov 2026 | [CANCELLED] 10 Years of Deptford Northern Soul Club |  |
 | Tue, 24 Nov 2026 | System Olympia (Live) | System Olympia |
 | Wed, 25 Nov 2026 | KILIMANJARO Live | KILIMANJARO |
 | Fri, 27 Nov 2026 | Laurence Guy | Laurence Guy |

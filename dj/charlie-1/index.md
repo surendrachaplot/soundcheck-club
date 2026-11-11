@@ -1,14 +1,14 @@
 # Charlie.
 
-Charlie. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Marmorbar, Berlin on Thu, 12 Nov 2026.
+Charlie. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Muschi Obermaier, Berlin on Thu, 12 Nov 2026.
 
-Charlie. is a techno and house artist based in Lebanon, with 33 gigs on soundcheck across Amsterdam, Berlin, Brussels and Hannover and 2 more. Often billed alongside K-H1, Khloe and Ponygirl. Next up: Marmorbar, Berlin on Thu 12 Nov.
+Charlie. is a techno and house artist based in Lebanon, with 33 gigs on soundcheck across Amsterdam, Berlin, Brussels and Hannover and 2 more. Often billed alongside K-H1, Khloe and Ponygirl. Next up: Muschi Obermaier, Berlin on Thu 12 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 12 Nov 2026 | Marmorbar | Berlin |
+| Thu, 12 Nov 2026 | Muschi Obermaier | Berlin |
 
 ## Recently played
 

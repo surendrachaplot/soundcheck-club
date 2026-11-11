@@ -1,14 +1,15 @@
 # Deeper Purpose
 
-Deeper Purpose is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at SILO, New York City on Sat, 19 Dec 2026.
+Deeper Purpose is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at SILO, New York City on Sat, 19 Dec 2026.
 
-Deeper Purpose is a tech house and house artist based in United Kingdom, with 50 gigs on soundcheck across Austin, Chicago, Dallas/Fort Worth and Denver and 13 more. Often billed alongside Lee Foss, Joshwa and Max Styler. Next up: SILO, New York City on Sat 19 Dec.
+Deeper Purpose is a tech house and house artist based in United Kingdom, with 51 gigs on soundcheck across Austin, Chicago, Dallas/Fort Worth and Denver and 13 more. Often billed alongside Lee Foss, Eli Brown and Joshwa. Next up: SILO, New York City on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Dec 2026 | SILO | New York City |
+| Thu, 21 Jan 2027 | Royal Caribbean Cruise Ship | Miami |
 | Thu, 21 Jan 2027 | Royal Caribbean Cruise Ship | Miami |
 
 ## Recently played
@@ -24,6 +25,6 @@ Deeper Purpose is a tech house and house artist based in United Kingdom, with 50
 
 ## Shares bills with
 
-Lee Foss, Joshwa, Max Styler
+Lee Foss, Eli Brown, Joshwa
 
 *Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deeperpurpose/)*

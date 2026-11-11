@@ -1,6 +1,6 @@
 # Reggaeton on the Roof - The #1 Skyline Views of NYC at High Bar New York
 
-Reggaeton on the Roof - The #1 Skyline Views of NYC at High Bar New York on Sat 28 Nov, New York City. Reggaeton. See the line-up on soundcheck.
+Reggaeton on the Roof - The #1 Skyline Views of NYC at High Bar New York on Sat 28 Nov, New York City. Disco and Reggaeton. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

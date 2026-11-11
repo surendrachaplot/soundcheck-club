@@ -1,8 +1,8 @@
 # OMRI.
 
-OMRI. is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Parque Fundidora, Monterrey on Fri, 13 Nov 2026.
+OMRI. is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Parque Fundidora, Monterrey on Fri, 13 Nov 2026.
 
-OMRI. is a house and tech house artist based in Israel, with 79 gigs on soundcheck across Amsterdam, Austin, Barcelona and Brussels and 24 more. Often billed alongside Damian Lazarus, Franky Rizardo and Jamie Jones. Next up: Parque Fundidora, Monterrey on Fri 13 Nov.
+OMRI. is a house and tech house artist based in Israel, with 80 gigs on soundcheck across Amsterdam, Austin, Barcelona and Brussels and 24 more. Often billed alongside Damian Lazarus, Franky Rizardo and Jamie Jones. Next up: Parque Fundidora, Monterrey on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ OMRI. is a house and tech house artist based in Israel, with 79 gigs on soundche
 | Wed, 2 Dec 2026 | Factory Town | Miami |
 | Sun, 6 Dec 2026 | Factory Town | Miami |
 | Fri, 18 Dec 2026 | TBA - aqua Hong Kong | Hong Kong |
+| Sun, 7 Feb 2027 | Museu do Amanhã | Rio de Janeiro |
 
 ## Recently played
 

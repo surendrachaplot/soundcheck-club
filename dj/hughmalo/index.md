@@ -1,13 +1,14 @@
 # Hugh Malo
 
-Hugh Malo is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Nest at St. Pete Brewing Co., Tampa Bay on Sat, 21 Nov 2026.
+Hugh Malo is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Beech Kombucha, Tampa Bay on Sat, 14 Nov 2026.
 
-Hugh Malo is a minimal and house artist based in United States of America, with 14 gigs on soundcheck across Miami and Tampa Bay. Often billed alongside Mayan Cxllective, Protect and Diana NC. Next up: The Nest at St. Pete Brewing Co., Tampa Bay on Sat 21 Nov.
+Hugh Malo is a minimal and house artist based in United States of America, with 15 gigs on soundcheck across Miami and Tampa Bay. Often billed alongside Mayan Cxllective, Protect and Diana NC. Next up: Beech Kombucha, Tampa Bay on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | Beech Kombucha | Tampa Bay |
 | Sat, 21 Nov 2026 | The Nest at St. Pete Brewing Co. | Tampa Bay |
 
 ## Recently played

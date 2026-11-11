@@ -1,14 +1,15 @@
 # Merino
 
-Merino is a Techno and Ambient artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Plaza Mayor Medellin, Medellin on Sat, 14 Nov 2026.
+Merino is a Techno and Ambient artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Plaza Mayor Medellin, Medellin on Sat, 14 Nov 2026.
 
-Merino is a techno and ambient artist based in Colombia, with 79 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 11 more. Often billed alongside Sepian, Vandel and GHERAN. Next up: Plaza Mayor Medellin, Medellin on Sat 14 Nov.
+Merino is a techno and ambient artist based in Colombia, with 80 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 11 more. Often billed alongside Sepian, Julianna and Vandel. Next up: Plaza Mayor Medellin, Medellin on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Plaza Mayor Medellin | Medellin |
+| Sun, 6 Dec 2026 | 50 / 50 | Medellin |
 | Wed, 3 Mar 2027 | El Rio Hostel | Colombia |
 
 ## Recently played
@@ -24,6 +25,6 @@ Merino is a techno and ambient artist based in Colombia, with 79 gigs on soundch
 
 ## Shares bills with
 
-Sepian, Vandel, GHERAN
+Sepian, Julianna, Vandel
 
 *Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/merino/)*

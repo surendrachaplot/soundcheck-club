@@ -1,8 +1,8 @@
 # Hyperaktivist
 
-Hyperaktivist is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at FOLD, London on Sat, 14 Nov 2026.
+Hyperaktivist is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at FOLD, London on Sat, 14 Nov 2026.
 
-Hyperaktivist is a techno and house artist based in Germany, with 210 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 58 more. Often billed alongside DJ TOOL, Yazzus and D.Dan. Next up: FOLD, London on Sat 14 Nov.
+Hyperaktivist is a techno and house artist based in Germany, with 211 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 58 more. Often billed alongside DJ TOOL, Yazzus and D.Dan. Next up: FOLD, London on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Hyperaktivist is a techno and house artist based in Germany, with 210 gigs on so
 | Fri, 27 Nov 2026 | CLUB RAUM | Amsterdam |
 | Sun, 6 Dec 2026 | Studio Club Malaga | Malaga |
 | Thu, 31 Dec 2026 | OST | Berlin |
+| Thu, 31 Dec 2026 | Tanzhaus West | Frankfurt |
 | Wed, 3 Mar 2027 | El Rio Hostel | Colombia |
 
 ## Recently played

@@ -1,14 +1,15 @@
 # Scooter
 
-Scooter is a Trance and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at SEC Glasgow, Glasgow on Sat, 16 Jan 2027.
+Scooter is a Trance and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at SEC Glasgow, Glasgow on Sat, 16 Jan 2027.
 
-Scooter is a trance and electro artist based in Germany, with 9 gigs on soundcheck across Amsterdam, Edinburgh, Frankfurt and Glasgow and 2 more. Often billed alongside Angerfist, Marco Faraone and ASK:ME. Next up: SEC Glasgow, Glasgow on Sat 16 Jan.
+Scooter is a trance and house artist based in Germany, with 10 gigs on soundcheck across Amsterdam, Edinburgh, Frankfurt and Glasgow and 2 more. Often billed alongside Marco Faraone, Angerfist and Eli Brown. Next up: SEC Glasgow, Glasgow on Sat 16 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 16 Jan 2027 | SEC Glasgow | Glasgow |
+| Thu, 21 Jan 2027 | Royal Caribbean Cruise Ship | Miami |
 | Thu, 21 Jan 2027 | Royal Caribbean Cruise Ship | Miami |
 
 ## Recently played
@@ -23,6 +24,6 @@ Scooter is a trance and electro artist based in Germany, with 9 gigs on soundche
 
 ## Shares bills with
 
-Angerfist, Marco Faraone, ASK:ME
+Marco Faraone, Angerfist, Eli Brown
 
 *Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scooter/)*

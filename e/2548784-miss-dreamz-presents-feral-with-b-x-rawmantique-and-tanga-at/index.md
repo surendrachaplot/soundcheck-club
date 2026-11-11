@@ -14,11 +14,11 @@ Miss Dreamz presents: FERAL with BØX, Rawmantique and Tanga at KREUZWERK on Sat
 - Aunty Nora
 - CLEO
 - Huamaniser
+- KVKN
 - Lixi
 - Mama Yha Yha
 - Nycky Estrella
 - Ojos de miel
-- Rakans
 - Sub Sahara
 - VRTL
 

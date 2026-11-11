@@ -1,14 +1,15 @@
 # Dj Wifi (3)
 
-Dj Wifi (3) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Das Werk, Vienna on Sat, 14 Nov 2026.
+Dj Wifi (3) is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Das Werk, Vienna on Sat, 14 Nov 2026.
 
-Dj Wifi is a techno and trance artist based in Germany, with 63 gigs on soundcheck across Barcelona, Berlin and Vienna. Often billed alongside pinklotion, Trugbild and BLUDHOUND. Next up: Das Werk, Vienna on Sat 14 Nov.
+Dj Wifi is a techno and trance artist based in Germany, with 64 gigs on soundcheck across Barcelona, Berlin and Vienna. Often billed alongside pinklotion, Trugbild and BLUDHOUND. Next up: Das Werk, Vienna on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Das Werk | Vienna |
+| Sat, 28 Nov 2026 | Das Werk | Vienna |
 | Sun, 27 Dec 2026 | Lokschuppen Berlin | Berlin |
 
 ## Recently played

@@ -1,13 +1,14 @@
 # Sebastian Keks
 
-Sebastian Keks is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at 1983, Riga on Fri, 11 Dec 2026.
+Sebastian Keks is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Para Klub Beograd, Belgrade on Sun, 29 Nov 2026.
 
-Sebastian Keks is a techno and electro artist based in Germany, with 24 gigs on soundcheck across Belgrade, Berlin, Bucharest and London and 5 more. Often billed alongside DJ Jordan, GHOST DE and ROPE. Next up: 1983, Riga on Fri 11 Dec.
+Sebastian Keks is a techno and electro artist based in Germany, with 25 gigs on soundcheck across Belgrade, Berlin, Bucharest and London and 5 more. Often billed alongside DJ Jordan, GHOST DE and ROPE. Next up: Para Klub Beograd, Belgrade on Sun 29 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 29 Nov 2026 | Para Klub Beograd | Belgrade |
 | Fri, 11 Dec 2026 | 1983 | Riga |
 
 ## Recently played

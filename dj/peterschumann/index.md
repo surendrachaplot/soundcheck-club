@@ -1,14 +1,15 @@
 # Peter Schumann
 
-Peter Schumann is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Kater, Berlin on Fri, 18 Dec 2026.
+Peter Schumann is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Kater, Berlin on Fri, 18 Dec 2026.
 
-Peter Schumann is a house and techno artist based in Germany, with 79 gigs on soundcheck across Barcelona, Berlin, Frankfurt and Hamburg and 9 more. Often billed alongside Bo Irion, Pauli Pocket and Sascha Cawa. Next up: Kater, Berlin on Fri 18 Dec.
+Peter Schumann is a house and techno artist based in Germany, with 80 gigs on soundcheck across Barcelona, Berlin, Frankfurt and Hamburg and 9 more. Often billed alongside Bo Irion, Pauli Pocket and Sascha Cawa. Next up: Kater, Berlin on Fri 18 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Dec 2026 | Kater | Berlin |
+| Thu, 31 Dec 2026 | Tanzhaus West | Frankfurt |
 
 ## Recently played
 

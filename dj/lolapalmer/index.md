@@ -1,14 +1,15 @@
 # Lola Palmer
 
-Lola Palmer is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Club Guesthouse, Bucharest on Sat, 12 Dec 2026.
+Lola Palmer is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Club Guesthouse, Bucharest on Sat, 12 Dec 2026.
 
-Lola Palmer is a house and tech house artist based in Ukraine, with 72 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belgrade and 26 more. Often billed alongside Traumer, Priku and Andrey Pushkarev. Next up: Club Guesthouse, Bucharest on Sat 12 Dec.
+Lola Palmer is a house and tech house artist based in Ukraine, with 73 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belgrade and 26 more. Often billed alongside Traumer, Priku and Andrey Pushkarev. Next up: Club Guesthouse, Bucharest on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Dec 2026 | Club Guesthouse | Bucharest |
+| Thu, 31 Dec 2026 | Tanzhaus West | Frankfurt |
 
 ## Recently played
 

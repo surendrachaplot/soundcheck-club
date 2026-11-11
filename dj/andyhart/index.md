@@ -1,13 +1,14 @@
 # Andy Hart
 
-Andy Hart is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Solace, Melbourne on Fri, 20 Nov 2026.
+Andy Hart is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Music Room, Melbourne on Sat, 14 Nov 2026.
 
-Andy Hart is a house and techno artist based in Australia, with 35 gigs on soundcheck across Berlin, Melbourne, Mexico City and Tokyo and 1 more. Often billed alongside Alex Albrecht, Myles Mac and Pjenné. Next up: Solace, Melbourne on Fri 20 Nov.
+Andy Hart is a house and techno artist based in Australia, with 36 gigs on soundcheck across Berlin, Melbourne, Mexico City and Tokyo and 1 more. Often billed alongside Alex Albrecht, Myles Mac and Pjenné. Next up: Music Room, Melbourne on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | Music Room | Melbourne |
 | Fri, 20 Nov 2026 | Solace | Melbourne |
 | Fri, 1 Jan 2027 | Gilpin Park | Melbourne |
 | Thu, 22 Jul 2027 | Great Fulford | West-wales |

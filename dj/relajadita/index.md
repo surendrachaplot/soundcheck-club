@@ -14,7 +14,7 @@ relajadita is a techno and trance artist based in Spain, with 38 gigs on soundch
 | Sat, 14 Nov 2026 | Zinkbad Eventhalle | Zurich |
 | Fri, 20 Nov 2026 | Uebel & Gefährlich | Hamburg |
 | Fri, 11 Dec 2026 | Halle Tony Garnier | Lyon |
-| Fri, 25 Dec 2026 | Sala Apolo | Barcelona |
+| Fri, 25 Dec 2026 | Nitsa Club | Barcelona |
 | Thu, 31 Dec 2026 | Studio Club Malaga | Malaga |
 
 ## Recently played

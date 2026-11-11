@@ -1,13 +1,14 @@
 # ADAN
 
-ADAN is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Adam Riese, Frankfurt on Sun, 6 Feb 2028.
+ADAN is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Aaja Basement, London on Fri, 20 Nov 2026.
 
-ADAN is a techno and industrial artist based in Germany, with 7 gigs on soundcheck across Frankfurt. Often billed alongside Calamity, Philipp Wolf and RIKHTER. Next up: Adam Riese, Frankfurt on Sun 6 Feb.
+ADAN is a techno and industrial artist based in Germany, with 8 gigs on soundcheck across Frankfurt and London. Often billed alongside Calamity, Philipp Wolf and RIKHTER. Next up: Aaja Basement, London on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | Aaja Basement | London |
 | Sun, 6 Feb 2028 | Adam Riese | Frankfurt |
 
 ## Recently played

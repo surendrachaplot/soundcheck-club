@@ -1,10 +1,10 @@
 # Cruz at 5A
 
-Cruz at 5A on Sat 14 Nov, Lisbon. 1 artist: Cruz (PT). See the line-up on soundcheck.
+Cruz at 5A on Sat 21 Nov, Lisbon. 1 artist: Cruz (PT). See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 14 Nov 2026 |
+| Date | Sat, 21 Nov 2026 |
 | Venue | 5A |
 | City | Lisbon |
 

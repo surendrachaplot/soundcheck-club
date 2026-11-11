@@ -1,6 +1,6 @@
 # Pariah at Pawnshop
 
-Pariah at Pawnshop on Fri 11 Dec, Taipei. 1 artist: Pariah. See the line-up on soundcheck.
+Pariah at Pawnshop on Fri 11 Dec, Taipei. 5 artists: Kerena, L-CC, LYM and niwei1117 and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,10 @@ Pariah at Pawnshop on Fri 11 Dec, Taipei. 1 artist: Pariah. See the line-up on s
 
 ## Line-up
 
+- Kerena
+- L-CC
+- LYM (2)
+- niwei1117
 - Pariah
 
 *Source: [soundcheck](https://soundcheck.club/e/2578853-pariah-at-pawnshop/)*

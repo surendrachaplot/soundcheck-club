@@ -1,6 +1,6 @@
 # LYDO at Pawnshop
 
-LYDO at Pawnshop on Sat 26 Dec, Taipei. 1 artist: LYDO. See the line-up on soundcheck.
+LYDO at Pawnshop on Sat 26 Dec, Taipei. 4 artists: Leona, Loey, LYDO and Melting 99. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,9 @@ LYDO at Pawnshop on Sat 26 Dec, Taipei. 1 artist: LYDO. See the line-up on sound
 
 ## Line-up
 
+- Leona
+- Loey
 - LYDO
+- Melting 99
 
 *Source: [soundcheck](https://soundcheck.club/e/2578858-lydo-at-pawnshop/)*

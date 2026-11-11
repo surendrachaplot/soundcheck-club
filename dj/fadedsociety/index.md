@@ -1,14 +1,13 @@
 # Faded Society
 
-Faded Society is a Bass and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Bread & Butter Arch, London on Wed, 11 Nov 2026.
+Faded Society is a Bass and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Lab.Club, London on Thu, 12 Nov 2026.
 
-Faded Society is a bass and house artist based in United Kingdom, with 69 gigs on soundcheck across Liverpool and London. Often billed alongside Venxm, Adela and Kitsch. Next up: Bread & Butter Arch, London on Wed 11 Nov.
+Faded Society is a bass and house artist based in United Kingdom, with 69 gigs on soundcheck across Liverpool and London. Often billed alongside Venxm, Adela and Kitsch. Next up: Lab.Club, London on Thu 12 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 11 Nov 2026 | Bread & Butter Arch | London |
 | Thu, 12 Nov 2026 | Lab.Club | London |
 | Wed, 18 Nov 2026 | London Sound Academy | London |
 | Thu, 10 Dec 2026 | Lab.Club | London |

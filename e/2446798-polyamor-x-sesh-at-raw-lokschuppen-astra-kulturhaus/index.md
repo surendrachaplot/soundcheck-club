@@ -1,6 +1,6 @@
 # Polyamor x SESH at RAW- Lokschuppen + Astra Kulturhaus
 
-Polyamor x SESH at RAW- Lokschuppen + Astra Kulturhaus on Wed 30 Dec, Berlin. 44 artists: Alas, Alba Franch, Alex Friday and Athina and 40 more. Trance and Techno. See the line-up on soundcheck.
+Polyamor x SESH at RAW- Lokschuppen + Astra Kulturhaus on Wed 30 Dec, Berlin. 45 artists: Alas, Alba Franch, Alex Friday and Athina and 41 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -31,7 +31,7 @@ Polyamor x SESH at RAW- Lokschuppen + Astra Kulturhaus on Wed 30 Dec, Berlin. 44
 - GEN97
 - Haslauer
 - JOKESONYOU
-- juicy
+- JUICY (DE)
 - Justin Tinderdate
 - Kizu
 - Limoncello
@@ -47,6 +47,7 @@ Polyamor x SESH at RAW- Lokschuppen + Astra Kulturhaus on Wed 30 Dec, Berlin. 44
 - Riana Holley
 - SATYS FYRE
 - Segun
+- sellycious
 - snoritz
 - Talia Dorr
 - The Muffin Man

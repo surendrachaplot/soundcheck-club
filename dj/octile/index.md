@@ -1,14 +1,15 @@
 # Octile
 
-Octile is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Masters, Zagreb on Sat, 14 Nov 2026.
+Octile is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Masters, Zagreb on Sat, 14 Nov 2026.
 
-Octile is a house and minimal artist based in Hungary, with 49 gigs on soundcheck across Budapest and Zagreb. Often billed alongside Korosi, Robert Dobak and Dubtist. Next up: Masters, Zagreb on Sat 14 Nov.
+Octile is a house and minimal artist based in Hungary, with 50 gigs on soundcheck across Budapest and Zagreb. Often billed alongside Korosi, Robert Dobak and Dubtist. Next up: Masters, Zagreb on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Masters | Zagreb |
+| Sat, 21 Nov 2026 | Tripla Hofmann | Budapest |
 
 ## Recently played
 

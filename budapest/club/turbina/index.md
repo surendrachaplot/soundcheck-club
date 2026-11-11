@@ -1,14 +1,14 @@
 # Turbina
 
-Turbina is a music venue in Budapest with 10 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Loud Cloud Invites: Captain Knuckles Club Room • 1112" on Thu, 12 Nov 2026.
+Turbina is a music venue in Budapest with 11 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Loud Cloud Invites: Captain Knuckles Club Room • 1112" on Thu, 12 Nov 2026.
 
-Turbina is a music venue in Budapest listed on soundcheck. 10 upcoming gigs, with line-ups including AIRKEY, Andrey Pushkarev, Atashi and Bencsama and 2 more. See dates, start times and who's playing. Budapest, Vajdahunyad street 4., 1082.
+Turbina is a music venue in Budapest listed on soundcheck. 11 upcoming gigs, with line-ups including AIRKEY, Andrey Pushkarev, Atashi and Bencsama and 2 more. See dates, start times and who's playing. Budapest, Vajdahunyad street 4., 1082.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 12 Nov 2026 | Loud Cloud Invites: Captain Knuckles Club Room • 1112 | AIRKEY, Captain Knuckles, some1 |
+| Thu, 12 Nov 2026 | Loud Cloud Invites: Captain Knuckles Club Room • 1112 | AIRKEY, Captain Knuckles, Levi Gava, some1 |
 | Fri, 13 Nov 2026 | 5 YEARS OF KINK w/ D.DAN / CLUB ROOM: DIRTY CASH | CRB, Chris Dustin, D.Dan, Klayman, SVR101, Sikztah, Terminal (2), Vatsanah |
 | Sat, 14 Nov 2026 | TURBINA ON PROGRESSIVE SOUNDS VOL.01 | East Cafe, Hunter (2), Kühl, Peter Makto, Rich |
 | Sat, 14 Nov 2026 | TECHNODUB SEANCE 15 YEARS ANNIVERSARY W / FEDERSEN | Federsen, Ferenc Szanati, Garpo, ZOL |

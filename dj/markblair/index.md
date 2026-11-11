@@ -1,13 +1,14 @@
 # Mark Blair
 
-Mark Blair is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Flinders, Sydney on Sat, 12 Dec 2026.
+Mark Blair is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Limelight, Belfast on Fri, 20 Nov 2026.
 
-Mark Blair is a techno and house artist based in United Kingdom, with 65 gigs on soundcheck across Aberdeen, Auckland, Belfast and Brisbane and 19 more. Often billed alongside Yasmin Gardezi, blk. and 999999999. Next up: The Flinders, Sydney on Sat 12 Dec.
+Mark Blair is a techno and house artist based in United Kingdom, with 66 gigs on soundcheck across Aberdeen, Auckland, Belfast and Brisbane and 19 more. Often billed alongside Yasmin Gardezi, blk. and 999999999. Next up: The Limelight, Belfast on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | The Limelight | Belfast |
 | Sat, 12 Dec 2026 | The Flinders | Sydney |
 
 ## Recently played

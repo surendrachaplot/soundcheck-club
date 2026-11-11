@@ -11,7 +11,7 @@ Sensorium is a music venue in Berlin listed on soundcheck. 18 upcoming gigs, wit
 | Wed, 11 Nov 2026 | TECHNO MITTWOCH | Alicia (IT), Bee Lincoln, Blck-Swan, Bouquet, JORDVN PRINCE, Lars Löffler, Thyrse, VEGANICECREAM, sapskt |
 | Sun, 15 Nov 2026 | ETHER WITH TRIG & Afternoon | Caterina Carrera, Viktor Kampf |
 | Wed, 18 Nov 2026 | TECHNO MITTWOCH | PETDuo, Viktor Kampf, nixmoon |
-| Fri, 20 Nov 2026 | TOGETHER FOR GAZA /// MUSIC FOR HUMANITY  | Andeel, Ankit, Blachord, DJ Hitwave, DJ YumYum, Finjas, Jvhnq, KÜRÜF, VEGANICECREAM, d4ia, k.meower, krawallin, peak2soon, pink-panther |
+| Fri, 20 Nov 2026 | TOGETHER FOR GAZA /// MUSIC FOR HUMANITY  | Andeel, Ankit, Blachord, DJ Hitwave, DJ YumYum, Finjas, Jvhnq, KÜRÜF, VEGANICECREAM, d4ia, fiber.optyik, k.meower, peak2soon, pink-panther |
 | Sat, 21 Nov 2026 | SENSO NACHT |  |
 | Wed, 25 Nov 2026 | TECHNO MITTWOCH | NYCTO, Sin Sonik, menicx |
 | Fri, 27 Nov 2026 | Senso Nacht | Camilla Tarantino, Esposito, Loco (IT), NORA (BR), Stallo, Viktor Kampf, Zokiren |

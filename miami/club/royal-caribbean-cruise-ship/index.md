@@ -8,7 +8,7 @@ Royal Caribbean Cruise Ship is a music venue in Miami listed on soundcheck. 2 up
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 21 Jan 2027 | Groove Cruise Miami 2027 - Ambassador Code: GrooveCruiseChris |  |
+| Thu, 21 Jan 2027 | Groove Cruise Miami 2027 - Ambassador Code: GrooveCruiseChris | AMPRS&ND, Adam Beyer, Alley Kay, Amy Wiles, Anabel Englund, Anthony Attalla, Bella Renee, Ciaran McAuley, DEEPFAKE, Daxson, Deeper Purpose, Dimibo, Doc Brown, Dose, Eli Brown, Ely Oaks, Eskuche, Gene Farris, Gravagerz, Jackie Hollander, Joshwa (IT), KETTAMA, Laura van Dam, Leena Punks, Luccio, Luke Alexander, MPH (1), Marco Faraone, Marco Strous, Marie Vaunt, Markus Schulz, Maxinne, Pretty Pink, RaeCola, Ranger Trucco, Rinaly, Romeo, Sam Feldt, Scooter, Scotty Boy, Sebastian Morxx, Silva Bumpa, Space 92, The Brothers Grim, Tini Gessler |
 | Thu, 21 Jan 2027 | Groove Cruise | AMPRS&ND, Adam Beyer, Alley Kay, Amy Wiles, Anabel Englund, Anthony Attalla, Bella Renee, DEEPFAKE, Deeper Purpose, Dimibo, Doc Brown, Dose, Eli Brown, Ely Oaks, Eskuche, Gravagerz, Jackie Hollander, Joshwa (IT), KETTAMA, Leena Punks, Luccio, Luke Alexander, MPH (1), Marco Faraone, Marco Strous, Marie Vaunt, Markus Schulz, Maxinne, Pretty Pink, RaeCola, Ranger Trucco, Rinaly, Romeo, Sam Feldt, Scooter, Scotty Boy, Sebastian Morxx, Silva Bumpa, Space 92, The Brothers Grim, Tini Gessler |
 
 *Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/royal-caribbean-cruise-ship/)*

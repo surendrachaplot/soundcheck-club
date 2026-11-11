@@ -1,6 +1,6 @@
 # WEEKEND SELECTERS at BAR Inc
 
-WEEKEND SELECTERS at BAR Inc on Fri 11 Dec, Osaka. 1 artist: Stones Taro. Breakbeat and House. See the line-up on soundcheck.
+WEEKEND SELECTERS at BAR Inc on Fri 11 Dec, Osaka. 3 artists: Ground, SAMO (JP) and Stones Taro. Breakbeat and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ WEEKEND SELECTERS at BAR Inc on Fri 11 Dec, Osaka. 1 artist: Stones Taro. Breakb
 
 ## Line-up
 
+- Ground (1)
+- SAMO (JP)
 - Stones Taro
 
 *Source: [soundcheck](https://soundcheck.club/e/2569123-weekend-selecters-at-bar-inc/)*

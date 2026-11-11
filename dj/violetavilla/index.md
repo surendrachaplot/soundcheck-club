@@ -1,0 +1,28 @@
+# Violeta Villa
+
+Violeta Villa is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Rama Soundgarden, Medellin on Sat, 14 Nov 2026.
+
+Violeta Villa is a house and minimal artist based in Spain, with 28 gigs on soundcheck across Barcelona, Bogotá and Medellin. Often billed alongside Valerie Jane, Alice Youngling and Andrea Love. Next up: Rama Soundgarden, Medellin on Sat 14 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 14 Nov 2026 | Rama Soundgarden | Medellin |
+
+## Recently played
+
+- Rama Soundgarden, Medellin · Fri, 30 Oct 2026
+- Casa De La Luna, Medellin · Sat, 26 Sept 2026
+- Casa De La Luna, Medellin · Sun, 28 Jun 2026
+- Casa De La Luna, Medellin · Thu, 5 Mar 2026
+- Casa De La Luna, Medellin · Thu, 15 Jan 2026
+- Freedonia, Barcelona · Fri, 5 Sept 2025
+- Estació de França - Espai Gastronomic, Barcelona · Sat, 7 Dec 2024
+- Círculo, Barcelona · Wed, 4 Dec 2024
+
+## Shares bills with
+
+Valerie Jane, Alice Youngling, Andrea Love
+
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/violetavilla/)*

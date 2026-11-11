@@ -1,8 +1,8 @@
 # Elias Mazian
 
-Elias Mazian is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Paradiso Music Room, Byron Bay on Fri, 13 Nov 2026.
+Elias Mazian is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Paradiso Music Room, Byron Bay on Fri, 13 Nov 2026.
 
-Elias Mazian is a house and techno artist based in Netherlands, with 129 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bristol and 25 more. Often billed alongside Suze Ijó, Tsepo and Bastienne. Next up: Paradiso Music Room, Byron Bay on Fri 13 Nov.
+Elias Mazian is a house and techno artist based in Netherlands, with 130 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bristol and 25 more. Often billed alongside Suze Ijó, Tsepo and BELLA (NL). Next up: Paradiso Music Room, Byron Bay on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Elias Mazian is a house and techno artist based in Netherlands, with 129 gigs on
 | Sat, 28 Nov 2026 | Inter-City | The Hague |
 | Fri, 4 Dec 2026 | Hackney Bridge | London |
 | Sat, 12 Dec 2026 | TivoliVredenburg | Utrecht |
+| Thu, 31 Dec 2026 | Lofi | Amsterdam |
 
 ## Recently played
 
@@ -30,6 +31,6 @@ Elias Mazian is a house and techno artist based in Netherlands, with 129 gigs on
 
 ## Shares bills with
 
-Suze Ijó, Tsepo, Bastienne
+Suze Ijó, Tsepo, BELLA (NL)
 
 *Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eliasmazian/)*

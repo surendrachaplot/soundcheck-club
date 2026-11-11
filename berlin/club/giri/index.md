@@ -1,14 +1,13 @@
 # Giri
 
-Giri is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Giri presents Baci Concert" on Wed, 11 Nov 2026.
+Giri is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Giri x Kreatures " on Thu, 12 Nov 2026.
 
-Giri is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with line-ups including alizé.e, ANNARA, B.A.O. and Caldo and 2 more. See dates, start times and who's playing. Hermannstrasse 14, 12049 Berlin.
+Giri is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, with line-ups including alizé.e, ANNARA, B.A.O. and Caldo and 2 more. See dates, start times and who's playing. Hermannstrasse 14, 12049 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 11 Nov 2026 | Giri presents Baci Concert |  |
 | Thu, 12 Nov 2026 | Giri x Kreatures  | B.A.O., Eli Bot, femnms |
 | Fri, 13 Nov 2026 | Giri x Éclat release |  |
 | Wed, 18 Nov 2026 | Giri x SYNESTRANSIA Experiment #5: The Freedom of Five | ANNARA, DJ Trade Trainer, MADAKYA, SXCL |

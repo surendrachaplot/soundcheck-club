@@ -9,6 +9,6 @@ Makeout Room is a music venue in San Francisco/Oakland listed on soundcheck. 2 u
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Wed, 11 Nov 2026 | Paradiso | DJ Rebecca |
-| Tue, 8 Dec 2026 | Paradiso | Carla Lyn |
+| Tue, 8 Dec 2026 | Paradiso | Carla Lyn, DJ Rebecca |
 
 *Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/makeout-room/)*

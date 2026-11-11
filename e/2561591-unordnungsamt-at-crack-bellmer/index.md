@@ -1,6 +1,6 @@
 # UNORDNUNGSAMT at Crack Bellmer
 
-UNORDNUNGSAMT at Crack Bellmer on Fri 20 Nov, Berlin. 6 artists: DJ ZBB, Joaquin Dehays, Jogo and Juan Neira and 2 more. Tech House and Acid. See the line-up on soundcheck.
+UNORDNUNGSAMT at Crack Bellmer on Fri 20 Nov, Berlin. 6 artists: DJ ZBB, Joaquin Dehays, Jogo and Juan Neira and 2 more. Acid and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

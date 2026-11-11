@@ -1,14 +1,13 @@
 # System Olympia
 
-System Olympia is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Love Inn, Bristol on Wed, 11 Nov 2026.
+System Olympia is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Yes, Manchester on Tue, 24 Nov 2026.
 
-System Olympia is a house and disco artist based in United Kingdom, with 83 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 23 more. Often billed alongside Move D, Attila and Bushbby. Next up: The Love Inn, Bristol on Wed 11 Nov.
+System Olympia is a house and disco artist based in United Kingdom, with 83 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 23 more. Often billed alongside Move D, Attila and Bushbby. Next up: Yes, Manchester on Tue 24 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 11 Nov 2026 | The Love Inn | Bristol |
 | Tue, 24 Nov 2026 | Yes | Manchester |
 | Sun, 6 Dec 2026 | Gretchen | Berlin |
 | Sun, 27 Dec 2026 | Port Beach Brewery | Perth |

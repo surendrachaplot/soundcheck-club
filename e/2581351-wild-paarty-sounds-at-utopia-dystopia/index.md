@@ -1,6 +1,6 @@
 # Wild Paarty Sounds at UTOPIA / DYSTOPIA
 
-Wild Paarty Sounds at UTOPIA / DYSTOPIA on Sat 21 Nov, Tokyo. 3 artists: Arao, Monna Lisa and MOTOKA. See the line-up on soundcheck.
+Wild Paarty Sounds at UTOPIA / DYSTOPIA on Sat 21 Nov, Tokyo. 4 artists: Arao, DJ MASASHI MATSUI, Monna Lisa and MOTOKA. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Wild Paarty Sounds at UTOPIA / DYSTOPIA on Sat 21 Nov, Tokyo. 3 artists: Arao, M
 ## Line-up
 
 - Arao
+- DJ MASASHI MATSUI
 - Monna Lisa
 - MOTOKA
 

@@ -1,8 +1,8 @@
 # Shaleen
 
-Shaleen is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Bassiani, Tbilisi on Fri, 13 Nov 2026.
+Shaleen is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Bassiani, Tbilisi on Fri, 13 Nov 2026.
 
-Shaleen is a techno and house artist based in Germany, with 157 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 26 more. Often billed alongside Ellen Allien, JANEIN and Stigmatique. Next up: Bassiani, Tbilisi on Fri 13 Nov.
+Shaleen is a techno and house artist based in Germany, with 159 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 26 more. Often billed alongside Ellen Allien, JANEIN and Stigmatique. Next up: Bassiani, Tbilisi on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,8 @@ Shaleen is a techno and house artist based in Germany, with 157 gigs on soundche
 | Tue, 17 Nov 2026 | Distillery | Leipzig |
 | Sat, 28 Nov 2026 | RSO.BERLIN | Berlin |
 | Sat, 19 Dec 2026 | Tresor.West | Dortmund / Essen |
+| Mon, 28 Dec 2026 | Tresor / Globus | Berlin |
+| Mon, 28 Dec 2026 | Tresor / Globus | Berlin |
 | Thu, 31 Dec 2026 | Tempio del Futuro Perduto | Milan |
 
 ## Recently played

@@ -1,11 +1,17 @@
 # TARDEIG ELECTRÒNIC x Chica Club presents: Classics at Chica Club
 
-TARDEIG ELECTRÒNIC x Chica Club presents: Classics on Sat 14 Nov, Barcelona. House and Disco. See the line-up on soundcheck.
+TARDEIG ELECTRÒNIC x Chica Club presents: Classics on Sat 14 Nov, Barcelona. 3 artists: Dr. Ginn, Elliot (UK) and Ivan G. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 14 Nov 2026 |
 | Venue | Chica Club |
 | City | Barcelona |
+
+## Line-up
+
+- Dr. Ginn
+- Elliot (UK)
+- Ivan G
 
 *Source: [soundcheck](https://soundcheck.club/e/2567202-tardeig-electr-nic-x-chica-club-presents-classics-at-chica-c/)*

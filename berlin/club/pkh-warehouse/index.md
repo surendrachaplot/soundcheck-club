@@ -9,6 +9,6 @@ PKH Warehouse is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Verschoben auf November Peachy Berlin – Issue 02: Queer Pop & Techno |  |
-| Sat, 5 Dec 2026 | (FREE ENTRY) ILLEGAL with Tragedie,Tonino, Eric Wishes uvm | DJ Spaßgetränk, DJ ŌVËRDRĪVÊ, Eric Wishes, Lisatrix, Milchgeld, Sievert Serviert, Teenage Mutants, TommyB (2), Tonino, cell1, elvito |
+| Sat, 5 Dec 2026 | (FREE ENTRY) ILLEGAL with Tragedie,Tonino, Eric Wishes uvm | DJ Spaßgetränk, DJ ŌVËRDRĪVÊ, Eric Wishes, Lisatrix, Milchgeld, Ray Ewulu, Sievert Serviert, Teenage Mutants, TommyB (2), Tonino, cell1, elvito |
 
 *Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/pkh-warehouse/)*

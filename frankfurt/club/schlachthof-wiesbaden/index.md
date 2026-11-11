@@ -9,7 +9,7 @@ Schlachthof Wiesbaden is a music venue in Frankfurt listed on soundcheck. 3 upco
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | CLUB LOYAL | Soela, Tante Kante, Trockener Sekt |
-| Sat, 12 Dec 2026 | Tacheles | ATJOP, G I N A, Jan Zimmermann, POISON, SLOPEZZ |
+| Sat, 12 Dec 2026 | Tacheles | ATJOP, G I N A, Jan Zimmermann, POIZN, SLOPEZZ |
 | Thu, 24 Dec 2026 | KOLLEKTIV FÜNFSINN pres. FAMMILY AFFAIR | DJ DRECKISCH |
 
 ## Address

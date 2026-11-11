@@ -11,9 +11,9 @@
 | Thu, 12 Nov 2026 | Out of Frame | Straka (2) |
 | Fri, 13 Nov 2026 | Gromma | Gromma |
 | Sat, 14 Nov 2026 | Kaesar | Kaesar |
-| Sat, 14 Nov 2026 | Cruz | Cruz (PT) |
 | Thu, 19 Nov 2026 | Aspen Collective | Afonso (PT), André Costa, FAUSTO |
 | Fri, 20 Nov 2026 | Ze Salvador | Ze Salvador |
+| Sat, 21 Nov 2026 | Cruz | Cruz (PT) |
 | Thu, 26 Nov 2026 | Discompasso | Conor Brophy, Laimonas |
 | Fri, 27 Nov 2026 | TM |  |
 | Sat, 28 Nov 2026 | Tiago Carvalho | Tiago Carvalho |

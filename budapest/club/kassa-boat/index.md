@@ -14,7 +14,7 @@ Kassa Boat is a music venue in Budapest listed on soundcheck. 7 upcoming gigs, w
 | Fri, 4 Dec 2026 | KASSA Short Circuit w/ Colin Benders | Cvrdwell, LAU (6) |
 | Fri, 11 Dec 2026 | ELYSIUM 3RD ANNIVERSARY W/ Noise Not War + VOID COLLECTIVE - 12.11 - KASSA | Flakka (2), Monovision, Noise Not War, Osman Merter, Tapage Noir |
 | Sat, 12 Dec 2026 | Athen To Budapest w/Axel Karakasis, DJ Budai, Dj Newl, Demmy J | Axel Karakasis, DJ Budai, Demmy J |
-| Fri, 18 Dec 2026 | LavaLava with Shonky — 12-hour Marathon | Beta, Falcao, Kaesar, Kokeshi, Martin 'M, SLYM, Shonky, Tolo, szoliver |
+| Fri, 18 Dec 2026 | LavaLava with Shonky — 12-hour Marathon | Beta, Falcao, Kaesar, Kokeshi, Levi Gava, Martin 'M, SLYM, Shonky, Tolo, szoliver |
 
 ## Address
 

@@ -1,8 +1,8 @@
 # Dennis Cruz
 
-Dennis Cruz is a Tech House and House artist with 9 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Parque Fundidora, Monterrey on Fri, 13 Nov 2026.
+Dennis Cruz is a Tech House and House artist with 10 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Parque Fundidora, Monterrey on Fri, 13 Nov 2026.
 
-Dennis Cruz is a tech house and house artist based in Spain, with 207 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 50 more. Often billed alongside PAWSA, Marco Carola and Seth Troxler. Next up: Parque Fundidora, Monterrey on Fri 13 Nov.
+Dennis Cruz is a tech house and house artist based in Spain, with 208 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 50 more. Often billed alongside PAWSA, Marco Carola and Seth Troxler. Next up: Parque Fundidora, Monterrey on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Dennis Cruz is a tech house and house artist based in Spain, with 207 gigs on so
 | Sat, 21 Nov 2026 | TBA - Arena Norte, Nuñez | Buenos Aires |
 | Mon, 21 Dec 2026 | TBA | Uruguay |
 | Sat, 2 Jan 2027 | TBA - Open Park, Punta del Este | Uruguay |
+| Mon, 8 Feb 2027 | Museu do Amanhã | Rio de Janeiro |
 | Wed, 17 Mar 2027 | Happy Bay Beach | Saint-martin |
 | Sat, 3 Apr 2027 | Maimarkthalle | Mannheim |
 

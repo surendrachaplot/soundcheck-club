@@ -1,8 +1,8 @@
 # Ely Oaks
 
-Ely Oaks is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Bauhaus, Houston on Wed, 11 Nov 2026.
+Ely Oaks is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Bauhaus, Houston on Wed, 11 Nov 2026.
 
-Ely Oaks is a techno and house artist based in Austria, with 57 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Atlanta and 35 more. Often billed alongside Space 92, BOVSKI and DAX J. Next up: Bauhaus, Houston on Wed 11 Nov.
+Ely Oaks is a techno and house artist based in Austria, with 58 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Atlanta and 35 more. Often billed alongside Space 92, Adam Beyer and Amy Wiles. Next up: Bauhaus, Houston on Wed 11 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ely Oaks is a techno and house artist based in Austria, with 57 gigs on soundche
 | --- | --- | --- |
 | Wed, 11 Nov 2026 | Bauhaus | Houston |
 | Fri, 15 Jan 2027 | MÄX | Zurich |
+| Thu, 21 Jan 2027 | Royal Caribbean Cruise Ship | Miami |
 | Thu, 21 Jan 2027 | Royal Caribbean Cruise Ship | Miami |
 | Fri, 12 Feb 2027 | The Independent | San-francisco-oakland |
 | Sat, 20 Feb 2027 | The Fruit | North-carolina |
@@ -29,6 +30,6 @@ Ely Oaks is a techno and house artist based in Austria, with 57 gigs on soundche
 
 ## Shares bills with
 
-Space 92, BOVSKI, DAX J
+Space 92, Adam Beyer, Amy Wiles
 
 *Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elyoaks/)*

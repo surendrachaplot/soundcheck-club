@@ -1,13 +1,14 @@
 # Romeo
 
-Romeo is a House and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Royal Caribbean Cruise Ship, Miami on Thu, 21 Jan 2027.
+Romeo is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Royal Caribbean Cruise Ship, Miami on Thu, 21 Jan 2027.
 
-Romeo is a house and club artist based in Indonesia, with 27 gigs on soundcheck across Barcelona, Berlin, Birmingham and London and 4 more. Often billed alongside Max E Groove, Mr Fresh Official and NYCity Soundz. Next up: Royal Caribbean Cruise Ship, Miami on Thu 21 Jan.
+Romeo is a house and club artist based in Indonesia, with 28 gigs on soundcheck across Barcelona, Berlin, Birmingham and London and 4 more. Often billed alongside Max E Groove, Mr Fresh Official and NYCity Soundz. Next up: Royal Caribbean Cruise Ship, Miami on Thu 21 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 21 Jan 2027 | Royal Caribbean Cruise Ship | Miami |
 | Thu, 21 Jan 2027 | Royal Caribbean Cruise Ship | Miami |
 
 ## Recently played

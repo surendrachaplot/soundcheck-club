@@ -1,14 +1,15 @@
 # 1991 (UK)
 
-1991 (UK) is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Arzenal, Budapest on Thu, 19 Nov 2026.
+1991 (UK) is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Arzenal, Budapest on Thu, 19 Nov 2026.
 
-1991 (UK) is a drum & bass and bass artist based in United Kingdom, with 31 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Bordeaux and 19 more. Often billed alongside Culture Shock, Dimension and Sub Focus. Next up: Arzenal, Budapest on Thu 19 Nov.
+1991 (UK) is a drum & bass and bass artist based in United Kingdom, with 32 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Bordeaux and 20 more. Often billed alongside Culture Shock, Dimension and Sub Focus. Next up: Arzenal, Budapest on Thu 19 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 19 Nov 2026 | Arzenal | Budapest |
+| Fri, 5 Feb 2027 | New Century Locker | Manchester |
 
 ## Recently played
 

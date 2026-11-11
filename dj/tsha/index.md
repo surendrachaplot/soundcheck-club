@@ -1,8 +1,8 @@
 # TSHA
 
-TSHA is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Circus Osaka, Osaka on Fri, 20 Nov 2026.
+TSHA is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Circus Osaka, Osaka on Fri, 20 Nov 2026.
 
-TSHA is a house and techno artist based in United Kingdom, with 205 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 63 more. Often billed alongside Eliza Rose, Honey Dijon and Seth Troxler. Next up: Circus Osaka, Osaka on Fri 20 Nov.
+TSHA is a house and techno artist based in United Kingdom, with 206 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 63 more. Often billed alongside Eliza Rose, Honey Dijon and Seth Troxler. Next up: Circus Osaka, Osaka on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ TSHA is a house and techno artist based in United Kingdom, with 205 gigs on soun
 | Sat, 28 Nov 2026 | The Ivy | Sydney |
 | Sun, 29 Nov 2026 | The Forum Theatre | Melbourne |
 | Fri, 4 Dec 2026 | Savaya Bali | Bali |
+| Thu, 31 Dec 2026 | Lofi | Amsterdam |
 
 ## Recently played
 

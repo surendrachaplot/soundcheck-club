@@ -1,14 +1,13 @@
 # Cinna Peyghamy
 
-Cinna Peyghamy is a Experimental and Dub Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Silent Green, Berlin on Wed, 11 Nov 2026.
+Cinna Peyghamy is a Experimental and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Vespers Club, London on Thu, 12 Nov 2026.
 
-Cinna Peyghamy is an experimental and dub techno artist based in France, with 38 gigs on soundcheck across Armenia, Basel, Bergen and Berlin and 10 more. Often billed alongside Azu Tiwaline, Mahmood Schricker and Ale Hop. Next up: Silent Green, Berlin on Wed 11 Nov.
+Cinna Peyghamy is an experimental and dub techno artist based in France, with 38 gigs on soundcheck across Armenia, Basel, Bergen and Berlin and 10 more. Often billed alongside Azu Tiwaline, Mahmood Schricker and Ale Hop. Next up: Vespers Club, London on Thu 12 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 11 Nov 2026 | Silent Green | Berlin |
 | Thu, 12 Nov 2026 | Vespers Club | London |
 | Fri, 29 Jan 2027 | Berghain / Panorama Bar / Säule | Berlin |
 

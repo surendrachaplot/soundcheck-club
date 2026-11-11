@@ -1,14 +1,15 @@
 # Saint Caboclo
 
-Saint Caboclo is a Baile Funk and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Massive, Seattle on Fri, 13 Nov 2026.
+Saint Caboclo is a Baile Funk and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Massive, Seattle on Fri, 13 Nov 2026.
 
-Saint Caboclo is a baile funk and techno artist based in Portugal, with 64 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 9 more. Often billed alongside Sinnotsin, BANU and Diego Armando. Next up: Massive, Seattle on Fri 13 Nov.
+Saint Caboclo is a baile funk and techno artist based in Portugal, with 65 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 9 more. Often billed alongside Sinnotsin, BANU and Diego Armando. Next up: Massive, Seattle on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Massive | Seattle |
+| Mon, 30 Nov 2026 | Ministerium Club | Lisbon |
 
 ## Recently played
 

@@ -1,13 +1,14 @@
 # CEB (FI)
 
-CEB (FI) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Post Bar, Helsinki on Fri, 4 Dec 2026.
+CEB (FI) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Post Bar, Helsinki on Fri, 4 Dec 2026.
 
-CEB (FI) is a techno and house artist based in Finland, with 93 gigs on soundcheck across Amsterdam, Berlin, Helsinki and Leipzig and 1 more. Often billed alongside Paula Koski, LARA SILVA and 2THEMAX. Next up: Post Bar, Helsinki on Fri 4 Dec.
+CEB (FI) is a techno and house artist based in Finland, with 94 gigs on soundcheck across Amsterdam, Berlin, Helsinki and Leipzig and 1 more. Often billed alongside Paula Koski, LARA SILVA and 2THEMAX. Next up: Post Bar, Helsinki on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Dec 2026 | Post Bar | Helsinki |
 | Fri, 4 Dec 2026 | Post Bar | Helsinki |
 
 ## Recently played

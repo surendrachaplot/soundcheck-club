@@ -9,7 +9,7 @@ Pleasure Club is a music venue in Sydney listed on soundcheck. 2 upcoming gigs, 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sun, 15 Nov 2026 | Videodrone w/ Phil Kieran (UK) & Tunnel Signs | Phil Kieran, Tunnel Signs |
-| Thu, 31 Dec 2026 | little Pleasure party | Dreems, Jocelyn (AU), La Figa, MADAMI, Postponez |
+| Thu, 31 Dec 2026 | little Pleasure party feat. DeepFaith & Dreems | Dreems, Jocelyn (AU), La Figa, MADAMI, Postponez |
 
 ## Address
 

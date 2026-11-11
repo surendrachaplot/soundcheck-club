@@ -1,14 +1,13 @@
 # Nulab Chengdu
 
-Nulab Chengdu is a music venue in Chengdu with 14 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "厅 |  Electro JYM @Tin" on Wed, 11 Nov 2026.
+Nulab Chengdu is a music venue in Chengdu with 13 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "厅 - Tin Night @Tin" on Thu, 12 Nov 2026.
 
-Nulab Chengdu is a music venue in Chengdu listed on soundcheck. 14 upcoming gigs, with line-ups including Airbear, Erik Luebs, Florian Picasso and G0vernmentsLie and 2 more. See dates, start times and who's playing. No.666. Yong'an Rd. Jinjiang Dist. Chengdu China.
+Nulab Chengdu is a music venue in Chengdu listed on soundcheck. 13 upcoming gigs, with line-ups including Airbear, Erik Luebs, Florian Picasso and G0vernmentsLie and 2 more. See dates, start times and who's playing. No.666. Yong'an Rd. Jinjiang Dist. Chengdu China.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 11 Nov 2026 | 厅 /  Electro JYM @Tin |  |
 | Thu, 12 Nov 2026 | 厅 - Tin Night @Tin |  |
 | Fri, 13 Nov 2026 | BUCKSHOT × OSCAR18 CHINA TOUR | Kousei |
 | Fri, 13 Nov 2026 | 厅 - WOW NIIIITe |  |
@@ -18,6 +17,7 @@ Nulab Chengdu is a music venue in Chengdu listed on soundcheck. 14 upcoming gigs
 | Fri, 20 Nov 2026 | 厅 / 浩室之徒 @Tin | Summer |
 | Fri, 20 Nov 2026 | NU Pres. Hunkut & Florian Picasso | Florian Picasso, Hunkut |
 | Sat, 21 Nov 2026 | 原形毕露 - Feat.Truthserum | Airbear |
+| Sat, 21 Nov 2026 | 厅 - Tin's Nite | Konnection, seko (HK) |
 
 ## Address
 

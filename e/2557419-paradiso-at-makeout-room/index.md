@@ -1,6 +1,6 @@
 # Paradiso at Makeout Room
 
-Paradiso at Makeout Room on Tue 8 Dec, San Francisco/Oakland. 1 artist: Carla Lyn. House. See the line-up on soundcheck.
+Paradiso at Makeout Room on Tue 8 Dec, San Francisco/Oakland. 2 artists: Carla Lyn and DJ Rebecca. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Paradiso at Makeout Room on Tue 8 Dec, San Francisco/Oakland. 1 artist: Carla Ly
 ## Line-up
 
 - Carla Lyn
+- DJ Rebecca
 
 *Source: [soundcheck](https://soundcheck.club/e/2557419-paradiso-at-makeout-room/)*

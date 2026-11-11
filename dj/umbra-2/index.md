@@ -1,8 +1,8 @@
 # Umbra (2)
 
-Umbra (2) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Pawnshop, Taipei on Fri, 13 Nov 2026.
+Umbra (2) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Pawnshop, Taipei on Fri, 13 Nov 2026.
 
-Umbra is a house and techno artist based in Taiwan, with 55 gigs on soundcheck across Taipei and Tokyo. Often billed alongside L-CC, Diskonnected and Kerena. Next up: Pawnshop, Taipei on Fri 13 Nov.
+Umbra is a house and techno artist based in Taiwan, with 56 gigs on soundcheck across Taipei and Tokyo. Often billed alongside L-CC, Diskonnected and Kerena. Next up: Pawnshop, Taipei on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Umbra is a house and techno artist based in Taiwan, with 55 gigs on soundcheck a
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Pawnshop | Taipei |
 | Sat, 21 Nov 2026 | Pawnshop | Taipei |
+| Sat, 12 Dec 2026 | Pawnshop | Taipei |
 
 ## Recently played
 

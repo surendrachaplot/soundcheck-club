@@ -11,7 +11,7 @@ Quarters is a music venue in Brighton listed on soundcheck. 10 upcoming gigs, wi
 | Fri, 13 Nov 2026 | Yung Sing + RIRIA | RIRIA, Yung Singh |
 | Sat, 14 Nov 2026 | Ben Hemsley | Ben Hemsley |
 | Fri, 20 Nov 2026 | Degs & FRIENDS | Degs |
-| Sat, 21 Nov 2026 | Locklead, Julian Anthony + more TBA | Julian Anthony, Locklead, Reeshy |
+| Sat, 21 Nov 2026 | Locklead, Julian Anthony, Reeshy | Julian Anthony, Locklead, Reeshy |
 | Sat, 21 Nov 2026 | RNB MANIA - Brighton's R&B Festival |  |
 | Sat, 28 Nov 2026 | Midland + Shanti Celeste | Midland, Shanti Celeste |
 | Fri, 4 Dec 2026 | Free The Rave with Anaïs & Particle | Anaïs, Particle (1) |

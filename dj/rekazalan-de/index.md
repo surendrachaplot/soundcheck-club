@@ -1,8 +1,8 @@
 # Reka Zalan
 
-Reka Zalan is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The White Hotel, Manchester on Fri, 13 Nov 2026.
+Reka Zalan is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The White Hotel, Manchester on Fri, 13 Nov 2026.
 
-Reka Zalan is a techno and house artist based in Germany, with 122 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 27 more. Often billed alongside THNTS, Rill and V:SONNTAG. Next up: The White Hotel, Manchester on Fri 13 Nov.
+Reka Zalan is a techno and house artist based in Germany, with 124 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 27 more. Often billed alongside THNTS, Rill and V:SONNTAG. Next up: The White Hotel, Manchester on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,8 @@ Reka Zalan is a techno and house artist based in Germany, with 122 gigs on sound
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | The White Hotel | Manchester |
 | Sat, 21 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
+| Mon, 28 Dec 2026 | Tresor / Globus | Berlin |
+| Thu, 31 Dec 2026 | Tresor / Globus | Berlin |
 
 ## Recently played
 

@@ -1,6 +1,6 @@
 # Leo Pol, Coleeeette, Arthur Pringle & Toma: House Archive at La Java
 
-Leo Pol, Coleeeette, Arthur Pringle & Toma: House Archive at La Java on Fri 20 Nov, Paris. 2 artists: Coleeeette and Leo Pol. House and Electro. See the line-up on soundcheck.
+Leo Pol, Coleeeette, Arthur Pringle & Toma: House Archive at La Java on Fri 20 Nov, Paris. 3 artists: Arthur Pringle, Coleeeette and Leo Pol. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Leo Pol, Coleeeette, Arthur Pringle & Toma: House Archive at La Java on Fri 20 N
 
 ## Line-up
 
+- Arthur Pringle
 - Coleeeette
 - Leo Pol
 

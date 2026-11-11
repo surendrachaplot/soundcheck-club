@@ -1,6 +1,6 @@
 # Tacheles at Schlachthof Wiesbaden
 
-Tacheles at Schlachthof Wiesbaden on Sat 12 Dec, Frankfurt. 5 artists: ATJOP, G I N A, Jan Zimmermann and POISON and 1 more. Techno and House. See the line-up on soundcheck.
+Tacheles at Schlachthof Wiesbaden on Sat 12 Dec, Frankfurt. 5 artists: ATJOP, G I N A, Jan Zimmermann and POIZN and 1 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,7 +13,7 @@ Tacheles at Schlachthof Wiesbaden on Sat 12 Dec, Frankfurt. 5 artists: ATJOP, G 
 - ATJOP
 - G I N A
 - Jan Zimmermann
-- POISON
+- POIZN
 - SLOPEZZ
 
 *Source: [soundcheck](https://soundcheck.club/e/2574039-tacheles-at-schlachthof-wiesbaden/)*

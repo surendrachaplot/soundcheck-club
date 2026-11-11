@@ -9,7 +9,7 @@ Fosters is a techno and house artist based in Australia, with 56 gigs on soundch
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | OneSixOne | Melbourne |
-| Sun, 15 Nov 2026 | Revolver Upstairs | Melbourne |
+| Mon, 16 Nov 2026 | Revolver Upstairs | Melbourne |
 
 ## Recently played
 

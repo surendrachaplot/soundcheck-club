@@ -1,13 +1,14 @@
 # Pretty Pink
 
-Pretty Pink is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Royal Caribbean Cruise Ship, Miami on Thu, 21 Jan 2027.
+Pretty Pink is a Techno and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Royal Caribbean Cruise Ship, Miami on Thu, 21 Jan 2027.
 
-Pretty Pink is a techno and progressive house artist based in Germany, with 69 gigs on soundcheck across Barcelona, Berlin, Chicago and Cologne and 33 more. Often billed alongside Cosmic Gate, Claptone and Luccio. Next up: Royal Caribbean Cruise Ship, Miami on Thu 21 Jan.
+Pretty Pink is a techno and progressive house artist based in Germany, with 70 gigs on soundcheck across Barcelona, Berlin, Chicago and Cologne and 33 more. Often billed alongside Cosmic Gate, Luccio and Amy Wiles. Next up: Royal Caribbean Cruise Ship, Miami on Thu 21 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 21 Jan 2027 | Royal Caribbean Cruise Ship | Miami |
 | Thu, 21 Jan 2027 | Royal Caribbean Cruise Ship | Miami |
 | Fri, 18 Jun 2027 | TBA | Romania |
 
@@ -24,6 +25,6 @@ Pretty Pink is a techno and progressive house artist based in Germany, with 69 g
 
 ## Shares bills with
 
-Cosmic Gate, Claptone, Luccio
+Cosmic Gate, Luccio, Amy Wiles
 
 *Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prettypink/)*

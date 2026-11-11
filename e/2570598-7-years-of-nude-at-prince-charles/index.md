@@ -1,6 +1,6 @@
 # 7 YEARS OF NUDE at Prince Charles
 
-7 YEARS OF NUDE at Prince Charles on Sat 21 Nov, Berlin. 5 artists: AYURI, Cosmo (KR), Elena Bi and Eli Verveine and 1 more. Techno and House. See the line-up on soundcheck.
+7 YEARS OF NUDE at Prince Charles on Sat 21 Nov, Berlin. 6 artists: AYURI, Carmelina, Cosmo (KR) and Elena Bi and 2 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@
 ## Line-up
 
 - AYURI
+- Carmelina
 - Cosmo (KR)
 - Elena Bi
 - Eli Verveine
