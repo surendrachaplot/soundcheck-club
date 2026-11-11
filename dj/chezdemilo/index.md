@@ -1,8 +1,8 @@
 # Chez de Milo
 
-Chez de Milo is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Shredenhams, Bristol on Fri, 20 Nov 2026.
+Chez de Milo is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Shredenhams, Bristol on Fri, 20 Nov 2026.
 
-Chez de Milo is a house and techno artist based in United Kingdom, with 140 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Belgrade and 27 more. Often billed alongside Ellie Stokes, Dave Harvey and Ivan Smagghe. Next up: Shredenhams, Bristol on Fri 20 Nov.
+Chez de Milo is a house and techno artist based in United Kingdom, with 141 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Belgrade and 27 more. Often billed alongside Ellie Stokes, Dave Harvey and Ivan Smagghe. Next up: Shredenhams, Bristol on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Chez de Milo is a house and techno artist based in United Kingdom, with 140 gigs
 | Fri, 20 Nov 2026 | Shredenhams | Bristol |
 | Fri, 11 Dec 2026 | Strange Brew | Bristol |
 | Sat, 12 Dec 2026 | Sameheads | Berlin |
+| Thu, 10 Jun 2027 | Carreglwyd Estate | West-wales |
 | Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
 
 ## Recently played

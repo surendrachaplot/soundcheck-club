@@ -1,14 +1,13 @@
 # Revolver Upstairs
 
-Revolver Upstairs is a music venue in Melbourne with 14 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Tilt Shift Wednesdays" on Wed, 11 Nov 2026.
+Revolver Upstairs is a music venue in Melbourne with 13 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "REVOLVER BANDROOM: MELB BABES feat. Jewel Owusu, Medhanit, Toy Shaw & Aubany" on Thu, 12 Nov 2026.
 
-Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 14 upcoming gigs, with line-ups including Aristo G, Dasha SPRW, DINA and Dylan Griffin and 2 more. See dates, start times and who's playing. 229 Chapel St, Prahran VIC 3181, Australia.
+Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 13 upcoming gigs, with line-ups including Aristo G, Dasha SPRW, DINA and Dylan Griffin and 2 more. See dates, start times and who's playing. 229 Chapel St, Prahran VIC 3181, Australia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 11 Nov 2026 | Tilt Shift Wednesdays |  |
 | Thu, 12 Nov 2026 | REVOLVER BANDROOM: MELB BABES feat. Jewel Owusu, Medhanit, Toy Shaw & Aubany |  |
 | Thu, 12 Nov 2026 | 3181 Thursdays |  |
 | Fri, 13 Nov 2026 | REVOLVER BANDROOM: SHADY NASTY — EXCLUSIVE HEADLINE SHOW |  |
@@ -18,6 +17,7 @@ Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 14 upcomin
 | Fri, 20 Nov 2026 | Michael Mayer (Kompakt - DE) — Revolver Fridays | Eluize, Michael Mayer, Mike Callander |
 | Fri, 20 Nov 2026 | Shadows | Lost Memories |
 | Sat, 21 Nov 2026 | REVOLVER BANDROOM: Ron Keel LIVE THE ROCK — Australian Tour 2026 |  |
+| Fri, 27 Nov 2026 | DINA (DE) — 188 Naarm & Revolver Upstairs | DINA |
 
 ## Address
 

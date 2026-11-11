@@ -1,8 +1,8 @@
 # DJ Masda
 
-DJ Masda is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at SWG3, Glasgow on Fri, 13 Nov 2026.
+DJ Masda is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at SWG3, Glasgow on Fri, 13 Nov 2026.
 
-DJ Masda is a techno and house artist based in Japan, with 235 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 61 more. Often billed alongside Binh, Nicolas Lutz and Craig Richards. Next up: SWG3, Glasgow on Fri 13 Nov.
+DJ Masda is a techno and house artist based in Japan, with 238 gigs on soundcheck across Amsterdam, Bali, Bangkok and Bangladesh and 64 more. Often billed alongside Binh, Nicolas Lutz and Craig Richards. Next up: SWG3, Glasgow on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -18,8 +18,8 @@ DJ Masda is a techno and house artist based in Japan, with 235 gigs on soundchec
 | Thu, 3 Dec 2026 | The Fields at Siam Country Club | Thailand |
 | Fri, 11 Dec 2026 | Club Metro | Kyoto |
 | Thu, 31 Dec 2026 | Home of Plenty | South-australia |
+| Fri, 29 Jan 2027 | Mermaid Beach Resort | Bangladesh |
 | Fri, 16 Apr 2027 | Higashi Izu Cross Country Course | Chubu |
-| Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 

@@ -9,7 +9,7 @@ GRRLCRRSH is a techno and bass artist based in Canada, with 51 gigs on soundchec
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | The Jama | Toronto |
-| Sun, 27 Dec 2026 | TBA - somewhere in the west end | Toronto |
+| Sun, 27 Dec 2026 | Society Clubhouse | Toronto |
 
 ## Recently played
 

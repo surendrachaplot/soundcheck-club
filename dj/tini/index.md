@@ -1,8 +1,8 @@
 # tINI
 
-tINI is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Starlane São Paulo, Sao-paulo on Thu, 12 Nov 2026.
+tINI is a House and Techno artist with 15 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Starlane São Paulo, Sao-paulo on Thu, 12 Nov 2026.
 
-tINI is a house and techno artist based in Germany, with 268 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 70 more. Often billed alongside Gene On Earth, Anthea and Dyed Soundorom. Next up: Starlane São Paulo, Sao Paulo on Thu 12 Nov.
+tINI is a house and techno artist based in Germany, with 269 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 71 more. Often billed alongside Gene On Earth, Anthea and Dyed Soundorom. Next up: Starlane São Paulo, Sao Paulo on Thu 12 Nov.
 
 ## Upcoming shows
 

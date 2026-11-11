@@ -1,8 +1,8 @@
-# TBA - Hackney Wick Secret Location
+# TBA - Hackney Wick - Secret Location
 
-TBA - Hackney Wick Secret Location is a music venue in London with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Dig This Invites" on Fri, 27 Nov 2026.
+TBA - Hackney Wick - Secret Location is a music venue in London with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Dig This Invites" on Fri, 27 Nov 2026.
 
-TBA - Hackney Wick Secret Location is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Andrea Giudice, Brennan, Dig This and Larry Cadge and 2 more. See dates, start times and who's playing.
+TBA - Hackney Wick - Secret Location is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Andrea Giudice, Brennan, Dig This and Larry Cadge and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

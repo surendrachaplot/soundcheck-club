@@ -1,8 +1,8 @@
 # Junki Inoue
 
-Junki Inoue is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA -  SECRET LOCATION, Rome on Sat, 14 Nov 2026.
+Junki Inoue is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA -  SECRET LOCATION, Rome on Sat, 14 Nov 2026.
 
-Junki Inoue is a house and techno artist based in Japan, with 135 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 30 more. Often billed alongside Unai Trotti, Z@p and Vass. Next up: TBA -  SECRET LOCATION, Rome on Sat 14 Nov.
+Junki Inoue is a house and techno artist based in Japan, with 136 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 31 more. Often billed alongside Unai Trotti, Z@p and Vass. Next up: TBA -  SECRET LOCATION, Rome on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Junki Inoue is a house and techno artist based in Japan, with 135 gigs on soundc
 | Sat, 14 Nov 2026 | TBA -  SECRET LOCATION | Rome |
 | Sat, 21 Nov 2026 | FOLD | London |
 | Sat, 28 Nov 2026 | Mint XL | Leeds |
+| Thu, 10 Jun 2027 | Carreglwyd Estate | West-wales |
 
 ## Recently played
 

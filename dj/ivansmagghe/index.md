@@ -1,8 +1,8 @@
 # Ivan Smagghe
 
-Ivan Smagghe is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Cobalt Studios, Newcastle on Fri, 13 Nov 2026.
+Ivan Smagghe is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Cobalt Studios, Newcastle on Fri, 13 Nov 2026.
 
-Ivan Smagghe is a techno and house artist based in France, with 217 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 59 more. Often billed alongside Manfredas, Craig Richards and Chez de Milo. Next up: Cobalt Studios, Newcastle on Fri 13 Nov.
+Ivan Smagghe is a techno and house artist based in France, with 218 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 59 more. Often billed alongside Manfredas, Craig Richards and Chez de Milo. Next up: Cobalt Studios, Newcastle on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Ivan Smagghe is a techno and house artist based in France, with 217 gigs on soun
 | Sat, 19 Dec 2026 | Gewölbe | Cologne |
 | Fri, 1 Jan 2027 | Bosc Tancat / Diverbosc | Barcelona |
 | Fri, 28 May 2027 | Paraje Natural de la Ermita de los Tres Juanes | South |
+| Fri, 4 Jun 2027 | Umoya | Naples |
 | Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
 | Thu, 22 Jul 2027 | Great Fulford | West-wales |
 

@@ -1,6 +1,6 @@
 # Kurea
 
-Kurea is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at 030.Tokyo, Tokyo on Wed, 11 Nov 2026.
+Kurea is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at 030.Tokyo, Tokyo on Wed, 11 Nov 2026.
 
 Kurea is a techno and house artist based in Japan, with 44 gigs on soundcheck across Tokyo. Often billed alongside tnseei, Yui (JP) and Lynta. Next up: 030.Tokyo, Tokyo on Wed 11 Nov.
 
@@ -25,4 +25,4 @@ Kurea is a techno and house artist based in Japan, with 44 gigs on soundcheck ac
 
 tnseei, Yui (JP), Lynta
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kurea/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kurea/)*

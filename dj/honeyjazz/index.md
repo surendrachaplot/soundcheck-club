@@ -2,7 +2,7 @@
 
 Honey Jazz is a electronic artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Garage Noord, Amsterdam on Sat, 14 Nov 2026.
 
-Honey Jazz is an electronic artist, with 6 gigs on soundcheck across Amsterdam and Milan. Often billed alongside Bianca Intensa, ninafterdark and 2tongues. Next up: Garage Noord, Amsterdam on Sat 14 Nov.
+Honey Jazz is an electronic artist based in Italy, with 6 gigs on soundcheck across Amsterdam and Milan. Often billed alongside Bianca Intensa, ninafterdark and 2tongues. Next up: Garage Noord, Amsterdam on Sat 14 Nov.
 
 ## Upcoming shows
 

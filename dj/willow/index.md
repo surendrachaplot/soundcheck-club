@@ -1,8 +1,8 @@
 # Willow
 
-Willow is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Doka, Amsterdam on Fri, 20 Nov 2026.
+Willow is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Doka, Amsterdam on Fri, 20 Nov 2026.
 
-Willow is a house and techno artist based in United Kingdom, with 136 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 30 more. Often billed alongside Lukas Wigflex, Dr Banana and Bobby.. Next up: Doka, Amsterdam on Fri 20 Nov.
+Willow is a house and techno artist based in United Kingdom, with 137 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 31 more. Often billed alongside Lukas Wigflex, Dr Banana and Bobby.. Next up: Doka, Amsterdam on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Willow is a house and techno artist based in United Kingdom, with 136 gigs on so
 | Sat, 5 Dec 2026 | Distrikt | Leeds |
 | Sat, 12 Dec 2026 | Phonox | London |
 | Fri, 29 Jan 2027 | Eastern Bloc Records | Manchester |
+| Thu, 10 Jun 2027 | Carreglwyd Estate | West-wales |
 
 ## Recently played
 

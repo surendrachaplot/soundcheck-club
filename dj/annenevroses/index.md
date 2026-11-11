@@ -2,7 +2,7 @@
 
 anne névroses is a Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at NDR2 Red Room, London on Sat, 21 Nov 2026.
 
-anne névroses is a tech house artist, with 5 gigs on soundcheck across London. Often billed alongside Eds D1, Jamie Ardor and Overdog. Next up: NDR2 Red Room, London on Sat 21 Nov.
+anne névroses is a tech house artist based in France, with 5 gigs on soundcheck across London. Often billed alongside Eds D1, Jamie Ardor and Overdog. Next up: NDR2 Red Room, London on Sat 21 Nov.
 
 ## Upcoming shows
 

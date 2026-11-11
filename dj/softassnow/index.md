@@ -2,7 +2,7 @@
 
 Soft As Snow is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Umbo, Zurich on Thu, 12 Nov 2026.
 
-Soft As Snow is an experimental and ambient artist, with 6 gigs on soundcheck across Berlin, New York City, Portland and Zurich. Often billed alongside Arcane, Chikiss and Jasmine Guffond. Next up: Umbo, Zurich on Thu 12 Nov.
+Soft As Snow is an experimental and ambient artist based in United Kingdom, with 6 gigs on soundcheck across Berlin, New York City, Portland and Zurich. Often billed alongside Arcane, Chikiss and Jasmine Guffond. Next up: Umbo, Zurich on Thu 12 Nov.
 
 ## Upcoming shows
 

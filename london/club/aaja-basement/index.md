@@ -2,7 +2,7 @@
 
 Aaja Basement is a music venue in London with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "This Thing Of Ours presents Lenny Dee" on Fri, 27 Nov 2026.
 
-Aaja Basement is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including AMAR (UK), Aurelia, DELARA and Drinks On Me and 2 more. See dates, start times and who's playing. 63 - 69 Deptford High Streeet, Basement of, accessed via Comet Place. SE8 4EP.
+Aaja Basement is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including AMAR (UK), DELARA, Drinks On Me and GOIA AMO and 2 more. See dates, start times and who's playing. 63 - 69 Deptford High Streeet, Basement of, accessed via Comet Place. SE8 4EP.
 
 ## What's on
 
@@ -11,7 +11,7 @@ Aaja Basement is a music venue in London listed on soundcheck. 4 upcoming gigs, 
 | Fri, 27 Nov 2026 | This Thing Of Ours presents Lenny Dee | Lenny Dee, THE SLAUGHTER (2), Torque (2) |
 | Fri, 4 Dec 2026 | Corefusion X This Thing Of Ours - MERRY CORE-MAS |  |
 | Sat, 5 Dec 2026 | The Healing Process 013: Plus One | Drinks On Me, SHIFT K3Y, Stresshead |
-| Fri, 11 Dec 2026 | sWARM signals x MID WEEK SESSION presents HYPHAE | AMAR (UK), Aurelia, DELARA, GOIA AMO, Jordan K Joseph, Juan San Lucas, Love Sensation, Modlar, PAVEL__, Yazmin, metrologic |
+| Fri, 11 Dec 2026 | sWARM signals x MID WEEK SESSION presents HYPHAE | AMAR (UK), DELARA, GOIA AMO, Jordan K Joseph, Juan San Lucas, Love Sensation, Modlar, PAVEL__, Yazmin (UK), metrologic |
 
 ## Address
 

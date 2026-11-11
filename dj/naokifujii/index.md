@@ -1,6 +1,6 @@
 # Naoki Fujii
 
-Naoki Fujii is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Débris, Tokyo on Wed, 11 Nov 2026.
+Naoki Fujii is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Débris, Tokyo on Wed, 11 Nov 2026.
 
 Naoki Fujii is a techno and house artist based in Japan, with 29 gigs on soundcheck across Tokyo. Often billed alongside RINALUCKY, NAOKI and YUKIMASA. Next up: Débris, Tokyo on Wed 11 Nov.
 
@@ -25,4 +25,4 @@ Naoki Fujii is a techno and house artist based in Japan, with 29 gigs on soundch
 
 RINALUCKY, NAOKI, YUKIMASA
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/naokifujii/)*
+*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/naokifujii/)*

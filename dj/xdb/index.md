@@ -1,8 +1,8 @@
 # XDB
 
-XDB is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Post Bar, Helsinki on Sat, 21 Nov 2026.
+XDB is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Post Bar, Helsinki on Sat, 21 Nov 2026.
 
-XDB is a techno and house artist based in Germany, with 149 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 42 more. Often billed alongside dj sweet6teen, Edward and Vera. Next up: Post Bar, Helsinki on Sat 21 Nov.
+XDB is a techno and house artist based in Germany, with 150 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 42 more. Often billed alongside dj sweet6teen, Edward and Vera. Next up: Post Bar, Helsinki on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ XDB is a techno and house artist based in Germany, with 149 gigs on soundcheck a
 | Fri, 1 Jan 2027 | Backsteinboot | Berlin |
 | Fri, 15 Jan 2027 | Cadavra | Madrid |
 | Fri, 29 Jan 2027 | 24 Kitchen Street | Liverpool |
+| Thu, 10 Jun 2027 | Carreglwyd Estate | West-wales |
 | Thu, 22 Jul 2027 | Great Fulford | West-wales |
 | Thu, 26 Aug 2027 | The Garden Tisno | Croatia |
 

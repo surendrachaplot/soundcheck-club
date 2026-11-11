@@ -1,14 +1,15 @@
 # DJ Koolt
 
-DJ Koolt is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
+DJ Koolt is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
 
-DJ Koolt is a techno and house artist based in Uruguay, with 106 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belgrade and 35 more. Often billed alongside Sugar Free, ASIA (DE) and Ogazón. Next up: El Rio Hostel, Colombia on Wed 3 Mar.
+DJ Koolt is a techno and house artist based in Uruguay, with 107 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belgrade and 36 more. Often billed alongside Sugar Free, ASIA (DE) and Ogazón. Next up: El Rio Hostel, Colombia on Wed 3 Mar.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 3 Mar 2027 | El Rio Hostel | Colombia |
+| Thu, 10 Jun 2027 | Carreglwyd Estate | West-wales |
 
 ## Recently played
 

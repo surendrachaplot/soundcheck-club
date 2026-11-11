@@ -3372,16 +3372,20 @@ a.fst-t:hover{text-decoration:underline}
 .yas-album{display:flex;gap:10px;overflow-x:auto;scrollbar-width:none;margin-right:calc(-1 * var(--gut,18px));padding-right:var(--gut,18px)}
 .yas-album::-webkit-scrollbar{display:none}
 .yst,.yst-more{flex:0 0 96px;display:flex;flex-direction:column;gap:6px;text-decoration:none}
-.yst-p{position:relative;width:96px;height:120px;padding:0;border:0;cursor:pointer;background:#fdf3ec url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='96' height='120'%3E%3Cdefs%3E%3Cpattern id='h' width='8' height='120' patternUnits='userSpaceOnUse'%3E%3Ccircle cx='4' cy='0' r='3.2' fill='%2316102a'/%3E%3Ccircle cx='4' cy='120' r='3.2' fill='%2316102a'/%3E%3C/pattern%3E%3Cpattern id='v' width='96' height='8' patternUnits='userSpaceOnUse'%3E%3Ccircle cx='0' cy='4' r='3.2' fill='%2316102a'/%3E%3Ccircle cx='96' cy='4' r='3.2' fill='%2316102a'/%3E%3C/pattern%3E%3C/defs%3E%3Crect width='96' height='120' fill='url(%23h)'/%3E%3Crect width='96' height='120' fill='url(%23v)'/%3E%3C/svg%3E") 0 0/96px 120px no-repeat;-webkit-tap-highlight-color:transparent}
+.yst-p{position:relative;width:96px;height:120px;padding:0;border:0;cursor:pointer;background:#fdf3ec;-webkit-tap-highlight-color:transparent}
+/* stamp fill (founder 11 Nov 2026, Paper "A"): the whole stamp fills bottom→top with the sunset as you listen; dots sit over it */
+.yst-p::before{content:"";position:absolute;inset:0;z-index:1;pointer-events:none;background:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='96' height='120'%3E%3Cdefs%3E%3Cpattern id='h' width='8' height='120' patternUnits='userSpaceOnUse'%3E%3Ccircle cx='4' cy='0' r='3.2' fill='%2316102a'/%3E%3Ccircle cx='4' cy='120' r='3.2' fill='%2316102a'/%3E%3C/pattern%3E%3Cpattern id='v' width='96' height='8' patternUnits='userSpaceOnUse'%3E%3Ccircle cx='0' cy='4' r='3.2' fill='%2316102a'/%3E%3Ccircle cx='96' cy='4' r='3.2' fill='%2316102a'/%3E%3C/pattern%3E%3C/defs%3E%3Crect width='96' height='120' fill='url(%23h)'/%3E%3Crect width='96' height='120' fill='url(%23v)'/%3E%3C/svg%3E") 0 0/96px 120px no-repeat}
+.yst-p>*{z-index:2}
+.yst-f{position:absolute;left:0;right:0;bottom:0;z-index:0;box-sizing:border-box;background:var(--accent-grad) bottom/96px 120px no-repeat;border-top:1.5px solid rgba(42,13,20,.35)}
+.yst-f.all{border-top:0}
+.yst-v{position:absolute;left:8px;top:8px;width:80px;background:rgba(22,16,42,.55)}
 .yst-p:focus-visible{outline:2px solid var(--sel);outline-offset:3px}
 .yst-a{position:absolute;left:8px;top:8px;width:80px;height:80px;overflow:hidden;background:var(--surface-2) center/cover no-repeat}
 .yst-a svg{width:100%;height:100%}
-.yst-bar{position:absolute;left:8px;top:96px;width:80px;height:3px;background:rgba(42,13,20,.15)}
-.yst-bar i{display:block;height:100%;background:var(--accent-grad)}
 .yst-m{position:absolute;left:8px;top:103px;width:80px;display:flex;justify-content:space-between;font:700 9px/11px var(--font-mono);letter-spacing:.06em;color:var(--ink)}
 .yst-m span+span{opacity:.55}
-.yst-pm{position:absolute;left:52px;top:46px;width:46px;height:46px;transform:rotate(-12deg);overflow:visible;fill:none;stroke:url(#rt-g);stroke-width:2}
-.yst-pm .i{stroke-width:1}.yst-pm path{stroke-width:1.6}
+.yst-pm{position:absolute;left:52px;top:46px;width:46px;height:46px;transform:rotate(-14deg);transform-origin:0 0;overflow:visible;fill:none;stroke:#fdf3ec;stroke-width:2}
+.yst-pm .i{stroke-width:1}.yst-pm path{stroke-width:1.6}.yst-pm text{fill:#fdf3ec;stroke:none;font:700 7px var(--font-mono)}
 .yst-u{display:flex;flex-direction:column;gap:2px;min-height:30px}
 .yst-u .rt-5{display:flex;gap:1px;height:16px;align-items:center}
 .yst-u .rt-5 .rt-s{width:12px;height:12px}
@@ -5531,7 +5535,7 @@ a.fst-t:hover{text-decoration:underline}
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1794347211437">
+<meta name="sc-build" content="1794411980114">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Gigs%20%26%20artist%20sets%20in%20171%20cities" />
 </head>
@@ -5591,7 +5595,7 @@ a.fst-t:hover{text-decoration:underline}
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-11-10/">Tue 10 Nov <span class="c">5 events</span></a></li><li><a href="/london/2026-11-11/">Wed 11 Nov <span class="c">14 events</span></a></li><li><a href="/london/2026-11-12/">Thu 12 Nov <span class="c">37 events</span></a></li><li><a href="/london/2026-11-13/">Fri 13 Nov <span class="c">109 events</span></a></li><li><a href="/london/2026-11-14/">Sat 14 Nov <span class="c">136 events</span></a></li><li><a href="/london/2026-11-15/">Sun 15 Nov <span class="c">26 events</span></a></li><li><a href="/london/2026-11-17/">Tue 17 Nov <span class="c">4 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 171 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-11-11/">Wed 11 Nov <span class="c">14 events</span></a></li><li><a href="/london/2026-11-12/">Thu 12 Nov <span class="c">37 events</span></a></li><li><a href="/london/2026-11-13/">Fri 13 Nov <span class="c">110 events</span></a></li><li><a href="/london/2026-11-14/">Sat 14 Nov <span class="c">139 events</span></a></li><li><a href="/london/2026-11-15/">Sun 15 Nov <span class="c">26 events</span></a></li><li><a href="/london/2026-11-17/">Tue 17 Nov <span class="c">4 events</span></a></li><li><a href="/london/2026-11-18/">Wed 18 Nov <span class="c">13 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 171 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          h1 in the DOM (on home and city pages; build-seo makes it an h2 elsewhere), so it is
@@ -13641,10 +13645,11 @@ a.fst-t:hover{text-decoration:underline}
       var pct=Math.round(s.f*100), m=_rt.mine[s.k], stars='';
       if(m){ for(var i=1;i<=5;i++) stars+=rtS(i<=m?'on':'off'); }
       return '<div class="yst" data-k="'+esc(s.k)+'"><button class="yst-p" type="button" data-i="'+s.i+'" aria-label="'+attrEsc('Play '+(s.it.title||'this set')+', '+(pct>=100?'heard it all':pct+'% heard'))+'">'+
+          '<span class="yst-f'+(pct>=100?' all':'')+'" style="height:'+pct+'%"></span>'+
           '<span class="yst-a"'+(s.it.thumb?' style="background-image:url(\''+esc(s.it.thumb)+'\')"':'')+'>'+(s.it.thumb?'':genPoster(s.it.title||'Set'))+'</span>'+
-          '<span class="yst-bar"><i style="width:'+pct+'%"></i></span>'+
+          (pct<100?'<span class="yst-v" style="height:'+Math.max(0,Math.min(80,112-120*pct/100))+'px"></span>':'')+
           '<span class="yst-m"><span>'+pct+'%</span><span>'+esc(s.it.badge||'')+'</span></span>'+
-          (pct>=100?'<svg class="yst-pm" viewBox="0 0 46 46" aria-hidden="true"><circle cx="23" cy="23" r="17"/><circle cx="23" cy="23" r="12.5" class="i"/><path d="M-6 18q5-3 10 0t10 0M-6 23q5-3 10 0t10 0M-6 28q5-3 10 0t10 0"/></svg>':'')+
+          (pct>=100?'<svg class="yst-pm" viewBox="0 0 46 46" aria-hidden="true"><circle cx="23" cy="23" r="17"/><circle cx="23" cy="23" r="12.5" class="i"/><path d="M-6 18q5-3 10 0t10 0M-6 23q5-3 10 0t10 0M-6 28q5-3 10 0t10 0"/><text x="23" y="26" text-anchor="middle">ALL</text></svg>':'')+
         '</button>'+(s.who?'<span class="yst-w">'+esc(s.who)+'</span>':'')+
         '<span class="yst-u">'+(m?'<span class="rt-5">'+stars+'</span>':'<button class="yst-rt" type="button" data-k="'+esc(s.k)+'" data-i="'+s.i+'">'+rtS('off')+'Rate it</button>')+
         '<span class="yst-d">'+esc(yasDay(s.t))+'</span></span></div>';

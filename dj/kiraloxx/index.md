@@ -1,14 +1,14 @@
 # Kira Loxx
 
-Kira Loxx is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - somewhere in the west end, Toronto on Sun, 27 Dec 2026.
+Kira Loxx is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Society Clubhouse, Toronto on Sun, 27 Dec 2026.
 
-Kira Loxx is a hardcore and gabber artist based in Canada, with 11 gigs on soundcheck across Toronto. Often billed alongside GRRLCRRSH, 666.pastel and Sappho.XD. Next up: TBA - somewhere in the west end, Toronto on Sun 27 Dec.
+Kira Loxx is a hardcore and gabber artist based in Canada, with 11 gigs on soundcheck across Toronto. Often billed alongside GRRLCRRSH, 666.pastel and Pauliexoxoxo. Next up: Society Clubhouse, Toronto on Sun 27 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 27 Dec 2026 | TBA - somewhere in the west end | Toronto |
+| Sun, 27 Dec 2026 | Society Clubhouse | Toronto |
 
 ## Recently played
 
@@ -23,6 +23,6 @@ Kira Loxx is a hardcore and gabber artist based in Canada, with 11 gigs on sound
 
 ## Shares bills with
 
-GRRLCRRSH, 666.pastel, Sappho.XD
+GRRLCRRSH, 666.pastel, Pauliexoxoxo
 
 *Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kiraloxx/)*

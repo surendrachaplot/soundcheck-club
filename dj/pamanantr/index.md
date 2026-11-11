@@ -1,8 +1,8 @@
 # Pam Anantr
 
-Pam Anantr is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at MIDNIGHT EAST, Tokyo on Fri, 13 Nov 2026.
+Pam Anantr is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at MIDNIGHT EAST, Tokyo on Fri, 13 Nov 2026.
 
-Pam Anantr is a house and disco artist based in Thailand, with 62 gigs on soundcheck across Bali, Bangkok, Melbourne and Osaka and 6 more. Often billed alongside Seelie, Brent Burns and DOTT. Next up: MIDNIGHT EAST, Tokyo on Fri 13 Nov.
+Pam Anantr is a house and disco artist based in Thailand, with 63 gigs on soundcheck across Bali, Bangkok, Bangladesh and Melbourne and 7 more. Often billed alongside Seelie, Brent Burns and DOTT. Next up: MIDNIGHT EAST, Tokyo on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Pam Anantr is a house and disco artist based in Thailand, with 62 gigs on soundc
 | Fri, 13 Nov 2026 | MIDNIGHT EAST | Tokyo |
 | Thu, 3 Dec 2026 | The Fields at Siam Country Club | Thailand |
 | Tue, 29 Dec 2026 | Little Moon Villa Koh Mak | Thailand |
+| Fri, 29 Jan 2027 | Mermaid Beach Resort | Bangladesh |
 
 ## Recently played
 

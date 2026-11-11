@@ -1,8 +1,8 @@
 # Jane Fitz
 
-Jane Fitz is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Spazio Varco, North on Sat, 14 Nov 2026.
+Jane Fitz is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Spazio Varco, North on Sat, 14 Nov 2026.
 
-Jane Fitz is a techno and house artist based in United Kingdom, with 199 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 46 more. Often billed alongside Marco Shuttle, Francesco Del Garda and Carl H. Next up: Spazio Varco, North on Sat 14 Nov.
+Jane Fitz is a techno and house artist based in United Kingdom, with 200 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 46 more. Often billed alongside Marco Shuttle, Francesco Del Garda and Carl H. Next up: Spazio Varco, North on Sat 14 Nov.
 
 ## Upcoming shows
 

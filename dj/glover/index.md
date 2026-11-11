@@ -2,7 +2,7 @@
 
 Glover is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 1 Jan 2027.
 
-Glover is a house and disco artist, with 6 gigs on soundcheck across Manchester, Naples, San Francisco/Oakland and Sydney. Often billed alongside Anthony Mansfield, BEYA and Bag Raiders. Next up: The Great Northern, San Francisco/Oakland on Fri 1 Jan.
+Glover is a house and disco artist based in United Kingdom, with 6 gigs on soundcheck across Manchester, Naples, San Francisco/Oakland and Sydney. Often billed alongside Anthony Mansfield, BEYA and Bag Raiders. Next up: The Great Northern, San Francisco/Oakland on Fri 1 Jan.
 
 ## Upcoming shows
 

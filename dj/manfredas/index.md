@@ -1,8 +1,8 @@
 # Manfredas
 
-Manfredas is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Ministerium Club, Lisbon on Fri, 13 Nov 2026.
+Manfredas is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Ministerium Club, Lisbon on Fri, 13 Nov 2026.
 
-Manfredas is a house and techno artist based in Lithuania, with 132 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belgrade and 39 more. Often billed alongside Ivan Smagghe, Dresden and Aiste Regina. Next up: Ministerium Club, Lisbon on Fri 13 Nov.
+Manfredas is a house and techno artist based in Lithuania, with 133 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belgrade and 39 more. Often billed alongside Ivan Smagghe, Dresden and Aiste Regina. Next up: Ministerium Club, Lisbon on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Manfredas is a house and techno artist based in Lithuania, with 132 gigs on soun
 | Fri, 27 Nov 2026 | FOLD | London |
 | Sun, 13 Dec 2026 | Eastway Baths | London |
 | Fri, 28 May 2027 | Paraje Natural de la Ermita de los Tres Juanes | South |
+| Fri, 4 Jun 2027 | Umoya | Naples |
 | Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
 
 ## Recently played

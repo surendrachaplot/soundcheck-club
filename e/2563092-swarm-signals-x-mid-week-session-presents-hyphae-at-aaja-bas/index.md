@@ -1,6 +1,6 @@
 # sWARM signals x MID WEEK SESSION presents HYPHAE at Aaja Basement
 
-sWARM signals x MID WEEK SESSION presents HYPHAE at Aaja Basement on Fri 11 Dec, London. 11 artists: AMAR (UK), Aurelia, DELARA and GOIA AMO and 7 more. Techno and Electro. See the line-up on soundcheck.
+sWARM signals x MID WEEK SESSION presents HYPHAE at Aaja Basement on Fri 11 Dec, London. 10 artists: AMAR (UK), DELARA, GOIA AMO and Jordan K Joseph and 6 more. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,6 @@ sWARM signals x MID WEEK SESSION presents HYPHAE at Aaja Basement on Fri 11 Dec,
 ## Line-up
 
 - AMAR (UK)
-- Aurelia
 - DELARA
 - GOIA AMO
 - Jordan K Joseph
@@ -20,6 +19,6 @@ sWARM signals x MID WEEK SESSION presents HYPHAE at Aaja Basement on Fri 11 Dec,
 - metrologic
 - Modlar
 - PAVEL__
-- Yazmin
+- Yazmin (UK)
 
 *Source: [soundcheck](https://soundcheck.club/e/2563092-swarm-signals-x-mid-week-session-presents-hyphae-at-aaja-bas/)*

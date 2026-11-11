@@ -1,8 +1,8 @@
 # Loidis
 
-Loidis is a Techno and Dub Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Palais, London on Fri, 13 Nov 2026.
+Loidis is a Techno and Dub Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Palais, London on Fri, 13 Nov 2026.
 
-Loidis is a techno and dub techno artist based in United States of America, with 70 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 32 more. Often billed alongside Huerco S., Skee Mask and DJ Python. Next up: Palais, London on Fri 13 Nov.
+Loidis is a techno and dub techno artist based in United States of America, with 71 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 32 more. Often billed alongside Huerco S., Skee Mask and DJ Python. Next up: Palais, London on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Loidis is a techno and dub techno artist based in United States of America, with
 | Fri, 13 Nov 2026 | CLUB RAUM | Amsterdam |
 | Thu, 19 Nov 2026 | Nowadays | New York City |
 | Fri, 27 Nov 2026 | Bastet | Philadelphia |
+| Sat, 28 Aug 2027 | Southwark Park | London |
 
 ## Recently played
 

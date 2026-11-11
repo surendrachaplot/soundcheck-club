@@ -1,8 +1,8 @@
 # Gaspray
 
-Gaspray is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Dual, Bangkok on Fri, 20 Nov 2026.
+Gaspray is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Dual, Bangkok on Fri, 20 Nov 2026.
 
-Gaspray is a techno and house artist based in Belgium, with 62 gigs on soundcheck across Bangkok, Hanoi and Singapore. Often billed alongside E Nick, Tristan Kino and DJ TADA. Next up: Dual, Bangkok on Fri 20 Nov.
+Gaspray is a techno and house artist based in Belgium, with 63 gigs on soundcheck across Bangkok, Bangladesh, Hanoi and Singapore. Often billed alongside E Nick, Tristan Kino and DJ TADA. Next up: Dual, Bangkok on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Gaspray is a techno and house artist based in Belgium, with 62 gigs on soundchec
 | Fri, 20 Nov 2026 | Dual | Bangkok |
 | Sat, 12 Dec 2026 | Clutch, Warehouse Bangkok | Bangkok |
 | Wed, 30 Dec 2026 | Elsewhere | Bangkok |
+| Fri, 29 Jan 2027 | Mermaid Beach Resort | Bangladesh |
 
 ## Recently played
 
