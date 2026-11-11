@@ -1,6 +1,6 @@
 # Laura van Hal
 
-Laura van Hal is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Tresor / Globus, Berlin on Sat, 5 Dec 2026.
+Laura van Hal is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Tresor / Globus, Berlin on Sat, 5 Dec 2026.
 
 Laura van Hal is a techno and house artist based in Netherlands, with 70 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 16 more. Often billed alongside Lea Occhi, Offtrack and Lobster (NL). Next up: Tresor / Globus, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Laura van Hal is a techno and house artist based in Netherlands, with 70 gigs on
 
 Lea Occhi, Offtrack, Lobster (NL)
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lauravanhal/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lauravanhal/)*

@@ -1,6 +1,6 @@
 # Remon Verhoeve
 
-Remon Verhoeve is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Chinastraat, Ghent on Sat, 21 Nov 2026.
+Remon Verhoeve is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Chinastraat, Ghent on Sat, 21 Nov 2026.
 
 Remon Verhoeve is a techno and industrial artist based in Netherlands, with 19 gigs on soundcheck across Aberdeen, Amsterdam, Ghent and Glasgow and 4 more. Often billed alongside Aphøtic, KARAH and CARV. Next up: Chinastraat, Ghent on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Remon Verhoeve is a techno and industrial artist based in Netherlands, with 19 g
 
 Aphøtic, KARAH, CARV
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/remonverhoeve/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/remonverhoeve/)*

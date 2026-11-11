@@ -1,8 +1,8 @@
 # JEKKAMAÏ
 
-JEKKAMAÏ is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Fuse, Brussels on Fri, 13 Nov 2026.
+JEKKAMAÏ is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Fuse, Brussels on Fri, 13 Nov 2026.
 
-JEKKAMAÏ is a techno and trance artist based in Belgium, with 40 gigs on soundcheck across Antwerp, Brussels, Ghent and Paris. Often billed alongside Hysope, ATARAXY and Oxtazz. Next up: Fuse, Brussels on Fri 13 Nov.
+JEKKAMAÏ is a techno and trance artist based in Belgium, with 41 gigs on soundcheck across Antwerp, Brussels, Ghent and Paris. Often billed alongside Hysope, ATARAXY and Oxtazz. Next up: Fuse, Brussels on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ JEKKAMAÏ is a techno and trance artist based in Belgium, with 40 gigs on soundc
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Fuse | Brussels |
 | Sat, 28 Nov 2026 | La Station - Gare des Mines | Paris |
+| Sat, 5 Dec 2026 | C12 | Brussels |
 | Fri, 1 Jan 2027 | C12 | Brussels |
 
 ## Recently played
@@ -27,4 +28,4 @@ JEKKAMAÏ is a techno and trance artist based in Belgium, with 40 gigs on soundc
 
 Hysope, ATARAXY, Oxtazz
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jekkamai/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jekkamai/)*

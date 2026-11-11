@@ -1,13 +1,14 @@
 # Nether Club
 
-Nether Club is a music venue in Bucharest with 8 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "M.I.L.K. feat. DORNATECHNO" on Fri, 20 Nov 2026.
+Nether Club is a music venue in Bucharest with 9 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "AFTERPARTY w/TONI (Craiova)" on Sun, 15 Nov 2026.
 
-Nether Club is a music venue in Bucharest listed on soundcheck. 8 upcoming gigs, with line-ups including AMEDEUS, Amnesico, Dalek and DA NA and 2 more. See dates, start times and who's playing. Calea Victoriei nr 48 50, București, Romania.
+Nether Club is a music venue in Bucharest listed on soundcheck. 9 upcoming gigs, with line-ups including AMEDEUS, Amnesico, Dalek and DA NA and 2 more. See dates, start times and who's playing. Calea Victoriei nr 48 50, București, Romania.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Sun, 15 Nov 2026 | AFTERPARTY w/TONI (Craiova) |  |
 | Fri, 20 Nov 2026 | M.I.L.K. feat. DORNATECHNO | AMEDEUS, Amnesico, KATHERYNE, MU/SA, Sandraz, Stefan Hernandez |
 | Sat, 21 Nov 2026 | TRANCEFORMATION w/ Marylien X, Soma, White Cough, Aiur | Marylien X |
 | Sat, 28 Nov 2026 | Rage Rave 1 Year Anniversary | Iosiph Kruz, Neotroxian, Project Morpheus, SUKA |
@@ -21,4 +22,4 @@ Nether Club is a music venue in Bucharest listed on soundcheck. 8 upcoming gigs,
 
 Calea Victoriei nr 48 50, București, Romania, Bucharest
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/nether-club/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/nether-club/)*

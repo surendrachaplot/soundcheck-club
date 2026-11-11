@@ -1,6 +1,6 @@
 # LEiCA
 
-LEiCA is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Teranoma Tidepool, Osaka on Sat, 28 Nov 2026.
+LEiCA is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Teranoma Tidepool, Osaka on Sat, 28 Nov 2026.
 
 LEiCA is a house and bass artist based in Japan, with 41 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside DJ GEKI, Curumayoi and AFAMoo. Next up: Teranoma Tidepool, Osaka on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ LEiCA is a house and bass artist based in Japan, with 41 gigs on soundcheck acro
 
 DJ GEKI, Curumayoi, AFAMoo
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leica/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leica/)*

@@ -1,6 +1,6 @@
 # Parra for Cuva
 
-Parra for Cuva is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Foothills of Nandi, Karahalli, Bangalore on Sat, 5 Dec 2026.
+Parra for Cuva is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Foothills of Nandi, Karahalli, Bangalore on Sat, 5 Dec 2026.
 
 Parra for Cuva is a house and deep house artist based in Germany, with 79 gigs on soundcheck across Amsterdam, Athens, Bangalore and Barcelona and 36 more. Often billed alongside Christian Löffler, Natascha Polké and Deer Jade. Next up: TBA - Foothills of Nandi, Karahalli, Bangalore on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Parra for Cuva is a house and deep house artist based in Germany, with 79 gigs o
 
 Christian Löffler, Natascha Polké, Deer Jade
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/parraforcuva/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/parraforcuva/)*

@@ -1,6 +1,6 @@
 # Broosk
 
-Broosk is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Duel Club, Naples on Sat, 14 Nov 2026.
+Broosk is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Duel Club, Naples on Sat, 14 Nov 2026.
 
 Broosk is a tech house and house artist based in Italy, with 23 gigs on soundcheck across Barcelona, Naples and Portland. Often billed alongside Alex Bohemien, Bruno Mazzei and Cristian Volpe. Next up: Duel Club, Naples on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Broosk is a tech house and house artist based in Italy, with 23 gigs on soundche
 
 Alex Bohemien, Bruno Mazzei, Cristian Volpe
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/broosk/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/broosk/)*

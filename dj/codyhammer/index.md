@@ -1,6 +1,6 @@
 # Cody Hammer
 
-Cody Hammer is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Moondog Cafe, Detroit on Fri, 4 Dec 2026.
+Cody Hammer is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Moondog Cafe, Detroit on Fri, 4 Dec 2026.
 
 Cody Hammer is a techno and house artist based in United States of America, with 49 gigs on soundcheck across Detroit and New York City. Often billed alongside Brent Shay, Floor Supervisor and Terrence Dixon. Next up: Moondog Cafe, Detroit on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Cody Hammer is a techno and house artist based in United States of America, with
 
 Brent Shay, Floor Supervisor, Terrence Dixon
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/codyhammer/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/codyhammer/)*

@@ -1,6 +1,6 @@
 # Stellarcompanion
 
-Stellarcompanion is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Lift Beograd, Belgrade on Sat, 28 Nov 2026.
+Stellarcompanion is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Lift Beograd, Belgrade on Sat, 28 Nov 2026.
 
 Stellarcompanion is a techno and house artist based in Serbia, with 30 gigs on soundcheck across Belgrade, Berlin, New York City and Zagreb and 1 more. Often billed alongside Ali Guney, mdngt and Feloneezy. Next up: Lift Beograd, Belgrade on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Stellarcompanion is a techno and house artist based in Serbia, with 30 gigs on s
 
 Ali Guney, mdngt, Feloneezy
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stellarcompanion/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stellarcompanion/)*

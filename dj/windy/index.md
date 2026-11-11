@@ -1,6 +1,6 @@
 # Windy
 
-Windy is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Cafe-Gallery, Tbilisi on Sat, 21 Nov 2026.
+Windy is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Cafe-Gallery, Tbilisi on Sat, 21 Nov 2026.
 
 Windy is a house and trance artist based in Georgia, with 6 gigs on soundcheck across Berlin, Seoul and Tbilisi. Often billed alongside Aku, Kanko and SADUN. Next up: Cafe-Gallery, Tbilisi on Sat 21 Nov.
 
@@ -22,4 +22,4 @@ Windy is a house and trance artist based in Georgia, with 6 gigs on soundcheck a
 
 Aku, Kanko, SADUN
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/windy/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/windy/)*

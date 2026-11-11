@@ -1,6 +1,6 @@
 # mirepoix
 
-mirepoix is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Obedient Missionary, Detroit on Fri, 13 Nov 2026.
+mirepoix is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Obedient Missionary, Detroit on Fri, 13 Nov 2026.
 
 mirepoix is a house and techno artist based in United States of America, with 20 gigs on soundcheck across Detroit. Often billed alongside LATEX GIRL, Loren and AIDEL. Next up: TBA - Obedient Missionary, Detroit on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ mirepoix is a house and techno artist based in United States of America, with 20
 
 LATEX GIRL, Loren, AIDEL
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mirepoix/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mirepoix/)*

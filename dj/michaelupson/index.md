@@ -1,6 +1,6 @@
 # Michael Upson
 
-Michael Upson is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Voyager Records, Leeds on Thu, 12 Nov 2026.
+Michael Upson is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Voyager Records, Leeds on Thu, 12 Nov 2026.
 
 Michael Upson is a house and disco artist based in United Kingdom, with 43 gigs on soundcheck across Brighton, Bristol, Leeds and London and 3 more. Often billed alongside DJ Subaru, Lucy Locket and Kessie. Next up: Voyager Records, Leeds on Thu 12 Nov.
 
@@ -26,4 +26,4 @@ Michael Upson is a house and disco artist based in United Kingdom, with 43 gigs 
 
 DJ Subaru, Lucy Locket, Kessie
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelupson/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelupson/)*

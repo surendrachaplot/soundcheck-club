@@ -1,6 +1,6 @@
 # stndrd
 
-stndrd is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Village Underground Barcelona, Barcelona on Sat, 5 Dec 2026.
+stndrd is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Village Underground Barcelona, Barcelona on Sat, 5 Dec 2026.
 
 stndrd is a techno and acid artist based in Portugal, with 24 gigs on soundcheck across Barcelona, Porto and Tbilisi. Often billed alongside Cyklos, ABSIS and Alderaan. Next up: Village Underground Barcelona, Barcelona on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ stndrd is a techno and acid artist based in Portugal, with 24 gigs on soundcheck
 
 Cyklos, ABSIS, Alderaan
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stndrd/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stndrd/)*

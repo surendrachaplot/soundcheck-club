@@ -1,6 +1,6 @@
 # M2iller
 
-M2iller is a Broken Beat and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at 23 Music Room, Taipei on Sat, 14 Nov 2026.
+M2iller is a Broken Beat and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at 23 Music Room, Taipei on Sat, 14 Nov 2026.
 
 M2iller is a broken beat and breakbeat artist based in Taiwan, with 6 gigs on soundcheck across Taipei. Often billed alongside DJ KOOK, ALLDAY247 and BlckTeeth. Next up: 23 Music Room, Taipei on Sat 14 Nov.
 
@@ -22,4 +22,4 @@ M2iller is a broken beat and breakbeat artist based in Taiwan, with 6 gigs on so
 
 DJ KOOK, ALLDAY247, BlckTeeth
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/m2iller/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/m2iller/)*

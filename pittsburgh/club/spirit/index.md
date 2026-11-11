@@ -1,13 +1,15 @@
 # Spirit
 
-Spirit is a music venue in Pittsburgh with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. The next is "Siesta Fiesta" on Sat, 14 Nov 2026.
+Spirit is a music venue in Pittsburgh with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Daddy's House" on Fri, 13 Nov 2026.
 
-Spirit is a music venue in Pittsburgh listed on soundcheck. 1 upcoming gig, with line-ups including ms.TIZA. See dates, start times and who's playing.
+Spirit is a music venue in Pittsburgh listed on soundcheck. 3 upcoming gigs, with line-ups including Jarrett Tebbets, ms.TIZA, pvkvsv and Ron Mist. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | Daddy's House | Jarrett Tebbets |
 | Sat, 14 Nov 2026 | Siesta Fiesta | ms.TIZA |
+| Sat, 21 Nov 2026 | Swiss Mist: Ron Mist's Final Bash | Ron Mist, pvkvsv |
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/pittsburgh/club/spirit/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/pittsburgh/club/spirit/)*

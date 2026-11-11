@@ -1,6 +1,6 @@
 # Florian Pas
 
-Florian Pas is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Pücklerstraße 34, 10997 Berlin, Berlin on Sun, 13 Dec 2026.
+Florian Pas is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Pücklerstraße 34, 10997 Berlin, Berlin on Sun, 13 Dec 2026.
 
 Florian Pas is a house and techno artist based in Germany, with 17 gigs on soundcheck across Berlin and Glasgow. Often billed alongside M A R, CC:NIELOS and Johænsson. Next up: TBA - Pücklerstraße 34, 10997 Berlin, Berlin on Sun 13 Dec.
 
@@ -26,4 +26,4 @@ Florian Pas is a house and techno artist based in Germany, with 17 gigs on sound
 
 M A R, CC:NIELOS, Johænsson
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/florianpas/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/florianpas/)*

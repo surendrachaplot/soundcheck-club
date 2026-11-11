@@ -1,6 +1,6 @@
 # Bimini
 
-Bimini is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Coven HQ, London on Fri, 13 Nov 2026.
+Bimini is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Coven HQ, London on Fri, 13 Nov 2026.
 
 Bimini is a techno and house artist based in United Kingdom, with 52 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brisbane and 18 more. Often billed alongside ABSOLUTE., Hannah Holland and Horse Meat Disco. Next up: Coven HQ, London on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Bimini is a techno and house artist based in United Kingdom, with 52 gigs on sou
 
 ABSOLUTE., Hannah Holland, Horse Meat Disco
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bimini/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bimini/)*

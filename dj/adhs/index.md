@@ -1,13 +1,14 @@
 # A.D.H.S.
 
-A.D.H.S. is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Parktheater Kempten, Bavaria on Fri, 4 Dec 2026.
+A.D.H.S. is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Secret Pearl Bar, Sri-lanka on Sat, 14 Nov 2026.
 
-A.D.H.S. is a techno and electro artist based in Germany, with 74 gigs on soundcheck across Amsterdam, Baden W Rttemberg, Barcelona and Bavaria and 17 more. Often billed alongside Maurice Mino, Thomas Schumacher and Sin:port. Next up: Parktheater Kempten, Bavaria on Fri 4 Dec.
+A.D.H.S. is a techno and electro artist based in Germany, with 75 gigs on soundcheck across Amsterdam, Baden W Rttemberg, Barcelona and Bavaria and 18 more. Often billed alongside Maurice Mino, Thomas Schumacher and Sin:port. Next up: The Secret Pearl Bar, Sri Lanka on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | The Secret Pearl Bar | Sri-lanka |
 | Fri, 4 Dec 2026 | Parktheater Kempten | Bavaria |
 
 ## Recently played
@@ -25,4 +26,4 @@ A.D.H.S. is a techno and electro artist based in Germany, with 74 gigs on soundc
 
 Maurice Mino, Thomas Schumacher, Sin:port
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adhs/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adhs/)*

@@ -1,6 +1,6 @@
 # Razzmatazz
 
-Razzmatazz is a music venue in Barcelona with 12 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "SPORTS" on Fri, 13 Nov 2026.
+Razzmatazz is a music venue in Barcelona with 12 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "SPORTS" on Fri, 13 Nov 2026.
 
 Razzmatazz is a music venue in Barcelona listed on soundcheck. 12 upcoming gigs, with line-ups including adobeprincess, Alex Wilcox, Alvva and Andrae Durden and 2 more. See dates, start times and who's playing. C Almogavers 122 - C Pamplona 88; Barcelona; Spain.
 
@@ -23,4 +23,4 @@ Razzmatazz is a music venue in Barcelona listed on soundcheck. 12 upcoming gigs,
 
 C Almogavers 122 - C Pamplona 88; Barcelona; Spain, Barcelona
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*

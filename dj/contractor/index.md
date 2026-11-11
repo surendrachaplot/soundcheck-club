@@ -1,6 +1,6 @@
 # Contractor
 
-Contractor is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA, New York City on Sat, 21 Nov 2026.
+Contractor is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA, New York City on Sat, 21 Nov 2026.
 
 Contractor is a techno and club artist based in United States of America, with 23 gigs on soundcheck across Berlin, Chicago, Los Angeles and New York City and 1 more. Often billed alongside DJ Healthy, Mole (US) and Bloxam. Next up: TBA, New York City on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Contractor is a techno and club artist based in United States of America, with 2
 
 DJ Healthy, Mole (US), Bloxam
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/contractor/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/contractor/)*

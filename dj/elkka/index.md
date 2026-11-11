@@ -1,6 +1,6 @@
 # Elkka
 
-Elkka is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Three Pools, West-wales on Fri, 30 Apr 2027.
+Elkka is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Three Pools, West-wales on Fri, 30 Apr 2027.
 
 Elkka is a house and techno artist based in United Kingdom, with 104 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 35 more. Often billed alongside Dan Shake, TSHA and Bonobo. Next up: Three Pools, West Wales on Fri 30 Apr.
 
@@ -25,4 +25,4 @@ Elkka is a house and techno artist based in United Kingdom, with 104 gigs on sou
 
 Dan Shake, TSHA, Bonobo
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elkka/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elkka/)*

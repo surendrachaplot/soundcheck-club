@@ -1,8 +1,8 @@
 # Sonnee
 
-Sonnee is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Cu, London on Fri, 13 Nov 2026.
+Sonnee is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Cu, London on Fri, 13 Nov 2026.
 
-Sonnee is a techno and house artist based in United Kingdom, with 20 gigs on soundcheck across London and Manchester. Often billed alongside Jumbled, krioso and Keanler. Next up: Cu, London on Fri 13 Nov.
+Sonnee is a techno and house artist based in United Kingdom, with 20 gigs on soundcheck across London and Manchester. Often billed alongside Jumbled, gr00vy.cat and krioso. Next up: Cu, London on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Sonnee is a techno and house artist based in United Kingdom, with 20 gigs on sou
 
 ## Shares bills with
 
-Jumbled, krioso, Keanler
+Jumbled, gr00vy.cat, krioso
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sonnee/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sonnee/)*

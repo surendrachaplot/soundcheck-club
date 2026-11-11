@@ -1,6 +1,6 @@
 # Izaac Moses
 
-Izaac Moses is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at 24 Kitchen Street, Liverpool on Fri, 4 Dec 2026.
+Izaac Moses is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at 24 Kitchen Street, Liverpool on Fri, 4 Dec 2026.
 
 Izaac Moses is a house and disco artist based in United Kingdom, with 6 gigs on soundcheck across Liverpool and London. Often billed alongside Beechy, BRUIN (UK) and Dan Cluskey. Next up: 24 Kitchen Street, Liverpool on Fri 4 Dec.
 
@@ -22,4 +22,4 @@ Izaac Moses is a house and disco artist based in United Kingdom, with 6 gigs on 
 
 Beechy, BRUIN (UK), Dan Cluskey
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/izaacmoses/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/izaacmoses/)*

@@ -1,6 +1,6 @@
 # milène
 
-milène is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Solace, Melbourne on Thu, 3 Dec 2026.
+milène is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Solace, Melbourne on Thu, 3 Dec 2026.
 
 milène is a house and trance artist based in Germany, with 6 gigs on soundcheck across Berlin, Frankfurt, Hamburg and Kassel and 1 more. Often billed alongside Filou (DE), ADMINISTRATOR and Anna Ullrich. Next up: Solace, Melbourne on Thu 3 Dec.
 
@@ -22,4 +22,4 @@ milène is a house and trance artist based in Germany, with 6 gigs on soundcheck
 
 Filou (DE), ADMINISTRATOR, Anna Ullrich
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milene/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milene/)*

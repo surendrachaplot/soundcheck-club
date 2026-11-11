@@ -1,14 +1,13 @@
 # Super7
 
-Super7 is a music venue in Lyon with 9 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "LOTTA • MAKA" on Tue, 10 Nov 2026.
+Super7 is a music venue in Lyon with 8 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "EQUINOXE • NAV" on Thu, 12 Nov 2026.
 
-Super7 is a music venue in Lyon listed on soundcheck. 9 upcoming gigs, with line-ups including Jonnnah and Nav. See dates, start times and who's playing. 40 rue Saint-Jérôme 69007 Lyon.
+Super7 is a music venue in Lyon listed on soundcheck. 8 upcoming gigs, with line-ups including Jonnnah and Nav. See dates, start times and who's playing. 40 rue Saint-Jérôme 69007 Lyon.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 10 Nov 2026 | LOTTA • MAKA |  |
 | Thu, 12 Nov 2026 | EQUINOXE • NAV | Nav (1) |
 | Fri, 13 Nov 2026 | CARLOST • Jonnnah | Jonnnah |
 | Sat, 14 Nov 2026 | JUSTINE FOREVER • LOULZ |  |
@@ -22,4 +21,4 @@ Super7 is a music venue in Lyon listed on soundcheck. 9 upcoming gigs, with line
 
 40 rue Saint-Jérôme 69007 Lyon, Lyon
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/super7/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/super7/)*

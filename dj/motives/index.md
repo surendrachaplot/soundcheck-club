@@ -1,6 +1,6 @@
 # Motives
 
-Motives is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Echostage, Washington DC on Fri, 8 Jan 2027.
+Motives is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Echostage, Washington DC on Fri, 8 Jan 2027.
 
 Motives is a house and deep house artist based in United States of America, with 13 gigs on soundcheck across New York City and Washington DC. Often billed alongside Carlson, Keenan and 2theT. Next up: Echostage, Washington DC on Fri 8 Jan.
 
@@ -25,4 +25,4 @@ Motives is a house and deep house artist based in United States of America, with
 
 Carlson (1), Keenan, 2theT
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/motives/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/motives/)*

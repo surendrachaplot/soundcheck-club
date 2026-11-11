@@ -1,6 +1,6 @@
 # 110.Club
 
-110.Club is a music venue in Lyon with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "TPBG.WET_2" on Thu, 12 Nov 2026.
+110.Club is a music venue in Lyon with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "TPBG.WET_2" on Thu, 12 Nov 2026.
 
 110.Club is a music venue in Lyon listed on soundcheck. 5 upcoming gigs. See dates, start times and who's playing.
 
@@ -14,4 +14,4 @@
 | Fri, 20 Nov 2026 | Wild Aspect |  |
 | Sat, 28 Nov 2026 | TECH HOUSE TO TECHNO |  |
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/110-club/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/110-club/)*

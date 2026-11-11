@@ -1,6 +1,6 @@
 # DREAMDANCE
 
-DREAMDANCE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Backstage Sofia, Sofia on Fri, 20 Nov 2026.
+DREAMDANCE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Backstage Sofia, Sofia on Fri, 20 Nov 2026.
 
 DREAMDANCE is a techno and house artist based in Bulgaria, with 19 gigs on soundcheck across Sofia. Often billed alongside OLEG, Cinnamint and Ness. Next up: Backstage Sofia, Sofia on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ DREAMDANCE is a techno and house artist based in Bulgaria, with 19 gigs on sound
 
 OLEG, Cinnamint, Ness
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dreamdance/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dreamdance/)*

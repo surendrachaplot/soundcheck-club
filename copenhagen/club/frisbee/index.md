@@ -1,6 +1,6 @@
 # Frisbee
 
-Frisbee is a music venue in Copenhagen with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Dazed Sunday with Agnete (15 Love)" on Sun, 15 Nov 2026.
+Frisbee is a music venue in Copenhagen with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Dazed Sunday with Agnete (15 Love)" on Sun, 15 Nov 2026.
 
 Frisbee is a music venue in Copenhagen listed on soundcheck. 4 upcoming gigs. See dates, start times and who's playing. Tagensvej 41, 2200 Copenhagen N.
 
@@ -17,4 +17,4 @@ Frisbee is a music venue in Copenhagen listed on soundcheck. 4 upcoming gigs. Se
 
 Tagensvej 41, 2200 Copenhagen N, Copenhagen
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/frisbee/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/frisbee/)*

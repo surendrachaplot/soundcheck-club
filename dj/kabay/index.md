@@ -1,6 +1,6 @@
 # Kabay
 
-Kabay is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at WDM, Hannover on Fri, 4 Dec 2026.
+Kabay is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at WDM, Hannover on Fri, 4 Dec 2026.
 
 Kabay is a techno and house artist based in Poland, with 32 gigs on soundcheck across Amsterdam, Berlin, Budapest and Glasgow and 9 more. Often billed alongside LAZLO, Mold Boutique and Arkane. Next up: WDM, Hannover on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Kabay is a techno and house artist based in Poland, with 32 gigs on soundcheck a
 
 LAZLO, Mold Boutique, Arkane
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kabay/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kabay/)*

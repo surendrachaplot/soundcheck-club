@@ -1,6 +1,6 @@
 # CA LOU
 
-CA LOU is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Spice Cellar, Sydney on Sat, 14 Nov 2026.
+CA LOU is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Spice Cellar, Sydney on Sat, 14 Nov 2026.
 
 CA LOU is a house and deep house artist based in Australia, with 43 gigs on soundcheck across Amsterdam, Brisbane, Melbourne and Sydney. Often billed alongside Oscar de Lima, Joey Coco and Said Dami. Next up: Spice Cellar, Sydney on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ CA LOU is a house and deep house artist based in Australia, with 43 gigs on soun
 
 Oscar de Lima, Joey Coco, Said Dami
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/calou-au/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/calou-au/)*

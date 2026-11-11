@@ -1,6 +1,6 @@
 # Mothership
 
-Mothership is a music venue in San Francisco/Oakland with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Brown Angel, chungtech, & onemohit" on Fri, 13 Nov 2026.
+Mothership is a music venue in San Francisco/Oakland with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Brown Angel, chungtech, & onemohit" on Fri, 13 Nov 2026.
 
 Mothership is a music venue in San Francisco/Oakland listed on soundcheck. 3 upcoming gigs, with line-ups including Brown Amy, chungtech, Justyn Myers and onemohit and 1 more. See dates, start times and who's playing. 3152 Mission Street San Francisco, CA 94110.
 
@@ -16,4 +16,4 @@ Mothership is a music venue in San Francisco/Oakland listed on soundcheck. 3 upc
 
 3152 Mission Street San Francisco, CA 94110, San Francisco/Oakland
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/mothership/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/mothership/)*

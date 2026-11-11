@@ -1,6 +1,6 @@
 # Joe Rizk
 
-Joe Rizk is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at BCA Cyclorama, Boston on Fri, 13 Nov 2026.
+Joe Rizk is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at BCA Cyclorama, Boston on Fri, 13 Nov 2026.
 
 Joe Rizk is a house and techno artist based in United States of America, with 11 gigs on soundcheck across Boston. Often billed alongside Chaouki Alba, Rasaaq and Katya C. Next up: BCA Cyclorama, Boston on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Joe Rizk is a house and techno artist based in United States of America, with 11
 
 Chaouki Alba, Rasaaq, Katya C
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joerizk/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joerizk/)*

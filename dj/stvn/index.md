@@ -1,6 +1,6 @@
 # STVN
 
-STVN is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Il Mercato Centrale, Melbourne on Sat, 21 Nov 2026.
+STVN is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Il Mercato Centrale, Melbourne on Sat, 21 Nov 2026.
 
 STVN is a techno and tech house artist based in Netherlands, with 6 gigs on soundcheck across Amsterdam and Melbourne. Often billed alongside SASHE, STVN and BVNNII. Next up: TBA - Il Mercato Centrale, Melbourne on Sat 21 Nov.
 
@@ -22,4 +22,4 @@ STVN is a techno and tech house artist based in Netherlands, with 6 gigs on soun
 
 SASHE (2), STVN (2), BVNNII
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stvn/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stvn/)*

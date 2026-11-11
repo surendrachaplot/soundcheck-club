@@ -1,6 +1,6 @@
 # Mouloud
 
-Mouloud is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at la Maison de la Conversation, Paris on Fri, 13 Nov 2026.
+Mouloud is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at la Maison de la Conversation, Paris on Fri, 13 Nov 2026.
 
 Mouloud is a bass and techno artist based in France, with 6 gigs on soundcheck across Lisbon, London, Lyon and Paris. Often billed alongside Ill Spleen, A Strange Wedding and Hysteria temple Foundation. Next up: la Maison de la Conversation, Paris on Fri 13 Nov.
 
@@ -22,4 +22,4 @@ Mouloud is a bass and techno artist based in France, with 6 gigs on soundcheck a
 
 Ill Spleen, A Strange Wedding, Hysteria temple Foundation
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mouloud/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mouloud/)*

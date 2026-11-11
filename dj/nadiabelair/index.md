@@ -1,6 +1,6 @@
 # Nadia Bel Air
 
-Nadia Bel Air is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at ÆDEN, Berlin on Fri, 27 Nov 2026.
+Nadia Bel Air is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at ÆDEN, Berlin on Fri, 27 Nov 2026.
 
 Nadia Bel Air is a techno and trance artist based in France, with 19 gigs on soundcheck across Berlin. Often billed alongside E.T., Ace9 and Mindframe. Next up: ÆDEN, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Nadia Bel Air is a techno and trance artist based in France, with 19 gigs on sou
 
 E.T., Ace9, Mindframe
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nadiabelair/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nadiabelair/)*

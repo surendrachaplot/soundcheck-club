@@ -1,6 +1,6 @@
 # Tommy Four Seven
 
-Tommy Four Seven is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Razzmatazz, Barcelona on Sat, 14 Nov 2026.
+Tommy Four Seven is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Razzmatazz, Barcelona on Sat, 14 Nov 2026.
 
 Tommy Four Seven is a techno and industrial artist based in United Kingdom, with 170 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 66 more. Often billed alongside Tauceti (FR), Adriana Lopez and CESAR ALMENA. Next up: Razzmatazz, Barcelona on Sat 14 Nov.
 
@@ -28,4 +28,4 @@ Tommy Four Seven is a techno and industrial artist based in United Kingdom, with
 
 Tauceti (FR), Adriana Lopez, CESAR ALMENA
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyfourseven/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyfourseven/)*

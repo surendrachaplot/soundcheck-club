@@ -1,6 +1,6 @@
 # FJAAK
 
-FJAAK is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TRANSMISSION DC, Washington DC on Thu, 12 Nov 2026.
+FJAAK is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TRANSMISSION DC, Washington DC on Thu, 12 Nov 2026.
 
 FJAAK is a techno and house artist based in Germany, with 301 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Athens and 90 more. Often billed alongside Elli Acula, Anna Z. and Ben Klock. Next up: TRANSMISSION DC, Washington DC on Thu 12 Nov.
 
@@ -36,4 +36,4 @@ FJAAK is a techno and house artist based in Germany, with 301 gigs on soundcheck
 
 Elli Acula, Anna Z., Ben Klock
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fjaak/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fjaak/)*

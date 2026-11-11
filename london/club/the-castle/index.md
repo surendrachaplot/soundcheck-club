@@ -1,6 +1,6 @@
 # The Castle
 
-The Castle is a music venue in London with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "FACESHOPPING: A TRANS FUNDRAVER" on Fri, 27 Nov 2026.
+The Castle is a music venue in London with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "FACESHOPPING: A TRANS FUNDRAVER" on Fri, 27 Nov 2026.
 
 The Castle is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Spacelike. See dates, start times and who's playing. 44 Commercial Road; Whitechapel; London E1 1LN; United Kingdom.
 
@@ -15,4 +15,4 @@ The Castle is a music venue in London listed on soundcheck. 2 upcoming gigs, wit
 
 44 Commercial Road; Whitechapel; London E1 1LN; United Kingdom, London
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-castle/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-castle/)*

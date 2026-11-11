@@ -1,6 +1,6 @@
 # Opalia
 
-Opalia is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Kømplex Lisbon, Lisbon on Sat, 14 Nov 2026.
+Opalia is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Kømplex Lisbon, Lisbon on Sat, 14 Nov 2026.
 
 Opalia is a house and techno artist based in United Kingdom, with 37 gigs on soundcheck across Lisbon, London and Porto. Often billed alongside Dub Tiger, Guy from 1990 and AZM. Next up: Kømplex Lisbon, Lisbon on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Opalia is a house and techno artist based in United Kingdom, with 37 gigs on sou
 
 Dub Tiger, Guy from 1990, AZM (1)
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/opalia/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/opalia/)*

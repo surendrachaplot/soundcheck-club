@@ -1,6 +1,6 @@
 # Phil Toke
 
-Phil Toke is a Funk / Soul and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Greenwood Hotel, Sydney on Sun, 28 Feb 2027.
+Phil Toke is a Funk / Soul and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Greenwood Hotel, Sydney on Sun, 28 Feb 2027.
 
 Phil Toke is a funk / soul and disco artist based in Australia, with 21 gigs on soundcheck across Sydney. Often billed alongside Soul of Sydney, Adrian Benedek and Edseven. Next up: The Greenwood Hotel, Sydney on Sun 28 Feb.
 
@@ -25,4 +25,4 @@ Phil Toke is a funk / soul and disco artist based in Australia, with 21 gigs on 
 
 Soul of Sydney, Adrian Benedek, Edseven
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/philtoke/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/philtoke/)*

@@ -1,6 +1,6 @@
 # Total Freedom
 
-Total Freedom is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Bourse de Commerce — Pinault Collection, Paris on Fri, 4 Dec 2026.
+Total Freedom is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Bourse de Commerce — Pinault Collection, Paris on Fri, 4 Dec 2026.
 
 Total Freedom is a club and techno artist based in United States of America, with 67 gigs on soundcheck across Amsterdam, Athens, Atlanta and Bangkok and 22 more. Often billed alongside BAE BAE, Bapari and Daniro. Next up: Bourse de Commerce — Pinault Collection, Paris on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Total Freedom is a club and techno artist based in United States of America, wit
 
 BAE BAE, Bapari, Daniro
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/totalfreedom/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/totalfreedom/)*

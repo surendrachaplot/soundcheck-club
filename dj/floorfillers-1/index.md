@@ -1,6 +1,6 @@
 # Floorfillers (1)
 
-Floorfillers (1) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Espace Francis Delage - Salle Concorde, Paris on Sat, 28 Nov 2026.
+Floorfillers (1) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Espace Francis Delage - Salle Concorde, Paris on Sat, 28 Nov 2026.
 
 Floorfillers is a house and techno artist based in France, with 35 gigs on soundcheck across Berlin, Brussels, London and Lyon and 3 more. Often billed alongside Hardrock Striker, Loulou Ferrari and Maxye. Next up: Espace Francis Delage - Salle Concorde, Paris on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Floorfillers is a house and techno artist based in France, with 35 gigs on sound
 
 Hardrock Striker, Loulou Ferrari, Maxye
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/floorfillers-1/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/floorfillers-1/)*

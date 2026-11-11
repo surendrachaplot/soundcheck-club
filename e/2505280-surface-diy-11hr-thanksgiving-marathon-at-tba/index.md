@@ -1,6 +1,6 @@
 # Surface DIY 11hr Thanksgiving Marathon at TBA
 
-Surface DIY 11hr Thanksgiving Marathon at TBA on Wed 25 Nov, Los Angeles. 9 artists: Adult Hits, Capes, Dor Wand and Gay Felony and 5 more. Techno and House. See the line-up on soundcheck.
+Surface DIY 11hr Thanksgiving Marathon at TBA on Wed 25 Nov, Los Angeles. 10 artists: Adult Hits, Boo Lean, Capes and Dor Wand and 6 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Surface DIY 11hr Thanksgiving Marathon at TBA on Wed 25 Nov, Los Angeles. 9 arti
 ## Line-up
 
 - Adult Hits
+- Boo Lean
 - Capes
 - Dor Wand
 - Gay Felony

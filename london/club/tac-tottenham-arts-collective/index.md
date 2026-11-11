@@ -1,6 +1,6 @@
 # TAC (Tottenham Arts Collective)
 
-TAC (Tottenham Arts Collective) is a music venue in London with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "FREE TICKETS – RnB, Reggaeton, Pop, Afro & Latin House, Funk, Tribal – MOTIVE PARTY" on Sat, 14 Nov 2026.
+TAC (Tottenham Arts Collective) is a music venue in London with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "FREE TICKETS – RnB, Reggaeton, Pop, Afro & Latin House, Funk, Tribal – MOTIVE PARTY" on Sat, 14 Nov 2026.
 
 TAC (Tottenham Arts Collective) is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including Kalila, Lola (UK), Noisy Neighbour and Product Of Us and 2 more. See dates, start times and who's playing. Unit 10 High Cross Centre, Tottenham Hale, N15 4QN, London.
 
@@ -17,4 +17,4 @@ TAC (Tottenham Arts Collective) is a music venue in London listed on soundcheck.
 
 Unit 10 High Cross Centre, Tottenham Hale, N15 4QN, London, London
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/tac-tottenham-arts-collective/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/tac-tottenham-arts-collective/)*

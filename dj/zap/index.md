@@ -1,8 +1,8 @@
 # Z@p
 
-Z@p is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Cadavra, Madrid on Fri, 13 Nov 2026.
+Z@p is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Cadavra, Madrid on Fri, 13 Nov 2026.
 
-Z@p is a techno and house artist based in Uruguay, with 139 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 44 more. Often billed alongside Unai Trotti, Junki Inoue and Vass. Next up: Cadavra, Madrid on Fri 13 Nov.
+Z@p is a techno and house artist based in Uruguay, with 140 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 45 more. Often billed alongside Unai Trotti, Junki Inoue and Vass. Next up: Cadavra, Madrid on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Z@p is a techno and house artist based in Uruguay, with 139 gigs on soundcheck a
 | Sat, 21 Nov 2026 | FOLD | London |
 | Sat, 28 Nov 2026 | Les Enfants Brillants | Barcelona |
 | Fri, 11 Dec 2026 | Kauz | Zurich |
+| Wed, 3 Mar 2027 | El Rio Hostel | Colombia |
 | Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
@@ -29,4 +30,4 @@ Z@p is a techno and house artist based in Uruguay, with 139 gigs on soundcheck a
 
 Unai Trotti, Junki Inoue, Vass
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zap/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zap/)*

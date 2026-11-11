@@ -1,6 +1,6 @@
 # The Illustrious Blacks
 
-The Illustrious Blacks is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Club Rawhide, New York City on Sun, 15 Nov 2026.
+The Illustrious Blacks is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Club Rawhide, New York City on Sun, 15 Nov 2026.
 
 The Illustrious Blacks is a house and disco artist based in United States of America, with 93 gigs on soundcheck across Adelaide, Berlin, Boston and Detroit and 18 more. Often billed alongside Boris, Gabrielle Kwarteng and Hercules & Love Affair. Next up: Club Rawhide, New York City on Sun 15 Nov.
 
@@ -26,4 +26,4 @@ The Illustrious Blacks is a house and disco artist based in United States of Ame
 
 Boris, Gabrielle Kwarteng, Hercules & Love Affair
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theillustriousblacks/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theillustriousblacks/)*

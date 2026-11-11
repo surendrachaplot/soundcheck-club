@@ -1,6 +1,6 @@
 # DJ Jessy
 
-DJ Jessy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Second Story Studios, Melbourne on Sat, 26 Dec 2026.
+DJ Jessy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Second Story Studios, Melbourne on Sat, 26 Dec 2026.
 
 DJ Jessy is a house and techno artist based in Australia, with 9 gigs on soundcheck across Adelaide and Melbourne. Often billed alongside Charlie Shell, A.Well and BETHANY. Next up: Second Story Studios, Melbourne on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ DJ Jessy is a house and techno artist based in Australia, with 9 gigs on soundch
 
 Charlie Shell, A.Well, BETHANY (1)
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djjessy/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djjessy/)*

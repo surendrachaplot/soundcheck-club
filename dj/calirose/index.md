@@ -1,6 +1,6 @@
 # Cali Rose
 
-Cali Rose is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Public Works, San Francisco/Oakland on Thu, 31 Dec 2026.
+Cali Rose is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Public Works, San Francisco/Oakland on Thu, 31 Dec 2026.
 
 Cali Rose is a techno and club artist based in United States of America, with 52 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Leipzig and 9 more. Often billed alongside Mama Yha Yha, Juliana Huxtable and Jasmine Infiniti. Next up: Public Works, San Francisco/Oakland on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Cali Rose is a techno and club artist based in United States of America, with 52
 
 Mama Yha Yha, Juliana Huxtable, Jasmine Infiniti
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/calirose/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/calirose/)*

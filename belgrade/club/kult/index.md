@@ -1,6 +1,6 @@
 # Kult
 
-Kult is a music venue in Belgrade with 12 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "KULT TALENTS" on Wed, 11 Nov 2026.
+Kult is a music venue in Belgrade with 12 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "KULT TALENTS" on Wed, 11 Nov 2026.
 
 Kult is a music venue in Belgrade listed on soundcheck. 12 upcoming gigs, with line-ups including Aril Brikha, Carl Craig, Coeus and Cvayn and 2 more. See dates, start times and who's playing. Čumićevo sokače 3, 11000 Belgrade, Serbia.
 
@@ -23,4 +23,4 @@ Kult is a music venue in Belgrade listed on soundcheck. 12 upcoming gigs, with l
 
 Čumićevo sokače 3, 11000 Belgrade, Serbia, Belgrade
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/kult/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/kult/)*

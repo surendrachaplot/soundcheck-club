@@ -1,6 +1,6 @@
 # Mar/us
 
-Mar/us is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at FOLD, London on Fri, 13 Nov 2026.
+Mar/us is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at FOLD, London on Fri, 13 Nov 2026.
 
 Mar/us is a techno and house artist, with 110 gigs on soundcheck across Amsterdam, Athens, Bangkok and Beijing and 33 more. Often billed alongside Cristian Marras, Metaraph and BOYCA. Next up: FOLD, London on Fri 13 Nov.
 
@@ -28,4 +28,4 @@ Mar/us is a techno and house artist, with 110 gigs on soundcheck across Amsterda
 
 Cristian Marras, Metaraph, BOYCA
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marus/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marus/)*

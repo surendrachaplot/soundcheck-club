@@ -1,6 +1,6 @@
 # Santek
 
-Santek is a Minimal Techno and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Powered by: Void Acoustics, Madrid on Sat, 28 Nov 2026.
+Santek is a Minimal Techno and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Powered by: Void Acoustics, Madrid on Sat, 28 Nov 2026.
 
 Santek is a minimal techno and techno artist based in Spain, with 9 gigs on soundcheck across Madrid. Often billed alongside ADRI.G, BENGALA and Dyans. Next up: TBA - Powered by: Void Acoustics, Madrid on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Santek is a minimal techno and techno artist based in Spain, with 9 gigs on soun
 
 ADRI.G, BENGALA, Dyans
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/santek/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/santek/)*

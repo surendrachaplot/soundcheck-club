@@ -1,6 +1,6 @@
 # Sick Boy
 
-Sick Boy is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Gate Milano, Milan on Mon, 7 Dec 2026.
+Sick Boy is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Gate Milano, Milan on Mon, 7 Dec 2026.
 
 Sick Boy is a techno and psytrance artist, with 14 gigs on soundcheck across London, Milan, Osaka and Tokyo. Often billed alongside ERIMIYA, RINALUCKY and DJ HI-C. Next up: Gate Milano, Milan on Mon 7 Dec.
 
@@ -25,4 +25,4 @@ Sick Boy is a techno and psytrance artist, with 14 gigs on soundcheck across Lon
 
 ERIMIYA, RINALUCKY, DJ HI-C
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sick-boy/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sick-boy/)*

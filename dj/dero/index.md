@@ -1,6 +1,6 @@
 # dero
 
-dero is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Moondog Hifi, New York City on Sat, 14 Nov 2026.
+dero is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Moondog Hifi, New York City on Sat, 14 Nov 2026.
 
 dero is a house and disco artist, with 5 gigs on soundcheck across New York City. Often billed alongside Latas, Ben Hixon and Inés (US). Next up: Moondog Hifi, New York City on Sat 14 Nov.
 
@@ -21,4 +21,4 @@ dero is a house and disco artist, with 5 gigs on soundcheck across New York City
 
 Latas, Ben Hixon, Inés (US)
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dero/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dero/)*

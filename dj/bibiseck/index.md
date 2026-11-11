@@ -1,6 +1,6 @@
 # Bibi Seck
 
-Bibi Seck is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Ghent, Ghent on Wed, 11 Nov 2026.
+Bibi Seck is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Ghent, Ghent on Wed, 11 Nov 2026.
 
 Bibi Seck is a house and disco artist based in Belgium, with 127 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 26 more. Often billed alongside John Noseda, BAVR and Faisal. Next up: TBA - Ghent, Ghent on Wed 11 Nov.
 
@@ -30,4 +30,4 @@ Bibi Seck is a house and disco artist based in Belgium, with 127 gigs on soundch
 
 John Noseda, BAVR, Faisal
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bibiseck/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bibiseck/)*

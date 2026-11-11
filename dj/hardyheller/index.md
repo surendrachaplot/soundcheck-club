@@ -1,6 +1,6 @@
 # Hardy Heller
 
-Hardy Heller is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Soku Neustadt, Rhineland-palatinate on Sat, 12 Dec 2026.
+Hardy Heller is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Soku Neustadt, Rhineland-palatinate on Sat, 12 Dec 2026.
 
 Hardy Heller is a techno and tech house artist based in Germany, with 9 gigs on soundcheck across Frankfurt, London and Rhineland Palatinate. Often billed alongside Francesco Poggi, Danjo and Tom Schön. Next up: Soku Neustadt, Rhineland Palatinate on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Hardy Heller is a techno and tech house artist based in Germany, with 9 gigs on 
 
 Francesco Poggi, Danjo, Tom Schön
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hardyheller/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hardyheller/)*

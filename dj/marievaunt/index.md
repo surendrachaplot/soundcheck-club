@@ -1,6 +1,6 @@
 # Marie Vaunt
 
-Marie Vaunt is a Techno and Acid artist with 9 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
+Marie Vaunt is a Techno and Acid artist with 9 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
 
 Marie Vaunt is a techno and acid artist based in United States of America, with 99 gigs on soundcheck across Amsterdam, Arizona, Athens and Atlanta and 51 more. Often billed alongside Space 92, Maddix and Eli Brown. Next up: The Concourse Project, Austin on Fri 13 Nov.
 
@@ -33,4 +33,4 @@ Marie Vaunt is a techno and acid artist based in United States of America, with 
 
 Space 92, Maddix, Eli Brown
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marievaunt/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marievaunt/)*

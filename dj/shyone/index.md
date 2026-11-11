@@ -1,13 +1,14 @@
 # Shy One
 
-Shy One is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Fairfield Club, Glasgow on Sat, 21 Nov 2026.
+Shy One is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Palais Mascotte, Zurich on Fri, 13 Nov 2026.
 
-Shy One is a house and techno artist based in United Kingdom, with 133 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 29 more. Often billed alongside Ruby Savage, NIKS and OK Williams. Next up: Fairfield Club, Glasgow on Sat 21 Nov.
+Shy One is a house and techno artist based in United Kingdom, with 134 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 30 more. Often billed alongside Ruby Savage, NIKS and OK Williams. Next up: Palais Mascotte, Zurich on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | Palais Mascotte | Zurich |
 | Sat, 21 Nov 2026 | Fairfield Club | Glasgow |
 | Thu, 26 Aug 2027 | The Garden Tisno | Croatia |
 
@@ -26,4 +27,4 @@ Shy One is a house and techno artist based in United Kingdom, with 133 gigs on s
 
 Ruby Savage, NIKS, OK Williams
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shyone/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shyone/)*

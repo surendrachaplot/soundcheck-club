@@ -1,6 +1,6 @@
 # Overmono
 
-Overmono is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Huxley's Neue Welt, Berlin on Thu, 12 Nov 2026.
+Overmono is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Huxley's Neue Welt, Berlin on Thu, 12 Nov 2026.
 
 Overmono is a techno and house artist based in United Kingdom, with 112 gigs on soundcheck across Aberdeen, Amsterdam, Athens and Austin and 48 more. Often billed alongside KI/KI, Nia Archives and Ewan McVicar. Next up: Huxley's Neue Welt, Berlin on Thu 12 Nov.
 
@@ -35,4 +35,4 @@ Overmono is a techno and house artist based in United Kingdom, with 112 gigs on 
 
 KI/KI, Nia Archives, Ewan McVicar
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/overmono/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/overmono/)*

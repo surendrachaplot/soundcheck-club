@@ -1,6 +1,6 @@
 # Tagir
 
-Tagir is a Electro and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 5 Dec 2026.
+Tagir is a Electro and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 5 Dec 2026.
 
 Tagir is an electro and house artist based in Germany, with 9 gigs on soundcheck across Bali, Barcelona, Berlin and Zurich. Often billed alongside Alexey Orlov, Cyril The Great and Annina. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Tagir is an electro and house artist based in Germany, with 9 gigs on soundcheck
 
 Alexey Orlov, Cyril The Great, Annina
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tagir/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tagir/)*

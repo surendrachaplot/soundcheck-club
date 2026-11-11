@@ -1,6 +1,6 @@
 # diǎorén
 
-diǎorén is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Pillbox Beijing, Beijing on Sat, 14 Nov 2026.
+diǎorén is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Pillbox Beijing, Beijing on Sat, 14 Nov 2026.
 
 diǎorén is a techno and trance artist based in China, with 21 gigs on soundcheck across Beijing. Often billed alongside W.X.M, SØA and Bearback. Next up: Pillbox Beijing, Beijing on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ diǎorén is a techno and trance artist based in China, with 21 gigs on soundche
 
 W.X.M, SØA (1), Bearback
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diaoren/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diaoren/)*

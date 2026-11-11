@@ -1,6 +1,6 @@
 # Felon5
 
-Felon5 is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Hoppetosse, Berlin on Fri, 4 Dec 2026.
+Felon5 is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Hoppetosse, Berlin on Fri, 4 Dec 2026.
 
 Felon5 is a house and tech house artist based in United Kingdom, with 28 gigs on soundcheck across Barcelona, Berlin, Leeds and Lisbon and 7 more. Often billed alongside B.Love, DELASFLORES and Oliver.r. Next up: Hoppetosse, Berlin on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Felon5 is a house and tech house artist based in United Kingdom, with 28 gigs on
 
 B.Love, DELASFLORES, Oliver.r
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/felon5/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/felon5/)*

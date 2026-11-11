@@ -1,6 +1,6 @@
 # Panke Social
 
-Panke Social is a music venue in Sheffield with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Bait & Wavey Jone's Locker" on Fri, 11 Dec 2026.
+Panke Social is a music venue in Sheffield with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Bait & Wavey Jone's Locker" on Fri, 11 Dec 2026.
 
 Panke Social is a music venue in Sheffield listed on soundcheck. 2 upcoming gigs, with line-ups including Cimmerian, Move Elusive and Olórin. See dates, start times and who's playing. 16 Exchange street, Sheffield, S25TR.
 
@@ -15,4 +15,4 @@ Panke Social is a music venue in Sheffield listed on soundcheck. 2 upcoming gigs
 
 16 Exchange street, Sheffield, S25TR, Sheffield
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/panke-social/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/panke-social/)*

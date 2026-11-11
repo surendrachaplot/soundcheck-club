@@ -1,6 +1,6 @@
 # Electra (2)
 
-Electra (2) is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Home The Venue, Sydney on Fri, 4 Dec 2026.
+Electra (2) is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Home The Venue, Sydney on Fri, 4 Dec 2026.
 
 Electra is a techno and industrial artist based in Colombia, with 11 gigs on soundcheck across Athens, Berlin, Leipzig and Lisbon and 3 more. Often billed alongside Karashò, Khyodo and SAS. Next up: Home The Venue, Sydney on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Electra is a techno and industrial artist based in Colombia, with 11 gigs on sou
 
 Karashò, Khyodo, SAS (2)
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/electra-2/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/electra-2/)*

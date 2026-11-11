@@ -1,6 +1,6 @@
 # PUNK N MATRIX
 
-PUNK N MATRIX is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at WOMB, Tokyo on Sat, 21 Nov 2026.
+PUNK N MATRIX is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at WOMB, Tokyo on Sat, 21 Nov 2026.
 
 PUNK N MATRIX is a house and tech house artist based in Japan, with 94 gigs on soundcheck across Osaka, Seoul, Taipei and Tokyo. Often billed alongside Yamariki, ANZU and Chika Luna. Next up: WOMB, Tokyo on Sat 21 Nov.
 
@@ -28,4 +28,4 @@ PUNK N MATRIX is a house and tech house artist based in Japan, with 94 gigs on s
 
 Yamariki, ANZU, Chika Luna
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/punknmatrix/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/punknmatrix/)*

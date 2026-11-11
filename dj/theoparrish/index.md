@@ -1,6 +1,6 @@
 # Theo Parrish
 
-Theo Parrish is a House and Funk / Soul artist with 10 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Solotech Studios, Los Angeles on Thu, 12 Nov 2026.
+Theo Parrish is a House and Funk / Soul artist with 10 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Solotech Studios, Los Angeles on Thu, 12 Nov 2026.
 
 Theo Parrish is a house and funk / soul artist based in United States of America, with 136 gigs on soundcheck across Amsterdam, Antwerp, Bali and Baltimore and 35 more. Often billed alongside Avalon Emerson, Moodymann and Batu. Next up: Solotech Studios, Los Angeles on Thu 12 Nov.
 
@@ -34,4 +34,4 @@ Theo Parrish is a house and funk / soul artist based in United States of America
 
 Avalon Emerson, Moodymann, Batu
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theoparrish/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theoparrish/)*

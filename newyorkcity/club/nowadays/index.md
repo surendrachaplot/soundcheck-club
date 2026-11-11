@@ -1,6 +1,6 @@
 # Nowadays
 
-Nowadays is a music venue in New York City with 28 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Mess Is Lore: Carpet (F.L.H.P), Crimeboys, Cry, leelee, MARBLE RYE, Motion Graphics" on Thu, 12 Nov 2026.
+Nowadays is a music venue in New York City with 28 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Mess Is Lore: Carpet (F.L.H.P), Crimeboys, Cry, leelee, MARBLE RYE, Motion Graphics" on Thu, 12 Nov 2026.
 
 Nowadays is a music venue in New York City listed on soundcheck. 28 upcoming gigs, with line-ups including 1morning, 8ULENTINA, MORENXXX and Paula Tape and 2 more. See dates, start times and who's playing. 56-06 Cooper Ave. Ridgewood, NY 11385 USA.
 
@@ -23,4 +23,4 @@ Nowadays is a music venue in New York City listed on soundcheck. 28 upcoming gig
 
 56-06 Cooper Ave. Ridgewood, NY 11385 USA, New York City
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nowadays/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nowadays/)*

@@ -1,6 +1,6 @@
 # Minimüzikhol
 
-Minimüzikhol is a music venue in Istanbul with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Khan / Shabi" on Fri, 13 Nov 2026.
+Minimüzikhol is a music venue in Istanbul with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Khan / Shabi" on Fri, 13 Nov 2026.
 
 Minimüzikhol is a music venue in Istanbul listed on soundcheck. 2 upcoming gigs, with line-ups including Bushwacka!, Shabi Seyf and Subsky. See dates, start times and who's playing. Siraselviler Caddesi Soganci Sok. Cihangir Palas No:3/1 Beyoglu Istanbul.
 
@@ -15,4 +15,4 @@ Minimüzikhol is a music venue in Istanbul listed on soundcheck. 2 upcoming gigs
 
 Siraselviler Caddesi Soganci Sok. Cihangir Palas No:3/1 Beyoglu Istanbul, Istanbul
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/minim-zikhol/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/minim-zikhol/)*

@@ -1,6 +1,6 @@
 # Miguel Nery
 
-Miguel Nery is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Lx Factory, Lisbon on Sat, 14 Nov 2026.
+Miguel Nery is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Lx Factory, Lisbon on Sat, 14 Nov 2026.
 
 Miguel Nery is a house and techno artist based in Portugal, with 43 gigs on soundcheck across Berlin, Lisbon and Porto. Often billed alongside Rui Vargas, Tiago Carvalho and Cuba (PT). Next up: Lx Factory, Lisbon on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Miguel Nery is a house and techno artist based in Portugal, with 43 gigs on soun
 
 Rui Vargas, Tiago Carvalho, Cuba (PT)
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelnery/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelnery/)*

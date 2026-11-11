@@ -1,6 +1,6 @@
 # Groove Assassin
 
-Groove Assassin is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Ministry Of Sound, London on Sat, 14 Nov 2026.
+Groove Assassin is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Ministry Of Sound, London on Sat, 14 Nov 2026.
 
 Groove Assassin is a house and disco artist based in United Kingdom, with 39 gigs on soundcheck across Amsterdam, Belgrade, Birmingham and Edinburgh and 8 more. Often billed alongside Billy Cocks, DJ Murrell and Ronnie Herel. Next up: Ministry Of Sound, London on Sat 14 Nov.
 
@@ -29,4 +29,4 @@ Groove Assassin is a house and disco artist based in United Kingdom, with 39 gig
 
 Billy Cocks, DJ Murrell, Ronnie Herel
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grooveassassin/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grooveassassin/)*

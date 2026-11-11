@@ -1,6 +1,6 @@
 # Marco Weibel
 
-Marco Weibel is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Mitsuki, Tokyo on Tue, 10 Nov 2026.
+Marco Weibel is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Mitsuki, Tokyo on Tue, 10 Nov 2026.
 
 Marco Weibel is a house and techno artist, with 143 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 25 more. Often billed alongside Lefto Early Bird, Dexter Colt and Spurge. Next up: Mitsuki, Tokyo on Tue 10 Nov.
 
@@ -15,6 +15,7 @@ Marco Weibel is a house and techno artist, with 143 gigs on soundcheck across Am
 
 ## Recently played
 
+- Mitsuki, Tokyo · Tue, 10 Nov 2026
 - BAR Inc, Osaka · Sat, 7 Nov 2026
 - West Harlem, Kyoto · Fri, 6 Nov 2026
 - Doka, Amsterdam · Sat, 24 Oct 2026
@@ -22,10 +23,9 @@ Marco Weibel is a house and techno artist, with 143 gigs on soundcheck across Am
 - Système, Montreal · Fri, 9 Oct 2026
 - Elsewhere, New York City · Sun, 4 Oct 2026
 - Palomino, Los Angeles · Fri, 2 Oct 2026
-- Klymax Discotheque, Bali · Fri, 11 Sept 2026
 
 ## Shares bills with
 
 Lefto Early Bird, Dexter Colt, Spurge
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoweibel/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoweibel/)*

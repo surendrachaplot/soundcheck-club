@@ -1,6 +1,6 @@
 # Sydney Portugal Community Club
 
-Sydney Portugal Community Club is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. The next is "Bella Claxton — Strictly Pumpers [Sydney]" on Sat, 23 Jan 2027.
+Sydney Portugal Community Club is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "Bella Claxton — Strictly Pumpers [Sydney]" on Sat, 23 Jan 2027.
 
 Sydney Portugal Community Club is a music venue in Sydney listed on soundcheck. 1 upcoming gig, with line-ups including Bella Claxton. See dates, start times and who's playing. 100 Marrickville Rd, Marrickville NSW 2204.
 
@@ -14,4 +14,4 @@ Sydney Portugal Community Club is a music venue in Sydney listed on soundcheck. 
 
 100 Marrickville Rd, Marrickville NSW 2204, Sydney
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/sydney-portugal-community-club/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/sydney-portugal-community-club/)*

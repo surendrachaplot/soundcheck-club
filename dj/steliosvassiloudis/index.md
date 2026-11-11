@@ -1,6 +1,6 @@
 # Stelios Vassiloudis
 
-Stelios Vassiloudis is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Bar Temp., Bangkok on Thu, 12 Nov 2026.
+Stelios Vassiloudis is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Bar Temp., Bangkok on Thu, 12 Nov 2026.
 
 Stelios Vassiloudis is a techno and house artist based in Greece, with 51 gigs on soundcheck across Athens, Bali, Bangkok and Barcelona and 18 more. Often billed alongside DJ Anthony2, DJ Ouch! and Funk D'Void. Next up: Bar Temp., Bangkok on Thu 12 Nov.
 
@@ -26,4 +26,4 @@ Stelios Vassiloudis is a techno and house artist based in Greece, with 51 gigs o
 
 DJ Anthony2, DJ Ouch!, Funk D'Void
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/steliosvassiloudis/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/steliosvassiloudis/)*

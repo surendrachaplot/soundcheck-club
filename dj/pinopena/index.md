@@ -1,6 +1,6 @@
 # Pino Peña
 
-Pino Peña is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at SISSI'S Amsterdam, Amsterdam on Fri, 20 Nov 2026.
+Pino Peña is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at SISSI'S Amsterdam, Amsterdam on Fri, 20 Nov 2026.
 
 Pino Peña is a techno and house artist based in Germany, with 48 gigs on soundcheck across Amsterdam, Berlin, Düsseldorf and Glasgow and 5 more. Often billed alongside Digabuna, wallflower_ and Egotot. Next up: SISSI'S Amsterdam, Amsterdam on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ Pino Peña is a techno and house artist based in Germany, with 48 gigs on soundc
 
 Digabuna, wallflower_, Egotot
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pinopena/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pinopena/)*

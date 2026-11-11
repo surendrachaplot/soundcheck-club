@@ -1,13 +1,14 @@
 # Cuartero
 
-Cuartero is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Amnesia Milano, Milan on Sat, 5 Dec 2026.
+Cuartero is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Zero Club, Lisbon on Sat, 28 Nov 2026.
 
-Cuartero is a tech house and house artist based in Spain, with 104 gigs on soundcheck across Amsterdam, Barcelona, Buenos Aires and Dubai and 14 more. Often billed alongside East End Dubs, Manda Moor and Fleur Shore. Next up: Amnesia Milano, Milan on Sat 5 Dec.
+Cuartero is a tech house and house artist based in Spain, with 105 gigs on soundcheck across Amsterdam, Barcelona, Buenos Aires and Dubai and 15 more. Often billed alongside East End Dubs, Manda Moor and Fleur Shore. Next up: Zero Club, Lisbon on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | Zero Club | Lisbon |
 | Sat, 5 Dec 2026 | Amnesia Milano | Milan |
 
 ## Recently played
@@ -25,4 +26,4 @@ Cuartero is a tech house and house artist based in Spain, with 104 gigs on sound
 
 East End Dubs, Manda Moor, Fleur Shore
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cuartero/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cuartero/)*

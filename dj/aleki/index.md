@@ -1,6 +1,6 @@
 # Aleki
 
-Aleki is a House and Pop artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Sat, 5 Dec 2026.
+Aleki is a House and Pop artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Sat, 5 Dec 2026.
 
 Aleki is a house and pop artist, with 5 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Confetti Canon, DUGAN and Edward Frame. Next up: F8 1192 Folsom, San Francisco/Oakland on Sat 5 Dec.
 
@@ -21,4 +21,4 @@ Aleki is a house and pop artist, with 5 gigs on soundcheck across San Francisco/
 
 Confetti Canon, DUGAN, Edward Frame
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aleki/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aleki/)*

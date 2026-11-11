@@ -1,6 +1,6 @@
 # Yamamori Tengu
 
-Yamamori Tengu is a music venue in Dublin with 14 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Tengu x Omni: L.P. Rhythm" on Thu, 12 Nov 2026.
+Yamamori Tengu is a music venue in Dublin with 14 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Tengu x Omni: L.P. Rhythm" on Thu, 12 Nov 2026.
 
 Yamamori Tengu is a music venue in Dublin listed on soundcheck. 14 upcoming gigs, with line-ups including Chris Flannigan, Cormac, Craig Richards and CULT and 2 more. See dates, start times and who's playing. 37 Strand Street Great, North City, Dublin 1, Ireland.
 
@@ -23,4 +23,4 @@ Yamamori Tengu is a music venue in Dublin listed on soundcheck. 14 upcoming gigs
 
 37 Strand Street Great, North City, Dublin 1, Ireland, Dublin
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/yamamori-tengu/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/yamamori-tengu/)*

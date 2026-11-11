@@ -1,6 +1,6 @@
 # BLCKWA
 
-BLCKWA is a Afro Tech and Afro House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at La Parcería, Madrid on Sun, 29 Nov 2026.
+BLCKWA is a Afro Tech and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at La Parcería, Madrid on Sun, 29 Nov 2026.
 
 BLCKWA is an afro tech and afro house artist based in Spain, with 7 gigs on soundcheck across Madrid. Often billed alongside DJ MATERIA PRIMA, Diego Armando and FORTALEZZA. Next up: La Parcería, Madrid on Sun 29 Nov.
 
@@ -23,4 +23,4 @@ BLCKWA is an afro tech and afro house artist based in Spain, with 7 gigs on soun
 
 DJ MATERIA PRIMA, Diego Armando, FORTALEZZA
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blckwa/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blckwa/)*

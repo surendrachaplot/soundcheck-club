@@ -1,6 +1,6 @@
 # Green Room NYC
 
-Green Room NYC is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Third Floor Sounds: Foundations" on Fri, 13 Nov 2026.
+Green Room NYC is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Third Floor Sounds: Foundations" on Fri, 13 Nov 2026.
 
 Green Room NYC is a music venue in New York City listed on soundcheck. 5 upcoming gigs, with line-ups including Aline Brooklyn, Armii1n, Atilla Ural and Cesar Merveille and 2 more. See dates, start times and who's playing. 195 Morgan Ave, Brooklyn, NY 11237.
 
@@ -18,4 +18,4 @@ Green Room NYC is a music venue in New York City listed on soundcheck. 5 upcomin
 
 195 Morgan Ave, Brooklyn, NY 11237, New York City
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/green-room-nyc/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/green-room-nyc/)*

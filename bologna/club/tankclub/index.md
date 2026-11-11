@@ -1,6 +1,6 @@
 # TANKclub
 
-TANKclub is a music venue in Bologna with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "POTOCHKINE + Border Live" on Fri, 13 Nov 2026.
+TANKclub is a music venue in Bologna with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "POTOCHKINE + Border Live" on Fri, 13 Nov 2026.
 
 TANKclub is a music venue in Bologna listed on soundcheck. 5 upcoming gigs, with line-ups including Conical Intersection, Davide Brosco, ØSC and POTOCHKINE and 1 more. See dates, start times and who's playing.
 
@@ -14,4 +14,4 @@ TANKclub is a music venue in Bologna listed on soundcheck. 5 upcoming gigs, with
 | Fri, 27 Nov 2026 | Subject Sue + Las Eras Live |  |
 | Sat, 28 Nov 2026 | LUME | Conical Intersection, ØSC (1) |
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/bologna/club/tankclub/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/bologna/club/tankclub/)*

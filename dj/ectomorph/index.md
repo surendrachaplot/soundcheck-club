@@ -1,14 +1,15 @@
 # Ectomorph
 
-Ectomorph is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Tangent Gallery, Detroit on Thu, 31 Dec 2026.
+Ectomorph is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Tangent Gallery, Detroit on Thu, 31 Dec 2026.
 
-Ectomorph is a techno and house artist based in United States of America, with 14 gigs on soundcheck across Berlin, Detroit, London and Rome and 2 more. Often billed alongside BMG, Erika and Craig Gonzalez. Next up: Tangent Gallery, Detroit on Thu 31 Dec.
+Ectomorph is a techno and house artist based in United States of America, with 15 gigs on soundcheck across Berlin, Colombia, Detroit and London and 3 more. Often billed alongside BMG, Erika and CCL. Next up: Tangent Gallery, Detroit on Thu 31 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 31 Dec 2026 | Tangent Gallery | Detroit |
+| Wed, 3 Mar 2027 | El Rio Hostel | Colombia |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Ectomorph is a techno and house artist based in United States of America, with 1
 
 ## Shares bills with
 
-BMG, Erika, Craig Gonzalez
+BMG, Erika, CCL
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ectomorph/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ectomorph/)*

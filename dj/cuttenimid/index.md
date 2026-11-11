@@ -1,6 +1,6 @@
 # Cuttenimid
 
-Cuttenimid is a Hip-Hop and Dub artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Chika-Ikkai, Osaka on Fri, 13 Nov 2026.
+Cuttenimid is a Hip-Hop and Dub artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Chika-Ikkai, Osaka on Fri, 13 Nov 2026.
 
 Cuttenimid is a hip-hop and dub artist based in Japan, with 3 gigs on soundcheck across London and Osaka. Often billed alongside KATAINAKA, RAAANDY and Silv-o. Next up: Chika-Ikkai, Osaka on Fri 13 Nov.
 
@@ -19,4 +19,4 @@ Cuttenimid is a hip-hop and dub artist based in Japan, with 3 gigs on soundcheck
 
 KATAINAKA, RAAANDY, Silv-o
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cuttenimid/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cuttenimid/)*

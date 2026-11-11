@@ -1,13 +1,13 @@
 # Dings
 
-Dings is a music venue in Munich with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "Different Times x Dings" on Sat, 24 Oct 2026.
+Dings is a music venue in Munich with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "Toy Tonics Jam" on Fri, 18 Dec 2026.
 
-Dings is a music venue in Munich listed on soundcheck. 1 upcoming gig, with line-ups including Cynthia Matisse, David Hornung, Elsa (CH) and Gaaston and 2 more. See dates, start times and who's playing.
+Dings is a music venue in Munich listed on soundcheck. 1 upcoming gig, with line-ups including A.tari, Julie Fleischer and Kapote. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Different Times x Dings | Cynthia Matisse, David Hornung, Elsa (CH), Gaaston, Glaskin, Goiaba, Javier Gallardo, Jôka, S.A.M., SloMo |
+| Fri, 18 Dec 2026 | Toy Tonics Jam | A.tari, Julie Fleischer, Kapote |
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/dings/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/dings/)*

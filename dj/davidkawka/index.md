@@ -1,6 +1,6 @@
 # David Kawka
 
-David Kawka is a Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Gaskessel Bern, Bern on Sat, 21 Nov 2026.
+David Kawka is a Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Gaskessel Bern, Bern on Sat, 21 Nov 2026.
 
 David Kawka is a techno artist based in Switzerland, with 4 gigs on soundcheck across Bern and Zurich. Often billed alongside Kevqube, Dee Jota and Annina Frey. Next up: Gaskessel Bern, Bern on Sat 21 Nov.
 
@@ -20,4 +20,4 @@ David Kawka is a techno artist based in Switzerland, with 4 gigs on soundcheck a
 
 Kevqube, Dee Jota, Annina Frey
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidkawka/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidkawka/)*

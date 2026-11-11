@@ -1,6 +1,6 @@
 # WEEKEND SELECTERS at BAR Inc
 
-WEEKEND SELECTERS at BAR Inc on Fri 4 Dec, Osaka. 1 artist: Kito Jempere. House and Acid. See the line-up on soundcheck.
+WEEKEND SELECTERS at BAR Inc on Fri 4 Dec, Osaka. 2 artists: Dengue Dengue Dengue and Kito Jempere. House and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ WEEKEND SELECTERS at BAR Inc on Fri 4 Dec, Osaka. 1 artist: Kito Jempere. House 
 
 ## Line-up
 
+- Dengue Dengue Dengue
 - Kito Jempere
 
 *Source: [soundcheck](https://soundcheck.club/e/2575883-weekend-selecters-at-bar-inc/)*

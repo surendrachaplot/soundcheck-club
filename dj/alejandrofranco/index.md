@@ -1,6 +1,6 @@
 # Alejandro Franco
 
-Alejandro Franco is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Outline, Mexico City on Fri, 27 Nov 2026.
+Alejandro Franco is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Outline, Mexico City on Fri, 27 Nov 2026.
 
 Alejandro Franco is a techno and house artist based in Mexico, with 69 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 8 more. Often billed alongside Kevin Matto, Luis Flores and DAX J. Next up: Outline, Mexico City on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Alejandro Franco is a techno and house artist based in Mexico, with 69 gigs on s
 
 Kevin Matto, Luis Flores, DAX J
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alejandrofranco/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alejandrofranco/)*

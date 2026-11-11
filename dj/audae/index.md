@@ -1,6 +1,6 @@
 # Audae
 
-Audae is a Electro and Downtempo artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Beate Uwe, Berlin on Thu, 26 Nov 2026.
+Audae is a Electro and Downtempo artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Beate Uwe, Berlin on Thu, 26 Nov 2026.
 
 Audae is an electro and downtempo artist based in France, with 12 gigs on soundcheck across Berlin and Paris. Often billed alongside Athenaïs, Soso Klein and AFFKT. Next up: Beate Uwe, Berlin on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Audae is an electro and downtempo artist based in France, with 12 gigs on soundc
 
 Athenaïs, Soso Klein, AFFKT
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/audae/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/audae/)*

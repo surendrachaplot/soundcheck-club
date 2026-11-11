@@ -1,6 +1,6 @@
 # Stenny
 
-Stenny is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Utopia - A Happening Place, Munich on Wed, 11 Nov 2026.
+Stenny is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Utopia - A Happening Place, Munich on Wed, 11 Nov 2026.
 
 Stenny is a techno and house artist based in Italy, with 140 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 29 more. Often billed alongside Zenker Brothers, Tasha and Skee Mask. Next up: Utopia - A Happening Place, Munich on Wed 11 Nov.
 
@@ -31,4 +31,4 @@ Stenny is a techno and house artist based in Italy, with 140 gigs on soundcheck 
 
 Zenker Brothers, Tasha, Skee Mask
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stenny/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stenny/)*

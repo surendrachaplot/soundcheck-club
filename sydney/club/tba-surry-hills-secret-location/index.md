@@ -1,6 +1,6 @@
 # TBA - (Surry Hills Secret Location)
 
-TBA - (Surry Hills Secret Location) is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. The next is "ClubHouse: Apartment Party 3" on Sat, 14 Nov 2026.
+TBA - (Surry Hills Secret Location) is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "ClubHouse: Apartment Party 3" on Sat, 14 Nov 2026.
 
 TBA - (Surry Hills Secret Location) is a music venue in Sydney listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - (Surry Hills Secret Location) is a music venue in Sydney listed on soundch
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | ClubHouse: Apartment Party 3 |  |
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/tba-surry-hills-secret-location/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/tba-surry-hills-secret-location/)*

@@ -1,6 +1,6 @@
 # Kawun
 
-Kawun is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Jolene, Copenhagen on Sat, 14 Nov 2026.
+Kawun is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Jolene, Copenhagen on Sat, 14 Nov 2026.
 
 Kawun is a house and techno artist based in Denmark, with 72 gigs on soundcheck across Beijing, Berlin, Copenhagen and London and 1 more. Often billed alongside Prom Night, David Garset and Harrison Heat. Next up: Jolene, Copenhagen on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Kawun is a house and techno artist based in Denmark, with 72 gigs on soundcheck 
 
 Prom Night, David Garset, Harrison Heat
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kawun/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kawun/)*

@@ -1,6 +1,6 @@
 # Martyn
 
-Martyn is a Techno and Bass artist with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Process PDX, Portland on Sat, 14 Nov 2026.
+Martyn is a Techno and Bass artist with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Process PDX, Portland on Sat, 14 Nov 2026.
 
 Martyn is a techno and bass artist based in United States of America, with 78 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 23 more. Often billed alongside Ehua, CCL and Darwin. Next up: Process PDX, Portland on Sat 14 Nov.
 
@@ -29,4 +29,4 @@ Martyn is a techno and bass artist based in United States of America, with 78 gi
 
 Ehua, CCL, Darwin
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/martyn/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/martyn/)*

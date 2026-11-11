@@ -1,6 +1,6 @@
 # Nöel Black
 
-Nöel Black is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Deep End, New York City on Fri, 27 Nov 2026.
+Nöel Black is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Deep End, New York City on Fri, 27 Nov 2026.
 
 Nöel Black is a techno and house artist based in United States of America, with 10 gigs on soundcheck across New York City. Often billed alongside Maha Kuma, sasababy and ASTER (DJ). Next up: The Deep End, New York City on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Nöel Black is a techno and house artist based in United States of America, with
 
 Maha Kuma, sasababy, ASTER (DJ)
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noelblack/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noelblack/)*

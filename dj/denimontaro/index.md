@@ -1,8 +1,8 @@
 # Denimontaro
 
-Denimontaro is a Bass and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Continental Club, San Francisco/Oakland on Fri, 13 Nov 2026.
+Denimontaro is a Bass and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Continental Club, San Francisco/Oakland on Fri, 13 Nov 2026.
 
-Denimontaro is a bass and electronica artist, with 5 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Justice Park, 1ycia and AZUCAR. Next up: Continental Club, San Francisco/Oakland on Fri 13 Nov.
+Denimontaro is a bass and electronica artist based in United States of America, with 5 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Justice Park, 1ycia and AZUCAR. Next up: Continental Club, San Francisco/Oakland on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ Denimontaro is a bass and electronica artist, with 5 gigs on soundcheck across S
 
 Justice Park, 1ycia, AZUCAR
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/denimontaro/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/denimontaro/)*

@@ -1,6 +1,6 @@
 # Raphael Carrau
 
-Raphael Carrau is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Masada, Milan on Sun, 22 Nov 2026.
+Raphael Carrau is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Masada, Milan on Sun, 22 Nov 2026.
 
 Raphael Carrau is a house and techno artist based in United Kingdom, with 152 gigs on soundcheck across Amsterdam, Austin, Bali and Bangkok and 44 more. Often billed alongside Unai Trotti, Vass and Colin Chiddle. Next up: Masada, Milan on Sun 22 Nov.
 
@@ -29,4 +29,4 @@ Raphael Carrau is a house and techno artist based in United Kingdom, with 152 gi
 
 Unai Trotti, Vass, Colin Chiddle
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raphael-uk/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raphael-uk/)*

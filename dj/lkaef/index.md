@@ -1,6 +1,6 @@
 # L KAE F
 
-L KAE F is a House and Ambient artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - The Good Landing, London on Sat, 19 Dec 2026.
+L KAE F is a House and Ambient artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - The Good Landing, London on Sat, 19 Dec 2026.
 
 L KAE F is a house and ambient artist based in United Kingdom, with 23 gigs on soundcheck across London and Vienna. Often billed alongside Rosy Ross, Medallion Man and Pavline. Next up: TBA - The Good Landing, London on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ L KAE F is a house and ambient artist based in United Kingdom, with 23 gigs on s
 
 Rosy Ross, Medallion Man, Pavline
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lkaef/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lkaef/)*

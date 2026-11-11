@@ -1,6 +1,6 @@
 # Janus Rasmussen
 
-Janus Rasmussen is a Electronica and IDM artist with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Le Pop-Up du Label, Paris on Wed, 25 Nov 2026.
+Janus Rasmussen is a Electronica and IDM artist with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Le Pop-Up du Label, Paris on Wed, 25 Nov 2026.
 
 Janus Rasmussen is an electronica and idm artist based in Iceland, with 26 gigs on soundcheck across Amsterdam, Athens, Berlin and Brussels and 10 more. Often billed alongside Kiasmos, Garbage Delight and Natascha Polké. Next up: Le Pop-Up du Label, Paris on Wed 25 Nov.
 
@@ -29,4 +29,4 @@ Janus Rasmussen is an electronica and idm artist based in Iceland, with 26 gigs 
 
 Kiasmos, Garbage Delight, Natascha Polké
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janusrasmussen/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janusrasmussen/)*

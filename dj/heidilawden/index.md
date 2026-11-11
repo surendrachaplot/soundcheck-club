@@ -1,8 +1,8 @@
 # Heidi Lawden
 
-Heidi Lawden is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat, 14 Nov 2026.
+Heidi Lawden is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat, 14 Nov 2026.
 
-Heidi Lawden is a house and disco artist based in United States of America, with 174 gigs on soundcheck across Athens, Bali, Barcelona and Belfast and 21 more. Often billed alongside Masha Mar, Lovefingers and Masha. Next up: TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat 14 Nov.
+Heidi Lawden is a house and disco artist based in United States of America, with 175 gigs on soundcheck across Athens, Bali, Barcelona and Belfast and 21 more. Often billed alongside Masha Mar, Lovefingers and Masha. Next up: TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Heidi Lawden is a house and disco artist based in United States of America, with
 | Sat, 14 Nov 2026 | TBA - 2341 E Olympic Blvd Los Angeles, CA  90021 | Los Angeles |
 | Wed, 25 Nov 2026 | Catch One | Los Angeles |
 | Fri, 27 Nov 2026 | Ace*Mission | Los Angeles |
+| Thu, 3 Dec 2026 | Floyd | Miami |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Heidi Lawden is a house and disco artist based in United States of America, with
 
 Masha Mar, Lovefingers, Masha
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/heidilawden/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/heidilawden/)*

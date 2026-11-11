@@ -1,6 +1,6 @@
 # Johnson (2)
 
-Johnson (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at OHM, Berlin on Thu, 3 Dec 2026.
+Johnson (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at OHM, Berlin on Thu, 3 Dec 2026.
 
 Johnson is a house and techno artist based in Italy, with 23 gigs on soundcheck across Berlin. Often billed alongside Adrian Camilo, Francesco Salvadori and Skinny Duchamp. Next up: OHM, Berlin on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Johnson is a house and techno artist based in Italy, with 23 gigs on soundcheck 
 
 Adrian Camilo, Francesco Salvadori, Skinny Duchamp
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johnson-2/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johnson-2/)*

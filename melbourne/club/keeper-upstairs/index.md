@@ -1,6 +1,6 @@
 # Keeper Upstairs
 
-Keeper Upstairs is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. The next is "Bellarhythms x Euphorie x HAPAX: A Sunday Afternoon at Keeper" on Sun, 15 Nov 2026.
+Keeper Upstairs is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "Bellarhythms x Euphorie x HAPAX: A Sunday Afternoon at Keeper" on Sun, 15 Nov 2026.
 
 Keeper Upstairs is a music venue in Melbourne listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 122 Weston Street Brunswick East, VIC 3057.
 
@@ -14,4 +14,4 @@ Keeper Upstairs is a music venue in Melbourne listed on soundcheck. 1 upcoming g
 
 122 Weston Street Brunswick East, VIC 3057, Melbourne
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/keeper-upstairs/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/keeper-upstairs/)*

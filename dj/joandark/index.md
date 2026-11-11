@@ -1,6 +1,6 @@
 # Joan Dark
 
-Joan Dark is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA, Chicago on Sat, 14 Nov 2026.
+Joan Dark is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA, Chicago on Sat, 14 Nov 2026.
 
 Joan Dark is a techno and house artist based in United States of America, with 18 gigs on soundcheck across Austin, Chicago and Dallas/Fort Worth. Often billed alongside AMANDA KOONTZ, Zara Mustafa and Hana Sabri. Next up: TBA, Chicago on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Joan Dark is a techno and house artist based in United States of America, with 1
 
 AMANDA KOONTZ, Zara Mustafa, Hana Sabri
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joandark/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joandark/)*

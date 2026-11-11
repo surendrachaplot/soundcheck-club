@@ -1,13 +1,14 @@
 # hubey
 
-hubey is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at EXIT Glasgow, Glasgow on Fri, 18 Dec 2026.
+hubey is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Stereo, Glasgow on Sat, 5 Dec 2026.
 
-hubey is a techno and dub techno artist based in United Kingdom, with 10 gigs on soundcheck across Aberdeen and Glasgow. Often billed alongside Angel Negrin, LOVELL and Adrian Skiba. Next up: EXIT Glasgow, Glasgow on Fri 18 Dec.
+hubey is a techno and electro artist based in United Kingdom, with 11 gigs on soundcheck across Aberdeen and Glasgow. Often billed alongside Angel Negrin, Julz Lever and LOVELL. Next up: Stereo, Glasgow on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Dec 2026 | Stereo | Glasgow |
 | Fri, 18 Dec 2026 | EXIT Glasgow | Glasgow |
 
 ## Recently played
@@ -23,6 +24,6 @@ hubey is a techno and dub techno artist based in United Kingdom, with 10 gigs on
 
 ## Shares bills with
 
-Angel Negrin, LOVELL, Adrian Skiba
+Angel Negrin, Julz Lever, LOVELL
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hubey/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hubey/)*

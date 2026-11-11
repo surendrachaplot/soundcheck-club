@@ -1,6 +1,6 @@
 # Eera
 
-Eera is a Electronica and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Radius, Chicago on Sat, 28 Nov 2026.
+Eera is a Electronica and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Radius, Chicago on Sat, 28 Nov 2026.
 
 Eera is an electronica and electro artist based in United States of America, with 52 gigs on soundcheck across Austin, Berlin, Boston and Bristol and 22 more. Often billed alongside Snow Strippers, Brutalismus 3000 and Chippy Nonstop. Next up: Radius, Chicago on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Eera is an electronica and electro artist based in United States of America, wit
 
 Snow Strippers, Brutalismus 3000, Chippy Nonstop
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eera/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eera/)*

@@ -1,6 +1,6 @@
 # Bou (UK)
 
-Bou (UK) is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Klokgebouw, Eindhoven on Sun, 27 Dec 2026.
+Bou (UK) is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Klokgebouw, Eindhoven on Sun, 27 Dec 2026.
 
 Bou (UK) is a drum & bass and jungle artist based in United Kingdom, with 101 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Atlanta and 46 more. Often billed alongside Andy C, Kanine and Turno. Next up: Klokgebouw, Eindhoven on Sun 27 Dec.
 
@@ -27,4 +27,4 @@ Bou (UK) is a drum & bass and jungle artist based in United Kingdom, with 101 gi
 
 Andy C, Kanine, Turno
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bouuk/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bouuk/)*

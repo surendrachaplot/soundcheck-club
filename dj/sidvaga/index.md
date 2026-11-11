@@ -1,0 +1,28 @@
+# Sid Vaga
+
+Sid Vaga is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at feedbk, New York City on Fri, 27 Nov 2026.
+
+Sid Vaga is a house and afro house artist based in United States of America, with 14 gigs on soundcheck across New York City. Often billed alongside Chris Love, KANZE and Nickodemus. Next up: feedbk, New York City on Fri 27 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 27 Nov 2026 | feedbk | New York City |
+
+## Recently played
+
+- MAD Radio NYC, New York City · Thu, 24 Sept 2026
+- Summertime Roof Terrace, New York City · Sat, 8 Aug 2026
+- MAD Radio NYC, New York City · Fri, 12 Jun 2026
+- Starchild Rooftop, New York City · Sat, 25 Apr 2026
+- Bar  Milagro, New York City · Sat, 28 Feb 2026
+- Dead Letter No. 9, New York City · Thu, 15 Jan 2026
+- Moondog Hifi, New York City · Fri, 9 Jan 2026
+- Moondog Hifi, New York City · Sat, 20 Dec 2025
+
+## Shares bills with
+
+Chris Love, KANZE, Nickodemus
+
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sidvaga/)*

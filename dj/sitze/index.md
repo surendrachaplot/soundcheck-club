@@ -1,6 +1,6 @@
 # Sitze
 
-Sitze is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Café Schöne Aussichten (CSA), Hamburg on Sat, 28 Nov 2026.
+Sitze is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Café Schöne Aussichten (CSA), Hamburg on Sat, 28 Nov 2026.
 
 Sitze is a house and techno artist based in Germany, with 36 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Convinzed, Dennis Louvra and Invaria. Next up: Café Schöne Aussichten (CSA), Hamburg on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Sitze is a house and techno artist based in Germany, with 36 gigs on soundcheck 
 
 Convinzed, Dennis Louvra, Invaria
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sitze/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sitze/)*

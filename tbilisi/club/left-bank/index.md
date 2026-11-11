@@ -1,6 +1,6 @@
 # Left Bank
 
-Left Bank is a music venue in Tbilisi with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Left Bank Clubnight: Salah Sadeq • Kraumur • Tascamboy" on Fri, 13 Nov 2026.
+Left Bank is a music venue in Tbilisi with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Left Bank Clubnight: Salah Sadeq • Kraumur • Tascamboy" on Fri, 13 Nov 2026.
 
 Left Bank is a music venue in Tbilisi listed on soundcheck. 2 upcoming gigs, with line-ups including Kraumur, Narek Simonian, Sidereall G and Sóley and 1 more. See dates, start times and who's playing. 10 Dodo Abashidze St T''bilisi, Georgia.
 
@@ -15,4 +15,4 @@ Left Bank is a music venue in Tbilisi listed on soundcheck. 2 upcoming gigs, wit
 
 10 Dodo Abashidze St T''bilisi, Georgia, Tbilisi
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/left-bank/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/left-bank/)*

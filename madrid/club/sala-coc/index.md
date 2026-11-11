@@ -1,6 +1,6 @@
 # Sala Cocó
 
-Sala Cocó is a music venue in Madrid with 10 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "relajadita / pavvvvvvlo" on Thu, 12 Nov 2026.
+Sala Cocó is a music venue in Madrid with 10 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "relajadita / pavvvvvvlo" on Thu, 12 Nov 2026.
 
 Sala Cocó is a music venue in Madrid listed on soundcheck. 10 upcoming gigs, with line-ups including Clouds, DJ Heartstring, DJ SWISHERMAN and doccudder and 2 more. See dates, start times and who's playing. Calle Alcalá 20, 28014 Madrid, Spain.
 
@@ -23,4 +23,4 @@ Sala Cocó is a music venue in Madrid listed on soundcheck. 10 upcoming gigs, wi
 
 Calle Alcalá 20, 28014 Madrid, Spain, Madrid
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-coc/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-coc/)*

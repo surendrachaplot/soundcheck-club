@@ -1,6 +1,6 @@
 # Spectrum Waves at La Station - Gare des Mines
 
-Spectrum Waves at La Station - Gare des Mines on Fri 13 Nov, Paris. See the line-up on soundcheck.
+Spectrum Waves at La Station - Gare des Mines on Fri 13 Nov, Paris. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

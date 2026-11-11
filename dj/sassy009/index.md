@@ -1,14 +1,15 @@
 # SASSY 009
 
-SASSY 009 is a Electronica and Experimental artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Substation, Seattle on Wed, 11 Nov 2026.
+SASSY 009 is a Electronica and Experimental artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Substation, Seattle on Wed, 11 Nov 2026.
 
-SASSY 009 is an electronica and experimental artist based in Norway, with 17 gigs on soundcheck across Amsterdam, Berlin, Brighton and Copenhagen and 9 more. Often billed alongside James Massiah, Jawnino and Sophia Stel. Next up: Substation, Seattle on Wed 11 Nov.
+SASSY 009 is an electronica and experimental artist based in Norway, with 18 gigs on soundcheck across Amsterdam, Berlin, Brighton and Copenhagen and 9 more. Often billed alongside James Massiah, Jawnino and Sophia Stel. Next up: Substation, Seattle on Wed 11 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 11 Nov 2026 | Substation | Seattle |
+| Sat, 14 Nov 2026 | Fortune Sound Club | Vancouver |
 | Thu, 19 Nov 2026 | Elsewhere | New York City |
 
 ## Recently played
@@ -26,4 +27,4 @@ SASSY 009 is an electronica and experimental artist based in Norway, with 17 gig
 
 James Massiah, Jawnino, Sophia Stel
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sassy009/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sassy009/)*

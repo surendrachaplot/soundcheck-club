@@ -1,6 +1,6 @@
 # FURY! W/ Panic, 99PRBLMZ, The Saints, Satirized, Hackash at Le Bikini
 
-FURY! W/ Panic, 99PRBLMZ, The Saints, Satirized, Hackash at Le Bikini on Sat 14 Nov, South West. 2 artists: Panic and Satirized. See the line-up on soundcheck.
+FURY! W/ Panic, 99PRBLMZ, The Saints, Satirized, Hackash at Le Bikini on Sat 14 Nov, South West. 3 artists: 99PRBLMZ, Panic and Satirized. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ FURY! W/ Panic, 99PRBLMZ, The Saints, Satirized, Hackash at Le Bikini on Sat 14 
 
 ## Line-up
 
+- 99PRBLMZ
 - Panic
 - Satirized
 

@@ -1,6 +1,6 @@
 # Egebamyasi
 
-Egebamyasi is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Bongo Club, Edinburgh on Fri, 13 Nov 2026.
+Egebamyasi is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Bongo Club, Edinburgh on Fri, 13 Nov 2026.
 
 Egebamyasi is an acid and techno artist based in United Kingdom, with 5 gigs on soundcheck across Cologne, Edinburgh and Glasgow. Often billed alongside Rodent, Accident Machine and Anikonik. Next up: The Bongo Club, Edinburgh on Fri 13 Nov.
 
@@ -21,4 +21,4 @@ Egebamyasi is an acid and techno artist based in United Kingdom, with 5 gigs on 
 
 Rodent, Accident Machine, Anikonik
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/egebamyasi/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/egebamyasi/)*

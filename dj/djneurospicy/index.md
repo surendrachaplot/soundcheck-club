@@ -1,6 +1,6 @@
 # dj neurospicy
 
-dj neurospicy is a Club and Experimental artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at K-Bar Powiśle, Warsaw on Sat, 14 Nov 2026.
+dj neurospicy is a Club and Experimental artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at K-Bar Powiśle, Warsaw on Sat, 14 Nov 2026.
 
 dj neurospicy is a club and experimental artist based in Poland, with 34 gigs on soundcheck across Poznan, Warsaw and Wroclaw. Often billed alongside anymati, KAROLINDA and domi d.. Next up: K-Bar Powiśle, Warsaw on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ dj neurospicy is a club and experimental artist based in Poland, with 34 gigs on
 
 anymati, KAROLINDA, domi d.
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djneurospicy/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djneurospicy/)*

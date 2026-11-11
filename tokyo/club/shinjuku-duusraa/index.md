@@ -1,6 +1,6 @@
 # Shinjuku Duusraa
 
-Shinjuku Duusraa is a music venue in Tokyo with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "ANDREW LOUNGE Vol.101 with Nok & Genichiro" on Thu, 12 Nov 2026.
+Shinjuku Duusraa is a music venue in Tokyo with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "ANDREW LOUNGE Vol.101 with Nok & Genichiro" on Thu, 12 Nov 2026.
 
 Shinjuku Duusraa is a music venue in Tokyo listed on soundcheck. 3 upcoming gigs, with line-ups including Andrew (TREKKIE TRAX), DJ Strawberry, DUCK and 反核機動隊 and 2 more. See dates, start times and who's playing. 3-35-1 Shinjuku, Shinjuku-ku, Tokyo, 160-0022 Japan.
 
@@ -16,4 +16,4 @@ Shinjuku Duusraa is a music venue in Tokyo listed on soundcheck. 3 upcoming gigs
 
 3-35-1 Shinjuku, Shinjuku-ku, Tokyo, 160-0022 Japan, Tokyo
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/shinjuku-duusraa/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/shinjuku-duusraa/)*

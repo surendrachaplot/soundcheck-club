@@ -1,6 +1,6 @@
 # Breakbot
 
-Breakbot is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at ORIGIN, Los Angeles on Fri, 1 Jan 2027.
+Breakbot is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at ORIGIN, Los Angeles on Fri, 1 Jan 2027.
 
 Breakbot is a house and disco artist based in France, with 80 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 28 more. Often billed alongside Irfane, Busy P and Myd. Next up: ORIGIN, Los Angeles on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Breakbot is a house and disco artist based in France, with 80 gigs on soundcheck
 
 Irfane, Busy P, Myd
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/breakbot/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/breakbot/)*

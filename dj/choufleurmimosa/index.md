@@ -1,8 +1,8 @@
 # Choufleur Mimosa
 
-Choufleur Mimosa is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Postkantine, Basel on Thu, 31 Dec 2026.
+Choufleur Mimosa is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Postkantine, Basel on Thu, 31 Dec 2026.
 
-Choufleur Mimosa is a techno and acid artist, with 9 gigs on soundcheck across Basel. Often billed alongside Jelena, Martinesque and Agonis. Next up: Postkantine, Basel on Thu 31 Dec.
+Choufleur Mimosa is a techno and acid artist based in Switzerland, with 9 gigs on soundcheck across Basel. Often billed alongside Jelena, Martinesque and Agonis. Next up: Postkantine, Basel on Thu 31 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Choufleur Mimosa is a techno and acid artist, with 9 gigs on soundcheck across B
 
 Jelena, Martinesque, Agonis
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/choufleurmimosa/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/choufleurmimosa/)*

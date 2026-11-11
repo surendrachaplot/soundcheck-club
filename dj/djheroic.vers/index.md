@@ -1,6 +1,6 @@
 # DJ heroic.vers
 
-DJ heroic.vers is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Jackhammer Chicago, Chicago on Mon, 7 Jun 2027.
+DJ heroic.vers is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Jackhammer Chicago, Chicago on Mon, 7 Jun 2027.
 
 DJ heroic.vers is a house and electro artist based in United States of America, with 5 gigs on soundcheck across Chicago. Often billed alongside Knocktopuss, Geto Mark and Floor Supervisor. Next up: The Jackhammer Chicago, Chicago on Mon 7 Jun.
 
@@ -21,4 +21,4 @@ DJ heroic.vers is a house and electro artist based in United States of America, 
 
 Knocktopuss, Geto Mark, Floor Supervisor
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djheroic.vers/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djheroic.vers/)*

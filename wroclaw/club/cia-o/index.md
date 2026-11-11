@@ -1,6 +1,6 @@
 # Ciało
 
-Ciało is a music venue in Wroclaw with 10 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "VIII URO CIAŁA: Ben UFO, Anime & RBX" on Fri, 13 Nov 2026.
+Ciało is a music venue in Wroclaw with 10 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "VIII URO CIAŁA: Ben UFO, Anime & RBX" on Fri, 13 Nov 2026.
 
 Ciało is a music venue in Wroclaw listed on soundcheck. 10 upcoming gigs, with line-ups including Franczesko, Alarico, Anime and Ben UFO and 2 more. See dates, start times and who's playing. Joannitów 13, 50-086 Wrocław.
 
@@ -23,4 +23,4 @@ Ciało is a music venue in Wroclaw listed on soundcheck. 10 upcoming gigs, with 
 
 Joannitów 13, 50-086 Wrocław, Wroclaw
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/wroclaw/club/cia-o/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/wroclaw/club/cia-o/)*

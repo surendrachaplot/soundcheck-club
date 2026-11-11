@@ -1,6 +1,6 @@
 # 11.27 周五 ｜Azrel China Tour 上海站 with DayJreAmeR Pres at Heim Shanghai
 
-11.27 周五 ｜Azrel China Tour 上海站 with DayJreAmeR Pres at Heim Shanghai on Fri 27 Nov, Shanghai. 1 artist: Azrel. See the line-up on soundcheck.
+11.27 周五 ｜Azrel China Tour 上海站 with DayJreAmeR Pres at Heim Shanghai on Fri 27 Nov, Shanghai. 1 artist: Azrel. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

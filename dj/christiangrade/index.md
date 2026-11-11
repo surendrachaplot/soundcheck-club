@@ -1,6 +1,6 @@
 # Christian Grade
 
-Christian Grade is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Bernsteinsee Velten, Brandenburg on Sat, 26 Jun 2027.
+Christian Grade is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Bernsteinsee Velten, Brandenburg on Sat, 26 Jun 2027.
 
 Christian Grade is a techno and tech house artist based in Germany, with 26 gigs on soundcheck across Berlin, Brandenburg and Vienna. Often billed alongside Felix Reichelt, Cat Vermillion and Ronny Luft. Next up: Bernsteinsee Velten, Brandenburg on Sat 26 Jun.
 
@@ -25,4 +25,4 @@ Christian Grade is a techno and tech house artist based in Germany, with 26 gigs
 
 Felix Reichelt, Cat Vermillion, Ronny Luft
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/christiangrade/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/christiangrade/)*

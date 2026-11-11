@@ -1,8 +1,8 @@
 # PIRAPUS
 
-PIRAPUS is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at The Nest, Nottingham on Sat, 14 Nov 2026.
+PIRAPUS is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Nest, Nottingham on Sat, 14 Nov 2026.
 
-PIRAPUS is a drum & bass and bass artist based in New Zealand, with 16 gigs on soundcheck across Amsterdam, Auckland, Bratislava and Bristol and 10 more. Often billed alongside A Little Sound, Circadian and Culture Shock. Next up: The Nest, Nottingham on Sat 14 Nov.
+PIRAPUS is a drum & bass and bass artist based in New Zealand, with 17 gigs on soundcheck across Amsterdam, Auckland, Bratislava and Bristol and 11 more. Often billed alongside 4am Kru, A Little Sound and Andromedik. Next up: The Nest, Nottingham on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ PIRAPUS is a drum & bass and bass artist based in New Zealand, with 16 gigs on s
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | The Nest | Nottingham |
 | Wed, 30 Dec 2026 | TBA - 433 Settlement Road , Kaiwaka, New Zealand 0573 | North-island |
+| Fri, 1 Jan 2027 | Langley Park | Perth |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ PIRAPUS is a drum & bass and bass artist based in New Zealand, with 16 gigs on s
 
 ## Shares bills with
 
-A Little Sound, Circadian, Culture Shock
+4am Kru, A Little Sound, Andromedik
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pirapus/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pirapus/)*

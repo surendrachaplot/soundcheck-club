@@ -1,6 +1,6 @@
 # Soela
 
-Soela is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Schlachthof Wiesbaden, Frankfurt on Sat, 14 Nov 2026.
+Soela is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Schlachthof Wiesbaden, Frankfurt on Sat, 14 Nov 2026.
 
 Soela is a house and techno artist, with 60 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 5 more. Often billed alongside Black Loops, Carlo and Marie Lung. Next up: Schlachthof Wiesbaden, Frankfurt on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Soela is a house and techno artist, with 60 gigs on soundcheck across Amsterdam,
 
 Black Loops, Carlo, Marie Lung
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soela-ru/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soela-ru/)*

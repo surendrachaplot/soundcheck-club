@@ -1,6 +1,6 @@
 # anastasia
 
-anastasia is a Techno and R&B artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Rote Sonne, Munich on Fri, 13 Nov 2026.
+anastasia is a Techno and R&B artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Rote Sonne, Munich on Fri, 13 Nov 2026.
 
 anastasia is a techno and r&b artist, with 18 gigs on soundcheck across Berlin, Ibiza, Los Angeles and Melbourne and 2 more. Often billed alongside Lisa May, DANZAH and Matteo Freyrie. Next up: Rote Sonne, Munich on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ anastasia is a techno and r&b artist, with 18 gigs on soundcheck across Berlin, 
 
 Lisa May, DANZAH, Matteo Freyrie
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anastasia/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anastasia/)*

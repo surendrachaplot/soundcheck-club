@@ -1,6 +1,6 @@
 # Aydan XR
 
-Aydan XR is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Reverie at the Park, Toronto on Fri, 20 Nov 2026.
+Aydan XR is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Reverie at the Park, Toronto on Fri, 20 Nov 2026.
 
 Aydan XR is a house and tech house artist based in Canada, with 5 gigs on soundcheck across Toronto. Often billed alongside Chloe J, House of Lords and Amoosh. Next up: Reverie at the Park, Toronto on Fri 20 Nov.
 
@@ -21,4 +21,4 @@ Aydan XR is a house and tech house artist based in Canada, with 5 gigs on soundc
 
 Chloe J, House of Lords, Amoosh
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aydanxr/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aydanxr/)*

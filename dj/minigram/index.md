@@ -1,8 +1,8 @@
 # Minigram
 
-Minigram is a Trance and Psytrance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at ://about blank, Berlin on Fri, 27 Nov 2026.
+Minigram is a Trance and Psytrance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at ://about blank, Berlin on Fri, 27 Nov 2026.
 
-Minigram is a trance and psytrance artist, with 6 gigs on soundcheck across Berlin. Often billed alongside Aexhy, Apexsion and C150. Next up: ://about blank, Berlin on Fri 27 Nov.
+Minigram is a trance and psytrance artist based in Germany, with 6 gigs on soundcheck across Berlin. Often billed alongside Aexhy, Apexsion and C150. Next up: ://about blank, Berlin on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -22,4 +22,4 @@ Minigram is a trance and psytrance artist, with 6 gigs on soundcheck across Berl
 
 Aexhy, Apexsion, C150
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/minigram/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/minigram/)*

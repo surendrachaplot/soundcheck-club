@@ -1,6 +1,6 @@
 # A-Tweed
 
-A-Tweed is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Panorama Ocean View Cottage, Okinawa on Sun, 22 Nov 2026.
+A-Tweed is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Panorama Ocean View Cottage, Okinawa on Sun, 22 Nov 2026.
 
 A-Tweed is an acid and techno artist based in Italy, with 48 gigs on soundcheck across Barcelona, Beijing, Berlin and Brussels and 17 more. Often billed alongside H1b1k1, Collider and Cosmic Egg. Next up: Panorama Ocean View Cottage, Okinawa on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ A-Tweed is an acid and techno artist based in Italy, with 48 gigs on soundcheck 
 
 H1b1k1, Collider, Cosmic Egg
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/a-tweed/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/a-tweed/)*

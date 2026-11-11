@@ -1,6 +1,6 @@
 # Haaizey
 
-Haaizey is a Hip-Hop and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Enter Shibuya, Tokyo on Wed, 11 Nov 2026.
+Haaizey is a Hip-Hop and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Enter Shibuya, Tokyo on Wed, 11 Nov 2026.
 
 Haaizey is a hip-hop and bass artist based in Germany, with 45 gigs on soundcheck across Berlin, Cologne, Hamburg and Leipzig and 3 more. Often billed alongside Cho Room, Spriteeyez and DJ SOURCE. Next up: Enter Shibuya, Tokyo on Wed 11 Nov.
 
@@ -25,4 +25,4 @@ Haaizey is a hip-hop and bass artist based in Germany, with 45 gigs on soundchec
 
 Cho Room, Spriteeyez, DJ SOURCE
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/haaizey/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/haaizey/)*

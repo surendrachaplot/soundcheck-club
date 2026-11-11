@@ -1,6 +1,6 @@
 # H Grade
 
-H Grade is a Techno and Dubstep artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Brixton Radio, London on Sat, 21 Nov 2026.
+H Grade is a Techno and Dubstep artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Brixton Radio, London on Sat, 21 Nov 2026.
 
 H Grade is a techno and dubstep artist based in United Kingdom, with 21 gigs on soundcheck across London and Milan. Often billed alongside James Harbrecht, Ylia (UK) and GIZZI. Next up: Brixton Radio, London on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ H Grade is a techno and dubstep artist based in United Kingdom, with 21 gigs on 
 
 James Harbrecht, Ylia (UK), GIZZI
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hgrade/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hgrade/)*

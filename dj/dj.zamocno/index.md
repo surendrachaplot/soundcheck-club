@@ -1,6 +1,6 @@
 # dj.zamocno
 
-dj.zamocno is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at STK 47 WAREHOUSE, Krakow on Sat, 14 Nov 2026.
+dj.zamocno is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at STK 47 WAREHOUSE, Krakow on Sat, 14 Nov 2026.
 
 dj.zamocno is a techno and bass artist based in Poland, with 76 gigs on soundcheck across Krakow, Poland and Warsaw. Often billed alongside Abrew, toutestmagnifique and DOMEL. Next up: STK 47 WAREHOUSE, Krakow on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ dj.zamocno is a techno and bass artist based in Poland, with 76 gigs on soundche
 
 Abrew, toutestmagnifique, DOMEL
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dj.zamocno/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dj.zamocno/)*

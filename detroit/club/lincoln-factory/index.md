@@ -1,6 +1,6 @@
 # Lincoln Factory
 
-Lincoln Factory is a music venue in Detroit with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Mathew Jonson, Shaun Reeves, Nicolas Matar, Ataxia + Mister Joshooa" on Fri, 13 Nov 2026.
+Lincoln Factory is a music venue in Detroit with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Mathew Jonson, Shaun Reeves, Nicolas Matar, Ataxia + Mister Joshooa" on Fri, 13 Nov 2026.
 
 Lincoln Factory is a music venue in Detroit listed on soundcheck. 5 upcoming gigs, with line-ups including Ataxia, Carl Craig, Dasha Rush and Disc Jockey George and 2 more. See dates, start times and who's playing. 1331 Holden Street, Detroit, MI 48202, USA.
 
@@ -18,4 +18,4 @@ Lincoln Factory is a music venue in Detroit listed on soundcheck. 5 upcoming gig
 
 1331 Holden Street, Detroit, MI 48202, USA, Detroit
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/lincoln-factory/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/lincoln-factory/)*

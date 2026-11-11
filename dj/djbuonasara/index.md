@@ -1,6 +1,6 @@
 # DJ Buona Sara
 
-DJ Buona Sara is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at ://about blank, Berlin on Fri, 20 Nov 2026.
+DJ Buona Sara is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at ://about blank, Berlin on Fri, 20 Nov 2026.
 
 DJ Buona Sara is a techno and house artist based in Germany, with 33 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Lenny Fuck, S.3000 and DJ-Ween. Next up: ://about blank, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ DJ Buona Sara is a techno and house artist based in Germany, with 33 gigs on sou
 
 Lenny Fuck, S.3000, DJ-Ween
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbuonasara/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbuonasara/)*

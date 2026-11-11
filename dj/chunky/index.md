@@ -1,6 +1,6 @@
 # Chunky
 
-Chunky is a Garage and Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Hidden, Manchester on Fri, 5 Feb 2027.
+Chunky is a Garage and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Hidden, Manchester on Fri, 5 Feb 2027.
 
 Chunky is a garage and bass artist based in United Kingdom, with 111 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Brisbane and 13 more. Often billed alongside Rich Reason, LARISHKA (UK) and Tom Boogizm. Next up: Hidden, Manchester on Fri 5 Feb.
 
@@ -26,4 +26,4 @@ Chunky is a garage and bass artist based in United Kingdom, with 111 gigs on sou
 
 Rich Reason, LARISHKA (UK), Tom Boogizm
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chunky/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chunky/)*

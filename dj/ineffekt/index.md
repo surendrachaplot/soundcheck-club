@@ -1,6 +1,6 @@
 # Ineffekt
 
-Ineffekt is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at EKKO, Utrecht on Sat, 28 Nov 2026.
+Ineffekt is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at EKKO, Utrecht on Sat, 28 Nov 2026.
 
 Ineffekt is a house and techno artist based in Netherlands, with 67 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 11 more. Often billed alongside Avalon Emerson, Sedef Adasï and Elias Mazian. Next up: EKKO, Utrecht on Sat 28 Nov.
 
@@ -28,4 +28,4 @@ Ineffekt is a house and techno artist based in Netherlands, with 67 gigs on soun
 
 Avalon Emerson, Sedef Adasï, Elias Mazian
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ineffekt/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ineffekt/)*

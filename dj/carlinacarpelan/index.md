@@ -1,6 +1,6 @@
 # Carlina Carpelan
 
-Carlina Carpelan is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Stidilä, Helsinki on Sat, 28 Nov 2026.
+Carlina Carpelan is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Stidilä, Helsinki on Sat, 28 Nov 2026.
 
 Carlina Carpelan is a techno and house artist based in Finland, with 69 gigs on soundcheck across Ghent, Helsinki and Tallinn. Often billed alongside DJ JVS, Ojelma and Lil Tony. Next up: Stidilä, Helsinki on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Carlina Carpelan is a techno and house artist based in Finland, with 69 gigs on 
 
 DJ JVS, Ojelma, Lil Tony
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlinacarpelan/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlinacarpelan/)*

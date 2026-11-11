@@ -1,14 +1,13 @@
 # Rex Club
 
-Rex Club is a music venue in Paris with 17 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Rex Club presents: Gabriel Belabbas b2b Poggio all night long" on Tue, 10 Nov 2026.
+Rex Club is a music venue in Paris with 16 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Shutdown reboost: Rony, Chopsoe Blumhouse, basstrick, Komodo" on Thu, 12 Nov 2026.
 
-Rex Club is a music venue in Paris listed on soundcheck. 17 upcoming gigs, with line-ups including Abr., Avenir, Bakean and Camille Luciani and 2 more. See dates, start times and who's playing. 5 boulevard Poissonnière; 75002; Paris; France.
+Rex Club is a music venue in Paris listed on soundcheck. 16 upcoming gigs, with line-ups including Abr., Avenir, Bakean and Camille Luciani and 2 more. See dates, start times and who's playing. 5 boulevard Poissonnière; 75002; Paris; France.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 10 Nov 2026 | Rex Club presents: Gabriel Belabbas b2b Poggio all night long | Gabriel Belabbas, Poggio |
 | Thu, 12 Nov 2026 | Shutdown reboost: Rony, Chopsoe Blumhouse, basstrick, Komodo | Komodo |
 | Fri, 13 Nov 2026 | Rex Club presents: MrD all night long | MrD |
 | Wed, 18 Nov 2026 | ØUT: Saphire LeFleur, Kou2tatane, Avenir | Avenir |
@@ -18,9 +17,10 @@ Rex Club is a music venue in Paris listed on soundcheck. 17 upcoming gigs, with 
 | Wed, 25 Nov 2026 | Vice City presents: Myman, NTBR, Placiid | NTBR, Placiid |
 | Fri, 27 Nov 2026 | La Scarlette Sugar Rush: Berou, Eloi, Lilith | Eloi, Lilith |
 | Sat, 28 Nov 2026 | Bass Culture: D'Julz all night long | D'Julz |
+| Wed, 2 Dec 2026 | Baccvs - Rite IV: The Pulse - Camporeale, Tomoo, Droms, Camille Luciani, Bakean | Bakean, Camille Luciani, Camporeale (FR) |
 
 ## Address
 
 5 boulevard Poissonnière; 75002; Paris; France, Paris
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/rex-club/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/rex-club/)*

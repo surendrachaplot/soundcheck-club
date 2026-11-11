@@ -1,6 +1,6 @@
 # KaSpar
 
-KaSpar is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Disaster, Lisbon on Sat, 21 Nov 2026.
+KaSpar is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Disaster, Lisbon on Sat, 21 Nov 2026.
 
 KaSpar is a house and deep house artist based in Portugal, with 21 gigs on soundcheck across Cologne, Lisbon, Prague and Warsaw. Often billed alongside Daino, Helder Russo and Piotr Ho. Next up: Disaster, Lisbon on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ KaSpar is a house and deep house artist based in Portugal, with 21 gigs on sound
 
 Daino, Helder Russo, Piotr Ho
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaspar/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaspar/)*

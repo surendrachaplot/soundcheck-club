@@ -1,6 +1,6 @@
 # M. Freelance
 
-M. Freelance is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Powered by: Void Acoustics, Madrid on Sat, 20 Feb 2027.
+M. Freelance is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Powered by: Void Acoustics, Madrid on Sat, 20 Feb 2027.
 
 M. Freelance is a techno and electronica artist based in Spain, with 14 gigs on soundcheck across Madrid. Often billed alongside Brody, OCKTIVE and enjundia94. Next up: TBA - Powered by: Void Acoustics, Madrid on Sat 20 Feb.
 
@@ -26,4 +26,4 @@ M. Freelance is a techno and electronica artist based in Spain, with 14 gigs on 
 
 Brody (2), OCKTIVE, enjundia94
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/m.freelance/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/m.freelance/)*

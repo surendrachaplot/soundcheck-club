@@ -1,6 +1,6 @@
 # Leena Punks
 
-Leena Punks is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Electric Bristol, Bristol on Fri, 4 Dec 2026.
+Leena Punks is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Electric Bristol, Bristol on Fri, 4 Dec 2026.
 
 Leena Punks is a trance and techno artist based in Greece, with 57 gigs on soundcheck across Amsterdam, Austin, Bristol and Ibiza and 10 more. Often billed alongside Amy Wiles, Ben Hemsley and Mat Zo. Next up: Electric Bristol, Bristol on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Leena Punks is a trance and techno artist based in Greece, with 57 gigs on sound
 
 Amy Wiles, Ben Hemsley, Mat Zo
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leenapunks/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leenapunks/)*

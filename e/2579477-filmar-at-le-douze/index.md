@@ -1,6 +1,6 @@
-# FIlmar at Le Douze
+# Filmar at Le Douze
 
-FIlmar at Le Douze on Wed 18 Nov, Geneva. 1 artist: Cashu. See the line-up on soundcheck.
+Filmar at Le Douze on Wed 18 Nov, Geneva. 1 artist: Cashu. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

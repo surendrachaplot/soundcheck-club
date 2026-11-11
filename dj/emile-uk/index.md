@@ -1,0 +1,28 @@
+# Emile
+
+Emile is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at XLR, Manchester on Thu, 19 Nov 2026.
+
+Emile is a house and techno artist based in United Kingdom, with 40 gigs on soundcheck across Liverpool, London and Manchester. Often billed alongside FITS ME FUNNY, Ben Kay and Mase. Next up: XLR, Manchester on Thu 19 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Thu, 19 Nov 2026 | XLR | Manchester |
+
+## Recently played
+
+- XLR, Manchester · Thu, 29 Oct 2026
+- The DBA, Manchester · Fri, 16 Oct 2026
+- XLR, Manchester · Thu, 24 Sept 2026
+- The Loft, Manchester · Sat, 12 Sept 2026
+- Starlane Pizza Bar, London · Fri, 14 Aug 2026
+- Hidden, Manchester · Fri, 3 Jul 2026
+- Eastern Bloc Records, Manchester · Fri, 29 May 2026
+- Soup, Manchester · Fri, 8 May 2026
+
+## Shares bills with
+
+FITS ME FUNNY, Ben Kay, Mase (2)
+
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emile-uk/)*

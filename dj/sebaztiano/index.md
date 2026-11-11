@@ -1,6 +1,6 @@
 # sebaztiano
 
-sebaztiano is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Viuz, Medellin on Thu, 12 Nov 2026.
+sebaztiano is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Viuz, Medellin on Thu, 12 Nov 2026.
 
 sebaztiano is a tech house and house artist based in Colombia, with 53 gigs on soundcheck across Medellin. Often billed alongside Shakur, Euphoria X and Martin Leaves. Next up: Viuz, Medellin on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ sebaztiano is a tech house and house artist based in Colombia, with 53 gigs on s
 
 Shakur, Euphoria X, Martin Leaves
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sebaztiano/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sebaztiano/)*

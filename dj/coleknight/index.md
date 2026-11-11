@@ -1,14 +1,15 @@
 # Cole Knight
 
-Cole Knight is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
+Cole Knight is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
 
-Cole Knight is a house and techno artist based in United States of America, with 107 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 24 more. Often billed alongside Jamie Jones, Ben Sterling and Ms. Mada. Next up: The Concourse Project, Austin on Fri 13 Nov.
+Cole Knight is a house and techno artist based in United States of America, with 108 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 25 more. Often billed alongside Jamie Jones, Ben Sterling and Ms. Mada. Next up: The Concourse Project, Austin on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
+| Sat, 14 Nov 2026 | Bsmnt | Boston |
 | Sun, 6 Dec 2026 | Floyd | Miami |
 | Sat, 12 Dec 2026 | Night We Met | Nashville |
 | Thu, 31 Dec 2026 | Factory Town | Miami |
@@ -28,4 +29,4 @@ Cole Knight is a house and techno artist based in United States of America, with
 
 Jamie Jones, Ben Sterling, Ms. Mada
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/coleknight/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/coleknight/)*

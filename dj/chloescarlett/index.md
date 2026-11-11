@@ -1,6 +1,6 @@
 # Chloe Scarlett
 
-Chloe Scarlett is a Electronica and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Market Hotel, New York City on Sat, 21 Nov 2026.
+Chloe Scarlett is a Electronica and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Market Hotel, New York City on Sat, 21 Nov 2026.
 
 Chloe Scarlett is an electronica and club artist based in United States of America, with 9 gigs on soundcheck across New York City. Often billed alongside espurr, 7038634357 and Certified Jesus Freak. Next up: Market Hotel, New York City on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Chloe Scarlett is an electronica and club artist based in United States of Ameri
 
 espurr, 7038634357, Certified Jesus Freak
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chloescarlett/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chloescarlett/)*

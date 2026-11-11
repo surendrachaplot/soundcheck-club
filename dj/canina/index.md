@@ -1,6 +1,6 @@
 # Canina
 
-Canina is a Guaracha and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Enter Enter Enter, Bogotá on Sat, 14 Nov 2026.
+Canina is a Guaracha and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Enter Enter Enter, Bogotá on Sat, 14 Nov 2026.
 
 Canina is a guaracha and latin bass artist based in Colombia, with 33 gigs on soundcheck across Barcelona, Bogotá, Madrid and Medellin and 2 more. Often billed alongside 2AT, Aleroj and NDRS. Next up: Enter Enter Enter, Bogotá on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Canina is a guaracha and latin bass artist based in Colombia, with 33 gigs on so
 
 2AT, Aleroj, NDRS
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/canina/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/canina/)*

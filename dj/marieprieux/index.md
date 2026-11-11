@@ -1,6 +1,6 @@
 # Marie Prieux
 
-Marie Prieux is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Château Promicea, Marseille on Sat, 28 Nov 2026.
+Marie Prieux is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Château Promicea, Marseille on Sat, 28 Nov 2026.
 
 Marie Prieux is a house and tech house artist based in France, with 6 gigs on soundcheck across Lyon, Marseille and Paris. Often billed alongside Johnny Hemerson, Thomas Andrew and ANTiCLiMAX. Next up: Château Promicea, Marseille on Sat 28 Nov.
 
@@ -22,4 +22,4 @@ Marie Prieux is a house and tech house artist based in France, with 6 gigs on so
 
 Johnny Hemerson, Thomas Andrew, ANTiCLiMAX
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marieprieux/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marieprieux/)*

@@ -1,6 +1,6 @@
 # DJ Bax
 
-DJ Bax is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Fitzroy, Berlin on Fri, 27 Nov 2026.
+DJ Bax is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Fitzroy, Berlin on Fri, 27 Nov 2026.
 
 DJ Bax is a techno and trance artist based in New Zealand, with 21 gigs on soundcheck across Auckland, Berlin, Brisbane and Edinburgh and 9 more. Often billed alongside 2FEL, 4000 Hz and Ageusic. Next up: Fitzroy, Berlin on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ DJ Bax is a techno and trance artist based in New Zealand, with 21 gigs on sound
 
 2FEL, 4000 Hz, Ageusic
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbax/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbax/)*

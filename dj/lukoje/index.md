@@ -1,6 +1,6 @@
 # LUKØJE
 
-LUKØJE is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Overture Studios, Toronto on Sat, 12 Dec 2026.
+LUKØJE is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Overture Studios, Toronto on Sat, 12 Dec 2026.
 
 LUKØJE is a techno and industrial artist based in Canada, with 12 gigs on soundcheck across Toronto. Often billed alongside Cute Execute, MadWen and My Pet Monster. Next up: Overture Studios, Toronto on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ LUKØJE is a techno and industrial artist based in Canada, with 12 gigs on sound
 
 Cute Execute, MadWen, My Pet Monster
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukoje/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukoje/)*

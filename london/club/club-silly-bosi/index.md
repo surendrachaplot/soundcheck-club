@@ -1,6 +1,6 @@
 # Club Silly (Bosi)
 
-Club Silly (Bosi) is a music venue in London with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "YAOI VS YURI PARTY" on Fri, 13 Nov 2026.
+Club Silly (Bosi) is a music venue in London with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "YAOI VS YURI PARTY" on Fri, 13 Nov 2026.
 
 Club Silly (Bosi) is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including Alfie, Raven and Takenbymarshall. See dates, start times and who's playing. Bureau Of Silly ideas, Arch 555, Valentia Place, London, SW9 8PJ.
 
@@ -16,4 +16,4 @@ Club Silly (Bosi) is a music venue in London listed on soundcheck. 3 upcoming gi
 
 Bureau Of Silly ideas, Arch 555, Valentia Place, London, SW9 8PJ, London
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-silly-bosi/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-silly-bosi/)*

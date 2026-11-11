@@ -1,14 +1,15 @@
 # bart ender
 
-bart ender is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at B-SIDE, Warsaw on Sat, 14 Nov 2026.
+bart ender is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at B-SIDE, Warsaw on Sat, 14 Nov 2026.
 
-bart ender is a house and techno artist based in Poland, with 50 gigs on soundcheck across Krakow, Poznan, Warsaw and Wroclaw. Often billed alongside Schmeltzer, bielak and Taan. Next up: B-SIDE, Warsaw on Sat 14 Nov.
+bart ender is a house and techno artist based in Poland, with 51 gigs on soundcheck across Krakow, Poznan, Warsaw and Wroclaw. Often billed alongside Schmeltzer, bielak and Taan. Next up: B-SIDE, Warsaw on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | B-SIDE | Warsaw |
+| Sat, 21 Nov 2026 | MONKEY LOVE | Warsaw |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ bart ender is a house and techno artist based in Poland, with 50 gigs on soundch
 
 Schmeltzer, bielak, Taan
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bartender/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bartender/)*

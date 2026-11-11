@@ -1,6 +1,6 @@
 # Selecta (ES)
 
-Selecta (ES) is a Electronica and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Bangkok Island, Bangkok on Sat, 12 Dec 2026.
+Selecta (ES) is a Electronica and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Bangkok Island, Bangkok on Sat, 12 Dec 2026.
 
 Selecta (ES) is an electronica and drum & bass artist based in Spain, with 33 gigs on soundcheck across Bali, Bangkok, Barcelona and Bilbao and 8 more. Often billed alongside Rayne, ArceX and Badlokk. Next up: Bangkok Island, Bangkok on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Selecta (ES) is an electronica and drum & bass artist based in Spain, with 33 gi
 
 Rayne (1), ArceX, Badlokk
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/selecta-es/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/selecta-es/)*

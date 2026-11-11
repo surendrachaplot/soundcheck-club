@@ -1,13 +1,14 @@
 # Hádes
 
-Hádes is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Central Florida Fairgrounds, Florida on Fri, 23 Apr 2027.
+Hádes is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Dürer Kert, Budapest on Fri, 5 Feb 2027.
 
-Hádes is a techno and hardcore artist based in Netherlands, with 82 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 34 more. Often billed alongside KARAH, CARV and JAZZY. Next up: Central Florida Fairgrounds, Florida on Fri 23 Apr.
+Hádes is a techno and hardcore artist based in Netherlands, with 83 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 34 more. Often billed alongside KARAH, CARV and JAZZY. Next up: Dürer Kert, Budapest on Fri 5 Feb.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 5 Feb 2027 | Dürer Kert | Budapest |
 | Fri, 23 Apr 2027 | Central Florida Fairgrounds | Florida |
 
 ## Recently played
@@ -25,4 +26,4 @@ Hádes is a techno and hardcore artist based in Netherlands, with 82 gigs on sou
 
 KARAH, CARV, JAZZY (2)
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hades/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hades/)*

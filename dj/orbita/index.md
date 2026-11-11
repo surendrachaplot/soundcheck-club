@@ -1,6 +1,6 @@
 # ORBITA
 
-ORBITA is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Tbili Orgia, Tbilisi on Sun, 22 Nov 2026.
+ORBITA is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Tbili Orgia, Tbilisi on Sun, 22 Nov 2026.
 
 ORBITA is a deep house and house artist, with 28 gigs on soundcheck across Bucharest, Mexico City and Tbilisi. Often billed alongside Anketa, borisluvv and Vazhmarr. Next up: Tbili Orgia, Tbilisi on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ ORBITA is a deep house and house artist, with 28 gigs on soundcheck across Bucha
 
 Anketa, borisluvv, Vazhmarr
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/orbita/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/orbita/)*

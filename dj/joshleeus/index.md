@@ -1,6 +1,6 @@
 # Josh Lee (US)
 
-Josh Lee (US) is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Sable Miami, Miami on Thu, 3 Dec 2026.
+Josh Lee (US) is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Sable Miami, Miami on Thu, 3 Dec 2026.
 
 Josh Lee (US) is a tech house and minimal artist based in United States of America, with 6 gigs on soundcheck across Los Angeles and Miami. Often billed alongside Alci, Andrey Pushkarev and Anthea. Next up: Sable Miami, Miami on Thu 3 Dec.
 
@@ -22,4 +22,4 @@ Josh Lee (US) is a tech house and minimal artist based in United States of Ameri
 
 Alci, Andrey Pushkarev, Anthea
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshleeus/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshleeus/)*

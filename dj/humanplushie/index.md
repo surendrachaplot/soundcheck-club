@@ -1,6 +1,6 @@
 # human plushie
 
-human plushie is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at broad hall., Philadelphia on Fri, 13 Nov 2026.
+human plushie is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at broad hall., Philadelphia on Fri, 13 Nov 2026.
 
 human plushie is a techno and house artist based in United States of America, with 29 gigs on soundcheck across Boston, Nashville, New York City and Pennsylvania and 3 more. Often billed alongside rippenzack, Sambee and 6LOV3. Next up: broad hall., Philadelphia on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ human plushie is a techno and house artist based in United States of America, wi
 
 rippenzack, Sambee, 6LOV3
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/humanplushie/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/humanplushie/)*

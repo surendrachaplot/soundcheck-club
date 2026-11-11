@@ -1,13 +1,14 @@
 # Veronica Vasicka
 
-Veronica Vasicka is a Techno and New Wave artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at SideQuest on 44th, Pittsburgh on Sat, 14 Nov 2026.
+Veronica Vasicka is a Techno and New Wave artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at SideQuest on 44th, Pittsburgh on Sat, 14 Nov 2026.
 
-Veronica Vasicka is a techno and new wave artist based in United States of America, with 56 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 16 more. Often billed alongside An-i, Amelia Holt and Andi. Next up: SideQuest on 44th, Pittsburgh on Sat 14 Nov.
+Veronica Vasicka is a techno and new wave artist based in United States of America, with 57 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 16 more. Often billed alongside An-i, Amelia Holt and Andi. Next up: SideQuest on 44th, Pittsburgh on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | SideQuest on 44th | Pittsburgh |
 | Sat, 14 Nov 2026 | SideQuest on 44th | Pittsburgh |
 | Fri, 27 Nov 2026 | EXIT Glasgow | Glasgow |
 | Sat, 28 Nov 2026 | The Cause | London |
@@ -27,4 +28,4 @@ Veronica Vasicka is a techno and new wave artist based in United States of Ameri
 
 An-i, Amelia Holt, Andi
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/veronicavasicka/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/veronicavasicka/)*

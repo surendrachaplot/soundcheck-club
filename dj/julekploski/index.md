@@ -1,6 +1,6 @@
 # julek ploski
 
-julek ploski is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at SB – Space Between, Nürnberg on Sat, 28 Nov 2026.
+julek ploski is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at SB – Space Between, Nürnberg on Sat, 28 Nov 2026.
 
 julek ploski is an experimental and club artist based in Poland, with 35 gigs on soundcheck across Belgrade, Berlin, Brussels and Budapest and 11 more. Often billed alongside 2K88, Emma DJ and Hermeneia. Next up: SB – Space Between, Nürnberg on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ julek ploski is an experimental and club artist based in Poland, with 35 gigs on
 
 2K88, Emma DJ, Hermeneia
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/julekploski/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/julekploski/)*

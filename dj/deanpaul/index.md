@@ -1,6 +1,6 @@
 # Dean Paul
 
-Dean Paul is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Campground 1H from DTLA, Los-angeles on Fri, 16 Apr 2027.
+Dean Paul is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Campground 1H from DTLA, Los-angeles on Fri, 16 Apr 2027.
 
 Dean Paul is a techno and dub techno artist, with 7 gigs on soundcheck across Detroit and Los Angeles. Often billed alongside Aztekan, Truncate and Drumcell. Next up: TBA - Campground 1H from DTLA, Los Angeles on Fri 16 Apr.
 
@@ -23,4 +23,4 @@ Dean Paul is a techno and dub techno artist, with 7 gigs on soundcheck across De
 
 Aztekan, Truncate, Drumcell
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deanpaul/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deanpaul/)*

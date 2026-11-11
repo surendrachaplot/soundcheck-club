@@ -1,6 +1,6 @@
 # dguru
 
-dguru is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Nyapi, Seoul on Thu, 12 Nov 2026.
+dguru is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Nyapi, Seoul on Thu, 12 Nov 2026.
 
 dguru is a house and disco artist based in South Korea, with 174 gigs on soundcheck across Hong Kong, Seoul, South Korea and Tokyo. Often billed alongside RTRP, Conan and grid (KR). Next up: Nyapi, Seoul on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ dguru is a house and disco artist based in South Korea, with 174 gigs on soundch
 
 RTRP, Conan, grid (KR)
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dguru/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dguru/)*

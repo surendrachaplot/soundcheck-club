@@ -1,6 +1,6 @@
 # zazitech
 
-zazitech is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Bike Jesus, Prague on Sat, 14 Nov 2026.
+zazitech is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Bike Jesus, Prague on Sat, 14 Nov 2026.
 
 zazitech is a techno and tech house artist based in Slovakia, with 95 gigs on soundcheck across Berlin, Bratislava, Dresden and Krakow and 3 more. Often billed alongside DDK, jardabpm and RADYK. Next up: Bike Jesus, Prague on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ zazitech is a techno and tech house artist based in Slovakia, with 95 gigs on so
 
 DDK (1), jardabpm, RADYK
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zazitech/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zazitech/)*

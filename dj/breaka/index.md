@@ -1,6 +1,6 @@
 # Breaka
 
-Breaka is a Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Clock Factory, Bristol on Sat, 14 Nov 2026.
+Breaka is a Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Clock Factory, Bristol on Sat, 14 Nov 2026.
 
 Breaka is a bass and breakbeat artist based in United Kingdom, with 124 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 43 more. Often billed alongside Bakey, Yushh and Dubrunner. Next up: The Clock Factory, Bristol on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Breaka is a bass and breakbeat artist based in United Kingdom, with 124 gigs on 
 
 Bakey, Yushh, Dubrunner
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/breaka/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/breaka/)*

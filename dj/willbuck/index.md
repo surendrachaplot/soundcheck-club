@@ -1,6 +1,6 @@
 # Will Buck
 
-Will Buck is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at MAD Radio NYC, New York City on Thu, 12 Nov 2026.
+Will Buck is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at MAD Radio NYC, New York City on Thu, 12 Nov 2026.
 
 Will Buck is a house and techno artist based in United States of America, with 77 gigs on soundcheck across Atlanta, Berlin, Miami and New York City and 2 more. Often billed alongside Deo'jorge, Anna Collecta and Bakke. Next up: MAD Radio NYC, New York City on Thu 12 Nov.
 
@@ -26,4 +26,4 @@ Will Buck is a house and techno artist based in United States of America, with 7
 
 Deo'jorge, Anna Collecta, Bakke
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/willbuck/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/willbuck/)*

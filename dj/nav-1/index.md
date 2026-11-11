@@ -1,6 +1,6 @@
 # Nav (1)
 
-Nav (1) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Super7, Lyon on Thu, 12 Nov 2026.
+Nav (1) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Super7, Lyon on Thu, 12 Nov 2026.
 
 Nav is a techno and trance artist based in France, with 17 gigs on soundcheck across London and Lyon. Often billed alongside De Santi, Drime and Maelita. Next up: Super7, Lyon on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Nav is a techno and trance artist based in France, with 17 gigs on soundcheck ac
 
 De Santi, Drime, Maelita
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nav-1/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nav-1/)*

@@ -1,6 +1,6 @@
 # Waclaw Zimpel
 
-Waclaw Zimpel is a Experimental and Ambient artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Various Venues (EartH theatre, Cafe OTO, ORMSIDE Projects), London on Thu, 18 Feb 2027.
+Waclaw Zimpel is a Experimental and Ambient artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Various Venues (EartH theatre, Cafe OTO, ORMSIDE Projects), London on Thu, 18 Feb 2027.
 
 Waclaw Zimpel is an experimental and ambient artist based in Poland, with 19 gigs on soundcheck across Amsterdam, Austria, Barcelona and Bergen and 10 more. Often billed alongside James Holden, DjRUM and Leftfield. Next up: TBA - Various Venues (EartH theatre, Cafe OTO, ORMSIDE Projects), London on Thu 18 Feb.
 
@@ -27,4 +27,4 @@ Waclaw Zimpel is an experimental and ambient artist based in Poland, with 19 gig
 
 James Holden, DjRUM, Leftfield
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/waclawzimpel/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/waclawzimpel/)*

@@ -1,6 +1,6 @@
 # Dj Quien
 
-Dj Quien is a Hip-Hop and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Triangle, Osaka on Wed, 11 Nov 2026.
+Dj Quien is a Hip-Hop and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Triangle, Osaka on Wed, 11 Nov 2026.
 
 Dj Quien is a hip-hop and drum & bass artist based in Bolivia, with 74 gigs on soundcheck across Berlin, Hamburg, Osaka and Tokyo. Often billed alongside Tommy Lexxus, VILIFY and Boogie Dan. Next up: Triangle, Osaka on Wed 11 Nov.
 
@@ -26,4 +26,4 @@ Dj Quien is a hip-hop and drum & bass artist based in Bolivia, with 74 gigs on s
 
 Tommy Lexxus, VILIFY, Boogie Dan
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djquien-bo/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djquien-bo/)*

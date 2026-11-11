@@ -1,8 +1,8 @@
 # Kancheli
 
-Kancheli is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Kibe, Batumi on Sat, 14 Nov 2026.
+Kancheli is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Kibe, Batumi on Sat, 14 Nov 2026.
 
-Kancheli is a techno and house artist based in Georgia, with 108 gigs on soundcheck across Amsterdam, Athens, Batumi and Berlin and 20 more. Often billed alongside Newa, Ndrx and Zitto. Next up: Kibe, Batumi on Sat 14 Nov.
+Kancheli is a techno and house artist based in Georgia, with 109 gigs on soundcheck across Amsterdam, Athens, Batumi and Berlin and 20 more. Often billed alongside Newa, Ndrx and Zitto. Next up: Kibe, Batumi on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Kancheli is a techno and house artist based in Georgia, with 108 gigs on soundch
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Kibe | Batumi |
 | Fri, 20 Nov 2026 | Bassiani | Tbilisi |
+| Fri, 4 Dec 2026 | Bassiani | Tbilisi |
 | Sat, 12 Dec 2026 | RADION | Amsterdam |
 | Thu, 31 Dec 2026 | Bassiani | Tbilisi |
 
@@ -28,4 +29,4 @@ Kancheli is a techno and house artist based in Georgia, with 108 gigs on soundch
 
 Newa, Ndrx, Zitto
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kancheli/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kancheli/)*

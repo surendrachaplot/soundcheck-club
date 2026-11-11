@@ -1,6 +1,6 @@
 # Mishka
 
-Mishka is a Downtempo and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at objekt klein a, Dresden on Fri, 13 Nov 2026.
+Mishka is a Downtempo and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at objekt klein a, Dresden on Fri, 13 Nov 2026.
 
 Mishka is a downtempo and house artist based in United States of America, with 23 gigs on soundcheck across Amsterdam, Dresden, Rest Of Russia and San Francisco/Oakland and 1 more. Often billed alongside Jeremy Castillo, CTRL and Avalon Emerson. Next up: objekt klein a, Dresden on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Mishka is a downtempo and house artist based in United States of America, with 2
 
 Jeremy Castillo, CTRL, Avalon Emerson
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mishka/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mishka/)*

@@ -1,6 +1,6 @@
 # Bridge 48
 
-Bridge 48 is a music venue in Barcelona with 13 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "B48 live x BEHIND" on Thu, 12 Nov 2026.
+Bridge 48 is a music venue in Barcelona with 13 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "B48 live x BEHIND" on Thu, 12 Nov 2026.
 
 Bridge 48 is a music venue in Barcelona listed on soundcheck. 13 upcoming gigs, with line-ups including Alice Youngling, Angie (CY), Atari Stacey and Aude and 2 more. See dates, start times and who's playing. Carrer de Llull, 48, 08005 Barcelona, España.
 
@@ -23,4 +23,4 @@ Bridge 48 is a music venue in Barcelona listed on soundcheck. 13 upcoming gigs, 
 
 Carrer de Llull, 48, 08005 Barcelona, España, Barcelona
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bridge-48/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bridge-48/)*

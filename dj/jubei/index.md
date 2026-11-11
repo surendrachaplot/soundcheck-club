@@ -1,6 +1,6 @@
 # Jubei
 
-Jubei is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at The Lubber Fiend, Newcastle on Sat, 14 Nov 2026.
+Jubei is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Lubber Fiend, Newcastle on Sat, 14 Nov 2026.
 
 Jubei is a drum & bass and jungle artist based in United Kingdom, with 35 gigs on soundcheck across Basel, Berlin, Bogotá and Brighton and 8 more. Often billed alongside SP:MC, DJ Flight and Breakage. Next up: The Lubber Fiend, Newcastle on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Jubei is a drum & bass and jungle artist based in United Kingdom, with 35 gigs o
 
 SP:MC, DJ Flight, Breakage
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jubei/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jubei/)*

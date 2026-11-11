@@ -1,6 +1,6 @@
 # TERRA TWIINS
 
-TERRA TWIINS is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Humboldthain Club, Berlin on Fri, 13 Nov 2026.
+TERRA TWIINS is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Humboldthain Club, Berlin on Fri, 13 Nov 2026.
 
 TERRA TWIINS is a techno and trance artist based in Germany, with 53 gigs on soundcheck across Berlin, Erfurt, Frankfurt and Hamburg and 1 more. Often billed alongside SOHOE, Stinny Stone and Amo (IT). Next up: Humboldthain Club, Berlin on Fri 13 Nov.
 
@@ -28,4 +28,4 @@ TERRA TWIINS is a techno and trance artist based in Germany, with 53 gigs on sou
 
 SOHOE, Stinny Stone, Amo (IT)
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/terratwiins/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/terratwiins/)*

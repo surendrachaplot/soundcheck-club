@@ -1,6 +1,6 @@
 # GEORGE aka DR.RADSPORT
 
-GEORGE aka DR.RADSPORT is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Graf Karl, Kassel on Sat, 21 Nov 2026.
+GEORGE aka DR.RADSPORT is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Graf Karl, Kassel on Sat, 21 Nov 2026.
 
 GEORGE aka DR.RADSPORT is a trance and techno artist based in Germany, with 60 gigs on soundcheck across Berlin, Budapest, Cologne and Dortmund / Essen and 13 more. Often billed alongside DJ Achim Feuervogel, zwilling. and DICE. Next up: Graf Karl, Kassel on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ GEORGE aka DR.RADSPORT is a trance and techno artist based in Germany, with 60 g
 
 DJ Achim Feuervogel, zwilling., DICE
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/georgede/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/georgede/)*

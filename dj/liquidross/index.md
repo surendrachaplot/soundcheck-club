@@ -1,6 +1,6 @@
 # Liquid Ross
 
-Liquid Ross is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Fox and Firkin, London on Sat, 14 Nov 2026.
+Liquid Ross is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Fox and Firkin, London on Sat, 14 Nov 2026.
 
 Liquid Ross is a psytrance and techno artist based in United Kingdom, with 8 gigs on soundcheck across Leeds, London, Manchester and Sheffield. Often billed alongside DF Tram, MINALI and System 7. Next up: The Fox and Firkin, London on Sat 14 Nov.
 
@@ -24,4 +24,4 @@ Liquid Ross is a psytrance and techno artist based in United Kingdom, with 8 gig
 
 DF Tram, MINALI, System 7
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/liquidross/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/liquidross/)*

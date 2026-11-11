@@ -1,6 +1,6 @@
 # CHKLTE
 
-CHKLTE is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at MAD Radio NYC, New York City on Thu, 12 Nov 2026.
+CHKLTE is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at MAD Radio NYC, New York City on Thu, 12 Nov 2026.
 
 CHKLTE is a house and minimal artist based in United States of America, with 137 gigs on soundcheck across Amsterdam, Athens, Atlanta and Auckland and 39 more. Often billed alongside David Berrie, Kev Gee and Brett Johnson. Next up: MAD Radio NYC, New York City on Thu 12 Nov.
 
@@ -9,7 +9,7 @@ CHKLTE is a house and minimal artist based in United States of America, with 137
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 12 Nov 2026 | MAD Radio NYC | New York City |
-| Sat, 14 Nov 2026 | Signal | New York City |
+| Sun, 15 Nov 2026 | Signal | New York City |
 
 ## Recently played
 
@@ -26,4 +26,4 @@ CHKLTE is a house and minimal artist based in United States of America, with 137
 
 David Berrie, Kev Gee, Brett Johnson
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chklte/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chklte/)*

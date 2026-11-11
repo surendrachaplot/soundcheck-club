@@ -1,6 +1,6 @@
 # Daniel Allen
 
-Daniel Allen is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at XuXa, Austin on Thu, 19 Nov 2026.
+Daniel Allen is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at XuXa, Austin on Thu, 19 Nov 2026.
 
 Daniel Allen is a house and deep house artist based in United States of America, with 40 gigs on soundcheck across Austin, Chicago, Denver and Detroit and 5 more. Often billed alongside Marcus Lott, Bonnie Stoneman and Evan Guerra. Next up: XuXa, Austin on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Daniel Allen is a house and deep house artist based in United States of America,
 
 Marcus Lott, Bonnie Stoneman, Evan Guerra
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielallen/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielallen/)*

@@ -1,6 +1,6 @@
 # Sydney Sarayeva
 
-Sydney Sarayeva is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Sainte-Catherine Hall, Montreal on Sat, 14 Nov 2026.
+Sydney Sarayeva is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Sainte-Catherine Hall, Montreal on Sat, 14 Nov 2026.
 
 Sydney Sarayeva is a tech house and techno artist based in Canada, with 29 gigs on soundcheck across Montreal and Toronto. Often billed alongside Manzone & Strong, Barroness and Miz Megs. Next up: Sainte-Catherine Hall, Montreal on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Sydney Sarayeva is a tech house and techno artist based in Canada, with 29 gigs 
 
 Manzone & Strong, Barroness, Miz Megs
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sydneysarayeva/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sydneysarayeva/)*

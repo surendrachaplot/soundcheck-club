@@ -1,6 +1,6 @@
 # Sekta Selekta
 
-Sekta Selekta is a music venue in Krakow with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "exo_series: 004/ Olivia, MATRIX3K, Aim Ana" on Fri, 13 Nov 2026.
+Sekta Selekta is a music venue in Krakow with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "exo_series: 004/ Olivia, MATRIX3K, Aim Ana" on Fri, 13 Nov 2026.
 
 Sekta Selekta is a music venue in Krakow listed on soundcheck. 5 upcoming gigs, with line-ups including Aim Ana, Aircraft, Hozy and Hubsond and 2 more. See dates, start times and who's playing. Nowa, 31-056 Kraków, Poland.
 
@@ -18,4 +18,4 @@ Sekta Selekta is a music venue in Krakow listed on soundcheck. 5 upcoming gigs, 
 
 Nowa, 31-056 Kraków, Poland, Krakow
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/sekta-selekta/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/sekta-selekta/)*

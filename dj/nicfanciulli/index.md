@@ -1,8 +1,8 @@
 # Nic Fanciulli
 
-Nic Fanciulli is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Parque de la Ciudad, CABA, Buenos Aires on Sat, 14 Nov 2026.
+Nic Fanciulli is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Parque de la Ciudad, CABA, Buenos Aires on Sat, 14 Nov 2026.
 
-Nic Fanciulli is a house and tech house artist based in United Kingdom, with 216 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 50 more. Often billed alongside Andrea Oliva, Raul Rodriguez and Chelina Manuhutu. Next up: TBA - Parque de la Ciudad, CABA, Buenos Aires on Sat 14 Nov.
+Nic Fanciulli is a house and tech house artist based in United Kingdom, with 217 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 50 more. Often billed alongside Andrea Oliva, Raul Rodriguez and Chelina Manuhutu. Next up: TBA - Parque de la Ciudad, CABA, Buenos Aires on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Nic Fanciulli is a house and tech house artist based in United Kingdom, with 216
 | Sun, 22 Nov 2026 | TBA | Bologna |
 | Fri, 11 Dec 2026 | Radius | Chicago |
 | Sat, 12 Dec 2026 | Brooklyn Pacha | New York City |
+| Sat, 19 Dec 2026 | The Bassement | Madrid |
 | Thu, 31 Dec 2026 | Savaya Bali | Bali |
 
 ## Recently played
@@ -31,4 +32,4 @@ Nic Fanciulli is a house and tech house artist based in United Kingdom, with 216
 
 Andrea Oliva, Raul Rodriguez, Chelina Manuhutu
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicfanciulli/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicfanciulli/)*

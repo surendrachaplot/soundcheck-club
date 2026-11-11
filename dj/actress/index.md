@@ -1,6 +1,6 @@
 # Actress
 
-Actress is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at control, Bucharest on Thu, 19 Nov 2026.
+Actress is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at control, Bucharest on Thu, 19 Nov 2026.
 
 Actress is an experimental and techno artist based in United Kingdom, with 91 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 32 more. Often billed alongside Kode9, Suzanne Ciani and Blawan. Next up: control, Bucharest on Thu 19 Nov.
 
@@ -26,4 +26,4 @@ Actress is an experimental and techno artist based in United Kingdom, with 91 gi
 
 Kode9, Suzanne Ciani, Blawan
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/actress/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/actress/)*

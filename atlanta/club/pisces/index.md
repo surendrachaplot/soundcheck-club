@@ -1,6 +1,6 @@
 # Pisces
 
-Pisces is a music venue in Atlanta with 6 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "La Puteria with EQ" on Fri, 13 Nov 2026.
+Pisces is a music venue in Atlanta with 6 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "La Puteria with EQ" on Fri, 13 Nov 2026.
 
 Pisces is a music venue in Atlanta listed on soundcheck. 6 upcoming gigs, with line-ups including Ben UFO, EQ (Estratosfera + Qiri), HAAi and Tromac and 1 more. See dates, start times and who's playing. 483 Edgewood Ave SE, Atlanta Ga 30312.
 
@@ -19,4 +19,4 @@ Pisces is a music venue in Atlanta listed on soundcheck. 6 upcoming gigs, with l
 
 483 Edgewood Ave SE, Atlanta Ga 30312, Atlanta
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/atlanta/club/pisces/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/atlanta/club/pisces/)*

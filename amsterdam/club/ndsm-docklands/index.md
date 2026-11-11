@@ -1,6 +1,6 @@
 # NDSM Docklands
 
-NDSM Docklands is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "DGTL Amsterdam 2027 - Saturday" on Sat, 27 Mar 2027.
+NDSM Docklands is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "DGTL Amsterdam 2027 - Saturday" on Sat, 27 Mar 2027.
 
 NDSM Docklands is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, with line-ups including Adiel, Amelie Lens, Bambounou and Bella Claxton and 2 more. See dates, start times and who's playing. Kinetisch Noord, Tt. Neveritaweg 15; 1033 Amsterdam-Noord; Amsterdam; Netherlands.
 
@@ -15,4 +15,4 @@ NDSM Docklands is a music venue in Amsterdam listed on soundcheck. 2 upcoming gi
 
 Kinetisch Noord, Tt. Neveritaweg 15; 1033 Amsterdam-Noord; Amsterdam; Netherlands, Amsterdam
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ndsm-docklands/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ndsm-docklands/)*

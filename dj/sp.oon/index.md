@@ -1,6 +1,6 @@
 # Sp.oon
 
-Sp.oon is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at WaterBear Venue, Brighton on Fri, 11 Dec 2026.
+Sp.oon is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at WaterBear Venue, Brighton on Fri, 11 Dec 2026.
 
 Sp.oon is a progressive house and techno artist based in United Kingdom, with 7 gigs on soundcheck across Brighton. Often billed alongside Matt Bird aka Birdman, Xpanda and Nadia. Next up: WaterBear Venue, Brighton on Fri 11 Dec.
 
@@ -23,4 +23,4 @@ Sp.oon is a progressive house and techno artist based in United Kingdom, with 7 
 
 Matt Bird aka Birdman, Xpanda, Nadia
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sp.oon/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sp.oon/)*

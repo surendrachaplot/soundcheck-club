@@ -1,6 +1,6 @@
 # Circus Tokyo
 
-Circus Tokyo is a music venue in Tokyo with 20 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Louis the Child Circus Tokyo" on Fri, 13 Nov 2026.
+Circus Tokyo is a music venue in Tokyo with 20 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Louis the Child Circus Tokyo" on Fri, 13 Nov 2026.
 
 Circus Tokyo is a music venue in Tokyo listed on soundcheck. 20 upcoming gigs, with line-ups including Blacky, CEED, Coretex and Dash (CZ) and 2 more. See dates, start times and who's playing. 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002.
 
@@ -23,4 +23,4 @@ Circus Tokyo is a music venue in Tokyo listed on soundcheck. 20 upcoming gigs, w
 
 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002, Tokyo
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/circus-tokyo/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/circus-tokyo/)*

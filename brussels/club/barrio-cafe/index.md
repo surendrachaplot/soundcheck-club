@@ -1,6 +1,6 @@
 # Barrio Cafe
 
-Barrio Cafe is a music venue in Brussels with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Forty Two presents Bisoux & Jef Nice" on Fri, 13 Nov 2026.
+Barrio Cafe is a music venue in Brussels with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Forty Two presents Bisoux & Jef Nice" on Fri, 13 Nov 2026.
 
 Barrio Cafe is a music venue in Brussels listed on soundcheck. 2 upcoming gigs, with line-ups including BISOUX, Hyzno, Jef Nice and SchokoZitrone. See dates, start times and who's playing. Pl. de la Chapelle 6, 1000 Bruxelles, Belgium.
 
@@ -15,4 +15,4 @@ Barrio Cafe is a music venue in Brussels listed on soundcheck. 2 upcoming gigs, 
 
 Pl. de la Chapelle 6, 1000 Bruxelles, Belgium, Brussels
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/barrio-cafe/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/barrio-cafe/)*

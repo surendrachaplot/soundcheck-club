@@ -1,6 +1,6 @@
 # Moontalk (UK)
 
-Moontalk (UK) is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Lab.Club, London on Sat, 21 Nov 2026.
+Moontalk (UK) is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Lab.Club, London on Sat, 21 Nov 2026.
 
 Moontalk (UK) is a bass and dubstep artist based in United Kingdom, with 15 gigs on soundcheck across London. Often billed alongside limi, DJ Programma and Lay Kus. Next up: Lab.Club, London on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Moontalk (UK) is a bass and dubstep artist based in United Kingdom, with 15 gigs
 
 limi, DJ Programma, Lay Kus
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moontalkuk/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moontalkuk/)*

@@ -1,14 +1,14 @@
 # K3VKO
 
-K3VKO is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at PKH Warehouse, Berlin on Sat, 21 Nov 2026.
+K3VKO is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Alte Fabrik, Greifswalder Str. 23A 10407, Berlin on Sat, 21 Nov 2026.
 
-K3VKO is a psytrance and techno artist based in Germany, with 9 gigs on soundcheck across Berlin. Often billed alongside RHYTMOX, Daora and Momentune. Next up: PKH Warehouse, Berlin on Sat 21 Nov.
+K3VKO is a psytrance and techno artist based in Germany, with 9 gigs on soundcheck across Berlin. Often billed alongside RHYTMOX, Daora and Momentune. Next up: TBA - Alte Fabrik, Greifswalder Str. 23A 10407, Berlin on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | PKH Warehouse | Berlin |
+| Sat, 21 Nov 2026 | TBA - Alte Fabrik, Greifswalder Str. 23A 10407 | Berlin |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ K3VKO is a psytrance and techno artist based in Germany, with 9 gigs on soundche
 
 RHYTMOX, Daora, Momentune
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/k3vko/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/k3vko/)*

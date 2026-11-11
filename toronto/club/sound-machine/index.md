@@ -1,6 +1,6 @@
 # Sound Machine
 
-Sound Machine is a music venue in Toronto with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. The next is "Roots Of House with Roy Davis Jr., Wes Green, DJ Yogi" on Sat, 5 Dec 2026.
+Sound Machine is a music venue in Toronto with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "Roots Of House with Roy Davis Jr., Wes Green, DJ Yogi" on Sat, 5 Dec 2026.
 
 Sound Machine is a music venue in Toronto listed on soundcheck. 1 upcoming gig, with line-ups including Roy Davis Jr and Yogi. See dates, start times and who's playing. 178 Bathurst Street.
 
@@ -14,4 +14,4 @@ Sound Machine is a music venue in Toronto listed on soundcheck. 1 upcoming gig, 
 
 178 Bathurst Street, Toronto
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/sound-machine/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/sound-machine/)*

@@ -1,6 +1,6 @@
 # luci.
 
-luci. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA, Berlin on Thu, 12 Nov 2026.
+luci. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA, Berlin on Thu, 12 Nov 2026.
 
 luci. is a techno and house artist based in United States of America, with 8 gigs on soundcheck across Berlin and Lyon. Often billed alongside arbër, Al Aslan and Amo (IT). Next up: TBA, Berlin on Thu 12 Nov.
 
@@ -24,4 +24,4 @@ luci. is a techno and house artist based in United States of America, with 8 gig
 
 arbër, Al Aslan, Amo (IT)
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luci-1/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luci-1/)*

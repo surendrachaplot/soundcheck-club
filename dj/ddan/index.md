@@ -1,8 +1,8 @@
 # D.Dan
 
-D.Dan is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Turbina, Budapest on Fri, 13 Nov 2026.
+D.Dan is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Turbina, Budapest on Fri, 13 Nov 2026.
 
-D.Dan is a techno and house artist based in United States of America, with 238 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 76 more. Often billed alongside DJ TOOL, Hyperaktivist and Yazzus. Next up: Turbina, Budapest on Fri 13 Nov.
+D.Dan is a techno and house artist based in United States of America, with 239 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 76 more. Often billed alongside DJ TOOL, Hyperaktivist and Yazzus. Next up: Turbina, Budapest on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ D.Dan is a techno and house artist based in United States of America, with 238 g
 
 DJ TOOL, Hyperaktivist, Yazzus
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ddan/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ddan/)*

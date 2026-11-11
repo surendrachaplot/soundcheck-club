@@ -1,6 +1,6 @@
 # KATARINA
 
-KATARINA is a Drum & Bass and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - EAST LONDON, London on Sat, 5 Dec 2026.
+KATARINA is a Drum & Bass and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - EAST LONDON, London on Sat, 5 Dec 2026.
 
 KATARINA is a drum & bass and disco artist based in United Kingdom, with 9 gigs on soundcheck across Berlin, London, Munich and New York City. Often billed alongside Dove (UK), Episode Three and Ben Balance. Next up: TBA - EAST LONDON, London on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ KATARINA is a drum & bass and disco artist based in United Kingdom, with 9 gigs 
 
 Dove (UK), Episode Three, Ben Balance
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katarina/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katarina/)*

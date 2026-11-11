@@ -1,6 +1,6 @@
 # Jemima from the Bible
 
-Jemima from the Bible is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - The Ceilidh Place Venue, Scotland on Sat, 14 Nov 2026.
+Jemima from the Bible is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - The Ceilidh Place Venue, Scotland on Sat, 14 Nov 2026.
 
 Jemima from the Bible is a techno and bass artist based in United Kingdom, with 17 gigs on soundcheck across Edinburgh, Glasgow and Scotland. Often billed alongside DJ CABLECAR, Lara Sinclair and Dansa. Next up: TBA - The Ceilidh Place Venue, Scotland on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Jemima from the Bible is a techno and bass artist based in United Kingdom, with 
 
 DJ CABLECAR, Lara Sinclair, Dansa
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jemimafromthebible/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jemimafromthebible/)*

@@ -1,6 +1,6 @@
 # Patterns
 
-Patterns is a music venue in Brighton with 10 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Housekeeping with Wilba" on Fri, 13 Nov 2026.
+Patterns is a music venue in Brighton with 10 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Housekeeping with Wilba" on Fri, 13 Nov 2026.
 
 Patterns is a music venue in Brighton listed on soundcheck. 10 upcoming gigs, with line-ups including Asa Ray, Atoxyl, Badger (UK) and Efan and 2 more. See dates, start times and who's playing. 10 Marine Parade, BN2 1TL, Brighton, United Kingdom.
 
@@ -23,4 +23,4 @@ Patterns is a music venue in Brighton listed on soundcheck. 10 upcoming gigs, wi
 
 10 Marine Parade, BN2 1TL, Brighton, United Kingdom, Brighton
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/patterns/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/patterns/)*

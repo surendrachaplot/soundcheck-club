@@ -1,6 +1,6 @@
 # Leja Hazer
 
-Leja Hazer is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Podlasie Club, Chicago on Sat, 28 Nov 2026.
+Leja Hazer is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Podlasie Club, Chicago on Sat, 28 Nov 2026.
 
 Leja Hazer is a house and funk / soul artist based in United States of America, with 42 gigs on soundcheck across Chicago, Detroit and Tokyo. Often billed alongside Yukiko, Inés (US) and Buen Viaje. Next up: Podlasie Club, Chicago on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Leja Hazer is a house and funk / soul artist based in United States of America, 
 
 Yukiko, Inés (US), Buen Viaje
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lejahazer/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lejahazer/)*

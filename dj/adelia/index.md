@@ -1,6 +1,6 @@
 # Adelia
 
-Adelia is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Ankali & Planeta Za, Prague on Sat, 12 Dec 2026.
+Adelia is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Ankali & Planeta Za, Prague on Sat, 12 Dec 2026.
 
 Adelia is a techno and dub techno artist, with 6 gigs on soundcheck across Barcelona, Budapest and Prague. Often billed alongside AMORAL, Alderaan and Anika Kunst. Next up: Ankali & Planeta Za, Prague on Sat 12 Dec.
 
@@ -22,4 +22,4 @@ Adelia is a techno and dub techno artist, with 6 gigs on soundcheck across Barce
 
 AMORAL, Alderaan, Anika Kunst
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adelia/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adelia/)*

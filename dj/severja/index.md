@@ -1,6 +1,6 @@
 # Severja
 
-Severja is a Techno and IDM artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA, Madrid on Fri, 27 Nov 2026.
+Severja is a Techno and IDM artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA, Madrid on Fri, 27 Nov 2026.
 
 Severja is a techno and idm artist based in Germany, with 60 gigs on soundcheck across Adelaide, Amsterdam, Berlin and Chengdu and 16 more. Often billed alongside Aion, Polygonia and Tangela. Next up: TBA, Madrid on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Severja is a techno and idm artist based in Germany, with 60 gigs on soundcheck 
 
 Aion, Polygonia, Tangela
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/severja/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/severja/)*

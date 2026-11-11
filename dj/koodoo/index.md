@@ -1,6 +1,6 @@
 # Koodoo
 
-Koodoo is a Ambient and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Péniche Éliane, Brussels on Fri, 4 Dec 2026.
+Koodoo is a Ambient and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Péniche Éliane, Brussels on Fri, 4 Dec 2026.
 
 Koodoo is an ambient and techno artist based in Belgium, with 22 gigs on soundcheck across Brussels, Ghent and Lisbon. Often billed alongside Timmerman, Ampe and Emily Jeanne. Next up: Péniche Éliane, Brussels on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Koodoo is an ambient and techno artist based in Belgium, with 22 gigs on soundch
 
 Timmerman, Ampe, Emily Jeanne
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/koodoo/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/koodoo/)*

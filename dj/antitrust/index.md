@@ -1,6 +1,6 @@
 # Antitrust
 
-Antitrust is a House and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Wych, Toronto on Thu, 12 Nov 2026.
+Antitrust is a House and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Wych, Toronto on Thu, 12 Nov 2026.
 
 Antitrust is a house and experimental artist based in United States of America, with 7 gigs on soundcheck across Toronto. Often billed alongside SouthPawBrown, Annamite and Barroness. Next up: The Wych, Toronto on Thu 12 Nov.
 
@@ -23,4 +23,4 @@ Antitrust is a house and experimental artist based in United States of America, 
 
 SouthPawBrown, Annamite, Barroness
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antitrust/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antitrust/)*

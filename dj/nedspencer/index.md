@@ -1,14 +1,15 @@
 # Ned Spencer
 
-Ned Spencer is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Phonox, London on Thu, 19 Nov 2026.
+Ned Spencer is a House and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Phonox, London on Thu, 19 Nov 2026.
 
-Ned Spencer is a house and hip-hop artist based in United Kingdom, with 32 gigs on soundcheck across London and Newcastle. Often billed alongside DJelley, Oneman and Reece Hodges. Next up: Phonox, London on Thu 19 Nov.
+Ned Spencer is a house and hip-hop artist based in United Kingdom, with 33 gigs on soundcheck across Bristol, London and Newcastle. Often billed alongside DJelley, Oneman and Reece Hodges. Next up: Phonox, London on Thu 19 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 19 Nov 2026 | Phonox | London |
+| Thu, 4 Feb 2027 | Moon Club | Bristol |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Ned Spencer is a house and hip-hop artist based in United Kingdom, with 32 gigs 
 
 DJelley, Oneman, Reece Hodges
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nedspencer/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nedspencer/)*

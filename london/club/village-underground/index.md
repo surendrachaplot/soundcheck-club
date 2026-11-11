@@ -1,8 +1,8 @@
 # Village Underground
 
-Village Underground is a music venue in London with 15 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Red Axes - Village Underground" on Fri, 13 Nov 2026.
+Village Underground is a music venue in London with 16 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Red Axes - Village Underground" on Fri, 13 Nov 2026.
 
-Village Underground is a music venue in London listed on soundcheck. 15 upcoming gigs, with line-ups including Acid Arab, aeriform, Caspa and Channel One Sound and 2 more. See dates, start times and who's playing. 54 Holywell Lane; Shoreditch; London EC2A 3PQ; United Kingdom.
+Village Underground is a music venue in London listed on soundcheck. 16 upcoming gigs, with line-ups including Acid Arab, aeriform, Bridge (NY) and Caspa and 2 more. See dates, start times and who's playing. 54 Holywell Lane; Shoreditch; London EC2A 3PQ; United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Village Underground is a music venue in London listed on soundcheck. 15 upcoming
 
 54 Holywell Lane; Shoreditch; London EC2A 3PQ; United Kingdom, London
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/village-underground/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/village-underground/)*

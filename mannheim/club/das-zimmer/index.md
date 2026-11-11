@@ -1,8 +1,8 @@
 # Das Zimmer
 
-Das Zimmer is a music venue in Mannheim with 7 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "UPPER 90, Mija" on Sat, 14 Nov 2026.
+Das Zimmer is a music venue in Mannheim with 16 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "UPPER 90, Mija" on Sat, 14 Nov 2026.
 
-Das Zimmer is a music venue in Mannheim listed on soundcheck. 7 upcoming gigs, with line-ups including alejandrø, DJ Unholy, FENIM0RE and Karotte and 2 more. See dates, start times and who's playing. Q5 Passage 14-22, 68161, Mannheim.
+Das Zimmer is a music venue in Mannheim listed on soundcheck. 16 upcoming gigs, with line-ups including alejandrø, David Löhlein, DJ Unholy and Fabe and 2 more. See dates, start times and who's playing. Q5 Passage 14-22, 68161, Mannheim.
 
 ## What's on
 
@@ -14,10 +14,13 @@ Das Zimmer is a music venue in Mannheim listed on soundcheck. 7 upcoming gigs, w
 | Sat, 28 Nov 2026 | AEREA live, FENIM0RE | FENIM0RE |
 | Fri, 4 Dec 2026 | Kø:lab | Kø:lab, alejandrø |
 | Fri, 11 Dec 2026 | SHOKI287 | L3OO, SHOKI287 |
-| Fri, 25 Dec 2026 | Karotte ANL | Karotte |
+| Sat, 12 Dec 2026 | Klanglos | Klanglos |
+| Sat, 19 Dec 2026 | Frühschicht | Fabe, Steffen Deux |
+| Sat, 19 Dec 2026 | Marsolo, Fabe presented by Supersonic | Fabe, Marsolo, RDL.wav |
+| Thu, 24 Dec 2026 | Friendsmas |  |
 
 ## Address
 
 Q5 Passage 14-22, 68161, Mannheim, Mannheim
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/mannheim/club/das-zimmer/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/mannheim/club/das-zimmer/)*

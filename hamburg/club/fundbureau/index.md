@@ -1,6 +1,6 @@
 # Fundbureau
 
-Fundbureau is a music venue in Hamburg with 9 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "DJ Sonnenbrand // Rittmus // FRAME KOLLEKTIV" on Fri, 13 Nov 2026.
+Fundbureau is a music venue in Hamburg with 9 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "DJ Sonnenbrand // Rittmus // FRAME KOLLEKTIV" on Fri, 13 Nov 2026.
 
 Fundbureau is a music venue in Hamburg listed on soundcheck. 9 upcoming gigs, with line-ups including Baime, Convinzed, DJ Schnürschuh and DJ Sonnenbrand and 2 more. See dates, start times and who's playing. Altländer Str. 1120095 Hamburg, Germany.
 
@@ -22,4 +22,4 @@ Fundbureau is a music venue in Hamburg listed on soundcheck. 9 upcoming gigs, wi
 
 Altländer Str. 1120095 Hamburg, Germany, Hamburg
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/fundbureau/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/fundbureau/)*

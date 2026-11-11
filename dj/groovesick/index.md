@@ -1,6 +1,6 @@
 # GROOVESICK
 
-GROOVESICK is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Lehmann Club, Stuttgart on Fri, 20 Nov 2026.
+GROOVESICK is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Lehmann Club, Stuttgart on Fri, 20 Nov 2026.
 
 GROOVESICK is a techno and house artist based in Germany, with 50 gigs on soundcheck across Basel, Berlin, Cologne and Frankfurt and 4 more. Often billed alongside FJUSHA, NIKO THE K1D and Obscure Shape. Next up: Lehmann Club, Stuttgart on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ GROOVESICK is a techno and house artist based in Germany, with 50 gigs on soundc
 
 FJUSHA, NIKO THE K1D, Obscure Shape
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/groovesick/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/groovesick/)*

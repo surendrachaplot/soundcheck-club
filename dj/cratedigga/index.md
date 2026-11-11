@@ -1,6 +1,6 @@
 # Crate Digga
 
-Crate Digga is a Funk / Soul and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Tigris, Detroit on Thu, 12 Nov 2026.
+Crate Digga is a Funk / Soul and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Tigris, Detroit on Thu, 12 Nov 2026.
 
 Crate Digga is a funk / soul and house artist, with 34 gigs on soundcheck across Detroit. Often billed alongside Eddie Logix, littlefaace and Andrés. Next up: Tigris, Detroit on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Crate Digga is a funk / soul and house artist, with 34 gigs on soundcheck across
 
 Eddie Logix, littlefaace, Andrés
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cratedigga/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cratedigga/)*

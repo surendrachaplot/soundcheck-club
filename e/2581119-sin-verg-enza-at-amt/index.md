@@ -1,6 +1,6 @@
-# Sin Vergüenza at AMT
+# SIN VERGÜENZA at AMT
 
-Sin Vergüenza at AMT on Sat 12 Dec, Berlin. 1 artist: SHOKI287. Techno and Reggaeton. See the line-up on soundcheck.
+SIN VERGÜENZA at AMT on Sat 12 Dec, Berlin. 7 artists: Bamela Paywatch, FORTUNATA, HARRIS (DE) and Iguana and 3 more. Techno and Reggaeton. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,12 @@ Sin Vergüenza at AMT on Sat 12 Dec, Berlin. 1 artist: SHOKI287. Techno and Regg
 
 ## Line-up
 
+- Bamela Paywatch
+- FORTUNATA
+- HARRIS (DE)
+- Iguana (2)
+- MYSS KETA
+- Ojos de miel
 - SHOKI287
 
 *Source: [soundcheck](https://soundcheck.club/e/2581119-sin-verg-enza-at-amt/)*

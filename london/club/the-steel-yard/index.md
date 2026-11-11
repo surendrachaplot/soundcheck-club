@@ -1,6 +1,6 @@
 # The Steel Yard
 
-The Steel Yard is a music venue in London with 15 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Bass Face // DNB, HOUSE:TECHNO, UKG // 360° LEVEL UP *SPECIAL GUESTS* FREE TICKETS + FREE DRINK" on Fri, 13 Nov 2026.
+The Steel Yard is a music venue in London with 15 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Bass Face // DNB, HOUSE:TECHNO, UKG // 360° LEVEL UP *SPECIAL GUESTS* FREE TICKETS + FREE DRINK" on Fri, 13 Nov 2026.
 
 The Steel Yard is a music venue in London listed on soundcheck. 15 upcoming gigs, with line-ups including CLEIDO, AfroKillerz, Arrosa and Ashley Knights and 2 more. See dates, start times and who's playing. 13-16 Allhallows Lane, London, EC4R 3UL.
 
@@ -23,4 +23,4 @@ The Steel Yard is a music venue in London listed on soundcheck. 15 upcoming gigs
 
 13-16 Allhallows Lane, London, EC4R 3UL, London
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-steel-yard/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-steel-yard/)*

@@ -1,14 +1,15 @@
 # Sergio SP
 
-Sergio SP is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Common/UNDRGRND, Calgary on Fri, 20 Nov 2026.
+Sergio SP is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Common/UNDRGRND, Calgary on Fri, 20 Nov 2026.
 
-Sergio SP is a techno and house artist based in Canada, with 30 gigs on soundcheck across Calgary, Toronto and Vancouver. Often billed alongside Max Ulis, Audio Space and Ciel. Next up: Common/UNDRGRND, Calgary on Fri 20 Nov.
+Sergio SP is a techno and house artist based in Canada, with 31 gigs on soundcheck across Calgary, Toronto and Vancouver. Often billed alongside Max Ulis, Audio Space and Ciel. Next up: Common/UNDRGRND, Calgary on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Common/UNDRGRND | Calgary |
+| Sat, 21 Nov 2026 | TBA - Disclosed to ticket holders  | Calgary |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Sergio SP is a techno and house artist based in Canada, with 30 gigs on soundche
 
 Max Ulis, Audio Space, Ciel
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sergiosp/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sergiosp/)*

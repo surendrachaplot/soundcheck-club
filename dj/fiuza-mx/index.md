@@ -1,6 +1,6 @@
 # FIUZA (MX)
 
-FIUZA (MX) is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Supernatural Haus, Miami on Wed, 11 Nov 2026.
+FIUZA (MX) is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Supernatural Haus, Miami on Wed, 11 Nov 2026.
 
 FIUZA (MX) is a techno and trance artist based in Mexico, with 12 gigs on soundcheck across Miami. Often billed alongside Madison Kay, PROLETAR and KUJO (US). Next up: Supernatural Haus, Miami on Wed 11 Nov.
 
@@ -27,4 +27,4 @@ FIUZA (MX) is a techno and trance artist based in Mexico, with 12 gigs on soundc
 
 Madison Kay, PROLETAR, KUJO (US)
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fiuza-mx/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fiuza-mx/)*

@@ -1,6 +1,6 @@
 # Scott Braithwaite
 
-Scott Braithwaite is a Deep House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Arch535, London on Sat, 12 Dec 2026.
+Scott Braithwaite is a Deep House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Arch535, London on Sat, 12 Dec 2026.
 
 Scott Braithwaite is a deep house and techno artist based in United Kingdom, with 6 gigs on soundcheck across London. Often billed alongside Drew Karma, Junior Richards and Colin Dale. Next up: Arch535, London on Sat 12 Dec.
 
@@ -22,4 +22,4 @@ Scott Braithwaite is a deep house and techno artist based in United Kingdom, wit
 
 Drew Karma, Junior Richards, Colin Dale
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scottbraithwaite/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scottbraithwaite/)*

@@ -1,6 +1,6 @@
 # Steve Ward
 
-Steve Ward is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Billboard The Venue, Melbourne on Mon, 25 Jan 2027.
+Steve Ward is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Billboard The Venue, Melbourne on Mon, 25 Jan 2027.
 
 Steve Ward is a house and techno artist based in Australia, with 6 gigs on soundcheck across Melbourne. Often billed alongside Caleb Jay, Amber Ferraro and VANNA. Next up: Billboard The Venue, Melbourne on Mon 25 Jan.
 
@@ -22,4 +22,4 @@ Steve Ward is a house and techno artist based in Australia, with 6 gigs on sound
 
 Caleb Jay, Amber Ferraro, VANNA
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/steveward/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/steveward/)*

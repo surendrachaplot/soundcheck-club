@@ -1,6 +1,6 @@
 # Jamesey
 
-Jamesey is a Deep House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Timber Loft, London on Sat, 5 Dec 2026.
+Jamesey is a Deep House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Timber Loft, London on Sat, 5 Dec 2026.
 
 Jamesey is a deep house and disco artist, with 58 gigs on soundcheck across London and Paris. Often billed alongside Matt L-S, Davide Del Vecchio and Kojay. Next up: The Timber Loft, London on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Jamesey is a deep house and disco artist, with 58 gigs on soundcheck across Lond
 
 Matt L-S, Davide Del Vecchio, Kojay
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesey/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesey/)*

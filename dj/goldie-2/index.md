@@ -1,13 +1,14 @@
 # goldie (2)
 
-goldie (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Indiego Glocksee, Hannover on Fri, 20 Nov 2026.
+goldie (2) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at KREUZWERK, Berlin on Sat, 14 Nov 2026.
 
-goldie is a house and techno artist, with 70 gigs on soundcheck across Auckland, Berlin, Cologne and Dresden and 5 more. Often billed alongside Multifun, CHOREOPHILA and Big Honey. Next up: Indiego Glocksee, Hannover on Fri 20 Nov.
+goldie is a house and techno artist, with 71 gigs on soundcheck across Auckland, Berlin, Cologne and Dresden and 5 more. Often billed alongside Multifun, CHOREOPHILA and Big Honey. Next up: KREUZWERK, Berlin on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | KREUZWERK | Berlin |
 | Fri, 20 Nov 2026 | Indiego Glocksee | Hannover |
 
 ## Recently played
@@ -25,4 +26,4 @@ goldie is a house and techno artist, with 70 gigs on soundcheck across Auckland,
 
 Multifun, CHOREOPHILA, Big Honey
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/goldie-2/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/goldie-2/)*

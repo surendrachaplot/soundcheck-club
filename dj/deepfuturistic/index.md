@@ -1,6 +1,6 @@
 # Deep Futuristic
 
-Deep Futuristic is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Golden Lion, Manchester on Sat, 6 Feb 2027.
+Deep Futuristic is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Golden Lion, Manchester on Sat, 6 Feb 2027.
 
 Deep Futuristic is a disco and house artist based in Italy, with 17 gigs on soundcheck across Manchester, Naples and Rome. Often billed alongside Alfonso Mauro, Nicola Mazzetti and Call Super. Next up: The Golden Lion, Manchester on Sat 6 Feb.
 
@@ -25,4 +25,4 @@ Deep Futuristic is a disco and house artist based in Italy, with 17 gigs on soun
 
 Alfonso Mauro, Nicola Mazzetti, Call Super
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deepfuturistic/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deepfuturistic/)*

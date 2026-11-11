@@ -1,6 +1,6 @@
 # Omar+
 
-Omar+ is a House and Tech House artist with 13 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Fleet Steps - Mrs Macquaries Point, Sydney on Sat, 21 Nov 2026.
+Omar+ is a House and Tech House artist with 13 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Fleet Steps - Mrs Macquaries Point, Sydney on Sat, 21 Nov 2026.
 
 Omar+ is a house and tech house artist based in United Kingdom, with 86 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Barcelona and 36 more. Often billed alongside Max Dean, Obskur and Ben Sterling. Next up: Fleet Steps - Mrs Macquaries Point, Sydney on Sat 21 Nov.
 
@@ -36,4 +36,4 @@ Omar+ is a house and tech house artist based in United Kingdom, with 86 gigs on 
 
 Max Dean, Obskur, Ben Sterling
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/omar+/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/omar+/)*

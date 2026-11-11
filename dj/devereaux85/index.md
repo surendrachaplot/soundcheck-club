@@ -1,6 +1,6 @@
 # Devereaux 85
 
-Devereaux 85 is a Italo Disco and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Melkweg, Amsterdam on Sat, 12 Dec 2026.
+Devereaux 85 is a Italo Disco and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Melkweg, Amsterdam on Sat, 12 Dec 2026.
 
 Devereaux 85 is an italo disco and club artist based in Netherlands, with 6 gigs on soundcheck across Amsterdam. Often billed alongside David Vunk, Bordello Soundsystem and Droom. Next up: Melkweg, Amsterdam on Sat 12 Dec.
 
@@ -22,4 +22,4 @@ Devereaux 85 is an italo disco and club artist based in Netherlands, with 6 gigs
 
 David Vunk, Bordello Soundsystem, Droom
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/devereaux85/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/devereaux85/)*

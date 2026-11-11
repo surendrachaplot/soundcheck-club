@@ -1,6 +1,6 @@
 # Pablito
 
-Pablito is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Dr Banana Club, Sao Paulo on Fri, 13 Nov 2026.
+Pablito is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Dr Banana Club, Sao Paulo on Fri, 13 Nov 2026.
 
 Pablito is a house and techno artist, with 6 gigs on soundcheck across Mexico City, Münster, Rio de Janeiro and Sao Paulo. Often billed alongside Bauhouse, Black Coffee and Brix. Next up: Dr Banana Club, Sao Paulo on Fri 13 Nov.
 
@@ -22,4 +22,4 @@ Pablito is a house and techno artist, with 6 gigs on soundcheck across Mexico Ci
 
 Bauhouse, Black Coffee, Brix
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pablito/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pablito/)*

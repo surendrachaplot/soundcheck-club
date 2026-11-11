@@ -1,6 +1,6 @@
 # Kotic Couture
 
-Kotic Couture is a Club and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Halo Baltimore, Baltimore on Thu, 31 Dec 2026.
+Kotic Couture is a Club and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Halo Baltimore, Baltimore on Thu, 31 Dec 2026.
 
 Kotic Couture is a club and house artist based in United States of America, with 39 gigs on soundcheck across Baltimore, New York City and Washington DC. Often billed alongside flotussin, Dee Clark and Tromac. Next up: Halo Baltimore, Baltimore on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Kotic Couture is a club and house artist based in United States of America, with
 
 flotussin, Dee Clark, Tromac
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/koticcouture/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/koticcouture/)*

@@ -1,8 +1,8 @@
 # Joaquin Dehays
 
-Joaquin Dehays is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Crack Bellmer, Berlin on Fri, 20 Nov 2026.
+Joaquin Dehays is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Crack Bellmer, Berlin on Fri, 20 Nov 2026.
 
-Joaquin Dehays is a techno and tech house artist, with 6 gigs on soundcheck across Berlin. Often billed alongside Jogo, Juan Neira and El Fulminador. Next up: Crack Bellmer, Berlin on Fri 20 Nov.
+Joaquin Dehays is a techno and tech house artist based in Chile, with 6 gigs on soundcheck across Berlin. Often billed alongside Jogo, Juan Neira and El Fulminador. Next up: Crack Bellmer, Berlin on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -22,4 +22,4 @@ Joaquin Dehays is a techno and tech house artist, with 6 gigs on soundcheck acro
 
 Jogo, Juan Neira, El Fulminador
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joaquindehays/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joaquindehays/)*

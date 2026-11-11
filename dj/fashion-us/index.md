@@ -1,13 +1,14 @@
 # FASHION (US)
 
-FASHION (US) is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Public Works, San Francisco/Oakland on Thu, 31 Dec 2026.
+FASHION (US) is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - TWO FLOOR WAREHOUSE , New York City on Fri, 20 Nov 2026.
 
-FASHION (US) is a techno and club artist based in United States of America, with 80 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Beijing and 15 more. Often billed alongside Makadsi, Memphy and Dangerous Rose. Next up: Public Works, San Francisco/Oakland on Thu 31 Dec.
+FASHION (US) is a techno and club artist based in United States of America, with 81 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Beijing and 15 more. Often billed alongside Makadsi, Memphy and Dangerous Rose. Next up: TBA - TWO FLOOR WAREHOUSE , New York City on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | TBA - TWO FLOOR WAREHOUSE  | New York City |
 | Thu, 31 Dec 2026 | Public Works | San Francisco/Oakland |
 
 ## Recently played
@@ -25,4 +26,4 @@ FASHION (US) is a techno and club artist based in United States of America, with
 
 Makadsi, Memphy, Dangerous Rose
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fashion-us/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fashion-us/)*

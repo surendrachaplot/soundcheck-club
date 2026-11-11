@@ -1,6 +1,6 @@
 # OHM
 
-OHM is a music venue in Berlin with 18 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Astral Industries" on Thu, 12 Nov 2026.
+OHM is a music venue in Berlin with 18 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Astral Industries" on Thu, 12 Nov 2026.
 
 OHM is a music venue in Berlin listed on soundcheck. 18 upcoming gigs, with line-ups including Andrew James Gustav, Anja Schneider, Appleblim and Ario and 2 more. See dates, start times and who's playing. Köpenicker Str. 70, 10179 Berlin, Germany.
 
@@ -23,4 +23,4 @@ OHM is a music venue in Berlin listed on soundcheck. 18 upcoming gigs, with line
 
 Köpenicker Str. 70, 10179 Berlin, Germany, Berlin
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ohm/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ohm/)*

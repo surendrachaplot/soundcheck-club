@@ -1,6 +1,6 @@
 # Borusiade
 
-Borusiade is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at control, Bucharest on Fri, 13 Nov 2026.
+Borusiade is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at control, Bucharest on Fri, 13 Nov 2026.
 
 Borusiade is a house and techno artist based in Romania, with 17 gigs on soundcheck across Berlin and Bucharest. Often billed alongside Alexandru Jijian, Admina and Kubin. Next up: control, Bucharest on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Borusiade is a house and techno artist based in Romania, with 17 gigs on soundch
 
 Alexandru Jijian, Admina, Kubin
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/borusiade/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/borusiade/)*

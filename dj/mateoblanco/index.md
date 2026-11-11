@@ -1,6 +1,6 @@
 # Mateo Blanco
 
-Mateo Blanco is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Il Mercato Centrale, Melbourne on Sat, 21 Nov 2026.
+Mateo Blanco is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Il Mercato Centrale, Melbourne on Sat, 21 Nov 2026.
 
 Mateo Blanco is a techno and tech house artist based in Canada, with 32 gigs on soundcheck across Melbourne and Toronto. Often billed alongside Etwas, Matteo Freyrie and HYBE. Next up: TBA - Il Mercato Centrale, Melbourne on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Mateo Blanco is a techno and tech house artist based in Canada, with 32 gigs on 
 
 Etwas, Matteo Freyrie, HYBE
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mateoblanco/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mateoblanco/)*

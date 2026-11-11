@@ -1,6 +1,6 @@
 # McGregor
 
-McGregor is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Raleigh Chapel, London on Wed, 2 Dec 2026.
+McGregor is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Raleigh Chapel, London on Wed, 2 Dec 2026.
 
 McGregor is a techno and bass artist based in United Kingdom, with 7 gigs on soundcheck across London and Milan. Often billed alongside Klahrk, Alpha Fett Baby and Anunaku. Next up: Raleigh Chapel, London on Wed 2 Dec.
 
@@ -23,4 +23,4 @@ McGregor is a techno and bass artist based in United Kingdom, with 7 gigs on sou
 
 Klahrk, Alpha Fett Baby, Anunaku
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mcgregor/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mcgregor/)*

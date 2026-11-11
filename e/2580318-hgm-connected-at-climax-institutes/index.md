@@ -1,10 +1,10 @@
 # HGM Connected at Climax-Institutes
 
-HGM Connected at Climax-Institutes on Sat 14 Nov, Stuttgart. House. See the line-up on soundcheck.
+HGM Connected at Climax-Institutes on Thu 12 Nov, Stuttgart. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 14 Nov 2026 |
+| Date | Thu, 12 Nov 2026 |
 | Venue | Climax-Institutes |
 | City | Stuttgart |
 

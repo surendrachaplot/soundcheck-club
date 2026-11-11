@@ -1,6 +1,6 @@
 # Daylomar
 
-Daylomar is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Al Qudra Desert, Dubai on Sat, 21 Nov 2026.
+Daylomar is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Al Qudra Desert, Dubai on Sat, 21 Nov 2026.
 
 Daylomar is a house and tech house artist based in United Kingdom, with 11 gigs on soundcheck across Barcelona, Dubai, Lisbon and Milan and 1 more. Often billed alongside Omar Fayyad, Hameed and Hugo Martinez. Next up: TBA - Al Qudra Desert, Dubai on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Daylomar is a house and tech house artist based in United Kingdom, with 11 gigs 
 
 Omar Fayyad, Hameed, Hugo Martinez
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daylomar/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daylomar/)*

@@ -1,6 +1,6 @@
 # Azumaya
 
-Azumaya is a music venue in Tokyo with 13 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "SubCurrent Vol.18" on Wed, 11 Nov 2026.
+Azumaya is a music venue in Tokyo with 13 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "SubCurrent Vol.18" on Wed, 11 Nov 2026.
 
 Azumaya is a music venue in Tokyo listed on soundcheck. 13 upcoming gigs, with line-ups including ACID NAGATA, AMIDAdrive, bungo and DJ Yogurt and 2 more. See dates, start times and who's playing. 2F, 2-14-8 , Dogenzaka, Shibuya-ku, Tokyo, 150-0043, Japan.
 
@@ -23,4 +23,4 @@ Azumaya is a music venue in Tokyo listed on soundcheck. 13 upcoming gigs, with l
 
 2F, 2-14-8 , Dogenzaka, Shibuya-ku, Tokyo, 150-0043, Japan, Tokyo
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/azumaya/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/azumaya/)*

@@ -1,6 +1,6 @@
 # DJ Kemit
 
-DJ Kemit is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Echo Room, Atlanta on Sat, 14 Nov 2026.
+DJ Kemit is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Echo Room, Atlanta on Sat, 14 Nov 2026.
 
 DJ Kemit is a house and afro house artist based in United States of America, with 43 gigs on soundcheck across Atlanta, Chicago, Detroit and London and 6 more. Often billed alongside Kai Alce, Salah Ananse and Rich Medina. Next up: Echo Room, Atlanta on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ DJ Kemit is a house and afro house artist based in United States of America, wit
 
 Kai Alce, Salah Ananse, Rich Medina
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djkemit/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djkemit/)*

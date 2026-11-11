@@ -1,6 +1,6 @@
 # Sibil (1)
 
-Sibil (1) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA, Mexico City on Sat, 14 Nov 2026.
+Sibil (1) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA, Mexico City on Sat, 14 Nov 2026.
 
 Sibil is a house and techno artist based in France, with 140 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 40 more. Often billed alongside Mayell, Tau Car and Tomas Station. Next up: TBA, Mexico City on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Sibil is a house and techno artist based in France, with 140 gigs on soundcheck 
 
 Mayell, Tau Car, Tomas Station
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sibil-1/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sibil-1/)*

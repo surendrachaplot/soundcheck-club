@@ -1,6 +1,6 @@
 # Naz (AU)
 
-Naz (AU) is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - HYATT ON THE BUND- VUE BAR, Shanghai on Thu, 31 Dec 2026.
+Naz (AU) is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - HYATT ON THE BUND- VUE BAR, Shanghai on Thu, 31 Dec 2026.
 
 Naz (AU) is a progressive house and house artist based in Australia, with 11 gigs on soundcheck across Glasgow, London, New York City and Shanghai and 1 more. Often billed alongside Alternate State, Andres. and Basti. Next up: TBA - HYATT ON THE BUND- VUE BAR, Shanghai on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Naz (AU) is a progressive house and house artist based in Australia, with 11 gig
 
 Alternate State, Andres., Basti
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/naz-au/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/naz-au/)*

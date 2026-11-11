@@ -1,6 +1,6 @@
 # Drom
 
-Drom is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "THE HUSTLE (70s DISCO PARTY)" on Fri, 13 Nov 2026.
+Drom is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "THE HUSTLE (70s DISCO PARTY)" on Fri, 13 Nov 2026.
 
 Drom is a music venue in New York City listed on soundcheck. 4 upcoming gigs. See dates, start times and who's playing. 85 Avenue A, New York, NY 10009.
 
@@ -17,4 +17,4 @@ Drom is a music venue in New York City listed on soundcheck. 4 upcoming gigs. Se
 
 85 Avenue A, New York, NY 10009, New York City
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/drom/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/drom/)*

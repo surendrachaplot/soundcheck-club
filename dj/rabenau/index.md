@@ -1,6 +1,6 @@
 # rabenau
 
-rabenau is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Korpuss, Riga on Sat, 21 Nov 2026.
+rabenau is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Korpuss, Riga on Sat, 21 Nov 2026.
 
 rabenau is a techno and electronica artist based in Latvia, with 13 gigs on soundcheck across Riga. Often billed alongside 2B, Smiltis and Radiotehnika. Next up: Korpuss, Riga on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ rabenau is a techno and electronica artist based in Latvia, with 13 gigs on soun
 
 2B (1), Smiltis, Radiotehnika
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rabenau/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rabenau/)*

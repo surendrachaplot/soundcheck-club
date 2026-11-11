@@ -1,6 +1,6 @@
 # Doran
 
-Doran is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Garage Noord, Amsterdam on Sun, 15 Nov 2026.
+Doran is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Garage Noord, Amsterdam on Sun, 15 Nov 2026.
 
 Doran is a techno and house artist based in Netherlands, with 9 gigs on soundcheck across Amsterdam and The Hague. Often billed alongside Ferenc Ratkai, Bastienne and Bito. Next up: Garage Noord, Amsterdam on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Doran is a techno and house artist based in Netherlands, with 9 gigs on soundche
 
 Ferenc Ratkai, Bastienne, Bito
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doran/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doran/)*

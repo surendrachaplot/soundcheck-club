@@ -1,6 +1,6 @@
 # Apotheka
 
-Apotheka is a music venue in Manila with 7 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Up North Presents: The Fourth Dimension" on Wed, 11 Nov 2026.
+Apotheka is a music venue in Manila with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Up North Presents: The Fourth Dimension" on Wed, 11 Nov 2026.
 
 Apotheka is a music venue in Manila listed on soundcheck. 7 upcoming gigs, with line-ups including Duality, Kugel, Shaoxing and YUKI (JP). See dates, start times and who's playing. G/F, White Rabbit Blg, 5672 Dona Carmen St, Cor General Luna, Makati, 1210 Metro Manila, Philippines.
 
@@ -20,4 +20,4 @@ Apotheka is a music venue in Manila listed on soundcheck. 7 upcoming gigs, with 
 
 G/F, White Rabbit Blg, 5672 Dona Carmen St, Cor General Luna, Makati, 1210 Metro Manila, Philippines, Manila
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/manila/club/apotheka/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/manila/club/apotheka/)*

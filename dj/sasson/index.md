@@ -1,6 +1,6 @@
 # Sasson
 
-Sasson is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Sunset Grill, Istanbul on Sat, 21 Nov 2026.
+Sasson is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Sunset Grill, Istanbul on Sat, 21 Nov 2026.
 
 Sasson is a house and deep house artist based in France, with 80 gigs on soundcheck across Barcelona, Ibiza, Istanbul and Lisbon and 8 more. Often billed alongside Mont Rouge, Notre Dame and Amour Propre. Next up: Sunset Grill, Istanbul on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Sasson is a house and deep house artist based in France, with 80 gigs on soundch
 
 Mont Rouge, Notre Dame, Amour Propre
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sasson/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sasson/)*

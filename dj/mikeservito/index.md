@@ -1,14 +1,14 @@
 # Mike Servito
 
-Mike Servito is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Secret Dungeon Location, Pittsburgh on Fri, 13 Nov 2026.
+Mike Servito is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Collapse, Pittsburgh on Fri, 13 Nov 2026.
 
-Mike Servito is a house and techno artist based in United States of America, with 318 gigs on soundcheck across Amsterdam, Atlanta, Austin and Berlin and 38 more. Often billed alongside Shaun J. Wright, Erika and Carlos Souffront. Next up: TBA - Secret Dungeon Location, Pittsburgh on Fri 13 Nov.
+Mike Servito is a house and techno artist based in United States of America, with 318 gigs on soundcheck across Amsterdam, Atlanta, Austin and Berlin and 38 more. Often billed alongside Shaun J. Wright, Erika and Carlos Souffront. Next up: TBA - Collapse, Pittsburgh on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | TBA - Secret Dungeon Location | Pittsburgh |
+| Fri, 13 Nov 2026 | TBA - Collapse | Pittsburgh |
 | Sat, 14 Nov 2026 | Nowadays | New York City |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
 | Sat, 21 Nov 2026 | The Berkeley Suite | Glasgow |
@@ -34,4 +34,4 @@ Mike Servito is a house and techno artist based in United States of America, wit
 
 Shaun J. Wright, Erika, Carlos Souffront
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeservito/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeservito/)*

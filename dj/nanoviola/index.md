@@ -1,6 +1,6 @@
 # Nanoviola
 
-Nanoviola is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Am Hawerkamp, Münster on Fri, 11 Dec 2026.
+Nanoviola is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Am Hawerkamp, Münster on Fri, 11 Dec 2026.
 
 Nanoviola is a techno and trance artist based in Germany, with 23 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Frankfurt and 9 more. Often billed alongside Mark Dekoda, Klanglos and Alchemiah. Next up: Am Hawerkamp, Münster on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Nanoviola is a techno and trance artist based in Germany, with 23 gigs on soundc
 
 Mark Dekoda, Klanglos, Alchemiah
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nanoviola/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nanoviola/)*

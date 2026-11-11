@@ -1,6 +1,6 @@
 # Irfane
 
-Irfane is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at ORIGIN, Los Angeles on Fri, 1 Jan 2027.
+Irfane is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at ORIGIN, Los Angeles on Fri, 1 Jan 2027.
 
 Irfane is a house and disco artist based in France, with 22 gigs on soundcheck across Athens, Geneva, Ibiza and London and 8 more. Often billed alongside Breakbot, Busy P and Tatyana Jane. Next up: ORIGIN, Los Angeles on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Irfane is a house and disco artist based in France, with 22 gigs on soundcheck a
 
 Breakbot, Busy P, Tatyana Jane
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/irfane/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/irfane/)*

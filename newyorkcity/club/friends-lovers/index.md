@@ -1,6 +1,6 @@
 # Friends & Lovers
 
-Friends & Lovers is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "TONE SHIFT PRESENTS: JUST MILK EP RELEASE PARTY" on Wed, 11 Nov 2026.
+Friends & Lovers is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "TONE SHIFT PRESENTS: JUST MILK EP RELEASE PARTY" on Wed, 11 Nov 2026.
 
 Friends & Lovers is a music venue in New York City listed on soundcheck. 6 upcoming gigs, with line-ups including Chenoa Tarin, DJ Prestige, Donwill and EL GARO and 1 more. See dates, start times and who's playing. 641 Classon Avenue Brooklyn NY.
 
@@ -19,4 +19,4 @@ Friends & Lovers is a music venue in New York City listed on soundcheck. 6 upcom
 
 641 Classon Avenue Brooklyn NY, New York City
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/friends-lovers/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/friends-lovers/)*

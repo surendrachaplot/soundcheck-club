@@ -1,6 +1,6 @@
 # Host (CA)
 
-Host (CA) is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at MR Duck, Mexico City on Fri, 13 Nov 2026.
+Host (CA) is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at MR Duck, Mexico City on Fri, 13 Nov 2026.
 
 Host (CA) is a house and garage artist based in Canada, with 32 gigs on soundcheck across Amsterdam, Berlin, Cologne and Frankfurt and 10 more. Often billed alongside Cardiac, Choirboi and Craft. Next up: MR Duck, Mexico City on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Host (CA) is a house and garage artist based in Canada, with 32 gigs on soundche
 
 Cardiac, Choirboi, Craft
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/host-ca/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/host-ca/)*

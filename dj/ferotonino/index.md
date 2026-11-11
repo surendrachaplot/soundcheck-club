@@ -1,6 +1,6 @@
 # FEROTONINO
 
-FEROTONINO is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Lokschuppen Berlin, Berlin on Sat, 12 Dec 2026.
+FEROTONINO is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Lokschuppen Berlin, Berlin on Sat, 12 Dec 2026.
 
 FEROTONINO is a trance and techno artist based in Germany, with 25 gigs on soundcheck across Berlin, Hannover, Leipzig and Münster. Often billed alongside Amøn, YËDM and Cobb Douglas. Next up: Lokschuppen Berlin, Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ FEROTONINO is a trance and techno artist based in Germany, with 25 gigs on sound
 
 Amøn, YËDM, Cobb Douglas
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ferotonino/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ferotonino/)*

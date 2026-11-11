@@ -1,6 +1,6 @@
 # DJ KAZUMA
 
-DJ KAZUMA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Compufunk Records, Osaka on Sat, 21 Nov 2026.
+DJ KAZUMA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Compufunk Records, Osaka on Sat, 21 Nov 2026.
 
 DJ KAZUMA is a techno and house artist based in Japan, with 40 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside AOKI takamasa, YAMA(JP/OSK) and CHIDA. Next up: Compufunk Records, Osaka on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ DJ KAZUMA is a techno and house artist based in Japan, with 40 gigs on soundchec
 
 AOKI takamasa, YAMA(JP/OSK), CHIDA
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djkazuma/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djkazuma/)*

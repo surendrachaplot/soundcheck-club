@@ -1,6 +1,6 @@
 # Honey Dijon
 
-Honey Dijon is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
+Honey Dijon is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
 
 Honey Dijon is a house and techno artist based in United States of America, with 214 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 47 more. Often billed alongside Chloé Caillet, Mochakk and CHRIS STASSY. Next up: The Wildlands, Melbourne on Fri 20 Nov.
 
@@ -31,4 +31,4 @@ Honey Dijon is a house and techno artist based in United States of America, with
 
 Chloé Caillet, Mochakk, CHRIS STASSY
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/misshoneydijon/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/misshoneydijon/)*

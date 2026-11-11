@@ -1,6 +1,6 @@
 # Sébastien Forrester
 
-Sébastien Forrester is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Péniche Adélaïde, Paris on Sat, 5 Dec 2026.
+Sébastien Forrester is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Péniche Adélaïde, Paris on Sat, 5 Dec 2026.
 
 Sébastien Forrester is a house and techno artist based in France, with 9 gigs on soundcheck across Brussels, Lyon, Montreal and Paris and 2 more. Often billed alongside Brodinski, Sara Persico and 0neo. Next up: Péniche Adélaïde, Paris on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Sébastien Forrester is a house and techno artist based in France, with 9 gigs o
 
 Brodinski, Sara Persico, 0neo
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastienforrester/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastienforrester/)*

@@ -1,6 +1,6 @@
 # KJAER
 
-KJAER is a Techno and Psytrance artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at The Loft, Vienna on Fri, 20 Nov 2026.
+KJAER is a Techno and Psytrance artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Loft, Vienna on Fri, 20 Nov 2026.
 
 KJAER is a techno and psytrance artist based in Austria, with 6 gigs on soundcheck across Prague and Vienna. Often billed alongside JP eXbert, Richard Steinschlag and B E C K. Next up: The Loft, Vienna on Fri 20 Nov.
 
@@ -22,4 +22,4 @@ KJAER is a techno and psytrance artist based in Austria, with 6 gigs on soundche
 
 JP eXbert, Richard Steinschlag, B E C K
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kjaer/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kjaer/)*

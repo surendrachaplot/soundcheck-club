@@ -1,6 +1,6 @@
 # Zisko
 
-Zisko is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at fabric, London on Sat, 6 Feb 2027.
+Zisko is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at fabric, London on Sat, 6 Feb 2027.
 
 Zisko is a techno and house artist based in Argentina, with 111 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 39 more. Often billed alongside Blasha & Allatt, ANNĒ and KUSS. Next up: fabric, London on Sat 6 Feb.
 
@@ -25,4 +25,4 @@ Zisko is a techno and house artist based in Argentina, with 111 gigs on soundche
 
 Blasha & Allatt, ANNĒ, KUSS
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zisko/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zisko/)*

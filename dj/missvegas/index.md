@@ -1,6 +1,6 @@
 # Miss Vegas
 
-Miss Vegas is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Basing House, London on Sat, 19 Dec 2026.
+Miss Vegas is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Basing House, London on Sat, 19 Dec 2026.
 
 Miss Vegas is a techno and progressive house artist based in United Kingdom, with 6 gigs on soundcheck across London. Often billed alongside Ebz, PJ Addinall and Bushy Squirrel. Next up: Basing House, London on Sat 19 Dec.
 
@@ -22,4 +22,4 @@ Miss Vegas is a techno and progressive house artist based in United Kingdom, wit
 
 Ebz, PJ Addinall, Bushy Squirrel
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/missvegas/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/missvegas/)*

@@ -1,6 +1,6 @@
 # K A I
 
-K A I is a Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at La Nau, Barcelona on Sat, 5 Dec 2026.
+K A I is a Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at La Nau, Barcelona on Sat, 5 Dec 2026.
 
 K A I is a bass and garage artist based in United Kingdom, with 76 gigs on soundcheck across Bali, Barcelona, Bucharest and Kanto and 6 more. Often billed alongside caro.aki, Civic Grief and Louis Shannon. Next up: La Nau, Barcelona on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ K A I is a bass and garage artist based in United Kingdom, with 76 gigs on sound
 
 caro.aki, Civic Grief, Louis Shannon
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kai-es/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kai-es/)*

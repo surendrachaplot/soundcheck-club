@@ -1,6 +1,6 @@
 # Stochastic
 
-Stochastic is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Night We Met, Nashville on Sat, 14 Nov 2026.
+Stochastic is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Night We Met, Nashville on Sat, 14 Nov 2026.
 
 Stochastic is a house and progressive house artist based in Greece, with 16 gigs on soundcheck across Athens and Nashville. Often billed alongside Falsa Magra, Adam Des and Bakerman. Next up: Night We Met, Nashville on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Stochastic is a house and progressive house artist based in Greece, with 16 gigs
 
 Falsa Magra (2), Adam Des, Bakerman
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stochastic/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stochastic/)*

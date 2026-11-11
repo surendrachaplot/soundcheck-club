@@ -1,6 +1,6 @@
 # HERMETICA
 
-HERMETICA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Fabrik, Madrid on Sat, 5 Dec 2026.
+HERMETICA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Fabrik, Madrid on Sat, 5 Dec 2026.
 
 HERMETICA is a techno and house artist based in Netherlands, with 45 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Dortmund / Essen and 7 more. Often billed alongside Tino Machauer, Judy (ES) and Laia. Next up: Fabrik, Madrid on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ HERMETICA is a techno and house artist based in Netherlands, with 45 gigs on sou
 
 Tino Machauer, Judy (ES), Laia
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hermetica/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hermetica/)*

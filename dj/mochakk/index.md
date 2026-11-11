@@ -1,6 +1,6 @@
 # Mochakk
 
-Mochakk is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at District Arena at Terraform, Bangalore on Fri, 18 Dec 2026.
+Mochakk is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at District Arena at Terraform, Bangalore on Fri, 18 Dec 2026.
 
 Mochakk is a house and tech house artist based in Brazil, with 179 gigs on soundcheck across Amsterdam, Austin, Bangalore and Barcelona and 51 more. Often billed alongside Seth Troxler, Chloé Caillet and DJ Tennis. Next up: District Arena at Terraform, Bangalore on Fri 18 Dec.
 
@@ -27,4 +27,4 @@ Mochakk is a house and tech house artist based in Brazil, with 179 gigs on sound
 
 Seth Troxler, Chloé Caillet, DJ Tennis
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mochakk/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mochakk/)*

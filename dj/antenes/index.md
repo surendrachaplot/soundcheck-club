@@ -1,6 +1,6 @@
 # Antenes
 
-Antenes is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Brooklyn, New York City on Wed, 27 Jan 2027.
+Antenes is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Brooklyn, New York City on Wed, 27 Jan 2027.
 
 Antenes is a techno and experimental artist based in United States of America, with 54 gigs on soundcheck across Amsterdam, Beijing, Berlin and Chengdu and 15 more. Often billed alongside Mike Servito, Wata Igarashi and Erika. Next up: TBA - Brooklyn, New York City on Wed 27 Jan.
 
@@ -25,4 +25,4 @@ Antenes is a techno and experimental artist based in United States of America, w
 
 Mike Servito, Wata Igarashi, Erika
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antenes/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antenes/)*

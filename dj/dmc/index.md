@@ -1,6 +1,6 @@
 # DMC.
 
-DMC. is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Kapsule, Liverpool on Sat, 26 Dec 2026.
+DMC. is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Kapsule, Liverpool on Sat, 26 Dec 2026.
 
 DMC. is a house and electro artist based in United Kingdom, with 82 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 11 more. Often billed alongside Louie G, Colin Chiddle and Aerofunk. Next up: Kapsule, Liverpool on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ DMC. is a house and electro artist based in United Kingdom, with 82 gigs on soun
 
 Louie G, Colin Chiddle, Aerofunk
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dmc/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dmc/)*

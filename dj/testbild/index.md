@@ -1,6 +1,6 @@
 # Testbild
 
-Testbild is a New Wave and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Beate Uwe, Berlin on Fri, 20 Nov 2026.
+Testbild is a New Wave and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Beate Uwe, Berlin on Fri, 20 Nov 2026.
 
 Testbild is a new wave and minimal artist based in Germany, with 24 gigs on soundcheck across Berlin. Often billed alongside Mara Mortem, Graftak and ANGELIC SINTESIS. Next up: Beate Uwe, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Testbild is a new wave and minimal artist based in Germany, with 24 gigs on soun
 
 Mara Mortem, Graftak, ANGELIC SINTESIS
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/testbild/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/testbild/)*

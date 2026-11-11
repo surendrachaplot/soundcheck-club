@@ -1,8 +1,8 @@
 # David Melo
 
-David Melo is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Sigma, Ibiza on Thu, 12 Nov 2026.
+David Melo is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Sigma, Ibiza on Thu, 12 Nov 2026.
 
-David Melo is a tech house and minimal artist, with 5 gigs on soundcheck across Geneva and Ibiza. Often billed alongside Nima Gorji, Eclud and Jay Nortown. Next up: Sigma, Ibiza on Thu 12 Nov.
+David Melo is a tech house and minimal artist based in Argentina, with 5 gigs on soundcheck across Geneva and Ibiza. Often billed alongside Nima Gorji, Eclud and Jay Nortown. Next up: Sigma, Ibiza on Thu 12 Nov.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ David Melo is a tech house and minimal artist, with 5 gigs on soundcheck across 
 
 Nima Gorji, Eclud, Jay Nortown
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidmelo/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidmelo/)*

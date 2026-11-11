@@ -1,14 +1,13 @@
 # DART
 
-DART is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Macadam, Nantes on Tue, 10 Nov 2026.
+DART is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Liquid Room Warehouse, Edinburgh on Sat, 14 Nov 2026.
 
-DART is a techno and house artist based in Ireland, with 122 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 28 more. Often billed alongside Kyle Starkey, Ben Hemsley and NewTone. Next up: Macadam, Nantes on Tue 10 Nov.
+DART is a techno and house artist based in Ireland, with 122 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 28 more. Often billed alongside Kyle Starkey, Ben Hemsley and NewTone. Next up: The Liquid Room Warehouse, Edinburgh on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 10 Nov 2026 | Macadam | Nantes |
 | Sat, 14 Nov 2026 | The Liquid Room Warehouse | Edinburgh |
 | Sat, 21 Nov 2026 | TBA - Matilo Park | Rotterdam |
 | Sun, 22 Nov 2026 | Thuishaven | Amsterdam |
@@ -22,6 +21,7 @@ DART is a techno and house artist based in Ireland, with 122 gigs on soundcheck 
 
 ## Recently played
 
+- Macadam, Nantes · Tue, 10 Nov 2026
 - Depot Mayfield, Manchester · Fri, 6 Nov 2026
 - Lofi, Amsterdam · Sat, 24 Oct 2026
 - RAWFACTORY, Amsterdam · Fri, 23 Oct 2026
@@ -29,10 +29,9 @@ DART is a techno and house artist based in Ireland, with 122 gigs on soundcheck 
 - Amnesia Ibiza, Ibiza · Mon, 28 Sept 2026
 - Amnesia Ibiza, Ibiza · Mon, 21 Sept 2026
 - Amnesia Ibiza, Ibiza · Mon, 14 Sept 2026
-- Laagravense Plas, Utrecht · Sat, 12 Sept 2026
 
 ## Shares bills with
 
 Kyle Starkey, Ben Hemsley, NewTone
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dart-ie/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dart-ie/)*

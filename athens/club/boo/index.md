@@ -1,6 +1,6 @@
 # BOO!
 
-BOO! is a music venue in Athens with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. The next is "Destounis + Babett" on Sat, 14 Nov 2026.
+BOO! is a music venue in Athens with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "Destounis + Babett" on Sat, 14 Nov 2026.
 
 BOO! is a music venue in Athens listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ BOO! is a music venue in Athens listed on soundcheck. 1 upcoming gig. See dates,
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Destounis + Babett |  |
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/athens/club/boo/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/athens/club/boo/)*

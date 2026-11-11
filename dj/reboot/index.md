@@ -1,6 +1,6 @@
 # Reboot
 
-Reboot is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Hype Discoteca, Naples on Sat, 28 Nov 2026.
+Reboot is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Hype Discoteca, Naples on Sat, 28 Nov 2026.
 
 Reboot is a house and tech house artist based in Germany, with 64 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Bucharest and 16 more. Often billed alongside Valenzia, Boutiq.808 and Nick Curly. Next up: Hype Discoteca, Naples on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Reboot is a house and tech house artist based in Germany, with 64 gigs on soundc
 
 Valenzia, Boutiq.808, Nick Curly
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reboot/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reboot/)*

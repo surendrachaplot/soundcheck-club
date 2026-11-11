@@ -1,6 +1,6 @@
 # Maz (BR)
 
-Maz (BR) is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Parque Ciudad Empresarial, Santiago on Sun, 6 Dec 2026.
+Maz (BR) is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Parque Ciudad Empresarial, Santiago on Sun, 6 Dec 2026.
 
 Maz (BR) is a house and tech house artist based in Brazil, with 122 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 36 more. Often billed alongside Antdot, Vintage Culture and Black Coffee. Next up: Parque Ciudad Empresarial, Santiago on Sun 6 Dec.
 
@@ -26,4 +26,4 @@ Maz (BR) is a house and tech house artist based in Brazil, with 122 gigs on soun
 
 Antdot, Vintage Culture, Black Coffee
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mazbr/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mazbr/)*

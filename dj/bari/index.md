@@ -1,6 +1,6 @@
 # Bari
 
-Bari is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Matakanarama Festival Site, Auckland on Tue, 29 Dec 2026.
+Bari is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Matakanarama Festival Site, Auckland on Tue, 29 Dec 2026.
 
 Bari is a techno and tech house artist based in Hungary, with 3 gigs on soundcheck across Auckland, Bratislava and Sydney. Often billed alongside ANABE, AROHA and Anetha. Next up: Matakanarama Festival Site, Auckland on Tue 29 Dec.
 
@@ -19,4 +19,4 @@ Bari is a techno and tech house artist based in Hungary, with 3 gigs on soundche
 
 ANABE, AROHA, Anetha
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bari/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bari/)*

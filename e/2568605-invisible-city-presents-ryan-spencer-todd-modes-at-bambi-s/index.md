@@ -1,6 +1,6 @@
 # Invisible City Presents: Ryan Spencer & Todd Modes at Bambi's
 
-Invisible City Presents: Ryan Spencer & Todd Modes at Bambi's on Fri 20 Nov, Toronto. 3 artists: Invisible City, Ryan Spencer and Todd Modes. House. See the line-up on soundcheck.
+Invisible City Presents: Ryan Spencer & Todd Modes at Bambi's on Fri 20 Nov, Toronto. 3 artists: Invisible City, Ryan Spencer and Todd Modes. House and Balearic. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

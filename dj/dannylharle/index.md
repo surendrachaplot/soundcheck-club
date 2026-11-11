@@ -1,6 +1,6 @@
 # Danny L Harle
 
-Danny L Harle is a Dubstep and Pop artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Autódromo de Interlagos, Sao Paulo on Sat, 5 Dec 2026.
+Danny L Harle is a Dubstep and Pop artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Autódromo de Interlagos, Sao Paulo on Sat, 5 Dec 2026.
 
 Danny L Harle is a dubstep and pop artist based in United Kingdom, with 22 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 11 more. Often billed alongside Crystallmess, Lauren Duffus and Malibu. Next up: Autódromo de Interlagos, Sao Paulo on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Danny L Harle is a dubstep and pop artist based in United Kingdom, with 22 gigs 
 
 Crystallmess, Lauren Duffus, Malibu
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dannylharle/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dannylharle/)*

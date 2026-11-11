@@ -1,6 +1,6 @@
 # Europa (1)
 
-Europa (1) is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Copenhagen Contemporary, Copenhagen on Fri, 27 Nov 2026.
+Europa (1) is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Copenhagen Contemporary, Copenhagen on Fri, 27 Nov 2026.
 
 Europa is an experimental and club artist based in Germany, with 76 gigs on soundcheck across Amsterdam, Barcelona, Basel and Beijing and 22 more. Often billed alongside Sodomland, Emma DJ and Otis (BE). Next up: Copenhagen Contemporary, Copenhagen on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Europa is an experimental and club artist based in Germany, with 76 gigs on soun
 
 Sodomland, Emma DJ, Otis (BE)
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/europa-1/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/europa-1/)*

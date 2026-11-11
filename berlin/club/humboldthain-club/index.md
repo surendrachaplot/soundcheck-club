@@ -1,14 +1,13 @@
 # Humboldthain Club
 
-Humboldthain Club is a music venue in Berlin with 14 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Open Decks & Tischtennis" on Tue, 10 Nov 2026.
+Humboldthain Club is a music venue in Berlin with 13 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "LIEBER x INFERNO with XIMA, Terra Twiins, Kimberly, Baby V, Slimegoat, phlipzee, Perry Green" on Fri, 13 Nov 2026.
 
-Humboldthain Club is a music venue in Berlin listed on soundcheck. 14 upcoming gigs, with line-ups including 3diz, aykanakdag, CC:NIELOS and DJ-Ween and 2 more. See dates, start times and who's playing. Hochstraße 46; 13357 Berlin; Germany.
+Humboldthain Club is a music venue in Berlin listed on soundcheck. 13 upcoming gigs, with line-ups including 3diz, aykanakdag, CC:NIELOS and DJ-Ween and 2 more. See dates, start times and who's playing. Hochstraße 46; 13357 Berlin; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 10 Nov 2026 | Open Decks & Tischtennis |  |
 | Fri, 13 Nov 2026 | LIEBER x INFERNO with XIMA, Terra Twiins, Kimberly, Baby V, Slimegoat, phlipzee, Perry Green | Kimberly, Perry Green, Sievert Serviert, Slimegoat144, TERRA TWIINS, XIMA, phlipzee |
 | Sat, 14 Nov 2026 | Step in for Solidarity (Soliparty für die Stolpersteine von Elfriede und Hans Zoschke) | DJ-Ween, HØLLE (2), S.3000 |
 | Tue, 17 Nov 2026 | Open Decks & Tischtennis |  |
@@ -18,9 +17,10 @@ Humboldthain Club is a music venue in Berlin listed on soundcheck. 14 upcoming g
 | Fri, 27 Nov 2026 | PIEPSSTULLE Soliparty |  |
 | Sat, 28 Nov 2026 | LCF at Humboldthain w/OZZA, ALON, MISS.VERHALTEN, Gelo, Vanree, CC:NIELOS & more! I 10€ AK | CC:NIELOS, Vanree |
 | Tue, 1 Dec 2026 | Open Decks & Tischtennis |  |
+| Sat, 5 Dec 2026 | Groove District | Juulz, LUV.DELUXE, Philip Bogdan, Sweet G |
 
 ## Address
 
 Hochstraße 46; 13357 Berlin; Germany, Berlin
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/humboldthain-club/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/humboldthain-club/)*

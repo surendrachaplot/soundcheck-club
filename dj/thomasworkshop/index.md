@@ -1,13 +1,14 @@
 # Thomas Workshop
 
-Thomas Workshop is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Beaumont Studios, Vancouver on Sat, 20 Mar 2027.
+Thomas Workshop is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA, Vancouver on Fri, 13 Nov 2026.
 
-Thomas Workshop is a house and deep house artist based in Canada, with 17 gigs on soundcheck across Vancouver. Often billed alongside Lalo Campo, Jimpster and Kardano. Next up: The Beaumont Studios, Vancouver on Sat 20 Mar.
+Thomas Workshop is a house and techno artist based in Canada, with 18 gigs on soundcheck across Vancouver. Often billed alongside Lalo Campo, Jimpster and Kardano. Next up: TBA, Vancouver on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | TBA | Vancouver |
 | Sat, 20 Mar 2027 | The Beaumont Studios | Vancouver |
 
 ## Recently played
@@ -25,4 +26,4 @@ Thomas Workshop is a house and deep house artist based in Canada, with 17 gigs o
 
 Lalo Campo, Jimpster, Kardano
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasworkshop/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasworkshop/)*

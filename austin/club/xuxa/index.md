@@ -1,6 +1,6 @@
 # XuXa
 
-XuXa is a music venue in Austin with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Secret Weapon 04 - Rift" on Fri, 13 Nov 2026.
+XuXa is a music venue in Austin with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Secret Weapon 04 - Rift" on Fri, 13 Nov 2026.
 
 XuXa is a music venue in Austin listed on soundcheck. 4 upcoming gigs, with line-ups including Brett Johnson, Cuillere, Daniel Allen and Doc Martin and 2 more. See dates, start times and who's playing. 6910 Shirley Ave, Unit I, Austin, TX 78752, USA.
 
@@ -17,4 +17,4 @@ XuXa is a music venue in Austin listed on soundcheck. 4 upcoming gigs, with line
 
 6910 Shirley Ave, Unit I, Austin, TX 78752, USA, Austin
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/austin/club/xuxa/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/austin/club/xuxa/)*

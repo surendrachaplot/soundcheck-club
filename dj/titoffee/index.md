@@ -1,6 +1,6 @@
 # Titoffee
 
-Titoffee is a Afro House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Lac De Géronde, Switzerland on Thu, 24 Jun 2027.
+Titoffee is a Afro House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Lac De Géronde, Switzerland on Thu, 24 Jun 2027.
 
 Titoffee is an afro house and tech house artist based in Switzerland, with 7 gigs on soundcheck across Bogotá, Lausanne, Medellin and Switzerland. Often billed alongside Kun (CH), Umbe Nalle and Aston Alba. Next up: Lac De Géronde, Switzerland on Thu 24 Jun.
 
@@ -23,4 +23,4 @@ Titoffee is an afro house and tech house artist based in Switzerland, with 7 gig
 
 Kun (CH), Umbe Nalle, Aston Alba
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/titoffee/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/titoffee/)*

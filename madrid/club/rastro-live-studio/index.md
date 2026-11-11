@@ -1,6 +1,6 @@
 # Rastro Live Studio
 
-Rastro Live Studio is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. The next is "La Jaula - Synth Jam w/ Ari Jani & xacome & Todeschini" on Sat, 14 Nov 2026.
+Rastro Live Studio is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "La Jaula - Synth Jam w/ Ari Jani & xacome & Todeschini" on Sat, 14 Nov 2026.
 
 Rastro Live Studio is a music venue in Madrid listed on soundcheck. 1 upcoming gig, with line-ups including Señor Harrys and xacome. See dates, start times and who's playing. Santa Ana 9, 28005 Madrid.
 
@@ -14,4 +14,4 @@ Rastro Live Studio is a music venue in Madrid listed on soundcheck. 1 upcoming g
 
 Santa Ana 9, 28005 Madrid, Madrid
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/rastro-live-studio/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/rastro-live-studio/)*

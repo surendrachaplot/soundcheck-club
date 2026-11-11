@@ -1,8 +1,8 @@
 # smartbar
 
-smartbar is a music venue in Chicago with 21 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "LADYBEAR feat. Juliana Huxtable - Ariel Zetina - Mister Hoochiemama" on Fri, 13 Nov 2026.
+smartbar is a music venue in Chicago with 22 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "LADYBEAR feat. Juliana Huxtable - Ariel Zetina - Mister Hoochiemama" on Fri, 13 Nov 2026.
 
-smartbar is a music venue in Chicago listed on soundcheck. 21 upcoming gigs, with line-ups including AMR*, Ariel Zetina, Brenda and Cashu and 2 more. See dates, start times and who's playing. 3730 N. Clark St; Chicago, IL 60613; United States.
+smartbar is a music venue in Chicago listed on soundcheck. 22 upcoming gigs, with line-ups including AMR*, Ariel Zetina, Brenda and Cashu and 2 more. See dates, start times and who's playing. 3730 N. Clark St; Chicago, IL 60613; United States.
 
 ## What's on
 
@@ -23,4 +23,4 @@ smartbar is a music venue in Chicago listed on soundcheck. 21 upcoming gigs, wit
 
 3730 N. Clark St; Chicago, IL 60613; United States, Chicago
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smartbar/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smartbar/)*

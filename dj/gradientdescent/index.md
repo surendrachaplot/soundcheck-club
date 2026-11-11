@@ -1,6 +1,6 @@
 # Gradient Descent
 
-Gradient Descent is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Flash, Washington DC on Sat, 28 Nov 2026.
+Gradient Descent is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Flash, Washington DC on Sat, 28 Nov 2026.
 
 Gradient Descent is a house and deep house artist based in United States of America, with 26 gigs on soundcheck across Washington DC. Often billed alongside Sabda, Jus Nowhere and shilimili. Next up: Flash, Washington DC on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Gradient Descent is a house and deep house artist based in United States of Amer
 
 Sabda, Jus Nowhere, shilimili
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gradientdescent/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gradientdescent/)*

@@ -1,6 +1,6 @@
 # Jame Zname
 
-Jame Zname is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Void Club, Berlin on Sat, 28 Nov 2026.
+Jame Zname is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Void Club, Berlin on Sat, 28 Nov 2026.
 
 Jame Zname is a techno and drum & bass artist based in North Macedonia, with 11 gigs on soundcheck across Berlin and Malta. Often billed alongside Philip Ackowsky, OBLX and Abdy. Next up: Void Club, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Jame Zname is a techno and drum & bass artist based in North Macedonia, with 11 
 
 Philip Ackowsky, OBLX, Abdy
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamezname/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamezname/)*

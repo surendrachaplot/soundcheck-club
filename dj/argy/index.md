@@ -1,6 +1,6 @@
 # Argy
 
-Argy is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Club Cultural Lima, Peru on Fri, 4 Dec 2026.
+Argy is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Club Cultural Lima, Peru on Fri, 4 Dec 2026.
 
 Argy is a techno and house artist based in United Kingdom, with 137 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 52 more. Often billed alongside Tale Of Us, Artbat and Chris Avantgarde. Next up: Club Cultural Lima, Peru on Fri 4 Dec.
 
@@ -27,4 +27,4 @@ Argy is a techno and house artist based in United Kingdom, with 137 gigs on soun
 
 Tale Of Us, Artbat, Chris Avantgarde
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/argy/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/argy/)*

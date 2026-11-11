@@ -1,6 +1,6 @@
 # MAÏS
 
-MAÏS is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Kings Arms E2, London on Sat, 12 Dec 2026.
+MAÏS is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Kings Arms E2, London on Sat, 12 Dec 2026.
 
 MAÏS is a house and disco artist based in Spain, with 44 gigs on soundcheck across Barcelona and London. Often billed alongside NOYB, Pableeto and Make Money Mafia. Next up: Kings Arms E2, London on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ MAÏS is a house and disco artist based in Spain, with 44 gigs on soundcheck acr
 
 NOYB, Pableeto, Make Money Mafia
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maïs/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maïs/)*

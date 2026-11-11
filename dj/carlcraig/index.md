@@ -1,8 +1,8 @@
 # Carl Craig
 
-Carl Craig is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Parque Fundidora, Monterrey on Fri, 13 Nov 2026.
+Carl Craig is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Parque Fundidora, Monterrey on Fri, 13 Nov 2026.
 
-Carl Craig is a house and techno artist based in United States of America, with 303 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 64 more. Often billed alongside Moodymann, DJ Holographic and Seth Troxler. Next up: Parque Fundidora, Monterrey on Fri 13 Nov.
+Carl Craig is a house and techno artist based in United States of America, with 304 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 64 more. Often billed alongside Moodymann, DJ Holographic and Seth Troxler. Next up: Parque Fundidora, Monterrey on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Carl Craig is a house and techno artist based in United States of America, with 
 | Sat, 28 Nov 2026 | Lincoln Factory | Detroit |
 | Fri, 4 Dec 2026 | Night Tales | London |
 | Fri, 11 Dec 2026 | Kult | Belgrade |
+| Sat, 12 Dec 2026 | Mia Mao | Paris |
 | Fri, 18 Dec 2026 | Nordstern | Basel |
 | Sat, 19 Dec 2026 | Sub Club | Glasgow |
 | Sat, 26 Dec 2026 | Radius | Chicago |
@@ -33,4 +34,4 @@ Carl Craig is a house and techno artist based in United States of America, with 
 
 Moodymann, DJ Holographic, Seth Troxler
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlcraig/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlcraig/)*

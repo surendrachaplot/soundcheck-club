@@ -1,6 +1,6 @@
 # marcelitumelis
 
-marcelitumelis is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at STK 47 WAREHOUSE, Krakow on Fri, 13 Nov 2026.
+marcelitumelis is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at STK 47 WAREHOUSE, Krakow on Fri, 13 Nov 2026.
 
 marcelitumelis is a techno and trance artist based in Poland, with 43 gigs on soundcheck across Bucharest, Hamburg, Krakow and Malta and 3 more. Often billed alongside xcessive, Józef Keuner and VRAXX. Next up: STK 47 WAREHOUSE, Krakow on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ marcelitumelis is a techno and trance artist based in Poland, with 43 gigs on so
 
 xcessive, Józef Keuner, VRAXX
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelitumelis/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelitumelis/)*

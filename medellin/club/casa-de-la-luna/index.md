@@ -1,6 +1,6 @@
 # Casa De La Luna
 
-Casa De La Luna is a music venue in Medellin with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. The next is "EL TARDERO" on Mon, 2 Nov 2026.
+Casa De La Luna is a music venue in Medellin with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "Festival De Visuales Technovisión" on Sat, 28 Nov 2026.
 
 Casa De La Luna is a music venue in Medellin listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -8,6 +8,6 @@ Casa De La Luna is a music venue in Medellin listed on soundcheck. 1 upcoming gi
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 2 Nov 2026 | EL TARDERO |  |
+| Sat, 28 Nov 2026 | Festival De Visuales Technovisión |  |
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/medellin/club/casa-de-la-luna/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/medellin/club/casa-de-la-luna/)*

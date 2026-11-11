@@ -1,6 +1,6 @@
 # Norm Talley
 
-Norm Talley is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Marble Bar, Detroit on Thu, 31 Dec 2026.
+Norm Talley is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Marble Bar, Detroit on Thu, 31 Dec 2026.
 
 Norm Talley is a house and techno artist based in United States of America, with 63 gigs on soundcheck across Cleveland, Detroit and New York City. Often billed alongside Delano Smith, Mike Agent X Clark and Eddie Fowlkes. Next up: Marble Bar, Detroit on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Norm Talley is a house and techno artist based in United States of America, with
 
 Delano Smith, Mike Agent X Clark, Eddie Fowlkes
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/normtalley/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/normtalley/)*

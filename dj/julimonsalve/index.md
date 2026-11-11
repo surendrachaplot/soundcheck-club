@@ -1,6 +1,6 @@
 # Juli Monsalve
 
-Juli Monsalve is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Sonorama, Medellin on Fri, 13 Nov 2026.
+Juli Monsalve is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Sonorama, Medellin on Fri, 13 Nov 2026.
 
 Juli Monsalve is a techno and house artist based in Colombia, with 57 gigs on soundcheck across Bogotá, Boston, Medellin and New York City. Often billed alongside Vannesa Gnz, Deraout and Andres Gil. Next up: Sonorama, Medellin on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Juli Monsalve is a techno and house artist based in Colombia, with 57 gigs on so
 
 Vannesa Gnz, Deraout, Andres Gil
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/julimonsalve/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/julimonsalve/)*

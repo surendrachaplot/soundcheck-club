@@ -1,6 +1,6 @@
 # Cabaret  Aléatoire
 
-Cabaret  Aléatoire is a music venue in Marseille with 7 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Vitess To Grand V 𝘈𝘭𝘭 𝘓𝘪𝘷𝘦 𝘓𝘰𝘯𝘨 au Cabaret Aléatoire" on Sat, 14 Nov 2026.
+Cabaret  Aléatoire is a music venue in Marseille with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Vitess To Grand V 𝘈𝘭𝘭 𝘓𝘪𝘷𝘦 𝘓𝘰𝘯𝘨 au Cabaret Aléatoire" on Sat, 14 Nov 2026.
 
 Cabaret  Aléatoire is a music venue in Marseille listed on soundcheck. 7 upcoming gigs, with line-ups including ADB (FR), Angel Karel, Avni Leka and BonÏpso and 2 more. See dates, start times and who's playing. 41 Rue Jobin, 13003, Marseille.
 
@@ -20,4 +20,4 @@ Cabaret  Aléatoire is a music venue in Marseille listed on soundcheck. 7 upcomi
 
 41 Rue Jobin, 13003, Marseille, Marseille
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/cabaret-al-atoire/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/cabaret-al-atoire/)*

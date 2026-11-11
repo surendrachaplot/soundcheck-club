@@ -1,6 +1,6 @@
 # Floid.live
 
-Floid.live is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - San Francisco, San Francisco/Oakland on Fri, 4 Dec 2026.
+Floid.live is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - San Francisco, San Francisco/Oakland on Fri, 4 Dec 2026.
 
 Floid.live is a techno and experimental artist based in Netherlands, with 6 gigs on soundcheck across Amsterdam, Berlin, Prague and San Francisco/Oakland. Often billed alongside Woody92, Marco Maldarella and Nelly (NL). Next up: TBA - San Francisco, San Francisco/Oakland on Fri 4 Dec.
 
@@ -22,4 +22,4 @@ Floid.live is a techno and experimental artist based in Netherlands, with 6 gigs
 
 Woody92, Marco Maldarella, Nelly (NL)
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/floid.live/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/floid.live/)*

@@ -1,6 +1,6 @@
 # Jennifer Walton
 
-Jennifer Walton is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 28 Jan 2027.
+Jennifer Walton is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 28 Jan 2027.
 
 Jennifer Walton is an experimental and club artist based in United Kingdom, with 31 gigs on soundcheck across Berlin, Glasgow, Liverpool and London and 5 more. Often billed alongside 96 Back, aya and Microplastics. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 28 Jan.
 
@@ -25,4 +25,4 @@ Jennifer Walton is an experimental and club artist based in United Kingdom, with
 
 96 Back, aya, Microplastics
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jenniferwalton/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jenniferwalton/)*

@@ -1,6 +1,6 @@
 # noorj
 
-noorj is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Otel', Kyiv on Fri, 4 Dec 2026.
+noorj is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Otel', Kyiv on Fri, 4 Dec 2026.
 
 noorj is an ambient and experimental artist based in Ukraine, with 6 gigs on soundcheck across Berlin, Kyiv and Vienna. Often billed alongside Buttechno, XTCLVR and bod [包家巷]. Next up: Otel', Kyiv on Fri 4 Dec.
 
@@ -22,4 +22,4 @@ noorj is an ambient and experimental artist based in Ukraine, with 6 gigs on sou
 
 Buttechno, XTCLVR, bod [包家巷]
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noorj/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noorj/)*

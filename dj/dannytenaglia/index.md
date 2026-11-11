@@ -1,6 +1,6 @@
 # Danny Tenaglia
 
-Danny Tenaglia is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at The Barbary, Philadelphia on Sat, 14 Nov 2026.
+Danny Tenaglia is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Barbary, Philadelphia on Sat, 14 Nov 2026.
 
 Danny Tenaglia is a house and techno artist based in United States of America, with 118 gigs on soundcheck across Amsterdam, Auckland, Austin and Barcelona and 32 more. Often billed alongside Brandon Block, Darren Emerson and John Course. Next up: The Barbary, Philadelphia on Sat 14 Nov.
 
@@ -29,4 +29,4 @@ Danny Tenaglia is a house and techno artist based in United States of America, w
 
 Brandon Block, Darren Emerson, John Course
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dannytenaglia/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dannytenaglia/)*

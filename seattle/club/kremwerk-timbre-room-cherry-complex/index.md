@@ -1,6 +1,6 @@
 # Kremwerk-Timbre Room-Cherry Complex
 
-Kremwerk-Timbre Room-Cherry Complex is a music venue in Seattle with 7 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Club CTRL feat. DJ SWISHA" on Sat, 14 Nov 2026.
+Kremwerk-Timbre Room-Cherry Complex is a music venue in Seattle with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Club CTRL feat. DJ SWISHA" on Sat, 14 Nov 2026.
 
 Kremwerk-Timbre Room-Cherry Complex is a music venue in Seattle listed on soundcheck. 7 upcoming gigs, with line-ups including Arielle Lana, Ca$h Bandicoot, Ctrl.mp3 and DJ SWISHA and 2 more. See dates, start times and who's playing. 1809 Minor Ave #10, Seattle, WA 98101 USA.
 
@@ -20,4 +20,4 @@ Kremwerk-Timbre Room-Cherry Complex is a music venue in Seattle listed on soundc
 
 1809 Minor Ave #10, Seattle, WA 98101 USA, Seattle
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/kremwerk-timbre-room-cherry-complex/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/kremwerk-timbre-room-cherry-complex/)*

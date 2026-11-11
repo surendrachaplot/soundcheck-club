@@ -1,6 +1,6 @@
 # EI.VN
 
-EI.VN is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at MODULE, Copenhagen on Fri, 13 Nov 2026.
+EI.VN is a Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at MODULE, Copenhagen on Fri, 13 Nov 2026.
 
 EI.VN is a techno artist based in Denmark, with 13 gigs on soundcheck across Copenhagen. Often billed alongside Holtz, MINHI and David Cortese. Next up: MODULE, Copenhagen on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ EI.VN is a techno artist based in Denmark, with 13 gigs on soundcheck across Cop
 
 Holtz (2), MINHI, David Cortese
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ei.vn/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ei.vn/)*

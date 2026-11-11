@@ -1,8 +1,8 @@
 # SPFDJ
 
-SPFDJ is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
+SPFDJ is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
 
-SPFDJ is a techno and house artist based in Sweden, with 272 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 90 more. Often billed alongside Anetha, DAX J and KI/KI. Next up: The Concourse Project, Austin on Fri 13 Nov.
+SPFDJ is a techno and house artist based in Sweden, with 273 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 90 more. Often billed alongside Anetha, DAX J and KI/KI. Next up: The Concourse Project, Austin on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ SPFDJ is a techno and house artist based in Sweden, with 272 gigs on soundcheck 
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
 | Fri, 20 Nov 2026 | Expo Santa Fe | Mexico City |
 | Fri, 27 Nov 2026 | Ace*Mission | Los Angeles |
+| Sat, 5 Dec 2026 | C12 | Brussels |
 | Sat, 19 Dec 2026 | DRUMSHEDS | London |
 | Sat, 19 Dec 2026 | DRUMSHEDS | London |
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |
@@ -32,4 +33,4 @@ SPFDJ is a techno and house artist based in Sweden, with 272 gigs on soundcheck 
 
 Anetha, DAX J, KI/KI
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spfdj/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spfdj/)*

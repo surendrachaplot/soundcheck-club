@@ -1,6 +1,6 @@
 # Captain Hook
 
-Captain Hook is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Hellissandur, Iceland, Iceland on Thu, 12 Aug 2027.
+Captain Hook is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Hellissandur, Iceland, Iceland on Thu, 12 Aug 2027.
 
 Captain Hook is a techno and psytrance artist based in Israel, with 17 gigs on soundcheck across Berlin, Budapest, Cologne and Ho Chi Minh City and 7 more. Often billed alongside Astrix, Animato and Indira Paganotto. Next up: Hellissandur, Iceland, Iceland on Thu 12 Aug.
 
@@ -25,4 +25,4 @@ Captain Hook is a techno and psytrance artist based in Israel, with 17 gigs on s
 
 Astrix, Animato, Indira Paganotto
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/captainhook/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/captainhook/)*

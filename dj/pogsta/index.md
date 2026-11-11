@@ -1,6 +1,6 @@
 # Pogsta
 
-Pogsta is a Techno and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Secret Warehouse, Baltimore on Sat, 14 Nov 2026.
+Pogsta is a Techno and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Secret Warehouse, Baltimore on Sat, 14 Nov 2026.
 
 Pogsta is a techno and ghetto tech artist based in United States of America, with 6 gigs on soundcheck across Baltimore and Washington DC. Often billed alongside Machin3lf, BENLOGIK and Bastet (US). Next up: TBA - Secret Warehouse, Baltimore on Sat 14 Nov.
 
@@ -22,4 +22,4 @@ Pogsta is a techno and ghetto tech artist based in United States of America, wit
 
 Machin3lf, BENLOGIK, Bastet (US)
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pogsta/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pogsta/)*

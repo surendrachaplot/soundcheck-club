@@ -1,6 +1,6 @@
 # RP Boo
 
-RP Boo is a Footwork and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Fonda Theatre, Los Angeles on Sat, 21 Nov 2026.
+RP Boo is a Footwork and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Fonda Theatre, Los Angeles on Sat, 21 Nov 2026.
 
 RP Boo is a footwork and house artist based in United States of America, with 88 gigs on soundcheck across Amsterdam, Baltimore, Barcelona and Beijing and 31 more. Often billed alongside DJ Spinn, Crystallmess and Kode9. Next up: Fonda Theatre, Los Angeles on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ RP Boo is a footwork and house artist based in United States of America, with 88
 
 DJ Spinn, Crystallmess, Kode9
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rpboo/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rpboo/)*

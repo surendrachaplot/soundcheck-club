@@ -1,6 +1,6 @@
 # Iceboy Violet
 
-Iceboy Violet is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The White Hotel, Manchester on Wed, 25 Nov 2026.
+Iceboy Violet is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The White Hotel, Manchester on Wed, 25 Nov 2026.
 
 Iceboy Violet is an experimental and techno artist, with 63 gigs on soundcheck across Amsterdam, Barcelona, Bergen and Berlin and 19 more. Often billed alongside BFTT, Nueen and Rainy Miller. Next up: The White Hotel, Manchester on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ Iceboy Violet is an experimental and techno artist, with 63 gigs on soundcheck a
 
 BFTT, Nueen, Rainy Miller
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iceboyviolet/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iceboyviolet/)*

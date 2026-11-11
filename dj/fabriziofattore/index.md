@@ -1,6 +1,6 @@
 # Fabrizio Fattore
 
-Fabrizio Fattore is a Funk / Soul and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Basic Club, Naples on Sat, 5 Dec 2026.
+Fabrizio Fattore is a Funk / Soul and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Basic Club, Naples on Sat, 5 Dec 2026.
 
 Fabrizio Fattore is a funk / soul and house artist based in Italy, with 28 gigs on soundcheck across Naples. Often billed alongside Gigi Testa, Angelo Perna and assu. Next up: Basic Club, Naples on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Fabrizio Fattore is a funk / soul and house artist based in Italy, with 28 gigs 
 
 Gigi Testa, Angelo Perna, assu
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fabriziofattore/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fabriziofattore/)*

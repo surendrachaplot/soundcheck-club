@@ -1,6 +1,6 @@
 # brÅk
 
-brÅk is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at KC Grad, Belgrade on Sat, 28 Nov 2026.
+brÅk is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at KC Grad, Belgrade on Sat, 28 Nov 2026.
 
 brÅk is a techno and acid artist, with 8 gigs on soundcheck across Belgrade, Budapest, Ho Chi Minh City and Vienna. Often billed alongside Nick Hanzo, DJ CHICA and Filip Xavi. Next up: KC Grad, Belgrade on Sat 28 Nov.
 
@@ -24,4 +24,4 @@ brÅk is a techno and acid artist, with 8 gigs on soundcheck across Belgrade, Bu
 
 Nick Hanzo, DJ CHICA, Filip Xavi
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brak/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brak/)*

@@ -1,6 +1,6 @@
 # Monks Meadery
 
-Monks Meadery is a music venue in Atlanta with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. The next is "Club De Vampiros Presents... Medievil" on Sat, 21 Nov 2026.
+Monks Meadery is a music venue in Atlanta with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "Club De Vampiros Presents... Medievil" on Sat, 21 Nov 2026.
 
 Monks Meadery is a music venue in Atlanta listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Monks Meadery is a music venue in Atlanta listed on soundcheck. 1 upcoming gig. 
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Club De Vampiros Presents... Medievil |  |
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/atlanta/club/monks-meadery/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/atlanta/club/monks-meadery/)*

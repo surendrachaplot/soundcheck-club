@@ -1,6 +1,6 @@
 # BLNK
 
-BLNK is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Media Center, Ljubljana on Fri, 27 Nov 2026.
+BLNK is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Media Center, Ljubljana on Fri, 27 Nov 2026.
 
 BLNK is a techno and industrial artist based in Netherlands, with 54 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 22 more. Often billed alongside TiTi, LIEKS and KRUELTY. Next up: Media Center, Ljubljana on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ BLNK is a techno and industrial artist based in Netherlands, with 54 gigs on sou
 
 TiTi, LIEKS, KRUELTY
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blnk/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blnk/)*

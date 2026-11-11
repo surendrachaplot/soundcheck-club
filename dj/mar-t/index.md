@@ -1,6 +1,6 @@
 # Mar-T
 
-Mar-T is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at WOMB, Tokyo on Fri, 18 Dec 2026.
+Mar-T is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at WOMB, Tokyo on Fri, 18 Dec 2026.
 
 Mar-T is a techno and tech house artist based in Spain, with 65 gigs on soundcheck across Amsterdam, Barcelona, Basel and Belgrade and 9 more. Often billed alongside Marco Faraone, Luca Donzelli and CAAL. Next up: WOMB, Tokyo on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Mar-T is a techno and tech house artist based in Spain, with 65 gigs on soundche
 
 Marco Faraone, Luca Donzelli, CAAL
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mar-t/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mar-t/)*

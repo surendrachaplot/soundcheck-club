@@ -1,6 +1,6 @@
 # Twunkerbell
 
-Twunkerbell is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Sat, 5 Dec 2026.
+Twunkerbell is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Sat, 5 Dec 2026.
 
 Twunkerbell is a house and techno artist, with 7 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Booty Juice, Sammy Taylor and vRok. Next up: F8 1192 Folsom, San Francisco/Oakland on Sat 5 Dec.
 
@@ -23,4 +23,4 @@ Twunkerbell is a house and techno artist, with 7 gigs on soundcheck across San F
 
 Booty Juice, Sammy Taylor, vRok
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/twunkerbell/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/twunkerbell/)*

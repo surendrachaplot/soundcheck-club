@@ -1,6 +1,6 @@
 # INDECLINE
 
-INDECLINE is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Billy Bootleggers, Nottingham on Fri, 27 Nov 2026.
+INDECLINE is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Billy Bootleggers, Nottingham on Fri, 27 Nov 2026.
 
 INDECLINE is a hardcore and gabber artist based in United Kingdom, with 21 gigs on soundcheck across Bristol, Leeds, Newcastle and Nottingham. Often billed alongside Rubb3rducki, Emily Knight and Medusa. Next up: Billy Bootleggers, Nottingham on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ INDECLINE is a hardcore and gabber artist based in United Kingdom, with 21 gigs 
 
 Rubb3rducki, Emily Knight, Medusa
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/indecline/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/indecline/)*

@@ -1,6 +1,6 @@
 # Caveau Boston
 
-Caveau Boston is a music venue in Boston with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "25+ Only - Boston-Nov 19" on Thu, 19 Nov 2026.
+Caveau Boston is a music venue in Boston with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "25+ Only - Boston-Nov 19" on Thu, 19 Nov 2026.
 
 Caveau Boston is a music venue in Boston listed on soundcheck. 3 upcoming gigs, with line-ups including Audioprophecy, Kice and Violin Girl. See dates, start times and who's playing. 1 Center Plz, Boston, MA 02108.
 
@@ -16,4 +16,4 @@ Caveau Boston is a music venue in Boston listed on soundcheck. 3 upcoming gigs, 
 
 1 Center Plz, Boston, MA 02108, Boston
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/boston/club/caveau-boston/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/boston/club/caveau-boston/)*

@@ -1,6 +1,6 @@
 # Gaffe presents x Deaf Tech w Batu, Cosmo & Ploy at Gaffe
 
-Gaffe presents x Deaf Tech w Batu, Cosmo & Ploy on Fri 20 Nov, London. 2 artists: Batu and Ploy. House and Tech House. See the line-up on soundcheck.
+Gaffe presents x Deaf Tech w Batu, Cosmo & Ploy on Fri 20 Nov, London. 3 artists: Batu, Cosmo (KR) and Ploy. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Gaffe presents x Deaf Tech w Batu, Cosmo & Ploy on Fri 20 Nov, London. 2 artists
 ## Line-up
 
 - Batu
+- Cosmo (KR)
 - Ploy
 
 *Source: [soundcheck](https://soundcheck.club/e/2534217-gaffe-presents-x-deaf-tech-w-batu-cosmo-ploy-at-gaffe/)*

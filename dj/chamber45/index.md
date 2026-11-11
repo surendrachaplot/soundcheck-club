@@ -1,6 +1,6 @@
 # CHAMBER45
 
-CHAMBER45 is a Grime and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Worm, Rotterdam on Sat, 21 Nov 2026.
+CHAMBER45 is a Grime and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Worm, Rotterdam on Sat, 21 Nov 2026.
 
 CHAMBER45 is a grime and bass artist based in United Kingdom, with 31 gigs on soundcheck across Glasgow, London, Manchester and Rotterdam. Often billed alongside Novelist, Kruz Leone and Manga Saint Hilare. Next up: Worm, Rotterdam on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ CHAMBER45 is a grime and bass artist based in United Kingdom, with 31 gigs on so
 
 Novelist, Kruz Leone, Manga Saint Hilare
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chamber45/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chamber45/)*

@@ -1,6 +1,6 @@
 # Mdlr
 
-Mdlr is a music venue in Singapore with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Thugshop x FOMOHOMO presents - Patrick Mason" on Sat, 14 Nov 2026.
+Mdlr is a music venue in Singapore with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Thugshop x FOMOHOMO presents - Patrick Mason" on Sat, 14 Nov 2026.
 
 Mdlr is a music venue in Singapore listed on soundcheck. 4 upcoming gigs, with line-ups including DEZ (SG), Loyboy, Patrick Mason and RAAJ and 2 more. See dates, start times and who's playing. 62 Cecil Street #02-00, Singapore 049710.
 
@@ -17,4 +17,4 @@ Mdlr is a music venue in Singapore listed on soundcheck. 4 upcoming gigs, with l
 
 62 Cecil Street #02-00, Singapore 049710, Singapore
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/mdlr/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/mdlr/)*

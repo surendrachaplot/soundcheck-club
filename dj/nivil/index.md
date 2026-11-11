@@ -1,6 +1,6 @@
 # NIVIL
 
-NIVIL is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Cube, Tokyo on Fri, 4 Dec 2026.
+NIVIL is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Cube, Tokyo on Fri, 4 Dec 2026.
 
 NIVIL is a techno and industrial artist based in Japan, with 14 gigs on soundcheck across Tokyo. Often billed alongside AYANA KOSHIBA, EVE and waz. Next up: Cube, Tokyo on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ NIVIL is a techno and industrial artist based in Japan, with 14 gigs on soundche
 
 AYANA KOSHIBA, EVE (1), waz (1)
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nivil/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nivil/)*

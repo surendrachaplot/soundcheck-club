@@ -1,6 +1,6 @@
 # Mezita
 
-Mezita is a Baile Funk and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at La Gravière, Geneva on Sat, 14 Nov 2026.
+Mezita is a Baile Funk and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at La Gravière, Geneva on Sat, 14 Nov 2026.
 
 Mezita is a baile funk and latin bass artist, with 6 gigs on soundcheck across Geneva and Lausanne. Often billed alongside 0megavybe, Awka and Brenda.. Next up: La Gravière, Geneva on Sat 14 Nov.
 
@@ -22,4 +22,4 @@ Mezita is a baile funk and latin bass artist, with 6 gigs on soundcheck across G
 
 0megavybe, Awka, Brenda.
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mezita/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mezita/)*

@@ -1,6 +1,6 @@
 # Eve Lizard
 
-Eve Lizard is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Eiger Studios, Leeds on Fri, 27 Nov 2026.
+Eve Lizard is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Eiger Studios, Leeds on Fri, 27 Nov 2026.
 
 Eve Lizard is a bass and house artist based in United Kingdom, with 5 gigs on soundcheck across Leeds. Often billed alongside Constance, ASHTYLR and Amelia Leigh. Next up: Eiger Studios, Leeds on Fri 27 Nov.
 
@@ -21,4 +21,4 @@ Eve Lizard is a bass and house artist based in United Kingdom, with 5 gigs on so
 
 Constance, ASHTYLR, Amelia Leigh
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/evelizard/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/evelizard/)*

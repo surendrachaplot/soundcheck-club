@@ -1,6 +1,6 @@
 # La Figa
 
-La Figa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Pleasure Club, Sydney on Thu, 31 Dec 2026.
+La Figa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Pleasure Club, Sydney on Thu, 31 Dec 2026.
 
 La Figa is a house and techno artist based in Australia, with 18 gigs on soundcheck across Sydney. Often billed alongside Alex Diwa, Harry Court and Milkpaste. Next up: Pleasure Club, Sydney on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ La Figa is a house and techno artist based in Australia, with 18 gigs on soundch
 
 Alex Diwa, Harry Court, Milkpaste
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lafiga/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lafiga/)*

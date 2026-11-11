@@ -1,6 +1,6 @@
 # AI (10)
 
-AI (10) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at VENT, Tokyo on Fri, 13 Nov 2026.
+AI (10) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at VENT, Tokyo on Fri, 13 Nov 2026.
 
 AI is a techno and house artist based in Japan, with 42 gigs on soundcheck across Chengdu, Hannover, Kyoto and Osaka and 1 more. Often billed alongside Yui (JP), tnseei and Isshin. Next up: VENT, Tokyo on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ AI is a techno and house artist based in Japan, with 42 gigs on soundcheck acros
 
 Yui (JP), tnseei, Isshin
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ai-10/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ai-10/)*

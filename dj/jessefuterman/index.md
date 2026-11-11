@@ -1,6 +1,6 @@
 # Jesse Futerman
 
-Jesse Futerman is a Tech House and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Système, Montreal on Sun, 22 Nov 2026.
+Jesse Futerman is a Tech House and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Système, Montreal on Sun, 22 Nov 2026.
 
 Jesse Futerman is a tech house and club artist based in Canada, with 6 gigs on soundcheck across Montreal and Toronto. Often billed alongside 2ManyDJs, Cal C (Modern Art) and DJ Snape. Next up: Système, Montreal on Sun 22 Nov.
 
@@ -22,4 +22,4 @@ Jesse Futerman is a tech house and club artist based in Canada, with 6 gigs on s
 
 2ManyDJs, Cal C (Modern Art), DJ Snape
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jessefuterman/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jessefuterman/)*

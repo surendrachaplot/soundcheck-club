@@ -1,16 +1,18 @@
 # Marble Bar
 
-Marble Bar is a music venue in Detroit with 8 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "GHETTOTECHTOPIA" on Fri, 13 Nov 2026.
+Marble Bar is a music venue in Detroit with 10 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "HOT DOG UNIT" on Thu, 12 Nov 2026.
 
-Marble Bar is a music venue in Detroit listed on soundcheck. 8 upcoming gigs, with line-ups including Adam X, AIDEL, Amino and Blackmoonchild and 2 more. See dates, start times and who's playing. 1501 Holden St, Detroit, MI 48208, USA.
+Marble Bar is a music venue in Detroit listed on soundcheck. 10 upcoming gigs, with line-ups including Adam X, AIDEL, Amino and Blackmoonchild and 2 more. See dates, start times and who's playing. 1501 Holden St, Detroit, MI 48208, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Thu, 12 Nov 2026 | HOT DOG UNIT |  |
 | Fri, 13 Nov 2026 | GHETTOTECHTOPIA | Blackmoonchild, Isaac Prieto, Sheefy McFly |
 | Fri, 13 Nov 2026 | GHETTOTECHTOPIA | Blackmoonchild, Isaac Prieto, Sheefy McFly |
 | Sat, 14 Nov 2026 | XOXR4YR | DJ Girl, Garrison XR, HOOCHIE (1), Madam X, SWIMMIE, X(S)INA, we1sman |
+| Thu, 19 Nov 2026 | small talk |  |
 | Fri, 20 Nov 2026 | ORBIT 002: Noncompliant, Flange, sina, AIDEL, Adri, Duck Trash | AIDEL, Amino, Duck Trash, Flange, Noncompliant, X(S)INA |
 | Sat, 21 Nov 2026 | 12 Hour Party feat. John Acquaviva | John Acquaviva |
 | Fri, 27 Nov 2026 | Adam X - Craig Gonzalez b2b Francois Dillinger - + more - Marble Bar | Adam X, Craig Gonzalez, Francois Dillinger, Fusegrade, Kobe Dupree, mira (5) |
@@ -21,4 +23,4 @@ Marble Bar is a music venue in Detroit listed on soundcheck. 8 upcoming gigs, wi
 
 1501 Holden St, Detroit, MI 48208, USA, Detroit
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/marble-bar/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/marble-bar/)*

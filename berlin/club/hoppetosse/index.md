@@ -1,6 +1,6 @@
 # Hoppetosse
 
-Hoppetosse is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "MovetoneWax & N.o.N Music presents Andrei Ciubuc & Robin Ordell" on Fri, 13 Nov 2026.
+Hoppetosse is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "MovetoneWax & N.o.N Music presents Andrei Ciubuc & Robin Ordell" on Fri, 13 Nov 2026.
 
 Hoppetosse is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line-ups including 3RDV, Adolpho & Franky, Andrei Ciubuc and B.Love and 2 more. See dates, start times and who's playing. Eichenstrasse 4; Treptow; 12435 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Hoppetosse is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, wi
 
 Eichenstrasse 4; Treptow; 12435 Berlin; Germany, Berlin
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/hoppetosse/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/hoppetosse/)*

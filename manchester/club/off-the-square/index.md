@@ -1,6 +1,6 @@
 # Off The Square
 
-Off The Square is a music venue in Manchester with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Breakout: Jungle, Hardcore with Tom Oakley, imad:re and much more" on Thu, 19 Nov 2026.
+Off The Square is a music venue in Manchester with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Breakout: Jungle, Hardcore with Tom Oakley, imad:re and much more" on Thu, 19 Nov 2026.
 
 Off The Square is a music venue in Manchester listed on soundcheck. 3 upcoming gigs, with line-ups including Chael-UK, Igg ee, imad:re and Indeva and 2 more. See dates, start times and who's playing. 67 Lever Street, Manchester, M1 1FL.
 
@@ -16,4 +16,4 @@ Off The Square is a music venue in Manchester listed on soundcheck. 3 upcoming g
 
 67 Lever Street, Manchester, M1 1FL, Manchester
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/off-the-square/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/off-the-square/)*

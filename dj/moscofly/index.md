@@ -1,6 +1,6 @@
 # Moscofly
 
-Moscofly is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - El Gato 90's Club, Bogotá on Sat, 14 Nov 2026.
+Moscofly is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - El Gato 90's Club, Bogotá on Sat, 14 Nov 2026.
 
 Moscofly is a house and minimal artist based in Colombia, with 35 gigs on soundcheck across Bogotá, Colombia and Medellin. Often billed alongside Febe, Bettels and Jan Nachtigall. Next up: TBA - El Gato 90's Club, Bogotá on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Moscofly is a house and minimal artist based in Colombia, with 35 gigs on soundc
 
 Febe, Bettels, Jan Nachtigall
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moscofly/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moscofly/)*

@@ -1,6 +1,6 @@
 # N2 presents: Toobris at The Mash House
 
-N2 presents: Toobris at The Mash House on Fri 11 Dec, Edinburgh. 1 artist: Toobris. Techno. See the line-up on soundcheck.
+N2 presents: Toobris at The Mash House on Fri 11 Dec, Edinburgh. 1 artist: Toobris. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

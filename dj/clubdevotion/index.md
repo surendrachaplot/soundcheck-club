@@ -1,6 +1,6 @@
 # Club Devotion
 
-Club Devotion is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Macadam, Nantes on Sun, 17 Jan 2027.
+Club Devotion is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Macadam, Nantes on Sun, 17 Jan 2027.
 
 Club Devotion is a house and techno artist based in France, with 6 gigs on soundcheck across Nantes and Paris. Often billed alongside matilda, 131bpm and Bambi (FR). Next up: Macadam, Nantes on Sun 17 Jan.
 
@@ -22,4 +22,4 @@ Club Devotion is a house and techno artist based in France, with 6 gigs on sound
 
 matilda (2), 131bpm, Bambi (FR)
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clubdevotion/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clubdevotion/)*

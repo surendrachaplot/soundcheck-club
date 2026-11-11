@@ -1,6 +1,6 @@
 # John Cleworth
 
-John Cleworth is a IDM artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Inkonst, Malmo on Fri, 27 Nov 2026.
+John Cleworth is a IDM artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Inkonst, Malmo on Fri, 27 Nov 2026.
 
 John Cleworth is an idm artist based in Australia, with 5 gigs on soundcheck across Copenhagen, Malmo and Melbourne. Often billed alongside Xuri, Gábor Lázár and Frank Bretschneider. Next up: Inkonst, Malmo on Fri 27 Nov.
 
@@ -21,4 +21,4 @@ John Cleworth is an idm artist based in Australia, with 5 gigs on soundcheck acr
 
 Xuri, Gábor Lázár, Frank Bretschneider
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johncleworth/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johncleworth/)*

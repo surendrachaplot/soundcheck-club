@@ -1,6 +1,6 @@
 # moregasm
 
-moregasm is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Obedient Missionary, Detroit on Sat, 28 Nov 2026.
+moregasm is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Obedient Missionary, Detroit on Sat, 28 Nov 2026.
 
 moregasm is a techno and house artist based in United States of America, with 9 gigs on soundcheck across Detroit. Often billed alongside KICK (DET), LOFILA and DJ Candor. Next up: TBA - Obedient Missionary, Detroit on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ moregasm is a techno and house artist based in United States of America, with 9 
 
 KICK (DET), LOFILA, DJ Candor
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moregasm/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moregasm/)*

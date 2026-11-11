@@ -1,6 +1,6 @@
 # Straka (2)
 
-Straka (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at 5A, Lisbon on Thu, 12 Nov 2026.
+Straka (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at 5A, Lisbon on Thu, 12 Nov 2026.
 
 Straka is a house and techno artist, with 47 gigs on soundcheck across Berlin, Brussels, Lisbon and London and 1 more. Often billed alongside LAAD, Kee_ko and La Gugga. Next up: 5A, Lisbon on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Straka is a house and techno artist, with 47 gigs on soundcheck across Berlin, B
 
 LAAD, Kee_ko, La Gugga
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/straka-2/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/straka-2/)*

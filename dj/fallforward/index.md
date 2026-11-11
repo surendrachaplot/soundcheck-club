@@ -1,6 +1,6 @@
 # Fall Forward
 
-Fall Forward is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Document, Bristol on Fri, 4 Dec 2026.
+Fall Forward is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Document, Bristol on Fri, 4 Dec 2026.
 
 Fall Forward is a house and techno artist based in United Kingdom, with 17 gigs on soundcheck across Athens, Bristol and London. Often billed alongside Erol Alkan, DJ Paulette and Special Request. Next up: Document, Bristol on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Fall Forward is a house and techno artist based in United Kingdom, with 17 gigs 
 
 Erol Alkan, DJ Paulette, Special Request
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fallforward/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fallforward/)*

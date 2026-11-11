@@ -1,13 +1,14 @@
 # Sebastian Morxx
 
-Sebastian Morxx is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Royal Caribbean Cruise Ship, Miami on Thu, 21 Jan 2027.
+Sebastian Morxx is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Club M2 Miami, Miami on Fri, 13 Nov 2026.
 
-Sebastian Morxx is a house and techno artist based in Colombia, with 6 gigs on soundcheck across Miami and Singapore. Often billed alongside ALVA (FR), AMPRS&ND and Adam Beyer. Next up: Royal Caribbean Cruise Ship, Miami on Thu 21 Jan.
+Sebastian Morxx is a techno and house artist based in Colombia, with 7 gigs on soundcheck across Miami and Singapore. Often billed alongside ALVA (FR), AMPRS&ND and Adam Beyer. Next up: Club M2 Miami, Miami on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | Club M2 Miami | Miami |
 | Thu, 21 Jan 2027 | Royal Caribbean Cruise Ship | Miami |
 
 ## Recently played
@@ -22,4 +23,4 @@ Sebastian Morxx is a house and techno artist based in Colombia, with 6 gigs on s
 
 ALVA (FR), AMPRS&ND, Adam Beyer
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastianmorxx/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastianmorxx/)*

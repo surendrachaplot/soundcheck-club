@@ -1,6 +1,6 @@
 # Natural Symphony (Live)
 
-Natural Symphony (Live) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Prospect Building, Bristol on Tue, 15 Dec 2026.
+Natural Symphony (Live) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Prospect Building, Bristol on Tue, 15 Dec 2026.
 
 Natural Symphony (Live) is a house and deep house artist, with 7 gigs on soundcheck across Amsterdam, Bristol, Galway and London. Often billed alongside KT, Anna Wall and Ariane V. Next up: The Prospect Building, Bristol on Tue 15 Dec.
 
@@ -23,4 +23,4 @@ Natural Symphony (Live) is a house and deep house artist, with 7 gigs on soundch
 
 KT, Anna Wall, Ariane V
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/naturalsymphonylive/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/naturalsymphonylive/)*

@@ -1,6 +1,6 @@
 # QQQ ST. Park
 
-QQQ ST. Park is a music venue in Melbourne with 8 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "150 BPM" on Fri, 13 Nov 2026.
+QQQ ST. Park is a music venue in Melbourne with 8 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "150 BPM" on Fri, 13 Nov 2026.
 
 QQQ ST. Park is a music venue in Melbourne listed on soundcheck. 8 upcoming gigs, with line-ups including Aaron Static, ALIEN-A, Azifm and CAITY WATSON and 2 more. See dates, start times and who's playing. 2 Peel St, Collingwood VIC 3066.
 
@@ -21,4 +21,4 @@ QQQ ST. Park is a music venue in Melbourne listed on soundcheck. 8 upcoming gigs
 
 2 Peel St, Collingwood VIC 3066, Melbourne
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/qqq-st-park/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/qqq-st-park/)*

@@ -1,6 +1,6 @@
 # Bea Trinidad
 
-Bea Trinidad is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Nuevo Leon 89, Mexico City on Fri, 27 Nov 2026.
+Bea Trinidad is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Nuevo Leon 89, Mexico City on Fri, 27 Nov 2026.
 
 Bea Trinidad is a house and disco artist based in United States of America, with 39 gigs on soundcheck across Berlin, Mexico City, Montreal and New York City and 1 more. Often billed alongside Bustin' Loose, Roland & Brother Rich and ANICHE. Next up: Nuevo Leon 89, Mexico City on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Bea Trinidad is a house and disco artist based in United States of America, with
 
 Bustin' Loose, Roland & Brother Rich, ANICHE
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beatrinidad/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beatrinidad/)*

@@ -1,6 +1,6 @@
 # Ellich
 
-Ellich is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Club Malasaña, Madrid on Thu, 26 Nov 2026.
+Ellich is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Club Malasaña, Madrid on Thu, 26 Nov 2026.
 
 Ellich is a house and electro artist based in Croatia, with 5 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Alvaro Medina, Andrea Zarco and CINCOCEROSEIS. Next up: Club Malasaña, Madrid on Thu 26 Nov.
 
@@ -21,4 +21,4 @@ Ellich is a house and electro artist based in Croatia, with 5 gigs on soundcheck
 
 Alvaro Medina, Andrea Zarco, CINCOCEROSEIS
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ellich/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ellich/)*

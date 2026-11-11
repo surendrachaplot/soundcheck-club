@@ -1,6 +1,6 @@
 # CHAVA
 
-CHAVA is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Viuz, Medellin on Sat, 14 Nov 2026.
+CHAVA is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Viuz, Medellin on Sat, 14 Nov 2026.
 
 CHAVA is a tech house and house artist based in United States of America, with 12 gigs on soundcheck across Los Angeles, Medellin and New York City. Often billed alongside Cobo, DH Moon and Rel3r. Next up: Viuz, Medellin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ CHAVA is a tech house and house artist based in United States of America, with 1
 
 Cobo, DH Moon, Rel3r
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chava/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chava/)*

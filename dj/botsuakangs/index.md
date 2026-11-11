@@ -1,8 +1,8 @@
 # 没 a.k.a NGS
 
-没 a.k.a NGS is a Hip-Hop and Footwork artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Spread, Tokyo on Thu, 12 Nov 2026.
+没 a.k.a NGS is a Hip-Hop and Footwork artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Spread, Tokyo on Thu, 12 Nov 2026.
 
-没 a.k.a NGS is a hip-hop and footwork artist, with 5 gigs on soundcheck across Tokyo. Often billed alongside DJ melody, K8 (TYO GQOM) and Le Makeup. Next up: Spread, Tokyo on Thu 12 Nov.
+没 a.k.a NGS is a hip-hop and footwork artist based in Japan, with 5 gigs on soundcheck across Tokyo. Often billed alongside DJ melody, K8 (TYO GQOM) and Le Makeup. Next up: Spread, Tokyo on Thu 12 Nov.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@
 
 DJ melody, K8 (TYO GQOM), Le Makeup
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/botsuakangs/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/botsuakangs/)*

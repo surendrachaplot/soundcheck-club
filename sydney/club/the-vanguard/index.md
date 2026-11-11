@@ -1,6 +1,6 @@
 # The Vanguard
 
-The Vanguard is a music venue in Sydney with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Gilles Peterson - Liner Notes: Tales from Down Under" on Tue, 17 Nov 2026.
+The Vanguard is a music venue in Sydney with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Gilles Peterson - Liner Notes: Tales from Down Under" on Tue, 17 Nov 2026.
 
 The Vanguard is a music venue in Sydney listed on soundcheck. 3 upcoming gigs, with line-ups including Gilles Peterson and Sakr (AU). See dates, start times and who's playing. 42 King St; Newtown, NSW 2042; Australia.
 
@@ -16,4 +16,4 @@ The Vanguard is a music venue in Sydney listed on soundcheck. 3 upcoming gigs, w
 
 42 King St; Newtown, NSW 2042; Australia, Sydney
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-vanguard/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-vanguard/)*

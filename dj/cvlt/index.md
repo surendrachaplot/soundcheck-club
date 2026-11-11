@@ -1,6 +1,6 @@
 # CVLT
 
-CVLT is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Lux Fragil, Lisbon on Thu, 19 Nov 2026.
+CVLT is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Lux Fragil, Lisbon on Thu, 19 Nov 2026.
 
 CVLT is a house and techno artist based in Portugal, with 48 gigs on soundcheck across Beijing, Brussels, Hong Kong and Lisbon and 4 more. Often billed alongside Capablanca, Thiago Guiselini and Telma. Next up: Lux Fragil, Lisbon on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ CVLT is a house and techno artist based in Portugal, with 48 gigs on soundcheck 
 
 Capablanca, Thiago Guiselini, Telma
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cvlt/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cvlt/)*

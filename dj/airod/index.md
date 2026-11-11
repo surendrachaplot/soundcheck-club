@@ -1,6 +1,6 @@
 # Airod
 
-Airod is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at E1, London on Fri, 20 Nov 2026.
+Airod is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at E1, London on Fri, 20 Nov 2026.
 
 Airod is a techno and trance artist based in France, with 146 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Athens and 60 more. Often billed alongside Amelie Lens, Jacidorex and Farrago. Next up: E1, London on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Airod is a techno and trance artist based in France, with 146 gigs on soundcheck
 
 Amelie Lens, Jacidorex, Farrago
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/airod/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/airod/)*

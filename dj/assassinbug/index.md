@@ -1,8 +1,8 @@
 # Assassin Bug
 
-Assassin Bug is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Bsmt 254, Toronto on Fri, 13 Nov 2026.
+Assassin Bug is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Bsmt 254, Toronto on Fri, 13 Nov 2026.
 
-Assassin Bug is a bass and drum & bass artist based in Canada, with 19 gigs on soundcheck across London and Toronto. Often billed alongside Elixah, GRRLCRRSH and Hood Joplin. Next up: Bsmt 254, Toronto on Fri 13 Nov.
+Assassin Bug is a bass and drum & bass artist based in Canada, with 19 gigs on soundcheck across London and Toronto. Often billed alongside KATARAMA, Elixah and GRRLCRRSH. Next up: Bsmt 254, Toronto on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Assassin Bug is a bass and drum & bass artist based in Canada, with 19 gigs on s
 
 ## Shares bills with
 
-Elixah, GRRLCRRSH, Hood Joplin
+KATARAMA, Elixah, GRRLCRRSH
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/assassinbug/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/assassinbug/)*

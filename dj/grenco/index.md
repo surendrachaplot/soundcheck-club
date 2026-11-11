@@ -1,6 +1,6 @@
 # Grenco
 
-Grenco is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at SASS Music Club, Vienna on Thu, 12 Nov 2026.
+Grenco is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at SASS Music Club, Vienna on Thu, 12 Nov 2026.
 
 Grenco is a house and electro artist based in Croatia, with 17 gigs on soundcheck across Vienna and Zagreb. Often billed alongside Andrija Mlacovic, Uran B. and Vazdaisti. Next up: SASS Music Club, Vienna on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Grenco is a house and electro artist based in Croatia, with 17 gigs on soundchec
 
 Andrija Mlacovic, Uran B., Vazdaisti
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grenco/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grenco/)*

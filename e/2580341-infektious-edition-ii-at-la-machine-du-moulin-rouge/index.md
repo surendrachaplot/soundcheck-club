@@ -1,6 +1,6 @@
 # INFEKTIOUS — EDITION II at La Machine Du Moulin Rouge
 
-INFEKTIOUS — EDITION II at La Machine Du Moulin Rouge on Fri 4 Dec, Paris. 2 artists: NURSE3D and SO FUCKING CUNT. Techno and Gabber. See the line-up on soundcheck.
+INFEKTIOUS — EDITION II at La Machine Du Moulin Rouge on Fri 4 Dec, Paris. 2 artists: NURSE3D and SO FUCKING CUNT. Hardcore and Gabber. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

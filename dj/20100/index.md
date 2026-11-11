@@ -1,6 +1,6 @@
 # 20 100
 
-20 100 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at C2 OST, Karlsruhe on Sat, 21 Nov 2026.
+20 100 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at C2 OST, Karlsruhe on Sat, 21 Nov 2026.
 
 20 100 is a techno and house artist based in Germany, with 8 gigs on soundcheck across Karlsruhe and Mannheim. Often billed alongside Eisikko, tanteEMMA and lose. Next up: C2 OST, Karlsruhe on Sat 21 Nov.
 
@@ -24,4 +24,4 @@
 
 Eisikko, tanteEMMA, lose
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/20100/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/20100/)*

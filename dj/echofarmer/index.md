@@ -1,6 +1,6 @@
 # echofarmer
 
-echofarmer is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Ancienne Belgique (AB), Brussels on Fri, 18 Dec 2026.
+echofarmer is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Ancienne Belgique (AB), Brussels on Fri, 18 Dec 2026.
 
 echofarmer is a club and techno artist based in Belgium, with 9 gigs on soundcheck across Amsterdam, Antwerp, Brussels and Lisbon and 2 more. Often billed alongside Niels Orens, Rival Consoles and Aroh. Next up: Ancienne Belgique (AB), Brussels on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ echofarmer is a club and techno artist based in Belgium, with 9 gigs on soundche
 
 Niels Orens, Rival Consoles, Aroh
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/echofarmer/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/echofarmer/)*

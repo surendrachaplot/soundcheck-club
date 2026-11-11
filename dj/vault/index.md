@@ -1,6 +1,6 @@
 # Vault
 
-Vault is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 19 Dec 2026.
+Vault is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 19 Dec 2026.
 
 Vault is a house and techno artist based in United States of America, with 6 gigs on soundcheck across Bucharest, Manchester and Philadelphia. Often billed alongside Ewan McVicar, Gina Breeze and Krysko. Next up: Depot Mayfield, Manchester on Sat 19 Dec.
 
@@ -22,4 +22,4 @@ Vault is a house and techno artist based in United States of America, with 6 gig
 
 Ewan McVicar, Gina Breeze, Krysko
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vault/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vault/)*

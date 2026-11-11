@@ -1,8 +1,8 @@
 # Aztek
 
-Aztek is a Acid and Dubstep artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Cross Club, Prague on Mon, 30 Nov 2026.
+Aztek is a Acid and Dubstep artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Cross Club, Prague on Mon, 30 Nov 2026.
 
-Aztek is an acid and dubstep artist, with 5 gigs on soundcheck across Geneva, Prague and San Francisco/Oakland. Often billed alongside Adam Vandal, Bazooka Joe and Camel. Next up: Cross Club, Prague on Mon 30 Nov.
+Aztek is an acid and dubstep artist based in United Kingdom, with 5 gigs on soundcheck across Geneva, Prague and San Francisco/Oakland. Often billed alongside Adam Vandal, Bazooka Joe and Camel. Next up: Cross Club, Prague on Mon 30 Nov.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ Aztek is an acid and dubstep artist, with 5 gigs on soundcheck across Geneva, Pr
 
 Adam Vandal, Bazooka Joe, Camel
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aztek/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aztek/)*

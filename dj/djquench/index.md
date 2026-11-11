@@ -1,6 +1,6 @@
 # DJ Quench
 
-DJ Quench is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Cellar, London on Fri, 27 Nov 2026.
+DJ Quench is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Cellar, London on Fri, 27 Nov 2026.
 
 DJ Quench is a house and minimal artist based in United Kingdom, with 10 gigs on soundcheck across London. Often billed alongside Sky, Cecilio and Cristi Cons. Next up: Cellar, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ DJ Quench is a house and minimal artist based in United Kingdom, with 10 gigs on
 
 Sky (3), Cecilio, Cristi Cons
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djquench/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djquench/)*

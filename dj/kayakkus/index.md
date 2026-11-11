@@ -1,6 +1,6 @@
 # Kayakkus
 
-Kayakkus is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Triangle, Osaka on Fri, 20 Nov 2026.
+Kayakkus is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Triangle, Osaka on Fri, 20 Nov 2026.
 
 Kayakkus is a techno and hardcore artist based in Japan, with 17 gigs on soundcheck across Osaka and Tokyo. Often billed alongside Takashi Iida, CH1LL and kakepon. Next up: Triangle, Osaka on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Kayakkus is a techno and hardcore artist based in Japan, with 17 gigs on soundch
 
 Takashi Iida, CH1LL, kakepon
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kayakkus/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kayakkus/)*

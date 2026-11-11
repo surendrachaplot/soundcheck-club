@@ -1,6 +1,6 @@
 # Avalon Emerson
 
-Avalon Emerson is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 13 Nov 2026.
+Avalon Emerson is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 13 Nov 2026.
 
 Avalon Emerson is a techno and house artist based in United States of America, with 199 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 57 more. Often billed alongside Sedef Adasï, BASHKKA and Aurora Halal. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 13 Nov.
 
@@ -32,4 +32,4 @@ Avalon Emerson is a techno and house artist based in United States of America, w
 
 Sedef Adasï, BASHKKA, Aurora Halal
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avalonemerson/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avalonemerson/)*

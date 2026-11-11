@@ -1,6 +1,6 @@
 # Wood Street Bear
 
-Wood Street Bear is a music venue in London with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "The Chill Out Tent" on Sat, 14 Nov 2026.
+Wood Street Bear is a music venue in London with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "The Chill Out Tent" on Sat, 14 Nov 2026.
 
 Wood Street Bear is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including Chris Coco, Charles Webster and Macca.. See dates, start times and who's playing. 135 Wood Street, London E17 9HG.
 
@@ -16,4 +16,4 @@ Wood Street Bear is a music venue in London listed on soundcheck. 3 upcoming gig
 
 135 Wood Street, London E17 9HG, London
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/wood-street-bear/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/wood-street-bear/)*

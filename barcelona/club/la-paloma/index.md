@@ -1,6 +1,6 @@
 # La Paloma
 
-La Paloma is a music venue in Barcelona with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "POLENTA" on Fri, 13 Nov 2026.
+La Paloma is a music venue in Barcelona with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "POLENTA" on Fri, 13 Nov 2026.
 
 La Paloma is a music venue in Barcelona listed on soundcheck. 5 upcoming gigs, with line-ups including Chica Acosta, Danilo Plessow, DJ Paulette and Elwood and 2 more. See dates, start times and who's playing. Calle Tigre 27, 08001 Barcelona.
 
@@ -18,4 +18,4 @@ La Paloma is a music venue in Barcelona listed on soundcheck. 5 upcoming gigs, w
 
 Calle Tigre 27, 08001 Barcelona, Barcelona
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-paloma/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-paloma/)*

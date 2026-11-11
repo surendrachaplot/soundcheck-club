@@ -1,6 +1,6 @@
 # MC PSG
 
-MC PSG is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Emerald Embankment, London on Sat, 14 Nov 2026.
+MC PSG is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Emerald Embankment, London on Sat, 14 Nov 2026.
 
 MC PSG is a garage and house artist based in United Kingdom, with 15 gigs on soundcheck across London. Often billed alongside MC Creed, MC DT and MC CKP. Next up: Emerald Embankment, London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ MC PSG is a garage and house artist based in United Kingdom, with 15 gigs on sou
 
 MC Creed, MC DT, MC CKP
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mcpsg/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mcpsg/)*

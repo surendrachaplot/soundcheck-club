@@ -1,8 +1,8 @@
 # Wilfred
 
-Wilfred is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Ijland, Amsterdam on Sun, 22 Nov 2026.
+Wilfred is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Ijland, Amsterdam on Sun, 22 Nov 2026.
 
-Wilfred is a garage and bass artist, with 7 gigs on soundcheck across Amsterdam, Bordeaux, Leeds and London. Often billed alongside Buckley, Emz (MC) and Indigo. Next up: Ijland, Amsterdam on Sun 22 Nov.
+Wilfred is a garage and bass artist based in United Kingdom, with 7 gigs on soundcheck across Amsterdam, Bordeaux, Leeds and London. Often billed alongside Buckley, Emz (MC) and Indigo. Next up: Ijland, Amsterdam on Sun 22 Nov.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ Wilfred is a garage and bass artist, with 7 gigs on soundcheck across Amsterdam,
 
 Buckley, Emz (MC), Indigo
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wilfred/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wilfred/)*

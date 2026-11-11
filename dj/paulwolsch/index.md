@@ -1,6 +1,6 @@
 # Paul Wolsch
 
-Paul Wolsch is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at KitKatClub, Berlin on Fri, 22 Jan 2027.
+Paul Wolsch is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at KitKatClub, Berlin on Fri, 22 Jan 2027.
 
 Paul Wolsch is a house and techno artist based in Costa Rica, with 42 gigs on soundcheck across Athens, Bangkok, Barcelona and Berlin and 21 more. Often billed alongside Ouissam, ADAM MUNNINGS and Al Jones. Next up: KitKatClub, Berlin on Fri 22 Jan.
 
@@ -25,4 +25,4 @@ Paul Wolsch is a house and techno artist based in Costa Rica, with 42 gigs on so
 
 Ouissam, ADAM MUNNINGS, Al Jones
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paulwolsch/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paulwolsch/)*

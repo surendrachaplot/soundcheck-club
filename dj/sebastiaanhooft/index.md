@@ -1,6 +1,6 @@
 # Sebastiaan Hooft
 
-Sebastiaan Hooft is a Minimal and Tech House artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Feuerbar, Austria on Mon, 1 Mar 2027.
+Sebastiaan Hooft is a Minimal and Tech House artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Feuerbar, Austria on Mon, 1 Mar 2027.
 
 Sebastiaan Hooft is a minimal and tech house artist based in Netherlands, with 25 gigs on soundcheck across Amsterdam, Austria and Ibiza. Often billed alongside AFAR, Bi Män and Dana Ruh. Next up: Feuerbar, Austria on Mon 1 Mar.
 
@@ -28,4 +28,4 @@ Sebastiaan Hooft is a minimal and tech house artist based in Netherlands, with 2
 
 AFAR, Bi Män, Dana Ruh
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastiaanhooft/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastiaanhooft/)*

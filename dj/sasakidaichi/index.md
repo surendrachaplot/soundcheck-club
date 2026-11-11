@@ -1,6 +1,6 @@
 # Sasaki Daichi
 
-Sasaki Daichi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Azumaya, Tokyo on Mon, 16 Nov 2026.
+Sasaki Daichi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Azumaya, Tokyo on Mon, 16 Nov 2026.
 
 Sasaki Daichi is a house and techno artist based in Japan, with 30 gigs on soundcheck across Tokyo. Often billed alongside Rikuto, hiroto yano and DSKE. Next up: Azumaya, Tokyo on Mon 16 Nov.
 
@@ -25,4 +25,4 @@ Sasaki Daichi is a house and techno artist based in Japan, with 30 gigs on sound
 
 Rikuto, hiroto yano, DSKE
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sasakidaichi/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sasakidaichi/)*

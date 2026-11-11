@@ -1,8 +1,8 @@
 # Józef Keuner
 
-Józef Keuner is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at STK 47 WAREHOUSE, Krakow on Fri, 13 Nov 2026.
+Józef Keuner is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at STK 47 WAREHOUSE, Krakow on Fri, 13 Nov 2026.
 
-Józef Keuner is a techno and trance artist, with 85 gigs on soundcheck across Krakow, Poznan, Warsaw and Wroclaw. Often billed alongside VRAXX, ERNST (UA) and SCHELLT. Next up: STK 47 WAREHOUSE, Krakow on Fri 13 Nov.
+Józef Keuner is a techno and trance artist, with 86 gigs on soundcheck across Krakow, Poznan, Warsaw and Wroclaw. Often billed alongside VRAXX, ERNST (UA) and SCHELLT. Next up: STK 47 WAREHOUSE, Krakow on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Józef Keuner is a techno and trance artist, with 85 gigs on soundcheck across K
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | STK 47 WAREHOUSE | Krakow |
 | Fri, 20 Nov 2026 | SCHRON | Poznan |
+| Fri, 15 Jan 2027 | Tama | Poznan |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Józef Keuner is a techno and trance artist, with 85 gigs on soundcheck across K
 
 VRAXX, ERNST (UA), SCHELLT
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jozefkeuner/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jozefkeuner/)*

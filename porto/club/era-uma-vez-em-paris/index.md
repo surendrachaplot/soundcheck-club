@@ -1,6 +1,6 @@
 # Era uma vez em Paris
 
-Era uma vez em Paris is a music venue in Porto with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. The next is "Last night of the year" on Wed, 30 Dec 2026.
+Era uma vez em Paris is a music venue in Porto with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "Last night of the year" on Wed, 30 Dec 2026.
 
 Era uma vez em Paris is a music venue in Porto listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Rua da Galeria de Paris, n.º 106-108, Porto 4050-284, Portugal.
 
@@ -14,4 +14,4 @@ Era uma vez em Paris is a music venue in Porto listed on soundcheck. 1 upcoming 
 
 Rua da Galeria de Paris, n.º 106-108, Porto 4050-284, Portugal, Porto
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/porto/club/era-uma-vez-em-paris/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/porto/club/era-uma-vez-em-paris/)*

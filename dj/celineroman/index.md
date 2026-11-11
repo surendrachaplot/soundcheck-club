@@ -1,6 +1,6 @@
 # Celine Roman
 
-Celine Roman is a Minimal and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Club Guesthouse, Bucharest on Sat, 12 Dec 2026.
+Celine Roman is a Minimal and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Club Guesthouse, Bucharest on Sat, 12 Dec 2026.
 
 Celine Roman is a minimal and deep house artist based in Romania, with 18 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bucharest and 1 more. Often billed alongside Alex Sharp, Andrey Pushkarev and Lola Palmer. Next up: Club Guesthouse, Bucharest on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Celine Roman is a minimal and deep house artist based in Romania, with 18 gigs o
 
 Alex Sharp, Andrey Pushkarev, Lola Palmer
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/celineroman/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/celineroman/)*

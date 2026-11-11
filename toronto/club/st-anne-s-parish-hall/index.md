@@ -1,6 +1,6 @@
 # St Anne's Parish Hall
 
-St Anne's Parish Hall is a music venue in Toronto with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. The next is "Spacetime Sparkle Party 2026" on Sat, 5 Dec 2026.
+St Anne's Parish Hall is a music venue in Toronto with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "Spacetime Sparkle Party 2026" on Sat, 5 Dec 2026.
 
 St Anne's Parish Hall is a music venue in Toronto listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 651 Dufferin St, Toronto, ON M6K 2B2.
 
@@ -14,4 +14,4 @@ St Anne's Parish Hall is a music venue in Toronto listed on soundcheck. 1 upcomi
 
 651 Dufferin St, Toronto, ON M6K 2B2, Toronto
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/st-anne-s-parish-hall/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/st-anne-s-parish-hall/)*

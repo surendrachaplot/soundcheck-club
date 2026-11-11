@@ -1,6 +1,6 @@
 # Siimon
 
-Siimon is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Humboldthain Club, Berlin on Sat, 21 Nov 2026.
+Siimon is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Humboldthain Club, Berlin on Sat, 21 Nov 2026.
 
 Siimon is a techno and trance artist based in Netherlands, with 6 gigs on soundcheck across Amsterdam and Berlin. Often billed alongside BORIS BOUNCE, Bodi and Carotin. Next up: Humboldthain Club, Berlin on Sat 21 Nov.
 
@@ -22,4 +22,4 @@ Siimon is a techno and trance artist based in Netherlands, with 6 gigs on soundc
 
 BORIS BOUNCE, Bodi, Carotin
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/siimon/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/siimon/)*

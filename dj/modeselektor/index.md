@@ -1,6 +1,6 @@
 # Modeselektor
 
-Modeselektor is a Techno and Electronica artist with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA, Berlin on Fri, 22 Jan 2027.
+Modeselektor is a Techno and Electronica artist with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA, Berlin on Fri, 22 Jan 2027.
 
 Modeselektor is a techno and electronica artist based in Germany, with 73 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 37 more. Often billed alongside Anetha, Dixon and Helena Hauff. Next up: TBA, Berlin on Fri 22 Jan.
 
@@ -29,4 +29,4 @@ Modeselektor is a techno and electronica artist based in Germany, with 73 gigs o
 
 Anetha, Dixon, Helena Hauff
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/modeselektor/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/modeselektor/)*

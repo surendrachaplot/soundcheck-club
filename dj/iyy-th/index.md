@@ -1,6 +1,6 @@
 # IYY (TH)
 
-IYY (TH) is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Woowon, Bangsaen, Chonburi, Thailand on Sat, 14 Nov 2026.
+IYY (TH) is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Woowon, Bangsaen, Chonburi, Thailand on Sat, 14 Nov 2026.
 
 IYY (TH) is a house and minimal artist based in Thailand, with 201 gigs on soundcheck across Bangkok and Thailand. Often billed alongside Wildealer, DOTT and PunTue. Next up: TBA - Woowon, Bangsaen, Chonburi, Thailand on Sat 14 Nov.
 
@@ -12,6 +12,7 @@ IYY (TH) is a house and minimal artist based in Thailand, with 201 gigs on sound
 
 ## Recently played
 
+- 12 x 12, Bangkok · Tue, 10 Nov 2026
 - 12 x 12, Bangkok · Tue, 27 Oct 2026
 - 12 x 12, Bangkok · Tue, 13 Oct 2026
 - 12 x 12, Bangkok · Tue, 6 Oct 2026
@@ -19,10 +20,9 @@ IYY (TH) is a house and minimal artist based in Thailand, with 201 gigs on sound
 - Dual, Bangkok · Fri, 25 Sept 2026
 - 12 x 12, Bangkok · Tue, 22 Sept 2026
 - 12 x 12, Bangkok · Tue, 15 Sept 2026
-- 12 x 12, Bangkok · Fri, 11 Sept 2026
 
 ## Shares bills with
 
 Wildealer, DOTT, PunTue
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iyy-th/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iyy-th/)*

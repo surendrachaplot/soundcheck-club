@@ -1,6 +1,6 @@
 # NATSUMI
 
-NATSUMI is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at R Lounge, Tokyo on Sun, 27 Dec 2026.
+NATSUMI is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at R Lounge, Tokyo on Sun, 27 Dec 2026.
 
 NATSUMI is a hardcore and techno artist based in Japan, with 56 gigs on soundcheck across Amsterdam, Osaka and Tokyo. Often billed alongside YOSHIMASA, DJ Shimamura and HiTOMi. Next up: R Lounge, Tokyo on Sun 27 Dec.
 
@@ -25,4 +25,4 @@ NATSUMI is a hardcore and techno artist based in Japan, with 56 gigs on soundche
 
 YOSHIMASA, DJ Shimamura, HiTOMi
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/natsumi/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/natsumi/)*

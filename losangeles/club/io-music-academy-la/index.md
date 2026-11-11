@@ -1,6 +1,6 @@
 # IO Music Academy LA
 
-IO Music Academy LA is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Intro to Music Production with Josh Wen" on Wed, 9 Dec 2026.
+IO Music Academy LA is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Intro to Music Production with Josh Wen" on Wed, 9 Dec 2026.
 
 IO Music Academy LA is a music venue in Los Angeles listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 1550 N Gower St.
 
@@ -15,4 +15,4 @@ IO Music Academy LA is a music venue in Los Angeles listed on soundcheck. 2 upco
 
 1550 N Gower St, Los Angeles
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/io-music-academy-la/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/io-music-academy-la/)*

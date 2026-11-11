@@ -1,8 +1,8 @@
 # Vasco
 
-Vasco is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Kasteel De Berckt, Netherlands on Fri, 20 Nov 2026.
+Vasco is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Kasteel De Berckt, Netherlands on Fri, 20 Nov 2026.
 
-Vasco is a house and disco artist based in Netherlands, with 54 gigs on soundcheck across Amsterdam, Berlin, Buenos Aires and Detroit and 7 more. Often billed alongside Mowgli (NL), Ajuma and I-F. Next up: Kasteel De Berckt, Netherlands on Fri 20 Nov.
+Vasco is a house and disco artist based in Netherlands, with 55 gigs on soundcheck across Amsterdam, Berlin, Buenos Aires and Detroit and 7 more. Often billed alongside Mowgli (NL), Ajuma and I-F. Next up: Kasteel De Berckt, Netherlands on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Vasco is a house and disco artist based in Netherlands, with 54 gigs on soundche
 | Fri, 20 Nov 2026 | Kasteel De Berckt | Netherlands |
 | Fri, 27 Nov 2026 | Doka | Amsterdam |
 | Sat, 28 Nov 2026 | Renate | Berlin |
+| Sat, 19 Dec 2026 | Shelter Amsterdam | Amsterdam |
 | Fri, 1 Jan 2027 | RADION | Amsterdam |
 
 ## Recently played
@@ -28,4 +29,4 @@ Vasco is a house and disco artist based in Netherlands, with 54 gigs on soundche
 
 Mowgli (NL), Ajuma, I-F
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vasco/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vasco/)*

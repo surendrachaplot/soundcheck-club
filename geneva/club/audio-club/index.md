@@ -1,6 +1,6 @@
 # Audio Club
 
-Audio Club is a music venue in Geneva with 6 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "MELOKO · Loulou Ferrari · Several Definitions" on Fri, 13 Nov 2026.
+Audio Club is a music venue in Geneva with 6 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "MELOKO · Loulou Ferrari · Several Definitions" on Fri, 13 Nov 2026.
 
 Audio Club is a music venue in Geneva listed on soundcheck. 6 upcoming gigs, with line-ups including Andrea Oliva, Black Loops, Chloe Martinez and DJ Tennis and 2 more. See dates, start times and who's playing. Boissonnas 20,  1227 Les Acacias - Genève.
 
@@ -19,4 +19,4 @@ Audio Club is a music venue in Geneva listed on soundcheck. 6 upcoming gigs, wit
 
 Boissonnas 20,  1227 Les Acacias - Genève, Geneva
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/audio-club/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/audio-club/)*

@@ -1,6 +1,6 @@
 # Brisbane Showgrounds
 
-Brisbane Showgrounds is a music venue in Brisbane with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. The next is "Wildlands Festival - Brisbane" on Thu, 31 Dec 2026.
+Brisbane Showgrounds is a music venue in Brisbane with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "Wildlands Festival - Brisbane" on Thu, 31 Dec 2026.
 
 Brisbane Showgrounds is a music venue in Brisbane listed on soundcheck. 1 upcoming gig, with line-ups including Anetha, Benwal, Dean Turnley and Ewan McVicar and 2 more. See dates, start times and who's playing. 600 Gregory Terrace, Bowen Hills QLD 4006, Australia.
 
@@ -8,10 +8,10 @@ Brisbane Showgrounds is a music venue in Brisbane listed on soundcheck. 1 upcomi
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 31 Dec 2026 | Wildlands Festival - Brisbane | Anetha, Benwal, Dean Turnley, Ewan McVicar, Frost Children, Funk Tribu, Hamdi, Hannah Laing, John Summit, KI/KI, Kyle Starkey, Layton Giordani, Lens (2), MPH (1), Nia Archives, Oppidan, Overmono, SPFDJ, Saint Ludo, Skepta, Yikes |
+| Thu, 31 Dec 2026 | Wildlands Festival - Brisbane | Anetha, Benwal, Dean Turnley, Ewan McVicar, Frost Children, Funk Tribu, Hamdi, Hannah Laing, John Summit, KI/KI, Kyle Starkey, Layton Giordani, Lens (2), MPH (1), Nia Archives, Oppidan, Overmono, SPFDJ, Saint Ludo, Skepta, Yikes, nikitasilly |
 
 ## Address
 
 600 Gregory Terrace, Bowen Hills QLD 4006, Australia, Brisbane
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/brisbane-showgrounds/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/brisbane-showgrounds/)*

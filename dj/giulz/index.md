@@ -1,6 +1,6 @@
 # GIULZ
 
-GIULZ is a Gabber and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA, Milan on Fri, 20 Nov 2026.
+GIULZ is a Gabber and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA, Milan on Fri, 20 Nov 2026.
 
 GIULZ is a gabber and hardcore artist based in Italy, with 10 gigs on soundcheck across London and Milan. Often billed alongside Arts.Diø, Baptist (UK) and Bárbara Lago. Next up: TBA, Milan on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ GIULZ is a gabber and hardcore artist based in Italy, with 10 gigs on soundcheck
 
 Arts.Diø, Baptist (UK), Bárbara Lago
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giulz/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giulz/)*

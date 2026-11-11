@@ -1,6 +1,6 @@
 # Somniac One
 
-Somniac One is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Zoo, Geneva on Fri, 20 Nov 2026.
+Somniac One is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Zoo, Geneva on Fri, 20 Nov 2026.
 
 Somniac One is a techno and hardcore artist based in Lithuania, with 87 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 29 more. Often billed alongside Perc, Ghost in the Machine and AnD. Next up: Zoo, Geneva on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Somniac One is a techno and hardcore artist based in Lithuania, with 87 gigs on 
 
 Perc, Ghost in the Machine, AnD
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/somniacone/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/somniacone/)*

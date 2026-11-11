@@ -1,6 +1,6 @@
 # Tangent Gallery
 
-Tangent Gallery is a music venue in Detroit with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Beauty & the Bass" on Fri, 13 Nov 2026.
+Tangent Gallery is a music venue in Detroit with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Beauty & the Bass" on Fri, 13 Nov 2026.
 
 Tangent Gallery is a music venue in Detroit listed on soundcheck. 5 upcoming gigs, with line-ups including Anarchotech, ANNĒ, CCL and Clarisa Kimskii and 2 more. See dates, start times and who's playing. 715 E Milwaukee St, Detroit, MI 48202.
 
@@ -18,4 +18,4 @@ Tangent Gallery is a music venue in Detroit listed on soundcheck. 5 upcoming gig
 
 715 E Milwaukee St, Detroit, MI 48202, Detroit
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tangent-gallery/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tangent-gallery/)*

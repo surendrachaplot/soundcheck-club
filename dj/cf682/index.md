@@ -1,6 +1,6 @@
 # CF682
 
-CF682 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Den Anden Side, Copenhagen on Fri, 13 Nov 2026.
+CF682 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Den Anden Side, Copenhagen on Fri, 13 Nov 2026.
 
 CF682 is a techno and trance artist based in Denmark, with 23 gigs on soundcheck across Copenhagen. Often billed alongside Lead Ore, Britney Speed and DJ BENDER. Next up: Den Anden Side, Copenhagen on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ CF682 is a techno and trance artist based in Denmark, with 23 gigs on soundcheck
 
 Lead Ore, Britney Speed, DJ BENDER
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cf682/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cf682/)*

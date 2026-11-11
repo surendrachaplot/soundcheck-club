@@ -1,6 +1,6 @@
 # Alex Nunes
 
-Alex Nunes is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - All My Friends + Secret Location, London on Sat, 14 Nov 2026.
+Alex Nunes is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - All My Friends + Secret Location, London on Sat, 14 Nov 2026.
 
 Alex Nunes is a house and techno artist based in Brazil, with 7 gigs on soundcheck across Barcelona and London. Often billed alongside G Belmonte, Simoon Pedro and Leonardo Cruz DJ. Next up: TBA - All My Friends + Secret Location, London on Sat 14 Nov.
 
@@ -23,4 +23,4 @@ Alex Nunes is a house and techno artist based in Brazil, with 7 gigs on soundche
 
 G Belmonte, Simoon Pedro, Leonardo Cruz DJ
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexnunes/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexnunes/)*

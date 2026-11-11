@@ -1,6 +1,6 @@
 # DJ Blasian
 
-DJ Blasian is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Jimmy Valentine's Lonely Hearts Club, Washington DC on Mon, 16 Nov 2026.
+DJ Blasian is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Jimmy Valentine's Lonely Hearts Club, Washington DC on Mon, 16 Nov 2026.
 
 DJ Blasian is a house and techno artist based in United States of America, with 77 gigs on soundcheck across Washington DC. Often billed alongside DJ DCM-9, DR MILLER and Freefall. Next up: Jimmy Valentine's Lonely Hearts Club, Washington DC on Mon 16 Nov.
 
@@ -26,4 +26,4 @@ DJ Blasian is a house and techno artist based in United States of America, with 
 
 DJ DCM-9, DR MILLER, Freefall
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djblasian/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djblasian/)*

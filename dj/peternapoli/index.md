@@ -1,6 +1,6 @@
 # Peter Napoli
 
-Peter Napoli is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Club Rawhide, New York City on Sat, 14 Nov 2026.
+Peter Napoli is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Club Rawhide, New York City on Sat, 14 Nov 2026.
 
 Peter Napoli is a house and techno artist based in United States of America, with 29 gigs on soundcheck across Mexico City, New York City and Philadelphia. Often billed alongside DROPO, Manny Ward and Andrew Lenox. Next up: Club Rawhide, New York City on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Peter Napoli is a house and techno artist based in United States of America, wit
 
 DROPO, Manny Ward, Andrew Lenox
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peternapoli/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peternapoli/)*

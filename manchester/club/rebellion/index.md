@@ -1,6 +1,6 @@
 # Rebellion
 
-Rebellion is a music venue in Manchester with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "25 Years Dacru Records • Manchester" on Sat, 28 Nov 2026.
+Rebellion is a music venue in Manchester with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "25 Years Dacru Records • Manchester" on Sat, 28 Nov 2026.
 
 Rebellion is a music venue in Manchester listed on soundcheck. 2 upcoming gigs, with line-ups including AJAY, Dach, Indeva and Jack Banner and 2 more. See dates, start times and who's playing. 2B Whitworth Street West, M1 5WZ Manchester, United Kingdom.
 
@@ -15,4 +15,4 @@ Rebellion is a music venue in Manchester listed on soundcheck. 2 upcoming gigs, 
 
 2B Whitworth Street West, M1 5WZ Manchester, United Kingdom, Manchester
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/rebellion/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/rebellion/)*

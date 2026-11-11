@@ -1,6 +1,6 @@
 # HARUNA (2)
 
-HARUNA (2) is a Afro House and Afrobeats artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Bolero, Seoul on Sat, 14 Nov 2026.
+HARUNA (2) is a Afro House and Afrobeats artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Bolero, Seoul on Sat, 14 Nov 2026.
 
 HARUNA is an afro house and afrobeats artist, with 37 gigs on soundcheck across Amsterdam, Barcelona, London and Paris and 2 more. Often billed alongside ZEE-2, JVINCENT and Sham Steele. Next up: Bolero, Seoul on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ HARUNA is an afro house and afrobeats artist, with 37 gigs on soundcheck across 
 
 ZEE-2, JVINCENT, Sham Steele
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/haruna-2/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/haruna-2/)*

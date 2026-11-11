@@ -1,6 +1,6 @@
 # Renderkid
 
-Renderkid is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Sala Oxido, Madrid on Fri, 27 Nov 2026.
+Renderkid is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Sala Oxido, Madrid on Fri, 27 Nov 2026.
 
 Renderkid is a techno and industrial artist based in Spain, with 7 gigs on soundcheck across Madrid. Often billed alongside Suko, HARVAR and John Holt. Next up: Sala Oxido, Madrid on Fri 27 Nov.
 
@@ -23,4 +23,4 @@ Renderkid is a techno and industrial artist based in Spain, with 7 gigs on sound
 
 Suko, HARVAR, John Holt
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/renderkid/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/renderkid/)*

@@ -1,6 +1,6 @@
 # DJ Narciso
 
-DJ Narciso is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Garage Noord, Amsterdam on Fri, 13 Nov 2026.
+DJ Narciso is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Garage Noord, Amsterdam on Fri, 13 Nov 2026.
 
 DJ Narciso is a techno and experimental artist based in Portugal, with 42 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 11 more. Often billed alongside DJ Lycox, DJ Marfox and DJ Firmeza. Next up: Garage Noord, Amsterdam on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ DJ Narciso is a techno and experimental artist based in Portugal, with 42 gigs o
 
 DJ Lycox, DJ Marfox, DJ Firmeza
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djnarciso/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djnarciso/)*

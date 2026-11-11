@@ -1,6 +1,6 @@
 # Evasive Records presents: Rob Pearson, Paul Donton, TriForm + more at Wavio Room
 
-Evasive Records presents: Rob Pearson, Paul Donton, TriForm + more at Wavio Room on Sat 14 Nov, Leeds. 4 artists: PAS, Rob Pearson, Sam Hoggard and TriForm. Tech House and Acid. See the line-up on soundcheck.
+Evasive Records presents: Rob Pearson, Paul Donton, TriForm + more at Wavio Room on Sat 14 Nov, Leeds. 4 artists: PAS (UK), Rob Pearson, Sam Hoggard and TriForm. Tech House and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ Evasive Records presents: Rob Pearson, Paul Donton, TriForm + more at Wavio Room
 
 ## Line-up
 
-- PAS
+- PAS (UK)
 - Rob Pearson
 - Sam Hoggard
 - TriForm

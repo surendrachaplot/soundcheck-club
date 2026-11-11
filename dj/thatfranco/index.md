@@ -1,6 +1,6 @@
 # That Franco
 
-That Franco is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at The Midway, San Francisco/Oakland on Sat, 14 Nov 2026.
+That Franco is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Midway, San Francisco/Oakland on Sat, 14 Nov 2026.
 
 That Franco is a house and garage artist based in United States of America, with 8 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Tripleset, cstr and Alex Edward. Next up: The Midway, San Francisco/Oakland on Sat 14 Nov.
 
@@ -24,4 +24,4 @@ That Franco is a house and garage artist based in United States of America, with
 
 Tripleset, cstr, Alex Edward
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thatfranco/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thatfranco/)*

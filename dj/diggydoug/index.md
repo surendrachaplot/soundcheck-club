@@ -1,6 +1,6 @@
 # Diggy Doug
 
-Diggy Doug is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Radio Radio, Amsterdam on Thu, 10 Dec 2026.
+Diggy Doug is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Radio Radio, Amsterdam on Thu, 10 Dec 2026.
 
 Diggy Doug is a house and deep house artist, with 15 gigs on soundcheck across Amsterdam and Berlin. Often billed alongside Kléo, Daiki Fukami and Arsy. Next up: Radio Radio, Amsterdam on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ Diggy Doug is a house and deep house artist, with 15 gigs on soundcheck across A
 
 Kléo, Daiki Fukami, Arsy
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diggydoug/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diggydoug/)*

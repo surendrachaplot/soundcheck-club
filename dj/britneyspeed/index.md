@@ -1,6 +1,6 @@
 # Britney Speed
 
-Britney Speed is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Den Anden Side, Copenhagen on Sat, 5 Dec 2026.
+Britney Speed is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Den Anden Side, Copenhagen on Sat, 5 Dec 2026.
 
 Britney Speed is a techno and house artist based in Denmark, with 94 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Copenhagen and 4 more. Often billed alongside Matriark, Dj Algorythm and Cockwhore & Macho. Next up: Den Anden Side, Copenhagen on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Britney Speed is a techno and house artist based in Denmark, with 94 gigs on sou
 
 Matriark, Dj Algorythm, Cockwhore & Macho
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/britneyspeed/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/britneyspeed/)*

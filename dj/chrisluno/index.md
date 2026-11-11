@@ -1,6 +1,6 @@
 # Chris Luno
 
-Chris Luno is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Igloofest, Montreal on Thu, 28 Jan 2027.
+Chris Luno is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Igloofest, Montreal on Thu, 28 Jan 2027.
 
 Chris Luno is a house and deep house artist based in Germany, with 93 gigs on soundcheck across Amsterdam, Bali, Basel and Berlin and 46 more. Often billed alongside dj poolboi, sunflwr and Aliska. Next up: Igloofest, Montreal on Thu 28 Jan.
 
@@ -25,4 +25,4 @@ Chris Luno is a house and deep house artist based in Germany, with 93 gigs on so
 
 dj poolboi, sunflwr, Aliska
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisluno/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisluno/)*

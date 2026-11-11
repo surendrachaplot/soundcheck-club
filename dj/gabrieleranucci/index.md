@@ -1,6 +1,6 @@
 # Gabriele Ranucci
 
-Gabriele Ranucci is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Duel Club, Naples on Sat, 14 Nov 2026.
+Gabriele Ranucci is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Duel Club, Naples on Sat, 14 Nov 2026.
 
 Gabriele Ranucci is a tech house and house artist based in Italy, with 15 gigs on soundcheck across Amsterdam, Ibiza, London and Naples. Often billed alongside Key Eff, Alex Bohemien and Bruno Mazzei. Next up: Duel Club, Naples on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Gabriele Ranucci is a tech house and house artist based in Italy, with 15 gigs o
 
 Key Eff, Alex Bohemien, Bruno Mazzei
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrieleranucci/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrieleranucci/)*

@@ -1,6 +1,6 @@
 # Night Tales: VHOOR, Jordss & Ìyáàlù at Night Tales
 
-Night Tales: VHOOR, Jordss & Ìyáàlù on Fri 20 Nov, London. 3 artists: Ìyáàlù, Jordss and VHOOR. Baile Funk. See the line-up on soundcheck.
+Night Tales: VHOOR, Jordss & Ìyáàlù on Fri 20 Nov, London. 3 artists: Ìyáàlù, Jordss and VHOOR. Bass and Baile Funk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

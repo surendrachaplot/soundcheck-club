@@ -1,6 +1,6 @@
 # nazanael
 
-nazanael is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Bolero, Seoul on Fri, 13 Nov 2026.
+nazanael is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Bolero, Seoul on Fri, 13 Nov 2026.
 
 nazanael is a techno and bass artist based in Japan, with 43 gigs on soundcheck across Osaka, Seoul and Tokyo. Often billed alongside cazbow, TAKENOKO and kengotaki. Next up: Bolero, Seoul on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ nazanael is a techno and bass artist based in Japan, with 43 gigs on soundcheck 
 
 cazbow, TAKENOKO, kengotaki
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nazanael/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nazanael/)*

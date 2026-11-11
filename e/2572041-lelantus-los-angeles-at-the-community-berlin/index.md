@@ -1,6 +1,6 @@
-# LELANTUS: LOS ANGELES at The Community Berlin
+# Lelantus: Los Angeles at The Community Berlin
 
-LELANTUS: LOS ANGELES at The Community Berlin on Sat 26 Dec, Los Angeles. 2 artists: Black Box and Sesli. Techno and House. See the line-up on soundcheck.
+Lelantus: Los Angeles at The Community Berlin on Sat 26 Dec, Los Angeles. 2 artists: Black Box and Sesli. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

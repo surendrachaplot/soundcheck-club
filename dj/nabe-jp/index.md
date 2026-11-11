@@ -1,6 +1,6 @@
 # NABE
 
-NABE is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Koenji Cave, Tokyo on Fri, 13 Nov 2026.
+NABE is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Koenji Cave, Tokyo on Fri, 13 Nov 2026.
 
 NABE is a techno and house artist, with 92 gigs on soundcheck across Austin, Osaka and Tokyo. Often billed alongside Dr.Tommy, O-MAN and Yos.. Next up: Koenji Cave, Tokyo on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ NABE is a techno and house artist, with 92 gigs on soundcheck across Austin, Osa
 
 Dr.Tommy, O-MAN, Yos.
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nabe-jp/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nabe-jp/)*

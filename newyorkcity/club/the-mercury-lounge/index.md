@@ -1,6 +1,6 @@
 # The Mercury Lounge
 
-The Mercury Lounge is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. The next is "The Wave and NEVERHOME" on Wed, 18 Nov 2026.
+The Mercury Lounge is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "The Wave and NEVERHOME" on Wed, 18 Nov 2026.
 
 The Mercury Lounge is a music venue in New York City listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ The Mercury Lounge is a music venue in New York City listed on soundcheck. 1 upc
 | --- | --- | --- |
 | Wed, 18 Nov 2026 | The Wave and NEVERHOME |  |
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-mercury-lounge/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-mercury-lounge/)*

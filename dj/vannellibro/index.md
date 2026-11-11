@@ -1,6 +1,6 @@
 # Vannelli Bros
 
-Vannelli Bros is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Fri, 27 Nov 2026.
+Vannelli Bros is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Fri, 27 Nov 2026.
 
 Vannelli Bros is a house and electronica artist based in Italy, with 87 gigs on soundcheck across Milan. Often billed alongside Giamma Soren, Uabos and Joe T Vannelli. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Vannelli Bros is a house and electronica artist based in Italy, with 87 gigs on 
 
 Giamma Soren, Uabos, Joe T Vannelli
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vannellibro/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vannellibro/)*

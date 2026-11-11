@@ -1,6 +1,6 @@
 # Solin
 
-Solin is a Bass and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Katowice , Poland on Fri, 13 Nov 2026.
+Solin is a Bass and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Katowice , Poland on Fri, 13 Nov 2026.
 
 Solin is a bass and tech house artist based in Poland, with 13 gigs on soundcheck across Copenhagen, Krakow, Poland and Warsaw. Often billed alongside Adnable, Kaj.O and shhron. Next up: TBA - Katowice , Poland on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Solin is a bass and tech house artist based in Poland, with 13 gigs on soundchec
 
 Adnable, Kaj.O, shhron
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/solin/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/solin/)*

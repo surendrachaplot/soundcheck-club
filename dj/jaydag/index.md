@@ -1,6 +1,6 @@
 # Jayda G
 
-Jayda G is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at DRUMSHEDS, London on Fri, 13 Nov 2026.
+Jayda G is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at DRUMSHEDS, London on Fri, 13 Nov 2026.
 
 Jayda G is a house and techno artist based in Canada, with 140 gigs on soundcheck across Amsterdam, Austria, Bali and Barcelona and 54 more. Often billed alongside salute, Ewan McVicar and Melvo Baptiste. Next up: DRUMSHEDS, London on Fri 13 Nov.
 
@@ -31,4 +31,4 @@ Jayda G is a house and techno artist based in Canada, with 140 gigs on soundchec
 
 salute, Ewan McVicar, Melvo Baptiste
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaydag/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaydag/)*

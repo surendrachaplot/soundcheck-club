@@ -1,6 +1,6 @@
 # 222babychai
 
-222babychai is a Electro and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Stereo, Glasgow on Sat, 14 Nov 2026.
+222babychai is a Electro and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Stereo, Glasgow on Sat, 14 Nov 2026.
 
 222babychai is an electro and bass artist based in United Kingdom, with 23 gigs on soundcheck across Glasgow and Liverpool. Often billed alongside DIJA, Salam Kitty and Halal Kitty. Next up: Stereo, Glasgow on Sat 14 Nov.
 
@@ -25,4 +25,4 @@
 
 DIJA, Salam Kitty, Halal Kitty
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/222babychai/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/222babychai/)*

@@ -1,6 +1,6 @@
 # Brixton Jamm
 
-Brixton Jamm is a music venue in London with 12 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Jungle Splash" on Fri, 13 Nov 2026.
+Brixton Jamm is a music venue in London with 12 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Jungle Splash" on Fri, 13 Nov 2026.
 
 Brixton Jamm is a music venue in London listed on soundcheck. 12 upcoming gigs, with line-ups including Aries, Benny Page, Bladerunner and Deekline and 2 more. See dates, start times and who's playing. 261 Brixton Road; Brixton; London SW9 6LH; United Kingdom.
 
@@ -13,7 +13,7 @@ Brixton Jamm is a music venue in London listed on soundcheck. 12 upcoming gigs, 
 | Fri, 20 Nov 2026 | JammRock |  |
 | Sat, 21 Nov 2026 | Dirty Disco: Episode 1 |  |
 | Fri, 27 Nov 2026 | Bad Habits launch: DJs playing Lola Young, Sienna Spiro, The 1975, Harry Styles..& more |  |
-| Fri, 4 Dec 2026 | LAJU - Juls & Larizzle | Juls, Larizzle |
+| Fri, 4 Dec 2026 | LAJU - Juls & Larizzle XMAS Special | Juls, Larizzle |
 | Sat, 5 Dec 2026 | Jungle Cakes: Christmas Dubplate Special | Aries, Benny Page, Bladerunner, Deekline, G-Class, Kelvin 373, Killa P, Millz, Navigator |
 | Fri, 11 Dec 2026 | Tyson Fury v Anthony Joshua - SCREENING & PARTY |  |
 | Sat, 12 Dec 2026 | UCOJ: Secret Santa part II | DJ Brockie, Funsta, Harry Shotta, Nicky Blackmarket, Remarc, The Ragga Twins, Uncle Dugs |
@@ -23,4 +23,4 @@ Brixton Jamm is a music venue in London listed on soundcheck. 12 upcoming gigs, 
 
 261 Brixton Road; Brixton; London SW9 6LH; United Kingdom, London
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/brixton-jamm/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/brixton-jamm/)*

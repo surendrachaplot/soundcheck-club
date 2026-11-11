@@ -1,6 +1,6 @@
 # Miss Monique
 
-Miss Monique is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Brooklyn Pacha, New York City on Fri, 13 Nov 2026.
+Miss Monique is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Brooklyn Pacha, New York City on Fri, 13 Nov 2026.
 
 Miss Monique is a techno and house artist based in Ukraine, with 264 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 66 more. Often billed alongside Hugel, Artbat and CamelPhat. Next up: Brooklyn Pacha, New York City on Fri 13 Nov.
 
@@ -32,4 +32,4 @@ Miss Monique is a techno and house artist based in Ukraine, with 264 gigs on sou
 
 Hugel, Artbat, CamelPhat
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/missmonique/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/missmonique/)*

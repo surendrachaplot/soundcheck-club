@@ -1,6 +1,6 @@
 # The Peel Back at Spkrbox
 
-The Peel Back at Spkrbox on Wed 11 Nov, Detroit. 2 artists: Dust (GR) and Loren. See the line-up on soundcheck.
+The Peel Back at Spkrbox on Wed 11 Nov, Detroit. 2 artists: Dust (GR) and Loren. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

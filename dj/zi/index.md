@@ -1,6 +1,6 @@
 # zi!
 
-zi! is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Biltmore Cabaret, Vancouver on Thu, 10 Dec 2026.
+zi! is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Biltmore Cabaret, Vancouver on Thu, 10 Dec 2026.
 
 zi! is a techno and bass artist based in Canada, with 77 gigs on soundcheck across Auckland, Baltimore, Berlin and Chicago and 11 more. Often billed alongside Field Note, Dijipoune and Lia Plutonic. Next up: Biltmore Cabaret, Vancouver on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ zi! is a techno and bass artist based in Canada, with 77 gigs on soundcheck acro
 
 Field Note, Dijipoune, Lia Plutonic
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zi/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zi/)*

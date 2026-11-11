@@ -1,6 +1,6 @@
 # Nikki Guild
 
-Nikki Guild is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at The Leith Depot, Edinburgh on Fri, 13 Nov 2026.
+Nikki Guild is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Leith Depot, Edinburgh on Fri, 13 Nov 2026.
 
 Nikki Guild is a house and techno artist based in United Kingdom, with 20 gigs on soundcheck across Edinburgh. Often billed alongside ona:v, Iona.Violet and Hellæktra. Next up: The Leith Depot, Edinburgh on Fri 13 Nov.
 
@@ -28,4 +28,4 @@ Nikki Guild is a house and techno artist based in United Kingdom, with 20 gigs o
 
 ona:v, Iona.Violet, Hellæktra
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkiguild/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkiguild/)*

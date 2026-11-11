@@ -1,6 +1,6 @@
 # Fairmount Theatre
 
-Fairmount Theatre is a music venue in Montreal with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Cannelle - Montréal" on Fri, 13 Nov 2026.
+Fairmount Theatre is a music venue in Montreal with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Cannelle - Montréal" on Fri, 13 Nov 2026.
 
 Fairmount Theatre is a music venue in Montreal listed on soundcheck. 5 upcoming gigs, with line-ups including Baby Jane, Cannelle, Modeselektor and Romain Garcia. See dates, start times and who's playing. 5240 Park Ave, Montreal, Quebec H2V 4G7.
 
@@ -18,4 +18,4 @@ Fairmount Theatre is a music venue in Montreal listed on soundcheck. 5 upcoming 
 
 5240 Park Ave, Montreal, Quebec H2V 4G7, Montreal
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/fairmount-theatre/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/fairmount-theatre/)*

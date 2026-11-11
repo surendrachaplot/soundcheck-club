@@ -1,6 +1,6 @@
 # FoxMind
 
-FoxMind is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Humboldthain Club, Berlin on Fri, 20 Nov 2026.
+FoxMind is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Humboldthain Club, Berlin on Fri, 20 Nov 2026.
 
 FoxMind is a techno and electronica artist based in United Kingdom, with 34 gigs on soundcheck across Berlin and Dortmund / Essen. Often billed alongside Janosch, Serving Suggestions and Aezron. Next up: Humboldthain Club, Berlin on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ FoxMind is a techno and electronica artist based in United Kingdom, with 34 gigs
 
 Janosch (2), Serving Suggestions, Aezron
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/foxmind/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/foxmind/)*

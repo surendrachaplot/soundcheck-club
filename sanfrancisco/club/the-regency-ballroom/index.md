@@ -1,6 +1,6 @@
 # The Regency Ballroom
 
-The Regency Ballroom is a music venue in San Francisco/Oakland with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Brutalismus 3000" on Sun, 22 Nov 2026.
+The Regency Ballroom is a music venue in San Francisco/Oakland with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Brutalismus 3000" on Sun, 22 Nov 2026.
 
 The Regency Ballroom is a music venue in San Francisco/Oakland listed on soundcheck. 4 upcoming gigs, with line-ups including ali rq, Brutalismus 3000, deBasement and erika (SF) and 2 more. See dates, start times and who's playing. 1290 Sutter St, San Francisco, CA 94109, USA.
 
@@ -17,4 +17,4 @@ The Regency Ballroom is a music venue in San Francisco/Oakland listed on soundch
 
 1290 Sutter St, San Francisco, CA 94109, USA, San Francisco/Oakland
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-regency-ballroom/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-regency-ballroom/)*

@@ -1,6 +1,6 @@
 # Hyun (KR)
 
-Hyun (KR) is a Techno and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Sun, 29 Nov 2026.
+Hyun (KR) is a Techno and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Sun, 29 Nov 2026.
 
 Hyun (KR) is a techno and disco artist based in South Korea, with 6 gigs on soundcheck across Seoul and Tokyo. Often billed alongside Peace Keeper, ASYNC and DOHWA. Next up: DJ Bar Bridge Shinjuku, Tokyo on Sun 29 Nov.
 
@@ -22,4 +22,4 @@ Hyun (KR) is a techno and disco artist based in South Korea, with 6 gigs on soun
 
 Peace Keeper, ASYNC, DOHWA
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hyun-kr/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hyun-kr/)*

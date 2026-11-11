@@ -1,8 +1,8 @@
 # Obscure Shape
 
-Obscure Shape is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Hans Bunte Areal, Freiburg on Sat, 14 Nov 2026.
+Obscure Shape is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Hans Bunte Areal, Freiburg on Sat, 14 Nov 2026.
 
-Obscure Shape is a techno and house artist based in Germany, with 119 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 43 more. Often billed alongside SHDW, Laure Croft and 999999999. Next up: Hans Bunte Areal, Freiburg on Sat 14 Nov.
+Obscure Shape is a techno and house artist based in Germany, with 120 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 43 more. Often billed alongside SHDW, Laure Croft and 999999999. Next up: Hans Bunte Areal, Freiburg on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Obscure Shape is a techno and house artist based in Germany, with 119 gigs on so
 | Fri, 20 Nov 2026 | OXI | Berlin |
 | Sat, 21 Nov 2026 | Gate Milano | Milan |
 | Sat, 28 Nov 2026 | BEC (Bilbao Exhibition Center) | North |
+| Fri, 4 Dec 2026 | Gotec | Karlsruhe |
 | Sat, 12 Dec 2026 | Club Guesthouse | Bucharest |
 | Sun, 20 Dec 2026 | Mia Mao | Paris |
 
@@ -31,4 +32,4 @@ Obscure Shape is a techno and house artist based in Germany, with 119 gigs on so
 
 SHDW, Laure Croft, 999999999
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/obscureshape/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/obscureshape/)*

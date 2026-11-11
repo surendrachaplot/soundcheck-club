@@ -1,8 +1,8 @@
 # Mitsuki
 
-Mitsuki is a music venue in Tokyo with 11 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Robert Bergman/Marco Weibel/Kikiorix" on Tue, 10 Nov 2026.
+Mitsuki is a music venue in Tokyo with 16 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Robert Bergman/Marco Weibel/Kikiorix" on Tue, 10 Nov 2026.
 
-Mitsuki is a music venue in Tokyo listed on soundcheck. 11 upcoming gigs, with line-ups including DJ Zenta, FELINE (JP), Iori and Karuta and 2 more. See dates, start times and who's playing. 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan.
+Mitsuki is a music venue in Tokyo listed on soundcheck. 16 upcoming gigs, with line-ups including DJ Zenta, FELINE (JP), Iori and K.E.G and 2 more. See dates, start times and who's playing. 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan.
 
 ## What's on
 
@@ -14,13 +14,13 @@ Mitsuki is a music venue in Tokyo listed on soundcheck. 11 upcoming gigs, with l
 | Thu, 12 Nov 2026 | NF | levolant |
 | Fri, 13 Nov 2026 | DISCO ROCKERS |  |
 | Sat, 14 Nov 2026 | Freaky Fusion | Karuta |
-| Sun, 22 Nov 2026 | Nicola Cruz & Silvia Ponce in Tokyo |  |
-| Sun, 22 Nov 2026 | Nicola Cruz & Silvia Ponce in Tokyo | DJ Zenta, Nicola Cruz, Silvia Ponce |
-| Fri, 27 Nov 2026 | Dependance | Iori, Yama, niwa |
-| Fri, 4 Dec 2026 | SpeLL | Sina (AU), Vlada, levolant |
+| Sat, 14 Nov 2026 | Rad | K.E.G, Oho., P-YAN |
+| Mon, 16 Nov 2026 | RUI HAYAKAWA/STACK/Manaha | Manaha |
+| Tue, 17 Nov 2026 | Hii/煌/rikuto/Shinsuke Goto | Shinsuke Goto |
+| Thu, 19 Nov 2026 | Mr.Disco Kid |  |
 
 ## Address
 
 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan, Tokyo
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/mitsuki/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/mitsuki/)*

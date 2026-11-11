@@ -1,6 +1,6 @@
 # Shebanese à la Kater at Kater
 
-Shebanese à la Kater on Thu 10 Dec, Berlin. 3 artists: der Ackermann, Dirty Hands and HANNAHHANSEN. Techno and House. See the line-up on soundcheck.
+Shebanese à la Kater on Thu 10 Dec, Berlin. 2 artists: der Ackermann and HANNAHHANSEN. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,6 @@ Shebanese à la Kater on Thu 10 Dec, Berlin. 3 artists: der Ackermann, Dirty Han
 ## Line-up
 
 - der Ackermann
-- Dirty Hands
 - HANNAHHANSEN
 
 *Source: [soundcheck](https://soundcheck.club/e/2578163-shebanese-la-kater-at-kater/)*

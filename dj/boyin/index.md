@@ -1,6 +1,6 @@
 # Bo Yin
 
-Bo Yin is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Final, Taipei on Sat, 21 Nov 2026.
+Bo Yin is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Final, Taipei on Sat, 21 Nov 2026.
 
 Bo Yin is a techno and bass artist based in Taiwan, with 29 gigs on soundcheck across Bangkok, Hanoi, Taipei and Tokyo. Often billed alongside B E N N, KUAN and Goth-Trad. Next up: Final, Taipei on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Bo Yin is a techno and bass artist based in Taiwan, with 29 gigs on soundcheck a
 
 B E N N, KUAN, Goth-Trad
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boyin/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boyin/)*

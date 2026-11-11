@@ -1,6 +1,6 @@
 # Verushka
 
-Verushka is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Dalston Den, London on Fri, 27 Nov 2026.
+Verushka is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Dalston Den, London on Fri, 27 Nov 2026.
 
 Verushka is a house and techno artist based in Venezuela, with 104 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 9 more. Often billed alongside Acidnena, Meritxell De Soto and Hello Sasy. Next up: Dalston Den, London on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Verushka is a house and techno artist based in Venezuela, with 104 gigs on sound
 
 Acidnena, Meritxell De Soto, Hello Sasy
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/verushka/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/verushka/)*

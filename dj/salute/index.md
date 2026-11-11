@@ -1,6 +1,6 @@
 # salute
 
-salute is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 13 Nov 2026.
+salute is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 13 Nov 2026.
 
 salute is a house and techno artist based in Austria, with 211 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 67 more. Often billed alongside HAAi, DJ BORING and Eliza Rose. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 13 Nov.
 
@@ -34,4 +34,4 @@ salute is a house and techno artist based in Austria, with 211 gigs on soundchec
 
 HAAi, DJ BORING, Eliza Rose
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/salute/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/salute/)*

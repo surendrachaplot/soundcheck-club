@@ -1,6 +1,6 @@
 # MS.SMITH
 
-MS.SMITH is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at White Horse Inn, San Francisco/Oakland on Fri, 20 Nov 2026.
+MS.SMITH is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at White Horse Inn, San Francisco/Oakland on Fri, 20 Nov 2026.
 
 MS.SMITH is a techno and bass artist based in United States of America, with 7 gigs on soundcheck across New York City and San Francisco/Oakland. Often billed alongside Del, FINISHHER and Lonald J. Bandz. Next up: White Horse Inn, San Francisco/Oakland on Fri 20 Nov.
 
@@ -23,4 +23,4 @@ MS.SMITH is a techno and bass artist based in United States of America, with 7 g
 
 Del (4), FINISHHER, Lonald J. Bandz
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ms.smith/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ms.smith/)*

@@ -1,6 +1,6 @@
 # Teknocrat
 
-Teknocrat is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Sketchy Beats Cafe, Edinburgh on Sat, 28 Nov 2026.
+Teknocrat is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Sketchy Beats Cafe, Edinburgh on Sat, 28 Nov 2026.
 
 Teknocrat is a drum & bass and techno artist based in United Kingdom, with 24 gigs on soundcheck across Edinburgh. Often billed alongside Rodent, F:N (UK) and Pollyanna. Next up: Sketchy Beats Cafe, Edinburgh on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Teknocrat is a drum & bass and techno artist based in United Kingdom, with 24 gi
 
 Rodent, F:N (UK), Pollyanna
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/teknocrat/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/teknocrat/)*

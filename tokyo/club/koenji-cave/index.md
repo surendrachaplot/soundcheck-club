@@ -1,8 +1,8 @@
 # Koenji Cave
 
-Koenji Cave is a music venue in Tokyo with 6 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Koenji Cave presents; Elven Dance - Vol.36" on Fri, 13 Nov 2026.
+Koenji Cave is a music venue in Tokyo with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Koenji Cave presents; Elven Dance - Vol.36" on Fri, 13 Nov 2026.
 
-Koenji Cave is a music venue in Tokyo listed on soundcheck. 6 upcoming gigs, with line-ups including CyberMoripy, Funky Gong, Jerry and Jun (+886) and 2 more. See dates, start times and who's playing. 4-23-5 Koenjiminami, Suginami-ku, Tokyo, 166-0003 Japan.
+Koenji Cave is a music venue in Tokyo listed on soundcheck. 7 upcoming gigs, with line-ups including CyberMoripy, Funky Gong, Jerry and Jun (+886) and 2 more. See dates, start times and who's playing. 4-23-5 Koenjiminami, Suginami-ku, Tokyo, 166-0003 Japan.
 
 ## What's on
 
@@ -14,9 +14,10 @@ Koenji Cave is a music venue in Tokyo listed on soundcheck. 6 upcoming gigs, wit
 | Sat, 21 Nov 2026 | Koenji Cave presents: Apparition - The 23rd Chapter | NAOKI, kent |
 | Fri, 27 Nov 2026 | Koenji Cave presents Laboratory Vol.36 | Jerry |
 | Sat, 28 Nov 2026 | Koenji Cave presents: Tempest - Vol.25 |  |
+| Sat, 5 Dec 2026 | 音怪-onkai- |  |
 
 ## Address
 
 4-23-5 Koenjiminami, Suginami-ku, Tokyo, 166-0003 Japan, Tokyo
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/koenji-cave/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/koenji-cave/)*

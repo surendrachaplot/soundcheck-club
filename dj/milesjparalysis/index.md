@@ -1,6 +1,6 @@
 # Miles J Paralysis
 
-Miles J Paralysis is a Dub and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Elastica, Vilnius on Thu, 12 Nov 2026.
+Miles J Paralysis is a Dub and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Elastica, Vilnius on Thu, 12 Nov 2026.
 
 Miles J Paralysis is a dub and techno artist based in United Kingdom, with 11 gigs on soundcheck across Aberdeen, Berlin, Glasgow and Leeds and 2 more. Often billed alongside GK Machine, LOVELL and Mike BC. Next up: Elastica, Vilnius on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Miles J Paralysis is a dub and techno artist based in United Kingdom, with 11 gi
 
 GK Machine, LOVELL, Mike BC
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milesjparalysis/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milesjparalysis/)*

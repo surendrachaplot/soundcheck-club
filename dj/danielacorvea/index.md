@@ -1,6 +1,6 @@
 # Daniela Corvea
 
-Daniela Corvea is a Drum & Bass and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Club Makossa, London on Fri, 13 Nov 2026.
+Daniela Corvea is a Drum & Bass and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Club Makossa, London on Fri, 13 Nov 2026.
 
 Daniela Corvea is a drum & bass and house artist based in United Kingdom, with 17 gigs on soundcheck across London. Often billed alongside House of Allegro, Ali Reloop and Niumigi. Next up: Club Makossa, London on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Daniela Corvea is a drum & bass and house artist based in United Kingdom, with 1
 
 House of Allegro, Ali Reloop, Niumigi
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielacorvea/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielacorvea/)*

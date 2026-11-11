@@ -1,6 +1,6 @@
 # A.tari
 
-A.tari is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Studio1111, Berlin on Fri, 4 Dec 2026.
+A.tari is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Studio1111, Berlin on Fri, 4 Dec 2026.
 
 A.tari is a house and disco artist based in Germany, with 31 gigs on soundcheck across Berlin and Munich. Often billed alongside Kapote, Arpy Brown and Lars Eidinger. Next up: Studio1111, Berlin on Fri 4 Dec.
 
@@ -9,7 +9,7 @@ A.tari is a house and disco artist based in Germany, with 31 gigs on soundcheck 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | Studio1111 | Berlin |
-| Fri, 18 Dec 2026 | TBA - Sendlinger-tor-platz 11, 80336 München | Munich |
+| Fri, 18 Dec 2026 | Dings | Munich |
 
 ## Recently played
 
@@ -26,4 +26,4 @@ A.tari is a house and disco artist based in Germany, with 31 gigs on soundcheck 
 
 Kapote, Arpy Brown, Lars Eidinger
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/a.tari/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/a.tari/)*

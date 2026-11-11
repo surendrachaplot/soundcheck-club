@@ -1,6 +1,6 @@
 # jamea.
 
-jamea. is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Menjo's, Detroit on Sat, 28 Nov 2026.
+jamea. is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Menjo's, Detroit on Sat, 28 Nov 2026.
 
 jamea. is a techno and club artist based in United States of America, with 58 gigs on soundcheck across Amsterdam, Chicago, Detroit and Nashville and 1 more. Often billed alongside we1sman, Wax Assassin and Ember LaFiamma. Next up: Menjo's, Detroit on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ jamea. is a techno and club artist based in United States of America, with 58 gi
 
 we1sman, Wax Assassin, Ember LaFiamma
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamea./)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamea./)*

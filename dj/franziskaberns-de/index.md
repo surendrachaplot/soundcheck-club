@@ -1,6 +1,6 @@
 # Franziska Berns
 
-Franziska Berns is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Distillery, Leipzig on Sat, 14 Nov 2026.
+Franziska Berns is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Distillery, Leipzig on Sat, 14 Nov 2026.
 
 Franziska Berns is a house and techno artist based in Germany, with 108 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 31 more. Often billed alongside dj sweet6teen, BASHKKA and JakoJako. Next up: Distillery, Leipzig on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Franziska Berns is a house and techno artist based in Germany, with 108 gigs on 
 
 dj sweet6teen, BASHKKA, JakoJako
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/franziskaberns-de/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/franziskaberns-de/)*

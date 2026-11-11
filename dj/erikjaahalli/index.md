@@ -1,8 +1,8 @@
 # Erik Jäähalli
 
-Erik Jäähalli is a Trance and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at ://about blank, Berlin on Sat, 21 Nov 2026.
+Erik Jäähalli is a Trance and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at ://about blank, Berlin on Sat, 21 Nov 2026.
 
-Erik Jäähalli is a trance and house artist, with 6 gigs on soundcheck across Berlin. Often billed alongside Hang Aoki, Jessamine and Lena Brumby. Next up: ://about blank, Berlin on Sat 21 Nov.
+Erik Jäähalli is a trance and house artist based in Sweden, with 6 gigs on soundcheck across Berlin. Often billed alongside Hang Aoki, Jessamine and Lena Brumby. Next up: ://about blank, Berlin on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -22,4 +22,4 @@ Erik Jäähalli is a trance and house artist, with 6 gigs on soundcheck across B
 
 Hang Aoki, Jessamine, Lena Brumby
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erikjaahalli/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erikjaahalli/)*

@@ -1,6 +1,6 @@
 # Waajeed
 
-Waajeed is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at RADION, Amsterdam on Thu, 31 Dec 2026.
+Waajeed is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at RADION, Amsterdam on Thu, 31 Dec 2026.
 
 Waajeed is a house and techno artist based in United States of America, with 75 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 28 more. Often billed alongside LADYMONIX, Carl Craig and DJ Holographic. Next up: RADION, Amsterdam on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Waajeed is a house and techno artist based in United States of America, with 75 
 
 LADYMONIX, Carl Craig, DJ Holographic
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/waajeed/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/waajeed/)*

@@ -1,6 +1,6 @@
 # Kerri Chandler
 
-Kerri Chandler is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Northcote Theatre, Melbourne on Fri, 27 Nov 2026.
+Kerri Chandler is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Northcote Theatre, Melbourne on Fri, 27 Nov 2026.
 
 Kerri Chandler is a house and techno artist based in United States of America, with 165 gigs on soundcheck across Amsterdam, Austin, Barcelona and Basel and 39 more. Often billed alongside Seth Troxler, CHRIS STASSY and DJ Deep. Next up: Northcote Theatre, Melbourne on Fri 27 Nov.
 
@@ -28,4 +28,4 @@ Kerri Chandler is a house and techno artist based in United States of America, w
 
 Seth Troxler, CHRIS STASSY, DJ Deep
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kerrichandler/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kerrichandler/)*

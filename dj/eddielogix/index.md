@@ -1,8 +1,8 @@
 # Eddie Logix
 
-Eddie Logix is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Cafe Bourbon Street, Ohio on Fri, 13 Nov 2026.
+Eddie Logix is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Cafe Bourbon Street, Ohio on Fri, 13 Nov 2026.
 
-Eddie Logix is a house and disco artist based in United States of America, with 162 gigs on soundcheck across Chicago, Cleveland, Detroit and New York City and 4 more. Often billed alongside Jo Rad Silver, Peter Croce and Crate Digga. Next up: Cafe Bourbon Street, Ohio on Fri 13 Nov.
+Eddie Logix is a house and disco artist based in United States of America, with 163 gigs on soundcheck across Chicago, Cleveland, Detroit and New York City and 4 more. Often billed alongside Jo Rad Silver, Peter Croce and Crate Digga. Next up: Cafe Bourbon Street, Ohio on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Eddie Logix is a house and disco artist based in United States of America, with 
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Cafe Bourbon Street | Ohio |
 | Fri, 20 Nov 2026 | TV Lounge | Detroit |
+| Wed, 25 Nov 2026 | Vesper Books And Wine | Detroit |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Eddie Logix is a house and disco artist based in United States of America, with 
 
 Jo Rad Silver, Peter Croce, Crate Digga
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eddielogix/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eddielogix/)*

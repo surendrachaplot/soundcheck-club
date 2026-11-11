@@ -1,6 +1,6 @@
 # Di Chiara Brothers
 
-Di Chiara Brothers is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Lab11, Birmingham on Sat, 14 Nov 2026.
+Di Chiara Brothers is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Lab11, Birmingham on Sat, 14 Nov 2026.
 
 Di Chiara Brothers is a tech house and house artist based in Italy, with 32 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Buenos Aires and 13 more. Often billed alongside Chiara B, East End Dubs and RUZE. Next up: Lab11, Birmingham on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Di Chiara Brothers is a tech house and house artist based in Italy, with 32 gigs
 
 Chiara B, East End Dubs, RUZE
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dichiarabrothers/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dichiarabrothers/)*

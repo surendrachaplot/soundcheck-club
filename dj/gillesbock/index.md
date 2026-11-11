@@ -1,6 +1,6 @@
 # Gilles Bock
 
-Gilles Bock is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - SECRET BUNKER, Cologne on Sat, 14 Nov 2026.
+Gilles Bock is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - SECRET BUNKER, Cologne on Sat, 14 Nov 2026.
 
 Gilles Bock is a techno and trance artist based in Germany, with 10 gigs on soundcheck across Cologne and Luxembourg. Often billed alongside Kos:mo, Steven Shade and Tschatsching. Next up: TBA - SECRET BUNKER, Cologne on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Gilles Bock is a techno and trance artist based in Germany, with 10 gigs on soun
 
 Kos:mo, Steven Shade, Tschatsching
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gillesbock/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gillesbock/)*

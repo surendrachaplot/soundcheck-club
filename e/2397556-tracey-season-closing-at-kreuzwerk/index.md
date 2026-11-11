@@ -16,7 +16,7 @@ tracey [season closing] at KREUZWERK on Sat 14 Nov, Berlin. 20 artists: ADAM MUN
 - Bella Sarris
 - Costanza
 - DJ Petite
-- Goldie
+- goldie (2)
 - Handmade
 - Immy
 - Jonathan Apelbaum

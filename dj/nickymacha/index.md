@@ -1,6 +1,6 @@
 # Nicky Macha
 
-Nicky Macha is a Electro and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Gaffe, London on Sat, 5 Dec 2026.
+Nicky Macha is a Electro and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Gaffe, London on Sat, 5 Dec 2026.
 
 Nicky Macha is an electro and house artist based in United Kingdom, with 51 gigs on soundcheck across Barcelona, Berlin, Bologna and Boston and 13 more. Often billed alongside Kensa, Gabbs and Philo (IT). Next up: Gaffe, London on Sat 5 Dec.
 
@@ -28,4 +28,4 @@ Nicky Macha is an electro and house artist based in United Kingdom, with 51 gigs
 
 Kensa, Gabbs, Philo (IT)
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nickymacha/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nickymacha/)*

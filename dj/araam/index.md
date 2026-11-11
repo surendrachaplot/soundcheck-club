@@ -1,6 +1,6 @@
 # Araam
 
-Araam is a Minimal and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA -  Austria - Linz, Linz on Sat, 21 Nov 2026.
+Araam is a Minimal and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA -  Austria - Linz, Linz on Sat, 21 Nov 2026.
 
 Araam is a minimal and deep house artist based in Iran, with 5 gigs on soundcheck across Berlin, Istanbul, Linz and London and 1 more. Often billed alongside Anahita Shamsaei, ELAYN and 2Maj. Next up: TBA -  Austria - Linz, Linz on Sat 21 Nov.
 
@@ -21,4 +21,4 @@ Araam is a minimal and deep house artist based in Iran, with 5 gigs on soundchec
 
 Anahita Shamsaei, ELAYN, 2Maj
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/araam/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/araam/)*

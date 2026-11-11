@@ -1,6 +1,6 @@
 # DJ Sonikku
 
-DJ Sonikku is a Club and Pop artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Stereo, Glasgow on Fri, 27 Nov 2026.
+DJ Sonikku is a Club and Pop artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Stereo, Glasgow on Fri, 27 Nov 2026.
 
 DJ Sonikku is a club and pop artist based in United Kingdom, with 15 gigs on soundcheck across Brussels, Glasgow, Leeds and London and 6 more. Often billed alongside AAguilAA, Hannah Diamond and The Stress. Next up: Stereo, Glasgow on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ DJ Sonikku is a club and pop artist based in United Kingdom, with 15 gigs on sou
 
 AAguilAA, Hannah Diamond, The Stress
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsonikku/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsonikku/)*

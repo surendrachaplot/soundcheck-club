@@ -1,6 +1,6 @@
 # Keep Hush x SPE:C 10 Years: Manami, Dubrunner, Buckley & Very Special Guest at Palais
 
-Keep Hush x SPE:C 10 Years: Manami, Dubrunner, Buckley & Very Special Guest at Palais on Thu 12 Nov, London. 3 artists: Buckley (UK), Dubrunner and Manami. See the line-up on soundcheck.
+Keep Hush x SPE:C 10 Years: Manami, Dubrunner, Buckley & Very Special Guest at Palais on Thu 12 Nov, London. 3 artists: Buckley (UK), Dubrunner and Manami. Garage and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

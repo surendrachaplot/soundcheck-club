@@ -1,6 +1,6 @@
 # SLVL
 
-SLVL is a Techno and Industrial artist with 10 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Epic Prague, Prague on Fri, 20 Nov 2026.
+SLVL is a Techno and Industrial artist with 10 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Epic Prague, Prague on Fri, 20 Nov 2026.
 
 SLVL is a techno and industrial artist based in Netherlands, with 98 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Beijing and 38 more. Often billed alongside KLOFAMA, KRUELTY and KARAH. Next up: Epic Prague, Prague on Fri 20 Nov.
 
@@ -34,4 +34,4 @@ SLVL is a techno and industrial artist based in Netherlands, with 98 gigs on sou
 
 KLOFAMA, KRUELTY, KARAH
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slvl/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slvl/)*

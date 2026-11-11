@@ -1,6 +1,6 @@
 # TBA - via Giuseppe Mazzini 3, Duomo milano
 
-TBA - via Giuseppe Mazzini 3, Duomo milano is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. The next is "Novocaine+ Fashion Exhibition - Carla Francione - Ather" on Fri, 13 Nov 2026.
+TBA - via Giuseppe Mazzini 3, Duomo milano is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "Novocaine+ Fashion Exhibition - Carla Francione - Ather" on Fri, 13 Nov 2026.
 
 TBA - via Giuseppe Mazzini 3, Duomo milano is a music venue in Milan listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - via Giuseppe Mazzini 3, Duomo milano is a music venue in Milan listed on s
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Novocaine+ Fashion Exhibition - Carla Francione - Ather |  |
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/tba-via-giuseppe-mazzini-3-duomo-milano/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/tba-via-giuseppe-mazzini-3-duomo-milano/)*

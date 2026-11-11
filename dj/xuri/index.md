@@ -1,6 +1,6 @@
 # Xuri
 
-Xuri is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Inkonst, Malmo on Fri, 27 Nov 2026.
+Xuri is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Inkonst, Malmo on Fri, 27 Nov 2026.
 
 Xuri is a trance and techno artist based in Denmark, with 15 gigs on soundcheck across Berlin, Copenhagen, Malmo and Melbourne. Often billed alongside John Cleworth, Frank Bretschneider and Gábor Lázár. Next up: Inkonst, Malmo on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Xuri is a trance and techno artist based in Denmark, with 15 gigs on soundcheck 
 
 John Cleworth, Frank Bretschneider, Gábor Lázár
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xuri/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xuri/)*

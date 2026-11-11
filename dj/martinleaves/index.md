@@ -1,6 +1,6 @@
 # Martin Leaves
 
-Martin Leaves is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Rama Soundgarden, Medellin on Fri, 13 Nov 2026.
+Martin Leaves is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Rama Soundgarden, Medellin on Fri, 13 Nov 2026.
 
 Martin Leaves is a house and minimal artist based in Colombia, with 100 gigs on soundcheck across Bogotá and Medellin. Often billed alongside D Jaguar, JD Groovin' and Sir Leaks. Next up: Rama Soundgarden, Medellin on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Martin Leaves is a house and minimal artist based in Colombia, with 100 gigs on 
 
 D Jaguar, JD Groovin', Sir Leaks
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/martinleaves/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/martinleaves/)*

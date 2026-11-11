@@ -1,6 +1,6 @@
 # Mello
 
-Mello is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Ampere, Munich on Sat, 30 Jan 2027.
+Mello is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Ampere, Munich on Sat, 30 Jan 2027.
 
 Mello is a house and techno artist based in Italy, with 18 gigs on soundcheck across Brussels, London, Madrid and Munich and 4 more. Often billed alongside ISAIAS, Coral Mambo (IT) and WO KEM. Next up: Ampere, Munich on Sat 30 Jan.
 
@@ -25,4 +25,4 @@ Mello is a house and techno artist based in Italy, with 18 gigs on soundcheck ac
 
 ISAIAS, Coral Mambo (IT), WO KEM
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mello/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mello/)*

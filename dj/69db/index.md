@@ -1,14 +1,15 @@
 # 69DB
 
-69DB is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Near Jannowitzbrücke, Berlin on Fri, 27 Nov 2026.
+69DB is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Near Jannowitzbrücke, Berlin on Fri, 27 Nov 2026.
 
-69DB is a techno and acid artist based in France, with 24 gigs on soundcheck across Amsterdam, Berlin, Central and Geneva and 11 more. Often billed alongside Ixindamix, Crystal Distortion and Jeff23. Next up: TBA - Near Jannowitzbrücke, Berlin on Fri 27 Nov.
+69DB is a techno and acid artist based in France, with 25 gigs on soundcheck across Amsterdam, Berlin, Central and Geneva and 11 more. Often billed alongside Ixindamix, Crystal Distortion and Jeff23. Next up: TBA - Near Jannowitzbrücke, Berlin on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | TBA - Near Jannowitzbrücke | Berlin |
+| Sat, 5 Dec 2026 | Le 211 | Paris |
 
 ## Recently played
 
@@ -25,4 +26,4 @@
 
 Ixindamix, Crystal Distortion, Jeff23
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/69db/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/69db/)*

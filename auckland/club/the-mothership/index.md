@@ -1,6 +1,6 @@
 # The Mothership
 
-The Mothership is a music venue in Auckland with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Music First: Marcellus Pittman" on Fri, 20 Nov 2026.
+The Mothership is a music venue in Auckland with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Music First: Marcellus Pittman" on Fri, 20 Nov 2026.
 
 The Mothership is a music venue in Auckland listed on soundcheck. 4 upcoming gigs, with line-ups including Frank Booker, Marcellus Pittman, Sam Divine and Samuel Harmony. See dates, start times and who's playing. 7 Shortland Street, Auckland CBD, Auckland 1010, New Zealand.
 
@@ -17,4 +17,4 @@ The Mothership is a music venue in Auckland listed on soundcheck. 4 upcoming gig
 
 7 Shortland Street, Auckland CBD, Auckland 1010, New Zealand, Auckland
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/the-mothership/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/the-mothership/)*

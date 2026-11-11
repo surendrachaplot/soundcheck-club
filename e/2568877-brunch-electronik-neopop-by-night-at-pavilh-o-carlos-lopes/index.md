@@ -1,6 +1,6 @@
 # Brunch Electronik + NEOPOP BY NIGHT at Pavilhão Carlos Lopes
 
-Brunch Electronik + NEOPOP BY NIGHT at Pavilhão Carlos Lopes on Sat 21 Nov, Lisbon. 1 artist: Nico Moreno. Techno. See the line-up on soundcheck.
+Brunch Electronik + NEOPOP BY NIGHT at Pavilhão Carlos Lopes on Sat 21 Nov, Lisbon. 3 artists: DJ Caline, Nico Moreno and Stëh. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ Brunch Electronik + NEOPOP BY NIGHT at Pavilhão Carlos Lopes on Sat 21 Nov, Lis
 
 ## Line-up
 
+- DJ Caline
 - Nico Moreno
+- Stëh
 
 *Source: [soundcheck](https://soundcheck.club/e/2568877-brunch-electronik-neopop-by-night-at-pavilh-o-carlos-lopes/)*

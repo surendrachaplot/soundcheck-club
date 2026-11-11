@@ -1,6 +1,6 @@
 # Cobalt Studios
 
-Cobalt Studios is a music venue in Newcastle with 15 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Downtempo Collage Café / Sami J" on Wed, 11 Nov 2026.
+Cobalt Studios is a music venue in Newcastle with 15 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Downtempo Collage Café / Sami J" on Wed, 11 Nov 2026.
 
 Cobalt Studios is a music venue in Newcastle listed on soundcheck. 15 upcoming gigs, with line-ups including Becky Woodcock, Carl H, Cosmo Sofi and dj sweet6teen and 2 more. See dates, start times and who's playing. 10 - 16  Boyd St. Newcastle Upon Tyne, NE2 1AP, United Kingdom.
 
@@ -23,4 +23,4 @@ Cobalt Studios is a music venue in Newcastle listed on soundcheck. 15 upcoming g
 
 10 - 16  Boyd St. Newcastle Upon Tyne, NE2 1AP, United Kingdom, Newcastle
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/cobalt-studios/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/cobalt-studios/)*

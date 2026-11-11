@@ -1,6 +1,6 @@
 # Zugzwang
 
-Zugzwang is a Dub and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at DreamBags Jaguarshoes, London on Sat, 21 Nov 2026.
+Zugzwang is a Dub and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at DreamBags Jaguarshoes, London on Sat, 21 Nov 2026.
 
 Zugzwang is a dub and techno artist based in United Kingdom, with 14 gigs on soundcheck across Frankfurt and London. Often billed alongside ATST, Pattn and QWAK. Next up: DreamBags Jaguarshoes, London on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Zugzwang is a dub and techno artist based in United Kingdom, with 14 gigs on sou
 
 ATST, Pattn, QWAK
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zugzwang/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zugzwang/)*

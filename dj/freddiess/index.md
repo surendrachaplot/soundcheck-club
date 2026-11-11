@@ -1,6 +1,6 @@
 # FREDDIESS
 
-FREDDIESS is a Tech House and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Garage 442, Barcelona on Thu, 12 Nov 2026.
+FREDDIESS is a Tech House and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Garage 442, Barcelona on Thu, 12 Nov 2026.
 
 FREDDIESS is a tech house and garage artist based in Spain, with 13 gigs on soundcheck across Barcelona. Often billed alongside Agustin Bosco, SOL VALERIANI and Vanyra. Next up: Garage 442, Barcelona on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ FREDDIESS is a tech house and garage artist based in Spain, with 13 gigs on soun
 
 Agustin Bosco, SOL VALERIANI, Vanyra
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/freddiess/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/freddiess/)*

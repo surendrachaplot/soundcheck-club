@@ -1,8 +1,8 @@
 # Marcellus Pittman
 
-Marcellus Pittman is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Modeci, Seoul on Thu, 12 Nov 2026.
+Marcellus Pittman is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Modeci, Seoul on Thu, 12 Nov 2026.
 
-Marcellus Pittman is a house and techno artist based in United States of America, with 178 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 58 more. Often billed alongside Ash Lauryn, Antal and DITA (ID). Next up: Modeci, Seoul on Thu 12 Nov.
+Marcellus Pittman is a house and techno artist based in United States of America, with 179 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 58 more. Often billed alongside Ash Lauryn, Antal and DITA (ID). Next up: Modeci, Seoul on Thu 12 Nov.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Marcellus Pittman is a house and techno artist based in United States of America
 | Sat, 5 Dec 2026 | Angel Music Bar | Melbourne |
 | Fri, 11 Dec 2026 | Meredith Supernatural Ampitheatre | Melbourne |
 | Fri, 11 Dec 2026 | Ticcle | Hobart |
+| Sun, 20 Dec 2026 | Poor Toms Oltra | Sydney |
 | Sun, 27 Dec 2026 | Port Beach Brewery | Perth |
 | Thu, 31 Dec 2026 | Northcote Theatre | Melbourne |
 | Fri, 26 Mar 2027 | Burger Disco Club | Athens |
@@ -35,4 +36,4 @@ Marcellus Pittman is a house and techno artist based in United States of America
 
 Ash Lauryn, Antal, DITA (ID)
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelluspittman/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelluspittman/)*

@@ -1,6 +1,6 @@
 # Slakthuset
 
-Slakthuset is a music venue in Stockholm with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "DIMENSION - PRE PARTY - FREE ENTRY UNTIL 23:00" on Fri, 13 Nov 2026.
+Slakthuset is a music venue in Stockholm with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "DIMENSION - PRE PARTY - FREE ENTRY UNTIL 23:00" on Fri, 13 Nov 2026.
 
 Slakthuset is a music venue in Stockholm listed on soundcheck. 4 upcoming gigs, with line-ups including Audio, Aurelius, charlie.pxls and ItsOk and 2 more. See dates, start times and who's playing. Slakthusgatan 6, 121 62 Johanneshov, Sweden.
 
@@ -17,4 +17,4 @@ Slakthuset is a music venue in Stockholm listed on soundcheck. 4 upcoming gigs, 
 
 Slakthusgatan 6, 121 62 Johanneshov, Sweden, Stockholm
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/slakthuset/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/slakthuset/)*

@@ -1,6 +1,6 @@
 # Maurice Mino
 
-Maurice Mino is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Odonien, Cologne on Sat, 14 Nov 2026.
+Maurice Mino is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Odonien, Cologne on Sat, 14 Nov 2026.
 
 Maurice Mino is a techno and house artist based in Germany, with 155 gigs on soundcheck across Berlin, Budapest, Cologne and Frankfurt and 9 more. Often billed alongside Sin:port, Sabura and Konfusia. Next up: Odonien, Cologne on Sat 14 Nov.
 
@@ -28,4 +28,4 @@ Maurice Mino is a techno and house artist based in Germany, with 155 gigs on sou
 
 Sin:port, Sabura, Konfusia
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mauricemino-de/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mauricemino-de/)*

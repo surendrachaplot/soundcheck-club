@@ -1,6 +1,6 @@
-# Jantsen at Elektricity
+# JANTSEN at Elektricity
 
-Jantsen at Elektricity on Sat 26 Dec, Detroit. Dubstep. See the line-up on soundcheck.
+JANTSEN at Elektricity on Sat 26 Dec, Detroit. Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

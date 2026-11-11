@@ -1,8 +1,8 @@
 # Kijta
 
-Kijta is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at YET, Tokyo on Sun, 22 Nov 2026.
+Kijta is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at YET, Tokyo on Sun, 22 Nov 2026.
 
-Kijta is a house and techno artist based in Japan, with 87 gigs on soundcheck across Tokyo. Often billed alongside TokiToki, OPTIMIST and CRAZYHYUGA. Next up: YET, Tokyo on Sun 22 Nov.
+Kijta is a house and techno artist based in Japan, with 88 gigs on soundcheck across Tokyo. Often billed alongside TokiToki, OPTIMIST and CRAZYHYUGA. Next up: YET, Tokyo on Sun 22 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Kijta is a house and techno artist based in Japan, with 87 gigs on soundcheck ac
 | --- | --- | --- |
 | Sun, 22 Nov 2026 | YET | Tokyo |
 | Fri, 27 Nov 2026 | Cube | Tokyo |
+| Thu, 10 Dec 2026 | ZEROTOKYO | Tokyo |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Kijta is a house and techno artist based in Japan, with 87 gigs on soundcheck ac
 
 TokiToki, OPTIMIST, CRAZYHYUGA
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kijta/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kijta/)*

@@ -1,6 +1,6 @@
 # Shelter Antwerp
 
-Shelter Antwerp is a music venue in Antwerp with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "micromoon invites godero & edouard hauki" on Sun, 15 Nov 2026.
+Shelter Antwerp is a music venue in Antwerp with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "micromoon invites godero & edouard hauki" on Sun, 15 Nov 2026.
 
 Shelter Antwerp is a music venue in Antwerp listed on soundcheck. 2 upcoming gigs, with line-ups including AMARE. See dates, start times and who's playing. Oude Koornmarkt 42, 2000 Antwerpen, Belgium.
 
@@ -15,4 +15,4 @@ Shelter Antwerp is a music venue in Antwerp listed on soundcheck. 2 upcoming gig
 
 Oude Koornmarkt 42, 2000 Antwerpen, Belgium, Antwerp
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/shelter-antwerp/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/shelter-antwerp/)*

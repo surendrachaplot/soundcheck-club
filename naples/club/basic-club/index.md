@@ -1,6 +1,6 @@
 # Basic Club
 
-Basic Club is a music venue in Naples with 14 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "ROOF x BASIC • Domenico Rosa + TONY IANNICELLI" on Fri, 13 Nov 2026.
+Basic Club is a music venue in Naples with 14 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "ROOF x BASIC • Domenico Rosa + TONY IANNICELLI" on Fri, 13 Nov 2026.
 
 Basic Club is a music venue in Naples listed on soundcheck. 14 upcoming gigs, with line-ups including Mariiin, Aldo Rosati, Antonio Grassia and Antonio Memoli and 2 more. See dates, start times and who's playing. Viale Giovanni Boccaccio 9, 80040, Cercola, Napoli.
 
@@ -23,4 +23,4 @@ Basic Club is a music venue in Naples listed on soundcheck. 14 upcoming gigs, wi
 
 Viale Giovanni Boccaccio 9, 80040, Cercola, Napoli, Naples
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/naples/club/basic-club/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/naples/club/basic-club/)*

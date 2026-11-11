@@ -1,6 +1,6 @@
 # alvar.
 
-alvar. is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Spook Club, Valencia on Fri, 25 Dec 2026.
+alvar. is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Spook Club, Valencia on Fri, 25 Dec 2026.
 
 alvar. is a house and afro house artist based in Spain, with 6 gigs on soundcheck across Valencia. Often billed alongside Fes Bondat, Gurrex and Clemente (ES). Next up: Spook Club, Valencia on Fri 25 Dec.
 
@@ -22,4 +22,4 @@ alvar. is a house and afro house artist based in Spain, with 6 gigs on soundchec
 
 Fes Bondat, Gurrex, Clemente (ES)
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alvar./)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alvar./)*

@@ -1,6 +1,6 @@
 # IHOPEIEXIST
 
-IHOPEIEXIST is a Drum & Bass and Experimental artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at elipamanoke, Leipzig on Sat, 14 Nov 2026.
+IHOPEIEXIST is a Drum & Bass and Experimental artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at elipamanoke, Leipzig on Sat, 14 Nov 2026.
 
 IHOPEIEXIST is a drum & bass and experimental artist based in Hungary, with 38 gigs on soundcheck across Berlin, Kyoto, Leipzig and Osaka. Often billed alongside Upzet, Kenzura and Aynaet. Next up: elipamanoke, Leipzig on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ IHOPEIEXIST is a drum & bass and experimental artist based in Hungary, with 38 g
 
 Upzet, Kenzura, Aynaet
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ihopeiexist/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ihopeiexist/)*

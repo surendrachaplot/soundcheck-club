@@ -1,6 +1,6 @@
 # Gabriola
 
-Gabriola is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Collingwood Children's Farm, Melbourne on Sat, 30 Jan 2027.
+Gabriola is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Collingwood Children's Farm, Melbourne on Sat, 30 Jan 2027.
 
 Gabriola is a techno and deep house artist based in United Kingdom, with 10 gigs on soundcheck across Berlin, Copenhagen, London and Madrid and 5 more. Often billed alongside S.O.N.S, RBI (Aus) and Sleep D. Next up: Collingwood Children's Farm, Melbourne on Sat 30 Jan.
 
@@ -25,4 +25,4 @@ Gabriola is a techno and deep house artist based in United Kingdom, with 10 gigs
 
 S.O.N.S, RBI (Aus), Sleep D
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriola/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriola/)*

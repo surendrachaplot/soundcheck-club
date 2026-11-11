@@ -1,6 +1,6 @@
 # NT's Loft
 
-NT's Loft is a music venue in London with 21 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "NT's Loft: Azadi: ZAINAB, Clara Rosa & Nadine Noor" on Fri, 13 Nov 2026.
+NT's Loft is a music venue in London with 21 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "NT's Loft: Azadi: ZAINAB, Clara Rosa & Nadine Noor" on Fri, 13 Nov 2026.
 
 NT's Loft is a music venue in London listed on soundcheck. 21 upcoming gigs, with line-ups including babyschön, Clara Rosa, Detroit In Effect and Douvelle19 and 2 more. See dates, start times and who's playing. 207, 1 Westgate St, Hackney, London E8 3RL.
 
@@ -23,4 +23,4 @@ NT's Loft is a music venue in London listed on soundcheck. 21 upcoming gigs, wit
 
 207, 1 Westgate St, Hackney, London E8 3RL, London
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/nt-s-loft/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/nt-s-loft/)*

@@ -1,6 +1,6 @@
 # KLKÉ
 
-KLKÉ is a Latin Bass and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Bossa Nova Civic Club, New York City on Thu, 19 Nov 2026.
+KLKÉ is a Latin Bass and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Bossa Nova Civic Club, New York City on Thu, 19 Nov 2026.
 
 KLKÉ is a latin bass and club artist based in Venezuela, with 6 gigs on soundcheck across New York City. Often billed alongside BEARCAT, Cisne and DJ Putilla. Next up: Bossa Nova Civic Club, New York City on Thu 19 Nov.
 
@@ -22,4 +22,4 @@ KLKÉ is a latin bass and club artist based in Venezuela, with 6 gigs on soundch
 
 BEARCAT, Cisne, DJ Putilla
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/klke/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/klke/)*

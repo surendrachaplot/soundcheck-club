@@ -1,6 +1,6 @@
 # Lyonel
 
-Lyonel is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Secret Location, Madrid on Fri, 4 Dec 2026.
+Lyonel is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Secret Location, Madrid on Fri, 4 Dec 2026.
 
 Lyonel is a techno and house artist based in Spain, with 41 gigs on soundcheck across Barcelona, Berlin, Brussels and London and 2 more. Often billed alongside Max TA, EMilio and Sebastián. Next up: TBA - Secret Location, Madrid on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Lyonel is a techno and house artist based in Spain, with 41 gigs on soundcheck a
 
 Max TA, EMilio (2), Sebastián
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lyonel/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lyonel/)*

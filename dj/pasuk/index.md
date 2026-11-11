@@ -1,14 +1,15 @@
-# PAS
+# PAS (UK)
 
-PAS is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Wavio Room, Leeds on Sat, 14 Nov 2026.
+PAS (UK) is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Wavio Room, Leeds on Sat, 14 Nov 2026.
 
-PAS is a tech house and house artist based in United Kingdom, with 12 gigs on soundcheck across Berlin, Leeds, Manchester and Shanghai. Often billed alongside Rob Pearson, TriForm and dj ripple. Next up: Wavio Room, Leeds on Sat 14 Nov.
+PAS (UK) is a tech house and house artist based in United Kingdom, with 13 gigs on soundcheck across Berlin, Leeds, Manchester and Shanghai. Often billed alongside Rob Pearson, TriForm and dj ripple. Next up: Wavio Room, Leeds on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Wavio Room | Leeds |
+| Fri, 4 Dec 2026 | Eastern Bloc Records | Manchester |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ PAS is a tech house and house artist based in United Kingdom, with 12 gigs on so
 
 Rob Pearson, TriForm, dj ripple
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pasuk/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pasuk/)*

@@ -1,6 +1,6 @@
 # Faerber
 
-Faerber is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at KREUZWERK, Berlin on Fri, 13 Nov 2026.
+Faerber is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at KREUZWERK, Berlin on Fri, 13 Nov 2026.
 
 Faerber is a techno and house artist based in Germany, with 56 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 4 more. Often billed alongside N.R.M, ENNIO and HAMY. Next up: KREUZWERK, Berlin on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Faerber is a techno and house artist based in Germany, with 56 gigs on soundchec
 
 N.R.M, ENNIO, HAMY
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/faerber/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/faerber/)*

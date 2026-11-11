@@ -1,6 +1,6 @@
 # Meibi
 
-Meibi is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Lx Factory, Lisbon on Fri, 13 Nov 2026.
+Meibi is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Lx Factory, Lisbon on Fri, 13 Nov 2026.
 
 Meibi is a techno and electro artist based in Portugal, with 45 gigs on soundcheck across Berlin, Hamburg, Lisbon and London and 1 more. Often billed alongside Catarina Silva, Dexter Lux and Inês Duarte. Next up: Lx Factory, Lisbon on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Meibi is a techno and electro artist based in Portugal, with 45 gigs on soundche
 
 Catarina Silva, Dexter Lux, Inês Duarte
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meibi/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meibi/)*

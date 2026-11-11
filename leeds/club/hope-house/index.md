@@ -1,6 +1,6 @@
 # Hope House
 
-Hope House is a music venue in Leeds with 8 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "0800 DISCO(OOO)" on Fri, 13 Nov 2026.
+Hope House is a music venue in Leeds with 8 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "0800 DISCO(OOO)" on Fri, 13 Nov 2026.
 
 Hope House is a music venue in Leeds listed on soundcheck. 8 upcoming gigs, with line-ups including Colleen 'Cosmo' Murphy, DJ Sotofett, Joe FM and Tina Edwards. See dates, start times and who's playing. 65 Mabgate Hope House LS9 7DR.
 
@@ -21,4 +21,4 @@ Hope House is a music venue in Leeds listed on soundcheck. 8 upcoming gigs, with
 
 65 Mabgate Hope House LS9 7DR, Leeds
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/hope-house/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/hope-house/)*

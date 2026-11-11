@@ -1,6 +1,6 @@
 # H-R-Z
 
-H-R-Z is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Supermercat Gotico, Barcelona on Fri, 13 Nov 2026.
+H-R-Z is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Supermercat Gotico, Barcelona on Fri, 13 Nov 2026.
 
 H-R-Z is a techno and acid artist based in Spain, with 32 gigs on soundcheck across Barcelona, Ibiza and Valencia. Often billed alongside SYM, Ronze and Julian Nardi. Next up: The Supermercat Gotico, Barcelona on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ H-R-Z is a techno and acid artist based in Spain, with 32 gigs on soundcheck acr
 
 SYM, Ronze, Julian Nardi
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/h-r-z/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/h-r-z/)*

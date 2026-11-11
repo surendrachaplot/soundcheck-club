@@ -1,6 +1,6 @@
 # RE:CODED - Gay Fetish Party · XXL Darkroom · Techno & House at ROSA
 
-RE:CODED - Gay Fetish Party · XXL Darkroom · Techno & House at ROSA on Fri 13 Nov, Berlin. 3 artists: Ari Denaro, Ben Manson and Jaycap. Techno and House. See the line-up on soundcheck.
+RE:CODED - Gay Fetish Party · XXL Darkroom · Techno & House at ROSA on Fri 13 Nov, Berlin. 2 artists: Ben Manson and Jaycap. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ RE:CODED - Gay Fetish Party · XXL Darkroom · Techno & House at ROSA on Fri 13 
 
 ## Line-up
 
-- Ari Denaro
 - Ben Manson
 - Jaycap
 

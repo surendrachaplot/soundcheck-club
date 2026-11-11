@@ -1,6 +1,6 @@
 # Bad Boy Orange
 
-Bad Boy Orange is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at La Nube, Buenos Aires on Sun, 20 Dec 2026.
+Bad Boy Orange is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at La Nube, Buenos Aires on Sun, 20 Dec 2026.
 
 Bad Boy Orange is a drum & bass and jungle artist based in Argentina, with 15 gigs on soundcheck across Barcelona, Buenos Aires and Madrid. Often billed alongside L-Side, LUCA SYN and Bermani. Next up: La Nube, Buenos Aires on Sun 20 Dec.
 
@@ -25,4 +25,4 @@ Bad Boy Orange is a drum & bass and jungle artist based in Argentina, with 15 gi
 
 L-Side, LUCA SYN, Bermani
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/badboyorange/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/badboyorange/)*

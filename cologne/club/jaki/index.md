@@ -1,6 +1,6 @@
 # JAKI
 
-JAKI is a music venue in Cologne with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "JAKI presents: Chiara Kley & Buteo" on Fri, 13 Nov 2026.
+JAKI is a music venue in Cologne with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "JAKI presents: Chiara Kley & Buteo" on Fri, 13 Nov 2026.
 
 JAKI is a music venue in Cologne listed on soundcheck. 4 upcoming gigs, with line-ups including Bogus, Buteo, clara luise and Kosta Kostov. See dates, start times and who's playing. Venloer Str. 40,  50672 Cologne.
 
@@ -17,4 +17,4 @@ JAKI is a music venue in Cologne listed on soundcheck. 4 upcoming gigs, with lin
 
 Venloer Str. 40,  50672 Cologne, Cologne
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/jaki/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/jaki/)*

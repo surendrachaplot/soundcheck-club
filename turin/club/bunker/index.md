@@ -1,6 +1,6 @@
 # Bunker
 
-Bunker is a music venue in Turin with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "PARANOIA FESTIVAL NIGHT" on Fri, 13 Nov 2026.
+Bunker is a music venue in Turin with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "PARANOIA FESTIVAL NIGHT" on Fri, 13 Nov 2026.
 
 Bunker is a music venue in Turin listed on soundcheck. 4 upcoming gigs, with line-ups including Agostino Casillo, Alex Dima, Aton and Danae and 2 more. See dates, start times and who's playing. Via Niccolò Paganini, 0/200, 10154 Torino TO, Italy.
 
@@ -17,4 +17,4 @@ Bunker is a music venue in Turin listed on soundcheck. 4 upcoming gigs, with lin
 
 Via Niccolò Paganini, 0/200, 10154 Torino TO, Italy, Turin
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/turin/club/bunker/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/turin/club/bunker/)*

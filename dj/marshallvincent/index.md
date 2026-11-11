@@ -1,8 +1,8 @@
 # Marshall Vincent
 
-Marshall Vincent is a Club and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Chausseestrasse 131, Berlin on Sat, 21 Nov 2026.
+Marshall Vincent is a Club and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Chausseestrasse 131, Berlin on Sat, 21 Nov 2026.
 
-Marshall Vincent is a club and latin bass artist, with 7 gigs on soundcheck across Berlin. Often billed alongside griefeater, CalvoMusic and Collo Awata. Next up: Chausseestrasse 131, Berlin on Sat 21 Nov.
+Marshall Vincent is a club and latin bass artist based in Germany, with 7 gigs on soundcheck across Berlin. Often billed alongside griefeater, CalvoMusic and Collo Awata. Next up: Chausseestrasse 131, Berlin on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ Marshall Vincent is a club and latin bass artist, with 7 gigs on soundcheck acro
 
 griefeater, CalvoMusic, Collo Awata
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marshallvincent/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marshallvincent/)*

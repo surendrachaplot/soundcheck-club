@@ -1,6 +1,6 @@
 # Delta Division
 
-Delta Division is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Paloma, Berlin on Sat, 14 Nov 2026.
+Delta Division is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Paloma, Berlin on Sat, 14 Nov 2026.
 
 Delta Division is a techno and house artist based in Germany, with 21 gigs on soundcheck across Berlin, Copenhagen, London and Wroclaw and 1 more. Often billed alongside N ska, Air Protection Office and Mruda. Next up: Paloma, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Delta Division is a techno and house artist based in Germany, with 21 gigs on so
 
 N ska, Air Protection Office, Mruda
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deltadivision/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deltadivision/)*

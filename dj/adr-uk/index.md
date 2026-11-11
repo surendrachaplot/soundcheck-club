@@ -1,14 +1,15 @@
 # ADR (UK)
 
-ADR (UK) is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Lab11, Birmingham on Sat, 14 Nov 2026.
+ADR (UK) is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Lab11, Birmingham on Sat, 14 Nov 2026.
 
-ADR (UK) is a house and garage artist based in United Kingdom, with 25 gigs on soundcheck across Barcelona, Birmingham, Brighton and Dublin and 4 more. Often billed alongside FINKY, OUTTEN and jWave. Next up: Lab11, Birmingham on Sat 14 Nov.
+ADR (UK) is a house and garage artist based in United Kingdom, with 26 gigs on soundcheck across Barcelona, Birmingham, Brighton and Dublin and 4 more. Often billed alongside FINKY, OUTTEN and jWave. Next up: Lab11, Birmingham on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Lab11 | Birmingham |
+| Sat, 21 Nov 2026 | Digital | Newcastle |
 | Fri, 18 Dec 2026 | Mint XL | Leeds |
 
 ## Recently played
@@ -26,4 +27,4 @@ ADR (UK) is a house and garage artist based in United Kingdom, with 25 gigs on s
 
 FINKY, OUTTEN, jWave
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adr-uk/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adr-uk/)*

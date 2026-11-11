@@ -1,6 +1,6 @@
 # Mija Milovic
 
-Mija Milovic is a electronic artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at DR Koncerthuset, Copenhagen on Wed, 25 Nov 2026.
+Mija Milovic is a electronic artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at DR Koncerthuset, Copenhagen on Wed, 25 Nov 2026.
 
 Mija Milovic is an electronic artist based in Denmark, with 2 gigs on soundcheck across Copenhagen. Often billed alongside CTM and Clarissa Connelly. Next up: DR Koncerthuset, Copenhagen on Wed 25 Nov.
 
@@ -15,4 +15,4 @@ Mija Milovic is an electronic artist based in Denmark, with 2 gigs on soundcheck
 
 CTM (1), Clarissa Connelly
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mijamilovic/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mijamilovic/)*

@@ -1,6 +1,6 @@
 # Aram Mukanay
 
-Aram Mukanay is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Het Dorp, Amsterdam on Fri, 20 Nov 2026.
+Aram Mukanay is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Het Dorp, Amsterdam on Fri, 20 Nov 2026.
 
 Aram Mukanay is a house and disco artist based in Netherlands, with 12 gigs on soundcheck across Amsterdam. Often billed alongside Biechy, Ajuma and Eileen (NL). Next up: Het Dorp, Amsterdam on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Aram Mukanay is a house and disco artist based in Netherlands, with 12 gigs on s
 
 Biechy, Ajuma, Eileen (NL)
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arammukanay/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arammukanay/)*

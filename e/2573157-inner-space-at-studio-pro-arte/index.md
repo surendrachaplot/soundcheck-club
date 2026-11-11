@@ -1,6 +1,6 @@
 # Inner Space at Studio Pro Arte
 
-Inner Space at Studio Pro Arte on Sat 21 Nov, Baden W Rttemberg. 3 artists: Kindracoma, Owelle and TAMA. See the line-up on soundcheck.
+Inner Space at Studio Pro Arte on Sat 21 Nov, Baden W Rttemberg. 4 artists: Drop Sum, Kindracoma, Owelle and TAMA. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Inner Space at Studio Pro Arte on Sat 21 Nov, Baden W Rttemberg. 3 artists: Kind
 
 ## Line-up
 
+- Drop Sum
 - Kindracoma
 - Owelle
 - TAMA

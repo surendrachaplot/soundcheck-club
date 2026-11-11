@@ -1,6 +1,6 @@
 # 1-800-Lucky
 
-1-800-Lucky is a music venue in Miami with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Sundays: Lazaro Casanova, Nicole Fiallo, Nyco Jones" on Sun, 15 Nov 2026.
+1-800-Lucky is a music venue in Miami with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Sundays: Lazaro Casanova, Nicole Fiallo, Nyco Jones" on Sun, 15 Nov 2026.
 
 1-800-Lucky is a music venue in Miami listed on soundcheck. 3 upcoming gigs, with line-ups including Lazaro Casanova, Nicole Fiallo and Nyco Jones. See dates, start times and who's playing. 143 NW 23rd St, Miami, FL 33127, USA.
 
@@ -16,4 +16,4 @@
 
 143 NW 23rd St, Miami, FL 33127, USA, Miami
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/1-800-lucky/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/1-800-lucky/)*

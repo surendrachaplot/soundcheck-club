@@ -1,6 +1,6 @@
 # Kuma
 
-Kuma is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
+Kuma is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
 
 Kuma is a techno and house artist based in Canada, with 14 gigs on soundcheck across Bangkok, Berlin, Dresden and Kuala Lumpur and 4 more. Often billed alongside Adroit Joe, Bagagee Viphex13 and Better. Next up: TBA - Jacks Bar, South Korea on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Kuma is a techno and house artist based in Canada, with 14 gigs on soundcheck ac
 
 Adroit Joe, Bagagee Viphex13, Better
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kuma/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kuma/)*

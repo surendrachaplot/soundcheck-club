@@ -1,6 +1,6 @@
 # Tina von Kugler
 
-Tina von Kugler is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Zemin Art Gallery, Berlin on Fri, 13 Nov 2026.
+Tina von Kugler is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Zemin Art Gallery, Berlin on Fri, 13 Nov 2026.
 
 Tina von Kugler is a techno and house artist, with 51 gigs on soundcheck across Bangkok, Berlin, Hamburg and Lisbon and 1 more. Often billed alongside Gino Kampari, Aaronovsky and Berfu. Next up: Zemin Art Gallery, Berlin on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Tina von Kugler is a techno and house artist, with 51 gigs on soundcheck across 
 
 Gino Kampari, Aaronovsky, Berfu
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tinavonkugler/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tinavonkugler/)*

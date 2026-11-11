@@ -1,6 +1,6 @@
 # The Toff in Town
 
-The Toff in Town is a music venue in Melbourne with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Ellen Bryant Benz Single Launch" on Thu, 12 Nov 2026.
+The Toff in Town is a music venue in Melbourne with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Ellen Bryant Benz Single Launch" on Thu, 12 Nov 2026.
 
 The Toff in Town is a music venue in Melbourne listed on soundcheck. 4 upcoming gigs, with line-ups including DYNO, Joey Coco, Mas Que Nada Brothers and Nikki Carvell. See dates, start times and who's playing. Level 2, Curtain House, 252 Swanston Street, Melbourne.
 
@@ -17,4 +17,4 @@ The Toff in Town is a music venue in Melbourne listed on soundcheck. 4 upcoming 
 
 Level 2, Curtain House, 252 Swanston Street, Melbourne, Melbourne
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-toff-in-town/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-toff-in-town/)*

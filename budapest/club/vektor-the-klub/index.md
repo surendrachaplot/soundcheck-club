@@ -1,6 +1,6 @@
 # Vektor - The Klub
 
-Vektor - The Klub is a music venue in Budapest with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Why Not Ibiza? House, Tech-House & Techno @Vektor" on Fri, 13 Nov 2026.
+Vektor - The Klub is a music venue in Budapest with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Why Not Ibiza? House, Tech-House & Techno @Vektor" on Fri, 13 Nov 2026.
 
 Vektor - The Klub is a music venue in Budapest listed on soundcheck. 5 upcoming gigs, with line-ups including Antique (HU), Captain Knuckles, CRB and Daniel Moritz and 2 more. See dates, start times and who's playing. Budapest, 1075, Gozsdu Court hotel, Király u. 13,.
 
@@ -18,4 +18,4 @@ Vektor - The Klub is a music venue in Budapest listed on soundcheck. 5 upcoming 
 
 Budapest, 1075, Gozsdu Court hotel, Király u. 13,, Budapest
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/vektor-the-klub/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/vektor-the-klub/)*

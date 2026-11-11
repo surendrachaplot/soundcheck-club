@@ -1,6 +1,6 @@
 # MOHO (1)
 
-MOHO (1) is a Club and Pop artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Cakeshop, Seoul on Fri, 20 Nov 2026.
+MOHO (1) is a Club and Pop artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Cakeshop, Seoul on Fri, 20 Nov 2026.
 
 MOHO is a club and pop artist based in South Korea, with 6 gigs on soundcheck across Seoul. Often billed alongside KISEWA, O.od and rue. Next up: Cakeshop, Seoul on Fri 20 Nov.
 
@@ -22,4 +22,4 @@ MOHO is a club and pop artist based in South Korea, with 6 gigs on soundcheck ac
 
 KISEWA, O.od, rue (3)
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moho-1/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moho-1/)*

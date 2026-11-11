@@ -1,8 +1,8 @@
 # woopheadclrms
 
-woopheadclrms is a Bass and Ambient artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Forestlimit, Tokyo on Mon, 23 Nov 2026.
+woopheadclrms is a Bass and Ambient artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Forestlimit, Tokyo on Mon, 23 Nov 2026.
 
-woopheadclrms is a bass and ambient artist, with 6 gigs on soundcheck across Kyoto and Tokyo. Often billed alongside E.O.U, CVN and Kazumichi Komatsu. Next up: Forestlimit, Tokyo on Mon 23 Nov.
+woopheadclrms is a bass and ambient artist based in Japan, with 6 gigs on soundcheck across Kyoto and Tokyo. Often billed alongside E.O.U, CVN and Kazumichi Komatsu. Next up: Forestlimit, Tokyo on Mon 23 Nov.
 
 ## Upcoming shows
 
@@ -22,4 +22,4 @@ woopheadclrms is a bass and ambient artist, with 6 gigs on soundcheck across Kyo
 
 E.O.U, CVN (1), Kazumichi Komatsu
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/woopheadclrms/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/woopheadclrms/)*

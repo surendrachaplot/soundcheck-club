@@ -1,6 +1,6 @@
 # Radiotehnika
 
-Radiotehnika is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at 1983, Riga on Fri, 11 Dec 2026.
+Radiotehnika is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at 1983, Riga on Fri, 11 Dec 2026.
 
 Radiotehnika is an electro and techno artist based in Latvia, with 6 gigs on soundcheck across Riga. Often billed alongside LJO HA, rabenau and 2B. Next up: 1983, Riga on Fri 11 Dec.
 
@@ -22,4 +22,4 @@ Radiotehnika is an electro and techno artist based in Latvia, with 6 gigs on sou
 
 LJO HA, rabenau, 2B (1)
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/radiotehnika/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/radiotehnika/)*

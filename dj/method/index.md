@@ -1,6 +1,6 @@
 # Method
 
-Method is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Macarena Club, Barcelona on Mon, 16 Nov 2026.
+Method is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Macarena Club, Barcelona on Mon, 16 Nov 2026.
 
 Method is a drum & bass and bass artist based in Italy, with 23 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 13 more. Often billed alongside Amount (DE), Debit and APP. Next up: Macarena Club, Barcelona on Mon 16 Nov.
 
@@ -25,4 +25,4 @@ Method is a drum & bass and bass artist based in Italy, with 23 gigs on soundche
 
 Amount (DE), Debit, APP
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/method/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/method/)*

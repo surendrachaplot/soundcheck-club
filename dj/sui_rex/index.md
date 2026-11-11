@@ -1,6 +1,6 @@
 # sui_rex
 
-sui_rex is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Aoyama Hachi, Tokyo on Sat, 14 Nov 2026.
+sui_rex is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Aoyama Hachi, Tokyo on Sat, 14 Nov 2026.
 
 sui_rex is a house and techno artist based in Japan, with 57 gigs on soundcheck across Tokyo. Often billed alongside YAMARCHY, YELLOWUHURU and teppei. Next up: Aoyama Hachi, Tokyo on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ sui_rex is a house and techno artist based in Japan, with 57 gigs on soundcheck 
 
 YAMARCHY, YELLOWUHURU, teppei
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sui_rex/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sui_rex/)*

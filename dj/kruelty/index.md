@@ -1,6 +1,6 @@
 # KRUELTY
 
-KRUELTY is a Techno and Hardcore artist with 15 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
+KRUELTY is a Techno and Hardcore artist with 15 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
 
 KRUELTY is a techno and hardcore artist based in Netherlands, with 95 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 38 more. Often billed alongside KLOFAMA, SLVL and KARAH. Next up: Hungexpo Budapest, Budapest on Fri 13 Nov.
 
@@ -36,4 +36,4 @@ KRUELTY is a techno and hardcore artist based in Netherlands, with 95 gigs on so
 
 KLOFAMA, SLVL, KARAH
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kruelty/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kruelty/)*

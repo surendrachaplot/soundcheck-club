@@ -1,6 +1,6 @@
 # Justin Jay
 
-Justin Jay is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at glimmer, Hamburg on Sat, 21 Nov 2026.
+Justin Jay is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at glimmer, Hamburg on Sat, 21 Nov 2026.
 
 Justin Jay is a house and techno artist based in United States of America, with 86 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Austin and 33 more. Often billed alongside Bad Boombox, Janis Zielinski and Mischluft. Next up: glimmer, Hamburg on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Justin Jay is a house and techno artist based in United States of America, with 
 
 Bad Boombox, Janis Zielinski, Mischluft
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/justinjay/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/justinjay/)*

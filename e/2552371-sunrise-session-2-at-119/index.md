@@ -1,11 +1,11 @@
-# Sunrise Session 2 at [119]
+# Sunrise Session 2 at 119
 
-Sunrise Session 2 at [119] on Sat 21 Nov, Berlin. 1 artist: Segun. Trance and Techno. See the line-up on soundcheck.
+Sunrise Session 2 at 119 on Sat 21 Nov, Berlin. 1 artist: Segun. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 21 Nov 2026 |
-| Venue | [119] |
+| Venue | 119 |
 | City | Berlin |
 
 ## Line-up

@@ -1,14 +1,15 @@
 # machìna
 
-machìna is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at VENT, Tokyo on Sat, 21 Nov 2026.
+machìna is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at VENT, Tokyo on Sat, 21 Nov 2026.
 
-machìna is a techno and house artist based in South Korea, with 56 gigs on soundcheck across Beijing, Berlin, Brussels and Denver and 16 more. Often billed alongside Richie Hawtin, Nicola Cruz and AADJA. Next up: VENT, Tokyo on Sat 21 Nov.
+machìna is a techno and house artist based in South Korea, with 57 gigs on soundcheck across Beijing, Berlin, Brussels and Denver and 16 more. Often billed alongside Richie Hawtin, Nicola Cruz and AADJA. Next up: VENT, Tokyo on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | VENT | Tokyo |
+| Mon, 23 Nov 2026 | PBOX STND | Tokyo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ machìna is a techno and house artist based in South Korea, with 56 gigs on soun
 
 Richie Hawtin, Nicola Cruz, AADJA
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/machina/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/machina/)*

@@ -1,6 +1,6 @@
 # KAKI (GE)
 
-KAKI (GE) is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Georgia Bar, Berlin on Fri, 13 Nov 2026.
+KAKI (GE) is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Georgia Bar, Berlin on Fri, 13 Nov 2026.
 
 KAKI (GE) is a techno and electro artist based in Georgia, with 13 gigs on soundcheck across Berlin, Glasgow, Rotterdam and Tbilisi and 1 more. Often billed alongside Leü (GE), Annga and Citizens Union. Next up: Georgia Bar, Berlin on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ KAKI (GE) is a techno and electro artist based in Georgia, with 13 gigs on sound
 
 Leü (GE), Annga, Citizens Union
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaki-2/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaki-2/)*

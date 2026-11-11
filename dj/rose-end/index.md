@@ -1,6 +1,6 @@
 # Rose-End
 
-Rose-End is a Acid and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - The Forum, Dubai on Sat, 28 Nov 2026.
+Rose-End is a Acid and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - The Forum, Dubai on Sat, 28 Nov 2026.
 
 Rose-End is an acid and deep house artist based in United Arab Emirates, with 39 gigs on soundcheck across Dubai. Often billed alongside Kirill Zhan, Dea (IT) and Baby B.. Next up: TBA - The Forum, Dubai on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Rose-End is an acid and deep house artist based in United Arab Emirates, with 39
 
 Kirill Zhan, Dea (IT), Baby B.
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rose-end/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rose-end/)*

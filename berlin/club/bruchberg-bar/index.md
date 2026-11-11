@@ -1,13 +1,13 @@
 # BruchBerg Bar
 
-BruchBerg Bar is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. The next is "4 to the Floor - 7 to the Heaven" on Sat, 28 Nov 2026.
+BruchBerg Bar is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "4 to the Floor - 7 to the Heaven" on Sat, 28 Nov 2026.
 
-BruchBerg Bar is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including Nicki Spumante. See dates, start times and who's playing.
+BruchBerg Bar is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including Nicki Spumante and YOOFIL. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 28 Nov 2026 | 4 to the Floor - 7 to the Heaven | Nicki Spumante |
+| Sat, 28 Nov 2026 | 4 to the Floor - 7 to the Heaven | Nicki Spumante, YOOFIL |
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bruchberg-bar/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bruchberg-bar/)*

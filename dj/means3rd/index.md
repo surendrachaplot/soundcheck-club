@@ -1,14 +1,15 @@
 # Means&3rd
 
-Means&3rd is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at renae, Manchester on Fri, 27 Nov 2026.
+Means&3rd is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at renae, Manchester on Fri, 27 Nov 2026.
 
-Means&3rd is a techno and house artist based in United Kingdom, with 52 gigs on soundcheck across Leeds, London and Manchester. Often billed alongside Will A, Jim Bane and Kerrie. Next up: renae, Manchester on Fri 27 Nov.
+Means&3rd is a techno and house artist based in United Kingdom, with 53 gigs on soundcheck across Leeds, London and Manchester. Often billed alongside Will A, Jim Bane and Kerrie. Next up: renae, Manchester on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | renae | Manchester |
+| Fri, 18 Dec 2026 | Eastern Bloc Records | Manchester |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Means&3rd is a techno and house artist based in United Kingdom, with 52 gigs on 
 
 Will A, Jim Bane, Kerrie
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/means3rd/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/means3rd/)*

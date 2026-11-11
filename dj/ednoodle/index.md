@@ -1,14 +1,15 @@
 # Ed Noodle
 
-Ed Noodle is a Techno and Afro House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at WestWeelde, Amsterdam on Sat, 14 Nov 2026.
+Ed Noodle is a Techno and Afro House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at WestWeelde, Amsterdam on Sat, 14 Nov 2026.
 
-Ed Noodle is a techno and afro house artist based in Netherlands, with 28 gigs on soundcheck across Amsterdam, Berlin, Ibiza and Stockholm. Often billed alongside Mark Mywords, Cyria and Hoani Teano. Next up: WestWeelde, Amsterdam on Sat 14 Nov.
+Ed Noodle is a techno and afro house artist based in Netherlands, with 29 gigs on soundcheck across Amsterdam, Berlin, Ibiza and Stockholm. Often billed alongside Mark Mywords, Cyria and Hoani Teano. Next up: WestWeelde, Amsterdam on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | WestWeelde | Amsterdam |
+| Sun, 13 Dec 2026 | Beate Uwe | Berlin |
 | Thu, 31 Dec 2026 | Gazebo | Stockholm |
 
 ## Recently played
@@ -26,4 +27,4 @@ Ed Noodle is a techno and afro house artist based in Netherlands, with 28 gigs o
 
 Mark Mywords, Cyria, Hoani Teano
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ednoodle/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ednoodle/)*

@@ -1,6 +1,6 @@
 # TivoliVredenburg
 
-TivoliVredenburg is a music venue in Utrecht with 8 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "ON&ON: Locklead e.a" on Fri, 13 Nov 2026.
+TivoliVredenburg is a music venue in Utrecht with 8 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "ON&ON: Locklead e.a" on Fri, 13 Nov 2026.
 
 TivoliVredenburg is a music venue in Utrecht listed on soundcheck. 8 upcoming gigs, with line-ups including Elias Mazian, Erick E, Fiene and Funkerman and 2 more. See dates, start times and who's playing. Vredenburgkade 11, 3511 WC, Utrecht, Netherlands.
 
@@ -21,4 +21,4 @@ TivoliVredenburg is a music venue in Utrecht listed on soundcheck. 8 upcoming gi
 
 Vredenburgkade 11, 3511 WC, Utrecht, Netherlands, Utrecht
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/tivolivredenburg/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/tivolivredenburg/)*

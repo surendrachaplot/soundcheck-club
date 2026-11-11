@@ -1,6 +1,6 @@
 # Reinier Zonneveld
 
-Reinier Zonneveld is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Expo Santa Fe, Mexico City on Fri, 20 Nov 2026.
+Reinier Zonneveld is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Expo Santa Fe, Mexico City on Fri, 20 Nov 2026.
 
 Reinier Zonneveld is a techno and house artist based in Netherlands, with 145 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 56 more. Often billed alongside 999999999, Adam Beyer and I Hate Models. Next up: Expo Santa Fe, Mexico City on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Reinier Zonneveld is a techno and house artist based in Netherlands, with 145 gi
 
 999999999, Adam Beyer, I Hate Models
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reinierzonneveld/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reinierzonneveld/)*

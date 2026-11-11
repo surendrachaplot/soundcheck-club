@@ -1,6 +1,6 @@
 # Si Paradiso
 
-Si Paradiso is a music venue in Perth with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "MiNNA (UK) @ Si Paradiso" on Sat, 14 Nov 2026.
+Si Paradiso is a music venue in Perth with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "MiNNA (UK) @ Si Paradiso" on Sat, 14 Nov 2026.
 
 Si Paradiso is a music venue in Perth listed on soundcheck. 2 upcoming gigs, with line-ups including Ewan Jansen, MiNNA and Rok Riley. See dates, start times and who's playing. 446 Beaufort St, Highgate, WA, 6003.
 
@@ -15,4 +15,4 @@ Si Paradiso is a music venue in Perth listed on soundcheck. 2 upcoming gigs, wit
 
 446 Beaufort St, Highgate, WA, 6003, Perth
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/perth/club/si-paradiso/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/perth/club/si-paradiso/)*

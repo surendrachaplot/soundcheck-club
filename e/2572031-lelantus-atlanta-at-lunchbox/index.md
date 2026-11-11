@@ -1,6 +1,6 @@
-# Lelantus: ATLANTA at Lunchbox
+# Lelantus: Atlanta at Lunchbox
 
-Lelantus: ATLANTA at Lunchbox on Sat 5 Dec, Atlanta. 3 artists: Alexion, Sesli and Stone Van Brooken. Techno and House. See the line-up on soundcheck.
+Lelantus: Atlanta at Lunchbox on Sat 5 Dec, Atlanta. 3 artists: Alexion, Sesli and Stone Van Brooken. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

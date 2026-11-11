@@ -1,6 +1,6 @@
 # Red Greg
 
-Red Greg is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Voyager Records, Leeds on Thu, 12 Nov 2026.
+Red Greg is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Voyager Records, Leeds on Thu, 12 Nov 2026.
 
 Red Greg is a disco and house artist based in United Kingdom, with 28 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 7 more. Often billed alongside Seiji Ono, Mafalda and Mendel. Next up: Voyager Records, Leeds on Thu 12 Nov.
 
@@ -26,4 +26,4 @@ Red Greg is a disco and house artist based in United Kingdom, with 28 gigs on so
 
 Seiji Ono, Mafalda, Mendel
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/redgreg/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/redgreg/)*

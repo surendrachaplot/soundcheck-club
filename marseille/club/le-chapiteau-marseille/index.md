@@ -1,6 +1,6 @@
 # Le Chapiteau - Marseille
 
-Le Chapiteau - Marseille is a music venue in Marseille with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "UNDISPUTED — DEEP HOUSE TO TECHNO" on Fri, 13 Nov 2026.
+Le Chapiteau - Marseille is a music venue in Marseille with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "UNDISPUTED — DEEP HOUSE TO TECHNO" on Fri, 13 Nov 2026.
 
 Le Chapiteau - Marseille is a music venue in Marseille listed on soundcheck. 3 upcoming gigs, with line-ups including NOGE, Saligo and shefox. See dates, start times and who's playing. 38 TVS Notre Dame De Bon Secours.
 
@@ -16,4 +16,4 @@ Le Chapiteau - Marseille is a music venue in Marseille listed on soundcheck. 3 u
 
 38 TVS Notre Dame De Bon Secours, Marseille
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/le-chapiteau-marseille/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/le-chapiteau-marseille/)*

@@ -1,6 +1,6 @@
 # MESKVLIF
 
-MESKVLIF is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Korpusi, Tbilisi on Sat, 21 Nov 2026.
+MESKVLIF is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Korpusi, Tbilisi on Sat, 21 Nov 2026.
 
 MESKVLIF is a techno and industrial artist based in Russia, with 8 gigs on soundcheck across Tbilisi. Often billed alongside Fank Ford, Kariauli and vngdr. Next up: TBA - Korpusi, Tbilisi on Sat 21 Nov.
 
@@ -24,4 +24,4 @@ MESKVLIF is a techno and industrial artist based in Russia, with 8 gigs on sound
 
 Fank Ford, Kariauli, vngdr
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meskvlif/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meskvlif/)*

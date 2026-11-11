@@ -1,6 +1,6 @@
 # Chasing Dreams 360 at Egg London
 
-Chasing Dreams 360 at Egg London on Sat 16 Jan, London. 9 artists: Aidyscape, Andrew Sharpe, C-systems and DJMrB and 5 more. Trance. See the line-up on soundcheck.
+Chasing Dreams 360 at Egg London on Sat 16 Jan, London. 11 artists: Aidyscape, Andrew Sharpe, C-systems and Collide1 and 7 more. Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,7 +13,9 @@ Chasing Dreams 360 at Egg London on Sat 16 Jan, London. 9 artists: Aidyscape, An
 - Aidyscape
 - Andrew Sharpe
 - C-systems
+- Collide1
 - DJMrB
+- Driftmoon
 - Frank Spector
 - FROGR
 - Sago

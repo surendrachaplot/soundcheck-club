@@ -1,6 +1,6 @@
 # KREUZWERK
 
-KREUZWERK is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "PULS x TILT" on Fri, 13 Nov 2026.
+KREUZWERK is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "PULS x TILT" on Fri, 13 Nov 2026.
 
 KREUZWERK is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line-ups including ADAM MUNNINGS, ALP (DE), Amanda Mussi and Amowia and 2 more. See dates, start times and who's playing. Lobeckstraße 30-35, 10969 Berlin, Deutschland.
 
@@ -9,7 +9,7 @@ KREUZWERK is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, wit
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | PULS x TILT | Dj Norma, ENNIO, Faerber, Greta Spark, HAMY, KUSS, KVLR, Karina Schneider, N.R.M, SHE/HER, oblique (DE), Ø [Phase] |
-| Sat, 14 Nov 2026 | tracey [season closing] | ADAM MUNNINGS, Amowia, Angel D'lite, Bella Sarris, Costanza, DJ Petite, Goldie, Handmade, Immy, Jonathan Apelbaum, Kontronatura, Marie Malarie, Mohajer, Nancy Nutter, Rachel Noon, Rafush, Trigger T, ketia, source:link, x3butterfly |
+| Sat, 14 Nov 2026 | tracey [season closing] | ADAM MUNNINGS, Amowia, Angel D'lite, Bella Sarris, Costanza, DJ Petite, Handmade, Immy, Jonathan Apelbaum, Kontronatura, Marie Malarie, Mohajer, Nancy Nutter, Rachel Noon, Rafush, Trigger T, goldie (2), ketia, source:link, x3butterfly |
 | Fri, 20 Nov 2026 | ABOV | Beatrice (DE), Mareena, Volvox |
 | Fri, 27 Nov 2026 | Power Dance Club | Amanda Mussi, Byron Yeates, E-Talking, Luigi Di Venere, Majdolen, Maria Politi, Stathis (GR) |
 | Fri, 4 Dec 2026 | M.Á.S | Jana Falcon, KUSS, Mohajer, Rachel Noon, Rachel de Moncuit, Volpe |
@@ -23,4 +23,4 @@ KREUZWERK is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, wit
 
 Lobeckstraße 30-35, 10969 Berlin, Deutschland, Berlin
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kreuzwerk/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kreuzwerk/)*

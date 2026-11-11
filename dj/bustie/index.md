@@ -1,6 +1,6 @@
 # Bustié
 
-Bustié is a Industrial and EBM artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Talon Bar, New York City on Fri, 13 Nov 2026.
+Bustié is a Industrial and EBM artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Talon Bar, New York City on Fri, 13 Nov 2026.
 
 Bustié is an industrial and ebm artist based in United States of America, with 8 gigs on soundcheck across Houston, Los Angeles and New York City. Often billed alongside Joe Hart (US), 4LOKA and BAE BAE. Next up: Talon Bar, New York City on Fri 13 Nov.
 
@@ -24,4 +24,4 @@ Bustié is an industrial and ebm artist based in United States of America, with 
 
 Joe Hart (US), 4LOKA, BAE BAE
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bustie/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bustie/)*

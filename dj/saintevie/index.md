@@ -1,14 +1,15 @@
 # Sainte Vie
 
-Sainte Vie is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at ORIGIN, Los Angeles on Sat, 14 Nov 2026.
+Sainte Vie is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at ORIGIN, Los Angeles on Sat, 14 Nov 2026.
 
-Sainte Vie is a techno and house artist based in Mexico, with 92 gigs on soundcheck across Amsterdam, Bali, Basel and Berlin and 28 more. Often billed alongside Eli (US), Mateo (US) and MANTi. Next up: ORIGIN, Los Angeles on Sat 14 Nov.
+Sainte Vie is a techno and house artist based in Mexico, with 93 gigs on soundcheck across Amsterdam, Bali, Basel and Berlin and 28 more. Often billed alongside Eli (US), Mateo (US) and MANTi. Next up: ORIGIN, Los Angeles on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | ORIGIN | Los Angeles |
+| Wed, 2 Dec 2026 | Lion's Den | Miami |
 | Fri, 29 Jan 2027 | Knockdown Center | New-york-city |
 | Thu, 24 Jun 2027 | Lac De Géronde | Switzerland |
 
@@ -27,4 +28,4 @@ Sainte Vie is a techno and house artist based in Mexico, with 92 gigs on soundch
 
 Eli (US), Mateo (US), MANTi
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saintevie/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saintevie/)*

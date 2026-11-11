@@ -1,14 +1,15 @@
 # Milly on Air
 
-Milly on Air is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at radial, London on Sun, 15 Nov 2026.
+Milly on Air is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at radial, London on Sun, 15 Nov 2026.
 
-Milly on Air is a house and techno artist based in United Kingdom, with 76 gigs on soundcheck across Amsterdam, Brighton, Bristol and London and 2 more. Often billed alongside Gallegos, J.Rains and A For Alpha. Next up: radial, London on Sun 15 Nov.
+Milly on Air is a house and techno artist based in United Kingdom, with 77 gigs on soundcheck across Amsterdam, Brighton, Bristol and London and 2 more. Often billed alongside Gallegos, J.Rains and A For Alpha. Next up: radial, London on Sun 15 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 15 Nov 2026 | radial | London |
+| Sat, 28 Nov 2026 | Electric Pizza Shop | Manchester |
 | Fri, 4 Dec 2026 | Document | Bristol |
 | Sat, 12 Dec 2026 | Sawmills | Bristol |
 
@@ -27,4 +28,4 @@ Milly on Air is a house and techno artist based in United Kingdom, with 76 gigs 
 
 Gallegos, J.Rains, A For Alpha
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/millyonair/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/millyonair/)*

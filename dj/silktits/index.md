@@ -1,6 +1,6 @@
 # Silktits
 
-Silktits is a House and Balearic artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Sans Soleil, Montreal on Thu, 26 Nov 2026.
+Silktits is a House and Balearic artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Sans Soleil, Montreal on Thu, 26 Nov 2026.
 
 Silktits is a house and balearic artist, with 39 gigs on soundcheck across Detroit, Mexico City, Montreal and New York City and 1 more. Often billed alongside somebody3lse, Alina (MTL) and DJ Hidi. Next up: Sans Soleil, Montreal on Thu 26 Nov.
 
@@ -27,4 +27,4 @@ Silktits is a house and balearic artist, with 39 gigs on soundcheck across Detro
 
 somebody3lse, Alina (MTL), DJ Hidi
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/silktits/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/silktits/)*

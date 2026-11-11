@@ -1,6 +1,6 @@
 # Felmann
 
-Felmann is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Sacré, Paris on Sat, 12 Dec 2026.
+Felmann is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Sacré, Paris on Sat, 12 Dec 2026.
 
 Felmann is a house and tech house artist based in France, with 11 gigs on soundcheck across Paris. Often billed alongside Aurèle, Bustin' Loose and DJ Carlos. Next up: Sacré, Paris on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Felmann is a house and tech house artist based in France, with 11 gigs on soundc
 
 Aurèle, Bustin' Loose, DJ Carlos
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/felmann/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/felmann/)*

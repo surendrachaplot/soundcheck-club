@@ -1,8 +1,8 @@
 # The System
 
-The System is a music venue in Sheffield with 17 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Puzzle Pieces - Jpeg, Esmé, Joi L.F, Ol.G" on Fri, 13 Nov 2026.
+The System is a music venue in Sheffield with 18 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Puzzle Pieces - Jpeg, Esmé, Joi L.F, Ol.G" on Fri, 13 Nov 2026.
 
-The System is a music venue in Sheffield listed on soundcheck. 17 upcoming gigs, with line-ups including Arkane, Ashley Holmes, Charlie Dark and DAISY and 2 more. See dates, start times and who's playing.
+The System is a music venue in Sheffield listed on soundcheck. 18 upcoming gigs, with line-ups including Arkane, Ashley Holmes, Benedict and Charlie Dark and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
@@ -19,4 +19,4 @@ The System is a music venue in Sheffield listed on soundcheck. 17 upcoming gigs,
 | Fri, 27 Nov 2026 | Alto 014 | Arkane, INLIMEN, Sam J |
 | Fri, 27 Nov 2026 | Footprints Jazz Club: Steve Edwards + Khamra |  |
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/the-system/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/the-system/)*

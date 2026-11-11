@@ -1,14 +1,15 @@
 # Quantic
 
-Quantic is a Jazz and Funk / Soul artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at La Paloma, Barcelona on Fri, 20 Nov 2026.
+Quantic is a Jazz and Funk / Soul artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at La Paloma, Barcelona on Fri, 20 Nov 2026.
 
-Quantic is a jazz and funk / soul artist based in United Kingdom, with 42 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 18 more. Often billed alongside Alejandra Sabillón, G-HA and Jamz Supernova. Next up: La Paloma, Barcelona on Fri 20 Nov.
+Quantic is a jazz and funk / soul artist based in United Kingdom, with 43 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 19 more. Often billed alongside Alejandra Sabillón, G-HA and Jamz Supernova. Next up: La Paloma, Barcelona on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | La Paloma | Barcelona |
+| Sat, 28 Nov 2026 | Monk Club | Rome |
 | Sat, 19 Dec 2026 | La Bellevilloise | Paris |
 
 ## Recently played
@@ -26,4 +27,4 @@ Quantic is a jazz and funk / soul artist based in United Kingdom, with 42 gigs o
 
 Alejandra Sabillón, G-HA, Jamz Supernova
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/quantic/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/quantic/)*

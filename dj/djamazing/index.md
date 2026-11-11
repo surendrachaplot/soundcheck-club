@@ -1,6 +1,6 @@
 # DJ AMAZING
 
-DJ AMAZING is a Hip-Hop and R&B artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at La Terrrazza, Barcelona on Fri, 20 Nov 2026.
+DJ AMAZING is a Hip-Hop and R&B artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at La Terrrazza, Barcelona on Fri, 20 Nov 2026.
 
 DJ AMAZING is a hip-hop and r&b artist based in Spain, with 109 gigs on soundcheck across Barcelona, Lisbon, Madrid and Porto. Often billed alongside Hector Hope, Denoir and JAEL. Next up: La Terrrazza, Barcelona on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ DJ AMAZING is a hip-hop and r&b artist based in Spain, with 109 gigs on soundche
 
 Hector Hope, Denoir, JAEL
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djamazing/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djamazing/)*

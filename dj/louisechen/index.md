@@ -1,6 +1,6 @@
 # Louise Chen
 
-Louise Chen is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Peckham Rye Park, London on Fri, 28 May 2027.
+Louise Chen is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Peckham Rye Park, London on Fri, 28 May 2027.
 
 Louise Chen is a house and disco artist based in Luxembourg, with 47 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 9 more. Often billed alongside Heléna Star, Benji B and Bradley Zero. Next up: Peckham Rye Park, London on Fri 28 May.
 
@@ -25,4 +25,4 @@ Louise Chen is a house and disco artist based in Luxembourg, with 47 gigs on sou
 
 Heléna Star, Benji B, Bradley Zero
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/louisechen/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/louisechen/)*

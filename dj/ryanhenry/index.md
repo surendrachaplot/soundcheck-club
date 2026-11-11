@@ -1,6 +1,6 @@
 # Ryan Henry
 
-Ryan Henry is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Malaga Sin City, Milan on Fri, 13 Nov 2026.
+Ryan Henry is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Malaga Sin City, Milan on Fri, 13 Nov 2026.
 
 Ryan Henry is a techno and house artist based in United Kingdom, with 13 gigs on soundcheck across Barcelona, Berlin, London and Milan. Often billed alongside Eleonora Cairati, Althoff and ERRANT. Next up: Malaga Sin City, Milan on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Ryan Henry is a techno and house artist based in United Kingdom, with 13 gigs on
 
 Eleonora Cairati, Althoff, ERRANT
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanhenry/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanhenry/)*

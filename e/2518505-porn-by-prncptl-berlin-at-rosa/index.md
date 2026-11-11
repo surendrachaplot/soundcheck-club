@@ -1,6 +1,6 @@
 # PORN by PRNCPTL - Berlin at ROSA
 
-PORN by PRNCPTL - Berlin at ROSA on Sat 21 Nov, Berlin. 9 artists: ābnamā, ADAM MUNNINGS, Deepneue and DJ KILLING and 5 more. Techno and House. See the line-up on soundcheck.
+PORN by PRNCPTL - Berlin at ROSA on Sat 21 Nov, Berlin. 10 artists: ābnamā, ADAM MUNNINGS, Curses and Deepneue and 6 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ PORN by PRNCPTL - Berlin at ROSA on Sat 21 Nov, Berlin. 9 artists: ābnamā, ADA
 
 - ābnamā
 - ADAM MUNNINGS
+- Curses
 - Deepneue
 - DJ KILLING
 - Kontronatura

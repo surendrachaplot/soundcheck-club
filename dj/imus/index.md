@@ -1,6 +1,6 @@
 # imus
 
-imus is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at PBOX STND, Tokyo on Sat, 14 Nov 2026.
+imus is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at PBOX STND, Tokyo on Sat, 14 Nov 2026.
 
 imus is a techno and house artist based in Japan, with 122 gigs on soundcheck across Berlin, Kyoto, Osaka and Tbilisi and 1 more. Often billed alongside AKIRAM EN, DJ MARIA. and DJ Yazi. Next up: PBOX STND, Tokyo on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ imus is a techno and house artist based in Japan, with 122 gigs on soundcheck ac
 
 AKIRAM EN, DJ MARIA., DJ Yazi
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/imus/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/imus/)*

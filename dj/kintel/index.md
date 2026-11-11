@@ -1,6 +1,6 @@
 # KINTEL
 
-KINTEL is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Fitzroy, Berlin on Thu, 19 Nov 2026.
+KINTEL is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Fitzroy, Berlin on Thu, 19 Nov 2026.
 
 KINTEL is a house and techno artist based in Germany, with 18 gigs on soundcheck across Berlin and Milan. Often billed alongside cliff, BUTZ and Fletchy Boy. Next up: Fitzroy, Berlin on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ KINTEL is a house and techno artist based in Germany, with 18 gigs on soundcheck
 
 cliff, BUTZ, Fletchy Boy
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kintel/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kintel/)*

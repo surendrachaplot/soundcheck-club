@@ -1,6 +1,6 @@
 # Ice Cream Factory
 
-Ice Cream Factory is a music venue in Perth with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "SIDEPIECE + MATRODA" on Fri, 13 Nov 2026.
+Ice Cream Factory is a music venue in Perth with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "SIDEPIECE + MATRODA" on Fri, 13 Nov 2026.
 
 Ice Cream Factory is a music venue in Perth listed on soundcheck. 5 upcoming gigs, with line-ups including Bella Backe, Ellia Jaya, Jordan Brando and Late Nite Tuff Guy and 2 more. See dates, start times and who's playing.
 
@@ -14,4 +14,4 @@ Ice Cream Factory is a music venue in Perth listed on soundcheck. 5 upcoming gig
 | Wed, 2 Dec 2026 | Kool & The Gang + Sister Sledge feat. Slegendary [Perth] | Late Nite Tuff Guy |
 | Sun, 27 Dec 2026 | BELTERS ONLY (IE) |  |
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/perth/club/ice-cream-factory/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/perth/club/ice-cream-factory/)*

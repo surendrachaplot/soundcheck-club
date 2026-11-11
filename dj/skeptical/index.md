@@ -1,6 +1,6 @@
 # Skeptical
 
-Skeptical is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at objekt klein a, Dresden on Fri, 13 Nov 2026.
+Skeptical is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at objekt klein a, Dresden on Fri, 13 Nov 2026.
 
 Skeptical is a drum & bass and jungle artist based in United Kingdom, with 76 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Basel and 30 more. Often billed alongside SP:MC, Breakage and MC GQ. Next up: objekt klein a, Dresden on Fri 13 Nov.
 
@@ -28,4 +28,4 @@ Skeptical is a drum & bass and jungle artist based in United Kingdom, with 76 gi
 
 SP:MC, Breakage, MC GQ
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skeptical/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skeptical/)*

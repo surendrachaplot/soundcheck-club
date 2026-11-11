@@ -1,11 +1,11 @@
-# HAUSNACHT [002] at [119]
+# HAUSNACHT [002] at 119
 
-HAUSNACHT [002] at [119] on Fri 20 Nov, Berlin. 3 artists: .Cheka, ALIS. and TRIS. Trance and Techno. See the line-up on soundcheck.
+HAUSNACHT [002] at 119 on Fri 20 Nov, Berlin. 3 artists: .Cheka, ALIS. and TRIS. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Fri, 20 Nov 2026 |
-| Venue | [119] |
+| Venue | 119 |
 | City | Berlin |
 
 ## Line-up

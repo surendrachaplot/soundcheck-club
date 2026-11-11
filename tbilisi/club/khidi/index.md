@@ -1,6 +1,6 @@
 # KHIDI
 
-KHIDI is a music venue in Tbilisi with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "G2: Lilith, Objector Trax, Sept" on Fri, 13 Nov 2026.
+KHIDI is a music venue in Tbilisi with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "G2: Lilith, Objector Trax, Sept" on Fri, 13 Nov 2026.
 
 KHIDI is a music venue in Tbilisi listed on soundcheck. 3 upcoming gigs, with line-ups including 00rt, AgainstMe, History Of Beatrice and Lilith. and 2 more. See dates, start times and who's playing. Vakhushti Bagrationi Bridge, Right Embankment, 0160 Tbilisi.
 
@@ -16,4 +16,4 @@ KHIDI is a music venue in Tbilisi listed on soundcheck. 3 upcoming gigs, with li
 
 Vakhushti Bagrationi Bridge, Right Embankment, 0160 Tbilisi, Tbilisi
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/khidi/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/khidi/)*

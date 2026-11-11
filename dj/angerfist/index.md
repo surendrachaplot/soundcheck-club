@@ -1,8 +1,8 @@
 # Angerfist
 
-Angerfist is a Techno and Hardcore artist with 8 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Pandora Sevilla, South on Fri, 20 Nov 2026.
+Angerfist is a Techno and Hardcore artist with 9 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Pandora Sevilla, South on Fri, 20 Nov 2026.
 
-Angerfist is a techno and hardcore artist based in Germany, with 88 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 41 more. Often billed alongside Trym, Alignment and Mad Dog. Next up: Pandora Sevilla, South on Fri 20 Nov.
+Angerfist is a techno and hardcore artist based in Germany, with 89 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 42 more. Often billed alongside Trym, Alignment and Mad Dog. Next up: Pandora Sevilla, South on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Angerfist is a techno and hardcore artist based in Germany, with 88 gigs on soun
 | Fri, 18 Dec 2026 | D! Club | Lausanne |
 | Sat, 26 Dec 2026 | Gate Milano | Milan |
 | Wed, 30 Dec 2026 | Brussels Expo | Brussels |
+| Fri, 15 Jan 2027 | Tama | Poznan |
 | Sat, 30 Jan 2027 | Kaapelitehdas / The Cable Factory | Helsinki |
 
 ## Recently played
@@ -32,4 +33,4 @@ Angerfist is a techno and hardcore artist based in Germany, with 88 gigs on soun
 
 Trym, Alignment, Mad Dog
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/angerfist/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/angerfist/)*

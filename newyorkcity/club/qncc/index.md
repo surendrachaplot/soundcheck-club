@@ -1,6 +1,6 @@
 # Qncc
 
-Qncc is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "What To Do Until Help Arrives" on Thu, 12 Nov 2026.
+Qncc is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "What To Do Until Help Arrives" on Thu, 12 Nov 2026.
 
 Qncc is a music venue in New York City listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 100 Hinsdale Street, Brooklyn, NY.
 
@@ -15,4 +15,4 @@ Qncc is a music venue in New York City listed on soundcheck. 2 upcoming gigs. Se
 
 100 Hinsdale Street, Brooklyn, NY, New York City
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/qncc/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/qncc/)*

@@ -1,6 +1,6 @@
 # TBA - Secret Venue
 
-TBA - Secret Venue is a music venue in London with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Chimeria presents Pradziad" on Sat, 14 Nov 2026.
+TBA - Secret Venue is a music venue in London with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Chimeria presents Pradziad" on Sat, 14 Nov 2026.
 
 TBA - Secret Venue is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including acidheaven, DJ Pipe, evin and Georgia Bird and 2 more. See dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ TBA - Secret Venue is a music venue in London listed on soundcheck. 2 upcoming g
 | Sat, 14 Nov 2026 | Chimeria presents Pradziad | Grey People, Jaq Attaque, Josh Tong, Lokua |
 | Fri, 20 Nov 2026 | Sensational Beauty x Club Savvy with acidheaven b2b evin, Dj Pipe, Georgia Bird b2b Obelix | DJ Pipe, Georgia Bird, Obelix, acidheaven, evin |
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-venue/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-venue/)*

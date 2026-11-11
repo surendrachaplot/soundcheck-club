@@ -1,8 +1,8 @@
 # Paniolo
 
-Paniolo is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Gut Level, Sheffield on Fri, 13 Nov 2026.
+Paniolo is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Gut Level, Sheffield on Fri, 13 Nov 2026.
 
-Paniolo is a house and techno artist based in United States of America, with 27 gigs on soundcheck across Nottingham and Sheffield. Often billed alongside Backseat Driver, Bubbles (UK) and MELK. Next up: Gut Level, Sheffield on Fri 13 Nov.
+Paniolo is a house and techno artist based in United States of America, with 28 gigs on soundcheck across Nottingham and Sheffield. Often billed alongside Backseat Driver, Bubbles (UK) and MELK. Next up: Gut Level, Sheffield on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Paniolo is a house and techno artist based in United States of America, with 27 
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Gut Level | Sheffield |
 | Sat, 14 Nov 2026 | The Model | Nottingham |
+| Sat, 5 Dec 2026 | Grub Records | Sheffield |
 | Sat, 12 Dec 2026 | Gut Level | Sheffield |
 
 ## Recently played
@@ -27,4 +28,4 @@ Paniolo is a house and techno artist based in United States of America, with 27 
 
 Backseat Driver, Bubbles (UK), MELK
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paniolo/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paniolo/)*

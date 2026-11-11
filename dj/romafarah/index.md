@@ -1,6 +1,6 @@
 # Roma Farah
 
-Roma Farah is a Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Hangar48 Club, Madrid on Sat, 28 Nov 2026.
+Roma Farah is a Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Hangar48 Club, Madrid on Sat, 28 Nov 2026.
 
 Roma Farah is a tech house artist based in Spain, with 11 gigs on soundcheck across Madrid. Often billed alongside CSuite, GoneBeat and Raquel X. Next up: Hangar48 Club, Madrid on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Roma Farah is a tech house artist based in Spain, with 11 gigs on soundcheck acr
 
 CSuite, GoneBeat, Raquel X
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/romafarah/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/romafarah/)*

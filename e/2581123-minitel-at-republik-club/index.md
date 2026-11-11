@@ -1,6 +1,6 @@
 # MINITEL // at Republik Club
 
-MINITEL // at Republik Club on Fri 13 Nov, Madrid. 3 artists: Gueparda, Pablo Lara and Vulker. Techno. See the line-up on soundcheck.
+MINITEL // at Republik Club on Fri 13 Nov, Madrid. 4 artists: Diego A-K, Gueparda, Pablo Lara and Vulker. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ MINITEL // at Republik Club on Fri 13 Nov, Madrid. 3 artists: Gueparda, Pablo La
 
 ## Line-up
 
+- Diego A-K
 - Gueparda
 - Pablo Lara
 - Vulker

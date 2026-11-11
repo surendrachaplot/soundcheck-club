@@ -1,6 +1,6 @@
 # Fingers Of God
 
-Fingers Of God is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at WUK, Vienna on Sat, 5 Dec 2026.
+Fingers Of God is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at WUK, Vienna on Sat, 5 Dec 2026.
 
 Fingers Of God is a techno and electro artist based in Austria, with 12 gigs on soundcheck across Vienna. Often billed alongside Luca Carlotta, Maara and Nkisi. Next up: WUK, Vienna on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Fingers Of God is a techno and electro artist based in Austria, with 12 gigs on 
 
 Luca Carlotta, Maara, Nkisi
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fingersofgod/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fingersofgod/)*

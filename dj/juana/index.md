@@ -1,8 +1,8 @@
 # Juana
 
-Juana is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at BASEMENT, New York City on Sat, 21 Nov 2026.
+Juana is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at BASEMENT, New York City on Sat, 21 Nov 2026.
 
-Juana is a techno and house artist based in United States of America, with 138 gigs on soundcheck across Austin, Baltimore, Berlin and Bogotá and 15 more. Often billed alongside Ne/Re/A, Auspex and Concrete Husband. Next up: BASEMENT, New York City on Sat 21 Nov.
+Juana is a techno and house artist based in United States of America, with 139 gigs on soundcheck across Austin, Baltimore, Berlin and Bogotá and 15 more. Often billed alongside Ne/Re/A, Auspex and Concrete Husband. Next up: BASEMENT, New York City on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Juana is a techno and house artist based in United States of America, with 138 g
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | BASEMENT | New York City |
 | Fri, 4 Dec 2026 | TBA - Brooklyn | New York City |
+| Fri, 11 Dec 2026 | BASEMENT | New York City |
 | Wed, 27 Jan 2027 | TBA - Brooklyn | New York City |
 
 ## Recently played
@@ -27,4 +28,4 @@ Juana is a techno and house artist based in United States of America, with 138 g
 
 Ne/Re/A, Auspex, Concrete Husband
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juana/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juana/)*

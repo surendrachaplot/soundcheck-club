@@ -1,6 +1,6 @@
 # Sissy Cinnamon
 
-Sissy Cinnamon is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Glove That Fits, London on Thu, 26 Nov 2026.
+Sissy Cinnamon is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Glove That Fits, London on Thu, 26 Nov 2026.
 
 Sissy Cinnamon is a techno and house artist based in United Kingdom, with 40 gigs on soundcheck across Brighton, London and Madrid. Often billed alongside Samantha Togni, ASHTREY and RRUDEGIRLLL. Next up: The Glove That Fits, London on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Sissy Cinnamon is a techno and house artist based in United Kingdom, with 40 gig
 
 Samantha Togni, ASHTREY, RRUDEGIRLLL
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sissycinnamon/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sissycinnamon/)*

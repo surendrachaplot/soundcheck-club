@@ -1,14 +1,14 @@
 # Julie Fleischer
 
-Julie Fleischer is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Sendlinger-tor-platz 11, 80336 München, Munich on Fri, 18 Dec 2026.
+Julie Fleischer is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Dings, Munich on Fri, 18 Dec 2026.
 
-Julie Fleischer is a house and disco artist based in Germany, with 52 gigs on soundcheck across Munich and Vienna. Often billed alongside Kapote, Mikey Gee and A-DEE. Next up: TBA - Sendlinger-tor-platz 11, 80336 München, Munich on Fri 18 Dec.
+Julie Fleischer is a house and disco artist based in Germany, with 52 gigs on soundcheck across Munich and Vienna. Often billed alongside Kapote, Mikey Gee and A-DEE. Next up: Dings, Munich on Fri 18 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Dec 2026 | TBA - Sendlinger-tor-platz 11, 80336 München | Munich |
+| Fri, 18 Dec 2026 | Dings | Munich |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Julie Fleischer is a house and disco artist based in Germany, with 52 gigs on so
 
 Kapote, Mikey Gee, A-DEE
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juliefleischer/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juliefleischer/)*

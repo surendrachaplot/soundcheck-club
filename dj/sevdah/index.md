@@ -1,6 +1,6 @@
 # Sev Dah
 
-Sev Dah is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Goethebunker, Dortmund / Essen on Sat, 14 Nov 2026.
+Sev Dah is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Goethebunker, Dortmund / Essen on Sat, 14 Nov 2026.
 
 Sev Dah is a techno and house artist based in Sweden, with 33 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 16 more. Often billed alongside Nihad Tule, Ogazón and .Paragon. Next up: Goethebunker, Dortmund / Essen on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Sev Dah is a techno and house artist based in Sweden, with 33 gigs on soundcheck
 
 Nihad Tule, Ogazón, .Paragon
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sevdah/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sevdah/)*

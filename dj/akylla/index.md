@@ -1,6 +1,6 @@
 # Akylla
 
-Akylla is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Crust Basement, Athens on Sat, 14 Nov 2026.
+Akylla is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Crust Basement, Athens on Sat, 14 Nov 2026.
 
 Akylla is a house and afro house artist based in Greece, with 41 gigs on soundcheck across Athens. Often billed alongside Aris Kokou, Christo Z and Timmy Regisford. Next up: Crust Basement, Athens on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Akylla is a house and afro house artist based in Greece, with 41 gigs on soundch
 
 Aris Kokou, Christo Z, Timmy Regisford
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akylla/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akylla/)*

@@ -1,6 +1,6 @@
 # oulcan
 
-oulcan is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Crack Bellmer, Berlin on Thu, 19 Nov 2026.
+oulcan is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Crack Bellmer, Berlin on Thu, 19 Nov 2026.
 
 oulcan is a house and tech house artist based in Turkey, with 39 gigs on soundcheck across Berlin, Hamburg, Leipzig and Milan. Often billed alongside Tom Pavicich, Mati Amoretti and Vlamassi. Next up: Crack Bellmer, Berlin on Thu 19 Nov.
 
@@ -27,4 +27,4 @@ oulcan is a house and tech house artist based in Turkey, with 39 gigs on soundch
 
 Tom Pavicich, Mati Amoretti, Vlamassi
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oulcan/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oulcan/)*

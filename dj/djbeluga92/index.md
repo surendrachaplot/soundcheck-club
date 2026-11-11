@@ -1,6 +1,6 @@
 # DJ Beluga92
 
-DJ Beluga92 is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at 42 Marches, Paris on Fri, 11 Dec 2026.
+DJ Beluga92 is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at 42 Marches, Paris on Fri, 11 Dec 2026.
 
 DJ Beluga92 is an electro and house artist based in France, with 13 gigs on soundcheck across Paris, Tokyo and Toulouse. Often billed alongside Acid Astrid, Delskiz and Antoine Calvino. Next up: 42 Marches, Paris on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ DJ Beluga92 is an electro and house artist based in France, with 13 gigs on soun
 
 Acid Astrid, Delskiz, Antoine Calvino
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbeluga92/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbeluga92/)*

@@ -1,6 +1,6 @@
 # Anuuk
 
-Anuuk is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Turbinenhalle, Oberhausen on Sat, 14 Nov 2026.
+Anuuk is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Turbinenhalle, Oberhausen on Sat, 14 Nov 2026.
 
 Anuuk is a techno and trance artist based in Germany, with 35 gigs on soundcheck across Berlin, Cologne, Frankfurt and Hamburg and 6 more. Often billed alongside DonChoppa, SEKTOR69 and Kø:lab. Next up: Turbinenhalle, Oberhausen on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Anuuk is a techno and trance artist based in Germany, with 35 gigs on soundcheck
 
 DonChoppa, SEKTOR69, Kø:lab
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anuuk/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anuuk/)*

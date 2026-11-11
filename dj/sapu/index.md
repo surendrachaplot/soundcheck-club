@@ -1,6 +1,6 @@
 # SaPu
 
-SaPu is a Minimal and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Golden Gate, Berlin on Sat, 14 Nov 2026.
+SaPu is a Minimal and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Golden Gate, Berlin on Sat, 14 Nov 2026.
 
 SaPu is a minimal and tech house artist based in Germany, with 17 gigs on soundcheck across Amsterdam, Berlin, Lisbon and Vilnius. Often billed alongside Alex Grebe, Tripmastaz and Alessia Ceruti. Next up: Golden Gate, Berlin on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ SaPu is a minimal and tech house artist based in Germany, with 17 gigs on soundc
 
 Alex Grebe, Tripmastaz, Alessia Ceruti
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sapu/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sapu/)*

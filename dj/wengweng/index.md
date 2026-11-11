@@ -1,6 +1,6 @@
 # Weng Weng
 
-Weng Weng is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Groundless Factory, Beijing on Sat, 21 Nov 2026.
+Weng Weng is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Groundless Factory, Beijing on Sat, 21 Nov 2026.
 
 Weng Weng is a techno and house artist based in China, with 69 gigs on soundcheck across Beijing, Chengdu, Osaka and Shanghai and 1 more. Often billed alongside Nigls, Mickey Zhang and Skögul. Next up: Groundless Factory, Beijing on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Weng Weng is a techno and house artist based in China, with 69 gigs on soundchec
 
 Nigls, Mickey Zhang, Skögul
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wengweng/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wengweng/)*

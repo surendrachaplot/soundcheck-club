@@ -1,6 +1,6 @@
 # Cassie Raptor
 
-Cassie Raptor is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Airport Würzburg, Nürnberg on Fri, 20 Nov 2026.
+Cassie Raptor is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Airport Würzburg, Nürnberg on Fri, 20 Nov 2026.
 
 Cassie Raptor is a techno and industrial artist based in France, with 149 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 55 more. Often billed alongside CARAVEL, ANXHELA and DYEN. Next up: Airport Würzburg, Nürnberg on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Cassie Raptor is a techno and industrial artist based in France, with 149 gigs o
 
 CARAVEL, ANXHELA, DYEN
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cassieraptor/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cassieraptor/)*

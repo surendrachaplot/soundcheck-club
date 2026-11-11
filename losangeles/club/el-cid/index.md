@@ -1,6 +1,6 @@
 # El Cid
 
-El Cid is a music venue in Los Angeles with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Donuts: A Disco Party" on Sat, 14 Nov 2026.
+El Cid is a music venue in Los Angeles with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Donuts: A Disco Party" on Sat, 14 Nov 2026.
 
 El Cid is a music venue in Los Angeles listed on soundcheck. 3 upcoming gigs, with line-ups including Lily Ardalan, Ly Tran, Memphis LK and Pauliewog. See dates, start times and who's playing. 4212 W. Sunset Blvd, Los Angeles, CA 90029.
 
@@ -16,4 +16,4 @@ El Cid is a music venue in Los Angeles listed on soundcheck. 3 upcoming gigs, wi
 
 4212 W. Sunset Blvd, Los Angeles, CA 90029, Los Angeles
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/el-cid/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/el-cid/)*

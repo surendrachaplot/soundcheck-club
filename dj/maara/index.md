@@ -1,8 +1,8 @@
 # Maara
 
-Maara is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at RSO.BERLIN, Berlin on Fri, 20 Nov 2026.
+Maara is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at RSO.BERLIN, Berlin on Fri, 20 Nov 2026.
 
-Maara is a techno and house artist based in Canada, with 178 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 60 more. Often billed alongside Angel D'lite, Roza Terenzi and D. Tiffany. Next up: RSO.BERLIN, Berlin on Fri 20 Nov.
+Maara is a techno and house artist based in Canada, with 179 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 60 more. Often billed alongside Angel D'lite, Roza Terenzi and D. Tiffany. Next up: RSO.BERLIN, Berlin on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Maara is a techno and house artist based in Canada, with 178 gigs on soundcheck 
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | RSO.BERLIN | Berlin |
 | Fri, 20 Nov 2026 | Ormside Projects | London |
+| Fri, 11 Dec 2026 | BASEMENT | New York City |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Maara is a techno and house artist based in Canada, with 178 gigs on soundcheck 
 
 Angel D'lite, Roza Terenzi, D. Tiffany
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maara/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maara/)*

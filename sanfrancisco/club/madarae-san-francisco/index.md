@@ -1,6 +1,6 @@
 # Madarae San Francisco
 
-Madarae San Francisco is a music venue in San Francisco/Oakland with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Sharam (Deep Dish) at MadaRae" on Fri, 13 Nov 2026.
+Madarae San Francisco is a music venue in San Francisco/Oakland with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Sharam (Deep Dish) at MadaRae" on Fri, 13 Nov 2026.
 
 Madarae San Francisco is a music venue in San Francisco/Oakland listed on soundcheck. 4 upcoming gigs, with line-ups including nocapz., Sharam and T-Puse. See dates, start times and who's playing. 46 Minna St, San Francisco, CA 94105, United States.
 
@@ -17,4 +17,4 @@ Madarae San Francisco is a music venue in San Francisco/Oakland listed on soundc
 
 46 Minna St, San Francisco, CA 94105, United States, San Francisco/Oakland
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/madarae-san-francisco/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/madarae-san-francisco/)*

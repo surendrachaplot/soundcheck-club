@@ -1,6 +1,6 @@
 # Rui Tang
 
-Rui Tang is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Æther BKK, Bangkok on Wed, 2 Dec 2026.
+Rui Tang is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Æther BKK, Bangkok on Wed, 2 Dec 2026.
 
 Rui Tang is a techno and house artist based in China, with 41 gigs on soundcheck across Bangkok, Beijing, Budapest and Chengdu and 6 more. Often billed alongside Knopha, 3ASiC and ALPHA (NL). Next up: Æther BKK, Bangkok on Wed 2 Dec.
 
@@ -25,4 +25,4 @@ Rui Tang is a techno and house artist based in China, with 41 gigs on soundcheck
 
 Knopha, 3ASiC, ALPHA (NL)
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ruitang/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ruitang/)*

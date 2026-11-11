@@ -1,6 +1,6 @@
 # Krista Bourgeois
 
-Krista Bourgeois is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Tempio del Futuro Perduto, Milan on Sat, 5 Dec 2026.
+Krista Bourgeois is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Tempio del Futuro Perduto, Milan on Sat, 5 Dec 2026.
 
 Krista Bourgeois is a techno and industrial artist, with 53 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bogotá and 24 more. Often billed alongside Thrasher, Manu Le Malin and Kilbourne. Next up: Tempio del Futuro Perduto, Milan on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Krista Bourgeois is a techno and industrial artist, with 53 gigs on soundcheck a
 
 Thrasher, Manu Le Malin, Kilbourne
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kristabourgeois/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kristabourgeois/)*

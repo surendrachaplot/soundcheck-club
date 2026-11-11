@@ -1,6 +1,6 @@
 # Seven (2)
 
-Seven (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at RADION, Amsterdam on Thu, 31 Dec 2026.
+Seven (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at RADION, Amsterdam on Thu, 31 Dec 2026.
 
 Seven is a techno and house artist based in Netherlands, with 6 gigs on soundcheck across Amsterdam and Brussels. Often billed alongside DJ Bone, Yeti Mind Tricks and Azucy. Next up: RADION, Amsterdam on Thu 31 Dec.
 
@@ -22,4 +22,4 @@ Seven is a techno and house artist based in Netherlands, with 6 gigs on soundche
 
 DJ Bone, Yeti Mind Tricks, Azucy
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seven-2/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seven-2/)*

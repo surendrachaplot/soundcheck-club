@@ -1,6 +1,6 @@
 # Brina Knauss
 
-Brina Knauss is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Khoroum Valley, Egypt on Fri, 20 Nov 2026.
+Brina Knauss is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Khoroum Valley, Egypt on Fri, 20 Nov 2026.
 
 Brina Knauss is a techno and house artist based in Slovenia, with 128 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 43 more. Often billed alongside Fideles, Mathame and Mind Against. Next up: Khoroum Valley, Egypt on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Brina Knauss is a techno and house artist based in Slovenia, with 128 gigs on so
 
 Fideles, Mathame, Mind Against
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brinaknauss/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brinaknauss/)*

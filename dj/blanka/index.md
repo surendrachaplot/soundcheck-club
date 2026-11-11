@@ -1,6 +1,6 @@
 # BLANKA
 
-BLANKA is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Prince Charles, Berlin on Fri, 13 Nov 2026.
+BLANKA is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Prince Charles, Berlin on Fri, 13 Nov 2026.
 
 BLANKA is a techno and house artist based in Spain, with 172 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 56 more. Often billed alongside Angioma, Quelza and Setaoc Mass. Next up: Prince Charles, Berlin on Fri 13 Nov.
 
@@ -30,4 +30,4 @@ BLANKA is a techno and house artist based in Spain, with 172 gigs on soundcheck 
 
 Angioma, Quelza, Setaoc Mass
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blanka/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blanka/)*

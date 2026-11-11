@@ -1,8 +1,8 @@
 # ÆDEN
 
-ÆDEN is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "ＬＩＬＩＴＨ ✦ 5€ PRE-SALE ✦" on Wed, 11 Nov 2026.
+ÆDEN is a music venue in Berlin with 16 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "ＬＩＬＩＴＨ ✦ 5€ PRE-SALE ✦" on Wed, 11 Nov 2026.
 
-ÆDEN is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with line-ups including 4NOUK, YOVA, Aaron Blau and Anahita Shamsaei and 2 more. See dates, start times and who's playing. Schleusenufer 2, 10997 Berlin.
+ÆDEN is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, with line-ups including 4NOUK, YOVA, Aaron Blau and Anahita Shamsaei and 2 more. See dates, start times and who's playing. Schleusenufer 2, 10997 Berlin.
 
 ## What's on
 
@@ -17,10 +17,10 @@
 | Thu, 26 Nov 2026 | CANCELLED - OBXENE |  |
 | Fri, 27 Nov 2026 | No Gravity Berlin Latin Night XXL | 4NOUK, Chili con Sosa, Headstorm, LAURIX (DE), Lisek, Nadia Bel Air, SALCHIKILLER, SARIAN, Sony2k, Subtrax, futurristic, mølly (on molly), saya (DE), zicke kuh |
 | Sat, 28 Nov 2026 | CANDYFLIP with Sköne, ARPL, LÄUFF, YOVA  | ARPL, Dj Kuschelschal, Florelle, Kaltgepresst, LÄUFF, Megaira, Melanchromie, Rabe Rax, Sköne, YOVA, brvder jakob, elfie, subga |
-| Fri, 11 Dec 2026 | Anechoic | August Kind, djbounty3000 |
+| Fri, 4 Dec 2026 | Puticlub presents El Ultimo Puticlub del Año Vol V |  |
 
 ## Address
 
 Schleusenufer 2, 10997 Berlin, Berlin
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/den/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/den/)*

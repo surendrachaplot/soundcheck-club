@@ -1,6 +1,6 @@
 # Sammy Taylor
 
-Sammy Taylor is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - DTLA, Los Angeles on Wed, 25 Nov 2026.
+Sammy Taylor is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - DTLA, Los Angeles on Wed, 25 Nov 2026.
 
 Sammy Taylor is a house and techno artist based in United States of America, with 22 gigs on soundcheck across Los Angeles and San Francisco/Oakland. Often billed alongside vRok, DMN TWNK and Black Panda. Next up: TBA - DTLA, Los Angeles on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ Sammy Taylor is a house and techno artist based in United States of America, wit
 
 vRok, DMN TWNK, Black Panda
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sammytaylor/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sammytaylor/)*

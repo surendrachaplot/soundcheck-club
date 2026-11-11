@@ -1,14 +1,15 @@
 # VITO (UK)
 
-VITO (UK) is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Edge Miami, Miami on Fri, 4 Dec 2026.
+VITO (UK) is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Edge Miami, Miami on Fri, 4 Dec 2026.
 
-VITO (UK) is a tech house and house artist based in United Kingdom, with 39 gigs on soundcheck across Amsterdam, Barcelona, Bogotá and Boston and 15 more. Often billed alongside Shahar, AJ Christou and Burdi. Next up: Edge Miami, Miami on Fri 4 Dec.
+VITO (UK) is a tech house and house artist based in United Kingdom, with 40 gigs on soundcheck across Amsterdam, Barcelona, Bogotá and Boston and 15 more. Often billed alongside Shahar, AJ Christou and Burdi. Next up: Edge Miami, Miami on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | Edge Miami | Miami |
+| Sun, 27 Dec 2026 | BRET | Amsterdam |
 | Thu, 7 Jan 2027 | TBA | Puerto-rico |
 
 ## Recently played
@@ -26,4 +27,4 @@ VITO (UK) is a tech house and house artist based in United Kingdom, with 39 gigs
 
 Shahar, AJ Christou, Burdi
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vitouk/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vitouk/)*

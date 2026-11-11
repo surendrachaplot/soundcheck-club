@@ -1,6 +1,6 @@
 # Spinneck
 
-Spinneck is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Goldener Reiter, Munich on Sat, 28 Nov 2026.
+Spinneck is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Goldener Reiter, Munich on Sat, 28 Nov 2026.
 
 Spinneck is a house and techno artist based in Germany, with 11 gigs on soundcheck across Munich. Often billed alongside Benni B, Maggie Jane and Inspektor Lenny. Next up: Goldener Reiter, Munich on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Spinneck is a house and techno artist based in Germany, with 11 gigs on soundche
 
 Benni B, Maggie Jane, Inspektor Lenny
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spinneck/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spinneck/)*

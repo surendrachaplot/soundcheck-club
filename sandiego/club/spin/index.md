@@ -1,6 +1,6 @@
 # Spin
 
-Spin is a music venue in San Diego with 11 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "FNGRS CRSSD presents STÜM" on Fri, 13 Nov 2026.
+Spin is a music venue in San Diego with 11 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "FNGRS CRSSD presents STÜM" on Fri, 13 Nov 2026.
 
 Spin is a music venue in San Diego listed on soundcheck. 11 upcoming gigs, with line-ups including Cam Stockman, HiTech, Joss Dean and Mont Rouge and 2 more. See dates, start times and who's playing. 2028 Hancock Street; San Diego, CA 92110, USA.
 
@@ -23,4 +23,4 @@ Spin is a music venue in San Diego listed on soundcheck. 11 upcoming gigs, with 
 
 2028 Hancock Street; San Diego, CA 92110, USA, San Diego
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/spin/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/spin/)*

@@ -1,6 +1,6 @@
 # okadada
 
-okadada is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Enter Shibuya, Tokyo on Sun, 22 Nov 2026.
+okadada is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Enter Shibuya, Tokyo on Sun, 22 Nov 2026.
 
 okadada is a house and techno artist based in Japan, with 169 gigs on soundcheck across Kyoto, Osaka, Seoul and Tokyo. Often billed alongside FELINE (JP), Licaxxx and Sekitova. Next up: Enter Shibuya, Tokyo on Sun 22 Nov.
 
@@ -26,4 +26,4 @@ okadada is a house and techno artist based in Japan, with 169 gigs on soundcheck
 
 FELINE (JP), Licaxxx, Sekitova
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/okadada/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/okadada/)*

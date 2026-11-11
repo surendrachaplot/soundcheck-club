@@ -1,6 +1,6 @@
 # 030.Tokyo
 
-030.Tokyo is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Hermann Vol.5" on Wed, 11 Nov 2026.
+030.Tokyo is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Hermann Vol.5" on Wed, 11 Nov 2026.
 
 030.Tokyo is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with line-ups including Kurea, tnseei and YAMAREN. See dates, start times and who's playing. 150-0041 Tokyo-to Shibuya-ku Jinnan 1-3-2 Fuji Building 1F.
 
@@ -15,4 +15,4 @@
 
 150-0041 Tokyo-to Shibuya-ku Jinnan 1-3-2 Fuji Building 1F, Tokyo
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/030-tokyo/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/030-tokyo/)*

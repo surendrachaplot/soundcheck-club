@@ -1,6 +1,6 @@
 # The Cell
 
-The Cell is a music venue in Nottingham with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. The next is "SUONARE SESSIONS: VOL.3 [House / Tech House]" on Sat, 6 Feb 2027.
+The Cell is a music venue in Nottingham with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "SUONARE SESSIONS: VOL.3 [House / Tech House]" on Sat, 6 Feb 2027.
 
 The Cell is a music venue in Nottingham listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ The Cell is a music venue in Nottingham listed on soundcheck. 1 upcoming gig. Se
 | --- | --- | --- |
 | Sat, 6 Feb 2027 | SUONARE SESSIONS: VOL.3 [House / Tech House] |  |
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/the-cell/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/the-cell/)*

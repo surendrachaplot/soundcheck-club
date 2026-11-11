@@ -1,6 +1,6 @@
 # Lord Tusk
 
-Lord Tusk is a Dub and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The White Hotel, Manchester on Thu, 17 Dec 2026.
+Lord Tusk is a Dub and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The White Hotel, Manchester on Thu, 17 Dec 2026.
 
 Lord Tusk is a dub and house artist based in United Kingdom, with 54 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 10 more. Often billed alongside James Massiah, Christian AB and John T. Gast. Next up: The White Hotel, Manchester on Thu 17 Dec.
 
@@ -25,4 +25,4 @@ Lord Tusk is a dub and house artist based in United Kingdom, with 54 gigs on sou
 
 James Massiah, Christian AB, John T. Gast
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lordtusk/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lordtusk/)*

@@ -1,14 +1,13 @@
 # ALICE
 
-ALICE is a music venue in Copenhagen with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "aja monet (US) at ALICE" on Tue, 10 Nov 2026.
+ALICE is a music venue in Copenhagen with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Ana Roxanne (US) + Hasfeldt at ALICE" on Sat, 14 Nov 2026.
 
-ALICE is a music venue in Copenhagen listed on soundcheck. 5 upcoming gigs, with line-ups including Aunty Rayzor, Byetone, Dengue Dengue Dengue and Gábor Lázár and 2 more. See dates, start times and who's playing. Nørre Allé 7, 2200 København N, Denmark.
+ALICE is a music venue in Copenhagen listed on soundcheck. 4 upcoming gigs, with line-ups including Aunty Rayzor, Byetone, Dengue Dengue Dengue and Gábor Lázár and 2 more. See dates, start times and who's playing. Nørre Allé 7, 2200 København N, Denmark.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 10 Nov 2026 | aja monet (US) at ALICE |  |
 | Sat, 14 Nov 2026 | Ana Roxanne (US) + Hasfeldt at ALICE | Hasfeldt |
 | Thu, 19 Nov 2026 | Aunty Rayzor (NG) at ALICE | Aunty Rayzor |
 | Sat, 28 Nov 2026 | raster. 30 years anniversary at ALICE | Byetone, Gábor Lázár, John Cleworth, Xuri |
@@ -18,4 +17,4 @@ ALICE is a music venue in Copenhagen listed on soundcheck. 5 upcoming gigs, with
 
 Nørre Allé 7, 2200 København N, Denmark, Copenhagen
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/alice/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/alice/)*

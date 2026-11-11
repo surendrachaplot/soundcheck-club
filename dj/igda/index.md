@@ -1,6 +1,6 @@
 # IGDA
 
-IGDA is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Turbinenhalle, Oberhausen on Sat, 14 Nov 2026.
+IGDA is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Turbinenhalle, Oberhausen on Sat, 14 Nov 2026.
 
 IGDA is a techno and trance artist based in Germany, with 105 gigs on soundcheck across Amsterdam, Barcelona, Basel and Belgrade and 23 more. Often billed alongside NOTMYTYPE, A.N.I. and Nicolas Julian. Next up: Turbinenhalle, Oberhausen on Sat 14 Nov.
 
@@ -29,4 +29,4 @@ IGDA is a techno and trance artist based in Germany, with 105 gigs on soundcheck
 
 NOTMYTYPE (2), A.N.I., Nicolas Julian
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/igda/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/igda/)*

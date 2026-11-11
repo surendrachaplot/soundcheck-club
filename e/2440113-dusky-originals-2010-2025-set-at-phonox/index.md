@@ -1,6 +1,6 @@
 # Dusky: Originals (2010 - 2025 Set) at Phonox
 
-Dusky: Originals (2010 - 2025 Set) at Phonox on Sat 21 Nov, London. 1 artist: Dusky. See the line-up on soundcheck.
+Dusky: Originals (2010 - 2025 Set) at Phonox on Sat 21 Nov, London. 2 artists: Dusky and rumu. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Dusky: Originals (2010 - 2025 Set) at Phonox on Sat 21 Nov, London. 1 artist: Du
 ## Line-up
 
 - Dusky
+- rumu
 
 *Source: [soundcheck](https://soundcheck.club/e/2440113-dusky-originals-2010-2025-set-at-phonox/)*

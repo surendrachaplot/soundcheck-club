@@ -1,6 +1,6 @@
 # (FREE ENTRY) ILLEGAL with Tragedie,Tonino, Eric Wishes uvm at PKH Warehouse
 
-(FREE ENTRY) ILLEGAL with Tragedie,Tonino, Eric Wishes uvm at PKH Warehouse on Sat 5 Dec, Berlin. 10 artists: cell1, DJ ŌVËRDRĪVÊ, DJ Spaßgetränk and Eric Wishes and 6 more. Techno and Tech House. See the line-up on soundcheck.
+(FREE ENTRY) ILLEGAL with Tragedie,Tonino, Eric Wishes uvm at PKH Warehouse on Sat 5 Dec, Berlin. 11 artists: cell1, DJ ŌVËRDRĪVÊ, DJ Spaßgetränk and elvito and 7 more. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@
 - cell1
 - DJ ŌVËRDRĪVÊ
 - DJ Spaßgetränk
+- elvito
 - Eric Wishes
 - Lisatrix
 - Milchgeld

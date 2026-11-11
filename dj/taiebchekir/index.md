@@ -1,6 +1,6 @@
 # Taieb Chékir
 
-Taieb Chékir is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - 75013, Paris on Sat, 12 Dec 2026.
+Taieb Chékir is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - 75013, Paris on Sat, 12 Dec 2026.
 
 Taieb Chékir is an electro and house artist based in France, with 27 gigs on soundcheck across Barcelona, Lisbon, Paris and Tunisia. Often billed alongside Alyhas, Bassam and Blanco. Next up: TBA - 75013, Paris on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Taieb Chékir is an electro and house artist based in France, with 27 gigs on so
 
 Alyhas, Bassam, Blanco
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taiebchekir/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taiebchekir/)*

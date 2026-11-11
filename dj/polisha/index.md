@@ -1,6 +1,6 @@
 # Polisha
 
-Polisha is a Electro and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 12 Nov 2026.
+Polisha is a Electro and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 12 Nov 2026.
 
 Polisha is an electro and electronica artist based in Argentina, with 7 gigs on soundcheck across Barcelona. Often billed alongside Dimarziio, Agustina Aliaga and BERNOUT. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu 12 Nov.
 
@@ -23,4 +23,4 @@ Polisha is an electro and electronica artist based in Argentina, with 7 gigs on 
 
 Dimarziio, Agustina Aliaga, BERNOUT
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/polisha/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/polisha/)*

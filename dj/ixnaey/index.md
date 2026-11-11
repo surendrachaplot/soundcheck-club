@@ -1,6 +1,6 @@
 # IXNAEY
 
-IXNAEY is a Techno and Garage artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Chinese Laundry, Sydney on Sat, 14 Nov 2026.
+IXNAEY is a Techno and Garage artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Chinese Laundry, Sydney on Sat, 14 Nov 2026.
 
 IXNAEY is a techno and garage artist based in Australia, with 9 gigs on soundcheck across Sydney. Often billed alongside NFRMT, AMZDAMN B2B SMAGS and Baba Boubou. Next up: Chinese Laundry, Sydney on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ IXNAEY is a techno and garage artist based in Australia, with 9 gigs on soundche
 
 NFRMT, AMZDAMN B2B SMAGS, Baba Boubou
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ixnaey/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ixnaey/)*

@@ -1,6 +1,6 @@
 # DJ Bar Bridge
 
-DJ Bar Bridge is a music venue in Tokyo with 41 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "KUBOTA,TAKESHI & Jungle Rock " on Wed, 11 Nov 2026.
+DJ Bar Bridge is a music venue in Tokyo with 41 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "KUBOTA,TAKESHI & Jungle Rock " on Wed, 11 Nov 2026.
 
 DJ Bar Bridge is a music venue in Tokyo listed on soundcheck. 41 upcoming gigs, with line-ups including DJ Emma, DJ Nori, FELINE (JP) and JOKI and 2 more. See dates, start times and who's playing. Park Side Kyoudou Bldg.10F, 1-25-6 Shibuya, Shibuya-ku, Tokyo, 150-0002, Japan.
 
@@ -23,4 +23,4 @@ DJ Bar Bridge is a music venue in Tokyo listed on soundcheck. 41 upcoming gigs, 
 
 Park Side Kyoudou Bldg.10F, 1-25-6 Shibuya, Shibuya-ku, Tokyo, 150-0002, Japan, Tokyo
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dj-bar-bridge/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dj-bar-bridge/)*

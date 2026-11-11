@@ -1,6 +1,6 @@
 # El Hey
 
-El Hey is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Cabaret Sauvage, Paris on Sat, 12 Dec 2026.
+El Hey is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Cabaret Sauvage, Paris on Sat, 12 Dec 2026.
 
 El Hey is a house and electro artist based in France, with 27 gigs on soundcheck across Paris. Often billed alongside Sebizarre, NOCH and Mic Mac. Next up: Cabaret Sauvage, Paris on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ El Hey is a house and electro artist based in France, with 27 gigs on soundcheck
 
 Sebizarre, NOCH (2), Mic Mac
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elhey/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elhey/)*

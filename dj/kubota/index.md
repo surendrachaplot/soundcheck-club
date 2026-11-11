@@ -1,6 +1,6 @@
 # KUBOTA
 
-KUBOTA is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Oath, Tokyo on Fri, 13 Nov 2026.
+KUBOTA is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Oath, Tokyo on Fri, 13 Nov 2026.
 
 KUBOTA is a house and techno artist based in Japan, with 101 gigs on soundcheck across Tokyo. Often billed alongside SIGNAL (JP), HARUTO and Shimpei Watanabe. Next up: Oath, Tokyo on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ KUBOTA is a house and techno artist based in Japan, with 101 gigs on soundcheck 
 
 SIGNAL (JP), HARUTO, Shimpei Watanabe
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kubota/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kubota/)*

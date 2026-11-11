@@ -1,6 +1,6 @@
 # Loso
 
-Loso is a music venue in Richmond with 12 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Rimarkable" on Sat, 14 Nov 2026.
+Loso is a music venue in Richmond with 12 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Rimarkable" on Sat, 14 Nov 2026.
 
 Loso is a music venue in Richmond listed on soundcheck. 12 upcoming gigs, with line-ups including Adam Ward, Armando X., Bridge (NY) and Colored Craig and 2 more. See dates, start times and who's playing. 2727 W Broad St, Richmond, VA 23220, USA.
 
@@ -23,4 +23,4 @@ Loso is a music venue in Richmond listed on soundcheck. 12 upcoming gigs, with l
 
 2727 W Broad St, Richmond, VA 23220, USA, Richmond
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/richmond/club/loso/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/richmond/club/loso/)*

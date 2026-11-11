@@ -1,6 +1,6 @@
 # Paula Tape
 
-Paula Tape is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Frankhan Selectist, Istanbul on Fri, 13 Nov 2026.
+Paula Tape is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Frankhan Selectist, Istanbul on Fri, 13 Nov 2026.
 
 Paula Tape is a house and techno artist based in Chile, with 180 gigs on soundcheck across Amsterdam, Athens, Bali and Bangkok and 57 more. Often billed alongside Avalon Emerson, Make A Dance and Bonobo. Next up: Frankhan Selectist, Istanbul on Fri 13 Nov.
 
@@ -31,4 +31,4 @@ Paula Tape is a house and techno artist based in Chile, with 180 gigs on soundch
 
 Avalon Emerson, Make A Dance, Bonobo
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/Paulatape/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/Paulatape/)*

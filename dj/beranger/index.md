@@ -1,6 +1,6 @@
 # Beranger
 
-Beranger is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Bar do Netão, Sao Paulo on Wed, 11 Nov 2026.
+Beranger is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Bar do Netão, Sao Paulo on Wed, 11 Nov 2026.
 
 Beranger is a house and minimal artist based in Brazil, with 27 gigs on soundcheck across Rio de Janeiro and Sao Paulo. Often billed alongside Saulo Ferraro, Marta Supernova and Elisa Amaral. Next up: Bar do Netão, Sao Paulo on Wed 11 Nov.
 
@@ -25,4 +25,4 @@ Beranger is a house and minimal artist based in Brazil, with 27 gigs on soundche
 
 Saulo Ferraro, Marta Supernova, Elisa Amaral
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beranger/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beranger/)*

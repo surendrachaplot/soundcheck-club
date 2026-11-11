@@ -1,14 +1,15 @@
 # Friedberg
 
-Friedberg is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at ErF Studios, New York City on Thu, 12 Nov 2026.
+Friedberg is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at ErF Studios, New York City on Thu, 12 Nov 2026.
 
-Friedberg is a techno and experimental artist based in United States of America, with 11 gigs on soundcheck across New York City. Often billed alongside Megan Rosengarten, DREAMINSLOW and Zach Davis. Next up: ErF Studios, New York City on Thu 12 Nov.
+Friedberg is a techno and experimental artist based in United States of America, with 12 gigs on soundcheck across New York City. Often billed alongside Megan Rosengarten, DREAMINSLOW and Zach Davis. Next up: ErF Studios, New York City on Thu 12 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 12 Nov 2026 | ErF Studios | New York City |
+| Sat, 14 Nov 2026 | SISTEM | New York City |
 | Sat, 21 Nov 2026 | TBA - 1 INGRAHAM ST | New York City |
 
 ## Recently played
@@ -26,4 +27,4 @@ Friedberg is a techno and experimental artist based in United States of America,
 
 Megan Rosengarten, DREAMINSLOW, Zach Davis
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/friedberg/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/friedberg/)*

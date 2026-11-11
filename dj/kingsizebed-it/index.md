@@ -1,6 +1,6 @@
 # Kingsizebed
 
-Kingsizebed is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Studionotte, Milan on Sat, 14 Nov 2026.
+Kingsizebed is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Studionotte, Milan on Sat, 14 Nov 2026.
 
 Kingsizebed is a house and techno artist based in Italy, with 61 gigs on soundcheck across Athens, Berlin, Bologna and Brussels and 4 more. Often billed alongside Aaron Blau, R.ocks and 131bpm. Next up: Studionotte, Milan on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Kingsizebed is a house and techno artist based in Italy, with 61 gigs on soundch
 
 Aaron Blau, R.ocks, 131bpm
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kingsizebed-it/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kingsizebed-it/)*

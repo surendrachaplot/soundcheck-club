@@ -1,8 +1,8 @@
 # Fabe
 
-Fabe is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Secret Industrial Location (Berlin), Berlin on Fri, 13 Nov 2026.
+Fabe is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Secret Industrial Location (Berlin), Berlin on Fri, 13 Nov 2026.
 
-Fabe is a house and tech house artist based in Germany, with 113 gigs on soundcheck across Amsterdam, Atlanta, Bali and Barcelona and 32 more. Often billed alongside Lauren Lo Sung, Rich NXT and Sidney Charles. Next up: TBA - Secret Industrial Location (Berlin), Berlin on Fri 13 Nov.
+Fabe is a house and tech house artist based in Germany, with 115 gigs on soundcheck across Amsterdam, Atlanta, Bali and Barcelona and 32 more. Often billed alongside Lauren Lo Sung, Rich NXT and Sidney Charles. Next up: TBA - Secret Industrial Location (Berlin), Berlin on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,8 @@ Fabe is a house and tech house artist based in Germany, with 113 gigs on soundch
 | Sat, 14 Nov 2026 | The Liquid Room | Edinburgh |
 | Sat, 28 Nov 2026 | Tanzhaus West | Frankfurt |
 | Fri, 18 Dec 2026 | fabric | London |
+| Sat, 19 Dec 2026 | Das Zimmer | Mannheim |
+| Sat, 19 Dec 2026 | Das Zimmer | Mannheim |
 
 ## Recently played
 
@@ -28,4 +30,4 @@ Fabe is a house and tech house artist based in Germany, with 113 gigs on soundch
 
 Lauren Lo Sung, Rich NXT, Sidney Charles
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fabe/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fabe/)*

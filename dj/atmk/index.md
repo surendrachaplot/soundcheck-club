@@ -1,13 +1,14 @@
 # ATMK
 
-ATMK is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Akihabara IV, Tokyo on Sat, 9 Jan 2027.
+ATMK is a Bass and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at ZEROTOKYO, Tokyo on Thu, 10 Dec 2026.
 
-ATMK is a bass and drum & bass artist based in Japan, with 23 gigs on soundcheck across Tokyo. Often billed alongside Altemica, CRAZYHYUGA and HiroHiro. Next up: Akihabara IV, Tokyo on Sat 9 Jan.
+ATMK is a bass and drum & bass artist based in Japan, with 24 gigs on soundcheck across Tokyo. Often billed alongside CRAZYHYUGA, R1pq and Altemica. Next up: ZEROTOKYO, Tokyo on Thu 10 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 10 Dec 2026 | ZEROTOKYO | Tokyo |
 | Sat, 9 Jan 2027 | Akihabara IV | Tokyo |
 
 ## Recently played
@@ -23,6 +24,6 @@ ATMK is a bass and drum & bass artist based in Japan, with 23 gigs on soundcheck
 
 ## Shares bills with
 
-Altemica, CRAZYHYUGA, HiroHiro
+CRAZYHYUGA, R1pq, Altemica
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/atmk/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/atmk/)*

@@ -1,6 +1,6 @@
 # rØreka
 
-rØreka is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at C2 OST, Karlsruhe on Sat, 28 Nov 2026.
+rØreka is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at C2 OST, Karlsruhe on Sat, 28 Nov 2026.
 
 rØreka is a techno and acid artist, with 8 gigs on soundcheck across Karlsruhe, Mannheim and Stuttgart. Often billed alongside Tino Machauer, Townes and Acierate. Next up: C2 OST, Karlsruhe on Sat 28 Nov.
 
@@ -24,4 +24,4 @@ rØreka is a techno and acid artist, with 8 gigs on soundcheck across Karlsruhe,
 
 Tino Machauer, Townes, Acierate
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roreka/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roreka/)*

@@ -1,8 +1,8 @@
 # J.TU
 
-J.TU is a Afrobeats and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at YOTO, Hamburg on Sat, 14 Nov 2026.
+J.TU is a Afrobeats and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at YOTO, Hamburg on Sat, 14 Nov 2026.
 
-J.TU is an afrobeats and hip-hop artist, with 7 gigs on soundcheck across Hamburg. Often billed alongside NEAF and WARNO. Next up: YOTO, Hamburg on Sat 14 Nov.
+J.TU is an afrobeats and hip-hop artist based in Germany, with 7 gigs on soundcheck across Hamburg. Often billed alongside NEAF and WARNO. Next up: YOTO, Hamburg on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ J.TU is an afrobeats and hip-hop artist, with 7 gigs on soundcheck across Hambur
 
 NEAF, WARNO
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/j.tu/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/j.tu/)*

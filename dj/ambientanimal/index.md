@@ -1,6 +1,6 @@
 # Ambient Animal
 
-Ambient Animal is a Vaporwave and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Celeste, Vienna on Sat, 19 Dec 2026.
+Ambient Animal is a Vaporwave and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Celeste, Vienna on Sat, 19 Dec 2026.
 
 Ambient Animal is a vaporwave and bass artist based in Austria, with 5 gigs on soundcheck across Vienna. Often billed alongside Tanja Turner, André Pahl and Elektro Guzzi. Next up: Celeste, Vienna on Sat 19 Dec.
 
@@ -21,4 +21,4 @@ Ambient Animal is a vaporwave and bass artist based in Austria, with 5 gigs on s
 
 Tanja Turner, André Pahl, Elektro Guzzi
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ambientanimal/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ambientanimal/)*

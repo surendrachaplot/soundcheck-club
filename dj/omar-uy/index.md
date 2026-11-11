@@ -1,6 +1,6 @@
 # OMAR (UY)
 
-OMAR (UY) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at 303 Audiophile Bar, Barcelona on Thu, 26 Nov 2026.
+OMAR (UY) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at 303 Audiophile Bar, Barcelona on Thu, 26 Nov 2026.
 
 OMAR (UY) is a house and techno artist based in Uruguay, with 119 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Belgrade and 40 more. Often billed alongside Oriana, Binh and Bobby.. Next up: 303 Audiophile Bar, Barcelona on Thu 26 Nov.
 
@@ -26,4 +26,4 @@ OMAR (UY) is a house and techno artist based in Uruguay, with 119 gigs on soundc
 
 Oriana, Binh, Bobby.
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/omar-uy/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/omar-uy/)*

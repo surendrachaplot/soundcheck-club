@@ -1,6 +1,6 @@
 # KCT (1)
 
-KCT (1) is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Azumaya, Tokyo on Wed, 11 Nov 2026.
+KCT (1) is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Azumaya, Tokyo on Wed, 11 Nov 2026.
 
 KCT is a bass and techno artist based in Japan, with 24 gigs on soundcheck across Tokyo. Often billed alongside AMIDAdrive, Rt3mis and SolaNino. Next up: Azumaya, Tokyo on Wed 11 Nov.
 
@@ -26,4 +26,4 @@ KCT is a bass and techno artist based in Japan, with 24 gigs on soundcheck acros
 
 AMIDAdrive, Rt3mis, SolaNino
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kct-1/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kct-1/)*

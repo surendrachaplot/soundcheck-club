@@ -1,6 +1,6 @@
 # Read the News
 
-Read the News is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at D! Club, Lausanne on Thu, 26 Nov 2026.
+Read the News is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at D! Club, Lausanne on Thu, 26 Nov 2026.
 
 Read the News is a techno and house artist based in Switzerland, with 47 gigs on soundcheck across Barcelona, Basel, Cologne and Dubai and 6 more. Often billed alongside Reto Ardour, Josh Gigante and Marino Canal. Next up: D! Club, Lausanne on Thu 26 Nov.
 
@@ -26,4 +26,4 @@ Read the News is a techno and house artist based in Switzerland, with 47 gigs on
 
 Reto Ardour, Josh Gigante, Marino Canal
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/readthenews/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/readthenews/)*

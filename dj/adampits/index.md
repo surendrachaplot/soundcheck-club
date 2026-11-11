@@ -1,13 +1,14 @@
 # Adam Pits
 
-Adam Pits is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Atno, Budapest on Sat, 28 Nov 2026.
+Adam Pits is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Sauna Social Club, London on Sat, 21 Nov 2026.
 
-Adam Pits is a techno and house artist based in United Kingdom, with 98 gigs on soundcheck across Amsterdam, Athens, Belfast and Berlin and 31 more. Often billed alongside Lisene, Space Cadets and FROND. Next up: Atno, Budapest on Sat 28 Nov.
+Adam Pits is a techno and house artist based in United Kingdom, with 99 gigs on soundcheck across Amsterdam, Athens, Belfast and Berlin and 31 more. Often billed alongside Lisene, Space Cadets and FROND. Next up: Sauna Social Club, London on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | Sauna Social Club | London |
 | Sat, 28 Nov 2026 | Atno | Budapest |
 
 ## Recently played
@@ -25,4 +26,4 @@ Adam Pits is a techno and house artist based in United Kingdom, with 98 gigs on 
 
 Lisene, Space Cadets, FROND
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adampits/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adampits/)*

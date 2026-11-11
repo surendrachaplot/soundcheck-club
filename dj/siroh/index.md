@@ -1,6 +1,6 @@
 # SIROH
 
-SIROH is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at rake?raka?, Osaka on Fri, 13 Nov 2026.
+SIROH is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at rake?raka?, Osaka on Fri, 13 Nov 2026.
 
 SIROH is a techno and house artist based in Japan, with 63 gigs on soundcheck across Osaka. Often billed alongside Phekam, Sonny Vercetti and MMORITA. Next up: rake?raka?, Osaka on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ SIROH is a techno and house artist based in Japan, with 63 gigs on soundcheck ac
 
 Phekam, Sonny Vercetti, MMORITA
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/siroh/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/siroh/)*

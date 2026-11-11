@@ -1,6 +1,6 @@
 # Amy Mauritz
 
-Amy Mauritz is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Hearty Collective, Cape Town on Sat, 14 Nov 2026.
+Amy Mauritz is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Hearty Collective, Cape Town on Sat, 14 Nov 2026.
 
 Amy Mauritz is a house and deep house artist based in South Africa, with 20 gigs on soundcheck across Cape Town. Often billed alongside Cody Losper, Kid Fonque and Niskerone. Next up: Hearty Collective, Cape Town on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Amy Mauritz is a house and deep house artist based in South Africa, with 20 gigs
 
 Cody Losper, Kid Fonque, Niskerone
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amymauritz/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amymauritz/)*

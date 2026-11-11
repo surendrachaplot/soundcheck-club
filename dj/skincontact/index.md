@@ -1,13 +1,14 @@
 # SKIN CONTACT
 
-SKIN CONTACT is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Paragon, New York City on Sat, 28 Nov 2026.
+SKIN CONTACT is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - TWO FLOOR WAREHOUSE , New York City on Fri, 20 Nov 2026.
 
-SKIN CONTACT is a techno and electro artist based in United States of America, with 24 gigs on soundcheck across New York City. Often billed alongside Atomheartmommy, Cyb3r Bull and KYRUH. Next up: Paragon, New York City on Sat 28 Nov.
+SKIN CONTACT is a techno and electro artist based in United States of America, with 25 gigs on soundcheck across New York City. Often billed alongside Atomheartmommy, Cyb3r Bull and KYRUH. Next up: TBA - TWO FLOOR WAREHOUSE , New York City on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | TBA - TWO FLOOR WAREHOUSE  | New York City |
 | Sat, 28 Nov 2026 | Paragon | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ SKIN CONTACT is a techno and electro artist based in United States of America, w
 
 Atomheartmommy, Cyb3r Bull, KYRUH
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skincontact/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skincontact/)*

@@ -1,6 +1,6 @@
 # PLAN X
 
-PLAN X is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at One Gallery, Sofia on Sat, 28 Nov 2026.
+PLAN X is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at One Gallery, Sofia on Sat, 28 Nov 2026.
 
 PLAN X is a progressive house and techno artist based in Bulgaria, with 10 gigs on soundcheck across Sofia. Often billed alongside E D I N, ANGL and Abdy. Next up: One Gallery, Sofia on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ PLAN X is a progressive house and techno artist based in Bulgaria, with 10 gigs 
 
 E D I N, ANGL (2), Abdy
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/planx/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/planx/)*

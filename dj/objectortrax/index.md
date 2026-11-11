@@ -1,6 +1,6 @@
 # Objector Trax
 
-Objector Trax is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at KHIDI, Tbilisi on Fri, 13 Nov 2026.
+Objector Trax is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at KHIDI, Tbilisi on Fri, 13 Nov 2026.
 
 Objector Trax is a techno and ebm artist based in Georgia, with 24 gigs on soundcheck across Berlin, Hamburg, Poznan and Tbilisi. Often billed alongside Lilith., Boyd Schidt and Dual Pistols. Next up: KHIDI, Tbilisi on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Objector Trax is a techno and ebm artist based in Georgia, with 24 gigs on sound
 
 Lilith., Boyd Schidt, Dual Pistols
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/objectortrax/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/objectortrax/)*

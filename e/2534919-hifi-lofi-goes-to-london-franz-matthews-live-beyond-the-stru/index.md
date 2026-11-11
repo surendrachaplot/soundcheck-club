@@ -1,6 +1,6 @@
 # HIFI/LOFI goes to London: Franz Matthews (Live), Beyond The Struttosphere at The Greyhound
 
-HIFI/LOFI goes to London: Franz Matthews (Live), Beyond The Struttosphere at The Greyhound on Fri 20 Nov, London. 1 artist: Franz Matthews. House and Italo Disco. See the line-up on soundcheck.
+HIFI/LOFI goes to London: Franz Matthews (Live), Beyond The Struttosphere at The Greyhound on Fri 20 Nov, London. 2 artists: Beyond The Struttosphere and Franz Matthews. House and Italo Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ HIFI/LOFI goes to London: Franz Matthews (Live), Beyond The Struttosphere at The
 
 ## Line-up
 
+- Beyond The Struttosphere
 - Franz Matthews
 
 *Source: [soundcheck](https://soundcheck.club/e/2534919-hifi-lofi-goes-to-london-franz-matthews-live-beyond-the-stru/)*

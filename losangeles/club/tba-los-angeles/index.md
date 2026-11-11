@@ -1,6 +1,6 @@
 # TBA - Los Angeles
 
-TBA - Los Angeles is a music venue in Los Angeles with 14 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "VOIDLINE LA — STATIC REBELLION — 14 NOVEMBER" on Sat, 14 Nov 2026.
+TBA - Los Angeles is a music venue in Los Angeles with 14 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "VOIDLINE LA — STATIC REBELLION — 14 NOVEMBER" on Sat, 14 Nov 2026.
 
 TBA - Los Angeles is a music venue in Los Angeles listed on soundcheck. 14 upcoming gigs, with line-ups including 999999999, Adrian Reyes, Akua and Annika Wolfe and 2 more. See dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ TBA - Los Angeles is a music venue in Los Angeles listed on soundcheck. 14 upcom
 | Fri, 4 Dec 2026 | WORK Harder presents: Rebekah [All Night Long] | Rebekah |
 | Fri, 4 Dec 2026 | Planet Love: livwutang / James Axon / Mez Monty | James Axon, Mez Monty, livwutang |
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-los-angeles/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-los-angeles/)*

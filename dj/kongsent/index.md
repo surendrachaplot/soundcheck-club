@@ -1,13 +1,14 @@
 # Kongsent
 
-Kongsent is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Cici Park, Chongqing on Sat, 12 Dec 2026.
+Kongsent is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Rugs*, Beijing on Thu, 12 Nov 2026.
 
-Kongsent is a techno and house artist based in China, with 36 gigs on soundcheck across Bangkok, Beijing, Chengdu and Chongqing and 1 more. Often billed alongside Yang Bing, CicE and LIUYANG. Next up: Cici Park, Chongqing on Sat 12 Dec.
+Kongsent is a techno and house artist based in China, with 37 gigs on soundcheck across Bangkok, Beijing, Chengdu and Chongqing and 1 more. Often billed alongside Yang Bing, CicE and LIUYANG. Next up: Rugs*, Beijing on Thu 12 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 12 Nov 2026 | Rugs* | Beijing |
 | Sat, 12 Dec 2026 | Cici Park | Chongqing |
 
 ## Recently played
@@ -25,4 +26,4 @@ Kongsent is a techno and house artist based in China, with 36 gigs on soundcheck
 
 Yang Bing, CicE, LIUYANG
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kongsent/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kongsent/)*

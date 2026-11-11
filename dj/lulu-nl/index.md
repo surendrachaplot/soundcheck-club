@@ -1,6 +1,6 @@
 # Lulu (NL)
 
-Lulu (NL) is a Electronica and R&B artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at OT301, Amsterdam on Sat, 12 Dec 2026.
+Lulu (NL) is a Electronica and R&B artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at OT301, Amsterdam on Sat, 12 Dec 2026.
 
 Lulu (NL) is an electronica and r&b artist based in Netherlands, with 20 gigs on soundcheck across Amsterdam, Berlin, Brussels and Cologne and 2 more. Often billed alongside Conrad Pack, Merel Rhizoom and Otis (BE). Next up: OT301, Amsterdam on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Lulu (NL) is an electronica and r&b artist based in Netherlands, with 20 gigs on
 
 Conrad Pack, Merel Rhizoom, Otis (BE)
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lulu-nl/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lulu-nl/)*

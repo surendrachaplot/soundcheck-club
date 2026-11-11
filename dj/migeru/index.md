@@ -1,6 +1,6 @@
 # migeru
 
-migeru is a Hardcore and Breakcore artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Forestlimit, Tokyo on Fri, 27 Nov 2026.
+migeru is a Hardcore and Breakcore artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Forestlimit, Tokyo on Fri, 27 Nov 2026.
 
 migeru is a hardcore and breakcore artist based in Japan, with 51 gigs on soundcheck across Osaka, Seoul and Tokyo. Often billed alongside NordOst, emiku and Harmful Logic. Next up: Forestlimit, Tokyo on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ migeru is a hardcore and breakcore artist based in Japan, with 51 gigs on soundc
 
 NordOst, emiku, Harmful Logic
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/migeru/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/migeru/)*

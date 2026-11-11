@@ -1,6 +1,6 @@
 # Salida Recs x Music Mulier at CHICO
 
-Salida Recs x Music Mulier at CHICO on Fri 27 Nov, Mexico City. 4 artists: Koscoy, Octoptic, TNT Dan and Ursula Prawn. Techno and Club. See the line-up on soundcheck.
+Salida Recs x Music Mulier at CHICO on Fri 27 Nov, Mexico City. 4 artists: Octoptic, TNT Dan, Ursula Prawn and VOMFLIEGEL. Techno and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,9 +10,9 @@ Salida Recs x Music Mulier at CHICO on Fri 27 Nov, Mexico City. 4 artists: Kosco
 
 ## Line-up
 
-- Koscoy
 - Octoptic
 - TNT Dan
 - Ursula Prawn
+- VOMFLIEGEL
 
 *Source: [soundcheck](https://soundcheck.club/e/2581215-salida-recs-x-music-mulier-at-chico/)*

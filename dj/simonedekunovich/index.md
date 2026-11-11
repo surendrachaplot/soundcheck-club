@@ -1,6 +1,6 @@
 # Simone de Kunovich
 
-Simone de Kunovich is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at BORIS CLUB, Barcelona on Fri, 13 Nov 2026.
+Simone de Kunovich is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at BORIS CLUB, Barcelona on Fri, 13 Nov 2026.
 
 Simone de Kunovich is a house and techno artist based in Italy, with 169 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 39 more. Often billed alongside PARAMIDA, Dante (H501) and Pascal Moscheni. Next up: BORIS CLUB, Barcelona on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Simone de Kunovich is a house and techno artist based in Italy, with 169 gigs on
 
 PARAMIDA, Dante (H501), Pascal Moscheni
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simonedekunovich/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simonedekunovich/)*

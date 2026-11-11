@@ -1,6 +1,6 @@
 # SHOKI287
 
-SHOKI287 is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Smoke & Mirrors, Chicago on Fri, 13 Nov 2026.
+SHOKI287 is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Smoke & Mirrors, Chicago on Fri, 13 Nov 2026.
 
 SHOKI287 is a techno and trance artist based in Germany, with 116 gigs on soundcheck across Amsterdam, Antwerp, Athens and Augsburg and 36 more. Often billed alongside DJ Cringey, MCR-T and Justin Tinderdate. Next up: Smoke & Mirrors, Chicago on Fri 13 Nov.
 
@@ -30,4 +30,4 @@ SHOKI287 is a techno and trance artist based in Germany, with 116 gigs on soundc
 
 DJ Cringey, MCR-T, Justin Tinderdate
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shoki287/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shoki287/)*

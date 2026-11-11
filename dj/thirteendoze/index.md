@@ -1,6 +1,6 @@
 # THIRTEEN DOZE
 
-THIRTEEN DOZE is a House and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Skin Club, Madrid on Fri, 13 Nov 2026.
+THIRTEEN DOZE is a House and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Skin Club, Madrid on Fri, 13 Nov 2026.
 
 THIRTEEN DOZE is a house and experimental artist based in Spain, with 14 gigs on soundcheck across Bergen, Berlin and Madrid. Often billed alongside VCO, Alexy and Banu. Next up: Skin Club, Madrid on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ THIRTEEN DOZE is a house and experimental artist based in Spain, with 14 gigs on
 
 VCO, Alexy, Banu
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thirteendoze/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thirteendoze/)*

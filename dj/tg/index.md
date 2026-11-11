@@ -1,6 +1,6 @@
 # Tim Green
 
-Tim Green is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Cupra City Garage Manchester, Manchester on Sat, 14 Nov 2026.
+Tim Green is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Cupra City Garage Manchester, Manchester on Sat, 14 Nov 2026.
 
 Tim Green is a house and deep house artist based in United Kingdom, with 113 gigs on soundcheck across Amsterdam, Auckland, Bangkok and Barcelona and 34 more. Often billed alongside Lee Burridge, Sebastien Leger and Roy Rosenfeld. Next up: Cupra City Garage Manchester, Manchester on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Tim Green is a house and deep house artist based in United Kingdom, with 113 gig
 
 Lee Burridge, Sebastien Leger, Roy Rosenfeld
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tg/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tg/)*

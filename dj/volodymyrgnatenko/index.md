@@ -1,6 +1,6 @@
 # Volodymyr Gnatenko
 
-Volodymyr Gnatenko is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Bassiani, Tbilisi on Fri, 27 Nov 2026.
+Volodymyr Gnatenko is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Bassiani, Tbilisi on Fri, 27 Nov 2026.
 
 Volodymyr Gnatenko is a techno and trance artist based in Ukraine, with 32 gigs on soundcheck across Berlin, Frankfurt, Krakow and Lisbon and 12 more. Often billed alongside Shjva, stereometrix and Allius. Next up: Bassiani, Tbilisi on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Volodymyr Gnatenko is a techno and trance artist based in Ukraine, with 32 gigs 
 
 Shjva, stereometrix, Allius
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/volodymyrgnatenko/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/volodymyrgnatenko/)*

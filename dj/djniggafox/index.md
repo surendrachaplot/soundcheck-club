@@ -1,6 +1,6 @@
 # DJ Nigga Fox
 
-DJ Nigga Fox is a Kuduro and Club artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at control, Bucharest on Thu, 12 Nov 2026.
+DJ Nigga Fox is a Kuduro and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at control, Bucharest on Thu, 12 Nov 2026.
 
 DJ Nigga Fox is a kuduro and club artist based in Portugal, with 78 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 29 more. Often billed alongside Dj Danifox, DJ Firmeza and DJ Marfox. Next up: control, Bucharest on Thu 12 Nov.
 
@@ -26,4 +26,4 @@ DJ Nigga Fox is a kuduro and club artist based in Portugal, with 78 gigs on soun
 
 Dj Danifox, DJ Firmeza, DJ Marfox
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djniggafox/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djniggafox/)*

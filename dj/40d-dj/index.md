@@ -1,6 +1,6 @@
 # 40D (Dj)
 
-40D (Dj) is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Ministerium Club, Lisbon on Sat, 19 Dec 2026.
+40D (Dj) is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Ministerium Club, Lisbon on Sat, 19 Dec 2026.
 
 40D (Dj) is an afro house and house artist based in Mozambique, with 9 gigs on soundcheck across Lisbon, London and Porto. Often billed alongside Studio Bros, AfroKillerz and Boddhi Satva. Next up: Ministerium Club, Lisbon on Sat 19 Dec.
 
@@ -25,4 +25,4 @@
 
 Studio Bros, AfroKillerz, Boddhi Satva
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/40d-dj/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/40d-dj/)*

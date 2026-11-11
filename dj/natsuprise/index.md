@@ -1,14 +1,15 @@
 # Nat SuPrise
 
-Nat SuPrise is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at AMT, Berlin on Sat, 14 Nov 2026.
+Nat SuPrise is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at AMT, Berlin on Sat, 14 Nov 2026.
 
-Nat SuPrise is a techno and tech house artist based in Germany, with 89 gigs on soundcheck across Berlin. Often billed alongside Sika Akis, Kaminka Merel and Mijk van Dijk. Next up: AMT, Berlin on Sat 14 Nov.
+Nat SuPrise is a techno and house artist based in Germany, with 90 gigs on soundcheck across Berlin. Often billed alongside Sika Akis, Kaminka Merel and Mijk van Dijk. Next up: AMT, Berlin on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | AMT | Berlin |
+| Sat, 12 Dec 2026 | Beate Uwe | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Nat SuPrise is a techno and tech house artist based in Germany, with 89 gigs on 
 
 Sika Akis, Kaminka Merel, Mijk van Dijk
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/natsuprise/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/natsuprise/)*

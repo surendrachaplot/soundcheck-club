@@ -1,6 +1,6 @@
 # TIIA
 
-TIIA is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Off-Club, Belgium on Sat, 5 Dec 2026.
+TIIA is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Off-Club, Belgium on Sat, 5 Dec 2026.
 
 TIIA is a techno and electronica artist based in Belgium, with 7 gigs on soundcheck across Belgium, Brussels, Cardiff and Helsinki and 1 more. Often billed alongside PØZA, Cri du Coeur and Abul Mogard. Next up: Off-Club, Belgium on Sat 5 Dec.
 
@@ -23,4 +23,4 @@ TIIA is a techno and electronica artist based in Belgium, with 7 gigs on soundch
 
 PØZA, Cri du Coeur, Abul Mogard
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tiia/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tiia/)*

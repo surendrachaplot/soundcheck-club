@@ -1,6 +1,6 @@
 # LUIS MIRANDA
 
-LUIS MIRANDA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Specka, Madrid on Sat, 26 Dec 2026.
+LUIS MIRANDA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Specka, Madrid on Sat, 26 Dec 2026.
 
 LUIS MIRANDA is a techno and trance artist based in United States of America, with 17 gigs on soundcheck across Los Angeles, Madrid, Portland and San Diego and 2 more. Often billed alongside Behrad Tehrani, DJ Hyperactive and Drumcell. Next up: Specka, Madrid on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ LUIS MIRANDA is a techno and trance artist based in United States of America, wi
 
 Behrad Tehrani, DJ Hyperactive, Drumcell
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luismiranda/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luismiranda/)*

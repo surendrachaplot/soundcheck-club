@@ -1,6 +1,6 @@
 # JVINCENT
 
-JVINCENT is a Baile Funk and Club artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Zum Barbarossa, London on Wed, 11 Nov 2026.
+JVINCENT is a Baile Funk and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Zum Barbarossa, London on Wed, 11 Nov 2026.
 
 JVINCENT is a baile funk and club artist based in United Kingdom, with 36 gigs on soundcheck across Copenhagen, Hong Kong, London and Paris. Often billed alongside ZEE-2, HARUNA and Samo. Next up: Zum Barbarossa, London on Wed 11 Nov.
 
@@ -26,4 +26,4 @@ JVINCENT is a baile funk and club artist based in United Kingdom, with 36 gigs o
 
 ZEE-2, HARUNA (2), Samo
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jvincent/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jvincent/)*

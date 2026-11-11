@@ -1,6 +1,6 @@
 # The Velvet Room
 
-The Velvet Room is a music venue in Glasgow with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. The next is "Forever Young - The Velvet Room (Radio)" on Sat, 9 Jan 2027.
+The Velvet Room is a music venue in Glasgow with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "Forever Young - The Velvet Room (Radio)" on Sat, 9 Jan 2027.
 
 The Velvet Room is a music venue in Glasgow listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ The Velvet Room is a music venue in Glasgow listed on soundcheck. 1 upcoming gig
 | --- | --- | --- |
 | Sat, 9 Jan 2027 | Forever Young - The Velvet Room (Radio) |  |
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-velvet-room/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-velvet-room/)*

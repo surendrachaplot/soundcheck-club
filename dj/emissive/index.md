@@ -1,6 +1,6 @@
 # Emissive
 
-Emissive is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Mooi Space, Toronto on Fri, 18 Dec 2026.
+Emissive is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Mooi Space, Toronto on Fri, 18 Dec 2026.
 
 Emissive is a techno and house artist based in Canada, with 49 gigs on soundcheck across Montreal, New York City, Toronto and Vancouver. Often billed alongside sanjeet, Ciel and DJ D.Dee. Next up: Mooi Space, Toronto on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Emissive is a techno and house artist based in Canada, with 49 gigs on soundchec
 
 sanjeet, Ciel, DJ D.Dee
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emissive/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emissive/)*

@@ -1,6 +1,6 @@
 # Enshade
 
-Enshade is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Super5, Lyon on Thu, 19 Nov 2026.
+Enshade is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Super5, Lyon on Thu, 19 Nov 2026.
 
 Enshade is a techno and industrial artist based in France, with 12 gigs on soundcheck across Lyon. Often billed alongside Diapasøn, A.Silentio and AERAE. Next up: Super5, Lyon on Thu 19 Nov.
 
@@ -26,4 +26,4 @@ Enshade is a techno and industrial artist based in France, with 12 gigs on sound
 
 Diapasøn, A.Silentio, AERAE
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enshade/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enshade/)*

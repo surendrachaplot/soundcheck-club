@@ -1,6 +1,6 @@
 # Mokka Mitte Bar / James Simon Park
 
-Mokka Mitte Bar / James Simon Park is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "MokkaKlang - KlangKnospe - 20 - 4 Uhr  5€" on Fri, 13 Nov 2026.
+Mokka Mitte Bar / James Simon Park is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "MokkaKlang - KlangKnospe - 20 - 4 Uhr  5€" on Fri, 13 Nov 2026.
 
 Mokka Mitte Bar / James Simon Park is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including Callado, cell1, cravings320 and DJ NEAR MiNT and 2 more. See dates, start times and who's playing. Stadtbahnbogen 159/160, 10178 Berlin-Mitte, im James Simon Park.
 
@@ -17,4 +17,4 @@ Mokka Mitte Bar / James Simon Park is a music venue in Berlin listed on soundche
 
 Stadtbahnbogen 159/160, 10178 Berlin-Mitte, im James Simon Park, Berlin
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/mokka-mitte-bar-james-simon-park/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/mokka-mitte-bar-james-simon-park/)*

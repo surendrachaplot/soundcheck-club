@@ -1,6 +1,6 @@
 # Girls Don't Sync
 
-Girls Don't Sync is a Garage and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Village Underground, London on Sat, 5 Dec 2026.
+Girls Don't Sync is a Garage and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Village Underground, London on Sat, 5 Dec 2026.
 
 Girls Don't Sync is a garage and house artist based in United Kingdom, with 125 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Bali and 28 more. Often billed alongside Interplanetary Criminal, Sophia Violet and Eats Everything. Next up: Village Underground, London on Sat 5 Dec.
 
@@ -27,4 +27,4 @@ Girls Don't Sync is a garage and house artist based in United Kingdom, with 125 
 
 Interplanetary Criminal, Sophia Violet, Eats Everything
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/girlsdontsync/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/girlsdontsync/)*

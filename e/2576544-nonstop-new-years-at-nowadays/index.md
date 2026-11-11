@@ -14,7 +14,7 @@ Nonstop New Years at Nowadays on Thu 31 Dec, New York City. 23 artists: Baronhaw
 - Ben UFO
 - CCL
 - CEM
-- Cosmo
+- Cosmo (NY)
 - Daniele Baldelli
 - deep creep
 - Eamon Harkin

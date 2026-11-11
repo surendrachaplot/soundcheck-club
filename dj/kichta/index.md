@@ -1,8 +1,8 @@
 # Kichta
 
-Kichta is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at The Cause, London on Fri, 20 Nov 2026.
+Kichta is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Cause, London on Fri, 20 Nov 2026.
 
-Kichta is a techno and trance artist based in France, with 57 gigs on soundcheck across Amsterdam, Berlin, Brussels and Cologne and 14 more. Often billed alongside Amøn, DURDENHAUER and Eskha. Next up: The Cause, London on Fri 20 Nov.
+Kichta is a techno and trance artist based in France, with 58 gigs on soundcheck across Amsterdam, Berlin, Brussels and Cologne and 14 more. Often billed alongside Amøn, DURDENHAUER and Eskha. Next up: The Cause, London on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Kichta is a techno and trance artist based in France, with 57 gigs on soundcheck
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | The Cause | London |
 | Fri, 4 Dec 2026 | Warehouse | Nantes |
+| Thu, 31 Dec 2026 | CCO La Rayonne | Lyon |
 | Sat, 7 Aug 2027 | Lokschuppen Berlin | Berlin |
 
 ## Recently played
@@ -27,4 +28,4 @@ Kichta is a techno and trance artist based in France, with 57 gigs on soundcheck
 
 Amøn, DURDENHAUER, Eskha
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kichta/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kichta/)*

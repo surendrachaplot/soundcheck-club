@@ -1,6 +1,6 @@
 # Marboc
 
-Marboc is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Gdynia, Gdansk on Fri, 13 Nov 2026.
+Marboc is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Gdynia, Gdansk on Fri, 13 Nov 2026.
 
 Marboc is a techno and dub techno artist based in Poland, with 13 gigs on soundcheck across Gdansk, Krakow, Poland and Warsaw and 1 more. Often billed alongside Sabre (PL), Sickdat and Subcode. Next up: TBA - Gdynia, Gdansk on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Marboc is a techno and dub techno artist based in Poland, with 13 gigs on soundc
 
 Sabre (PL), Sickdat, Subcode
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marboc/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marboc/)*

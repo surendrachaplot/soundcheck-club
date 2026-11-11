@@ -1,6 +1,6 @@
 # Folklor
 
-Folklor is a music venue in Lausanne with 10 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "The Studio /// Kanova - PHIL HUNGER" on Thu, 12 Nov 2026.
+Folklor is a music venue in Lausanne with 10 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "The Studio /// Kanova - PHIL HUNGER" on Thu, 12 Nov 2026.
 
 Folklor is a music venue in Lausanne listed on soundcheck. 10 upcoming gigs, with line-ups including 2M, Adolpho & Franky, Alex Wann and Cinthie and 2 more. See dates, start times and who's playing. Place de la Riponne 10, 1005 Lausanne.
 
@@ -23,4 +23,4 @@ Folklor is a music venue in Lausanne listed on soundcheck. 10 upcoming gigs, wit
 
 Place de la Riponne 10, 1005 Lausanne, Lausanne
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/lausanne/club/folklor/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/lausanne/club/folklor/)*

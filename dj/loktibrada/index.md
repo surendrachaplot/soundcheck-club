@@ -1,6 +1,6 @@
 # Loktibrada
 
-Loktibrada is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at RSO.BERLIN, Berlin on Sat, 5 Dec 2026.
+Loktibrada is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at RSO.BERLIN, Berlin on Sat, 5 Dec 2026.
 
 Loktibrada is a techno and house artist based in Slovakia, with 47 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 3 more. Often billed alongside Takaaki Itoh, DJ Boss and MIKLEI. Next up: RSO.BERLIN, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Loktibrada is a techno and house artist based in Slovakia, with 47 gigs on sound
 
 Takaaki Itoh, DJ Boss, MIKLEI
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loktibrada/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loktibrada/)*

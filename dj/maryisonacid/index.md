@@ -1,6 +1,6 @@
 # Maryisonacid
 
-Maryisonacid is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at MIDNIGHT EAST, Tokyo on Fri, 20 Nov 2026.
+Maryisonacid is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at MIDNIGHT EAST, Tokyo on Fri, 20 Nov 2026.
 
 Maryisonacid is a techno and house artist, with 73 gigs on soundcheck across Berlin, Istanbul, Kanto and Leipzig and 3 more. Often billed alongside Dauwd, African Acid is the Future and Camilla Rae. Next up: MIDNIGHT EAST, Tokyo on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ Maryisonacid is a techno and house artist, with 73 gigs on soundcheck across Ber
 
 Dauwd, African Acid is the Future, Camilla Rae
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maryisonacid/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maryisonacid/)*

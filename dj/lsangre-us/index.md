@@ -1,6 +1,6 @@
 # L.Sangre
 
-L.Sangre is a Industrial and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Shinjuku Loft, Tokyo on Sat, 21 Nov 2026.
+L.Sangre is a Industrial and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Shinjuku Loft, Tokyo on Sat, 21 Nov 2026.
 
 L.Sangre is an industrial and minimal artist based in United States of America, with 30 gigs on soundcheck across Montreal, New York City and Tokyo. Often billed alongside Heidi Sabertooth, R Gamble and Xeno & Oaklander. Next up: Shinjuku Loft, Tokyo on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ L.Sangre is an industrial and minimal artist based in United States of America, 
 
 Heidi Sabertooth, R Gamble, Xeno & Oaklander
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lsangre-us/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lsangre-us/)*

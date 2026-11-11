@@ -1,6 +1,6 @@
 # Boozilla Event Space
 
-Boozilla Event Space is a music venue in Detroit with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. The next is "[CANCELLED] Music 4 Your Soul feat. N Da Pock3t Band & Friends" on Fri, 20 Nov 2026.
+Boozilla Event Space is a music venue in Detroit with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "[CANCELLED] Music 4 Your Soul feat. N Da Pock3t Band & Friends" on Fri, 20 Nov 2026.
 
 Boozilla Event Space is a music venue in Detroit listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Boozilla Event Space is a music venue in Detroit listed on soundcheck. 1 upcomin
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | [CANCELLED] Music 4 Your Soul feat. N Da Pock3t Band & Friends |  |
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/boozilla-event-space/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/boozilla-event-space/)*

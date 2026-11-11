@@ -1,6 +1,6 @@
 # Sonorama
 
-Sonorama is a music venue in Medellin with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Sonorama Pres / Juli Monsalve BIRTHDAY" on Fri, 13 Nov 2026.
+Sonorama is a music venue in Medellin with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Sonorama Pres / Juli Monsalve BIRTHDAY" on Fri, 13 Nov 2026.
 
 Sonorama is a music venue in Medellin listed on soundcheck. 5 upcoming gigs, with line-ups including BASS SIDE, Bettels, Ciclo and Insolent and 2 more. See dates, start times and who's playing. Carrera 37 #10 - 37.
 
@@ -18,4 +18,4 @@ Sonorama is a music venue in Medellin listed on soundcheck. 5 upcoming gigs, wit
 
 Carrera 37 #10 - 37, Medellin
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/medellin/club/sonorama/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/medellin/club/sonorama/)*

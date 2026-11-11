@@ -1,6 +1,6 @@
 # dithering
 
-dithering is a Hardcore and Downtempo artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at renae, Manchester on Sun, 15 Nov 2026.
+dithering is a Hardcore and Downtempo artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at renae, Manchester on Sun, 15 Nov 2026.
 
 dithering is a hardcore and downtempo artist based in United Kingdom, with 12 gigs on soundcheck across Manchester. Often billed alongside EJ Woodall, Nusheen and Semi Peppered. Next up: renae, Manchester on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ dithering is a hardcore and downtempo artist based in United Kingdom, with 12 gi
 
 EJ Woodall, Nusheen, Semi Peppered
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dithering/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dithering/)*

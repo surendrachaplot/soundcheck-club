@@ -1,6 +1,6 @@
 # Alima Lee
 
-Alima Lee is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Nowadays, New York City on Thu, 12 Nov 2026.
+Alima Lee is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Nowadays, New York City on Thu, 12 Nov 2026.
 
 Alima Lee is a techno and club artist based in United States of America, with 37 gigs on soundcheck across Los Angeles, New York City and Paris. Often billed alongside Bapari, Shane Thomas and Kilbourne. Next up: Nowadays, New York City on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Alima Lee is a techno and club artist based in United States of America, with 37
 
 Bapari, Shane Thomas, Kilbourne
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alimalee/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alimalee/)*

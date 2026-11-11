@@ -1,6 +1,6 @@
 # Basement Jaxx
 
-Basement Jaxx is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at OVO Arena Wembley, London on Thu, 31 Dec 2026.
+Basement Jaxx is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at OVO Arena Wembley, London on Thu, 31 Dec 2026.
 
 Basement Jaxx is a house and disco artist based in United Kingdom, with 43 gigs on soundcheck across Adelaide, Auckland, Austria and Barcelona and 15 more. Often billed alongside Jayda G, Melvo Baptiste and Roger Sanchez. Next up: OVO Arena Wembley, London on Thu 31 Dec.
 
@@ -26,4 +26,4 @@ Basement Jaxx is a house and disco artist based in United Kingdom, with 43 gigs 
 
 Jayda G, Melvo Baptiste, Roger Sanchez
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/basementjaxx/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/basementjaxx/)*

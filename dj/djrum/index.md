@@ -1,6 +1,6 @@
 # DjRUM
 
-DjRUM is a Techno and Bass artist with 7 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Kanal Centre Pompidou, Brussels on Sat, 28 Nov 2026.
+DjRUM is a Techno and Bass artist with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Kanal Centre Pompidou, Brussels on Sat, 28 Nov 2026.
 
 DjRUM is a techno and bass artist based in United Kingdom, with 152 gigs on soundcheck across Amsterdam, Austria, Barcelona and Berlin and 53 more. Often billed alongside Skee Mask, Mia Koden and Kia (AU). Next up: Kanal Centre Pompidou, Brussels on Sat 28 Nov.
 
@@ -31,4 +31,4 @@ DjRUM is a techno and bass artist based in United Kingdom, with 152 gigs on soun
 
 Skee Mask, Mia Koden, Kia (AU)
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djrum/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djrum/)*

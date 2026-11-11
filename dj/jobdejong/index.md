@@ -1,6 +1,6 @@
 # Job de Jong
 
-Job de Jong is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Lab11, Birmingham on Sat, 14 Nov 2026.
+Job de Jong is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Lab11, Birmingham on Sat, 14 Nov 2026.
 
 Job de Jong is a house and tech house artist based in Netherlands, with 181 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Barcelona and 27 more. Often billed alongside Dennis Quin, Prunk and M-High. Next up: Lab11, Birmingham on Sat 14 Nov.
 
@@ -34,4 +34,4 @@ Job de Jong is a house and tech house artist based in Netherlands, with 181 gigs
 
 Dennis Quin, Prunk, M-High
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jobdejong/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jobdejong/)*

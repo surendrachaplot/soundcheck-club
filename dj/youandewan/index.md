@@ -1,6 +1,6 @@
 # Youandewan
 
-Youandewan is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at OXI, Berlin on Fri, 13 Nov 2026.
+Youandewan is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at OXI, Berlin on Fri, 13 Nov 2026.
 
 Youandewan is a house and minimal artist based in Germany, with 125 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Auckland and 41 more. Often billed alongside Huerta, Liquid Earth and Truly Madly. Next up: OXI, Berlin on Fri 13 Nov.
 
@@ -28,4 +28,4 @@ Youandewan is a house and minimal artist based in Germany, with 125 gigs on soun
 
 Huerta, Liquid Earth, Truly Madly
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/youandewan/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/youandewan/)*

@@ -1,6 +1,6 @@
 # Studio dB
 
-Studio dB is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Glowism" on Fri, 13 Nov 2026.
+Studio dB is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Glowism" on Fri, 13 Nov 2026.
 
 Studio dB is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with line-ups including AGUSTIN BARBEI, Bungalovv, Gabs Leyton and Hollis P. Monroe and 2 more. See dates, start times and who's playing. Studio dB - Uferstrasse 8-11, Studio A14 - 13357 Berlin.
 
@@ -18,4 +18,4 @@ Studio dB is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with
 
 Studio dB - Uferstrasse 8-11, Studio A14 - 13357 Berlin, Berlin
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/studio-db/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/studio-db/)*

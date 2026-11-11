@@ -1,6 +1,6 @@
 # CONG
 
-CONG is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Unmute, Hanoi on Sat, 21 Nov 2026.
+CONG is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Unmute, Hanoi on Sat, 21 Nov 2026.
 
 CONG is a techno and house artist based in Vietnam, with 97 gigs on soundcheck across Bangkok, Berlin, Hanoi and Ho Chi Minh City and 2 more. Often billed alongside Di Linh, Zwi and TaoFu. Next up: Unmute, Hanoi on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ CONG is a techno and house artist based in Vietnam, with 97 gigs on soundcheck a
 
 Di Linh, Zwi, TaoFu
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cong/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cong/)*

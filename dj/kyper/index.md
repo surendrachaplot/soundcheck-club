@@ -1,6 +1,6 @@
 # Kyper
 
-Kyper is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at WOMB, Tokyo on Wed, 25 Nov 2026.
+Kyper is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at WOMB, Tokyo on Wed, 25 Nov 2026.
 
 Kyper is a techno and house artist based in South Korea, with 107 gigs on soundcheck across Hanoi, Seoul and Tokyo. Often billed alongside Hyerang, Boyoon and Juncheol. Next up: WOMB, Tokyo on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ Kyper is a techno and house artist based in South Korea, with 107 gigs on soundc
 
 Hyerang, Boyoon, Juncheol
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kyper/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kyper/)*

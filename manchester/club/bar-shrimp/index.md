@@ -1,6 +1,6 @@
 # Bar Shrimp
 
-Bar Shrimp is a music venue in Manchester with 10 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Bar Shrimp: Andrew Devine" on Thu, 12 Nov 2026.
+Bar Shrimp is a music venue in Manchester with 10 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Bar Shrimp: Andrew Devine" on Thu, 12 Nov 2026.
 
 Bar Shrimp is a music venue in Manchester listed on soundcheck. 10 upcoming gigs, with line-ups including Allius, Andrew Devine, doodle DJs and Elleinad and 2 more. See dates, start times and who's playing. 7 New York Street, Manchester, M1 4JB.
 
@@ -23,4 +23,4 @@ Bar Shrimp is a music venue in Manchester listed on soundcheck. 10 upcoming gigs
 
 7 New York Street, Manchester, M1 4JB, Manchester
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/bar-shrimp/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/bar-shrimp/)*

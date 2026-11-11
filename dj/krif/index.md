@@ -1,6 +1,6 @@
 # krif
 
-krif is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Starlane Pizza Bar, London on Sat, 12 Dec 2026.
+krif is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Starlane Pizza Bar, London on Sat, 12 Dec 2026.
 
 krif is a house and minimal artist based in France, with 21 gigs on soundcheck across Barcelona, Berlin, London and Lyon. Often billed alongside Tarek Charbonnier, t.na and Darush. Next up: Starlane Pizza Bar, London on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ krif is a house and minimal artist based in France, with 21 gigs on soundcheck a
 
 Tarek Charbonnier, t.na, Darush
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krif/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krif/)*

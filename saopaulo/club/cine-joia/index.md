@@ -1,6 +1,6 @@
 # Cine Joia
 
-Cine Joia is a music venue in Sao Paulo with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. The next is "Marina Lima - Aniversário De 15 Anos Do Cine Joia" on Wed, 11 Nov 2026.
+Cine Joia is a music venue in Sao Paulo with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "Marina Lima - Aniversário De 15 Anos Do Cine Joia" on Wed, 11 Nov 2026.
 
 Cine Joia is a music venue in Sao Paulo listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Cine Joia is a music venue in Sao Paulo listed on soundcheck. 1 upcoming gig. Se
 | --- | --- | --- |
 | Wed, 11 Nov 2026 | Marina Lima - Aniversário De 15 Anos Do Cine Joia |  |
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/cine-joia/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/cine-joia/)*

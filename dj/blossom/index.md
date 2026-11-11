@@ -1,6 +1,6 @@
 # Blossom
 
-Blossom is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Central Florida Fairgrounds, Florida on Fri, 23 Apr 2027.
+Blossom is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Central Florida Fairgrounds, Florida on Fri, 23 Apr 2027.
 
 Blossom is a bass and drum & bass artist based in United States of America, with 14 gigs on soundcheck across Athens, Atlanta, Bogotá and Edmonton and 7 more. Often billed alongside A Hundred Drums, AG (NYC) and Alesso. Next up: Central Florida Fairgrounds, Florida on Fri 23 Apr.
 
@@ -25,4 +25,4 @@ Blossom is a bass and drum & bass artist based in United States of America, with
 
 A Hundred Drums, AG (NYC), Alesso
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blossom/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blossom/)*

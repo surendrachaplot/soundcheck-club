@@ -1,6 +1,6 @@
 # Mirmur
 
-Mirmur is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Kassa Boat, Budapest on Fri, 20 Nov 2026.
+Mirmur is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Kassa Boat, Budapest on Fri, 20 Nov 2026.
 
 Mirmur is a house and techno artist based in Hungary, with 68 gigs on soundcheck across Budapest and Milan. Often billed alongside Katamii, Adis Is OK and Daniel Santiago. Next up: Kassa Boat, Budapest on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Mirmur is a house and techno artist based in Hungary, with 68 gigs on soundcheck
 
 Katamii, Adis Is OK, Daniel Santiago
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mirmur/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mirmur/)*

@@ -1,6 +1,6 @@
 # DJ WETPANTS
 
-DJ WETPANTS is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA, Berlin on Sat, 28 Nov 2026.
+DJ WETPANTS is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA, Berlin on Sat, 28 Nov 2026.
 
 DJ WETPANTS is a house and tech house artist based in Switzerland, with 5 gigs on soundcheck across Berlin. Often billed alongside Full Multi, System 42 and 50PHIE. Next up: TBA, Berlin on Sat 28 Nov.
 
@@ -21,4 +21,4 @@ DJ WETPANTS is a house and tech house artist based in Switzerland, with 5 gigs o
 
 Full Multi, System 42, 50PHIE
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djwetpants/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djwetpants/)*

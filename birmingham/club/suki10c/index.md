@@ -1,6 +1,6 @@
 # Suki10c
 
-Suki10c is a music venue in Birmingham with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "MODUL8 x  Helen Frey - 100% Techno 0% Compromise" on Sat, 14 Nov 2026.
+Suki10c is a music venue in Birmingham with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "MODUL8 x  Helen Frey - 100% Techno 0% Compromise" on Sat, 14 Nov 2026.
 
 Suki10c is a music venue in Birmingham listed on soundcheck. 2 upcoming gigs, with line-ups including BoDo, Maxou and The Dark Arch (T.D.A). See dates, start times and who's playing. 21 Bordesley Street Birmingham, B5 5PJ, United Kingdom.
 
@@ -15,4 +15,4 @@ Suki10c is a music venue in Birmingham listed on soundcheck. 2 upcoming gigs, wi
 
 21 Bordesley Street Birmingham, B5 5PJ, United Kingdom, Birmingham
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/suki10c/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/suki10c/)*

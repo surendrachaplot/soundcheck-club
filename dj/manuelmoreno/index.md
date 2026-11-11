@@ -1,6 +1,6 @@
 # Manuel Moreno
 
-Manuel Moreno is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Hive Club, Zurich on Sat, 14 Nov 2026.
+Manuel Moreno is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Hive Club, Zurich on Sat, 14 Nov 2026.
 
 Manuel Moreno is a house and deep house artist based in Switzerland, with 22 gigs on soundcheck across Amsterdam, Basel, Berlin and Zurich. Often billed alongside Caromelle, AANN and Felix E. Next up: Hive Club, Zurich on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Manuel Moreno is a house and deep house artist based in Switzerland, with 22 gig
 
 Caromelle, AANN, Felix E
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manuelmoreno/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manuelmoreno/)*

@@ -1,6 +1,6 @@
 # MRCL
 
-MRCL is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Tanzhaus West, Frankfurt on Sat, 21 Nov 2026.
+MRCL is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Tanzhaus West, Frankfurt on Sat, 21 Nov 2026.
 
 MRCL is a techno and trance artist based in Germany, with 10 gigs on soundcheck across Aberdeen, Amsterdam and Frankfurt. Often billed alongside Justin Hahn, CiKi and Formale Bassgestaltung. Next up: Tanzhaus West, Frankfurt on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ MRCL is a techno and trance artist based in Germany, with 10 gigs on soundcheck 
 
 Justin Hahn, CiKi, Formale Bassgestaltung
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mrcl/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mrcl/)*

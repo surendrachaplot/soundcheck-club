@@ -1,6 +1,6 @@
 # J-DEK
 
-J-DEK is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at WDM, Hannover on Fri, 11 Dec 2026.
+J-DEK is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at WDM, Hannover on Fri, 11 Dec 2026.
 
 J-DEK is a techno and house artist based in Germany, with 44 gigs on soundcheck across Berlin, Hamburg, Hannover and Leipzig. Often billed alongside dxrvo, Brandyy and Lenn Reich. Next up: WDM, Hannover on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ J-DEK is a techno and house artist based in Germany, with 44 gigs on soundcheck 
 
 dxrvo, Brandyy, Lenn Reich
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/j-dek/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/j-dek/)*

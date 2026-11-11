@@ -1,6 +1,6 @@
 # Outernet Live
 
-Outernet Live is a music venue in London with 12 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "The History of Jungle" on Sat, 14 Nov 2026.
+Outernet Live is a music venue in London with 12 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "The History of Jungle" on Sat, 14 Nov 2026.
 
 Outernet Live is a music venue in London listed on soundcheck. 12 upcoming gigs, with line-ups including AALIYAH, AJNA, ALISHA and Bad Behli and 2 more. See dates, start times and who's playing. Denmark Street, London WC2H.
 
@@ -23,4 +23,4 @@ Outernet Live is a music venue in London listed on soundcheck. 12 upcoming gigs,
 
 Denmark Street, London WC2H, London
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/outernet-live/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/outernet-live/)*

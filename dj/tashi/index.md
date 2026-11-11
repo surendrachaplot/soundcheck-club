@@ -1,6 +1,6 @@
 # TASHI
 
-TASHI is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Hakkabar 院吧, Chengdu on Sun, 15 Nov 2026.
+TASHI is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Hakkabar 院吧, Chengdu on Sun, 15 Nov 2026.
 
 TASHI is a techno and house artist based in Canada, with 26 gigs on soundcheck across Budapest, Chengdu, Osaka and Vancouver. Often billed alongside Joel Armstrong, Behrad Tehrani and Fisher Bryce. Next up: Hakkabar 院吧, Chengdu on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ TASHI is a techno and house artist based in Canada, with 26 gigs on soundcheck a
 
 Joel Armstrong, Behrad Tehrani, Fisher Bryce
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tashi/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tashi/)*

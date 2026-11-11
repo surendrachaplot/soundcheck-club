@@ -1,6 +1,6 @@
 # Beauty Bar
 
-Beauty Bar is a music venue in San Francisco/Oakland with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. The next is "THE CUT UP & PSYCHED RADIO PRESENT: BOUNCE ON IT" on Sat, 14 Nov 2026.
+Beauty Bar is a music venue in San Francisco/Oakland with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "THE CUT UP & PSYCHED RADIO PRESENT: BOUNCE ON IT" on Sat, 14 Nov 2026.
 
 Beauty Bar is a music venue in San Francisco/Oakland listed on soundcheck. 1 upcoming gig, with line-ups including @djlobottomy, Martyr Princess and PALE YELLOW. See dates, start times and who's playing. 2299 Mission St, San Francisco, CA 94110, United States.
 
@@ -14,4 +14,4 @@ Beauty Bar is a music venue in San Francisco/Oakland listed on soundcheck. 1 upc
 
 2299 Mission St, San Francisco, CA 94110, United States, San Francisco/Oakland
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/beauty-bar/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/beauty-bar/)*

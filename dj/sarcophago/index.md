@@ -1,6 +1,6 @@
 # Sarcophago
 
-Sarcophago is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Skin Club, Madrid on Sun, 22 Nov 2026.
+Sarcophago is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Skin Club, Madrid on Sun, 22 Nov 2026.
 
 Sarcophago is a tech house and techno artist based in Peru, with 42 gigs on soundcheck across Madrid. Often billed alongside Kamboya, Reitze and WIZE. Next up: Skin Club, Madrid on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ Sarcophago is a tech house and techno artist based in Peru, with 42 gigs on soun
 
 Kamboya, Reitze, WIZE
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sarcophago/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sarcophago/)*

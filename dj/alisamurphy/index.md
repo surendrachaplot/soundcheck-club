@@ -1,6 +1,6 @@
 # Alisa Murphy
 
-Alisa Murphy is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at B side Athens, Athens on Sun, 29 Nov 2026.
+Alisa Murphy is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at B side Athens, Athens on Sun, 29 Nov 2026.
 
 Alisa Murphy is a techno and acid artist based in Greece, with 52 gigs on soundcheck across Athens, London, Sofia and Tbilisi and 1 more. Often billed alongside Imperium, Pelany and EMPERØR. Next up: B side Athens, Athens on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Alisa Murphy is a techno and acid artist based in Greece, with 52 gigs on soundc
 
 Imperium, Pelany, EMPERØR
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alisamurphy/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alisamurphy/)*

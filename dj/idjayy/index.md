@@ -1,6 +1,6 @@
 # IDJayy
 
-IDJayy is a Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Astoria, Turin on Sat, 14 Nov 2026.
+IDJayy is a Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Astoria, Turin on Sat, 14 Nov 2026.
 
 IDJayy is a bass and breakbeat artist based in Italy, with 9 gigs on soundcheck across Turin. Often billed alongside AG999, AMRED and Furbo. Next up: Astoria, Turin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ IDJayy is a bass and breakbeat artist based in Italy, with 9 gigs on soundcheck 
 
 AG999, AMRED, Furbo
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/idjayy/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/idjayy/)*

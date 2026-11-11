@@ -1,18 +1,18 @@
 # Laila Amira
 
-Laila Amira is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at La Patate Douce Bar & Radio, Paris on Tue, 10 Nov 2026.
+Laila Amira is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Djoon, Paris on Fri, 27 Nov 2026.
 
-Laila Amira is a house and disco artist based in United States of America, with 61 gigs on soundcheck across Montreal, New York City and Paris. Often billed alongside Tim Lucent, Lady Harley and Yambow. Next up: La Patate Douce Bar & Radio, Paris on Tue 10 Nov.
+Laila Amira is a house and disco artist based in United States of America, with 61 gigs on soundcheck across Montreal, New York City and Paris. Often billed alongside Tim Lucent, Lady Harley and Yambow. Next up: Djoon, Paris on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 10 Nov 2026 | La Patate Douce Bar & Radio | Paris |
 | Fri, 27 Nov 2026 | Djoon | Paris |
 
 ## Recently played
 
+- La Patate Douce Bar & Radio, Paris · Tue, 10 Nov 2026
 - Good Room, New York City · Sat, 3 Oct 2026
 - Elsewhere, New York City · Sat, 26 Sept 2026
 - House of Yes, New York City · Sat, 26 Sept 2026
@@ -20,10 +20,9 @@ Laila Amira is a house and disco artist based in United States of America, with 
 - Friends & Lovers, New York City · Fri, 11 Sept 2026
 - LoHi, New York City · Sat, 5 Sept 2026
 - Outer Heaven, New York City · Thu, 20 Aug 2026
-- Museum of Sex - NYC, New York City · Fri, 24 Jul 2026
 
 ## Shares bills with
 
 Tim Lucent, Lady Harley, Yambow
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lailaamira/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lailaamira/)*

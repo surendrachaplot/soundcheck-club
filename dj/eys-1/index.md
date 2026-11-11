@@ -1,6 +1,6 @@
 # Eys (1)
 
-Eys (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Malaga Sin City, Milan on Fri, 13 Nov 2026.
+Eys (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Malaga Sin City, Milan on Fri, 13 Nov 2026.
 
 Eys is a techno and house artist based in Italy, with 6 gigs on soundcheck across Barcelona, London and Milan. Often billed alongside Althoff, ERRANT and Eleonora Cairati. Next up: Malaga Sin City, Milan on Fri 13 Nov.
 
@@ -22,4 +22,4 @@ Eys is a techno and house artist based in Italy, with 6 gigs on soundcheck acros
 
 Althoff, ERRANT, Eleonora Cairati
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eys-1/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eys-1/)*

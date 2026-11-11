@@ -1,6 +1,6 @@
 # Mat Zo
 
-Mat Zo is a Progressive House and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Armature Works Riverfront, Florida on Fri, 11 Dec 2026.
+Mat Zo is a Progressive House and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Armature Works Riverfront, Florida on Fri, 11 Dec 2026.
 
 Mat Zo is a progressive house and trance artist based in United Kingdom, with 33 gigs on soundcheck across Austin, Bangkok, Bristol and Chicago and 13 more. Often billed alongside Leena Punks, Amy Wiles and Oliver Smith. Next up: Armature Works Riverfront, Florida on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Mat Zo is a progressive house and trance artist based in United Kingdom, with 33
 
 Leena Punks, Amy Wiles, Oliver Smith
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matzo/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matzo/)*

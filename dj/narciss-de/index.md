@@ -1,6 +1,6 @@
 # Narciss
 
-Narciss is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Eagle Ridge Event Park, Tallarook, Victoria on Fri, 26 Mar 2027.
+Narciss is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Eagle Ridge Event Park, Tallarook, Victoria on Fri, 26 Mar 2027.
 
 Narciss is a techno and house artist based in Germany, with 230 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 67 more. Often billed alongside Morphena, DJ Gigola and MALUGI. Next up: TBA - Eagle Ridge Event Park, Tallarook, Victoria on Fri 26 Mar.
 
@@ -25,4 +25,4 @@ Narciss is a techno and house artist based in Germany, with 230 gigs on soundche
 
 Morphena, DJ Gigola, MALUGI
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/narciss-de/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/narciss-de/)*

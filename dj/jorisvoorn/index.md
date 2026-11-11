@@ -1,6 +1,6 @@
 # Joris Voorn
 
-Joris Voorn is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at LAB theCLUB, Madrid on Fri, 13 Nov 2026.
+Joris Voorn is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at LAB theCLUB, Madrid on Fri, 13 Nov 2026.
 
 Joris Voorn is a techno and house artist based in Netherlands, with 210 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 63 more. Often billed alongside Artbat, Kevin de Vries and Adam Beyer. Next up: LAB theCLUB, Madrid on Fri 13 Nov.
 
@@ -31,4 +31,4 @@ Joris Voorn is a techno and house artist based in Netherlands, with 210 gigs on 
 
 Artbat, Kevin de Vries, Adam Beyer
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jorisvoorn/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jorisvoorn/)*

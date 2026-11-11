@@ -1,6 +1,6 @@
 # Nicolas Masseyeff
 
-Nicolas Masseyeff is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Café del Mar Phuket, Thailand on Wed, 13 Jan 2027.
+Nicolas Masseyeff is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Café del Mar Phuket, Thailand on Wed, 13 Jan 2027.
 
 Nicolas Masseyeff is a tech house and house artist based in France, with 16 gigs on soundcheck across Amsterdam, Frankfurt, Geneva and Ibiza and 6 more. Often billed alongside Oxia, Luna Semara and Stephan Bodzin. Next up: Café del Mar Phuket, Thailand on Wed 13 Jan.
 
@@ -25,4 +25,4 @@ Nicolas Masseyeff is a tech house and house artist based in France, with 16 gigs
 
 Oxia, Luna Semara, Stephan Bodzin
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolasmasseyeff/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolasmasseyeff/)*

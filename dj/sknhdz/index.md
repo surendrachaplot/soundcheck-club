@@ -1,6 +1,6 @@
 # SKNHDZ
 
-SKNHDZ is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Aoyama Tunnel, Tokyo on Wed, 11 Nov 2026.
+SKNHDZ is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Aoyama Tunnel, Tokyo on Wed, 11 Nov 2026.
 
 SKNHDZ is a house and techno artist based in Japan, with 46 gigs on soundcheck across Tokyo. Often billed alongside DJ246, KZA and CALPISS. Next up: Aoyama Tunnel, Tokyo on Wed 11 Nov.
 
@@ -25,4 +25,4 @@ SKNHDZ is a house and techno artist based in Japan, with 46 gigs on soundcheck a
 
 DJ246, KZA, CALPISS
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sknhdz/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sknhdz/)*

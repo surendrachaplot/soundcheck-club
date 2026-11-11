@@ -1,6 +1,6 @@
 # GEO LINN
 
-GEO LINN is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at CHICO, Mexico City on Sat, 14 Nov 2026.
+GEO LINN is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at CHICO, Mexico City on Sat, 14 Nov 2026.
 
 GEO LINN is a techno and trance artist based in Mexico, with 11 gigs on soundcheck across Mexico City. Often billed alongside ARIS (MX), Dig-it and Fixon. Next up: CHICO, Mexico City on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ GEO LINN is a techno and trance artist based in Mexico, with 11 gigs on soundche
 
 ARIS (MX), Dig-it, Fixon
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/geolinn/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/geolinn/)*

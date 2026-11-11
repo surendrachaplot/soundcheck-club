@@ -1,6 +1,6 @@
 # Ritek
 
-Ritek is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Aiiro Cafe, Tokyo on Fri, 11 Dec 2026.
+Ritek is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Aiiro Cafe, Tokyo on Fri, 11 Dec 2026.
 
 Ritek is a house and tech house artist based in Japan, with 13 gigs on soundcheck across Tokyo. Often billed alongside Issyo, Echigo and Howard. Next up: Aiiro Cafe, Tokyo on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Ritek is a house and tech house artist based in Japan, with 13 gigs on soundchec
 
 Issyo, Echigo, Howard
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ritek/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ritek/)*

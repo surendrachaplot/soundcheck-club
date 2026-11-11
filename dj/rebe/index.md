@@ -1,6 +1,6 @@
 # REBE
 
-REBE is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Reactor Shanghai, Shanghai on Sat, 21 Nov 2026.
+REBE is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Reactor Shanghai, Shanghai on Sat, 21 Nov 2026.
 
 REBE is a club and bass artist based in Greece, with 32 gigs on soundcheck across Athens, Barcelona, Berlin and Copenhagen and 3 more. Often billed alongside Dmitra, griefeater and Taylor Cherry. Next up: Reactor Shanghai, Shanghai on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ REBE is a club and bass artist based in Greece, with 32 gigs on soundcheck acros
 
 Dmitra, griefeater, Taylor Cherry
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rebe/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rebe/)*

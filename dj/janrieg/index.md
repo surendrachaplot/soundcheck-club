@@ -1,14 +1,15 @@
 # JAN RIEG
 
-JAN RIEG is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Pimpernel, Munich on Wed, 11 Nov 2026.
+JAN RIEG is a Electro and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Pimpernel, Munich on Wed, 11 Nov 2026.
 
-JAN RIEG is an electro and house artist based in Germany, with 22 gigs on soundcheck across Munich. Often billed alongside Roberto Sotgia, Shahrokh and Sonson. Next up: Pimpernel, Munich on Wed 11 Nov.
+JAN RIEG is an electro and house artist based in Germany, with 23 gigs on soundcheck across Munich. Often billed alongside Roberto Sotgia, Shahrokh and Sonson. Next up: Pimpernel, Munich on Wed 11 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 11 Nov 2026 | Pimpernel | Munich |
+| Wed, 25 Nov 2026 | Pimpernel | Munich |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ JAN RIEG is an electro and house artist based in Germany, with 22 gigs on soundc
 
 Roberto Sotgia, Shahrokh, Sonson
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janrieg/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janrieg/)*

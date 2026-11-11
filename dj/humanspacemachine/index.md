@@ -1,6 +1,6 @@
 # Human Space Machine
 
-Human Space Machine is a Techno and Dub Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at public records, New York City on Mon, 9 Nov 2026.
+Human Space Machine is a Techno and Dub Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at public records, New York City on Mon, 9 Nov 2026.
 
 Human Space Machine is a techno and dub techno artist based in Netherlands, with 57 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 13 more. Often billed alongside Eversines, Cobahn and Kaap. Next up: public records, New York City on Mon 9 Nov.
 
@@ -28,4 +28,4 @@ Human Space Machine is a techno and dub techno artist based in Netherlands, with
 
 Eversines, Cobahn, Kaap
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/humanspacemachine/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/humanspacemachine/)*

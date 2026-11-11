@@ -1,6 +1,6 @@
 # Somewhen
 
-Somewhen is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Smolna, Warsaw on Fri, 13 Nov 2026.
+Somewhen is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Smolna, Warsaw on Fri, 13 Nov 2026.
 
 Somewhen is a techno and trance artist based in Germany, with 261 gigs on soundcheck across Amsterdam, Antwerp, Austin and Baden W Rttemberg and 73 more. Often billed alongside Kobosil, Clara Cuvé and In Verruf. Next up: Smolna, Warsaw on Fri 13 Nov.
 
@@ -31,4 +31,4 @@ Somewhen is a techno and trance artist based in Germany, with 261 gigs on soundc
 
 Kobosil, Clara Cuvé, In Verruf
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/somewhen/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/somewhen/)*

@@ -1,6 +1,6 @@
 # ATB
 
-ATB is a Trance and Progressive House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Stromwerk Dresden, Dresden on Sat, 30 Jan 2027.
+ATB is a Trance and Progressive House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Stromwerk Dresden, Dresden on Sat, 30 Jan 2027.
 
 ATB is a trance and progressive house artist based in Germany, with 15 gigs on soundcheck across Austin, Chicago, Cologne and Copenhagen and 7 more. Often billed alongside Daniel Skyver, Mark Landragin and Adam Taylor. Next up: Stromwerk Dresden, Dresden on Sat 30 Jan.
 
@@ -25,4 +25,4 @@ ATB is a trance and progressive house artist based in Germany, with 15 gigs on s
 
 Daniel Skyver, Mark Landragin, Adam Taylor
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/atb/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/atb/)*

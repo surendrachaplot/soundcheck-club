@@ -1,6 +1,6 @@
 # Human Resources
 
-Human Resources is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Lokschuppen Berlin, Berlin on Sat, 2 Jan 2027.
+Human Resources is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Lokschuppen Berlin, Berlin on Sat, 2 Jan 2027.
 
 Human Resources is a house and tech house artist based in United States of America, with 8 gigs on soundcheck across Berlin, London, Los Angeles and Melbourne. Often billed alongside Andrew88, Monkey Safari and A.Well. Next up: Lokschuppen Berlin, Berlin on Sat 2 Jan.
 
@@ -24,4 +24,4 @@ Human Resources is a house and tech house artist based in United States of Ameri
 
 Andrew88, Monkey Safari, A.Well
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/humanresources/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/humanresources/)*

@@ -1,8 +1,8 @@
 # Thris Tian
 
-Thris Tian is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Club Empire, London on Sat, 14 Nov 2026.
+Thris Tian is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Club Empire, London on Sat, 14 Nov 2026.
 
-Thris Tian is a house and electronica artist, with 6 gigs on soundcheck across Liverpool, London and Mexico City. Often billed alongside Aletha, Alien Izz and D.N.S. Next up: Club Empire, London on Sat 14 Nov.
+Thris Tian is a house and electronica artist based in United Kingdom, with 6 gigs on soundcheck across Liverpool, London and Mexico City. Often billed alongside Aletha, Alien Izz and D.N.S. Next up: Club Empire, London on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -22,4 +22,4 @@ Thris Tian is a house and electronica artist, with 6 gigs on soundcheck across L
 
 Aletha, Alien Izz, D.N.S
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thristian/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thristian/)*

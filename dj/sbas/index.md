@@ -1,6 +1,6 @@
 # sbas
 
-sbas is a Deep House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Fiftyfive, Melbourne on Sat, 14 Nov 2026.
+sbas is a Deep House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Fiftyfive, Melbourne on Sat, 14 Nov 2026.
 
 sbas is a deep house and techno artist based in Australia, with 24 gigs on soundcheck across Melbourne. Often billed alongside Luke ur friend, Bby Cass and JD. Next up: Fiftyfive, Melbourne on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ sbas is a deep house and techno artist based in Australia, with 24 gigs on sound
 
 Luke ur friend, Bby Cass, JD (4)
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sbas/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sbas/)*

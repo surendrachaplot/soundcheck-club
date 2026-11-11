@@ -1,6 +1,6 @@
 # The Back Room
 
-The Back Room is a music venue in Bali with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "KIN Vol 001" on Thu, 12 Nov 2026.
+The Back Room is a music venue in Bali with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "KIN Vol 001" on Thu, 12 Nov 2026.
 
 The Back Room is a music venue in Bali listed on soundcheck. 2 upcoming gigs, with line-ups including .Kenzo, Hicham and Montella G. See dates, start times and who's playing. Jl. Pantai Batu Bolong No.39a, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361, Indonesia.
 
@@ -15,4 +15,4 @@ The Back Room is a music venue in Bali listed on soundcheck. 2 upcoming gigs, wi
 
 Jl. Pantai Batu Bolong No.39a, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361, Indonesia, Bali
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/bali/club/the-back-room/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/bali/club/the-back-room/)*

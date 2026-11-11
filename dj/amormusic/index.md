@@ -1,6 +1,6 @@
 # AMOR MUSIC
 
-AMOR MUSIC is a Afro House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Lula Club, Madrid on Fri, 4 Dec 2026.
+AMOR MUSIC is a Afro House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Lula Club, Madrid on Fri, 4 Dec 2026.
 
 AMOR MUSIC is an afro house artist based in France, with 5 gigs on soundcheck across Lausanne, Madrid, Nantes and Paris. Often billed alongside Balzar and PAN. Next up: Lula Club, Madrid on Fri 4 Dec.
 
@@ -21,4 +21,4 @@ AMOR MUSIC is an afro house artist based in France, with 5 gigs on soundcheck ac
 
 Balzar, PAN (12)
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amormusic/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amormusic/)*

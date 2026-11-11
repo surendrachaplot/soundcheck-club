@@ -1,6 +1,6 @@
 # Condor
 
-Condor is a Techno and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at SOS 7 Mile, Detroit on Sat, 5 Dec 2026.
+Condor is a Techno and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at SOS 7 Mile, Detroit on Sat, 5 Dec 2026.
 
 Condor is a techno and ghetto tech artist based in United States of America, with 7 gigs on soundcheck across Detroit and New York City. Often billed alongside Stef Ozaru, A DJ Named SNE and Marc Homer. Next up: SOS 7 Mile, Detroit on Sat 5 Dec.
 
@@ -23,4 +23,4 @@ Condor is a techno and ghetto tech artist based in United States of America, wit
 
 Stef Ozaru, A DJ Named SNE, Marc Homer
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/condor/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/condor/)*

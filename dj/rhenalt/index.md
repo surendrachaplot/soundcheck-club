@@ -1,6 +1,6 @@
 # Rhenalt
 
-Rhenalt is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at MAD Radio NYC, New York City on Wed, 11 Nov 2026.
+Rhenalt is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at MAD Radio NYC, New York City on Wed, 11 Nov 2026.
 
 Rhenalt is a house and deep house artist, with 7 gigs on soundcheck across New York City. Often billed alongside TonyDeepDisco, Craft and Dino Sabatini. Next up: MAD Radio NYC, New York City on Wed 11 Nov.
 
@@ -23,4 +23,4 @@ Rhenalt is a house and deep house artist, with 7 gigs on soundcheck across New Y
 
 TonyDeepDisco, Craft, Dino Sabatini
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rhenalt/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rhenalt/)*

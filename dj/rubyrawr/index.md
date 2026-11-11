@@ -1,6 +1,6 @@
 # RUBY RAWR
 
-RUBY RAWR is a Hardcore and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Gorilla, Manchester on Fri, 4 Dec 2026.
+RUBY RAWR is a Hardcore and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Gorilla, Manchester on Fri, 4 Dec 2026.
 
 RUBY RAWR is a hardcore and bass artist based in United Kingdom, with 9 gigs on soundcheck across Manchester and Nottingham. Often billed alongside FKA Hardcore, LUNAx3 and PHIA SKY. Next up: Gorilla, Manchester on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ RUBY RAWR is a hardcore and bass artist based in United Kingdom, with 9 gigs on 
 
 FKA Hardcore, LUNAx3, PHIA SKY
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rubyrawr/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rubyrawr/)*

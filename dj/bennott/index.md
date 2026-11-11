@@ -1,6 +1,6 @@
 # Ben Nott
 
-Ben Nott is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Golden Sheaf, New-south-wales on Sat, 26 Dec 2026.
+Ben Nott is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Golden Sheaf, New-south-wales on Sat, 26 Dec 2026.
 
 Ben Nott is a house and deep house artist, with 60 gigs on soundcheck across Bali, Indonesia, Melbourne and New South Wales and 1 more. Often billed alongside Cassette, Lucca Tan and OLIIV. Next up: The Golden Sheaf, New South Wales on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Ben Nott is a house and deep house artist, with 60 gigs on soundcheck across Bal
 
 Cassette, Lucca Tan, OLIIV
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bennott/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bennott/)*

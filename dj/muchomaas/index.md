@@ -1,14 +1,15 @@
 # Mucho Maas
 
-Mucho Maas is a Funk / Soul and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The System, Sheffield on Sat, 14 Nov 2026.
+Mucho Maas is a Disco and Funk / Soul artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The System, Sheffield on Sat, 14 Nov 2026.
 
-Mucho Maas is a funk / soul and disco artist based in United Kingdom, with 16 gigs on soundcheck across Naples, Nottingham and Sheffield. Often billed alongside Sirrey, Joi La Frique and Nonna Fab. Next up: The System, Sheffield on Sat 14 Nov.
+Mucho Maas is a disco and funk / soul artist based in United Kingdom, with 17 gigs on soundcheck across Naples, Nottingham and Sheffield. Often billed alongside Sirrey, Nonna Fab and Joi La Frique. Next up: The System, Sheffield on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | The System | Sheffield |
+| Thu, 31 Dec 2026 | The System | Sheffield |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Mucho Maas is a funk / soul and disco artist based in United Kingdom, with 16 gi
 
 ## Shares bills with
 
-Sirrey, Joi La Frique, Nonna Fab
+Sirrey, Nonna Fab, Joi La Frique
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/muchomaas/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/muchomaas/)*

@@ -1,6 +1,6 @@
 # imad:re
 
-imad:re is a Bass and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Hidden, Manchester on Sat, 14 Nov 2026.
+imad:re is a Bass and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Hidden, Manchester on Sat, 14 Nov 2026.
 
 imad:re is a bass and house artist based in United Kingdom, with 61 gigs on soundcheck across Edinburgh, Ibiza, Leeds and London and 2 more. Often billed alongside Ginster, RYLO (UK) and HSTN. Next up: Hidden, Manchester on Sat 14 Nov.
 
@@ -29,4 +29,4 @@ imad:re is a bass and house artist based in United Kingdom, with 61 gigs on soun
 
 Ginster, RYLO (UK), HSTN
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/imadre/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/imadre/)*

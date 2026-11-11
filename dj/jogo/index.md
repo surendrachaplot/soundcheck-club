@@ -1,6 +1,6 @@
 # Jogo
 
-Jogo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Crack Bellmer, Berlin on Fri, 20 Nov 2026.
+Jogo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Crack Bellmer, Berlin on Fri, 20 Nov 2026.
 
 Jogo is a house and techno artist based in Colombia, with 7 gigs on soundcheck across Berlin. Often billed alongside Juan Neira, Joaquin Dehays and Flor Coto. Next up: Crack Bellmer, Berlin on Fri 20 Nov.
 
@@ -23,4 +23,4 @@ Jogo is a house and techno artist based in Colombia, with 7 gigs on soundcheck a
 
 Juan Neira, Joaquin Dehays, Flor Coto
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jogo/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jogo/)*

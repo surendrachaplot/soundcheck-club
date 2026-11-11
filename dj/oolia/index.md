@@ -1,6 +1,6 @@
 # OOLIA
 
-OOLIA is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Home The Venue, Sydney on Fri, 4 Dec 2026.
+OOLIA is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Home The Venue, Sydney on Fri, 4 Dec 2026.
 
 OOLIA is a drum & bass and jungle artist based in Australia, with 11 gigs on soundcheck across Sydney. Often billed alongside Karnotix, UBERMOON and 1991 (UK). Next up: Home The Venue, Sydney on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ OOLIA is a drum & bass and jungle artist based in Australia, with 11 gigs on sou
 
 Karnotix, UBERMOON, 1991 (UK)
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oolia/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oolia/)*

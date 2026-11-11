@@ -1,6 +1,6 @@
 # Kindergarten Club
 
-Kindergarten Club is a music venue in Bologna with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Friday at Kinder" on Fri, 13 Nov 2026.
+Kindergarten Club is a music venue in Bologna with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Friday at Kinder" on Fri, 13 Nov 2026.
 
 Kindergarten Club is a music venue in Bologna listed on soundcheck. 5 upcoming gigs, with line-ups including Axiver, Doumu, EGE363 and MikyCiL and 1 more. See dates, start times and who's playing.
 
@@ -14,4 +14,4 @@ Kindergarten Club is a music venue in Bologna listed on soundcheck. 5 upcoming g
 | Sat, 21 Nov 2026 | Onlyfast: High Bpm Edition | EGE363, MikyCiL |
 | Sat, 28 Nov 2026 | Hard Rave: Artifact 01 |  |
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/bologna/club/kindergarten-club/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/bologna/club/kindergarten-club/)*

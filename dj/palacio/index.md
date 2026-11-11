@@ -1,6 +1,6 @@
 # PALACIO
 
-PALACIO is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at GAP Club, Chengdu on Sat, 14 Nov 2026.
+PALACIO is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at GAP Club, Chengdu on Sat, 14 Nov 2026.
 
 PALACIO is a techno and electronica artist based in United States of America, with 27 gigs on soundcheck across Amsterdam, Brisbane, Chengdu and Ibiza and 8 more. Often billed alongside DEIV BUITRAGO, DomnRob and Mr. Proper. Next up: GAP Club, Chengdu on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ PALACIO is a techno and electronica artist based in United States of America, wi
 
 DEIV BUITRAGO, DomnRob, Mr. Proper
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/palacio/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/palacio/)*

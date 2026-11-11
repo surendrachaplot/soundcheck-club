@@ -1,6 +1,6 @@
 # Ms. Renegade
 
-Ms. Renegade is a Breakbeat and Garage artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at The Haggerston, London on Fri, 20 Nov 2026.
+Ms. Renegade is a Breakbeat and Garage artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Haggerston, London on Fri, 20 Nov 2026.
 
 Ms. Renegade is a breakbeat and garage artist based in Sweden, with 16 gigs on soundcheck across Gothenburg, London and Stockholm. Often billed alongside FANNY (SE), Marble and Namasenda. Next up: The Haggerston, London on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Ms. Renegade is a breakbeat and garage artist based in Sweden, with 16 gigs on s
 
 FANNY (SE), Marble, Namasenda
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ms.renegade/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ms.renegade/)*

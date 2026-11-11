@@ -1,6 +1,6 @@
 # Shimanski
 
-Shimanski is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Renate, Berlin on Fri, 25 Dec 2026.
+Shimanski is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Renate, Berlin on Fri, 25 Dec 2026.
 
 Shimanski is a disco and house artist based in Germany, with 72 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Dublin and 8 more. Often billed alongside Zehlendorfer Disco Squad, Bustin' Loose and Maltitz. Next up: Renate, Berlin on Fri 25 Dec.
 
@@ -25,4 +25,4 @@ Shimanski is a disco and house artist based in Germany, with 72 gigs on soundche
 
 Zehlendorfer Disco Squad, Bustin' Loose, Maltitz
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shimanski/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shimanski/)*

@@ -1,14 +1,15 @@
 # Oma Doris
 
-Oma Doris is a music venue in Dortmund / Essen with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Turbo 180 Minuten" on Thu, 12 Nov 2026.
+Oma Doris is a music venue in Dortmund / Essen with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Turbo 180 Minuten" on Thu, 12 Nov 2026.
 
-Oma Doris is a music venue in Dortmund / Essen listed on soundcheck. 4 upcoming gigs, with line-ups including ALI3N, Amilli, DJ SPORTSCHUH and Esch and 2 more. See dates, start times and who's playing. Reinoldistraße 2, 44135 Dortmund.
+Oma Doris is a music venue in Dortmund / Essen listed on soundcheck. 5 upcoming gigs, with line-ups including ALI3N, Amilli, DJ SPORTSCHUH and Esch and 2 more. See dates, start times and who's playing. Reinoldistraße 2, 44135 Dortmund.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 12 Nov 2026 | Turbo 180 Minuten | Turbomarius |
+| Sat, 28 Nov 2026 | TURBO ALL DAY LONG - Trance, Bounce & Techno im Oma Doris | Turbomarius |
 | Sat, 12 Dec 2026 | ANTEA Season Closing with Henning Baer, ALI3N, DJ SPORTSCHUH + more | ALI3N, Amilli, DJ SPORTSCHUH, Esch, Henning Baer, Louve, Nils Primas, Shrff, Tschatsching |
 | Sat, 19 Dec 2026 | bratty • with charli xcx & other brat coded artists • dortmund |  |
 | Sat, 30 Jan 2027 | Feiern Wie Früher, Nur Früher |  |
@@ -17,4 +18,4 @@ Oma Doris is a music venue in Dortmund / Essen listed on soundcheck. 4 upcoming 
 
 Reinoldistraße 2, 44135 Dortmund, Dortmund / Essen
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dortmund-essen/club/oma-doris/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dortmund-essen/club/oma-doris/)*

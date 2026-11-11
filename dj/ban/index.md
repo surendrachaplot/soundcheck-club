@@ -1,6 +1,6 @@
 # ban
 
-ban is a Psytrance and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at club asia, Tokyo on Wed, 18 Nov 2026.
+ban is a Psytrance and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at club asia, Tokyo on Wed, 18 Nov 2026.
 
 ban is a psytrance and techno artist based in Poland, with 7 gigs on soundcheck across Tokyo and Warsaw. Often billed alongside FUJI TRILL, KANT and Yak. Next up: club asia, Tokyo on Wed 18 Nov.
 
@@ -23,4 +23,4 @@ ban is a psytrance and techno artist based in Poland, with 7 gigs on soundcheck 
 
 FUJI TRILL, KANT, Yak
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ban/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ban/)*

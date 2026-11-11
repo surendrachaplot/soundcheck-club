@@ -1,6 +1,6 @@
 # Caferoglu
 
-Caferoglu is a Electronica and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA, Toronto on Sat, 14 Nov 2026.
+Caferoglu is a Electronica and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA, Toronto on Sat, 14 Nov 2026.
 
 Caferoglu is an electronica and techno artist based in Turkey, with 15 gigs on soundcheck across Toronto. Often billed alongside Katy Rise, Spada and Addy. Next up: TBA, Toronto on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Caferoglu is an electronica and techno artist based in Turkey, with 15 gigs on s
 
 Katy Rise, Spada, Addy
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caferoglu/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caferoglu/)*

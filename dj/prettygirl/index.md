@@ -1,6 +1,6 @@
 # Pretty Girl
 
-Pretty Girl is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Glenworth Valley, Sydney on Mon, 28 Dec 2026.
+Pretty Girl is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Glenworth Valley, Sydney on Mon, 28 Dec 2026.
 
 Pretty Girl is a house and techno artist based in Australia, with 75 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Barcelona and 27 more. Often billed alongside Interplanetary Criminal, KI/KI and KETTAMA. Next up: Glenworth Valley, Sydney on Mon 28 Dec.
 
@@ -26,4 +26,4 @@ Pretty Girl is a house and techno artist based in Australia, with 75 gigs on sou
 
 Interplanetary Criminal, KI/KI, KETTAMA
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prettygirl/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prettygirl/)*

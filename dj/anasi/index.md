@@ -1,6 +1,6 @@
 # ANASI
 
-ANASI is a Deep House and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Robertas pizza, Riga on Fri, 4 Dec 2026.
+ANASI is a Deep House and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Robertas pizza, Riga on Fri, 4 Dec 2026.
 
 ANASI is a deep house and house artist based in Latvia, with 6 gigs on soundcheck across Riga. Often billed alongside DV8 (LV), Riposte and zulfree. Next up: TBA - Robertas pizza, Riga on Fri 4 Dec.
 
@@ -22,4 +22,4 @@ ANASI is a deep house and house artist based in Latvia, with 6 gigs on soundchec
 
 DV8 (LV), Riposte, zulfree
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anasi/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anasi/)*

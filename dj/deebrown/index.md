@@ -1,6 +1,6 @@
 # Dee Brown
 
-Dee Brown is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Jolene, Copenhagen on Fri, 20 Nov 2026.
+Dee Brown is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Jolene, Copenhagen on Fri, 20 Nov 2026.
 
 Dee Brown is a house and deep house artist based in Denmark, with 28 gigs on soundcheck across Copenhagen, Denmark, Kyoto and Osaka. Often billed alongside Mira Campau, Rosa Maluna and Okine. Next up: Jolene, Copenhagen on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Dee Brown is a house and deep house artist based in Denmark, with 28 gigs on sou
 
 Mira Campau, Rosa Maluna, Okine
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deebrown/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deebrown/)*

@@ -1,6 +1,6 @@
 # Greentea Peng
 
-Greentea Peng is a House and Jazz artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
+Greentea Peng is a House and Jazz artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
 
 Greentea Peng is a house and jazz artist based in United Kingdom, with 11 gigs on soundcheck across Birmingham, Copenhagen, Istanbul and Leeds and 4 more. Often billed alongside Ahadadream, Anish Kumar and Arthi. Next up: The Wildlands, Melbourne on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Greentea Peng is a house and jazz artist based in United Kingdom, with 11 gigs o
 
 Ahadadream, Anish Kumar, Arthi
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/greenteapeng/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/greenteapeng/)*

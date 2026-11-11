@@ -1,14 +1,14 @@
 # Delma
 
-Delma is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA, Rome on Sat, 21 Nov 2026.
+Delma is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - DM FOR LOCATION, Rome on Sat, 21 Nov 2026.
 
-Delma is a techno and bass artist based in Italy, with 5 gigs on soundcheck across Rome. Often billed alongside Lilyol_, MA\E and Pug.. Next up: TBA, Rome on Sat 21 Nov.
+Delma is a techno and bass artist based in Italy, with 5 gigs on soundcheck across Rome. Often billed alongside Lilyol_, MA\E and Pug.. Next up: TBA - DM FOR LOCATION, Rome on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | TBA | Rome |
+| Sat, 21 Nov 2026 | TBA - DM FOR LOCATION | Rome |
 
 ## Recently played
 
@@ -21,4 +21,4 @@ Delma is a techno and bass artist based in Italy, with 5 gigs on soundcheck acro
 
 Lilyol_, MA\E, Pug.
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/delma/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/delma/)*

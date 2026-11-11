@@ -1,6 +1,6 @@
 # JONATAS C
 
-JONATAS C is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at D-EDGE, Sao Paulo on Sun, 22 Nov 2026.
+JONATAS C is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at D-EDGE, Sao Paulo on Sun, 22 Nov 2026.
 
 JONATAS C is a tech house and house artist based in Brazil, with 6 gigs on soundcheck across Barcelona and Sao Paulo. Often billed alongside Melanie Ribbe, Paco Osuna and Gian Granito. Next up: D-EDGE, Sao Paulo on Sun 22 Nov.
 
@@ -22,4 +22,4 @@ JONATAS C is a tech house and house artist based in Brazil, with 6 gigs on sound
 
 Melanie Ribbe, Paco Osuna, Gian Granito
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jonatasc/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jonatasc/)*

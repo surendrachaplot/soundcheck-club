@@ -1,6 +1,6 @@
 # Dynamo
 
-Dynamo is a music venue in Zurich with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. The next is "Mode17 - Trance/Bounce at Dynamo" on Sat, 26 Dec 2026.
+Dynamo is a music venue in Zurich with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "Mode17 - Trance/Bounce at Dynamo" on Sat, 26 Dec 2026.
 
 Dynamo is a music venue in Zurich listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Wasserwerkstrasse 21; 8006, Zürich; Switzerland.
 
@@ -14,4 +14,4 @@ Dynamo is a music venue in Zurich listed on soundcheck. 1 upcoming gig. See date
 
 Wasserwerkstrasse 21; 8006, Zürich; Switzerland, Zurich
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/dynamo/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/dynamo/)*

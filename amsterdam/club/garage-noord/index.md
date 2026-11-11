@@ -1,6 +1,6 @@
 # Garage Noord
 
-Garage Noord is a music venue in Amsterdam with 8 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "DJ Narciso, Honeydrip (live), Slimfit" on Fri, 13 Nov 2026.
+Garage Noord is a music venue in Amsterdam with 8 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "DJ Narciso, Honeydrip (live), Slimfit" on Fri, 13 Nov 2026.
 
 Garage Noord is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs, with line-ups including 2tongues, Anthony Linell, AUCO and August (NL) and 2 more. See dates, start times and who's playing. Gedempt Hamerkanaal 40, 1012 KM Amsterdam.
 
@@ -21,4 +21,4 @@ Garage Noord is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs
 
 Gedempt Hamerkanaal 40, 1012 KM Amsterdam, Amsterdam
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/garage-noord/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/garage-noord/)*

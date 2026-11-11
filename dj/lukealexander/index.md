@@ -1,6 +1,6 @@
 # Luke Alexander
 
-Luke Alexander is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at 99 Scott Ave, New York City on Fri, 13 Nov 2026.
+Luke Alexander is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at 99 Scott Ave, New York City on Fri, 13 Nov 2026.
 
 Luke Alexander is a house and tech house artist based in United Kingdom, with 19 gigs on soundcheck across Boston, Chicago, Detroit and Houston and 5 more. Often billed alongside Eli Brown, Kaskade and Lane 8. Next up: 99 Scott Ave, New York City on Fri 13 Nov.
 
@@ -28,4 +28,4 @@ Luke Alexander is a house and tech house artist based in United Kingdom, with 19
 
 Eli Brown, Kaskade, Lane 8
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukealexander/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukealexander/)*

@@ -1,6 +1,6 @@
 # Biondo
 
-Biondo is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Core, Madrid on Thu, 12 Nov 2026.
+Biondo is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Core, Madrid on Thu, 12 Nov 2026.
 
 Biondo is a techno and tech house artist, with 18 gigs on soundcheck across East, Ibiza, Madrid and Valencia. Often billed alongside Dj badtrip, Lucía Gea and Ariezzz. Next up: Core, Madrid on Thu 12 Nov.
 
@@ -26,4 +26,4 @@ Biondo is a techno and tech house artist, with 18 gigs on soundcheck across East
 
 Dj badtrip, Lucía Gea, Ariezzz
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/biondo/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/biondo/)*

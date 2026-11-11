@@ -1,14 +1,15 @@
 # Taimur
 
-Taimur is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Dear Eleanor, Miami on Fri, 13 Nov 2026.
+Taimur is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Dear Eleanor, Miami on Fri, 13 Nov 2026.
 
-Taimur is a house and techno artist based in United States of America, with 86 gigs on soundcheck across Atlanta, Boston, Chicago and Cleveland and 11 more. Often billed alongside Ostara, Maksim and Brother Dan. Next up: Dear Eleanor, Miami on Fri 13 Nov.
+Taimur is a house and techno artist based in United States of America, with 87 gigs on soundcheck across Atlanta, Boston, Chicago and Cleveland and 11 more. Often billed alongside Ostara, Maksim and Alex Pastor. Next up: Dear Eleanor, Miami on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Dear Eleanor | Miami |
+| Thu, 3 Dec 2026 | The Pickle | Miami |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Taimur is a house and techno artist based in United States of America, with 86 g
 
 ## Shares bills with
 
-Ostara, Maksim, Brother Dan
+Ostara, Maksim, Alex Pastor
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taimur/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taimur/)*

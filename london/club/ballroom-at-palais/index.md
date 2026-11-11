@@ -1,6 +1,6 @@
 # Ballroom at Palais
 
-Ballroom at Palais is a music venue in London with 7 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Ballroom at Palais: FYI Robyn & ISHA B2B Diesel" on Fri, 13 Nov 2026.
+Ballroom at Palais is a music venue in London with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Ballroom at Palais: FYI Robyn & ISHA B2B Diesel" on Fri, 13 Nov 2026.
 
 Ballroom at Palais is a music venue in London listed on soundcheck. 7 upcoming gigs, with line-ups including Bindās, FYI Robyn, ISHA and Kyle Parsley and 2 more. See dates, start times and who's playing. 1a Rye Ln, London SE15 5EW.
 
@@ -20,4 +20,4 @@ Ballroom at Palais is a music venue in London listed on soundcheck. 7 upcoming g
 
 1a Rye Ln, London SE15 5EW, London
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/ballroom-at-palais/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/ballroom-at-palais/)*

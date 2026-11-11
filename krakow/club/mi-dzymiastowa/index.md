@@ -1,6 +1,6 @@
 # Międzymiastowa
 
-Międzymiastowa is a music venue in Krakow with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "MM: WONDERLAND" on Sat, 14 Nov 2026.
+Międzymiastowa is a music venue in Krakow with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "MM: WONDERLAND" on Sat, 14 Nov 2026.
 
 Międzymiastowa is a music venue in Krakow listed on soundcheck. 4 upcoming gigs. See dates, start times and who's playing. Rynek Główny 34, Kraków, Polska.
 
@@ -17,4 +17,4 @@ Międzymiastowa is a music venue in Krakow listed on soundcheck. 4 upcoming gigs
 
 Rynek Główny 34, Kraków, Polska, Krakow
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/mi-dzymiastowa/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/mi-dzymiastowa/)*

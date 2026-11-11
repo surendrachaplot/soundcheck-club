@@ -1,6 +1,6 @@
 # Mella Dee
 
-Mella Dee is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 27 Nov 2026.
+Mella Dee is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 27 Nov 2026.
 
 Mella Dee is a house and techno artist based in United Kingdom, with 179 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Auckland and 55 more. Often billed alongside Saoirse, Reeshy and Locklead. Next up: Depot Mayfield, Manchester on Fri 27 Nov.
 
@@ -32,4 +32,4 @@ Mella Dee is a house and techno artist based in United Kingdom, with 179 gigs on
 
 Saoirse, Reeshy, Locklead
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/melladee/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/melladee/)*

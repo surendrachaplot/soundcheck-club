@@ -1,6 +1,6 @@
 # dinaLiks
 
-dinaLiks is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Hoppetosse, Berlin on Fri, 27 Nov 2026.
+dinaLiks is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Hoppetosse, Berlin on Fri, 27 Nov 2026.
 
 dinaLiks is a techno and house artist, with 5 gigs on soundcheck across Berlin. Often billed alongside Coco, Empro and Slurm McKenzie. Next up: Hoppetosse, Berlin on Fri 27 Nov.
 
@@ -21,4 +21,4 @@ dinaLiks is a techno and house artist, with 5 gigs on soundcheck across Berlin. 
 
 Coco, Empro, Slurm McKenzie
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dinaliks-de/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dinaliks-de/)*

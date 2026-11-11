@@ -1,6 +1,6 @@
 # Epiphany Center for the Arts
 
-Epiphany Center for the Arts is a music venue in Chicago with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Golden Hour feat. DJ Hungu" on Fri, 13 Nov 2026.
+Epiphany Center for the Arts is a music venue in Chicago with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Golden Hour feat. DJ Hungu" on Fri, 13 Nov 2026.
 
 Epiphany Center for the Arts is a music venue in Chicago listed on soundcheck. 2 upcoming gigs, with line-ups including Bass, Darling, Hungu and Proxoxie. See dates, start times and who's playing. 201 S Ashland Ave; Chicago, IL 60607; United States.
 
@@ -15,4 +15,4 @@ Epiphany Center for the Arts is a music venue in Chicago listed on soundcheck. 2
 
 201 S Ashland Ave; Chicago, IL 60607; United States, Chicago
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/epiphany-center-for-the-arts/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/epiphany-center-for-the-arts/)*

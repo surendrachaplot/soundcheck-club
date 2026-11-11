@@ -1,6 +1,6 @@
 # Max Sprauer
 
-Max Sprauer is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Public Works, San Francisco/Oakland on Sat, 5 Dec 2026.
+Max Sprauer is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Public Works, San Francisco/Oakland on Sat, 5 Dec 2026.
 
 Max Sprauer is a house and techno artist based in United States of America, with 113 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 14 more. Often billed alongside Shvili, Rama NYC and Rasho. Next up: Public Works, San Francisco/Oakland on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Max Sprauer is a house and techno artist based in United States of America, with
 
 Shvili, Rama NYC, Rasho
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxsprauer/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxsprauer/)*

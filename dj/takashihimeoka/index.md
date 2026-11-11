@@ -1,6 +1,6 @@
 # Takashi Himeoka
 
-Takashi Himeoka is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Daikanyama ORD., Tokyo on Fri, 18 Dec 2026.
+Takashi Himeoka is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Daikanyama ORD., Tokyo on Fri, 18 Dec 2026.
 
 Takashi Himeoka is a house and techno artist based in Japan, with 38 gigs on soundcheck across Bangkok, Kyoto, Seoul and Tokyo. Often billed alongside Wada Yosuke, Rio Kawamoto and TORAO. Next up: Daikanyama ORD., Tokyo on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Takashi Himeoka is a house and techno artist based in Japan, with 38 gigs on sou
 
 Wada Yosuke, Rio Kawamoto, TORAO
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/takashihimeoka/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/takashihimeoka/)*

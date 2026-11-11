@@ -1,10 +1,10 @@
 # Hoochie Palace x DickAppointment (ATLANTA) at Drunken Unicorn
 
-Hoochie Palace x DickAppointment (ATLANTA) at Drunken Unicorn on Sat 12 Dec, Atlanta. 1 artist: SKY JETTA. Club and Ghetto Tech. See the line-up on soundcheck.
+Hoochie Palace x DickAppointment (ATLANTA) at Drunken Unicorn on Fri 11 Dec, Atlanta. 1 artist: SKY JETTA. Club and Ghetto Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 12 Dec 2026 |
+| Date | Fri, 11 Dec 2026 |
 | Venue | Drunken Unicorn |
 | City | Atlanta |
 

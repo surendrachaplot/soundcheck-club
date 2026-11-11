@@ -1,14 +1,13 @@
 # leverson
 
-leverson is a R&B and Hip-Hop artist with 6 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Selecta Studios, Sydney on Wed, 11 Nov 2026.
+leverson is a R&B and Hip-Hop artist with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Vespertine, Sydney on Thu, 12 Nov 2026.
 
-leverson is a r&b and hip-hop artist based in United Kingdom, with 195 gigs on soundcheck across Amsterdam, Auckland, Birmingham and London and 3 more. Often billed alongside Signorina, Omari King and Omari. Next up: Selecta Studios, Sydney on Wed 11 Nov.
+leverson is a r&b and hip-hop artist based in United Kingdom, with 195 gigs on soundcheck across Amsterdam, Auckland, Birmingham and London and 3 more. Often billed alongside Signorina, Omari King and Omari. Next up: Vespertine, Sydney on Thu 12 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 11 Nov 2026 | Selecta Studios | Sydney |
 | Thu, 12 Nov 2026 | Vespertine | Sydney |
 | Sat, 14 Nov 2026 | SOL Radio | Sydney |
 | Sat, 14 Nov 2026 | Common House | Sydney |
@@ -30,4 +29,4 @@ leverson is a r&b and hip-hop artist based in United Kingdom, with 195 gigs on s
 
 Signorina, Omari King, Omari
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leverson/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leverson/)*

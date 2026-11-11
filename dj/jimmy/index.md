@@ -1,6 +1,6 @@
 # Jimmy
 
-Jimmy is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Shape Bakery, North on Sat, 14 Nov 2026.
+Jimmy is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Shape Bakery, North on Sat, 14 Nov 2026.
 
 Jimmy is a house and tech house artist based in United Kingdom, with 22 gigs on soundcheck across Berlin, Detroit, Leeds and London and 4 more. Often billed alongside Quidders, Brennan and DUCK-E. Next up: Shape Bakery, North on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Jimmy is a house and tech house artist based in United Kingdom, with 22 gigs on 
 
 Quidders, Brennan (2), DUCK-E
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jimmy/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jimmy/)*

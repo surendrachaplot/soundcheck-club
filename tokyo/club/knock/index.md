@@ -1,6 +1,6 @@
 # Knock
 
-Knock is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "FISHMANS NIGHT" on Sat, 28 Nov 2026.
+Knock is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "FISHMANS NIGHT" on Sat, 28 Nov 2026.
 
 Knock is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with line-ups including AKARI, NUTMEG, SURCO and Tada and 1 more. See dates, start times and who's playing. 3-48-6 Koenjiminami, Suginami, Tokyo 166-0003, Japan.
 
@@ -15,4 +15,4 @@ Knock is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with line
 
 3-48-6 Koenjiminami, Suginami, Tokyo 166-0003, Japan, Tokyo
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/knock/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/knock/)*

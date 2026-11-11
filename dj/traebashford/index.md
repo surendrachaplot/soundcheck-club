@@ -1,6 +1,6 @@
 # Trae Bashford
 
-Trae Bashford is a Trance and Electro artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Brooman NSW, Sydney on Fri, 27 Nov 2026.
+Trae Bashford is a Trance and Electro artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Brooman NSW, Sydney on Fri, 27 Nov 2026.
 
 Trae Bashford is a trance and electro artist based in Australia, with 7 gigs on soundcheck across Canberra, Melbourne, New South Wales and Sydney. Often billed alongside JJ OKOCHA, Karani and LOIF. Next up: TBA - Brooman NSW, Sydney on Fri 27 Nov.
 
@@ -23,4 +23,4 @@ Trae Bashford is a trance and electro artist based in Australia, with 7 gigs on 
 
 JJ OKOCHA, Karani, LOIF
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/traebashford/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/traebashford/)*

@@ -1,6 +1,6 @@
 # The White Hotel
 
-The White Hotel is a music venue in Manchester with 34 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "The Beauty Witch presents : Horse Lords / Chermansog" on Thu, 12 Nov 2026.
+The White Hotel is a music venue in Manchester with 34 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "The Beauty Witch presents : Horse Lords / Chermansog" on Thu, 12 Nov 2026.
 
 The White Hotel is a music venue in Manchester listed on soundcheck. 34 upcoming gigs, with line-ups including Fastlove, Afrodeutsche, Aiden Francis and Alliyah Enyo and 2 more. See dates, start times and who's playing. Dickinson Street Salford M3 7LW, United Kingdom.
 
@@ -23,4 +23,4 @@ The White Hotel is a music venue in Manchester listed on soundcheck. 34 upcoming
 
 Dickinson Street Salford M3 7LW, United Kingdom, Manchester
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-white-hotel/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-white-hotel/)*

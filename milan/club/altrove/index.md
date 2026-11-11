@@ -1,6 +1,6 @@
 # Altrove
 
-Altrove is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Art d'enfer at Altrove Milano" on Fri, 13 Nov 2026.
+Altrove is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Art d'enfer at Altrove Milano" on Fri, 13 Nov 2026.
 
 Altrove is a music venue in Milan listed on soundcheck. 2 upcoming gigs, with line-ups including ALDAVE, AMBRA, Lucifero and Marc Anthony Bowen and 1 more. See dates, start times and who's playing. Via Arcangelo Corelli, 27, 20134 Milano MI, Italy.
 
@@ -15,4 +15,4 @@ Altrove is a music venue in Milan listed on soundcheck. 2 upcoming gigs, with li
 
 Via Arcangelo Corelli, 27, 20134 Milano MI, Italy, Milan
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/altrove/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/altrove/)*

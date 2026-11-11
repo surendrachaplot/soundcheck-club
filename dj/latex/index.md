@@ -1,6 +1,6 @@
 # Latex (1)
 
-Latex (1) is a Tech House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Secret Location, Bali on Sat, 20 Mar 2027.
+Latex (1) is a Tech House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Secret Location, Bali on Sat, 20 Mar 2027.
 
 Latex is a tech house and minimal techno artist based in Indonesia, with 39 gigs on soundcheck across Bali, Berlin, Madrid and Prague and 1 more. Often billed alongside Zoot, Karim T and Bagvs. Next up: TBA - Secret Location, Bali on Sat 20 Mar.
 
@@ -25,4 +25,4 @@ Latex is a tech house and minimal techno artist based in Indonesia, with 39 gigs
 
 Zoot, Karim T, Bagvs
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/latex/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/latex/)*

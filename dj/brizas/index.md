@@ -1,6 +1,6 @@
 # Brizas
 
-Brizas is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Macarena Club, Barcelona on Wed, 11 Nov 2026.
+Brizas is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Macarena Club, Barcelona on Wed, 11 Nov 2026.
 
 Brizas is a house and deep house artist based in Guatemala, with 61 gigs on soundcheck across Barcelona and Berlin. Often billed alongside MAF, Derovio and Adrian Grösser. Next up: Macarena Club, Barcelona on Wed 11 Nov.
 
@@ -25,4 +25,4 @@ Brizas is a house and deep house artist based in Guatemala, with 61 gigs on soun
 
 MAF, Derovio, Adrian Grösser
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brizas/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brizas/)*

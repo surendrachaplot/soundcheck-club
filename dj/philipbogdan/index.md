@@ -1,6 +1,6 @@
 # Philip Bogdan
 
-Philip Bogdan is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Humboldthain Club, Berlin on Sat, 5 Dec 2026.
+Philip Bogdan is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Humboldthain Club, Berlin on Sat, 5 Dec 2026.
 
 Philip Bogdan is a tech house and minimal artist based in Germany, with 34 gigs on soundcheck across Berlin, Frankfurt, Freiburg and Hamburg and 1 more. Often billed alongside Sanel, GIORG and Temazcal. Next up: Humboldthain Club, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Philip Bogdan is a tech house and minimal artist based in Germany, with 34 gigs 
 
 Sanel, GIORG, Temazcal (2)
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/philipbogdan/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/philipbogdan/)*

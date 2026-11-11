@@ -1,6 +1,6 @@
 # piaconcept
 
-piaconcept is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA, Paris on Sat, 14 Nov 2026.
+piaconcept is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA, Paris on Sat, 14 Nov 2026.
 
 piaconcept is a techno and electro artist based in France, with 31 gigs on soundcheck across Bordeaux, Lyon and Paris. Often billed alongside Lüma-G, Belaria and Unsho. Next up: TBA, Paris on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ piaconcept is a techno and electro artist based in France, with 31 gigs on sound
 
 Lüma-G, Belaria, Unsho
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/piaconcept/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/piaconcept/)*

@@ -1,6 +1,6 @@
 # Conical Intersection
 
-Conical Intersection is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TANKclub, Bologna on Sat, 28 Nov 2026.
+Conical Intersection is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TANKclub, Bologna on Sat, 28 Nov 2026.
 
 Conical Intersection is a techno and electronica artist based in Italy, with 18 gigs on soundcheck across Bologna and Milan. Often billed alongside Raul Sanchez (IT), D-Leria and Dixie. Next up: TANKclub, Bologna on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Conical Intersection is a techno and electronica artist based in Italy, with 18 
 
 Raul Sanchez (IT), D-Leria, Dixie
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/conicalintersection/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/conicalintersection/)*

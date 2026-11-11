@@ -1,6 +1,6 @@
 # Chenoa Tarin
 
-Chenoa Tarin is a IDM and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Friends & Lovers, New York City on Wed, 11 Nov 2026.
+Chenoa Tarin is a IDM and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Friends & Lovers, New York City on Wed, 11 Nov 2026.
 
 Chenoa Tarin is an idm and experimental artist, with 8 gigs on soundcheck across New York City. Often billed alongside A. Sarr, e.g. and Ben The Glorious Bastard. Next up: Friends & Lovers, New York City on Wed 11 Nov.
 
@@ -24,4 +24,4 @@ Chenoa Tarin is an idm and experimental artist, with 8 gigs on soundcheck across
 
 A. Sarr, e.g., Ben The Glorious Bastard
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chenoatarin/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chenoatarin/)*

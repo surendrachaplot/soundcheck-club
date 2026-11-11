@@ -1,6 +1,6 @@
 # Javi Infantes
 
-Javi Infantes is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Secret Location, Madrid on Sat, 5 Dec 2026.
+Javi Infantes is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Secret Location, Madrid on Sat, 5 Dec 2026.
 
 Javi Infantes is a house and techno artist based in Spain, with 12 gigs on soundcheck across Berlin and Madrid. Often billed alongside Vitreoux, ALONSO (ES) and Zarco. Next up: TBA - Secret Location, Madrid on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Javi Infantes is a house and techno artist based in Spain, with 12 gigs on sound
 
 Vitreoux, ALONSO (ES), Zarco
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/javiinfantes/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/javiinfantes/)*

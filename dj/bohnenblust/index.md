@@ -1,6 +1,6 @@
 # Bohnenblust
 
-Bohnenblust is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Supermarket, Zurich on Thu, 26 Nov 2026.
+Bohnenblust is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Supermarket, Zurich on Thu, 26 Nov 2026.
 
 Bohnenblust is an ambient and experimental artist based in Switzerland, with 35 gigs on soundcheck across Zurich. Often billed alongside Zefzeed, Aron (CH) and CEZAR. Next up: Supermarket, Zurich on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Bohnenblust is an ambient and experimental artist based in Switzerland, with 35 
 
 Zefzeed, Aron (CH), CEZAR
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bohnenblust/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bohnenblust/)*

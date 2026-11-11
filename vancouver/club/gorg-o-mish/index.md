@@ -1,6 +1,6 @@
 # Gorg-O-Mish
 
-Gorg-O-Mish is a music venue in Vancouver with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "ANALOG // Neighbour, Marcella & Lalo Campo // Vinyl Set" on Fri, 13 Nov 2026.
+Gorg-O-Mish is a music venue in Vancouver with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "ANALOG // Neighbour, Marcella & Lalo Campo // Vinyl Set" on Fri, 13 Nov 2026.
 
 Gorg-O-Mish is a music venue in Vancouver listed on soundcheck. 2 upcoming gigs, with line-ups including indulgent, Lalo Campo, Marcella and Neighbour and 2 more. See dates, start times and who's playing. 695 Smithe St; Vancouver, BC V6B 2C9; Canada.
 
@@ -15,4 +15,4 @@ Gorg-O-Mish is a music venue in Vancouver listed on soundcheck. 2 upcoming gigs,
 
 695 Smithe St; Vancouver, BC V6B 2C9; Canada, Vancouver
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/gorg-o-mish/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/gorg-o-mish/)*

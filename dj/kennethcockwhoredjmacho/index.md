@@ -1,6 +1,6 @@
 # Cockwhore & Macho
 
-Cockwhore & Macho is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Den Anden Side, Copenhagen on Sat, 5 Dec 2026.
+Cockwhore & Macho is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Den Anden Side, Copenhagen on Sat, 5 Dec 2026.
 
 Cockwhore & Macho are a house and techno duo based in Denmark, with 59 gigs on soundcheck across Antwerp, Berlin, Copenhagen and Zurich. Often billed alongside Entree, Britney Speed and DJ Nah Care. Next up: Den Anden Side, Copenhagen on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Cockwhore & Macho are a house and techno duo based in Denmark, with 59 gigs on s
 
 Entree, Britney Speed, DJ Nah Care
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kennethcockwhoredjmacho/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kennethcockwhoredjmacho/)*

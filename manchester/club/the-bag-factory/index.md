@@ -1,6 +1,6 @@
 # The Bag Factory
 
-The Bag Factory is a music venue in Manchester with 8 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "ILLUMINØX - TECHNO ANL" on Fri, 13 Nov 2026.
+The Bag Factory is a music venue in Manchester with 8 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "ILLUMINØX - TECHNO ANL" on Fri, 13 Nov 2026.
 
 The Bag Factory is a music venue in Manchester listed on soundcheck. 8 upcoming gigs, with line-ups including Hello From Ben, Lilyn, LYZANDER and Madelaine Jemine and 2 more. See dates, start times and who's playing. Dickinson St, Manchester M3 7LW.
 
@@ -21,4 +21,4 @@ The Bag Factory is a music venue in Manchester listed on soundcheck. 8 upcoming 
 
 Dickinson St, Manchester M3 7LW, Manchester
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-bag-factory/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-bag-factory/)*

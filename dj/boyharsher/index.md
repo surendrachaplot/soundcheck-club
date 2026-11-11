@@ -1,6 +1,6 @@
 # Boy Harsher
 
-Boy Harsher is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Silencio, Paris on Sun, 15 Nov 2026.
+Boy Harsher is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Silencio, Paris on Sun, 15 Nov 2026.
 
 Boy Harsher is a techno and industrial artist based in United States of America, with 35 gigs on soundcheck across Atlanta, Auckland, Austin and Brisbane and 16 more. Often billed alongside Augustus Muller, Kassie Krut and Andi. Next up: Silencio, Paris on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Boy Harsher is a techno and industrial artist based in United States of America,
 
 Augustus Muller, Kassie Krut, Andi
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boyharsher/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boyharsher/)*

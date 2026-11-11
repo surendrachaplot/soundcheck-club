@@ -1,6 +1,6 @@
 # BlckTeeth
 
-BlckTeeth is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at 23 Music Room, Taipei on Sat, 14 Nov 2026.
+BlckTeeth is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at 23 Music Room, Taipei on Sat, 14 Nov 2026.
 
 BlckTeeth is a house and techno artist based in United States of America, with 16 gigs on soundcheck across New York City, Philadelphia and Taipei. Often billed alongside Khiari Bakar, Sight -Beyond- Sound and ALLDAY247. Next up: 23 Music Room, Taipei on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ BlckTeeth is a house and techno artist based in United States of America, with 1
 
 Khiari Bakar, Sight -Beyond- Sound, ALLDAY247
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blckteeth/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blckteeth/)*

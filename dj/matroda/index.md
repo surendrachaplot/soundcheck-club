@@ -1,6 +1,6 @@
 # Matroda
 
-Matroda is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Ice Cream Factory, Perth on Fri, 13 Nov 2026.
+Matroda is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Ice Cream Factory, Perth on Fri, 13 Nov 2026.
 
 Matroda is a house and tech house artist based in United States of America, with 91 gigs on soundcheck across Austin, Basel, Berlin and Boston and 28 more. Often billed alongside J. Worra, Kaskade and Mary Droppinz. Next up: Ice Cream Factory, Perth on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Matroda is a house and tech house artist based in United States of America, with
 
 J. Worra, Kaskade, Mary Droppinz
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matroda/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matroda/)*

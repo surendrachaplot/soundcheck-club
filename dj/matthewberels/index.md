@@ -1,6 +1,6 @@
 # Matthew Berels
 
-Matthew Berels is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Obedient Missionary, Detroit on Fri, 13 Nov 2026.
+Matthew Berels is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Obedient Missionary, Detroit on Fri, 13 Nov 2026.
 
 Matthew Berels is a house and techno artist, with 10 gigs on soundcheck across Detroit. Often billed alongside RIRKIN, BeatLoaf and Norm Talley. Next up: TBA - Obedient Missionary, Detroit on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Matthew Berels is a house and techno artist, with 10 gigs on soundcheck across D
 
 RIRKIN, BeatLoaf, Norm Talley
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewberels/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewberels/)*

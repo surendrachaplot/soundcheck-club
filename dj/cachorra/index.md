@@ -1,6 +1,6 @@
 # Cachorra
 
-Cachorra is a Reggaeton and Ballroom artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at MR Duck, Mexico City on Fri, 13 Nov 2026.
+Cachorra is a Reggaeton and Ballroom artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at MR Duck, Mexico City on Fri, 13 Nov 2026.
 
 Cachorra is a reggaeton and ballroom artist, with 6 gigs on soundcheck across Mexico City. Often billed alongside Black Daria, Chico Sonido and DONKEY. Next up: MR Duck, Mexico City on Fri 13 Nov.
 
@@ -22,4 +22,4 @@ Cachorra is a reggaeton and ballroom artist, with 6 gigs on soundcheck across Me
 
 Black Daria, Chico Sonido, DONKEY
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cachorra/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cachorra/)*

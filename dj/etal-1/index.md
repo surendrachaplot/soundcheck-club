@@ -1,13 +1,14 @@
 # Et Al (1)
 
-Et Al (1) is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Nice N Sleazy, Glasgow on Sat, 28 Nov 2026.
+Et Al (1) is a Techno and Garage artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Stereo, Glasgow on Fri, 13 Nov 2026.
 
-Et Al is a techno and garage artist based in United Kingdom, with 46 gigs on soundcheck across Aberdeen, Edinburgh, Glasgow and Leeds and 1 more. Often billed alongside Josh Buchanan, REYKA and J Wax. Next up: Nice N Sleazy, Glasgow on Sat 28 Nov.
+Et Al is a techno and garage artist based in United Kingdom, with 47 gigs on soundcheck across Aberdeen, Edinburgh, Glasgow and Leeds and 1 more. Often billed alongside Josh Buchanan, REYKA and J Wax. Next up: Stereo, Glasgow on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | Stereo | Glasgow |
 | Sat, 28 Nov 2026 | Nice N Sleazy | Glasgow |
 
 ## Recently played
@@ -25,4 +26,4 @@ Et Al is a techno and garage artist based in United Kingdom, with 46 gigs on sou
 
 Josh Buchanan, REYKA, J Wax
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/etal-1/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/etal-1/)*

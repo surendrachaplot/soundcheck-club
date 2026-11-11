@@ -1,6 +1,6 @@
 # Kajitsu
 
-Kajitsu is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Sat, 14 Nov 2026.
+Kajitsu is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Sat, 14 Nov 2026.
 
 Kajitsu is a house and techno artist based in Japan, with 62 gigs on soundcheck across Osaka and Tokyo. Often billed alongside FLEDtokyo, kubo_ken_1_low and Incarnated Sound. Next up: UTOPIA / DYSTOPIA, Tokyo on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Kajitsu is a house and techno artist based in Japan, with 62 gigs on soundcheck 
 
 FLEDtokyo, kubo_ken_1_low, Incarnated Sound
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kajitsu/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kajitsu/)*

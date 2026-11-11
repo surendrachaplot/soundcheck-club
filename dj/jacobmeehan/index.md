@@ -1,6 +1,6 @@
 # Jacob Meehan
 
-Jacob Meehan is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Club Rawhide, New York City on Fri, 13 Nov 2026.
+Jacob Meehan is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Club Rawhide, New York City on Fri, 13 Nov 2026.
 
 Jacob Meehan is a house and techno artist based in United States of America, with 94 gigs on soundcheck across Bangkok, Beijing, Berlin and Brussels and 16 more. Often billed alongside Dirty Daddy Don, BASHKKA and The Carry Nation. Next up: Club Rawhide, New York City on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Jacob Meehan is a house and techno artist based in United States of America, wit
 
 Dirty Daddy Don, BASHKKA, The Carry Nation
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jacobmeehan/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jacobmeehan/)*

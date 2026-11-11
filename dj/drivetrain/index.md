@@ -1,6 +1,6 @@
 # Drivetrain
 
-Drivetrain is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Village Underground Barcelona, Barcelona on Sat, 28 Nov 2026.
+Drivetrain is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Village Underground Barcelona, Barcelona on Sat, 28 Nov 2026.
 
 Drivetrain is a techno and house artist based in United States of America, with 36 gigs on soundcheck across Barcelona, Cologne, Detroit and Dresden and 3 more. Often billed alongside Claus Bachor, Mike Agent X Clark and DJ Roach. Next up: Village Underground Barcelona, Barcelona on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Drivetrain is a techno and house artist based in United States of America, with 
 
 Claus Bachor, Mike Agent X Clark, DJ Roach
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drivetrain/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drivetrain/)*

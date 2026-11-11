@@ -1,6 +1,6 @@
 # Zombies In Miami
 
-Zombies In Miami is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Expo Santa Fe, Mexico City on Fri, 20 Nov 2026.
+Zombies In Miami is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Expo Santa Fe, Mexico City on Fri, 20 Nov 2026.
 
 Zombies In Miami is a house and techno artist based in Mexico, with 185 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 51 more. Often billed alongside PAU PAU, DJ Nobu and Mystery Affair. Next up: Expo Santa Fe, Mexico City on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Zombies In Miami is a house and techno artist based in Mexico, with 185 gigs on 
 
 PAU PAU, DJ Nobu, Mystery Affair
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zombiesinmiami/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zombiesinmiami/)*

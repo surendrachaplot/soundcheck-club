@@ -1,6 +1,6 @@
 # Liondub
 
-Liondub is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Le Bain, New York City on Wed, 11 Nov 2026.
+Liondub is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Le Bain, New York City on Wed, 11 Nov 2026.
 
 Liondub is a drum & bass and jungle artist based in United States of America, with 16 gigs on soundcheck across Amsterdam, London, New York City and Philadelphia. Often billed alongside Ultra DNB, A$HLEY and ANDROMEDA. Next up: Le Bain, New York City on Wed 11 Nov.
 
@@ -25,4 +25,4 @@ Liondub is a drum & bass and jungle artist based in United States of America, wi
 
 Ultra DNB, A$HLEY, ANDROMEDA
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/liondub/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/liondub/)*

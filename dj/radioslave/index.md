@@ -1,6 +1,6 @@
 # Radio Slave
 
-Radio Slave is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at The Spotlight, Los Angeles on Sat, 14 Nov 2026.
+Radio Slave is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Spotlight, Los Angeles on Sat, 14 Nov 2026.
 
 Radio Slave is a house and techno artist based in United Kingdom, with 141 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 56 more. Often billed alongside Tal Fussman, Anja Schneider and Khadija (DE). Next up: The Spotlight, Los Angeles on Sat 14 Nov.
 
@@ -29,4 +29,4 @@ Radio Slave is a house and techno artist based in United Kingdom, with 141 gigs 
 
 Tal Fussman, Anja Schneider, Khadija (DE)
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/radioslave/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/radioslave/)*

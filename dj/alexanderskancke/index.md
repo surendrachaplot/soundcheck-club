@@ -1,6 +1,6 @@
 # Alexander Skancke
 
-Alexander Skancke is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 14 Nov 2026.
+Alexander Skancke is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 14 Nov 2026.
 
 Alexander Skancke is a house and techno artist based in Norway, with 102 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 30 more. Often billed alongside Henriku, Trent Voyage and Dorian Paic. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 14 Nov.
 
@@ -30,4 +30,4 @@ Alexander Skancke is a house and techno artist based in Norway, with 102 gigs on
 
 Henriku, Trent Voyage, Dorian Paic
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexanderskancke/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexanderskancke/)*

@@ -1,6 +1,6 @@
 # Xcire
 
-Xcire is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Sala Siroco, Madrid on Wed, 18 Nov 2026.
+Xcire is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Sala Siroco, Madrid on Wed, 18 Nov 2026.
 
 Xcire is a techno and club artist based in United States of America, with 21 gigs on soundcheck across Buenos Aires, Madrid, Medellin and Santiago. Often billed alongside Andrés Ov, Gresil and MÄEM. Next up: Sala Siroco, Madrid on Wed 18 Nov.
 
@@ -25,4 +25,4 @@ Xcire is a techno and club artist based in United States of America, with 21 gig
 
 Andrés Ov, Gresil, MÄEM
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xcire/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xcire/)*

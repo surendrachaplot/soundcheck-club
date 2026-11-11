@@ -1,6 +1,6 @@
 # Dave Huismans
 
-Dave Huismans is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at RADION, Amsterdam on Fri, 1 Jan 2027.
+Dave Huismans is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at RADION, Amsterdam on Fri, 1 Jan 2027.
 
 Dave Huismans is a techno and house artist based in Netherlands, with 24 gigs on soundcheck across Amsterdam, Berlin, Brussels and Bucharest and 10 more. Often billed alongside Batu, Mia Koden and Nazar. Next up: RADION, Amsterdam on Fri 1 Jan.
 
@@ -26,4 +26,4 @@ Dave Huismans is a techno and house artist based in Netherlands, with 24 gigs on
 
 Batu, Mia Koden, Nazar
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davehuismans/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davehuismans/)*

@@ -1,6 +1,6 @@
 # Haffenloher
 
-Haffenloher is a Acid and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at ://about blank, Berlin on Fri, 27 Nov 2026.
+Haffenloher is a Acid and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at ://about blank, Berlin on Fri, 27 Nov 2026.
 
 Haffenloher is an acid and trance artist based in Germany, with 8 gigs on soundcheck across Berlin. Often billed alongside calzone150, Apexsion and DJ ritalino. Next up: ://about blank, Berlin on Fri 27 Nov.
 
@@ -24,4 +24,4 @@ Haffenloher is an acid and trance artist based in Germany, with 8 gigs on soundc
 
 calzone150, Apexsion, DJ ritalino
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/haffenloher/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/haffenloher/)*

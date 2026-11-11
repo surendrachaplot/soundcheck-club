@@ -1,8 +1,8 @@
 # Sika Akis
 
-Sika Akis is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Insomnia, Berlin on Sat, 14 Nov 2026.
+Sika Akis is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Insomnia, Berlin on Sat, 14 Nov 2026.
 
-Sika Akis is a techno and tech house artist based in Germany, with 106 gigs on soundcheck across Berlin, Karlsruhe and Prague. Often billed alongside Nat SuPrise, Kaminka Merel and Felidae. Next up: Insomnia, Berlin on Sat 14 Nov.
+Sika Akis is a techno and tech house artist based in Germany, with 107 gigs on soundcheck across Berlin, Karlsruhe and Prague. Often billed alongside Nat SuPrise, Kaminka Merel and Felidae. Next up: Insomnia, Berlin on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Sika Akis is a techno and tech house artist based in Germany, with 106 gigs on s
 | Sat, 14 Nov 2026 | Insomnia | Berlin |
 | Fri, 20 Nov 2026 | Der Weiße Hase | Berlin |
 | Sat, 21 Nov 2026 | Insomnia | Berlin |
+| Sat, 12 Dec 2026 | Beate Uwe | Berlin |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Sika Akis is a techno and tech house artist based in Germany, with 106 gigs on s
 
 Nat SuPrise, Kaminka Merel, Felidae
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sikaakis/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sikaakis/)*

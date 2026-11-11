@@ -1,6 +1,6 @@
 # Lane 8
 
-Lane 8 is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Roxy, Prague on Sat, 5 Dec 2026.
+Lane 8 is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Roxy, Prague on Sat, 5 Dec 2026.
 
 Lane 8 is a house and progressive house artist based in United States of America, with 43 gigs on soundcheck across Amsterdam, Austin, Belfast and Berlin and 18 more. Often billed alongside Sultan + Shepard, Kaskade and Elderbrook. Next up: Roxy, Prague on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Lane 8 is a house and progressive house artist based in United States of America
 
 Sultan + Shepard, Kaskade, Elderbrook
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lane8/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lane8/)*

@@ -1,6 +1,6 @@
 # NUSNOOM
 
-NUSNOOM is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Atdge Seoul, Seoul on Wed, 11 Nov 2026.
+NUSNOOM is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Atdge Seoul, Seoul on Wed, 11 Nov 2026.
 
 NUSNOOM is a techno and house artist based in South Korea, with 107 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Seoul and 2 more. Often billed alongside Stann Lumo, Mars Parck and Marcus L. Next up: Atdge Seoul, Seoul on Wed 11 Nov.
 
@@ -26,4 +26,4 @@ NUSNOOM is a techno and house artist based in South Korea, with 107 gigs on soun
 
 Stann Lumo, Mars Parck, Marcus L
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nusnoom/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nusnoom/)*

@@ -1,6 +1,6 @@
 # Kashpitzky
 
-Kashpitzky is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Cafe Gallery, Tbilisi on Sat, 5 Dec 2026.
+Kashpitzky is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Cafe Gallery, Tbilisi on Sat, 5 Dec 2026.
 
 Kashpitzky is a techno and acid artist, with 34 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Budapest and 8 more. Often billed alongside Shlomi Aber, Linkan Ray and Alexandra (GE). Next up: Cafe Gallery, Tbilisi on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Kashpitzky is a techno and acid artist, with 34 gigs on soundcheck across Amster
 
 Shlomi Aber, Linkan Ray, Alexandra (GE)
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kashpitzky/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kashpitzky/)*

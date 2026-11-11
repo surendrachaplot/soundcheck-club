@@ -1,14 +1,15 @@
 # OLING
 
-OLING is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Lower Third, London on Sat, 28 Nov 2026.
+OLING is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Lower Third, London on Sat, 28 Nov 2026.
 
-OLING is a techno and house artist based in Sweden, with 48 gigs on soundcheck across Copenhagen, Glasgow, Gothenburg and London and 5 more. Often billed alongside Layer J, Molø and Jeremy Olander. Next up: The Lower Third, London on Sat 28 Nov.
+OLING is a techno and house artist based in Sweden, with 49 gigs on soundcheck across Copenhagen, Glasgow, Gothenburg and London and 5 more. Often billed alongside Layer J, Molø and Jeremy Olander. Next up: The Lower Third, London on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | The Lower Third | London |
+| Sat, 5 Dec 2026 | NEU | Stockholm |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ OLING is a techno and house artist based in Sweden, with 48 gigs on soundcheck a
 
 Layer J, Molø, Jeremy Olander
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oling/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oling/)*

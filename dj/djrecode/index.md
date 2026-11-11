@@ -1,6 +1,6 @@
 # DJ Re:Code
 
-DJ Re:Code is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Val’s Lesbian Bar, Philadelphia on Sat, 5 Dec 2026.
+DJ Re:Code is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Val’s Lesbian Bar, Philadelphia on Sat, 5 Dec 2026.
 
 DJ Re:Code is a techno and club artist based in United States of America, with 16 gigs on soundcheck across Los Angeles, New York City, Philadelphia and Washington DC. Often billed alongside TS Julien, America Loves Me and Creep-P. Next up: Val’s Lesbian Bar, Philadelphia on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ DJ Re:Code is a techno and club artist based in United States of America, with 1
 
 TS Julien, America Loves Me, Creep-P
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djrecode/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djrecode/)*

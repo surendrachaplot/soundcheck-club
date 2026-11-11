@@ -1,6 +1,6 @@
 # Babyccino
 
-Babyccino is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Saints of Ingram, Glasgow on Tue, 29 Dec 2026.
+Babyccino is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Saints of Ingram, Glasgow on Tue, 29 Dec 2026.
 
 Babyccino is a house and techno artist based in United Kingdom, with 66 gigs on soundcheck across Aberdeen, Dundee, Edinburgh and Glasgow and 2 more. Often billed alongside McCart, Domenic Cappello and Kairogen. Next up: Saints of Ingram, Glasgow on Tue 29 Dec.
 
@@ -25,4 +25,4 @@ Babyccino is a house and techno artist based in United Kingdom, with 66 gigs on 
 
 McCart, Domenic Cappello, Kairogen
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babyccino/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babyccino/)*

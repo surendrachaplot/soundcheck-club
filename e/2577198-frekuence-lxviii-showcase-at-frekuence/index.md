@@ -1,6 +1,6 @@
-# Frekuence - LXVIII showcase at Frekuence
+# Frekuence — LXVIII showcase at Frekuence
 
-Frekuence - LXVIII showcase on Sat 21 Nov, Tirana. 2 artists: Nani Killa and XVIII. See the line-up on soundcheck.
+Frekuence — LXVIII showcase on Sat 21 Nov, Tirana. 2 artists: Nani Killa and XVIII. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # DJ EBP
 
-DJ EBP is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Doop, Shanghai on Fri, 20 Nov 2026.
+DJ EBP is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Doop, Shanghai on Fri, 20 Nov 2026.
 
 DJ EBP is a techno and trance artist based in China, with 144 gigs on soundcheck across Beijing, Chengdu, Chongqing and Shanghai and 1 more. Often billed alongside chuan, Max Shen and Illsee. Next up: Doop, Shanghai on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ DJ EBP is a techno and trance artist based in China, with 144 gigs on soundcheck
 
 chuan, Max Shen, Illsee
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djebp/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djebp/)*

@@ -1,6 +1,6 @@
 # Anish Kumar at Yes
 
-Anish Kumar at Yes on Sat 30 Jan, Manchester. 1 artist: Anish Kumar. Electronica. See the line-up on soundcheck.
+Anish Kumar at Yes on Sat 30 Jan, Manchester. 1 artist: Anish Kumar. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

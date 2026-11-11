@@ -1,6 +1,6 @@
 # Sala Independance Club
 
-Sala Independance Club is a music venue in Madrid with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "HYBRID: REPLICANT (TECHNO)" on Thu, 12 Nov 2026.
+Sala Independance Club is a music venue in Madrid with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "HYBRID: REPLICANT (TECHNO)" on Thu, 12 Nov 2026.
 
 Sala Independance Club is a music venue in Madrid listed on soundcheck. 5 upcoming gigs, with line-ups including DJ Marta, M.I.XX.I, Margott (EX) and Niotech and 2 more. See dates, start times and who's playing. C. de Atocha, 127, 28012 Madrid.
 
@@ -18,4 +18,4 @@ Sala Independance Club is a music venue in Madrid listed on soundcheck. 5 upcomi
 
 C. de Atocha, 127, 28012 Madrid, Madrid
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-independance-club/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-independance-club/)*

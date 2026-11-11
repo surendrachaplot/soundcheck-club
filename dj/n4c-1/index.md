@@ -1,6 +1,6 @@
 # N4C (1)
 
-N4C (1) is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Comfort Zone, Toronto on Fri, 13 Nov 2026.
+N4C (1) is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Comfort Zone, Toronto on Fri, 13 Nov 2026.
 
 N4C is a techno and progressive house artist based in Italy, with 8 gigs on soundcheck across Amsterdam, Berlin, London and Milan and 1 more. Often billed alongside BL3CKSMITH, ADEZ and Akoriz. Next up: The Comfort Zone, Toronto on Fri 13 Nov.
 
@@ -24,4 +24,4 @@ N4C is a techno and progressive house artist based in Italy, with 8 gigs on soun
 
 BL3CKSMITH, ADEZ, Akoriz
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/n4c-1/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/n4c-1/)*

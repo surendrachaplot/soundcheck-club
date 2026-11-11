@@ -1,6 +1,6 @@
 # Philipp Blecha
 
-Philipp Blecha is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at SASS Music Club, Vienna on Sat, 14 Nov 2026.
+Philipp Blecha is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at SASS Music Club, Vienna on Sat, 14 Nov 2026.
 
 Philipp Blecha is a house and tech house artist based in Austria, with 34 gigs on soundcheck across Vienna. Often billed alongside Thomas Grün, Paul Panther and Veronika Amie. Next up: SASS Music Club, Vienna on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Philipp Blecha is a house and tech house artist based in Austria, with 34 gigs o
 
 Thomas Grün, Paul Panther, Veronika Amie
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/philippblecha/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/philippblecha/)*

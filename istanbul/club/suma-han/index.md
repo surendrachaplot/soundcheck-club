@@ -1,6 +1,6 @@
 # Suma Han
 
-Suma Han is a music venue in Istanbul with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Two Worlds Duality" on Fri, 13 Nov 2026.
+Suma Han is a music venue in Istanbul with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Two Worlds Duality" on Fri, 13 Nov 2026.
 
 Suma Han is a music venue in Istanbul listed on soundcheck. 5 upcoming gigs, with line-ups including 4dali, CHTDEVIL, Dodi Palese and ONI BLVCK and 2 more. See dates, start times and who's playing. Bankalar Cd.Yanıkkapı Sk. No: 3 Karaköy, 34420 Istanbul, Turkey.
 
@@ -18,4 +18,4 @@ Suma Han is a music venue in Istanbul listed on soundcheck. 5 upcoming gigs, wit
 
 Bankalar Cd.Yanıkkapı Sk. No: 3 Karaköy, 34420 Istanbul, Turkey, Istanbul
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/suma-han/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/suma-han/)*

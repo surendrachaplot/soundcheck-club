@@ -1,6 +1,6 @@
 # Mago (US)
 
-Mago (US) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Jade, New York City on Fri, 27 Nov 2026.
+Mago (US) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Jade, New York City on Fri, 27 Nov 2026.
 
 Mago (US) is a house and techno artist based in United States of America, with 17 gigs on soundcheck across New York City. Often billed alongside zorenLo, For Future's Sake and BOJAQ. Next up: Jade, New York City on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Mago (US) is a house and techno artist based in United States of America, with 1
 
 zorenLo, For Future's Sake, BOJAQ
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/magous/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/magous/)*

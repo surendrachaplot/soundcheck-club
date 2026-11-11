@@ -1,8 +1,8 @@
 # misrule
 
-misrule is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Old School House, North on Fri, 13 Nov 2026.
+misrule is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Old School House, North on Fri, 13 Nov 2026.
 
-misrule is a techno and industrial artist, with 6 gigs on soundcheck across Leeds, Manchester and North. Often billed alongside Arkane, Body Snatchers and FERB. Next up: Old School House, North on Fri 13 Nov.
+misrule is a techno and industrial artist based in United Kingdom, with 6 gigs on soundcheck across Leeds, Manchester and North. Often billed alongside Arkane, Body Snatchers and FERB. Next up: Old School House, North on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -22,4 +22,4 @@ misrule is a techno and industrial artist, with 6 gigs on soundcheck across Leed
 
 Arkane, Body Snatchers, FERB
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/misrule/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/misrule/)*

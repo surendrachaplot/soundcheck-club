@@ -1,14 +1,15 @@
 # Jenne
 
-Jenne is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Sameheads, Berlin on Fri, 11 Dec 2026.
+Jenne is a Electronica and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Sameheads, Berlin on Fri, 11 Dec 2026.
 
-Jenne is a techno and house artist based in Germany, with 25 gigs on soundcheck across Berlin, Frankfurt, Freiburg and Mannheim. Often billed alongside SAFA, Dawit Asfaha and Lukas Akata. Next up: Sameheads, Berlin on Fri 11 Dec.
+Jenne is an electronica and techno artist based in Germany, with 26 gigs on soundcheck across Berlin, Frankfurt, Freiburg and Mannheim. Often billed alongside SAFA, Dawit Asfaha and Lukas Akata. Next up: Sameheads, Berlin on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Dec 2026 | Sameheads | Berlin |
+| Fri, 18 Dec 2026 | saasfee*pavillon | Frankfurt |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Jenne is a techno and house artist based in Germany, with 25 gigs on soundcheck 
 
 SAFA, Dawit Asfaha, Lukas Akata
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jenne/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jenne/)*

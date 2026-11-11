@@ -1,6 +1,6 @@
 # Gio.
 
-Gio. is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Secret Location - Vesuvius Area , Naples on Sat, 19 Dec 2026.
+Gio. is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Secret Location - Vesuvius Area , Naples on Sat, 19 Dec 2026.
 
 Gio. is an electronica and techno artist based in Italy, with 19 gigs on soundcheck across Naples and Sydney. Often billed alongside Greta (Ataraxìa), Ilgattoelavolpe and Nicky Macha. Next up: TBA - Secret Location - Vesuvius Area , Naples on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Gio. is an electronica and techno artist based in Italy, with 19 gigs on soundch
 
 Greta (Ataraxìa), Ilgattoelavolpe, Nicky Macha
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gio./)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gio./)*

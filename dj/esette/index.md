@@ -1,6 +1,6 @@
 # Esette
 
-Esette is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Check Confirmation, Calgary on Fri, 4 Dec 2026.
+Esette is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Check Confirmation, Calgary on Fri, 4 Dec 2026.
 
 Esette is a house and techno artist based in Canada, with 21 gigs on soundcheck across Calgary, Seattle and Vancouver. Often billed alongside Rick Sharma, AIDA (CA) and Bingsoo in the club. Next up: TBA - Check Confirmation, Calgary on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Esette is a house and techno artist based in Canada, with 21 gigs on soundcheck 
 
 Rick Sharma, AIDA (CA), Bingsoo in the club
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/esette/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/esette/)*

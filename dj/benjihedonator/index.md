@@ -1,14 +1,15 @@
 # Benji Hedonator
 
-Benji Hedonator is a Progressive House and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at WaterBear Venue, Brighton on Sat, 21 Nov 2026.
+Benji Hedonator is a Progressive House and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at WaterBear Venue, Brighton on Sat, 21 Nov 2026.
 
-Benji Hedonator is a progressive house and trance artist based in United Kingdom, with 10 gigs on soundcheck across Brighton and London. Often billed alongside Bil-Sol, Bollibubbles and DJ Scissher. Next up: WaterBear Venue, Brighton on Sat 21 Nov.
+Benji Hedonator is a progressive house and trance artist based in United Kingdom, with 11 gigs on soundcheck across Brighton and London. Often billed alongside Bil-Sol, Bollibubbles and DJ Scissher. Next up: WaterBear Venue, Brighton on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | WaterBear Venue | Brighton |
+| Fri, 29 Jan 2027 | WaterBear Venue | Brighton |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Benji Hedonator is a progressive house and trance artist based in United Kingdom
 
 Bil-Sol, Bollibubbles, DJ Scissher
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benjihedonator/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benjihedonator/)*

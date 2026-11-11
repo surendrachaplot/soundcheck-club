@@ -1,6 +1,6 @@
 # LIUYANG
 
-LIUYANG is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Pillbox Beijing, Beijing on Fri, 13 Nov 2026.
+LIUYANG is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Pillbox Beijing, Beijing on Fri, 13 Nov 2026.
 
 LIUYANG is a techno and electro artist based in China, with 64 gigs on soundcheck across Amsterdam, Beijing, Chengdu and Chongqing and 8 more. Often billed alongside Shengchou, S.M.S.H and cisco. Next up: Pillbox Beijing, Beijing on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ LIUYANG is a techno and electro artist based in China, with 64 gigs on soundchec
 
 Shengchou, S.M.S.H, cisco (3)
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/liuyang/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/liuyang/)*

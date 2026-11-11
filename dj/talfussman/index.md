@@ -1,6 +1,6 @@
 # Tal Fussman
 
-Tal Fussman is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 5 Dec 2026.
+Tal Fussman is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 5 Dec 2026.
 
 Tal Fussman is a house and techno artist based in Germany, with 113 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 38 more. Often billed alongside Radio Slave, Hard To Tell and Anja Schneider. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Tal Fussman is a house and techno artist based in Germany, with 113 gigs on soun
 
 Radio Slave, Hard To Tell, Anja Schneider
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/talfussman/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/talfussman/)*

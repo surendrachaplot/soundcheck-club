@@ -1,8 +1,8 @@
 # TRIPTYKH
 
-TRIPTYKH is a Techno and Industrial artist with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at E1, London on Fri, 13 Nov 2026.
+TRIPTYKH is a Techno and Industrial artist with 6 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at E1, London on Fri, 13 Nov 2026.
 
-TRIPTYKH is a techno and industrial artist based in United States of America, with 63 gigs on soundcheck across Antwerp, Atlanta, Auckland and Austin and 38 more. Often billed alongside Aiden (DE), Kobosil and O.B.I. (DE). Next up: E1, London on Fri 13 Nov.
+TRIPTYKH is a techno and industrial artist based in United States of America, with 64 gigs on soundcheck across Antwerp, Atlanta, Auckland and Austin and 38 more. Often billed alongside Aiden (DE), Kobosil and O.B.I. (DE). Next up: E1, London on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ TRIPTYKH is a techno and industrial artist based in United States of America, wi
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | E1 | London |
 | Sat, 14 Nov 2026 | WDM | Hannover |
+| Fri, 27 Nov 2026 | Gotec | Karlsruhe |
 | Sat, 28 Nov 2026 | Smolna | Warsaw |
 | Sat, 2 Jan 2027 | Pier 80 Warehouse | San Francisco/Oakland |
 | Sat, 27 Feb 2027 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |
@@ -29,4 +30,4 @@ TRIPTYKH is a techno and industrial artist based in United States of America, wi
 
 Aiden (DE), Kobosil, O.B.I. (DE)
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/triptykh/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/triptykh/)*

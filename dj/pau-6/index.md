@@ -1,14 +1,15 @@
 # PAU (6)
 
-PAU (6) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at MTW, Frankfurt on Fri, 13 Nov 2026.
+PAU (6) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at MTW, Frankfurt on Fri, 13 Nov 2026.
 
-PAU is a techno and trance artist based in Germany, with 43 gigs on soundcheck across Basel, Berlin, Cologne and Frankfurt and 5 more. Often billed alongside Polytoxic, A.T.E.K and DJ Cringey. Next up: MTW, Frankfurt on Fri 13 Nov.
+PAU is a techno and trance artist based in Germany, with 44 gigs on soundcheck across Basel, Berlin, Cologne and Frankfurt and 5 more. Often billed alongside Polytoxic, A.T.E.K and DJ Cringey. Next up: MTW, Frankfurt on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | MTW | Frankfurt |
+| Sat, 19 Dec 2026 | Prince Charles | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ PAU is a techno and trance artist based in Germany, with 43 gigs on soundcheck a
 
 Polytoxic, A.T.E.K, DJ Cringey
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pau-6/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pau-6/)*

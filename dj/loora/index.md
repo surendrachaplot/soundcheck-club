@@ -1,6 +1,6 @@
 # Loora
 
-Loora is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Union Club, Vauxhall, London on Sun, 15 Nov 2026.
+Loora is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Union Club, Vauxhall, London on Sun, 15 Nov 2026.
 
 Loora is a techno and tech house artist based in Brazil, with 31 gigs on soundcheck across London. Often billed alongside Thomas Galbardi, Dhez and Monnay. Next up: Union Club, Vauxhall, London on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Loora is a techno and tech house artist based in Brazil, with 31 gigs on soundch
 
 Thomas Galbardi, Dhez, Monnay
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loora/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loora/)*

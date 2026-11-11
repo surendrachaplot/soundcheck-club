@@ -1,6 +1,6 @@
 # charlie.pxls
 
-charlie.pxls is a Drum & Bass and Psytrance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Slakthuset, Stockholm on Sat, 14 Nov 2026.
+charlie.pxls is a Drum & Bass and Psytrance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Slakthuset, Stockholm on Sat, 14 Nov 2026.
 
 charlie.pxls is a drum & bass and psytrance artist based in Sweden, with 27 gigs on soundcheck across Stockholm. Often billed alongside JNB, rzt and ItsOk. Next up: Slakthuset, Stockholm on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ charlie.pxls is a drum & bass and psytrance artist based in Sweden, with 27 gigs
 
 JNB, rzt, ItsOk
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/charlie.pxls/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/charlie.pxls/)*

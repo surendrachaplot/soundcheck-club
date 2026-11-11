@@ -1,14 +1,14 @@
 # Nevel
 
-Nevel is a Dub Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Electronic Music Division , Rome on Wed, 25 Nov 2026.
+Nevel is a House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Electronic Music Division Rome, Rome on Wed, 25 Nov 2026.
 
-Nevel is a dub techno artist, with 6 gigs on soundcheck across Rome. Often billed alongside DIANA, Filippo Pagni and Guglielmo Bernardini. Next up: TBA - Electronic Music Division , Rome on Wed 25 Nov.
+Nevel is a house artist based in Italy, with 6 gigs on soundcheck across Rome. Often billed alongside DIANA, Filippo Pagni and Guglielmo Bernardini. Next up: Electronic Music Division Rome, Rome on Wed 25 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | TBA - Electronic Music Division  | Rome |
+| Wed, 25 Nov 2026 | Electronic Music Division Rome | Rome |
 
 ## Recently played
 
@@ -22,4 +22,4 @@ Nevel is a dub techno artist, with 6 gigs on soundcheck across Rome. Often bille
 
 DIANA, Filippo Pagni, Guglielmo Bernardini
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nevel/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nevel/)*

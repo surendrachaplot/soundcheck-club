@@ -1,6 +1,6 @@
 # Rulefinn
 
-Rulefinn is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Teranoma Tidepool, Osaka on Fri, 27 Nov 2026.
+Rulefinn is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Teranoma Tidepool, Osaka on Fri, 27 Nov 2026.
 
 Rulefinn is a house and disco artist based in Norway, with 22 gigs on soundcheck across Bergen, Berlin, Norway and Osaka and 4 more. Often billed alongside Skatebård, Atk.141 and House on Sale. Next up: Teranoma Tidepool, Osaka on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Rulefinn is a house and disco artist based in Norway, with 22 gigs on soundcheck
 
 Skatebård, Atk.141, House on Sale
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rulefinn/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rulefinn/)*

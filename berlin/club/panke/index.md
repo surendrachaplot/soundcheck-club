@@ -1,6 +1,6 @@
 # Panke
 
-Panke is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Outside the BigMac, vol 6: November Edition" on Fri, 13 Nov 2026.
+Panke is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Outside the BigMac, vol 6: November Edition" on Fri, 13 Nov 2026.
 
 Panke is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with line-ups including aantz, Amuleto Manuela, AXT and Bacon Chang and 2 more. See dates, start times and who's playing. Gerichtstraße 23, 13347 Berlin.
 
@@ -21,4 +21,4 @@ Panke is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with lin
 
 Gerichtstraße 23, 13347 Berlin, Berlin
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/panke/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/panke/)*

@@ -1,6 +1,6 @@
 # The Great Northern
 
-The Great Northern is a music venue in San Francisco/Oakland with 11 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Maceo Plex - The Great Northern" on Fri, 13 Nov 2026.
+The Great Northern is a music venue in San Francisco/Oakland with 11 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Maceo Plex - The Great Northern" on Fri, 13 Nov 2026.
 
 The Great Northern is a music venue in San Francisco/Oakland listed on soundcheck. 11 upcoming gigs, with line-ups including Alkemiss Erika, ALMAS, Anderson Bourne and Anthony Mansfield and 2 more. See dates, start times and who's playing. 119 Utah St, San Francisco, CA 94103.
 
@@ -23,4 +23,4 @@ The Great Northern is a music venue in San Francisco/Oakland listed on soundchec
 
 119 Utah St, San Francisco, CA 94103, San Francisco/Oakland
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-great-northern/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-great-northern/)*

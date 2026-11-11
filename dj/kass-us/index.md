@@ -1,6 +1,6 @@
 # Kass (US)
 
-Kass (US) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Eagle of Detroit, Detroit on Fri, 13 Nov 2026.
+Kass (US) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Eagle of Detroit, Detroit on Fri, 13 Nov 2026.
 
 Kass (US) is a house and techno artist, with 44 gigs on soundcheck across Detroit, London and Sydney. Often billed alongside Tylr, Loren and Garrison XR. Next up: The Eagle of Detroit, Detroit on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Kass (US) is a house and techno artist, with 44 gigs on soundcheck across Detroi
 
 Tylr, Loren, Garrison XR
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kass-us/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kass-us/)*

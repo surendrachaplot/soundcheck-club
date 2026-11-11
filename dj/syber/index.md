@@ -1,6 +1,6 @@
 # Syber
 
-Syber is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Astoria, Turin on Sat, 21 Nov 2026.
+Syber is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Astoria, Turin on Sat, 21 Nov 2026.
 
 Syber is a techno and trance artist based in Italy, with 13 gigs on soundcheck across Lyon and Turin. Often billed alongside Mirko D'Antò, Whatsthepro and Hellson5. Next up: Astoria, Turin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Syber is a techno and trance artist based in Italy, with 13 gigs on soundcheck a
 
 Mirko D'Antò, Whatsthepro, Hellson5
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/syber/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/syber/)*

@@ -1,6 +1,6 @@
 # Doka
 
-Doka is a music venue in Amsterdam with 10 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Doka Studio x Djoon Paris with Kapela - Karlainthemix - DJ Tracksuit" on Fri, 13 Nov 2026.
+Doka is a music venue in Amsterdam with 10 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Doka Studio x Djoon Paris with Kapela - Karlainthemix - DJ Tracksuit" on Fri, 13 Nov 2026.
 
 Doka is a music venue in Amsterdam listed on soundcheck. 10 upcoming gigs, with line-ups including CTRLZORA, Danilo Plessow, Dj Heartbreak and DJ Tracksuit and 2 more. See dates, start times and who's playing. Wibautstraat 150, 1091 GR Amsterdam, Netherlands.
 
@@ -23,4 +23,4 @@ Doka is a music venue in Amsterdam listed on soundcheck. 10 upcoming gigs, with 
 
 Wibautstraat 150, 1091 GR Amsterdam, Netherlands, Amsterdam
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/doka/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/doka/)*

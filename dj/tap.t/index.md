@@ -1,6 +1,6 @@
 # Tap.T
 
-Tap.T is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Shelter, Seoul on Fri, 13 Nov 2026.
+Tap.T is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Shelter, Seoul on Fri, 13 Nov 2026.
 
 Tap.T is an electro and techno artist based in South Korea, with 18 gigs on soundcheck across Seoul. Often billed alongside AVALON, Honn and X2C. Next up: Shelter, Seoul on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Tap.T is an electro and techno artist based in South Korea, with 18 gigs on soun
 
 AVALON, Honn, X2C (1)
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tap.t/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tap.t/)*

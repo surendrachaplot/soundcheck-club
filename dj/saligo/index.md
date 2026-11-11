@@ -1,6 +1,6 @@
 # Saligo
 
-Saligo is a Techno and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Le Chapiteau - Marseille, Marseille on Sat, 14 Nov 2026.
+Saligo is a Techno and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Le Chapiteau - Marseille, Marseille on Sat, 14 Nov 2026.
 
 Saligo is a techno and breakbeat artist based in France, with 14 gigs on soundcheck across Bordeaux, Marseille, Paris and San Diego and 2 more. Often billed alongside Cannonbar, Neida and 999ADJ. Next up: Le Chapiteau - Marseille, Marseille on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Saligo is a techno and breakbeat artist based in France, with 14 gigs on soundch
 
 Cannonbar, Neida, 999ADJ
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saligo/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saligo/)*

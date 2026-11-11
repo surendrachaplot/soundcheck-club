@@ -1,6 +1,6 @@
 # Bergson Kunstkraftwerk
 
-Bergson Kunstkraftwerk is a music venue in Munich with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. The next is "Silo West with DJ Cringey, DVAID, ENERGY TAPE, GEORGE RADSPORT, TARIA" on Sat, 21 Nov 2026.
+Bergson Kunstkraftwerk is a music venue in Munich with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "Silo West with DJ Cringey, DVAID, ENERGY TAPE, GEORGE RADSPORT, TARIA" on Sat, 21 Nov 2026.
 
 Bergson Kunstkraftwerk is a music venue in Munich listed on soundcheck. 1 upcoming gig, with line-ups including DJ Cringey, DVAID, ENERGY TAPE and TARIA. See dates, start times and who's playing. Am Bergson Kunstkraftwerk 2, 81245 München.
 
@@ -14,4 +14,4 @@ Bergson Kunstkraftwerk is a music venue in Munich listed on soundcheck. 1 upcomi
 
 Am Bergson Kunstkraftwerk 2, 81245 München, Munich
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/bergson-kunstkraftwerk/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/bergson-kunstkraftwerk/)*

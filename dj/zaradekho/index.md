@@ -1,6 +1,6 @@
 # Zara Dekho
 
-Zara Dekho is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Mansions, New York City on Thu, 12 Nov 2026.
+Zara Dekho is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Mansions, New York City on Thu, 12 Nov 2026.
 
 Zara Dekho is a techno and club artist, with 58 gigs on soundcheck across New York City and Toronto. Often billed alongside Dynoman, Bergsonist and JIALING. Next up: Mansions, New York City on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Zara Dekho is a techno and club artist, with 58 gigs on soundcheck across New Yo
 
 Dynoman, Bergsonist, JIALING
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zaradekho/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zaradekho/)*

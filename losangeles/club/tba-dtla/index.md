@@ -1,6 +1,6 @@
 # TBA - DTLA
 
-TBA - DTLA is a music venue in Los Angeles with 15 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Off Record & 14th Door present agraybé, Mehran, and wav.function" on Wed, 11 Nov 2026.
+TBA - DTLA is a music venue in Los Angeles with 15 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Off Record & 14th Door present agraybé, Mehran, and wav.function" on Wed, 11 Nov 2026.
 
 TBA - DTLA is a music venue in Los Angeles listed on soundcheck. 15 upcoming gigs, with line-ups including agraybé, Ali Farahani, AMORAL and BHAOUNCEOUT and 2 more. See dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ TBA - DTLA is a music venue in Los Angeles listed on soundcheck. 15 upcoming gig
 | Sat, 28 Nov 2026 | BRAINCELL LASERTAG | Honeydü, Jake Mora, Nikki Nair |
 | Sat, 28 Nov 2026 | CLOSER x TECHTONIK present THERMAL (Lineup TBA) |  |
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-dtla/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-dtla/)*

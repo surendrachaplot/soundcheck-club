@@ -1,15 +1,14 @@
 # RARA (US)
 
-RARA (US) is a Afro House and Club artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Casa Nube Wynwood, Miami on Sat, 21 Nov 2026.
+RARA (US) is a Afro House and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Casa Nube Wynwood, Miami on Sat, 21 Nov 2026.
 
-RARA (US) is an afro house and club artist based in United States of America, with 31 gigs on soundcheck across Miami and New York City. Often billed alongside v1fro, SATURNSARii and Ale Acosta. Next up: Casa Nube Wynwood, Miami on Sat 21 Nov.
+RARA (US) is an afro house and club artist based in United States of America, with 30 gigs on soundcheck across Miami and New York City. Often billed alongside v1fro, SATURNSARii and Ale Acosta. Next up: Casa Nube Wynwood, Miami on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Casa Nube Wynwood | Miami |
-| Sat, 5 Dec 2026 | Jolene Downtown Miami | Miami |
 
 ## Recently played
 
@@ -26,4 +25,4 @@ RARA (US) is an afro house and club artist based in United States of America, wi
 
 v1fro, SATURNSARii, Ale Acosta
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rara-2/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rara-2/)*

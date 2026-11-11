@@ -1,6 +1,6 @@
 # Pérola Negra Club
 
-Pérola Negra Club is a music venue in Porto with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Fylhas Do Dragão" on Fri, 13 Nov 2026.
+Pérola Negra Club is a music venue in Porto with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Fylhas Do Dragão" on Fri, 13 Nov 2026.
 
 Pérola Negra Club is a music venue in Porto listed on soundcheck. 3 upcoming gigs, with line-ups including ANÍBAL, Celso Fabbri, Coco Maria and Deepneue and 2 more. See dates, start times and who's playing. Rua de Gonçalo Cristóvão 284, 4000-145 Porto, Portugal.
 
@@ -16,4 +16,4 @@ Pérola Negra Club is a music venue in Porto listed on soundcheck. 3 upcoming gi
 
 Rua de Gonçalo Cristóvão 284, 4000-145 Porto, Portugal, Porto
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/porto/club/p-rola-negra-club/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/porto/club/p-rola-negra-club/)*

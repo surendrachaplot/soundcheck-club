@@ -1,8 +1,8 @@
 # Franz Bobel
 
-Franz Bobel is a Downtempo and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Tendermesh Project Space, Berlin on Sun, 22 Nov 2026.
+Franz Bobel is a Downtempo and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Tendermesh Project Space, Berlin on Sun, 22 Nov 2026.
 
-Franz Bobel is a downtempo and house artist, with 7 gigs on soundcheck across Berlin and Lisbon. Often billed alongside Fran Poch, Stockwell and Andrea Ida. Next up: Tendermesh Project Space, Berlin on Sun 22 Nov.
+Franz Bobel is a downtempo and house artist based in Italy, with 7 gigs on soundcheck across Berlin and Lisbon. Often billed alongside Fran Poch, Stockwell and Andrea Ida. Next up: Tendermesh Project Space, Berlin on Sun 22 Nov.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ Franz Bobel is a downtempo and house artist, with 7 gigs on soundcheck across Be
 
 Fran Poch, Stockwell, Andrea Ida
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/franzbobel/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/franzbobel/)*

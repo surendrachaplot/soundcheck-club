@@ -1,14 +1,15 @@
 # Art Department
 
-Art Department is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Sable Miami, Miami on Sat, 14 Nov 2026.
+Art Department is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Sable Miami, Miami on Sat, 14 Nov 2026.
 
-Art Department is a house and techno artist based in Canada, with 41 gigs on soundcheck across Detroit, Geneva, Ibiza and London and 9 more. Often billed alongside Kenny Glasgow, Shaun Reeves and Carl Craig. Next up: Sable Miami, Miami on Sat 14 Nov.
+Art Department is a house and techno artist based in Canada, with 42 gigs on soundcheck across Detroit, Geneva, Ibiza and London and 9 more. Often billed alongside Kenny Glasgow, Shaun Reeves and Carl Craig. Next up: Sable Miami, Miami on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Sable Miami | Miami |
+| Thu, 3 Dec 2026 | Floyd | Miami |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Art Department is a house and techno artist based in Canada, with 41 gigs on sou
 
 Kenny Glasgow, Shaun Reeves, Carl Craig
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/artdepartment/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/artdepartment/)*

@@ -1,6 +1,6 @@
 # Reptant
 
-Reptant is a Electro and Techno artist with 7 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA, Sydney on Sat, 28 Nov 2026.
+Reptant is a Electro and Techno artist with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA, Sydney on Sat, 28 Nov 2026.
 
 Reptant is an electro and techno artist based in Australia, with 158 gigs on soundcheck across Amsterdam, Athens, Barcelona and Bergen and 48 more. Often billed alongside Kia (AU), Miscmeg and Moopie. Next up: TBA, Sydney on Sat 28 Nov.
 
@@ -31,4 +31,4 @@ Reptant is an electro and techno artist based in Australia, with 158 gigs on sou
 
 Kia (AU), Miscmeg, Moopie
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reptant/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reptant/)*

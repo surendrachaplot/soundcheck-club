@@ -1,6 +1,6 @@
 # TBA - CJ Plus Lounge
 
-TBA - CJ Plus Lounge is a music venue in Beijing with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "Natural Flavor - Halloween Party" on Sat, 31 Oct 2026.
+TBA - CJ Plus Lounge is a music venue in Beijing with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "Natural Flavor - Ladies Night (Beijing's Finest Hip-Hop R&B Vibes)" on Sat, 14 Nov 2026.
 
 TBA - CJ Plus Lounge is a music venue in Beijing listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -8,6 +8,6 @@ TBA - CJ Plus Lounge is a music venue in Beijing listed on soundcheck. 1 upcomin
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Natural Flavor - Halloween Party |  |
+| Sat, 14 Nov 2026 | Natural Flavor - Ladies Night (Beijing's Finest Hip-Hop R&B Vibes) |  |
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/beijing/club/tba-cj-plus-lounge/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/beijing/club/tba-cj-plus-lounge/)*

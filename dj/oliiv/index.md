@@ -1,6 +1,6 @@
 # OLIIV
 
-OLIIV is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Arts Factory Byron Bay, Byron Bay on Fri, 1 Jan 2027.
+OLIIV is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Arts Factory Byron Bay, Byron Bay on Fri, 1 Jan 2027.
 
 OLIIV is a house and techno artist based in Australia, with 49 gigs on soundcheck across Byron Bay, Melbourne, Sydney and Utrecht. Often billed alongside Samantha Loveridge, Ben Nott and Cassian. Next up: The Arts Factory Byron Bay, Byron Bay on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ OLIIV is a house and techno artist based in Australia, with 49 gigs on soundchec
 
 Samantha Loveridge, Ben Nott, Cassian
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oliiv/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oliiv/)*

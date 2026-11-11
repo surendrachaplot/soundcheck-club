@@ -1,6 +1,6 @@
 # Lillou
 
-Lillou is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Bar v Krymský, Prague on Sat, 21 Nov 2026.
+Lillou is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Bar v Krymský, Prague on Sat, 21 Nov 2026.
 
 Lillou is a house and minimal artist, with 70 gigs on soundcheck across Prague. Often billed alongside Thomas Tesla, Lucas Hulan and Icarian PB1. Next up: Bar v Krymský, Prague on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Lillou is a house and minimal artist, with 70 gigs on soundcheck across Prague. 
 
 Thomas Tesla, Lucas Hulan, Icarian PB1
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lillou/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lillou/)*

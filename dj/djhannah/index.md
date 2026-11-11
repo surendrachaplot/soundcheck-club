@@ -1,13 +1,14 @@
 # DJ Hannah
 
-DJ Hannah is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Twisted Element, Calgary on Sat, 12 Dec 2026.
+DJ Hannah is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Common/UNDRGRND, Calgary on Fri, 13 Nov 2026.
 
-DJ Hannah is a house and techno artist based in Canada, with 51 gigs on soundcheck across Amsterdam, Berlin, Calgary and Edmonton and 3 more. Often billed alongside Angel Science, INNEZZ and Mark Adam. Next up: Twisted Element, Calgary on Sat 12 Dec.
+DJ Hannah is a house and techno artist based in Canada, with 52 gigs on soundcheck across Amsterdam, Berlin, Calgary and Edmonton and 3 more. Often billed alongside Angel Science, INNEZZ and Mark Adam. Next up: Common/UNDRGRND, Calgary on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | Common/UNDRGRND | Calgary |
 | Sat, 12 Dec 2026 | Twisted Element | Calgary |
 
 ## Recently played
@@ -25,4 +26,4 @@ DJ Hannah is a house and techno artist based in Canada, with 51 gigs on soundche
 
 Angel Science, INNEZZ, Mark Adam
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djhannah/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djhannah/)*

@@ -1,6 +1,6 @@
 # Ylenia Del Giudice
 
-Ylenia Del Giudice is a Deep House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Audioteca, Naples on Sat, 21 Nov 2026.
+Ylenia Del Giudice is a Deep House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Audioteca, Naples on Sat, 21 Nov 2026.
 
 Ylenia Del Giudice is a deep house and disco artist based in Italy, with 8 gigs on soundcheck across Naples and Zurich. Often billed alongside Gigi Testa, Fabrizio Fattore and Gerd Janson. Next up: Audioteca, Naples on Sat 21 Nov.
 
@@ -24,4 +24,4 @@ Ylenia Del Giudice is a deep house and disco artist based in Italy, with 8 gigs 
 
 Gigi Testa, Fabrizio Fattore, Gerd Janson
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yleniadelgiudice/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yleniadelgiudice/)*

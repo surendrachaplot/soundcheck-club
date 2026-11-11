@@ -1,6 +1,6 @@
 # Lana Den
 
-Lana Den is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Groundless Factory, Beijing on Sat, 21 Nov 2026.
+Lana Den is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Groundless Factory, Beijing on Sat, 21 Nov 2026.
 
 Lana Den is a techno and house artist based in Germany, with 32 gigs on soundcheck across Beijing and Chengdu. Often billed alongside Nigls, Weng Weng and Giórgi. Next up: Groundless Factory, Beijing on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Lana Den is a techno and house artist based in Germany, with 32 gigs on soundche
 
 Nigls, Weng Weng, Giórgi
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lanaden/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lanaden/)*

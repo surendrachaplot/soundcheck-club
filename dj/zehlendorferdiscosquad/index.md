@@ -1,6 +1,6 @@
 # Zehlendorfer Disco Squad
 
-Zehlendorfer Disco Squad is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Crack Bellmer, Berlin on Sat, 19 Dec 2026.
+Zehlendorfer Disco Squad is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Crack Bellmer, Berlin on Sat, 19 Dec 2026.
 
 Zehlendorfer Disco Squad is a house and techno artist based in Germany, with 40 gigs on soundcheck across Berlin. Often billed alongside Shimanski, Fonkituur and plattenpunani. Next up: Crack Bellmer, Berlin on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Zehlendorfer Disco Squad is a house and techno artist based in Germany, with 40 
 
 Shimanski, Fonkituur, plattenpunani
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zehlendorferdiscosquad/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zehlendorferdiscosquad/)*

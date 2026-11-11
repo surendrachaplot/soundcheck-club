@@ -1,6 +1,6 @@
 # ITEM9
 
-ITEM9 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Nice N Sleazy, Glasgow on Sat, 19 Dec 2026.
+ITEM9 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Nice N Sleazy, Glasgow on Sat, 19 Dec 2026.
 
 ITEM9 is a techno and house artist based in United Kingdom, with 11 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside SunēX, Frank Grime and TiLA. Next up: Nice N Sleazy, Glasgow on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ ITEM9 is a techno and house artist based in United Kingdom, with 11 gigs on soun
 
 SunēX, Frank Grime, TiLA
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/item9/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/item9/)*

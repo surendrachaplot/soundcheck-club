@@ -1,6 +1,6 @@
 # Squirrel Hill Sports Bar
 
-Squirrel Hill Sports Bar is a music venue in Pittsburgh with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "Harder Heros" on Sat, 24 Oct 2026.
+Squirrel Hill Sports Bar is a music venue in Pittsburgh with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "Fever" on Sat, 14 Nov 2026.
 
 Squirrel Hill Sports Bar is a music venue in Pittsburgh listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -8,6 +8,6 @@ Squirrel Hill Sports Bar is a music venue in Pittsburgh listed on soundcheck. 1 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Harder Heros |  |
+| Sat, 14 Nov 2026 | Fever |  |
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/pittsburgh/club/squirrel-hill-sports-bar/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/pittsburgh/club/squirrel-hill-sports-bar/)*

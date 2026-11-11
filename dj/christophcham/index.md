@@ -1,6 +1,6 @@
 # Christoph Cham
 
-Christoph Cham is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Dear Darling, London on Sat, 21 Nov 2026.
+Christoph Cham is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Dear Darling, London on Sat, 21 Nov 2026.
 
 Christoph Cham is a techno and house artist based in United States of America, with 13 gigs on soundcheck across Amsterdam, London and Utrecht. Often billed alongside VITTAO, LGNA and ilse dorine. Next up: Dear Darling, London on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Christoph Cham is a techno and house artist based in United States of America, w
 
 VITTAO, LGNA, ilse dorine
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/christophcham/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/christophcham/)*

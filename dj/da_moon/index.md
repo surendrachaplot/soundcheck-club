@@ -1,6 +1,6 @@
 # Da Moon
 
-Da Moon is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Bukanyr Boat, Prague on Fri, 20 Nov 2026.
+Da Moon is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Bukanyr Boat, Prague on Fri, 20 Nov 2026.
 
 Da Moon is a house and techno artist based in Czech Republic, with 40 gigs on soundcheck across Prague. Often billed alongside Cubik, Filburt and Thomas Tesla. Next up: Bukanyr Boat, Prague on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Da Moon is a house and techno artist based in Czech Republic, with 40 gigs on so
 
 Cubik, Filburt, Thomas Tesla
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/da_moon/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/da_moon/)*

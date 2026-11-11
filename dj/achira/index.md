@@ -1,6 +1,6 @@
 # ACHIRĀ
 
-ACHIRĀ is a Experimental and Club artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Strange Field, Glasgow on Fri, 11 Dec 2026.
+ACHIRĀ is a Experimental and Club artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Strange Field, Glasgow on Fri, 11 Dec 2026.
 
 ACHIRĀ is an experimental and club artist based in Italy, with 12 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside CU-SITH, slyn and Rahul.mp3. Next up: Strange Field, Glasgow on Fri 11 Dec.
 
@@ -27,4 +27,4 @@ ACHIRĀ is an experimental and club artist based in Italy, with 12 gigs on sound
 
 CU-SITH, slyn, Rahul.mp3
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/achira/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/achira/)*

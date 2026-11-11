@@ -1,6 +1,6 @@
 # Artheater
 
-Artheater is a music venue in Cologne with 9 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "ELFTER em ELFTEN - Bouncy Fastelovend" on Wed, 11 Nov 2026.
+Artheater is a music venue in Cologne with 9 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "ELFTER em ELFTEN - Bouncy Fastelovend" on Wed, 11 Nov 2026.
 
 Artheater is a music venue in Cologne listed on soundcheck. 9 upcoming gigs, with line-ups including 909 RACING TEAM, alleira, anyka and Aw508 and 2 more. See dates, start times and who's playing. Ehrenfeldgürtel 127; 50823 Cologne; Germany.
 
@@ -22,4 +22,4 @@ Artheater is a music venue in Cologne listed on soundcheck. 9 upcoming gigs, wit
 
 Ehrenfeldgürtel 127; 50823 Cologne; Germany, Cologne
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/artheater/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/artheater/)*

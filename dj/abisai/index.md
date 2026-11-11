@@ -1,6 +1,6 @@
 # Abisai
 
-Abisai is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA, Chicago on Sat, 14 Nov 2026.
+Abisai is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA, Chicago on Sat, 14 Nov 2026.
 
 Abisai is a techno and minimal techno artist based in United States of America, with 9 gigs on soundcheck across Chicago. Often billed alongside Valentina Cappellari, 1morning and Brenda. Next up: TBA, Chicago on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Abisai is a techno and minimal techno artist based in United States of America, 
 
 Valentina Cappellari, 1morning, Brenda
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/abisai/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/abisai/)*

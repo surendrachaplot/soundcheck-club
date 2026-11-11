@@ -1,6 +1,6 @@
 # Natch
 
-Natch is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Haus von Klaus, Zurich on Sat, 21 Nov 2026.
+Natch is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Haus von Klaus, Zurich on Sat, 21 Nov 2026.
 
 Natch is a techno and house artist based in Spain, with 49 gigs on soundcheck across Berlin, Madrid and Zurich. Often billed alongside Ruben Coslada, ACID FLORA and Animal Trainer. Next up: Haus von Klaus, Zurich on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Natch is a techno and house artist based in Spain, with 49 gigs on soundcheck ac
 
 Ruben Coslada, ACID FLORA, Animal Trainer
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/natch/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/natch/)*

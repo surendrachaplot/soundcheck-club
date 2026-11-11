@@ -1,6 +1,6 @@
 # Marcus Worgull
 
-Marcus Worgull is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Gewölbe, Cologne on Thu, 31 Dec 2026.
+Marcus Worgull is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Gewölbe, Cologne on Thu, 31 Dec 2026.
 
 Marcus Worgull is a techno and house artist based in Germany, with 38 gigs on soundcheck across Berlin, Cologne, Ibiza and Istanbul and 5 more. Often billed alongside Barnt, Recondite and Auggië. Next up: Gewölbe, Cologne on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Marcus Worgull is a techno and house artist based in Germany, with 38 gigs on so
 
 Barnt, Recondite, Auggië
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcusworgull/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcusworgull/)*

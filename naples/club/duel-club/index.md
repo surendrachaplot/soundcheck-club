@@ -1,6 +1,6 @@
 # Duel Club
 
-Duel Club is a music venue in Naples with 10 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "People in da House // Faktory with ALISHA // Anitë // Michele Lopardo" on Fri, 13 Nov 2026.
+Duel Club is a music venue in Naples with 10 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "People in da House // Faktory with ALISHA // Anitë // Michele Lopardo" on Fri, 13 Nov 2026.
 
 Duel Club is a music venue in Naples listed on soundcheck. 10 upcoming gigs, with line-ups including Alex Bohemien, ALISHA, Anitë and Broosk and 2 more. See dates, start times and who's playing. Via Antiniana 2/a, 80078 Pozzuoli, Napoli, Italy.
 
@@ -23,4 +23,4 @@ Duel Club is a music venue in Naples listed on soundcheck. 10 upcoming gigs, wit
 
 Via Antiniana 2/a, 80078 Pozzuoli, Napoli, Italy, Naples
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/naples/club/duel-club/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/naples/club/duel-club/)*

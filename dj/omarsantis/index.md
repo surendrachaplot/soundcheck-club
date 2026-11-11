@@ -1,6 +1,6 @@
 # Omar Santis
 
-Omar Santis is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Oath, Tokyo on Thu, 12 Nov 2026.
+Omar Santis is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Oath, Tokyo on Thu, 12 Nov 2026.
 
 Omar Santis is a house and hip-hop artist based in Sweden, with 100 gigs on soundcheck across Tokyo. Often billed alongside Ren Yokoi, TAIKI and Andre McLeod. Next up: Oath, Tokyo on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Omar Santis is a house and hip-hop artist based in Sweden, with 100 gigs on soun
 
 Ren Yokoi, TAIKI, Andre McLeod
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/omarsantis/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/omarsantis/)*

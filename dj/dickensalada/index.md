@@ -1,6 +1,6 @@
 # Dick Ensalada
 
-Dick Ensalada is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Catch One, Los Angeles on Wed, 25 Nov 2026.
+Dick Ensalada is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Catch One, Los Angeles on Wed, 25 Nov 2026.
 
 Dick Ensalada is a house and disco artist based in United States of America, with 21 gigs on soundcheck across Los Angeles. Often billed alongside Heidi Lawden, Masha Mar and Capes. Next up: Catch One, Los Angeles on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ Dick Ensalada is a house and disco artist based in United States of America, wit
 
 Heidi Lawden, Masha Mar, Capes
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dickensalada/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dickensalada/)*

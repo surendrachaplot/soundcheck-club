@@ -1,6 +1,6 @@
 # GROOVE NIGHT: FIFI RAVE X SCHRÖDINGERS GROOVE at FLUCC
 
-GROOVE NIGHT: FIFI RAVE X SCHRÖDINGERS GROOVE at FLUCC on Sat 14 Nov, Vienna. 3 artists: Farbod, Rui de Janeiro and Scheibenwischer. Techno. See the line-up on soundcheck.
+GROOVE NIGHT: FIFI RAVE X SCHRÖDINGERS GROOVE at FLUCC on Sat 14 Nov, Vienna. 4 artists: ADAM19, Farbod, Rui de Janeiro and Scheibenwischer. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ GROOVE NIGHT: FIFI RAVE X SCHRÖDINGERS GROOVE at FLUCC on Sat 14 Nov, Vienna. 3
 
 ## Line-up
 
+- ADAM19
 - Farbod
 - Rui de Janeiro
 - Scheibenwischer

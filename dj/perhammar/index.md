@@ -1,8 +1,8 @@
 # Per Hammar
 
-Per Hammar is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at B2 Rīga, Riga on Fri, 13 Nov 2026.
+Per Hammar is a Minimal and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at B2 Rīga, Riga on Fri, 13 Nov 2026.
 
-Per Hammar is a minimal and house artist based in Sweden, with 123 gigs on soundcheck across Amsterdam, Auckland, Austin and Bangkok and 46 more. Often billed alongside Olga Korol, Pentti Igor and TINDRA. Next up: B2 Rīga, Riga on Fri 13 Nov.
+Per Hammar is a minimal and house artist based in Sweden, with 124 gigs on soundcheck across Amsterdam, Auckland, Austin and Bangkok and 46 more. Often billed alongside Olga Korol, Pentti Igor and TINDRA. Next up: B2 Rīga, Riga on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Per Hammar is a minimal and house artist based in Sweden, with 123 gigs on sound
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | B2 Rīga | Riga |
 | Sat, 21 Nov 2026 | Kater | Berlin |
+| Fri, 11 Dec 2026 | NEU | Stockholm |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Per Hammar is a minimal and house artist based in Sweden, with 123 gigs on sound
 
 Olga Korol, Pentti Igor, TINDRA
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/perhammar/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/perhammar/)*

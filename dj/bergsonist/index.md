@@ -1,6 +1,6 @@
 # Bergsonist
 
-Bergsonist is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Biltmore Cabaret, Vancouver on Fri, 11 Dec 2026.
+Bergsonist is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Biltmore Cabaret, Vancouver on Fri, 11 Dec 2026.
 
 Bergsonist is a techno and house artist based in Morocco, with 47 gigs on soundcheck across Amsterdam, Bergen, Bologna and Los Angeles and 7 more. Often billed alongside Relaxer, Shyboi and Zara Dekho. Next up: Biltmore Cabaret, Vancouver on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Bergsonist is a techno and house artist based in Morocco, with 47 gigs on soundc
 
 Relaxer, Shyboi, Zara Dekho
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bergsonist/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bergsonist/)*

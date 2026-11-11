@@ -1,8 +1,8 @@
 # Byron Yeates
 
-Byron Yeates is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at KitKatClub, Berlin on Fri, 13 Nov 2026.
+Byron Yeates is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at KitKatClub, Berlin on Fri, 13 Nov 2026.
 
-Byron Yeates is a house and techno artist, with 215 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 55 more. Often billed alongside THC, DHC and Angel D'lite. Next up: KitKatClub, Berlin on Fri 13 Nov.
+Byron Yeates is a techno and house artist, with 216 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 55 more. Often billed alongside THC, DHC and Angel D'lite. Next up: KitKatClub, Berlin on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Byron Yeates is a house and techno artist, with 215 gigs on soundcheck across Am
 | Sat, 21 Nov 2026 | BRET | Amsterdam |
 | Fri, 27 Nov 2026 | KREUZWERK | Berlin |
 | Fri, 27 Nov 2026 | Tokonoma Club | Frankfurt |
+| Thu, 31 Dec 2026 | essaim | Paris |
 | Fri, 1 Jan 2027 | CLUB RAUM | Amsterdam |
 
 ## Recently played
@@ -30,4 +31,4 @@ Byron Yeates is a house and techno artist, with 215 gigs on soundcheck across Am
 
 THC, DHC, Angel D'lite
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/byronyeates/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/byronyeates/)*

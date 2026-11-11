@@ -1,6 +1,6 @@
 # Kato
 
-Kato is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Club 77, Sydney on Sat, 21 Nov 2026.
+Kato is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Club 77, Sydney on Sat, 21 Nov 2026.
 
 Kato is a techno and house artist based in Australia, with 143 gigs on soundcheck across Berlin, Melbourne, Mexico City and Sydney and 1 more. Often billed alongside Simon Caldwell, Reenie and Estée Louder. Next up: Club 77, Sydney on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Kato is a techno and house artist based in Australia, with 143 gigs on soundchec
 
 Simon Caldwell, Reenie, Estée Louder
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kato/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kato/)*

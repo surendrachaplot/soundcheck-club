@@ -1,6 +1,6 @@
 # Litha
 
-Litha is a Techno and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Купе / Kupe, Sofia on Sat, 14 Nov 2026.
+Litha is a Techno and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Купе / Kupe, Sofia on Sat, 14 Nov 2026.
 
 Litha is a techno and drum & bass artist based in Bulgaria, with 4 gigs on soundcheck across Los Angeles and Sofia. Often billed alongside LPG, TATT BLOSSOM and AMY (BG). Next up: Купе / Kupe, Sofia on Sat 14 Nov.
 
@@ -20,4 +20,4 @@ Litha is a techno and drum & bass artist based in Bulgaria, with 4 gigs on sound
 
 LPG (2), TATT BLOSSOM, AMY (BG)
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/litha/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/litha/)*

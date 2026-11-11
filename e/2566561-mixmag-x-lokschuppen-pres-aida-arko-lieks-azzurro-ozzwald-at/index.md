@@ -1,6 +1,6 @@
 # MixMag x Lokschuppen pres. Aida Arko, LIEKS, Azzurro, Ozzwald at Lokschuppen Berlin
 
-MixMag x Lokschuppen pres. Aida Arko, LIEKS, Azzurro, Ozzwald at Lokschuppen Berlin on Fri 27 Nov, Berlin. 8 artists: Aida Arko, Amo (IT), Azzurro and carlo kalu and 4 more. Trance and Techno. See the line-up on soundcheck.
+MixMag x Lokschuppen pres. Aida Arko, LIEKS, Azzurro, Ozzwald at Lokschuppen Berlin on Fri 27 Nov, Berlin. 10 artists: Aida Arko, Amo (IT), Azzurro and carlo kalu and 6 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,8 +15,10 @@ MixMag x Lokschuppen pres. Aida Arko, LIEKS, Azzurro, Ozzwald at Lokschuppen Ber
 - Azzurro
 - carlo kalu
 - Cobb Douglas
+- Joshkabonna
 - LIEKS
 - Ozzwald
+- pavvvvvvlo
 - SOHOE
 
 *Source: [soundcheck](https://soundcheck.club/e/2566561-mixmag-x-lokschuppen-pres-aida-arko-lieks-azzurro-ozzwald-at/)*

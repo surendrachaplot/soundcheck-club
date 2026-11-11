@@ -1,6 +1,6 @@
 # DAEGARI
 
-DAEGARI is a Electro and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Cakeshop, Seoul on Fri, 20 Nov 2026.
+DAEGARI is a Electro and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Cakeshop, Seoul on Fri, 20 Nov 2026.
 
 DAEGARI is an electro and club artist based in South Korea, with 10 gigs on soundcheck across Seoul. Often billed alongside O.od, Hogi and MOHO. Next up: Cakeshop, Seoul on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ DAEGARI is an electro and club artist based in South Korea, with 10 gigs on soun
 
 O.od, Hogi, MOHO (1)
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daegari/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daegari/)*

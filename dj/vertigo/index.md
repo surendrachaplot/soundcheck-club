@@ -1,6 +1,6 @@
 # Vertigo
 
-Vertigo is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Mood Ring, New York City on Sat, 14 Nov 2026.
+Vertigo is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Mood Ring, New York City on Sat, 14 Nov 2026.
 
 Vertigo is a techno and house artist based in United States of America, with 84 gigs on soundcheck across Detroit, New York City, San Francisco/Oakland and Seattle. Often billed alongside bad juuju, Clearcast and Skiis. Next up: Mood Ring, New York City on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Vertigo is a techno and house artist based in United States of America, with 84 
 
 bad juuju, Clearcast, Skiis
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vertigo/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vertigo/)*

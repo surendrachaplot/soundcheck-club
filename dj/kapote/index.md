@@ -1,6 +1,6 @@
 # Kapote
 
-Kapote is a House and Disco artist with 8 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Country Discoclub, Sicily on Sat, 14 Nov 2026.
+Kapote is a House and Disco artist with 8 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Country Discoclub, Sicily on Sat, 14 Nov 2026.
 
 Kapote is a house and disco artist based in Germany, with 242 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bologna and 43 more. Often billed alongside Sam Ruffillo, Gee Lane and Cody Currie. Next up: Country Discoclub, Sicily on Sat 14 Nov.
 
@@ -14,7 +14,7 @@ Kapote is a house and disco artist based in Germany, with 242 gigs on soundcheck
 | Fri, 4 Dec 2026 | Studio1111 | Berlin |
 | Sat, 5 Dec 2026 | Prysm Nightclub | Chicago |
 | Thu, 10 Dec 2026 | Good Room | New York City |
-| Fri, 18 Dec 2026 | TBA - Sendlinger-tor-platz 11, 80336 München | Munich |
+| Fri, 18 Dec 2026 | Dings | Munich |
 | Sat, 2 Jan 2027 | Phonox | London |
 
 ## Recently played
@@ -32,4 +32,4 @@ Kapote is a house and disco artist based in Germany, with 242 gigs on soundcheck
 
 Sam Ruffillo, Gee Lane, Cody Currie
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kapote/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kapote/)*

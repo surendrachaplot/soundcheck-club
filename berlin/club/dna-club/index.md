@@ -1,6 +1,6 @@
 # DNA. CLUB
 
-DNA. CLUB is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "FREE ENTRY: Get-Together: OPEN DECKS - presented by DNA. CLUB" on Fri, 13 Nov 2026.
+DNA. CLUB is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "FREE ENTRY: Get-Together: OPEN DECKS - presented by DNA. CLUB" on Fri, 13 Nov 2026.
 
 DNA. CLUB is a music venue in Berlin listed on soundcheck. 6 upcoming gigs, with line-ups including Blck-Swan, Caren Callas, cell1 and KERT (DE) and 2 more. See dates, start times and who's playing. Adalbertstraße 98, 10999 Berlin.
 
@@ -19,4 +19,4 @@ DNA. CLUB is a music venue in Berlin listed on soundcheck. 6 upcoming gigs, with
 
 Adalbertstraße 98, 10999 Berlin, Berlin
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dna-club/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dna-club/)*

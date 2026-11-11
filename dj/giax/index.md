@@ -1,6 +1,6 @@
 # Giax
 
-Giax is a House and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Zero Club, North on Fri, 13 Nov 2026.
+Giax is a House and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Zero Club, North on Fri, 13 Nov 2026.
 
 Giax is a house and hardcore artist based in Italy, with 9 gigs on soundcheck across Mexico City, Milan and North. Often billed alongside Flaiv Đarkø, FluffeR and ASURA.. Next up: Zero Club, North on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Giax is a house and hardcore artist based in Italy, with 9 gigs on soundcheck ac
 
 Flaiv Đarkø, FluffeR, ASURA.
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giax/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giax/)*

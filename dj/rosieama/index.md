@@ -1,6 +1,6 @@
 # Rosie Ama
 
-Rosie Ama is a House and Post-Punk artist with 7 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Gut Level, Sheffield on Fri, 13 Nov 2026.
+Rosie Ama is a House and Post-Punk artist with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Gut Level, Sheffield on Fri, 13 Nov 2026.
 
 Rosie Ama is a house and post-punk artist based in United Kingdom, with 39 gigs on soundcheck across Amsterdam, Berlin, Bristol and Glasgow and 6 more. Often billed alongside Matt Cowell, Harry James and Ally Tropical. Next up: Gut Level, Sheffield on Fri 13 Nov.
 
@@ -31,4 +31,4 @@ Rosie Ama is a house and post-punk artist based in United Kingdom, with 39 gigs 
 
 Matt Cowell, Harry James, Ally Tropical
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rosieama/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rosieama/)*

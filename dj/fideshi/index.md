@@ -1,6 +1,6 @@
 # Fideshi
 
-Fideshi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Ciało, Wroclaw on Fri, 11 Dec 2026.
+Fideshi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Ciało, Wroclaw on Fri, 11 Dec 2026.
 
 Fideshi is a house and techno artist based in Poland, with 28 gigs on soundcheck across Poznan, Warsaw and Wroclaw. Often billed alongside Easy Audio, Jellin and KinkyOutsider. Next up: Ciało, Wroclaw on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Fideshi is a house and techno artist based in Poland, with 28 gigs on soundcheck
 
 Easy Audio, Jellin, KinkyOutsider
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fideshi/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fideshi/)*

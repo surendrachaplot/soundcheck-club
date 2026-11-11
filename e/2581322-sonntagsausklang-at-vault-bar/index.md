@@ -1,10 +1,10 @@
 # SONNTAGSAUSKLANG at Vault Bar
 
-SONNTAGSAUSKLANG at Vault Bar on Sun 15 Nov, Berlin. 1 artist: vernimoon. House and Minimal. See the line-up on soundcheck.
+SONNTAGSAUSKLANG at Vault Bar on Sun 22 Nov, Berlin. 1 artist: vernimoon. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sun, 15 Nov 2026 |
+| Date | Sun, 22 Nov 2026 |
 | Venue | Vault Bar |
 | City | Berlin |
 

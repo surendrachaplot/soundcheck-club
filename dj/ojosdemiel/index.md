@@ -1,14 +1,15 @@
 # Ojos de miel
 
-Ojos de miel is a Techno and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at KREUZWERK, Berlin on Sat, 5 Dec 2026.
+Ojos de miel is a Techno and Reggaeton artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at KREUZWERK, Berlin on Sat, 5 Dec 2026.
 
-Ojos de miel is a techno and reggaeton artist based in Germany, with 21 gigs on soundcheck across Berlin. Often billed alongside Sub Sahara, DJ Putilla and Aunty Nora. Next up: KREUZWERK, Berlin on Sat 5 Dec.
+Ojos de miel is a techno and reggaeton artist based in Germany, with 22 gigs on soundcheck across Berlin. Often billed alongside Sub Sahara, DJ Putilla and Aunty Nora. Next up: KREUZWERK, Berlin on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | KREUZWERK | Berlin |
+| Sat, 12 Dec 2026 | AMT | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Ojos de miel is a techno and reggaeton artist based in Germany, with 21 gigs on 
 
 Sub Sahara, DJ Putilla, Aunty Nora
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ojosdemiel/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ojosdemiel/)*

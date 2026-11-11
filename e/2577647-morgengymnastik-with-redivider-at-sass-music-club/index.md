@@ -1,6 +1,6 @@
 # Morgengymnastik with Redivider at SASS Music Club
 
-Morgengymnastik with Redivider at SASS Music Club on Sun 15 Nov, Vienna. 2 artists: DJ Deadlift and TEZIBEL. House. See the line-up on soundcheck.
+Morgengymnastik with Redivider at SASS Music Club on Sun 15 Nov, Vienna. 2 artists: Apua and DJ Deadlift. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ Morgengymnastik with Redivider at SASS Music Club on Sun 15 Nov, Vienna. 2 artis
 
 ## Line-up
 
+- Apua
 - DJ Deadlift
-- TEZIBEL
 
 *Source: [soundcheck](https://soundcheck.club/e/2577647-morgengymnastik-with-redivider-at-sass-music-club/)*

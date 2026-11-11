@@ -1,6 +1,6 @@
 # Dj Armi
 
-Dj Armi is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Leysin Ski Resort, Switzerland on Mon, 15 Mar 2027.
+Dj Armi is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Leysin Ski Resort, Switzerland on Mon, 15 Mar 2027.
 
 Dj Armi is a deep house and house artist based in Italy, with 9 gigs on soundcheck across London, Naples and Switzerland. Often billed alongside Davide Del Vecchio, AOB and Alex Attias. Next up: Leysin Ski Resort, Switzerland on Mon 15 Mar.
 
@@ -25,4 +25,4 @@ Dj Armi is a deep house and house artist based in Italy, with 9 gigs on soundche
 
 Davide Del Vecchio, AOB, Alex Attias
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djarmi/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djarmi/)*

@@ -1,8 +1,8 @@
 # Fatima Hajji
 
-Fatima Hajji is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
+Fatima Hajji is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
 
-Fatima Hajji is a techno and house artist based in Spain, with 226 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 78 more. Often billed alongside Alignment, Trym and Shlømo. Next up: Hungexpo Budapest, Budapest on Fri 13 Nov.
+Fatima Hajji is a techno and house artist based in Spain, with 227 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 78 more. Often billed alongside Alignment, Trym and Shlømo. Next up: Hungexpo Budapest, Budapest on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Fatima Hajji is a techno and house artist based in Spain, with 226 gigs on sound
 | Sat, 5 Dec 2026 | Hangar | Belgrade |
 | Sat, 12 Dec 2026 | Pandora Sevilla | South |
 | Sat, 19 Dec 2026 | Pavilhão Carlos Lopes | Lisbon |
+| Sat, 16 Jan 2027 | Fabrik | Madrid |
 
 ## Recently played
 
@@ -31,4 +32,4 @@ Fatima Hajji is a techno and house artist based in Spain, with 226 gigs on sound
 
 Alignment, Trym, Shlømo
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fatimahajji/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fatimahajji/)*

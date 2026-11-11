@@ -1,6 +1,6 @@
 # Andre Torquato
 
-Andre Torquato is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at D-EDGE, Sao Paulo on Sat, 14 Nov 2026.
+Andre Torquato is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at D-EDGE, Sao Paulo on Sat, 14 Nov 2026.
 
 Andre Torquato is a house and tech house artist based in Brazil, with 19 gigs on soundcheck across Sao Paulo. Often billed alongside Adnan Sharif, Cesare vs Disorder and Anderson Noise. Next up: D-EDGE, Sao Paulo on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Andre Torquato is a house and tech house artist based in Brazil, with 19 gigs on
 
 Adnan Sharif, Cesare vs Disorder, Anderson Noise
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andretorquato/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andretorquato/)*

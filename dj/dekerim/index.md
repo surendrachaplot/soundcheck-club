@@ -1,13 +1,14 @@
 # Dekerim
 
-Dekerim is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at MÄX, Zurich on Sat, 21 Nov 2026.
+Dekerim is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Hive Club, Zurich on Thu, 19 Nov 2026.
 
-Dekerim is a techno and trance artist based in Switzerland, with 44 gigs on soundcheck across Basel and Zurich. Often billed alongside Galopp, FALCO and MARCISM. Next up: MÄX, Zurich on Sat 21 Nov.
+Dekerim is a techno and trance artist based in Switzerland, with 45 gigs on soundcheck across Basel and Zurich. Often billed alongside Galopp, FALCO and MARCISM. Next up: Hive Club, Zurich on Thu 19 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 19 Nov 2026 | Hive Club | Zurich |
 | Sat, 21 Nov 2026 | MÄX | Zurich |
 | Fri, 27 Nov 2026 | Hive Club | Zurich |
 
@@ -26,4 +27,4 @@ Dekerim is a techno and trance artist based in Switzerland, with 44 gigs on soun
 
 Galopp, FALCO (2), MARCISM
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dekerim/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dekerim/)*

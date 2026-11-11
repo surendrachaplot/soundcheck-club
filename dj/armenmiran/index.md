@@ -1,6 +1,6 @@
 # Armen Miran
 
-Armen Miran is a Deep House and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Do Not Sit On The Furniture, Miami on Fri, 13 Nov 2026.
+Armen Miran is a Deep House and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Do Not Sit On The Furniture, Miami on Fri, 13 Nov 2026.
 
 Armen Miran is a deep house and progressive house artist based in United States of America, with 87 gigs on soundcheck across Athens, Barcelona, Berlin and Budapest and 29 more. Often billed alongside Nick Warren, Borella and Caleesi. Next up: Do Not Sit On The Furniture, Miami on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Armen Miran is a deep house and progressive house artist based in United States 
 
 Nick Warren, Borella, Caleesi
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/armenmiran/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/armenmiran/)*

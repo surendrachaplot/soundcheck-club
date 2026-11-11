@@ -1,6 +1,6 @@
 # Lea Occhi
 
-Lea Occhi is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Yderlandsvej 1, Copenhagen on Sat, 14 Nov 2026.
+Lea Occhi is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Yderlandsvej 1, Copenhagen on Sat, 14 Nov 2026.
 
 Lea Occhi is a techno and house artist based in France, with 214 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 46 more. Often billed alongside Amotik, Lobster (NL) and Toscan Haas. Next up: Yderlandsvej 1, Copenhagen on Sat 14 Nov.
 
@@ -29,4 +29,4 @@ Lea Occhi is a techno and house artist based in France, with 214 gigs on soundch
 
 Amotik, Lobster (NL), Toscan Haas
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leaocchi/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leaocchi/)*

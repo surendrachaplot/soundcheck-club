@@ -1,6 +1,6 @@
 # Ilya Semashkevich
 
-Ilya Semashkevich is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Sekta Selekta, Krakow on Sat, 14 Nov 2026.
+Ilya Semashkevich is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Sekta Selekta, Krakow on Sat, 14 Nov 2026.
 
 Ilya Semashkevich is a minimal and tech house artist based in Belarus, with 21 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Samogulov, stereometrix and Pridi. Next up: Sekta Selekta, Krakow on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Ilya Semashkevich is a minimal and tech house artist based in Belarus, with 21 g
 
 Samogulov, stereometrix, Pridi
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ilyasemashkevich/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ilyasemashkevich/)*

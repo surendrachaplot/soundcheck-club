@@ -1,14 +1,13 @@
 # Magasin 4
 
-Magasin 4 is a music venue in Brussels with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "BEAU WANZER / J. ZUNZ / ANNELIES MONSERÉ" on Tue, 10 Nov 2026.
+Magasin 4 is a music venue in Brussels with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "TÉLÉDÉTENTE 666 + KRINATOR + DISCO DEGAT" on Fri, 13 Nov 2026.
 
-Magasin 4 is a music venue in Brussels listed on soundcheck. 3 upcoming gigs, with line-ups including Annelies Monseré and Beau Wanzer. See dates, start times and who's playing. Rue de l'entrepôt 7, 1020 BRUSSELS.
+Magasin 4 is a music venue in Brussels listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. Rue de l'entrepôt 7, 1020 BRUSSELS.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 10 Nov 2026 | BEAU WANZER / J. ZUNZ / ANNELIES MONSERÉ | Annelies Monseré, Beau Wanzer |
 | Fri, 13 Nov 2026 | TÉLÉDÉTENTE 666 + KRINATOR + DISCO DEGAT |  |
 | Thu, 19 Nov 2026 | POISON RUÏN + BURNING KROSS + SOLANAS |  |
 
@@ -16,4 +15,4 @@ Magasin 4 is a music venue in Brussels listed on soundcheck. 3 upcoming gigs, wi
 
 Rue de l'entrepôt 7, 1020 BRUSSELS, Brussels
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/magasin-4/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/magasin-4/)*

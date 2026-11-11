@@ -1,6 +1,6 @@
 # seboro
 
-seboro is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Bahnwärter Thiel, Munich on Sat, 28 Nov 2026.
+seboro is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Bahnwärter Thiel, Munich on Sat, 28 Nov 2026.
 
 seboro is a techno and house artist based in Germany, with 32 gigs on soundcheck across Amsterdam, Berlin, Dresden and Dublin and 1 more. Often billed alongside deni_sova, Nocturnal Animals and Ste Flynn. Next up: Bahnwärter Thiel, Munich on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ seboro is a techno and house artist based in Germany, with 32 gigs on soundcheck
 
 deni_sova, Nocturnal Animals, Ste Flynn
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seboro/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seboro/)*

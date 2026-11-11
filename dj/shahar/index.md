@@ -1,6 +1,6 @@
 # Shahar
 
-Shahar is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Refuge, New York City on Sat, 28 Nov 2026.
+Shahar is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Refuge, New York City on Sat, 28 Nov 2026.
 
 Shahar is a house and tech house artist based in United States of America, with 64 gigs on soundcheck across Austin, Boston, London and Los Angeles and 2 more. Often billed alongside Motum, Luquez and James Wyler. Next up: Refuge, New York City on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Shahar is a house and tech house artist based in United States of America, with 
 
 Motum, Luquez, James Wyler
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shahar/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shahar/)*

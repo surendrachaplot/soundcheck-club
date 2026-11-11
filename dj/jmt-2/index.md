@@ -1,6 +1,6 @@
 # JMT (2)
 
-JMT (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Lincoln Factory, Detroit on Fri, 20 Nov 2026.
+JMT (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Lincoln Factory, Detroit on Fri, 20 Nov 2026.
 
 JMT is a house and techno artist based in United States of America, with 83 gigs on soundcheck across Chicago, Denver, Detroit and Glasgow and 1 more. Often billed alongside Fullbodydurag, Disc Jockey George and Duck Trash. Next up: Lincoln Factory, Detroit on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ JMT is a house and techno artist based in United States of America, with 83 gigs
 
 Fullbodydurag, Disc Jockey George, Duck Trash
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jmt-2/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jmt-2/)*

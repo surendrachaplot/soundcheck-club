@@ -1,6 +1,6 @@
 # Capodoglio Murazzi
 
-Capodoglio Murazzi is a music venue in Turin with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Subvrs" on Wed, 18 Nov 2026.
+Capodoglio Murazzi is a music venue in Turin with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Subvrs" on Wed, 18 Nov 2026.
 
 Capodoglio Murazzi is a music venue in Turin listed on soundcheck. 2 upcoming gigs, with line-ups including Emiliano Comollo and Federico Gandin. See dates, start times and who's playing. Turin, 10123 Via Murazzi del Po Gipo Farassino 37.
 
@@ -15,4 +15,4 @@ Capodoglio Murazzi is a music venue in Turin listed on soundcheck. 2 upcoming gi
 
 Turin, 10123 Via Murazzi del Po Gipo Farassino 37, Turin
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/turin/club/capodoglio-murazzi/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/turin/club/capodoglio-murazzi/)*

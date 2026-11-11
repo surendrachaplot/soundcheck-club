@@ -1,6 +1,6 @@
 # W&W
 
-W&W is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Open Beatz Festival, Bavaria on Fri, 23 Jul 2027.
+W&W is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Open Beatz Festival, Bavaria on Fri, 23 Jul 2027.
 
 W&W is a techno and electro artist based in Netherlands, with 9 gigs on soundcheck across Bavaria, Cologne, London and Los Angeles and 3 more. Often billed alongside AVAION, Alesso and Ben Dust. Next up: Open Beatz Festival, Bavaria on Fri 23 Jul.
 
@@ -25,4 +25,4 @@ W&W is a techno and electro artist based in Netherlands, with 9 gigs on soundche
 
 AVAION, Alesso, Ben Dust
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ww/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ww/)*

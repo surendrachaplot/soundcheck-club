@@ -1,6 +1,6 @@
 # Gab Jr.
 
-Gab Jr. is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Cadavra, Madrid on Fri, 20 Nov 2026.
+Gab Jr. is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Cadavra, Madrid on Fri, 20 Nov 2026.
 
 Gab Jr. is a house and minimal artist based in France, with 20 gigs on soundcheck across Barcelona, Berlin, Lisbon and Lyon and 3 more. Often billed alongside Poggio, Automatic Writing and Aline Umber. Next up: Cadavra, Madrid on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Gab Jr. is a house and minimal artist based in France, with 20 gigs on soundchec
 
 Poggio, Automatic Writing, Aline Umber
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabjr/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabjr/)*

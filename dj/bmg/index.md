@@ -1,14 +1,15 @@
 # BMG
 
-BMG is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Nowadays, New York City on Sat, 14 Nov 2026.
+BMG is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Nowadays, New York City on Sat, 14 Nov 2026.
 
-BMG is a techno and acid artist based in United States of America, with 77 gigs on soundcheck across Amsterdam, Berlin, Bristol and Chicago and 20 more. Often billed alongside Erika, Mike Servito and Derek Plaslaiko. Next up: Nowadays, New York City on Sat 14 Nov.
+BMG is a techno and acid artist based in United States of America, with 78 gigs on soundcheck across Amsterdam, Berlin, Bristol and Chicago and 21 more. Often billed alongside Erika, Mike Servito and Derek Plaslaiko. Next up: Nowadays, New York City on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Nowadays | New York City |
+| Wed, 3 Mar 2027 | El Rio Hostel | Colombia |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ BMG is a techno and acid artist based in United States of America, with 77 gigs 
 
 Erika, Mike Servito, Derek Plaslaiko
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bmg/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bmg/)*

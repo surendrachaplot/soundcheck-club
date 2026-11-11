@@ -1,6 +1,6 @@
 # Union (US)
 
-Union (US) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Honey's, New York City on Fri, 13 Nov 2026.
+Union (US) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Honey's, New York City on Fri, 13 Nov 2026.
 
 Union (US) is a house and techno artist based in United States of America, with 23 gigs on soundcheck across Berlin and New York City. Often billed alongside Shameless Deejay, Shameless and Suasimodo. Next up: Honey's, New York City on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Union (US) is a house and techno artist based in United States of America, with 
 
 Shameless Deejay, Shameless, Suasimodo
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/union-us/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/union-us/)*

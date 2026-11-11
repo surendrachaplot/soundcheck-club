@@ -1,8 +1,8 @@
 # 4am Kru
 
-4am Kru is a Jungle and Drum & Bass artist with 9 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Digital, Newcastle on Sat, 14 Nov 2026.
+4am Kru is a Jungle and Drum & Bass artist with 10 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Digital, Newcastle on Sat, 14 Nov 2026.
 
-4am Kru is a jungle and drum & bass artist based in United Kingdom, with 112 gigs on soundcheck across Amsterdam, Auckland, Birmingham and Brighton and 25 more. Often billed alongside Bakey, Sexy Lady Massive and Napes. Next up: Digital, Newcastle on Sat 14 Nov.
+4am Kru is a jungle and drum & bass artist based in United Kingdom, with 113 gigs on soundcheck across Amsterdam, Auckland, Birmingham and Brighton and 25 more. Often billed alongside Bakey, Sexy Lady Massive and Napes. Next up: Digital, Newcastle on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@
 | Sat, 28 Nov 2026 | The Nest | Nottingham |
 | Sat, 28 Nov 2026 | The Nest | Nottingham |
 | Wed, 30 Dec 2026 | TBA - 433 Settlement Road , Kaiwaka, New Zealand 0573 | North-island |
+| Fri, 1 Jan 2027 | Langley Park | Perth |
 | Fri, 8 Jan 2027 | Oxford Art Factory | Sydney |
 | Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 
@@ -33,4 +34,4 @@
 
 Bakey, Sexy Lady Massive, Napes
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/4amkru/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/4amkru/)*

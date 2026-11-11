@@ -1,6 +1,6 @@
 # Anna Kost
 
-Anna Kost is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Greyhound, London on Sat, 28 Nov 2026.
+Anna Kost is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Greyhound, London on Sat, 28 Nov 2026.
 
 Anna Kost is a techno and house artist, with 26 gigs on soundcheck across Amsterdam, Berlin, Geneva and Hamburg and 5 more. Often billed alongside Toni Dextor, Guava and Juri Heidemann. Next up: The Greyhound, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Anna Kost is a techno and house artist, with 26 gigs on soundcheck across Amster
 
 Toni Dextor, Guava, Juri Heidemann
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annakost/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annakost/)*

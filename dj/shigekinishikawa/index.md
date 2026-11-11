@@ -1,6 +1,6 @@
 # SHIGEKI NISHIKAWA
 
-SHIGEKI NISHIKAWA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at ZEROTOKYO, Tokyo on Sat, 28 Nov 2026.
+SHIGEKI NISHIKAWA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at ZEROTOKYO, Tokyo on Sat, 28 Nov 2026.
 
 SHIGEKI NISHIKAWA is a techno and house artist based in Japan, with 17 gigs on soundcheck across Tokyo. Often billed alongside AY, DADO and O.Goo. Next up: ZEROTOKYO, Tokyo on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ SHIGEKI NISHIKAWA is a techno and house artist based in Japan, with 17 gigs on s
 
 AY (10), DADO, O.Goo
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shigekinishikawa/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shigekinishikawa/)*

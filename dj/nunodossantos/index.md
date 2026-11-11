@@ -1,6 +1,6 @@
 # Nuno dos Santos
 
-Nuno dos Santos is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Het Sieraad, Amsterdam on Fri, 20 Nov 2026.
+Nuno dos Santos is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Het Sieraad, Amsterdam on Fri, 20 Nov 2026.
 
 Nuno dos Santos is a house and techno artist based in Netherlands, with 47 gigs on soundcheck across Amsterdam, Berlin, The Hague and Utrecht and 1 more. Often billed alongside Luna Ludmila, Bastienne and Benny Rodrigues. Next up: Het Sieraad, Amsterdam on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Nuno dos Santos is a house and techno artist based in Netherlands, with 47 gigs 
 
 Luna Ludmila, Bastienne, Benny Rodrigues
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nunodossantos/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nunodossantos/)*

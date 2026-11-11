@@ -1,6 +1,6 @@
 # Arch535
 
-Arch535 is a music venue in London with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "UNDERGROUND CONNECTION" on Sat, 28 Nov 2026.
+Arch535 is a music venue in London with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "UNDERGROUND CONNECTION" on Sat, 28 Nov 2026.
 
 Arch535 is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including Ace Shyllon, Brockney C, Colin Dale and Dan Perrin and 2 more. See dates, start times and who's playing. Arch 535, Orphans Yard, Brixton Station Rd, London SW9 8QB.
 
@@ -16,4 +16,4 @@ Arch535 is a music venue in London listed on soundcheck. 3 upcoming gigs, with l
 
 Arch 535, Orphans Yard, Brixton Station Rd, London SW9 8QB, London
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/arch535/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/arch535/)*

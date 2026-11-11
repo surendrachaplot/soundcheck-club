@@ -1,6 +1,6 @@
 # Atiké
 
-Atiké is a Baile Funk and Reggaeton artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Ramona, Manchester on Thu, 12 Nov 2026.
+Atiké is a Baile Funk and Reggaeton artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Ramona, Manchester on Thu, 12 Nov 2026.
 
 Atiké is a baile funk and reggaeton artist based in United Kingdom, with 70 gigs on soundcheck across London, Manchester and Sheffield. Often billed alongside Obeka, Zuri and atalaya. Next up: Ramona, Manchester on Thu 12 Nov.
 
@@ -28,4 +28,4 @@ Atiké is a baile funk and reggaeton artist based in United Kingdom, with 70 gig
 
 Obeka, Zuri, atalaya
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/atike/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/atike/)*

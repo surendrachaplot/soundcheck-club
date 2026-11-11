@@ -1,6 +1,6 @@
 # Faux Naif
 
-Faux Naif is a EBM and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at EXIT Glasgow, Glasgow on Fri, 27 Nov 2026.
+Faux Naif is a EBM and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at EXIT Glasgow, Glasgow on Fri, 27 Nov 2026.
 
 Faux Naif is an ebm and techno artist based in United Kingdom, with 48 gigs on soundcheck across Berlin, Glasgow, London and Manchester and 1 more. Often billed alongside Conor Thomas, Ireen Amnes and Tapefeed. Next up: EXIT Glasgow, Glasgow on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Faux Naif is an ebm and techno artist based in United Kingdom, with 48 gigs on s
 
 Conor Thomas, Ireen Amnes, Tapefeed
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fauxnaif/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fauxnaif/)*

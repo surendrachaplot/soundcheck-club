@@ -1,6 +1,6 @@
 # Kӣr
 
-Kӣr is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Drugstore Beograd, Belgrade on Fri, 13 Nov 2026.
+Kӣr is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Drugstore Beograd, Belgrade on Fri, 13 Nov 2026.
 
 Kӣr is a techno and industrial artist based in Serbia, with 24 gigs on soundcheck across Athens, Belgrade, Ljubljana and Porto and 3 more. Often billed alongside tadi, Asarri and Stevie Whisper. Next up: Drugstore Beograd, Belgrade on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Kӣr is a techno and industrial artist based in Serbia, with 24 gigs on soundche
 
 tadi, Asarri, Stevie Whisper
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/knr/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/knr/)*

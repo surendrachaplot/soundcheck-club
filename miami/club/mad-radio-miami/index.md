@@ -1,6 +1,6 @@
 # Mad Radio Miami
 
-Mad Radio Miami is a music venue in Miami with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "JOIN THE LOCAL SIGNAL ))) My House My Rules: Israel Sunshine" on Wed, 11 Nov 2026.
+Mad Radio Miami is a music venue in Miami with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "JOIN THE LOCAL SIGNAL ))) My House My Rules: Israel Sunshine" on Wed, 11 Nov 2026.
 
 Mad Radio Miami is a music venue in Miami listed on soundcheck. 4 upcoming gigs, with line-ups including ANABELEN, Cali Lanauze, Israel Sunshine and Kev Gee and 2 more. See dates, start times and who's playing. 7700 Biscayne Blvd, Miami, FL 33138.
 
@@ -17,4 +17,4 @@ Mad Radio Miami is a music venue in Miami listed on soundcheck. 4 upcoming gigs,
 
 7700 Biscayne Blvd, Miami, FL 33138, Miami
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/mad-radio-miami/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/mad-radio-miami/)*

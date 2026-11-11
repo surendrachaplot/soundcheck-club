@@ -1,6 +1,6 @@
 # Annika Stein
 
-Annika Stein is a Techno and Pop artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Grelle Forelle, Vienna on Fri, 20 Nov 2026.
+Annika Stein is a Techno and Pop artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Grelle Forelle, Vienna on Fri, 20 Nov 2026.
 
 Annika Stein is a techno and pop artist based in Germany, with 21 gigs on soundcheck across Berlin and Vienna. Often billed alongside Gerald VDH, Mischa Beton and DJ Deadlift. Next up: Grelle Forelle, Vienna on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Annika Stein is a techno and pop artist based in Germany, with 21 gigs on soundc
 
 Gerald VDH, Mischa Beton, DJ Deadlift
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annikastein/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annikastein/)*

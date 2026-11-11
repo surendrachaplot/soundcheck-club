@@ -1,6 +1,6 @@
 # Saloon
 
-Saloon is a music venue in Tokyo with 6 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "JUMADIBA KIBARASHI TOUR FINAL AFTERPARTY. NAMU NIGHT" on Wed, 11 Nov 2026.
+Saloon is a music venue in Tokyo with 6 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "JUMADIBA KIBARASHI TOUR FINAL AFTERPARTY. NAMU NIGHT" on Wed, 11 Nov 2026.
 
 Saloon is a music venue in Tokyo listed on soundcheck. 6 upcoming gigs, with line-ups including AJA, ALPHA, arpxp and Aya ( Human Elements ) and 2 more. See dates, start times and who's playing. 1-34-17 ZA House Bldg B3F, Ebisu-nishi, Shibuya-ku, Tokyo,  Japan.
 
@@ -19,4 +19,4 @@ Saloon is a music venue in Tokyo listed on soundcheck. 6 upcoming gigs, with lin
 
 1-34-17 ZA House Bldg B3F, Ebisu-nishi, Shibuya-ku, Tokyo,  Japan, Tokyo
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/saloon/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/saloon/)*

@@ -1,14 +1,13 @@
 # FVTVR
 
-FVTVR is a music venue in Paris with 7 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Desert Land x Orange Crush invites Shonky, Naomi, Lernon" on Tue, 10 Nov 2026.
+FVTVR is a music venue in Paris with 6 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Fvtvr 001 — LABEL LAUNCH NIGHT" on Fri, 13 Nov 2026.
 
-FVTVR is a music venue in Paris listed on soundcheck. 7 upcoming gigs, with line-ups including Bellaire, Black Loops, Blasha & Allatt and Chami and 2 more. See dates, start times and who's playing. 34 quai d'Austerlitz, 75013 Paris.
+FVTVR is a music venue in Paris listed on soundcheck. 6 upcoming gigs, with line-ups including Bellaire, Black Loops, Blasha & Allatt and Chami and 2 more. See dates, start times and who's playing. 34 quai d'Austerlitz, 75013 Paris.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 10 Nov 2026 | Desert Land x Orange Crush invites Shonky, Naomi, Lernon | Lernon, Naomi (Berlin), Shonky |
 | Fri, 13 Nov 2026 | Fvtvr 001 — LABEL LAUNCH NIGHT | Ignez, Kian Gast, Mathys Lenne, Rebecca Delle Piane, Steve Bicknell, Tau Ceti |
 | Sat, 14 Nov 2026 | TRANSGENIK | Danilo Filipe, GI.O, Lilith, PETERBLUE |
 | Sat, 21 Nov 2026 | LB aka LABAT curated tour w/ Sam Alfred, DJ Fuckoff & LAZE | DJ Fuckoff, LB aka LABAT, Laze, Sam Alfred |
@@ -20,4 +19,4 @@ FVTVR is a music venue in Paris listed on soundcheck. 7 upcoming gigs, with line
 
 34 quai d'Austerlitz, 75013 Paris, Paris
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/fvtvr/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/fvtvr/)*

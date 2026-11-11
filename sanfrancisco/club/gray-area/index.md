@@ -1,6 +1,6 @@
 # Gray Area
 
-Gray Area is a music venue in San Francisco/Oakland with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Neel - Seminars on Sonic Design: Sound as Origin" on Thu, 12 Nov 2026.
+Gray Area is a music venue in San Francisco/Oakland with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Neel - Seminars on Sonic Design: Sound as Origin" on Thu, 12 Nov 2026.
 
 Gray Area is a music venue in San Francisco/Oakland listed on soundcheck. 2 upcoming gigs, with line-ups including Neel, peter nyboer and RMNA. See dates, start times and who's playing. 2665 Mission St; San Francisco, CA 94110; USA.
 
@@ -15,4 +15,4 @@ Gray Area is a music venue in San Francisco/Oakland listed on soundcheck. 2 upco
 
 2665 Mission St; San Francisco, CA 94110; USA, San Francisco/Oakland
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/gray-area/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/gray-area/)*

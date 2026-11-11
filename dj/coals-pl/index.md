@@ -1,6 +1,6 @@
 # Coals
 
-Coals is a Pop and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Botanique, Brussels on Fri, 13 Nov 2026.
+Coals is a Pop and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Botanique, Brussels on Fri, 13 Nov 2026.
 
 Coals is a pop and electronica artist based in Poland, with 5 gigs on soundcheck across Brussels, Poznan, Warsaw and Wroclaw. Often billed alongside Mariola. Next up: Botanique, Brussels on Fri 13 Nov.
 
@@ -21,4 +21,4 @@ Coals is a pop and electronica artist based in Poland, with 5 gigs on soundcheck
 
 Mariola
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/coals-pl/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/coals-pl/)*

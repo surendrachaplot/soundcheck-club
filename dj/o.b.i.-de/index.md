@@ -1,8 +1,8 @@
 # O.B.I. (DE)
 
-O.B.I. (DE) is a Techno and Hardcore artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at MÄX, Zurich on Fri, 13 Nov 2026.
+O.B.I. (DE) is a Techno and Hardcore artist with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at MÄX, Zurich on Fri, 13 Nov 2026.
 
-O.B.I. (DE) is a techno and hardcore artist based in Germany, with 97 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 37 more. Often billed alongside Svetec, Johannes Schuster and TANJA MIJU. Next up: MÄX, Zurich on Fri 13 Nov.
+O.B.I. (DE) is a techno and hardcore artist based in Germany, with 98 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 37 more. Often billed alongside Svetec, Johannes Schuster and TANJA MIJU. Next up: MÄX, Zurich on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ O.B.I. (DE) is a techno and hardcore artist based in Germany, with 97 gigs on so
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | MÄX | Zurich |
 | Fri, 20 Nov 2026 | Fusion Club | Münster |
+| Fri, 4 Dec 2026 | Gotec | Karlsruhe |
 | Sat, 5 Dec 2026 | Zoom Club | Frankfurt |
 | Sat, 2 Jan 2027 | OST | Berlin |
 
@@ -28,4 +29,4 @@ O.B.I. (DE) is a techno and hardcore artist based in Germany, with 97 gigs on so
 
 Svetec, Johannes Schuster, TANJA MIJU
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/o.b.i.-de/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/o.b.i.-de/)*

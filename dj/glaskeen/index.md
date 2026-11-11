@@ -1,14 +1,15 @@
 # Glaskeen
 
-Glaskeen is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Le Petit Salon, Lyon on Fri, 20 Nov 2026.
+Glaskeen is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Le Petit Salon, Lyon on Fri, 20 Nov 2026.
 
-Glaskeen is a techno and hardcore artist based in France, with 6 gigs on soundcheck across Lyon, Paris and Toulouse. Often billed alongside Istigkeit, 2HOT2PLAY and AREA ØNE. Next up: Le Petit Salon, Lyon on Fri 20 Nov.
+Glaskeen is a techno and hardcore artist based in France, with 7 gigs on soundcheck across Lyon, Paris and Toulouse. Often billed alongside Istigkeit, 2HOT2PLAY and AREA ØNE. Next up: Le Petit Salon, Lyon on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Le Petit Salon | Lyon |
+| Thu, 31 Dec 2026 | CCO La Rayonne | Lyon |
 
 ## Recently played
 
@@ -22,4 +23,4 @@ Glaskeen is a techno and hardcore artist based in France, with 6 gigs on soundch
 
 Istigkeit, 2HOT2PLAY, AREA ØNE
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/glaskeen/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/glaskeen/)*

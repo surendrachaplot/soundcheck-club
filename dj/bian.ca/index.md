@@ -1,6 +1,6 @@
 # Bian.ca
 
-Bian.ca is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA, Rio de Janeiro on Fri, 13 Nov 2026.
+Bian.ca is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA, Rio de Janeiro on Fri, 13 Nov 2026.
 
 Bian.ca is a house and techno artist based in Brazil, with 10 gigs on soundcheck across Rio de Janeiro, Sao Paulo and Tokyo. Often billed alongside Capetini, Cauana and Guerrinha. Next up: TBA, Rio de Janeiro on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Bian.ca is a house and techno artist based in Brazil, with 10 gigs on soundcheck
 
 Capetini, Cauana, Guerrinha
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bian.ca/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bian.ca/)*

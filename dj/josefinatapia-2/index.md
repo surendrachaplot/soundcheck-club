@@ -1,6 +1,6 @@
 # Josefina Tapia (2)
 
-Josefina Tapia (2) is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at H0L0, New York City on Sat, 14 Nov 2026.
+Josefina Tapia (2) is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at H0L0, New York City on Sat, 14 Nov 2026.
 
 Josefina Tapia is a house and electro artist based in Chile, with 41 gigs on soundcheck across Berlin, Brussels, Budapest and Copenhagen and 5 more. Often billed alongside Nils Ohrmann, Bambi-S and Clemente (DE). Next up: H0L0, New York City on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Josefina Tapia is a house and electro artist based in Chile, with 41 gigs on sou
 
 Nils Ohrmann, Bambi-S, Clemente (DE)
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/josefinatapia-2/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/josefinatapia-2/)*

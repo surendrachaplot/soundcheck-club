@@ -1,6 +1,6 @@
 # Irena
 
-Irena is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Host, Thessaloniki on Sun, 15 Nov 2026.
+Irena is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Host, Thessaloniki on Sun, 15 Nov 2026.
 
 Irena is a house and deep house artist, with 16 gigs on soundcheck across Athens, Mexico City and Thessaloniki. Often billed alongside YOTA, TONY.ML and AB. Next up: The Host, Thessaloniki on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Irena is a house and deep house artist, with 16 gigs on soundcheck across Athens
 
 YOTA, TONY.ML, AB
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/irena/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/irena/)*

@@ -1,6 +1,6 @@
 # DJ Spen
 
-DJ Spen is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Secret Location - Washington DC, Washington DC on Wed, 25 Nov 2026.
+DJ Spen is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Secret Location - Washington DC, Washington DC on Wed, 25 Nov 2026.
 
 DJ Spen is a house and deep house artist based in United States of America, with 94 gigs on soundcheck across Amsterdam, Baltimore, Chicago and Dallas/Fort Worth and 28 more. Often billed alongside Micfreak, Neil Pierce and sillygirlcarmen. Next up: TBA - Secret Location - Washington DC, Washington DC on Wed 25 Nov.
 
@@ -28,4 +28,4 @@ DJ Spen is a house and deep house artist based in United States of America, with
 
 Micfreak, Neil Pierce, sillygirlcarmen
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djspen/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djspen/)*

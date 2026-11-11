@@ -1,6 +1,6 @@
 # SILK!
 
-SILK! is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Tap1, Copenhagen on Fri, 4 Dec 2026.
+SILK! is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Tap1, Copenhagen on Fri, 4 Dec 2026.
 
 SILK! is a techno and trance artist based in Denmark, with 8 gigs on soundcheck across Copenhagen. Often billed alongside Valentina(DK), avoN and DJ Sandy P. Next up: Tap1, Copenhagen on Fri 4 Dec.
 
@@ -24,4 +24,4 @@ SILK! is a techno and trance artist based in Denmark, with 8 gigs on soundcheck 
 
 Valentina(DK), avoN, DJ Sandy P
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/silk!/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/silk!/)*

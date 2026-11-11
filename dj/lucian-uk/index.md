@@ -1,6 +1,6 @@
 # Lucian (UK)
 
-Lucian (UK) is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Soup, Manchester on Fri, 27 Nov 2026.
+Lucian (UK) is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Soup, Manchester on Fri, 27 Nov 2026.
 
 Lucian (UK) is a club and techno artist based in United Kingdom, with 28 gigs on soundcheck across Amsterdam, Barcelona, Leeds and London and 2 more. Often billed alongside CONE, MBB_ and INH3LL. Next up: Soup, Manchester on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Lucian (UK) is a club and techno artist based in United Kingdom, with 28 gigs on
 
 CONE (2), MBB_, INH3LL
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucian-uk/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucian-uk/)*

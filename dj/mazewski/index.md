@@ -1,8 +1,8 @@
 # Mazewski
 
-Mazewski is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Ciało, Wroclaw on Fri, 13 Nov 2026.
+Mazewski is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Ciało, Wroclaw on Fri, 13 Nov 2026.
 
-Mazewski is a house and bass artist, with 6 gigs on soundcheck across Krakow, Warsaw and Wroclaw. Often billed alongside Hedonist, Spectribe and Glassz. Next up: Ciało, Wroclaw on Fri 13 Nov.
+Mazewski is a house and bass artist based in Poland, with 6 gigs on soundcheck across Krakow, Warsaw and Wroclaw. Often billed alongside Hedonist, Spectribe and Glassz. Next up: Ciało, Wroclaw on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -22,4 +22,4 @@ Mazewski is a house and bass artist, with 6 gigs on soundcheck across Krakow, Wa
 
 Hedonist, Spectribe, Glassz
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mazewski/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mazewski/)*

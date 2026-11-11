@@ -1,6 +1,6 @@
 # lu.wicked
 
-lu.wicked is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Giselle, Düsseldorf on Sat, 14 Nov 2026.
+lu.wicked is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Giselle, Düsseldorf on Sat, 14 Nov 2026.
 
 lu.wicked is a house and techno artist based in Germany, with 34 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Düsseldorf and 3 more. Often billed alongside Vroomfondel, N:in (DE) and Lara Fein. Next up: Giselle, Düsseldorf on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ lu.wicked is a house and techno artist based in Germany, with 34 gigs on soundch
 
 Vroomfondel, N:in (DE), Lara Fein
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lu.wicked/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lu.wicked/)*

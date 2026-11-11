@@ -1,6 +1,6 @@
 # Ksenyeah
 
-Ksenyeah is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at House of Yes, New York City on Sat, 21 Nov 2026.
+Ksenyeah is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at House of Yes, New York City on Sat, 21 Nov 2026.
 
 Ksenyeah is a house and deep house artist based in Ukraine, with 48 gigs on soundcheck across New York City. Often billed alongside Manguito, Van Der Laan and Kate Simko. Next up: House of Yes, New York City on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Ksenyeah is a house and deep house artist based in Ukraine, with 48 gigs on soun
 
 Manguito, Van Der Laan, Kate Simko
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ksenyeah/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ksenyeah/)*

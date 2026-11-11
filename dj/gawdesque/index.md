@@ -1,6 +1,6 @@
 # Gawdesque
 
-Gawdesque is a Club and Kuduro artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Rhiz, Vienna on Sat, 21 Nov 2026.
+Gawdesque is a Club and Kuduro artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Rhiz, Vienna on Sat, 21 Nov 2026.
 
 Gawdesque is a club and kuduro artist based in Austria, with 29 gigs on soundcheck across Bratislava and Vienna. Often billed alongside DJ Lucy Bakanal, zey and মm.. Next up: Rhiz, Vienna on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Gawdesque is a club and kuduro artist based in Austria, with 29 gigs on soundche
 
 DJ Lucy Bakanal, zey, মm.
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gawdesque/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gawdesque/)*

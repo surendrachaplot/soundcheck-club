@@ -1,6 +1,6 @@
 # Jase Jeffery
 
-Jase Jeffery is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The DBA, Manchester on Sat, 12 Dec 2026.
+Jase Jeffery is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The DBA, Manchester on Sat, 12 Dec 2026.
 
 Jase Jeffery is a house and techno artist based in Australia, with 52 gigs on soundcheck across London, Manchester and Sheffield. Often billed alongside David James MCR, Esmé and Aiden Francis. Next up: The DBA, Manchester on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Jase Jeffery is a house and techno artist based in Australia, with 52 gigs on so
 
 David James MCR, Esmé, Aiden Francis
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jasejeffery/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jasejeffery/)*

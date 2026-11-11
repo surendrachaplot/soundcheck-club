@@ -1,6 +1,6 @@
 # Marian Tone
 
-Marian Tone is a House and Funk / Soul artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Studio dB, Berlin on Fri, 13 Nov 2026.
+Marian Tone is a House and Funk / Soul artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Studio dB, Berlin on Fri, 13 Nov 2026.
 
 Marian Tone is a house and funk / soul artist based in Germany, with 32 gigs on soundcheck across Berlin and London. Often billed alongside Paulita, Shahrokh and Tom Kutsche. Next up: Studio dB, Berlin on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Marian Tone is a house and funk / soul artist based in Germany, with 32 gigs on 
 
 Paulita, Shahrokh, Tom Kutsche
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mariantone-de/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mariantone-de/)*

@@ -1,6 +1,6 @@
 # Bull Horris
 
-Bull Horris is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Big Romance, Dublin on Fri, 13 Nov 2026.
+Bull Horris is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Big Romance, Dublin on Fri, 13 Nov 2026.
 
 Bull Horris is a house and progressive house artist based in Ireland, with 41 gigs on soundcheck across Belfast, Berlin, Dublin and London and 1 more. Often billed alongside Tadhg K, Mercorn and Cáit. Next up: The Big Romance, Dublin on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Bull Horris is a house and progressive house artist based in Ireland, with 41 gi
 
 Tadhg K, Mercorn, Cáit
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bullhorris/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bullhorris/)*

@@ -1,6 +1,6 @@
 # Dimuth K
 
-Dimuth K is a Progressive House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at The Manor, Perth on Fri, 13 Nov 2026.
+Dimuth K is a Progressive House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Manor, Perth on Fri, 13 Nov 2026.
 
 Dimuth K is a progressive house and deep house artist, with 27 gigs on soundcheck across Adelaide, Amsterdam, London and Melbourne and 5 more. Often billed alongside Simply City, Kabi and DJ Ruby. Next up: The Manor, Perth on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Dimuth K is a progressive house and deep house artist, with 27 gigs on soundchec
 
 Simply City, Kabi, DJ Ruby
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dimuthk/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dimuthk/)*

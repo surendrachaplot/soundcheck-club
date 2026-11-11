@@ -1,6 +1,6 @@
 # Blue Velvet
 
-Blue Velvet is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "sgnl Launch Party" on Sat, 21 Nov 2026.
+Blue Velvet is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "sgnl Launch Party" on Sat, 21 Nov 2026.
 
 Blue Velvet is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including Dan Haward, GI.O, Headstorm and kichererbsenstampf and 2 more. See dates, start times and who's playing. Sangerhauser Weg 3, 12349 Berlin.
 
@@ -15,4 +15,4 @@ Blue Velvet is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, wi
 
 Sangerhauser Weg 3, 12349 Berlin, Berlin
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/blue-velvet/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/blue-velvet/)*

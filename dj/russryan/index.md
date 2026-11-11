@@ -1,6 +1,6 @@
 # Russ Ryan
 
-Russ Ryan is a Broken Beat and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Carpet Shop, London on Sun, 13 Dec 2026.
+Russ Ryan is a Broken Beat and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Carpet Shop, London on Sun, 13 Dec 2026.
 
 Russ Ryan is a broken beat and funk / soul artist based in United Kingdom, with 13 gigs on soundcheck across London. Often billed alongside DJ Gilla, Children of Zeus and MarshmeLLo. Next up: The Carpet Shop, London on Sun 13 Dec.
 
@@ -25,4 +25,4 @@ Russ Ryan is a broken beat and funk / soul artist based in United Kingdom, with 
 
 DJ Gilla, Children of Zeus, MarshmeLLo
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/russryan/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/russryan/)*

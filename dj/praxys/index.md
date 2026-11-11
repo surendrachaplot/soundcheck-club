@@ -1,6 +1,6 @@
 # Praxys
 
-Praxys is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Video Club, Bogotá on Sat, 14 Nov 2026.
+Praxys is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Video Club, Bogotá on Sat, 14 Nov 2026.
 
 Praxys is a techno and electronica artist based in Colombia, with 14 gigs on soundcheck across Bogotá, Medellin and Miami. Often billed alongside EV-1, Julio Victoria and Lanat. Next up: Video Club, Bogotá on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Praxys is a techno and electronica artist based in Colombia, with 14 gigs on sou
 
 EV-1, Julio Victoria, Lanat
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/praxys/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/praxys/)*

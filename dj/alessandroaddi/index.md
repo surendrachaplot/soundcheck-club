@@ -1,6 +1,6 @@
 # Alessandro Addi
 
-Alessandro Addi is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Circolo degli Illuminati, Rome on Fri, 13 Nov 2026.
+Alessandro Addi is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Circolo degli Illuminati, Rome on Fri, 13 Nov 2026.
 
 Alessandro Addi is a house and tech house artist based in Italy, with 40 gigs on soundcheck across Berlin, Ibiza, London and Milan and 2 more. Often billed alongside Andrea Saba, Francesco Maria and Nic Siena. Next up: Circolo degli Illuminati, Rome on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Alessandro Addi is a house and tech house artist based in Italy, with 40 gigs on
 
 Andrea Saba, Francesco Maria, Nic Siena
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alessandroaddi/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alessandroaddi/)*

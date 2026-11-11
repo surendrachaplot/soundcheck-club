@@ -1,8 +1,8 @@
 # Mad Professor
 
-Mad Professor is a Dub and Bass artist with 6 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at New Century Locker, Manchester on Fri, 13 Nov 2026.
+Mad Professor is a Dub and Bass artist with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at New Century Locker, Manchester on Fri, 13 Nov 2026.
 
-Mad Professor is a dub and bass artist based in United Kingdom, with 78 gigs on soundcheck across Amsterdam, Austria, Bali and Barcelona and 42 more. Often billed alongside DjRUM, Tash LC and Arsenal Mikebe. Next up: New Century Locker, Manchester on Fri 13 Nov.
+Mad Professor is a dub and bass artist based in United Kingdom, with 79 gigs on soundcheck across Amsterdam, Austria, Bali and Barcelona and 43 more. Often billed alongside DjRUM, Tash LC and Arsenal Mikebe. Next up: New Century Locker, Manchester on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Mad Professor is a dub and bass artist based in United Kingdom, with 78 gigs on 
 | Fri, 13 Nov 2026 | New Century Locker | Manchester |
 | Fri, 20 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 21 Nov 2026 | Rocking Chair | Lausanne |
+| Sun, 29 Nov 2026 | Monk Club | Rome |
 | Thu, 4 Mar 2027 | Dom im Berg | Austria |
 | Thu, 22 Jul 2027 | The Garden Tisno | London |
 | Thu, 26 Aug 2027 | The Garden Tisno | Croatia |
@@ -30,4 +31,4 @@ Mad Professor is a dub and bass artist based in United Kingdom, with 78 gigs on 
 
 DjRUM, Tash LC, Arsenal Mikebe
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/madprofessor/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/madprofessor/)*

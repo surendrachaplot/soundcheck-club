@@ -1,6 +1,6 @@
 # AEIDA
 
-AEIDA is a Breakbeat and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at UNDERCITY, Seoul on Fri, 13 Nov 2026.
+AEIDA is a Breakbeat and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at UNDERCITY, Seoul on Fri, 13 Nov 2026.
 
 AEIDA is a breakbeat and garage artist based in South Korea, with 45 gigs on soundcheck across Seoul and Tokyo. Often billed alongside BAAWLA, WEEUN KIM and HASHTAGPOPE. Next up: UNDERCITY, Seoul on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ AEIDA is a breakbeat and garage artist based in South Korea, with 45 gigs on sou
 
 BAAWLA, WEEUN KIM, HASHTAGPOPE
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aeida/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aeida/)*

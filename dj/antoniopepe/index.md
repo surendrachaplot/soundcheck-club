@@ -1,6 +1,6 @@
 # Antonio Pepe
 
-Antonio Pepe is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Common Ground, Naples on Sat, 28 Nov 2026.
+Antonio Pepe is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Common Ground, Naples on Sat, 28 Nov 2026.
 
 Antonio Pepe is a techno and tech house artist based in Italy, with 12 gigs on soundcheck across Ibiza, Medellin, Milan and Naples. Often billed alongside Joseph Capriati, Markantonio and Alarico. Next up: Common Ground, Naples on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Antonio Pepe is a techno and tech house artist based in Italy, with 12 gigs on s
 
 Joseph Capriati, Markantonio, Alarico
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antoniopepe/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antoniopepe/)*

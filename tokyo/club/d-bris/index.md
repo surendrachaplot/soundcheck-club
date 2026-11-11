@@ -1,6 +1,6 @@
 # Débris
 
-Débris is a music venue in Tokyo with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Over Easy" on Wed, 11 Nov 2026.
+Débris is a music venue in Tokyo with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Over Easy" on Wed, 11 Nov 2026.
 
 Débris is a music venue in Tokyo listed on soundcheck. 3 upcoming gigs, with line-ups including fvku, Go Kitahara, MonoGoi and Naoki Fujii and 2 more. See dates, start times and who's playing. Daikanyamacho 11-12, Shibuya-ku, Tokyo, 150-0034 Japan.
 
@@ -16,4 +16,4 @@ Débris is a music venue in Tokyo listed on soundcheck. 3 upcoming gigs, with li
 
 Daikanyamacho 11-12, Shibuya-ku, Tokyo, 150-0034 Japan, Tokyo
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/d-bris/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/d-bris/)*

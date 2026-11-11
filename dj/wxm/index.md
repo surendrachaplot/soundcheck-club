@@ -1,6 +1,6 @@
 # W.X.M
 
-W.X.M is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Pillbox Beijing, Beijing on Fri, 13 Nov 2026.
+W.X.M is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Pillbox Beijing, Beijing on Fri, 13 Nov 2026.
 
 W.X.M is a techno and trance artist based in China, with 123 gigs on soundcheck across Beijing, Shanghai and Shenzhen. Often billed alongside S.M.S.H, SØA and Skögul. Next up: Pillbox Beijing, Beijing on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ W.X.M is a techno and trance artist based in China, with 123 gigs on soundcheck 
 
 S.M.S.H, SØA (1), Skögul
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wxm/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wxm/)*

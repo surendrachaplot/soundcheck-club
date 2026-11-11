@@ -1,6 +1,6 @@
 # AMRTUM
 
-AMRTUM is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at MS Stubnitz, Hamburg on Fri, 27 Nov 2026.
+AMRTUM is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at MS Stubnitz, Hamburg on Fri, 27 Nov 2026.
 
 AMRTUM is a techno and trance artist based in France, with 82 gigs on soundcheck across Antwerp, Beijing, Berlin and Bologna and 26 more. Often billed alongside CAIVA, Kacy and Ephy Pinkman. Next up: MS Stubnitz, Hamburg on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ AMRTUM is a techno and trance artist based in France, with 82 gigs on soundcheck
 
 CAIVA, Kacy, Ephy Pinkman
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/AMRTUM/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/AMRTUM/)*

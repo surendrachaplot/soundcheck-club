@@ -1,6 +1,6 @@
 # Shokh
 
-Shokh is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at The Pickle, Miami on Thu, 3 Dec 2026.
+Shokh is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Pickle, Miami on Thu, 3 Dec 2026.
 
 Shokh is a house and electro artist based in Germany, with 8 gigs on soundcheck across Athens, Berlin, Detroit and Hamburg and 3 more. Often billed alongside Will Renuart, Aura Nox and Danny Daze. Next up: The Pickle, Miami on Thu 3 Dec.
 
@@ -24,4 +24,4 @@ Shokh is a house and electro artist based in Germany, with 8 gigs on soundcheck 
 
 Will Renuart, Aura Nox, Danny Daze
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shokh/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shokh/)*

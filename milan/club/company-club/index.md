@@ -1,6 +1,6 @@
 # Company Club
 
-Company Club is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Synthetica•Saturday morning w/Controilmetodo, Hutchee, Charlie Levan, Wildndrw" on Sat, 14 Nov 2026.
+Company Club is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Synthetica•Saturday morning w/Controilmetodo, Hutchee, Charlie Levan, Wildndrw" on Sat, 14 Nov 2026.
 
 Company Club is a music venue in Milan listed on soundcheck. 2 upcoming gigs, with line-ups including Hutchee, Kaattchu, Protopapa and Wildndrw. See dates, start times and who's playing. Via Benadir 14, 20132 Milano, Italy.
 
@@ -15,4 +15,4 @@ Company Club is a music venue in Milan listed on soundcheck. 2 upcoming gigs, wi
 
 Via Benadir 14, 20132 Milano, Italy, Milan
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/company-club/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/company-club/)*

@@ -1,6 +1,6 @@
 # UHU Bar
 
-UHU Bar is a music venue in Stuttgart with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. The next is "Alchemie.rytm presents Casa Alchemie" on Fri, 13 Nov 2026.
+UHU Bar is a music venue in Stuttgart with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "Alchemie.rytm presents Casa Alchemie" on Fri, 13 Nov 2026.
 
 UHU Bar is a music venue in Stuttgart listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ UHU Bar is a music venue in Stuttgart listed on soundcheck. 1 upcoming gig. See 
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Alchemie.rytm presents Casa Alchemie |  |
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/uhu-bar/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/uhu-bar/)*

@@ -1,6 +1,6 @@
 # Silent Green
 
-Silent Green is a music venue in Berlin with 13 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Sintonia 2026 Attunement II" on Wed, 11 Nov 2026.
+Silent Green is a music venue in Berlin with 13 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Sintonia 2026 Attunement II" on Wed, 11 Nov 2026.
 
 Silent Green is a music venue in Berlin listed on soundcheck. 13 upcoming gigs, with line-ups including Abdullah Miniawy, Babak Ahteshamipour, Cinna Peyghamy and CONTAGIOUS and 2 more. See dates, start times and who's playing. Gerichtstraße 35, 13347 Berlin, Germany.
 
@@ -23,4 +23,4 @@ Silent Green is a music venue in Berlin listed on soundcheck. 13 upcoming gigs, 
 
 Gerichtstraße 35, 13347 Berlin, Germany, Berlin
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/silent-green/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/silent-green/)*

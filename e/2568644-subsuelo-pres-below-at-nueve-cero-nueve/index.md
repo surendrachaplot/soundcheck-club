@@ -1,6 +1,6 @@
 # SUBSUELO pres - BELOW at nueve cero nueve
 
-SUBSUELO pres - BELOW at nueve cero nueve on Fri 13 Nov, Mexico City. 4 artists: Carm1na, Cybebe, Lyo XS and OBTA. Techno and Bass. See the line-up on soundcheck.
+SUBSUELO pres - BELOW at nueve cero nueve on Fri 13 Nov, Mexico City. 5 artists: Buena Tarde, Carm1na, Cybebe and Lyo XS and 1 more. Techno and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ SUBSUELO pres - BELOW at nueve cero nueve on Fri 13 Nov, Mexico City. 4 artists:
 
 ## Line-up
 
+- Buena Tarde
 - Carm1na
 - Cybebe
 - Lyo XS

@@ -1,6 +1,6 @@
 # yeri
 
-yeri is a Electronica and Ambient artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at St Brides Church Liverpool, Liverpool on Fri, 13 Nov 2026.
+yeri is a Electronica and Ambient artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at St Brides Church Liverpool, Liverpool on Fri, 13 Nov 2026.
 
 yeri is an electronica and ambient artist based in United Kingdom, with 9 gigs on soundcheck across Liverpool. Often billed alongside ASAP RICKY, Beat Detective and Benno. Next up: St Brides Church Liverpool, Liverpool on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ yeri is an electronica and ambient artist based in United Kingdom, with 9 gigs o
 
 ASAP RICKY, Beat Detective, Benno
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yeri-uk/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yeri-uk/)*

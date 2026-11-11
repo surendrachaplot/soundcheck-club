@@ -1,6 +1,6 @@
 # Saoirse
 
-Saoirse is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Gate Milano, Milan on Fri, 20 Nov 2026.
+Saoirse is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Gate Milano, Milan on Fri, 20 Nov 2026.
 
 Saoirse is a house and techno artist based in Ireland, with 198 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 46 more. Often billed alongside Mella Dee, Shanti Celeste and Peach. Next up: Gate Milano, Milan on Fri 20 Nov.
 
@@ -31,4 +31,4 @@ Saoirse is a house and techno artist based in Ireland, with 198 gigs on soundche
 
 Mella Dee, Shanti Celeste, Peach
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saoirse/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saoirse/)*

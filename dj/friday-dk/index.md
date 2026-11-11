@@ -1,13 +1,14 @@
 # Frida(y)
 
-Frida(y) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at MODULE, Copenhagen on Sat, 21 Nov 2026.
+Frida(y) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Chateau Motel, Copenhagen on Fri, 13 Nov 2026.
 
-Frida(y) is a techno and house artist based in Denmark, with 9 gigs on soundcheck across Copenhagen. Often billed alongside Anna Logic, Entree and Shaan. Next up: MODULE, Copenhagen on Sat 21 Nov.
+Frida(y) is a techno and house artist based in Denmark, with 10 gigs on soundcheck across Copenhagen. Often billed alongside Anna Logic, Entree and Shaan. Next up: Chateau Motel, Copenhagen on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | Chateau Motel | Copenhagen |
 | Sat, 21 Nov 2026 | MODULE | Copenhagen |
 
 ## Recently played
@@ -25,4 +26,4 @@ Frida(y) is a techno and house artist based in Denmark, with 9 gigs on soundchec
 
 Anna Logic, Entree, Shaan (2)
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/friday-dk/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/friday-dk/)*

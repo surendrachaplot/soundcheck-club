@@ -1,6 +1,6 @@
 # Lady Starlight
 
-Lady Starlight is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Tempio del Futuro Perduto, Milan on Sat, 14 Nov 2026.
+Lady Starlight is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Tempio del Futuro Perduto, Milan on Sat, 14 Nov 2026.
 
 Lady Starlight is a techno and house artist based in United States of America, with 101 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Basel and 41 more. Often billed alongside STERAC, Rødhåd and DVS1. Next up: Tempio del Futuro Perduto, Milan on Sat 14 Nov.
 
@@ -28,4 +28,4 @@ Lady Starlight is a techno and house artist based in United States of America, w
 
 STERAC, Rødhåd, DVS1
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ladystarlight/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ladystarlight/)*

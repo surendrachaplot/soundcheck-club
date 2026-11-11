@@ -1,6 +1,6 @@
 # IVAANA
 
-IVAANA is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Solace, Melbourne on Sat, 14 Nov 2026.
+IVAANA is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Solace, Melbourne on Sat, 14 Nov 2026.
 
 IVAANA is a house and electronica artist based in Australia, with 13 gigs on soundcheck across Melbourne. Often billed alongside DJ Luv You, Baby G and Emelyne. Next up: Solace, Melbourne on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ IVAANA is a house and electronica artist based in Australia, with 13 gigs on sou
 
 DJ Luv You, Baby G, Emelyne
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ivaana/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ivaana/)*

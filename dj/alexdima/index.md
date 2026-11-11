@@ -1,13 +1,14 @@
 # Alex Dima
 
-Alex Dima is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Bunker, Turin on Sat, 14 Nov 2026.
+Alex Dima is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Elsewhere, Bangkok on Fri, 13 Nov 2026.
 
-Alex Dima is a house and techno artist based in Italy, with 112 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 30 more. Often billed alongside Alexia Glensy, Cristian Sarde and Munir Nadir. Next up: Bunker, Turin on Sat 14 Nov.
+Alex Dima is a house and techno artist based in Italy, with 113 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 30 more. Often billed alongside Alexia Glensy, Cristian Sarde and Munir Nadir. Next up: Elsewhere, Bangkok on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | Elsewhere | Bangkok |
 | Sat, 14 Nov 2026 | Bunker | Turin |
 | Sat, 28 Nov 2026 | BRET | Amsterdam |
 | Sat, 28 Nov 2026 | BRET | Amsterdam |
@@ -30,4 +31,4 @@ Alex Dima is a house and techno artist based in Italy, with 112 gigs on soundche
 
 Alexia Glensy, Cristian Sarde, Munir Nadir
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexdima/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexdima/)*

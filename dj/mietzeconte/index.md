@@ -1,6 +1,6 @@
 # Mietze Conte
 
-Mietze Conte is a House and Experimental artist with 7 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Sala El Sol, Madrid on Fri, 13 Nov 2026.
+Mietze Conte is a House and Experimental artist with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Sala El Sol, Madrid on Fri, 13 Nov 2026.
 
 Mietze Conte is a house and experimental artist based in Austria, with 65 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brisbane and 24 more. Often billed alongside 1tbsp, DJ Gigola and Skin On Skin. Next up: Sala El Sol, Madrid on Fri 13 Nov.
 
@@ -31,4 +31,4 @@ Mietze Conte is a house and experimental artist based in Austria, with 65 gigs o
 
 1tbsp, DJ Gigola, Skin On Skin
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mietzeconte/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mietzeconte/)*

@@ -1,6 +1,6 @@
 # Marlon Clark
 
-Marlon Clark is a Minimal and Minimal Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at B-SIDE, Warsaw on Fri, 13 Nov 2026.
+Marlon Clark is a Minimal and Minimal Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at B-SIDE, Warsaw on Fri, 13 Nov 2026.
 
 Marlon Clark is a minimal and minimal techno artist based in United Kingdom, with 12 gigs on soundcheck across Brussels, Copenhagen, Glasgow and Krakow and 6 more. Often billed alongside Dr Banana, Jake Hodgkinson and Amaliah. Next up: B-SIDE, Warsaw on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Marlon Clark is a minimal and minimal techno artist based in United Kingdom, wit
 
 Dr Banana, Jake Hodgkinson, Amaliah
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marlonclark/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marlonclark/)*

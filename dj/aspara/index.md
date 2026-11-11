@@ -1,6 +1,6 @@
 # Aspara
 
-Aspara is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Club Daphnia, Osaka on Fri, 20 Nov 2026.
+Aspara is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Club Daphnia, Osaka on Fri, 20 Nov 2026.
 
 Aspara is a techno and house artist based in Japan, with 41 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside imazutsubasa, Ryogo and ntank. Next up: Club Daphnia, Osaka on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Aspara is a techno and house artist based in Japan, with 41 gigs on soundcheck a
 
 imazutsubasa, Ryogo, ntank
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aspara/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aspara/)*

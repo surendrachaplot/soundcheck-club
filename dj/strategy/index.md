@@ -1,6 +1,6 @@
 # Strategy
 
-Strategy is a Drum & Bass and Bass artist with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at The Vault Perth, Perth on Fri, 13 Nov 2026.
+Strategy is a Drum & Bass and Bass artist with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Vault Perth, Perth on Fri, 13 Nov 2026.
 
 Strategy is a drum & bass and bass artist based in United States of America, with 56 gigs on soundcheck across Auckland, Bristol, Chicago and Christchurch and 12 more. Often billed alongside Rich Reason, Chimpo and T-Man (UK). Next up: The Vault Perth, Perth on Fri 13 Nov.
 
@@ -29,4 +29,4 @@ Strategy is a drum & bass and bass artist based in United States of America, wit
 
 Rich Reason, Chimpo, T-Man (UK)
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/strategy/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/strategy/)*

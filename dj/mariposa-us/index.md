@@ -1,6 +1,6 @@
 # Mariposa
 
-Mariposa is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at elipamanoke, Leipzig on Wed, 11 Nov 2026.
+Mariposa is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at elipamanoke, Leipzig on Wed, 11 Nov 2026.
 
 Mariposa is a house and techno artist based in United States of America, with 66 gigs on soundcheck across Hamburg, Leipzig, New York City and Rotterdam and 1 more. Often billed alongside Perna, Ladiez Drink Free and Drupe Jam. Next up: elipamanoke, Leipzig on Wed 11 Nov.
 
@@ -28,4 +28,4 @@ Mariposa is a house and techno artist based in United States of America, with 66
 
 Perna, Ladiez Drink Free, Drupe Jam
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mariposa-us/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mariposa-us/)*

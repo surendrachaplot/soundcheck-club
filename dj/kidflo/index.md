@@ -1,6 +1,6 @@
 # Kidflo
 
-Kidflo is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Itzel Club, London on Fri, 13 Nov 2026.
+Kidflo is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Itzel Club, London on Fri, 13 Nov 2026.
 
 Kidflo is an afro house and house artist based in United Kingdom, with 17 gigs on soundcheck across London. Often billed alongside DUO (UK), Major League Djz and Anthony P. (CH). Next up: Itzel Club, London on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Kidflo is an afro house and house artist based in United Kingdom, with 17 gigs o
 
 DUO (UK), Major League Djz, Anthony P. (CH)
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kidflo/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kidflo/)*

@@ -1,6 +1,6 @@
 # Ivan Berko
 
-Ivan Berko is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Le Bain, New York City on Fri, 27 Nov 2026.
+Ivan Berko is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Le Bain, New York City on Fri, 27 Nov 2026.
 
 Ivan Berko is a house and disco artist based in United States of America, with 36 gigs on soundcheck across Athens, Berlin, Chicago and Dublin and 5 more. Often billed alongside Budino, JDH & Dave P and Dirty Dave. Next up: Le Bain, New York City on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Ivan Berko is a house and disco artist based in United States of America, with 3
 
 Budino, JDH & Dave P, Dirty Dave
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ivanberko/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ivanberko/)*

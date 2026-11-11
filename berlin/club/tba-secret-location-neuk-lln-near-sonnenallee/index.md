@@ -1,6 +1,6 @@
 # TBA - Secret Location, Neukölln (near Sonnenallee)
 
-TBA - Secret Location, Neukölln (near Sonnenallee) is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. The next is "RITMO3000" on Sat, 28 Nov 2026.
+TBA - Secret Location, Neukölln (near Sonnenallee) is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "RITMO3000" on Sat, 28 Nov 2026.
 
 TBA - Secret Location, Neukölln (near Sonnenallee) is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including Alessandro Adriani, Yoshi (DE), BB Deng and Desolate Discotheque and 2 more. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Secret Location, Neukölln (near Sonnenallee) is a music venue in Berlin l
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | RITMO3000 | Alessandro Adriani, BB Deng, Desolate Discotheque, HYPNOTIC.ERA, Holywanderer, Yoshi (DE) |
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-secret-location-neuk-lln-near-sonnenallee/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-secret-location-neuk-lln-near-sonnenallee/)*

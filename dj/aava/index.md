@@ -1,6 +1,6 @@
 # AAVA
 
-AAVA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Kultura, Belgium on Sat, 12 Dec 2026.
+AAVA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Kultura, Belgium on Sat, 12 Dec 2026.
 
 AAVA is a techno and house artist based in Belgium, with 16 gigs on soundcheck across Barcelona, Belgium, Berlin and Brussels and 1 more. Often billed alongside Cosmokat, Coco and Empro. Next up: Kultura, Belgium on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ AAVA is a techno and house artist based in Belgium, with 16 gigs on soundcheck a
 
 Cosmokat, Coco, Empro
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aava/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aava/)*

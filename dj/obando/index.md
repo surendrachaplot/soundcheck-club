@@ -1,6 +1,6 @@
 # Obando
 
-Obando is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Viuz, Medellin on Fri, 13 Nov 2026.
+Obando is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Viuz, Medellin on Fri, 13 Nov 2026.
 
 Obando is a tech house and house artist based in Colombia, with 71 gigs on soundcheck across Bogotá, Madrid, Medellin and Miami. Often billed alongside Matheo Velez, Raized and Jose M. Next up: Viuz, Medellin on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Obando is a tech house and house artist based in Colombia, with 71 gigs on sound
 
 Matheo Velez, Raized, Jose M
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/obando/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/obando/)*

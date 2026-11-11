@@ -1,6 +1,6 @@
 # Baptiste Coppel
 
-Baptiste Coppel is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Nido Marseille, Marseille on Fri, 18 Dec 2026.
+Baptiste Coppel is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Nido Marseille, Marseille on Fri, 18 Dec 2026.
 
 Baptiste Coppel is an electro and house artist based in France, with 8 gigs on soundcheck across Geneva, Lyon, Marseille and Paris. Often billed alongside Camu, Loctop and Zegaz. Next up: Nido Marseille, Marseille on Fri 18 Dec.
 
@@ -24,4 +24,4 @@ Baptiste Coppel is an electro and house artist based in France, with 8 gigs on s
 
 Camu, Loctop, Zegaz
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baptistecoppel/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baptistecoppel/)*

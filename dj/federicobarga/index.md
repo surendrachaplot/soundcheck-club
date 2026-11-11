@@ -1,6 +1,6 @@
 # Federico Barga
 
-Federico Barga is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Casa Nube Wynwood, Miami on Sat, 21 Nov 2026.
+Federico Barga is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Casa Nube Wynwood, Miami on Sat, 21 Nov 2026.
 
 Federico Barga is a house and deep house artist based in Argentina, with 6 gigs on soundcheck across Miami. Often billed alongside Jessy Nimni, Arweenn and Conosur. Next up: Casa Nube Wynwood, Miami on Sat 21 Nov.
 
@@ -22,4 +22,4 @@ Federico Barga is a house and deep house artist based in Argentina, with 6 gigs 
 
 Jessy Nimni, Arweenn, Conosur
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/federicobarga/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/federicobarga/)*

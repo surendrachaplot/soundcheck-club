@@ -1,6 +1,6 @@
 # EL SÓTANO
 
-EL SÓTANO is a music venue in Madrid with 34 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "SERRA STATION: DIAEN, Ibalero, Kingtana, Same B2B Rods" on Thu, 12 Nov 2026.
+EL SÓTANO is a music venue in Madrid with 34 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "SERRA STATION: DIAEN, Ibalero, Kingtana, Same B2B Rods" on Thu, 12 Nov 2026.
 
 EL SÓTANO is a music venue in Madrid listed on soundcheck. 34 upcoming gigs, with line-ups including Monty, Allisson Nunes, Arok Shiva and Asora and 2 more. See dates, start times and who's playing. Calle de las Maldonadas, 6, 28005 Madrid, España.
 
@@ -23,4 +23,4 @@ EL SÓTANO is a music venue in Madrid listed on soundcheck. 34 upcoming gigs, wi
 
 Calle de las Maldonadas, 6, 28005 Madrid, España, Madrid
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/el-s-tano/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/el-s-tano/)*

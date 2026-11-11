@@ -1,6 +1,6 @@
 # Sriracha Czaddy
 
-Sriracha Czaddy is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Horn, Bangkok on Sat, 21 Nov 2026.
+Sriracha Czaddy is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Horn, Bangkok on Sat, 21 Nov 2026.
 
 Sriracha Czaddy is a techno and club artist based in Thailand, with 50 gigs on soundcheck across Bangkok, Chengdu, Hanoi and Manila and 5 more. Often billed alongside Soup snakeS, Club Mascot and Haus of Ralph. Next up: Horn, Bangkok on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ Sriracha Czaddy is a techno and club artist based in Thailand, with 50 gigs on s
 
 Soup snakeS, Club Mascot, Haus of Ralph
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/srirachaczaddy/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/srirachaczaddy/)*

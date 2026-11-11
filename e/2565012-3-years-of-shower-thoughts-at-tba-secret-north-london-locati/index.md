@@ -1,6 +1,6 @@
 # 3 Years of Shower Thoughts at TBA - Secret North London Location
 
-3 Years of Shower Thoughts at TBA - Secret North London Location on Sat 14 Nov, London. 4 artists: DJ Winggold, Karolli, mixtress and Talayi. Breakbeat and Techno. See the line-up on soundcheck.
+3 Years of Shower Thoughts at TBA - Secret North London Location on Sat 14 Nov, London. 6 artists: DJ Winggold, Karolli, mixtress and SynthEunoia and 2 more. Breakbeat and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,8 @@
 - DJ Winggold
 - Karolli
 - mixtress
+- SynthEunoia
 - Talayi
+- Trunks
 
 *Source: [soundcheck](https://soundcheck.club/e/2565012-3-years-of-shower-thoughts-at-tba-secret-north-london-locati/)*

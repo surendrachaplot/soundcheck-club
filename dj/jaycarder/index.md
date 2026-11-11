@@ -1,6 +1,6 @@
 # Jay Carder
 
-Jay Carder is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Colour Factory, London on Sat, 14 Nov 2026.
+Jay Carder is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Colour Factory, London on Sat, 14 Nov 2026.
 
 Jay Carder is a bass and techno artist based in United Kingdom, with 114 gigs on soundcheck across Aberdeen, Athens, Barcelona and Berlin and 22 more. Often billed alongside Neffa-T, Breaka and Bluetoof. Next up: Colour Factory, London on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Jay Carder is a bass and techno artist based in United Kingdom, with 114 gigs on
 
 Neffa-T, Breaka, Bluetoof
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaycarder/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaycarder/)*

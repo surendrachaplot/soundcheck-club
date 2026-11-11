@@ -1,6 +1,6 @@
 # TV Lounge
 
-TV Lounge is a music venue in Detroit with 8 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "A Big A** Party: Mo Mami & More" on Fri, 13 Nov 2026.
+TV Lounge is a music venue in Detroit with 8 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "A Big A** Party: Mo Mami & More" on Fri, 13 Nov 2026.
 
 TV Lounge is a music venue in Detroit listed on soundcheck. 8 upcoming gigs, with line-ups including Ameera, Disc Jockey George, Dylán Gomez and Eddie Logix and 2 more. See dates, start times and who's playing. 2548 Grand River Avenue; Detroit, MI; United States.
 
@@ -21,4 +21,4 @@ TV Lounge is a music venue in Detroit listed on soundcheck. 8 upcoming gigs, wit
 
 2548 Grand River Avenue; Detroit, MI; United States, Detroit
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tv-lounge/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tv-lounge/)*

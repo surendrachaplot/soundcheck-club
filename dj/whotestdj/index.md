@@ -1,6 +1,6 @@
 # WhoTestDJ
 
-WhoTestDJ is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Mastak, Warsaw on Sun, 15 Nov 2026.
+WhoTestDJ is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Mastak, Warsaw on Sun, 15 Nov 2026.
 
 WhoTestDJ is a house and techno artist based in Poland, with 11 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Plastik, Shjva and Zharkov. Next up: Mastak, Warsaw on Sun 15 Nov.
 
@@ -26,4 +26,4 @@ WhoTestDJ is a house and techno artist based in Poland, with 11 gigs on soundche
 
 Plastik (1), Shjva, Zharkov
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/whotestdj/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/whotestdj/)*

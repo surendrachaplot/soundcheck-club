@@ -1,13 +1,14 @@
 # Hitam
 
-Hitam is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Secret Location, Toronto on Sat, 5 Dec 2026.
+Hitam is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at BASEMENT, New York City on Fri, 4 Dec 2026.
 
-Hitam is a techno and house artist based in Netherlands, with 105 gigs on soundcheck across Amsterdam, Athens, Bali and Berlin and 38 more. Often billed alongside WINDFUHR, AMORAL and I-RO. Next up: TBA - Secret Location, Toronto on Sat 5 Dec.
+Hitam is a techno and house artist based in Netherlands, with 106 gigs on soundcheck across Amsterdam, Athens, Bali and Berlin and 38 more. Often billed alongside WINDFUHR, AMORAL and MARRØN. Next up: BASEMENT, New York City on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Dec 2026 | BASEMENT | New York City |
 | Sat, 5 Dec 2026 | TBA - Secret Location | Toronto |
 | Thu, 31 Dec 2026 | OXI | Berlin |
 
@@ -24,6 +25,6 @@ Hitam is a techno and house artist based in Netherlands, with 105 gigs on soundc
 
 ## Shares bills with
 
-WINDFUHR, AMORAL, I-RO
+WINDFUHR, AMORAL, MARRØN
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hitam/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hitam/)*

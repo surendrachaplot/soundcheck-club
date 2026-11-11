@@ -1,13 +1,15 @@
 # INOFF
 
-INOFF is a House and Electronica artist with 9 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Chica Club, Barcelona on Wed, 9 Dec 2026.
+INOFF is a House and Electronica artist with 11 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Sidecar, Barcelona on Sun, 15 Nov 2026.
 
-INOFF is a house and electronica artist based in Spain, with 27 gigs on soundcheck across Amsterdam and Barcelona. Often billed alongside Victor Hugo, Markuss and PINI. Next up: Chica Club, Barcelona on Wed 9 Dec.
+INOFF is a house and electronica artist based in Spain, with 29 gigs on soundcheck across Amsterdam and Barcelona. Often billed alongside Victor Hugo, Markuss and PINI. Next up: Sidecar, Barcelona on Sun 15 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 15 Nov 2026 | Sidecar | Barcelona |
+| Sun, 22 Nov 2026 | Sidecar | Barcelona |
 | Wed, 9 Dec 2026 | Chica Club | Barcelona |
 | Wed, 16 Dec 2026 | Chica Club | Barcelona |
 | Wed, 23 Dec 2026 | Chica Club | Barcelona |
@@ -33,4 +35,4 @@ INOFF is a house and electronica artist based in Spain, with 27 gigs on soundche
 
 Victor Hugo, Markuss, PINI
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inoff/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inoff/)*

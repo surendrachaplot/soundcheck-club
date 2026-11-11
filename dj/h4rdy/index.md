@@ -1,6 +1,6 @@
 # h4rdy
 
-h4rdy is a Bass and Club artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Cakeshop, Seoul on Fri, 13 Nov 2026.
+h4rdy is a Bass and Club artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Cakeshop, Seoul on Fri, 13 Nov 2026.
 
 h4rdy is a bass and club artist based in South Korea, with 30 gigs on soundcheck across Bristol, London and Seoul. Often billed alongside DJ Co.kr, Coziest and Juuno. Next up: Cakeshop, Seoul on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ h4rdy is a bass and club artist based in South Korea, with 30 gigs on soundcheck
 
 DJ Co.kr, Coziest, Juuno
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/h4rdy/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/h4rdy/)*

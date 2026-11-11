@@ -1,6 +1,6 @@
 # Subcero x Wololo Sound at Subcero Club
 
-Subcero x Wololo Sound at Subcero Club on Fri 20 Nov, Madrid. 3 artists: Cortez, freedomB and GAB (ES). Electronica. See the line-up on soundcheck.
+Subcero x Wololo Sound at Subcero Club on Fri 20 Nov, Madrid. 3 artists: CORTEZZ (SP), freedomB and GAB (ES). Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ Subcero x Wololo Sound at Subcero Club on Fri 20 Nov, Madrid. 3 artists: Cortez,
 
 ## Line-up
 
-- Cortez (2)
+- CORTEZZ (SP)
 - freedomB
 - GAB (ES)
 

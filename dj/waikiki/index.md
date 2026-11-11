@@ -1,6 +1,6 @@
 # Waikiki
 
-Waikiki is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Spindler & Klatt, Berlin on Sat, 12 Dec 2026.
+Waikiki is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Spindler & Klatt, Berlin on Sat, 12 Dec 2026.
 
 Waikiki is a techno and tech house artist, with 35 gigs on soundcheck across Berlin. Often billed alongside DJ Jordan, Das Amt and Match Hoffman. Next up: Spindler & Klatt, Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Waikiki is a techno and tech house artist, with 35 gigs on soundcheck across Ber
 
 DJ Jordan, Das Amt, Match Hoffman
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/waikiki/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/waikiki/)*

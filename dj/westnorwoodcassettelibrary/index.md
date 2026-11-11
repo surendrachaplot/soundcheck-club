@@ -1,6 +1,6 @@
 # West Norwood Cassette Library
 
-West Norwood Cassette Library is a Breakbeat and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Tola, London on Fri, 11 Dec 2026.
+West Norwood Cassette Library is a Breakbeat and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Tola, London on Fri, 11 Dec 2026.
 
 West Norwood Cassette Library is a breakbeat and bass artist based in United Kingdom, with 17 gigs on soundcheck across London. Often billed alongside LMajor, Dexta and Decibella. Next up: Tola, London on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ West Norwood Cassette Library is a breakbeat and bass artist based in United Kin
 
 LMajor, Dexta, Decibella
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/westnorwoodcassettelibrary/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/westnorwoodcassettelibrary/)*

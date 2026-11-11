@@ -1,6 +1,6 @@
 # Jake Rollinson
 
-Jake Rollinson is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Eiger Studios, Leeds on Sat, 12 Dec 2026.
+Jake Rollinson is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Eiger Studios, Leeds on Sat, 12 Dec 2026.
 
 Jake Rollinson is a garage and house artist based in United Kingdom, with 15 gigs on soundcheck across Leeds and Manchester. Often billed alongside Buckley (UK), Kid Charlemagne and Nio-B. Next up: Eiger Studios, Leeds on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Jake Rollinson is a garage and house artist based in United Kingdom, with 15 gig
 
 Buckley (UK), Kid Charlemagne, Nio-B
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jakerollinson/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jakerollinson/)*

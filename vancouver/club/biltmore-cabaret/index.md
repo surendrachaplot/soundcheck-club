@@ -1,6 +1,6 @@
 # Biltmore Cabaret
 
-Biltmore Cabaret is a music venue in Vancouver with 15 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Ravefurrest x Impact! - Vancouver" on Sat, 14 Nov 2026.
+Biltmore Cabaret is a music venue in Vancouver with 15 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Ravefurrest x Impact! - Vancouver" on Sat, 14 Nov 2026.
 
 Biltmore Cabaret is a music venue in Vancouver listed on soundcheck. 15 upcoming gigs, with line-ups including Afrooz, Altinbas, Angel Science and Beiti and 2 more. See dates, start times and who's playing. 395 Kingsway; Vancouver, BC V5T 3J5; Canada.
 
@@ -23,4 +23,4 @@ Biltmore Cabaret is a music venue in Vancouver listed on soundcheck. 15 upcoming
 
 395 Kingsway; Vancouver, BC V5T 3J5; Canada, Vancouver
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/biltmore-cabaret/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/biltmore-cabaret/)*

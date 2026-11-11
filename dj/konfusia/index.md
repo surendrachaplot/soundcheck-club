@@ -1,6 +1,6 @@
 # Konfusia
 
-Konfusia is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Kater, Berlin on Fri, 20 Nov 2026.
+Konfusia is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Kater, Berlin on Fri, 20 Nov 2026.
 
 Konfusia is a techno and house artist based in Germany, with 120 gigs on soundcheck across Amsterdam, Berlin, Cape Town and Cologne and 22 more. Often billed alongside Maurice Mino, Sabura and Sin:port. Next up: Kater, Berlin on Fri 20 Nov.
 
@@ -28,4 +28,4 @@ Konfusia is a techno and house artist based in Germany, with 120 gigs on soundch
 
 Maurice Mino, Sabura, Sin:port
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/konfusia/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/konfusia/)*

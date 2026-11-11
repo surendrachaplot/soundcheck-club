@@ -1,6 +1,6 @@
 # B-SIDE
 
-B-SIDE is a music venue in Warsaw with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Saw Spins with Marlon Clark & Bohan [live] & user228322" on Fri, 13 Nov 2026.
+B-SIDE is a music venue in Warsaw with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Saw Spins with Marlon Clark & Bohan [live] & user228322" on Fri, 13 Nov 2026.
 
 B-SIDE is a music venue in Warsaw listed on soundcheck. 3 upcoming gigs, with line-ups including bart ender, bielak, Bohan and Brussi and 2 more. See dates, start times and who's playing. Piękna 19, 00-549 Warszawa.
 
@@ -16,4 +16,4 @@ B-SIDE is a music venue in Warsaw listed on soundcheck. 3 upcoming gigs, with li
 
 Piękna 19, 00-549 Warszawa, Warsaw
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/b-side/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/b-side/)*

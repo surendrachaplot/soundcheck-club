@@ -1,6 +1,6 @@
 # Inland Knights
 
-Inland Knights is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at fabric, London on Sat, 21 Nov 2026.
+Inland Knights is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at fabric, London on Sat, 21 Nov 2026.
 
 Inland Knights is a house and deep house artist based in United Kingdom, with 37 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Bristol and 12 more. Often billed alongside Buckley, Elliot Schooling and Fleur Shore. Next up: fabric, London on Sat 21 Nov.
 
@@ -28,4 +28,4 @@ Inland Knights is a house and deep house artist based in United Kingdom, with 37
 
 Buckley, Elliot Schooling, Fleur Shore
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inlandknights/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inlandknights/)*

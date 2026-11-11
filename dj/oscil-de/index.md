@@ -1,6 +1,6 @@
 # Øscil
 
-Øscil is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Tanzhaus West, Frankfurt on Fri, 20 Nov 2026.
+Øscil is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Tanzhaus West, Frankfurt on Fri, 20 Nov 2026.
 
 Øscil is a techno and minimal techno artist based in Germany, with 7 gigs on soundcheck across Frankfurt, Leipzig and Rome. Often billed alongside Jozh, Artificial DNA and Orakel. Next up: Tanzhaus West, Frankfurt on Fri 20 Nov.
 
@@ -23,4 +23,4 @@
 
 Jozh, Artificial DNA, Orakel
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oscil-de/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oscil-de/)*

@@ -1,6 +1,6 @@
 # Marcus Logan
 
-Marcus Logan is a House and Jazz artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Silence Please, New York City on Wed, 11 Nov 2026.
+Marcus Logan is a House and Jazz artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Silence Please, New York City on Wed, 11 Nov 2026.
 
 Marcus Logan is a house and jazz artist, with 9 gigs on soundcheck across Miami and New York City. Often billed alongside AISHA, Anthony Nicholson and Dennis Free. Next up: Silence Please, New York City on Wed 11 Nov.
 
@@ -25,4 +25,4 @@ Marcus Logan is a house and jazz artist, with 9 gigs on soundcheck across Miami 
 
 AISHA, Anthony Nicholson, Dennis Free
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcuslogan/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcuslogan/)*

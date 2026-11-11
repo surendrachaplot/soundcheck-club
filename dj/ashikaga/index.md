@@ -1,6 +1,6 @@
 # Ashikaga
 
-Ashikaga is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Compufunk Records, Osaka on Fri, 27 Nov 2026.
+Ashikaga is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Compufunk Records, Osaka on Fri, 27 Nov 2026.
 
 Ashikaga is a house and techno artist, with 26 gigs on soundcheck across Osaka and Tokyo. Often billed alongside Rudolf C, Sekitova and Sinqmin. Next up: Compufunk Records, Osaka on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Ashikaga is a house and techno artist, with 26 gigs on soundcheck across Osaka a
 
 Rudolf C, Sekitova, Sinqmin
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ashikaga/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ashikaga/)*

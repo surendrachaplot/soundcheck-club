@@ -1,6 +1,6 @@
 # Robert Bergman
 
-Robert Bergman is a House and Acid artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Mitsuki, Tokyo on Tue, 10 Nov 2026.
+Robert Bergman is a House and Acid artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Mitsuki, Tokyo on Tue, 10 Nov 2026.
 
 Robert Bergman is a house and acid artist based in Netherlands, with 44 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 11 more. Often billed alongside Satoshi Yamamura, I-F and Esther Dune. Next up: Mitsuki, Tokyo on Tue 10 Nov.
 
@@ -15,6 +15,7 @@ Robert Bergman is a house and acid artist based in Netherlands, with 44 gigs on 
 
 ## Recently played
 
+- Mitsuki, Tokyo · Tue, 10 Nov 2026
 - San Francisco, Amsterdam · Sat, 24 Oct 2026
 - Het Bos, Antwerp · Fri, 9 Oct 2026
 - Studio 508, Amsterdam · Sat, 8 Aug 2026
@@ -22,10 +23,9 @@ Robert Bergman is a house and acid artist based in Netherlands, with 44 gigs on 
 - TBA - MICROCENTRO, Buenos Aires · Fri, 17 Apr 2026
 - San Francisco, Amsterdam · Sat, 28 Feb 2026
 - San Francisco, Amsterdam · Fri, 26 Dec 2025
-- TBA - Studio 508, Amsterdam · Sat, 25 Oct 2025
 
 ## Shares bills with
 
 Satoshi Yamamura, I-F, Esther Dune
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robertbergman/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robertbergman/)*

@@ -1,6 +1,6 @@
 # Brian Gravel
 
-Brian Gravel is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Chemist, Boston on Sat, 12 Dec 2026.
+Brian Gravel is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Chemist, Boston on Sat, 12 Dec 2026.
 
 Brian Gravel is a progressive house and house artist based in United States of America, with 10 gigs on soundcheck across Boston and Cardiff. Often billed alongside Aubrey Fry, Mia Aurora and Anthony Pappa. Next up: The Chemist, Boston on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Brian Gravel is a progressive house and house artist based in United States of A
 
 Aubrey Fry, Mia Aurora, Anthony Pappa
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/briangravel/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/briangravel/)*

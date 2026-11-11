@@ -1,6 +1,6 @@
 # Mac Declos
 
-Mac Declos is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at CLUB RAUM, Amsterdam on Fri, 13 Nov 2026.
+Mac Declos is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at CLUB RAUM, Amsterdam on Fri, 13 Nov 2026.
 
 Mac Declos is a techno and house artist based in France, with 226 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 64 more. Often billed alongside Anetha, Lacchesi and Chlär. Next up: CLUB RAUM, Amsterdam on Fri 13 Nov.
 
@@ -34,4 +34,4 @@ Mac Declos is a techno and house artist based in France, with 226 gigs on soundc
 
 Anetha, Lacchesi, Chlär
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/macdeclos/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/macdeclos/)*

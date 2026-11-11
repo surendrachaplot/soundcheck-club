@@ -1,6 +1,6 @@
 # Amnesia Milano
 
-Amnesia Milano is a music venue in Milan with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Traumer, Davide Seggio, CLELIA" on Sat, 14 Nov 2026.
+Amnesia Milano is a music venue in Milan with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Traumer, Davide Seggio, CLELIA" on Sat, 14 Nov 2026.
 
 Amnesia Milano is a music venue in Milan listed on soundcheck. 5 upcoming gigs, with line-ups including CLELIA, Cuartero, GENNARO and Jamback and 2 more. See dates, start times and who's playing. Via Alfonso Gatto angolo Viale Forlanini, 20134 Milano (MI), Italy.
 
@@ -18,4 +18,4 @@ Amnesia Milano is a music venue in Milan listed on soundcheck. 5 upcoming gigs, 
 
 Via Alfonso Gatto angolo Viale Forlanini, 20134 Milano (MI), Italy, Milan
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/amnesia-milano/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/amnesia-milano/)*

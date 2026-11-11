@@ -1,6 +1,6 @@
 # JUMER
 
-JUMER is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Razzmatazz, Barcelona on Fri, 13 Nov 2026.
+JUMER is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Razzmatazz, Barcelona on Fri, 13 Nov 2026.
 
 JUMER is a trance and techno artist based in Spain, with 57 gigs on soundcheck across Barcelona, Glasgow, London and Madrid and 3 more. Often billed alongside Julietta Ferrari, CRKS290 and Umami. Next up: Razzmatazz, Barcelona on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ JUMER is a trance and techno artist based in Spain, with 57 gigs on soundcheck a
 
 Julietta Ferrari, CRKS290, Umami
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jumer/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jumer/)*

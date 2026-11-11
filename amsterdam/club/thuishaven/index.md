@@ -1,6 +1,6 @@
 # Thuishaven
 
-Thuishaven is a music venue in Amsterdam with 16 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "JOY Autumn Festival" on Sat, 14 Nov 2026.
+Thuishaven is a music venue in Amsterdam with 16 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "JOY Autumn Festival" on Sat, 14 Nov 2026.
 
 Thuishaven is a music venue in Amsterdam listed on soundcheck. 16 upcoming gigs, with line-ups including 2HOT2PLAY, Abstract Division, Alexander Koning and Alfredo and 2 more. See dates, start times and who's playing. Contactweg 68, 1014BW, Amsterdam, Nederland.
 
@@ -23,4 +23,4 @@ Thuishaven is a music venue in Amsterdam listed on soundcheck. 16 upcoming gigs,
 
 Contactweg 68, 1014BW, Amsterdam, Nederland, Amsterdam
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/thuishaven/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/thuishaven/)*

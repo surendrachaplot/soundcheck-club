@@ -1,6 +1,6 @@
 # Liou
 
-Liou is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Ilion Plus, Athens on Sat, 14 Nov 2026.
+Liou is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Ilion Plus, Athens on Sat, 14 Nov 2026.
 
 Liou is a house and techno artist based in Greece, with 71 gigs on soundcheck across Athens, Berlin, Greece and Krakow and 1 more. Often billed alongside DjGus, Nausicaä and 22. Next up: Ilion Plus, Athens on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Liou is a house and techno artist based in Greece, with 71 gigs on soundcheck ac
 
 DjGus, Nausicaä, 22 (1)
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/liou/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/liou/)*

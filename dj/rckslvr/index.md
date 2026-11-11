@@ -1,6 +1,6 @@
 # RCKSLVR
 
-RCKSLVR is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at House OF Scorpio, Los Angeles on Thu, 12 Nov 2026.
+RCKSLVR is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at House OF Scorpio, Los Angeles on Thu, 12 Nov 2026.
 
 RCKSLVR is a tech house and house artist based in United States of America, with 58 gigs on soundcheck across Leipzig and Los Angeles. Often billed alongside Tempo, GRLFRND and DENYC. Next up: House OF Scorpio, Los Angeles on Thu 12 Nov.
 
@@ -28,4 +28,4 @@ RCKSLVR is a tech house and house artist based in United States of America, with
 
 Tempo, GRLFRND, DENYC
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rckslvr/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rckslvr/)*

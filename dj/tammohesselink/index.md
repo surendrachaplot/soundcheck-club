@@ -1,6 +1,6 @@
 # Tammo Hesselink
 
-Tammo Hesselink is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at CLUB RAUM, Amsterdam on Sat, 21 Nov 2026.
+Tammo Hesselink is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at CLUB RAUM, Amsterdam on Sat, 21 Nov 2026.
 
 Tammo Hesselink is a techno and house artist based in Netherlands, with 59 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Berlin and 17 more. Often billed alongside Konduku, Jasmín and Mattikk. Next up: CLUB RAUM, Amsterdam on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Tammo Hesselink is a techno and house artist based in Netherlands, with 59 gigs 
 
 Konduku, Jasmín, Mattikk
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tammohesselink/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tammohesselink/)*

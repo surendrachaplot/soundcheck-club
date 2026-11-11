@@ -1,6 +1,6 @@
 # ÆNN
 
-ÆNN is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Rote Sonne, Munich on Fri, 13 Nov 2026.
+ÆNN is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Rote Sonne, Munich on Fri, 13 Nov 2026.
 
 ÆNN is a trance and techno artist based in Germany, with 14 gigs on soundcheck across Augsburg, Berlin and Munich. Often billed alongside ANASTASÍA, Jan Minnerup and NAGINI. Next up: Rote Sonne, Munich on Fri 13 Nov.
 
@@ -25,4 +25,4 @@
 
 ANASTASÍA, Jan Minnerup, NAGINI
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aenn/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aenn/)*

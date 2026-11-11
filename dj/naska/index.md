@@ -1,6 +1,6 @@
 # Naska
 
-Naska is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Baumhaus, Bologna on Sat, 14 Nov 2026.
+Naska is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Baumhaus, Bologna on Sat, 14 Nov 2026.
 
 Naska is a house and techno artist based in Italy, with 14 gigs on soundcheck across Barcelona, Berlin, Bologna and London and 1 more. Often billed alongside Perro Jimbo, DJ Rou and Grem (IT). Next up: TBA - Baumhaus, Bologna on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Naska is a house and techno artist based in Italy, with 14 gigs on soundcheck ac
 
 Perro Jimbo, DJ Rou, Grem (IT)
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/naska/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/naska/)*

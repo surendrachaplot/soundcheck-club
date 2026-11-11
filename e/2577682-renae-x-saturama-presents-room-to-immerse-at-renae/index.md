@@ -1,6 +1,6 @@
 # renae x Saturama presents Room To: Immerse at renae
 
-renae x Saturama presents Room To: Immerse on Wed 2 Dec, Manchester. 1 artist: Werkha. See the line-up on soundcheck.
+renae x Saturama presents Room To: Immerse on Wed 2 Dec, Manchester. 1 artist: Werkha. Ambient. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

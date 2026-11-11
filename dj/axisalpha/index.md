@@ -1,6 +1,6 @@
 # Axis Alpha
 
-Axis Alpha is a Techno and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Le Clan, Prague on Sat, 28 Nov 2026.
+Axis Alpha is a Techno and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Le Clan, Prague on Sat, 28 Nov 2026.
 
 Axis Alpha is a techno and dub techno artist based in Czech Republic, with 76 gigs on soundcheck across Berlin, Bratislava, Krakow and Milan and 2 more. Often billed alongside Eva Falt, Nior and DJ Slater. Next up: Le Clan, Prague on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Axis Alpha is a techno and dub techno artist based in Czech Republic, with 76 gi
 
 Eva Falt, Nior, DJ Slater
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/axisalpha/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/axisalpha/)*

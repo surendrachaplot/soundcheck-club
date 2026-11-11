@@ -1,6 +1,6 @@
 # Francesco Salvadori
 
-Francesco Salvadori is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at OHM, Berlin on Thu, 3 Dec 2026.
+Francesco Salvadori is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at OHM, Berlin on Thu, 3 Dec 2026.
 
 Francesco Salvadori is a house and techno artist based in Germany, with 27 gigs on soundcheck across Berlin and Florence. Often billed alongside Basse Frequenze Soundsystem, Aton and Johnson. Next up: OHM, Berlin on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Francesco Salvadori is a house and techno artist based in Germany, with 27 gigs 
 
 Basse Frequenze Soundsystem, Aton, Johnson (2)
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/francescosalvadori/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/francescosalvadori/)*

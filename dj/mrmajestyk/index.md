@@ -1,6 +1,6 @@
 # Mr Majestyk
 
-Mr Majestyk is a Pop and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at La Terrrazza, Barcelona on Fri, 13 Nov 2026.
+Mr Majestyk is a Pop and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at La Terrrazza, Barcelona on Fri, 13 Nov 2026.
 
 Mr Majestyk is a pop and disco artist based in Spain, with 43 gigs on soundcheck across Amsterdam, Barcelona, Los Angeles and Madrid and 1 more. Often billed alongside Bulma Beat, &friends and Goom Gum. Next up: La Terrrazza, Barcelona on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Mr Majestyk is a pop and disco artist based in Spain, with 43 gigs on soundcheck
 
 Bulma Beat, &friends, Goom Gum
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mrmajestyk/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mrmajestyk/)*

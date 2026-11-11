@@ -1,6 +1,6 @@
 # The Cross
 
-The Cross is a music venue in London with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Urge To Dance - London 002" on Sat, 28 Nov 2026.
+The Cross is a music venue in London with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Urge To Dance - London 002" on Sat, 28 Nov 2026.
 
 The Cross is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including Cj Cooper, FedUp, K.eem and Kalani and 2 more. See dates, start times and who's playing. The Cross, 2-4, Wharfdale Rd, N1 9RY.
 
@@ -17,4 +17,4 @@ The Cross is a music venue in London listed on soundcheck. 4 upcoming gigs, with
 
 The Cross, 2-4, Wharfdale Rd, N1 9RY, London
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-cross/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-cross/)*

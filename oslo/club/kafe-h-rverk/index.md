@@ -1,6 +1,6 @@
 # Kafe Hærverk
 
-Kafe Hærverk is a music venue in Oslo with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Mikkel Rev (Ute. Rec) // Kafé Hærverk" on Fri, 13 Nov 2026.
+Kafe Hærverk is a music venue in Oslo with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Mikkel Rev (Ute. Rec) // Kafé Hærverk" on Fri, 13 Nov 2026.
 
 Kafe Hærverk is a music venue in Oslo listed on soundcheck. 2 upcoming gigs, with line-ups including Mikkel Rev and Øyvind Morken. See dates, start times and who's playing. Hausmanns gate 34 0182 Oslo, Norway.
 
@@ -15,4 +15,4 @@ Kafe Hærverk is a music venue in Oslo listed on soundcheck. 2 upcoming gigs, wi
 
 Hausmanns gate 34 0182 Oslo, Norway, Oslo
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/kafe-h-rverk/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/kafe-h-rverk/)*

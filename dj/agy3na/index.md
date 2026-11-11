@@ -1,6 +1,6 @@
 # AGY3NA
 
-AGY3NA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at OXI, Berlin on Thu, 31 Dec 2026.
+AGY3NA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at OXI, Berlin on Thu, 31 Dec 2026.
 
 AGY3NA is a techno and house artist based in Germany, with 91 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 18 more. Often billed alongside Ogazón, BASHKKA and Gabrielle Kwarteng. Next up: OXI, Berlin on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ AGY3NA is a techno and house artist based in Germany, with 91 gigs on soundcheck
 
 Ogazón, BASHKKA, Gabrielle Kwarteng
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/agy3na/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/agy3na/)*

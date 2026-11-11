@@ -1,14 +1,15 @@
 # Cesare vs Disorder
 
-Cesare vs Disorder is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at D-EDGE, Sao Paulo on Fri, 27 Nov 2026.
+Cesare vs Disorder is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at D-EDGE, Sao Paulo on Fri, 27 Nov 2026.
 
-Cesare vs Disorder are a house and minimal duo based in Italy, with 61 gigs on soundcheck across Barcelona, Beijing, Berlin and Bogotá and 10 more. Often billed alongside Weg (DE), Rhom Omit and Ocean Lam. Next up: D-EDGE, Sao Paulo on Fri 27 Nov.
+Cesare vs Disorder are a house and minimal duo based in Italy, with 62 gigs on soundcheck across Barcelona, Beijing, Berlin and Bogotá and 10 more. Often billed alongside Weg (DE), Rhom Omit and Ocean Lam. Next up: D-EDGE, Sao Paulo on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | D-EDGE | Sao Paulo |
+| Sat, 19 Dec 2026 | NEU | Stockholm |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Cesare vs Disorder are a house and minimal duo based in Italy, with 61 gigs on s
 
 Weg (DE), Rhom Omit, Ocean Lam
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cesarevsdisorder/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cesarevsdisorder/)*

@@ -1,6 +1,6 @@
 # Niyah West
 
-Niyah West is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Empire Stage, New York City on Fri, 20 Nov 2026.
+Niyah West is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Empire Stage, New York City on Fri, 20 Nov 2026.
 
 Niyah West is a house and techno artist based in United States of America, with 114 gigs on soundcheck across Berlin, Copenhagen, Detroit and Los Angeles and 4 more. Often billed alongside DJ Shannon, theoretic and Kilopatrah Jones. Next up: Empire Stage, New York City on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ Niyah West is a house and techno artist based in United States of America, with 
 
 DJ Shannon, theoretic, Kilopatrah Jones
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/niyahwest/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/niyahwest/)*

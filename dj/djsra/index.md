@@ -1,6 +1,6 @@
 # DJ SRA
 
-DJ SRA is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Jolene, Copenhagen on Fri, 13 Nov 2026.
+DJ SRA is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Jolene, Copenhagen on Fri, 13 Nov 2026.
 
 DJ SRA is a techno and trance artist based in Denmark, with 6 gigs on soundcheck across Amsterdam, Copenhagen, Denmark and Leipzig and 1 more. Often billed alongside Alpo, AZIL and Akua. Next up: Jolene, Copenhagen on Fri 13 Nov.
 
@@ -22,4 +22,4 @@ DJ SRA is a techno and trance artist based in Denmark, with 6 gigs on soundcheck
 
 Alpo, AZIL, Akua
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsra/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsra/)*

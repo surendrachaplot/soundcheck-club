@@ -1,6 +1,6 @@
 # Only Fire
 
-Only Fire is a Techno and Club artist with 7 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at ORIGIN, Los Angeles on Fri, 13 Nov 2026.
+Only Fire is a Techno and Club artist with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at ORIGIN, Los Angeles on Fri, 13 Nov 2026.
 
 Only Fire is a techno and club artist based in Croatia, with 97 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 36 more. Often billed alongside River Moon, Chippy Nonstop and Memphy. Next up: ORIGIN, Los Angeles on Fri 13 Nov.
 
@@ -31,4 +31,4 @@ Only Fire is a techno and club artist based in Croatia, with 97 gigs on soundche
 
 River Moon, Chippy Nonstop, Memphy
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/onlyfire/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/onlyfire/)*

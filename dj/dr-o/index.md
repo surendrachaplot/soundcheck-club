@@ -1,6 +1,6 @@
 # DR-O
 
-DR-O is a Techno and Dubstep artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Greyhound, London on Fri, 4 Dec 2026.
+DR-O is a Techno and Dubstep artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Greyhound, London on Fri, 4 Dec 2026.
 
 DR-O is a techno and dubstep artist based in United Kingdom, with 7 gigs on soundcheck across London. Often billed alongside Caligari_, Agility and Big Hands. Next up: The Greyhound, London on Fri 4 Dec.
 
@@ -23,4 +23,4 @@ DR-O is a techno and dubstep artist based in United Kingdom, with 7 gigs on soun
 
 Caligari_, Agility, Big Hands
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dr-o/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dr-o/)*

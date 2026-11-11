@@ -1,6 +1,6 @@
 # INA (1)
 
-INA (1) is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Inter-City, The Hague on Sat, 14 Nov 2026.
+INA (1) is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Inter-City, The Hague on Sat, 14 Nov 2026.
 
 INA is a bass and club artist based in Germany, with 7 gigs on soundcheck across Amsterdam, Antwerp, Hong Kong and Manchester and 1 more. Often billed alongside Ayce Bio, Bianca Oblivion and Tera Kòrá. Next up: Inter-City, The Hague on Sat 14 Nov.
 
@@ -23,4 +23,4 @@ INA is a bass and club artist based in Germany, with 7 gigs on soundcheck across
 
 Ayce Bio, Bianca Oblivion, Tera Kòrá
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ina-1/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ina-1/)*

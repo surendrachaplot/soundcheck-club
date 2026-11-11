@@ -1,6 +1,6 @@
 # cirra
 
-cirra is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at ZUBAR, Tokyo on Sun, 29 Nov 2026.
+cirra is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at ZUBAR, Tokyo on Sun, 29 Nov 2026.
 
 cirra is a house and techno artist based in Australia, with 22 gigs on soundcheck across Tokyo. Often billed alongside DJ Flexure, Tommy House and FU (JP). Next up: ZUBAR, Tokyo on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ cirra is a house and techno artist based in Australia, with 22 gigs on soundchec
 
 DJ Flexure, Tommy House, FU (JP)
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cirra/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cirra/)*

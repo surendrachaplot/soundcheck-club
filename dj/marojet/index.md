@@ -1,6 +1,6 @@
 # Maroje T
 
-Maroje T is a New Wave and Krautrock artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Nightmoves, New York City on Sun, 13 Dec 2026.
+Maroje T is a New Wave and Krautrock artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Nightmoves, New York City on Sun, 13 Dec 2026.
 
 Maroje T is a new wave and krautrock artist based in United States of America, with 18 gigs on soundcheck across New York City. Often billed alongside Amourette, Intergalactic Gary and JDH & Dave P. Next up: Nightmoves, New York City on Sun 13 Dec.
 
@@ -25,4 +25,4 @@ Maroje T is a new wave and krautrock artist based in United States of America, w
 
 Amourette, Intergalactic Gary, JDH & Dave P
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marojet/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marojet/)*

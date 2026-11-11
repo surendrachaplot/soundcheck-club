@@ -1,6 +1,6 @@
 # The Fox and Firkin
 
-The Fox and Firkin is a music venue in London with 16 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Fox & Firkin presents Danny Rankin, Shosh, Pia Collada + Herse" on Fri, 13 Nov 2026.
+The Fox and Firkin is a music venue in London with 16 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Fox & Firkin presents Danny Rankin, Shosh, Pia Collada + Herse" on Fri, 13 Nov 2026.
 
 The Fox and Firkin is a music venue in London listed on soundcheck. 16 upcoming gigs, with line-ups including Awesome Tapes From Africa, Beirut Groove Collective, Bena and Calm Stiege and 2 more. See dates, start times and who's playing. 316 Lewisham High Street London SE136JZ.
 
@@ -23,4 +23,4 @@ The Fox and Firkin is a music venue in London listed on soundcheck. 16 upcoming 
 
 316 Lewisham High Street London SE136JZ, London
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-fox-and-firkin/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-fox-and-firkin/)*

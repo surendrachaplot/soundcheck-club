@@ -1,8 +1,8 @@
 # Système
 
-Système is a music venue in Montreal with 18 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Class of 2095 VA Release Party: DJ Cinéma Quartier Latin & co" on Thu, 12 Nov 2026.
+Système is a music venue in Montreal with 18 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Class of 2095 VA Release Party: DJ Cinéma Quartier Latin & co" on Thu, 12 Nov 2026.
 
-Système is a music venue in Montreal listed on soundcheck. 18 upcoming gigs, with line-ups including Akpossoul, Andrea de Tour, Asha and CPR Annie and 2 more. See dates, start times and who's playing. 7119 Saint Hubert, Montreal QC H2S2N1 Canada.
+Système is a music venue in Montreal listed on soundcheck. 18 upcoming gigs, with line-ups including Akpossoul, Andrea de Tour, Asha and Badgalquirit and 2 more. See dates, start times and who's playing. 7119 Saint Hubert, Montreal QC H2S2N1 Canada.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Système is a music venue in Montreal listed on soundcheck. 18 upcoming gigs, wi
 
 7119 Saint Hubert, Montreal QC H2S2N1 Canada, Montreal
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/syst-me/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/syst-me/)*

@@ -1,8 +1,8 @@
 # Jacob (UK)
 
-Jacob (UK) is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at La Cité Fertile, Paris on Sat, 5 Dec 2026.
+Jacob (UK) is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at La Cité Fertile, Paris on Sat, 5 Dec 2026.
 
-Jacob (UK) is a house and hip-hop artist, with 7 gigs on soundcheck across Bangkok, Bogotá, Hamburg and Miami and 1 more. Often billed alongside Blame (EC), Aline Umber and CarDona. Next up: La Cité Fertile, Paris on Sat 5 Dec.
+Jacob (UK) is a house and hip-hop artist based in United Kingdom, with 7 gigs on soundcheck across Bangkok, Bogotá, Hamburg and Miami and 1 more. Often billed alongside Blame (EC), Aline Umber and CarDona. Next up: La Cité Fertile, Paris on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ Jacob (UK) is a house and hip-hop artist, with 7 gigs on soundcheck across Bangk
 
 Blame (EC), Aline Umber, CarDona
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jacob-uk/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jacob-uk/)*

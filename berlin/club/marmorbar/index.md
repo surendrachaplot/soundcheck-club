@@ -1,6 +1,6 @@
 # Marmorbar
 
-Marmorbar is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "707 Takeover l 003" on Thu, 12 Nov 2026.
+Marmorbar is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "707 Takeover l 003" on Thu, 12 Nov 2026.
 
 Marmorbar is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including Charlie., K-H1, LG JASPER <3 and Ôneyra and 2 more. See dates, start times and who's playing. Vor dem Schlesischen Tor 3  10997 Berlin.
 
@@ -15,4 +15,4 @@ Marmorbar is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with
 
 Vor dem Schlesischen Tor 3  10997 Berlin, Berlin
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/marmorbar/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/marmorbar/)*

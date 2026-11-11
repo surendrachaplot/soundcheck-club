@@ -1,6 +1,6 @@
 # Blaise S
 
-Blaise S is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at ORIGIN, Los Angeles on Sat, 21 Nov 2026.
+Blaise S is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at ORIGIN, Los Angeles on Sat, 21 Nov 2026.
 
 Blaise S is a techno and tech house artist, with 15 gigs on soundcheck across Los Angeles, New York City and San Diego. Often billed alongside Amtrac, Annicka and BIATA. Next up: ORIGIN, Los Angeles on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Blaise S is a techno and tech house artist, with 15 gigs on soundcheck across Lo
 
 Amtrac, Annicka, BIATA
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blaises/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blaises/)*

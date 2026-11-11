@@ -1,6 +1,6 @@
 # Mercury
 
-Mercury is a Hardcore and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Treefort Music Hall, Idaho on Wed, 31 Mar 2027.
+Mercury is a Hardcore and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Treefort Music Hall, Idaho on Wed, 31 Mar 2027.
 
 Mercury is a hardcore and electro artist based in Switzerland, with 9 gigs on soundcheck across Athens, Idaho, Lisbon and New York City and 2 more. Often billed alongside Bouzidi, ATEBOI and ATT. Next up: Treefort Music Hall, Idaho on Wed 31 Mar.
 
@@ -25,4 +25,4 @@ Mercury is a hardcore and electro artist based in Switzerland, with 9 gigs on so
 
 Bouzidi, ATEBOI, ATT
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mercury/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mercury/)*

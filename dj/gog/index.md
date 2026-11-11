@@ -1,6 +1,6 @@
 # Gog
 
-Gog is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA, Mexico City on Sat, 14 Nov 2026.
+Gog is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA, Mexico City on Sat, 14 Nov 2026.
 
 Gog is a techno and house artist based in Mexico, with 16 gigs on soundcheck across Mexico City. Often billed alongside Alejandro Franco, Alo and Claire. Next up: TBA, Mexico City on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Gog is a techno and house artist based in Mexico, with 16 gigs on soundcheck acr
 
 Alejandro Franco, Alo, Claire
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gog/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gog/)*

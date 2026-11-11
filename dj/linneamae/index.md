@@ -1,6 +1,6 @@
 # Linnea Mae
 
-Linnea Mae is a Electro and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at BABY01, Berlin on Sat, 5 Dec 2026.
+Linnea Mae is a Electro and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at BABY01, Berlin on Sat, 5 Dec 2026.
 
 Linnea Mae is an electro and breakbeat artist, with 11 gigs on soundcheck across Athens, Berlin and Prague. Often billed alongside anna andersrum, Acidic Juice and DATA RYDER. Next up: BABY01, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Linnea Mae is an electro and breakbeat artist, with 11 gigs on soundcheck across
 
 anna andersrum, Acidic Juice, DATA RYDER
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/linneamae/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/linneamae/)*

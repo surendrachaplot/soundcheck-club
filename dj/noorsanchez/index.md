@@ -1,6 +1,6 @@
 # Noor Sanchez
 
-Noor Sanchez is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Whitehouse, The Hague on Fri, 20 Nov 2026.
+Noor Sanchez is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Whitehouse, The Hague on Fri, 20 Nov 2026.
 
 Noor Sanchez is a house and electro artist based in Germany, with 18 gigs on soundcheck across Berlin and The Hague. Often billed alongside Andeel, Dennis Beutler and Bombata. Next up: Whitehouse, The Hague on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Noor Sanchez is a house and electro artist based in Germany, with 18 gigs on sou
 
 Andeel, Dennis Beutler, Bombata
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noorsanchez/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noorsanchez/)*

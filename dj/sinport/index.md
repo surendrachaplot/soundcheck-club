@@ -1,8 +1,8 @@
 # Sin:port
 
-Sin:port is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Odonien, Cologne on Sat, 14 Nov 2026.
+Sin:port is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Odonien, Cologne on Sat, 14 Nov 2026.
 
-Sin:port is a techno and house artist based in Germany, with 136 gigs on soundcheck across Berlin, Budapest, Cologne and Frankfurt and 7 more. Often billed alongside Maurice Mino, Leon Licht and Sabura. Next up: Odonien, Cologne on Sat 14 Nov.
+Sin:port is a techno and house artist based in Germany, with 137 gigs on soundcheck across Berlin, Budapest, Cologne and Frankfurt and 7 more. Often billed alongside Maurice Mino, Leon Licht and Sabura. Next up: Odonien, Cologne on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Sin:port is a techno and house artist based in Germany, with 136 gigs on soundch
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Odonien | Cologne |
 | Fri, 27 Nov 2026 | Südpol | Hamburg |
+| Fri, 18 Dec 2026 | Ritter Butzke | Berlin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Sin:port is a techno and house artist based in Germany, with 136 gigs on soundch
 
 Maurice Mino, Leon Licht, Sabura
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sinport/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sinport/)*

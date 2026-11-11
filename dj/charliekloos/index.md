@@ -1,8 +1,8 @@
 # charlie kloos
 
-charlie kloos is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Cafe La Palma, Madrid on Fri, 13 Nov 2026.
+charlie kloos is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Cafe La Palma, Madrid on Fri, 13 Nov 2026.
 
-charlie kloos is a deep house and house artist, with 5 gigs on soundcheck across Berlin and Madrid. Often billed alongside Club Jerome, Léontine and Bákayan. Next up: Cafe La Palma, Madrid on Fri 13 Nov.
+charlie kloos is a deep house and house artist based in Germany, with 5 gigs on soundcheck across Berlin and Madrid. Often billed alongside Club Jerome, Léontine and Bákayan. Next up: Cafe La Palma, Madrid on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ charlie kloos is a deep house and house artist, with 5 gigs on soundcheck across
 
 Club Jerome, Léontine, Bákayan
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/charliekloos/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/charliekloos/)*

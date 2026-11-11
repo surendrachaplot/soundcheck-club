@@ -1,6 +1,6 @@
 # TBA - Rock N eat 
 
-TBA - Rock N eat  is a music venue in Lyon with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. The next is "NEW YEAR: Sunset Gift x Versus Recordings" on Thu, 31 Dec 2026.
+TBA - Rock N eat  is a music venue in Lyon with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "NEW YEAR: Sunset Gift x Versus Recordings" on Thu, 31 Dec 2026.
 
 TBA - Rock N eat  is a music venue in Lyon listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Rock N eat  is a music venue in Lyon listed on soundcheck. 1 upcoming gig.
 | --- | --- | --- |
 | Thu, 31 Dec 2026 | NEW YEAR: Sunset Gift x Versus Recordings |  |
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/tba-rock-n-eat/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/tba-rock-n-eat/)*

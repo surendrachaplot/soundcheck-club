@@ -1,6 +1,6 @@
 # Eva Lazarus
 
-Eva Lazarus is a Dub and Jungle artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Ashton Court Estate, Bristol on Sat, 29 May 2027.
+Eva Lazarus is a Dub and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Ashton Court Estate, Bristol on Sat, 29 May 2027.
 
 Eva Lazarus is a dub and jungle artist based in United Kingdom, with 18 gigs on soundcheck across Birmingham, Brighton, Bristol and Christchurch and 6 more. Often billed alongside Mungo's Hi Fi, Gardna and Shy FX. Next up: Ashton Court Estate, Bristol on Sat 29 May.
 
@@ -25,4 +25,4 @@ Eva Lazarus is a dub and jungle artist based in United Kingdom, with 18 gigs on 
 
 Mungo's Hi Fi, Gardna, Shy FX
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/evalazarus/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/evalazarus/)*

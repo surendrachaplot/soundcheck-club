@@ -1,6 +1,6 @@
 # Annicka
 
-Annicka is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Russell Industrial Center, Detroit on Sat, 14 Nov 2026.
+Annicka is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Russell Industrial Center, Detroit on Sat, 14 Nov 2026.
 
 Annicka is a house and techno artist based in Sweden, with 34 gigs on soundcheck across Barcelona, Detroit, Ibiza and Istanbul and 8 more. Often billed alongside Guy Gerber, Charlotte de Witte and Layton Giordani. Next up: Russell Industrial Center, Detroit on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Annicka is a house and techno artist based in Sweden, with 34 gigs on soundcheck
 
 Guy Gerber, Charlotte de Witte, Layton Giordani
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annicka/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annicka/)*

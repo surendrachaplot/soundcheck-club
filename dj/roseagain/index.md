@@ -1,6 +1,6 @@
 # Rose Again
 
-Rose Again is a Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Fri, 13 Nov 2026.
+Rose Again is a Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Fri, 13 Nov 2026.
 
 Rose Again is a bass and breakbeat artist based in United Kingdom, with 18 gigs on soundcheck across Bristol, London, Milan and Naples and 2 more. Often billed alongside Odd Shy Guy, Yushh and Clarity. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Rose Again is a bass and breakbeat artist based in United Kingdom, with 18 gigs 
 
 Odd Shy Guy, Yushh, Clarity
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roseagain/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roseagain/)*

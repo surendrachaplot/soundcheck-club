@@ -1,6 +1,6 @@
 # Sixtroke
 
-Sixtroke is a House and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at See-Scape, Toronto on Sat, 21 Nov 2026.
+Sixtroke is a House and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at See-Scape, Toronto on Sat, 21 Nov 2026.
 
 Sixtroke is a house and hardcore artist based in Canada, with 30 gigs on soundcheck across Toronto. Often billed alongside Audi Étoffe, Hycastle and 25ohms. Next up: See-Scape, Toronto on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Sixtroke is a house and hardcore artist based in Canada, with 30 gigs on soundch
 
 Audi Étoffe, Hycastle, 25ohms
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sixtroke/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sixtroke/)*

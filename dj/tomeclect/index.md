@@ -1,6 +1,6 @@
 # Tom Eclect
 
-Tom Eclect is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at The Vic Bar, Melbourne on Sat, 14 Nov 2026.
+Tom Eclect is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Vic Bar, Melbourne on Sat, 14 Nov 2026.
 
 Tom Eclect is a house and deep house artist based in Australia, with 13 gigs on soundcheck across Melbourne. Often billed alongside Benny Salvador, Charlie Bucket and Harvey Sutherland. Next up: The Vic Bar, Melbourne on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Tom Eclect is a house and deep house artist based in Australia, with 13 gigs on 
 
 Benny Salvador, Charlie Bucket, Harvey Sutherland
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomeclect/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomeclect/)*

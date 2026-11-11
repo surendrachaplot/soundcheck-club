@@ -1,6 +1,6 @@
 # Gabriel Muñoz
 
-Gabriel Muñoz is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Inter-City, The Hague on Sat, 19 Dec 2026.
+Gabriel Muñoz is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Inter-City, The Hague on Sat, 19 Dec 2026.
 
 Gabriel Muñoz is a house and garage artist based in Netherlands, with 39 gigs on soundcheck across Amsterdam, Antwerp, Bali and Berlin and 9 more. Often billed alongside Milion, SAIDAH and WOLTERS. Next up: Inter-City, The Hague on Sat 19 Dec.
 
@@ -26,4 +26,4 @@ Gabriel Muñoz is a house and garage artist based in Netherlands, with 39 gigs o
 
 Milion, SAIDAH, WOLTERS
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielmunoz/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielmunoz/)*

@@ -1,6 +1,6 @@
 # Shadi Megallaa
 
-Shadi Megallaa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Al Qudra Desert, Dubai on Sat, 21 Nov 2026.
+Shadi Megallaa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Al Qudra Desert, Dubai on Sat, 21 Nov 2026.
 
 Shadi Megallaa is a house and techno artist based in United States of America, with 15 gigs on soundcheck across Dubai. Often billed alongside Hassan Alwan, Cyrill Reaidy and Baby B.. Next up: TBA - Al Qudra Desert, Dubai on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Shadi Megallaa is a house and techno artist based in United States of America, w
 
 Hassan Alwan, Cyrill Reaidy, Baby B.
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shadimegallaa/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shadimegallaa/)*

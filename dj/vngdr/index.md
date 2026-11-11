@@ -1,6 +1,6 @@
 # vngdr
 
-vngdr is a Industrial and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - SPACEROOM - 2 Nikoloz Baratashvili St, Tbilisi, Georgia, Tbilisi on Fri, 20 Nov 2026.
+vngdr is a Industrial and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - SPACEROOM - 2 Nikoloz Baratashvili St, Tbilisi, Georgia, Tbilisi on Fri, 20 Nov 2026.
 
 vngdr is an industrial and techno artist based in Georgia, with 19 gigs on soundcheck across Athens, Barcelona and Tbilisi. Often billed alongside H.LØAD, Kariauli and Fank Ford. Next up: TBA - SPACEROOM - 2 Nikoloz Baratashvili St, Tbilisi, Georgia, Tbilisi on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ vngdr is an industrial and techno artist based in Georgia, with 19 gigs on sound
 
 H.LØAD, Kariauli, Fank Ford
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vngdr/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vngdr/)*

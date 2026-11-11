@@ -1,6 +1,6 @@
 # The Blue Posts
 
-The Blue Posts is a music venue in London with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. The next is "POV" on Sat, 5 Dec 2026.
+The Blue Posts is a music venue in London with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "POV" on Sat, 5 Dec 2026.
 
 The Blue Posts is a music venue in London listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 28 Rupert Street, Chinatown, London, W1D 6DJ.
 
@@ -14,4 +14,4 @@ The Blue Posts is a music venue in London listed on soundcheck. 1 upcoming gig. 
 
 28 Rupert Street, Chinatown, London, W1D 6DJ, London
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-blue-posts/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-blue-posts/)*

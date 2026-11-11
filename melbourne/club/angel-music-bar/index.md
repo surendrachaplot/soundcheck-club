@@ -1,6 +1,6 @@
 # Angel Music Bar
 
-Angel Music Bar is a music venue in Melbourne with 10 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Slow Grind Fever with Earl Grey and Riche1250" on Wed, 11 Nov 2026.
+Angel Music Bar is a music venue in Melbourne with 10 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Slow Grind Fever with Earl Grey and Riche1250" on Wed, 11 Nov 2026.
 
 Angel Music Bar is a music venue in Melbourne listed on soundcheck. 10 upcoming gigs, with line-ups including Bappy, cash, Chilled Red and Data Flow and 2 more. See dates, start times and who's playing. 12 Bourke Street Melbourne, Victoria, Australia.
 
@@ -23,4 +23,4 @@ Angel Music Bar is a music venue in Melbourne listed on soundcheck. 10 upcoming 
 
 12 Bourke Street Melbourne, Victoria, Australia, Melbourne
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/angel-music-bar/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/angel-music-bar/)*

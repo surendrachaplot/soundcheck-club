@@ -1,6 +1,6 @@
 # Kassian
 
-Kassian is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at The Loco Klub, Bristol on Sat, 21 Nov 2026.
+Kassian is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Loco Klub, Bristol on Sat, 21 Nov 2026.
 
 Kassian is a house and techno artist based in United Kingdom, with 54 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Belfast and 16 more. Often billed alongside Joe Milli, Jay Carder and Breaka. Next up: The Loco Klub, Bristol on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ Kassian is a house and techno artist based in United Kingdom, with 54 gigs on so
 
 Joe Milli, Jay Carder, Breaka
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kassian/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kassian/)*

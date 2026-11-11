@@ -1,6 +1,6 @@
 # Kingdom Nightclub
 
-Kingdom Nightclub is a music venue in Austin with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Com Truise" on Fri, 13 Nov 2026.
+Kingdom Nightclub is a music venue in Austin with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Com Truise" on Fri, 13 Nov 2026.
 
 Kingdom Nightclub is a music venue in Austin listed on soundcheck. 5 upcoming gigs, with line-ups including Amtrac, CFCF, Com Truise and D.Dan and 2 more. See dates, start times and who's playing. 505 E 7th St. Austin, Texas 78701.
 
@@ -18,4 +18,4 @@ Kingdom Nightclub is a music venue in Austin listed on soundcheck. 5 upcoming gi
 
 505 E 7th St. Austin, Texas 78701, Austin
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/austin/club/kingdom-nightclub/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/austin/club/kingdom-nightclub/)*

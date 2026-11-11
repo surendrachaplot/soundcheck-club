@@ -1,6 +1,6 @@
 # Trancy Chatman
 
-Trancy Chatman is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at elipamanoke, Leipzig on Sat, 19 Dec 2026.
+Trancy Chatman is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at elipamanoke, Leipzig on Sat, 19 Dec 2026.
 
 Trancy Chatman is a trance and techno artist based in Germany, with 16 gigs on soundcheck across Berlin, Cologne, Freiburg and Geneva and 3 more. Often billed alongside DJ Henk, RaverPik and SACID. Next up: elipamanoke, Leipzig on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Trancy Chatman is a trance and techno artist based in Germany, with 16 gigs on s
 
 DJ Henk, RaverPik, SACID
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trancychatman/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trancychatman/)*

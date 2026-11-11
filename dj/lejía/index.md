@@ -1,6 +1,6 @@
 # Lejía
 
-Lejía is a Neo Perreo and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Skin Club, Madrid on Sat, 14 Nov 2026.
+Lejía is a Neo Perreo and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Skin Club, Madrid on Sat, 14 Nov 2026.
 
 Lejía is a neo perreo and electronica artist based in Spain, with 20 gigs on soundcheck across Madrid and Mexico City. Often billed alongside La Cachetona, Niki Lauda and Reitze. Next up: Skin Club, Madrid on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Lejía is a neo perreo and electronica artist based in Spain, with 20 gigs on so
 
 La Cachetona, Niki Lauda, Reitze
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lejía/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lejía/)*

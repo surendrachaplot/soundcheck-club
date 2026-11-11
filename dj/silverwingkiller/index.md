@@ -1,6 +1,6 @@
 # SILVERWINGKILLER
 
-SILVERWINGKILLER is a Electronica and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Kirkgate Centre, North on Sun, 29 Nov 2026.
+SILVERWINGKILLER is a Electronica and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Kirkgate Centre, North on Sun, 29 Nov 2026.
 
 SILVERWINGKILLER is an electronica and post-punk artist based in United Kingdom, with 14 gigs on soundcheck across Bristol, Liverpool, London and Manchester and 2 more. Often billed alongside 96 Back, A Good Year and AJA. Next up: Kirkgate Centre, North on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ SILVERWINGKILLER is an electronica and post-punk artist based in United Kingdom,
 
 96 Back, A Good Year, AJA
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/silverwingkiller/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/silverwingkiller/)*

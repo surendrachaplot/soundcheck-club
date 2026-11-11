@@ -1,6 +1,6 @@
 # Nikolina
 
-Nikolina is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Edelfettwerk, Hamburg on Sat, 14 Nov 2026.
+Nikolina is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Edelfettwerk, Hamburg on Sat, 14 Nov 2026.
 
 Nikolina is a techno and trance artist based in United Kingdom, with 130 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 60 more. Often billed alongside Restricted, Onlynumbers and Azyr. Next up: Edelfettwerk, Hamburg on Sat 14 Nov.
 
@@ -32,4 +32,4 @@ Nikolina is a techno and trance artist based in United Kingdom, with 130 gigs on
 
 Restricted, Onlynumbers, Azyr
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nikolina/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nikolina/)*

@@ -1,6 +1,6 @@
 # Pastel
 
-Pastel is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Nido Marseille, Marseille on Fri, 13 Nov 2026.
+Pastel is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Nido Marseille, Marseille on Fri, 13 Nov 2026.
 
 Pastel is a house and electro artist based in France, with 33 gigs on soundcheck across Budapest, Lyon, Marseille and Nantes and 1 more. Often billed alongside ABI (FR), Abn - P2z and Baka G. Next up: Nido Marseille, Marseille on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Pastel is a house and electro artist based in France, with 33 gigs on soundcheck
 
 ABI (FR), Abn - P2z, Baka G
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pastel/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pastel/)*

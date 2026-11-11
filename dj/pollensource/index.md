@@ -1,6 +1,6 @@
 # pollensource
 
-pollensource is a Dub Techno and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Cafe Triste, Los Angeles on Mon, 30 Nov 2026.
+pollensource is a Dub Techno and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Cafe Triste, Los Angeles on Mon, 30 Nov 2026.
 
 pollensource is a dub techno and techno artist based in United States of America, with 20 gigs on soundcheck across Los Angeles, New York City and San Francisco/Oakland. Often billed alongside Mirror Image, Cron and J.dB. Next up: Cafe Triste, Los Angeles on Mon 30 Nov.
 
@@ -25,4 +25,4 @@ pollensource is a dub techno and techno artist based in United States of America
 
 Mirror Image, Cron, J.dB
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pollensource/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pollensource/)*

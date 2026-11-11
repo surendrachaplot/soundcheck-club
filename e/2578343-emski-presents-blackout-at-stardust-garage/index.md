@@ -1,6 +1,6 @@
-# Emski presents [BLACKOUT] at Stardust Garage
+# EMSKI presents [BLACKOUT] at Stardust Garage
 
-Emski presents [BLACKOUT] at Stardust Garage on Fri 20 Nov, Austin. 2 artists: Emski and NABE. Techno and Tech House. See the line-up on soundcheck.
+EMSKI presents [BLACKOUT] at Stardust Garage on Fri 20 Nov, Austin. 1 artist: NABE. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ Emski presents [BLACKOUT] at Stardust Garage on Fri 20 Nov, Austin. 2 artists: E
 
 ## Line-up
 
-- Emski
 - NABE
 
 *Source: [soundcheck](https://soundcheck.club/e/2578343-emski-presents-blackout-at-stardust-garage/)*

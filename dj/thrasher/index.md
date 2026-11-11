@@ -1,6 +1,6 @@
 # Thrasher
 
-Thrasher is a Hardcore and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at PIP Den Haag, The Hague on Sat, 28 Nov 2026.
+Thrasher is a Hardcore and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at PIP Den Haag, The Hague on Sat, 28 Nov 2026.
 
 Thrasher is a hardcore and drum & bass artist based in Netherlands, with 33 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 12 more. Often billed alongside The Outside Agency, DOLPHIN and Krista Bourgeois. Next up: PIP Den Haag, The Hague on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Thrasher is a hardcore and drum & bass artist based in Netherlands, with 33 gigs
 
 The Outside Agency, DOLPHIN, Krista Bourgeois
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thrasher/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thrasher/)*

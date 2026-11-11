@@ -1,6 +1,6 @@
 # S.Moreira
 
-S.Moreira is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Nido Marseille, Marseille on Thu, 17 Dec 2026.
+S.Moreira is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Nido Marseille, Marseille on Thu, 17 Dec 2026.
 
 S.Moreira is a house and techno artist based in Spain, with 32 gigs on soundcheck across Barcelona, Berlin, Bucharest and Croatia and 6 more. Often billed alongside Cecilio, Laurine and Jorge Escribano. Next up: Nido Marseille, Marseille on Thu 17 Dec.
 
@@ -26,4 +26,4 @@ S.Moreira is a house and techno artist based in Spain, with 32 gigs on soundchec
 
 Cecilio, Laurine, Jorge Escribano
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/smoreira/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/smoreira/)*

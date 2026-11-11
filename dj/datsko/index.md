@@ -1,6 +1,6 @@
 # DATSKO
 
-DATSKO is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Sparty, Budapest on Sun, 29 Nov 2026.
+DATSKO is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Sparty, Budapest on Sun, 29 Nov 2026.
 
 DATSKO is a techno and trance artist based in Ireland, with 83 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Antwerp and 28 more. Often billed alongside Black Traffic, blk. and Jezza & Jod. Next up: Sparty, Budapest on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ DATSKO is a techno and trance artist based in Ireland, with 83 gigs on soundchec
 
 Black Traffic, blk., Jezza & Jod
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/datsko/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/datsko/)*

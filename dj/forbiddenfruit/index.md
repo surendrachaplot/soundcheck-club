@@ -1,6 +1,6 @@
 # Forbidden Fruit
 
-Forbidden Fruit is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Kavka Oudaan, Antwerp on Fri, 13 Nov 2026.
+Forbidden Fruit is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Kavka Oudaan, Antwerp on Fri, 13 Nov 2026.
 
 Forbidden Fruit is a house and disco artist based in Belgium, with 21 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 3 more. Often billed alongside Nico Juice, WLC (BE) and Deejames. Next up: Kavka Oudaan, Antwerp on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Forbidden Fruit is a house and disco artist based in Belgium, with 21 gigs on so
 
 Nico Juice, WLC (BE), Deejames
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/forbiddenfruit/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/forbiddenfruit/)*

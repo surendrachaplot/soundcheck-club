@@ -1,6 +1,6 @@
 # Bushbaby
 
-Bushbaby is a Garage and House artist with 8 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Mint Warehouse, Leeds on Fri, 13 Nov 2026.
+Bushbaby is a Garage and House artist with 8 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Mint Warehouse, Leeds on Fri, 13 Nov 2026.
 
 Bushbaby is a garage and house artist based in United Kingdom, with 101 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Auckland and 39 more. Often billed alongside MPH, CHRIS STASSY and Conducta. Next up: Mint Warehouse, Leeds on Fri 13 Nov.
 
@@ -32,4 +32,4 @@ Bushbaby is a garage and house artist based in United Kingdom, with 101 gigs on 
 
 MPH (1), CHRIS STASSY, Conducta
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bushbaby/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bushbaby/)*

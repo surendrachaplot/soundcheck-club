@@ -1,6 +1,6 @@
 # Polygonia
 
-Polygonia is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Utopia - A Happening Place, Munich on Wed, 11 Nov 2026.
+Polygonia is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Utopia - A Happening Place, Munich on Wed, 11 Nov 2026.
 
 Polygonia is a techno and house artist based in Germany, with 254 gigs on soundcheck across Adelaide, Amsterdam, Athens and Bali and 73 more. Often billed alongside GiGi FM, BASHKKA and Efdemin. Next up: Utopia - A Happening Place, Munich on Wed 11 Nov.
 
@@ -35,4 +35,4 @@ Polygonia is a techno and house artist based in Germany, with 254 gigs on soundc
 
 GiGi FM, BASHKKA, Efdemin
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/polygonia/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/polygonia/)*

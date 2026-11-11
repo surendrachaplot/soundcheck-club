@@ -1,6 +1,6 @@
 # 11.15 周日 ｜ The Odd Hours W/Piezo at Heim Shanghai
 
-11.15 周日 ｜ The Odd Hours W/Piezo at Heim Shanghai on Sun 15 Nov, Shanghai. 1 artist: Piezo. See the line-up on soundcheck.
+11.15 周日 ｜ The Odd Hours W/Piezo at Heim Shanghai on Sun 15 Nov, Shanghai. 1 artist: Piezo. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

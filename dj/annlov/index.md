@@ -1,6 +1,6 @@
 # Ann LoV
 
-Ann LoV is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Onyx (E1), London on Sat, 21 Nov 2026.
+Ann LoV is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Onyx (E1), London on Sat, 21 Nov 2026.
 
 Ann LoV is a progressive house and techno artist, with 5 gigs on soundcheck across London. Often billed alongside Belms, Caroles and Don Son. Next up: Onyx (E1), London on Sat 21 Nov.
 
@@ -21,4 +21,4 @@ Ann LoV is a progressive house and techno artist, with 5 gigs on soundcheck acro
 
 Belms, Caroles, Don Son
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annlov/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annlov/)*

@@ -1,6 +1,6 @@
 # Sala ART
 
-Sala ART is a music venue in Madrid with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "CHRØMA: BENNETT (3h extended set)" on Fri, 13 Nov 2026.
+Sala ART is a music venue in Madrid with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "CHRØMA: BENNETT (3h extended set)" on Fri, 13 Nov 2026.
 
 Sala ART is a music venue in Madrid listed on soundcheck. 3 upcoming gigs, with line-ups including BENNETT, Costa, Mainterm and STELLA BOSSI and 1 more. See dates, start times and who's playing. P.º de la Florida, 2, 28008 Madrid.
 
@@ -16,4 +16,4 @@ Sala ART is a music venue in Madrid listed on soundcheck. 3 upcoming gigs, with 
 
 P.º de la Florida, 2, 28008 Madrid, Madrid
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-art/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-art/)*

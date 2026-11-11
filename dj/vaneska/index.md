@@ -1,6 +1,6 @@
 # Vaneska
 
-Vaneska is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Lokschuppen Berlin, Berlin on Wed, 11 Nov 2026.
+Vaneska is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Lokschuppen Berlin, Berlin on Wed, 11 Nov 2026.
 
 Vaneska is a trance and techno artist based in Germany, with 41 gigs on soundcheck across Augsburg, Berlin, Cologne and Hamburg and 3 more. Often billed alongside NAGINI, Praun and subcutan. Next up: Lokschuppen Berlin, Berlin on Wed 11 Nov.
 
@@ -26,4 +26,4 @@ Vaneska is a trance and techno artist based in Germany, with 41 gigs on soundche
 
 NAGINI, Praun, subcutan
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vaneska/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vaneska/)*

@@ -1,6 +1,6 @@
 # Z-Bau
 
-Z-Bau is a music venue in Nürnberg with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Tsunami Soundsystem - Kunstverein" on Sat, 28 Nov 2026.
+Z-Bau is a music venue in Nürnberg with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Tsunami Soundsystem - Kunstverein" on Sat, 28 Nov 2026.
 
 Z-Bau is a music venue in Nürnberg listed on soundcheck. 4 upcoming gigs, with line-ups including A.N.I., Dominique Lamee, HNAS and IGDA and 2 more. See dates, start times and who's playing. Frankenstr.200.
 
@@ -17,4 +17,4 @@ Z-Bau is a music venue in Nürnberg listed on soundcheck. 4 upcoming gigs, with 
 
 Frankenstr.200, Nürnberg
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/z-bau/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/z-bau/)*

@@ -1,6 +1,6 @@
 # Under Bron
 
-Under Bron is a music venue in Stockholm with 10 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is " Urgent Audio: Tau Car, Tata, Björn Hugo" on Fri, 13 Nov 2026.
+Under Bron is a music venue in Stockholm with 10 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is " Urgent Audio: Tau Car, Tata, Björn Hugo" on Fri, 13 Nov 2026.
 
 Under Bron is a music venue in Stockholm listed on soundcheck. 10 upcoming gigs, with line-ups including Andemon, Bella Boo, Betamax_ and Boj Lucki and 2 more. See dates, start times and who's playing. Hammarby slussväg 2, 118 60 Stockholm, Sweden.
 
@@ -23,4 +23,4 @@ Under Bron is a music venue in Stockholm listed on soundcheck. 10 upcoming gigs,
 
 Hammarby slussväg 2, 118 60 Stockholm, Sweden, Stockholm
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/under-bron/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/under-bron/)*

@@ -1,8 +1,8 @@
 # David Berrie
 
-David Berrie is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Pickle, Miami on Thu, 3 Dec 2026.
+David Berrie is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Pickle, Miami on Thu, 3 Dec 2026.
 
-David Berrie is a house and techno artist based in United States of America, with 78 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Boston and 6 more. Often billed alongside CHKLTE, Chuwee and Gian-Paul. Next up: The Pickle, Miami on Thu 3 Dec.
+David Berrie is a house and techno artist based in United States of America, with 78 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Boston and 6 more. Often billed alongside CHKLTE, Chuwee and Bruno Limma. Next up: The Pickle, Miami on Thu 3 Dec.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ David Berrie is a house and techno artist based in United States of America, wit
 
 ## Shares bills with
 
-CHKLTE, Chuwee, Gian-Paul
+CHKLTE, Chuwee, Bruno Limma
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidberrie/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidberrie/)*

@@ -1,6 +1,6 @@
 # Andy Dunn
 
-Andy Dunn is a Disco and Balearic artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Social, London on Sat, 6 Feb 2027.
+Andy Dunn is a Disco and Balearic artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Social, London on Sat, 6 Feb 2027.
 
 Andy Dunn is a disco and balearic artist based in United Kingdom, with 5 gigs on soundcheck across London and Newcastle. Often billed alongside Mick Jarmain and Tony Heslop. Next up: The Social, London on Sat 6 Feb.
 
@@ -21,4 +21,4 @@ Andy Dunn is a disco and balearic artist based in United Kingdom, with 5 gigs on
 
 Mick Jarmain, Tony Heslop
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andydunn/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andydunn/)*

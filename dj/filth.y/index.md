@@ -1,8 +1,8 @@
 # FILTH.y
 
-FILTH.y is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Den Anden Side, Copenhagen on Fri, 13 Nov 2026.
+FILTH.y is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Den Anden Side, Copenhagen on Fri, 13 Nov 2026.
 
-FILTH.y is a techno and trance artist based in Denmark, with 43 gigs on soundcheck across Berlin and Copenhagen. Often billed alongside Signe Alarcón, DJ Sea View and Matriark. Next up: Den Anden Side, Copenhagen on Fri 13 Nov.
+FILTH.y is a techno and trance artist based in Denmark, with 44 gigs on soundcheck across Berlin and Copenhagen. Often billed alongside DJ Sea View, Matriark and Signe Alarcón. Next up: Den Anden Side, Copenhagen on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ FILTH.y is a techno and trance artist based in Denmark, with 43 gigs on soundche
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Den Anden Side | Copenhagen |
 | Fri, 20 Nov 2026 | Acud Macht NEU | Berlin |
+| Fri, 18 Dec 2026 | Hangaren | Copenhagen |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ FILTH.y is a techno and trance artist based in Denmark, with 43 gigs on soundche
 
 ## Shares bills with
 
-Signe Alarcón, DJ Sea View, Matriark
+DJ Sea View, Matriark, Signe Alarcón
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/filth.y/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/filth.y/)*

@@ -1,6 +1,6 @@
 # Garo
 
-Garo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Tea & Vinyl, Berlin on Thu, 10 Dec 2026.
+Garo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Tea & Vinyl, Berlin on Thu, 10 Dec 2026.
 
 Garo is a house and techno artist, with 44 gigs on soundcheck across Berlin, Estado De M Xico, Ghent and London and 5 more. Often billed alongside Stanly, Bosha and Bruno Schmidt. Next up: Tea & Vinyl, Berlin on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ Garo is a house and techno artist, with 44 gigs on soundcheck across Berlin, Est
 
 Stanly, Bosha, Bruno Schmidt
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/garo/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/garo/)*

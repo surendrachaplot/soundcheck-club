@@ -1,6 +1,6 @@
 # Tiefundton
 
-Tiefundton is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at MTW, Frankfurt on Sat, 28 Nov 2026.
+Tiefundton is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at MTW, Frankfurt on Sat, 28 Nov 2026.
 
 Tiefundton is a techno and trance artist based in Germany, with 38 gigs on soundcheck across Augsburg, Berlin, Cologne and Dortmund / Essen and 7 more. Often billed alongside TAKTSTÖRER, Patrick Scuro and Thomas Lizzara. Next up: MTW, Frankfurt on Sat 28 Nov.
 
@@ -29,4 +29,4 @@ Tiefundton is a techno and trance artist based in Germany, with 38 gigs on sound
 
 TAKTSTÖRER, Patrick Scuro, Thomas Lizzara
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tiefundton/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tiefundton/)*

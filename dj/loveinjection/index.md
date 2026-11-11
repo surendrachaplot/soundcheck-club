@@ -1,14 +1,15 @@
 # Love Injection
 
-Love Injection is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Fri, 27 Nov 2026.
+Love Injection is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Fri, 27 Nov 2026.
 
-Love Injection is a house and disco artist based in United States of America, with 53 gigs on soundcheck across Detroit, London, Miami and Montreal and 6 more. Often billed alongside Toribio, MUSCLECARS and Colleen 'Cosmo' Murphy. Next up: DJ Bar Bridge Shinjuku, Tokyo on Fri 27 Nov.
+Love Injection is a house and disco artist based in United States of America, with 54 gigs on soundcheck across Detroit, Kansai, London and Miami and 7 more. Often billed alongside Toribio, MUSCLECARS and Colleen 'Cosmo' Murphy. Next up: DJ Bar Bridge Shinjuku, Tokyo on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | DJ Bar Bridge Shinjuku | Tokyo |
+| Sat, 28 Nov 2026 | Club Move | Kansai |
 | Sat, 12 Dec 2026 | H0L0 | New York City |
 
 ## Recently played
@@ -26,4 +27,4 @@ Love Injection is a house and disco artist based in United States of America, wi
 
 Toribio, MUSCLECARS, Colleen 'Cosmo' Murphy
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loveinjection/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loveinjection/)*

@@ -1,6 +1,6 @@
 # High Note
 
-High Note is a music venue in Melbourne with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Goblin Girls Comedy Club Hosted by Johanna Cosgrove (Netflix's Madam, Rats in the Gutter)" on Wed, 18 Nov 2026.
+High Note is a music venue in Melbourne with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Goblin Girls Comedy Club Hosted by Johanna Cosgrove (Netflix's Madam, Rats in the Gutter)" on Wed, 18 Nov 2026.
 
 High Note is a music venue in Melbourne listed on soundcheck. 2 upcoming gigs, with line-ups including Bridget Small, Elsie, Monfreaq and RAH. See dates, start times and who's playing. 220 High St, Northcote.
 
@@ -15,4 +15,4 @@ High Note is a music venue in Melbourne listed on soundcheck. 2 upcoming gigs, w
 
 220 High St, Northcote, Melbourne
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/high-note/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/high-note/)*

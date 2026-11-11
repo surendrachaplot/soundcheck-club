@@ -1,6 +1,6 @@
 # Soup
 
-Soup is a music venue in Manchester with 14 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Sea BASS (BPMSoc x Surf Soc)" on Thu, 12 Nov 2026.
+Soup is a music venue in Manchester with 14 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Sea BASS (BPMSoc x Surf Soc)" on Thu, 12 Nov 2026.
 
 Soup is a music venue in Manchester listed on soundcheck. 14 upcoming gigs, with line-ups including April (UK), Bobby Scallop, CONE and Cowper and 2 more. See dates, start times and who's playing. 31-33 Spear Street, Manchester, M1 1DF, United Kingdom.
 
@@ -16,11 +16,11 @@ Soup is a music venue in Manchester listed on soundcheck. 14 upcoming gigs, with
 | Fri, 27 Nov 2026 | Elf Traps & Shunya | Elf Traps, Shunya |
 | Fri, 27 Nov 2026 | Great Danes presents: KAVAL + Residents [Manchester Debut] | CONE (2), KAVAL, Lucian (UK), MBB_ |
 | Sat, 28 Nov 2026 | Soup presents: Javan B2B Pooyan Saadati | Javan, Pooyan Saadati |
-| Fri, 4 Dec 2026 | Banjax |  |
+| Fri, 4 Dec 2026 | BANJAX: Redshift & Neev | Neev., Redshift (2), fynn (2) |
 | Sat, 5 Dec 2026 | Soup presents: Lupini & Cowper [all night long] | Cowper, Lupini |
 
 ## Address
 
 31-33 Spear Street, Manchester, M1 1DF, United Kingdom, Manchester
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/soup/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/soup/)*

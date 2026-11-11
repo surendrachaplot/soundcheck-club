@@ -1,6 +1,6 @@
 # Weska
 
-Weska is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Rail, San Diego on Sat, 19 Dec 2026.
+Weska is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Rail, San Diego on Sat, 19 Dec 2026.
 
 Weska is a techno and tech house artist based in Canada, with 39 gigs on soundcheck across Amsterdam, Atlanta, Berlin and Chicago and 14 more. Often billed alongside Bart Skils, Charles D (US) and Eli Brown. Next up: The Rail, San Diego on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Weska is a techno and tech house artist based in Canada, with 39 gigs on soundch
 
 Bart Skils, Charles D (US), Eli Brown
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/weska/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/weska/)*

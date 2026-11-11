@@ -1,8 +1,8 @@
 # SORAYA*
 
-SORAYA* is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Jasna 1, Warsaw on Fri, 13 Nov 2026.
+SORAYA* is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Jasna 1, Warsaw on Fri, 13 Nov 2026.
 
-SORAYA* is a techno and house artist based in United Kingdom, with 51 gigs on soundcheck across Berlin, Brussels, Hamburg and Hannover and 5 more. Often billed alongside fr. JPLA, Answer Code Request and Black Mirror Park. Next up: Jasna 1, Warsaw on Fri 13 Nov.
+SORAYA* is a techno and house artist based in United Kingdom, with 52 gigs on soundcheck across Berlin, Brussels, Hamburg and Hannover and 5 more. Often billed alongside fr. JPLA, Jessamine and Lena Brumby. Next up: Jasna 1, Warsaw on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ SORAYA* is a techno and house artist based in United Kingdom, with 51 gigs on so
 | Fri, 13 Nov 2026 | Jasna 1 | Warsaw |
 | Sat, 21 Nov 2026 | ://about blank | Berlin |
 | Sat, 12 Dec 2026 | Tresor / Globus | Berlin |
+| Sat, 23 Jan 2027 | ://about blank | Berlin |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ SORAYA* is a techno and house artist based in United Kingdom, with 51 gigs on so
 
 ## Shares bills with
 
-fr. JPLA, Answer Code Request, Black Mirror Park
+fr. JPLA, Jessamine, Lena Brumby
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soraya-3/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soraya-3/)*

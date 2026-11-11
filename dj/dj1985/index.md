@@ -1,6 +1,6 @@
 # DJ 1985
 
-DJ 1985 is a Acid and Ambient artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA, Chicago on Fri, 13 Nov 2026.
+DJ 1985 is a Acid and Ambient artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA, Chicago on Fri, 13 Nov 2026.
 
 DJ 1985 is an acid and ambient artist based in Montenegro, with 9 gigs on soundcheck across Belgrade and Chicago. Often billed alongside m50, K-stoge and Anit Levan. Next up: TBA, Chicago on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ DJ 1985 is an acid and ambient artist based in Montenegro, with 9 gigs on soundc
 
 m50, K-stoge, Anit Levan
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dj1985/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dj1985/)*

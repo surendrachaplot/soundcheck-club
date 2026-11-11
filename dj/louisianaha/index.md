@@ -1,6 +1,6 @@
 # Louisianaha
 
-Louisianaha is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Lieberscholli, Munich on Sat, 14 Nov 2026.
+Louisianaha is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Lieberscholli, Munich on Sat, 14 Nov 2026.
 
 Louisianaha is a house and downtempo artist based in Germany, with 15 gigs on soundcheck across Berlin and Munich. Often billed alongside Sabrina Hawk, Kerry Gold and Rafner. Next up: Lieberscholli, Munich on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Louisianaha is a house and downtempo artist based in Germany, with 15 gigs on so
 
 Sabrina Hawk, Kerry Gold, Rafner
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/louisianaha/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/louisianaha/)*

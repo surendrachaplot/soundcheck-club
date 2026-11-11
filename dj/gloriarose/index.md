@@ -1,6 +1,6 @@
 # Gloria Rose
 
-Gloria Rose is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Den Anden Side, Copenhagen on Sat, 21 Nov 2026.
+Gloria Rose is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Den Anden Side, Copenhagen on Sat, 21 Nov 2026.
 
 Gloria Rose is a techno and house artist based in France, with 59 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bratislava and 7 more. Often billed alongside Amphia, Nina Pixina and RayRay. Next up: Den Anden Side, Copenhagen on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ Gloria Rose is a techno and house artist based in France, with 59 gigs on soundc
 
 Amphia, Nina Pixina, RayRay
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gloriarose/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gloriarose/)*

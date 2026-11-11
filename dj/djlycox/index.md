@@ -1,6 +1,6 @@
 # DJ Lycox
 
-DJ Lycox is a Club and Kuduro artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at M.O.T, London on Sun, 29 Nov 2026.
+DJ Lycox is a Club and Kuduro artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at M.O.T, London on Sun, 29 Nov 2026.
 
 DJ Lycox is a club and kuduro artist based in Portugal, with 52 gigs on soundcheck across Amsterdam, Antwerp, Belgrade and Berlin and 19 more. Often billed alongside Dj Danifox, DJ Marfox and DJ Narciso. Next up: M.O.T, London on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ DJ Lycox is a club and kuduro artist based in Portugal, with 52 gigs on soundche
 
 Dj Danifox, DJ Marfox, DJ Narciso
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djlycox/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djlycox/)*

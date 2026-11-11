@@ -1,8 +1,8 @@
 # Jazzy (IRL)
 
-Jazzy (IRL) is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Invisible Wind Factory, Liverpool on Fri, 13 Nov 2026.
+Jazzy (IRL) is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Invisible Wind Factory, Liverpool on Fri, 13 Nov 2026.
 
-Jazzy (IRL) is a house and tech house artist based in Ireland, with 22 gigs on soundcheck across Amsterdam, Austin, Belfast and Boston and 12 more. Often billed alongside RUZE, Badger (UK) and Chris Lorenzo. Next up: Invisible Wind Factory, Liverpool on Fri 13 Nov.
+Jazzy (IRL) is a house and tech house artist based in Ireland, with 23 gigs on soundcheck across Amsterdam, Austin, Belfast and Boston and 13 more. Often billed alongside RUZE, Badger (UK) and Chris Lorenzo. Next up: Invisible Wind Factory, Liverpool on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Jazzy (IRL) is a house and tech house artist based in Ireland, with 22 gigs on s
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Invisible Wind Factory | Liverpool |
 | Sat, 14 Nov 2026 | The Telegraph Building | Belfast |
+| Sat, 21 Nov 2026 | Digital | Newcastle |
 | Sat, 28 Nov 2026 | Document | Bristol |
 | Sat, 5 Dec 2026 | Central Chapelle | Paris |
 | Fri, 11 Dec 2026 | The Cause | London |
@@ -31,4 +32,4 @@ Jazzy (IRL) is a house and tech house artist based in Ireland, with 22 gigs on s
 
 RUZE, Badger (UK), Chris Lorenzo
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jazzyirl/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jazzyirl/)*

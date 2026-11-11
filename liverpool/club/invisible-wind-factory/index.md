@@ -1,6 +1,6 @@
 # Invisible Wind Factory
 
-Invisible Wind Factory is a music venue in Liverpool with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Jazzy - Peace & Patience Tour - Liverpool" on Fri, 13 Nov 2026.
+Invisible Wind Factory is a music venue in Liverpool with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Jazzy - Peace & Patience Tour - Liverpool" on Fri, 13 Nov 2026.
 
 Invisible Wind Factory is a music venue in Liverpool listed on soundcheck. 5 upcoming gigs, with line-ups including Benji King, Bridge (NY), Dan Chan and Eden Prince and 2 more. See dates, start times and who's playing. 3 Regent Rd, Liverpool L3 7DS, United Kingdom.
 
@@ -18,4 +18,4 @@ Invisible Wind Factory is a music venue in Liverpool listed on soundcheck. 5 upc
 
 3 Regent Rd, Liverpool L3 7DS, United Kingdom, Liverpool
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/invisible-wind-factory/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/invisible-wind-factory/)*

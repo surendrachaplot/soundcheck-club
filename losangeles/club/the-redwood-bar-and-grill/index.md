@@ -1,6 +1,6 @@
 # The Redwood Bar And Grill
 
-The Redwood Bar And Grill is a music venue in Los Angeles with 46 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Petunia & The Vipers" on Wed, 11 Nov 2026.
+The Redwood Bar And Grill is a music venue in Los Angeles with 46 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Petunia & The Vipers" on Wed, 11 Nov 2026.
 
 The Redwood Bar And Grill is a music venue in Los Angeles listed on soundcheck. 46 upcoming gigs. See dates, start times and who's playing. 316 W. 2nd Street, Los Angeles, CA  90012.
 
@@ -23,4 +23,4 @@ The Redwood Bar And Grill is a music venue in Los Angeles listed on soundcheck. 
 
 316 W. 2nd Street, Los Angeles, CA  90012, Los Angeles
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-redwood-bar-and-grill/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-redwood-bar-and-grill/)*

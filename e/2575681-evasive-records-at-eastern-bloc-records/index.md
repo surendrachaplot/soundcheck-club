@@ -1,6 +1,6 @@
 # Evasive Records at Eastern Bloc Records
 
-Evasive Records at Eastern Bloc Records on Fri 4 Dec, Manchester. 1 artist: Rob Pearson. House and Tech House. See the line-up on soundcheck.
+Evasive Records at Eastern Bloc Records on Fri 4 Dec, Manchester. 2 artists: PAS (UK) and Rob Pearson. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Evasive Records at Eastern Bloc Records on Fri 4 Dec, Manchester. 1 artist: Rob 
 
 ## Line-up
 
+- PAS (UK)
 - Rob Pearson
 
 *Source: [soundcheck](https://soundcheck.club/e/2575681-evasive-records-at-eastern-bloc-records/)*

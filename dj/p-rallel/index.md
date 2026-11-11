@@ -1,6 +1,6 @@
 # p-rallel
 
-p-rallel is a Garage and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 21 Nov 2026.
+p-rallel is a Garage and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 21 Nov 2026.
 
 p-rallel is a garage and house artist based in United Kingdom, with 89 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 23 more. Often billed alongside Casnova, Dr Dubplate and Special Request. Next up: Depot Mayfield, Manchester on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ p-rallel is a garage and house artist based in United Kingdom, with 89 gigs on s
 
 Casnova, Dr Dubplate, Special Request
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/p-rallel/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/p-rallel/)*

@@ -1,6 +1,6 @@
 # Yashar (UK)
 
-Yashar (UK) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Gallery, London on Thu, 26 Nov 2026.
+Yashar (UK) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Gallery, London on Thu, 26 Nov 2026.
 
 Yashar (UK) is a techno and house artist based in United Kingdom, with 33 gigs on soundcheck across Barcelona, Birmingham, London and Madrid and 1 more. Often billed alongside Mela Q, Nic Cammelli and Tear of Joy. Next up: Gallery, London on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Yashar (UK) is a techno and house artist based in United Kingdom, with 33 gigs o
 
 Mela Q, Nic Cammelli, Tear of Joy
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yasharuk/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yasharuk/)*

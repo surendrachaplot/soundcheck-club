@@ -1,6 +1,6 @@
 # Capo Lee
 
-Capo Lee is a Garage and Grime artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Hidden, Manchester on Sat, 21 Nov 2026.
+Capo Lee is a Garage and Grime artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Hidden, Manchester on Sat, 21 Nov 2026.
 
 Capo Lee is a garage and grime artist based in United Kingdom, with 101 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Birmingham and 25 more. Often billed alongside Bakey, Izco and bullet tooth. Next up: Hidden, Manchester on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Capo Lee is a garage and grime artist based in United Kingdom, with 101 gigs on 
 
 Bakey, Izco, bullet tooth
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/capolee/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/capolee/)*

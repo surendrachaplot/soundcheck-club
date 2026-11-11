@@ -1,6 +1,6 @@
 # TBA - New Location! 
 
-TBA - New Location!  is a music venue in Leeds with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Dialogue presents: Huerta, Liquid Earth, Dylan Payne & Mungo Sound Machine" on Fri, 27 Nov 2026.
+TBA - New Location!  is a music venue in Leeds with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Dialogue presents: Huerta, Liquid Earth, Dylan Payne & Mungo Sound Machine" on Fri, 27 Nov 2026.
 
 TBA - New Location!  is a music venue in Leeds listed on soundcheck. 2 upcoming gigs, with line-ups including Demi Riquisimo, Dylan Payne, Liquid Earth and Maddy Maia and 2 more. See dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ TBA - New Location!  is a music venue in Leeds listed on soundcheck. 2 upcoming 
 | Fri, 27 Nov 2026 | Dialogue presents: Huerta, Liquid Earth, Dylan Payne & Mungo Sound Machine | Dylan Payne, Huerta, Liquid Earth, Mungo Sound Machine |
 | Sat, 28 Nov 2026 | Midnight Lovers with Demi Riquísimo, Maddy Maia, marta aramini | Demi Riquisimo, Maddy Maia, marta aramini |
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/tba-new-location/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/tba-new-location/)*

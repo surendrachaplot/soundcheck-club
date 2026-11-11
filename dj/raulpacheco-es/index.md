@@ -1,6 +1,6 @@
 # Raúl Pacheco
 
-Raúl Pacheco is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at LAB theCLUB, Madrid on Sat, 5 Dec 2026.
+Raúl Pacheco is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at LAB theCLUB, Madrid on Sat, 5 Dec 2026.
 
 Raúl Pacheco is a techno and house artist based in Spain, with 21 gigs on soundcheck across Andorra, Barcelona, Ibiza and Madrid and 1 more. Often billed alongside Fatima Hajji, Chelina Manuhutu and DIROS. Next up: LAB theCLUB, Madrid on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Raúl Pacheco is a techno and house artist based in Spain, with 21 gigs on sound
 
 Fatima Hajji, Chelina Manuhutu, DIROS
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raulpacheco-es/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raulpacheco-es/)*

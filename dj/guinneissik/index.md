@@ -1,13 +1,14 @@
 # Guinneissik
 
-Guinneissik is a Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at UNDERCITY, Seoul on Sat, 28 Nov 2026.
+Guinneissik is a Bass and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Seoul National University POWERPLANT, Seoul on Sat, 14 Nov 2026.
 
-Guinneissik is a bass and breakbeat artist based in South Korea, with 11 gigs on soundcheck across Seoul, Shanghai and Tokyo. Often billed alongside DDD, Nimvy and Ondea. Next up: UNDERCITY, Seoul on Sat 28 Nov.
+Guinneissik is a bass and breakbeat artist based in South Korea, with 12 gigs on soundcheck across Seoul, Shanghai and Tokyo. Often billed alongside DDD, Nimvy and Ondea. Next up: Seoul National University POWERPLANT, Seoul on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | Seoul National University POWERPLANT | Seoul |
 | Sat, 28 Nov 2026 | UNDERCITY | Seoul |
 
 ## Recently played
@@ -25,4 +26,4 @@ Guinneissik is a bass and breakbeat artist based in South Korea, with 11 gigs on
 
 DDD (2), Nimvy, Ondea
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/guinneissik/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/guinneissik/)*

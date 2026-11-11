@@ -1,6 +1,6 @@
 # Octor
 
-Octor is a Techno and IDM artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Rote Sonne, Munich on Sat, 14 Nov 2026.
+Octor is a Techno and IDM artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Rote Sonne, Munich on Sat, 14 Nov 2026.
 
 Octor is a techno and idm artist based in Germany, with 13 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Munich and 1 more. Often billed alongside BORGBORG, AYLIN IDAH and Acierate. Next up: Rote Sonne, Munich on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Octor is a techno and idm artist based in Germany, with 13 gigs on soundcheck ac
 
 BORGBORG, AYLIN IDAH, Acierate
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/octor/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/octor/)*

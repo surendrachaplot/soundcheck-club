@@ -1,8 +1,8 @@
 # Omri Smadar
 
-Omri Smadar is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Jungle Experience Koh Phangan, Thailand on Tue, 12 Jan 2027.
+Omri Smadar is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Jungle Experience Koh Phangan, Thailand on Tue, 12 Jan 2027.
 
-Omri Smadar is a techno and electro artist, with 8 gigs on soundcheck across Amsterdam, Ibiza, Lisbon and London and 3 more. Often billed alongside Mandrake, Alinka and Caleesi. Next up: Jungle Experience Koh Phangan, Thailand on Tue 12 Jan.
+Omri Smadar is a techno and electro artist based in Israel, with 8 gigs on soundcheck across Amsterdam, Ibiza, Lisbon and London and 3 more. Often billed alongside Mandrake, Alinka and Caleesi. Next up: Jungle Experience Koh Phangan, Thailand on Tue 12 Jan.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ Omri Smadar is a techno and electro artist, with 8 gigs on soundcheck across Ams
 
 Mandrake, Alinka, Caleesi
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/omrismadar/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/omrismadar/)*

@@ -1,6 +1,6 @@
 # Faustin
 
-Faustin is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at CLUB RAUM, Amsterdam on Fri, 1 Jan 2027.
+Faustin is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at CLUB RAUM, Amsterdam on Fri, 1 Jan 2027.
 
 Faustin is a techno and house artist based in Italy, with 8 gigs on soundcheck across Amsterdam, New York City and Rotterdam. Often billed alongside Byron Yeates, Fafi Abdel Nour and Nelly. Next up: CLUB RAUM, Amsterdam on Fri 1 Jan.
 
@@ -24,4 +24,4 @@ Faustin is a techno and house artist based in Italy, with 8 gigs on soundcheck a
 
 Byron Yeates, Fafi Abdel Nour, Nelly
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/faustin/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/faustin/)*

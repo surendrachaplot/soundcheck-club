@@ -1,6 +1,6 @@
-# A For Alpha (Extended Set); presented by Ivy Collective, Save our Scene & The North Face at XLR
+# A For Alpha (Extended Set); presented by Ivy Collective & Save our Scene; BYOB at XLR
 
-A For Alpha (Extended Set); presented by Ivy Collective, Save our Scene & The North Face at XLR on Thu 19 Nov, Manchester. 1 artist: A For Alpha. House and Garage. See the line-up on soundcheck.
+A For Alpha (Extended Set); presented by Ivy Collective & Save our Scene; BYOB at XLR on Thu 19 Nov, Manchester. 3 artists: A For Alpha, Emile and Sunny D. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,7 @@ A For Alpha (Extended Set); presented by Ivy Collective, Save our Scene & The No
 ## Line-up
 
 - A For Alpha
+- Emile
+- Sunny D
 
 *Source: [soundcheck](https://soundcheck.club/e/2577273-a-for-alpha-extended-set-presented-by-ivy-collective-save-ou/)*

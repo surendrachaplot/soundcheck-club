@@ -1,6 +1,6 @@
 # Technasia
 
-Technasia is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Secret Location, Atlanta on Sat, 21 Nov 2026.
+Technasia is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Secret Location, Atlanta on Sat, 21 Nov 2026.
 
 Technasia is a tech house and house artist based in France, with 59 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 19 more. Often billed alongside Lexlay, Carlo Lio and Dub Tiger. Next up: TBA - Secret Location, Atlanta on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ Technasia is a tech house and house artist based in France, with 59 gigs on soun
 
 Lexlay, Carlo Lio, Dub Tiger
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/technasia/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/technasia/)*

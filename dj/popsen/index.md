@@ -1,6 +1,6 @@
 # Popsen
 
-Popsen is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at M-BIA, Berlin on Fri, 20 Nov 2026.
+Popsen is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at M-BIA, Berlin on Fri, 20 Nov 2026.
 
 Popsen is a techno and trance artist based in Germany, with 69 gigs on soundcheck across Amsterdam and Berlin. Often billed alongside DaSoMaZo, Kopflos and L X S. Next up: M-BIA, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Popsen is a techno and trance artist based in Germany, with 69 gigs on soundchec
 
 DaSoMaZo, Kopflos, L X S
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/popsen/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/popsen/)*

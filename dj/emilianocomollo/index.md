@@ -1,6 +1,6 @@
 # Emiliano Comollo
 
-Emiliano Comollo is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Capodoglio Murazzi, Turin on Sat, 21 Nov 2026.
+Emiliano Comollo is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Capodoglio Murazzi, Turin on Sat, 21 Nov 2026.
 
 Emiliano Comollo is a techno and electronica artist based in Italy, with 30 gigs on soundcheck across Copenhagen, Florence, Lisbon and Milan and 2 more. Often billed alongside Luce Clandestina, Seven sins and DNN. Next up: Capodoglio Murazzi, Turin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Emiliano Comollo is a techno and electronica artist based in Italy, with 30 gigs
 
 Luce Clandestina, Seven sins, DNN
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emilianocomollo/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emilianocomollo/)*

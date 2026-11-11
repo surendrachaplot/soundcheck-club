@@ -1,6 +1,6 @@
 # Elkind
 
-Elkind is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Secret Bowery Loft (Manhattan), New-york-state on Sat, 14 Nov 2026.
+Elkind is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Secret Bowery Loft (Manhattan), New-york-state on Sat, 14 Nov 2026.
 
 Elkind is a house and deep house artist based in United States of America, with 10 gigs on soundcheck across Austin, Los Angeles, New York State and New York City. Often billed alongside DELACOUR, Latas and Akin Paksoy. Next up: TBA - Secret Bowery Loft (Manhattan), New York State on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Elkind is a house and deep house artist based in United States of America, with 
 
 DELACOUR, Latas, Akin Paksoy
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elkind/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elkind/)*

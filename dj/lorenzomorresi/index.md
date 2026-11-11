@@ -1,6 +1,6 @@
 # Lorenzo Morresi
 
-Lorenzo Morresi is a Deep House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Mercato Comunale Isola, Milan on Sat, 14 Nov 2026.
+Lorenzo Morresi is a Deep House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Mercato Comunale Isola, Milan on Sat, 14 Nov 2026.
 
 Lorenzo Morresi is a deep house and disco artist based in Italy, with 16 gigs on soundcheck across Amsterdam, Berlin, London and Milan and 1 more. Often billed alongside Veronica Lanotte, Rollover Djs and Alex Neri. Next up: Mercato Comunale Isola, Milan on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Lorenzo Morresi is a deep house and disco artist based in Italy, with 16 gigs on
 
 Veronica Lanotte, Rollover Djs, Alex Neri
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenzomorresi/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenzomorresi/)*

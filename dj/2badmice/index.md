@@ -1,6 +1,6 @@
 # 2 Bad Mice
 
-2 Bad Mice is a Hardcore and Jungle artist with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at St. Barts Church, South-east on Sat, 14 Nov 2026.
+2 Bad Mice is a Hardcore and Jungle artist with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at St. Barts Church, South-east on Sat, 14 Nov 2026.
 
 2 Bad Mice is a hardcore and jungle artist based in United Kingdom, with 42 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Bristol and 6 more. Often billed alongside Billy Daniel Bunter, Slipmatt and Jerome Hill. Next up: St. Barts Church, South East on Sat 14 Nov.
 
@@ -29,4 +29,4 @@
 
 Billy Daniel Bunter, Slipmatt, Jerome Hill
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/2badmice/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/2badmice/)*

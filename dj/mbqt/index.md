@@ -1,8 +1,8 @@
 # MBQT
 
-MBQT is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at KABUL à GoGo, Utrecht on Fri, 20 Nov 2026.
+MBQT is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at KABUL à GoGo, Utrecht on Fri, 20 Nov 2026.
 
-MBQT is a techno and breakbeat artist, with 14 gigs on soundcheck across Amsterdam, Rotterdam, The Hague and Utrecht. Often billed alongside sausy, Candy Coup and GISZA. Next up: KABUL à GoGo, Utrecht on Fri 20 Nov.
+MBQT is a techno and breakbeat artist based in Netherlands, with 14 gigs on soundcheck across Amsterdam, Rotterdam, The Hague and Utrecht. Often billed alongside sausy, Candy Coup and GISZA. Next up: KABUL à GoGo, Utrecht on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ MBQT is a techno and breakbeat artist, with 14 gigs on soundcheck across Amsterd
 
 sausy, Candy Coup, GISZA
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mbqt/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mbqt/)*

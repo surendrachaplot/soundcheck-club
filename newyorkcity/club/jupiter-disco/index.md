@@ -1,6 +1,6 @@
 # Jupiter Disco
 
-Jupiter Disco is a music venue in New York City with 13 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Pure Space: Headphones Girl, Josephine, Forfex" on Wed, 11 Nov 2026.
+Jupiter Disco is a music venue in New York City with 13 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Pure Space: Headphones Girl, Josephine, Forfex" on Wed, 11 Nov 2026.
 
 Jupiter Disco is a music venue in New York City listed on soundcheck. 13 upcoming gigs, with line-ups including Akira, Amen the Producer, BOJAQ and Carozilla and 2 more. See dates, start times and who's playing. 1237 Flushing Avenue, Brooklyn, NY 11237, USA.
 
@@ -23,4 +23,4 @@ Jupiter Disco is a music venue in New York City listed on soundcheck. 13 upcomin
 
 1237 Flushing Avenue, Brooklyn, NY 11237, USA, New York City
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jupiter-disco/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jupiter-disco/)*

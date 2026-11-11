@@ -1,8 +1,8 @@
 # Dj Berru
 
-Dj Berru is a Dub Techno and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Mena Berlin, Berlin on Fri, 4 Dec 2026.
+Dj Berru is a Dub Techno and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Mena Berlin, Berlin on Fri, 4 Dec 2026.
 
-Dj Berru is a dub techno and techno artist, with 6 gigs on soundcheck across Barcelona and Berlin. Often billed alongside Baussy, DOC and Dardenne. Next up: Mena Berlin, Berlin on Fri 4 Dec.
+Dj Berru is a dub techno and techno artist based in Spain, with 6 gigs on soundcheck across Barcelona and Berlin. Often billed alongside Baussy, DOC and Dardenne. Next up: Mena Berlin, Berlin on Fri 4 Dec.
 
 ## Upcoming shows
 
@@ -22,4 +22,4 @@ Dj Berru is a dub techno and techno artist, with 6 gigs on soundcheck across Bar
 
 Baussy, DOC (2), Dardenne
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djberru/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djberru/)*

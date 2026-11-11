@@ -1,13 +1,14 @@
 # Interesting Results
 
-Interesting Results is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Tuff Break Loser's Lounge, New Orleans on Sat, 14 Nov 2026.
+Interesting Results is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Crypt (New Orleans), New Orleans on Fri, 13 Nov 2026.
 
-Interesting Results is an electro and techno artist based in United States of America, with 35 gigs on soundcheck across Louisiana, New Orleans and New York City. Often billed alongside Nonlethal Weapons, Leisure Muffin and Danny White. Next up: Tuff Break Loser's Lounge, New Orleans on Sat 14 Nov.
+Interesting Results is an electro and techno artist based in United States of America, with 36 gigs on soundcheck across Louisiana, New Orleans and New York City. Often billed alongside Nonlethal Weapons, Leisure Muffin and Danny White. Next up: The Crypt (New Orleans), New Orleans on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | The Crypt (New Orleans) | New Orleans |
 | Sat, 14 Nov 2026 | Tuff Break Loser's Lounge | New Orleans |
 
 ## Recently played
@@ -25,4 +26,4 @@ Interesting Results is an electro and techno artist based in United States of Am
 
 Nonlethal Weapons, Leisure Muffin, Danny White
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/interestingresults/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/interestingresults/)*

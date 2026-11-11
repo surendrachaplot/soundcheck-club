@@ -1,6 +1,6 @@
 # Superlove
 
-Superlove is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. The next is "PARALLEL RUST EDITION Φ HARD + BOUNCY MUSIC" on Thu, 12 Nov 2026.
+Superlove is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "PARALLEL RUST EDITION Φ HARD + BOUNCY MUSIC" on Thu, 12 Nov 2026.
 
 Superlove is a music venue in Milan listed on soundcheck. 1 upcoming gig, with line-ups including Flaiv Đarkø. See dates, start times and who's playing. Corso di Porta Ticinese, 32, 20123 Milano MI, Italy.
 
@@ -14,4 +14,4 @@ Superlove is a music venue in Milan listed on soundcheck. 1 upcoming gig, with l
 
 Corso di Porta Ticinese, 32, 20123 Milano MI, Italy, Milan
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/superlove/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/superlove/)*

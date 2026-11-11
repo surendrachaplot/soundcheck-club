@@ -1,6 +1,6 @@
 # Scheppērt
 
-Scheppērt is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Kauz, Zurich on Fri, 13 Nov 2026.
+Scheppērt is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Kauz, Zurich on Fri, 13 Nov 2026.
 
 Scheppērt is a techno and hardcore artist based in Switzerland, with 14 gigs on soundcheck across Zurich. Often billed alongside ONX (CH), Megix and Anna Logic. Next up: Kauz, Zurich on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Scheppērt is a techno and hardcore artist based in Switzerland, with 14 gigs on
 
 ONX (CH), Megix, Anna Logic
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scheppert/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scheppert/)*

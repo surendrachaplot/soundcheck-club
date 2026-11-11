@@ -1,6 +1,6 @@
 # Pankiun
 
-Pankiun is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Bridge 48, Barcelona on Fri, 20 Nov 2026.
+Pankiun is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Bridge 48, Barcelona on Fri, 20 Nov 2026.
 
 Pankiun is a tech house and techno artist based in Argentina, with 8 gigs on soundcheck across Barcelona. Often billed alongside DFUNKLUB, Edoardo and Gem Wallow. Next up: Bridge 48, Barcelona on Fri 20 Nov.
 
@@ -24,4 +24,4 @@ Pankiun is a tech house and techno artist based in Argentina, with 8 gigs on sou
 
 DFUNKLUB, Edoardo, Gem Wallow
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pankiun/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pankiun/)*

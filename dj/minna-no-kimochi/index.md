@@ -1,6 +1,6 @@
 # Minna-no-Kimochi
 
-Minna-no-Kimochi is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at export, Rotterdam on Sat, 14 Nov 2026.
+Minna-no-Kimochi is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at export, Rotterdam on Sat, 14 Nov 2026.
 
 Minna-no-Kimochi is a techno and trance artist based in United Kingdom, with 39 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Beijing and 21 more. Often billed alongside KATRINA, KUAN and Sandy's Trace. Next up: export, Rotterdam on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Minna-no-Kimochi is a techno and trance artist based in United Kingdom, with 39 
 
 KATRINA, KUAN, Sandy's Trace
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/minna-no-kimochi/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/minna-no-kimochi/)*

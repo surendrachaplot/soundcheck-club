@@ -1,14 +1,15 @@
 # TONKS
 
-TONKS is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at ://about blank, Berlin on Fri, 4 Dec 2026.
+TONKS is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at ://about blank, Berlin on Fri, 4 Dec 2026.
 
-TONKS is a techno and trance artist based in Austria, with 11 gigs on soundcheck across Berlin, Cologne and Vienna. Often billed alongside NooK, KAROLINA and *Tia*. Next up: ://about blank, Berlin on Fri 4 Dec.
+TONKS is a techno and trance artist based in Austria, with 12 gigs on soundcheck across Berlin, Cologne and Vienna. Often billed alongside NooK, KAROLINA and *Tia*. Next up: ://about blank, Berlin on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | ://about blank | Berlin |
+| Sat, 5 Dec 2026 | Club Lucia | Vienna |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ TONKS is a techno and trance artist based in Austria, with 11 gigs on soundcheck
 
 NooK (2), KAROLINA, *Tia*
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tonks-au/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tonks-au/)*

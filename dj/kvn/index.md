@@ -1,6 +1,6 @@
 # KVN
 
-KVN is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Espacio Discotheque, Atlanta on Fri, 13 Nov 2026.
+KVN is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Espacio Discotheque, Atlanta on Fri, 13 Nov 2026.
 
 KVN is a tech house and techno artist based in United States of America, with 18 gigs on soundcheck across Atlanta, Berlin, Glasgow and Hamburg and 6 more. Often billed alongside miku, AFAR and ASIA (DE). Next up: Espacio Discotheque, Atlanta on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ KVN is a tech house and techno artist based in United States of America, with 18
 
 miku, AFAR, ASIA (DE)
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kvn/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kvn/)*

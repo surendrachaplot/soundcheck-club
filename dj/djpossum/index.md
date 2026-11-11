@@ -1,6 +1,6 @@
 # DJ Possum
 
-DJ Possum is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Second Story Studios, Melbourne on Sat, 14 Nov 2026.
+DJ Possum is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Second Story Studios, Melbourne on Sat, 14 Nov 2026.
 
 DJ Possum is a house and techno artist based in Colombia, with 95 gigs on soundcheck across Amsterdam, Berlin, Byron Bay and Copenhagen and 7 more. Often billed alongside Myles Mac, Bex and Hannah D. Next up: Second Story Studios, Melbourne on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ DJ Possum is a house and techno artist based in Colombia, with 95 gigs on soundc
 
 Myles Mac, Bex, Hannah D
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djpossum/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djpossum/)*

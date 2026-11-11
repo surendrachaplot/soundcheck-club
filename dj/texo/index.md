@@ -1,14 +1,14 @@
 # Texo
 
-Texo is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at PKH Warehouse, Berlin on Sat, 21 Nov 2026.
+Texo is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Alte Fabrik, Greifswalder Str. 23A 10407, Berlin on Sat, 21 Nov 2026.
 
-Texo is a psytrance and techno artist based in Germany, with 31 gigs on soundcheck across Berlin and Cologne. Often billed alongside RHYTMOX, Momentune and Daora. Next up: PKH Warehouse, Berlin on Sat 21 Nov.
+Texo is a psytrance and techno artist based in Germany, with 31 gigs on soundcheck across Berlin and Cologne. Often billed alongside RHYTMOX, Momentune and Daora. Next up: TBA - Alte Fabrik, Greifswalder Str. 23A 10407, Berlin on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | PKH Warehouse | Berlin |
+| Sat, 21 Nov 2026 | TBA - Alte Fabrik, Greifswalder Str. 23A 10407 | Berlin |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Texo is a psytrance and techno artist based in Germany, with 31 gigs on soundche
 
 RHYTMOX, Momentune, Daora
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/texo/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/texo/)*

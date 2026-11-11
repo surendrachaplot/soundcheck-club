@@ -1,6 +1,6 @@
 # Gaio
 
-Gaio is a Deep House and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at nueve cero nueve, Mexico-city on Fri, 20 Nov 2026.
+Gaio is a Deep House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at nueve cero nueve, Mexico-city on Fri, 20 Nov 2026.
 
 Gaio is a deep house and electronica artist based in Mexico, with 14 gigs on soundcheck across Medellin, Mexico City and Sao Paulo. Often billed alongside Alejandro Veneno, Duke Skylocker (Disco Dust) and Juan Soto. Next up: nueve cero nueve, Mexico City on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Gaio is a deep house and electronica artist based in Mexico, with 14 gigs on sou
 
 Alejandro Veneno, Duke Skylocker (Disco Dust), Juan Soto
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gaio/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gaio/)*

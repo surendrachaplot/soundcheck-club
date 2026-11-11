@@ -1,6 +1,6 @@
 # Alex Pan (Det)
 
-Alex Pan (Det) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Obedient Missionary, Detroit on Fri, 13 Nov 2026.
+Alex Pan (Det) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Obedient Missionary, Detroit on Fri, 13 Nov 2026.
 
 Alex Pan (Det) is a house and techno artist based in United States of America, with 9 gigs on soundcheck across Chicago and Detroit. Often billed alongside dust (Detroit), britty. and Lo Dazz. Next up: TBA - Obedient Missionary, Detroit on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Alex Pan (Det) is a house and techno artist based in United States of America, w
 
 dust (Detroit), britty., Lo Dazz
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexpan-det/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexpan-det/)*

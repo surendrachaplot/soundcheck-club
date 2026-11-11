@@ -1,6 +1,6 @@
 # Bent
 
-Bent is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Monarch, Berlin on Fri, 27 Nov 2026.
+Bent is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Monarch, Berlin on Fri, 27 Nov 2026.
 
 Bent is a house and techno artist based in Germany, with 11 gigs on soundcheck across Berlin, Ghent, Hamburg and Porto. Often billed alongside Feasting, Gio Goltara and Qualia Trax. Next up: Monarch, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Bent is a house and techno artist based in Germany, with 11 gigs on soundcheck a
 
 Feasting, Gio Goltara, Qualia Trax
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bent/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bent/)*

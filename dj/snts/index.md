@@ -1,6 +1,6 @@
 # SNTS
 
-SNTS is a Techno and Industrial artist with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at BASIS, Utrecht on Fri, 13 Nov 2026.
+SNTS is a Techno and Industrial artist with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at BASIS, Utrecht on Fri, 13 Nov 2026.
 
 SNTS is a techno and industrial artist based in Germany, with 204 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 65 more. Often billed alongside Charlie Sparks, 999999999 and DYEN. Next up: BASIS, Utrecht on Fri 13 Nov.
 
@@ -29,4 +29,4 @@ SNTS is a techno and industrial artist based in Germany, with 204 gigs on soundc
 
 Charlie Sparks, 999999999, DYEN
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/snts/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/snts/)*

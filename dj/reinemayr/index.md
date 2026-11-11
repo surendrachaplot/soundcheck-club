@@ -1,8 +1,8 @@
 # Reine Mayr
 
-Reine Mayr is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Super5, Lyon on Thu, 26 Nov 2026.
+Reine Mayr is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Super5, Lyon on Thu, 26 Nov 2026.
 
-Reine Mayr is a club and techno artist, with 7 gigs on soundcheck across Lyon. Often billed alongside Fleur From Desire, Benedetta and I. JORDAN. Next up: Super5, Lyon on Thu 26 Nov.
+Reine Mayr is a club and techno artist based in France, with 7 gigs on soundcheck across Lyon. Often billed alongside Fleur From Desire, Benedetta and I. JORDAN. Next up: Super5, Lyon on Thu 26 Nov.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ Reine Mayr is a club and techno artist, with 7 gigs on soundcheck across Lyon. O
 
 Fleur From Desire, Benedetta, I. JORDAN
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reinemayr/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reinemayr/)*

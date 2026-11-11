@@ -1,6 +1,6 @@
 # Aexhy
 
-Aexhy is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at ://about blank, Berlin on Fri, 27 Nov 2026.
+Aexhy is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at ://about blank, Berlin on Fri, 27 Nov 2026.
 
 Aexhy is a techno and trance artist based in Germany, with 118 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 17 more. Often billed alongside SACID, Trancemaster Krause and 1luu. Next up: ://about blank, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Aexhy is a techno and trance artist based in Germany, with 118 gigs on soundchec
 
 SACID, Trancemaster Krause, 1luu
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aexhy/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aexhy/)*

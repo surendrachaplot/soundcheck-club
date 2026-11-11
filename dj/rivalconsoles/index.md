@@ -1,6 +1,6 @@
 # Rival Consoles
 
-Rival Consoles is a Electronica and Ambient artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TESTBED, Leeds on Sat, 12 Dec 2026.
+Rival Consoles is a Electronica and Ambient artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TESTBED, Leeds on Sat, 12 Dec 2026.
 
 Rival Consoles is an electronica and ambient artist based in United Kingdom, with 63 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 30 more. Often billed alongside Marcel Dettmann, Mia Koden and Actress. Next up: TESTBED, Leeds on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Rival Consoles is an electronica and ambient artist based in United Kingdom, wit
 
 Marcel Dettmann, Mia Koden, Actress
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rivalconsoles/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rivalconsoles/)*

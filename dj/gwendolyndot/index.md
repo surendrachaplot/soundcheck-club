@@ -1,6 +1,6 @@
 # Gwendolyn Dot
 
-Gwendolyn Dot is a Ambient and New Wave artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Strays, Detroit on Sat, 14 Nov 2026.
+Gwendolyn Dot is a Ambient and New Wave artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Strays, Detroit on Sat, 14 Nov 2026.
 
 Gwendolyn Dot is an ambient and new wave artist based in United States of America, with 8 gigs on soundcheck across Detroit. Often billed alongside Petra Steele, ACE and Alvin Hill. Next up: The Strays, Detroit on Sat 14 Nov.
 
@@ -24,4 +24,4 @@ Gwendolyn Dot is an ambient and new wave artist based in United States of Americ
 
 Petra Steele, ACE, Alvin Hill
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gwendolyndot/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gwendolyndot/)*

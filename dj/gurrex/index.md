@@ -1,6 +1,6 @@
 # Gurrex
 
-Gurrex is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Spook Club, Valencia on Fri, 25 Dec 2026.
+Gurrex is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Spook Club, Valencia on Fri, 25 Dec 2026.
 
 Gurrex is a house and tech house artist based in Spain, with 7 gigs on soundcheck across Madrid and Valencia. Often billed alongside Fes Bondat, alvar. and Clemente (ES). Next up: Spook Club, Valencia on Fri 25 Dec.
 
@@ -23,4 +23,4 @@ Gurrex is a house and tech house artist based in Spain, with 7 gigs on soundchec
 
 Fes Bondat, alvar., Clemente (ES)
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gurrex/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gurrex/)*

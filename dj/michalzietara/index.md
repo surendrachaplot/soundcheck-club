@@ -1,6 +1,6 @@
 # Michal Zietara
 
-Michal Zietara is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Slot, Hamburg on Sun, 29 Nov 2026.
+Michal Zietara is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Slot, Hamburg on Sun, 29 Nov 2026.
 
 Michal Zietara is a house and techno artist based in Germany, with 38 gigs on soundcheck across Berlin, Dortmund / Essen, Hamburg and Leipzig and 4 more. Often billed alongside Momo, Marie Lung and DJ MILLE. Next up: Slot, Hamburg on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Michal Zietara is a house and techno artist based in Germany, with 38 gigs on so
 
 Momo, Marie Lung, DJ MILLE
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/michalzietara/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/michalzietara/)*

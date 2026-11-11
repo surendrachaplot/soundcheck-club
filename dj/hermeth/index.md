@@ -1,6 +1,6 @@
 # Hermeth
 
-Hermeth is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at BABY01, Berlin on Sat, 5 Dec 2026.
+Hermeth is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at BABY01, Berlin on Sat, 5 Dec 2026.
 
 Hermeth is a techno and electro artist based in Switzerland, with 47 gigs on soundcheck across Amsterdam, Basel, Berlin and Bucharest and 15 more. Often billed alongside Mother Menace, Powder Ranger and A/PM. Next up: BABY01, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Hermeth is a techno and electro artist based in Switzerland, with 47 gigs on sou
 
 Mother Menace, Powder Ranger, A/PM
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hermeth/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hermeth/)*

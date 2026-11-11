@@ -1,6 +1,6 @@
 # CamelPhat
 
-CamelPhat is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Lion Super Club, Seoul on Thu, 12 Nov 2026.
+CamelPhat is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Lion Super Club, Seoul on Thu, 12 Nov 2026.
 
 CamelPhat is a techno and house artist based in United Kingdom, with 233 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 53 more. Often billed alongside Layla Benitez, Massano and Hot Since 82. Next up: Lion Super Club, Seoul on Thu 12 Nov.
 
@@ -27,4 +27,4 @@ CamelPhat is a techno and house artist based in United Kingdom, with 233 gigs on
 
 Layla Benitez, Massano, Hot Since 82
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/camelphat/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/camelphat/)*

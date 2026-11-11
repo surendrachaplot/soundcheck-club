@@ -1,6 +1,6 @@
 # RBX
 
-RBX is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Ciało, Wroclaw on Fri, 13 Nov 2026.
+RBX is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Ciało, Wroclaw on Fri, 13 Nov 2026.
 
 RBX is a techno and industrial artist based in Italy, with 55 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside OMAKS, Alignment and BIIA. Next up: Ciało, Wroclaw on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ RBX is a techno and industrial artist based in Italy, with 55 gigs on soundcheck
 
 OMAKS, Alignment, BIIA
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rbx/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rbx/)*

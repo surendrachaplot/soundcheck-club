@@ -1,6 +1,6 @@
 # Shmonèss
 
-Shmonèss is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Pücklerstraße 34, 10997 Berlin, Berlin on Sun, 13 Dec 2026.
+Shmonèss is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Pücklerstraße 34, 10997 Berlin, Berlin on Sun, 13 Dec 2026.
 
 Shmonèss is a techno and house artist based in Austria, with 7 gigs on soundcheck across Berlin and Vienna. Often billed alongside DJ SWISHERMAN, EliaHaze and babymullet. Next up: TBA - Pücklerstraße 34, 10997 Berlin, Berlin on Sun 13 Dec.
 
@@ -23,4 +23,4 @@ Shmonèss is a techno and house artist based in Austria, with 7 gigs on soundche
 
 DJ SWISHERMAN, EliaHaze, babymullet
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shmoness-at/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shmoness-at/)*

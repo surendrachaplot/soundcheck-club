@@ -1,6 +1,6 @@
 # Dr. Dou Social Club
 
-Dr. Dou Social Club is a music venue in Barcelona with 9 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Thursday's Prescription - Lya-G" on Thu, 12 Nov 2026.
+Dr. Dou Social Club is a music venue in Barcelona with 9 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Thursday's Prescription - Lya-G" on Thu, 12 Nov 2026.
 
 Dr. Dou Social Club is a music venue in Barcelona listed on soundcheck. 9 upcoming gigs, with line-ups including DiSALAZAR. See dates, start times and who's playing. Carrer del Dr. Dou, 7, local 2, 08001 Barcelona, Spain.
 
@@ -22,4 +22,4 @@ Dr. Dou Social Club is a music venue in Barcelona listed on soundcheck. 9 upcomi
 
 Carrer del Dr. Dou, 7, local 2, 08001 Barcelona, Spain, Barcelona
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/dr-dou-social-club/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/dr-dou-social-club/)*

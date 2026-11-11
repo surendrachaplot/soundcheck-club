@@ -1,6 +1,6 @@
 # Z.O.mbie
 
-Z.O.mbie is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Georgia Bar, Berlin on Sat, 14 Nov 2026.
+Z.O.mbie is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Georgia Bar, Berlin on Sat, 14 Nov 2026.
 
 Z.O.mbie is a house and tech house artist based in Bulgaria, with 14 gigs on soundcheck across Berlin and Madrid. Often billed alongside MARIE.MOON, Chris Tiamo and Nat SuPrise. Next up: Georgia Bar, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Z.O.mbie is a house and tech house artist based in Bulgaria, with 14 gigs on sou
 
 MARIE.MOON, Chris Tiamo, Nat SuPrise
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/z.o.mbie/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/z.o.mbie/)*

@@ -1,6 +1,6 @@
 # CADZOW
 
-CADZOW is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at The Limelight, Belfast on Sat, 12 Dec 2026.
+CADZOW is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Limelight, Belfast on Sat, 12 Dec 2026.
 
 CADZOW is a techno and trance artist based in United Kingdom, with 60 gigs on soundcheck across Aberdeen, Amsterdam, Belfast and Brisbane and 14 more. Often billed alongside Alex Farell, Jezza & Jod and Black Traffic. Next up: The Limelight, Belfast on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ CADZOW is a techno and trance artist based in United Kingdom, with 60 gigs on so
 
 Alex Farell, Jezza & Jod, Black Traffic
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cadzow/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cadzow/)*

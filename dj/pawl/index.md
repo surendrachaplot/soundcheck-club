@@ -1,6 +1,6 @@
 # Pawl
 
-Pawl is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Collect LX Factory, Lisbon on Wed, 25 Nov 2026.
+Pawl is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Collect LX Factory, Lisbon on Wed, 25 Nov 2026.
 
 Pawl is a house and techno artist based in United Kingdom, with 16 gigs on soundcheck across Lisbon. Often billed alongside Penelope, Arque and Ben Kamal. Next up: Collect LX Factory, Lisbon on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ Pawl is a house and techno artist based in United Kingdom, with 16 gigs on sound
 
 Penelope (2), Arque, Ben Kamal
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pawl/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pawl/)*

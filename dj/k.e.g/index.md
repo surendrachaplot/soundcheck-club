@@ -1,13 +1,14 @@
 # K.E.G
 
-K.E.G is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Fri, 4 Dec 2026.
+K.E.G is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Mitsuki, Tokyo on Sat, 14 Nov 2026.
 
-K.E.G is a house and techno artist based in Japan, with 43 gigs on soundcheck across Tokyo. Often billed alongside Gonno, DJ MARIA. and Abiu. Next up: DJ Bar Bridge Shinjuku, Tokyo on Fri 4 Dec.
+K.E.G is a house and techno artist based in Japan, with 44 gigs on soundcheck across Tokyo. Often billed alongside Gonno, DJ MARIA. and Abiu. Next up: Mitsuki, Tokyo on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | Mitsuki | Tokyo |
 | Fri, 4 Dec 2026 | DJ Bar Bridge Shinjuku | Tokyo |
 
 ## Recently played
@@ -25,4 +26,4 @@ K.E.G is a house and techno artist based in Japan, with 43 gigs on soundcheck ac
 
 Gonno, DJ MARIA., Abiu
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/k.e.g/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/k.e.g/)*

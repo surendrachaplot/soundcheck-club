@@ -1,8 +1,8 @@
 # Christian Kuhlmann
 
-Christian Kuhlmann is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Jonny Knüppel, Berlin on Sat, 14 Nov 2026.
+Christian Kuhlmann is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Jonny Knüppel, Berlin on Sat, 14 Nov 2026.
 
-Christian Kuhlmann is a techno and electro artist, with 5 gigs on soundcheck across Berlin and Hamburg. Often billed alongside ANDATA, Anja Zaube and BBYG. Next up: Jonny Knüppel, Berlin on Sat 14 Nov.
+Christian Kuhlmann is a techno and electro artist based in Germany, with 5 gigs on soundcheck across Berlin and Hamburg. Often billed alongside ANDATA, Anja Zaube and BBYG. Next up: Jonny Knüppel, Berlin on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ Christian Kuhlmann is a techno and electro artist, with 5 gigs on soundcheck acr
 
 ANDATA, Anja Zaube, BBYG
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/christiankuhlmann/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/christiankuhlmann/)*

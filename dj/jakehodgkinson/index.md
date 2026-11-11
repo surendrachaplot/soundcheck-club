@@ -1,6 +1,6 @@
 # Jake Hodgkinson
 
-Jake Hodgkinson is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Last Arch, London on Sun, 20 Dec 2026.
+Jake Hodgkinson is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Last Arch, London on Sun, 20 Dec 2026.
 
 Jake Hodgkinson is a house and tech house artist based in United Kingdom, with 39 gigs on soundcheck across Barcelona, Bristol, Leeds and London and 3 more. Often billed alongside E. Alexander, HEAVEN-LEE and Ollie Drummond. Next up: Last Arch, London on Sun 20 Dec.
 
@@ -25,4 +25,4 @@ Jake Hodgkinson is a house and tech house artist based in United Kingdom, with 3
 
 E. Alexander, HEAVEN-LEE, Ollie Drummond
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jakehodgkinson/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jakehodgkinson/)*

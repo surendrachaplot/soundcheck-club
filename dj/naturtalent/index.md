@@ -1,6 +1,6 @@
 # NATURTALENT
 
-NATURTALENT is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Roof 175, Frankfurt on Sat, 14 Nov 2026.
+NATURTALENT is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Roof 175, Frankfurt on Sat, 14 Nov 2026.
 
 NATURTALENT is a techno and trance artist based in Germany, with 9 gigs on soundcheck across Frankfurt and Leipzig. Often billed alongside The Belgian Stallion, AMBAM and ANN-LUX. Next up: Roof 175, Frankfurt on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ NATURTALENT is a techno and trance artist based in Germany, with 9 gigs on sound
 
 The Belgian Stallion, AMBAM, ANN-LUX
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/naturtalent/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/naturtalent/)*

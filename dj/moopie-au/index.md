@@ -1,8 +1,8 @@
 # Moopie
 
-Moopie is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Civic Underground, Sydney on Fri, 13 Nov 2026.
+Moopie is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Civic Underground, Sydney on Fri, 13 Nov 2026.
 
-Moopie is a house and techno artist based in Australia, with 234 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 26 more. Often billed alongside Kia (AU), Emelyne and Hannah D. Next up: Civic Underground, Sydney on Fri 13 Nov.
+Moopie is a house and techno artist based in Australia, with 235 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 26 more. Often billed alongside Kia (AU), Emelyne and Hannah D. Next up: Civic Underground, Sydney on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -14,12 +14,12 @@ Moopie is a house and techno artist based in Australia, with 234 gigs on soundch
 | Sat, 14 Nov 2026 | Angel Music Bar | Melbourne |
 | Sun, 15 Nov 2026 | Miscellania | Melbourne |
 | Fri, 20 Nov 2026 | The Wildlands | Melbourne |
+| Sat, 28 Nov 2026 | Solace | Melbourne |
 | Fri, 4 Dec 2026 | Miscellania | Melbourne |
 | Sat, 5 Dec 2026 | Club 77 | Sydney |
 | Sun, 6 Dec 2026 | Collingwood Yards | Melbourne |
 | Fri, 11 Dec 2026 | TBA - 3.5 Hours West of Gadigal | Sydney |
 | Sat, 19 Dec 2026 | Heide Museum of Modern Art Sculpture Park | Melbourne |
-| Fri, 5 Mar 2027 | Moyston | Melbourne |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Moopie is a house and techno artist based in Australia, with 234 gigs on soundch
 
 Kia (AU), Emelyne, Hannah D
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moopie-au/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moopie-au/)*

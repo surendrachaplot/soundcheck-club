@@ -1,6 +1,6 @@
-# Rotation Audio Presents Full Pelt Christmas Party at The Vault Nightclub Bournemouth
+# Rotation Audio presents: Full Pelt Christmas Party at The Vault Nightclub Bournemouth
 
-Rotation Audio Presents Full Pelt Christmas Party at The Vault Nightclub Bournemouth on Sat 19 Dec, South East. 4 artists: Djinn, Earl Grey, Overlook and Sicknote. See the line-up on soundcheck.
+Rotation Audio presents: Full Pelt Christmas Party at The Vault Nightclub Bournemouth on Sat 19 Dec, South East. 4 artists: Djinn, Earl Grey, Overlook and Sicknote. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

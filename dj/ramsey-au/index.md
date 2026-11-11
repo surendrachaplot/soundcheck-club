@@ -1,6 +1,6 @@
 # RAMSEY (AU)
 
-RAMSEY (AU) is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Angel Music Bar, Melbourne on Sat, 21 Nov 2026.
+RAMSEY (AU) is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Angel Music Bar, Melbourne on Sat, 21 Nov 2026.
 
 RAMSEY (AU) is a bass and techno artist based in Australia, with 28 gigs on soundcheck across Melbourne, Perth and Sydney. Often billed alongside MzRizk, Deepa and Luqman. Next up: Angel Music Bar, Melbourne on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ RAMSEY (AU) is a bass and techno artist based in Australia, with 28 gigs on soun
 
 MzRizk, Deepa, Luqman
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ramsey-au/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ramsey-au/)*

@@ -1,6 +1,6 @@
 # Target Demographic
 
-Target Demographic is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Onaciu, Santiago on Fri, 20 Nov 2026.
+Target Demographic is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Onaciu, Santiago on Fri, 20 Nov 2026.
 
 Target Demographic is a house and techno artist based in United States of America, with 30 gigs on soundcheck across Amsterdam, Argentina, Athens and Barcelona and 17 more. Often billed alongside Shaolin Cowboy, Pijus and DJ WINDOWS 7. Next up: Onaciu, Santiago on Fri 20 Nov.
 
@@ -32,4 +32,4 @@ Target Demographic is a house and techno artist based in United States of Americ
 
 Shaolin Cowboy, Pijus, DJ WINDOWS 7
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/targetdemographic/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/targetdemographic/)*

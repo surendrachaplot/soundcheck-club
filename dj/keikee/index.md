@@ -1,6 +1,6 @@
 # keikee
 
-keikee is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Stoked&stoned, Seoul on Mon, 9 Nov 2026.
+keikee is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Stoked&stoned, Seoul on Mon, 9 Nov 2026.
 
 keikee is a house and techno artist based in South Korea, with 51 gigs on soundcheck across Berlin, Cologne, Düsseldorf and Mexico City and 1 more. Often billed alongside Philipp Fein, RTRP and Peter Invasion. Next up: Stoked&stoned, Seoul on Mon 9 Nov.
 
@@ -27,4 +27,4 @@ keikee is a house and techno artist based in South Korea, with 51 gigs on soundc
 
 Philipp Fein, RTRP, Peter Invasion
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/keikee/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/keikee/)*

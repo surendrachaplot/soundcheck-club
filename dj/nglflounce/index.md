@@ -1,14 +1,15 @@
 # NGL Flounce
 
-NGL Flounce is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at White Wall Studio, Montreal on Sat, 14 Nov 2026.
+NGL Flounce is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at White Wall Studio, Montreal on Sat, 14 Nov 2026.
 
-NGL Flounce is a club and techno artist, with 21 gigs on soundcheck across Montreal. Often billed alongside Jamvvis, 16:9 ratio and DJ Pacifier. Next up: White Wall Studio, Montreal on Sat 14 Nov.
+NGL Flounce is a club and techno artist, with 22 gigs on soundcheck across Montreal. Often billed alongside Jamvvis, 16:9 ratio and DJ Pacifier. Next up: White Wall Studio, Montreal on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | White Wall Studio | Montreal |
+| Thu, 26 Nov 2026 | Système | Montreal |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ NGL Flounce is a club and techno artist, with 21 gigs on soundcheck across Montr
 
 Jamvvis, 16:9 ratio, DJ Pacifier
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nglflounce/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nglflounce/)*

@@ -1,6 +1,6 @@
 # FlökosH
 
-FlökosH is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Astron Club, Athens on Sat, 21 Nov 2026.
+FlökosH is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Astron Club, Athens on Sat, 21 Nov 2026.
 
 FlökosH is a club and techno artist based in Greece, with 23 gigs on soundcheck across Athens. Often billed alongside Ayshel, GRETA (GR) and Apu Nanu. Next up: Astron Club, Athens on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ FlökosH is a club and techno artist based in Greece, with 23 gigs on soundcheck
 
 Ayshel, GRETA (GR), Apu Nanu
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flokosh/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flokosh/)*

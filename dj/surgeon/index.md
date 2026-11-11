@@ -1,6 +1,6 @@
 # Surgeon
 
-Surgeon is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at SMUT Athens, Athens on Sat, 14 Nov 2026.
+Surgeon is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at SMUT Athens, Athens on Sat, 14 Nov 2026.
 
 Surgeon is a techno and house artist based in United Kingdom, with 138 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 40 more. Often billed alongside Speedy J, DJ Pete and Regis. Next up: SMUT Athens, Athens on Sat 14 Nov.
 
@@ -32,4 +32,4 @@ Surgeon is a techno and house artist based in United Kingdom, with 138 gigs on s
 
 Speedy J, DJ Pete, Regis
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/surgeon/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/surgeon/)*

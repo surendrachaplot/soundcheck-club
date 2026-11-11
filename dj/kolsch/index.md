@@ -1,6 +1,6 @@
 # Kölsch
 
-Kölsch is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Parque de la Ciudad, CABA, Buenos Aires on Sat, 14 Nov 2026.
+Kölsch is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Parque de la Ciudad, CABA, Buenos Aires on Sat, 14 Nov 2026.
 
 Kölsch is a techno and house artist based in Denmark, with 170 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 50 more. Often billed alongside Kevin de Vries, Adam Beyer and CamelPhat. Next up: TBA - Parque de la Ciudad, CABA, Buenos Aires on Sat 14 Nov.
 
@@ -31,4 +31,4 @@ Kölsch is a techno and house artist based in Denmark, with 170 gigs on soundche
 
 Kevin de Vries, Adam Beyer, CamelPhat
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kolsch/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kolsch/)*

@@ -1,6 +1,6 @@
 # USOF
 
-USOF is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at B.Leza, Lisbon on Thu, 19 Nov 2026.
+USOF is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at B.Leza, Lisbon on Thu, 19 Nov 2026.
 
 USOF is an experimental and ambient artist based in Portugal, with 24 gigs on soundcheck across Berlin, Cork, Leipzig and Lisbon and 2 more. Often billed alongside Carolf, Asio Otus and Van Der (PT). Next up: B.Leza, Lisbon on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ USOF is an experimental and ambient artist based in Portugal, with 24 gigs on so
 
 Carolf, Asio Otus (2), Van Der (PT)
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/usof/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/usof/)*

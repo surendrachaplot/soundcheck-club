@@ -1,6 +1,6 @@
 # Afskum
 
-Afskum is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Loppen Christiania, Copenhagen on Sat, 6 Feb 2027.
+Afskum is a electronic artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Loppen Christiania, Copenhagen on Sat, 6 Feb 2027.
 
 Afskum is an electronic artist based in Denmark, with 6 gigs on soundcheck across Copenhagen. Often billed alongside Cynnamon, DJ Nah Care and Deb Foam. Next up: Loppen Christiania, Copenhagen on Sat 6 Feb.
 
@@ -22,4 +22,4 @@ Afskum is an electronic artist based in Denmark, with 6 gigs on soundcheck acros
 
 Cynnamon, DJ Nah Care, Deb Foam
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/afskum/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/afskum/)*

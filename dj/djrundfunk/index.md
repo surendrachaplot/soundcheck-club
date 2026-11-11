@@ -1,6 +1,6 @@
 # DjRundfunk
 
-DjRundfunk is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at ://about blank, Berlin on Fri, 4 Dec 2026.
+DjRundfunk is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at ://about blank, Berlin on Fri, 4 Dec 2026.
 
 DjRundfunk is a trance and techno artist based in Germany, with 5 gigs on soundcheck across Berlin, Cologne and Stuttgart. Often billed alongside *Tia*, 3LEEZA and AMO. Next up: ://about blank, Berlin on Fri 4 Dec.
 
@@ -21,4 +21,4 @@ DjRundfunk is a trance and techno artist based in Germany, with 5 gigs on soundc
 
 *Tia*, 3LEEZA, AMO
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djrundfunk/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djrundfunk/)*

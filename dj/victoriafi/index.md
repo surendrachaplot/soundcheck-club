@@ -1,6 +1,6 @@
 # Victoria (FI)
 
-Victoria (FI) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Siltanen, Helsinki on Fri, 13 Nov 2026.
+Victoria (FI) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Siltanen, Helsinki on Fri, 13 Nov 2026.
 
 Victoria (FI) is a house and techno artist based in Finland, with 15 gigs on soundcheck across Copenhagen and Helsinki. Often billed alongside DJ Aleksi, Maria Wesander and Anish Kumar. Next up: Siltanen, Helsinki on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Victoria (FI) is a house and techno artist based in Finland, with 15 gigs on sou
 
 DJ Aleksi, Maria Wesander, Anish Kumar
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/victoriafi/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/victoriafi/)*

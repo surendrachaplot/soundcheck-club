@@ -1,6 +1,6 @@
 # Sincerely,
 
-Sincerely, is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Spkrbox, Detroit on Wed, 11 Nov 2026.
+Sincerely, is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Spkrbox, Detroit on Wed, 11 Nov 2026.
 
 Sincerely, is a house and techno artist, with 21 gigs on soundcheck across Chicago, Detroit and Los Angeles. Often billed alongside ATM, ATTHEMOMENT and BLAAQGOLD. Next up: Spkrbox, Detroit on Wed 11 Nov.
 
@@ -25,4 +25,4 @@ Sincerely, is a house and techno artist, with 21 gigs on soundcheck across Chica
 
 ATM, ATTHEMOMENT, BLAAQGOLD
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sincerely,/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sincerely,/)*

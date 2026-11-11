@@ -1,6 +1,6 @@
 # Madwave
 
-Madwave is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Zinkbad Eventhalle, Zurich on Thu, 31 Dec 2026.
+Madwave is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Zinkbad Eventhalle, Zurich on Thu, 31 Dec 2026.
 
 Madwave is a trance and techno artist based in Switzerland, with 40 gigs on soundcheck across Bern, Frankfurt, Geneva and Hamburg and 8 more. Often billed alongside Daxson, Agnelli & Nelson and Ferry Corsten. Next up: Zinkbad Eventhalle, Zurich on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Madwave is a trance and techno artist based in Switzerland, with 40 gigs on soun
 
 Daxson, Agnelli & Nelson, Ferry Corsten
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/madwave/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/madwave/)*

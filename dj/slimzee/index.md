@@ -1,6 +1,6 @@
 # Slimzee
 
-Slimzee is a Grime and Garage artist with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Electric Brixton, London on Fri, 13 Nov 2026.
+Slimzee is a Grime and Garage artist with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Electric Brixton, London on Fri, 13 Nov 2026.
 
 Slimzee is a grime and garage artist based in United Kingdom, with 57 gigs on soundcheck across Amsterdam, Berlin, Bristol and Brussels and 5 more. Often billed alongside Riko Dan, Boylan and MJK. Next up: Electric Brixton, London on Fri 13 Nov.
 
@@ -29,4 +29,4 @@ Slimzee is a grime and garage artist based in United Kingdom, with 57 gigs on so
 
 Riko Dan, Boylan, MJK
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slimzee/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slimzee/)*

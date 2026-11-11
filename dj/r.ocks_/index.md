@@ -1,6 +1,6 @@
 # R.ocks
 
-R.ocks is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Cascina nascosta, Milan on Sun, 22 Nov 2026.
+R.ocks is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Cascina nascosta, Milan on Sun, 22 Nov 2026.
 
 R.ocks is a house and techno artist based in Italy, with 32 gigs on soundcheck across Berlin and Milan. Often billed alongside Kingsizebed, 131bpm and Aaron Blau. Next up: Cascina nascosta, Milan on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ R.ocks is a house and techno artist based in Italy, with 32 gigs on soundcheck a
 
 Kingsizebed, 131bpm, Aaron Blau
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/r.ocks_/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/r.ocks_/)*

@@ -1,6 +1,6 @@
 # Awa (uwu)
 
-Awa (uwu) is a Latin Bass and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Roma, Norte, Mexico City on Sat, 21 Nov 2026.
+Awa (uwu) is a Latin Bass and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Roma, Norte, Mexico City on Sat, 21 Nov 2026.
 
 Awa (uwu) is a latin bass and club artist based in Mexico, with 48 gigs on soundcheck across Bangkok, Bogotá, Christchurch and Guadalajara and 3 more. Often billed alongside ADAKEO, Brujx Dmazapan and Lyo XS. Next up: TBA - Roma, Norte, Mexico City on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Awa (uwu) is a latin bass and club artist based in Mexico, with 48 gigs on sound
 
 ADAKEO, Brujx Dmazapan, Lyo XS
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/awauwu/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/awauwu/)*

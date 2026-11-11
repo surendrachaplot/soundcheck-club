@@ -1,6 +1,6 @@
 # DJ Assault
 
-DJ Assault is a Ghetto Tech and Techno artist with 6 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Colour Factory, London on Fri, 13 Nov 2026.
+DJ Assault is a Ghetto Tech and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Colour Factory, London on Fri, 13 Nov 2026.
 
 DJ Assault is a ghetto tech and techno artist based in United States of America, with 185 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 51 more. Often billed alongside Fullbodydurag, Detroit In Effect and DJ Godfather. Next up: Colour Factory, London on Fri 13 Nov.
 
@@ -30,4 +30,4 @@ DJ Assault is a ghetto tech and techno artist based in United States of America,
 
 Fullbodydurag, Detroit In Effect, DJ Godfather
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djassault/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djassault/)*

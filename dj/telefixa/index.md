@@ -1,6 +1,6 @@
 # Telefixa
 
-Telefixa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Smith St Hotel, Melbourne on Sun, 15 Nov 2026.
+Telefixa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Smith St Hotel, Melbourne on Sun, 15 Nov 2026.
 
 Telefixa is a techno and house artist based in Australia, with 49 gigs on soundcheck across Melbourne. Often billed alongside Tommy Craig, 3LOAR and Black Dave. Next up: Smith St Hotel, Melbourne on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Telefixa is a techno and house artist based in Australia, with 49 gigs on soundc
 
 Tommy Craig, 3LOAR, Black Dave
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/telefixa/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/telefixa/)*

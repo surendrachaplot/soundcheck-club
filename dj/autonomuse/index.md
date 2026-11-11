@@ -1,6 +1,6 @@
 # Autonomuse
 
-Autonomuse is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Creative Cluster Vienna, Vienna on Sat, 28 Nov 2026.
+Autonomuse is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Creative Cluster Vienna, Vienna on Sat, 28 Nov 2026.
 
 Autonomuse is a techno and hardcore artist, with 7 gigs on soundcheck across Vienna. Often billed alongside Adriatica, Anemona and Codex Empire. Next up: Creative Cluster Vienna, Vienna on Sat 28 Nov.
 
@@ -23,4 +23,4 @@ Autonomuse is a techno and hardcore artist, with 7 gigs on soundcheck across Vie
 
 Adriatica, Anemona, Codex Empire
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/autonomuse/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/autonomuse/)*

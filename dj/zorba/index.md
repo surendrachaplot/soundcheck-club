@@ -1,13 +1,14 @@
 # Zorba
 
-Zorba is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Atdge Seoul, Seoul on Fri, 27 Nov 2026.
+Zorba is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at vurt., Seoul on Fri, 20 Nov 2026.
 
-Zorba is a techno and house artist based in South Korea, with 91 gigs on soundcheck across Seoul and Tokyo. Often billed alongside chukimaandal, Jama and Inger. Next up: Atdge Seoul, Seoul on Fri 27 Nov.
+Zorba is a techno and house artist based in South Korea, with 92 gigs on soundcheck across Seoul and Tokyo. Often billed alongside chukimaandal, Jama and Inger. Next up: vurt., Seoul on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | vurt. | Seoul |
 | Fri, 27 Nov 2026 | Atdge Seoul | Seoul |
 | Sat, 28 Nov 2026 | Volnost | Seoul |
 
@@ -26,4 +27,4 @@ Zorba is a techno and house artist based in South Korea, with 91 gigs on soundch
 
 chukimaandal, Jama (2), Inger
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zorba/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zorba/)*

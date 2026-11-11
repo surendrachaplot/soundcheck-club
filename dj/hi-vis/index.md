@@ -1,6 +1,6 @@
 # Hi-Vis
 
-Hi-Vis is a Downtempo and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Podlasie Club, Chicago on Sat, 12 Dec 2026.
+Hi-Vis is a Downtempo and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Podlasie Club, Chicago on Sat, 12 Dec 2026.
 
 Hi-Vis is a downtempo and experimental artist based in United States of America, with 9 gigs on soundcheck across Chicago, Detroit and New York City. Often billed alongside sold, BEIGE and Bryan Kasenic. Next up: Podlasie Club, Chicago on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Hi-Vis is a downtempo and experimental artist based in United States of America,
 
 sold, BEIGE, Bryan Kasenic
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hi-vis/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hi-vis/)*

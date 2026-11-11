@@ -1,6 +1,6 @@
 # Usherenko
 
-Usherenko is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Hoppetosse, Berlin on Fri, 20 Nov 2026.
+Usherenko is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Hoppetosse, Berlin on Fri, 20 Nov 2026.
 
 Usherenko is a house and techno artist based in United States of America, with 89 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Beijing and 19 more. Often billed alongside Ika (GE), Gio Shengelia and Julian Bomm. Next up: Hoppetosse, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Usherenko is a house and techno artist based in United States of America, with 8
 
 Ika (GE), Gio Shengelia, Julian Bomm
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/usherenko/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/usherenko/)*

@@ -1,6 +1,6 @@
 # Caleb
 
-Caleb is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
+Caleb is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
 
 Caleb is a techno and house artist based in United States of America, with 20 gigs on soundcheck across New York City, Seoul and South Korea. Often billed alongside Taelyn, Adroit Joe and Bagagee Viphex13. Next up: TBA - Jacks Bar, South Korea on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Caleb is a techno and house artist based in United States of America, with 20 gi
 
 Taelyn, Adroit Joe, Bagagee Viphex13
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caleb/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caleb/)*

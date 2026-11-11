@@ -1,6 +1,6 @@
 # Hannah Wants
 
-Hannah Wants is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at The Clock Factory, Bristol on Fri, 20 Nov 2026.
+Hannah Wants is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Clock Factory, Bristol on Fri, 20 Nov 2026.
 
 Hannah Wants is a house and tech house artist based in United Kingdom, with 112 gigs on soundcheck across Amsterdam, Auckland, Austin and Bali and 37 more. Often billed alongside Arielle Free, Claptone and Sam Divine. Next up: The Clock Factory, Bristol on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ Hannah Wants is a house and tech house artist based in United Kingdom, with 112 
 
 Arielle Free, Claptone, Sam Divine
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahwants/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahwants/)*

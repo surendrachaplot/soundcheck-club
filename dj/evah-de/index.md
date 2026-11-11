@@ -1,6 +1,6 @@
 # evah
 
-evah is a House and Electro artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Tresor / Globus, Berlin on Wed, 2 Dec 2026.
+evah is a House and Electro artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Tresor / Globus, Berlin on Wed, 2 Dec 2026.
 
 evah is a house and electro artist based in Germany, with 17 gigs on soundcheck across Bergen and Berlin. Often billed alongside Barbara Hofmann, Jessamine and Klex. Next up: Tresor / Globus, Berlin on Wed 2 Dec.
 
@@ -28,4 +28,4 @@ evah is a house and electro artist based in Germany, with 17 gigs on soundcheck 
 
 Barbara Hofmann, Jessamine, Klex
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/evah-de/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/evah-de/)*

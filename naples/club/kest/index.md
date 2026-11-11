@@ -1,6 +1,6 @@
 # Kestè
 
-Kestè is a music venue in Naples with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. The next is "Analog Disorder Showcase DXXXV + Cr Herz" on Sat, 14 Nov 2026.
+Kestè is a music venue in Naples with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "Analog Disorder Showcase DXXXV + Cr Herz" on Sat, 14 Nov 2026.
 
 Kestè is a music venue in Naples listed on soundcheck. 1 upcoming gig, with line-ups including CRHERZ. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Kestè is a music venue in Naples listed on soundcheck. 1 upcoming gig, with lin
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Analog Disorder Showcase DXXXV + Cr Herz | CRHERZ |
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/naples/club/kest/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/naples/club/kest/)*

@@ -1,6 +1,6 @@
 # stress tess
 
-stress tess is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Brooklyn, New-york-city on Sat, 5 Dec 2026.
+stress tess is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Brooklyn, New-york-city on Sat, 5 Dec 2026.
 
 stress tess is a techno and trance artist based in United States of America, with 8 gigs on soundcheck across New York City and Pittsburgh. Often billed alongside dj33L, R-DNA and SEELIE.. Next up: TBA - Brooklyn, New York City on Sat 5 Dec.
 
@@ -24,4 +24,4 @@ stress tess is a techno and trance artist based in United States of America, wit
 
 dj33L, R-DNA, SEELIE.
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stresstess/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stresstess/)*

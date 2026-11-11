@@ -1,6 +1,6 @@
 # Pat Hyland
 
-Pat Hyland is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Hang Dai Chinese, Dublin on Fri, 27 Nov 2026.
+Pat Hyland is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Hang Dai Chinese, Dublin on Fri, 27 Nov 2026.
 
 Pat Hyland is a house and minimal artist based in Ireland, with 44 gigs on soundcheck across Belfast and Dublin. Often billed alongside Marion Hawkes, Conor Schmtz and Glenn Davis. Next up: Hang Dai Chinese, Dublin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Pat Hyland is a house and minimal artist based in Ireland, with 44 gigs on sound
 
 Marion Hawkes, Conor Schmtz, Glenn Davis
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pathyland/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pathyland/)*

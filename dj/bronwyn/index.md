@@ -1,6 +1,6 @@
 # Bronwyn
 
-Bronwyn is a Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Planet Wax, London on Thu, 19 Nov 2026.
+Bronwyn is a Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Planet Wax, London on Thu, 19 Nov 2026.
 
 Bronwyn is a bass and jungle artist based in Canada, with 16 gigs on soundcheck across Bristol, Calgary, Dublin and London and 1 more. Often billed alongside Vasho, cy.matic and cy.matic (visuals). Next up: Planet Wax, London on Thu 19 Nov.
 
@@ -26,4 +26,4 @@ Bronwyn is a bass and jungle artist based in Canada, with 16 gigs on soundcheck 
 
 Vasho, cy.matic, cy.matic (visuals)
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bronwyn/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bronwyn/)*

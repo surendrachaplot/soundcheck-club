@@ -1,6 +1,6 @@
 # Azucy
 
-Azucy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at RADION, Amsterdam on Thu, 31 Dec 2026.
+Azucy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at RADION, Amsterdam on Thu, 31 Dec 2026.
 
 Azucy is a techno and house artist based in Netherlands, with 23 gigs on soundcheck across Amsterdam, Antwerp, Bali and Dortmund / Essen. Often billed alongside DJ Bone, Tälor and Yeti Mind Tricks. Next up: RADION, Amsterdam on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Azucy is a techno and house artist based in Netherlands, with 23 gigs on soundch
 
 DJ Bone, Tälor, Yeti Mind Tricks
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/azucy/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/azucy/)*

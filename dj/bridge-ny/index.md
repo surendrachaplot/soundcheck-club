@@ -1,8 +1,8 @@
 # Bridge (NY)
 
-Bridge (NY) is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Invisible Wind Factory, Liverpool on Sat, 14 Nov 2026.
+Bridge (NY) is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Invisible Wind Factory, Liverpool on Sat, 14 Nov 2026.
 
-Bridge (NY) is a house and disco artist based in United States of America, with 56 gigs on soundcheck across Amsterdam, Boston, Dublin and Lisbon and 9 more. Often billed alongside CRVM, Wolf Spritzer and DJ Shannon. Next up: Invisible Wind Factory, Liverpool on Sat 14 Nov.
+Bridge (NY) is a house and disco artist based in United States of America, with 57 gigs on soundcheck across Amsterdam, Boston, Dublin and Lisbon and 9 more. Often billed alongside CRVM, Wolf Spritzer and DJ Shannon. Next up: Invisible Wind Factory, Liverpool on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Bridge (NY) is a house and disco artist based in United States of America, with 
 | Sat, 14 Nov 2026 | Invisible Wind Factory | Liverpool |
 | Sat, 12 Dec 2026 | Loso | Richmond |
 | Sat, 19 Dec 2026 | Nowadays | New York City |
+| Fri, 29 Jan 2027 | Village Underground | London |
 | Sat, 6 Feb 2027 | Knockdown Center | New-york-city |
 
 ## Recently played
@@ -28,4 +29,4 @@ Bridge (NY) is a house and disco artist based in United States of America, with 
 
 CRVM, Wolf Spritzer, DJ Shannon
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bridge-ny/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bridge-ny/)*

@@ -1,6 +1,6 @@
 # Hyperprism
 
-Hyperprism is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Solace, Melbourne on Thu, 3 Dec 2026.
+Hyperprism is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Solace, Melbourne on Thu, 3 Dec 2026.
 
 Hyperprism is a techno and house artist based in Australia, with 9 gigs on soundcheck across Melbourne. Often billed alongside Idealist, Willis Anne and 2 Factor Authentication. Next up: Solace, Melbourne on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Hyperprism is a techno and house artist based in Australia, with 9 gigs on sound
 
 Idealist, Willis Anne, 2 Factor Authentication
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hyperprism/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hyperprism/)*

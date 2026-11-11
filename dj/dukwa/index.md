@@ -1,6 +1,6 @@
 # Dukwa
 
-Dukwa is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at WOMB, Tokyo on Thu, 12 Nov 2026.
+Dukwa is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at WOMB, Tokyo on Thu, 12 Nov 2026.
 
 Dukwa is a house and techno artist based in Italy, with 31 gigs on soundcheck across Berlin, Bologna, Dublin and Edinburgh and 12 more. Often billed alongside Seth Troxler, Tommaso Carlà and AGELESS. Next up: WOMB, Tokyo on Thu 12 Nov.
 
@@ -27,4 +27,4 @@ Dukwa is a house and techno artist based in Italy, with 31 gigs on soundcheck ac
 
 Seth Troxler, Tommaso Carlà, AGELESS
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dukwa/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dukwa/)*

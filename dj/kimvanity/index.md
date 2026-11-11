@@ -1,6 +1,6 @@
 # KIMVANITY
 
-KIMVANITY is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Vertigo, Toronto on Fri, 13 Nov 2026.
+KIMVANITY is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Vertigo, Toronto on Fri, 13 Nov 2026.
 
 KIMVANITY is a tech house and house artist based in Canada, with 23 gigs on soundcheck across Toronto. Often billed alongside RUDEE NIK, Jonathan Rosa and Ardalan. Next up: Vertigo, Toronto on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ KIMVANITY is a tech house and house artist based in Canada, with 23 gigs on soun
 
 RUDEE NIK, Jonathan Rosa, Ardalan
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kimvanity/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kimvanity/)*

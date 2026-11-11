@@ -1,6 +1,6 @@
 # Alix Perez at Chop Shop & 1st Ward
 
-Alix Perez at Chop Shop & 1st Ward on Thu 12 Nov, Chicago. 2 artists: Alix Perez and HIJINX. Bass and Jungle. See the line-up on soundcheck.
+Alix Perez at Chop Shop & 1st Ward on Thu 12 Nov, Chicago. 3 artists: Alix Perez, HIJINX and Toyacoyah. Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Alix Perez at Chop Shop & 1st Ward on Thu 12 Nov, Chicago. 2 artists: Alix Perez
 
 - Alix Perez
 - HIJINX
+- Toyacoyah
 
 *Source: [soundcheck](https://soundcheck.club/e/2523114-alix-perez-at-chop-shop-1st-ward/)*

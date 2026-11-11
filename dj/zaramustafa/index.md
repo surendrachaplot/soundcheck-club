@@ -1,6 +1,6 @@
 # Zara Mustafa
 
-Zara Mustafa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at XuXa, Austin on Fri, 27 Nov 2026.
+Zara Mustafa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at XuXa, Austin on Fri, 27 Nov 2026.
 
 Zara Mustafa is a techno and house artist based in United States of America, with 20 gigs on soundcheck across Amsterdam and Austin. Often billed alongside Brett Johnson, Joan Dark and AMANDA KOONTZ. Next up: XuXa, Austin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Zara Mustafa is a techno and house artist based in United States of America, wit
 
 Brett Johnson, Joan Dark, AMANDA KOONTZ
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zaramustafa/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zaramustafa/)*

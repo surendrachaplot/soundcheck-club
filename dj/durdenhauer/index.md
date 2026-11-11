@@ -1,6 +1,6 @@
 # DURDENHAUER
 
-DURDENHAUER is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Mia Mao, Paris on Sat, 14 Nov 2026.
+DURDENHAUER is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Mia Mao, Paris on Sat, 14 Nov 2026.
 
 DURDENHAUER is a techno and trance artist based in France, with 82 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bordeaux and 25 more. Often billed alongside Kichta, Carla Schmitt and Fenrick. Next up: Mia Mao, Paris on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ DURDENHAUER is a techno and trance artist based in France, with 82 gigs on sound
 
 Kichta, Carla Schmitt, Fenrick
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/durdenhauer/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/durdenhauer/)*

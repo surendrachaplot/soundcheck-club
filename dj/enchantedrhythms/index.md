@@ -1,6 +1,6 @@
 # Enchanted Rhythms
 
-Enchanted Rhythms is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Haus73, Hamburg on Sat, 5 Dec 2026.
+Enchanted Rhythms is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Haus73, Hamburg on Sat, 5 Dec 2026.
 
 Enchanted Rhythms is a house and garage artist based in United Kingdom, with 31 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 5 more. Often billed alongside Alexandra, DJ Slim Fit and metaverde. Next up: Haus73, Hamburg on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Enchanted Rhythms is a house and garage artist based in United Kingdom, with 31 
 
 Alexandra, DJ Slim Fit, metaverde
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enchantedrhythms/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enchantedrhythms/)*

@@ -1,6 +1,6 @@
 # RICO RICA
 
-RICO RICA is a Latin Bass and Club artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at La Gravière, Geneva on Fri, 13 Nov 2026.
+RICO RICA is a Latin Bass and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at La Gravière, Geneva on Fri, 13 Nov 2026.
 
 RICO RICA is a latin bass and club artist based in Colombia, with 96 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 16 more. Often billed alongside Teykirisi, Litney and petaanx. Next up: La Gravière, Geneva on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ RICO RICA is a latin bass and club artist based in Colombia, with 96 gigs on sou
 
 Teykirisi, Litney, petaanx
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ricorica/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ricorica/)*

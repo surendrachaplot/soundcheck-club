@@ -1,14 +1,15 @@
 # Jackopo
 
-Jackopo is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at XOYO, London on Wed, 11 Nov 2026.
+Jackopo is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at XOYO, London on Wed, 11 Nov 2026.
 
-Jackopo is a house and deep house artist based in United Kingdom, with 10 gigs on soundcheck across London. Often billed alongside AOB, Anil Aras and Bibiminor. Next up: XOYO, London on Wed 11 Nov.
+Jackopo is a house and deep house artist based in United Kingdom, with 11 gigs on soundcheck across Berlin and London. Often billed alongside Savio Testa, AOB and Anil Aras. Next up: XOYO, London on Wed 11 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 11 Nov 2026 | XOYO | London |
+| Sat, 14 Nov 2026 | Ziegrastraße 11 | Berlin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Jackopo is a house and deep house artist based in United Kingdom, with 10 gigs o
 
 ## Shares bills with
 
-AOB, Anil Aras, Bibiminor
+Savio Testa, AOB, Anil Aras
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jackopo/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jackopo/)*

@@ -1,6 +1,6 @@
 # Victor G (MY)
 
-Victor G (MY) is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Kyo KL, Kuala Lumpur on Thu, 26 Nov 2026.
+Victor G (MY) is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Kyo KL, Kuala Lumpur on Thu, 26 Nov 2026.
 
 Victor G (MY) is a house and tech house artist based in Malaysia, with 50 gigs on soundcheck across Kuala Lumpur and Shanghai. Often billed alongside Alam, Axel Groove and LZZY. Next up: Kyo KL, Kuala Lumpur on Thu 26 Nov.
 
@@ -26,4 +26,4 @@ Victor G (MY) is a house and tech house artist based in Malaysia, with 50 gigs o
 
 Alam, Axel Groove, LZZY
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/victorg-my/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/victorg-my/)*

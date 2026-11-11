@@ -1,6 +1,6 @@
 # MCR-T
 
-MCR-T is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Hangaren, Copenhagen on Fri, 20 Nov 2026.
+MCR-T is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Hangaren, Copenhagen on Fri, 20 Nov 2026.
 
 MCR-T is a techno and house artist based in Germany, with 307 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Atlanta and 76 more. Often billed alongside DJ Gigola, Clara Cuvé and Bauernfeind. Next up: Hangaren, Copenhagen on Fri 20 Nov.
 
@@ -36,4 +36,4 @@ MCR-T is a techno and house artist based in Germany, with 307 gigs on soundcheck
 
 DJ Gigola, Clara Cuvé, Bauernfeind
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mcr-t/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mcr-t/)*

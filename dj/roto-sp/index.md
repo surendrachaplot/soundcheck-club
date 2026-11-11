@@ -1,6 +1,6 @@
 # Roto
 
-Roto is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Crust Basement, Athens on Fri, 13 Nov 2026.
+Roto is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Crust Basement, Athens on Fri, 13 Nov 2026.
 
 Roto is a house and techno artist based in Spain, with 14 gigs on soundcheck across Athens, Barcelona, Madrid and Seoul and 2 more. Often billed alongside 2Difficult, Innassi and Arlo. Next up: Crust Basement, Athens on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Roto is a house and techno artist based in Spain, with 14 gigs on soundcheck acr
 
 2Difficult, Innassi, Arlo
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roto-sp/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roto-sp/)*

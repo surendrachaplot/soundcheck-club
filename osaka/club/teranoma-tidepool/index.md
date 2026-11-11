@@ -1,6 +1,6 @@
 # Teranoma Tidepool
 
-Teranoma Tidepool is a music venue in Osaka with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "SEND RETURN" on Fri, 13 Nov 2026.
+Teranoma Tidepool is a music venue in Osaka with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "SEND RETURN" on Fri, 13 Nov 2026.
 
 Teranoma Tidepool is a music venue in Osaka listed on soundcheck. 5 upcoming gigs, with line-ups including Katooon, Kohei, KUWAMAN and LEiCA and 2 more. See dates, start times and who's playing. 〒542-0075 Osaka, Chuo Ward, Nanbasennichimae, 4−19 池梅 ビル 4F.
 
@@ -18,4 +18,4 @@ Teranoma Tidepool is a music venue in Osaka listed on soundcheck. 5 upcoming gig
 
 〒542-0075 Osaka, Chuo Ward, Nanbasennichimae, 4−19 池梅 ビル 4F, Osaka
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/teranoma-tidepool/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/teranoma-tidepool/)*

@@ -1,14 +1,15 @@
 # Joe Roche
 
-Joe Roche is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Electric Pizza Shop, Manchester on Sat, 14 Nov 2026.
+Joe Roche is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Electric Pizza Shop, Manchester on Sat, 14 Nov 2026.
 
-Joe Roche is a house and tech house artist based in United Kingdom, with 45 gigs on soundcheck across Ibiza, Leeds, Liverpool and London and 1 more. Often billed alongside Sharples, Rhod Parry and Balrog. Next up: Electric Pizza Shop, Manchester on Sat 14 Nov.
+Joe Roche is a house and tech house artist based in United Kingdom, with 46 gigs on soundcheck across Ibiza, Leeds, Liverpool and London and 1 more. Often billed alongside Sharples, Rhod Parry and Balrog. Next up: Electric Pizza Shop, Manchester on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Electric Pizza Shop | Manchester |
+| Fri, 18 Dec 2026 | Electric Pizza Shop | Manchester |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Joe Roche is a house and tech house artist based in United Kingdom, with 45 gigs
 
 Sharples, Rhod Parry, Balrog
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joeroche/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joeroche/)*

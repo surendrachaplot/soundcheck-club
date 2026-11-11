@@ -1,6 +1,6 @@
 # Atemporal
 
-Atemporal is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Ken Okuda Listening Session - Colombia: Records, Rhythms and Stories" on Sat, 14 Nov 2026.
+Atemporal is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Ken Okuda Listening Session - Colombia: Records, Rhythms and Stories" on Sat, 14 Nov 2026.
 
 Atemporal is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with line-ups including Julion De'Angelo, Ken Okuda, Okvsho and Viiaan. See dates, start times and who's playing. Boxhagener Str. 96 1st floor left, 10245 Berlin.
 
@@ -22,4 +22,4 @@ Atemporal is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with
 
 Boxhagener Str. 96 1st floor left, 10245 Berlin, Berlin
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/atemporal/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/atemporal/)*

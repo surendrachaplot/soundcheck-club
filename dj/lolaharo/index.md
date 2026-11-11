@@ -1,8 +1,8 @@
 # Lola Haro
 
-Lola Haro is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Modeci, Seoul on Thu, 12 Nov 2026.
+Lola Haro is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Modeci, Seoul on Thu, 12 Nov 2026.
 
-Lola Haro is a house and techno artist based in Belgium, with 177 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 54 more. Often billed alongside Ben Kamal, r.omy and DJ Rino. Next up: Modeci, Seoul on Thu 12 Nov.
+Lola Haro is a house and techno artist based in Belgium, with 178 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 54 more. Often billed alongside Ben Kamal, r.omy and DJ Rino. Next up: Modeci, Seoul on Thu 12 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Lola Haro is a house and techno artist based in Belgium, with 177 gigs on soundc
 | Fri, 13 Nov 2026 | Enter Shibuya | Tokyo |
 | Fri, 20 Nov 2026 | RASA | Singapore |
 | Fri, 4 Dec 2026 | Club Cheek | London |
+| Sat, 5 Dec 2026 | Seaseaclub Barcelona | Barcelona |
 | Fri, 18 Dec 2026 | Azimut Club | Turin |
 | Fri, 1 Jan 2027 | Backsteinboot | Berlin |
 | Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
@@ -32,4 +33,4 @@ Lola Haro is a house and techno artist based in Belgium, with 177 gigs on soundc
 
 Ben Kamal, r.omy, DJ Rino
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lolaharo/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lolaharo/)*

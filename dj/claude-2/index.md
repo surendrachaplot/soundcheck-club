@@ -1,6 +1,6 @@
 # claude (2)
 
-claude (2) is a House and R&B artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Point Ephémère, Paris on Fri, 20 Nov 2026.
+claude (2) is a House and R&B artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Point Ephémère, Paris on Fri, 20 Nov 2026.
 
 claude is a house and r&b artist, with 6 gigs on soundcheck across London and Paris. Often billed alongside Sonny, Djblues Milo and Bakey. Next up: Point Ephémère, Paris on Fri 20 Nov.
 
@@ -22,4 +22,4 @@ claude is a house and r&b artist, with 6 gigs on soundcheck across London and Pa
 
 Sonny, Djblues Milo, Bakey
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/claude-2/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/claude-2/)*

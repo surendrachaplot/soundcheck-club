@@ -1,6 +1,6 @@
 # SYM
 
-SYM is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Supermercat Gotico, Barcelona on Fri, 13 Nov 2026.
+SYM is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Supermercat Gotico, Barcelona on Fri, 13 Nov 2026.
 
 SYM is a techno and acid artist, with 67 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Hong Kong and 4 more. Often billed alongside Niko Sanchez, H-R-Z and Lino Fuso. Next up: The Supermercat Gotico, Barcelona on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ SYM is a techno and acid artist, with 67 gigs on soundcheck across Amsterdam, Ba
 
 Niko Sanchez, H-R-Z, Lino Fuso
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sym-it/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sym-it/)*

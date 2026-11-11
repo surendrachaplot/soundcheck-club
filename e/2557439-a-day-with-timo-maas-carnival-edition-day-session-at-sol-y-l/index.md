@@ -1,6 +1,6 @@
 # A Day with Timo Maas Carnival Edition (DAY SESSION) at Sol y Luna Lounge & Club
 
-A Day with Timo Maas Carnival Edition (DAY SESSION) at Sol y Luna Lounge & Club on Wed 11 Nov, Düsseldorf. 7 artists: Jana Vitiligo, Judoc, Kevin Kinembe and Major K and 3 more. Tech House and Afro House. See the line-up on soundcheck.
+A Day with Timo Maas Carnival Edition (DAY SESSION) at Sol y Luna Lounge & Club on Wed 11 Nov, Düsseldorf. 6 artists: Jana Vitiligo, Judoc, Major K and Matteo (IT) and 2 more. Tech House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,6 @@ A Day with Timo Maas Carnival Edition (DAY SESSION) at Sol y Luna Lounge & Club 
 
 - Jana Vitiligo
 - Judoc
-- Kevin Kinembe
 - Major K
 - Matteo (IT)
 - Mum & Dad

@@ -1,6 +1,6 @@
 # Francesco Maria
 
-Francesco Maria is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Circolo degli Illuminati, Rome on Fri, 13 Nov 2026.
+Francesco Maria is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Circolo degli Illuminati, Rome on Fri, 13 Nov 2026.
 
 Francesco Maria is a house and minimal artist based in Italy, with 59 gigs on soundcheck across Berlin, Ibiza, London and Milan and 4 more. Often billed alongside Andrea Saba, Alessandro Addi and Marcolino. Next up: Circolo degli Illuminati, Rome on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Francesco Maria is a house and minimal artist based in Italy, with 59 gigs on so
 
 Andrea Saba, Alessandro Addi, Marcolino
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/francescomaria/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/francescomaria/)*

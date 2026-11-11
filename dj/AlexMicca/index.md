@@ -1,6 +1,6 @@
 # Alex Micca
 
-Alex Micca is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Liquid Club, Malta on Fri, 13 Nov 2026.
+Alex Micca is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Liquid Club, Malta on Fri, 13 Nov 2026.
 
 Alex Micca is a techno and minimal techno artist based in Italy, with 13 gigs on soundcheck across Amsterdam and Malta. Often billed alongside Philip Ackowsky, GRVYWRLD and Mikeonacid. Next up: Liquid Club, Malta on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Alex Micca is a techno and minimal techno artist based in Italy, with 13 gigs on
 
 Philip Ackowsky, GRVYWRLD, Mikeonacid
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/AlexMicca/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/AlexMicca/)*

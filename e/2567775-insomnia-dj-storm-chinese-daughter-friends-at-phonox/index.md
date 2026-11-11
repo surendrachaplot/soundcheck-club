@@ -1,6 +1,6 @@
-# Insomnia: DJ Storm, Chinese Daughter & Friends at Phonox
+# Insomnia: DJ STORM, Chinese Daughter & Friends at Phonox
 
-Insomnia: DJ Storm, Chinese Daughter & Friends at Phonox on Thu 12 Nov, London. 5 artists: Chinese Daughter, Darkstepper, DJ Storm and H3L3NA and 1 more. Jungle and UK Funky. See the line-up on soundcheck.
+Insomnia: DJ STORM, Chinese Daughter & Friends at Phonox on Thu 12 Nov, London. 5 artists: Chinese Daughter, Darkstepper, DJ Storm and H3L3NA and 1 more. Jungle and UK Funky. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

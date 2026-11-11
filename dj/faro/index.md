@@ -1,6 +1,6 @@
 # Faro
 
-Faro is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Mssng Pieces, Nottingham on Sat, 14 Nov 2026.
+Faro is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Mssng Pieces, Nottingham on Sat, 14 Nov 2026.
 
 Faro is a house and disco artist based in United Kingdom, with 67 gigs on soundcheck across Berlin, Brighton, Edinburgh and London and 3 more. Often billed alongside LEV (UK), Daisha and Jamesey. Next up: Mssng Pieces, Nottingham on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Faro is a house and disco artist based in United Kingdom, with 67 gigs on soundc
 
 LEV (UK), Daisha, Jamesey
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/faro/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/faro/)*

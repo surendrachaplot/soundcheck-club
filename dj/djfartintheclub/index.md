@@ -1,8 +1,8 @@
 # DJ Fart in the Club
 
-DJ Fart in the Club is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at la Maison de la Conversation, Paris on Fri, 13 Nov 2026.
+DJ Fart in the Club is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at la Maison de la Conversation, Paris on Fri, 13 Nov 2026.
 
-DJ Fart in the Club is a techno and house artist based in South Korea, with 133 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 47 more. Often billed alongside deep creep, livwutang and Kia (AU). Next up: la Maison de la Conversation, Paris on Fri 13 Nov.
+DJ Fart in the Club is a techno and house artist based in South Korea, with 133 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 47 more. Often billed alongside deep creep, livwutang and CCL. Next up: la Maison de la Conversation, Paris on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -28,6 +28,6 @@ DJ Fart in the Club is a techno and house artist based in South Korea, with 133 
 
 ## Shares bills with
 
-deep creep, livwutang, Kia (AU)
+deep creep, livwutang, CCL
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djfartintheclub/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djfartintheclub/)*

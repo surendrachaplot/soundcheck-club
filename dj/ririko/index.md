@@ -1,6 +1,6 @@
 # Ririko
 
-Ririko is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at ZEROTOKYO, Tokyo on Thu, 12 Nov 2026.
+Ririko is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at ZEROTOKYO, Tokyo on Thu, 12 Nov 2026.
 
 Ririko is a techno and house artist based in Japan, with 80 gigs on soundcheck across Osaka and Tokyo. Often billed alongside Chrumi, Ken Ishii and Takkyu Ishino. Next up: ZEROTOKYO, Tokyo on Thu 12 Nov.
 
@@ -27,4 +27,4 @@ Ririko is a techno and house artist based in Japan, with 80 gigs on soundcheck a
 
 Chrumi, Ken Ishii, Takkyu Ishino
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ririko/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ririko/)*

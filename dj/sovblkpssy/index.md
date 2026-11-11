@@ -1,6 +1,6 @@
 # sovblkpssy
 
-sovblkpssy is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Meredith Supernatural Ampitheatre, Melbourne on Sat, 6 Mar 2027.
+sovblkpssy is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Meredith Supernatural Ampitheatre, Melbourne on Sat, 6 Mar 2027.
 
 sovblkpssy is a club and bass artist based in Australia, with 37 gigs on soundcheck across Adelaide, Melbourne and Sydney. Often billed alongside Rydeen (AU), Kuya Neil and Attu. Next up: Meredith Supernatural Ampitheatre, Melbourne on Sat 6 Mar.
 
@@ -25,4 +25,4 @@ sovblkpssy is a club and bass artist based in Australia, with 37 gigs on soundch
 
 Rydeen (AU), Kuya Neil, Attu
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sovblkpssy/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sovblkpssy/)*

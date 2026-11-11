@@ -1,6 +1,6 @@
 # Ago (2)
 
-Ago (2) is a Bass and Dubstep artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Gattaccio, Florence on Wed, 11 Nov 2026.
+Ago (2) is a Bass and Dubstep artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Gattaccio, Florence on Wed, 11 Nov 2026.
 
 Ago is a bass and dubstep artist based in Italy, with 6 gigs on soundcheck across Denver, Florence, Kyoto and London and 1 more. Often billed alongside Commodo, D.J.Fulltono and Fearless Dread. Next up: Gattaccio, Florence on Wed 11 Nov.
 
@@ -22,4 +22,4 @@ Ago is a bass and dubstep artist based in Italy, with 6 gigs on soundcheck acros
 
 Commodo, D.J.Fulltono, Fearless Dread
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ago-2/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ago-2/)*

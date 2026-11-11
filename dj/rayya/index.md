@@ -1,6 +1,6 @@
 # Rayya
 
-Rayya is a House and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Hoppetosse, Berlin on Sat, 5 Dec 2026.
+Rayya is a House and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Hoppetosse, Berlin on Sat, 5 Dec 2026.
 
 Rayya is a house and club artist based in Austria, with 43 gigs on soundcheck across Berlin, Frankfurt, Munich and Vienna. Often billed alongside Stipo, Apua and Reinhard Zach. Next up: Hoppetosse, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Rayya is a house and club artist based in Austria, with 43 gigs on soundcheck ac
 
 Stipo, Apua, Reinhard Zach
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rayya/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rayya/)*

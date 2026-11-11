@@ -1,6 +1,6 @@
 # Alicia (IT)
 
-Alicia (IT) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Sensorium, Berlin on Wed, 11 Nov 2026.
+Alicia (IT) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Sensorium, Berlin on Wed, 11 Nov 2026.
 
 Alicia (IT) is a house and techno artist, with 7 gigs on soundcheck across Berlin, Frankfurt, Helsinki and London and 2 more. Often billed alongside A For Alpha, A-Bril and AYSHA. Next up: Sensorium, Berlin on Wed 11 Nov.
 
@@ -23,4 +23,4 @@ Alicia (IT) is a house and techno artist, with 7 gigs on soundcheck across Berli
 
 A For Alpha, A-Bril, AYSHA
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alicia-it/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alicia-it/)*

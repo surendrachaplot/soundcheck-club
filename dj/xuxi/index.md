@@ -1,6 +1,6 @@
 # Xuxi
 
-Xuxi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Luu Bar, Ho Chi Minh City on Fri, 13 Nov 2026.
+Xuxi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Luu Bar, Ho Chi Minh City on Fri, 13 Nov 2026.
 
 Xuxi is a techno and house artist based in Vietnam, with 26 gigs on soundcheck across Hanoi and Ho Chi Minh City. Often billed alongside Min8, CONG and Jozef K. Next up: Luu Bar, Ho Chi Minh City on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Xuxi is a techno and house artist based in Vietnam, with 26 gigs on soundcheck a
 
 Min8, CONG, Jozef K
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xuxi/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xuxi/)*

@@ -1,6 +1,6 @@
 # The Cloud
 
-The Cloud is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. The next is "Tehran House" on Sat, 19 Dec 2026.
+The Cloud is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "Tehran House" on Sat, 19 Dec 2026.
 
 The Cloud is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including DJ phellix and SIAAH. See dates, start times and who's playing. Alexanderstraße 7 / 10178 Berlin.
 
@@ -14,4 +14,4 @@ The Cloud is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with 
 
 Alexanderstraße 7 / 10178 Berlin, Berlin
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/the-cloud/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/the-cloud/)*

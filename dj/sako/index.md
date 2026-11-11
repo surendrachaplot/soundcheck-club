@@ -1,8 +1,8 @@
 # SAKO
 
-SAKO is a Bass and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Circus Osaka, Osaka on Sat, 14 Nov 2026.
+SAKO is a Bass and Drum & Bass artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Circus Osaka, Osaka on Sat, 14 Nov 2026.
 
-SAKO is a bass and drum & bass artist based in Japan, with 111 gigs on soundcheck across Montreal, Osaka and Tokyo. Often billed alongside MOOTOE, ATAMI and CRAZYHYUGA. Next up: Circus Osaka, Osaka on Sat 14 Nov.
+SAKO is a bass and drum & bass artist based in Japan, with 112 gigs on soundcheck across Montreal, Osaka and Tokyo. Often billed alongside MOOTOE, ATAMI and CRAZYHYUGA. Next up: Circus Osaka, Osaka on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ SAKO is a bass and drum & bass artist based in Japan, with 111 gigs on soundchec
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Circus Osaka | Osaka |
 | Sun, 15 Nov 2026 | Circus Tokyo | Tokyo |
+| Thu, 10 Dec 2026 | ZEROTOKYO | Tokyo |
 | Fri, 25 Dec 2026 | Circus Tokyo | Tokyo |
 
 ## Recently played
@@ -27,4 +28,4 @@ SAKO is a bass and drum & bass artist based in Japan, with 111 gigs on soundchec
 
 MOOTOE, ATAMI, CRAZYHYUGA
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sako/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sako/)*

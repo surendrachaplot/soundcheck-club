@@ -1,6 +1,6 @@
 # dérive
 
-dérive is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Le Sucre, Lyon on Sat, 14 Nov 2026.
+dérive is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Le Sucre, Lyon on Sat, 14 Nov 2026.
 
 dérive is a bass and techno artist based in Germany, with 40 gigs on soundcheck across Berlin, Brussels, Bucharest and Copenhagen and 4 more. Often billed alongside Genus Aix, pesadj and BLUME. Next up: Le Sucre, Lyon on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ dérive is a bass and techno artist based in Germany, with 40 gigs on soundcheck
 
 Genus Aix, pesadj, BLUME
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/derive/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/derive/)*

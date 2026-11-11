@@ -1,6 +1,6 @@
 # O-MAN
 
-O-MAN is a Techno and Psytrance artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Kindergarten Club, Bologna on Fri, 13 Nov 2026.
+O-MAN is a Techno and Psytrance artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Kindergarten Club, Bologna on Fri, 13 Nov 2026.
 
 O-MAN is a techno and psytrance artist based in Japan, with 148 gigs on soundcheck across Amsterdam, Bologna, Osaka and Sydney and 1 more. Often billed alongside NOBUYA, ALESSA(JP) and FENGX2. Next up: Kindergarten Club, Bologna on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ O-MAN is a techno and psytrance artist based in Japan, with 148 gigs on soundche
 
 NOBUYA (2), ALESSA(JP), FENGX2
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/o-man/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/o-man/)*

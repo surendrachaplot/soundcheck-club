@@ -1,6 +1,6 @@
 # Not Charlie
 
-Not Charlie is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Doggy Klœb, Malaga on Fri, 1 Jan 2027.
+Not Charlie is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Doggy Klœb, Malaga on Fri, 1 Jan 2027.
 
 Not Charlie is a techno and experimental artist based in Spain, with 10 gigs on soundcheck across Barcelona, Berlin, Dortmund / Essen and Düsseldorf and 2 more. Often billed alongside 9LALEY, Amaro (ES) and Anuli. Next up: Doggy Klœb, Malaga on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Not Charlie is a techno and experimental artist based in Spain, with 10 gigs on 
 
 9LALEY, Amaro (ES), Anuli
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/notcharlie/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/notcharlie/)*

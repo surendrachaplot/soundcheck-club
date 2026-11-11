@@ -1,6 +1,6 @@
 # Function b2b Nastia Reigel / NEUX / Juana / Cormac / x3butterfly / Will Automagic at BASEMENT
 
-Function b2b Nastia Reigel / NEUX / Juana / Cormac / x3butterfly / Will Automagic at BASEMENT on Sat 21 Nov, New York City. 7 artists: Cormac, Function, Juana and Nastia Reigel and 3 more. See the line-up on soundcheck.
+Function b2b Nastia Reigel / NEUX / Juana / Cormac / x3butterfly / Will Automagic at BASEMENT on Sat 21 Nov, New York City. 6 artists: Cormac, Function, Juana and NEUX and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,7 +13,6 @@ Function b2b Nastia Reigel / NEUX / Juana / Cormac / x3butterfly / Will Automagi
 - Cormac
 - Function
 - Juana
-- Nastia Reigel
 - NEUX
 - Will Automagic
 - x3butterfly

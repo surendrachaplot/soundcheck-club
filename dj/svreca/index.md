@@ -1,6 +1,6 @@
 # Svreca
 
-Svreca is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Lanna Club, North on Sat, 14 Nov 2026.
+Svreca is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Lanna Club, North on Sat, 14 Nov 2026.
 
 Svreca is a techno and electronica artist based in Spain, with 69 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 16 more. Often billed alongside Reeko, CONCEPTUAL and Kevin Matto. Next up: Lanna Club, North on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Svreca is a techno and electronica artist based in Spain, with 69 gigs on soundc
 
 Reeko, CONCEPTUAL, Kevin Matto
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/svreca/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/svreca/)*

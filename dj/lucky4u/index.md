@@ -1,14 +1,14 @@
 # LUCKY4U
 
-LUCKY4U is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at [119], Berlin on Fri, 4 Dec 2026.
+LUCKY4U is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at 119, Berlin on Fri, 4 Dec 2026.
 
-LUCKY4U is a trance and techno artist based in Germany, with 26 gigs on soundcheck across Berlin and London. Often billed alongside Goldmund.99, vSto and Mia Lund. Next up: [119], Berlin on Fri 4 Dec.
+LUCKY4U is a trance and techno artist based in Germany, with 26 gigs on soundcheck across Berlin and London. Often billed alongside Goldmund.99, vSto and Mia Lund. Next up: 119, Berlin on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Dec 2026 | [119] | Berlin |
+| Fri, 4 Dec 2026 | 119 | Berlin |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ LUCKY4U is a trance and techno artist based in Germany, with 26 gigs on soundche
 
 Goldmund.99, vSto, Mia Lund
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucky4u/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucky4u/)*

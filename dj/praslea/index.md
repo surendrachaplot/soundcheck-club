@@ -1,6 +1,6 @@
 # Praslea
 
-Praslea is a Minimal and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Suma Han, Istanbul on Sat, 21 Nov 2026.
+Praslea is a Minimal and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Suma Han, Istanbul on Sat, 21 Nov 2026.
 
 Praslea is a minimal and house artist based in Romania, with 107 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 27 more. Often billed alongside Raresh, CEZAR and Traumer. Next up: Suma Han, Istanbul on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ Praslea is a minimal and house artist based in Romania, with 107 gigs on soundch
 
 Raresh, CEZAR, Traumer
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/praslea/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/praslea/)*

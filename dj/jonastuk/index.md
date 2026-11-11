@@ -1,6 +1,6 @@
 # Jonas Tuk
 
-Jonas Tuk is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Tap1, Copenhagen on Fri, 4 Dec 2026.
+Jonas Tuk is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Tap1, Copenhagen on Fri, 4 Dec 2026.
 
 Jonas Tuk is a house and electronica artist based in Denmark, with 19 gigs on soundcheck across Copenhagen. Often billed alongside DJ Spice, Ryan Dank and Cheeks. Next up: Tap1, Copenhagen on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Jonas Tuk is a house and electronica artist based in Denmark, with 19 gigs on so
 
 DJ Spice, Ryan Dank (2), Cheeks
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jonastuk/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jonastuk/)*

@@ -1,6 +1,6 @@
 # Budai House Clique
 
-Budai House Clique is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
+Budai House Clique is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
 
 Budai House Clique is a house and tech house artist based in Hungary, with 33 gigs on soundcheck across Amsterdam, Budapest and Tokyo. Often billed alongside HOFFMANN (HU), Hot Since 82 and Agents Of Time. Next up: Hungexpo Budapest, Budapest on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Budai House Clique is a house and tech house artist based in Hungary, with 33 gi
 
 HOFFMANN (HU), Hot Since 82, Agents Of Time
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/budaihouseclique/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/budaihouseclique/)*

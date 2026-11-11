@@ -1,6 +1,6 @@
 # HOBOBRAZIL
 
-HOBOBRAZIL is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Awaza House 内studio2f, Osaka on Wed, 11 Nov 2026.
+HOBOBRAZIL is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Awaza House 内studio2f, Osaka on Wed, 11 Nov 2026.
 
 HOBOBRAZIL is a house and techno artist based in Japan, with 24 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside KA4U, MDMC and bungo. Next up: Awaza House 内studio2f, Osaka on Wed 11 Nov.
 
@@ -25,4 +25,4 @@ HOBOBRAZIL is a house and techno artist based in Japan, with 24 gigs on soundche
 
 KA4U, MDMC, bungo
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hobobrazil/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hobobrazil/)*

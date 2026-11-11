@@ -1,6 +1,6 @@
 # Brian Topham
 
-Brian Topham is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Special Secret Garden., Barcelona on Sat, 28 Nov 2026.
+Brian Topham is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Special Secret Garden., Barcelona on Sat, 28 Nov 2026.
 
 Brian Topham is a house and electro artist based in Peru, with 17 gigs on soundcheck across Barcelona and London. Often billed alongside Christian Arcila, Rufo and Nulek. Next up: TBA - Special Secret Garden., Barcelona on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Brian Topham is a house and electro artist based in Peru, with 17 gigs on soundc
 
 Christian Arcila, Rufo, Nulek
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/briantopham/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/briantopham/)*

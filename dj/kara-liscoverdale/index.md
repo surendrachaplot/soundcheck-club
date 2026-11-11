@@ -1,6 +1,6 @@
 # Kara-Lis Coverdale
 
-Kara-Lis Coverdale is a Experimental and Ambient artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at public records, New York City on Mon, 9 Nov 2026.
+Kara-Lis Coverdale is a Experimental and Ambient artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at public records, New York City on Mon, 9 Nov 2026.
 
 Kara-Lis Coverdale is an experimental and ambient artist based in Canada, with 28 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 14 more. Often billed alongside Sarah Davachi, A Guy Called Gerald and Assyouti. Next up: public records, New York City on Mon 9 Nov.
 
@@ -26,4 +26,4 @@ Kara-Lis Coverdale is an experimental and ambient artist based in Canada, with 2
 
 Sarah Davachi, A Guy Called Gerald, Assyouti
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kara-liscoverdale/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kara-liscoverdale/)*

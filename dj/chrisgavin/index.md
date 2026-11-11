@@ -1,6 +1,6 @@
 # Chris Gavin
 
-Chris Gavin is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Glazart, Paris on Sun, 15 Nov 2026.
+Chris Gavin is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Glazart, Paris on Sun, 15 Nov 2026.
 
 Chris Gavin is a techno and progressive house artist based in France, with 32 gigs on soundcheck across Barcelona, Copenhagen, Marseille and Paris. Often billed alongside Heinech, Madben and Scan X. Next up: Glazart, Paris on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Chris Gavin is a techno and progressive house artist based in France, with 32 gi
 
 Heinech, Madben, Scan X
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisgavin/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisgavin/)*

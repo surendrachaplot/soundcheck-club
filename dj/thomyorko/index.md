@@ -1,6 +1,6 @@
 # thomyorko
 
-thomyorko is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Chika-Ikkai, Osaka on Fri, 13 Nov 2026.
+thomyorko is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Chika-Ikkai, Osaka on Fri, 13 Nov 2026.
 
 thomyorko is a techno and acid artist based in Japan, with 22 gigs on soundcheck across London, Osaka and Tokyo. Often billed alongside DJ Himitsu, Keisuke Wada and Sho Komatsu. Next up: Chika-Ikkai, Osaka on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ thomyorko is a techno and acid artist based in Japan, with 22 gigs on soundcheck
 
 DJ Himitsu, Keisuke Wada, Sho Komatsu
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thomyorko/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thomyorko/)*

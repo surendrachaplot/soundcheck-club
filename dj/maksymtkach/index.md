@@ -1,6 +1,6 @@
 # Maksym Tkach
 
-Maksym Tkach is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Mastak, Warsaw on Fri, 11 Dec 2026.
+Maksym Tkach is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Mastak, Warsaw on Fri, 11 Dec 2026.
 
 Maksym Tkach is a minimal and tech house artist based in Ukraine, with 22 gigs on soundcheck across Berlin, Krakow, Prague and Tbilisi and 1 more. Often billed alongside Mike Trofimov, Roma Khropko and Loves_kills. Next up: Mastak, Warsaw on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Maksym Tkach is a minimal and tech house artist based in Ukraine, with 22 gigs o
 
 Mike Trofimov, Roma Khropko, Loves_kills
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maksymtkach/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maksymtkach/)*

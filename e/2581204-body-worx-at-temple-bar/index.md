@@ -1,10 +1,10 @@
 # Body Worx at Temple Bar
 
-Body Worx at Temple Bar on Sat 14 Nov, Detroit. 1 artist: Dretraxx. Acid. See the line-up on soundcheck.
+Body Worx at Temple Bar on Sat 21 Nov, Detroit. 1 artist: Dretraxx. Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 14 Nov 2026 |
+| Date | Sat, 21 Nov 2026 |
 | Venue | Temple Bar |
 | City | Detroit |
 

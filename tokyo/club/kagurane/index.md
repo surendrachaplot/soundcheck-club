@@ -1,6 +1,6 @@
 # Kagurane
 
-Kagurane is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "DAYBREAK 11th Anniversary / Nomad Release Party" on Sat, 14 Nov 2026.
+Kagurane is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "DAYBREAK 11th Anniversary / Nomad Release Party" on Sat, 14 Nov 2026.
 
 Kagurane is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with line-ups including BOW, Koichi Shimizu, Masafumi Take and MTRL and 1 more. See dates, start times and who's playing. B1F TOMOS-Bildg. 6 Kagurazaka, Shinjuku, Tokyo. 162-0825.
 
@@ -15,4 +15,4 @@ Kagurane is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with l
 
 B1F TOMOS-Bildg. 6 Kagurazaka, Shinjuku, Tokyo. 162-0825, Tokyo
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/kagurane/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/kagurane/)*

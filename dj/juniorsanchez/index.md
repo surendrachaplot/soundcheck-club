@@ -1,6 +1,6 @@
 # Junior Sanchez
 
-Junior Sanchez is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Loso, Richmond on Fri, 1 Jan 2027.
+Junior Sanchez is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Loso, Richmond on Fri, 1 Jan 2027.
 
 Junior Sanchez is a house and tech house artist based in United States of America, with 42 gigs on soundcheck across Atlanta, Austin, Boston and Detroit and 9 more. Often billed alongside Gettoblaster, Love & Logic and Devon James. Next up: Loso, Richmond on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Junior Sanchez is a house and tech house artist based in United States of Americ
 
 Gettoblaster, Love & Logic, Devon James
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juniorsanchez/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juniorsanchez/)*

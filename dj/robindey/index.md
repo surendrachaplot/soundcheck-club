@@ -1,6 +1,6 @@
 # Robin Dey
 
-Robin Dey is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Kater, Berlin on Sat, 28 Nov 2026.
+Robin Dey is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Kater, Berlin on Sat, 28 Nov 2026.
 
 Robin Dey is a techno and downtempo artist based in Germany, with 39 gigs on soundcheck across Basel, Berlin, Freiburg and Hamburg and 4 more. Often billed alongside Borella, Mira and Caleesi. Next up: Kater, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Robin Dey is a techno and downtempo artist based in Germany, with 39 gigs on sou
 
 Borella, Mira, Caleesi
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robindey/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robindey/)*

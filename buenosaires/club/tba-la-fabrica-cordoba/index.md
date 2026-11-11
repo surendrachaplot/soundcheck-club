@@ -1,6 +1,6 @@
 # TBA - La Fabrica, Cordoba
 
-TBA - La Fabrica, Cordoba is a music venue in Buenos Aires with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Massano & MORE ARTISTS - by LA FABRICA, CORDOBA" on Sat, 28 Nov 2026.
+TBA - La Fabrica, Cordoba is a music venue in Buenos Aires with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Massano & MORE ARTISTS - by LA FABRICA, CORDOBA" on Sat, 28 Nov 2026.
 
 TBA - La Fabrica, Cordoba is a music venue in Buenos Aires listed on soundcheck. 2 upcoming gigs, with line-ups including CHRIS STASSY and Massano. See dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ TBA - La Fabrica, Cordoba is a music venue in Buenos Aires listed on soundcheck.
 | Sat, 28 Nov 2026 | Massano & MORE ARTISTS - by LA FABRICA, CORDOBA | Massano |
 | Fri, 8 Jan 2027 | Chris Stassy - La Fábrica, Córdoba - ALLMusicParties | CHRIS STASSY |
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-la-fabrica-cordoba/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-la-fabrica-cordoba/)*

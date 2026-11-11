@@ -1,6 +1,6 @@
 # RETCON
 
-RETCON is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Amplify, Detroit on Fri, 27 Nov 2026.
+RETCON is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Amplify, Detroit on Fri, 27 Nov 2026.
 
 RETCON is a techno and experimental artist based in United States of America, with 29 gigs on soundcheck across Detroit and Los Angeles. Often billed alongside Kuuma, OMO (US) and Silent Conversation. Next up: Amplify, Detroit on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ RETCON is a techno and experimental artist based in United States of America, wi
 
 Kuuma, OMO (US), Silent Conversation
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/retcon/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/retcon/)*

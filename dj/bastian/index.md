@@ -1,6 +1,6 @@
 # Bastian
 
-Bastian is a Progressive House and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at El Rio Hostel, Colombia on Sun, 22 Nov 2026.
+Bastian is a Progressive House and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at El Rio Hostel, Colombia on Sun, 22 Nov 2026.
 
 Bastian is a progressive house and club artist based in United Kingdom, with 8 gigs on soundcheck across Barcelona, Berlin, Colombia and Hamburg and 2 more. Often billed alongside Blackmist, Brauer and Charonne. Next up: El Rio Hostel, Colombia on Sun 22 Nov.
 
@@ -24,4 +24,4 @@ Bastian is a progressive house and club artist based in United Kingdom, with 8 g
 
 Blackmist, Brauer, Charonne
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bastian/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bastian/)*

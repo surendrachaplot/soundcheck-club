@@ -1,6 +1,6 @@
 # Nic Vesperi
 
-Nic Vesperi is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at LAB theCLUB, Madrid on Fri, 25 Dec 2026.
+Nic Vesperi is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at LAB theCLUB, Madrid on Fri, 25 Dec 2026.
 
 Nic Vesperi is a house and minimal artist based in Spain, with 20 gigs on soundcheck across Amsterdam, Madrid, Malaga and Mallorca and 1 more. Often billed alongside AAfrAA, ZEIA and Claptone. Next up: LAB theCLUB, Madrid on Fri 25 Dec.
 
@@ -25,4 +25,4 @@ Nic Vesperi is a house and minimal artist based in Spain, with 20 gigs on soundc
 
 AAfrAA, ZEIA, Claptone
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicvesperi/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicvesperi/)*

@@ -1,6 +1,6 @@
 # Revolution Mitchell Street
 
-Revolution Mitchell Street is a music venue in Glasgow with 3 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "The Legendary Room Two Christmas Party" on Sat, 28 Nov 2026.
+Revolution Mitchell Street is a music venue in Glasgow with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "The Legendary Room Two Christmas Party" on Sat, 28 Nov 2026.
 
 Revolution Mitchell Street is a music venue in Glasgow listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing. 84 Mitchell St, Glasgow G1 3NA.
 
@@ -16,4 +16,4 @@ Revolution Mitchell Street is a music venue in Glasgow listed on soundcheck. 3 u
 
 84 Mitchell St, Glasgow G1 3NA, Glasgow
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/revolution-mitchell-street/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/revolution-mitchell-street/)*

@@ -1,8 +1,8 @@
 # SeBAss
 
-SeBAss is a Drum & Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Luzztro, Warsaw on Sat, 21 Nov 2026.
+SeBAss is a Drum & Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Luzztro, Warsaw on Sat, 21 Nov 2026.
 
-SeBAss is a drum & bass and techno artist based in Poland, with 39 gigs on soundcheck across Barcelona, Bogotá, London and Medellin and 1 more. Often billed alongside KEVS, Mabu and KoZa. Next up: Luzztro, Warsaw on Sat 21 Nov.
+SeBAss is a drum & bass and techno artist based in Poland, with 40 gigs on soundcheck across Barcelona, Bogotá, Colombia and London and 2 more. Often billed alongside KEVS, Mabu and KoZa. Next up: Luzztro, Warsaw on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ SeBAss is a drum & bass and techno artist based in Poland, with 39 gigs on sound
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Luzztro | Warsaw |
 | Fri, 11 Dec 2026 | TBA - B17 Art Complex | Bogotá |
+| Wed, 3 Mar 2027 | El Rio Hostel | Colombia |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ SeBAss is a drum & bass and techno artist based in Poland, with 39 gigs on sound
 
 KEVS, Mabu, KoZa
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sebass/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sebass/)*

@@ -1,6 +1,6 @@
 # NAUAL
 
-NAUAL is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - Powered by: Void Acoustics, Madrid on Fri, 13 Nov 2026.
+NAUAL is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Powered by: Void Acoustics, Madrid on Fri, 13 Nov 2026.
 
 NAUAL is a techno and electro artist based in Spain, with 27 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Rabent, Giusseppi and DJ2D2. Next up: TBA - Powered by: Void Acoustics, Madrid on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ NAUAL is a techno and electro artist based in Spain, with 27 gigs on soundcheck 
 
 Rabent, Giusseppi, DJ2D2
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/naual/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/naual/)*

@@ -1,6 +1,6 @@
 # Toni Amador
 
-Toni Amador is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Les Enfants Brillants, Barcelona on Thu, 26 Nov 2026.
+Toni Amador is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Les Enfants Brillants, Barcelona on Thu, 26 Nov 2026.
 
 Toni Amador is a techno and house artist based in Spain, with 31 gigs on soundcheck across Barcelona. Often billed alongside Ana Alves, Hades PRX and Ikari. Next up: Les Enfants Brillants, Barcelona on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Toni Amador is a techno and house artist based in Spain, with 31 gigs on soundch
 
 Ana Alves, Hades PRX, Ikari
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toniamador/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toniamador/)*

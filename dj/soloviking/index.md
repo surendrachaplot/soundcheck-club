@@ -1,6 +1,6 @@
 # Solo Viking
 
-Solo Viking is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Fabrik, Madrid on Sat, 30 Jan 2027.
+Solo Viking is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Fabrik, Madrid on Sat, 30 Jan 2027.
 
 Solo Viking is a techno and house artist based in Spain, with 11 gigs on soundcheck across Barcelona, Lisbon, Madrid and Medellin and 2 more. Often billed alongside Abel Ramos, Brenda Serna and 999999999. Next up: Fabrik, Madrid on Sat 30 Jan.
 
@@ -25,4 +25,4 @@ Solo Viking is a techno and house artist based in Spain, with 11 gigs on soundch
 
 Abel Ramos, Brenda Serna (2), 999999999
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soloviking/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soloviking/)*

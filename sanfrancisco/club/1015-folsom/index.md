@@ -1,6 +1,6 @@
 # 1015 Folsom
 
-1015 Folsom is a music venue in San Francisco/Oakland with 10 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. The next is "Eli + Fur" on Fri, 13 Nov 2026.
+1015 Folsom is a music venue in San Francisco/Oakland with 10 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Eli + Fur" on Fri, 13 Nov 2026.
 
 1015 Folsom is a music venue in San Francisco/Oakland listed on soundcheck. 10 upcoming gigs, with line-ups including 9-System, Above & Beyond, Adra and Andy C and 2 more. See dates, start times and who's playing. 1015 Folsom Street; San Francisco, CA 94103; United States.
 
@@ -8,7 +8,7 @@
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Eli + Fur | Eli & Fur |
+| Fri, 13 Nov 2026 | Eli + Fur | Authenticity, Bryn Avery, Eli & Fur, Moheato, SONRISA, White Light |
 | Thu, 19 Nov 2026 | THROTTLE: DJ Stingray | DE ALMA, DJ Stingray 313, Discnogirl, sfcowboy |
 | Fri, 20 Nov 2026 | Westend | TOBEHONEST |
 | Wed, 25 Nov 2026 | Andy C | Andy C |
@@ -23,4 +23,4 @@
 
 1015 Folsom Street; San Francisco, CA 94103; United States, San Francisco/Oakland
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/1015-folsom/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/1015-folsom/)*

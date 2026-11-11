@@ -1,6 +1,6 @@
 # Postponez
 
-Postponez is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Glenworth Valley, Sydney on Mon, 28 Dec 2026.
+Postponez is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Glenworth Valley, Sydney on Mon, 28 Dec 2026.
 
 Postponez is a house and techno artist based in Australia, with 51 gigs on soundcheck across Adelaide, Auckland, Hobart and Melbourne and 1 more. Often billed alongside Ari Kiko, Arketek and Casual P. Next up: Glenworth Valley, Sydney on Mon 28 Dec.
 
@@ -26,4 +26,4 @@ Postponez is a house and techno artist based in Australia, with 51 gigs on sound
 
 Ari Kiko, Arketek, Casual P
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/postponez/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/postponez/)*

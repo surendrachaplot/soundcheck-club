@@ -1,6 +1,6 @@
 # velibor
 
-velibor is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Backstage Sofia, Sofia on Sat, 21 Nov 2026.
+velibor is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Backstage Sofia, Sofia on Sat, 21 Nov 2026.
 
 velibor is a house and techno artist based in Bulgaria, with 25 gigs on soundcheck across Ibiza and Sofia. Often billed alongside Ventsislav Gendov, Kiril Dimchev and Mario Milev. Next up: Backstage Sofia, Sofia on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ velibor is a house and techno artist based in Bulgaria, with 25 gigs on soundche
 
 Ventsislav Gendov, Kiril Dimchev, Mario Milev
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/velibor/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/velibor/)*

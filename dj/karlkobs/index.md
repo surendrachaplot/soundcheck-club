@@ -1,6 +1,6 @@
 # Karl Kobs
 
-Karl Kobs is a Minimal and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Kater, Berlin on Sat, 5 Dec 2026.
+Karl Kobs is a Minimal and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Kater, Berlin on Sat, 5 Dec 2026.
 
 Karl Kobs is a minimal and deep house artist based in Germany, with 6 gigs on soundcheck across Belgrade, Berlin and Hamburg. Often billed alongside Joe Davies, Balthazar Martinez and DJ Popup. Next up: Kater, Berlin on Sat 5 Dec.
 
@@ -22,4 +22,4 @@ Karl Kobs is a minimal and deep house artist based in Germany, with 6 gigs on so
 
 Joe Davies, Balthazar Martinez, DJ Popup
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karlkobs/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karlkobs/)*

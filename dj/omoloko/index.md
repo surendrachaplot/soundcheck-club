@@ -1,6 +1,6 @@
 # OMOLOKO
 
-OMOLOKO is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at Klymax Discotheque, Bali on Fri, 13 Nov 2026.
+OMOLOKO is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Klymax Discotheque, Bali on Fri, 13 Nov 2026.
 
 OMOLOKO is a house and techno artist based in Brazil, with 127 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 37 more. Often billed alongside Kabulom, BADSISTA and Cashu. Next up: Klymax Discotheque, Bali on Fri 13 Nov.
 
@@ -29,4 +29,4 @@ OMOLOKO is a house and techno artist based in Brazil, with 127 gigs on soundchec
 
 Kabulom, BADSISTA, Cashu
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/omoloko/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/omoloko/)*

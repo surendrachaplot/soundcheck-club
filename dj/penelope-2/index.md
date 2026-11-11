@@ -1,14 +1,15 @@
 # Penelope (2)
 
-Penelope (2) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 10 Nov 2026. Next at TBA - 333, New York City on Sat, 14 Nov 2026.
+Penelope (2) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - 333, New York City on Sat, 14 Nov 2026.
 
-Penelope is a house and techno artist based in France, with 139 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Beijing and 25 more. Often billed alongside Mari.te, Walrus and DJ Rino. Next up: TBA - 333, New York City on Sat 14 Nov.
+Penelope is a house and techno artist based in France, with 140 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Beijing and 25 more. Often billed alongside Mari.te, Walrus and DJ Rino. Next up: TBA - 333, New York City on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | TBA - 333 | New York City |
+| Thu, 19 Nov 2026 | feedbk | New York City |
 | Thu, 31 Dec 2026 | Gaffe | London |
 
 ## Recently played
@@ -26,4 +27,4 @@ Penelope is a house and techno artist based in France, with 139 gigs on soundche
 
 Mari.te, Walrus, DJ Rino
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/penelope-2/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/penelope-2/)*

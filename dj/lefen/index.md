@@ -1,6 +1,6 @@
 # Lefen
 
-Lefen is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Soul SKG, Thessaloniki on Sat, 5 Dec 2026.
+Lefen is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Soul SKG, Thessaloniki on Sat, 5 Dec 2026.
 
 Lefen is an electronica and techno artist based in Greece, with 11 gigs on soundcheck across Athens, Greece and Thessaloniki. Often billed alongside Irene Kimova, Jaymod and STOZ. Next up: Soul SKG, Thessaloniki on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Lefen is an electronica and techno artist based in Greece, with 11 gigs on sound
 
 Irene Kimova, Jaymod, STOZ
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lefen/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lefen/)*

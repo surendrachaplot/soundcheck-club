@@ -1,6 +1,6 @@
 # EV-1
 
-EV-1 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Video Club, Bogotá on Sat, 14 Nov 2026.
+EV-1 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Video Club, Bogotá on Sat, 14 Nov 2026.
 
 EV-1 is a techno and house artist based in Colombia, with 24 gigs on soundcheck across Barcelona and Bogotá. Often billed alongside B444DLOVE, Bedriñana and Surfer Rosa. Next up: Video Club, Bogotá on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ EV-1 is a techno and house artist based in Colombia, with 24 gigs on soundcheck 
 
 B444DLOVE, Bedriñana, Surfer Rosa
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ev-1/)*
+*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ev-1/)*
