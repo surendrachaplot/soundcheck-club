@@ -1,6 +1,6 @@
 # DJ Maboku
 
-DJ Maboku is a Kuduro and Afrobeats artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Sala Apolo, Barcelona on Sat, 14 Nov 2026.
+DJ Maboku is a Kuduro and Afrobeats artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Sala Apolo, Barcelona on Sat, 14 Nov 2026.
 
 DJ Maboku is a kuduro and afrobeats artist based in Portugal, with 23 gigs on soundcheck across Barcelona and Lisbon. Often billed alongside DJ Marfox, DJ Nigga Fox and DJ Nervoso. Next up: Sala Apolo, Barcelona on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ DJ Maboku is a kuduro and afrobeats artist based in Portugal, with 23 gigs on so
 
 DJ Marfox, DJ Nigga Fox, DJ Nervoso
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmaboku/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmaboku/)*

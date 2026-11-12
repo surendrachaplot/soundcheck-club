@@ -1,6 +1,6 @@
 # Magasin 4
 
-Magasin 4 is a music venue in Brussels with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "TÉLÉDÉTENTE 666 + KRINATOR + DISCO DEGAT" on Fri, 13 Nov 2026.
+Magasin 4 is a music venue in Brussels with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "TÉLÉDÉTENTE 666 + KRINATOR + DISCO DEGAT" on Fri, 13 Nov 2026.
 
 Magasin 4 is a music venue in Brussels listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. Rue de l'entrepôt 7, 1020 BRUSSELS.
 
@@ -15,4 +15,4 @@ Magasin 4 is a music venue in Brussels listed on soundcheck. 2 upcoming gigs. Se
 
 Rue de l'entrepôt 7, 1020 BRUSSELS, Brussels
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/magasin-4/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/magasin-4/)*

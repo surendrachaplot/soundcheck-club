@@ -1,6 +1,6 @@
 # bradeazy
 
-bradeazy is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Grand Boston, Boston on Sat, 14 Nov 2026.
+bradeazy is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Grand Boston, Boston on Sat, 14 Nov 2026.
 
 bradeazy is a tech house and house artist based in United States of America, with 47 gigs on soundcheck across Austin, Barcelona, Boston and Brisbane and 26 more. Often billed alongside Agents Of Time, Eelke Kleijn and Innellea. Next up: The Grand Boston, Boston on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ bradeazy is a tech house and house artist based in United States of America, wit
 
 Agents Of Time, Eelke Kleijn, Innellea
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bradeazy/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bradeazy/)*

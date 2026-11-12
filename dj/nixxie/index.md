@@ -1,6 +1,6 @@
 # Nixxie
 
-Nixxie is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Skull Bar, Athens on Sun, 8 Nov 2026.
+Nixxie is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Skull Bar, Athens on Sun, 8 Nov 2026.
 
 Nixxie is a house and deep house artist based in Greece, with 8 gigs on soundcheck across Amsterdam, Athens, Mykonos and Warsaw. Often billed alongside Lehar, Abana and Alex Dallas. Next up: Skull Bar, Athens on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Nixxie is a house and deep house artist based in Greece, with 8 gigs on soundche
 
 Lehar, Abana, Alex Dallas
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nixxie/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nixxie/)*

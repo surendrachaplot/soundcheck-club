@@ -1,6 +1,6 @@
 # Rugs*
 
-Rugs* is a music venue in Beijing with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Jupiter Lounge Invite Hunkut" on Thu, 12 Nov 2026.
+Rugs* is a music venue in Beijing with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Jupiter Lounge Invite Hunkut" on Thu, 12 Nov 2026.
 
 Rugs* is a music venue in Beijing listed on soundcheck. 4 upcoming gigs, with line-ups including Cosmic Egg, Drew McDowall, Hiro Kone and Hunkut and 2 more. See dates, start times and who's playing.
 
@@ -13,4 +13,4 @@ Rugs* is a music venue in Beijing listed on soundcheck. 4 upcoming gigs, with li
 | Sat, 14 Nov 2026 | PLAYTIME Pres. YCHAN | Skögul, manju |
 | Fri, 20 Nov 2026 | 帝風 - Sunga | Sunga |
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/beijing/club/rugs/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/beijing/club/rugs/)*

@@ -1,6 +1,6 @@
 # Keeva G
 
-Keeva G is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Centre Point, Dublin on Sat, 12 Dec 2026.
+Keeva G is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Centre Point, Dublin on Sat, 12 Dec 2026.
 
 Keeva G is a techno and house artist based in Ireland, with 20 gigs on soundcheck across Amsterdam, Belfast, Berlin and Cork and 3 more. Often billed alongside Cricky Lyttle, AOIFE and IndeniaL. Next up: Centre Point, Dublin on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Keeva G is a techno and house artist based in Ireland, with 20 gigs on soundchec
 
 Cricky Lyttle, AOIFE, IndeniaL
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/keevag/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/keevag/)*

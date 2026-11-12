@@ -1,6 +1,6 @@
 # Palimpseste
 
-Palimpseste is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Tempo, Madrid on Sun, 15 Nov 2026.
+Palimpseste is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Tempo, Madrid on Sun, 15 Nov 2026.
 
 Palimpseste is a house and disco artist based in France, with 56 gigs on soundcheck across Madrid and Paris. Often billed alongside Finesse, Marchandazing and Matteo Morrielli. Next up: Tempo, Madrid on Sun 15 Nov.
 
@@ -26,4 +26,4 @@ Palimpseste is a house and disco artist based in France, with 56 gigs on soundch
 
 Finesse, Marchandazing, Matteo Morrielli
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/palimpseste/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/palimpseste/)*

@@ -1,6 +1,6 @@
 # Lena Brecht
 
-Lena Brecht is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at frachtkante, Berlin on Sat, 28 Nov 2026.
+Lena Brecht is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at frachtkante, Berlin on Sat, 28 Nov 2026.
 
 Lena Brecht is a house and techno artist based in Germany, with 47 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Josiane, Kidcat and ilbroccolovolante. Next up: frachtkante, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Lena Brecht is a house and techno artist based in Germany, with 47 gigs on sound
 
 Josiane, Kidcat, ilbroccolovolante
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lenabrecht/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lenabrecht/)*

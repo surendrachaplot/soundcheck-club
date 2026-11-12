@@ -1,6 +1,6 @@
 # Stephan Bodzin
 
-Stephan Bodzin is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Audio Club, Geneva on Fri, 20 Nov 2026.
+Stephan Bodzin is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Audio Club, Geneva on Fri, 20 Nov 2026.
 
 Stephan Bodzin is a techno and house artist based in Germany, with 130 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 50 more. Often billed alongside Luna Semara, Mind Against and Kevin de Vries. Next up: Audio Club, Geneva on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Stephan Bodzin is a techno and house artist based in Germany, with 130 gigs on s
 
 Luna Semara, Mind Against, Kevin de Vries
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stephanbodzin/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stephanbodzin/)*

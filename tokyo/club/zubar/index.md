@@ -1,6 +1,6 @@
 # ZUBAR
 
-ZUBAR is a music venue in Tokyo with 20 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "MAGIC BUS" on Thu, 12 Nov 2026.
+ZUBAR is a music venue in Tokyo with 20 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "MAGIC BUS" on Thu, 12 Nov 2026.
 
 ZUBAR is a music venue in Tokyo listed on soundcheck. 20 upcoming gigs, with line-ups including AKARI, cirra, Futa and Katie (NL) and 2 more. See dates, start times and who's playing. ZU Bldg 1F 2-54-4 Kitamagome Ota-ku Tokyo, 143-0021.
 
@@ -23,4 +23,4 @@ ZUBAR is a music venue in Tokyo listed on soundcheck. 20 upcoming gigs, with lin
 
 ZU Bldg 1F 2-54-4 Kitamagome Ota-ku Tokyo, 143-0021, Tokyo
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/zubar/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/zubar/)*

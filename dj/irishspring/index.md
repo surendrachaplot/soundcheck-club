@@ -1,6 +1,6 @@
 # irish spring
 
-irish spring is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Twisted Element, Calgary on Sat, 12 Dec 2026.
+irish spring is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Twisted Element, Calgary on Sat, 12 Dec 2026.
 
 irish spring is a techno and house artist based in Canada, with 7 gigs on soundcheck across Calgary. Often billed alongside PAWNZI, AADJA and Angel Science. Next up: Twisted Element, Calgary on Sat 12 Dec.
 
@@ -23,4 +23,4 @@ irish spring is a techno and house artist based in Canada, with 7 gigs on soundc
 
 PAWNZI, AADJA, Angel Science
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/irishspring/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/irishspring/)*

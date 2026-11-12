@@ -1,6 +1,6 @@
 # Snarecrow
 
-Snarecrow is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at elipamanoke, Leipzig on Sat, 14 Nov 2026.
+Snarecrow is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at elipamanoke, Leipzig on Sat, 14 Nov 2026.
 
 Snarecrow is a drum & bass and techno artist based in Germany, with 11 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Snapix, IHOPEIEXIST and .koshka.. Next up: elipamanoke, Leipzig on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Snarecrow is a drum & bass and techno artist based in Germany, with 11 gigs on s
 
 Snapix, IHOPEIEXIST, .koshka.
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/snarecrow/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/snarecrow/)*

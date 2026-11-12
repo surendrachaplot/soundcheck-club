@@ -1,6 +1,6 @@
 # Andy Farley
 
-Andy Farley is a Trance and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at XOYO, London on Sat, 14 Nov 2026.
+Andy Farley is a Trance and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at XOYO, London on Sat, 14 Nov 2026.
 
 Andy Farley is a trance and house artist based in United Kingdom, with 10 gigs on soundcheck across Bristol, Leeds and London. Often billed alongside BK, Anahita Shamsaei and Kyle E. Next up: XOYO, London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Andy Farley is a trance and house artist based in United Kingdom, with 10 gigs o
 
 BK, Anahita Shamsaei, Kyle E
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andyfarley/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andyfarley/)*

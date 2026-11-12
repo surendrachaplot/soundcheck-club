@@ -1,6 +1,6 @@
 # I hug speakers
 
-I hug speakers is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Kudeta Singapore, Singapore on Wed, 26 May 2027.
+I hug speakers is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Kudeta Singapore, Singapore on Wed, 26 May 2027.
 
 I hug speakers is a deep house and house artist based in Poland, with 7 gigs on soundcheck across Singapore, Warsaw and Wroclaw. Often billed alongside Myris, Radio Slave and DRM. Next up: Kudeta Singapore, Singapore on Wed 26 May.
 
@@ -23,4 +23,4 @@ I hug speakers is a deep house and house artist based in Poland, with 7 gigs on 
 
 Myris, Radio Slave, DRM
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ihugspeakers/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ihugspeakers/)*

@@ -1,6 +1,6 @@
 # JOVE
 
-JOVE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Smith St Hotel, Melbourne on Sun, 15 Nov 2026.
+JOVE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Smith St Hotel, Melbourne on Sun, 15 Nov 2026.
 
 JOVE is a house and techno artist based in Australia, with 87 gigs on soundcheck across Cologne, Liverpool, Melbourne and Perth and 1 more. Often billed alongside HAUSWiFE, Casey Leaver and Mitch Tonta. Next up: Smith St Hotel, Melbourne on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ JOVE is a house and techno artist based in Australia, with 87 gigs on soundcheck
 
 HAUSWiFE, Casey Leaver, Mitch Tonta
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jove/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jove/)*

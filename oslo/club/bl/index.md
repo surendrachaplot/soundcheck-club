@@ -1,6 +1,6 @@
 # Blå
 
-Blå is a music venue in Oslo with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Olefonken (Hubbabubbaklubb) / BLÅ" on Fri, 13 Nov 2026.
+Blå is a music venue in Oslo with 7 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Olefonken (Hubbabubbaklubb) / BLÅ" on Fri, 13 Nov 2026.
 
 Blå is a music venue in Oslo listed on soundcheck. 7 upcoming gigs, with line-ups including Barbara Boeing, Bjørn Torske, Fakethias and Frantzvaag and 2 more. See dates, start times and who's playing. Brennerivn 9c; 0182 Oslo; Norway.
 
@@ -20,4 +20,4 @@ Blå is a music venue in Oslo listed on soundcheck. 7 upcoming gigs, with line-u
 
 Brennerivn 9c; 0182 Oslo; Norway, Oslo
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/bl/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/bl/)*

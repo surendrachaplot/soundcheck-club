@@ -1,6 +1,6 @@
 # Tony Serban
 
-Tony Serban is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Honeycomb Hi-Fi, Dubai on Fri, 13 Nov 2026.
+Tony Serban is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Honeycomb Hi-Fi, Dubai on Fri, 13 Nov 2026.
 
 Tony Serban is a house and minimal artist based in United States of America, with 16 gigs on soundcheck across Bangkok, Dubai, London and Miami and 2 more. Often billed alongside Rakim Under, BabyBass and Karnak On Acid. Next up: Honeycomb Hi-Fi, Dubai on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Tony Serban is a house and minimal artist based in United States of America, wit
 
 Rakim Under, BabyBass, Karnak On Acid
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyserban/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyserban/)*

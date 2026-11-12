@@ -1,6 +1,6 @@
 # Purple Disco Machine
 
-Purple Disco Machine is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at DRUMSHEDS, London on Fri, 13 Nov 2026.
+Purple Disco Machine is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at DRUMSHEDS, London on Fri, 13 Nov 2026.
 
 Purple Disco Machine is a house and disco artist based in Germany, with 109 gigs on soundcheck across Amsterdam, Auckland, Austin and Barcelona and 33 more. Often billed alongside david bay, Dombresky and LP Giobbi. Next up: DRUMSHEDS, London on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Purple Disco Machine is a house and disco artist based in Germany, with 109 gigs
 
 david bay, Dombresky, LP Giobbi
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/purplediscomachine/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/purplediscomachine/)*

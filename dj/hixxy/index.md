@@ -1,6 +1,6 @@
 # Hixxy
 
-Hixxy is a Hardcore and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Beaver Works, Leeds on Sat, 14 Nov 2026.
+Hixxy is a Hardcore and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Beaver Works, Leeds on Sat, 14 Nov 2026.
 
 Hixxy is a hardcore and bass artist based in United Kingdom, with 27 gigs on soundcheck across Amsterdam, Austin, Brighton and Edinburgh and 13 more. Often billed alongside Dougal, Mark Breeze and Darren Styles. Next up: Beaver Works, Leeds on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Hixxy is a hardcore and bass artist based in United Kingdom, with 27 gigs on sou
 
 Dougal, Mark Breeze, Darren Styles
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hixxy/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hixxy/)*

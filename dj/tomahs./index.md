@@ -1,6 +1,6 @@
 # Tomahs.
 
-Tomahs. is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Ilion Plus, Athens on Sat, 14 Nov 2026.
+Tomahs. is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Ilion Plus, Athens on Sat, 14 Nov 2026.
 
 Tomahs. is a house and techno artist based in Italy, with 24 gigs on soundcheck across Athens, Barcelona and Milan. Often billed alongside Zehn., STOZ and NINI. Next up: Ilion Plus, Athens on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Tomahs. is a house and techno artist based in Italy, with 24 gigs on soundcheck 
 
 Zehn., STOZ, NINI (2)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomahs./)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomahs./)*

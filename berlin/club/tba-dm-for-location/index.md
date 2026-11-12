@@ -1,6 +1,6 @@
 # TBA - DM FOR LOCATION
 
-TBA - DM FOR LOCATION is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "OFF-GRID VOL 4" on Sat, 21 Nov 2026.
+TBA - DM FOR LOCATION is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "OFF-GRID VOL 4" on Sat, 21 Nov 2026.
 
 TBA - DM FOR LOCATION is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including Delma and Pug.. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - DM FOR LOCATION is a music venue in Berlin listed on soundcheck. 1 upcomin
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | OFF-GRID VOL 4 | Delma, Pug. |
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-dm-for-location/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-dm-for-location/)*

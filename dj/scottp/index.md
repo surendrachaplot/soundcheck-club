@@ -1,6 +1,6 @@
 # Scott P
 
-Scott P is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Macadam, Nantes on Sun, 17 Jan 2027.
+Scott P is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Macadam, Nantes on Sun, 17 Jan 2027.
 
 Scott P is a house and deep house artist, with 10 gigs on soundcheck across Lyon, Nantes and Paris. Often billed alongside Alan.D, Camille Doe and Club Devotion. Next up: Macadam, Nantes on Sun 17 Jan.
 
@@ -25,4 +25,4 @@ Scott P is a house and deep house artist, with 10 gigs on soundcheck across Lyon
 
 Alan.D, Camille Doe, Club Devotion
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scottp/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scottp/)*

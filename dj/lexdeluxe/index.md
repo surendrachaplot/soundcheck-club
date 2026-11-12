@@ -1,6 +1,6 @@
 # Lex
 
-Lex is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Music Room, Melbourne on Fri, 13 Nov 2026.
+Lex is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Music Room, Melbourne on Fri, 13 Nov 2026.
 
 Lex is a house and techno artist based in Australia, with 37 gigs on soundcheck across Amsterdam, Brisbane, Melbourne and Mexico City and 3 more. Often billed alongside suki, Hannah D and DJ Monke. Next up: Music Room, Melbourne on Fri 13 Nov.
 
@@ -28,4 +28,4 @@ Lex is a house and techno artist based in Australia, with 37 gigs on soundcheck 
 
 suki, Hannah D, DJ Monke
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lexdeluxe/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lexdeluxe/)*

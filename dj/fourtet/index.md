@@ -1,6 +1,6 @@
 # Four Tet
 
-Four Tet is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 21 Nov 2026.
+Four Tet is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 21 Nov 2026.
 
 Four Tet is a house and techno artist based in United Kingdom, with 91 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 28 more. Often billed alongside Skrillex, Ben UFO and Floating Points. Next up: Depot Mayfield, Manchester on Sat 21 Nov.
 
@@ -30,4 +30,4 @@ Four Tet is a house and techno artist based in United Kingdom, with 91 gigs on s
 
 Skrillex, Ben UFO, Floating Points
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fourtet/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fourtet/)*

@@ -1,6 +1,6 @@
 # Agata (PL)
 
-Agata (PL) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at 119, Berlin on Sat, 28 Nov 2026.
+Agata (PL) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at 119, Berlin on Sat, 28 Nov 2026.
 
 Agata (PL) is a techno and trance artist based in Germany, with 38 gigs on soundcheck across Beijing, Berlin, Copenhagen and Hong Kong and 6 more. Often billed alongside Stina Francina, INVERNO and vp allowed. Next up: 119, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Agata (PL) is a techno and trance artist based in Germany, with 38 gigs on sound
 
 Stina Francina, INVERNO, vp allowed
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/agatapl/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/agatapl/)*

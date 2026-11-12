@@ -1,6 +1,6 @@
 # Bernardo Vaz
 
-Bernardo Vaz is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Collect - Cais do Sodre, Lisbon on Tue, 24 Nov 2026.
+Bernardo Vaz is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Collect - Cais do Sodre, Lisbon on Tue, 24 Nov 2026.
 
 Bernardo Vaz is a house and techno artist based in Portugal, with 109 gigs on soundcheck across Lisbon and Porto. Often billed alongside Kaesar, John-E and Gear. Next up: Collect - Cais do Sodre, Lisbon on Tue 24 Nov.
 
@@ -25,4 +25,4 @@ Bernardo Vaz is a house and techno artist based in Portugal, with 109 gigs on so
 
 Kaesar, John-E, Gear
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bernardovaz/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bernardovaz/)*

@@ -1,6 +1,6 @@
 # Spook
 
-Spook is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Prohibition Brisbane, Brisbane on Sat, 19 Dec 2026.
+Spook is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Prohibition Brisbane, Brisbane on Sat, 19 Dec 2026.
 
 Spook is a techno and house artist, with 8 gigs on soundcheck across Brisbane, Paris and Valencia. Often billed alongside Cubo, 24sex-b and 400 Coups, Minuit. Next up: Prohibition Brisbane, Brisbane on Sat 19 Dec.
 
@@ -24,4 +24,4 @@ Spook is a techno and house artist, with 8 gigs on soundcheck across Brisbane, P
 
 Cubo, 24sex-b, 400 Coups, Minuit
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spook/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spook/)*

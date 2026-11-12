@@ -1,6 +1,6 @@
 # Emina Helena
 
-Emina Helena is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Die Rakete, Nürnberg on Fri, 20 Nov 2026.
+Emina Helena is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Die Rakete, Nürnberg on Fri, 20 Nov 2026.
 
 Emina Helena is a techno and house artist based in Germany, with 31 gigs on soundcheck across Berlin, Leipzig and Nürnberg. Often billed alongside Frankie Flowerz, Acid Foxy and Annie O. Next up: Die Rakete, Nürnberg on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Emina Helena is a techno and house artist based in Germany, with 31 gigs on soun
 
 Frankie Flowerz, Acid Foxy, Annie O
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eminahelena/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eminahelena/)*

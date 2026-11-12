@@ -1,18 +1,18 @@
 # Josephine
 
-Josephine is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Jupiter Disco, New York City on Wed, 11 Nov 2026.
+Josephine is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Holgura, Madrid on Fri, 11 Dec 2026.
 
-Josephine is a techno and electronica artist based in Spain, with 22 gigs on soundcheck across Barcelona, Buenos Aires, Chicago and London and 2 more. Often billed alongside Diskoan, -nico- and 99jakes. Next up: Jupiter Disco, New York City on Wed 11 Nov.
+Josephine is a techno and electronica artist based in Spain, with 22 gigs on soundcheck across Barcelona, Buenos Aires, Chicago and London and 2 more. Often billed alongside Diskoan, -nico- and 99jakes. Next up: Holgura, Madrid on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 11 Nov 2026 | Jupiter Disco | New York City |
 | Fri, 11 Dec 2026 | Holgura | Madrid |
 
 ## Recently played
 
+- Jupiter Disco, New York City · Wed, 11 Nov 2026
 - TBA - LFO, Madrid · Fri, 4 Sept 2026
 - Matadero Madrid, Madrid · Wed, 22 Jul 2026
 - Sala Siroco, Madrid · Fri, 26 Jun 2026
@@ -20,10 +20,9 @@ Josephine is a techno and electronica artist based in Spain, with 22 gigs on sou
 - TBA - Various Venues, Chicago · Thu, 8 Jan 2026
 - LAUT, Barcelona · Sun, 18 May 2025
 - Plantroom, London · Sat, 8 Mar 2025
-- Republik Club, Madrid · Sat, 14 Dec 2024
 
 ## Shares bills with
 
 Diskoan, -nico-, 99jakes
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/josephine/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/josephine/)*

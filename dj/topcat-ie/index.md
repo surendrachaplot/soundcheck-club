@@ -1,6 +1,6 @@
 # Top Cat
 
-Top Cat is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Electric Brixton, London on Sat, 5 Dec 2026.
+Top Cat is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Electric Brixton, London on Sat, 5 Dec 2026.
 
 Top Cat is a jungle and drum & bass artist based in Ireland, with 7 gigs on soundcheck across Bristol and London. Often billed alongside Congo Natty, DJ Snuff and Kenny Ken. Next up: Electric Brixton, London on Sat 5 Dec.
 
@@ -23,4 +23,4 @@ Top Cat is a jungle and drum & bass artist based in Ireland, with 7 gigs on soun
 
 Congo Natty, DJ Snuff, Kenny Ken
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/topcat-ie/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/topcat-ie/)*

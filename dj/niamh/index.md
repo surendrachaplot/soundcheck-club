@@ -1,6 +1,6 @@
 # Niamh
 
-Niamh is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Stage and Radio, Manchester on Thu, 12 Nov 2026.
+Niamh is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Stage and Radio, Manchester on Thu, 12 Nov 2026.
 
 Niamh is a techno and house artist based in Ireland, with 8 gigs on soundcheck across London, Manchester and Newcastle. Often billed alongside 4am Kru, ALISHA and ATRIP. Next up: Stage and Radio, Manchester on Thu 12 Nov.
 
@@ -24,4 +24,4 @@ Niamh is a techno and house artist based in Ireland, with 8 gigs on soundcheck a
 
 4am Kru, ALISHA, ATRIP
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/niamh/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/niamh/)*

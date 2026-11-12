@@ -1,6 +1,6 @@
 # Reisender
 
-Reisender is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Doggy Klœb, Malaga on Sat, 28 Nov 2026.
+Reisender is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Doggy Klœb, Malaga on Sat, 28 Nov 2026.
 
 Reisender is a techno and experimental artist based in Spain, with 13 gigs on soundcheck across Madrid and Malaga. Often billed alongside Noctive, Spingel and VNSTY. Next up: Doggy Klœb, Malaga on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Reisender is a techno and experimental artist based in Spain, with 13 gigs on so
 
 Noctive, Spingel, VNSTY
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reisender/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reisender/)*

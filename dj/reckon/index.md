@@ -1,6 +1,6 @@
 # Reckon
 
-Reckon is a Electro and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - SECRET LOCATION, ROCHFORD ESSEX, South-east on Thu, 31 Dec 2026.
+Reckon is a Electro and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - SECRET LOCATION, ROCHFORD ESSEX, South-east on Thu, 31 Dec 2026.
 
 Reckon is an electro and minimal artist based in United Kingdom, with 11 gigs on soundcheck across London and South East. Often billed alongside Jamie Bloomfield, Harold. and Ben Lucas. Next up: TBA - SECRET LOCATION, ROCHFORD ESSEX, South East on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Reckon is an electro and minimal artist based in United Kingdom, with 11 gigs on
 
 Jamie Bloomfield, Harold., Ben Lucas
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reckon/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reckon/)*

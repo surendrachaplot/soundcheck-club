@@ -1,6 +1,6 @@
 # David A-P
 
-David A-P is a Deep House and Balearic artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at BAR Inc, Osaka on Thu, 3 Dec 2026.
+David A-P is a Deep House and Balearic artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at BAR Inc, Osaka on Thu, 3 Dec 2026.
 
 David A-P is a deep house and balearic artist based in United States of America, with 34 gigs on soundcheck across Detroit and Osaka. Often billed alongside Peter Croce, John Beltran and Eddie Logix. Next up: BAR Inc, Osaka on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ David A-P is a deep house and balearic artist based in United States of America,
 
 Peter Croce, John Beltran, Eddie Logix
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davida-p/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davida-p/)*

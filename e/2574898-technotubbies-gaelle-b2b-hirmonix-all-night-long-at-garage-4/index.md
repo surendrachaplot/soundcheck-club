@@ -1,6 +1,6 @@
 # Technotubbies: GAELLE B2B HIRMONIX (All Night Long) at Garage 442
 
-Technotubbies: GAELLE B2B HIRMONIX (All Night Long) at Garage 442 on Sat 14 Nov, Barcelona. 1 artist: HIRMONIX. See the line-up on soundcheck.
+Technotubbies: GAELLE B2B HIRMONIX (All Night Long) at Garage 442 on Sat 14 Nov, Barcelona. 2 artists: GAELLE and HIRMONIX. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Technotubbies: GAELLE B2B HIRMONIX (All Night Long) at Garage 442 on Sat 14 Nov,
 
 ## Line-up
 
+- GAELLE
 - HIRMONIX
 
 *Source: [soundcheck](https://soundcheck.club/e/2574898-technotubbies-gaelle-b2b-hirmonix-all-night-long-at-garage-4/)*

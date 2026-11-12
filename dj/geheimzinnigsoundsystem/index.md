@@ -1,6 +1,6 @@
 # Geheimzinnig Soundsystem
 
-Geheimzinnig Soundsystem is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Apollo Club Milano, Milan on Fri, 13 Nov 2026.
+Geheimzinnig Soundsystem is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Apollo Club Milano, Milan on Fri, 13 Nov 2026.
 
 Geheimzinnig Soundsystem is a house and disco artist based in Belgium, with 42 gigs on soundcheck across Amsterdam, Antwerp, Brussels and Ghent and 1 more. Often billed alongside Kenny Montana, Larry Masmero and kneiz. Next up: Apollo Club Milano, Milan on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Geheimzinnig Soundsystem is a house and disco artist based in Belgium, with 42 g
 
 Kenny Montana, Larry Masmero, kneiz
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/geheimzinnigsoundsystem/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/geheimzinnigsoundsystem/)*

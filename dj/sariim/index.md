@@ -1,6 +1,6 @@
 # Sariim
 
-Sariim is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Drugstore Beograd, Belgrade on Sat, 19 Dec 2026.
+Sariim is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Drugstore Beograd, Belgrade on Sat, 19 Dec 2026.
 
 Sariim is a techno and bass artist based in Ukraine, with 20 gigs on soundcheck across Belgrade and Berlin. Often billed alongside Costa (FR), Chaosy and Jana Woodstock. Next up: Drugstore Beograd, Belgrade on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Sariim is a techno and bass artist based in Ukraine, with 20 gigs on soundcheck 
 
 Costa (FR), Chaosy, Jana Woodstock
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sariim/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sariim/)*

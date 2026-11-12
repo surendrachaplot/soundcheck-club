@@ -1,6 +1,6 @@
 # Daphni
 
-Daphni is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at FOLD, London on Thu, 31 Dec 2026.
+Daphni is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at FOLD, London on Thu, 31 Dec 2026.
 
 Daphni is a house and techno artist based in Canada, with 57 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 28 more. Often billed alongside Floating Points, Four Tet and Ben UFO. Next up: FOLD, London on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Daphni is a house and techno artist based in Canada, with 57 gigs on soundcheck 
 
 Floating Points, Four Tet, Ben UFO
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daphni/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daphni/)*

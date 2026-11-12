@@ -1,6 +1,6 @@
 # duco
 
-duco is a Techno and Ghetto Tech artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Elsewhere, New York City on Sat, 14 Nov 2026.
+duco is a Techno and Ghetto Tech artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Elsewhere, New York City on Sat, 14 Nov 2026.
 
 duco is a techno and ghetto tech artist based in United States of America, with 35 gigs on soundcheck across Amsterdam, New York City and Seoul. Often billed alongside WADDLE, NIJEII and y2aura. Next up: Elsewhere, New York City on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ duco is a techno and ghetto tech artist based in United States of America, with 
 
 WADDLE, NIJEII, y2aura
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/duco/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/duco/)*

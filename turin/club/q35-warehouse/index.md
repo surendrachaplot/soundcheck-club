@@ -1,6 +1,6 @@
 # Q35 WAREHOUSE
 
-Q35 WAREHOUSE is a music venue in Turin with 6 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Gabber Eleganza All Night Long (Never Sleep /IT)" on Sat, 14 Nov 2026.
+Q35 WAREHOUSE is a music venue in Turin with 6 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Gabber Eleganza All Night Long (Never Sleep /IT)" on Sat, 14 Nov 2026.
 
 Q35 WAREHOUSE is a music venue in Turin listed on soundcheck. 6 upcoming gigs, with line-ups including Aberra, Adiel, Ellen Allien and Gabber Eleganza and 2 more. See dates, start times and who's playing. Lungo Dora Firenze 131/A.
 
@@ -19,4 +19,4 @@ Q35 WAREHOUSE is a music venue in Turin listed on soundcheck. 6 upcoming gigs, w
 
 Lungo Dora Firenze 131/A, Turin
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/turin/club/q35-warehouse/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/turin/club/q35-warehouse/)*

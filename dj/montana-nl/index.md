@@ -1,6 +1,6 @@
 # Montana
 
-Montana is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Bird, Perth on Sat, 5 Dec 2026.
+Montana is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Bird, Perth on Sat, 5 Dec 2026.
 
 Montana is a techno and house artist based in Netherlands, with 223 gigs on soundcheck across Amsterdam, Antwerp, Bali and Baltimore and 62 more. Often billed alongside APP, Alaska and Debit. Next up: The Bird, Perth on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Montana is a techno and house artist based in Netherlands, with 223 gigs on soun
 
 APP, Alaska (2), Debit
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/montana-nl/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/montana-nl/)*

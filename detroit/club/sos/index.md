@@ -1,14 +1,13 @@
 # SOS
 
-SOS is a music venue in Detroit with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "OPEN DECKS" on Wed, 11 Nov 2026.
+SOS is a music venue in Detroit with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "LAÍRE NIGHT XI" on Fri, 13 Nov 2026.
 
-SOS is a music venue in Detroit listed on soundcheck. 2 upcoming gigs, with line-ups including JOTAAA, NK-Ultra and Redax. See dates, start times and who's playing.
+SOS is a music venue in Detroit listed on soundcheck. 1 upcoming gig, with line-ups including JOTAAA, NK-Ultra and Redax. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 11 Nov 2026 | OPEN DECKS |  |
 | Fri, 13 Nov 2026 | LAÍRE NIGHT XI | JOTAAA, NK-Ultra, Redax |
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/sos/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/sos/)*

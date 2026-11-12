@@ -1,6 +1,6 @@
 # BOM83L
 
-BOM83L is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at STK 47 WAREHOUSE, Krakow on Sat, 14 Nov 2026.
+BOM83L is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at STK 47 WAREHOUSE, Krakow on Sat, 14 Nov 2026.
 
 BOM83L is a techno and industrial artist based in Poland, with 33 gigs on soundcheck across Krakow. Often billed alongside Edvvin, I Dance Alone and Buchan. Next up: STK 47 WAREHOUSE, Krakow on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ BOM83L is a techno and industrial artist based in Poland, with 33 gigs on soundc
 
 Edvvin, I Dance Alone, Buchan
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bom83l/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bom83l/)*

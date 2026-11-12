@@ -1,6 +1,6 @@
 # Night Tales
 
-Night Tales is a music venue in London with 34 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Night Tales: Maya Jane Coles & More" on Fri, 13 Nov 2026.
+Night Tales is a music venue in London with 34 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Night Tales: Maya Jane Coles & More" on Fri, 13 Nov 2026.
 
 Night Tales is a music venue in London listed on soundcheck. 34 upcoming gigs, with line-ups including 1-800 GIRLS, A Guy Called Gerald, Andy Luff and Aquamarine and 2 more. See dates, start times and who's playing. 14 Bohemia Pl, London E8 1DU, United Kingdom.
 
@@ -23,4 +23,4 @@ Night Tales is a music venue in London listed on soundcheck. 34 upcoming gigs, w
 
 14 Bohemia Pl, London E8 1DU, United Kingdom, London
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/night-tales/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/night-tales/)*

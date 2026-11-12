@@ -1,6 +1,6 @@
 # AMT
 
-AMT is a music venue in Berlin with 16 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Loone x Arcane XIII" on Wed, 11 Nov 2026.
+AMT is a music venue in Berlin with 16 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Loone x Arcane XIII" on Wed, 11 Nov 2026.
 
 AMT is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, with line-ups including .Cheka, Achilles, ALIS. and Anja Schneider and 2 more. See dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ AMT is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, with line
 | Tue, 24 Nov 2026 | Rx presents: Noise Daughters Showcase  | GAEL, New Frames, Skungal |
 | Fri, 27 Nov 2026 | Night Bloom | Achilles, Ezio Aguiar, Helina, KALEA, Kataya, Luca Nova, MUKKIMIAU, Max Joni, Noor Sanchez, SvP, hero |
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/amt/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/amt/)*

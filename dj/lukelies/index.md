@@ -1,6 +1,6 @@
 # LUKE LIES
 
-LUKE LIES is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at CÉ LA VI, London on Fri, 20 Nov 2026.
+LUKE LIES is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at CÉ LA VI, London on Fri, 20 Nov 2026.
 
 LUKE LIES is a techno and electronica artist based in Italy, with 13 gigs on soundcheck across Amsterdam, London and Rome. Often billed alongside Mastik Lickers, Benny Camaro and Domenico Rondinelli. Next up: CÉ LA VI, London on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ LUKE LIES is a techno and electronica artist based in Italy, with 13 gigs on sou
 
 Mastik Lickers, Benny Camaro, Domenico Rondinelli
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukelies/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukelies/)*

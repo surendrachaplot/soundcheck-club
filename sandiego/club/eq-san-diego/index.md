@@ -1,6 +1,6 @@
 # EQ San Diego
 
-EQ San Diego is a music venue in San Diego with 12 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "REVERB: HARDGROOVE" on Thu, 12 Nov 2026.
+EQ San Diego is a music venue in San Diego with 12 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "REVERB: HARDGROOVE" on Thu, 12 Nov 2026.
 
 EQ San Diego is a music venue in San Diego listed on soundcheck. 12 upcoming gigs, with line-ups including Baby Jane, Damian Kuro, Dekmantel Soundsystem and Dianthe and 2 more. See dates, start times and who's playing. 1271 University Ave San Diego, CA 92103.
 
@@ -23,4 +23,4 @@ EQ San Diego is a music venue in San Diego listed on soundcheck. 12 upcoming gig
 
 1271 University Ave San Diego, CA 92103, San Diego
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/eq-san-diego/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/eq-san-diego/)*

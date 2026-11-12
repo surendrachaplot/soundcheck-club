@@ -1,6 +1,6 @@
 # Sub Club Melbourne
 
-Sub Club Melbourne is a music venue in Melbourne with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Soothsayer presents... Baxter (UK)" on Fri, 13 Nov 2026.
+Sub Club Melbourne is a music venue in Melbourne with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Soothsayer presents... Baxter (UK)" on Fri, 13 Nov 2026.
 
 Sub Club Melbourne is a music venue in Melbourne listed on soundcheck. 5 upcoming gigs, with line-ups including Baxter, Deepa, dj awesomechillguy25 and Fresh Hex and 2 more. See dates, start times and who's playing. Flinders Ct, Melbourne VIC 3000, Australia.
 
@@ -18,4 +18,4 @@ Sub Club Melbourne is a music venue in Melbourne listed on soundcheck. 5 upcomin
 
 Flinders Ct, Melbourne VIC 3000, Australia, Melbourne
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/sub-club-melbourne/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/sub-club-melbourne/)*

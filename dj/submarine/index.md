@@ -1,14 +1,15 @@
 # submarine
 
-submarine is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Button Factory, Auckland on Sat, 21 Nov 2026.
+submarine is a Drum & Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Button Factory, Auckland on Sat, 21 Nov 2026.
 
-submarine is a drum & bass and dubstep artist based in Germany, with 20 gigs on soundcheck across Auckland, Basel, Berlin and Bristol and 8 more. Often billed alongside Alix Perez, Sancta and Strategy. Next up: The Button Factory, Auckland on Sat 21 Nov.
+submarine is a drum & bass and dubstep artist based in Germany, with 21 gigs on soundcheck across Auckland, Basel, Berlin and Bristol and 8 more. Often billed alongside Alix Perez, Monty and SP:MC. Next up: The Button Factory, Auckland on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | The Button Factory | Auckland |
+| Fri, 8 Jan 2027 | Phonox | London |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ submarine is a drum & bass and dubstep artist based in Germany, with 20 gigs on 
 
 ## Shares bills with
 
-Alix Perez, Sancta, Strategy
+Alix Perez, Monty, SP:MC
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/submarine/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/submarine/)*

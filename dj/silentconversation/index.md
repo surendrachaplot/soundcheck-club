@@ -1,6 +1,6 @@
 # Silent Conversation
 
-Silent Conversation is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Amplify, Detroit on Fri, 27 Nov 2026.
+Silent Conversation is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Amplify, Detroit on Fri, 27 Nov 2026.
 
 Silent Conversation is a techno and acid artist, with 7 gigs on soundcheck across Detroit. Often billed alongside RETCON, Kuuma and OMO (US). Next up: Amplify, Detroit on Fri 27 Nov.
 
@@ -23,4 +23,4 @@ Silent Conversation is a techno and acid artist, with 7 gigs on soundcheck acros
 
 RETCON, Kuuma, OMO (US)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/silentconversation/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/silentconversation/)*

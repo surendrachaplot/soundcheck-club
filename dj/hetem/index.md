@@ -1,6 +1,6 @@
 # HETEM
 
-HETEM is a Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Para Klub Beograd, Belgrade on Sun, 22 Nov 2026.
+HETEM is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Para Klub Beograd, Belgrade on Sun, 22 Nov 2026.
 
 HETEM is a techno artist based in Serbia, with 8 gigs on soundcheck across Belgrade. Often billed alongside mdngt, Luka Jukic and ROPE. Next up: Para Klub Beograd, Belgrade on Sun 22 Nov.
 
@@ -24,4 +24,4 @@ HETEM is a techno artist based in Serbia, with 8 gigs on soundcheck across Belgr
 
 mdngt, Luka Jukic, ROPE
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hetem/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hetem/)*

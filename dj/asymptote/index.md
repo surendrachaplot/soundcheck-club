@@ -1,6 +1,6 @@
 # Asymptote
 
-Asymptote is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Soap House - Ex Saponerie Mira Lanza, Rome on Sat, 14 Nov 2026.
+Asymptote is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Soap House - Ex Saponerie Mira Lanza, Rome on Sat, 14 Nov 2026.
 
 Asymptote is a techno and electronica artist based in Italy, with 82 gigs on soundcheck across Berlin, Bologna, Budapest and Milan and 2 more. Often billed alongside Giorgia Ferrero, Endrew and MURINO. Next up: Soap House - Ex Saponerie Mira Lanza, Rome on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Asymptote is a techno and electronica artist based in Italy, with 82 gigs on sou
 
 Giorgia Ferrero, Endrew, MURINO (2)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/asymptote/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/asymptote/)*

@@ -1,6 +1,6 @@
 # w_sercu
 
-w_sercu is a music venue in Poznan with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "Kiss&Groove meets Stump Valley (Toy Tonics)" on Fri, 20 Nov 2026.
+w_sercu is a music venue in Poznan with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "Kiss&Groove meets Stump Valley (Toy Tonics)" on Fri, 20 Nov 2026.
 
 w_sercu is a music venue in Poznan listed on soundcheck. 1 upcoming gig, with line-ups including MONIXON and Stump Valley. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ w_sercu is a music venue in Poznan listed on soundcheck. 1 upcoming gig, with li
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Kiss&Groove meets Stump Valley (Toy Tonics) | MONIXON, Stump Valley |
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/poznan/club/w-sercu/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/poznan/club/w-sercu/)*

@@ -1,6 +1,6 @@
 # anschi
 
-anschi is a Techno and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Zur Klappe, Berlin on Fri, 13 Nov 2026.
+anschi is a Techno and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Zur Klappe, Berlin on Fri, 13 Nov 2026.
 
 anschi is a techno and afro house artist based in Germany, with 17 gigs on soundcheck across Berlin, Cape Town and Munich. Often billed alongside BOHO, Lampé and Stefan Muchte. Next up: Zur Klappe, Berlin on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ anschi is a techno and afro house artist based in Germany, with 17 gigs on sound
 
 BOHO, Lampé, Stefan Muchte
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anschi/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anschi/)*

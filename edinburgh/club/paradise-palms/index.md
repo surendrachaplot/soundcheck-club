@@ -1,6 +1,6 @@
 # Paradise Palms
 
-Paradise Palms is a music venue in Edinburgh with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Zoe from Finance and Tiggr" on Fri, 13 Nov 2026.
+Paradise Palms is a music venue in Edinburgh with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Zoe from Finance and Tiggr" on Fri, 13 Nov 2026.
 
 Paradise Palms is a music venue in Edinburgh listed on soundcheck. 3 upcoming gigs, with line-ups including ona:v and Zoe from Finance. See dates, start times and who's playing. 41 Lothian Street, EH6 6BU, Edinburgh, Scotland, United Kingdom.
 
@@ -16,4 +16,4 @@ Paradise Palms is a music venue in Edinburgh listed on soundcheck. 3 upcoming gi
 
 41 Lothian Street, EH6 6BU, Edinburgh, Scotland, United Kingdom, Edinburgh
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/paradise-palms/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/paradise-palms/)*

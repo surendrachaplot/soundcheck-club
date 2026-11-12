@@ -1,6 +1,6 @@
 # Nihility
 
-Nihility is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - St Lawrence, Toronto, Toronto on Sat, 28 Nov 2026.
+Nihility is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - St Lawrence, Toronto, Toronto on Sat, 28 Nov 2026.
 
 Nihility is a garage and bass artist based in Canada, with 17 gigs on soundcheck across Copenhagen, Montreal, New York City and Toronto. Often billed alongside In Depth Subject, NiUNiU and Sulk Hogan. Next up: TBA - St Lawrence, Toronto, Toronto on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Nihility is a garage and bass artist based in Canada, with 17 gigs on soundcheck
 
 In Depth Subject, NiUNiU, Sulk Hogan (2)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nihility/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nihility/)*

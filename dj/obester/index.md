@@ -1,6 +1,6 @@
 # Obester
 
-Obester is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Oculist, Brighton on Sat, 28 Nov 2026.
+Obester is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Oculist, Brighton on Sat, 28 Nov 2026.
 
 Obester is a deep house and house artist based in United Kingdom, with 13 gigs on soundcheck across Brighton and London. Often billed alongside Leo Christopher, Jake Nash and Oliver Molina. Next up: Oculist, Brighton on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Obester is a deep house and house artist based in United Kingdom, with 13 gigs o
 
 Leo Christopher, Jake Nash, Oliver Molina
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/obester/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/obester/)*

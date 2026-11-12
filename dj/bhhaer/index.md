@@ -1,6 +1,6 @@
 # Bhhaer
 
-Bhhaer is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Nas Nuvens, Rio de Janeiro on Sat, 5 Dec 2026.
+Bhhaer is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Nas Nuvens, Rio de Janeiro on Sat, 5 Dec 2026.
 
 Bhhaer is a tech house and house artist based in Brazil, with 5 gigs on soundcheck across Brazil and Rio de Janeiro. Often billed alongside Loofy. Next up: Nas Nuvens, Rio de Janeiro on Sat 5 Dec.
 
@@ -21,4 +21,4 @@ Bhhaer is a tech house and house artist based in Brazil, with 5 gigs on soundche
 
 Loofy
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bhhaer/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bhhaer/)*

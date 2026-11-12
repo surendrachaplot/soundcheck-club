@@ -1,6 +1,6 @@
 # Ranger Trucco
 
-Ranger Trucco is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Lab11, Birmingham on Sat, 14 Nov 2026.
+Ranger Trucco is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Lab11, Birmingham on Sat, 14 Nov 2026.
 
 Ranger Trucco is a house and tech house artist based in United States of America, with 108 gigs on soundcheck across Aberdeen, Amsterdam, Atlanta and Austin and 30 more. Often billed alongside Prunk, KETTAMA and Ms. Mada. Next up: Lab11, Birmingham on Sat 14 Nov.
 
@@ -31,4 +31,4 @@ Ranger Trucco is a house and tech house artist based in United States of America
 
 Prunk, KETTAMA, Ms. Mada
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rangertrucco/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rangertrucco/)*

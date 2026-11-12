@@ -1,6 +1,6 @@
 # DJLOVETHEPARTY
 
-DJLOVETHEPARTY is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at CHICO, Mexico City on Sat, 26 Dec 2026.
+DJLOVETHEPARTY is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at CHICO, Mexico City on Sat, 26 Dec 2026.
 
 DJLOVETHEPARTY is a techno and hardcore artist based in Mexico, with 13 gigs on soundcheck across Guadalajara and Mexico City. Often billed alongside Fuckboyzo, Ivxn and Lex Digital. Next up: CHICO, Mexico City on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ DJLOVETHEPARTY is a techno and hardcore artist based in Mexico, with 13 gigs on 
 
 Fuckboyzo, Ivxn, Lex Digital
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djlovetheparty/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djlovetheparty/)*

@@ -1,6 +1,6 @@
 # MXV (UK)
 
-MXV (UK) is a Deep House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at XOYO, London on Sat, 21 Nov 2026.
+MXV (UK) is a Deep House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at XOYO, London on Sat, 21 Nov 2026.
 
 MXV (UK) is a deep house and progressive house artist based in United Kingdom, with 31 gigs on soundcheck across Amsterdam, London, Madrid and Malta and 2 more. Often billed alongside Nour (UK), Tris (UK) and ALLKNIGHT. Next up: XOYO, London on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ MXV (UK) is a deep house and progressive house artist based in United Kingdom, w
 
 Nour (UK), Tris (UK), ALLKNIGHT
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mxv-uk/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mxv-uk/)*

@@ -1,6 +1,6 @@
 # Sulk Hogan (2)
 
-Sulk Hogan (2) is a Garage and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - ADD-1570 DUNDAS, Toronto on Fri, 27 Nov 2026.
+Sulk Hogan (2) is a Garage and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - ADD-1570 DUNDAS, Toronto on Fri, 27 Nov 2026.
 
 Sulk Hogan is a garage and bass artist based in Canada, with 24 gigs on soundcheck across Toronto. Often billed alongside In Depth Subject, Kara Kara and MSDELICIOUS. Next up: TBA - ADD-1570 DUNDAS, Toronto on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Sulk Hogan is a garage and bass artist based in Canada, with 24 gigs on soundche
 
 In Depth Subject, Kara Kara, MSDELICIOUS
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sulkhogan-2/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sulkhogan-2/)*

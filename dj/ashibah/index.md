@@ -1,6 +1,6 @@
 # Ashibah
 
-Ashibah is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Komplexo Tempo, Sao Paulo on Fri, 11 Dec 2026.
+Ashibah is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Komplexo Tempo, Sao Paulo on Fri, 11 Dec 2026.
 
 Ashibah is a house and tech house artist based in Egypt, with 21 gigs on soundcheck across Amsterdam, Copenhagen, Ibiza and London and 6 more. Often billed alongside Lane 8, Sultan + Shepard and Analu. Next up: Komplexo Tempo, Sao Paulo on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ Ashibah is a house and tech house artist based in Egypt, with 21 gigs on soundch
 
 Lane 8, Sultan + Shepard, Analu
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ashibah/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ashibah/)*

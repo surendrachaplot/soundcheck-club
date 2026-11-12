@@ -1,6 +1,6 @@
 # Xyro
 
-Xyro is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA, Berlin on Fri, 13 Nov 2026.
+Xyro is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA, Berlin on Fri, 13 Nov 2026.
 
 Xyro is a techno and trance artist, with 18 gigs on soundcheck across Athens, Berlin, Copenhagen and Stockholm. Often billed alongside Keeptress, Amiraku and A.dixen. Next up: TBA, Berlin on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Xyro is a techno and trance artist, with 18 gigs on soundcheck across Athens, Be
 
 Keeptress, Amiraku, A.dixen
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xyro/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xyro/)*

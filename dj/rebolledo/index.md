@@ -1,6 +1,6 @@
 # Rebolledo
 
-Rebolledo is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Say No More Madrid, Madrid on Thu, 12 Nov 2026.
+Rebolledo is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Say No More Madrid, Madrid on Thu, 12 Nov 2026.
 
 Rebolledo is a house and techno artist based in Mexico, with 85 gigs on soundcheck across Alicante, Austin, Baltimore and Barcelona and 21 more. Often billed alongside Daniel Weil, Metrika and Paulor. Next up: Say No More Madrid, Madrid on Thu 12 Nov.
 
@@ -27,4 +27,4 @@ Rebolledo is a house and techno artist based in Mexico, with 85 gigs on soundche
 
 Daniel Weil, Metrika, Paulor
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rebolledo/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rebolledo/)*

@@ -1,6 +1,6 @@
 # TAIYO (2)
 
-TAIYO (2) is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Blvck Water, Osaka on Sat, 21 Nov 2026.
+TAIYO (2) is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Blvck Water, Osaka on Sat, 21 Nov 2026.
 
 TAIYO is a techno and industrial artist based in Japan, with 20 gigs on soundcheck across Osaka and Tokyo. Often billed alongside EVE, KYLE MIKASA and RICKY. Next up: Blvck Water, Osaka on Sat 21 Nov.
 
@@ -28,4 +28,4 @@ TAIYO is a techno and industrial artist based in Japan, with 20 gigs on soundche
 
 EVE (1), KYLE MIKASA, RICKY
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taiyo-2/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taiyo-2/)*

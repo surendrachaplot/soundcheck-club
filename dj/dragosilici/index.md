@@ -1,6 +1,6 @@
 # Dragos Ilici
 
-Dragos Ilici is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at 303 Audiophile Bar, Barcelona on Fri, 11 Dec 2026.
+Dragos Ilici is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at 303 Audiophile Bar, Barcelona on Fri, 11 Dec 2026.
 
 Dragos Ilici is a house and minimal artist based in Romania, with 69 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 10 more. Often billed alongside Prichindel, Mark Dumitrescu and Dan Andrei. Next up: 303 Audiophile Bar, Barcelona on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Dragos Ilici is a house and minimal artist based in Romania, with 69 gigs on sou
 
 Prichindel, Mark Dumitrescu, Dan Andrei
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dragosilici/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dragosilici/)*

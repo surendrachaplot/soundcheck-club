@@ -1,6 +1,6 @@
 # Sweet G
 
-Sweet G is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Humboldthain Club, Berlin on Sat, 5 Dec 2026.
+Sweet G is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Humboldthain Club, Berlin on Sat, 5 Dec 2026.
 
 Sweet G is a techno and house artist based in Germany, with 17 gigs on soundcheck across Berlin. Often billed alongside Kimyøn, Kimyon and KimPalm. Next up: Humboldthain Club, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Sweet G is a techno and house artist based in Germany, with 17 gigs on soundchec
 
 Kimyøn, Kimyon, KimPalm
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sweetg/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sweetg/)*

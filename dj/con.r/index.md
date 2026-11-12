@@ -1,6 +1,6 @@
 # CON.R
 
-CON.R is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Mirage, Hanoi on Fri, 13 Nov 2026.
+CON.R is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Mirage, Hanoi on Fri, 13 Nov 2026.
 
 CON.R is a techno and house artist based in Ireland, with 36 gigs on soundcheck across Dublin and Hanoi. Often billed alongside dMb (VN), Komga and Rabih Bardawil. Next up: Mirage, Hanoi on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ CON.R is a techno and house artist based in Ireland, with 36 gigs on soundcheck 
 
 dMb (VN), Komga, Rabih Bardawil
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/con.r/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/con.r/)*

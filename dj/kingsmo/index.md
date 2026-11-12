@@ -1,6 +1,6 @@
 # Kingsmo
 
-Kingsmo is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Athens Conservatoire - Ωδείον Αθηνών, Athens on Sat, 19 Dec 2026.
+Kingsmo is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Athens Conservatoire - Ωδείον Αθηνών, Athens on Sat, 19 Dec 2026.
 
 Kingsmo is a techno and tech house artist based in France, with 20 gigs on soundcheck across Amsterdam, Athens, Barcelona and Dortmund / Essen and 4 more. Often billed alongside Naomi Baldacchino, Gouzz and JAKKAR. Next up: Athens Conservatoire - Ωδείον Αθηνών, Athens on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Kingsmo is a techno and tech house artist based in France, with 20 gigs on sound
 
 Naomi Baldacchino, Gouzz, JAKKAR
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kingsmo/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kingsmo/)*

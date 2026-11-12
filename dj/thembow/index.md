@@ -1,6 +1,6 @@
 # thembow
 
-thembow is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Honey's, New York City on Sun, 29 Nov 2026.
+thembow is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Honey's, New York City on Sun, 29 Nov 2026.
 
 thembow is a club and techno artist based in Dominican Republic, with 15 gigs on soundcheck across New York City. Often billed alongside Caín Lima, Feonix and ANNA PURA. Next up: Honey's, New York City on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ thembow is a club and techno artist based in Dominican Republic, with 15 gigs on
 
 Caín Lima, Feonix (2), ANNA PURA
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thembow/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thembow/)*

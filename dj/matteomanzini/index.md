@@ -1,6 +1,6 @@
 # Matteo Manzini
 
-Matteo Manzini is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Starlane Pizza Bar, London on Sun, 6 Dec 2026.
+Matteo Manzini is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Starlane Pizza Bar, London on Sun, 6 Dec 2026.
 
 Matteo Manzini is a techno and electro artist based in United Kingdom, with 39 gigs on soundcheck across Berlin, Bologna, Bucharest and London and 2 more. Often billed alongside Craig Richards, Harry McCanna and Bobby.. Next up: Starlane Pizza Bar, London on Sun 6 Dec.
 
@@ -26,4 +26,4 @@ Matteo Manzini is a techno and electro artist based in United Kingdom, with 39 g
 
 Craig Richards, Harry McCanna, Bobby.
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matteomanzini/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matteomanzini/)*

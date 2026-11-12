@@ -1,6 +1,6 @@
 # Dusty's Bar
 
-Dusty's Bar is a music venue in Minneapolis/St Paul with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "Interstellar Signals" on Thu, 12 Nov 2026.
+Dusty's Bar is a music venue in Minneapolis/St Paul with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "Interstellar Signals" on Thu, 12 Nov 2026.
 
 Dusty's Bar is a music venue in Minneapolis/St Paul listed on soundcheck. 1 upcoming gig, with line-ups including Dedicated Enemy. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Dusty's Bar is a music venue in Minneapolis/St Paul listed on soundcheck. 1 upco
 | --- | --- | --- |
 | Thu, 12 Nov 2026 | Interstellar Signals | Dedicated Enemy |
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/minneapolis/club/dusty-s-bar/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/minneapolis/club/dusty-s-bar/)*

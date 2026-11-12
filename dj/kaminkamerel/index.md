@@ -1,6 +1,6 @@
 # Kaminka Merel
 
-Kaminka Merel is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Der Weiße Hase, Berlin on Fri, 20 Nov 2026.
+Kaminka Merel is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Der Weiße Hase, Berlin on Fri, 20 Nov 2026.
 
 Kaminka Merel is a techno and tech house artist based in Germany, with 93 gigs on soundcheck across Berlin, Brandenburg, Dresden and Hannover. Often billed alongside Felix Reichelt, Cat Vermillion and DarK LiZZ. Next up: Der Weiße Hase, Berlin on Fri 20 Nov.
 
@@ -28,4 +28,4 @@ Kaminka Merel is a techno and tech house artist based in Germany, with 93 gigs o
 
 Felix Reichelt, Cat Vermillion, DarK LiZZ
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaminkamerel/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaminkamerel/)*

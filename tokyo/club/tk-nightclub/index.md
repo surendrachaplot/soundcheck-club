@@ -1,6 +1,6 @@
 # TK Nightclub
 
-TK Nightclub is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "DJ Smack" on Sat, 14 Nov 2026.
+TK Nightclub is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "DJ Smack" on Sat, 14 Nov 2026.
 
 TK Nightclub is a music venue in Tokyo listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TK Nightclub is a music venue in Tokyo listed on soundcheck. 1 upcoming gig. See
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | DJ Smack |  |
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/tk-nightclub/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/tk-nightclub/)*

@@ -1,13 +1,14 @@
 # Reiko
 
-Reiko is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Orla 21, Rio de Janeiro on Sat, 26 Dec 2026.
+Reiko is a Progressive House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Orla 21, Rio de Janeiro on Sat, 21 Nov 2026.
 
-Reiko is a progressive house and techno artist based in Brazil, with 21 gigs on soundcheck across Rio de Janeiro and Tokyo. Often billed alongside DESSANTI, Doguez and HELOAH. Next up: Orla 21, Rio de Janeiro on Sat 26 Dec.
+Reiko is a progressive house and techno artist based in Brazil, with 22 gigs on soundcheck across Rio de Janeiro and Tokyo. Often billed alongside DESSANTI, Doguez and HELOAH. Next up: Orla 21, Rio de Janeiro on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | Orla 21 | Rio de Janeiro |
 | Sat, 26 Dec 2026 | Orla 21 | Rio de Janeiro |
 
 ## Recently played
@@ -25,4 +26,4 @@ Reiko is a progressive house and techno artist based in Brazil, with 21 gigs on 
 
 DESSANTI, Doguez, HELOAH
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reiko/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reiko/)*

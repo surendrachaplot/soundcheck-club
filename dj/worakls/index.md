@@ -1,6 +1,6 @@
 # Worakls
 
-Worakls is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Ritter Butzke, Berlin on Fri, 20 Nov 2026.
+Worakls is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Ritter Butzke, Berlin on Fri, 20 Nov 2026.
 
 Worakls is a techno and house artist based in France, with 91 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 32 more. Often billed alongside Aalson, Carina Lawrence and Héctor Oaks. Next up: Ritter Butzke, Berlin on Fri 20 Nov.
 
@@ -30,4 +30,4 @@ Worakls is a techno and house artist based in France, with 91 gigs on soundcheck
 
 Aalson, Carina Lawrence, Héctor Oaks
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/worakls/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/worakls/)*

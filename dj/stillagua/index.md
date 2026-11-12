@@ -1,6 +1,6 @@
 # Still Agua
 
-Still Agua is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at BASEMENT, New York City on Fri, 4 Dec 2026.
+Still Agua is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at BASEMENT, New York City on Fri, 4 Dec 2026.
 
 Still Agua is a house and techno artist based in Italy, with 4 gigs on soundcheck across Berlin, New York City and Rome. Often billed alongside Hitam, AGY3NA and AMORAL. Next up: BASEMENT, New York City on Fri 4 Dec.
 
@@ -20,4 +20,4 @@ Still Agua is a house and techno artist based in Italy, with 4 gigs on soundchec
 
 Hitam, AGY3NA, AMORAL
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stillagua/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stillagua/)*

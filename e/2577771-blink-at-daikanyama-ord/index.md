@@ -1,6 +1,6 @@
 # BLINK² at Daikanyama ORD.
 
-BLINK² at Daikanyama ORD. on Tue 29 Dec, Tokyo. 4 artists: Kaori Watt, Saïra, SENNY D and tech-nas. Techno and Electro. See the line-up on soundcheck.
+BLINK² at Daikanyama ORD. on Tue 29 Dec, Tokyo. 1 artist: Kotatsu. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,9 +10,6 @@ BLINK² at Daikanyama ORD. on Tue 29 Dec, Tokyo. 4 artists: Kaori Watt, Saïra, 
 
 ## Line-up
 
-- Kaori Watt
-- Saïra
-- SENNY D
-- tech-nas
+- Kotatsu
 
 *Source: [soundcheck](https://soundcheck.club/e/2577771-blink-at-daikanyama-ord/)*

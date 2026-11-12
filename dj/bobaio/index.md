@@ -1,6 +1,6 @@
 # BOBAIO
 
-BOBAIO is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at SCHRON, Poznan on Fri, 20 Nov 2026.
+BOBAIO is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at SCHRON, Poznan on Fri, 20 Nov 2026.
 
 BOBAIO is a techno and industrial artist based in Romania, with 16 gigs on soundcheck across Bucharest, Poznan, Warsaw and Wroclaw. Often billed alongside SCHELLT, Józef Keuner and xcessive. Next up: SCHRON, Poznan on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ BOBAIO is a techno and industrial artist based in Romania, with 16 gigs on sound
 
 SCHELLT, Józef Keuner, xcessive
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bobaio/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bobaio/)*

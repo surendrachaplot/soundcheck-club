@@ -1,6 +1,6 @@
 # Laze (With Bells Records)
 
-Laze (With Bells Records) is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Grub Records, Sheffield on Fri, 13 Nov 2026.
+Laze (With Bells Records) is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Grub Records, Sheffield on Fri, 13 Nov 2026.
 
 Laze (With Bells Records) is a techno and drum & bass artist, with 8 gigs on soundcheck across Sheffield. Often billed alongside Laze, Aaron Dynamic and EVABEE. Next up: Grub Records, Sheffield on Fri 13 Nov.
 
@@ -24,4 +24,4 @@ Laze (With Bells Records) is a techno and drum & bass artist, with 8 gigs on sou
 
 Laze, Aaron Dynamic, EVABEE
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laze-2/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laze-2/)*

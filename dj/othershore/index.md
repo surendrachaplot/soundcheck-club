@@ -1,6 +1,6 @@
 # Other Shore
 
-Other Shore is a electronic artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Pawnshop, Taipei on Thu, 31 Dec 2026.
+Other Shore is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Pawnshop, Taipei on Thu, 31 Dec 2026.
 
 Other Shore is an electronic artist, with 10 gigs on soundcheck across Taipei. Often billed alongside Umbra, miranda ku and Andy Chiu. Next up: Pawnshop, Taipei on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Other Shore is an electronic artist, with 10 gigs on soundcheck across Taipei. O
 
 Umbra (2), miranda ku, Andy Chiu
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/othershore/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/othershore/)*

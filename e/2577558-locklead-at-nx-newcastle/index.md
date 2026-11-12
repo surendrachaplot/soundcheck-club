@@ -1,6 +1,6 @@
 # Locklead at NX Newcastle
 
-Locklead at NX Newcastle on Fri 11 Dec, Newcastle. 1 artist: Locklead. House. See the line-up on soundcheck.
+Locklead at NX Newcastle on Fri 11 Dec, Newcastle. 3 artists: Locklead, Marlie and PARAMIDA. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,7 @@ Locklead at NX Newcastle on Fri 11 Dec, Newcastle. 1 artist: Locklead. House. Se
 ## Line-up
 
 - Locklead
+- Marlie
+- PARAMIDA
 
 *Source: [soundcheck](https://soundcheck.club/e/2577558-locklead-at-nx-newcastle/)*

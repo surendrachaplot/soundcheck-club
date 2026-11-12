@@ -1,6 +1,6 @@
 # Hoffmann
 
-Hoffmann is a Tech House and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Dojo Boutique Club, Budapest on Fri, 27 Nov 2026.
+Hoffmann is a Tech House and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Dojo Boutique Club, Budapest on Fri, 27 Nov 2026.
 
 Hoffmann is a tech house and afro house artist, with 11 gigs on soundcheck across Budapest and Rome. Often billed alongside Budai House Clique, Alignment and Anonym. Next up: Dojo Boutique Club, Budapest on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Hoffmann is a tech house and afro house artist, with 11 gigs on soundcheck acros
 
 Budai House Clique, Alignment, Anonym
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hoffmann/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hoffmann/)*

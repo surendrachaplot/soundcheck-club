@@ -1,14 +1,13 @@
 # M.O.T
 
-M.O.T is a music venue in London with 37 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "MADDISON WINDFARM / WEHMUT + more" on Wed, 11 Nov 2026.
+M.O.T is a music venue in London with 36 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Take a Touch presents: Jersey meets Baltimore" on Thu, 12 Nov 2026.
 
-M.O.T is a music venue in London listed on soundcheck. 37 upcoming gigs, with line-ups including A.N.T, abs8lute, Aldonna and Amanda Mussi and 2 more. See dates, start times and who's playing. Orion Business Centre, Surrey Canal Rd SE14 5RT.
+M.O.T is a music venue in London listed on soundcheck. 36 upcoming gigs, with line-ups including A.N.T, abs8lute, Aldonna and Amanda Mussi and 2 more. See dates, start times and who's playing. Orion Business Centre, Surrey Canal Rd SE14 5RT.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 11 Nov 2026 | MADDISON WINDFARM / WEHMUT + more |  |
 | Thu, 12 Nov 2026 | Take a Touch presents: Jersey meets Baltimore | CalvoMusic, Designed By, Excelsior, Tah (1), secret luvvr |
 | Thu, 12 Nov 2026 | Pulse Radio X UMS |  |
 | Fri, 13 Nov 2026 | Leztopia x sub:terra: Aldonna, Daisy Moon, Lulah Francs, Madelic, Elianne | Aldonna, Daisy Moon, Elianne, Lulah Francs, Madelic |
@@ -18,9 +17,10 @@ M.O.T is a music venue in London listed on soundcheck. 37 upcoming gigs, with li
 | Thu, 19 Nov 2026 | Factory Setting - live modular synth, techno and experimental - AM sin - bbecks + more | AM sin, Kinga Janicka, Simon Mós, bbecks |
 | Thu, 19 Nov 2026 | strange-domain presents: Dawn | ARKNGL, CESKA |
 | Fri, 20 Nov 2026 | Pressure | Basic Rhythm, J:Kenzo, MC Fearless, Sully, Taxman |
+| Fri, 20 Nov 2026 | WOLF x OONTS presents Frits Wentink | Frits Wentink, Kojay, P-Lucas, Wolf Music |
 
 ## Address
 
 Orion Business Centre, Surrey Canal Rd SE14 5RT, London
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/m-o-t/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/m-o-t/)*

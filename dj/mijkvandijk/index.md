@@ -1,6 +1,6 @@
 # Mijk van Dijk
 
-Mijk van Dijk is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 17 Dec 2026.
+Mijk van Dijk is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 17 Dec 2026.
 
 Mijk van Dijk is a techno and tech house artist based in Germany, with 53 gigs on soundcheck across Amsterdam, Berlin, Brandenburg and Bristol and 6 more. Often billed alongside Nat SuPrise, Felix Reichelt and Christian Grade. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 17 Dec.
 
@@ -27,4 +27,4 @@ Mijk van Dijk is a techno and tech house artist based in Germany, with 53 gigs o
 
 Nat SuPrise, Felix Reichelt, Christian Grade
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mijkvandijk/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mijkvandijk/)*

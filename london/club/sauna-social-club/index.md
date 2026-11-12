@@ -1,6 +1,6 @@
 # Sauna Social Club
 
-Sauna Social Club is a music venue in London with 6 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Ambient Sauna • Bodily with FYI Robyn & Pasta Kebab" on Fri, 13 Nov 2026.
+Sauna Social Club is a music venue in London with 6 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Ambient Sauna • Bodily with FYI Robyn & Pasta Kebab" on Fri, 13 Nov 2026.
 
 Sauna Social Club is a music venue in London listed on soundcheck. 6 upcoming gigs, with line-ups including Adam Pits, FYI Robyn, HOLY C and Jhumka and 2 more. See dates, start times and who's playing. Railway Arch 842 Brayards Road, Peckham, SE15 2AG.
 
@@ -19,4 +19,4 @@ Sauna Social Club is a music venue in London listed on soundcheck. 6 upcoming gi
 
 Railway Arch 842 Brayards Road, Peckham, SE15 2AG, London
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/sauna-social-club/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/sauna-social-club/)*

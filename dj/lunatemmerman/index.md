@@ -1,6 +1,6 @@
 # Luna Temmerman
 
-Luna Temmerman is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Fuse, Brussels on Sat, 5 Dec 2026.
+Luna Temmerman is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Fuse, Brussels on Sat, 5 Dec 2026.
 
 Luna Temmerman is a techno and minimal techno artist based in Belgium, with 13 gigs on soundcheck across Antwerp, Brussels and Ghent. Often billed alongside LRDB, Man Outta Space and Sira. Next up: Fuse, Brussels on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Luna Temmerman is a techno and minimal techno artist based in Belgium, with 13 g
 
 LRDB, Man Outta Space, Sira
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lunatemmerman/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lunatemmerman/)*

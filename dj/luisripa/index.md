@@ -1,8 +1,8 @@
 # Luis Ripa
 
-Luis Ripa is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Renate, Berlin on Sat, 12 Dec 2026.
+Luis Ripa is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Renate, Berlin on Sat, 12 Dec 2026.
 
-Luis Ripa is a house and techno artist based in Netherlands, with 21 gigs on soundcheck across Amsterdam, Berlin, Leeds and The Hague. Often billed alongside Mees Mattern, Khun and Dan Dusty. Next up: Renate, Berlin on Sat 12 Dec.
+Luis Ripa is a house and techno artist based in Netherlands, with 22 gigs on soundcheck across Amsterdam, Berlin, Hamburg and Leeds and 1 more. Often billed alongside Mees Mattern, Khun and Dan Dusty. Next up: Renate, Berlin on Sat 12 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Luis Ripa is a house and techno artist based in Netherlands, with 21 gigs on sou
 | --- | --- | --- |
 | Sat, 12 Dec 2026 | Renate | Berlin |
 | Sat, 19 Dec 2026 | Inter-City | The Hague |
+| Thu, 31 Dec 2026 | Mojo | Hamburg |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Luis Ripa is a house and techno artist based in Netherlands, with 21 gigs on sou
 
 Mees Mattern, Khun, Dan Dusty
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luisripa/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luisripa/)*

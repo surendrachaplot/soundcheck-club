@@ -1,6 +1,6 @@
 # Mike Gannu
 
-Mike Gannu is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at KOKO, London on Fri, 27 Nov 2026.
+Mike Gannu is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at KOKO, London on Fri, 27 Nov 2026.
 
 Mike Gannu is a techno and house artist based in Spain, with 40 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 12 more. Often billed alongside Edu Imbernon, Oriol Calvo and Claudius (DE). Next up: KOKO, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Mike Gannu is a techno and house artist based in Spain, with 40 gigs on soundche
 
 Edu Imbernon, Oriol Calvo, Claudius (DE)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikegannu/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikegannu/)*

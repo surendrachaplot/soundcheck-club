@@ -1,6 +1,6 @@
 # Montella G
 
-Montella G is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Back Room, Bali on Fri, 13 Nov 2026.
+Montella G is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Back Room, Bali on Fri, 13 Nov 2026.
 
 Montella G is an electro and house artist based in Indonesia, with 13 gigs on soundcheck across Bali and Kuala Lumpur. Often billed alongside Adam Dado, Lijero and .Kenzo. Next up: The Back Room, Bali on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Montella G is an electro and house artist based in Indonesia, with 13 gigs on so
 
 Adam Dado, Lijero, .Kenzo
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/montellag/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/montellag/)*

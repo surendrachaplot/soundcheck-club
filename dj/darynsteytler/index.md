@@ -1,6 +1,6 @@
 # Daryn Steytler
 
-Daryn Steytler is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at And Club, Johannesburg on Fri, 27 Nov 2026.
+Daryn Steytler is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at And Club, Johannesburg on Fri, 27 Nov 2026.
 
 Daryn Steytler is a techno and house artist based in South Africa, with 8 gigs on soundcheck across Cape Town and Johannesburg. Often billed alongside Kyle Russouw, Lady M and Miles From Mars. Next up: And Club, Johannesburg on Fri 27 Nov.
 
@@ -24,4 +24,4 @@ Daryn Steytler is a techno and house artist based in South Africa, with 8 gigs o
 
 Kyle Russouw, Lady M, Miles From Mars
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/darynsteytler/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/darynsteytler/)*

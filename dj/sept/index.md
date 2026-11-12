@@ -1,6 +1,6 @@
 # Sept
 
-Sept is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at KHIDI, Tbilisi on Fri, 13 Nov 2026.
+Sept is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at KHIDI, Tbilisi on Fri, 13 Nov 2026.
 
 Sept is a techno and house artist based in Poland, with 136 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 33 more. Often billed alongside Danté, DLV and Lucinee. Next up: KHIDI, Tbilisi on Fri 13 Nov.
 
@@ -30,4 +30,4 @@ Sept is a techno and house artist based in Poland, with 136 gigs on soundcheck a
 
 Danté, DLV, Lucinee
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sept/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sept/)*

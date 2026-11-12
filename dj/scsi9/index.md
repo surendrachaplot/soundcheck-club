@@ -1,6 +1,6 @@
 # SCSI-9
 
-SCSI-9 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Secret Location, Bali on Sat, 20 Mar 2027.
+SCSI-9 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Secret Location, Bali on Sat, 20 Mar 2027.
 
 SCSI-9 is a techno and house artist, with 11 gigs on soundcheck across Bali, Beijing, Chengdu and Shanghai and 2 more. Often billed alongside Come to mama, Scott Noise and Aline (CH). Next up: TBA - Secret Location, Bali on Sat 20 Mar.
 
@@ -25,4 +25,4 @@ SCSI-9 is a techno and house artist, with 11 gigs on soundcheck across Bali, Bei
 
 Come to mama, Scott Noise, Aline (CH)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scsi9/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scsi9/)*

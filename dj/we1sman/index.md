@@ -1,6 +1,6 @@
 # we1sman
 
-we1sman is a Techno and Club artist with 6 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Paramita Sound, Detroit on Fri, 13 Nov 2026.
+we1sman is a Techno and Club artist with 6 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Paramita Sound, Detroit on Fri, 13 Nov 2026.
 
 we1sman is a techno and club artist based in United States of America, with 156 gigs on soundcheck across Amsterdam, Denver, Detroit and New York City. Often billed alongside Wax Assassin, jamea. and LATEX GIRL. Next up: Paramita Sound, Detroit on Fri 13 Nov.
 
@@ -30,4 +30,4 @@ we1sman is a techno and club artist based in United States of America, with 156 
 
 Wax Assassin, jamea., LATEX GIRL
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/we1sman/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/we1sman/)*

@@ -1,6 +1,6 @@
 # LISTORIO
 
-LISTORIO is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA, Berlin on Fri, 13 Nov 2026.
+LISTORIO is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA, Berlin on Fri, 13 Nov 2026.
 
 LISTORIO is a techno and trance artist based in Germany, with 25 gigs on soundcheck across Berlin, Chengdu, Cologne and Hamburg and 3 more. Often billed alongside Katy Rough, Blame the Booker and IGDA. Next up: TBA, Berlin on Fri 13 Nov.
 
@@ -28,4 +28,4 @@ LISTORIO is a techno and trance artist based in Germany, with 25 gigs on soundch
 
 Katy Rough, Blame the Booker, IGDA
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/listorio/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/listorio/)*

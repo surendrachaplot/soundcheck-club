@@ -1,6 +1,6 @@
 # Klosing
 
-Klosing is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Final, Taipei on Fri, 27 Nov 2026.
+Klosing is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Final, Taipei on Fri, 27 Nov 2026.
 
 Klosing is a house and minimal artist based in Taiwan, with 56 gigs on soundcheck across Bangkok, Beijing, Berlin and Hong Kong and 6 more. Often billed alongside Koliseum, Azrael and Sub (TW). Next up: Final, Taipei on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Klosing is a house and minimal artist based in Taiwan, with 56 gigs on soundchec
 
 Koliseum, Azrael, Sub (TW)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/klosing/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/klosing/)*

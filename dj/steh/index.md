@@ -1,14 +1,15 @@
 # Stëh
 
-Stëh is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Pavilhão Carlos Lopes, Lisbon on Sat, 21 Nov 2026.
+Stëh is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Pavilhão Carlos Lopes, Lisbon on Sat, 21 Nov 2026.
 
-Stëh is a techno and hardcore artist based in Brazil, with 89 gigs on soundcheck across Barcelona, Basel, Berlin and Bern and 12 more. Often billed alongside Madson Carpenter, Ornella and Taxsh. Next up: Pavilhão Carlos Lopes, Lisbon on Sat 21 Nov.
+Stëh is a techno and hardcore artist based in Brazil, with 90 gigs on soundcheck across Barcelona, Basel, Berlin and Bern and 12 more. Often billed alongside Madson Carpenter, Ornella and Taxsh. Next up: Pavilhão Carlos Lopes, Lisbon on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Pavilhão Carlos Lopes | Lisbon |
+| Tue, 1 Dec 2026 | 8 Marvila | Lisbon |
 | Fri, 29 Jan 2027 | Lokschuppen Berlin | Berlin |
 
 ## Recently played
@@ -26,4 +27,4 @@ Stëh is a techno and hardcore artist based in Brazil, with 89 gigs on soundchec
 
 Madson Carpenter, Ornella, Taxsh
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/steh/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/steh/)*

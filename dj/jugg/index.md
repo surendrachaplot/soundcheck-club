@@ -1,6 +1,6 @@
 # JUGG
 
-JUGG is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Nulab Chengdu, Chengdu on Sat, 28 Nov 2026.
+JUGG is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Nulab Chengdu, Chengdu on Sat, 28 Nov 2026.
 
 JUGG is a bass and techno artist based in China, with 38 gigs on soundcheck across Chengdu. Often billed alongside G0vernmentsLie, Heling and Zarah. Next up: Nulab Chengdu, Chengdu on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ JUGG is a bass and techno artist based in China, with 38 gigs on soundcheck acro
 
 G0vernmentsLie, Heling, Zarah
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jugg/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jugg/)*

@@ -1,6 +1,6 @@
 # Bumho
 
-Bumho is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Volnost, Seoul on Fri, 20 Nov 2026.
+Bumho is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Volnost, Seoul on Fri, 20 Nov 2026.
 
 Bumho is a techno and ebm artist based in South Korea, with 25 gigs on soundcheck across Seoul. Often billed alongside SIJIN, Ininin and Zeemen. Next up: Volnost, Seoul on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Bumho is a techno and ebm artist based in South Korea, with 25 gigs on soundchec
 
 SIJIN, Ininin, Zeemen
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bumho/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bumho/)*

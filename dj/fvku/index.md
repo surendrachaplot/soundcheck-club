@@ -1,6 +1,6 @@
 # fvku
 
-fvku is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Débris, Tokyo on Fri, 11 Dec 2026.
+fvku is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Débris, Tokyo on Fri, 11 Dec 2026.
 
 fvku is a techno and garage artist based in Japan, with 18 gigs on soundcheck across Tokyo. Often billed alongside Pokaska, Meri and Ogasawara. Next up: Débris, Tokyo on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ fvku is a techno and garage artist based in Japan, with 18 gigs on soundcheck ac
 
 Pokaska, Meri, Ogasawara
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fvku/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fvku/)*

@@ -1,8 +1,8 @@
 # Dj.Malefica
 
-Dj.Malefica is a Post-Punk and EBM artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Electrowerkz, London on Fri, 27 Nov 2026.
+Dj.Malefica is a Post-Punk and EBM artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Electrowerkz, London on Fri, 27 Nov 2026.
 
-Dj.Malefica is a post-punk and ebm artist based in United Kingdom, with 17 gigs on soundcheck across London. Often billed alongside Ricardo Castro, Steve Weeks and Soylent Black. Next up: Electrowerkz, London on Fri 27 Nov.
+Dj.Malefica is a post-punk and ebm artist based in United Kingdom, with 17 gigs on soundcheck across London. Often billed alongside Ricardo Castro, Steve Weeks and Claudia Kane. Next up: Electrowerkz, London on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Dj.Malefica is a post-punk and ebm artist based in United Kingdom, with 17 gigs 
 
 ## Shares bills with
 
-Ricardo Castro, Steve Weeks, Soylent Black
+Ricardo Castro, Steve Weeks, Claudia Kane
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dj.malefica/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dj.malefica/)*

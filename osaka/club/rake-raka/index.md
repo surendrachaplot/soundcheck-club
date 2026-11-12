@@ -1,6 +1,6 @@
 # rake?raka?
 
-rake?raka? is a music venue in Osaka with 8 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Dimension" on Fri, 13 Nov 2026.
+rake?raka? is a music venue in Osaka with 8 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Dimension" on Fri, 13 Nov 2026.
 
 rake?raka? is a music venue in Osaka listed on soundcheck. 8 upcoming gigs, with line-ups including ALTF4, DJ Shu-ma, fb5 and GAKUTO(TOKYO) and 2 more. See dates, start times and who's playing. 6-2-8 Soemoncho, Chuo-ku, Osaka-shi, Osaka, 542-0084 Japan.
 
@@ -21,4 +21,4 @@ rake?raka? is a music venue in Osaka listed on soundcheck. 8 upcoming gigs, with
 
 6-2-8 Soemoncho, Chuo-ku, Osaka-shi, Osaka, 542-0084 Japan, Osaka
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/rake-raka/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/rake-raka/)*

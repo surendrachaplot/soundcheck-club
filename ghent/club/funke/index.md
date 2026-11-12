@@ -1,6 +1,6 @@
 # Funke
 
-Funke is a music venue in Ghent with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "MUZI cartel invites Demuja" on Fri, 13 Nov 2026.
+Funke is a music venue in Ghent with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "MUZI cartel invites Demuja" on Fri, 13 Nov 2026.
 
 Funke is a music venue in Ghent listed on soundcheck. 4 upcoming gigs, with line-ups including Demuja, dreamcastmoe, Lebawski and Lefto Early Bird and 2 more. See dates, start times and who's playing. Bij Sint-Jacobs 13, 9000 Gent.
 
@@ -17,4 +17,4 @@ Funke is a music venue in Ghent listed on soundcheck. 4 upcoming gigs, with line
 
 Bij Sint-Jacobs 13, 9000 Gent, Ghent
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/funke/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/funke/)*

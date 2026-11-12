@@ -1,6 +1,6 @@
 # Dx
 
-Dx is a music venue in Boston with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Delmarva Power Pay My Bill Online - Fast & Secure Payment Options" on Sat, 14 Nov 2026.
+Dx is a music venue in Boston with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Delmarva Power Pay My Bill Online - Fast & Secure Payment Options" on Sat, 14 Nov 2026.
 
 Dx is a music venue in Boston listed on soundcheck. 2 upcoming gigs, with line-ups including Niqi and Rødhåd. See dates, start times and who's playing. 33 Dunster St, Cambridge, MA 02138.
 
@@ -15,4 +15,4 @@ Dx is a music venue in Boston listed on soundcheck. 2 upcoming gigs, with line-u
 
 33 Dunster St, Cambridge, MA 02138, Boston
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/boston/club/dx/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/boston/club/dx/)*

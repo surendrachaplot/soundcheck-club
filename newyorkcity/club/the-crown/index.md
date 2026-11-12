@@ -1,6 +1,6 @@
 # The Crown
 
-The Crown is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Nervous Heights: Nervous Records X The Crown" on Sat, 14 Nov 2026.
+The Crown is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Nervous Heights: Nervous Records X The Crown" on Sat, 14 Nov 2026.
 
 The Crown is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including Agent 137, Brooklyn Mike, Dave Shichman and Mike Nervous. See dates, start times and who's playing. 50 Bowery Street, Rooftop, New York, NY 10013, United States.
 
@@ -15,4 +15,4 @@ The Crown is a music venue in New York City listed on soundcheck. 2 upcoming gig
 
 50 Bowery Street, Rooftop, New York, NY 10013, United States, New York City
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-crown/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-crown/)*

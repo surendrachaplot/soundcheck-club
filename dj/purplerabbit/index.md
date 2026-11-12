@@ -1,6 +1,6 @@
 # Purple Rabbit
 
-Purple Rabbit is a Trance and Progressive House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Ximxim Bar, Seoul on Fri, 13 Nov 2026.
+Purple Rabbit is a Trance and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Ximxim Bar, Seoul on Fri, 13 Nov 2026.
 
 Purple Rabbit is a trance and progressive house artist based in South Korea, with 18 gigs on soundcheck across Seoul. Often billed alongside Casepeat, Kago Pengchi and Kataploks. Next up: Ximxim Bar, Seoul on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Purple Rabbit is a trance and progressive house artist based in South Korea, wit
 
 Casepeat, Kago Pengchi, Kataploks
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/purplerabbit/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/purplerabbit/)*

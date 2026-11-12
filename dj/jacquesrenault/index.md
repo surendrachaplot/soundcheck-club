@@ -1,6 +1,6 @@
 # Jacques Renault
 
-Jacques Renault is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Fortim CE, Brazil on Sat, 26 Dec 2026.
+Jacques Renault is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Fortim CE, Brazil on Sat, 26 Dec 2026.
 
 Jacques Renault is a disco and house artist based in United States of America, with 8 gigs on soundcheck across Brazil and New York City. Often billed alongside JKriv, Justin Miller and Kuniyuki. Next up: TBA - Fortim CE, Brazil on Sat 26 Dec.
 
@@ -24,4 +24,4 @@ Jacques Renault is a disco and house artist based in United States of America, w
 
 JKriv, Justin Miller, Kuniyuki
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jacquesrenault/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jacquesrenault/)*

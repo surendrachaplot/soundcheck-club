@@ -1,6 +1,6 @@
 # FRÆNZ:
 
-FRÆNZ: is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at OXI, Berlin on Fri, 18 Dec 2026.
+FRÆNZ: is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at OXI, Berlin on Fri, 18 Dec 2026.
 
 FRÆNZ: is a techno and house artist based in Germany, with 64 gigs on soundcheck across Berlin, Hamburg, Hannover and Leipzig and 4 more. Often billed alongside limbic sis, DJ Eivissa and 0megavybe. Next up: OXI, Berlin on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ FRÆNZ: is a techno and house artist based in Germany, with 64 gigs on soundchec
 
 limbic sis, DJ Eivissa, 0megavybe
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frænz/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frænz/)*

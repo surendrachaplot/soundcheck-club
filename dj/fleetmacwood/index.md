@@ -1,6 +1,6 @@
 # Fleetmac Wood
 
-Fleetmac Wood is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Holocene, Portland on Sun, 15 Nov 2026.
+Fleetmac Wood is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Holocene, Portland on Sun, 15 Nov 2026.
 
 Fleetmac Wood is a disco and house artist based in United Kingdom, with 107 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Auckland and 40 more. Often billed alongside Roxanne Roll, Alex Oxley and Basement Jaxx. Next up: Holocene, Portland on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Fleetmac Wood is a disco and house artist based in United Kingdom, with 107 gigs
 
 Roxanne Roll, Alex Oxley, Basement Jaxx
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fleetmacwood/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fleetmacwood/)*

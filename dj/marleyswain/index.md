@@ -1,6 +1,6 @@
 # Marley Swain
 
-Marley Swain is a Electronica and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Northcote Theatre, Melbourne on Sat, 14 Nov 2026.
+Marley Swain is a Electronica and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Northcote Theatre, Melbourne on Sat, 14 Nov 2026.
 
 Marley Swain is an electronica and house artist based in Australia, with 22 gigs on soundcheck across Melbourne, New South Wales and Victoria. Often billed alongside Pjenné, Emelyne and Kia (AU). Next up: Northcote Theatre, Melbourne on Sat 14 Nov.
 
@@ -28,4 +28,4 @@ Marley Swain is an electronica and house artist based in Australia, with 22 gigs
 
 Pjenné, Emelyne, Kia (AU)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marleyswain/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marleyswain/)*

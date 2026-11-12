@@ -1,6 +1,6 @@
 # MIKE MYSTIK
 
-MIKE MYSTIK is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Loft, Vienna on Fri, 20 Nov 2026.
+MIKE MYSTIK is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Loft, Vienna on Fri, 20 Nov 2026.
 
 MIKE MYSTIK is a techno and house artist based in Austria, with 12 gigs on soundcheck across Vienna. Often billed alongside Mücke, RaW and Techflex. Next up: The Loft, Vienna on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ MIKE MYSTIK is a techno and house artist based in Austria, with 12 gigs on sound
 
 Mücke, RaW, Techflex
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikemystik/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikemystik/)*

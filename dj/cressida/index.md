@@ -1,6 +1,6 @@
 # Cressida
 
-Cressida is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Tresor / Globus, Berlin on Sat, 5 Dec 2026.
+Cressida is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Tresor / Globus, Berlin on Sat, 5 Dec 2026.
 
 Cressida is a techno and bass artist based in United Kingdom, with 24 gigs on soundcheck across Belgrade, Berlin, Krakow and Zurich. Often billed alongside Kerrie, ROPE and Acidfinky. Next up: Tresor / Globus, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Cressida is a techno and bass artist based in United Kingdom, with 24 gigs on so
 
 Kerrie, ROPE, Acidfinky
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cressida/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cressida/)*

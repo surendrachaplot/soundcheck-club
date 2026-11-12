@@ -1,6 +1,6 @@
 # S!RENE
 
-S!RENE is a Hip-Hop and Amapiano artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Coco Boule, Berlin on Sat, 14 Nov 2026.
+S!RENE is a Hip-Hop and Amapiano artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Coco Boule, Berlin on Sat, 14 Nov 2026.
 
 S!RENE is a hip-hop and amapiano artist based in Netherlands, with 68 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 25 more. Often billed alongside Cezaire, Helina and Eileen (NL). Next up: Coco Boule, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ S!RENE is a hip-hop and amapiano artist based in Netherlands, with 68 gigs on so
 
 Cezaire, Helina, Eileen (NL)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/s!rene/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/s!rene/)*

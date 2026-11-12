@@ -1,6 +1,6 @@
 # Textilgyár
 
-Textilgyár is a music venue in Budapest with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Tripnik - High Five" on Sat, 14 Nov 2026.
+Textilgyár is a music venue in Budapest with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Tripnik - High Five" on Sat, 14 Nov 2026.
 
 Textilgyár is a music venue in Budapest listed on soundcheck. 3 upcoming gigs, with line-ups including Artic Yoyo, Attic Ears, kD (HU) and Solus. See dates, start times and who's playing. Budapest, Fényes Adolf u. 23, 1036.
 
@@ -16,4 +16,4 @@ Textilgyár is a music venue in Budapest listed on soundcheck. 3 upcoming gigs, 
 
 Budapest, Fényes Adolf u. 23, 1036, Budapest
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/textilgy-r/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/textilgy-r/)*

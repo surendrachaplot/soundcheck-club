@@ -1,6 +1,6 @@
 # Ijland
 
-Ijland is a music venue in Amsterdam with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Back By Dope Demand" on Sun, 22 Nov 2026.
+Ijland is a music venue in Amsterdam with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Back By Dope Demand" on Sun, 22 Nov 2026.
 
 Ijland is a music venue in Amsterdam listed on soundcheck. 4 upcoming gigs, with line-ups including Rich, Rose Ringed, Sasha and Wilfred. See dates, start times and who's playing. Tt. Vasumweg 171, 1033 SG Amsterdam.
 
@@ -17,4 +17,4 @@ Ijland is a music venue in Amsterdam listed on soundcheck. 4 upcoming gigs, with
 
 Tt. Vasumweg 171, 1033 SG Amsterdam, Amsterdam
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ijland/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ijland/)*

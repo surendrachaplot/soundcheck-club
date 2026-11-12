@@ -1,6 +1,6 @@
 # Tamarindo
 
-Tamarindo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 12 Nov 2026.
+Tamarindo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 12 Nov 2026.
 
 Tamarindo is a house and techno artist based in Spain, with 57 gigs on soundcheck across Barcelona, Berlin, Madrid and Valencia. Often billed alongside AINES, Acidnena and ONA (SP). Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Tamarindo is a house and techno artist based in Spain, with 57 gigs on soundchec
 
 AINES, Acidnena, ONA (SP)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tamarindo/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tamarindo/)*

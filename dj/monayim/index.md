@@ -1,6 +1,6 @@
 # Mona Yim
 
-Mona Yim is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Stage and Radio, Manchester on Thu, 12 Nov 2026.
+Mona Yim is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Stage and Radio, Manchester on Thu, 12 Nov 2026.
 
 Mona Yim is a house and tech house artist based in United Kingdom, with 28 gigs on soundcheck across Amsterdam, Berlin, Cologne and Hamburg and 9 more. Often billed alongside DJ Seinfeld, Erol Alkan and Hunee. Next up: Stage and Radio, Manchester on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Mona Yim is a house and tech house artist based in United Kingdom, with 28 gigs 
 
 DJ Seinfeld, Erol Alkan, Hunee
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/monayim/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/monayim/)*

@@ -1,6 +1,6 @@
 # Hex House
 
-Hex House is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "HARDWIRED" on Sat, 14 Nov 2026.
+Hex House is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "HARDWIRED" on Sat, 14 Nov 2026.
 
 Hex House is a music venue in New York City listed on soundcheck. 1 upcoming gig, with line-ups including Kelly Tsai and Waterscape. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Hex House is a music venue in New York City listed on soundcheck. 1 upcoming gig
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | HARDWIRED | Kelly Tsai, Waterscape |
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/hex-house/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/hex-house/)*

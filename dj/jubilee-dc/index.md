@@ -1,6 +1,6 @@
 # Jubilee (DC)
 
-Jubilee (DC) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Circus Tokyo, Tokyo on Sat, 14 Nov 2026.
+Jubilee (DC) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Circus Tokyo, Tokyo on Sat, 14 Nov 2026.
 
 Jubilee (DC) is a house and techno artist based in United States of America, with 21 gigs on soundcheck across Bali, Barcelona, Boston and Lisbon and 5 more. Often billed alongside MoEPiKA, 9D3 and ANNA. Next up: Circus Tokyo, Tokyo on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Jubilee (DC) is a house and techno artist based in United States of America, wit
 
 MoEPiKA, 9D3, ANNA
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jubilee-dc/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jubilee-dc/)*

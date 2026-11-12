@@ -1,6 +1,6 @@
 # JKriv
 
-JKriv is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at MAD Radio NYC, New York City on Fri, 13 Nov 2026.
+JKriv is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at MAD Radio NYC, New York City on Fri, 13 Nov 2026.
 
 JKriv is a house and disco artist based in United States of America, with 136 gigs on soundcheck across Atlanta, Auckland, Barcelona and Brazil and 27 more. Often billed alongside Aaron Dae, Disgonuts and Jason Lindner. Next up: MAD Radio NYC, New York City on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ JKriv is a house and disco artist based in United States of America, with 136 gi
 
 Aaron Dae, Disgonuts, Jason Lindner
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jkriv/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jkriv/)*

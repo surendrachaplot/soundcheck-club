@@ -1,6 +1,6 @@
 # Process PDX
 
-Process PDX is a music venue in Portland with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Peace Portal 10 Year Anniversary" on Fri, 13 Nov 2026.
+Process PDX is a music venue in Portland with 7 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Peace Portal 10 Year Anniversary" on Fri, 13 Nov 2026.
 
 Process PDX is a music venue in Portland listed on soundcheck. 7 upcoming gigs, with line-ups including Amtrac, Danny Goliger, DJ Eft and enereph and 2 more. See dates, start times and who's playing. 5040 SE Milwaukie Ave. Portland, OR, 97202.
 
@@ -20,4 +20,4 @@ Process PDX is a music venue in Portland listed on soundcheck. 7 upcoming gigs, 
 
 5040 SE Milwaukie Ave. Portland, OR, 97202, Portland
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/portland/club/process-pdx/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/portland/club/process-pdx/)*

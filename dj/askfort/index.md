@@ -1,6 +1,6 @@
 # Askfor T
 
-Askfor T is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - 1801 POWELL, Vancouver on Sat, 14 Nov 2026.
+Askfor T is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - 1801 POWELL, Vancouver on Sat, 14 Nov 2026.
 
 Askfor T is a tech house and house artist based in Canada, with 8 gigs on soundcheck across Vancouver. Often billed alongside Marist, Perspectiv and Derrick Vnuk. Next up: TBA - 1801 POWELL, Vancouver on Sat 14 Nov.
 
@@ -24,4 +24,4 @@ Askfor T is a tech house and house artist based in Canada, with 8 gigs on soundc
 
 Marist, Perspectiv, Derrick Vnuk
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/askfort/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/askfort/)*

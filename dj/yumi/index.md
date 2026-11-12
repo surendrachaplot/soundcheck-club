@@ -1,6 +1,6 @@
 # Yumi
 
-Yumi is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at 宀 Club, Hong Kong on Sat, 28 Nov 2026.
+Yumi is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at 宀 Club, Hong Kong on Sat, 28 Nov 2026.
 
 Yumi is a techno and house artist based in United States of America, with 95 gigs on soundcheck across Amsterdam, Berlin, Detroit and Ghent and 14 more. Often billed alongside Amelia Holt, deep creep and Hank Jackson. Next up: 宀 Club, Hong Kong on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Yumi is a techno and house artist based in United States of America, with 95 gig
 
 Amelia Holt, deep creep, Hank Jackson
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yumi/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yumi/)*

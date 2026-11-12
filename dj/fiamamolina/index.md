@@ -1,6 +1,6 @@
 # Fiama Molina
 
-Fiama Molina is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Secret Location, Madrid on Fri, 20 Nov 2026.
+Fiama Molina is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Secret Location, Madrid on Fri, 20 Nov 2026.
 
 Fiama Molina is a techno and acid artist based in Argentina, with 25 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 1 more. Often billed alongside Fiama, Josefina Muñoz and Faustø. Next up: TBA - Secret Location, Madrid on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Fiama Molina is a techno and acid artist based in Argentina, with 25 gigs on sou
 
 Fiama, Josefina Muñoz, Faustø
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fiamamolina/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fiamamolina/)*

@@ -1,6 +1,6 @@
 # Gorgon City
 
-Gorgon City is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Alexandra Palace, London on Sat, 28 Nov 2026.
+Gorgon City is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Alexandra Palace, London on Sat, 28 Nov 2026.
 
 Gorgon City is a house and tech house artist based in United Kingdom, with 163 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 41 more. Often billed alongside Danny Howard, Azzecca and Sonny Fodera. Next up: Alexandra Palace, London on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Gorgon City is a house and tech house artist based in United Kingdom, with 163 g
 
 Danny Howard, Azzecca, Sonny Fodera
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gorgoncity/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gorgoncity/)*

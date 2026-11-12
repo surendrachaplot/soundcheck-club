@@ -1,6 +1,6 @@
 # Dangerous Rose
 
-Dangerous Rose is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Public Works, San Francisco/Oakland on Thu, 31 Dec 2026.
+Dangerous Rose is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Public Works, San Francisco/Oakland on Thu, 31 Dec 2026.
 
 Dangerous Rose is a techno and house artist based in United States of America, with 40 gigs on soundcheck across Amsterdam, Ibiza, Los Angeles and Miami and 2 more. Often billed alongside Makadsi, FASHION (US) and Memphy. Next up: Public Works, San Francisco/Oakland on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Dangerous Rose is a techno and house artist based in United States of America, w
 
 Makadsi, FASHION (US), Memphy
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dangerousrose/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dangerousrose/)*

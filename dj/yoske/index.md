@@ -1,6 +1,6 @@
 # Yoske
 
-Yoske is a Minimal and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Socore Factory, Osaka on Fri, 20 Nov 2026.
+Yoske is a Minimal and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Socore Factory, Osaka on Fri, 20 Nov 2026.
 
 Yoske is a minimal and minimal techno artist, with 11 gigs on soundcheck across Chubu, Kyoto, Osaka and Seoul and 1 more. Often billed alongside DJ SPOT, AOKI takamasa and Akira Saotome. Next up: Socore Factory, Osaka on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Yoske is a minimal and minimal techno artist, with 11 gigs on soundcheck across 
 
 DJ SPOT, AOKI takamasa, Akira Saotome
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yoske/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yoske/)*

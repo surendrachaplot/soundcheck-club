@@ -1,6 +1,6 @@
 # Loxxe
 
-Loxxe is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Abbots Yard, Melbourne on Sat, 21 Nov 2026.
+Loxxe is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Abbots Yard, Melbourne on Sat, 21 Nov 2026.
 
 Loxxe is a techno and house artist based in Canada, with 14 gigs on soundcheck across Melbourne and Toronto. Often billed alongside Landan Brawley, SouthPawBrown and Aerodroemme. Next up: Abbots Yard, Melbourne on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Loxxe is a techno and house artist based in Canada, with 14 gigs on soundcheck a
 
 Landan Brawley, SouthPawBrown, Aerodroemme
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loxxe/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loxxe/)*

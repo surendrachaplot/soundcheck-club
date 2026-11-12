@@ -1,6 +1,6 @@
 # VXRGO
 
-VXRGO is a Jungle and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at FOLD, London on Fri, 20 Nov 2026.
+VXRGO is a Jungle and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at FOLD, London on Fri, 20 Nov 2026.
 
 VXRGO is a jungle and drum & bass artist based in United Kingdom, with 101 gigs on soundcheck across Brighton, Bristol, Copenhagen and Edinburgh and 8 more. Often billed alongside Silva Snipa, Tim Reaper and Blackeye MC. Next up: FOLD, London on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ VXRGO is a jungle and drum & bass artist based in United Kingdom, with 101 gigs 
 
 Silva Snipa, Tim Reaper, Blackeye MC
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vxrgo/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vxrgo/)*

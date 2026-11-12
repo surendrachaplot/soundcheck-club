@@ -1,6 +1,6 @@
 # HU
 
-HU is a music venue in Shanghai with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "Duke Energy Bill Payment Portal Login & Express Guest Pay Options" on Sat, 14 Nov 2026.
+HU is a music venue in Shanghai with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "Duke Energy Bill Payment Portal Login & Express Guest Pay Options" on Sat, 14 Nov 2026.
 
 HU is a music venue in Shanghai listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ HU is a music venue in Shanghai listed on soundcheck. 1 upcoming gig. See dates,
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Duke Energy Bill Payment Portal Login & Express Guest Pay Options |  |
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/shanghai/club/hu/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/shanghai/club/hu/)*

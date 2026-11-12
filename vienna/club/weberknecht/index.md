@@ -1,6 +1,6 @@
 # Weberknecht
 
-Weberknecht is a music venue in Vienna with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "OUT OF SPACE" on Thu, 12 Nov 2026.
+Weberknecht is a music venue in Vienna with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "OUT OF SPACE" on Thu, 12 Nov 2026.
 
 Weberknecht is a music venue in Vienna listed on soundcheck. 2 upcoming gigs, with line-ups including JP eXbert, KJAER and Richard Steinschlag. See dates, start times and who's playing. Lerchenfelder Gürtel 47, Vienna, Austria.
 
@@ -15,4 +15,4 @@ Weberknecht is a music venue in Vienna listed on soundcheck. 2 upcoming gigs, wi
 
 Lerchenfelder Gürtel 47, Vienna, Austria, Vienna
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/weberknecht/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/weberknecht/)*

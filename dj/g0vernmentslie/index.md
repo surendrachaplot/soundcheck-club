@@ -1,6 +1,6 @@
 # G0vernmentsLie
 
-G0vernmentsLie is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Nulab Chengdu, Chengdu on Sun, 15 Nov 2026.
+G0vernmentsLie is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Nulab Chengdu, Chengdu on Sun, 15 Nov 2026.
 
 G0vernmentsLie is a bass and techno artist based in China, with 43 gigs on soundcheck across Beijing, Chengdu and Chongqing. Often billed alongside JUGG, Heling and Zarah. Next up: Nulab Chengdu, Chengdu on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ G0vernmentsLie is a bass and techno artist based in China, with 43 gigs on sound
 
 JUGG, Heling, Zarah
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/g0vernmentslie/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/g0vernmentslie/)*

@@ -1,6 +1,6 @@
 # Korpuss
 
-Korpuss is a music venue in Riga with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "PSYCHOTICA" on Fri, 13 Nov 2026.
+Korpuss is a music venue in Riga with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "PSYCHOTICA" on Fri, 13 Nov 2026.
 
 Korpuss is a music venue in Riga listed on soundcheck. 4 upcoming gigs, with line-ups including DEP (LV), DRAGONCAT, Edessey and Existal and 2 more. See dates, start times and who's playing. Viskaļu iela 36.
 
@@ -17,4 +17,4 @@ Korpuss is a music venue in Riga listed on soundcheck. 4 upcoming gigs, with lin
 
 Viskaļu iela 36, Riga
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/riga/club/korpuss/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/riga/club/korpuss/)*

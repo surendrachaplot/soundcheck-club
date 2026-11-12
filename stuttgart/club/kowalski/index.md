@@ -1,6 +1,6 @@
 # Kowalski
 
-Kowalski is a music venue in Stuttgart with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "WYS¿ presents MARA BRAVO" on Fri, 13 Nov 2026.
+Kowalski is a music venue in Stuttgart with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "WYS¿ presents MARA BRAVO" on Fri, 13 Nov 2026.
 
 Kowalski is a music venue in Stuttgart listed on soundcheck. 5 upcoming gigs, with line-ups including Black Circle, Einmusik, Frida Darko and Jochen Pash and 2 more. See dates, start times and who's playing. Kriegsbergstr. 28, 70174 Stuttgart, Germany.
 
@@ -18,4 +18,4 @@ Kowalski is a music venue in Stuttgart listed on soundcheck. 5 upcoming gigs, wi
 
 Kriegsbergstr. 28, 70174 Stuttgart, Germany, Stuttgart
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/kowalski/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/kowalski/)*

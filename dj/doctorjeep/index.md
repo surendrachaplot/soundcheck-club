@@ -1,6 +1,6 @@
 # Doctor Jeep
 
-Doctor Jeep is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Garden Tisno, Croatia on Thu, 19 Aug 2027.
+Doctor Jeep is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Garden Tisno, Croatia on Thu, 19 Aug 2027.
 
 Doctor Jeep is a bass and techno artist based in United States of America, with 80 gigs on soundcheck across Amsterdam, Baltimore, Barcelona and Belgrade and 37 more. Often billed alongside Ayesha, Identified Patient and Aurora Halal. Next up: The Garden Tisno, Croatia on Thu 19 Aug.
 
@@ -25,4 +25,4 @@ Doctor Jeep is a bass and techno artist based in United States of America, with 
 
 Ayesha, Identified Patient, Aurora Halal
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doctorjeep/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doctorjeep/)*

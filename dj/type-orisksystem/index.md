@@ -1,6 +1,6 @@
 # TYPE-O RISK SYSTEM
 
-TYPE-O RISK SYSTEM is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Asakusa Stella, Tokyo on Sat, 14 Nov 2026.
+TYPE-O RISK SYSTEM is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Asakusa Stella, Tokyo on Sat, 14 Nov 2026.
 
 TYPE-O RISK SYSTEM is a techno and industrial artist based in Japan, with 49 gigs on soundcheck across Osaka and Tokyo. Often billed alongside EVE, KAMIKAZE and YPF. Next up: Asakusa Stella, Tokyo on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ TYPE-O RISK SYSTEM is a techno and industrial artist based in Japan, with 49 gig
 
 EVE (1), KAMIKAZE, YPF
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/type-orisksystem/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/type-orisksystem/)*

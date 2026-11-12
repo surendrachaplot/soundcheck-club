@@ -1,6 +1,6 @@
-# Hoochie Palace x DickAppointment x Blueprint (DETROIT): SKY JETTA + more at Northern Lights Lounge
+# Hoochie Palace x DickAppointment x Blueprint (DETROIT): SKY JETTA, AK, Jamea, + more at Northern Lights Lounge
 
-Hoochie Palace x DickAppointment x Blueprint (DETROIT): SKY JETTA + more at Northern Lights Lounge on Fri 13 Nov, Detroit. 1 artist: SKY JETTA. Club and Ghetto Tech. See the line-up on soundcheck.
+Hoochie Palace x DickAppointment x Blueprint (DETROIT): SKY JETTA, AK, Jamea, + more at Northern Lights Lounge on Fri 13 Nov, Detroit. 1 artist: SKY JETTA. Club and Ghetto Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

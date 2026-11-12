@@ -1,6 +1,6 @@
 # Chouchou
 
-Chouchou is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Heim Shanghai, Shanghai on Fri, 20 Nov 2026.
+Chouchou is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Heim Shanghai, Shanghai on Fri, 20 Nov 2026.
 
 Chouchou is a techno and house artist, with 27 gigs on soundcheck across Barcelona, Beijing, Chengdu and Chongqing and 2 more. Often billed alongside OoLONG, CicE and Finascia. Next up: Heim Shanghai, Shanghai on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Chouchou is a techno and house artist, with 27 gigs on soundcheck across Barcelo
 
 OoLONG (2), CicE, Finascia
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chouchou/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chouchou/)*

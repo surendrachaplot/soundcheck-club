@@ -1,6 +1,6 @@
 # Gamma
 
-Gamma is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Central Florida Fairgrounds, Florida on Fri, 23 Apr 2027.
+Gamma is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Central Florida Fairgrounds, Florida on Fri, 23 Apr 2027.
 
 Gamma is a hardcore and techno artist, with 8 gigs on soundcheck across Florida, London, Mexico City and Perth and 1 more. Often billed alongside A Hundred Drums, A.N.T and AG (NYC). Next up: Central Florida Fairgrounds, Florida on Fri 23 Apr.
 
@@ -24,4 +24,4 @@ Gamma is a hardcore and techno artist, with 8 gigs on soundcheck across Florida,
 
 A Hundred Drums, A.N.T, AG (NYC)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gamma/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gamma/)*

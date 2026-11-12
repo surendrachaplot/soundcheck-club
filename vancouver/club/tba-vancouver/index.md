@@ -1,14 +1,14 @@
 # TBA - VANCOUVER
 
-TBA - VANCOUVER is a music venue in Vancouver with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "NOOSH presents: Junkie Kid (CDMX)" on Sat, 21 Nov 2026.
+TBA - VANCOUVER is a music venue in Vancouver with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "NOOSH presents: Junkie Kid (CDMX)" on Sat, 21 Nov 2026.
 
-TBA - VANCOUVER is a music venue in Vancouver listed on soundcheck. 2 upcoming gigs, with line-ups including atebaki, Creatura and Junkie Kid. See dates, start times and who's playing.
+TBA - VANCOUVER is a music venue in Vancouver listed on soundcheck. 2 upcoming gigs, with line-ups including atebaki, Creatura, Junkie Kid and NIMAHA and 1 more. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | NOOSH presents: Junkie Kid (CDMX) | Junkie Kid |
+| Sat, 21 Nov 2026 | NOOSH presents: Junkie Kid (CDMX) | Junkie Kid, NIMAHA, Sam AK |
 | Sat, 28 Nov 2026 | inner space | Creatura, atebaki |
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/tba-vancouver/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/tba-vancouver/)*

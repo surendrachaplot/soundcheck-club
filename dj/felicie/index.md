@@ -1,6 +1,6 @@
 # Félicie
 
-Félicie is a Techno and Industrial artist with 6 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Bassement, Madrid on Fri, 20 Nov 2026.
+Félicie is a Techno and Industrial artist with 6 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Bassement, Madrid on Fri, 20 Nov 2026.
 
 Félicie is a techno and industrial artist based in Netherlands, with 117 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 49 more. Often billed alongside Cleric, Daria Kolosova and KlangKuenstler. Next up: The Bassement, Madrid on Fri 20 Nov.
 
@@ -30,4 +30,4 @@ Félicie is a techno and industrial artist based in Netherlands, with 117 gigs o
 
 Cleric, Daria Kolosova, KlangKuenstler
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/felicie/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/felicie/)*

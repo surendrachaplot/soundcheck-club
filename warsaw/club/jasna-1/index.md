@@ -1,6 +1,6 @@
 # Jasna 1
 
-Jasna 1 is a music venue in Warsaw with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Klub Verboten x FETISH CHATEU - WARSAW" on Fri, 13 Nov 2026.
+Jasna 1 is a music venue in Warsaw with 7 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Klub Verboten x FETISH CHATEU - WARSAW" on Fri, 13 Nov 2026.
 
 Jasna 1 is a music venue in Warsaw listed on soundcheck. 7 upcoming gigs, with line-ups including BEXA, Evian Christ, Facheroia and Freddy K and 2 more. See dates, start times and who's playing. Jasna 1, 00-013 Warszawa.
 
@@ -20,4 +20,4 @@ Jasna 1 is a music venue in Warsaw listed on soundcheck. 7 upcoming gigs, with l
 
 Jasna 1, 00-013 Warszawa, Warsaw
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/jasna-1/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/jasna-1/)*

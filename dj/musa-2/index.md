@@ -1,13 +1,14 @@
 # musa
 
-musa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Ministerium Club, Lisbon on Thu, 10 Dec 2026.
+musa is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Stereo, Montreal on Sat, 5 Dec 2026.
 
-musa is a techno and house artist based in Canada, with 25 gigs on soundcheck across Auckland, Lisbon, Melbourne and Mexico City and 2 more. Often billed alongside Zellers, Geezr and Jaw Jones. Next up: Ministerium Club, Lisbon on Thu 10 Dec.
+musa is a techno and house artist based in Canada, with 26 gigs on soundcheck across Auckland, Lisbon, Melbourne and Mexico City and 2 more. Often billed alongside Zellers, Geezr and Jaw Jones. Next up: Stereo, Montreal on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Dec 2026 | Stereo | Montreal |
 | Thu, 10 Dec 2026 | Ministerium Club | Lisbon |
 
 ## Recently played
@@ -25,4 +26,4 @@ musa is a techno and house artist based in Canada, with 25 gigs on soundcheck ac
 
 Zellers, Geezr, Jaw Jones
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/musa-2/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/musa-2/)*

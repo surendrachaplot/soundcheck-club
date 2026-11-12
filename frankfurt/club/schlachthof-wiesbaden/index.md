@@ -1,6 +1,6 @@
 # Schlachthof Wiesbaden
 
-Schlachthof Wiesbaden is a music venue in Frankfurt with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "CLUB LOYAL" on Sat, 14 Nov 2026.
+Schlachthof Wiesbaden is a music venue in Frankfurt with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "CLUB LOYAL" on Sat, 14 Nov 2026.
 
 Schlachthof Wiesbaden is a music venue in Frankfurt listed on soundcheck. 3 upcoming gigs, with line-ups including ATJOP, DJ DRECKISCH, G I N A and Jan Zimmermann and 2 more. See dates, start times and who's playing. Murnaustraße 1, 65189 Wiesbaden.
 
@@ -16,4 +16,4 @@ Schlachthof Wiesbaden is a music venue in Frankfurt listed on soundcheck. 3 upco
 
 Murnaustraße 1, 65189 Wiesbaden, Frankfurt
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/schlachthof-wiesbaden/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/schlachthof-wiesbaden/)*

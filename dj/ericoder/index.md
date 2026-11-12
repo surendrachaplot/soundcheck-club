@@ -1,6 +1,6 @@
 # Eric Oder
 
-Eric Oder is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Urban Spree, Berlin on Fri, 13 Nov 2026.
+Eric Oder is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Urban Spree, Berlin on Fri, 13 Nov 2026.
 
 Eric Oder is a techno and electronica artist based in Germany, with 9 gigs on soundcheck across Berlin and Milan. Often billed alongside Casual Treatment, Coquinati and Airshpd. Next up: Urban Spree, Berlin on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Eric Oder is a techno and electronica artist based in Germany, with 9 gigs on so
 
 Casual Treatment, Coquinati, Airshpd
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ericoder/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ericoder/)*

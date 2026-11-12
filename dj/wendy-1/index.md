@@ -1,6 +1,6 @@
 # Wendy (1)
 
-Wendy (1) is a Techno and Gabber artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA, Paris on Fri, 20 Nov 2026.
+Wendy (1) is a Techno and Gabber artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA, Paris on Fri, 20 Nov 2026.
 
 Wendy is a techno and gabber artist based in France, with 7 gigs on soundcheck across Berlin, Brussels, Copenhagen and Geneva and 2 more. Often billed alongside A.Morgan, Aliar and Anika Kunst. Next up: TBA, Paris on Fri 20 Nov.
 
@@ -23,4 +23,4 @@ Wendy is a techno and gabber artist based in France, with 7 gigs on soundcheck a
 
 A.Morgan, Aliar, Anika Kunst
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wendy-1/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wendy-1/)*

@@ -1,6 +1,6 @@
 # DJ EZ
 
-DJ EZ is a Garage and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Electric Brixton, London on Fri, 13 Nov 2026.
+DJ EZ is a Garage and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Electric Brixton, London on Fri, 13 Nov 2026.
 
 DJ EZ is a garage and house artist based in United Kingdom, with 111 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Bangkok and 32 more. Often billed alongside Benny Rodrigues, Danny Howard and Sonny Fodera. Next up: Electric Brixton, London on Fri 13 Nov.
 
@@ -28,4 +28,4 @@ DJ EZ is a garage and house artist based in United Kingdom, with 111 gigs on sou
 
 Benny Rodrigues, Danny Howard, Sonny Fodera
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djez/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djez/)*

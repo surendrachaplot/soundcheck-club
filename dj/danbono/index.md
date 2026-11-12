@@ -1,6 +1,6 @@
 # Dan Bono
 
-Dan Bono is a Electro and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Warehouse, Nantes on Sat, 12 Dec 2026.
+Dan Bono is a Electro and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Warehouse, Nantes on Sat, 12 Dec 2026.
 
 Dan Bono is an electro and house artist based in France, with 11 gigs on soundcheck across Nantes. Often billed alongside Quentin Schneider, Corentin Mab and Acid Arab. Next up: Warehouse, Nantes on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Dan Bono is an electro and house artist based in France, with 11 gigs on soundch
 
 Quentin Schneider, Corentin Mab, Acid Arab
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danbono/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danbono/)*

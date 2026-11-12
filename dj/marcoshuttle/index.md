@@ -1,6 +1,6 @@
 # Marco Shuttle
 
-Marco Shuttle is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Palais, London on Fri, 13 Nov 2026.
+Marco Shuttle is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Palais, London on Fri, 13 Nov 2026.
 
 Marco Shuttle is a techno and house artist based in Italy, with 176 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 47 more. Often billed alongside Jane Fitz, Erika and Paquita Gordon. Next up: Palais, London on Fri 13 Nov.
 
@@ -28,4 +28,4 @@ Marco Shuttle is a techno and house artist based in Italy, with 176 gigs on soun
 
 Jane Fitz, Erika, Paquita Gordon
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoshuttle/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoshuttle/)*

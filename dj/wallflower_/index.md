@@ -1,6 +1,6 @@
 # wallflower_
 
-wallflower_ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Renate, Berlin on Thu, 31 Dec 2026.
+wallflower_ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Renate, Berlin on Thu, 31 Dec 2026.
 
 wallflower_ is a techno and house artist based in Ukraine, with 22 gigs on soundcheck across Amsterdam, Berlin, Bratislava and Copenhagen and 2 more. Often billed alongside SOCIAL VLAD, Pino Peña and MZR. Next up: Renate, Berlin on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ wallflower_ is a techno and house artist based in Ukraine, with 22 gigs on sound
 
 SOCIAL VLAD, Pino Peña, MZR
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wallflower_/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wallflower_/)*

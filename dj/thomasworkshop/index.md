@@ -1,6 +1,6 @@
 # Thomas Workshop
 
-Thomas Workshop is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Private Location, Vancouver on Fri, 13 Nov 2026.
+Thomas Workshop is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Private Location, Vancouver on Fri, 13 Nov 2026.
 
 Thomas Workshop is a house and techno artist based in Canada, with 18 gigs on soundcheck across Vancouver. Often billed alongside Lalo Campo, Jimpster and Kardano. Next up: TBA - Private Location, Vancouver on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Thomas Workshop is a house and techno artist based in Canada, with 18 gigs on so
 
 Lalo Campo, Jimpster, Kardano
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasworkshop/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasworkshop/)*

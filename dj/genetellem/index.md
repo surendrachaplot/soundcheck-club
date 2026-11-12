@@ -1,14 +1,15 @@
 # Gene Tellem
 
-Gene Tellem is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Ausgang Plaza, Montreal on Thu, 3 Dec 2026.
+Gene Tellem is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Ausgang Plaza, Montreal on Thu, 3 Dec 2026.
 
-Gene Tellem is a house and techno artist based in Canada, with 27 gigs on soundcheck across Lisbon, Montreal, New York City and Paris and 2 more. Often billed alongside Kris Guilty, Guthrie and Alina (MTL). Next up: Ausgang Plaza, Montreal on Thu 3 Dec.
+Gene Tellem is a house and techno artist based in Canada, with 28 gigs on soundcheck across Lisbon, Montreal, New York City and Paris and 2 more. Often billed alongside Kris Guilty, Guthrie and Alina (MTL). Next up: Ausgang Plaza, Montreal on Thu 3 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 3 Dec 2026 | Ausgang Plaza | Montreal |
+| Sat, 5 Dec 2026 | Stereo | Montreal |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Gene Tellem is a house and techno artist based in Canada, with 27 gigs on soundc
 
 Kris Guilty, Guthrie, Alina (MTL)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/genetellem/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/genetellem/)*

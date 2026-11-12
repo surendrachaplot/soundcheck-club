@@ -1,8 +1,8 @@
 # Eli & Fur
 
-Eli & Fur is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at 1015 Folsom, San Francisco/Oakland on Fri, 13 Nov 2026.
+Eli & Fur is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at 1015 Folsom, San Francisco/Oakland on Fri, 13 Nov 2026.
 
-Eli & Fur are a house and deep house duo based in United Kingdom, with 134 gigs on soundcheck across Adelaide, Amsterdam, Athens and Austin and 43 more. Often billed alongside Jody Wisternoff, CRi and Marsh. Next up: 1015 Folsom, San Francisco/Oakland on Fri 13 Nov.
+Eli & Fur are a house and deep house duo based in United Kingdom, with 135 gigs on soundcheck across Adelaide, Amsterdam, Athens and Austin and 43 more. Often billed alongside Jody Wisternoff, CRi and Marsh. Next up: 1015 Folsom, San Francisco/Oakland on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Eli & Fur are a house and deep house duo based in United Kingdom, with 134 gigs 
 | Fri, 13 Nov 2026 | 1015 Folsom | San Francisco/Oakland |
 | Sat, 28 Nov 2026 | Tumbalong Park | Sydney |
 | Sat, 5 Dec 2026 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |
+| Fri, 1 Jan 2027 | Exchange LA | Los Angeles |
 | Fri, 8 Jan 2027 | Echostage | Washington DC |
 
 ## Recently played
@@ -28,4 +29,4 @@ Eli & Fur are a house and deep house duo based in United Kingdom, with 134 gigs 
 
 Jody Wisternoff, CRi, Marsh
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elifur/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elifur/)*

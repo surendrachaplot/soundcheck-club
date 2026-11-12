@@ -1,6 +1,6 @@
 # Toby (UK)
 
-Toby (UK) is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Hackney Wick - Secret Location, London on Fri, 27 Nov 2026.
+Toby (UK) is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Hackney Wick - Secret Location, London on Fri, 27 Nov 2026.
 
 Toby (UK) is a deep house and house artist based in United Kingdom, with 16 gigs on soundcheck across London, Manchester, Mexico City and Paris and 2 more. Often billed alongside Hamish Cole, Seb Odyssey and ono.sendai.runner. Next up: TBA - Hackney Wick - Secret Location, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Toby (UK) is a deep house and house artist based in United Kingdom, with 16 gigs
 
 Hamish Cole, Seb Odyssey, ono.sendai.runner
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tobynicholas/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tobynicholas/)*

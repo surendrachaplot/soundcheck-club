@@ -1,6 +1,6 @@
 # Beste Hira
 
-Beste Hira is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at INPUT High Fidelity Dance Club, Barcelona on Fri, 13 Nov 2026.
+Beste Hira is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at INPUT High Fidelity Dance Club, Barcelona on Fri, 13 Nov 2026.
 
 Beste Hira is a techno and house artist based in Netherlands, with 200 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Freddy K, Rødhåd and Lobster (NL). Next up: INPUT High Fidelity Dance Club, Barcelona on Fri 13 Nov.
 
@@ -31,4 +31,4 @@ Beste Hira is a techno and house artist based in Netherlands, with 200 gigs on s
 
 Freddy K, Rødhåd, Lobster (NL)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bestehira/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bestehira/)*

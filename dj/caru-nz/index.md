@@ -1,6 +1,6 @@
 # Caru (NZ)
 
-Caru (NZ) is a Breakbeat and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Whammy Bar, Auckland on Sat, 28 Nov 2026.
+Caru (NZ) is a Breakbeat and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Whammy Bar, Auckland on Sat, 28 Nov 2026.
 
 Caru (NZ) is a breakbeat and garage artist based in New Zealand, with 17 gigs on soundcheck across Auckland, Christchurch and London. Often billed alongside Goldtooth, Hyan and monoga.my. Next up: Whammy Bar, Auckland on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Caru (NZ) is a breakbeat and garage artist based in New Zealand, with 17 gigs on
 
 Goldtooth, Hyan (2), monoga.my
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caru-nz/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caru-nz/)*

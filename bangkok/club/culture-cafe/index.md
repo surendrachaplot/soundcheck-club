@@ -1,8 +1,8 @@
 # Culture Cafe
 
-Culture Cafe is a music venue in Bangkok with 23 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "The bangkok Techno Collaboration presents; NO.EARS: Strictly Vinyl Solo Set" on Thu, 12 Nov 2026.
+Culture Cafe is a music venue in Bangkok with 24 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "The bangkok Techno Collaboration presents; NO.EARS: Strictly Vinyl Solo Set" on Thu, 12 Nov 2026.
 
-Culture Cafe is a music venue in Bangkok listed on soundcheck. 23 upcoming gigs, with line-ups including Carlos Bros, Damon Rider, DJ Mandol and djmoca and 2 more. See dates, start times and who's playing. 249 Thanon Samsen, Wat Sam Phraya, Phra Nakorn, Bangkok, Thailand, Bangkok.
+Culture Cafe is a music venue in Bangkok listed on soundcheck. 24 upcoming gigs, with line-ups including Carlos Bros, Damon Rider, DJ Mandol and djmoca and 2 more. See dates, start times and who's playing. 249 Thanon Samsen, Wat Sam Phraya, Phra Nakorn, Bangkok, Thailand, Bangkok.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Culture Cafe is a music venue in Bangkok listed on soundcheck. 23 upcoming gigs,
 
 249 Thanon Samsen, Wat Sam Phraya, Phra Nakorn, Bangkok, Thailand, Bangkok, Bangkok
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/culture-cafe/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/culture-cafe/)*

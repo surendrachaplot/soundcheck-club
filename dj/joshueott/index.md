@@ -1,6 +1,6 @@
 # joshue ott
 
-joshue ott is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Delight Factory, New York City on Sat, 21 Nov 2026.
+joshue ott is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Delight Factory, New York City on Sat, 21 Nov 2026.
 
 joshue ott is an ambient and experimental artist based in United States of America, with 13 gigs on soundcheck across New York City. Often billed alongside Ezekiel Honig, Todd Polenberg and Bearded Twin. Next up: Delight Factory, New York City on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ joshue ott is an ambient and experimental artist based in United States of Ameri
 
 Ezekiel Honig, Todd Polenberg, Bearded Twin
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshueott/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshueott/)*

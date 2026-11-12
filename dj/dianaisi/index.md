@@ -1,6 +1,6 @@
 # Diana Isi
 
-Diana Isi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at NUMBER 90 LONDON, London on Fri, 11 Dec 2026.
+Diana Isi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at NUMBER 90 LONDON, London on Fri, 11 Dec 2026.
 
 Diana Isi is a techno and house artist based in United Kingdom, with 20 gigs on soundcheck across London and Warsaw. Often billed alongside Othon, Aslan Venom and Tafkanik. Next up: NUMBER 90 LONDON, London on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Diana Isi is a techno and house artist based in United Kingdom, with 20 gigs on 
 
 Othon, Aslan Venom, Tafkanik
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dianaisi/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dianaisi/)*

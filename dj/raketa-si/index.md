@@ -1,14 +1,15 @@
 # Raketa (SL)
 
-Raketa (SL) is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Channel Zero, Ljubljana on Fri, 20 Nov 2026.
+Raketa (SL) is a Bass and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Channel Zero, Ljubljana on Fri, 20 Nov 2026.
 
-Raketa (SL) is a bass and club artist based in Slovenia, with 21 gigs on soundcheck across Ljubljana. Often billed alongside DVS, Marka San and Sahara Transport Services. Next up: Channel Zero, Ljubljana on Fri 20 Nov.
+Raketa (SL) is a bass and club artist based in Slovenia, with 22 gigs on soundcheck across Ljubljana. Often billed alongside DVS, Marka San and Sahara Transport Services. Next up: Channel Zero, Ljubljana on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Channel Zero | Ljubljana |
+| Wed, 17 Feb 2027 | Kino Siska | Ljubljana |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Raketa (SL) is a bass and club artist based in Slovenia, with 21 gigs on soundch
 
 DVS, Marka San, Sahara Transport Services
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raketa-si/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raketa-si/)*

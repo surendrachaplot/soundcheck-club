@@ -1,6 +1,6 @@
 # Remarc
 
-Remarc is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Electric Brixton, London on Sat, 5 Dec 2026.
+Remarc is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Electric Brixton, London on Sat, 5 Dec 2026.
 
 Remarc is a drum & bass and jungle artist based in United Kingdom, with 29 gigs on soundcheck across Birmingham, Brighton, Bristol and London and 1 more. Often billed alongside Nicky Blackmarket, The Ragga Twins and Funsta. Next up: Electric Brixton, London on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Remarc is a drum & bass and jungle artist based in United Kingdom, with 29 gigs 
 
 Nicky Blackmarket, The Ragga Twins, Funsta
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/remarc/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/remarc/)*

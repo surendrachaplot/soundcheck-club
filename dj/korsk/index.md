@@ -1,6 +1,6 @@
 # kors k
 
-kors k is a Hardcore and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Circus Tokyo, Tokyo on Sat, 28 Nov 2026.
+kors k is a Hardcore and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Circus Tokyo, Tokyo on Sat, 28 Nov 2026.
 
 kors k is a hardcore and drum & bass artist based in Japan, with 13 gigs on soundcheck across Bristol, Chicago, Los Angeles and New York City and 3 more. Often billed alongside W.T. Snacks, BEPPU and MIDI War. Next up: Circus Tokyo, Tokyo on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ kors k is a hardcore and drum & bass artist based in Japan, with 13 gigs on soun
 
 W.T. Snacks, BEPPU, MIDI War
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/korsk/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/korsk/)*

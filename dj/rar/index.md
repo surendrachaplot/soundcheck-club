@@ -1,6 +1,6 @@
 # RAR
 
-RAR is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Kult, Belgrade on Fri, 20 Nov 2026.
+RAR is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Kult, Belgrade on Fri, 20 Nov 2026.
 
 RAR is a techno and acid artist based in Serbia, with 29 gigs on soundcheck across Belgrade. Often billed alongside ACOR, laccotti and Asarri. Next up: Kult, Belgrade on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ RAR is a techno and acid artist based in Serbia, with 29 gigs on soundcheck acro
 
 ACOR, laccotti, Asarri
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rar/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rar/)*

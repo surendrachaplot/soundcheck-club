@@ -1,6 +1,6 @@
 # Lashimba
 
-Lashimba is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Electric Pizza Shop, Manchester on Fri, 13 Nov 2026.
+Lashimba is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Electric Pizza Shop, Manchester on Fri, 13 Nov 2026.
 
 Lashimba is a house and tech house artist based in United Kingdom, with 10 gigs on soundcheck across London and Manchester. Often billed alongside Obeka, CBABY and Dan Louder. Next up: Electric Pizza Shop, Manchester on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Lashimba is a house and tech house artist based in United Kingdom, with 10 gigs 
 
 Obeka, CBABY, Dan Louder
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lashimba/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lashimba/)*

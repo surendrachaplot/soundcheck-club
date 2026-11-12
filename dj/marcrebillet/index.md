@@ -1,6 +1,6 @@
 # Marc Rebillet
 
-Marc Rebillet is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Velodrom TJ Favorit Brno, Brno on Thu, 5 Aug 2027.
+Marc Rebillet is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Velodrom TJ Favorit Brno, Brno on Thu, 5 Aug 2027.
 
 Marc Rebillet is a house and electronica artist based in United States of America, with 25 gigs on soundcheck across Atlanta, Bali, Barcelona and Brno and 15 more. Often billed alongside WhoMadeWho, I Hate Models and Anyma. Next up: Velodrom TJ Favorit Brno, Brno on Thu 5 Aug.
 
@@ -25,4 +25,4 @@ Marc Rebillet is a house and electronica artist based in United States of Americ
 
 WhoMadeWho, I Hate Models, Anyma
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcrebillet/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcrebillet/)*

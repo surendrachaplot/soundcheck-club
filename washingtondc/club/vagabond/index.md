@@ -1,6 +1,6 @@
 # Vagabond
 
-Vagabond is a music venue in Washington DC with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Vagabond Beach Party" on Sun, 15 Nov 2026.
+Vagabond is a music venue in Washington DC with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Vagabond Beach Party" on Sun, 15 Nov 2026.
 
 Vagabond is a music venue in Washington DC listed on soundcheck. 2 upcoming gigs, with line-ups including Candie Kitsch. See dates, start times and who's playing. 1836 18th Street NW, Washington, DC.
 
@@ -15,4 +15,4 @@ Vagabond is a music venue in Washington DC listed on soundcheck. 2 upcoming gigs
 
 1836 18th Street NW, Washington, DC, Washington DC
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/vagabond/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/vagabond/)*

@@ -1,6 +1,6 @@
 # Acido Cielo
 
-Acido Cielo is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Stereo, Glasgow on Sat, 19 Dec 2026.
+Acido Cielo is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Stereo, Glasgow on Sat, 19 Dec 2026.
 
 Acido Cielo is a techno and electro artist based in United Kingdom, with 8 gigs on soundcheck across Glasgow. Often billed alongside North Star, Craggyland and Kinz Luiz. Next up: Stereo, Glasgow on Sat 19 Dec.
 
@@ -24,4 +24,4 @@ Acido Cielo is a techno and electro artist based in United Kingdom, with 8 gigs 
 
 North Star, Craggyland, Kinz Luiz
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/acidocielo/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/acidocielo/)*

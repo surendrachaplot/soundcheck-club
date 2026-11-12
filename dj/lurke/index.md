@@ -1,6 +1,6 @@
 # Lurke
 
-Lurke is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Prohibition Brisbane, Brisbane on Sat, 21 Nov 2026.
+Lurke is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Prohibition Brisbane, Brisbane on Sat, 21 Nov 2026.
 
 Lurke is a garage and house artist based in Australia, with 30 gigs on soundcheck across Brisbane. Often billed alongside NAT4SHA, Auramatic and Charlie Shell. Next up: Prohibition Brisbane, Brisbane on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Lurke is a garage and house artist based in Australia, with 30 gigs on soundchec
 
 NAT4SHA, Auramatic, Charlie Shell
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lurke/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lurke/)*

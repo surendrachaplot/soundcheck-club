@@ -1,6 +1,6 @@
 # SPEEDŸ
 
-SPEEDŸ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Haven Lounge, New York City on Fri, 13 Nov 2026.
+SPEEDŸ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Haven Lounge, New York City on Fri, 13 Nov 2026.
 
 SPEEDŸ is a techno and house artist based in United States of America, with 19 gigs on soundcheck across Detroit, Miami and New York City. Often billed alongside Destro187, Alexander Technique and Frankie Bones. Next up: Haven Lounge, New York City on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ SPEEDŸ is a techno and house artist based in United States of America, with 19 
 
 Destro187, Alexander Technique, Frankie Bones
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/speedy-us/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/speedy-us/)*

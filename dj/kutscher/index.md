@@ -1,6 +1,6 @@
 # kutscher
 
-kutscher is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Void Club, Berlin on Sat, 19 Dec 2026.
+kutscher is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Void Club, Berlin on Sat, 19 Dec 2026.
 
 kutscher is a techno and drum & bass artist based in Germany, with 7 gigs on soundcheck across Berlin and Copenhagen. Often billed alongside BENDOM, FRËIHERR and Nilinski. Next up: Void Club, Berlin on Sat 19 Dec.
 
@@ -23,4 +23,4 @@ kutscher is a techno and drum & bass artist based in Germany, with 7 gigs on sou
 
 BENDOM, FRËIHERR, Nilinski
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kutscher/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kutscher/)*

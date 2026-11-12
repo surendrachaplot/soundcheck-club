@@ -1,6 +1,6 @@
 # Nick Kagame
 
-Nick Kagame is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at renae, Manchester on Fri, 11 Dec 2026.
+Nick Kagame is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at renae, Manchester on Fri, 11 Dec 2026.
 
 Nick Kagame is a house and techno artist based in United Kingdom, with 32 gigs on soundcheck across Berlin, Bristol, Brussels and Leeds and 6 more. Often billed alongside Joe Delon, aNNA (UK) and Alex Sourbis. Next up: renae, Manchester on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Nick Kagame is a house and techno artist based in United Kingdom, with 32 gigs o
 
 Joe Delon, aNNA (UK), Alex Sourbis
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nickkagame/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nickkagame/)*

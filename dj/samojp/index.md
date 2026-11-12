@@ -1,6 +1,6 @@
 # SAMO (JP)
 
-SAMO (JP) is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at MIDNIGHT EAST, Tokyo on Fri, 20 Nov 2026.
+SAMO (JP) is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at MIDNIGHT EAST, Tokyo on Fri, 20 Nov 2026.
 
 SAMO (JP) is a house and techno artist based in Japan, with 189 gigs on soundcheck across Kyoto, Osaka, San Francisco/Oakland and Seoul and 2 more. Often billed alongside r1ku, kengotaki and YUVIE. Next up: MIDNIGHT EAST, Tokyo on Fri 20 Nov.
 
@@ -28,4 +28,4 @@ SAMO (JP) is a house and techno artist based in Japan, with 189 gigs on soundche
 
 r1ku, kengotaki, YUVIE
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samojp/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samojp/)*

@@ -1,6 +1,6 @@
 # Dolly (2)
 
-Dolly (2) is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Angel Music Bar, Melbourne on Sat, 19 Dec 2026.
+Dolly (2) is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Angel Music Bar, Melbourne on Sat, 19 Dec 2026.
 
 Dolly is a tech house and techno artist based in Australia, with 28 gigs on soundcheck across Melbourne, New South Wales, Sydney and Tokyo. Often billed alongside Kimi, Miscmeg and Reptant. Next up: Angel Music Bar, Melbourne on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Dolly is a tech house and techno artist based in Australia, with 28 gigs on soun
 
 Kimi, Miscmeg, Reptant
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dolly-2/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dolly-2/)*

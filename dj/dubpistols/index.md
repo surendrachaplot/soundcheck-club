@@ -1,6 +1,6 @@
 # Dub Pistols
 
-Dub Pistols is a Dub and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Mayrhofen, Austria, Austria on Mon, 5 Apr 2027.
+Dub Pistols is a Dub and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Mayrhofen, Austria, Austria on Mon, 5 Apr 2027.
 
 Dub Pistols is a dub and house artist based in United Kingdom, with 11 gigs on soundcheck across Athens, Austria, Liverpool and London and 4 more. Often billed alongside Aries, Freestylers and Grooverider. Next up: TBA - Mayrhofen, Austria, Austria on Mon 5 Apr.
 
@@ -25,4 +25,4 @@ Dub Pistols is a dub and house artist based in United Kingdom, with 11 gigs on s
 
 Aries, Freestylers, Grooverider
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dubpistols/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dubpistols/)*

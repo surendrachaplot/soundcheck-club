@@ -1,6 +1,6 @@
 # CaMi
 
-CaMi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at SISSI'S Amsterdam, Amsterdam on Sat, 12 Dec 2026.
+CaMi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at SISSI'S Amsterdam, Amsterdam on Sat, 12 Dec 2026.
 
 CaMi is a techno and house artist based in Italy, with 6 gigs on soundcheck across Amsterdam, Berlin, Hamburg and Munich and 1 more. Often billed alongside loufo, 36framez and ATM. Next up: SISSI'S Amsterdam, Amsterdam on Sat 12 Dec.
 
@@ -22,4 +22,4 @@ CaMi is a techno and house artist based in Italy, with 6 gigs on soundcheck acro
 
 loufo, 36framez, ATM
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cami/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cami/)*

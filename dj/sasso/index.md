@@ -1,6 +1,6 @@
 # Sasso
 
-Sasso is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Mad Radio Medellín, Medellin on Thu, 12 Nov 2026.
+Sasso is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Mad Radio Medellín, Medellin on Thu, 12 Nov 2026.
 
 Sasso is a house and techno artist based in Colombia, with 29 gigs on soundcheck across Bogotá, Medellin and New York City. Often billed alongside Fancy Nancy, Obando and Julian Gomez. Next up: Mad Radio Medellín, Medellin on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Sasso is a house and techno artist based in Colombia, with 29 gigs on soundcheck
 
 Fancy Nancy, Obando, Julian Gomez
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sasso/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sasso/)*

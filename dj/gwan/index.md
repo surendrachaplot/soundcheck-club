@@ -1,6 +1,6 @@
 # gwän
 
-gwän is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Cafe Gallery, Tbilisi on Sat, 5 Dec 2026.
+gwän is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Cafe Gallery, Tbilisi on Sat, 5 Dec 2026.
 
 gwän is a techno and house artist based in Georgia, with 80 gigs on soundcheck across Athens, Basel, Berlin and Dortmund / Essen and 4 more. Often billed alongside Comethisfar, Uväll and VINVAR. Next up: Cafe Gallery, Tbilisi on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ gwän is a techno and house artist based in Georgia, with 80 gigs on soundcheck 
 
 Comethisfar, Uväll, VINVAR
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gwan/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gwan/)*

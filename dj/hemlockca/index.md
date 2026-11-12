@@ -1,6 +1,6 @@
 # Hemlock (CA)
 
-Hemlock (CA) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Rhythm, Toronto on Tue, 24 Nov 2026.
+Hemlock (CA) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Rhythm, Toronto on Tue, 24 Nov 2026.
 
 Hemlock (CA) is a house and techno artist based in Canada, with 22 gigs on soundcheck across Toronto. Often billed alongside Chumbo, Utopos and Siren. Next up: Rhythm, Toronto on Tue 24 Nov.
 
@@ -25,4 +25,4 @@ Hemlock (CA) is a house and techno artist based in Canada, with 22 gigs on sound
 
 Chumbo, Utopos, Siren (4)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hemlockca/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hemlockca/)*

@@ -1,6 +1,6 @@
 # Headrow House
 
-Headrow House is a music venue in Leeds with 11 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Dublon (Live)" on Thu, 12 Nov 2026.
+Headrow House is a music venue in Leeds with 11 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Dublon (Live)" on Thu, 12 Nov 2026.
 
 Headrow House is a music venue in Leeds listed on soundcheck. 11 upcoming gigs, with line-ups including Ben Daddy, Capo Lee, Dublon and Kylie Wears Berghaus and 2 more. See dates, start times and who's playing. Bramleys Yard, 19 The Headrow, Leeds, LS1 6PU, United Kingdom.
 
@@ -23,4 +23,4 @@ Headrow House is a music venue in Leeds listed on soundcheck. 11 upcoming gigs, 
 
 Bramleys Yard, 19 The Headrow, Leeds, LS1 6PU, United Kingdom, Leeds
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/headrow-house/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/headrow-house/)*

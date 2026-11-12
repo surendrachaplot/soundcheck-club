@@ -1,11 +1,11 @@
-# Combine: I Hate Models at TBA - International Center - 6900 Airport Road
+# Combine: I Hate Models at TBA - International Center - 6900 Airport Road Hall B
 
-Combine: I Hate Models at TBA - International Center - 6900 Airport Road on Fri 13 Nov, Toronto. 2 artists: BUYMEFLOVVERS and I Hate Models. Techno. See the line-up on soundcheck.
+Combine: I Hate Models at TBA - International Center - 6900 Airport Road Hall B on Fri 13 Nov, Toronto. 2 artists: BUYMEFLOVVERS and I Hate Models. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Fri, 13 Nov 2026 |
-| Venue | TBA - International Center - 6900 Airport Road |
+| Venue | TBA - International Center - 6900 Airport Road Hall B |
 | City | Toronto |
 
 ## Line-up

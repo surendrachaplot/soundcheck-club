@@ -1,6 +1,6 @@
 # Bundo
 
-Bundo is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at VENT, Tokyo on Sat, 21 Nov 2026.
+Bundo is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at VENT, Tokyo on Sat, 21 Nov 2026.
 
 Bundo is a techno and house artist based in Japan, with 66 gigs on soundcheck across Miami and Tokyo. Often billed alongside NITA, Arao and Monna Lisa. Next up: VENT, Tokyo on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Bundo is a techno and house artist based in Japan, with 66 gigs on soundcheck ac
 
 NITA, Arao, Monna Lisa
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bundo/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bundo/)*

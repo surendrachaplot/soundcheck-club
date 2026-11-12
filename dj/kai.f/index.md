@@ -1,6 +1,6 @@
 # Kai.F
 
-Kai.F is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Groundless Factory, Beijing on Sat, 21 Nov 2026.
+Kai.F is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Groundless Factory, Beijing on Sat, 21 Nov 2026.
 
 Kai.F is a house and techno artist based in China, with 85 gigs on soundcheck across Beijing, Chengdu, Chongqing and Shanghai and 1 more. Often billed alongside Nigls, SunMeng and Paradice Sinema. Next up: Groundless Factory, Beijing on Sat 21 Nov.
 
@@ -12,6 +12,7 @@ Kai.F is a house and techno artist based in China, with 85 gigs on soundcheck ac
 
 ## Recently played
 
+- Dada Beijing, Beijing · Wed, 11 Nov 2026
 - Track, Beijing · Fri, 6 Nov 2026
 - Rugs*, Beijing · Fri, 4 Sept 2026
 - Dada Beijing, Beijing · Sat, 8 Aug 2026
@@ -19,10 +20,9 @@ Kai.F is a house and techno artist based in China, with 85 gigs on soundcheck ac
 - OIL Club, Shenzhen · Sat, 11 Jul 2026
 - Groundless Factory, Beijing · Fri, 26 Jun 2026
 - Dada Beijing, Beijing · Fri, 12 Jun 2026
-- Fusion BAR, Beijing · Fri, 1 May 2026
 
 ## Shares bills with
 
 Nigls, SunMeng, Paradice Sinema
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kai.f/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kai.f/)*

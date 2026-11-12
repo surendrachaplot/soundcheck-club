@@ -1,6 +1,6 @@
 # Aster
 
-Aster is a Hip-Hop and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Lion Super Club, Seoul on Sat, 14 Nov 2026.
+Aster is a Hip-Hop and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Lion Super Club, Seoul on Sat, 14 Nov 2026.
 
 Aster is a hip-hop and trance artist based in Spain, with 7 gigs on soundcheck across Miami, New York City, Paris and Seoul and 1 more. Often billed alongside Anna Eberg, CITYSPROBLEM and DJ Try (US). Next up: Lion Super Club, Seoul on Sat 14 Nov.
 
@@ -23,4 +23,4 @@ Aster is a hip-hop and trance artist based in Spain, with 7 gigs on soundcheck a
 
 Anna Eberg, CITYSPROBLEM, DJ Try (US)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aster/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aster/)*

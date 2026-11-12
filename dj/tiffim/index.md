@@ -1,6 +1,6 @@
 # Tiffi M
 
-Tiffi M is a electronic artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at RUST, Copenhagen on Wed, 20 Jan 2027.
+Tiffi M is a electronic artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at RUST, Copenhagen on Wed, 20 Jan 2027.
 
 Tiffi M is an electronic artist based in Sweden, with 5 gigs on soundcheck across Aarhus, Copenhagen and Stockholm. Often billed alongside Josephine Moriko, Melodi Ghazal and Ryong. Next up: RUST, Copenhagen on Wed 20 Jan.
 
@@ -21,4 +21,4 @@ Tiffi M is an electronic artist based in Sweden, with 5 gigs on soundcheck acros
 
 Josephine Moriko, Melodi Ghazal, Ryong
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tiffim/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tiffim/)*

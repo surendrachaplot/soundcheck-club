@@ -1,6 +1,6 @@
 # Richard O'Bryan
 
-Richard O'Bryan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at feedbk, New York City on Wed, 25 Nov 2026.
+Richard O'Bryan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at feedbk, New York City on Wed, 25 Nov 2026.
 
 Richard O'Bryan is a house and techno artist based in United States of America, with 23 gigs on soundcheck across Miami, New York City and Washington DC. Often billed alongside Negk, Nabeel and Auphoria. Next up: feedbk, New York City on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ Richard O'Bryan is a house and techno artist based in United States of America, 
 
 Negk, Nabeel, Auphoria
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/richardobryan/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/richardobryan/)*

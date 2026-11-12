@@ -1,6 +1,6 @@
 # Kyle Hall
 
-Kyle Hall is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Sala Villanos, Madrid on Sat, 12 Dec 2026.
+Kyle Hall is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Sala Villanos, Madrid on Sat, 12 Dec 2026.
 
 Kyle Hall is a house and techno artist based in United States of America, with 102 gigs on soundcheck across Amsterdam, Baltimore, Barcelona and Beijing and 35 more. Often billed alongside Byron The Aquarius, Carl Craig and DJ Holographic. Next up: Sala Villanos, Madrid on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Kyle Hall is a house and techno artist based in United States of America, with 1
 
 Byron The Aquarius, Carl Craig, DJ Holographic
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kylehall/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kylehall/)*

@@ -1,6 +1,6 @@
 # Ana K Miller
 
-Ana K Miller is a Ambient and Downtempo artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Onsite Records, Manchester on Sat, 5 Dec 2026.
+Ana K Miller is a Ambient and Downtempo artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Onsite Records, Manchester on Sat, 5 Dec 2026.
 
 Ana K Miller is an ambient and downtempo artist based in United Kingdom, with 23 gigs on soundcheck across Edinburgh, Glasgow, Leeds and Manchester. Often billed alongside Slacky [Space Ritual], Simon Scott and Allius. Next up: Onsite Records, Manchester on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Ana K Miller is an ambient and downtempo artist based in United Kingdom, with 23
 
 Slacky [Space Ritual], Simon Scott, Allius
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anakmiller/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anakmiller/)*

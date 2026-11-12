@@ -1,6 +1,6 @@
 # Man/Ipulate
 
-Man/Ipulate is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Le Hangar à sucre 12 Rue Urbain V, 13002 Marseille , Marseille on Fri, 11 Dec 2026.
+Man/Ipulate is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Le Hangar à sucre 12 Rue Urbain V, 13002 Marseille , Marseille on Fri, 11 Dec 2026.
 
 Man/Ipulate is a house and techno artist based in France, with 64 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bordeaux and 20 more. Often billed alongside Massaï, LAMALICE and Aline Brooklyn. Next up: TBA - Le Hangar à sucre 12 Rue Urbain V, 13002 Marseille , Marseille on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Man/Ipulate is a house and techno artist based in France, with 64 gigs on soundc
 
 Massaï, LAMALICE, Aline Brooklyn
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manipulate/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manipulate/)*

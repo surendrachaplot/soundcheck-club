@@ -1,8 +1,8 @@
 # Hayley Zalassi
 
-Hayley Zalassi is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Cabaret Voltaire, Edinburgh on Sat, 14 Nov 2026.
+Hayley Zalassi is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Cabaret Voltaire, Edinburgh on Sat, 14 Nov 2026.
 
-Hayley Zalassi is a house and techno artist based in United Kingdom, with 98 gigs on soundcheck across Aberdeen, Amsterdam, Barcelona and Brighton and 14 more. Often billed alongside KILIMANJARO, Big Miz and Danse Atmos. Next up: Cabaret Voltaire, Edinburgh on Sat 14 Nov.
+Hayley Zalassi is a house and techno artist based in United Kingdom, with 99 gigs on soundcheck across Aberdeen, Amsterdam, Barcelona and Brighton and 14 more. Often billed alongside KILIMANJARO, Big Miz and Danse Atmos. Next up: Cabaret Voltaire, Edinburgh on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Hayley Zalassi is a house and techno artist based in United Kingdom, with 98 gig
 | Sat, 14 Nov 2026 | Cabaret Voltaire | Edinburgh |
 | Fri, 20 Nov 2026 | fabric | London |
 | Sat, 5 Dec 2026 | Electric Pizza Shop | Manchester |
+| Sat, 12 Dec 2026 | UNLOCKED | London |
 | Sat, 26 Dec 2026 | People's Leisure Club | Edinburgh |
 
 ## Recently played
@@ -28,4 +29,4 @@ Hayley Zalassi is a house and techno artist based in United Kingdom, with 98 gig
 
 KILIMANJARO, Big Miz, Danse Atmos
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hayleyzalassi/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hayleyzalassi/)*

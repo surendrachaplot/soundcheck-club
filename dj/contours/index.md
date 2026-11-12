@@ -1,6 +1,6 @@
 # Contours
 
-Contours is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Honey Street Studio, Manchester on Sat, 28 Nov 2026.
+Contours is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Honey Street Studio, Manchester on Sat, 28 Nov 2026.
 
 Contours is a deep house and house artist based in United Kingdom, with 25 gigs on soundcheck across Bristol, Manchester, Newcastle and Sheffield. Often billed alongside Yadava, King Kit and Admin. Next up: Honey Street Studio, Manchester on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Contours is a deep house and house artist based in United Kingdom, with 25 gigs 
 
 Yadava, King Kit, Admin
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/contours/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/contours/)*

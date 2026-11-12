@@ -1,6 +1,6 @@
 # Wigwam
 
-Wigwam is a music venue in Dublin with 17 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Estella Boersma at RAW" on Fri, 13 Nov 2026.
+Wigwam is a music venue in Dublin with 17 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Estella Boersma at RAW" on Fri, 13 Nov 2026.
 
 Wigwam is a music venue in Dublin listed on soundcheck. 17 upcoming gigs, with line-ups including Boyd Schidt, Cailín, CULT and DIEBYVEG and 2 more. See dates, start times and who's playing. 54 Abbey Street Middle, North City, Dublin, Ireland.
 
@@ -23,4 +23,4 @@ Wigwam is a music venue in Dublin listed on soundcheck. 17 upcoming gigs, with l
 
 54 Abbey Street Middle, North City, Dublin, Ireland, Dublin
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/wigwam/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/wigwam/)*

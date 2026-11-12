@@ -1,6 +1,6 @@
 # Joris Turenhout
 
-Joris Turenhout is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Akvárium Klub, Budapest on Fri, 4 Dec 2026.
+Joris Turenhout is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Akvárium Klub, Budapest on Fri, 4 Dec 2026.
 
 Joris Turenhout is a techno and house artist based in Netherlands, with 93 gigs on soundcheck across Amsterdam, Antwerp, Athens and Baden W Rttemberg and 22 more. Often billed alongside Albin Brezlan, Azzurro and David Maters. Next up: Akvárium Klub, Budapest on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Joris Turenhout is a techno and house artist based in Netherlands, with 93 gigs 
 
 Albin Brezlan, Azzurro, David Maters
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joristurenhout/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joristurenhout/)*

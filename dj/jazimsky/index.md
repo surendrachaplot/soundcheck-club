@@ -1,6 +1,6 @@
 # JAZ IMSKY
 
-JAZ IMSKY is a Dubstep and Bass artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Outernet Live, London on Sat, 21 Nov 2026.
+JAZ IMSKY is a Dubstep and Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Outernet Live, London on Sat, 21 Nov 2026.
 
 JAZ IMSKY is a dubstep and bass artist based in United Kingdom, with 36 gigs on soundcheck across Barcelona, Brighton, Bristol and Gothenburg and 8 more. Often billed alongside SKALAH (UK), Sir Spyro and Flava D. Next up: Outernet Live, London on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ JAZ IMSKY is a dubstep and bass artist based in United Kingdom, with 36 gigs on 
 
 SKALAH (UK), Sir Spyro, Flava D
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jazimsky/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jazimsky/)*

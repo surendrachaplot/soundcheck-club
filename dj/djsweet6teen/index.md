@@ -1,6 +1,6 @@
 # dj sweet6teen
 
-dj sweet6teen is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Loft, Manchester on Fri, 13 Nov 2026.
+dj sweet6teen is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Loft, Manchester on Fri, 13 Nov 2026.
 
 dj sweet6teen is a house and techno artist based in Germany, with 276 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 59 more. Often billed alongside Angel D'lite, Peach and Sansibar. Next up: The Loft, Manchester on Fri 13 Nov.
 
@@ -36,4 +36,4 @@ dj sweet6teen is a house and techno artist based in Germany, with 276 gigs on so
 
 Angel D'lite, Peach, Sansibar
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsweet6teen/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsweet6teen/)*

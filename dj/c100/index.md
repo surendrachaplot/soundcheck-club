@@ -1,6 +1,6 @@
 # C100
 
-C100 is a Garage and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Chinese Laundry, Sydney on Sat, 14 Nov 2026.
+C100 is a Garage and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Chinese Laundry, Sydney on Sat, 14 Nov 2026.
 
 C100 is a garage and house artist based in Australia, with 13 gigs on soundcheck across Dublin, Manchester, Melbourne and Perth and 1 more. Often billed alongside Charlie Shell, Banno and Becking. Next up: Chinese Laundry, Sydney on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ C100 is a garage and house artist based in Australia, with 13 gigs on soundcheck
 
 Charlie Shell, Banno, Becking
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/c100/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/c100/)*

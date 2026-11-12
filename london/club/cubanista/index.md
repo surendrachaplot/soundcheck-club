@@ -1,6 +1,6 @@
 # Cubanista
 
-Cubanista is a music venue in London with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "Omaya presents Persian Afro House " on Fri, 27 Nov 2026.
+Cubanista is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "Omaya presents Persian Afro House " on Fri, 27 Nov 2026.
 
 Cubanista is a music venue in London listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Cubanista is a music venue in London listed on soundcheck. 1 upcoming gig. See d
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Omaya presents Persian Afro House  |  |
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/cubanista/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/cubanista/)*

@@ -1,6 +1,6 @@
 # Celter
 
-Celter is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Red Bar, Tokyo on Thu, 12 Nov 2026.
+Celter is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Red Bar, Tokyo on Thu, 12 Nov 2026.
 
 Celter is a techno and house artist based in Japan, with 205 gigs on soundcheck across Manila, Osaka, Seoul and Tokyo. Often billed alongside Wada Yosuke, P-YAN and DJ Shibata. Next up: Red Bar, Tokyo on Thu 12 Nov.
 
@@ -26,4 +26,4 @@ Celter is a techno and house artist based in Japan, with 205 gigs on soundcheck 
 
 Wada Yosuke, P-YAN, DJ Shibata
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/celter-2/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/celter-2/)*

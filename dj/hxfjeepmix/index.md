@@ -1,6 +1,6 @@
 # HXF (JEEP MIX)
 
-HXF (JEEP MIX) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Bambi's, Toronto on Sat, 21 Nov 2026.
+HXF (JEEP MIX) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Bambi's, Toronto on Sat, 21 Nov 2026.
 
 HXF (JEEP MIX) is a house and deep house artist based in Canada, with 32 gigs on soundcheck across Toronto. Often billed alongside Tyrone Solomon, Abacus and Basic Soul Unit. Next up: Bambi's, Toronto on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ HXF (JEEP MIX) is a house and deep house artist based in Canada, with 32 gigs on
 
 Tyrone Solomon, Abacus, Basic Soul Unit
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hxfjeepmix/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hxfjeepmix/)*

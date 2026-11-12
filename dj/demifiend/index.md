@@ -1,6 +1,6 @@
 # Demifiend
 
-Demifiend is a Hardcore and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Biltmore Cabaret, Vancouver on Sat, 14 Nov 2026.
+Demifiend is a Hardcore and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Biltmore Cabaret, Vancouver on Sat, 14 Nov 2026.
 
 Demifiend is a hardcore and club artist based in United States of America, with 35 gigs on soundcheck across Atlanta, Austin, Baltimore and Chicago and 10 more. Often billed alongside kittenhouse, Gabberbitch69 and Obi-Wan Shinobi. Next up: Biltmore Cabaret, Vancouver on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Demifiend is a hardcore and club artist based in United States of America, with 
 
 kittenhouse, Gabberbitch69, Obi-Wan Shinobi
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/demifiend/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/demifiend/)*

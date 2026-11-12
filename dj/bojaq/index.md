@@ -1,6 +1,6 @@
 # BOJAQ
 
-BOJAQ is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Jupiter Disco, New York City on Sat, 28 Nov 2026.
+BOJAQ is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Jupiter Disco, New York City on Sat, 28 Nov 2026.
 
 BOJAQ is a techno and house artist based in United States of America, with 29 gigs on soundcheck across New York City. Often billed alongside DJ HOLIDAY, Amen the Producer and cry$cross. Next up: Jupiter Disco, New York City on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ BOJAQ is a techno and house artist based in United States of America, with 29 gi
 
 DJ HOLIDAY, Amen the Producer, cry$cross
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bojaq/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bojaq/)*

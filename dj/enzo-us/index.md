@@ -1,14 +1,15 @@
 # enz.O
 
-enz.O is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Flash, Washington DC on Sat, 14 Nov 2026.
+enz.O is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Flash, Washington DC on Sat, 14 Nov 2026.
 
-enz.O is a house and techno artist based in United States of America, with 81 gigs on soundcheck across New York City and Washington DC. Often billed alongside Ramos, KayLaSoul and Jus Nowhere. Next up: Flash, Washington DC on Sat 14 Nov.
+enz.O is a house and techno artist based in United States of America, with 82 gigs on soundcheck across New York City and Washington DC. Often billed alongside Ramos, KayLaSoul and Jus Nowhere. Next up: Flash, Washington DC on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Flash | Washington DC |
+| Fri, 20 Nov 2026 | El Santo | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ enz.O is a house and techno artist based in United States of America, with 81 gi
 
 Ramos (2), KayLaSoul, Jus Nowhere
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enzo-us/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enzo-us/)*

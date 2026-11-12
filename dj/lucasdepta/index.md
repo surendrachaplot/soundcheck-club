@@ -1,6 +1,6 @@
 # Lucas Depta
 
-Lucas Depta is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Paloma, Berlin on Fri, 11 Dec 2026.
+Lucas Depta is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Paloma, Berlin on Fri, 11 Dec 2026.
 
 Lucas Depta is a house and electro artist based in Germany, with 16 gigs on soundcheck across Berlin, Cologne and Stuttgart. Often billed alongside Violetta (DE), Rødhåd and bb:fm. Next up: Paloma, Berlin on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Lucas Depta is a house and electro artist based in Germany, with 16 gigs on soun
 
 Violetta (DE), Rødhåd, bb:fm
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucasdepta/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucasdepta/)*

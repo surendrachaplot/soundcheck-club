@@ -1,6 +1,6 @@
 # NOQIA
 
-NOQIA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Ministerium Club, Lisbon on Thu, 19 Nov 2026.
+NOQIA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Ministerium Club, Lisbon on Thu, 19 Nov 2026.
 
 NOQIA is a techno and trance artist based in Portugal, with 14 gigs on soundcheck across Lisbon and Vienna. Often billed alongside GADDAM, GTH (FR) and DIMENSION 9. Next up: Ministerium Club, Lisbon on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ NOQIA is a techno and trance artist based in Portugal, with 14 gigs on soundchec
 
 GADDAM, GTH (FR), DIMENSION 9
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noqia/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noqia/)*

@@ -1,8 +1,8 @@
 # Doggy Klœb
 
-Doggy Klœb is a music venue in Malaga with 14 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Undergroove: Arval invites Nekes" on Fri, 13 Nov 2026.
+Doggy Klœb is a music venue in Malaga with 15 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Undergroove: Arval invites Nekes" on Fri, 13 Nov 2026.
 
-Doggy Klœb is a music venue in Malaga listed on soundcheck. 14 upcoming gigs, with line-ups including Andrés Sancho, Annina, Arval and Cecilio and 2 more. See dates, start times and who's playing. C. Casablanca, 13, 29620 Torremolinos, Málaga, Spain.
+Doggy Klœb is a music venue in Malaga listed on soundcheck. 15 upcoming gigs, with line-ups including Andrés Sancho, Annina, aRDe and Arval and 2 more. See dates, start times and who's playing. C. Casablanca, 13, 29620 Torremolinos, Málaga, Spain.
 
 ## What's on
 
@@ -14,8 +14,8 @@ Doggy Klœb is a music venue in Malaga listed on soundcheck. 14 upcoming gigs, w
 | Sat, 21 Nov 2026 | Cultura Club: Rickie + Rvbbio | Rickie (Overground), rubbio |
 | Fri, 27 Nov 2026 | Andres Sancho + Unreal Vibes | Andrés Sancho, Unreal Vibes |
 | Sat, 28 Nov 2026 | NullName Showcase | Fer Sanfer, Noctive, Reisender, Unreal Vibes |
-| Fri, 4 Dec 2026 | UDE Anniversary: 1st Day |  |
-| Sat, 5 Dec 2026 | UDE Anniversary: 2nd Day |  |
+| Fri, 4 Dec 2026 | UDE Anniversary: 1st Day | Radikal Komcept |
+| Sat, 5 Dec 2026 | UDE Anniversary: 2nd Day | Elektrógena, Maria Cue, aRDe |
 | Sun, 6 Dec 2026 | Undergroove: Arval invites Annina | Annina, Arval |
 | Mon, 7 Dec 2026 | Cultura Club: Nitrile Affair - Marian - Paxeko Baretta | Nitrile Affair |
 
@@ -23,4 +23,4 @@ Doggy Klœb is a music venue in Malaga listed on soundcheck. 14 upcoming gigs, w
 
 C. Casablanca, 13, 29620 Torremolinos, Málaga, Spain, Malaga
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/doggy-kl-b/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/doggy-kl-b/)*

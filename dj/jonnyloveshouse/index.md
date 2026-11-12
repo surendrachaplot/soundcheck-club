@@ -1,6 +1,6 @@
 # Jonny Loves House
 
-Jonny Loves House is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at La Gata del Born, Barcelona on Sun, 15 Nov 2026.
+Jonny Loves House is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at La Gata del Born, Barcelona on Sun, 15 Nov 2026.
 
 Jonny Loves House is a house and deep house artist based in United Kingdom, with 16 gigs on soundcheck across Barcelona. Often billed alongside Simon Boulind, HannahLuyah and Better Late. Next up: La Gata del Born, Barcelona on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Jonny Loves House is a house and deep house artist based in United Kingdom, with
 
 Simon Boulind, HannahLuyah, Better Late
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jonnyloveshouse/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jonnyloveshouse/)*

@@ -1,6 +1,6 @@
 # Lo Dazz
 
-Lo Dazz is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Obedient Missionary, Detroit on Fri, 13 Nov 2026.
+Lo Dazz is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Obedient Missionary, Detroit on Fri, 13 Nov 2026.
 
 Lo Dazz is a techno and house artist based in United States of America, with 64 gigs on soundcheck across Boston and Detroit. Often billed alongside Lady Witch, Hardin and Auntie Chanel. Next up: TBA - Obedient Missionary, Detroit on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Lo Dazz is a techno and house artist based in United States of America, with 64 
 
 Lady Witch, Hardin, Auntie Chanel
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lodazz/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lodazz/)*

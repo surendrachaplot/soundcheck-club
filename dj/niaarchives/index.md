@@ -1,14 +1,13 @@
 # Nia Archives
 
-Nia Archives is a Jungle and Drum & Bass artist with 8 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Opera House, Toronto on Wed, 11 Nov 2026.
+Nia Archives is a Jungle and Drum & Bass artist with 7 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Uber Eats Music Hall, Berlin on Tue, 1 Dec 2026.
 
-Nia Archives is a jungle and drum & bass artist based in United Kingdom, with 111 gigs on soundcheck across Amsterdam, Auckland, Bangkok and Barcelona and 35 more. Often billed alongside Overmono, SHERELLE and Oppidan. Next up: Opera House, Toronto on Wed 11 Nov.
+Nia Archives is a jungle and drum & bass artist based in United Kingdom, with 111 gigs on soundcheck across Amsterdam, Auckland, Bangkok and Barcelona and 35 more. Often billed alongside Overmono, SHERELLE and Oppidan. Next up: Uber Eats Music Hall, Berlin on Tue 1 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 11 Nov 2026 | Opera House | Toronto |
 | Tue, 1 Dec 2026 | Uber Eats Music Hall | Berlin |
 | Sat, 5 Dec 2026 | 104 CENTQUATRE | Paris |
 | Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
@@ -19,6 +18,7 @@ Nia Archives is a jungle and drum & bass artist based in United Kingdom, with 11
 
 ## Recently played
 
+- Opera House, Toronto · Wed, 11 Nov 2026
 - Société des arts technologiques, Montreal · Tue, 10 Nov 2026
 - The Regency Ballroom, San Francisco/Oakland · Sun, 8 Nov 2026
 - Brookside at the Rose Bowl, Los Angeles · Sat, 7 Nov 2026
@@ -26,10 +26,9 @@ Nia Archives is a jungle and drum & bass artist based in United Kingdom, with 11
 - Fonda Theatre, Los Angeles · Fri, 6 Nov 2026
 - FS., Tokyo · Fri, 18 Sept 2026
 - Unit, Tokyo · Sat, 12 Sept 2026
-- Saloon, Tokyo · Sat, 12 Sept 2026
 
 ## Shares bills with
 
 Overmono, SHERELLE, Oppidan
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/niaarchives/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/niaarchives/)*

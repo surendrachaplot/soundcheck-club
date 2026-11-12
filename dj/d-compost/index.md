@@ -1,6 +1,6 @@
 # D-Compost
 
-D-Compost is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Santuário, Escadinhas da Praia 5, 1200-869 Lisboa, Portugal, Lisbon on Fri, 27 Nov 2026.
+D-Compost is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Santuário, Escadinhas da Praia 5, 1200-869 Lisboa, Portugal, Lisbon on Fri, 27 Nov 2026.
 
 D-Compost is an afro house and house artist based in Portugal, with 7 gigs on soundcheck across Lisbon and Porto. Often billed alongside Rui Trintaeum, AIKKO and Chima Isaaro. Next up: TBA - Santuário, Escadinhas da Praia 5, 1200-869 Lisboa, Portugal, Lisbon on Fri 27 Nov.
 
@@ -23,4 +23,4 @@ D-Compost is an afro house and house artist based in Portugal, with 7 gigs on so
 
 Rui Trintaeum, AIKKO, Chima Isaaro
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/d-compost/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/d-compost/)*

@@ -1,6 +1,6 @@
 # YPF
 
-YPF is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Blvck Water, Osaka on Sat, 21 Nov 2026.
+YPF is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Blvck Water, Osaka on Sat, 21 Nov 2026.
 
 YPF is a techno and industrial artist based in Japan, with 14 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside TYPE-O RISK SYSTEM, ZAGUN and w (MELTDØWN). Next up: Blvck Water, Osaka on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ YPF is a techno and industrial artist based in Japan, with 14 gigs on soundcheck
 
 TYPE-O RISK SYSTEM, ZAGUN, w (MELTDØWN)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ypf/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ypf/)*

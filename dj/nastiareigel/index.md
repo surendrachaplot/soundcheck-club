@@ -1,6 +1,6 @@
 # Nastia Reigel
 
-Nastia Reigel is a Techno and Electro artist with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at CLUB RAUM, Amsterdam on Sat, 28 Nov 2026.
+Nastia Reigel is a Techno and Electro artist with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at CLUB RAUM, Amsterdam on Sat, 28 Nov 2026.
 
 Nastia Reigel is a techno and electro artist, with 68 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 19 more. Often billed alongside Inox Traxx, Oscar Mulero and Rene Wise. Next up: CLUB RAUM, Amsterdam on Sat 28 Nov.
 
@@ -29,4 +29,4 @@ Nastia Reigel is a techno and electro artist, with 68 gigs on soundcheck across 
 
 Inox Traxx, Oscar Mulero, Rene Wise
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nastiareigel/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nastiareigel/)*

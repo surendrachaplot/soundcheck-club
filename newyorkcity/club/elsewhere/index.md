@@ -1,6 +1,6 @@
 # Elsewhere
 
-Elsewhere is a music venue in New York City with 20 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Cut Copy (dj), ራሄል (Rachel), Disco Bambino, Kristine Barilli, Gravitational" on Fri, 13 Nov 2026.
+Elsewhere is a music venue in New York City with 20 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Cut Copy (dj), ራሄል (Rachel), Disco Bambino, Kristine Barilli, Gravitational" on Fri, 13 Nov 2026.
 
 Elsewhere is a music venue in New York City listed on soundcheck. 20 upcoming gigs, with line-ups including 6 SENSE, Alive Girl, ARMANA KHAN and aya and 2 more. See dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
 
@@ -23,4 +23,4 @@ Elsewhere is a music venue in New York City listed on soundcheck. 20 upcoming gi
 
 599 Johnson Ave, Brooklyn, NY 11237 USA, New York City
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*

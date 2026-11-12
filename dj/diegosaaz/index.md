@@ -1,6 +1,6 @@
 # Diego Saaz
 
-Diego Saaz is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Sr Grill Foro Amberes, Zona Rosa, CDMX, Mexico City on Fri, 11 Dec 2026.
+Diego Saaz is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Sr Grill Foro Amberes, Zona Rosa, CDMX, Mexico City on Fri, 11 Dec 2026.
 
 Diego Saaz is a house and techno artist based in Mexico, with 15 gigs on soundcheck across Mexico City. Often billed alongside YAM YAMS, Geor-G and Alexx Fall. Next up: TBA - Sr Grill Foro Amberes, Zona Rosa, CDMX, Mexico City on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Diego Saaz is a house and techno artist based in Mexico, with 15 gigs on soundch
 
 YAM YAMS, Geor-G, Alexx Fall
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diegosaaz/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diegosaaz/)*

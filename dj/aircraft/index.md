@@ -1,6 +1,6 @@
 # Aircraft
 
-Aircraft is a New Wave and Post-Punk artist with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Sekta Selekta, Krakow on Tue, 24 Nov 2026.
+Aircraft is a New Wave and Post-Punk artist with 7 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Sekta Selekta, Krakow on Tue, 24 Nov 2026.
 
 Aircraft is a new wave and post-punk artist based in Ukraine, with 31 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Frankfurt and 10 more. Often billed alongside Liza Aikin, Philipp Strobel and Raphael Kosmos. Next up: Sekta Selekta, Krakow on Tue 24 Nov.
 
@@ -31,4 +31,4 @@ Aircraft is a new wave and post-punk artist based in Ukraine, with 31 gigs on so
 
 Liza Aikin, Philipp Strobel, Raphael Kosmos
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aircraft/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aircraft/)*

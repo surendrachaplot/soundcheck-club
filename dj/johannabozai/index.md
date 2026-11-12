@@ -1,6 +1,6 @@
 # Johanna Bozai
 
-Johanna Bozai is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Arzenal, Budapest on Sat, 14 Nov 2026.
+Johanna Bozai is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Arzenal, Budapest on Sat, 14 Nov 2026.
 
 Johanna Bozai is a techno and hardcore artist, with 23 gigs on soundcheck across Budapest and Sofia. Often billed alongside ädene, Akác and KALMIKVCS. Next up: Arzenal, Budapest on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Johanna Bozai is a techno and hardcore artist, with 23 gigs on soundcheck across
 
 ädene, Akác, KALMIKVCS
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johannabozai/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johannabozai/)*

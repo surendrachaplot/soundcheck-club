@@ -1,6 +1,6 @@
 # ALIS.
 
-ALIS. is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at 119, Berlin on Fri, 20 Nov 2026.
+ALIS. is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at 119, Berlin on Fri, 20 Nov 2026.
 
 ALIS. is a techno and house artist based in Germany, with 121 gigs on soundcheck across Amsterdam, Antwerp, Basel and Berlin and 23 more. Often billed alongside Cleopard2000, Mika Heggemann and .Cheka. Next up: 119, Berlin on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ ALIS. is a techno and house artist based in Germany, with 121 gigs on soundcheck
 
 Cleopard2000, Mika Heggemann, .Cheka
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alis-de/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alis-de/)*

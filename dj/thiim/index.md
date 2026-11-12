@@ -1,6 +1,6 @@
 # Thiim
 
-Thiim is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - secret location, Barcelona on Fri, 13 Nov 2026.
+Thiim is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - secret location, Barcelona on Fri, 13 Nov 2026.
 
 Thiim is a techno and trance artist based in Denmark, with 14 gigs on soundcheck across Barcelona and Copenhagen. Often billed alongside KAMIKAZEM, Tim Andresen and Mëtro. Next up: TBA - secret location, Barcelona on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Thiim is a techno and trance artist based in Denmark, with 14 gigs on soundcheck
 
 KAMIKAZEM, Tim Andresen, Mëtro
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thiim/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thiim/)*

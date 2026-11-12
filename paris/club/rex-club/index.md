@@ -1,6 +1,6 @@
 # Rex Club
 
-Rex Club is a music venue in Paris with 16 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Shutdown reboost: Rony, Chopsoe Blumhouse, basstrick, Komodo" on Thu, 12 Nov 2026.
+Rex Club is a music venue in Paris with 16 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Shutdown reboost: Rony, Chopsoe Blumhouse, basstrick, Komodo" on Thu, 12 Nov 2026.
 
 Rex Club is a music venue in Paris listed on soundcheck. 16 upcoming gigs, with line-ups including Abr., Avenir, Bakean and Camille Luciani and 2 more. See dates, start times and who's playing. 5 boulevard Poissonnière; 75002; Paris; France.
 
@@ -23,4 +23,4 @@ Rex Club is a music venue in Paris listed on soundcheck. 16 upcoming gigs, with 
 
 5 boulevard Poissonnière; 75002; Paris; France, Paris
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/rex-club/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/rex-club/)*

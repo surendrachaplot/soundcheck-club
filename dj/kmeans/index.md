@@ -1,6 +1,6 @@
 # k means
 
-k means is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Ormside Projects, London on Fri, 27 Nov 2026.
+k means is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Ormside Projects, London on Fri, 27 Nov 2026.
 
 k means is an experimental and techno artist based in Sweden, with 111 gigs on soundcheck across Amsterdam, Berlin, Bristol and Edinburgh and 23 more. Often billed alongside i-sha, Batu and Kode9. Next up: Ormside Projects, London on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ k means is an experimental and techno artist based in Sweden, with 111 gigs on s
 
 i-sha, Batu, Kode9
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kmeans/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kmeans/)*

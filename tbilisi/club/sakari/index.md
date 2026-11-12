@@ -1,6 +1,6 @@
 # Sakari
 
-Sakari is a music venue in Tbilisi with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "MILKYWAY /// PLACIDUSAX" on Fri, 13 Nov 2026.
+Sakari is a music venue in Tbilisi with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "MILKYWAY /// PLACIDUSAX" on Fri, 13 Nov 2026.
 
 Sakari is a music venue in Tbilisi listed on soundcheck. 3 upcoming gigs, with line-ups including Nikala. See dates, start times and who's playing.
 
@@ -12,4 +12,4 @@ Sakari is a music venue in Tbilisi listed on soundcheck. 3 upcoming gigs, with l
 | Sat, 14 Nov 2026 | Live & Electronic music after dark | Nikala |
 | Fri, 20 Nov 2026 | Live music first. Electronic music after dark |  |
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/sakari/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/sakari/)*

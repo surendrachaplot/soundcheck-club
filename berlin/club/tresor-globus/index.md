@@ -1,14 +1,13 @@
 # Tresor / Globus
 
-Tresor / Globus is a music venue in Berlin with 29 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Tresor New Faces hosted by Tresor.West" on Wed, 11 Nov 2026.
+Tresor / Globus is a music venue in Berlin with 28 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Tresor meets DJ Bone: FURTHER" on Fri, 13 Nov 2026.
 
-Tresor / Globus is a music venue in Berlin listed on soundcheck. 29 upcoming gigs, with line-ups including Justine Perry, Morgenstern, Ackermann and Adlas and 2 more. See dates, start times and who's playing. Köpenickerstrasse 70; Mitte; 10179 Berlin; Germany.
+Tresor / Globus is a music venue in Berlin listed on soundcheck. 28 upcoming gigs, with line-ups including Justine Perry, Morgenstern, Ackermann and Adlas and 2 more. See dates, start times and who's playing. Köpenickerstrasse 70; Mitte; 10179 Berlin; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 11 Nov 2026 | Tresor New Faces hosted by Tresor.West | Frontspin, Mariami, Sparkling Water Dreams, ananda priori |
 | Fri, 13 Nov 2026 | Tresor meets DJ Bone: FURTHER | DAIYAH, DJ Bone, LYZA, Mark Williams, Yeti Mind Tricks, madwoman |
 | Sat, 14 Nov 2026 | Tresor Klubnacht | Cecilia Tosh, Hamish & Toby, JAXX TMS, James Ruskin, NEUX, Nat Wendell, UVB |
 | Mon, 16 Nov 2026 | ◥◣SINGULARITY◥◣ | BLACK ANTHEM RESTORE, Mohajer, YONG YING, Yazzus |
@@ -18,9 +17,10 @@ Tresor / Globus is a music venue in Berlin listed on soundcheck. 29 upcoming gig
 | Mon, 23 Nov 2026 | ◥◣SINGULARITY◥◣ | Inverse Element, Keepsakes, Milena Adamis, Sue Lèwig |
 | Wed, 25 Nov 2026 | Tresor New Faces hosted by Lowpass | Enzio Etchaberri, Schwarzmalerei |
 | Fri, 27 Nov 2026 | Tresor meets DJ Stingray 313 | DJ Spit, DJ Stingray 313, Huey Mnemonic, Manni Dee, Nala Brown, Nene H, Viikatory |
+| Sat, 28 Nov 2026 | Tresor invites Surgeon | Beatrice (1), Erika, Ireen Amnes, Lady Starlight, Surgeon, Telephones |
 
 ## Address
 
 Köpenickerstrasse 70; Mitte; 10179 Berlin; Germany, Berlin
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tresor-globus/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tresor-globus/)*

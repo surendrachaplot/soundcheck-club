@@ -1,6 +1,6 @@
 # De Helling
 
-De Helling is a music venue in Utrecht with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Voidborn" on Fri, 13 Nov 2026.
+De Helling is a music venue in Utrecht with 7 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Voidborn" on Fri, 13 Nov 2026.
 
 De Helling is a music venue in Utrecht listed on soundcheck. 7 upcoming gigs, with line-ups including Doppelgang, Kara Okay and NewTone. See dates, start times and who's playing. Helling 7, 3523 CB, Utrecht, Netherlands.
 
@@ -20,4 +20,4 @@ De Helling is a music venue in Utrecht listed on soundcheck. 7 upcoming gigs, wi
 
 Helling 7, 3523 CB, Utrecht, Netherlands, Utrecht
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/de-helling/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/de-helling/)*

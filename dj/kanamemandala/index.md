@@ -1,6 +1,6 @@
 # Kanamemandala
 
-Kanamemandala is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at club asia, Tokyo on Fri, 20 Nov 2026.
+Kanamemandala is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at club asia, Tokyo on Fri, 20 Nov 2026.
 
 Kanamemandala is a techno and trance artist based in Japan, with 14 gigs on soundcheck across Tokyo. Often billed alongside roomquake, Eichi Abe and JUN INAGAWA. Next up: club asia, Tokyo on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Kanamemandala is a techno and trance artist based in Japan, with 14 gigs on soun
 
 roomquake, Eichi Abe, JUN INAGAWA
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kanamemandala/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kanamemandala/)*

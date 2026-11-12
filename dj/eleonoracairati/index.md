@@ -1,6 +1,6 @@
 # Eleonora Cairati
 
-Eleonora Cairati is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Malaga Sin City, Milan on Fri, 13 Nov 2026.
+Eleonora Cairati is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Malaga Sin City, Milan on Fri, 13 Nov 2026.
 
 Eleonora Cairati is a techno and house artist based in United Kingdom, with 16 gigs on soundcheck across Barcelona, Berlin, London and Milan. Often billed alongside Ryan Henry, Thomas Galbardi and Althoff. Next up: Malaga Sin City, Milan on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Eleonora Cairati is a techno and house artist based in United Kingdom, with 16 g
 
 Ryan Henry, Thomas Galbardi, Althoff
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eleonoracairati/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eleonoracairati/)*

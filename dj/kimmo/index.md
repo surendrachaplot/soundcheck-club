@@ -1,6 +1,6 @@
 # KIMMO
 
-KIMMO is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Tanzhaus West, Frankfurt on Thu, 31 Dec 2026.
+KIMMO is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Tanzhaus West, Frankfurt on Thu, 31 Dec 2026.
 
 KIMMO is a drum & bass and techno artist based in Germany, with 19 gigs on soundcheck across Berlin, Cologne, Frankfurt and Hamburg and 2 more. Often billed alongside Lora, Gourski and Seimen Dexter. Next up: Tanzhaus West, Frankfurt on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ KIMMO is a drum & bass and techno artist based in Germany, with 19 gigs on sound
 
 Lora (2), Gourski, Seimen Dexter
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kimmo/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kimmo/)*

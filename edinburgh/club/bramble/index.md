@@ -1,17 +1,18 @@
 # Bramble
 
-Bramble is a music venue in Edinburgh with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. The next is "B Burg" on Sat, 7 Nov 2026.
+Bramble is a music venue in Edinburgh with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Scottieboy" on Fri, 13 Nov 2026.
 
-Bramble is a music venue in Edinburgh listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 16A Queen St, Edinburgh EH2 1JE.
+Bramble is a music venue in Edinburgh listed on soundcheck. 2 upcoming gigs, with line-ups including Scottieboy. See dates, start times and who's playing. 16A Queen St, Edinburgh EH2 1JE.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | B Burg |  |
+| Fri, 13 Nov 2026 | Scottieboy | Scottieboy |
+| Sat, 14 Nov 2026 | Babes |  |
 
 ## Address
 
 16A Queen St, Edinburgh EH2 1JE, Edinburgh
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/bramble/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/bramble/)*

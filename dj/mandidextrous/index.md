@@ -1,6 +1,6 @@
 # Mandidextrous
 
-Mandidextrous is a Drum & Bass and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Cause, London on Fri, 20 Nov 2026.
+Mandidextrous is a Drum & Bass and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Cause, London on Fri, 20 Nov 2026.
 
 Mandidextrous is a drum & bass and techno artist based in United Kingdom, with 96 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Auckland and 36 more. Often billed alongside Samurai Breaks, Camo & Krooked and Fred V. Next up: The Cause, London on Fri 20 Nov.
 
@@ -28,4 +28,4 @@ Mandidextrous is a drum & bass and techno artist based in United Kingdom, with 9
 
 Samurai Breaks, Camo & Krooked, Fred V
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mandidextrous/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mandidextrous/)*

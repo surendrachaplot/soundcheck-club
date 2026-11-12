@@ -1,6 +1,6 @@
 # NDR2 Red Room
 
-NDR2 Red Room is a music venue in London with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Benyayer (Live) + Tania Atyabi + Rainbow Conspiracy" on Fri, 13 Nov 2026.
+NDR2 Red Room is a music venue in London with 7 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Benyayer (Live) + Tania Atyabi + Rainbow Conspiracy" on Fri, 13 Nov 2026.
 
 NDR2 Red Room is a music venue in London listed on soundcheck. 7 upcoming gigs, with line-ups including anne névroses, Benyayer, Givron and Joe Gabbitas and 2 more. See dates, start times and who's playing. 182 Stoke Newington Rd, London N16 7UY.
 
@@ -20,4 +20,4 @@ NDR2 Red Room is a music venue in London listed on soundcheck. 7 upcoming gigs, 
 
 182 Stoke Newington Rd, London N16 7UY, London
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/ndr2-red-room/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/ndr2-red-room/)*

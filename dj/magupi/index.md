@@ -1,6 +1,6 @@
 # Magupi
 
-Magupi is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Pavilhão Carlos Lopes, Lisbon on Sat, 21 Nov 2026.
+Magupi is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Pavilhão Carlos Lopes, Lisbon on Sat, 21 Nov 2026.
 
 Magupi is a house and tech house artist based in Portugal, with 24 gigs on soundcheck across Lisbon and Porto. Often billed alongside Ohxalá, Chima Isaaro and John Woods. Next up: Pavilhão Carlos Lopes, Lisbon on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Magupi is a house and tech house artist based in Portugal, with 24 gigs on sound
 
 Ohxalá, Chima Isaaro, John Woods
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/magupi/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/magupi/)*

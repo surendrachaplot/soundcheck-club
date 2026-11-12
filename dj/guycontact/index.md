@@ -1,6 +1,6 @@
 # Guy Contact
 
-Guy Contact is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Eagle Ridge Event Park, Tallarook, Victoria on Fri, 26 Mar 2027.
+Guy Contact is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Eagle Ridge Event Park, Tallarook, Victoria on Fri, 26 Mar 2027.
 
 Guy Contact is a house and progressive house artist based in Australia, with 59 gigs on soundcheck across Aberdeen, Adelaide, Auckland and Berlin and 11 more. Often billed alongside Solar Suite, DJ Luv You and Headhunters. Next up: TBA - Eagle Ridge Event Park, Tallarook, Victoria on Fri 26 Mar.
 
@@ -25,4 +25,4 @@ Guy Contact is a house and progressive house artist based in Australia, with 59 
 
 Solar Suite, DJ Luv You, Headhunters
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/guycontact/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/guycontact/)*

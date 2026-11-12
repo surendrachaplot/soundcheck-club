@@ -1,6 +1,6 @@
 # Mark William Lewis
 
-Mark William Lewis is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Barbican Hall, London on Sun, 24 Jan 2027.
+Mark William Lewis is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Barbican Hall, London on Sun, 24 Jan 2027.
 
 Mark William Lewis is an electronica and experimental artist based in United Kingdom, with 23 gigs on soundcheck across Berlin, Brussels, Copenhagen and Glasgow and 9 more. Often billed alongside Clarissa Connelly, James Massiah and Mabe Fratti. Next up: The Barbican Hall, London on Sun 24 Jan.
 
@@ -25,4 +25,4 @@ Mark William Lewis is an electronica and experimental artist based in United Kin
 
 Clarissa Connelly, James Massiah, Mabe Fratti
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markwilliamlewis/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markwilliamlewis/)*

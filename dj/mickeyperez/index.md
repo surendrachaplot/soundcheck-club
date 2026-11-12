@@ -1,13 +1,14 @@
 # Mickey Perez
 
-Mickey Perez is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Nowadays, New York City on Sun, 20 Dec 2026.
+Mickey Perez is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Sans Soleil, Montreal on Thu, 19 Nov 2026.
 
-Mickey Perez is a house and disco artist based in United States of America, with 111 gigs on soundcheck across Atlanta, Detroit, Mexico City and Miami and 4 more. Often billed alongside Toribio, Deon Jamar and Guthrie. Next up: Nowadays, New York City on Sun 20 Dec.
+Mickey Perez is a house and disco artist based in United States of America, with 112 gigs on soundcheck across Atlanta, Detroit, Mexico City and Miami and 4 more. Often billed alongside Toribio, Deon Jamar and Guthrie. Next up: Sans Soleil, Montreal on Thu 19 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 19 Nov 2026 | Sans Soleil | Montreal |
 | Sun, 20 Dec 2026 | Nowadays | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ Mickey Perez is a house and disco artist based in United States of America, with
 
 Toribio, Deon Jamar, Guthrie
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mickeyperez/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mickeyperez/)*

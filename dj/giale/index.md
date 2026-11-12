@@ -1,6 +1,6 @@
 # Giale
 
-Giale is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Fri, 27 Nov 2026.
+Giale is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Fri, 27 Nov 2026.
 
 Giale is a techno and electro artist, with 45 gigs on soundcheck across Milan, Naples and Tokyo. Often billed alongside Creamy, Andrewww and Hiroko Hacci. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Giale is a techno and electro artist, with 45 gigs on soundcheck across Milan, N
 
 Creamy, Andrewww, Hiroko Hacci
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giale/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giale/)*

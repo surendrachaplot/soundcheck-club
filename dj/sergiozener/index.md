@@ -1,6 +1,6 @@
 # Sergio Zener
 
-Sergio Zener is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Metrology Studios (Plaza Tepeyac, Zapopan), Guadalajara on Sat, 21 Nov 2026.
+Sergio Zener is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Metrology Studios (Plaza Tepeyac, Zapopan), Guadalajara on Sat, 21 Nov 2026.
 
 Sergio Zener is a house and tech house artist, with 15 gigs on soundcheck across Guadalajara and Mexico City. Next up: TBA - Metrology Studios (Plaza Tepeyac, Zapopan), Guadalajara on Sat 21 Nov.
 
@@ -21,4 +21,4 @@ Sergio Zener is a house and tech house artist, with 15 gigs on soundcheck across
 - Colonia Meadery, Mexico City · Wed, 25 Jun 2025
 - TBA - Play Center, Guadalajara · Sat, 5 Apr 2025
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sergiozener/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sergiozener/)*

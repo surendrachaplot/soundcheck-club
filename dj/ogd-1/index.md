@@ -1,6 +1,6 @@
 # ogd (1)
 
-ogd (1) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Mood Ring, New York City on Thu, 19 Nov 2026.
+ogd (1) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Mood Ring, New York City on Thu, 19 Nov 2026.
 
 ogd is a house and techno artist based in United States of America, with 19 gigs on soundcheck across New York City. Often billed alongside OddwOrld, Connector and WADDLE. Next up: Mood Ring, New York City on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ ogd is a house and techno artist based in United States of America, with 19 gigs
 
 OddwOrld, Connector, WADDLE
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ogd-1/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ogd-1/)*

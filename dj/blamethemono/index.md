@@ -1,6 +1,6 @@
 # Blame The Mono
 
-Blame The Mono is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at E-Werk Kulturzentrum, Nürnberg on Sat, 28 Nov 2026.
+Blame The Mono is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at E-Werk Kulturzentrum, Nürnberg on Sat, 28 Nov 2026.
 
 Blame The Mono is a techno and trance artist, with 71 gigs on soundcheck across Athens, Barcelona, Berlin and Budapest and 26 more. Often billed alongside DLV, DJ Hyperdrive and KTK (DE). Next up: E-Werk Kulturzentrum, Nürnberg on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Blame The Mono is a techno and trance artist, with 71 gigs on soundcheck across 
 
 DLV, DJ Hyperdrive, KTK (DE)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blamethemono/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blamethemono/)*

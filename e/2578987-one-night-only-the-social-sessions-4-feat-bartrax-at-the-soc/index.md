@@ -1,6 +1,6 @@
 # One Night Only - The Social Sessions 4 feat. BarTrax at The Social
 
-One Night Only - The Social Sessions 4 feat. BarTrax on Sat 6 Feb, London. 3 artists: Andy Dunn, Mick Jarmain and Tony Heslop. Balearic and Disco. See the line-up on soundcheck.
+One Night Only - The Social Sessions 4 feat. BarTrax on Sat 6 Feb, London. 3 artists: Andy Dunn, Mick Jarmain and Tony Heslop. Disco and Balearic. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Jimbo James
 
-Jimbo James is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Quartyard, San Diego on Sat, 5 Dec 2026.
+Jimbo James is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Quartyard, San Diego on Sat, 5 Dec 2026.
 
 Jimbo James is a house and deep house artist based in United States of America, with 56 gigs on soundcheck across Los Angeles, Miami, Nashville and New York City and 2 more. Often billed alongside Gian-Paul, Ramin Majlessi and AMIRA. Next up: Quartyard, San Diego on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Jimbo James is a house and deep house artist based in United States of America, 
 
 Gian-Paul, Ramin Majlessi, AMIRA
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jimbojames/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jimbojames/)*

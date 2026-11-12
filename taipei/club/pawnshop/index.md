@@ -1,6 +1,6 @@
 # Pawnshop
 
-Pawnshop is a music venue in Taipei with 15 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Smoke Machine Night: Dr. Rubinstein" on Fri, 13 Nov 2026.
+Pawnshop is a music venue in Taipei with 15 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Smoke Machine Night: Dr. Rubinstein" on Fri, 13 Nov 2026.
 
 Pawnshop is a music venue in Taipei listed on soundcheck. 15 upcoming gigs, with line-ups including LYDO, Al Burro, AP-C and Arthur Robert and 2 more. See dates, start times and who's playing. 279, Section 4, Xinyi Road, Da'an District Taipei City, 106 Taiwan.
 
@@ -23,4 +23,4 @@ Pawnshop is a music venue in Taipei listed on soundcheck. 15 upcoming gigs, with
 
 279, Section 4, Xinyi Road, Da'an District Taipei City, 106 Taiwan, Taipei
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/taipei/club/pawnshop/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/taipei/club/pawnshop/)*

@@ -1,6 +1,6 @@
 # Multifun
 
-Multifun is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Indiego Glocksee, Hannover on Fri, 20 Nov 2026.
+Multifun is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Indiego Glocksee, Hannover on Fri, 20 Nov 2026.
 
 Multifun is a techno and trance artist based in Germany, with 118 gigs on soundcheck across Berlin, Cologne, Dresden and Hamburg and 5 more. Often billed alongside Hanna Baertig, CHOREOPHILA and tamarawrx3. Next up: Indiego Glocksee, Hannover on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Multifun is a techno and trance artist based in Germany, with 118 gigs on soundc
 
 Hanna Baertig, CHOREOPHILA, tamarawrx3
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/multifun/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/multifun/)*

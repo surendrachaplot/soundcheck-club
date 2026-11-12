@@ -1,8 +1,8 @@
 # Club Vinyl
 
-Club Vinyl is a music venue in Denver with 11 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Kyle Starkey & Paige Tomlinson" on Fri, 13 Nov 2026.
+Club Vinyl is a music venue in Denver with 12 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Kyle Starkey & Paige Tomlinson" on Fri, 13 Nov 2026.
 
-Club Vinyl is a music venue in Denver listed on soundcheck. 11 upcoming gigs, with line-ups including Deborah De Luca, Kyle Starkey, Luca Agnelli and Paige Tomlinson. See dates, start times and who's playing. 1082 Broadway; Denver, CO 80203; United States.
+Club Vinyl is a music venue in Denver listed on soundcheck. 12 upcoming gigs, with line-ups including Deborah De Luca, Kyle Starkey, Luca Agnelli and Paige Tomlinson. See dates, start times and who's playing. 1082 Broadway; Denver, CO 80203; United States.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Club Vinyl is a music venue in Denver listed on soundcheck. 11 upcoming gigs, wi
 
 1082 Broadway; Denver, CO 80203; United States, Denver
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/denver/club/club-vinyl/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/denver/club/club-vinyl/)*

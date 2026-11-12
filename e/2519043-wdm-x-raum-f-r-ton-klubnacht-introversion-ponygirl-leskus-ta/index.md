@@ -1,6 +1,6 @@
 # WDM x Raum für Ton Klubnacht: Introversion, Ponygirl, Leskus, Tarkan, DJ Sonnenbrand at WDM
 
-WDM x Raum für Ton Klubnacht: Introversion, Ponygirl, Leskus, Tarkan, DJ Sonnenbrand on Sat 6 Feb, Hannover. 5 artists: DJ Sonnenbrand, Introversion, Leskus and Ponygirl and 1 more. Techno. See the line-up on soundcheck.
+WDM x Raum für Ton Klubnacht: Introversion, Ponygirl, Leskus, Tarkan, DJ Sonnenbrand on Sat 6 Feb, Hannover. 6 artists: co:co, DJ Sonnenbrand, Introversion and Leskus and 2 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ WDM x Raum für Ton Klubnacht: Introversion, Ponygirl, Leskus, Tarkan, DJ Sonnen
 
 ## Line-up
 
+- co:co
 - DJ Sonnenbrand
 - Introversion
 - Leskus

@@ -1,6 +1,6 @@
 # Ivy F
 
-Ivy F is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Dalston Superstore, London on Thu, 12 Nov 2026.
+Ivy F is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Dalston Superstore, London on Thu, 12 Nov 2026.
 
 Ivy F is a house and techno artist based in United Kingdom, with 13 gigs on soundcheck across Amsterdam, London and Manchester. Often billed alongside LO-LOW, Oliver Scala and teleopath. Next up: Dalston Superstore, London on Thu 12 Nov.
 
@@ -27,4 +27,4 @@ Ivy F is a house and techno artist based in United Kingdom, with 13 gigs on soun
 
 LO-LOW, Oliver Scala, teleopath
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ivyf/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ivyf/)*

@@ -1,6 +1,6 @@
 # IMOGEN
 
-IMOGEN is a Techno and Electro artist with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Berkeley Suite, Glasgow on Sat, 21 Nov 2026.
+IMOGEN is a Techno and Electro artist with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Berkeley Suite, Glasgow on Sat, 21 Nov 2026.
 
 IMOGEN is a techno and electro artist based in United Kingdom, with 161 gigs on soundcheck across Amsterdam, Athens, Austin and Bangkok and 52 more. Often billed alongside DJ MELL G, DJ Stingray 313 and Helena Hauff. Next up: The Berkeley Suite, Glasgow on Sat 21 Nov.
 
@@ -29,4 +29,4 @@ IMOGEN is a techno and electro artist based in United Kingdom, with 161 gigs on 
 
 DJ MELL G, DJ Stingray 313, Helena Hauff
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/imogen/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/imogen/)*

@@ -1,6 +1,6 @@
 # Kauz
 
-Kauz is a music venue in Zurich with 10 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "EXPLICIT" on Fri, 13 Nov 2026.
+Kauz is a music venue in Zurich with 10 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "EXPLICIT" on Fri, 13 Nov 2026.
 
 Kauz is a music venue in Zurich listed on soundcheck. 10 upcoming gigs, with line-ups including Alessia Ceruti, Aline (CH), Anthik and Arutani and 2 more. See dates, start times and who's playing. Ausstellungsstrasse 21, Zurich, Switzerland.
 
@@ -23,4 +23,4 @@ Kauz is a music venue in Zurich listed on soundcheck. 10 upcoming gigs, with lin
 
 Ausstellungsstrasse 21, Zurich, Switzerland, Zurich
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/kauz/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/kauz/)*

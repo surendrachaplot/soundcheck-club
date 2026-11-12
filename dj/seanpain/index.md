@@ -1,6 +1,6 @@
 # sean pain
 
-sean pain is a Experimental and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Fylkingen, Stockholm on Fri, 27 Nov 2026.
+sean pain is a Experimental and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Fylkingen, Stockholm on Fri, 27 Nov 2026.
 
 sean pain is an experimental and club artist based in Sweden, with 14 gigs on soundcheck across London, Paris and Stockholm. Often billed alongside Capricorn, Lokey and Josephine Moriko. Next up: Fylkingen, Stockholm on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ sean pain is an experimental and club artist based in Sweden, with 14 gigs on so
 
 Capricorn, Lokey, Josephine Moriko
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seanpain/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seanpain/)*

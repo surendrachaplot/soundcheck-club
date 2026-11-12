@@ -1,6 +1,6 @@
 # Cousin
 
-Cousin is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at MIDNIGHT EAST, Tokyo on Fri, 20 Nov 2026.
+Cousin is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at MIDNIGHT EAST, Tokyo on Fri, 20 Nov 2026.
 
 Cousin is a techno and house artist based in Australia, with 106 gigs on soundcheck across Adelaide, Amsterdam, Athens and Auckland and 28 more. Often billed alongside DJ Fart in the Club, Kia (AU) and D-Grade. Next up: MIDNIGHT EAST, Tokyo on Fri 20 Nov.
 
@@ -28,4 +28,4 @@ Cousin is a techno and house artist based in Australia, with 106 gigs on soundch
 
 DJ Fart in the Club, Kia (AU), D-Grade
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cousin/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cousin/)*

@@ -1,6 +1,6 @@
 # Marika Rossa
 
-Marika Rossa is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Rachdingue, Barcelona on Sat, 14 Nov 2026.
+Marika Rossa is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Rachdingue, Barcelona on Sat, 14 Nov 2026.
 
 Marika Rossa is a techno and industrial artist based in Ukraine, with 35 gigs on soundcheck across Athens, Barcelona, Bavaria and Berlin and 18 more. Often billed alongside Alchemiah, Patrik Berg and Anina Owly. Next up: Rachdingue, Barcelona on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Marika Rossa is a techno and industrial artist based in Ukraine, with 35 gigs on
 
 Alchemiah, Patrik Berg, Anina Owly
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marikarossa/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marikarossa/)*

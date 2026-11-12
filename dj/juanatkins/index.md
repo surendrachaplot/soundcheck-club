@@ -1,6 +1,6 @@
 # Juan Atkins
 
-Juan Atkins is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Art Club, Houston on Sat, 19 Dec 2026.
+Juan Atkins is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Art Club, Houston on Sat, 19 Dec 2026.
 
 Juan Atkins is a techno and house artist based in United States of America, with 79 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 26 more. Often billed alongside Delano Smith, Carl Craig and Blake Baxter. Next up: Art Club, Houston on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Juan Atkins is a techno and house artist based in United States of America, with
 
 Delano Smith, Carl Craig, Blake Baxter
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juanatkins/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juanatkins/)*

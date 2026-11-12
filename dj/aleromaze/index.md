@@ -1,6 +1,6 @@
 # Aleromaze
 
-Aleromaze is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Old Market Hove/Brighton, South-east on Sat, 17 Apr 2027.
+Aleromaze is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Old Market Hove/Brighton, South-east on Sat, 17 Apr 2027.
 
 Aleromaze is a techno and trance artist based in United Kingdom, with 8 gigs on soundcheck across Brighton, London and South East. Often billed alongside Cage, Jack Jeffrey and Lola (UK). Next up: The Old Market Hove/Brighton, South East on Sat 17 Apr.
 
@@ -24,4 +24,4 @@ Aleromaze is a techno and trance artist based in United Kingdom, with 8 gigs on 
 
 Cage (1), Jack Jeffrey, Lola (UK)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aleromaze/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aleromaze/)*

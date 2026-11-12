@@ -1,6 +1,6 @@
 # Ankali & Planeta Za
 
-Ankali & Planeta Za is a music venue in Prague with 11 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "★ BRUXA with LOLSNAKE (Weeeirdos), Nina Farrina, MIKLEI, Madeleine, 3ever, Silhouette, artilerie " on Fri, 13 Nov 2026.
+Ankali & Planeta Za is a music venue in Prague with 11 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "★ BRUXA with LOLSNAKE (Weeeirdos), Nina Farrina, MIKLEI, Madeleine, 3ever, Silhouette, artilerie " on Fri, 13 Nov 2026.
 
 Ankali & Planeta Za is a music venue in Prague listed on soundcheck. 11 upcoming gigs, with line-ups including 3ever, Adelia, artilerie and Arton (CZ) and 2 more. See dates, start times and who's playing. Lopuchová 58/6, Prague, 101 00, Czechia.
 
@@ -23,4 +23,4 @@ Ankali & Planeta Za is a music venue in Prague listed on soundcheck. 11 upcoming
 
 Lopuchová 58/6, Prague, 101 00, Czechia, Prague
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/ankali-planeta-za/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/ankali-planeta-za/)*

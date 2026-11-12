@@ -1,14 +1,15 @@
 # Aldonna
 
-Aldonna is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at M.O.T, London on Fri, 13 Nov 2026.
+Aldonna is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at M.O.T, London on Fri, 13 Nov 2026.
 
-Aldonna is a house and techno artist based in Australia, with 144 gigs on soundcheck across Adelaide, Amsterdam, Bali and Beijing and 31 more. Often billed alongside Tjade, DAWS and D Stone. Next up: M.O.T, London on Fri 13 Nov.
+Aldonna is a house and techno artist based in Australia, with 145 gigs on soundcheck across Adelaide, Amsterdam, Bali and Beijing and 32 more. Often billed alongside Tjade, DAWS and D Stone. Next up: M.O.T, London on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | M.O.T | London |
+| Thu, 31 Dec 2026 | Mojo | Hamburg |
 | Fri, 5 Mar 2027 | Moyston | Melbourne |
 
 ## Recently played
@@ -26,4 +27,4 @@ Aldonna is a house and techno artist based in Australia, with 144 gigs on soundc
 
 Tjade, DAWS, D Stone
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aldonna/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aldonna/)*

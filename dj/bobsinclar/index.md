@@ -1,6 +1,6 @@
 # Bob Sinclar
 
-Bob Sinclar is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Happy Bay Beach, Saint-martin on Wed, 17 Mar 2027.
+Bob Sinclar is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Happy Bay Beach, Saint-martin on Wed, 17 Mar 2027.
 
 Bob Sinclar is a house and electro artist based in France, with 48 gigs on soundcheck across Barcelona, Bordeaux, Chicago and Dubai and 16 more. Often billed alongside DJ Gregory, DJ Yellow and DJ Cam. Next up: Happy Bay Beach, Saint Martin on Wed 17 Mar.
 
@@ -25,4 +25,4 @@ Bob Sinclar is a house and electro artist based in France, with 48 gigs on sound
 
 DJ Gregory, DJ Yellow, DJ Cam
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bobsinclar/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bobsinclar/)*

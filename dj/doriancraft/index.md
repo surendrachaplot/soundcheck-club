@@ -1,6 +1,6 @@
 # Dorian Craft
 
-Dorian Craft is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Kastel, Istanbul on Fri, 13 Nov 2026.
+Dorian Craft is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Kastel, Istanbul on Fri, 13 Nov 2026.
 
 Dorian Craft is a house and afro house artist based in France, with 45 gigs on soundcheck across Amsterdam, Bali, Barcelona and Bogotá and 13 more. Often billed alongside Bedouin, Baron and Birds of Mind. Next up: Kastel, Istanbul on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Dorian Craft is a house and afro house artist based in France, with 45 gigs on s
 
 Bedouin, Baron, Birds of Mind
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doriancraft/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doriancraft/)*

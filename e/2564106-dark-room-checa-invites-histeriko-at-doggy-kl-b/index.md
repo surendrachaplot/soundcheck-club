@@ -1,6 +1,6 @@
 # Dark Room: Checa invites Histeriko at Doggy Klœb
 
-Dark Room: Checa invites Histeriko at Doggy Klœb on Sat 14 Nov, Malaga. 1 artist: Checa. Techno. See the line-up on soundcheck.
+Dark Room: Checa invites Histeriko at Doggy Klœb on Sat 14 Nov, Malaga. 1 artist: Checa. Techno and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

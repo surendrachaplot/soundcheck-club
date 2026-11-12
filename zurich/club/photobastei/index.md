@@ -1,6 +1,6 @@
 # Photobastei
 
-Photobastei is a music venue in Zurich with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "W3 - Electrified Session #15" on Thu, 12 Nov 2026.
+Photobastei is a music venue in Zurich with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "W3 - Electrified Session #15" on Thu, 12 Nov 2026.
 
 Photobastei is a music venue in Zurich listed on soundcheck. 5 upcoming gigs. See dates, start times and who's playing.
 
@@ -14,4 +14,4 @@ Photobastei is a music venue in Zurich listed on soundcheck. 5 upcoming gigs. Se
 | Sat, 28 Nov 2026 | Sleep In |  |
 | Sat, 5 Dec 2026 | Echoes from Venus: Mutual Frequencies |  |
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/photobastei/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/photobastei/)*

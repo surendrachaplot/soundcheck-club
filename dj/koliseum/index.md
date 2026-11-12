@@ -1,6 +1,6 @@
 # Koliseum
 
-Koliseum is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Final, Taipei on Fri, 27 Nov 2026.
+Koliseum is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Final, Taipei on Fri, 27 Nov 2026.
 
 Koliseum is a house and minimal artist based in Taiwan, with 48 gigs on soundcheck across Bangkok, Shenzhen and Taipei. Often billed alongside Klosing, Azrael and HSINN. Next up: Final, Taipei on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Koliseum is a house and minimal artist based in Taiwan, with 48 gigs on soundche
 
 Klosing, Azrael, HSINN
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/koliseum/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/koliseum/)*

@@ -1,6 +1,6 @@
 # Ministry Of Sound
 
-Ministry Of Sound is a music venue in London with 21 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Juany Bravo (MAKE THE GIRLS DANCE), David Tort + SPECIAL GUESTS" on Fri, 13 Nov 2026.
+Ministry Of Sound is a music venue in London with 21 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Juany Bravo (MAKE THE GIRLS DANCE), David Tort + SPECIAL GUESTS" on Fri, 13 Nov 2026.
 
 Ministry Of Sound is a music venue in London listed on soundcheck. 21 upcoming gigs, with line-ups including AARON SEVILLA, Afrobeat, Amber Rose and Amy Cutter and 2 more. See dates, start times and who's playing. 103 Gaunt St, London SE1 6DP.
 
@@ -23,4 +23,4 @@ Ministry Of Sound is a music venue in London listed on soundcheck. 21 upcoming g
 
 103 Gaunt St, London SE1 6DP, London
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/ministry-of-sound/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/ministry-of-sound/)*

@@ -1,6 +1,6 @@
 # Say No More Madrid
 
-Say No More Madrid is a music venue in Madrid with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Noche de las Letras Official After Party x Festival Ñ meets Rebolledo" on Thu, 12 Nov 2026.
+Say No More Madrid is a music venue in Madrid with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Noche de las Letras Official After Party x Festival Ñ meets Rebolledo" on Thu, 12 Nov 2026.
 
 Say No More Madrid is a music venue in Madrid listed on soundcheck. 4 upcoming gigs, with line-ups including Álvaro Naive, Andrea Saba, Daya Dadlani and Foie Gras and 2 more. See dates, start times and who's playing. Gran Vía, 11, Centro, 28013 Madrid.
 
@@ -17,4 +17,4 @@ Say No More Madrid is a music venue in Madrid listed on soundcheck. 4 upcoming g
 
 Gran Vía, 11, Centro, 28013 Madrid, Madrid
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/say-no-more-madrid/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/say-no-more-madrid/)*

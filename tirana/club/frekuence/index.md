@@ -1,6 +1,6 @@
 # Frekuence
 
-Frekuence is a music venue in Tirana with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Frekuence X Paroxysm" on Fri, 13 Nov 2026.
+Frekuence is a music venue in Tirana with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Frekuence X Paroxysm" on Fri, 13 Nov 2026.
 
 Frekuence is a music venue in Tirana listed on soundcheck. 5 upcoming gigs, with line-ups including Avni Leka, DUNISHA, HorD and KRIΣTIΛN and 2 more. See dates, start times and who's playing. Kompleksi Fari, Tirana.
 
@@ -18,4 +18,4 @@ Frekuence is a music venue in Tirana listed on soundcheck. 5 upcoming gigs, with
 
 Kompleksi Fari, Tirana, Tirana
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/tirana/club/frekuence/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/tirana/club/frekuence/)*

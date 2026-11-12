@@ -1,13 +1,14 @@
 # BigFish
 
-BigFish is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Subdeck, Bratislava on Sat, 5 Dec 2026.
+BigFish is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Bar Oriente, Mexico City on Thu, 12 Nov 2026.
 
-BigFish is a house and techno artist based in Slovakia, with 7 gigs on soundcheck across Bratislava and Mexico City. Often billed alongside BBK, Steffen Bennemann and BALI G. Next up: Subdeck, Bratislava on Sat 5 Dec.
+BigFish is a house and techno artist based in Slovakia, with 8 gigs on soundcheck across Bratislava and Mexico City. Often billed alongside BBK, Steffen Bennemann and Renton. Next up: Bar Oriente, Mexico City on Thu 12 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 12 Nov 2026 | Bar Oriente | Mexico City |
 | Sat, 5 Dec 2026 | Subdeck | Bratislava |
 
 ## Recently played
@@ -21,6 +22,6 @@ BigFish is a house and techno artist based in Slovakia, with 7 gigs on soundchec
 
 ## Shares bills with
 
-BBK, Steffen Bennemann, BALI G
+BBK, Steffen Bennemann, Renton
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bigfish/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bigfish/)*

@@ -1,6 +1,6 @@
 # Lush Lab
 
-Lush Lab is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Renate, Berlin on Thu, 31 Dec 2026.
+Lush Lab is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Renate, Berlin on Thu, 31 Dec 2026.
 
 Lush Lab is a techno and house artist based in Brazil, with 24 gigs on soundcheck across Athens, Berlin and Tbilisi. Often billed alongside Desolate Discotheque, Amy Dabbs and Charlie Vaux. Next up: Renate, Berlin on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Lush Lab is a techno and house artist based in Brazil, with 24 gigs on soundchec
 
 Desolate Discotheque, Amy Dabbs, Charlie Vaux
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lushlab/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lushlab/)*

@@ -1,8 +1,8 @@
 # Juliet Mendoza
 
-Juliet Mendoza is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat, 14 Nov 2026.
+Juliet Mendoza is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat, 14 Nov 2026.
 
-Juliet Mendoza is a house and deep house artist based in United States of America, with 114 gigs on soundcheck across Amsterdam, Baltimore, Charlotte and Chicago and 16 more. Often billed alongside Heidi Lawden, DJ Sneak and Masha Mar. Next up: TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat 14 Nov.
+Juliet Mendoza is a house and deep house artist based in United States of America, with 115 gigs on soundcheck across Amsterdam, Baltimore, Charlotte and Chicago and 17 more. Often billed alongside Heidi Lawden, DJ Sneak and Masha Mar. Next up: TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Juliet Mendoza is a house and deep house artist based in United States of Americ
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | TBA - 2341 E Olympic Blvd Los Angeles, CA  90021 | Los Angeles |
 | Fri, 20 Nov 2026 | The Airliner | Los Angeles |
+| Fri, 18 Dec 2026 | The Sonder Bar | Portland |
 | Thu, 31 Dec 2026 | Belasco Theater | Los Angeles |
 
 ## Recently played
@@ -27,4 +28,4 @@ Juliet Mendoza is a house and deep house artist based in United States of Americ
 
 Heidi Lawden, DJ Sneak, Masha Mar
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/julietmendoza/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/julietmendoza/)*

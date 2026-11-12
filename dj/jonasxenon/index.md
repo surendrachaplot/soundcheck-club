@@ -1,6 +1,6 @@
 # Jonas Xenon
 
-Jonas Xenon is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Tresor / Globus, Berlin on Mon, 28 Dec 2026.
+Jonas Xenon is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Tresor / Globus, Berlin on Mon, 28 Dec 2026.
 
 Jonas Xenon is a techno and trance artist based in Germany, with 50 gigs on soundcheck across Beijing, Berlin, Dublin and Edinburgh and 10 more. Often billed alongside Mython, Cecilia Tosh and E2NMN. Next up: Tresor / Globus, Berlin on Mon 28 Dec.
 
@@ -26,4 +26,4 @@ Jonas Xenon is a techno and trance artist based in Germany, with 50 gigs on soun
 
 Mython, Cecilia Tosh, E2NMN
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jonasxenon/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jonasxenon/)*

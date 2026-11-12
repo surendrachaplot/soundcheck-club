@@ -1,6 +1,6 @@
 # feedbk x Discarded Gems with Daura at feedbk
 
-feedbk x Discarded Gems with Daura on Sat 28 Nov, New York City. 3 artists: Ancut, Daura and LemAr. See the line-up on soundcheck.
+feedbk x Discarded Gems with Daura on Sat 28 Nov, New York City. 3 artists: Ancut, Daura and LemAr. Techno and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

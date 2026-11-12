@@ -1,6 +1,6 @@
 # EMILIJA
 
-EMILIJA is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at KALT, Strasbourg on Sat, 14 Nov 2026.
+EMILIJA is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at KALT, Strasbourg on Sat, 14 Nov 2026.
 
 EMILIJA is a techno and trance artist based in Belgium, with 157 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Barcelona and 36 more. Often billed alongside Fenrick, Helena Lauwaert and Odymel. Next up: KALT, Strasbourg on Sat 14 Nov.
 
@@ -29,4 +29,4 @@ EMILIJA is a techno and trance artist based in Belgium, with 157 gigs on soundch
 
 Fenrick, Helena Lauwaert, Odymel
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emilija/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emilija/)*

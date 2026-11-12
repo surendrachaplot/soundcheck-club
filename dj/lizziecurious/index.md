@@ -1,6 +1,6 @@
 # Lizzie Curious
 
-Lizzie Curious is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Steel Yard, London on Thu, 31 Dec 2026.
+Lizzie Curious is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Steel Yard, London on Thu, 31 Dec 2026.
 
 Lizzie Curious is a house and tech house artist based in United Kingdom, with 9 gigs on soundcheck across Brighton, London and Manchester. Often billed alongside Seb Fontaine, Tenacious and 808 State. Next up: The Steel Yard, London on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Lizzie Curious is a house and tech house artist based in United Kingdom, with 9 
 
 Seb Fontaine, Tenacious, 808 State
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lizziecurious/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lizziecurious/)*

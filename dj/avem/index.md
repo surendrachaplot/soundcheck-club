@@ -1,6 +1,6 @@
 # AVEM
 
-AVEM is a Downtempo and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Kauz, Zurich on Fri, 27 Nov 2026.
+AVEM is a Downtempo and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Kauz, Zurich on Fri, 27 Nov 2026.
 
 AVEM is a downtempo and hip-hop artist based in Switzerland, with 49 gigs on soundcheck across Basel, Berlin, Cape Town and Copenhagen and 9 more. Often billed alongside Arutani, Gina Sabatini and Alissa. Next up: Kauz, Zurich on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ AVEM is a downtempo and hip-hop artist based in Switzerland, with 49 gigs on sou
 
 Arutani, Gina Sabatini, Alissa
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avem/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avem/)*

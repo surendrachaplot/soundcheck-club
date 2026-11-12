@@ -1,6 +1,6 @@
 # Klymax Discotheque
 
-Klymax Discotheque is a music venue in Bali with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "OMOLOKO , Seabass" on Fri, 13 Nov 2026.
+Klymax Discotheque is a music venue in Bali with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "OMOLOKO , Seabass" on Fri, 13 Nov 2026.
 
 Klymax Discotheque is a music venue in Bali listed on soundcheck. 3 upcoming gigs, with line-ups including Archie Dennis and OMOLOKO. See dates, start times and who's playing.
 
@@ -12,4 +12,4 @@ Klymax Discotheque is a music venue in Bali listed on soundcheck. 3 upcoming gig
 | Fri, 20 Nov 2026 | Dipha Barus, Archie | Archie Dennis |
 | Fri, 27 Nov 2026 | Cloud of Kouros, Slip D, Unknown Pete |  |
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/bali/club/klymax-discotheque/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/bali/club/klymax-discotheque/)*

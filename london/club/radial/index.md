@@ -1,6 +1,6 @@
 # radial
 
-radial is a music venue in London with 13 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Twinspinsz ˚⟡˖ ࣪ Inafekt, Teecra & Friends" on Fri, 13 Nov 2026.
+radial is a music venue in London with 13 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Twinspinsz ˚⟡˖ ࣪ Inafekt, Teecra & Friends" on Fri, 13 Nov 2026.
 
 radial is a music venue in London listed on soundcheck. 13 upcoming gigs, with line-ups including Adam Curtain, ADHDj (UK), Alien Communications and Amy Cutter and 2 more. See dates, start times and who's playing. 39b Markfield Rd, N154QA, London, United Kingdom.
 
@@ -23,4 +23,4 @@ radial is a music venue in London listed on soundcheck. 13 upcoming gigs, with l
 
 39b Markfield Rd, N154QA, London, United Kingdom, London
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/radial/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/radial/)*

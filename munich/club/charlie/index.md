@@ -1,6 +1,6 @@
 # Charlie
 
-Charlie is a music venue in Munich with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "313 - volume up, pedal down w/ DJ Deep b/w Benny Roeder" on Sat, 14 Nov 2026.
+Charlie is a music venue in Munich with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "313 - volume up, pedal down w/ DJ Deep b/w Benny Roeder" on Sat, 14 Nov 2026.
 
 Charlie is a music venue in Munich listed on soundcheck. 5 upcoming gigs, with line-ups including Benjamin Roeder, DJ Deep, Foreign Affair and Kabasa and 2 more. See dates, start times and who's playing. Schyrenstr.8 , 81543 München, Germany.
 
@@ -18,4 +18,4 @@ Charlie is a music venue in Munich listed on soundcheck. 5 upcoming gigs, with l
 
 Schyrenstr.8 , 81543 München, Germany, Munich
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/charlie/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/charlie/)*

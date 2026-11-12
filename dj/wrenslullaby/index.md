@@ -1,6 +1,6 @@
 # Wren's Lullaby
 
-Wren's Lullaby is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Bossa Nova Civic Club, New York City on Tue, 17 Nov 2026.
+Wren's Lullaby is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Bossa Nova Civic Club, New York City on Tue, 17 Nov 2026.
 
 Wren's Lullaby is a techno and hardcore artist based in United States of America, with 26 gigs on soundcheck across Berlin and New York City. Often billed alongside Megan Rosengarten, TS Julien and SENGA. Next up: Bossa Nova Civic Club, New York City on Tue 17 Nov.
 
@@ -26,4 +26,4 @@ Wren's Lullaby is a techno and hardcore artist based in United States of America
 
 Megan Rosengarten, TS Julien, SENGA
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wrenslullaby/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wrenslullaby/)*

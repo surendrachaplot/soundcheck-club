@@ -1,6 +1,6 @@
 # Kalki
 
-Kalki is a Hardcore and Psytrance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Chinastraat, Ghent on Sat, 28 Nov 2026.
+Kalki is a Hardcore and Psytrance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Chinastraat, Ghent on Sat, 28 Nov 2026.
 
 Kalki is a hardcore and psytrance artist based in France, with 12 gigs on soundcheck across Antwerp, Ghent and Paris. Often billed alongside 23Shayatin, JAEL and Sevenum Six. Next up: Chinastraat, Ghent on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Kalki is a hardcore and psytrance artist based in France, with 12 gigs on soundc
 
 23Shayatin, JAEL, Sevenum Six
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kalki-fr/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kalki-fr/)*

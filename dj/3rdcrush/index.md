@@ -1,6 +1,6 @@
 # 3rdcrush
 
-3rdcrush is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at EXIT Glasgow, Glasgow on Sat, 28 Nov 2026.
+3rdcrush is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at EXIT Glasgow, Glasgow on Sat, 28 Nov 2026.
 
 3rdcrush is a techno and experimental artist based in United Kingdom, with 22 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside spxo, Far Lane and GFA. Next up: EXIT Glasgow, Glasgow on Sat 28 Nov.
 
@@ -26,4 +26,4 @@
 
 spxo, Far Lane, GFA
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/3rdcrush/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/3rdcrush/)*

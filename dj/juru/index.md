@@ -1,6 +1,6 @@
 # Juru
 
-Juru is a House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Ciało, Wroclaw on Fri, 13 Nov 2026.
+Juru is a House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Ciało, Wroclaw on Fri, 13 Nov 2026.
 
 Juru is a house and minimal techno artist based in Poland, with 7 gigs on soundcheck across Basel, Los Angeles, Warsaw and Wroclaw. Often billed alongside Hedonist, Late Night Workout and 6EJOU. Next up: Ciało, Wroclaw on Fri 13 Nov.
 
@@ -23,4 +23,4 @@ Juru is a house and minimal techno artist based in Poland, with 7 gigs on soundc
 
 Hedonist, Late Night Workout, 6EJOU
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juru/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juru/)*

@@ -1,6 +1,6 @@
 # Yobovski
 
-Yobovski is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Hoppetosse, Berlin on Sat, 12 Dec 2026.
+Yobovski is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Hoppetosse, Berlin on Sat, 12 Dec 2026.
 
 Yobovski is a techno and house artist based in Germany, with 20 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Scoopsi, Bonjour Ben and Britta Arnold. Next up: Hoppetosse, Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Yobovski is a techno and house artist based in Germany, with 20 gigs on soundche
 
 Scoopsi, Bonjour Ben, Britta Arnold
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yobovski/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yobovski/)*

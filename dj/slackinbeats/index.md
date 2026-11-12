@@ -1,6 +1,6 @@
 # Slackin Beats
 
-Slackin Beats is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Spy Bar, Stockholm on Fri, 20 Nov 2026.
+Slackin Beats is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Spy Bar, Stockholm on Fri, 20 Nov 2026.
 
 Slackin Beats is a house and breakbeat artist based in Sweden, with 9 gigs on soundcheck across Copenhagen, Malmo and Stockholm. Often billed alongside Prof. Stranger, DJ VV and MA-YO. Next up: Spy Bar, Stockholm on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Slackin Beats is a house and breakbeat artist based in Sweden, with 9 gigs on so
 
 Prof. Stranger, DJ VV, MA-YO
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slackinbeats/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slackinbeats/)*

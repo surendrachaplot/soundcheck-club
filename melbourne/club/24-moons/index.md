@@ -1,6 +1,6 @@
 # 24 Moons
 
-24 Moons is a music venue in Melbourne with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "ZONE 33 PRESENTS: BERLIN RAVE [MELBOURNE]" on Fri, 13 Nov 2026.
+24 Moons is a music venue in Melbourne with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "ZONE 33 PRESENTS: BERLIN RAVE [MELBOURNE]" on Fri, 13 Nov 2026.
 
 24 Moons is a music venue in Melbourne listed on soundcheck. 2 upcoming gigs, with line-ups including ONARSÉ, SPOILT and WISER. See dates, start times and who's playing. 2 Arthurton Rd, Northcote 3070 VIC, Australia.
 
@@ -15,4 +15,4 @@
 
 2 Arthurton Rd, Northcote 3070 VIC, Australia, Melbourne
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/24-moons/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/24-moons/)*

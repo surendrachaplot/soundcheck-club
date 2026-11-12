@@ -1,6 +1,6 @@
 # Silent Green
 
-Silent Green is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Yasuaki Shimizu + Merma Suelo " on Fri, 13 Nov 2026.
+Silent Green is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Yasuaki Shimizu + Merma Suelo " on Fri, 13 Nov 2026.
 
 Silent Green is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with line-ups including Abdullah Miniawy, Babak Ahteshamipour, CONTAGIOUS and Dis Fig and 2 more. See dates, start times and who's playing. Gerichtstraße 35, 13347 Berlin, Germany.
 
@@ -23,4 +23,4 @@ Silent Green is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, 
 
 Gerichtstraße 35, 13347 Berlin, Germany, Berlin
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/silent-green/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/silent-green/)*

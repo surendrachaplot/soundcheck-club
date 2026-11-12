@@ -1,6 +1,6 @@
 # Max Le Louche
 
-Max Le Louche is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The 212 Café & Bar, Leeds on Fri, 13 Nov 2026.
+Max Le Louche is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The 212 Café & Bar, Leeds on Fri, 13 Nov 2026.
 
 Max Le Louche is a house and tech house artist based in Netherlands, with 40 gigs on soundcheck across Amsterdam, Brussels, Leeds and London and 1 more. Often billed alongside Pete Melba, Roya Brehl and BP. Next up: The 212 Café & Bar, Leeds on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Max Le Louche is a house and tech house artist based in Netherlands, with 40 gig
 
 Pete Melba, Roya Brehl, BP (1)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxlelouche/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxlelouche/)*

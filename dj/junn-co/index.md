@@ -1,6 +1,6 @@
 # Junn
 
-Junn is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at De Sering, Amsterdam on Fri, 20 Nov 2026.
+Junn is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at De Sering, Amsterdam on Fri, 20 Nov 2026.
 
 Junn is a techno and house artist based in Colombia, with 30 gigs on soundcheck across Amsterdam, Bogotá, Medellin and Mexico City. Often billed alongside Surfer Rosa, Niebla and Ritornelo. Next up: De Sering, Amsterdam on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Junn is a techno and house artist based in Colombia, with 30 gigs on soundcheck 
 
 Surfer Rosa, Niebla, Ritornelo
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/junn-co/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/junn-co/)*

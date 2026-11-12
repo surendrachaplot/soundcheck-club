@@ -1,6 +1,6 @@
 # BAUGRUPPE90
 
-BAUGRUPPE90 is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Berkeley Suite, Glasgow on Thu, 12 Nov 2026.
+BAUGRUPPE90 is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Berkeley Suite, Glasgow on Thu, 12 Nov 2026.
 
 BAUGRUPPE90 is a techno and house artist based in Germany, with 189 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Antwerp and 61 more. Often billed alongside EliaHaze, ferrari rot and Anton Jonathan. Next up: The Berkeley Suite, Glasgow on Thu 12 Nov.
 
@@ -31,4 +31,4 @@ BAUGRUPPE90 is a techno and house artist based in Germany, with 189 gigs on soun
 
 EliaHaze, ferrari rot, Anton Jonathan
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baugruppe90/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baugruppe90/)*

@@ -1,6 +1,6 @@
 # Mistikvibe
 
-Mistikvibe is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Bajo Mundo, Mexico City on Fri, 4 Dec 2026.
+Mistikvibe is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Bajo Mundo, Mexico City on Fri, 4 Dec 2026.
 
 Mistikvibe is a techno and trance artist based in Mexico, with 7 gigs on soundcheck across Guadalajara and Mexico City. Often billed alongside Cabe, Ramiel II and Praqqa. Next up: Bajo Mundo, Mexico City on Fri 4 Dec.
 
@@ -23,4 +23,4 @@ Mistikvibe is a techno and trance artist based in Mexico, with 7 gigs on soundch
 
 Cabe, Ramiel II, Praqqa
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mistikvibe/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mistikvibe/)*

@@ -1,6 +1,6 @@
 # Jimbo (MX)
 
-Jimbo (MX) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Radio 28, Puebla on Sat, 14 Nov 2026.
+Jimbo (MX) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Radio 28, Puebla on Sat, 14 Nov 2026.
 
 Jimbo (MX) is a house and electro artist based in Mexico, with 22 gigs on soundcheck across Denver, Guadalajara, Madrid and Malta and 5 more. Often billed alongside Jeny Michelle, CAMILLA and Diego Walle. Next up: Radio 28, Puebla on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Jimbo (MX) is a house and electro artist based in Mexico, with 22 gigs on soundc
 
 Jeny Michelle, CAMILLA, Diego Walle
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jimbomx/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jimbomx/)*

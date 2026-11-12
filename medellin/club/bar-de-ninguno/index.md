@@ -1,6 +1,6 @@
 # Bar de Ninguno
 
-Bar de Ninguno is a music venue in Medellin with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "M.A.L.A. Extended" on Sun, 31 Jan 2027.
+Bar de Ninguno is a music venue in Medellin with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "M.A.L.A. Extended" on Sun, 31 Jan 2027.
 
 Bar de Ninguno is a music venue in Medellin listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Bar de Ninguno is a music venue in Medellin listed on soundcheck. 1 upcoming gig
 | --- | --- | --- |
 | Sun, 31 Jan 2027 | M.A.L.A. Extended |  |
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/medellin/club/bar-de-ninguno/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/medellin/club/bar-de-ninguno/)*

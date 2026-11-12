@@ -1,6 +1,6 @@
 # Dj Soleil
 
-Dj Soleil is a Electro and Afro House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Illegaal, Brussels on Sat, 14 Nov 2026.
+Dj Soleil is a Electro and Afro House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Illegaal, Brussels on Sat, 14 Nov 2026.
 
 Dj Soleil is an electro and afro house artist based in Belgium, with 10 gigs on soundcheck across Brussels. Often billed alongside Rafael Aragon, Kitoko and Sarah Abd Ali. Next up: Illegaal, Brussels on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Dj Soleil is an electro and afro house artist based in Belgium, with 10 gigs on 
 
 Rafael Aragon, Kitoko, Sarah Abd Ali
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsoleil/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsoleil/)*

@@ -1,6 +1,6 @@
 # Ternion Sound
 
-Ternion Sound is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Alternity, Toronto on Fri, 18 Dec 2026.
+Ternion Sound is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Alternity, Toronto on Fri, 18 Dec 2026.
 
 Ternion Sound is a dubstep and bass artist based in United States of America, with 25 gigs on soundcheck across Adelaide, Amsterdam, Brisbane and Chicago and 13 more. Often billed alongside Main Phase, 4am Kru and Alec Sander. Next up: Alternity, Toronto on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Ternion Sound is a dubstep and bass artist based in United States of America, wi
 
 Main Phase, 4am Kru, Alec Sander
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ternionsound/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ternionsound/)*

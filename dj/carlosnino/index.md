@@ -1,6 +1,6 @@
 # Carlos Niño
 
-Carlos Niño is a Experimental and Jazz artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Private Loft, New York City on Thu, 14 Jan 2027.
+Carlos Niño is a Experimental and Jazz artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Private Loft, New York City on Thu, 14 Jan 2027.
 
 Carlos Niño is an experimental and jazz artist based in United States of America, with 22 gigs on soundcheck across Berlin, Brussels, Los Angeles and Melbourne and 3 more. Often billed alongside Justin Carter, Colloboh and Matthewdavid. Next up: TBA - Private Loft, New York City on Thu 14 Jan.
 
@@ -25,4 +25,4 @@ Carlos Niño is an experimental and jazz artist based in United States of Americ
 
 Justin Carter, Colloboh, Matthewdavid
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosnino/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosnino/)*

@@ -1,14 +1,15 @@
 # Upper90
 
-Upper90 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Das Zimmer, Mannheim on Sat, 14 Nov 2026.
+Upper90 is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Das Zimmer, Mannheim on Sat, 14 Nov 2026.
 
-Upper90 is a techno and trance artist based in Australia, with 142 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Barcelona and 40 more. Often billed alongside Janis Zielinski, Bad Boombox and Butschi. Next up: Das Zimmer, Mannheim on Sat 14 Nov.
+Upper90 is a techno and trance artist based in Australia, with 143 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Barcelona and 40 more. Often billed alongside Janis Zielinski, Bad Boombox and Butschi. Next up: Das Zimmer, Mannheim on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Das Zimmer | Mannheim |
+| Thu, 31 Dec 2026 | Mojo | Hamburg |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Upper90 is a techno and trance artist based in Australia, with 142 gigs on sound
 
 Janis Zielinski, Bad Boombox, Butschi
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/upper90/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/upper90/)*

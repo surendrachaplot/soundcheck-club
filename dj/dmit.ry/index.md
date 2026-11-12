@@ -1,6 +1,6 @@
 # dMIT.RY
 
-dMIT.RY is a Club and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Groove Bar, Prague on Thu, 12 Nov 2026.
+dMIT.RY is a Club and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Groove Bar, Prague on Thu, 12 Nov 2026.
 
 dMIT.RY is a club and house artist based in Czech Republic, with 109 gigs on soundcheck across Prague. Often billed alongside Kredenc, Chep and Olinstvi. Next up: Groove Bar, Prague on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ dMIT.RY is a club and house artist based in Czech Republic, with 109 gigs on sou
 
 Kredenc, Chep, Olinstvi
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dmit.ry/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dmit.ry/)*

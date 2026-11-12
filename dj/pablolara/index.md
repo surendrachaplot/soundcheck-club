@@ -1,6 +1,6 @@
 # Pablo Lara
 
-Pablo Lara is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Republik Club, Madrid on Fri, 13 Nov 2026.
+Pablo Lara is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Republik Club, Madrid on Fri, 13 Nov 2026.
 
 Pablo Lara is a techno and house artist based in Mexico, with 71 gigs on soundcheck across Madrid and Mexico City. Often billed alongside Eliel Capa, Enya Botello and Portugal. Next up: Republik Club, Madrid on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Pablo Lara is a techno and house artist based in Mexico, with 71 gigs on soundch
 
 Eliel Capa, Enya Botello, Portugal
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pablolara/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pablolara/)*

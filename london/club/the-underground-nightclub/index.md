@@ -1,6 +1,6 @@
 # The Underground Nightclub
 
-The Underground Nightclub is a music venue in London with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Starkers (naked rave)" on Fri, 4 Dec 2026.
+The Underground Nightclub is a music venue in London with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Starkers (naked rave)" on Fri, 4 Dec 2026.
 
 The Underground Nightclub is a music venue in London listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 37 Wharfdale Road, Islington, N1 9SD, UK.
 
@@ -15,4 +15,4 @@ The Underground Nightclub is a music venue in London listed on soundcheck. 2 upc
 
 37 Wharfdale Road, Islington, N1 9SD, UK, London
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-underground-nightclub/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-underground-nightclub/)*

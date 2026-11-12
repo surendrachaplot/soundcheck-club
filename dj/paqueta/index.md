@@ -1,6 +1,6 @@
 # Paqueta
 
-Paqueta is a Downtempo and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Süss War Gestern, Berlin on Thu, 12 Nov 2026.
+Paqueta is a Downtempo and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Süss War Gestern, Berlin on Thu, 12 Nov 2026.
 
 Paqueta is a downtempo and tech house artist based in Germany, with 18 gigs on soundcheck across Antwerp, Berlin and Hamburg. Often billed alongside KBLZ, Cleos and Dora Dox. Next up: Süss War Gestern, Berlin on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Paqueta is a downtempo and tech house artist based in Germany, with 18 gigs on s
 
 KBLZ, Cleos, Dora Dox
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paqueta/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paqueta/)*

@@ -1,6 +1,6 @@
 # MC Gusto
 
-MC Gusto is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Black Box, Denver on Fri, 18 Dec 2026.
+MC Gusto is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Black Box, Denver on Fri, 18 Dec 2026.
 
 MC Gusto is a drum & bass and jungle artist based in United Kingdom, with 34 gigs on soundcheck across Amsterdam, Brighton, Bristol and Denver and 8 more. Often billed alongside DLR, Minor Forms and Kublai. Next up: The Black Box, Denver on Fri 18 Dec.
 
@@ -26,4 +26,4 @@ MC Gusto is a drum & bass and jungle artist based in United Kingdom, with 34 gig
 
 DLR, Minor Forms, Kublai
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mcgusto/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mcgusto/)*

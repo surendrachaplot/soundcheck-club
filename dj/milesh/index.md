@@ -1,6 +1,6 @@
 # Milesh
 
-Milesh is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Low Key Records, Sofia on Thu, 12 Nov 2026.
+Milesh is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Low Key Records, Sofia on Thu, 12 Nov 2026.
 
 Milesh is a house and minimal artist, with 17 gigs on soundcheck across Sofia. Often billed alongside Vetomir, Algorithm and Raya. Next up: Low Key Records, Sofia on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Milesh is a house and minimal artist, with 17 gigs on soundcheck across Sofia. O
 
 Vetomir, Algorithm, Raya (2)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milesh/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milesh/)*

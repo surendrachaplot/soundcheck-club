@@ -1,6 +1,6 @@
 # GTI
 
-GTI is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Kater, Berlin on Sat, 21 Nov 2026.
+GTI is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Kater, Berlin on Sat, 21 Nov 2026.
 
 GTI is a techno and house artist based in France, with 67 gigs on soundcheck across Berlin, Bordeaux, Copenhagen and Lyon and 6 more. Often billed alongside Combe, Soyoon and Bambi (FR). Next up: Kater, Berlin on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ GTI is a techno and house artist based in France, with 67 gigs on soundcheck acr
 
 Combe, Soyoon, Bambi (FR)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gti/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gti/)*

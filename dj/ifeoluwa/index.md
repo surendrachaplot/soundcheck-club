@@ -1,6 +1,6 @@
 # Ifeoluwa
 
-Ifeoluwa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at M.O.T, London on Fri, 18 Dec 2026.
+Ifeoluwa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at M.O.T, London on Fri, 18 Dec 2026.
 
 Ifeoluwa is a techno and house artist based in Belgium, with 19 gigs on soundcheck across Berlin, Brighton, Bristol and London and 2 more. Often billed alongside Tash LC, Alex Kassian and Amaliah. Next up: M.O.T, London on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Ifeoluwa is a techno and house artist based in Belgium, with 19 gigs on soundche
 
 Tash LC, Alex Kassian, Amaliah
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ifeoluwa/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ifeoluwa/)*

@@ -1,6 +1,6 @@
 # Paige Tomlinson
 
-Paige Tomlinson is a House and Techno artist with 17 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
+Paige Tomlinson is a House and Techno artist with 17 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
 
 Paige Tomlinson is a house and techno artist based in United Kingdom, with 177 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 42 more. Often billed alongside Prunk, Kyle Starkey and L.P. Rhythm. Next up: The Concourse Project, Austin on Fri 13 Nov.
 
@@ -36,4 +36,4 @@ Paige Tomlinson is a house and techno artist based in United Kingdom, with 177 g
 
 Prunk, Kyle Starkey, L.P. Rhythm
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paigetomlinson/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paigetomlinson/)*

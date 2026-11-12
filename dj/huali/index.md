@@ -1,6 +1,6 @@
 # Hua Li 化力
 
-Hua Li 化力 is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Entre Nous, Montreal on Sun, 15 Nov 2026.
+Hua Li 化力 is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Entre Nous, Montreal on Sun, 15 Nov 2026.
 
 Hua Li 化力 is a house and hip-hop artist based in Canada, with 12 gigs on soundcheck across Montreal and Toronto. Often billed alongside Janette King, Amos Don and Cadence Weapon. Next up: Entre Nous, Montreal on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Hua Li 化力 is a house and hip-hop artist based in Canada, with 12 gigs on sou
 
 Janette King, Amos Don, Cadence Weapon
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/huali/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/huali/)*

@@ -1,6 +1,6 @@
 # Kenny Glasgow
 
-Kenny Glasgow is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Wiggle Room, Toronto on Sun, 15 Nov 2026.
+Kenny Glasgow is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Wiggle Room, Toronto on Sun, 15 Nov 2026.
 
 Kenny Glasgow is a house and tech house artist based in Canada, with 79 gigs on soundcheck across London, Los Angeles, Miami and New York City and 2 more. Often billed alongside RUDEE NIK, Yogi and Manzone & Strong. Next up: Wiggle Room, Toronto on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Kenny Glasgow is a house and tech house artist based in Canada, with 79 gigs on 
 
 RUDEE NIK, Yogi, Manzone & Strong
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kennyglasgow/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kennyglasgow/)*

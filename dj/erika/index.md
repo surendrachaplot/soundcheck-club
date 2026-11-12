@@ -1,6 +1,6 @@
 # Erika
 
-Erika is a Techno and Acid artist with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Secret spot, London on Fri, 13 Nov 2026.
+Erika is a Techno and Acid artist with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Secret spot, London on Fri, 13 Nov 2026.
 
 Erika is a techno and acid artist, with 128 gigs on soundcheck across Amsterdam, Baltimore, Beijing and Berlin and 29 more. Often billed alongside BMG, Mike Servito and Derek Plaslaiko. Next up: TBA - Secret spot, London on Fri 13 Nov.
 
@@ -29,4 +29,4 @@ Erika is a techno and acid artist, with 128 gigs on soundcheck across Amsterdam,
 
 BMG, Mike Servito, Derek Plaslaiko
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erika/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erika/)*

@@ -1,6 +1,6 @@
 # Ro Duarte
 
-Ro Duarte is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at DEX, Moscow on Fri, 11 Dec 2026.
+Ro Duarte is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at DEX, Moscow on Fri, 11 Dec 2026.
 
 Ro Duarte is a techno and industrial artist based in Uruguay, with 25 gigs on soundcheck across Barcelona, Berlin, Krakow and Lisbon and 9 more. Often billed alongside BELCEBÚ, Chain Damage and JAWS. Next up: DEX, Moscow on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Ro Duarte is a techno and industrial artist based in Uruguay, with 25 gigs on so
 
 BELCEBÚ, Chain Damage, JAWS
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roduarte/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roduarte/)*

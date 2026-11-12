@@ -1,6 +1,6 @@
 # Serge Devant
 
-Serge Devant is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Mad Radio Miami, Miami on Sat, 14 Nov 2026.
+Serge Devant is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Mad Radio Miami, Miami on Sat, 14 Nov 2026.
 
 Serge Devant is a house and tech house artist based in United States of America, with 56 gigs on soundcheck across Amsterdam, Bali, Bogotá and Cyprus and 13 more. Often billed alongside Jamie Jones, Joseph Capriati and Lauren Lane. Next up: Mad Radio Miami, Miami on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Serge Devant is a house and tech house artist based in United States of America,
 
 Jamie Jones, Joseph Capriati, Lauren Lane
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sergedevant/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sergedevant/)*

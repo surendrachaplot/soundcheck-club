@@ -1,6 +1,6 @@
 # Wesley Wise
 
-Wesley Wise is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Tbili Orgia, Tbilisi on Sun, 22 Nov 2026.
+Wesley Wise is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Tbili Orgia, Tbilisi on Sun, 22 Nov 2026.
 
 Wesley Wise is an electro and techno artist based in Georgia, with 73 gigs on soundcheck across Berlin and Tbilisi. Often billed alongside Sportsmanship, Dali (GE) and Esi (De Re). Next up: Tbili Orgia, Tbilisi on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ Wesley Wise is an electro and techno artist based in Georgia, with 73 gigs on so
 
 Sportsmanship, Dali (GE), Esi (De Re)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wesleywise/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wesleywise/)*

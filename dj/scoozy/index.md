@@ -1,6 +1,6 @@
 # Scoozy
 
-Scoozy is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Südpol, Hamburg on Fri, 20 Nov 2026.
+Scoozy is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Südpol, Hamburg on Fri, 20 Nov 2026.
 
 Scoozy is a house and techno artist based in Germany, with 10 gigs on soundcheck across Berlin, Hamburg and Hannover. Often billed alongside 5euroGoldi, DJ Business and MATHILDA. Next up: Südpol, Hamburg on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Scoozy is a house and techno artist based in Germany, with 10 gigs on soundcheck
 
 5euroGoldi, DJ Business (2), MATHILDA (2)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scoozy/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scoozy/)*

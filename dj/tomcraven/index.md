@@ -1,6 +1,6 @@
 # Tom Craven
 
-Tom Craven is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Event is at Club Collette, Midlands on Sat, 14 Nov 2026.
+Tom Craven is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Event is at Club Collette, Midlands on Sat, 14 Nov 2026.
 
 Tom Craven is a house and deep house artist based in United Kingdom, with 17 gigs on soundcheck across Birmingham, Leeds, Lisbon and Manchester and 1 more. Often billed alongside Shez, Lopaski and Peter Glasspool. Next up: TBA - Event is at Club Collette, Midlands on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Tom Craven is a house and deep house artist based in United Kingdom, with 17 gig
 
 Shez, Lopaski, Peter Glasspool
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomcraven/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomcraven/)*

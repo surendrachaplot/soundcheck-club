@@ -1,6 +1,6 @@
 # Timo Maas
 
-Timo Maas is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Esbirra Ibiza, Ibiza on Sat, 28 Nov 2026.
+Timo Maas is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Esbirra Ibiza, Ibiza on Sat, 28 Nov 2026.
 
 Timo Maas is a house and techno artist based in Germany, with 60 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 27 more. Often billed alongside Francesco Mami, Costax and Frankie Flowerz. Next up: Esbirra Ibiza, Ibiza on Sat 28 Nov.
 
@@ -14,6 +14,7 @@ Timo Maas is a house and techno artist based in Germany, with 60 gigs on soundch
 
 ## Recently played
 
+- Sol y Luna Lounge & Club, Düsseldorf · Wed, 11 Nov 2026
 - Panama, Amsterdam · Fri, 23 Oct 2026
 - Escape, Amsterdam · Wed, 21 Oct 2026
 - KitKatClub, Berlin · Mon, 7 Sept 2026
@@ -21,10 +22,9 @@ Timo Maas is a house and techno artist based in Germany, with 60 gigs on soundch
 - TBA - Straße des 17. Juni & Großer Stern, Berlin · Sat, 15 Aug 2026
 - TBA - Straße des 17. Juni & Großer Stern, Berlin · Sat, 15 Aug 2026
 - Esbirra Ibiza, Ibiza · Sat, 8 Aug 2026
-- 528 Ibiza, Ibiza · Sat, 25 Jul 2026
 
 ## Shares bills with
 
 Francesco Mami, Costax, Frankie Flowerz
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/timomaas/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/timomaas/)*

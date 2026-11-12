@@ -1,6 +1,6 @@
 # glimmer
 
-glimmer is a music venue in Hamburg with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "glimmer glubnacht with Arman John & Bae Blade" on Fri, 13 Nov 2026.
+glimmer is a music venue in Hamburg with 7 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "glimmer glubnacht with Arman John & Bae Blade" on Fri, 13 Nov 2026.
 
 glimmer is a music venue in Hamburg listed on soundcheck. 7 upcoming gigs, with line-ups including Antonym, Arman John, Bae Blade and Barbaros and 2 more. See dates, start times and who's playing. Stockmeyerstraße 43, 20457 Hamburg, Germany.
 
@@ -20,4 +20,4 @@ glimmer is a music venue in Hamburg listed on soundcheck. 7 upcoming gigs, with 
 
 Stockmeyerstraße 43, 20457 Hamburg, Germany, Hamburg
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/glimmer/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/glimmer/)*

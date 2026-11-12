@@ -1,6 +1,6 @@
 # Ophidian
 
-Ophidian is a Hardcore and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Mia Mao, Paris on Fri, 11 Dec 2026.
+Ophidian is a Hardcore and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Mia Mao, Paris on Fri, 11 Dec 2026.
 
 Ophidian is a hardcore and techno artist based in Netherlands, with 31 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 10 more. Often billed alongside Drokz, Korsakoff and Akira. Next up: Mia Mao, Paris on Fri 11 Dec.
 
@@ -27,4 +27,4 @@ Ophidian is a hardcore and techno artist based in Netherlands, with 31 gigs on s
 
 Drokz, Korsakoff, Akira
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ophidian/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ophidian/)*

@@ -1,6 +1,6 @@
 # Alibi
 
-Alibi is a music venue in Rome with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "One Night" on Thu, 12 Nov 2026.
+Alibi is a music venue in Rome with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "One Night" on Thu, 12 Nov 2026.
 
 Alibi is a music venue in Rome listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Alibi is a music venue in Rome listed on soundcheck. 1 upcoming gig. See dates, 
 | --- | --- | --- |
 | Thu, 12 Nov 2026 | One Night |  |
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/rome/club/alibi/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/rome/club/alibi/)*

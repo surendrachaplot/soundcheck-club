@@ -1,6 +1,6 @@
 # Mimi
 
-Mimi is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Mali Barbarellas, Croatia on Fri, 27 Nov 2026.
+Mimi is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Mali Barbarellas, Croatia on Fri, 27 Nov 2026.
 
 Mimi is a techno and electronica artist based in Croatia, with 74 gigs on soundcheck across Athens, Basel, Belgrade and Brighton and 18 more. Often billed alongside DJ Labud, JOVE and schwabe. Next up: Mali Barbarellas, Croatia on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Mimi is a techno and electronica artist based in Croatia, with 74 gigs on soundc
 
 DJ Labud, JOVE, schwabe
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mimi/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mimi/)*

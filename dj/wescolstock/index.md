@@ -1,6 +1,6 @@
 # Wes Colstock
 
-Wes Colstock is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Club Colette, Birmingham on Fri, 18 Dec 2026.
+Wes Colstock is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Club Colette, Birmingham on Fri, 18 Dec 2026.
 
 Wes Colstock is a tech house and deep house artist, with 13 gigs on soundcheck across Barcelona, Birmingham, Ibiza and London and 1 more. Often billed alongside Brandon Barrett, Brandon Tourle and Junn (UK). Next up: Club Colette, Birmingham on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Wes Colstock is a tech house and deep house artist, with 13 gigs on soundcheck a
 
 Brandon Barrett, Brandon Tourle, Junn (UK)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wescolstock/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wescolstock/)*

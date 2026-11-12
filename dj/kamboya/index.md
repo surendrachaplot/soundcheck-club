@@ -1,6 +1,6 @@
 # Kamboya
 
-Kamboya is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Muller Bar, Madrid on Sat, 14 Nov 2026.
+Kamboya is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Muller Bar, Madrid on Sat, 14 Nov 2026.
 
 Kamboya is a house and disco artist based in Spain, with 102 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Sarcophago, lebollet and Alvaro Cabana. Next up: Muller Bar, Madrid on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Kamboya is a house and disco artist based in Spain, with 102 gigs on soundcheck 
 
 Sarcophago, lebollet, Alvaro Cabana
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kamboya/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kamboya/)*

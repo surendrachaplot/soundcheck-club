@@ -1,6 +1,6 @@
 # Sepp
 
-Sepp is a Minimal and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Grand Hotel Bucharest, Bucharest on Sat, 14 Nov 2026.
+Sepp is a Minimal and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Grand Hotel Bucharest, Bucharest on Sat, 14 Nov 2026.
 
 Sepp is a minimal and house artist based in Romania, with 123 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 40 more. Often billed alongside Nu Zau, Arapu and Traumer. Next up: Grand Hotel Bucharest, Bucharest on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Sepp is a minimal and house artist based in Romania, with 123 gigs on soundcheck
 
 Nu Zau, Arapu, Traumer
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sepp/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sepp/)*

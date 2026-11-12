@@ -1,6 +1,6 @@
 # Christian AB
 
-Christian AB is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Supermarket, Zurich on Sat, 14 Nov 2026.
+Christian AB is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Supermarket, Zurich on Sat, 14 Nov 2026.
 
 Christian AB is a techno and house artist based in United Kingdom, with 46 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 24 more. Often billed alongside Christian AB, Francesco Del Garda and Ogazón. Next up: Supermarket, Zurich on Sat 14 Nov.
 
@@ -33,4 +33,4 @@ Christian AB is a techno and house artist based in United Kingdom, with 46 gigs 
 
 Christian AB, Francesco Del Garda, Ogazón
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/christianab/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/christianab/)*

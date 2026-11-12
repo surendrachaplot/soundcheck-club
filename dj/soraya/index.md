@@ -1,6 +1,6 @@
 # Soraya
 
-Soraya is a House and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Golden Pudel Club, Hamburg on Sun, 29 Nov 2026.
+Soraya is a House and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Golden Pudel Club, Hamburg on Sun, 29 Nov 2026.
 
 Soraya is a house and reggaeton artist based in Netherlands, with 8 gigs on soundcheck across Amsterdam, Berlin, Hamburg and Los Angeles and 3 more. Often billed alongside Ardalan, Blaq PAGES and Cardo. Next up: Golden Pudel Club, Hamburg on Sun 29 Nov.
 
@@ -24,4 +24,4 @@ Soraya is a house and reggaeton artist based in Netherlands, with 8 gigs on soun
 
 Ardalan, Blaq PAGES, Cardo
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soraya/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soraya/)*

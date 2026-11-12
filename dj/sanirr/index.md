@@ -1,6 +1,6 @@
 # SANIRR
 
-SANIRR is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Bridge 48, Barcelona on Fri, 20 Nov 2026.
+SANIRR is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Bridge 48, Barcelona on Fri, 20 Nov 2026.
 
 SANIRR is a progressive house and house artist based in Spain, with 11 gigs on soundcheck across Barcelona. Often billed alongside GUS PICCO, Santi Gonzalez and Agustin Ficarra. Next up: Bridge 48, Barcelona on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ SANIRR is a progressive house and house artist based in Spain, with 11 gigs on s
 
 GUS PICCO, Santi Gonzalez, Agustin Ficarra
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sanirr/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sanirr/)*

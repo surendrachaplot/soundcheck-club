@@ -1,6 +1,6 @@
 # Lil'Dave
 
-Lil'Dave is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Playhaus, Krakow on Fri, 27 Nov 2026.
+Lil'Dave is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Playhaus, Krakow on Fri, 27 Nov 2026.
 
 Lil'Dave is a house and electro artist based in Germany, with 42 gigs on soundcheck across Barcelona, Berlin, Krakow and London and 1 more. Often billed alongside Nadezh No, Meke and Badalian. Next up: Playhaus, Krakow on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Lil'Dave is a house and electro artist based in Germany, with 42 gigs on soundch
 
 Nadezh No, Meke, Badalian
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lildave/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lildave/)*

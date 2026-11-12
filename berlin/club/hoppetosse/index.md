@@ -1,8 +1,8 @@
 # Hoppetosse
 
-Hoppetosse is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "MovetoneWax & N.o.N Music presents Andrei Ciubuc & Robin Ordell" on Fri, 13 Nov 2026.
+Hoppetosse is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "MovetoneWax & N.o.N Music presents Andrei Ciubuc & Robin Ordell" on Fri, 13 Nov 2026.
 
-Hoppetosse is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line-ups including 3RDV, Adolpho & Franky, Andrei Ciubuc and Annina and 2 more. See dates, start times and who's playing. Eichenstrasse 4; Treptow; 12435 Berlin; Germany.
+Hoppetosse is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with line-ups including 3RDV, Adolpho & Franky, Andrei Ciubuc and Annina and 2 more. See dates, start times and who's playing. Eichenstrasse 4; Treptow; 12435 Berlin; Germany.
 
 ## What's on
 
@@ -17,10 +17,10 @@ Hoppetosse is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, wi
 | Fri, 4 Dec 2026 | Focal Point x Bizarre Trax | B.Love, Felon5, Jade Seatle, Matthew Dexter |
 | Sat, 5 Dec 2026 | Pager Records | Klix (DE), Markus Sommer, Rayya, Thilini, Tom Ries |
 | Sat, 12 Dec 2026 | Sekt&Brezeln presents Still Sparkling Vol.III | ATTA (GER), Annina, Ele Luz, Elli Altenberger, Fast (DE), Konfusia, Leon Licht, Memo., Scoopsi, Yobovski, unDs |
-| Sun, 13 Dec 2026 | ♡ Sound Metaphors 11th Anniversary ♡ | Sound Metaphors Djs |
+| Sat, 12 Dec 2026 | the Coven | Dea (6), Free Zing, Gabriel Rai, Oliver Moon, Penelope (2) |
 
 ## Address
 
 Eichenstrasse 4; Treptow; 12435 Berlin; Germany, Berlin
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/hoppetosse/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/hoppetosse/)*

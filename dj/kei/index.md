@@ -1,6 +1,6 @@
 # KEi
 
-KEi is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
+KEi is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
 
 KEi is a techno and house artist based in Bulgaria, with 36 gigs on soundcheck across Osaka, Seoul, Sofia and South Korea and 1 more. Often billed alongside Gumbo, 35DH-1 and Adroit Joe. Next up: TBA - Jacks Bar, South Korea on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ KEi is a techno and house artist based in Bulgaria, with 36 gigs on soundcheck a
 
 Gumbo, 35DH-1, Adroit Joe
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kei/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kei/)*

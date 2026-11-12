@@ -1,6 +1,6 @@
 # Hovercat
 
-Hovercat is a Jungle and Dubstep artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Drugstore im Rockhaus, Berlin on Fri, 13 Nov 2026.
+Hovercat is a Jungle and Dubstep artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Drugstore im Rockhaus, Berlin on Fri, 13 Nov 2026.
 
 Hovercat is a jungle and dubstep artist, with 30 gigs on soundcheck across Berlin. Often billed alongside Agem, CP4C and Plugin Ears. Next up: Drugstore im Rockhaus, Berlin on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Hovercat is a jungle and dubstep artist, with 30 gigs on soundcheck across Berli
 
 Agem, CP4C, Plugin Ears
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hovercat/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hovercat/)*

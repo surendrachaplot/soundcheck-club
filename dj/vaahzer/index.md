@@ -1,6 +1,6 @@
 # Vaahzer
 
-Vaahzer is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA, Berlin on Sun, 6 Dec 2026.
+Vaahzer is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA, Berlin on Sun, 6 Dec 2026.
 
 Vaahzer is a techno and house artist based in Germany, with 53 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Frankfurt and 15 more. Often billed alongside Vlada, Max Vaahs and Marcolino. Next up: TBA, Berlin on Sun 6 Dec.
 
@@ -25,4 +25,4 @@ Vaahzer is a techno and house artist based in Germany, with 53 gigs on soundchec
 
 Vlada, Max Vaahs, Marcolino
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vaahzer/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vaahzer/)*

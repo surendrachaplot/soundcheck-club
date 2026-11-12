@@ -1,8 +1,8 @@
 # Makèz
 
-Makèz is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Sacré, Paris on Fri, 20 Nov 2026.
+Makèz is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Sacré, Paris on Fri, 20 Nov 2026.
 
-Makèz is a house and disco artist based in Netherlands, with 85 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Chicago and 20 more. Often billed alongside ANOTR, Dan Shake and MiNNA. Next up: Sacré, Paris on Fri 20 Nov.
+Makèz is a house and tech house artist based in Netherlands, with 86 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Chicago and 20 more. Often billed alongside ANOTR, Dan Shake and MiNNA. Next up: Sacré, Paris on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Makèz is a house and disco artist based in Netherlands, with 85 gigs on soundch
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Sacré | Paris |
 | Sat, 21 Nov 2026 | KOKO | London |
+| Sat, 12 Dec 2026 | UNLOCKED | London |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Makèz is a house and disco artist based in Netherlands, with 85 gigs on soundch
 
 ANOTR, Dan Shake, MiNNA
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/makez/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/makez/)*

@@ -1,6 +1,6 @@
 # Yadava
 
-Yadava is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at renae, Manchester on Fri, 11 Dec 2026.
+Yadava is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at renae, Manchester on Fri, 11 Dec 2026.
 
 Yadava is a disco and house artist based in United Kingdom, with 31 gigs on soundcheck across Manchester and Rotterdam. Often billed alongside Danuka, Admin and Contours. Next up: renae, Manchester on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Yadava is a disco and house artist based in United Kingdom, with 31 gigs on soun
 
 Danuka, Admin, Contours
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yadava/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yadava/)*

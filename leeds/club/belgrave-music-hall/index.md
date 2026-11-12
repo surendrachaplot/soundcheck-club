@@ -1,6 +1,6 @@
 # Belgrave Music Hall
 
-Belgrave Music Hall is a music venue in Leeds with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Children of Zeus" on Thu, 12 Nov 2026.
+Belgrave Music Hall is a music venue in Leeds with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Children of Zeus" on Thu, 12 Nov 2026.
 
 Belgrave Music Hall is a music venue in Leeds listed on soundcheck. 5 upcoming gigs, with line-ups including O'Flynn and Two Shell. See dates, start times and who's playing. 1-1A Cross Belgrave Street, LS2 8JP Leeds.
 
@@ -18,4 +18,4 @@ Belgrave Music Hall is a music venue in Leeds listed on soundcheck. 5 upcoming g
 
 1-1A Cross Belgrave Street, LS2 8JP Leeds, Leeds
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/belgrave-music-hall/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/belgrave-music-hall/)*

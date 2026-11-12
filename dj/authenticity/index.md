@@ -1,6 +1,6 @@
 # Authenticity
 
-Authenticity is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at 1015 Folsom, San Francisco/Oakland on Fri, 13 Nov 2026.
+Authenticity is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at 1015 Folsom, San Francisco/Oakland on Fri, 13 Nov 2026.
 
 Authenticity is a house and tech house artist based in United States of America, with 6 gigs on soundcheck across Los Angeles, Orange County and San Francisco/Oakland. Often billed alongside Mode Leeloo, Adamant (IT) and Adrenaline. Next up: 1015 Folsom, San Francisco/Oakland on Fri 13 Nov.
 
@@ -22,4 +22,4 @@ Authenticity is a house and tech house artist based in United States of America,
 
 Mode Leeloo, Adamant (IT), Adrenaline
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/authenticity/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/authenticity/)*

@@ -1,6 +1,6 @@
 # niwei1117
 
-niwei1117 is a House and Jazz artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Pawnshop, Taipei on Fri, 13 Nov 2026.
+niwei1117 is a House and Jazz artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Pawnshop, Taipei on Fri, 13 Nov 2026.
 
 niwei1117 is a house and jazz artist based in Taiwan, with 15 gigs on soundcheck across Taipei. Often billed alongside Umbra, Diskonnected and Kerena. Next up: Pawnshop, Taipei on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ niwei1117 is a house and jazz artist based in Taiwan, with 15 gigs on soundcheck
 
 Umbra (2), Diskonnected, Kerena
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/niwei1117/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/niwei1117/)*

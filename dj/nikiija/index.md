@@ -1,6 +1,6 @@
 # Nikiija
 
-Nikiija is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Fundbureau, Hamburg on Fri, 20 Nov 2026.
+Nikiija is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Fundbureau, Hamburg on Fri, 20 Nov 2026.
 
 Nikiija is a techno and house artist, with 57 gigs on soundcheck across Hamburg and Prague. Often billed alongside Randali, NO.MADS and VABU. Next up: Fundbureau, Hamburg on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Nikiija is a techno and house artist, with 57 gigs on soundcheck across Hamburg 
 
 Randali, NO.MADS, VABU
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nikiija/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nikiija/)*

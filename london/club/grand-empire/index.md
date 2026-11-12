@@ -1,6 +1,6 @@
 # Grand Empire
 
-Grand Empire is a music venue in London with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "Grand Empire New Years Eve" on Thu, 31 Dec 2026.
+Grand Empire is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "Grand Empire New Years Eve" on Thu, 31 Dec 2026.
 
 Grand Empire is a music venue in London listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 108-110 Rushey Grn, London SE6 4HW.
 
@@ -14,4 +14,4 @@ Grand Empire is a music venue in London listed on soundcheck. 1 upcoming gig. Se
 
 108-110 Rushey Grn, London SE6 4HW, London
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/grand-empire/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/grand-empire/)*

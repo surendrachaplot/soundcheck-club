@@ -1,6 +1,6 @@
 # JAViii
 
-JAViii is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Kingdom Nightclub, Austin on Thu, 10 Dec 2026.
+JAViii is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Kingdom Nightclub, Austin on Thu, 10 Dec 2026.
 
 JAViii is a house and acid artist based in United States of America, with 37 gigs on soundcheck across Austin and Houston. Often billed alongside Purple Matter, Brett Johnson and The Electric Pearl. Next up: Kingdom Nightclub, Austin on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ JAViii is a house and acid artist based in United States of America, with 37 gig
 
 Purple Matter, Brett Johnson, The Electric Pearl
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/javiii/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/javiii/)*

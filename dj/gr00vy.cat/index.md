@@ -1,6 +1,6 @@
 # gr00vy.cat
 
-gr00vy.cat is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Yes, Manchester on Sat, 28 Nov 2026.
+gr00vy.cat is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Yes, Manchester on Sat, 28 Nov 2026.
 
 gr00vy.cat is a house and garage artist based in United Kingdom, with 19 gigs on soundcheck across Manchester. Often billed alongside Jumbled, krioso and Macy Lancaster. Next up: Yes, Manchester on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ gr00vy.cat is a house and garage artist based in United Kingdom, with 19 gigs on
 
 Jumbled, krioso, Macy Lancaster
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gr00vy.cat/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gr00vy.cat/)*

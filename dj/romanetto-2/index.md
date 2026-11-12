@@ -1,6 +1,6 @@
 # Romanetto
 
-Romanetto is a Techno and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Pygmalion, Dublin on Fri, 13 Nov 2026.
+Romanetto is a Techno and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Pygmalion, Dublin on Fri, 13 Nov 2026.
 
 Romanetto is a techno and afro house artist based in Ireland, with 92 gigs on soundcheck across Barcelona, Budapest and Dublin. Often billed alongside Phil Bass, Not Related and Ascalon. Next up: Pygmalion, Dublin on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Romanetto is a techno and afro house artist based in Ireland, with 92 gigs on so
 
 Phil Bass, Not Related, Ascalon
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/romanetto-2/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/romanetto-2/)*

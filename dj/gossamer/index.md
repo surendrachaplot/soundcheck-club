@@ -1,6 +1,6 @@
 # Gossamer
 
-Gossamer is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Gateway, Minneapolis/St Paul on Sat, 14 Nov 2026.
+Gossamer is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Gateway, Minneapolis/St Paul on Sat, 14 Nov 2026.
 
 Gossamer is a house and funk / soul artist, with 12 gigs on soundcheck across Detroit, Minneapolis/St Paul and New York City. Often billed alongside Petal, allducksrock and LTE. Next up: TBA - Gateway, Minneapolis/St Paul on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Gossamer is a house and funk / soul artist, with 12 gigs on soundcheck across De
 
 Petal, allducksrock, LTE (1)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gossamer/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gossamer/)*

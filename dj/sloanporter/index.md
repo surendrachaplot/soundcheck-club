@@ -1,6 +1,6 @@
 # Sloan Porter
 
-Sloan Porter is a Dubstep and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA, Toronto on Sat, 28 Nov 2026.
+Sloan Porter is a Dubstep and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA, Toronto on Sat, 28 Nov 2026.
 
 Sloan Porter is a dubstep and drum & bass artist based in Canada, with 3 gigs on soundcheck across Montreal and Toronto. Often billed alongside Adami, FlowHer and Gremlinz. Next up: TBA, Toronto on Sat 28 Nov.
 
@@ -19,4 +19,4 @@ Sloan Porter is a dubstep and drum & bass artist based in Canada, with 3 gigs on
 
 Adami, FlowHer, Gremlinz
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sloanporter/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sloanporter/)*

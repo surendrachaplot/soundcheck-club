@@ -1,6 +1,6 @@
 # Avalon Cafe Bermondsey
 
-Avalon Cafe Bermondsey is a music venue in London with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Kinetic Sounds Records x ThisWayUp. in aid of 999 Club Charity" on Sat, 14 Nov 2026.
+Avalon Cafe Bermondsey is a music venue in London with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Kinetic Sounds Records x ThisWayUp. in aid of 999 Club Charity" on Sat, 14 Nov 2026.
 
 Avalon Cafe Bermondsey is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including BobbyG, ETHICS, Francis Luca and Hector. and 2 more. See dates, start times and who's playing. Unit D, Industrial Estate, Juno Way, London SE14 5RW, United Kingdom.
 
@@ -18,4 +18,4 @@ Avalon Cafe Bermondsey is a music venue in London listed on soundcheck. 5 upcomi
 
 Unit D, Industrial Estate, Juno Way, London SE14 5RW, United Kingdom, London
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/avalon-cafe-bermondsey/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/avalon-cafe-bermondsey/)*

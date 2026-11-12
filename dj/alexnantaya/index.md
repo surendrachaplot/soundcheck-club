@@ -1,13 +1,14 @@
 # Alex Nantaya
 
-Alex Nantaya is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Zoo, Geneva on Fri, 18 Dec 2026.
+Alex Nantaya is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Casino de Montbenon, Lausanne on Fri, 20 Nov 2026.
 
-Alex Nantaya is a techno and electro artist based in Switzerland, with 89 gigs on soundcheck across Bangkok, Basel, Beijing and Berlin and 13 more. Often billed alongside Gioski, Bours? and Doma. Next up: Zoo, Geneva on Fri 18 Dec.
+Alex Nantaya is a techno and electro artist based in Switzerland, with 90 gigs on soundcheck across Bangkok, Basel, Beijing and Berlin and 13 more. Often billed alongside Gioski, Bours? and Doma. Next up: Casino de Montbenon, Lausanne on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | Casino de Montbenon | Lausanne |
 | Fri, 18 Dec 2026 | Zoo | Geneva |
 | Thu, 31 Dec 2026 | TBA - Secret Place | Paris |
 
@@ -26,4 +27,4 @@ Alex Nantaya is a techno and electro artist based in Switzerland, with 89 gigs o
 
 Gioski, Bours?, Doma
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexnantaya/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexnantaya/)*

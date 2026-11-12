@@ -1,6 +1,6 @@
 # D8V!
 
-D8V! is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at 99 Regent Street, London on Thu, 19 Nov 2026.
+D8V! is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at 99 Regent Street, London on Thu, 19 Nov 2026.
 
 D8V! is an afro house and house artist based in China, with 9 gigs on soundcheck across London, Madrid and Rome. Often billed alongside HAZ (GB), LOKI and PEI Z. Next up: 99 Regent Street, London on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ D8V! is an afro house and house artist based in China, with 9 gigs on soundcheck
 
 HAZ (GB), LOKI (3), PEI Z
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/d8v!/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/d8v!/)*

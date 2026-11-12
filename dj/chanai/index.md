@@ -1,6 +1,6 @@
 # chanai
 
-chanai is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Sat, 28 Nov 2026.
+chanai is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Sat, 28 Nov 2026.
 
 chanai is a techno and bass artist based in Japan, with 24 gigs on soundcheck across Tokyo. Often billed alongside Pokaska, Shimon Taka and Ogasawara. Next up: UTOPIA / DYSTOPIA, Tokyo on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ chanai is a techno and bass artist based in Japan, with 24 gigs on soundcheck ac
 
 Pokaska, Shimon Taka, Ogasawara
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chanai/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chanai/)*

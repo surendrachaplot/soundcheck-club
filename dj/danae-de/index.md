@@ -1,6 +1,6 @@
 # Danae
 
-Danae is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Bunker, Turin on Sat, 14 Nov 2026.
+Danae is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Bunker, Turin on Sat, 14 Nov 2026.
 
 Danae is a techno and house artist based in Chile, with 13 gigs on soundcheck across Berlin, Bologna, Florence and Mexico City and 4 more. Often billed alongside Munir Nadir, Alex Dima and DONALD - BIIG_DONNY. Next up: Bunker, Turin on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Danae is a techno and house artist based in Chile, with 13 gigs on soundcheck ac
 
 Munir Nadir, Alex Dima, DONALD - BIIG_DONNY
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danae-de/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danae-de/)*

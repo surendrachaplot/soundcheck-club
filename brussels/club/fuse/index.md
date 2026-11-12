@@ -1,6 +1,6 @@
 # Fuse
 
-Fuse is a music venue in Brussels with 16 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Fuse presents: Polyamor w/ davyboi & Cara Elizabeth" on Fri, 13 Nov 2026.
+Fuse is a music venue in Brussels with 16 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Fuse presents: Polyamor w/ davyboi & Cara Elizabeth" on Fri, 13 Nov 2026.
 
 Fuse is a music venue in Brussels listed on soundcheck. 16 upcoming gigs, with line-ups including AEREA, Alarico, Alba Franch and Altinbas and 2 more. See dates, start times and who's playing. Blaesstraat 208, 1000 Brussel, Belgium.
 
@@ -23,4 +23,4 @@ Fuse is a music venue in Brussels listed on soundcheck. 16 upcoming gigs, with l
 
 Blaesstraat 208, 1000 Brussel, Belgium, Brussels
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/fuse/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/fuse/)*

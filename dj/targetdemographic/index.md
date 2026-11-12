@@ -1,6 +1,6 @@
 # Target Demographic
 
-Target Demographic is a House and Garage artist with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Casa Babylon, Argentina on Sat, 21 Nov 2026.
+Target Demographic is a House and Garage artist with 7 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Casa Babylon, Argentina on Sat, 21 Nov 2026.
 
 Target Demographic is a house and garage artist based in United States of America, with 29 gigs on soundcheck across Amsterdam, Argentina, Athens and Barcelona and 16 more. Often billed alongside Shaolin Cowboy, Pijus and DJ WINDOWS 7. Next up: Casa Babylon, Argentina on Sat 21 Nov.
 
@@ -31,4 +31,4 @@ Target Demographic is a house and garage artist based in United States of Americ
 
 Shaolin Cowboy, Pijus, DJ WINDOWS 7
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/targetdemographic/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/targetdemographic/)*

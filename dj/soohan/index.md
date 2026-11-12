@@ -1,6 +1,6 @@
 # Soohan
 
-Soohan is a Bass and Ambient artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Metro Baltimore, Baltimore on Sat, 26 Dec 2026.
+Soohan is a Bass and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Metro Baltimore, Baltimore on Sat, 26 Dec 2026.
 
 Soohan is a bass and ambient artist, with 7 gigs on soundcheck across Baltimore, Los Angeles, San Diego and San Francisco/Oakland and 1 more. Often billed alongside Anton Tumas, DA NA and DJ Dan. Next up: Metro Baltimore, Baltimore on Sat 26 Dec.
 
@@ -23,4 +23,4 @@ Soohan is a bass and ambient artist, with 7 gigs on soundcheck across Baltimore,
 
 Anton Tumas, DA NA, DJ Dan
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soohan/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soohan/)*

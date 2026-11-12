@@ -1,6 +1,6 @@
 # Kid Fonque
 
-Kid Fonque is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Hearty Collective, Cape Town on Sat, 14 Nov 2026.
+Kid Fonque is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Hearty Collective, Cape Town on Sat, 14 Nov 2026.
 
 Kid Fonque is a house and afro house artist based in South Africa, with 27 gigs on soundcheck across Amsterdam, Cape Town, Glasgow and Ibiza and 5 more. Often billed alongside Sam Divine, Amy Mauritz and Atmos Blaq. Next up: Hearty Collective, Cape Town on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Kid Fonque is a house and afro house artist based in South Africa, with 27 gigs 
 
 Sam Divine, Amy Mauritz, Atmos Blaq
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kidfonque/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kidfonque/)*

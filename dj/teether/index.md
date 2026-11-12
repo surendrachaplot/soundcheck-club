@@ -1,6 +1,6 @@
 # Teether
 
-Teether is a Hip-Hop and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at VFD, London on Sat, 21 Nov 2026.
+Teether is a Hip-Hop and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at VFD, London on Sat, 21 Nov 2026.
 
 Teether is a hip-hop and experimental artist based in Australia, with 22 gigs on soundcheck across Adelaide, London, Melbourne and Sydney. Often billed alongside Kuya Neil, Nini and rita bass. Next up: VFD, London on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Teether is a hip-hop and experimental artist based in Australia, with 22 gigs on
 
 Kuya Neil, Nini, rita bass
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/teether/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/teether/)*

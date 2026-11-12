@@ -1,6 +1,6 @@
 # Owelle
 
-Owelle is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Pavillon Bleu + Duplex, Geneva on Sat, 14 Nov 2026.
+Owelle is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Pavillon Bleu + Duplex, Geneva on Sat, 14 Nov 2026.
 
 Owelle is a techno and electro artist based in Switzerland, with 37 gigs on soundcheck across Baden W Rttemberg, Barcelona, Basel and Geneva and 4 more. Often billed alongside e-garbage, Elena Colombi and Efe Ce Ele. Next up: Pavillon Bleu + Duplex, Geneva on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Owelle is a techno and electro artist based in Switzerland, with 37 gigs on soun
 
 e-garbage, Elena Colombi, Efe Ce Ele
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/owelle/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/owelle/)*

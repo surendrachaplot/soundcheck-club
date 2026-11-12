@@ -1,6 +1,6 @@
 # Mr Andy
 
-Mr Andy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at RADION, Amsterdam on Thu, 31 Dec 2026.
+Mr Andy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at RADION, Amsterdam on Thu, 31 Dec 2026.
 
 Mr Andy is a house and techno artist based in Netherlands, with 16 gigs on soundcheck across Amsterdam. Often billed alongside DJ Bone, Yeti Mind Tricks and Azucy. Next up: RADION, Amsterdam on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Mr Andy is a house and techno artist based in Netherlands, with 16 gigs on sound
 
 DJ Bone, Yeti Mind Tricks, Azucy
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mrandy/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mrandy/)*

@@ -1,6 +1,6 @@
 # Marie Lung
 
-Marie Lung is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Slot, Hamburg on Sun, 29 Nov 2026.
+Marie Lung is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Slot, Hamburg on Sun, 29 Nov 2026.
 
 Marie Lung is a house and techno artist based in Germany, with 96 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Budapest and 14 more. Often billed alongside Momo, Michal Zietara and Turkish. Next up: Slot, Hamburg on Sun 29 Nov.
 
@@ -27,4 +27,4 @@ Marie Lung is a house and techno artist based in Germany, with 96 gigs on soundc
 
 Momo, Michal Zietara, Turkish
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marielung/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marielung/)*

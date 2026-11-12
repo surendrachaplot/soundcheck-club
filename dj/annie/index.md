@@ -1,6 +1,6 @@
 # Annie
 
-Annie is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Fabula, Rest-of-russia on Sat, 5 Dec 2026.
+Annie is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Fabula, Rest-of-russia on Sat, 5 Dec 2026.
 
 Annie is a techno and trance artist based in Norway, with 12 gigs on soundcheck across Cologne, Hamburg, Ibiza and Karlsruhe and 5 more. Often billed alongside DVAID, DJ DRECKISCH and Golpe. Next up: TBA - Fabula, Rest Of Russia on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Annie is a techno and trance artist based in Norway, with 12 gigs on soundcheck 
 
 DVAID, DJ DRECKISCH, Golpe
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annie/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annie/)*

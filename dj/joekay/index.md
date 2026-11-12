@@ -1,6 +1,6 @@
 # Joe Kay
 
-Joe Kay is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Radius, Chicago on Sun, 27 Dec 2026.
+Joe Kay is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Radius, Chicago on Sun, 27 Dec 2026.
 
 Joe Kay is a house and electronica artist based in Germany, with 28 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Chicago and 9 more. Often billed alongside Meedy, Carozilla and JAEL. Next up: Radius, Chicago on Sun 27 Dec.
 
@@ -25,4 +25,4 @@ Joe Kay is a house and electronica artist based in Germany, with 28 gigs on soun
 
 Meedy, Carozilla, JAEL
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joekay/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joekay/)*

@@ -1,6 +1,6 @@
 # Hypho
 
-Hypho is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Chocolate Factory, New York City on Fri, 20 Nov 2026.
+Hypho is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Chocolate Factory, New York City on Fri, 20 Nov 2026.
 
 Hypho is a bass and dubstep artist based in United Kingdom, with 30 gigs on soundcheck across Adelaide, Baltimore, Brighton and Chicago and 14 more. Often billed alongside Anna Morgan, Truth and Wraz. Next up: The Chocolate Factory, New York City on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Hypho is a bass and dubstep artist based in United Kingdom, with 30 gigs on soun
 
 Anna Morgan, Truth, Wraz
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hypho/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hypho/)*

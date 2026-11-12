@@ -1,6 +1,6 @@
 # Nimue
 
-Nimue is a House and Classical artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at YuYu Cine Club, Mexico City on Fri, 11 Dec 2026.
+Nimue is a House and Classical artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at YuYu Cine Club, Mexico City on Fri, 11 Dec 2026.
 
 Nimue is a house and classical artist based in Italy, with 21 gigs on soundcheck across Berlin, Guadalajara, Lisbon and Madrid and 1 more. Often billed alongside AB, DECO (MX) and Juan Soto. Next up: YuYu Cine Club, Mexico City on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Nimue is a house and classical artist based in Italy, with 21 gigs on soundcheck
 
 AB, DECO (MX), Juan Soto
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nimue/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nimue/)*

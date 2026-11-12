@@ -1,6 +1,6 @@
 # Boston 168
 
-Boston 168 is a Techno and Acid artist with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Gare Porto, Porto on Sat, 14 Nov 2026.
+Boston 168 is a Techno and Acid artist with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Gare Porto, Porto on Sat, 14 Nov 2026.
 
 Boston 168 is a techno and acid artist based in Italy, with 78 gigs on soundcheck across Antwerp, Athens, Barcelona and Beijing and 32 more. Often billed alongside Ellen Allien, Shaleen and Indira Paganotto. Next up: Gare Porto, Porto on Sat 14 Nov.
 
@@ -29,4 +29,4 @@ Boston 168 is a techno and acid artist based in Italy, with 78 gigs on soundchec
 
 Ellen Allien, Shaleen, Indira Paganotto
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boston168/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boston168/)*

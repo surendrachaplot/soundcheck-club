@@ -1,6 +1,6 @@
 # Luna LI
 
-Luna LI is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Hakkabar 院吧, Chengdu on Fri, 13 Nov 2026.
+Luna LI is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Hakkabar 院吧, Chengdu on Fri, 13 Nov 2026.
 
 Luna LI is a bass and house artist based in China, with 92 gigs on soundcheck across Chengdu, Chongqing and San Diego. Often billed alongside PINKBOIALWAYSCRY, Sanyo and XING (CN). Next up: Hakkabar 院吧, Chengdu on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Luna LI is a bass and house artist based in China, with 92 gigs on soundcheck ac
 
 PINKBOIALWAYSCRY, Sanyo, XING (CN)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lunali/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lunali/)*

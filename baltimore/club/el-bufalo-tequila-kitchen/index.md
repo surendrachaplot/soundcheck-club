@@ -1,6 +1,6 @@
 # El Bufalo Tequila & Kitchen
 
-El Bufalo Tequila & Kitchen is a music venue in Baltimore with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "El Bufalo NYE 27" on Thu, 31 Dec 2026.
+El Bufalo Tequila & Kitchen is a music venue in Baltimore with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "El Bufalo NYE 27" on Thu, 31 Dec 2026.
 
 El Bufalo Tequila & Kitchen is a music venue in Baltimore listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ El Bufalo Tequila & Kitchen is a music venue in Baltimore listed on soundcheck. 
 | --- | --- | --- |
 | Thu, 31 Dec 2026 | El Bufalo NYE 27 |  |
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/baltimore/club/el-bufalo-tequila-kitchen/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/baltimore/club/el-bufalo-tequila-kitchen/)*

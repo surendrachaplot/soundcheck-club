@@ -1,8 +1,8 @@
 # Raresh
 
-Raresh is a House and Minimal artist with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Parque de los Gasometros, Santiago on Sat, 14 Nov 2026.
+Raresh is a House and Minimal artist with 8 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Parque de los Gasometros, Santiago on Sat, 14 Nov 2026.
 
-Raresh is a house and minimal artist based in Romania, with 216 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 51 more. Often billed alongside Petre Inspirescu, Rhadoo and Ricardo Villalobos. Next up: Parque de los Gasometros, Santiago on Sat 14 Nov.
+Raresh is a house and minimal artist based in Romania, with 217 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside Petre Inspirescu, Rhadoo and Ricardo Villalobos. Next up: Parque de los Gasometros, Santiago on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Raresh is a house and minimal artist based in Romania, with 216 gigs on soundche
 | Sat, 21 Nov 2026 | TBA - Lurín live / Lima, Perú. | Peru |
 | Sat, 28 Nov 2026 | Mia Mao | Paris |
 | Fri, 4 Dec 2026 | NEU | Stockholm |
+| Sat, 5 Dec 2026 | Baggen | Copenhagen |
 | Fri, 11 Dec 2026 | fi | Cologne |
 | Sat, 12 Dec 2026 | fabric | London |
 | Sat, 12 Dec 2026 | Ampere | Antwerp |
@@ -31,4 +32,4 @@ Raresh is a house and minimal artist based in Romania, with 216 gigs on soundche
 
 Petre Inspirescu, Rhadoo, Ricardo Villalobos
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raresh/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raresh/)*

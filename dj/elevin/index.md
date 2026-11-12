@@ -1,6 +1,6 @@
 # ELEVIN
 
-ELEVIN is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Zero Club, Lisbon on Sat, 12 Dec 2026.
+ELEVIN is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Zero Club, Lisbon on Sat, 12 Dec 2026.
 
 ELEVIN is a techno and progressive house artist based in United States of America, with 21 gigs on soundcheck across Buenos Aires, Lisbon, Mexico City and Rio de Janeiro and 2 more. Often billed alongside DJ Disconnected, Doguez and Eklektone. Next up: Zero Club, Lisbon on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ ELEVIN is a techno and progressive house artist based in United States of Americ
 
 DJ Disconnected, Doguez, Eklektone
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elevin/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elevin/)*

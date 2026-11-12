@@ -1,13 +1,14 @@
 # Buggery Grips
 
-Buggery Grips is a Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Gut Level, Sheffield on Sat, 5 Dec 2026.
+Buggery Grips is a Bass and Garage artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Dalston Superstore, London on Fri, 20 Nov 2026.
 
-Buggery Grips is a bass and garage artist based in United Kingdom, with 45 gigs on soundcheck across Berlin, Bristol, London and Manchester and 1 more. Often billed alongside Samantha, Brown Excellence and HEDDA. Next up: Gut Level, Sheffield on Sat 5 Dec.
+Buggery Grips is a bass and garage artist based in United Kingdom, with 46 gigs on soundcheck across Berlin, Bristol, London and Manchester and 1 more. Often billed alongside Samantha, Brown Excellence and HEDDA. Next up: Dalston Superstore, London on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | Dalston Superstore | London |
 | Sat, 5 Dec 2026 | Gut Level | Sheffield |
 
 ## Recently played
@@ -25,4 +26,4 @@ Buggery Grips is a bass and garage artist based in United Kingdom, with 45 gigs 
 
 Samantha, Brown Excellence, HEDDA
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/buggerygrips/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/buggerygrips/)*

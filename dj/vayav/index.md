@@ -1,6 +1,6 @@
 # VaYaV
 
-VaYaV is a Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at B side Athens, Athens on Sat, 14 Nov 2026.
+VaYaV is a Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at B side Athens, Athens on Sat, 14 Nov 2026.
 
 VaYaV is a drum & bass artist based in Greece, with 9 gigs on soundcheck across Athens and Berlin. Often billed alongside Deadly 8, Insom and PAN/NOX. Next up: B side Athens, Athens on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ VaYaV is a drum & bass artist based in Greece, with 9 gigs on soundcheck across 
 
 Deadly 8, Insom, PAN/NOX
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vayav/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vayav/)*

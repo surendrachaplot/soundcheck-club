@@ -1,8 +1,8 @@
 # Hidden
 
-Hidden is a music venue in Manchester with 17 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Hidden x Fishing for Bill: Dopplereffekt, Client_03, Nikki Nair" on Fri, 13 Nov 2026.
+Hidden is a music venue in Manchester with 19 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Hidden x Fishing for Bill: Dopplereffekt, Client_03, Nikki Nair" on Fri, 13 Nov 2026.
 
-Hidden is a music venue in Manchester listed on soundcheck. 17 upcoming gigs, with line-ups including 2FEL, Adele Tondu, Agnelli & Nelson and Allius and 2 more. See dates, start times and who's playing. 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom.
+Hidden is a music venue in Manchester listed on soundcheck. 19 upcoming gigs, with line-ups including 2FEL, Adele Tondu, Agnelli & Nelson and Allius and 2 more. See dates, start times and who's playing. 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom.
 
 ## What's on
 
@@ -17,10 +17,10 @@ Hidden is a music venue in Manchester listed on soundcheck. 17 upcoming gigs, wi
 | Sat, 21 Nov 2026 | Hidden presents: Jack Marlow, Capo Lee (DJ Set) + Support | Capo Lee, JACK MARLOW |
 | Sat, 21 Nov 2026 | MELODÏQ KLUBNACHT - Jonathan Kaspar : all night long | Jonathan Kaspar |
 | Sat, 28 Nov 2026 | Peach Legends UK Tour - Hidden, Manchester  | Agnelli & Nelson, Chris Bayne, Daz Manchild Smith, Fisha, Graham Gold |
-| Fri, 4 Dec 2026 | Neffa-T presents: Neffa-T, DJ Stingray & Tasha | DJ Stingray 313, Neffa-T, Tasha |
+| Sat, 28 Nov 2026 | Warehouse Rave with Residents & Friends |  |
 
 ## Address
 
 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom, Manchester
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/hidden/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/hidden/)*

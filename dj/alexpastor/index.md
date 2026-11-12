@@ -1,6 +1,6 @@
 # Alex Pastor
 
-Alex Pastor is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Pickle, Miami on Thu, 3 Dec 2026.
+Alex Pastor is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Pickle, Miami on Thu, 3 Dec 2026.
 
 Alex Pastor is a house and techno artist based in United States of America, with 59 gigs on soundcheck across Amsterdam, Bologna, Boston and Chicago and 12 more. Often billed alongside Kev Gee, Connor Mikami and John Patrick. Next up: The Pickle, Miami on Thu 3 Dec.
 
@@ -26,4 +26,4 @@ Alex Pastor is a house and techno artist based in United States of America, with
 
 Kev Gee, Connor Mikami, John Patrick
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexpastor/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexpastor/)*

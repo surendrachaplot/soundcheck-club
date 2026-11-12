@@ -1,6 +1,6 @@
 # DANTE (CA)
 
-DANTE (CA) is a Breakbeat and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Jama, Toronto on Sat, 5 Dec 2026.
+DANTE (CA) is a Breakbeat and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Jama, Toronto on Sat, 5 Dec 2026.
 
 DANTE (CA) is a breakbeat and bass artist based in Canada, with 8 gigs on soundcheck across Montreal and Toronto. Often billed alongside wiwa, K-65 and Runa. Next up: The Jama, Toronto on Sat 5 Dec.
 
@@ -24,4 +24,4 @@ DANTE (CA) is a breakbeat and bass artist based in Canada, with 8 gigs on soundc
 
 wiwa, K-65, Runa
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danteca/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danteca/)*

@@ -1,6 +1,6 @@
 # DJ ATTENTION
 
-DJ ATTENTION is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Amma Cafe, New York City on Fri, 13 Nov 2026.
+DJ ATTENTION is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Amma Cafe, New York City on Fri, 13 Nov 2026.
 
 DJ ATTENTION is a techno and club artist based in United States of America, with 12 gigs on soundcheck across New York City. Often billed alongside grunge mum, elle xxo and Crush Club. Next up: Amma Cafe, New York City on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ DJ ATTENTION is a techno and club artist based in United States of America, with
 
 grunge mum, elle xxo, Crush Club
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djattention/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djattention/)*

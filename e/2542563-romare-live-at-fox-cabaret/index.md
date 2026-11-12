@@ -1,6 +1,6 @@
 # Romare (Live) at Fox Cabaret
 
-Romare (Live) at Fox Cabaret on Wed 10 Feb, Vancouver. 1 artist: Romare. See the line-up on soundcheck.
+Romare (Live) at Fox Cabaret on Wed 10 Feb, Vancouver. 1 artist: Romare. House and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

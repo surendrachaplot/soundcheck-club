@@ -1,6 +1,6 @@
 # Ray Zuniga
 
-Ray Zuniga is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at MAD Radio NYC, New York City on Sat, 14 Nov 2026.
+Ray Zuniga is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at MAD Radio NYC, New York City on Sat, 14 Nov 2026.
 
 Ray Zuniga is a house and techno artist, with 15 gigs on soundcheck across Mexico City, New York City, San Francisco/Oakland and Washington DC. Often billed alongside Nikita, Francesca Lombardo and Greg Paulus. Next up: MAD Radio NYC, New York City on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Ray Zuniga is a house and techno artist, with 15 gigs on soundcheck across Mexic
 
 Nikita, Francesca Lombardo, Greg Paulus
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rayzuniga/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rayzuniga/)*

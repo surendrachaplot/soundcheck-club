@@ -1,6 +1,6 @@
 # DJ Himitsu
 
-DJ Himitsu is a Ambient and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Space Talk, London on Wed, 18 Nov 2026.
+DJ Himitsu is a Ambient and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Space Talk, London on Wed, 18 Nov 2026.
 
 DJ Himitsu is an ambient and house artist based in Japan, with 15 gigs on soundcheck across Berlin, London and Tokyo. Often billed alongside Pete Spara, Alfaz and thomyorko. Next up: Space Talk, London on Wed 18 Nov.
 
@@ -25,4 +25,4 @@ DJ Himitsu is an ambient and house artist based in Japan, with 15 gigs on soundc
 
 Pete Spara, Alfaz, thomyorko
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djhimitsu/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djhimitsu/)*

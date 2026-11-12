@@ -1,6 +1,6 @@
 # Reto Ardour
 
-Reto Ardour is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Palais Mascotte, Zurich on Fri, 4 Dec 2026.
+Reto Ardour is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Palais Mascotte, Zurich on Fri, 4 Dec 2026.
 
 Reto Ardour is a techno and house artist based in Switzerland, with 46 gigs on soundcheck across Switzerland and Zurich. Often billed alongside Read the News, Adriatique and Lou Combo. Next up: Palais Mascotte, Zurich on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Reto Ardour is a techno and house artist based in Switzerland, with 46 gigs on s
 
 Read the News, Adriatique, Lou Combo
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/retoardour/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/retoardour/)*

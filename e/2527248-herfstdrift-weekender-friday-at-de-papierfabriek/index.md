@@ -1,6 +1,6 @@
 # Herfstdrift Weekender - Friday at De Papierfabriek
 
-Herfstdrift Weekender - Friday at De Papierfabriek on Fri 27 Nov, Nijmegen. 6 artists: Anz, Dr Banana, lizz.e and salute and 2 more. See the line-up on soundcheck.
+Herfstdrift Weekender - Friday at De Papierfabriek on Fri 27 Nov, Nijmegen. 8 artists: Anz, Dave Nunes, Dr Banana and KC Sumatra and 4 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,10 +11,12 @@ Herfstdrift Weekender - Friday at De Papierfabriek on Fri 27 Nov, Nijmegen. 6 ar
 ## Line-up
 
 - Anz
+- Dave Nunes
 - Dr Banana
+- KC Sumatra
 - lizz.e
-- salute
 - Sozef
+- Tida Kamara
 - X CLUB.
 
 *Source: [soundcheck](https://soundcheck.club/e/2527248-herfstdrift-weekender-friday-at-de-papierfabriek/)*

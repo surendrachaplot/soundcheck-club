@@ -1,6 +1,6 @@
 # REEN
 
-REEN is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA, Vancouver on Sat, 28 Nov 2026.
+REEN is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA, Vancouver on Sat, 28 Nov 2026.
 
 REEN is a house and tech house artist based in Canada, with 13 gigs on soundcheck across Monchengladbach and Vancouver. Often billed alongside Bob Manzanilla, Cromby and DJ HERA. Next up: TBA, Vancouver on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ REEN is a house and tech house artist based in Canada, with 13 gigs on soundchec
 
 Bob Manzanilla, Cromby, DJ HERA
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reen/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reen/)*

@@ -1,6 +1,6 @@
 # Grub Records
 
-Grub Records is a music venue in Sheffield with 8 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Steel Frequencies presents Uncork the Bass" on Thu, 12 Nov 2026.
+Grub Records is a music venue in Sheffield with 8 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Steel Frequencies presents Uncork the Bass" on Thu, 12 Nov 2026.
 
 Grub Records is a music venue in Sheffield listed on soundcheck. 8 upcoming gigs, with line-ups including Isis Moray, Laze (With Bells Records) and Paniolo. See dates, start times and who's playing. Grub Records, 586 Queens Road, Lowfield, Sheffield, S2 4DU.
 
@@ -21,4 +21,4 @@ Grub Records is a music venue in Sheffield listed on soundcheck. 8 upcoming gigs
 
 Grub Records, 586 Queens Road, Lowfield, Sheffield, S2 4DU, Sheffield
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/grub-records/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/grub-records/)*

@@ -1,6 +1,6 @@
 # dj wagner
 
-dj wagner is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - MR. NANCY’S - RIDGEWOOD, New York City on Fri, 13 Nov 2026.
+dj wagner is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - MR. NANCY’S - RIDGEWOOD, New York City on Fri, 13 Nov 2026.
 
 dj wagner is a club and bass artist based in United States of America, with 13 gigs on soundcheck across Boston and New York City. Often billed alongside cazadory, WADDLE and Antide. Next up: TBA - MR. NANCY’S - RIDGEWOOD, New York City on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ dj wagner is a club and bass artist based in United States of America, with 13 g
 
 cazadory, WADDLE, Antide
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djwagner/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djwagner/)*

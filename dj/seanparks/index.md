@@ -1,6 +1,6 @@
 # Sean Parks
 
-Sean Parks is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Blue Leopard Lounge, Chicago on Sat, 28 Nov 2026.
+Sean Parks is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Blue Leopard Lounge, Chicago on Sat, 28 Nov 2026.
 
 Sean Parks is a house and deep house artist based in United States of America, with 12 gigs on soundcheck across Chicago, New Orleans and New York City. Often billed alongside Wyser, Adorio and Daniel Allen. Next up: Blue Leopard Lounge, Chicago on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Sean Parks is a house and deep house artist based in United States of America, w
 
 Wyser, Adorio, Daniel Allen
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seanparks/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seanparks/)*

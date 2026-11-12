@@ -1,6 +1,6 @@
 # Mia Moto
 
-Mia Moto is a Footwork and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Planet Wax, London on Thu, 12 Nov 2026.
+Mia Moto is a Footwork and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Planet Wax, London on Thu, 12 Nov 2026.
 
 Mia Moto is a footwork and techno artist based in Canada, with 11 gigs on soundcheck across London and Montreal. Often billed alongside CRAIC DAVID, Big Dope P and sohotsospicy. Next up: Planet Wax, London on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Mia Moto is a footwork and techno artist based in Canada, with 11 gigs on soundc
 
 CRAIC DAVID, Big Dope P, sohotsospicy
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miamoto/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miamoto/)*

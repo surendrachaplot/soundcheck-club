@@ -1,6 +1,6 @@
 # Doggy Project presents: Laurine & Cecilio, Rvbbio, Unreal Vibes, Radikal Komcept at Doggy Klœb
 
-Doggy Project presents: Laurine & Cecilio, Rvbbio, Unreal Vibes, Radikal Komcept at Doggy Klœb on Sat 19 Dec, Malaga. 5 artists: Cecilio, Laurine, Radikal Komcept and rubbio and 1 more. Electronica. See the line-up on soundcheck.
+Doggy Project presents: Laurine & Cecilio, Rvbbio, Unreal Vibes, Radikal Komcept at Doggy Klœb on Sat 19 Dec, Malaga. 5 artists: Cecilio, Laurine, Radikal Komcept and rubbio and 1 more. Club and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

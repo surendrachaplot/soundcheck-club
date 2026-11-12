@@ -1,6 +1,6 @@
 # Toyacoyah
 
-Toyacoyah is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Chop Shop & 1st Ward, Chicago on Thu, 12 Nov 2026.
+Toyacoyah is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Chop Shop & 1st Ward, Chicago on Thu, 12 Nov 2026.
 
 Toyacoyah is a drum & bass and jungle artist based in United States of America, with 49 gigs on soundcheck across Austin, Chicago, Minneapolis/St Paul and Tampa Bay. Often billed alongside Merrick Brown, Silent Hype and Glyde. Next up: Chop Shop & 1st Ward, Chicago on Thu 12 Nov.
 
@@ -26,4 +26,4 @@ Toyacoyah is a drum & bass and jungle artist based in United States of America, 
 
 Merrick Brown, Silent Hype, Glyde
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toyacoyah/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toyacoyah/)*

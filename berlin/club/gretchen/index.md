@@ -1,8 +1,8 @@
 # Gretchen
 
-Gretchen is a music venue in Berlin with 25 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "NILS PETTER MOLVÆR TRIO *live" on Thu, 12 Nov 2026.
+Gretchen is a music venue in Berlin with 26 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "NILS PETTER MOLVÆR TRIO *live" on Thu, 12 Nov 2026.
 
-Gretchen is a music venue in Berlin listed on soundcheck. 25 upcoming gigs, with line-ups including alllone, Allynx, anna andersrum and Ant TC1 and 2 more. See dates, start times and who's playing. Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany.
+Gretchen is a music venue in Berlin listed on soundcheck. 26 upcoming gigs, with line-ups including alllone, Allynx, anna andersrum and Ant TC1 and 2 more. See dates, start times and who's playing. Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Gretchen is a music venue in Berlin listed on soundcheck. 25 upcoming gigs, with
 
 Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany, Berlin
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gretchen/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gretchen/)*

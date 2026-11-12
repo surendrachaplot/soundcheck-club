@@ -1,6 +1,6 @@
 # People's Leisure Club
 
-People's Leisure Club is a music venue in Edinburgh with 26 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "WarmedUp presents: Morgz & CLEM" on Thu, 12 Nov 2026.
+People's Leisure Club is a music venue in Edinburgh with 26 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "WarmedUp presents: Morgz & CLEM" on Thu, 12 Nov 2026.
 
 People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 26 upcoming gigs, with line-ups including FLIPSIDE., Big Miz, Bolam and BORLEY and 2 more. See dates, start times and who's playing. 45 Lothian Street, Edinburgh, EH1 1HB.
 
@@ -23,4 +23,4 @@ People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 26 upc
 
 45 Lothian Street, Edinburgh, EH1 1HB, Edinburgh
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/people-s-leisure-club/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/people-s-leisure-club/)*

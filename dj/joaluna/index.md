@@ -1,6 +1,6 @@
 # Joa Luna
 
-Joa Luna is a Electronica and Ambient artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Majal, Berlin on Sun, 29 Nov 2026.
+Joa Luna is a Electronica and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Majal, Berlin on Sun, 29 Nov 2026.
 
 Joa Luna is an electronica and ambient artist based in Poland, with 13 gigs on soundcheck across Berlin. Often billed alongside INVERNO, Anna Sharifi and Suit Kei. Next up: TBA - Majal, Berlin on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Joa Luna is an electronica and ambient artist based in Poland, with 13 gigs on s
 
 INVERNO, Anna Sharifi, Suit Kei
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joaluna/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joaluna/)*

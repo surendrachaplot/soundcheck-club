@@ -1,6 +1,6 @@
 # pvkvsv
 
-pvkvsv is a Club and Experimental artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Bad Sauna, Pittsburgh on Thu, 12 Nov 2026.
+pvkvsv is a Club and Experimental artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Bad Sauna, Pittsburgh on Thu, 12 Nov 2026.
 
 pvkvsv is a club and experimental artist based in United States of America, with 35 gigs on soundcheck across Pittsburgh. Often billed alongside Ondo / Gusto, Formosa and DJ Furniture. Next up: Bad Sauna, Pittsburgh on Thu 12 Nov.
 
@@ -27,4 +27,4 @@ pvkvsv is a club and experimental artist based in United States of America, with
 
 Ondo / Gusto, Formosa (1), DJ Furniture
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pvkvsv/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pvkvsv/)*

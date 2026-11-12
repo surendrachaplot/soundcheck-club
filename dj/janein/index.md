@@ -1,6 +1,6 @@
 # JANEIN
 
-JANEIN is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Collingwood Basement, Melbourne on Fri, 13 Nov 2026.
+JANEIN is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Collingwood Basement, Melbourne on Fri, 13 Nov 2026.
 
 JANEIN is a techno and house artist based in Germany, with 111 gigs on soundcheck across Amsterdam, Auckland, Bangkok and Basel and 28 more. Often billed alongside Stigmatique, Shaleen and Anna Hjalmarsson. Next up: Collingwood Basement, Melbourne on Fri 13 Nov.
 
@@ -30,4 +30,4 @@ JANEIN is a techno and house artist based in Germany, with 111 gigs on soundchec
 
 Stigmatique, Shaleen, Anna Hjalmarsson
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janein/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janein/)*

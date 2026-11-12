@@ -1,6 +1,6 @@
 # aaandscha
 
-aaandscha is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Orangerie Neukölln, Berlin on Sat, 12 Dec 2026.
+aaandscha is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Orangerie Neukölln, Berlin on Sat, 12 Dec 2026.
 
 aaandscha is a house and downtempo artist based in Germany, with 25 gigs on soundcheck across Berlin and Munich. Often billed alongside Almedina, Bonfante and Bunny. Next up: Orangerie Neukölln, Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ aaandscha is a house and downtempo artist based in Germany, with 25 gigs on soun
 
 Almedina (2), Bonfante, Bunny
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aaandscha/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aaandscha/)*

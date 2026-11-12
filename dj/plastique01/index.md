@@ -1,6 +1,6 @@
 # Plastique01
 
-Plastique01 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at OT301, Amsterdam on Sat, 28 Nov 2026.
+Plastique01 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at OT301, Amsterdam on Sat, 28 Nov 2026.
 
 Plastique01 is a techno and trance artist based in Italy, with 40 gigs on soundcheck across Amsterdam, Bologna, Brussels and Florence and 6 more. Often billed alongside Abo Abo, TOMO and Crossing Avenue. Next up: OT301, Amsterdam on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Plastique01 is a techno and trance artist based in Italy, with 40 gigs on soundc
 
 Abo Abo, TOMO (2), Crossing Avenue
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/plastique01/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/plastique01/)*

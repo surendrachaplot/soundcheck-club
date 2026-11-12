@@ -1,6 +1,6 @@
 # Avant-Garde Institute
 
-Avant-Garde Institute is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Bar Oriente, Mexico City on Fri, 20 Nov 2026.
+Avant-Garde Institute is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Bar Oriente, Mexico City on Fri, 20 Nov 2026.
 
 Avant-Garde Institute is a techno and house artist based in Mexico, with 44 gigs on soundcheck across Mexico City and Monterrey. Often billed alongside TNT Dan, DJ Hiccup and Cherry (MX). Next up: Bar Oriente, Mexico City on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Avant-Garde Institute is a techno and house artist based in Mexico, with 44 gigs
 
 TNT Dan, DJ Hiccup, Cherry (MX)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avant-gardeinstitute/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avant-gardeinstitute/)*

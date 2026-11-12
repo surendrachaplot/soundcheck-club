@@ -1,6 +1,6 @@
 # My Friend
 
-My Friend is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Armature Works Riverfront, Florida on Fri, 11 Dec 2026.
+My Friend is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Armature Works Riverfront, Florida on Fri, 11 Dec 2026.
 
 My Friend is a progressive house and house artist based in United Kingdom, with 33 gigs on soundcheck across Atlanta, Austin, Belfast and Berlin and 12 more. Often billed alongside Braxton, Because of Art and Daniel Curpen. Next up: Armature Works Riverfront, Florida on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ My Friend is a progressive house and house artist based in United Kingdom, with 
 
 Braxton, Because of Art, Daniel Curpen
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/myfriend/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/myfriend/)*

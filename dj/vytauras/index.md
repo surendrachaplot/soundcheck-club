@@ -1,6 +1,6 @@
 # Vytauras
 
-Vytauras is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA, Berlin on Sat, 14 Nov 2026.
+Vytauras is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA, Berlin on Sat, 14 Nov 2026.
 
 Vytauras is a techno and trance artist based in Lithuania, with 26 gigs on soundcheck across Berlin, Krakow, Riga and Vilnius. Often billed alongside 2727, 4BLISS# and MOTO 24. Next up: TBA, Berlin on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Vytauras is a techno and trance artist based in Lithuania, with 26 gigs on sound
 
 2727, 4BLISS#, MOTO 24
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vytauras/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vytauras/)*

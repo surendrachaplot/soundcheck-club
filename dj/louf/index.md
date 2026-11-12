@@ -1,6 +1,6 @@
 # Louf
 
-Louf is a Electronica and IDM artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Not For Sale Gallery, London on Fri, 11 Dec 2026.
+Louf is a Electronica and IDM artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Not For Sale Gallery, London on Fri, 11 Dec 2026.
 
 Louf is an electronica and idm artist based in United Kingdom, with 11 gigs on soundcheck across London. Often billed alongside Drum & Lace, Tomas Crow and 1-800 GIRLS. Next up: Not For Sale Gallery, London on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Louf is an electronica and idm artist based in United Kingdom, with 11 gigs on s
 
 Drum & Lace, Tomas Crow, 1-800 GIRLS
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/louf/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/louf/)*

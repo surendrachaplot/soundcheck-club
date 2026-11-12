@@ -1,6 +1,6 @@
 # Alas (2)
 
-Alas (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at RAW- Lokschuppen + Astra Kulturhaus, Berlin on Wed, 30 Dec 2026.
+Alas (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at RAW- Lokschuppen + Astra Kulturhaus, Berlin on Wed, 30 Dec 2026.
 
 Alas is a techno and house artist based in Germany, with 10 gigs on soundcheck across Berlin, Frankfurt and Hamburg. Often billed alongside Pasat, Cleopard2000 and JADA MORAES. Next up: RAW- Lokschuppen + Astra Kulturhaus, Berlin on Wed 30 Dec.
 
@@ -25,4 +25,4 @@ Alas is a techno and house artist based in Germany, with 10 gigs on soundcheck a
 
 Pasat, Cleopard2000, JADA MORAES
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alas-2/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alas-2/)*

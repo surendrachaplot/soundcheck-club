@@ -1,6 +1,6 @@
 # Bogus
 
-Bogus is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at JAKI, Cologne on Fri, 20 Nov 2026.
+Bogus is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at JAKI, Cologne on Fri, 20 Nov 2026.
 
 Bogus is a house and tech house artist based in Brazil, with 9 gigs on soundcheck across Cologne and Munich. Often billed alongside Fabio Fontanelli, SOPHIE PSCHORR and VOE. Next up: JAKI, Cologne on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Bogus is a house and tech house artist based in Brazil, with 9 gigs on soundchec
 
 Fabio Fontanelli, SOPHIE PSCHORR, VOE
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bogus/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bogus/)*

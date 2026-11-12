@@ -1,6 +1,6 @@
 # David David
 
-David David is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Macadam, Nantes on Sun, 17 Jan 2027.
+David David is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Macadam, Nantes on Sun, 17 Jan 2027.
 
 David David is a techno and trance artist based in France, with 18 gigs on soundcheck across Marseille, Nantes and Paris. Often billed alongside Youl, Akira Yamagata and Princ3kx. Next up: Macadam, Nantes on Sun 17 Jan.
 
@@ -25,4 +25,4 @@ David David is a techno and trance artist based in France, with 18 gigs on sound
 
 Youl, Akira Yamagata, Princ3kx
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daviddavid/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daviddavid/)*

@@ -1,6 +1,6 @@
 # LDS
 
-LDS is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Tresor / Globus, Berlin on Fri, 11 Dec 2026.
+LDS is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Tresor / Globus, Berlin on Fri, 11 Dec 2026.
 
 LDS is a techno and house artist based in Germany, with 57 gigs on soundcheck across Amsterdam, Berlin, Brussels and Cologne and 23 more. Often billed alongside Blue Hour, Hadone and DAX J. Next up: Tresor / Globus, Berlin on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ LDS is a techno and house artist based in Germany, with 57 gigs on soundcheck ac
 
 Blue Hour, Hadone, DAX J
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lds/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lds/)*

@@ -1,6 +1,6 @@
 # Moti (CR)
 
-Moti (CR) is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Igloofest, Montreal on Thu, 28 Jan 2027.
+Moti (CR) is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Igloofest, Montreal on Thu, 28 Jan 2027.
 
 Moti (CR) is a progressive house and techno artist based in Costa Rica, with 8 gigs on soundcheck across Montreal. Often billed alongside BERLIN, Chris Luno and Crescenzo. Next up: Igloofest, Montreal on Thu 28 Jan.
 
@@ -24,4 +24,4 @@ Moti (CR) is a progressive house and techno artist based in Costa Rica, with 8 g
 
 BERLIN, Chris Luno, Crescenzo
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moticr/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moticr/)*

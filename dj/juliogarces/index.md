@@ -1,6 +1,6 @@
 # Julio Garcés
 
-Julio Garcés is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA, Bogotá on Sat, 28 Nov 2026.
+Julio Garcés is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA, Bogotá on Sat, 28 Nov 2026.
 
 Julio Garcés is a house and minimal artist based in Colombia, with 29 gigs on soundcheck across Berlin, Bogotá, Colombia and Medellin. Often billed alongside Memek, Charlie Florez and Julian Gomez. Next up: TBA, Bogotá on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Julio Garcés is a house and minimal artist based in Colombia, with 29 gigs on s
 
 Memek, Charlie Florez, Julian Gomez
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juliogarces/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juliogarces/)*

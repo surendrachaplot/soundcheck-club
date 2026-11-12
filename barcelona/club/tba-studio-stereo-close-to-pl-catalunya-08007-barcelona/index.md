@@ -1,6 +1,6 @@
 # TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona
 
-TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona with 29 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Studio Stereo x Pulsar pres. Tamarindo" on Thu, 12 Nov 2026.
+TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona with 29 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Studio Stereo x Pulsar pres. Tamarindo" on Thu, 12 Nov 2026.
 
 TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona listed on soundcheck. 29 upcoming gigs, with line-ups including .cosm, Alexey Orlov, Alex Garcia and Alexxx and 2 more. See dates, start times and who's playing.
 
@@ -17,6 +17,6 @@ TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue i
 | Thu, 26 Nov 2026 | Studio Stereo TBA |  |
 | Fri, 27 Nov 2026 | Studio Stereo x Seguim pres. Sarah Neptune | Alex Garcia (2), CVD (1), Vince Void |
 | Sat, 28 Nov 2026 | Studio Stereo x MASS pres. Harold Heath | .cosm, Joe Howey |
-| Thu, 3 Dec 2026 | Studio Stereo TBA |  |
+| Thu, 3 Dec 2026 | Studio Stereo pres Sounds Of Barcy showcase | Lakss, Niak |
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-studio-stereo-close-to-pl-catalunya-08007-barcelona/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-studio-stereo-close-to-pl-catalunya-08007-barcelona/)*

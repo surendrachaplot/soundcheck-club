@@ -1,6 +1,6 @@
 # Lorenzo LSP
 
-Lorenzo LSP is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Ragoo, Milan on Thu, 26 Nov 2026.
+Lorenzo LSP is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Ragoo, Milan on Thu, 26 Nov 2026.
 
 Lorenzo LSP is a techno and house artist based in Italy, with 29 gigs on soundcheck across Ibiza, Milan and Turin. Often billed alongside Simon T, CRHERZ and Vicky Montefusco. Next up: Ragoo, Milan on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Lorenzo LSP is a techno and house artist based in Italy, with 29 gigs on soundch
 
 Simon T, CRHERZ, Vicky Montefusco
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenzolsp/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenzolsp/)*

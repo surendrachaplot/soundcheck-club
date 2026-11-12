@@ -1,6 +1,6 @@
 # Labyrinthine
 
-Labyrinthine is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Greyhound, London on Fri, 4 Dec 2026.
+Labyrinthine is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Greyhound, London on Fri, 4 Dec 2026.
 
 Labyrinthine is a techno and ambient artist based in United Kingdom, with 101 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and London and 5 more. Often billed alongside Jamie de Rooy, Harknee and Concrete Gold. Next up: The Greyhound, London on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Labyrinthine is a techno and ambient artist based in United Kingdom, with 101 gi
 
 Jamie de Rooy, Harknee, Concrete Gold
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/labyrinthine/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/labyrinthine/)*

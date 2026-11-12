@@ -1,6 +1,6 @@
 # Yussef Dayes
 
-Yussef Dayes is a Jazz and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Foothills of Nandi, Karahalli, Bangalore on Sat, 5 Dec 2026.
+Yussef Dayes is a Jazz and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Foothills of Nandi, Karahalli, Bangalore on Sat, 5 Dec 2026.
 
 Yussef Dayes is a jazz and funk / soul artist based in United Kingdom, with 9 gigs on soundcheck across Bangalore, Bangkok, Birmingham and Brussels and 4 more. Often billed alongside Bolis Pupul, Honey Dijon and Jasper Tygner. Next up: TBA - Foothills of Nandi, Karahalli, Bangalore on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Yussef Dayes is a jazz and funk / soul artist based in United Kingdom, with 9 gi
 
 Bolis Pupul, Honey Dijon, Jasper Tygner
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yussefdayes/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yussefdayes/)*

@@ -1,6 +1,6 @@
 # CHIKA
 
-CHIKA is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at ZEROTOKYO, Tokyo on Fri, 13 Nov 2026.
+CHIKA is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at ZEROTOKYO, Tokyo on Fri, 13 Nov 2026.
 
 CHIKA is a techno and industrial artist based in Japan, with 111 gigs on soundcheck across Berlin, Lausanne, Marseille and Milan and 4 more. Often billed alongside YOXIKI, YURI VALEN and DALJAE. Next up: ZEROTOKYO, Tokyo on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ CHIKA is a techno and industrial artist based in Japan, with 111 gigs on soundch
 
 YOXIKI, YURI VALEN, DALJAE
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chika/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chika/)*

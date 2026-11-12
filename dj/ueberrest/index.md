@@ -1,6 +1,6 @@
 # Ueberrest
 
-Ueberrest is a Techno and Trance artist with 18 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Factory Town, Miami on Fri, 13 Nov 2026.
+Ueberrest is a Techno and Trance artist with 18 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Factory Town, Miami on Fri, 13 Nov 2026.
 
 Ueberrest is a techno and trance artist based in Switzerland, with 133 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 55 more. Often billed alongside Kobosil, Somewhen and KUKO. Next up: Factory Town, Miami on Fri 13 Nov.
 
@@ -36,4 +36,4 @@ Ueberrest is a techno and trance artist based in Switzerland, with 133 gigs on s
 
 Kobosil, Somewhen, KUKO
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ueberrest/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ueberrest/)*

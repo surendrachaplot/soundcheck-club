@@ -1,6 +1,6 @@
 # Viken Arman
 
-Viken Arman is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at House of Yes, New York City on Fri, 13 Nov 2026.
+Viken Arman is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at House of Yes, New York City on Fri, 13 Nov 2026.
 
 Viken Arman is a house and deep house artist based in France, with 103 gigs on soundcheck across Amsterdam, Auckland, Bali and Berlin and 32 more. Often billed alongside Cesar Merveille, Acid Pauli and Mira. Next up: House of Yes, New York City on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Viken Arman is a house and deep house artist based in France, with 103 gigs on s
 
 Cesar Merveille, Acid Pauli, Mira
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vikenarman/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vikenarman/)*

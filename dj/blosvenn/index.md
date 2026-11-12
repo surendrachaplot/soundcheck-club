@@ -1,6 +1,6 @@
 # Blosvenn
 
-Blosvenn is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at NOC - Not Only Coffee, Berlin on Sat, 14 Nov 2026.
+Blosvenn is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at NOC - Not Only Coffee, Berlin on Sat, 14 Nov 2026.
 
 Blosvenn is a techno and house artist based in Germany, with 14 gigs on soundcheck across Berlin and Brandenburg. Often billed alongside BAHAA AL DEEN, NYCTO and SURCO. Next up: NOC - Not Only Coffee, Berlin on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Blosvenn is a techno and house artist based in Germany, with 14 gigs on soundche
 
 BAHAA AL DEEN, NYCTO, SURCO
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blosvenn/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blosvenn/)*

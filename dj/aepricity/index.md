@@ -1,6 +1,6 @@
 # Aepricity
 
-Aepricity is a Club and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Underground SF, San Francisco/Oakland on Thu, 12 Nov 2026.
+Aepricity is a Club and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Underground SF, San Francisco/Oakland on Thu, 12 Nov 2026.
 
 Aepricity is a club and bass artist based in United States of America, with 6 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Just Another Bitch, Oso Feo and ek:). Next up: Underground SF, San Francisco/Oakland on Thu 12 Nov.
 
@@ -22,4 +22,4 @@ Aepricity is a club and bass artist based in United States of America, with 6 gi
 
 Just Another Bitch, Oso Feo, ek:)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aepricity/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aepricity/)*

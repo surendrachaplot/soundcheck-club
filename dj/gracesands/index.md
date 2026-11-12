@@ -1,6 +1,6 @@
 # Grace Sands
 
-Grace Sands is a House and Deep House artist with 9 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Dalston Superstore, London on Thu, 12 Nov 2026.
+Grace Sands is a House and Deep House artist with 9 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Dalston Superstore, London on Thu, 12 Nov 2026.
 
 Grace Sands is a house and deep house artist based in United Kingdom, with 157 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 24 more. Often billed alongside Roi Perez, Stuart Patterson and Angel D'lite. Next up: Dalston Superstore, London on Thu 12 Nov.
 
@@ -33,4 +33,4 @@ Grace Sands is a house and deep house artist based in United Kingdom, with 157 g
 
 Roi Perez, Stuart Patterson, Angel D'lite
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gracesands/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gracesands/)*

@@ -1,6 +1,6 @@
 # Sonny Sun
 
-Sonny Sun is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at POTENT, Shanghai on Fri, 13 Nov 2026.
+Sonny Sun is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at POTENT, Shanghai on Fri, 13 Nov 2026.
 
 Sonny Sun is a techno and electro artist based in China, with 28 gigs on soundcheck across Chengdu, Hangzhou, Shanghai and Shenzhen and 1 more. Often billed alongside DANDAN, Ignez and T.K.L. Next up: POTENT, Shanghai on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Sonny Sun is a techno and electro artist based in China, with 28 gigs on soundch
 
 DANDAN, Ignez, T.K.L
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sonnysun/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sonnysun/)*

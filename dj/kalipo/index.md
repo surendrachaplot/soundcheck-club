@@ -1,6 +1,6 @@
 # Kalipo
 
-Kalipo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at ://about blank, Berlin on Thu, 31 Dec 2026.
+Kalipo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at ://about blank, Berlin on Thu, 31 Dec 2026.
 
 Kalipo is a house and techno artist based in Germany, with 38 gigs on soundcheck across Berlin, Cologne, Dresden and Freiburg and 11 more. Often billed alongside Holly North, Local Suicide and Dina Summer. Next up: ://about blank, Berlin on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Kalipo is a house and techno artist based in Germany, with 38 gigs on soundcheck
 
 Holly North, Local Suicide, Dina Summer
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kalipo/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kalipo/)*

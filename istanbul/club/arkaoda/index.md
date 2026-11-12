@@ -1,6 +1,6 @@
 # Arkaoda
 
-Arkaoda is a music venue in Istanbul with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "Arkaoda" on Wed, 25 Nov 2026.
+Arkaoda is a music venue in Istanbul with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "Arkaoda" on Wed, 25 Nov 2026.
 
 Arkaoda is a music venue in Istanbul listed on soundcheck. 1 upcoming gig, with line-ups including Payam Parvizi. See dates, start times and who's playing. Kadife Sokak No:18/A Kadıköy/İstanbul.
 
@@ -14,4 +14,4 @@ Arkaoda is a music venue in Istanbul listed on soundcheck. 1 upcoming gig, with 
 
 Kadife Sokak No:18/A Kadıköy/İstanbul, Istanbul
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/arkaoda/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/arkaoda/)*

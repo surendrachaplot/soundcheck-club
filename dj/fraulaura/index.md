@@ -1,6 +1,6 @@
 # Frau Laura
 
-Frau Laura is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Tanzhaus West, Frankfurt on Thu, 31 Dec 2026.
+Frau Laura is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Tanzhaus West, Frankfurt on Thu, 31 Dec 2026.
 
 Frau Laura is a tech house and techno artist based in Germany, with 27 gigs on soundcheck across Berlin, Frankfurt and Munich. Often billed alongside Luzie, Andrale and Laurine Philippe. Next up: Tanzhaus West, Frankfurt on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Frau Laura is a tech house and techno artist based in Germany, with 27 gigs on s
 
 Luzie, Andrale, Laurine Philippe
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fraulaura/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fraulaura/)*

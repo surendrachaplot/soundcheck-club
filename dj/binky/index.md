@@ -1,6 +1,6 @@
 # BINKY
 
-BINKY is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Biltmore Cabaret, Vancouver on Fri, 27 Nov 2026.
+BINKY is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Biltmore Cabaret, Vancouver on Fri, 27 Nov 2026.
 
 BINKY is a club and techno artist based in Canada, with 36 gigs on soundcheck across London, Montreal, Toronto and Vancouver. Often billed alongside Brendocha, EtOH and soratora. Next up: Biltmore Cabaret, Vancouver on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ BINKY is a club and techno artist based in Canada, with 36 gigs on soundcheck ac
 
 Brendocha, EtOH, soratora
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/binky/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/binky/)*

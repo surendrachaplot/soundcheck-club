@@ -1,6 +1,6 @@
 # KT
 
-KT is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Electric Pizza Shop, Manchester on Sat, 14 Nov 2026.
+KT is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Electric Pizza Shop, Manchester on Sat, 14 Nov 2026.
 
 KT is a house and techno artist based in United Kingdom, with 133 gigs on soundcheck across Barcelona, Berlin, Bogotá and Brighton and 28 more. Often billed alongside Papa Nugs, Darush and Alien Communications. Next up: Electric Pizza Shop, Manchester on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ KT is a house and techno artist based in United Kingdom, with 133 gigs on soundc
 
 Papa Nugs, Darush, Alien Communications
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/KT/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/KT/)*

@@ -1,6 +1,6 @@
 # Het Sieraad
 
-Het Sieraad is a music venue in Amsterdam with 15 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Casa Yuca" on Fri, 13 Nov 2026.
+Het Sieraad is a music venue in Amsterdam with 15 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Casa Yuca" on Fri, 13 Nov 2026.
 
 Het Sieraad is a music venue in Amsterdam listed on soundcheck. 15 upcoming gigs, with line-ups including Alexander Koning, Alicia Hahn, Âme and Anthony Rother and 2 more. See dates, start times and who's playing. Postjesweg 1, 1057 DT Amsterdam.
 
@@ -23,4 +23,4 @@ Het Sieraad is a music venue in Amsterdam listed on soundcheck. 15 upcoming gigs
 
 Postjesweg 1, 1057 DT Amsterdam, Amsterdam
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/het-sieraad/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/het-sieraad/)*

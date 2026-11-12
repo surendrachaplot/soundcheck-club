@@ -1,6 +1,6 @@
 # Jump Source
 
-Jump Source is a Techno and Deep House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at public records, New York City on Sun, 22 Nov 2026.
+Jump Source is a Techno and Deep House artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at public records, New York City on Sun, 22 Nov 2026.
 
 Jump Source is a techno and deep house artist based in Canada, with 28 gigs on soundcheck across Barcelona, Berlin, Brussels and Chicago and 11 more. Often billed alongside Patrick Holland, Priori and Blood Orange. Next up: public records, New York City on Sun 22 Nov.
 
@@ -27,4 +27,4 @@ Jump Source is a techno and deep house artist based in Canada, with 28 gigs on s
 
 Patrick Holland, Priori, Blood Orange
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jumpsource/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jumpsource/)*

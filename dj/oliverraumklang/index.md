@@ -1,6 +1,6 @@
 # Oliver Raumklang
 
-Oliver Raumklang is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Wilder als Erwartet, Berlin on Thu, 12 Nov 2026.
+Oliver Raumklang is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Wilder als Erwartet, Berlin on Thu, 12 Nov 2026.
 
 Oliver Raumklang is a house and deep house artist based in Germany, with 99 gigs on soundcheck across Berlin, Cologne, Poznan and Prague and 2 more. Often billed alongside DJ with Soul, Daniel Neighbour and Mathias Birnbaum. Next up: Wilder als Erwartet, Berlin on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Oliver Raumklang is a house and deep house artist based in Germany, with 99 gigs
 
 DJ with Soul, Daniel Neighbour, Mathias Birnbaum
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverraumklang/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverraumklang/)*

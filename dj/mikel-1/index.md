@@ -1,6 +1,6 @@
 # Mikel (1)
 
-Mikel (1) is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Flinders, Sydney on Sat, 14 Nov 2026.
+Mikel (1) is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Flinders, Sydney on Sat, 14 Nov 2026.
 
 Mikel is a techno and industrial artist based in Italy, with 12 gigs on soundcheck across Frankfurt, North and Sydney. Often billed alongside I-SO, JUNN GULDUR and ARTISAH. Next up: The Flinders, Sydney on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Mikel is a techno and industrial artist based in Italy, with 12 gigs on soundche
 
 I-SO, JUNN GULDUR, ARTISAH
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikel-1/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikel-1/)*

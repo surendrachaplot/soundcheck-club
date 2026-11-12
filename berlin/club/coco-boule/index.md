@@ -1,6 +1,6 @@
 # Coco Boule
 
-Coco Boule is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "g!rl records presents: Camilla Rae, DJ Fuckoff, Helena Lua, K-atze, Penglord + special guest" on Fri, 13 Nov 2026.
+Coco Boule is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "g!rl records presents: Camilla Rae, DJ Fuckoff, Helena Lua, K-atze, Penglord + special guest" on Fri, 13 Nov 2026.
 
 Coco Boule is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including ALADAG, Camilla Rae, DJ Fuckoff and Ekany and 2 more. See dates, start times and who's playing. Prinzenstraße 85/D-F, 10969 Berlin, Germany.
 
@@ -16,4 +16,4 @@ Coco Boule is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, wit
 
 Prinzenstraße 85/D-F, 10969 Berlin, Germany, Berlin
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/coco-boule/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/coco-boule/)*

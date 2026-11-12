@@ -1,6 +1,6 @@
 # Salbany
 
-Salbany is a Techno and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Tresor / Globus, Berlin on Mon, 28 Dec 2026.
+Salbany is a Techno and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Tresor / Globus, Berlin on Mon, 28 Dec 2026.
 
 Salbany is a techno and dub techno artist based in Portugal, with 59 gigs on soundcheck across Berlin, Helsinki, Lisbon and London and 4 more. Often billed alongside Jesterr, Richie Hawtin and Chima Isaaro. Next up: Tresor / Globus, Berlin on Mon 28 Dec.
 
@@ -26,4 +26,4 @@ Salbany is a techno and dub techno artist based in Portugal, with 59 gigs on sou
 
 Jesterr, Richie Hawtin, Chima Isaaro
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/salbany/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/salbany/)*

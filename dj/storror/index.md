@@ -1,6 +1,6 @@
 # storror
 
-storror is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Club JB's, Chubu on Fri, 4 Dec 2026.
+storror is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Club JB's, Chubu on Fri, 4 Dec 2026.
 
 storror is a house and techno artist based in Japan, with 2 gigs on soundcheck across Chubu and Osaka. Often billed alongside APEPA, Enishi and KAPI. Next up: Club JB's, Chubu on Fri 4 Dec.
 
@@ -15,4 +15,4 @@ storror is a house and techno artist based in Japan, with 2 gigs on soundcheck a
 
 APEPA, Enishi, KAPI
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/storror/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/storror/)*

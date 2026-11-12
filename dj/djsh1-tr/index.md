@@ -1,6 +1,6 @@
 # DJ SH1-TR
 
-DJ SH1-TR is a Electro and Acid artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Pony, Seattle on Sat, 14 Nov 2026.
+DJ SH1-TR is a Electro and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Pony, Seattle on Sat, 14 Nov 2026.
 
 DJ SH1-TR is an electro and acid artist based in United States of America, with 35 gigs on soundcheck across Seattle and The Hague. Often billed alongside Sharlese, Lord Phatrick and Kadeejah Streets. Next up: Pony, Seattle on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ DJ SH1-TR is an electro and acid artist based in United States of America, with 
 
 Sharlese, Lord Phatrick, Kadeejah Streets
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsh1-tr/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsh1-tr/)*

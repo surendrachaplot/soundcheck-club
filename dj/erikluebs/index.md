@@ -1,6 +1,6 @@
 # Erik Luebs
 
-Erik Luebs is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at 宀 Club, Hong Kong on Fri, 13 Nov 2026.
+Erik Luebs is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at 宀 Club, Hong Kong on Fri, 13 Nov 2026.
 
 Erik Luebs is a techno and house artist based in Japan, with 56 gigs on soundcheck across Amsterdam, Athens, Beijing and Berlin and 22 more. Often billed alongside Psyk, Oberman and DJ Morita. Next up: 宀 Club, Hong Kong on Fri 13 Nov.
 
@@ -30,4 +30,4 @@ Erik Luebs is a techno and house artist based in Japan, with 56 gigs on soundche
 
 Psyk, Oberman, DJ Morita
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erikluebs/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erikluebs/)*

@@ -1,6 +1,6 @@
 # Unkompress
 
-Unkompress is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Saturday Session: Ben Higgins" on Sat, 14 Nov 2026.
+Unkompress is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Saturday Session: Ben Higgins" on Sat, 14 Nov 2026.
 
 Unkompress is a music venue in Berlin listed on soundcheck. 4 upcoming gigs. See dates, start times and who's playing. Fichtestrasse 23, 10967 Berlin.
 
@@ -17,4 +17,4 @@ Unkompress is a music venue in Berlin listed on soundcheck. 4 upcoming gigs. See
 
 Fichtestrasse 23, 10967 Berlin, Berlin
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/unkompress/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/unkompress/)*

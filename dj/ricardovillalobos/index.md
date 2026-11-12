@@ -1,6 +1,6 @@
 # Ricardo Villalobos
 
-Ricardo Villalobos is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Parque de los Gasometros, Santiago on Sat, 14 Nov 2026.
+Ricardo Villalobos is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Parque de los Gasometros, Santiago on Sat, 14 Nov 2026.
 
 Ricardo Villalobos is a techno and house artist based in Chile, with 149 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 38 more. Often billed alongside Raresh, Tomas Station and O.BEE. Next up: Parque de los Gasometros, Santiago on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Ricardo Villalobos is a techno and house artist based in Chile, with 149 gigs on
 
 Raresh, Tomas Station, O.BEE
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardovillalobos/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardovillalobos/)*

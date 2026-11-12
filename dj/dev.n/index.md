@@ -1,6 +1,6 @@
 # dev.n
 
-dev.n is a Club and Ghetto Tech artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Bossa Nova Civic Club, New York City on Thu, 12 Nov 2026.
+dev.n is a Club and Ghetto Tech artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Bossa Nova Civic Club, New York City on Thu, 12 Nov 2026.
 
 dev.n is a club and ghetto tech artist based in United States of America, with 10 gigs on soundcheck across Baltimore, Chicago and New York City. Often billed alongside Mo Mami, NoahG and BRATATTACK. Next up: Bossa Nova Civic Club, New York City on Thu 12 Nov.
 
@@ -26,4 +26,4 @@ dev.n is a club and ghetto tech artist based in United States of America, with 1
 
 Mo Mami, NoahG, BRATATTACK
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dev.n/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dev.n/)*

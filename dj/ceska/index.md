@@ -1,6 +1,6 @@
 # CESKA
 
-CESKA is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at M.O.T, London on Thu, 19 Nov 2026.
+CESKA is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at M.O.T, London on Thu, 19 Nov 2026.
 
 CESKA is a club and bass artist based in United Kingdom, with 14 gigs on soundcheck across London and Manchester. Often billed alongside B.Love, Chapel Walk and KT. Next up: M.O.T, London on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ CESKA is a club and bass artist based in United Kingdom, with 14 gigs on soundch
 
 B.Love, Chapel Walk, KT
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ceska/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ceska/)*

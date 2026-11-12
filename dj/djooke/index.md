@@ -1,6 +1,6 @@
 # Djooke
 
-Djooke is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Pérola Negra Club, Porto on Fri, 13 Nov 2026.
+Djooke is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Pérola Negra Club, Porto on Fri, 13 Nov 2026.
 
 Djooke is a techno and house artist based in Portugal, with 33 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 6 more. Often billed alongside ANÍBAL, Spacer Woman and ENGALANAN. Next up: Pérola Negra Club, Porto on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Djooke is a techno and house artist based in Portugal, with 33 gigs on soundchec
 
 ANÍBAL, Spacer Woman, ENGALANAN
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djooke/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djooke/)*

@@ -1,6 +1,6 @@
 # Yuto Sasaki
 
-Yuto Sasaki is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Ruby Room, Tokyo on Fri, 13 Nov 2026.
+Yuto Sasaki is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Ruby Room, Tokyo on Fri, 13 Nov 2026.
 
 Yuto Sasaki is a techno and deep house artist based in Japan, with 34 gigs on soundcheck across Tokyo. Often billed alongside QSS, hbk and POPPO. Next up: Ruby Room, Tokyo on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Yuto Sasaki is a techno and deep house artist based in Japan, with 34 gigs on so
 
 QSS, hbk, POPPO
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yutosasaki/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yutosasaki/)*

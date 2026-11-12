@@ -1,6 +1,6 @@
 # STAINS
 
-STAINS is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Yderlandsvej 1, Copenhagen on Sat, 14 Nov 2026.
+STAINS is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Yderlandsvej 1, Copenhagen on Sat, 14 Nov 2026.
 
 STAINS is a tech house and techno artist, with 8 gigs on soundcheck across Copenhagen. Often billed alongside A.dixen, Anders Dahl and Maria (DK). Next up: Yderlandsvej 1, Copenhagen on Sat 14 Nov.
 
@@ -24,4 +24,4 @@ STAINS is a tech house and techno artist, with 8 gigs on soundcheck across Copen
 
 A.dixen, Anders Dahl, Maria (DK)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stains/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stains/)*

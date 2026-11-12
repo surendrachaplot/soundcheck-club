@@ -1,6 +1,6 @@
 # Akiï
 
-Akiï is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Leila, Milan on Sat, 21 Nov 2026.
+Akiï is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Leila, Milan on Sat, 21 Nov 2026.
 
 Akiï is a bass and techno artist based in Italy, with 31 gigs on soundcheck across Berlin, Ljubljana, Milan and Paris and 1 more. Often billed alongside Lyndon Lewis, FISK and Assyouti. Next up: Leila, Milan on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Akiï is a bass and techno artist based in Italy, with 31 gigs on soundcheck acr
 
 Lyndon Lewis, FISK, Assyouti
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akiï/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akiï/)*

@@ -1,6 +1,6 @@
 # Torso
 
-Torso is a Drum & Bass and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Sneaky Pete's, Edinburgh on Thu, 12 Nov 2026.
+Torso is a Drum & Bass and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Sneaky Pete's, Edinburgh on Thu, 12 Nov 2026.
 
 Torso is a drum & bass and house artist based in Germany, with 13 gigs on soundcheck across Berlin, Edinburgh, New York City and Tokyo. Often billed alongside Refracta, Coben and T-O-D. Next up: Sneaky Pete's, Edinburgh on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Torso is a drum & bass and house artist based in Germany, with 13 gigs on soundc
 
 Refracta, Coben, T-O-D
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/torso/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/torso/)*

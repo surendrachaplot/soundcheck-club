@@ -1,6 +1,6 @@
 # Clara Cuvé
 
-Clara Cuvé is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Club Cultural Lima, Peru on Fri, 13 Nov 2026.
+Clara Cuvé is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Club Cultural Lima, Peru on Fri, 13 Nov 2026.
 
 Clara Cuvé is a techno and house artist based in Germany, with 283 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 81 more. Often billed alongside Kobosil, I Hate Models and 999999999. Next up: Club Cultural Lima, Peru on Fri 13 Nov.
 
@@ -36,4 +36,4 @@ Clara Cuvé is a techno and house artist based in Germany, with 283 gigs on soun
 
 Kobosil, I Hate Models, 999999999
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/claracuve/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/claracuve/)*

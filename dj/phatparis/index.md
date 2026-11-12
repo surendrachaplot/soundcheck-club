@@ -1,6 +1,6 @@
 # Phát Paris
 
-Phát Paris is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Panorama Studio, Ho Chi Minh City on Sat, 14 Nov 2026.
+Phát Paris is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Panorama Studio, Ho Chi Minh City on Sat, 14 Nov 2026.
 
 Phát Paris is a techno and club artist based in Vietnam, with 97 gigs on soundcheck across Bangkok, Beijing, Chengdu and Hanoi and 5 more. Often billed alongside Smoothie Boiz, Kỳ Mỹ and Goss. Next up: Panorama Studio, Ho Chi Minh City on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Phát Paris is a techno and club artist based in Vietnam, with 97 gigs on soundc
 
 Smoothie Boiz, Kỳ Mỹ, Goss
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/phatparis/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/phatparis/)*

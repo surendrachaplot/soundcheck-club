@@ -1,6 +1,6 @@
 # Michelle Manetti
 
-Michelle Manetti is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Unit 58, London on Fri, 13 Nov 2026.
+Michelle Manetti is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Unit 58, London on Fri, 13 Nov 2026.
 
 Michelle Manetti is a house and techno artist based in United Kingdom, with 148 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 17 more. Often billed alongside FAFF, THEMPRESS and Jaye Ward. Next up: Unit 58, London on Fri 13 Nov.
 
@@ -28,4 +28,4 @@ Michelle Manetti is a house and techno artist based in United Kingdom, with 148 
 
 FAFF, THEMPRESS, Jaye Ward
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/michellemanetti/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/michellemanetti/)*

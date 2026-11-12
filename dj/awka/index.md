@@ -1,6 +1,6 @@
 # Awka
 
-Awka is a Baile Funk and Guaracha artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at La Gravière, Geneva on Sat, 14 Nov 2026.
+Awka is a Baile Funk and Guaracha artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at La Gravière, Geneva on Sat, 14 Nov 2026.
 
 Awka is a baile funk and guaracha artist based in Brazil, with 15 gigs on soundcheck across Amsterdam, Berlin, Geneva and Ibiza and 5 more. Often billed alongside John Woods, Panyer and THEUSS. Next up: La Gravière, Geneva on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Awka is a baile funk and guaracha artist based in Brazil, with 15 gigs on soundc
 
 John Woods, Panyer, THEUSS
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/awka/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/awka/)*

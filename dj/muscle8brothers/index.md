@@ -1,6 +1,6 @@
 # MUSCLE ∞ BROTHERS
 
-MUSCLE ∞ BROTHERS is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at ZEROTOKYO, Tokyo on Fri, 13 Nov 2026.
+MUSCLE ∞ BROTHERS is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at ZEROTOKYO, Tokyo on Fri, 13 Nov 2026.
 
 MUSCLE ∞ BROTHERS is a techno and industrial artist based in United Kingdom, with 21 gigs on soundcheck across Tokyo. Often billed alongside EVE, EMILIO and KAMIKAZE. Next up: ZEROTOKYO, Tokyo on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ MUSCLE ∞ BROTHERS is a techno and industrial artist based in United Kingdom, w
 
 EVE (1), EMILIO (3), KAMIKAZE
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/muscle8brothers/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/muscle8brothers/)*

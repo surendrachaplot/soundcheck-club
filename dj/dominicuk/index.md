@@ -1,6 +1,6 @@
 # Dominic (UK)
 
-Dominic (UK) is a Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Chiave, London on Thu, 3 Dec 2026.
+Dominic (UK) is a Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Chiave, London on Thu, 3 Dec 2026.
 
 Dominic (UK) is a deep house artist based in United Kingdom, with 8 gigs on soundcheck across London. Often billed alongside Lenny (UK), Frederik Anthony and Max Sinàl. Next up: Chiave, London on Thu 3 Dec.
 
@@ -24,4 +24,4 @@ Dominic (UK) is a deep house artist based in United Kingdom, with 8 gigs on soun
 
 Lenny (UK), Frederik Anthony, Max Sinàl
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dominicuk/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dominicuk/)*

@@ -1,6 +1,6 @@
 # Mattia Trani
 
-Mattia Trani is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Zinkbad Eventhalle, Zurich on Sat, 14 Nov 2026.
+Mattia Trani is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Zinkbad Eventhalle, Zurich on Sat, 14 Nov 2026.
 
 Mattia Trani is a techno and industrial artist based in Italy, with 41 gigs on soundcheck across Amsterdam, Berlin, Bologna and Florence and 13 more. Often billed alongside Gianni Di Bernardo, Luca Agnelli and V111. Next up: Zinkbad Eventhalle, Zurich on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Mattia Trani is a techno and industrial artist based in Italy, with 41 gigs on s
 
 Gianni Di Bernardo, Luca Agnelli, V111
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mattiatrani/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mattiatrani/)*

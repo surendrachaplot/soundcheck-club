@@ -1,6 +1,6 @@
 # Madeline (Chi)
 
-Madeline (Chi) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Smoke & Mirrors, Chicago on Sat, 21 Nov 2026.
+Madeline (Chi) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Smoke & Mirrors, Chicago on Sat, 21 Nov 2026.
 
 Madeline (Chi) is a house and techno artist based in United States of America, with 90 gigs on soundcheck across Berlin, Boston, Chicago and Detroit and 2 more. Often billed alongside Harry Cross, Michael Serafini and Ariel Zetina. Next up: Smoke & Mirrors, Chicago on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Madeline (Chi) is a house and techno artist based in United States of America, w
 
 Harry Cross, Michael Serafini, Ariel Zetina
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/madelinechi/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/madelinechi/)*

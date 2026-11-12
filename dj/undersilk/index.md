@@ -1,6 +1,6 @@
 # Under Silk
 
-Under Silk is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Toldi Klub, Budapest on Fri, 20 Nov 2026.
+Under Silk is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Toldi Klub, Budapest on Fri, 20 Nov 2026.
 
 Under Silk is a techno and trance artist based in Hungary, with 17 gigs on soundcheck across Budapest and Vienna. Often billed alongside SLYM, szoliver and Ruenge. Next up: Toldi Klub, Budapest on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Under Silk is a techno and trance artist based in Hungary, with 17 gigs on sound
 
 SLYM, szoliver, Ruenge
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/undersilk/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/undersilk/)*

@@ -1,6 +1,6 @@
 # Planetarium Hamburg
 
-Planetarium Hamburg is a music venue in Hamburg with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "Emika - Fountain Immersive Live / Hamburg" on Fri, 29 Jan 2027.
+Planetarium Hamburg is a music venue in Hamburg with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "Emika - Fountain Immersive Live / Hamburg" on Fri, 29 Jan 2027.
 
 Planetarium Hamburg is a music venue in Hamburg listed on soundcheck. 1 upcoming gig, with line-ups including Emika. See dates, start times and who's playing. Linnering 1, 22299 Hamburg, Germany.
 
@@ -14,4 +14,4 @@ Planetarium Hamburg is a music venue in Hamburg listed on soundcheck. 1 upcoming
 
 Linnering 1, 22299 Hamburg, Germany, Hamburg
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/planetarium-hamburg/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/planetarium-hamburg/)*

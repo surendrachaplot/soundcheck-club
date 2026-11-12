@@ -1,6 +1,6 @@
 # Origin8a & Propa
 
-Origin8a & Propa is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Clock Factory, Bristol on Thu, 31 Dec 2026.
+Origin8a & Propa is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Clock Factory, Bristol on Thu, 31 Dec 2026.
 
 Origin8a & Propa are a jungle and drum & bass duo based in United Kingdom, with 8 gigs on soundcheck across Brighton, Bristol, Gothenburg and Newcastle. Often billed alongside Hypershe, Cheff The Boy and DJ Hybrid. Next up: The Clock Factory, Bristol on Thu 31 Dec.
 
@@ -24,4 +24,4 @@ Origin8a & Propa are a jungle and drum & bass duo based in United Kingdom, with 
 
 Hypershe, Cheff The Boy, DJ Hybrid
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/origin8apropa/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/origin8apropa/)*

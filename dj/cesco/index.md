@@ -1,0 +1,28 @@
+# Cesco
+
+Cesco is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Phonox, London on Fri, 15 Jan 2027.
+
+Cesco is a drum & bass and bass artist based in Italy, with 68 gigs on soundcheck across Amsterdam, Arkansas, Atlanta and Austin and 30 more. Often billed alongside SP:MC, Alix Perez and Monty. Next up: Phonox, London on Fri 15 Jan.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 15 Jan 2027 | Phonox | London |
+
+## Recently played
+
+- The Vermont Hollywood, Los Angeles · Fri, 23 Oct 2026
+- The Momentary, Arkansas · Thu, 22 Oct 2026
+- Radius, Chicago · Sat, 10 Oct 2026
+- The Regency Ballroom, San Francisco/Oakland · Fri, 2 Oct 2026
+- Substation, Seattle · Sat, 26 Sept 2026
+- Open Ground, Wuppertal · Sat, 5 Sept 2026
+- Outernet Live, London · Fri, 4 Sept 2026
+- The Prospect Building, Bristol · Sat, 8 Aug 2026
+
+## Shares bills with
+
+SP:MC, Alix Perez, Monty
+
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cesco/)*

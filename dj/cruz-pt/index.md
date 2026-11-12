@@ -1,6 +1,6 @@
 # Cruz (PT)
 
-Cruz (PT) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Hub Criativo Beato, Lisbon on Sat, 14 Nov 2026.
+Cruz (PT) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Hub Criativo Beato, Lisbon on Sat, 14 Nov 2026.
 
 Cruz (PT) is a house and techno artist based in Portugal, with 86 gigs on soundcheck across Barcelona, Bogotá, Dublin and Lisbon and 3 more. Often billed alongside Kaesar, Ze Salvador and Mary B. Next up: Hub Criativo Beato, Lisbon on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Cruz (PT) is a house and techno artist based in Portugal, with 86 gigs on soundc
 
 Kaesar, Ze Salvador, Mary B (2)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cruz-pt/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cruz-pt/)*

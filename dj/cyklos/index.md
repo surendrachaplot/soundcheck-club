@@ -1,6 +1,6 @@
 # Cyklos
 
-Cyklos is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Razzmatazz 3, Barcelona on Sat, 16 Jan 2027.
+Cyklos is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Razzmatazz 3, Barcelona on Sat, 16 Jan 2027.
 
 Cyklos is a techno and electronica artist based in Spain, with 14 gigs on soundcheck across Barcelona and Munich. Often billed alongside stndrd, ABSIS and Spear. Next up: Razzmatazz 3, Barcelona on Sat 16 Jan.
 
@@ -25,4 +25,4 @@ Cyklos is a techno and electronica artist based in Spain, with 14 gigs on soundc
 
 stndrd, ABSIS, Spear
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cyklos/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cyklos/)*

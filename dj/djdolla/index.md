@@ -1,6 +1,6 @@
 # DJ Dolla
 
-DJ Dolla is a Club and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Metro Baltimore, Baltimore on Sat, 14 Nov 2026.
+DJ Dolla is a Club and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Metro Baltimore, Baltimore on Sat, 14 Nov 2026.
 
 DJ Dolla is a club and house artist based in United States of America, with 53 gigs on soundcheck across Baltimore, Boston, Detroit and Leeds and 2 more. Often billed alongside Tromac, cash.liss and DJ-SUN. Next up: Metro Baltimore, Baltimore on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ DJ Dolla is a club and house artist based in United States of America, with 53 g
 
 Tromac, cash.liss, DJ-SUN
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdolla/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdolla/)*

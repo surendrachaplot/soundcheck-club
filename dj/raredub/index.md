@@ -1,6 +1,6 @@
 # Raredub
 
-Raredub is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - The Forum, Dubai on Sat, 28 Nov 2026.
+Raredub is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - The Forum, Dubai on Sat, 28 Nov 2026.
 
 Raredub is a techno and house artist based in Bulgaria, with 47 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 19 more. Often billed alongside KiNK, DVS1 and JakoJako. Next up: TBA - The Forum, Dubai on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Raredub is a techno and house artist based in Bulgaria, with 47 gigs on soundche
 
 KiNK, DVS1, JakoJako
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raredub/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raredub/)*

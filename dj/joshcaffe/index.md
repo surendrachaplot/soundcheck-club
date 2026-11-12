@@ -1,6 +1,6 @@
 # Josh Caffé
 
-Josh Caffé is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Open Ground, Wuppertal on Sat, 14 Nov 2026.
+Josh Caffé is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Open Ground, Wuppertal on Sat, 14 Nov 2026.
 
 Josh Caffé is a house and techno artist based in United Kingdom, with 168 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 47 more. Often billed alongside Hannah Holland, NIKS and BASHKKA. Next up: Open Ground, Wuppertal on Sat 14 Nov.
 
@@ -33,4 +33,4 @@ Josh Caffé is a house and techno artist based in United Kingdom, with 168 gigs 
 
 Hannah Holland, NIKS, BASHKKA
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshcaffe/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshcaffe/)*

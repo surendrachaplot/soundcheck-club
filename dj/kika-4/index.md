@@ -1,6 +1,6 @@
 # Kika (4)
 
-Kika (4) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Standard Time, Toronto on Fri, 13 Nov 2026.
+Kika (4) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Standard Time, Toronto on Fri, 13 Nov 2026.
 
 Kika is a techno and house artist based in Canada, with 14 gigs on soundcheck across Toronto. Often billed alongside Miss Kleio, Jackie Spade and Critter. Next up: Standard Time, Toronto on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Kika is a techno and house artist based in Canada, with 14 gigs on soundcheck ac
 
 Miss Kleio, Jackie Spade, Critter
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kika-4/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kika-4/)*

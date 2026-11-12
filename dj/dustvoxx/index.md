@@ -1,6 +1,6 @@
 # Dustvoxx
 
-Dustvoxx is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Circus Tokyo, Tokyo on Sat, 14 Nov 2026.
+Dustvoxx is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Circus Tokyo, Tokyo on Sat, 14 Nov 2026.
 
 Dustvoxx is a psytrance and techno artist based in Japan, with 24 gigs on soundcheck across Kanto, Osaka and Tokyo. Often billed alongside Rickshinmi, CHIKA and Coretex. Next up: Circus Tokyo, Tokyo on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Dustvoxx is a psytrance and techno artist based in Japan, with 24 gigs on soundc
 
 Rickshinmi, CHIKA, Coretex
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dustvoxx/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dustvoxx/)*

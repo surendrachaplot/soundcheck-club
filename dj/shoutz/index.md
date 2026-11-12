@@ -1,6 +1,6 @@
 # shoutz
 
-shoutz is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Zero Club, North on Fri, 13 Nov 2026.
+shoutz is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Zero Club, North on Fri, 13 Nov 2026.
 
 shoutz is an industrial and techno artist based in Portugal, with 10 gigs on soundcheck across Lisbon and North. Often billed alongside MakeCatBleed, Cunha.Techno and Pharah. Next up: Zero Club, North on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ shoutz is an industrial and techno artist based in Portugal, with 10 gigs on sou
 
 MakeCatBleed, Cunha.Techno, Pharah
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shoutz/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shoutz/)*

@@ -1,6 +1,6 @@
 # NOOSH presents: Junkie Kid (CDMX) at TBA - VANCOUVER
 
-NOOSH presents: Junkie Kid (CDMX) at TBA - VANCOUVER on Sat 21 Nov, Vancouver. 1 artist: Junkie Kid. Techno and Hardcore. See the line-up on soundcheck.
+NOOSH presents: Junkie Kid (CDMX) at TBA - VANCOUVER on Sat 21 Nov, Vancouver. 3 artists: Junkie Kid, NIMAHA and Sam AK. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,7 @@ NOOSH presents: Junkie Kid (CDMX) at TBA - VANCOUVER on Sat 21 Nov, Vancouver. 1
 ## Line-up
 
 - Junkie Kid
+- NIMAHA
+- Sam AK
 
 *Source: [soundcheck](https://soundcheck.club/e/2571189-noosh-presents-junkie-kid-cdmx-at-tba-vancouver/)*

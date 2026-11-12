@@ -1,6 +1,6 @@
 # Trent Voyage
 
-Trent Voyage is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Racket Space, Dublin on Fri, 18 Dec 2026.
+Trent Voyage is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Racket Space, Dublin on Fri, 18 Dec 2026.
 
 Trent Voyage is a house and tech house artist based in Ireland, with 25 gigs on soundcheck across Berlin, Dublin, Florence and Glasgow and 7 more. Often billed alongside Elena Moroder, Alexander Skancke and Henriku. Next up: The Racket Space, Dublin on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Trent Voyage is a house and tech house artist based in Ireland, with 25 gigs on 
 
 Elena Moroder, Alexander Skancke, Henriku
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trentvoyage/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trentvoyage/)*

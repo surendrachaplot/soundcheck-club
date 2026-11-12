@@ -1,6 +1,6 @@
 # KILL.DB
 
-KILL.DB is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at PRST, Vienna on Sat, 28 Nov 2026.
+KILL.DB is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at PRST, Vienna on Sat, 28 Nov 2026.
 
 KILL.DB is a house and tech house artist based in Germany, with 15 gigs on soundcheck across Berlin, Cologne, Frankfurt and Vienna. Often billed alongside Carl Bergé, Pauly and BERF. Next up: PRST, Vienna on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ KILL.DB is a house and tech house artist based in Germany, with 15 gigs on sound
 
 Carl Bergé, Pauly, BERF
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kill.db/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kill.db/)*

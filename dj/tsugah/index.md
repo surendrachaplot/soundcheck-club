@@ -1,6 +1,6 @@
 # T & Sugah
 
-T & Sugah is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Lakota, Bristol on Sat, 6 Feb 2027.
+T & Sugah is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Lakota, Bristol on Sat, 6 Feb 2027.
 
 T & Sugah are a drum & bass and jungle duo based in Netherlands, with 54 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 24 more. Often billed alongside Mozey, Delta Heavy and Pola & Bryson. Next up: Lakota, Bristol on Sat 6 Feb.
 
@@ -25,4 +25,4 @@ T & Sugah are a drum & bass and jungle duo based in Netherlands, with 54 gigs on
 
 Mozey, Delta Heavy, Pola & Bryson
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tsugah/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tsugah/)*

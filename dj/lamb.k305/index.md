@@ -1,6 +1,6 @@
 # LAMB.K305
 
-LAMB.K305 is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at SB – Space Between, Nürnberg on Sat, 28 Nov 2026.
+LAMB.K305 is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at SB – Space Between, Nürnberg on Sat, 28 Nov 2026.
 
 LAMB.K305 is a hardcore and techno artist based in United States of America, with 10 gigs on soundcheck across Berlin, Ljubljana, London and Nürnberg. Often billed alongside Amnesia Scanner, Assyouti and Baba Sy. Next up: SB – Space Between, Nürnberg on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ LAMB.K305 is a hardcore and techno artist based in United States of America, wit
 
 Amnesia Scanner, Assyouti, Baba Sy
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lamb.k305/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lamb.k305/)*

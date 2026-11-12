@@ -1,6 +1,6 @@
 # Kowa
 
-Kowa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at STK 47 WAREHOUSE, Krakow on Fri, 11 Dec 2026.
+Kowa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at STK 47 WAREHOUSE, Krakow on Fri, 11 Dec 2026.
 
 Kowa is a techno and house artist based in Poland, with 50 gigs on soundcheck across Krakow, Poznan, Rome and Sydney. Often billed alongside not so pro, Aetha and A.C.. Next up: STK 47 WAREHOUSE, Krakow on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Kowa is a techno and house artist based in Poland, with 50 gigs on soundcheck ac
 
 not so pro, Aetha, A.C.
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kowa/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kowa/)*

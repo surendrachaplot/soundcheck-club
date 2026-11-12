@@ -1,6 +1,6 @@
 # Zumana Bali
 
-Zumana Bali is a music venue in Bali with 10 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Lee Burridge" on Fri, 13 Nov 2026.
+Zumana Bali is a music venue in Bali with 10 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Lee Burridge" on Fri, 13 Nov 2026.
 
 Zumana Bali is a music venue in Bali listed on soundcheck. 10 upcoming gigs, with line-ups including Damian Lazarus, DJ Tennis, Francis Mercier and Giolì & Assia and 2 more. See dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ Zumana Bali is a music venue in Bali listed on soundcheck. 10 upcoming gigs, wit
 | Wed, 6 Jan 2027 | Jan Blomqvist | Jan Blomqvist |
 | Wed, 13 Jan 2027 | Rossi | Rossi |
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/bali/club/zumana-bali/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/bali/club/zumana-bali/)*

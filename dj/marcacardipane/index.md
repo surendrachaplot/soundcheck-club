@@ -1,6 +1,6 @@
 # Marc Acardipane
 
-Marc Acardipane is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Zenith - Die Kulturhalle, Munich on Fri, 4 Dec 2026.
+Marc Acardipane is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Zenith - Die Kulturhalle, Munich on Fri, 4 Dec 2026.
 
 Marc Acardipane is a hardcore and techno artist based in Germany, with 30 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bologna and 12 more. Often billed alongside Paul Elstak, Act of Rage and Mad Dog. Next up: Zenith - Die Kulturhalle, Munich on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Marc Acardipane is a hardcore and techno artist based in Germany, with 30 gigs o
 
 Paul Elstak, Act of Rage, Mad Dog
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcacardipane/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcacardipane/)*

@@ -1,6 +1,6 @@
 # Lowki
 
-Lowki is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Enter Shibuya, Tokyo on Thu, 12 Nov 2026.
+Lowki is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Enter Shibuya, Tokyo on Thu, 12 Nov 2026.
 
 Lowki is a bass and dubstep artist based in United States of America, with 29 gigs on soundcheck across Chicago, Cologne, Detroit and Tokyo. Often billed alongside Acrocanthosaurus, A to C and CITY1. Next up: Enter Shibuya, Tokyo on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Lowki is a bass and dubstep artist based in United States of America, with 29 gi
 
 Acrocanthosaurus, A to C, CITY1
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lowki/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lowki/)*

@@ -1,6 +1,6 @@
 # Ameera
 
-Ameera is a House and Funk / Soul artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Northern Lights Lounge, Detroit on Sat, 14 Nov 2026.
+Ameera is a House and Funk / Soul artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Northern Lights Lounge, Detroit on Sat, 14 Nov 2026.
 
 Ameera is a house and funk / soul artist based in United States of America, with 65 gigs on soundcheck across Chicago, Cleveland, Detroit and New York City. Often billed alongside Billy Winters, Kindle and Meftah. Next up: Northern Lights Lounge, Detroit on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Ameera is a house and funk / soul artist based in United States of America, with
 
 Billy Winters, Kindle, Meftah
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ameera/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ameera/)*

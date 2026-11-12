@@ -1,6 +1,6 @@
 # Umbo
 
-Umbo is a music venue in Zurich with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "bruit" on Thu, 12 Nov 2026.
+Umbo is a music venue in Zurich with 7 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "bruit" on Thu, 12 Nov 2026.
 
 Umbo is a music venue in Zurich listed on soundcheck. 7 upcoming gigs, with line-ups including Blind Delon, Disse, Ernestas Sadau and Guyus and 2 more. See dates, start times and who's playing. Wasserwerkstrasse 89a, 8037 Zürich, Switzerland.
 
@@ -20,4 +20,4 @@ Umbo is a music venue in Zurich listed on soundcheck. 7 upcoming gigs, with line
 
 Wasserwerkstrasse 89a, 8037 Zürich, Switzerland, Zurich
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/umbo/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/umbo/)*

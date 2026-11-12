@@ -1,6 +1,6 @@
 # Olmatri
 
-Olmatri is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Turbina, Budapest on Fri, 27 Nov 2026.
+Olmatri is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Turbina, Budapest on Fri, 27 Nov 2026.
 
 Olmatri is a hardcore and techno artist based in Germany, with 48 gigs on soundcheck across Barcelona, Berlin, Bielefeld and Bogotá and 12 more. Often billed alongside FLUCC, LØUS and Osiris. Next up: Turbina, Budapest on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Olmatri is a hardcore and techno artist based in Germany, with 48 gigs on soundc
 
 FLUCC, LØUS, Osiris (2)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/olmatri/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/olmatri/)*

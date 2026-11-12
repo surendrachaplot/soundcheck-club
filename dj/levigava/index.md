@@ -1,6 +1,6 @@
 # Levi Gava
 
-Levi Gava is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Turbina, Budapest on Thu, 12 Nov 2026.
+Levi Gava is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Turbina, Budapest on Thu, 12 Nov 2026.
 
 Levi Gava is a house and techno artist based in Hungary, with 2 gigs on soundcheck across Budapest. Often billed alongside AIRKEY, Beta and Captain Knuckles. Next up: Turbina, Budapest on Thu 12 Nov.
 
@@ -15,4 +15,4 @@ Levi Gava is a house and techno artist based in Hungary, with 2 gigs on soundche
 
 AIRKEY, Beta, Captain Knuckles
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/levigava/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/levigava/)*

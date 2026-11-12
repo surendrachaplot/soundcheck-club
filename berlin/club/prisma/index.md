@@ -1,14 +1,13 @@
 # Prisma
 
-Prisma is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Sssmile Afterhour" on Thu, 12 Nov 2026.
+Prisma is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "CRUSH: The Frosty Fairytale" on Fri, 13 Nov 2026.
 
-Prisma is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including Benua, Carl Conrad, D.Sociation and Domovnika and 2 more. See dates, start times and who's playing. Brückenstraße 1, 10179 Berlin.
+Prisma is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with line-ups including Benua, Carl Conrad, D.Sociation and Domovnika and 2 more. See dates, start times and who's playing. Brückenstraße 1, 10179 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 12 Nov 2026 | Sssmile Afterhour | Khmgnff, KÜRÜF, The Shredder |
 | Fri, 13 Nov 2026 | CRUSH: The Frosty Fairytale | D.Sociation, Julian Shore, Leon Eliah |
 | Sun, 15 Nov 2026 | Klubkneipe x House Cats | OutWithJane |
 | Tue, 17 Nov 2026 | Klubkneipe x Tuesday Ritual - Creative Exploration Workshop | Domovnika, Lars Löffler, peak2soon |
@@ -23,4 +22,4 @@ Prisma is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with l
 
 Brückenstraße 1, 10179 Berlin, Berlin
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/prisma/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/prisma/)*

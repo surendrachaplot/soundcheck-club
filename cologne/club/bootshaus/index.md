@@ -1,6 +1,6 @@
 # Bootshaus
 
-Bootshaus is a music venue in Cologne with 17 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Hakke360" on Fri, 13 Nov 2026.
+Bootshaus is a music venue in Cologne with 17 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Hakke360" on Fri, 13 Nov 2026.
 
 Bootshaus is a music venue in Cologne listed on soundcheck. 17 upcoming gigs, with line-ups including Alle Farben, Brennan Heart, cablu and Da Hool and 2 more. See dates, start times and who's playing. Auenweg 173; 51063 Cologne; Germany.
 
@@ -23,4 +23,4 @@ Bootshaus is a music venue in Cologne listed on soundcheck. 17 upcoming gigs, wi
 
 Auenweg 173; 51063 Cologne; Germany, Cologne
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/bootshaus/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/bootshaus/)*

@@ -1,6 +1,6 @@
 # Pablo José
 
-Pablo José is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at M.N.Roy, Mexico City on Fri, 13 Nov 2026.
+Pablo José is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at M.N.Roy, Mexico City on Fri, 13 Nov 2026.
 
 Pablo José is a house and electronica artist, with 7 gigs on soundcheck across Mexico City. Often billed alongside Alejandro Veneno, Alo and Ana Armada. Next up: M.N.Roy, Mexico City on Fri 13 Nov.
 
@@ -23,4 +23,4 @@ Pablo José is a house and electronica artist, with 7 gigs on soundcheck across 
 
 Alejandro Veneno, Alo, Ana Armada
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pablojose/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pablojose/)*

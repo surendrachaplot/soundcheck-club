@@ -1,6 +1,6 @@
 # Housequake
 
-Housequake is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Warehouse Elementenstraat, Amsterdam on Sat, 14 Nov 2026.
+Housequake is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Warehouse Elementenstraat, Amsterdam on Sat, 14 Nov 2026.
 
 Housequake is a house and tech house artist based in Netherlands, with 26 gigs on soundcheck across Amsterdam, Nashville, Netherlands and Nijmegen and 3 more. Often billed alongside Erick E, ROOG and Funkerman. Next up: Warehouse Elementenstraat, Amsterdam on Sat 14 Nov.
 
@@ -30,4 +30,4 @@ Housequake is a house and tech house artist based in Netherlands, with 26 gigs o
 
 Erick E, ROOG, Funkerman
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/housequake/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/housequake/)*

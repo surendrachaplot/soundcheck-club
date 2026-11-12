@@ -1,6 +1,6 @@
 # Q Club
 
-Q Club is a music venue in Milan with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Q|LAB with Venus Melissa, Narcissus" on Fri, 13 Nov 2026.
+Q Club is a music venue in Milan with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Q|LAB with Venus Melissa, Narcissus" on Fri, 13 Nov 2026.
 
 Q Club is a music venue in Milan listed on soundcheck. 3 upcoming gigs, with line-ups including amil raja, Andromeda\Unchained, Carlo Mognaschi and dj g2g and 2 more. See dates, start times and who's playing. Via Padova 21, 20100 Milano (MI), Italy.
 
@@ -16,4 +16,4 @@ Q Club is a music venue in Milan listed on soundcheck. 3 upcoming gigs, with lin
 
 Via Padova 21, 20100 Milano (MI), Italy, Milan
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/q-club/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/q-club/)*

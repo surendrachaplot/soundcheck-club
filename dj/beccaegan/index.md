@@ -1,13 +1,14 @@
 # Becca Egan
 
-Becca Egan is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Sneaky Pete's, Edinburgh on Tue, 17 Nov 2026.
+Becca Egan is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Sneaky Pete's, Edinburgh on Tue, 17 Nov 2026.
 
-Becca Egan is a house and garage artist based in United Kingdom, with 15 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside ARWEN, Fug and Geordie. Next up: Sneaky Pete's, Edinburgh on Tue 17 Nov.
+Becca Egan is a house and garage artist based in United Kingdom, with 16 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside Geordie, ARWEN and Fug. Next up: Sneaky Pete's, Edinburgh on Tue 17 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Tue, 17 Nov 2026 | Sneaky Pete's | Edinburgh |
 | Tue, 17 Nov 2026 | Sneaky Pete's | Edinburgh |
 
 ## Recently played
@@ -23,6 +24,6 @@ Becca Egan is a house and garage artist based in United Kingdom, with 15 gigs on
 
 ## Shares bills with
 
-ARWEN, Fug (1), Geordie
+Geordie, ARWEN, Fug (1)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beccaegan/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beccaegan/)*

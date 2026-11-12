@@ -1,6 +1,6 @@
 # Protect
 
-Protect is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Beech Kombucha, Tampa Bay on Sat, 14 Nov 2026.
+Protect is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Beech Kombucha, Tampa Bay on Sat, 14 Nov 2026.
 
 Protect is a minimal and house artist based in United States of America, with 15 gigs on soundcheck across Tampa Bay. Often billed alongside Mayan Cxllective, Hugh Malo and Felis Beātus. Next up: Beech Kombucha, Tampa Bay on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Protect is a minimal and house artist based in United States of America, with 15
 
 Mayan Cxllective, Hugh Malo, Felis Beātus
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/protect/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/protect/)*

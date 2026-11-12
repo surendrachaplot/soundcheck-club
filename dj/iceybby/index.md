@@ -1,6 +1,6 @@
 # Icey Bby
 
-Icey Bby is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Location Distributed Day Of, Chicago on Thu, 12 Nov 2026.
+Icey Bby is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Location Distributed Day Of, Chicago on Thu, 12 Nov 2026.
 
 Icey Bby is a club and techno artist based in United States of America, with 31 gigs on soundcheck across Chicago. Often billed alongside sydfalls, Loqum and CTRLZORA. Next up: TBA - Location Distributed Day Of, Chicago on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Icey Bby is a club and techno artist based in United States of America, with 31 
 
 sydfalls, Loqum, CTRLZORA
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iceybby/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iceybby/)*

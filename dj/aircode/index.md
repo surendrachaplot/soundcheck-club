@@ -1,6 +1,6 @@
 # Aircode
 
-Aircode is a Experimental and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Horse Hospital, London on Fri, 13 Nov 2026.
+Aircode is a Experimental and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Horse Hospital, London on Fri, 13 Nov 2026.
 
 Aircode is an experimental and broken beat artist based in Sweden, with 25 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 5 more. Often billed alongside DJ Pitch, Angelicaa and Bill Kouligas. Next up: The Horse Hospital, London on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Aircode is an experimental and broken beat artist based in Sweden, with 25 gigs 
 
 DJ Pitch, Angelicaa, Bill Kouligas
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aircode/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aircode/)*

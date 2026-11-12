@@ -1,6 +1,6 @@
 # 100%WET
 
-100%WET is a electronic artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at VEGA, Copenhagen on Sat, 14 Nov 2026.
+100%WET is a electronic artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at VEGA, Copenhagen on Sat, 14 Nov 2026.
 
 100%WET is an electronic artist based in Denmark, with 4 gigs on soundcheck across Aarhus and Copenhagen. Often billed alongside Astrid Engberg, Melodi Ghazal and Wedding. Next up: VEGA, Copenhagen on Sat 14 Nov.
 
@@ -20,4 +20,4 @@
 
 Astrid Engberg, Melodi Ghazal, Wedding
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/100wet/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/100wet/)*

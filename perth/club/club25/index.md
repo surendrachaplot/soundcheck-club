@@ -1,6 +1,6 @@
 # Club25
 
-Club25 is a music venue in Perth with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "Club 25 House Party" on Sat, 14 Nov 2026.
+Club25 is a music venue in Perth with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "Club 25 House Party" on Sat, 14 Nov 2026.
 
 Club25 is a music venue in Perth listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Club25 is a music venue in Perth listed on soundcheck. 1 upcoming gig. See dates
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Club 25 House Party |  |
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/perth/club/club25/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/perth/club/club25/)*

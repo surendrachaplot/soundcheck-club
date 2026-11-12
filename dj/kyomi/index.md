@@ -1,6 +1,6 @@
 # Kyomi
 
-Kyomi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
+Kyomi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
 
 Kyomi is a techno and house artist based in Japan, with 31 gigs on soundcheck across Mexico City, Seoul, Taipei and Thailand and 1 more. Often billed alongside FFAN, OCCA and KABUTO. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Kyomi is a techno and house artist based in Japan, with 31 gigs on soundcheck ac
 
 FFAN, OCCA, KABUTO
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kyomi/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kyomi/)*

@@ -1,6 +1,6 @@
 # Urge To Dance - London 002 at The Cross
 
-Urge To Dance - London 002 at The Cross on Sat 28 Nov, London. 6 artists: FedUp, K.eem, Krembo and Tear of Joy and 2 more. House and Deep House. See the line-up on soundcheck.
+Urge To Dance - London 002 at The Cross on Sat 28 Nov, London. 7 artists: FedUp, K.eem, Krembo and Peril and 3 more. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Urge To Dance - London 002 at The Cross on Sat 28 Nov, London. 6 artists: FedUp,
 - FedUp
 - K.eem
 - Krembo
+- Peril
 - Tear of Joy
 - Well Swung One
 - Yüs (TN)

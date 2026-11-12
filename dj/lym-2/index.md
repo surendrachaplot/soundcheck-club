@@ -1,6 +1,6 @@
 # LYM (2)
 
-LYM (2) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Pawnshop, Taipei on Fri, 13 Nov 2026.
+LYM (2) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Pawnshop, Taipei on Fri, 13 Nov 2026.
 
 LYM is a house and techno artist based in Taiwan, with 15 gigs on soundcheck across Taipei. Often billed alongside klu, Pocari Sweaty and Andy Chiu. Next up: Pawnshop, Taipei on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ LYM is a house and techno artist based in Taiwan, with 15 gigs on soundcheck acr
 
 klu (1), Pocari Sweaty, Andy Chiu
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lym-2/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lym-2/)*

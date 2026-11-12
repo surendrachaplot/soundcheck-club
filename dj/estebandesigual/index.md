@@ -1,6 +1,6 @@
 # Esteban Desigual
 
-Esteban Desigual is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Le 211, Paris on Sat, 5 Dec 2026.
+Esteban Desigual is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Le 211, Paris on Sat, 5 Dec 2026.
 
 Esteban Desigual is a trance and techno artist based in France, with 42 gigs on soundcheck across Berlin, Budapest, Geneva and Lyon and 5 more. Often billed alongside Die Klar, Apocalypse Nao and Lobsta B. Next up: Le 211, Paris on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Esteban Desigual is a trance and techno artist based in France, with 42 gigs on 
 
 Die Klar, Apocalypse Nao, Lobsta B
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/estebandesigual/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/estebandesigual/)*

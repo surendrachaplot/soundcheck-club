@@ -1,6 +1,6 @@
 # Laimonas
 
-Laimonas is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Ministerium Club, Lisbon on Fri, 13 Nov 2026.
+Laimonas is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Ministerium Club, Lisbon on Fri, 13 Nov 2026.
 
 Laimonas is a house and techno artist based in United Kingdom, with 42 gigs on soundcheck across Berlin, Lisbon, London and Manchester and 3 more. Often billed alongside Sami Dilla, Neb Spook and OMAR (UY). Next up: Ministerium Club, Lisbon on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Laimonas is a house and techno artist based in United Kingdom, with 42 gigs on s
 
 Sami Dilla, Neb Spook, OMAR (UY)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laimonas/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laimonas/)*

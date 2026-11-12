@@ -1,6 +1,6 @@
 # VAP1D
 
-VAP1D is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at 2n1t3 HQ, Los Angeles on Sat, 28 Nov 2026.
+VAP1D is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at 2n1t3 HQ, Los Angeles on Sat, 28 Nov 2026.
 
 VAP1D is a techno and house artist based in United States of America, with 14 gigs on soundcheck across Berlin and Los Angeles. Often billed alongside Kitty Logic, French For Drugs and AuruM.. Next up: 2n1t3 HQ, Los Angeles on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ VAP1D is a techno and house artist based in United States of America, with 14 gi
 
 Kitty Logic, French For Drugs, AuruM.
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vap1d/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vap1d/)*

@@ -1,6 +1,6 @@
 # Tinlicker
 
-Tinlicker is a Progressive House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Roxy, Prague on Sat, 21 Nov 2026.
+Tinlicker is a Progressive House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Roxy, Prague on Sat, 21 Nov 2026.
 
 Tinlicker is a progressive house and deep house artist based in Netherlands, with 61 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 26 more. Often billed alongside Helsloot, Chloé Caillet and FISHER. Next up: Roxy, Prague on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ Tinlicker is a progressive house and deep house artist based in Netherlands, wit
 
 Helsloot, Chloé Caillet, FISHER
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tinlicker/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tinlicker/)*

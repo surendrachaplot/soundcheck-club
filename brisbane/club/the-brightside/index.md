@@ -1,6 +1,6 @@
 # The Brightside
 
-The Brightside is a music venue in Brisbane with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "BrisBass presents: Star Monster" on Sat, 14 Nov 2026.
+The Brightside is a music venue in Brisbane with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "BrisBass presents: Star Monster" on Sat, 14 Nov 2026.
 
 The Brightside is a music venue in Brisbane listed on soundcheck. 4 upcoming gigs, with line-ups including Bensley, Brock Ferrar, Imanu and Steve Bug. See dates, start times and who's playing. 27 Warner St, Fortitude Valley.
 
@@ -17,4 +17,4 @@ The Brightside is a music venue in Brisbane listed on soundcheck. 4 upcoming gig
 
 27 Warner St, Fortitude Valley, Brisbane
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/the-brightside/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/the-brightside/)*

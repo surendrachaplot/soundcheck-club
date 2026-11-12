@@ -1,6 +1,6 @@
 # James Andrew
 
-James Andrew is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA, Mexico City on Sat, 14 Nov 2026.
+James Andrew is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA, Mexico City on Sat, 14 Nov 2026.
 
 James Andrew is a house and techno artist based in United Kingdom, with 48 gigs on soundcheck across Barcelona, Bogotá, Brussels and Ibiza and 12 more. Often billed alongside Charley, Heels & Souls and Apple B. Next up: TBA, Mexico City on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ James Andrew is a house and techno artist based in United Kingdom, with 48 gigs 
 
 Charley, Heels & Souls, Apple B
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesandrew/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesandrew/)*

@@ -1,6 +1,6 @@
 # Gallery
 
-Gallery is a music venue in London with 17 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Paradox Nexus: HANK, salameh, VITTO - Thursdays at Gallery" on Thu, 12 Nov 2026.
+Gallery is a music venue in London with 17 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Paradox Nexus: HANK, salameh, VITTO - Thursdays at Gallery" on Thu, 12 Nov 2026.
 
 Gallery is a music venue in London listed on soundcheck. 17 upcoming gigs, with line-ups including &friends, FASTON, Guillaume Gioé and Hank (US) and 2 more. See dates, start times and who's playing. 2A Kensington High Street, London, W8 4PT.
 
@@ -23,4 +23,4 @@ Gallery is a music venue in London listed on soundcheck. 17 upcoming gigs, with 
 
 2A Kensington High Street, London, W8 4PT, London
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/gallery/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/gallery/)*

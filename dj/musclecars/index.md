@@ -1,6 +1,6 @@
 # MUSCLECARS
 
-MUSCLECARS is a House and Deep House artist with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at MIDNIGHT EAST, Tokyo on Fri, 13 Nov 2026.
+MUSCLECARS is a House and Deep House artist with 7 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at MIDNIGHT EAST, Tokyo on Fri, 13 Nov 2026.
 
 MUSCLECARS is a house and deep house artist based in United States of America, with 188 gigs on soundcheck across Adelaide, Amsterdam, Athens and Atlanta and 46 more. Often billed alongside Lakuti, Tama Sumo and Toribio. Next up: MIDNIGHT EAST, Tokyo on Fri 13 Nov.
 
@@ -31,4 +31,4 @@ MUSCLECARS is a house and deep house artist based in United States of America, w
 
 Lakuti, Tama Sumo, Toribio
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/musclecars/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/musclecars/)*

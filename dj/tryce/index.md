@@ -1,6 +1,6 @@
 # TRYCE
 
-TRYCE is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Vespers Club, London on Sat, 21 Nov 2026.
+TRYCE is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Vespers Club, London on Sat, 21 Nov 2026.
 
 TRYCE is an experimental and bass artist based in Italy, with 34 gigs on soundcheck across Berlin, Bologna, Budapest and Copenhagen and 6 more. Often billed alongside ALEX WANG, Franarchy and ABADIR. Next up: Vespers Club, London on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ TRYCE is an experimental and bass artist based in Italy, with 34 gigs on soundch
 
 ALEX WANG, Franarchy, ABADIR
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tryce/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tryce/)*

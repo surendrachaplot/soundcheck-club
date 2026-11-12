@@ -1,6 +1,6 @@
 # BOA (1)
 
-BOA (1) is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Alaska Waterloo, London on Fri, 13 Nov 2026.
+BOA (1) is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Alaska Waterloo, London on Fri, 13 Nov 2026.
 
 BOA is a tech house and house artist based in United Kingdom, with 18 gigs on soundcheck across Ibiza, London, Malta and Manchester. Often billed alongside Olly Brady, SAM PHONIC and MTRG. Next up: Alaska Waterloo, London on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ BOA is a tech house and house artist based in United Kingdom, with 18 gigs on so
 
 Olly Brady, SAM PHONIC, MTRG
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boa-1/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boa-1/)*

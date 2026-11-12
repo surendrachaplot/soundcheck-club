@@ -1,6 +1,6 @@
 # Spencer Parker
 
-Spencer Parker is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at La Cale Rabat, Morocco on Sat, 28 Nov 2026.
+Spencer Parker is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at La Cale Rabat, Morocco on Sat, 28 Nov 2026.
 
 Spencer Parker is a house and techno artist based in United Kingdom, with 63 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Byron Bay and 15 more. Often billed alongside Bunsen, ENNIO and Haeder. Next up: La Cale Rabat, Morocco on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Spencer Parker is a house and techno artist based in United Kingdom, with 63 gig
 
 Bunsen, ENNIO, Haeder
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spencerparker/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spencerparker/)*

@@ -1,6 +1,6 @@
 # Kazimier Garden
 
-Kazimier Garden is a music venue in Liverpool with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Jacinta & Aly P [all night long]" on Fri, 13 Nov 2026.
+Kazimier Garden is a music venue in Liverpool with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Jacinta & Aly P [all night long]" on Fri, 13 Nov 2026.
 
 Kazimier Garden is a music venue in Liverpool listed on soundcheck. 5 upcoming gigs, with line-ups including Alien Communications, Aly P, De La Reef and Dowd and 2 more. See dates, start times and who's playing. 32B Seel Street, Liverpool, United Kingdom.
 
@@ -18,4 +18,4 @@ Kazimier Garden is a music venue in Liverpool listed on soundcheck. 5 upcoming g
 
 32B Seel Street, Liverpool, United Kingdom, Liverpool
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/kazimier-garden/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/kazimier-garden/)*

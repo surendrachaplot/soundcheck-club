@@ -1,6 +1,6 @@
 # Bellicose
 
-Bellicose is a Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Gehør, Oslo on Sat, 21 Nov 2026.
+Bellicose is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Gehør, Oslo on Sat, 21 Nov 2026.
 
 Bellicose is a techno artist based in Norway, with 12 gigs on soundcheck across Copenhagen and Oslo. Often billed alongside SJ Yellow, Commissar  Lag and Deril. Next up: Gehør, Oslo on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Bellicose is a techno artist based in Norway, with 12 gigs on soundcheck across 
 
 SJ Yellow, Commissar  Lag, Deril
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bellicose/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bellicose/)*

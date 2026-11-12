@@ -1,6 +1,6 @@
 # Cobalt Studios
 
-Cobalt Studios is a music venue in Newcastle with 14 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Ivan Smagghe All Night Long (Age 21+)" on Fri, 13 Nov 2026.
+Cobalt Studios is a music venue in Newcastle with 14 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Ivan Smagghe All Night Long (Age 21+)" on Fri, 13 Nov 2026.
 
 Cobalt Studios is a music venue in Newcastle listed on soundcheck. 14 upcoming gigs, with line-ups including Becky Woodcock, Carl H, Cosmo Sofi and dj sweet6teen and 2 more. See dates, start times and who's playing. 10 - 16  Boyd St. Newcastle Upon Tyne, NE2 1AP, United Kingdom.
 
@@ -23,4 +23,4 @@ Cobalt Studios is a music venue in Newcastle listed on soundcheck. 14 upcoming g
 
 10 - 16  Boyd St. Newcastle Upon Tyne, NE2 1AP, United Kingdom, Newcastle
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/cobalt-studios/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/cobalt-studios/)*

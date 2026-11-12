@@ -1,6 +1,6 @@
 # ORBE
 
-ORBE is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at public records, New York City on Fri, 20 Nov 2026.
+ORBE is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at public records, New York City on Fri, 20 Nov 2026.
 
 ORBE is a techno and house artist based in Spain, with 100 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 35 more. Often billed alongside Psyk, Fadi Mohem and MARRØN. Next up: public records, New York City on Fri 20 Nov.
 
@@ -34,4 +34,4 @@ ORBE is a techno and house artist based in Spain, with 100 gigs on soundcheck ac
 
 Psyk, Fadi Mohem, MARRØN
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/orbe/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/orbe/)*

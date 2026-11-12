@@ -1,6 +1,6 @@
 # Lisa More
 
-Lisa More is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at La Machine Du Moulin Rouge, Paris on Sat, 14 Nov 2026.
+Lisa More is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at La Machine Du Moulin Rouge, Paris on Sat, 14 Nov 2026.
 
 Lisa More is a techno and club artist based in France, with 94 gigs on soundcheck across Amsterdam, Berlin, Bordeaux and Brussels and 7 more. Often billed alongside RONI, TTristana and Olympe4000. Next up: La Machine Du Moulin Rouge, Paris on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Lisa More is a techno and club artist based in France, with 94 gigs on soundchec
 
 RONI, TTristana, Olympe4000
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lisamore/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lisamore/)*

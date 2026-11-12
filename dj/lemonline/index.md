@@ -1,13 +1,14 @@
 # Lemonline
 
-Lemonline is a House and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Collapse, Pittsburgh on Fri, 11 Dec 2026.
+Lemonline is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Spirit, Pittsburgh on Fri, 27 Nov 2026.
 
-Lemonline is a house and club artist based in United States of America, with 32 gigs on soundcheck across Pittsburgh. Often billed alongside LEFSE, Ron Mist and Formosa. Next up: Collapse, Pittsburgh on Fri 11 Dec.
+Lemonline is a house and club artist based in United States of America, with 33 gigs on soundcheck across Pittsburgh. Often billed alongside LEFSE, Ron Mist and Formosa. Next up: Spirit, Pittsburgh on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | Spirit | Pittsburgh |
 | Fri, 11 Dec 2026 | Collapse | Pittsburgh |
 
 ## Recently played
@@ -25,4 +26,4 @@ Lemonline is a house and club artist based in United States of America, with 32 
 
 LEFSE, Ron Mist, Formosa (1)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lemonline/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lemonline/)*

@@ -1,6 +1,6 @@
 # Sam Ruffillo
 
-Sam Ruffillo is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Studionotte, Milan on Fri, 13 Nov 2026.
+Sam Ruffillo is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Studionotte, Milan on Fri, 13 Nov 2026.
 
 Sam Ruffillo is a house and disco artist based in Italy, with 129 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 41 more. Often billed alongside Kapote, Gee Lane and Stump Valley. Next up: Studionotte, Milan on Fri 13 Nov.
 
@@ -29,4 +29,4 @@ Sam Ruffillo is a house and disco artist based in Italy, with 129 gigs on soundc
 
 Kapote, Gee Lane, Stump Valley
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samruffillo/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samruffillo/)*

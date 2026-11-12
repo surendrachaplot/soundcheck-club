@@ -1,6 +1,6 @@
 # Inpulse
 
-Inpulse is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Mad Radio Miami, Miami on Sat, 21 Nov 2026.
+Inpulse is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Mad Radio Miami, Miami on Sat, 21 Nov 2026.
 
 Inpulse is a techno and house artist based in Spain, with 53 gigs on soundcheck across Barcelona and Miami. Often billed alongside Baffa, DJ MELEJ and Onoffon. Next up: Mad Radio Miami, Miami on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Inpulse is a techno and house artist based in Spain, with 53 gigs on soundcheck 
 
 Baffa, DJ MELEJ, Onoffon
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inpulse/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inpulse/)*

@@ -1,6 +1,6 @@
 # Zach Witness
 
-Zach Witness is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Los Globos, Los Angeles on Sat, 12 Dec 2026.
+Zach Witness is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Los Globos, Los Angeles on Sat, 12 Dec 2026.
 
 Zach Witness is a house and techno artist based in United States of America, with 30 gigs on soundcheck across Dallas/Fort Worth, Denver, Detroit and Ibiza and 5 more. Often billed alongside Melvo Baptiste, Yasmin and DJ Spen. Next up: Los Globos, Los Angeles on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Zach Witness is a house and techno artist based in United States of America, wit
 
 Melvo Baptiste, Yasmin, DJ Spen
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zachwitness/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zachwitness/)*

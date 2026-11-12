@@ -1,6 +1,6 @@
 # DJ Earl Grey
 
-DJ Earl Grey is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Miscellania, Melbourne on Fri, 20 Nov 2026.
+DJ Earl Grey is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Miscellania, Melbourne on Fri, 20 Nov 2026.
 
 DJ Earl Grey is a house and bass artist, with 44 gigs on soundcheck across Byron Bay, Lisbon, Manchester and Melbourne and 2 more. Often billed alongside Adi Toohey, Deepa and Crybaby. Next up: Miscellania, Melbourne on Fri 20 Nov.
 
@@ -12,6 +12,7 @@ DJ Earl Grey is a house and bass artist, with 44 gigs on soundcheck across Byron
 
 ## Recently played
 
+- Angel Music Bar, Melbourne · Wed, 11 Nov 2026
 - Solace, Melbourne · Sat, 31 Oct 2026
 - Angel Music Bar, Melbourne · Sat, 22 Aug 2026
 - Haven, Byron Bay · Sat, 15 Aug 2026
@@ -19,10 +20,9 @@ DJ Earl Grey is a house and bass artist, with 44 gigs on soundcheck across Byron
 - Collingwood Children's Farm, Melbourne · Sat, 11 Jul 2026
 - Lisa, Lisbon · Tue, 16 Jun 2026
 - Our Friend's Farm, Melbourne · Fri, 3 Apr 2026
-- TBA - The Attic, 0 Langridge St, Collingwood, Melbourne · Fri, 13 Mar 2026
 
 ## Shares bills with
 
 Adi Toohey, Deepa, Crybaby
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/earlgrey-au/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/earlgrey-au/)*

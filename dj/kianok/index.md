@@ -1,6 +1,6 @@
 # Kian OK
 
-Kian OK is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA, Tunisia on Fri, 27 Nov 2026.
+Kian OK is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA, Tunisia on Fri, 27 Nov 2026.
 
 Kian OK is a house and techno artist based in United Kingdom, with 41 gigs on soundcheck across Amsterdam, Berlin, Ghent and London and 6 more. Often billed alongside Kyle Toole, Picasso and Bowyer. Next up: TBA, Tunisia on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Kian OK is a house and techno artist based in United Kingdom, with 41 gigs on so
 
 Kyle Toole, Picasso, Bowyer
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kianok/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kianok/)*

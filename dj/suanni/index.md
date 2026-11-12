@@ -1,6 +1,6 @@
 # Suanni
 
-Suanni is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Thu, 3 Dec 2026.
+Suanni is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Thu, 3 Dec 2026.
 
 Suanni is a techno and acid artist based in United States of America, with 19 gigs on soundcheck across Berlin, San Francisco/Oakland, Shanghai and Tokyo. Often billed alongside JustJovani, CASPII and SNAQ. Next up: F8 1192 Folsom, San Francisco/Oakland on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Suanni is a techno and acid artist based in United States of America, with 19 gi
 
 JustJovani, CASPII, SNAQ
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suanni/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suanni/)*

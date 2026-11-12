@@ -1,6 +1,6 @@
 # Wax Music Lounge
 
-Wax Music Lounge is a music venue in Melbourne with 33 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "SJAY featuring BANKSIA • A TASTE OF ESSENCE" on Thu, 12 Nov 2026.
+Wax Music Lounge is a music venue in Melbourne with 33 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "SJAY featuring BANKSIA • A TASTE OF ESSENCE" on Thu, 12 Nov 2026.
 
 Wax Music Lounge is a music venue in Melbourne listed on soundcheck. 33 upcoming gigs, with line-ups including BABANASHE, Manchild, Miles Nautu and Savage The Girl and 1 more. See dates, start times and who's playing. 250 Flinders St (basement), Melbourne, VIC, Australia, Victoria.
 
@@ -23,4 +23,4 @@ Wax Music Lounge is a music venue in Melbourne listed on soundcheck. 33 upcoming
 
 250 Flinders St (basement), Melbourne, VIC, Australia, Victoria, Melbourne
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/wax-music-lounge/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/wax-music-lounge/)*

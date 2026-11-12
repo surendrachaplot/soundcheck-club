@@ -1,6 +1,6 @@
 # Leja Hazer
 
-Leja Hazer is a House and Funk / Soul artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Tigris, Detroit on Fri, 13 Nov 2026.
+Leja Hazer is a House and Funk / Soul artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Tigris, Detroit on Fri, 13 Nov 2026.
 
 Leja Hazer is a house and funk / soul artist based in United States of America, with 43 gigs on soundcheck across Chicago, Detroit and Tokyo. Often billed alongside Yukiko, Inés (US) and Buen Viaje. Next up: Tigris, Detroit on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Leja Hazer is a house and funk / soul artist based in United States of America, 
 
 Yukiko, Inés (US), Buen Viaje
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lejahazer/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lejahazer/)*

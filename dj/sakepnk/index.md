@@ -1,6 +1,6 @@
 # Sakepnk
 
-Sakepnk is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Azumaya, Tokyo on Fri, 4 Dec 2026.
+Sakepnk is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Azumaya, Tokyo on Fri, 4 Dec 2026.
 
 Sakepnk is a house and bass artist based in Japan, with 12 gigs on soundcheck across Tokyo. Often billed alongside KYO, Robin Flux and 3rill. Next up: Azumaya, Tokyo on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Sakepnk is a house and bass artist based in Japan, with 12 gigs on soundcheck ac
 
 KYO (1), Robin Flux, 3rill
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sakepnk/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sakepnk/)*

@@ -1,6 +1,6 @@
 # DJ Zitkus
 
-DJ Zitkus is a Trance and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Princess Bar, Glasgow on Thu, 31 Dec 2026.
+DJ Zitkus is a Trance and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Princess Bar, Glasgow on Thu, 31 Dec 2026.
 
 DJ Zitkus is a trance and hardcore artist based in United Kingdom, with 44 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside Joe Deacon, Ultrabeat and Ian Van Dahl. Next up: Princess Bar, Glasgow on Thu 31 Dec.
 
@@ -26,4 +26,4 @@ DJ Zitkus is a trance and hardcore artist based in United Kingdom, with 44 gigs 
 
 Joe Deacon, Ultrabeat, Ian Van Dahl
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djzitkus/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djzitkus/)*

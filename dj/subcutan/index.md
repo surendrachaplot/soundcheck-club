@@ -1,6 +1,6 @@
 # subcutan
 
-subcutan is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Rote Sonne, Munich on Fri, 13 Nov 2026.
+subcutan is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Rote Sonne, Munich on Fri, 13 Nov 2026.
 
 subcutan is a trance and techno artist based in Germany, with 28 gigs on soundcheck across Berlin, Hannover, Leipzig and Munich and 1 more. Often billed alongside Vaneska, NAGINI and Praun. Next up: Rote Sonne, Munich on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ subcutan is a trance and techno artist based in Germany, with 28 gigs on soundch
 
 Vaneska, NAGINI, Praun
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/subcutan/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/subcutan/)*

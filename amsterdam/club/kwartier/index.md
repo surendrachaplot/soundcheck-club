@@ -1,6 +1,6 @@
 # Kwartier
 
-Kwartier is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "SPADES at KWARTIER" on Sat, 14 Nov 2026.
+Kwartier is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "SPADES at KWARTIER" on Sat, 14 Nov 2026.
 
 Kwartier is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Kwartier is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig. See
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | SPADES at KWARTIER |  |
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/kwartier/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/kwartier/)*

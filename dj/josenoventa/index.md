@@ -1,6 +1,6 @@
 # Jose Noventa
 
-Jose Noventa is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at MONKEY LOVE, Warsaw on Fri, 13 Nov 2026.
+Jose Noventa is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at MONKEY LOVE, Warsaw on Fri, 13 Nov 2026.
 
 Jose Noventa is a house and downtempo artist based in Germany, with 23 gigs on soundcheck across Amsterdam, Antwerp, Dubai and Ghent and 6 more. Often billed alongside WLC (BE), Lathouwers and Tiago Oudman. Next up: MONKEY LOVE, Warsaw on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Jose Noventa is a house and downtempo artist based in Germany, with 23 gigs on s
 
 WLC (BE), Lathouwers, Tiago Oudman
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/josenoventa/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/josenoventa/)*

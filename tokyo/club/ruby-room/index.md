@@ -1,6 +1,6 @@
 # Ruby Room
 
-Ruby Room is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Free Party Shibuya - Live & DJ" on Thu, 12 Nov 2026.
+Ruby Room is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Free Party Shibuya - Live & DJ" on Thu, 12 Nov 2026.
 
 Ruby Room is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with line-ups including sC14, SURCO, Tomoya and Yuto Sasaki. See dates, start times and who's playing. 2-25-17 Dogenzaka,  Shibuya-ku, Tokyo, 150-0043 Japan.
 
@@ -15,4 +15,4 @@ Ruby Room is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with 
 
 2-25-17 Dogenzaka,  Shibuya-ku, Tokyo, 150-0043 Japan, Tokyo
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/ruby-room/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/ruby-room/)*

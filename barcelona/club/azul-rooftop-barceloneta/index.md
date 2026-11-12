@@ -1,17 +1,18 @@
 # Azul Rooftop Barceloneta
 
-Azul Rooftop Barceloneta is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. The next is "Sunset 360º Rooftop Party - Barceloneta [Free Access]" on Sun, 8 Nov 2026.
+Azul Rooftop Barceloneta is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Lumya X Azul Rooftop" on Fri, 13 Nov 2026.
 
-Azul Rooftop Barceloneta is a music venue in Barcelona listed on soundcheck. 1 upcoming gig, with line-ups including Breezy S, Dimarziio, NOBODYISALICE and Polisha. See dates, start times and who's playing. Pg. de Joan de Borbó, 101, planta 8, Ciutat Vella, 08038 Barcelona.
+Azul Rooftop Barceloneta is a music venue in Barcelona listed on soundcheck. 2 upcoming gigs, with line-ups including Dimarziio and ERRANT. See dates, start times and who's playing. Pg. de Joan de Borbó, 101, planta 8, Ciutat Vella, 08038 Barcelona.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 8 Nov 2026 | Sunset 360º Rooftop Party - Barceloneta [Free Access] | Breezy S, Dimarziio, NOBODYISALICE, Polisha |
+| Fri, 13 Nov 2026 | Lumya X Azul Rooftop | ERRANT |
+| Sun, 15 Nov 2026 | Sunset 360º Rooftop Party - Barceloneta [Free Access] | Dimarziio |
 
 ## Address
 
 Pg. de Joan de Borbó, 101, planta 8, Ciutat Vella, 08038 Barcelona, Barcelona
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/azul-rooftop-barceloneta/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/azul-rooftop-barceloneta/)*

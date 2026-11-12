@@ -1,6 +1,6 @@
 # Chris Coco
 
-Chris Coco is a Balearic and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Wood Street Bear, London on Sat, 14 Nov 2026.
+Chris Coco is a Balearic and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Wood Street Bear, London on Sat, 14 Nov 2026.
 
 Chris Coco is a balearic and house artist based in United Kingdom, with 36 gigs on soundcheck across Brighton, Copenhagen, Edinburgh and Ibiza and 2 more. Often billed alongside Neil Thornton, Graeme Ross and Luca Averna. Next up: Wood Street Bear, London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Chris Coco is a balearic and house artist based in United Kingdom, with 36 gigs 
 
 Neil Thornton, Graeme Ross, Luca Averna
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chriscoco/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chriscoco/)*

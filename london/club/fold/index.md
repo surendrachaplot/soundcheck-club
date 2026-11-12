@@ -1,6 +1,6 @@
 # FOLD
 
-FOLD is a music venue in London with 26 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "FUTUR.SHOCK X UNDER MY FEET. : INTERREGNUM" on Thu, 12 Nov 2026.
+FOLD is a music venue in London with 26 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "FUTUR.SHOCK X UNDER MY FEET. : INTERREGNUM" on Thu, 12 Nov 2026.
 
 FOLD is a music venue in London listed on soundcheck. 26 upcoming gigs, with line-ups including Aaron Liberator, adobeprincess, Altinbas and Amelia Holt and 2 more. See dates, start times and who's playing. Gillian House, Stephenson St, London E16 4SA, UK.
 
@@ -23,4 +23,4 @@ FOLD is a music venue in London listed on soundcheck. 26 upcoming gigs, with lin
 
 Gillian House, Stephenson St, London E16 4SA, UK, London
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/fold/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/fold/)*

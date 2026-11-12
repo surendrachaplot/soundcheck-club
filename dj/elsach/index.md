@@ -1,6 +1,6 @@
 # Elsa (CH)
 
-Elsa (CH) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Postkantine, Basel on Thu, 31 Dec 2026.
+Elsa (CH) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Postkantine, Basel on Thu, 31 Dec 2026.
 
 Elsa (CH) is a house and techno artist based in Switzerland, with 14 gigs on soundcheck across Basel, Berlin, Munich and Paris and 2 more. Often billed alongside Osiris, Elsa Bernini and Jan Loup. Next up: Postkantine, Basel on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Elsa (CH) is a house and techno artist based in Switzerland, with 14 gigs on sou
 
 Osiris (4), Elsa Bernini, Jan Loup
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elsach/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elsach/)*

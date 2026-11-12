@@ -1,6 +1,6 @@
 # The Wool Store
 
-The Wool Store is a music venue in Melbourne with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Pegassi - Australia 2026" on Fri, 4 Dec 2026.
+The Wool Store is a music venue in Melbourne with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Pegassi - Australia 2026" on Fri, 4 Dec 2026.
 
 The Wool Store is a music venue in Melbourne listed on soundcheck. 4 upcoming gigs, with line-ups including Charlotte de Witte, Job Jobse, Pegassi and Sam Alfred. See dates, start times and who's playing.
 
@@ -13,4 +13,4 @@ The Wool Store is a music venue in Melbourne listed on soundcheck. 4 upcoming gi
 | Fri, 8 Jan 2027 | Sam Alfred b2b Job Jobse - Melbourne | Job Jobse, Sam Alfred |
 | Sat, 20 Feb 2027 | Orkestrated |  |
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-wool-store/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-wool-store/)*

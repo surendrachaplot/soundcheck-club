@@ -1,6 +1,6 @@
 # sonchauni
 
-sonchauni is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - The Forum, Dubai on Sat, 28 Nov 2026.
+sonchauni is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - The Forum, Dubai on Sat, 28 Nov 2026.
 
 sonchauni is an electronica and techno artist based in Philippines, with 14 gigs on soundcheck across Dubai and Manila. Often billed alongside Bazzzuk, Dea (IT) and Baby B.. Next up: TBA - The Forum, Dubai on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ sonchauni is an electronica and techno artist based in Philippines, with 14 gigs
 
 Bazzzuk, Dea (IT), Baby B.
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sonchauni/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sonchauni/)*

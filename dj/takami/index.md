@@ -1,6 +1,6 @@
 # Takami
 
-Takami is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at or, Tokyo on Mon, 23 Nov 2026.
+Takami is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at or, Tokyo on Mon, 23 Nov 2026.
 
 Takami is a techno and house artist based in Japan, with 101 gigs on soundcheck across Osaka and Tokyo. Often billed alongside ATT, BEPPU and Q'hey. Next up: or, Tokyo on Mon 23 Nov.
 
@@ -27,4 +27,4 @@ Takami is a techno and house artist based in Japan, with 101 gigs on soundcheck 
 
 ATT, BEPPU, Q'hey
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/takami/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/takami/)*

@@ -1,6 +1,6 @@
 # Nothing But Love
 
-Nothing But Love is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Bahnwärter Thiel, Munich on Thu, 31 Dec 2026.
+Nothing But Love is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Bahnwärter Thiel, Munich on Thu, 31 Dec 2026.
 
 Nothing But Love is a techno and house artist based in Germany, with 13 gigs on soundcheck across Amsterdam and Munich. Often billed alongside Alex Volta, Quirin (DE) and Yubik. Next up: Bahnwärter Thiel, Munich on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Nothing But Love is a techno and house artist based in Germany, with 13 gigs on 
 
 Alex Volta, Quirin (DE), Yubik
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nothingbutlove/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nothingbutlove/)*

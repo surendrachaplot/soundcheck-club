@@ -1,6 +1,6 @@
 # Ruby Lou
 
-Ruby Lou is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at OneSixOne, Melbourne on Thu, 12 Nov 2026.
+Ruby Lou is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at OneSixOne, Melbourne on Thu, 12 Nov 2026.
 
 Ruby Lou is a house and techno artist based in Australia, with 42 gigs on soundcheck across Auckland and Melbourne. Often billed alongside Slumdog, Mike Callander and Slim Maybe. Next up: OneSixOne, Melbourne on Thu 12 Nov.
 
@@ -27,4 +27,4 @@ Ruby Lou is a house and techno artist based in Australia, with 42 gigs on soundc
 
 Slumdog, Mike Callander, Slim Maybe
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rubylou/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rubylou/)*

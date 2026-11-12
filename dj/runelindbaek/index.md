@@ -1,6 +1,6 @@
 # Rune Lindbæk
 
-Rune Lindbæk is a Balearic artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Becco, Oslo on Thu, 12 Nov 2026.
+Rune Lindbæk is a Balearic artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Becco, Oslo on Thu, 12 Nov 2026.
 
 Rune Lindbæk is a balearic artist based in Norway, with 20 gigs on soundcheck across Oslo and Tallinn. Often billed alongside Pavlo Plastikk, DJ Funkline and Kevin Fauske. Next up: Becco, Oslo on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Rune Lindbæk is a balearic artist based in Norway, with 20 gigs on soundcheck a
 
 Pavlo Plastikk, DJ Funkline, Kevin Fauske
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/runelindbaek/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/runelindbaek/)*

@@ -1,6 +1,6 @@
 # Cami Jones
 
-Cami Jones is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Four Snacks Club, Frankfurt on Fri, 27 Nov 2026.
+Cami Jones is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Four Snacks Club, Frankfurt on Fri, 27 Nov 2026.
 
 Cami Jones is a house and tech house artist based in Australia, with 17 gigs on soundcheck across Frankfurt, Ho Chi Minh City, Ibiza and London and 2 more. Often billed alongside Ryan O Gorman, Camilo Miranda and Nuzzo. Next up: Four Snacks Club, Frankfurt on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Cami Jones is a house and tech house artist based in Australia, with 17 gigs on 
 
 Ryan O Gorman, Camilo Miranda, Nuzzo
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/camijones/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/camijones/)*

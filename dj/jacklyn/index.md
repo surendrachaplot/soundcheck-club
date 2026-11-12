@@ -1,6 +1,6 @@
 # Jacklyn
 
-Jacklyn is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Mia Mao, Paris on Sat, 12 Dec 2026.
+Jacklyn is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Mia Mao, Paris on Sat, 12 Dec 2026.
 
 Jacklyn is a techno and trance artist based in United Kingdom, with 49 gigs on soundcheck across Amsterdam, Berlin, Brussels and Copenhagen and 6 more. Often billed alongside Boo, 1000raks and AYLIN IDAH. Next up: Mia Mao, Paris on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Jacklyn is a techno and trance artist based in United Kingdom, with 49 gigs on s
 
 Boo, 1000raks, AYLIN IDAH
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jacklyn/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jacklyn/)*

@@ -1,6 +1,6 @@
 # Den Anden Side
 
-Den Anden Side is a music venue in Copenhagen with 8 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "3 Years of Syntharax" on Fri, 13 Nov 2026.
+Den Anden Side is a music venue in Copenhagen with 8 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "3 Years of Syntharax" on Fri, 13 Nov 2026.
 
 Den Anden Side is a music venue in Copenhagen listed on soundcheck. 8 upcoming gigs, with line-ups including Amphia, Anders Horse, Asta Fugazi and avoN and 2 more. See dates, start times and who's playing. Axeltorv 5 1609 Copenhagen, Denmark.
 
@@ -21,4 +21,4 @@ Den Anden Side is a music venue in Copenhagen listed on soundcheck. 8 upcoming g
 
 Axeltorv 5 1609 Copenhagen, Denmark, Copenhagen
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/den-anden-side/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/den-anden-side/)*

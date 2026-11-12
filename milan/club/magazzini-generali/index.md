@@ -1,6 +1,6 @@
 # Magazzini Generali
 
-Magazzini Generali is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "camoufly European Tour" on Fri, 13 Nov 2026.
+Magazzini Generali is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "camoufly European Tour" on Fri, 13 Nov 2026.
 
 Magazzini Generali is a music venue in Milan listed on soundcheck. 2 upcoming gigs, with line-ups including camoufly and Dunmore Brothers. See dates, start times and who's playing. Via Pietrasanta 14, 20124 Milano (MI).
 
@@ -15,4 +15,4 @@ Magazzini Generali is a music venue in Milan listed on soundcheck. 2 upcoming gi
 
 Via Pietrasanta 14, 20124 Milano (MI), Milan
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/magazzini-generali/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/magazzini-generali/)*

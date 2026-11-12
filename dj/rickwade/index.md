@@ -1,14 +1,13 @@
 # Rick Wade
 
-Rick Wade is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Stone House Bar, Detroit on Wed, 11 Nov 2026.
+Rick Wade is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Email Deepsidebaltimore@gmail.com for info/address, Baltimore on Sat, 14 Nov 2026.
 
-Rick Wade is a house and deep house artist based in United States of America, with 64 gigs on soundcheck across Atlanta, Austin, Baltimore and Barcelona and 14 more. Often billed alongside Chuck Daniels, Norm Talley and Curmudgeon. Next up: The Stone House Bar, Detroit on Wed 11 Nov.
+Rick Wade is a house and deep house artist based in United States of America, with 64 gigs on soundcheck across Atlanta, Austin, Baltimore and Barcelona and 14 more. Often billed alongside Chuck Daniels, Norm Talley and Curmudgeon. Next up: TBA - Email Deepsidebaltimore@gmail.com for info/address, Baltimore on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 11 Nov 2026 | The Stone House Bar | Detroit |
 | Sat, 14 Nov 2026 | TBA - Email Deepsidebaltimore@gmail.com for info/address | Baltimore |
 | Sat, 21 Nov 2026 | The Monkey Loft | Seattle |
 | Sat, 19 Dec 2026 | Heide Museum of Modern Art Sculpture Park | Melbourne |
@@ -16,6 +15,7 @@ Rick Wade is a house and deep house artist based in United States of America, wi
 
 ## Recently played
 
+- The Stone House Bar, Detroit · Wed, 11 Nov 2026
 - Marble Bar, Detroit · Fri, 9 Oct 2026
 - Flash, Washington DC · Fri, 25 Sept 2026
 - Marble Bar, Detroit · Fri, 28 Aug 2026
@@ -23,10 +23,9 @@ Rick Wade is a house and deep house artist based in United States of America, wi
 - Spkrbox, Detroit · Sat, 1 Aug 2026
 - La Fabrica, Washington DC · Sat, 18 Jul 2026
 - Cannons, Detroit · Sat, 27 Jun 2026
-- Third Street Bar, Detroit · Tue, 26 May 2026
 
 ## Shares bills with
 
 Chuck Daniels, Norm Talley, Curmudgeon
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rickwade/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rickwade/)*

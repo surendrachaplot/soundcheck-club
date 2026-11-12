@@ -1,6 +1,6 @@
 # Arthur Robert
 
-Arthur Robert is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Pawnshop, Taipei on Sat, 19 Dec 2026.
+Arthur Robert is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Pawnshop, Taipei on Sat, 19 Dec 2026.
 
 Arthur Robert is a techno and house artist based in Austria, with 98 gigs on soundcheck across Amsterdam, Austin, Bangkok and Beijing and 40 more. Often billed alongside Pink Concrete, Philippa Pacho and Altinbas. Next up: Pawnshop, Taipei on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Arthur Robert is a techno and house artist based in Austria, with 98 gigs on sou
 
 Pink Concrete, Philippa Pacho, Altinbas
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arthurrobert/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arthurrobert/)*

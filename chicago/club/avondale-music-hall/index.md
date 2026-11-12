@@ -1,6 +1,6 @@
 # Avondale Music Hall
 
-Avondale Music Hall is a music venue in Chicago with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "FILTH" on Fri, 11 Dec 2026.
+Avondale Music Hall is a music venue in Chicago with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "FILTH" on Fri, 11 Dec 2026.
 
 Avondale Music Hall is a music venue in Chicago listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 3336 N Milwaukee Ave, Chicago, IL 60641.
 
@@ -14,4 +14,4 @@ Avondale Music Hall is a music venue in Chicago listed on soundcheck. 1 upcoming
 
 3336 N Milwaukee Ave, Chicago, IL 60641, Chicago
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/avondale-music-hall/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/avondale-music-hall/)*

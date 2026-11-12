@@ -1,6 +1,6 @@
 # Skillis
 
-Skillis is a Garage and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Sneaky Pete's, Edinburgh on Fri, 20 Nov 2026.
+Skillis is a Garage and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Sneaky Pete's, Edinburgh on Fri, 20 Nov 2026.
 
 Skillis is a garage and bass artist based in United Kingdom, with 141 gigs on soundcheck across Aberdeen, Bristol, Dundee and Edinburgh and 2 more. Often billed alongside Feena, Creep Woland and LWS. Next up: Sneaky Pete's, Edinburgh on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Skillis is a garage and bass artist based in United Kingdom, with 141 gigs on so
 
 Feena, Creep Woland, LWS
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skillis/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skillis/)*

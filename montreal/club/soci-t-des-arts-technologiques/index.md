@@ -1,6 +1,6 @@
 # Société des arts technologiques
 
-Société des arts technologiques is a music venue in Montreal with 9 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "BEATS x SAT — [Unfolded]" on Thu, 12 Nov 2026.
+Société des arts technologiques is a music venue in Montreal with 9 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "BEATS x SAT — [Unfolded]" on Thu, 12 Nov 2026.
 
 Société des arts technologiques is a music venue in Montreal listed on soundcheck. 9 upcoming gigs, with line-ups including Adrian Sherwood, Ben UFO, Damacadam and Dick Lee and 2 more. See dates, start times and who's playing. 1201 Boulevard Saint-Laurent; Montréal, QC H2X 2S6; Canada.
 
@@ -22,4 +22,4 @@ Société des arts technologiques is a music venue in Montreal listed on soundch
 
 1201 Boulevard Saint-Laurent; Montréal, QC H2X 2S6; Canada, Montreal
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/soci-t-des-arts-technologiques/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/soci-t-des-arts-technologiques/)*

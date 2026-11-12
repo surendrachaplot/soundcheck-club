@@ -1,6 +1,6 @@
 # Cinetol
 
-Cinetol is a music venue in Amsterdam with 6 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Lynnic & ITSARIUS (extra show)" on Mon, 16 Nov 2026.
+Cinetol is a music venue in Amsterdam with 6 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Lynnic & ITSARIUS (extra show)" on Mon, 16 Nov 2026.
 
 Cinetol is a music venue in Amsterdam listed on soundcheck. 6 upcoming gigs, with line-ups including Lynnic. See dates, start times and who's playing. Tolstraat 182, 1074VM Amsterdam.
 
@@ -19,4 +19,4 @@ Cinetol is a music venue in Amsterdam listed on soundcheck. 6 upcoming gigs, wit
 
 Tolstraat 182, 1074VM Amsterdam, Amsterdam
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/cinetol/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/cinetol/)*

@@ -1,6 +1,6 @@
 # anna(n)
 
-anna(n) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Solace, Melbourne on Fri, 13 Nov 2026.
+anna(n) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Solace, Melbourne on Fri, 13 Nov 2026.
 
 anna(n) is a techno and house artist based in Sweden, with 29 gigs on soundcheck across Melbourne. Often billed alongside Charlotte Rooney, Hasvat Informant and ADMINISTRATOR. Next up: Solace, Melbourne on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ anna(n) is a techno and house artist based in Sweden, with 29 gigs on soundcheck
 
 Charlotte Rooney, Hasvat Informant, ADMINISTRATOR
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annan/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annan/)*

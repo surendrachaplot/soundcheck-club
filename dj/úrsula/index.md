@@ -1,6 +1,6 @@
 # Úrsula
 
-Úrsula is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - TBA, New York City on Fri, 13 Nov 2026.
+Úrsula is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - TBA, New York City on Fri, 13 Nov 2026.
 
 Úrsula is a house and electro artist based in United States of America, with 14 gigs on soundcheck across Mexico City, New York City and Rio de Janeiro. Often billed alongside Callie Reiff, Choukroun and gabby cocco. Next up: TBA - TBA, New York City on Fri 13 Nov.
 
@@ -25,4 +25,4 @@
 
 Callie Reiff, Choukroun, gabby cocco
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/úrsula/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/úrsula/)*

@@ -1,6 +1,6 @@
 # Barbaros
 
-Barbaros is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at glimmer, Hamburg on Fri, 13 Nov 2026.
+Barbaros is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at glimmer, Hamburg on Fri, 13 Nov 2026.
 
 Barbaros is a house and tech house artist based in Germany, with 32 gigs on soundcheck across Berlin and Hamburg. Often billed alongside David Lenk, Shimmy Robin and Laetizia. Next up: glimmer, Hamburg on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Barbaros is a house and tech house artist based in Germany, with 32 gigs on soun
 
 David Lenk, Shimmy Robin, Laetizia
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/barbaros/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/barbaros/)*

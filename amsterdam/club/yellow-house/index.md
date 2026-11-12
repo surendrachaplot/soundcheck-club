@@ -1,6 +1,6 @@
 # Yellow House
 
-Yellow House is a music venue in Amsterdam with 8 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "CHASE GIBBONZ x GLIMLIP: 'Tussen Halfjes en Helen' album release and afterparty" on Fri, 13 Nov 2026.
+Yellow House is a music venue in Amsterdam with 8 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "CHASE GIBBONZ x GLIMLIP: 'Tussen Halfjes en Helen' album release and afterparty" on Fri, 13 Nov 2026.
 
 Yellow House is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs, with line-ups including AUTOFLOWER, Becking, Bodhi and Cleo Grooves and 2 more. See dates, start times and who's playing. 1013AM Amsterdam, Danzigerbocht 45-R.
 
@@ -21,4 +21,4 @@ Yellow House is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs
 
 1013AM Amsterdam, Danzigerbocht 45-R, Amsterdam
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/yellow-house/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/yellow-house/)*

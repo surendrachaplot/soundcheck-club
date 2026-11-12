@@ -1,6 +1,6 @@
 # Pariah
 
-Pariah is a Techno and Bass artist with 10 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
+Pariah is a Techno and Bass artist with 10 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
 
 Pariah is a techno and bass artist based in United Kingdom, with 186 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 60 more. Often billed alongside mad miran, Verraco and Blawan. Next up: The Wildlands, Melbourne on Fri 20 Nov.
 
@@ -34,4 +34,4 @@ Pariah is a techno and bass artist based in United Kingdom, with 186 gigs on sou
 
 mad miran, Verraco, Blawan
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pariah/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pariah/)*

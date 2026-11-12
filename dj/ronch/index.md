@@ -1,6 +1,6 @@
 # ronch
 
-ronch is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Hulme Garden Centre, Manchester on Sat, 14 Nov 2026.
+ronch is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Hulme Garden Centre, Manchester on Sat, 14 Nov 2026.
 
 ronch is a house and techno artist based in Spain, with 11 gigs on soundcheck across Geneva and Manchester. Often billed alongside Sharayda, Alex Moore and Ginster. Next up: Hulme Garden Centre, Manchester on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ ronch is a house and techno artist based in Spain, with 11 gigs on soundcheck ac
 
 Sharayda, Alex Moore, Ginster
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ronch/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ronch/)*

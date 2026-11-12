@@ -1,14 +1,13 @@
 # Mood Ring
 
-Mood Ring is a music venue in New York City with 18 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Hand to Phone" on Wed, 11 Nov 2026.
+Mood Ring is a music venue in New York City with 17 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "RENDERS.003" on Thu, 12 Nov 2026.
 
-Mood Ring is a music venue in New York City listed on soundcheck. 18 upcoming gigs, with line-ups including Abril IRL, AG, ARINI and asapalena and 2 more. See dates, start times and who's playing. 1260 Myrtle Ave, Brooklyn, NY 11221, USA.
+Mood Ring is a music venue in New York City listed on soundcheck. 17 upcoming gigs, with line-ups including Abril IRL, AG, ARINI and asapalena and 2 more. See dates, start times and who's playing. 1260 Myrtle Ave, Brooklyn, NY 11221, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 11 Nov 2026 | Hand to Phone | Ivy Oh |
 | Thu, 12 Nov 2026 | RENDERS.003 | Abril IRL, Sasha Rome, entity_A |
 | Fri, 13 Nov 2026 | Protein 2 Year Celebration | BUNZ, DJ Primo, Dirtyfinger, Henry Jennings, Peregrine (US), nataliepops |
 | Fri, 13 Nov 2026 | [happy hour] Friday the 13th | DJ Triple AAA |
@@ -18,9 +17,10 @@ Mood Ring is a music venue in New York City listed on soundcheck. 18 upcoming gi
 | Thu, 19 Nov 2026 | Slayer's Happy Hour | Caratastrophe, DJ Passion Fruit |
 | Thu, 19 Nov 2026 | Club Massive | AG (1), Petal, SUCIA!, kstrobez, ogd (1) |
 | Fri, 20 Nov 2026 | Crash Test | Castillonaire, Connector, Max Kulchinsky, Varist, asapalena |
+| Fri, 20 Nov 2026 | FURRGASM |  |
 
 ## Address
 
 1260 Myrtle Ave, Brooklyn, NY 11221, USA, New York City
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mood-ring/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mood-ring/)*

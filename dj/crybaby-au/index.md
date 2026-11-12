@@ -1,6 +1,6 @@
 # Crybaby
 
-Crybaby is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Club 77, Sydney on Fri, 13 Nov 2026.
+Crybaby is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Club 77, Sydney on Fri, 13 Nov 2026.
 
 Crybaby is a techno and house artist based in Australia, with 60 gigs on soundcheck across Bangkok, Beijing, Brisbane and London and 7 more. Often billed alongside JUPiTA, Shampain and Caucasian Opportunities. Next up: Club 77, Sydney on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Crybaby is a techno and house artist based in Australia, with 60 gigs on soundch
 
 JUPiTA, Shampain, Caucasian Opportunities
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/crybaby-au/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/crybaby-au/)*

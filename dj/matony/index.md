@@ -1,6 +1,6 @@
 # Matony
 
-Matony is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Monarch, San Francisco/Oakland on Sat, 5 Dec 2026.
+Matony is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Monarch, San Francisco/Oakland on Sat, 5 Dec 2026.
 
 Matony is a tech house and house artist based in United States of America, with 24 gigs on soundcheck across San Francisco/Oakland. Often billed alongside SAGMO, Emanate and Kohbain. Next up: Monarch, San Francisco/Oakland on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Matony is a tech house and house artist based in United States of America, with 
 
 SAGMO, Emanate, Kohbain
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matony/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matony/)*

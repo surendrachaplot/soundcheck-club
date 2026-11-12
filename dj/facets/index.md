@@ -1,6 +1,6 @@
 # Facets
 
-Facets is a Italo Disco and EBM artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Red Pavilion, New York City on Fri, 20 Nov 2026.
+Facets is a Italo Disco and EBM artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Red Pavilion, New York City on Fri, 20 Nov 2026.
 
 Facets is an italo disco and ebm artist based in Serbia, with 138 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belgrade and 26 more. Often billed alongside Andi, Franz Scala and Berlin Bunny. Next up: The Red Pavilion, New York City on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Facets is an italo disco and ebm artist based in Serbia, with 138 gigs on soundc
 
 Andi, Franz Scala, Berlin Bunny
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/facets/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/facets/)*

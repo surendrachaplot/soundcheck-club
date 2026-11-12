@@ -1,6 +1,6 @@
 # bojvck
 
-bojvck is a Club and Bass artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Bolero, Seoul on Thu, 12 Nov 2026.
+bojvck is a Club and Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Bolero, Seoul on Thu, 12 Nov 2026.
 
 bojvck is a club and bass artist based in South Korea, with 114 gigs on soundcheck across Beijing, Hong Kong, London and Manila and 5 more. Often billed alongside DJ Co.kr, DJ POOL and SINAHILL. Next up: Bolero, Seoul on Thu 12 Nov.
 
@@ -27,4 +27,4 @@ bojvck is a club and bass artist based in South Korea, with 114 gigs on soundche
 
 DJ Co.kr, DJ POOL, SINAHILL
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bojvck/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bojvck/)*

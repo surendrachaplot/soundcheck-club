@@ -1,6 +1,6 @@
 # VINSON
 
-VINSON is a House and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Airliner, Los Angeles on Tue, 17 Nov 2026.
+VINSON is a House and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Airliner, Los Angeles on Tue, 17 Nov 2026.
 
 VINSON is a house and experimental artist based in United States of America, with 7 gigs on soundcheck across Berlin, Los Angeles and Munich. Often billed alongside Akumen, Al Pagoda and Andy Oro. Next up: The Airliner, Los Angeles on Tue 17 Nov.
 
@@ -23,4 +23,4 @@ VINSON is a house and experimental artist based in United States of America, wit
 
 Akumen, Al Pagoda, Andy Oro
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vinson/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vinson/)*

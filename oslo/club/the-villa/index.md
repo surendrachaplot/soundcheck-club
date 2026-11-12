@@ -1,6 +1,6 @@
 # The Villa
 
-The Villa is a music venue in Oslo with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Mark Ernestus (DE / Basic Channel) + Mezcaluci (CL), Ojelma (FI) & Posner" on Fri, 13 Nov 2026.
+The Villa is a music venue in Oslo with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Mark Ernestus (DE / Basic Channel) + Mezcaluci (CL), Ojelma (FI) & Posner" on Fri, 13 Nov 2026.
 
 The Villa is a music venue in Oslo listed on soundcheck. 5 upcoming gigs, with line-ups including Archypness, Fochs Koshka, Guild Navigator and Kollektiv Turmstrasse and 2 more. See dates, start times and who's playing. Møllergata 23; 0179 Oslo; Norway.
 
@@ -18,4 +18,4 @@ The Villa is a music venue in Oslo listed on soundcheck. 5 upcoming gigs, with l
 
 Møllergata 23; 0179 Oslo; Norway, Oslo
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/the-villa/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/the-villa/)*

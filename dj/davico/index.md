@@ -1,6 +1,6 @@
 # Davico
 
-Davico is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Flac, Seoul on Fri, 13 Nov 2026.
+Davico is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Flac, Seoul on Fri, 13 Nov 2026.
 
 Davico is a tech house and house artist based in South Korea, with 92 gigs on soundcheck across Bangkok and Seoul. Often billed alongside Departs, Demuk and Sudowoo. Next up: Flac, Seoul on Fri 13 Nov.
 
@@ -28,4 +28,4 @@ Davico is a tech house and house artist based in South Korea, with 92 gigs on so
 
 Departs, Demuk, Sudowoo
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davico/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davico/)*

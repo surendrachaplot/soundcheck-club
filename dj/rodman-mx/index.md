@@ -1,6 +1,6 @@
 # rodman
 
-rodman is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Japan Monterrey, Mexico City on Thu, 19 Nov 2026.
+rodman is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Japan Monterrey, Mexico City on Thu, 19 Nov 2026.
 
 rodman is a techno and house artist based in Mexico, with 55 gigs on soundcheck across Ibiza and Mexico City. Often billed alongside IRONBOARD, Seagit Arc and Fig (DYN). Next up: Japan Monterrey, Mexico City on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ rodman is a techno and house artist based in Mexico, with 55 gigs on soundcheck 
 
 IRONBOARD, Seagit Arc, Fig (DYN)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rodman-mx/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rodman-mx/)*

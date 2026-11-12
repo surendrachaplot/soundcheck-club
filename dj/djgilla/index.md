@@ -1,6 +1,6 @@
 # DJ Gilla
 
-DJ Gilla is a Broken Beat and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Carpet Shop, London on Sun, 13 Dec 2026.
+DJ Gilla is a Broken Beat and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Carpet Shop, London on Sun, 13 Dec 2026.
 
 DJ Gilla is a broken beat and funk / soul artist based in United Kingdom, with 16 gigs on soundcheck across Leeds and London. Often billed alongside Russ Ryan, Children of Zeus and Alex Phountzi. Next up: The Carpet Shop, London on Sun 13 Dec.
 
@@ -25,4 +25,4 @@ DJ Gilla is a broken beat and funk / soul artist based in United Kingdom, with 1
 
 Russ Ryan, Children of Zeus, Alex Phountzi
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djgilla/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djgilla/)*

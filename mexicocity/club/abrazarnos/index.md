@@ -1,6 +1,6 @@
 # Abrazarnos
 
-Abrazarnos is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "El Cabaret de Satana" on Thu, 26 Nov 2026.
+Abrazarnos is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "El Cabaret de Satana" on Thu, 26 Nov 2026.
 
 Abrazarnos is a music venue in Mexico City listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Hamburgo 310, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX.
 
@@ -14,4 +14,4 @@ Abrazarnos is a music venue in Mexico City listed on soundcheck. 1 upcoming gig.
 
 Hamburgo 310, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico City
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/abrazarnos/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/abrazarnos/)*

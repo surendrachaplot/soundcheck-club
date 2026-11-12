@@ -1,6 +1,6 @@
 # Katrixia
 
-Katrixia is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Cross Club, Prague on Sat, 21 Nov 2026.
+Katrixia is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Cross Club, Prague on Sat, 21 Nov 2026.
 
 Katrixia is a techno and house artist based in Czech Republic, with 21 gigs on soundcheck across Prague. Often billed alongside SAVBEA, XENEA LUMRA and VISNEACS. Next up: Cross Club, Prague on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Katrixia is a techno and house artist based in Czech Republic, with 21 gigs on s
 
 SAVBEA, XENEA LUMRA, VISNEACS
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katrixia/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katrixia/)*

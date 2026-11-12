@@ -1,6 +1,6 @@
 # Le TIZI
 
-Le TIZI is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Charlie, Munich on Fri, 18 Dec 2026.
+Le TIZI is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Charlie, Munich on Fri, 18 Dec 2026.
 
 Le TIZI is a house and tech house artist, with 12 gigs on soundcheck across Berlin, Hamburg, Munich and New York City. Often billed alongside Concentio, Confred and Ede. Next up: Charlie, Munich on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Le TIZI is a house and tech house artist, with 12 gigs on soundcheck across Berl
 
 Concentio, Confred, Ede
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/letizi/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/letizi/)*

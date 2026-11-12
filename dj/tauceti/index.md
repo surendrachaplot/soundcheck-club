@@ -1,6 +1,6 @@
 # Tau Ceti
 
-Tau Ceti is a Techno and EBM artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at FVTVR, Paris on Fri, 13 Nov 2026.
+Tau Ceti is a Techno and EBM artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at FVTVR, Paris on Fri, 13 Nov 2026.
 
 Tau Ceti is a techno and ebm artist, with 23 gigs on soundcheck across Amsterdam, Berlin, Dortmund / Essen and Leipzig and 4 more. Often billed alongside Isabel Soto, Oscar Mulero and Philippa Pacho. Next up: FVTVR, Paris on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Tau Ceti is a techno and ebm artist, with 23 gigs on soundcheck across Amsterdam
 
 Isabel Soto, Oscar Mulero, Philippa Pacho
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tauceti/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tauceti/)*

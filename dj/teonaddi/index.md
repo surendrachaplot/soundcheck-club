@@ -1,6 +1,6 @@
 # Teo Naddi
 
-Teo Naddi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Club Twentyone, Florence on Thu, 12 Nov 2026.
+Teo Naddi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Club Twentyone, Florence on Thu, 12 Nov 2026.
 
 Teo Naddi is a house and techno artist based in Italy, with 36 gigs on soundcheck across Berlin, Florence and Milan. Often billed alongside gaiden, Ricardo Baez and Inopia. Next up: Club Twentyone, Florence on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Teo Naddi is a house and techno artist based in Italy, with 36 gigs on soundchec
 
 gaiden, Ricardo Baez, Inopia
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/teonaddi/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/teonaddi/)*

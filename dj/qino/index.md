@@ -1,6 +1,6 @@
 # Qino
 
-Qino is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Bastet, Philadelphia on Sat, 21 Nov 2026.
+Qino is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Bastet, Philadelphia on Sat, 21 Nov 2026.
 
 Qino is a house and deep house artist based in United States of America, with 7 gigs on soundcheck across Philadelphia. Often billed alongside tj groover, Big Queso and Cowa. Next up: Bastet, Philadelphia on Sat 21 Nov.
 
@@ -23,4 +23,4 @@ Qino is a house and deep house artist based in United States of America, with 7 
 
 tj groover, Big Queso, Cowa
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/qino/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/qino/)*

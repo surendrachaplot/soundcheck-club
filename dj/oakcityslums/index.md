@@ -1,6 +1,6 @@
 # Oak City Slums
 
-Oak City Slums is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Tamarack, San Francisco/Oakland on Fri, 18 Dec 2026.
+Oak City Slums is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Tamarack, San Francisco/Oakland on Fri, 18 Dec 2026.
 
 Oak City Slums is a club and techno artist based in United States of America, with 50 gigs on soundcheck across Los Angeles, New Orleans, New York City and Philadelphia and 3 more. Often billed alongside Avi Loud, Daddy Kev and Liano. Next up: Tamarack, San Francisco/Oakland on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Oak City Slums is a club and techno artist based in United States of America, wi
 
 Avi Loud, Daddy Kev, Liano
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oakcityslums/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oakcityslums/)*

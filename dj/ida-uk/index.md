@@ -1,8 +1,8 @@
 # IDA
 
-IDA is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Sameheads, Berlin on Thu, 12 Nov 2026.
+IDA is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Sameheads, Berlin on Thu, 12 Nov 2026.
 
-IDA is a techno and house artist based in Finland, with 29 gigs on soundcheck across Amsterdam, Berlin, Dresden and Edinburgh and 6 more. Often billed alongside Giordano, Sansibar and Aurora Halal. Next up: Sameheads, Berlin on Thu 12 Nov.
+IDA is a techno and house artist based in Finland, with 28 gigs on soundcheck across Amsterdam, Berlin, Edinburgh and Glasgow and 5 more. Often billed alongside Giordano, Sansibar and Aurora Halal. Next up: Sameheads, Berlin on Thu 12 Nov.
 
 ## Upcoming shows
 
@@ -10,7 +10,6 @@ IDA is a techno and house artist based in Finland, with 29 gigs on soundcheck ac
 | --- | --- | --- |
 | Thu, 12 Nov 2026 | Sameheads | Berlin |
 | Sat, 21 Nov 2026 | Renate | Berlin |
-| Sat, 21 Nov 2026 | Sektor Evolution | Dresden |
 | Fri, 18 Dec 2026 | Post Bar | Helsinki |
 
 ## Recently played
@@ -28,4 +27,4 @@ IDA is a techno and house artist based in Finland, with 29 gigs on soundcheck ac
 
 Giordano, Sansibar, Aurora Halal
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ida-uk/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ida-uk/)*

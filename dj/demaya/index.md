@@ -1,6 +1,6 @@
 # Demayä
 
-Demayä is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Deemas Yacht - Gate 4 - Dubai Harbour, Dubai on Sat, 14 Nov 2026.
+Demayä is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Deemas Yacht - Gate 4 - Dubai Harbour, Dubai on Sat, 14 Nov 2026.
 
 Demayä is an afro house and house artist, with 12 gigs on soundcheck across Antwerp, Dubai, Istanbul and London and 3 more. Often billed alongside Moojo, Pablo Fierro and Sparrow & Barbossa. Next up: TBA - Deemas Yacht - Gate 4 - Dubai Harbour, Dubai on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Demayä is an afro house and house artist, with 12 gigs on soundcheck across Ant
 
 Moojo, Pablo Fierro, Sparrow & Barbossa
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/demaya/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/demaya/)*

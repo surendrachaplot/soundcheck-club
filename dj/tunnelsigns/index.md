@@ -1,6 +1,6 @@
 # Tunnel Signs
 
-Tunnel Signs is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Pleasure Club, Sydney on Sun, 15 Nov 2026.
+Tunnel Signs is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Pleasure Club, Sydney on Sun, 15 Nov 2026.
 
 Tunnel Signs is a techno and house artist based in Australia, with 18 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Mina Tonic, Reenie and Jerk Boy. Next up: Pleasure Club, Sydney on Sun 15 Nov.
 
@@ -26,4 +26,4 @@ Tunnel Signs is a techno and house artist based in Australia, with 18 gigs on so
 
 Mina Tonic, Reenie, Jerk Boy
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tunnelsigns/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tunnelsigns/)*

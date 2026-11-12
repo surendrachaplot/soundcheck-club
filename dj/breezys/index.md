@@ -1,6 +1,6 @@
 # Breezy S
 
-Breezy S is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Karmakoma, Belgrade on Sat, 21 Nov 2026.
+Breezy S is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Karmakoma, Belgrade on Sat, 21 Nov 2026.
 
 Breezy S is a house and techno artist based in Spain, with 52 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 2 more. Often billed alongside Miguel Silva, Mikaella and Djoan. Next up: Karmakoma, Belgrade on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Breezy S is a house and techno artist based in Spain, with 52 gigs on soundcheck
 
 Miguel Silva, Mikaella, Djoan
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/breezys/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/breezys/)*

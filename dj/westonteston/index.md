@@ -1,6 +1,6 @@
 # Weston & Teston
 
-Weston & Teston is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Geary Avenue Warehouse Project, Toronto on Fri, 20 Nov 2026.
+Weston & Teston is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Geary Avenue Warehouse Project, Toronto on Fri, 20 Nov 2026.
 
 Weston & Teston are a techno and trance duo based in Canada, with 8 gigs on soundcheck across Toronto. Often billed alongside KILL 9 1, R4TS and ArioVistus. Next up: Geary Avenue Warehouse Project, Toronto on Fri 20 Nov.
 
@@ -24,4 +24,4 @@ Weston & Teston are a techno and trance duo based in Canada, with 8 gigs on soun
 
 KILL 9 1, R4TS, ArioVistus
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/westonteston/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/westonteston/)*

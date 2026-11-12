@@ -1,6 +1,6 @@
 # ONI BLVCK
 
-ONI BLVCK is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Suma Han, Istanbul on Fri, 13 Nov 2026.
+ONI BLVCK is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Suma Han, Istanbul on Fri, 13 Nov 2026.
 
 ONI BLVCK is a techno and acid artist based in Turkey, with 17 gigs on soundcheck across Istanbul and Tbilisi. Often billed alongside CHTDEVIL, SEV!L!R and Fank Ford. Next up: Suma Han, Istanbul on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ ONI BLVCK is a techno and acid artist based in Turkey, with 17 gigs on soundchec
 
 CHTDEVIL, SEV!L!R, Fank Ford
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oniblvck/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oniblvck/)*

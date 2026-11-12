@@ -1,14 +1,15 @@
 # Sabina Palma
 
-Sabina Palma is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA, Mexico City on Sat, 5 Dec 2026.
+Sabina Palma is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA, Mexico City on Sat, 5 Dec 2026.
 
-Sabina Palma is a techno and electronica artist based in Mexico, with 9 gigs on soundcheck across Mexico City. Often billed alongside MORVIUS, Botelo and Deenia. Next up: TBA, Mexico City on Sat 5 Dec.
+Sabina Palma is a techno and electronica artist based in Mexico, with 10 gigs on soundcheck across Mexico City. Often billed alongside MORVIUS, Botelo and Deenia. Next up: TBA, Mexico City on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | TBA | Mexico City |
+| Sat, 5 Dec 2026 | CHICO | Mexico City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Sabina Palma is a techno and electronica artist based in Mexico, with 9 gigs on 
 
 MORVIUS, Botelo, Deenia
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sabinapalma/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sabinapalma/)*

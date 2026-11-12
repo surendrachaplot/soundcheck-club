@@ -1,6 +1,6 @@
 # Phil Berg
 
-Phil Berg is a Techno and Club artist with 8 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Crackhouse, Gdansk on Sat, 21 Nov 2026.
+Phil Berg is a Techno and Club artist with 8 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Crackhouse, Gdansk on Sat, 21 Nov 2026.
 
 Phil Berg is a techno and club artist based in Germany, with 169 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 56 more. Often billed alongside Lobster (NL), future.666 and Grace Dahl. Next up: Crackhouse, Gdansk on Sat 21 Nov.
 
@@ -32,4 +32,4 @@ Phil Berg is a techno and club artist based in Germany, with 169 gigs on soundch
 
 Lobster (NL), future.666, Grace Dahl
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/philberg/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/philberg/)*

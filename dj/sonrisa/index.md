@@ -1,6 +1,6 @@
 # SONRISA
 
-SONRISA is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at 1015 Folsom, San Francisco/Oakland on Fri, 13 Nov 2026.
+SONRISA is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at 1015 Folsom, San Francisco/Oakland on Fri, 13 Nov 2026.
 
 SONRISA is a house and tech house artist based in United States of America, with 15 gigs on soundcheck across Frankfurt, New York City and San Francisco/Oakland. Often billed alongside AMLA.DHAS, $EJ and 40split. Next up: 1015 Folsom, San Francisco/Oakland on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ SONRISA is a house and tech house artist based in United States of America, with
 
 AMLA.DHAS, $EJ, 40split
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sonrisa/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sonrisa/)*

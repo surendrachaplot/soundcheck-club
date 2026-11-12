@@ -1,6 +1,6 @@
 # Funk Tribu
 
-Funk Tribu is a Techno and Trance artist with 11 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at RSO.BERLIN, Berlin on Sat, 7 Nov 2026.
+Funk Tribu is a Techno and Trance artist with 11 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at RSO.BERLIN, Berlin on Sat, 7 Nov 2026.
 
 Funk Tribu is a techno and trance artist based in Colombia, with 211 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 73 more. Often billed alongside Bad Boombox, KI/KI and 999999999. Next up: RSO.BERLIN, Berlin on Sat 7 Nov.
 
@@ -35,4 +35,4 @@ Funk Tribu is a techno and trance artist based in Colombia, with 211 gigs on sou
 
 Bad Boombox, KI/KI, 999999999
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/funktribu/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/funktribu/)*

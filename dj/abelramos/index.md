@@ -1,6 +1,6 @@
 # Abel Ramos
 
-Abel Ramos is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Sala Groove, Madrid on Mon, 7 Dec 2026.
+Abel Ramos is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Sala Groove, Madrid on Mon, 7 Dec 2026.
 
 Abel Ramos is a techno and tech house artist based in Spain, with 13 gigs on soundcheck across Amsterdam, Barcelona and Madrid. Often billed alongside Cristian Varela, Dj Pepo and Brenda Serna. Next up: Sala Groove, Madrid on Mon 7 Dec.
 
@@ -26,4 +26,4 @@ Abel Ramos is a techno and tech house artist based in Spain, with 13 gigs on sou
 
 Cristian Varela, Dj Pepo, Brenda Serna (2)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/abelramos/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/abelramos/)*

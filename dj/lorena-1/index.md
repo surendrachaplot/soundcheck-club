@@ -1,6 +1,6 @@
 # LORENA (1)
 
-LORENA (1) is a Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Viuz, Medellin on Sun, 15 Nov 2026.
+LORENA (1) is a Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Viuz, Medellin on Sun, 15 Nov 2026.
 
 LORENA is a tech house artist, with 9 gigs on soundcheck across Medellin. Often billed alongside WM, Bownce and Cone. Next up: Viuz, Medellin on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ LORENA is a tech house artist, with 9 gigs on soundcheck across Medellin. Often 
 
 WM, Bownce, Cone
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lorena-1/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lorena-1/)*

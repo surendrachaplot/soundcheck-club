@@ -1,6 +1,6 @@
 # Freeza Chin
 
-Freeza Chin is a Garage and UK Funky artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Fox and Firkin, London on Thu, 12 Nov 2026.
+Freeza Chin is a Garage and UK Funky artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Fox and Firkin, London on Thu, 12 Nov 2026.
 
 Freeza Chin is a garage and uk funky artist based in Canada, with 23 gigs on soundcheck across Birmingham, London and Toronto. Often billed alongside Jayemkayem, KATIE COOPER and Kruz Leone. Next up: The Fox and Firkin, London on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Freeza Chin is a garage and uk funky artist based in Canada, with 23 gigs on sou
 
 Jayemkayem, KATIE COOPER, Kruz Leone
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/freezachin/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/freezachin/)*

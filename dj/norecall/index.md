@@ -1,6 +1,6 @@
 # noRecall
 
-noRecall is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Secret Location (near Frankfurter Allee), Berlin on Wed, 2 Dec 2026.
+noRecall is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Secret Location (near Frankfurter Allee), Berlin on Wed, 2 Dec 2026.
 
 noRecall is a techno and bass artist based in United States of America, with 29 gigs on soundcheck across Berlin, New York City, Portland and San Francisco/Oakland and 1 more. Often billed alongside Ross Lowder, Hünter and Jason Code. Next up: TBA - Secret Location (near Frankfurter Allee), Berlin on Wed 2 Dec.
 
@@ -25,4 +25,4 @@ noRecall is a techno and bass artist based in United States of America, with 29 
 
 Ross Lowder, Hünter, Jason Code
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/norecall/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/norecall/)*

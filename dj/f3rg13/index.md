@@ -1,6 +1,6 @@
 # F3rg13
 
-F3rg13 is a Garage and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Hidden, Manchester on Fri, 13 Nov 2026.
+F3rg13 is a Garage and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Hidden, Manchester on Fri, 13 Nov 2026.
 
 F3rg13 is a garage and house artist based in United Kingdom, with 17 gigs on soundcheck across Leeds, Liverpool, Manchester and Sheffield. Often billed alongside B-HIND, Phia (UK) and TJOS. Next up: Hidden, Manchester on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ F3rg13 is a garage and house artist based in United Kingdom, with 17 gigs on sou
 
 B-HIND, Phia (UK), TJOS
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/f3rg13/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/f3rg13/)*

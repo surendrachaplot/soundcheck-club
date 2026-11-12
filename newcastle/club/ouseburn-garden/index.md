@@ -1,6 +1,6 @@
 # Ouseburn Garden
 
-Ouseburn Garden is a music venue in Newcastle with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "UNDERGROUND SOUND: Free Party" on Fri, 20 Nov 2026.
+Ouseburn Garden is a music venue in Newcastle with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "UNDERGROUND SOUND: Free Party" on Fri, 20 Nov 2026.
 
 Ouseburn Garden is a music venue in Newcastle listed on soundcheck. 4 upcoming gigs, with line-ups including Anaïs, Beaumont, Diz Jockey and DJ Beers and 2 more. See dates, start times and who's playing. Unit 12, 1 Stepney Rd, Newcastle upon Tyne NE1 2PZ.
 
@@ -17,4 +17,4 @@ Ouseburn Garden is a music venue in Newcastle listed on soundcheck. 4 upcoming g
 
 Unit 12, 1 Stepney Rd, Newcastle upon Tyne NE1 2PZ, Newcastle
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/ouseburn-garden/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/ouseburn-garden/)*

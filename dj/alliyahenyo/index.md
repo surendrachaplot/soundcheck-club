@@ -1,6 +1,6 @@
 # Alliyah Enyo
 
-Alliyah Enyo is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Old Hairdressers, Glasgow on Mon, 30 Nov 2026.
+Alliyah Enyo is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Old Hairdressers, Glasgow on Mon, 30 Nov 2026.
 
 Alliyah Enyo is an experimental and techno artist based in United Kingdom, with 42 gigs on soundcheck across Amsterdam, Berlin, Edinburgh and Glasgow and 3 more. Often billed alongside JayJay, TRSSX and blairo. Next up: The Old Hairdressers, Glasgow on Mon 30 Nov.
 
@@ -26,4 +26,4 @@ Alliyah Enyo is an experimental and techno artist based in United Kingdom, with 
 
 JayJay, TRSSX, blairo
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alliyahenyo/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alliyahenyo/)*

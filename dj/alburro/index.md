@@ -1,6 +1,6 @@
 # Al Burro
 
-Al Burro is a Ambient and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Pawnshop, Taipei on Sat, 12 Dec 2026.
+Al Burro is a Ambient and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Pawnshop, Taipei on Sat, 12 Dec 2026.
 
 Al Burro is an ambient and techno artist based in Taiwan, with 60 gigs on soundcheck across Hanoi, Ho Chi Minh City and Taipei. Often billed alongside Kerena, miranda ku and Andy Chiu. Next up: Pawnshop, Taipei on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Al Burro is an ambient and techno artist based in Taiwan, with 60 gigs on soundc
 
 Kerena, miranda ku, Andy Chiu
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alburro/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alburro/)*

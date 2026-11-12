@@ -1,6 +1,6 @@
 # Ferdinand Monk
 
-Ferdinand Monk is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Les Enfants Brillants, Barcelona on Fri, 25 Dec 2026.
+Ferdinand Monk is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Les Enfants Brillants, Barcelona on Fri, 25 Dec 2026.
 
 Ferdinand Monk is a house and electro artist based in Spain, with 32 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Pau Rosés, Aline Brooklyn and Bruno (ES). Next up: Les Enfants Brillants, Barcelona on Fri 25 Dec.
 
@@ -25,4 +25,4 @@ Ferdinand Monk is a house and electro artist based in Spain, with 32 gigs on sou
 
 Pau Rosés, Aline Brooklyn, Bruno (ES)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ferdinandmonk/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ferdinandmonk/)*

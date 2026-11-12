@@ -1,6 +1,6 @@
 # MARIA MANUELA
 
-MARIA MANUELA is a Techno and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Bossa Nova Civic Club, New York City on Fri, 13 Nov 2026.
+MARIA MANUELA is a Techno and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Bossa Nova Civic Club, New York City on Fri, 13 Nov 2026.
 
 MARIA MANUELA is a techno and latin bass artist based in Colombia, with 40 gigs on soundcheck across Berlin, Bogotá, Boston and London and 8 more. Often billed alongside Brenda., Ultrabruma and Aguirre. Next up: Bossa Nova Civic Club, New York City on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ MARIA MANUELA is a techno and latin bass artist based in Colombia, with 40 gigs 
 
 Brenda., Ultrabruma, Aguirre
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mariamanuela/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mariamanuela/)*

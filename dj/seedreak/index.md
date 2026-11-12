@@ -1,6 +1,6 @@
 # Seedreak
 
-Seedreak is a Electro and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at La Kulture, Strasbourg on Sat, 14 Nov 2026.
+Seedreak is a Electro and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at La Kulture, Strasbourg on Sat, 14 Nov 2026.
 
 Seedreak is an electro and tech house artist based in France, with 12 gigs on soundcheck across Freiburg and Strasbourg. Often billed alongside Austher, 1client and AKA AKA. Next up: La Kulture, Strasbourg on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Seedreak is an electro and tech house artist based in France, with 12 gigs on so
 
 Austher, 1client, AKA AKA
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seedreak/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seedreak/)*

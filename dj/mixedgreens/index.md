@@ -1,6 +1,6 @@
 # Mixed Greens
 
-Mixed Greens is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Club Rawhide, New York City on Fri, 13 Nov 2026.
+Mixed Greens is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Club Rawhide, New York City on Fri, 13 Nov 2026.
 
 Mixed Greens is a house and techno artist based in United States of America, with 7 gigs on soundcheck across New York City. Often billed alongside Ian Crane, Ryan Farr and Sohrob. Next up: Club Rawhide, New York City on Fri 13 Nov.
 
@@ -23,4 +23,4 @@ Mixed Greens is a house and techno artist based in United States of America, wit
 
 Ian Crane, Ryan Farr, Sohrob
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mixedgreens/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mixedgreens/)*

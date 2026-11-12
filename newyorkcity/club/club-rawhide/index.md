@@ -1,6 +1,6 @@
 # Club Rawhide
 
-Club Rawhide is a music venue in New York City with 8 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "CODED Thursdays 11.12.26 w/ Will Jack, Tim Reyes " on Thu, 12 Nov 2026.
+Club Rawhide is a music venue in New York City with 8 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "CODED Thursdays 11.12.26 w/ Will Jack, Tim Reyes " on Thu, 12 Nov 2026.
 
 Club Rawhide is a music venue in New York City listed on soundcheck. 8 upcoming gigs, with line-ups including flirty800, Jacob Meehan, Johnny Dynell and Kim Anh and 2 more. See dates, start times and who's playing. 250 W 26TH ST.
 
@@ -21,4 +21,4 @@ Club Rawhide is a music venue in New York City listed on soundcheck. 8 upcoming 
 
 250 W 26TH ST, New York City
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/club-rawhide/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/club-rawhide/)*

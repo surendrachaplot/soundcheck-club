@@ -1,6 +1,6 @@
 # PROBLEMTK
 
-PROBLEMTK is a Reggaeton artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at EL SÓTANO, Madrid on Thu, 10 Dec 2026.
+PROBLEMTK is a Reggaeton artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at EL SÓTANO, Madrid on Thu, 10 Dec 2026.
 
 PROBLEMTK is a reggaeton artist, with 7 gigs on soundcheck across Madrid. Often billed alongside Don Amor and Linapary. Next up: EL SÓTANO, Madrid on Thu 10 Dec.
 
@@ -23,4 +23,4 @@ PROBLEMTK is a reggaeton artist, with 7 gigs on soundcheck across Madrid. Often 
 
 Don Amor, Linapary
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/problemtk/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/problemtk/)*

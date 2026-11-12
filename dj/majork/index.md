@@ -1,6 +1,6 @@
 # Major K
 
-Major K is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - BANK CLUB, Warsaw on Fri, 13 Nov 2026.
+Major K is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - BANK CLUB, Warsaw on Fri, 13 Nov 2026.
 
 Major K is a tech house and techno artist based in Belgium, with 18 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 5 more. Often billed alongside Judoc, Jana Vitiligo and Munay. Next up: TBA - BANK CLUB, Warsaw on Fri 13 Nov.
 
@@ -12,6 +12,7 @@ Major K is a tech house and techno artist based in Belgium, with 18 gigs on soun
 
 ## Recently played
 
+- Sol y Luna Lounge & Club, Düsseldorf · Wed, 11 Nov 2026
 - Nicholas Groente & Fruit, Amsterdam · Wed, 21 Oct 2026
 - 93 Feet East, London · Sat, 3 Oct 2026
 - TBA - Passion Cat Catamaran Ibiza - San Antonio, Ibiza · Sat, 19 Sept 2026
@@ -19,10 +20,9 @@ Major K is a tech house and techno artist based in Belgium, with 18 gigs on soun
 - Promenaden Eck, Berlin · Fri, 3 Jul 2026
 - CREA, Amsterdam · Wed, 3 Jun 2026
 - The Golden Lion, Manchester · Fri, 29 May 2026
-- Madame Moustache, Brussels · Fri, 29 May 2026
 
 ## Shares bills with
 
 Judoc, Jana Vitiligo, Munay
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/majork/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/majork/)*

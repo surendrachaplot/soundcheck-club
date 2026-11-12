@@ -1,6 +1,6 @@
 # Tanzhaus West
 
-Tanzhaus West is a music venue in Frankfurt with 8 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Synthlab x LFO: ETHER V5 with Cirkle (Live), Justine Perry, Toobris" on Fri, 20 Nov 2026.
+Tanzhaus West is a music venue in Frankfurt with 8 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Synthlab x LFO: ETHER V5 with Cirkle (Live), Justine Perry, Toobris" on Fri, 20 Nov 2026.
 
 Tanzhaus West is a music venue in Frankfurt listed on soundcheck. 8 upcoming gigs, with line-ups including Justine Perry, ADHASS, Alberto Tolo and Andrale and 2 more. See dates, start times and who's playing. Gutleutstrasse 294; 60327 Frankfurt; Germany.
 
@@ -21,4 +21,4 @@ Tanzhaus West is a music venue in Frankfurt listed on soundcheck. 8 upcoming gig
 
 Gutleutstrasse 294; 60327 Frankfurt; Germany, Frankfurt
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/tanzhaus-west/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/tanzhaus-west/)*

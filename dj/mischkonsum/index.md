@@ -1,6 +1,6 @@
 # Mischkonsum
 
-Mischkonsum is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Das Werk, Vienna on Sat, 14 Nov 2026.
+Mischkonsum is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Das Werk, Vienna on Sat, 14 Nov 2026.
 
 Mischkonsum is a trance and techno artist based in Austria, with 9 gigs on soundcheck across Austria, Cologne, Leipzig and Nürnberg and 1 more. Often billed alongside Joey, Crystal O and DJ Vibekiller. Next up: Das Werk, Vienna on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Mischkonsum is a trance and techno artist based in Austria, with 9 gigs on sound
 
 Joey (2), Crystal O, DJ Vibekiller
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mischkonsum/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mischkonsum/)*

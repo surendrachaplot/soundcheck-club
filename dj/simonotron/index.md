@@ -1,6 +1,6 @@
 # Simonotron
 
-Simonotron is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Sneaky Pete's, Edinburgh on Fri, 4 Dec 2026.
+Simonotron is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Sneaky Pete's, Edinburgh on Fri, 4 Dec 2026.
 
 Simonotron is a house and disco artist based in United Kingdom, with 56 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside Marie Davidson, Accident Machine and Cormac. Next up: Sneaky Pete's, Edinburgh on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Simonotron is a house and disco artist based in United Kingdom, with 56 gigs on 
 
 Marie Davidson, Accident Machine, Cormac
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simonotron/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simonotron/)*

@@ -1,6 +1,6 @@
 # Gene Farris
 
-Gene Farris is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Radius, Chicago on Fri, 11 Dec 2026.
+Gene Farris is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Radius, Chicago on Fri, 11 Dec 2026.
 
 Gene Farris is a house and tech house artist based in United States of America, with 124 gigs on soundcheck across Amsterdam, Auckland, Austin and Boston and 23 more. Often billed alongside OFFAIAH, Anthony Attalla and Mark Knight. Next up: Radius, Chicago on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ Gene Farris is a house and tech house artist based in United States of America, 
 
 OFFAIAH, Anthony Attalla, Mark Knight
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/genefarris/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/genefarris/)*

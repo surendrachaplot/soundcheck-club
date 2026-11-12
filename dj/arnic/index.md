@@ -1,6 +1,6 @@
 # Arnic
 
-Arnic is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Platforma Wolff, Bucharest on Sat, 21 Nov 2026.
+Arnic is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Platforma Wolff, Bucharest on Sat, 21 Nov 2026.
 
 Arnic is a house and tech house artist based in Spain, with 17 gigs on soundcheck across Barcelona, Berlin, Bucharest and Frankfurt and 5 more. Often billed alongside Mari.te, Lis Sarroca and Lumiere. Next up: Platforma Wolff, Bucharest on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Arnic is a house and tech house artist based in Spain, with 17 gigs on soundchec
 
 Mari.te, Lis Sarroca, Lumiere
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arnic/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arnic/)*

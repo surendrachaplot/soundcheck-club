@@ -1,6 +1,6 @@
 # Nikki Carvell
 
-Nikki Carvell is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Toff in Town, Melbourne on Fri, 13 Nov 2026.
+Nikki Carvell is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Toff in Town, Melbourne on Fri, 13 Nov 2026.
 
 Nikki Carvell is a house and disco artist based in Australia, with 13 gigs on soundcheck across Brisbane, Ibiza, London and Melbourne and 1 more. Often billed alongside Callyy, Jerry Drew and Mas Que Nada Brothers. Next up: The Toff in Town, Melbourne on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Nikki Carvell is a house and disco artist based in Australia, with 13 gigs on so
 
 Callyy, Jerry Drew, Mas Que Nada Brothers
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkicarvell/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkicarvell/)*

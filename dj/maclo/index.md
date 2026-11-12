@@ -1,6 +1,6 @@
 # MACLO
 
-MACLO is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Electric Pizza Shop, Manchester on Sat, 12 Dec 2026.
+MACLO is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Electric Pizza Shop, Manchester on Sat, 12 Dec 2026.
 
 MACLO is a house and garage artist based in United Kingdom, with 32 gigs on soundcheck across Ibiza, Leeds, London and Manchester. Often billed alongside B.Love, Burnski and Cinthie. Next up: Electric Pizza Shop, Manchester on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ MACLO is a house and garage artist based in United Kingdom, with 32 gigs on soun
 
 B.Love, Burnski, Cinthie
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maclo/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maclo/)*

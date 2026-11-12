@@ -1,6 +1,6 @@
 # Hayliegh
 
-Hayliegh is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Moon Club, Bristol on Sat, 14 Nov 2026.
+Hayliegh is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Moon Club, Bristol on Sat, 14 Nov 2026.
 
 Hayliegh is a house and disco artist based in United Kingdom, with 10 gigs on soundcheck across Bristol. Often billed alongside SUFI, Dressed To Sweat and Thrilogy. Next up: Moon Club, Bristol on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Hayliegh is a house and disco artist based in United Kingdom, with 10 gigs on so
 
 SUFI, Dressed To Sweat, Thrilogy
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hayliegh/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hayliegh/)*

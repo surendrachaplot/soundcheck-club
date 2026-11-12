@@ -1,6 +1,6 @@
 # Better Call Karll
 
-Better Call Karll is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Zero Club, Lisbon on Sat, 21 Nov 2026.
+Better Call Karll is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Zero Club, Lisbon on Sat, 21 Nov 2026.
 
 Better Call Karll is a techno and progressive house artist based in Portugal, with 45 gigs on soundcheck across Amsterdam, Barcelona, Lisbon and London and 1 more. Often billed alongside MURI, CAZTILLA and The Other Two. Next up: Zero Club, Lisbon on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Better Call Karll is a techno and progressive house artist based in Portugal, wi
 
 MURI, CAZTILLA, The Other Two
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bettercallkarll/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bettercallkarll/)*

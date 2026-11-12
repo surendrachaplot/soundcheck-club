@@ -1,6 +1,6 @@
 # Radost Music Club
 
-Radost Music Club is a music venue in Bratislava with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "PULZE w. KRISTIE KARDIO + Segment (CZ) + Majsko + Kimlie" on Fri, 13 Nov 2026.
+Radost Music Club is a music venue in Bratislava with 7 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "PULZE w. KRISTIE KARDIO + Segment (CZ) + Majsko + Kimlie" on Fri, 13 Nov 2026.
 
 Radost Music Club is a music venue in Bratislava listed on soundcheck. 7 upcoming gigs, with line-ups including Hasky (SK), KRISTIE KARDIO, Majsko and Marosh (SK) and 2 more. See dates, start times and who's playing. Obchodna 48; 84108 Bratislava; Slovakia.
 
@@ -20,4 +20,4 @@ Radost Music Club is a music venue in Bratislava listed on soundcheck. 7 upcomin
 
 Obchodna 48; 84108 Bratislava; Slovakia, Bratislava
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/bratislava/club/radost-music-club/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/bratislava/club/radost-music-club/)*

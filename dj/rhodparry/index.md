@@ -1,6 +1,6 @@
 # Rhod Parry
 
-Rhod Parry is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Electric Pizza Shop, Manchester on Fri, 13 Nov 2026.
+Rhod Parry is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Electric Pizza Shop, Manchester on Fri, 13 Nov 2026.
 
 Rhod Parry is a house and techno artist based in United Kingdom, with 74 gigs on soundcheck across Birmingham, Leeds, Liverpool and Manchester. Often billed alongside Kickin Pigeon, Chunky and Fastlove. Next up: Electric Pizza Shop, Manchester on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Rhod Parry is a house and techno artist based in United Kingdom, with 74 gigs on
 
 Kickin Pigeon, Chunky, Fastlove
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rhodparry/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rhodparry/)*

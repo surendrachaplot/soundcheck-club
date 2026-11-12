@@ -1,6 +1,6 @@
 # Jana Irmert
 
-Jana Irmert is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Thila Ground, Seoul on Fri, 11 Dec 2026.
+Jana Irmert is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Thila Ground, Seoul on Fri, 11 Dec 2026.
 
 Jana Irmert is an experimental and electronica artist, with 8 gigs on soundcheck across Berlin, Dortmund / Essen, Leipzig and Mexico City and 2 more. Often billed alongside ophélie, AceMoMA and Actress. Next up: Thila Ground, Seoul on Fri 11 Dec.
 
@@ -24,4 +24,4 @@ Jana Irmert is an experimental and electronica artist, with 8 gigs on soundcheck
 
 ophélie, AceMoMA, Actress
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janairmert/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janairmert/)*

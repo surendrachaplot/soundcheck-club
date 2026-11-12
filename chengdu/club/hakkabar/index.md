@@ -1,6 +1,6 @@
 # Hakkabar 院吧
 
-Hakkabar 院吧 is a music venue in Chengdu with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "11.12 周四 |「SOFT MIX」 · Gong" on Thu, 12 Nov 2026.
+Hakkabar 院吧 is a music venue in Chengdu with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "11.12 周四 |「SOFT MIX」 · Gong" on Thu, 12 Nov 2026.
 
 Hakkabar 院吧 is a music venue in Chengdu listed on soundcheck. 4 upcoming gigs, with line-ups including Gong, Luna LI and TASHI. See dates, start times and who's playing. 成都市科华北路沸城A座1201.
 
@@ -17,4 +17,4 @@ Hakkabar 院吧 is a music venue in Chengdu listed on soundcheck. 4 upcoming gig
 
 成都市科华北路沸城A座1201, Chengdu
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/chengdu/club/hakkabar/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/chengdu/club/hakkabar/)*

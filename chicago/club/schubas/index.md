@@ -1,6 +1,6 @@
 # Schubas
 
-Schubas is a music venue in Chicago with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "House Party" on Fri, 13 Nov 2026.
+Schubas is a music venue in Chicago with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "House Party" on Fri, 13 Nov 2026.
 
 Schubas is a music venue in Chicago listed on soundcheck. 2 upcoming gigs, with line-ups including Dj Scari, Jace Inman and Memphis LK. See dates, start times and who's playing. 3159 N. Southport Ave; Chicago, IL 60657; United States.
 
@@ -15,4 +15,4 @@ Schubas is a music venue in Chicago listed on soundcheck. 2 upcoming gigs, with 
 
 3159 N. Southport Ave; Chicago, IL 60657; United States, Chicago
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/schubas/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/schubas/)*

@@ -1,6 +1,6 @@
 # DÍSCOLA
 
-DÍSCOLA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Mad Radio Medellín, Medellin on Thu, 12 Nov 2026.
+DÍSCOLA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Mad Radio Medellín, Medellin on Thu, 12 Nov 2026.
 
 DÍSCOLA is a house and techno artist, with 21 gigs on soundcheck across Medellin. Often billed alongside Kriss Salas, LYA FRANK and AFM. Next up: Mad Radio Medellín, Medellin on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ DÍSCOLA is a house and techno artist, with 21 gigs on soundcheck across Medelli
 
 Kriss Salas, LYA FRANK, AFM
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/díscola/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/díscola/)*

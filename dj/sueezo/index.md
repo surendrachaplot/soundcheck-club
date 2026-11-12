@@ -1,6 +1,6 @@
 # Sueezo
 
-Sueezo is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Resume Valencia, Valencia on Thu, 12 Nov 2026.
+Sueezo is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Resume Valencia, Valencia on Thu, 12 Nov 2026.
 
 Sueezo is a house and tech house artist based in Spain, with 80 gigs on soundcheck across Barcelona, Berlin, Budapest and Dublin and 9 more. Often billed alongside Pau Pérez, Pin and Varis. Next up: Resume Valencia, Valencia on Thu 12 Nov.
 
@@ -27,4 +27,4 @@ Sueezo is a house and tech house artist based in Spain, with 80 gigs on soundche
 
 Pau Pérez, Pin, Varis
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sueezo/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sueezo/)*

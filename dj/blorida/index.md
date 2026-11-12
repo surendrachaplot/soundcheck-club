@@ -1,6 +1,6 @@
 # blo rida
 
-blo rida is a Bass and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Abbey, Manchester on Sat, 28 Nov 2026.
+blo rida is a Bass and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Abbey, Manchester on Sat, 28 Nov 2026.
 
 blo rida is a bass and trance artist based in United Kingdom, with 24 gigs on soundcheck across Bristol and Manchester. Often billed alongside Club Penguin, Ali Roche and SUS-R. Next up: The Abbey, Manchester on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ blo rida is a bass and trance artist based in United Kingdom, with 24 gigs on so
 
 Club Penguin, Ali Roche (2), SUS-R
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blorida/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blorida/)*

@@ -1,6 +1,6 @@
 # Linapary
 
-Linapary is a Guaracha and Reggaeton artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at GAP Club, Chengdu on Fri, 13 Nov 2026.
+Linapary is a Guaracha and Reggaeton artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at GAP Club, Chengdu on Fri, 13 Nov 2026.
 
 Linapary is a guaracha and reggaeton artist based in Colombia, with 143 gigs on soundcheck across Atlanta, Barcelona, Belgrade and Berlin and 29 more. Often billed alongside BZZHOUND, Don Amor and DJ2D2. Next up: GAP Club, Chengdu on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Linapary is a guaracha and reggaeton artist based in Colombia, with 143 gigs on 
 
 BZZHOUND, Don Amor, DJ2D2
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/linapary/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/linapary/)*

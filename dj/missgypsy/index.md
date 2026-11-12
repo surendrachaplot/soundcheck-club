@@ -1,6 +1,6 @@
 # Miss Gypsy
 
-Miss Gypsy is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at MAD Radio NYC, New York City on Fri, 13 Nov 2026.
+Miss Gypsy is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at MAD Radio NYC, New York City on Fri, 13 Nov 2026.
 
 Miss Gypsy is a house and techno artist based in United States of America, with 46 gigs on soundcheck across Detroit and New York City. Often billed alongside JKriv, Mario Polanco and Aaron Dae. Next up: MAD Radio NYC, New York City on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Miss Gypsy is a house and techno artist based in United States of America, with 
 
 JKriv, Mario Polanco, Aaron Dae
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/missgypsy/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/missgypsy/)*

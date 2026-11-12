@@ -1,6 +1,6 @@
 # NT-FRAGILE
 
-NT-FRAGILE is a Disco and R&B artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Club NYX, Amsterdam on Sat, 14 Nov 2026.
+NT-FRAGILE is a Disco and R&B artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Club NYX, Amsterdam on Sat, 14 Nov 2026.
 
 NT-FRAGILE is a disco and r&b artist based in Netherlands, with 2 gigs on soundcheck across Amsterdam and Utrecht. Often billed alongside Babs op de beat, Evi and MBQT. Next up: Club NYX, Amsterdam on Sat 14 Nov.
 
@@ -15,4 +15,4 @@ NT-FRAGILE is a disco and r&b artist based in Netherlands, with 2 gigs on soundc
 
 Babs op de beat, Evi (1), MBQT
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nt-fragile/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nt-fragile/)*

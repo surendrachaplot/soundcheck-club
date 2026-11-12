@@ -1,6 +1,6 @@
 # x/o
 
-x/o is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Red Gate Arts Society, Vancouver on Fri, 20 Nov 2026.
+x/o is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Red Gate Arts Society, Vancouver on Fri, 20 Nov 2026.
 
 x/o is an experimental and club artist, with 30 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Ho Chi Minh City and 10 more. Often billed alongside Endgame, Sin Maldita and Amselysen. Next up: Red Gate Arts Society, Vancouver on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ x/o is an experimental and club artist, with 30 gigs on soundcheck across Amster
 
 Endgame, Sin Maldita, Amselysen
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xo/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xo/)*

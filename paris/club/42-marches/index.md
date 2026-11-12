@@ -1,6 +1,6 @@
 # 42 Marches
 
-42 Marches is a music venue in Paris with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Grisemule 2 Years: Ekkel, Leïlo, Nayely" on Sat, 14 Nov 2026.
+42 Marches is a music venue in Paris with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Grisemule 2 Years: Ekkel, Leïlo, Nayely" on Sat, 14 Nov 2026.
 
 42 Marches is a music venue in Paris listed on soundcheck. 5 upcoming gigs, with line-ups including Audrey Danza, Ben Hamama, Benny Benacid and Deb Saadoun and 2 more. See dates, start times and who's playing. Esplanade Johnny Hallyday, 75012 Paris.
 
@@ -18,4 +18,4 @@
 
 Esplanade Johnny Hallyday, 75012 Paris, Paris
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/42-marches/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/42-marches/)*

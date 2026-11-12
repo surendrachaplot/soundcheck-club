@@ -1,6 +1,6 @@
 # Seraphim
 
-Seraphim is a Minimal and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Dear Eleanor, Miami on Fri, 13 Nov 2026.
+Seraphim is a Minimal and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Dear Eleanor, Miami on Fri, 13 Nov 2026.
 
 Seraphim is a minimal and techno artist based in United States of America, with 14 gigs on soundcheck across Austin, Berlin, Ghent and London and 3 more. Often billed alongside Durosai, Breger and Grouch. Next up: Dear Eleanor, Miami on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Seraphim is a minimal and techno artist based in United States of America, with 
 
 Durosai, Breger, Grouch
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seraphim/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seraphim/)*

@@ -1,6 +1,6 @@
 # Zak Zodiak
 
-Zak Zodiak is a Afro House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Bar 13, New York City on Sat, 14 Nov 2026.
+Zak Zodiak is a Afro House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Bar 13, New York City on Sat, 14 Nov 2026.
 
 Zak Zodiak is an afro house and deep house artist based in United States of America, with 20 gigs on soundcheck across New York City and San Francisco/Oakland. Often billed alongside Bradford James, Bendito and Ameer Brooks. Next up: Bar 13, New York City on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Zak Zodiak is an afro house and deep house artist based in United States of Amer
 
 Bradford James, Bendito, Ameer Brooks
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zakzodiak/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zakzodiak/)*

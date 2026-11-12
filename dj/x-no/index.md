@@ -1,6 +1,6 @@
 # X-No
 
-X-No is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Rama Soundgarden, Medellin on Sat, 14 Nov 2026.
+X-No is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Rama Soundgarden, Medellin on Sat, 14 Nov 2026.
 
 X-No is a house and italo disco artist based in Colombia, with 7 gigs on soundcheck across Colombia and Medellin. Often billed alongside Dantral, GIORGIO (IT) and Sunny. Next up: Rama Soundgarden, Medellin on Sat 14 Nov.
 
@@ -23,4 +23,4 @@ X-No is a house and italo disco artist based in Colombia, with 7 gigs on soundch
 
 Dantral, GIORGIO (IT), Sunny
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/x-no/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/x-no/)*

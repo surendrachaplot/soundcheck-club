@@ -1,6 +1,6 @@
 # HYDE
 
-HYDE is a Tech House and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Central Florida Fairgrounds, Florida on Fri, 23 Apr 2027.
+HYDE is a Tech House and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Central Florida Fairgrounds, Florida on Fri, 23 Apr 2027.
 
 HYDE is a tech house and bass artist based in Morocco, with 13 gigs on soundcheck across Atlanta, Austin, Central and Florida and 8 more. Often billed alongside AG (NYC), Borne (US) and Calcium. Next up: Central Florida Fairgrounds, Florida on Fri 23 Apr.
 
@@ -25,4 +25,4 @@ HYDE is a tech house and bass artist based in Morocco, with 13 gigs on soundchec
 
 AG (NYC), Borne (US), Calcium
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hyde/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hyde/)*

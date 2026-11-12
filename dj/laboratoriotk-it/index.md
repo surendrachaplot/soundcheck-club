@@ -1,6 +1,6 @@
 # Laboratori Otk
 
-Laboratori Otk is a Minimal and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Nekoza Records, Valencia on Fri, 13 Nov 2026.
+Laboratori Otk is a Minimal and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Nekoza Records, Valencia on Fri, 13 Nov 2026.
 
 Laboratori Otk is a minimal and tech house artist based in Italy, with 4 gigs on soundcheck across Milan and Valencia. Often billed alongside Claymore, Andu Simion and DJLMP. Next up: Nekoza Records, Valencia on Fri 13 Nov.
 
@@ -20,4 +20,4 @@ Laboratori Otk is a minimal and tech house artist based in Italy, with 4 gigs on
 
 Claymore, Andu Simion, DJLMP
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laboratoriotk-it/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laboratoriotk-it/)*

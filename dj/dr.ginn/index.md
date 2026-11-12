@@ -1,6 +1,6 @@
 # Dr. Ginn
 
-Dr. Ginn is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Chica Club, Barcelona on Sat, 14 Nov 2026.
+Dr. Ginn is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Chica Club, Barcelona on Sat, 14 Nov 2026.
 
 Dr. Ginn is a house and disco artist based in Spain, with 9 gigs on soundcheck across Barcelona. Often billed alongside ELLIOT (ES), Elliot (UK) and Hermit (ES). Next up: Chica Club, Barcelona on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Dr. Ginn is a house and disco artist based in Spain, with 9 gigs on soundcheck a
 
 ELLIOT (ES), Elliot (UK), Hermit (ES)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.ginn/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.ginn/)*

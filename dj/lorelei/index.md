@@ -1,6 +1,6 @@
 # Lorelei
 
-Lorelei is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The California Clipper, Chicago on Fri, 20 Nov 2026.
+Lorelei is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The California Clipper, Chicago on Fri, 20 Nov 2026.
 
 Lorelei is a techno and acid artist based in United States of America, with 40 gigs on soundcheck across Chicago, Detroit, London and New York City and 2 more. Often billed alongside Justin Aulis Long, Michael Serafini and Eric Schwab. Next up: The California Clipper, Chicago on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Lorelei is a techno and acid artist based in United States of America, with 40 g
 
 Justin Aulis Long, Michael Serafini, Eric Schwab
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lorelei/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lorelei/)*

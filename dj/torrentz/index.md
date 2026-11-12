@@ -1,6 +1,6 @@
 # TORRENTZ
 
-TORRENTZ is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Tama, Poznan on Fri, 15 Jan 2027.
+TORRENTZ is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Tama, Poznan on Fri, 15 Jan 2027.
 
 TORRENTZ is a techno and hardcore artist based in Poland, with 35 gigs on soundcheck across Krakow, Lodz, New York City and Poznan and 4 more. Often billed alongside Mikouaj Rejw / Wixapol S.A., Wixapol and PLATTER. Next up: Tama, Poznan on Fri 15 Jan.
 
@@ -25,4 +25,4 @@ TORRENTZ is a techno and hardcore artist based in Poland, with 35 gigs on soundc
 
 Mikouaj Rejw / Wixapol S.A., Wixapol, PLATTER
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/torrentz/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/torrentz/)*

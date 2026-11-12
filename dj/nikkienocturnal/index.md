@@ -1,6 +1,6 @@
 # Nikkie Nocturnal
 
-Nikkie Nocturnal is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Magic Stick, Detroit on Fri, 13 Nov 2026.
+Nikkie Nocturnal is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Magic Stick, Detroit on Fri, 13 Nov 2026.
 
 Nikkie Nocturnal is a techno and house artist based in United States of America, with 16 gigs on soundcheck across Detroit. Often billed alongside Brent Shay, Frankie Bones and Alexander Technique. Next up: Magic Stick, Detroit on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Nikkie Nocturnal is a techno and house artist based in United States of America,
 
 Brent Shay, Frankie Bones, Alexander Technique
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkienocturnal/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkienocturnal/)*

@@ -1,6 +1,6 @@
 # Rumbalotte
 
-Rumbalotte is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Secret Location, Berlin on Sat, 28 Nov 2026.
+Rumbalotte is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Secret Location, Berlin on Sat, 28 Nov 2026.
 
 Rumbalotte is a techno and hardcore artist, with 9 gigs on soundcheck across Berlin and Münster. Often billed alongside Kimban, TechNovaBader and ALICA RØUGH. Next up: TBA - Secret Location, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Rumbalotte is a techno and hardcore artist, with 9 gigs on soundcheck across Ber
 
 Kimban, TechNovaBader, ALICA RØUGH
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rumbalotte/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rumbalotte/)*

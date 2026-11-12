@@ -1,6 +1,6 @@
 # Alex Kassian
 
-Alex Kassian is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - E16, London on Sat, 14 Nov 2026.
+Alex Kassian is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - E16, London on Sat, 14 Nov 2026.
 
 Alex Kassian is a house and techno artist based in Germany, with 205 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 68 more. Often billed alongside PARAMIDA, Running Hot and Job Jobse. Next up: TBA - E16, London on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Alex Kassian is a house and techno artist based in Germany, with 205 gigs on sou
 
 PARAMIDA, Running Hot, Job Jobse
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alkassian/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alkassian/)*

@@ -1,6 +1,6 @@
 # Borja S
 
-Borja S is a Techno and Electronica artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at feedbk, New York City on Fri, 20 Nov 2026.
+Borja S is a Techno and Electronica artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at feedbk, New York City on Fri, 20 Nov 2026.
 
 Borja S is a techno and electronica artist based in Spain, with 22 gigs on soundcheck across Barcelona, Berlin, Ibiza and Lisbon and 7 more. Often billed alongside Avo (ES), Cesc (ES) and Nurias. Next up: feedbk, New York City on Fri 20 Nov.
 
@@ -28,4 +28,4 @@ Borja S is a techno and electronica artist based in Spain, with 22 gigs on sound
 
 Avo (ES), Cesc (ES), Nurias
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/borjas/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/borjas/)*

@@ -1,6 +1,6 @@
 # Danny Martino
 
-Danny Martino is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Quartiere Intelligente, Naples on Sat, 14 Nov 2026.
+Danny Martino is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Quartiere Intelligente, Naples on Sat, 14 Nov 2026.
 
 Danny Martino is an electronica and techno artist based in Italy, with 11 gigs on soundcheck across Amsterdam and Naples. Often billed alongside Vicky Montefusco, Alex Bohemien and Antonio Basile. Next up: Quartiere Intelligente, Naples on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Danny Martino is an electronica and techno artist based in Italy, with 11 gigs o
 
 Vicky Montefusco, Alex Bohemien, Antonio Basile
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dannymartino/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dannymartino/)*

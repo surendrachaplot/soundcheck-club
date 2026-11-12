@@ -1,6 +1,6 @@
 # sellycious
 
-sellycious is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at RAW- Lokschuppen + Astra Kulturhaus, Berlin on Wed, 30 Dec 2026.
+sellycious is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at RAW- Lokschuppen + Astra Kulturhaus, Berlin on Wed, 30 Dec 2026.
 
 sellycious is a techno and trance artist based in Germany, with 17 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Hamburg. Often billed alongside DJ ASS TITS, Annemalie and Athina. Next up: RAW- Lokschuppen + Astra Kulturhaus, Berlin on Wed 30 Dec.
 
@@ -25,4 +25,4 @@ sellycious is a techno and trance artist based in Germany, with 17 gigs on sound
 
 DJ ASS TITS, Annemalie, Athina
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sellycious/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sellycious/)*

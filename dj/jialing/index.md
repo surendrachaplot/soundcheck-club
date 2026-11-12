@@ -1,6 +1,6 @@
 # JIALING
 
-JIALING is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - House, Taipei on Sat, 14 Nov 2026.
+JIALING is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - House, Taipei on Sat, 14 Nov 2026.
 
 JIALING is a club and techno artist based in United States of America, with 140 gigs on soundcheck across Atlanta, Baltimore, Berlin and Chengdu and 23 more. Often billed alongside Kade Young, Jacq Jill and Mui Mui. Next up: TBA - House, Taipei on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ JIALING is a club and techno artist based in United States of America, with 140 
 
 Kade Young, Jacq Jill, Mui Mui
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jialing/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jialing/)*

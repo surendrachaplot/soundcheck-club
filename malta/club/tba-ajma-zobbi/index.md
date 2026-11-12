@@ -1,6 +1,6 @@
 # TBA - Ajma Zobbi
 
-TBA - Ajma Zobbi is a music venue in Malta with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "BASSTEK // PART 12 - HARD-BASS EDITION" on Wed, 23 Dec 2026.
+TBA - Ajma Zobbi is a music venue in Malta with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "BASSTEK // PART 12 - HARD-BASS EDITION" on Wed, 23 Dec 2026.
 
 TBA - Ajma Zobbi is a music venue in Malta listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Ajma Zobbi is a music venue in Malta listed on soundcheck. 1 upcoming gig.
 | --- | --- | --- |
 | Wed, 23 Dec 2026 | BASSTEK // PART 12 - HARD-BASS EDITION |  |
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/malta/club/tba-ajma-zobbi/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/malta/club/tba-ajma-zobbi/)*

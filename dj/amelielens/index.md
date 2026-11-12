@@ -1,6 +1,6 @@
 # Amelie Lens
 
-Amelie Lens is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at NDSM Docklands, Amsterdam on Sat, 27 Mar 2027.
+Amelie Lens is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at NDSM Docklands, Amsterdam on Sat, 27 Mar 2027.
 
 Amelie Lens is a techno and house artist based in Belgium, with 167 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 69 more. Often billed alongside Farrago, Adiel and I Hate Models. Next up: NDSM Docklands, Amsterdam on Sat 27 Mar.
 
@@ -25,4 +25,4 @@ Amelie Lens is a techno and house artist based in Belgium, with 167 gigs on soun
 
 Farrago, Adiel, I Hate Models
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amelielens/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amelielens/)*

@@ -1,6 +1,6 @@
 # L X S
 
-L X S is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at M-BIA, Berlin on Fri, 20 Nov 2026.
+L X S is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at M-BIA, Berlin on Fri, 20 Nov 2026.
 
 L X S are a techno and trance duo based in Germany, with 33 gigs on soundcheck across Berlin. Often billed alongside MØABEAT, Popsen and Emma. Next up: M-BIA, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ L X S are a techno and trance duo based in Germany, with 33 gigs on soundcheck a
 
 MØABEAT, Popsen, Emma (8)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lxs/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lxs/)*

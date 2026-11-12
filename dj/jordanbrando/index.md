@@ -1,6 +1,6 @@
 # Jordan Brando
 
-Jordan Brando is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Fleet Steps - Mrs Macquaries Point, Sydney on Sat, 21 Nov 2026.
+Jordan Brando is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Fleet Steps - Mrs Macquaries Point, Sydney on Sat, 21 Nov 2026.
 
 Jordan Brando is a house and tech house artist based in Australia, with 53 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Australian Capital Territory and 16 more. Often billed alongside William Kiss, Luke Alessi and Luuk van Dijk. Next up: Fleet Steps - Mrs Macquaries Point, Sydney on Sat 21 Nov.
 
@@ -29,4 +29,4 @@ Jordan Brando is a house and tech house artist based in Australia, with 53 gigs 
 
 William Kiss, Luke Alessi, Luuk van Dijk
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jordanbrando/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jordanbrando/)*

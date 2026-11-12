@@ -1,6 +1,6 @@
 # Arnaud Le Texier
 
-Arnaud Le Texier is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Glove That Fits, London on Fri, 27 Nov 2026.
+Arnaud Le Texier is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Glove That Fits, London on Fri, 27 Nov 2026.
 
 Arnaud Le Texier is a techno and trance artist based in France, with 21 gigs on soundcheck across Amsterdam, Denmark, Ibiza and London and 6 more. Often billed alongside Antonio De Angelis, Pre Silent and ADRI.G. Next up: The Glove That Fits, London on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Arnaud Le Texier is a techno and trance artist based in France, with 21 gigs on 
 
 Antonio De Angelis, Pre Silent, ADRI.G
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arnaudletexier/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arnaudletexier/)*

@@ -1,6 +1,6 @@
 # PAULITTAHH
 
-PAULITTAHH is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at LAB theCLUB, Madrid on Fri, 13 Nov 2026.
+PAULITTAHH is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at LAB theCLUB, Madrid on Fri, 13 Nov 2026.
 
 PAULITTAHH is a techno and house artist based in Argentina, with 18 gigs on soundcheck across Amsterdam and Madrid. Often billed alongside MILA DUCH, Linda Lenor and CARMESEGUER. Next up: LAB theCLUB, Madrid on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ PAULITTAHH is a techno and house artist based in Argentina, with 18 gigs on soun
 
 MILA DUCH, Linda Lenor, CARMESEGUER
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paulittahh/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paulittahh/)*

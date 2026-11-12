@@ -1,6 +1,6 @@
 # diskoheinz
 
-diskoheinz is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Aahhh Rooftop, Munich on Sat, 12 Dec 2026.
+diskoheinz is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Aahhh Rooftop, Munich on Sat, 12 Dec 2026.
 
 diskoheinz is a house and tech house artist based in Germany, with 13 gigs on soundcheck across Amsterdam, Cologne, Düsseldorf and Munich and 1 more. Often billed alongside Alice DiMar, Artur Bredo and YEPIK. Next up: Aahhh Rooftop, Munich on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ diskoheinz is a house and tech house artist based in Germany, with 13 gigs on so
 
 Alice DiMar, Artur Bredo, YEPIK
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diskoheinz/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diskoheinz/)*

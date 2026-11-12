@@ -1,6 +1,6 @@
 # LeCamille
 
-LeCamille is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Woodshop, New York City on Fri, 13 Nov 2026.
+LeCamille is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Woodshop, New York City on Fri, 13 Nov 2026.
 
 LeCamille is a club and bass artist based in United States of America, with 63 gigs on soundcheck across Miami and New York City. Often billed alongside BEYBLADE SHAWTY, Love Higher and 444. Next up: The Woodshop, New York City on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ LeCamille is a club and bass artist based in United States of America, with 63 g
 
 BEYBLADE SHAWTY, Love Higher, 444 (1)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lecamille/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lecamille/)*

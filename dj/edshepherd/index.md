@@ -1,6 +1,6 @@
 # Ed Shepherd
 
-Ed Shepherd is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Void Hall, Berlin on Sat, 16 Jan 2027.
+Ed Shepherd is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Void Hall, Berlin on Sat, 16 Jan 2027.
 
 Ed Shepherd is a drum & bass and techno artist based in Germany, with 33 gigs on soundcheck across Berlin. Often billed alongside Upzet, Anton Quasi and Flow TNTS. Next up: Void Hall, Berlin on Sat 16 Jan.
 
@@ -25,4 +25,4 @@ Ed Shepherd is a drum & bass and techno artist based in Germany, with 33 gigs on
 
 Upzet, Anton Quasi, Flow TNTS
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edshepherd/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edshepherd/)*

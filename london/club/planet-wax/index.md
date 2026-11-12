@@ -1,6 +1,6 @@
 # Planet Wax
 
-Planet Wax is a music venue in London with 18 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "160 Unity Volume 1 Vinyl Launch" on Thu, 12 Nov 2026.
+Planet Wax is a music venue in London with 18 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "160 Unity Volume 1 Vinyl Launch" on Thu, 12 Nov 2026.
 
 Planet Wax is a music venue in London listed on soundcheck. 18 upcoming gigs, with line-ups including Abby Daze, Andy Foundations, Artilect and Big Dope P and 2 more. See dates, start times and who's playing. 318 NEW CROSS ROAD LONDON SE14 6AF.
 
@@ -23,4 +23,4 @@ Planet Wax is a music venue in London listed on soundcheck. 18 upcoming gigs, wi
 
 318 NEW CROSS ROAD LONDON SE14 6AF, London
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/planet-wax/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/planet-wax/)*

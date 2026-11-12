@@ -1,6 +1,6 @@
 # Enrico Sangiuliano
 
-Enrico Sangiuliano is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Parque de la Ciudad, CABA, Buenos Aires on Sat, 14 Nov 2026.
+Enrico Sangiuliano is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Parque de la Ciudad, CABA, Buenos Aires on Sat, 14 Nov 2026.
 
 Enrico Sangiuliano is a techno and house artist based in Italy, with 127 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 45 more. Often billed alongside Charlotte de Witte, Anfisa Letyago and Pan-Pot. Next up: TBA - Parque de la Ciudad, CABA, Buenos Aires on Sat 14 Nov.
 
@@ -31,4 +31,4 @@ Enrico Sangiuliano is a techno and house artist based in Italy, with 127 gigs on
 
 Charlotte de Witte, Anfisa Letyago, Pan-Pot
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enricosangiuliano/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enricosangiuliano/)*

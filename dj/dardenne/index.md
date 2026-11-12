@@ -1,6 +1,6 @@
 # Dardenne
 
-Dardenne is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Mena Berlin, Berlin on Fri, 4 Dec 2026.
+Dardenne is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Mena Berlin, Berlin on Fri, 4 Dec 2026.
 
 Dardenne is a techno and house artist based in Belgium, with 21 gigs on soundcheck across Berlin, Brussels, Ghent and Helsinki and 4 more. Often billed alongside A. Brehme, Carlina Carpelan and Alibi. Next up: Mena Berlin, Berlin on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Dardenne is a techno and house artist based in Belgium, with 21 gigs on soundche
 
 A. Brehme, Carlina Carpelan, Alibi (2)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dardenne/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dardenne/)*

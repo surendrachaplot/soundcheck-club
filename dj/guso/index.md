@@ -1,6 +1,6 @@
 # Guso
 
-Guso is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Reactor Shanghai, Shanghai on Sat, 21 Nov 2026.
+Guso is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Reactor Shanghai, Shanghai on Sat, 21 Nov 2026.
 
 Guso is a techno and hardcore artist based in China, with 26 gigs on soundcheck across Shanghai. Often billed alongside Onyx, DJ EBP and 2Difficult. Next up: Reactor Shanghai, Shanghai on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Guso is a techno and hardcore artist based in China, with 26 gigs on soundcheck 
 
 Onyx, DJ EBP, 2Difficult
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/guso/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/guso/)*

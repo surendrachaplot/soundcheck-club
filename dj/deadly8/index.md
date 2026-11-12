@@ -1,6 +1,6 @@
 # Deadly 8
 
-Deadly 8 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at B side Athens, Athens on Sat, 14 Nov 2026.
+Deadly 8 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at B side Athens, Athens on Sat, 14 Nov 2026.
 
 Deadly 8 is a techno and trance artist based in Greece, with 20 gigs on soundcheck across Athens and Berlin. Often billed alongside VaYaV, VSSLS and LEFTYT. Next up: B side Athens, Athens on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Deadly 8 is a techno and trance artist based in Greece, with 20 gigs on soundche
 
 VaYaV, VSSLS, LEFTYT
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deadly8/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deadly8/)*

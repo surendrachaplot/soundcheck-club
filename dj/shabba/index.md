@@ -1,6 +1,6 @@
 # Shabba
 
-Shabba is a Jungle and Drum & Bass artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Emerald Embankment, London on Sat, 14 Nov 2026.
+Shabba is a Jungle and Drum & Bass artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Emerald Embankment, London on Sat, 14 Nov 2026.
 
 Shabba is a jungle and drum & bass artist based in United Kingdom, with 13 gigs on soundcheck across Birmingham, Brighton and London. Often billed alongside DJ Brockie, DJ SS and IC3. Next up: Emerald Embankment, London on Sat 14 Nov.
 
@@ -28,4 +28,4 @@ Shabba is a jungle and drum & bass artist based in United Kingdom, with 13 gigs 
 
 DJ Brockie, DJ SS, IC3
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shabba/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shabba/)*

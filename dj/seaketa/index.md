@@ -1,6 +1,6 @@
 # seaketa
 
-seaketa is a Electronica and Experimental artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Spread, Tokyo on Thu, 12 Nov 2026.
+seaketa is a Electronica and Experimental artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Spread, Tokyo on Thu, 12 Nov 2026.
 
 seaketa is an electronica and experimental artist based in Japan, with 29 gigs on soundcheck across Kyoto and Tokyo. Often billed alongside okadada, NordOst and pnnikin. Next up: Spread, Tokyo on Thu 12 Nov.
 
@@ -27,4 +27,4 @@ seaketa is an electronica and experimental artist based in Japan, with 29 gigs o
 
 okadada, NordOst, pnnikin
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seaketa/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seaketa/)*

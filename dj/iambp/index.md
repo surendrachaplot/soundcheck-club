@@ -1,6 +1,6 @@
 # IAMBP
 
-IAMBP is a House and Electro artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - SECRET LOCATION, Buenos Aires on Fri, 13 Nov 2026.
+IAMBP is a House and Electro artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - SECRET LOCATION, Buenos Aires on Fri, 13 Nov 2026.
 
 IAMBP is a house and electro artist based in France, with 100 gigs on soundcheck across Barcelona, Beijing, Berlin and Bordeaux and 22 more. Often billed alongside HearThug, Occibel and Alyhas. Next up: TBA - SECRET LOCATION, Buenos Aires on Fri 13 Nov.
 
@@ -28,4 +28,4 @@ IAMBP is a house and electro artist based in France, with 100 gigs on soundcheck
 
 HearThug, Occibel, Alyhas
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iambp/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iambp/)*

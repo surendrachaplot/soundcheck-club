@@ -1,13 +1,14 @@
 # Bonza
 
-Bonza is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Lanificio 159, Rome on Sat, 5 Dec 2026.
+Bonza is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TAG Culture Rome, Rome on Sat, 14 Nov 2026.
 
-Bonza is a house and techno artist based in Italy, with 32 gigs on soundcheck across Berlin, Bucharest and Rome. Often billed alongside Orli, Fabrizio Sala and FRANKIEE. Next up: Lanificio 159, Rome on Sat 5 Dec.
+Bonza is a house and techno artist based in Italy, with 33 gigs on soundcheck across Berlin, Bucharest and Rome. Often billed alongside Orli, FRANKIEE and Fabrizio Sala. Next up: TAG Culture Rome, Rome on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | TAG Culture Rome | Rome |
 | Sat, 5 Dec 2026 | Lanificio 159 | Rome |
 
 ## Recently played
@@ -23,6 +24,6 @@ Bonza is a house and techno artist based in Italy, with 32 gigs on soundcheck ac
 
 ## Shares bills with
 
-Orli, Fabrizio Sala, FRANKIEE
+Orli, FRANKIEE, Fabrizio Sala
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bonza/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bonza/)*

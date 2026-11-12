@@ -1,14 +1,15 @@
 # iced lattina
 
-iced lattina is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Kanal Centre Pompidou, Brussels on Sat, 28 Nov 2026.
+iced lattina is a Club and Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Kanal Centre Pompidou, Brussels on Sat, 28 Nov 2026.
 
-iced lattina is a club and experimental artist based in Portugal, with 54 gigs on soundcheck across Amsterdam, Antwerp, Belgrade and Berlin and 10 more. Often billed alongside VINESSETT, Brodinski and Dangermami. Next up: Kanal Centre Pompidou, Brussels on Sat 28 Nov.
+iced lattina is a club and experimental artist based in Portugal, with 55 gigs on soundcheck across Amsterdam, Antwerp, Belgrade and Berlin and 10 more. Often billed alongside VINESSETT, Brodinski and Dangermami. Next up: Kanal Centre Pompidou, Brussels on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Kanal Centre Pompidou | Brussels |
+| Sat, 12 Dec 2026 | Trix | Antwerp |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ iced lattina is a club and experimental artist based in Portugal, with 54 gigs o
 
 VINESSETT, Brodinski, Dangermami
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/icedlattina/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/icedlattina/)*

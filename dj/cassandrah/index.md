@@ -1,6 +1,6 @@
 # cassandrah
 
-cassandrah is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Desert Inn Resort and Camp, Dubai on Fri, 13 Nov 2026.
+cassandrah is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Desert Inn Resort and Camp, Dubai on Fri, 13 Nov 2026.
 
 cassandrah is a techno and industrial artist based in Italy, with 43 gigs on soundcheck across Antwerp, Bangkok, Barcelona and Belgrade and 20 more. Often billed alongside Rian Wood, Axciid and GØBLIN. Next up: Desert Inn Resort and Camp, Dubai on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ cassandrah is a techno and industrial artist based in Italy, with 43 gigs on sou
 
 Rian Wood, Axciid, GØBLIN
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cassandrah/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cassandrah/)*

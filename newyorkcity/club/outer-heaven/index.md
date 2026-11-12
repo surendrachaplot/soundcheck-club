@@ -1,14 +1,13 @@
 # Outer Heaven
 
-Outer Heaven is a music venue in New York City with 26 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Outer Heaven presents: Tobias Linden" on Wed, 11 Nov 2026.
+Outer Heaven is a music venue in New York City with 25 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Vigilante presents: Gio Shengelia" on Thu, 12 Nov 2026.
 
-Outer Heaven is a music venue in New York City listed on soundcheck. 26 upcoming gigs, with line-ups including AGELESS, Amelia Holt, Armii1n and Bruno Limma and 2 more. See dates, start times and who's playing. 191 Chrystie Street, New York, NY 10002.
+Outer Heaven is a music venue in New York City listed on soundcheck. 25 upcoming gigs, with line-ups including AGELESS, Amelia Holt, Armii1n and Bruno Limma and 2 more. See dates, start times and who's playing. 191 Chrystie Street, New York, NY 10002.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 11 Nov 2026 | Outer Heaven presents: Tobias Linden | RAAUL, Tobias Lindén |
 | Thu, 12 Nov 2026 | Vigilante presents: Gio Shengelia | Gio Shengelia |
 | Fri, 13 Nov 2026 | Outer Heaven presents: Make A Dance [All Night Long] | Make A Dance |
 | Sat, 14 Nov 2026 | Outer Heaven presents: O.BEE [All Night Long] | O.BEE |
@@ -18,9 +17,10 @@ Outer Heaven is a music venue in New York City listed on soundcheck. 26 upcoming
 | Sat, 21 Nov 2026 | Outer Heaven presents: Jack Mulqueen, Mac Briggs | Jack Mulqueen, Mac Briggs |
 | Wed, 25 Nov 2026 | Out The Bag presents: Choukroun b2b Monk | Monk (2) |
 | Fri, 27 Nov 2026 | Outer Heaven presents: Erez b2b shanty mane | EREZ.JPG, shanty mane |
+| Sat, 28 Nov 2026 | Outer Heaven presents: Raw Phonics | Raw Phonics |
 
 ## Address
 
 191 Chrystie Street, New York, NY 10002, New York City
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/outer-heaven/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/outer-heaven/)*

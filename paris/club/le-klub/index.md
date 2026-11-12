@@ -1,6 +1,6 @@
 # Le Klub
 
-Le Klub is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Gang Bambi X Chéries Chéris After Party" on Sat, 14 Nov 2026.
+Le Klub is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Gang Bambi X Chéries Chéris After Party" on Sat, 14 Nov 2026.
 
 Le Klub is a music venue in Paris listed on soundcheck. 4 upcoming gigs, with line-ups including Beau Wanzer, JOHN DIXON, Leonard de Leonard and Loki Starfish. See dates, start times and who's playing. 14, rue St Denis Paris, France.
 
@@ -17,4 +17,4 @@ Le Klub is a music venue in Paris listed on soundcheck. 4 upcoming gigs, with li
 
 14, rue St Denis Paris, France, Paris
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-klub/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-klub/)*

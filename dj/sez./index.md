@@ -1,6 +1,6 @@
 # sez.
 
-sez. is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Fox and Firkin, London on Thu, 12 Nov 2026.
+sez. is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Fox and Firkin, London on Thu, 12 Nov 2026.
 
 sez. is a garage and house artist based in United Kingdom, with 36 gigs on soundcheck across Bristol, Liverpool, London and Manchester. Often billed alongside Ashworth, DAIZ and Rich Reason. Next up: The Fox and Firkin, London on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ sez. is a garage and house artist based in United Kingdom, with 36 gigs on sound
 
 Ashworth, DAIZ, Rich Reason
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sez./)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sez./)*

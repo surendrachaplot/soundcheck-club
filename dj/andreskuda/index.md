@@ -1,6 +1,6 @@
 # André Skuda
 
-André Skuda is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at DNA. CLUB, Berlin on Fri, 13 Nov 2026.
+André Skuda is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at DNA. CLUB, Berlin on Fri, 13 Nov 2026.
 
 André Skuda is a techno and house artist based in Germany, with 4 gigs on soundcheck across Berlin. Often billed alongside ALICA RØUGH, Ankit and CEEE. Next up: DNA. CLUB, Berlin on Fri 13 Nov.
 
@@ -20,4 +20,4 @@ André Skuda is a techno and house artist based in Germany, with 4 gigs on sound
 
 ALICA RØUGH, Ankit, CEEE
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andreskuda/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andreskuda/)*

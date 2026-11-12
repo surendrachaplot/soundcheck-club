@@ -1,6 +1,6 @@
 # Gulod Tanawin
 
-Gulod Tanawin is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Red Gate Arts Society, Vancouver on Fri, 20 Nov 2026.
+Gulod Tanawin is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Red Gate Arts Society, Vancouver on Fri, 20 Nov 2026.
 
 Gulod Tanawin is an experimental and club artist based in Philippines, with 10 gigs on soundcheck across Kuala Lumpur, Montreal and Vancouver. Often billed alongside Animistic Beliefs, Seekersinternational and x/o. Next up: Red Gate Arts Society, Vancouver on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Gulod Tanawin is an experimental and club artist based in Philippines, with 10 g
 
 Animistic Beliefs, Seekersinternational, x/o
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gulodtanawin/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gulodtanawin/)*

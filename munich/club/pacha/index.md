@@ -1,6 +1,6 @@
 # Pacha
 
-Pacha is a music venue in Munich with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "FreitagNacht with Noel Holler, Cirillo, Tonio Barrientos" on Fri, 13 Nov 2026.
+Pacha is a music venue in Munich with 7 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "FreitagNacht with Noel Holler, Cirillo, Tonio Barrientos" on Fri, 13 Nov 2026.
 
 Pacha is a music venue in Munich listed on soundcheck. 7 upcoming gigs, with line-ups including Animal Trainer, BRANDO, Carlos Martinez and Cirillo and 2 more. See dates, start times and who's playing. Maximiliansplatz 5; 80333 Munich; Germany.
 
@@ -20,4 +20,4 @@ Pacha is a music venue in Munich listed on soundcheck. 7 upcoming gigs, with lin
 
 Maximiliansplatz 5; 80333 Munich; Germany, Munich
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/pacha/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/pacha/)*

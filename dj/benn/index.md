@@ -1,6 +1,6 @@
 # B E N N
 
-B E N N is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Final, Taipei on Sat, 5 Dec 2026.
+B E N N is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Final, Taipei on Sat, 5 Dec 2026.
 
 B E N N is a bass and techno artist based in Taiwan, with 52 gigs on soundcheck across Athens, Bali, Bangkok and Beijing and 15 more. Often billed alongside Sonia Calico, Bo Yin and JACKSON kaki. Next up: Final, Taipei on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ B E N N is a bass and techno artist based in Taiwan, with 52 gigs on soundcheck 
 
 Sonia Calico, Bo Yin, JACKSON kaki
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benn/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benn/)*

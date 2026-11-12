@@ -1,6 +1,6 @@
 # Populous
 
-Populous is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - gres art 671, North on Sat, 14 Nov 2026.
+Populous is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - gres art 671, North on Sat, 14 Nov 2026.
 
 Populous is an electronica and house artist based in Italy, with 22 gigs on soundcheck across Amsterdam, Barcelona, Bologna and Brussels and 6 more. Often billed alongside ELASI, Gazzi and Ivreatronic. Next up: TBA - gres art 671, North on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Populous is an electronica and house artist based in Italy, with 22 gigs on soun
 
 ELASI, Gazzi, Ivreatronic
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/populous/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/populous/)*

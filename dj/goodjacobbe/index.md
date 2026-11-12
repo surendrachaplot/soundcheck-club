@@ -1,6 +1,6 @@
 # Goodjacobbe
 
-Goodjacobbe is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Dumbo, Bologna on Fri, 13 Nov 2026.
+Goodjacobbe is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Dumbo, Bologna on Fri, 13 Nov 2026.
 
 Goodjacobbe is a house and electronica artist based in Italy, with 44 gigs on soundcheck across Bologna and Naples. Often billed alongside Ugo Leone, DJ Rou and Brine. Next up: Dumbo, Bologna on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Goodjacobbe is a house and electronica artist based in Italy, with 44 gigs on so
 
 Ugo Leone, DJ Rou, Brine
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/goodjacobbe/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/goodjacobbe/)*

@@ -1,6 +1,6 @@
 # M1LA
 
-M1LA is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at EL Tana, Colombia on Thu, 12 Nov 2026.
+M1LA is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at EL Tana, Colombia on Thu, 12 Nov 2026.
 
 M1LA is a house and minimal artist based in Colombia, with 14 gigs on soundcheck across Colombia and Medellin. Often billed alongside JD Groovin', Diego Gee_ and Lucien Jack. Next up: EL Tana, Colombia on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ M1LA is a house and minimal artist based in Colombia, with 14 gigs on soundcheck
 
 JD Groovin', Diego Gee_, Lucien Jack
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/m1la/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/m1la/)*

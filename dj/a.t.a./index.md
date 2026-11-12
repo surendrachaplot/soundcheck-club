@@ -1,6 +1,6 @@
 # A.T.A.
 
-A.T.A. is a House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Secret Location TBA, London on Sat, 28 Nov 2026.
+A.T.A. is a House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Secret Location TBA, London on Sat, 28 Nov 2026.
 
 A.T.A. is a house and minimal techno artist based in United Kingdom, with 15 gigs on soundcheck across London. Often billed alongside Space Shinobi, Myriam and Andrea Giudice. Next up: TBA - Secret Location TBA, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ A.T.A. is a house and minimal techno artist based in United Kingdom, with 15 gig
 
 Space Shinobi, Myriam, Andrea Giudice
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/a.t.a./)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/a.t.a./)*

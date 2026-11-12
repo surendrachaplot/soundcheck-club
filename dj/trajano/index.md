@@ -1,6 +1,6 @@
 # TRAJANO
 
-TRAJANO is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Starlane São Paulo, Sao-paulo on Thu, 12 Nov 2026.
+TRAJANO is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Starlane São Paulo, Sao-paulo on Thu, 12 Nov 2026.
 
 TRAJANO is a house and electro artist based in Brazil, with 58 gigs on soundcheck across Athens, Barcelona, Berlin and Buenos Aires and 11 more. Often billed alongside Villaça, Holz² and InsaniTy. Next up: Starlane São Paulo, Sao Paulo on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ TRAJANO is a house and electro artist based in Brazil, with 58 gigs on soundchec
 
 Villaça, Holz², InsaniTy
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trajano/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trajano/)*

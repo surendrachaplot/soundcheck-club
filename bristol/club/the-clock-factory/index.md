@@ -1,8 +1,8 @@
 # The Clock Factory
 
-The Clock Factory is a music venue in Bristol with 21 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "JACK MARLOW - Bristol 360° Headline [2 Hour Set]" on Fri, 13 Nov 2026.
+The Clock Factory is a music venue in Bristol with 22 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "JACK MARLOW - Bristol 360° Headline [2 Hour Set]" on Fri, 13 Nov 2026.
 
-The Clock Factory is a music venue in Bristol listed on soundcheck. 21 upcoming gigs, with line-ups including Amelia Leigh, Black Eye, Breaka and Bryan Gee and 2 more. See dates, start times and who's playing. 63 Union Gate 1st & 2nd Floor, Broadmead, Bristol BS1 2AG.
+The Clock Factory is a music venue in Bristol listed on soundcheck. 22 upcoming gigs, with line-ups including Amelia Leigh, Black Eye, Breaka and Bryan Gee and 2 more. See dates, start times and who's playing. 63 Union Gate 1st & 2nd Floor, Broadmead, Bristol BS1 2AG.
 
 ## What's on
 
@@ -16,11 +16,11 @@ The Clock Factory is a music venue in Bristol listed on soundcheck. 21 upcoming 
 | Sat, 21 Nov 2026 | Casey Club PRESENTS: BRISTOL 360° POP-UP | Casey Club |
 | Fri, 27 Nov 2026 | Nevermind: p-rallel + more | p-rallel |
 | Fri, 4 Dec 2026 | Dansu Discs: MAD.AGAIN & PAULY! - Bristol | Mad.Again (2), PAULY! |
+| Fri, 4 Dec 2026 | Girls Got Bass | Euphonique, Millz, SAVANNAH |
 | Sat, 5 Dec 2026 | Clock Factory presents: Flux Pavilion & Culprate | Culprate, Flux Pavilion |
-| Fri, 11 Dec 2026 | Playback Events presents: Voigtmann | Drysdale, Ollie Kirk, Voigtmann |
 
 ## Address
 
 63 Union Gate 1st & 2nd Floor, Broadmead, Bristol BS1 2AG, Bristol
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-clock-factory/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-clock-factory/)*

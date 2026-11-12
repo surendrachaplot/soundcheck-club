@@ -1,6 +1,6 @@
 # Süss War Gestern
 
-Süss War Gestern is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Cosmic Thursday's" on Thu, 12 Nov 2026.
+Süss War Gestern is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Cosmic Thursday's" on Thu, 12 Nov 2026.
 
 Süss War Gestern is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line-ups including Dicso_Muzek, Good Nelson, maniac&me and Miguel Silva and 2 more. See dates, start times and who's playing. Wühlischstraße 43, 10245 Berlin.
 
@@ -23,4 +23,4 @@ Süss War Gestern is a music venue in Berlin listed on soundcheck. 11 upcoming g
 
 Wühlischstraße 43, 10245 Berlin, Berlin
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/s-ss-war-gestern/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/s-ss-war-gestern/)*

@@ -1,6 +1,6 @@
 # Scott Tillett
 
-Scott Tillett is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA, Los Angeles on Sat, 12 Dec 2026.
+Scott Tillett is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA, Los Angeles on Sat, 12 Dec 2026.
 
 Scott Tillett is a house and acid artist based in United States of America, with 21 gigs on soundcheck across Los Angeles. Often billed alongside SCOTT K., Desert Hearts and Dirtybird. Next up: TBA, Los Angeles on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Scott Tillett is a house and acid artist based in United States of America, with
 
 SCOTT K., Desert Hearts, Dirtybird
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scotttillett/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scotttillett/)*

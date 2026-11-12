@@ -1,6 +1,6 @@
 # Eden
 
-Eden is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Fractals presents: GWELD (Live)" on Fri, 20 Nov 2026.
+Eden is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Fractals presents: GWELD (Live)" on Fri, 20 Nov 2026.
 
 Eden is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including Djgothqueen, GWELD, Hex Hector and Quentin Harris and 1 more. See dates, start times and who's playing. 20 West 36th Street, New York, NY US 10018.
 
@@ -15,4 +15,4 @@ Eden is a music venue in New York City listed on soundcheck. 2 upcoming gigs, wi
 
 20 West 36th Street, New York, NY US 10018, New York City
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/eden/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/eden/)*

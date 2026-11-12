@@ -1,6 +1,6 @@
 # m-onz
 
-m-onz is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Club 23, Barcelona on Sat, 14 Nov 2026.
+m-onz is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Club 23, Barcelona on Sat, 14 Nov 2026.
 
 m-onz is a jungle and drum & bass artist based in United Kingdom, with 15 gigs on soundcheck across Barcelona, London and Tokyo. Often billed alongside SYNTƏL8, m̶a̶h̶[alias] and South London Bedroom Orchestra. Next up: Club 23, Barcelona on Sat 14 Nov.
 
@@ -12,6 +12,7 @@ m-onz is a jungle and drum & bass artist based in United Kingdom, with 15 gigs o
 
 ## Recently played
 
+- M.O.T, London · Wed, 11 Nov 2026
 - M.O.T, London · Thu, 8 Oct 2026
 - Piehouse Coop, London · Thu, 7 May 2026
 - M.O.T, London · Wed, 25 Mar 2026
@@ -19,10 +20,9 @@ m-onz is a jungle and drum & bass artist based in United Kingdom, with 15 gigs o
 - Forestlimit, Tokyo · Tue, 7 Oct 2025
 - Corsica Studios, London · Wed, 18 Jun 2025
 - Corsica Studios, London · Wed, 9 Apr 2025
-- Corsica Studios, London · Wed, 29 Jan 2025
 
 ## Shares bills with
 
 SYNTƏL8, m̶a̶h̶[alias], South London Bedroom Orchestra
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/m-onz/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/m-onz/)*

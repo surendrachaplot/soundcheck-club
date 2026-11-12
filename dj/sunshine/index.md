@@ -1,6 +1,6 @@
 # Sunshine
 
-Sunshine is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Revolver Upstairs, Melbourne on Sat, 14 Nov 2026.
+Sunshine is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Revolver Upstairs, Melbourne on Sat, 14 Nov 2026.
 
 Sunshine is a house and techno artist based in Australia, with 178 gigs on soundcheck across Boston, Melbourne and Sydney. Often billed alongside Agent 86, Cara Murphy and Mike Callander. Next up: Revolver Upstairs, Melbourne on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Sunshine is a house and techno artist based in Australia, with 178 gigs on sound
 
 Agent 86, Cara Murphy, Mike Callander
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sunshine/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sunshine/)*

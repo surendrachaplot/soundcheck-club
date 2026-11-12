@@ -1,6 +1,6 @@
 # Gallery Conceal Shibuya
 
-Gallery Conceal Shibuya is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "ALL VINYL" on Sat, 5 Dec 2026.
+Gallery Conceal Shibuya is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "ALL VINYL" on Sat, 5 Dec 2026.
 
 Gallery Conceal Shibuya is a music venue in Tokyo listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Gallery Conceal Shibuya is a music venue in Tokyo listed on soundcheck. 1 upcomi
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | ALL VINYL |  |
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/gallery-conceal-shibuya/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/gallery-conceal-shibuya/)*

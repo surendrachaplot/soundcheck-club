@@ -1,6 +1,6 @@
 # anormalturtle300
 
-anormalturtle300 is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Fiftyfive, Melbourne on Sat, 14 Nov 2026.
+anormalturtle300 is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Fiftyfive, Melbourne on Sat, 14 Nov 2026.
 
 anormalturtle300 is a techno and bass artist based in China, with 48 gigs on soundcheck across Beijing, Hanoi, Hong Kong and Melbourne and 1 more. Often billed alongside Steve Pan, Sirens and Nebulae. Next up: Fiftyfive, Melbourne on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ anormalturtle300 is a techno and bass artist based in China, with 48 gigs on sou
 
 Steve Pan, Sirens, Nebulae
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anormalturtle300/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anormalturtle300/)*

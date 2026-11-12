@@ -1,6 +1,6 @@
 # AM Hi
 
-AM Hi is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at KG Radio, Belgrade on Fri, 27 Nov 2026.
+AM Hi is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at KG Radio, Belgrade on Fri, 27 Nov 2026.
 
 AM Hi is a techno and breakbeat artist based in Serbia, with 18 gigs on soundcheck across Belgrade and Ljubljana. Often billed alongside SLVC024, CRRDR and Matej Rusmir. Next up: KG Radio, Belgrade on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ AM Hi is a techno and breakbeat artist based in Serbia, with 18 gigs on soundche
 
 SLVC024, CRRDR, Matej Rusmir
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amhi/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amhi/)*

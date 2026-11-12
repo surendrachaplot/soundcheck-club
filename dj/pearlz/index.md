@@ -1,6 +1,6 @@
 # Pearlz
 
-Pearlz is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The DBA, Manchester on Thu, 19 Nov 2026.
+Pearlz is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The DBA, Manchester on Thu, 19 Nov 2026.
 
 Pearlz is a techno and breakbeat artist based in United Kingdom, with 18 gigs on soundcheck across Berlin, Bristol and Manchester. Often billed alongside Leaha, blo rida and Charley Bolton. Next up: The DBA, Manchester on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Pearlz is a techno and breakbeat artist based in United Kingdom, with 18 gigs on
 
 Leaha, blo rida, Charley Bolton
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pearlz/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pearlz/)*

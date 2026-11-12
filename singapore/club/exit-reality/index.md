@@ -1,6 +1,6 @@
 # Exit Reality
 
-Exit Reality is a music venue in Singapore with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Exit Reality with Pat & Rai" on Thu, 12 Nov 2026.
+Exit Reality is a music venue in Singapore with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Exit Reality with Pat & Rai" on Thu, 12 Nov 2026.
 
 Exit Reality is a music venue in Singapore listed on soundcheck. 4 upcoming gigs, with line-ups including Sunju Hargun and VAIBS. See dates, start times and who's playing.
 
@@ -13,4 +13,4 @@ Exit Reality is a music venue in Singapore listed on soundcheck. 4 upcoming gigs
 | Sat, 14 Nov 2026 | Exit Reality with Daytime Dancing & Hammy |  |
 | Fri, 20 Nov 2026 | Thugshop x Progressions pres. DAZED OUT |  |
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/exit-reality/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/exit-reality/)*

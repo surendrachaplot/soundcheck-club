@@ -1,6 +1,6 @@
 # HIHATDANCER
 
-HIHATDANCER is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Under Club, Buenos Aires on Fri, 4 Dec 2026.
+HIHATDANCER is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Under Club, Buenos Aires on Fri, 4 Dec 2026.
 
 HIHATDANCER is a techno and house artist based in Argentina, with 39 gigs on soundcheck across Barcelona, Berlin and Buenos Aires. Often billed alongside Camila Isabel, NANO (ARG) and Victoria Arena. Next up: Under Club, Buenos Aires on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ HIHATDANCER is a techno and house artist based in Argentina, with 39 gigs on sou
 
 Camila Isabel, NANO (ARG), Victoria Arena
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hihatdancer/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hihatdancer/)*

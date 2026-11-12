@@ -1,6 +1,6 @@
 # Mark Quinn
 
-Mark Quinn is a Jazz and Dub artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Pianodrome Bruntsfield Community Hub, Edinburgh on Fri, 13 Nov 2026.
+Mark Quinn is a Jazz and Dub artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Pianodrome Bruntsfield Community Hub, Edinburgh on Fri, 13 Nov 2026.
 
 Mark Quinn is a jazz and dub artist based in United Kingdom, with 9 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside Haseeb Iqbal, Fred Alexander and elpib0y. Next up: Pianodrome Bruntsfield Community Hub, Edinburgh on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Mark Quinn is a jazz and dub artist based in United Kingdom, with 9 gigs on soun
 
 Haseeb Iqbal, Fred Alexander, elpib0y
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markquinn/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markquinn/)*

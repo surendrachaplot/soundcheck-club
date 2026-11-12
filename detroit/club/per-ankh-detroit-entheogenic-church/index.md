@@ -1,6 +1,6 @@
 # Per Ankh Detroit Entheogenic Church
 
-Per Ankh Detroit Entheogenic Church is a music venue in Detroit with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "EarDrugs" on Thu, 19 Nov 2026.
+Per Ankh Detroit Entheogenic Church is a music venue in Detroit with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "EarDrugs" on Thu, 19 Nov 2026.
 
 Per Ankh Detroit Entheogenic Church is a music venue in Detroit listed on soundcheck. 2 upcoming gigs, with line-ups including Mark Cooper. See dates, start times and who's playing. 15605 Woodrow Wilson St. 48238 Detroit, MI USA.
 
@@ -15,4 +15,4 @@ Per Ankh Detroit Entheogenic Church is a music venue in Detroit listed on soundc
 
 15605 Woodrow Wilson St. 48238 Detroit, MI USA, Detroit
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/per-ankh-detroit-entheogenic-church/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/per-ankh-detroit-entheogenic-church/)*

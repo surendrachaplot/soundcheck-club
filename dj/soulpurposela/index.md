@@ -1,6 +1,6 @@
 # Soul Purpose (LA)
 
-Soul Purpose (LA) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Belasco Theater, Los Angeles on Thu, 31 Dec 2026.
+Soul Purpose (LA) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Belasco Theater, Los Angeles on Thu, 31 Dec 2026.
 
 Soul Purpose (LA) is a house and techno artist based in United States of America, with 21 gigs on soundcheck across Los Angeles. Often billed alongside Heart of Gold, Flabbergast (LA) and Juliet Mendoza. Next up: Belasco Theater, Los Angeles on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Soul Purpose (LA) is a house and techno artist based in United States of America
 
 Heart of Gold, Flabbergast (LA), Juliet Mendoza
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soulpurposela/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soulpurposela/)*

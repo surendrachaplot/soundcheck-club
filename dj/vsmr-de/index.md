@@ -1,6 +1,6 @@
 # VSMR
 
-VSMR is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Legal, Munich on Fri, 13 Nov 2026.
+VSMR is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Legal, Munich on Fri, 13 Nov 2026.
 
 VSMR is a house and tech house artist based in Germany, with 13 gigs on soundcheck across Munich and Vienna. Often billed alongside Vincent Lang, Haze (GER) and Chet Rubbs. Next up: Legal, Munich on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ VSMR is a house and tech house artist based in Germany, with 13 gigs on soundche
 
 Vincent Lang, Haze (GER), Chet Rubbs
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vsmr-de/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vsmr-de/)*

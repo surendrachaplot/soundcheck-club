@@ -1,6 +1,6 @@
 # Lex Barlin
 
-Lex Barlin is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Solace, Melbourne on Thu, 12 Nov 2026.
+Lex Barlin is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Solace, Melbourne on Thu, 12 Nov 2026.
 
 Lex Barlin is a house and techno artist, with 10 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Bouki, Half Cut and 1tbsp. Next up: Solace, Melbourne on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Lex Barlin is a house and techno artist, with 10 gigs on soundcheck across Melbo
 
 Bouki, Half Cut, 1tbsp
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lexbarlin/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lexbarlin/)*

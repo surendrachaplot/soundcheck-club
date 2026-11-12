@@ -1,6 +1,6 @@
 # Decca Live
 
-Decca Live is a music venue in Jacksonville with 9 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "SoDown - Scenes of Consciousness Tour" on Fri, 13 Nov 2026.
+Decca Live is a music venue in Jacksonville with 9 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "SoDown - Scenes of Consciousness Tour" on Fri, 13 Nov 2026.
 
 Decca Live is a music venue in Jacksonville listed on soundcheck. 9 upcoming gigs, with line-ups including Krewella and Solardo. See dates, start times and who's playing. 323 E Bay St, Jacksonville, FL 32202.
 
@@ -22,4 +22,4 @@ Decca Live is a music venue in Jacksonville listed on soundcheck. 9 upcoming gig
 
 323 E Bay St, Jacksonville, FL 32202, Jacksonville
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/jacksonville/club/decca-live/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/jacksonville/club/decca-live/)*

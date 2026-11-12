@@ -1,6 +1,6 @@
 # Dantiez
 
-Dantiez is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Old Shillelagh, Detroit on Sat, 5 Dec 2026.
+Dantiez is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Old Shillelagh, Detroit on Sat, 5 Dec 2026.
 
 Dantiez is a house and techno artist based in United States of America, with 53 gigs on soundcheck across Detroit, Los Angeles, Miami and Montreal and 3 more. Often billed alongside Damarii Saunderson, Kevin Saunderson and JMT. Next up: The Old Shillelagh, Detroit on Sat 5 Dec.
 
@@ -27,4 +27,4 @@ Dantiez is a house and techno artist based in United States of America, with 53 
 
 Damarii Saunderson, Kevin Saunderson, JMT (2)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dantiez/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dantiez/)*

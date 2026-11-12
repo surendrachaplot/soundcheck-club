@@ -1,6 +1,6 @@
 # The Eagle of Detroit
 
-The Eagle of Detroit is a music venue in Detroit with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "klub brief" on Fri, 13 Nov 2026.
+The Eagle of Detroit is a music venue in Detroit with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "klub brief" on Fri, 13 Nov 2026.
 
 The Eagle of Detroit is a music venue in Detroit listed on soundcheck. 3 upcoming gigs, with line-ups including Bella Mode, jamea., Kass (US) and LATEX GIRL and 2 more. See dates, start times and who's playing. 950 West McNichols.
 
@@ -16,4 +16,4 @@ The Eagle of Detroit is a music venue in Detroit listed on soundcheck. 3 upcomin
 
 950 West McNichols, Detroit
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/the-eagle-of-detroit/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/the-eagle-of-detroit/)*

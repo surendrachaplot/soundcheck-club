@@ -1,6 +1,6 @@
 # Extended Play Record Fair at SET Social
 
-Extended Play Record Fair at SET Social on Sat 28 Nov, London. 2 artists: Louise Plus One and Warlock. Techno and Jungle. See the line-up on soundcheck.
+Extended Play Record Fair at SET Social on Sat 28 Nov, London. 3 artists: Hughesee, Louise Plus One and Warlock. Techno and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Extended Play Record Fair at SET Social on Sat 28 Nov, London. 2 artists: Louise
 
 ## Line-up
 
+- Hughesee
 - Louise Plus One
 - Warlock
 

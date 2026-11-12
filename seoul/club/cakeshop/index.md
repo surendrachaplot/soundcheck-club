@@ -1,6 +1,6 @@
 # Cakeshop
 
-Cakeshop is a music venue in Seoul with 12 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Cakeshop PRESENTS: Luka Eck, FREE JIMI, UHD" on Thu, 12 Nov 2026.
+Cakeshop is a music venue in Seoul with 12 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Cakeshop PRESENTS: Luka Eck, FREE JIMI, UHD" on Thu, 12 Nov 2026.
 
 Cakeshop is a music venue in Seoul listed on soundcheck. 12 upcoming gigs, with line-ups including Arthur Yeti, Azrel, bojvck and Closet Yi and 2 more. See dates, start times and who's playing. 34-16 Itaewon-dong (134 Itaewon-ro), Yongsan-gu, Seoul, South Korea ‎.
 
@@ -23,4 +23,4 @@ Cakeshop is a music venue in Seoul listed on soundcheck. 12 upcoming gigs, with 
 
 34-16 Itaewon-dong (134 Itaewon-ro), Yongsan-gu, Seoul, South Korea ‎, Seoul
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/cakeshop/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/cakeshop/)*

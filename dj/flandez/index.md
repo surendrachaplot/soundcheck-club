@@ -1,6 +1,6 @@
 # Flandez
 
-Flandez is a Reggaeton and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Minimal Bar, Berlin on Thu, 19 Nov 2026.
+Flandez is a Reggaeton and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Minimal Bar, Berlin on Thu, 19 Nov 2026.
 
 Flandez is a reggaeton and club artist based in Canada, with 13 gigs on soundcheck across Berlin, Hamburg and Santiago. Often billed alongside Pia Kauitl, Esteban De Haro and Audio Werner. Next up: Minimal Bar, Berlin on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Flandez is a reggaeton and club artist based in Canada, with 13 gigs on soundche
 
 Pia Kauitl, Esteban De Haro, Audio Werner
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flandez/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flandez/)*

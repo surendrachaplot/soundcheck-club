@@ -1,6 +1,6 @@
 # La Kulture
 
-La Kulture is a music venue in Strasbourg with 6 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Club Jeudi" on Thu, 12 Nov 2026.
+La Kulture is a music venue in Strasbourg with 6 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Club Jeudi" on Thu, 12 Nov 2026.
 
 La Kulture is a music venue in Strasbourg listed on soundcheck. 6 upcoming gigs, with line-ups including Derode and Seedreak. See dates, start times and who's playing. 9 Rue des Bateliers, 67000 Strasbourg, France.
 
@@ -19,4 +19,4 @@ La Kulture is a music venue in Strasbourg listed on soundcheck. 6 upcoming gigs,
 
 9 Rue des Bateliers, 67000 Strasbourg, France, Strasbourg
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/la-kulture/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/la-kulture/)*

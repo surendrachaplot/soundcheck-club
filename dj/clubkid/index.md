@@ -1,6 +1,6 @@
 # ClubKid
 
-ClubKid is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Cantina Social, Athens on Fri, 13 Nov 2026.
+ClubKid is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Cantina Social, Athens on Fri, 13 Nov 2026.
 
 ClubKid is a house and techno artist based in Greece, with 169 gigs on soundcheck across Athens, Berlin, Bucharest and Mexico City and 2 more. Often billed alongside .Fro., Bill Sanders and Maria Politi. Next up: Cantina Social, Athens on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ ClubKid is a house and techno artist based in Greece, with 169 gigs on soundchec
 
 .Fro., Bill Sanders, Maria Politi
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clubkid/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clubkid/)*

@@ -1,14 +1,15 @@
 # Will Clarke
 
-Will Clarke is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Academy LA, Los Angeles on Sat, 26 Dec 2026.
+Will Clarke is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Academy LA, Los Angeles on Sat, 26 Dec 2026.
 
-Will Clarke is a techno and house artist based in United Kingdom, with 104 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 33 more. Often billed alongside DJ Minx, Dombresky and Boys Noize. Next up: Academy LA, Los Angeles on Sat 26 Dec.
+Will Clarke is a techno and house artist based in United Kingdom, with 105 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 33 more. Often billed alongside DJ Minx, Dombresky and Boys Noize. Next up: Academy LA, Los Angeles on Sat 26 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Dec 2026 | Academy LA | Los Angeles |
+| Wed, 30 Dec 2026 | Spybar | Chicago |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Will Clarke is a techno and house artist based in United Kingdom, with 104 gigs 
 
 DJ Minx, Dombresky, Boys Noize
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/willclarke/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/willclarke/)*

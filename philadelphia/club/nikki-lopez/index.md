@@ -1,17 +1,18 @@
 # Nikki Lopez
 
-Nikki Lopez is a music venue in Philadelphia with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "New Desires" on Sat, 21 Nov 2026.
+Nikki Lopez is a music venue in Philadelphia with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Hostile City presents The Sweatbox Series Vol. 1 feat. Delta Heavy" on Fri, 20 Nov 2026.
 
-Nikki Lopez is a music venue in Philadelphia listed on soundcheck. 1 upcoming gig, with line-ups including DJ Paul T. See dates, start times and who's playing. 304 South St, Philadelphia, PA 19147.
+Nikki Lopez is a music venue in Philadelphia listed on soundcheck. 2 upcoming gigs, with line-ups including Delta Heavy, DJ Paul T and Skuzz. See dates, start times and who's playing. 304 South St, Philadelphia, PA 19147.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | Hostile City presents The Sweatbox Series Vol. 1 feat. Delta Heavy | Delta Heavy, Skuzz |
 | Sat, 21 Nov 2026 | New Desires | DJ Paul T |
 
 ## Address
 
 304 South St, Philadelphia, PA 19147, Philadelphia
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/nikki-lopez/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/nikki-lopez/)*

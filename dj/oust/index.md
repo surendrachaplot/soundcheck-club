@@ -1,6 +1,6 @@
 # OUST
 
-OUST is a electronic artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Castle Club, Cyprus on Fri, 4 Dec 2026.
+OUST is a electronic artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Castle Club, Cyprus on Fri, 4 Dec 2026.
 
 OUST is an electronic artist based in Cyprus, with 6 gigs on soundcheck across Amsterdam, Athens, Berlin and Cyprus. Often billed alongside AEREA, CHAPTO_LINES and DJ Hyperdrive. Next up: Castle Club, Cyprus on Fri 4 Dec.
 
@@ -22,4 +22,4 @@ OUST is an electronic artist based in Cyprus, with 6 gigs on soundcheck across A
 
 AEREA, CHAPTO_LINES, DJ Hyperdrive
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oust/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oust/)*

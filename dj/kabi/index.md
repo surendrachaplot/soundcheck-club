@@ -1,6 +1,6 @@
 # Kabi
 
-Kabi is a Progressive House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Manor, Perth on Fri, 13 Nov 2026.
+Kabi is a Progressive House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Manor, Perth on Fri, 13 Nov 2026.
 
 Kabi is a progressive house and deep house artist based in Argentina, with 26 gigs on soundcheck across Amsterdam, Budapest, Buenos Aires and London and 7 more. Often billed alongside Dimuth K, Agustin Ficarra and Armen Miran. Next up: The Manor, Perth on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Kabi is a progressive house and deep house artist based in Argentina, with 26 gi
 
 Dimuth K, Agustin Ficarra, Armen Miran
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kabi/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kabi/)*

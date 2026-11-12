@@ -1,6 +1,6 @@
 # Karis.
 
-Karis. is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Fox and Firkin, London on Sat, 12 Dec 2026.
+Karis. is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Fox and Firkin, London on Sat, 12 Dec 2026.
 
 Karis. is a house and garage artist based in United Kingdom, with 18 gigs on soundcheck across Brighton and London. Often billed alongside fae (UK), Adam Chapman and Buckley. Next up: The Fox and Firkin, London on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Karis. is a house and garage artist based in United Kingdom, with 18 gigs on sou
 
 fae (UK), Adam Chapman, Buckley
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karis/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karis/)*

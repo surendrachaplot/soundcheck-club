@@ -1,6 +1,6 @@
 # HIRMONIX
 
-HIRMONIX is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Garage 442, Barcelona on Sat, 14 Nov 2026.
+HIRMONIX is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Garage 442, Barcelona on Sat, 14 Nov 2026.
 
 HIRMONIX is a techno and tech house artist based in Spain, with 7 gigs on soundcheck across Barcelona. Often billed alongside Alex Blaze, Althoff and ERRANT. Next up: Garage 442, Barcelona on Sat 14 Nov.
 
@@ -23,4 +23,4 @@ HIRMONIX is a techno and tech house artist based in Spain, with 7 gigs on soundc
 
 Alex Blaze, Althoff, ERRANT
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hirmonix/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hirmonix/)*

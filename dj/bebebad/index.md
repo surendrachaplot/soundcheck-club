@@ -1,6 +1,6 @@
 # bebe bad
 
-bebe bad is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Klokgebouw, Eindhoven on Sat, 30 Jan 2027.
+bebe bad is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Klokgebouw, Eindhoven on Sat, 30 Jan 2027.
 
 bebe bad is a house and techno artist based in Netherlands, with 55 gigs on soundcheck across Amsterdam, Eindhoven, Rotterdam and Utrecht. Often billed alongside Doppelgang, SAIDAH and Tsepo. Next up: Klokgebouw, Eindhoven on Sat 30 Jan.
 
@@ -25,4 +25,4 @@ bebe bad is a house and techno artist based in Netherlands, with 55 gigs on soun
 
 Doppelgang, SAIDAH, Tsepo
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bebebad/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bebebad/)*

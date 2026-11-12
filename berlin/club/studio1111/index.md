@@ -1,6 +1,6 @@
 # Studio1111
 
-Studio1111 is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "ØTTA HOTTIES ALBUM TOUR" on Thu, 19 Nov 2026.
+Studio1111 is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "ØTTA HOTTIES ALBUM TOUR" on Thu, 19 Nov 2026.
 
 Studio1111 is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including A.tari, Kapote, Lars Eidinger and ØTTA and 2 more. See dates, start times and who's playing. Potsdamer Str. 96, 10785 Berlin.
 
@@ -15,4 +15,4 @@ Studio1111 is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, wit
 
 Potsdamer Str. 96, 10785 Berlin, Berlin
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/studio1111/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/studio1111/)*

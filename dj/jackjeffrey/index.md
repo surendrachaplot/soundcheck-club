@@ -1,6 +1,6 @@
 # Jack Jeffrey
 
-Jack Jeffrey is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA, London on Fri, 27 Nov 2026.
+Jack Jeffrey is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA, London on Fri, 27 Nov 2026.
 
 Jack Jeffrey is a techno and hardcore artist based in United Kingdom, with 40 gigs on soundcheck across Brighton, London and Tbilisi. Often billed alongside Acid Carbon, DSD uk and Døra. Next up: TBA, London on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Jack Jeffrey is a techno and hardcore artist based in United Kingdom, with 40 gi
 
 Acid Carbon, DSD uk, Døra
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jackjeffrey/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jackjeffrey/)*

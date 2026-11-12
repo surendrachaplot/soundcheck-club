@@ -1,13 +1,14 @@
 # Jane Remover
 
-Jane Remover is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Rechabite, Perth on Wed, 10 Feb 2027.
+Jane Remover is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at smartbar, Chicago on Wed, 16 Dec 2026.
 
-Jane Remover is a techno and electronica artist based in United States of America, with 4 gigs on soundcheck across Los Angeles, Miami, New York City and Perth. Often billed alongside 619!, 999999999 and AABEL. Next up: The Rechabite, Perth on Wed 10 Feb.
+Jane Remover is an electronica and house artist based in United States of America, with 5 gigs on soundcheck across Chicago, Los Angeles, Miami and New York City and 1 more. Often billed alongside 619!, 999999999 and AABEL. Next up: smartbar, Chicago on Wed 16 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 16 Dec 2026 | smartbar | Chicago |
 | Wed, 10 Feb 2027 | The Rechabite | Perth |
 
 ## Recently played
@@ -20,4 +21,4 @@ Jane Remover is a techno and electronica artist based in United States of Americ
 
 619!, 999999999, AABEL
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janeremover/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janeremover/)*

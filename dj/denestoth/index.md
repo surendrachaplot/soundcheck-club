@@ -1,6 +1,6 @@
 # Denes Toth
 
-Denes Toth is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
+Denes Toth is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
 
 Denes Toth is a house and techno artist based in Slovakia, with 66 gigs on soundcheck across Amsterdam, Berlin, Bratislava and Budapest and 3 more. Often billed alongside Konik (SK), Secret Factory and Baime. Next up: Hungexpo Budapest, Budapest on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Denes Toth is a house and techno artist based in Slovakia, with 66 gigs on sound
 
 Konik (SK), Secret Factory, Baime
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/denestoth/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/denestoth/)*

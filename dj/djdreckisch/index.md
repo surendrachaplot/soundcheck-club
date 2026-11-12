@@ -1,6 +1,6 @@
 # DJ DRECKISCH
 
-DJ DRECKISCH is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Zinkbad Eventhalle, Zurich on Sat, 14 Nov 2026.
+DJ DRECKISCH is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Zinkbad Eventhalle, Zurich on Sat, 14 Nov 2026.
 
 DJ DRECKISCH is a techno and trance artist based in Germany, with 101 gigs on soundcheck across Amsterdam, Basel, Berlin and Cologne and 12 more. Often billed alongside Kacy, 3LEEZA and DJ Achim Feuervogel. Next up: Zinkbad Eventhalle, Zurich on Sat 14 Nov.
 
@@ -33,4 +33,4 @@ DJ DRECKISCH is a techno and trance artist based in Germany, with 101 gigs on so
 
 Kacy, 3LEEZA, DJ Achim Feuervogel
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdreckisch/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdreckisch/)*

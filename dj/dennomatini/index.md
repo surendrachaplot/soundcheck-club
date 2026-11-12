@@ -1,6 +1,6 @@
 # Denno Matini
 
-Denno Matini is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Door Club, Berlin on Fri, 20 Nov 2026.
+Denno Matini is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Door Club, Berlin on Fri, 20 Nov 2026.
 
 Denno Matini is a house and techno artist based in Germany, with 12 gigs on soundcheck across Berlin and Stuttgart. Often billed alongside NAIR (IN), Ceci Fierce and Dj OmarO. Next up: The Door Club, Berlin on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Denno Matini is a house and techno artist based in Germany, with 12 gigs on soun
 
 NAIR (IN), Ceci Fierce, Dj OmarO
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dennomatini/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dennomatini/)*

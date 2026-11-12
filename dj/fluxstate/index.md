@@ -1,6 +1,6 @@
 # Flux State
 
-Flux State is a Jazz and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Seymour Centre, Sydney on Sat, 14 Nov 2026.
+Flux State is a Jazz and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Seymour Centre, Sydney on Sat, 14 Nov 2026.
 
 Flux State is a jazz and electro artist, with 7 gigs on soundcheck across London and Sydney. Often billed alongside LEVOS, CSMNT61 and GODTET. Next up: Seymour Centre, Sydney on Sat 14 Nov.
 
@@ -23,4 +23,4 @@ Flux State is a jazz and electro artist, with 7 gigs on soundcheck across London
 
 LEVOS, CSMNT61, GODTET
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fluxstate/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fluxstate/)*

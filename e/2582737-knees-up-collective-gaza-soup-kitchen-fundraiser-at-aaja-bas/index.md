@@ -10,7 +10,7 @@ Knees Up Collective: Gaza Soup Kitchen Fundraiser at Aaja Basement on Fri 20 Nov
 
 ## Line-up
 
-- ADAN
+- ADAN (2)
 - Saroor
 
 *Source: [soundcheck](https://soundcheck.club/e/2582737-knees-up-collective-gaza-soup-kitchen-fundraiser-at-aaja-bas/)*

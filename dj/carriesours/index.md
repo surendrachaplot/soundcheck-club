@@ -1,6 +1,6 @@
 # Carrie Sours
 
-Carrie Sours is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Hot Mass, Pittsburgh on Sat, 5 Dec 2026.
+Carrie Sours is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Hot Mass, Pittsburgh on Sat, 5 Dec 2026.
 
 Carrie Sours is a house and downtempo artist based in United States of America, with 24 gigs on soundcheck across Cleveland, Detroit, New York City and Philadelphia and 2 more. Often billed alongside Malzof, Davis Galvin and Kiernan Laveaux. Next up: Hot Mass, Pittsburgh on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Carrie Sours is a house and downtempo artist based in United States of America, 
 
 Malzof, Davis Galvin, Kiernan Laveaux
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carriesours/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carriesours/)*

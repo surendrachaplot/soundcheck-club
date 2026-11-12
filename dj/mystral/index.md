@@ -1,6 +1,6 @@
 # Mystral
 
-Mystral is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Renate, Berlin on Fri, 4 Dec 2026.
+Mystral is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Renate, Berlin on Fri, 4 Dec 2026.
 
 Mystral is a techno and house artist based in Spain, with 9 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Madrid. Often billed alongside Valody, Makam and Kameliia. Next up: Renate, Berlin on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Mystral is a techno and house artist based in Spain, with 9 gigs on soundcheck a
 
 Valody, Makam, Kameliia
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mystral/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mystral/)*

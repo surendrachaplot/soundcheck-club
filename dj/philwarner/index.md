@@ -1,8 +1,8 @@
 # Phil Warner
 
-Phil Warner is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Mint XL, Leeds on Sat, 28 Nov 2026.
+Phil Warner is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Mint XL, Leeds on Sat, 28 Nov 2026.
 
-Phil Warner is a house and techno artist based in United Kingdom, with 62 gigs on soundcheck across Leeds, London and Manchester. Often billed alongside Roya Brehl, Joe Reece and Pete Melba. Next up: Mint XL, Leeds on Sat 28 Nov.
+Phil Warner is a house and techno artist based in United Kingdom, with 63 gigs on soundcheck across Leeds, London and Manchester. Often billed alongside Roya Brehl, Joe Reece and Pete Melba. Next up: Mint XL, Leeds on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Phil Warner is a house and techno artist based in United Kingdom, with 62 gigs o
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Mint XL | Leeds |
 | Sat, 5 Dec 2026 | The Arches Social | Leeds |
+| Sun, 13 Dec 2026 | Eiger Studios | Leeds |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Phil Warner is a house and techno artist based in United Kingdom, with 62 gigs o
 
 Roya Brehl, Joe Reece, Pete Melba
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/philwarner/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/philwarner/)*

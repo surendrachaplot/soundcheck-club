@@ -1,6 +1,6 @@
 # BAKR
 
-BAKR is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Secret Location, Rome on Sat, 14 Nov 2026.
+BAKR is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Secret Location, Rome on Sat, 14 Nov 2026.
 
 BAKR is a techno and house artist based in France, with 8 gigs on soundcheck across Copenhagen, Paris, Rome and Stockholm. Often billed alongside Theo Scuera, Full Sentimental and A.Litique. Next up: TBA - Secret Location, Rome on Sat 14 Nov.
 
@@ -24,4 +24,4 @@ BAKR is a techno and house artist based in France, with 8 gigs on soundcheck acr
 
 Theo Scuera, Full Sentimental, A.Litique
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bakr/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bakr/)*

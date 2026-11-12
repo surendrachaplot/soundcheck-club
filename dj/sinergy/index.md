@@ -1,6 +1,6 @@
 # Sinergy
 
-Sinergy is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at KABUL à GoGo, Utrecht on Fri, 13 Nov 2026.
+Sinergy is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at KABUL à GoGo, Utrecht on Fri, 13 Nov 2026.
 
 Sinergy is a techno and industrial artist based in Turkey, with 23 gigs on soundcheck across Amsterdam, Berlin, Istanbul and Lisbon and 4 more. Often billed alongside Fran LF, Alec Dienaar and HUJUS. Next up: KABUL à GoGo, Utrecht on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Sinergy is a techno and industrial artist based in Turkey, with 23 gigs on sound
 
 Fran LF, Alec Dienaar, HUJUS
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sinergy/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sinergy/)*

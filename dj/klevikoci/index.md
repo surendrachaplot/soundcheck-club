@@ -1,6 +1,6 @@
 # Klevi Koci
 
-Klevi Koci is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at PWCC, North on Sun, 29 Nov 2026.
+Klevi Koci is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at PWCC, North on Sun, 29 Nov 2026.
 
 Klevi Koci is a house and minimal artist based in Italy, with 7 gigs on soundcheck across Amsterdam, Bologna and North. Often billed alongside Alex Kraemer, Di Francesco and Paoler. Next up: PWCC, North on Sun 29 Nov.
 
@@ -23,4 +23,4 @@ Klevi Koci is a house and minimal artist based in Italy, with 7 gigs on soundche
 
 Alex Kraemer, Di Francesco, Paoler
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/klevikoci/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/klevikoci/)*

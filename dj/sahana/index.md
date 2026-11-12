@@ -1,6 +1,6 @@
 # Sahana
 
-Sahana is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Yamamori Tengu, Dublin on Sat, 21 Nov 2026.
+Sahana is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Yamamori Tengu, Dublin on Sat, 21 Nov 2026.
 
 Sahana is a house and disco artist based in United States of America, with 55 gigs on soundcheck across Belfast, Dublin and London. Often billed alongside Moving Still, Neo Cortex and Surferboy. Next up: Yamamori Tengu, Dublin on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Sahana is a house and disco artist based in United States of America, with 55 gi
 
 Moving Still, Neo Cortex, Surferboy
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sahana/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sahana/)*

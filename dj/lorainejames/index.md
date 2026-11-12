@@ -1,6 +1,6 @@
 # Loraine James
 
-Loraine James is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Barbican Hall, London on Sun, 24 Jan 2027.
+Loraine James is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Barbican Hall, London on Sun, 24 Jan 2027.
 
 Loraine James is an experimental and ambient artist based in United Kingdom, with 77 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 32 more. Often billed alongside Valentina Magaletti, Kelman Duran and Lee Gamble. Next up: The Barbican Hall, London on Sun 24 Jan.
 
@@ -25,4 +25,4 @@ Loraine James is an experimental and ambient artist based in United Kingdom, wit
 
 Valentina Magaletti, Kelman Duran, Lee Gamble
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lorainejames/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lorainejames/)*

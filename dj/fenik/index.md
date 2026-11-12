@@ -1,6 +1,6 @@
 # FENIK
 
-FENIK is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Night We Met, Nashville on Sat, 30 Jan 2027.
+FENIK is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Night We Met, Nashville on Sat, 30 Jan 2027.
 
 FENIK is a tech house and house artist based in United States of America, with 8 gigs on soundcheck across Detroit and Nashville. Often billed alongside Walker & Royce, Arht and Cisco. Next up: Night We Met, Nashville on Sat 30 Jan.
 
@@ -24,4 +24,4 @@ FENIK is a tech house and house artist based in United States of America, with 8
 
 Walker & Royce, Arht, Cisco
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fenik/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fenik/)*

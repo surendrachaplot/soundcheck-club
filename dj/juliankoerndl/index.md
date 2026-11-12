@@ -1,6 +1,6 @@
 # Julian Koerndl
 
-Julian Koerndl is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Mason Bar, Cyprus on Sat, 12 Dec 2026.
+Julian Koerndl is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Mason Bar, Cyprus on Sat, 12 Dec 2026.
 
 Julian Koerndl is a progressive house and techno artist, with 12 gigs on soundcheck across Berlin, Cyprus, Frankfurt and Malaga and 3 more. Often billed alongside Severin Su, Esin and Jonas Thoma. Next up: Mason Bar, Cyprus on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Julian Koerndl is a progressive house and techno artist, with 12 gigs on soundch
 
 Severin Su, Esin, Jonas Thoma
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juliankoerndl/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juliankoerndl/)*

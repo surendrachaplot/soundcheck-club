@@ -1,6 +1,6 @@
 # Vulker
 
-Vulker is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Republik Club, Madrid on Fri, 13 Nov 2026.
+Vulker is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Republik Club, Madrid on Fri, 13 Nov 2026.
 
 Vulker is a techno and trance artist based in Spain, with 59 gigs on soundcheck across Madrid. Often billed alongside Gueparda, DJ2OYCE and alguien. Next up: Republik Club, Madrid on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Vulker is a techno and trance artist based in Spain, with 59 gigs on soundcheck 
 
 Gueparda, DJ2OYCE, alguien
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vulker/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vulker/)*

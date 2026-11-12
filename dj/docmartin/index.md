@@ -1,6 +1,6 @@
 # Doc Martin
 
-Doc Martin is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat, 14 Nov 2026.
+Doc Martin is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat, 14 Nov 2026.
 
 Doc Martin is a house and techno artist based in United States of America, with 107 gigs on soundcheck across Amsterdam, Austin, Baltimore and California and 23 more. Often billed alongside DJ M3, DJ Sneak and Mark Farina. Next up: TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat 14 Nov.
 
@@ -29,4 +29,4 @@ Doc Martin is a house and techno artist based in United States of America, with 
 
 DJ M3, DJ Sneak, Mark Farina
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/docmartin/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/docmartin/)*

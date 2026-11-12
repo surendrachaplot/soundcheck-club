@@ -1,6 +1,6 @@
 # Cole Terrazas
 
-Cole Terrazas is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Bridge, Los Angeles on Fri, 20 Nov 2026.
+Cole Terrazas is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Bridge, Los Angeles on Fri, 20 Nov 2026.
 
 Cole Terrazas is a tech house and house artist based in United States of America, with 25 gigs on soundcheck across Amsterdam, Austin, Chicago and Denver and 6 more. Often billed alongside KinAhau, Hank (US) and Josh Baker. Next up: The Bridge, Los Angeles on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Cole Terrazas is a tech house and house artist based in United States of America
 
 KinAhau, Hank (US), Josh Baker
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/coleterrazas/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/coleterrazas/)*

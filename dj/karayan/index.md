@@ -1,6 +1,6 @@
 # KARAYAN
 
-KARAYAN is a Club and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Bolero, Seoul on Fri, 20 Nov 2026.
+KARAYAN is a Club and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Bolero, Seoul on Fri, 20 Nov 2026.
 
 KARAYAN is a club and breakbeat artist based in South Korea, with 71 gigs on soundcheck across Seoul. Often billed alongside BIGTER, McCOL and SERA. Next up: Bolero, Seoul on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ KARAYAN is a club and breakbeat artist based in South Korea, with 71 gigs on sou
 
 BIGTER, McCOL, SERA (2)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karayan/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karayan/)*

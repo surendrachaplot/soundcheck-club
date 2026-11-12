@@ -1,6 +1,6 @@
 # tm8.club x Dissident ★ Mama Snake, Jan Loup, Cryptofauna + residents at Fitzroy
 
-tm8.club x Dissident ★ Mama Snake, Jan Loup, Cryptofauna + residents at Fitzroy on Sat 12 Dec, Berlin. 6 artists: Carly Zeng, Cryptofauna, Jan Loup and Mama Snake and 2 more. Trance and Techno. See the line-up on soundcheck.
+tm8.club x Dissident ★ Mama Snake, Jan Loup, Cryptofauna + residents at Fitzroy on Sat 12 Dec, Berlin. 8 artists: Carly Zeng, Cryptofauna, Jan Loup and Mama Snake and 4 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,7 +14,9 @@ tm8.club x Dissident ★ Mama Snake, Jan Loup, Cryptofauna + residents at Fitzro
 - Cryptofauna
 - Jan Loup
 - Mama Snake
+- Mohajer
 - olesia
 - Simrana
+- source:link
 
 *Source: [soundcheck](https://soundcheck.club/e/2573958-tm8-club-x-dissident-mama-snake-jan-loup-cryptofauna-residen/)*

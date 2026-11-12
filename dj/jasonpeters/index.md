@@ -1,6 +1,6 @@
 # Jason Peters
 
-Jason Peters is a House and Italo Disco artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Bar Oriente, Mexico City on Fri, 13 Nov 2026.
+Jason Peters is a House and Italo Disco artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Bar Oriente, Mexico City on Fri, 13 Nov 2026.
 
 Jason Peters is a house and italo disco artist based in United States of America, with 22 gigs on soundcheck across Barcelona, Los Angeles, Mexico City and San Francisco/Oakland and 2 more. Often billed alongside Sharlese, Amatric and Nicoshi. Next up: Bar Oriente, Mexico City on Fri 13 Nov.
 
@@ -28,4 +28,4 @@ Jason Peters is a house and italo disco artist based in United States of America
 
 Sharlese, Amatric, Nicoshi
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonpeters/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonpeters/)*

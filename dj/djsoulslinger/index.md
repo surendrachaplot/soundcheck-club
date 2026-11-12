@@ -1,6 +1,6 @@
 # DJ SOUL SLINGER
 
-DJ SOUL SLINGER is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Bossa Nova Civic Club, New York City on Wed, 16 Dec 2026.
+DJ SOUL SLINGER is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Bossa Nova Civic Club, New York City on Wed, 16 Dec 2026.
 
 DJ SOUL SLINGER is a drum & bass and techno artist based in United States of America, with 9 gigs on soundcheck across Detroit and New York City. Often billed alongside MTECH, AK (US) and AceMo. Next up: Bossa Nova Civic Club, New York City on Wed 16 Dec.
 
@@ -25,4 +25,4 @@ DJ SOUL SLINGER is a drum & bass and techno artist based in United States of Ame
 
 MTECH, AK (US), AceMo
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsoulslinger/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsoulslinger/)*

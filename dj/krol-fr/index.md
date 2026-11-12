@@ -1,6 +1,6 @@
 # Krol
 
-Krol is a House and Minimal artist with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Platforma Wolff, Bucharest on Fri, 20 Nov 2026.
+Krol is a House and Minimal artist with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Platforma Wolff, Bucharest on Fri, 20 Nov 2026.
 
 Krol is a house and minimal artist based in France, with 70 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 12 more. Often billed alongside Aline Umber, Aline Brooklyn and Aman Umber. Next up: Platforma Wolff, Bucharest on Fri 20 Nov.
 
@@ -29,4 +29,4 @@ Krol is a house and minimal artist based in France, with 70 gigs on soundcheck a
 
 Aline Umber, Aline Brooklyn, Aman Umber
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krol-fr/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krol-fr/)*

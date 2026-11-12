@@ -1,6 +1,6 @@
 # Lauren Hansom
 
-Lauren Hansom is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
+Lauren Hansom is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
 
 Lauren Hansom is a house and balearic artist based in Australia, with 28 gigs on soundcheck across Adelaide, Auckland, Brisbane and Melbourne and 3 more. Often billed alongside HanSom, Gee Dee and Wax'o Paradiso. Next up: The Wildlands, Melbourne on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Lauren Hansom is a house and balearic artist based in Australia, with 28 gigs on
 
 HanSom, Gee Dee, Wax'o Paradiso
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenhansom/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenhansom/)*

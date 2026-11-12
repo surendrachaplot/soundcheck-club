@@ -1,6 +1,6 @@
 # When Coffee Meets Whisky
 
-When Coffee Meets Whisky is a music venue in Riga with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "OUT OF OFFICE: TUMOSA" on Fri, 13 Nov 2026.
+When Coffee Meets Whisky is a music venue in Riga with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "OUT OF OFFICE: TUMOSA" on Fri, 13 Nov 2026.
 
 When Coffee Meets Whisky is a music venue in Riga listed on soundcheck. 2 upcoming gigs, with line-ups including Charlton and Vol-T. See dates, start times and who's playing. Baznīcas iela 20/22, LV-1010.
 
@@ -15,4 +15,4 @@ When Coffee Meets Whisky is a music venue in Riga listed on soundcheck. 2 upcomi
 
 Baznīcas iela 20/22, LV-1010, Riga
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/riga/club/when-coffee-meets-whisky/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/riga/club/when-coffee-meets-whisky/)*

@@ -1,6 +1,6 @@
 # o.utlier
 
-o.utlier is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA, Paris on Sat, 14 Nov 2026.
+o.utlier is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA, Paris on Sat, 14 Nov 2026.
 
 o.utlier is a techno and ambient artist based in Ireland, with 17 gigs on soundcheck across Barcelona, Belfast, Berlin and Cork and 6 more. Often billed alongside Ario, Anthony Linell and Jin (TW). Next up: TBA, Paris on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ o.utlier is a techno and ambient artist based in Ireland, with 17 gigs on soundc
 
 Ario, Anthony Linell, Jin (TW)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/o.utlier/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/o.utlier/)*

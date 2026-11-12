@@ -1,6 +1,6 @@
 # CAIVA
 
-CAIVA is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Tokonoma Club, Frankfurt on Fri, 13 Nov 2026.
+CAIVA is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Tokonoma Club, Frankfurt on Fri, 13 Nov 2026.
 
 CAIVA is a techno and trance artist based in Germany, with 198 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 49 more. Often billed alongside Frederic., Part Time Killer and Lacchesi. Next up: Tokonoma Club, Frankfurt on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ CAIVA is a techno and trance artist based in Germany, with 198 gigs on soundchec
 
 Frederic., Part Time Killer, Lacchesi
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caiva/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caiva/)*

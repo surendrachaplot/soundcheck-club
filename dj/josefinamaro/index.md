@@ -1,6 +1,6 @@
 # Josefina Maro
 
-Josefina Maro is a Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Culterim, Berlin on Thu, 12 Nov 2026.
+Josefina Maro is a Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Culterim, Berlin on Thu, 12 Nov 2026.
 
 Josefina Maro is an experimental artist based in Argentina, with 8 gigs on soundcheck across Barcelona, Berlin and Leipzig. Often billed alongside Mvd0ae, candie and Arieshandmodel. Next up: Culterim, Berlin on Thu 12 Nov.
 
@@ -24,4 +24,4 @@ Josefina Maro is an experimental artist based in Argentina, with 8 gigs on sound
 
 Mvd0ae, candie, Arieshandmodel
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/josefinamaro/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/josefinamaro/)*

@@ -1,6 +1,6 @@
 # VRAXX
 
-VRAXX is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at STK 47 WAREHOUSE, Krakow on Fri, 13 Nov 2026.
+VRAXX is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at STK 47 WAREHOUSE, Krakow on Fri, 13 Nov 2026.
 
 VRAXX is a techno and trance artist based in Poland, with 89 gigs on soundcheck across Krakow, Poznan, Warsaw and Wroclaw. Often billed alongside Józef Keuner, SCHELLT and ERNST (UA). Next up: STK 47 WAREHOUSE, Krakow on Fri 13 Nov.
 
@@ -29,4 +29,4 @@ VRAXX is a techno and trance artist based in Poland, with 89 gigs on soundcheck 
 
 Józef Keuner, SCHELLT, ERNST (UA)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vraxx/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vraxx/)*

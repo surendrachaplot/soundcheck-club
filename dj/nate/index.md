@@ -1,6 +1,6 @@
 # Naté
 
-Naté is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Belasco Theater, Los Angeles on Thu, 31 Dec 2026.
+Naté is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Belasco Theater, Los Angeles on Thu, 31 Dec 2026.
 
 Naté is a house and disco artist, with 31 gigs on soundcheck across Los Angeles and Paris. Often billed alongside Pretty Gay Friendly, Masha Mar and Perfect Lovers. Next up: Belasco Theater, Los Angeles on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Naté is a house and disco artist, with 31 gigs on soundcheck across Los Angeles
 
 Pretty Gay Friendly, Masha Mar, Perfect Lovers
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nate/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nate/)*

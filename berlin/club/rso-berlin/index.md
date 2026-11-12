@@ -1,6 +1,6 @@
 # RSO.BERLIN
 
-RSO.BERLIN is a music venue in Berlin with 19 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "TRIBE CLUB SERIES with Funk Tribu, Supergloss, Linds, Tom Carroll & KARISH" on Sat, 7 Nov 2026.
+RSO.BERLIN is a music venue in Berlin with 19 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "TRIBE CLUB SERIES with Funk Tribu, Supergloss, Linds, Tom Carroll & KARISH" on Sat, 7 Nov 2026.
 
 RSO.BERLIN is a music venue in Berlin listed on soundcheck. 19 upcoming gigs, with line-ups including 131bpm, Justine Perry, ABADIR and Adiel and 2 more. See dates, start times and who's playing. Schnellerstrasse 137, 12439 Berlin.
 
@@ -23,4 +23,4 @@ RSO.BERLIN is a music venue in Berlin listed on soundcheck. 19 upcoming gigs, wi
 
 Schnellerstrasse 137, 12439 Berlin, Berlin
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rso-berlin/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rso-berlin/)*

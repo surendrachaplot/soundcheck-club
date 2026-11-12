@@ -1,6 +1,6 @@
 # Mint Warehouse
 
-Mint Warehouse is a music venue in Leeds with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Energy Cru presents: Bushbaby [All Night Long]" on Fri, 13 Nov 2026.
+Mint Warehouse is a music venue in Leeds with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Energy Cru presents: Bushbaby [All Night Long]" on Fri, 13 Nov 2026.
 
 Mint Warehouse is a music venue in Leeds listed on soundcheck. 4 upcoming gigs, with line-ups including Bushbaby, camukg, Efan and Fish56Octagon and 2 more. See dates, start times and who's playing. Aquatite House; Water Lane; Leeds; LS11 9UD; United Kingdom.
 
@@ -17,4 +17,4 @@ Mint Warehouse is a music venue in Leeds listed on soundcheck. 4 upcoming gigs, 
 
 Aquatite House; Water Lane; Leeds; LS11 9UD; United Kingdom, Leeds
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/mint-warehouse/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/mint-warehouse/)*

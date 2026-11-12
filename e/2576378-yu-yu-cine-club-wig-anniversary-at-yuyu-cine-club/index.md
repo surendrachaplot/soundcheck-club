@@ -1,6 +1,6 @@
 # Yu Yu Cine Club: WiG Anniversary at YuYu Cine Club
 
-Yu Yu Cine Club: WiG Anniversary at YuYu Cine Club on Fri 27 Nov, Mexico City. 2 artists: fka phaedra and TOCCORORO. See the line-up on soundcheck.
+Yu Yu Cine Club: WiG Anniversary at YuYu Cine Club on Fri 27 Nov, Mexico City. 3 artists: BBYAFRICKA, fka phaedra and TOCCORORO. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Yu Yu Cine Club: WiG Anniversary at YuYu Cine Club on Fri 27 Nov, Mexico City. 2
 
 ## Line-up
 
+- BBYAFRICKA
 - fka phaedra
 - TOCCORORO
 

@@ -1,6 +1,6 @@
 # Risa
 
-Risa is a Hip-Hop and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Compufunk Records, Osaka on Thu, 12 Nov 2026.
+Risa is a Hip-Hop and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Compufunk Records, Osaka on Thu, 12 Nov 2026.
 
 Risa is a hip-hop and house artist based in Canada, with 21 gigs on soundcheck across Montreal, New York City, Osaka and Tokyo. Often billed alongside Ken Sugai, Oshi and Takashit. Next up: Compufunk Records, Osaka on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Risa is a hip-hop and house artist based in Canada, with 21 gigs on soundcheck a
 
 Ken Sugai, Oshi, Takashit
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/risa/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/risa/)*

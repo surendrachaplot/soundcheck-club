@@ -1,6 +1,6 @@
 # *Tia*
 
-*Tia* is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at ://about blank, Berlin on Fri, 4 Dec 2026.
+*Tia* is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at ://about blank, Berlin on Fri, 4 Dec 2026.
 
 *Tia* is a techno and house artist based in Switzerland, with 7 gigs on soundcheck across Berlin, Lausanne and Switzerland. Often billed alongside Frankie Flowerz, (NOT) XCESS and ACID FLORA. Next up: ://about blank, Berlin on Fri 4 Dec.
 
@@ -23,4 +23,4 @@
 
 Frankie Flowerz, (NOT) XCESS, ACID FLORA
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tia-de/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tia-de/)*

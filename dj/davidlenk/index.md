@@ -1,6 +1,6 @@
 # David Lenk
 
-David Lenk is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at glimmer, Hamburg on Fri, 13 Nov 2026.
+David Lenk is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at glimmer, Hamburg on Fri, 13 Nov 2026.
 
 David Lenk is a house and minimal artist based in Germany, with 40 gigs on soundcheck across Berlin, Bogotá, Hamburg and Medellin. Often billed alongside Barbaros, Jakob Seidensticker and Benny (El Rio Hostel). Next up: glimmer, Hamburg on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ David Lenk is a house and minimal artist based in Germany, with 40 gigs on sound
 
 Barbaros, Jakob Seidensticker, Benny (El Rio Hostel)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidlenk/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidlenk/)*

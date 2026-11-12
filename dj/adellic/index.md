@@ -1,6 +1,6 @@
 # Adellic
 
-Adellic is a Tech House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Nosh and Chow, Stockholm on Sat, 21 Nov 2026.
+Adellic is a Tech House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Nosh and Chow, Stockholm on Sat, 21 Nov 2026.
 
 Adellic is a tech house and progressive house artist based in Sweden, with 8 gigs on soundcheck across Amsterdam and Stockholm. Often billed alongside Sunrise Xavier, ALADAG and Andreas Andersson. Next up: Nosh and Chow, Stockholm on Sat 21 Nov.
 
@@ -24,4 +24,4 @@ Adellic is a tech house and progressive house artist based in Sweden, with 8 gig
 
 Sunrise Xavier, ALADAG, Andreas Andersson
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adellic/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adellic/)*

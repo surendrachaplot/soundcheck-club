@@ -1,6 +1,6 @@
 # Monika Ross
 
-Monika Ross is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Galeria de Arte, Mexico City on Sat, 5 Dec 2026.
+Monika Ross is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Galeria de Arte, Mexico City on Sat, 5 Dec 2026.
 
 Monika Ross is a house and minimal artist based in Australia, with 39 gigs on soundcheck across Berlin, Dortmund / Essen, Guadalajara and Hamburg and 6 more. Often billed alongside Nils Twachtmann, Alternate State and Dave Dinger. Next up: TBA - Galeria de Arte, Mexico City on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Monika Ross is a house and minimal artist based in Australia, with 39 gigs on so
 
 Nils Twachtmann, Alternate State, Dave Dinger
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/monikaross/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/monikaross/)*

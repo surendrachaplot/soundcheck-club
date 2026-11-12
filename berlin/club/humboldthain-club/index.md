@@ -1,6 +1,6 @@
 # Humboldthain Club
 
-Humboldthain Club is a music venue in Berlin with 13 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "LIEBER x INFERNO with XIMA, Terra Twiins, Kimberly, Baby V, Slimegoat, phlipzee, Perry Green" on Fri, 13 Nov 2026.
+Humboldthain Club is a music venue in Berlin with 13 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "LIEBER x INFERNO with XIMA, Terra Twiins, Kimberly, Baby V, Slimegoat, phlipzee, Perry Green" on Fri, 13 Nov 2026.
 
 Humboldthain Club is a music venue in Berlin listed on soundcheck. 13 upcoming gigs, with line-ups including 3diz, aykanakdag, CC:NIELOS and DJ-Ween and 2 more. See dates, start times and who's playing. Hochstraße 46; 13357 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Humboldthain Club is a music venue in Berlin listed on soundcheck. 13 upcoming g
 
 Hochstraße 46; 13357 Berlin; Germany, Berlin
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/humboldthain-club/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/humboldthain-club/)*

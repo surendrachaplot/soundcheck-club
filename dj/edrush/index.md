@@ -1,6 +1,6 @@
 # Ed Rush
 
-Ed Rush is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Křižík Pavilion B, Prague on Fri, 13 Nov 2026.
+Ed Rush is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Křižík Pavilion B, Prague on Fri, 13 Nov 2026.
 
 Ed Rush is a drum & bass and jungle artist based in United Kingdom, with 74 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Bali and 36 more. Often billed alongside Optical, Audio and Black Sun Empire. Next up: Křižík Pavilion B, Prague on Fri 13 Nov.
 
@@ -29,4 +29,4 @@ Ed Rush is a drum & bass and jungle artist based in United Kingdom, with 74 gigs
 
 Optical, Audio, Black Sun Empire
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edrush/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edrush/)*

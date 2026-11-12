@@ -1,14 +1,15 @@
 # Garage
 
-Garage is a Garage and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at 1756 Naud St., Los Angeles on Sat, 14 Nov 2026.
+Garage is a Garage and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at 1756 Naud St., Los Angeles on Sat, 14 Nov 2026.
 
-Garage is a garage and drum & bass artist based in Ukraine, with 17 gigs on soundcheck across Bristol, Istanbul, London and Los Angeles and 4 more. Often billed alongside Jungle (UK), More and Uncle Dugs. Next up: 1756 Naud St., Los Angeles on Sat 14 Nov.
+Garage is a garage and drum & bass artist based in Ukraine, with 18 gigs on soundcheck across Barcelona, Bristol, Istanbul and London and 5 more. Often billed alongside Jungle (UK), More and SHARE (NL). Next up: 1756 Naud St., Los Angeles on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | 1756 Naud St. | Los Angeles |
+| Sat, 14 Nov 2026 | Razzmatazz 3 | Barcelona |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Garage is a garage and drum & bass artist based in Ukraine, with 17 gigs on soun
 
 ## Shares bills with
 
-Jungle (UK), More (3), Uncle Dugs
+Jungle (UK), More (3), SHARE (NL)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/garage-ukr/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/garage-ukr/)*

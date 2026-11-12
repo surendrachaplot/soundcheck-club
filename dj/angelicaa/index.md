@@ -1,6 +1,6 @@
 # Angelicaa
 
-Angelicaa is a Experimental and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Horse Hospital, London on Fri, 13 Nov 2026.
+Angelicaa is a Experimental and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Horse Hospital, London on Fri, 13 Nov 2026.
 
 Angelicaa is an experimental and post-punk artist based in United Kingdom, with 6 gigs on soundcheck across Buenos Aires and London. Often billed alongside Aircode, Charles Verni and First Circle. Next up: The Horse Hospital, London on Fri 13 Nov.
 
@@ -22,4 +22,4 @@ Angelicaa is an experimental and post-punk artist based in United Kingdom, with 
 
 Aircode, Charles Verni, First Circle (2)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/angelicaa/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/angelicaa/)*

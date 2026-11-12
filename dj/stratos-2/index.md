@@ -1,6 +1,6 @@
 # Stratos (2)
 
-Stratos (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Host, Thessaloniki on Sun, 15 Nov 2026.
+Stratos (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Host, Thessaloniki on Sun, 15 Nov 2026.
 
 Stratos is a techno and house artist based in Greece, with 67 gigs on soundcheck across Athens, Mykonos and Thessaloniki. Often billed alongside Reign Of Time, jayjayGR and oKálo. Next up: The Host, Thessaloniki on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Stratos is a techno and house artist based in Greece, with 67 gigs on soundcheck
 
 Reign Of Time, jayjayGR, oKálo
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stratos-2/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stratos-2/)*

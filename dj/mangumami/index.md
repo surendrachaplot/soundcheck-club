@@ -1,6 +1,6 @@
 # MANGUMAMI
 
-MANGUMAMI is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Walnut Bar & Grill, New York City on Sat, 14 Nov 2026.
+MANGUMAMI is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Walnut Bar & Grill, New York City on Sat, 14 Nov 2026.
 
 MANGUMAMI is a club and techno artist based in United States of America, with 26 gigs on soundcheck across Atlanta, Baltimore, Boston and Miami and 3 more. Often billed alongside EL SUCIO, CMD+JAZMINE and BOJAQ. Next up: Walnut Bar & Grill, New York City on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ MANGUMAMI is a club and techno artist based in United States of America, with 26
 
 EL SUCIO, CMD+JAZMINE, BOJAQ
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mangumami/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mangumami/)*

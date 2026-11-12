@@ -1,6 +1,6 @@
-# Boiler Room: Amsterdam | Friday at TBA
+# Boiler Room: Amsterdam / Friday at TBA
 
-Boiler Room: Amsterdam | Friday at TBA on Fri 13 Nov, Amsterdam. 13 artists: Amaliah, Batu, Berkan V8 and DJ BORING and 9 more. Techno and House. See the line-up on soundcheck.
+Boiler Room: Amsterdam / Friday at TBA on Fri 13 Nov, Amsterdam. 13 artists: Amaliah, Batu, Berkan V8 and DJ BORING and 9 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

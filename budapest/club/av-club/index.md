@@ -1,6 +1,6 @@
 # AVØ Club
 
-AVØ Club is a music venue in Budapest with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "BAR NIGHT SESSIØN - TAKE-OFF" on Fri, 13 Nov 2026.
+AVØ Club is a music venue in Budapest with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "BAR NIGHT SESSIØN - TAKE-OFF" on Fri, 13 Nov 2026.
 
 AVØ Club is a music venue in Budapest listed on soundcheck. 3 upcoming gigs, with line-ups including VAMØS GRAMØS. See dates, start times and who's playing.
 
@@ -12,4 +12,4 @@ AVØ Club is a music venue in Budapest listed on soundcheck. 3 upcoming gigs, wi
 | Sat, 14 Nov 2026 | THE SECRET AVØ Club - SOFT ØPENING | VAMØS GRAMØS |
 | Fri, 20 Nov 2026 | BAR NIGHT SESSIØN - TAKE-OFF |  |
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/av-club/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/av-club/)*

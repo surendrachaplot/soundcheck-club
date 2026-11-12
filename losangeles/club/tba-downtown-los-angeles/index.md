@@ -1,8 +1,8 @@
 # TBA - Downtown Los Angeles
 
-TBA - Downtown Los Angeles is a music venue in Los Angeles with 8 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Midnight Lovers with Cinthie (All Night Long)" on Sat, 21 Nov 2026.
+TBA - Downtown Los Angeles is a music venue in Los Angeles with 9 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Midnight Lovers with Cinthie (All Night Long)" on Sat, 21 Nov 2026.
 
-TBA - Downtown Los Angeles is a music venue in Los Angeles listed on soundcheck. 8 upcoming gigs, with line-ups including Axel Boman, Baauer, Bianca Oblivion and Cinthie and 2 more. See dates, start times and who's playing.
+TBA - Downtown Los Angeles is a music venue in Los Angeles listed on soundcheck. 9 upcoming gigs, with line-ups including Axel Boman, Baauer, Bianca Oblivion and Cinthie and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
@@ -16,5 +16,6 @@ TBA - Downtown Los Angeles is a music venue in Los Angeles listed on soundcheck.
 | Sat, 12 Dec 2026 | Midnight Lovers: Axel Boman b2b Superpitcher - All Night | Axel Boman, Pachanga Boys, Superpitcher |
 | Thu, 31 Dec 2026 | CERTIFIED GROOVERS NYE [72 HOURS NONSTOP] |  |
 | Thu, 31 Dec 2026 | Midnight Lovers NYE |  |
+| Fri, 22 Jan 2027 | Certified Groovers: Gabbs | Gabbs |
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-downtown-los-angeles/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-downtown-los-angeles/)*

@@ -1,8 +1,8 @@
 # Fabio
 
-Fabio is a Drum & Bass and Jungle artist with 13 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Jaeger, Oslo on Fri, 20 Nov 2026.
+Fabio is a Drum & Bass and Jungle artist with 14 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Jaeger, Oslo on Fri, 20 Nov 2026.
 
-Fabio is a drum & bass and jungle artist based in United Kingdom, with 121 gigs on soundcheck across Antwerp, Bali, Barcelona and Berlin and 20 more. Often billed alongside Grooverider, MC GQ and Mantra. Next up: Jaeger, Oslo on Fri 20 Nov.
+Fabio is a drum & bass and jungle artist based in United Kingdom, with 122 gigs on soundcheck across Antwerp, Bali, Barcelona and Berlin and 20 more. Often billed alongside Grooverider, MC GQ and Mantra. Next up: Jaeger, Oslo on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -14,12 +14,12 @@ Fabio is a drum & bass and jungle artist based in United Kingdom, with 121 gigs 
 | Sat, 26 Dec 2026 | Hare & Hounds | Birmingham |
 | Sun, 27 Dec 2026 | Hare & Hounds | Birmingham |
 | Thu, 31 Dec 2026 | Volks | Brighton |
+| Fri, 29 Jan 2027 | Phonox | London |
 | Thu, 3 Jun 2027 | O2 Academy Bournemouth | South-east |
 | Fri, 4 Jun 2027 | O2 Academy Birmingham | Birmingham |
 | Thu, 10 Jun 2027 | O2 Academy Leeds | Leeds |
 | Fri, 11 Jun 2027 | Rock City | Nottingham |
 | Sat, 12 Jun 2027 | NX Newcastle | Newcastle |
-| Thu, 17 Jun 2027 | 02 Victoria Warehouse | Manchester |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Fabio is a drum & bass and jungle artist based in United Kingdom, with 121 gigs 
 
 Grooverider, MC GQ, Mantra
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fabio/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fabio/)*

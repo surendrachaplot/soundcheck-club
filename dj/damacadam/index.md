@@ -1,6 +1,6 @@
 # Damacadam
 
-Damacadam is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Société des arts technologiques, Montreal on Fri, 4 Dec 2026.
+Damacadam is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Société des arts technologiques, Montreal on Fri, 4 Dec 2026.
 
 Damacadam is a house and techno artist based in Canada, with 18 gigs on soundcheck across Montreal. Often billed alongside Pelo, Tali Rose and BRI. Next up: Société des arts technologiques, Montreal on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Damacadam is a house and techno artist based in Canada, with 18 gigs on soundche
 
 Pelo, Tali Rose, BRI (5)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/damacadam/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/damacadam/)*

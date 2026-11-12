@@ -1,6 +1,6 @@
 # The Bassement
 
-The Bassement is a music venue in Madrid with 14 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "CACAO by ANTHONY GODFATHER" on Sat, 14 Nov 2026.
+The Bassement is a music venue in Madrid with 14 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "CACAO by ANTHONY GODFATHER" on Sat, 14 Nov 2026.
 
 The Bassement is a music venue in Madrid listed on soundcheck. 14 upcoming gigs, with line-ups including AEREA, Amal Nemer, Ana Alves and Ania Bruster and 2 more. See dates, start times and who's playing. C. de Galileo, 2628015 Madrid.
 
@@ -23,4 +23,4 @@ The Bassement is a music venue in Madrid listed on soundcheck. 14 upcoming gigs,
 
 C. de Galileo, 2628015 Madrid, Madrid
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/the-bassement/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/the-bassement/)*

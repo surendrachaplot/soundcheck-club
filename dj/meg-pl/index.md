@@ -1,6 +1,6 @@
 # Meg (PL)
 
-Meg (PL) is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Prozak 2.0, Krakow on Fri, 13 Nov 2026.
+Meg (PL) is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Prozak 2.0, Krakow on Fri, 13 Nov 2026.
 
 Meg (PL) is a trance and techno artist based in Poland, with 138 gigs on soundcheck across Berlin, Krakow, Tokyo and Warsaw. Often billed alongside Kuriozum, EARGASM GOD and naked relaxing. Next up: Prozak 2.0, Krakow on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Meg (PL) is a trance and techno artist based in Poland, with 138 gigs on soundch
 
 Kuriozum, EARGASM GOD, naked relaxing
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meg-pl/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meg-pl/)*

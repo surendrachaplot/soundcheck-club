@@ -1,8 +1,8 @@
-# TBA - TBA
+# TBA - TBA 
 
-TBA - TBA is a music venue in Milan with 6 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "UFeel Brooklyn Late Nighter with O.BEE" on Fri, 13 Nov 2026.
+TBA - TBA  is a music venue in Milan with 6 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "UFeel Brooklyn Late Nighter with O.BEE" on Fri, 13 Nov 2026.
 
-TBA - TBA is a music venue in Milan listed on soundcheck. 6 upcoming gigs, with line-ups including Akin (NYC), Blason, Dana Kuehr and Ethan. and 2 more. See dates, start times and who's playing.
+TBA - TBA  is a music venue in Milan listed on soundcheck. 6 upcoming gigs, with line-ups including Akin (NYC), Blason, Dana Kuehr and Ethan. and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
@@ -15,4 +15,4 @@ TBA - TBA is a music venue in Milan listed on soundcheck. 6 upcoming gigs, with 
 | Fri, 25 Dec 2026 | Guest Giuliano Porcelli su X-Centri1c | Giuliano Porcelli |
 | Sun, 27 Dec 2026 | INFINITY FM _ presenta Giuliano Porcelli | Giuliano Porcelli |
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/tba-tba/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/tba-tba/)*

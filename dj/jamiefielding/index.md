@@ -1,6 +1,6 @@
 # Jamie Fielding
 
-Jamie Fielding is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Telegraph Building, Belfast on Thu, 12 Nov 2026.
+Jamie Fielding is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Telegraph Building, Belfast on Thu, 12 Nov 2026.
 
 Jamie Fielding is a house and tech house artist based in United Kingdom, with 75 gigs on soundcheck across Aberdeen, Amsterdam, Barcelona and Belfast and 16 more. Often billed alongside Marsolo, Niteplan and Benji King. Next up: The Telegraph Building, Belfast on Thu 12 Nov.
 
@@ -32,4 +32,4 @@ Jamie Fielding is a house and tech house artist based in United Kingdom, with 75
 
 Marsolo, Niteplan, Benji King
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiefielding/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiefielding/)*

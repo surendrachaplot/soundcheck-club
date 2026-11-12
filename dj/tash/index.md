@@ -1,6 +1,6 @@
 # Tash
 
-Tash is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA, Romania on Fri, 18 Jun 2027.
+Tash is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA, Romania on Fri, 18 Jun 2027.
 
 Tash is a techno and progressive house artist based in Greece, with 24 gigs on soundcheck across Amsterdam, Berlin, Chicago and Lisbon and 5 more. Often billed alongside W&DY, Alex O'Rion and Alexisphere. Next up: TBA, Romania on Fri 18 Jun.
 
@@ -25,4 +25,4 @@ Tash is a techno and progressive house artist based in Greece, with 24 gigs on s
 
 W&DY, Alex O'Rion, Alexisphere
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tash/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tash/)*

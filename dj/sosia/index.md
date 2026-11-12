@@ -1,6 +1,6 @@
 # Sosia
 
-Sosia is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Smolna, Warsaw on Fri, 13 Nov 2026.
+Sosia is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Smolna, Warsaw on Fri, 13 Nov 2026.
 
 Sosia is a house and disco artist based in Poland, with 24 gigs on soundcheck across Warsaw. Often billed alongside Sam Karol, Cougar (PL) and Mitura. Next up: Smolna, Warsaw on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Sosia is a house and disco artist based in Poland, with 24 gigs on soundcheck ac
 
 Sam Karol, Cougar (PL), Mitura
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sosia/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sosia/)*

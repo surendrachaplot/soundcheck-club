@@ -1,6 +1,6 @@
 # ZENNER
 
-ZENNER is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "ЯETURN" on Fri, 1 Jan 2027.
+ZENNER is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "ЯETURN" on Fri, 1 Jan 2027.
 
 ZENNER is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including Barbara Preisinger, Dorian Paic, Federico Molinari and Ricardo Villalobos and 2 more. See dates, start times and who's playing. Alt-Treptow 15, 12435 Berlin.
 
@@ -14,4 +14,4 @@ ZENNER is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with lin
 
 Alt-Treptow 15, 12435 Berlin, Berlin
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/zenner/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/zenner/)*

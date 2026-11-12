@@ -1,6 +1,6 @@
 # Miyra Lim
 
-Miyra Lim is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Paloma, Berlin on Sat, 14 Nov 2026.
+Miyra Lim is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Paloma, Berlin on Sat, 14 Nov 2026.
 
 Miyra Lim is a house and garage artist, with 36 gigs on soundcheck across Berlin, Copenhagen and Vienna. Often billed alongside JP Bechamel, AfroNinja and Reeno Reluv. Next up: Paloma, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Miyra Lim is a house and garage artist, with 36 gigs on soundcheck across Berlin
 
 JP Bechamel, AfroNinja, Reeno Reluv
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miyralim/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miyralim/)*

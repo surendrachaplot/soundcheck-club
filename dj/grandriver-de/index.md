@@ -1,6 +1,6 @@
 # Grand River
 
-Grand River is a Experimental and Ambient artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at MoN Takanawa, Tokyo on Fri, 20 Nov 2026.
+Grand River is a Experimental and Ambient artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at MoN Takanawa, Tokyo on Fri, 20 Nov 2026.
 
 Grand River is an experimental and ambient artist, with 38 gigs on soundcheck across Athens, Barcelona, Bergen and Berlin and 16 more. Often billed alongside Abul Mogard, upsammy and Zoë Mc Pherson. Next up: MoN Takanawa, Tokyo on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Grand River is an experimental and ambient artist, with 38 gigs on soundcheck ac
 
 Abul Mogard, upsammy, Zoë Mc Pherson
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grandriver-de/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grandriver-de/)*

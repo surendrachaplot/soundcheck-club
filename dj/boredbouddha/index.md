@@ -1,6 +1,6 @@
 # BORED BOUDDHA
 
-BORED BOUDDHA is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Fuse, Brussels on Fri, 4 Dec 2026.
+BORED BOUDDHA is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Fuse, Brussels on Fri, 4 Dec 2026.
 
 BORED BOUDDHA is a techno and electro artist based in Belgium, with 19 gigs on soundcheck across Antwerp, Brussels and Ghent. Often billed alongside Hadone, Amalie and Border One. Next up: Fuse, Brussels on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ BORED BOUDDHA is a techno and electro artist based in Belgium, with 19 gigs on s
 
 Hadone, Amalie, Border One
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boredbouddha/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boredbouddha/)*

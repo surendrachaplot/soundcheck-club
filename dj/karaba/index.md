@@ -1,6 +1,6 @@
 # KARABA
 
-KARABA is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Ministerium Club, Lisbon on Sat, 19 Dec 2026.
+KARABA is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Ministerium Club, Lisbon on Sat, 19 Dec 2026.
 
 KARABA is an afro house and house artist based in United States of America, with 24 gigs on soundcheck across Berlin, Bogotá, Lisbon and London and 10 more. Often billed alongside Airon, DJ PERIODT and DJ Sam. Next up: Ministerium Club, Lisbon on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ KARABA is an afro house and house artist based in United States of America, with
 
 Airon, DJ PERIODT, DJ Sam
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karaba/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karaba/)*

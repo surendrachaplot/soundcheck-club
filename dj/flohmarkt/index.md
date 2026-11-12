@@ -1,6 +1,6 @@
 # Flohmarkt
 
-Flohmarkt is a Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Mokka Mitte Bar / James Simon Park, Berlin on Fri, 13 Nov 2026.
+Flohmarkt is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Mokka Mitte Bar / James Simon Park, Berlin on Fri, 13 Nov 2026.
 
 Flohmarkt is a techno artist based in Germany, with 15 gigs on soundcheck across Berlin, Hamburg, Leipzig and Vienna. Often billed alongside MEKER, MILANCHOLIE and e.leptic. Next up: Mokka Mitte Bar / James Simon Park, Berlin on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Flohmarkt is a techno artist based in Germany, with 15 gigs on soundcheck across
 
 MEKER, MILANCHOLIE, e.leptic
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flohmarkt/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flohmarkt/)*

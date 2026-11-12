@@ -1,6 +1,6 @@
 # Erol Alkan
 
-Erol Alkan is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Sneaky Pete's, Edinburgh on Sat, 21 Nov 2026.
+Erol Alkan is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Sneaky Pete's, Edinburgh on Sat, 21 Nov 2026.
 
 Erol Alkan is a house and techno artist based in United Kingdom, with 146 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austria and 40 more. Often billed alongside 2ManyDJs, CC:DISCO! and DJ Paulette. Next up: Sneaky Pete's, Edinburgh on Sat 21 Nov.
 
@@ -31,4 +31,4 @@ Erol Alkan is a house and techno artist based in United Kingdom, with 146 gigs o
 
 2ManyDJs, CC:DISCO!, DJ Paulette
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erolalkan/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erolalkan/)*

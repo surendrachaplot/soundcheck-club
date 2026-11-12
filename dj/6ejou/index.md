@@ -1,6 +1,6 @@
 # 6EJOU
 
-6EJOU is a Techno and Industrial artist with 6 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Lokschuppen Dillingen, Baden-w-rttemberg on Sat, 14 Nov 2026.
+6EJOU is a Techno and Industrial artist with 6 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Lokschuppen Dillingen, Baden-w-rttemberg on Sat, 14 Nov 2026.
 
 6EJOU is a techno and industrial artist based in France, with 185 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Baden W Rttemberg and 59 more. Often billed alongside Raxeller, KARAH and CARV. Next up: Lokschuppen Dillingen, Baden W Rttemberg on Sat 14 Nov.
 
@@ -30,4 +30,4 @@
 
 Raxeller, KARAH, CARV
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/6ejou/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/6ejou/)*

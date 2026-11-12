@@ -1,6 +1,6 @@
 # Lvca Versace
 
-Lvca Versace is a EBM and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at CGM - Club Giovanile Milano, Milan on Fri, 20 Nov 2026.
+Lvca Versace is a EBM and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at CGM - Club Giovanile Milano, Milan on Fri, 20 Nov 2026.
 
 Lvca Versace is an ebm and house artist based in Italy, with 8 gigs on soundcheck across Milan. Often billed alongside CRHERZ, Eros Renard and Vicky Montefusco. Next up: CGM - Club Giovanile Milano, Milan on Fri 20 Nov.
 
@@ -24,4 +24,4 @@ Lvca Versace is an ebm and house artist based in Italy, with 8 gigs on soundchec
 
 CRHERZ, Eros Renard, Vicky Montefusco
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lvcaversace/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lvcaversace/)*

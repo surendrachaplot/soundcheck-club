@@ -1,6 +1,6 @@
 # Gigi Masin
 
-Gigi Masin is a Ambient and Electronica artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Glad Cafe, Glasgow on Mon, 16 Nov 2026.
+Gigi Masin is a Ambient and Electronica artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Glad Cafe, Glasgow on Mon, 16 Nov 2026.
 
 Gigi Masin is an ambient and electronica artist based in Italy, with 11 gigs on soundcheck across Berlin, Dublin, Glasgow and Helsinki and 5 more. Often billed alongside Valentina Magaletti, Tony Njoku and upsammy. Next up: The Glad Cafe, Glasgow on Mon 16 Nov.
 
@@ -27,4 +27,4 @@ Gigi Masin is an ambient and electronica artist based in Italy, with 11 gigs on 
 
 Valentina Magaletti, Tony Njoku, upsammy
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gigimasin/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gigimasin/)*

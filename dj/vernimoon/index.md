@@ -1,6 +1,6 @@
 # vernimoon
 
-vernimoon is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Vault Bar, Berlin on Sun, 22 Nov 2026.
+vernimoon is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Vault Bar, Berlin on Sun, 22 Nov 2026.
 
 vernimoon is a house and minimal artist based in Germany, with 17 gigs on soundcheck across Barcelona, Berlin and Dresden. Often billed alongside Vlad Yaki, Paul Wheaten and Kamira. Next up: Vault Bar, Berlin on Sun 22 Nov.
 
@@ -26,4 +26,4 @@ vernimoon is a house and minimal artist based in Germany, with 17 gigs on soundc
 
 Vlad Yaki, Paul Wheaten, Kamira
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vernimoon/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vernimoon/)*

@@ -1,6 +1,6 @@
 # Nika Son
 
-Nika Son is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Golden Pudel Club, Hamburg on Sun, 15 Nov 2026.
+Nika Son is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Golden Pudel Club, Hamburg on Sun, 15 Nov 2026.
 
 Nika Son is an experimental and club artist, with 29 gigs on soundcheck across Athens, Berlin, Brussels and Glasgow and 2 more. Often billed alongside Nina, RVDS and Festnacht. Next up: Golden Pudel Club, Hamburg on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Nika Son is an experimental and club artist, with 29 gigs on soundcheck across A
 
 Nina, RVDS, Festnacht
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nikason/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nikason/)*

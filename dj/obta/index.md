@@ -1,6 +1,6 @@
 # OBTA
 
-OBTA is a Downtempo and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at nueve cero nueve, Mexico City on Fri, 13 Nov 2026.
+OBTA is a Downtempo and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at nueve cero nueve, Mexico City on Fri, 13 Nov 2026.
 
 OBTA is a downtempo and electronica artist based in Mexico, with 20 gigs on soundcheck across Mexico City. Often billed alongside Bluecommand, Phanta and Un Dilema. Next up: nueve cero nueve, Mexico City on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ OBTA is a downtempo and electronica artist based in Mexico, with 20 gigs on soun
 
 Bluecommand, Phanta, Un Dilema
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/obta/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/obta/)*

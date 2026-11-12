@@ -1,6 +1,6 @@
 # Louis Marlo
 
-Louis Marlo is a IDM and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at El Rio Hostel, Colombia on Sat, 12 Dec 2026.
+Louis Marlo is a IDM and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at El Rio Hostel, Colombia on Sat, 12 Dec 2026.
 
 Louis Marlo is an idm and techno artist based in Australia, with 8 gigs on soundcheck across Colombia, Melbourne and New York City. Often billed alongside Emelyne, Kia (AU) and Moopie. Next up: El Rio Hostel, Colombia on Sat 12 Dec.
 
@@ -24,4 +24,4 @@ Louis Marlo is an idm and techno artist based in Australia, with 8 gigs on sound
 
 Emelyne, Kia (AU), Moopie
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/louismarlo/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/louismarlo/)*

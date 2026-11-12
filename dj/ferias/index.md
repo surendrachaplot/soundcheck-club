@@ -1,14 +1,15 @@
 # Ferias
 
-Ferias is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Centre PHI, Montreal on Fri, 20 Nov 2026.
+Ferias is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Centre PHI, Montreal on Fri, 20 Nov 2026.
 
-Ferias is a house and disco artist based in Canada, with 37 gigs on soundcheck across Detroit, Montreal, New York City and San Francisco/Oakland. Often billed alongside Guthrie, Alina (MTL) and Andie. Next up: Centre PHI, Montreal on Fri 20 Nov.
+Ferias is a house and disco artist based in Canada, with 38 gigs on soundcheck across Detroit, Montreal, New York City and San Francisco/Oakland. Often billed alongside Guthrie, Alina (MTL) and Andie. Next up: Centre PHI, Montreal on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Centre PHI | Montreal |
+| Sat, 21 Nov 2026 | Sans Soleil | Montreal |
 | Sun, 20 Dec 2026 | Nowadays | New York City |
 
 ## Recently played
@@ -26,4 +27,4 @@ Ferias is a house and disco artist based in Canada, with 37 gigs on soundcheck a
 
 Guthrie, Alina (MTL), Andie
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ferias/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ferias/)*

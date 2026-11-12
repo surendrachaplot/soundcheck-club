@@ -1,6 +1,6 @@
 # 303 Audiophile Bar
 
-303 Audiophile Bar is a music venue in Barcelona with 16 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "FÄNK & JAM #01 at 303 — Gallo Negro (Live Band) / pekkuliar / Mat Spiaggi" on Thu, 12 Nov 2026.
+303 Audiophile Bar is a music venue in Barcelona with 16 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "FÄNK & JAM #01 at 303 — Gallo Negro (Live Band) / pekkuliar / Mat Spiaggi" on Thu, 12 Nov 2026.
 
 303 Audiophile Bar is a music venue in Barcelona listed on soundcheck. 16 upcoming gigs, with line-ups including Admo, Alex Garcia, Aline (CH) and Andrea Love and 2 more. See dates, start times and who's playing. C/ de Casp, 33B, L'Eixample, 08010 Barcelona.
 
@@ -23,4 +23,4 @@
 
 C/ de Casp, 33B, L'Eixample, 08010 Barcelona, Barcelona
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/303-audiophile-bar/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/303-audiophile-bar/)*

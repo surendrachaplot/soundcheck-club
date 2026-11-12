@@ -1,6 +1,6 @@
 # ACE
 
-ACE is a Ambient and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Obedient Missionary, Detroit on Sat, 28 Nov 2026.
+ACE is a Ambient and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Obedient Missionary, Detroit on Sat, 28 Nov 2026.
 
 ACE is an ambient and techno artist based in United States of America, with 31 gigs on soundcheck across Athens, Berlin, Bogotá and Cleveland and 9 more. Often billed alongside Dominant Hand, Francois Dillinger and Felice. Next up: TBA - Obedient Missionary, Detroit on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ ACE is an ambient and techno artist based in United States of America, with 31 g
 
 Dominant Hand, Francois Dillinger, Felice
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ace/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ace/)*

@@ -1,6 +1,6 @@
 # Thomas + James
 
-Thomas + James is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Sub Club, Glasgow on Thu, 10 Dec 2026.
+Thomas + James is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Sub Club, Glasgow on Thu, 10 Dec 2026.
 
 Thomas + James are a house and techno duo based in United Kingdom, with 43 gigs on soundcheck across Dundee, Edinburgh, Glasgow and Newcastle. Often billed alongside Lee Brown, Babyccino and HAPOL. Next up: Sub Club, Glasgow on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ Thomas + James are a house and techno duo based in United Kingdom, with 43 gigs 
 
 Lee Brown, Babyccino, HAPOL
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasjames-uk/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasjames-uk/)*

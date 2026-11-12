@@ -1,6 +1,6 @@
 # Muzaman
 
-Muzaman is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Under.Iolo, Warsaw on Fri, 13 Nov 2026.
+Muzaman is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Under.Iolo, Warsaw on Fri, 13 Nov 2026.
 
 Muzaman is a drum & bass and bass artist based in Poland, with 17 gigs on soundcheck across Atlanta, Poland, Prague and Warsaw. Often billed alongside Solar Tsunami, U Lad and long w. Next up: Under.Iolo, Warsaw on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Muzaman is a drum & bass and bass artist based in Poland, with 17 gigs on soundc
 
 Solar Tsunami, U Lad, long w
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/muzaman/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/muzaman/)*

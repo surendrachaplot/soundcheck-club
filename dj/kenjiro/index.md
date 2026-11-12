@@ -1,6 +1,6 @@
 # Kenjiro
 
-Kenjiro is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Strays, Detroit on Sat, 21 Nov 2026.
+Kenjiro is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Strays, Detroit on Sat, 21 Nov 2026.
 
 Kenjiro is a house and techno artist based in United States of America, with 203 gigs on soundcheck across Chicago, Cleveland, Detroit and Los Angeles and 3 more. Often billed alongside Shigeto, Charles Trees and Tammy Lakkis. Next up: The Strays, Detroit on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Kenjiro is a house and techno artist based in United States of America, with 203
 
 Shigeto, Charles Trees, Tammy Lakkis
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kenjiro/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kenjiro/)*

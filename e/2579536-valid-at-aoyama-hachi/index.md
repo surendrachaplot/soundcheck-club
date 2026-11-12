@@ -1,6 +1,6 @@
 # VALID at Aoyama Hachi
 
-VALID at Aoyama Hachi on Sat 14 Nov, Tokyo. 3 artists: DJ B2B, kuniii and sui_rex. House and Dub. See the line-up on soundcheck.
+VALID at Aoyama Hachi on Sat 14 Nov, Tokyo. 2 artists: kuniii and sui_rex. House and Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ VALID at Aoyama Hachi on Sat 14 Nov, Tokyo. 3 artists: DJ B2B, kuniii and sui_re
 
 ## Line-up
 
-- DJ B2B
 - kuniii
 - sui_rex
 

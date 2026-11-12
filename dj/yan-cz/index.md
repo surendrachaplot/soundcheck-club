@@ -1,6 +1,6 @@
 # Yan (CZ)
 
-Yan (CZ) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at OHM, Berlin on Sat, 5 Dec 2026.
+Yan (CZ) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at OHM, Berlin on Sat, 5 Dec 2026.
 
 Yan (CZ) is a techno and trance artist based in Czech Republic, with 105 gigs on soundcheck across Barcelona, Berlin, Birmingham and Bratislava and 16 more. Often billed alongside Alfred Czital, Dash (CZ) and Raleigh. Next up: OHM, Berlin on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Yan (CZ) is a techno and trance artist based in Czech Republic, with 105 gigs on
 
 Alfred Czital, Dash (CZ), Raleigh
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yan-cz/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yan-cz/)*

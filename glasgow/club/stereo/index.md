@@ -1,6 +1,6 @@
 # Stereo
 
-Stereo is a music venue in Glasgow with 17 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "G Jones B2B EPROM + Parkinson White + Et Al" on Fri, 13 Nov 2026.
+Stereo is a music venue in Glasgow with 17 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "G Jones B2B EPROM + Parkinson White + Et Al" on Fri, 13 Nov 2026.
 
 Stereo is a music venue in Glasgow listed on soundcheck. 17 upcoming gigs, with line-ups including 222babychai, Acid Boner, Acido Cielo and Baby Teeth and 2 more. See dates, start times and who's playing. 20-28 Renfield Lane; Glasgow, G2 6PH; Scotland; United Kingdom.
 
@@ -23,4 +23,4 @@ Stereo is a music venue in Glasgow listed on soundcheck. 17 upcoming gigs, with 
 
 20-28 Renfield Lane; Glasgow, G2 6PH; Scotland; United Kingdom, Glasgow
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/stereo/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/stereo/)*

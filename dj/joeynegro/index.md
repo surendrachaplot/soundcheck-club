@@ -1,6 +1,6 @@
 # Dave Lee
 
-Dave Lee is a House and Disco artist with 8 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Moon Club, Bristol on Sat, 21 Nov 2026.
+Dave Lee is a House and Disco artist with 8 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Moon Club, Bristol on Sat, 21 Nov 2026.
 
 Dave Lee is a house and disco artist based in United Kingdom, with 100 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 25 more. Often billed alongside Melvo Baptiste, Mousse T. and Natasha Diggs. Next up: Moon Club, Bristol on Sat 21 Nov.
 
@@ -32,4 +32,4 @@ Dave Lee is a house and disco artist based in United Kingdom, with 100 gigs on s
 
 Melvo Baptiste, Mousse T., Natasha Diggs
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joeynegro/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joeynegro/)*

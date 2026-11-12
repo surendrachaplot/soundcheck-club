@@ -1,6 +1,6 @@
 # Loctop
 
-Loctop is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Nido Marseille, Marseille on Fri, 18 Dec 2026.
+Loctop is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Nido Marseille, Marseille on Fri, 18 Dec 2026.
 
 Loctop is a techno and electro artist, with 7 gigs on soundcheck across Barcelona, Lyon and Marseille. Often billed alongside Zegaz, Baptiste Coppel and Camu. Next up: Nido Marseille, Marseille on Fri 18 Dec.
 
@@ -23,4 +23,4 @@ Loctop is a techno and electro artist, with 7 gigs on soundcheck across Barcelon
 
 Zegaz, Baptiste Coppel, Camu
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loctop/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loctop/)*

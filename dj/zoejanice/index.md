@@ -1,6 +1,6 @@
 # Zoë Janice
 
-Zoë Janice is a Hip-Hop and Amapiano artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Grey Space In The Middle, The Hague on Sat, 5 Dec 2026.
+Zoë Janice is a Hip-Hop and Amapiano artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Grey Space In The Middle, The Hague on Sat, 5 Dec 2026.
 
 Zoë Janice is a hip-hop and amapiano artist based in Netherlands, with 17 gigs on soundcheck across Amsterdam, Cologne, Hamburg and Rotterdam and 1 more. Often billed alongside NATHIFA EFIA, WaxFiend and AAA. Next up: The Grey Space In The Middle, The Hague on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Zoë Janice is a hip-hop and amapiano artist based in Netherlands, with 17 gigs 
 
 NATHIFA EFIA, WaxFiend, AAA
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zoejanice/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zoejanice/)*

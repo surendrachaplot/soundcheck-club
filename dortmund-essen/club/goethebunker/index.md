@@ -1,6 +1,6 @@
 # Goethebunker
 
-Goethebunker is a music venue in Dortmund / Essen with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "Bunkernacht" on Sat, 14 Nov 2026.
+Goethebunker is a music venue in Dortmund / Essen with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "Bunkernacht" on Sat, 14 Nov 2026.
 
 Goethebunker is a music venue in Dortmund / Essen listed on soundcheck. 1 upcoming gig, with line-ups including Makovian and Sev Dah. See dates, start times and who's playing. Goethestr. 67; 45130 Essen; Germany.
 
@@ -14,4 +14,4 @@ Goethebunker is a music venue in Dortmund / Essen listed on soundcheck. 1 upcomi
 
 Goethestr. 67; 45130 Essen; Germany, Dortmund / Essen
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dortmund-essen/club/goethebunker/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dortmund-essen/club/goethebunker/)*

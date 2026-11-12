@@ -1,6 +1,6 @@
 # Miscellania
 
-Miscellania is a music venue in Melbourne with 12 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Forcequit - Single launch" on Thu, 12 Nov 2026.
+Miscellania is a music venue in Melbourne with 12 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Forcequit - Single launch" on Thu, 12 Nov 2026.
 
 Miscellania is a music venue in Melbourne listed on soundcheck. 12 upcoming gigs, with line-ups including Aashofteh, ATARANGI, b. caszh and CCL and 2 more. See dates, start times and who's playing. 2/401 Swanston St, Melbourne VIC 3004.
 
@@ -23,4 +23,4 @@ Miscellania is a music venue in Melbourne listed on soundcheck. 12 upcoming gigs
 
 2/401 Swanston St, Melbourne VIC 3004, Melbourne
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/miscellania/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/miscellania/)*

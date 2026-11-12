@@ -1,6 +1,6 @@
 # NSLZ
 
-NSLZ is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Lokschuppen Berlin, Berlin on Fri, 29 Jan 2027.
+NSLZ is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Lokschuppen Berlin, Berlin on Fri, 29 Jan 2027.
 
 NSLZ is a trance and techno artist based in Germany, with 29 gigs on soundcheck across Berlin, Cologne, Copenhagen and Hamburg and 3 more. Often billed alongside Herr Muller, nordcorreia.mp3 and DJ GARGA. Next up: Lokschuppen Berlin, Berlin on Fri 29 Jan.
 
@@ -25,4 +25,4 @@ NSLZ is a trance and techno artist based in Germany, with 29 gigs on soundcheck 
 
 Herr Muller, nordcorreia.mp3, DJ GARGA
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nslz/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nslz/)*

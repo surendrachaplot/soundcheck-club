@@ -1,6 +1,6 @@
 # Big Animal Theory
 
-Big Animal Theory is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at MIDNIGHT EAST, Tokyo on Fri, 27 Nov 2026.
+Big Animal Theory is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at MIDNIGHT EAST, Tokyo on Fri, 27 Nov 2026.
 
 Big Animal Theory is a bass and house artist based in Japan, with 38 gigs on soundcheck across London, Osaka and Tokyo. Often billed alongside okadada, Gen Yamada and George Bolton. Next up: MIDNIGHT EAST, Tokyo on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Big Animal Theory is a bass and house artist based in Japan, with 38 gigs on sou
 
 okadada, Gen Yamada, George Bolton
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/biganimaltheory/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/biganimaltheory/)*

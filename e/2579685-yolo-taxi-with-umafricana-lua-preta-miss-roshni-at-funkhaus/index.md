@@ -1,11 +1,11 @@
-# Yolo Taxi with UMAFRICANA, Lua Preta & Miss Roshni~~ at Funkhaus
+# Yolo Taxi with UMAFRICANA, Lua Preta & Miss Roshni~~ at Funkhaus Wien
 
-Yolo Taxi with UMAFRICANA, Lua Preta & Miss Roshni~~ at Funkhaus on Sat 21 Nov, Vienna. 3 artists: Lua Preta, UMAFRICANA and Yolo Taxi. Baile Funk and Kuduro. See the line-up on soundcheck.
+Yolo Taxi with UMAFRICANA, Lua Preta & Miss Roshni~~ at Funkhaus Wien on Sat 21 Nov, Vienna. 3 artists: Lua Preta, UMAFRICANA and Yolo Taxi. Baile Funk and Kuduro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 21 Nov 2026 |
-| Venue | Funkhaus |
+| Venue | Funkhaus Wien |
 | City | Vienna |
 
 ## Line-up

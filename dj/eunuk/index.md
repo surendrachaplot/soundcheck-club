@@ -1,6 +1,6 @@
 # eunuk
 
-eunuk is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Nyapi, Seoul on Fri, 13 Nov 2026.
+eunuk is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Nyapi, Seoul on Fri, 13 Nov 2026.
 
 eunuk is a club and house artist based in South Korea, with 32 gigs on soundcheck across New York City and Seoul. Often billed alongside jiwon, Juncheol and givogi. Next up: Nyapi, Seoul on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ eunuk is a club and house artist based in South Korea, with 32 gigs on soundchec
 
 jiwon, Juncheol, givogi
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eunuk/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eunuk/)*

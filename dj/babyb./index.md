@@ -1,6 +1,6 @@
 # Baby B.
 
-Baby B. is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Gulf Inn Hotel Al Nasr, Dubai on Sat, 21 Nov 2026.
+Baby B. is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Gulf Inn Hotel Al Nasr, Dubai on Sat, 21 Nov 2026.
 
 Baby B. is a techno and garage artist based in United Arab Emirates, with 22 gigs on soundcheck across Dubai. Often billed alongside Dea (IT), Kirill Zhan and Ju Lovett. Next up: TBA - Gulf Inn Hotel Al Nasr, Dubai on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Baby B. is a techno and garage artist based in United Arab Emirates, with 22 gig
 
 Dea (IT), Kirill Zhan, Ju Lovett
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babyb./)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babyb./)*

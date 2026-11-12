@@ -1,6 +1,6 @@
 # NK-Ultra
 
-NK-Ultra is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at SOS, Detroit on Fri, 13 Nov 2026.
+NK-Ultra is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at SOS, Detroit on Fri, 13 Nov 2026.
 
 NK-Ultra is a techno and house artist based in United States of America, with 31 gigs on soundcheck across Detroit. Often billed alongside YerikODJ, hypemelo and Duck Trash. Next up: SOS, Detroit on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ NK-Ultra is a techno and house artist based in United States of America, with 31
 
 YerikODJ, hypemelo, Duck Trash
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nk-ultra/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nk-ultra/)*

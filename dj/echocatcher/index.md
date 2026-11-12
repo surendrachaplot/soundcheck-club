@@ -1,6 +1,6 @@
 # echocatcher
 
-echocatcher is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Stoked&stoned, Seoul on Mon, 9 Nov 2026.
+echocatcher is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Stoked&stoned, Seoul on Mon, 9 Nov 2026.
 
 echocatcher is a techno and bass artist based in China, with 88 gigs on soundcheck across Chengdu, Hanoi, Ho Chi Minh City and Kyoto and 6 more. Often billed alongside Knopha, YKK (CN) and chuan. Next up: Stoked&stoned, Seoul on Mon 9 Nov.
 
@@ -27,4 +27,4 @@ echocatcher is a techno and bass artist based in China, with 88 gigs on soundche
 
 Knopha, YKK (CN), chuan
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/echocatcher/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/echocatcher/)*

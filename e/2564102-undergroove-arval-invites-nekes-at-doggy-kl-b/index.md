@@ -1,6 +1,6 @@
 # Undergroove: Arval invites Nekes at Doggy Klœb
 
-Undergroove: Arval invites Nekes at Doggy Klœb on Fri 13 Nov, Malaga. 2 artists: Arval and Nekes. See the line-up on soundcheck.
+Undergroove: Arval invites Nekes at Doggy Klœb on Fri 13 Nov, Malaga. 2 artists: Arval and Nekes. Minimal and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Laine Klubiöö: adobeprincess (US) at Uus Laine
 
-Laine Klubiöö: adobeprincess (US) at Uus Laine on Fri 4 Dec, Tallinn. 1 artist: adobeprincess. Electronica and Minimal Techno. See the line-up on soundcheck.
+Laine Klubiöö: adobeprincess (US) at Uus Laine on Fri 4 Dec, Tallinn. 3 artists: adobeprincess, Dharma Doom and digidaria. Minimal and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,7 @@ Laine Klubiöö: adobeprincess (US) at Uus Laine on Fri 4 Dec, Tallinn. 1 artist
 ## Line-up
 
 - adobeprincess
+- Dharma Doom
+- digidaria
 
 *Source: [soundcheck](https://soundcheck.club/e/2512671-laine-klubi-adobeprincess-us-at-uus-laine/)*

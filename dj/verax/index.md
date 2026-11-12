@@ -1,6 +1,6 @@
 # VERA X
 
-VERA X is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
+VERA X is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
 
 VERA X is a techno and acid artist, with 11 gigs on soundcheck across Colombia and Prague. Often billed alongside TPR (CZ), 2NDRA and ALICE ASTER. Next up: El Rio Hostel, Colombia on Wed 3 Mar.
 
@@ -25,4 +25,4 @@ VERA X is a techno and acid artist, with 11 gigs on soundcheck across Colombia a
 
 TPR (CZ), 2NDRA, ALICE ASTER
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/verax/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/verax/)*

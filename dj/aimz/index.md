@@ -1,6 +1,6 @@
 # Aimz
 
-Aimz is a Garage and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Top Floor, Newcastle on Sat, 5 Dec 2026.
+Aimz is a Garage and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Top Floor, Newcastle on Sat, 5 Dec 2026.
 
 Aimz is a garage and minimal techno artist based in United Kingdom, with 10 gigs on soundcheck across Berlin, Munich and Newcastle. Often billed alongside Xiulan, AARON and ALINA. Next up: Top Floor, Newcastle on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Aimz is a garage and minimal techno artist based in United Kingdom, with 10 gigs
 
 Xiulan, AARON, ALINA (3)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aimz/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aimz/)*

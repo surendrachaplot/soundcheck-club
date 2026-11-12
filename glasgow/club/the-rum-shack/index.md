@@ -1,6 +1,6 @@
 # The Rum Shack
 
-The Rum Shack is a music venue in Glasgow with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Kai Reesu - Kompromat Vol II Launch" on Fri, 13 Nov 2026.
+The Rum Shack is a music venue in Glasgow with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Kai Reesu - Kompromat Vol II Launch" on Fri, 13 Nov 2026.
 
 The Rum Shack is a music venue in Glasgow listed on soundcheck. 4 upcoming gigs, with line-ups including David Barbarossa, Jurnalist and Quaid. See dates, start times and who's playing. 657-659 Pollokshaws Road, Glasgow, G41 2AB, Scotland, United Kingdom.
 
@@ -17,4 +17,4 @@ The Rum Shack is a music venue in Glasgow listed on soundcheck. 4 upcoming gigs,
 
 657-659 Pollokshaws Road, Glasgow, G41 2AB, Scotland, United Kingdom, Glasgow
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-rum-shack/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-rum-shack/)*

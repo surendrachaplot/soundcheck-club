@@ -1,6 +1,6 @@
 # Baron
 
-Baron is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Kastel, Istanbul on Fri, 13 Nov 2026.
+Baron is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Kastel, Istanbul on Fri, 13 Nov 2026.
 
 Baron is a house and tech house artist based in France, with 7 gigs on soundcheck across Amsterdam, Bali, Berlin and Istanbul and 2 more. Often billed alongside Dorian Craft, Aftersunday and Bedouin. Next up: Kastel, Istanbul on Fri 13 Nov.
 
@@ -23,4 +23,4 @@ Baron is a house and tech house artist based in France, with 7 gigs on soundchec
 
 Dorian Craft, Aftersunday, Bedouin
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baron-fr/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baron-fr/)*

@@ -1,14 +1,13 @@
 # Lakota
 
-Lakota is a music venue in Bristol with 13 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Beanies and Bikinis" on Wed, 11 Nov 2026.
+Lakota is a music venue in Bristol with 12 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Daft Disko" on Fri, 13 Nov 2026.
 
-Lakota is a music venue in Bristol listed on soundcheck. 13 upcoming gigs, with line-ups including 2HOT2PLAY, Captain Wallop, Faster Horses and IZZIT and 2 more. See dates, start times and who's playing. 6 Upper York Street; Bristol, BS2 8QN, United Kingdom.
+Lakota is a music venue in Bristol listed on soundcheck. 12 upcoming gigs, with line-ups including 2HOT2PLAY, Captain Wallop, Faster Horses and IZZIT and 2 more. See dates, start times and who's playing. 6 Upper York Street; Bristol, BS2 8QN, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 11 Nov 2026 | Beanies and Bikinis |  |
 | Fri, 13 Nov 2026 | Daft Disko |  |
 | Fri, 13 Nov 2026 | Bckspin: Captain Wallop, Wodda | Captain Wallop, IZZIT, Wodda |
 | Fri, 20 Nov 2026 | RINSE: Y U QT B2B Faster Horses | Faster Horses, Y U QT |
@@ -18,9 +17,10 @@ Lakota is a music venue in Bristol listed on soundcheck. 13 upcoming gigs, with 
 | Fri, 4 Dec 2026 | Jungle Cakes X Psyked X Frontline XL |  |
 | Fri, 11 Dec 2026 | Descendant x RMS x Subliminal - present 2 Hot 2 Play - 2 Hour Extended Set + Support | 2HOT2PLAY |
 | Thu, 31 Dec 2026 | Lakota New Year's Eve 2026 |  |
+| Fri, 15 Jan 2027 | ACCESS: D&B & UKG Free Rave |  |
 
 ## Address
 
 6 Upper York Street; Bristol, BS2 8QN, United Kingdom, Bristol
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/lakota/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/lakota/)*

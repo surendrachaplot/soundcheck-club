@@ -1,6 +1,6 @@
 # Baby Rollén
 
-Baby Rollén is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at D2, Aberdeen on Sat, 28 Nov 2026.
+Baby Rollén is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at D2, Aberdeen on Sat, 28 Nov 2026.
 
 Baby Rollén is a house and tech house artist based in United Kingdom, with 43 gigs on soundcheck across Aberdeen, Amsterdam, Berlin and Brighton and 7 more. Often billed alongside Jive Talk, Make A Dance and A For Alpha. Next up: D2, Aberdeen on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Baby Rollén is a house and tech house artist based in United Kingdom, with 43 g
 
 Jive Talk, Make A Dance, A For Alpha
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babyrollen/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babyrollen/)*

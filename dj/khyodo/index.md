@@ -1,6 +1,6 @@
 # Khyodo
 
-Khyodo is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at OST, Berlin on Thu, 10 Dec 2026.
+Khyodo is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at OST, Berlin on Thu, 10 Dec 2026.
 
 Khyodo is a techno and industrial artist based in Italy, with 19 gigs on soundcheck across Berlin, Geneva, Leipzig and Manchester. Often billed alongside Bildgewalt, FOKUS (Live) and GLASSBASS. Next up: OST, Berlin on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ Khyodo is a techno and industrial artist based in Italy, with 19 gigs on soundch
 
 Bildgewalt, FOKUS (Live), GLASSBASS
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/khyodo/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/khyodo/)*

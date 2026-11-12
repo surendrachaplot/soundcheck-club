@@ -1,6 +1,6 @@
 # Crazy P
 
-Crazy P is a Disco and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Movers, Nottingham on Thu, 19 Nov 2026.
+Crazy P is a Disco and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Movers, Nottingham on Thu, 19 Nov 2026.
 
 Crazy P is a disco and house artist based in United Kingdom, with 139 gigs on soundcheck across Amsterdam, Barcelona, Basel and Birmingham and 31 more. Often billed alongside Luke Una, DJ Paulette and Erol Alkan. Next up: Movers, Nottingham on Thu 19 Nov.
 
@@ -29,4 +29,4 @@ Crazy P is a disco and house artist based in United Kingdom, with 139 gigs on so
 
 Luke Una, DJ Paulette, Erol Alkan
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/crazypenis/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/crazypenis/)*

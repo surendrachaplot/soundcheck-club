@@ -1,6 +1,6 @@
 # Thias
 
-Thias is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - SKY CLUB, Malta on Sat, 28 Nov 2026.
+Thias is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - SKY CLUB, Malta on Sat, 28 Nov 2026.
 
 Thias is a tech house and techno artist based in Malta, with 11 gigs on soundcheck across Malta. Often billed alongside Daniel Blade, Carl Bee and Carl Lautier. Next up: TBA - SKY CLUB, Malta on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Thias is a tech house and techno artist based in Malta, with 11 gigs on soundche
 
 Daniel Blade, Carl Bee, Carl Lautier
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thias/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thias/)*

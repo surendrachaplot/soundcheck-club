@@ -1,6 +1,6 @@
 # Mefteh
 
-Mefteh is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Sacadura Cabral, 167, Rio de Janeiro on Sat, 14 Nov 2026.
+Mefteh is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Sacadura Cabral, 167, Rio de Janeiro on Sat, 14 Nov 2026.
 
 Mefteh is a techno and trance artist based in Germany, with 35 gigs on soundcheck across Berlin, Frankfurt, Hamburg and Madrid and 4 more. Often billed alongside L-AUX, Ricksen and Maximus (DE). Next up: Sacadura Cabral, 167, Rio de Janeiro on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Mefteh is a techno and trance artist based in Germany, with 35 gigs on soundchec
 
 L-AUX, Ricksen, Maximus (DE)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mefteh/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mefteh/)*

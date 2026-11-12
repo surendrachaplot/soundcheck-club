@@ -1,13 +1,14 @@
 # Josey Rebelle
 
-Josey Rebelle is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Palais Mascotte, Zurich on Fri, 13 Nov 2026.
+Josey Rebelle is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Palais Mascotte, Zurich on Fri, 13 Nov 2026.
 
-Josey Rebelle is a techno and house artist based in United Kingdom, with 135 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 29 more. Often billed alongside Josh Caffé, CCL and NIKS. Next up: Palais Mascotte, Zurich on Fri 13 Nov.
+Josey Rebelle is a techno and house artist based in United Kingdom, with 136 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 29 more. Often billed alongside Josh Caffé, CCL and NIKS. Next up: Palais Mascotte, Zurich on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | Palais Mascotte | Zurich |
 | Fri, 13 Nov 2026 | Palais Mascotte | Zurich |
 | Sat, 21 Nov 2026 | SMUT Athens | Athens |
 | Fri, 27 Nov 2026 | FOLD | London |
@@ -31,4 +32,4 @@ Josey Rebelle is a techno and house artist based in United Kingdom, with 135 gig
 
 Josh Caffé, CCL, NIKS
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joseyrebelle/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joseyrebelle/)*

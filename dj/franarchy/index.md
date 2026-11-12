@@ -1,6 +1,6 @@
 # Franarchy
 
-Franarchy is a Hip-Hop and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Mayhem, Copenhagen on Fri, 13 Nov 2026.
+Franarchy is a Hip-Hop and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Mayhem, Copenhagen on Fri, 13 Nov 2026.
 
 Franarchy is a hip-hop and techno artist based in Denmark, with 24 gigs on soundcheck across Berlin, Copenhagen, Manchester and Seoul and 2 more. Often billed alongside Ryong, Soli City and TRYCE. Next up: Mayhem, Copenhagen on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Franarchy is a hip-hop and techno artist based in Denmark, with 24 gigs on sound
 
 Ryong, Soli City, TRYCE
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/franarchy/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/franarchy/)*

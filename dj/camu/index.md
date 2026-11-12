@@ -1,6 +1,6 @@
 # Camu
 
-Camu is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Nido Marseille, Marseille on Fri, 18 Dec 2026.
+Camu is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Nido Marseille, Marseille on Fri, 18 Dec 2026.
 
 Camu is a techno and house artist, with 18 gigs on soundcheck across Barcelona, Lyon, Madrid and Marseille and 2 more. Often billed alongside Zegaz, Baptiste Coppel and Clarence. Next up: Nido Marseille, Marseille on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Camu is a techno and house artist, with 18 gigs on soundcheck across Barcelona, 
 
 Zegaz, Baptiste Coppel, Clarence
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/camu/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/camu/)*

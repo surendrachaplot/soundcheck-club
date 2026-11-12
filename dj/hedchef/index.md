@@ -1,6 +1,6 @@
 # Hedchef
 
-Hedchef is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Solace, Melbourne on Sat, 21 Nov 2026.
+Hedchef is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Solace, Melbourne on Sat, 21 Nov 2026.
 
 Hedchef is a techno and electronica artist, with 15 gigs on soundcheck across London, Melbourne, Shanghai and Sydney. Often billed alongside Assembler Code, Mike Callander and Sophie Forrest. Next up: Solace, Melbourne on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Hedchef is a techno and electronica artist, with 15 gigs on soundcheck across Lo
 
 Assembler Code, Mike Callander, Sophie Forrest
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hedchef/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hedchef/)*

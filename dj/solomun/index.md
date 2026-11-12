@@ -1,6 +1,6 @@
 # Solomun
 
-Solomun is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
+Solomun is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
 
 Solomun is a techno and house artist based in Portugal, with 205 gigs on soundcheck across Amsterdam, Argentina, Athens and Bali and 44 more. Often billed alongside Chloé Caillet, Seth Troxler and Âme. Next up: Factory Town, Miami on Wed 2 Dec.
 
@@ -28,4 +28,4 @@ Solomun is a techno and house artist based in Portugal, with 205 gigs on soundch
 
 Chloé Caillet, Seth Troxler, Âme
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/solomun/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/solomun/)*

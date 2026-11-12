@@ -1,6 +1,6 @@
 # JNB
 
-JNB is a Drum & Bass and R&B artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Slakthuset, Stockholm on Sat, 14 Nov 2026.
+JNB is a Drum & Bass and R&B artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Slakthuset, Stockholm on Sat, 14 Nov 2026.
 
 JNB is a drum & bass and r&b artist based in Sweden, with 25 gigs on soundcheck across Stockholm. Often billed alongside charlie.pxls, rzt and ItsOk. Next up: Slakthuset, Stockholm on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ JNB is a drum & bass and r&b artist based in Sweden, with 25 gigs on soundcheck 
 
 charlie.pxls, rzt, ItsOk
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jnb/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jnb/)*

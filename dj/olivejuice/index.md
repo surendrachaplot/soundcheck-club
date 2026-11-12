@@ -1,6 +1,6 @@
 # Olive Juice
 
-Olive Juice is a Bass and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Lab.Club, London on Sat, 21 Nov 2026.
+Olive Juice is a Bass and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Lab.Club, London on Sat, 21 Nov 2026.
 
 Olive Juice is a bass and baile funk artist based in United Kingdom, with 14 gigs on soundcheck across London. Often billed alongside ROHiNA, limi and DJ Programma. Next up: Lab.Club, London on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Olive Juice is a bass and baile funk artist based in United Kingdom, with 14 gig
 
 ROHiNA, limi, DJ Programma
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/olivejuice/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/olivejuice/)*

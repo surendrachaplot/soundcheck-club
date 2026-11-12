@@ -1,6 +1,6 @@
 # DjGus
 
-DjGus is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - ATHarea, Athens on Sun, 15 Nov 2026.
+DjGus is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - ATHarea, Athens on Sun, 15 Nov 2026.
 
 DjGus is a house and techno artist based in Greece, with 47 gigs on soundcheck across Athens, Berlin and Lisbon. Often billed alongside Liou, Nausicaä and 22. Next up: TBA - ATHarea, Athens on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ DjGus is a house and techno artist based in Greece, with 47 gigs on soundcheck a
 
 Liou, Nausicaä, 22 (1)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djgus-gr/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djgus-gr/)*

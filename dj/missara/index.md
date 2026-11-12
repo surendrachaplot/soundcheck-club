@@ -1,6 +1,6 @@
 # Miss Ara
 
-Miss Ara is a Pop and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Zuzu, Boston on Fri, 20 Nov 2026.
+Miss Ara is a Pop and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Zuzu, Boston on Fri, 20 Nov 2026.
 
 Miss Ara is a pop and club artist based in United States of America, with 2 gigs on soundcheck across Boston. Often billed alongside Kaleb Treat. Next up: Zuzu, Boston on Fri 20 Nov.
 
@@ -15,4 +15,4 @@ Miss Ara is a pop and club artist based in United States of America, with 2 gigs
 
 Kaleb Treat
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/missara/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/missara/)*

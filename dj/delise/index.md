@@ -1,6 +1,6 @@
 # Delise
 
-Delise is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at CCEMx, Mexico City on Sat, 14 Nov 2026.
+Delise is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at CCEMx, Mexico City on Sat, 14 Nov 2026.
 
 Delise is an experimental and ambient artist based in Mexico, with 20 gigs on soundcheck across Guadalajara and Mexico City. Often billed alongside Buena Tarde, Kozovo and Un Dilema. Next up: CCEMx, Mexico City on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Delise is an experimental and ambient artist based in Mexico, with 20 gigs on so
 
 Buena Tarde, Kozovo, Un Dilema
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/delise/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/delise/)*

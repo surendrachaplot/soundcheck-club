@@ -1,6 +1,6 @@
 # Asa Ray
 
-Asa Ray is a Progressive House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Patterns, Brighton on Fri, 13 Nov 2026.
+Asa Ray is a Progressive House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Patterns, Brighton on Fri, 13 Nov 2026.
 
 Asa Ray is a progressive house and tech house artist based in United Kingdom, with 4 gigs on soundcheck across Brighton and Cardiff. Often billed alongside IZP, Ortarix and DJBran. Next up: Patterns, Brighton on Fri 13 Nov.
 
@@ -20,4 +20,4 @@ Asa Ray is a progressive house and tech house artist based in United Kingdom, wi
 
 IZP (1), Ortarix, DJBran
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/asaray/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/asaray/)*

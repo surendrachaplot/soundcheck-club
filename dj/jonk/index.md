@@ -1,6 +1,6 @@
 # Jon K
 
-Jon K is a Techno and Bass artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at M.O.T, London on Sat, 5 Dec 2026.
+Jon K is a Techno and Bass artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at M.O.T, London on Sat, 5 Dec 2026.
 
 Jon K is a techno and bass artist based in United Kingdom, with 88 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 18 more. Often billed alongside Elle Andrews, Annabel Fraser and Conrad Pack. Next up: M.O.T, London on Sat 5 Dec.
 
@@ -28,4 +28,4 @@ Jon K is a techno and bass artist based in United Kingdom, with 88 gigs on sound
 
 Elle Andrews, Annabel Fraser, Conrad Pack
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jonk/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jonk/)*

@@ -1,6 +1,6 @@
 # Aggro
 
-Aggro is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Flinders, Sydney on Sat, 5 Dec 2026.
+Aggro is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Flinders, Sydney on Sat, 5 Dec 2026.
 
 Aggro is a techno and hardcore artist based in United States of America, with 6 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Lisa May, Mimi and 2LUX. Next up: The Flinders, Sydney on Sat 5 Dec.
 
@@ -22,4 +22,4 @@ Aggro is a techno and hardcore artist based in United States of America, with 6 
 
 Lisa May, Mimi, 2LUX
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aggro/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aggro/)*

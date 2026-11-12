@@ -1,8 +1,8 @@
 # Gabrielle Kwarteng
 
-Gabrielle Kwarteng is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 14 Nov 2026.
+Gabrielle Kwarteng is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 14 Nov 2026.
 
-Gabrielle Kwarteng is a house and techno artist based in United States of America, with 278 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Auckland and 76 more. Often billed alongside BASHKKA, Peach and Sedef Adasï. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 14 Nov.
+Gabrielle Kwarteng is a house and techno artist based in United States of America, with 279 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Auckland and 77 more. Often billed alongside BASHKKA, Peach and Sedef Adasï. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Gabrielle Kwarteng is a house and techno artist based in United States of Americ
 
 BASHKKA, Peach, Sedef Adasï
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriellekwarteng/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriellekwarteng/)*

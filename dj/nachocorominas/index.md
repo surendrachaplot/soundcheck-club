@@ -1,6 +1,6 @@
 # Nacho Corominas
 
-Nacho Corominas is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Mrs Sippy Bali, Bali on Fri, 1 Jan 2027.
+Nacho Corominas is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Mrs Sippy Bali, Bali on Fri, 1 Jan 2027.
 
 Nacho Corominas is a house and techno artist based in Spain, with 33 gigs on soundcheck across Bali and Singapore. Often billed alongside Andy Chunes, Collé and DJ Chus. Next up: Mrs Sippy Bali, Bali on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Nacho Corominas is a house and techno artist based in Spain, with 33 gigs on sou
 
 Andy Chunes, Collé, DJ Chus
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nachocorominas/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nachocorominas/)*

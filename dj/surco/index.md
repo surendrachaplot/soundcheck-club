@@ -1,6 +1,6 @@
 # SURCO
 
-SURCO is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Ruby Room, Tokyo on Thu, 12 Nov 2026.
+SURCO is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Ruby Room, Tokyo on Thu, 12 Nov 2026.
 
 SURCO is a techno and house artist based in United States of America, with 28 gigs on soundcheck across Amsterdam, Berlin, Chicago and Denver and 6 more. Often billed alongside ALX-106, Analog Kitchen and Julia Bondar. Next up: Ruby Room, Tokyo on Thu 12 Nov.
 
@@ -26,4 +26,4 @@ SURCO is a techno and house artist based in United States of America, with 28 gi
 
 ALX-106, Analog Kitchen, Julia Bondar
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/surco/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/surco/)*

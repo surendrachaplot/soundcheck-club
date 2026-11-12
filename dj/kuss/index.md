@@ -1,6 +1,6 @@
 # KUSS
 
-KUSS is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at KREUZWERK, Berlin on Fri, 13 Nov 2026.
+KUSS is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at KREUZWERK, Berlin on Fri, 13 Nov 2026.
 
 KUSS is a techno and house artist based in France, with 145 gigs on soundcheck across Amsterdam, Athens, Berlin and Bogotá and 36 more. Often billed alongside Sicion, Koboyo and RUIZ OSC1. Next up: KREUZWERK, Berlin on Fri 13 Nov.
 
@@ -33,4 +33,4 @@ KUSS is a techno and house artist based in France, with 145 gigs on soundcheck a
 
 Sicion, Koboyo, RUIZ OSC1
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kuss/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kuss/)*

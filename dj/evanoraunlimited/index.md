@@ -1,6 +1,6 @@
 # Evanora Unlimited
 
-Evanora Unlimited is a Experimental and Industrial artist with 6 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Laska V21, Riga on Sat, 21 Nov 2026.
+Evanora Unlimited is a Experimental and Industrial artist with 6 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Laska V21, Riga on Sat, 21 Nov 2026.
 
 Evanora Unlimited is an experimental and industrial artist based in United Kingdom, with 41 gigs on soundcheck across Amsterdam, Basel, Belgrade and Berlin and 21 more. Often billed alongside Taraneh, Heartcoregirl and Oatmilkandcodeine. Next up: Laska V21, Riga on Sat 21 Nov.
 
@@ -30,4 +30,4 @@ Evanora Unlimited is an experimental and industrial artist based in United Kingd
 
 Taraneh, Heartcoregirl, Oatmilkandcodeine
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/evanoraunlimited/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/evanoraunlimited/)*

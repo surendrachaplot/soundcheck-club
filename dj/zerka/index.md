@@ -1,6 +1,6 @@
 # zerka
 
-zerka is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Location in Telegram, Berlin on Sat, 21 Nov 2026.
+zerka is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Location in Telegram, Berlin on Sat, 21 Nov 2026.
 
 zerka is a techno and tech house artist based in Germany, with 10 gigs on soundcheck across Berlin and Munich. Often billed alongside Cleemente, Gotié and Igadi. Next up: TBA - Location in Telegram, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ zerka is a techno and tech house artist based in Germany, with 10 gigs on soundc
 
 Cleemente, Gotié, Igadi
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zerka/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zerka/)*

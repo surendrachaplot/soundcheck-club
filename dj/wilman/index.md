@@ -1,6 +1,6 @@
 # Wilman
 
-Wilman is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Basing House, London on Sat, 5 Dec 2026.
+Wilman is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Basing House, London on Sat, 5 Dec 2026.
 
 Wilman is a drum & bass and jungle artist based in United Kingdom, with 15 gigs on soundcheck across Amsterdam, Cardiff, London and San Francisco/Oakland and 1 more. Often billed alongside Kara (UK), Randoma and JAY-MO. Next up: Basing House, London on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Wilman is a drum & bass and jungle artist based in United Kingdom, with 15 gigs 
 
 Kara (UK), Randoma, JAY-MO
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wilman/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wilman/)*

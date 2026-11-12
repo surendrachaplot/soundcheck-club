@@ -1,6 +1,6 @@
 # AiLien
 
-AiLien is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Goodtime Burger 108 De La Thanh, Hanoi on Sat, 14 Nov 2026.
+AiLien is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Goodtime Burger 108 De La Thanh, Hanoi on Sat, 14 Nov 2026.
 
 AiLien is a techno and house artist based in Vietnam, with 47 gigs on soundcheck across Hanoi, Ho Chi Minh City and Munich. Often billed alongside Marco Yanes, TaoFu and Canicule. Next up: TBA - Goodtime Burger 108 De La Thanh, Hanoi on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ AiLien is a techno and house artist based in Vietnam, with 47 gigs on soundcheck
 
 Marco Yanes, TaoFu, Canicule
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ailien/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ailien/)*

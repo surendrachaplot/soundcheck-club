@@ -1,6 +1,6 @@
 # Setlist @ Somerset House
 
-Setlist @ Somerset House is a music venue in London with 10 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "R&B and FUNKY HOUSE NIGHT" on Fri, 13 Nov 2026.
+Setlist @ Somerset House is a music venue in London with 10 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "R&B and FUNKY HOUSE NIGHT" on Fri, 13 Nov 2026.
 
 Setlist @ Somerset House is a music venue in London listed on soundcheck. 10 upcoming gigs, with line-ups including DJ Kwamzy, Ethan Porte, IFE and Jacinta and 2 more. See dates, start times and who's playing. SOMERSET HOUSE, STRAND LONDON, WC2R 1LA.
 
@@ -23,4 +23,4 @@ Setlist @ Somerset House is a music venue in London listed on soundcheck. 10 upc
 
 SOMERSET HOUSE, STRAND LONDON, WC2R 1LA, London
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/setlist-somerset-house/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/setlist-somerset-house/)*

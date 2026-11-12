@@ -1,6 +1,6 @@
 # Oven Club
 
-Oven Club is a music venue in Valencia with 9 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Retiro Electronico: Mada + Maduro + Ukax" on Thu, 12 Nov 2026.
+Oven Club is a music venue in Valencia with 9 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Retiro Electronico: Mada + Maduro + Ukax" on Thu, 12 Nov 2026.
 
 Oven Club is a music venue in Valencia listed on soundcheck. 9 upcoming gigs, with line-ups including Camion Bazar, CAMMMMM, Chico Blanco and Clovis and 2 more. See dates, start times and who's playing. Gran Vía Germanías 31 Valencia.
 
@@ -22,4 +22,4 @@ Oven Club is a music venue in Valencia listed on soundcheck. 9 upcoming gigs, wi
 
 Gran Vía Germanías 31 Valencia, Valencia
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/oven-club/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/oven-club/)*

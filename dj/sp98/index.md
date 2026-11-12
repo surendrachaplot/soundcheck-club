@@ -1,6 +1,6 @@
 # SP98
 
-SP98 is a Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA, London on Fri, 27 Nov 2026.
+SP98 is a Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA, London on Fri, 27 Nov 2026.
 
 SP98 is a techno artist, with 7 gigs on soundcheck across London. Often billed alongside Usernam3rror, Lau.tastic and Sohtech. Next up: TBA, London on Fri 27 Nov.
 
@@ -23,4 +23,4 @@ SP98 is a techno artist, with 7 gigs on soundcheck across London. Often billed a
 
 Usernam3rror, Lau.tastic, Sohtech
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sp98/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sp98/)*

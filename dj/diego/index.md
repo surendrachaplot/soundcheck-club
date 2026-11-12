@@ -1,6 +1,6 @@
 # DIEGÖ
 
-DIEGÖ is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Fridas Pier, Stuttgart on Sat, 16 Jan 2027.
+DIEGÖ is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Fridas Pier, Stuttgart on Sat, 16 Jan 2027.
 
 DIEGÖ is a house and techno artist based in Mexico, with 18 gigs on soundcheck across Berlin and Stuttgart. Often billed alongside Miss Evoice, Caleesi and Chris Schwarzwälder. Next up: Fridas Pier, Stuttgart on Sat 16 Jan.
 
@@ -25,4 +25,4 @@ DIEGÖ is a house and techno artist based in Mexico, with 18 gigs on soundcheck 
 
 Miss Evoice, Caleesi, Chris Schwarzwälder
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diego/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diego/)*

@@ -1,6 +1,6 @@
 # Don Andres
 
-Don Andres is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Aahhh Rooftop, Munich on Sat, 12 Dec 2026.
+Don Andres is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Aahhh Rooftop, Munich on Sat, 12 Dec 2026.
 
 Don Andres is a house and techno artist based in Germany, with 36 gigs on soundcheck across Berlin, Frankfurt and Munich. Often billed alongside Martin Meyer, babxi and Pointbliss. Next up: Aahhh Rooftop, Munich on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Don Andres is a house and techno artist based in Germany, with 36 gigs on soundc
 
 Martin Meyer, babxi, Pointbliss
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/donandres/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/donandres/)*

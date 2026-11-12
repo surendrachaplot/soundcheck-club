@@ -1,6 +1,6 @@
 # OGUZ
 
-OGUZ is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Fusion Club, Münster on Fri, 20 Nov 2026.
+OGUZ is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Fusion Club, Münster on Fri, 20 Nov 2026.
 
 OGUZ is a techno and house artist based in Turkey, with 234 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 76 more. Often billed alongside DYEN, Nico Moreno and Basswell. Next up: Fusion Club, Münster on Fri 20 Nov.
 
@@ -31,4 +31,4 @@ OGUZ is a techno and house artist based in Turkey, with 234 gigs on soundcheck a
 
 DYEN, Nico Moreno, Basswell
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oguz/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oguz/)*

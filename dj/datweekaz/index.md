@@ -1,6 +1,6 @@
 # Da Tweekaz
 
-Da Tweekaz is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Messegelände Hannover, Hannover on Sat, 28 Nov 2026.
+Da Tweekaz is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Messegelände Hannover, Hannover on Sat, 28 Nov 2026.
 
 Da Tweekaz is a techno and hardcore artist based in Norway, with 27 gigs on soundcheck across Amsterdam, Brussels, Frankfurt and Glasgow and 14 more. Often billed alongside Angerfist, Coone and Yeyo. Next up: Messegelände Hannover, Hannover on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Da Tweekaz is a techno and hardcore artist based in Norway, with 27 gigs on soun
 
 Angerfist, Coone, Yeyo
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/datweekaz/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/datweekaz/)*

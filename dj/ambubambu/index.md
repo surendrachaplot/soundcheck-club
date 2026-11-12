@@ -1,6 +1,6 @@
 # Ambu Bambu
 
-Ambu Bambu is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Time is the new space, Rotterdam on Fri, 20 Nov 2026.
+Ambu Bambu is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Time is the new space, Rotterdam on Fri, 20 Nov 2026.
 
 Ambu Bambu is a bass and techno artist based in Netherlands, with 33 gigs on soundcheck across Amsterdam, Beijing, London and Milan and 3 more. Often billed alongside Tjade, Conduct Disorder and kimmah. Next up: Time is the new space, Rotterdam on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Ambu Bambu is a bass and techno artist based in Netherlands, with 33 gigs on sou
 
 Tjade, Conduct Disorder, kimmah
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ambubambu/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ambubambu/)*

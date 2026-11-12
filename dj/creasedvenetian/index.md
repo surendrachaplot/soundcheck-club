@@ -1,6 +1,6 @@
 # creasedvenetian
 
-creasedvenetian is a Minimal and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Bonnie Doon Public House, Brisbane on Sat, 14 Nov 2026.
+creasedvenetian is a Minimal and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Bonnie Doon Public House, Brisbane on Sat, 14 Nov 2026.
 
 creasedvenetian is a minimal and minimal techno artist, with 7 gigs on soundcheck across Brisbane. Often billed alongside pudding, Ben Kamal and Lamache. Next up: Bonnie Doon Public House, Brisbane on Sat 14 Nov.
 
@@ -23,4 +23,4 @@ creasedvenetian is a minimal and minimal techno artist, with 7 gigs on soundchec
 
 pudding, Ben Kamal, Lamache
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/creasedvenetian/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/creasedvenetian/)*

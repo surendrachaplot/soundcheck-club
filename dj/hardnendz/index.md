@@ -1,6 +1,6 @@
 # HARDNENDZ
 
-HARDNENDZ is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
+HARDNENDZ is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
 
 HARDNENDZ is a hardcore and techno artist based in South Korea, with 28 gigs on soundcheck across Hong Kong, Seoul and South Korea. Often billed alongside Pennywize, Carbonatez and BASSKRAP. Next up: TBA - Jacks Bar, South Korea on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ HARDNENDZ is a hardcore and techno artist based in South Korea, with 28 gigs on 
 
 Pennywize, Carbonatez, BASSKRAP
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hardnendz/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hardnendz/)*

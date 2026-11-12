@@ -1,6 +1,6 @@
 # Heidi
 
-Heidi is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Sacré, Paris on Fri, 27 Nov 2026.
+Heidi is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Sacré, Paris on Fri, 27 Nov 2026.
 
 Heidi is a house and techno artist based in United Kingdom, with 52 gigs on soundcheck across Barcelona, Belfast, Berlin and Buenos Aires and 13 more. Often billed alongside Beman, Joshua James and Erol Alkan. Next up: Sacré, Paris on Fri 27 Nov.
 
@@ -29,4 +29,4 @@ Heidi is a house and techno artist based in United Kingdom, with 52 gigs on soun
 
 Beman, Joshua James, Erol Alkan
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/heidi/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/heidi/)*

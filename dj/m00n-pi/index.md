@@ -1,6 +1,6 @@
 # M00N-Pi
 
-M00N-Pi is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Eagle of Detroit, Detroit on Sat, 21 Nov 2026.
+M00N-Pi is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Eagle of Detroit, Detroit on Sat, 21 Nov 2026.
 
 M00N-Pi is a club and techno artist based in United States of America, with 9 gigs on soundcheck across Detroit. Often billed alongside we1sman, jamea. and DJ KILLA SQUID. Next up: The Eagle of Detroit, Detroit on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ M00N-Pi is a club and techno artist based in United States of America, with 9 gi
 
 we1sman, jamea., DJ KILLA SQUID
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/m00n-pi/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/m00n-pi/)*

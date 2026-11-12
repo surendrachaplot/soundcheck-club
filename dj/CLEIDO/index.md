@@ -1,6 +1,6 @@
 # CLEIDO
 
-CLEIDO is a Afro House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Koda, Nairobi on Fri, 4 Dec 2026.
+CLEIDO is a Afro House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Koda, Nairobi on Fri, 4 Dec 2026.
 
 CLEIDO is an afro house and deep house artist based in United Kingdom, with 63 gigs on soundcheck across Amsterdam, Cape Town, Durban and Ibiza and 4 more. Often billed alongside DJEFF, Dillan Desai and Thakzin. Next up: Koda, Nairobi on Fri 4 Dec.
 
@@ -29,4 +29,4 @@ CLEIDO is an afro house and deep house artist based in United Kingdom, with 63 g
 
 DJEFF, Dillan Desai, Thakzin
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/CLEIDO/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/CLEIDO/)*

@@ -1,6 +1,6 @@
 # Space 92
 
-Space 92 is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
+Space 92 is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
 
 Space 92 is a techno and house artist based in France, with 153 gigs on soundcheck across Amsterdam, Athens, Austin and Bangkok and 63 more. Often billed alongside Popof, Lilly Palmer and Marie Vaunt. Next up: Hungexpo Budapest, Budapest on Fri 13 Nov.
 
@@ -32,4 +32,4 @@ Space 92 is a techno and house artist based in France, with 153 gigs on soundche
 
 Popof, Lilly Palmer, Marie Vaunt
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/space92/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/space92/)*

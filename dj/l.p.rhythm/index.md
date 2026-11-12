@@ -1,6 +1,6 @@
 # L.P. Rhythm
 
-L.P. Rhythm is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Yamamori Tengu, Dublin on Thu, 12 Nov 2026.
+L.P. Rhythm is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Yamamori Tengu, Dublin on Thu, 12 Nov 2026.
 
 L.P. Rhythm is a house and tech house artist based in United Kingdom, with 191 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Bali and 36 more. Often billed alongside Gaskin, Locky and Luuk van Dijk. Next up: Yamamori Tengu, Dublin on Thu 12 Nov.
 
@@ -33,4 +33,4 @@ L.P. Rhythm is a house and tech house artist based in United Kingdom, with 191 g
 
 Gaskin, Locky, Luuk van Dijk
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/l.p.rhythm/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/l.p.rhythm/)*

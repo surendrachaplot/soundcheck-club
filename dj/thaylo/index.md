@@ -1,6 +1,6 @@
 # Thaylo
 
-Thaylo is a Progressive House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Urban Spree, Berlin on Sat, 5 Dec 2026.
+Thaylo is a Progressive House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Urban Spree, Berlin on Sat, 5 Dec 2026.
 
 Thaylo is a progressive house and house artist based in France, with 15 gigs on soundcheck across Amsterdam, Berlin, Brussels and Cologne and 2 more. Often billed alongside Aaron Hibell, Alex Wann and Astúria. Next up: Urban Spree, Berlin on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Thaylo is a progressive house and house artist based in France, with 15 gigs on 
 
 Aaron Hibell, Alex Wann, Astúria
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thaylo/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thaylo/)*

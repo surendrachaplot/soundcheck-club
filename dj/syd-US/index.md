@@ -1,6 +1,6 @@
 # Syd (US)
 
-Syd (US) is a Club and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Lincoln Factory, Detroit on Fri, 20 Nov 2026.
+Syd (US) is a Club and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Lincoln Factory, Detroit on Fri, 20 Nov 2026.
 
 Syd (US) is a club and techno artist based in United States of America, with 100 gigs on soundcheck across Baltimore, Boston, Chicago and Detroit and 9 more. Often billed alongside NATALIA., Tromac and kabir.. Next up: Lincoln Factory, Detroit on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ Syd (US) is a club and techno artist based in United States of America, with 100
 
 NATALIA., Tromac, kabir.
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/syd-US/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/syd-US/)*

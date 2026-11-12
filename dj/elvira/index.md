@@ -1,6 +1,6 @@
 # Elvira
 
-Elvira is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at B-SIDE, Warsaw on Sat, 21 Nov 2026.
+Elvira is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at B-SIDE, Warsaw on Sat, 21 Nov 2026.
 
 Elvira is a house and techno artist based in Poland, with 63 gigs on soundcheck across Berlin, Brussels, Frankfurt and Ghent and 8 more. Often billed alongside Brussi, Samogulov and Feelaz. Next up: B-SIDE, Warsaw on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Elvira is a house and techno artist based in Poland, with 63 gigs on soundcheck 
 
 Brussi, Samogulov, Feelaz
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elvira/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elvira/)*

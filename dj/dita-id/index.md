@@ -1,6 +1,6 @@
 # DITA (ID)
 
-DITA (ID) is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Potato Head Beach Club, Bali on Thu, 31 Dec 2026.
+DITA (ID) is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Potato Head Beach Club, Bali on Thu, 31 Dec 2026.
 
 DITA (ID) is a house and disco artist based in Indonesia, with 124 gigs on soundcheck across Amsterdam, Bali, Bangkok and Berlin and 19 more. Often billed alongside Fafi Abdel Nour, Peach and Archie Dennis. Next up: Potato Head Beach Club, Bali on Thu 31 Dec.
 
@@ -28,4 +28,4 @@ DITA (ID) is a house and disco artist based in Indonesia, with 124 gigs on sound
 
 Fafi Abdel Nour, Peach, Archie Dennis
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dita-id/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dita-id/)*

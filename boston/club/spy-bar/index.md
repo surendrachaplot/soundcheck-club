@@ -1,6 +1,6 @@
 # Spy Bar
 
-Spy Bar is a music venue in Boston with 8 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "LOVE ON VINYL" on Thu, 12 Nov 2026.
+Spy Bar is a music venue in Boston with 8 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "LOVE ON VINYL" on Thu, 12 Nov 2026.
 
 Spy Bar is a music venue in Boston listed on soundcheck. 8 upcoming gigs, with line-ups including Bad Lieutenant, Darshan Jesrani, Rob Singh and Xoce. See dates, start times and who's playing. 40 Berkeley Street, Boston MA 02116.
 
@@ -21,4 +21,4 @@ Spy Bar is a music venue in Boston listed on soundcheck. 8 upcoming gigs, with l
 
 40 Berkeley Street, Boston MA 02116, Boston
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/boston/club/spy-bar/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/boston/club/spy-bar/)*

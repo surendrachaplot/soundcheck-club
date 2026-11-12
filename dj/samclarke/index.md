@@ -1,6 +1,6 @@
 # Sam Clarke
 
-Sam Clarke is a Techno and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Bar  Milagro, New York City on Thu, 19 Nov 2026.
+Sam Clarke is a Techno and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Bar  Milagro, New York City on Thu, 19 Nov 2026.
 
 Sam Clarke is a techno and broken beat artist based in United States of America, with 26 gigs on soundcheck across Athens, Berlin, Brussels and Copenhagen and 4 more. Often billed alongside planetperris, Perris and truthspeaker. Next up: Bar  Milagro, New York City on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Sam Clarke is a techno and broken beat artist based in United States of America,
 
 planetperris, Perris, truthspeaker
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samclarke/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samclarke/)*

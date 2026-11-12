@@ -1,6 +1,6 @@
 # Zimone
 
-Zimone is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Tell Me, Sofia on Fri, 13 Nov 2026.
+Zimone is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Tell Me, Sofia on Fri, 13 Nov 2026.
 
 Zimone is an electronica and house artist based in Bulgaria, with 30 gigs on soundcheck across Sofia. Often billed alongside Kiril K., Shosho and Kaloo. Next up: Tell Me, Sofia on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Zimone is an electronica and house artist based in Bulgaria, with 30 gigs on sou
 
 Kiril K., Shosho, Kaloo
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zimone/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zimone/)*

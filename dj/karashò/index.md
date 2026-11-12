@@ -1,6 +1,6 @@
 # Karashò
 
-Karashò is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at MODULE, Copenhagen on Fri, 20 Nov 2026.
+Karashò is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at MODULE, Copenhagen on Fri, 20 Nov 2026.
 
 Karashò is a techno and industrial artist based in Italy, with 25 gigs on soundcheck across Berlin, Budapest, Copenhagen and Dublin and 6 more. Often billed alongside Tiem, Axciid and Pomah. Next up: MODULE, Copenhagen on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Karashò is a techno and industrial artist based in Italy, with 25 gigs on sound
 
 Tiem, Axciid, Pomah
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karashò/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karashò/)*

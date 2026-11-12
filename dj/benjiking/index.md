@@ -1,6 +1,6 @@
 # Benji King
 
-Benji King is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 27 Nov 2026.
+Benji King is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 27 Nov 2026.
 
 Benji King is a house and tech house artist based in United Kingdom, with 87 gigs on soundcheck across Amsterdam, Barcelona, Bristol and Dublin and 8 more. Often billed alongside Phill de Janeiro, Jude Lenihan and Truly Madly. Next up: Depot Mayfield, Manchester on Fri 27 Nov.
 
@@ -32,4 +32,4 @@ Benji King is a house and tech house artist based in United Kingdom, with 87 gig
 
 Phill de Janeiro, Jude Lenihan, Truly Madly
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benjiking/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benjiking/)*

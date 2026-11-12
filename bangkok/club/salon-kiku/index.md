@@ -1,6 +1,6 @@
 # Salon Kiku
 
-Salon Kiku is a music venue in Bangkok with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "UDUMBARA" on Fri, 20 Nov 2026.
+Salon Kiku is a music venue in Bangkok with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "UDUMBARA" on Fri, 20 Nov 2026.
 
 Salon Kiku is a music venue in Bangkok listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Salon Kiku is a music venue in Bangkok listed on soundcheck. 1 upcoming gig. See
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | UDUMBARA |  |
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/salon-kiku/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/salon-kiku/)*

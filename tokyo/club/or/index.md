@@ -1,6 +1,6 @@
 # or
 
-or is a music venue in Tokyo with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "REBOOT - Q'hey 60 -" on Mon, 23 Nov 2026.
+or is a music venue in Tokyo with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "REBOOT - Q'hey 60 -" on Mon, 23 Nov 2026.
 
 or is a music venue in Tokyo listed on soundcheck. 4 upcoming gigs, with line-ups including AIBA, Barbara Tucker, Chika Luna and DJ Emma and 2 more. See dates, start times and who's playing. 6-20-10 Jingumae, Shibuya-ku, Tokyo, 150-0001 Japan.
 
@@ -17,4 +17,4 @@ or is a music venue in Tokyo listed on soundcheck. 4 upcoming gigs, with line-up
 
 6-20-10 Jingumae, Shibuya-ku, Tokyo, 150-0001 Japan, Tokyo
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/or/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/or/)*

@@ -1,6 +1,6 @@
 # Sober At The Disco
 
-Sober At The Disco is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Insomnia, Berlin on Sat, 19 Dec 2026.
+Sober At The Disco is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Insomnia, Berlin on Sat, 19 Dec 2026.
 
 Sober At The Disco is a trance and techno artist based in Germany, with 28 gigs on soundcheck across Berlin, Hannover and Leipzig. Often billed alongside DJ Sweedee, OCIN and CH4YN. Next up: Insomnia, Berlin on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Sober At The Disco is a trance and techno artist based in Germany, with 28 gigs 
 
 DJ Sweedee, OCIN, CH4YN
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soberatthedisco/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soberatthedisco/)*

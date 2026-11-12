@@ -1,6 +1,6 @@
 # Toilet Alien
 
-Toilet Alien is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at 23 Music Room, Taipei on Thu, 12 Nov 2026.
+Toilet Alien is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at 23 Music Room, Taipei on Thu, 12 Nov 2026.
 
 Toilet Alien is a techno and house artist based in Taiwan, with 9 gigs on soundcheck across Taipei. Often billed alongside ALLDAY247, Hypolong and Memu. Next up: 23 Music Room, Taipei on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Toilet Alien is a techno and house artist based in Taiwan, with 9 gigs on soundc
 
 ALLDAY247, Hypolong, Memu
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toiletalien/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toiletalien/)*

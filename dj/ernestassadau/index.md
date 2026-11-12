@@ -1,6 +1,6 @@
 # Ernestas Sadau
 
-Ernestas Sadau is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Umbo, Zurich on Sat, 14 Nov 2026.
+Ernestas Sadau is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Umbo, Zurich on Sat, 14 Nov 2026.
 
 Ernestas Sadau is an electro and techno artist based in United Kingdom, with 14 gigs on soundcheck across Athens, Barcelona, Berlin and Paris and 4 more. Often billed alongside Times New Roman, Eivydas K and Cyber. Next up: Umbo, Zurich on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Ernestas Sadau is an electro and techno artist based in United Kingdom, with 14 
 
 Times New Roman, Eivydas K, Cyber (1)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ernestassadau/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ernestassadau/)*

@@ -1,6 +1,6 @@
 # Unkelchubbz
 
-Unkelchubbz is a Afro House and Amapiano artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at BBCB: Beton Brut+Concrete Bar, Seoul on Sat, 14 Nov 2026.
+Unkelchubbz is a Afro House and Amapiano artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at BBCB: Beton Brut+Concrete Bar, Seoul on Sat, 14 Nov 2026.
 
 Unkelchubbz is an afro house and amapiano artist based in South Korea, with 38 gigs on soundcheck across Seoul. Often billed alongside Beijo Bae, Zion and KARLLLL. Next up: BBCB: Beton Brut+Concrete Bar, Seoul on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Unkelchubbz is an afro house and amapiano artist based in South Korea, with 38 g
 
 Beijo Bae, Zion, KARLLLL
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/unkelchubbz/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/unkelchubbz/)*

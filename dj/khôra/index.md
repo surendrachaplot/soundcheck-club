@@ -1,6 +1,6 @@
 # Khôra
 
-Khôra is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Den Anden Side, Copenhagen on Sat, 5 Dec 2026.
+Khôra is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Den Anden Side, Copenhagen on Sat, 5 Dec 2026.
 
 Khôra is a house and techno artist based in Denmark, with 11 gigs on soundcheck across Berlin, Copenhagen, Los Angeles and Montreal. Often billed alongside gredeson, ALP (DE) and Alegrando. Next up: Den Anden Side, Copenhagen on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Khôra is a house and techno artist based in Denmark, with 11 gigs on soundcheck
 
 gredeson, ALP (DE), Alegrando
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/khôra/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/khôra/)*

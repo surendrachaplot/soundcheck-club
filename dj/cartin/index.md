@@ -1,6 +1,6 @@
 # Cartin
 
-Cartin is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Ulster Sports Club, Belfast on Fri, 27 Nov 2026.
+Cartin is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Ulster Sports Club, Belfast on Fri, 27 Nov 2026.
 
 Cartin is a techno and house artist based in United Kingdom, with 12 gigs on soundcheck across Belfast, Cork and London. Often billed alongside Reger, Holly Lester and Optmst. Next up: The Ulster Sports Club, Belfast on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Cartin is a techno and house artist based in United Kingdom, with 12 gigs on sou
 
 Reger, Holly Lester, Optmst
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cartin/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cartin/)*

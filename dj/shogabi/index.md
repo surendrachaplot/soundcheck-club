@@ -1,6 +1,6 @@
 # Sho Gabi
 
-Sho Gabi is a Drum & Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Fox and Firkin, London on Thu, 12 Nov 2026.
+Sho Gabi is a Drum & Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Fox and Firkin, London on Thu, 12 Nov 2026.
 
 Sho Gabi is a drum & bass and breakbeat artist based in United Kingdom, with 28 gigs on soundcheck across London and Paris. Often billed alongside Uncle G, Akabema and Dj Clark Gabble. Next up: The Fox and Firkin, London on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Sho Gabi is a drum & bass and breakbeat artist based in United Kingdom, with 28 
 
 Uncle G, Akabema, Dj Clark Gabble
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shogabi/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shogabi/)*

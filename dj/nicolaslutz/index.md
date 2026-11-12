@@ -1,8 +1,8 @@
 # Nicolas Lutz
 
-Nicolas Lutz is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at DURO, Milan on Fri, 13 Nov 2026.
+Nicolas Lutz is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at DURO, Milan on Fri, 13 Nov 2026.
 
-Nicolas Lutz is a techno and house artist based in Uruguay, with 188 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Belgrade and 48 more. Often billed alongside Binh, DJ Masda and Craig Richards. Next up: DURO, Milan on Fri 13 Nov.
+Nicolas Lutz is a techno and house artist based in Uruguay, with 189 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Belgrade and 48 more. Often billed alongside Binh, DJ Masda and Craig Richards. Next up: DURO, Milan on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -18,8 +18,8 @@ Nicolas Lutz is a techno and house artist based in Uruguay, with 188 gigs on sou
 | Sat, 19 Dec 2026 | Phonox | London |
 | Thu, 31 Dec 2026 | TBA - IYKYK  | Los Angeles |
 | Thu, 31 Dec 2026 | Nowadays | New York City |
+| Sat, 30 Jan 2027 | Invisible Wind Factory | Liverpool |
 | Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
-| Thu, 19 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Nicolas Lutz is a techno and house artist based in Uruguay, with 188 gigs on sou
 
 Binh, DJ Masda, Craig Richards
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolaslutz/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolaslutz/)*

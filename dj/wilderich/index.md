@@ -1,6 +1,6 @@
 # WILDERÍCH
 
-WILDERÍCH is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at M7 Club, Barcelona on Thu, 12 Nov 2026.
+WILDERÍCH is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at M7 Club, Barcelona on Thu, 12 Nov 2026.
 
 WILDERÍCH is a techno and trance artist based in Germany, with 110 gigs on soundcheck across Amsterdam, Augsburg, Barcelona and Basel and 32 more. Often billed alongside zwilling., Serafina and Adrian Mills. Next up: M7 Club, Barcelona on Thu 12 Nov.
 
@@ -28,4 +28,4 @@ WILDERÍCH is a techno and trance artist based in Germany, with 110 gigs on soun
 
 zwilling., Serafina, Adrian Mills
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wilderich/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wilderich/)*

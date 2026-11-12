@@ -1,6 +1,6 @@
 # kvpx6
 
-kvpx6 is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at K-Bar Powiśle, Warsaw on Fri, 20 Nov 2026.
+kvpx6 is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at K-Bar Powiśle, Warsaw on Fri, 20 Nov 2026.
 
 kvpx6 is a bass and house artist based in Poland, with 7 gigs on soundcheck across Krakow and Warsaw. Often billed alongside zuzaOK and I Say Mikey. Next up: K-Bar Powiśle, Warsaw on Fri 20 Nov.
 
@@ -23,4 +23,4 @@ kvpx6 is a bass and house artist based in Poland, with 7 gigs on soundcheck acro
 
 zuzaOK, I Say Mikey
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kvpx6/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kvpx6/)*

@@ -1,6 +1,6 @@
 # LUCIANA
 
-LUCIANA is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Panther Island Pavilion, Dallas-fort-worth on Fri, 23 Apr 2027.
+LUCIANA is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Panther Island Pavilion, Dallas-fort-worth on Fri, 23 Apr 2027.
 
 LUCIANA is a house and deep house artist based in Spain, with 18 gigs on soundcheck across Barcelona, Dallas Fort Worth and Ibiza. Often billed alongside CHRIS RAZZ, Babo and Mario Chicoli. Next up: Panther Island Pavilion, Dallas Fort Worth on Fri 23 Apr.
 
@@ -25,4 +25,4 @@ LUCIANA is a house and deep house artist based in Spain, with 18 gigs on soundch
 
 CHRIS RAZZ, Babo, Mario Chicoli
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luciana/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luciana/)*

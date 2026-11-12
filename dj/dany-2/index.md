@@ -1,6 +1,6 @@
 # Dany (2)
 
-Dany (2) is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Bongo Club, Edinburgh on Sat, 26 Dec 2026.
+Dany (2) is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Bongo Club, Edinburgh on Sat, 26 Dec 2026.
 
 Dany is an electro and techno artist based in South Korea, with 7 gigs on soundcheck across Edinburgh and Seoul. Often billed alongside ona:v, Dan Jakson and Lin. Next up: The Bongo Club, Edinburgh on Sat 26 Dec.
 
@@ -23,4 +23,4 @@ Dany is an electro and techno artist based in South Korea, with 7 gigs on soundc
 
 ona:v, Dan Jakson, Lin (7)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dany-2/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dany-2/)*

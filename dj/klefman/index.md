@@ -1,6 +1,6 @@
 # Klefman
 
-Klefman is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at La Pente, Lyon on Thu, 12 Nov 2026.
+Klefman is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at La Pente, Lyon on Thu, 12 Nov 2026.
 
 Klefman is a bass and techno artist based in France, with 7 gigs on soundcheck across Lyon. Often billed alongside Rivda, Fray (FR) and HBB (MA). Next up: La Pente, Lyon on Thu 12 Nov.
 
@@ -23,4 +23,4 @@ Klefman is a bass and techno artist based in France, with 7 gigs on soundcheck a
 
 Rivda, Fray (FR), HBB (MA)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/klefman/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/klefman/)*

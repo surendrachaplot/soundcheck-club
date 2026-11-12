@@ -1,6 +1,6 @@
 # Rich
 
-Rich is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Turbina, Budapest on Sat, 14 Nov 2026.
+Rich is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Turbina, Budapest on Sat, 14 Nov 2026.
 
 Rich is a techno and tech house artist based in Sweden, with 26 gigs on soundcheck across Amsterdam, Budapest, Gothenburg and Leeds and 4 more. Often billed alongside Futeki, Ivo Mono and Hunter. Next up: Turbina, Budapest on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Rich is a techno and tech house artist based in Sweden, with 26 gigs on soundche
 
 Futeki, Ivo Mono, Hunter (2)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rich/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rich/)*

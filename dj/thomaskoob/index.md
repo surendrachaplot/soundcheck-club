@@ -1,6 +1,6 @@
 # Thomas Koob
 
-Thomas Koob is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Hoppetosse, Berlin on Fri, 27 Nov 2026.
+Thomas Koob is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Hoppetosse, Berlin on Fri, 27 Nov 2026.
 
 Thomas Koob is a techno and industrial artist based in Germany, with 9 gigs on soundcheck across Berlin. Often billed alongside deKai, Empro and Kevin Wimmer. Next up: Hoppetosse, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Thomas Koob is a techno and industrial artist based in Germany, with 9 gigs on s
 
 deKai, Empro, Kevin Wimmer
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thomaskoob/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thomaskoob/)*

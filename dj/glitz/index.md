@@ -1,6 +1,6 @@
 # Glitz
 
-Glitz is a EBM and Italo Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Emoçoes Bar/Cova da Piedade, Lisbon on Sat, 21 Nov 2026.
+Glitz is a EBM and Italo Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Emoçoes Bar/Cova da Piedade, Lisbon on Sat, 21 Nov 2026.
 
 Glitz is an ebm and italo disco artist based in Portugal, with 50 gigs on soundcheck across Amsterdam, Berlin, Hamburg and Lisbon and 1 more. Often billed alongside Xminder, Maldoror and Anastasia Kristensen. Next up: TBA - Emoçoes Bar/Cova da Piedade, Lisbon on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Glitz is an ebm and italo disco artist based in Portugal, with 50 gigs on soundc
 
 Xminder, Maldoror, Anastasia Kristensen
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/glitz/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/glitz/)*

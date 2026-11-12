@@ -1,6 +1,6 @@
 # BPK (1)
 
-BPK (1) is a Electronica and Pop artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Leith Depot, Edinburgh on Fri, 13 Nov 2026.
+BPK (1) is a Electronica and Pop artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Leith Depot, Edinburgh on Fri, 13 Nov 2026.
 
 BPK is an electronica and pop artist based in United Kingdom, with 5 gigs on soundcheck across Edinburgh and London. Often billed alongside Nikki Guild, Bolam and Caligari_. Next up: The Leith Depot, Edinburgh on Fri 13 Nov.
 
@@ -21,4 +21,4 @@ BPK is an electronica and pop artist based in United Kingdom, with 5 gigs on sou
 
 Nikki Guild, Bolam, Caligari_
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bpk-1/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bpk-1/)*

@@ -1,6 +1,6 @@
 # Argento Dust
 
-Argento Dust is a Afro House and Afro Tech artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Koda, Nairobi on Fri, 4 Dec 2026.
+Argento Dust is a Afro House and Afro Tech artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Koda, Nairobi on Fri, 4 Dec 2026.
 
 Argento Dust is an afro house and afro tech artist based in South Africa, with 7 gigs on soundcheck across Amsterdam, Cape Town, Durban and Johannesburg and 2 more. Often billed alongside CLEIDO, AfroKillerz and Kususa. Next up: Koda, Nairobi on Fri 4 Dec.
 
@@ -23,4 +23,4 @@ Argento Dust is an afro house and afro tech artist based in South Africa, with 7
 
 CLEIDO, AfroKillerz, Kususa
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/argentodust/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/argentodust/)*

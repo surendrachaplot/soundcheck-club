@@ -1,6 +1,6 @@
 # Nandu
 
-Nandu is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Society, Brussels on Fri, 13 Nov 2026.
+Nandu is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Society, Brussels on Fri, 13 Nov 2026.
 
 Nandu is a house and techno artist based in Denmark, with 114 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 39 more. Often billed alongside Ivory, Yet More and Bedouin. Next up: Society, Brussels on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Nandu is a house and techno artist based in Denmark, with 114 gigs on soundcheck
 
 Ivory, Yet More, Bedouin
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nandu/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nandu/)*

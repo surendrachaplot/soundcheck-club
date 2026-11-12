@@ -1,6 +1,6 @@
 # La Terrrazza
 
-La Terrrazza is a music venue in Barcelona with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "[Last 150 tickets] Throwback - One More Dance (Back to 80s, 90s & 00s)" on Fri, 13 Nov 2026.
+La Terrrazza is a music venue in Barcelona with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "[Last 150 tickets] Throwback - One More Dance (Back to 80s, 90s & 00s)" on Fri, 13 Nov 2026.
 
 La Terrrazza is a music venue in Barcelona listed on soundcheck. 4 upcoming gigs, with line-ups including Bassel Darwish, DJ AMAZING, Lexlay and Matthias Tanzmann and 2 more. See dates, start times and who's playing. Avinguda Francesc Ferrer i Guardia, 13, 08038.
 
@@ -17,4 +17,4 @@ La Terrrazza is a music venue in Barcelona listed on soundcheck. 4 upcoming gigs
 
 Avinguda Francesc Ferrer i Guardia, 13, 08038, Barcelona
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-terrrazza/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-terrrazza/)*

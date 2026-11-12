@@ -1,0 +1,26 @@
+# Tom Place
+
+Tom Place is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Dalston Superstore, London on Fri, 20 Nov 2026.
+
+Tom Place is a techno and electro artist based in United Kingdom, with 7 gigs on soundcheck across London and Melbourne. Often billed alongside LO-LOW, Ani Klang and Buggery Grips. Next up: Dalston Superstore, London on Fri 20 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 20 Nov 2026 | Dalston Superstore | London |
+
+## Recently played
+
+- The Glove That Fits, London · Sat, 24 Oct 2026
+- Planet Wax, London · Sat, 19 Sept 2026
+- Planet Wax, London · Fri, 11 Sept 2026
+- Muro Peckham, London · Sat, 18 Apr 2026
+- The Glove That Fits, London · Fri, 27 Oct 2023
+- Revolver Upstairs, Melbourne · Sun, 11 Jun 2023
+
+## Shares bills with
+
+LO-LOW, Ani Klang, Buggery Grips
+
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomplace/)*

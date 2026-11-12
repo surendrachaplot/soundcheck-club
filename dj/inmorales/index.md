@@ -1,6 +1,6 @@
 # Inmorales
 
-Inmorales is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
+Inmorales is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
 
 Inmorales is a house and techno artist, with 9 gigs on soundcheck across Bogotá and Colombia. Often billed alongside Adi (CO), Andrea Arias and Andy Martin. Next up: El Rio Hostel, Colombia on Wed 3 Mar.
 
@@ -25,4 +25,4 @@ Inmorales is a house and techno artist, with 9 gigs on soundcheck across Bogotá
 
 Adi (CO), Andrea Arias, Andy Martin
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inmorales/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inmorales/)*

@@ -1,6 +1,6 @@
 # W Osaka
 
-W Osaka is a music venue in Osaka with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "WEEKEND BLACKBOX SESSION - YUUKI AND DMITRI BIRTHDAY BASH -" on Sat, 28 Nov 2026.
+W Osaka is a music venue in Osaka with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "WEEKEND BLACKBOX SESSION - YUUKI AND DMITRI BIRTHDAY BASH -" on Sat, 28 Nov 2026.
 
 W Osaka is a music venue in Osaka listed on soundcheck. 1 upcoming gig, with line-ups including DMITRI ABSINTHE, MAX PELA and YUUKI YOSHIYAMA. See dates, start times and who's playing. 4-1-3,Minami-Semba,Chuo-ku,Osaka City,542-0081,Japan.
 
@@ -14,4 +14,4 @@ W Osaka is a music venue in Osaka listed on soundcheck. 1 upcoming gig, with lin
 
 4-1-3,Minami-Semba,Chuo-ku,Osaka City,542-0081,Japan, Osaka
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/w-osaka/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/w-osaka/)*

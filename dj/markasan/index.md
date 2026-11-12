@@ -1,6 +1,6 @@
 # Marka San
 
-Marka San is a Footwork and Grime artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Channel Zero, Ljubljana on Fri, 20 Nov 2026.
+Marka San is a Footwork and Grime artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Channel Zero, Ljubljana on Fri, 20 Nov 2026.
 
 Marka San is a footwork and grime artist based in Slovenia, with 16 gigs on soundcheck across Berlin, Brighton and Ljubljana. Often billed alongside Raketa (SL), Akaj and DJ Spinn. Next up: Channel Zero, Ljubljana on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Marka San is a footwork and grime artist based in Slovenia, with 16 gigs on soun
 
 Raketa (SL), Akaj, DJ Spinn
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markasan/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markasan/)*

@@ -1,6 +1,6 @@
 # Bradley Zero
 
-Bradley Zero is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Volt Club Milano, Milan on Thu, 12 Nov 2026.
+Bradley Zero is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Volt Club Milano, Milan on Thu, 12 Nov 2026.
 
 Bradley Zero is a house and techno artist based in United Kingdom, with 233 gigs on soundcheck across Amsterdam, Austin, Bali and Bangkok and 61 more. Often billed alongside MLE (UK), Moxie and Sally C. Next up: Volt Club Milano, Milan on Thu 12 Nov.
 
@@ -32,4 +32,4 @@ Bradley Zero is a house and techno artist based in United Kingdom, with 233 gigs
 
 MLE (UK), Moxie, Sally C
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bradleyzero/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bradleyzero/)*

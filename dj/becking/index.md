@@ -1,6 +1,6 @@
 # Becking
 
-Becking is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Yellow House, Amsterdam on Fri, 13 Nov 2026.
+Becking is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Yellow House, Amsterdam on Fri, 13 Nov 2026.
 
 Becking is a garage and house artist based in Netherlands, with 20 gigs on soundcheck across Amsterdam, Leeds and Manchester. Often billed alongside Kirilski, Pura Pachanga and Snooz. Next up: Yellow House, Amsterdam on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Becking is a garage and house artist based in Netherlands, with 20 gigs on sound
 
 Kirilski, Pura Pachanga, Snooz
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/becking/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/becking/)*

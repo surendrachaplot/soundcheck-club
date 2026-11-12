@@ -1,6 +1,6 @@
 # John Talabot
 
-John Talabot is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at CLUB RAUM, Amsterdam on Fri, 13 Nov 2026.
+John Talabot is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at CLUB RAUM, Amsterdam on Fri, 13 Nov 2026.
 
 John Talabot is a house and techno artist based in Spain, with 202 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 64 more. Often billed alongside mad miran, Nicolas Lutz and Palms Trax. Next up: CLUB RAUM, Amsterdam on Fri 13 Nov.
 
@@ -34,4 +34,4 @@ John Talabot is a house and techno artist based in Spain, with 202 gigs on sound
 
 mad miran, Nicolas Lutz, Palms Trax
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johntalabot/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johntalabot/)*

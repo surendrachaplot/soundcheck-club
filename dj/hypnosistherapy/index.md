@@ -1,6 +1,6 @@
 # HYPNOSIS THERAPY
 
-HYPNOSIS THERAPY is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at UNDERCITY, Seoul on Sat, 28 Nov 2026.
+HYPNOSIS THERAPY is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at UNDERCITY, Seoul on Sat, 28 Nov 2026.
 
 HYPNOSIS THERAPY is a techno and electro artist based in South Korea, with 21 gigs on soundcheck across Berlin, Bristol, Copenhagen and Leeds and 6 more. Often billed alongside Afrodite, Closet Yi and DJ Jinwook. Next up: UNDERCITY, Seoul on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ HYPNOSIS THERAPY is a techno and electro artist based in South Korea, with 21 gi
 
 Afrodite (2), Closet Yi, DJ Jinwook
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hypnosistherapy/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hypnosistherapy/)*

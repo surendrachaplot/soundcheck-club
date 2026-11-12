@@ -1,6 +1,6 @@
 # Julian Bainbridge
 
-Julian Bainbridge is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Paloma, Berlin on Fri, 11 Dec 2026.
+Julian Bainbridge is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Paloma, Berlin on Fri, 11 Dec 2026.
 
 Julian Bainbridge is a house and breakbeat artist based in Germany, with 23 gigs on soundcheck across Berlin, Stuttgart and Warsaw. Often billed alongside elliephunk, Alain Gertrand and Manolo. (DE). Next up: Paloma, Berlin on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Julian Bainbridge is a house and breakbeat artist based in Germany, with 23 gigs
 
 elliephunk, Alain Gertrand, Manolo. (DE)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/julianbainbridge/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/julianbainbridge/)*

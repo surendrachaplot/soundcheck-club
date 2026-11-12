@@ -1,6 +1,6 @@
 # RAHA
 
-RAHA is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Smolna, Warsaw on Sat, 21 Nov 2026.
+RAHA is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Smolna, Warsaw on Sat, 21 Nov 2026.
 
 RAHA is a minimal and house artist based in Japan, with 45 gigs on soundcheck across Berlin, Bucharest, Ibiza and Kyoto and 4 more. Often billed alongside monielu.h, Alex Kraemer and Ariaray. Next up: Smolna, Warsaw on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ RAHA is a minimal and house artist based in Japan, with 45 gigs on soundcheck ac
 
 monielu.h, Alex Kraemer, Ariaray
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raha/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raha/)*

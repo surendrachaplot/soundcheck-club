@@ -1,6 +1,6 @@
 # Terrence Parker
 
-Terrence Parker is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TV Lounge, Detroit on Sun, 29 Nov 2026.
+Terrence Parker is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TV Lounge, Detroit on Sun, 29 Nov 2026.
 
 Terrence Parker is a house and techno artist based in United States of America, with 65 gigs on soundcheck across Adelaide, Bali, Barcelona and Chicago and 15 more. Often billed alongside DJ Spen, Eddie Fowlkes and DJ MoReese. Next up: TV Lounge, Detroit on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Terrence Parker is a house and techno artist based in United States of America, 
 
 DJ Spen, Eddie Fowlkes, DJ MoReese
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/terrenceparker/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/terrenceparker/)*

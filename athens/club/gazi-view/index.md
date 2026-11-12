@@ -1,6 +1,6 @@
 # Gazi View
 
-Gazi View is a music venue in Athens with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "TRASHNIGHT || FRIDAY 13th || Gazi View" on Fri, 13 Nov 2026.
+Gazi View is a music venue in Athens with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "TRASHNIGHT || FRIDAY 13th || Gazi View" on Fri, 13 Nov 2026.
 
 Gazi View is a music venue in Athens listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Iakhou 22, 11854 11854 Athens, Greece.
 
@@ -14,4 +14,4 @@ Gazi View is a music venue in Athens listed on soundcheck. 1 upcoming gig. See d
 
 Iakhou 22, 11854 11854 Athens, Greece, Athens
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/athens/club/gazi-view/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/athens/club/gazi-view/)*

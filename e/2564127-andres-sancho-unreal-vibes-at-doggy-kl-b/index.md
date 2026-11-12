@@ -1,6 +1,6 @@
 # Andres Sancho + Unreal Vibes at Doggy Klœb
 
-Andres Sancho + Unreal Vibes at Doggy Klœb on Fri 27 Nov, Malaga. 2 artists: Andrés Sancho and Unreal Vibes. Progressive House and Electronica. See the line-up on soundcheck.
+Andres Sancho + Unreal Vibes at Doggy Klœb on Fri 27 Nov, Malaga. 2 artists: Andrés Sancho and Unreal Vibes. Progressive House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

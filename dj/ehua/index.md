@@ -1,6 +1,6 @@
 # Ehua
 
-Ehua is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Barcelona (Sónar by Day) & Fira Gran Via (Sónar by Night), Barcelona on Thu, 17 Jun 2027.
+Ehua is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Barcelona (Sónar by Day) & Fira Gran Via (Sónar by Night), Barcelona on Thu, 17 Jun 2027.
 
 Ehua is a techno and bass artist based in Italy, with 137 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Basel and 42 more. Often billed alongside Flore, Skee Mask and AliA. Next up: TBA - Barcelona (Sónar by Day) & Fira Gran Via (Sónar by Night), Barcelona on Thu 17 Jun.
 
@@ -25,4 +25,4 @@ Ehua is a techno and bass artist based in Italy, with 137 gigs on soundcheck acr
 
 Flore, Skee Mask, AliA
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ehua/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ehua/)*

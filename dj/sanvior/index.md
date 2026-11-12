@@ -1,6 +1,6 @@
 # Sanvior
 
-Sanvior is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Overture Studios, Toronto on Sat, 12 Dec 2026.
+Sanvior is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Overture Studios, Toronto on Sat, 12 Dec 2026.
 
 Sanvior is a techno and industrial artist based in Iran, with 11 gigs on soundcheck across Montreal and Toronto. Often billed alongside Unvo1d, 2HZY and My Pet Monster. Next up: Overture Studios, Toronto on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Sanvior is a techno and industrial artist based in Iran, with 11 gigs on soundch
 
 Unvo1d, 2HZY, My Pet Monster
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sanvior/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sanvior/)*

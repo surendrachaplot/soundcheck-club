@@ -1,6 +1,6 @@
 # Azu Tiwaline
 
-Azu Tiwaline is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at VENT, Tokyo on Fri, 13 Nov 2026.
+Azu Tiwaline is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at VENT, Tokyo on Fri, 13 Nov 2026.
 
 Azu Tiwaline is a techno and bass artist based in France, with 107 gigs on soundcheck across Adelaide, Amsterdam, Bangkok and Barcelona and 39 more. Often billed alongside DJ Plead, upsammy and CCL. Next up: VENT, Tokyo on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Azu Tiwaline is a techno and bass artist based in France, with 107 gigs on sound
 
 DJ Plead, upsammy, CCL
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/azutiwaline/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/azutiwaline/)*

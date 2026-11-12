@@ -1,6 +1,6 @@
 # Lumiere
 
-Lumiere is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Les Enfants Brillants, Barcelona on Sat, 14 Nov 2026.
+Lumiere is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Les Enfants Brillants, Barcelona on Sat, 14 Nov 2026.
 
 Lumiere is a house and techno artist based in Argentina, with 127 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bologna and 16 more. Often billed alongside Anah, Francesco Del Garda and Binh. Next up: Les Enfants Brillants, Barcelona on Sat 14 Nov.
 
@@ -28,4 +28,4 @@ Lumiere is a house and techno artist based in Argentina, with 127 gigs on soundc
 
 Anah, Francesco Del Garda, Binh
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lumiere-1/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lumiere-1/)*

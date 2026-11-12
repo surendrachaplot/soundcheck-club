@@ -1,6 +1,6 @@
 # Angel Music Bar
 
-Angel Music Bar is a music venue in Melbourne with 11 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Inbraza presents Sting Nights" on Thu, 12 Nov 2026.
+Angel Music Bar is a music venue in Melbourne with 11 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Inbraza presents Sting Nights" on Thu, 12 Nov 2026.
 
 Angel Music Bar is a music venue in Melbourne listed on soundcheck. 11 upcoming gigs, with line-ups including Ayebatonye, Bappy, bbsanii and cash and 2 more. See dates, start times and who's playing. 12 Bourke Street Melbourne, Victoria, Australia.
 
@@ -23,4 +23,4 @@ Angel Music Bar is a music venue in Melbourne listed on soundcheck. 11 upcoming 
 
 12 Bourke Street Melbourne, Victoria, Australia, Melbourne
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/angel-music-bar/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/angel-music-bar/)*

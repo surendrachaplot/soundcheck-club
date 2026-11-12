@@ -1,6 +1,6 @@
 # Jarrett Tebbets
 
-Jarrett Tebbets is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Spirit, Pittsburgh on Fri, 13 Nov 2026.
+Jarrett Tebbets is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Spirit, Pittsburgh on Fri, 13 Nov 2026.
 
 Jarrett Tebbets is a disco and house artist based in United States of America, with 49 gigs on soundcheck across Cleveland, Detroit, Philadelphia and Pittsburgh. Often billed alongside Formosa, Ali Berger and Jellyfish. Next up: Spirit, Pittsburgh on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Jarrett Tebbets is a disco and house artist based in United States of America, w
 
 Formosa (1), Ali Berger, Jellyfish
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jarretttebbets/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jarretttebbets/)*

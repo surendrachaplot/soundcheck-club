@@ -1,6 +1,6 @@
 # Laura Jackson
 
-Laura Jackson is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at renae, Manchester on Fri, 13 Nov 2026.
+Laura Jackson is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at renae, Manchester on Fri, 13 Nov 2026.
 
 Laura Jackson is a disco and house artist based in United Kingdom, with 48 gigs on soundcheck across London and Manchester. Often billed alongside Timo-G, Jamie Bull and Lil' Minx. Next up: renae, Manchester on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Laura Jackson is a disco and house artist based in United Kingdom, with 48 gigs 
 
 Timo-G, Jamie Bull, Lil' Minx
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laurajackson/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laurajackson/)*

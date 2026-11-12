@@ -1,6 +1,6 @@
 # Lüma-G
 
-Lüma-G is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA, Paris on Sat, 14 Nov 2026.
+Lüma-G is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA, Paris on Sat, 14 Nov 2026.
 
 Lüma-G is a techno and house artist based in France, with 39 gigs on soundcheck across Bordeaux, Marseille, Paris and Toulouse. Often billed alongside piaconcept, Julie Desire and Aurèle. Next up: TBA, Paris on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Lüma-G is a techno and house artist based in France, with 39 gigs on soundcheck
 
 piaconcept, Julie Desire, Aurèle
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luma-g/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luma-g/)*

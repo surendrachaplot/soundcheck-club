@@ -1,6 +1,6 @@
 # The Abbey
 
-The Abbey is a music venue in Manchester with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "HOMEGROWN" on Sat, 28 Nov 2026.
+The Abbey is a music venue in Manchester with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "HOMEGROWN" on Sat, 28 Nov 2026.
 
 The Abbey is a music venue in Manchester listed on soundcheck. 2 upcoming gigs, with line-ups including Ali Roche, blo rida, CBABY and Club Penguin and 2 more. See dates, start times and who's playing. The Abbey, Guildhall Cl, Manchester, M15 6SY.
 
@@ -15,4 +15,4 @@ The Abbey is a music venue in Manchester listed on soundcheck. 2 upcoming gigs, 
 
 The Abbey, Guildhall Cl, Manchester, M15 6SY, Manchester
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-abbey/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-abbey/)*

@@ -1,6 +1,6 @@
 # Tada
 
-Tada is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Knock, Tokyo on Sat, 28 Nov 2026.
+Tada is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Knock, Tokyo on Sat, 28 Nov 2026.
 
 Tada is a house and techno artist based in Colombia, with 38 gigs on soundcheck across Bangkok, Bogotá, Medellin and Tokyo. Often billed alongside DJ TADA, AKARI and Jirus (MELA). Next up: Knock, Tokyo on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Tada is a house and techno artist based in Colombia, with 38 gigs on soundcheck 
 
 DJ TADA, AKARI, Jirus (MELA)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tada/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tada/)*

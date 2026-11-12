@@ -1,6 +1,6 @@
 # Laurine
 
-Laurine is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - SECRET VILLA (the venue details will be emailed to ticket holders before the event), Barcelona on Sat, 14 Nov 2026.
+Laurine is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - SECRET VILLA (the venue details will be emailed to ticket holders before the event), Barcelona on Sat, 14 Nov 2026.
 
 Laurine is a house and techno artist based in Germany, with 126 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 28 more. Often billed alongside Cecilio, S.Moreira and Jorge Escribano. Next up: TBA - SECRET VILLA (the venue details will be emailed to ticket holders before the event), Barcelona on Sat 14 Nov.
 
@@ -30,4 +30,4 @@ Laurine is a house and techno artist based in Germany, with 126 gigs on soundche
 
 Cecilio, S.Moreira, Jorge Escribano
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laurine/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laurine/)*

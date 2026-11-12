@@ -1,6 +1,6 @@
 # Joi L.F
 
-Joi L.F is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The System, Sheffield on Fri, 13 Nov 2026.
+Joi L.F is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The System, Sheffield on Fri, 13 Nov 2026.
 
 Joi L.F is a bass and techno artist based in United Kingdom, with 6 gigs on soundcheck across North and Sheffield. Often billed alongside Ol.G, Esmé and Nonna Fab. Next up: The System, Sheffield on Fri 13 Nov.
 
@@ -22,4 +22,4 @@ Joi L.F is a bass and techno artist based in United Kingdom, with 6 gigs on soun
 
 Ol.G, Esmé, Nonna Fab
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joil.f/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joil.f/)*

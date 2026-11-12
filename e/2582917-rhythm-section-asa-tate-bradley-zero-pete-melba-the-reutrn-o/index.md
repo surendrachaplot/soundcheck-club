@@ -1,6 +1,6 @@
 # Rhythm Section: Asa Tate, Bradley Zero, Pete Melba & The Reutrn of She at Hope House
 
-Rhythm Section: Asa Tate, Bradley Zero, Pete Melba & The Reutrn of She at Hope House on Fri 27 Nov, Leeds. 3 artists: Asa Tate, Bradley Zero and Pete Melba. See the line-up on soundcheck.
+Rhythm Section: Asa Tate, Bradley Zero, Pete Melba & The Reutrn of She at Hope House on Fri 27 Nov, Leeds. 3 artists: Asa Tate, Bradley Zero and Pete Melba. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Hernan Cattaneo
 
-Hernan Cattaneo is a Progressive House and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Surreal Park, Camboriú, Brazil on Fri, 20 Nov 2026.
+Hernan Cattaneo is a Progressive House and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Surreal Park, Camboriú, Brazil on Fri, 20 Nov 2026.
 
 Hernan Cattaneo is a progressive house and house artist based in Argentina, with 153 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 33 more. Often billed alongside Nick Warren, Graziano Raffa and Simply City. Next up: TBA - Surreal Park, Camboriú, Brazil on Fri 20 Nov.
 
@@ -28,4 +28,4 @@ Hernan Cattaneo is a progressive house and house artist based in Argentina, with
 
 Nick Warren, Graziano Raffa, Simply City
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hernancattaneo/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hernancattaneo/)*

@@ -1,6 +1,6 @@
 # City Recital Hall
 
-City Recital Hall is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "Club Shetu: ZAINAB, DJ Munasib + more" on Sat, 16 Jan 2027.
+City Recital Hall is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "Club Shetu: ZAINAB, DJ Munasib + more" on Sat, 16 Jan 2027.
 
 City Recital Hall is a music venue in Sydney listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 2-12 Angel Pl; Sydney, NSW 2000; Australia.
 
@@ -14,4 +14,4 @@ City Recital Hall is a music venue in Sydney listed on soundcheck. 1 upcoming gi
 
 2-12 Angel Pl; Sydney, NSW 2000; Australia, Sydney
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/city-recital-hall/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/city-recital-hall/)*

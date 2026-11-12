@@ -1,6 +1,6 @@
 # Fred V
 
-Fred V is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at VIERNULVIER, Ghent on Fri, 27 Nov 2026.
+Fred V is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at VIERNULVIER, Ghent on Fri, 27 Nov 2026.
 
 Fred V is a drum & bass and bass artist based in France, with 48 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Atlanta and 23 more. Often billed alongside Whiney, Flava D and Metrik. Next up: VIERNULVIER, Ghent on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Fred V is a drum & bass and bass artist based in France, with 48 gigs on soundch
 
 Whiney, Flava D, Metrik
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fredv/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fredv/)*

@@ -1,6 +1,6 @@
 # RANNA
 
-RANNA is a Electronica and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at R Lounge, Tokyo on Sat, 21 Nov 2026.
+RANNA is a Electronica and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at R Lounge, Tokyo on Sat, 21 Nov 2026.
 
 RANNA is an electronica and bass artist based in Japan, with 19 gigs on soundcheck across San Francisco/Oakland, Seoul and Tokyo. Often billed alongside MUNÉO, M.I.O and akii. Next up: R Lounge, Tokyo on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ RANNA is an electronica and bass artist based in Japan, with 19 gigs on soundche
 
 MUNÉO, M.I.O, akii
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ranna/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ranna/)*

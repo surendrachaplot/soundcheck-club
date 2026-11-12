@@ -1,14 +1,15 @@
 # Sibson
 
-Sibson is a Acid and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Collect LX Factory, Lisbon on Thu, 19 Nov 2026.
+Sibson is a Acid and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Collect LX Factory, Lisbon on Thu, 19 Nov 2026.
 
-Sibson is an acid and electronica artist based in United Kingdom, with 47 gigs on soundcheck across Berlin, Istanbul, Lisbon and London and 1 more. Often billed alongside Mariana Raposo, Mikey Sibson and Nick Craddock. Next up: Collect LX Factory, Lisbon on Thu 19 Nov.
+Sibson is an acid and electronica artist based in United Kingdom, with 48 gigs on soundcheck across Berlin, Istanbul, Lisbon and London and 1 more. Often billed alongside Mariana Raposo, George Silver and Mikey Sibson. Next up: Collect LX Factory, Lisbon on Thu 19 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 19 Nov 2026 | Collect LX Factory | Lisbon |
+| Fri, 27 Nov 2026 | Arroz Estúdios | Lisbon |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Sibson is an acid and electronica artist based in United Kingdom, with 47 gigs o
 
 ## Shares bills with
 
-Mariana Raposo, Mikey Sibson, Nick Craddock
+Mariana Raposo, George Silver, Mikey Sibson
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sibson/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sibson/)*

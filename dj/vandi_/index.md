@@ -1,14 +1,15 @@
 # Vandi (ES)
 
-Vandi (ES) is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 21 Nov 2026.
+Vandi (ES) is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 21 Nov 2026.
 
-Vandi (ES) is a house and minimal artist based in Ireland, with 16 gigs on soundcheck across Barcelona, Dublin, Lisbon and Valencia. Often billed alongside bernie soundmate, G.G (LB) and NM Musik. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat 21 Nov.
+Vandi (ES) is a house and minimal artist based in Ireland, with 17 gigs on soundcheck across Barcelona, Dublin, Lisbon and Valencia. Often billed alongside bernie soundmate, G.G (LB) and NM Musik. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona | Barcelona |
+| Sat, 12 Dec 2026 | block. | Dublin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Vandi (ES) is a house and minimal artist based in Ireland, with 16 gigs on sound
 
 bernie soundmate, G.G (LB), NM Musik
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vandi_/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vandi_/)*

@@ -1,6 +1,6 @@
 # MINAMI
 
-MINAMI is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at R Lounge, Tokyo on Sat, 21 Nov 2026.
+MINAMI is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at R Lounge, Tokyo on Sat, 21 Nov 2026.
 
 MINAMI is a house and techno artist based in Japan, with 218 gigs on soundcheck across Barcelona, Osaka and Tokyo. Often billed alongside Dazzle Drums, HEAVEN and Kengo. Next up: R Lounge, Tokyo on Sat 21 Nov.
 
@@ -16,6 +16,7 @@ MINAMI is a house and techno artist based in Japan, with 218 gigs on soundcheck 
 
 ## Recently played
 
+- Red Bar, Tokyo · Wed, 11 Nov 2026
 - Numm, Tokyo · Sun, 8 Nov 2026
 - Numm, Tokyo · Sun, 11 Oct 2026
 - VENT, Tokyo · Tue, 22 Sept 2026
@@ -23,10 +24,9 @@ MINAMI is a house and techno artist based in Japan, with 218 gigs on soundcheck 
 - Bridge 48, Barcelona · Sat, 12 Sept 2026
 - Red Bar, Tokyo · Thu, 10 Sept 2026
 - Oath, Tokyo · Tue, 11 Aug 2026
-- Numm, Tokyo · Sun, 9 Aug 2026
 
 ## Shares bills with
 
 Dazzle Drums, HEAVEN, Kengo
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/minami/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/minami/)*

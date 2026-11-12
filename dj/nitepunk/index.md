@@ -1,6 +1,6 @@
 # Nitepunk
 
-Nitepunk is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Runnymede Hall, Toronto on Fri, 27 Nov 2026.
+Nitepunk is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Runnymede Hall, Toronto on Fri, 27 Nov 2026.
 
 Nitepunk is a bass and dubstep artist based in Georgia, with 33 gigs on soundcheck across Atlanta, Brisbane, Budapest and Calgary and 17 more. Often billed alongside EPROM, G Jones and DJ Glen. Next up: Runnymede Hall, Toronto on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Nitepunk is a bass and dubstep artist based in Georgia, with 33 gigs on soundche
 
 EPROM, G Jones, DJ Glen
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nitepunk/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nitepunk/)*

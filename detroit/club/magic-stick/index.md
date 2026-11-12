@@ -1,6 +1,6 @@
 # Magic Stick
 
-Magic Stick is a music venue in Detroit with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Blasterjaxx" on Fri, 13 Nov 2026.
+Magic Stick is a music venue in Detroit with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Blasterjaxx" on Fri, 13 Nov 2026.
 
 Magic Stick is a music venue in Detroit listed on soundcheck. 5 upcoming gigs, with line-ups including Blasterjaxx, Danny Avila, Joshwa and Marie Vaunt and 2 more. See dates, start times and who's playing. 4120-4140 Woodward Avenue; Detroit, MI 48201; United States.
 
@@ -18,4 +18,4 @@ Magic Stick is a music venue in Detroit listed on soundcheck. 5 upcoming gigs, w
 
 4120-4140 Woodward Avenue; Detroit, MI 48201; United States, Detroit
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/magic-stick/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/magic-stick/)*

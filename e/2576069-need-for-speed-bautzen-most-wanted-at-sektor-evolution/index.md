@@ -1,6 +1,6 @@
 # Need For Speed -bautzen most wanted- at Sektor Evolution
 
-Need For Speed -bautzen most wanted- at Sektor Evolution on Sat 21 Nov, Dresden. 3 artists: IDA, Kojote and Zara. Techno. See the line-up on soundcheck.
+Need For Speed -bautzen most wanted- at Sektor Evolution on Sat 21 Nov, Dresden. 2 artists: Kojote and Zara. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ Need For Speed -bautzen most wanted- at Sektor Evolution on Sat 21 Nov, Dresden.
 
 ## Line-up
 
-- IDA
 - Kojote
 - Zara
 

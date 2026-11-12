@@ -1,6 +1,6 @@
 # DJ Slimey
 
-DJ Slimey is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TV Lounge, Detroit on Sat, 28 Nov 2026.
+DJ Slimey is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TV Lounge, Detroit on Sat, 28 Nov 2026.
 
 DJ Slimey is a house and techno artist based in United States of America, with 8 gigs on soundcheck across Detroit, New York City and Philadelphia. Often billed alongside Teeyam, John Barera and 888lambchop. Next up: TV Lounge, Detroit on Sat 28 Nov.
 
@@ -24,4 +24,4 @@ DJ Slimey is a house and techno artist based in United States of America, with 8
 
 Teeyam, John Barera, 888lambchop
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djslimey/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djslimey/)*

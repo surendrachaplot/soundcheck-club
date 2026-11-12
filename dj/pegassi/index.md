@@ -1,6 +1,6 @@
 # Pegassi
 
-Pegassi is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Centre Point, Dublin on Fri, 13 Nov 2026.
+Pegassi is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Centre Point, Dublin on Fri, 13 Nov 2026.
 
 Pegassi is a techno and trance artist based in Belgium, with 204 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Barcelona and 65 more. Often billed alongside Helena Lauwaert, Mischluft and Anetha. Next up: Centre Point, Dublin on Fri 13 Nov.
 
@@ -33,4 +33,4 @@ Pegassi is a techno and trance artist based in Belgium, with 204 gigs on soundch
 
 Helena Lauwaert, Mischluft, Anetha
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pegassi/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pegassi/)*

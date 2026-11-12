@@ -1,6 +1,6 @@
 # Bagerziev
 
-Bagerziev is a Tech House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at One Gallery, Sofia on Sat, 28 Nov 2026.
+Bagerziev is a Tech House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at One Gallery, Sofia on Sat, 28 Nov 2026.
 
 Bagerziev is a tech house and progressive house artist based in Bulgaria, with 15 gigs on soundcheck across Sofia. Often billed alongside Peppou, Pavel Petrov and Tini Gessler. Next up: One Gallery, Sofia on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Bagerziev is a tech house and progressive house artist based in Bulgaria, with 1
 
 Peppou, Pavel Petrov, Tini Gessler
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bagerziev/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bagerziev/)*

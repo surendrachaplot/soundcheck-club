@@ -1,8 +1,8 @@
 # Eiger Studios
 
-Eiger Studios is a music venue in Leeds with 11 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Limousine Dream: Secrets Launch Party [Gene On Earth + Wallace]" on Thu, 12 Nov 2026.
+Eiger Studios is a music venue in Leeds with 12 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Limousine Dream: Secrets Launch Party [Gene On Earth + Wallace]" on Thu, 12 Nov 2026.
 
-Eiger Studios is a music venue in Leeds listed on soundcheck. 11 upcoming gigs, with line-ups including basic chanel, Benny Bysouth, Bobby. and BUTCHABOI and 2 more. See dates, start times and who's playing. Unit 1, Fairfield House, New Craven Gate Industrial Estate, Leeds, LS11 5NF.
+Eiger Studios is a music venue in Leeds listed on soundcheck. 12 upcoming gigs, with line-ups including basic chanel, Benny Bysouth, Bobby. and BUTCHABOI and 2 more. See dates, start times and who's playing. Unit 1, Fairfield House, New Craven Gate Industrial Estate, Leeds, LS11 5NF.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Eiger Studios is a music venue in Leeds listed on soundcheck. 11 upcoming gigs, 
 
 Unit 1, Fairfield House, New Craven Gate Industrial Estate, Leeds, LS11 5NF, Leeds
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/eiger-studios/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/eiger-studios/)*

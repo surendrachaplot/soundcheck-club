@@ -1,14 +1,15 @@
 # Andie
 
-Andie is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Bar Datcha, Montreal on Thu, 12 Nov 2026.
+Andie is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Bar Datcha, Montreal on Thu, 12 Nov 2026.
 
-Andie is a house and disco artist based in Canada, with 36 gigs on soundcheck across Montreal and Tokyo. Often billed alongside BisouBizou, Ferias and Alina (MTL). Next up: Bar Datcha, Montreal on Thu 12 Nov.
+Andie is a house and disco artist based in Canada, with 37 gigs on soundcheck across Montreal and Tokyo. Often billed alongside BisouBizou, Ferias and Alina (MTL). Next up: Bar Datcha, Montreal on Thu 12 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 12 Nov 2026 | Bar Datcha | Montreal |
+| Sat, 14 Nov 2026 | Sans Soleil | Montreal |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Andie is a house and disco artist based in Canada, with 36 gigs on soundcheck ac
 
 BisouBizou, Ferias, Alina (MTL)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andie/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andie/)*

@@ -1,6 +1,6 @@
 # DEFEO
 
-DEFEO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Loopy, Hangzhou on Sat, 14 Nov 2026.
+DEFEO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Loopy, Hangzhou on Sat, 14 Nov 2026.
 
 DEFEO is a techno and house artist based in Italy, with 13 gigs on soundcheck across Amsterdam, Beijing, Berlin and Chengdu and 3 more. Often billed alongside Agressør, AlBird and Amøn. Next up: Loopy, Hangzhou on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ DEFEO is a techno and house artist based in Italy, with 13 gigs on soundcheck ac
 
 Agressør, AlBird, Amøn
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/defeo/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/defeo/)*

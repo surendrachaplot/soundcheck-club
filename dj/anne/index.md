@@ -1,6 +1,6 @@
 # ANNĒ
 
-ANNĒ is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Gotec, Karlsruhe on Fri, 13 Nov 2026.
+ANNĒ is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Gotec, Karlsruhe on Fri, 13 Nov 2026.
 
 ANNĒ is a techno and house artist based in Greece, with 223 gigs on soundcheck across Alicante, Amsterdam, Antwerp and Athens and 74 more. Often billed alongside SHDW, Sera J and Alarico. Next up: Gotec, Karlsruhe on Fri 13 Nov.
 
@@ -36,4 +36,4 @@ ANNĒ is a techno and house artist based in Greece, with 223 gigs on soundcheck 
 
 SHDW, Sera J, Alarico
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anne/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anne/)*

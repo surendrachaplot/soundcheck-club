@@ -1,6 +1,6 @@
 # Fleur Shore
 
-Fleur Shore is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Warehouse ZRH, Zurich on Sat, 14 Nov 2026.
+Fleur Shore is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Warehouse ZRH, Zurich on Sat, 14 Nov 2026.
 
 Fleur Shore is a house and tech house artist based in United Kingdom, with 200 gigs on soundcheck across Amsterdam, Bali, Barcelona and Basel and 49 more. Often billed alongside Jamie Jones, Archie Hamilton and Prunk. Next up: Warehouse ZRH, Zurich on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Fleur Shore is a house and tech house artist based in United Kingdom, with 200 g
 
 Jamie Jones, Archie Hamilton, Prunk
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fleurshore/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fleurshore/)*

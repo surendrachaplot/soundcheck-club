@@ -1,6 +1,6 @@
 # Sicion
 
-Sicion is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at AMT, Berlin on Sat, 21 Nov 2026.
+Sicion is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at AMT, Berlin on Sat, 21 Nov 2026.
 
 Sicion is a techno and house artist based in France, with 59 gigs on soundcheck across Amsterdam, Bali, Berlin and Brussels and 15 more. Often billed alongside Maris Shilton, KUSS and Mara Menace. Next up: AMT, Berlin on Sat 21 Nov.
 
@@ -30,4 +30,4 @@ Sicion is a techno and house artist based in France, with 59 gigs on soundcheck 
 
 Maris Shilton, KUSS, Mara Menace
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sicion/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sicion/)*

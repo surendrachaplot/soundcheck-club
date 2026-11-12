@@ -1,6 +1,6 @@
 # Mayro
 
-Mayro is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA, Uruguay on Mon, 21 Dec 2026.
+Mayro is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA, Uruguay on Mon, 21 Dec 2026.
 
 Mayro is a progressive house and techno artist based in Argentina, with 30 gigs on soundcheck across Amsterdam, Barcelona, Budapest and Buenos Aires and 9 more. Often billed alongside DJ Ruby, John Cosani and Dowden. Next up: TBA, Uruguay on Mon 21 Dec.
 
@@ -25,4 +25,4 @@ Mayro is a progressive house and techno artist based in Argentina, with 30 gigs 
 
 DJ Ruby, John Cosani, Dowden
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mayro/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mayro/)*

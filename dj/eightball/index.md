@@ -1,6 +1,6 @@
 # Eightball
 
-Eightball is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Turtur, Hamburg on Sat, 28 Nov 2026.
+Eightball is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Turtur, Hamburg on Sat, 28 Nov 2026.
 
 Eightball is a drum & bass and bass artist based in Germany, with 25 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Fibe, Sindicate and duaba. Next up: Turtur, Hamburg on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Eightball is a drum & bass and bass artist based in Germany, with 25 gigs on sou
 
 Fibe, Sindicate, duaba
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eightball/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eightball/)*

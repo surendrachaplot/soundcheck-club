@@ -1,6 +1,6 @@
 # Quarters
 
-Quarters is a music venue in Brighton with 10 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Yung Sing + RIRIA" on Fri, 13 Nov 2026.
+Quarters is a music venue in Brighton with 10 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Yung Sing + RIRIA" on Fri, 13 Nov 2026.
 
 Quarters is a music venue in Brighton listed on soundcheck. 10 upcoming gigs, with line-ups including Acid Carbon, Anaïs, Ben Hemsley and Degs and 2 more. See dates, start times and who's playing. 187-193 Kings Road, Brighton, BN1 1NB.
 
@@ -23,4 +23,4 @@ Quarters is a music venue in Brighton listed on soundcheck. 10 upcoming gigs, wi
 
 187-193 Kings Road, Brighton, BN1 1NB, Brighton
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/quarters/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/quarters/)*

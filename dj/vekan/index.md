@@ -1,6 +1,6 @@
 # Vekan
 
-Vekan is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Bajo Mundo, Mexico City on Fri, 4 Dec 2026.
+Vekan is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Bajo Mundo, Mexico City on Fri, 4 Dec 2026.
 
 Vekan is a techno and trance artist based in Mexico, with 17 gigs on soundcheck across Mexico City. Often billed alongside Praqqa, Umvral and Deenia. Next up: Bajo Mundo, Mexico City on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Vekan is a techno and trance artist based in Mexico, with 17 gigs on soundcheck 
 
 Praqqa, Umvral, Deenia
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vekan/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vekan/)*

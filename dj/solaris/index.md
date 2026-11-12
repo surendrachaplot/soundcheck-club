@@ -1,6 +1,6 @@
 # Solaris
 
-Solaris is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Sun, 20 Dec 2026.
+Solaris is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Sun, 20 Dec 2026.
 
 Solaris is a house and techno artist based in Germany, with 31 gigs on soundcheck across Berlin, Birmingham, Cologne and Ibiza and 4 more. Often billed alongside NAOKI, Jerry and Juni. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sun 20 Dec.
 
@@ -25,4 +25,4 @@ Solaris is a house and techno artist based in Germany, with 31 gigs on soundchec
 
 NAOKI, Jerry, Juni
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/solaris/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/solaris/)*

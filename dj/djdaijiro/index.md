@@ -1,6 +1,6 @@
 # DJ DAIJIRO
 
-DJ DAIJIRO is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at WOMB, Tokyo on Wed, 30 Dec 2026.
+DJ DAIJIRO is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at WOMB, Tokyo on Wed, 30 Dec 2026.
 
 DJ DAIJIRO is a techno and trance artist, with 10 gigs on soundcheck across Osaka and Tokyo. Often billed alongside Jun Jikooha, Kenji Okano and SUETSUGU. Next up: WOMB, Tokyo on Wed 30 Dec.
 
@@ -25,4 +25,4 @@ DJ DAIJIRO is a techno and trance artist, with 10 gigs on soundcheck across Osak
 
 Jun Jikooha, Kenji Okano, SUETSUGU
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdaijiro/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdaijiro/)*

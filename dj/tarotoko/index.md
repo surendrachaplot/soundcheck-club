@@ -1,6 +1,6 @@
 # TARO TOKO
 
-TARO TOKO is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at WOMB, Tokyo on Sun, 22 Nov 2026.
+TARO TOKO is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at WOMB, Tokyo on Sun, 22 Nov 2026.
 
 TARO TOKO is a tech house and techno artist based in Japan, with 40 gigs on soundcheck across Tokyo. Often billed alongside Louis Shannon, Rickey Shannon and DJ Yogurt. Next up: WOMB, Tokyo on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ TARO TOKO is a tech house and techno artist based in Japan, with 40 gigs on soun
 
 Louis Shannon, Rickey Shannon, DJ Yogurt
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tarotoko/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tarotoko/)*

@@ -1,6 +1,6 @@
 # Vittoria Wharf Studio
 
-Vittoria Wharf Studio is a music venue in London with 14 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Riley presents Get with The Program - London" on Sat, 14 Nov 2026.
+Vittoria Wharf Studio is a music venue in London with 14 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Riley presents Get with The Program - London" on Sat, 14 Nov 2026.
 
 Vittoria Wharf Studio is a music venue in London listed on soundcheck. 14 upcoming gigs, with line-ups including AKWA, Andrew Robertson, Basement Maxx and Bekefi and 2 more. See dates, start times and who's playing. Vittoria Wharf Yard, Hackney Wick, E3 2NT.
 
@@ -23,4 +23,4 @@ Vittoria Wharf Studio is a music venue in London listed on soundcheck. 14 upcomi
 
 Vittoria Wharf Yard, Hackney Wick, E3 2NT, London
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/vittoria-wharf-studio/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/vittoria-wharf-studio/)*

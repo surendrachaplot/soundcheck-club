@@ -1,13 +1,14 @@
 # Lou Nour
 
-Lou Nour is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Brussels, Brussels on Sat, 21 Nov 2026.
+Lou Nour is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Genesis Cinema, London on Tue, 17 Nov 2026.
 
-Lou Nour is a techno and bass artist based in United Kingdom, with 14 gigs on soundcheck across Berlin, Bristol, Brussels and Copenhagen and 6 more. Often billed alongside SICARIA, Ahadadream and Alexi Shell. Next up: TBA - Brussels, Brussels on Sat 21 Nov.
+Lou Nour is a techno and bass artist based in United Kingdom, with 15 gigs on soundcheck across Berlin, Bristol, Brussels and Copenhagen and 6 more. Often billed alongside SICARIA, Ahadadream and Alexi Shell. Next up: Genesis Cinema, London on Tue 17 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Tue, 17 Nov 2026 | Genesis Cinema | London |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
 | Sat, 29 May 2027 | Ashton Court Estate | Bristol |
 
@@ -26,4 +27,4 @@ Lou Nour is a techno and bass artist based in United Kingdom, with 14 gigs on so
 
 SICARIA, Ahadadream, Alexi Shell
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lounour/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lounour/)*

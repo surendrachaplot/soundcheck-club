@@ -1,0 +1,17 @@
+# Million Goods
+
+Million Goods is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "DJ STEPDAD" on Thu, 12 Nov 2026.
+
+Million Goods is a music venue in New York City listed on soundcheck. 1 upcoming gig, with line-ups including DJ STEPDAD. See dates, start times and who's playing. 88 Franklin Street, Brooklyn, NY 11222.
+
+## What's on
+
+| Date | Gig | Line-up |
+| --- | --- | --- |
+| Thu, 12 Nov 2026 | DJ STEPDAD | DJ STEPDAD |
+
+## Address
+
+88 Franklin Street, Brooklyn, NY 11222, New York City
+
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/million-goods/)*

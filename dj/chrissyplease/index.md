@@ -1,6 +1,6 @@
 # Chrissy Please
 
-Chrissy Please is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Midway, San Francisco/Oakland on Sat, 12 Dec 2026.
+Chrissy Please is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Midway, San Francisco/Oakland on Sat, 12 Dec 2026.
 
 Chrissy Please is a house and bass artist, with 12 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Decibel, Camillionaire and DWATA. Next up: The Midway, San Francisco/Oakland on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Chrissy Please is a house and bass artist, with 12 gigs on soundcheck across San
 
 Decibel, Camillionaire, DWATA
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrissyplease/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrissyplease/)*

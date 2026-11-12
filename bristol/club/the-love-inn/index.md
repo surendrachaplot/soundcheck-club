@@ -1,6 +1,6 @@
 # The Love Inn
 
-The Love Inn is a music venue in Bristol with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "OMBRAR 'The Stairs' - Listening Party + live sets" on Fri, 20 Nov 2026.
+The Love Inn is a music venue in Bristol with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "OMBRAR 'The Stairs' - Listening Party + live sets" on Fri, 20 Nov 2026.
 
 The Love Inn is a music venue in Bristol listed on soundcheck. 5 upcoming gigs, with line-ups including Field Case, Ido Plumes, Jay Duncan and Mylo Harvey and 2 more. See dates, start times and who's playing. 84 Stokes Croft, Stokes Croft, Bristol, BS1 3QY, United Kingdom.
 
@@ -18,4 +18,4 @@ The Love Inn is a music venue in Bristol listed on soundcheck. 5 upcoming gigs, 
 
 84 Stokes Croft, Stokes Croft, Bristol, BS1 3QY, United Kingdom, Bristol
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-love-inn/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-love-inn/)*

@@ -1,6 +1,6 @@
 # Rimaye
 
-Rimaye is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Pickle, Miami on Thu, 3 Dec 2026.
+Rimaye is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Pickle, Miami on Thu, 3 Dec 2026.
 
 Rimaye is a house and techno artist based in Germany, with 50 gigs on soundcheck across Amsterdam, Guadalajara, Ibiza and Mexico City and 4 more. Often billed alongside Inbal, Puma (US) and Terence Tabeau. Next up: The Pickle, Miami on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Rimaye is a house and techno artist based in Germany, with 50 gigs on soundcheck
 
 Inbal, Puma (US), Terence Tabeau
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rimaye/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rimaye/)*

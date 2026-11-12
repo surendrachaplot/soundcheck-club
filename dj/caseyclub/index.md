@@ -1,6 +1,6 @@
 # Casey Club
 
-Casey Club is a Dubstep and Bass artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Clock Factory, Bristol on Sat, 21 Nov 2026.
+Casey Club is a Dubstep and Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Clock Factory, Bristol on Sat, 21 Nov 2026.
 
 Casey Club is a dubstep and bass artist based in United Kingdom, with 19 gigs on soundcheck across Brighton, Bristol, Detroit and Florida and 6 more. Often billed alongside Flava D, HerShe and A Little Sound. Next up: The Clock Factory, Bristol on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ Casey Club is a dubstep and bass artist based in United Kingdom, with 19 gigs on
 
 Flava D, HerShe, A Little Sound
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caseyclub/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caseyclub/)*

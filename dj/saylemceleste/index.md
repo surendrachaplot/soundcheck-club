@@ -1,13 +1,14 @@
 # saylem celeste
 
-saylem celeste is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TV Lounge, Detroit on Sat, 28 Nov 2026.
+saylem celeste is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Marble Bar, Detroit on Sat, 21 Nov 2026.
 
-saylem celeste is a techno and house artist based in United States of America, with 16 gigs on soundcheck across Detroit and New York City. Often billed alongside Shigeto, Kenjiro and Turtle Bugg. Next up: TV Lounge, Detroit on Sat 28 Nov.
+saylem celeste is a techno and house artist based in United States of America, with 17 gigs on soundcheck across Detroit and New York City. Often billed alongside Shigeto, Kenjiro and Turtle Bugg. Next up: Marble Bar, Detroit on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | Marble Bar | Detroit |
 | Sat, 28 Nov 2026 | TV Lounge | Detroit |
 
 ## Recently played
@@ -25,4 +26,4 @@ saylem celeste is a techno and house artist based in United States of America, w
 
 Shigeto, Kenjiro, Turtle Bugg
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saylemceleste/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saylemceleste/)*

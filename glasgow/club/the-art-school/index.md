@@ -1,6 +1,6 @@
 # The Art School
 
-The Art School is a music venue in Glasgow with 9 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "DUB CLUB: Crucial Roots & Hometown Sound System" on Thu, 19 Nov 2026.
+The Art School is a music venue in Glasgow with 9 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "DUB CLUB: Crucial Roots & Hometown Sound System" on Thu, 19 Nov 2026.
 
 The Art School is a music venue in Glasgow listed on soundcheck. 9 upcoming gigs, with line-ups including BCee, Bristol Luke, Crucial Roots and Dilemma and 2 more. See dates, start times and who's playing. 20 Scott Street, Glasgow, G3 6RQ, Scotland, United Kingdom.
 
@@ -22,4 +22,4 @@ The Art School is a music venue in Glasgow listed on soundcheck. 9 upcoming gigs
 
 20 Scott Street, Glasgow, G3 6RQ, Scotland, United Kingdom, Glasgow
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-art-school/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-art-school/)*

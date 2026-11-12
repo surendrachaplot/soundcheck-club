@@ -1,6 +1,6 @@
 # Rick Sharma
 
-Rick Sharma is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Check Confirmation, Calgary on Fri, 4 Dec 2026.
+Rick Sharma is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Check Confirmation, Calgary on Fri, 4 Dec 2026.
 
 Rick Sharma is a techno and house artist based in Canada, with 29 gigs on soundcheck across Calgary, Los Angeles, Mexico City and Vancouver. Often billed alongside Angel Science, Bingsoo in the club and Jack Ryan. Next up: TBA - Check Confirmation, Calgary on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Rick Sharma is a techno and house artist based in Canada, with 29 gigs on soundc
 
 Angel Science, Bingsoo in the club, Jack Ryan
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ricksharma/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ricksharma/)*

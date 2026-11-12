@@ -1,6 +1,6 @@
 # Home The Venue
 
-Home The Venue is a music venue in Sydney with 14 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "DARK Sydney" on Fri, 27 Nov 2026.
+Home The Venue is a music venue in Sydney with 14 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "DARK Sydney" on Fri, 27 Nov 2026.
 
 Home The Venue is a music venue in Sydney listed on soundcheck. 14 upcoming gigs, with line-ups including Aline Rocha, Daria Kolosova, Electra and FUMI and 2 more. See dates, start times and who's playing. 101 Wheat Rd; Darling Harbour, NSW 2000; Australia.
 
@@ -23,4 +23,4 @@ Home The Venue is a music venue in Sydney listed on soundcheck. 14 upcoming gigs
 
 101 Wheat Rd; Darling Harbour, NSW 2000; Australia, Sydney
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/home-the-venue/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/home-the-venue/)*

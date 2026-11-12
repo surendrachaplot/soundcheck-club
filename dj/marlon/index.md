@@ -1,6 +1,6 @@
 # Marlon
 
-Marlon is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at NQ JPN, London on Sat, 21 Nov 2026.
+Marlon is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at NQ JPN, London on Sat, 21 Nov 2026.
 
 Marlon is a house and tech house artist, with 17 gigs on soundcheck across Basel, Berlin, Detroit and Ibiza and 2 more. Often billed alongside Gianni Callipari, Comzy and Michel Sacher. Next up: NQ JPN, London on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Marlon is a house and tech house artist, with 17 gigs on soundcheck across Basel
 
 Gianni Callipari, Comzy, Michel Sacher
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marlon/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marlon/)*

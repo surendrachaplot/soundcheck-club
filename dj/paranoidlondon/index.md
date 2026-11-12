@@ -1,8 +1,8 @@
 # Paranoid London
 
-Paranoid London is a Techno and Acid artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Plaza Monumental de Barcelona, Barcelona on Sat, 14 Nov 2026.
+Paranoid London is a Techno and Acid artist with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Plaza Monumental de Barcelona, Barcelona on Sat, 14 Nov 2026.
 
-Paranoid London is a techno and acid artist based in United Kingdom, with 133 gigs on soundcheck across Amsterdam, Antwerp, Athens and Baltimore and 48 more. Often billed alongside Palms Trax, Soul Clap and Elena Colombi. Next up: Plaza Monumental de Barcelona, Barcelona on Sat 14 Nov.
+Paranoid London is a techno and acid artist based in United Kingdom, with 134 gigs on soundcheck across Amsterdam, Antwerp, Athens and Baltimore and 48 more. Often billed alongside Palms Trax, Soul Clap and Elena Colombi. Next up: Plaza Monumental de Barcelona, Barcelona on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Paranoid London is a techno and acid artist based in United Kingdom, with 133 gi
 | Sat, 14 Nov 2026 | Plaza Monumental de Barcelona | Barcelona |
 | Sat, 21 Nov 2026 | FOLD | London |
 | Sat, 28 Nov 2026 | Jasna 1 | Warsaw |
+| Sat, 5 Dec 2026 | Stereo | Montreal |
 | Thu, 19 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
@@ -28,4 +29,4 @@ Paranoid London is a techno and acid artist based in United Kingdom, with 133 gi
 
 Palms Trax, Soul Clap, Elena Colombi
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paranoidlondon/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paranoidlondon/)*

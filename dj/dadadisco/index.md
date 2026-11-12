@@ -1,6 +1,6 @@
 # DADADISCO
 
-DADADISCO is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Georgia Bar, Berlin on Thu, 12 Nov 2026.
+DADADISCO is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Georgia Bar, Berlin on Thu, 12 Nov 2026.
 
 DADADISCO is a house and disco artist based in Germany, with 31 gigs on soundcheck across Barcelona, Berlin, Istanbul and Lisbon and 3 more. Often billed alongside Frozilla, Johannes Albert and Ady Toledano. Next up: Georgia Bar, Berlin on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ DADADISCO is a house and disco artist based in Germany, with 31 gigs on soundche
 
 Frozilla, Johannes Albert, Ady Toledano
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dadadisco/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dadadisco/)*

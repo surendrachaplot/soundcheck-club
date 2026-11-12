@@ -1,6 +1,6 @@
 # Comzy
 
-Comzy is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Nordstern, Basel on Thu, 31 Dec 2026.
+Comzy is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Nordstern, Basel on Thu, 31 Dec 2026.
 
 Comzy is a tech house and techno artist based in Switzerland, with 18 gigs on soundcheck across Basel and Zurich. Often billed alongside Michel Sacher, Gianni Callipari and Kaleiko. Next up: Nordstern, Basel on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Comzy is a tech house and techno artist based in Switzerland, with 18 gigs on so
 
 Michel Sacher, Gianni Callipari, Kaleiko
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/comzy/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/comzy/)*

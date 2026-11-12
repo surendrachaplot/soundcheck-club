@@ -1,14 +1,15 @@
 # Malissa
 
-Malissa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Commune, Liverpool on Thu, 19 Nov 2026.
+Malissa is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Commune, Liverpool on Thu, 19 Nov 2026.
 
-Malissa is a house and techno artist based in United Kingdom, with 43 gigs on soundcheck across Bangkok, Brighton, Edinburgh and Liverpool and 2 more. Often billed alongside Aly P, Jacinta and Beat Detective. Next up: Commune, Liverpool on Thu 19 Nov.
+Malissa is a house and techno artist based in United Kingdom, with 44 gigs on soundcheck across Bangkok, Brighton, Edinburgh and Liverpool and 2 more. Often billed alongside Aly P, Jacinta and Beat Detective. Next up: Commune, Liverpool on Thu 19 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 19 Nov 2026 | Commune | Liverpool |
+| Sat, 30 Jan 2027 | Invisible Wind Factory | Liverpool |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Malissa is a house and techno artist based in United Kingdom, with 43 gigs on so
 
 Aly P, Jacinta, Beat Detective
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/malissa-uk/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/malissa-uk/)*

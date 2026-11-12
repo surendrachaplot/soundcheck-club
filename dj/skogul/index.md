@@ -1,6 +1,6 @@
 # Skögul
 
-Skögul is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Rugs*, Beijing on Sat, 14 Nov 2026.
+Skögul is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Rugs*, Beijing on Sat, 14 Nov 2026.
 
 Skögul is a techno and trance artist based in China, with 95 gigs on soundcheck across Beijing, Chengdu, Shanghai and Tokyo. Often billed alongside W.X.M, SØA and S.M.S.H. Next up: Rugs*, Beijing on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Skögul is a techno and trance artist based in China, with 95 gigs on soundcheck
 
 W.X.M, SØA (1), S.M.S.H
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skogul/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skogul/)*

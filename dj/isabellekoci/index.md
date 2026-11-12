@@ -1,14 +1,15 @@
 # Isabelle Koci
 
-Isabelle Koci is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Concept Haus, Manchester on Sat, 21 Nov 2026.
+Isabelle Koci is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Concept Haus, Manchester on Sat, 21 Nov 2026.
 
-Isabelle Koci is a house and tech house artist based in United Kingdom, with 21 gigs on soundcheck across Amsterdam, Leeds, London and Manchester and 1 more. Often billed alongside Reeshy, Julian Anthony and Bobby O'Donnell. Next up: Concept Haus, Manchester on Sat 21 Nov.
+Isabelle Koci is a house and tech house artist based in United Kingdom, with 22 gigs on soundcheck across Amsterdam, Leeds, London and Manchester and 1 more. Often billed alongside Reeshy, Julian Anthony and Bobby O'Donnell. Next up: Concept Haus, Manchester on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Concept Haus | Manchester |
+| Sat, 19 Dec 2026 | Hidden | Manchester |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Isabelle Koci is a house and tech house artist based in United Kingdom, with 21 
 
 Reeshy, Julian Anthony, Bobby O'Donnell
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/isabellekoci/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/isabellekoci/)*

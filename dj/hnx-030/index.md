@@ -1,6 +1,6 @@
 # HNX (030)
 
-HNX (030) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at 119, Berlin on Fri, 27 Nov 2026.
+HNX (030) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at 119, Berlin on Fri, 27 Nov 2026.
 
 HNX is a techno and house artist based in Germany, with 24 gigs on soundcheck across Berlin. Often billed alongside Eric Brwn, UWE! and Daddycation. Next up: 119, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ HNX is a techno and house artist based in Germany, with 24 gigs on soundcheck ac
 
 Eric Brwn, UWE!, Daddycation
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hnx-030/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hnx-030/)*

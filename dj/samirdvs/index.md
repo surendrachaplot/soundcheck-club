@@ -1,6 +1,6 @@
 # Samir (DVS)
 
-Samir (DVS) is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Greyhound, London on Thu, 12 Nov 2026.
+Samir (DVS) is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Greyhound, London on Thu, 12 Nov 2026.
 
 Samir (DVS) is a house and tech house artist based in United Kingdom, with 18 gigs on soundcheck across London. Often billed alongside D1 x Samir (DVS), FrezZ and mark shadow. Next up: The Greyhound, London on Thu 12 Nov.
 
@@ -27,4 +27,4 @@ Samir (DVS) is a house and tech house artist based in United Kingdom, with 18 gi
 
 D1 x Samir (DVS), FrezZ, mark shadow
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samirdvs/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samirdvs/)*

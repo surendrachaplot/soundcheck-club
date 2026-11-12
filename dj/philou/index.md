@@ -1,6 +1,6 @@
 # Philou
 
-Philou is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Lion's Den, Miami on Wed, 2 Dec 2026.
+Philou is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Lion's Den, Miami on Wed, 2 Dec 2026.
 
 Philou is a house and techno artist based in France, with 56 gigs on soundcheck across Amsterdam, Berlin, Brussels and Copenhagen and 15 more. Often billed alongside Chambord, Daniel Weil and Victoire. Next up: Lion's Den, Miami on Wed 2 Dec.
 
@@ -25,4 +25,4 @@ Philou is a house and techno artist based in France, with 56 gigs on soundcheck 
 
 Chambord, Daniel Weil, Victoire
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/philou/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/philou/)*

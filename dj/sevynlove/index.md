@@ -1,6 +1,6 @@
 # Sevyn Love
 
-Sevyn Love is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Ticket Holders Only, New York City on Sun, 15 Nov 2026.
+Sevyn Love is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Ticket Holders Only, New York City on Sun, 15 Nov 2026.
 
 Sevyn Love is a techno and house artist based in United States of America, with 82 gigs on soundcheck across New York City and Philadelphia. Often billed alongside DJPT, Will Jack and DJ DEADNAME. Next up: TBA - Ticket Holders Only, New York City on Sun 15 Nov.
 
@@ -28,4 +28,4 @@ Sevyn Love is a techno and house artist based in United States of America, with 
 
 DJPT, Will Jack, DJ DEADNAME
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sevynlove/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sevynlove/)*

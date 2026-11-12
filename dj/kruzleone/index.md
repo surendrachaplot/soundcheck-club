@@ -1,6 +1,6 @@
 # Kruz Leone
 
-Kruz Leone is a Grime and UK Funky artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Fox and Firkin, London on Thu, 12 Nov 2026.
+Kruz Leone is a Grime and UK Funky artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Fox and Firkin, London on Thu, 12 Nov 2026.
 
 Kruz Leone is a grime and uk funky artist based in United Kingdom, with 15 gigs on soundcheck across Amsterdam and London. Often billed alongside Duppy, Logan_olm and CHAMBER45. Next up: The Fox and Firkin, London on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Kruz Leone is a grime and uk funky artist based in United Kingdom, with 15 gigs 
 
 Duppy, Logan_olm, CHAMBER45
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kruzleone/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kruzleone/)*

@@ -1,6 +1,6 @@
 # Galiba
 
-Galiba is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Miscellania, Melbourne on Sun, 22 Nov 2026.
+Galiba is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Miscellania, Melbourne on Sun, 22 Nov 2026.
 
 Galiba is a bass and techno artist based in Australia, with 18 gigs on soundcheck across Melbourne, New South Wales and Sydney. Often billed alongside anusha, lenna and Killian. Next up: Miscellania, Melbourne on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ Galiba is a bass and techno artist based in Australia, with 18 gigs on soundchec
 
 anusha, lenna, Killian
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/galiba-au/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/galiba-au/)*

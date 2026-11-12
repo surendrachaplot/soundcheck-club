@@ -1,6 +1,6 @@
 # DJ Tracksuit
 
-DJ Tracksuit is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Doka, Amsterdam on Fri, 13 Nov 2026.
+DJ Tracksuit is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Doka, Amsterdam on Fri, 13 Nov 2026.
 
 DJ Tracksuit is a house and disco artist based in Belgium, with 74 gigs on soundcheck across Amsterdam, Antwerp, Belgrade and Berlin and 9 more. Often billed alongside Shady Lady, EG and Abiba Sokoto. Next up: Doka, Amsterdam on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ DJ Tracksuit is a house and disco artist based in Belgium, with 74 gigs on sound
 
 Shady Lady, EG (1), Abiba Sokoto
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djtracksuit/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djtracksuit/)*

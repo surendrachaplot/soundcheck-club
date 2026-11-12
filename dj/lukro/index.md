@@ -1,14 +1,15 @@
 # Lukrø
 
-Lukrø is a Latin Bass and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Meteoro, Barcelona on Thu, 19 Nov 2026.
+Lukrø is a Latin Bass and Reggaeton artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Meteoro, Barcelona on Thu, 19 Nov 2026.
 
-Lukrø is a latin bass and reggaeton artist based in Peru, with 35 gigs on soundcheck across Antwerp, Barcelona, Berlin and Bogotá and 9 more. Often billed alongside QECHUABOi, Vitu Valera and Bony Fly. Next up: Meteoro, Barcelona on Thu 19 Nov.
+Lukrø is a latin bass and reggaeton artist based in Peru, with 36 gigs on soundcheck across Antwerp, Barcelona, Berlin and Bogotá and 9 more. Often billed alongside QECHUABOi, Vitu Valera and Bony Fly. Next up: Meteoro, Barcelona on Thu 19 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 19 Nov 2026 | Meteoro | Barcelona |
+| Sat, 5 Dec 2026 | KABUL à GoGo | Utrecht |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Lukrø is a latin bass and reggaeton artist based in Peru, with 35 gigs on sound
 
 QECHUABOi, Vitu Valera, Bony Fly
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukro/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukro/)*

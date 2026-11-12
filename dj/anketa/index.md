@@ -1,6 +1,6 @@
 # Anketa
 
-Anketa is a Dancehall and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Tbili Orgia, Tbilisi on Sun, 22 Nov 2026.
+Anketa is a Dancehall and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Tbili Orgia, Tbilisi on Sun, 22 Nov 2026.
 
 Anketa is a dancehall and ghetto tech artist based in Georgia, with 21 gigs on soundcheck across Tbilisi. Often billed alongside Tbili orgia, Vazhmarr and ORBITA. Next up: Tbili Orgia, Tbilisi on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ Anketa is a dancehall and ghetto tech artist based in Georgia, with 21 gigs on s
 
 Tbili orgia, Vazhmarr, ORBITA
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anketa/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anketa/)*

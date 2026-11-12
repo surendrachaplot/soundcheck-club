@@ -1,6 +1,6 @@
 # Goat (JP)
 
-Goat (JP) is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Loco Klub, Bristol on Thu, 12 Nov 2026.
+Goat (JP) is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Loco Klub, Bristol on Thu, 12 Nov 2026.
 
 Goat (JP) is an experimental and techno artist based in Japan, with 18 gigs on soundcheck across Berlin, Bristol, Brussels and Copenhagen and 8 more. Often billed alongside Alva Noto, Arsenal Mikebe and Nicola Cruz. Next up: The Loco Klub, Bristol on Thu 12 Nov.
 
@@ -26,4 +26,4 @@ Goat (JP) is an experimental and techno artist based in Japan, with 18 gigs on s
 
 Alva Noto, Arsenal Mikebe, Nicola Cruz
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/goatjp/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/goatjp/)*

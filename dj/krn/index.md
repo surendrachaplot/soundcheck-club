@@ -1,14 +1,14 @@
 # KRN
 
-KRN is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Funkhaus, Vienna on Fri, 13 Nov 2026.
+KRN is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Funkhaus Wien, Vienna on Fri, 13 Nov 2026.
 
-KRN is a house and tech house artist based in United Kingdom, with 59 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 17 more. Often billed alongside The Ghost, Sugar Free and DJ Pipe. Next up: Funkhaus, Vienna on Fri 13 Nov.
+KRN is a house and tech house artist based in United Kingdom, with 59 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 17 more. Often billed alongside The Ghost, Sugar Free and DJ Pipe. Next up: Funkhaus Wien, Vienna on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Funkhaus | Vienna |
+| Fri, 13 Nov 2026 | Funkhaus Wien | Vienna |
 | Sat, 14 Nov 2026 | The Glove That Fits | London |
 | Sun, 20 Dec 2026 | Bar Shrimp | Manchester |
 | Fri, 1 Jan 2027 | The Carpet Shop | London |
@@ -28,4 +28,4 @@ KRN is a house and tech house artist based in United Kingdom, with 59 gigs on so
 
 The Ghost, Sugar Free, DJ Pipe
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krn/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krn/)*

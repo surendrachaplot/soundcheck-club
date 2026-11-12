@@ -1,6 +1,6 @@
 # Romeo
 
-Romeo is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Royal Caribbean Cruise Ship, Miami on Thu, 21 Jan 2027.
+Romeo is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Royal Caribbean Cruise Ship, Miami on Thu, 21 Jan 2027.
 
 Romeo is a house and club artist based in Indonesia, with 28 gigs on soundcheck across Barcelona, Berlin, Birmingham and London and 4 more. Often billed alongside Max E Groove, Mr Fresh Official and NYCity Soundz. Next up: Royal Caribbean Cruise Ship, Miami on Thu 21 Jan.
 
@@ -26,4 +26,4 @@ Romeo is a house and club artist based in Indonesia, with 28 gigs on soundcheck 
 
 Max E Groove, Mr Fresh Official, NYCity Soundz
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/romeo/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/romeo/)*

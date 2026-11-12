@@ -1,6 +1,6 @@
 # The Cause
 
-The Cause is a music venue in London with 28 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "club zer0 @ The Cause: sim0ne, Hiroko Yamamura, DJ Sarah Bonito + more" on Fri, 13 Nov 2026.
+The Cause is a music venue in London with 28 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "club zer0 @ The Cause: sim0ne, Hiroko Yamamura, DJ Sarah Bonito + more" on Fri, 13 Nov 2026.
 
 The Cause is a music venue in London listed on soundcheck. 28 upcoming gigs, with line-ups including 4000 Hz, ALLKNIGHT, Al Wootton and Because of Art and 2 more. See dates, start times and who's playing. 60 Dock Road, London, E16 1YZ.
 
@@ -23,4 +23,4 @@ The Cause is a music venue in London listed on soundcheck. 28 upcoming gigs, wit
 
 60 Dock Road, London, E16 1YZ, London
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-cause/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-cause/)*

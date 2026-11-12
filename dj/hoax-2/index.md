@@ -1,6 +1,6 @@
 # Hoax (UK)
 
-Hoax (UK) is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Melkweg, Amsterdam on Sat, 14 Nov 2026.
+Hoax (UK) is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Melkweg, Amsterdam on Sat, 14 Nov 2026.
 
 Hoax (UK) is a drum & bass and jungle artist based in United Kingdom, with 16 gigs on soundcheck across Amsterdam, Auckland, Brighton and Bristol and 7 more. Often billed alongside Nu:Tone, Danny Byrd and Fred V. Next up: Melkweg, Amsterdam on Sat 14 Nov.
 
@@ -28,4 +28,4 @@ Hoax (UK) is a drum & bass and jungle artist based in United Kingdom, with 16 gi
 
 Nu:Tone, Danny Byrd, Fred V
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hoax-2/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hoax-2/)*

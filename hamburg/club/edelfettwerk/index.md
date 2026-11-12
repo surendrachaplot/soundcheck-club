@@ -1,6 +1,6 @@
 # Edelfettwerk
 
-Edelfettwerk is a music venue in Hamburg with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Acid Reign Label Night" on Fri, 13 Nov 2026.
+Edelfettwerk is a music venue in Hamburg with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Acid Reign Label Night" on Fri, 13 Nov 2026.
 
 Edelfettwerk is a music venue in Hamburg listed on soundcheck. 5 upcoming gigs, with line-ups including A.N.I., Charleen Herzig, Eva Charley and HOOM and 2 more. See dates, start times and who's playing. Schnackenburgsallee 202, 22525 Hamburg.
 
@@ -18,4 +18,4 @@ Edelfettwerk is a music venue in Hamburg listed on soundcheck. 5 upcoming gigs, 
 
 Schnackenburgsallee 202, 22525 Hamburg, Hamburg
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/edelfettwerk/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/edelfettwerk/)*

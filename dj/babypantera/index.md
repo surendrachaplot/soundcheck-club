@@ -1,6 +1,6 @@
 # Baby Pantera
 
-Baby Pantera is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Razzmatazz, Barcelona on Fri, 27 Nov 2026.
+Baby Pantera is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Razzmatazz, Barcelona on Fri, 27 Nov 2026.
 
 Baby Pantera is a techno and experimental artist, with 33 gigs on soundcheck across Barcelona, Berlin, Bristol and Brussels and 4 more. Often billed alongside Otis (BE), Gideo (ES) and Buttechno. Next up: Razzmatazz, Barcelona on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Baby Pantera is a techno and experimental artist, with 33 gigs on soundcheck acr
 
 Otis (BE), Gideo (ES), Buttechno
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babypantera/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babypantera/)*

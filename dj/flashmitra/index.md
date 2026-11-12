@@ -1,6 +1,6 @@
 # Flash Mitra
 
-Flash Mitra is a Acid and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Club Cheek, London on Fri, 13 Nov 2026.
+Flash Mitra is a Acid and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Club Cheek, London on Fri, 13 Nov 2026.
 
 Flash Mitra is an acid and house artist based in United Kingdom, with 48 gigs on soundcheck across Edinburgh, Glasgow, Leeds and London and 2 more. Often billed alongside Ellie Anderson, Pharaoh Brunson and Torin Grady. Next up: Club Cheek, London on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Flash Mitra is an acid and house artist based in United Kingdom, with 48 gigs on
 
 Ellie Anderson, Pharaoh Brunson, Torin Grady
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flashmitra/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flashmitra/)*

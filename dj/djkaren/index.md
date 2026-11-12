@@ -1,6 +1,6 @@
 # DJ Karen
 
-DJ Karen is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Avant Garten, Buenos Aires on Tue, 17 Nov 2026.
+DJ Karen is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Avant Garten, Buenos Aires on Tue, 17 Nov 2026.
 
 DJ Karen is an afro house and house artist based in Argentina, with 59 gigs on soundcheck across Buenos Aires. Often billed alongside Gulp, Djs Pareja and Pabels. Next up: Avant Garten, Buenos Aires on Tue 17 Nov.
 
@@ -26,4 +26,4 @@ DJ Karen is an afro house and house artist based in Argentina, with 59 gigs on s
 
 Gulp, Djs Pareja, Pabels
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djkaren/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djkaren/)*

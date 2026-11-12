@@ -1,6 +1,6 @@
 # Andrea Cossu
 
-Andrea Cossu is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Campidarte Sardegna, Central on Sun, 22 Nov 2026.
+Andrea Cossu is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Campidarte Sardegna, Central on Sun, 22 Nov 2026.
 
 Andrea Cossu is a techno and ambient artist based in Italy, with 20 gigs on soundcheck across Berlin, Brussels, Central and Lisbon and 2 more. Often billed alongside Hypnotic Black Magic, Andrea Ferlin and Rg. Next up: Campidarte Sardegna, Central on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ Andrea Cossu is a techno and ambient artist based in Italy, with 20 gigs on soun
 
 Hypnotic Black Magic, Andrea Ferlin, Rg
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andreacossu/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andreacossu/)*

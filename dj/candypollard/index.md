@@ -1,6 +1,6 @@
 # Candy Pollard
 
-Candy Pollard is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Secret Location, Berlin on Fri, 20 Nov 2026.
+Candy Pollard is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Secret Location, Berlin on Fri, 20 Nov 2026.
 
 Candy Pollard is a house and techno artist based in Germany, with 28 gigs on soundcheck across Berlin, Frankfurt, Mexico City and Munich and 1 more. Often billed alongside Ady Toledano, DJ Floppy Disk and David Hornung. Next up: TBA - Secret Location, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Candy Pollard is a house and techno artist based in Germany, with 28 gigs on sou
 
 Ady Toledano, DJ Floppy Disk, David Hornung
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/candypollard/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/candypollard/)*

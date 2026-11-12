@@ -1,6 +1,6 @@
 # Shelter Amsterdam
 
-Shelter Amsterdam is a music venue in Amsterdam with 15 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Shelter presents: OG Records" on Fri, 13 Nov 2026.
+Shelter Amsterdam is a music venue in Amsterdam with 15 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Shelter presents: OG Records" on Fri, 13 Nov 2026.
 
 Shelter Amsterdam is a music venue in Amsterdam listed on soundcheck. 15 upcoming gigs, with line-ups including AJ Christou, Alec Dienaar, Ammé and Andrea Oliva and 2 more. See dates, start times and who's playing. Overhoeksplein 3, 1031KS, Amsterdam.
 
@@ -23,4 +23,4 @@ Shelter Amsterdam is a music venue in Amsterdam listed on soundcheck. 15 upcomin
 
 Overhoeksplein 3, 1031KS, Amsterdam, Amsterdam
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/shelter-amsterdam/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/shelter-amsterdam/)*

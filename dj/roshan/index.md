@@ -1,6 +1,6 @@
 # Roshan
 
-Roshan is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Kyo KL, Kuala Lumpur on Thu, 19 Nov 2026.
+Roshan is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Kyo KL, Kuala Lumpur on Thu, 19 Nov 2026.
 
 Roshan is a house and techno artist based in Malaysia, with 77 gigs on soundcheck across Hanoi, Kuala Lumpur, Leeds and Melbourne and 3 more. Often billed alongside JonnyVicious, LZZY and Axel Groove. Next up: Kyo KL, Kuala Lumpur on Thu 19 Nov.
 
@@ -26,4 +26,4 @@ Roshan is a house and techno artist based in Malaysia, with 77 gigs on soundchec
 
 JonnyVicious, LZZY, Axel Groove
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roshan/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roshan/)*

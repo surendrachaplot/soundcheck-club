@@ -1,6 +1,6 @@
 # Lexx (BE)
 
-Lexx (BE) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Cercle Royal Gaulois, Belgium on Sun, 15 Nov 2026.
+Lexx (BE) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Cercle Royal Gaulois, Belgium on Sun, 15 Nov 2026.
 
 Lexx (BE) is a house and electro artist based in Belgium, with 24 gigs on soundcheck across Antwerp, Belgium, Brussels and Düsseldorf and 1 more. Often billed alongside AJNA, Jonathan Kaspar and Nico Morano. Next up: Cercle Royal Gaulois, Belgium on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Lexx (BE) is a house and electro artist based in Belgium, with 24 gigs on soundc
 
 AJNA, Jonathan Kaspar, Nico Morano
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lexxbe/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lexxbe/)*

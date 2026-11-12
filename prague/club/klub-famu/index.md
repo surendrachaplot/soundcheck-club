@@ -1,6 +1,6 @@
 # Klub Famu
 
-Klub Famu is a music venue in Prague with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "CASH ONLY Invites: Lockerz [UK]" on Fri, 20 Nov 2026.
+Klub Famu is a music venue in Prague with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "CASH ONLY Invites: Lockerz [UK]" on Fri, 20 Nov 2026.
 
 Klub Famu is a music venue in Prague listed on soundcheck. 1 upcoming gig, with line-ups including Yachym. See dates, start times and who's playing. Smetanovo nábř. 2, 110 00 Praha 1-Staré Město, Czechia.
 
@@ -14,4 +14,4 @@ Klub Famu is a music venue in Prague listed on soundcheck. 1 upcoming gig, with 
 
 Smetanovo nábř. 2, 110 00 Praha 1-Staré Město, Czechia, Prague
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/klub-famu/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/klub-famu/)*

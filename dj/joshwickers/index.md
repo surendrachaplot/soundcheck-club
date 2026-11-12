@@ -1,6 +1,6 @@
 # Josh Wickers
 
-Josh Wickers is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at All My Friends, London on Sat, 21 Nov 2026.
+Josh Wickers is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at All My Friends, London on Sat, 21 Nov 2026.
 
 Josh Wickers is a house and garage artist based in United Kingdom, with 18 gigs on soundcheck across London. Often billed alongside George Askaroff, Bridger Ryland and Blatant Suspects. Next up: All My Friends, London on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Josh Wickers is a house and garage artist based in United Kingdom, with 18 gigs 
 
 George Askaroff, Bridger Ryland, Blatant Suspects
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshwickers/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshwickers/)*

@@ -1,6 +1,6 @@
 # pa de haan.
 
-pa de haan. is a Club and Footwork artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Cakeshop, Seoul on Sat, 28 Nov 2026.
+pa de haan. is a Club and Footwork artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Cakeshop, Seoul on Sat, 28 Nov 2026.
 
 pa de haan. is a club and footwork artist, with 22 gigs on soundcheck across Beijing, Chengdu, London and Seoul and 1 more. Often billed alongside LFT (KR), benny wise and AC (dot robot). Next up: Cakeshop, Seoul on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ pa de haan. is a club and footwork artist, with 22 gigs on soundcheck across Bei
 
 LFT (KR), benny wise, AC (dot robot)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/padehaan./)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/padehaan./)*

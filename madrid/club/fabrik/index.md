@@ -1,6 +1,6 @@
 # Fabrik
 
-Fabrik is a music venue in Madrid with 8 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "CODE 23 Anniversary: La Trilogía [Part II]" on Sat, 14 Nov 2026.
+Fabrik is a music venue in Madrid with 8 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "CODE 23 Anniversary: La Trilogía [Part II]" on Sat, 14 Nov 2026.
 
 Fabrik is a music venue in Madrid listed on soundcheck. 8 upcoming gigs, with line-ups including 999999999, Paolo Ferrara, Abel Ramos and Adrian Mills and 2 more. See dates, start times and who's playing. Av. de la Industria 82, 28970 Humanes de Madrid, Spain.
 
@@ -21,4 +21,4 @@ Fabrik is a music venue in Madrid listed on soundcheck. 8 upcoming gigs, with li
 
 Av. de la Industria 82, 28970 Humanes de Madrid, Spain, Madrid
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/fabrik/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/fabrik/)*

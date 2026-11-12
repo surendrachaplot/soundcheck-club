@@ -1,6 +1,6 @@
 # Kat_Es
 
-Kat_Es is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Minimal Bar, Berlin on Wed, 25 Nov 2026.
+Kat_Es is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Minimal Bar, Berlin on Wed, 25 Nov 2026.
 
 Kat_Es is a house and deep house artist based in Poland, with 48 gigs on soundcheck across Berlin and Leipzig. Often billed alongside La Terrasse, Eva Crystaltips and Lobo (DE). Next up: Minimal Bar, Berlin on Wed 25 Nov.
 
@@ -26,4 +26,4 @@ Kat_Es is a house and deep house artist based in Poland, with 48 gigs on soundch
 
 La Terrasse, Eva Crystaltips, Lobo (DE)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kat_es/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kat_es/)*

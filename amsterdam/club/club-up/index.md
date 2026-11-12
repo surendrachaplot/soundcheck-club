@@ -1,6 +1,6 @@
 # Club Up
 
-Club Up is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Alt Baile with DJ Saze" on Fri, 13 Nov 2026.
+Club Up is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Alt Baile with DJ Saze" on Fri, 13 Nov 2026.
 
 Club Up is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. Korte Leidsedwarsstraat 26-1; 1017  Binnenstad; Amsterdam; Netherlands.
 
@@ -15,4 +15,4 @@ Club Up is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs. See
 
 Korte Leidsedwarsstraat 26-1; 1017  Binnenstad; Amsterdam; Netherlands, Amsterdam
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-up/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-up/)*

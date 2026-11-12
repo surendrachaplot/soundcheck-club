@@ -1,6 +1,6 @@
 # Another George
 
-Another George is a Funk / Soul and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Two More Years, London on Sat, 12 Dec 2026.
+Another George is a Funk / Soul and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Two More Years, London on Sat, 12 Dec 2026.
 
 Another George is a funk / soul and disco artist based in United Kingdom, with 26 gigs on soundcheck across London. Often billed alongside Charles Burrows, Late Night Disco and Rob Alldritt. Next up: Two More Years, London on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Another George is a funk / soul and disco artist based in United Kingdom, with 2
 
 Charles Burrows, Late Night Disco, Rob Alldritt
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anothergeorge/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anothergeorge/)*

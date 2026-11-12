@@ -1,6 +1,6 @@
 # DJ Angel (1)
 
-DJ Angel (1) is a Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Mia Mao, Paris on Thu, 26 Nov 2026.
+DJ Angel (1) is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Mia Mao, Paris on Thu, 26 Nov 2026.
 
 DJ Angel is a techno artist based in India, with 20 gigs on soundcheck across Berlin and Paris. Often billed alongside Charlotte Newman, Ekonopolis and Ketarina. Next up: Mia Mao, Paris on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ DJ Angel is a techno artist based in India, with 20 gigs on soundcheck across Be
 
 Charlotte Newman, Ekonopolis, Ketarina
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djangel-1/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djangel-1/)*

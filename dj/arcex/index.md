@@ -1,0 +1,28 @@
+# ArceX
+
+ArceX is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Laboratorio Octogon, Madrid on Fri, 13 Nov 2026.
+
+ArceX is a techno and industrial artist based in Spain, with 31 gigs on soundcheck across Barcelona, Madrid, Malaga and Manchester. Often billed alongside Adviro, Selecta (ES) and Koalaz. Next up: Laboratorio Octogon, Madrid on Fri 13 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 13 Nov 2026 | Laboratorio Octogon | Madrid |
+
+## Recently played
+
+- París 15, Malaga · Sat, 7 Nov 2026
+- M7 Club, Barcelona · Fri, 9 Oct 2026
+- M7 Club, Barcelona · Sat, 26 Sept 2026
+- Fabrik, Madrid · Sat, 12 Sept 2026
+- TBA - TERMINAL SABADELL, Barcelona · Thu, 10 Sept 2026
+- M7 Club, Barcelona · Sat, 15 Aug 2026
+- Stage and Radio, Manchester · Sat, 25 Jul 2026
+- M7 Club, Barcelona · Sat, 18 Jul 2026
+
+## Shares bills with
+
+Adviro, Selecta (ES), Koalaz
+
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arcex/)*

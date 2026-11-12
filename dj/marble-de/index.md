@@ -1,6 +1,6 @@
 # Marble
 
-Marble is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA, Stockholm on Fri, 13 Nov 2026.
+Marble is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA, Stockholm on Fri, 13 Nov 2026.
 
 Marble is a garage and house artist based in Sweden, with 43 gigs on soundcheck across Berlin, Copenhagen, Gothenburg and Malmo and 1 more. Often billed alongside dj døden, Malin Edvardsen and Boj Lucki. Next up: TBA, Stockholm on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Marble is a garage and house artist based in Sweden, with 43 gigs on soundcheck 
 
 dj døden, Malin Edvardsen, Boj Lucki
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marble-de/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marble-de/)*

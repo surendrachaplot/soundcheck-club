@@ -1,10 +1,10 @@
 # LA LUNA x Dear Darling Mayfair: Chapter Two at Dear Darling
 
-LA LUNA x Dear Darling Mayfair: Chapter Two on Sat 5 Dec, London. 2 artists: Abrahamsson and Arian Saravi. House and Tech House. See the line-up on soundcheck.
+LA LUNA x Dear Darling Mayfair: Chapter Two on Fri 11 Dec, London. 2 artists: Abrahamsson and Arian Saravi. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 5 Dec 2026 |
+| Date | Fri, 11 Dec 2026 |
 | Venue | Dear Darling |
 | City | London |
 

@@ -1,6 +1,6 @@
 # Ridney
 
-Ridney is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Horns Inn, Southampton on Fri, 27 Nov 2026.
+Ridney is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Horns Inn, Southampton on Fri, 27 Nov 2026.
 
 Ridney is a house and disco artist based in United Kingdom, with 8 gigs on soundcheck across Amsterdam, Ibiza, London and Midlands and 1 more. Often billed alongside Black Legend, Doctor Feelgood and Allister Whitehead. Next up: Horns Inn, Southampton on Fri 27 Nov.
 
@@ -24,4 +24,4 @@ Ridney is a house and disco artist based in United Kingdom, with 8 gigs on sound
 
 Black Legend, Doctor Feelgood, Allister Whitehead
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ridney/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ridney/)*

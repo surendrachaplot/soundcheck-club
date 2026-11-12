@@ -1,6 +1,6 @@
 # Arch 535
 
-Arch 535 is a music venue in London with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "The Dance Starts At Home" on Thu, 12 Nov 2026.
+Arch 535 is a music venue in London with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "The Dance Starts At Home" on Thu, 12 Nov 2026.
 
 Arch 535 is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Acid Jesse, Murf and Samantha Blackburn. See dates, start times and who's playing. Arch 535, Orphans Yard, Brixton Station Rd, London SW9 8QB.
 
@@ -15,4 +15,4 @@ Arch 535 is a music venue in London listed on soundcheck. 2 upcoming gigs, with 
 
 Arch 535, Orphans Yard, Brixton Station Rd, London SW9 8QB, London
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/arch-535/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/arch-535/)*

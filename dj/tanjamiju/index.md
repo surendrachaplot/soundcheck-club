@@ -1,14 +1,15 @@
 # TANJA MIJU
 
-TANJA MIJU is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Fusion Club, Münster on Fri, 20 Nov 2026.
+TANJA MIJU is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Fusion Club, Münster on Fri, 20 Nov 2026.
 
-TANJA MIJU is a techno and trance artist based in Germany, with 81 gigs on soundcheck across Berlin, Budapest, Cologne and Dortmund / Essen and 21 more. Often billed alongside Johannes Schuster, Neon Graveyard and O.B.I. (DE). Next up: Fusion Club, Münster on Fri 20 Nov.
+TANJA MIJU is a techno and trance artist based in Germany, with 82 gigs on soundcheck across Berlin, Budapest, Cologne and Dortmund / Essen and 21 more. Often billed alongside Johannes Schuster, Neon Graveyard and O.B.I. (DE). Next up: Fusion Club, Münster on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Fusion Club | Münster |
+| Sat, 19 Dec 2026 | OST | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ TANJA MIJU is a techno and trance artist based in Germany, with 81 gigs on sound
 
 Johannes Schuster, Neon Graveyard, O.B.I. (DE)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tanjamiju/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tanjamiju/)*

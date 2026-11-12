@@ -1,14 +1,14 @@
 # Bar Oriente
 
-Bar Oriente is a music venue in Mexico City with 8 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "EUROMXNTIC: IRONBOARD, Gohtobi B2B H3kkta, Lucifxr, JDHH" on Wed, 11 Nov 2026.
+Bar Oriente is a music venue in Mexico City with 8 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "La Idea Records" on Thu, 12 Nov 2026.
 
-Bar Oriente is a music venue in Mexico City listed on soundcheck. 8 upcoming gigs, with line-ups including Alatriste, Andre VII, Avant-Garde Institute and calypso and 2 more. See dates, start times and who's playing. Calle de Durango 181, Roma Nte., 06700 Ciudad de MÃ©xico, CDMX.
+Bar Oriente is a music venue in Mexico City listed on soundcheck. 8 upcoming gigs, with line-ups including Alatriste, Andre VII, Avant-Garde Institute and BigFish and 2 more. See dates, start times and who's playing. Calle de Durango 181, Roma Nte., 06700 Ciudad de MÃ©xico, CDMX.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 11 Nov 2026 | EUROMXNTIC: IRONBOARD, Gohtobi B2B H3kkta, Lucifxr, JDHH | Gohtobi, H3kkta, IRONBOARD, Lucifxr |
+| Thu, 12 Nov 2026 | La Idea Records | BigFish, Renton |
 | Fri, 13 Nov 2026 | 25 Years of Roam w/Jason Peters, Mijo, Ximena | Jason Peters, Mijo |
 | Fri, 13 Nov 2026 | 25 Years of Roam w/Jason Peters, Mijo, Ximena | Jason Peters, Mijo |
 | Thu, 19 Nov 2026 | PRANA MUSIK & TROPIKO REC |  |
@@ -21,4 +21,4 @@ Bar Oriente is a music venue in Mexico City listed on soundcheck. 8 upcoming gig
 
 Calle de Durango 181, Roma Nte., 06700 Ciudad de MÃ©xico, CDMX, Mexico City
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/bar-oriente/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/bar-oriente/)*

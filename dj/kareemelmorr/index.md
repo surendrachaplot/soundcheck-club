@@ -1,6 +1,6 @@
 # Kareem El Morr
 
-Kareem El Morr is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Legal, Munich on Sat, 28 Nov 2026.
+Kareem El Morr is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Legal, Munich on Sat, 28 Nov 2026.
 
 Kareem El Morr is a techno and house artist based in Germany, with 45 gigs on soundcheck across Amsterdam, Dortmund / Essen, Munich and Tbilisi. Often billed alongside Polygonia, VSSL and Muallem. Next up: Legal, Munich on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Kareem El Morr is a techno and house artist based in Germany, with 45 gigs on so
 
 Polygonia, VSSL, Muallem
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kareemelmorr/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kareemelmorr/)*

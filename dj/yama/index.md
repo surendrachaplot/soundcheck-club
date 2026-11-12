@@ -1,6 +1,6 @@
 # Yama
 
-Yama is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Mitsuki, Tokyo on Fri, 27 Nov 2026.
+Yama is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Mitsuki, Tokyo on Fri, 27 Nov 2026.
 
 Yama is a house and techno artist based in United States of America, with 22 gigs on soundcheck across Berlin, Kyoto, Okinawa and Osaka and 2 more. Often billed alongside MASA, DJ Nobu and Iori. Next up: Mitsuki, Tokyo on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Yama is a house and techno artist based in United States of America, with 22 gig
 
 MASA, DJ Nobu, Iori
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yama/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yama/)*

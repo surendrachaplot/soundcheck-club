@@ -1,6 +1,6 @@
 # Hyenah
 
-Hyenah is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Onyx Room at House of Yes, New York City on Fri, 27 Nov 2026.
+Hyenah is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Onyx Room at House of Yes, New York City on Fri, 27 Nov 2026.
 
 Hyenah is a house and afro house artist based in Cayman Islands, with 42 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 13 more. Often billed alongside Walter Griot, Ukãi Ndame and JANE RYSE. Next up: The Onyx Room at House of Yes, New York City on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Hyenah is a house and afro house artist based in Cayman Islands, with 42 gigs on
 
 Walter Griot, Ukãi Ndame, JANE RYSE
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hyenah/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hyenah/)*

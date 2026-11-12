@@ -1,6 +1,6 @@
 # Hannah D
 
-Hannah D is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Solace, Melbourne on Sat, 14 Nov 2026.
+Hannah D is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Solace, Melbourne on Sat, 14 Nov 2026.
 
 Hannah D is a house and techno artist based in Australia, with 166 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Berlin and 15 more. Often billed alongside DJ Luv You, suki and Bex. Next up: Solace, Melbourne on Sat 14 Nov.
 
@@ -28,4 +28,4 @@ Hannah D is a house and techno artist based in Australia, with 166 gigs on sound
 
 DJ Luv You, suki, Bex
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahd/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahd/)*

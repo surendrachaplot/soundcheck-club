@@ -1,6 +1,6 @@
 # Azumai
 
-Azumai is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at HVEN, Tokyo on Fri, 13 Nov 2026.
+Azumai is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at HVEN, Tokyo on Fri, 13 Nov 2026.
 
 Azumai is a drum & bass and bass artist based in Japan, with 34 gigs on soundcheck across Hong Kong, Taipei and Tokyo. Often billed alongside Fonts, SAKO and VECSILLE. Next up: HVEN, Tokyo on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Azumai is a drum & bass and bass artist based in Japan, with 34 gigs on soundche
 
 Fonts, SAKO, VECSILLE
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/azumai/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/azumai/)*

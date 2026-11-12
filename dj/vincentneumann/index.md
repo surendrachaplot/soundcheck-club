@@ -1,14 +1,15 @@
 # Vincent Neumann
 
-Vincent Neumann is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Climax-Institutes, Stuttgart on Sat, 21 Nov 2026.
+Vincent Neumann is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Climax-Institutes, Stuttgart on Sat, 21 Nov 2026.
 
-Vincent Neumann is a techno and house artist based in Germany, with 77 gigs on soundcheck across Amsterdam, Berlin, Bogotá and Cologne and 15 more. Often billed alongside Amotik, Virginia and Efdemin. Next up: Climax-Institutes, Stuttgart on Sat 21 Nov.
+Vincent Neumann is a techno and house artist based in Germany, with 78 gigs on soundcheck across Amsterdam, Berlin, Bogotá and Cologne and 16 more. Often billed alongside Amotik, Virginia and Efdemin. Next up: Climax-Institutes, Stuttgart on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Climax-Institutes | Stuttgart |
+| Fri, 27 Nov 2026 | ANTIA | Netherlands |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Vincent Neumann is a techno and house artist based in Germany, with 77 gigs on s
 
 Amotik, Virginia, Efdemin
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vincentneumann/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vincentneumann/)*

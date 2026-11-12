@@ -1,6 +1,6 @@
 # UROK
 
-UROK is a Electro and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Samis Bar, Athens on Fri, 20 Nov 2026.
+UROK is a Electro and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Samis Bar, Athens on Fri, 20 Nov 2026.
 
 UROK is an electro and experimental artist based in Iraq, with 13 gigs on soundcheck across Athens and Barcelona. Often billed alongside kvadosh, 3Phaz and A. Square. Next up: Samis Bar, Athens on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ UROK is an electro and experimental artist based in Iraq, with 13 gigs on soundc
 
 kvadosh, 3Phaz, A. Square
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/urok/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/urok/)*

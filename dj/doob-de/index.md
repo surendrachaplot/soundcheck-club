@@ -1,6 +1,6 @@
 # doob
 
-doob is a Downtempo and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Jonny Knüppel, Berlin on Sat, 14 Nov 2026.
+doob is a Downtempo and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Jonny Knüppel, Berlin on Sat, 14 Nov 2026.
 
 doob is a downtempo and techno artist based in Germany, with 38 gigs on soundcheck across Bangkok, Berlin, Copenhagen and Hamburg and 2 more. Often billed alongside Janoma, Sascha Cawa and Borella. Next up: Jonny Knüppel, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ doob is a downtempo and techno artist based in Germany, with 38 gigs on soundche
 
 Janoma, Sascha Cawa, Borella
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doob-de/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doob-de/)*

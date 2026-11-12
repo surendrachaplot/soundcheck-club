@@ -1,6 +1,6 @@
 # LSG (3)
 
-LSG (3) is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Lokschuppen Berlin, Berlin on Wed, 16 Dec 2026.
+LSG (3) is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Lokschuppen Berlin, Berlin on Wed, 16 Dec 2026.
 
 LSG is a trance and techno artist based in Germany, with 7 gigs on soundcheck across Berlin, Cologne and Hamburg. Often billed alongside Amøn, DICE and DJ Achim Feuervogel. Next up: Lokschuppen Berlin, Berlin on Wed 16 Dec.
 
@@ -23,4 +23,4 @@ LSG is a trance and techno artist based in Germany, with 7 gigs on soundcheck ac
 
 Amøn, DICE, DJ Achim Feuervogel
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lsg-3/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lsg-3/)*

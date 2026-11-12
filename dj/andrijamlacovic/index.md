@@ -1,6 +1,6 @@
 # Andrija Mlacovic
 
-Andrija Mlacovic is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at SASS Music Club, Vienna on Thu, 12 Nov 2026.
+Andrija Mlacovic is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at SASS Music Club, Vienna on Thu, 12 Nov 2026.
 
 Andrija Mlacovic is a house and electro artist based in Croatia, with 6 gigs on soundcheck across Vienna and Zagreb. Often billed alongside Grenco, Bronski and Cevi. Next up: SASS Music Club, Vienna on Thu 12 Nov.
 
@@ -22,4 +22,4 @@ Andrija Mlacovic is a house and electro artist based in Croatia, with 6 gigs on 
 
 Grenco, Bronski, Cevi
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andrijamlacovic/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andrijamlacovic/)*

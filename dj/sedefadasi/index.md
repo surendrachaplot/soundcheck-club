@@ -1,6 +1,6 @@
 # Sedef Adasï
 
-Sedef Adasï is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Kaiku, Helsinki on Fri, 13 Nov 2026.
+Sedef Adasï is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Kaiku, Helsinki on Fri, 13 Nov 2026.
 
 Sedef Adasï is a techno and house artist based in Turkey, with 318 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 74 more. Often billed alongside BASHKKA, Gabrielle Kwarteng and Job Jobse. Next up: Kaiku, Helsinki on Fri 13 Nov.
 
@@ -34,4 +34,4 @@ Sedef Adasï is a techno and house artist based in Turkey, with 318 gigs on soun
 
 BASHKKA, Gabrielle Kwarteng, Job Jobse
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sedefadasi/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sedefadasi/)*

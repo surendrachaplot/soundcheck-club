@@ -1,14 +1,15 @@
 # Inu G
 
-Inu G is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Kunst Block Balve, Munich on Sat, 14 Nov 2026.
+Inu G is a Electro and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Kunst Block Balve, Munich on Sat, 14 Nov 2026.
 
-Inu G is a house and electro artist based in Germany, with 34 gigs on soundcheck across Barcelona, Berlin and Munich. Often billed alongside Elpawel, DJLolo and Dolan. Next up: Kunst Block Balve, Munich on Sat 14 Nov.
+Inu G is an electro and house artist based in Germany, with 35 gigs on soundcheck across Barcelona, Berlin and Munich. Often billed alongside Elpawel, DJLolo and Dolan. Next up: Kunst Block Balve, Munich on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Kunst Block Balve | Munich |
+| Thu, 26 Nov 2026 | Rote Sonne | Munich |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Inu G is a house and electro artist based in Germany, with 34 gigs on soundcheck
 
 Elpawel, DJLolo, Dolan
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inug/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inug/)*

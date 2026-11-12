@@ -1,13 +1,13 @@
 # TBA - Nine
 
-TBA - Nine is a music venue in Detroit with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "Day/Care" on Sun, 29 Nov 2026.
+TBA - Nine is a music venue in Detroit with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "Day/Care" on Sun, 29 Nov 2026.
 
-TBA - Nine is a music venue in Detroit listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
+TBA - Nine is a music venue in Detroit listed on soundcheck. 1 upcoming gig, with line-ups including DJ Hemlok and Kikitosaurio. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 29 Nov 2026 | Day/Care |  |
+| Sun, 29 Nov 2026 | Day/Care | DJ Hemlok, Kikitosaurio |
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tba-nine/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tba-nine/)*

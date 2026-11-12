@@ -1,6 +1,6 @@
 # Nicole
 
-Nicole is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Collect LX Factory, Lisbon on Fri, 20 Nov 2026.
+Nicole is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Collect LX Factory, Lisbon on Fri, 20 Nov 2026.
 
 Nicole is an electronica and house artist based in Croatia, with 20 gigs on soundcheck across Barcelona, Berlin, Lisbon and Milan and 3 more. Often billed alongside Bekuchi, Flaneur. and Chica Paula. Next up: Collect LX Factory, Lisbon on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Nicole is an electronica and house artist based in Croatia, with 20 gigs on soun
 
 Bekuchi, Flaneur., Chica Paula
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicole/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicole/)*

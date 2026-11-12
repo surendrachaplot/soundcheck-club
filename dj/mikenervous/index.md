@@ -1,6 +1,6 @@
 # Mike Nervous
 
-Mike Nervous is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Crown, New York City on Sat, 14 Nov 2026.
+Mike Nervous is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Crown, New York City on Sat, 14 Nov 2026.
 
 Mike Nervous is a house and tech house artist based in United States of America, with 49 gigs on soundcheck across Berlin, Chicago, Detroit and Ibiza and 4 more. Often billed alongside Benny Soto, Lazaro Casanova and Mandiz. Next up: The Crown, New York City on Sat 14 Nov.
 
@@ -28,4 +28,4 @@ Mike Nervous is a house and tech house artist based in United States of America,
 
 Benny Soto, Lazaro Casanova, Mandiz
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikenervous/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikenervous/)*

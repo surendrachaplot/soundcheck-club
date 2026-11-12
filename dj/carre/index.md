@@ -1,6 +1,6 @@
 # Carré
 
-Carré is a Bass and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Nowadays, New York City on Fri, 13 Nov 2026.
+Carré is a Bass and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Nowadays, New York City on Fri, 13 Nov 2026.
 
 Carré is a bass and techno artist based in United States of America, with 85 gigs on soundcheck across Amsterdam, Berlin, Bratislava and Brighton and 25 more. Often billed alongside Samwise (US), Darwin and Seyer (UK). Next up: Nowadays, New York City on Fri 13 Nov.
 
@@ -29,4 +29,4 @@ Carré is a bass and techno artist based in United States of America, with 85 gi
 
 Samwise (US), Darwin, Seyer (UK)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carre/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carre/)*

@@ -1,6 +1,6 @@
 # MADMAN (2)
 
-MADMAN (2) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Host, Thessaloniki on Sat, 14 Nov 2026.
+MADMAN (2) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Host, Thessaloniki on Sat, 14 Nov 2026.
 
 MADMAN is a techno and trance artist, with 30 gigs on soundcheck across Berlin, Hamburg, Hannover and Istanbul and 5 more. Often billed alongside AEREA, L-AUX and future.666. Next up: The Host, Thessaloniki on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ MADMAN is a techno and trance artist, with 30 gigs on soundcheck across Berlin, 
 
 AEREA, L-AUX, future.666
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/madman-2/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/madman-2/)*

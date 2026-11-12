@@ -1,6 +1,6 @@
 # Wisarut
 
-Wisarut is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Bar Temp., Bangkok on Sat, 21 Nov 2026.
+Wisarut is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Bar Temp., Bangkok on Sat, 21 Nov 2026.
 
 Wisarut is a techno and electronica artist based in Thailand, with 16 gigs on soundcheck across Bangkok. Often billed alongside DJ Krit Morton, DukeDumb and Mayuu. Next up: Bar Temp., Bangkok on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Wisarut is a techno and electronica artist based in Thailand, with 16 gigs on so
 
 DJ Krit Morton, DukeDumb, Mayuu
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wisarut/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wisarut/)*

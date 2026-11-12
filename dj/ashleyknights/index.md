@@ -1,6 +1,6 @@
 # Ashley Knights
 
-Ashley Knights is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Steel Yard, London on Sat, 19 Dec 2026.
+Ashley Knights is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Steel Yard, London on Sat, 19 Dec 2026.
 
 Ashley Knights is a deep house and house artist based in United Kingdom, with 14 gigs on soundcheck across Birmingham and London. Often billed alongside Iwizz, JAYDAA and K.Coleman. Next up: The Steel Yard, London on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Ashley Knights is a deep house and house artist based in United Kingdom, with 14
 
 Iwizz, JAYDAA, K.Coleman
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ashleyknights/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ashleyknights/)*

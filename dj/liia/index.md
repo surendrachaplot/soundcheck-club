@@ -1,6 +1,6 @@
 # LIIA
 
-LIIA is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Carousel Bar & Ballroom, Sydney on Fri, 27 Nov 2026.
+LIIA is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Carousel Bar & Ballroom, Sydney on Fri, 27 Nov 2026.
 
 LIIA is a techno and tech house artist based in Australia, with 60 gigs on soundcheck across Beijing, Bratislava, Melbourne and New South Wales and 1 more. Often billed alongside Bryan Ro, Manu Neves and Ravi Luchesi. Next up: Carousel Bar & Ballroom, Sydney on Fri 27 Nov.
 
@@ -28,4 +28,4 @@ LIIA is a techno and tech house artist based in Australia, with 60 gigs on sound
 
 Bryan Ro, Manu Neves, Ravi Luchesi
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/liia/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/liia/)*

@@ -1,6 +1,6 @@
 # Caterina Infinity
 
-Caterina Infinity is a Downtempo and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Flowranch, Quebec City on Sat, 12 Dec 2026.
+Caterina Infinity is a Downtempo and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Flowranch, Quebec City on Sat, 12 Dec 2026.
 
 Caterina Infinity is a downtempo and electro artist based in Canada, with 13 gigs on soundcheck across Barcelona, Mexico City, Montreal and Quebec City. Often billed alongside Don Mescal, Soul Of Zoo and Arteriam. Next up: Flowranch, Quebec City on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Caterina Infinity is a downtempo and electro artist based in Canada, with 13 gig
 
 Don Mescal, Soul Of Zoo, Arteriam
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caterinainfinity/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caterinainfinity/)*

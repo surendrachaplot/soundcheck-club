@@ -1,6 +1,6 @@
 # Moritz III
 
-Moritz III is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
+Moritz III is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
 
 Moritz III is a techno and electro artist based in Colombia, with 28 gigs on soundcheck across Amsterdam, Bogot, Bogotá and Colombia and 1 more. Often billed alongside Agua, Adi (CO) and JESUZ X. Next up: El Rio Hostel, Colombia on Wed 3 Mar.
 
@@ -25,4 +25,4 @@ Moritz III is a techno and electro artist based in Colombia, with 28 gigs on sou
 
 Agua, Adi (CO), JESUZ X
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moritziii/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moritziii/)*

@@ -1,6 +1,6 @@
 # Kyle Walker
 
-Kyle Walker is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at SILO, New York City on Fri, 1 Jan 2027.
+Kyle Walker is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at SILO, New York City on Fri, 1 Jan 2027.
 
 Kyle Walker is a house and tech house artist based in United States of America, with 57 gigs on soundcheck across Amsterdam, Austin, Boston and Chicago and 15 more. Often billed alongside Carlita, Chesster and Eli Brown. Next up: SILO, New York City on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Kyle Walker is a house and tech house artist based in United States of America, 
 
 Carlita, Chesster, Eli Brown
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kylewalker/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kylewalker/)*

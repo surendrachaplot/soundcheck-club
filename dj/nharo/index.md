@@ -1,0 +1,28 @@
+# nharo
+
+nharo is a Ambient and Drone artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Cosmos Campolide, Lisbon on Thu, 19 Nov 2026.
+
+nharo is an ambient and drone artist based in Portugal, with 12 gigs on soundcheck across Lisbon. Often billed alongside Mar710, Imberbe and Melina Blanco. Next up: Cosmos Campolide, Lisbon on Thu 19 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Thu, 19 Nov 2026 | Cosmos Campolide | Lisbon |
+
+## Recently played
+
+- Passevite, Lisbon · Thu, 17 Sept 2026
+- Outra Cena, Lisbon · Fri, 8 May 2026
+- Desterro, Lisbon · Sat, 17 Jan 2026
+- Passevite, Lisbon · Sun, 30 Nov 2025
+- Desterro, Lisbon · Fri, 24 Oct 2025
+- Damas, Lisbon · Fri, 26 Sept 2025
+- Cosmos Campolide, Lisbon · Sat, 20 Sept 2025
+- Ministerium Club, Lisbon · Fri, 29 Aug 2025
+
+## Shares bills with
+
+Mar710, Imberbe, Melina Blanco
+
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nharo/)*

@@ -1,6 +1,6 @@
 # Myriam Bleau
 
-Myriam Bleau is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Société des arts technologiques, Montreal on Thu, 12 Nov 2026.
+Myriam Bleau is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Société des arts technologiques, Montreal on Thu, 12 Nov 2026.
 
 Myriam Bleau is an experimental and techno artist based in Canada, with 14 gigs on soundcheck across Barcelona, Basel, Madrid and Mexico City and 3 more. Often billed alongside Aïsha Devi, Akazie and Alessandra Leone. Next up: Société des arts technologiques, Montreal on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Myriam Bleau is an experimental and techno artist based in Canada, with 14 gigs 
 
 Aïsha Devi, Akazie, Alessandra Leone
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/myriambleau/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/myriambleau/)*

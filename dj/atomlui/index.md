@@ -1,6 +1,6 @@
 # Atomlui
 
-Atomlui is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Turtur, Hamburg on Fri, 13 Nov 2026.
+Atomlui is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Turtur, Hamburg on Fri, 13 Nov 2026.
 
 Atomlui is a house and techno artist based in Germany, with 21 gigs on soundcheck across Berlin, Hamburg and Warsaw. Often billed alongside Antoine Baiser, Bombe and John Joses. Next up: Turtur, Hamburg on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Atomlui is a house and techno artist based in Germany, with 21 gigs on soundchec
 
 Antoine Baiser, Bombe, John Joses
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/atomlui/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/atomlui/)*

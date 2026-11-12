@@ -1,6 +1,6 @@
 # TBA - La huasteca
 
-TBA - La huasteca is a music venue in Monterrey with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "SACAS" on Sun, 15 Nov 2026.
+TBA - La huasteca is a music venue in Monterrey with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "SACAS" on Sun, 15 Nov 2026.
 
 TBA - La huasteca is a music venue in Monterrey listed on soundcheck. 1 upcoming gig, with line-ups including ALEXANDER COL. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - La huasteca is a music venue in Monterrey listed on soundcheck. 1 upcoming
 | --- | --- | --- |
 | Sun, 15 Nov 2026 | SACAS | ALEXANDER COL |
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/monterrey/club/tba-la-huasteca/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/monterrey/club/tba-la-huasteca/)*

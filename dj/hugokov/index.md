@@ -1,6 +1,6 @@
 # Hugo Kov
 
-Hugo Kov is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Macadam, Nantes on Sat, 6 Feb 2027.
+Hugo Kov is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Macadam, Nantes on Sat, 6 Feb 2027.
 
 Hugo Kov is a trance and techno artist based in France, with 16 gigs on soundcheck across Brussels and Nantes. Often billed alongside Discostouf, kedakeda and Heidy Fly. Next up: Macadam, Nantes on Sat 6 Feb.
 
@@ -25,4 +25,4 @@ Hugo Kov is a trance and techno artist based in France, with 16 gigs on soundche
 
 Discostouf, kedakeda, Heidy Fly
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hugokov/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hugokov/)*

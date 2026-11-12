@@ -1,6 +1,6 @@
 # DFUNKLUB
 
-DFUNKLUB is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Bridge 48, Barcelona on Fri, 20 Nov 2026.
+DFUNKLUB is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Bridge 48, Barcelona on Fri, 20 Nov 2026.
 
 DFUNKLUB is a house and electronica artist based in Argentina, with 8 gigs on soundcheck across Barcelona and Berlin. Often billed alongside Federico Molinari, Nekes and Lakeman. Next up: Bridge 48, Barcelona on Fri 20 Nov.
 
@@ -24,4 +24,4 @@ DFUNKLUB is a house and electronica artist based in Argentina, with 8 gigs on so
 
 Federico Molinari, Nekes, Lakeman
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dfunklub-ar/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dfunklub-ar/)*

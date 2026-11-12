@@ -1,6 +1,6 @@
 # Ivana
 
-Ivana is a House and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Thunupa Festival, Salar de Uyuni, Bolivia on Wed, 30 Dec 2026.
+Ivana is a House and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Thunupa Festival, Salar de Uyuni, Bolivia on Wed, 30 Dec 2026.
 
 Ivana is a house and drum & bass artist based in Spain, with 10 gigs on soundcheck across Barcelona, Berlin, Bolivia and Miami. Often billed alongside Lola Brennt, anna G and Agem. Next up: Thunupa Festival, Salar de Uyuni, Bolivia on Wed 30 Dec.
 
@@ -25,4 +25,4 @@ Ivana is a house and drum & bass artist based in Spain, with 10 gigs on soundche
 
 Lola Brennt, anna G, Agem
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ivana/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ivana/)*

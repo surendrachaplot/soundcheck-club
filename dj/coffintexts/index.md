@@ -1,6 +1,6 @@
 # Coffintexts
 
-Coffintexts is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Barn Radio, Portland on Fri, 13 Nov 2026.
+Coffintexts is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Barn Radio, Portland on Fri, 13 Nov 2026.
 
 Coffintexts is a techno and house artist based in United States of America, with 146 gigs on soundcheck across Amsterdam, Atlanta, Austin and Baltimore and 39 more. Often billed alongside Sister System, SATURNSARii and Berrakka. Next up: Barn Radio, Portland on Fri 13 Nov.
 
@@ -30,4 +30,4 @@ Coffintexts is a techno and house artist based in United States of America, with
 
 Sister System, SATURNSARii, Berrakka
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/coffintexts/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/coffintexts/)*

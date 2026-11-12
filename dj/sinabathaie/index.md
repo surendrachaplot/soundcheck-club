@@ -1,6 +1,6 @@
 # Sina Bathaie
 
-Sina Bathaie is a Downtempo and Deep House artist with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Vermont Hollywood, Los Angeles on Thu, 12 Nov 2026.
+Sina Bathaie is a Downtempo and Deep House artist with 7 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Vermont Hollywood, Los Angeles on Thu, 12 Nov 2026.
 
 Sina Bathaie is a downtempo and deep house artist based in Canada, with 116 gigs on soundcheck across Amsterdam, Athens, Atlanta and Auckland and 54 more. Often billed alongside DJ Joeski, Facundo Mohrr and Kora (CA). Next up: The Vermont Hollywood, Los Angeles on Thu 12 Nov.
 
@@ -18,6 +18,7 @@ Sina Bathaie is a downtempo and deep house artist based in Canada, with 116 gigs
 
 ## Recently played
 
+- Yost Theater, Orange-county · Wed, 11 Nov 2026
 - Hollywood Theatre, Vancouver · Mon, 9 Nov 2026
 - Phoenix Concert Theatre, Toronto · Sun, 8 Nov 2026
 - Club Soda, Montreal · Tue, 3 Nov 2026
@@ -25,10 +26,9 @@ Sina Bathaie is a downtempo and deep house artist based in Canada, with 116 gigs
 - Temple Athens, Athens · Tue, 15 Sept 2026
 - Largo Venue, Rome · Sun, 13 Sept 2026
 - Luz De Gas, Barcelona · Thu, 10 Sept 2026
-- Sala Independance Club, Madrid · Tue, 8 Sept 2026
 
 ## Shares bills with
 
 DJ Joeski, Facundo Mohrr, Kora (CA)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sinabathaie/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sinabathaie/)*

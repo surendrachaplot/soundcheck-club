@@ -1,6 +1,6 @@
 # fka boursin
 
-fka boursin is a Club and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Inverted Audio Record Store, London on Sat, 28 Nov 2026.
+fka boursin is a Club and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Inverted Audio Record Store, London on Sat, 28 Nov 2026.
 
 fka boursin is a club and deep house artist based in United Kingdom, with 12 gigs on soundcheck across Bristol, Brussels, Glasgow and London and 1 more. Often billed alongside Memotone, Nusheen and Saskia. Next up: Inverted Audio Record Store, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ fka boursin is a club and deep house artist based in United Kingdom, with 12 gig
 
 Memotone, Nusheen, Saskia
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fkaboursin/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fkaboursin/)*

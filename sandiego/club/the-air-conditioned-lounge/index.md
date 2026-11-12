@@ -1,6 +1,6 @@
 # The Air Conditioned Lounge
 
-The Air Conditioned Lounge is a music venue in San Diego with 5 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "House Music Fridays 11th Anniversary: Colette (Chicago/LA)" on Thu, 12 Nov 2026.
+The Air Conditioned Lounge is a music venue in San Diego with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "House Music Fridays 11th Anniversary: Colette (Chicago/LA)" on Thu, 12 Nov 2026.
 
 The Air Conditioned Lounge is a music venue in San Diego listed on soundcheck. 5 upcoming gigs, with line-ups including Bruno Browning, DJ Colette, DJ Dazy and Eric Leonardis and 1 more. See dates, start times and who's playing. 4673 30th St, San Diego, CA 92116.
 
@@ -18,4 +18,4 @@ The Air Conditioned Lounge is a music venue in San Diego listed on soundcheck. 5
 
 4673 30th St, San Diego, CA 92116, San Diego
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/the-air-conditioned-lounge/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/the-air-conditioned-lounge/)*

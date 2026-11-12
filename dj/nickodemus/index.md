@@ -1,6 +1,6 @@
 # Nickodemus
 
-Nickodemus is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Pixelated Records, New York City on Fri, 13 Nov 2026.
+Nickodemus is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Pixelated Records, New York City on Fri, 13 Nov 2026.
 
 Nickodemus is a house and afro house artist based in United States of America, with 66 gigs on soundcheck across Atlanta, Barcelona, Boston and Dundee and 14 more. Often billed alongside Willy Soul, 2melo and Disgonuts. Next up: Pixelated Records, New York City on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Nickodemus is a house and afro house artist based in United States of America, w
 
 Willy Soul, 2melo, Disgonuts
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nickodemus/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nickodemus/)*

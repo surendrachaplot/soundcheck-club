@@ -1,6 +1,6 @@
 # Kirilski
 
-Kirilski is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Yellow House, Amsterdam on Fri, 13 Nov 2026.
+Kirilski is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Yellow House, Amsterdam on Fri, 13 Nov 2026.
 
 Kirilski is a house and techno artist based in Ukraine, with 94 gigs on soundcheck across Amsterdam, Barcelona, London and Miami and 1 more. Often billed alongside Pura Pachanga, Snooz and Emma Champagne Queen. Next up: Yellow House, Amsterdam on Fri 13 Nov.
 
@@ -28,4 +28,4 @@ Kirilski is a house and techno artist based in Ukraine, with 94 gigs on soundche
 
 Pura Pachanga, Snooz, Emma Champagne Queen
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kirilski/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kirilski/)*

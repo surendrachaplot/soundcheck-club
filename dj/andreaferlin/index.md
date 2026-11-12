@@ -1,6 +1,6 @@
 # Andrea Ferlin
 
-Andrea Ferlin is a Minimal Techno and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Inout Music Club, Sardinia on Sat, 14 Nov 2026.
+Andrea Ferlin is a Minimal Techno and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Inout Music Club, Sardinia on Sat, 14 Nov 2026.
 
 Andrea Ferlin is a minimal techno and techno artist based in Italy, with 45 gigs on soundcheck across Berlin, Brussels, Istanbul and London and 6 more. Often billed alongside Rg, Topper and Andrea Cossu. Next up: Inout Music Club, Sardinia on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Andrea Ferlin is a minimal techno and techno artist based in Italy, with 45 gigs
 
 Rg, Topper, Andrea Cossu
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andreaferlin/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andreaferlin/)*

@@ -1,6 +1,6 @@
 # Axëw
 
-Axëw is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Malaga Sin City, Milan on Sat, 14 Nov 2026.
+Axëw is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Malaga Sin City, Milan on Sat, 14 Nov 2026.
 
 Axëw is a tech house and techno artist, with 10 gigs on soundcheck across Bologna, Florence and Milan. Often billed alongside Christian Mustazza, Adiel and Buza. Next up: Malaga Sin City, Milan on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Axëw is a tech house and techno artist, with 10 gigs on soundcheck across Bolog
 
 Christian Mustazza, Adiel, Buza
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/axew/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/axew/)*

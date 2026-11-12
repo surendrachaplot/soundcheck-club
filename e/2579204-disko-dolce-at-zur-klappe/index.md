@@ -1,6 +1,6 @@
 # Disko Dolce at Zur Klappe
 
-Disko Dolce at Zur Klappe on Fri 13 Nov, Berlin. 2 artists: anschi and NIRØ. See the line-up on soundcheck.
+Disko Dolce at Zur Klappe on Fri 13 Nov, Berlin. 1 artist: anschi. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,5 @@ Disko Dolce at Zur Klappe on Fri 13 Nov, Berlin. 2 artists: anschi and NIRØ. Se
 ## Line-up
 
 - anschi
-- NIRØ
 
 *Source: [soundcheck](https://soundcheck.club/e/2579204-disko-dolce-at-zur-klappe/)*

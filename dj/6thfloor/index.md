@@ -1,6 +1,6 @@
 # 6thFloor
 
-6thFloor is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Le 211, Paris on Sat, 5 Dec 2026.
+6thFloor is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Le 211, Paris on Sat, 5 Dec 2026.
 
 6thFloor is a techno and trance artist, with 6 gigs on soundcheck across Paris and Prague. Often billed alongside Cannonbar, Corbeille Dallas and 69DB. Next up: Le 211, Paris on Sat 5 Dec.
 
@@ -22,4 +22,4 @@
 
 Cannonbar, Corbeille Dallas, 69DB
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/6thfloor/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/6thfloor/)*

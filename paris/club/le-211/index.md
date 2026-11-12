@@ -1,6 +1,6 @@
 # Le 211
 
-Le 211 is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Unbox #8: Shades of Techno Early Party" on Fri, 13 Nov 2026.
+Le 211 is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Unbox #8: Shades of Techno Early Party" on Fri, 13 Nov 2026.
 
 Le 211 is a music venue in Paris listed on soundcheck. 4 upcoming gigs, with line-ups including 69DB, 6thFloor, BAGGA and Corbeille Dallas and 2 more. See dates, start times and who's playing. 211 Av. Jean Jaurès, 75019.
 
@@ -17,4 +17,4 @@ Le 211 is a music venue in Paris listed on soundcheck. 4 upcoming gigs, with lin
 
 211 Av. Jean Jaurès, 75019, Paris
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-211/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-211/)*

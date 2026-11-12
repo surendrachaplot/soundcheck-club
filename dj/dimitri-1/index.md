@@ -1,6 +1,6 @@
 # Dimitri (1)
 
-Dimitri (1) is a Acid and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at ingang, Amsterdam on Sat, 14 Nov 2026.
+Dimitri (1) is a Acid and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at ingang, Amsterdam on Sat, 14 Nov 2026.
 
 Dimitri is an acid and techno artist based in Switzerland, with 36 gigs on soundcheck across Amsterdam, Berlin, Rotterdam and Zurich. Often billed alongside Alexander Koning, Erick E and Lucien Foort. Next up: ingang, Amsterdam on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Dimitri is an acid and techno artist based in Switzerland, with 36 gigs on sound
 
 Alexander Koning, Erick E, Lucien Foort
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dimitri-1/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dimitri-1/)*

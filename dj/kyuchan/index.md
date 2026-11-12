@@ -1,6 +1,6 @@
 # Kyuchan
 
-Kyuchan is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Modeci, Seoul on Thu, 12 Nov 2026.
+Kyuchan is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Modeci, Seoul on Thu, 12 Nov 2026.
 
 Kyuchan is a techno and electro artist based in South Korea, with 65 gigs on soundcheck across Bangkok, Beijing, Berlin and Hanoi and 4 more. Often billed alongside Hakim., chani and Yoel. Next up: Modeci, Seoul on Thu 12 Nov.
 
@@ -27,4 +27,4 @@ Kyuchan is a techno and electro artist based in South Korea, with 65 gigs on sou
 
 Hakim., chani, Yoel
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kyuchan/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kyuchan/)*

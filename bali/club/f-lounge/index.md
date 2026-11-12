@@ -1,6 +1,6 @@
 # F Lounge
 
-F Lounge is a music venue in Bali with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "The Complete Guide to AT&T Bill Pay Online: Web, App & Guest Pay" on Sat, 14 Nov 2026.
+F Lounge is a music venue in Bali with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "The Complete Guide to AT&T Bill Pay Online: Web, App & Guest Pay" on Sat, 14 Nov 2026.
 
 F Lounge is a music venue in Bali listed on soundcheck. 1 upcoming gig, with line-ups including Calm and Frantic. See dates, start times and who's playing. Fabios Bali, Seminyak, Jl.Legian.
 
@@ -14,4 +14,4 @@ F Lounge is a music venue in Bali listed on soundcheck. 1 upcoming gig, with lin
 
 Fabios Bali, Seminyak, Jl.Legian, Bali
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/bali/club/f-lounge/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/bali/club/f-lounge/)*

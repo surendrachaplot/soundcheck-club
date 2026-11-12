@@ -1,6 +1,6 @@
 # Coben
 
-Coben is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Sneaky Pete's, Edinburgh on Thu, 12 Nov 2026.
+Coben is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Sneaky Pete's, Edinburgh on Thu, 12 Nov 2026.
 
 Coben is a drum & bass and jungle artist based in United Kingdom, with 32 gigs on soundcheck across Berlin, Edinburgh, Glasgow and London and 1 more. Often billed alongside Refracta, Smiff and Prolifix. Next up: Sneaky Pete's, Edinburgh on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Coben is a drum & bass and jungle artist based in United Kingdom, with 32 gigs o
 
 Refracta, Smiff, Prolifix
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/coben/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/coben/)*

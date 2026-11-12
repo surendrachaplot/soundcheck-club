@@ -1,6 +1,6 @@
 # Carl Bee
 
-Carl Bee is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - SKY CLUB, Malta on Sat, 28 Nov 2026.
+Carl Bee is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - SKY CLUB, Malta on Sat, 28 Nov 2026.
 
 Carl Bee is a techno and house artist based in Malta, with 55 gigs on soundcheck across Amsterdam, Ibiza, Malta and Munich and 2 more. Often billed alongside Daniel Blade, Carl Lautier and Thias. Next up: TBA - SKY CLUB, Malta on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Carl Bee is a techno and house artist based in Malta, with 55 gigs on soundcheck
 
 Daniel Blade, Carl Lautier, Thias
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlbee/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlbee/)*

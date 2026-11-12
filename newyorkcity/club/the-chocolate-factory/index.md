@@ -1,6 +1,6 @@
 # The Chocolate Factory
 
-The Chocolate Factory is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Raptronica 2" on Fri, 13 Nov 2026.
+The Chocolate Factory is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Raptronica 2" on Fri, 13 Nov 2026.
 
 The Chocolate Factory is a music venue in New York City listed on soundcheck. 4 upcoming gigs, with line-ups including Connie, Flash Gea, Hypho and Matt Proxy and 2 more. See dates, start times and who's playing. 70 Scott Ave Brooklyn, NY 11237.
 
@@ -17,4 +17,4 @@ The Chocolate Factory is a music venue in New York City listed on soundcheck. 4 
 
 70 Scott Ave Brooklyn, NY 11237, New York City
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-chocolate-factory/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-chocolate-factory/)*

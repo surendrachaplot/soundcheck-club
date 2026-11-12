@@ -1,6 +1,6 @@
 # Mustache Bangkok
 
-Mustache Bangkok is a music venue in Bangkok with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Mustache presents Fuziger" on Fri, 13 Nov 2026.
+Mustache Bangkok is a music venue in Bangkok with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Mustache presents Fuziger" on Fri, 13 Nov 2026.
 
 Mustache Bangkok is a music venue in Bangkok listed on soundcheck. 4 upcoming gigs, with line-ups including Daft Funk Live. See dates, start times and who's playing.
 
@@ -13,4 +13,4 @@ Mustache Bangkok is a music venue in Bangkok listed on soundcheck. 4 upcoming gi
 | Sat, 16 Jan 2027 | Daft Funk Live | Daft Funk Live |
 | Sat, 16 Jan 2027 | Daft Funk Live - Tribute Show |  |
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/mustache-bangkok/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/mustache-bangkok/)*

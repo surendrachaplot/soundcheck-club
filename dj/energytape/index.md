@@ -1,6 +1,6 @@
 # ENERGY TAPE
 
-ENERGY TAPE is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Bergson Kunstkraftwerk, Munich on Sat, 21 Nov 2026.
+ENERGY TAPE is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Bergson Kunstkraftwerk, Munich on Sat, 21 Nov 2026.
 
 ENERGY TAPE is a trance and techno artist, with 36 gigs on soundcheck across Leipzig and Munich. Often billed alongside DJ Yugo, MASSAGIO and Alicea. Next up: Bergson Kunstkraftwerk, Munich on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ ENERGY TAPE is a trance and techno artist, with 36 gigs on soundcheck across Lei
 
 DJ Yugo, MASSAGIO, Alicea
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/energytape/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/energytape/)*

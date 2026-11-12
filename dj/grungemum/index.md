@@ -1,6 +1,6 @@
 # grunge mum
 
-grunge mum is a Guaracha and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Bossa Nova Civic Club, New York City on Fri, 13 Nov 2026.
+grunge mum is a Guaracha and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Bossa Nova Civic Club, New York City on Fri, 13 Nov 2026.
 
 grunge mum is a guaracha and techno artist based in United States of America, with 18 gigs on soundcheck across New York City. Often billed alongside zorenLo, DJ ATTENTION and SINKITTY. Next up: Bossa Nova Civic Club, New York City on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ grunge mum is a guaracha and techno artist based in United States of America, wi
 
 zorenLo, DJ ATTENTION, SINKITTY
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grungemum/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grungemum/)*

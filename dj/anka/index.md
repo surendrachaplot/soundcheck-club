@@ -1,6 +1,6 @@
 # Anka
 
-Anka is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Unsorted.Space, Zurich on Thu, 12 Nov 2026.
+Anka is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Unsorted.Space, Zurich on Thu, 12 Nov 2026.
 
 Anka is a house and techno artist based in Greece, with 10 gigs on soundcheck across Barcelona, Detroit, Leipzig and Montreal and 2 more. Often billed alongside Kaufmann, nøvae and AMAYO. Next up: Unsorted.Space, Zurich on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Anka is a house and techno artist based in Greece, with 10 gigs on soundcheck ac
 
 Kaufmann, nøvae, AMAYO
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anka/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anka/)*

@@ -1,6 +1,6 @@
 # DJ Sundae
 
-DJ Sundae is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at A-Side, Paris on Fri, 13 Nov 2026.
+DJ Sundae is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at A-Side, Paris on Fri, 13 Nov 2026.
 
 DJ Sundae is a club and techno artist, with 51 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Bristol and 14 more. Often billed alongside John Talabot, Lena Willikens and QRTR. Next up: A-Side, Paris on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ DJ Sundae is a club and techno artist, with 51 gigs on soundcheck across Amsterd
 
 John Talabot, Lena Willikens, QRTR
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsundae/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsundae/)*

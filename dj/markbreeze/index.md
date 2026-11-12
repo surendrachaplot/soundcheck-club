@@ -1,6 +1,6 @@
 # Mark Breeze
 
-Mark Breeze is a Hardcore and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Beaver Works, Leeds on Sat, 14 Nov 2026.
+Mark Breeze is a Hardcore and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Beaver Works, Leeds on Sat, 14 Nov 2026.
 
 Mark Breeze is a hardcore and house artist based in United Kingdom, with 13 gigs on soundcheck across Amsterdam, Glasgow, Leeds and London and 5 more. Often billed alongside Dougal, Hixxy and Scott Brown. Next up: Beaver Works, Leeds on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Mark Breeze is a hardcore and house artist based in United Kingdom, with 13 gigs
 
 Dougal, Hixxy, Scott Brown
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markbreeze/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markbreeze/)*

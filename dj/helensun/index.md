@@ -1,6 +1,6 @@
 # Helen Sun
 
-Helen Sun is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Southwark Park, London on Sat, 28 Aug 2027.
+Helen Sun is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Southwark Park, London on Sat, 28 Aug 2027.
 
 Helen Sun is an experimental and electronica artist based in United States of America, with 9 gigs on soundcheck across Berlin, Copenhagen, Guadalajara and London and 1 more. Often billed alongside Patch+, 300SkullsAndCounting and Global. Next up: Southwark Park, London on Sat 28 Aug.
 
@@ -25,4 +25,4 @@ Helen Sun is an experimental and electronica artist based in United States of Am
 
 Patch+, 300SkullsAndCounting, Global
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/helensun/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/helensun/)*

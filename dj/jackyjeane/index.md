@@ -1,6 +1,6 @@
 # Jacky Jeane
 
-Jacky Jeane is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Les Relais Solidaires, Paris on Sat, 28 Nov 2026.
+Jacky Jeane is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Les Relais Solidaires, Paris on Sat, 28 Nov 2026.
 
 Jacky Jeane is a techno and bass artist based in France, with 73 gigs on soundcheck across Berlin, Bordeaux, Brussels and Lyon and 4 more. Often billed alongside Sarcus Soundsystem, Ubik (Fr) and OLGA B.. Next up: Les Relais Solidaires, Paris on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Jacky Jeane is a techno and bass artist based in France, with 73 gigs on soundch
 
 Sarcus Soundsystem, Ubik (Fr), OLGA B.
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jackyjeane/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jackyjeane/)*

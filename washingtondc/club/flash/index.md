@@ -1,8 +1,8 @@
 # Flash
 
-Flash is a music venue in Washington DC with 18 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Enzo Siragusa" on Fri, 13 Nov 2026.
+Flash is a music venue in Washington DC with 21 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Enzo Siragusa" on Fri, 13 Nov 2026.
 
-Flash is a music venue in Washington DC listed on soundcheck. 18 upcoming gigs, with line-ups including Alanapana, Andy Big, Anetha and Antal and 2 more. See dates, start times and who's playing. 645 Florida Ave, NW, Washington, D.C. 20001.
+Flash is a music venue in Washington DC listed on soundcheck. 21 upcoming gigs, with line-ups including Alanapana, Andy Big, Anetha and Antal and 2 more. See dates, start times and who's playing. 645 Florida Ave, NW, Washington, D.C. 20001.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Flash is a music venue in Washington DC listed on soundcheck. 18 upcoming gigs, 
 
 645 Florida Ave, NW, Washington, D.C. 20001, Washington DC
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/flash/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/flash/)*

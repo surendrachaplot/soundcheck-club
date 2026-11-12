@@ -1,6 +1,6 @@
 # Sofia Stergiou
 
-Sofia Stergiou is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Patision65, Athens on Fri, 13 Nov 2026.
+Sofia Stergiou is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Patision65, Athens on Fri, 13 Nov 2026.
 
 Sofia Stergiou is a house and techno artist based in Greece, with 7 gigs on soundcheck across Athens. Often billed alongside Andreas Palmer, A. Square and Black Athena. Next up: Patision65, Athens on Fri 13 Nov.
 
@@ -23,4 +23,4 @@ Sofia Stergiou is a house and techno artist based in Greece, with 7 gigs on soun
 
 Andreas Palmer, A. Square, Black Athena
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sofiastergiou/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sofiastergiou/)*

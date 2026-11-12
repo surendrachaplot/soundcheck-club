@@ -1,6 +1,6 @@
 # Shinobi
 
-Shinobi is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Central Florida Fairgrounds, Florida on Fri, 23 Apr 2027.
+Shinobi is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Central Florida Fairgrounds, Florida on Fri, 23 Apr 2027.
 
 Shinobi is a drum & bass and jungle artist based in United States of America, with 28 gigs on soundcheck across Brighton, Florida, Melbourne and Miami and 4 more. Often billed alongside Berrakka, Marie Qrie and SATURNSARii. Next up: Central Florida Fairgrounds, Florida on Fri 23 Apr.
 
@@ -25,4 +25,4 @@ Shinobi is a drum & bass and jungle artist based in United States of America, wi
 
 Berrakka, Marie Qrie, SATURNSARii
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shinobi/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shinobi/)*

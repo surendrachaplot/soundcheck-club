@@ -1,6 +1,6 @@
 # Innēr Sense (ofc)
 
-Innēr Sense (ofc) is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Club Tunnel, Serbia on Sat, 14 Nov 2026.
+Innēr Sense (ofc) is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Club Tunnel, Serbia on Sat, 14 Nov 2026.
 
 Innēr Sense (ofc) is a techno and progressive house artist based in Serbia, with 20 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Munich and 2 more. Often billed alongside Amber Broos, BSSIDE and Corren Cavini. Next up: Club Tunnel, Serbia on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Innēr Sense (ofc) is a techno and progressive house artist based in Serbia, wit
 
 Amber Broos, BSSIDE, Corren Cavini
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/innersense-ofc/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/innersense-ofc/)*

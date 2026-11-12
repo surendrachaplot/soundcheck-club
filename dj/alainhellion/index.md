@@ -1,6 +1,6 @@
 # Alain Hellion
 
-Alain Hellion is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Terraza Catedral, Mexico City on Sat, 14 Nov 2026.
+Alain Hellion is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Terraza Catedral, Mexico City on Sat, 14 Nov 2026.
 
 Alain Hellion is a house and minimal artist based in Mexico, with 66 gigs on soundcheck across Amsterdam, Berlin and Mexico City. Often billed alongside heSAWyou, Timid Boy and Enrique Góngora. Next up: Terraza Catedral, Mexico City on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Alain Hellion is a house and minimal artist based in Mexico, with 66 gigs on sou
 
 heSAWyou, Timid Boy, Enrique Góngora
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alainhellion/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alainhellion/)*

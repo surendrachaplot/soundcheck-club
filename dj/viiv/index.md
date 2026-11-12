@@ -1,6 +1,6 @@
 # ViiV
 
-ViiV is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA, Mexico City on Sat, 14 Nov 2026.
+ViiV is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA, Mexico City on Sat, 14 Nov 2026.
 
 ViiV is a house and minimal artist based in Mexico, with 28 gigs on soundcheck across Mexico City. Often billed alongside elRojo, Bastard Love and Alo. Next up: TBA, Mexico City on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ ViiV is a house and minimal artist based in Mexico, with 28 gigs on soundcheck a
 
 elRojo, Bastard Love, Alo
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/viiv/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/viiv/)*

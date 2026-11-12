@@ -1,6 +1,6 @@
 # MUSEO x Soundtech [Classified]: Warehouse Edit at TBA - Warehouse
 
-MUSEO x Soundtech [Classified]: Warehouse Edit at TBA - Warehouse on Wed 25 Nov, Orange County. 2 artists: Shay De Castro and Xiorro. Techno and House. See the line-up on soundcheck.
+MUSEO x Soundtech [Classified]: Warehouse Edit at TBA - Warehouse on Wed 25 Nov, Orange County. 3 artists: Cut Snake, Shay De Castro and Xiorro. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ MUSEO x Soundtech [Classified]: Warehouse Edit at TBA - Warehouse on Wed 25 Nov,
 
 ## Line-up
 
+- Cut Snake
 - Shay De Castro
 - Xiorro
 

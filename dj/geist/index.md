@@ -1,6 +1,6 @@
 # Geist
 
-Geist is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Pawn Shop, Dublin on Sat, 21 Nov 2026.
+Geist is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Pawn Shop, Dublin on Sat, 21 Nov 2026.
 
 Geist is a house and techno artist based in Ireland, with 16 gigs on soundcheck across Berlin, Dresden, Dublin and Galway. Often billed alongside Erik Burka, CONSTANT and Aero. Next up: Pawn Shop, Dublin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Geist is a house and techno artist based in Ireland, with 16 gigs on soundcheck 
 
 Erik Burka, CONSTANT, Aero (1)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/geist/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/geist/)*

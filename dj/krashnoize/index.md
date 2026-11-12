@@ -1,6 +1,6 @@
 # Krashnoize
 
-Krashnoize is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Common Ground, Naples on Sat, 28 Nov 2026.
+Krashnoize is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Common Ground, Naples on Sat, 28 Nov 2026.
 
 Krashnoize is a techno and dub techno artist based in Italy, with 14 gigs on soundcheck across Naples. Often billed alongside Markantonio, Benth. and Lino Fuso. Next up: Common Ground, Naples on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Krashnoize is a techno and dub techno artist based in Italy, with 14 gigs on sou
 
 Markantonio, Benth., Lino Fuso
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krashnoize/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krashnoize/)*

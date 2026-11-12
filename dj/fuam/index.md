@@ -1,6 +1,6 @@
 # FUAM
 
-FUAM is a Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Wigwam, Dublin on Sat, 21 Nov 2026.
+FUAM is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Wigwam, Dublin on Sat, 21 Nov 2026.
 
 FUAM is a techno artist based in Ireland, with 7 gigs on soundcheck across Dublin. Often billed alongside hellokt, Bailey Ibbs and CULT. Next up: Wigwam, Dublin on Sat 21 Nov.
 
@@ -23,4 +23,4 @@ FUAM is a techno artist based in Ireland, with 7 gigs on soundcheck across Dubli
 
 hellokt, Bailey Ibbs, CULT
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fuam/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fuam/)*

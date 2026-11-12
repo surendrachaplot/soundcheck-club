@@ -1,6 +1,6 @@
 # House of Q
 
-House of Q is a music venue in Stockholm with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Climax Club" on Sat, 28 Nov 2026.
+House of Q is a music venue in Stockholm with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Climax Club" on Sat, 28 Nov 2026.
 
 House of Q is a music venue in Stockholm listed on soundcheck. 3 upcoming gigs, with line-ups including Mira Iranpour. See dates, start times and who's playing. Malmvägen 1, 115 41 Stockholm.
 
@@ -16,4 +16,4 @@ House of Q is a music venue in Stockholm listed on soundcheck. 3 upcoming gigs, 
 
 Malmvägen 1, 115 41 Stockholm, Stockholm
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/house-of-q/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/house-of-q/)*

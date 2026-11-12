@@ -1,6 +1,6 @@
 # Club Exil
 
-Club Exil is a music venue in Vienna with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "TUFF with Barbara Lago, Krl Mx, Nyra, pinklotion, Serafin" on Fri, 13 Nov 2026.
+Club Exil is a music venue in Vienna with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "TUFF with Barbara Lago, Krl Mx, Nyra, pinklotion, Serafin" on Fri, 13 Nov 2026.
 
 Club Exil is a music venue in Vienna listed on soundcheck. 3 upcoming gigs, with line-ups including NYRA (DE), Karam, Krl Mx and M41RH and 2 more. See dates, start times and who's playing. Marktstrasse 13A 2331 Vösendorf.
 
@@ -16,4 +16,4 @@ Club Exil is a music venue in Vienna listed on soundcheck. 3 upcoming gigs, with
 
 Marktstrasse 13A 2331 Vösendorf, Vienna
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/club-exil/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/club-exil/)*

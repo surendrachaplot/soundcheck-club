@@ -1,6 +1,6 @@
 # leo(AL)
 
-leo(AL) is a Trance and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Frekuence, Tirana on Fri, 20 Nov 2026.
+leo(AL) is a Trance and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Frekuence, Tirana on Fri, 20 Nov 2026.
 
 leo(AL) is a trance and electro artist based in Albania, with 12 gigs on soundcheck across Athens and Tirana. Often billed alongside Bunny The Bug, PANDA (AL) and Aamir. Next up: Frekuence, Tirana on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ leo(AL) is a trance and electro artist based in Albania, with 12 gigs on soundch
 
 Bunny The Bug, PANDA (AL), Aamir
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leoal/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leoal/)*

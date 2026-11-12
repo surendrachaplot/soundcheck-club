@@ -1,6 +1,6 @@
 # Dan.B
 
-Dan.B is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Mrs Sippy Bali, Bali on Fri, 1 Jan 2027.
+Dan.B is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Mrs Sippy Bali, Bali on Fri, 1 Jan 2027.
 
 Dan.B is a tech house and house artist, with 13 gigs on soundcheck across Bali, Bangkok, Hanoi and Munich and 4 more. Often billed alongside Jmcee, Lunar Disco and Shane.MOV. Next up: Mrs Sippy Bali, Bali on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Dan.B is a tech house and house artist, with 13 gigs on soundcheck across Bali, 
 
 Jmcee, Lunar Disco, Shane.MOV
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dan-b/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dan-b/)*

@@ -1,6 +1,6 @@
 # Limited Toss
 
-Limited Toss is a Techno and Jungle artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Kyoto University Yoshida Dormitory, Kyoto on Sat, 14 Nov 2026.
+Limited Toss is a Techno and Jungle artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Kyoto University Yoshida Dormitory, Kyoto on Sat, 14 Nov 2026.
 
 Limited Toss is a techno and jungle artist based in Japan, with 31 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside KA4U, Ascalypso and Lomax. Next up: Kyoto University Yoshida Dormitory, Kyoto on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Limited Toss is a techno and jungle artist based in Japan, with 31 gigs on sound
 
 KA4U, Ascalypso, Lomax
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/limitedtoss/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/limitedtoss/)*

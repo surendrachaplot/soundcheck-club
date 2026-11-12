@@ -1,6 +1,6 @@
 # Helder Russo
 
-Helder Russo is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Collect LX Factory, Lisbon on Mon, 16 Nov 2026.
+Helder Russo is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Collect LX Factory, Lisbon on Mon, 16 Nov 2026.
 
 Helder Russo is a house and electro artist based in Portugal, with 20 gigs on soundcheck across Lisbon. Often billed alongside Daino, Sheri Vari and Ash Lauryn. Next up: Collect LX Factory, Lisbon on Mon 16 Nov.
 
@@ -25,4 +25,4 @@ Helder Russo is a house and electro artist based in Portugal, with 20 gigs on so
 
 Daino, Sheri Vari, Ash Lauryn
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/helderrusso/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/helderrusso/)*

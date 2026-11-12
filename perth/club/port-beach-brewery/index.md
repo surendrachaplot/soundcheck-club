@@ -1,6 +1,6 @@
 # Port Beach Brewery
 
-Port Beach Brewery is a music venue in Perth with 8 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "House CLTR Perth feat. Miguel Campbell (Hot Creations)" on Fri, 13 Nov 2026.
+Port Beach Brewery is a music venue in Perth with 8 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "House CLTR Perth feat. Miguel Campbell (Hot Creations)" on Fri, 13 Nov 2026.
 
 Port Beach Brewery is a music venue in Perth listed on soundcheck. 8 upcoming gigs, with line-ups including Aline Rocha, Chicane, David Penn and Dr Packer and 2 more. See dates, start times and who's playing. Port Beach Brewery, 44 Tydeman Road, Fremantle, WA 6169, Australia.
 
@@ -21,4 +21,4 @@ Port Beach Brewery is a music venue in Perth listed on soundcheck. 8 upcoming gi
 
 Port Beach Brewery, 44 Tydeman Road, Fremantle, WA 6169, Australia, Perth
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/perth/club/port-beach-brewery/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/perth/club/port-beach-brewery/)*

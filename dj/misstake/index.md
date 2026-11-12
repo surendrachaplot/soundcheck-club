@@ -1,6 +1,6 @@
 # Miss Take
 
-Miss Take is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at ://about blank, Berlin on Sat, 21 Nov 2026.
+Miss Take is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at ://about blank, Berlin on Sat, 21 Nov 2026.
 
 Miss Take is a techno and house artist based in Germany, with 18 gigs on soundcheck across Berlin, Dresden, Hannover and Leipzig and 2 more. Often billed alongside jewelry, SAM and Hanna Baertig. Next up: ://about blank, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Miss Take is a techno and house artist based in Germany, with 18 gigs on soundch
 
 jewelry, SAM (9), Hanna Baertig
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/misstake/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/misstake/)*

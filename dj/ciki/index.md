@@ -1,6 +1,6 @@
 # CiKi
 
-CiKi is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at MTW, Frankfurt on Sat, 28 Nov 2026.
+CiKi is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at MTW, Frankfurt on Sat, 28 Nov 2026.
 
 CiKi is a techno and trance artist based in Germany, with 41 gigs on soundcheck across Frankfurt, Karlsruhe, Toronto and Wroclaw. Often billed alongside Kacy, Polytoxic and Formale Bassgestaltung. Next up: MTW, Frankfurt on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ CiKi is a techno and trance artist based in Germany, with 41 gigs on soundcheck 
 
 Kacy, Polytoxic, Formale Bassgestaltung
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ciki/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ciki/)*

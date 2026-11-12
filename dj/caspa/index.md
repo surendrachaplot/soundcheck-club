@@ -1,6 +1,6 @@
 # Caspa
 
-Caspa is a Dubstep and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Village Underground, London on Sat, 12 Dec 2026.
+Caspa is a Dubstep and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Village Underground, London on Sat, 12 Dec 2026.
 
 Caspa is a dubstep and drum & bass artist based in United Kingdom, with 25 gigs on soundcheck across Berlin, Bristol, Chicago and London and 9 more. Often billed alongside Deep Tempo, MINTY and SGT Pokes. Next up: Village Underground, London on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Caspa is a dubstep and drum & bass artist based in United Kingdom, with 25 gigs 
 
 Deep Tempo, MINTY, SGT Pokes
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caspa/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caspa/)*

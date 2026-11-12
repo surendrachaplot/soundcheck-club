@@ -1,6 +1,6 @@
 # Alex Neri
 
-Alex Neri is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Circus Osaka, Osaka on Fri, 13 Nov 2026.
+Alex Neri is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Circus Osaka, Osaka on Fri, 13 Nov 2026.
 
 Alex Neri is a house and techno artist based in Italy, with 98 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 23 more. Often billed alongside GNMR, Giammarco Orsini and Marcolino. Next up: Circus Osaka, Osaka on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Alex Neri is a house and techno artist based in Italy, with 98 gigs on soundchec
 
 GNMR, Giammarco Orsini, Marcolino
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexneri/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexneri/)*

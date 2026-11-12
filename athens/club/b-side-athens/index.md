@@ -1,6 +1,6 @@
 # B side Athens
 
-B side Athens is a music venue in Athens with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Bonso / Little John / Roussos" on Fri, 13 Nov 2026.
+B side Athens is a music venue in Athens with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Bonso / Little John / Roussos" on Fri, 13 Nov 2026.
 
 B side Athens is a music venue in Athens listed on soundcheck. 3 upcoming gigs, with line-ups including Alisa Murphy, Bonso, Deadly 8 and Mr. Roussos and 1 more. See dates, start times and who's playing. Mavrokordatou 6, Athina 106 78, Greece.
 
@@ -16,4 +16,4 @@ B side Athens is a music venue in Athens listed on soundcheck. 3 upcoming gigs, 
 
 Mavrokordatou 6, Athina 106 78, Greece, Athens
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/athens/club/b-side-athens/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/athens/club/b-side-athens/)*

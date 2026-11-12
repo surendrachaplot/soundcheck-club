@@ -1,6 +1,6 @@
 # Mercury Vibration
 
-Mercury Vibration is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Bossa Nova Civic Club, New York City on Tue, 17 Nov 2026.
+Mercury Vibration is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Bossa Nova Civic Club, New York City on Tue, 17 Nov 2026.
 
 Mercury Vibration is a techno and electro artist based in United States of America, with 9 gigs on soundcheck across New York City and Quebec City. Often billed alongside CYCLO BONETTE, DJ Sour and Valentin Lamar. Next up: Bossa Nova Civic Club, New York City on Tue 17 Nov.
 
@@ -25,4 +25,4 @@ Mercury Vibration is a techno and electro artist based in United States of Ameri
 
 CYCLO BONETTE, DJ Sour, Valentin Lamar
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mercuryvibration/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mercuryvibration/)*

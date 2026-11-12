@@ -1,6 +1,6 @@
 # Beathead
 
-Beathead is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at ESC, Montreal on Sat, 28 Nov 2026.
+Beathead is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at ESC, Montreal on Sat, 28 Nov 2026.
 
 Beathead is a psytrance and techno artist based in Germany, with 10 gigs on soundcheck across Montreal. Often billed alongside Kozy, E-leven and Elicia Martin. Next up: ESC, Montreal on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Beathead is a psytrance and techno artist based in Germany, with 10 gigs on soun
 
 Kozy, E-leven, Elicia Martin
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beathead/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beathead/)*

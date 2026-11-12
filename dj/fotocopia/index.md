@@ -1,6 +1,6 @@
 # Fotocopia
 
-Fotocopia is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Sala La2, South on Sat, 14 Nov 2026.
+Fotocopia is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Sala La2, South on Sat, 14 Nov 2026.
 
 Fotocopia is a techno and ebm artist based in Spain, with 14 gigs on soundcheck across Barcelona, Berlin, London and Madrid and 3 more. Often billed alongside Andi, Ed Warner and Ancient Methods. Next up: Sala La2, South on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Fotocopia is a techno and ebm artist based in Spain, with 14 gigs on soundcheck 
 
 Andi, Ed Warner, Ancient Methods
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fotocopia/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fotocopia/)*

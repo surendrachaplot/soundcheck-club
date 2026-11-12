@@ -1,6 +1,6 @@
 # dj textme
 
-dj textme is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at glimmer, Hamburg on Sat, 21 Nov 2026.
+dj textme is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at glimmer, Hamburg on Sat, 21 Nov 2026.
 
 dj textme is a house and disco artist based in Germany, with 24 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Finona Rider, Hufnagel and Shimmy Robin. Next up: glimmer, Hamburg on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ dj textme is a house and disco artist based in Germany, with 24 gigs on soundche
 
 Finona Rider, Hufnagel, Shimmy Robin
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djtextme/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djtextme/)*

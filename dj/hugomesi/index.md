@@ -1,6 +1,6 @@
 # Hugo Mesi
 
-Hugo Mesi is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Hall, Tallinn on Sat, 28 Nov 2026.
+Hugo Mesi is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Hall, Tallinn on Sat, 28 Nov 2026.
 
 Hugo Mesi is a techno and electronica artist based in Estonia, with 23 gigs on soundcheck across Tallinn. Often billed alongside Micaela Saraceno, Daniel Raichert and Fake Versace. Next up: Hall, Tallinn on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Hugo Mesi is a techno and electronica artist based in Estonia, with 23 gigs on s
 
 Micaela Saraceno, Daniel Raichert, Fake Versace
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hugomesi/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hugomesi/)*

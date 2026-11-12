@@ -1,6 +1,6 @@
 # Gabrielle (DE)
 
-Gabrielle (DE) is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Horn, Bangkok on Fri, 13 Nov 2026.
+Gabrielle (DE) is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Horn, Bangkok on Fri, 13 Nov 2026.
 
 Gabrielle (DE) is a techno and drum & bass artist based in Germany, with 59 gigs on soundcheck across Bangkok, Berlin, London and Prague. Often billed alongside ATR DJ-TEAM, JOTAno and GLASSBASS. Next up: Horn, Bangkok on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Gabrielle (DE) is a techno and drum & bass artist based in Germany, with 59 gigs
 
 ATR DJ-TEAM, JOTAno, GLASSBASS
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielle-de/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielle-de/)*

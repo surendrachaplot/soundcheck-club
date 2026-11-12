@@ -1,6 +1,6 @@
 # ROT.TON
 
-ROT.TON is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Disco Zwei, Mannheim on Sat, 14 Nov 2026.
+ROT.TON is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Disco Zwei, Mannheim on Sat, 14 Nov 2026.
 
 ROT.TON is a techno and house artist, with 19 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Freiburg and 5 more. Often billed alongside Nazz, DJ Hyperdrive and FJUSHA. Next up: Disco Zwei, Mannheim on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ ROT.TON is a techno and house artist, with 19 gigs on soundcheck across Berlin, 
 
 Nazz, DJ Hyperdrive, FJUSHA
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rot.ton/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rot.ton/)*

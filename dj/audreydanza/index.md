@@ -1,6 +1,6 @@
 # Audrey Danza
 
-Audrey Danza is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at 42 Marches, Paris on Fri, 27 Nov 2026.
+Audrey Danza is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at 42 Marches, Paris on Fri, 27 Nov 2026.
 
 Audrey Danza is a techno and trance artist based in Switzerland, with 208 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 46 more. Often billed alongside Kasper Marott, Anetha and Pablo Bozzi. Next up: 42 Marches, Paris on Fri 27 Nov.
 
@@ -30,4 +30,4 @@ Audrey Danza is a techno and trance artist based in Switzerland, with 208 gigs o
 
 Kasper Marott, Anetha, Pablo Bozzi
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/audreydanza/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/audreydanza/)*

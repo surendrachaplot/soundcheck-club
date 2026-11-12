@@ -1,6 +1,6 @@
 # Timebar
 
-Timebar is a music venue in Stockholm with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "TIMEBAR PRESENTS: KOTTA | CORALIE LLIE | BAKKE" on Fri, 13 Nov 2026.
+Timebar is a music venue in Stockholm with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "TIMEBAR PRESENTS: KOTTA | CORALIE LLIE | BAKKE" on Fri, 13 Nov 2026.
 
 Timebar is a music venue in Stockholm listed on soundcheck. 2 upcoming gigs, with line-ups including Bakke and Coralie Llie. See dates, start times and who's playing. Hornsgatan 174.
 
@@ -15,4 +15,4 @@ Timebar is a music venue in Stockholm listed on soundcheck. 2 upcoming gigs, wit
 
 Hornsgatan 174, Stockholm
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/timebar/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/timebar/)*

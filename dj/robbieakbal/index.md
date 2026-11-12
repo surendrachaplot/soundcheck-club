@@ -1,6 +1,6 @@
 # Robbie Akbal
 
-Robbie Akbal is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at WOMB, Tokyo on Sat, 14 Nov 2026.
+Robbie Akbal is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at WOMB, Tokyo on Sat, 14 Nov 2026.
 
 Robbie Akbal is a house and deep house artist based in Germany, with 37 gigs on soundcheck across Hong Kong, Ibiza, Los Angeles and Mexico City and 8 more. Often billed alongside Conan, SATICA and Ground. Next up: WOMB, Tokyo on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Robbie Akbal is a house and deep house artist based in Germany, with 37 gigs on 
 
 Conan, SATICA, Ground (1)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robbieakbal/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robbieakbal/)*

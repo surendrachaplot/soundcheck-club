@@ -1,6 +1,6 @@
 # Solace
 
-Solace is a music venue in Melbourne with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Kosher Groove Debut EP Tour - Live Jazz House Solace Bar" on Thu, 12 Nov 2026.
+Solace is a music venue in Melbourne with 7 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Kosher Groove Debut EP Tour - Live Jazz House Solace Bar" on Thu, 12 Nov 2026.
 
 Solace is a music venue in Melbourne listed on soundcheck. 7 upcoming gigs, with line-ups including ADMINISTRATOR, Afrodisiac, Andy Hart and anna(n) and 2 more. See dates, start times and who's playing. 21-25 Croft Alley, Melbourne, 3000.
 
@@ -20,4 +20,4 @@ Solace is a music venue in Melbourne listed on soundcheck. 7 upcoming gigs, with
 
 21-25 Croft Alley, Melbourne, 3000, Melbourne
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/solace/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/solace/)*

@@ -1,6 +1,6 @@
 # Ma Sha
 
-Ma Sha is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - TWO FLOOR WAREHOUSE , New York City on Fri, 20 Nov 2026.
+Ma Sha is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - TWO FLOOR WAREHOUSE , New York City on Fri, 20 Nov 2026.
 
 Ma Sha is a techno and bass artist based in United States of America, with 114 gigs on soundcheck across Adelaide, Bangkok, Barcelona and Berlin and 40 more. Often billed alongside Sobolik, Sheepshead and Ayesha. Next up: TBA - TWO FLOOR WAREHOUSE , New York City on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ Ma Sha is a techno and bass artist based in United States of America, with 114 g
 
 Sobolik, Sheepshead, Ayesha
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/masha-ny/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/masha-ny/)*

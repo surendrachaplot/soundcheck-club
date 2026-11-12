@@ -1,6 +1,6 @@
 # 516 S Anderson Street
 
-516 S Anderson Street is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "AT&T Account Bill Pay Online: Portal Login & Billing Management" on Sat, 14 Nov 2026.
+516 S Anderson Street is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "AT&T Account Bill Pay Online: Portal Login & Billing Management" on Sat, 14 Nov 2026.
 
 516 S Anderson Street is a music venue in Los Angeles listed on soundcheck. 2 upcoming gigs, with line-ups including Calm and Frantic. See dates, start times and who's playing. 516 S Anderson Street, Los Angeles, CA 90033.
 
@@ -15,4 +15,4 @@
 
 516 S Anderson Street, Los Angeles, CA 90033, Los Angeles
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/516-s-anderson-street/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/516-s-anderson-street/)*

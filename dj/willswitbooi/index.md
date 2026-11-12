@@ -1,6 +1,6 @@
 # Wills Witbooi
 
-Wills Witbooi is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Sekta Selekta, Krakow on Thu, 12 Nov 2026.
+Wills Witbooi is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Sekta Selekta, Krakow on Thu, 12 Nov 2026.
 
 Wills Witbooi is a techno and electro artist based in Poland, with 51 gigs on soundcheck across Krakow, Poznan, Warsaw and Wroclaw. Often billed alongside Meke, Prosto Dre and Kondrat. Next up: Sekta Selekta, Krakow on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Wills Witbooi is a techno and electro artist based in Poland, with 51 gigs on so
 
 Meke, Prosto Dre, Kondrat
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/willswitbooi/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/willswitbooi/)*

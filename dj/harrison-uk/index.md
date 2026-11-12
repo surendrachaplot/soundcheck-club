@@ -1,6 +1,6 @@
 # Harrison (UK)
 
-Harrison (UK) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at NQ JPN, London on Fri, 27 Nov 2026.
+Harrison (UK) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at NQ JPN, London on Fri, 27 Nov 2026.
 
 Harrison (UK) is a techno and house artist, with 11 gigs on soundcheck across Berlin, London and Sheffield. Often billed alongside Harrison, Cimmerian and Move Elusive. Next up: NQ JPN, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Harrison (UK) is a techno and house artist, with 11 gigs on soundcheck across Be
 
 Harrison (2), Cimmerian, Move Elusive
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/harrison-uk/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/harrison-uk/)*

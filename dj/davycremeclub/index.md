@@ -1,6 +1,6 @@
 # Davy (Crème Club)
 
-Davy (Crème Club) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Distillery, Leipzig on Sat, 14 Nov 2026.
+Davy (Crème Club) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Distillery, Leipzig on Sat, 14 Nov 2026.
 
 Davy (Crème Club) is a house and techno artist based in Germany, with 8 gigs on soundcheck across Berlin, Leipzig, Munich and Vienna. Often billed alongside boris (creme club), Lulu & Nell and Monti1one. Next up: Distillery, Leipzig on Sat 14 Nov.
 
@@ -24,4 +24,4 @@ Davy (Crème Club) is a house and techno artist based in Germany, with 8 gigs on
 
 boris (creme club), Lulu & Nell, Monti1one
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davycremeclub/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davycremeclub/)*

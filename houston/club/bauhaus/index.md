@@ -1,14 +1,13 @@
 # Bauhaus
 
-Bauhaus is a music venue in Houston with 10 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Ely Oaks" on Wed, 11 Nov 2026.
+Bauhaus is a music venue in Houston with 9 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Deep In Tech: All Stars" on Thu, 12 Nov 2026.
 
-Bauhaus is a music venue in Houston listed on soundcheck. 10 upcoming gigs, with line-ups including Darude, Ely Oaks, Giorgia Angiuli and Kahani and 2 more. See dates, start times and who's playing. 1803 Pease St, Houston, TX 77003, US.
+Bauhaus is a music venue in Houston listed on soundcheck. 9 upcoming gigs, with line-ups including Darude, Giorgia Angiuli, Kahani and Kunal Merchant and 2 more. See dates, start times and who's playing. 1803 Pease St, Houston, TX 77003, US.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 11 Nov 2026 | Ely Oaks | Ely Oaks |
 | Thu, 12 Nov 2026 | Deep In Tech: All Stars |  |
 | Fri, 13 Nov 2026 | Technasia | Technasia |
 | Fri, 20 Nov 2026 | Mark Knight | Mark Knight |
@@ -23,4 +22,4 @@ Bauhaus is a music venue in Houston listed on soundcheck. 10 upcoming gigs, with
 
 1803 Pease St, Houston, TX 77003, US, Houston
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/houston/club/bauhaus/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/houston/club/bauhaus/)*

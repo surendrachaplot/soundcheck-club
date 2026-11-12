@@ -1,6 +1,6 @@
 # Steve Noah
 
-Steve Noah is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Hungry Brain, Chicago on Sat, 5 Dec 2026.
+Steve Noah is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Hungry Brain, Chicago on Sat, 5 Dec 2026.
 
 Steve Noah is a techno and house artist based in United States of America, with 56 gigs on soundcheck across Chicago, Minneapolis/St Paul and New Orleans. Often billed alongside Jace Inman, Initial G and flower food. Next up: The Hungry Brain, Chicago on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Steve Noah is a techno and house artist based in United States of America, with 
 
 Jace Inman, Initial G, flower food
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stevenoah/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stevenoah/)*

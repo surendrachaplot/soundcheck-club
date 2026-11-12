@@ -1,6 +1,6 @@
 # Willo
 
-Willo is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Ice Cream Factory, Perth on Sat, 28 Nov 2026.
+Willo is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Ice Cream Factory, Perth on Sat, 28 Nov 2026.
 
 Willo is a house and techno artist based in Australia, with 38 gigs on soundcheck across Amsterdam, Brisbane, Chicago and Dublin and 9 more. Often billed alongside 1tbsp, Ayebatonye and Cassian. Next up: Ice Cream Factory, Perth on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Willo is a house and techno artist based in Australia, with 38 gigs on soundchec
 
 1tbsp, Ayebatonye, Cassian
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/willo/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/willo/)*

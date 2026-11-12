@@ -1,6 +1,6 @@
 # KOBOV
 
-KOBOV is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Music Club Pulse 22, Prague on Fri, 13 Nov 2026.
+KOBOV is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Music Club Pulse 22, Prague on Fri, 13 Nov 2026.
 
 KOBOV is a techno and trance artist based in Czech Republic, with 27 gigs on soundcheck across Bratislava, Krakow and Prague. Often billed alongside Paul Krist, NONSENSE (CZ) and RiVid. Next up: Music Club Pulse 22, Prague on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ KOBOV is a techno and trance artist based in Czech Republic, with 27 gigs on sou
 
 Paul Krist, NONSENSE (CZ), RiVid
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kobov/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kobov/)*

@@ -1,6 +1,6 @@
 # Arao
 
-Arao is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Sat, 21 Nov 2026.
+Arao is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Sat, 21 Nov 2026.
 
 Arao is a techno and house artist, with 61 gigs on soundcheck across Tokyo. Often billed alongside Monna Lisa, Bundo and 35DH-1. Next up: UTOPIA / DYSTOPIA, Tokyo on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Arao is a techno and house artist, with 61 gigs on soundcheck across Tokyo. Ofte
 
 Monna Lisa, Bundo, 35DH-1
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arao/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arao/)*

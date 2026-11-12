@@ -1,6 +1,6 @@
 # Paul Ahi
 
-Paul Ahi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at House OF Scorpio, Los Angeles on Thu, 12 Nov 2026.
+Paul Ahi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at House OF Scorpio, Los Angeles on Thu, 12 Nov 2026.
 
 Paul Ahi is a house and techno artist, with 11 gigs on soundcheck across Los Angeles and San Diego. Often billed alongside RCKSLVR, GRLFRND and Tamara Lanza. Next up: House OF Scorpio, Los Angeles on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Paul Ahi is a house and techno artist, with 11 gigs on soundcheck across Los Ang
 
 RCKSLVR, GRLFRND, Tamara Lanza
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paulahi/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paulahi/)*

@@ -1,6 +1,6 @@
 # Rolo (3)
 
-Rolo (3) is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at City Hall, Barcelona on Thu, 12 Nov 2026.
+Rolo (3) is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at City Hall, Barcelona on Thu, 12 Nov 2026.
 
 Rolo is a house and minimal artist based in Hungary, with 20 gigs on soundcheck across Barcelona and Budapest. Often billed alongside Electric Boutique, Lost in Details and MöB. Next up: City Hall, Barcelona on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Rolo is a house and minimal artist based in Hungary, with 20 gigs on soundcheck 
 
 Electric Boutique, Lost in Details, MöB (1)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rolo-3/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rolo-3/)*

@@ -1,6 +1,6 @@
 # Tiago Marques
 
-Tiago Marques is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Hub Criativo Beato, Lisbon on Sat, 14 Nov 2026.
+Tiago Marques is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Hub Criativo Beato, Lisbon on Sat, 14 Nov 2026.
 
 Tiago Marques is a house and techno artist based in Portugal, with 65 gigs on soundcheck across Athens, Berlin, Brussels and Buenos Aires and 4 more. Often billed alongside Mary B, Cruz (PT) and Kee_ko. Next up: Hub Criativo Beato, Lisbon on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Tiago Marques is a house and techno artist based in Portugal, with 65 gigs on so
 
 Mary B (2), Cruz (PT), Kee_ko
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tiagomarques/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tiagomarques/)*

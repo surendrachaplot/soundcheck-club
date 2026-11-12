@@ -1,6 +1,6 @@
 # Teddy Kitano
 
-Teddy Kitano is a Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Le Poisson Volant, Paris on Thu, 3 Dec 2026.
+Teddy Kitano is a Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Le Poisson Volant, Paris on Thu, 3 Dec 2026.
 
 Teddy Kitano is a bass and jungle artist based in France, with 19 gigs on soundcheck across Belgrade, Brussels, Geneva and Lausanne and 3 more. Often billed alongside BJF, Big Dope P and Cannonbar. Next up: Le Poisson Volant, Paris on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Teddy Kitano is a bass and jungle artist based in France, with 19 gigs on soundc
 
 BJF, Big Dope P, Cannonbar
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/teddykitano/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/teddykitano/)*

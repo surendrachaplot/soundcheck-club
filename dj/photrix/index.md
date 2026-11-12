@@ -1,6 +1,6 @@
 # Photrix
 
-Photrix is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Bar Silver Vinyl Lounge & The Vault, London on Sat, 28 Nov 2026.
+Photrix is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Bar Silver Vinyl Lounge & The Vault, London on Sat, 28 Nov 2026.
 
 Photrix is a techno and progressive house artist based in United Kingdom, with 17 gigs on soundcheck across London. Often billed alongside AVANTIME, Alex Taliana and Bushy Squirrel. Next up: Bar Silver Vinyl Lounge & The Vault, London on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Photrix is a techno and progressive house artist based in United Kingdom, with 1
 
 AVANTIME, Alex Taliana, Bushy Squirrel
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/photrix/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/photrix/)*

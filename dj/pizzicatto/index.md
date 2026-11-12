@@ -1,6 +1,6 @@
 # Pizzicatto
 
-Pizzicatto is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Spook Club, Valencia on Sat, 21 Nov 2026.
+Pizzicatto is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Spook Club, Valencia on Sat, 21 Nov 2026.
 
 Pizzicatto is a house and tech house artist based in Spain, with 68 gigs on soundcheck across Barcelona, Berlin, Ibiza and London and 3 more. Often billed alongside Varis, Pau Pérez and Sueezo. Next up: Spook Club, Valencia on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ Pizzicatto is a house and tech house artist based in Spain, with 68 gigs on soun
 
 Varis, Pau Pérez, Sueezo
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pizzicatto/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pizzicatto/)*

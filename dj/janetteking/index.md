@@ -1,6 +1,6 @@
 # Janette King
 
-Janette King is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Entre Nous, Montreal on Sun, 15 Nov 2026.
+Janette King is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Entre Nous, Montreal on Sun, 15 Nov 2026.
 
 Janette King is a house and hip-hop artist, with 7 gigs on soundcheck across Montreal. Often billed alongside Hua Li 化力, Aquaventure and Ellxandra. Next up: Entre Nous, Montreal on Sun 15 Nov.
 
@@ -23,4 +23,4 @@ Janette King is a house and hip-hop artist, with 7 gigs on soundcheck across Mon
 
 Hua Li 化力, Aquaventure, Ellxandra
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janetteking/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janetteking/)*

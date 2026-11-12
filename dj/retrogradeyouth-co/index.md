@@ -1,6 +1,6 @@
 # Retrograde Youth
 
-Retrograde Youth is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at 50 | 50, Medellin on Sat, 21 Nov 2026.
+Retrograde Youth is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at 50 | 50, Medellin on Sat, 21 Nov 2026.
 
 Retrograde Youth is a house and electronica artist based in Colombia, with 18 gigs on soundcheck across Bogotá and Medellin. Often billed alongside Julianna, Niebla and Biometric Systems. Next up: 50 | 50, Medellin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Retrograde Youth is a house and electronica artist based in Colombia, with 18 gi
 
 Julianna, Niebla, Biometric Systems
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/retrogradeyouth-co/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/retrogradeyouth-co/)*

@@ -1,6 +1,6 @@
 # Prom Night
 
-Prom Night is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Jolene, Copenhagen on Sat, 14 Nov 2026.
+Prom Night is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Jolene, Copenhagen on Sat, 14 Nov 2026.
 
 Prom Night is a house and disco artist based in Denmark, with 85 gigs on soundcheck across Bangkok, Belfast, Berlin and Cologne and 4 more. Often billed alongside Kawun, Harrison Heat and Kasper Bjorke. Next up: Jolene, Copenhagen on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Prom Night is a house and disco artist based in Denmark, with 85 gigs on soundch
 
 Kawun, Harrison Heat, Kasper Bjorke
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/promnight/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/promnight/)*

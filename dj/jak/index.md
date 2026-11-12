@@ -1,6 +1,6 @@
 # JAK
 
-JAK is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - 525 Se Pine st., Portland on Sat, 5 Dec 2026.
+JAK is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - 525 Se Pine st., Portland on Sat, 5 Dec 2026.
 
 JAK is a techno and dub techno artist based in United States of America, with 21 gigs on soundcheck across Detroit and Portland. Often billed alongside DJ DISSOLVE, Justin Neal and Andrew Paris. Next up: TBA - 525 Se Pine st., Portland on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ JAK is a techno and dub techno artist based in United States of America, with 21
 
 DJ DISSOLVE, Justin Neal, Andrew Paris
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jak/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jak/)*

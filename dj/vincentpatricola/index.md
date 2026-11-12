@@ -1,6 +1,6 @@
 # Vincent Patricola
 
-Vincent Patricola is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Terminal Bar, Minneapolis/St Paul on Sat, 21 Nov 2026.
+Vincent Patricola is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Terminal Bar, Minneapolis/St Paul on Sat, 21 Nov 2026.
 
 Vincent Patricola is a house and techno artist based in United States of America, with 85 gigs on soundcheck across Detroit and Minneapolis/St Paul. Often billed alongside Jesse Cory, Andrés and Mike Agent X Clark. Next up: Terminal Bar, Minneapolis/St Paul on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Vincent Patricola is a house and techno artist based in United States of America
 
 Jesse Cory, Andrés, Mike Agent X Clark
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vincentpatricola/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vincentpatricola/)*

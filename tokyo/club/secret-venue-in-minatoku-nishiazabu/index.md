@@ -1,6 +1,6 @@
 # Secret Venue in Minatoku-Nishiazabu
 
-Secret Venue in Minatoku-Nishiazabu is a music venue in Tokyo with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "DtRm presents SKIIMA" on Fri, 13 Nov 2026.
+Secret Venue in Minatoku-Nishiazabu is a music venue in Tokyo with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "DtRm presents SKIIMA" on Fri, 13 Nov 2026.
 
 Secret Venue in Minatoku-Nishiazabu is a music venue in Tokyo listed on soundcheck. 4 upcoming gigs, with line-ups including DJ MARIA., DJ Shibata, Iori and KCT and 2 more. See dates, start times and who's playing.
 
@@ -13,4 +13,4 @@ Secret Venue in Minatoku-Nishiazabu is a music venue in Tokyo listed on soundche
 | Sat, 5 Dec 2026 | MEDUSA Hard Techno Rave: 1st Anniversary |  |
 | Sat, 19 Dec 2026 | Alive # 22 | DJ MARIA., DJ Shibata, levolant |
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/secret-venue-in-minatoku-nishiazabu/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/secret-venue-in-minatoku-nishiazabu/)*

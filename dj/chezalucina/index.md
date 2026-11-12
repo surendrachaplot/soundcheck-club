@@ -1,14 +1,15 @@
 # CHEZA LUCINA
 
-CHEZA LUCINA is a Jungle and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Planet Wax, London on Thu, 12 Nov 2026.
+CHEZA LUCINA is a Jungle and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Planet Wax, London on Thu, 12 Nov 2026.
 
-CHEZA LUCINA is a jungle and techno artist based in United Kingdom, with 62 gigs on soundcheck across Brighton, London, Nottingham and Paris. Often billed alongside THEMPRESS, Princess Xixi and Ivicore. Next up: Planet Wax, London on Thu 12 Nov.
+CHEZA LUCINA is a jungle and bass artist based in United Kingdom, with 63 gigs on soundcheck across Brighton, London, Nottingham and Paris. Often billed alongside THEMPRESS, Princess Xixi and Ivicore. Next up: Planet Wax, London on Thu 12 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 12 Nov 2026 | Planet Wax | London |
+| Fri, 20 Nov 2026 | Dalston Superstore | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ CHEZA LUCINA is a jungle and techno artist based in United Kingdom, with 62 gigs
 
 THEMPRESS, Princess Xixi, Ivicore
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chezalucina/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chezalucina/)*

@@ -1,6 +1,6 @@
 # shilimili
 
-shilimili is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Flash, Washington DC on Sat, 28 Nov 2026.
+shilimili is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Flash, Washington DC on Sat, 28 Nov 2026.
 
 shilimili is a house and techno artist based in Iran, with 34 gigs on soundcheck across Houston, Los Angeles, New York City and Washington DC. Often billed alongside Sabda, BehTarin and Heather Luna. Next up: Flash, Washington DC on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ shilimili is a house and techno artist based in Iran, with 34 gigs on soundcheck
 
 Sabda, BehTarin, Heather Luna
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shilimili/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shilimili/)*

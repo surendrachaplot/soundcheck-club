@@ -1,6 +1,6 @@
 # Nitsa Club
 
-Nitsa Club is a music venue in Barcelona with 8 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "oskar med k · Bofirax · Isa Rojas / DJ Python · RHR · selectya Glossy" on Fri, 13 Nov 2026.
+Nitsa Club is a music venue in Barcelona with 8 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "oskar med k · Bofirax · Isa Rojas / DJ Python · RHR · selectya Glossy" on Fri, 13 Nov 2026.
 
 Nitsa Club is a music venue in Barcelona listed on soundcheck. 8 upcoming gigs, with line-ups including 2ManyDJs, Bofirax, Cloonee and Dengue Dengue Dengue and 2 more. See dates, start times and who's playing. Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain.
 
@@ -21,4 +21,4 @@ Nitsa Club is a music venue in Barcelona listed on soundcheck. 8 upcoming gigs, 
 
 Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain, Barcelona
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/nitsa-club/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/nitsa-club/)*

@@ -1,6 +1,6 @@
 # Gilvaia
 
-Gilvaia is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Zero Club, Lisbon on Sat, 28 Nov 2026.
+Gilvaia is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Zero Club, Lisbon on Sat, 28 Nov 2026.
 
 Gilvaia is a house and techno artist based in Portugal, with 38 gigs on soundcheck across Lisbon. Often billed alongside DJ Nox, Syper and Analodjica. Next up: Zero Club, Lisbon on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Gilvaia is a house and techno artist based in Portugal, with 38 gigs on soundche
 
 DJ Nox, Syper, Analodjica
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gilvaia/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gilvaia/)*

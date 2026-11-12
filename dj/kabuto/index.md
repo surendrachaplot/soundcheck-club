@@ -1,6 +1,6 @@
 # KABUTO
 
-KABUTO is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at WOMB, Tokyo on Fri, 13 Nov 2026.
+KABUTO is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at WOMB, Tokyo on Fri, 13 Nov 2026.
 
 KABUTO is a techno and house artist based in Japan, with 122 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 23 more. Often billed alongside Satoshi Otsuki, levolant and Antwork. Next up: WOMB, Tokyo on Fri 13 Nov.
 
@@ -28,4 +28,4 @@ KABUTO is a techno and house artist based in Japan, with 122 gigs on soundcheck 
 
 Satoshi Otsuki, levolant, Antwork
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kabuto/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kabuto/)*

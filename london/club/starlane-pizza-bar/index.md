@@ -1,6 +1,6 @@
 # Starlane Pizza Bar
 
-Starlane Pizza Bar is a music venue in London with 18 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Kooky Ken: Christian Bonanata, Greta + more " on Fri, 13 Nov 2026.
+Starlane Pizza Bar is a music venue in London with 18 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Kooky Ken: Christian Bonanata, Greta + more " on Fri, 13 Nov 2026.
 
 Starlane Pizza Bar is a music venue in London listed on soundcheck. 18 upcoming gigs, with line-ups including 4Pleasure, Aldo, Alisdair and Anna Wall and 2 more. See dates, start times and who's playing. 12 Cody Road, E16 4SR London, United Kingdom.
 
@@ -23,4 +23,4 @@ Starlane Pizza Bar is a music venue in London listed on soundcheck. 18 upcoming 
 
 12 Cody Road, E16 4SR London, United Kingdom, London
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/starlane-pizza-bar/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/starlane-pizza-bar/)*

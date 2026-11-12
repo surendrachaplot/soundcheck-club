@@ -1,6 +1,6 @@
 # i+eo
 
-i+eo is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Red Gate Arts Society, Vancouver on Fri, 20 Nov 2026.
+i+eo is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Red Gate Arts Society, Vancouver on Fri, 20 Nov 2026.
 
 i+eo is an experimental and techno artist based in Canada, with 7 gigs on soundcheck across Montreal and Vancouver. Often billed alongside IHA (CA), ephemeral objects and DJ Hockey. Next up: Red Gate Arts Society, Vancouver on Fri 20 Nov.
 
@@ -23,4 +23,4 @@ i+eo is an experimental and techno artist based in Canada, with 7 gigs on soundc
 
 IHA (CA), ephemeral objects, DJ Hockey
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ieo-ca/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ieo-ca/)*

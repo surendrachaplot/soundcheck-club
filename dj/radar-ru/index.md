@@ -1,6 +1,6 @@
 # Radar (RU)
 
-Radar (RU) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Pickle, Miami on Thu, 3 Dec 2026.
+Radar (RU) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Pickle, Miami on Thu, 3 Dec 2026.
 
 Radar (RU) is a techno and trance artist based in Russia, with 8 gigs on soundcheck across Bogotá, Lyon, Miami and Paris. Often billed alongside Kev Gee, San Dee and 1morning. Next up: The Pickle, Miami on Thu 3 Dec.
 
@@ -24,4 +24,4 @@ Radar (RU) is a techno and trance artist based in Russia, with 8 gigs on soundch
 
 Kev Gee, San Dee, 1morning
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/radar-ru/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/radar-ru/)*

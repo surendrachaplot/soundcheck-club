@@ -1,6 +1,6 @@
 # Asa Tate
 
-Asa Tate is a House and Balearic artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Club Empire, London on Fri, 13 Nov 2026.
+Asa Tate is a House and Balearic artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Club Empire, London on Fri, 13 Nov 2026.
 
 Asa Tate is a house and balearic artist based in United Kingdom, with 26 gigs on soundcheck across Berlin, Brighton, Bucharest and Edinburgh and 2 more. Often billed alongside Meg Paine, Tech Support and Zaltsman. Next up: Club Empire, London on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Asa Tate is a house and balearic artist based in United Kingdom, with 26 gigs on
 
 Meg Paine, Tech Support, Zaltsman
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/asatate/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/asatate/)*

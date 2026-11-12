@@ -1,6 +1,6 @@
 # C.FRIM
 
-C.FRIM is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Oxford Art Factory, Sydney on Fri, 4 Dec 2026.
+C.FRIM is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Oxford Art Factory, Sydney on Fri, 4 Dec 2026.
 
 C.FRIM is a techno and house artist based in Australia, with 99 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Bali and 23 more. Often billed alongside MIRASIA, Caucasian Opportunities and Sally C. Next up: Oxford Art Factory, Sydney on Fri 4 Dec.
 
@@ -28,4 +28,4 @@ C.FRIM is a techno and house artist based in Australia, with 99 gigs on soundche
 
 MIRASIA, Caucasian Opportunities, Sally C
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cfrim/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cfrim/)*

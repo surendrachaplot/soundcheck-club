@@ -1,6 +1,6 @@
 # Russell Industrial Center
 
-Russell Industrial Center is a music venue in Detroit with 6 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "RAY VOLPE - VOLPETRON ETERNAL TOUR" on Fri, 13 Nov 2026.
+Russell Industrial Center is a music venue in Detroit with 6 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "RAY VOLPE - VOLPETRON ETERNAL TOUR" on Fri, 13 Nov 2026.
 
 Russell Industrial Center is a music venue in Detroit listed on soundcheck. 6 upcoming gigs, with line-ups including Annicka, DJ SPHiNX, Layton Giordani and Nils Hoffmann and 1 more. See dates, start times and who's playing. 1600 Clay Street; Detroit; Michigan; 48211.
 
@@ -19,4 +19,4 @@ Russell Industrial Center is a music venue in Detroit listed on soundcheck. 6 up
 
 1600 Clay Street; Detroit; Michigan; 48211, Detroit
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/russell-industrial-center/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/russell-industrial-center/)*

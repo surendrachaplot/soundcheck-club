@@ -1,6 +1,6 @@
 # DJ Amir
 
-DJ Amir is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Tigris, Detroit on Sat, 14 Nov 2026.
+DJ Amir is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Tigris, Detroit on Sat, 14 Nov 2026.
 
 DJ Amir is a house and disco artist, with 35 gigs on soundcheck across Amsterdam, Berlin, Detroit and Dubai and 11 more. Often billed alongside Jazzanova, DJ Kon and Daniel Best. Next up: Tigris, Detroit on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ DJ Amir is a house and disco artist, with 35 gigs on soundcheck across Amsterdam
 
 Jazzanova, DJ Kon, Daniel Best
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djamir/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djamir/)*

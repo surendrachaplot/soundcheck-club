@@ -1,6 +1,6 @@
 # Art Club
 
-Art Club is a music venue in Houston with 12 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Riordan [Official Breakaway Afterparty]" on Fri, 13 Nov 2026.
+Art Club is a music venue in Houston with 12 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Riordan [Official Breakaway Afterparty]" on Fri, 13 Nov 2026.
 
 Art Club is a music venue in Houston listed on soundcheck. 12 upcoming gigs, with line-ups including AC Slater, Ash Lauryn, D.Dan and DJ_Dave and 2 more. See dates, start times and who's playing. 401 Franklin St, Houston, TX 77201, USA.
 
@@ -23,4 +23,4 @@ Art Club is a music venue in Houston listed on soundcheck. 12 upcoming gigs, wit
 
 401 Franklin St, Houston, TX 77201, USA, Houston
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/houston/club/art-club/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/houston/club/art-club/)*

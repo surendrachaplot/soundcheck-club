@@ -1,6 +1,6 @@
 # SULEV
 
-SULEV is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Factory - Your Favourit Secret Rave, Bulgaria on Sat, 14 Nov 2026.
+SULEV is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Factory - Your Favourit Secret Rave, Bulgaria on Sat, 14 Nov 2026.
 
 SULEV is a techno and trance artist based in Bulgaria, with 13 gigs on soundcheck across Bulgaria and Sofia. Often billed alongside Egor Sintsoff, NERONE and VICTOR VICTOROV. Next up: Factory - Your Favourit Secret Rave, Bulgaria on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ SULEV is a techno and trance artist based in Bulgaria, with 13 gigs on soundchec
 
 Egor Sintsoff, NERONE (2), VICTOR VICTOROV
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sulev/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sulev/)*

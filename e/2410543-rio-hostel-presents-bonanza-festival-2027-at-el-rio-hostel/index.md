@@ -1,6 +1,6 @@
 # Rio Hostel presents: Bonanza Festival 2027 at El Rio Hostel
 
-Rio Hostel presents: Bonanza Festival 2027 at El Rio Hostel on Wed 3 Mar, Colombia. 69 artists: Adi (CO), Andrea Arias, Andy Martin and Anna Wall and 65 more. See the line-up on soundcheck.
+Rio Hostel presents: Bonanza Festival 2027 at El Rio Hostel on Wed 3 Mar, Colombia. 68 artists: Adi (CO), Andrea Arias, Andy Martin and Anna Wall and 64 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -17,7 +17,6 @@ Rio Hostel presents: Bonanza Festival 2027 at El Rio Hostel on Wed 3 Mar, Colomb
 - Autopilot
 - Bclip
 - Benny (El Rio Hostel)
-- Bernal
 - BMG
 - Calamidades Lola
 - CCL
@@ -32,7 +31,7 @@ Rio Hostel presents: Bonanza Festival 2027 at El Rio Hostel on Wed 3 Mar, Colomb
 - DORA
 - Ectomorph
 - Eddy Lover
-- Edward
+- Edward (2)
 - Erika
 - Eversines
 - Fais Le Beau

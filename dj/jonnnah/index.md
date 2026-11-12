@@ -1,6 +1,6 @@
 # Jonnnah
 
-Jonnnah is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Super7, Lyon on Fri, 13 Nov 2026.
+Jonnnah is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Super7, Lyon on Fri, 13 Nov 2026.
 
 Jonnnah is a techno and acid artist based in France, with 12 gigs on soundcheck across Berlin, Brussels, London and Lyon and 2 more. Often billed alongside Salma Rosa, Jacky Jeane and Lisa More. Next up: Super7, Lyon on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Jonnnah is a techno and acid artist based in France, with 12 gigs on soundcheck 
 
 Salma Rosa, Jacky Jeane, Lisa More
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jonnnah/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jonnnah/)*

@@ -1,14 +1,13 @@
 # fi
 
-fi is a music venue in Cologne with 15 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "fi x ELFTER ELFTER" on Wed, 11 Nov 2026.
+fi is a music venue in Cologne with 14 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "fi x && x Tipping Point" on Sat, 14 Nov 2026.
 
-fi is a music venue in Cologne listed on soundcheck. 15 upcoming gigs, with line-ups including Acid Pauli, Alalkih, Bonnie Spacey and Claus Casper and 2 more. See dates, start times and who's playing. Widdersdorfer Straße 246, 50825 Köln, Deutschland.
+fi is a music venue in Cologne listed on soundcheck. 14 upcoming gigs, with line-ups including Acid Pauli, Alalkih, Bonnie Spacey and Claus Casper and 2 more. See dates, start times and who's playing. Widdersdorfer Straße 246, 50825 Köln, Deutschland.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 11 Nov 2026 | fi x ELFTER ELFTER | DJ HÖRDE, Evissimax, KIMME, Kalte Liebe, Ursula Erdmann, ZAHNATZIN, paaradoxx |
 | Sat, 14 Nov 2026 | fi x && x Tipping Point | Frida Darko, NUAH (2), Sahra Bass |
 | Fri, 20 Nov 2026 | fi x Traumer & Akte | Costanza, ISABELL (1), Interplay, Phil2, Philipp Stoffel, Traumer |
 | Sat, 21 Nov 2026 | fi x Dominik Eulberg & neunsechsneun | Cosanne, Dominik Eulberg |
@@ -18,9 +17,10 @@ fi is a music venue in Cologne listed on soundcheck. 15 upcoming gigs, with line
 | Sat, 5 Dec 2026 | fi x 3000 Grad | Bonnie Spacey, Corios, Maria Theresia von Eberg, Mollono.Bass |
 | Fri, 11 Dec 2026 | fi x [a:rpia:r] & rheinrhythmik | Petre Inspirescu, Raresh, Rhadoo |
 | Sat, 12 Dec 2026 | fi x Kaufmann & Pl4net Balearic | Claus Casper, Eszter, Kaufmann, Maltitz, Pardis |
+| Fri, 18 Dec 2026 | fi x DAX J & Hoove | DAX J, Krackk, Robin Tasi, Thalo Santana |
 
 ## Address
 
 Widdersdorfer Straße 246, 50825 Köln, Deutschland, Cologne
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/fi/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/fi/)*

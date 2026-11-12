@@ -1,6 +1,6 @@
 # VOLTMARIE
 
-VOLTMARIE is a Techno and Dub artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Grelle Forelle, Vienna on Fri, 13 Nov 2026.
+VOLTMARIE is a Techno and Dub artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Grelle Forelle, Vienna on Fri, 13 Nov 2026.
 
 VOLTMARIE is a techno and dub artist based in Austria, with 23 gigs on soundcheck across Vienna. Often billed alongside ninon., Eminelli and MELIMEKO. Next up: Grelle Forelle, Vienna on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ VOLTMARIE is a techno and dub artist based in Austria, with 23 gigs on soundchec
 
 ninon., Eminelli, MELIMEKO
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/voltmarie/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/voltmarie/)*

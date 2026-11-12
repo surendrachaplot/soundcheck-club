@@ -1,6 +1,6 @@
 # Shimrise
 
-Shimrise is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Electric Pizza Shop, Manchester on Sat, 21 Nov 2026.
+Shimrise is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Electric Pizza Shop, Manchester on Sat, 21 Nov 2026.
 
 Shimrise is a house and garage artist based in United Kingdom, with 45 gigs on soundcheck across London and Manchester. Often billed alongside Rich Reason, Chunky and Obeka. Next up: Electric Pizza Shop, Manchester on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Shimrise is a house and garage artist based in United Kingdom, with 45 gigs on s
 
 Rich Reason, Chunky, Obeka
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shimrise/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shimrise/)*

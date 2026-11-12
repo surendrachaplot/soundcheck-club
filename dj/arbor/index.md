@@ -1,6 +1,6 @@
 # Arbor
 
-Arbor is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Unsorted.Space, Zurich on Thu, 12 Nov 2026.
+Arbor is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Unsorted.Space, Zurich on Thu, 12 Nov 2026.
 
 Arbor is a techno and hardcore artist, with 12 gigs on soundcheck across Berlin, Lisbon and Zurich. Often billed alongside Brianathegemini, Frik and V-TEC. Next up: Unsorted.Space, Zurich on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Arbor is a techno and hardcore artist, with 12 gigs on soundcheck across Berlin,
 
 Brianathegemini, Frik, V-TEC
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arbor/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arbor/)*

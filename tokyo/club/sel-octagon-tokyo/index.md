@@ -1,6 +1,6 @@
 # SEL OCTAGON TOKYO
 
-SEL OCTAGON TOKYO is a music venue in Tokyo with 14 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "6IX SENSE" on Thu, 12 Nov 2026.
+SEL OCTAGON TOKYO is a music venue in Tokyo with 14 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "6IX SENSE" on Thu, 12 Nov 2026.
 
 SEL OCTAGON TOKYO is a music venue in Tokyo listed on soundcheck. 14 upcoming gigs, with line-ups including ERI YAMAGUCHI, Flex (Italy), GOLDEN ROA and GUEST (UK) and 2 more. See dates, start times and who's playing. Axall Roppongi B1F, 7-8-6 Roppongi, Minato-ku, Tokyo, 106-0032 Japan.
 
@@ -23,4 +23,4 @@ SEL OCTAGON TOKYO is a music venue in Tokyo listed on soundcheck. 14 upcoming gi
 
 Axall Roppongi B1F, 7-8-6 Roppongi, Minato-ku, Tokyo, 106-0032 Japan, Tokyo
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/sel-octagon-tokyo/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/sel-octagon-tokyo/)*

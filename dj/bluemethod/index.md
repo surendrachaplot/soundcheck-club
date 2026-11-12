@@ -1,6 +1,6 @@
 # Blue Method
 
-Blue Method is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Radial, London on Fri, 15 Jan 2027.
+Blue Method is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Radial, London on Fri, 15 Jan 2027.
 
 Blue Method is a house and disco artist based in Switzerland, with 7 gigs on soundcheck across Amsterdam, London and Zurich. Often billed alongside Afshin, Boddhi Satva and Kapela. Next up: Radial, London on Fri 15 Jan.
 
@@ -23,4 +23,4 @@ Blue Method is a house and disco artist based in Switzerland, with 7 gigs on sou
 
 Afshin, Boddhi Satva, Kapela
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bluemethod/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bluemethod/)*

@@ -1,6 +1,6 @@
 # Alec Falconer
 
-Alec Falconer is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 21 Nov 2026.
+Alec Falconer is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 21 Nov 2026.
 
 Alec Falconer is a house and garage artist based in United Kingdom, with 118 gigs on soundcheck across Aberdeen, Amsterdam, Barcelona and Berlin and 30 more. Often billed alongside Harry Wills, Dr Banana and Phone Traxxx. Next up: Seaseaclub Barcelona, Barcelona on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Alec Falconer is a house and garage artist based in United Kingdom, with 118 gig
 
 Harry Wills, Dr Banana, Phone Traxxx
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alecfalconer/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alecfalconer/)*

@@ -1,6 +1,6 @@
 # DJ SEXSTASY
 
-DJ SEXSTASY is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Sainte-Catherine Hall, Montreal on Sat, 14 Nov 2026.
+DJ SEXSTASY is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Sainte-Catherine Hall, Montreal on Sat, 14 Nov 2026.
 
 DJ SEXSTASY is a techno and trance artist based in Brazil, with 52 gigs on soundcheck across Amsterdam, Atlanta, Austin and Berlin and 19 more. Often billed alongside Rishka, Towicz and GI.O. Next up: Sainte-Catherine Hall, Montreal on Sat 14 Nov.
 
@@ -30,4 +30,4 @@ DJ SEXSTASY is a techno and trance artist based in Brazil, with 52 gigs on sound
 
 Rishka, Towicz, GI.O
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsexstasy/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsexstasy/)*

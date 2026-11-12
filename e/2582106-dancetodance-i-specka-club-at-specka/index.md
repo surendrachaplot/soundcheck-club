@@ -1,6 +1,6 @@
 # DanceToDance I Specka Club at Specka
 
-DanceToDance I Specka Club on Fri 4 Dec, Madrid. 3 artists: btrast, HCOR and laspalas. Techno and Electronica. See the line-up on soundcheck.
+DanceToDance I Specka Club on Fri 4 Dec, Madrid. 4 artists: btrast, HCOR, laspalas and Pep Descals. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ DanceToDance I Specka Club on Fri 4 Dec, Madrid. 3 artists: btrast, HCOR and las
 - btrast
 - HCOR
 - laspalas
+- Pep Descals
 
 *Source: [soundcheck](https://soundcheck.club/e/2582106-dancetodance-i-specka-club-at-specka/)*

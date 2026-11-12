@@ -1,6 +1,6 @@
 # VISION
 
-VISION is a House and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Kiosque des Bastions, Geneva on Fri, 13 Nov 2026.
+VISION is a House and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Kiosque des Bastions, Geneva on Fri, 13 Nov 2026.
 
 VISION is a house and drum & bass artist based in France, with 8 gigs on soundcheck across Geneva, London, Melbourne and Seoul and 2 more. Often billed alongside Hector Moreno, ALIBI and Aras. Next up: Kiosque des Bastions, Geneva on Fri 13 Nov.
 
@@ -24,4 +24,4 @@ VISION is a house and drum & bass artist based in France, with 8 gigs on soundch
 
 Hector Moreno, ALIBI, Aras
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vision/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vision/)*

@@ -1,6 +1,6 @@
 # Sammy Morris
 
-Sammy Morris is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Mad Radio Medellín, Medellin on Tue, 17 Nov 2026.
+Sammy Morris is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Mad Radio Medellín, Medellin on Tue, 17 Nov 2026.
 
 Sammy Morris is a house and tech house artist, with 10 gigs on soundcheck across Medellin. Often billed alongside Hassio ( COL ), Cami España and Cuentero. Next up: Mad Radio Medellín, Medellin on Tue 17 Nov.
 
@@ -25,4 +25,4 @@ Sammy Morris is a house and tech house artist, with 10 gigs on soundcheck across
 
 Hassio ( COL ), Cami España, Cuentero
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sammymorris/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sammymorris/)*

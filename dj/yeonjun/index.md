@@ -1,6 +1,6 @@
 # Yeonjun
 
-Yeonjun is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Ring, Seoul on Fri, 13 Nov 2026.
+Yeonjun is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Ring, Seoul on Fri, 13 Nov 2026.
 
 Yeonjun is a techno and electro artist based in South Korea, with 34 gigs on soundcheck across Bangkok, Ho Chi Minh City, Seoul and South Korea. Often billed alongside S.O.N.S, Antwork and Minkyu. Next up: Ring, Seoul on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Yeonjun is a techno and electro artist based in South Korea, with 34 gigs on sou
 
 S.O.N.S, Antwork, Minkyu
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yeonjun/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yeonjun/)*

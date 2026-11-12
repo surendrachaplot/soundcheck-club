@@ -1,6 +1,6 @@
 # FLUCC
 
-FLUCC is a music venue in Vienna with 8 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "deep cut & Dark Pressure feat. Oxygeno - Hypnotic & Deep Techno" on Fri, 13 Nov 2026.
+FLUCC is a music venue in Vienna with 8 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "deep cut & Dark Pressure feat. Oxygeno - Hypnotic & Deep Techno" on Fri, 13 Nov 2026.
 
 FLUCC is a music venue in Vienna listed on soundcheck. 8 upcoming gigs, with line-ups including ADAM19, Aleta, Aura and Aura Live and 2 more. See dates, start times and who's playing. Praterstern 5; Vienna 1020; Austria.
 
@@ -21,4 +21,4 @@ FLUCC is a music venue in Vienna listed on soundcheck. 8 upcoming gigs, with lin
 
 Praterstern 5; Vienna 1020; Austria, Vienna
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/flucc/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/flucc/)*

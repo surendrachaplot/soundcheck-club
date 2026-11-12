@@ -1,6 +1,6 @@
 # Alan Morehouse
 
-Alan Morehouse is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Pixelated Records, New York City on Fri, 13 Nov 2026.
+Alan Morehouse is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Pixelated Records, New York City on Fri, 13 Nov 2026.
 
 Alan Morehouse is a tech house and house artist, with 9 gigs on soundcheck across New York City. Often billed alongside BOOTH4NG, LV RSL and Child Of. Next up: Pixelated Records, New York City on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Alan Morehouse is a tech house and house artist, with 9 gigs on soundcheck acros
 
 BOOTH4NG, LV RSL, Child Of
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alanmorehouse/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alanmorehouse/)*

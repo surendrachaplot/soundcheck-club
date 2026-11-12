@@ -1,6 +1,6 @@
 # kopo
 
-kopo is a Reggaeton and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Japan Monterrey, Mexico City on Thu, 19 Nov 2026.
+kopo is a Reggaeton and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Japan Monterrey, Mexico City on Thu, 19 Nov 2026.
 
 kopo is a reggaeton and techno artist based in Mexico, with 39 gigs on soundcheck across Mexico City. Often billed alongside IRONBOARD, Phill Barrera and Enya Botello. Next up: Japan Monterrey, Mexico City on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ kopo is a reggaeton and techno artist based in Mexico, with 39 gigs on soundchec
 
 IRONBOARD, Phill Barrera, Enya Botello
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kopo/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kopo/)*

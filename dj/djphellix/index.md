@@ -1,6 +1,6 @@
 # DJ phellix
 
-DJ phellix is a Afro House and Afro Tech artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Cloud, Berlin on Sat, 19 Dec 2026.
+DJ phellix is a Afro House and Afro Tech artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Cloud, Berlin on Sat, 19 Dec 2026.
 
 DJ phellix is an afro house and afro tech artist based in Iran, with 27 gigs on soundcheck across Berlin, Dubai, Düsseldorf and Istanbul and 2 more. Often billed alongside SIAAH, Dj Diass and GOYANU. Next up: The Cloud, Berlin on Sat 19 Dec.
 
@@ -26,4 +26,4 @@ DJ phellix is an afro house and afro tech artist based in Iran, with 27 gigs on 
 
 SIAAH, Dj Diass, GOYANU
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djphellix/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djphellix/)*

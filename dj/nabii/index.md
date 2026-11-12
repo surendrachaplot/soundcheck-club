@@ -1,6 +1,6 @@
 # nabii
 
-nabii is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - PORT MELBOURNE, Melbourne on Sat, 5 Dec 2026.
+nabii is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - PORT MELBOURNE, Melbourne on Sat, 5 Dec 2026.
 
 nabii is a techno and trance artist based in Australia, with 45 gigs on soundcheck across Beijing, Brisbane, Chengdu and Melbourne and 4 more. Often billed alongside syrup-E, File Explorer and Chaotiic Good. Next up: TBA - PORT MELBOURNE, Melbourne on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ nabii is a techno and trance artist based in Australia, with 45 gigs on soundche
 
 syrup-E, File Explorer, Chaotiic Good
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nabii/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nabii/)*

@@ -1,6 +1,6 @@
 # PillowTalk
 
-PillowTalk is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at MAD Radio NYC, New York City on Sat, 14 Nov 2026.
+PillowTalk is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at MAD Radio NYC, New York City on Sat, 14 Nov 2026.
 
 PillowTalk is a house and disco artist based in United States of America, with 19 gigs on soundcheck across Adelaide, Cape Town, Los Angeles and Miami and 4 more. Often billed alongside Shane One, Aaron F and Anthony Mansfield. Next up: MAD Radio NYC, New York City on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ PillowTalk is a house and disco artist based in United States of America, with 1
 
 Shane One, Aaron F, Anthony Mansfield
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pillowtalk/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pillowtalk/)*

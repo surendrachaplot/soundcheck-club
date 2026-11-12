@@ -1,6 +1,6 @@
 # Hasfeldt
 
-Hasfeldt is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at ALICE, Copenhagen on Sat, 14 Nov 2026.
+Hasfeldt is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at ALICE, Copenhagen on Sat, 14 Nov 2026.
 
 Hasfeldt is an experimental and ambient artist based in Denmark, with 21 gigs on soundcheck across Berlin, Copenhagen, Lisbon and London and 3 more. Often billed alongside Ryong, Franarchy and Alto Aria. Next up: ALICE, Copenhagen on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Hasfeldt is an experimental and ambient artist based in Denmark, with 21 gigs on
 
 Ryong, Franarchy, Alto Aria
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hasfeldt/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hasfeldt/)*

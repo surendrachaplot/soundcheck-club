@@ -1,6 +1,6 @@
 # Sharayda
 
-Sharayda is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Hulme Garden Centre, Manchester on Sat, 14 Nov 2026.
+Sharayda is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Hulme Garden Centre, Manchester on Sat, 14 Nov 2026.
 
 Sharayda is a house and garage artist based in United Kingdom, with 23 gigs on soundcheck across Manchester. Often billed alongside krioso, BANSHII and Javan. Next up: Hulme Garden Centre, Manchester on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Sharayda is a house and garage artist based in United Kingdom, with 23 gigs on s
 
 krioso, BANSHII, Javan
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sharayda/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sharayda/)*

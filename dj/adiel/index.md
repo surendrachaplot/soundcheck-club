@@ -1,6 +1,6 @@
 # Adiel
 
-Adiel is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Parque Fundidora, Monterrey on Fri, 13 Nov 2026.
+Adiel is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Parque Fundidora, Monterrey on Fri, 13 Nov 2026.
 
 Adiel is a techno and house artist based in Italy, with 249 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 69 more. Often billed alongside Héctor Oaks, Nina Kraviz and Richie Hawtin. Next up: Parque Fundidora, Monterrey on Fri 13 Nov.
 
@@ -36,4 +36,4 @@ Adiel is a techno and house artist based in Italy, with 249 gigs on soundcheck a
 
 Héctor Oaks, Nina Kraviz, Richie Hawtin
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adiel/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adiel/)*

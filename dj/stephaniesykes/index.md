@@ -1,6 +1,6 @@
 # Stephanie Sykes
 
-Stephanie Sykes is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at BRET, Amsterdam on Sun, 22 Nov 2026.
+Stephanie Sykes is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at BRET, Amsterdam on Sun, 22 Nov 2026.
 
 Stephanie Sykes is a techno and house artist based in United Kingdom, with 158 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 50 more. Often billed alongside Grace Dahl, Remco Beekwilder and Beau Didier. Next up: BRET, Amsterdam on Sun 22 Nov.
 
@@ -31,4 +31,4 @@ Stephanie Sykes is a techno and house artist based in United Kingdom, with 158 g
 
 Grace Dahl, Remco Beekwilder, Beau Didier
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stephaniesykes/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stephaniesykes/)*

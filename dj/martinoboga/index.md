@@ -1,18 +1,18 @@
 # Martino Boga
 
-Martino Boga is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Eighteenth Street Lounge (ESL), Washington DC on Wed, 11 Nov 2026.
+Martino Boga is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Flash, Washington DC on Fri, 4 Dec 2026.
 
-Martino Boga is a house and techno artist based in Paraguay, with 32 gigs on soundcheck across Buenos Aires, Detroit, New York City and Sao Paulo and 1 more. Often billed alongside ADREE, Ariel me Llamo and Jus Nowhere. Next up: Eighteenth Street Lounge (ESL), Washington DC on Wed 11 Nov.
+Martino Boga is a house and techno artist based in Paraguay, with 32 gigs on soundcheck across Buenos Aires, Detroit, New York City and Sao Paulo and 1 more. Often billed alongside ADREE, Ariel me Llamo and Jus Nowhere. Next up: Flash, Washington DC on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 11 Nov 2026 | Eighteenth Street Lounge (ESL) | Washington DC |
 | Fri, 4 Dec 2026 | Flash | Washington DC |
 
 ## Recently played
 
+- Eighteenth Street Lounge (ESL), Washington DC · Wed, 11 Nov 2026
 - Eighteenth Street Lounge, Washington DC · Wed, 28 Oct 2026
 - Eighteenth Street Lounge, Washington DC · Wed, 14 Oct 2026
 - Eighteenth Street Lounge (ESL), Washington DC · Wed, 30 Sept 2026
@@ -20,10 +20,9 @@ Martino Boga is a house and techno artist based in Paraguay, with 32 gigs on sou
 - Flash, Washington DC · Sat, 25 Jul 2026
 - Apollo Studio, New York City · Fri, 10 Jul 2026
 - Green Room NYC, New York City · Sat, 20 Jun 2026
-- La Fabrica, Washington DC · Sat, 6 Jun 2026
 
 ## Shares bills with
 
 ADREE, Ariel me Llamo, Jus Nowhere
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/martinoboga/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/martinoboga/)*

@@ -1,6 +1,6 @@
 # KVKN
 
-KVKN is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at KREUZWERK, Berlin on Sat, 5 Dec 2026.
+KVKN is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at KREUZWERK, Berlin on Sat, 5 Dec 2026.
 
 KVKN is a techno and trance artist based in Ecuador, with 24 gigs on soundcheck across Berlin, Bogotá, Copenhagen and Dresden and 5 more. Often billed alongside BOYCA, Khloe and Cristian Marras. Next up: KREUZWERK, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ KVKN is a techno and trance artist based in Ecuador, with 24 gigs on soundcheck 
 
 BOYCA, Khloe, Cristian Marras
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kvkn/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kvkn/)*

@@ -1,6 +1,6 @@
 # Kirk (US)
 
-Kirk (US) is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Mia Mao, Paris on Sat, 14 Nov 2026.
+Kirk (US) is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Mia Mao, Paris on Sat, 14 Nov 2026.
 
 Kirk (US) is a techno and club artist based in United States of America, with 74 gigs on soundcheck across Amsterdam, Berlin, Chicago and Cologne and 10 more. Often billed alongside HOTPRETTY, Ariel Zetina and BLACKCLUB. Next up: Mia Mao, Paris on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Kirk (US) is a techno and club artist based in United States of America, with 74
 
 HOTPRETTY, Ariel Zetina, BLACKCLUB
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kirk-us/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kirk-us/)*

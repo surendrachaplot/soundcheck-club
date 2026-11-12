@@ -1,6 +1,6 @@
 # Il Brutto Auckland
 
-Il Brutto Auckland is a music venue in Auckland with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Black Wax - 100% Vinyl" on Sat, 14 Nov 2026.
+Il Brutto Auckland is a music venue in Auckland with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Black Wax - 100% Vinyl" on Sat, 14 Nov 2026.
 
 Il Brutto Auckland is a music venue in Auckland listed on soundcheck. 4 upcoming gigs, with line-ups including Andy Vann, Greg Churchill and Marli. See dates, start times and who's playing. 27 Vitoria Street East, Auckland, 1010, New Zealand.
 
@@ -17,4 +17,4 @@ Il Brutto Auckland is a music venue in Auckland listed on soundcheck. 4 upcoming
 
 27 Vitoria Street East, Auckland, 1010, New Zealand, Auckland
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/il-brutto-auckland/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/il-brutto-auckland/)*

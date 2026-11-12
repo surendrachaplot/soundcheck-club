@@ -1,6 +1,6 @@
 # Kazu
 
-Kazu is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Warp Shinjuku, Tokyo on Sun, 22 Nov 2026.
+Kazu is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Warp Shinjuku, Tokyo on Sun, 22 Nov 2026.
 
 Kazu is a techno and house artist based in Japan, with 25 gigs on soundcheck across Hong Kong and Tokyo. Often billed alongside RYUGO, Lisa Mizuno and YuWa. Next up: Warp Shinjuku, Tokyo on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ Kazu is a techno and house artist based in Japan, with 25 gigs on soundcheck acr
 
 RYUGO, Lisa Mizuno, YuWa
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kazu/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kazu/)*

@@ -1,6 +1,6 @@
 # JD Typo
 
-JD Typo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Renate, Berlin on Thu, 31 Dec 2026.
+JD Typo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Renate, Berlin on Thu, 31 Dec 2026.
 
 JD Typo is a house and techno artist based in Germany, with 18 gigs on soundcheck across Berlin. Often billed alongside Lyo., eric.a and xupid. Next up: Renate, Berlin on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ JD Typo is a house and techno artist based in Germany, with 18 gigs on soundchec
 
 Lyo., eric.a, xupid
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jdtypo/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jdtypo/)*

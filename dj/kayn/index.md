@@ -1,6 +1,6 @@
 # KAYN
 
-KAYN is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at The Comfort Zone, Toronto on Fri, 13 Nov 2026.
+KAYN is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Comfort Zone, Toronto on Fri, 13 Nov 2026.
 
 KAYN is a techno and hardcore artist based in Canada, with 7 gigs on soundcheck across Toronto. Often billed alongside KILL 9 1, R4TS and Maul. Next up: The Comfort Zone, Toronto on Fri 13 Nov.
 
@@ -23,4 +23,4 @@ KAYN is a techno and hardcore artist based in Canada, with 7 gigs on soundcheck 
 
 KILL 9 1, R4TS, Maul (2)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kayn/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kayn/)*

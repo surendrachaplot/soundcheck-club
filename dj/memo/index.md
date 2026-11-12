@@ -1,6 +1,6 @@
 # Memo.
 
-Memo. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Hoppetosse, Berlin on Sat, 12 Dec 2026.
+Memo. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Hoppetosse, Berlin on Sat, 12 Dec 2026.
 
 Memo. is a techno and house artist based in Germany, with 38 gigs on soundcheck across Berlin and Ibiza. Often billed alongside Leon Licht, ADAMN and Kaufmann. Next up: Hoppetosse, Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Memo. is a techno and house artist based in Germany, with 38 gigs on soundcheck 
 
 Leon Licht, ADAMN, Kaufmann
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/memo/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/memo/)*

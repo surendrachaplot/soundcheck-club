@@ -1,6 +1,6 @@
 # Roi Perez
 
-Roi Perez is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 14 Nov 2026.
+Roi Perez is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 14 Nov 2026.
 
 Roi Perez is a house and techno artist based in Germany, with 242 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 61 more. Often billed alongside Partok, BASHKKA and David Elimelech. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Roi Perez is a house and techno artist based in Germany, with 242 gigs on soundc
 
 Partok, BASHKKA, David Elimelech
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roiperez/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roiperez/)*

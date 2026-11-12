@@ -1,6 +1,6 @@
 # Lechuga Zafiro
 
-Lechuga Zafiro is a Techno and Latin Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Bozar, Brussels on Thu, 18 Feb 2027.
+Lechuga Zafiro is a Techno and Latin Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Bozar, Brussels on Thu, 18 Feb 2027.
 
 Lechuga Zafiro is a techno and latin bass artist based in Uruguay, with 73 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 23 more. Often billed alongside Verraco, upsammy and Animistic Beliefs. Next up: Bozar, Brussels on Thu 18 Feb.
 
@@ -26,4 +26,4 @@ Lechuga Zafiro is a techno and latin bass artist based in Uruguay, with 73 gigs 
 
 Verraco, upsammy, Animistic Beliefs
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lechugazafiro/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lechugazafiro/)*

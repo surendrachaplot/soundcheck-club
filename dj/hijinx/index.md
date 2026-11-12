@@ -1,14 +1,15 @@
 # HIJINX
 
-HIJINX is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Chop Shop & 1st Ward, Chicago on Thu, 12 Nov 2026.
+HIJINX is a Dubstep and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Chop Shop & 1st Ward, Chicago on Thu, 12 Nov 2026.
 
-HIJINX is a dubstep and bass artist based in United Kingdom, with 26 gigs on soundcheck across Berlin, Bristol, Chicago and Denver and 9 more. Often billed alongside Alix Perez, SGT Pokes and Cesco. Next up: Chop Shop & 1st Ward, Chicago on Thu 12 Nov.
+HIJINX is a dubstep and bass artist based in United Kingdom, with 27 gigs on soundcheck across Berlin, Bristol, Chicago and Denver and 9 more. Often billed alongside Alix Perez, SGT Pokes and Cesco. Next up: Chop Shop & 1st Ward, Chicago on Thu 12 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 12 Nov 2026 | Chop Shop & 1st Ward | Chicago |
+| Fri, 22 Jan 2027 | Phonox | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ HIJINX is a dubstep and bass artist based in United Kingdom, with 26 gigs on sou
 
 Alix Perez, SGT Pokes, Cesco
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hijinx/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hijinx/)*

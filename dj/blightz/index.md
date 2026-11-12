@@ -1,6 +1,6 @@
 # Blightz
 
-Blightz is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Club Paula, Dresden on Sat, 21 Nov 2026.
+Blightz is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Club Paula, Dresden on Sat, 21 Nov 2026.
 
 Blightz is a drum & bass and techno artist based in Germany, with 23 gigs on soundcheck across Dresden and Leipzig. Often billed alongside PiJay, Krambledore and MNCHLD. Next up: Club Paula, Dresden on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Blightz is a drum & bass and techno artist based in Germany, with 23 gigs on sou
 
 PiJay, Krambledore, MNCHLD
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blightz/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blightz/)*

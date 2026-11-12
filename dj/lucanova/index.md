@@ -1,6 +1,6 @@
 # Luca Nova
 
-Luca Nova is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at AMT, Berlin on Fri, 27 Nov 2026.
+Luca Nova is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at AMT, Berlin on Fri, 27 Nov 2026.
 
 Luca Nova is a house and disco artist based in Germany, with 32 gigs on soundcheck across Berlin. Often billed alongside SvP, Ceci Fierce and Palm Key. Next up: AMT, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Luca Nova is a house and disco artist based in Germany, with 32 gigs on soundche
 
 SvP, Ceci Fierce, Palm Key
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucanova/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucanova/)*

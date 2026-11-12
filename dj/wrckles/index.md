@@ -1,6 +1,6 @@
 # Wrcklés
 
-Wrcklés is a Experimental and R&B artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Moondog Cafe, Detroit on Fri, 13 Nov 2026.
+Wrcklés is a Experimental and R&B artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Moondog Cafe, Detroit on Fri, 13 Nov 2026.
 
 Wrcklés is an experimental and r&b artist based in United States of America, with 9 gigs on soundcheck across Detroit. Often billed alongside Isaac Prieto, 888lambchop and BLAAQGOLD. Next up: Moondog Cafe, Detroit on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Wrcklés is an experimental and r&b artist based in United States of America, wi
 
 Isaac Prieto, 888lambchop, BLAAQGOLD
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wrckles/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wrckles/)*

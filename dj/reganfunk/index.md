@@ -1,6 +1,6 @@
 # Regan Funk
 
-Regan Funk is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Gaffe, London on Sat, 14 Nov 2026.
+Regan Funk is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Gaffe, London on Sat, 14 Nov 2026.
 
 Regan Funk is a tech house and techno artist based in United Kingdom, with 27 gigs on soundcheck across Brighton and London. Often billed alongside Oli Leal, DJOM and From A To B. Next up: Gaffe, London on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Regan Funk is a tech house and techno artist based in United Kingdom, with 27 gi
 
 Oli Leal, DJOM, From A To B
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reganfunk/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reganfunk/)*

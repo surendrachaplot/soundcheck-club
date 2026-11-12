@@ -1,6 +1,6 @@
 # Andy C
 
-Andy C is a Drum & Bass and Jungle artist with 9 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at 1015 Folsom, San Francisco/Oakland on Wed, 25 Nov 2026.
+Andy C is a Drum & Bass and Jungle artist with 9 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at 1015 Folsom, San Francisco/Oakland on Wed, 25 Nov 2026.
 
 Andy C is a drum & bass and jungle artist based in United Kingdom, with 118 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Austin and 53 more. Often billed alongside Tonn Piper, Bou (UK) and Hybrid Minds. Next up: 1015 Folsom, San Francisco/Oakland on Wed 25 Nov.
 
@@ -33,4 +33,4 @@ Andy C is a drum & bass and jungle artist based in United Kingdom, with 118 gigs
 
 Tonn Piper, Bou (UK), Hybrid Minds
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andyc/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andyc/)*

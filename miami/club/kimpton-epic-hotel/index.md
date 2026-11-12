@@ -1,6 +1,6 @@
 # Kimpton Epic Hotel
 
-Kimpton Epic Hotel is a music venue in Miami with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "EPIC NYE '27" on Thu, 31 Dec 2026.
+Kimpton Epic Hotel is a music venue in Miami with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "EPIC NYE '27" on Thu, 31 Dec 2026.
 
 Kimpton Epic Hotel is a music venue in Miami listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 270 Biscayne Blvd Way, Miami, FL 33131, United States.
 
@@ -14,4 +14,4 @@ Kimpton Epic Hotel is a music venue in Miami listed on soundcheck. 1 upcoming gi
 
 270 Biscayne Blvd Way, Miami, FL 33131, United States, Miami
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/kimpton-epic-hotel/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/kimpton-epic-hotel/)*

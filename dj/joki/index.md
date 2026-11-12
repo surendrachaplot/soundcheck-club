@@ -1,8 +1,8 @@
 # JOKI
 
-JOKI is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at DJ Bar Bridge, Tokyo on Mon, 16 Nov 2026.
+JOKI is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at DJ Bar Bridge, Tokyo on Mon, 16 Nov 2026.
 
-JOKI is a house and deep house artist based in United States of America, with 24 gigs on soundcheck across Berlin and Tokyo. Often billed alongside Momentune, Ohishi and 永z遼 / Ryo Nagase. Next up: DJ Bar Bridge, Tokyo on Mon 16 Nov.
+JOKI is a house and deep house artist based in United States of America, with 25 gigs on soundcheck across Berlin, Hamburg and Tokyo. Often billed alongside Momentune, Ohishi and 永z遼 / Ryo Nagase. Next up: DJ Bar Bridge, Tokyo on Mon 16 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ JOKI is a house and deep house artist based in United States of America, with 24
 | Mon, 16 Nov 2026 | DJ Bar Bridge | Tokyo |
 | Wed, 2 Dec 2026 | DJ Bar Bridge Shinjuku | Tokyo |
 | Sat, 19 Dec 2026 | DJ Bar Bridge Shinjuku | Tokyo |
+| Sat, 9 Jan 2027 | Catonium | Hamburg |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ JOKI is a house and deep house artist based in United States of America, with 24
 
 Momentune, Ohishi, 永z遼 / Ryo Nagase
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joki/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joki/)*

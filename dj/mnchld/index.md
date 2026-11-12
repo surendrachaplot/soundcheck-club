@@ -1,6 +1,6 @@
 # MNCHLD
 
-MNCHLD is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Club Paula, Dresden on Sat, 21 Nov 2026.
+MNCHLD is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Club Paula, Dresden on Sat, 21 Nov 2026.
 
 MNCHLD is a drum & bass and techno artist based in Germany, with 14 gigs on soundcheck across Dresden. Often billed alongside Blightz, Krambledore and PiJay. Next up: Club Paula, Dresden on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ MNCHLD is a drum & bass and techno artist based in Germany, with 14 gigs on soun
 
 Blightz, Krambledore, PiJay
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mnchld/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mnchld/)*

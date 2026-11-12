@@ -1,6 +1,6 @@
 # MAGDALENA MAY
 
-MAGDALENA MAY is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Jasna 1, Warsaw on Sat, 19 Dec 2026.
+MAGDALENA MAY is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Jasna 1, Warsaw on Sat, 19 Dec 2026.
 
 MAGDALENA MAY is a techno and house artist based in Germany, with 50 gigs on soundcheck across Basel, Berlin, Dresden and Frankfurt and 7 more. Often billed alongside TIKOA, M21SIX and Toni Dextor. Next up: Jasna 1, Warsaw on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ MAGDALENA MAY is a techno and house artist based in Germany, with 50 gigs on sou
 
 TIKOA, M21SIX, Toni Dextor
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/magdalenamay/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/magdalenamay/)*

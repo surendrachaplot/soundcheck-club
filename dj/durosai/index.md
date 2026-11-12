@@ -1,6 +1,6 @@
 # Durosai
 
-Durosai is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Dear Eleanor, Miami on Fri, 13 Nov 2026.
+Durosai is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Dear Eleanor, Miami on Fri, 13 Nov 2026.
 
 Durosai is a house and minimal artist based in United States of America, with 9 gigs on soundcheck across Miami, Orlando and Tampa Bay. Often billed alongside Seraphim, Mayan Cxllective and Protect. Next up: Dear Eleanor, Miami on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Durosai is a house and minimal artist based in United States of America, with 9 
 
 Seraphim, Mayan Cxllective, Protect
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/durosai/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/durosai/)*

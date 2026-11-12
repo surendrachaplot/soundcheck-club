@@ -1,6 +1,6 @@
 # Laurence Matte
 
-Laurence Matte is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Société des arts technologiques, Montreal on Thu, 31 Dec 2026.
+Laurence Matte is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Société des arts technologiques, Montreal on Thu, 31 Dec 2026.
 
 Laurence Matte is a house and techno artist based in Canada, with 35 gigs on soundcheck across Düsseldorf, Montreal, New York City and Paris and 1 more. Often billed alongside DJ Tennis, Jump Source and Objekt. Next up: Société des arts technologiques, Montreal on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Laurence Matte is a house and techno artist based in Canada, with 35 gigs on sou
 
 DJ Tennis, Jump Source, Objekt
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laurencematte/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laurencematte/)*

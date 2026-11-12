@@ -1,6 +1,6 @@
 # Farn
 
-Farn is a Downtempo and Deep House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Beate Uwe, Berlin on Thu, 26 Nov 2026.
+Farn is a Downtempo and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Beate Uwe, Berlin on Thu, 26 Nov 2026.
 
 Farn is a downtempo and deep house artist based in France, with 21 gigs on soundcheck across Berlin, Paris and Zurich. Often billed alongside Temple Tears, luçïd and Horst Haller. Next up: Beate Uwe, Berlin on Thu 26 Nov.
 
@@ -26,4 +26,4 @@ Farn is a downtempo and deep house artist based in France, with 21 gigs on sound
 
 Temple Tears, luçïd, Horst Haller
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/farn/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/farn/)*

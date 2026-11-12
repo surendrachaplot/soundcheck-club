@@ -1,6 +1,6 @@
 # Harry Frame
 
-Harry Frame is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Last Arch, London on Fri, 20 Nov 2026.
+Harry Frame is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Last Arch, London on Fri, 20 Nov 2026.
 
 Harry Frame is a house and electro artist based in United Kingdom, with 8 gigs on soundcheck across London and Newcastle. Often billed alongside JP(UK), LA!NE and Jiminy Watts. Next up: Last Arch, London on Fri 20 Nov.
 
@@ -24,4 +24,4 @@ Harry Frame is a house and electro artist based in United Kingdom, with 8 gigs o
 
 JP(UK), LA!NE, Jiminy Watts
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/harryframe/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/harryframe/)*

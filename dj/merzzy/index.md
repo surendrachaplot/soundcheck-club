@@ -1,6 +1,6 @@
 # Merzzy
 
-Merzzy is a Afro House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Ritter Butzke, Berlin on Sat, 16 Jan 2027.
+Merzzy is a Afro House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Ritter Butzke, Berlin on Sat, 16 Jan 2027.
 
 Merzzy is an afro house and electro artist based in Germany, with 8 gigs on soundcheck across Berlin, Cologne, Dubai and Frankfurt and 3 more. Often billed alongside Jo van der Meer, AMOUNKA and Akalex. Next up: Ritter Butzke, Berlin on Sat 16 Jan.
 
@@ -24,4 +24,4 @@ Merzzy is an afro house and electro artist based in Germany, with 8 gigs on soun
 
 Jo van der Meer, AMOUNKA, Akalex
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/merzzy/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/merzzy/)*

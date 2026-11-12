@@ -1,6 +1,6 @@
 # ciringe
 
-ciringe is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Bossa Nova Civic Club, New York City on Thu, 10 Dec 2026.
+ciringe is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Bossa Nova Civic Club, New York City on Thu, 10 Dec 2026.
 
 ciringe is a techno and club artist based in United States of America, with 32 gigs on soundcheck across Berlin, Boston and New York City. Often billed alongside Evilo, Xana 101 and nextdimensional. Next up: Bossa Nova Civic Club, New York City on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ ciringe is a techno and club artist based in United States of America, with 32 g
 
 Evilo, Xana 101, nextdimensional
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ciringe/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ciringe/)*

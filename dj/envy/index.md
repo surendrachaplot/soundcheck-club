@@ -1,6 +1,6 @@
 # EN:VY
 
-EN:VY is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Clock Factory, Bristol on Sat, 6 Feb 2027.
+EN:VY is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Clock Factory, Bristol on Sat, 6 Feb 2027.
 
 EN:VY is a drum & bass and dubstep artist based in Ukraine, with 32 gigs on soundcheck across Auckland, Bristol, Ghent and London and 12 more. Often billed alongside Enei, Kasra and Kyrist. Next up: The Clock Factory, Bristol on Sat 6 Feb.
 
@@ -25,4 +25,4 @@ EN:VY is a drum & bass and dubstep artist based in Ukraine, with 32 gigs on soun
 
 Enei, Kasra, Kyrist
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/envy/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/envy/)*

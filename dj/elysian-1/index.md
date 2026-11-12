@@ -1,6 +1,6 @@
 # Elysian (1)
 
-Elysian (1) is a Club and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Premises, Chicago on Sat, 5 Dec 2026.
+Elysian (1) is a Club and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Premises, Chicago on Sat, 5 Dec 2026.
 
 Elysian is a club and ghetto tech artist based in United States of America, with 7 gigs on soundcheck across Boston, Chicago, Mykonos and New York City. Often billed alongside Christinathesaintt, 999ADJ and Adelaide. Next up: TBA - Premises, Chicago on Sat 5 Dec.
 
@@ -23,4 +23,4 @@ Elysian is a club and ghetto tech artist based in United States of America, with
 
 Christinathesaintt, 999ADJ, Adelaide (1)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elysian-1/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elysian-1/)*

@@ -1,6 +1,6 @@
 # Fabian Gomez
 
-Fabian Gomez is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Sabaa Event Space - Al Seef, Dubai on Fri, 20 Nov 2026.
+Fabian Gomez is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Sabaa Event Space - Al Seef, Dubai on Fri, 20 Nov 2026.
 
 Fabian Gomez is a techno and acid artist, with 19 gigs on soundcheck across Barcelona, Dubai and Valencia. Often billed alongside CARAM, CIKTRIZ and Dj badtrip. Next up: TBA - Sabaa Event Space - Al Seef, Dubai on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Fabian Gomez is a techno and acid artist, with 19 gigs on soundcheck across Barc
 
 CARAM, CIKTRIZ, Dj badtrip
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fabiangomez/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fabiangomez/)*

@@ -1,6 +1,6 @@
 # BENNETT
 
-BENNETT is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Sala ART, Madrid on Fri, 13 Nov 2026.
+BENNETT is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Sala ART, Madrid on Fri, 13 Nov 2026.
 
 BENNETT is a techno and trance artist based in Germany, with 32 gigs on soundcheck across Basel, Berlin, Cologne and Freiburg and 9 more. Often billed alongside I Hate Models, WAN.1 and Charleen Herzig. Next up: Sala ART, Madrid on Fri 13 Nov.
 
@@ -31,4 +31,4 @@ BENNETT is a techno and trance artist based in Germany, with 32 gigs on soundche
 
 I Hate Models, WAN.1, Charleen Herzig
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bennett/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bennett/)*

@@ -1,6 +1,6 @@
 # CAIT.
 
-CAIT. is a Garage and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Reverie at the Park, Toronto on Fri, 20 Nov 2026.
+CAIT. is a Garage and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Reverie at the Park, Toronto on Fri, 20 Nov 2026.
 
 CAIT. is a garage and bass artist based in Canada, with 4 gigs on soundcheck across Montreal and Toronto. Often billed alongside Nihility, In Depth Subject and Aydan XR. Next up: Reverie at the Park, Toronto on Fri 20 Nov.
 
@@ -20,4 +20,4 @@ CAIT. is a garage and bass artist based in Canada, with 4 gigs on soundcheck acr
 
 Nihility, In Depth Subject, Aydan XR
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cait./)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cait./)*

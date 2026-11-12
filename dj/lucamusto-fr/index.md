@@ -1,6 +1,6 @@
 # Luca Musto
 
-Luca Musto is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Beate Uwe, Berlin on Sun, 6 Dec 2026.
+Luca Musto is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Beate Uwe, Berlin on Sun, 6 Dec 2026.
 
 Luca Musto is a house and downtempo artist based in Italy, with 29 gigs on soundcheck across Basel, Berlin, Ghent and Miami and 3 more. Often billed alongside anahï, Francesco Rizzi and Martha van Straaten. Next up: Beate Uwe, Berlin on Sun 6 Dec.
 
@@ -25,4 +25,4 @@ Luca Musto is a house and downtempo artist based in Italy, with 29 gigs on sound
 
 anahï, Francesco Rizzi, Martha van Straaten
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucamusto-fr/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucamusto-fr/)*

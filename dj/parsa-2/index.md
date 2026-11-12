@@ -1,6 +1,6 @@
 # PARSA (2)
 
-PARSA (2) is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Live Haus, Tokyo on Fri, 13 Nov 2026.
+PARSA (2) is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Live Haus, Tokyo on Fri, 13 Nov 2026.
 
 PARSA is a techno and industrial artist based in Japan, with 10 gigs on soundcheck across Amsterdam and Tokyo. Often billed alongside SONATA, EMILIO and EVE. Next up: Live Haus, Tokyo on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ PARSA is a techno and industrial artist based in Japan, with 10 gigs on soundche
 
 SONATA, EMILIO (3), EVE (1)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/parsa-2/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/parsa-2/)*

@@ -1,6 +1,6 @@
 # Sam Ritter
 
-Sam Ritter is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - B1, No. 14號, Lane 77, Section 2, Zhongshan N Rd, Zhongshan Village, Zhongshan District, Taipei City, 10491, Taipei on Sun, 15 Nov 2026.
+Sam Ritter is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - B1, No. 14號, Lane 77, Section 2, Zhongshan N Rd, Zhongshan Village, Zhongshan District, Taipei City, 10491, Taipei on Sun, 15 Nov 2026.
 
 Sam Ritter is a techno and house artist based in Taiwan, with 97 gigs on soundcheck across Melbourne, Sydney and Taipei. Often billed alongside GIORGIO (IT), Raina and CHIEN. Next up: TBA - B1, No. 14號, Lane 77, Section 2, Zhongshan N Rd, Zhongshan Village, Zhongshan District, Taipei City, 10491, Taipei on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Sam Ritter is a techno and house artist based in Taiwan, with 97 gigs on soundch
 
 GIORGIO (IT), Raina, CHIEN
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samritter/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samritter/)*

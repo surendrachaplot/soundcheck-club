@@ -1,6 +1,6 @@
 # Local Dub
 
-Local Dub is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Cabaret Voltaire, Edinburgh on Fri, 20 Nov 2026.
+Local Dub is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Cabaret Voltaire, Edinburgh on Fri, 20 Nov 2026.
 
 Local Dub is a tech house and house artist based in United Kingdom, with 34 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 6 more. Often billed alongside Josh Baker, Alexandria and jWave. Next up: Cabaret Voltaire, Edinburgh on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Local Dub is a tech house and house artist based in United Kingdom, with 34 gigs
 
 Josh Baker, Alexandria, jWave
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/localdub/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/localdub/)*

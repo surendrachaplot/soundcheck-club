@@ -1,6 +1,6 @@
 # Joá Jungle Rooftop
 
-Joá Jungle Rooftop is a music venue in Rio de Janeiro with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. The next is "Simo All Night" on Sat, 14 Nov 2026.
+Joá Jungle Rooftop is a music venue in Rio de Janeiro with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "Simo All Night" on Sat, 14 Nov 2026.
 
 Joá Jungle Rooftop is a music venue in Rio de Janeiro listed on soundcheck. 1 upcoming gig, with line-ups including simo not simon. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Joá Jungle Rooftop is a music venue in Rio de Janeiro listed on soundcheck. 1 u
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Simo All Night | simo not simon |
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/riodejaneiro/club/jo-jungle-rooftop/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/riodejaneiro/club/jo-jungle-rooftop/)*

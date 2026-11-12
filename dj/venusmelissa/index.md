@@ -1,6 +1,6 @@
 # Venus Melissa
 
-Venus Melissa is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Q Club, Milan on Fri, 13 Nov 2026.
+Venus Melissa is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Q Club, Milan on Fri, 13 Nov 2026.
 
 Venus Melissa is a techno and trance artist based in Paraguay, with 15 gigs on soundcheck across Barcelona, Berlin, Brussels and Buenos Aires and 4 more. Often billed alongside GLADJEE, INVERNO and Vera Moro. Next up: Q Club, Milan on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Venus Melissa is a techno and trance artist based in Paraguay, with 15 gigs on s
 
 GLADJEE, INVERNO, Vera Moro
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/venusmelissa/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/venusmelissa/)*

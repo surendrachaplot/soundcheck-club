@@ -1,6 +1,6 @@
 # Natascha Kann
 
-Natascha Kann is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Hoppetosse, Berlin on Sat, 21 Nov 2026.
+Natascha Kann is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Hoppetosse, Berlin on Sat, 21 Nov 2026.
 
 Natascha Kann is a house and techno artist based in Germany, with 44 gigs on soundcheck across Berlin, Hamburg, Leipzig and Prague and 1 more. Often billed alongside Discrete Circuit, Iron Curtis and Kat Davids. Next up: Hoppetosse, Berlin on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Natascha Kann is a house and techno artist based in Germany, with 44 gigs on sou
 
 Discrete Circuit, Iron Curtis, Kat Davids
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nataschakann/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nataschakann/)*

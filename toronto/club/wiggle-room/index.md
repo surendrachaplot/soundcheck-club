@@ -1,6 +1,6 @@
 # Wiggle Room
 
-Wiggle Room is a music venue in Toronto with 14 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Beat Therapy with Flipside" on Fri, 13 Nov 2026.
+Wiggle Room is a music venue in Toronto with 14 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Beat Therapy with Flipside" on Fri, 13 Nov 2026.
 
 Wiggle Room is a music venue in Toronto listed on soundcheck. 14 upcoming gigs, with line-ups including Anthony Cole, Barroness, Brash-B and Carabetta and 2 more. See dates, start times and who's playing. 772 Dundas St W, Toronto, ON M6J 1V1, Canada.
 
@@ -23,4 +23,4 @@ Wiggle Room is a music venue in Toronto listed on soundcheck. 14 upcoming gigs, 
 
 772 Dundas St W, Toronto, ON M6J 1V1, Canada, Toronto
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/wiggle-room/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/wiggle-room/)*

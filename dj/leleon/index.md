@@ -1,6 +1,6 @@
 # LeLeon
 
-LeLeon is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Cabaret Sauvage, Paris on Fri, 27 Nov 2026.
+LeLeon is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Cabaret Sauvage, Paris on Fri, 27 Nov 2026.
 
 LeLeon is a house and techno artist based in France, with 64 gigs on soundcheck across Bordeaux, Lyon, Paris and Toulouse. Often billed alongside Naajet, Bande de Filles and Lyss. Next up: Cabaret Sauvage, Paris on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ LeLeon is a house and techno artist based in France, with 64 gigs on soundcheck 
 
 Naajet (2), Bande de Filles, Lyss
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leleon/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leleon/)*

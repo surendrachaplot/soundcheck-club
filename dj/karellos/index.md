@@ -1,6 +1,6 @@
 # Karellos
 
-Karellos is a Deep House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Flipdog, London on Sat, 14 Nov 2026.
+Karellos is a Deep House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Flipdog, London on Sat, 14 Nov 2026.
 
 Karellos is a deep house and tech house artist based in United Kingdom, with 23 gigs on soundcheck across Barcelona and London. Often billed alongside Theo T, Dyl Payne and Henry Dummett. Next up: Flipdog, London on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Karellos is a deep house and tech house artist based in United Kingdom, with 23 
 
 Theo T, Dyl Payne, Henry Dummett
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karellos/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karellos/)*

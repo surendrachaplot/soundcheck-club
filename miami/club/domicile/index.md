@@ -1,6 +1,6 @@
 # Domicile
 
-Domicile is a music venue in Miami with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "VINYL NIGHT- The Lady Machine" on Fri, 13 Nov 2026.
+Domicile is a music venue in Miami with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "VINYL NIGHT- The Lady Machine" on Fri, 13 Nov 2026.
 
 Domicile is a music venue in Miami listed on soundcheck. 3 upcoming gigs, with line-ups including Morse X Code, OMAKS, Radar and The Lady Machine and 1 more. See dates, start times and who's playing. 2900 NW Seventh Ave, Miami, FL  33127.
 
@@ -16,4 +16,4 @@ Domicile is a music venue in Miami listed on soundcheck. 3 upcoming gigs, with l
 
 2900 NW Seventh Ave, Miami, FL  33127, Miami
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/domicile/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/domicile/)*

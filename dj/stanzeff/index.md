@@ -1,6 +1,6 @@
 # StanZeff
 
-StanZeff is a Afro House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Believe Music Hall, Atlanta on Sat, 28 Nov 2026.
+StanZeff is a Afro House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Believe Music Hall, Atlanta on Sat, 28 Nov 2026.
 
 StanZeff is an afro house and deep house artist, with 10 gigs on soundcheck across Atlanta, Chicago, Miami and Paris. Often billed alongside November Rose, Bryan Peroni and DJ Kash. Next up: Believe Music Hall, Atlanta on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ StanZeff is an afro house and deep house artist, with 10 gigs on soundcheck acro
 
 November Rose, Bryan Peroni, DJ Kash
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stanzeff/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stanzeff/)*

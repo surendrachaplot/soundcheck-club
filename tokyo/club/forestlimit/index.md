@@ -1,6 +1,6 @@
 # Forestlimit
 
-Forestlimit is a music venue in Tokyo with 22 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "entundra" on Fri, 13 Nov 2026.
+Forestlimit is a music venue in Tokyo with 22 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "entundra" on Fri, 13 Nov 2026.
 
 Forestlimit is a music venue in Tokyo listed on soundcheck. 22 upcoming gigs, with line-ups including 478, AKIRAM EN, anolis and Ayato and 2 more. See dates, start times and who's playing. 2-8-15 B15 Hatagaya K3 Building, Shibuya-ku Hatagaya, Tokyo.
 
@@ -23,4 +23,4 @@ Forestlimit is a music venue in Tokyo listed on soundcheck. 22 upcoming gigs, wi
 
 2-8-15 B15 Hatagaya K3 Building, Shibuya-ku Hatagaya, Tokyo, Tokyo
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/forestlimit/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/forestlimit/)*

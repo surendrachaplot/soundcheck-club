@@ -1,6 +1,6 @@
 # SZELEST
 
-SZELEST is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Lilli Escher, Hamburg on Fri, 20 Nov 2026.
+SZELEST is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Lilli Escher, Hamburg on Fri, 20 Nov 2026.
 
 SZELEST is a house and techno artist based in Germany, with 34 gigs on soundcheck across Berlin, Frankfurt and Hamburg. Often billed alongside EliaHaze, DJ Babyblade and Anton Jonathan. Next up: Lilli Escher, Hamburg on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ SZELEST is a house and techno artist based in Germany, with 34 gigs on soundchec
 
 EliaHaze, DJ Babyblade, Anton Jonathan
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/szelest/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/szelest/)*

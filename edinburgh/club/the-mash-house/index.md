@@ -1,6 +1,6 @@
 # The Mash House
 
-The Mash House is a music venue in Edinburgh with 6 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. The next is "Arcadia V" on Thu, 19 Nov 2026.
+The Mash House is a music venue in Edinburgh with 6 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Arcadia V" on Thu, 19 Nov 2026.
 
 The Mash House is a music venue in Edinburgh listed on soundcheck. 6 upcoming gigs, with line-ups including Chris Flannigan, CU-SITH, Dan Jakson and Lara Sinclair and 2 more. See dates, start times and who's playing. 37 Guthrie Street, Edinburgh, EH1 1JQ, Scotland, United Kingdom.
 
@@ -19,4 +19,4 @@ The Mash House is a music venue in Edinburgh listed on soundcheck. 6 upcoming gi
 
 37 Guthrie Street, Edinburgh, EH1 1JQ, Scotland, United Kingdom, Edinburgh
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-mash-house/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-mash-house/)*

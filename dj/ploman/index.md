@@ -1,6 +1,6 @@
 # PLO Man
 
-PLO Man is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Open Ground, Wuppertal on Sat, 14 Nov 2026.
+PLO Man is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Open Ground, Wuppertal on Sat, 14 Nov 2026.
 
 PLO Man is a techno and house artist based in Germany, with 178 gigs on soundcheck across Amsterdam, Athens, Austin and Baltimore and 49 more. Often billed alongside DJ Spence, Hashman Deejay and Vlada. Next up: Open Ground, Wuppertal on Sat 14 Nov.
 
@@ -32,4 +32,4 @@ PLO Man is a techno and house artist based in Germany, with 178 gigs on soundche
 
 DJ Spence, Hashman Deejay, Vlada
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ploman/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ploman/)*

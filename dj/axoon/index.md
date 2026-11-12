@@ -1,6 +1,6 @@
 # Axoon
 
-Axoon is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Club Paula, Dresden on Fri, 20 Nov 2026.
+Axoon is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Club Paula, Dresden on Fri, 20 Nov 2026.
 
 Axoon is a techno and house artist based in Germany, with 16 gigs on soundcheck across Berlin, Dresden and Leipzig. Often billed alongside Mit B., phillson and Coline. Next up: Club Paula, Dresden on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Axoon is a techno and house artist based in Germany, with 16 gigs on soundcheck 
 
 Mit B., phillson, Coline
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/axoon/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/axoon/)*

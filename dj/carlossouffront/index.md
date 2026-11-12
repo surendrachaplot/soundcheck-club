@@ -1,6 +1,6 @@
 # Carlos Souffront
 
-Carlos Souffront is a Techno and Acid artist with 4 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Collapse, Pittsburgh on Fri, 13 Nov 2026.
+Carlos Souffront is a Techno and Acid artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Collapse, Pittsburgh on Fri, 13 Nov 2026.
 
 Carlos Souffront is a techno and acid artist based in United States of America, with 117 gigs on soundcheck across Austin, Belgrade, Berlin and Boston and 20 more. Often billed alongside Mike Servito, Patrick Russell and Derek Plaslaiko. Next up: TBA - Collapse, Pittsburgh on Fri 13 Nov.
 
@@ -28,4 +28,4 @@ Carlos Souffront is a techno and acid artist based in United States of America, 
 
 Mike Servito, Patrick Russell, Derek Plaslaiko
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlossouffront/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlossouffront/)*

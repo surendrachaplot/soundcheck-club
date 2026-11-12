@@ -1,6 +1,6 @@
 # Abdel Hady
 
-Abdel Hady is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Kino Roland, Zurich on Sat, 28 Nov 2026.
+Abdel Hady is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Kino Roland, Zurich on Sat, 28 Nov 2026.
 
 Abdel Hady is a tech house and house artist based in Switzerland, with 6 gigs on soundcheck across Zurich. Often billed alongside Manuel Fischer, Prioleau and 2M (CH). Next up: Kino Roland, Zurich on Sat 28 Nov.
 
@@ -22,4 +22,4 @@ Abdel Hady is a tech house and house artist based in Switzerland, with 6 gigs on
 
 Manuel Fischer, Prioleau, 2M (CH)
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/abdelhady/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/abdelhady/)*

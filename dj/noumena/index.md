@@ -1,6 +1,6 @@
 # Noumena
 
-Noumena is a Dub Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Borisov Amsterdam, Amsterdam on Fri, 1 Jan 2027.
+Noumena is a Dub Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Borisov Amsterdam, Amsterdam on Fri, 1 Jan 2027.
 
 Noumena is a dub techno and house artist based in Netherlands, with 8 gigs on soundcheck across Amsterdam, Budapest and The Hague. Often billed alongside Octile, The Silentist and Giovane Filippo. Next up: Borisov Amsterdam, Amsterdam on Fri 1 Jan.
 
@@ -24,4 +24,4 @@ Noumena is a dub techno and house artist based in Netherlands, with 8 gigs on so
 
 Octile, The Silentist, Giovane Filippo
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noumena/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noumena/)*

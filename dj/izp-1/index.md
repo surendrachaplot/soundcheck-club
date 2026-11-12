@@ -1,6 +1,6 @@
 # IZP (1)
 
-IZP (1) is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Patterns, Brighton on Fri, 13 Nov 2026.
+IZP (1) is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Patterns, Brighton on Fri, 13 Nov 2026.
 
 IZP is a house and deep house artist based in United Kingdom, with 15 gigs on soundcheck across Brighton, Cardiff, Edinburgh and London. Often billed alongside DJBran, Asa Ray and Caspar. Next up: Patterns, Brighton on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ IZP is a house and deep house artist based in United Kingdom, with 15 gigs on so
 
 DJBran, Asa Ray, Caspar
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/izp-1/)*
+*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/izp-1/)*
