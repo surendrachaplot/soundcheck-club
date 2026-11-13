@@ -1,6 +1,6 @@
 # Wojciech Rusin
 
-Wojciech Rusin is a Experimental and Noise artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Various Venues (EartH theatre, Cafe OTO, ORMSIDE Projects), London on Thu, 18 Feb 2027.
+Wojciech Rusin is a Experimental and Noise artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Various Venues (EartH theatre, Cafe OTO, ORMSIDE Projects), London on Thu, 18 Feb 2027.
 
 Wojciech Rusin is an experimental and noise artist based in Poland, with 13 gigs on soundcheck across Berlin, Bristol, Hamburg and Krakow and 3 more. Often billed alongside Harry Górski-Brown, Bianca Scout and Aleksandra Słyż. Next up: TBA - Various Venues (EartH theatre, Cafe OTO, ORMSIDE Projects), London on Thu 18 Feb.
 
@@ -26,4 +26,4 @@ Wojciech Rusin is an experimental and noise artist based in Poland, with 13 gigs
 
 Harry Górski-Brown, Bianca Scout, Aleksandra Słyż
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wojciechrusin/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wojciechrusin/)*

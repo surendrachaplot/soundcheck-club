@@ -1,6 +1,6 @@
 # ROW1
 
-ROW1 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at MFCC Arena, Malta on Fri, 4 Dec 2026.
+ROW1 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at MFCC Arena, Malta on Fri, 4 Dec 2026.
 
 ROW1 is a techno and trance artist based in Belgium, with 20 gigs on soundcheck across Antwerp, Barcelona, Basel and Berlin and 12 more. Often billed alongside CALLUSH, NOVAH and ALT8. Next up: MFCC Arena, Malta on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ ROW1 is a techno and trance artist based in Belgium, with 20 gigs on soundcheck 
 
 CALLUSH, NOVAH, ALT8
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/row1/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/row1/)*

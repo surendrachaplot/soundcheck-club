@@ -1,6 +1,6 @@
 # Ghedi
 
-Ghedi is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Koda, Nairobi on Fri, 4 Dec 2026.
+Ghedi is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Koda, Nairobi on Fri, 4 Dec 2026.
 
 Ghedi is a techno and house artist based in Ethiopia, with 4 gigs on soundcheck across Berlin, Kenya, Los Angeles and Nairobi. Often billed alongside Hiribae, !Sooks and AMÉMÉ. Next up: Koda, Nairobi on Fri 4 Dec.
 
@@ -20,4 +20,4 @@ Ghedi is a techno and house artist based in Ethiopia, with 4 gigs on soundcheck 
 
 Hiribae, !Sooks, AMÉMÉ
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ghedi/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ghedi/)*

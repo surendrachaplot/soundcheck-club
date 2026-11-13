@@ -1,8 +1,8 @@
 # Doppelgang
 
-Doppelgang is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at De Helling, Utrecht on Sat, 21 Nov 2026.
+Doppelgang is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at De Helling, Utrecht on Sat, 21 Nov 2026.
 
-Doppelgang is a house and techno artist based in Netherlands, with 127 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 20 more. Often billed alongside TWIENA, Lola Edo and 36framez. Next up: De Helling, Utrecht on Sat 21 Nov.
+Doppelgang is a house and techno artist based in Netherlands, with 128 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 21 more. Often billed alongside TWIENA, Lola Edo and 36framez. Next up: De Helling, Utrecht on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Doppelgang is a house and techno artist based in Netherlands, with 127 gigs on s
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | De Helling | Utrecht |
 | Sat, 28 Nov 2026 | Het Sieraad | Amsterdam |
+| Sat, 5 Dec 2026 | Golden Pudel Club | Hamburg |
 | Sat, 19 Dec 2026 | Lofi | Amsterdam |
 | Fri, 1 Jan 2027 | CLUB RAUM | Amsterdam |
 | Sat, 27 Feb 2027 | Paradigm | Netherlands |
@@ -29,4 +30,4 @@ Doppelgang is a house and techno artist based in Netherlands, with 127 gigs on s
 
 TWIENA, Lola Edo, 36framez
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doppelgang/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doppelgang/)*

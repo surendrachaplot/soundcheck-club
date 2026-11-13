@@ -1,6 +1,6 @@
 # Nadia Wise
 
-Nadia Wise is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at OHM, Berlin on Thu, 10 Dec 2026.
+Nadia Wise is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at OHM, Berlin on Thu, 10 Dec 2026.
 
 Nadia Wise is a house and disco artist based in United Kingdom, with 56 gigs on soundcheck across Berlin, Copenhagen, Dresden and Leipzig and 5 more. Often billed alongside Electric Evelyn, Ansonica and DJ CHICHI. Next up: OHM, Berlin on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ Nadia Wise is a house and disco artist based in United Kingdom, with 56 gigs on 
 
 Electric Evelyn, Ansonica, DJ CHICHI
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nadiawise/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nadiawise/)*

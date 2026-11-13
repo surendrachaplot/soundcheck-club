@@ -1,6 +1,6 @@
 # Sebastian Morxx
 
-Sebastian Morxx is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Club M2 Miami, Miami on Fri, 13 Nov 2026.
+Sebastian Morxx is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Club M2 Miami, Miami on Fri, 13 Nov 2026.
 
 Sebastian Morxx is a house and techno artist based in Colombia, with 8 gigs on soundcheck across Miami and Singapore. Often billed alongside AMPRS&ND, Adam Beyer and Alley Kay. Next up: Club M2 Miami, Miami on Fri 13 Nov.
 
@@ -24,4 +24,4 @@ Sebastian Morxx is a house and techno artist based in Colombia, with 8 gigs on s
 
 AMPRS&ND, Adam Beyer, Alley Kay
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastianmorxx/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastianmorxx/)*

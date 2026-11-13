@@ -1,6 +1,6 @@
 # Le Nocturne
 
-Le Nocturne is a music venue in Chicago with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "A House Music is Love Day Party Stacked w House Music Titans" on Sat, 14 Nov 2026.
+Le Nocturne is a music venue in Chicago with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "A House Music is Love Day Party Stacked w House Music Titans" on Sat, 14 Nov 2026.
 
 Le Nocturne is a music venue in Chicago listed on soundcheck. 5 upcoming gigs, with line-ups including DJ Heather, DJ Holographic, Gene Hunt and lego and 2 more. See dates, start times and who's playing. 4810 N Brodway, Chicago IL - 60640.
 
@@ -18,4 +18,4 @@ Le Nocturne is a music venue in Chicago listed on soundcheck. 5 upcoming gigs, w
 
 4810 N Brodway, Chicago IL - 60640, Chicago
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/le-nocturne/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/le-nocturne/)*

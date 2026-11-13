@@ -1,6 +1,6 @@
 # MATTAM
 
-MATTAM is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Kantine am Berghain, Berlin on Thu, 4 Mar 2027.
+MATTAM is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Kantine am Berghain, Berlin on Thu, 4 Mar 2027.
 
 MATTAM is an experimental and electronica artist, with 10 gigs on soundcheck across Berlin. Often billed alongside Zona Interdunar, jo:af and Vū. Next up: Kantine am Berghain, Berlin on Thu 4 Mar.
 
@@ -25,4 +25,4 @@ MATTAM is an experimental and electronica artist, with 10 gigs on soundcheck acr
 
 Zona Interdunar, jo:af, Vū
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mattam/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mattam/)*

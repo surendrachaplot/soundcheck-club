@@ -1,6 +1,6 @@
 # NPLNSSS
 
-NPLNSSS is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Club 1, Santiago on Sat, 14 Nov 2026.
+NPLNSSS is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Club 1, Santiago on Sat, 14 Nov 2026.
 
 NPLNSSS is a techno and acid artist based in Chile, with 66 gigs on soundcheck across Berlin, Buenos Aires and Santiago. Often billed alongside Elias Deepman, Daniela Fuzz and Leonor Baesler. Next up: Club 1, Santiago on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ NPLNSSS is a techno and acid artist based in Chile, with 66 gigs on soundcheck a
 
 Elias Deepman, Daniela Fuzz, Leonor Baesler
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nplnsss/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nplnsss/)*

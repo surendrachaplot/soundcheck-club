@@ -1,6 +1,6 @@
 # Takkyu Ishino
 
-Takkyu Ishino is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Club Metro, Kyoto on Sat, 12 Dec 2026.
+Takkyu Ishino is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Club Metro, Kyoto on Sat, 12 Dec 2026.
 
 Takkyu Ishino is a techno and house artist based in Japan, with 40 gigs on soundcheck across Berlin, Kyoto, Osaka and Tokyo. Often billed alongside Shinichi Osawa, Ririko and JUN INAGAWA. Next up: Club Metro, Kyoto on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Takkyu Ishino is a techno and house artist based in Japan, with 40 gigs on sound
 
 Shinichi Osawa, Ririko, JUN INAGAWA
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/takkyuishino/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/takkyuishino/)*

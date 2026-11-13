@@ -1,6 +1,6 @@
 # Spybar
 
-Spybar is a music venue in Chicago with 15 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Pedroz" on Fri, 13 Nov 2026.
+Spybar is a music venue in Chicago with 15 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Pedroz" on Fri, 13 Nov 2026.
 
 Spybar is a music venue in Chicago listed on soundcheck. 15 upcoming gigs, with line-ups including Avi Sic, Bushbaby, Derrick Carter and Franc Fala and 2 more. See dates, start times and who's playing. 646 N Franklin St; Chicago, IL 60654; United States.
 
@@ -23,4 +23,4 @@ Spybar is a music venue in Chicago listed on soundcheck. 15 upcoming gigs, with 
 
 646 N Franklin St; Chicago, IL 60654; United States, Chicago
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/spybar/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/spybar/)*

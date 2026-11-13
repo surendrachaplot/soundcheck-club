@@ -1,6 +1,6 @@
 # KNDR
 
-KNDR is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Delta Rica, Buenos Aires on Sat, 12 Dec 2026.
+KNDR is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Delta Rica, Buenos Aires on Sat, 12 Dec 2026.
 
 KNDR is a house and techno artist based in Denmark, with 10 gigs on soundcheck across Berlin, Buenos Aires, Copenhagen and Oslo. Often billed alongside Martinez, Dudd and Tod Louie. Next up: Delta Rica, Buenos Aires on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ KNDR is a house and techno artist based in Denmark, with 10 gigs on soundcheck a
 
 Martinez, Dudd, Tod Louie
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kndr/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kndr/)*

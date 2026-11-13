@@ -1,6 +1,6 @@
 # Arch 14
 
-Arch 14 is a music venue in London with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "The Abba vs Fleetwood Mac Disco Party - Hackney Central" on Sat, 21 Nov 2026.
+Arch 14 is a music venue in London with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "The Abba vs Fleetwood Mac Disco Party - Hackney Central" on Sat, 21 Nov 2026.
 
 Arch 14 is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including Aga, AKWA, Bengoa and Colaps and 2 more. See dates, start times and who's playing. 14 Bohemia Place, Hackney, London, E8 1DU.
 
@@ -16,4 +16,4 @@ Arch 14 is a music venue in London listed on soundcheck. 3 upcoming gigs, with l
 
 14 Bohemia Place, Hackney, London, E8 1DU, London
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/arch-14/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/arch-14/)*

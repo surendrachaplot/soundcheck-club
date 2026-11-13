@@ -1,6 +1,6 @@
 # Derek Plaslaiko
 
-Derek Plaslaiko is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Nowadays, New York City on Sat, 14 Nov 2026.
+Derek Plaslaiko is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Nowadays, New York City on Sat, 14 Nov 2026.
 
 Derek Plaslaiko is a techno and acid artist based in United States of America, with 45 gigs on soundcheck across Berlin, Chicago, Denver and Detroit and 5 more. Often billed alongside Erika, Mike Servito and BMG. Next up: Nowadays, New York City on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Derek Plaslaiko is a techno and acid artist based in United States of America, w
 
 Erika, Mike Servito, BMG
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/derekplaslaiko/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/derekplaslaiko/)*

@@ -1,6 +1,6 @@
 # Dean Turnley
 
-Dean Turnley is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at District Arena at Terraform, Bangalore on Fri, 18 Dec 2026.
+Dean Turnley is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at District Arena at Terraform, Bangalore on Fri, 18 Dec 2026.
 
 Dean Turnley is a house and tech house artist based in Australia, with 36 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Bangalore and 27 more. Often billed alongside Hamdi, Jamback and MPH. Next up: District Arena at Terraform, Bangalore on Fri 18 Dec.
 
@@ -33,4 +33,4 @@ Dean Turnley is a house and tech house artist based in Australia, with 36 gigs o
 
 Hamdi, Jamback, MPH (1)
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deanturnley/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deanturnley/)*

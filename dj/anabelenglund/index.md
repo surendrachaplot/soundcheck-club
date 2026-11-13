@@ -1,6 +1,6 @@
 # Anabel Englund
 
-Anabel Englund is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Royal Caribbean Cruise Ship, Miami on Thu, 21 Jan 2027.
+Anabel Englund is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Royal Caribbean Cruise Ship, Miami on Thu, 21 Jan 2027.
 
 Anabel Englund is a house and tech house artist based in United States of America, with 23 gigs on soundcheck across Austin, Denver, Los Angeles and Miami and 8 more. Often billed alongside SOFI TUKKER, Coco & Breezy and Dombresky. Next up: Royal Caribbean Cruise Ship, Miami on Thu 21 Jan.
 
@@ -26,4 +26,4 @@ Anabel Englund is a house and tech house artist based in United States of Americ
 
 SOFI TUKKER, Coco & Breezy, Dombresky
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anabelenglund/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anabelenglund/)*

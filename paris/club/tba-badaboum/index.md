@@ -1,6 +1,6 @@
 # TBA - Badaboum
 
-TBA - Badaboum is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "House Club // Lea Lisa" on Fri, 27 Nov 2026.
+TBA - Badaboum is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "House Club // Lea Lisa" on Fri, 27 Nov 2026.
 
 TBA - Badaboum is a music venue in Paris listed on soundcheck. 1 upcoming gig, with line-ups including Lea Lisa. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Badaboum is a music venue in Paris listed on soundcheck. 1 upcoming gig, w
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | House Club // Lea Lisa | Lea Lisa |
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/tba-badaboum/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/tba-badaboum/)*

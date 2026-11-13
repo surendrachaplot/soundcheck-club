@@ -1,6 +1,6 @@
 # BKL (1)
 
-BKL (1) is a electronic artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Les Asnouss, Morocco on Fri, 13 Nov 2026.
+BKL (1) is a electronic artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Les Asnouss, Morocco on Fri, 13 Nov 2026.
 
 BKL is an electronic artist based in Morocco, with 2 gigs on soundcheck across Morocco. Often billed alongside Daox, HearThug and Hector Couto. Next up: TBA - Les Asnouss, Morocco on Fri 13 Nov.
 
@@ -15,4 +15,4 @@ BKL is an electronic artist based in Morocco, with 2 gigs on soundcheck across M
 
 Daox, HearThug, Hector Couto
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bkl-1/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bkl-1/)*

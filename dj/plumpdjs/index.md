@@ -1,6 +1,6 @@
 # Plump DJs
 
-Plump DJs is a Breakbeat and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Joshua Brooks, Manchester on Sat, 21 Nov 2026.
+Plump DJs is a Breakbeat and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Joshua Brooks, Manchester on Sat, 21 Nov 2026.
 
 Plump DJs is a breakbeat and house artist based in United Kingdom, with 24 gigs on soundcheck across Auckland, Birmingham, Brighton and Budapest and 8 more. Often billed alongside Krafty Kuts, Freestylers and Stanton Warriors. Next up: Joshua Brooks, Manchester on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Plump DJs is a breakbeat and house artist based in United Kingdom, with 24 gigs 
 
 Krafty Kuts, Freestylers, Stanton Warriors
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/plumpdjs/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/plumpdjs/)*

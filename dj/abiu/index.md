@@ -1,6 +1,6 @@
 # Abiu
 
-Abiu is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at West Harlem, Kyoto on Sat, 14 Nov 2026.
+Abiu is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at West Harlem, Kyoto on Sat, 14 Nov 2026.
 
 Abiu is a house and techno artist based in Japan, with 35 gigs on soundcheck across Kyoto, Osaka, Taipei and Tokyo. Often billed alongside Torei, 7e and AKIRAM EN. Next up: West Harlem, Kyoto on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Abiu is a house and techno artist based in Japan, with 35 gigs on soundcheck acr
 
 Torei, 7e, AKIRAM EN
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/abiu/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/abiu/)*

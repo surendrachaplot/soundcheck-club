@@ -1,6 +1,6 @@
 # Rickie (Overground)
 
-Rickie (Overground) is a Club and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Doggy Klœb, Malaga on Sat, 21 Nov 2026.
+Rickie (Overground) is a Club and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Doggy Klœb, Malaga on Sat, 21 Nov 2026.
 
 Rickie (Overground) is a club and electronica artist, with 13 gigs on soundcheck across Berlin, Ghent, Malaga and Rome. Often billed alongside Robs, Adriano and Ancut. Next up: Doggy Klœb, Malaga on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Rickie (Overground) is a club and electronica artist, with 13 gigs on soundcheck
 
 Robs (1), Adriano, Ancut
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rickieoverground/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rickieoverground/)*

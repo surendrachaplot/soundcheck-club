@@ -1,6 +1,6 @@
 # Ham (5)
 
-Ham (5) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Solace, Melbourne on Sat, 14 Nov 2026.
+Ham (5) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Solace, Melbourne on Sat, 14 Nov 2026.
 
 Ham is a house and techno artist based in Australia, with 38 gigs on soundcheck across Melbourne, Taipei and Victoria. Often billed alongside ADMINISTRATOR, Ed Kent and Hannah D. Next up: Solace, Melbourne on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Ham is a house and techno artist based in Australia, with 38 gigs on soundcheck 
 
 ADMINISTRATOR, Ed Kent, Hannah D
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ham-5/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ham-5/)*

@@ -1,6 +1,6 @@
 # Cannelle - Montréal at Fairmount Theatre
 
-Cannelle - Montréal at Fairmount Theatre on Fri 13 Nov, Montreal. 1 artist: Cannelle. Electro and Pop. See the line-up on soundcheck.
+Cannelle - Montréal at Fairmount Theatre on Fri 13 Nov, Montreal. 1 artist: Isla Den. Electro and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,6 @@ Cannelle - Montréal at Fairmount Theatre on Fri 13 Nov, Montreal. 1 artist: Can
 
 ## Line-up
 
-- Cannelle
+- Isla Den
 
 *Source: [soundcheck](https://soundcheck.club/e/2522976-cannelle-montr-al-at-fairmount-theatre/)*

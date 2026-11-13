@@ -1,6 +1,6 @@
 # Danny Krivit
 
-Danny Krivit is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Good Room, New York City on Sun, 15 Nov 2026.
+Danny Krivit is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Good Room, New York City on Sun, 15 Nov 2026.
 
 Danny Krivit is a house and disco artist based in United States of America, with 122 gigs on soundcheck across Amsterdam, Barcelona, Chicago and Detroit and 19 more. Often billed alongside Joe Claussell, Francois K and Rich Medina. Next up: Good Room, New York City on Sun 15 Nov.
 
@@ -28,4 +28,4 @@ Danny Krivit is a house and disco artist based in United States of America, with
 
 Joe Claussell, Francois K, Rich Medina
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dannykrivit/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dannykrivit/)*

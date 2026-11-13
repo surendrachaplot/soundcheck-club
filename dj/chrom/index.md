@@ -1,6 +1,6 @@
 # Chrom
 
-Chrom is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Very Small Club, Budapest on Sat, 28 Nov 2026.
+Chrom is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Very Small Club, Budapest on Sat, 28 Nov 2026.
 
 Chrom is a house and techno artist, with 10 gigs on soundcheck across Berlin, Budapest and Montreal. Often billed alongside isu, DJ Crimson and Absolute Body Control. Next up: Very Small Club, Budapest on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Chrom is a house and techno artist, with 10 gigs on soundcheck across Berlin, Bu
 
 isu, DJ Crimson, Absolute Body Control
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrom/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrom/)*

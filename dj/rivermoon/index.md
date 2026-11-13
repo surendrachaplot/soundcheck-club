@@ -1,6 +1,6 @@
 # River Moon
 
-River Moon is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at ORIGIN, Los Angeles on Fri, 13 Nov 2026.
+River Moon is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at ORIGIN, Los Angeles on Fri, 13 Nov 2026.
 
 River Moon is a techno and club artist based in United States of America, with 94 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Auckland and 23 more. Often billed alongside Only Fire, Goth Jafar and Memphy. Next up: ORIGIN, Los Angeles on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ River Moon is a techno and club artist based in United States of America, with 9
 
 Only Fire, Goth Jafar, Memphy
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rivermoon/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rivermoon/)*

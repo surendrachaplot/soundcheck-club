@@ -1,6 +1,6 @@
 # Slowerson
 
-Slowerson is a Acid and Ambient artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA, Chicago on Fri, 4 Dec 2026.
+Slowerson is a Acid and Ambient artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA, Chicago on Fri, 4 Dec 2026.
 
 Slowerson is an acid and ambient artist, with 10 gigs on soundcheck across Chicago. Often billed alongside m50, Nail and Toada. Next up: TBA, Chicago on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Slowerson is an acid and ambient artist, with 10 gigs on soundcheck across Chica
 
 m50, Nail, Toada
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slowerson/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slowerson/)*

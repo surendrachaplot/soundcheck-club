@@ -1,14 +1,15 @@
 # YAMARCHY
 
-YAMARCHY is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Noon + Cafe, Osaka on Sat, 21 Nov 2026.
+YAMARCHY is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Noon + Cafe, Osaka on Sat, 21 Nov 2026.
 
-YAMARCHY is a house and techno artist based in Japan, with 352 gigs on soundcheck across Bali, Bangkok, Berlin and Hanoi and 15 more. Often billed alongside Monkey Timers, CHIDA and FFAN. Next up: Noon + Cafe, Osaka on Sat 21 Nov.
+YAMARCHY is a house and techno artist based in Japan, with 353 gigs on soundcheck across Bali, Bangkok, Berlin and Hanoi and 15 more. Often billed alongside Monkey Timers, CHIDA and FFAN. Next up: Noon + Cafe, Osaka on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Noon + Cafe | Osaka |
+| Thu, 3 Dec 2026 | Mitsuki | Tokyo |
 | Sat, 12 Dec 2026 | Berghain / Panorama Bar / Säule | Berlin |
 
 ## Recently played
@@ -26,4 +27,4 @@ YAMARCHY is a house and techno artist based in Japan, with 352 gigs on soundchec
 
 Monkey Timers, CHIDA, FFAN
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yamarchy/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yamarchy/)*

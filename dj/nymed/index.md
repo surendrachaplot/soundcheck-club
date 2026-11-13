@@ -1,6 +1,6 @@
 # Nymed
 
-Nymed is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at à la Folie Paris, Paris on Fri, 13 Nov 2026.
+Nymed is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at à la Folie Paris, Paris on Fri, 13 Nov 2026.
 
 Nymed is a techno and house artist based in France, with 78 gigs on soundcheck across Amsterdam, Athens, Beijing and Berlin and 14 more. Often billed alongside Boris, Mar/us and DMN DJ. Next up: à la Folie Paris, Paris on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Nymed is a techno and house artist based in France, with 78 gigs on soundcheck a
 
 Boris, Mar/us, DMN DJ
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nymed/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nymed/)*

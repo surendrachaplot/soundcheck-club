@@ -1,6 +1,6 @@
 # FENIM0RE
 
-FENIM0RE is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Underclub, Alicante on Fri, 13 Nov 2026.
+FENIM0RE is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Underclub, Alicante on Fri, 13 Nov 2026.
 
 FENIM0RE is a techno and trance artist based in Germany, with 75 gigs on soundcheck across Alicante, Amsterdam, Antwerp and Athens and 33 more. Often billed alongside future.666, ÜBERKIKZ and DJ Hyperdrive. Next up: Underclub, Alicante on Fri 13 Nov.
 
@@ -32,4 +32,4 @@ FENIM0RE is a techno and trance artist based in Germany, with 75 gigs on soundch
 
 future.666, ÜBERKIKZ, DJ Hyperdrive
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fenim0re/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fenim0re/)*

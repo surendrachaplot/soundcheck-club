@@ -1,17 +1,17 @@
 # The House
 
-The House is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "Club Cocoa feat. Halima (live), UBABU, CH3RI, Nebula" on Fri, 13 Nov 2026.
+The House is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "Club Cocoa feat. Halima (live), UBABU, CH3RI, Nebula" on Fri, 13 Nov 2026.
 
-The House is a music venue in New York City listed on soundcheck. 1 upcoming gig, with line-ups including CH3RI and Halima. See dates, start times and who's playing. 29 Locust St, Brooklyn, NY 11206 USA.
+The House is a music venue in New York City listed on soundcheck. 1 upcoming gig, with line-ups including CH3RI, Halima and UBABU. See dates, start times and who's playing. 29 Locust St, Brooklyn, NY 11206 USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Club Cocoa feat. Halima (live), UBABU, CH3RI, Nebula | CH3RI, Halima |
+| Fri, 13 Nov 2026 | Club Cocoa feat. Halima (live), UBABU, CH3RI, Nebula | CH3RI, Halima, UBABU |
 
 ## Address
 
 29 Locust St, Brooklyn, NY 11206 USA, New York City
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-house/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-house/)*

@@ -1,14 +1,13 @@
 # DeTour
 
-DeTour is a music venue in Tokyo with 6 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "DT Four-on-the-floor SESSION" on Thu, 12 Nov 2026.
+DeTour is a music venue in Tokyo with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "TECHNO DE HONBUCHO" on Fri, 13 Nov 2026.
 
-DeTour is a music venue in Tokyo listed on soundcheck. 6 upcoming gigs, with line-ups including ASIN, BEPPU, bloodymarii and CKRN303 and 2 more. See dates, start times and who's playing. B1 8-8 Uguisudani-Chu, Shibuya-Ku, Tokyo, 150-0032.
+DeTour is a music venue in Tokyo listed on soundcheck. 5 upcoming gigs, with line-ups including ASIN, BEPPU, bloodymarii and CKRN303 and 2 more. See dates, start times and who's playing. B1 8-8 Uguisudani-Chu, Shibuya-Ku, Tokyo, 150-0032.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 12 Nov 2026 | DT Four-on-the-floor SESSION |  |
 | Fri, 13 Nov 2026 | TECHNO DE HONBUCHO |  |
 | Sat, 14 Nov 2026 | meaningful | BEPPU, Nanlaze |
 | Sun, 15 Nov 2026 | Ad-hoc Acid Party | DJ MASASHI MATSUI, KASHIWAGI, Krankent, Will A |
@@ -19,4 +18,4 @@ DeTour is a music venue in Tokyo listed on soundcheck. 6 upcoming gigs, with lin
 
 B1 8-8 Uguisudani-Chu, Shibuya-Ku, Tokyo, 150-0032, Tokyo
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/detour/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/detour/)*

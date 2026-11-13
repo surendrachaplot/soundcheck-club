@@ -1,6 +1,6 @@
 # TBA - Secret North London Location
 
-TBA - Secret North London Location is a music venue in London with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "3 Years of Shower Thoughts" on Sat, 14 Nov 2026.
+TBA - Secret North London Location is a music venue in London with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "3 Years of Shower Thoughts" on Sat, 14 Nov 2026.
 
 TBA - Secret North London Location is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including DJ Winggold, Karolli, mixtress and Spinning Jenny (UK) and 2 more. See dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ TBA - Secret North London Location is a music venue in London listed on soundche
 | Sat, 14 Nov 2026 | 3 Years of Shower Thoughts | DJ Winggold, Karolli, SynthEunoia, Talayi, Trunks, mixtress |
 | Sat, 14 Nov 2026 | Seneca presents: Acid Church | Spinning Jenny (UK) |
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-north-london-location/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-north-london-location/)*

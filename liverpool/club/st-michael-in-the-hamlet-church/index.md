@@ -1,6 +1,6 @@
 # St Michael In The Hamlet Church
 
-St Michael In The Hamlet Church is a music venue in Liverpool with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "Fyfe Dangerfield - An Informal Evening With" on Sat, 21 Nov 2026.
+St Michael In The Hamlet Church is a music venue in Liverpool with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "Fyfe Dangerfield - An Informal Evening With" on Sat, 21 Nov 2026.
 
 St Michael In The Hamlet Church is a music venue in Liverpool listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ St Michael In The Hamlet Church is a music venue in Liverpool listed on soundche
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Fyfe Dangerfield - An Informal Evening With |  |
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/st-michael-in-the-hamlet-church/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/st-michael-in-the-hamlet-church/)*

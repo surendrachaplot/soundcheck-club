@@ -1,14 +1,13 @@
 # Theo Parrish
 
-Theo Parrish is a House and Funk / Soul artist with 10 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Solotech Studios, Los Angeles on Thu, 12 Nov 2026.
+Theo Parrish is a House and Funk / Soul artist with 9 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA, Los Angeles on Fri, 13 Nov 2026.
 
-Theo Parrish is a house and funk / soul artist based in United States of America, with 136 gigs on soundcheck across Amsterdam, Antwerp, Bali and Baltimore and 35 more. Often billed alongside Avalon Emerson, Moodymann and Batu. Next up: Solotech Studios, Los Angeles on Thu 12 Nov.
+Theo Parrish is a house and funk / soul artist based in United States of America, with 136 gigs on soundcheck across Amsterdam, Antwerp, Bali and Baltimore and 35 more. Often billed alongside Avalon Emerson, Moodymann and Batu. Next up: TBA, Los Angeles on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 12 Nov 2026 | Solotech Studios | Los Angeles |
 | Fri, 13 Nov 2026 | TBA | Los Angeles |
 | Sun, 15 Nov 2026 | Audio SF | San Francisco/Oakland |
 | Fri, 20 Nov 2026 | Centre PHI | Montreal |
@@ -21,6 +20,7 @@ Theo Parrish is a house and funk / soul artist based in United States of America
 
 ## Recently played
 
+- Solotech Studios, Los Angeles · Thu, 12 Nov 2026
 - Frankhan Selectist, Istanbul · Sat, 7 Nov 2026
 - Basic Club, Naples · Sat, 31 Oct 2026
 - Lingotto Fiere, Turin · Thu, 29 Oct 2026
@@ -28,10 +28,9 @@ Theo Parrish is a house and funk / soul artist based in United States of America
 - La Bellevilloise, Paris · Sat, 17 Oct 2026
 - Empire Polo Club, Palm-springs · Sat, 10 Oct 2026
 - Part Time Lover Hifi, San Diego · Fri, 2 Oct 2026
-- TBA - Theo Parrish Location, Los Angeles · Sun, 27 Sept 2026
 
 ## Shares bills with
 
 Avalon Emerson, Moodymann, Batu
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theoparrish/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theoparrish/)*

@@ -1,6 +1,6 @@
 # Gabbs
 
-Gabbs is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at fabric, London on Sat, 14 Nov 2026.
+Gabbs is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at fabric, London on Sat, 14 Nov 2026.
 
 Gabbs is a house and techno artist based in Italy, with 204 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 48 more. Often billed alongside Alexia Glensy, Alex Dima and Cap. Next up: fabric, London on Sat 14 Nov.
 
@@ -35,4 +35,4 @@ Gabbs is a house and techno artist based in Italy, with 204 gigs on soundcheck a
 
 Alexia Glensy, Alex Dima, Cap
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabbs/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabbs/)*

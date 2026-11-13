@@ -1,6 +1,6 @@
 # Symmetrik x Colours presents Strictly Bangerz Indoor Festival at SWG3
 
-Symmetrik x Colours presents Strictly Bangerz Indoor Festival at SWG3 on Fri 4 Dec, Glasgow. 6 artists: AMMARA, Giuseppe Ottaviani, Mha iri and Scot Project and 2 more. Trance. See the line-up on soundcheck.
+Symmetrik x Colours presents Strictly Bangerz Indoor Festival at SWG3 on Fri 4 Dec, Glasgow. 7 artists: AMMARA, Giuseppe Ottaviani, Matty Ralph and Mha iri and 3 more. Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Symmetrik x Colours presents Strictly Bangerz Indoor Festival at SWG3 on Fri 4 D
 
 - AMMARA
 - Giuseppe Ottaviani
+- Matty Ralph
 - Mha iri
 - Scot Project
 - Shugz

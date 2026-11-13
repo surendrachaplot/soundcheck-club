@@ -1,6 +1,6 @@
 # Skuzz
 
-Skuzz is a Drum & Bass and Dub artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Woodshop, New York City on Fri, 13 Nov 2026.
+Skuzz is a Drum & Bass and Dub artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Woodshop, New York City on Fri, 13 Nov 2026.
 
 Skuzz is a drum & bass and dub artist based in United States of America, with 8 gigs on soundcheck across New York City and Philadelphia. Often billed alongside Bensley, Delta Heavy and Dirtyphonics. Next up: The Woodshop, New York City on Fri 13 Nov.
 
@@ -24,4 +24,4 @@ Skuzz is a drum & bass and dub artist based in United States of America, with 8 
 
 Bensley, Delta Heavy, Dirtyphonics
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skuzz/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skuzz/)*

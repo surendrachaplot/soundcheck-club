@@ -1,6 +1,6 @@
 # Kimdongsun
 
-Kimdongsun is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
+Kimdongsun is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
 
 Kimdongsun is a techno and electro artist based in South Korea, with 5 gigs on soundcheck across Seoul and South Korea. Often billed alongside Honn, Adroit Joe and Bagagee Viphex13. Next up: TBA - Jacks Bar, South Korea on Sat 14 Nov.
 
@@ -21,4 +21,4 @@ Kimdongsun is a techno and electro artist based in South Korea, with 5 gigs on s
 
 Honn, Adroit Joe, Bagagee Viphex13
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kimdongsun/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kimdongsun/)*

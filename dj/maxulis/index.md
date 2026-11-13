@@ -1,6 +1,6 @@
 # Max Ulis
 
-Max Ulis is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Secret Location, Vancouver on Sat, 5 Dec 2026.
+Max Ulis is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Secret Location, Vancouver on Sat, 5 Dec 2026.
 
 Max Ulis is a house and techno artist based in Canada, with 85 gigs on soundcheck across Calgary, Guadalajara, Mexico City and Osaka and 3 more. Often billed alongside DJ dood, Dane and DK PAU. Next up: TBA - Secret Location, Vancouver on Sat 5 Dec.
 
@@ -27,4 +27,4 @@ Max Ulis is a house and techno artist based in Canada, with 85 gigs on soundchec
 
 DJ dood, Dane, DK PAU
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxulis/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxulis/)*

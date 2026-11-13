@@ -1,6 +1,6 @@
 # Via App
 
-Via App is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Brooklyn, New York City on Wed, 27 Jan 2027.
+Via App is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Brooklyn, New York City on Wed, 27 Jan 2027.
 
 Via App is a techno and experimental artist based in United States of America, with 56 gigs on soundcheck across Austin, Berlin, Bologna and Chengdu and 8 more. Often billed alongside Juliana Huxtable, LOKA (US) and Sausha. Next up: TBA - Brooklyn, New York City on Wed 27 Jan.
 
@@ -25,4 +25,4 @@ Via App is a techno and experimental artist based in United States of America, w
 
 Juliana Huxtable, LOKA (US), Sausha
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/viaapp/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/viaapp/)*

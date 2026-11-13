@@ -1,6 +1,6 @@
 # HARRIS (DE)
 
-HARRIS (DE) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at AMT, Berlin on Sat, 12 Dec 2026.
+HARRIS (DE) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at AMT, Berlin on Sat, 12 Dec 2026.
 
 HARRIS (DE) is a house and techno artist based in Germany, with 6 gigs on soundcheck across Berlin. Often billed alongside Frankie Flowerz, ALXJ and Ante Perry. Next up: AMT, Berlin on Sat 12 Dec.
 
@@ -22,4 +22,4 @@ HARRIS (DE) is a house and techno artist based in Germany, with 6 gigs on soundc
 
 Frankie Flowerz, ALXJ, Ante Perry
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/harris-de/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/harris-de/)*

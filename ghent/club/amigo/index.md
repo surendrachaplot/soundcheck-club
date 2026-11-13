@@ -1,6 +1,6 @@
 # Amigo
 
-Amigo is a music venue in Ghent with 7 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Kamarat w/ Moker, Donna, Mayday, Cenja" on Fri, 13 Nov 2026.
+Amigo is a music venue in Ghent with 7 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Kamarat w/ Moker, Donna, Mayday, Cenja" on Fri, 13 Nov 2026.
 
 Amigo is a music venue in Ghent listed on soundcheck. 7 upcoming gigs, with line-ups including Akilla, Arian Zand, Bafana and Ben Kamal and 2 more. See dates, start times and who's playing. Stapelplein 31, 9000 Gent, Belgium.
 
@@ -20,4 +20,4 @@ Amigo is a music venue in Ghent listed on soundcheck. 7 upcoming gigs, with line
 
 Stapelplein 31, 9000 Gent, Belgium, Ghent
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/amigo/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/amigo/)*

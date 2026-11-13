@@ -1,6 +1,6 @@
 # FAF (1)
 
-FAF (1) is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Revolver Upstairs, Melbourne on Sat, 21 Nov 2026.
+FAF (1) is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Revolver Upstairs, Melbourne on Sat, 21 Nov 2026.
 
 FAF is a house and garage artist based in Australia, with 14 gigs on soundcheck across Madrid, Melbourne and Victoria. Often billed alongside Anima Omada, Cosy and Love, Jess. Next up: Revolver Upstairs, Melbourne on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ FAF is a house and garage artist based in Australia, with 14 gigs on soundcheck 
 
 Anima Omada, Cosy (2), Love, Jess
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/faf-1/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/faf-1/)*

@@ -1,6 +1,6 @@
 # Astoria
 
-Astoria is a music venue in Turin with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "TECHNOBULL : BENZA (Clergy, Symbole, Vault Records /ES), Teeo Kristo & LYSS" on Fri, 13 Nov 2026.
+Astoria is a music venue in Turin with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "TECHNOBULL : BENZA (Clergy, Symbole, Vault Records /ES), Teeo Kristo & LYSS" on Fri, 13 Nov 2026.
 
 Astoria is a music venue in Turin listed on soundcheck. 5 upcoming gigs, with line-ups including BENZA, Delano Legito, Hellson5 and IDJayy and 2 more. See dates, start times and who's playing. Via Claudio Luigi Berthollet 13, 10125 Torino (TO), Italy.
 
@@ -18,4 +18,4 @@ Astoria is a music venue in Turin listed on soundcheck. 5 upcoming gigs, with li
 
 Via Claudio Luigi Berthollet 13, 10125 Torino (TO), Italy, Turin
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/turin/club/astoria/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/turin/club/astoria/)*

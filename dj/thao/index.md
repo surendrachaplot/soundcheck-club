@@ -1,6 +1,6 @@
 # Thao
 
-Thao is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Gólya Presszó, Budapest on Sat, 5 Dec 2026.
+Thao is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Gólya Presszó, Budapest on Sat, 5 Dec 2026.
 
 Thao is a techno and experimental artist, with 29 gigs on soundcheck across Bratislava, Budapest, Idaho and Lyon and 2 more. Often billed alongside anxxxious_t, AXT and AfroNinja. Next up: Gólya Presszó, Budapest on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Thao is a techno and experimental artist, with 29 gigs on soundcheck across Brat
 
 anxxxious_t, AXT, AfroNinja
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thao/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thao/)*

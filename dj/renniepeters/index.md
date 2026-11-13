@@ -1,6 +1,6 @@
 # Rennie Peters
 
-Rennie Peters is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Ministry Of Sound, London on Sat, 21 Nov 2026.
+Rennie Peters is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Ministry Of Sound, London on Sat, 21 Nov 2026.
 
 Rennie Peters is a house and tech house artist based in United Kingdom, with 59 gigs on soundcheck across Amsterdam, Barcelona, Brighton and Ibiza and 4 more. Often billed alongside Sammy Porter, George Mensah and Tilli Murphy. Next up: Ministry Of Sound, London on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Rennie Peters is a house and tech house artist based in United Kingdom, with 59 
 
 Sammy Porter, George Mensah, Tilli Murphy
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/renniepeters/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/renniepeters/)*

@@ -1,6 +1,6 @@
 # Hidden
 
-Hidden is a music venue in Manchester with 19 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Hidden x Fishing for Bill: Dopplereffekt, Client_03, Nikki Nair" on Fri, 13 Nov 2026.
+Hidden is a music venue in Manchester with 19 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Hidden x Fishing for Bill: Dopplereffekt, Client_03, Nikki Nair" on Fri, 13 Nov 2026.
 
 Hidden is a music venue in Manchester listed on soundcheck. 19 upcoming gigs, with line-ups including 2FEL, Adele Tondu, Agnelli & Nelson and Allius and 2 more. See dates, start times and who's playing. 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom.
 
@@ -23,4 +23,4 @@ Hidden is a music venue in Manchester listed on soundcheck. 19 upcoming gigs, wi
 
 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom, Manchester
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/hidden/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/hidden/)*

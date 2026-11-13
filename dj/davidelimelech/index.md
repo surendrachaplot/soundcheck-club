@@ -1,6 +1,6 @@
 # David Elimelech
 
-David Elimelech is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Zur Klappe, Berlin on Sat, 28 Nov 2026.
+David Elimelech is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Zur Klappe, Berlin on Sat, 28 Nov 2026.
 
 David Elimelech is a house and techno artist, with 94 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 38 more. Often billed alongside Partok, Roi Perez and Jorkes. Next up: Zur Klappe, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ David Elimelech is a house and techno artist, with 94 gigs on soundcheck across 
 
 Partok, Roi Perez, Jorkes
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidelimelech/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidelimelech/)*

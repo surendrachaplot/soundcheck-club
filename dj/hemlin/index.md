@@ -1,6 +1,6 @@
 # Hemlin
 
-Hemlin is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Block C, London on Fri, 13 Nov 2026.
+Hemlin is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Block C, London on Fri, 13 Nov 2026.
 
 Hemlin is a house and electronica artist based in United Kingdom, with 33 gigs on soundcheck across Berlin and London. Often billed alongside Ariane V, Liv Ayers and fairground. Next up: Block C, London on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Hemlin is a house and electronica artist based in United Kingdom, with 33 gigs o
 
 Ariane V, Liv Ayers, fairground
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hemlin/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hemlin/)*

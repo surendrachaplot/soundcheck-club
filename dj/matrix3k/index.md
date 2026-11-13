@@ -1,14 +1,15 @@
 # MATRIX3K
 
-MATRIX3K is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Sekta Selekta, Krakow on Fri, 13 Nov 2026.
+MATRIX3K is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Sekta Selekta, Krakow on Fri, 13 Nov 2026.
 
-MATRIX3K is a techno and house artist based in Poland, with 115 gigs on soundcheck across Barcelona, Bergen, Berlin and Brussels and 13 more. Often billed alongside Buchan, Edvvin and Contakt (PL). Next up: Sekta Selekta, Krakow on Fri 13 Nov.
+MATRIX3K is a techno and house artist based in Poland, with 116 gigs on soundcheck across Barcelona, Bergen, Berlin and Brussels and 13 more. Often billed alongside Buchan, Edvvin and Contakt (PL). Next up: Sekta Selekta, Krakow on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Sekta Selekta | Krakow |
+| Fri, 27 Nov 2026 | Jasna 1 | Warsaw |
 | Sat, 19 Dec 2026 | Jasna 1 | Warsaw |
 | Sat, 26 Dec 2026 | Silodom | Saarland |
 | Thu, 31 Dec 2026 | Renate | Berlin |
@@ -28,4 +29,4 @@ MATRIX3K is a techno and house artist based in Poland, with 115 gigs on soundche
 
 Buchan, Edvvin, Contakt (PL)
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matrix3k/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matrix3k/)*

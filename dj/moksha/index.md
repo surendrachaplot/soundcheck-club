@@ -1,6 +1,6 @@
 # Moksha
 
-Moksha is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Volume Village, Aarhus on Sat, 21 Nov 2026.
+Moksha is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Volume Village, Aarhus on Sat, 21 Nov 2026.
 
 Moksha is a techno and trance artist based in United States of America, with 11 gigs on soundcheck across Aarhus, Ghent, Nantes and Paris and 1 more. Often billed alongside Combe, MAIA and Maï-Linh. Next up: Volume Village, Aarhus on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Moksha is a techno and trance artist based in United States of America, with 11 
 
 Combe, MAIA, Maï-Linh
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moksha/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moksha/)*

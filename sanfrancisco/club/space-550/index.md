@@ -1,6 +1,6 @@
 # Space 550
 
-Space 550 is a music venue in San Francisco/Oakland with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "Cult.protocol // 001" on Sat, 30 Jan 2027.
+Space 550 is a music venue in San Francisco/Oakland with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "cult.protocol // 001" on Sat, 30 Jan 2027.
 
 Space 550 is a music venue in San Francisco/Oakland listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 550 Barneveld Ave, San Francisco, CA 94124, United States.
 
@@ -8,10 +8,10 @@ Space 550 is a music venue in San Francisco/Oakland listed on soundcheck. 1 upco
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 30 Jan 2027 | Cult.protocol // 001 |  |
+| Sat, 30 Jan 2027 | cult.protocol // 001 |  |
 
 ## Address
 
 550 Barneveld Ave, San Francisco, CA 94124, United States, San Francisco/Oakland
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/space-550/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/space-550/)*

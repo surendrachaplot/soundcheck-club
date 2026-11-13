@@ -1,6 +1,6 @@
 # Chopper
 
-Chopper is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Nest, Nottingham on Sat, 5 Dec 2026.
+Chopper is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Nest, Nottingham on Sat, 5 Dec 2026.
 
 Chopper is a tech house and house artist based in United Kingdom, with 29 gigs on soundcheck across Amsterdam, Barcelona, Geneva and Ibiza and 7 more. Often billed alongside FINKY, Ryan Resso and ALISHA. Next up: The Nest, Nottingham on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Chopper is a tech house and house artist based in United Kingdom, with 29 gigs o
 
 FINKY, Ryan Resso, ALISHA
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chopper/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chopper/)*

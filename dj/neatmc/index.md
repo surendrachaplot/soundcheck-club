@@ -1,14 +1,15 @@
 # Neat MC
 
-Neat MC is a Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Onyx (E1), London on Sat, 28 Nov 2026.
+Neat MC is a Garage and Afro House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Onyx (E1), London on Sat, 28 Nov 2026.
 
-Neat MC is a garage artist based in United Kingdom, with 7 gigs on soundcheck across London. Often billed alongside DJ Luck, DJ Luck & MC Neat and MC Creed. Next up: Onyx (E1), London on Sat 28 Nov.
+Neat MC is a garage and afro house artist based in United Kingdom, with 8 gigs on soundcheck across London. Often billed alongside MC Creed, DJ Luck and DJ Luck & MC Neat. Next up: Onyx (E1), London on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Onyx (E1) | London |
+| Fri, 1 Jan 2027 | The Steel Yard | London |
 
 ## Recently played
 
@@ -21,6 +22,6 @@ Neat MC is a garage artist based in United Kingdom, with 7 gigs on soundcheck ac
 
 ## Shares bills with
 
-DJ Luck, DJ Luck & MC Neat, MC Creed
+MC Creed, DJ Luck, DJ Luck & MC Neat
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neatmc/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neatmc/)*

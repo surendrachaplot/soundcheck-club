@@ -1,13 +1,13 @@
 # TBA - Spätikatessen
 
-TBA - Spätikatessen is a music venue in Leipzig with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "Spätikatessen Treffen 2 x Kantine AllStars" on Sat, 28 Nov 2026.
+TBA - Spätikatessen is a music venue in Leipzig with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "Spätikatessen Treffen 2 x Kantine AllStars" on Sat, 28 Nov 2026.
 
-TBA - Spätikatessen is a music venue in Leipzig listed on soundcheck. 1 upcoming gig, with line-ups including OutWithJane. See dates, start times and who's playing.
+TBA - Spätikatessen is a music venue in Leipzig listed on soundcheck. 1 upcoming gig, with line-ups including Larry Love and OutWithJane. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 28 Nov 2026 | Spätikatessen Treffen 2 x Kantine AllStars | OutWithJane |
+| Sat, 28 Nov 2026 | Spätikatessen Treffen 2 x Kantine AllStars | Larry Love, OutWithJane |
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/tba-sp-tikatessen/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/tba-sp-tikatessen/)*

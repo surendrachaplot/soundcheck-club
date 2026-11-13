@@ -1,6 +1,6 @@
 # Mustelide
 
-Mustelide is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Renate, Berlin on Sat, 14 Nov 2026.
+Mustelide is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Renate, Berlin on Sat, 14 Nov 2026.
 
 Mustelide is a house and techno artist, with 9 gigs on soundcheck across Berlin and Warsaw. Often billed alongside Arnaldo Capo, EMIRA and jo:af. Next up: Renate, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Mustelide is a house and techno artist, with 9 gigs on soundcheck across Berlin 
 
 Arnaldo Capo, EMIRA, jo:af
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mustelide/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mustelide/)*

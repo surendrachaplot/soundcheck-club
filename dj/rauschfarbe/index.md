@@ -1,8 +1,8 @@
 # Rausch & Farbe
 
-Rausch & Farbe is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at WDM, Hannover on Fri, 18 Dec 2026.
+Rausch & Farbe is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at WDM, Hannover on Fri, 18 Dec 2026.
 
-Rausch & Farbe are a techno and house duo based in Germany, with 38 gigs on soundcheck across Amsterdam, Berlin, Hamburg and Hannover and 1 more. Often billed alongside Wiebe Roose, DAIVER and Rn86. Next up: WDM, Hannover on Fri 18 Dec.
+Rausch & Farbe are a techno and house duo based in Germany, with 39 gigs on soundcheck across Amsterdam, Berlin, Hamburg and Hannover and 1 more. Often billed alongside Wiebe Roose, DAIVER and Rn86. Next up: WDM, Hannover on Fri 18 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Rausch & Farbe are a techno and house duo based in Germany, with 38 gigs on soun
 | --- | --- | --- |
 | Fri, 18 Dec 2026 | WDM | Hannover |
 | Wed, 30 Dec 2026 | Coda Club | Hamburg |
+| Sat, 17 Jul 2027 | Edelfettwerk | Hamburg |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Rausch & Farbe are a techno and house duo based in Germany, with 38 gigs on soun
 
 Wiebe Roose, DAIVER, Rn86
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rauschfarbe/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rauschfarbe/)*

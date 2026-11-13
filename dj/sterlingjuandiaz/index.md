@@ -1,8 +1,8 @@
 # Sterling Juan Diaz
 
-Sterling Juan Diaz is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at BASEMENT, New York City on Fri, 13 Nov 2026.
+Sterling Juan Diaz is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at BASEMENT, New York City on Fri, 13 Nov 2026.
 
-Sterling Juan Diaz is a house and techno artist based in United States of America, with 135 gigs on soundcheck across Berlin, Chicago, Leipzig and Los Angeles and 7 more. Often billed alongside Sekucci, ALEXIS DE LA ROSA and Josh Steers. Next up: BASEMENT, New York City on Fri 13 Nov.
+Sterling Juan Diaz is a house and techno artist based in United States of America, with 136 gigs on soundcheck across Berlin, Chicago, Leipzig and Los Angeles and 7 more. Often billed alongside Sekucci, ALEXIS DE LA ROSA and Makadsi. Next up: BASEMENT, New York City on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Sterling Juan Diaz is a house and techno artist based in United States of Americ
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | BASEMENT | New York City |
 | Fri, 20 Nov 2026 | TBA - TWO FLOOR WAREHOUSE  | New York City |
+| Fri, 18 Dec 2026 | Signal | New York City |
 | Sat, 19 Dec 2026 | BASEMENT | New York City |
 
 ## Recently played
@@ -25,6 +26,6 @@ Sterling Juan Diaz is a house and techno artist based in United States of Americ
 
 ## Shares bills with
 
-Sekucci, ALEXIS DE LA ROSA, Josh Steers
+Sekucci, ALEXIS DE LA ROSA, Makadsi
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sterlingjuandiaz/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sterlingjuandiaz/)*

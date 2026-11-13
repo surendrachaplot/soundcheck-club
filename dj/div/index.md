@@ -1,6 +1,6 @@
 # DIV
 
-DIV is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at R Lounge, Tokyo on Sat, 21 Nov 2026.
+DIV is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at R Lounge, Tokyo on Sat, 21 Nov 2026.
 
 DIV is a techno and trance artist based in Indonesia, with 54 gigs on soundcheck across Shenzhen and Tokyo. Often billed alongside MUNÉO, XINOVI and MELEETIME. Next up: R Lounge, Tokyo on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ DIV is a techno and trance artist based in Indonesia, with 54 gigs on soundcheck
 
 MUNÉO, XINOVI, MELEETIME
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/div/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/div/)*

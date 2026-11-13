@@ -1,6 +1,6 @@
 # Ezequiel Arias
 
-Ezequiel Arias is a Progressive House and Deep House artist with 7 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at NUMBER 90 LONDON, London on Fri, 20 Nov 2026.
+Ezequiel Arias is a Progressive House and Deep House artist with 7 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at NUMBER 90 LONDON, London on Fri, 20 Nov 2026.
 
 Ezequiel Arias is a progressive house and deep house artist based in Argentina, with 72 gigs on soundcheck across Amsterdam, Baltimore, Barcelona and Budapest and 26 more. Often billed alongside Jody Wisternoff, Romain Garcia and Dosem. Next up: NUMBER 90 LONDON, London on Fri 20 Nov.
 
@@ -31,4 +31,4 @@ Ezequiel Arias is a progressive house and deep house artist based in Argentina, 
 
 Jody Wisternoff, Romain Garcia, Dosem
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ezequielarias/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ezequielarias/)*

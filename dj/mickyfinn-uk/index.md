@@ -1,6 +1,6 @@
 # Micky Finn
 
-Micky Finn is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Tunnel Club, Birmingham on Thu, 31 Dec 2026.
+Micky Finn is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Tunnel Club, Birmingham on Thu, 31 Dec 2026.
 
 Micky Finn is a jungle and drum & bass artist based in United Kingdom, with 34 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Cardiff and 4 more. Often billed alongside Kenny Ken, Nicky Blackmarket and Grooverider. Next up: Tunnel Club, Birmingham on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Micky Finn is a jungle and drum & bass artist based in United Kingdom, with 34 g
 
 Kenny Ken, Nicky Blackmarket, Grooverider
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mickyfinn-uk/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mickyfinn-uk/)*

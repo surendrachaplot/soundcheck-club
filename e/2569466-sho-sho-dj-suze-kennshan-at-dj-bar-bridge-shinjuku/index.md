@@ -1,6 +1,6 @@
 # Sho Sho, DJ Suze & Kennshan at DJ Bar Bridge Shinjuku
 
-Sho Sho, DJ Suze & Kennshan at DJ Bar Bridge Shinjuku on Thu 26 Nov, Tokyo. 2 artists: DJ Suze and Shosho. House. See the line-up on soundcheck.
+Sho Sho, DJ Suze & Kennshan at DJ Bar Bridge Shinjuku on Thu 26 Nov, Tokyo. 2 artists: DJ Suze and Sho Sho. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,6 @@ Sho Sho, DJ Suze & Kennshan at DJ Bar Bridge Shinjuku on Thu 26 Nov, Tokyo. 2 ar
 ## Line-up
 
 - DJ Suze
-- Shosho
+- Sho Sho
 
 *Source: [soundcheck](https://soundcheck.club/e/2569466-sho-sho-dj-suze-kennshan-at-dj-bar-bridge-shinjuku/)*

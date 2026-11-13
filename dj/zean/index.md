@@ -1,6 +1,6 @@
 # Zean
 
-Zean is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Heim Shanghai, Shanghai on Sat, 21 Nov 2026.
+Zean is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Heim Shanghai, Shanghai on Sat, 21 Nov 2026.
 
 Zean is a bass and club artist based in China, with 43 gigs on soundcheck across Beijing, Shanghai, Shenzhen and Tokyo. Often billed alongside chuan, 33EMYBW and DJ EBP. Next up: Heim Shanghai, Shanghai on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Zean is a bass and club artist based in China, with 43 gigs on soundcheck across
 
 chuan, 33EMYBW, DJ EBP
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zean/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zean/)*

@@ -1,6 +1,6 @@
 # DJ Shu-ma
 
-DJ Shu-ma is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at rake?raka?, Osaka on Fri, 4 Dec 2026.
+DJ Shu-ma is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at rake?raka?, Osaka on Fri, 4 Dec 2026.
 
 DJ Shu-ma is a house and tech house artist based in Japan, with 12 gigs on soundcheck across Osaka and Tokyo. Often billed alongside Neri, DJ ISE and Chika Luna. Next up: rake?raka?, Osaka on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ DJ Shu-ma is a house and tech house artist based in Japan, with 12 gigs on sound
 
 Neri, DJ ISE, Chika Luna
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djshu-ma/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djshu-ma/)*

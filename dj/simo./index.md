@@ -1,6 +1,6 @@
 # Simo.
 
-Simo. is a Techno and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at 50 | 50, Medellin on Fri, 27 Nov 2026.
+Simo. is a Techno and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at 50 | 50, Medellin on Fri, 27 Nov 2026.
 
 Simo. is a techno and latin bass artist, with 13 gigs on soundcheck across Medellin. Often billed alongside system/32, Indogma and Jose BB. Next up: 50 | 50, Medellin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Simo. is a techno and latin bass artist, with 13 gigs on soundcheck across Medel
 
 system/32, Indogma, Jose BB
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simo./)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simo./)*

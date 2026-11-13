@@ -1,6 +1,6 @@
 # calypso
 
-calypso is a Hip-Hop and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Bar Oriente, Mexico-city on Fri, 27 Nov 2026.
+calypso is a Hip-Hop and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Bar Oriente, Mexico-city on Fri, 27 Nov 2026.
 
 calypso is a hip-hop and house artist based in United Kingdom, with 10 gigs on soundcheck across Atlanta, Leipzig, London and Mexico City. Often billed alongside LeNil, Sophia Nicole and AMBAM. Next up: Bar Oriente, Mexico City on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ calypso is a hip-hop and house artist based in United Kingdom, with 10 gigs on s
 
 LeNil, Sophia Nicole, AMBAM
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/calypso/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/calypso/)*

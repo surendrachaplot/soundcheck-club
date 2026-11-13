@@ -1,6 +1,6 @@
 # Edward (2)
 
-Edward (2) is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Pickle, Miami on Thu, 3 Dec 2026.
+Edward (2) is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Pickle, Miami on Thu, 3 Dec 2026.
 
 Edward is a techno and electro artist, with 5 gigs on soundcheck across Colombia, Melbourne and Miami. Often billed alongside Tim Wigg, 1morning and ALKMST. Next up: The Pickle, Miami on Thu 3 Dec.
 
@@ -21,4 +21,4 @@ Edward is a techno and electro artist, with 5 gigs on soundcheck across Colombia
 
 Tim Wigg, 1morning, ALKMST
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edward-2/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edward-2/)*

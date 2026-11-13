@@ -1,8 +1,8 @@
 # Paul Kalkbrenner
 
-Paul Kalkbrenner is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at DRUMSHEDS, London on Sat, 5 Dec 2026.
+Paul Kalkbrenner is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at DRUMSHEDS, London on Sat, 5 Dec 2026.
 
-Paul Kalkbrenner is a techno and house artist based in Germany, with 77 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 36 more. Often billed alongside Kölsch, Miss Monique and Agents Of Time. Next up: DRUMSHEDS, London on Sat 5 Dec.
+Paul Kalkbrenner is a techno and house artist based in Germany, with 78 gigs on soundcheck across Amsterdam, Andorra, Barcelona and Berlin and 37 more. Often billed alongside Kölsch, Miss Monique and Agents Of Time. Next up: DRUMSHEDS, London on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Paul Kalkbrenner is a techno and house artist based in Germany, with 77 gigs on 
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | DRUMSHEDS | London |
 | Sat, 5 Dec 2026 | DRUMSHEDS | London |
+| Fri, 19 Mar 2027 | Pas de la Casa | Andorra |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Paul Kalkbrenner is a techno and house artist based in Germany, with 77 gigs on 
 
 Kölsch, Miss Monique, Agents Of Time
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paulkalkbrenner/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paulkalkbrenner/)*

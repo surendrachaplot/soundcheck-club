@@ -1,6 +1,6 @@
 # YO.AN
 
-YO.AN is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Fri, 13 Nov 2026.
+YO.AN is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Fri, 13 Nov 2026.
 
 YO.AN is a house and techno artist based in Japan, with 200 gigs on soundcheck across Kyoto and Tokyo. Often billed alongside Fushiming, Mamazu and Sunga. Next up: DJ Bar Bridge Shinjuku, Tokyo on Fri 13 Nov.
 
@@ -29,4 +29,4 @@ YO.AN is a house and techno artist based in Japan, with 200 gigs on soundcheck a
 
 Fushiming, Mamazu, Sunga
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yoan-jp/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yoan-jp/)*

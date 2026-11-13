@@ -1,6 +1,6 @@
 # Daora
 
-Daora is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Alte Fabrik, Greifswalder Str. 23A 10407, Berlin on Sat, 21 Nov 2026.
+Daora is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Alte Fabrik, Greifswalder Str. 23A 10407, Berlin on Sat, 21 Nov 2026.
 
 Daora is a techno and psytrance artist, with 101 gigs on soundcheck across Berlin. Often billed alongside Gerrit X, Momentune and monervo. Next up: TBA - Alte Fabrik, Greifswalder Str. 23A 10407, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Daora is a techno and psytrance artist, with 101 gigs on soundcheck across Berli
 
 Gerrit X, Momentune, monervo
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daora/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daora/)*

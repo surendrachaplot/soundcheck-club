@@ -1,6 +1,6 @@
 # Jhobei
 
-Jhobei is a House and Electro artist with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Blackstone Street Warehouse, Liverpool on Sun, 22 Nov 2026.
+Jhobei is a House and Electro artist with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Blackstone Street Warehouse, Liverpool on Sun, 22 Nov 2026.
 
 Jhobei is a house and electro artist based in United Kingdom, with 79 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bologna and 14 more. Often billed alongside B.Love, Voigtmann and Enzo Siragusa. Next up: Blackstone Street Warehouse, Liverpool on Sun 22 Nov.
 
@@ -29,4 +29,4 @@ Jhobei is a house and electro artist based in United Kingdom, with 79 gigs on so
 
 B.Love, Voigtmann, Enzo Siragusa
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jhobei/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jhobei/)*

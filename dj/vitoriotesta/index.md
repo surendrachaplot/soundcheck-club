@@ -1,6 +1,6 @@
 # Vitorio Testa
 
-Vitorio Testa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Bridge 48, Barcelona on Sat, 21 Nov 2026.
+Vitorio Testa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Bridge 48, Barcelona on Sat, 21 Nov 2026.
 
 Vitorio Testa is a techno and house artist based in Spain, with 29 gigs on soundcheck across Amsterdam, Barcelona and Berlin. Often billed alongside Vitorio Testa, Adrian Marth and Atari Stacey. Next up: Bridge 48, Barcelona on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Vitorio Testa is a techno and house artist based in Spain, with 29 gigs on sound
 
 Vitorio Testa, Adrian Marth, Atari Stacey
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vitoriotesta/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vitoriotesta/)*

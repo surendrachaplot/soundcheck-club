@@ -1,6 +1,6 @@
 # Caillou (DE)
 
-Caillou (DE) is a Post-Punk and New Wave artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Buzz, Berlin on Fri, 20 Nov 2026.
+Caillou (DE) is a Post-Punk and New Wave artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Buzz, Berlin on Fri, 20 Nov 2026.
 
 Caillou (DE) is a post-punk and new wave artist based in Germany, with 24 gigs on soundcheck across Amsterdam, Berlin, Brussels and Prague. Often billed alongside Philipp Strobel, Joshua Murphy and Paty Vapor. Next up: The Buzz, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Caillou (DE) is a post-punk and new wave artist based in Germany, with 24 gigs o
 
 Philipp Strobel, Joshua Murphy, Paty Vapor
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caillou-de/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caillou-de/)*

@@ -1,6 +1,6 @@
 # BURRE with Liturgy at Panke
 
-BURRE with Liturgy at Panke on Fri 4 Dec, Berlin. 1 artist: Nick Klein. Experimental and Club. See the line-up on soundcheck.
+BURRE with Liturgy at Panke on Fri 4 Dec, Berlin. 2 artists: CÁRPATOS and Nick Klein. Experimental and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ BURRE with Liturgy at Panke on Fri 4 Dec, Berlin. 1 artist: Nick Klein. Experime
 
 ## Line-up
 
+- CÁRPATOS
 - Nick Klein
 
 *Source: [soundcheck](https://soundcheck.club/e/2575354-burre-with-liturgy-at-panke/)*

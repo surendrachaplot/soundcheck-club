@@ -1,6 +1,6 @@
 # Neffa-T
 
-Neffa-T is a Bass and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Point Ephémère, Paris on Fri, 20 Nov 2026.
+Neffa-T is a Bass and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Point Ephémère, Paris on Fri, 20 Nov 2026.
 
 Neffa-T is a bass and techno artist based in United Kingdom, with 183 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Belfast and 47 more. Often billed alongside Flowdan, Jay Carder and Main Phase. Next up: Point Ephémère, Paris on Fri 20 Nov.
 
@@ -30,4 +30,4 @@ Neffa-T is a bass and techno artist based in United Kingdom, with 183 gigs on so
 
 Flowdan, Jay Carder, Main Phase
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neffa-t/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neffa-t/)*

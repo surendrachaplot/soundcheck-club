@@ -1,6 +1,6 @@
 # Pure 100%
 
-Pure 100% is a Bass and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
+Pure 100% is a Bass and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
 
 Pure 100% is a bass and hardcore artist based in South Korea, with 13 gigs on soundcheck across Seoul and South Korea. Often billed alongside Bagagee Viphex13, Carbonatez and BASSKRAP. Next up: TBA - Jacks Bar, South Korea on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Pure 100% is a bass and hardcore artist based in South Korea, with 13 gigs on so
 
 Bagagee Viphex13, Carbonatez, BASSKRAP
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pure100/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pure100/)*

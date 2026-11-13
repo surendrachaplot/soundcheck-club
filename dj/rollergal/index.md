@@ -1,6 +1,6 @@
 # Roller Gal
 
-Roller Gal is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Bikinis, Bogotá on Sat, 14 Nov 2026.
+Roller Gal is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Bikinis, Bogotá on Sat, 14 Nov 2026.
 
 Roller Gal is a techno and house artist based in Colombia, with 51 gigs on soundcheck across Berlin, Bogotá, Medellin and Rotterdam. Often billed alongside Juanitablue, Yabanko and Bedriñana. Next up: Bikinis, Bogotá on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Roller Gal is a techno and house artist based in Colombia, with 51 gigs on sound
 
 Juanitablue, Yabanko, Bedriñana
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rollergal/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rollergal/)*

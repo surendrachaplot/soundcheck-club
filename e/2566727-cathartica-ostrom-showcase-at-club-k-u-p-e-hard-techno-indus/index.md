@@ -1,6 +1,6 @@
 # Cathartica: OSTROM SHOWCASE at CLUB K.U.P.E 'Hard Techno, Industrial, Hypnotic' at Купе / Kupe
 
-Cathartica: OSTROM SHOWCASE at CLUB K.U.P.E 'Hard Techno, Industrial, Hypnotic' at Купе / Kupe on Sat 21 Nov, Sofia. 5 artists: 5ogol, GØBLIN, KASSIS and VAYROX and 1 more. Techno and Industrial. See the line-up on soundcheck.
+Cathartica: OSTROM SHOWCASE at CLUB K.U.P.E 'Hard Techno, Industrial, Hypnotic' at Купе / Kupe on Sat 21 Nov, Sofia. 6 artists: 5ogol, GØBLIN, KASSIS and SXBER and 2 more. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Cathartica: OSTROM SHOWCASE at CLUB K.U.P.E 'Hard Techno, Industrial, Hypnotic' 
 - 5ogol
 - GØBLIN
 - KASSIS
+- SXBER
 - VAYROX
 - VIK B
 

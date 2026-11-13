@@ -1,8 +1,8 @@
 # Calavera
 
-Calavera is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at ZEROTOKYO, Tokyo on Fri, 13 Nov 2026.
+Calavera is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at ZEROTOKYO, Tokyo on Fri, 13 Nov 2026.
 
-Calavera is a techno and house artist based in Italy, with 27 gigs on soundcheck across Hamburg, Melbourne, Milan and Rome and 1 more. Often billed alongside Soluna, EMILIO and LYOM. Next up: ZEROTOKYO, Tokyo on Fri 13 Nov.
+Calavera is a techno and house artist based in Italy, with 28 gigs on soundcheck across Hamburg, Melbourne, Milan and Rome and 1 more. Often billed alongside Soluna, EMILIO and LYOM. Next up: ZEROTOKYO, Tokyo on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Calavera is a techno and house artist based in Italy, with 27 gigs on soundcheck
 | Fri, 13 Nov 2026 | ZEROTOKYO | Tokyo |
 | Fri, 20 Nov 2026 | Tide Tokyo | Tokyo |
 | Sat, 28 Nov 2026 | ZEROTOKYO | Tokyo |
+| Fri, 11 Dec 2026 | TBA - Secret Location  | Tokyo |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Calavera is a techno and house artist based in Italy, with 27 gigs on soundcheck
 
 Soluna, EMILIO (3), LYOM
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/calavera/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/calavera/)*

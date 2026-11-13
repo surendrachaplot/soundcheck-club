@@ -1,6 +1,6 @@
 # Afonso (PT)
 
-Afonso (PT) is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at 5A, Lisbon on Thu, 19 Nov 2026.
+Afonso (PT) is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at 5A, Lisbon on Thu, 19 Nov 2026.
 
 Afonso (PT) is a house and club artist based in Portugal, with 23 gigs on soundcheck across Lisbon and Stockholm. Often billed alongside Joaquim Quadros, Bernardo Vaz and Thiago Guiselini. Next up: 5A, Lisbon on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Afonso (PT) is a house and club artist based in Portugal, with 23 gigs on soundc
 
 Joaquim Quadros, Bernardo Vaz, Thiago Guiselini
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/afonsopt/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/afonsopt/)*

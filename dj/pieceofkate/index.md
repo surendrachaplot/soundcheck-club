@@ -1,14 +1,15 @@
 # Piece of Kate
 
-Piece of Kate is a Electro and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Patision65, Athens on Fri, 13 Nov 2026.
+Piece of Kate is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Patision65, Athens on Fri, 13 Nov 2026.
 
-Piece of Kate is an electro and breakbeat artist based in Greece, with 29 gigs on soundcheck across Athens. Often billed alongside Yorz, IMPVLSIV and SuperCub90. Next up: Patision65, Athens on Fri 13 Nov.
+Piece of Kate is an electro and techno artist based in Greece, with 30 gigs on soundcheck across Athens. Often billed alongside Yorz, IMPVLSIV and SuperCub90. Next up: Patision65, Athens on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Patision65 | Athens |
+| Sat, 19 Dec 2026 | Astron Club | Athens |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Piece of Kate is an electro and breakbeat artist based in Greece, with 29 gigs o
 
 Yorz, IMPVLSIV, SuperCub90
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pieceofkate/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pieceofkate/)*

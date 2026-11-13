@@ -1,6 +1,6 @@
 # Matisa - Maxime dB at Flash
 
-Matisa - Maxime dB at Flash on Fri 4 Dec, Washington DC. 3 artists: Martino Boga, Matisa and Maxime dB. House and Electro. See the line-up on soundcheck.
+Matisa - Maxime dB at Flash on Fri 4 Dec, Washington DC. 4 artists: House Twelve, Martino Boga, Matisa and Maxime dB. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Matisa - Maxime dB at Flash on Fri 4 Dec, Washington DC. 3 artists: Martino Boga
 
 ## Line-up
 
+- House Twelve
 - Martino Boga
 - Matisa
 - Maxime dB

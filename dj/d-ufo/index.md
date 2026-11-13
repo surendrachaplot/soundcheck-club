@@ -1,6 +1,6 @@
 # D-Ufo
 
-D-Ufo is a Electro and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA, Mexico City on Sat, 14 Nov 2026.
+D-Ufo is a Electro and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA, Mexico City on Sat, 14 Nov 2026.
 
 D-Ufo is an electro and minimal artist based in Mexico, with 13 gigs on soundcheck across Barcelona, Lisbon and Mexico City. Often billed alongside Bastard Love, Bluecommand and AL MANDO. Next up: TBA, Mexico City on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ D-Ufo is an electro and minimal artist based in Mexico, with 13 gigs on soundche
 
 Bastard Love, Bluecommand, AL MANDO
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/d-ufo/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/d-ufo/)*

@@ -1,6 +1,6 @@
 # Martin Balladares
 
-Martin Balladares is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Lula Club, Madrid on Sat, 21 Nov 2026.
+Martin Balladares is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Lula Club, Madrid on Sat, 21 Nov 2026.
 
 Martin Balladares is a house and electronica artist based in Spain, with 17 gigs on soundcheck across Madrid and New York City. Often billed alongside Foie Gras, Tania Vulcano and AGELESS. Next up: Lula Club, Madrid on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Martin Balladares is a house and electronica artist based in Spain, with 17 gigs
 
 Foie Gras, Tania Vulcano, AGELESS
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/martinballadares/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/martinballadares/)*

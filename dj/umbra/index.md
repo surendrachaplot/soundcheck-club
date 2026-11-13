@@ -1,6 +1,6 @@
 # UMBRA
 
-UMBRA is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 13 Nov 2026.
+UMBRA is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 13 Nov 2026.
 
 UMBRA is a techno and house artist based in Portugal, with 39 gigs on soundcheck across Bali, Berlin, Bristol and Brussels and 7 more. Often billed alongside Kerena, Tsui and Andy Chiu. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ UMBRA is a techno and house artist based in Portugal, with 39 gigs on soundcheck
 
 Kerena, Tsui, Andy Chiu
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/umbra/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/umbra/)*

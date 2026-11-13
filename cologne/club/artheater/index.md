@@ -1,6 +1,6 @@
 # Artheater
 
-Artheater is a music venue in Cologne with 8 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Sound of Hell pres. LS41 ALL NIGHT LONG" on Fri, 13 Nov 2026.
+Artheater is a music venue in Cologne with 8 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Sound of Hell pres. LS41 ALL NIGHT LONG" on Fri, 13 Nov 2026.
 
 Artheater is a music venue in Cologne listed on soundcheck. 8 upcoming gigs, with line-ups including 909 RACING TEAM, alleira, anyka and DJ Discostoff and 2 more. See dates, start times and who's playing. Ehrenfeldgürtel 127; 50823 Cologne; Germany.
 
@@ -21,4 +21,4 @@ Artheater is a music venue in Cologne listed on soundcheck. 8 upcoming gigs, wit
 
 Ehrenfeldgürtel 127; 50823 Cologne; Germany, Cologne
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/artheater/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/artheater/)*

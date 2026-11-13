@@ -1,6 +1,6 @@
 # yismna
 
-yismna is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Paradisco Bogotá, Bogotá on Fri, 13 Nov 2026.
+yismna is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Paradisco Bogotá, Bogotá on Fri, 13 Nov 2026.
 
 yismna is a house and electronica artist, with 14 gigs on soundcheck across Bogotá. Often billed alongside Club Soxial, DJ Maybe and Emilio Mustafá. Next up: Paradisco Bogotá, Bogotá on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ yismna is a house and electronica artist, with 14 gigs on soundcheck across Bogo
 
 Club Soxial, DJ Maybe, Emilio Mustafá
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yismna/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yismna/)*

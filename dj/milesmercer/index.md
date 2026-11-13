@@ -1,6 +1,6 @@
 # Miles Mercer
 
-Miles Mercer is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Hertz, Seoul on Fri, 13 Nov 2026.
+Miles Mercer is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Hertz, Seoul on Fri, 13 Nov 2026.
 
 Miles Mercer is a house and techno artist based in United States of America, with 34 gigs on soundcheck across Detroit, Los Angeles, New York City and Portland and 3 more. Often billed alongside Simic, Second Contact and Amelia Holt. Next up: Hertz, Seoul on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Miles Mercer is a house and techno artist based in United States of America, wit
 
 Simic, Second Contact, Amelia Holt
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milesmercer/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milesmercer/)*

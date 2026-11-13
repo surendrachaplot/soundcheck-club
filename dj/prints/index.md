@@ -1,6 +1,6 @@
 # Prints
 
-Prints is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Beach Neukölln, Berlin on Thu, 19 Aug 2027.
+Prints is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Beach Neukölln, Berlin on Thu, 19 Aug 2027.
 
 Prints is a house and electro artist based in United Kingdom, with 15 gigs on soundcheck across Berlin, Leipzig and Manchester. Often billed alongside Chafik Bali, Judas Du and Allius. Next up: Beach Neukölln, Berlin on Thu 19 Aug.
 
@@ -25,4 +25,4 @@ Prints is a house and electro artist based in United Kingdom, with 15 gigs on so
 
 Chafik Bali, Judas Du, Allius
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prints/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prints/)*

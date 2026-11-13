@@ -1,6 +1,6 @@
 # Laurel
 
-Laurel is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at El Espacio, Bogotá on Fri, 13 Nov 2026.
+Laurel is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at El Espacio, Bogotá on Fri, 13 Nov 2026.
 
 Laurel is a techno and electronica artist, with 25 gigs on soundcheck across Berlin and Bogotá. Often billed alongside Iris Leidenschaft, QV and Surfer Rosa. Next up: El Espacio, Bogotá on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Laurel is a techno and electronica artist, with 25 gigs on soundcheck across Ber
 
 Iris Leidenschaft, QV (1), Surfer Rosa
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laurel/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laurel/)*

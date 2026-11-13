@@ -1,6 +1,6 @@
 # Ross Purcell
 
-Ross Purcell is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at 93 Feet East, London on Sat, 14 Nov 2026.
+Ross Purcell is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at 93 Feet East, London on Sat, 14 Nov 2026.
 
 Ross Purcell is a deep house and house artist based in Ireland, with 3 gigs on soundcheck across Glasgow, London and Manchester. Often billed alongside Chris Hewitt, JOC (A Deeper Groove) and Steph (A Deeper Groove). Next up: 93 Feet East, London on Sat 14 Nov.
 
@@ -19,4 +19,4 @@ Ross Purcell is a deep house and house artist based in Ireland, with 3 gigs on s
 
 Chris Hewitt, JOC (A Deeper Groove), Steph (A Deeper Groove)
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rosspurcell/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rosspurcell/)*

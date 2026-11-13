@@ -1,6 +1,6 @@
 # Pawn Shop
 
-Pawn Shop is a music venue in Dublin with 6 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Reclaim the Mainframe" on Sat, 7 Nov 2026.
+Pawn Shop is a music venue in Dublin with 6 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Reclaim the Mainframe" on Sat, 7 Nov 2026.
 
 Pawn Shop is a music venue in Dublin listed on soundcheck. 6 upcoming gigs, with line-ups including ALIS., Applied Rithim, Bruno Limma and Co-Accused and 2 more. See dates, start times and who's playing. 15 Dame St, Dublin 2, D02 KD74.
 
@@ -19,4 +19,4 @@ Pawn Shop is a music venue in Dublin listed on soundcheck. 6 upcoming gigs, with
 
 15 Dame St, Dublin 2, D02 KD74, Dublin
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/pawn-shop/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/pawn-shop/)*

@@ -1,6 +1,6 @@
 # logeybear
 
-logeybear is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at H0L0, New York City on Thu, 3 Dec 2026.
+logeybear is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at H0L0, New York City on Thu, 3 Dec 2026.
 
 logeybear is a house and techno artist based in United States of America, with 11 gigs on soundcheck across New York City. Often billed alongside Scribble, LoKho and Abril IRL. Next up: H0L0, New York City on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ logeybear is a house and techno artist based in United States of America, with 1
 
 Scribble, LoKho, Abril IRL
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/logeybear/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/logeybear/)*

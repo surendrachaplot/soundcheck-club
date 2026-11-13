@@ -1,6 +1,6 @@
 # SANTANA
 
-SANTANA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Circie, Dresden on Sat, 14 Nov 2026.
+SANTANA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Circie, Dresden on Sat, 14 Nov 2026.
 
 SANTANA is a techno and house artist based in Spain, with 45 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Dresden and 7 more. Often billed alongside Drazzit, Doppelganger and Fillo Deportaberta. Next up: Circie, Dresden on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ SANTANA is a techno and house artist based in Spain, with 45 gigs on soundcheck 
 
 Drazzit, Doppelganger, Fillo Deportaberta
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/santana-es/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/santana-es/)*

@@ -1,6 +1,6 @@
 # Faces
 
-Faces is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "Smile presents: Love After Dark" on Sat, 6 Feb 2027.
+Faces is a music venue in London with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "Smile presents: Love After Dark" on Sat, 6 Feb 2027.
 
 Faces is a music venue in London listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 458-462 Cranbrook Road, Gants Hill, Essex, IG2 6LE.
 
@@ -14,4 +14,4 @@ Faces is a music venue in London listed on soundcheck. 1 upcoming gig. See dates
 
 458-462 Cranbrook Road, Gants Hill, Essex, IG2 6LE, London
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/faces/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/faces/)*

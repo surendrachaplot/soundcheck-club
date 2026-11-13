@@ -1,6 +1,6 @@
 # Ugo Leone
 
-Ugo Leone is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Dumbo, Bologna on Fri, 13 Nov 2026.
+Ugo Leone is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Dumbo, Bologna on Fri, 13 Nov 2026.
 
 Ugo Leone is a house and techno artist based in Italy, with 14 gigs on soundcheck across Barcelona, Bologna and Brussels. Often billed alongside Goodjacobbe, Matisa and Anto.vi. Next up: Dumbo, Bologna on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Ugo Leone is a house and techno artist based in Italy, with 14 gigs on soundchec
 
 Goodjacobbe, Matisa, Anto.vi
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ugoleone/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ugoleone/)*

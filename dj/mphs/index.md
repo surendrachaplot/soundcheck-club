@@ -1,6 +1,6 @@
 # MPHS
 
-MPHS is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at NWHR, Montreal on Sat, 14 Nov 2026.
+MPHS is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at NWHR, Montreal on Sat, 14 Nov 2026.
 
 MPHS is a techno and trance artist based in Colombia, with 32 gigs on soundcheck across Montreal. Often billed alongside Bianca Badita, Christø and Mike Larry. Next up: NWHR, Montreal on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ MPHS is a techno and trance artist based in Colombia, with 32 gigs on soundcheck
 
 Bianca Badita, Christø, Mike Larry
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mphs/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mphs/)*

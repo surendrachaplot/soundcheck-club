@@ -1,6 +1,6 @@
 # Passq
 
-Passq is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at 50 | 50, Medellin on Sat, 21 Nov 2026.
+Passq is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at 50 | 50, Medellin on Sat, 21 Nov 2026.
 
 Passq is an electronica and techno artist based in Colombia, with 8 gigs on soundcheck across Bogotá and Medellin. Often billed alongside Jose BB, Rainmaker and Brenda.. Next up: 50 | 50, Medellin on Sat 21 Nov.
 
@@ -24,4 +24,4 @@ Passq is an electronica and techno artist based in Colombia, with 8 gigs on soun
 
 Jose BB, Rainmaker, Brenda.
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/passq/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/passq/)*

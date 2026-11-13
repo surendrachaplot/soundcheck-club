@@ -1,6 +1,6 @@
 # Namito
 
-Namito is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Whitehouse, The Hague on Fri, 20 Nov 2026.
+Namito is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Whitehouse, The Hague on Fri, 20 Nov 2026.
 
 Namito is a house and progressive house artist based in Germany, with 14 gigs on soundcheck across Berlin, Dubai, Istanbul and London and 6 more. Often billed alongside Rebeat, SIAAH and AYAŌLA. Next up: Whitehouse, The Hague on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Namito is a house and progressive house artist based in Germany, with 14 gigs on
 
 Rebeat, SIAAH, AYAŌLA
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/namito/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/namito/)*

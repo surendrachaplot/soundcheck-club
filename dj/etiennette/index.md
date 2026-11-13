@@ -1,6 +1,6 @@
 # Etiennette
 
-Etiennette is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Jonny Knüppel, Berlin on Sat, 21 Nov 2026.
+Etiennette is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Jonny Knüppel, Berlin on Sat, 21 Nov 2026.
 
 Etiennette is a house and techno artist based in Germany, with 48 gigs on soundcheck across Berlin and Hamburg. Often billed alongside babxi, Don Andres and Seemless. Next up: Jonny Knüppel, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Etiennette is a house and techno artist based in Germany, with 48 gigs on soundc
 
 babxi, Don Andres, Seemless
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/etiennette/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/etiennette/)*

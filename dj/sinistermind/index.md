@@ -1,6 +1,6 @@
 # Sinistermind
 
-Sinistermind is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA, Mexico City on Sat, 5 Dec 2026.
+Sinistermind is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA, Mexico City on Sat, 5 Dec 2026.
 
 Sinistermind is a techno and house artist based in Colombia, with 36 gigs on soundcheck across Bogotá, Medellin, Mexico City and New York City. Often billed alongside Lady Tazz, Bluecommand and DJ Hell. Next up: TBA, Mexico City on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Sinistermind is a techno and house artist based in Colombia, with 36 gigs on sou
 
 Lady Tazz, Bluecommand, DJ Hell
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sinistermind/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sinistermind/)*

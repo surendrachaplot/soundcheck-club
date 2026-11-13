@@ -1,6 +1,6 @@
 # Bernd Affleck
 
-Bernd Affleck is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Romantica, Stuttgart on Sat, 28 Nov 2026.
+Bernd Affleck is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Romantica, Stuttgart on Sat, 28 Nov 2026.
 
 Bernd Affleck is a techno and house artist, with 37 gigs on soundcheck across Berlin, Düsseldorf, Mannheim and Munich and 2 more. Often billed alongside Jannis Maxim, Egotot and Chet Rubbs. Next up: Romantica, Stuttgart on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Bernd Affleck is a techno and house artist, with 37 gigs on soundcheck across Be
 
 Jannis Maxim, Egotot, Chet Rubbs
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/berndaffleck/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/berndaffleck/)*

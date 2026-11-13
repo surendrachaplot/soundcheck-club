@@ -1,6 +1,6 @@
 # QWAK
 
-QWAK is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at DreamBags Jaguarshoes, London on Sat, 21 Nov 2026.
+QWAK is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at DreamBags Jaguarshoes, London on Sat, 21 Nov 2026.
 
 QWAK is a minimal and house artist based in United Kingdom, with 13 gigs on soundcheck across London. Often billed alongside Drozza, Benebe and MAÏS. Next up: DreamBags Jaguarshoes, London on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ QWAK is a minimal and house artist based in United Kingdom, with 13 gigs on soun
 
 Drozza, Benebe, MAÏS
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/qwak/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/qwak/)*

@@ -1,6 +1,6 @@
 # Samantha Blackburn
 
-Samantha Blackburn is a House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Arch 535, London on Sat, 21 Nov 2026.
+Samantha Blackburn is a House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Arch 535, London on Sat, 21 Nov 2026.
 
 Samantha Blackburn is a house and minimal techno artist based in United Kingdom, with 44 gigs on soundcheck across London. Often billed alongside Kat Richmond, La Gosse and Guy Herman. Next up: Arch 535, London on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Samantha Blackburn is a house and minimal techno artist based in United Kingdom,
 
 Kat Richmond, La Gosse, Guy Herman
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samanthablackburn/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samanthablackburn/)*

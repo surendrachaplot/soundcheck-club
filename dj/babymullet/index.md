@@ -1,6 +1,6 @@
 # babymullet
 
-babymullet is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Pücklerstraße 34, 10997 Berlin, Berlin on Sun, 13 Dec 2026.
+babymullet is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Pücklerstraße 34, 10997 Berlin, Berlin on Sun, 13 Dec 2026.
 
 babymullet is a house and tech house artist based in Germany, with 11 gigs on soundcheck across Berlin. Often billed alongside Florian Pas, Shmonèss and obiskabir. Next up: TBA - Pücklerstraße 34, 10997 Berlin, Berlin on Sun 13 Dec.
 
@@ -25,4 +25,4 @@ babymullet is a house and tech house artist based in Germany, with 11 gigs on so
 
 Florian Pas, Shmonèss, obiskabir
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babymullet/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babymullet/)*

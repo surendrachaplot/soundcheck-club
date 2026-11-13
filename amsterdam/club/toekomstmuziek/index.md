@@ -1,8 +1,8 @@
 # Toekomstmuziek
 
-Toekomstmuziek is a music venue in Amsterdam with 11 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Incidence Unleash The Beast" on Fri, 13 Nov 2026.
+Toekomstmuziek is a music venue in Amsterdam with 14 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Incidence Unleash The Beast" on Fri, 13 Nov 2026.
 
-Toekomstmuziek is a music venue in Amsterdam listed on soundcheck. 11 upcoming gigs, with line-ups including Audiofools, Christoph Cham, ilse dorine and JP Hernández and 2 more. See dates, start times and who's playing. Danzigerbocht 29, 1013 AM Amsterdam.
+Toekomstmuziek is a music venue in Amsterdam listed on soundcheck. 14 upcoming gigs, with line-ups including Audiofools, Children of Valis, Christoph Cham and Daniël and 2 more. See dates, start times and who's playing. Danzigerbocht 29, 1013 AM Amsterdam.
 
 ## What's on
 
@@ -16,11 +16,11 @@ Toekomstmuziek is a music venue in Amsterdam listed on soundcheck. 11 upcoming g
 | Thu, 3 Dec 2026 | Matt Nash Live in Amsterdam |  |
 | Fri, 4 Dec 2026 | ROOTED | Christoph Cham, LGNA, VITTAO, ilse dorine |
 | Sat, 5 Dec 2026 | 15 Years Of Vantara Vichitra Records | Audiofools |
-| Sun, 13 Dec 2026 | Artemis presents: Amstel Emo |  |
-| Thu, 31 Dec 2026 | HNDRD FataMorganisch |  |
+| Fri, 11 Dec 2026 | Omnibus with Jutta, Noah Lopes, Zeldenrust + the collective | Daniël, Voss, Zeldenrust, no:attitude |
+| Sat, 12 Dec 2026 | De Nachtkring | Children of Valis, RXS (2), jannah |
 
 ## Address
 
 Danzigerbocht 29, 1013 AM Amsterdam, Amsterdam
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/toekomstmuziek/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/toekomstmuziek/)*

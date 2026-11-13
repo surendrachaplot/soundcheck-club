@@ -1,6 +1,6 @@
 # Ogimaru
 
-Ogimaru is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Suma Han, Istanbul on Sat, 21 Nov 2026.
+Ogimaru is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Suma Han, Istanbul on Sat, 21 Nov 2026.
 
 Ogimaru is a techno and psytrance artist, with 11 gigs on soundcheck across Berlin and Istanbul. Often billed alongside All I Can, Gunselx and Laren. Next up: Suma Han, Istanbul on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Ogimaru is a techno and psytrance artist, with 11 gigs on soundcheck across Berl
 
 All I Can, Gunselx, Laren
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ogimaru/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ogimaru/)*

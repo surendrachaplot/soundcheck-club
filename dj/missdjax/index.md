@@ -1,6 +1,6 @@
 # Miss Djax
 
-Miss Djax is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Paradigm, Netherlands on Sat, 30 Jan 2027.
+Miss Djax is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Paradigm, Netherlands on Sat, 30 Jan 2027.
 
 Miss Djax is a techno and acid artist based in Netherlands, with 19 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 9 more. Often billed alongside Speedy J, Felix Kröcher and KlangKuenstler. Next up: Paradigm, Netherlands on Sat 30 Jan.
 
@@ -26,4 +26,4 @@ Miss Djax is a techno and acid artist based in Netherlands, with 19 gigs on soun
 
 Speedy J, Felix Kröcher, KlangKuenstler
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/missdjax/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/missdjax/)*

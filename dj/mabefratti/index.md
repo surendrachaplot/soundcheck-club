@@ -1,6 +1,6 @@
 # Mabe Fratti
 
-Mabe Fratti is a Experimental and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Barbican Hall, London on Sun, 24 Jan 2027.
+Mabe Fratti is a Experimental and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Barbican Hall, London on Sun, 24 Jan 2027.
 
 Mabe Fratti is an experimental and electro artist based in Guatemala, with 8 gigs on soundcheck across Buenos Aires, Idaho, Krakow and London and 4 more. Often billed alongside Clarissa Connelly, Mark William Lewis and Juliana Huxtable. Next up: The Barbican Hall, London on Sun 24 Jan.
 
@@ -24,4 +24,4 @@ Mabe Fratti is an experimental and electro artist based in Guatemala, with 8 gig
 
 Clarissa Connelly, Mark William Lewis, Juliana Huxtable
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mabefratti/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mabefratti/)*

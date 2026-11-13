@@ -1,6 +1,6 @@
 # Connie
 
-Connie is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Chocolate Factory, New York City on Fri, 13 Nov 2026.
+Connie is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Chocolate Factory, New York City on Fri, 13 Nov 2026.
 
 Connie is a house and techno artist based in United States of America, with 59 gigs on soundcheck across Barcelona, Los Angeles, Milan and New York City and 1 more. Often billed alongside Maksim, Amy Jor and Asha Jasz. Next up: The Chocolate Factory, New York City on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Connie is a house and techno artist based in United States of America, with 59 g
 
 Maksim, Amy Jor, Asha Jasz
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/connie/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/connie/)*

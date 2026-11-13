@@ -1,6 +1,6 @@
 # Rond (1)
 
-Rond (1) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Soap House - Ex Saponerie Mira Lanza, Rome on Sat, 21 Nov 2026.
+Rond (1) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Soap House - Ex Saponerie Mira Lanza, Rome on Sat, 21 Nov 2026.
 
 Rond is a techno and house artist based in Italy, with 45 gigs on soundcheck across Barcelona, Berlin, Bologna and Bucharest and 5 more. Often billed alongside Luca Piermattei, 2VIBES and DJ Rou. Next up: Soap House - Ex Saponerie Mira Lanza, Rome on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Rond is a techno and house artist based in Italy, with 45 gigs on soundcheck acr
 
 Luca Piermattei, 2VIBES, DJ Rou
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rond-1/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rond-1/)*

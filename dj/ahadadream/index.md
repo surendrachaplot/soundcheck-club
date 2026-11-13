@@ -1,14 +1,15 @@
 # Ahadadream
 
-Ahadadream is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
+Ahadadream is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
 
-Ahadadream is a house and techno artist based in United Kingdom, with 128 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 47 more. Often billed alongside SHERELLE, salute and Interplanetary Criminal. Next up: The Wildlands, Melbourne on Fri 20 Nov.
+Ahadadream is a house and techno artist based in United Kingdom, with 129 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 47 more. Often billed alongside SHERELLE, salute and Interplanetary Criminal. Next up: The Wildlands, Melbourne on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | The Wildlands | Melbourne |
+| Fri, 20 Nov 2026 | Chinese Laundry | Sydney |
 | Sun, 22 Nov 2026 | boomroom | Perth |
 | Fri, 27 Nov 2026 | Electric Brixton | London |
 | Sat, 23 Jan 2027 | Poolen | Copenhagen |
@@ -28,4 +29,4 @@ Ahadadream is a house and techno artist based in United Kingdom, with 128 gigs o
 
 SHERELLE, salute, Interplanetary Criminal
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ahadadream/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ahadadream/)*

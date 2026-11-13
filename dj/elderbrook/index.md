@@ -1,6 +1,6 @@
 # Elderbrook
 
-Elderbrook is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Riviera Beach Club, Melbourne on Fri, 1 Jan 2027.
+Elderbrook is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Riviera Beach Club, Melbourne on Fri, 1 Jan 2027.
 
 Elderbrook is a house and electro artist based in United Kingdom, with 104 gigs on soundcheck across Atlanta, Austin, Bali and Barcelona and 49 more. Often billed alongside Cassian, Boys Noize and Eli Brown. Next up: Riviera Beach Club, Melbourne on Fri 1 Jan.
 
@@ -27,4 +27,4 @@ Elderbrook is a house and electro artist based in United Kingdom, with 104 gigs 
 
 Cassian, Boys Noize, Eli Brown
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elderbrook/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elderbrook/)*

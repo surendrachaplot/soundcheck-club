@@ -1,6 +1,6 @@
 # Tasha
 
-Tasha is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Open Ground, Wuppertal on Sat, 14 Nov 2026.
+Tasha is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Open Ground, Wuppertal on Sat, 14 Nov 2026.
 
 Tasha is a techno and house artist based in United Kingdom, with 213 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 46 more. Often billed alongside Blasha & Allatt, Steffi and DVS1. Next up: Open Ground, Wuppertal on Sat 14 Nov.
 
@@ -35,4 +35,4 @@ Tasha is a techno and house artist based in United Kingdom, with 213 gigs on sou
 
 Blasha & Allatt, Steffi, DVS1
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tasha/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tasha/)*

@@ -1,6 +1,6 @@
 # Move Your Body at Macarena Club
 
-Move Your Body at Macarena Club on Sun 22 Nov, Barcelona. 2 artists: Rindeau and Villaça. See the line-up on soundcheck.
+Move Your Body at Macarena Club on Sun 22 Nov, Barcelona. 2 artists: Civic Grief and Wilowm. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ Move Your Body at Macarena Club on Sun 22 Nov, Barcelona. 2 artists: Rindeau and
 
 ## Line-up
 
-- Rindeau
-- Villaça
+- Civic Grief
+- Wilowm
 
 *Source: [soundcheck](https://soundcheck.club/e/2566923-move-your-body-at-macarena-club/)*

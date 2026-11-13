@@ -1,6 +1,6 @@
 # Vennegur
 
-Vennegur is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at 303 Audiophile Bar, Barcelona on Fri, 27 Nov 2026.
+Vennegur is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at 303 Audiophile Bar, Barcelona on Fri, 27 Nov 2026.
 
 Vennegur is a minimal and house artist based in Argentina, with 51 gigs on soundcheck across Barcelona and Ibiza. Often billed alongside mves, Bttologic and CAZOU. Next up: 303 Audiophile Bar, Barcelona on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Vennegur is a minimal and house artist based in Argentina, with 51 gigs on sound
 
 mves, Bttologic, CAZOU
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vennegur/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vennegur/)*

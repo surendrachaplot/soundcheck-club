@@ -1,6 +1,6 @@
 # Rostøm
 
-Rostøm is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Vault Club, East on Fri, 20 Nov 2026.
+Rostøm is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Vault Club, East on Fri, 20 Nov 2026.
 
 Rostøm is a techno and minimal techno artist based in Germany, with 37 gigs on soundcheck across Cologne, Copenhagen, Dortmund / Essen and East and 1 more. Often billed alongside Dychromatic, Shaleen and Medea. Next up: Vault Club, East on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Rostøm is a techno and minimal techno artist based in Germany, with 37 gigs on 
 
 Dychromatic, Shaleen, Medea
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rostom/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rostom/)*

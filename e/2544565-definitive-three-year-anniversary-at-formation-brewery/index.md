@@ -1,6 +1,6 @@
 # Definitive Three Year Anniversary at Formation Brewery
 
-Definitive Three Year Anniversary at Formation Brewery on Sat 14 Nov, Phoenix. 5 artists: AJ Christou, ANATTA, Andrew Azara and Cade Solito and 1 more. See the line-up on soundcheck.
+Definitive Three Year Anniversary at Formation Brewery on Sat 14 Nov, Phoenix. 6 artists: AJ Christou, ANATTA, Andrew Azara and Cade Solito and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,5 +15,6 @@ Definitive Three Year Anniversary at Formation Brewery on Sat 14 Nov, Phoenix. 5
 - Andrew Azara
 - Cade Solito
 - Edd (1)
+- JIMII
 
 *Source: [soundcheck](https://soundcheck.club/e/2544565-definitive-three-year-anniversary-at-formation-brewery/)*

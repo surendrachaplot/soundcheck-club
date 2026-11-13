@@ -1,6 +1,6 @@
 # Kaufleuten
 
-Kaufleuten is a music venue in Zurich with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Maxi Meraki" on Sat, 28 Nov 2026.
+Kaufleuten is a music venue in Zurich with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Maxi Meraki" on Sat, 28 Nov 2026.
 
 Kaufleuten is a music venue in Zurich listed on soundcheck. 3 upcoming gigs, with line-ups including CHRIS STASSY, Dangel Twins, Maxi Meraki and MËSTIZA and 1 more. See dates, start times and who's playing. Pelikanstrasse 18; 8001, Zürich; Switzerland.
 
@@ -16,4 +16,4 @@ Kaufleuten is a music venue in Zurich listed on soundcheck. 3 upcoming gigs, wit
 
 Pelikanstrasse 18; 8001, Zürich; Switzerland, Zurich
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/kaufleuten/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/kaufleuten/)*

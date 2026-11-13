@@ -1,6 +1,6 @@
 # Gareth Emery
 
-Gareth Emery is a Trance and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Genting, Malaysia, Kuala Lumpur on Sat, 30 Jan 2027.
+Gareth Emery is a Trance and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Genting, Malaysia, Kuala Lumpur on Sat, 30 Jan 2027.
 
 Gareth Emery is a trance and progressive house artist based in United Kingdom, with 38 gigs on soundcheck across Austin, Boston, Chicago and Kuala Lumpur and 13 more. Often billed alongside Cosmic Gate, Ferry Corsten and Billy Gillies. Next up: TBA - Genting, Malaysia, Kuala Lumpur on Sat 30 Jan.
 
@@ -25,4 +25,4 @@ Gareth Emery is a trance and progressive house artist based in United Kingdom, w
 
 Cosmic Gate, Ferry Corsten, Billy Gillies
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/garethemery/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/garethemery/)*

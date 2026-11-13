@@ -1,6 +1,6 @@
 # Schacke
 
-Schacke is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at KitKatClub, Berlin on Fri, 13 Nov 2026.
+Schacke is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at KitKatClub, Berlin on Fri, 13 Nov 2026.
 
 Schacke is a techno and trance artist based in Denmark, with 220 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 64 more. Often billed alongside Peachlyfe, Vixen and Mohajer. Next up: KitKatClub, Berlin on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Schacke is a techno and trance artist based in Denmark, with 220 gigs on soundch
 
 Peachlyfe, Vixen, Mohajer
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/schacke/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/schacke/)*

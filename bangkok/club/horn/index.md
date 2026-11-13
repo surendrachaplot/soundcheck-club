@@ -1,14 +1,13 @@
 # Horn
 
-Horn is a music venue in Bangkok with 7 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Thursday presents: SUBURB SOUND TOOB TUEK" on Thu, 12 Nov 2026.
+Horn is a music venue in Bangkok with 6 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "BUNKER: Bugsy Bae / Tom Drew / Gabrielle" on Fri, 13 Nov 2026.
 
-Horn is a music venue in Bangkok listed on soundcheck. 7 upcoming gigs, with line-ups including LYDO, BADSISTA, CEM and Ciriya and 2 more. See dates, start times and who's playing. 4th floor, 71 -73 Silom 4 Alley, Suriya Wong, Bang Rak, Bangkok 10500, Thailand.
+Horn is a music venue in Bangkok listed on soundcheck. 6 upcoming gigs, with line-ups including LYDO, BADSISTA, CEM and Ciriya and 2 more. See dates, start times and who's playing. 4th floor, 71 -73 Silom 4 Alley, Suriya Wong, Bang Rak, Bangkok 10500, Thailand.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 12 Nov 2026 | Thursday presents: SUBURB SOUND TOOB TUEK |  |
 | Fri, 13 Nov 2026 | BUNKER: Bugsy Bae / Tom Drew / Gabrielle | Gabrielle (DE), Tom Drew (UK) |
 | Sat, 14 Nov 2026 | REMEDY | CEM, Ciriya, Club Mascot, MCMLXXXV, MJMA, Mae Happyair, Ouissam |
 | Fri, 20 Nov 2026 | 𝐁𝐀𝐃𝐌𝐀𝐍: 𝐅𝐄𝐓𝐈𝐒𝐇 | KATER AERA, OLLE (TH) |
@@ -20,4 +19,4 @@ Horn is a music venue in Bangkok listed on soundcheck. 7 upcoming gigs, with lin
 
 4th floor, 71 -73 Silom 4 Alley, Suriya Wong, Bang Rak, Bangkok 10500, Thailand, Bangkok
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/horn/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/horn/)*

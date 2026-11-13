@@ -1,6 +1,6 @@
 # Ewan Jansen
 
-Ewan Jansen is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Si Paradiso, Perth on Fri, 11 Dec 2026.
+Ewan Jansen is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Si Paradiso, Perth on Fri, 11 Dec 2026.
 
 Ewan Jansen is a house and deep house artist, with 10 gigs on soundcheck across Barcelona, Berlin, Melbourne and Perth and 1 more. Often billed alongside Sharad, Alex Picone and Ancut. Next up: Si Paradiso, Perth on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Ewan Jansen is a house and deep house artist, with 10 gigs on soundcheck across 
 
 Sharad, Alex Picone, Ancut
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ewanjansen/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ewanjansen/)*

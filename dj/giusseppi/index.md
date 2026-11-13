@@ -1,14 +1,15 @@
 # Giusseppi
 
-Giusseppi is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Village Underground Barcelona, Barcelona on Fri, 27 Nov 2026.
+Giusseppi is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Village Underground Barcelona, Barcelona on Fri, 27 Nov 2026.
 
-Giusseppi is a techno and industrial artist, with 35 gigs on soundcheck across Barcelona. Often billed alongside BRUCE GEE, Ody.ssey and nyxzr. Next up: Village Underground Barcelona, Barcelona on Fri 27 Nov.
+Giusseppi is a techno and industrial artist, with 36 gigs on soundcheck across Barcelona. Often billed alongside BRUCE GEE, Ody.ssey and nyxzr. Next up: Village Underground Barcelona, Barcelona on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Village Underground Barcelona | Barcelona |
+| Thu, 31 Dec 2026 | INPUT High Fidelity Dance Club | Barcelona |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Giusseppi is a techno and industrial artist, with 35 gigs on soundcheck across B
 
 BRUCE GEE, Ody.ssey, nyxzr
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giusseppi/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giusseppi/)*

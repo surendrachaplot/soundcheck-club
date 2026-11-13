@@ -1,6 +1,6 @@
 # Josh Baker
 
-Josh Baker is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Substation, Seattle on Thu, 19 Nov 2026.
+Josh Baker is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Substation, Seattle on Thu, 19 Nov 2026.
 
 Josh Baker is a house and tech house artist based in United Kingdom, with 247 gigs on soundcheck across Aberdeen, Amsterdam, Atlanta and Austin and 61 more. Often billed alongside Max Dean, Prospa and Rossi. Next up: Substation, Seattle on Thu 19 Nov.
 
@@ -35,4 +35,4 @@ Josh Baker is a house and tech house artist based in United Kingdom, with 247 gi
 
 Max Dean, Prospa, Rossi
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshbaker/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshbaker/)*

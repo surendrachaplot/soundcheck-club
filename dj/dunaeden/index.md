@@ -1,6 +1,6 @@
 # DUNA ËDEN
 
-DUNA ËDEN is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Imperial Private Club, Barcelona on Fri, 4 Dec 2026.
+DUNA ËDEN is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Imperial Private Club, Barcelona on Fri, 4 Dec 2026.
 
 DUNA ËDEN is a techno and acid artist based in Spain, with 35 gigs on soundcheck across Barcelona. Often billed alongside Mahe, JOANNA COELHO and DIL KASHMIR. Next up: Imperial Private Club, Barcelona on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ DUNA ËDEN is a techno and acid artist based in Spain, with 35 gigs on soundchec
 
 Mahe, JOANNA COELHO, DIL KASHMIR
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dunaeden/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dunaeden/)*

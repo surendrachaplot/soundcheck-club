@@ -1,6 +1,6 @@
 # Mezzanine - Tooting
 
-Mezzanine - Tooting is a music venue in London with 8 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Club Culture UK presents: Gifta (UKG Set)" on Fri, 20 Nov 2026.
+Mezzanine - Tooting is a music venue in London with 8 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Club Culture UK presents: Gifta (UKG Set)" on Fri, 20 Nov 2026.
 
 Mezzanine - Tooting is a music venue in London listed on soundcheck. 8 upcoming gigs, with line-ups including Amy Cutter, CHAMPLOO, Counter Culture and C R T and 2 more. See dates, start times and who's playing. Unit 4, Tooting Market, 20 Totterdown St, London SW17 8TA.
 
@@ -21,4 +21,4 @@ Mezzanine - Tooting is a music venue in London listed on soundcheck. 8 upcoming 
 
 Unit 4, Tooting Market, 20 Totterdown St, London SW17 8TA, London
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/mezzanine-tooting/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/mezzanine-tooting/)*

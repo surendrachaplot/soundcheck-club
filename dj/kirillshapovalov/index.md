@@ -1,14 +1,15 @@
 # Kirill Shapovalov
 
-Kirill Shapovalov is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Dada Beijing, Beijing on Fri, 13 Nov 2026.
+Kirill Shapovalov is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Dada Beijing, Beijing on Fri, 13 Nov 2026.
 
-Kirill Shapovalov is a techno and house artist based in Russia, with 55 gigs on soundcheck across Bali, Bangkok, Beijing and Berlin and 19 more. Often billed alongside Séxstasy, DJ Petite and DSKE. Next up: Dada Beijing, Beijing on Fri 13 Nov.
+Kirill Shapovalov is a techno and house artist based in Russia, with 56 gigs on soundcheck across Bali, Bangkok, Beijing and Berlin and 19 more. Often billed alongside Séxstasy, DJ Petite and DSKE. Next up: Dada Beijing, Beijing on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Dada Beijing | Beijing |
+| Sat, 28 Nov 2026 | HVEN | Tokyo |
 | Fri, 18 Dec 2026 | Pawnshop | Taipei |
 
 ## Recently played
@@ -26,4 +27,4 @@ Kirill Shapovalov is a techno and house artist based in Russia, with 55 gigs on 
 
 Séxstasy, DJ Petite, DSKE
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kirillshapovalov/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kirillshapovalov/)*

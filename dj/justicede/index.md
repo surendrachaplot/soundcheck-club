@@ -1,6 +1,6 @@
 # JUSTICE (DE)
 
-JUSTICE (DE) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Beat Boutique, Hamburg on Sat, 28 Nov 2026.
+JUSTICE (DE) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Beat Boutique, Hamburg on Sat, 28 Nov 2026.
 
 JUSTICE (DE) is a techno and house artist based in Germany, with 35 gigs on soundcheck across Berlin, Budapest, Cologne and Hamburg. Often billed alongside Baerbel, VIVI (DE) and Susi&Paula. Next up: Beat Boutique, Hamburg on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ JUSTICE (DE) is a techno and house artist based in Germany, with 35 gigs on soun
 
 Baerbel, VIVI (DE), Susi&Paula
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/justicede/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/justicede/)*

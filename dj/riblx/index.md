@@ -1,6 +1,6 @@
 # RIBLX
 
-RIBLX is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Central Sector Tirana, Tirana on Fri, 13 Nov 2026.
+RIBLX is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Central Sector Tirana, Tirana on Fri, 13 Nov 2026.
 
 RIBLX is a techno and house artist based in Italy, with 12 gigs on soundcheck across Milan and Tirana. Often billed alongside MISERIA, FRANCESCO GUZZO and Münich. Next up: Central Sector Tirana, Tirana on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ RIBLX is a techno and house artist based in Italy, with 12 gigs on soundcheck ac
 
 MISERIA, FRANCESCO GUZZO, Münich
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/riblx/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/riblx/)*

@@ -1,6 +1,6 @@
 # DJ Cheers
 
-DJ Cheers is a New Wave and Pop artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at People's Leisure Club, Edinburgh on Sun, 29 Nov 2026.
+DJ Cheers is a New Wave and Pop artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at People's Leisure Club, Edinburgh on Sun, 29 Nov 2026.
 
 DJ Cheers is a new wave and pop artist based in United Kingdom, with 3 gigs on soundcheck across Edinburgh. Often billed alongside Eyes of Others, Chrissy G and Hobbes. Next up: People's Leisure Club, Edinburgh on Sun 29 Nov.
 
@@ -19,4 +19,4 @@ DJ Cheers is a new wave and pop artist based in United Kingdom, with 3 gigs on s
 
 Eyes of Others, Chrissy G (2), Hobbes
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djcheers/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djcheers/)*

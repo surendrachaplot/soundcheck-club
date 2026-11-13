@@ -1,14 +1,15 @@
 # Jasmin Blust
 
-Jasmin Blust is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Circle Club Offenburg, Freiburg on Sat, 28 Nov 2026.
+Jasmin Blust is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Circle Club Offenburg, Freiburg on Sat, 28 Nov 2026.
 
-Jasmin Blust is a techno and progressive house artist based in Germany, with 14 gigs on soundcheck across Amsterdam, Basel, Berlin and Cologne and 4 more. Often billed alongside AKA AKA, Alle Farben and Lilly Palmer. Next up: Circle Club Offenburg, Freiburg on Sat 28 Nov.
+Jasmin Blust is a techno and progressive house artist based in Germany, with 15 gigs on soundcheck across Amsterdam, Baden W Rttemberg, Basel and Berlin and 5 more. Often billed alongside Alle Farben, AKA AKA and Lilly Palmer. Next up: Circle Club Offenburg, Freiburg on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Circle Club Offenburg | Freiburg |
+| Tue, 5 Jan 2027 | Kurhaus Baden-Baden | Baden-w-rttemberg |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Jasmin Blust is a techno and progressive house artist based in Germany, with 14 
 
 ## Shares bills with
 
-AKA AKA, Alle Farben, Lilly Palmer
+Alle Farben, AKA AKA, Lilly Palmer
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jasminblust/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jasminblust/)*

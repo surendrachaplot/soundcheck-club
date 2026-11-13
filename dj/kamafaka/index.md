@@ -1,8 +1,8 @@
 # Kamafaka
 
-Kamafaka is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Das Werk, Vienna on Fri, 13 Nov 2026.
+Kamafaka is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Das Werk, Vienna on Fri, 13 Nov 2026.
 
-Kamafaka is a techno and trance artist based in Hungary, with 94 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Bologna and 8 more. Often billed alongside Technokool, Akác and CRIME. Next up: Das Werk, Vienna on Fri 13 Nov.
+Kamafaka is a techno and trance artist based in Hungary, with 95 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Bologna and 8 more. Often billed alongside Technokool, Akác and CRIME. Next up: Das Werk, Vienna on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Kamafaka is a techno and trance artist based in Hungary, with 94 gigs on soundch
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Das Werk | Vienna |
 | Fri, 27 Nov 2026 | Turbina | Budapest |
+| Sat, 19 Dec 2026 | Arzenal | Budapest |
 | Fri, 12 Mar 2027 | Arzenal | Budapest |
 
 ## Recently played
@@ -27,4 +28,4 @@ Kamafaka is a techno and trance artist based in Hungary, with 94 gigs on soundch
 
 Technokool, Akác, CRIME
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kamafaka/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kamafaka/)*

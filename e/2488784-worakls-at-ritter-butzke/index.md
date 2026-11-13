@@ -1,6 +1,6 @@
 # Worakls at Ritter Butzke
 
-Worakls at Ritter Butzke on Fri 20 Nov, Berlin. 1 artist: Worakls. Techno. See the line-up on soundcheck.
+Worakls at Ritter Butzke on Fri 20 Nov, Berlin. 2 artists: Mathilde Nordberg and Worakls. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Worakls at Ritter Butzke on Fri 20 Nov, Berlin. 1 artist: Worakls. Techno. See t
 
 ## Line-up
 
+- Mathilde Nordberg
 - Worakls
 
 *Source: [soundcheck](https://soundcheck.club/e/2488784-worakls-at-ritter-butzke/)*

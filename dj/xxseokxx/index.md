@@ -1,6 +1,6 @@
 # xxseokxx
 
-xxseokxx is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Amnesia, Bangkok on Fri, 11 Dec 2026.
+xxseokxx is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Amnesia, Bangkok on Fri, 11 Dec 2026.
 
 xxseokxx is a house and techno artist based in South Korea, with 12 gigs on soundcheck across Bangkok and Seoul. Often billed alongside Sam Laxton, Liza (KR) and LocoSoound. Next up: Amnesia, Bangkok on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ xxseokxx is a house and techno artist based in South Korea, with 12 gigs on soun
 
 Sam Laxton, Liza (KR), LocoSoound
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xxseokxx/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xxseokxx/)*

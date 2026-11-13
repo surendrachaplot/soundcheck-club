@@ -1,6 +1,6 @@
 # edv3ctor
 
-edv3ctor is a Dub and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Outlaws Yacht Club, Leeds on Sun, 15 Nov 2026.
+edv3ctor is a Dub and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Outlaws Yacht Club, Leeds on Sun, 15 Nov 2026.
 
 edv3ctor is a dub and acid artist based in United Kingdom, with 28 gigs on soundcheck across Leeds and Manchester. Often billed alongside Simon Scott, Mike BC and Annie Errez. Next up: Outlaws Yacht Club, Leeds on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ edv3ctor is a dub and acid artist based in United Kingdom, with 28 gigs on sound
 
 Simon Scott, Mike BC, Annie Errez
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edv3ctor/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edv3ctor/)*

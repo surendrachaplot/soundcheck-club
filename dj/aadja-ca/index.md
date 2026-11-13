@@ -1,6 +1,6 @@
 # AADJA
 
-AADJA is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Twisted Element, Calgary on Sat, 12 Dec 2026.
+AADJA is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Twisted Element, Calgary on Sat, 12 Dec 2026.
 
 AADJA is a techno and acid artist based in Canada, with 103 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 33 more. Often billed alongside Measure Divide, Richie Hawtin and Ellen Allien. Next up: Twisted Element, Calgary on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ AADJA is a techno and acid artist based in Canada, with 103 gigs on soundcheck a
 
 Measure Divide, Richie Hawtin, Ellen Allien
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aadja-ca/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aadja-ca/)*

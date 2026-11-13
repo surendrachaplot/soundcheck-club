@@ -1,6 +1,6 @@
 # So-Fi
 
-So-Fi is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Special Secret Garden., Barcelona on Sat, 28 Nov 2026.
+So-Fi is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Special Secret Garden., Barcelona on Sat, 28 Nov 2026.
 
 So-Fi is a house and techno artist based in France, with 106 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 26 more. Often billed alongside Matthias, Ancut and Carl H. Next up: TBA - Special Secret Garden., Barcelona on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ So-Fi is a house and techno artist based in France, with 106 gigs on soundcheck 
 
 Matthias (1), Ancut, Carl H
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/so-fi/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/so-fi/)*

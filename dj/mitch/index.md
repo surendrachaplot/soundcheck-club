@@ -1,6 +1,6 @@
 # Mitch
 
-Mitch is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA, Sydney on Sat, 14 Nov 2026.
+Mitch is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA, Sydney on Sat, 14 Nov 2026.
 
 Mitch is a house and minimal artist based in United Kingdom, with 17 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Ghent and 8 more. Often billed alongside Anish Kumar, Binyamhn and Dr Banana. Next up: TBA, Sydney on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Mitch is a house and minimal artist based in United Kingdom, with 17 gigs on sou
 
 Anish Kumar, Binyamhn, Dr Banana
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mitch/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mitch/)*

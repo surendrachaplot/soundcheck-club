@@ -1,6 +1,6 @@
 # Nadine Noor
 
-Nadine Noor is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at NT's Loft, London on Fri, 13 Nov 2026.
+Nadine Noor is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at NT's Loft, London on Fri, 13 Nov 2026.
 
 Nadine Noor is a techno and house artist based in United Kingdom, with 52 gigs on soundcheck across Birmingham, Bristol, Brussels and Glasgow and 5 more. Often billed alongside J. Aria, Ryan Lovell and THEMPRESS. Next up: NT's Loft, London on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Nadine Noor is a techno and house artist based in United Kingdom, with 52 gigs o
 
 J. Aria, Ryan Lovell, THEMPRESS
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nadinenoor/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nadinenoor/)*

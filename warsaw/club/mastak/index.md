@@ -1,6 +1,6 @@
 # Mastak
 
-Mastak is a music venue in Warsaw with 18 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Mastak 2ND BIRTHDAY: DAY 1 - LAMPA NIGHT" on Fri, 13 Nov 2026.
+Mastak is a music venue in Warsaw with 18 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Mastak 2ND BIRTHDAY: DAY 1 - LAMPA NIGHT" on Fri, 13 Nov 2026.
 
 Mastak is a music venue in Warsaw listed on soundcheck. 18 upcoming gigs, with line-ups including Adrian Skiba, Alex Kosta, Axis Operandi and Be.roo and 2 more. See dates, start times and who's playing. Solec 81B, Wieżyca, 00-382 Warszawa.
 
@@ -23,4 +23,4 @@ Mastak is a music venue in Warsaw listed on soundcheck. 18 upcoming gigs, with l
 
 Solec 81B, Wieżyca, 00-382 Warszawa, Warsaw
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/mastak/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/mastak/)*

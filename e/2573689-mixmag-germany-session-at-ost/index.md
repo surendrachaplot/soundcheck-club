@@ -1,6 +1,6 @@
 # Mixmag Germany Session at OST
 
-Mixmag Germany Session at OST on Fri 13 Nov, Berlin. 8 artists: Bobaz Lobster, Daniella da Silva, KLING&KLANG and L.zwo and 4 more. Techno. See the line-up on soundcheck.
+Mixmag Germany Session at OST on Fri 13 Nov, Berlin. 8 artists: Bobaz, Daniella da Silva, KLING&KLANG and L.zwo and 4 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ Mixmag Germany Session at OST on Fri 13 Nov, Berlin. 8 artists: Bobaz Lobster, D
 
 ## Line-up
 
-- Bobaz Lobster
+- Bobaz
 - Daniella da Silva
 - KLING&KLANG
 - L.zwo

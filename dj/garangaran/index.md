@@ -1,6 +1,6 @@
 # GARAN GARAN
 
-GARAN GARAN is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Galerie Kurzweil, Darmstadt on Fri, 13 Nov 2026.
+GARAN GARAN is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Galerie Kurzweil, Darmstadt on Fri, 13 Nov 2026.
 
 GARAN GARAN is a house and techno artist based in United States of America, with 70 gigs on soundcheck across Amsterdam, Darmstadt, Istanbul and London and 1 more. Often billed alongside KC Happy, Tomoki Tamura and Chaos In The CBD. Next up: Galerie Kurzweil, Darmstadt on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ GARAN GARAN is a house and techno artist based in United States of America, with
 
 KC Happy, Tomoki Tamura, Chaos In The CBD
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/garangaran/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/garangaran/)*

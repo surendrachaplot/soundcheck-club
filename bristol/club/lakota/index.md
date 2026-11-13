@@ -1,6 +1,6 @@
 # Lakota
 
-Lakota is a music venue in Bristol with 12 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Daft Disko" on Fri, 13 Nov 2026.
+Lakota is a music venue in Bristol with 12 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Daft Disko" on Fri, 13 Nov 2026.
 
 Lakota is a music venue in Bristol listed on soundcheck. 12 upcoming gigs, with line-ups including 2HOT2PLAY, Captain Wallop, Faster Horses and IZZIT and 2 more. See dates, start times and who's playing. 6 Upper York Street; Bristol, BS2 8QN, United Kingdom.
 
@@ -23,4 +23,4 @@ Lakota is a music venue in Bristol listed on soundcheck. 12 upcoming gigs, with 
 
 6 Upper York Street; Bristol, BS2 8QN, United Kingdom, Bristol
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/lakota/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/lakota/)*

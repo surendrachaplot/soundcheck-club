@@ -1,6 +1,6 @@
 # DJ Nobu
 
-DJ Nobu is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at AZUL Oita, Kyushu on Fri, 13 Nov 2026.
+DJ Nobu is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at AZUL Oita, Kyushu on Fri, 13 Nov 2026.
 
 DJ Nobu is a techno and house artist based in Japan, with 257 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 72 more. Often billed alongside Wata Igarashi, DVS1 and Gabrielle Kwarteng. Next up: AZUL Oita, Kyushu on Fri 13 Nov.
 
@@ -33,4 +33,4 @@ DJ Nobu is a techno and house artist based in Japan, with 257 gigs on soundcheck
 
 Wata Igarashi, DVS1, Gabrielle Kwarteng
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djnobu/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djnobu/)*

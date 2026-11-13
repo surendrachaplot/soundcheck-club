@@ -1,6 +1,6 @@
 # Boris & Davy
 
-Boris & Davy is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Legal, Munich on Sat, 28 Nov 2026.
+Boris & Davy is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Legal, Munich on Sat, 28 Nov 2026.
 
 Boris & Davy are a house and tech house duo based in Germany, with 7 gigs on soundcheck across Berlin, Leipzig, Munich and Vienna. Often billed alongside Lulu & Nell, jewelry and 50PHIE. Next up: Legal, Munich on Sat 28 Nov.
 
@@ -23,4 +23,4 @@ Boris & Davy are a house and tech house duo based in Germany, with 7 gigs on sou
 
 Lulu & Nell, jewelry, 50PHIE
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/borisanddavy/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/borisanddavy/)*

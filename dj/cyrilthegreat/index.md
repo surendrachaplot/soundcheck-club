@@ -1,15 +1,14 @@
 # Cyril The Great
 
-Cyril The Great is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 13 Nov 2026.
+Cyril The Great is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 13 Nov 2026.
 
-Cyril The Great is a house and electro artist based in Spain, with 12 gigs on soundcheck across Barcelona. Often billed alongside Alexey Orlov, Anton Kuznetsov and Matteo Floris. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri 13 Nov.
+Cyril The Great is a house and minimal artist based in Spain, with 11 gigs on soundcheck across Barcelona. Often billed alongside Alexey Orlov, Anton Kuznetsov and Matteo Floris. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona | Barcelona |
-| Sat, 5 Dec 2026 | TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona | Barcelona |
 
 ## Recently played
 
@@ -26,4 +25,4 @@ Cyril The Great is a house and electro artist based in Spain, with 12 gigs on so
 
 Alexey Orlov, Anton Kuznetsov, Matteo Floris
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cyrilthegreat/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cyrilthegreat/)*

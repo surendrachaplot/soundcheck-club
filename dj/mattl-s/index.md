@@ -1,6 +1,6 @@
 # Matt L-S
 
-Matt L-S is a Deep House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Timber Loft, London on Sat, 5 Dec 2026.
+Matt L-S is a Deep House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Timber Loft, London on Sat, 5 Dec 2026.
 
 Matt L-S is a deep house and disco artist based in United Kingdom, with 55 gigs on soundcheck across London and Paris. Often billed alongside Jamesey, Davide Del Vecchio and Kojay. Next up: The Timber Loft, London on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Matt L-S is a deep house and disco artist based in United Kingdom, with 55 gigs 
 
 Jamesey, Davide Del Vecchio, Kojay
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mattl-s/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mattl-s/)*

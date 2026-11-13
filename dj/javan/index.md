@@ -1,6 +1,6 @@
 # Javan
 
-Javan is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Soup, Manchester on Sat, 28 Nov 2026.
+Javan is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Soup, Manchester on Sat, 28 Nov 2026.
 
 Javan is a house and deep house artist based in United Kingdom, with 28 gigs on soundcheck across Cape Town, Malaga, Manchester and Singapore. Often billed alongside Tomi From Brockley, Henk and kayja vu. Next up: Soup, Manchester on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Javan is a house and deep house artist based in United Kingdom, with 28 gigs on 
 
 Tomi From Brockley, Henk, kayja vu
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/javan/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/javan/)*

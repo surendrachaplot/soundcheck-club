@@ -1,6 +1,6 @@
 # Ferias x Turbo: DNA at Stereo
 
-Ferias x Turbo: DNA at Stereo on Sat 5 Dec, Montreal. 22 artists: Alina (MTL), CUERPOS, Dijipoune and Dizzy Play and 18 more. See the line-up on soundcheck.
+Ferias x Turbo: DNA at Stereo on Sat 5 Dec, Montreal. 23 artists: Alina (MTL), CUERPOS, Dijipoune and Dizzy Play and 19 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -18,6 +18,7 @@ Ferias x Turbo: DNA at Stereo on Sat 5 Dec, Montreal. 22 artists: Alina (MTL), C
 - DJ Spence
 - Èbony
 - Excalibur
+- Ferias
 - Field Note
 - Galcher Lustwerk
 - Gene Tellem

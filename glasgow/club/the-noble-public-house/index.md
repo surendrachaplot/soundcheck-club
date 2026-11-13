@@ -1,6 +1,6 @@
 # The Noble Public House
 
-The Noble Public House is a music venue in Glasgow with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "A Noble Night Of Jazz with Steve Clark" on Sun, 15 Nov 2026.
+The Noble Public House is a music venue in Glasgow with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "A Noble Night Of Jazz with Steve Clark" on Sun, 15 Nov 2026.
 
 The Noble Public House is a music venue in Glasgow listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ The Noble Public House is a music venue in Glasgow listed on soundcheck. 1 upcom
 | --- | --- | --- |
 | Sun, 15 Nov 2026 | A Noble Night Of Jazz with Steve Clark |  |
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-noble-public-house/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-noble-public-house/)*

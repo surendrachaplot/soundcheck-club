@@ -1,14 +1,15 @@
 # YULIA (US)
 
-YULIA (US) is a Techno and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - The Loov 72 Joy St, Somerville, MA 02143, Boston on Fri, 13 Nov 2026.
+YULIA (US) is a Techno and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - The Loov 72 Joy St, Somerville, MA 02143, Boston on Fri, 13 Nov 2026.
 
-YULIA (US) is a techno and hip-hop artist based in United States of America, with 9 gigs on soundcheck across Boston, Frankfurt and Paris. Often billed alongside BRATATTACK, dystecha and A.D.H.S.. Next up: TBA - The Loov 72 Joy St, Somerville, MA 02143, Boston on Fri 13 Nov.
+YULIA (US) is a techno and hip-hop artist based in United States of America, with 10 gigs on soundcheck across Boston, Frankfurt and Paris. Often billed alongside BRATATTACK, dystecha and A.D.H.S.. Next up: TBA - The Loov 72 Joy St, Somerville, MA 02143, Boston on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | TBA - The Loov 72 Joy St, Somerville, MA 02143 | Boston |
+| Fri, 4 Dec 2026 | TBA - Call Infoline for Secret Location | Boston |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ YULIA (US) is a techno and hip-hop artist based in United States of America, wit
 
 BRATATTACK, dystecha, A.D.H.S.
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yulia-3/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yulia-3/)*

@@ -1,6 +1,6 @@
 # Sharkey (1)
 
-Sharkey (1) is a Hardcore and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Beaver Works, Leeds on Sat, 14 Nov 2026.
+Sharkey (1) is a Hardcore and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Beaver Works, Leeds on Sat, 14 Nov 2026.
 
 Sharkey is a hardcore and trance artist based in United Kingdom, with 11 gigs on soundcheck across Berlin, Glasgow, Leeds and London and 3 more. Often billed alongside Dougal, Scott Brown and Hixxy. Next up: Beaver Works, Leeds on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Sharkey is a hardcore and trance artist based in United Kingdom, with 11 gigs on
 
 Dougal, Scott Brown, Hixxy
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sharkey-1/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sharkey-1/)*

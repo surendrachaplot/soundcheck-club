@@ -1,6 +1,6 @@
 # Teatar 78
 
-Teatar 78 is a music venue in Belgrade with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "Xiu Xiu" on Fri, 29 Jan 2027.
+Teatar 78 is a music venue in Belgrade with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "Xiu Xiu" on Fri, 29 Jan 2027.
 
 Teatar 78 is a music venue in Belgrade listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 78 Resavska, Belgrade, 11000, Serbia.
 
@@ -14,4 +14,4 @@ Teatar 78 is a music venue in Belgrade listed on soundcheck. 1 upcoming gig. See
 
 78 Resavska, Belgrade, 11000, Serbia, Belgrade
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/teatar-78/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/teatar-78/)*

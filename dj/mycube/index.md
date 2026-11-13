@@ -1,6 +1,6 @@
 # MyCube
 
-MyCube is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Deep End, New York City on Fri, 27 Nov 2026.
+MyCube is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Deep End, New York City on Fri, 27 Nov 2026.
 
 MyCube is a techno and trance artist based in El Salvador, with 8 gigs on soundcheck across New York City. Often billed alongside Nikitaurech, Nöel Black and STEEN. Next up: The Deep End, New York City on Fri 27 Nov.
 
@@ -24,4 +24,4 @@ MyCube is a techno and trance artist based in El Salvador, with 8 gigs on soundc
 
 Nikitaurech, Nöel Black, STEEN
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mycube/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mycube/)*

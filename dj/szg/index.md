@@ -1,6 +1,6 @@
 # SZG
 
-SZG is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Palacete, Sao Paulo on Fri, 13 Nov 2026.
+SZG is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Palacete, Sao Paulo on Fri, 13 Nov 2026.
 
 SZG is a techno and trance artist based in Germany, with 133 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 30 more. Often billed alongside Arman John, DJ GUESTLIST and Cara Elizabeth. Next up: Palacete, Sao Paulo on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ SZG is a techno and trance artist based in Germany, with 133 gigs on soundcheck 
 
 Arman John, DJ GUESTLIST, Cara Elizabeth
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/szg/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/szg/)*

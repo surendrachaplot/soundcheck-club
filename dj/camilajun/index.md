@@ -1,6 +1,6 @@
 # Camila Jun
 
-Camila Jun is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Museu do Amanhã, Rio de Janeiro on Sun, 3 Jan 2027.
+Camila Jun is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Museu do Amanhã, Rio de Janeiro on Sun, 3 Jan 2027.
 
 Camila Jun is a house and tech house artist based in Brazil, with 16 gigs on soundcheck across Amsterdam, Buenos Aires, Ibiza and Porto and 2 more. Often billed alongside Marco Carola, Coppola and Mochakk. Next up: Museu do Amanhã, Rio de Janeiro on Sun 3 Jan.
 
@@ -25,4 +25,4 @@ Camila Jun is a house and tech house artist based in Brazil, with 16 gigs on sou
 
 Marco Carola, Coppola, Mochakk
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/camilajun/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/camilajun/)*

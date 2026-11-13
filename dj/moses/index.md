@@ -1,6 +1,6 @@
 # Moses
 
-Moses is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - 1801 POWELL, Vancouver on Sat, 14 Nov 2026.
+Moses is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - 1801 POWELL, Vancouver on Sat, 14 Nov 2026.
 
 Moses is a house and techno artist based in Portugal, with 42 gigs on soundcheck across Amsterdam, Berlin, Buenos Aires and Detroit and 16 more. Often billed alongside Konstantin, Mira and Nuno Carneiro. Next up: TBA - 1801 POWELL, Vancouver on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Moses is a house and techno artist based in Portugal, with 42 gigs on soundcheck
 
 Konstantin, Mira, Nuno Carneiro
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moses/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moses/)*

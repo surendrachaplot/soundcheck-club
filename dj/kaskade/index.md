@@ -1,6 +1,6 @@
 # Kaskade
 
-Kaskade is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Concourse Project, Austin on Fri, 20 Nov 2026.
+Kaskade is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Concourse Project, Austin on Fri, 20 Nov 2026.
 
 Kaskade is a house and bass artist based in United States of America, with 61 gigs on soundcheck across Amsterdam, Atlanta, Austin and Chicago and 15 more. Often billed alongside Green Velvet, Eli Brown and Cassian. Next up: The Concourse Project, Austin on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Kaskade is a house and bass artist based in United States of America, with 61 gi
 
 Green Velvet, Eli Brown, Cassian
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaskade/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaskade/)*

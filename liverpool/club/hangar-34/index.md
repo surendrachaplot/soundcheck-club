@@ -1,6 +1,6 @@
 # Hangar 34
 
-Hangar 34 is a music venue in Liverpool with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "DVOID: Lekkerfaces & More" on Fri, 13 Nov 2026.
+Hangar 34 is a music venue in Liverpool with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "DVOID: Lekkerfaces & More" on Fri, 13 Nov 2026.
 
 Hangar 34 is a music venue in Liverpool listed on soundcheck. 1 upcoming gig, with line-ups including Lekkerfaces. See dates, start times and who's playing. 34 Greenland St, Liverpool L1 0BS, United Kingdom.
 
@@ -14,4 +14,4 @@ Hangar 34 is a music venue in Liverpool listed on soundcheck. 1 upcoming gig, wi
 
 34 Greenland St, Liverpool L1 0BS, United Kingdom, Liverpool
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/hangar-34/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/hangar-34/)*

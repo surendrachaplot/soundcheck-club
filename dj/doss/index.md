@@ -1,20 +1,20 @@
 # Doss
 
-Doss is a Club and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Paragon, New York City on Thu, 12 Nov 2026.
+Doss is a Club and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Kingdom Nightclub, Austin on Sat, 14 Nov 2026.
 
-Doss is a club and techno artist based in United States of America, with 62 gigs on soundcheck across Athens, Atlanta, Austin and Berlin and 21 more. Often billed alongside CFCF, Ninajirachi and Yves Tumor. Next up: Paragon, New York City on Thu 12 Nov.
+Doss is a club and techno artist based in United States of America, with 62 gigs on soundcheck across Athens, Atlanta, Austin and Berlin and 21 more. Often billed alongside CFCF, Ninajirachi and Yves Tumor. Next up: Kingdom Nightclub, Austin on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 12 Nov 2026 | Paragon | New York City |
 | Sat, 14 Nov 2026 | Kingdom Nightclub | Austin |
 | Sat, 28 Nov 2026 | Pier 48's Shed A | San Francisco/Oakland |
 | Thu, 10 Dec 2026 | Paragon | New York City |
 
 ## Recently played
 
+- Paragon, New York City · Thu, 12 Nov 2026
 - Fortune Sound Club, Vancouver · Sat, 7 Nov 2026
 - Kremwerk-Timbre Room-Cherry Complex, Seattle · Fri, 6 Nov 2026
 - Paragon, New York City · Thu, 8 Oct 2026
@@ -22,10 +22,9 @@ Doss is a club and techno artist based in United States of America, with 62 gigs
 - The Bentway, Toronto · Sat, 15 Aug 2026
 - Paragon, New York City · Thu, 13 Aug 2026
 - Colour Factory, London · Sat, 25 Jul 2026
-- Pisces, Atlanta · Fri, 10 Jul 2026
 
 ## Shares bills with
 
 CFCF, Ninajirachi, Yves Tumor
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doss/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doss/)*

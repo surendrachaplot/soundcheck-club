@@ -1,6 +1,6 @@
 # YUKI (JP)
 
-YUKI (JP) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Apotheka, Manila on Wed, 11 Nov 2026.
+YUKI (JP) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Apotheka, Manila on Wed, 11 Nov 2026.
 
 YUKI (JP) is a techno and house artist based in Japan, with 48 gigs on soundcheck across Copenhagen, Manila, Osaka and Shanghai and 1 more. Often billed alongside SIGNAL (JP), Amu and DJ B2B. Next up: Apotheka, Manila on Wed 11 Nov.
 
@@ -26,4 +26,4 @@ YUKI (JP) is a techno and house artist based in Japan, with 48 gigs on soundchec
 
 SIGNAL (JP), Amu (1), DJ B2B
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yuki/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yuki/)*

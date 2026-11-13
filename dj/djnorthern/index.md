@@ -1,14 +1,15 @@
 # DJ NORTHERN
 
-DJ NORTHERN is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Atelier Rooftop, Berlin on Sat, 28 Nov 2026.
+DJ NORTHERN is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Atelier Rooftop, Berlin on Sat, 28 Nov 2026.
 
-DJ NORTHERN is a house and techno artist, with 96 gigs on soundcheck across Berlin, Dresden, Hamburg and Krakow and 7 more. Often billed alongside Sparkling Water Dreams, KENZA and Npoint_O. Next up: Atelier Rooftop, Berlin on Sat 28 Nov.
+DJ NORTHERN is a house and techno artist, with 97 gigs on soundcheck across Berlin, Dresden, Hamburg and Krakow and 7 more. Often billed alongside Sparkling Water Dreams, KENZA and Npoint_O. Next up: Atelier Rooftop, Berlin on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Atelier Rooftop | Berlin |
+| Fri, 1 Jan 2027 | KREUZWERK | Berlin |
 | Thu, 22 Jul 2027 | Great Fulford | West-wales |
 
 ## Recently played
@@ -26,4 +27,4 @@ DJ NORTHERN is a house and techno artist, with 96 gigs on soundcheck across Berl
 
 Sparkling Water Dreams, KENZA, Npoint_O
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djnorthern/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djnorthern/)*

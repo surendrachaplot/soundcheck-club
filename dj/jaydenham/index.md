@@ -1,6 +1,6 @@
 # Jay Denham
 
-Jay Denham is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Nowadays, New York City on Sat, 19 Dec 2026.
+Jay Denham is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Nowadays, New York City on Sat, 19 Dec 2026.
 
 Jay Denham is a techno and electro artist based in United States of America, with 10 gigs on soundcheck across Detroit, New York City and San Francisco/Oakland. Often billed alongside BMG, Bileebob and Claude Young. Next up: Nowadays, New York City on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Jay Denham is a techno and electro artist based in United States of America, wit
 
 BMG, Bileebob, Claude Young
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaydenham/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaydenham/)*

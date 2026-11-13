@@ -1,6 +1,6 @@
 # wAFF
 
-wAFF is a Tech House and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Cabaret Voltaire, Edinburgh on Fri, 13 Nov 2026.
+wAFF is a Tech House and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Cabaret Voltaire, Edinburgh on Fri, 13 Nov 2026.
 
 wAFF is a tech house and house artist based in United Kingdom, with 144 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belgrade and 40 more. Often billed alongside Jamie Jones, Max Dean and Richy Ahmed. Next up: Cabaret Voltaire, Edinburgh on Fri 13 Nov.
 
@@ -31,4 +31,4 @@ wAFF is a tech house and house artist based in United Kingdom, with 144 gigs on 
 
 Jamie Jones, Max Dean, Richy Ahmed
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/waff/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/waff/)*

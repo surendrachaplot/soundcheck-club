@@ -1,6 +1,6 @@
 # Scruffs
 
-Scruffs is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Seymour Centre, Sydney on Sat, 28 Nov 2026.
+Scruffs is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Seymour Centre, Sydney on Sat, 28 Nov 2026.
 
 Scruffs is a house and club artist based in Australia, with 16 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Ciara, Farnozz and Setwun. Next up: Seymour Centre, Sydney on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Scruffs is a house and club artist based in Australia, with 16 gigs on soundchec
 
 Ciara, Farnozz, Setwun
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scruffs/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scruffs/)*

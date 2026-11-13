@@ -1,8 +1,8 @@
 # Makoto
 
-Makoto is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Planet Wax, London on Sat, 14 Nov 2026.
+Makoto is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Planet Wax, London on Sat, 14 Nov 2026.
 
-Makoto is a drum & bass and jungle artist based in Japan, with 99 gigs on soundcheck across Amsterdam, Auckland, Austin and Belgrade and 38 more. Often billed alongside London Elektricity, DJ Marky and Fred V. Next up: Planet Wax, London on Sat 14 Nov.
+Makoto is a drum & bass and jungle artist based in Japan, with 100 gigs on soundcheck across Amsterdam, Auckland, Austin and Belgrade and 38 more. Often billed alongside London Elektricity, DJ Marky and Fred V. Next up: Planet Wax, London on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Makoto is a drum & bass and jungle artist based in Japan, with 99 gigs on soundc
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Planet Wax | London |
 | Sun, 15 Nov 2026 | ZUBAR | Tokyo |
+| Sat, 5 Dec 2026 | KOKO | London |
 | Sun, 27 Dec 2026 | Klokgebouw | Eindhoven |
 
 ## Recently played
@@ -27,4 +28,4 @@ Makoto is a drum & bass and jungle artist based in Japan, with 99 gigs on soundc
 
 London Elektricity, DJ Marky, Fred V
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/makoto/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/makoto/)*

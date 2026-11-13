@@ -1,6 +1,6 @@
 # Kruder & Dorfmeister
 
-Kruder & Dorfmeister is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Tofte Manor, London on Sun, 4 Jul 2027.
+Kruder & Dorfmeister is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Tofte Manor, London on Sun, 4 Jul 2027.
 
 Kruder & Dorfmeister are an electronica and house duo based in Austria, with 35 gigs on soundcheck across Amsterdam, Athens, Basel and Berlin and 19 more. Often billed alongside Carl Craig, Bonobo and Cinthie. Next up: Tofte Manor, London on Sun 4 Jul.
 
@@ -25,4 +25,4 @@ Kruder & Dorfmeister are an electronica and house duo based in Austria, with 35 
 
 Carl Craig, Bonobo, Cinthie
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kruder-dorfmeister/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kruder-dorfmeister/)*

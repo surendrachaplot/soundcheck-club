@@ -1,8 +1,8 @@
 # Dubfire
 
-Dubfire is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
+Dubfire is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
 
-Dubfire is a techno and house artist based in United States of America, with 176 gigs on soundcheck across Adelaide, Amsterdam, Athens and Atlanta and 62 more. Often billed alongside Anfisa Letyago, Joseph Capriati and Deep Dish. Next up: Hungexpo Budapest, Budapest on Fri 13 Nov.
+Dubfire is a techno and house artist based in United States of America, with 178 gigs on soundcheck across Adelaide, Amsterdam, Athens and Atlanta and 63 more. Often billed alongside Anfisa Letyago, Joseph Capriati and Deep Dish. Next up: Hungexpo Budapest, Budapest on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -10,8 +10,10 @@ Dubfire is a techno and house artist based in United States of America, with 176
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Hungexpo Budapest | Budapest |
 | Fri, 11 Dec 2026 | Universe Athens | Athens |
+| Fri, 25 Dec 2026 | WOMB | Tokyo |
 | Thu, 7 Jan 2027 | TBA | Puerto-rico |
 | Fri, 5 Feb 2027 | Halcyon | San Francisco/Oakland |
+| Sat, 6 Feb 2027 | Village Studios | Vancouver |
 
 ## Recently played
 
@@ -28,4 +30,4 @@ Dubfire is a techno and house artist based in United States of America, with 176
 
 Anfisa Letyago, Joseph Capriati, Deep Dish
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dubfire/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dubfire/)*

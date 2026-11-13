@@ -1,6 +1,6 @@
 # Reece Pritchard
 
-Reece Pritchard is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Tresor / Globus, Berlin on Mon, 28 Dec 2026.
+Reece Pritchard is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Tresor / Globus, Berlin on Mon, 28 Dec 2026.
 
 Reece Pritchard is a techno and house artist based in United Kingdom, with 13 gigs on soundcheck across Berlin, Edinburgh, Glasgow and London and 1 more. Often billed alongside Richie Hawtin, Frazi.er and Kristin Velvet. Next up: Tresor / Globus, Berlin on Mon 28 Dec.
 
@@ -26,4 +26,4 @@ Reece Pritchard is a techno and house artist based in United Kingdom, with 13 gi
 
 Richie Hawtin, Frazi.er, Kristin Velvet
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reecepritchard/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reecepritchard/)*

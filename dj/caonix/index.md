@@ -1,6 +1,6 @@
 # caonix
 
-caonix is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The DBA, Manchester on Sat, 21 Nov 2026.
+caonix is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The DBA, Manchester on Sat, 21 Nov 2026.
 
 caonix is a techno and house artist based in United Kingdom, with 21 gigs on soundcheck across Glasgow and Manchester. Often billed alongside Girlfriend, INLIMEN and Kabel. Next up: The DBA, Manchester on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ caonix is a techno and house artist based in United Kingdom, with 21 gigs on sou
 
 Girlfriend, INLIMEN, Kabel
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caonix/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caonix/)*

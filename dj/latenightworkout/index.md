@@ -1,6 +1,6 @@
 # Late Night Workout
 
-Late Night Workout is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Ciało, Wroclaw on Fri, 13 Nov 2026.
+Late Night Workout is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Ciało, Wroclaw on Fri, 13 Nov 2026.
 
 Late Night Workout is a house and progressive house artist based in Poland, with 14 gigs on soundcheck across Berlin, Vienna, Warsaw and Wroclaw. Often billed alongside Glassz, Hedonist and Juru. Next up: Ciało, Wroclaw on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Late Night Workout is a house and progressive house artist based in Poland, with
 
 Glassz, Hedonist, Juru
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/latenightworkout/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/latenightworkout/)*

@@ -1,6 +1,6 @@
-# Summerhouse NYE - Our House at Club Langley
+# SUMMERHOUSE NYE @ OUR HOUSE at Club Langley
 
-Summerhouse NYE - Our House at Club Langley on Thu 31 Dec, London. House and Tech House. See the line-up on soundcheck.
+SUMMERHOUSE NYE @ OUR HOUSE at Club Langley on Thu 31 Dec, London. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

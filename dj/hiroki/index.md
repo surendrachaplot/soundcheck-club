@@ -1,6 +1,6 @@
 # Hiroki
 
-Hiroki is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Jama, Toronto on Fri, 27 Nov 2026.
+Hiroki is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Jama, Toronto on Fri, 27 Nov 2026.
 
 Hiroki is a techno and house artist based in Canada, with 26 gigs on soundcheck across Montreal, Tokyo and Toronto. Often billed alongside florasystem, dj miss and Jaw Jones. Next up: The Jama, Toronto on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Hiroki is a techno and house artist based in Canada, with 26 gigs on soundcheck 
 
 florasystem, dj miss, Jaw Jones
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hiroki/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hiroki/)*

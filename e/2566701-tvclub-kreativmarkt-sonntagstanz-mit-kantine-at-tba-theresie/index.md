@@ -1,6 +1,6 @@
 # TvClub Kreativmarkt & Sonntagstanz mit Kantine at TBA - Theresienstraße 2
 
-TvClub Kreativmarkt & Sonntagstanz mit Kantine at TBA - Theresienstraße 2 on Sun 6 Dec, Leipzig. 2 artists: OutWithJane and Thyrie. House and Italo Disco. See the line-up on soundcheck.
+TvClub Kreativmarkt & Sonntagstanz mit Kantine at TBA - Theresienstraße 2 on Sun 6 Dec, Leipzig. 3 artists: Larry Love, OutWithJane and Thyrie. House and Italo Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ TvClub Kreativmarkt & Sonntagstanz mit Kantine at TBA - Theresienstraße 2 on Su
 
 ## Line-up
 
+- Larry Love
 - OutWithJane
 - Thyrie
 

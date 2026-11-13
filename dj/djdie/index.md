@@ -1,14 +1,15 @@
 # DJ Die
 
-DJ Die is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Clock Factory, Bristol on Sat, 14 Nov 2026.
+DJ Die is a Jungle and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Clock Factory, Bristol on Sat, 14 Nov 2026.
 
-DJ Die is a jungle and drum & bass artist based in United Kingdom, with 35 gigs on soundcheck across Bristol, London, Manchester and Tokyo. Often billed alongside Bryan Gee, Krust and Chimpo. Next up: The Clock Factory, Bristol on Sat 14 Nov.
+DJ Die is a jungle and drum & bass artist based in United Kingdom, with 36 gigs on soundcheck across Bristol, London, Manchester and Tokyo. Often billed alongside Bryan Gee, Krust and Chimpo. Next up: The Clock Factory, Bristol on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | The Clock Factory | Bristol |
+| Sat, 5 Dec 2026 | KOKO | London |
 | Wed, 16 Dec 2026 | Dahlia Stereo | Manchester |
 
 ## Recently played
@@ -26,4 +27,4 @@ DJ Die is a jungle and drum & bass artist based in United Kingdom, with 35 gigs 
 
 Bryan Gee, Krust, Chimpo
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdie/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdie/)*

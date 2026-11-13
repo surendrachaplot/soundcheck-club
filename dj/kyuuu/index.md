@@ -1,6 +1,6 @@
 # kyuuu
 
-kyuuu is a Hip-Hop and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at club asia, Tokyo on Wed, 18 Nov 2026.
+kyuuu is a Hip-Hop and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at club asia, Tokyo on Wed, 18 Nov 2026.
 
 kyuuu is a hip-hop and bass artist based in Japan, with 41 gigs on soundcheck across Tokyo. Often billed alongside FUJI TRILL, misa nakamura and Jellyf!sh. Next up: club asia, Tokyo on Wed 18 Nov.
 
@@ -26,4 +26,4 @@ kyuuu is a hip-hop and bass artist based in Japan, with 41 gigs on soundcheck ac
 
 FUJI TRILL, misa nakamura, Jellyf!sh
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kyuuu/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kyuuu/)*

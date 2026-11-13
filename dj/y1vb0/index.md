@@ -1,6 +1,6 @@
 # Y1VB0
 
-Y1VB0 is a Afrobeats and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Bolero, Seoul on Thu, 19 Nov 2026.
+Y1VB0 is a Afrobeats and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Bolero, Seoul on Thu, 19 Nov 2026.
 
 Y1VB0 is an afrobeats and baile funk artist based in South Korea, with 19 gigs on soundcheck across Bangkok, Hong Kong and Seoul. Often billed alongside Zion, Xena (KR) and badassgatsby. Next up: Bolero, Seoul on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Y1VB0 is an afrobeats and baile funk artist based in South Korea, with 19 gigs o
 
 Zion, Xena (KR), badassgatsby
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/y1vb0/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/y1vb0/)*

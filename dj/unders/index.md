@@ -1,6 +1,6 @@
 # unders
 
-unders is a Deep House and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at BASE Milano, Milan on Fri, 27 Nov 2026.
+unders is a Deep House and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at BASE Milano, Milan on Fri, 27 Nov 2026.
 
 unders is a deep house and house artist based in Netherlands, with 70 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 17 more. Often billed alongside Igor Marijuan, Omer Tayar and Words of Niō. Next up: BASE Milano, Milan on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ unders is a deep house and house artist based in Netherlands, with 70 gigs on so
 
 Igor Marijuan, Omer Tayar, Words of Niō
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/unders/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/unders/)*

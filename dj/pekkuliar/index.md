@@ -1,17 +1,18 @@
 # pekkuliar
 
-pekkuliar is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at 303 Audiophile Bar, Barcelona on Thu, 12 Nov 2026.
+pekkuliar is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 20 Nov 2026.
 
-pekkuliar is a house and acid artist based in Spain, with 56 gigs on soundcheck across Barcelona, Berlin, Lisbon and London and 1 more. Often billed alongside CMYK, Adria (ES) and Heather (ES). Next up: 303 Audiophile Bar, Barcelona on Thu 12 Nov.
+pekkuliar is a house and electro artist based in Spain, with 57 gigs on soundcheck across Barcelona, Berlin, Lisbon and London and 1 more. Often billed alongside CMYK, Adria (ES) and Heather (ES). Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 12 Nov 2026 | 303 Audiophile Bar | Barcelona |
+| Fri, 20 Nov 2026 | TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona | Barcelona |
 
 ## Recently played
 
+- 303 Audiophile Bar, Barcelona · Thu, 12 Nov 2026
 - 303 Audiophile Bar, Barcelona · Fri, 6 Nov 2026
 - 303 Audiophile Bar, Barcelona · Fri, 9 Oct 2026
 - TBA - Backstage Bar, Barcelona · Thu, 10 Sept 2026
@@ -19,10 +20,9 @@ pekkuliar is a house and acid artist based in Spain, with 56 gigs on soundcheck 
 - TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona · Fri, 7 Aug 2026
 - Almar Beach Club, Barcelona · Sat, 25 Jul 2026
 - TBA - Alt Penedès, Barcelona · Fri, 12 Jun 2026
-- Sunseabar Beach Club, Barcelona · Sun, 10 May 2026
 
 ## Shares bills with
 
 CMYK, Adria (ES), Heather (ES)
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pekkuliar/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pekkuliar/)*

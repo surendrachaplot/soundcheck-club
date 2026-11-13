@@ -1,6 +1,6 @@
 # K-65
 
-K-65 is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Cross Club, Prague on Fri, 13 Nov 2026.
+K-65 is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Cross Club, Prague on Fri, 13 Nov 2026.
 
 K-65 is a techno and breakbeat artist based in United Kingdom, with 27 gigs on soundcheck across Barcelona, Berlin, Bologna and Bristol and 10 more. Often billed alongside Mani Festo, Yours Truly and DANTE (CA). Next up: Cross Club, Prague on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ K-65 is a techno and breakbeat artist based in United Kingdom, with 27 gigs on s
 
 Mani Festo, Yours Truly (2), DANTE (CA)
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/k-65/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/k-65/)*

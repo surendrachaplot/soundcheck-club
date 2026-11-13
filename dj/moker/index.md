@@ -1,6 +1,6 @@
 # MOKER
 
-MOKER is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Decadance, Ghent on Fri, 11 Dec 2026.
+MOKER is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Decadance, Ghent on Fri, 11 Dec 2026.
 
 MOKER is a techno and trance artist based in Belgium, with 40 gigs on soundcheck across Amsterdam, Antwerp, Brussels and Ghent. Often billed alongside Miamor, Skeletor Yogi and Lena De Roose. Next up: Decadance, Ghent on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ MOKER is a techno and trance artist based in Belgium, with 40 gigs on soundcheck
 
 Miamor, Skeletor Yogi, Lena De Roose
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moker/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moker/)*

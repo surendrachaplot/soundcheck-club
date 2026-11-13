@@ -1,6 +1,6 @@
 # IRONBOARD
 
-IRONBOARD is a Techno and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Japan Monterrey, Mexico City on Thu, 19 Nov 2026.
+IRONBOARD is a Techno and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Japan Monterrey, Mexico City on Thu, 19 Nov 2026.
 
 IRONBOARD is a techno and reggaeton artist based in Italy, with 77 gigs on soundcheck across Copenhagen, Mexico City, Milan and Monterrey and 1 more. Often billed alongside kopo, Enya Botello and Hot Hudson. Next up: Japan Monterrey, Mexico City on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ IRONBOARD is a techno and reggaeton artist based in Italy, with 77 gigs on sound
 
 kopo, Enya Botello, Hot Hudson
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ironboard/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ironboard/)*

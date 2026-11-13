@@ -1,6 +1,6 @@
 # Sin Sonik
 
-Sin Sonik is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Sensorium, Berlin on Wed, 25 Nov 2026.
+Sin Sonik is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Sensorium, Berlin on Wed, 25 Nov 2026.
 
 Sin Sonik is a techno and tech house artist based in Germany, with 3 gigs on soundcheck across Berlin. Often billed alongside Johnny Allwess, Algerics and Cat Vermillion. Next up: Sensorium, Berlin on Wed 25 Nov.
 
@@ -19,4 +19,4 @@ Sin Sonik is a techno and tech house artist based in Germany, with 3 gigs on sou
 
 Johnny Allwess, Algerics, Cat Vermillion
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sinsonik/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sinsonik/)*

@@ -1,6 +1,6 @@
 # Dima Roas
 
-Dima Roas is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at KALT, Strasbourg on Sat, 28 Nov 2026.
+Dima Roas is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at KALT, Strasbourg on Sat, 28 Nov 2026.
 
 Dima Roas is a techno and house artist based in France, with 41 gigs on soundcheck across Berlin, Montreal, Paris and Strasbourg. Often billed alongside STU (FR), Roan and Chill (FR). Next up: KALT, Strasbourg on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Dima Roas is a techno and house artist based in France, with 41 gigs on soundche
 
 STU (FR), Roan, Chill (FR)
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dimaroas/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dimaroas/)*

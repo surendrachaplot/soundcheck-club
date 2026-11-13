@@ -1,6 +1,6 @@
 # Thirsty Thursdays with Sexy B*tch : Sexy B*tchmas at The Carpet Shop
 
-Thirsty Thursdays with Sexy B*tch : Sexy B*tchmas at The Carpet Shop on Thu 10 Dec, London. See the line-up on soundcheck.
+Thirsty Thursdays with Sexy B*tch : Sexy B*tchmas at The Carpet Shop on Thu 10 Dec, London. Bass and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

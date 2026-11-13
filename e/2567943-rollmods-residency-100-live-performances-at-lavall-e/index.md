@@ -1,6 +1,6 @@
 # RollMods Residency ' - 100% Live performances at Lavallée
 
-RollMods Residency ' - 100% Live performances at Lavallée on Thu 19 Nov, Brussels. 3 artists: Aria Marzen, Basic Feelings and Torc. Techno. See the line-up on soundcheck.
+RollMods Residency ' - 100% Live performances at Lavallée on Thu 19 Nov, Brussels. 4 artists: Aria Marzen, Basic Feelings, MNPL and Torc. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ RollMods Residency ' - 100% Live performances at Lavallée on Thu 19 Nov, Brusse
 
 - Aria Marzen
 - Basic Feelings (2)
+- MNPL
 - Torc
 
 *Source: [soundcheck](https://soundcheck.club/e/2567943-rollmods-residency-100-live-performances-at-lavall-e/)*

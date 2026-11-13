@@ -1,6 +1,6 @@
 # Caren Callas
 
-Caren Callas is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at DNA. CLUB, Berlin on Sat, 21 Nov 2026.
+Caren Callas is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at DNA. CLUB, Berlin on Sat, 21 Nov 2026.
 
 Caren Callas is a house and techno artist, with 84 gigs on soundcheck across Berlin, Cologne, Dresden and Frankfurt and 8 more. Often billed alongside babxi, Naicet and Camea. Next up: DNA. CLUB, Berlin on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Caren Callas is a house and techno artist, with 84 gigs on soundcheck across Ber
 
 babxi, Naicet, Camea
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carencallas/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carencallas/)*

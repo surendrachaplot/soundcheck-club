@@ -1,6 +1,6 @@
 # M41RH
 
-M41RH is a Techno and Dub artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Club Exil, Vienna on Fri, 20 Nov 2026.
+M41RH is a Techno and Dub artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Club Exil, Vienna on Fri, 20 Nov 2026.
 
 M41RH is a techno and dub artist based in Austria, with 19 gigs on soundcheck across Vienna. Often billed alongside Ridgie, Dcascallana and PAUNA. Next up: Club Exil, Vienna on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ M41RH is a techno and dub artist based in Austria, with 19 gigs on soundcheck ac
 
 Ridgie, Dcascallana, PAUNA
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/m41rh/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/m41rh/)*

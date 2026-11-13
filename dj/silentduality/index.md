@@ -1,14 +1,15 @@
 # Silent Duality
 
-Silent Duality is a Minimal and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Lunchbox, Atlanta on Sat, 21 Nov 2026.
+Silent Duality is a Minimal and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Lunchbox, Atlanta on Sat, 21 Nov 2026.
 
-Silent Duality is a minimal and deep house artist based in United States of America, with 19 gigs on soundcheck across Atlanta, Miami and New York City. Often billed alongside Akarsh, Bobi Stevkovski and Miguel Gallardo. Next up: Lunchbox, Atlanta on Sat 21 Nov.
+Silent Duality is a minimal and deep house artist based in United States of America, with 20 gigs on soundcheck across Atlanta, Miami and New York City. Often billed alongside Akarsh, Bobi Stevkovski and Miguel Gallardo. Next up: Lunchbox, Atlanta on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Lunchbox | Atlanta |
+| Fri, 18 Dec 2026 | TBA - 333 | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Silent Duality is a minimal and deep house artist based in United States of Amer
 
 Akarsh, Bobi Stevkovski, Miguel Gallardo
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/silentduality/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/silentduality/)*

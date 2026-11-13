@@ -1,6 +1,6 @@
 # Paulete Lindacelva
 
-Paulete Lindacelva is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Village Canindé, Sao Paulo on Sat, 14 Nov 2026.
+Paulete Lindacelva is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Village Canindé, Sao Paulo on Sat, 14 Nov 2026.
 
 Paulete Lindacelva is a house and disco artist based in Brazil, with 110 gigs on soundcheck across Amsterdam, Berlin, Brazil and Buenos Aires and 10 more. Often billed alongside Cashu, BADSISTA and From House to Disco. Next up: Village Canindé, Sao Paulo on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Paulete Lindacelva is a house and disco artist based in Brazil, with 110 gigs on
 
 Cashu, BADSISTA, From House to Disco
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pauletelindacelva/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pauletelindacelva/)*

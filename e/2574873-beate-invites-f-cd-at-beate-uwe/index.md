@@ -1,6 +1,6 @@
 # Beate Invites /// F*CD at Beate Uwe
 
-Beate Invites /// F*CD at Beate Uwe on Sat 5 Dec, Berlin. 5 artists: capitano (she/her), housekatze, myzelia and Pilar Jordan and 1 more. Techno and House. See the line-up on soundcheck.
+Beate Invites /// F*CD at Beate Uwe on Sat 5 Dec, Berlin. 7 artists: capitano (she/her), Frau Hofmann, housekatze and myzelia and 3 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,9 +11,11 @@ Beate Invites /// F*CD at Beate Uwe on Sat 5 Dec, Berlin. 5 artists: capitano (s
 ## Line-up
 
 - capitano (she/her)
+- Frau Hofmann
 - housekatze
 - myzelia
 - Pilar Jordan
+- Rave d‘Amor
 - Südstern
 
 *Source: [soundcheck](https://soundcheck.club/e/2574873-beate-invites-f-cd-at-beate-uwe/)*

@@ -1,6 +1,6 @@
 # Nice Girl
 
-Nice Girl is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Inner West Warehouse, Sydney on Sat, 5 Dec 2026.
+Nice Girl is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Inner West Warehouse, Sydney on Sat, 5 Dec 2026.
 
 Nice Girl is a house and techno artist based in New Zealand, with 26 gigs on soundcheck across Auckland, Bali, Berlin and Brussels and 7 more. Often billed alongside Eden Burns, Frank Booker and DJ City. Next up: TBA - Inner West Warehouse, Sydney on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Nice Girl is a house and techno artist based in New Zealand, with 26 gigs on sou
 
 Eden Burns, Frank Booker, DJ City
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicegirl/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicegirl/)*

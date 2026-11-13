@@ -1,6 +1,6 @@
 # KURLZ
 
-KURLZ is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at New Century Locker, Manchester on Thu, 31 Dec 2026.
+KURLZ is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at New Century Locker, Manchester on Thu, 31 Dec 2026.
 
 KURLZ is a house and tech house artist based in United Kingdom, with 43 gigs on soundcheck across Dubai, Liverpool and Manchester. Often billed alongside Alex Moore, Kuriboh and sebastieN. Next up: New Century Locker, Manchester on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ KURLZ is a house and tech house artist based in United Kingdom, with 43 gigs on 
 
 Alex Moore, Kuriboh, sebastieN
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kurlz/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kurlz/)*

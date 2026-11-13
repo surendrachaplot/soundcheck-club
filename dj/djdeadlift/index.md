@@ -1,6 +1,6 @@
 # DJ Deadlift
 
-DJ Deadlift is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at SASS Music Club, Vienna on Sun, 15 Nov 2026.
+DJ Deadlift is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at SASS Music Club, Vienna on Sun, 15 Nov 2026.
 
 DJ Deadlift is a techno and house artist based in Austria, with 37 gigs on soundcheck across Vienna. Often billed alongside TEZIBEL, DREYA and Apua. Next up: SASS Music Club, Vienna on Sun 15 Nov.
 
@@ -26,4 +26,4 @@ DJ Deadlift is a techno and house artist based in Austria, with 37 gigs on sound
 
 TEZIBEL, DREYA, Apua
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdeadlift/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdeadlift/)*

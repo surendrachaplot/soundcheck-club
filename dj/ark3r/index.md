@@ -1,6 +1,6 @@
 # Ark3r
 
-Ark3r is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Bukanyr Boat, Prague on Fri, 13 Nov 2026.
+Ark3r is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Bukanyr Boat, Prague on Fri, 13 Nov 2026.
 
 Ark3r is a house and techno artist based in Czech Republic, with 59 gigs on soundcheck across Berlin, Czech Republic, Dresden and Los Angeles and 1 more. Often billed alongside De Mode, kuju and Anton Kubikov. Next up: Bukanyr Boat, Prague on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Ark3r is a house and techno artist based in Czech Republic, with 59 gigs on soun
 
 De Mode, kuju, Anton Kubikov
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ark3r/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ark3r/)*

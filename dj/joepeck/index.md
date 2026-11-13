@@ -1,6 +1,6 @@
 # Joe Peck
 
-Joe Peck is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Crack Bellmer, Berlin on Thu, 26 Nov 2026.
+Joe Peck is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Crack Bellmer, Berlin on Thu, 26 Nov 2026.
 
 Joe Peck is a house and italo disco artist based in United Kingdom, with 15 gigs on soundcheck across Berlin. Often billed alongside 7ommes, Etiennette and Miss Signals. Next up: Crack Bellmer, Berlin on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Joe Peck is a house and italo disco artist based in United Kingdom, with 15 gigs
 
 7ommes, Etiennette, Miss Signals
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joepeck/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joepeck/)*

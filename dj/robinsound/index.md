@@ -1,6 +1,6 @@
 # Robinsound
 
-Robinsound is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Bande Passante, Montreal on Sun, 15 Nov 2026.
+Robinsound is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Bande Passante, Montreal on Sun, 15 Nov 2026.
 
 Robinsound is a techno and house artist based in France, with 16 gigs on soundcheck across Montreal. Often billed alongside Don Pablo, Char.l.n and Shango.. Next up: Bande Passante, Montreal on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Robinsound is a techno and house artist based in France, with 16 gigs on soundch
 
 Don Pablo, Char.l.n, Shango.
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robinsound/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robinsound/)*

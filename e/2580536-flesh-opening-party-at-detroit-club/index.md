@@ -1,6 +1,6 @@
 # FLESH OPENING PARTY at DETROIT CLUB
 
-FLESH OPENING PARTY at DETROIT CLUB on Sun 6 Dec, Barcelona. 1 artist: FDZ (ES). Techno. See the line-up on soundcheck.
+FLESH OPENING PARTY at DETROIT CLUB on Sun 6 Dec, Barcelona. 2 artists: FDZ (ES) and KVKN. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ FLESH OPENING PARTY at DETROIT CLUB on Sun 6 Dec, Barcelona. 1 artist: FDZ (ES).
 ## Line-up
 
 - FDZ (ES)
+- KVKN
 
 *Source: [soundcheck](https://soundcheck.club/e/2580536-flesh-opening-party-at-detroit-club/)*

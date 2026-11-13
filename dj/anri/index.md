@@ -1,6 +1,6 @@
 # Anri
 
-Anri is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Cafe-Gallery, Tbilisi on Fri, 13 Nov 2026.
+Anri is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Cafe-Gallery, Tbilisi on Fri, 13 Nov 2026.
 
 Anri is a house and techno artist based in Japan, with 40 gigs on soundcheck across Barcelona, Berlin, Dresden and Kuala Lumpur and 2 more. Often billed alongside Yamariki, PUNK N MATRIX and Squaric. Next up: Cafe-Gallery, Tbilisi on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Anri is a house and techno artist based in Japan, with 40 gigs on soundcheck acr
 
 Yamariki, PUNK N MATRIX, Squaric
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anri/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anri/)*

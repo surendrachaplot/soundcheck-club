@@ -1,6 +1,6 @@
 # Benji B
 
-Benji B is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Peckham Rye Park, London on Fri, 28 May 2027.
+Benji B is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Peckham Rye Park, London on Fri, 28 May 2027.
 
 Benji B is a house and techno artist based in United Kingdom, with 66 gigs on soundcheck across Amsterdam, Barcelona, Detroit and Helsinki and 15 more. Often billed alongside &ME, Bradley Zero and Dan Shake. Next up: Peckham Rye Park, London on Fri 28 May.
 
@@ -25,4 +25,4 @@ Benji B is a house and techno artist based in United Kingdom, with 66 gigs on so
 
 &ME, Bradley Zero, Dan Shake
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benjib/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benjib/)*

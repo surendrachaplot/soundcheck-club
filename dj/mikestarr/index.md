@@ -1,6 +1,6 @@
 # Mike Starr
 
-Mike Starr is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Bunker, Turin on Sat, 28 Nov 2026.
+Mike Starr is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Bunker, Turin on Sat, 28 Nov 2026.
 
 Mike Starr is a house and techno artist based in United Kingdom, with 101 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 26 more. Often billed alongside Natalie Robinson, Virginia and BASHKKA. Next up: Bunker, Turin on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Mike Starr is a house and techno artist based in United Kingdom, with 101 gigs o
 
 Natalie Robinson, Virginia, BASHKKA
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikestarr/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikestarr/)*

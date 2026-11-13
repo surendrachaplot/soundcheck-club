@@ -1,6 +1,6 @@
 # Lyrical daniel
 
-Lyrical daniel is a House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at RO Seoul, Seoul on Fri, 13 Nov 2026.
+Lyrical daniel is a House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at RO Seoul, Seoul on Fri, 13 Nov 2026.
 
 Lyrical daniel is a house artist based in South Korea, with 10 gigs on soundcheck across Seoul. Often billed alongside Closet Yi, DJ Soulscape and Gaka. Next up: RO Seoul, Seoul on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Lyrical daniel is a house artist based in South Korea, with 10 gigs on soundchec
 
 Closet Yi, DJ Soulscape, Gaka
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lyricaldaniel/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lyricaldaniel/)*

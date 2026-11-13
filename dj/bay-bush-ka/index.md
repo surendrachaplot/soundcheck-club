@@ -1,6 +1,6 @@
 # BAY-BUSH-KA
 
-BAY-BUSH-KA is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Piccadilly Central, Manchester on Fri, 27 Nov 2026.
+BAY-BUSH-KA is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Piccadilly Central, Manchester on Fri, 27 Nov 2026.
 
 BAY-BUSH-KA is a house and techno artist based in United Kingdom, with 44 gigs on soundcheck across Berlin, Leeds, London and Manchester and 1 more. Often billed alongside Will Druid, Elianne and April (UK). Next up: Piccadilly Central, Manchester on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ BAY-BUSH-KA is a house and techno artist based in United Kingdom, with 44 gigs o
 
 Will Druid, Elianne, April (UK)
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bay-bush-ka/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bay-bush-ka/)*

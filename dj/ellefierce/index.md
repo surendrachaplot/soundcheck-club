@@ -1,6 +1,6 @@
 # ELLE FIERCE
 
-ELLE FIERCE is a Techno and Pop artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Copenhagen Contemporary, Copenhagen on Fri, 27 Nov 2026.
+ELLE FIERCE is a Techno and Pop artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Copenhagen Contemporary, Copenhagen on Fri, 27 Nov 2026.
 
 ELLE FIERCE is a techno and pop artist based in United Kingdom, with 23 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 3 more. Often billed alongside Suzie The Cockroach, dj g2g and 3DMA. Next up: Copenhagen Contemporary, Copenhagen on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ ELLE FIERCE is a techno and pop artist based in United Kingdom, with 23 gigs on 
 
 Suzie The Cockroach, dj g2g, 3DMA
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ellefierce/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ellefierce/)*

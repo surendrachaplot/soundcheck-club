@@ -1,14 +1,15 @@
 # Mantis (IT)
 
-Mantis (IT) is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Brancaleone, Rome on Sat, 21 Nov 2026.
+Mantis (IT) is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Brancaleone, Rome on Sat, 21 Nov 2026.
 
-Mantis (IT) is a techno and bass artist based in Italy, with 13 gigs on soundcheck across Berlin and Rome. Often billed alongside VSC, Her Nice Too and Manifesto Disappunto. Next up: Brancaleone, Rome on Sat 21 Nov.
+Mantis (IT) is a techno and bass artist based in Italy, with 14 gigs on soundcheck across Berlin and Rome. Often billed alongside VSC, Her Nice Too and Manifesto Disappunto. Next up: Brancaleone, Rome on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Brancaleone | Rome |
+| Sat, 5 Dec 2026 | TBA | Rome |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Mantis (IT) is a techno and bass artist based in Italy, with 13 gigs on soundche
 
 VSC (1), Her Nice Too, Manifesto Disappunto
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mantisit/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mantisit/)*

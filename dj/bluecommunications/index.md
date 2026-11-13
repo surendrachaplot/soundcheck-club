@@ -1,6 +1,6 @@
 # Blue Communications
 
-Blue Communications is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Meredith Supernatural Ampitheatre, Melbourne on Fri, 11 Dec 2026.
+Blue Communications is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Meredith Supernatural Ampitheatre, Melbourne on Fri, 11 Dec 2026.
 
 Blue Communications is a house and disco artist based in Australia, with 5 gigs on soundcheck across Melbourne and New South Wales. Often billed alongside Aarti Jadu, AceMo and Birdsnake. Next up: Meredith Supernatural Ampitheatre, Melbourne on Fri 11 Dec.
 
@@ -21,4 +21,4 @@ Blue Communications is a house and disco artist based in Australia, with 5 gigs 
 
 Aarti Jadu, AceMo, Birdsnake
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bluecommunications/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bluecommunications/)*

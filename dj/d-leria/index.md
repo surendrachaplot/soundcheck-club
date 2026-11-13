@@ -1,6 +1,6 @@
 # D-Leria
 
-D-Leria is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Cadavra, Madrid on Thu, 19 Nov 2026.
+D-Leria is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Cadavra, Madrid on Thu, 19 Nov 2026.
 
 D-Leria is a techno and house artist based in Italy, with 136 gigs on soundcheck across Amsterdam, Athens, Bali and Basel and 45 more. Often billed alongside Key Clef, Functional Disorder and Claudio PRC. Next up: Cadavra, Madrid on Thu 19 Nov.
 
@@ -29,4 +29,4 @@ D-Leria is a techno and house artist based in Italy, with 136 gigs on soundcheck
 
 Key Clef, Functional Disorder, Claudio PRC
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/d-leria/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/d-leria/)*

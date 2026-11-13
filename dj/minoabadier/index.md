@@ -1,6 +1,6 @@
 # Mino Abadier
 
-Mino Abadier is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Kaiserlounge Ellmau, Austria on Sat, 26 Dec 2026.
+Mino Abadier is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Kaiserlounge Ellmau, Austria on Sat, 26 Dec 2026.
 
 Mino Abadier is a house and techno artist based in Netherlands, with 38 gigs on soundcheck across Amsterdam, Austria, Berlin and Bogotá and 1 more. Often billed alongside Julien Simmons, Maqossa and Pascal Benjamin. Next up: Kaiserlounge Ellmau, Austria on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Mino Abadier is a house and techno artist based in Netherlands, with 38 gigs on 
 
 Julien Simmons, Maqossa, Pascal Benjamin
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/minoabadier/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/minoabadier/)*

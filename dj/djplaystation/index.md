@@ -1,6 +1,6 @@
 # DJ PlayStation
 
-DJ PlayStation is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Rickshaw Stop, San Francisco/Oakland on Fri, 8 Jan 2027.
+DJ PlayStation is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Rickshaw Stop, San Francisco/Oakland on Fri, 8 Jan 2027.
 
 DJ PlayStation is a house and disco artist based in United States of America, with 50 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Amatric, DJ Cira and DJ M3. Next up: Rickshaw Stop, San Francisco/Oakland on Fri 8 Jan.
 
@@ -25,4 +25,4 @@ DJ PlayStation is a house and disco artist based in United States of America, wi
 
 Amatric, DJ Cira, DJ M3
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djplaystation/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djplaystation/)*

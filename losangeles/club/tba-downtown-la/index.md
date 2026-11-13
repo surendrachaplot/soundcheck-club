@@ -1,6 +1,6 @@
 # TBA - Downtown LA
 
-TBA - Downtown LA is a music venue in Los Angeles with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Lights Down Low feat. Loukeman" on Sat, 14 Nov 2026.
+TBA - Downtown LA is a music venue in Los Angeles with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Lights Down Low feat. Loukeman" on Sat, 14 Nov 2026.
 
 TBA - Downtown LA is a music venue in Los Angeles listed on soundcheck. 5 upcoming gigs, with line-ups including Armen Miran, Loukeman, Mez Monty and PARAMIDA and 1 more. See dates, start times and who's playing. To Be Announced - DTLA.
 
@@ -18,4 +18,4 @@ TBA - Downtown LA is a music venue in Los Angeles listed on soundcheck. 5 upcomi
 
 To Be Announced - DTLA, Los Angeles
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-downtown-la/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-downtown-la/)*

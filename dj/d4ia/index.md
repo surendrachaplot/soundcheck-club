@@ -1,6 +1,6 @@
 # d4ia
 
-d4ia is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at DNA. CLUB, Berlin on Fri, 13 Nov 2026.
+d4ia is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at DNA. CLUB, Berlin on Fri, 13 Nov 2026.
 
 d4ia is a techno and tech house artist based in France, with 6 gigs on soundcheck across Berlin. Often billed alongside Ankit, April the pink and DJ Hitwave. Next up: DNA. CLUB, Berlin on Fri 13 Nov.
 
@@ -22,4 +22,4 @@ d4ia is a techno and tech house artist based in France, with 6 gigs on soundchec
 
 Ankit, April the pink, DJ Hitwave
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/d4ia/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/d4ia/)*

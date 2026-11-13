@@ -1,6 +1,6 @@
 # Plus One (1)
 
-Plus One (1) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Cross Club, Prague on Sat, 21 Nov 2026.
+Plus One (1) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Cross Club, Prague on Sat, 21 Nov 2026.
 
 Plus One is a techno and house artist based in Ireland, with 34 gigs on soundcheck across Amsterdam, Belfast, Berlin and Dublin and 5 more. Often billed alongside Ejdm, SLOUCHO and Boyfrens. Next up: Cross Club, Prague on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Plus One is a techno and house artist based in Ireland, with 34 gigs on soundche
 
 Ejdm, SLOUCHO, Boyfrens
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/plusone/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/plusone/)*

@@ -1,6 +1,6 @@
 # Magnolia
 
-Magnolia is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Sacré, Paris on Sat, 12 Dec 2026.
+Magnolia is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Sacré, Paris on Sat, 12 Dec 2026.
 
 Magnolia is a house and disco artist based in Switzerland, with 23 gigs on soundcheck across Amsterdam, Bristol, Chicago and London and 5 more. Often billed alongside Bustin' Loose, Sam Karlson and Tatiana. Next up: Sacré, Paris on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Magnolia is a house and disco artist based in Switzerland, with 23 gigs on sound
 
 Bustin' Loose, Sam Karlson, Tatiana
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/magnolia/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/magnolia/)*

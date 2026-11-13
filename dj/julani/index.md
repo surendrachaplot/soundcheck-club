@@ -1,6 +1,6 @@
 # Julani
 
-Julani is a House and Acid artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at SASS Music Club, Vienna on Fri, 13 Nov 2026.
+Julani is a House and Acid artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at SASS Music Club, Vienna on Fri, 13 Nov 2026.
 
 Julani is a house and acid artist based in Austria, with 21 gigs on soundcheck across Vienna. Often billed alongside PJPJPJ, Anni Herzer and Momo Trosman. Next up: SASS Music Club, Vienna on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Julani is a house and acid artist based in Austria, with 21 gigs on soundcheck a
 
 PJPJPJ, Anni Herzer, Momo Trosman
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/julani/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/julani/)*

@@ -1,14 +1,16 @@
 # TOBEHONEST
 
-TOBEHONEST is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at 1015 Folsom, San Francisco/Oakland on Fri, 20 Nov 2026.
+TOBEHONEST is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at 1015 Folsom, San Francisco/Oakland on Fri, 20 Nov 2026.
 
-TOBEHONEST is a house and tech house artist based in United States of America, with 43 gigs on soundcheck across Austin, Baltimore, Berlin and Boston and 14 more. Often billed alongside Davibe, Chris Lake and Walker & Royce. Next up: 1015 Folsom, San Francisco/Oakland on Fri 20 Nov.
+TOBEHONEST is a house and tech house artist based in United States of America, with 45 gigs on soundcheck across Austin, Baltimore, Berlin and Boston and 15 more. Often billed alongside Davibe, Chris Lake and Walker & Royce. Next up: 1015 Folsom, San Francisco/Oakland on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | 1015 Folsom | San Francisco/Oakland |
+| Fri, 18 Dec 2026 | BERHTA | Washington DC |
+| Sat, 26 Dec 2026 | Prysm Nightclub | Chicago |
 | Thu, 31 Dec 2026 | NOS Event Center | Los-angeles |
 
 ## Recently played
@@ -26,4 +28,4 @@ TOBEHONEST is a house and tech house artist based in United States of America, w
 
 Davibe, Chris Lake, Walker & Royce
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tobehonest/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tobehonest/)*

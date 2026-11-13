@@ -1,6 +1,6 @@
 # Fracture
 
-Fracture is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Genesis Cinema, London on Tue, 17 Nov 2026.
+Fracture is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Genesis Cinema, London on Tue, 17 Nov 2026.
 
 Fracture is a drum & bass and jungle artist based in United Kingdom, with 56 gigs on soundcheck across Antwerp, Berlin, Brighton and Bristol and 9 more. Often billed alongside Tim Reaper, Mantra and DJ Flight. Next up: Genesis Cinema, London on Tue 17 Nov.
 
@@ -28,4 +28,4 @@ Fracture is a drum & bass and jungle artist based in United Kingdom, with 56 gig
 
 Tim Reaper, Mantra, DJ Flight
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fracture/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fracture/)*

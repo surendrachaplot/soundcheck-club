@@ -1,14 +1,13 @@
 # Mia Mao
 
-Mia Mao is a music venue in Paris with 20 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Jeudi Protocol: Ghostface, Uzi Nas, Esilise &More" on Thu, 12 Nov 2026.
+Mia Mao is a music venue in Paris with 20 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "23:59: Protokseed, LING LING B2B ENKO, ACIDPACH & MORE" on Fri, 13 Nov 2026.
 
-Mia Mao is a music venue in Paris listed on soundcheck. 20 upcoming gigs, with line-ups including 999999999, ADB (FR), AEREA and ANDATA and 2 more. See dates, start times and who's playing. 12a rue Ella Fitzgerald, 75019, Paris, FRANCE.
+Mia Mao is a music venue in Paris listed on soundcheck. 20 upcoming gigs, with line-ups including 999999999, ADB (FR), AEREA and Alex Nantaya and 2 more. See dates, start times and who's playing. 12a rue Ella Fitzgerald, 75019, Paris, FRANCE.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 12 Nov 2026 | Jeudi Protocol: Ghostface, Uzi Nas, Esilise &More | Esilise, Sasa (FR), Ulysse |
 | Fri, 13 Nov 2026 | 23:59: Protokseed, LING LING B2B ENKO, ACIDPACH & MORE | Protokseed, Rōse (CH) |
 | Fri, 13 Nov 2026 | 23:59 - Protokseed, ACIDPACH, LING LING B2B ENKO, RABTEU, KODAMAN, RŌSE B2B EMMA OLLIVARY | Protokseed, Rōse (CH) |
 | Sat, 14 Nov 2026 | FLUID x GALOP GALOP: Cera Khin, DURDENHAUER, Kirk, 1luu, Shoshana | Cera Khin, DURDENHAUER, Kirk (US) |
@@ -18,9 +17,10 @@ Mia Mao is a music venue in Paris listed on soundcheck. 20 upcoming gigs, with l
 | Thu, 26 Nov 2026 | Bouncin — Koboyo & Friends | DJ Angel (1), Equus Belli, Isa Tchesnokova, Koboyo, Sept |
 | Fri, 27 Nov 2026 | Polyamor: davyboi, Mika Heggemann, Cara Elizabeth & More | Cara Elizabeth, Cleopard2000, Mika Heggemann, davyboi |
 | Sat, 28 Nov 2026 | fabric Paris · Extended 12 Hours | Automatic Writing, Gabrielle Kwarteng, Gene On Earth, Loryn, Praslea, Praslesh, Raresh, Sonja Moonear, XDB |
+| Fri, 4 Dec 2026 | Atw Showcase: Interplanetary Criminal & More | Camille Doe, Interplanetary Criminal, Lefblom, Main Phase |
 
 ## Address
 
 12a rue Ella Fitzgerald, 75019, Paris, FRANCE, Paris
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/mia-mao/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/mia-mao/)*

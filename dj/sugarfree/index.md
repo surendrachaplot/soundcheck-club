@@ -1,6 +1,6 @@
 # Sugar Free
 
-Sugar Free is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at CLUB RAUM, Amsterdam on Fri, 13 Nov 2026.
+Sugar Free is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at CLUB RAUM, Amsterdam on Fri, 13 Nov 2026.
 
 Sugar Free is a house and techno artist based in Spain, with 218 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 67 more. Often billed alongside Fonte, Gene On Earth and tINI. Next up: CLUB RAUM, Amsterdam on Fri 13 Nov.
 
@@ -30,4 +30,4 @@ Sugar Free is a house and techno artist based in Spain, with 218 gigs on soundch
 
 Fonte, Gene On Earth, tINI
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sugarfree/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sugarfree/)*

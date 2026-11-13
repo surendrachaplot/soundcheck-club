@@ -1,6 +1,6 @@
 # Lyde
 
-Lyde is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at All My Friends, London on Sat, 21 Nov 2026.
+Lyde is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at All My Friends, London on Sat, 21 Nov 2026.
 
 Lyde is a house and progressive house artist based in United Kingdom, with 14 gigs on soundcheck across Leeds and London. Often billed alongside JUST FINN, BUD and George Askaroff. Next up: All My Friends, London on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Lyde is a house and progressive house artist based in United Kingdom, with 14 gi
 
 JUST FINN, BUD (1), George Askaroff
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lyde/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lyde/)*

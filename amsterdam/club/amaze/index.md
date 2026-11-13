@@ -1,6 +1,6 @@
 # Amaze
 
-Amaze is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "The Gardens of Babylon: The Night Sky" on Sat, 12 Dec 2026.
+Amaze is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "The Gardens of Babylon: The Night Sky" on Sat, 12 Dec 2026.
 
 Amaze is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Amaze is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig. See da
 | --- | --- | --- |
 | Sat, 12 Dec 2026 | The Gardens of Babylon: The Night Sky |  |
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/amaze/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/amaze/)*

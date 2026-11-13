@@ -1,14 +1,15 @@
 # FIUZA (MX)
 
-FIUZA (MX) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Floyd, Miami on Sat, 14 Nov 2026.
+FIUZA (MX) is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Floyd, Miami on Sat, 14 Nov 2026.
 
-FIUZA (MX) is a techno and trance artist based in Mexico, with 12 gigs on soundcheck across Miami. Often billed alongside Madison Kay, PROLETAR and KUJO (US). Next up: Floyd, Miami on Sat 14 Nov.
+FIUZA (MX) is a techno and trance artist based in Mexico, with 13 gigs on soundcheck across Miami. Often billed alongside Madison Kay, PROLETAR and DomnRob. Next up: Floyd, Miami on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Floyd | Miami |
+| Fri, 20 Nov 2026 | Paraiso Estereo | Miami |
 | Sat, 21 Nov 2026 | Casa Nube Wynwood | Miami |
 
 ## Recently played
@@ -24,6 +25,6 @@ FIUZA (MX) is a techno and trance artist based in Mexico, with 12 gigs on soundc
 
 ## Shares bills with
 
-Madison Kay, PROLETAR, KUJO (US)
+Madison Kay, PROLETAR, DomnRob
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fiuza-mx/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fiuza-mx/)*

@@ -1,6 +1,6 @@
 # Pancratio
 
-Pancratio is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Sub Club, Glasgow on Sat, 14 Nov 2026.
+Pancratio is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Sub Club, Glasgow on Sat, 14 Nov 2026.
 
 Pancratio is a house and techno artist based in Italy, with 68 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 24 more. Often billed alongside Dante (H501), Fabrizio Sala and Leo Benassi. Next up: Sub Club, Glasgow on Sat 14 Nov.
 
@@ -29,4 +29,4 @@ Pancratio is a house and techno artist based in Italy, with 68 gigs on soundchec
 
 Dante (H501), Fabrizio Sala, Leo Benassi
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pancratio/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pancratio/)*

@@ -1,17 +1,17 @@
 # X-Tra
 
-X-Tra is a music venue in Zurich with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "7 Vibes Journey in Zurich" on Sat, 19 Dec 2026.
+X-Tra is a music venue in Zurich with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "7 Vibes Journey in Zurich" on Sat, 19 Dec 2026.
 
-X-Tra is a music venue in Zurich listed on soundcheck. 1 upcoming gig, with line-ups including Jpattersson and Vanita. See dates, start times and who's playing. Limmatstrasse 118; 8031, Zürich; Switzerland.
+X-Tra is a music venue in Zurich listed on soundcheck. 1 upcoming gig, with line-ups including AIIA, Jpattersson and Vanita. See dates, start times and who's playing. Limmatstrasse 118; 8031, Zürich; Switzerland.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Dec 2026 | 7 Vibes Journey in Zurich | Jpattersson, Vanita |
+| Sat, 19 Dec 2026 | 7 Vibes Journey in Zurich | AIIA, Jpattersson, Vanita |
 
 ## Address
 
 Limmatstrasse 118; 8031, Zürich; Switzerland, Zurich
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/x-tra/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/x-tra/)*

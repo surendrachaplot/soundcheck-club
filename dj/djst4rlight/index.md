@@ -1,14 +1,15 @@
 # djst4rlight
 
-djst4rlight is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Siggi, Brandenburg on Sat, 28 Nov 2026.
+djst4rlight is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Siggi, Brandenburg on Sat, 28 Nov 2026.
 
-djst4rlight is a trance and techno artist based in Germany, with 19 gigs on soundcheck across Berlin and Brandenburg. Often billed alongside maedchenballern, 4NOUK and Ace9. Next up: Siggi, Brandenburg on Sat 28 Nov.
+djst4rlight is a trance and techno artist based in Germany, with 20 gigs on soundcheck across Berlin and Brandenburg. Often billed alongside maedchenballern, 4NOUK and Ace9. Next up: Siggi, Brandenburg on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Siggi | Brandenburg |
+| Sat, 16 Jan 2027 | Mikropol | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ djst4rlight is a trance and techno artist based in Germany, with 19 gigs on soun
 
 maedchenballern, 4NOUK, Ace9
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djst4rlight/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djst4rlight/)*

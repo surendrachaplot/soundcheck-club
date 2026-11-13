@@ -1,14 +1,15 @@
 # Lokier
 
-Lokier is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Abyss Shanghai, Shanghai on Fri, 13 Nov 2026.
+Lokier is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Abyss Shanghai, Shanghai on Fri, 13 Nov 2026.
 
-Lokier is a techno and trance artist based in Mexico, with 97 gigs on soundcheck across Antwerp, Athens, Barcelona and Basel and 43 more. Often billed alongside 999999999, Lee Ann Roberts and DYEN. Next up: Abyss Shanghai, Shanghai on Fri 13 Nov.
+Lokier is a techno and trance artist based in Mexico, with 98 gigs on soundcheck across Antwerp, Athens, Barcelona and Basel and 44 more. Often billed alongside 999999999, Lee Ann Roberts and DYEN. Next up: Abyss Shanghai, Shanghai on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Abyss Shanghai | Shanghai |
+| Sat, 14 Nov 2026 | Groundless Factory | Beijing |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Lokier is a techno and trance artist based in Mexico, with 97 gigs on soundcheck
 
 999999999, Lee Ann Roberts, DYEN
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lokier/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lokier/)*

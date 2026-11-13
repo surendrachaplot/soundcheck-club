@@ -1,6 +1,6 @@
 # OJ Wilson
 
-OJ Wilson is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Music Room, Belfast on Fri, 13 Nov 2026.
+OJ Wilson is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Music Room, Belfast on Fri, 13 Nov 2026.
 
 OJ Wilson is a house and techno artist based in United Kingdom, with 11 gigs on soundcheck across Belfast, Dublin and Ibiza. Often billed alongside DIEBYVEG, Chris Flannigan and DART. Next up: Music Room, Belfast on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ OJ Wilson is a house and techno artist based in United Kingdom, with 11 gigs on 
 
 DIEBYVEG, Chris Flannigan, DART
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ojwilson/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ojwilson/)*

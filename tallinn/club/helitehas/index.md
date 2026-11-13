@@ -1,6 +1,6 @@
 # Helitehas
 
-Helitehas is a music venue in Tallinn with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "Attend with MANDIDEXTROUS (UK)" on Fri, 27 Nov 2026.
+Helitehas is a music venue in Tallinn with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "Attend with MANDIDEXTROUS (UK)" on Fri, 27 Nov 2026.
 
 Helitehas is a music venue in Tallinn listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Madara 22, 10613 Tallinn, Estonia.
 
@@ -14,4 +14,4 @@ Helitehas is a music venue in Tallinn listed on soundcheck. 1 upcoming gig. See 
 
 Madara 22, 10613 Tallinn, Estonia, Tallinn
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/helitehas/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/helitehas/)*

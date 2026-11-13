@@ -1,14 +1,14 @@
 # LAVION
 
-LAVION is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Elastica, Vilnius on Thu, 12 Nov 2026.
+LAVION is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Elastica, Vilnius on Fri, 13 Nov 2026.
 
-LAVION is a techno and house artist based in France, with 17 gigs on soundcheck across Barcelona, Berlin, Bordeaux and Lyon and 3 more. Often billed alongside Kendal, Andi and Marco del Bosque. Next up: Elastica, Vilnius on Thu 12 Nov.
+LAVION is a techno and house artist based in France, with 17 gigs on soundcheck across Barcelona, Berlin, Bordeaux and Lyon and 3 more. Often billed alongside Kendal, Andi and Marco del Bosque. Next up: Elastica, Vilnius on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 12 Nov 2026 | Elastica | Vilnius |
+| Fri, 13 Nov 2026 | Elastica | Vilnius |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ LAVION is a techno and house artist based in France, with 17 gigs on soundcheck 
 
 Kendal, Andi, Marco del Bosque
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lavion/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lavion/)*

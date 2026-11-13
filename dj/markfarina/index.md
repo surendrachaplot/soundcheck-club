@@ -1,8 +1,8 @@
 # Mark Farina
 
-Mark Farina is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat, 14 Nov 2026.
+Mark Farina is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat, 14 Nov 2026.
 
-Mark Farina is a house and deep house artist based in United States of America, with 149 gigs on soundcheck across Antwerp, Atlanta, Auckland and Baltimore and 31 more. Often billed alongside DJ Heather, Derrick Carter and Doc Martin. Next up: TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat 14 Nov.
+Mark Farina is a house and deep house artist based in United States of America, with 150 gigs on soundcheck across Antwerp, Atlanta, Auckland and Baltimore and 31 more. Often billed alongside DJ Heather, Derrick Carter and Doc Martin. Next up: TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Mark Farina is a house and deep house artist based in United States of America, 
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | TBA - 2341 E Olympic Blvd Los Angeles, CA  90021 | Los Angeles |
 | Sat, 28 Nov 2026 | smartbar | Chicago |
+| Sun, 13 Dec 2026 | Wiggle Room | Toronto |
 | Sat, 19 Dec 2026 | Quartyard | San Diego |
 
 ## Recently played
@@ -27,4 +28,4 @@ Mark Farina is a house and deep house artist based in United States of America, 
 
 DJ Heather, Derrick Carter, Doc Martin
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markfarina/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markfarina/)*

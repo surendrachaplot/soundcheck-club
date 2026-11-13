@@ -1,8 +1,8 @@
 # Ben Sims
 
-Ben Sims is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
+Ben Sims is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
 
-Ben Sims is a techno and house artist based in United Kingdom, with 212 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 64 more. Often billed alongside Oscar Mulero, Blasha & Allatt and Nuke. Next up: Hungexpo Budapest, Budapest on Fri 13 Nov.
+Ben Sims is a techno and house artist based in United Kingdom, with 213 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 64 more. Often billed alongside Oscar Mulero, Blasha & Allatt and Nuke. Next up: Hungexpo Budapest, Budapest on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Ben Sims is a techno and house artist based in United Kingdom, with 212 gigs on 
 | Fri, 13 Nov 2026 | Hungexpo Budapest | Budapest |
 | Thu, 19 Nov 2026 | Radio Estrella | Bogotá |
 | Fri, 20 Nov 2026 | TBA - AUDITORIUM Cl 44 #68-59, Laureles - Estadio, Medellín | Medellin |
+| Fri, 20 Nov 2026 | TBA - Auditorium  | Medellin |
 | Sat, 21 Nov 2026 | Cali Colombia | Cali |
 | Sat, 28 Nov 2026 | FOLD | London |
 | Fri, 4 Dec 2026 | Tunnel Club | Birmingham |
@@ -35,4 +36,4 @@ Ben Sims is a techno and house artist based in United Kingdom, with 212 gigs on 
 
 Oscar Mulero, Blasha & Allatt, Nuke
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bensims/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bensims/)*

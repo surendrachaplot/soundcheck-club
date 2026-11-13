@@ -1,6 +1,6 @@
 # FOLIA
 
-FOLIA is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Pass Pass: Wondja + Azinzi" on Fri, 13 Nov 2026.
+FOLIA is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Pass Pass: Wondja + Azinzi" on Fri, 13 Nov 2026.
 
 FOLIA is a music venue in Paris listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 10 rue de Belleville 75020 Paris.
 
@@ -15,4 +15,4 @@ FOLIA is a music venue in Paris listed on soundcheck. 2 upcoming gigs. See dates
 
 10 rue de Belleville 75020 Paris, Paris
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/folia/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/folia/)*

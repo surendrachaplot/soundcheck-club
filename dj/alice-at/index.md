@@ -1,6 +1,6 @@
 # Alice (AT)
 
-Alice (AT) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Funkhaus Wien, Vienna on Fri, 13 Nov 2026.
+Alice (AT) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Funkhaus Wien, Vienna on Fri, 13 Nov 2026.
 
 Alice (AT) is a house and tech house artist based in Austria, with 40 gigs on soundcheck across Berlin, Ljubljana, London and Munich and 3 more. Often billed alongside Stipo, Apua and Eye F. Next up: Funkhaus Wien, Vienna on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Alice (AT) is a house and tech house artist based in Austria, with 40 gigs on so
 
 Stipo, Apua, Eye F
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alice-at/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alice-at/)*

@@ -1,6 +1,6 @@
 # Kim Bo Yeon
 
-Kim Bo Yeon is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Faust, Seoul on Sat, 14 Nov 2026.
+Kim Bo Yeon is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Faust, Seoul on Sat, 14 Nov 2026.
 
 Kim Bo Yeon is a techno and house artist based in South Korea, with 110 gigs on soundcheck across Seoul, Shanghai and Taipei. Often billed alongside Stann Lumo, Suman and DAMIE (KR). Next up: Faust, Seoul on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Kim Bo Yeon is a techno and house artist based in South Korea, with 110 gigs on 
 
 Stann Lumo, Suman, DAMIE (KR)
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kimboyeon-kr/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kimboyeon-kr/)*

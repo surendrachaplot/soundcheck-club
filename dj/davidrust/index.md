@@ -1,6 +1,6 @@
 # David Rust
 
-David Rust is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
+David Rust is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
 
 David Rust is a trance and techno artist based in United Kingdom, with 22 gigs on soundcheck across Cardiff, Dallas/Fort Worth, Dundee and Edinburgh and 12 more. Often billed alongside Billy Gillies, Aaron Hibell and Aly & Fila. Next up: The Queen Mary, Los Angeles on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ David Rust is a trance and techno artist based in United Kingdom, with 22 gigs o
 
 Billy Gillies, Aaron Hibell, Aly & Fila
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidrust/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidrust/)*

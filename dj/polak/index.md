@@ -1,6 +1,6 @@
 # Polak
 
-Polak is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Entrepôts Dominion, Les, Montreal on Sat, 14 Nov 2026.
+Polak is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Entrepôts Dominion, Les, Montreal on Sat, 14 Nov 2026.
 
 Polak is a jungle and drum & bass artist based in United Kingdom, with 10 gigs on soundcheck across Manchester and Montreal. Often billed alongside Offit, Dragoon and Brownson. Next up: Entrepôts Dominion, Les, Montreal on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Polak is a jungle and drum & bass artist based in United Kingdom, with 10 gigs o
 
 Offit, Dragoon, Brownson
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/polak/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/polak/)*

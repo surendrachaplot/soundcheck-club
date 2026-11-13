@@ -1,6 +1,6 @@
 # Di Linh
 
-Di Linh is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Goodtime Burger 108 De La Thanh, Hanoi on Sat, 14 Nov 2026.
+Di Linh is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Goodtime Burger 108 De La Thanh, Hanoi on Sat, 14 Nov 2026.
 
 Di Linh is a techno and house artist based in Vietnam, with 140 gigs on soundcheck across Bali, Bangkok, Beijing and Berlin and 17 more. Often billed alongside TaoFu, Ouissam and CONG. Next up: TBA - Goodtime Burger 108 De La Thanh, Hanoi on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Di Linh is a techno and house artist based in Vietnam, with 140 gigs on soundche
 
 TaoFu, Ouissam, CONG
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dilinh/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dilinh/)*

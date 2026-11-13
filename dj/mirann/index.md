@@ -1,6 +1,6 @@
 # Miran N
 
-Miran N is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Fitzroy, Berlin on Sat, 14 Nov 2026.
+Miran N is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Fitzroy, Berlin on Sat, 14 Nov 2026.
 
 Miran N is a techno and house artist based in Germany, with 38 gigs on soundcheck across Berlin, Copenhagen, Hamburg and Hannover and 5 more. Often billed alongside ADO (DE), tamypro and Eluzid. Next up: Fitzroy, Berlin on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Miran N is a techno and house artist based in Germany, with 38 gigs on soundchec
 
 ADO (DE), tamypro, Eluzid
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mirann/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mirann/)*

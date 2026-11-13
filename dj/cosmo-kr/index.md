@@ -1,8 +1,8 @@
 # Cosmo (KR)
 
-Cosmo (KR) is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Gaffe, London on Fri, 20 Nov 2026.
+Cosmo (KR) is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Gaffe, London on Fri, 20 Nov 2026.
 
-Cosmo (KR) is a techno and house artist based in South Korea, with 92 gigs on soundcheck across Amsterdam, Berlin, Chengdu and Cologne and 20 more. Often billed alongside Konstantin, Sunday Lee and Leafar Legov. Next up: Gaffe, London on Fri 20 Nov.
+Cosmo (KR) is a techno and house artist based in South Korea, with 93 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Chengdu and 21 more. Often billed alongside Konstantin, Sunday Lee and Leafar Legov. Next up: Gaffe, London on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Cosmo (KR) is a techno and house artist based in South Korea, with 92 gigs on so
 | Fri, 20 Nov 2026 | Gaffe | London |
 | Sat, 21 Nov 2026 | Prince Charles | Berlin |
 | Sat, 12 Dec 2026 | Berghain / Panorama Bar / Säule | Berlin |
+| Thu, 31 Dec 2026 | LAUT | Barcelona |
 | Fri, 1 Jan 2027 | REC Napoli | Naples |
 
 ## Recently played
@@ -28,4 +29,4 @@ Cosmo (KR) is a techno and house artist based in South Korea, with 92 gigs on so
 
 Konstantin, Sunday Lee, Leafar Legov
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmo-kr/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmo-kr/)*

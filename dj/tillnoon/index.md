@@ -1,6 +1,6 @@
 # Till Noon
 
-Till Noon is a Deep House and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Thunupa Festival, Salar de Uyuni, Bolivia on Wed, 30 Dec 2026.
+Till Noon is a Deep House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Thunupa Festival, Salar de Uyuni, Bolivia on Wed, 30 Dec 2026.
 
 Till Noon is a deep house and afro house artist based in Germany, with 30 gigs on soundcheck across Barcelona, Berlin, Bolivia and Lisbon and 1 more. Often billed alongside Camerøn, Calypsis and Khalil Suleman. Next up: Thunupa Festival, Salar de Uyuni, Bolivia on Wed 30 Dec.
 
@@ -25,4 +25,4 @@ Till Noon is a deep house and afro house artist based in Germany, with 30 gigs o
 
 Camerøn, Calypsis, Khalil Suleman
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tillnoon/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tillnoon/)*

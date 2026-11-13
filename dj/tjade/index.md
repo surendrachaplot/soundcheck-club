@@ -1,14 +1,15 @@
 # Tjade
 
-Tjade is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Liquid Room Warehouse, Edinburgh on Sat, 14 Nov 2026.
+Tjade is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Liquid Room Warehouse, Edinburgh on Sat, 14 Nov 2026.
 
-Tjade is a house and techno artist based in Netherlands, with 132 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Bali and 23 more. Often billed alongside Lucky Done Gone, Moody Mehran and Bella Claxton. Next up: The Liquid Room Warehouse, Edinburgh on Sat 14 Nov.
+Tjade is a house and techno artist based in Netherlands, with 133 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Bali and 24 more. Often billed alongside Lucky Done Gone, Moody Mehran and Bella Claxton. Next up: The Liquid Room Warehouse, Edinburgh on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | The Liquid Room Warehouse | Edinburgh |
+| Sun, 15 Nov 2026 | Sub Club | Glasgow |
 | Fri, 20 Nov 2026 | Colour Factory | London |
 | Sat, 28 Nov 2026 | Lijm & Cultuur | Netherlands |
 | Fri, 1 Jan 2027 | Thuishaven | Amsterdam |
@@ -31,4 +32,4 @@ Tjade is a house and techno artist based in Netherlands, with 132 gigs on soundc
 
 Lucky Done Gone, Moody Mehran, Bella Claxton
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tjade/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tjade/)*

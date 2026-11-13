@@ -1,8 +1,8 @@
 # cosmolady
 
-cosmolady is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at DUNGEON akihabara, Tokyo on Sat, 28 Nov 2026.
+cosmolady is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at DUNGEON akihabara, Tokyo on Sat, 28 Nov 2026.
 
-cosmolady is a house and techno artist based in Japan, with 103 gigs on soundcheck across Tokyo. Often billed alongside SIGNAL (JP), hidemi and AMARI. Next up: DUNGEON akihabara, Tokyo on Sat 28 Nov.
+cosmolady is a house and techno artist based in Japan, with 104 gigs on soundcheck across Tokyo. Often billed alongside SIGNAL (JP), hidemi and AMARI. Next up: DUNGEON akihabara, Tokyo on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ cosmolady is a house and techno artist based in Japan, with 103 gigs on soundche
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | DUNGEON akihabara | Tokyo |
 | Sun, 6 Dec 2026 | The Room | Tokyo |
+| Sun, 20 Dec 2026 | Aoyama Hachi | Tokyo |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ cosmolady is a house and techno artist based in Japan, with 103 gigs on soundche
 
 SIGNAL (JP), hidemi, AMARI
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmolady/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmolady/)*

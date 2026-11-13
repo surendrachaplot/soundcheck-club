@@ -1,8 +1,8 @@
 # KOKO
 
-KOKO is a music venue in London with 23 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "KOKO Electronic: Andrea Oliva, Vanco" on Fri, 13 Nov 2026.
+KOKO is a music venue in London with 24 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "KOKO Electronic: Andrea Oliva, Vanco" on Fri, 13 Nov 2026.
 
-KOKO is a music venue in London listed on soundcheck. 23 upcoming gigs, with line-ups including Agathe Mougin, Alex Wann, AMOUNKA and Andrea Oliva and 2 more. See dates, start times and who's playing. 1a Camden High Street; Camden Town; London NW1 7JE; United Kingdom.
+KOKO is a music venue in London listed on soundcheck. 24 upcoming gigs, with line-ups including Agathe Mougin, Alex Wann, AMOUNKA and Andrea Oliva and 2 more. See dates, start times and who's playing. 1a Camden High Street; Camden Town; London NW1 7JE; United Kingdom.
 
 ## What's on
 
@@ -17,10 +17,10 @@ KOKO is a music venue in London listed on soundcheck. 23 upcoming gigs, with lin
 | Fri, 27 Nov 2026 | KOKO Electronic x The Moment: WhoMadeWho (Fri 27th, Live) | Agathe Mougin, Alex Wann, Inès Rau, JANE RYSE, Mike Gannu, WhoMadeWho |
 | Fri, 27 Nov 2026 | KOKO Electronic x The Moment: WhoMadeWho (Fri 27th, Live) / (Sat 28th, Hybrid DJ Set) | WhoMadeWho |
 | Sat, 28 Nov 2026 | KOKO Electronic x The Moment: WhoMadeWho (Sat 28th, Hybrid DJ Set) | GiZ, Lilya Mandre, Son of Son, WhoMadeWho |
-| Sat, 5 Dec 2026 | DJ Marky & Friends London | DJ Marky |
+| Sat, 5 Dec 2026 | DJ Marky & Friends London | DJ Die, DJ Marky, Gardna, MC GQ, Makoto |
 
 ## Address
 
 1a Camden High Street; Camden Town; London NW1 7JE; United Kingdom, London
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/koko/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/koko/)*

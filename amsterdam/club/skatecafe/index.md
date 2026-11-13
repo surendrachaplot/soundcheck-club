@@ -1,8 +1,8 @@
 # Skatecafe
 
-Skatecafe is a music venue in Amsterdam with 14 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "AIFFS" on Fri, 13 Nov 2026.
+Skatecafe is a music venue in Amsterdam with 14 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "AIFFS" on Fri, 13 Nov 2026.
 
-Skatecafe is a music venue in Amsterdam listed on soundcheck. 14 upcoming gigs, with line-ups including Alex Ranzino, baby ganoush, emssoleil and Figi and 2 more. See dates, start times and who's playing. Gedempt Hamerkanaal 42.
+Skatecafe is a music venue in Amsterdam listed on soundcheck. 14 upcoming gigs, with line-ups including Abstract (US), Alex Ranzino, baby ganoush and Cadeem LaMarr and 2 more. See dates, start times and who's playing. Gedempt Hamerkanaal 42.
 
 ## What's on
 
@@ -10,10 +10,10 @@ Skatecafe is a music venue in Amsterdam listed on soundcheck. 14 upcoming gigs, 
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | AIFFS | Alex Ranzino, Figi, STIPP, THC, emssoleil |
 | Sat, 14 Nov 2026 | PALINDROOM FESTIVAL | KES (3) |
-| Fri, 20 Nov 2026 | VANDALIZED 10 YEARS WITH ZINA RADIO & SKEK |  |
+| Fri, 20 Nov 2026 | VANDALIZED 10 YEARS WITH ZINA RADIO & SKEK | Jarreau Vandal, Nooriyah, Opium Hum, R2R (1) |
 | Sat, 21 Nov 2026 | WEIRDO FEST |  |
 | Thu, 26 Nov 2026 | DRUKWERK (LIVE) MET SUPPORT VAN ROOIE JOS |  |
-| Fri, 27 Nov 2026 | Zwart Licht - Licht In Het Donker |  |
+| Fri, 27 Nov 2026 | ZWART LICHT CLUB NIGHT  | Abstract (US), Itz3bby, WaxFiend, Zed Bias |
 | Sat, 28 Nov 2026 | RUSH HOUR STORE CREW ALL NIGHT LONG |  |
 | Fri, 4 Dec 2026 | GROTE NAMEN KLEINE BOOTH |  |
 | Sat, 5 Dec 2026 | ECHOBOX 5,5 JAAR |  |
@@ -23,4 +23,4 @@ Skatecafe is a music venue in Amsterdam listed on soundcheck. 14 upcoming gigs, 
 
 Gedempt Hamerkanaal 42, Amsterdam
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/skatecafe/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/skatecafe/)*

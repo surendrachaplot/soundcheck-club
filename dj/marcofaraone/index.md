@@ -1,8 +1,8 @@
 # Marco Faraone
 
-Marco Faraone is a Techno and Tech House artist with 9 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Clwd, Sofia on Sat, 14 Nov 2026.
+Marco Faraone is a Techno and Tech House artist with 10 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Clwd, Sofia on Sat, 14 Nov 2026.
 
-Marco Faraone is a techno and tech house artist based in Italy, with 164 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 45 more. Often billed alongside Mar-T, Luca Donzelli and CAAL. Next up: Clwd, Sofia on Sat 14 Nov.
+Marco Faraone is a techno and tech house artist based in Italy, with 165 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 46 more. Often billed alongside Mar-T, Luca Donzelli and CAAL. Next up: Clwd, Sofia on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Marco Faraone is a techno and tech house artist based in Italy, with 164 gigs on
 | Sat, 5 Dec 2026 | Room 26 | Rome |
 | Fri, 11 Dec 2026 | Radius | Chicago |
 | Fri, 18 Dec 2026 | WOMB | Tokyo |
+| Sat, 19 Dec 2026 | Flac | Seoul |
 | Mon, 28 Dec 2026 | IDRA | Manchester |
 | Thu, 21 Jan 2027 | Royal Caribbean Cruise Ship | Miami |
 | Thu, 21 Jan 2027 | Royal Caribbean Cruise Ship | Miami |
@@ -33,4 +34,4 @@ Marco Faraone is a techno and tech house artist based in Italy, with 164 gigs on
 
 Mar-T, Luca Donzelli, CAAL
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcofaraone/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcofaraone/)*

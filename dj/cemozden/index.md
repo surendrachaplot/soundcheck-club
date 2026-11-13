@@ -1,6 +1,6 @@
 # Cem Ozden
 
-Cem Ozden is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at radial, London on Sun, 29 Nov 2026.
+Cem Ozden is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at radial, London on Sun, 29 Nov 2026.
 
 Cem Ozden is a house and minimal artist, with 58 gigs on soundcheck across Berlin, Bucharest, Chicago and Detroit and 5 more. Often billed alongside Cap, Choukroun and Dan Andrei. Next up: radial, London on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Cem Ozden is a house and minimal artist, with 58 gigs on soundcheck across Berli
 
 Cap, Choukroun, Dan Andrei
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cemozden/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cemozden/)*

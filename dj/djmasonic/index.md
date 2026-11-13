@@ -1,6 +1,6 @@
 # DJ Masonic
 
-DJ Masonic is a Classical and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Grace Cathedral, San Francisco/Oakland on Fri, 13 Nov 2026.
+DJ Masonic is a Classical and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Grace Cathedral, San Francisco/Oakland on Fri, 13 Nov 2026.
 
 DJ Masonic is a classical and electronica artist based in United States of America, with 7 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Justin Reed and Gavin Hardkiss. Next up: Grace Cathedral, San Francisco/Oakland on Fri 13 Nov.
 
@@ -23,4 +23,4 @@ DJ Masonic is a classical and electronica artist based in United States of Ameri
 
 Justin Reed, Gavin Hardkiss
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmasonic/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmasonic/)*

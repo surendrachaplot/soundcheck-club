@@ -1,6 +1,6 @@
 # Lina K
 
-Lina K is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Glazart, Paris on Sat, 14 Nov 2026.
+Lina K is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Glazart, Paris on Sat, 14 Nov 2026.
 
 Lina K is a techno and house artist based in Moldova, with 113 gigs on soundcheck across Beijing, Belgrade, Berlin and Chongqing and 3 more. Often billed alongside OoLONG, Tys (IT) and Stefano Dvt. Next up: Glazart, Paris on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Lina K is a techno and house artist based in Moldova, with 113 gigs on soundchec
 
 OoLONG (2), Tys (IT), Stefano Dvt
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/linak/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/linak/)*

@@ -1,6 +1,6 @@
 # Marc Anthony Bowen
 
-Marc Anthony Bowen is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Altrove, Milan on Fri, 13 Nov 2026.
+Marc Anthony Bowen is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Altrove, Milan on Fri, 13 Nov 2026.
 
 Marc Anthony Bowen is a techno and house artist based in Italy, with 52 gigs on soundcheck across Barcelona, Berlin, Milan and Naples and 4 more. Often billed alongside IRIDE, Marcolino and GNMR. Next up: Altrove, Milan on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Marc Anthony Bowen is a techno and house artist based in Italy, with 52 gigs on 
 
 IRIDE, Marcolino, GNMR
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcanthonybowen/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcanthonybowen/)*

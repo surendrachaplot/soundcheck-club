@@ -1,6 +1,6 @@
 # X-Coast
 
-X-Coast is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Elsewhere, New York City on Sat, 14 Nov 2026.
+X-Coast is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Elsewhere, New York City on Sat, 14 Nov 2026.
 
 X-Coast is a techno and house artist based in Serbia, with 196 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Arkansas and 73 more. Often billed alongside Juicy Romance, Partiboi69 and X CLUB.. Next up: Elsewhere, New York City on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ X-Coast is a techno and house artist based in Serbia, with 196 gigs on soundchec
 
 Juicy Romance, Partiboi69, X CLUB.
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/x-coast/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/x-coast/)*

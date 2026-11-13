@@ -1,6 +1,6 @@
 # Dali
 
-Dali is a music venue in Cork with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "M A D D E E P" on Fri, 13 Nov 2026.
+Dali is a music venue in Cork with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "M A D D E E P" on Fri, 13 Nov 2026.
 
 Dali is a music venue in Cork listed on soundcheck. 4 upcoming gigs, with line-ups including Ali Daly, funksmack and Hooligan. See dates, start times and who's playing. Lavitt's Quay, Centre, Cork, T12 K20P.
 
@@ -17,4 +17,4 @@ Dali is a music venue in Cork listed on soundcheck. 4 upcoming gigs, with line-u
 
 Lavitt's Quay, Centre, Cork, T12 K20P, Cork
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/cork/club/dali/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/cork/club/dali/)*

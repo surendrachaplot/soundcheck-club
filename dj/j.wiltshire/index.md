@@ -1,6 +1,6 @@
 # J.Wiltshire
 
-J.Wiltshire is a Acid and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Secret Location (near Frankfurter Allee), Berlin on Wed, 2 Dec 2026.
+J.Wiltshire is a Acid and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Secret Location (near Frankfurter Allee), Berlin on Wed, 2 Dec 2026.
 
 J.Wiltshire is an acid and ambient artist based in United Kingdom, with 12 gigs on soundcheck across Berlin, Chicago and London. Often billed alongside Dweedo, K-stoge and Marylou. Next up: TBA - Secret Location (near Frankfurter Allee), Berlin on Wed 2 Dec.
 
@@ -25,4 +25,4 @@ J.Wiltshire is an acid and ambient artist based in United Kingdom, with 12 gigs 
 
 Dweedo, K-stoge, Marylou
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/j.wiltshire/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/j.wiltshire/)*

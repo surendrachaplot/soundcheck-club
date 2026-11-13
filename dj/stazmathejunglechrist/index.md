@@ -1,6 +1,6 @@
 # Stazma The Junglechrist
 
-Stazma The Junglechrist is a Breakcore and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Mia Mao, Paris on Fri, 11 Dec 2026.
+Stazma The Junglechrist is a Breakcore and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Mia Mao, Paris on Fri, 11 Dec 2026.
 
 Stazma The Junglechrist is a breakcore and hardcore artist based in France, with 6 gigs on soundcheck across Barcelona, Bristol, Brussels and Lyon and 2 more. Often billed alongside Manu Le Malin, BROKEN NOTE and Bruhze. Next up: Mia Mao, Paris on Fri 11 Dec.
 
@@ -22,4 +22,4 @@ Stazma The Junglechrist is a breakcore and hardcore artist based in France, with
 
 Manu Le Malin, BROKEN NOTE, Bruhze
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stazmathejunglechrist/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stazmathejunglechrist/)*

@@ -1,6 +1,6 @@
 # Sasha GiGi
 
-Sasha GiGi is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Mayrhofen, Austria, Austria on Mon, 5 Apr 2027.
+Sasha GiGi is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Mayrhofen, Austria, Austria on Mon, 5 Apr 2027.
 
 Sasha GiGi is a tech house and house artist, with 37 gigs on soundcheck across Amsterdam, Austria, Leeds and London and 1 more. Often billed alongside lau.ra, Surya Sen and Arielle. Next up: TBA - Mayrhofen, Austria, Austria on Mon 5 Apr.
 
@@ -25,4 +25,4 @@ Sasha GiGi is a tech house and house artist, with 37 gigs on soundcheck across A
 
 lau.ra, Surya Sen, Arielle
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sashagigi/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sashagigi/)*

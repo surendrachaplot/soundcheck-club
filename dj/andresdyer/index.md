@@ -1,6 +1,6 @@
 # Andrés Dyer
 
-Andrés Dyer is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Fabriketa, Sao Paulo on Sat, 14 Nov 2026.
+Andrés Dyer is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Fabriketa, Sao Paulo on Sat, 14 Nov 2026.
 
 Andrés Dyer is a house and tech house artist based in Peru, with 5 gigs on soundcheck across Berlin, New York City, Peru and Sao Paulo. Often billed alongside Adi (CO), Arno aka Einzelkind and Capetini. Next up: Fabriketa, Sao Paulo on Sat 14 Nov.
 
@@ -21,4 +21,4 @@ Andrés Dyer is a house and tech house artist based in Peru, with 5 gigs on soun
 
 Adi (CO), Arno aka Einzelkind, Capetini
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andresdyer/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andresdyer/)*

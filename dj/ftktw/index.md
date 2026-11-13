@@ -1,6 +1,6 @@
 # FTK (TW)
 
-FTK (TW) is a Techno and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - taoyuan - abandoned museum , Taiwan on Sat, 21 Nov 2026.
+FTK (TW) is a Techno and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - taoyuan - abandoned museum , Taiwan on Sat, 21 Nov 2026.
 
 FTK (TW) is a techno and drum & bass artist based in Taiwan, with 14 gigs on soundcheck across Bangkok, Lyon, Taipei and Taiwan and 1 more. Often billed alongside KONTOMO, TEI TEI and BEENIE PIMP. Next up: TBA - taoyuan - abandoned museum , Taiwan on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ FTK (TW) is a techno and drum & bass artist based in Taiwan, with 14 gigs on sou
 
 KONTOMO, TEI TEI, BEENIE PIMP
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ftktw/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ftktw/)*

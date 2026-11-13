@@ -1,6 +1,6 @@
 # Pensão Amor
 
-Pensão Amor is a music venue in Lisbon with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "João Melgueira ~ at Pensão Amor" on Tue, 17 Nov 2026.
+Pensão Amor is a music venue in Lisbon with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "João Melgueira ~ at Pensão Amor" on Tue, 17 Nov 2026.
 
 Pensão Amor is a music venue in Lisbon listed on soundcheck. 2 upcoming gigs, with line-ups including João Melgueira. See dates, start times and who's playing. R. Nova do Carvalho 38, Cais do Sodre, 1200-019 Lisboa.
 
@@ -15,4 +15,4 @@ Pensão Amor is a music venue in Lisbon listed on soundcheck. 2 upcoming gigs, w
 
 R. Nova do Carvalho 38, Cais do Sodre, 1200-019 Lisboa, Lisbon
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/pens-o-amor/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/pens-o-amor/)*

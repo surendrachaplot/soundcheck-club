@@ -1,8 +1,8 @@
 # Konstantin
 
-Konstantin is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Club Space Miami, Miami on Sun, 22 Nov 2026.
+Konstantin is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Club Space Miami, Miami on Sun, 22 Nov 2026.
 
-Konstantin is a house and techno artist based in Germany, with 206 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 47 more. Often billed alongside Leafar Legov, Map.ache and Edward. Next up: Club Space Miami, Miami on Sun 22 Nov.
+Konstantin is a house and techno artist based in Germany, with 207 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 47 more. Often billed alongside Leafar Legov, Map.ache and Edward. Next up: Club Space Miami, Miami on Sun 22 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Konstantin is a house and techno artist based in Germany, with 206 gigs on sound
 | --- | --- | --- |
 | Sun, 22 Nov 2026 | Club Space Miami | Miami |
 | Fri, 27 Nov 2026 | VENT | Tokyo |
+| Sat, 28 Nov 2026 | Graphic Hangang | Seoul |
 | Fri, 4 Dec 2026 | TBA | Sydney |
 | Sat, 5 Dec 2026 | TBA | Melbourne |
 | Sat, 19 Dec 2026 | Postkantine | Basel |
@@ -30,4 +31,4 @@ Konstantin is a house and techno artist based in Germany, with 206 gigs on sound
 
 Leafar Legov, Map.ache, Edward
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/konstantin/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/konstantin/)*

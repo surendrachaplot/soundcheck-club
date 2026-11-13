@@ -1,6 +1,6 @@
 # Fabrik
 
-Fabrik is a music venue in Madrid with 8 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "CODE 23 Anniversary: La Trilogía [Part II]" on Sat, 14 Nov 2026.
+Fabrik is a music venue in Madrid with 8 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "CODE 23 Anniversary: La Trilogía [Part II]" on Sat, 14 Nov 2026.
 
 Fabrik is a music venue in Madrid listed on soundcheck. 8 upcoming gigs, with line-ups including 999999999, Paolo Ferrara, Abel Ramos and Adrian Mills and 2 more. See dates, start times and who's playing. Av. de la Industria 82, 28970 Humanes de Madrid, Spain.
 
@@ -13,7 +13,7 @@ Fabrik is a music venue in Madrid listed on soundcheck. 8 upcoming gigs, with li
 | Sat, 28 Nov 2026 | MAKINEROS XXL Winter Edition | Alex T (UK), DJ Marta, Da Terror, Day-Mar, Juanma (CL), Marian Dacal, Netherworld |
 | Sat, 5 Dec 2026 | CODE 23 Anniversary: La Trilogía [Part III] | 999999999, BENZA, Ben Sims, Boston 168, Candy Cox, Chlär, Chontane, Cloudy, Colin Benders, DAX J, DYEN, Dave Clarke, Disguised, Exos, Flug, Franzizca., HERMETICA, James Ruskin, Lewis Fautzi, Montero, Neon Graveyard, Nuke, OGUZ, Patrick Mason, Paula Cazenave, Quest, SHDW, Vilchezz, ÜBERKIKZ |
 | Sat, 19 Dec 2026 | Masters Of Hardcore 2026 en Fabrik | Akira, DRS, Day-Mar, Evil Activities, Kili (3), Korsakoff, Ophidian, Predator, SyCo, Unproven |
-| Fri, 1 Jan 2027 | LOOP NYD FESTIVAL 2027 | ART NO LOGIA, Adrian Mills, Alex Clap, Andres Campo, Anthony Godfather (2), Chelina Manuhutu, Frank Storm, GAB (ES), George Privatti, Guille Placencia, Ilario Alicante, Jean Pierre, Marco Carola, Mason Collective, Matthias Tanzmann, Michenlo, Paco Osuna, Vanee, Wally Lopez, fumi (DE), zwilling. |
+| Fri, 1 Jan 2027 | LOOP NYD FESTIVAL 2027 | ART NO LOGIA, Adrian Mills, Alex Clap, Alignment, Andres Campo, Anthony Godfather (2), CESAR ALMENA, Charlie Sparks, Chelina Manuhutu, DIØN, Dhuna, Frank Storm, GAB (ES), George Privatti, Guille Placencia, Ilario Alicante, Jean Pierre, Marco Carola, Mason Collective, Matthias Tanzmann, Michenlo, Nuke, Paco Osuna, Vanee, Wally Lopez, fumi (DE), zwilling. |
 | Sat, 16 Jan 2027 | Fatima Hajji All Night Long 2027 en Fabrik | Fatima Hajji |
 | Sat, 30 Jan 2027 | REMEMBER PARADISE: EL LEGADO | Abel Ramos, Brenda Serna (2), DJ Marta, David Mallada, ESE UVE, Frank Trax, GNS (1), H1pnos1s, Luis Bonias, Monica X, Nita Key, Pergo, Raul Ortiz, Ricardo F, Solo Viking |
 
@@ -21,4 +21,4 @@ Fabrik is a music venue in Madrid listed on soundcheck. 8 upcoming gigs, with li
 
 Av. de la Industria 82, 28970 Humanes de Madrid, Spain, Madrid
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/fabrik/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/fabrik/)*

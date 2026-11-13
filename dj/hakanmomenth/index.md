@@ -1,6 +1,6 @@
 # Håkan Momenth
 
-Håkan Momenth is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA, Stockholm on Fri, 13 Nov 2026.
+Håkan Momenth is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA, Stockholm on Fri, 13 Nov 2026.
 
 Håkan Momenth is a techno and tech house artist based in Sweden, with 6 gigs on soundcheck across Stockholm. Often billed alongside Marten Attling, Ms. K and 31337. Next up: TBA, Stockholm on Fri 13 Nov.
 
@@ -22,4 +22,4 @@ Håkan Momenth is a techno and tech house artist based in Sweden, with 6 gigs on
 
 Marten Attling, Ms. K, 31337
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hakanmomenth/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hakanmomenth/)*

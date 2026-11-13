@@ -1,6 +1,6 @@
 # Plastic Heart Surgery
 
-Plastic Heart Surgery is a Drum & Bass and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA, Ontario on Sat, 19 Dec 2026.
+Plastic Heart Surgery is a Drum & Bass and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA, Ontario on Sat, 19 Dec 2026.
 
 Plastic Heart Surgery is a drum & bass and electro artist based in Canada, with 9 gigs on soundcheck across Ontario and Toronto. Often billed alongside 'PAVV', GooGirl and Solari. Next up: TBA, Ontario on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Plastic Heart Surgery is a drum & bass and electro artist based in Canada, with 
 
 'PAVV', GooGirl, Solari
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/plasticheartsurgery/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/plasticheartsurgery/)*

@@ -1,6 +1,6 @@
 # Vanda Forte
 
-Vanda Forte is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Marseille, Marseille on Thu, 12 Nov 2026.
+Vanda Forte is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Marseille, Marseille on Thu, 12 Nov 2026.
 
 Vanda Forte is a techno and bass artist based in France, with 22 gigs on soundcheck across Marseille, Paris and Strasbourg. Often billed alongside Mystique, CABALE and DouceSoeur. Next up: TBA - Marseille, Marseille on Thu 12 Nov.
 
@@ -12,6 +12,7 @@ Vanda Forte is a techno and bass artist based in France, with 22 gigs on soundch
 
 ## Recently played
 
+- TBA - Marseille, Marseille · Thu, 12 Nov 2026
 - Petit Bain, Paris · Sat, 7 Nov 2026
 - Karmen Camina, Strasbourg · Fri, 12 Jun 2026
 - Petit CAB, Marseille · Wed, 6 May 2026
@@ -19,10 +20,9 @@ Vanda Forte is a techno and bass artist based in France, with 22 gigs on soundch
 - Petit CAB, Marseille · Fri, 19 Sept 2025
 - Embobineuse, Marseille · Fri, 13 Jun 2025
 - Friche Belle de Mai, Marseille · Fri, 6 Jun 2025
-- Cabaret Sauvage, Paris · Fri, 7 Mar 2025
 
 ## Shares bills with
 
 Mystique (2), CABALE, DouceSoeur
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vandaforte/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vandaforte/)*

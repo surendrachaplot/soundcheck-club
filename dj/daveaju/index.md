@@ -1,18 +1,18 @@
 # Dave Aju
 
-Dave Aju is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Monarch, San Francisco/Oakland on Thu, 12 Nov 2026.
+Dave Aju is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA, Los Angeles on Fri, 13 Nov 2026.
 
-Dave Aju is a house and disco artist based in United States of America, with 28 gigs on soundcheck across Berlin, Los Angeles, San Diego and San Francisco/Oakland. Often billed alongside Tavish, SONNS and Stacy Christine. Next up: Monarch, San Francisco/Oakland on Thu 12 Nov.
+Dave Aju is a house and disco artist based in United States of America, with 28 gigs on soundcheck across Berlin, Los Angeles, San Diego and San Francisco/Oakland. Often billed alongside Tavish, SONNS and Stacy Christine. Next up: TBA, Los Angeles on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 12 Nov 2026 | Monarch | San Francisco/Oakland |
 | Fri, 13 Nov 2026 | TBA | Los Angeles |
 
 ## Recently played
 
+- Monarch, San Francisco/Oakland · Thu, 12 Nov 2026
 - Yamashiro Hollywood, Los Angeles · Sat, 31 Oct 2026
 - Lost and Found, Los Angeles · Fri, 31 Jul 2026
 - Sound by the Sea, San Diego · Sat, 11 Apr 2026
@@ -20,10 +20,9 @@ Dave Aju is a house and disco artist based in United States of America, with 28 
 - TBA - SV STUDIOS, Los Angeles · Sat, 31 Jan 2026
 - Yamashiro Hollywood, Los Angeles · Fri, 31 Oct 2025
 - TBA - 555 Pico Ave, Long Beach CA 90802, Los Angeles · Sat, 27 Sept 2025
-- Neuehouse Hollywood, Los Angeles · Sat, 31 May 2025
 
 ## Shares bills with
 
 Tavish, SONNS, Stacy Christine
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daveaju/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daveaju/)*

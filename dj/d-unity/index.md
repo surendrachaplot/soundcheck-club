@@ -1,6 +1,6 @@
 # D-Unity
 
-D-Unity is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Sunset Atlanta, Atlanta on Sun, 15 Nov 2026.
+D-Unity is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Sunset Atlanta, Atlanta on Sun, 15 Nov 2026.
 
 D-Unity is a techno and house artist based in Canada, with 18 gigs on soundcheck across Atlanta, Austin, Bali and Chicago and 10 more. Often billed alongside Shaun Moses, 9309 and AVI.avi. Next up: Sunset Atlanta, Atlanta on Sun 15 Nov.
 
@@ -26,4 +26,4 @@ D-Unity is a techno and house artist based in Canada, with 18 gigs on soundcheck
 
 Shaun Moses, 9309, AVI.avi
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/d-unity/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/d-unity/)*

@@ -1,6 +1,6 @@
 # Playhaus
 
-Playhaus is a music venue in Krakow with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "Expedition with Nicole b2b Troy Vladislavovich" on Fri, 27 Nov 2026.
+Playhaus is a music venue in Krakow with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "Expedition with Nicole b2b Troy Vladislavovich" on Fri, 27 Nov 2026.
 
 Playhaus is a music venue in Krakow listed on soundcheck. 1 upcoming gig, with line-ups including Lil'Dave and Nadezh No. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Playhaus is a music venue in Krakow listed on soundcheck. 1 upcoming gig, with l
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Expedition with Nicole b2b Troy Vladislavovich | Lil'Dave, Nadezh No |
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/playhaus/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/playhaus/)*

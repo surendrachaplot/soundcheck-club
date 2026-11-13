@@ -1,6 +1,6 @@
 # Brown Amy
 
-Brown Amy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Mothership, San Francisco/Oakland on Fri, 13 Nov 2026.
+Brown Amy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Mothership, San Francisco/Oakland on Fri, 13 Nov 2026.
 
 Brown Amy is a house and techno artist based in United States of America, with 37 gigs on soundcheck across Los Angeles, Pittsburgh, Portland and San Francisco/Oakland. Often billed alongside DE ALMA, Vin Sol and DJ M3. Next up: Mothership, San Francisco/Oakland on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Brown Amy is a house and techno artist based in United States of America, with 3
 
 DE ALMA, Vin Sol, DJ M3
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brownamy/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brownamy/)*

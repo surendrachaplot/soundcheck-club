@@ -1,6 +1,6 @@
 # Sutsche
 
-Sutsche is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Goldener Salon, Hamburg on Sun, 15 Nov 2026.
+Sutsche is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Goldener Salon, Hamburg on Sun, 15 Nov 2026.
 
 Sutsche is a techno and house artist based in Germany, with 25 gigs on soundcheck across Berlin, Copenhagen, Hamburg and Zurich. Often billed alongside Mimi Love, Kotoe and Mila Stern. Next up: Goldener Salon, Hamburg on Sun 15 Nov.
 
@@ -26,4 +26,4 @@ Sutsche is a techno and house artist based in Germany, with 25 gigs on soundchec
 
 Mimi Love, Kotoe, Mila Stern
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sutsche/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sutsche/)*

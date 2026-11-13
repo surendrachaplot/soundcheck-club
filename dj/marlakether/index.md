@@ -1,6 +1,6 @@
 # Marla Kether
 
-Marla Kether is a House and Jazz artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Colour Factory, London on Fri, 20 Nov 2026.
+Marla Kether is a House and Jazz artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Colour Factory, London on Fri, 20 Nov 2026.
 
 Marla Kether is a house and jazz artist based in United Kingdom, with 39 gigs on soundcheck across Bristol, Cardiff, Lisbon and London and 1 more. Often billed alongside Cable!, Jamie Joy and Baitman. Next up: Colour Factory, London on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Marla Kether is a house and jazz artist based in United Kingdom, with 39 gigs on
 
 Cable!, Jamie Joy, Baitman
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marlakether/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marlakether/)*

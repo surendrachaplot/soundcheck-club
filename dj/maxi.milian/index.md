@@ -1,6 +1,6 @@
 # Maxi
 
-Maxi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at 宀 Club, Hong Kong on Sat, 28 Nov 2026.
+Maxi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at 宀 Club, Hong Kong on Sat, 28 Nov 2026.
 
 Maxi is a house and techno artist based in China, with 15 gigs on soundcheck across Hong Kong. Often billed alongside suz eq, enzyme and Vence. Next up: 宀 Club, Hong Kong on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Maxi is a house and techno artist based in China, with 15 gigs on soundcheck acr
 
 suz eq, enzyme, Vence
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxi.milian/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxi.milian/)*

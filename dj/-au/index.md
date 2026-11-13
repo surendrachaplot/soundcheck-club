@@ -1,6 +1,6 @@
 # <777>
 
-<777> is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Flinders, Sydney on Sat, 5 Dec 2026.
+<777> is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Flinders, Sydney on Sat, 5 Dec 2026.
 
 <777> is a techno and industrial artist based in Colombia, with 12 gigs on soundcheck across Sydney. Often billed alongside DBS, Sam I Am and pretzelz. Next up: The Flinders, Sydney on Sat 5 Dec.
 
@@ -25,4 +25,4 @@
 
 DBS (1), Sam I Am, pretzelz
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/-au/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/-au/)*

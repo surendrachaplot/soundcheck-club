@@ -1,11 +1,17 @@
 # ADR, Stef Davidse, Tino - Joshua Brooks Manchester at Joshua Brooks
 
-ADR, Stef Davidse, Tino - Joshua Brooks Manchester on Fri 11 Dec, Manchester. House and Tech House. See the line-up on soundcheck.
+ADR, Stef Davidse, Tino - Joshua Brooks Manchester on Fri 11 Dec, Manchester. 3 artists: ADR (UK), Stef Davidse and Tino. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Fri, 11 Dec 2026 |
 | Venue | Joshua Brooks |
 | City | Manchester |
+
+## Line-up
+
+- ADR (UK)
+- Stef Davidse
+- Tino
 
 *Source: [soundcheck](https://soundcheck.club/e/2549310-adr-stef-davidse-tino-joshua-brooks-manchester-at-joshua-bro/)*

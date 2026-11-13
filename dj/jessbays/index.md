@@ -1,6 +1,6 @@
 # Jess Bays
 
-Jess Bays is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Ministry Of Sound, London on Sat, 14 Nov 2026.
+Jess Bays is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Ministry Of Sound, London on Sat, 14 Nov 2026.
 
 Jess Bays is a house and tech house artist based in United Kingdom, with 53 gigs on soundcheck across Amsterdam, Belfast, Birmingham and Brighton and 16 more. Often billed alongside Danny Howard, Steven Cee and Brian Smith. Next up: Ministry Of Sound, London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Jess Bays is a house and tech house artist based in United Kingdom, with 53 gigs
 
 Danny Howard, Steven Cee, Brian Smith
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jessbays/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jessbays/)*

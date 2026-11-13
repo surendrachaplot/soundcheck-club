@@ -1,6 +1,6 @@
 # Lavandonia
 
-Lavandonia is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Legal, Munich on Sat, 21 Nov 2026.
+Lavandonia is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Legal, Munich on Sat, 21 Nov 2026.
 
 Lavandonia is a house and techno artist based in Italy, with 42 gigs on soundcheck across Barcelona, Frankfurt, Munich and Naples and 1 more. Often billed alongside Alles Andere, Alessio Barletta and Muallem. Next up: Legal, Munich on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Lavandonia is a house and techno artist based in Italy, with 42 gigs on soundche
 
 Alles Andere, Alessio Barletta, Muallem
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lavandonia/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lavandonia/)*

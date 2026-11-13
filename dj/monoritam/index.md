@@ -1,6 +1,6 @@
 # MONORITAM
 
-MONORITAM is a Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at 8sixa, Amsterdam on Sat, 28 Nov 2026.
+MONORITAM is a Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at 8sixa, Amsterdam on Sat, 28 Nov 2026.
 
 MONORITAM is a techno artist based in Netherlands, with 6 gigs on soundcheck across Amsterdam. Often billed alongside Dexon, CHAFA and Emex. Next up: 8sixa, Amsterdam on Sat 28 Nov.
 
@@ -22,4 +22,4 @@ MONORITAM is a techno artist based in Netherlands, with 6 gigs on soundcheck acr
 
 Dexon, CHAFA, Emex
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/monoritam/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/monoritam/)*

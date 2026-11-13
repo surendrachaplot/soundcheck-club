@@ -1,6 +1,6 @@
 # VILENA
 
-VILENA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at 2n1t3 HQ, Los Angeles on Sat, 28 Nov 2026.
+VILENA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at 2n1t3 HQ, Los Angeles on Sat, 28 Nov 2026.
 
 VILENA is a techno and house artist based in United States of America, with 18 gigs on soundcheck across Los Angeles, New York City and San Diego. Often billed alongside BLANC MAMBA, Capes and Curses. Next up: 2n1t3 HQ, Los Angeles on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ VILENA is a techno and house artist based in United States of America, with 18 g
 
 BLANC MAMBA, Capes, Curses
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vilena/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vilena/)*

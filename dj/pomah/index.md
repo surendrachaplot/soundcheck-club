@@ -1,6 +1,6 @@
 # Pomah
 
-Pomah is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Turbina, Budapest on Sat, 28 Nov 2026.
+Pomah is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Turbina, Budapest on Sat, 28 Nov 2026.
 
 Pomah is a techno and industrial artist based in Germany, with 35 gigs on soundcheck across Berlin, Budapest, Copenhagen and Frankfurt and 6 more. Often billed alongside Axciid, GLASSBASS and Karashò. Next up: Turbina, Budapest on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Pomah is a techno and industrial artist based in Germany, with 35 gigs on soundc
 
 Axciid, GLASSBASS, Karashò
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pomah/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pomah/)*

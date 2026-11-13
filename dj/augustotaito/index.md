@@ -1,6 +1,6 @@
 # Augusto Taito
 
-Augusto Taito is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Tresor / Globus, Berlin on Mon, 28 Dec 2026.
+Augusto Taito is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Tresor / Globus, Berlin on Mon, 28 Dec 2026.
 
 Augusto Taito is a techno and house artist based in Argentina, with 27 gigs on soundcheck across Amsterdam, Berlin, Brussels and Buenos Aires and 5 more. Often billed alongside Abstract Division, BLANKA and DJ Westfa. Next up: Tresor / Globus, Berlin on Mon 28 Dec.
 
@@ -26,4 +26,4 @@ Augusto Taito is a techno and house artist based in Argentina, with 27 gigs on s
 
 Abstract Division, BLANKA, DJ Westfa
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/augustotaito/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/augustotaito/)*

@@ -1,14 +1,15 @@
 # LUCH (MEX)
 
-LUCH (MEX) is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Hong Kong Observation Wheel & AIA Vitality Park, Hong Kong on Sat, 21 Nov 2026.
+LUCH (MEX) is a Afro House and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Hong Kong Observation Wheel & AIA Vitality Park, Hong Kong on Sat, 21 Nov 2026.
 
-LUCH (MEX) is an afro house and house artist based in Mexico, with 31 gigs on soundcheck across Barcelona, Chicago, Guadalajara and Hong Kong and 15 more. Often billed alongside Maxi Meraki, Jamie Jones and BLOND:ISH. Next up: Hong Kong Observation Wheel & AIA Vitality Park, Hong Kong on Sat 21 Nov.
+LUCH (MEX) is an afro house and house artist based in Mexico, with 32 gigs on soundcheck across Bali, Barcelona, Chicago and Guadalajara and 16 more. Often billed alongside Maxi Meraki, Jamie Jones and BLOND:ISH. Next up: Hong Kong Observation Wheel & AIA Vitality Park, Hong Kong on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Hong Kong Observation Wheel & AIA Vitality Park | Hong Kong |
+| Sat, 28 Nov 2026 | Zumana Bali | Bali |
 | Fri, 4 Dec 2026 | Factory Town | Miami |
 
 ## Recently played
@@ -26,4 +27,4 @@ LUCH (MEX) is an afro house and house artist based in Mexico, with 31 gigs on so
 
 Maxi Meraki, Jamie Jones, BLOND:ISH
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luch-mex/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luch-mex/)*

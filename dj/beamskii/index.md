@@ -1,13 +1,14 @@
 # Beamskii
 
-Beamskii is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Igloofest, Montreal on Sat, 23 Jan 2027.
+Beamskii is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Bar Le Ritz PDB, Montreal on Fri, 20 Nov 2026.
 
-Beamskii is a hardcore and techno artist based in Canada, with 42 gigs on soundcheck across Mexico City, Montreal and Toronto. Often billed alongside Outback, the bald girl and Neo Edo. Next up: Igloofest, Montreal on Sat 23 Jan.
+Beamskii is a hardcore and techno artist based in Canada, with 43 gigs on soundcheck across Mexico City, Montreal and Toronto. Often billed alongside Outback, the bald girl and Neo Edo. Next up: Bar Le Ritz PDB, Montreal on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | Bar Le Ritz PDB | Montreal |
 | Sat, 23 Jan 2027 | Igloofest | Montreal |
 
 ## Recently played
@@ -25,4 +26,4 @@ Beamskii is a hardcore and techno artist based in Canada, with 42 gigs on soundc
 
 Outback, the bald girl, Neo Edo
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beamskii/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beamskii/)*

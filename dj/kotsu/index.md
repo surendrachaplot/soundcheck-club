@@ -1,6 +1,6 @@
 # KOTSU
 
-KOTSU is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Enter Shibuya, Tokyo on Fri, 13 Nov 2026.
+KOTSU is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Enter Shibuya, Tokyo on Fri, 13 Nov 2026.
 
 KOTSU is a house and techno artist based in Japan, with 241 gigs on soundcheck across Kyoto, London, Osaka and Seoul and 3 more. Often billed alongside Nari, kengotaki and Lomax. Next up: Enter Shibuya, Tokyo on Fri 13 Nov.
 
@@ -28,4 +28,4 @@ KOTSU is a house and techno artist based in Japan, with 241 gigs on soundcheck a
 
 Nari (2), kengotaki, Lomax
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kotsu/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kotsu/)*

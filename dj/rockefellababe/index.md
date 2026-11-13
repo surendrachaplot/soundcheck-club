@@ -1,13 +1,14 @@
 # Rockefellababe
 
-Rockefellababe is a Dancehall and R&B artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Maassilo, Rotterdam on Thu, 31 Dec 2026.
+Rockefellababe is a Dancehall and R&B artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Skatecafe, Amsterdam on Sat, 12 Dec 2026.
 
-Rockefellababe is a dancehall and r&b artist based in Netherlands, with 14 gigs on soundcheck across Amsterdam, Antwerp, Rotterdam and Utrecht. Often billed alongside Benny Rodrigues, MELV!EE and WaxFiend. Next up: Maassilo, Rotterdam on Thu 31 Dec.
+Rockefellababe is a dancehall and r&b artist based in Netherlands, with 15 gigs on soundcheck across Amsterdam, Antwerp, Rotterdam and Utrecht. Often billed alongside Benny Rodrigues, MELV!EE and WaxFiend. Next up: Skatecafe, Amsterdam on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Dec 2026 | Skatecafe | Amsterdam |
 | Thu, 31 Dec 2026 | Maassilo | Rotterdam |
 
 ## Recently played
@@ -25,4 +26,4 @@ Rockefellababe is a dancehall and r&b artist based in Netherlands, with 14 gigs 
 
 Benny Rodrigues, MELV!EE, WaxFiend
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rockefellababe/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rockefellababe/)*

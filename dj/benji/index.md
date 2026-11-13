@@ -1,6 +1,6 @@
 # Benji
 
-Benji is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Yan Gastro, Istanbul on Sat, 14 Nov 2026.
+Benji is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Yan Gastro, Istanbul on Sat, 14 Nov 2026.
 
 Benji is a house and techno artist based in Italy, with 11 gigs on soundcheck across Amsterdam, Cologne, Istanbul and Mexico City. Often billed alongside Alexander Koning, Dave Leatherman and Erick E. Next up: Yan Gastro, Istanbul on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Benji is a house and techno artist based in Italy, with 11 gigs on soundcheck ac
 
 Alexander Koning, Dave Leatherman, Erick E
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benji/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benji/)*

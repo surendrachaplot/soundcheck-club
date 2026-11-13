@@ -1,6 +1,6 @@
 # Bjørn
 
-Bjørn is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Oakland Warehouse, San Francisco/Oakland on Fri, 20 Nov 2026.
+Bjørn is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Oakland Warehouse, San Francisco/Oakland on Fri, 20 Nov 2026.
 
 Bjørn is a techno and house artist based in United States of America, with 5 gigs on soundcheck across Hamburg and San Francisco/Oakland. Often billed alongside Claire Short, Jordan and 480P (US). Next up: TBA - Oakland Warehouse, San Francisco/Oakland on Fri 20 Nov.
 
@@ -21,4 +21,4 @@ Bjørn is a techno and house artist based in United States of America, with 5 gi
 
 Claire Short, Jordan, 480P (US)
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bjorn-us/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bjorn-us/)*

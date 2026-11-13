@@ -1,6 +1,6 @@
 # Luna (1)
 
-Luna (1) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Angel Music Bar, Melbourne on Sat, 14 Nov 2026.
+Luna (1) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Angel Music Bar, Melbourne on Sat, 14 Nov 2026.
 
 Luna is a house and techno artist, with 43 gigs on soundcheck across Amsterdam, Austin, Bangkok and Budapest and 17 more. Often billed alongside Pavo, Alexander Koning and Buzz Fuzz. Next up: Angel Music Bar, Melbourne on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Luna is a house and techno artist, with 43 gigs on soundcheck across Amsterdam, 
 
 Pavo, Alexander Koning, Buzz Fuzz
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luna-1/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luna-1/)*

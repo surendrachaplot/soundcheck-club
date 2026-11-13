@@ -1,14 +1,15 @@
 # SOLE DOSI
 
-SOLE DOSI is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Ankali & Planeta Za, Prague on Fri, 20 Nov 2026.
+SOLE DOSI is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Ankali & Planeta Za, Prague on Fri, 20 Nov 2026.
 
-SOLE DOSI is a techno and house artist based in Italy, with 99 gigs on soundcheck across Amsterdam, Athens, Basel and Berlin and 13 more. Often billed alongside Paula Sanz, ALDAVE and Carmen Lisa. Next up: Ankali & Planeta Za, Prague on Fri 20 Nov.
+SOLE DOSI is a techno and house artist based in Italy, with 100 gigs on soundcheck across Amsterdam, Athens, Basel and Berlin and 13 more. Often billed alongside Paula Sanz, ALDAVE and Carmen Lisa. Next up: Ankali & Planeta Za, Prague on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Ankali & Planeta Za | Prague |
+| Fri, 18 Dec 2026 | Lokschuppen Berlin | Berlin |
 | Wed, 30 Dec 2026 | MUENZE | Berlin |
 | Fri, 5 Mar 2027 | Gate Milano | Milan |
 
@@ -27,4 +28,4 @@ SOLE DOSI is a techno and house artist based in Italy, with 99 gigs on soundchec
 
 Paula Sanz, ALDAVE, Carmen Lisa (2)
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soledosi/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soledosi/)*

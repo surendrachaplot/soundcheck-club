@@ -1,8 +1,8 @@
 # JUN INAGAWA
 
-JUN INAGAWA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at West Harlem, Kyoto on Sun, 15 Nov 2026.
+JUN INAGAWA is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at West Harlem, Kyoto on Sun, 15 Nov 2026.
 
-JUN INAGAWA is a techno and house artist based in Japan, with 198 gigs on soundcheck across Brussels, Hanoi, Ho Chi Minh City and Kyoto and 5 more. Often billed alongside ecec, Eichi Abe and OKAMOTO REIJI. Next up: West Harlem, Kyoto on Sun 15 Nov.
+JUN INAGAWA is a techno and house artist based in Japan, with 199 gigs on soundcheck across Brussels, Hanoi, Ho Chi Minh City and Kyoto and 5 more. Often billed alongside ecec, Eichi Abe and OKAMOTO REIJI. Next up: West Harlem, Kyoto on Sun 15 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ JUN INAGAWA is a techno and house artist based in Japan, with 198 gigs on soundc
 | --- | --- | --- |
 | Sun, 15 Nov 2026 | West Harlem | Kyoto |
 | Sun, 15 Nov 2026 | WALL & WALL | Tokyo |
+| Sat, 21 Nov 2026 | Saloon | Tokyo |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ JUN INAGAWA is a techno and house artist based in Japan, with 198 gigs on soundc
 
 ecec, Eichi Abe, OKAMOTO REIJI
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juninagawa/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juninagawa/)*

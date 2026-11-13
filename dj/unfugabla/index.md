@@ -1,6 +1,6 @@
 # Unfug Abla
 
-Unfug Abla is a Hip-Hop and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Golden Pudel Club, Hamburg on Sun, 22 Nov 2026.
+Unfug Abla is a Hip-Hop and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Golden Pudel Club, Hamburg on Sun, 22 Nov 2026.
 
 Unfug Abla is a hip-hop and bass artist based in Germany, with 35 gigs on soundcheck across Berlin and Hamburg. Often billed alongside DJ SOURCE, Roof and Alphamob. Next up: Golden Pudel Club, Hamburg on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ Unfug Abla is a hip-hop and bass artist based in Germany, with 35 gigs on soundc
 
 DJ SOURCE, Roof (2), Alphamob
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/unfugabla/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/unfugabla/)*

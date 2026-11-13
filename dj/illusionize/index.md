@@ -1,6 +1,6 @@
 # ILLUSIONIZE
 
-ILLUSIONIZE is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Museu do Amanhã, Rio de Janeiro on Mon, 8 Feb 2027.
+ILLUSIONIZE is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Museu do Amanhã, Rio de Janeiro on Mon, 8 Feb 2027.
 
 ILLUSIONIZE is a tech house and house artist based in Brazil, with 17 gigs on soundcheck across Austin, Boston, Buenos Aires and Chicago and 5 more. Often billed alongside Viot, Above & Beyond and Adam Sellouk. Next up: Museu do Amanhã, Rio de Janeiro on Mon 8 Feb.
 
@@ -25,4 +25,4 @@ ILLUSIONIZE is a tech house and house artist based in Brazil, with 17 gigs on so
 
 Viot, Above & Beyond, Adam Sellouk
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/illusionize/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/illusionize/)*

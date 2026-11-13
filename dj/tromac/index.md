@@ -1,6 +1,6 @@
 # Tromac
 
-Tromac is a Club and Ghetto Tech artist with 7 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Podlasie Club, Chicago on Sat, 14 Nov 2026.
+Tromac is a Club and Ghetto Tech artist with 7 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Podlasie Club, Chicago on Sat, 14 Nov 2026.
 
 Tromac is a club and ghetto tech artist based in United States of America, with 172 gigs on soundcheck across Atlanta, Austin, Baltimore and Boston and 14 more. Often billed alongside DJ-SUN, flotussin and DJ Dolla. Next up: Podlasie Club, Chicago on Sat 14 Nov.
 
@@ -31,4 +31,4 @@ Tromac is a club and ghetto tech artist based in United States of America, with 
 
 DJ-SUN, flotussin, DJ Dolla
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tromac/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tromac/)*

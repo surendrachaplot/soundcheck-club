@@ -1,6 +1,6 @@
 # 140Tokyo at Circus Tokyo
 
-140Tokyo at Circus Tokyo on Sun 22 Nov, Tokyo. 5 artists: DUCK, Ogasawara, RashBone and saqess and 1 more. Bass and Garage. See the line-up on soundcheck.
+140Tokyo at Circus Tokyo on Sun 22 Nov, Tokyo. 6 artists: DUCK, kskskm, Ogasawara and RashBone and 2 more. Bass and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@
 ## Line-up
 
 - DUCK
+- kskskm
 - Ogasawara
 - RashBone
 - saqess

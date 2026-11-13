@@ -1,8 +1,8 @@
 # Botanique
 
-Botanique is a music venue in Brussels with 15 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Clara Kimera + Coals" on Fri, 13 Nov 2026.
+Botanique is a music venue in Brussels with 16 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Clara Kimera + Coals" on Fri, 13 Nov 2026.
 
-Botanique is a music venue in Brussels listed on soundcheck. 15 upcoming gigs, with line-ups including Anton Friisgaard, Aponogeton, Baba Stiltz and Ben Bertrand and 2 more. See dates, start times and who's playing. Koningsstraat 236, 1210 Brussels, Belgium.
+Botanique is a music venue in Brussels listed on soundcheck. 16 upcoming gigs, with line-ups including Anton Friisgaard, Aponogeton, Baba Stiltz and Ben Bertrand and 2 more. See dates, start times and who's playing. Koningsstraat 236, 1210 Brussels, Belgium.
 
 ## What's on
 
@@ -10,6 +10,7 @@ Botanique is a music venue in Brussels listed on soundcheck. 15 upcoming gigs, w
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Clara Kimera + Coals | Coals |
 | Sat, 14 Nov 2026 | Opening Nights Ars Musica: Night Lives |  |
+| Wed, 18 Nov 2026 | Maria Arnal - Bulie Jordeaux | Bulie Jordeaux |
 | Thu, 19 Nov 2026 | Prison Religion + EDU & JUDGITZU | JUDGITZU, Prison Religion |
 | Fri, 20 Nov 2026 | Mietze Conte | Mietze Conte |
 | Thu, 26 Nov 2026 | Judith Kiddo - Melissa Weikart |  |
@@ -17,10 +18,9 @@ Botanique is a music venue in Brussels listed on soundcheck. 15 upcoming gigs, w
 | Tue, 1 Dec 2026 | Evanora Unlimited | Evanora Unlimited |
 | Thu, 3 Dec 2026 | Pongo | Bona Léa, Pongo |
 | Thu, 10 Dec 2026 | Kevin Richard Martin presents 'Sub Zero' + Farida Amadou  |  |
-| Sat, 12 Dec 2026 | Sub Rosa Label Night | BOW (1), Scanner |
 
 ## Address
 
 Koningsstraat 236, 1210 Brussels, Belgium, Brussels
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/botanique/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/botanique/)*

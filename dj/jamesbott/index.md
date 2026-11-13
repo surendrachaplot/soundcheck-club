@@ -1,6 +1,6 @@
 # James Bott
 
-James Bott is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Cervecería Artesanah, Honduras on Fri, 20 Nov 2026.
+James Bott is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Cervecería Artesanah, Honduras on Fri, 20 Nov 2026.
 
 James Bott is a house and minimal artist based in United Kingdom, with 13 gigs on soundcheck across Guadalajara, Honduras, Mexico City and Monterrey. Often billed alongside Mike.D, RUGE and Sonoma. Next up: Cervecería Artesanah, Honduras on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ James Bott is a house and minimal artist based in United Kingdom, with 13 gigs o
 
 Mike.D, RUGE, Sonoma
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesbott/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesbott/)*

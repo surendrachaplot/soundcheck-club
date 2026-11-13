@@ -1,6 +1,6 @@
 # zorenLo
 
-zorenLo is a Latin Bass and Guaracha artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Bossa Nova Civic Club, New York City on Fri, 13 Nov 2026.
+zorenLo is a Latin Bass and Guaracha artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Bossa Nova Civic Club, New York City on Fri, 13 Nov 2026.
 
 zorenLo is a latin bass and guaracha artist based in United States of America, with 51 gigs on soundcheck across Barcelona, Bogotá, Madrid and New York City and 1 more. Often billed alongside grunge mum, Aleroj and Linapary. Next up: Bossa Nova Civic Club, New York City on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ zorenLo is a latin bass and guaracha artist based in United States of America, w
 
 grunge mum, Aleroj, Linapary
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zorenlo/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zorenlo/)*

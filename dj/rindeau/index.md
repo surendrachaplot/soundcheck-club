@@ -1,6 +1,6 @@
 # Rindeau
 
-Rindeau is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Hertz, Seoul on Sat, 14 Nov 2026.
+Rindeau is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Hertz, Seoul on Sat, 14 Nov 2026.
 
 Rindeau is a house and electro artist based in Argentina, with 51 gigs on soundcheck across Barcelona, Buenos Aires, Chongqing and Madrid and 5 more. Often billed alongside Stefano Andriezzi, Angelo Cortines and Villaça. Next up: Hertz, Seoul on Sat 14 Nov.
 
@@ -9,7 +9,7 @@ Rindeau is a house and electro artist based in Argentina, with 51 gigs on soundc
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Hertz | Seoul |
-| Sun, 22 Nov 2026 | Macarena Club | Barcelona |
+| Sun, 29 Nov 2026 | Macarena Club | Barcelona |
 
 ## Recently played
 
@@ -26,4 +26,4 @@ Rindeau is a house and electro artist based in Argentina, with 51 gigs on soundc
 
 Stefano Andriezzi, Angelo Cortines, Villaça
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rindeau/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rindeau/)*

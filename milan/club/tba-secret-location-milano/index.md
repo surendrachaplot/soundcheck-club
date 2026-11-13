@@ -1,6 +1,6 @@
 # TBA - Secret Location — Milano
 
-TBA - Secret Location — Milano is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "AXYRON — UNDERGROUND REACTOR - 15 NOVEMBER 2026" on Sun, 15 Nov 2026.
+TBA - Secret Location — Milano is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "AXYRON — UNDERGROUND REACTOR - 15 NOVEMBER 2026" on Sun, 15 Nov 2026.
 
 TBA - Secret Location — Milano is a music venue in Milan listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ TBA - Secret Location — Milano is a music venue in Milan listed on soundcheck.
 | Sun, 15 Nov 2026 | AXYRON — UNDERGROUND REACTOR - 15 NOVEMBER 2026 |  |
 | Sun, 22 Nov 2026 | Voroniks Presents: Chapter KSII |  |
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/tba-secret-location-milano/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/tba-secret-location-milano/)*

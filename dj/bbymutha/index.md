@@ -1,6 +1,6 @@
 # Bbymutha
 
-Bbymutha is a Club and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Metro Baltimore, Baltimore on Sat, 14 Nov 2026.
+Bbymutha is a Club and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Metro Baltimore, Baltimore on Sat, 14 Nov 2026.
 
 Bbymutha is a club and hip-hop artist based in United States of America, with 14 gigs on soundcheck across Adelaide, Atlanta, Baltimore and Chicago and 6 more. Often billed alongside Beverly Chills, Antonina Nowacka and Archangel. Next up: Metro Baltimore, Baltimore on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Bbymutha is a club and hip-hop artist based in United States of America, with 14
 
 Beverly Chills, Antonina Nowacka, Archangel
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bbymutha/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bbymutha/)*

@@ -1,6 +1,6 @@
 # TBA - Frolic Station
 
-TBA - Frolic Station is a music venue in Ho Chi Minh City with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "Frolic Station • Voltage Weekender • Special Guest DJ Keefe (Sg)" on Fri, 13 Nov 2026.
+TBA - Frolic Station is a music venue in Ho Chi Minh City with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "Frolic Station • Voltage Weekender • Special Guest DJ Keefe (Sg)" on Fri, 13 Nov 2026.
 
 TBA - Frolic Station is a music venue in Ho Chi Minh City listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Frolic Station is a music venue in Ho Chi Minh City listed on soundcheck. 
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Frolic Station • Voltage Weekender • Special Guest DJ Keefe (Sg) |  |
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/hochiminhcity/club/tba-frolic-station/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/hochiminhcity/club/tba-frolic-station/)*

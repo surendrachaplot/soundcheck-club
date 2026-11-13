@@ -1,6 +1,6 @@
 # Kellie Allen
 
-Kellie Allen is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Warehouse, Leeds on Sat, 21 Nov 2026.
+Kellie Allen is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Warehouse, Leeds on Sat, 21 Nov 2026.
 
 Kellie Allen is a house and tech house artist based in United Kingdom, with 131 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 23 more. Often billed alongside Prunk, Dennis Quin and M-High. Next up: The Warehouse, Leeds on Sat 21 Nov.
 
@@ -28,4 +28,4 @@ Kellie Allen is a house and tech house artist based in United Kingdom, with 131 
 
 Prunk, Dennis Quin, M-High
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kellieallen/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kellieallen/)*

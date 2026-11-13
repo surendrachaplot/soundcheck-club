@@ -1,6 +1,6 @@
 # Hermeneia
 
-Hermeneia is a Bass and Dancehall artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Ormside Projects, London on Fri, 27 Nov 2026.
+Hermeneia is a Bass and Dancehall artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Ormside Projects, London on Fri, 27 Nov 2026.
 
 Hermeneia is a bass and dancehall artist based in Poland, with 81 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside GWAN, 2K88 and GTTRDMMRNG. Next up: Ormside Projects, London on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Hermeneia is a bass and dancehall artist based in Poland, with 81 gigs on soundc
 
 GWAN, 2K88, GTTRDMMRNG
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hermeneia/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hermeneia/)*

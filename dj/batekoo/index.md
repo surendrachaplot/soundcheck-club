@@ -1,6 +1,6 @@
 # Batekoo
 
-Batekoo is a Baile Funk and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Village Canindé, Sao Paulo on Sat, 14 Nov 2026.
+Batekoo is a Baile Funk and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Village Canindé, Sao Paulo on Sat, 14 Nov 2026.
 
 Batekoo is a baile funk and techno artist based in Germany, with 12 gigs on soundcheck across Amsterdam, Berlin, Hamburg and Lisbon and 4 more. Often billed alongside FRESHPRINCEDABAHIA, Mirands and Clementaum. Next up: Village Canindé, Sao Paulo on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Batekoo is a baile funk and techno artist based in Germany, with 12 gigs on soun
 
 FRESHPRINCEDABAHIA, Mirands, Clementaum
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/batekoo/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/batekoo/)*

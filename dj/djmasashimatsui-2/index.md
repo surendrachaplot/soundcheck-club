@@ -1,6 +1,6 @@
 # DJ MASASHI MATSUI
 
-DJ MASASHI MATSUI is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at DeTour, Tokyo on Sun, 15 Nov 2026.
+DJ MASASHI MATSUI is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at DeTour, Tokyo on Sun, 15 Nov 2026.
 
 DJ MASASHI MATSUI is a house and acid artist based in Japan, with 2 gigs on soundcheck across Tokyo. Often billed alongside Arao, KASHIWAGI and Krankent. Next up: DeTour, Tokyo on Sun 15 Nov.
 
@@ -15,4 +15,4 @@ DJ MASASHI MATSUI is a house and acid artist based in Japan, with 2 gigs on soun
 
 Arao, KASHIWAGI, Krankent
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmasashimatsui-2/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmasashimatsui-2/)*

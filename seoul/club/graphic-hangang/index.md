@@ -1,13 +1,14 @@
 # Graphic Hangang
 
-Graphic Hangang is a music venue in Seoul with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. The next is "Graphic Hangang" on Wed, 4 Nov 2026.
+Graphic Hangang is a music venue in Seoul with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Second Week of November" on Wed, 11 Nov 2026.
 
-Graphic Hangang is a music venue in Seoul listed on soundcheck. 1 upcoming gig, with line-ups including Hogun, Hwiah, JAMWON and Junho and 2 more. See dates, start times and who's playing.
+Graphic Hangang is a music venue in Seoul listed on soundcheck. 2 upcoming gigs, with line-ups including Chae, Chingyi, Edward and FOI (SK) and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 4 Nov 2026 | Graphic Hangang | Hogun, Hwiah, JAMWON, Junho, MOAH, PAIK, SINAE, WEEUN KIM, Yeonju |
+| Wed, 11 Nov 2026 | Second Week of November | Chae, Chingyi, FOI (SK), Hogun, Hwiah, KYVU, Mimiq (2), Minuc, Shingo, Shinyoung, VEL (MA), WEEUN KIM, Yeji |
+| Sat, 28 Nov 2026 | giegling in Seoul | Edward, Konstantin, Lawrence, Yamour |
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/graphic-hangang/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/graphic-hangang/)*

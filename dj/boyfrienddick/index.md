@@ -1,13 +1,14 @@
 # Boyfriend Dick
 
-Boyfriend Dick is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Menjo's, Detroit on Sat, 28 Nov 2026.
+Boyfriend Dick is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Eagle of Detroit, Detroit on Wed, 25 Nov 2026.
 
-Boyfriend Dick is a techno and club artist based in United States of America, with 52 gigs on soundcheck across Chicago, Detroit, Leipzig and London and 8 more. Often billed alongside Garrison XR, Amino and Luca Miel. Next up: Menjo's, Detroit on Sat 28 Nov.
+Boyfriend Dick is a techno and club artist based in United States of America, with 53 gigs on soundcheck across Chicago, Detroit, Leipzig and London and 8 more. Often billed alongside Garrison XR, Amino and bounce kisses. Next up: The Eagle of Detroit, Detroit on Wed 25 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 25 Nov 2026 | The Eagle of Detroit | Detroit |
 | Sat, 28 Nov 2026 | Menjo's | Detroit |
 | Sat, 26 Dec 2026 | Olympus Theater | Detroit |
 
@@ -24,6 +25,6 @@ Boyfriend Dick is a techno and club artist based in United States of America, wi
 
 ## Shares bills with
 
-Garrison XR, Amino, Luca Miel
+Garrison XR, Amino, bounce kisses
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boyfrienddick/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boyfrienddick/)*

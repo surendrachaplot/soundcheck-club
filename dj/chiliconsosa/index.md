@@ -1,6 +1,6 @@
 # Chili con Sosa
 
-Chili con Sosa is a Techno and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at ÆDEN, Berlin on Fri, 27 Nov 2026.
+Chili con Sosa is a Techno and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at ÆDEN, Berlin on Fri, 27 Nov 2026.
 
 Chili con Sosa is a techno and reggaeton artist based in Mexico, with 33 gigs on soundcheck across Berlin and London. Often billed alongside Berfu, REEZN and Orbi. Next up: ÆDEN, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Chili con Sosa is a techno and reggaeton artist based in Mexico, with 33 gigs on
 
 Berfu, REEZN, Orbi
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chiliconsosa/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chiliconsosa/)*

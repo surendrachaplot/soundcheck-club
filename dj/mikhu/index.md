@@ -1,6 +1,6 @@
 # Mikhu
 
-Mikhu is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Nordstern, Basel on Thu, 31 Dec 2026.
+Mikhu is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Nordstern, Basel on Thu, 31 Dec 2026.
 
 Mikhu is a minimal and house artist, with 18 gigs on soundcheck across Basel. Often billed alongside Gianni Callipari, Comzy and Yare. Next up: Nordstern, Basel on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Mikhu is a minimal and house artist, with 18 gigs on soundcheck across Basel. Of
 
 Gianni Callipari, Comzy, Yare
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikhu/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikhu/)*

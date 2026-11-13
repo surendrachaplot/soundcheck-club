@@ -1,6 +1,6 @@
 # Joshwa (IT)
 
-Joshwa (IT) is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at NOS Event Center, Los-angeles on Thu, 31 Dec 2026.
+Joshwa (IT) is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at NOS Event Center, Los-angeles on Thu, 31 Dec 2026.
 
 Joshwa (IT) is a house and tech house artist based in Italy, with 25 gigs on soundcheck across Amsterdam, Austin, Boston and Chicago and 7 more. Often billed alongside Archie Hamilton, Jackie Hollander and KREAM. Next up: NOS Event Center, Los Angeles on Thu 31 Dec.
 
@@ -27,4 +27,4 @@ Joshwa (IT) is a house and tech house artist based in Italy, with 25 gigs on sou
 
 Archie Hamilton, Jackie Hollander, KREAM
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshwa/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshwa/)*

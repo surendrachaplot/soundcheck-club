@@ -1,6 +1,6 @@
 # stranger (NL)
 
-stranger (NL) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 12 Dec 2026.
+stranger (NL) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 12 Dec 2026.
 
 stranger (NL) is a techno and house artist based in Netherlands, with 98 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 27 more. Often billed alongside Chlär, DAX J and Beste Hira. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ stranger (NL) is a techno and house artist based in Netherlands, with 98 gigs on
 
 Chlär, DAX J, Beste Hira
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stranger-nl/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stranger-nl/)*

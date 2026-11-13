@@ -1,19 +1,26 @@
 # San Francisco
 
-San Francisco is a music venue in Amsterdam with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Recess & The New Originals" on Fri, 23 Oct 2026.
+San Francisco is a music venue in Amsterdam with 10 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Nico Borgio & Marvin" on Fri, 13 Nov 2026.
 
-San Francisco is a music venue in Amsterdam listed on soundcheck. 3 upcoming gigs, with line-ups including Paula Tape, Alex Kassian, Budino and Camilo Miranda and 2 more. See dates, start times and who's playing. Zeedijk 40, Amsterdam, Netherlands 1012 AZ.
+San Francisco is a music venue in Amsterdam listed on soundcheck. 10 upcoming gigs, with line-ups including Arthur Baron, B Current, Cinema Royale and Dj Heartbreak and 2 more. See dates, start times and who's playing. Zeedijk 40, Amsterdam, Netherlands 1012 AZ.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Recess & The New Originals | Nicky Summers |
-| Sat, 24 Oct 2026 | Field Notes Family Affair | Budino, Camilo Miranda, DJ City, Eternal Love, Field Notes DJs, Interstellar Funk, Ivan Smagghe, Loud E, Manfredas, Mark du Mosch, Mosaic Man, Paula Tape, Robert Bergman, Rosie Ama, Satoshi Yamamura, Sound Metaphors Djs, Tornado Wallace |
-| Sun, 25 Oct 2026 | Cometa 'Coco' Nostra | Alex Kassian, Chee Shimizu, Hiele, Nosedrip, OKO DJ, Sound Metaphors Djs, Zarina |
+| Fri, 13 Nov 2026 | Nico Borgio & Marvin | Marvin, Nico Borgio |
+| Sat, 14 Nov 2026 | Yusu Selectors | yusu selectors |
+| Sun, 15 Nov 2026 | Severja, DJ Heartbreak & Arthur Baron | Arthur Baron, Dj Heartbreak, Severja |
+| Thu, 19 Nov 2026 | Minor Attractions w/ Dan Jose, Moss M & B Current | B Current, Moss M |
+| Fri, 20 Nov 2026 | Dreamcastmoe (45” vinyl set) | dreamcastmoe |
+| Sat, 21 Nov 2026 | Wix’s Birthday Bash | Mr. Wix |
+| Sun, 22 Nov 2026 | Weather Report |  |
+| Thu, 26 Nov 2026 | Cinema Royale | Cinema Royale |
+| Fri, 27 Nov 2026 | Sichuan Territory Kitchen Opening |  |
+| Sat, 28 Nov 2026 | Bar San Francisco 2 Years Anniversary |  |
 
 ## Address
 
 Zeedijk 40, Amsterdam, Netherlands 1012 AZ, Amsterdam
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/san-francisco/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/san-francisco/)*

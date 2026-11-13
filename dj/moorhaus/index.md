@@ -1,6 +1,6 @@
 # Moorhaus
 
-Moorhaus is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at telos.haus, New York City on Fri, 13 Nov 2026.
+Moorhaus is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at telos.haus, New York City on Fri, 13 Nov 2026.
 
 Moorhaus is a house and techno artist based in United States of America, with 28 gigs on soundcheck across Chicago, Madison, Miami and New York City. Often billed alongside Muffy, Dunes of Dawn and ChaseWest. Next up: telos.haus, New York City on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Moorhaus is a house and techno artist based in United States of America, with 28
 
 Muffy, Dunes of Dawn, ChaseWest
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moorhaus/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moorhaus/)*

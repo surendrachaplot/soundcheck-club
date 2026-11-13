@@ -1,8 +1,8 @@
 # Skin On Skin
 
-Skin On Skin is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Mirage, Hanoi on Fri, 13 Nov 2026.
+Skin On Skin is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Mirage, Hanoi on Fri, 13 Nov 2026.
 
-Skin On Skin is a techno and house artist based in South Sudan, with 162 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Antwerp and 67 more. Often billed alongside Mall Grab, KETTAMA and X CLUB.. Next up: Mirage, Hanoi on Fri 13 Nov.
+Skin On Skin is a techno and house artist based in South Sudan, with 163 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Antwerp and 67 more. Often billed alongside Mall Grab, KETTAMA and DJ Gigola. Next up: Mirage, Hanoi on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Skin On Skin is a techno and house artist based in South Sudan, with 162 gigs on
 | Fri, 8 Jan 2027 | OIL Club | Shenzhen |
 | Sat, 27 Feb 2027 | Thoroughbred Park | Australian-capital-territory |
 | Fri, 28 May 2027 | Peckham Rye Park | London |
+| Fri, 4 Jun 2027 | TBA | Glasgow |
 
 ## Recently played
 
@@ -31,6 +32,6 @@ Skin On Skin is a techno and house artist based in South Sudan, with 162 gigs on
 
 ## Shares bills with
 
-Mall Grab, KETTAMA, X CLUB.
+Mall Grab, KETTAMA, DJ Gigola
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skinonskin/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skinonskin/)*

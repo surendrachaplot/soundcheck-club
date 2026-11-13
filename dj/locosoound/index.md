@@ -1,6 +1,6 @@
 # LocoSoound
 
-LocoSoound is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
+LocoSoound is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
 
 LocoSoound is a house and tech house artist based in South Korea, with 14 gigs on soundcheck across Seoul and South Korea. Often billed alongside Liza (KR), Better and NOVA (KR). Next up: TBA - Jacks Bar, South Korea on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ LocoSoound is a house and tech house artist based in South Korea, with 14 gigs o
 
 Liza (KR), Better, NOVA (KR)
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/locosoound/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/locosoound/)*

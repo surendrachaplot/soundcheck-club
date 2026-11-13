@@ -1,8 +1,8 @@
 # Perry Green
 
-Perry Green is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Humboldthain Club, Berlin on Fri, 13 Nov 2026.
+Perry Green is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Humboldthain Club, Berlin on Fri, 13 Nov 2026.
 
-Perry Green is a techno and trance artist based in Germany, with 2 gigs on soundcheck across Berlin. Often billed alongside Cat Vermillion, Kimberly and Sievert Serviert. Next up: Humboldthain Club, Berlin on Fri 13 Nov.
+Perry Green is a techno and trance artist based in Germany, with 2 gigs on soundcheck across Berlin. Often billed alongside Cat Vermillion, FRÆNCIS and Kimberly. Next up: Humboldthain Club, Berlin on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,6 @@ Perry Green is a techno and trance artist based in Germany, with 2 gigs on sound
 
 ## Shares bills with
 
-Cat Vermillion, Kimberly, Sievert Serviert
+Cat Vermillion, FRÆNCIS, Kimberly
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/perrygreen/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/perrygreen/)*

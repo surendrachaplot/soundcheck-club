@@ -1,6 +1,6 @@
 # BABY-B
 
-BABY-B is a Club and Baile Funk artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at La Station - Gare des Mines, Paris on Fri, 20 Nov 2026.
+BABY-B is a Club and Baile Funk artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at La Station - Gare des Mines, Paris on Fri, 20 Nov 2026.
 
 BABY-B is a club and baile funk artist based in France, with 16 gigs on soundcheck across Manchester, Paris and Strasbourg. Often billed alongside Olympe4000, Lüma-G and Stella K. Next up: La Station - Gare des Mines, Paris on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ BABY-B is a club and baile funk artist based in France, with 16 gigs on soundche
 
 Olympe4000, Lüma-G, Stella K
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baby-b/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baby-b/)*

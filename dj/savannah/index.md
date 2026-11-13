@@ -1,6 +1,6 @@
 # SAVANNAH
 
-SAVANNAH is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Clock Factory, Bristol on Fri, 4 Dec 2026.
+SAVANNAH is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Clock Factory, Bristol on Fri, 4 Dec 2026.
 
 SAVANNAH is a drum & bass and jungle artist based in United Kingdom, with 27 gigs on soundcheck across Bristol, London, Manchester and Sheffield. Often billed alongside Jojo Deevoy, JAY-MO and Randoma. Next up: The Clock Factory, Bristol on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ SAVANNAH is a drum & bass and jungle artist based in United Kingdom, with 27 gig
 
 Jojo Deevoy, JAY-MO, Randoma
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/savannah/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/savannah/)*

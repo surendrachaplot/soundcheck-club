@@ -1,6 +1,6 @@
 # Shhhhh
 
-Shhhhh is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Club (o)Utopos, Chubu on Fri, 20 Nov 2026.
+Shhhhh is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Club (o)Utopos, Chubu on Fri, 20 Nov 2026.
 
 Shhhhh is a techno and house artist based in Japan, with 124 gigs on soundcheck across Bali, Chubu, Hanoi and Ho Chi Minh City and 10 more. Often billed alongside YOKOSUN, CHIDA and Compuma. Next up: Club (o)Utopos, Chubu on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ Shhhhh is a techno and house artist based in Japan, with 124 gigs on soundcheck 
 
 YOKOSUN, CHIDA, Compuma
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shhhhh/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shhhhh/)*

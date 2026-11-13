@@ -1,6 +1,6 @@
 # PINK
 
-PINK is a music venue in Manchester with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "Charlie Osborne" on Sat, 6 Feb 2027.
+PINK is a music venue in Manchester with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "Charlie Osborne" on Sat, 6 Feb 2027.
 
 PINK is a music venue in Manchester listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Hilton House  Lord Street, Stockport  SK1 3NA.
 
@@ -14,4 +14,4 @@ PINK is a music venue in Manchester listed on soundcheck. 1 upcoming gig. See da
 
 Hilton House  Lord Street, Stockport  SK1 3NA, Manchester
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/pink/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/pink/)*

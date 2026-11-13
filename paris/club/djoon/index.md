@@ -1,6 +1,6 @@
 # Djoon
 
-Djoon is a music venue in Paris with 7 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Open herbe & Label Affaire invitent Paul Cut" on Fri, 13 Nov 2026.
+Djoon is a music venue in Paris with 7 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Open herbe & Label Affaire invitent Paul Cut" on Fri, 13 Nov 2026.
 
 Djoon is a music venue in Paris listed on soundcheck. 7 upcoming gigs, with line-ups including Broodoo Ramses, Laila Amira, Max Sinàl and Nightchou and 2 more. See dates, start times and who's playing. 22 boulevard Vincent Auriol; 75013; Paris; France.
 
@@ -20,4 +20,4 @@ Djoon is a music venue in Paris listed on soundcheck. 7 upcoming gigs, with line
 
 22 boulevard Vincent Auriol; 75013; Paris; France, Paris
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/djoon/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/djoon/)*

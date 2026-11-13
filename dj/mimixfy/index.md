@@ -1,6 +1,6 @@
 # MĪMĪ x FY
 
-MĪMĪ x FY is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Kater, Berlin on Sat, 28 Nov 2026.
+MĪMĪ x FY is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Kater, Berlin on Sat, 28 Nov 2026.
 
 MĪMĪ x FY are a house and techno duo based in Serbia, with 48 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 18 more. Often billed alongside Jonathan Kaspar, Caleesi and Hardt Antoine. Next up: Kater, Berlin on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ MĪMĪ x FY are a house and techno duo based in Serbia, with 48 gigs on soundche
 
 Jonathan Kaspar, Caleesi, Hardt Antoine
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mimixfy/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mimixfy/)*

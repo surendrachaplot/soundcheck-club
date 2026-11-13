@@ -1,6 +1,6 @@
 # Mark Lando
 
-Mark Lando is a Trance and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Postkantine, Basel on Thu, 31 Dec 2026.
+Mark Lando is a Trance and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Postkantine, Basel on Thu, 31 Dec 2026.
 
 Mark Lando is a trance and acid artist based in Switzerland, with 10 gigs on soundcheck across Basel, Geneva and Tbilisi. Often billed alongside Tesdorpf, Jelena and Gomorra. Next up: Postkantine, Basel on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Mark Lando is a trance and acid artist based in Switzerland, with 10 gigs on sou
 
 Tesdorpf, Jelena, Gomorra
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marklando/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marklando/)*

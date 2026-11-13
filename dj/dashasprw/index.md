@@ -1,6 +1,6 @@
 # Dasha SPRW
 
-Dasha SPRW is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Revolver Upstairs, Melbourne on Fri, 13 Nov 2026.
+Dasha SPRW is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Revolver Upstairs, Melbourne on Fri, 13 Nov 2026.
 
 Dasha SPRW is a house and techno artist, with 52 gigs on soundcheck across Leipzig, Melbourne, Prague and Sydney. Often billed alongside Andy Hart, Ricky Nord and Charlotte Rooney. Next up: Revolver Upstairs, Melbourne on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Dasha SPRW is a house and techno artist, with 52 gigs on soundcheck across Leipz
 
 Andy Hart, Ricky Nord, Charlotte Rooney
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dashasprw/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dashasprw/)*

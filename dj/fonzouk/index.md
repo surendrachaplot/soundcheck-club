@@ -1,6 +1,6 @@
 # Fonzo (UK)
 
-Fonzo (UK) is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Prospect Building, Bristol on Sat, 28 Nov 2026.
+Fonzo (UK) is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Prospect Building, Bristol on Sat, 28 Nov 2026.
 
 Fonzo (UK) is a garage and bass artist based in United Kingdom, with 39 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Brisbane and 10 more. Often billed alongside Yemz, Arthi and Notion. Next up: The Prospect Building, Bristol on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Fonzo (UK) is a garage and bass artist based in United Kingdom, with 39 gigs on 
 
 Yemz, Arthi, Notion
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fonzouk/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fonzouk/)*

@@ -1,6 +1,6 @@
 # Walthamstow Trades Hall
 
-Walthamstow Trades Hall is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "Drag Hag with Bimini, Bradley Skeng, Heidi, Sarah Story" on Sat, 19 Dec 2026.
+Walthamstow Trades Hall is a music venue in London with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "Drag Hag with Bimini, Bradley Skeng, Heidi, Sarah Story" on Sat, 19 Dec 2026.
 
 Walthamstow Trades Hall is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Bimini, Bradley Skeng, Brother of Set and Heidi and 1 more. See dates, start times and who's playing. 61-63 Tower Hamlets Rd, London E17 4RQ.
 
@@ -14,4 +14,4 @@ Walthamstow Trades Hall is a music venue in London listed on soundcheck. 1 upcom
 
 61-63 Tower Hamlets Rd, London E17 4RQ, London
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/walthamstow-trades-hall/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/walthamstow-trades-hall/)*

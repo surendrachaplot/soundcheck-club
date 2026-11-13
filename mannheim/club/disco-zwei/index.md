@@ -1,6 +1,6 @@
 # Disco Zwei
 
-Disco Zwei is a music venue in Mannheim with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "VOCALS & BASS" on Fri, 13 Nov 2026.
+Disco Zwei is a music venue in Mannheim with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "VOCALS & BASS" on Fri, 13 Nov 2026.
 
 Disco Zwei is a music venue in Mannheim listed on soundcheck. 5 upcoming gigs, with line-ups including Arok, cimply, Nortsch and Red Rooms and 2 more. See dates, start times and who's playing. T6, 14; 68161 Mannheim; Germany.
 
@@ -18,4 +18,4 @@ Disco Zwei is a music venue in Mannheim listed on soundcheck. 5 upcoming gigs, w
 
 T6, 14; 68161 Mannheim; Germany, Mannheim
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/mannheim/club/disco-zwei/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/mannheim/club/disco-zwei/)*

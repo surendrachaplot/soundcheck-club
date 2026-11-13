@@ -1,6 +1,6 @@
 # Grundton at Hive Club
 
-Grundton at Hive Club on Sat 14 Nov, Zurich. 3 artists: DJ SET (Uk), Manuel Moreno and Red Axes. Techno and House. See the line-up on soundcheck.
+Grundton at Hive Club on Sat 14 Nov, Zurich. 4 artists: AIIA, DJ SET (Uk), Manuel Moreno and Red Axes. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Grundton at Hive Club on Sat 14 Nov, Zurich. 3 artists: DJ SET (Uk), Manuel More
 
 ## Line-up
 
+- AIIA
 - DJ SET (Uk)
 - Manuel Moreno
 - Red Axes

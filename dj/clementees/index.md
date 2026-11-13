@@ -1,6 +1,6 @@
 # Clemente (ES)
 
-Clemente (ES) is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Spook Club, Valencia on Fri, 25 Dec 2026.
+Clemente (ES) is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Spook Club, Valencia on Fri, 25 Dec 2026.
 
 Clemente (ES) is a house and afro house artist based in Spain, with 8 gigs on soundcheck across Barcelona, Berlin, Madrid and Malaga and 1 more. Often billed alongside Fes Bondat, Gurrex and alvar.. Next up: Spook Club, Valencia on Fri 25 Dec.
 
@@ -24,4 +24,4 @@ Clemente (ES) is a house and afro house artist based in Spain, with 8 gigs on so
 
 Fes Bondat, Gurrex, alvar.
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clementees/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clementees/)*

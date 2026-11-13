@@ -1,17 +1,18 @@
 # Casa Jako
 
-Casa Jako is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "SAINT Vol. II" on Fri, 20 Nov 2026.
+Casa Jako is a music venue in London with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "SAINT Vol. II" on Fri, 20 Nov 2026.
 
-Casa Jako is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Kabir, Lance Morgan and Wiki. See dates, start times and who's playing. 29-30 Alliance House High Holborn London WC1V 6AZ, England.
+Casa Jako is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Kabir, Lance Morgan and Wiki. See dates, start times and who's playing. 29-30 Alliance House High Holborn London WC1V 6AZ, England.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | SAINT Vol. II | Kabir, Lance Morgan, Wiki |
+| Sat, 5 Dec 2026 | THE BEAM TAKEOVER CLOSING PARTY |  |
 
 ## Address
 
 29-30 Alliance House High Holborn London WC1V 6AZ, England, London
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/casa-jako/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/casa-jako/)*

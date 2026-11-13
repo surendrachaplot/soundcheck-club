@@ -1,6 +1,6 @@
 # Mz3 (1)
 
-Mz3 (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Nowadays, New York City on Sat, 12 Dec 2026.
+Mz3 (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Nowadays, New York City on Sat, 12 Dec 2026.
 
 Mz3 is a techno and house artist based in United States of America, with 32 gigs on soundcheck across New York City. Often billed alongside Spam, Alissa Brianna and Pacha DJ. Next up: Nowadays, New York City on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Mz3 is a techno and house artist based in United States of America, with 32 gigs
 
 Spam, Alissa Brianna, Pacha DJ
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mz3-1/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mz3-1/)*

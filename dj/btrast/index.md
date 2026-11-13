@@ -1,6 +1,6 @@
 # btrast
 
-btrast is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Specka, Madrid on Fri, 4 Dec 2026.
+btrast is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Specka, Madrid on Fri, 4 Dec 2026.
 
 btrast is a house and techno artist based in Spain, with 19 gigs on soundcheck across Barcelona, Madrid, Rotterdam and The Hague. Often billed alongside Pep Descals, Fontana (ES) and Arnau. Next up: Specka, Madrid on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ btrast is a house and techno artist based in Spain, with 19 gigs on soundcheck a
 
 Pep Descals, Fontana (ES), Arnau
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/btrast/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/btrast/)*

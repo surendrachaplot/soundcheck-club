@@ -1,6 +1,6 @@
 # Orange Cyanide
 
-Orange Cyanide is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Umbala, Ho Chi Minh City on Sat, 21 Nov 2026.
+Orange Cyanide is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Umbala, Ho Chi Minh City on Sat, 21 Nov 2026.
 
 Orange Cyanide is a techno and tech house artist, with 8 gigs on soundcheck across Hanoi and Ho Chi Minh City. Often billed alongside Goss, ILONA and Chi Min. Next up: Umbala, Ho Chi Minh City on Sat 21 Nov.
 
@@ -24,4 +24,4 @@ Orange Cyanide is a techno and tech house artist, with 8 gigs on soundcheck acro
 
 Goss, ILONA, Chi Min
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/orangecyanide/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/orangecyanide/)*

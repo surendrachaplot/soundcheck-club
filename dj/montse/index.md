@@ -1,6 +1,6 @@
 # Montse
 
-Montse is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Pier 15, Breda, Netherlands on Sat, 28 Nov 2026.
+Montse is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Pier 15, Breda, Netherlands on Sat, 28 Nov 2026.
 
 Montse is a techno and house artist based in Spain, with 21 gigs on soundcheck across Amsterdam, Barcelona, Madrid and Netherlands and 2 more. Often billed alongside ARSA, Joya Astou and Mees Javois. Next up: Pier 15, Breda, Netherlands on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Montse is a techno and house artist based in Spain, with 21 gigs on soundcheck a
 
 ARSA, Joya Astou, Mees Javois
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/montse/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/montse/)*

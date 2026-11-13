@@ -1,6 +1,6 @@
 # wieder: BOILER ROOM SETUP + MARKETPLACE at Lokschuppen Berlin
 
-wieder: BOILER ROOM SETUP + MARKETPLACE at Lokschuppen Berlin on Sun 15 Nov, Berlin. 4 artists: Bobaz Lobster, e.leptic, Impulsive Behaviour and Vysion. Trance and Techno. See the line-up on soundcheck.
+wieder: BOILER ROOM SETUP + MARKETPLACE at Lokschuppen Berlin on Sun 15 Nov, Berlin. 4 artists: Bobaz, e.leptic, Impulsive Behaviour and Vysion. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ wieder: BOILER ROOM SETUP + MARKETPLACE at Lokschuppen Berlin on Sun 15 Nov, Ber
 
 ## Line-up
 
-- Bobaz Lobster
+- Bobaz
 - e.leptic
 - Impulsive Behaviour
 - Vysion

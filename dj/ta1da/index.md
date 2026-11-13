@@ -1,6 +1,6 @@
 # Ta1da
 
-Ta1da is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Folk, Gothenburg on Sat, 14 Nov 2026.
+Ta1da is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Folk, Gothenburg on Sat, 14 Nov 2026.
 
 Ta1da is a house and garage artist based in Norway, with 11 gigs on soundcheck across Gothenburg, Helsinki and Oslo. Often billed alongside Loveshy, Morstaq and NASHA. Next up: Folk, Gothenburg on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Ta1da is a house and garage artist based in Norway, with 11 gigs on soundcheck a
 
 Loveshy, Morstaq, NASHA
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ta1da/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ta1da/)*

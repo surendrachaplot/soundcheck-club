@@ -1,14 +1,15 @@
 # KE-YEN
 
-KE-YEN is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Rechabite, Perth on Fri, 13 Nov 2026.
+KE-YEN is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Rechabite, Perth on Fri, 13 Nov 2026.
 
-KE-YEN is a house and garage artist based in Australia, with 32 gigs on soundcheck across Adelaide, Bali, Bangkok and Barcelona and 15 more. Often billed alongside Maruwa, Benga and Friend of a Friend. Next up: The Rechabite, Perth on Fri 13 Nov.
+KE-YEN is a house and garage artist based in Australia, with 33 gigs on soundcheck across Adelaide, Bali, Bangkok and Barcelona and 15 more. Often billed alongside Maruwa, Benga and Friend of a Friend. Next up: The Rechabite, Perth on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | The Rechabite | Perth |
+| Sat, 12 Dec 2026 | Sub Club Melbourne | Melbourne |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ KE-YEN is a house and garage artist based in Australia, with 32 gigs on soundche
 
 Maruwa, Benga, Friend of a Friend
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ke-yen/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ke-yen/)*

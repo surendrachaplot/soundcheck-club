@@ -1,6 +1,6 @@
 # Rote Sonne
 
-Rote Sonne is a music venue in Munich with 10 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "SYNTHX x Rote Sonne Staffellauf 001" on Fri, 13 Nov 2026.
+Rote Sonne is a music venue in Munich with 10 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "SYNTHX x Rote Sonne Staffellauf 001" on Fri, 13 Nov 2026.
 
 Rote Sonne is a music venue in Munich listed on soundcheck. 10 upcoming gigs, with line-ups including ÆNN, Amotik, anastasia and Artifex (DE) and 2 more. See dates, start times and who's playing. Maximiliansplatz 5; 80333 Munich; Germany.
 
@@ -23,4 +23,4 @@ Rote Sonne is a music venue in Munich listed on soundcheck. 10 upcoming gigs, wi
 
 Maximiliansplatz 5; 80333 Munich; Germany, Munich
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/rote-sonne/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/rote-sonne/)*

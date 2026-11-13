@@ -1,6 +1,6 @@
 # GUAN
 
-GUAN is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Doop, Shanghai on Fri, 13 Nov 2026.
+GUAN is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Doop, Shanghai on Fri, 13 Nov 2026.
 
 GUAN is a techno and club artist based in China, with 15 gigs on soundcheck across Beijing, Shanghai, Shenzhen and Tokyo. Often billed alongside CTAFAD, FEIYI and Illsee. Next up: Doop, Shanghai on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ GUAN is a techno and club artist based in China, with 15 gigs on soundcheck acro
 
 CTAFAD, FEIYI, Illsee
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/guan/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/guan/)*

@@ -1,6 +1,6 @@
 # Jarvis Bitcoin
 
-Jarvis Bitcoin is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The DBA, Manchester on Thu, 3 Dec 2026.
+Jarvis Bitcoin is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The DBA, Manchester on Thu, 3 Dec 2026.
 
 Jarvis Bitcoin is a techno and club artist based in United Kingdom, with 14 gigs on soundcheck across London and Manchester. Often billed alongside JARVIS, DJ Mummy and Ship Sket. Next up: The DBA, Manchester on Thu 3 Dec.
 
@@ -26,4 +26,4 @@ Jarvis Bitcoin is a techno and club artist based in United Kingdom, with 14 gigs
 
 JARVIS, DJ Mummy, Ship Sket
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jarvisbitcoin/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jarvisbitcoin/)*

@@ -1,6 +1,6 @@
 # Paradiso
 
-Paradiso is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "𝗔𝗥𝗖𝗛𝗜𝗧𝗥𝗔𝗖𝗞𝗭 𝗕𝗥𝗘𝗡𝗚𝗧 '𝗚𝗥𝗢𝗧𝗘 𝗣𝗥𝗢𝗕𝗟𝗘𝗠𝗘𝗡'" on Thu, 12 Nov 2026.
+Paradiso is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Nosaj Thing presents: Continua" on Mon, 16 Nov 2026.
 
 Paradiso is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs, with line-ups including Dynamax, Gysèle, Kobe and Kölsch and 2 more. See dates, start times and who's playing. Weteringschans 6; 1017 Binnenstad; Amsterdam; Netherlands.
 
@@ -8,7 +8,7 @@ Paradiso is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs, wi
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 12 Nov 2026 | 𝗔𝗥𝗖𝗛𝗜𝗧𝗥𝗔𝗖𝗞𝗭 𝗕𝗥𝗘𝗡𝗚𝗧 '𝗚𝗥𝗢𝗧𝗘 𝗣𝗥𝗢𝗕𝗟𝗘𝗠𝗘𝗡' |  |
+| Mon, 16 Nov 2026 | Nosaj Thing presents: Continua | Nosaj Thing |
 | Thu, 19 Nov 2026 | KÖLSCH & THE MACHINE | Kölsch |
 | Fri, 27 Nov 2026 | Lucky Done Gone - All Night | Lucky Done Gone |
 | Thu, 3 Dec 2026 | PHILIA |  |
@@ -20,4 +20,4 @@ Paradiso is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs, wi
 
 Weteringschans 6; 1017 Binnenstad; Amsterdam; Netherlands, Amsterdam
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/paradiso/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/paradiso/)*

@@ -1,6 +1,6 @@
 # 7 Vibes Journey in Zurich at X-Tra
 
-7 Vibes Journey in Zurich at X-Tra on Sat 19 Dec, Zurich. 2 artists: Jpattersson and Vanita. Techno and Deep House. See the line-up on soundcheck.
+7 Vibes Journey in Zurich at X-Tra on Sat 19 Dec, Zurich. 3 artists: AIIA, Jpattersson and Vanita. Techno and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@
 
 ## Line-up
 
+- AIIA
 - Jpattersson
 - Vanita
 

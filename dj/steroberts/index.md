@@ -1,6 +1,6 @@
 # Ste Roberts
 
-Ste Roberts is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at radial, London on Sat, 28 Nov 2026.
+Ste Roberts is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at radial, London on Sat, 28 Nov 2026.
 
 Ste Roberts is a techno and electro artist based in United Kingdom, with 63 gigs on soundcheck across Berlin, Bristol, Edinburgh and Leeds and 4 more. Often billed alongside Alien Communications, Jos and De La Reef. Next up: radial, London on Sat 28 Nov.
 
@@ -28,4 +28,4 @@ Ste Roberts is a techno and electro artist based in United Kingdom, with 63 gigs
 
 Alien Communications, Jos, De La Reef
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/steroberts/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/steroberts/)*

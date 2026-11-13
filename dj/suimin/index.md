@@ -1,18 +1,18 @@
 # suimin
 
-suimin is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Violetta, Tokyo on Sat, 14 Nov 2026.
+suimin is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Débris, Tokyo on Fri, 20 Nov 2026.
 
-suimin is a techno and house artist based in Japan, with 101 gigs on soundcheck across Glasgow, Hanoi, Osaka and Tokyo. Often billed alongside YELLOWUHURU, 7e and AKIRAM EN. Next up: Violetta, Tokyo on Sat 14 Nov.
+suimin is a techno and house artist based in Japan, with 101 gigs on soundcheck across Glasgow, Hanoi, Osaka and Tokyo. Often billed alongside YELLOWUHURU, 7e and AKIRAM EN. Next up: Débris, Tokyo on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Violetta | Tokyo |
 | Fri, 20 Nov 2026 | Débris | Tokyo |
 
 ## Recently played
 
+- Violetta, Tokyo · Thu, 12 Nov 2026
 - Bonobo, Tokyo · Wed, 28 Oct 2026
 - Aoyama Hachi, Tokyo · Sun, 18 Oct 2026
 - Room 2 Glasgow, Glasgow · Sat, 12 Sept 2026
@@ -20,10 +20,9 @@ suimin is a techno and house artist based in Japan, with 101 gigs on soundcheck 
 - Bonobo, Tokyo · Wed, 26 Aug 2026
 - Bonobo, Tokyo · Sat, 25 Jul 2026
 - Bonobo, Tokyo · Wed, 24 Jun 2026
-- Mitsuki, Tokyo · Mon, 15 Jun 2026
 
 ## Shares bills with
 
 YELLOWUHURU, 7e, AKIRAM EN
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suimin/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suimin/)*

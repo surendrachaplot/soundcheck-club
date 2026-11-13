@@ -1,14 +1,13 @@
 # Outlaws Yacht Club
 
-Outlaws Yacht Club is a music venue in Leeds with 6 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Voyager Records Launch After Party" on Thu, 12 Nov 2026.
+Outlaws Yacht Club is a music venue in Leeds with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Paisley Dark" on Fri, 13 Nov 2026.
 
-Outlaws Yacht Club is a music venue in Leeds listed on soundcheck. 6 upcoming gigs, with line-ups including BAY-BUSH-KA, Cosmikuro, edv3ctor and Etienne Groh and 2 more. See dates, start times and who's playing. 38 New York St, Leeds, West Yorkshire, LS2 7DY, United Kingdom.
+Outlaws Yacht Club is a music venue in Leeds listed on soundcheck. 5 upcoming gigs, with line-ups including BAY-BUSH-KA, Cosmikuro, edv3ctor and Etienne Groh and 2 more. See dates, start times and who's playing. 38 New York St, Leeds, West Yorkshire, LS2 7DY, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 12 Nov 2026 | Voyager Records Launch After Party |  |
 | Fri, 13 Nov 2026 | Paisley Dark | John Paynter |
 | Sat, 14 Nov 2026 | Modern Fairytale |  |
 | Sun, 15 Nov 2026 | Exodus Pres Tribe Sound System & Tom Dubwise | Mike BC, Simon Scott, Tom Dubwise, edv3ctor |
@@ -19,4 +18,4 @@ Outlaws Yacht Club is a music venue in Leeds listed on soundcheck. 6 upcoming gi
 
 38 New York St, Leeds, West Yorkshire, LS2 7DY, United Kingdom, Leeds
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/outlaws-yacht-club/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/outlaws-yacht-club/)*

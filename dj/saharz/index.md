@@ -1,6 +1,6 @@
 # Sahar Z
 
-Sahar Z is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at ORIGIN, Los Angeles on Sat, 5 Dec 2026.
+Sahar Z is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at ORIGIN, Los Angeles on Sat, 5 Dec 2026.
 
 Sahar Z is a progressive house and house artist based in Israel, with 39 gigs on soundcheck across Amsterdam, Barcelona, Buenos Aires and Glasgow and 6 more. Often billed alongside Guy Mantzur, Guy J and Stefano Richetta. Next up: ORIGIN, Los Angeles on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Sahar Z is a progressive house and house artist based in Israel, with 39 gigs on
 
 Guy Mantzur, Guy J, Stefano Richetta
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saharz/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saharz/)*

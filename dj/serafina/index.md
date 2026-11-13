@@ -1,6 +1,6 @@
 # Serafina
 
-Serafina is a Techno and Trance artist with 11 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Ace*Mission, Los Angeles on Fri, 13 Nov 2026.
+Serafina is a Techno and Trance artist with 11 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Ace*Mission, Los Angeles on Fri, 13 Nov 2026.
 
 Serafina is a techno and trance artist based in Germany, with 202 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 57 more. Often billed alongside Adrian Mills, fumi (DE) and Cloudy. Next up: Ace*Mission, Los Angeles on Fri 13 Nov.
 
@@ -14,7 +14,7 @@ Serafina is a techno and trance artist based in Germany, with 202 gigs on soundc
 | Sat, 21 Nov 2026 | Komplexo Tempo | Sao Paulo |
 | Sat, 21 Nov 2026 | Espacio Riesco Expo Centre | Santiago |
 | Fri, 4 Dec 2026 | 131 Mccormack St | Toronto |
-| Sat, 5 Dec 2026 | TBA - BROOKLYN NY | New York City |
+| Sat, 5 Dec 2026 | 314 Scholes | New York City |
 | Fri, 11 Dec 2026 | BRET | Amsterdam |
 | Fri, 18 Dec 2026 | RSO.BERLIN | Berlin |
 | Fri, 5 Mar 2027 | Ziggo Dome | Amsterdam |
@@ -35,4 +35,4 @@ Serafina is a techno and trance artist based in Germany, with 202 gigs on soundc
 
 Adrian Mills, fumi (DE), Cloudy
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/serafina/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/serafina/)*

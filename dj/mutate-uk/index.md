@@ -1,6 +1,6 @@
 # mu tate
 
-mu tate is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Start.Bahn - Genezarethkirche, Berlin on Sun, 29 Nov 2026.
+mu tate is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Start.Bahn - Genezarethkirche, Berlin on Sun, 29 Nov 2026.
 
 mu tate is an ambient and experimental artist based in Latvia, with 23 gigs on soundcheck across Berlin, Lisbon, London and New York City and 3 more. Often billed alongside NEXCYIA, Discka and Mori Mori. Next up: Start.Bahn - Genezarethkirche, Berlin on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ mu tate is an ambient and experimental artist based in Latvia, with 23 gigs on s
 
 NEXCYIA, Discka, Mori Mori
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mutate-uk/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mutate-uk/)*

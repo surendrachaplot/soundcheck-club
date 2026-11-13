@@ -1,6 +1,6 @@
 # Neev.
 
-Neev. is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Gaffe, London on Fri, 13 Nov 2026.
+Neev. is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Gaffe, London on Fri, 13 Nov 2026.
 
 Neev. is an electro and techno artist based in United Kingdom, with 8 gigs on soundcheck across London and Manchester. Often billed alongside Josh Keit, ATST and Bunney. Next up: Gaffe, London on Fri 13 Nov.
 
@@ -24,4 +24,4 @@ Neev. is an electro and techno artist based in United Kingdom, with 8 gigs on so
 
 Josh Keit, ATST, Bunney
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neev./)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neev./)*

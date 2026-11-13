@@ -1,6 +1,6 @@
 # Ejdm
 
-Ejdm is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Cross Club, Prague on Sat, 21 Nov 2026.
+Ejdm is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Cross Club, Prague on Sat, 21 Nov 2026.
 
 Ejdm is a drum & bass and techno artist based in Czech Republic, with 46 gigs on soundcheck across Prague. Often billed alongside Plus One, Patricio Strix and NFKS. Next up: Cross Club, Prague on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Ejdm is a drum & bass and techno artist based in Czech Republic, with 46 gigs on
 
 Plus One (1), Patricio Strix, NFKS
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ejdm/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ejdm/)*

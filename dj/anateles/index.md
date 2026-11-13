@@ -1,6 +1,6 @@
 # Ana Teles
 
-Ana Teles is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at OneSixOne, Melbourne on Mon, 16 Nov 2026.
+Ana Teles is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at OneSixOne, Melbourne on Mon, 16 Nov 2026.
 
 Ana Teles is a house and techno artist, with 16 gigs on soundcheck across Auckland and Melbourne. Often billed alongside Felipe Martinez, Matt Drake and Greg Churchill. Next up: OneSixOne, Melbourne on Mon 16 Nov.
 
@@ -25,4 +25,4 @@ Ana Teles is a house and techno artist, with 16 gigs on soundcheck across Auckla
 
 Felipe Martinez, Matt Drake, Greg Churchill
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anateles/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anateles/)*

@@ -1,6 +1,6 @@
 # Rabat
 
-Rabat is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Collect - Cais do Sodre, Lisbon on Fri, 20 Nov 2026.
+Rabat is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Collect - Cais do Sodre, Lisbon on Fri, 20 Nov 2026.
 
 Rabat is a house and techno artist based in France, with 10 gigs on soundcheck across Berlin, Lisbon and Paris. Often billed alongside Marianno, PAK-E and (NOT) XCESS. Next up: Collect - Cais do Sodre, Lisbon on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Rabat is a house and techno artist based in France, with 10 gigs on soundcheck a
 
 Marianno, PAK-E, (NOT) XCESS
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rabat/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rabat/)*

@@ -1,6 +1,6 @@
 # Adam F [LIVE] - Circles Revisited Tour at The Boxing Club
 
-Adam F [LIVE] - Circles Revisited Tour at The Boxing Club on Fri 13 Nov, Bristol. 5 artists: Adam F, adamine, Deselecta and Duality and 1 more. Drum & Bass and Jungle. See the line-up on soundcheck.
+Adam F [LIVE] - Circles Revisited Tour at The Boxing Club on Fri 13 Nov, Bristol. 6 artists: Adam F, adamine, Artificial Red and Deselecta and 2 more. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Adam F [LIVE] - Circles Revisited Tour at The Boxing Club on Fri 13 Nov, Bristol
 
 - Adam F
 - adamine
+- Artificial Red
 - Deselecta
 - Duality
 - Harry Shotta

@@ -1,6 +1,6 @@
 # La Gosse
 
-La Gosse is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Kizuna, London on Sat, 14 Nov 2026.
+La Gosse is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Kizuna, London on Sat, 14 Nov 2026.
 
 La Gosse is a house and minimal artist based in United Kingdom, with 30 gigs on soundcheck across London and Marseille. Often billed alongside Samantha Blackburn, DeRizzio and Kesh. Next up: Kizuna, London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ La Gosse is a house and minimal artist based in United Kingdom, with 30 gigs on 
 
 Samantha Blackburn, DeRizzio, Kesh (1)
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lagosse/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lagosse/)*

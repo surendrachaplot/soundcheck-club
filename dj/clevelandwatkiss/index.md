@@ -1,6 +1,6 @@
 # Cleveland Watkiss
 
-Cleveland Watkiss is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Royal Festival Hall, London on Sat, 14 Nov 2026.
+Cleveland Watkiss is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Royal Festival Hall, London on Sat, 14 Nov 2026.
 
 Cleveland Watkiss is a drum & bass and jungle artist based in United Kingdom, with 27 gigs on soundcheck across Birmingham, Brighton, Bristol and Brussels and 2 more. Often billed alongside Grooverider, Fabio and Doc Scott. Next up: Royal Festival Hall, London on Sat 14 Nov.
 
@@ -29,4 +29,4 @@ Cleveland Watkiss is a drum & bass and jungle artist based in United Kingdom, wi
 
 Grooverider, Fabio, Doc Scott
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clevelandwatkiss/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clevelandwatkiss/)*

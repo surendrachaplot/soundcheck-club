@@ -1,6 +1,6 @@
 # Arnaud Rebotini
 
-Arnaud Rebotini is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at NOH Extended, Istanbul on Fri, 27 Nov 2026.
+Arnaud Rebotini is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at NOH Extended, Istanbul on Fri, 27 Nov 2026.
 
 Arnaud Rebotini is a techno and electro artist based in France, with 17 gigs on soundcheck across Berlin, Bucharest, Istanbul and Paris and 3 more. Often billed alongside Hardrock Striker, Zaratustra and Acid Washed. Next up: NOH Extended, Istanbul on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Arnaud Rebotini is a techno and electro artist based in France, with 17 gigs on 
 
 Hardrock Striker, Zaratustra, Acid Washed
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arnaudrebotini/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arnaudrebotini/)*

@@ -1,6 +1,6 @@
 # Tagada
 
-Tagada is a music venue in Vienna with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Inofficial GTA6 Release Party" on Fri, 13 Nov 2026.
+Tagada is a music venue in Vienna with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Inofficial GTA6 Release Party" on Fri, 13 Nov 2026.
 
 Tagada is a music venue in Vienna listed on soundcheck. 5 upcoming gigs, with line-ups including dj ayran, Julani, Lilosh and Meander and 2 more. See dates, start times and who's playing. Brunnengasse 76, 1160 Wien, Austria.
 
@@ -18,4 +18,4 @@ Tagada is a music venue in Vienna listed on soundcheck. 5 upcoming gigs, with li
 
 Brunnengasse 76, 1160 Wien, Austria, Vienna
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/tagada/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/tagada/)*

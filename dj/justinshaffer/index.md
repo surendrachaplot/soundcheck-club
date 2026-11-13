@@ -1,6 +1,6 @@
 # Justin Shaffer
 
-Justin Shaffer is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA, Berlin on Fri, 13 Nov 2026.
+Justin Shaffer is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA, Berlin on Fri, 13 Nov 2026.
 
 Justin Shaffer is a house and techno artist based in United States of America, with 46 gigs on soundcheck across Berlin, Detroit, Lisbon and Los Angeles and 5 more. Often billed alongside Dragana, Maayan Nidam and Dana Ruh. Next up: TBA, Berlin on Fri 13 Nov.
 
@@ -28,4 +28,4 @@ Justin Shaffer is a house and techno artist based in United States of America, w
 
 Dragana, Maayan Nidam, Dana Ruh
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/justinshaffer/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/justinshaffer/)*

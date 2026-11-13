@@ -1,6 +1,6 @@
-# Room13sessions invites De La Reef, Collin Tusk & Mike Bugg at Cellar
+# Room13sessions invites : De La Reef, Collin Tusk & Mike Bugg at Cellar
 
-Room13sessions invites De La Reef, Collin Tusk & Mike Bugg at Cellar on Fri 18 Dec, London. 2 artists: De La Reef and Elysium Waves. Techno and House. See the line-up on soundcheck.
+Room13sessions invites : De La Reef, Collin Tusk & Mike Bugg at Cellar on Fri 18 Dec, London. 3 artists: Collin Tusk, De La Reef and Elysium Waves. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Room13sessions invites De La Reef, Collin Tusk & Mike Bugg at Cellar on Fri 18 D
 
 ## Line-up
 
+- Collin Tusk
 - De La Reef
 - Elysium Waves
 

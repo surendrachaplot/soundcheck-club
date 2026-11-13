@@ -1,6 +1,6 @@
 # Kabulom
 
-Kabulom is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TRAUMA, Rio de Janeiro on Thu, 19 Nov 2026.
+Kabulom is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TRAUMA, Rio de Janeiro on Thu, 19 Nov 2026.
 
 Kabulom is a house and techno artist, with 41 gigs on soundcheck across Berlin, Leipzig, Lisbon and Rio de Janeiro and 1 more. Often billed alongside OMOLOKO, Bida Sarô and Paulete Lindacelva. Next up: TRAUMA, Rio de Janeiro on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Kabulom is a house and techno artist, with 41 gigs on soundcheck across Berlin, 
 
 OMOLOKO, Bida Sarô, Paulete Lindacelva
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kabulom/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kabulom/)*

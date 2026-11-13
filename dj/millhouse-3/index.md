@@ -1,6 +1,6 @@
 # Millhouse (3)
 
-Millhouse (3) is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Vault Perth, Perth on Sat, 14 Nov 2026.
+Millhouse (3) is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Vault Perth, Perth on Sat, 14 Nov 2026.
 
 Millhouse is a garage and house artist based in Australia, with 8 gigs on soundcheck across Melbourne and Perth. Often billed alongside DJ Assault, BETHANY and BL3SS. Next up: The Vault Perth, Perth on Sat 14 Nov.
 
@@ -24,4 +24,4 @@ Millhouse is a garage and house artist based in Australia, with 8 gigs on soundc
 
 DJ Assault, BETHANY (1), BL3SS
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/millhouse-3/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/millhouse-3/)*

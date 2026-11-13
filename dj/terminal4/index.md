@@ -1,6 +1,6 @@
 # TERMINAL 4
 
-TERMINAL 4 is a Afro House and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Steel Yard, London on Fri, 13 Nov 2026.
+TERMINAL 4 is a Afro House and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Steel Yard, London on Fri, 13 Nov 2026.
 
 TERMINAL 4 is an afro house and house artist based in United Kingdom, with 11 gigs on soundcheck across London and Midlands. Often billed alongside Supa D, DJ Majesty and Pioneer. Next up: The Steel Yard, London on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ TERMINAL 4 is an afro house and house artist based in United Kingdom, with 11 gi
 
 Supa D, DJ Majesty, Pioneer
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/terminal4/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/terminal4/)*

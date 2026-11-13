@@ -1,6 +1,6 @@
 # Seth Troxler
 
-Seth Troxler is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Kristal Club, Bucharest on Fri, 13 Nov 2026.
+Seth Troxler is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Kristal Club, Bucharest on Fri, 13 Nov 2026.
 
 Seth Troxler is a house and techno artist based in United States of America, with 355 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 65 more. Often billed alongside DJ Tennis, Chloé Caillet and Sossa. Next up: Kristal Club, Bucharest on Fri 13 Nov.
 
@@ -36,4 +36,4 @@ Seth Troxler is a house and techno artist based in United States of America, wit
 
 DJ Tennis, Chloé Caillet, Sossa
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sethtroxler/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sethtroxler/)*

@@ -1,6 +1,6 @@
 # Enta
 
-Enta is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Honey Street Studio, Manchester on Fri, 4 Dec 2026.
+Enta is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Honey Street Studio, Manchester on Fri, 4 Dec 2026.
 
 Enta is a drum & bass and jungle artist based in United Kingdom, with 13 gigs on soundcheck across Brighton, Bristol, Dresden and London and 2 more. Often billed alongside Ed Rush, Optical and Prolix. Next up: Honey Street Studio, Manchester on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Enta is a drum & bass and jungle artist based in United Kingdom, with 13 gigs on
 
 Ed Rush, Optical, Prolix
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enta-uk/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enta-uk/)*

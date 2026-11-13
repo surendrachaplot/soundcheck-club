@@ -1,6 +1,6 @@
 # Monibi
 
-Monibi is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Secret Location (near Frankfurter Allee), Berlin on Wed, 2 Dec 2026.
+Monibi is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Secret Location (near Frankfurter Allee), Berlin on Wed, 2 Dec 2026.
 
 Monibi is a bass and house artist based in France, with 21 gigs on soundcheck across Berlin, Hannover, Leipzig and Prague. Often billed alongside Dangermami, Nico Adomako and ABADIR. Next up: TBA - Secret Location (near Frankfurter Allee), Berlin on Wed 2 Dec.
 
@@ -25,4 +25,4 @@ Monibi is a bass and house artist based in France, with 21 gigs on soundcheck ac
 
 Dangermami, Nico Adomako, ABADIR
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/monibi/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/monibi/)*

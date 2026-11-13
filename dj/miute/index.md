@@ -1,6 +1,6 @@
 # miute
 
-miute is a Hip-Hop and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at club asia, Tokyo on Thu, 26 Nov 2026.
+miute is a Hip-Hop and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at club asia, Tokyo on Thu, 26 Nov 2026.
 
 miute is a hip-hop and bass artist based in Japan, with 34 gigs on soundcheck across Auckland, Seoul and Tokyo. Often billed alongside ShioriyBradshaw, Shoma fr,dambosound and MK woop. Next up: club asia, Tokyo on Thu 26 Nov.
 
@@ -26,4 +26,4 @@ miute is a hip-hop and bass artist based in Japan, with 34 gigs on soundcheck ac
 
 ShioriyBradshaw, Shoma fr,dambosound, MK woop
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miute/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miute/)*

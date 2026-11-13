@@ -1,6 +1,6 @@
 # Rosey Gold
 
-Rosey Gold is a Afro House and Afro Tech artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at 1Fox Precinct, Johannesburg on Sat, 12 Dec 2026.
+Rosey Gold is a Afro House and Afro Tech artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at 1Fox Precinct, Johannesburg on Sat, 12 Dec 2026.
 
 Rosey Gold is an afro house and afro tech artist based in Netherlands, with 25 gigs on soundcheck across Amsterdam, Bali, Cape Town and Ibiza and 4 more. Often billed alongside Black Coffee, Damian Lazarus and Paul Reynolds. Next up: 1Fox Precinct, Johannesburg on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Rosey Gold is an afro house and afro tech artist based in Netherlands, with 25 g
 
 Black Coffee, Damian Lazarus, Paul Reynolds
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roseygold/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roseygold/)*

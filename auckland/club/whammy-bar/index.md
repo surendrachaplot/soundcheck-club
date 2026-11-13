@@ -1,6 +1,6 @@
 # Whammy Bar
 
-Whammy Bar is a music venue in Auckland with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "NYMPHO X PEP RALLY" on Fri, 20 Nov 2026.
+Whammy Bar is a music venue in Auckland with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "NYMPHO X PEP RALLY" on Fri, 20 Nov 2026.
 
 Whammy Bar is a music venue in Auckland listed on soundcheck. 5 upcoming gigs, with line-ups including Andwahn, Aunty Bev, Aunty El and BLUSH.MP3 and 2 more. See dates, start times and who's playing. 183 Karangahape Rd, Auckland, 1010, New Zealand.
 
@@ -18,4 +18,4 @@ Whammy Bar is a music venue in Auckland listed on soundcheck. 5 upcoming gigs, w
 
 183 Karangahape Rd, Auckland, 1010, New Zealand, Auckland
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/whammy-bar/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/whammy-bar/)*

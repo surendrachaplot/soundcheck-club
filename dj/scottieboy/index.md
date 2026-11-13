@@ -1,6 +1,6 @@
 # Scottieboy
 
-Scottieboy is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Bramble, Edinburgh on Fri, 13 Nov 2026.
+Scottieboy is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Bramble, Edinburgh on Fri, 13 Nov 2026.
 
 Scottieboy is a house and disco artist based in United Kingdom, with 33 gigs on soundcheck across Edinburgh. Often billed alongside Peaky Blindrunk. Next up: Bramble, Edinburgh on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Scottieboy is a house and disco artist based in United Kingdom, with 33 gigs on 
 
 Peaky Blindrunk
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scottieboy/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scottieboy/)*

@@ -1,6 +1,6 @@
 # MiNNA (UK) @ Si Paradiso at Si Paradiso
 
-MiNNA (UK) @ Si Paradiso on Sat 14 Nov, Perth. 2 artists: MiNNA and Rok Riley. House and Disco. See the line-up on soundcheck.
+MiNNA (UK) @ Si Paradiso on Sat 14 Nov, Perth. 3 artists: DJ Sliding Doors, MiNNA and Rok Riley. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ MiNNA (UK) @ Si Paradiso on Sat 14 Nov, Perth. 2 artists: MiNNA and Rok Riley. H
 
 ## Line-up
 
+- DJ Sliding Doors
 - MiNNA
 - Rok Riley
 

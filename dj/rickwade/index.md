@@ -1,6 +1,6 @@
 # Rick Wade
 
-Rick Wade is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Email Deepsidebaltimore@gmail.com for info/address, Baltimore on Sat, 14 Nov 2026.
+Rick Wade is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Email Deepsidebaltimore@gmail.com for info/address, Baltimore on Sat, 14 Nov 2026.
 
 Rick Wade is a house and deep house artist based in United States of America, with 64 gigs on soundcheck across Atlanta, Austin, Baltimore and Barcelona and 14 more. Often billed alongside Chuck Daniels, Norm Talley and Curmudgeon. Next up: TBA - Email Deepsidebaltimore@gmail.com for info/address, Baltimore on Sat 14 Nov.
 
@@ -28,4 +28,4 @@ Rick Wade is a house and deep house artist based in United States of America, wi
 
 Chuck Daniels, Norm Talley, Curmudgeon
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rickwade/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rickwade/)*

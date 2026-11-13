@@ -1,8 +1,8 @@
 # Daniel Boon
 
-Daniel Boon is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at ORWO Haus, Berlin on Sat, 21 Nov 2026.
+Daniel Boon is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at ORWO Haus, Berlin on Sat, 21 Nov 2026.
 
-Daniel Boon is a techno and tech house artist based in Germany, with 76 gigs on soundcheck across Berlin. Often billed alongside Basstronauten, LORD of Psychedelics and Diana May. Next up: ORWO Haus, Berlin on Sat 21 Nov.
+Daniel Boon is a techno and tech house artist based in Germany, with 77 gigs on soundcheck across Berlin. Often billed alongside Basstronauten, LORD of Psychedelics and Diana May. Next up: ORWO Haus, Berlin on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Daniel Boon is a techno and tech house artist based in Germany, with 76 gigs on 
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | ORWO Haus | Berlin |
 | Fri, 27 Nov 2026 | Der Weiße Hase | Berlin |
+| Sat, 5 Dec 2026 | M-BIA | Berlin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Daniel Boon is a techno and tech house artist based in Germany, with 76 gigs on 
 
 Basstronauten, LORD of Psychedelics (2), Diana May
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielboon/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielboon/)*

@@ -1,6 +1,6 @@
 # LNY TNZ
 
-LNY TNZ is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Melrose Ballroom, New York City on Fri, 20 Nov 2026.
+LNY TNZ is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Melrose Ballroom, New York City on Fri, 20 Nov 2026.
 
 LNY TNZ is a techno and hardcore artist based in Netherlands, with 12 gigs on soundcheck across Amsterdam, Cologne, Los Angeles and Madrid and 2 more. Often billed alongside Blasterjaxx, Gammer and Lush Tempora. Next up: Melrose Ballroom, New York City on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ LNY TNZ is a techno and hardcore artist based in Netherlands, with 12 gigs on so
 
 Blasterjaxx, Gammer, Lush Tempora
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lnytnz/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lnytnz/)*

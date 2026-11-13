@@ -1,6 +1,6 @@
 # Alex Volta
 
-Alex Volta is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Bahnwärter Thiel, Munich on Thu, 31 Dec 2026.
+Alex Volta is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Bahnwärter Thiel, Munich on Thu, 31 Dec 2026.
 
 Alex Volta is a techno and tech house artist based in Germany, with 47 gigs on soundcheck across Hamburg and Munich. Often billed alongside Nothing But Love, DEYST and Moritz Butschek. Next up: Bahnwärter Thiel, Munich on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Alex Volta is a techno and tech house artist based in Germany, with 47 gigs on s
 
 Nothing But Love, DEYST, Moritz Butschek
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexvolta/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexvolta/)*

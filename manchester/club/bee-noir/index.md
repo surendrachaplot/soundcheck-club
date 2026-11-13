@@ -1,6 +1,6 @@
 # Bee Noir
 
-Bee Noir is a music venue in Manchester with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "TZ Manchester" on Fri, 13 Nov 2026.
+Bee Noir is a music venue in Manchester with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "TZ Manchester" on Fri, 13 Nov 2026.
 
 Bee Noir is a music venue in Manchester listed on soundcheck. 2 upcoming gigs, with line-ups including Drumsound & Bassline Smith and Flux. See dates, start times and who's playing. Arch 1 Trinity Wy Salford M3 5EN England.
 
@@ -15,4 +15,4 @@ Bee Noir is a music venue in Manchester listed on soundcheck. 2 upcoming gigs, w
 
 Arch 1 Trinity Wy Salford M3 5EN England, Manchester
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/bee-noir/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/bee-noir/)*

@@ -1,6 +1,6 @@
 # v1fro
 
-v1fro is a Techno and Reggaeton artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Casa Nube Wynwood, Miami on Sat, 21 Nov 2026.
+v1fro is a Techno and Reggaeton artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Casa Nube Wynwood, Miami on Sat, 21 Nov 2026.
 
 v1fro is a techno and reggaeton artist based in Venezuela, with 48 gigs on soundcheck across Miami. Often billed alongside SATURNSARii, Berrakka and Pressure Point (US). Next up: Casa Nube Wynwood, Miami on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ v1fro is a techno and reggaeton artist based in Venezuela, with 48 gigs on sound
 
 SATURNSARii, Berrakka, Pressure Point (US)
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/v1fro/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/v1fro/)*

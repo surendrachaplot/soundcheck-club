@@ -1,13 +1,14 @@
 # Camille Doe
 
-Camille Doe is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Prospect Building, Bristol on Sat, 28 Nov 2026.
+Camille Doe is a House and Garage artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at La Gravière, Geneva on Fri, 20 Nov 2026.
 
-Camille Doe is a house and garage artist based in France, with 84 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bordeaux and 12 more. Often billed alongside Lefblom, GOGO GREEN and Interplanetary Criminal. Next up: The Prospect Building, Bristol on Sat 28 Nov.
+Camille Doe is a house and garage artist based in France, with 85 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bordeaux and 13 more. Often billed alongside Lefblom, GOGO GREEN and Interplanetary Criminal. Next up: La Gravière, Geneva on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | La Gravière | Geneva |
 | Sat, 28 Nov 2026 | The Prospect Building | Bristol |
 | Fri, 4 Dec 2026 | Mia Mao | Paris |
 | Sat, 30 Jan 2027 | Klokgebouw | Eindhoven |
@@ -27,4 +28,4 @@ Camille Doe is a house and garage artist based in France, with 84 gigs on soundc
 
 Lefblom, GOGO GREEN, Interplanetary Criminal
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/camilledoe/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/camilledoe/)*

@@ -1,6 +1,6 @@
 # M.I.XX.I
 
-M.I.XX.I is a Techno and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Sala Independance Club, Madrid on Thu, 26 Nov 2026.
+M.I.XX.I is a Techno and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Sala Independance Club, Madrid on Thu, 26 Nov 2026.
 
 M.I.XX.I is a techno and latin bass artist based in Spain, with 17 gigs on soundcheck across Madrid. Often billed alongside KITAE, Køni and MVPDJ. Next up: Sala Independance Club, Madrid on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ M.I.XX.I is a techno and latin bass artist based in Spain, with 17 gigs on sound
 
 KITAE, Køni, MVPDJ
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/m.i.xx.i/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/m.i.xx.i/)*

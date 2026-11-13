@@ -1,6 +1,6 @@
 # Central
 
-Central is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Final, Taipei on Sat, 12 Dec 2026.
+Central is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Final, Taipei on Sat, 12 Dec 2026.
 
 Central is a house and techno artist based in Denmark, with 14 gigs on soundcheck across Amsterdam, Bogotá, Bristol and Copenhagen and 5 more. Often billed alongside DJ Popup, Dragana and Manmade Deejay. Next up: Final, Taipei on Sat 12 Dec.
 
@@ -27,4 +27,4 @@ Central is a house and techno artist based in Denmark, with 14 gigs on soundchec
 
 DJ Popup, Dragana, Manmade Deejay
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/central/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/central/)*

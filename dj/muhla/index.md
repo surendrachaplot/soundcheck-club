@@ -1,6 +1,6 @@
 # Muhla
 
-Muhla is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at 1983, Riga on Sat, 21 Nov 2026.
+Muhla is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at 1983, Riga on Sat, 21 Nov 2026.
 
 Muhla is a dubstep and bass artist based in United Kingdom, with 16 gigs on soundcheck across Bristol, Leeds, London and Riga and 2 more. Often billed alongside MINTY, N-Type and SGT Pokes. Next up: 1983, Riga on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Muhla is a dubstep and bass artist based in United Kingdom, with 16 gigs on soun
 
 MINTY, N-Type, SGT Pokes
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/muhla/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/muhla/)*

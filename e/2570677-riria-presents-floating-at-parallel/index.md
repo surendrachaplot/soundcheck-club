@@ -1,6 +1,6 @@
 # RIRIA presents FLOATING at Parallel
 
-RIRIA presents FLOATING at Parallel on Fri 4 Dec, Amsterdam. 1 artist: RIRIA. Garage and Dancehall. See the line-up on soundcheck.
+RIRIA presents FLOATING at Parallel on Fri 4 Dec, Amsterdam. 3 artists: Becking, RIRIA and Saint Ludo. Garage and Dancehall. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ RIRIA presents FLOATING at Parallel on Fri 4 Dec, Amsterdam. 1 artist: RIRIA. Ga
 
 ## Line-up
 
+- Becking
 - RIRIA
+- Saint Ludo
 
 *Source: [soundcheck](https://soundcheck.club/e/2570677-riria-presents-floating-at-parallel/)*

@@ -1,8 +1,8 @@
 # Parallelle
 
-Parallelle is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at fabric, London on Sat, 21 Nov 2026.
+Parallelle is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at fabric, London on Sat, 21 Nov 2026.
 
-Parallelle is a house and deep house artist based in Netherlands, with 119 gigs on soundcheck across Amsterdam, Austin, Barcelona and Basel and 29 more. Often billed alongside Jan Blomqvist, Bedouin and CamelPhat. Next up: fabric, London on Sat 21 Nov.
+Parallelle is a house and deep house artist based in Netherlands, with 120 gigs on soundcheck across Amsterdam, Austin, Barcelona and Basel and 29 more. Often billed alongside Jan Blomqvist, Bedouin and CamelPhat. Next up: fabric, London on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Parallelle is a house and deep house artist based in Netherlands, with 119 gigs 
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | fabric | London |
 | Sat, 28 Nov 2026 | Mason Bar | Cyprus |
+| Fri, 18 Dec 2026 | BERHTA | Washington DC |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Parallelle is a house and deep house artist based in Netherlands, with 119 gigs 
 
 Jan Blomqvist, Bedouin, CamelPhat
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/parallelle/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/parallelle/)*

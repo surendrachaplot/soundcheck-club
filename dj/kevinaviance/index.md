@@ -1,6 +1,6 @@
 # Kevin Aviance
 
-Kevin Aviance is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Public Works, San Francisco/Oakland on Fri, 11 Dec 2026.
+Kevin Aviance is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Public Works, San Francisco/Oakland on Fri, 11 Dec 2026.
 
 Kevin Aviance is a house and techno artist based in United States of America, with 43 gigs on soundcheck across Atlanta, Berlin, Brussels and Chicago and 7 more. Often billed alongside Kilopatrah Jones, The Carry Nation and Boris. Next up: Public Works, San Francisco/Oakland on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Kevin Aviance is a house and techno artist based in United States of America, wi
 
 Kilopatrah Jones, The Carry Nation, Boris
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinaviance/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinaviance/)*

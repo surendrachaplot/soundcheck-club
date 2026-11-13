@@ -1,14 +1,15 @@
 # BEARCAT
 
-BEARCAT is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at House of Yes, New York City on Sat, 14 Nov 2026.
+BEARCAT is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at House of Yes, New York City on Sat, 14 Nov 2026.
 
-BEARCAT is a techno and club artist based in United States of America, with 102 gigs on soundcheck across Amsterdam, Atlanta, Berlin and Chicago and 11 more. Often billed alongside Byrell The Great, planetperris and Shyboi. Next up: House of Yes, New York City on Sat 14 Nov.
+BEARCAT is a techno and club artist based in United States of America, with 103 gigs on soundcheck across Amsterdam, Atlanta, Berlin and Chicago and 11 more. Often billed alongside Byrell The Great, planetperris and Shyboi. Next up: House of Yes, New York City on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | House of Yes | New York City |
+| Fri, 18 Dec 2026 | Signal | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ BEARCAT is a techno and club artist based in United States of America, with 102 
 
 Byrell The Great, planetperris, Shyboi
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bearcat/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bearcat/)*

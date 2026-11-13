@@ -1,6 +1,6 @@
 # Honeycomb Hi-Fi
 
-Honeycomb Hi-Fi is a music venue in Dubai with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "LA CABANA w Mikita & Tony Serban" on Fri, 13 Nov 2026.
+Honeycomb Hi-Fi is a music venue in Dubai with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "LA CABANA w Mikita & Tony Serban" on Fri, 13 Nov 2026.
 
 Honeycomb Hi-Fi is a music venue in Dubai listed on soundcheck. 1 upcoming gig, with line-ups including Tony Serban. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Honeycomb Hi-Fi is a music venue in Dubai listed on soundcheck. 1 upcoming gig, 
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | LA CABANA w Mikita & Tony Serban | Tony Serban |
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dubai/club/honeycomb-hi-fi/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dubai/club/honeycomb-hi-fi/)*

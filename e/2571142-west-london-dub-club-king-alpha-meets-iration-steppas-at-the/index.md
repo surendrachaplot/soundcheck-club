@@ -1,6 +1,6 @@
 # West London Dub Club - King Alpha meets Iration Steppas at The Dominion Centre
 
-West London Dub Club - King Alpha meets Iration Steppas at The Dominion Centre on Sat 12 Dec, London. 1 artist: Iration Steppas. Dub. See the line-up on soundcheck.
+West London Dub Club - King Alpha meets Iration Steppas at The Dominion Centre on Sat 12 Dec, London. 2 artists: Iration Steppas and King Alpha. Bass and Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ West London Dub Club - King Alpha meets Iration Steppas at The Dominion Centre o
 ## Line-up
 
 - Iration Steppas
+- King Alpha
 
 *Source: [soundcheck](https://soundcheck.club/e/2571142-west-london-dub-club-king-alpha-meets-iration-steppas-at-the/)*

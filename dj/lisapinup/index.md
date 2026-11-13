@@ -1,6 +1,6 @@
 # Lisa Pinup
 
-Lisa Pinup is a Trance and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Beaver Works, Leeds on Sat, 14 Nov 2026.
+Lisa Pinup is a Trance and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Beaver Works, Leeds on Sat, 14 Nov 2026.
 
 Lisa Pinup is a trance and house artist based in United Kingdom, with 18 gigs on soundcheck across Leeds, London, Nottingham and Sheffield and 1 more. Often billed alongside Rob Tissera, Pete Monsoon and General Bounce. Next up: Beaver Works, Leeds on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Lisa Pinup is a trance and house artist based in United Kingdom, with 18 gigs on
 
 Rob Tissera, Pete Monsoon, General Bounce
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lisapinup/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lisapinup/)*

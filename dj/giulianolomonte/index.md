@@ -1,6 +1,6 @@
 # Giuliano Lomonte
 
-Giuliano Lomonte is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 14 Nov 2026.
+Giuliano Lomonte is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 14 Nov 2026.
 
 Giuliano Lomonte is a house and minimal artist based in Italy, with 59 gigs on soundcheck across Barcelona, Berlin, Brussels and Bucharest and 21 more. Often billed alongside Nekes, Alex Kraemer and Alexander Skancke. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Giuliano Lomonte is a house and minimal artist based in Italy, with 59 gigs on s
 
 Nekes, Alex Kraemer, Alexander Skancke
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giulianolomonte/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giulianolomonte/)*

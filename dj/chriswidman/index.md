@@ -1,6 +1,6 @@
 # Chris Widman
 
-Chris Widman is a Bass and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Podlasie Club, Chicago on Fri, 27 Nov 2026.
+Chris Widman is a Bass and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Podlasie Club, Chicago on Fri, 27 Nov 2026.
 
 Chris Widman is a bass and electro artist based in United States of America, with 14 gigs on soundcheck across Chicago. Often billed alongside Whoa-B, Toyacoyah and Chrissy. Next up: Podlasie Club, Chicago on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Chris Widman is a bass and electro artist based in United States of America, wit
 
 Whoa-B, Toyacoyah, Chrissy
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chriswidman/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chriswidman/)*

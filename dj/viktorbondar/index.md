@@ -1,6 +1,6 @@
 # Viktor Bondar
 
-Viktor Bondar is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Vektor - The Klub, Budapest on Fri, 13 Nov 2026.
+Viktor Bondar is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Vektor - The Klub, Budapest on Fri, 13 Nov 2026.
 
 Viktor Bondar is a house and techno artist, with 85 gigs on soundcheck across Budapest. Often billed alongside Ratkay, StereoStrip and ANESI. Next up: Vektor - The Klub, Budapest on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Viktor Bondar is a house and techno artist, with 85 gigs on soundcheck across Bu
 
 Ratkay, StereoStrip, ANESI
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/viktorbondar/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/viktorbondar/)*

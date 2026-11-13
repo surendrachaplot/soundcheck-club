@@ -1,6 +1,6 @@
 # Freya Rose
 
-Freya Rose is a Trance and Psytrance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Hangaren, Copenhagen on Fri, 18 Dec 2026.
+Freya Rose is a Trance and Psytrance artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Hangaren, Copenhagen on Fri, 18 Dec 2026.
 
 Freya Rose is a trance and psytrance artist based in Denmark, with 16 gigs on soundcheck across Berlin, Copenhagen and Hamburg. Often billed alongside Lulla-Li, FILTH.y and Goasis. Next up: Hangaren, Copenhagen on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Freya Rose is a trance and psytrance artist based in Denmark, with 16 gigs on so
 
 Lulla-Li, FILTH.y, Goasis
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/freyarose/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/freyarose/)*

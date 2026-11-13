@@ -1,6 +1,6 @@
 # Slyde Drexler
 
-Slyde Drexler is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Apotheke, Los Angeles on Sun, 15 Nov 2026.
+Slyde Drexler is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Apotheke, Los Angeles on Sun, 15 Nov 2026.
 
 Slyde Drexler is a house and deep house artist based in United States of America, with 18 gigs on soundcheck across Austin and Los Angeles. Often billed alongside Jacques-André, Horse Opera and Brother Pate. Next up: Apotheke, Los Angeles on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Slyde Drexler is a house and deep house artist based in United States of America
 
 Jacques-André, Horse Opera, Brother Pate
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slydedrexler/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slydedrexler/)*

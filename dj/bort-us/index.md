@@ -1,6 +1,6 @@
 # Bort
 
-Bort is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Jolene Downtown Miami, Miami on Sat, 14 Nov 2026.
+Bort is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Jolene Downtown Miami, Miami on Sat, 14 Nov 2026.
 
 Bort is a house and techno artist based in United States of America, with 59 gigs on soundcheck across Birmingham, Melbourne and Miami. Often billed alongside True Vine, Sister System and Milo Ziro. Next up: Jolene Downtown Miami, Miami on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Bort is a house and techno artist based in United States of America, with 59 gig
 
 True Vine, Sister System, Milo Ziro
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bort-us/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bort-us/)*

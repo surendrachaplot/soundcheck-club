@@ -1,6 +1,6 @@
 # Expedition Südpol at Südpol
 
-Expedition Südpol on Fri 13 Nov, Hamburg. 19 artists: abs8lute, bīsu, Chioma and Chris Hanke and 15 more. See the line-up on soundcheck.
+Expedition Südpol on Fri 13 Nov, Hamburg. 21 artists: abs8lute, bīsu, Camion Bazar and Chioma and 17 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Expedition Südpol on Fri 13 Nov, Hamburg. 19 artists: abs8lute, bīsu, Chioma a
 
 - abs8lute
 - bīsu
+- Camion Bazar
 - Chioma
 - Chris Hanke
 - DINKS
@@ -19,6 +20,7 @@ Expedition Südpol on Fri 13 Nov, Hamburg. 19 artists: abs8lute, bīsu, Chioma a
 - Falke
 - Horst Haller
 - Jamal
+- Josi Miller (2)
 - Katzenohr
 - Kotoe
 - Melbo

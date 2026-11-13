@@ -1,6 +1,6 @@
 # VALIS 2.0 - The Modern Prometheus at The DBA
 
-VALIS 2.0 - The Modern Prometheus at The DBA on Thu 3 Dec, Manchester. 3 artists: Jarvis Bitcoin, Yyre and ZOLATEC. Hardcore and Industrial. See the line-up on soundcheck.
+VALIS 2.0 - The Modern Prometheus at The DBA on Thu 3 Dec, Manchester. 4 artists: Jarvis Bitcoin, S3ROC, Yyre and ZOLATEC. Hardcore and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ VALIS 2.0 - The Modern Prometheus at The DBA on Thu 3 Dec, Manchester. 3 artists
 ## Line-up
 
 - Jarvis Bitcoin
+- S3ROC
 - Yyre
 - ZOLATEC
 

@@ -1,6 +1,6 @@
 # Andy Stott
 
-Andy Stott is a Experimental and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Auditorium San Fedele, Milan on Mon, 16 Nov 2026.
+Andy Stott is a Experimental and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Auditorium San Fedele, Milan on Mon, 16 Nov 2026.
 
 Andy Stott is an experimental and techno artist based in United Kingdom, with 31 gigs on soundcheck across Athens, Austin, Barcelona and Berlin and 19 more. Often billed alongside Debit, Demdike Stare and The Bug. Next up: Auditorium San Fedele, Milan on Mon 16 Nov.
 
@@ -27,4 +27,4 @@ Andy Stott is an experimental and techno artist based in United Kingdom, with 31
 
 Debit, Demdike Stare, The Bug
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andystott/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andystott/)*

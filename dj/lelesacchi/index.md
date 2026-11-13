@@ -1,6 +1,6 @@
 # Lele Sacchi
 
-Lele Sacchi is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Studionotte, Milan on Fri, 13 Nov 2026.
+Lele Sacchi is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Studionotte, Milan on Fri, 13 Nov 2026.
 
 Lele Sacchi is a house and techno artist based in Italy, with 92 gigs on soundcheck across Amsterdam, Berlin, Bologna and London and 5 more. Often billed alongside Futuro Tropicale, Larry Masmero and Keira Meier. Next up: Studionotte, Milan on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Lele Sacchi is a house and techno artist based in Italy, with 92 gigs on soundch
 
 Futuro Tropicale, Larry Masmero, Keira Meier
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lelesacchi/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lelesacchi/)*

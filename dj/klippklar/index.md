@@ -1,6 +1,6 @@
 # Klipp&Klar
 
-Klipp&Klar is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Bernsteinsee Velten, Brandenburg on Sat, 26 Jun 2027.
+Klipp&Klar is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Bernsteinsee Velten, Brandenburg on Sat, 26 Jun 2027.
 
 Klipp&Klar is a trance and techno artist based in Germany, with 11 gigs on soundcheck across Berlin and Brandenburg. Often billed alongside GHOST DE, Rob Robsen and DJ Jordan. Next up: Bernsteinsee Velten, Brandenburg on Sat 26 Jun.
 
@@ -25,4 +25,4 @@ Klipp&Klar is a trance and techno artist based in Germany, with 11 gigs on sound
 
 GHOST DE, Rob Robsen, DJ Jordan
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/klippklar/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/klippklar/)*

@@ -1,6 +1,6 @@
 # Fallow
 
-Fallow is a Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Plot 22, Sheffield on Fri, 18 Dec 2026.
+Fallow is a Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Plot 22, Sheffield on Fri, 18 Dec 2026.
 
 Fallow is a bass and garage artist based in United Kingdom, with 17 gigs on soundcheck across Leeds, Ljubljana, London and Manchester and 1 more. Often billed alongside Aura (UK), Flirta D and Zubz. Next up: Plot 22, Sheffield on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Fallow is a bass and garage artist based in United Kingdom, with 17 gigs on soun
 
 Aura (UK), Flirta D, Zubz
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fallow/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fallow/)*

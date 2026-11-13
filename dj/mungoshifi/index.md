@@ -1,6 +1,6 @@
 # Mungo's Hi Fi
 
-Mungo's Hi Fi is a Dub and Bass artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Niamos, Manchester on Fri, 13 Nov 2026.
+Mungo's Hi Fi is a Dub and Bass artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Niamos, Manchester on Fri, 13 Nov 2026.
 
 Mungo's Hi Fi is a dub and bass artist based in United Kingdom, with 65 gigs on soundcheck across Birmingham, Brighton, Bristol and Byron Bay and 18 more. Often billed alongside Eva Lazarus, Dillinja and Carasel. Next up: Niamos, Manchester on Fri 13 Nov.
 
@@ -28,4 +28,4 @@ Mungo's Hi Fi is a dub and bass artist based in United Kingdom, with 65 gigs on 
 
 Eva Lazarus, Dillinja, Carasel
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mungoshifi/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mungoshifi/)*

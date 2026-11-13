@@ -1,6 +1,6 @@
 # Fio Fa
 
-Fio Fa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Kyodai, Dublin on Sat, 14 Nov 2026.
+Fio Fa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Kyodai, Dublin on Sat, 14 Nov 2026.
 
 Fio Fa is a house and techno artist, with 35 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Berlin and 12 more. Often billed alongside Cáit, Amaliah and Chapel Walk. Next up: Kyodai, Dublin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Fio Fa is a house and techno artist, with 35 gigs on soundcheck across Amsterdam
 
 Cáit, Amaliah, Chapel Walk
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fiofa/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fiofa/)*

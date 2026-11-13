@@ -1,10 +1,10 @@
 # INTERNET MUSIC PARTY at Amma Cafe
 
-INTERNET MUSIC PARTY at Amma Cafe on Fri 13 Nov, New York City. 4 artists: DJ ATTENTION, SLUTZ, Sophia Riv and y2aura. Electro and Pop. See the line-up on soundcheck.
+INTERNET MUSIC PARTY at Amma Cafe on Sat 12 Dec, New York City. 4 artists: DJ ATTENTION, SLUTZ, Sophia Riv and y2aura. Electro and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Fri, 13 Nov 2026 |
+| Date | Sat, 12 Dec 2026 |
 | Venue | Amma Cafe |
 | City | New York City |
 

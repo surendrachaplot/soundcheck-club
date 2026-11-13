@@ -1,6 +1,6 @@
 # Oktave
 
-Oktave is a Afro House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Open Air Club, New York City on Sat, 14 Nov 2026.
+Oktave is a Afro House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Open Air Club, New York City on Sat, 14 Nov 2026.
 
 Oktave is an afro house and deep house artist based in United States of America, with 35 gigs on soundcheck across Ibiza, Los Angeles, New York City and San Francisco/Oakland. Often billed alongside MoBlack, Caiiro and Francis Mercier. Next up: Open Air Club, New York City on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Oktave is an afro house and deep house artist based in United States of America,
 
 MoBlack, Caiiro, Francis Mercier
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oktave/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oktave/)*

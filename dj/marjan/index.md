@@ -1,6 +1,6 @@
 # Marjan
 
-Marjan is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Elsewhere, New York City on Fri, 18 Dec 2026.
+Marjan is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Elsewhere, New York City on Fri, 18 Dec 2026.
 
 Marjan is a house and tech house artist, with 12 gigs on soundcheck across Berlin and New York City. Often billed alongside baby-g, Anna Almani and Coss. Next up: Elsewhere, New York City on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Marjan is a house and tech house artist, with 12 gigs on soundcheck across Berli
 
 baby-g, Anna Almani, Coss
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marjan/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marjan/)*

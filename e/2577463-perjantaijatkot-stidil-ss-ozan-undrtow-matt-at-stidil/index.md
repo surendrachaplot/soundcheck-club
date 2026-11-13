@@ -1,6 +1,6 @@
 # Perjantaijatkot Stidilässä – Ozan, undrtow, Matt at Stidilä
 
-Perjantaijatkot Stidilässä – Ozan, undrtow, Matt on Sat 14 Nov, Helsinki. 2 artists: Ozan and undrtow. See the line-up on soundcheck.
+Perjantaijatkot Stidilässä – Ozan, undrtow, Matt on Sat 14 Nov, Helsinki. 3 artists: DJ Matt, Ozan and undrtow. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Perjantaijatkot Stidilässä – Ozan, undrtow, Matt on Sat 14 Nov, Helsinki. 2 
 
 ## Line-up
 
+- DJ Matt
 - Ozan
 - undrtow
 

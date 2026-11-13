@@ -1,14 +1,15 @@
 # HYLO (IT)
 
-HYLO (IT) is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Mercato Comunale Isola, Milan on Sat, 14 Nov 2026.
+HYLO (IT) is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Mercato Comunale Isola, Milan on Sat, 14 Nov 2026.
 
-HYLO (IT) is a house and electronica artist based in Italy, with 34 gigs on soundcheck across Milan. Often billed alongside Norabee, Flashmob and O.P.S.. Next up: Mercato Comunale Isola, Milan on Sat 14 Nov.
+HYLO (IT) is a house and electronica artist based in Italy, with 35 gigs on soundcheck across Milan. Often billed alongside Norabee, Flashmob and O.P.S.. Next up: Mercato Comunale Isola, Milan on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Mercato Comunale Isola | Milan |
+| Sun, 22 Nov 2026 | Dazi Milano | Milan |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ HYLO (IT) is a house and electronica artist based in Italy, with 34 gigs on soun
 
 Norabee, Flashmob, O.P.S.
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hyloit/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hyloit/)*

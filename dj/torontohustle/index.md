@@ -1,6 +1,6 @@
 # Toronto Hustle
 
-Toronto Hustle is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA, Vancouver on Sat, 14 Nov 2026.
+Toronto Hustle is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA, Vancouver on Sat, 14 Nov 2026.
 
 Toronto Hustle is a deep house and house artist based in Canada, with 30 gigs on soundcheck across Berlin, Dublin, New York City and Toronto and 1 more. Often billed alongside Roland Gonzales, Sean Roman and Ron Allen. Next up: TBA, Vancouver on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Toronto Hustle is a deep house and house artist based in Canada, with 30 gigs on
 
 Roland Gonzales, Sean Roman, Ron Allen
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/torontohustle/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/torontohustle/)*

@@ -1,6 +1,6 @@
 # KIMOSABE
 
-KIMOSABE is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Tamarack, San Francisco/Oakland on Fri, 18 Dec 2026.
+KIMOSABE is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Tamarack, San Francisco/Oakland on Fri, 18 Dec 2026.
 
 KIMOSABE is a club and techno artist based in United States of America, with 27 gigs on soundcheck across Mexico City, New York City and San Francisco/Oakland. Often billed alongside RITCHRD, QUEENIE (US) and Discnogirl. Next up: Tamarack, San Francisco/Oakland on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ KIMOSABE is a club and techno artist based in United States of America, with 27 
 
 RITCHRD, QUEENIE (US), Discnogirl
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kimosabe/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kimosabe/)*

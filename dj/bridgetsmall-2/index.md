@@ -1,6 +1,6 @@
 # Bridget Small (2)
 
-Bridget Small (2) is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at High Note, Melbourne on Sat, 28 Nov 2026.
+Bridget Small (2) is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at High Note, Melbourne on Sat, 28 Nov 2026.
 
 Bridget Small is an electronica and house artist based in Australia, with 20 gigs on soundcheck across Athens, Melbourne, New South Wales and Perth and 1 more. Often billed alongside Nick Ure, Elsie and Sofay. Next up: High Note, Melbourne on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Bridget Small is an electronica and house artist based in Australia, with 20 gig
 
 Nick Ure, Elsie, Sofay
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bridgetsmall-2/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bridgetsmall-2/)*

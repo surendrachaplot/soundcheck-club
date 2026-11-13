@@ -1,6 +1,6 @@
 # Nico Noir
 
-Nico Noir is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Laissez Faire, New York City on Fri, 27 Nov 2026.
+Nico Noir is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Laissez Faire, New York City on Fri, 27 Nov 2026.
 
 Nico Noir is a house and minimal artist based in Argentina, with 24 gigs on soundcheck across Berlin and New York City. Often billed alongside Yochanan, Ani Be and Ryan Maxwell. Next up: Laissez Faire, New York City on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Nico Noir is a house and minimal artist based in Argentina, with 24 gigs on soun
 
 Yochanan, Ani Be, Ryan Maxwell
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/niconoir/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/niconoir/)*

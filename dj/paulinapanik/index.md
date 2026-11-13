@@ -1,6 +1,6 @@
 # Paulina Panik
 
-Paulina Panik is a New Wave and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Kino Central, Berlin on Tue, 15 Dec 2026.
+Paulina Panik is a New Wave and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Kino Central, Berlin on Tue, 15 Dec 2026.
 
 Paulina Panik is a new wave and post-punk artist based in Germany, with 24 gigs on soundcheck across Berlin, Manchester and Paris. Often billed alongside Carlos GrabStein, Emmanuelle 5 and Philipp Strobel. Next up: Kino Central, Berlin on Tue 15 Dec.
 
@@ -25,4 +25,4 @@ Paulina Panik is a new wave and post-punk artist based in Germany, with 24 gigs 
 
 Carlos GrabStein, Emmanuelle 5, Philipp Strobel
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paulinapanik/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paulinapanik/)*

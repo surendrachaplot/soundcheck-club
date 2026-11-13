@@ -1,6 +1,6 @@
 # Risa Taniguchi
 
-Risa Taniguchi is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Joule, Osaka on Sat, 14 Nov 2026.
+Risa Taniguchi is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Joule, Osaka on Sat, 14 Nov 2026.
 
 Risa Taniguchi is a techno and house artist based in Japan, with 125 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bologna and 14 more. Often billed alongside Drunken Kong, YURI VALEN and Ken Ishii. Next up: Joule, Osaka on Sat 14 Nov.
 
@@ -32,4 +32,4 @@ Risa Taniguchi is a techno and house artist based in Japan, with 125 gigs on sou
 
 Drunken Kong, YURI VALEN, Ken Ishii
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/risataniguchi/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/risataniguchi/)*

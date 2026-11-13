@@ -1,14 +1,15 @@
 # polymaas
 
-polymaas is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Quarry, Liverpool on Fri, 20 Nov 2026.
+polymaas is a House and Italo Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Quarry, Liverpool on Fri, 20 Nov 2026.
 
-polymaas is a house and italo disco artist based in United Kingdom, with 22 gigs on soundcheck across Liverpool. Often billed alongside aaypea, Giovanna and Blenky. Next up: Quarry, Liverpool on Fri 20 Nov.
+polymaas is a house and italo disco artist based in United Kingdom, with 23 gigs on soundcheck across Liverpool. Often billed alongside aaypea, Giovanna and Blenky. Next up: Quarry, Liverpool on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Quarry | Liverpool |
+| Fri, 27 Nov 2026 | Kazimier Garden | Liverpool |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ polymaas is a house and italo disco artist based in United Kingdom, with 22 gigs
 
 aaypea, Giovanna, Blenky
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/polymaas/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/polymaas/)*

@@ -1,6 +1,6 @@
 # DNA (2)
 
-DNA (2) is a House and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Campground 1H from DTLA, Los-angeles on Fri, 16 Apr 2027.
+DNA (2) is a House and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Campground 1H from DTLA, Los-angeles on Fri, 16 Apr 2027.
 
 DNA is a house and drum & bass artist, with 17 gigs on soundcheck across London, Los Angeles, Manchester and Paris and 3 more. Often billed alongside Billy Gillies, Dave Pearce and Giuseppe Ottaviani. Next up: TBA - Campground 1H from DTLA, Los Angeles on Fri 16 Apr.
 
@@ -25,4 +25,4 @@ DNA is a house and drum & bass artist, with 17 gigs on soundcheck across London,
 
 Billy Gillies, Dave Pearce, Giuseppe Ottaviani
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dna-2/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dna-2/)*

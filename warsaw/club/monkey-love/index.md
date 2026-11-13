@@ -1,6 +1,6 @@
 # MONKEY LOVE
 
-MONKEY LOVE is a music venue in Warsaw with 9 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "39 DEGREES pres. Jose Noventa x Jellin x Nowosad x Schmeltzer x Ketiov" on Fri, 13 Nov 2026.
+MONKEY LOVE is a music venue in Warsaw with 9 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "39 DEGREES pres. Jose Noventa x Jellin x Nowosad x Schmeltzer x Ketiov" on Fri, 13 Nov 2026.
 
 MONKEY LOVE is a music venue in Warsaw listed on soundcheck. 9 upcoming gigs, with line-ups including Franczesko, bart ender, D I N and Easy Audio and 2 more. See dates, start times and who's playing. Bulwar Flotylii Pińskiej 1a, 00-468 Warszawa.
 
@@ -22,4 +22,4 @@ MONKEY LOVE is a music venue in Warsaw listed on soundcheck. 9 upcoming gigs, wi
 
 Bulwar Flotylii Pińskiej 1a, 00-468 Warszawa, Warsaw
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/monkey-love/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/monkey-love/)*

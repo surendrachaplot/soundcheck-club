@@ -1,6 +1,6 @@
 # Imogene
 
-Imogene is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Nyapi, Seoul on Fri, 20 Nov 2026.
+Imogene is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Nyapi, Seoul on Fri, 20 Nov 2026.
 
 Imogene is a house and disco artist based in South Korea, with 62 gigs on soundcheck across Beijing and Seoul. Often billed alongside Cozyhoon, Gyusco and Ligrye. Next up: Nyapi, Seoul on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Imogene is a house and disco artist based in South Korea, with 62 gigs on soundc
 
 Cozyhoon, Gyusco, Ligrye
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/imogene/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/imogene/)*

@@ -1,6 +1,6 @@
 # Kyau & Albert
 
-Kyau & Albert is a Trance and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Club Paula, Dresden on Sat, 12 Dec 2026.
+Kyau & Albert is a Trance and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Club Paula, Dresden on Sat, 12 Dec 2026.
 
 Kyau & Albert are a trance and progressive house duo based in Germany, with 19 gigs on soundcheck across Dresden, Dublin, Glasgow and Hamburg and 11 more. Often billed alongside nümind, Boss Axis and Stoneface & Terminal. Next up: Club Paula, Dresden on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Kyau & Albert are a trance and progressive house duo based in Germany, with 19 g
 
 nümind, Boss Axis, Stoneface & Terminal
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kyaualbert/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kyaualbert/)*

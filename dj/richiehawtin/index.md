@@ -1,6 +1,6 @@
 # Richie Hawtin
 
-Richie Hawtin is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at MoN Takanawa, Tokyo on Fri, 20 Nov 2026.
+Richie Hawtin is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at MoN Takanawa, Tokyo on Fri, 20 Nov 2026.
 
 Richie Hawtin is a techno and house artist based in United Kingdom, with 208 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 61 more. Often billed alongside Adiel, Héctor Oaks and Nina Kraviz. Next up: MoN Takanawa, Tokyo on Fri 20 Nov.
 
@@ -34,4 +34,4 @@ Richie Hawtin is a techno and house artist based in United Kingdom, with 208 gig
 
 Adiel, Héctor Oaks, Nina Kraviz
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/richiehawtin/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/richiehawtin/)*

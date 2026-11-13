@@ -1,6 +1,6 @@
 # Dis Fig & Microplastics [Co-Headline] [Live] at The White Hotel
 
-Dis Fig & Microplastics [Co-Headline] [Live] at The White Hotel on Fri 11 Dec, Manchester. 2 artists: Dis Fig and Microplastics. See the line-up on soundcheck.
+Dis Fig & Microplastics [Co-Headline] [Live] at The White Hotel on Fri 11 Dec, Manchester. 2 artists: Dis Fig and Microplastics. Industrial and Noise. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Area X: Immersion at TBA - Brooklyn
 
-Area X: Immersion at TBA - Brooklyn on Sat 5 Dec, New York City. 5 artists: Daybreak, Noctus, SEELIE. and Shanti and 1 more. Trance and Techno. See the line-up on soundcheck.
+Area X: Immersion at TBA - Brooklyn on Sat 5 Dec, New York City. 6 artists: Daybreak, Helena Ma, Noctus and SEELIE. and 2 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Area X: Immersion at TBA - Brooklyn on Sat 5 Dec, New York City. 5 artists: Dayb
 ## Line-up
 
 - Daybreak
+- Helena Ma
 - Noctus
 - SEELIE.
 - Shanti

@@ -1,6 +1,6 @@
 # The Glove That Fits
 
-The Glove That Fits is a music venue in London with 17 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Pumping Velvet x Handclap: Cleyra, Jaye Ward, SPRKLBB" on Fri, 13 Nov 2026.
+The Glove That Fits is a music venue in London with 17 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Pumping Velvet x Handclap: Cleyra, Jaye Ward, SPRKLBB" on Fri, 13 Nov 2026.
 
 The Glove That Fits is a music venue in London listed on soundcheck. 17 upcoming gigs, with line-ups including Alaïs, Amor Ante, Aniaef and ANTØNIØ. and 2 more. See dates, start times and who's playing. 179 Morning Lane, Hackney, E96LH, United Kingdom.
 
@@ -23,4 +23,4 @@ The Glove That Fits is a music venue in London listed on soundcheck. 17 upcoming
 
 179 Morning Lane, Hackney, E96LH, United Kingdom, London
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-glove-that-fits/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-glove-that-fits/)*

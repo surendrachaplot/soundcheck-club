@@ -1,6 +1,6 @@
 # MikyCiL
 
-MikyCiL is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Kindergarten Club, Bologna on Sat, 21 Nov 2026.
+MikyCiL is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Kindergarten Club, Bologna on Sat, 21 Nov 2026.
 
 MikyCiL is a techno and drum & bass artist based in Italy, with 20 gigs on soundcheck across Berlin and Bologna. Often billed alongside Ric de Large, epcoraw and AMRTUM. Next up: Kindergarten Club, Bologna on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ MikyCiL is a techno and drum & bass artist based in Italy, with 20 gigs on sound
 
 Ric de Large, epcoraw, AMRTUM
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikycil/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikycil/)*

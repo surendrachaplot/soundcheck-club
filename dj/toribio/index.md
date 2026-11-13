@@ -1,6 +1,6 @@
 # Toribio
 
-Toribio is a House and Disco artist with 8 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Bar Mezzo, Tampa Bay on Sat, 14 Nov 2026.
+Toribio is a House and Disco artist with 8 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Bar Mezzo, Tampa Bay on Sat, 14 Nov 2026.
 
 Toribio is a house and disco artist based in United States of America, with 238 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 24 more. Often billed alongside Mickey Perez, Love Injection and Guthrie. Next up: Bar Mezzo, Tampa Bay on Sat 14 Nov.
 
@@ -32,4 +32,4 @@ Toribio is a house and disco artist based in United States of America, with 238 
 
 Mickey Perez, Love Injection, Guthrie
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toribio/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toribio/)*

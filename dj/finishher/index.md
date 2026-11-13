@@ -1,6 +1,6 @@
 # FINISHHER
 
-FINISHHER is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at There/There, San Francisco/Oakland on Fri, 27 Nov 2026.
+FINISHHER is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at There/There, San Francisco/Oakland on Fri, 27 Nov 2026.
 
 FINISHHER is a club and techno artist based in United States of America, with 52 gigs on soundcheck across New York City and San Francisco/Oakland. Often billed alongside Tom Marsi, Bored Lord and Del. Next up: There/There, San Francisco/Oakland on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ FINISHHER is a club and techno artist based in United States of America, with 52
 
 Tom Marsi, Bored Lord, Del (4)
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/finishher/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/finishher/)*

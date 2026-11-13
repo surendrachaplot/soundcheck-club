@@ -1,15 +1,14 @@
 # Hissy Fit
 
-Hissy Fit is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Echostage, Washington DC on Fri, 13 Nov 2026.
+Hissy Fit is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Echostage, Washington DC on Fri, 13 Nov 2026.
 
-Hissy Fit is a club and techno artist based in Canada, with 9 gigs on soundcheck across San Francisco/Oakland and Washington DC. Often billed alongside Franxx, Gabberbitch69 and GET FACE. Next up: Echostage, Washington DC on Fri 13 Nov.
+Hissy Fit is a techno and club artist based in Canada, with 8 gigs on soundcheck across San Francisco/Oakland and Washington DC. Often billed alongside Gabberbitch69, Franxx and DJ Land Reform. Next up: Echostage, Washington DC on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Echostage | Washington DC |
-| Sat, 14 Nov 2026 | TRANSMISSION DC | Washington DC |
 
 ## Recently played
 
@@ -23,6 +22,6 @@ Hissy Fit is a club and techno artist based in Canada, with 9 gigs on soundcheck
 
 ## Shares bills with
 
-Franxx, Gabberbitch69, GET FACE
+Gabberbitch69, Franxx, DJ Land Reform
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hissyfit/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hissyfit/)*

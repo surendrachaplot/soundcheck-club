@@ -1,6 +1,6 @@
 # Ocean Lam
 
-Ocean Lam is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Happy Buddha, Vietnam on Thu, 31 Dec 2026.
+Ocean Lam is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Happy Buddha, Vietnam on Thu, 31 Dec 2026.
 
 Ocean Lam is a techno and house artist based in China, with 49 gigs on soundcheck across Bangkok, Barcelona, Beijing and Berlin and 6 more. Often billed alongside DJ Anthony2, Cesare vs Disorder and Jeremy Cheung. Next up: Happy Buddha, Vietnam on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Ocean Lam is a techno and house artist based in China, with 49 gigs on soundchec
 
 DJ Anthony2, Cesare vs Disorder, Jeremy Cheung
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oceanlam/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oceanlam/)*

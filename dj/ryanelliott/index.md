@@ -1,8 +1,8 @@
 # Ryan Elliott
 
-Ryan Elliott is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Folklor, Lausanne on Fri, 13 Nov 2026.
+Ryan Elliott is a House and Techno artist with 15 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Folklor, Lausanne on Fri, 13 Nov 2026.
 
-Ryan Elliott is a house and techno artist based in United States of America, with 275 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 70 more. Often billed alongside Ogazón, Christian AB and PARAMIDA. Next up: Folklor, Lausanne on Fri 13 Nov.
+Ryan Elliott is a house and techno artist based in United States of America, with 276 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 70 more. Often billed alongside Ogazón, Christian AB and PARAMIDA. Next up: Folklor, Lausanne on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -15,11 +15,11 @@ Ryan Elliott is a house and techno artist based in United States of America, wit
 | Sun, 22 Nov 2026 | essaim | Paris |
 | Wed, 25 Nov 2026 | Nowadays | New York City |
 | Fri, 27 Nov 2026 | Ace*Mission | Los Angeles |
+| Sat, 28 Nov 2026 | Jolene Downtown Miami | Miami |
 | Sat, 5 Dec 2026 | fabric | London |
 | Sat, 12 Dec 2026 | Sub Club | Glasgow |
 | Sat, 19 Dec 2026 | Depot Mayfield | Manchester |
 | Fri, 28 May 2027 | Peckham Rye Park | London |
-| Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Ryan Elliott is a house and techno artist based in United States of America, wit
 
 Ogazón, Christian AB, PARAMIDA
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanelliott/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanelliott/)*

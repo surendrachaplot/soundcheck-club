@@ -1,6 +1,6 @@
 # After do Teixeira
 
-After do Teixeira is a music venue in Sao Paulo with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "After do Teixeira - B.day Ju Zanardi" on Sun, 15 Nov 2026.
+After do Teixeira is a music venue in Sao Paulo with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "After do Teixeira - B.day Ju Zanardi" on Sun, 15 Nov 2026.
 
 After do Teixeira is a music venue in Sao Paulo listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ After do Teixeira is a music venue in Sao Paulo listed on soundcheck. 1 upcoming
 | --- | --- | --- |
 | Sun, 15 Nov 2026 | After do Teixeira - B.day Ju Zanardi |  |
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/after-do-teixeira/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/after-do-teixeira/)*

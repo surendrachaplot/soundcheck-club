@@ -1,14 +1,15 @@
 # sianza
 
-sianza is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Macadam, Nantes on Fri, 13 Nov 2026.
+sianza is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Macadam, Nantes on Fri, 13 Nov 2026.
 
-sianza is a house and electronica artist based in Germany, with 108 gigs on soundcheck across Amsterdam, Berlin, Cologne and Florence and 12 more. Often billed alongside Benjamin Roeder, Bogus Trumper and DJoy. Next up: Macadam, Nantes on Fri 13 Nov.
+sianza is a house and electronica artist based in Germany, with 109 gigs on soundcheck across Amsterdam, Berlin, Cologne and Florence and 12 more. Often billed alongside Benjamin Roeder, Bogus Trumper and DJoy. Next up: Macadam, Nantes on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Macadam | Nantes |
+| Sat, 21 Nov 2026 | Charlie | Munich |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ sianza is a house and electronica artist based in Germany, with 108 gigs on soun
 
 Benjamin Roeder, Bogus Trumper, DJoy
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sianza/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sianza/)*

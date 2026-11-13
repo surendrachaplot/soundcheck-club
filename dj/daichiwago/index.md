@@ -1,6 +1,6 @@
 # Daichi Wago
 
-Daichi Wago is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Forestlimit, Tokyo on Fri, 18 Dec 2026.
+Daichi Wago is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Forestlimit, Tokyo on Fri, 18 Dec 2026.
 
 Daichi Wago is an experimental and electronica artist based in Japan, with 10 gigs on soundcheck across Kyoto and Tokyo. Often billed alongside Can, 478 and AKIRAM EN. Next up: Forestlimit, Tokyo on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Daichi Wago is an experimental and electronica artist based in Japan, with 10 gi
 
 Can (8), 478 (1), AKIRAM EN
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daichiwago/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daichiwago/)*

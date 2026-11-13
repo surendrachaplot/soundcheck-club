@@ -1,6 +1,6 @@
 # Lust For Youth
 
-Lust For Youth is a New Wave and Post-Punk artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Cause, London on Sat, 28 Nov 2026.
+Lust For Youth is a New Wave and Post-Punk artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Cause, London on Sat, 28 Nov 2026.
 
 Lust For Youth is a new wave and post-punk artist based in Sweden, with 30 gigs on soundcheck across Belgrade, Berlin, Copenhagen and Glasgow and 9 more. Often billed alongside Croatian Amor, Mai Mai Mai and Mermaid Chunky. Next up: The Cause, London on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Lust For Youth is a new wave and post-punk artist based in Sweden, with 30 gigs 
 
 Croatian Amor, Mai Mai Mai, Mermaid Chunky
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lustforyouth/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lustforyouth/)*

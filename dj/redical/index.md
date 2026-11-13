@@ -1,6 +1,6 @@
 # Redical
 
-Redical is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Duel Club, Naples on Sat, 14 Nov 2026.
+Redical is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Duel Club, Naples on Sat, 14 Nov 2026.
 
 Redical is a tech house and house artist based in Italy, with 12 gigs on soundcheck across Amsterdam and Naples. Often billed alongside Alex Bohemien, Key Eff and Bruno Mazzei. Next up: Duel Club, Naples on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Redical is a tech house and house artist based in Italy, with 12 gigs on soundch
 
 Alex Bohemien, Key Eff, Bruno Mazzei
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/redical/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/redical/)*

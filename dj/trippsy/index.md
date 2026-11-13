@@ -1,14 +1,14 @@
 # Trippsy
 
-Trippsy is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Elastica, Vilnius on Thu, 12 Nov 2026.
+Trippsy is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Elastica, Vilnius on Fri, 13 Nov 2026.
 
-Trippsy is a techno and house artist based in Lithuania, with 28 gigs on soundcheck across Beijing, Berlin, Budapest and Krakow and 3 more. Often billed alongside Donatas Chipak, Shjva and Aiste Regina. Next up: Elastica, Vilnius on Thu 12 Nov.
+Trippsy is a techno and house artist based in Lithuania, with 28 gigs on soundcheck across Beijing, Berlin, Budapest and Krakow and 3 more. Often billed alongside Donatas Chipak, Shjva and Aiste Regina. Next up: Elastica, Vilnius on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 12 Nov 2026 | Elastica | Vilnius |
+| Fri, 13 Nov 2026 | Elastica | Vilnius |
 | Sat, 28 Nov 2026 | Mastak | Warsaw |
 
 ## Recently played
@@ -26,4 +26,4 @@ Trippsy is a techno and house artist based in Lithuania, with 28 gigs on soundch
 
 Donatas Chipak, Shjva, Aiste Regina
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trippsy/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trippsy/)*

@@ -1,6 +1,6 @@
 # Carlo Mognaschi
 
-Carlo Mognaschi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Q Club, Milan on Fri, 13 Nov 2026.
+Carlo Mognaschi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Q Club, Milan on Fri, 13 Nov 2026.
 
 Carlo Mognaschi is a techno and house artist based in Italy, with 14 gigs on soundcheck across Milan. Often billed alongside MarcoDs, Marco Ds and 131bpm. Next up: Q Club, Milan on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Carlo Mognaschi is a techno and house artist based in Italy, with 14 gigs on sou
 
 MarcoDs, Marco Ds, 131bpm
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlomognaschi/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlomognaschi/)*

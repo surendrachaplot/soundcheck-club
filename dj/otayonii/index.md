@@ -1,18 +1,18 @@
 # otay:onii
 
-otay:onii is a Experimental and Noise artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Culterim, Berlin on Thu, 12 Nov 2026.
+otay:onii is a Experimental and Noise artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at MS Stubnitz, Hamburg on Sat, 14 Nov 2026.
 
-otay:onii is an experimental and noise artist based in China, with 16 gigs on soundcheck across Berlin, Cologne, Hamburg and Ljubljana and 5 more. Often billed alongside Assyouti, Dame Area and HMOT. Next up: Culterim, Berlin on Thu 12 Nov.
+otay:onii is an experimental and noise artist based in China, with 16 gigs on soundcheck across Berlin, Cologne, Hamburg and Ljubljana and 5 more. Often billed alongside Assyouti, Dame Area and HMOT. Next up: MS Stubnitz, Hamburg on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 12 Nov 2026 | Culterim | Berlin |
 | Sat, 14 Nov 2026 | MS Stubnitz | Hamburg |
 
 ## Recently played
 
+- Culterim, Berlin · Thu, 12 Nov 2026
 - La Mécanique Ondulatoire, Paris · Sat, 13 Dec 2025
 - Kölner Philharmonie, Cologne · Thu, 25 Sept 2025
 - TBA - Gropius Bau, Berlin · Thu, 7 Aug 2025
@@ -20,10 +20,9 @@ otay:onii is an experimental and noise artist based in China, with 16 gigs on so
 - Inkonst, Malmo · Wed, 23 Apr 2025
 - Bi Nuu, Berlin · Tue, 22 Oct 2024
 - Channel Zero, Ljubljana · Thu, 10 Oct 2024
-- Fitzroy, Berlin · Thu, 15 Aug 2024
 
 ## Shares bills with
 
 Assyouti, Dame Area, HMOT
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/otayonii/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/otayonii/)*

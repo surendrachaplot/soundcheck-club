@@ -1,6 +1,6 @@
 # Xaxer
 
-Xaxer is a Techno and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Fri, 20 Nov 2026.
+Xaxer is a Techno and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Fri, 20 Nov 2026.
 
 Xaxer is a techno and latin bass artist based in Ecuador, with 14 gigs on soundcheck across London, Mexico City, Milan and New York City and 1 more. Often billed alongside Ikävä Pii, Muy Muy and Aitch. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Xaxer is a techno and latin bass artist based in Ecuador, with 14 gigs on soundc
 
 Ikävä Pii, Muy Muy, Aitch (2)
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xaxer/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xaxer/)*

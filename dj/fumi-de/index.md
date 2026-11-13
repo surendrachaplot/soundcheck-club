@@ -1,6 +1,6 @@
 # fumi (DE)
 
-fumi (DE) is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Industrie, Sicily on Sat, 14 Nov 2026.
+fumi (DE) is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Industrie, Sicily on Sat, 14 Nov 2026.
 
 fumi (DE) is a techno and trance artist based in Germany, with 162 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 53 more. Often billed alongside Serafina, Adrian Mills and Cloudy. Next up: Industrie, Sicily on Sat 14 Nov.
 
@@ -31,4 +31,4 @@ fumi (DE) is a techno and trance artist based in Germany, with 162 gigs on sound
 
 Serafina, Adrian Mills, Cloudy
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fumi-de/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fumi-de/)*

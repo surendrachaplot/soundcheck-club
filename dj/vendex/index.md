@@ -1,8 +1,8 @@
 # Vendex
 
-Vendex is a Techno and Industrial artist with 11 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at E1, London on Fri, 13 Nov 2026.
+Vendex is a Techno and Industrial artist with 12 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at E1, London on Fri, 13 Nov 2026.
 
-Vendex is a techno and industrial artist based in Spain, with 230 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 82 more. Often billed alongside CARV, Alignment and Azyr. Next up: E1, London on Fri 13 Nov.
+Vendex is a techno and industrial artist based in Spain, with 231 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 82 more. Often billed alongside CARV, Alignment and Azyr. Next up: E1, London on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Vendex is a techno and industrial artist based in Spain, with 230 gigs on soundc
 | Sat, 28 Nov 2026 | Clwd | Sofia |
 | Sat, 5 Dec 2026 | Zenith - Die Kulturhalle | Munich |
 | Sat, 12 Dec 2026 | Kompass Klub | Ghent |
+| Fri, 18 Dec 2026 | OST | Berlin |
 | Sat, 19 Dec 2026 | Airport Würzburg | Nürnberg |
 | Sat, 19 Dec 2026 | Hans Bunte Areal | Freiburg |
 | Wed, 30 Dec 2026 | Brussels Expo | Brussels |
@@ -35,4 +36,4 @@ Vendex is a techno and industrial artist based in Spain, with 230 gigs on soundc
 
 CARV, Alignment, Azyr
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vendex/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vendex/)*

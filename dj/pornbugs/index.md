@@ -1,6 +1,6 @@
 # Pornbugs
 
-Pornbugs is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at San Diego Made Factory, San Diego on Sat, 5 Dec 2026.
+Pornbugs is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at San Diego Made Factory, San Diego on Sat, 5 Dec 2026.
 
 Pornbugs is a house and deep house artist based in Germany, with 55 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 13 more. Often billed alongside Rangø, ANĪC and LEENI. Next up: San Diego Made Factory, San Diego on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Pornbugs is a house and deep house artist based in Germany, with 55 gigs on soun
 
 Rangø, ANĪC, LEENI
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pornbugs/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pornbugs/)*

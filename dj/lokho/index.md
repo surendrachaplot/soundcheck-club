@@ -1,6 +1,6 @@
 # LoKho
 
-LoKho is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at H0L0, New York City on Thu, 3 Dec 2026.
+LoKho is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at H0L0, New York City on Thu, 3 Dec 2026.
 
 LoKho is a house and techno artist, with 25 gigs on soundcheck across Brussels and New York City. Often billed alongside Abril IRL, Scribble and DNC. Next up: H0L0, New York City on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ LoKho is a house and techno artist, with 25 gigs on soundcheck across Brussels a
 
 Abril IRL, Scribble, DNC (1)
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lokho/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lokho/)*

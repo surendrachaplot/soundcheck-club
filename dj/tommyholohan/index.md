@@ -1,6 +1,6 @@
 # Tommy Holohan
 
-Tommy Holohan is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at SWG3, Glasgow on Sat, 28 Nov 2026.
+Tommy Holohan is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at SWG3, Glasgow on Sat, 28 Nov 2026.
 
 Tommy Holohan is a techno and house artist based in Ireland, with 124 gigs on soundcheck across Aberdeen, Amsterdam, Barcelona and Belfast and 44 more. Often billed alongside KETTAMA, Clouds and X CLUB.. Next up: SWG3, Glasgow on Sat 28 Nov.
 
@@ -30,4 +30,4 @@ Tommy Holohan is a techno and house artist based in Ireland, with 124 gigs on so
 
 KETTAMA, Clouds, X CLUB.
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyholohan/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyholohan/)*

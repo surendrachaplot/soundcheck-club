@@ -1,6 +1,6 @@
 # Flowranch
 
-Flowranch is a music venue in Quebec City with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "PTG till sunrise with Ciel" on Sat, 12 Dec 2026.
+Flowranch is a music venue in Quebec City with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "PTG till sunrise with Ciel" on Sat, 12 Dec 2026.
 
 Flowranch is a music venue in Quebec City listed on soundcheck. 1 upcoming gig, with line-ups including Bioquake, Buisson, Caterina Infinity and Ciel and 1 more. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Flowranch is a music venue in Quebec City listed on soundcheck. 1 upcoming gig, 
 | --- | --- | --- |
 | Sat, 12 Dec 2026 | PTG till sunrise with Ciel | Bioquake, Buisson, Caterina Infinity, Ciel, Claire |
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/quebeccity/club/flowranch/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/quebeccity/club/flowranch/)*

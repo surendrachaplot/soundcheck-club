@@ -1,6 +1,6 @@
 # DJ Kane (1)
 
-DJ Kane (1) is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Waiting Room, London on Sat, 14 Nov 2026.
+DJ Kane (1) is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Waiting Room, London on Sat, 14 Nov 2026.
 
 DJ Kane is a drum & bass and jungle artist based in United Kingdom, with 18 gigs on soundcheck across London. Often billed alongside MC Gusto, Abby Daze and Congo Natty. Next up: The Waiting Room, London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ DJ Kane is a drum & bass and jungle artist based in United Kingdom, with 18 gigs
 
 MC Gusto, Abby Daze, Congo Natty
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djkane-1/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djkane-1/)*

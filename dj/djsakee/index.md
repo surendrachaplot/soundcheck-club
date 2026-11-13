@@ -1,6 +1,6 @@
 # DJ Sakee
 
-DJ Sakee is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Very Special LA, Los Angeles on Sun, 15 Nov 2026.
+DJ Sakee is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Very Special LA, Los Angeles on Sun, 15 Nov 2026.
 
 DJ Sakee is a techno and house artist based in United States of America, with 11 gigs on soundcheck across Los Angeles, New York City and San Francisco/Oakland. Often billed alongside AGROPOL, AVILA and Ava Blank. Next up: Very Special LA, Los Angeles on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ DJ Sakee is a techno and house artist based in United States of America, with 11
 
 AGROPOL, AVILA, Ava Blank
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsakee/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsakee/)*

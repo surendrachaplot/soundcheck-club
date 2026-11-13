@@ -1,6 +1,6 @@
 # SPRFRK
 
-SPRFRK is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Animal, New York City on Sat, 14 Nov 2026.
+SPRFRK is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Animal, New York City on Sat, 14 Nov 2026.
 
 SPRFRK is a house and techno artist based in United States of America, with 71 gigs on soundcheck across New York City, Pittsburgh and Toronto. Often billed alongside Kandylion, fernanDITO and Foster, just Foster.. Next up: Animal, New York City on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ SPRFRK is a house and techno artist based in United States of America, with 71 g
 
 Kandylion, fernanDITO, Foster, just Foster.
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sprfrk/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sprfrk/)*

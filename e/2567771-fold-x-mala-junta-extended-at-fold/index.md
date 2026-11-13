@@ -1,6 +1,6 @@
 # FOLD X Mala Junta (EXTENDED) at FOLD
 
-FOLD X Mala Junta (EXTENDED) on Sat 14 Nov, London. 11 artists: Byron Yeates, D.Dan, DJ TOOL and Hyperaktivist and 7 more. Techno and Electro. See the line-up on soundcheck.
+FOLD X Mala Junta (EXTENDED) on Sat 14 Nov, London. 12 artists: ābnamā, Byron Yeates, D.Dan and DJ TOOL and 8 more. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ FOLD X Mala Junta (EXTENDED) on Sat 14 Nov, London. 11 artists: Byron Yeates, D.
 
 ## Line-up
 
+- ābnamā
 - Byron Yeates
 - D.Dan
 - DJ TOOL

@@ -1,6 +1,6 @@
 # Astra Kulturhaus
 
-Astra Kulturhaus is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Alceu Valença - 80 Sunflowers - Berlin" on Fri, 13 Nov 2026.
+Astra Kulturhaus is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Alceu Valença - 80 Sunflowers - Berlin" on Fri, 13 Nov 2026.
 
 Astra Kulturhaus is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with line-ups including Sylvan Esso. See dates, start times and who's playing. Revaler Strasse 99; Friedrichshain; 10245 Berlin; Germany.
 
@@ -18,4 +18,4 @@ Astra Kulturhaus is a music venue in Berlin listed on soundcheck. 5 upcoming gig
 
 Revaler Strasse 99; Friedrichshain; 10245 Berlin; Germany, Berlin
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/astra-kulturhaus/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/astra-kulturhaus/)*

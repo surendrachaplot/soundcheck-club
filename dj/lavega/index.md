@@ -1,6 +1,6 @@
 # La Vega
 
-La Vega is a House and Pop artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Jupiter Disco, New York City on Wed, 18 Nov 2026.
+La Vega is a House and Pop artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Jupiter Disco, New York City on Wed, 18 Nov 2026.
 
 La Vega is a house and pop artist based in United States of America, with 78 gigs on soundcheck across Atlanta, Barcelona, Berlin and Detroit and 7 more. Often billed alongside Ree de la Vega, Taradactyl and Jash Jay. Next up: Jupiter Disco, New York City on Wed 18 Nov.
 
@@ -27,4 +27,4 @@ La Vega is a house and pop artist based in United States of America, with 78 gig
 
 Ree de la Vega, Taradactyl, Jash Jay
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lavega/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lavega/)*

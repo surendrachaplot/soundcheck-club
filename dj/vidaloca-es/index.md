@@ -1,6 +1,6 @@
 # Vidaloca
 
-Vidaloca is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at BORIS CLUB, Barcelona on Sat, 21 Nov 2026.
+Vidaloca is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at BORIS CLUB, Barcelona on Sat, 21 Nov 2026.
 
 Vidaloca is a tech house and house artist based in Spain, with 85 gigs on soundcheck across Amsterdam, Barcelona, Bologna and Buenos Aires and 9 more. Often billed alongside Pau Guilera, DIROS and Abdon. Next up: BORIS CLUB, Barcelona on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Vidaloca is a tech house and house artist based in Spain, with 85 gigs on soundc
 
 Pau Guilera, DIROS, Abdon
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vidaloca-es/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vidaloca-es/)*

@@ -1,8 +1,8 @@
 # MC Creed
 
-MC Creed is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Night Tales, London on Sat, 14 Nov 2026.
+MC Creed is a Garage and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Night Tales, London on Sat, 14 Nov 2026.
 
-MC Creed is a garage and house artist based in United Kingdom, with 38 gigs on soundcheck across London. Often billed alongside MC DT, MC CKP and Pied Piper. Next up: Night Tales, London on Sat 14 Nov.
+MC Creed is a garage and house artist based in United Kingdom, with 39 gigs on soundcheck across London. Often billed alongside MC DT, MC CKP and Pied Piper. Next up: Night Tales, London on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ MC Creed is a garage and house artist based in United Kingdom, with 38 gigs on s
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Night Tales | London |
 | Sat, 28 Nov 2026 | Onyx (E1) | London |
+| Fri, 1 Jan 2027 | The Steel Yard | London |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ MC Creed is a garage and house artist based in United Kingdom, with 38 gigs on s
 
 MC DT, MC CKP, Pied Piper
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mccreed/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mccreed/)*

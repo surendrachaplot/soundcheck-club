@@ -1,8 +1,8 @@
 # Downside
 
-Downside is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Fuse, Brussels on Fri, 27 Nov 2026.
+Downside is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Fuse, Brussels on Fri, 27 Nov 2026.
 
-Downside is a techno and house artist based in Belgium, with 42 gigs on soundcheck across Amsterdam, Belgium, Berlin and Brussels and 3 more. Often billed alongside Phara, Marie-Julie and Altinbas. Next up: Fuse, Brussels on Fri 27 Nov.
+Downside is a techno and house artist based in Belgium, with 43 gigs on soundcheck across Amsterdam, Belgium, Berlin and Brussels and 3 more. Often billed alongside Phara, Marie-Julie and Altinbas. Next up: Fuse, Brussels on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Downside is a techno and house artist based in Belgium, with 42 gigs on soundche
 | Fri, 27 Nov 2026 | Fuse | Brussels |
 | Fri, 27 Nov 2026 | Fuse | Brussels |
 | Fri, 11 Dec 2026 | Kultura | Belgium |
+| Sat, 26 Dec 2026 | Fuse | Brussels |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Downside is a techno and house artist based in Belgium, with 42 gigs on soundche
 
 Phara, Marie-Julie, Altinbas
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/downside/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/downside/)*

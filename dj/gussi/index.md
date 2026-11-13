@@ -1,6 +1,6 @@
 # gussi
 
-gussi is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at NEU, Stockholm on Fri, 13 Nov 2026.
+gussi is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at NEU, Stockholm on Fri, 13 Nov 2026.
 
 gussi is a techno and progressive house artist, with 8 gigs on soundcheck across Amsterdam, Munich and Stockholm. Often billed alongside This.Is.Sally, Pontana and BREITT. Next up: NEU, Stockholm on Fri 13 Nov.
 
@@ -24,4 +24,4 @@ gussi is a techno and progressive house artist, with 8 gigs on soundcheck across
 
 This.Is.Sally, Pontana, BREITT
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gussi/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gussi/)*

@@ -1,6 +1,6 @@
 # Shermanology
 
-Shermanology is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Refuge, New York City on Sat, 14 Nov 2026.
+Shermanology is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Refuge, New York City on Sat, 14 Nov 2026.
 
 Shermanology is a house and tech house artist based in Curacao, with 106 gigs on soundcheck across Amsterdam, Austin, Basel and Boston and 32 more. Often billed alongside Sam Divine, Eats Everything and Arielle Free. Next up: Refuge, New York City on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Shermanology is a house and tech house artist based in Curacao, with 106 gigs on
 
 Sam Divine, Eats Everything, Arielle Free
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shermanology/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shermanology/)*

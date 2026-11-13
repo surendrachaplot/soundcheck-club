@@ -1,6 +1,6 @@
-# light gal presents: flowstate 003 / The Sunken Rave [Techno] at Unit 58
+# light gal presents: flowstate 003│The Sunken Rave [Techno] at Unit 58
 
-light gal presents: flowstate 003 / The Sunken Rave [Techno] at Unit 58 on Fri 11 Dec, London. 1 artist: Light Gal. Techno and Acid. See the line-up on soundcheck.
+light gal presents: flowstate 003│The Sunken Rave [Techno] at Unit 58 on Fri 11 Dec, London. 1 artist: Light Gal. Techno and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

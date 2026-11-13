@@ -1,6 +1,6 @@
 # Thandi Draai
 
-Thandi Draai is a Afro House and Afrobeats artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Werehouse, Durban on Fri, 11 Dec 2026.
+Thandi Draai is a Afro House and Afrobeats artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Werehouse, Durban on Fri, 11 Dec 2026.
 
 Thandi Draai is an afro house and afrobeats artist based in South Africa, with 13 gigs on soundcheck across Amsterdam, Berlin, Cape Town and Durban and 4 more. Often billed alongside Jolie, Thakzin and CLEIDO. Next up: The Werehouse, Durban on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Thandi Draai is an afro house and afrobeats artist based in South Africa, with 1
 
 Jolie, Thakzin, CLEIDO
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thandidraai/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thandidraai/)*

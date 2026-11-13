@@ -1,6 +1,6 @@
 # Esbirra Ibiza
 
-Esbirra Ibiza is a music venue in Ibiza with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "TIMEmACHINE presents Luna City Express & Melo" on Sat, 14 Nov 2026.
+Esbirra Ibiza is a music venue in Ibiza with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "TIMEmACHINE presents Luna City Express & Melo" on Sat, 14 Nov 2026.
 
 Esbirra Ibiza is a music venue in Ibiza listed on soundcheck. 3 upcoming gigs, with line-ups including Los Suruba, Luna City Express, Pau Pérez and Timo Maas. See dates, start times and who's playing. Avinguda Punta Arabí, 228, 07849 es Canar, Illes Balears.
 
@@ -16,4 +16,4 @@ Esbirra Ibiza is a music venue in Ibiza listed on soundcheck. 3 upcoming gigs, w
 
 Avinguda Punta Arabí, 228, 07849 es Canar, Illes Balears, Ibiza
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/esbirra-ibiza/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/esbirra-ibiza/)*

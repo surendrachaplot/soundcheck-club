@@ -1,6 +1,6 @@
 # 214
 
-214 is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at 1756 Naud St., Los Angeles on Sat, 14 Nov 2026.
+214 is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at 1756 Naud St., Los Angeles on Sat, 14 Nov 2026.
 
 214 is an electro and techno artist based in United States of America, with 9 gigs on soundcheck across Los Angeles, Portland, Seattle and Tampa Bay. Often billed alongside Centrikal, 1 7 and Brian Busto. Next up: 1756 Naud St., Los Angeles on Sat 14 Nov.
 
@@ -25,4 +25,4 @@
 
 Centrikal, 1 7 (1), Brian Busto
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/214/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/214/)*

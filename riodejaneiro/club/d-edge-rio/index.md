@@ -1,6 +1,6 @@
 # D-Edge RIO
 
-D-Edge RIO is a music venue in Rio de Janeiro with 7 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "D-Edge Rio apresenta TULIPA & TROMMEL" on Fri, 13 Nov 2026.
+D-Edge RIO is a music venue in Rio de Janeiro with 7 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "D-Edge Rio apresenta TULIPA & TROMMEL" on Fri, 13 Nov 2026.
 
 D-Edge RIO is a music venue in Rio de Janeiro listed on soundcheck. 7 upcoming gigs, with line-ups including AIKO, Aninha, DiskoTekaa* and Gabe Live and 2 more. See dates, start times and who's playing. Av. Rodrigues Alves, 293, Saúde.
 
@@ -20,4 +20,4 @@ D-Edge RIO is a music venue in Rio de Janeiro listed on soundcheck. 7 upcoming g
 
 Av. Rodrigues Alves, 293, Saúde, Rio de Janeiro
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/riodejaneiro/club/d-edge-rio/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/riodejaneiro/club/d-edge-rio/)*

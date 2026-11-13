@@ -1,6 +1,6 @@
 # Moodymann
 
-Moodymann is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Verbier, Switzerland on Fri, 20 Nov 2026.
+Moodymann is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Verbier, Switzerland on Fri, 20 Nov 2026.
 
 Moodymann is a house and techno artist based in United States of America, with 176 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 46 more. Often billed alongside Carl Craig, Flo Real and DJ Holographic. Next up: Verbier, Switzerland on Fri 20 Nov.
 
@@ -29,4 +29,4 @@ Moodymann is a house and techno artist based in United States of America, with 1
 
 Carl Craig, Flo Real, DJ Holographic
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moodymann/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moodymann/)*

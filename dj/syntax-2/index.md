@@ -1,6 +1,6 @@
 # Syntax (2)
 
-Syntax (2) is a Jungle and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Amber's, Manchester on Fri, 27 Nov 2026.
+Syntax (2) is a Jungle and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Amber's, Manchester on Fri, 27 Nov 2026.
 
 Syntax is a jungle and bass artist based in United Kingdom, with 62 gigs on soundcheck across Birmingham, Brighton, Bristol and Dublin and 7 more. Often billed alongside Hanz, Samurai Breaks and Mandidextrous. Next up: Amber's, Manchester on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Syntax is a jungle and bass artist based in United Kingdom, with 62 gigs on soun
 
 Hanz, Samurai Breaks, Mandidextrous
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/syntax-2/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/syntax-2/)*

@@ -1,6 +1,6 @@
 # James Worker
 
-James Worker is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Cobalt Studios, Newcastle on Fri, 20 Nov 2026.
+James Worker is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Cobalt Studios, Newcastle on Fri, 20 Nov 2026.
 
 James Worker is a house and garage artist based in United Kingdom, with 31 gigs on soundcheck across London and Newcastle. Often billed alongside Molly Sinnott, Sam Warren and PHJ.WAV. Next up: Cobalt Studios, Newcastle on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ James Worker is a house and garage artist based in United Kingdom, with 31 gigs 
 
 Molly Sinnott, Sam Warren, PHJ.WAV
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesworker/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesworker/)*

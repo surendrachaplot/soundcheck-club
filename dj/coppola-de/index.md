@@ -1,8 +1,8 @@
 # Coppola (DE)
 
-Coppola (DE) is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Romantica, Stuttgart on Fri, 13 Nov 2026.
+Coppola (DE) is a House and Acid artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Romantica, Stuttgart on Fri, 13 Nov 2026.
 
-Coppola (DE) is a house and acid artist based in Germany, with 28 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 3 more. Often billed alongside DAWIT, JULEZ JK and Cem. Next up: Romantica, Stuttgart on Fri 13 Nov.
+Coppola (DE) is a house and acid artist based in Germany, with 29 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 3 more. Often billed alongside DAWIT, JULEZ JK and Cem. Next up: Romantica, Stuttgart on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Coppola (DE) is a house and acid artist based in Germany, with 28 gigs on soundc
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Romantica | Stuttgart |
 | Sat, 14 Nov 2026 | TBA - Mama Shelter, Schulstraße 44, 8050 Zurich | Zurich |
+| Sat, 21 Nov 2026 | Yellow House | Amsterdam |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Coppola (DE) is a house and acid artist based in Germany, with 28 gigs on soundc
 
 DAWIT, JULEZ JK, Cem (2)
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/coppola-de/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/coppola-de/)*

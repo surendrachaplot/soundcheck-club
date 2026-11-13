@@ -1,6 +1,6 @@
 # Landikhan
 
-Landikhan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Kater, Berlin on Sat, 28 Nov 2026.
+Landikhan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Kater, Berlin on Sat, 28 Nov 2026.
 
 Landikhan is a house and techno artist based in Spain, with 50 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 6 more. Often billed alongside Mira, Omer Tayar and Viken Arman. Next up: Kater, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Landikhan is a house and techno artist based in Spain, with 50 gigs on soundchec
 
 Mira, Omer Tayar, Viken Arman
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/landikhan/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/landikhan/)*

@@ -1,13 +1,14 @@
 # Sunny Side Up
 
-Sunny Side Up is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The System, Sheffield on Thu, 31 Dec 2026.
+Sunny Side Up is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA, Sheffield on Fri, 4 Dec 2026.
 
-Sunny Side Up is an electronica and house artist based in United Kingdom, with 10 gigs on soundcheck across Sheffield. Often billed alongside Vinyl Richiee, MELK and Paniolo. Next up: The System, Sheffield on Thu 31 Dec.
+Sunny Side Up is an electronica and house artist based in United Kingdom, with 11 gigs on soundcheck across Sheffield. Often billed alongside Vinyl Richiee, MELK and Paniolo. Next up: TBA, Sheffield on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Dec 2026 | TBA | Sheffield |
 | Thu, 31 Dec 2026 | The System | Sheffield |
 
 ## Recently played
@@ -25,4 +26,4 @@ Sunny Side Up is an electronica and house artist based in United Kingdom, with 1
 
 Vinyl Richiee, MELK, Paniolo
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sunnysideup/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sunnysideup/)*

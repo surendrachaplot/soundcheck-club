@@ -1,6 +1,6 @@
 # Jake the Rapper
 
-Jake the Rapper is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Kater, Berlin on Sat, 28 Nov 2026.
+Jake the Rapper is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Kater, Berlin on Sat, 28 Nov 2026.
 
 Jake the Rapper is a house and techno artist based in Germany, with 43 gigs on soundcheck across Amsterdam, Basel, Berlin and Cologne and 9 more. Often billed alongside Britta Arnold, Franca and Mimi Love. Next up: Kater, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Jake the Rapper is a house and techno artist based in Germany, with 43 gigs on s
 
 Britta Arnold, Franca, Mimi Love
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaketherapper/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaketherapper/)*

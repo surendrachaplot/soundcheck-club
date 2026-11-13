@@ -1,6 +1,6 @@
 # Arok
 
-Arok is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Disco Zwei, Mannheim on Sat, 28 Nov 2026.
+Arok is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Disco Zwei, Mannheim on Sat, 28 Nov 2026.
 
 Arok is a techno and house artist based in Germany, with 21 gigs on soundcheck across Heidelberg, Karlsruhe, Mannheim and Stuttgart. Often billed alongside Nortsch, Confusion and Akuma. Next up: Disco Zwei, Mannheim on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Arok is a techno and house artist based in Germany, with 21 gigs on soundcheck a
 
 Nortsch, Confusion, Akuma
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arok/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arok/)*

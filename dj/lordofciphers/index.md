@@ -1,6 +1,6 @@
 # Lord of Ciphers
 
-Lord of Ciphers is a Garage and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Gutter, New York City on Fri, 13 Nov 2026.
+Lord of Ciphers is a Garage and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Gutter, New York City on Fri, 13 Nov 2026.
 
 Lord of Ciphers is a garage and drum & bass artist based in United States of America, with 26 gigs on soundcheck across New York City. Often billed alongside Lovelydaze, samisosa and Castillonaire. Next up: The Gutter, New York City on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Lord of Ciphers is a garage and drum & bass artist based in United States of Ame
 
 Lovelydaze, samisosa, Castillonaire
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lordofciphers/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lordofciphers/)*

@@ -1,6 +1,6 @@
 # SPRAYBOX
 
-SPRAYBOX is a Bass and Garage artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Roop Sounds, Chubu on Sat, 14 Nov 2026.
+SPRAYBOX is a Bass and Garage artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Roop Sounds, Chubu on Sat, 14 Nov 2026.
 
 SPRAYBOX is a bass and garage artist based in Japan, with 43 gigs on soundcheck across Chubu, Manchester, Osaka and Sydney and 1 more. Often billed alongside Genick, Jacotanu and Ogasawara. Next up: Roop Sounds, Chubu on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ SPRAYBOX is a bass and garage artist based in Japan, with 43 gigs on soundcheck 
 
 Genick, Jacotanu, Ogasawara
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spraybox/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spraybox/)*

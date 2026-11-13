@@ -1,6 +1,6 @@
 # droove
 
-droove is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at West Harlem, Kyoto on Fri, 20 Nov 2026.
+droove is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at West Harlem, Kyoto on Fri, 20 Nov 2026.
 
 droove is a house and techno artist based in Japan, with 75 gigs on soundcheck across Kyoto, Osaka and Rome. Often billed alongside kitapon, Lomax and KOTSU. Next up: West Harlem, Kyoto on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ droove is a house and techno artist based in Japan, with 75 gigs on soundcheck a
 
 kitapon, Lomax, KOTSU
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/droove/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/droove/)*

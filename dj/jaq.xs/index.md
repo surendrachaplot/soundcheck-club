@@ -1,6 +1,6 @@
 # JAQ.XS
 
-JAQ.XS is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Urban Mo's, San Diego on Fri, 13 Nov 2026.
+JAQ.XS is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Urban Mo's, San Diego on Fri, 13 Nov 2026.
 
 JAQ.XS is a techno and industrial artist based in United States of America, with 39 gigs on soundcheck across Chicago, Los Angeles, San Diego and San Francisco/Oakland. Often billed alongside Michelle Mendez, Miguel Pinedo and TOKEONETOKA. Next up: Urban Mo's, San Diego on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ JAQ.XS is a techno and industrial artist based in United States of America, with
 
 Michelle Mendez, Miguel Pinedo, TOKEONETOKA
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaq.xs/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaq.xs/)*

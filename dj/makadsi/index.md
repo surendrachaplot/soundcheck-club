@@ -1,14 +1,15 @@
 # Makadsi
 
-Makadsi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at BASEMENT, New York City on Fri, 13 Nov 2026.
+Makadsi is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at BASEMENT, New York City on Fri, 13 Nov 2026.
 
-Makadsi is a house and techno artist based in Lebanon, with 89 gigs on soundcheck across Barcelona, Berlin, Brussels and Ibiza and 7 more. Often billed alongside Sterling Juan Diaz, Dangerous Rose and FASHION (US). Next up: BASEMENT, New York City on Fri 13 Nov.
+Makadsi is a house and techno artist based in Lebanon, with 90 gigs on soundcheck across Barcelona, Berlin, Brussels and Ibiza and 7 more. Often billed alongside Sterling Juan Diaz, Dangerous Rose and FASHION (US). Next up: BASEMENT, New York City on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | BASEMENT | New York City |
+| Fri, 18 Dec 2026 | Signal | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Makadsi is a house and techno artist based in Lebanon, with 89 gigs on soundchec
 
 Sterling Juan Diaz, Dangerous Rose, FASHION (US)
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/makadsi/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/makadsi/)*

@@ -1,6 +1,6 @@
 # SOMACCHIA
 
-SOMACCHIA is a Downtempo and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - locación secreta, Santiago on Sat, 21 Nov 2026.
+SOMACCHIA is a Downtempo and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - locación secreta, Santiago on Sat, 21 Nov 2026.
 
 SOMACCHIA is a downtempo and ambient artist, with 8 gigs on soundcheck across Barcelona and Santiago. Often billed alongside Avraxas, Crazy Chatman and Dazion. Next up: TBA - locación secreta, Santiago on Sat 21 Nov.
 
@@ -24,4 +24,4 @@ SOMACCHIA is a downtempo and ambient artist, with 8 gigs on soundcheck across Ba
 
 Avraxas, Crazy Chatman, Dazion
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/somacchia/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/somacchia/)*

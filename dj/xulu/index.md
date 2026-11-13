@@ -1,6 +1,6 @@
 # XuLü
 
-XuLü is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at GAP Club, Chengdu on Sat, 14 Nov 2026.
+XuLü is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at GAP Club, Chengdu on Sat, 14 Nov 2026.
 
 XuLü is a techno and electro artist based in China, with 42 gigs on soundcheck across Amsterdam, Beijing, Chengdu and Hong Kong and 4 more. Often billed alongside Grumpy Monkey, Kirilski and Ean Mack. Next up: GAP Club, Chengdu on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ XuLü is a techno and electro artist based in China, with 42 gigs on soundcheck 
 
 Grumpy Monkey, Kirilski, Ean Mack
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xulu/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xulu/)*

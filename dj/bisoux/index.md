@@ -1,6 +1,6 @@
 # BISOUX
 
-BISOUX is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Barrio Cafe, Brussels on Fri, 13 Nov 2026.
+BISOUX is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Barrio Cafe, Brussels on Fri, 13 Nov 2026.
 
 BISOUX is a trance and techno artist based in Belgium, with 30 gigs on soundcheck across Antwerp, Belgium, Berlin and Brussels and 2 more. Often billed alongside Jef Nice, BAVR and John Gilliot. Next up: Barrio Cafe, Brussels on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ BISOUX is a trance and techno artist based in Belgium, with 30 gigs on soundchec
 
 Jef Nice, BAVR, John Gilliot
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bisoux/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bisoux/)*

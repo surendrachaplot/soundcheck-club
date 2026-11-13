@@ -1,6 +1,6 @@
 # Olivia Mendez
 
-Olivia Mendez is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Stadion Strahov, Prague on Fri, 13 Nov 2026.
+Olivia Mendez is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Stadion Strahov, Prague on Fri, 13 Nov 2026.
 
 Olivia Mendez is a techno and house artist based in France, with 159 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 43 more. Often billed alongside Chami, Blasha & Allatt and Freddy K. Next up: Stadion Strahov, Prague on Fri 13 Nov.
 
@@ -28,4 +28,4 @@ Olivia Mendez is a techno and house artist based in France, with 159 gigs on sou
 
 Chami, Blasha & Allatt, Freddy K
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oliviamendez/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oliviamendez/)*

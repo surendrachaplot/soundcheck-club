@@ -1,6 +1,6 @@
 # Stackpackers
 
-Stackpackers is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Bad Decisions, Melbourne on Fri, 13 Nov 2026.
+Stackpackers is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Bad Decisions, Melbourne on Fri, 13 Nov 2026.
 
 Stackpackers is a drum & bass and bass artist based in United Kingdom, with 34 gigs on soundcheck across Melbourne and Sydney. Often billed alongside MELTA, Aaron Static and aGenda. Next up: Bad Decisions, Melbourne on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Stackpackers is a drum & bass and bass artist based in United Kingdom, with 34 g
 
 MELTA, Aaron Static, aGenda
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stackpackers/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stackpackers/)*

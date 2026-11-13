@@ -1,6 +1,6 @@
 # Colosseum Filmtheater
 
-Colosseum Filmtheater is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "SAKR – Live in Berlin - An Immersive Audiovisual Performance" on Thu, 1 Apr 2027.
+Colosseum Filmtheater is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "SAKR – Live in Berlin - An Immersive Audiovisual Performance" on Thu, 1 Apr 2027.
 
 Colosseum Filmtheater is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including Sakr (AU). See dates, start times and who's playing. Gleimstrasse 33, 10437 Berlin, Deutschland.
 
@@ -14,4 +14,4 @@ Colosseum Filmtheater is a music venue in Berlin listed on soundcheck. 1 upcomin
 
 Gleimstrasse 33, 10437 Berlin, Deutschland, Berlin
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/colosseum-filmtheater/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/colosseum-filmtheater/)*

@@ -1,8 +1,8 @@
 # Alarico
 
-Alarico is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Gotec, Karlsruhe on Fri, 13 Nov 2026.
+Alarico is a Techno and House artist with 18 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Gotec, Karlsruhe on Fri, 13 Nov 2026.
 
-Alarico is a techno and house artist based in Italy, with 321 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 90 more. Often billed alongside Chlär, Funk Assault and Yanamaste. Next up: Gotec, Karlsruhe on Fri 13 Nov.
+Alarico is a techno and house artist based in Italy, with 323 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 91 more. Often billed alongside Chlär, Funk Assault and Yanamaste. Next up: Gotec, Karlsruhe on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Alarico is a techno and house artist based in Italy, with 321 gigs on soundcheck
 
 Chlär, Funk Assault, Yanamaste
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alarico/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alarico/)*

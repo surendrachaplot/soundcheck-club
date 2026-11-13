@@ -1,14 +1,13 @@
 # Nanzhen Yang
 
-Nanzhen Yang is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at AMT, Berlin on Wed, 11 Nov 2026.
+Nanzhen Yang is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at KitKatClub, Berlin on Fri, 22 Jan 2027.
 
-Nanzhen Yang is a techno and experimental artist, with 96 gigs on soundcheck across Bangkok, Beijing, Berlin and Copenhagen and 15 more. Often billed alongside Samantha Togni, Ricardo Castro and Becky Stroke. Next up: AMT, Berlin on Wed 11 Nov.
+Nanzhen Yang is a techno and experimental artist, with 96 gigs on soundcheck across Bangkok, Beijing, Berlin and Copenhagen and 15 more. Often billed alongside Samantha Togni, Ricardo Castro and Becky Stroke. Next up: KitKatClub, Berlin on Fri 22 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 11 Nov 2026 | AMT | Berlin |
 | Fri, 22 Jan 2027 | KitKatClub | Berlin |
 
 ## Recently played
@@ -26,4 +25,4 @@ Nanzhen Yang is a techno and experimental artist, with 96 gigs on soundcheck acr
 
 Samantha Togni, Ricardo Castro, Becky Stroke
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nanzhenyang/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nanzhenyang/)*

@@ -1,14 +1,15 @@
 # Lara Fein
 
-Lara Fein is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at OXI, Berlin on Fri, 18 Dec 2026.
+Lara Fein is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at OXI, Berlin on Fri, 18 Dec 2026.
 
-Lara Fein is a house and techno artist, with 45 gigs on soundcheck across Amsterdam, Berlin, Cologne and Dortmund / Essen and 8 more. Often billed alongside Skee Mask, Victor (DE) and Stenny. Next up: OXI, Berlin on Fri 18 Dec.
+Lara Fein is a house and techno artist, with 46 gigs on soundcheck across Amsterdam, Berlin, Cologne and Dortmund / Essen and 8 more. Often billed alongside Skee Mask, Victor (DE) and Stenny. Next up: OXI, Berlin on Fri 18 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Dec 2026 | OXI | Berlin |
+| Thu, 31 Dec 2026 | Kater | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Lara Fein is a house and techno artist, with 45 gigs on soundcheck across Amster
 
 Skee Mask, Victor (DE), Stenny
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/larafein/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/larafein/)*

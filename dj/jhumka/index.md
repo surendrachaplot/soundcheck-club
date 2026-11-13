@@ -1,6 +1,6 @@
 # Jhumka
 
-Jhumka is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Sauna Social Club, London on Sun, 15 Nov 2026.
+Jhumka is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Sauna Social Club, London on Sun, 15 Nov 2026.
 
 Jhumka is a house and techno artist based in United Kingdom, with 56 gigs on soundcheck across Basel, Berlin, Chicago and London. Often billed alongside fae (UK), Leo Gosh and Osmaan. Next up: Sauna Social Club, London on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Jhumka is a house and techno artist based in United Kingdom, with 56 gigs on sou
 
 fae (UK), Leo Gosh, Osmaan
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jhumka/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jhumka/)*

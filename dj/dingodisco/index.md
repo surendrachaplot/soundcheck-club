@@ -1,6 +1,6 @@
 # DINGO DISCO
 
-DINGO DISCO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Colombian Hotel, Sydney on Fri, 13 Nov 2026.
+DINGO DISCO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Colombian Hotel, Sydney on Fri, 13 Nov 2026.
 
 DINGO DISCO is a techno and house artist, with 11 gigs on soundcheck across Sydney. Often billed alongside bacteria grl, BAiiN TWINS and Jarred Baker. Next up: Colombian Hotel, Sydney on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ DINGO DISCO is a techno and house artist, with 11 gigs on soundcheck across Sydn
 
 bacteria grl, BAiiN TWINS, Jarred Baker
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dingodisco/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dingodisco/)*

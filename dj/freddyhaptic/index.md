@@ -1,6 +1,6 @@
 # freddy haptic
 
-freddy haptic is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Voodoo Rooms, Edinburgh on Sat, 14 Nov 2026.
+freddy haptic is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Voodoo Rooms, Edinburgh on Sat, 14 Nov 2026.
 
 freddy haptic is a house and disco artist based in United Kingdom, with 39 gigs on soundcheck across Edinburgh. Often billed alongside Bartek, Jedda and Louspresso. Next up: The Voodoo Rooms, Edinburgh on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ freddy haptic is a house and disco artist based in United Kingdom, with 39 gigs 
 
 Bartek, Jedda, Louspresso
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/freddyhaptic/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/freddyhaptic/)*

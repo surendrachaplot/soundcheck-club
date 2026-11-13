@@ -1,6 +1,6 @@
 # No Name Given - FREE BASS / GRIME / JUNGLE / DUBSTEP EVENT at Club Makossa
 
-No Name Given - FREE BASS / GRIME / JUNGLE / DUBSTEP EVENT at Club Makossa on Thu 19 Nov, London. 2 artists: miss jas and NK47. Bass and Grime. See the line-up on soundcheck.
+No Name Given - FREE BASS / GRIME / JUNGLE / DUBSTEP EVENT at Club Makossa on Thu 19 Nov, London. 3 artists: JUNOHH, miss jas and NK47. Bass and Grime. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ No Name Given - FREE BASS / GRIME / JUNGLE / DUBSTEP EVENT at Club Makossa on Th
 
 ## Line-up
 
+- JUNOHH
 - miss jas
 - NK47
 

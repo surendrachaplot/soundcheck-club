@@ -1,6 +1,6 @@
 # ESCALEA
 
-ESCALEA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Kaiserdrom Halle, Saxony-anhalt on Fri, 13 Nov 2026.
+ESCALEA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Kaiserdrom Halle, Saxony-anhalt on Fri, 13 Nov 2026.
 
 ESCALEA is a techno and trance artist based in Germany, with 25 gigs on soundcheck across Berlin, Erfurt, Leipzig and Saxony Anhalt. Often billed alongside humae, JUNiQUE and jeanska. Next up: Kaiserdrom Halle, Saxony Anhalt on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ ESCALEA is a techno and trance artist based in Germany, with 25 gigs on soundche
 
 humae, JUNiQUE, jeanska
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/escalea/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/escalea/)*

@@ -1,6 +1,6 @@
 # Separat
 
-Separat is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Bassiani, Tbilisi on Thu, 31 Dec 2026.
+Separat is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Bassiani, Tbilisi on Thu, 31 Dec 2026.
 
 Separat is a house and techno artist based in Germany, with 24 gigs on soundcheck across Amsterdam, Berlin, Cologne and Dortmund / Essen and 3 more. Often billed alongside skyra, Mariami and AMSL. Next up: Bassiani, Tbilisi on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Separat is a house and techno artist based in Germany, with 24 gigs on soundchec
 
 skyra, Mariami, AMSL
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/separat/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/separat/)*

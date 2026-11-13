@@ -1,6 +1,6 @@
 # Pep Descals
 
-Pep Descals is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Specka, Madrid on Fri, 4 Dec 2026.
+Pep Descals is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Specka, Madrid on Fri, 4 Dec 2026.
 
 Pep Descals is a techno and ambient artist based in Spain, with 17 gigs on soundcheck across Barcelona, Madrid and Rotterdam. Often billed alongside btrast, Fontana (ES) and Quim Clausell. Next up: Specka, Madrid on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Pep Descals is a techno and ambient artist based in Spain, with 17 gigs on sound
 
 btrast, Fontana (ES), Quim Clausell
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pepdescals/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pepdescals/)*

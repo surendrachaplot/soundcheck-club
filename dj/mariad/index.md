@@ -1,13 +1,14 @@
 # MARIAD
 
-MARIAD is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Le Ferrailleur, Nantes on Thu, 31 Dec 2026.
+MARIAD is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Le Poisson Volant, Paris on Sat, 14 Nov 2026.
 
-MARIAD is a techno and bass artist based in France, with 60 gigs on soundcheck across Bordeaux, Brussels, Lyon and Marseille and 5 more. Often billed alongside encore une autre, De Grandi and Fatale Furylax. Next up: Le Ferrailleur, Nantes on Thu 31 Dec.
+MARIAD is a techno and bass artist based in France, with 61 gigs on soundcheck across Bordeaux, Brussels, Lyon and Marseille and 5 more. Often billed alongside encore une autre, De Grandi and Fatale Furylax. Next up: Le Poisson Volant, Paris on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | Le Poisson Volant | Paris |
 | Thu, 31 Dec 2026 | Le Ferrailleur | Nantes |
 
 ## Recently played
@@ -25,4 +26,4 @@ MARIAD is a techno and bass artist based in France, with 60 gigs on soundcheck a
 
 encore une autre, De Grandi, Fatale Furylax
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mariad/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mariad/)*

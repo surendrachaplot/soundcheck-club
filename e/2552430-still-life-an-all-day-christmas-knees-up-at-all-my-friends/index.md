@@ -1,6 +1,6 @@
 # Still Life: An All-Day Christmas Knees Up at All My Friends
 
-Still Life: An All-Day Christmas Knees Up at All My Friends on Sat 19 Dec, London. 1 artist: Manalou. House and Minimal. See the line-up on soundcheck.
+Still Life: An All-Day Christmas Knees Up at All My Friends on Sat 19 Dec, London. 2 artists: Dez (UK) and Manalou. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Still Life: An All-Day Christmas Knees Up at All My Friends on Sat 19 Dec, Londo
 
 ## Line-up
 
+- Dez (UK)
 - Manalou
 
 *Source: [soundcheck](https://soundcheck.club/e/2552430-still-life-an-all-day-christmas-knees-up-at-all-my-friends/)*

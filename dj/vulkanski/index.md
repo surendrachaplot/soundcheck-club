@@ -1,6 +1,6 @@
 # Vulkanski
 
-Vulkanski is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Kibe, Batumi on Sat, 14 Nov 2026.
+Vulkanski is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Kibe, Batumi on Sat, 14 Nov 2026.
 
 Vulkanski is a techno and ebm artist based in Georgia, with 84 gigs on soundcheck across Amsterdam, Athens, Barcelona and Batumi and 13 more. Often billed alongside Frequency Shifter, Boyd Schidt and OTHR. Next up: Kibe, Batumi on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Vulkanski is a techno and ebm artist based in Georgia, with 84 gigs on soundchec
 
 Frequency Shifter, Boyd Schidt, OTHR
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vulkanski/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vulkanski/)*

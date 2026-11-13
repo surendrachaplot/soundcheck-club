@@ -1,6 +1,6 @@
 # DJ Shannon
 
-DJ Shannon is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at public records, New York City on Sat, 26 Dec 2026.
+DJ Shannon is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at public records, New York City on Sat, 26 Dec 2026.
 
 DJ Shannon is a house and techno artist based in United States of America, with 116 gigs on soundcheck across Berlin, Boston, Chicago and Copenhagen and 8 more. Often billed alongside Niyah West, HONEY B and Kandylion. Next up: public records, New York City on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ DJ Shannon is a house and techno artist based in United States of America, with 
 
 Niyah West, HONEY B, Kandylion
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djshannon/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djshannon/)*

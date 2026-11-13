@@ -1,6 +1,6 @@
 # Nativesun
 
-Nativesun is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Onyx Room at House of Yes, New York City on Fri, 13 Nov 2026.
+Nativesun is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Onyx Room at House of Yes, New York City on Fri, 13 Nov 2026.
 
 Nativesun is a house and techno artist based in United States of America, with 82 gigs on soundcheck across Amsterdam, Atlanta, Baltimore and Bangkok and 18 more. Often billed alongside James Bangura, Black Rave Culture and Amal. Next up: The Onyx Room at House of Yes, New York City on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Nativesun is a house and techno artist based in United States of America, with 8
 
 James Bangura, Black Rave Culture, Amal
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nativesun/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nativesun/)*

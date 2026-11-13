@@ -1,6 +1,6 @@
 # Concorde 2
 
-Concorde 2 is a music venue in Brighton with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Gal Pals present: Logic1000 - Brighton" on Sat, 14 Nov 2026.
+Concorde 2 is a music venue in Brighton with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Gal Pals present: Logic1000 - Brighton" on Sat, 14 Nov 2026.
 
 Concorde 2 is a music venue in Brighton listed on soundcheck. 5 upcoming gigs, with line-ups including Ashkaan, Culture Shock, HAAi and Keeno and 2 more. See dates, start times and who's playing. 286A Madeira Drive; Brighton; BN2 1EN; United Kingdom.
 
@@ -18,4 +18,4 @@ Concorde 2 is a music venue in Brighton listed on soundcheck. 5 upcoming gigs, w
 
 286A Madeira Drive; Brighton; BN2 1EN; United Kingdom, Brighton
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/concorde-2/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/concorde-2/)*

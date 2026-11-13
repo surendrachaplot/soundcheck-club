@@ -1,6 +1,6 @@
 # Anxiety_Dj
 
-Anxiety_Dj is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - SALA MUV, Madrid on Sat, 12 Dec 2026.
+Anxiety_Dj is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - SALA MUV, Madrid on Sat, 12 Dec 2026.
 
 Anxiety_Dj is a techno and dub techno artist based in Colombia, with 21 gigs on soundcheck across Frankfurt, London and Madrid. Often billed alongside Size_, Jesus Riaño and Root Noise. Next up: TBA - SALA MUV, Madrid on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Anxiety_Dj is a techno and dub techno artist based in Colombia, with 21 gigs on 
 
 Size_, Jesus Riaño, Root Noise
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anxiety_dj/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anxiety_dj/)*

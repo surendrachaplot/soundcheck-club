@@ -1,6 +1,6 @@
 # Cu
 
-Cu is a music venue in London with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Sonnee presents: SOLAA London" on Fri, 13 Nov 2026.
+Cu is a music venue in London with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Sonnee presents: SOLAA London" on Fri, 13 Nov 2026.
 
 Cu is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including Calder, Dacxi, Ghost Dubs and Miggs and 2 more. See dates, start times and who's playing. 574, 576 Kingsland Rd, London E8 4AP, United Kingdom.
 
@@ -18,4 +18,4 @@ Cu is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-u
 
 574, 576 Kingsland Rd, London E8 4AP, United Kingdom, London
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/cu/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/cu/)*

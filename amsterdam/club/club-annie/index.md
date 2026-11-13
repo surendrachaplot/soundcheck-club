@@ -1,6 +1,6 @@
 # Club Annie
 
-Club Annie is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "KiKi with Annie" on Fri, 20 Nov 2026.
+Club Annie is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "KiKi with Annie" on Fri, 20 Nov 2026.
 
 Club Annie is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with line-ups including Pürü, TEKNA and XSULTVN. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Club Annie is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, w
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | KiKi with Annie | Pürü, TEKNA, XSULTVN |
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-annie/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-annie/)*

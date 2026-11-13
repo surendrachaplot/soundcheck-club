@@ -1,6 +1,6 @@
 # SK4NK
 
-SK4NK is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at QQQ ST. Park, Melbourne on Fri, 13 Nov 2026.
+SK4NK is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at QQQ ST. Park, Melbourne on Fri, 13 Nov 2026.
 
 SK4NK is a drum & bass and techno artist based in Australia, with 31 gigs on soundcheck across Melbourne and Sydney. Often billed alongside MELTA, NIIX and Napes. Next up: QQQ ST. Park, Melbourne on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ SK4NK is a drum & bass and techno artist based in Australia, with 31 gigs on sou
 
 MELTA, NIIX, Napes
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sk4nk/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sk4nk/)*

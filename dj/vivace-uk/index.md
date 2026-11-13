@@ -1,14 +1,15 @@
 # Vivace (UK)
 
-Vivace (UK) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Liquid Room Warehouse, Edinburgh on Sat, 14 Nov 2026.
+Vivace (UK) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Liquid Room Warehouse, Edinburgh on Sat, 14 Nov 2026.
 
-Vivace (UK) is a house and techno artist based in United Kingdom, with 11 gigs on soundcheck across Aberdeen, Belfast, Brisbane and Edinburgh and 4 more. Often billed alongside Faster Horses, STÜM and Clouds. Next up: The Liquid Room Warehouse, Edinburgh on Sat 14 Nov.
+Vivace (UK) is a house and techno artist based in United Kingdom, with 12 gigs on soundcheck across Aberdeen, Belfast, Brisbane and Edinburgh and 4 more. Often billed alongside Faster Horses, STÜM and Clouds. Next up: The Liquid Room Warehouse, Edinburgh on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | The Liquid Room Warehouse | Edinburgh |
+| Fri, 4 Dec 2026 | The Wee Bar | Belfast |
 | Sat, 19 Dec 2026 | DRUMSHEDS | London |
 
 ## Recently played
@@ -26,4 +27,4 @@ Vivace (UK) is a house and techno artist based in United Kingdom, with 11 gigs o
 
 Faster Horses, STÜM, Clouds
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vivace-uk/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vivace-uk/)*

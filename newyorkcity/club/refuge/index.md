@@ -1,6 +1,6 @@
 # Refuge
 
-Refuge is a music venue in New York City with 20 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Refuge Friday with Jeremy Olander" on Fri, 13 Nov 2026.
+Refuge is a music venue in New York City with 20 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Refuge Friday with Jeremy Olander" on Fri, 13 Nov 2026.
 
 Refuge is a music venue in New York City listed on soundcheck. 20 upcoming gigs, with line-ups including AJ Christou, Bella Mutino, Cristoph and Daniel Dutts and 2 more. See dates, start times and who's playing. 366 Ten Eyck St, Brooklyn, NY 11206.
 
@@ -23,4 +23,4 @@ Refuge is a music venue in New York City listed on soundcheck. 20 upcoming gigs,
 
 366 Ten Eyck St, Brooklyn, NY 11206, New York City
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/refuge/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/refuge/)*

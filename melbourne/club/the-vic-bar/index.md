@@ -1,6 +1,6 @@
 # The Vic Bar
 
-The Vic Bar is a music venue in Melbourne with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "FRESHLY SQUEEZED PRESENTS: VIC BAR" on Sat, 14 Nov 2026.
+The Vic Bar is a music venue in Melbourne with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "FRESHLY SQUEEZED PRESENTS: VIC BAR" on Sat, 14 Nov 2026.
 
 The Vic Bar is a music venue in Melbourne listed on soundcheck. 2 upcoming gigs, with line-ups including Cara Murphy and Tom Eclect. See dates, start times and who's playing. 281 Victoria Street, Abbotsford VIC 3067, Australia.
 
@@ -15,4 +15,4 @@ The Vic Bar is a music venue in Melbourne listed on soundcheck. 2 upcoming gigs,
 
 281 Victoria Street, Abbotsford VIC 3067, Australia, Melbourne
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-vic-bar/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-vic-bar/)*

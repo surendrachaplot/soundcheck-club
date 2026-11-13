@@ -1,6 +1,6 @@
 # Shaka Lion
 
-Shaka Lion is a Hip-Hop and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at AB Club (Ancienne Belgique), Brussels on Fri, 20 Nov 2026.
+Shaka Lion is a Hip-Hop and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at AB Club (Ancienne Belgique), Brussels on Fri, 20 Nov 2026.
 
 Shaka Lion is a hip-hop and club artist based in Portugal, with 40 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 11 more. Often billed alongside Boddhi Satva, Jyoty and Karen Nyame KG. Next up: AB Club (Ancienne Belgique), Brussels on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Shaka Lion is a hip-hop and club artist based in Portugal, with 40 gigs on sound
 
 Boddhi Satva, Jyoty, Karen Nyame KG
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shakalion/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shakalion/)*

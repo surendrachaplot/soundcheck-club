@@ -1,6 +1,6 @@
 # FUMI
 
-FUMI is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
+FUMI is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
 
 FUMI is a techno and industrial artist based in France, with 104 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 32 more. Often billed alongside EVE, Monk000 and Adrian Mills. Next up: The Wildlands, Melbourne on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ FUMI is a techno and industrial artist based in France, with 104 gigs on soundch
 
 EVE (1), Monk000, Adrian Mills
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fumi/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fumi/)*

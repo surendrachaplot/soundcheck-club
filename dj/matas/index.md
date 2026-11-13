@@ -1,6 +1,6 @@
 # Matas
 
-Matas is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - DTLA, Los Angeles on Fri, 20 Nov 2026.
+Matas is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - DTLA, Los Angeles on Fri, 20 Nov 2026.
 
 Matas is a techno and house artist based in United States of America, with 62 gigs on soundcheck across Berlin, Boston, Copenhagen and Los Angeles and 2 more. Often billed alongside Jek (US), LYDO and Aurora Halal. Next up: TBA - DTLA, Los Angeles on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ Matas is a techno and house artist based in United States of America, with 62 gi
 
 Jek (US), LYDO, Aurora Halal
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matas/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matas/)*

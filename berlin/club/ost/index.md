@@ -1,15 +1,14 @@
 # OST
 
-OST is a music venue in Berlin with 23 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "[FREE ENTRY TILL 00:30] SAVORY" on Thu, 12 Nov 2026.
+OST is a music venue in Berlin with 22 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Mixmag Germany Session" on Fri, 13 Nov 2026.
 
-OST is a music venue in Berlin listed on soundcheck. 23 upcoming gigs, with line-ups including 2THEMAX, ADAM MUNNINGS, ALP (DE) and Amøn and 2 more. See dates, start times and who's playing. Alt-Stralau, 1-2 Friedrichshain 10245.
+OST is a music venue in Berlin listed on soundcheck. 22 upcoming gigs, with line-ups including 2THEMAX, ADAM MUNNINGS, ALP (DE) and Amøn and 2 more. See dates, start times and who's playing. Alt-Stralau, 1-2 Friedrichshain 10245.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 12 Nov 2026 | [FREE ENTRY TILL 00:30] SAVORY | MIMI404, e.leptic |
-| Fri, 13 Nov 2026 | Mixmag Germany Session | Bobaz Lobster, Daniella da Silva, KLING&KLANG, L.zwo, LAURIX (DE), Per Pleks, THISO, Trancestrudel |
+| Fri, 13 Nov 2026 | Mixmag Germany Session | Bobaz, Daniella da Silva, KLING&KLANG, L.zwo, LAURIX (DE), Per Pleks, THISO, Trancestrudel |
 | Sat, 14 Nov 2026 | FACE 2 FACE: BERLIN | GM1 (IT), Johannes Schuster, Paranormila, SUSKA, doppeltes lottchen, luke madness |
 | Thu, 19 Nov 2026 | [FREE ENTRY TILL 00:30] SAVORY | Lukr Range, TAUBE, WAN.1 |
 | Fri, 20 Nov 2026 | ONYX: 'ONE LAST DANCE' w / Paraçek, two girls one mom, HANÀ | Bruno Brero, CARGO (DE), HANÀ, KARISH, Paraçek, two girls one mom |
@@ -18,9 +17,10 @@ OST is a music venue in Berlin listed on soundcheck. 23 upcoming gigs, with line
 | Fri, 27 Nov 2026 | MATTERMIND @Club OST pres. PAWLOWSKI, MATRAKK, EPHY PINKMAN, | DJ Achim Feuervogel, Dana Roosy, EZA (DE), Ephy Pinkman, MATRAKK, Paranormila, Pawlowski, TERRA TWIINS |
 | Sat, 28 Nov 2026 | DEVOTED w. Ben Techy, Kø:lab x VATOZ LOCOZ, Danilo Filipe & many more | Athina, Ben Techy, DJ HOTMAIL, Danilo Filipe, In Furcht, Joey (2), Kø:lab, SEKTOR69, jeanska |
 | Thu, 3 Dec 2026 | [FREE ENTRY TILL 00:30] SAVORY | Manrick Stapez, Skungal, WAN.1 |
+| Fri, 4 Dec 2026 | ULTRA SOZIAL w. Tham, RIKHTER, KTK, SAIKA | KTK (DE), MKHXR, RIKHTER, SAIKA, Tham, Treibende Kraft |
 
 ## Address
 
 Alt-Stralau, 1-2 Friedrichshain 10245, Berlin
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ost/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ost/)*

@@ -1,8 +1,8 @@
 # OXI
 
-OXI is a music venue in Berlin with 26 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "[CANCELLED] Toy Tonics presents ITALOMANIA" on Fri, 13 Nov 2026.
+OXI is a music venue in Berlin with 26 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "[CANCELLED] Toy Tonics presents ITALOMANIA" on Fri, 13 Nov 2026.
 
-OXI is a music venue in Berlin listed on soundcheck. 26 upcoming gigs, with line-ups including AGY3NA, Alexa Fluor, Amo (IT) and Amy Dabbs and 2 more. See dates, start times and who's playing. Wiesenweg 1-4, 10365 Berlin.
+OXI is a music venue in Berlin listed on soundcheck. 26 upcoming gigs, with line-ups including 1morning, AGY3NA, Alexa Fluor and Amo (IT) and 2 more. See dates, start times and who's playing. Wiesenweg 1-4, 10365 Berlin.
 
 ## What's on
 
@@ -23,4 +23,4 @@ OXI is a music venue in Berlin listed on soundcheck. 26 upcoming gigs, with line
 
 Wiesenweg 1-4, 10365 Berlin, Berlin
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/oxi/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/oxi/)*

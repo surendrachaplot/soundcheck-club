@@ -1,17 +1,17 @@
 # ZIRKA
 
-ZIRKA is a music venue in Munich with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "FOFS – Closing Party" on Fri, 20 Nov 2026.
+ZIRKA is a music venue in Munich with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "FOFS – Closing Party" on Fri, 20 Nov 2026.
 
-ZIRKA is a music venue in Munich listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Dachauer Str. 110c, 80636 München, Germany.
+ZIRKA is a music venue in Munich listed on soundcheck. 1 upcoming gig, with line-ups including Erhyc. See dates, start times and who's playing. Dachauer Str. 110c, 80636 München, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | FOFS – Closing Party |  |
+| Fri, 20 Nov 2026 | FOFS – Closing Party | Erhyc |
 
 ## Address
 
 Dachauer Str. 110c, 80636 München, Germany, Munich
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/zirka/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/zirka/)*

@@ -1,6 +1,6 @@
 # Lorcan Kelly
 
-Lorcan Kelly is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Yamamori Tengu, Dublin on Fri, 20 Nov 2026.
+Lorcan Kelly is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Yamamori Tengu, Dublin on Fri, 20 Nov 2026.
 
 Lorcan Kelly is a techno and house artist based in United Kingdom, with 23 gigs on soundcheck across Amsterdam, Belfast, Berlin and Cork and 4 more. Often billed alongside Chris Flannigan, Sophie and DIEBYVEG. Next up: Yamamori Tengu, Dublin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Lorcan Kelly is a techno and house artist based in United Kingdom, with 23 gigs 
 
 Chris Flannigan, Sophie (2), DIEBYVEG
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lorcankelly/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lorcankelly/)*

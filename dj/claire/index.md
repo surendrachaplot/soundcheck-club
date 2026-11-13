@@ -1,6 +1,6 @@
 # Claire
 
-Claire is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Flowranch, Quebec City on Sat, 12 Dec 2026.
+Claire is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Flowranch, Quebec City on Sat, 12 Dec 2026.
 
 Claire is a techno and minimal artist based in Canada, with 37 gigs on soundcheck across Berlin, Calgary, Lausanne and Mexico City and 3 more. Often billed alongside Ellxandra, Orbital Mechanics and Pheek. Next up: Flowranch, Quebec City on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Claire is a techno and minimal artist based in Canada, with 37 gigs on soundchec
 
 Ellxandra, Orbital Mechanics, Pheek
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/claire/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/claire/)*

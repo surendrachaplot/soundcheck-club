@@ -1,8 +1,8 @@
 # Border One
 
-Border One is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Brussels, Brussels on Sat, 21 Nov 2026.
+Border One is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Brussels, Brussels on Sat, 21 Nov 2026.
 
-Border One is a techno and house artist based in Belgium, with 95 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 21 more. Often billed alongside Kr!z, Phara and Marie-Julie. Next up: TBA - Brussels, Brussels on Sat 21 Nov.
+Border One is a techno and house artist based in Belgium, with 96 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 21 more. Often billed alongside Kr!z, Phara and Marie-Julie. Next up: TBA - Brussels, Brussels on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Border One is a techno and house artist based in Belgium, with 95 gigs on soundc
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
 | Sat, 28 Nov 2026 | Razzmatazz | Barcelona |
+| Sat, 26 Dec 2026 | Fuse | Brussels |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Border One is a techno and house artist based in Belgium, with 95 gigs on soundc
 
 Kr!z, Phara, Marie-Julie
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/borderone/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/borderone/)*

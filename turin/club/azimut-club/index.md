@@ -1,6 +1,6 @@
 # Azimut Club
 
-Azimut Club is a music venue in Turin with 11 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Dj Sweet 6Teen hosted by EAR\WAX" on Sat, 14 Nov 2026.
+Azimut Club is a music venue in Turin with 11 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Dj Sweet 6Teen hosted by EAR\WAX" on Sat, 14 Nov 2026.
 
 Azimut Club is a music venue in Turin listed on soundcheck. 11 upcoming gigs, with line-ups including Alberto Tolo, Allegretti, BLACK CROW and BLANKA and 2 more. See dates, start times and who's playing. Via Modena, 55 10153 Torino TO, Italy.
 
@@ -8,7 +8,7 @@ Azimut Club is a music venue in Turin listed on soundcheck. 11 upcoming gigs, wi
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Dj Sweet 6Teen hosted by EAR\WAX | dj sweet6teen |
+| Sat, 14 Nov 2026 | Dj Sweet 6Teen hosted by EAR\WAX | Vittorio Ursoleo, dj sweet6teen |
 | Fri, 20 Nov 2026 | Naone (down2earth, UTTU, Safe Trip /NL), Rice Papers (Continua, WRD /IT) hosted by Continua | Naone |
 | Sat, 21 Nov 2026 | P.E.A.R.L. (Falling Ethics, Tar Hallow /ESP), Kessa (WRD /IT), Allegretti (WRD /IT) | Allegretti, Kessa, P.E.A.R.L. |
 | Sat, 28 Nov 2026 | Make A Dance hosted by EAR\WAX | Make A Dance |
@@ -23,4 +23,4 @@ Azimut Club is a music venue in Turin listed on soundcheck. 11 upcoming gigs, wi
 
 Via Modena, 55 10153 Torino TO, Italy, Turin
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/turin/club/azimut-club/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/turin/club/azimut-club/)*

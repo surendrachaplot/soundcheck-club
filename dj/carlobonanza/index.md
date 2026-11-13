@@ -1,6 +1,6 @@
 # Carlo Bonanza
 
-Carlo Bonanza is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Kater, Berlin on Sat, 12 Dec 2026.
+Carlo Bonanza is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Kater, Berlin on Sat, 12 Dec 2026.
 
 Carlo Bonanza is a techno and house artist based in Germany, with 44 gigs on soundcheck across Barcelona, Berlin, Cologne and Dresden and 3 more. Often billed alongside lisa luka, Ciao 3lla and bīsu. Next up: Kater, Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Carlo Bonanza is a techno and house artist based in Germany, with 44 gigs on sou
 
 lisa luka, Ciao 3lla, bīsu
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlobonanza/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlobonanza/)*

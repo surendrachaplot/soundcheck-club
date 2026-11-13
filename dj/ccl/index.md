@@ -1,6 +1,6 @@
 # CCL
 
-CCL is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at boomroom, Perth on Fri, 13 Nov 2026.
+CCL is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at boomroom, Perth on Fri, 13 Nov 2026.
 
 CCL is a techno and house artist based in United States of America, with 234 gigs on soundcheck across Amsterdam, Auckland, Austin and Barcelona and 71 more. Often billed alongside Objekt, Eris Drew and Octo Octa. Next up: boomroom, Perth on Fri 13 Nov.
 
@@ -35,4 +35,4 @@ CCL is a techno and house artist based in United States of America, with 234 gig
 
 Objekt, Eris Drew, Octo Octa
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ccl/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ccl/)*

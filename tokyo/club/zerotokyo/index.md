@@ -1,14 +1,13 @@
 # ZEROTOKYO
 
-ZEROTOKYO is a music venue in Tokyo with 21 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "AUREKA:006 -UK GARAGE / BASS MUSIC-" on Thu, 12 Nov 2026.
+ZEROTOKYO is a music venue in Tokyo with 20 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "BUNKER WITH MEDUSA AND ENOC - TECHNO / HARD TECHNO / MORE" on Fri, 13 Nov 2026.
 
-ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 21 upcoming gigs, with line-ups including ABOUT SOFIYA, AEMI, Aiobahn and Anfisa Letyago and 2 more. See dates, start times and who's playing. B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo.
+ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 20 upcoming gigs, with line-ups including ABOUT SOFIYA, AEMI, Aiobahn and Anfisa Letyago and 2 more. See dates, start times and who's playing. B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 12 Nov 2026 | AUREKA:006 -UK GARAGE / BASS MUSIC- | Dom (1), Genick, Ginji, ITSUKI, NOIA, Ririko, SKYTOPIA, VECSILLE, Yess, mah-ble soda |
 | Fri, 13 Nov 2026 | BUNKER WITH MEDUSA AND ENOC - TECHNO / HARD TECHNO / MORE | ABOUT SOFIYA, CHIKA, Calavera, ENTER, K4BUKI, LYOM, Lava, MUSCLE ∞ BROTHERS, SATELLA, SONATA, Soluna, Tenju, Vincent Favard, VÏVÏ, YUXI, na-na |
 | Sat, 14 Nov 2026 | FAVELA MEGA - LATIN -  |  |
 | Sun, 15 Nov 2026 | 暴爆 Vol. 0 |  |
@@ -18,9 +17,10 @@ ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 21 upcoming gigs, with
 | Sun, 22 Nov 2026 | THE GONG - HOUSE / TECHNO / HIPHOP - | Neibiss, SAMO (JP), TAKENOKO, YUVIE, cazbow, kengotaki, nazanael |
 | Thu, 26 Nov 2026 | VIRAL -ALL MIX / JAPANESE ELECTRONIC POP / VOCALOID- | Genick, omeme_gangimari, sumi |
 | Fri, 27 Nov 2026 | NEON STARS Vol.04 - BASS / TECHNO / OPEN FORMAT - | Carpainter, Seimei, TRID3NT, VECSILLE |
+| Sat, 28 Nov 2026 | Locker Room feat. DAISY - HARD TECHNO / TECHNO - | Calavera, DALJAE, Daisy-it, HATSUYUKI, KATSU (2), O.Goo, SHIGEKI NISHIKAWA, STRATAH, Soluna, YOXIKI, kyuuu |
 
 ## Address
 
 B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo, Tokyo
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/zerotokyo/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/zerotokyo/)*

@@ -1,6 +1,6 @@
 # fka phaedra
 
-fka phaedra is a Latin Bass and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at La Station - Gare des Mines, Paris on Fri, 20 Nov 2026.
+fka phaedra is a Latin Bass and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at La Station - Gare des Mines, Paris on Fri, 20 Nov 2026.
 
 fka phaedra is a latin bass and club artist based in Mexico, with 75 gigs on soundcheck across Amsterdam, Barcelona, Geneva and Ghent and 8 more. Often billed alongside Mensik, Lyo XS and Jamira Estrada. Next up: La Station - Gare des Mines, Paris on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ fka phaedra is a latin bass and club artist based in Mexico, with 75 gigs on sou
 
 Mensik, Lyo XS, Jamira Estrada
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fkaphaedra/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fkaphaedra/)*

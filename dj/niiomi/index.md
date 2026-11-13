@@ -1,14 +1,15 @@
 # Niiomi
 
-Niiomi is a Progressive House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Het Sieraad, Amsterdam on Sat, 21 Nov 2026.
+Niiomi is a Afro House and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Het Sieraad, Amsterdam on Sat, 21 Nov 2026.
 
-Niiomi is a progressive house and afro house artist based in Netherlands, with 24 gigs on soundcheck across Amsterdam, Brussels, Dubai and Ibiza and 4 more. Often billed alongside AMÉMÉ, Ammé and Cincity. Next up: Het Sieraad, Amsterdam on Sat 21 Nov.
+Niiomi is an afro house and progressive house artist based in Netherlands, with 25 gigs on soundcheck across Amsterdam, Brussels, Dubai and Ibiza and 5 more. Often billed alongside AMÉMÉ, Ammé and Cincity. Next up: Het Sieraad, Amsterdam on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Het Sieraad | Amsterdam |
+| Fri, 4 Dec 2026 | Supermarket | Zurich |
 | Sat, 27 Mar 2027 | NDSM Docklands | Amsterdam |
 
 ## Recently played
@@ -26,4 +27,4 @@ Niiomi is a progressive house and afro house artist based in Netherlands, with 2
 
 AMÉMÉ, Ammé, Cincity
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/niiomi/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/niiomi/)*

@@ -1,8 +1,8 @@
 # Adiel
 
-Adiel is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Parque Fundidora, Monterrey on Fri, 13 Nov 2026.
+Adiel is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Parque Fundidora, Monterrey on Fri, 13 Nov 2026.
 
-Adiel is a techno and house artist based in Italy, with 249 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 69 more. Often billed alongside Héctor Oaks, Nina Kraviz and Richie Hawtin. Next up: Parque Fundidora, Monterrey on Fri 13 Nov.
+Adiel is a techno and house artist based in Italy, with 252 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 70 more. Often billed alongside Héctor Oaks, Nina Kraviz and Richie Hawtin. Next up: Parque Fundidora, Monterrey on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Adiel is a techno and house artist based in Italy, with 249 gigs on soundcheck a
 | Fri, 13 Nov 2026 | Jolene Downtown Miami | Miami |
 | Fri, 20 Nov 2026 | Radius | Chicago |
 | Fri, 20 Nov 2026 | Duggal Greenhouse | New York City |
+| Fri, 27 Nov 2026 | Jasna 1 | Warsaw |
 | Sat, 28 Nov 2026 | Warehouse ZRH | Zurich |
 | Sat, 12 Dec 2026 | KALT | Strasbourg |
+| Sat, 26 Dec 2026 | Cocoricò | North |
 | Thu, 31 Dec 2026 | RSO.BERLIN | Berlin |
+| Thu, 31 Dec 2026 | Oddity Club | Athens |
 | Fri, 1 Jan 2027 | Bosc Tancat / Diverbosc | Barcelona |
 | Fri, 29 Jan 2027 | Cosmos Club Sevilla | South |
-| Sat, 30 Jan 2027 | Q35 WAREHOUSE | Turin |
-| Sat, 27 Feb 2027 | Paradigm | Netherlands |
-| Sat, 27 Mar 2027 | NDSM Docklands | Amsterdam |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Adiel is a techno and house artist based in Italy, with 249 gigs on soundcheck a
 
 Héctor Oaks, Nina Kraviz, Richie Hawtin
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adiel/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adiel/)*

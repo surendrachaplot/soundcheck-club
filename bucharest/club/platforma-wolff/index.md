@@ -1,8 +1,8 @@
 # Platforma Wolff
 
-Platforma Wolff is a music venue in Bucharest with 8 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "PW x Flipside • Stipo, SunnySun, Barbu" on Fri, 13 Nov 2026.
+Platforma Wolff is a music venue in Bucharest with 9 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "PW x Flipside • Stipo, SunnySun, Barbu" on Fri, 13 Nov 2026.
 
-Platforma Wolff is a music venue in Bucharest listed on soundcheck. 8 upcoming gigs, with line-ups including Andrei Ciubuc, Arnic, Barbu and Detroit In Effect and 2 more. See dates, start times and who's playing. 1, Doctor Constantin Istrati Street, Sector 4, 040542, Bucharest.
+Platforma Wolff is a music venue in Bucharest listed on soundcheck. 9 upcoming gigs, with line-ups including Andrei Ciubuc, Arnic, Barbu and Carl H and 2 more. See dates, start times and who's playing. 1, Doctor Constantin Istrati Street, Sector 4, 040542, Bucharest.
 
 ## What's on
 
@@ -16,9 +16,10 @@ Platforma Wolff is a music venue in Bucharest listed on soundcheck. 8 upcoming g
 | Sat, 28 Nov 2026 | PW Club Season • Detroit In Effect, Maria Antoaneta, Syntelman | Detroit In Effect, Maria Antoaneta, Syntelman |
 | Sun, 29 Nov 2026 | PW x Playedby 12 Years Anniversary • Andrei Ciubuc, Zya | Andrei Ciubuc, Zya (1) |
 | Fri, 4 Dec 2026 | PW x SNRS • Suciu (all night long) | Suciu |
+| Sat, 5 Dec 2026 | PW Residency • Carl H, Mianda, Obre | Carl H, Mianda, Obre |
 
 ## Address
 
 1, Doctor Constantin Istrati Street, Sector 4, 040542, Bucharest, Bucharest
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/platforma-wolff/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/platforma-wolff/)*

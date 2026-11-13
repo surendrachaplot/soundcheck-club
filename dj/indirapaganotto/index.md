@@ -1,6 +1,6 @@
 # Indira Paganotto
 
-Indira Paganotto is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Expo Santa Fe, Mexico City on Fri, 20 Nov 2026.
+Indira Paganotto is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Expo Santa Fe, Mexico City on Fri, 20 Nov 2026.
 
 Indira Paganotto is a techno and house artist based in Spain, with 232 gigs on soundcheck across Amsterdam, Antwerp, Argentina and Athens and 67 more. Often billed alongside Joseph Capriati, Patrick Mason and Nico Moreno. Next up: Expo Santa Fe, Mexico City on Fri 20 Nov.
 
@@ -31,4 +31,4 @@ Indira Paganotto is a techno and house artist based in Spain, with 232 gigs on s
 
 Joseph Capriati, Patrick Mason, Nico Moreno
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/indirapaganotto/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/indirapaganotto/)*

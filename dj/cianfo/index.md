@@ -1,6 +1,6 @@
 # Cianfo
 
-Cianfo is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Arca, Milan on Sun, 22 Nov 2026.
+Cianfo is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Arca, Milan on Sun, 22 Nov 2026.
 
 Cianfo is a house and minimal artist based in Italy, with 19 gigs on soundcheck across Milan and Rome. Often billed alongside Larry Masmero, Radiice and Dante (H501). Next up: Arca, Milan on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ Cianfo is a house and minimal artist based in Italy, with 19 gigs on soundcheck 
 
 Larry Masmero, Radiice, Dante (H501)
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cianfo/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cianfo/)*

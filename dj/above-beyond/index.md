@@ -1,6 +1,6 @@
 # Above & Beyond
 
-Above & Beyond is a Trance and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
+Above & Beyond is a Trance and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
 
 Above & Beyond are a trance and techno duo based in United Kingdom, with 55 gigs on soundcheck across Amsterdam, Austin, Bali and Belfast and 29 more. Often billed alongside Billy Gillies, Charlotte de Witte and Deadmau5. Next up: The Concourse Project, Austin on Fri 13 Nov.
 
@@ -31,4 +31,4 @@ Above & Beyond are a trance and techno duo based in United Kingdom, with 55 gigs
 
 Billy Gillies, Charlotte de Witte, Deadmau5
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/above-beyond/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/above-beyond/)*

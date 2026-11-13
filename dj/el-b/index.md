@@ -1,6 +1,6 @@
 # El-B
 
-El-B is a Garage and Dubstep artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at M.O.T, London on Sat, 28 Nov 2026.
+El-B is a Garage and Dubstep artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at M.O.T, London on Sat, 28 Nov 2026.
 
 El-B is a garage and dubstep artist based in United Kingdom, with 47 gigs on soundcheck across Amsterdam, Barcelona, Bristol and Copenhagen and 10 more. Often billed alongside Plastician, Zed Bias and James Massiah. Next up: M.O.T, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ El-B is a garage and dubstep artist based in United Kingdom, with 47 gigs on sou
 
 Plastician, Zed Bias, James Massiah
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/el-b/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/el-b/)*

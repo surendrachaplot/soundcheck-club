@@ -1,14 +1,15 @@
 # manu_facturer
 
-manu_facturer is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at EXIT Glasgow, Glasgow on Fri, 20 Nov 2026.
+manu_facturer is a Techno and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at EXIT Glasgow, Glasgow on Fri, 20 Nov 2026.
 
-manu_facturer is a techno and breakbeat artist based in United Kingdom, with 41 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside Kalopsia, 3SBAT and Lockedback. Next up: EXIT Glasgow, Glasgow on Fri 20 Nov.
+manu_facturer is a techno and breakbeat artist based in United Kingdom, with 42 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside Kalopsia, 3SBAT and Lockedback. Next up: EXIT Glasgow, Glasgow on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | EXIT Glasgow | Glasgow |
+| Thu, 10 Dec 2026 | Strange Field | Glasgow |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ manu_facturer is a techno and breakbeat artist based in United Kingdom, with 41 
 
 Kalopsia, 3SBAT, Lockedback
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manu_facturer/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manu_facturer/)*

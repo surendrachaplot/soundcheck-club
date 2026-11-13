@@ -1,6 +1,6 @@
 # Dragomir (2)
 
-Dragomir (2) is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Nether Club, Bucharest on Sun, 29 Nov 2026.
+Dragomir (2) is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Nether Club, Bucharest on Sun, 29 Nov 2026.
 
 Dragomir is a techno and minimal artist based in Romania, with 8 gigs on soundcheck across Bucharest, London, Sofia and Zurich. Often billed alongside Vlad Arapasu, Adriana and Akyra. Next up: Nether Club, Bucharest on Sun 29 Nov.
 
@@ -24,4 +24,4 @@ Dragomir is a techno and minimal artist based in Romania, with 8 gigs on soundch
 
 Vlad Arapasu, Adriana (3), Akyra
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dragomir-2/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dragomir-2/)*

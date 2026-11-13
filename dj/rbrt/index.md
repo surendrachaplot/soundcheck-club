@@ -1,6 +1,6 @@
 # RB/RT
 
-RB/RT is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Zero Club, North on Fri, 13 Nov 2026.
+RB/RT is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Zero Club, North on Fri, 13 Nov 2026.
 
 RB/RT is a techno and hardcore artist based in Italy, with 9 gigs on soundcheck across Florence, Milan, Naples and North and 2 more. Often billed alongside MONYAL, 2LUX and 6EJOU. Next up: Zero Club, North on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ RB/RT is a techno and hardcore artist based in Italy, with 9 gigs on soundcheck 
 
 MONYAL, 2LUX, 6EJOU
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rbrt/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rbrt/)*

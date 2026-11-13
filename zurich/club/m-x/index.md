@@ -1,8 +1,8 @@
 # MÄX
 
-MÄX is a music venue in Zurich with 12 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Schranz Nacht with O.B.I. & Ornella" on Fri, 13 Nov 2026.
+MÄX is a music venue in Zurich with 13 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Schranz Nacht with O.B.I. & Ornella" on Fri, 13 Nov 2026.
 
-MÄX is a music venue in Zurich listed on soundcheck. 12 upcoming gigs, with line-ups including 1luu, Alle Farben, andris and BIIANCO and 2 more. See dates, start times and who's playing. Hardstrasse 219, 8005 Zurich.
+MÄX is a music venue in Zurich listed on soundcheck. 13 upcoming gigs, with line-ups including 1luu, Alle Farben, andris and BIIANCO and 2 more. See dates, start times and who's playing. Hardstrasse 219, 8005 Zurich.
 
 ## What's on
 
@@ -17,10 +17,10 @@ MÄX is a music venue in Zurich listed on soundcheck. 12 upcoming gigs, with lin
 | Sat, 5 Dec 2026 | Alle Farben - Club Tour | Alle Farben |
 | Sat, 12 Dec 2026 | Jazzy - All Night Long | JAZZY (2) |
 | Sat, 19 Dec 2026 | Liquicity Zurich 2026 | Etherwood, Maduk, Muzz Khan |
-| Thu, 31 Dec 2026 | New Year's RE:BACK | 1luu, BINA, Cortez (2), DJ Henk, KAïA (2), Megix, Nhū, PENCIL |
+| Sat, 26 Dec 2026 | X-MAS Cardio Session with NEGITIV | GCOD, Megix, NEGITIV |
 
 ## Address
 
 Hardstrasse 219, 8005 Zurich, Zurich
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/m-x/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/m-x/)*

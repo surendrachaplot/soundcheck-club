@@ -1,13 +1,14 @@
 # Good Nelson
 
-Good Nelson is a Minimal Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Süss War Gestern, Berlin on Sat, 21 Nov 2026.
+Good Nelson is a Minimal Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Süss War Gestern, Berlin on Sat, 21 Nov 2026.
 
-Good Nelson is a minimal techno and house artist based in Chile, with 18 gigs on soundcheck across Barcelona, Berlin, Lausanne and Lisbon. Often billed alongside Elwei, Miguel Silva and Popsky. Next up: Süss War Gestern, Berlin on Sat 21 Nov.
+Good Nelson is a minimal techno and house artist based in Chile, with 19 gigs on soundcheck across Barcelona, Berlin, Lausanne and Lisbon. Often billed alongside Miguel Silva, Elwei and Popsky. Next up: Süss War Gestern, Berlin on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | Süss War Gestern | Berlin |
 | Sat, 21 Nov 2026 | Süss War Gestern | Berlin |
 
 ## Recently played
@@ -23,6 +24,6 @@ Good Nelson is a minimal techno and house artist based in Chile, with 18 gigs on
 
 ## Shares bills with
 
-Elwei, Miguel Silva, Popsky
+Miguel Silva, Elwei, Popsky
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/goodnelson/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/goodnelson/)*

@@ -1,8 +1,8 @@
 # MARRØN
 
-MARRØN is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Peti Kupe, Zagreb on Fri, 13 Nov 2026.
+MARRØN is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Peti Kupe, Zagreb on Fri, 13 Nov 2026.
 
-MARRØN is a techno and house artist based in Netherlands, with 315 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 85 more. Often billed alongside Blasha & Allatt, Ben Klock and Freddy K. Next up: Peti Kupe, Zagreb on Fri 13 Nov.
+MARRØN is a techno and house artist based in Netherlands, with 316 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 86 more. Often billed alongside Blasha & Allatt, Ben Klock and Freddy K. Next up: Peti Kupe, Zagreb on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ MARRØN is a techno and house artist based in Netherlands, with 315 gigs on soun
 
 Blasha & Allatt, Ben Klock, Freddy K
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marron/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marron/)*

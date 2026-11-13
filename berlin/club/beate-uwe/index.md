@@ -1,8 +1,8 @@
 # Beate Uwe
 
-Beate Uwe is a music venue in Berlin with 19 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Magic Circus" on Fri, 13 Nov 2026.
+Beate Uwe is a music venue in Berlin with 21 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Magic Circus" on Fri, 13 Nov 2026.
 
-Beate Uwe is a music venue in Berlin listed on soundcheck. 19 upcoming gigs, with line-ups including Adrian Schneider, Andrea Zucca, ANNAWAFFEL and ANXA and 2 more. See dates, start times and who's playing. Schillingstr. 31, 10179, Berlin.
+Beate Uwe is a music venue in Berlin listed on soundcheck. 21 upcoming gigs, with line-ups including Adrian Schneider, Anaîka, Andrea Zucca and ANNAWAFFEL and 2 more. See dates, start times and who's playing. Schillingstr. 31, 10179, Berlin.
 
 ## What's on
 
@@ -12,7 +12,7 @@ Beate Uwe is a music venue in Berlin listed on soundcheck. 19 upcoming gigs, wit
 | Sat, 14 Nov 2026 | Beate Invites /// WUT Kollektiv | ANXA, KYT, Sonalie Solar |
 | Sun, 15 Nov 2026 | Beate Barfuß /// Rampue (live), sneffinsky, Kira Kaluma, Katschinka, Shurti | Rampue, sneffinsky |
 | Fri, 20 Nov 2026 | EISENGRAU | Testbild |
-| Sat, 21 Nov 2026 | Beate Invites /// HOUSE QUEENS | Cardi-O, Cora Lee, Kristina Sheli, LIZZN, MC-K, Miss Kitchen, Mitsuko, Natasha Roze |
+| Sat, 21 Nov 2026 | Beate Invites /// HOUSE QUEENS | Anaîka, Cardi-O, Cora Lee, Kristina Sheli, LIZZN, MC-K, Miss Kitchen, Mitsuko, Natasha Roze |
 | Sun, 22 Nov 2026 | Beate Barfuß /// LIVE ALL NIGHT | Adrian Schneider, Cedric Scheibel, Iva Bodul, Judith Ahrends, Theo Gramal |
 | Tue, 24 Nov 2026 | Tanzen3000: Alma Omega |  |
 | Thu, 26 Nov 2026 | Be Home /// NVANCE (live), Audae (live), Farn, Yanakuna | Audae, Farn |
@@ -23,4 +23,4 @@ Beate Uwe is a music venue in Berlin listed on soundcheck. 19 upcoming gigs, wit
 
 Schillingstr. 31, 10179, Berlin, Berlin
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/beate-uwe/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/beate-uwe/)*

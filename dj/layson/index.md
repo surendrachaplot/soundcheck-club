@@ -1,6 +1,6 @@
 # Layson
 
-Layson is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Electric Pizza Shop, Manchester on Fri, 18 Dec 2026.
+Layson is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Electric Pizza Shop, Manchester on Fri, 18 Dec 2026.
 
 Layson is a house and techno artist based in United Kingdom, with 16 gigs on soundcheck across London and Manchester. Often billed alongside Marlon Baleci, Nick Clev and Sam Beach. Next up: Electric Pizza Shop, Manchester on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Layson is a house and techno artist based in United Kingdom, with 16 gigs on sou
 
 Marlon Baleci, Nick Clev, Sam Beach
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/layson/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/layson/)*

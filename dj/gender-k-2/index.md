@@ -1,6 +1,6 @@
 # GENDER-K (2)
 
-GENDER-K (2) is a Techno and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Psyon, Okinawa on Fri, 13 Nov 2026.
+GENDER-K (2) is a Techno and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Psyon, Okinawa on Fri, 13 Nov 2026.
 
 GENDER-K is a techno and drum & bass artist based in Japan, with 23 gigs on soundcheck across Okinawa and Tokyo. Often billed alongside EMILIO, KAMIKAZE and MA-KO. Next up: Psyon, Okinawa on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ GENDER-K is a techno and drum & bass artist based in Japan, with 23 gigs on soun
 
 EMILIO (3), KAMIKAZE, MA-KO
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gender-k-2/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gender-k-2/)*

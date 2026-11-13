@@ -1,6 +1,6 @@
 # Berlin Club Culture
 
-Berlin Club Culture is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Pre NEW YEARS EVE Party Tour - 3 Iconic Venues x Games x Prices" on Wed, 30 Dec 2026.
+Berlin Club Culture is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Pre NEW YEARS EVE Party Tour - 3 Iconic Venues x Games x Prices" on Wed, 30 Dec 2026.
 
 Berlin Club Culture is a music venue in Berlin listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ Berlin Club Culture is a music venue in Berlin listed on soundcheck. 2 upcoming 
 | Wed, 30 Dec 2026 | Pre NEW YEARS EVE Party Tour - 3 Iconic Venues x Games x Prices |  |
 | Thu, 31 Dec 2026 | Berlin NEW YEARS EVE Party Tour - 3 Iconic Venues x Games x Prices |  |
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/berlin-club-culture/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/berlin-club-culture/)*

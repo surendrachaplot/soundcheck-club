@@ -1,6 +1,6 @@
 # Salty
 
-Salty is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Rhythm, Toronto on Sun, 15 Nov 2026.
+Salty is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Rhythm, Toronto on Sun, 15 Nov 2026.
 
 Salty is a house and techno artist based in Canada, with 10 gigs on soundcheck across Austin, Montreal, Nashville and Perth and 2 more. Often billed alongside 2HZY, 999ADJ and BMG. Next up: Rhythm, Toronto on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Salty is a house and techno artist based in Canada, with 10 gigs on soundcheck a
 
 2HZY, 999ADJ, BMG
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/salty/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/salty/)*

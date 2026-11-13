@@ -1,6 +1,6 @@
 # KENZA
 
-KENZA is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at OXI, Berlin on Fri, 18 Dec 2026.
+KENZA is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at OXI, Berlin on Fri, 18 Dec 2026.
 
 KENZA is a house and garage artist based in United Kingdom, with 34 gigs on soundcheck across Berlin, Budapest, London and Warsaw and 1 more. Often billed alongside DJ NORTHERN, Immy and Triqi. Next up: OXI, Berlin on Fri 18 Dec.
 
@@ -27,4 +27,4 @@ KENZA is a house and garage artist based in United Kingdom, with 34 gigs on soun
 
 DJ NORTHERN, Immy, Triqi
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kenza/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kenza/)*

@@ -1,14 +1,14 @@
 # Yotto
 
-Yotto is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at University of Adelaide, Adelaide on Sat, 21 Nov 2026.
+Yotto is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Electric Circus, Adelaide on Sat, 21 Nov 2026.
 
-Yotto is a progressive house and techno artist based in Finland, with 110 gigs on soundcheck across Adelaide, Amsterdam, Austin and Barcelona and 39 more. Often billed alongside Nicky Elisabeth, Qrion and Cristoph. Next up: University of Adelaide, Adelaide on Sat 21 Nov.
+Yotto is a progressive house and techno artist based in Finland, with 110 gigs on soundcheck across Adelaide, Amsterdam, Austin and Barcelona and 39 more. Often billed alongside Nicky Elisabeth, Qrion and Cristoph. Next up: Electric Circus, Adelaide on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | University of Adelaide | Adelaide |
+| Sat, 21 Nov 2026 | Electric Circus | Adelaide |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Yotto is a progressive house and techno artist based in Finland, with 110 gigs o
 
 Nicky Elisabeth, Qrion, Cristoph
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yotto/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yotto/)*

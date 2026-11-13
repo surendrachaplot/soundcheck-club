@@ -1,6 +1,6 @@
 # AYLIN IDAH
 
-AYLIN IDAH is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at RSO.BERLIN, Berlin on Sat, 5 Dec 2026.
+AYLIN IDAH is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at RSO.BERLIN, Berlin on Sat, 5 Dec 2026.
 
 AYLIN IDAH is a techno and house artist based in Germany, with 68 gigs on soundcheck across Amsterdam, Basel, Berlin and Cologne and 17 more. Often billed alongside Kim She, Acierate and Disguised. Next up: RSO.BERLIN, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ AYLIN IDAH is a techno and house artist based in Germany, with 68 gigs on soundc
 
 Kim She, Acierate, Disguised
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aylinidah/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aylinidah/)*

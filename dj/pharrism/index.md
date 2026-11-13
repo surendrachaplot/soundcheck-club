@@ -1,6 +1,6 @@
 # PHARRISM
 
-PHARRISM is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at 8sixa, Amsterdam on Sat, 28 Nov 2026.
+PHARRISM is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at 8sixa, Amsterdam on Sat, 28 Nov 2026.
 
 PHARRISM is a techno and bass artist based in Netherlands, with 11 gigs on soundcheck across Amsterdam and Naples. Often billed alongside THEBODYKNOWS, Aretam and Bailey Ibbs. Next up: 8sixa, Amsterdam on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ PHARRISM is a techno and bass artist based in Netherlands, with 11 gigs on sound
 
 THEBODYKNOWS, Aretam, Bailey Ibbs
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pharrism/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pharrism/)*

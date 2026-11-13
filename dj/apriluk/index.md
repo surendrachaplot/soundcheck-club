@@ -1,6 +1,6 @@
 # April (UK)
 
-April (UK) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Soup, Manchester on Sat, 14 Nov 2026.
+April (UK) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Soup, Manchester on Sat, 14 Nov 2026.
 
 April (UK) is a techno and house artist based in United Kingdom, with 69 gigs on soundcheck across Glasgow, Leeds, Liverpool and Manchester and 1 more. Often billed alongside Esmé, Alex Milo and BAY-BUSH-KA. Next up: Soup, Manchester on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ April (UK) is a techno and house artist based in United Kingdom, with 69 gigs on
 
 Esmé, Alex Milo, BAY-BUSH-KA
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/apriluk/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/apriluk/)*

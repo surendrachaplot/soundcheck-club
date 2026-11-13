@@ -1,6 +1,6 @@
 # Smoothie Boiz
 
-Smoothie Boiz is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Panorama Studio, Ho-chi-minh-city on Thu, 31 Dec 2026.
+Smoothie Boiz is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Panorama Studio, Ho-chi-minh-city on Thu, 31 Dec 2026.
 
 Smoothie Boiz is a techno and club artist based in Vietnam, with 86 gigs on soundcheck across Bangkok, Hanoi, Ho Chi Minh City and Leipzig and 4 more. Often billed alongside Phát Paris, lil toilet and Kỳ Mỹ. Next up: Panorama Studio, Ho Chi Minh City on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Smoothie Boiz is a techno and club artist based in Vietnam, with 86 gigs on soun
 
 Phát Paris, lil toilet, Kỳ Mỹ
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/smoothieboiz/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/smoothieboiz/)*

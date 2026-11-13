@@ -1,6 +1,6 @@
 # Vlad Caia
 
-Vlad Caia is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Club Guesthouse, Bucharest on Sat, 28 Nov 2026.
+Vlad Caia is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Club Guesthouse, Bucharest on Sat, 28 Nov 2026.
 
 Vlad Caia is a house and minimal artist based in Romania, with 52 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 14 more. Often billed alongside Cristi Cons, SIT Amphia and BILA. Next up: Club Guesthouse, Bucharest on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Vlad Caia is a house and minimal artist based in Romania, with 52 gigs on soundc
 
 Cristi Cons, SIT Amphia, BILA
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vladcaia/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vladcaia/)*

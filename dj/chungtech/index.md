@@ -1,6 +1,6 @@
 # chungtech
 
-chungtech is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Mothership, San Francisco/Oakland on Fri, 13 Nov 2026.
+chungtech is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Mothership, San Francisco/Oakland on Fri, 13 Nov 2026.
 
 chungtech is a house and disco artist based in United States of America, with 9 gigs on soundcheck across San Francisco/Oakland. Often billed alongside A-Trak, Admiral and Amatric. Next up: Mothership, San Francisco/Oakland on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ chungtech is a house and disco artist based in United States of America, with 9 
 
 A-Trak, Admiral, Amatric
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chungtech/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chungtech/)*

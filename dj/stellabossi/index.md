@@ -1,6 +1,6 @@
 # STELLA BOSSI
 
-STELLA BOSSI is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Hans Bunte Areal, Freiburg on Sat, 5 Dec 2026.
+STELLA BOSSI is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Hans Bunte Areal, Freiburg on Sat, 5 Dec 2026.
 
 STELLA BOSSI is a techno and house artist based in Germany, with 150 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 63 more. Often billed alongside Anna Tur, Lilly Palmer and I Hate Models. Next up: Hans Bunte Areal, Freiburg on Sat 5 Dec.
 
@@ -27,4 +27,4 @@ STELLA BOSSI is a techno and house artist based in Germany, with 150 gigs on sou
 
 Anna Tur, Lilly Palmer, I Hate Models
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stellabossi/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stellabossi/)*

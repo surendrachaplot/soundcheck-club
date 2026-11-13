@@ -1,6 +1,6 @@
 # Fiedel
 
-Fiedel is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - SECRET SPOT, Santiago on Sat, 21 Nov 2026.
+Fiedel is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - SECRET SPOT, Santiago on Sat, 21 Nov 2026.
 
 Fiedel is a techno and house artist based in Germany, with 75 gigs on soundcheck across Amsterdam, Athens, Bali and Berlin and 19 more. Often billed alongside Fadi Mohem, Phase Fatale and Steffi. Next up: TBA - SECRET SPOT, Santiago on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Fiedel is a techno and house artist based in Germany, with 75 gigs on soundcheck
 
 Fadi Mohem, Phase Fatale, Steffi
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fiedel/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fiedel/)*

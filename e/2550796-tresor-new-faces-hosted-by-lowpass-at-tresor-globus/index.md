@@ -1,6 +1,6 @@
 # Tresor New Faces hosted by Lowpass at Tresor / Globus
 
-Tresor New Faces hosted by Lowpass at Tresor / Globus on Wed 25 Nov, Berlin. 2 artists: Enzio Etchaberri and Schwarzmalerei. See the line-up on soundcheck.
+Tresor New Faces hosted by Lowpass at Tresor / Globus on Wed 25 Nov, Berlin. 4 artists: Astrover, Enzio Etchaberri, Morten B. and Schwarzmalerei. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,9 @@ Tresor New Faces hosted by Lowpass at Tresor / Globus on Wed 25 Nov, Berlin. 2 a
 
 ## Line-up
 
+- Astrover
 - Enzio Etchaberri
+- Morten B.
 - Schwarzmalerei
 
 *Source: [soundcheck](https://soundcheck.club/e/2550796-tresor-new-faces-hosted-by-lowpass-at-tresor-globus/)*

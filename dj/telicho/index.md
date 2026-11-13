@@ -1,6 +1,6 @@
 # Telicho
 
-Telicho is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Club Lucia, Vienna on Sat, 21 Nov 2026.
+Telicho is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Club Lucia, Vienna on Sat, 21 Nov 2026.
 
 Telicho is a techno and house artist based in Austria, with 23 gigs on soundcheck across Berlin and Vienna. Often billed alongside Huebl, Albin Brezlan and Dana Melissa. Next up: Club Lucia, Vienna on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Telicho is a techno and house artist based in Austria, with 23 gigs on soundchec
 
 Huebl, Albin Brezlan, Dana Melissa
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/telicho/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/telicho/)*

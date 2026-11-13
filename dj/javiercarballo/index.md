@@ -1,6 +1,6 @@
 # Javier Carballo
 
-Javier Carballo is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA, Canary-islands on Sat, 14 Nov 2026.
+Javier Carballo is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA, Canary-islands on Sat, 14 Nov 2026.
 
 Javier Carballo is a house and electro artist based in Spain, with 98 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Beijing and 13 more. Often billed alongside ildec, Berna and Hitch. Next up: TBA, Canary Islands on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Javier Carballo is a house and electro artist based in Spain, with 98 gigs on so
 
 ildec, Berna, Hitch
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/javiercarballo/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/javiercarballo/)*

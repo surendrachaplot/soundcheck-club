@@ -1,6 +1,6 @@
 # Paulita
 
-Paulita is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at MAD Radio NYC, New York City on Fri, 13 Nov 2026.
+Paulita is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at MAD Radio NYC, New York City on Fri, 13 Nov 2026.
 
 Paulita is a house and disco artist based in Germany, with 59 gigs on soundcheck across Antwerp, Barcelona, Berlin and Brussels and 8 more. Often billed alongside Marian Tone, Viktor Roshu and Shahrokh. Next up: MAD Radio NYC, New York City on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Paulita is a house and disco artist based in Germany, with 59 gigs on soundcheck
 
 Marian Tone, Viktor Roshu, Shahrokh
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paulita/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paulita/)*

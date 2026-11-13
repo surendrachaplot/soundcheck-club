@@ -1,6 +1,6 @@
 # amil raja
 
-amil raja is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Mooi Space, Toronto on Sat, 14 Nov 2026.
+amil raja is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Mooi Space, Toronto on Sat, 14 Nov 2026.
 
 amil raja is a club and techno artist based in Netherlands, with 18 gigs on soundcheck across Amsterdam, Barcelona, Brussels and Helsinki and 5 more. Often billed alongside The Twins (waitareyoutwins), 10cust and AceMo. Next up: Mooi Space, Toronto on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ amil raja is a club and techno artist based in Netherlands, with 18 gigs on soun
 
 The Twins (waitareyoutwins), 10cust, AceMo
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amilraja/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amilraja/)*

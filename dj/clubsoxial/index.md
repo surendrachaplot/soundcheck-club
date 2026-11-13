@@ -1,6 +1,6 @@
 # Club Soxial
 
-Club Soxial is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Paradisco Bogotá, Bogotá on Fri, 13 Nov 2026.
+Club Soxial is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Paradisco Bogotá, Bogotá on Fri, 13 Nov 2026.
 
 Club Soxial is a house and minimal artist based in Venezuela, with 17 gigs on soundcheck across Bogotá and Medellin. Often billed alongside yismna, Joint4nine and DJ Maybe. Next up: Paradisco Bogotá, Bogotá on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Club Soxial is a house and minimal artist based in Venezuela, with 17 gigs on so
 
 yismna, Joint4nine, DJ Maybe
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clubsoxial/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clubsoxial/)*

@@ -1,6 +1,6 @@
 # Yousef
 
-Yousef is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at District Arena at Terraform, Bangalore on Fri, 18 Dec 2026.
+Yousef is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at District Arena at Terraform, Bangalore on Fri, 18 Dec 2026.
 
 Yousef is a house and tech house artist based in United Kingdom, with 42 gigs on soundcheck across Bangalore, Cardiff, Ibiza and Leeds and 10 more. Often billed alongside East End Dubs, Paige Tomlinson and Eats Everything. Next up: District Arena at Terraform, Bangalore on Fri 18 Dec.
 
@@ -26,4 +26,4 @@ Yousef is a house and tech house artist based in United Kingdom, with 42 gigs on
 
 East End Dubs, Paige Tomlinson, Eats Everything
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yousef/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yousef/)*

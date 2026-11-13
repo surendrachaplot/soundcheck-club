@@ -1,6 +1,6 @@
 # Club Cocoa feat. Halima (live), UBABU, CH3RI, Nebula at The House
 
-Club Cocoa feat. Halima (live), UBABU, CH3RI, Nebula at The House on Fri 13 Nov, New York City. 2 artists: CH3RI and Halima. Amapiano and Afro House. See the line-up on soundcheck.
+Club Cocoa feat. Halima (live), UBABU, CH3RI, Nebula at The House on Fri 13 Nov, New York City. 3 artists: CH3RI, Halima and UBABU. Amapiano and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Club Cocoa feat. Halima (live), UBABU, CH3RI, Nebula at The House on Fri 13 Nov,
 
 - CH3RI
 - Halima
+- UBABU
 
 *Source: [soundcheck](https://soundcheck.club/e/2559363-club-cocoa-feat-halima-live-ubabu-ch3ri-nebula-at-the-house/)*

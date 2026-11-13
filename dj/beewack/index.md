@@ -1,6 +1,6 @@
 # beewack
 
-beewack is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Good Room, New York City on Fri, 20 Nov 2026.
+beewack is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Good Room, New York City on Fri, 20 Nov 2026.
 
 beewack is a house and disco artist based in United States of America, with 114 gigs on soundcheck across Athens, Berlin, Detroit and Lisbon and 9 more. Often billed alongside Planet B, Benjamin Roeder and Honey Bun. Next up: Good Room, New York City on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ beewack is a house and disco artist based in United States of America, with 114 
 
 Planet B, Benjamin Roeder, Honey Bun
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beewack/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beewack/)*

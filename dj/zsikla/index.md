@@ -1,6 +1,6 @@
 # Zsikla
 
-Zsikla is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Secret Location, Budapest on Sat, 21 Nov 2026.
+Zsikla is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Secret Location, Budapest on Sat, 21 Nov 2026.
 
 Zsikla is a minimal and tech house artist based in Hungary, with 13 gigs on soundcheck across Budapest. Often billed alongside Artic Yoyo, Drabar and Artheon. Next up: TBA - Secret Location, Budapest on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Zsikla is a minimal and tech house artist based in Hungary, with 13 gigs on soun
 
 Artic Yoyo, Drabar, Artheon
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zsikla/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zsikla/)*

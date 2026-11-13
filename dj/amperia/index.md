@@ -1,6 +1,6 @@
 # Amperia
 
-Amperia is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Lasociaciøn, Madrid on Sat, 19 Dec 2026.
+Amperia is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Lasociaciøn, Madrid on Sat, 19 Dec 2026.
 
 Amperia is a techno and progressive house artist, with 50 gigs on soundcheck across Berlin, Frankfurt, Hamburg and Leipzig and 2 more. Often billed alongside 2FARO, KH38 and Mashyno. Next up: Lasociaciøn, Madrid on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Amperia is a techno and progressive house artist, with 50 gigs on soundcheck acr
 
 2FARO, KH38, Mashyno
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amperia/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amperia/)*

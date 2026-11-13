@@ -1,6 +1,6 @@
 # Bless The Speakers
 
-Bless The Speakers is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Rote Sonne, Munich on Fri, 20 Nov 2026.
+Bless The Speakers is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Rote Sonne, Munich on Fri, 20 Nov 2026.
 
 Bless The Speakers is a techno artist, with 12 gigs on soundcheck across Berlin and Munich. Often billed alongside Gaaston, BENZA and Neverglass. Next up: Rote Sonne, Munich on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Bless The Speakers is a techno artist, with 12 gigs on soundcheck across Berlin 
 
 Gaaston, BENZA, Neverglass
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blessthespeakers/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blessthespeakers/)*

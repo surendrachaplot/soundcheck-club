@@ -1,18 +1,18 @@
 # Ryu (JP)
 
-Ryu (JP) is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at BAR Inc, Osaka on Thu, 12 Nov 2026.
+Ryu (JP) is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at BAR Inc, Osaka on Fri, 27 Nov 2026.
 
-Ryu (JP) is a house and disco artist based in Japan, with 9 gigs on soundcheck across Beijing, Manila, Osaka and Zagreb. Often billed alongside ANCHIN, Aliceyuki and DVDE. Next up: BAR Inc, Osaka on Thu 12 Nov.
+Ryu (JP) is a house and disco artist based in Japan, with 9 gigs on soundcheck across Beijing, Manila, Osaka and Zagreb. Often billed alongside ANCHIN, Aliceyuki and DVDE. Next up: BAR Inc, Osaka on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 12 Nov 2026 | BAR Inc | Osaka |
 | Fri, 27 Nov 2026 | BAR Inc | Osaka |
 
 ## Recently played
 
+- BAR Inc, Osaka · Thu, 12 Nov 2026
 - flo Soakin, Osaka · Thu, 29 Oct 2026
 - BAR Inc, Osaka · Sun, 25 Oct 2026
 - Circus Osaka, Osaka · Sun, 11 Oct 2026
@@ -25,4 +25,4 @@ Ryu (JP) is a house and disco artist based in Japan, with 9 gigs on soundcheck a
 
 ANCHIN, Aliceyuki, DVDE
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryu-jp/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryu-jp/)*

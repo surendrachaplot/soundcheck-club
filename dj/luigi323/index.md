@@ -1,8 +1,8 @@
 # LUIGI323
 
-LUIGI323 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at R22mie Studio, Baden-w-rttemberg on Sat, 14 Nov 2026.
+LUIGI323 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at R22mie Studio, Baden-w-rttemberg on Sat, 14 Nov 2026.
 
-LUIGI323 is a techno and trance artist, with 12 gigs on soundcheck across Baden W Rttemberg, Karlsruhe, London and Munich. Often billed alongside Stella Muriel, Shwabi and JBox. Next up: R22mie Studio, Baden W Rttemberg on Sat 14 Nov.
+LUIGI323 is a techno and trance artist based in Germany, with 12 gigs on soundcheck across Baden W Rttemberg, Karlsruhe, London and Munich. Often billed alongside Stella Muriel, Shwabi and JBox. Next up: R22mie Studio, Baden W Rttemberg on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ LUIGI323 is a techno and trance artist, with 12 gigs on soundcheck across Baden 
 
 Stella Muriel, Shwabi, JBox
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luigi323/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luigi323/)*

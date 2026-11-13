@@ -1,6 +1,6 @@
 # Harris
 
-Harris is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Bootshaus, Cologne on Fri, 22 Jan 2027.
+Harris is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Bootshaus, Cologne on Fri, 22 Jan 2027.
 
 Harris is a techno and house artist based in United Kingdom, with 33 gigs on soundcheck across Athens, Berlin, Cologne and Mannheim and 1 more. Often billed alongside Frankie Flowerz, Cyranotaurus Cortex and Don Rogall. Next up: Bootshaus, Cologne on Fri 22 Jan.
 
@@ -25,4 +25,4 @@ Harris is a techno and house artist based in United Kingdom, with 33 gigs on sou
 
 Frankie Flowerz, Cyranotaurus Cortex, Don Rogall
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/harris/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/harris/)*

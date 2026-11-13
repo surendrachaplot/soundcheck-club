@@ -1,6 +1,6 @@
 # Metro Baltimore
 
-Metro Baltimore is a music venue in Baltimore with 8 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Infinity Knives x Brian Ennals with SWOLL and Babas" on Fri, 13 Nov 2026.
+Metro Baltimore is a music venue in Baltimore with 8 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Infinity Knives x Brian Ennals with SWOLL and Babas" on Fri, 13 Nov 2026.
 
 Metro Baltimore is a music venue in Baltimore listed on soundcheck. 8 upcoming gigs, with line-ups including Bbymutha, DJ Dolla and Soohan. See dates, start times and who's playing.
 
@@ -17,4 +17,4 @@ Metro Baltimore is a music venue in Baltimore listed on soundcheck. 8 upcoming g
 | Sat, 26 Dec 2026 | Soohan HOLIDAY PARTY | Soohan |
 | Tue, 26 Jan 2027 | @ |  |
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/baltimore/club/metro-baltimore/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/baltimore/club/metro-baltimore/)*

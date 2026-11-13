@@ -1,6 +1,6 @@
 # Scott Hutchinson
 
-Scott Hutchinson is a Acid and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Secret Location Shoreditch, London on Fri, 4 Dec 2026.
+Scott Hutchinson is a Acid and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Secret Location Shoreditch, London on Fri, 4 Dec 2026.
 
 Scott Hutchinson is an acid and tech house artist based in United Kingdom, with 12 gigs on soundcheck across Birmingham, Brighton, Leeds and London. Often billed alongside Ed Tomlinson, John Paynter and Dombrance. Next up: TBA - Secret Location Shoreditch, London on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Scott Hutchinson is an acid and tech house artist based in United Kingdom, with 
 
 Ed Tomlinson, John Paynter, Dombrance
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scotthutchinson/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scotthutchinson/)*

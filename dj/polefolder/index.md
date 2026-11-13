@@ -1,6 +1,6 @@
 # Pole Folder
 
-Pole Folder is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA, Buenos Aires on Fri, 20 Nov 2026.
+Pole Folder is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA, Buenos Aires on Fri, 20 Nov 2026.
 
 Pole Folder is a progressive house and techno artist based in Belgium, with 15 gigs on soundcheck across Amsterdam, Antwerp, Buenos Aires and Glasgow and 2 more. Often billed alongside Hernan Cattaneo, Gai Barone and Guy J. Next up: TBA, Buenos Aires on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Pole Folder is a progressive house and techno artist based in Belgium, with 15 g
 
 Hernan Cattaneo, Gai Barone, Guy J
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/polefolder/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/polefolder/)*

@@ -1,6 +1,6 @@
 # X CLUB.
 
-X CLUB. is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Roxy, Prague on Fri, 20 Nov 2026.
+X CLUB. is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Roxy, Prague on Fri, 20 Nov 2026.
 
 X CLUB. is a techno and house artist based in Australia, with 248 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Atlanta and 79 more. Often billed alongside VTSS, DJ Heartstring and KETTAMA. Next up: Roxy, Prague on Fri 20 Nov.
 
@@ -34,4 +34,4 @@ X CLUB. is a techno and house artist based in Australia, with 248 gigs on soundc
 
 VTSS, DJ Heartstring, KETTAMA
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xclub/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xclub/)*

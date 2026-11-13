@@ -1,6 +1,6 @@
 # Vaults 002 at Bread and Butter Arch
 
-Vaults 002 at Bread and Butter Arch on Fri 20 Nov, London. 1 artist: SAMYL. Techno and House. See the line-up on soundcheck.
+Vaults 002 at Bread and Butter Arch on Fri 20 Nov, London. 3 artists: Ben Xylo, Freddie Yates and SAMYL. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ Vaults 002 at Bread and Butter Arch on Fri 20 Nov, London. 1 artist: SAMYL. Tech
 
 ## Line-up
 
+- Ben Xylo
+- Freddie Yates
 - SAMYL
 
 *Source: [soundcheck](https://soundcheck.club/e/2558556-vaults-002-at-bread-and-butter-arch/)*

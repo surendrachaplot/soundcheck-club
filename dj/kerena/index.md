@@ -1,6 +1,6 @@
 # Kerena
 
-Kerena is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Pawnshop, Taipei on Fri, 11 Dec 2026.
+Kerena is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Pawnshop, Taipei on Fri, 11 Dec 2026.
 
 Kerena is a house and techno artist based in Taiwan, with 109 gigs on soundcheck across Hanoi, Ho Chi Minh City, Hong Kong and Shenzhen and 2 more. Often billed alongside Tsui, miranda ku and Gemnital. Next up: Pawnshop, Taipei on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ Kerena is a house and techno artist based in Taiwan, with 109 gigs on soundcheck
 
 Tsui, miranda ku, Gemnital
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kerena/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kerena/)*

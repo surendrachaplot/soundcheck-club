@@ -1,6 +1,6 @@
 # Diskothek Melancholie 2
 
-Diskothek Melancholie 2 is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "FLAT22: CTZN001 Release Party" on Sat, 14 Nov 2026.
+Diskothek Melancholie 2 is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "FLAT22: CTZN001 Release Party" on Sat, 14 Nov 2026.
 
 Diskothek Melancholie 2 is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including Ghoulish and Louise Rossiter. See dates, start times and who's playing.
 
@@ -12,4 +12,4 @@ Diskothek Melancholie 2 is a music venue in Berlin listed on soundcheck. 3 upcom
 | Sat, 14 Nov 2026 | Bread & Butter Arch x Faded: OPEN DECKS (Hackney Central) |  |
 | Sat, 14 Nov 2026 | MADDISON WINDFARM / WEHMUT + more |  |
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/diskothek-melancholie-2/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/diskothek-melancholie-2/)*

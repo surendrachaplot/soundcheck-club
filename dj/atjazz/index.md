@@ -1,8 +1,8 @@
 # Atjazz
 
-Atjazz is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Mssng Pieces, Nottingham on Sat, 14 Nov 2026.
+Atjazz is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Mssng Pieces, Nottingham on Sat, 14 Nov 2026.
 
-Atjazz is a house and deep house artist based in United Kingdom, with 44 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 14 more. Often billed alongside Jimpster, Kyri R2 and Neil Pierce. Next up: Mssng Pieces, Nottingham on Sat 14 Nov.
+Atjazz is a house and deep house artist based in United Kingdom, with 45 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 14 more. Often billed alongside Groove Assassin, Jimpster and Kyri R2. Next up: Mssng Pieces, Nottingham on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Atjazz is a house and deep house artist based in United Kingdom, with 44 gigs on
 | Sat, 14 Nov 2026 | Mssng Pieces | Nottingham |
 | Sat, 14 Nov 2026 | Ministry Of Sound | London |
 | Sun, 22 Nov 2026 | The Timber Loft | London |
+| Fri, 1 Jan 2027 | The Steel Yard | London |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ Atjazz is a house and deep house artist based in United Kingdom, with 44 gigs on
 
 ## Shares bills with
 
-Jimpster, Kyri R2, Neil Pierce
+Groove Assassin, Jimpster, Kyri R2
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/atjazz/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/atjazz/)*

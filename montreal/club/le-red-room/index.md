@@ -1,15 +1,13 @@
 # Le Red Room
 
-Le Red Room is a music venue in Montreal with 9 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Future Jungle Deep n Liquid" on Thu, 12 Nov 2026.
+Le Red Room is a music venue in Montreal with 7 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "DOWN2TECHNO: Every Wednesday" on Wed, 18 Nov 2026.
 
-Le Red Room is a music venue in Montreal listed on soundcheck. 9 upcoming gigs, with line-ups including AKL!, D.Blavatsky, HomeSick and Make Sense and 2 more. See dates, start times and who's playing. 2037 rue Saint-Denis, Montreal, Quebec H2X3K8.
+Le Red Room is a music venue in Montreal listed on soundcheck. 7 upcoming gigs, with line-ups including AKL!, D.Blavatsky, HomeSick and Make Sense and 2 more. See dates, start times and who's playing. 2037 rue Saint-Denis, Montreal, Quebec H2X3K8.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 12 Nov 2026 | Future Jungle Deep n Liquid |  |
-| Thu, 12 Nov 2026 | Hard Mafia |  |
 | Wed, 18 Nov 2026 | DOWN2TECHNO: Every Wednesday |  |
 | Thu, 19 Nov 2026 | NCTRNL_001 | Zaube |
 | Wed, 25 Nov 2026 | DOWN2TECHNO: Every Wednesday | No Police, Ponsif |
@@ -22,4 +20,4 @@ Le Red Room is a music venue in Montreal listed on soundcheck. 9 upcoming gigs, 
 
 2037 rue Saint-Denis, Montreal, Quebec H2X3K8, Montreal
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/le-red-room/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/le-red-room/)*

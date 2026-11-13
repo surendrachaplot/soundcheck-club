@@ -1,6 +1,6 @@
 # 宀 Club
 
-宀 Club is a music venue in Hong Kong with 18 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Distrikt 34: Erik Luebs (Bitta, Osaka) [LIVE] + Scott B (Distrikt, Hong Kong)" on Fri, 13 Nov 2026.
+宀 Club is a music venue in Hong Kong with 18 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Distrikt 34: Erik Luebs (Bitta, Osaka) [LIVE] + Scott B (Distrikt, Hong Kong)" on Fri, 13 Nov 2026.
 
 宀 Club is a music venue in Hong Kong listed on soundcheck. 18 upcoming gigs, with line-ups including ADRIANNA.C, Anyss, Bouffant Bouffant and Charlieowo and 2 more. See dates, start times and who's playing. 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong.
 
@@ -23,4 +23,4 @@
 
 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong, Hong Kong
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/club/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/club/)*

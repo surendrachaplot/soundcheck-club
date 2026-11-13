@@ -1,6 +1,6 @@
 # Ritter Butzke
 
-Ritter Butzke is a music venue in Berlin with 23 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Bunte Träumerei w/ Marten Lou" on Fri, 13 Nov 2026.
+Ritter Butzke is a music venue in Berlin with 23 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Bunte Träumerei w/ Marten Lou" on Fri, 13 Nov 2026.
 
 Ritter Butzke is a music venue in Berlin listed on soundcheck. 23 upcoming gigs, with line-ups including Aaron Hibell, Aio, Alan Fitzpatrick and Alex Wann and 2 more. See dates, start times and who's playing. Ritterstrasse 26; Kreuzberg; 10969 Berlin; Germany.
 
@@ -10,8 +10,8 @@ Ritter Butzke is a music venue in Berlin listed on soundcheck. 23 upcoming gigs,
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Bunte Träumerei w/ Marten Lou | MARC WERNER, Marten Lou |
 | Sat, 14 Nov 2026 | Monkey Safari - YDKWTD - (All Night Long) Album Release Party | Monkey Safari |
-| Fri, 20 Nov 2026 | Worakls | Worakls |
-| Fri, 20 Nov 2026 | Mollono.Bass | LEENI, Mollono.Bass, vom Feisten |
+| Fri, 20 Nov 2026 | Worakls | Mathilde Nordberg, Worakls |
+| Fri, 20 Nov 2026 | Mollono.Bass | Konrad Sturm, LEENI, Mollono.Bass, vom Feisten |
 | Sat, 21 Nov 2026 | Klangkarussell pres. Bias Beach | Klangkarussell |
 | Sat, 21 Nov 2026 | Alan Fitzpatrick | Alan Fitzpatrick, NÚRIA (DE), Techmo |
 | Fri, 27 Nov 2026 | Soupherb vs psYsq | Anaïs-Lin, Ash Roy, Cosmik Konnection, Folic State, Krumelur, Surreal (DE), The Muffin Man |
@@ -23,4 +23,4 @@ Ritter Butzke is a music venue in Berlin listed on soundcheck. 23 upcoming gigs,
 
 Ritterstrasse 26; Kreuzberg; 10969 Berlin; Germany, Berlin
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ritter-butzke/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ritter-butzke/)*

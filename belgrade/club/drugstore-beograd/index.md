@@ -1,6 +1,6 @@
 # Drugstore Beograd
 
-Drugstore Beograd is a music venue in Belgrade with 9 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "MRAK with David Löhlein" on Fri, 13 Nov 2026.
+Drugstore Beograd is a music venue in Belgrade with 9 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "MRAK with David Löhlein" on Fri, 13 Nov 2026.
 
 Drugstore Beograd is a music venue in Belgrade listed on soundcheck. 9 upcoming gigs, with line-ups including .Paragon, Alarico, aleksssa and Ana Rs and 2 more. See dates, start times and who's playing. Bulevar Despota Stefana 115 - Poenkareova.
 
@@ -15,11 +15,11 @@ Drugstore Beograd is a music venue in Belgrade listed on soundcheck. 9 upcoming 
 | Wed, 2 Dec 2026 | BLACK IDOL X NIT |  |
 | Fri, 4 Dec 2026 | 10 Years of Music Reactions | Asarri, BEREZA, Brtinzz, Deeda, Edin (Oma), Essio, Kalte Liebe, Karina Oksa, Moraitov, RAR, Razzor, SRNA, Stameni, Suzana, cmic.akk, laccotti, nobena |
 | Fri, 11 Dec 2026 | MAGLA WEEKENDER · 11–13 December · Alarico, DJ Nobu, Chloe Lula, Beatrice, Ana Rs & others | .Paragon, Alarico, Ana Rs, Beatrice (DE), Chloe Lula, DJ Nobu, Essio, Filip Xavi, Impedance, Juan Evangelista, Lollipop Janosz, Luka Jukic, Lukr Range, Meelo.42, Zana, aleksssa |
-| Sat, 19 Dec 2026 | ARCTO XX | Ancient Methods, Aneri, SHXCXCHCXSH, Sariim |
+| Sat, 19 Dec 2026 | ARCTO XX w Ancient Methods, SHXCXCHCXSH, Aneri, Sariim | Ancient Methods, Aneri, SHXCXCHCXSH, Sariim |
 | Thu, 31 Dec 2026 | MRAK NYE 2027 |  |
 
 ## Address
 
 Bulevar Despota Stefana 115 - Poenkareova, Belgrade
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/drugstore-beograd/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/drugstore-beograd/)*

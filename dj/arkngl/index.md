@@ -1,6 +1,6 @@
 # ARKNGL
 
-ARKNGL is a Club and Jungle artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at M.O.T, London on Thu, 19 Nov 2026.
+ARKNGL is a Club and Jungle artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at M.O.T, London on Thu, 19 Nov 2026.
 
 ARKNGL is a club and jungle artist based in United Kingdom, with 14 gigs on soundcheck across London. Often billed alongside BBSHKALES, SALD3E and XT1ANA. Next up: M.O.T, London on Thu 19 Nov.
 
@@ -26,4 +26,4 @@ ARKNGL is a club and jungle artist based in United Kingdom, with 14 gigs on soun
 
 BBSHKALES, SALD3E, XT1ANA
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arkngl/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arkngl/)*

@@ -1,14 +1,15 @@
 # Karel
 
-Karel is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at ISOamsterdam, Amsterdam on Sat, 21 Nov 2026.
+Karel is a Reggaeton and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at ISOamsterdam, Amsterdam on Sat, 21 Nov 2026.
 
-Karel is a techno and drum & bass artist, with 11 gigs on soundcheck across Amsterdam, Ghent, Rotterdam and Vienna. Often billed alongside DIORA, DJ Europarking and Afra. Next up: ISOamsterdam, Amsterdam on Sat 21 Nov.
+Karel is a reggaeton and bass artist, with 12 gigs on soundcheck across Amsterdam, Ghent, Rotterdam and Vienna. Often billed alongside DIORA, DJ Europarking and Afra. Next up: ISOamsterdam, Amsterdam on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | ISOamsterdam | Amsterdam |
+| Sat, 12 Dec 2026 | Skatecafe | Amsterdam |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Karel is a techno and drum & bass artist, with 11 gigs on soundcheck across Amst
 
 DIORA, DJ Europarking, Afra
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karel/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karel/)*

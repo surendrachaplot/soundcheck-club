@@ -1,6 +1,6 @@
 # Avni Leka
 
-Avni Leka is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Frekuence, Tirana on Fri, 13 Nov 2026.
+Avni Leka is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Frekuence, Tirana on Fri, 13 Nov 2026.
 
 Avni Leka is a techno and house artist based in Albania, with 6 gigs on soundcheck across Istanbul, Marseille and Tirana. Often billed alongside Elyas, Freddy K and HorD. Next up: Frekuence, Tirana on Fri 13 Nov.
 
@@ -22,4 +22,4 @@ Avni Leka is a techno and house artist based in Albania, with 6 gigs on soundche
 
 Elyas, Freddy K, HorD
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avnileka/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avnileka/)*

@@ -1,6 +1,6 @@
 # Billy Daniel Bunter
 
-Billy Daniel Bunter is a Hardcore and Jungle artist with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Night Tales, London on Sat, 14 Nov 2026.
+Billy Daniel Bunter is a Hardcore and Jungle artist with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Night Tales, London on Sat, 14 Nov 2026.
 
 Billy Daniel Bunter is a hardcore and jungle artist based in United Kingdom, with 57 gigs on soundcheck across Amsterdam, Brighton, Edinburgh and Leeds and 7 more. Often billed alongside Nicky Blackmarket, Ratpack and Grooverider. Next up: Night Tales, London on Sat 14 Nov.
 
@@ -29,4 +29,4 @@ Billy Daniel Bunter is a hardcore and jungle artist based in United Kingdom, wit
 
 Nicky Blackmarket, Ratpack, Grooverider
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/billydanielbunter/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/billydanielbunter/)*

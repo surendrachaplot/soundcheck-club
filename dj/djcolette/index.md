@@ -1,14 +1,13 @@
 # DJ Colette
 
-DJ Colette is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Air Conditioned Lounge, San Diego on Thu, 12 Nov 2026.
+DJ Colette is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Air Conditioned Lounge, San Diego on Fri, 13 Nov 2026.
 
-DJ Colette is a house and deep house artist based in United States of America, with 85 gigs on soundcheck across Chicago, Dallas/Fort Worth, Detroit and Los Angeles and 13 more. Often billed alongside DJ Heather, DJ Dazy and Pete Moss. Next up: The Air Conditioned Lounge, San Diego on Thu 12 Nov.
+DJ Colette is a house and deep house artist based in United States of America, with 85 gigs on soundcheck across Chicago, Dallas/Fort Worth, Detroit and Los Angeles and 13 more. Often billed alongside DJ Heather, DJ Dazy and Pete Moss. Next up: The Air Conditioned Lounge, San Diego on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 12 Nov 2026 | The Air Conditioned Lounge | San Diego |
 | Fri, 13 Nov 2026 | The Air Conditioned Lounge | San Diego |
 | Sun, 15 Nov 2026 | Soulwerks | Los Angeles |
 | Wed, 25 Nov 2026 | Jungle Hollywood | Los Angeles |
@@ -16,6 +15,7 @@ DJ Colette is a house and deep house artist based in United States of America, w
 
 ## Recently played
 
+- The Air Conditioned Lounge, San Diego · Thu, 12 Nov 2026
 - Jungle Hollywood, Los Angeles · Sat, 24 Oct 2026
 - Wiggle Room, Toronto · Sat, 17 Oct 2026
 - Masada, Chicago · Sat, 10 Oct 2026
@@ -23,10 +23,9 @@ DJ Colette is a house and deep house artist based in United States of America, w
 - Union Park, Chicago · Fri, 4 Sept 2026
 - Phoenix Hotel, San Francisco/Oakland · Sat, 15 Aug 2026
 - Deep End Live, Los Angeles · Sat, 15 Aug 2026
-- The Catalyst, San Francisco/Oakland · Sat, 8 Aug 2026
 
 ## Shares bills with
 
 DJ Heather, DJ Dazy, Pete Moss
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djcolette/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djcolette/)*

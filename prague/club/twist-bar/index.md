@@ -1,6 +1,6 @@
 # Twist Bar
 
-Twist Bar is a music venue in Prague with 11 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "PSJ, Kosmic Skaut" on Fri, 13 Nov 2026.
+Twist Bar is a music venue in Prague with 11 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "PSJ, Kosmic Skaut" on Fri, 13 Nov 2026.
 
 Twist Bar is a music venue in Prague listed on soundcheck. 11 upcoming gigs, with line-ups including Atch22, Atoloi, Dash (CZ) and DJ Fett Burger and 2 more. See dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ Twist Bar is a music venue in Prague listed on soundcheck. 11 upcoming gigs, wit
 | Fri, 27 Nov 2026 | Spati - Philipp Otterbach (DE), Raphael Kosmos | Philipp Otterbach, Raphael Kosmos |
 | Sat, 28 Nov 2026 | Atch22, Kobayashi Maru | Atch22, Kobayashi Maru |
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/twist-bar/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/twist-bar/)*

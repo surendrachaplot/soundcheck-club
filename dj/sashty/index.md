@@ -1,6 +1,6 @@
 # SASHTY
 
-SASHTY is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Bahnwärter Thiel, Munich on Sat, 21 Nov 2026.
+SASHTY is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Bahnwärter Thiel, Munich on Sat, 21 Nov 2026.
 
 SASHTY is a techno and minimal techno artist based in Germany, with 14 gigs on soundcheck across Munich. Often billed alongside Dykstra, Marcel Dusk and Shishmish. Next up: Bahnwärter Thiel, Munich on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ SASHTY is a techno and minimal techno artist based in Germany, with 14 gigs on s
 
 Dykstra, Marcel Dusk, Shishmish
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sashty/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sashty/)*

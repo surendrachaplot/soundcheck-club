@@ -1,6 +1,6 @@
 # AWEN
 
-AWEN is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Volt Club Milano, Milan on Fri, 13 Nov 2026.
+AWEN is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Volt Club Milano, Milan on Fri, 13 Nov 2026.
 
 AWEN is an afro house and house artist based in France, with 88 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belgrade and 32 more. Often billed alongside Shimza, DJEFF and Francis Mercier. Next up: Volt Club Milano, Milan on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ AWEN is an afro house and house artist based in France, with 88 gigs on soundche
 
 Shimza, DJEFF, Francis Mercier
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/awen/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/awen/)*

@@ -1,6 +1,6 @@
 # Yüs (TN)
 
-Yüs (TN) is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Listening Room, London on Sat, 14 Nov 2026.
+Yüs (TN) is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Listening Room, London on Sat, 14 Nov 2026.
 
 Yüs (TN) is a house and progressive house artist based in Tunisia, with 7 gigs on soundcheck across London. Often billed alongside AKAY (ES), Tear of Joy and Krembo. Next up: The Listening Room, London on Sat 14 Nov.
 
@@ -23,4 +23,4 @@ Yüs (TN) is a house and progressive house artist based in Tunisia, with 7 gigs 
 
 AKAY (ES), Tear of Joy, Krembo
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yustn/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yustn/)*

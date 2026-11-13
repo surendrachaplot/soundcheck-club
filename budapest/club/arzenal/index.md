@@ -1,6 +1,6 @@
 # Arzenal
 
-Arzenal is a music venue in Budapest with 13 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Paralich ALL NIGHT LONG DEAD END FREE/INGYENES Arzenal" on Sat, 14 Nov 2026.
+Arzenal is a music venue in Budapest with 13 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Paralich ALL NIGHT LONG DEAD END FREE/INGYENES Arzenal" on Sat, 14 Nov 2026.
 
 Arzenal is a music venue in Budapest listed on soundcheck. 13 upcoming gigs, with line-ups including 1991 (UK), ädene, Afterlife and Alive and 2 more. See dates, start times and who's playing. Soroksári út 158/C Budapest, Hungary 1095.
 
@@ -23,4 +23,4 @@ Arzenal is a music venue in Budapest listed on soundcheck. 13 upcoming gigs, wit
 
 Soroksári út 158/C Budapest, Hungary 1095, Budapest
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/arzenal/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/arzenal/)*

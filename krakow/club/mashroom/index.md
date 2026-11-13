@@ -1,17 +1,18 @@
 # Mashroom
 
-Mashroom is a music venue in Krakow with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "BASE RESONACE - 003" on Sat, 28 Nov 2026.
+Mashroom is a music venue in Krakow with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "BASE RESONACE - 003" on Sat, 28 Nov 2026.
 
-Mashroom is a music venue in Krakow listed on soundcheck. 1 upcoming gig, with line-ups including notn4u, sensour and Solyr. See dates, start times and who's playing. ul. Pl. Wolnica 10 31-060 Kraków, Poland.
+Mashroom is a music venue in Krakow listed on soundcheck. 2 upcoming gigs, with line-ups including notn4u, SA:FIR, sensour and Solyr. See dates, start times and who's playing. ul. Pl. Wolnica 10 31-060 Kraków, Poland.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | BASE RESONACE - 003 | Solyr, notn4u, sensour |
+| Sat, 12 Dec 2026 | ESSENCE - 12/12/2026 - House - Melodic Techno - Techno | SA:FIR |
 
 ## Address
 
 ul. Pl. Wolnica 10 31-060 Kraków, Poland, Krakow
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/mashroom/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/mashroom/)*

@@ -1,6 +1,6 @@
 # Niamhzk
 
-Niamhzk is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA, Berlin on Sat, 28 Nov 2026.
+Niamhzk is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA, Berlin on Sat, 28 Nov 2026.
 
 Niamhzk is a techno and bass artist based in Australia, with 20 gigs on soundcheck across Berlin, Chengdu, Melbourne and Sydney. Often billed alongside au4r33y, MADAMI and Paramat. Next up: TBA, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Niamhzk is a techno and bass artist based in Australia, with 20 gigs on soundche
 
 au4r33y, MADAMI, Paramat
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/niamhzk/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/niamhzk/)*

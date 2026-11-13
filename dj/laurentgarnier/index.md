@@ -1,6 +1,6 @@
 # Laurent Garnier
 
-Laurent Garnier is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Lyon - Confluence, Lyon on Wed, 9 Dec 2026.
+Laurent Garnier is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Lyon - Confluence, Lyon on Wed, 9 Dec 2026.
 
 Laurent Garnier is a techno and house artist based in France, with 107 gigs on soundcheck across Amsterdam, Barcelona, Basel and Belgrade and 36 more. Often billed alongside Anetha, DJ Gigola and DJ Deep. Next up: TBA - Lyon - Confluence, Lyon on Wed 9 Dec.
 
@@ -26,4 +26,4 @@ Laurent Garnier is a techno and house artist based in France, with 107 gigs on s
 
 Anetha, DJ Gigola, DJ Deep
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laurentgarnier/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laurentgarnier/)*

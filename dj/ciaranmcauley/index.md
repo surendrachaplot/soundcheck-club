@@ -1,6 +1,6 @@
 # Ciaran McAuley
 
-Ciaran McAuley is a Trance and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Halcyon, San Francisco/Oakland on Sat, 16 Jan 2027.
+Ciaran McAuley is a Trance and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Halcyon, San Francisco/Oakland on Sat, 16 Jan 2027.
 
 Ciaran McAuley is a trance and progressive house artist based in Ireland, with 27 gigs on soundcheck across Bangkok, Bristol, Glasgow and Ibiza and 14 more. Often billed alongside Billy Gillies, Daxson and Paul Van Dyk. Next up: Halcyon, San Francisco/Oakland on Sat 16 Jan.
 
@@ -27,4 +27,4 @@ Ciaran McAuley is a trance and progressive house artist based in Ireland, with 2
 
 Billy Gillies, Daxson, Paul Van Dyk
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ciaranmcauley/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ciaranmcauley/)*

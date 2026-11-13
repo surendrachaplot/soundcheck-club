@@ -1,6 +1,6 @@
 # Mountain People
 
-Mountain People is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Postkantine, Basel on Sat, 19 Dec 2026.
+Mountain People is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Postkantine, Basel on Sat, 19 Dec 2026.
 
 Mountain People is a house and minimal artist based in Switzerland, with 24 gigs on soundcheck across Amsterdam, Antwerp, Basel and Berlin and 8 more. Often billed alongside Aline (CH), Aron (CH) and Konstantin. Next up: Postkantine, Basel on Sat 19 Dec.
 
@@ -26,4 +26,4 @@ Mountain People is a house and minimal artist based in Switzerland, with 24 gigs
 
 Aline (CH), Aron (CH), Konstantin
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mountainpeople/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mountainpeople/)*

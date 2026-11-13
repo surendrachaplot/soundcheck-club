@@ -1,6 +1,6 @@
 # Mankiyan
 
-Mankiyan is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TRAUM, Antwerp on Fri, 18 Dec 2026.
+Mankiyan is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TRAUM, Antwerp on Fri, 18 Dec 2026.
 
 Mankiyan is a techno and house artist based in Belgium, with 58 gigs on soundcheck across Amsterdam, Antwerp, Brussels and Ghent and 7 more. Often billed alongside AliA, Kafim and Casper. Next up: TRAUM, Antwerp on Fri 18 Dec.
 
@@ -26,4 +26,4 @@ Mankiyan is a techno and house artist based in Belgium, with 58 gigs on soundche
 
 AliA, Kafim, Casper
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mankiyan/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mankiyan/)*

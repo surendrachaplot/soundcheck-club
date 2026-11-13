@@ -1,8 +1,8 @@
 # Supernova
 
-Supernova is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at D-Edge RIO, Rio de Janeiro on Thu, 19 Nov 2026.
+Supernova is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at D-Edge RIO, Rio de Janeiro on Thu, 19 Nov 2026.
 
-Supernova is a house and tech house artist based in Italy, with 53 gigs on soundcheck across Aarhus, Amsterdam, Barcelona and Bucharest and 20 more. Often billed alongside Falcons, JOAQU.N and Massi Rocket. Next up: D-Edge RIO, Rio de Janeiro on Thu 19 Nov.
+Supernova is a house and tech house artist based in Italy, with 54 gigs on soundcheck across Aarhus, Amsterdam, Barcelona and Bucharest and 21 more. Often billed alongside Falcons, JOAQU.N and Massi Rocket. Next up: D-Edge RIO, Rio de Janeiro on Thu 19 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Supernova is a house and tech house artist based in Italy, with 53 gigs on sound
 | Fri, 20 Nov 2026 | TBA - SPACEROOM - 2 Nikoloz Baratashvili St, Tbilisi, Georgia | Tbilisi |
 | Sat, 21 Nov 2026 | Volume Village | Aarhus |
 | Sat, 21 Nov 2026 | D-EDGE | Sao Paulo |
+| Fri, 11 Dec 2026 | Night We Met | Nashville |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Supernova is a house and tech house artist based in Italy, with 53 gigs on sound
 
 Falcons, JOAQU.N, Massi Rocket
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/supernova/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/supernova/)*

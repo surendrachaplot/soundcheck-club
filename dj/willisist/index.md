@@ -1,6 +1,6 @@
 # Willisist
 
-Willisist is a Drum & Bass and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA, London on Sun, 22 Nov 2026.
+Willisist is a Drum & Bass and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA, London on Sun, 22 Nov 2026.
 
 Willisist is a drum & bass and ambient artist based in Canada, with 22 gigs on soundcheck across London and Vancouver. Often billed alongside Vasho, Atrament and Kai Bradley. Next up: TBA, London on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ Willisist is a drum & bass and ambient artist based in Canada, with 22 gigs on s
 
 Vasho, Atrament, Kai Bradley
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/willisist/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/willisist/)*

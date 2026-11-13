@@ -1,13 +1,14 @@
 # SEEPS
 
-SEEPS is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Commonality Collective, Los Angeles on Thu, 31 Dec 2026.
+SEEPS is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA, Los Angeles on Sat, 12 Dec 2026.
 
-SEEPS is a house and deep house artist based in United States of America, with 66 gigs on soundcheck across Chicago, Detroit, Los Angeles and New York City and 2 more. Often billed alongside Aaron Paar, DJ Sneak and Ian Llorens. Next up: Commonality Collective, Los Angeles on Thu 31 Dec.
+SEEPS is a house and deep house artist based in United States of America, with 67 gigs on soundcheck across Chicago, Detroit, Los Angeles and New York City and 2 more. Often billed alongside Aaron Paar, DJ Sneak and Ian Llorens. Next up: TBA, Los Angeles on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Dec 2026 | TBA | Los Angeles |
 | Thu, 31 Dec 2026 | Commonality Collective | Los Angeles |
 
 ## Recently played
@@ -25,4 +26,4 @@ SEEPS is a house and deep house artist based in United States of America, with 6
 
 Aaron Paar, DJ Sneak, Ian Llorens
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seeps/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seeps/)*

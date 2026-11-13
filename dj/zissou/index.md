@@ -1,6 +1,6 @@
 # Zissou
 
-Zissou is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Bukanyr Boat, Prague on Fri, 27 Nov 2026.
+Zissou is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Bukanyr Boat, Prague on Fri, 27 Nov 2026.
 
 Zissou is a house and techno artist based in Czech Republic, with 38 gigs on soundcheck across Lyon and Prague. Often billed alongside Biodan, Ondrej K and Identic. Next up: Bukanyr Boat, Prague on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Zissou is a house and techno artist based in Czech Republic, with 38 gigs on sou
 
 Biodan, Ondrej K, Identic
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zissou/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zissou/)*

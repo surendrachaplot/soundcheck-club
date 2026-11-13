@@ -1,6 +1,6 @@
 # Good Room
 
-Good Room is a music venue in New York City with 18 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Anastazja, Honey Bun, Royal Male, LOLO" on Fri, 13 Nov 2026.
+Good Room is a music venue in New York City with 18 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Anastazja, Honey Bun, Royal Male, LOLO" on Fri, 13 Nov 2026.
 
 Good Room is a music venue in New York City listed on soundcheck. 18 upcoming gigs, with line-ups including Alinka, Anastazja, beewack and Benny Soto and 2 more. See dates, start times and who's playing. 98 Meserole Ave, Brooklyn, NY 11222 USA.
 
@@ -23,4 +23,4 @@ Good Room is a music venue in New York City listed on soundcheck. 18 upcoming gi
 
 98 Meserole Ave, Brooklyn, NY 11222 USA, New York City
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/good-room/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/good-room/)*

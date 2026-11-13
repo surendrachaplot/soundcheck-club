@@ -1,6 +1,6 @@
 # Tommy Pickles
 
-Tommy Pickles is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Starlane Pizza Bar, London on Sat, 14 Nov 2026.
+Tommy Pickles is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Starlane Pizza Bar, London on Sat, 14 Nov 2026.
 
 Tommy Pickles is a house and techno artist based in United Kingdom, with 104 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 28 more. Often billed alongside Desyn, Tom Morgan and Alex Picone. Next up: Starlane Pizza Bar, London on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Tommy Pickles is a house and techno artist based in United Kingdom, with 104 gig
 
 Desyn, Tom Morgan, Alex Picone
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tommypickles/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tommypickles/)*

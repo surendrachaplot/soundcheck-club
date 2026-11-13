@@ -1,6 +1,6 @@
 # --- mr ---
 
---- mr --- is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Wakuwaku Panic, Tokyo on Sat, 21 Nov 2026.
+--- mr --- is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Wakuwaku Panic, Tokyo on Sat, 21 Nov 2026.
 
 --- mr --- is a techno and house artist based in Japan, with 108 gigs on soundcheck across Kyoto and Tokyo. Often billed alongside tom2, Zeqoo and TIKE. Next up: Wakuwaku Panic, Tokyo on Sat 21 Nov.
 
@@ -25,4 +25,4 @@
 
 tom2, Zeqoo, TIKE
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/---mr---/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/---mr---/)*

@@ -1,14 +1,15 @@
 # Cosmo (NY)
 
-Cosmo (NY) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Paragon, New York City on Sat, 12 Dec 2026.
+Cosmo (NY) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Paragon, New York City on Sat, 12 Dec 2026.
 
-Cosmo (NY) is a house and techno artist based in United States of America, with 145 gigs on soundcheck across Boston, Detroit, Montreal and New York City. Often billed alongside Eli Escobar, Donis and Mike Servito. Next up: Paragon, New York City on Sat 12 Dec.
+Cosmo (NY) is a house and techno artist based in United States of America, with 146 gigs on soundcheck across Boston, Detroit, Montreal and New York City. Often billed alongside Eli Escobar, Donis and Mike Servito. Next up: Paragon, New York City on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Dec 2026 | Paragon | New York City |
+| Fri, 18 Dec 2026 | Signal | New York City |
 | Thu, 31 Dec 2026 | Nowadays | New York City |
 
 ## Recently played
@@ -26,4 +27,4 @@ Cosmo (NY) is a house and techno artist based in United States of America, with 
 
 Eli Escobar, Donis, Mike Servito
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmo-ny/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmo-ny/)*

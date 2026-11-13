@@ -1,6 +1,6 @@
 # Bell Domin
 
-Bell Domin is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Greenpoint, New York City on Sat, 14 Nov 2026.
+Bell Domin is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Greenpoint, New York City on Sat, 14 Nov 2026.
 
 Bell Domin is a house and techno artist based in United States of America, with 7 gigs on soundcheck across New York City. Often billed alongside Very J, Andi and CSILLA. Next up: TBA - Greenpoint, New York City on Sat 14 Nov.
 
@@ -23,4 +23,4 @@ Bell Domin is a house and techno artist based in United States of America, with 
 
 Very J, Andi, CSILLA
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/belldomin/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/belldomin/)*

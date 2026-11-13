@@ -1,6 +1,6 @@
 # Bimol
 
-Bimol is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Video Club, Bogotá on Sat, 14 Nov 2026.
+Bimol is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Video Club, Bogotá on Sat, 14 Nov 2026.
 
 Bimol is a techno and electro artist based in Colombia, with 20 gigs on soundcheck across Amsterdam, Bogot, Bogotá and Prague and 1 more. Often billed alongside Confidential Recipe, QV and RACH. Next up: Video Club, Bogotá on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Bimol is a techno and electro artist based in Colombia, with 20 gigs on soundche
 
 Confidential Recipe, QV (1), RACH
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bimol/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bimol/)*

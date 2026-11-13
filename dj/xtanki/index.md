@@ -1,6 +1,6 @@
 # Xtanki
 
-Xtanki is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Nashaz, Brussels on Fri, 4 Dec 2026.
+Xtanki is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Nashaz, Brussels on Fri, 4 Dec 2026.
 
 Xtanki is a jungle and drum & bass artist based in Portugal, with 22 gigs on soundcheck across Brussels, Lisbon, Porto and Thessaloniki. Often billed alongside CHUBBZ, YLS and La Dame. Next up: Nashaz, Brussels on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Xtanki is a jungle and drum & bass artist based in Portugal, with 22 gigs on sou
 
 CHUBBZ, YLS, La Dame
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xtanki/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xtanki/)*

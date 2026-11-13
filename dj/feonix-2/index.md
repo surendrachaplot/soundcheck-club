@@ -1,6 +1,6 @@
 # Feonix (2)
 
-Feonix (2) is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - TWO FLOOR WAREHOUSE , New York City on Fri, 20 Nov 2026.
+Feonix (2) is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - TWO FLOOR WAREHOUSE , New York City on Fri, 20 Nov 2026.
 
 Feonix is a techno and club artist based in United States of America, with 15 gigs on soundcheck across New York City. Often billed alongside SKIN CONTACT, TYJAH and DREAMINSLOW. Next up: TBA - TWO FLOOR WAREHOUSE , New York City on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Feonix is a techno and club artist based in United States of America, with 15 gi
 
 SKIN CONTACT, TYJAH, DREAMINSLOW
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/feonix-2/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/feonix-2/)*

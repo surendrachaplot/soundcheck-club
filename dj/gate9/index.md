@@ -1,6 +1,6 @@
 # Gate 9
 
-Gate 9 is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Lille Centre, North on Sat, 21 Nov 2026.
+Gate 9 is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Lille Centre, North on Sat, 21 Nov 2026.
 
 Gate 9 is an electro and house artist based in France, with 9 gigs on soundcheck across Amsterdam, Brussels, North and Paris. Often billed alongside BENUR, Saul and DJ Rino. Next up: TBA - Lille Centre, North on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Gate 9 is an electro and house artist based in France, with 9 gigs on soundcheck
 
 BENUR, Saul (2), DJ Rino
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gate9/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gate9/)*

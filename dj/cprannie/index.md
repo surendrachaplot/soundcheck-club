@@ -1,6 +1,6 @@
 # CPR Annie
 
-CPR Annie is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Système, Montreal on Sat, 28 Nov 2026.
+CPR Annie is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Système, Montreal on Sat, 28 Nov 2026.
 
 CPR Annie is a techno and electro artist, with 33 gigs on soundcheck across Montreal and New York City. Often billed alongside Moaad BKR, Asha and Badgalquirit. Next up: Système, Montreal on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ CPR Annie is a techno and electro artist, with 33 gigs on soundcheck across Mont
 
 Moaad BKR, Asha (4), Badgalquirit
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cprannie/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cprannie/)*

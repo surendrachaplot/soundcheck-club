@@ -1,8 +1,8 @@
 # Nio-B
 
-Nio-B is a Garage and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at M.O.T, London on Fri, 27 Nov 2026.
+Nio-B is a Dubstep and Garage artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at M.O.T, London on Fri, 27 Nov 2026.
 
-Nio-B is a garage and dubstep artist based in United Kingdom, with 66 gigs on soundcheck across Bristol, Leeds, London and Manchester and 1 more. Often billed alongside MIDRIB, Freja and Marky V. Next up: M.O.T, London on Fri 27 Nov.
+Nio-B is a dubstep and garage artist based in United Kingdom, with 67 gigs on soundcheck across Bristol, Leeds, London and Manchester and 1 more. Often billed alongside MIDRIB, Freja and Marky V. Next up: M.O.T, London on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Nio-B is a garage and dubstep artist based in United Kingdom, with 66 gigs on so
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | M.O.T | London |
 | Sat, 5 Dec 2026 | Planet Wax | London |
+| Sun, 13 Dec 2026 | The Vinyl Whistle | Leeds |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Nio-B is a garage and dubstep artist based in United Kingdom, with 66 gigs on so
 
 MIDRIB, Freja, Marky V
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nio-b/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nio-b/)*

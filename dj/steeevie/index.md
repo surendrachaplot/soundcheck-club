@@ -1,6 +1,6 @@
 # Steeevie
 
-Steeevie is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Channel Zero, Ljubljana on Fri, 4 Dec 2026.
+Steeevie is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Channel Zero, Ljubljana on Fri, 4 Dec 2026.
 
 Steeevie is a house and italo disco artist based in Slovenia, with 11 gigs on soundcheck across Barcelona and Ljubljana. Often billed alongside Elovetric, DEN7EL and Kalina. Next up: Channel Zero, Ljubljana on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Steeevie is a house and italo disco artist based in Slovenia, with 11 gigs on so
 
 Elovetric, DEN7EL, Kalina
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/steeevie/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/steeevie/)*

@@ -1,6 +1,6 @@
 # Shadow Walker
 
-Shadow Walker is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Noto Philadelphia, Philadelphia on Thu, 3 Dec 2026.
+Shadow Walker is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Noto Philadelphia, Philadelphia on Thu, 3 Dec 2026.
 
 Shadow Walker is a progressive house and house artist based in United States of America, with 24 gigs on soundcheck across Philadelphia. Often billed alongside Mayank, Kobza and Miles Alexander. Next up: Noto Philadelphia, Philadelphia on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Shadow Walker is a progressive house and house artist based in United States of 
 
 Mayank, Kobza, Miles Alexander
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shadowwalker/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shadowwalker/)*

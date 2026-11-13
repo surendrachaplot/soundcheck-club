@@ -1,18 +1,18 @@
 # Refracted
 
-Refracted is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at OHM, Berlin on Thu, 12 Nov 2026.
+Refracted is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Sosa bar, North on Sat, 28 Nov 2026.
 
-Refracted is a techno and electronica artist based in Germany, with 43 gigs on soundcheck across Amsterdam, Barcelona, Berlin and London and 8 more. Often billed alongside Ario, Marco Shuttle and Laura BCR. Next up: OHM, Berlin on Thu 12 Nov.
+Refracted is a techno and electronica artist based in Germany, with 43 gigs on soundcheck across Amsterdam, Barcelona, Berlin and London and 8 more. Often billed alongside Ario, Marco Shuttle and Laura BCR. Next up: Sosa bar, North on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 12 Nov 2026 | OHM | Berlin |
 | Sat, 28 Nov 2026 | Sosa bar | North |
 
 ## Recently played
 
+- OHM, Berlin · Thu, 12 Nov 2026
 - Gare Porto, Porto · Sat, 19 Sept 2026
 - Port del Comte, Barcelona · Fri, 24 Jul 2026
 - Else, Berlin · Sat, 4 Jul 2026
@@ -20,10 +20,9 @@ Refracted is a techno and electronica artist based in Germany, with 43 gigs on s
 - TBA - LFO, Madrid · Thu, 30 Apr 2026
 - Garage Noord, Amsterdam · Sat, 11 Apr 2026
 - LAUT, Barcelona · Sat, 28 Feb 2026
-- Tresor / Globus, Berlin · Sat, 24 Jan 2026
 
 ## Shares bills with
 
 Ario, Marco Shuttle, Laura BCR
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/refracted/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/refracted/)*

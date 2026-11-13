@@ -1,6 +1,6 @@
 # block.
 
-block. is a music venue in Dublin with 14 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Block x Research x Subject: Blasha & Allatt" on Sat, 14 Nov 2026.
+block. is a music venue in Dublin with 14 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Block x Research x Subject: Blasha & Allatt" on Sat, 14 Nov 2026.
 
 block. is a music venue in Dublin listed on soundcheck. 14 upcoming gigs, with line-ups including Benji King, bernie soundmate, BIIA and Blasha & Allatt and 2 more. See dates, start times and who's playing. 13-14, Liberty Ln, Portobello.
 
@@ -23,4 +23,4 @@ block. is a music venue in Dublin listed on soundcheck. 14 upcoming gigs, with l
 
 13-14, Liberty Ln, Portobello, Dublin
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/block/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/block/)*

@@ -1,14 +1,15 @@
 # bipolar
 
-bipolar is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 14 Nov 2026.
+bipolar is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 14 Nov 2026.
 
-bipolar is a techno and trance artist based in Italy, with 22 gigs on soundcheck across Lisbon, Milan and The Hague. Often billed alongside Known Artist, Anasbri and Marco Maldarella. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Sat 14 Nov.
+bipolar is a techno and trance artist based in Italy, with 23 gigs on soundcheck across Amsterdam, Lisbon, Milan and The Hague. Often billed alongside Known Artist, Anasbri and Marco Maldarella. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | NAMA - Nuovo Anfiteatro Martesana | Milan |
+| Sat, 21 Nov 2026 | Garage Noord | Amsterdam |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ bipolar is a techno and trance artist based in Italy, with 22 gigs on soundcheck
 
 Known Artist, Anasbri, Marco Maldarella
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bipolar-de/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bipolar-de/)*

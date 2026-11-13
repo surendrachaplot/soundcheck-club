@@ -1,6 +1,6 @@
 # 50 | 50
 
-50 | 50 is a music venue in Medellin with 8 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Long Play por Sojos" on Fri, 13 Nov 2026.
+50 | 50 is a music venue in Medellin with 8 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Long Play por Sojos" on Fri, 13 Nov 2026.
 
 50 | 50 is a music venue in Medellin listed on soundcheck. 8 upcoming gigs, with line-ups including Andres Gil, Beau Didier, Ben UFO and Brenda. and 2 more. See dates, start times and who's playing. Cra. 50 #34-62 Piso 2, La Candelaria, Medellín.
 
@@ -21,4 +21,4 @@
 
 Cra. 50 #34-62 Piso 2, La Candelaria, Medellín, Medellin
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/medellin/club/50-50/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/medellin/club/50-50/)*

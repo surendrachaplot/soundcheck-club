@@ -1,6 +1,6 @@
 # Judith van Waterkant
 
-Judith van Waterkant is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Ritter Butzke, Berlin on Sat, 6 Feb 2027.
+Judith van Waterkant is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Ritter Butzke, Berlin on Sat, 6 Feb 2027.
 
 Judith van Waterkant is a house and techno artist based in Germany, with 59 gigs on soundcheck across Berlin, Cologne, Copenhagen and Frankfurt and 7 more. Often billed alongside Danilo Kupfernagel, Intaktogene and Alma Linda. Next up: Ritter Butzke, Berlin on Sat 6 Feb.
 
@@ -25,4 +25,4 @@ Judith van Waterkant is a house and techno artist based in Germany, with 59 gigs
 
 Danilo Kupfernagel, Intaktogene, Alma Linda
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/judithvanwaterkant/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/judithvanwaterkant/)*

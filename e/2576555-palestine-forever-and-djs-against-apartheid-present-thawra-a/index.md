@@ -1,6 +1,6 @@
 # Palestine Forever and DJs Against Apartheid present: Thawra ثورة at Nowadays
 
-Palestine Forever and DJs Against Apartheid present: Thawra ثورة at Nowadays on Thu 10 Dec, New York City. 6 artists: Archangel, Loris, Myyuh and Nanoos and 2 more. House and Club. See the line-up on soundcheck.
+Palestine Forever and DJs Against Apartheid present: Thawra ثورة at Nowadays on Thu 10 Dec, New York City. 6 artists: ARCHANGEL (US), Loris, Myyuh and Nanoos and 2 more. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ Palestine Forever and DJs Against Apartheid present: Thawra ثورة at Nowadays
 
 ## Line-up
 
-- Archangel
+- ARCHANGEL (US)
 - Loris
 - Myyuh
 - Nanoos

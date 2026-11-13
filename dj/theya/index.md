@@ -1,6 +1,6 @@
 # Theya
 
-Theya is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Fuchs2, Prague on Fri, 20 Nov 2026.
+Theya is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Fuchs2, Prague on Fri, 20 Nov 2026.
 
 Theya is a techno and electro artist based in Czech Republic, with 21 gigs on soundcheck across Bratislava and Prague. Often billed alongside Arnii, Kaa Glo and Martyyna. Next up: Fuchs2, Prague on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Theya is a techno and electro artist based in Czech Republic, with 21 gigs on so
 
 Arnii, Kaa Glo, Martyyna
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theya/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theya/)*

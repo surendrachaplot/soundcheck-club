@@ -1,6 +1,6 @@
 # Kian Gast
 
-Kian Gast is a Minimal Techno and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at FVTVR, Paris on Fri, 13 Nov 2026.
+Kian Gast is a Minimal Techno and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at FVTVR, Paris on Fri, 13 Nov 2026.
 
 Kian Gast is a minimal techno and techno artist based in France, with 11 gigs on soundcheck across Paris. Often billed alongside EMAN (FR), Akua and Chami. Next up: FVTVR, Paris on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Kian Gast is a minimal techno and techno artist based in France, with 11 gigs on
 
 EMAN (FR), Akua, Chami
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kiangast/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kiangast/)*

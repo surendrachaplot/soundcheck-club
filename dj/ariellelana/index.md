@@ -1,6 +1,6 @@
 # Arielle Lana
 
-Arielle Lana is a Club and Footwork artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 18 Dec 2026.
+Arielle Lana is a Club and Footwork artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 18 Dec 2026.
 
 Arielle Lana is a club and footwork artist based in United States of America, with 41 gigs on soundcheck across Los Angeles, Minneapolis/St Paul, New York City and Philadelphia and 2 more. Often billed alongside JEWELSSEA, Tromac and nextdimensional. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Arielle Lana is a club and footwork artist based in United States of America, wi
 
 JEWELSSEA, Tromac, nextdimensional
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ariellelana/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ariellelana/)*

@@ -1,6 +1,6 @@
 # claire rousay
 
-claire rousay is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Milton Court Concert Hall, London on Wed, 25 Nov 2026.
+claire rousay is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Milton Court Concert Hall, London on Wed, 25 Nov 2026.
 
 claire rousay is an experimental and ambient artist based in United States of America, with 34 gigs on soundcheck across Amsterdam, Berlin, Bristol and Brussels and 21 more. Often billed alongside Heinali, Martyna Basta and 2K88. Next up: Milton Court Concert Hall, London on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ claire rousay is an experimental and ambient artist based in United States of Am
 
 Heinali, Martyna Basta, 2K88
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clairerousay/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clairerousay/)*

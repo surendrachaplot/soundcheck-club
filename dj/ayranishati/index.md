@@ -1,6 +1,6 @@
 # Ayra Nishati
 
-Ayra Nishati is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Barraca, Valencia on Sat, 21 Nov 2026.
+Ayra Nishati is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Barraca, Valencia on Sat, 21 Nov 2026.
 
 Ayra Nishati is a techno and electro artist based in Spain, with 10 gigs on soundcheck across Berlin, Madrid and Valencia. Often billed alongside ALI3N, Ania Bruster and Barbara. Next up: Barraca, Valencia on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Ayra Nishati is a techno and electro artist based in Spain, with 10 gigs on soun
 
 ALI3N, Ania Bruster, Barbara
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ayranishati/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ayranishati/)*

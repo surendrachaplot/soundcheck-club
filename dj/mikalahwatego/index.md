@@ -1,6 +1,6 @@
 # Mikalah Watego
 
-Mikalah Watego is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
+Mikalah Watego is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
 
 Mikalah Watego is a house and techno artist based in Australia, with 44 gigs on soundcheck across Brisbane, Byron Bay, Melbourne and Sydney. Often billed alongside Moopie, DAWS and Hasvat Informant. Next up: The Wildlands, Melbourne on Fri 20 Nov.
 
@@ -32,4 +32,4 @@ Mikalah Watego is a house and techno artist based in Australia, with 44 gigs on 
 
 Moopie, DAWS, Hasvat Informant
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikalahwatego/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikalahwatego/)*

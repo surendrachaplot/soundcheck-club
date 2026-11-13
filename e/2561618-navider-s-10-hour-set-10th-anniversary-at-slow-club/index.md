@@ -1,6 +1,6 @@
-# Navider´s 10 Hour Set (10th Anniversary) at Slow Club
+# Navider's 10 Hour Set (10th Anniversary) at Slow Club
 
-Navider´s 10 Hour Set (10th Anniversary) at Slow Club on Fri 13 Nov, Barcelona. 1 artist: Navider. See the line-up on soundcheck.
+Navider's 10 Hour Set (10th Anniversary) at Slow Club on Fri 13 Nov, Barcelona. 1 artist: Navider. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

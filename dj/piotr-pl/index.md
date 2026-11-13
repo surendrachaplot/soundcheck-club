@@ -1,6 +1,6 @@
 # PIØTR
 
-PIØTR is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Mastak, Warsaw on Sun, 13 Dec 2026.
+PIØTR is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Mastak, Warsaw on Sun, 13 Dec 2026.
 
 PIØTR is a techno and house artist based in Poland, with 10 gigs on soundcheck across Warsaw. Often billed alongside TAMIRISS, BBN and BarTech. Next up: Mastak, Warsaw on Sun 13 Dec.
 
@@ -25,4 +25,4 @@ PIØTR is a techno and house artist based in Poland, with 10 gigs on soundcheck 
 
 TAMIRISS, BBN (1), BarTech
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/piotr-pl/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/piotr-pl/)*

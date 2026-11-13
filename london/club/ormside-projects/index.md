@@ -1,8 +1,8 @@
 # Ormside Projects
 
-Ormside Projects is a music venue in London with 19 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Manuka Honey Invites: Pochola / Oluwa / Kaanijo" on Fri, 13 Nov 2026.
+Ormside Projects is a music venue in London with 20 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Manuka Honey Invites: Pochola / Oluwa / Kaanijo" on Fri, 13 Nov 2026.
 
-Ormside Projects is a music venue in London listed on soundcheck. 19 upcoming gigs, with line-ups including Alex Rita, Anina, Appleblim and Baba T and 2 more. See dates, start times and who's playing. 32 Ormside St, London SE15 1TR, UK.
+Ormside Projects is a music venue in London listed on soundcheck. 20 upcoming gigs, with line-ups including Alex Rita, Anina, Appleblim and Baba T and 2 more. See dates, start times and who's playing. 32 Ormside St, London SE15 1TR, UK.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Ormside Projects is a music venue in London listed on soundcheck. 19 upcoming gi
 
 32 Ormside St, London SE15 1TR, UK, London
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/ormside-projects/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/ormside-projects/)*

@@ -1,6 +1,6 @@
 # Juste S
 
-Juste S is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Le point fort d'Aubervilliers, Paris on Sat, 14 Nov 2026.
+Juste S is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Le point fort d'Aubervilliers, Paris on Sat, 14 Nov 2026.
 
 Juste S is a techno and electro artist based in France, with 11 gigs on soundcheck across Paris and Porto. Often billed alongside Blasha & Allatt, CRYME and Christian Coiffure. Next up: Le point fort d'Aubervilliers, Paris on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Juste S is a techno and electro artist based in France, with 11 gigs on soundche
 
 Blasha & Allatt, CRYME, Christian Coiffure
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/justes/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/justes/)*

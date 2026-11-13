@@ -1,6 +1,6 @@
 # ElectroDon
 
-ElectroDon is a Electro and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Sameheads, Berlin on Fri, 13 Nov 2026.
+ElectroDon is a Electro and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Sameheads, Berlin on Fri, 13 Nov 2026.
 
 ElectroDon is an electro and acid artist, with 33 gigs on soundcheck across Athens, Berlin, Hamburg and Istanbul and 2 more. Often billed alongside Milan Hermess, Mejle and Aura Nox. Next up: Sameheads, Berlin on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ ElectroDon is an electro and acid artist, with 33 gigs on soundcheck across Athe
 
 Milan Hermess, Mejle, Aura Nox
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/electrodon/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/electrodon/)*

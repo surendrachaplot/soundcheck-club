@@ -1,6 +1,6 @@
 # JESS.mp5
 
-JESS.mp5 is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Mastak, Warsaw on Fri, 13 Nov 2026.
+JESS.mp5 is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Mastak, Warsaw on Fri, 13 Nov 2026.
 
 JESS.mp5 is a minimal and house artist based in Belarus, with 28 gigs on soundcheck across Krakow and Warsaw. Often billed alongside zeroday, Slowmode and Samogulov. Next up: Mastak, Warsaw on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ JESS.mp5 is a minimal and house artist based in Belarus, with 28 gigs on soundch
 
 zeroday, Slowmode, Samogulov
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jess.mp5/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jess.mp5/)*

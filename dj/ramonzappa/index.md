@@ -1,6 +1,6 @@
 # Ramón Zappa
 
-Ramón Zappa is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Gewölbe, Cologne on Fri, 1 Jan 2027.
+Ramón Zappa is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Gewölbe, Cologne on Fri, 1 Jan 2027.
 
 Ramón Zappa is a techno and trance artist, with 27 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Düsseldorf and 1 more. Often billed alongside Anna Konda, Ariel (DE) and Kribs. Next up: Gewölbe, Cologne on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Ramón Zappa is a techno and trance artist, with 27 gigs on soundcheck across Be
 
 Anna Konda, Ariel (DE), Kribs
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ramonzappa/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ramonzappa/)*

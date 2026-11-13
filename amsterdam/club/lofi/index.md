@@ -1,6 +1,6 @@
 # Lofi
 
-Lofi is a music venue in Amsterdam with 18 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Loco Dice [all night long]" on Fri, 13 Nov 2026.
+Lofi is a music venue in Amsterdam with 18 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Loco Dice [all night long]" on Fri, 13 Nov 2026.
 
 Lofi is a music venue in Amsterdam listed on soundcheck. 18 upcoming gigs, with line-ups including 36framez, Aaron J, AAT (NL) and Agents Of Time and 2 more. See dates, start times and who's playing. Basisweg 63, Amsterdam 1043AN, Netherlands.
 
@@ -9,7 +9,7 @@ Lofi is a music venue in Amsterdam listed on soundcheck. 18 upcoming gigs, with 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Loco Dice [all night long] | Loco Dice |
-| Sat, 14 Nov 2026 | Sala | ASEC, Bastienne, Beste Hira, Colin Benders, Len Faki, Shed, VNTM |
+| Sat, 14 Nov 2026 | Sala | ASEC, Bastienne, Beste Hira, Colin Benders, Len Faki, Shed, Siphonophora, VNTM |
 | Fri, 20 Nov 2026 | [CANCELLED] Agents Of Time - all night long | Agents Of Time |
 | Sat, 21 Nov 2026 | Ten Toes Down | Amz, Nadia Keira, Nadim, SMIB |
 | Sat, 28 Nov 2026 | DAX J [all night long] | DAX J |
@@ -23,4 +23,4 @@ Lofi is a music venue in Amsterdam listed on soundcheck. 18 upcoming gigs, with 
 
 Basisweg 63, Amsterdam 1043AN, Netherlands, Amsterdam
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/lofi/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/lofi/)*

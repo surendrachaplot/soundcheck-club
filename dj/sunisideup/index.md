@@ -1,6 +1,6 @@
 # SUNI SIDE UP
 
-SUNI SIDE UP is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Union Club, Vauxhall, London on Fri, 13 Nov 2026.
+SUNI SIDE UP is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Union Club, Vauxhall, London on Fri, 13 Nov 2026.
 
 SUNI SIDE UP is a tech house and minimal artist based in Bulgaria, with 9 gigs on soundcheck across Ibiza and London. Often billed alongside El Cassar, Inca Jones and Jo Cruz. Next up: Union Club, Vauxhall, London on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ SUNI SIDE UP is a tech house and minimal artist based in Bulgaria, with 9 gigs o
 
 El Cassar, Inca Jones, Jo Cruz
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sunisideup/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sunisideup/)*

@@ -1,8 +1,8 @@
 # DURO
 
-DURO is a music venue in Milan with 12 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "PENTIMENTO - Nicolas Lutz" on Fri, 13 Nov 2026.
+DURO is a music venue in Milan with 14 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "PENTIMENTO - Nicolas Lutz" on Fri, 13 Nov 2026.
 
-DURO is a music venue in Milan listed on soundcheck. 12 upcoming gigs, with line-ups including Biocym, Chloé, DRUMS AND CHANTS and Enrico Vivaldi and 2 more. See dates, start times and who's playing. Via Perin del Vaga, 8.
+DURO is a music venue in Milan listed on soundcheck. 14 upcoming gigs, with line-ups including Biocym, Chloé, Dan Ghenacia and DRUMS AND CHANTS and 2 more. See dates, start times and who's playing. Via Perin del Vaga, 8.
 
 ## What's on
 
@@ -23,4 +23,4 @@ DURO is a music venue in Milan listed on soundcheck. 12 upcoming gigs, with line
 
 Via Perin del Vaga, 8, Milan
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/duro/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/duro/)*

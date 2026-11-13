@@ -1,6 +1,6 @@
 # DJ BlackGold
 
-DJ BlackGold is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Ausgang Plaza, Montreal on Thu, 3 Dec 2026.
+DJ BlackGold is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Ausgang Plaza, Montreal on Thu, 3 Dec 2026.
 
 DJ BlackGold is a house and disco artist based in Canada, with 11 gigs on soundcheck across Montreal and Toronto. Often billed alongside G L O W Z I, h1bou and zi!. Next up: Ausgang Plaza, Montreal on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ DJ BlackGold is a house and disco artist based in Canada, with 11 gigs on soundc
 
 G L O W Z I, h1bou, zi!
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djblackgold/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djblackgold/)*

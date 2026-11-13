@@ -1,13 +1,14 @@
 # George Bolton
 
-George Bolton is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Circus Tokyo, Tokyo on Fri, 27 Nov 2026.
+George Bolton is a House and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Circus Tokyo, Tokyo on Sat, 21 Nov 2026.
 
-George Bolton is a house and hip-hop artist based in Japan, with 57 gigs on soundcheck across Osaka, Paris and Tokyo. Often billed alongside WASP, ecec and Shunpei (Beebar). Next up: Circus Tokyo, Tokyo on Fri 27 Nov.
+George Bolton is a house and hip-hop artist based in Japan, with 58 gigs on soundcheck across Osaka, Paris and Tokyo. Often billed alongside WASP, ecec and Shunpei (Beebar). Next up: Circus Tokyo, Tokyo on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | Circus Tokyo | Tokyo |
 | Fri, 27 Nov 2026 | Circus Tokyo | Tokyo |
 
 ## Recently played
@@ -25,4 +26,4 @@ George Bolton is a house and hip-hop artist based in Japan, with 57 gigs on soun
 
 WASP, ecec, Shunpei (Beebar)
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/georgebolton/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/georgebolton/)*

@@ -1,6 +1,6 @@
 # Ginza Records & Audio Kuramae
 
-Ginza Records & Audio Kuramae is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "蔵前黒盤選" on Sat, 21 Nov 2026.
+Ginza Records & Audio Kuramae is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "蔵前黒盤選" on Sat, 21 Nov 2026.
 
 Ginza Records & Audio Kuramae is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 〒111-0051 東京都台東区蔵前２丁目１−２３ 3F K2B.
 
@@ -15,4 +15,4 @@ Ginza Records & Audio Kuramae is a music venue in Tokyo listed on soundcheck. 2 
 
 〒111-0051 東京都台東区蔵前２丁目１−２３ 3F K2B, Tokyo
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/ginza-records-audio-kuramae/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/ginza-records-audio-kuramae/)*

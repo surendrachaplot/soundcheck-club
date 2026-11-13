@@ -1,6 +1,6 @@
 # Wolf Music
 
-Wolf Music is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at M.O.T, London on Fri, 20 Nov 2026.
+Wolf Music is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at M.O.T, London on Fri, 20 Nov 2026.
 
 Wolf Music is a house and deep house artist based in United Kingdom, with 24 gigs on soundcheck across Amsterdam, Berlin, Bristol and Hong Kong and 5 more. Often billed alongside Manuel Darquart, Frits Wentink and Retromigration. Next up: M.O.T, London on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Wolf Music is a house and deep house artist based in United Kingdom, with 24 gig
 
 Manuel Darquart, Frits Wentink, Retromigration
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wolfmusic/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wolfmusic/)*

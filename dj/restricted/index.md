@@ -1,8 +1,8 @@
 # Restricted
 
-Restricted is a Techno and Hardcore artist with 11 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Factory Town, Miami on Fri, 13 Nov 2026.
+Restricted is a Techno and Hardcore artist with 12 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Factory Town, Miami on Fri, 13 Nov 2026.
 
-Restricted is a techno and hardcore artist based in Australia, with 92 gigs on soundcheck across Amsterdam, Antwerp, Arizona and Athens and 57 more. Often billed alongside Azyr, Onlynumbers and Vieze Asbak. Next up: Factory Town, Miami on Fri 13 Nov.
+Restricted is a techno and hardcore artist based in Australia, with 93 gigs on soundcheck across Amsterdam, Antwerp, Arizona and Athens and 57 more. Often billed alongside Azyr, Nikolina and Onlynumbers. Next up: Factory Town, Miami on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -19,6 +19,7 @@ Restricted is a techno and hardcore artist based in Australia, with 92 gigs on s
 | Thu, 31 Dec 2026 | Afas Live | Amsterdam |
 | Fri, 1 Jan 2027 | La Cubierta de Leganés | Madrid |
 | Sat, 2 Jan 2027 | Pier 80 Warehouse | San Francisco/Oakland |
+| Fri, 4 Jun 2027 | TBA | Glasgow |
 
 ## Recently played
 
@@ -33,6 +34,6 @@ Restricted is a techno and hardcore artist based in Australia, with 92 gigs on s
 
 ## Shares bills with
 
-Azyr, Onlynumbers, Vieze Asbak
+Azyr, Nikolina, Onlynumbers
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/restricted/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/restricted/)*

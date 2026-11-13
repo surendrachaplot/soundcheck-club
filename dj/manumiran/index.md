@@ -1,6 +1,6 @@
 # Manu Miran
 
-Manu Miran is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at BASEMENT, New York City on Fri, 18 Dec 2026.
+Manu Miran is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at BASEMENT, New York City on Fri, 18 Dec 2026.
 
 Manu Miran is a techno and house artist based in Venezuela, with 67 gigs on soundcheck across Amsterdam, Bangkok, Boston and Chicago and 7 more. Often billed alongside Josh Steers, x3butterfly and Junior M (US). Next up: BASEMENT, New York City on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Manu Miran is a techno and house artist based in Venezuela, with 67 gigs on soun
 
 Josh Steers, x3butterfly, Junior M (US)
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manumiran/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manumiran/)*

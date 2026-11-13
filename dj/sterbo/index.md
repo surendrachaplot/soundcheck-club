@@ -1,6 +1,6 @@
 # STERBO
 
-STERBO is a Club and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - The Cobra Nashville, Tennessee on Fri, 13 Nov 2026.
+STERBO is a Club and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - The Cobra Nashville, Tennessee on Fri, 13 Nov 2026.
 
 STERBO is a club and drum & bass artist based in United States of America, with 13 gigs on soundcheck across Nashville and Tennessee. Often billed alongside Nicholas Latiff, Volast and 4niq. Next up: TBA - The Cobra Nashville, Tennessee on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ STERBO is a club and drum & bass artist based in United States of America, with 
 
 Nicholas Latiff, Volast, 4niq
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sterbo/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sterbo/)*

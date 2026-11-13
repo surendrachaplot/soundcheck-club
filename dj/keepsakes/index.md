@@ -1,6 +1,6 @@
 # Keepsakes
 
-Keepsakes is a Techno and Breakbeat artist with 6 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Eastern Bloc Records, Manchester on Fri, 13 Nov 2026.
+Keepsakes is a Techno and Breakbeat artist with 6 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Eastern Bloc Records, Manchester on Fri, 13 Nov 2026.
 
 Keepsakes is a techno and breakbeat artist based in New Zealand, with 63 gigs on soundcheck across Aberdeen, Athens, Auckland and Barcelona and 26 more. Often billed alongside The Rat, Ebb and Inverse Element. Next up: Eastern Bloc Records, Manchester on Fri 13 Nov.
 
@@ -30,4 +30,4 @@ Keepsakes is a techno and breakbeat artist based in New Zealand, with 63 gigs on
 
 The Rat, Ebb (1), Inverse Element
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/keepsakes/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/keepsakes/)*

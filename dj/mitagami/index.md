@@ -1,14 +1,15 @@
 # Mita Gami
 
-Mita Gami is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at WOMB, Tokyo on Sat, 14 Nov 2026.
+Mita Gami is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at WOMB, Tokyo on Sat, 14 Nov 2026.
 
-Mita Gami is a house and techno artist based in Israel, with 149 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 36 more. Often billed alongside Adam Ten, Damian Lazarus and Black Coffee. Next up: WOMB, Tokyo on Sat 14 Nov.
+Mita Gami is a house and techno artist based in Israel, with 150 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 36 more. Often billed alongside Adam Ten, Damian Lazarus and Black Coffee. Next up: WOMB, Tokyo on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | WOMB | Tokyo |
+| Sat, 5 Dec 2026 | TBA | Mexico City |
 | Sat, 26 Dec 2026 | TBA - Medellin Polo Club, Punta del Este | Uruguay |
 
 ## Recently played
@@ -26,4 +27,4 @@ Mita Gami is a house and techno artist based in Israel, with 149 gigs on soundch
 
 Adam Ten, Damian Lazarus, Black Coffee
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mitagami/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mitagami/)*

@@ -1,6 +1,6 @@
 # Lunchbox
 
-Lunchbox is a music venue in Atlanta with 9 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Nora En Pure at Lunchbox Atlanta" on Fri, 13 Nov 2026.
+Lunchbox is a music venue in Atlanta with 9 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Nora En Pure at Lunchbox Atlanta" on Fri, 13 Nov 2026.
 
 Lunchbox is a music venue in Atlanta listed on soundcheck. 9 upcoming gigs, with line-ups including AIRGLO, Alexion, Aries and Audio and 2 more. See dates, start times and who's playing. 50 Lower Alabama Street, Atlanta, GA 30303.
 
@@ -22,4 +22,4 @@ Lunchbox is a music venue in Atlanta listed on soundcheck. 9 upcoming gigs, with
 
 50 Lower Alabama Street, Atlanta, GA 30303, Atlanta
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/atlanta/club/lunchbox/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/atlanta/club/lunchbox/)*

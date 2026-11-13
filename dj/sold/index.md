@@ -1,6 +1,6 @@
 # sold
 
-sold is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Podlasie Club, Chicago on Sat, 12 Dec 2026.
+sold is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Podlasie Club, Chicago on Sat, 12 Dec 2026.
 
 sold is a techno and experimental artist based in United States of America, with 29 gigs on soundcheck across Chicago, Detroit, Los Angeles and Pittsburgh and 3 more. Often billed alongside Octo Octa, Eris Drew and BEIGE. Next up: Podlasie Club, Chicago on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ sold is a techno and experimental artist based in United States of America, with
 
 Octo Octa, Eris Drew, BEIGE
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sold/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sold/)*

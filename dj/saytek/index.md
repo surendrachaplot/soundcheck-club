@@ -1,8 +1,8 @@
 # Saytek
 
-Saytek is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Strange Field, Glasgow on Sat, 14 Nov 2026.
+Saytek is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Strange Field, Glasgow on Sat, 14 Nov 2026.
 
-Saytek is a techno and house artist based in United Kingdom, with 52 gigs on soundcheck across Amsterdam, Berlin, Birmingham and Brighton and 19 more. Often billed alongside Milk N Coffee, Rene Oldenburg and Somaphon. Next up: Strange Field, Glasgow on Sat 14 Nov.
+Saytek is a techno and house artist based in United Kingdom, with 53 gigs on soundcheck across Amsterdam, Berlin, Birmingham and Brighton and 19 more. Often billed alongside Milk N Coffee, Rene Oldenburg and Somaphon. Next up: Strange Field, Glasgow on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Saytek is a techno and house artist based in United Kingdom, with 52 gigs on sou
 | Fri, 4 Dec 2026 | crobar | Cleveland |
 | Sat, 5 Dec 2026 | SOS 7 Mile | Detroit |
 | Fri, 11 Dec 2026 | Strand DC | Washington DC |
+| Fri, 22 Jan 2027 | Volks | Brighton |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Saytek is a techno and house artist based in United Kingdom, with 52 gigs on sou
 
 Milk N Coffee, Rene Oldenburg, Somaphon
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saytek/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saytek/)*

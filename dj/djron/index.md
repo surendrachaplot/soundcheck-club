@@ -1,13 +1,14 @@
 # DJ Ron
 
-DJ Ron is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Social, London on Sat, 5 Dec 2026.
+DJ Ron is a Jungle and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Planet Wax, London on Thu, 26 Nov 2026.
 
-DJ Ron is a drum & bass and jungle artist based in United Kingdom, with 34 gigs on soundcheck across Cologne, Ibiza, London and Mannheim and 1 more. Often billed alongside DJ Brockie, Jumping Jack Frost and Ray Keith. Next up: The Social, London on Sat 5 Dec.
+DJ Ron is a jungle and drum & bass artist based in United Kingdom, with 35 gigs on soundcheck across Cologne, Ibiza, London and Mannheim and 1 more. Often billed alongside DJ Brockie, Jumping Jack Frost and Ray Keith. Next up: Planet Wax, London on Thu 26 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 26 Nov 2026 | Planet Wax | London |
 | Sat, 5 Dec 2026 | The Social | London |
 | Sat, 26 Dec 2026 | Ministry Of Sound | London |
 
@@ -26,4 +27,4 @@ DJ Ron is a drum & bass and jungle artist based in United Kingdom, with 34 gigs 
 
 DJ Brockie, Jumping Jack Frost, Ray Keith
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djron/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djron/)*

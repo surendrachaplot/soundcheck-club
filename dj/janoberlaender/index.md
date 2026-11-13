@@ -1,6 +1,6 @@
 # Jan Oberlaender
 
-Jan Oberlaender is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Komplex Berlin, Berlin on Sat, 14 Nov 2026.
+Jan Oberlaender is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Komplex Berlin, Berlin on Sat, 14 Nov 2026.
 
 Jan Oberlaender is a techno and tech house artist based in Germany, with 44 gigs on soundcheck across Berlin, Cologne, Dresden and Frankfurt and 8 more. Often billed alongside Maurice Mino, Prismode and Sin:port. Next up: Komplex Berlin, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Jan Oberlaender is a techno and tech house artist based in Germany, with 44 gigs
 
 Maurice Mino, Prismode, Sin:port
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janoberlaender/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janoberlaender/)*

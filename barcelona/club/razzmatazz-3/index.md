@@ -1,6 +1,6 @@
 # Razzmatazz 3
 
-Razzmatazz 3 is a music venue in Barcelona with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Con Edison Online Bill Payment: Account Login & Guest Options" on Sat, 14 Nov 2026.
+Razzmatazz 3 is a music venue in Barcelona with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Con Edison Online Bill Payment: Account Login & Guest Options" on Sat, 14 Nov 2026.
 
 Razzmatazz 3 is a music venue in Barcelona listed on soundcheck. 5 upcoming gigs, with line-ups including AnD, Cyklos, Garage and Jafunk and 2 more. See dates, start times and who's playing. Calle Pamplona 88 Barcelona.
 
@@ -18,4 +18,4 @@ Razzmatazz 3 is a music venue in Barcelona listed on soundcheck. 5 upcoming gigs
 
 Calle Pamplona 88 Barcelona, Barcelona
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz-3/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz-3/)*

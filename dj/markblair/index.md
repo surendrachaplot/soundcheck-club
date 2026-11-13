@@ -1,6 +1,6 @@
 # Mark Blair
 
-Mark Blair is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Limelight, Belfast on Fri, 20 Nov 2026.
+Mark Blair is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Limelight, Belfast on Fri, 20 Nov 2026.
 
 Mark Blair is a techno and house artist based in United Kingdom, with 66 gigs on soundcheck across Aberdeen, Auckland, Belfast and Brisbane and 19 more. Often billed alongside Yasmin Gardezi, blk. and 999999999. Next up: The Limelight, Belfast on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Mark Blair is a techno and house artist based in United Kingdom, with 66 gigs on
 
 Yasmin Gardezi, blk., 999999999
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markblair/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markblair/)*

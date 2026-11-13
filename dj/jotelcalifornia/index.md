@@ -1,6 +1,6 @@
 # Jotel California
 
-Jotel California is a Trance and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Spartacus Potsdam, Berlin on Sat, 12 Dec 2026.
+Jotel California is a Trance and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Spartacus Potsdam, Berlin on Sat, 12 Dec 2026.
 
 Jotel California is a trance and electro artist, with 16 gigs on soundcheck across Berlin, Hamburg and Munich. Often billed alongside Aber DJ, Klex and Naone. Next up: Spartacus Potsdam, Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Jotel California is a trance and electro artist, with 16 gigs on soundcheck acro
 
 Aber DJ, Klex, Naone
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jotelcalifornia/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jotelcalifornia/)*

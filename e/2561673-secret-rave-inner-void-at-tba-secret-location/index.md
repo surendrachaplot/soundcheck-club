@@ -1,6 +1,6 @@
 # Secret Rave - Inner Void at TBA - secret location
 
-Secret Rave - Inner Void at TBA - secret location on Fri 13 Nov, Barcelona. 6 artists: ALEKSANDRE, Julian Bartsch, Mëtro and Mili Priolo and 2 more. Techno. See the line-up on soundcheck.
+Secret Rave - Inner Void at TBA - secret location on Fri 13 Nov, Barcelona. 7 artists: ALEKSANDRE, ANDY SUPRE, Julian Bartsch and Mëtro and 3 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Secret Rave - Inner Void at TBA - secret location on Fri 13 Nov, Barcelona. 6 ar
 ## Line-up
 
 - ALEKSANDRE
+- ANDY SUPRE
 - Julian Bartsch
 - Mëtro
 - Mili Priolo

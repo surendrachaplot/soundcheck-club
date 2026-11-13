@@ -1,14 +1,13 @@
 # SILO
 
-SILO is a music venue in New York City with 36 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "CRUD0 presents: Sound of Bogotá - with Paula Vélez, Varju & Giovani" on Thu, 12 Nov 2026.
+SILO is a music venue in New York City with 35 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Heat House: Fahlberg" on Fri, 13 Nov 2026.
 
-SILO is a music venue in New York City listed on soundcheck. 36 upcoming gigs, with line-ups including Anthony Romano, Bag Raiders, Bella De León and Bella Hex and 2 more. See dates, start times and who's playing. 90 Scott Ave, East Williamsburg, Brooklyn.
+SILO is a music venue in New York City listed on soundcheck. 35 upcoming gigs, with line-ups including Anthony Romano, Bag Raiders, Bella De León and Bella Hex and 2 more. See dates, start times and who's playing. 90 Scott Ave, East Williamsburg, Brooklyn.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 12 Nov 2026 | CRUD0 presents: Sound of Bogotá - with Paula Vélez, Varju & Giovani |  |
 | Fri, 13 Nov 2026 | Heat House: Fahlberg | Fahlberg, WEMI |
 | Sat, 14 Nov 2026 | Eli Escobar / Bag Raiders | Bag Raiders, Bella De León, Eli Escobar |
 | Sun, 15 Nov 2026 | Karachi Community Radio presents YOUNG STUNNERS with Jokhay |  |
@@ -18,9 +17,10 @@ SILO is a music venue in New York City listed on soundcheck. 36 upcoming gigs, w
 | Fri, 20 Nov 2026 | Eptic | Eptic |
 | Sat, 21 Nov 2026 | FOVOS |  |
 | Mon, 23 Nov 2026 | Open Decks with STEEN & Village Hidden in Sound - Vinyl Exchange Night | STEEN |
+| Tue, 24 Nov 2026 | Open Decks with STEEN & 5KULLK1SS | STEEN |
 
 ## Address
 
 90 Scott Ave, East Williamsburg, Brooklyn, New York City
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silo/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silo/)*

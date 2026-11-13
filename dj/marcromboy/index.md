@@ -1,6 +1,6 @@
 # Marc Romboy
 
-Marc Romboy is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Muziekgieterij, Netherlands on Fri, 11 Dec 2026.
+Marc Romboy is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Muziekgieterij, Netherlands on Fri, 11 Dec 2026.
 
 Marc Romboy is a techno and tech house artist based in Germany, with 32 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 14 more. Often billed alongside Robert Babicz, Frank Sonic and AMSL. Next up: Muziekgieterij, Netherlands on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ Marc Romboy is a techno and tech house artist based in Germany, with 32 gigs on 
 
 Robert Babicz, Frank Sonic, AMSL
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcromboy/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcromboy/)*

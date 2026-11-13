@@ -1,14 +1,15 @@
 # NeO
 
-NeO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Airport Würzburg, Nürnberg on Sat, 19 Dec 2026.
+NeO is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Airport Würzburg, Nürnberg on Sat, 19 Dec 2026.
 
-NeO is a techno and house artist based in United Kingdom, with 23 gigs on soundcheck across Amsterdam, Beijing, Berlin and London and 8 more. Often billed alongside Cassa Cristano, Klang der Nacht and Mario Angelo. Next up: Airport Würzburg, Nürnberg on Sat 19 Dec.
+NeO is a techno and house artist based in United Kingdom, with 24 gigs on soundcheck across Amsterdam, Beijing, Berlin and London and 8 more. Often billed alongside Cassa Cristano, Mario Angelo and FAROUT. Next up: Airport Würzburg, Nürnberg on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Dec 2026 | Airport Würzburg | Nürnberg |
+| Fri, 8 Jan 2027 | Airport Würzburg | Nürnberg |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ NeO is a techno and house artist based in United Kingdom, with 23 gigs on soundc
 
 ## Shares bills with
 
-Cassa Cristano, Klang der Nacht, Mario Angelo
+Cassa Cristano, Mario Angelo, FAROUT
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neo/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neo/)*

@@ -1,6 +1,6 @@
 # NYB (1)
 
-NYB (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Tempio del Futuro Perduto, Milan on Fri, 13 Nov 2026.
+NYB (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Tempio del Futuro Perduto, Milan on Fri, 13 Nov 2026.
 
 NYB is a techno and house artist based in China, with 75 gigs on soundcheck across Bangkok, Beijing, Chengdu and Chongqing and 6 more. Often billed alongside Night Swimmer, Darcy and W.X.M. Next up: Tempio del Futuro Perduto, Milan on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ NYB is a techno and house artist based in China, with 75 gigs on soundcheck acro
 
 Night Swimmer, Darcy, W.X.M
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nyb-1/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nyb-1/)*

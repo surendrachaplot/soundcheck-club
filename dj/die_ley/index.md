@@ -1,6 +1,6 @@
 # die_ley
 
-die_ley is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Goldener Reiter, Munich on Fri, 11 Dec 2026.
+die_ley is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Goldener Reiter, Munich on Fri, 11 Dec 2026.
 
 die_ley is a bass and dubstep artist based in Germany, with 12 gigs on soundcheck across Berlin and Munich. Often billed alongside DJ Business, Wall Ra and Carl Hang. Next up: Goldener Reiter, Munich on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ die_ley is a bass and dubstep artist based in Germany, with 12 gigs on soundchec
 
 DJ Business (2), Wall Ra, Carl Hang
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/die_ley/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/die_ley/)*

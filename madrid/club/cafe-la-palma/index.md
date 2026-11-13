@@ -1,6 +1,6 @@
 # Cafe La Palma
 
-Cafe La Palma is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "INERCIA goes to Chinatown" on Fri, 13 Nov 2026.
+Cafe La Palma is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "INERCIA goes to Chinatown" on Fri, 13 Nov 2026.
 
 Cafe La Palma is a music venue in Madrid listed on soundcheck. 1 upcoming gig, with line-ups including charlie kloos, PASANGO and Paulo Chinatown. See dates, start times and who's playing. Calle de la Palma, 62; 28015 Madrid; Spain.
 
@@ -14,4 +14,4 @@ Cafe La Palma is a music venue in Madrid listed on soundcheck. 1 upcoming gig, w
 
 Calle de la Palma, 62; 28015 Madrid; Spain, Madrid
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/cafe-la-palma/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/cafe-la-palma/)*

@@ -1,6 +1,6 @@
 # Yann Eras
 
-Yann Eras is a Electro and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Switch Bar, Barcelona on Sat, 21 Nov 2026.
+Yann Eras is a Electro and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Switch Bar, Barcelona on Sat, 21 Nov 2026.
 
 Yann Eras is an electro and disco artist based in France, with 21 gigs on soundcheck across Barcelona. Often billed alongside Deckard, Zonzo and Josep Xortó. Next up: Switch Bar, Barcelona on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Yann Eras is an electro and disco artist based in France, with 21 gigs on soundc
 
 Deckard, Zonzo, Josep Xortó
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yanneras/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yanneras/)*

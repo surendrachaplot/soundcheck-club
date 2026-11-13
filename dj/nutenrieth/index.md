@@ -1,14 +1,15 @@
 # nutenrieth
 
-nutenrieth is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at glimmer, Hamburg on Fri, 13 Nov 2026.
+nutenrieth is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at glimmer, Hamburg on Fri, 13 Nov 2026.
 
-nutenrieth is a techno and electro artist based in Germany, with 8 gigs on soundcheck across Cologne and Hamburg. Often billed alongside Roses OD, Annemalie and Arman John. Next up: glimmer, Hamburg on Fri 13 Nov.
+nutenrieth is a techno and house artist based in Germany, with 9 gigs on soundcheck across Cologne and Hamburg. Often billed alongside Jerome Soir, KIMME and Roses OD. Next up: glimmer, Hamburg on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | glimmer | Hamburg |
+| Fri, 20 Nov 2026 | Barracuda Bar | Cologne |
 
 ## Recently played
 
@@ -22,6 +23,6 @@ nutenrieth is a techno and electro artist based in Germany, with 8 gigs on sound
 
 ## Shares bills with
 
-Roses OD, Annemalie, Arman John
+Jerome Soir, KIMME, Roses OD
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nutenrieth/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nutenrieth/)*

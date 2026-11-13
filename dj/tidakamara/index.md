@@ -1,6 +1,6 @@
 # Tida Kamara
 
-Tida Kamara is a Dancehall and Club artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at De Papierfabriek, Nijmegen on Fri, 27 Nov 2026.
+Tida Kamara is a Dancehall and Club artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at De Papierfabriek, Nijmegen on Fri, 27 Nov 2026.
 
 Tida Kamara is a dancehall and club artist based in Netherlands, with 61 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Birmingham and 6 more. Often billed alongside BELLA (NL), TINS and Kurashi Soundsystem. Next up: De Papierfabriek, Nijmegen on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Tida Kamara is a dancehall and club artist based in Netherlands, with 61 gigs on
 
 BELLA (NL), TINS, Kurashi Soundsystem
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tidakamara/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tidakamara/)*

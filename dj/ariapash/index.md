@@ -1,6 +1,6 @@
 # Aria Pash
 
-Aria Pash is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Green Room NYC, New York City on Sun, 22 Nov 2026.
+Aria Pash is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Green Room NYC, New York City on Sun, 22 Nov 2026.
 
 Aria Pash is a house and techno artist based in United Kingdom, with 19 gigs on soundcheck across Berlin and New York City. Often billed alongside Serrian, Dio Garcia and ALI IRL. Next up: Green Room NYC, New York City on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ Aria Pash is a house and techno artist based in United Kingdom, with 19 gigs on 
 
 Serrian, Dio Garcia, ALI IRL
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ariapash/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ariapash/)*

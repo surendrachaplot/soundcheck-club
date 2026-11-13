@@ -1,6 +1,6 @@
 # Hungu
 
-Hungu is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Epiphany Center for the Arts, Chicago on Fri, 13 Nov 2026.
+Hungu is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Epiphany Center for the Arts, Chicago on Fri, 13 Nov 2026.
 
 Hungu is a house and techno artist based in United States of America, with 19 gigs on soundcheck across Chicago and New York City. Often billed alongside DJ THADZ, Dj Daddy Wannie and Jeremiah Meece. Next up: Epiphany Center for the Arts, Chicago on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Hungu is a house and techno artist based in United States of America, with 19 gi
 
 DJ THADZ, Dj Daddy Wannie, Jeremiah Meece
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hungu/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hungu/)*

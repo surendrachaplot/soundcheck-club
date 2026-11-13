@@ -1,6 +1,6 @@
 # Donna Leake
 
-Donna Leake is a Jazz and Funk / Soul artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at SJQ, London on Sat, 14 Nov 2026.
+Donna Leake is a Jazz and Funk / Soul artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at SJQ, London on Sat, 14 Nov 2026.
 
 Donna Leake is a jazz and funk / soul artist based in United Kingdom, with 89 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 29 more. Often billed alongside Haseeb Iqbal, Konduku and Suze Ijó. Next up: SJQ, London on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Donna Leake is a jazz and funk / soul artist based in United Kingdom, with 89 gi
 
 Haseeb Iqbal, Konduku, Suze Ijó
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/donnaleake/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/donnaleake/)*

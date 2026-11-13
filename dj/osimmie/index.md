@@ -1,6 +1,6 @@
 # O'SIMMIE
 
-O'SIMMIE is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at C12, Brussels on Fri, 1 Jan 2027.
+O'SIMMIE is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at C12, Brussels on Fri, 1 Jan 2027.
 
 O'SIMMIE is a bass and club artist based in Belgium, with 20 gigs on soundcheck across Amsterdam, Antwerp, Brussels and Ghent and 1 more. Often billed alongside Erykah, Shoplifter and cyvira. Next up: C12, Brussels on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ O'SIMMIE is a bass and club artist based in Belgium, with 20 gigs on soundcheck 
 
 Erykah, Shoplifter, cyvira
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/osimmie/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/osimmie/)*

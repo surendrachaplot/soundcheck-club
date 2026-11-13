@@ -1,6 +1,6 @@
 # Maurizio Schmitz
 
-Maurizio Schmitz is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Deseo BS AS, Buenos Aires on Fri, 13 Nov 2026.
+Maurizio Schmitz is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Deseo BS AS, Buenos Aires on Fri, 13 Nov 2026.
 
 Maurizio Schmitz is a techno and house artist based in Germany, with 85 gigs on soundcheck across Amsterdam, Athens, Bali and Bangkok and 22 more. Often billed alongside Sven Vath, André Galluzzi and Tobi Neumann. Next up: Deseo BS AS, Buenos Aires on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Maurizio Schmitz is a techno and house artist based in Germany, with 85 gigs on 
 
 Sven Vath, André Galluzzi, Tobi Neumann
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maurizioschmitz/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maurizioschmitz/)*

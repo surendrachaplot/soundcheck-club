@@ -1,6 +1,6 @@
 # DJ Fang
 
-DJ Fang is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Honey's, New York City on Sat, 28 Nov 2026.
+DJ Fang is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Honey's, New York City on Sat, 28 Nov 2026.
 
 DJ Fang is a house and club artist, with 17 gigs on soundcheck across Los Angeles, New York City, Osaka and Tokyo. Often billed alongside K.mal, Quantreau and D.D. Curry. Next up: Honey's, New York City on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ DJ Fang is a house and club artist, with 17 gigs on soundcheck across Los Angele
 
 K.mal, Quantreau, D.D. Curry
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djfang/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djfang/)*

@@ -1,6 +1,6 @@
 # ABOV FLINTA* NYC at H0L0
 
-ABOV FLINTA* NYC at H0L0 on Fri 13 Nov, New York City. 4 artists: Clarisa Kimskii, Daybreak, Katalina Schwarz and Volvox. Techno. See the line-up on soundcheck.
+ABOV FLINTA* NYC at H0L0 on Fri 13 Nov, New York City. 5 artists: Clarisa Kimskii, Daybreak, Helena Ma and Katalina Schwarz and 1 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ ABOV FLINTA* NYC at H0L0 on Fri 13 Nov, New York City. 4 artists: Clarisa Kimski
 
 - Clarisa Kimskii
 - Daybreak
+- Helena Ma
 - Katalina Schwarz
 - Volvox
 

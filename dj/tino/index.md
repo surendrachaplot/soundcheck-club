@@ -1,8 +1,8 @@
 # Tino
 
-Tino is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at NUMBER 90 LONDON, London on Sat, 21 Nov 2026.
+Tino is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at NUMBER 90 LONDON, London on Sat, 21 Nov 2026.
 
-Tino is a house and techno artist based in United Kingdom, with 51 gigs on soundcheck across Berlin, Birmingham, Bristol and Cardiff and 14 more. Often billed alongside Garrett David, LILI and Malachy. Next up: NUMBER 90 LONDON, London on Sat 21 Nov.
+Tino is a house and techno artist based in United Kingdom, with 52 gigs on soundcheck across Berlin, Birmingham, Bristol and Cardiff and 14 more. Often billed alongside ADR (UK), Garrett David and LILI. Next up: NUMBER 90 LONDON, London on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Tino is a house and techno artist based in United Kingdom, with 51 gigs on sound
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | NUMBER 90 LONDON | London |
 | Fri, 4 Dec 2026 | Liquid Club | Malta |
+| Fri, 11 Dec 2026 | Joshua Brooks | Manchester |
 | Sun, 27 Dec 2026 | block. | Dublin |
 
 ## Recently played
@@ -25,6 +26,6 @@ Tino is a house and techno artist based in United Kingdom, with 51 gigs on sound
 
 ## Shares bills with
 
-Garrett David, LILI, Malachy
+ADR (UK), Garrett David, LILI
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tino/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tino/)*

@@ -1,6 +1,6 @@
 # Faïza
 
-Faïza is a Electro and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Les Relais Solidaires, Paris on Fri, 11 Dec 2026.
+Faïza is a Electro and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Les Relais Solidaires, Paris on Fri, 11 Dec 2026.
 
 Faïza is an electro and bass artist based in France, with 10 gigs on soundcheck across Brussels and Paris. Often billed alongside Fatale Furylax, A Good Year and Bitter Gold. Next up: Les Relais Solidaires, Paris on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Faïza is an electro and bass artist based in France, with 10 gigs on soundcheck
 
 Fatale Furylax, A Good Year, Bitter Gold
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/faiza/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/faiza/)*

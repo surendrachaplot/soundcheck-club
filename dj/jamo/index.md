@@ -1,6 +1,6 @@
 # JÄMO
 
-JÄMO is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Sala Cocó, Madrid on Sat, 14 Nov 2026.
+JÄMO is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Sala Cocó, Madrid on Sat, 14 Nov 2026.
 
 JÄMO is a house and techno artist based in Australia, with 38 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Berlin and 8 more. Often billed alongside Kumi, Caleb Jay and DART. Next up: Sala Cocó, Madrid on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ JÄMO is a house and techno artist based in Australia, with 38 gigs on soundchec
 
 Kumi, Caleb Jay, DART
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamo/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamo/)*

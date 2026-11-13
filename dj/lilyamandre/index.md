@@ -1,6 +1,6 @@
 # Lilya Mandre
 
-Lilya Mandre is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Parque Fundidora, Monterrey on Fri, 13 Nov 2026.
+Lilya Mandre is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Parque Fundidora, Monterrey on Fri, 13 Nov 2026.
 
 Lilya Mandre is a house and afro house artist based in Morocco, with 32 gigs on soundcheck across Amsterdam, Berlin, Düsseldorf and Ibiza and 13 more. Often billed alongside Black Coffee, Damian Lazarus and Paul Reynolds. Next up: Parque Fundidora, Monterrey on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Lilya Mandre is a house and afro house artist based in Morocco, with 32 gigs on 
 
 Black Coffee, Damian Lazarus, Paul Reynolds
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lilyamandre/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lilyamandre/)*

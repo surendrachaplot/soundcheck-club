@@ -1,6 +1,6 @@
 # BUS Hexperience
 
-BUS Hexperience is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Next Stop Afterwork" on Fri, 13 Nov 2026.
+BUS Hexperience is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Next Stop Afterwork" on Fri, 13 Nov 2026.
 
 BUS Hexperience is a music venue in Barcelona listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. C/ Port Esportiu, 14, 08930 Sant Adrià de Besòs, Barcelona.
 
@@ -15,4 +15,4 @@ BUS Hexperience is a music venue in Barcelona listed on soundcheck. 2 upcoming g
 
 C/ Port Esportiu, 14, 08930 Sant Adrià de Besòs, Barcelona, Barcelona
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bus-hexperience/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bus-hexperience/)*

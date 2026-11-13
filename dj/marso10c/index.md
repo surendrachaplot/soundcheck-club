@@ -1,13 +1,14 @@
 # Mars O10C
 
-Mars O10C is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Renate, Berlin on Sat, 5 Dec 2026.
+Mars O10C is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at La Station - Gare des Mines, Paris on Fri, 27 Nov 2026.
 
-Mars O10C is a techno and trance artist based in France, with 57 gigs on soundcheck across Berlin, Brussels, Leipzig and London and 5 more. Often billed alongside Julie Desire, Jolly (FR) and A-440. Next up: Renate, Berlin on Sat 5 Dec.
+Mars O10C is a techno and trance artist based in France, with 58 gigs on soundcheck across Berlin, Brussels, Leipzig and London and 5 more. Often billed alongside Julie Desire, A-440 and Jolly (FR). Next up: La Station - Gare des Mines, Paris on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | La Station - Gare des Mines | Paris |
 | Sat, 5 Dec 2026 | Renate | Berlin |
 
 ## Recently played
@@ -23,6 +24,6 @@ Mars O10C is a techno and trance artist based in France, with 57 gigs on soundch
 
 ## Shares bills with
 
-Julie Desire, Jolly (FR), A-440
+Julie Desire, A-440, Jolly (FR)
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marso10c/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marso10c/)*

@@ -1,6 +1,6 @@
 # Zona Interdunar
 
-Zona Interdunar is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at DNA. CLUB, Berlin on Fri, 20 Nov 2026.
+Zona Interdunar is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at DNA. CLUB, Berlin on Fri, 20 Nov 2026.
 
 Zona Interdunar is a techno artist based in Germany, with 30 gigs on soundcheck across Berlin and Prague. Often billed alongside jo:af, Qualia and MATTAM. Next up: DNA. CLUB, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Zona Interdunar is a techno artist based in Germany, with 30 gigs on soundcheck 
 
 jo:af, Qualia, MATTAM
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zonainterdunar/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zonainterdunar/)*

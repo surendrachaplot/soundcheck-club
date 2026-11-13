@@ -1,6 +1,6 @@
 # Benedict
 
-Benedict is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The System, Sheffield on Thu, 31 Dec 2026.
+Benedict is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The System, Sheffield on Thu, 31 Dec 2026.
 
 Benedict is a house and disco artist based in United Kingdom, with 42 gigs on soundcheck across Amsterdam, Berlin, Liverpool and Manchester and 1 more. Often billed alongside Sirrey, Jana Falcon and Nonna Fab. Next up: The System, Sheffield on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Benedict is a house and disco artist based in United Kingdom, with 42 gigs on so
 
 Sirrey, Jana Falcon, Nonna Fab
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benedict/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benedict/)*

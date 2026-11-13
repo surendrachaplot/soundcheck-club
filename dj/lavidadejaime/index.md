@@ -1,6 +1,6 @@
 # La Vida de Jaime
 
-La Vida de Jaime is a Hip-Hop and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Ku Barcelona, Barcelona on Fri, 13 Nov 2026.
+La Vida de Jaime is a Hip-Hop and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Ku Barcelona, Barcelona on Fri, 13 Nov 2026.
 
 La Vida de Jaime is a hip-hop and house artist based in Spain, with 12 gigs on soundcheck across Barcelona, Copenhagen, Madrid and Malaga and 1 more. Often billed alongside Maxvll, Selecta (ES) and Afem Syko. Next up: Ku Barcelona, Barcelona on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ La Vida de Jaime is a hip-hop and house artist based in Spain, with 12 gigs on s
 
 Maxvll, Selecta (ES), Afem Syko
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lavidadejaime/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lavidadejaime/)*

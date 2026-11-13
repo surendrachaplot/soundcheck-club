@@ -1,6 +1,6 @@
 # SPARKZ
 
-SPARKZ is a Club and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Patision65, Athens on Fri, 13 Nov 2026.
+SPARKZ is a Club and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Patision65, Athens on Fri, 13 Nov 2026.
 
 SPARKZ is a club and breakbeat artist based in Greece, with 3 gigs on soundcheck across Athens and Manchester. Often billed alongside Chunky, Commodo and Felixculpah. Next up: Patision65, Athens on Fri 13 Nov.
 
@@ -19,4 +19,4 @@ SPARKZ is a club and breakbeat artist based in Greece, with 3 gigs on soundcheck
 
 Chunky, Commodo, Felixculpah
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sparkz/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sparkz/)*

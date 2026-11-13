@@ -1,6 +1,6 @@
 # Pictura & SORGENTE SONORA at Studionotte
 
-Pictura & SORGENTE SONORA at Studionotte on Fri 20 Nov, Milan. 2 artists: ALDAVE and Brasi. Techno and House. See the line-up on soundcheck.
+Pictura & SORGENTE SONORA at Studionotte on Fri 20 Nov, Milan. 3 artists: ALDAVE, Brasi and Luc. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Pictura & SORGENTE SONORA at Studionotte on Fri 20 Nov, Milan. 2 artists: ALDAVE
 
 - ALDAVE
 - Brasi
+- Luc (1)
 
 *Source: [soundcheck](https://soundcheck.club/e/2582969-pictura-sorgente-sonora-at-studionotte/)*

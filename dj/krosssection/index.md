@@ -1,6 +1,6 @@
 # Kross Section
 
-Kross Section is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Bonobo, Tokyo on Sun, 22 Nov 2026.
+Kross Section is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Bonobo, Tokyo on Sun, 22 Nov 2026.
 
 Kross Section is a house and disco artist based in Japan, with 75 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside KOTSU, EUREKA and Lomax. Next up: Bonobo, Tokyo on Sun 22 Nov.
 
@@ -26,4 +26,4 @@ Kross Section is a house and disco artist based in Japan, with 75 gigs on soundc
 
 KOTSU, EUREKA, Lomax
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krosssection/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krosssection/)*

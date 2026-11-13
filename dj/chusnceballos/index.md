@@ -1,8 +1,8 @@
 # Chus & Ceballos
 
-Chus & Ceballos is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at BERHTA, Washington DC on Sat, 28 Nov 2026.
+Chus & Ceballos is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at BERHTA, Washington DC on Sat, 28 Nov 2026.
 
-Chus & Ceballos are a house and tech house duo based in Spain, with 24 gigs on soundcheck across Barcelona, Boston, Chicago and Denver and 10 more. Often billed alongside DJ Chus, Amal Nemer and Ben Arsenal. Next up: BERHTA, Washington DC on Sat 28 Nov.
+Chus & Ceballos are a house and tech house duo based in Spain, with 25 gigs on soundcheck across Barcelona, Boston, Chicago and Denver and 10 more. Often billed alongside DJ Chus, Pablo Ceballos and ANDREATENS. Next up: BERHTA, Washington DC on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Chus & Ceballos are a house and tech house duo based in Spain, with 24 gigs on s
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | BERHTA | Washington DC |
 | Sun, 29 Nov 2026 | Superior Ingredients | New York City |
+| Thu, 31 Dec 2026 | Kimpton Epic Hotel | Miami |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Chus & Ceballos are a house and tech house duo based in Spain, with 24 gigs on s
 
 ## Shares bills with
 
-DJ Chus, Amal Nemer, Ben Arsenal
+DJ Chus, Pablo Ceballos, ANDREATENS
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chusnceballos/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chusnceballos/)*

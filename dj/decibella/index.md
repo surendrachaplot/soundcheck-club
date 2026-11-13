@@ -1,6 +1,6 @@
 # Decibella
 
-Decibella is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at FOLD, London on Fri, 20 Nov 2026.
+Decibella is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at FOLD, London on Fri, 20 Nov 2026.
 
 Decibella is a jungle and drum & bass artist based in United Kingdom, with 88 gigs on soundcheck across Brighton, Bristol, Brussels and Budapest and 15 more. Often billed alongside Tim Reaper, Double O and Mantra. Next up: FOLD, London on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Decibella is a jungle and drum & bass artist based in United Kingdom, with 88 gi
 
 Tim Reaper, Double O, Mantra
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/decibella/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/decibella/)*

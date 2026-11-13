@@ -1,6 +1,6 @@
 # MR Duck
 
-MR Duck is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "Gaterio x La Cangri x MR DUCK" on Fri, 13 Nov 2026.
+MR Duck is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "Gaterio x La Cangri x MR DUCK" on Fri, 13 Nov 2026.
 
 MR Duck is a music venue in Mexico City listed on soundcheck. 1 upcoming gig, with line-ups including Cachorra and Host (CA). See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ MR Duck is a music venue in Mexico City listed on soundcheck. 1 upcoming gig, wi
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Gaterio x La Cangri x MR DUCK | Cachorra, Host (CA) |
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/mr-duck/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/mr-duck/)*

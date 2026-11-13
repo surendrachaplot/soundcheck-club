@@ -1,6 +1,6 @@
 # AZM (1)
 
-AZM (1) is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Kømplex Lisbon, Lisbon on Sat, 14 Nov 2026.
+AZM (1) is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Kømplex Lisbon, Lisbon on Sat, 14 Nov 2026.
 
 AZM is a house and deep house artist based in Saudi Arabia, with 37 gigs on soundcheck across Lisbon and Porto. Often billed alongside Kemetic, Inês Duarte and Nicolle Velcro. Next up: Kømplex Lisbon, Lisbon on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ AZM is a house and deep house artist based in Saudi Arabia, with 37 gigs on soun
 
 Kemetic, Inês Duarte, Nicolle Velcro
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/azm-1/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/azm-1/)*

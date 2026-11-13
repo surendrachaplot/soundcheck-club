@@ -1,6 +1,6 @@
 # ANDY DEDE
 
-ANDY DEDE is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at WOMB, Tokyo on Fri, 27 Nov 2026.
+ANDY DEDE is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at WOMB, Tokyo on Fri, 27 Nov 2026.
 
 ANDY DEDE is a house and tech house artist based in Japan, with 26 gigs on soundcheck across Tokyo. Often billed alongside ALEXANDER M, EIGHT and Ken Ishii. Next up: WOMB, Tokyo on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ ANDY DEDE is a house and tech house artist based in Japan, with 26 gigs on sound
 
 ALEXANDER M, EIGHT, Ken Ishii
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andydede/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andydede/)*

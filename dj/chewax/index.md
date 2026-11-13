@@ -1,6 +1,6 @@
 # CHÉ WAX
 
-CHÉ WAX is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Music Room, Belfast on Fri, 13 Nov 2026.
+CHÉ WAX is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Music Room, Belfast on Fri, 13 Nov 2026.
 
 CHÉ WAX is a house and disco artist based in United Kingdom, with 29 gigs on soundcheck across Amsterdam, Bangkok, Belfast and Liverpool and 2 more. Often billed alongside DMC., Dan Soulsmith and Greg Wilson. Next up: Music Room, Belfast on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ CHÉ WAX is a house and disco artist based in United Kingdom, with 29 gigs on so
 
 DMC., Dan Soulsmith, Greg Wilson
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chewax/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chewax/)*

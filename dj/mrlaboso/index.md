@@ -1,6 +1,6 @@
 # Mr. Laboso
 
-Mr. Laboso is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Golden Gate, Berlin on Sat, 14 Nov 2026.
+Mr. Laboso is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Golden Gate, Berlin on Sat, 14 Nov 2026.
 
 Mr. Laboso is an electronic artist based in Germany, with 14 gigs on soundcheck across Berlin, Frankfurt and Zurich. Often billed alongside Edgar Peng, Bonjour Ben and Crowdpleaser. Next up: Golden Gate, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Mr. Laboso is an electronic artist based in Germany, with 14 gigs on soundcheck 
 
 Edgar Peng, Bonjour Ben, Crowdpleaser
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mrlaboso/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mrlaboso/)*

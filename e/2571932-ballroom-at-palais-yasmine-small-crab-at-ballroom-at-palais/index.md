@@ -1,6 +1,6 @@
 # Ballroom at Palais: Yasmine & Small Crab at Ballroom at Palais
 
-Ballroom at Palais: Yasmine & Small Crab on Fri 27 Nov, London. 1 artist: Yasmine (UK). See the line-up on soundcheck.
+Ballroom at Palais: Yasmine & Small Crab on Fri 27 Nov, London. 2 artists: Small Crab and Yasmine (UK). See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Ballroom at Palais: Yasmine & Small Crab on Fri 27 Nov, London. 1 artist: Yasmin
 
 ## Line-up
 
+- Small Crab
 - Yasmine (UK)
 
 *Source: [soundcheck](https://soundcheck.club/e/2571932-ballroom-at-palais-yasmine-small-crab-at-ballroom-at-palais/)*

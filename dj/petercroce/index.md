@@ -1,6 +1,6 @@
 # Peter Croce
 
-Peter Croce is a Disco and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Cafe Bourbon Street, Ohio on Fri, 13 Nov 2026.
+Peter Croce is a Disco and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Cafe Bourbon Street, Ohio on Fri, 13 Nov 2026.
 
 Peter Croce is a disco and house artist based in United States of America, with 114 gigs on soundcheck across Chicago, Cleveland, Detroit and Madison and 7 more. Often billed alongside Eddie Logix, David A-P and LADYMONIX. Next up: Cafe Bourbon Street, Ohio on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Peter Croce is a disco and house artist based in United States of America, with 
 
 Eddie Logix, David A-P, LADYMONIX
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/petercroce/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/petercroce/)*

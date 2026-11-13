@@ -1,6 +1,6 @@
 # Chica Club
 
-Chica Club is a music venue in Barcelona with 14 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "TARDEIG ELECTRÒNIC x Chica Club presents: Classics" on Sat, 14 Nov 2026.
+Chica Club is a music venue in Barcelona with 14 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "TARDEIG ELECTRÒNIC x Chica Club presents: Classics" on Sat, 14 Nov 2026.
 
 Chica Club is a music venue in Barcelona listed on soundcheck. 14 upcoming gigs, with line-ups including Dr. Ginn, Elliot (UK), INOFF and Ivan G and 1 more. See dates, start times and who's playing. Rosellón 217.
 
@@ -23,4 +23,4 @@ Chica Club is a music venue in Barcelona listed on soundcheck. 14 upcoming gigs,
 
 Rosellón 217, Barcelona
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/chica-club/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/chica-club/)*

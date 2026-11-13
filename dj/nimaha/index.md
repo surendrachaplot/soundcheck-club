@@ -1,6 +1,6 @@
 # NIMAHA
 
-NIMAHA is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - VANCOUVER, Vancouver on Sat, 21 Nov 2026.
+NIMAHA is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - VANCOUVER, Vancouver on Sat, 21 Nov 2026.
 
 NIMAHA is a techno and hardcore artist based in Iran, with 26 gigs on soundcheck across Vancouver. Often billed alongside The Nu Po, Behrad Tehrani and Marist. Next up: TBA - VANCOUVER, Vancouver on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ NIMAHA is a techno and hardcore artist based in Iran, with 26 gigs on soundcheck
 
 The Nu Po, Behrad Tehrani, Marist
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nimaha/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nimaha/)*

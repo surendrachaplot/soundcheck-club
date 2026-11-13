@@ -1,14 +1,13 @@
 # Eiger Studios
 
-Eiger Studios is a music venue in Leeds with 12 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Limousine Dream: Secrets Launch Party [Gene On Earth + Wallace]" on Thu, 12 Nov 2026.
+Eiger Studios is a music venue in Leeds with 11 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "keep going presents: švedka w / mentz krueger, shizIa + durgy" on Fri, 13 Nov 2026.
 
-Eiger Studios is a music venue in Leeds listed on soundcheck. 12 upcoming gigs, with line-ups including basic chanel, Benny Bysouth, Bobby. and BUTCHABOI and 2 more. See dates, start times and who's playing. Unit 1, Fairfield House, New Craven Gate Industrial Estate, Leeds, LS11 5NF.
+Eiger Studios is a music venue in Leeds listed on soundcheck. 11 upcoming gigs, with line-ups including basic chanel, Benny Bysouth, Bobby. and BUTCHABOI and 2 more. See dates, start times and who's playing. Unit 1, Fairfield House, New Craven Gate Industrial Estate, Leeds, LS11 5NF.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 12 Nov 2026 | Limousine Dream: Secrets Launch Party [Gene On Earth + Wallace] | Gene On Earth, Wallace |
 | Fri, 13 Nov 2026 | keep going presents: švedka w / mentz krueger, shizIa + durgy | Shizla, švedka |
 | Sat, 14 Nov 2026 | Granville Collective - Leeds w/ Bobby | Bobby., LEN. |
 | Fri, 20 Nov 2026 | Big Boys presents Opening Night with Cottam | Cottam (2), Joe Ross, Kid Charlemagne |
@@ -18,9 +17,10 @@ Eiger Studios is a music venue in Leeds listed on soundcheck. 12 upcoming gigs, 
 | Fri, 4 Dec 2026 | Biodiversity 004 - basic chanel b2b Dj wiggles | Dj wiggles, Joe FM, Joe Shaw, basic chanel |
 | Sat, 5 Dec 2026 | Club Eiger x MUSAR: DMX Krew (live), Dweedo, Oscar (Mitha) & Ruby Ruby | DMX Krew, Dweedo, Oscar (MITHA), Ruby Ruby |
 | Sat, 12 Dec 2026 | ozone | Jake Rollinson, Livvy Loo, ORI (ozone) |
+| Sun, 13 Dec 2026 | Slug Sunday with Elliot Holt & Phil Warner | Elliot Holt, Keone (2), Phil Warner |
 
 ## Address
 
 Unit 1, Fairfield House, New Craven Gate Industrial Estate, Leeds, LS11 5NF, Leeds
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/eiger-studios/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/eiger-studios/)*

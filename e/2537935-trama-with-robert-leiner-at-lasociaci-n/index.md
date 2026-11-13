@@ -1,6 +1,6 @@
 # TRAMA with Robert Leiner at Lasociaciøn
 
-TRAMA with Robert Leiner at Lasociaciøn on Sat 21 Nov, Madrid. 6 artists: Babu, Betamax_, Mou and Pablo Ruizgalan and 2 more. Club and Electronica. See the line-up on soundcheck.
+TRAMA with Robert Leiner at Lasociaciøn on Sat 21 Nov, Madrid. 7 artists: Babu, Betamax_, FERRI and Mou and 3 more. Club and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ TRAMA with Robert Leiner at Lasociaciøn on Sat 21 Nov, Madrid. 6 artists: Babu,
 
 - Babu
 - Betamax_
+- FERRI
 - Mou
 - Pablo Ruizgalan
 - Robert Leiner

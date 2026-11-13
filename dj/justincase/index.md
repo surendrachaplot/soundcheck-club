@@ -1,6 +1,6 @@
 # justin case
 
-justin case is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Garage Noord, Amsterdam on Sun, 13 Dec 2026.
+justin case is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Garage Noord, Amsterdam on Sun, 13 Dec 2026.
 
 justin case is a techno and ambient artist based in Greece, with 34 gigs on soundcheck across Amsterdam, Hamburg, Lisbon and Rotterdam and 2 more. Often billed alongside Lola Edo, Slimfit and baby ganoush. Next up: Garage Noord, Amsterdam on Sun 13 Dec.
 
@@ -25,4 +25,4 @@ justin case is a techno and ambient artist based in Greece, with 34 gigs on soun
 
 Lola Edo, Slimfit, baby ganoush
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/justincase/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/justincase/)*

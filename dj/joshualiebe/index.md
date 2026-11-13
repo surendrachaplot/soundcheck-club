@@ -1,6 +1,6 @@
 # Joshua Liebe
 
-Joshua Liebe is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Jonny Knüppel, Berlin on Sat, 21 Nov 2026.
+Joshua Liebe is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Jonny Knüppel, Berlin on Sat, 21 Nov 2026.
 
 Joshua Liebe is a techno and house artist based in Germany, with 27 gigs on soundcheck across Berlin. Often billed alongside LANA:YEN, Fast (DE) and Leon Licht. Next up: Jonny Knüppel, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Joshua Liebe is a techno and house artist based in Germany, with 27 gigs on soun
 
 LANA:YEN, Fast (DE), Leon Licht
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshualiebe/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshualiebe/)*

@@ -1,6 +1,6 @@
 # TYP4
 
-TYP4 is a Drum & Bass and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA, Detroit on Sat, 28 Nov 2026.
+TYP4 is a Drum & Bass and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA, Detroit on Sat, 28 Nov 2026.
 
 TYP4 is a drum & bass and house artist based in United States of America, with 10 gigs on soundcheck across Detroit. Often billed alongside Seanni B, Kuuma and Obi-Wan Shinobi. Next up: TBA, Detroit on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ TYP4 is a drum & bass and house artist based in United States of America, with 1
 
 Seanni B, Kuuma, Obi-Wan Shinobi
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/typ4/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/typ4/)*

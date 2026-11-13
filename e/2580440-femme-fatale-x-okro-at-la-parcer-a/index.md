@@ -1,6 +1,6 @@
 # FEMME FATALE X OKRO at La Parcería
 
-FEMME FATALE X OKRO at La Parcería on Sun 29 Nov, Madrid. 2 artists: BLCKWA and KLAU. House and Electronica. See the line-up on soundcheck.
+FEMME FATALE X OKRO at La Parcería on Sun 29 Nov, Madrid. 2 artists: BLCKWA and KLAU. House and Afrobeat. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

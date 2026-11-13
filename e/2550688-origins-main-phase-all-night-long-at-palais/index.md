@@ -1,6 +1,6 @@
 # Origins: Main Phase (All Night Long) at Palais
 
-Origins: Main Phase (All Night Long) at Palais on Fri 27 Nov, London. 2 artists: Main Phase and Yasmine (UK). House. See the line-up on soundcheck.
+Origins: Main Phase (All Night Long) at Palais on Fri 27 Nov, London. 3 artists: Main Phase, Small Crab and Yasmine (UK). House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Origins: Main Phase (All Night Long) at Palais on Fri 27 Nov, London. 2 artists:
 ## Line-up
 
 - Main Phase
+- Small Crab
 - Yasmine (UK)
 
 *Source: [soundcheck](https://soundcheck.club/e/2550688-origins-main-phase-all-night-long-at-palais/)*

@@ -1,6 +1,6 @@
 # Palazzo Permanens
 
-Palazzo Permanens is a music venue in Budapest with 8 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "RUMBLE XXL" on Fri, 13 Nov 2026.
+Palazzo Permanens is a music venue in Budapest with 8 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "RUMBLE XXL" on Fri, 13 Nov 2026.
 
 Palazzo Permanens is a music venue in Budapest listed on soundcheck. 8 upcoming gigs, with line-ups including 96zen, Afriqua, An Chen and Arash Ete and 2 more. See dates, start times and who's playing. Budapest, Kertész u. 36, 1072.
 
@@ -21,4 +21,4 @@ Palazzo Permanens is a music venue in Budapest listed on soundcheck. 8 upcoming 
 
 Budapest, Kertész u. 36, 1072, Budapest
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/palazzo-permanens/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/palazzo-permanens/)*

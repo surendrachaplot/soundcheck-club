@@ -1,6 +1,6 @@
 # Newinfluenzer
 
-Newinfluenzer is a Techno and Electro artist with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Goldener Salon, Hamburg on Fri, 13 Nov 2026.
+Newinfluenzer is a Techno and Electro artist with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Goldener Salon, Hamburg on Fri, 13 Nov 2026.
 
 Newinfluenzer is a techno and electro artist based in Germany, with 102 gigs on soundcheck across Berlin, Dortmund / Essen, Frankfurt and Hamburg and 6 more. Often billed alongside DJ MELL G, yamyam and DJ SOURCE. Next up: Goldener Salon, Hamburg on Fri 13 Nov.
 
@@ -29,4 +29,4 @@ Newinfluenzer is a techno and electro artist based in Germany, with 102 gigs on 
 
 DJ MELL G, yamyam, DJ SOURCE
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/newinfluenzer/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/newinfluenzer/)*

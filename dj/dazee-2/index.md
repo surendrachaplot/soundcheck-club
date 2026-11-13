@@ -1,6 +1,6 @@
 # Dazee (2)
 
-Dazee (2) is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Prospect Building, Bristol on Fri, 4 Dec 2026.
+Dazee (2) is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Prospect Building, Bristol on Fri, 4 Dec 2026.
 
 Dazee is a drum & bass and jungle artist based in United Kingdom, with 8 gigs on soundcheck across Bristol and London. Often billed alongside Carasel, Krust and A For Alpha. Next up: The Prospect Building, Bristol on Fri 4 Dec.
 
@@ -24,4 +24,4 @@ Dazee is a drum & bass and jungle artist based in United Kingdom, with 8 gigs on
 
 Carasel, Krust, A For Alpha
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dazee-2/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dazee-2/)*

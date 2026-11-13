@@ -1,6 +1,6 @@
 # Malkata Tekila
 
-Malkata Tekila is a music venue in Sofia with 6 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Roots Rocket // Congo Natty Sofia" on Sat, 14 Nov 2026.
+Malkata Tekila is a music venue in Sofia with 6 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Roots Rocket // Congo Natty Sofia" on Sat, 14 Nov 2026.
 
 Malkata Tekila is a music venue in Sofia listed on soundcheck. 6 upcoming gigs, with line-ups including Congo Natty, Janeret, kamoxkami and Laura De Greef and 2 more. See dates, start times and who's playing. 1 Angel Kanchev str., Sofia, BG.
 
@@ -19,4 +19,4 @@ Malkata Tekila is a music venue in Sofia listed on soundcheck. 6 upcoming gigs, 
 
 1 Angel Kanchev str., Sofia, BG, Sofia
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/sofia/club/malkata-tekila/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/sofia/club/malkata-tekila/)*

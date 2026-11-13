@@ -1,6 +1,6 @@
 # KILIMANJARO
 
-KILIMANJARO is a House and Afro House artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at La Boule Noire, Paris on Fri, 13 Nov 2026.
+KILIMANJARO is a House and Afro House artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at La Boule Noire, Paris on Fri, 13 Nov 2026.
 
 KILIMANJARO is a house and afro house artist based in United Kingdom, with 146 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 42 more. Often billed alongside Eliza Rose, TSHA and AMÉMÉ. Next up: La Boule Noire, Paris on Fri 13 Nov.
 
@@ -28,4 +28,4 @@ KILIMANJARO is a house and afro house artist based in United Kingdom, with 146 g
 
 Eliza Rose, TSHA, AMÉMÉ
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kilimanjaro/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kilimanjaro/)*

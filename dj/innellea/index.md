@@ -1,6 +1,6 @@
 # Innellea
 
-Innellea is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Hangar 33, Montevideo on Fri, 13 Nov 2026.
+Innellea is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Hangar 33, Montevideo on Fri, 13 Nov 2026.
 
 Innellea is a techno and house artist based in Germany, with 160 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 56 more. Often billed alongside Colyn, Mind Against and Adriatique. Next up: TBA - Hangar 33, Montevideo on Fri 13 Nov.
 
@@ -29,4 +29,4 @@ Innellea is a techno and house artist based in Germany, with 160 gigs on soundch
 
 Colyn, Mind Against, Adriatique
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/innellea/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/innellea/)*

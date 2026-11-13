@@ -1,13 +1,14 @@
 # Valeriana
 
-Valeriana is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Great Fulford, West-wales on Thu, 22 Jul 2027.
+Valeriana is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Fünk, Mexico City on Sat, 5 Dec 2026.
 
-Valeriana is a house and deep house artist based in Mexico, with 165 gigs on soundcheck across Barcelona, Berlin, Bogotá and Buenos Aires and 10 more. Often billed alongside Julia Toporek, Rafatel and Remille. Next up: Great Fulford, West Wales on Thu 22 Jul.
+Valeriana is a house and deep house artist based in Mexico, with 166 gigs on soundcheck across Barcelona, Berlin, Bogotá and Buenos Aires and 10 more. Often billed alongside Julia Toporek, Rafatel and Remille. Next up: Fünk, Mexico City on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Dec 2026 | Fünk | Mexico City |
 | Thu, 22 Jul 2027 | Great Fulford | West-wales |
 
 ## Recently played
@@ -25,4 +26,4 @@ Valeriana is a house and deep house artist based in Mexico, with 165 gigs on sou
 
 Julia Toporek, Rafatel, Remille
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/valeriana/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/valeriana/)*

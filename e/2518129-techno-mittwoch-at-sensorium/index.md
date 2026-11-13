@@ -1,6 +1,6 @@
 # TECHNO MITTWOCH at Sensorium
 
-TECHNO MITTWOCH at Sensorium on Wed 18 Nov, Berlin. 3 artists: nixmoon, PETDuo and Viktor Kampf. Techno and Tech House. See the line-up on soundcheck.
+TECHNO MITTWOCH at Sensorium on Wed 18 Nov, Berlin. 7 artists: André Skuda, Molis, nixmoon and PETDuo and 3 more. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,12 @@ TECHNO MITTWOCH at Sensorium on Wed 18 Nov, Berlin. 3 artists: nixmoon, PETDuo a
 
 ## Line-up
 
+- André Skuda
+- Molis
 - nixmoon
 - PETDuo
+- Vanity
 - Viktor Kampf
+- Wes (NL)
 
 *Source: [soundcheck](https://soundcheck.club/e/2518129-techno-mittwoch-at-sensorium/)*

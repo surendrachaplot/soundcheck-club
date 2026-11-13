@@ -1,6 +1,6 @@
 # Lenny (UK)
 
-Lenny (UK) is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Chiave, London on Thu, 3 Dec 2026.
+Lenny (UK) is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Chiave, London on Thu, 3 Dec 2026.
 
 Lenny (UK) is a deep house and house artist based in United Kingdom, with 21 gigs on soundcheck across London and Münster. Often billed alongside Dominic (UK), Profundo Rise and Danny Bodega. Next up: Chiave, London on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Lenny (UK) is a deep house and house artist based in United Kingdom, with 21 gig
 
 Dominic (UK), Profundo Rise, Danny Bodega
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lennyuk/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lennyuk/)*

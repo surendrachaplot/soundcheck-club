@@ -1,6 +1,6 @@
 # MiNNA
 
-MiNNA is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Chinese Laundry, Sydney on Fri, 13 Nov 2026.
+MiNNA is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Chinese Laundry, Sydney on Fri, 13 Nov 2026.
 
 MiNNA is a house and disco artist based in United Kingdom, with 161 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Beijing and 31 more. Often billed alongside Kirollus, Dan Shake and Horse Meat Disco. Next up: Chinese Laundry, Sydney on Fri 13 Nov.
 
@@ -28,4 +28,4 @@ MiNNA is a house and disco artist based in United Kingdom, with 161 gigs on soun
 
 Kirollus, Dan Shake, Horse Meat Disco
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/minna-2/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/minna-2/)*

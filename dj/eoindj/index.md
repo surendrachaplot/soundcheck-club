@@ -1,8 +1,8 @@
 # Eoin DJ
 
-Eoin DJ is a Trance and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Miscellania, Melbourne on Sun, 29 Nov 2026.
+Eoin DJ is a House and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Miscellania, Melbourne on Sun, 29 Nov 2026.
 
-Eoin DJ is a trance and house artist based in Ireland, with 100 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Beijing and 28 more. Often billed alongside Angel D'lite, Byron Yeates and Night Swimmer. Next up: Miscellania, Melbourne on Sun 29 Nov.
+Eoin DJ is a house and trance artist based in Ireland, with 101 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Beijing and 28 more. Often billed alongside Angel D'lite, Byron Yeates and Carly Zeng. Next up: Miscellania, Melbourne on Sun 29 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Eoin DJ is a trance and house artist based in Ireland, with 100 gigs on soundche
 | Sun, 29 Nov 2026 | Miscellania | Melbourne |
 | Sat, 5 Dec 2026 | Lot 2, 71–73 Brisbane Street | Hobart |
 | Sat, 19 Dec 2026 | RSO.BERLIN | Berlin |
+| Fri, 1 Jan 2027 | KREUZWERK | Berlin |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ Eoin DJ is a trance and house artist based in Ireland, with 100 gigs on soundche
 
 ## Shares bills with
 
-Angel D'lite, Byron Yeates, Night Swimmer
+Angel D'lite, Byron Yeates, Carly Zeng
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eoindj/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eoindj/)*

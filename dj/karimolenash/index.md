@@ -1,6 +1,6 @@
 # Karim Olen Ash
 
-Karim Olen Ash is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at BASEMENT, New York City on Sat, 19 Dec 2026.
+Karim Olen Ash is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at BASEMENT, New York City on Sat, 19 Dec 2026.
 
 Karim Olen Ash is a techno and house artist based in Canada, with 70 gigs on soundcheck across Leipzig, London, Mexico City and Miami and 3 more. Often billed alongside Chippy Nonstop, Phillippe and REDLINERS. Next up: BASEMENT, New York City on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Karim Olen Ash is a techno and house artist based in Canada, with 70 gigs on sou
 
 Chippy Nonstop, Phillippe, REDLINERS
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karimolenash/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karimolenash/)*

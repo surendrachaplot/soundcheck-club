@@ -1,6 +1,6 @@
 # TSHA JAPAN TOUR TOKYO at Circus Tokyo
 
-TSHA JAPAN TOUR TOKYO at Circus Tokyo on Sat 21 Nov, Tokyo. 1 artist: TSHA. House and Bass. See the line-up on soundcheck.
+TSHA JAPAN TOUR TOKYO at Circus Tokyo on Sat 21 Nov, Tokyo. 2 artists: George Bolton and TSHA. House and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ TSHA JAPAN TOUR TOKYO at Circus Tokyo on Sat 21 Nov, Tokyo. 1 artist: TSHA. Hous
 
 ## Line-up
 
+- George Bolton
 - TSHA
 
 *Source: [soundcheck](https://soundcheck.club/e/2547303-tsha-japan-tour-tokyo-at-circus-tokyo/)*

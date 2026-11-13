@@ -1,6 +1,6 @@
 # Cesar
 
-Cesar is a Breakbeat and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at 303 Audiophile Bar, Barcelona on Fri, 20 Nov 2026.
+Cesar is a Breakbeat and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at 303 Audiophile Bar, Barcelona on Fri, 20 Nov 2026.
 
 Cesar is a breakbeat and hip-hop artist based in France, with 10 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Frankfurt and 4 more. Often billed alongside Lumbago, 7ieben.Leben and Admo. Next up: 303 Audiophile Bar, Barcelona on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Cesar is a breakbeat and hip-hop artist based in France, with 10 gigs on soundch
 
 Lumbago, 7ieben.Leben, Admo
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cesar/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cesar/)*

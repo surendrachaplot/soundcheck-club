@@ -1,6 +1,6 @@
 # The Liquid Room
 
-The Liquid Room is a music venue in Edinburgh with 7 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "FLY x Night Tube - Bellaire" on Fri, 13 Nov 2026.
+The Liquid Room is a music venue in Edinburgh with 7 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "FLY x Night Tube - Bellaire" on Fri, 13 Nov 2026.
 
 The Liquid Room is a music venue in Edinburgh listed on soundcheck. 7 upcoming gigs, with line-ups including Bellaire, Ben Kok, Bushbaby and Casi (UK) and 2 more. See dates, start times and who's playing. 9c Victoria Street; Edinburgh, EH1 2HE; Scotland; United Kingdom.
 
@@ -20,4 +20,4 @@ The Liquid Room is a music venue in Edinburgh listed on soundcheck. 7 upcoming g
 
 9c Victoria Street; Edinburgh, EH1 2HE; Scotland; United Kingdom, Edinburgh
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-liquid-room/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-liquid-room/)*

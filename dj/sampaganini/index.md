@@ -1,8 +1,8 @@
 # Sam Paganini
 
-Sam Paganini is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
+Sam Paganini is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
 
-Sam Paganini is a techno and house artist based in Italy, with 129 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 54 more. Often billed alongside Len Faki, Adiel and Indira Paganotto. Next up: Hungexpo Budapest, Budapest on Fri 13 Nov.
+Sam Paganini is a techno and house artist based in Italy, with 130 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 55 more. Often billed alongside Len Faki, Adiel and Indira Paganotto. Next up: Hungexpo Budapest, Budapest on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Sam Paganini is a techno and house artist based in Italy, with 129 gigs on sound
 | Fri, 13 Nov 2026 | Hungexpo Budapest | Budapest |
 | Fri, 11 Dec 2026 | LA Frecuencia Violeta | Cali |
 | Sat, 12 Dec 2026 | Parque Norte | Medellin |
+| Sat, 2 Jan 2027 | TRAUM | Antwerp |
 | Sat, 16 Jan 2027 | Phonox | London |
 | Sat, 30 Jan 2027 | TBA - Genting, Malaysia | Kuala Lumpur |
 
@@ -29,4 +30,4 @@ Sam Paganini is a techno and house artist based in Italy, with 129 gigs on sound
 
 Len Faki, Adiel, Indira Paganotto
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sampaganini/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sampaganini/)*

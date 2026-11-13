@@ -1,6 +1,6 @@
 # AUTUMN LIGHTS FESTIVAL at Melrose Ballroom
 
-AUTUMN LIGHTS FESTIVAL at Melrose Ballroom on Fri 20 Nov, New York City. 5 artists: Blasterjaxx, Gammer, LNY TNZ and Lush Tempora and 1 more. Techno and Industrial. See the line-up on soundcheck.
+AUTUMN LIGHTS FESTIVAL at Melrose Ballroom on Fri 20 Nov, New York City. 6 artists: Blasterjaxx, Gammer, LNY TNZ and Lush Tempora and 2 more. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ AUTUMN LIGHTS FESTIVAL at Melrose Ballroom on Fri 20 Nov, New York City. 5 artis
 - Gammer
 - LNY TNZ
 - Lush Tempora
+- Matty Ralph
 - Roksana
 
 *Source: [soundcheck](https://soundcheck.club/e/2554506-autumn-lights-festival-at-melrose-ballroom/)*

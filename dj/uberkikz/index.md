@@ -1,6 +1,6 @@
 # ÜBERKIKZ
 
-ÜBERKIKZ is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Lx Factory, Lisbon on Fri, 13 Nov 2026.
+ÜBERKIKZ is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Lx Factory, Lisbon on Fri, 13 Nov 2026.
 
 ÜBERKIKZ is a techno and house artist based in Russia, with 230 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 58 more. Often billed alongside future.666, DJ Hyperdrive and Cloudy. Next up: Lx Factory, Lisbon on Fri 13 Nov.
 
@@ -36,4 +36,4 @@
 
 future.666, DJ Hyperdrive, Cloudy
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/uberkikz/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/uberkikz/)*

@@ -1,6 +1,6 @@
 # Adam Collins
 
-Adam Collins is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Lion's Den, Miami on Thu, 3 Dec 2026.
+Adam Collins is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Lion's Den, Miami on Thu, 3 Dec 2026.
 
 Adam Collins is a house and techno artist based in United States of America, with 47 gigs on soundcheck across Amsterdam, Beijing, Berlin and Ibiza and 15 more. Often billed alongside AMO, Corrina and Grant Dell. Next up: Lion's Den, Miami on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Adam Collins is a house and techno artist based in United States of America, wit
 
 AMO, Corrina, Grant Dell
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adamcollins/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adamcollins/)*

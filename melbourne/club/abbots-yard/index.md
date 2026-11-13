@@ -1,6 +1,6 @@
 # Abbots Yard
 
-Abbots Yard is a music venue in Melbourne with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Hidden Sequence - 8 Live Electronic Hardware Acts" on Sat, 21 Nov 2026.
+Abbots Yard is a music venue in Melbourne with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Hidden Sequence - 8 Live Electronic Hardware Acts" on Sat, 21 Nov 2026.
 
 Abbots Yard is a music venue in Melbourne listed on soundcheck. 3 upcoming gigs, with line-ups including C100, CAITY WATSON, Caleb Jay and Cell and 2 more. See dates, start times and who's playing. 329 Victoria St, Abbotsford VIC 3067, Australia.
 
@@ -16,4 +16,4 @@ Abbots Yard is a music venue in Melbourne listed on soundcheck. 3 upcoming gigs,
 
 329 Victoria St, Abbotsford VIC 3067, Australia, Melbourne
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/abbots-yard/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/abbots-yard/)*

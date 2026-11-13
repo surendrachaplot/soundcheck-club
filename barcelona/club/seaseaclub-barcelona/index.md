@@ -1,14 +1,14 @@
 # Seaseaclub Barcelona
 
-Seaseaclub Barcelona is a music venue in Barcelona with 8 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "LOST x REECORDS" on Sat, 14 Nov 2026.
+Seaseaclub Barcelona is a music venue in Barcelona with 8 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "LOST x REECORDS" on Sat, 14 Nov 2026.
 
-Seaseaclub Barcelona is a music venue in Barcelona listed on soundcheck. 8 upcoming gigs, with line-ups including Alec Falconer, ATMEN, Binh and DJ Service and 2 more. See dates, start times and who's playing. Carrer Port Esportiu, 14P, 08930 Barcelona.
+Seaseaclub Barcelona is a music venue in Barcelona listed on soundcheck. 8 upcoming gigs, with line-ups including Alec Falconer, ATMEN, Binh and Cesar Martino and 2 more. See dates, start times and who's playing. Carrer Port Esportiu, 14P, 08930 Barcelona.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | LOST x REECORDS | ATMEN, HANIE, Reelow, Simon Erar |
+| Sat, 14 Nov 2026 | LOST x REECORDS | ATMEN, Cesar Martino, D.O.N, Dave Rose, HANIE, Lokesh, REDA, Reelow, Simon Erar |
 | Sat, 21 Nov 2026 | Half Baked x Les Enfants at SEASEACLUB with Margaret Dygas, Tristan da Cunha & More | Alec Falconer, INDRA TRAFERRI, Margaret Dygas, Sam Bangura, Tristan da Cunha |
 | Sat, 21 Nov 2026 | Bcn Coffee Rave Festival featuring Sistek | MARTISTA, Sistek |
 | Sat, 28 Nov 2026 | ■ Checkpoint & Les Enfants goes to Seaseaclub with The Ghost, Evan Baggs  | Evan Baggs, Mari.te, Otis, Paul Lution, Punky and the brain, Raf & Rod, The Ghost |
@@ -21,4 +21,4 @@ Seaseaclub Barcelona is a music venue in Barcelona listed on soundcheck. 8 upcom
 
 Carrer Port Esportiu, 14P, 08930 Barcelona, Barcelona
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/seaseaclub-barcelona/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/seaseaclub-barcelona/)*

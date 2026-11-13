@@ -1,6 +1,6 @@
 # Filburt
 
-Filburt is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Neue Welle, Leipzig on Sat, 14 Nov 2026.
+Filburt is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Neue Welle, Leipzig on Sat, 14 Nov 2026.
 
 Filburt is a house and techno artist based in Germany, with 19 gigs on soundcheck across Dresden, Leipzig and Prague. Often billed alongside Cubik, Da Moon and Padsingers. Next up: Neue Welle, Leipzig on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Filburt is a house and techno artist based in Germany, with 19 gigs on soundchec
 
 Cubik, Da Moon, Padsingers
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/filburt/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/filburt/)*

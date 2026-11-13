@@ -1,6 +1,6 @@
 # kso12
 
-kso12 is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Elysia, Basel on Sat, 14 Nov 2026.
+kso12 is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Elysia, Basel on Sat, 14 Nov 2026.
 
 kso12 is a techno and house artist based in Switzerland, with 61 gigs on soundcheck across Basel, Berlin, Bern and Dresden and 5 more. Often billed alongside MARCISM, Toni Dextor and Thomas Bianco. Next up: Elysia, Basel on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ kso12 is a techno and house artist based in Switzerland, with 61 gigs on soundch
 
 MARCISM, Toni Dextor, Thomas Bianco
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kso12/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kso12/)*

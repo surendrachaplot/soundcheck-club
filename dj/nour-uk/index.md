@@ -1,6 +1,6 @@
 # Nour (UK)
 
-Nour (UK) is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The General Assembly, London on Sat, 28 Nov 2026.
+Nour (UK) is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The General Assembly, London on Sat, 28 Nov 2026.
 
 Nour (UK) is a progressive house and deep house artist based in United Kingdom, with 34 gigs on soundcheck across London, Malta, Manchester and Nottingham. Often billed alongside Tris (UK), MXV (UK) and Carina Lawrence. Next up: The General Assembly, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Nour (UK) is a progressive house and deep house artist based in United Kingdom, 
 
 Tris (UK), MXV (UK), Carina Lawrence
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nour-uk/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nour-uk/)*

@@ -1,6 +1,6 @@
 # K-Bar Powiśle
 
-K-Bar Powiśle is a music venue in Warsaw with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "WE <3 lesby ultras X JERSEY CLUB" on Sat, 14 Nov 2026.
+K-Bar Powiśle is a music venue in Warsaw with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "WE <3 lesby ultras X JERSEY CLUB" on Sat, 14 Nov 2026.
 
 K-Bar Powiśle is a music venue in Warsaw listed on soundcheck. 3 upcoming gigs, with line-ups including Adobo (PL), anymati, anzie and apkvp and 2 more. See dates, start times and who's playing. aleja 3 maja i Leona Kruczkowskiego, 00-380 Warszawa.
 
@@ -16,4 +16,4 @@ K-Bar Powiśle is a music venue in Warsaw listed on soundcheck. 3 upcoming gigs,
 
 aleja 3 maja i Leona Kruczkowskiego, 00-380 Warszawa, Warsaw
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/k-bar-powi-le/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/k-bar-powi-le/)*

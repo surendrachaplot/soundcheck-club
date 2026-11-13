@@ -1,6 +1,6 @@
 # OoLONG (2)
 
-OoLONG (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Little Moon Villa Koh Mak, Thailand on Tue, 29 Dec 2026.
+OoLONG (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Little Moon Villa Koh Mak, Thailand on Tue, 29 Dec 2026.
 
 OoLONG is a house and techno artist based in China, with 26 gigs on soundcheck across Bangkok, Beijing, Belgrade and Chongqing and 6 more. Often billed alongside Lina K, Chouchou and CicE. Next up: Little Moon Villa Koh Mak, Thailand on Tue 29 Dec.
 
@@ -25,4 +25,4 @@ OoLONG is a house and techno artist based in China, with 26 gigs on soundcheck a
 
 Lina K, Chouchou, CicE
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oolong-2/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oolong-2/)*

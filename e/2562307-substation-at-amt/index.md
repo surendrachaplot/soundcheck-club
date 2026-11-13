@@ -1,6 +1,6 @@
 # SUBSTATION at AMT
 
-SUBSTATION at AMT on Fri 20 Nov, Berlin. 5 artists: Giulia Gutterer, GRETA (GR), Kidcat and Lucas Abadi and 1 more. House and EBM. See the line-up on soundcheck.
+SUBSTATION at AMT on Fri 20 Nov, Berlin. 6 artists: Giulia Gutterer, GRETA (GR), ilbroccolovolante and Kidcat and 2 more. House and EBM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ SUBSTATION at AMT on Fri 20 Nov, Berlin. 5 artists: Giulia Gutterer, GRETA (GR),
 
 - Giulia Gutterer
 - GRETA (GR)
+- ilbroccolovolante
 - Kidcat
 - Lucas Abadi
 - Sparkly Pony

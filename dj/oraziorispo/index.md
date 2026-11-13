@@ -1,14 +1,14 @@
 # Orazio Rispo
 
-Orazio Rispo is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - TBA, New York City on Fri, 13 Nov 2026.
+Orazio Rispo is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - 20 MEADOW STREET BK NYC, New York City on Fri, 13 Nov 2026.
 
-Orazio Rispo is a house and techno artist based in United States of America, with 21 gigs on soundcheck across Naples, New York City and Paris. Often billed alongside O.BEE, Maksim and Tomas Station. Next up: TBA - TBA, New York City on Fri 13 Nov.
+Orazio Rispo is a house and techno artist based in United States of America, with 21 gigs on soundcheck across Naples, New York City and Paris. Often billed alongside O.BEE, Maksim and Tomas Station. Next up: TBA - 20 MEADOW STREET BK NYC, New York City on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | TBA - TBA | New York City |
+| Fri, 13 Nov 2026 | TBA - 20 MEADOW STREET BK NYC | New York City |
 | Fri, 20 Nov 2026 | Open Air Club | New York City |
 
 ## Recently played
@@ -26,4 +26,4 @@ Orazio Rispo is a house and techno artist based in United States of America, wit
 
 O.BEE, Maksim, Tomas Station
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oraziorispo/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oraziorispo/)*

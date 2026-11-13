@@ -1,14 +1,13 @@
 # Unter Deck
 
-Unter Deck is a music venue in Munich with 6 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Isarbass" on Thu, 12 Nov 2026.
+Unter Deck is a music venue in Munich with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Low Class Conspiracy w/ Andi Britz & Gianluca" on Fri, 13 Nov 2026.
 
-Unter Deck is a music venue in Munich listed on soundcheck. 6 upcoming gigs, with line-ups including Andi Britz, Die Tektonische Plattenverschiebung, DJ FM & DJ FREUND and Fej:tal and 2 more. See dates, start times and who's playing. Oberanger 26, 80331 München.
+Unter Deck is a music venue in Munich listed on soundcheck. 5 upcoming gigs, with line-ups including Andi Britz, Die Tektonische Plattenverschiebung, DJ FM & DJ FREUND and Fej:tal and 2 more. See dates, start times and who's playing. Oberanger 26, 80331 München.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 12 Nov 2026 | Isarbass |  |
 | Fri, 13 Nov 2026 | Low Class Conspiracy w/ Andi Britz & Gianluca | Andi Britz |
 | Sat, 14 Nov 2026 | Der 8. Tag by Electroamore | DJ FM & DJ FREUND, Die Tektonische Plattenverschiebung, Fej:tal, RONNY |
 | Tue, 24 Nov 2026 | Tuesday in Love: Safahs all night long | Safahs |
@@ -19,4 +18,4 @@ Unter Deck is a music venue in Munich listed on soundcheck. 6 upcoming gigs, wit
 
 Oberanger 26, 80331 München, Munich
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/unter-deck/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/unter-deck/)*

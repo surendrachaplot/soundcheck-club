@@ -1,6 +1,6 @@
 # DXNBY
 
-DXNBY is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 20 Nov 2026.
+DXNBY is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 20 Nov 2026.
 
 DXNBY is a house and tech house artist based in United Kingdom, with 120 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Brighton and 23 more. Often billed alongside Ozzie Guven, ALISHA and East End Dubs. Next up: Depot Mayfield, Manchester on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ DXNBY is a house and tech house artist based in United Kingdom, with 120 gigs on
 
 Ozzie Guven, ALISHA, East End Dubs
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dxnby/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dxnby/)*

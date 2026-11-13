@@ -1,14 +1,13 @@
 # SHERELLE
 
-SHERELLE is a Jungle and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Carpet Shop, London on Thu, 12 Nov 2026.
+SHERELLE is a Jungle and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Strange Brew, Bristol on Fri, 13 Nov 2026.
 
-SHERELLE is a jungle and techno artist based in United Kingdom, with 195 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Atlanta and 61 more. Often billed alongside I. JORDAN, Special Request and Job Jobse. Next up: The Carpet Shop, London on Thu 12 Nov.
+SHERELLE is a jungle and techno artist based in United Kingdom, with 195 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Atlanta and 61 more. Often billed alongside I. JORDAN, Special Request and Job Jobse. Next up: Strange Brew, Bristol on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 12 Nov 2026 | The Carpet Shop | London |
 | Fri, 13 Nov 2026 | Strange Brew | Bristol |
 | Fri, 4 Dec 2026 | FORGE | Sheffield |
 | Thu, 10 Dec 2026 | Depot Mayfield | Manchester |
@@ -18,6 +17,7 @@ SHERELLE is a jungle and techno artist based in United Kingdom, with 195 gigs on
 
 ## Recently played
 
+- The Carpet Shop, London · Thu, 12 Nov 2026
 - Sub Club, Glasgow · Fri, 6 Nov 2026
 - RADION, Amsterdam · Fri, 23 Oct 2026
 - BRET, Amsterdam · Fri, 23 Oct 2026
@@ -25,10 +25,9 @@ SHERELLE is a jungle and techno artist based in United Kingdom, with 195 gigs on
 - Pisces, Atlanta · Sat, 10 Oct 2026
 - Sound Machine, Toronto · Fri, 9 Oct 2026
 - Arora, New Orleans · Thu, 8 Oct 2026
-- Los Globos, Los Angeles · Sat, 3 Oct 2026
 
 ## Shares bills with
 
 I. JORDAN, Special Request, Job Jobse
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sherelle/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sherelle/)*

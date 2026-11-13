@@ -1,6 +1,6 @@
 # KRUE
 
-KRUE is a Trance and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Kulturlounge, Leipzig on Sat, 19 Dec 2026.
+KRUE is a Trance and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Kulturlounge, Leipzig on Sat, 19 Dec 2026.
 
 KRUE is a trance and house artist based in Germany, with 18 gigs on soundcheck across Leipzig. Often billed alongside :MUMM, kunstlicht and Bertha. Next up: Kulturlounge, Leipzig on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ KRUE is a trance and house artist based in Germany, with 18 gigs on soundcheck a
 
 :MUMM, kunstlicht, Bertha
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krue/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krue/)*

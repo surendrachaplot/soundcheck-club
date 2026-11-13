@@ -1,8 +1,8 @@
 # Freddy K
 
-Freddy K is a Techno and House artist with 17 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Gotec, Karlsruhe on Fri, 13 Nov 2026.
+Freddy K is a Techno and House artist with 19 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Gotec, Karlsruhe on Fri, 13 Nov 2026.
 
-Freddy K is a techno and house artist based in Germany, with 324 gigs on soundcheck across Alicante, Amsterdam, Antwerp and Athens and 83 more. Often billed alongside Blasha & Allatt, Alarico and Chlär. Next up: Gotec, Karlsruhe on Fri 13 Nov.
+Freddy K is a techno and house artist based in Germany, with 326 gigs on soundcheck across Alicante, Amsterdam, Antwerp and Athens and 83 more. Often billed alongside Alarico, Blasha & Allatt and Ogazón. Next up: Gotec, Karlsruhe on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -18,8 +18,8 @@ Freddy K is a techno and house artist based in Germany, with 324 gigs on soundch
 | Sat, 5 Dec 2026 | Cosmos Club Sevilla | South |
 | Sun, 6 Dec 2026 | Studio Club Malaga | Malaga |
 | Fri, 11 Dec 2026 | FVTVR | Paris |
+| Fri, 11 Dec 2026 | C12 | Brussels |
 | Fri, 18 Dec 2026 | Flash | Washington DC |
-| Sat, 19 Dec 2026 | BASEMENT | New York City |
 
 ## Recently played
 
@@ -34,6 +34,6 @@ Freddy K is a techno and house artist based in Germany, with 324 gigs on soundch
 
 ## Shares bills with
 
-Blasha & Allatt, Alarico, Chlär
+Alarico, Blasha & Allatt, Ogazón
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/freddyk/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/freddyk/)*

@@ -1,6 +1,6 @@
 # MIKE RANSOM
 
-MIKE RANSOM is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Spkrbox, Detroit on Fri, 13 Nov 2026.
+MIKE RANSOM is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Spkrbox, Detroit on Fri, 13 Nov 2026.
 
 MIKE RANSOM is a techno and house artist based in United States of America, with 59 gigs on soundcheck across Detroit and Tokyo. Often billed alongside Kevin Reynolds, Steingold and Aboudi Issa. Next up: Spkrbox, Detroit on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ MIKE RANSOM is a techno and house artist based in United States of America, with
 
 Kevin Reynolds, Steingold, Aboudi Issa
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeransom/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeransom/)*

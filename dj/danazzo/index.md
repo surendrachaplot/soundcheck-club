@@ -1,6 +1,6 @@
 # Dan Azzo
 
-Dan Azzo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Trough X Sydney, New-south-wales on Sat, 14 Nov 2026.
+Dan Azzo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Trough X Sydney, New-south-wales on Sat, 14 Nov 2026.
 
 Dan Azzo is a house and techno artist based in Australia, with 22 gigs on soundcheck across London, New South Wales and Sydney. Often billed alongside Fried Pork Chop, Jacqui Cunningham and Meat Raffle. Next up: Trough X Sydney, New South Wales on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Dan Azzo is a house and techno artist based in Australia, with 22 gigs on soundc
 
 Fried Pork Chop, Jacqui Cunningham, Meat Raffle
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danazzo/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danazzo/)*

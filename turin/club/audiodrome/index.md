@@ -1,6 +1,6 @@
 # Audiodrome
 
-Audiodrome is a music venue in Turin with 8 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "POLTERGST for OVER PARTY" on Sat, 14 Nov 2026.
+Audiodrome is a music venue in Turin with 8 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "POLTERGST for OVER PARTY" on Sat, 14 Nov 2026.
 
 Audiodrome is a music venue in Turin listed on soundcheck. 8 upcoming gigs, with line-ups including A.N.I., Fatima Hajji, Nicolas Julian and POLTERGST and 1 more. See dates, start times and who's playing. Strada Mongina 9, 10024 Moncalieri (TO), Italy.
 
@@ -21,4 +21,4 @@ Audiodrome is a music venue in Turin listed on soundcheck. 8 upcoming gigs, with
 
 Strada Mongina 9, 10024 Moncalieri (TO), Italy, Turin
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/turin/club/audiodrome/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/turin/club/audiodrome/)*

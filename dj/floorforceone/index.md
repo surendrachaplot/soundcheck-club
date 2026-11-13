@@ -1,6 +1,6 @@
 # Floor Force One
 
-Floor Force One is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at La Cova, Hamburg on Sat, 21 Nov 2026.
+Floor Force One is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at La Cova, Hamburg on Sat, 21 Nov 2026.
 
 Floor Force One is a techno and trance artist based in Germany, with 37 gigs on soundcheck across Beijing, Berlin, Cologne and Frankfurt and 10 more. Often billed alongside WarinD, Nikolina and Dominique Lamee. Next up: La Cova, Hamburg on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Floor Force One is a techno and trance artist based in Germany, with 37 gigs on 
 
 WarinD, Nikolina, Dominique Lamee
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/floorforceone/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/floorforceone/)*

@@ -1,6 +1,6 @@
 # San Dee
 
-San Dee is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Revolver Upstairs, Melbourne on Mon, 16 Nov 2026.
+San Dee is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Revolver Upstairs, Melbourne on Mon, 16 Nov 2026.
 
 San Dee is a house and minimal artist based in United States of America, with 51 gigs on soundcheck across Lausanne, Melbourne, Miami and Nashville and 1 more. Often billed alongside Kev Gee, TMD (US) and Saul mj. Next up: Revolver Upstairs, Melbourne on Mon 16 Nov.
 
@@ -26,4 +26,4 @@ San Dee is a house and minimal artist based in United States of America, with 51
 
 Kev Gee, TMD (US), Saul mj
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sandee/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sandee/)*

@@ -1,14 +1,15 @@
 # SilkyBlack
 
-SilkyBlack is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at SILO, New York City on Wed, 9 Dec 2026.
+SilkyBlack is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at SILO, New York City on Wed, 9 Dec 2026.
 
-SilkyBlack is a house and techno artist based in United States of America, with 25 gigs on soundcheck across New York City. Often billed alongside EEVEE, L B33 and Marvelito. Next up: SILO, New York City on Wed 9 Dec.
+SilkyBlack is a house and techno artist based in United States of America, with 26 gigs on soundcheck across New York City. Often billed alongside EEVEE, L B33 and Marvelito. Next up: SILO, New York City on Wed 9 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 9 Dec 2026 | SILO | New York City |
+| Fri, 11 Dec 2026 | House of Yes | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ SilkyBlack is a house and techno artist based in United States of America, with 
 
 EEVEE (3), L B33, Marvelito
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/silkyblack/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/silkyblack/)*

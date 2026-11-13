@@ -1,6 +1,6 @@
 # skathi
 
-skathi is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Conny Club, Münster on Sat, 21 Nov 2026.
+skathi is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Conny Club, Münster on Sat, 21 Nov 2026.
 
 skathi is a house and techno artist based in Germany, with 47 gigs on soundcheck across Cologne, Dortmund / Essen, Munich and Münster. Often billed alongside Valeby, ALYF and Redfocks. Next up: Conny Club, Münster on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ skathi is a house and techno artist based in Germany, with 47 gigs on soundcheck
 
 Valeby, ALYF, Redfocks
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skathi/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skathi/)*

@@ -1,6 +1,6 @@
 # Von
 
-Von is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - TWO FLOOR WAREHOUSE , New York City on Fri, 20 Nov 2026.
+Von is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - TWO FLOOR WAREHOUSE , New York City on Fri, 20 Nov 2026.
 
 Von is a techno and tech house artist based in United States of America, with 31 gigs on soundcheck across Berlin, Chicago, Frankfurt and Los Angeles and 3 more. Often billed alongside Antide, Jon McCray and KYRUH. Next up: TBA - TWO FLOOR WAREHOUSE , New York City on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Von is a techno and tech house artist based in United States of America, with 31
 
 Antide, Jon McCray, KYRUH
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/von-1/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/von-1/)*

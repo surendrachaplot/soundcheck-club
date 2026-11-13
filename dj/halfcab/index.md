@@ -1,6 +1,6 @@
 # Halfcab
 
-Halfcab is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Museu do Amanhã, Rio de Janeiro on Tue, 9 Feb 2027.
+Halfcab is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Museu do Amanhã, Rio de Janeiro on Tue, 9 Feb 2027.
 
 Halfcab is a house and tech house artist based in Brazil, with 29 gigs on soundcheck across Amsterdam, Liverpool, Malta and Rio De Janeiro and 2 more. Often billed alongside Mochakk, Eli Iwasa and L_cio. Next up: Museu do Amanhã, Rio de Janeiro on Tue 9 Feb.
 
@@ -25,4 +25,4 @@ Halfcab is a house and tech house artist based in Brazil, with 29 gigs on soundc
 
 Mochakk, Eli Iwasa, L_cio
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/halfcab/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/halfcab/)*

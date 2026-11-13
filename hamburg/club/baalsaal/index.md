@@ -1,14 +1,14 @@
 # Baalsaal
 
-Baalsaal is a music venue in Hamburg with 10 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "GR:IT" on Fri, 13 Nov 2026.
+Baalsaal is a music venue in Hamburg with 10 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "GR:IT" on Fri, 13 Nov 2026.
 
-Baalsaal is a music venue in Hamburg listed on soundcheck. 10 upcoming gigs, with line-ups including AKIIM, Anne-Lu, CLAVD and dannycookin and 2 more. See dates, start times and who's playing. Reeperbahn 25; 20359 Hamburg; Germany.
+Baalsaal is a music venue in Hamburg listed on soundcheck. 10 upcoming gigs, with line-ups including AKIIM, Anne-Lu, dannycookin and formula303 and 2 more. See dates, start times and who's playing. Reeperbahn 25; 20359 Hamburg; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | GR:IT | Anne-Lu, CLAVD, formula303, rodmor |
+| Fri, 13 Nov 2026 | GR:IT | Anne-Lu, Vektra, formula303, rodmor |
 | Sat, 14 Nov 2026 | MUTABLE | AKIIM, SVPERCELL |
 | Sat, 14 Nov 2026 | Paàl X ATEMPORAL | AKIIM, Paàl, SVPERCELL |
 | Sat, 21 Nov 2026 | Move to Groove | FRÆNCIS, JENKA, dannycookin |
@@ -23,4 +23,4 @@ Baalsaal is a music venue in Hamburg listed on soundcheck. 10 upcoming gigs, wit
 
 Reeperbahn 25; 20359 Hamburg; Germany, Hamburg
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/baalsaal/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/baalsaal/)*

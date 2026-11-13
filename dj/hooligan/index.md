@@ -1,6 +1,6 @@
 # Hooligan
 
-Hooligan is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Dali, Cork on Sat, 14 Nov 2026.
+Hooligan is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Dali, Cork on Sat, 14 Nov 2026.
 
 Hooligan is a techno and minimal techno artist, with 38 gigs on soundcheck across Austin, Berlin, Cork and Dublin and 5 more. Often billed alongside MEJMI, Ashes and Doiléir. Next up: Dali, Cork on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Hooligan is a techno and minimal techno artist, with 38 gigs on soundcheck acros
 
 MEJMI, Ashes (2), Doiléir
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hooligan/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hooligan/)*

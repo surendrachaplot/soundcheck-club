@@ -1,6 +1,6 @@
 # warmluke
 
-warmluke is a House and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Block C, London on Fri, 27 Nov 2026.
+warmluke is a House and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Block C, London on Fri, 27 Nov 2026.
 
 warmluke is a house and broken beat artist, with 24 gigs on soundcheck across London. Often billed alongside DJoe, Beringei and AUDIO DUNE. Next up: Block C, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ warmluke is a house and broken beat artist, with 24 gigs on soundcheck across Lo
 
 DJoe, Beringei, AUDIO DUNE
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/warmluke/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/warmluke/)*

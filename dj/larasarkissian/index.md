@@ -1,6 +1,6 @@
 # Lara Sarkissian
 
-Lara Sarkissian is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Brain Dead Studios, Los Angeles on Sun, 29 Nov 2026.
+Lara Sarkissian is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Brain Dead Studios, Los Angeles on Sun, 29 Nov 2026.
 
 Lara Sarkissian is a techno and house artist based in United States of America, with 33 gigs on soundcheck across Los Angeles, New York City and San Francisco/Oakland. Often billed alongside Darone Sassounian, 8ULENTINA and DJ Haram. Next up: Brain Dead Studios, Los Angeles on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Lara Sarkissian is a techno and house artist based in United States of America, 
 
 Darone Sassounian, 8ULENTINA, DJ Haram
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/larasarkissian/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/larasarkissian/)*

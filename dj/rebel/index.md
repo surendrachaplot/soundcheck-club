@@ -1,6 +1,6 @@
 # Rebel
 
-Rebel is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at elipamanoke, Leipzig on Fri, 20 Nov 2026.
+Rebel is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at elipamanoke, Leipzig on Fri, 20 Nov 2026.
 
 Rebel is a techno and trance artist based in United Kingdom, with 4 gigs on soundcheck across Brussels, Leipzig, New York City and The Hague. Often billed alongside Angel D'lite, Avalon Emerson and Azo. Next up: elipamanoke, Leipzig on Fri 20 Nov.
 
@@ -20,4 +20,4 @@ Rebel is a techno and trance artist based in United Kingdom, with 4 gigs on soun
 
 Angel D'lite, Avalon Emerson, Azo
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rebel/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rebel/)*

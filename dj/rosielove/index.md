@@ -1,6 +1,6 @@
 # Rosie Love
 
-Rosie Love is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Campground 1H from DTLA, Los-angeles on Fri, 16 Apr 2027.
+Rosie Love is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Campground 1H from DTLA, Los-angeles on Fri, 16 Apr 2027.
 
 Rosie Love is a techno and house artist based in United States of America, with 10 gigs on soundcheck across Amsterdam and Los Angeles. Often billed alongside DJ Dazy, Hector Moralez and J-Dub. Next up: TBA - Campground 1H from DTLA, Los Angeles on Fri 16 Apr.
 
@@ -25,4 +25,4 @@ Rosie Love is a techno and house artist based in United States of America, with 
 
 DJ Dazy, Hector Moralez, J-Dub
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rosielove/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rosielove/)*

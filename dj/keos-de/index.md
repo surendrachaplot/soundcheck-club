@@ -1,6 +1,6 @@
 # keos
 
-keos is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Slot, Hamburg on Sat, 21 Nov 2026.
+keos is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Slot, Hamburg on Sat, 21 Nov 2026.
 
 keos is a techno artist based in Germany, with 17 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Marta Aurelia, Antoine Baiser and La Carpio. Next up: Slot, Hamburg on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ keos is a techno artist based in Germany, with 17 gigs on soundcheck across Berl
 
 Marta Aurelia, Antoine Baiser, La Carpio
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/keos-de/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/keos-de/)*

@@ -1,14 +1,13 @@
 # Enter Shibuya
 
-Enter Shibuya is a music venue in Tokyo with 12 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "BACK TO CHILL" on Thu, 12 Nov 2026.
+Enter Shibuya is a music venue in Tokyo with 11 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "PAXPROJECT presents Lola Haro" on Fri, 13 Nov 2026.
 
-Enter Shibuya is a music venue in Tokyo listed on soundcheck. 12 upcoming gigs, with line-ups including AMANE, Daichi, DNG and Hayato and 2 more. See dates, start times and who's playing. 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan.
+Enter Shibuya is a music venue in Tokyo listed on soundcheck. 11 upcoming gigs, with line-ups including AMANE, Daichi, DNG and Hayato and 2 more. See dates, start times and who's playing. 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 12 Nov 2026 | BACK TO CHILL | HELKTRAM, Lowki, kafuka naiki |
 | Fri, 13 Nov 2026 | PAXPROJECT presents Lola Haro | KOTSU, Lola Haro, Rickey Shannon |
 | Sat, 14 Nov 2026 | The Dreamers EP41 | Koki Byrd, Manaha, Rickey Shannon |
 | Mon, 16 Nov 2026 | lucid 明晰夢 | Kengo Yuasa, NYAO |
@@ -18,9 +17,10 @@ Enter Shibuya is a music venue in Tokyo listed on soundcheck. 12 upcoming gigs, 
 | Fri, 20 Nov 2026 | 'Ø'presents NOVA | IRON, SOGI, Sakuma, levolant |
 | Sat, 21 Nov 2026 | crowdsurf -Hiroyuki Kato「ERUC EP」Release Party- | DNG (1), YUURI |
 | Sun, 22 Nov 2026 | Vitamin Vol.5 | okadada |
+| Fri, 27 Nov 2026 | Nektar | AMANE, Daichi, Hayato, Sota Shimada |
 
 ## Address
 
 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan, Tokyo
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/enter-shibuya/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/enter-shibuya/)*

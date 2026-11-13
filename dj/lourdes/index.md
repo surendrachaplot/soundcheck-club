@@ -1,6 +1,6 @@
 # Lourdes
 
-Lourdes is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Radio Estrella, Bogotá on Fri, 13 Nov 2026.
+Lourdes is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Radio Estrella, Bogotá on Fri, 13 Nov 2026.
 
 Lourdes is a techno and tech house artist, with 9 gigs on soundcheck across Berlin, Bogotá, Lisbon and London. Often billed alongside Briela Veneno, Cami Vásquez and DJ Mashu. Next up: Radio Estrella, Bogotá on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Lourdes is a techno and tech house artist, with 9 gigs on soundcheck across Berl
 
 Briela Veneno, Cami Vásquez, DJ Mashu
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lourdes/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lourdes/)*

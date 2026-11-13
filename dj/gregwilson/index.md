@@ -1,6 +1,6 @@
 # Greg Wilson
 
-Greg Wilson is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Lunchbox, Atlanta on Sat, 21 Nov 2026.
+Greg Wilson is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Lunchbox, Atlanta on Sat, 21 Nov 2026.
 
 Greg Wilson is a house and disco artist based in United Kingdom, with 73 gigs on soundcheck across Atlanta, Birmingham, Brighton and Bristol and 19 more. Often billed alongside Graeme Park, Todd Terry and DJ Paulette. Next up: Lunchbox, Atlanta on Sat 21 Nov.
 
@@ -29,4 +29,4 @@ Greg Wilson is a house and disco artist based in United Kingdom, with 73 gigs on
 
 Graeme Park, Todd Terry, DJ Paulette
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gregwilson/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gregwilson/)*

@@ -1,6 +1,6 @@
 # K-LALA
 
-K-LALA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Old Shillelagh, Detroit on Sat, 5 Dec 2026.
+K-LALA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Old Shillelagh, Detroit on Sat, 5 Dec 2026.
 
 K-LALA is a house and techno artist based in United States of America, with 8 gigs on soundcheck across Detroit. Often billed alongside DUBYAH, Brent Shay and Govan Jones. Next up: The Old Shillelagh, Detroit on Sat 5 Dec.
 
@@ -24,4 +24,4 @@ K-LALA is a house and techno artist based in United States of America, with 8 gi
 
 DUBYAH, Brent Shay, Govan Jones
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/k-lala/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/k-lala/)*

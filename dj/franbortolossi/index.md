@@ -1,6 +1,6 @@
 # Fran Bortolossi
 
-Fran Bortolossi is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at D-EDGE, Sao Paulo on Thu, 19 Nov 2026.
+Fran Bortolossi is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at D-EDGE, Sao Paulo on Thu, 19 Nov 2026.
 
 Fran Bortolossi is a house and tech house artist based in Brazil, with 13 gigs on soundcheck across Brazil, Buenos Aires and Sao Paulo. Often billed alongside Kolombo, Dyed Soundorom and Franco Cinelli. Next up: D-EDGE, Sao Paulo on Thu 19 Nov.
 
@@ -26,4 +26,4 @@ Fran Bortolossi is a house and tech house artist based in Brazil, with 13 gigs o
 
 Kolombo, Dyed Soundorom, Franco Cinelli
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/franbortolossi/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/franbortolossi/)*

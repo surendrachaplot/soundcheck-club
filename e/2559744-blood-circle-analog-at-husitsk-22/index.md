@@ -1,6 +1,6 @@
 # Blood Circle ANALOG at Husitská 22
 
-Blood Circle ANALOG at Husitská 22 on Fri 27 Nov, Prague. 6 artists: DAVIDOFFWHITE, NONSENSE (CZ), Nøteleks and Polish and 2 more. Techno and Industrial. See the line-up on soundcheck.
+Blood Circle ANALOG at Husitská 22 on Fri 27 Nov, Prague. 7 artists: DAVIDOFFWHITE, GETSET, NONSENSE (CZ) and Nøteleks and 3 more. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Blood Circle ANALOG at Husitská 22 on Fri 27 Nov, Prague. 6 artists: DAVIDOFFWH
 ## Line-up
 
 - DAVIDOFFWHITE
+- GETSET
 - NONSENSE (CZ)
 - Nøteleks
 - Polish

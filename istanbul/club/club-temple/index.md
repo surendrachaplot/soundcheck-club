@@ -1,6 +1,6 @@
 # Club Temple
 
-Club Temple is a music venue in Istanbul with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "PYSCHEDELIC NIGHT" on Fri, 13 Nov 2026.
+Club Temple is a music venue in Istanbul with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "PYSCHEDELIC NIGHT" on Fri, 13 Nov 2026.
 
 Club Temple is a music venue in Istanbul listed on soundcheck. 3 upcoming gigs, with line-ups including SEV!L!R. See dates, start times and who's playing. Azehit Muhtar Mh. 34435 Beyoaylu/Istanbul Province, Turkey.
 
@@ -16,4 +16,4 @@ Club Temple is a music venue in Istanbul listed on soundcheck. 3 upcoming gigs, 
 
 Azehit Muhtar Mh. 34435 Beyoaylu/Istanbul Province, Turkey, Istanbul
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/club-temple/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/club-temple/)*

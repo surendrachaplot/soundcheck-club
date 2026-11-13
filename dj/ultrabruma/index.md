@@ -1,6 +1,6 @@
 # Ultrabruma
 
-Ultrabruma is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Bossa Nova Civic Club, New York City on Fri, 13 Nov 2026.
+Ultrabruma is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Bossa Nova Civic Club, New York City on Fri, 13 Nov 2026.
 
 Ultrabruma is a bass and techno artist based in Colombia, with 10 gigs on soundcheck across Amsterdam, Bogotá, Boston and Geneva and 5 more. Often billed alongside Brenda., MARIA MANUELA and Aguirre. Next up: Bossa Nova Civic Club, New York City on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Ultrabruma is a bass and techno artist based in Colombia, with 10 gigs on soundc
 
 Brenda., MARIA MANUELA, Aguirre
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ultrabruma/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ultrabruma/)*

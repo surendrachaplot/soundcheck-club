@@ -1,6 +1,6 @@
 # Benfika
 
-Benfika is a Club and Latin Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Roundhouse Community Arts & Recreation Centre, Vancouver on Sat, 14 Nov 2026.
+Benfika is a Club and Latin Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Roundhouse Community Arts & Recreation Centre, Vancouver on Sat, 14 Nov 2026.
 
 Benfika is a club and latin bass artist based in Mexico, with 21 gigs on soundcheck across Barcelona, Berlin, Lisbon and Los Angeles and 4 more. Often billed alongside Dj Pegaso, Ruiseñor and Dj Babatr. Next up: Roundhouse Community Arts & Recreation Centre, Vancouver on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Benfika is a club and latin bass artist based in Mexico, with 21 gigs on soundch
 
 Dj Pegaso, Ruiseñor, Dj Babatr
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benfika/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benfika/)*

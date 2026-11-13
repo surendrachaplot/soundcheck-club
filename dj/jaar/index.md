@@ -1,6 +1,6 @@
 # JAAR
 
-JAAR is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at 50 | 50, Medellin on Fri, 13 Nov 2026.
+JAAR is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at 50 | 50, Medellin on Fri, 13 Nov 2026.
 
 JAAR is a tech house and house artist based in Colombia, with 35 gigs on soundcheck across Medellin. Often billed alongside Matheo Velez, Camilo Do Santos and Raized. Next up: 50 | 50, Medellin on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ JAAR is a tech house and house artist based in Colombia, with 35 gigs on soundch
 
 Matheo Velez, Camilo Do Santos, Raized
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaar/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaar/)*

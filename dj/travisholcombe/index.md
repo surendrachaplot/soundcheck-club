@@ -1,6 +1,6 @@
 # Travis Holcombe
 
-Travis Holcombe is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Club Tee Gee, Los Angeles on Fri, 13 Nov 2026.
+Travis Holcombe is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Club Tee Gee, Los Angeles on Fri, 13 Nov 2026.
 
 Travis Holcombe is a disco and house artist based in United States of America, with 19 gigs on soundcheck across Los Angeles. Often billed alongside Roxanne Roll, Alex Oxley and Scott Tillett. Next up: Club Tee Gee, Los Angeles on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Travis Holcombe is a disco and house artist based in United States of America, w
 
 Roxanne Roll, Alex Oxley, Scott Tillett
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/travisholcombe/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/travisholcombe/)*

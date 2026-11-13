@@ -1,6 +1,6 @@
 # Groove Division
 
-Groove Division is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Electric Pizza Shop, Manchester on Fri, 27 Nov 2026.
+Groove Division is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Electric Pizza Shop, Manchester on Fri, 27 Nov 2026.
 
 Groove Division is a house and techno artist, with 9 gigs on soundcheck across Liverpool and Manchester. Often billed alongside Aly P, Lee Rands and 4D (UK). Next up: Electric Pizza Shop, Manchester on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Groove Division is a house and techno artist, with 9 gigs on soundcheck across L
 
 Aly P, Lee Rands, 4D (UK)
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/groovedivision/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/groovedivision/)*

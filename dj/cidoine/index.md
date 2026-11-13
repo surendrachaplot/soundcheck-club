@@ -1,6 +1,6 @@
 # Cidoine
 
-Cidoine is a Funk / Soul and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at 180g Café - Disquaire, Montreal on Fri, 13 Nov 2026.
+Cidoine is a Funk / Soul and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at 180g Café - Disquaire, Montreal on Fri, 13 Nov 2026.
 
 Cidoine is a funk / soul and house artist based in Haiti, with 27 gigs on soundcheck across Montreal, New York City and Toronto. Often billed alongside Grid, MLLE CEE and Silktits. Next up: 180g Café - Disquaire, Montreal on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Cidoine is a funk / soul and house artist based in Haiti, with 27 gigs on soundc
 
 Grid, MLLE CEE, Silktits
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cidoine/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cidoine/)*

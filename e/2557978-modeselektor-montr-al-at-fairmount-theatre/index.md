@@ -1,6 +1,6 @@
 # Modeselektor - Montréal at Fairmount Theatre
 
-Modeselektor - Montréal at Fairmount Theatre on Thu 11 Feb, Montreal. 1 artist: Modeselektor. See the line-up on soundcheck.
+Modeselektor - Montréal at Fairmount Theatre on Thu 11 Feb, Montreal. 1 artist: Modeselektor. Techno and IDM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

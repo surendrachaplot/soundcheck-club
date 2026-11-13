@@ -1,25 +1,25 @@
 # TBA
 
-TBA is a Techno and House artist with 18 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Temple SF, San Francisco/Oakland on Fri, 13 Nov 2026.
+TBA is a Techno and House artist with 20 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Temple SF, San Francisco/Oakland on Fri, 13 Nov 2026.
 
-TBA is a techno and house artist based in Georgia, with 276 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 48 more. Often billed alongside PARIS (AU), Gerald VDH and Natalie Beridze. Next up: Temple SF, San Francisco/Oakland on Fri 13 Nov.
+TBA is a techno and house artist based in Georgia, with 278 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 48 more. Often billed alongside PARIS (AU), Gerald VDH and Natalie Beridze. Next up: Temple SF, San Francisco/Oakland on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Temple SF | San Francisco/Oakland |
+| Fri, 13 Nov 2026 | Garagen | Cologne |
 | Sat, 14 Nov 2026 | Electric Ballroom | London |
 | Sat, 14 Nov 2026 | 1756 Naud St. | Los Angeles |
 | Sat, 14 Nov 2026 | Razzmatazz 3 | Barcelona |
+| Sat, 14 Nov 2026 | X Private Club | Madrid |
 | Wed, 18 Nov 2026 | Kult | Belgrade |
 | Sat, 21 Nov 2026 | Electric Ballroom | London |
 | Wed, 25 Nov 2026 | Kult | Belgrade |
 | Sat, 28 Nov 2026 | Electric Ballroom | London |
 | Sat, 28 Nov 2026 | Slaktkyrkan | Stockholm |
 | Sat, 5 Dec 2026 | Electric Ballroom | London |
-| Sat, 12 Dec 2026 | Electric Ballroom | London |
-| Sat, 19 Dec 2026 | Electric Ballroom | London |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ TBA is a techno and house artist based in Georgia, with 276 gigs on soundcheck a
 
 PARIS (AU), Gerald VDH, Natalie Beridze
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tba/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tba/)*

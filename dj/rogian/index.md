@@ -1,6 +1,6 @@
 # Rogian
 
-Rogian is a Electro and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Umbo, Zurich on Sat, 21 Nov 2026.
+Rogian is a Electro and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Umbo, Zurich on Sat, 21 Nov 2026.
 
 Rogian is an electro and breakbeat artist based in Switzerland, with 10 gigs on soundcheck across Basel, Milan and Zurich. Often billed alongside Jabrome, Calicá and Hermeth. Next up: Umbo, Zurich on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Rogian is an electro and breakbeat artist based in Switzerland, with 10 gigs on 
 
 Jabrome, Calicá, Hermeth
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rogian/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rogian/)*

@@ -1,14 +1,15 @@
 # Oshi
 
-Oshi is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Forestlimit, Tokyo on Sat, 14 Nov 2026.
+Oshi is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Forestlimit, Tokyo on Sat, 14 Nov 2026.
 
-Oshi is a techno and bass artist based in France, with 102 gigs on soundcheck across Barcelona, Beijing, Riga and Tokyo. Often billed alongside --- mr ---, Da Yama and Ken Sugai. Next up: Forestlimit, Tokyo on Sat 14 Nov.
+Oshi is a techno and bass artist based in France, with 103 gigs on soundcheck across Barcelona, Beijing, Riga and Tokyo. Often billed alongside --- mr ---, Leo Furioso and Da Yama. Next up: Forestlimit, Tokyo on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Forestlimit | Tokyo |
+| Sat, 14 Nov 2026 | TBA - uh-huh | Beijing |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Oshi is a techno and bass artist based in France, with 102 gigs on soundcheck ac
 
 ## Shares bills with
 
---- mr ---, Da Yama, Ken Sugai
+--- mr ---, Leo Furioso, Da Yama
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oshi/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oshi/)*

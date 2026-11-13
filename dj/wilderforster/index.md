@@ -1,6 +1,6 @@
 # wilder förster
 
-wilder förster is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at ÆDEN, Berlin on Fri, 13 Nov 2026.
+wilder förster is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at ÆDEN, Berlin on Fri, 13 Nov 2026.
 
 wilder förster is a techno and house artist based in Germany, with 13 gigs on soundcheck across Berlin. Often billed alongside Quolcat, MIMI404 and Trippyverse. Next up: ÆDEN, Berlin on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ wilder förster is a techno and house artist based in Germany, with 13 gigs on s
 
 Quolcat, MIMI404, Trippyverse
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wilderforster/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wilderforster/)*

@@ -1,6 +1,6 @@
 # Jesse Hills
 
-Jesse Hills is a Deep House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - The Penthouse Nightclub (Upstairs), 1019 Seymour St, Vancouver BC, Vancouver on Sun, 27 Dec 2026.
+Jesse Hills is a Deep House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - The Penthouse Nightclub (Upstairs), 1019 Seymour St, Vancouver BC, Vancouver on Sun, 27 Dec 2026.
 
 Jesse Hills is a deep house and disco artist, with 18 gigs on soundcheck across Vancouver. Often billed alongside Luke McKeehan, Ricco (CAN) and Joel Armstrong. Next up: TBA - The Penthouse Nightclub (Upstairs), 1019 Seymour St, Vancouver BC, Vancouver on Sun 27 Dec.
 
@@ -25,4 +25,4 @@ Jesse Hills is a deep house and disco artist, with 18 gigs on soundcheck across 
 
 Luke McKeehan, Ricco (CAN), Joel Armstrong
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jessehills/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jessehills/)*

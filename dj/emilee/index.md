@@ -1,6 +1,6 @@
 # Emi Lee
 
-Emi Lee is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Detune, Milan on Sat, 14 Nov 2026.
+Emi Lee is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Detune, Milan on Sat, 14 Nov 2026.
 
 Emi Lee is a house and techno artist based in Italy, with 24 gigs on soundcheck across Milan. Often billed alongside Giamma Soren, Vannelli Bros and CharlieBoy. Next up: Detune, Milan on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Emi Lee is a house and techno artist based in Italy, with 24 gigs on soundcheck 
 
 Giamma Soren, Vannelli Bros, CharlieBoy
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emilee/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emilee/)*

@@ -1,6 +1,6 @@
 # Tamson's Bar
 
-Tamson's Bar is a music venue in Edinburgh with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "Tamson's Bar x EHFM: DJ Ham + Nico" on Sat, 14 Nov 2026.
+Tamson's Bar is a music venue in Edinburgh with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "Tamson's Bar x EHFM: DJ Ham + Nico" on Sat, 14 Nov 2026.
 
 Tamson's Bar is a music venue in Edinburgh listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Tamson's Bar is a music venue in Edinburgh listed on soundcheck. 1 upcoming gig.
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Tamson's Bar x EHFM: DJ Ham + Nico |  |
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/tamson-s-bar/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/tamson-s-bar/)*

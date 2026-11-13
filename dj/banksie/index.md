@@ -1,6 +1,6 @@
 # Banksie
 
-Banksie is a Deep House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at 93 Feet East, London on Sat, 12 Dec 2026.
+Banksie is a Deep House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at 93 Feet East, London on Sat, 12 Dec 2026.
 
 Banksie is a deep house and tech house artist based in United Kingdom, with 17 gigs on soundcheck across London, Manchester and Paris. Often billed alongside Brian Smith, HARTY and Acid Kids. Next up: 93 Feet East, London on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Banksie is a deep house and tech house artist based in United Kingdom, with 17 g
 
 Brian Smith, HARTY, Acid Kids
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/banksie/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/banksie/)*

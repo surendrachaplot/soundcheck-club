@@ -1,6 +1,6 @@
 # randal1na
 
-randal1na is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Odonien, Cologne on Fri, 11 Dec 2026.
+randal1na is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Odonien, Cologne on Fri, 11 Dec 2026.
 
 randal1na is a techno and house artist based in Germany, with 17 gigs on soundcheck across Cologne, Dortmund / Essen and Hamburg. Often billed alongside EPHIE, wonka and Gutkind. Next up: Odonien, Cologne on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ randal1na is a techno and house artist based in Germany, with 17 gigs on soundch
 
 EPHIE, wonka, Gutkind
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/randal1na/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/randal1na/)*

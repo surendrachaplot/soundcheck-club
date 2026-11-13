@@ -1,6 +1,6 @@
 # STTRUKII
 
-STTRUKII is a Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Chinese Laundry, Sydney on Fri, 13 Nov 2026.
+STTRUKII is a Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Chinese Laundry, Sydney on Fri, 13 Nov 2026.
 
 STTRUKII is a bass and jungle artist based in Australia, with 20 gigs on soundcheck across Adelaide and Sydney. Often billed alongside Deverence, Fashionably Late and Hotel 84. Next up: Chinese Laundry, Sydney on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ STTRUKII is a bass and jungle artist based in Australia, with 20 gigs on soundch
 
 Deverence, Fashionably Late, Hotel 84
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sttrukii/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sttrukii/)*

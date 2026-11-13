@@ -1,6 +1,6 @@
 # Paula Cazenave
 
-Paula Cazenave is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Fabrik, Madrid on Sat, 5 Dec 2026.
+Paula Cazenave is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Fabrik, Madrid on Sat, 5 Dec 2026.
 
 Paula Cazenave is a techno and tech house artist based in Spain, with 39 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ibiza and 7 more. Often billed alongside Ben Sims, Flug and Nuke. Next up: Fabrik, Madrid on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Paula Cazenave is a techno and tech house artist based in Spain, with 39 gigs on
 
 Ben Sims, Flug, Nuke
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paulacazenave/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paulacazenave/)*

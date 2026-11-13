@@ -1,6 +1,6 @@
 # Danny Zeidan
 
-Danny Zeidan is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Red Room, Milwaukee on Fri, 13 Nov 2026.
+Danny Zeidan is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Red Room, Milwaukee on Fri, 13 Nov 2026.
 
 Danny Zeidan is a techno and house artist based in United States of America, with 26 gigs on soundcheck across Chicago, Detroit and Milwaukee. Often billed alongside Anna Maria X, m.O.N.R.O.E. and Alex Kislov. Next up: TBA - Red Room, Milwaukee on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Danny Zeidan is a techno and house artist based in United States of America, wit
 
 Anna Maria X, m.O.N.R.O.E., Alex Kislov
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyzeidan/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyzeidan/)*

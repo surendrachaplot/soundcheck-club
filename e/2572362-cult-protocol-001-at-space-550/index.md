@@ -1,6 +1,6 @@
-# Cult.protocol // 001 at Space 550
+# cult.protocol // 001 at Space 550
 
-Cult.protocol // 001 at Space 550 on Sat 30 Jan, San Francisco/Oakland. Techno and Tech House. See the line-up on soundcheck.
+cult.protocol // 001 at Space 550 on Sat 30 Jan, San Francisco/Oakland. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # nebula #7 at Mago
 
-nebula #7 at Mago on Sat 19 Dec, Chubu. 3 artists: CRAZY-T, Mamazu and Sunga. See the line-up on soundcheck.
+nebula #7 at Mago on Sat 19 Dec, Chubu. 5 artists: CRAZY-T, Mamazu, RUI HAYAKAWA and Sunga and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,8 @@ nebula #7 at Mago on Sat 19 Dec, Chubu. 3 artists: CRAZY-T, Mamazu and Sunga. Se
 
 - CRAZY-T
 - Mamazu
+- RUI HAYAKAWA
 - Sunga
+- YUURI
 
 *Source: [soundcheck](https://soundcheck.club/e/2569352-nebula-7-at-mago/)*

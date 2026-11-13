@@ -1,6 +1,6 @@
 # Artslaves
 
-Artslaves is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Circolo degli Illuminati, Rome on Fri, 20 Nov 2026.
+Artslaves is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Circolo degli Illuminati, Rome on Fri, 20 Nov 2026.
 
 Artslaves is a tech house and house artist based in Italy, with 30 gigs on soundcheck across Amsterdam, Basel, Belgrade and Berlin and 12 more. Often billed alongside Biagio Sibilla, Hito and Jeff Sorkowitz. Next up: Circolo degli Illuminati, Rome on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Artslaves is a tech house and house artist based in Italy, with 30 gigs on sound
 
 Biagio Sibilla, Hito, Jeff Sorkowitz
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/artslaves/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/artslaves/)*

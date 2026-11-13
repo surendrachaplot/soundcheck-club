@@ -1,6 +1,6 @@
 # Xela.
 
-Xela. is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Junction Underground, Toronto on Fri, 13 Nov 2026.
+Xela. is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Junction Underground, Toronto on Fri, 13 Nov 2026.
 
 Xela. is a techno and electro artist based in Canada, with 34 gigs on soundcheck across Toronto. Often billed alongside /ASYNC, Hycastle and ARK1TEK. Next up: Junction Underground, Toronto on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Xela. is a techno and electro artist based in Canada, with 34 gigs on soundcheck
 
 /ASYNC, Hycastle, ARK1TEK
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xela./)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xela./)*

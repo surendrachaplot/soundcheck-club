@@ -1,8 +1,8 @@
 # Giammarco Orsini
 
-Giammarco Orsini is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Goya Social Club, Madrid on Fri, 13 Nov 2026.
+Giammarco Orsini is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Goya Social Club, Madrid on Fri, 13 Nov 2026.
 
-Giammarco Orsini is a house and techno artist based in Italy, with 189 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bangkok and 47 more. Often billed alongside PARAMIDA, Marcolino and Anthea. Next up: Goya Social Club, Madrid on Fri 13 Nov.
+Giammarco Orsini is a house and techno artist based in Italy, with 190 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bangkok and 47 more. Often billed alongside PARAMIDA, Marcolino and Anthea. Next up: Goya Social Club, Madrid on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Giammarco Orsini is a house and techno artist based in Italy, with 189 gigs on s
 | Fri, 13 Nov 2026 | Goya Social Club | Madrid |
 | Sat, 21 Nov 2026 | Bien Public | Bordeaux |
 | Fri, 27 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
+| Fri, 4 Dec 2026 | DURO | Milan |
 | Thu, 10 Jun 2027 | Carreglwyd Estate | West-wales |
 
 ## Recently played
@@ -28,4 +29,4 @@ Giammarco Orsini is a house and techno artist based in Italy, with 189 gigs on s
 
 PARAMIDA, Marcolino, Anthea
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giammarcoorsini/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giammarcoorsini/)*

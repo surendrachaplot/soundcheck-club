@@ -1,6 +1,6 @@
 # Charlie Boon
 
-Charlie Boon is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Shelter Amsterdam, Amsterdam on Sat, 5 Dec 2026.
+Charlie Boon is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Shelter Amsterdam, Amsterdam on Sat, 5 Dec 2026.
 
 Charlie Boon is a house and techno artist, with 33 gigs on soundcheck across Aberdeen, Amsterdam, Brighton and Bristol and 6 more. Often billed alongside Robbie, Jakkob and Millie Cotton. Next up: Shelter Amsterdam, Amsterdam on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Charlie Boon is a house and techno artist, with 33 gigs on soundcheck across Abe
 
 Robbie, Jakkob, Millie Cotton
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/charlieboon/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/charlieboon/)*

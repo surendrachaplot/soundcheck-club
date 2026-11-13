@@ -1,6 +1,6 @@
 # Dany Gómez
 
-Dany Gómez is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Pacha, Munich on Fri, 27 Nov 2026.
+Dany Gómez is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Pacha, Munich on Fri, 27 Nov 2026.
 
 Dany Gómez is a tech house and techno artist based in Spain, with 12 gigs on soundcheck across Barcelona, Ibiza, Madrid and Medellin and 1 more. Often billed alongside AJNA, Adiel and Adriatique. Next up: Pacha, Munich on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Dany Gómez is a tech house and techno artist based in Spain, with 12 gigs on so
 
 AJNA, Adiel, Adriatique
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danygomez/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danygomez/)*

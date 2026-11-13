@@ -1,6 +1,6 @@
 # Mark Roma
 
-Mark Roma is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Basing House, London on Sat, 21 Nov 2026.
+Mark Roma is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Basing House, London on Sat, 21 Nov 2026.
 
 Mark Roma is a techno and trance artist based in United Kingdom, with 8 gigs on soundcheck across Amsterdam, Cologne and London. Often billed alongside Fernweh, MEAKIN and Alex M.O.R.P.H.. Next up: Basing House, London on Sat 21 Nov.
 
@@ -24,4 +24,4 @@ Mark Roma is a techno and trance artist based in United Kingdom, with 8 gigs on 
 
 Fernweh (2), MEAKIN, Alex M.O.R.P.H.
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markroma/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markroma/)*

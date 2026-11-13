@@ -1,6 +1,6 @@
 # Fabio Luigi
 
-Fabio Luigi is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Fire, London on Sat, 21 Nov 2026.
+Fabio Luigi is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Fire, London on Sat, 21 Nov 2026.
 
 Fabio Luigi is a house and tech house artist based in United Kingdom, with 14 gigs on soundcheck across London. Often billed alongside Jesus RedSoul, Bradley Skeng and Cecilia Ena. Next up: Fire, London on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Fabio Luigi is a house and tech house artist based in United Kingdom, with 14 gi
 
 Jesus RedSoul, Bradley Skeng, Cecilia Ena
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fabioluigi/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fabioluigi/)*

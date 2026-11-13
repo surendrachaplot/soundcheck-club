@@ -1,6 +1,6 @@
 # Para Klub Beograd
 
-Para Klub Beograd is a music venue in Belgrade with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "MAGLA PRE-WEEKENDER wtih Zadig" on Sun, 22 Nov 2026.
+Para Klub Beograd is a music venue in Belgrade with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "MAGLA PRE-WEEKENDER wtih Zadig" on Sun, 22 Nov 2026.
 
 Para Klub Beograd is a music venue in Belgrade listed on soundcheck. 4 upcoming gigs, with line-ups including Backlogs, Filip Xavi, HETEM and Lollipop Janosz and 2 more. See dates, start times and who's playing. Cetinjska 15.
 
@@ -17,4 +17,4 @@ Para Klub Beograd is a music venue in Belgrade listed on soundcheck. 4 upcoming 
 
 Cetinjska 15, Belgrade
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/para-klub-beograd/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/para-klub-beograd/)*

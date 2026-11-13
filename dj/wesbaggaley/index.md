@@ -1,6 +1,6 @@
 # Wes Baggaley
 
-Wes Baggaley is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Glove That Fits, London on Sat, 21 Nov 2026.
+Wes Baggaley is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Glove That Fits, London on Sat, 21 Nov 2026.
 
 Wes Baggaley is a techno and house artist based in United Kingdom, with 76 gigs on soundcheck across Berlin, Birmingham, Bristol and Dublin and 18 more. Often billed alongside Posthuman, Nightwave and Dan Beaumont. Next up: The Glove That Fits, London on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ Wes Baggaley is a techno and house artist based in United Kingdom, with 76 gigs 
 
 Posthuman, Nightwave, Dan Beaumont
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wesbaggaley/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wesbaggaley/)*

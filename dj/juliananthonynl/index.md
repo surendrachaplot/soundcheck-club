@@ -1,6 +1,6 @@
 # Julian Anthony
 
-Julian Anthony is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Circolo degli Illuminati, Rome on Fri, 13 Nov 2026.
+Julian Anthony is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Circolo degli Illuminati, Rome on Fri, 13 Nov 2026.
 
 Julian Anthony is a house and tech house artist based in Netherlands, with 163 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belfast and 35 more. Often billed alongside Laidlaw, Voigtmann and Reeshy. Next up: Circolo degli Illuminati, Rome on Fri 13 Nov.
 
@@ -30,4 +30,4 @@ Julian Anthony is a house and tech house artist based in Netherlands, with 163 g
 
 Laidlaw, Voigtmann, Reeshy
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juliananthonynl/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juliananthonynl/)*

@@ -1,6 +1,6 @@
 # Cheeks
 
-Cheeks is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Tap1, Copenhagen on Fri, 4 Dec 2026.
+Cheeks is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Tap1, Copenhagen on Fri, 4 Dec 2026.
 
 Cheeks is a house and deep house artist based in Denmark, with 11 gigs on soundcheck across Copenhagen, Mexico City and New York City. Often billed alongside DJ Spice, Jonas Tuk and Niko Nuevo. Next up: Tap1, Copenhagen on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Cheeks is a house and deep house artist based in Denmark, with 11 gigs on soundc
 
 DJ Spice, Jonas Tuk, Niko Nuevo
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cheeks/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cheeks/)*

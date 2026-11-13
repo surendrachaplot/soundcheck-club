@@ -1,6 +1,6 @@
 # Jude Race
 
-Jude Race is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Gaffe, London on Fri, 13 Nov 2026.
+Jude Race is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Gaffe, London on Fri, 13 Nov 2026.
 
 Jude Race is a house and techno artist based in United Kingdom, with 31 gigs on soundcheck across Leeds, London, Manchester and Newcastle. Often billed alongside Weston, Louie G and Bunney. Next up: Gaffe, London on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Jude Race is a house and techno artist based in United Kingdom, with 31 gigs on 
 
 Weston, Louie G, Bunney
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juderace/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juderace/)*

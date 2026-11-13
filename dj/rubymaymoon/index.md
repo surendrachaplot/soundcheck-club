@@ -1,6 +1,6 @@
 # Ruby May Moon
 
-Ruby May Moon is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Colombian Hotel, Sydney on Fri, 13 Nov 2026.
+Ruby May Moon is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Colombian Hotel, Sydney on Fri, 13 Nov 2026.
 
 Ruby May Moon is a house and disco artist, with 10 gigs on soundcheck across Amsterdam, London and Sydney. Often billed alongside Ari Kiko, Ben Fester and Annabelle Gaspar. Next up: Colombian Hotel, Sydney on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Ruby May Moon is a house and disco artist, with 10 gigs on soundcheck across Ams
 
 Ari Kiko, Ben Fester, Annabelle Gaspar
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rubymaymoon/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rubymaymoon/)*

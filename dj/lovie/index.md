@@ -1,13 +1,14 @@
 # Lovie
 
-Lovie is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Secret Location (U+S Jannowitzbrücke), Berlin on Sat, 21 Nov 2026.
+Lovie is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Pastiche, Berlin on Sun, 15 Nov 2026.
 
-Lovie is a house and deep house artist based in United States of America, with 134 gigs on soundcheck across Athens, Berlin, Brighton and Byron Bay and 13 more. Often billed alongside Honey Bun, JADALAREIGN and Kfeelz. Next up: TBA - Secret Location (U+S Jannowitzbrücke), Berlin on Sat 21 Nov.
+Lovie is a house and deep house artist based in United States of America, with 135 gigs on soundcheck across Athens, Berlin, Brighton and Byron Bay and 13 more. Often billed alongside Honey Bun, JADALAREIGN and Kfeelz. Next up: Pastiche, Berlin on Sun 15 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 15 Nov 2026 | Pastiche | Berlin |
 | Sat, 21 Nov 2026 | TBA - Secret Location (U+S Jannowitzbrücke) | Berlin |
 | Sat, 5 Dec 2026 | public records | New York City |
 
@@ -26,4 +27,4 @@ Lovie is a house and deep house artist based in United States of America, with 1
 
 Honey Bun, JADALAREIGN, Kfeelz
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lovie/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lovie/)*

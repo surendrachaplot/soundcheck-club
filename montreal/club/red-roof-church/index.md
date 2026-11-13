@@ -1,6 +1,6 @@
 # Red Roof Church
 
-Red Roof Church is a music venue in Montreal with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "moodswings" on Sat, 14 Nov 2026.
+Red Roof Church is a music venue in Montreal with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "moodswings" on Sat, 14 Nov 2026.
 
 Red Roof Church is a music venue in Montreal listed on soundcheck. 2 upcoming gigs, with line-ups including CMD, DJ Dial-on, Emil Paquin and Headless Horseman and 2 more. See dates, start times and who's playing. 137 Avenue du Président-Kennedy, Montréal, QC H2X 3P6, Canada.
 
@@ -15,4 +15,4 @@ Red Roof Church is a music venue in Montreal listed on soundcheck. 2 upcoming gi
 
 137 Avenue du Président-Kennedy, Montréal, QC H2X 3P6, Canada, Montreal
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/red-roof-church/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/red-roof-church/)*

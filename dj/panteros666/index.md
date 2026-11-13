@@ -1,6 +1,6 @@
 # Panteros666
 
-Panteros666 is a Trance and Techno artist with 8 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
+Panteros666 is a Trance and Techno artist with 8 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
 
 Panteros666 is a trance and techno artist based in France, with 111 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 39 more. Often billed alongside Part Time Killer, Die Klar and TDJ. Next up: The Queen Mary, Los Angeles on Fri 20 Nov.
 
@@ -32,4 +32,4 @@ Panteros666 is a trance and techno artist based in France, with 111 gigs on soun
 
 Part Time Killer, Die Klar, TDJ
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/panteros666/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/panteros666/)*

@@ -1,14 +1,25 @@
 # Balance
 
-Balance is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Treefort Music Hall, Idaho on Wed, 31 Mar 2027.
+Balance is a Progressive House and House artist with 25 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Czech, Leipzig on Sat, 14 Nov 2026.
 
-Balance is a techno and industrial artist based in United Kingdom, with 16 gigs on soundcheck across Amsterdam, Auckland, Cologne and Frankfurt and 9 more. Often billed alongside Is (AM), Line and AnD. Next up: Treefort Music Hall, Idaho on Wed 31 Mar.
+Balance is a progressive house and house artist based in United Kingdom, with 40 gigs on soundcheck across Amsterdam, Auckland, Baltimore and Berlin and 24 more. Often billed alongside Is (AM), Phone and Cable. Next up: Czech, Leipzig on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 31 Mar 2027 | Treefort Music Hall | Idaho |
+| Sat, 14 Nov 2026 | Czech | Leipzig |
+| Sat, 14 Nov 2026 | Mnky HSE | London |
+| Sat, 14 Nov 2026 | BnA Hotel | Tokyo |
+| Sat, 14 Nov 2026 | Mbar | Cape Town |
+| Sat, 14 Nov 2026 | Zlate Piesky | Bratislava |
+| Sat, 14 Nov 2026 | Lvlone Night Club & Lounge | Miami |
+| Sat, 14 Nov 2026 | LMG Warehouse | Birmingham |
+| Sat, 14 Nov 2026 | Jb's Lounge LKF | Hong Kong |
+| Sat, 14 Nov 2026 | Over & Above KL | Kuala Lumpur |
+| Sat, 14 Nov 2026 | JZ Latino | Shanghai |
+| Sat, 14 Nov 2026 | Lx Music | Lisbon |
+| Sat, 14 Nov 2026 | LB Skybar | Baltimore |
 
 ## Recently played
 
@@ -23,6 +34,6 @@ Balance is a techno and industrial artist based in United Kingdom, with 16 gigs 
 
 ## Shares bills with
 
-Is (AM), Line, AnD
+Is (AM), Phone, Cable
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/balance/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/balance/)*

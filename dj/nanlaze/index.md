@@ -1,6 +1,6 @@
 # Nanlaze
 
-Nanlaze is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at DeTour, Tokyo on Sat, 14 Nov 2026.
+Nanlaze is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at DeTour, Tokyo on Sat, 14 Nov 2026.
 
 Nanlaze is a trance and techno artist based in Japan, with 89 gigs on soundcheck across London and Tokyo. Often billed alongside TORUKK, BEPPU and Tuyetmizuno. Next up: DeTour, Tokyo on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Nanlaze is a trance and techno artist based in Japan, with 89 gigs on soundcheck
 
 TORUKK, BEPPU, Tuyetmizuno
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nanlaze/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nanlaze/)*

@@ -1,14 +1,15 @@
 # Pascal Moscheni
 
-Pascal Moscheni is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at BORIS CLUB, Barcelona on Fri, 27 Nov 2026.
+Pascal Moscheni is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at BORIS CLUB, Barcelona on Fri, 27 Nov 2026.
 
-Pascal Moscheni is a house and techno artist based in Spain, with 81 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bordeaux and 21 more. Often billed alongside Simone de Kunovich, Dante (H501) and Pancratio. Next up: BORIS CLUB, Barcelona on Fri 27 Nov.
+Pascal Moscheni is a house and techno artist based in Spain, with 82 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bordeaux and 21 more. Often billed alongside Simone de Kunovich, Dante (H501) and Pancratio. Next up: BORIS CLUB, Barcelona on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | BORIS CLUB | Barcelona |
+| Fri, 9 Apr 2027 | Mercado Livre Arena Pacaembu | Sao-paulo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Pascal Moscheni is a house and techno artist based in Spain, with 81 gigs on sou
 
 Simone de Kunovich, Dante (H501), Pancratio
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pascalmoscheni/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pascalmoscheni/)*

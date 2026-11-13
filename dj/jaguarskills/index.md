@@ -1,6 +1,6 @@
 # Jaguar Skills
 
-Jaguar Skills is a Drum & Bass and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Joshua Brooks, Manchester on Sat, 21 Nov 2026.
+Jaguar Skills is a Drum & Bass and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Joshua Brooks, Manchester on Sat, 21 Nov 2026.
 
 Jaguar Skills is a drum & bass and house artist based in United Kingdom, with 11 gigs on soundcheck across Birmingham, Brighton, Ibiza and Liverpool and 3 more. Often billed alongside Plump DJs, Grooverider and Krafty Kuts. Next up: Joshua Brooks, Manchester on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Jaguar Skills is a drum & bass and house artist based in United Kingdom, with 11
 
 Plump DJs, Grooverider, Krafty Kuts
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaguarskills/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaguarskills/)*

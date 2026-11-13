@@ -1,14 +1,15 @@
 # Dav
 
-Dav is a Tech House and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Mali Barbarellas, Croatia on Fri, 20 Nov 2026.
+Dav is a Tech House and Electro artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Mali Barbarellas, Croatia on Fri, 20 Nov 2026.
 
-Dav is a tech house and electro artist based in Croatia, with 6 gigs on soundcheck across Croatia, Liverpool, London and Zagreb. Often billed alongside IGZ (HR), ADRIATIC COASTING and Amz. Next up: Mali Barbarellas, Croatia on Fri 20 Nov.
+Dav is a tech house and electro artist based in Croatia, with 7 gigs on soundcheck across Croatia, Liverpool, London and Tel Aviv and 1 more. Often billed alongside IGZ (HR), ADRIATIC COASTING and Amz. Next up: Mali Barbarellas, Croatia on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Mali Barbarellas | Croatia |
+| Fri, 20 Nov 2026 | TBA | Tel-aviv |
 | Thu, 19 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
@@ -22,4 +23,4 @@ Dav is a tech house and electro artist based in Croatia, with 6 gigs on soundche
 
 IGZ (HR), ADRIATIC COASTING, Amz
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dav/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dav/)*

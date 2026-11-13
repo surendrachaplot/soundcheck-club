@@ -1,6 +1,6 @@
 # ALLG
 
-ALLG is a Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Crackhouse, Gdansk on Fri, 13 Nov 2026.
+ALLG is a Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Crackhouse, Gdansk on Fri, 13 Nov 2026.
 
 ALLG is a bass and breakbeat artist based in Poland, with 34 gigs on soundcheck across Gdansk, Krakow, Poznan and Prague and 2 more. Often billed alongside monka, DiV4 and larissa. Next up: Crackhouse, Gdansk on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ ALLG is a bass and breakbeat artist based in Poland, with 34 gigs on soundcheck 
 
 monka, DiV4, larissa
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/allg/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/allg/)*

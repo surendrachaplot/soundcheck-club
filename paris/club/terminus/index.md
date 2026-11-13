@@ -1,6 +1,6 @@
 # Terminus
 
-Terminus is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Cult Collective & Le Diable Au Corps" on Sat, 21 Nov 2026.
+Terminus is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Cult Collective & Le Diable Au Corps" on Sat, 21 Nov 2026.
 
 Terminus is a music venue in Paris listed on soundcheck. 2 upcoming gigs, with line-ups including COLLISION, Mental, Tazlow and Tekno. See dates, start times and who's playing. 100 av du general Leclerc, Pantin.
 
@@ -15,4 +15,4 @@ Terminus is a music venue in Paris listed on soundcheck. 2 upcoming gigs, with l
 
 100 av du general Leclerc, Pantin, Paris
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/terminus/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/terminus/)*

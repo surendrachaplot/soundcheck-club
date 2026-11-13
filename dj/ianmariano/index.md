@@ -1,6 +1,6 @@
 # Ian Mariano
 
-Ian Mariano is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Lava Lounge 1307 Auburn Ave, Tremont, CLE, Cleveland on Fri, 20 Nov 2026.
+Ian Mariano is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Lava Lounge 1307 Auburn Ave, Tremont, CLE, Cleveland on Fri, 20 Nov 2026.
 
 Ian Mariano is a techno and house artist based in United States of America, with 11 gigs on soundcheck across Cleveland. Often billed alongside Andre Leone, Jesse Hawk and maksim.. Next up: TBA - Lava Lounge 1307 Auburn Ave, Tremont, CLE, Cleveland on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Ian Mariano is a techno and house artist based in United States of America, with
 
 Andre Leone, Jesse Hawk, maksim.
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ianmariano/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ianmariano/)*

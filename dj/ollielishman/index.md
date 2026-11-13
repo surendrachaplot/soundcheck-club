@@ -1,6 +1,6 @@
 # Ollie Lishman
 
-Ollie Lishman is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Preston Warehouse, Melbourne on Sat, 23 Jan 2027.
+Ollie Lishman is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Preston Warehouse, Melbourne on Sat, 23 Jan 2027.
 
 Ollie Lishman is a techno and trance artist based in Australia, with 151 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 46 more. Often billed alongside Bad Boombox, Janis Zielinski and Mischluft. Next up: Preston Warehouse, Melbourne on Sat 23 Jan.
 
@@ -25,4 +25,4 @@ Ollie Lishman is a techno and trance artist based in Australia, with 151 gigs on
 
 Bad Boombox, Janis Zielinski, Mischluft
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ollielishman/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ollielishman/)*

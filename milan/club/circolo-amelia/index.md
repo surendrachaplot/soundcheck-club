@@ -1,6 +1,6 @@
 # Circolo Amelia
 
-Circolo Amelia is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Closer 11th Years Birthday Amelia /// Oscar Mulero - Kangding Ray - Phara -Sansibar - others" on Sat, 14 Nov 2026.
+Circolo Amelia is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Closer 11th Years Birthday Amelia /// Oscar Mulero - Kangding Ray - Phara -Sansibar - others" on Sat, 14 Nov 2026.
 
 Circolo Amelia is a music venue in Milan listed on soundcheck. 2 upcoming gigs, with line-ups including AgainstMe, DJ Sotofett, Gianmarco Gazzillo and Inner Lakes and 2 more. See dates, start times and who's playing. via privata venezia giulia, 19 - Milan - Italy.
 
@@ -15,4 +15,4 @@ Circolo Amelia is a music venue in Milan listed on soundcheck. 2 upcoming gigs, 
 
 via privata venezia giulia, 19 - Milan - Italy, Milan
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/circolo-amelia/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/circolo-amelia/)*

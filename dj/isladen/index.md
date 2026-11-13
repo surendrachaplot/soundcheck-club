@@ -1,13 +1,14 @@
 # Isla Den
 
-Isla Den is a Pop and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Ground at Club Space, Miami on Sat, 14 Nov 2026.
+Isla Den is a Pop and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Fairmount Theatre, Montreal on Fri, 13 Nov 2026.
 
-Isla Den is a pop and trance artist based in Canada, with 36 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 11 more. Often billed alongside ESP, Malibu and Outback. Next up: The Ground at Club Space, Miami on Sat 14 Nov.
+Isla Den is a pop and trance artist based in Canada, with 37 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 11 more. Often billed alongside ESP, Malibu and Outback. Next up: Fairmount Theatre, Montreal on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | Fairmount Theatre | Montreal |
 | Sat, 14 Nov 2026 | The Ground at Club Space | Miami |
 | Sat, 23 Jan 2027 | Igloofest | Montreal |
 
@@ -26,4 +27,4 @@ Isla Den is a pop and trance artist based in Canada, with 36 gigs on soundcheck 
 
 ESP, Malibu, Outback
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/isladen/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/isladen/)*

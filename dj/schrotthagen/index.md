@@ -1,6 +1,6 @@
 # Schrotthagen
 
-Schrotthagen is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
+Schrotthagen is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
 
 Schrotthagen is a techno and trance artist based in Germany, with 65 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 24 more. Often billed alongside A.N.I., PRADA2000 and Kalte Liebe. Next up: The Queen Mary, Los Angeles on Fri 20 Nov.
 
@@ -30,4 +30,4 @@ Schrotthagen is a techno and trance artist based in Germany, with 65 gigs on sou
 
 A.N.I., PRADA2000, Kalte Liebe
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/schrotthagen/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/schrotthagen/)*

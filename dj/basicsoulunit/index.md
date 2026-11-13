@@ -1,6 +1,6 @@
 # Basic Soul Unit
 
-Basic Soul Unit is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Bambi's, Toronto on Sat, 21 Nov 2026.
+Basic Soul Unit is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Bambi's, Toronto on Sat, 21 Nov 2026.
 
 Basic Soul Unit is a house and deep house artist, with 13 gigs on soundcheck across Toronto. Often billed alongside HXF (JEEP MIX), Iced Misto and John Kong. Next up: Bambi's, Toronto on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Basic Soul Unit is a house and deep house artist, with 13 gigs on soundcheck acr
 
 HXF (JEEP MIX), Iced Misto, John Kong
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/basicsoulunit/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/basicsoulunit/)*

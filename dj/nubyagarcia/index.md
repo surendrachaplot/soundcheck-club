@@ -1,6 +1,6 @@
 # Nubya Garcia
 
-Nubya Garcia is a Disco and Dub artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
+Nubya Garcia is a Disco and Dub artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
 
 Nubya Garcia is a disco and dub artist based in United Kingdom, with 9 gigs on soundcheck across Austria, Berlin, London and Sydney and 1 more. Often billed alongside Gerd Janson, Mad Professor and Tash LC. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Nubya Garcia is a disco and dub artist based in United Kingdom, with 9 gigs on s
 
 Gerd Janson, Mad Professor, Tash LC
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nubyagarcia/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nubyagarcia/)*

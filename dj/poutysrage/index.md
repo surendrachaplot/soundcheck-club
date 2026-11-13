@@ -1,6 +1,6 @@
 # Pouty's Rage
 
-Pouty's Rage is a Jungle and Footwork artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Club 1722 Afterhours, Baltimore on Fri, 11 Dec 2026.
+Pouty's Rage is a Jungle and Footwork artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Club 1722 Afterhours, Baltimore on Fri, 11 Dec 2026.
 
 Pouty's Rage is a jungle and footwork artist based in United States of America, with 36 gigs on soundcheck across Baltimore, Denver, New York City and Philadelphia and 1 more. Often billed alongside PMMAIRE, Kade Young and Babypufff. Next up: Club 1722 Afterhours, Baltimore on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Pouty's Rage is a jungle and footwork artist based in United States of America, 
 
 PMMAIRE, Kade Young, Babypufff
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/poutysrage/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/poutysrage/)*

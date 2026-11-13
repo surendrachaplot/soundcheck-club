@@ -1,6 +1,6 @@
 # Picasso
 
-Picasso is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA, Tunisia on Fri, 27 Nov 2026.
+Picasso is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA, Tunisia on Fri, 27 Nov 2026.
 
 Picasso is a house and techno artist based in United Kingdom, with 42 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 12 more. Often billed alongside Bowyer, Kian OK and Duowe. Next up: TBA, Tunisia on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Picasso is a house and techno artist based in United Kingdom, with 42 gigs on so
 
 Bowyer, Kian OK, Duowe
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/picasso/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/picasso/)*

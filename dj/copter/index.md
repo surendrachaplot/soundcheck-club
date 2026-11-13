@@ -1,6 +1,6 @@
 # CØPTER
 
-CØPTER is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at De Fik Garden, Amsterdam on Sat, 5 Dec 2026.
+CØPTER is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at De Fik Garden, Amsterdam on Sat, 5 Dec 2026.
 
 CØPTER is a techno and house artist based in Netherlands, with 14 gigs on soundcheck across Amsterdam. Often billed alongside Gaya Carmeli, Alex Sharp and MIESØ. Next up: De Fik Garden, Amsterdam on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ CØPTER is a techno and house artist based in Netherlands, with 14 gigs on sound
 
 Gaya Carmeli, Alex Sharp, MIESØ
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/copter/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/copter/)*

@@ -1,6 +1,6 @@
 # MBB_
 
-MBB_ is a Club and UK Funky artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Soup, Manchester on Fri, 27 Nov 2026.
+MBB_ is a Club and UK Funky artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Soup, Manchester on Fri, 27 Nov 2026.
 
 MBB_ is a club and uk funky artist based in United Kingdom, with 30 gigs on soundcheck across Leeds, London and Manchester. Often billed alongside CONE, Lucian (UK) and Plan T. Next up: Soup, Manchester on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ MBB_ is a club and uk funky artist based in United Kingdom, with 30 gigs on soun
 
 CONE (2), Lucian (UK), Plan T
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mbb_/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mbb_/)*

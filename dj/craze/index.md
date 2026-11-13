@@ -1,6 +1,6 @@
 # Craze
 
-Craze is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Rabbit Hole, Charlotte on Sat, 21 Nov 2026.
+Craze is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Rabbit Hole, Charlotte on Sat, 21 Nov 2026.
 
 Craze is a drum & bass and jungle artist based in United States of America, with 71 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Austin and 23 more. Often billed alongside shinobi (US), Dillinja and Solartrak. Next up: The Rabbit Hole, Charlotte on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ Craze is a drum & bass and jungle artist based in United States of America, with
 
 shinobi (US), Dillinja, Solartrak
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/craze/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/craze/)*

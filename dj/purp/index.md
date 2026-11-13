@@ -1,6 +1,6 @@
 # purp
 
-purp is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Reactor Shanghai, Shanghai on Fri, 13 Nov 2026.
+purp is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Reactor Shanghai, Shanghai on Fri, 13 Nov 2026.
 
 purp is a club and techno artist based in United States of America, with 92 gigs on soundcheck across Amsterdam, Atlanta, Brussels and Los Angeles and 7 more. Often billed alongside Bodegaparty, jo_sway and JuanDeOne. Next up: Reactor Shanghai, Shanghai on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ purp is a club and techno artist based in United States of America, with 92 gigs
 
 Bodegaparty, jo_sway, JuanDeOne
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/purp/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/purp/)*

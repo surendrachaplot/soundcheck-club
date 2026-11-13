@@ -1,0 +1,28 @@
+# Jon Ali
+
+Jon Ali is a House and Pop artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Oberon, New York City on Sat, 14 Nov 2026.
+
+Jon Ali is a house and pop artist based in United States of America, with 10 gigs on soundcheck across New York City. Often billed alongside Lauren Flax, BAAZZLEY and Luis Fernando. Next up: Oberon, New York City on Sat 14 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 14 Nov 2026 | Oberon | New York City |
+
+## Recently played
+
+- Oberon, New York City · Sun, 8 Nov 2026
+- Oberon, New York City · Sun, 1 Nov 2026
+- Oberon, New York City · Sun, 18 Oct 2026
+- Oberon, New York City · Sun, 11 Oct 2026
+- Oberon, New York City · Sat, 26 Sept 2026
+- Oberon, New York City · Fri, 25 Sept 2026
+- Club Rawhide, New York City · Sat, 19 Sept 2026
+- Dead Letter No. 9, New York City · Sat, 27 Jun 2026
+
+## Shares bills with
+
+Lauren Flax, BAAZZLEY, Luis Fernando
+
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jonali/)*

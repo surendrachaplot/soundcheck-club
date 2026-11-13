@@ -1,8 +1,8 @@
 # C.ru.z
 
-C.ru.z is a Electro and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Razzmatazz, Barcelona on Sat, 14 Nov 2026.
+C.ru.z is a Electro and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Razzmatazz, Barcelona on Sat, 14 Nov 2026.
 
-C.ru.z is an electro and house artist based in Argentina, with 30 gigs on soundcheck across Barcelona, Berlin, Bucharest and Florence and 6 more. Often billed alongside DJ Tree, Dizzy and Niff. Next up: Razzmatazz, Barcelona on Sat 14 Nov.
+C.ru.z is an electro and house artist based in Argentina, with 31 gigs on soundcheck across Barcelona, Berlin, Bucharest and Florence and 6 more. Often billed alongside Dizzy, DJ Tree and Lumiere. Next up: Razzmatazz, Barcelona on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ C.ru.z is an electro and house artist based in Argentina, with 30 gigs on soundc
 | Sat, 14 Nov 2026 | Razzmatazz | Barcelona |
 | Thu, 31 Dec 2026 | Les Enfants Brillants | Barcelona |
 | Thu, 31 Dec 2026 | TBA | Barcelona |
+| Tue, 5 Jan 2027 | Les Enfants Brillants | Barcelona |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ C.ru.z is an electro and house artist based in Argentina, with 30 gigs on soundc
 
 ## Shares bills with
 
-DJ Tree, Dizzy, Niff
+Dizzy, DJ Tree, Lumiere
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/c.ru.z/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/c.ru.z/)*

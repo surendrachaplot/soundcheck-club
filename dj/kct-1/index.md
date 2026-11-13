@@ -1,14 +1,16 @@
 # KCT (1)
 
-KCT (1) is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Secret Venue in Minatoku-Nishiazabu, Tokyo on Sat, 14 Nov 2026.
+KCT (1) is a Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Cube, Tokyo on Fri, 13 Nov 2026.
 
-KCT is a bass and techno artist based in Japan, with 24 gigs on soundcheck across Tokyo. Often billed alongside AMIDAdrive, Rt3mis and SolaNino. Next up: Secret Venue in Minatoku-Nishiazabu, Tokyo on Sat 14 Nov.
+KCT is a bass and techno artist based in Japan, with 26 gigs on soundcheck across Tokyo. Often billed alongside AMIDAdrive, LØST and Rt3mis. Next up: Cube, Tokyo on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | Cube | Tokyo |
 | Sat, 14 Nov 2026 | Secret Venue in Minatoku-Nishiazabu | Tokyo |
+| Sat, 14 Nov 2026 | Violetta | Tokyo |
 
 ## Recently played
 
@@ -23,6 +25,6 @@ KCT is a bass and techno artist based in Japan, with 24 gigs on soundcheck acros
 
 ## Shares bills with
 
-AMIDAdrive, Rt3mis, SolaNino
+AMIDAdrive, LØST, Rt3mis
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kct-1/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kct-1/)*

@@ -1,6 +1,6 @@
 # JuliosMap
 
-JuliosMap is a Psytrance and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Racket Space, Dublin on Fri, 4 Dec 2026.
+JuliosMap is a Psytrance and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Racket Space, Dublin on Fri, 4 Dec 2026.
 
 JuliosMap is a psytrance and trance artist, with 16 gigs on soundcheck across Dublin. Often billed alongside Psydu, GABBØ and Not Related. Next up: The Racket Space, Dublin on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ JuliosMap is a psytrance and trance artist, with 16 gigs on soundcheck across Du
 
 Psydu, GABBØ, Not Related
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juliosmap/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juliosmap/)*

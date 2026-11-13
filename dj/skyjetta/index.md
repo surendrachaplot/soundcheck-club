@@ -1,14 +1,13 @@
 # SKY JETTA
 
-SKY JETTA is a Ghetto Tech and Club artist with 7 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Location Distributed Day Of, Chicago on Thu, 12 Nov 2026.
+SKY JETTA is a Ghetto Tech and Club artist with 6 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Northern Lights Lounge, Detroit on Fri, 13 Nov 2026.
 
-SKY JETTA is a ghetto tech and club artist based in United States of America, with 43 gigs on soundcheck across Atlanta, Chicago, Detroit and Houston and 6 more. Often billed alongside DJ KILLA SQUID, Daniro and Donavan Glover. Next up: TBA - Location Distributed Day Of, Chicago on Thu 12 Nov.
+SKY JETTA is a ghetto tech and club artist based in United States of America, with 43 gigs on soundcheck across Atlanta, Chicago, Detroit and Houston and 6 more. Often billed alongside DJ KILLA SQUID, Daniro and Donavan Glover. Next up: Northern Lights Lounge, Detroit on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 12 Nov 2026 | TBA - Location Distributed Day Of | Chicago |
 | Fri, 13 Nov 2026 | Northern Lights Lounge | Detroit |
 | Sat, 14 Nov 2026 | Boondocks | Houston |
 | Thu, 19 Nov 2026 | TBA - Sent to ticket holders day of | New York City |
@@ -18,6 +17,7 @@ SKY JETTA is a ghetto tech and club artist based in United States of America, wi
 
 ## Recently played
 
+- TBA - Location Distributed Day Of, Chicago · Thu, 12 Nov 2026
 - TBA, Los Angeles · Sat, 26 Sept 2026
 - ZeyZey, Miami · Sat, 5 Sept 2026
 - H0L0, New York City · Thu, 27 Aug 2026
@@ -25,10 +25,9 @@ SKY JETTA is a ghetto tech and club artist based in United States of America, wi
 - Big Pink, Detroit · Sun, 24 May 2026
 - Paramita Sound, Detroit · Fri, 22 May 2026
 - Green Room NYC, New York City · Fri, 8 May 2026
-- Le Bain, New York City · Thu, 26 Mar 2026
 
 ## Shares bills with
 
 DJ KILLA SQUID, Daniro, Donavan Glover
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skyjetta/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skyjetta/)*

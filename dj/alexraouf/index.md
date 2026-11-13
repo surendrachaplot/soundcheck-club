@@ -1,6 +1,6 @@
 # Alex Raouf
 
-Alex Raouf is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at MAD Radio NYC, New York City on Sat, 21 Nov 2026.
+Alex Raouf is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at MAD Radio NYC, New York City on Sat, 21 Nov 2026.
 
 Alex Raouf is a house and deep house artist based in United States of America, with 31 gigs on soundcheck across New York City. Often billed alongside AG (NYC), Omar Ludwig and ROLO (NYC). Next up: MAD Radio NYC, New York City on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Alex Raouf is a house and deep house artist based in United States of America, w
 
 AG (NYC), Omar Ludwig, ROLO (NYC)
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexraouf/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexraouf/)*

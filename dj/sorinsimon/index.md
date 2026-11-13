@@ -1,6 +1,6 @@
 # Sorin Simon
 
-Sorin Simon is a Minimal and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Secret Location TBA, London on Sat, 28 Nov 2026.
+Sorin Simon is a Minimal and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Secret Location TBA, London on Sat, 28 Nov 2026.
 
 Sorin Simon is a minimal and minimal techno artist based in Romania, with 31 gigs on soundcheck across Berlin, Birmingham, Bristol and Hong Kong and 4 more. Often billed alongside Vlad Ioachimescu, ILIE (RO) and Tudor. Next up: TBA - Secret Location TBA, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Sorin Simon is a minimal and minimal techno artist based in Romania, with 31 gig
 
 Vlad Ioachimescu, ILIE (RO), Tudor
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sorinsimon/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sorinsimon/)*

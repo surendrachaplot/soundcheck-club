@@ -1,6 +1,6 @@
 # miss kookie
 
-miss kookie is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at H2o6, Riga on Sat, 28 Nov 2026.
+miss kookie is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at H2o6, Riga on Sat, 28 Nov 2026.
 
 miss kookie is a techno and electro artist based in Latvia, with 16 gigs on soundcheck across Helsinki and Riga. Often billed alongside Freiya March, Pulss and EKVA. Next up: H2o6, Riga on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ miss kookie is a techno and electro artist based in Latvia, with 16 gigs on soun
 
 Freiya March, Pulss, EKVA
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/misskookie/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/misskookie/)*

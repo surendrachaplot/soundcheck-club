@@ -1,6 +1,6 @@
 # ninon.
 
-ninon. is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Club Exil, Vienna on Fri, 20 Nov 2026.
+ninon. is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Club Exil, Vienna on Fri, 20 Nov 2026.
 
 ninon. is a techno and dub techno artist based in Austria, with 8 gigs on soundcheck across Vienna. Often billed alongside VOLTMARIE, Eminelli and PAUNA. Next up: Club Exil, Vienna on Fri 20 Nov.
 
@@ -24,4 +24,4 @@ ninon. is a techno and dub techno artist based in Austria, with 8 gigs on soundc
 
 VOLTMARIE, Eminelli, PAUNA
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ninon./)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ninon./)*

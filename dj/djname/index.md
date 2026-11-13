@@ -1,14 +1,15 @@
 # DJ Name
 
-DJ Name is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Music Room, Melbourne on Sat, 14 Nov 2026.
+DJ Name is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Music Room, Melbourne on Sat, 14 Nov 2026.
 
-DJ Name is a house and deep house artist based in New Zealand, with 29 gigs on soundcheck across Auckland, Christchurch and Melbourne. Often billed alongside Logan Baker, Char(k) and Jay Tripwire. Next up: Music Room, Melbourne on Sat 14 Nov.
+DJ Name is a house and tech house artist based in New Zealand, with 30 gigs on soundcheck across Auckland, Christchurch and Melbourne. Often billed alongside Char(k), Logan Baker and Guy Contact. Next up: Music Room, Melbourne on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Music Room | Melbourne |
+| Fri, 4 Dec 2026 | Solace | Melbourne |
 | Sat, 19 Dec 2026 | Angel Music Bar | Melbourne |
 
 ## Recently played
@@ -24,6 +25,6 @@ DJ Name is a house and deep house artist based in New Zealand, with 29 gigs on s
 
 ## Shares bills with
 
-Logan Baker, Char(k), Jay Tripwire
+Char(k), Logan Baker, Guy Contact
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djname/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djname/)*

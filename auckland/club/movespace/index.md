@@ -1,6 +1,6 @@
 # Movespace
 
-Movespace is a music venue in Auckland with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "Sonic Prism" on Sat, 21 Nov 2026.
+Movespace is a music venue in Auckland with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "Sonic Prism" on Sat, 21 Nov 2026.
 
 Movespace is a music venue in Auckland listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Movespace is a music venue in Auckland listed on soundcheck. 1 upcoming gig. See
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Sonic Prism |  |
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/movespace/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/movespace/)*

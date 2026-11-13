@@ -1,6 +1,6 @@
 # Anthony Nicholson
 
-Anthony Nicholson is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Podlasie Club, Chicago on Sat, 28 Nov 2026.
+Anthony Nicholson is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Podlasie Club, Chicago on Sat, 28 Nov 2026.
 
 Anthony Nicholson is a house and deep house artist based in United States of America, with 13 gigs on soundcheck across Chicago, Detroit and New York City. Often billed alongside Vick Lavender, Quicktastic and AMG (UK). Next up: Podlasie Club, Chicago on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Anthony Nicholson is a house and deep house artist based in United States of Ame
 
 Vick Lavender, Quicktastic, AMG (UK)
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonynicholson/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonynicholson/)*

@@ -1,13 +1,14 @@
 # Bassik
 
-Bassik is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Ostrich Farm, Cape-town on Fri, 4 Dec 2026.
+Bassik is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Bunker, Turin on Fri, 27 Nov 2026.
 
-Bassik is a techno and house artist based in Italy, with 32 gigs on soundcheck across Barcelona, Cape Town, Istanbul and Johannesburg and 2 more. Often billed alongside Distorted Planet, Gandalf and Ectoplasm. Next up: The Ostrich Farm, Cape Town on Fri 4 Dec.
+Bassik is a techno and house artist based in Italy, with 33 gigs on soundcheck across Barcelona, Cape Town, Istanbul and Johannesburg and 2 more. Often billed alongside Distorted Planet, Gandalf and Ectoplasm. Next up: Bunker, Turin on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | Bunker | Turin |
 | Fri, 4 Dec 2026 | The Ostrich Farm | Cape-town |
 | Sat, 5 Dec 2026 | The Canvas | Johannesburg |
 
@@ -26,4 +27,4 @@ Bassik is a techno and house artist based in Italy, with 32 gigs on soundcheck a
 
 Distorted Planet, Gandalf, Ectoplasm
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bassik/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bassik/)*

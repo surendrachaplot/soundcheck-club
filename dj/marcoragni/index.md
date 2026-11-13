@@ -1,14 +1,15 @@
 # Marco Ragni
 
-Marco Ragni is a Dub Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Aula, Central on Sat, 14 Nov 2026.
+Marco Ragni is a Dub Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Aula, Central on Sat, 14 Nov 2026.
 
-Marco Ragni is a dub techno and experimental artist based in Italy, with 12 gigs on soundcheck across Barcelona, Berlin, Central and Milan and 1 more. Often billed alongside Sandra Mason, Christian Duka and DJ Red. Next up: Aula, Central on Sat 14 Nov.
+Marco Ragni is a dub techno and experimental artist based in Italy, with 13 gigs on soundcheck across Barcelona, Berlin, Central and Milan and 1 more. Often billed alongside Sandra Mason, Hugo Sanchez and Christian Duka. Next up: Aula, Central on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Aula | Central |
+| Sat, 5 Dec 2026 | TBA | Rome |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Marco Ragni is a dub techno and experimental artist based in Italy, with 12 gigs
 
 ## Shares bills with
 
-Sandra Mason, Christian Duka, DJ Red
+Sandra Mason, Hugo Sanchez, Christian Duka
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoragni/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoragni/)*

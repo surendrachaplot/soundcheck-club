@@ -1,14 +1,14 @@
 # Valdagger
 
-Valdagger is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Elastica, Vilnius on Thu, 12 Nov 2026.
+Valdagger is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Elastica, Vilnius on Fri, 13 Nov 2026.
 
-Valdagger is a techno and house artist based in Lithuania, with 62 gigs on soundcheck across Berlin, Krakow, Paris and Riga and 3 more. Often billed alongside Mirror Slave, Phase Line and Mario Moretti. Next up: Elastica, Vilnius on Thu 12 Nov.
+Valdagger is a techno and house artist based in Lithuania, with 62 gigs on soundcheck across Berlin, Krakow, Paris and Riga and 3 more. Often billed alongside Mirror Slave, Phase Line and Mario Moretti. Next up: Elastica, Vilnius on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 12 Nov 2026 | Elastica | Vilnius |
+| Fri, 13 Nov 2026 | Elastica | Vilnius |
 | Fri, 20 Nov 2026 | gallery 1986 | Vilnius |
 
 ## Recently played
@@ -26,4 +26,4 @@ Valdagger is a techno and house artist based in Lithuania, with 62 gigs on sound
 
 Mirror Slave, Phase Line, Mario Moretti
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/valdagger/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/valdagger/)*

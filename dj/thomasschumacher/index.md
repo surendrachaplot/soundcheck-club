@@ -1,6 +1,6 @@
 # Thomas Schumacher
 
-Thomas Schumacher is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Carousel Bar & Ballroom, Sydney on Fri, 13 Nov 2026.
+Thomas Schumacher is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Carousel Bar & Ballroom, Sydney on Fri, 13 Nov 2026.
 
 Thomas Schumacher is a techno and house artist based in Germany, with 118 gigs on soundcheck across Adelaide, Amsterdam, Augsburg and Baden W Rttemberg and 47 more. Often billed alongside Anna Reusch, A.D.H.S. and Alex Stein. Next up: Carousel Bar & Ballroom, Sydney on Fri 13 Nov.
 
@@ -35,4 +35,4 @@ Thomas Schumacher is a techno and house artist based in Germany, with 118 gigs o
 
 Anna Reusch, A.D.H.S., Alex Stein
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasschumacher/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasschumacher/)*

@@ -1,6 +1,6 @@
 # Vorus
 
-Vorus is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at UNDERCITY, Seoul on Sat, 21 Nov 2026.
+Vorus is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at UNDERCITY, Seoul on Sat, 21 Nov 2026.
 
 Vorus is a techno and house artist based in South Korea, with 15 gigs on soundcheck across Seoul. Often billed alongside KIMNA, LORI (KR) and No/ah. Next up: UNDERCITY, Seoul on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Vorus is a techno and house artist based in South Korea, with 15 gigs on soundch
 
 KIMNA, LORI (KR), No/ah
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vorus/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vorus/)*

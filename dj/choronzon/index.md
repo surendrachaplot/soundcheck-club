@@ -1,8 +1,8 @@
 # Choronzon
 
-Choronzon is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Samis Bar, Athens on Fri, 20 Nov 2026.
+Choronzon is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Samis Bar, Athens on Fri, 20 Nov 2026.
 
-Choronzon is a techno and industrial artist based in United Kingdom, with 35 gigs on soundcheck across Athens, Berlin, Birmingham and Glasgow and 2 more. Often billed alongside Dahc Dermur VIII, Rangelova and Ancient Methods. Next up: Samis Bar, Athens on Fri 20 Nov.
+Choronzon is a techno and industrial artist based in United Kingdom, with 36 gigs on soundcheck across Athens, Berlin, Birmingham and Glasgow and 2 more. Often billed alongside Dahc Dermur VIII, Rangelova and Ancient Methods. Next up: Samis Bar, Athens on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Choronzon is a techno and industrial artist based in United Kingdom, with 35 gig
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Samis Bar | Athens |
 | Fri, 27 Nov 2026 | Astron Club | Athens |
+| Fri, 11 Dec 2026 | ROSA | Berlin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Choronzon is a techno and industrial artist based in United Kingdom, with 35 gig
 
 Dahc Dermur VIII, Rangelova, Ancient Methods
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/choronzon/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/choronzon/)*

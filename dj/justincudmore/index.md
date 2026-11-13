@@ -1,6 +1,6 @@
 # Justin Cudmore
 
-Justin Cudmore is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Chicago Eagle, Chicago on Sat, 14 Nov 2026.
+Justin Cudmore is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Chicago Eagle, Chicago on Sat, 14 Nov 2026.
 
 Justin Cudmore is a house and techno artist based in United States of America, with 109 gigs on soundcheck across Amsterdam, Berlin, Chicago and Detroit and 9 more. Often billed alongside Mike Servito, Lauren Flax and Hiroko Yamamura. Next up: Chicago Eagle, Chicago on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Justin Cudmore is a house and techno artist based in United States of America, w
 
 Mike Servito, Lauren Flax, Hiroko Yamamura
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/justincudmore/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/justincudmore/)*

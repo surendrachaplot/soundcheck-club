@@ -1,6 +1,6 @@
 # Cassy
 
-Cassy is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at REC Napoli, Naples on Sat, 21 Nov 2026.
+Cassy is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at REC Napoli, Naples on Sat, 21 Nov 2026.
 
 Cassy is a house and techno artist based in United Kingdom, with 186 gigs on soundcheck across Amsterdam, Bali, Baltimore and Barcelona and 58 more. Often billed alongside Carlos Valdes, Anja Schneider and Konstantin. Next up: REC Napoli, Naples on Sat 21 Nov.
 
@@ -29,4 +29,4 @@ Cassy is a house and techno artist based in United Kingdom, with 186 gigs on sou
 
 Carlos Valdes, Anja Schneider, Konstantin
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cassy/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cassy/)*

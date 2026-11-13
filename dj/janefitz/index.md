@@ -1,8 +1,8 @@
 # Jane Fitz
 
-Jane Fitz is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Spazio Varco, North on Sat, 14 Nov 2026.
+Jane Fitz is a Techno and House artist with 17 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Spazio Varco, North on Sat, 14 Nov 2026.
 
-Jane Fitz is a techno and house artist based in United Kingdom, with 200 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 46 more. Often billed alongside Marco Shuttle, Francesco Del Garda and Carl H. Next up: Spazio Varco, North on Sat 14 Nov.
+Jane Fitz is a techno and house artist based in United Kingdom, with 202 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 46 more. Often billed alongside Francesco Del Garda, Marco Shuttle and Carl H. Next up: Spazio Varco, North on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -15,11 +15,11 @@ Jane Fitz is a techno and house artist based in United Kingdom, with 200 gigs on
 | Sat, 12 Dec 2026 | FOLD | London |
 | Sat, 12 Dec 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sun, 20 Dec 2026 | Macadam | Nantes |
+| Sat, 26 Dec 2026 | Cocoricò | North |
 | Fri, 22 Jan 2027 | The Golden Lion | Manchester |
+| Sat, 6 Feb 2027 | Basic Club | Naples |
 | Thu, 11 Mar 2027 | Casa Montjuïc & Vall d'Hebron Olympic Pavilion | Barcelona |
 | Fri, 2 Apr 2027 | TBA | Sheffield |
-| Sat, 3 Apr 2027 | Maimarkthalle | Mannheim |
-| Fri, 28 May 2027 | Paraje Natural de la Ermita de los Tres Juanes | South |
 
 ## Recently played
 
@@ -34,6 +34,6 @@ Jane Fitz is a techno and house artist based in United Kingdom, with 200 gigs on
 
 ## Shares bills with
 
-Marco Shuttle, Francesco Del Garda, Carl H
+Francesco Del Garda, Marco Shuttle, Carl H
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janefitz/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janefitz/)*

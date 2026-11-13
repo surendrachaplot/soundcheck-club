@@ -1,6 +1,6 @@
 # Phill Barrera
 
-Phill Barrera is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Japan Monterrey, Mexico City on Thu, 19 Nov 2026.
+Phill Barrera is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Japan Monterrey, Mexico City on Thu, 19 Nov 2026.
 
 Phill Barrera is a house and downtempo artist based in Mexico, with 43 gigs on soundcheck across Mexico City. Often billed alongside kopo, Gzuz and IRONBOARD. Next up: Japan Monterrey, Mexico City on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Phill Barrera is a house and downtempo artist based in Mexico, with 43 gigs on s
 
 kopo, Gzuz, IRONBOARD
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/phillbarrera/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/phillbarrera/)*

@@ -1,6 +1,6 @@
 # Simon SMTHNG
 
-Simon SMTHNG is a Footwork and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Bassment Charlotte, Charlotte on Fri, 27 Nov 2026.
+Simon SMTHNG is a Footwork and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Bassment Charlotte, Charlotte on Fri, 27 Nov 2026.
 
 Simon SMTHNG is a footwork and ghetto tech artist based in United States of America, with 14 gigs on soundcheck across Atlanta, Boston, Charlotte and Miami. Often billed alongside DJ Extraa, BABY COUSIN TAY TAY and DJ RPG. Next up: Bassment Charlotte, Charlotte on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Simon SMTHNG is a footwork and ghetto tech artist based in United States of Amer
 
 DJ Extraa, BABY COUSIN TAY TAY, DJ RPG
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simonsmthng/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simonsmthng/)*

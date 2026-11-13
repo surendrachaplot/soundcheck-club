@@ -1,6 +1,6 @@
 # The DBA
 
-The DBA is a music venue in Manchester with 19 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "This Guy presents: SHOWDOWN" on Fri, 13 Nov 2026.
+The DBA is a music venue in Manchester with 19 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "This Guy presents: SHOWDOWN" on Fri, 13 Nov 2026.
 
 The DBA is a music venue in Manchester listed on soundcheck. 19 upcoming gigs, with line-ups including 4D, 4STR0, 99NYNEX and aalice and 2 more. See dates, start times and who's playing. 95 Cheetham Hill Rd, Cheetham Hill, Manchester M8 8PY.
 
@@ -17,10 +17,10 @@ The DBA is a music venue in Manchester listed on soundcheck. 19 upcoming gigs, w
 | Wed, 25 Nov 2026 | Evacuate the Dancefloor: Cyb3r wint3r | 99NYNEX, Baba Sketch, DJ Crash Course, Lucky Bunny, Princess Elf Bar, Willow J |
 | Fri, 27 Nov 2026 | Distant Future - Flo Massé Enrico Vivaldi Morrin | Enrico Vivaldi, Flo Massé |
 | Sat, 28 Nov 2026 | Me Gusta Collective presents T.NO | Atiké, Obeka, T.NO |
-| Thu, 3 Dec 2026 | VALIS 2.0 - The Modern Prometheus | Jarvis Bitcoin, Yyre, ZOLATEC |
+| Thu, 3 Dec 2026 | VALIS 2.0 - The Modern Prometheus | Jarvis Bitcoin, S3ROC, Yyre, ZOLATEC |
 
 ## Address
 
 95 Cheetham Hill Rd, Cheetham Hill, Manchester M8 8PY, Manchester
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-dba/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-dba/)*

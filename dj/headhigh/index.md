@@ -1,6 +1,6 @@
 # Head High
 
-Head High is a Dub Techno and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 12 Dec 2026.
+Head High is a Dub Techno and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 12 Dec 2026.
 
 Head High is a dub techno and techno artist based in Germany, with 16 gigs on soundcheck across Berlin, London, Madrid and Mexico City and 3 more. Often billed alongside Shed, Ahadadream and Bakey. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Head High is a dub techno and techno artist based in Germany, with 16 gigs on so
 
 Shed, Ahadadream, Bakey
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/headhigh/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/headhigh/)*

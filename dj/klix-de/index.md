@@ -1,6 +1,6 @@
 # Klix (DE)
 
-Klix (DE) is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Hoppetosse, Berlin on Sat, 5 Dec 2026.
+Klix (DE) is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Hoppetosse, Berlin on Sat, 5 Dec 2026.
 
 Klix (DE) is a house and trance artist based in Germany, with 8 gigs on soundcheck across Berlin, Frankfurt and Heidelberg. Often billed alongside Monti1one, Tom Ries and Klix. Next up: Hoppetosse, Berlin on Sat 5 Dec.
 
@@ -24,4 +24,4 @@ Klix (DE) is a house and trance artist based in Germany, with 8 gigs on soundche
 
 Monti1one, Tom Ries, Klix (3)
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/klix-de/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/klix-de/)*

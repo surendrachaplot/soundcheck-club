@@ -1,6 +1,6 @@
 # Jimmy Allen
 
-Jimmy Allen is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at 24 Kitchen Street, Liverpool on Fri, 4 Dec 2026.
+Jimmy Allen is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at 24 Kitchen Street, Liverpool on Fri, 4 Dec 2026.
 
 Jimmy Allen is a house and disco artist based in United Kingdom, with 27 gigs on soundcheck across Edinburgh, Lisbon, Liverpool and Manchester and 1 more. Often billed alongside Craig Smith, DJ Spen and Ella Knight. Next up: 24 Kitchen Street, Liverpool on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Jimmy Allen is a house and disco artist based in United Kingdom, with 27 gigs on
 
 Craig Smith, DJ Spen, Ella Knight
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jimmyallen/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jimmyallen/)*

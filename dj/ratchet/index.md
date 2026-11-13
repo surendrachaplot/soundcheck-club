@@ -1,6 +1,6 @@
 # Ratchet
 
-Ratchet is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Ctrllab Art House and Gallery, Montreal on Fri, 4 Dec 2026.
+Ratchet is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Ctrllab Art House and Gallery, Montreal on Fri, 4 Dec 2026.
 
 Ratchet is a techno and trance artist based in France, with 12 gigs on soundcheck across Montreal. Often billed alongside Char.l.n, Xaviera and 2HOT2PLAY. Next up: Ctrllab Art House and Gallery, Montreal on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Ratchet is a techno and trance artist based in France, with 12 gigs on soundchec
 
 Char.l.n, Xaviera, 2HOT2PLAY
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ratchet/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ratchet/)*

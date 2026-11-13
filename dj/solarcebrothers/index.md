@@ -1,6 +1,6 @@
 # Solarce Brothers
 
-Solarce Brothers is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Museu do Amanhã, Rio de Janeiro on Mon, 8 Feb 2027.
+Solarce Brothers is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Museu do Amanhã, Rio de Janeiro on Mon, 8 Feb 2027.
 
 Solarce Brothers is a house and tech house artist based in Brazil, with 12 gigs on soundcheck across Amsterdam, Lyon, Malta and Rio de Janeiro and 1 more. Often billed alongside Mochakk, Halfcab and Seth Troxler. Next up: Museu do Amanhã, Rio de Janeiro on Mon 8 Feb.
 
@@ -25,4 +25,4 @@ Solarce Brothers is a house and tech house artist based in Brazil, with 12 gigs 
 
 Mochakk, Halfcab, Seth Troxler
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/solarcebrothers/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/solarcebrothers/)*

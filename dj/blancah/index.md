@@ -1,6 +1,6 @@
 # BLANCAh
 
-BLANCAh is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Terraza Music Park, Brazil on Sat, 14 Nov 2026.
+BLANCAh is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Terraza Music Park, Brazil on Sat, 14 Nov 2026.
 
 BLANCAh is a techno and progressive house artist based in Brazil, with 18 gigs on soundcheck across Amsterdam, Barcelona, Brazil and Buenos Aires and 3 more. Often billed alongside 8KAYS, Morttagua and Acid Asian. Next up: Terraza Music Park, Brazil on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ BLANCAh is a techno and progressive house artist based in Brazil, with 18 gigs o
 
 8KAYS, Morttagua, Acid Asian
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blancah/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blancah/)*

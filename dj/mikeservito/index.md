@@ -1,6 +1,6 @@
 # Mike Servito
 
-Mike Servito is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Collapse, Pittsburgh on Fri, 13 Nov 2026.
+Mike Servito is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Collapse, Pittsburgh on Fri, 13 Nov 2026.
 
 Mike Servito is a house and techno artist based in United States of America, with 318 gigs on soundcheck across Amsterdam, Atlanta, Austin and Berlin and 38 more. Often billed alongside Shaun J. Wright, Erika and Carlos Souffront. Next up: TBA - Collapse, Pittsburgh on Fri 13 Nov.
 
@@ -34,4 +34,4 @@ Mike Servito is a house and techno artist based in United States of America, wit
 
 Shaun J. Wright, Erika, Carlos Souffront
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeservito/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeservito/)*

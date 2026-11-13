@@ -1,6 +1,6 @@
 # Maz (BR)
 
-Maz (BR) is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Museu do Amanhã, Rio de Janeiro on Sat, 14 Nov 2026.
+Maz (BR) is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Museu do Amanhã, Rio de Janeiro on Sat, 14 Nov 2026.
 
 Maz (BR) is a house and tech house artist based in Brazil, with 123 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 36 more. Often billed alongside Antdot, Vintage Culture and ANNA. Next up: Museu do Amanhã, Rio de Janeiro on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Maz (BR) is a house and tech house artist based in Brazil, with 123 gigs on soun
 
 Antdot, Vintage Culture, ANNA
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mazbr/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mazbr/)*

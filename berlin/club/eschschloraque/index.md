@@ -1,6 +1,6 @@
 # Eschschloraque
 
-Eschschloraque is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Dj nuarrrrr" on Fri, 13 Nov 2026.
+Eschschloraque is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Dj nuarrrrr" on Fri, 13 Nov 2026.
 
 Eschschloraque is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with line-ups including MissVergnügen, nuarrrrr, Tornadotoni and Yves Taubert. See dates, start times and who's playing. Rosenthaler Str. 39, 10178 Berlin, Germany.
 
@@ -22,4 +22,4 @@ Eschschloraque is a music venue in Berlin listed on soundcheck. 9 upcoming gigs,
 
 Rosenthaler Str. 39, 10178 Berlin, Germany, Berlin
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/eschschloraque/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/eschschloraque/)*

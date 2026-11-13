@@ -1,6 +1,6 @@
 # Ambient Bar BKK
 
-Ambient Bar BKK is a music venue in Bangkok with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "Ambient presents Gishiyama" on Sun, 15 Nov 2026.
+Ambient Bar BKK is a music venue in Bangkok with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "Ambient presents Gishiyama" on Sun, 15 Nov 2026.
 
 Ambient Bar BKK is a music venue in Bangkok listed on soundcheck. 1 upcoming gig, with line-ups including Gishiyama. See dates, start times and who's playing. 300 Soi Sirichai 2, Samran Rat, Phra Nakhon, Bangkok 10200, Thailand.
 
@@ -14,4 +14,4 @@ Ambient Bar BKK is a music venue in Bangkok listed on soundcheck. 1 upcoming gig
 
 300 Soi Sirichai 2, Samran Rat, Phra Nakhon, Bangkok 10200, Thailand, Bangkok
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/ambient-bar-bkk/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/ambient-bar-bkk/)*

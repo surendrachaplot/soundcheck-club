@@ -1,6 +1,6 @@
 # LUV.DELUXE
 
-LUV.DELUXE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Humboldthain Club, Berlin on Sat, 5 Dec 2026.
+LUV.DELUXE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Humboldthain Club, Berlin on Sat, 5 Dec 2026.
 
 LUV.DELUXE is a techno and house artist based in Germany, with 10 gigs on soundcheck across Berlin. Often billed alongside HNX, Cobb Douglas and SPEEDO. Next up: Humboldthain Club, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ LUV.DELUXE is a techno and house artist based in Germany, with 10 gigs on soundc
 
 HNX (030), Cobb Douglas, SPEEDO (2)
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luv.deluxe/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luv.deluxe/)*

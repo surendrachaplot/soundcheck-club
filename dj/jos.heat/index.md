@@ -1,6 +1,6 @@
 # Jos.heat
 
-Jos.heat is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at La Cheetah Club, Glasgow on Thu, 3 Dec 2026.
+Jos.heat is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at La Cheetah Club, Glasgow on Thu, 3 Dec 2026.
 
 Jos.heat is a techno and house artist based in United Kingdom, with 10 gigs on soundcheck across Glasgow and Sofia. Often billed alongside Atia (BG), Brad Herbert and D4N. Next up: La Cheetah Club, Glasgow on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Jos.heat is a techno and house artist based in United Kingdom, with 10 gigs on s
 
 Atia (BG), Brad Herbert, D4N (1)
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jos.heat/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jos.heat/)*

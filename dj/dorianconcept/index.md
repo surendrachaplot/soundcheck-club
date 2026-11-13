@@ -1,14 +1,15 @@
 # Dorian Concept
 
-Dorian Concept is a Experimental and IDM artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Racket Space, Dublin on Sat, 14 Nov 2026.
+Dorian Concept is a Ambient and Experimental artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Racket Space, Dublin on Sat, 14 Nov 2026.
 
-Dorian Concept is an experimental and idm artist based in Austria, with 7 gigs on soundcheck across Amsterdam, Austria, Berlin and Dublin and 3 more. Often billed alongside ABADIR, Altroy Jerome and Anouschka. Next up: The Racket Space, Dublin on Sat 14 Nov.
+Dorian Concept is an ambient and experimental artist based in Austria, with 8 gigs on soundcheck across Amsterdam, Austria, Berlin and Dublin and 3 more. Often billed alongside ABADIR, Altroy Jerome and Anouschka. Next up: The Racket Space, Dublin on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | The Racket Space | Dublin |
+| Fri, 20 Nov 2026 | Pastiche | Berlin |
 | Thu, 4 Mar 2027 | Dom im Berg | Austria |
 
 ## Recently played
@@ -23,4 +24,4 @@ Dorian Concept is an experimental and idm artist based in Austria, with 7 gigs o
 
 ABADIR, Altroy Jerome, Anouschka
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dorianconcept/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dorianconcept/)*

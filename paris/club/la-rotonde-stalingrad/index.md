@@ -1,6 +1,6 @@
 # La Rotonde Stalingrad
 
-La Rotonde Stalingrad is a music venue in Paris with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "CRUSH #3 ・ New Club" on Sat, 21 Nov 2026.
+La Rotonde Stalingrad is a music venue in Paris with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "CRUSH #3 ・ New Club" on Sat, 21 Nov 2026.
 
 La Rotonde Stalingrad is a music venue in Paris listed on soundcheck. 3 upcoming gigs, with line-ups including DMN DJ, Karmakiddo and Lith Li. See dates, start times and who's playing. 6-8 Place de la Bataille de Stalingrad - 75019 Paris.
 
@@ -16,4 +16,4 @@ La Rotonde Stalingrad is a music venue in Paris listed on soundcheck. 3 upcoming
 
 6-8 Place de la Bataille de Stalingrad - 75019 Paris, Paris
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-rotonde-stalingrad/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-rotonde-stalingrad/)*

@@ -1,6 +1,6 @@
 # Claudia Kane
 
-Claudia Kane is a EBM and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Electrowerkz, London on Fri, 27 Nov 2026.
+Claudia Kane is a EBM and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Electrowerkz, London on Fri, 27 Nov 2026.
 
 Claudia Kane is an ebm and techno artist based in United Kingdom, with 27 gigs on soundcheck across Berlin, Ljubljana and London. Often billed alongside Ricardo Castro, Arrosa and METALLIC LOVER. Next up: Electrowerkz, London on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Claudia Kane is an ebm and techno artist based in United Kingdom, with 27 gigs o
 
 Ricardo Castro, Arrosa, METALLIC LOVER
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/claudiakane/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/claudiakane/)*

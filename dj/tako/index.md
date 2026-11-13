@@ -1,6 +1,6 @@
 # Tako
 
-Tako is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Garden Tisno, Croatia on Thu, 19 Aug 2027.
+Tako is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Garden Tisno, Croatia on Thu, 19 Aug 2027.
 
 Tako is a house and disco artist based in Netherlands, with 21 gigs on soundcheck across Amsterdam, Athens, Belgrade and Berlin and 9 more. Often billed alongside Chevy, Kennedy and K.atou. Next up: The Garden Tisno, Croatia on Thu 19 Aug.
 
@@ -25,4 +25,4 @@ Tako is a house and disco artist based in Netherlands, with 21 gigs on soundchec
 
 Chevy, Kennedy, K.atou
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tako/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tako/)*

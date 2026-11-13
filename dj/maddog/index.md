@@ -1,18 +1,18 @@
 # MADDØG
 
-MADDØG is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Dalston Superstore, London on Thu, 12 Nov 2026.
+MADDØG is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Tola, London on Sat, 14 Nov 2026.
 
-MADDØG is a house and techno artist based in United States of America, with 17 gigs on soundcheck across Berlin and London. Often billed alongside Love Sensation, Rux (UK) and Kidcat. Next up: Dalston Superstore, London on Thu 12 Nov.
+MADDØG is a house and techno artist based in United States of America, with 17 gigs on soundcheck across Berlin and London. Often billed alongside Love Sensation, Rux (UK) and Kidcat. Next up: Tola, London on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 12 Nov 2026 | Dalston Superstore | London |
 | Sat, 14 Nov 2026 | Tola | London |
 
 ## Recently played
 
+- Dalston Superstore, London · Thu, 12 Nov 2026
 - Kater, Berlin · Sat, 20 Jun 2026
 - Crack Bellmer, Berlin · Thu, 18 Jun 2026
 - Two Tribes CAMPFIRE, London · Fri, 1 May 2026
@@ -20,10 +20,9 @@ MADDØG is a house and techno artist based in United States of America, with 17 
 - TBA - Palace Vinyl, London · Sat, 29 Nov 2025
 - Dalston Superstore, London · Thu, 13 Nov 2025
 - Next Door Records, London · Fri, 26 Sept 2025
-- Bread and Butter, London · Fri, 12 Sept 2025
 
 ## Shares bills with
 
 Love Sensation, Rux (UK), Kidcat
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maddog/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maddog/)*

@@ -1,6 +1,6 @@
 # P o B
 
-P o B is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Delgallet - Vallila, Helsinki on Fri, 4 Dec 2026.
+P o B is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Delgallet - Vallila, Helsinki on Fri, 4 Dec 2026.
 
 P o B is a techno and house artist based in Finland, with 9 gigs on soundcheck across Helsinki. Often billed alongside Upi, Jekaterina and Lamaani. Next up: Delgallet - Vallila, Helsinki on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ P o B is a techno and house artist based in Finland, with 9 gigs on soundcheck a
 
 Upi, Jekaterina, Lamaani
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pobdj/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pobdj/)*

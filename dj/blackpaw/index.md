@@ -1,6 +1,6 @@
 # Blackpaw
 
-Blackpaw is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Catch One, Los Angeles on Wed, 25 Nov 2026.
+Blackpaw is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Catch One, Los Angeles on Wed, 25 Nov 2026.
 
 Blackpaw is a disco and house artist based in United States of America, with 9 gigs on soundcheck across Lisbon and Los Angeles. Often billed alongside Dick Ensalada, Tigerbalm and ANYA JAVYBZ. Next up: Catch One, Los Angeles on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ Blackpaw is a disco and house artist based in United States of America, with 9 g
 
 Dick Ensalada, Tigerbalm, ANYA JAVYBZ
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blackpaw/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blackpaw/)*

@@ -1,6 +1,6 @@
 # Monika Seta
 
-Monika Seta is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at gallery 1986, Vilnius on Thu, 31 Dec 2026.
+Monika Seta is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at gallery 1986, Vilnius on Thu, 31 Dec 2026.
 
 Monika Seta is a techno and acid artist based in Spain, with 22 gigs on soundcheck across Bucharest and Vilnius. Often billed alongside Aiste Regina, Clicklounge and IS:Collective. Next up: gallery 1986, Vilnius on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Monika Seta is a techno and acid artist based in Spain, with 22 gigs on soundche
 
 Aiste Regina, Clicklounge, IS:Collective
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/monikaseta/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/monikaseta/)*

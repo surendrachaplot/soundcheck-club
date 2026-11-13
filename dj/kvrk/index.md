@@ -1,6 +1,6 @@
 # Kvrk
 
-Kvrk is a Trance and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Atno, Budapest on Sat, 19 Dec 2026.
+Kvrk is a Trance and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Atno, Budapest on Sat, 19 Dec 2026.
 
 Kvrk is a trance and house artist based in Romania, with 27 gigs on soundcheck across Budapest. Often billed alongside Switch Nollie, Tom_Ato and Faktor-X. Next up: Atno, Budapest on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Kvrk is a trance and house artist based in Romania, with 27 gigs on soundcheck a
 
 Switch Nollie, Tom_Ato, Faktor-X
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kvrk/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kvrk/)*

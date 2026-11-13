@@ -1,6 +1,6 @@
 # Mosh Project
 
-Mosh Project is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Crack Bellmer, Berlin on Fri, 20 Nov 2026.
+Mosh Project is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Crack Bellmer, Berlin on Fri, 20 Nov 2026.
 
 Mosh Project is a house and electro artist based in Germany, with 17 gigs on soundcheck across Berlin. Often billed alongside Cecilio, Laurine and Jorge Escribano. Next up: Crack Bellmer, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Mosh Project is a house and electro artist based in Germany, with 17 gigs on sou
 
 Cecilio, Laurine, Jorge Escribano
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moshproject-de/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moshproject-de/)*

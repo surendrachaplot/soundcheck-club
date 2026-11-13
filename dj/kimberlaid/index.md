@@ -1,6 +1,6 @@
 # KimberlaID
 
-KimberlaID is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 28 Nov 2026.
+KimberlaID is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 28 Nov 2026.
 
 KimberlaID is a techno and hardcore artist based in France, with 56 gigs on soundcheck across Berlin, Bordeaux, Brussels and Geneva and 13 more. Often billed alongside Karlfroye, Lolalita and Claude Murder. Next up: Depot Mayfield, Manchester on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ KimberlaID is a techno and hardcore artist based in France, with 56 gigs on soun
 
 Karlfroye, Lolalita, Claude Murder
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kimberlaid/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kimberlaid/)*

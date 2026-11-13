@@ -1,6 +1,6 @@
 # RUBI (R3, NYC)
 
-RUBI (R3, NYC) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at objekt klein a, Dresden on Fri, 13 Nov 2026.
+RUBI (R3, NYC) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at objekt klein a, Dresden on Fri, 13 Nov 2026.
 
 RUBI (R3, NYC) are a house and deep house duo based in United States of America, with 18 gigs on soundcheck across Berlin, Dresden, Leipzig and Münster and 2 more. Often billed alongside RIVKA R3 NYC, Melowdee and Rebel Fusion NYC. Next up: objekt klein a, Dresden on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ RUBI (R3, NYC) are a house and deep house duo based in United States of America,
 
 RIVKA R3 NYC, Melowdee, Rebel Fusion NYC
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rubir3nyc/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rubir3nyc/)*

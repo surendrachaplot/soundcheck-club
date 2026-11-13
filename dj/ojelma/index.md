@@ -1,6 +1,6 @@
 # Ojelma
 
-Ojelma is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Villa, Oslo on Fri, 13 Nov 2026.
+Ojelma is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Villa, Oslo on Fri, 13 Nov 2026.
 
 Ojelma is a techno and house artist based in Finland, with 61 gigs on soundcheck across Helsinki, Oslo and Tallinn. Often billed alongside Carlina Carpelan, CEB (FI) and Lil Tony. Next up: The Villa, Oslo on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Ojelma is a techno and house artist based in Finland, with 61 gigs on soundcheck
 
 Carlina Carpelan, CEB (FI), Lil Tony
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ojelma/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ojelma/)*

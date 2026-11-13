@@ -1,6 +1,6 @@
 # Momo
 
-Momo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Slot, Hamburg on Sun, 29 Nov 2026.
+Momo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Slot, Hamburg on Sun, 29 Nov 2026.
 
 Momo is a techno and house artist based in Germany, with 78 gigs on soundcheck across Antwerp, Auckland, Berlin and Buenos Aires and 15 more. Often billed alongside DJ MILLE, Marie Lung and Michal Zietara. Next up: Slot, Hamburg on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Momo is a techno and house artist based in Germany, with 78 gigs on soundcheck a
 
 DJ MILLE, Marie Lung, Michal Zietara
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/momo-de/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/momo-de/)*

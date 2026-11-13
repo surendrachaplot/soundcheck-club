@@ -1,6 +1,6 @@
 # Brussels Expo
 
-Brussels Expo is a music venue in Brussels with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "FCKNYE Festival 2026" on Wed, 30 Dec 2026.
+Brussels Expo is a music venue in Brussels with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "FCKNYE Festival 2026" on Wed, 30 Dec 2026.
 
 Brussels Expo is a music venue in Brussels listed on soundcheck. 1 upcoming gig, with line-ups including 2HOT2PLAY, Alignment, Angerfist and A.N.I. and 2 more. See dates, start times and who's playing. Place de Belgique 1 Laken.
 
@@ -8,10 +8,10 @@ Brussels Expo is a music venue in Brussels listed on soundcheck. 1 upcoming gig,
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 30 Dec 2026 | FCKNYE Festival 2026 | 2HOT2PLAY, A.N.I., ANXHELA, Alignment, Angerfist, Bassjackers, Bou (UK), CARAVEL, DJ Gigola, Dj Schnake, ECZODIA, Hedex, Holy Priest, K Motionz, KARAH, KLOFAMA, KRUELTY, KX CHR, Kobosil, Krowdexx, L.zwo, LB aka LABAT, LESSSS, Lil Texas, Mandidextrous, Mandragora, NEGITIV, Neek, Nikolina, NoName, OMAKS, Onlynumbers, PLK, PRADA2000, Part Time Killer, Pawlowski, Protokseed, Restricted, SLVL, Samuel Moriero (2), Sickmode, Sköne, Somewhen, The Dark Horror, The Rocketman, TiTi, Todiefor, Trym, Ueberrest, Unicorn on Ketamine, Urumi, Vendex, Vieze Asbak, Vladimir Cauchemar, Von Bikräv, Vortek's, William Luck, Winson, Yoshiko, ascendant vierge, billx, blk., davyboi, uphoria |
+| Wed, 30 Dec 2026 | FCKNYE Festival 2026 | 2HOT2PLAY, A.N.I., ANXHELA, Alignment, Angerfist, Bassjackers, Bou (UK), CARAVEL, DJ Gigola, Dj Schnake, ECZODIA, Hedex, Holy Priest, K Motionz, KARAH, KLOFAMA, KRUELTY, KX CHR, Kobosil, Krowdexx, L.zwo, LB aka LABAT, LESSSS, Lil Texas, Mandidextrous, Mandragora, NEGITIV, Neek, Nikolina, NoName, OMAKS, Onlynumbers, PLK, PRADA2000, Part Time Killer, Pawlowski, Protokseed, Restricted, SLVL, Samuel Moriero (2), Sickmode, Sköne, Somewhen, The Dark Horror, The Rocketman, TiTi, Todiefor, Trym, Ueberrest, Unicorn on K, Urumi, Vendex, Vieze Asbak, Vladimir Cauchemar, Von Bikräv, Vortek's, William Luck, Winson, Yoshiko, ascendant vierge, billx, blk., davyboi, uphoria |
 
 ## Address
 
 Place de Belgique 1 Laken, Brussels
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/brussels-expo/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/brussels-expo/)*

@@ -1,6 +1,6 @@
 # DJ Caring
 
-DJ Caring is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at House of Hopes and Dreams, Lisbon on Sat, 5 Dec 2026.
+DJ Caring is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at House of Hopes and Dreams, Lisbon on Sat, 5 Dec 2026.
 
 DJ Caring is a house and disco artist based in Portugal, with 39 gigs on soundcheck across Berlin, Lisbon and London. Often billed alongside Chima Isaaro, CC:DISCO! and Phoebe. Next up: House of Hopes and Dreams, Lisbon on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ DJ Caring is a house and disco artist based in Portugal, with 39 gigs on soundch
 
 Chima Isaaro, CC:DISCO!, Phoebe (1)
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djcaring/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djcaring/)*

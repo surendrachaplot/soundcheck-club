@@ -1,6 +1,6 @@
 # JUNO (DE)
 
-JUNO (DE) is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Pacha, Munich on Sat, 21 Nov 2026.
+JUNO (DE) is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Pacha, Munich on Sat, 21 Nov 2026.
 
 JUNO (DE) is an afro house and house artist based in Germany, with 21 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 12 more. Often billed alongside AJNA, Nitefreak and Van Zand. Next up: Pacha, Munich on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ JUNO (DE) is an afro house and house artist based in Germany, with 21 gigs on so
 
 AJNA, Nitefreak, Van Zand
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/junode/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/junode/)*

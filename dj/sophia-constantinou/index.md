@@ -1,8 +1,8 @@
 # Sophia Constantinou
 
-Sophia Constantinou is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at NT's Loft, London on Mon, 23 Nov 2026.
+Sophia Constantinou is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at NT's Loft, London on Mon, 23 Nov 2026.
 
-Sophia Constantinou is a house and techno artist based in United Kingdom, with 7 gigs on soundcheck across Glasgow and London. Often billed alongside DJelley, Carmen Baía and DJ Love UK. Next up: NT's Loft, London on Mon 23 Nov.
+Sophia Constantinou is a techno and house artist based in United Kingdom, with 8 gigs on soundcheck across Glasgow and London. Often billed alongside DJelley, Carmen Baía and Corran. Next up: NT's Loft, London on Mon 23 Nov.
 
 ## Upcoming shows
 
@@ -18,9 +18,10 @@ Sophia Constantinou is a house and techno artist based in United Kingdom, with 7
 - M.O.T, London · Thu, 15 Oct 2026
 - Phonox, London · Thu, 8 Oct 2026
 - Phonox, London · Thu, 10 Sept 2026
+- XOYO, London · Thu, 13 Aug 2026
 
 ## Shares bills with
 
-DJelley, Carmen Baía, DJ Love UK
+DJelley, Carmen Baía, Corran
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sophia-constantinou/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sophia-constantinou/)*

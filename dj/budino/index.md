@@ -1,6 +1,6 @@
 # Budino
 
-Budino is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Lubber Fiend, Newcastle on Fri, 20 Nov 2026.
+Budino is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Lubber Fiend, Newcastle on Fri, 20 Nov 2026.
 
 Budino is a house and techno artist based in Italy, with 177 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 50 more. Often billed alongside Massimiliano Pagliara, Gabrielle Kwarteng and Cormac. Next up: The Lubber Fiend, Newcastle on Fri 20 Nov.
 
@@ -29,4 +29,4 @@ Budino is a house and techno artist based in Italy, with 177 gigs on soundcheck 
 
 Massimiliano Pagliara, Gabrielle Kwarteng, Cormac
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/budino/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/budino/)*

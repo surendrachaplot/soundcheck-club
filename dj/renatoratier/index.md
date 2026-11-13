@@ -1,6 +1,6 @@
 # Renato Ratier
 
-Renato Ratier is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at D-Edge RIO, Rio de Janeiro on Thu, 19 Nov 2026.
+Renato Ratier is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at D-Edge RIO, Rio de Janeiro on Thu, 19 Nov 2026.
 
 Renato Ratier is a house and tech house artist based in Brazil, with 54 gigs on soundcheck across Barcelona, Buenos Aires, Ibiza and Rio de Janeiro and 1 more. Often billed alongside Adnan Sharif, Diogo Accioly and Rodrigo Ferrari. Next up: D-Edge RIO, Rio de Janeiro on Thu 19 Nov.
 
@@ -26,4 +26,4 @@ Renato Ratier is a house and tech house artist based in Brazil, with 54 gigs on 
 
 Adnan Sharif, Diogo Accioly, Rodrigo Ferrari
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/renatoratier/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/renatoratier/)*

@@ -1,6 +1,6 @@
 # Palm House
 
-Palm House is a music venue in Liverpool with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Everybody Dance Presents: Headliner TBA @ The Palm House" on Sat, 14 Nov 2026.
+Palm House is a music venue in Liverpool with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Everybody Dance Presents: Headliner TBA @ The Palm House" on Sat, 14 Nov 2026.
 
 Palm House is a music venue in Liverpool listed on soundcheck. 5 upcoming gigs, with line-ups including Ben Santiago, Greg Wilson, K-Klass and Lovely Laura and 1 more. See dates, start times and who's playing. Sefton Park; Liverpool; L17 1AP; United Kingdom.
 
@@ -18,4 +18,4 @@ Palm House is a music venue in Liverpool listed on soundcheck. 5 upcoming gigs, 
 
 Sefton Park; Liverpool; L17 1AP; United Kingdom, Liverpool
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/palm-house/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/palm-house/)*

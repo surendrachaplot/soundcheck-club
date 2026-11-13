@@ -1,6 +1,6 @@
 # Andres Gil
 
-Andres Gil is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at 50 | 50, Medellin on Sun, 15 Nov 2026.
+Andres Gil is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at 50 | 50, Medellin on Sun, 15 Nov 2026.
 
 Andres Gil is a techno and house artist based in Colombia, with 63 gigs on soundcheck across Buenos Aires and Medellin. Often billed alongside Vannesa Gnz, Deraout and Insolent. Next up: 50 | 50, Medellin on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Andres Gil is a techno and house artist based in Colombia, with 63 gigs on sound
 
 Vannesa Gnz, Deraout, Insolent
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andresgil/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andresgil/)*

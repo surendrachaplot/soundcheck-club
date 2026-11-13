@@ -1,8 +1,8 @@
 # Sidney & Matilda
 
-Sidney & Matilda is a music venue in Sheffield with 10 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Steel City D&B Winter Warmer with Danny Byrd + Aries" on Fri, 13 Nov 2026.
+Sidney & Matilda is a music venue in Sheffield with 11 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Steel City D&B Winter Warmer with Danny Byrd + Aries" on Fri, 13 Nov 2026.
 
-Sidney & Matilda is a music venue in Sheffield listed on soundcheck. 10 upcoming gigs, with line-ups including Aries, Crazy P, Danny Byrd and Diverge and 2 more. See dates, start times and who's playing. Rivelin Works, 46B Sidney St, Sheffield S1 4RH, United Kingdom.
+Sidney & Matilda is a music venue in Sheffield listed on soundcheck. 11 upcoming gigs, with line-ups including Aries, Crazy P, Danny Byrd and Diverge and 2 more. See dates, start times and who's playing. Rivelin Works, 46B Sidney St, Sheffield S1 4RH, United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Sidney & Matilda is a music venue in Sheffield listed on soundcheck. 10 upcoming
 
 Rivelin Works, 46B Sidney St, Sheffield S1 4RH, United Kingdom, Sheffield
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/sidney-matilda/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/sidney-matilda/)*

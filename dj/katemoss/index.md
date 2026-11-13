@@ -1,6 +1,6 @@
 # Kate Moss
 
-Kate Moss is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at 77, London on Sat, 12 Dec 2026.
+Kate Moss is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at 77, London on Sat, 12 Dec 2026.
 
 Kate Moss is a tech house and deep house artist based in United Kingdom, with 26 gigs on soundcheck across Athens, London and Malta. Often billed alongside Auseeb, CENKK and VENERE. Next up: 77, London on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Kate Moss is a tech house and deep house artist based in United Kingdom, with 26
 
 Auseeb, CENKK, VENERE
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katemoss/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katemoss/)*

@@ -1,14 +1,15 @@
 # pinklotion
 
-pinklotion is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Club Exil, Vienna on Fri, 13 Nov 2026.
+pinklotion is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Club Exil, Vienna on Fri, 13 Nov 2026.
 
-pinklotion is a techno and trance artist based in Austria, with 61 gigs on soundcheck across Berlin, Munich, Prague and Vienna. Often billed alongside BLUDHOUND, Dj Wifi and Joey. Next up: Club Exil, Vienna on Fri 13 Nov.
+pinklotion is a techno and trance artist based in Austria, with 62 gigs on soundcheck across Berlin, Munich, Prague and Vienna. Often billed alongside BLUDHOUND, Dj Wifi and Joey. Next up: Club Exil, Vienna on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Club Exil | Vienna |
+| Fri, 27 Nov 2026 | The Loft | Vienna |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ pinklotion is a techno and trance artist based in Austria, with 61 gigs on sound
 
 BLUDHOUND, Dj Wifi (3), Joey (2)
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pinklotion/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pinklotion/)*

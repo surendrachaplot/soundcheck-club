@@ -1,6 +1,6 @@
 # Void Control x Sinergia at TBA - Powered by: Void Acoustics
 
-Void Control x Sinergia at TBA - Powered by: Void Acoustics on Sat 20 Feb, Madrid. 4 artists: Brody, enjundia94, M. Freelance and NODRESSCODE. See the line-up on soundcheck.
+Void Control x Sinergia at TBA - Powered by: Void Acoustics on Sat 20 Feb, Madrid. 5 artists: Brody, enjundia94, M. Freelance and NODRESSCODE and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,5 +14,6 @@ Void Control x Sinergia at TBA - Powered by: Void Acoustics on Sat 20 Feb, Madri
 - enjundia94
 - M. Freelance
 - NODRESSCODE
+- scaruncho
 
 *Source: [soundcheck](https://soundcheck.club/e/2566120-void-control-x-sinergia-at-tba-powered-by-void-acoustics/)*

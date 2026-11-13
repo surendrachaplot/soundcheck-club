@@ -1,6 +1,6 @@
 # Wow & Flutter
 
-Wow & Flutter is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Bunker, Sheffield on Sat, 5 Dec 2026.
+Wow & Flutter is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Bunker, Sheffield on Sat, 5 Dec 2026.
 
 Wow & Flutter are a house and techno duo based in United Kingdom, with 48 gigs on soundcheck across London, Manchester, Nottingham and Sheffield. Often billed alongside Joi La Frique, Aaron Dynamic and Hames. Next up: TBA - Bunker, Sheffield on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Wow & Flutter are a house and techno duo based in United Kingdom, with 48 gigs o
 
 Joi La Frique, Aaron Dynamic, Hames
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wowflutter/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wowflutter/)*

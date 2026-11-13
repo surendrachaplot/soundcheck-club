@@ -1,6 +1,6 @@
 # Calamidades Lola
 
-Calamidades Lola is a Disco and Pop artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
+Calamidades Lola is a Disco and Pop artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
 
 Calamidades Lola is a disco and pop artist based in Colombia, with 29 gigs on soundcheck across Amsterdam, Berlin, Colombia and Leipzig. Often billed alongside Amuleto Manuela, Coco Maria and D'Monk. Next up: El Rio Hostel, Colombia on Wed 3 Mar.
 
@@ -25,4 +25,4 @@ Calamidades Lola is a disco and pop artist based in Colombia, with 29 gigs on so
 
 Amuleto Manuela, Coco Maria, D'Monk
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/calamidadeslola/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/calamidadeslola/)*

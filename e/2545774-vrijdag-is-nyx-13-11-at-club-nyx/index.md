@@ -1,6 +1,6 @@
 # Vrijdag is NYX 13/11 at Club NYX
 
-Vrijdag is NYX 13/11 at Club NYX on Fri 13 Nov, Amsterdam. 2 artists: Nanno and Nathalie Henriette. House and Pop. See the line-up on soundcheck.
+Vrijdag is NYX 13/11 at Club NYX on Fri 13 Nov, Amsterdam. 3 artists: Kwambo, Nanno and Nathalie Henriette. House and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Vrijdag is NYX 13/11 at Club NYX on Fri 13 Nov, Amsterdam. 2 artists: Nanno and 
 
 ## Line-up
 
+- Kwambo
 - Nanno
 - Nathalie Henriette
 

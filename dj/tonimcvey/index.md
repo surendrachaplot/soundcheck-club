@@ -1,6 +1,6 @@
 # Toni McVey
 
-Toni McVey is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Caley Bar, Edinburgh on Fri, 13 Nov 2026.
+Toni McVey is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Caley Bar, Edinburgh on Fri, 13 Nov 2026.
 
 Toni McVey is a disco and funk / soul artist based in United Kingdom, with 44 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside SSID, Ann Tweak and Chris Astrojazz. Next up: The Caley Bar, Edinburgh on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Toni McVey is a disco and funk / soul artist based in United Kingdom, with 44 gi
 
 SSID, Ann Tweak, Chris Astrojazz
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tonimcvey/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tonimcvey/)*

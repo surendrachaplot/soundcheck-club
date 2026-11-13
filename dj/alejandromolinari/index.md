@@ -1,6 +1,6 @@
 # Alejandro Molinari
 
-Alejandro Molinari is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Bike Jesus, Prague on Sat, 14 Nov 2026.
+Alejandro Molinari is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Bike Jesus, Prague on Sat, 14 Nov 2026.
 
 Alejandro Molinari is a house and techno artist based in Venezuela, with 34 gigs on soundcheck across Barcelona, Berlin, Guadalajara and Hamburg and 5 more. Often billed alongside Frankie Flowerz, DonTom and HEN YANNI. Next up: Bike Jesus, Prague on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Alejandro Molinari is a house and techno artist based in Venezuela, with 34 gigs
 
 Frankie Flowerz, DonTom, HEN YANNI
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alejandromolinari/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alejandromolinari/)*

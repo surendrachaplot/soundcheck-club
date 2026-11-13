@@ -1,8 +1,8 @@
 # Roe Deers
 
-Roe Deers is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 21 Nov 2026.
+Roe Deers is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 21 Nov 2026.
 
-Roe Deers is a house and techno artist based in Lithuania, with 61 gigs on soundcheck across Bali, Barcelona, Bergen and Berlin and 10 more. Often billed alongside Aiste Regina, Clicklounge and Donatas Chipak. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 21 Nov.
+Roe Deers is a house and techno artist based in Lithuania, with 62 gigs on soundcheck across Bali, Barcelona, Bergen and Berlin and 10 more. Often billed alongside Aiste Regina, Clicklounge and Donatas Chipak. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Roe Deers is a house and techno artist based in Lithuania, with 61 gigs on sound
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 28 Nov 2026 | Freedonia | Barcelona |
+| Thu, 31 Dec 2026 | Kater | Berlin |
 | Thu, 31 Dec 2026 | gallery 1986 | Vilnius |
 
 ## Recently played
@@ -27,4 +28,4 @@ Roe Deers is a house and techno artist based in Lithuania, with 61 gigs on sound
 
 Aiste Regina, Clicklounge, Donatas Chipak
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roedeers/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roedeers/)*

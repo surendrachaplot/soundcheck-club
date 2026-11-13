@@ -1,14 +1,15 @@
 # Lemi
 
-Lemi is a Club and Electro artist with 8 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at SEL OCTAGON TOKYO, Tokyo on Fri, 13 Nov 2026.
+Lemi is a Club and Electro artist with 9 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at SEL OCTAGON TOKYO, Tokyo on Fri, 13 Nov 2026.
 
-Lemi is a club and electro artist based in Kenya, with 23 gigs on soundcheck across Kenya, Osaka and Tokyo. Often billed alongside kazuma, Miki and WATARU. Next up: SEL OCTAGON TOKYO, Tokyo on Fri 13 Nov.
+Lemi is a club and electro artist based in Kenya, with 24 gigs on soundcheck across Kenya, Osaka and Tokyo. Often billed alongside kazuma, Miki and WATARU. Next up: SEL OCTAGON TOKYO, Tokyo on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | SEL OCTAGON TOKYO | Tokyo |
+| Sat, 14 Nov 2026 | SEL OCTAGON TOKYO | Tokyo |
 | Sun, 15 Nov 2026 | SEL OCTAGON TOKYO | Tokyo |
 | Fri, 20 Nov 2026 | SEL OCTAGON TOKYO | Tokyo |
 | Sat, 21 Nov 2026 | SEL OCTAGON TOKYO | Tokyo |
@@ -32,4 +33,4 @@ Lemi is a club and electro artist based in Kenya, with 23 gigs on soundcheck acr
 
 kazuma, Miki, WATARU
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lemi/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lemi/)*

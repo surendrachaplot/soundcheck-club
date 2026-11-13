@@ -1,6 +1,6 @@
 # Rainmaker
 
-Rainmaker is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at 50 | 50, Medellin on Sat, 21 Nov 2026.
+Rainmaker is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at 50 | 50, Medellin on Sat, 21 Nov 2026.
 
 Rainmaker is a techno and bass artist based in Colombia, with 11 gigs on soundcheck across Bogotá, Medellin and Mexico City. Often billed alongside WOST, Passq and Arcane Prospect. Next up: 50 | 50, Medellin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Rainmaker is a techno and bass artist based in Colombia, with 11 gigs on soundch
 
 WOST, Passq, Arcane Prospect
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rainmaker/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rainmaker/)*

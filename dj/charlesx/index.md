@@ -1,6 +1,6 @@
 # Charles X
 
-Charles X is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Dabadaba, North on Fri, 27 Nov 2026.
+Charles X is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Dabadaba, North on Fri, 27 Nov 2026.
 
 Charles X is a tech house and house artist based in United States of America, with 15 gigs on soundcheck across Brussels, Detroit, Ghent and Los Angeles and 3 more. Often billed alongside BAR (DE), Abscal and Angel Alanis. Next up: Dabadaba, North on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Charles X is a tech house and house artist based in United States of America, wi
 
 BAR (DE), Abscal, Angel Alanis
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/charlesx/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/charlesx/)*

@@ -1,6 +1,6 @@
 # Kiimi
 
-Kiimi is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA, London on Sat, 28 Nov 2026.
+Kiimi is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA, London on Sat, 28 Nov 2026.
 
 Kiimi is a house and techno artist based in United Kingdom, with 37 gigs on soundcheck across Amsterdam, Brighton, Bristol and Ibiza and 3 more. Often billed alongside HAAi, Lu.Re and Meg Ward. Next up: TBA, London on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Kiimi is a house and techno artist based in United Kingdom, with 37 gigs on soun
 
 HAAi, Lu.Re, Meg Ward
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kiimi/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kiimi/)*

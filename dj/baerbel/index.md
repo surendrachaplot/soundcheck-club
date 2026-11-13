@@ -1,6 +1,6 @@
 # Baerbel
 
-Baerbel is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at ://about blank, Berlin on Fri, 20 Nov 2026.
+Baerbel is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at ://about blank, Berlin on Fri, 20 Nov 2026.
 
 Baerbel is a techno and house artist based in Germany, with 78 gigs on soundcheck across Berlin, Cologne, Hamburg and Leipzig and 3 more. Often billed alongside JUSTICE (DE), Ciao 3lla and VIVI (DE). Next up: ://about blank, Berlin on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Baerbel is a techno and house artist based in Germany, with 78 gigs on soundchec
 
 JUSTICE (DE), Ciao 3lla, VIVI (DE)
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baerbel/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baerbel/)*

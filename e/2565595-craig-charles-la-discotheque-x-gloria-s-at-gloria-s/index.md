@@ -1,6 +1,6 @@
 # Craig Charles - La Discotheque x Gloria's at Gloria's
 
-Craig Charles - La Discotheque x Gloria's on Sun 27 Dec, Liverpool. 2 artists: Craig Charles and Jimmy Allen. House and Disco. See the line-up on soundcheck.
+Craig Charles - La Discotheque x Gloria's on Sun 27 Dec, Liverpool. 3 artists: Clara B, Craig Charles and Jimmy Allen. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Craig Charles - La Discotheque x Gloria's on Sun 27 Dec, Liverpool. 2 artists: C
 
 ## Line-up
 
+- Clara B
 - Craig Charles
 - Jimmy Allen
 

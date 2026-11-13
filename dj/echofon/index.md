@@ -1,6 +1,6 @@
 # Echoføn
 
-Echoføn is a Techno and Dub artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Tangent Gallery, Detroit on Sat, 21 Nov 2026.
+Echoføn is a Techno and Dub artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Tangent Gallery, Detroit on Sat, 21 Nov 2026.
 
 Echoføn is a techno and dub artist based in United States of America, with 9 gigs on soundcheck across Detroit and Los Angeles. Often billed alongside Project 313, DJ SPHiNX and Dru Ruiz. Next up: Tangent Gallery, Detroit on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Echoføn is a techno and dub artist based in United States of America, with 9 gi
 
 Project 313, DJ SPHiNX, Dru Ruiz
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/echofon/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/echofon/)*

@@ -1,6 +1,6 @@
 # Duck Trash
 
-Duck Trash is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at House of Yes, New York City on Sat, 14 Nov 2026.
+Duck Trash is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at House of Yes, New York City on Sat, 14 Nov 2026.
 
 Duck Trash is a techno and house artist based in United States of America, with 131 gigs on soundcheck across Adelaide, Chicago, Cleveland and Detroit and 3 more. Often billed alongside Amino, Garrison XR and hypemelo. Next up: House of Yes, New York City on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Duck Trash is a techno and house artist based in United States of America, with 
 
 Amino, Garrison XR, hypemelo
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ducktrash/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ducktrash/)*

@@ -1,6 +1,6 @@
 # Winter of Love festival 2026 at Thuishaven
 
-Winter of Love festival 2026 at Thuishaven on Sat 12 Dec, Amsterdam. 13 artists: Alexander Koning, Alfredo, Darren Emerson and Dimitri and 9 more. House and Acid. See the line-up on soundcheck.
+Winter of Love festival 2026 at Thuishaven on Sat 12 Dec, Amsterdam. 14 artists: Alexander Koning, Alfredo, Darren Emerson and Dimitri and 10 more. House and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -20,6 +20,7 @@ Winter of Love festival 2026 at Thuishaven on Sat 12 Dec, Amsterdam. 13 artists:
 - Gregor Salto
 - Kim Kaos
 - Klubbheads
+- Milla More
 - ROOG
 - Sander Kleinenberg
 - Ven

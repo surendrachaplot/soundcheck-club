@@ -1,8 +1,8 @@
 # Tempestfeather
 
-Tempestfeather is a House and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Paloma, Berlin on Sat, 21 Nov 2026.
+Tempestfeather is a House and Breakbeat artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Paloma, Berlin on Sat, 21 Nov 2026.
 
-Tempestfeather is a house and breakbeat artist based in Italy, with 41 gigs on soundcheck across Berlin. Often billed alongside schulze, FISK and Frank and Geoff. Next up: Paloma, Berlin on Sat 21 Nov.
+Tempestfeather is a house and breakbeat artist based in Italy, with 42 gigs on soundcheck across Berlin. Often billed alongside schulze, FISK and Frank and Geoff. Next up: Paloma, Berlin on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Tempestfeather is a house and breakbeat artist based in Italy, with 41 gigs on s
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Paloma | Berlin |
 | Fri, 27 Nov 2026 | OHM | Berlin |
+| Fri, 11 Dec 2026 | Crack Bellmer | Berlin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Tempestfeather is a house and breakbeat artist based in Italy, with 41 gigs on s
 
 schulze, FISK, Frank and Geoff
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tempestfeather/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tempestfeather/)*

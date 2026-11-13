@@ -1,6 +1,6 @@
 # Pitch Music & Arts 2027 (SOLD OUT) at Moyston
 
-Pitch Music & Arts 2027 (SOLD OUT) at Moyston on Fri 5 Mar, Melbourne. 61 artists: Activator (AU), Aldonna, Alex Kassian and Alycia Bezgo and 57 more. See the line-up on soundcheck.
+Pitch Music & Arts 2027 (SOLD OUT) at Moyston on Fri 5 Mar, Melbourne. 61 artists: Abigail Toll, Activator (AU), Aldonna and Alex Kassian and 57 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Pitch Music & Arts 2027 (SOLD OUT) at Moyston on Fri 5 Mar, Melbourne. 61 artist
 
 ## Line-up
 
+- Abigail Toll
 - Activator (AU)
 - Aldonna
 - Alex Kassian
@@ -62,7 +63,6 @@ Pitch Music & Arts 2027 (SOLD OUT) at Moyston on Fri 5 Mar, Melbourne. 61 artist
 - RONI
 - SAIDAH
 - Sam Girling
-- Soju Gang
 - Sweely
 - Tangerine
 - Verraco

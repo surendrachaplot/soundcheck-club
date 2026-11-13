@@ -1,6 +1,6 @@
 # Greg Churchill
 
-Greg Churchill is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Il Brutto Auckland, Auckland on Sat, 14 Nov 2026.
+Greg Churchill is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Il Brutto Auckland, Auckland on Sat, 14 Nov 2026.
 
 Greg Churchill is a house and techno artist based in New Zealand, with 36 gigs on soundcheck across Auckland. Often billed alongside Andy Vann, Matt Drake and Out Of Sorts. Next up: Il Brutto Auckland, Auckland on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Greg Churchill is a house and techno artist based in New Zealand, with 36 gigs o
 
 Andy Vann, Matt Drake, Out Of Sorts
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gregchurchill/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gregchurchill/)*

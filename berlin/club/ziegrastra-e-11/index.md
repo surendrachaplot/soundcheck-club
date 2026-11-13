@@ -1,6 +1,6 @@
 # Ziegrastraße 11
 
-Ziegrastraße 11 is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Cuttfruit, Chong & Zoiya" on Sat, 14 Nov 2026.
+Ziegrastraße 11 is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Cuttfruit, Chong & Zoiya" on Sat, 14 Nov 2026.
 
 Ziegrastraße 11 is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including Big Softy, Ed Warner, Jackopo and ki:ke and 2 more. See dates, start times and who's playing. Ziegrastraße 11, 12057 Berlin, Germany.
 
@@ -17,4 +17,4 @@ Ziegrastraße 11 is a music venue in Berlin listed on soundcheck. 4 upcoming gig
 
 Ziegrastraße 11, 12057 Berlin, Germany, Berlin
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ziegrastra-e-11/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ziegrastra-e-11/)*

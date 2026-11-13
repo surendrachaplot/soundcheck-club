@@ -1,13 +1,14 @@
 # Faustin (NL)
 
-Faustin (NL) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at BRET, Amsterdam on Fri, 4 Dec 2026.
+Faustin (NL) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at BRET, Amsterdam on Fri, 4 Dec 2026.
 
-Faustin (NL) is a techno and house artist based in Netherlands, with 70 gigs on soundcheck across Amsterdam, Brussels, New York City and Rotterdam and 1 more. Often billed alongside TWIENA, Mary Lake and Fafi Abdel Nour. Next up: BRET, Amsterdam on Fri 4 Dec.
+Faustin (NL) is a techno and house artist based in Netherlands, with 71 gigs on soundcheck across Amsterdam, Brussels, New York City and Rotterdam and 1 more. Often billed alongside TWIENA, Mary Lake and Fafi Abdel Nour. Next up: BRET, Amsterdam on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Dec 2026 | BRET | Amsterdam |
 | Fri, 4 Dec 2026 | BRET | Amsterdam |
 
 ## Recently played
@@ -25,4 +26,4 @@ Faustin (NL) is a techno and house artist based in Netherlands, with 70 gigs on 
 
 TWIENA, Mary Lake, Fafi Abdel Nour
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/faustin-nl/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/faustin-nl/)*

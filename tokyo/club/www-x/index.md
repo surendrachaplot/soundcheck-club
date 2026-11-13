@@ -1,6 +1,6 @@
 # WWW X
 
-WWW X is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "BUTTER SESSIONS 15TH ANNIVERSARY TOKYO presented by GOLDEN 豪流伝" on Sat, 21 Nov 2026.
+WWW X is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "BUTTER SESSIONS 15TH ANNIVERSARY TOKYO presented by GOLDEN 豪流伝" on Sat, 21 Nov 2026.
 
 WWW X is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with line-ups including Compuma, Dr. Nishimura, FELINE (JP) and Genki Tanaka and 2 more. See dates, start times and who's playing. 13-7 Udagawacho, Shibuya-ku, Tokyo, 150-0042.
 
@@ -15,4 +15,4 @@ WWW X is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with line
 
 13-7 Udagawacho, Shibuya-ku, Tokyo, 150-0042, Tokyo
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/www-x/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/www-x/)*

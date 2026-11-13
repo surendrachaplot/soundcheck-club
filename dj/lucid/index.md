@@ -1,14 +1,15 @@
 # Lucid
 
-Lucid is a Techno and Neo Perreo artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA, Bremen on Fri, 11 Dec 2026.
+Lucid is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA, Bremen on Fri, 11 Dec 2026.
 
-Lucid is a techno and neo perreo artist based in Australia, with 10 gigs on soundcheck across Amsterdam, Bremen, Frankfurt and Melbourne and 3 more. Often billed alongside 6am at the Garage, A.N.I. and ALLY. Next up: TBA, Bremen on Fri 11 Dec.
+Lucid is a techno and tech house artist based in Australia, with 11 gigs on soundcheck across Amsterdam, Baltimore, Bremen and Frankfurt and 4 more. Often billed alongside 6am at the Garage, A.N.I. and ALLY. Next up: TBA, Bremen on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Dec 2026 | TBA | Bremen |
+| Thu, 31 Dec 2026 | 600 Water Street | Baltimore |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Lucid is a techno and neo perreo artist based in Australia, with 10 gigs on soun
 
 6am at the Garage, A.N.I., ALLY
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucid/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucid/)*

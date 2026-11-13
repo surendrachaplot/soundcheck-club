@@ -1,6 +1,6 @@
 # David Scuba
 
-David Scuba is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Nest at St. Pete Brewing Co., Tampa Bay on Sat, 21 Nov 2026.
+David Scuba is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Nest at St. Pete Brewing Co., Tampa Bay on Sat, 21 Nov 2026.
 
 David Scuba is a techno and house artist based in United States of America, with 20 gigs on soundcheck across London, Los Angeles, Orlando and San Diego and 2 more. Often billed alongside Mr C, Michael Rosa and Lee Reynolds. Next up: The Nest at St. Pete Brewing Co., Tampa Bay on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ David Scuba is a techno and house artist based in United States of America, with
 
 Mr C, Michael Rosa, Lee Reynolds
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidscuba/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidscuba/)*

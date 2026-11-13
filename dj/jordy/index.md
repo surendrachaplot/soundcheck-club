@@ -1,8 +1,8 @@
-# Jørdy
+# Jordy
 
-Jørdy is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Halcyon, San Francisco/Oakland on Sat, 19 Dec 2026.
+Jordy is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Halcyon, San Francisco/Oakland on Sat, 19 Dec 2026.
 
-Jørdy is a techno and house artist based in Germany, with 25 gigs on soundcheck across Amsterdam, Berlin, Cologne and Dresden and 4 more. Often billed alongside Josiane, Di² and Guliver. Next up: Halcyon, San Francisco/Oakland on Sat 19 Dec.
+Jordy is a techno and house artist based in Germany, with 25 gigs on soundcheck across Amsterdam, Berlin, Cologne and Dresden and 4 more. Often billed alongside Josiane, Di² and Guliver. Next up: Halcyon, San Francisco/Oakland on Sat 19 Dec.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Jørdy is a techno and house artist based in Germany, with 25 gigs on soundcheck
 
 Josiane, Di² (1), Guliver
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jordy/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jordy/)*

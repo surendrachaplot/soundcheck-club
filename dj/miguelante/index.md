@@ -1,6 +1,6 @@
 # Miguel Ante
 
-Miguel Ante is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Thunupa Festival, Salar de Uyuni, Bolivia on Wed, 30 Dec 2026.
+Miguel Ante is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Thunupa Festival, Salar de Uyuni, Bolivia on Wed, 30 Dec 2026.
 
 Miguel Ante is a progressive house and house artist based in Bolivia, with 13 gigs on soundcheck across Bolivia and Chicago. Often billed alongside Alfred Clayton, Dabura and Iváno Lima. Next up: Thunupa Festival, Salar de Uyuni, Bolivia on Wed 30 Dec.
 
@@ -25,4 +25,4 @@ Miguel Ante is a progressive house and house artist based in Bolivia, with 13 gi
 
 Alfred Clayton, Dabura, Iváno Lima
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelante/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelante/)*

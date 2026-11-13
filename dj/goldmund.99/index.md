@@ -1,6 +1,6 @@
 # Goldmund.99
 
-Goldmund.99 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at QQQ ST. Park, Melbourne on Sat, 19 Dec 2026.
+Goldmund.99 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at QQQ ST. Park, Melbourne on Sat, 19 Dec 2026.
 
 Goldmund.99 is a techno and trance artist based in Australia, with 26 gigs on soundcheck across Berlin, Buenos Aires, London and Melbourne and 1 more. Often billed alongside LUCKY4U, vSto and Mia Lund. Next up: QQQ ST. Park, Melbourne on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Goldmund.99 is a techno and trance artist based in Australia, with 26 gigs on so
 
 LUCKY4U, vSto, Mia Lund
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/goldmund.99/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/goldmund.99/)*

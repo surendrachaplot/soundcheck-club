@@ -1,6 +1,6 @@
 # Bonkers
 
-Bonkers is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Central Florida Fairgrounds, Florida on Fri, 23 Apr 2027.
+Bonkers is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Central Florida Fairgrounds, Florida on Fri, 23 Apr 2027.
 
 Bonkers is a techno and hardcore artist, with 8 gigs on soundcheck across Adelaide, Florida, Glasgow and New York City and 3 more. Often billed alongside Sharkey, A Hundred Drums and A-Tweed. Next up: Central Florida Fairgrounds, Florida on Fri 23 Apr.
 
@@ -24,4 +24,4 @@ Bonkers is a techno and hardcore artist, with 8 gigs on soundcheck across Adelai
 
 Sharkey (1), A Hundred Drums, A-Tweed
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bonkers/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bonkers/)*

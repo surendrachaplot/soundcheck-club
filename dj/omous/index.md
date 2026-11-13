@@ -1,6 +1,6 @@
 # OMO (US)
 
-OMO (US) is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Amplify, Detroit on Fri, 27 Nov 2026.
+OMO (US) is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Amplify, Detroit on Fri, 27 Nov 2026.
 
 OMO (US) is a techno and experimental artist based in United States of America, with 30 gigs on soundcheck across Detroit. Often billed alongside Kuuma, RETCON and Seanni B. Next up: Amplify, Detroit on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ OMO (US) is a techno and experimental artist based in United States of America, 
 
 Kuuma, RETCON, Seanni B
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/omous/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/omous/)*

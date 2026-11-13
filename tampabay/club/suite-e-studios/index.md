@@ -1,13 +1,13 @@
 # Suite E Studios
 
-Suite E Studios is a music venue in Tampa Bay with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "Día de los Muertos with Mark Farina (Mushroom Jazz) Extended Set" on Sun, 1 Nov 2026.
+Suite E Studios is a music venue in Tampa Bay with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "HARDWARE LAB 005" on Sat, 14 Nov 2026.
 
-Suite E Studios is a music venue in Tampa Bay listed on soundcheck. 1 upcoming gig, with line-ups including Austen van der Bleek and Mark Farina. See dates, start times and who's playing.
+Suite E Studios is a music venue in Tampa Bay listed on soundcheck. 1 upcoming gig, with line-ups including Chris Mitchell and protman. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 1 Nov 2026 | Día de los Muertos with Mark Farina (Mushroom Jazz) Extended Set | Austen van der Bleek, Mark Farina |
+| Sat, 14 Nov 2026 | HARDWARE LAB 005 | Chris Mitchell, protman |
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/tampabay/club/suite-e-studios/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/tampabay/club/suite-e-studios/)*

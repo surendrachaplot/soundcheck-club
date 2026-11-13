@@ -1,6 +1,6 @@
 # Marble Bar
 
-Marble Bar is a music venue in Detroit with 10 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "HOT DOG UNIT" on Thu, 12 Nov 2026.
+Marble Bar is a music venue in Detroit with 10 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "HOT DOG UNIT" on Thu, 12 Nov 2026.
 
 Marble Bar is a music venue in Detroit listed on soundcheck. 10 upcoming gigs, with line-ups including Adam X, AIDEL, Amino and Blackmoonchild and 2 more. See dates, start times and who's playing. 1501 Holden St, Detroit, MI 48208, USA.
 
@@ -23,4 +23,4 @@ Marble Bar is a music venue in Detroit listed on soundcheck. 10 upcoming gigs, w
 
 1501 Holden St, Detroit, MI 48208, USA, Detroit
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/marble-bar/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/marble-bar/)*

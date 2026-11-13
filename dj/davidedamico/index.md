@@ -1,6 +1,6 @@
 # Davide D'Amico
 
-Davide D'Amico is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Club Malasaña, Madrid on Fri, 27 Nov 2026.
+Davide D'Amico is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Club Malasaña, Madrid on Fri, 27 Nov 2026.
 
 Davide D'Amico is a disco and house artist based in Italy, with 64 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Florence and 9 more. Often billed alongside Gigi Testa, Danilo Plessow and Angelo Perna. Next up: Club Malasaña, Madrid on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Davide D'Amico is a disco and house artist based in Italy, with 64 gigs on sound
 
 Gigi Testa, Danilo Plessow, Angelo Perna
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidedamico/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidedamico/)*

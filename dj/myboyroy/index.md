@@ -1,6 +1,6 @@
 # My Boy Roy
 
-My Boy Roy is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Polifonic.MX, Guadalajara on Thu, 19 Nov 2026.
+My Boy Roy is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Polifonic.MX, Guadalajara on Thu, 19 Nov 2026.
 
 My Boy Roy is a house and electronica artist based in Mexico, with 58 gigs on soundcheck across Amsterdam, Guadalajara and Mexico City. Often billed alongside Flight Status, KEV (MX) and Mystery Affair. Next up: Polifonic.MX, Guadalajara on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ My Boy Roy is a house and electronica artist based in Mexico, with 58 gigs on so
 
 Flight Status, KEV (MX), Mystery Affair
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/myboyroy/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/myboyroy/)*

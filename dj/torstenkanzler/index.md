@@ -1,6 +1,6 @@
 # Torsten Kanzler
 
-Torsten Kanzler is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Bernsteinsee Velten, Brandenburg on Sat, 26 Jun 2027.
+Torsten Kanzler is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Bernsteinsee Velten, Brandenburg on Sat, 26 Jun 2027.
 
 Torsten Kanzler is a techno and tech house artist, with 21 gigs on soundcheck across Amsterdam, Berlin, Brandenburg and Cologne and 6 more. Often billed alongside Felix Reichelt, MILAN MILANO and Basstronauten. Next up: Bernsteinsee Velten, Brandenburg on Sat 26 Jun.
 
@@ -25,4 +25,4 @@ Torsten Kanzler is a techno and tech house artist, with 21 gigs on soundcheck ac
 
 Felix Reichelt, MILAN MILANO, Basstronauten
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/torstenkanzler/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/torstenkanzler/)*

@@ -1,6 +1,6 @@
 # DJ Spoony
 
-DJ Spoony is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Shop From Crisis Dalston, London on Thu, 3 Dec 2026.
+DJ Spoony is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Shop From Crisis Dalston, London on Thu, 3 Dec 2026.
 
 DJ Spoony is a garage and house artist based in United Kingdom, with 65 gigs on soundcheck across Ibiza, London, Malta and Manchester. Often billed alongside Scott Garcia, Wookie and Boon (UK). Next up: Shop From Crisis Dalston, London on Thu 3 Dec.
 
@@ -26,4 +26,4 @@ DJ Spoony is a garage and house artist based in United Kingdom, with 65 gigs on 
 
 Scott Garcia, Wookie, Boon (UK)
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djspoony/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djspoony/)*

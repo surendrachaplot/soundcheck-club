@@ -1,6 +1,6 @@
 # ENJA
 
-ENJA is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Grelle Forelle, Vienna on Fri, 13 Nov 2026.
+ENJA is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Grelle Forelle, Vienna on Fri, 13 Nov 2026.
 
 ENJA is a techno and trance artist based in Austria, with 20 gigs on soundcheck across Austria, Berlin and Vienna. Often billed alongside AVO2X, Spud Bencer and SUE (AT). Next up: Grelle Forelle, Vienna on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ ENJA is a techno and trance artist based in Austria, with 20 gigs on soundcheck 
 
 AVO2X, Spud Bencer, SUE (AT)
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enja/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enja/)*

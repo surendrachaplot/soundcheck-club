@@ -1,6 +1,6 @@
 # Guy Gerber
 
-Guy Gerber is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Brooklyn Pacha, New York City on Fri, 27 Nov 2026.
+Guy Gerber is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Brooklyn Pacha, New York City on Fri, 27 Nov 2026.
 
 Guy Gerber is a house and techno artist based in Israel, with 133 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 27 more. Often billed alongside Noncitizens, Saraga and Annicka. Next up: Brooklyn Pacha, New York City on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Guy Gerber is a house and techno artist based in Israel, with 133 gigs on soundc
 
 Noncitizens, Saraga, Annicka
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/guygerber/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/guygerber/)*

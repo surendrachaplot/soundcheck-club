@@ -1,6 +1,6 @@
 # Tash LC
 
-Tash LC is a House and Dancehall artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at CLUB RAUM, Amsterdam on Fri, 4 Dec 2026.
+Tash LC is a House and Dancehall artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at CLUB RAUM, Amsterdam on Fri, 4 Dec 2026.
 
 Tash LC is a house and dancehall artist based in United Kingdom, with 134 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 30 more. Often billed alongside Jamz Supernova, Ahadadream and Conducta. Next up: CLUB RAUM, Amsterdam on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Tash LC is a house and dancehall artist based in United Kingdom, with 134 gigs o
 
 Jamz Supernova, Ahadadream, Conducta
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tash-lc/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tash-lc/)*

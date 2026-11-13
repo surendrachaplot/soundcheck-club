@@ -1,6 +1,6 @@
 # E-Werk Kulturzentrum
 
-E-Werk Kulturzentrum is a music venue in Nürnberg with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Clubtour 001 // E-Werk Erlangen" on Sat, 28 Nov 2026.
+E-Werk Kulturzentrum is a music venue in Nürnberg with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Clubtour 001 // E-Werk Erlangen" on Sat, 28 Nov 2026.
 
 E-Werk Kulturzentrum is a music venue in Nürnberg listed on soundcheck. 2 upcoming gigs, with line-ups including atjan, Blame The Mono, DJ Hyperdrive and LILLIVEE and 2 more. See dates, start times and who's playing. Fuchsenwiese 1, 91054 Erlangen.
 
@@ -15,4 +15,4 @@ E-Werk Kulturzentrum is a music venue in Nürnberg listed on soundcheck. 2 upcom
 
 Fuchsenwiese 1, 91054 Erlangen, Nürnberg
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/e-werk-kulturzentrum/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/e-werk-kulturzentrum/)*

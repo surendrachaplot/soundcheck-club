@@ -1,8 +1,8 @@
 # Innuendo
 
-Innuendo is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at FOLD, London on Sat, 21 Nov 2026.
+Innuendo is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at FOLD, London on Sat, 21 Nov 2026.
 
-Innuendo is a techno and electro artist based in Belgium, with 15 gigs on soundcheck across Basel, Berlin, Brussels and London and 5 more. Often billed alongside DJ Rino, Exkursion and Sanctus Libido. Next up: FOLD, London on Sat 21 Nov.
+Innuendo is a techno and electro artist based in Belgium, with 16 gigs on soundcheck across Basel, Berlin, Brussels and London and 5 more. Often billed alongside DJ Rino, Exkursion and Sanctus Libido. Next up: FOLD, London on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Innuendo is a techno and electro artist based in Belgium, with 15 gigs on soundc
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | FOLD | London |
 | Fri, 27 Nov 2026 | Cadavra | Madrid |
+| Sat, 19 Dec 2026 | Buda BXL | Brussels |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Innuendo is a techno and electro artist based in Belgium, with 15 gigs on soundc
 
 DJ Rino, Exkursion, Sanctus Libido
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/innuendo/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/innuendo/)*

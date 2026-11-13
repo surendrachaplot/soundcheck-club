@@ -1,6 +1,6 @@
 # Munby
 
-Munby is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Two More Years, London on Sat, 12 Dec 2026.
+Munby is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Two More Years, London on Sat, 12 Dec 2026.
 
 Munby is a disco and house artist based in United Kingdom, with 19 gigs on soundcheck across Berlin, Copenhagen, London and New York City and 1 more. Often billed alongside Bustin' Loose, Tatiana and Late Night Disco. Next up: Two More Years, London on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Munby is a disco and house artist based in United Kingdom, with 19 gigs on sound
 
 Bustin' Loose, Tatiana, Late Night Disco
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/munby/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/munby/)*

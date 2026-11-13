@@ -1,0 +1,28 @@
+# Dusty Ohms
+
+Dusty Ohms is a Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Planet Wax, London on Sun, 15 Nov 2026.
+
+Dusty Ohms is a bass and jungle artist based in United Kingdom, with 18 gigs on soundcheck across London. Often billed alongside Dexta, Pressa and Uncle G. Next up: Planet Wax, London on Sun 15 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sun, 15 Nov 2026 | Planet Wax | London |
+
+## Recently played
+
+- Aaja Basement, London · Fri, 23 Oct 2026
+- Planet Wax, London · Fri, 3 Jul 2026
+- Planet Wax, London · Sun, 15 Mar 2026
+- Planet Wax, London · Sat, 7 Mar 2026
+- Planet Wax, London · Sat, 21 Feb 2026
+- Aaja Basement, London · Sat, 28 Jun 2025
+- Planet Wax, London · Sat, 21 Sept 2024
+- Albany - Deptford, London · Sat, 7 Sept 2024
+
+## Shares bills with
+
+Dexta, Pressa, Uncle G
+
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dustyohms/)*

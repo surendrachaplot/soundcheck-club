@@ -1,8 +1,8 @@
 # VTSS
 
-VTSS is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
+VTSS is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
 
-VTSS is a techno and house artist based in Poland, with 203 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 70 more. Often billed alongside Patrick Mason, I Hate Models and KI/KI. Next up: The Concourse Project, Austin on Fri 13 Nov.
+VTSS is a techno and house artist based in Poland, with 204 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 70 more. Often billed alongside I Hate Models, Patrick Mason and KI/KI. Next up: The Concourse Project, Austin on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ VTSS is a techno and house artist based in Poland, with 203 gigs on soundcheck a
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 | Fri, 4 Dec 2026 | Preston Warehouse | Melbourne |
 | Sat, 5 Dec 2026 | Preston Warehouse | Melbourne |
+| Fri, 4 Jun 2027 | TBA | Glasgow |
 
 ## Recently played
 
@@ -28,6 +29,6 @@ VTSS is a techno and house artist based in Poland, with 203 gigs on soundcheck a
 
 ## Shares bills with
 
-Patrick Mason, I Hate Models, KI/KI
+I Hate Models, Patrick Mason, KI/KI
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vtss/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vtss/)*

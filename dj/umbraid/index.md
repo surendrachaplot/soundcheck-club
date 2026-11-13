@@ -1,6 +1,6 @@
 # Umbraid
 
-Umbraid is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Can Luis, Barcelona on Sat, 14 Nov 2026.
+Umbraid is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Can Luis, Barcelona on Sat, 14 Nov 2026.
 
 Umbraid is a techno and trance artist based in Spain, with 10 gigs on soundcheck across Antwerp, Barcelona, Berlin and Brussels and 5 more. Often billed alongside dj g2g, 1tbsp and A.mo. Next up: Can Luis, Barcelona on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Umbraid is a techno and trance artist based in Spain, with 10 gigs on soundcheck
 
 dj g2g, 1tbsp, A.mo
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/umbraid/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/umbraid/)*

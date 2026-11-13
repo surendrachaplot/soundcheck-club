@@ -1,6 +1,6 @@
 # Bonjour Ben
 
-Bonjour Ben is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Golden Gate, Berlin on Fri, 27 Nov 2026.
+Bonjour Ben is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Golden Gate, Berlin on Fri, 27 Nov 2026.
 
 Bonjour Ben is a house and techno artist based in Germany, with 57 gigs on soundcheck across Berlin, Cologne, Düsseldorf and Hamburg and 3 more. Often billed alongside Daniel Czerner, Edgar Peng and Alma Linda. Next up: Golden Gate, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Bonjour Ben is a house and techno artist based in Germany, with 57 gigs on sound
 
 Daniel Czerner, Edgar Peng, Alma Linda
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bonjourben/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bonjourben/)*

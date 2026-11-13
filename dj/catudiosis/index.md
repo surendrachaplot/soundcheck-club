@@ -1,6 +1,6 @@
 # Catu Diosis
 
-Catu Diosis is a Bass and Gqom artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at WUK, Vienna on Sat, 5 Dec 2026.
+Catu Diosis is a Bass and Gqom artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at WUK, Vienna on Sat, 5 Dec 2026.
 
 Catu Diosis is a bass and gqom artist based in Uganda, with 46 gigs on soundcheck across Amsterdam, Athens, Berlin and Bordeaux and 16 more. Often billed alongside De Schuurman, Rafush and Hibotep. Next up: WUK, Vienna on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Catu Diosis is a bass and gqom artist based in Uganda, with 46 gigs on soundchec
 
 De Schuurman, Rafush, Hibotep
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/catudiosis/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/catudiosis/)*

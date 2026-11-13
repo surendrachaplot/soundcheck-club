@@ -1,6 +1,6 @@
 # Malive
 
-Malive is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Museu do Amanhã, Rio de Janeiro on Sat, 6 Feb 2027.
+Malive is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Museu do Amanhã, Rio de Janeiro on Sat, 6 Feb 2027.
 
 Malive is a house and tech house artist based in Brazil, with 45 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 20 more. Often billed alongside Claptone, Adam Ten and Antdot. Next up: Museu do Amanhã, Rio de Janeiro on Sat 6 Feb.
 
@@ -26,4 +26,4 @@ Malive is a house and tech house artist based in Brazil, with 45 gigs on soundch
 
 Claptone, Adam Ten, Antdot
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/malive/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/malive/)*

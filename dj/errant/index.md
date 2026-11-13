@@ -1,6 +1,6 @@
 # ERRANT
 
-ERRANT is a Deep House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Azul Rooftop Barceloneta, Barcelona on Fri, 13 Nov 2026.
+ERRANT is a Deep House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Azul Rooftop Barceloneta, Barcelona on Fri, 13 Nov 2026.
 
 ERRANT is a deep house and afro house artist based in Italy, with 80 gigs on soundcheck across Barcelona, London and Milan. Often billed alongside Althoff, NIIXII and Jazz K. Next up: Azul Rooftop Barceloneta, Barcelona on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ ERRANT is a deep house and afro house artist based in Italy, with 80 gigs on sou
 
 Althoff, NIIXII, Jazz K
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/errant/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/errant/)*

@@ -1,8 +1,8 @@
 # Anz
 
-Anz is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at De Papierfabriek, Nijmegen on Fri, 27 Nov 2026.
+Anz is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at De Papierfabriek, Nijmegen on Fri, 27 Nov 2026.
 
-Anz is a house and techno artist based in United Kingdom, with 113 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Barcelona and 33 more. Often billed alongside Call Super, Special Request and Sedef Adasï. Next up: De Papierfabriek, Nijmegen on Fri 27 Nov.
+Anz is a house and techno artist based in United Kingdom, with 114 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Barcelona and 33 more. Often billed alongside Call Super, Special Request and Sedef Adasï. Next up: De Papierfabriek, Nijmegen on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Anz is a house and techno artist based in United Kingdom, with 113 gigs on sound
 | Fri, 27 Nov 2026 | De Papierfabriek | Nijmegen |
 | Sat, 28 Nov 2026 | The Prospect Building | Bristol |
 | Sat, 28 Nov 2026 | EartH | London |
+| Sat, 19 Dec 2026 | Amber's | Manchester |
 | Sun, 20 Dec 2026 | DRUMSHEDS | London |
 
 ## Recently played
@@ -28,4 +29,4 @@ Anz is a house and techno artist based in United Kingdom, with 113 gigs on sound
 
 Call Super, Special Request, Sedef Adasï
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anz/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anz/)*

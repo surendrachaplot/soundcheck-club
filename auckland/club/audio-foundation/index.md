@@ -1,6 +1,6 @@
 # Audio Foundation
 
-Audio Foundation is a music venue in Auckland with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Audio Foundation Presents: Delphine Dora (FR), Tamagawa (FR), Pumice" on Fri, 20 Nov 2026.
+Audio Foundation is a music venue in Auckland with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Audio Foundation Presents: Delphine Dora (FR), Tamagawa (FR), Pumice" on Fri, 20 Nov 2026.
 
 Audio Foundation is a music venue in Auckland listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 4 Poynton Terrace, , Auckland Central, New Zealand.
 
@@ -15,4 +15,4 @@ Audio Foundation is a music venue in Auckland listed on soundcheck. 2 upcoming g
 
 4 Poynton Terrace, , Auckland Central, New Zealand, Auckland
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/audio-foundation/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/audio-foundation/)*

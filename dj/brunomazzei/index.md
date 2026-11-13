@@ -1,6 +1,6 @@
 # Bruno Mazzei
 
-Bruno Mazzei is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Duel Club, Naples on Sat, 14 Nov 2026.
+Bruno Mazzei is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Duel Club, Naples on Sat, 14 Nov 2026.
 
 Bruno Mazzei is a house and tech house artist based in Italy, with 7 gigs on soundcheck across London and Naples. Often billed alongside Alex Bohemien, Key Eff and Broosk. Next up: Duel Club, Naples on Sat 14 Nov.
 
@@ -23,4 +23,4 @@ Bruno Mazzei is a house and tech house artist based in Italy, with 7 gigs on sou
 
 Alex Bohemien, Key Eff, Broosk
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brunomazzei/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brunomazzei/)*

@@ -1,6 +1,6 @@
 # Pan.
 
-Pan. is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Mason Bar, Cyprus on Sat, 21 Nov 2026.
+Pan. is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Mason Bar, Cyprus on Sat, 21 Nov 2026.
 
 Pan. is a techno and electronica artist based in Cyprus, with 8 gigs on soundcheck across Cyprus, Istanbul, London and Madrid and 2 more. Often billed alongside Abana, Alex Dallas and CAMET. Next up: Mason Bar, Cyprus on Sat 21 Nov.
 
@@ -24,4 +24,4 @@ Pan. is a techno and electronica artist based in Cyprus, with 8 gigs on soundche
 
 Abana, Alex Dallas, CAMET
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pan/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pan/)*

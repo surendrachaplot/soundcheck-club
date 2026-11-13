@@ -1,6 +1,6 @@
 # Dany E
 
-Dany E is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Radio Radio, Amsterdam on Sat, 21 Nov 2026.
+Dany E is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Radio Radio, Amsterdam on Sat, 21 Nov 2026.
 
 Dany E is a house and deep house artist based in Mexico, with 20 gigs on soundcheck across Amsterdam, Guadalajara, Ibiza and Mexico City and 1 more. Often billed alongside Barreto, My Boy Roy and Zombies In Miami. Next up: Radio Radio, Amsterdam on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Dany E is a house and deep house artist based in Mexico, with 20 gigs on soundch
 
 Barreto, My Boy Roy, Zombies In Miami
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danye/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danye/)*

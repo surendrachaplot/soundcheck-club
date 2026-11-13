@@ -1,6 +1,6 @@
 # Balou (2)
 
-Balou (2) is a Ambient and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Porcupine Hills, Bot River, Cape Town on Thu, 19 Nov 2026.
+Balou (2) is a Ambient and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Porcupine Hills, Bot River, Cape Town on Thu, 19 Nov 2026.
 
 Balou is an ambient and house artist based in Spain, with 9 gigs on soundcheck across Barcelona, Cape Town, Montreal and Vilnius. Often billed alongside Dragana, Millie McKee and Adria (ES). Next up: TBA - Porcupine Hills, Bot River, Cape Town on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Balou is an ambient and house artist based in Spain, with 9 gigs on soundcheck a
 
 Dragana, Millie McKee, Adria (ES)
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/balou-2/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/balou-2/)*

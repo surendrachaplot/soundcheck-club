@@ -1,6 +1,6 @@
 # Bourke Street Courtyard
 
-Bourke Street Courtyard is a music venue in Melbourne with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "ark // James Poole [UK] - Jim Jonathan [NL] - KELLAR [NL] - Veil State Takeover" on Sat, 14 Nov 2026.
+Bourke Street Courtyard is a music venue in Melbourne with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "ark // James Poole [UK] - Jim Jonathan [NL] - KELLAR [NL] - Veil State Takeover" on Sat, 14 Nov 2026.
 
 Bourke Street Courtyard is a music venue in Melbourne listed on soundcheck. 5 upcoming gigs, with line-ups including Dj Bouncy, Double Touch, James Poole and Dave Lee and 2 more. See dates, start times and who's playing. 629 Bourke Street Melbourne, Victoria, Australia.
 
@@ -18,4 +18,4 @@ Bourke Street Courtyard is a music venue in Melbourne listed on soundcheck. 5 up
 
 629 Bourke Street Melbourne, Victoria, Australia, Melbourne
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/bourke-street-courtyard/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/bourke-street-courtyard/)*

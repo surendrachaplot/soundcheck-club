@@ -1,6 +1,6 @@
 # Flash Gea
 
-Flash Gea is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Casa Nube Wynwood, Miami on Sat, 21 Nov 2026.
+Flash Gea is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Casa Nube Wynwood, Miami on Sat, 21 Nov 2026.
 
 Flash Gea is a techno and trance artist based in United States of America, with 34 gigs on soundcheck across Baltimore, Chicago, Dallas/Fort Worth and Houston and 8 more. Often billed alongside Conrad Taylor, DomnRob and Ueberrest. Next up: Casa Nube Wynwood, Miami on Sat 21 Nov.
 
@@ -30,4 +30,4 @@ Flash Gea is a techno and trance artist based in United States of America, with 
 
 Conrad Taylor, DomnRob, Ueberrest
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flashgea/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flashgea/)*

@@ -1,6 +1,6 @@
 # 9T2
 
-9T2 is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Lottus, Porto on Sat, 14 Nov 2026.
+9T2 is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Lottus, Porto on Sat, 14 Nov 2026.
 
 9T2 is a house and techno artist based in Portugal, with 34 gigs on soundcheck across Barcelona, Hamburg, Lisbon and London and 2 more. Often billed alongside JOFF., Carlos Regadas and Joff. Next up: Lottus, Porto on Sat 14 Nov.
 
@@ -25,4 +25,4 @@
 
 JOFF., Carlos Regadas, Joff
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/9t2/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/9t2/)*

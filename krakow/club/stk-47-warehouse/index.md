@@ -1,6 +1,6 @@
 # STK 47 WAREHOUSE
 
-STK 47 WAREHOUSE is a music venue in Krakow with 8 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "SCHISSMA: WRK, KRVZL & MORE" on Fri, 13 Nov 2026.
+STK 47 WAREHOUSE is a music venue in Krakow with 8 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "SCHISSMA: WRK, KRVZL & MORE" on Fri, 13 Nov 2026.
 
 STK 47 WAREHOUSE is a music venue in Krakow listed on soundcheck. 8 upcoming gigs, with line-ups including Axel Karakasis, BOM83L, dj.zamocno and Forest (PL) and 2 more. See dates, start times and who's playing. Kraków, 30-727, Pana Tadeusza 6, Poland.
 
@@ -21,4 +21,4 @@ STK 47 WAREHOUSE is a music venue in Krakow listed on soundcheck. 8 upcoming gig
 
 Kraków, 30-727, Pana Tadeusza 6, Poland, Krakow
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/stk-47-warehouse/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/stk-47-warehouse/)*

@@ -1,6 +1,6 @@
 # Fold
 
-Fold is a Bass and Garage artist with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at CANVAS, Dundee on Sat, 21 Nov 2026.
+Fold is a Bass and Garage artist with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at CANVAS, Dundee on Sat, 21 Nov 2026.
 
 Fold is a bass and garage artist based in United Kingdom, with 46 gigs on soundcheck across Barcelona, Brisbane, Bristol and Copenhagen and 18 more. Often billed alongside Joy Orbison, Y U QT and George FitzGerald. Next up: CANVAS, Dundee on Sat 21 Nov.
 
@@ -29,4 +29,4 @@ Fold is a bass and garage artist based in United Kingdom, with 46 gigs on soundc
 
 Joy Orbison, Y U QT, George FitzGerald
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fold/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fold/)*

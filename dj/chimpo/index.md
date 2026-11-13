@@ -1,6 +1,6 @@
 # Chimpo
 
-Chimpo is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Albert Hall, Manchester on Sat, 14 Nov 2026.
+Chimpo is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Albert Hall, Manchester on Sat, 14 Nov 2026.
 
 Chimpo is a drum & bass and jungle artist based in United Kingdom, with 109 gigs on soundcheck across Amsterdam, Belfast, Birmingham and Brighton and 13 more. Often billed alongside Rich Reason, Chunky and Strategy. Next up: Albert Hall, Manchester on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Chimpo is a drum & bass and jungle artist based in United Kingdom, with 109 gigs
 
 Rich Reason, Chunky, Strategy
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chimpo/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chimpo/)*

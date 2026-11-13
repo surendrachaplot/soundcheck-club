@@ -1,6 +1,6 @@
 # The Drop inn
 
-The Drop inn is a music venue in Birmingham with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "S.overload: The Outbreak" on Sat, 21 Nov 2026.
+The Drop inn is a music venue in Birmingham with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "S.overload: The Outbreak" on Sat, 21 Nov 2026.
 
 The Drop inn is a music venue in Birmingham listed on soundcheck. 4 upcoming gigs, with line-ups including Adam Mclean, Bunny, Cosmjn and Philo Marsh. See dates, start times and who's playing. 77A Upper Trinity St, Birmingham B9 4EG.
 
@@ -17,4 +17,4 @@ The Drop inn is a music venue in Birmingham listed on soundcheck. 4 upcoming gig
 
 77A Upper Trinity St, Birmingham B9 4EG, Birmingham
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/the-drop-inn/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/the-drop-inn/)*

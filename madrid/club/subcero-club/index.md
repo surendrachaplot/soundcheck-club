@@ -1,14 +1,13 @@
 # Subcero Club
 
-Subcero Club is a music venue in Madrid with 9 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Subcero x Glow Up" on Thu, 12 Nov 2026.
+Subcero Club is a music venue in Madrid with 8 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Subcero x Fahrenight" on Fri, 13 Nov 2026.
 
-Subcero Club is a music venue in Madrid listed on soundcheck. 9 upcoming gigs, with line-ups including Andrea Zarco, ARSA, CORTEZZ (SP) and Djen and 2 more. See dates, start times and who's playing. Calle Ayala, 27, Madrid, Spain.
+Subcero Club is a music venue in Madrid listed on soundcheck. 8 upcoming gigs, with line-ups including Andrea Zarco, ARSA, CORTEZZ (SP) and Djen and 2 more. See dates, start times and who's playing. Calle Ayala, 27, Madrid, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 12 Nov 2026 | Subcero x Glow Up | Petunia Clark |
 | Fri, 13 Nov 2026 | Subcero x Fahrenight | Filippo Costantini, Lorenzo Sidoti |
 | Sat, 14 Nov 2026 | Subcero x Verboten | ARSA, Vilor |
 | Thu, 19 Nov 2026 | Subcero x Yuki's |  |
@@ -22,4 +21,4 @@ Subcero Club is a music venue in Madrid listed on soundcheck. 9 upcoming gigs, w
 
 Calle Ayala, 27, Madrid, Spain, Madrid
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/subcero-club/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/subcero-club/)*

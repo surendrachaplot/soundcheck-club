@@ -1,8 +1,8 @@
 # Kiril K.
 
-Kiril K. is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Tell Me, Sofia on Fri, 13 Nov 2026.
+Kiril K. is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Tell Me, Sofia on Fri, 13 Nov 2026.
 
-Kiril K. is an electronica and house artist, with 30 gigs on soundcheck across Sofia. Often billed alongside Zimone, Vetomir and cccvvv. Next up: Tell Me, Sofia on Fri 13 Nov.
+Kiril K. is an electronica and house artist based in Bulgaria, with 30 gigs on soundcheck across Sofia. Often billed alongside Zimone, Vetomir and cccvvv. Next up: Tell Me, Sofia on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Kiril K. is an electronica and house artist, with 30 gigs on soundcheck across S
 
 Zimone, Vetomir, cccvvv
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kirilk./)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kirilk./)*

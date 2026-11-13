@@ -1,6 +1,6 @@
 # Mr. Twista
 
-Mr. Twista is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Temple Bar, Detroit on Sat, 14 Nov 2026.
+Mr. Twista is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Temple Bar, Detroit on Sat, 14 Nov 2026.
 
 Mr. Twista is a house and techno artist based in United States of America, with 16 gigs on soundcheck across Detroit. Often billed alongside Ginger Snap, Lo Dazz and Chelita. Next up: Temple Bar, Detroit on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Mr. Twista is a house and techno artist based in United States of America, with 
 
 Ginger Snap, Lo Dazz, Chelita
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.twista/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.twista/)*

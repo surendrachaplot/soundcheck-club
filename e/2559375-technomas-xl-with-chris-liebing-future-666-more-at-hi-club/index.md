@@ -1,6 +1,6 @@
 # TECHNOMAS XL  with Chris Liebing, future.666 & More at HI.Club
 
-TECHNOMAS XL  with Chris Liebing, future.666 & More at HI.Club on Mon 7 Dec, Naples. 4 artists: Chris Liebing, future.666, Indeck and Monolyth. Techno and Electronica. See the line-up on soundcheck.
+TECHNOMAS XL  with Chris Liebing, future.666 & More at HI.Club on Mon 7 Dec, Naples. 5 artists: Chris Liebing, future.666, Indeck and LC-G and 1 more. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ TECHNOMAS XL  with Chris Liebing, future.666 & More at HI.Club on Mon 7 Dec, Nap
 - Chris Liebing
 - future.666
 - Indeck
+- LC-G
 - Monolyth
 
 *Source: [soundcheck](https://soundcheck.club/e/2559375-technomas-xl-with-chris-liebing-future-666-more-at-hi-club/)*

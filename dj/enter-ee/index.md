@@ -1,6 +1,6 @@
 # ENTER (EE)
 
-ENTER (EE) is a Drum & Bass and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Kultuurikatel, Tallinn on Fri, 26 Mar 2027.
+ENTER (EE) is a Drum & Bass and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Kultuurikatel, Tallinn on Fri, 26 Mar 2027.
 
 ENTER (EE) is a drum & bass and house artist based in Estonia, with 22 gigs on soundcheck across Riga, Tallinn and Vilnius. Often billed alongside Qerty, KETA (LV) and Sansave. Next up: Kultuurikatel, Tallinn on Fri 26 Mar.
 
@@ -25,4 +25,4 @@ ENTER (EE) is a drum & bass and house artist based in Estonia, with 22 gigs on s
 
 Qerty, KETA (LV), Sansave
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enter-ee/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enter-ee/)*

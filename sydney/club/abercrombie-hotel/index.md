@@ -1,8 +1,8 @@
 # Abercrombie Hotel
 
-Abercrombie Hotel is a music venue in Sydney with 10 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Abercrombie Pres. Ciel [Canada]" on Fri, 13 Nov 2026.
+Abercrombie Hotel is a music venue in Sydney with 10 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Abercrombie Pres. Ciel [Canada]" on Fri, 13 Nov 2026.
 
-Abercrombie Hotel is a music venue in Sydney listed on soundcheck. 10 upcoming gigs, with line-ups including Ari Kiko, BASHKKA, Ciel and Gabrielle Kwarteng and 2 more. See dates, start times and who's playing. 100 Broadway; Ultimo, NSW 2007; Australia.
+Abercrombie Hotel is a music venue in Sydney listed on soundcheck. 10 upcoming gigs, with line-ups including Ali Bilal, Ari Kiko, BASHKKA and Ciel and 2 more. See dates, start times and who's playing. 100 Broadway; Ultimo, NSW 2007; Australia.
 
 ## What's on
 
@@ -15,7 +15,7 @@ Abercrombie Hotel is a music venue in Sydney listed on soundcheck. 10 upcoming g
 | Fri, 4 Dec 2026 | unfurling feat. Olivia Mendez [FRA] | Olivia Mendez |
 | Sat, 5 Dec 2026 | Abercrombie Pres. Ploy [UK] | Ploy |
 | Sat, 5 Dec 2026 | P&F: DOOZIE RECORDS COURTYARD PARTY ¤ RTK Tarantino ¤ PARKER ¤ Nay Barr | James Parker, RTK Tarantino |
-| Fri, 11 Dec 2026 | Abercrombie Pres. Takaaki Itoh [JAP] | Takaaki Itoh |
+| Fri, 11 Dec 2026 | pselodia Launch Party  Featuring Takaaki Itoh, Ali Bilal & Jennifer Ratnai | Ali Bilal, Jennifer Ratnai, Takaaki Itoh |
 | Sat, 12 Dec 2026 | Abercrombie Pres. Hidden Spheres [UK] | Hidden Spheres |
 | Fri, 18 Dec 2026 | PASTEL x Abercrombie Pres. Wata Igarashi [Jap] | Mozz, Wata Igarashi |
 
@@ -23,4 +23,4 @@ Abercrombie Hotel is a music venue in Sydney listed on soundcheck. 10 upcoming g
 
 100 Broadway; Ultimo, NSW 2007; Australia, Sydney
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/abercrombie-hotel/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/abercrombie-hotel/)*

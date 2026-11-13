@@ -1,6 +1,6 @@
 # MILLIAMPERE /w DJ DRECKISCH, JOKESONYOU and many more at Lokschuppen Berlin
 
-MILLIAMPERE /w DJ DRECKISCH, JOKESONYOU and many more at Lokschuppen Berlin on Fri 4 Dec, Berlin. 8 artists: ARGOT, DJ DRECKISCH, JOKESONYOU and Morelia and 4 more. Trance and Techno. See the line-up on soundcheck.
+MILLIAMPERE /w DJ DRECKISCH, JOKESONYOU and many more at Lokschuppen Berlin on Fri 4 Dec, Berlin. 9 artists: ARGOT, CADZOW, DJ DRECKISCH and JOKESONYOU and 5 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ MILLIAMPERE /w DJ DRECKISCH, JOKESONYOU and many more at Lokschuppen Berlin on F
 ## Line-up
 
 - ARGOT
+- CADZOW
 - DJ DRECKISCH
 - JOKESONYOU
 - Morelia

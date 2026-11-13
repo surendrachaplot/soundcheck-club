@@ -1,6 +1,6 @@
 # Megan Rosengarten
 
-Megan Rosengarten is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Bossa Nova Civic Club, New York City on Tue, 17 Nov 2026.
+Megan Rosengarten is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Bossa Nova Civic Club, New York City on Tue, 17 Nov 2026.
 
 Megan Rosengarten is a techno and experimental artist based in United States of America, with 27 gigs on soundcheck across Berlin and New York City. Often billed alongside Wren's Lullaby, Friedberg and DREAMINSLOW. Next up: Bossa Nova Civic Club, New York City on Tue 17 Nov.
 
@@ -26,4 +26,4 @@ Megan Rosengarten is a techno and experimental artist based in United States of 
 
 Wren's Lullaby, Friedberg, DREAMINSLOW
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meganrosengarten/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meganrosengarten/)*

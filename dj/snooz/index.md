@@ -1,6 +1,6 @@
 # Snooz
 
-Snooz is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Mono, Rotterdam on Sat, 21 Nov 2026.
+Snooz is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Mono, Rotterdam on Sat, 21 Nov 2026.
 
 Snooz is a house and techno artist based in Netherlands, with 42 gigs on soundcheck across Amsterdam, London, Miami and Rotterdam. Often billed alongside Kirilski, Pura Pachanga and FR3ADY. Next up: Mono, Rotterdam on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Snooz is a house and techno artist based in Netherlands, with 42 gigs on soundch
 
 Kirilski, Pura Pachanga, FR3ADY
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/snooz/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/snooz/)*

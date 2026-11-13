@@ -1,6 +1,6 @@
 # Brownsugvr
 
-Brownsugvr is a Afro House and Kuduro artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at AB Club (Ancienne Belgique), Brussels on Fri, 20 Nov 2026.
+Brownsugvr is a Afro House and Kuduro artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at AB Club (Ancienne Belgique), Brussels on Fri, 20 Nov 2026.
 
 Brownsugvr is an afro house and kuduro artist based in Angola, with 9 gigs on soundcheck across Brussels, Lisbon and Paris. Often billed alongside Ravi Bongo, Circa Papi and Fvbricia. Next up: AB Club (Ancienne Belgique), Brussels on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Brownsugvr is an afro house and kuduro artist based in Angola, with 9 gigs on so
 
 Ravi Bongo, Circa Papi, Fvbricia
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brownsugvr/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brownsugvr/)*

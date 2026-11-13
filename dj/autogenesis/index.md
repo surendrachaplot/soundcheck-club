@@ -1,6 +1,6 @@
 # Autogenesis
 
-Autogenesis is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at QQQ ST. Park, Melbourne on Sat, 19 Dec 2026.
+Autogenesis is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at QQQ ST. Park, Melbourne on Sat, 19 Dec 2026.
 
 Autogenesis is a techno and psytrance artist based in Australia, with 26 gigs on soundcheck across Athens, Berlin, Budapest and Canberra and 6 more. Often billed alongside Jungist, Ebony Willis and Andy Garvey. Next up: QQQ ST. Park, Melbourne on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Autogenesis is a techno and psytrance artist based in Australia, with 26 gigs on
 
 Jungist, Ebony Willis, Andy Garvey
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/autogenesis/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/autogenesis/)*

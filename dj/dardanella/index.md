@@ -1,6 +1,6 @@
 # DARDANELLA
 
-DARDANELLA is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Bike Jesus, Prague on Sat, 21 Nov 2026.
+DARDANELLA is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Bike Jesus, Prague on Sat, 21 Nov 2026.
 
 DARDANELLA is a techno and tech house artist based in Czech Republic, with 9 gigs on soundcheck across Prague. Often billed alongside Diva, 2NDRA and Big Lil. Next up: Bike Jesus, Prague on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ DARDANELLA is a techno and tech house artist based in Czech Republic, with 9 gig
 
 Diva, 2NDRA, Big Lil
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dardanella/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dardanella/)*

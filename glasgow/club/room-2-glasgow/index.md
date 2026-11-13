@@ -1,15 +1,15 @@
 # Room 2 Glasgow
 
-Room 2 Glasgow is a music venue in Glasgow with 11 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Teletech x Ali James [Room 2, Glasgow]" on Sat, 14 Nov 2026.
+Room 2 Glasgow is a music venue in Glasgow with 11 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Teletech x Ali James [Room 2, Glasgow]" on Sat, 14 Nov 2026.
 
-Room 2 Glasgow is a music venue in Glasgow listed on soundcheck. 11 upcoming gigs, with line-ups including 6EJOU, Dominique., Frankie Elyse and Jalo and 2 more. See dates, start times and who's playing. 69 Nelson Mandela Pl, Glasgow G2 1QY, United Kingdom.
+Room 2 Glasgow is a music venue in Glasgow listed on soundcheck. 11 upcoming gigs, with line-ups including 6EJOU, Dominique., Frankie Elyse and GK Machine and 2 more. See dates, start times and who's playing. 69 Nelson Mandela Pl, Glasgow G2 1QY, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Teletech x Ali James [Room 2, Glasgow] |  |
-| Thu, 19 Nov 2026 | The Field (Live) | The Field |
+| Thu, 19 Nov 2026 | The Field (Live) + GK Machine (DJ) | GK Machine, The Field |
 | Fri, 20 Nov 2026 | LOVEHATE: D-FENCE x MIND COMPRESSOR |  |
 | Sat, 21 Nov 2026 | Nick's Night 2026 | Dominique., Frankie Elyse, McMSTR |
 | Fri, 27 Nov 2026 | PHG Presents: 6EJOU (Live) | 6EJOU |
@@ -23,4 +23,4 @@ Room 2 Glasgow is a music venue in Glasgow listed on soundcheck. 11 upcoming gig
 
 69 Nelson Mandela Pl, Glasgow G2 1QY, United Kingdom, Glasgow
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/room-2-glasgow/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/room-2-glasgow/)*

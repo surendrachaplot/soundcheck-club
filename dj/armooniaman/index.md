@@ -1,6 +1,6 @@
 # Armooniaman
 
-Armooniaman is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Union Club, Vauxhall, London on Thu, 26 Nov 2026.
+Armooniaman is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Union Club, Vauxhall, London on Thu, 26 Nov 2026.
 
 Armooniaman is a techno and tech house artist based in United Kingdom, with 18 gigs on soundcheck across London. Often billed alongside Aur0m, Francesco Poggi and Dhez. Next up: Union Club, Vauxhall, London on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Armooniaman is a techno and tech house artist based in United Kingdom, with 18 g
 
 Aur0m, Francesco Poggi, Dhez
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/armooniaman/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/armooniaman/)*

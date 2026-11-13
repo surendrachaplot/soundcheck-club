@@ -1,6 +1,6 @@
 # TBA - New York City, USA
 
-TBA - New York City, USA is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "Syntra Movement Presents: After Hours, Before Everything" on Sat, 5 Dec 2026.
+TBA - New York City, USA is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "Syntra Movement Presents: After Hours, Before Everything" on Sat, 5 Dec 2026.
 
 TBA - New York City, USA is a music venue in New York City listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - New York City, USA is a music venue in New York City listed on soundcheck.
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Syntra Movement Presents: After Hours, Before Everything |  |
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/tba-new-york-city-usa/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/tba-new-york-city-usa/)*

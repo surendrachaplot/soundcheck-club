@@ -1,6 +1,6 @@
 # Prismatika
 
-Prismatika is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Video Club, Bogotá on Fri, 13 Nov 2026.
+Prismatika is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Video Club, Bogotá on Fri, 13 Nov 2026.
 
 Prismatika is a house and techno artist based in Colombia, with 14 gigs on soundcheck across Bogotá. Often billed alongside Leeon, Didacta and Guille Katorzi. Next up: Video Club, Bogotá on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Prismatika is a house and techno artist based in Colombia, with 14 gigs on sound
 
 Leeon, Didacta, Guille Katorzi
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prismatika/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prismatika/)*

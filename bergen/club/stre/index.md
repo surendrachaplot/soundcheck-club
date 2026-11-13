@@ -1,6 +1,6 @@
 # Østre
 
-Østre is a music venue in Bergen with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Resonance of Dub: DJ Sotofett & Ekowmania" on Fri, 13 Nov 2026.
+Østre is a music venue in Bergen with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Resonance of Dub: DJ Sotofett & Ekowmania" on Fri, 13 Nov 2026.
 
 Østre is a music venue in Bergen listed on soundcheck. 5 upcoming gigs, with line-ups including Dis Fig, DJ Sotofett, Hildisvini and Reckless Kettle and 1 more. See dates, start times and who's playing. Østre Skostredet 3; 5017 Bergen; Norway.
 
@@ -18,4 +18,4 @@
 
 Østre Skostredet 3; 5017 Bergen; Norway, Bergen
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/bergen/club/stre/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/bergen/club/stre/)*

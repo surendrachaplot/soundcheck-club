@@ -1,6 +1,6 @@
 # K-LONE
 
-K-LONE is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Phonox, London on Sat, 21 Nov 2026.
+K-LONE is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Phonox, London on Sat, 21 Nov 2026.
 
 K-LONE is a house and bass artist based in United Kingdom, with 68 gigs on soundcheck across Amsterdam, Auckland, Berlin and Brighton and 17 more. Often billed alongside Facta, Jorg Kuning and Yushh. Next up: Phonox, London on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ K-LONE is a house and bass artist based in United Kingdom, with 68 gigs on sound
 
 Facta, Jorg Kuning, Yushh
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/k-lone-uk/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/k-lone-uk/)*

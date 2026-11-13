@@ -1,6 +1,6 @@
 # Her Nice Too
 
-Her Nice Too is a Bass and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Brancaleone, Rome on Sat, 21 Nov 2026.
+Her Nice Too is a Bass and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Brancaleone, Rome on Sat, 21 Nov 2026.
 
 Her Nice Too is a bass and electronica artist based in Italy, with 24 gigs on soundcheck across Rome. Often billed alongside Prest, VSC and Mantis (IT). Next up: Brancaleone, Rome on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Her Nice Too is a bass and electronica artist based in Italy, with 24 gigs on so
 
 Prest, VSC (1), Mantis (IT)
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hernicetoo/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hernicetoo/)*

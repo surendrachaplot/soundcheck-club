@@ -1,6 +1,6 @@
 # Royce Larøca
 
-Royce Larøca is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Pawn Shop, Dublin on Sat, 14 Nov 2026.
+Royce Larøca is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Pawn Shop, Dublin on Sat, 14 Nov 2026.
 
 Royce Larøca is a house and minimal artist based in Brazil, with 77 gigs on soundcheck across Dublin, Lisbon, London and Paris and 2 more. Often billed alongside Waximum, Hera (IE) and RealTalks Soundsystem. Next up: Pawn Shop, Dublin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Royce Larøca is a house and minimal artist based in Brazil, with 77 gigs on sou
 
 Waximum, Hera (IE), RealTalks Soundsystem
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roycelaroca/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roycelaroca/)*

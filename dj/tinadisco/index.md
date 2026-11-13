@@ -1,6 +1,6 @@
 # Tina Disco
 
-Tina Disco is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Under Club, Buenos Aires on Fri, 4 Dec 2026.
+Tina Disco is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Under Club, Buenos Aires on Fri, 4 Dec 2026.
 
 Tina Disco is a house and disco artist based in Argentina, with 81 gigs on soundcheck across Barcelona, Buenos Aires, London and Melbourne and 3 more. Often billed alongside Zalina, Hannah D and Baby G. Next up: Under Club, Buenos Aires on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Tina Disco is a house and disco artist based in Argentina, with 81 gigs on sound
 
 Zalina, Hannah D, Baby G
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tinadisco/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tinadisco/)*

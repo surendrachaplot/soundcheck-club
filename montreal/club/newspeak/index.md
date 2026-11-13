@@ -1,6 +1,6 @@
 # Newspeak
 
-Newspeak is a music venue in Montreal with 12 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "îLESONIQ présente : BISCITS au Newspeak" on Fri, 13 Nov 2026.
+Newspeak is a music venue in Montreal with 12 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "îLESONIQ présente : BISCITS au Newspeak" on Fri, 13 Nov 2026.
 
 Newspeak is a music venue in Montreal listed on soundcheck. 12 upcoming gigs, with line-ups including Biscits, Brat Star, Dick Lee and DJ SWISHA and 2 more. See dates, start times and who's playing. 1403 Rue Sainte-Elisabeth, Montréal, QC H2X 3C5.
 
@@ -23,4 +23,4 @@ Newspeak is a music venue in Montreal listed on soundcheck. 12 upcoming gigs, wi
 
 1403 Rue Sainte-Elisabeth, Montréal, QC H2X 3C5, Montreal
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/newspeak/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/newspeak/)*

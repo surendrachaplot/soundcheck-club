@@ -1,6 +1,6 @@
 # Avi Sic
 
-Avi Sic is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Spybar, Chicago on Thu, 19 Nov 2026.
+Avi Sic is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Spybar, Chicago on Thu, 19 Nov 2026.
 
 Avi Sic is a house and techno artist based in United States of America, with 5 gigs on soundcheck across Chicago. Often billed alongside AMARI, Alex Kislov and Amit. Next up: Spybar, Chicago on Thu 19 Nov.
 
@@ -21,4 +21,4 @@ Avi Sic is a house and techno artist based in United States of America, with 5 g
 
 AMARI, Alex Kislov, Amit
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avisic/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avisic/)*

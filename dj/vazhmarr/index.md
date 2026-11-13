@@ -1,6 +1,6 @@
 # Vazhmarr
 
-Vazhmarr is a Dancehall and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Tbili Orgia, Tbilisi on Sun, 22 Nov 2026.
+Vazhmarr is a Dancehall and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Tbili Orgia, Tbilisi on Sun, 22 Nov 2026.
 
 Vazhmarr is a dancehall and electro artist based in Georgia, with 21 gigs on soundcheck across Armenia, Athens and Tbilisi. Often billed alongside Tbili orgia, Anketa and ORBITA. Next up: Tbili Orgia, Tbilisi on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ Vazhmarr is a dancehall and electro artist based in Georgia, with 21 gigs on sou
 
 Tbili orgia, Anketa, ORBITA
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vazhmarr/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vazhmarr/)*

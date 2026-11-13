@@ -1,6 +1,6 @@
 # virtue_signal
 
-virtue_signal is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Favela Chic, New Orleans on Sat, 5 Dec 2026.
+virtue_signal is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Favela Chic, New Orleans on Sat, 5 Dec 2026.
 
 virtue_signal is a techno and house artist based in United States of America, with 25 gigs on soundcheck across Detroit, New Orleans and New York City. Often billed alongside Nile Ashton, D1ME and Tammy Lakkis. Next up: Favela Chic, New Orleans on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ virtue_signal is a techno and house artist based in United States of America, wi
 
 Nile Ashton, D1ME, Tammy Lakkis
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/virtuesignal/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/virtuesignal/)*

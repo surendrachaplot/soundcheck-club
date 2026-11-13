@@ -1,6 +1,6 @@
 # Broodoo Ramses
 
-Broodoo Ramses is a Club and Bass artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at La Station - Gare des Mines, Paris on Fri, 20 Nov 2026.
+Broodoo Ramses is a Club and Bass artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at La Station - Gare des Mines, Paris on Fri, 20 Nov 2026.
 
 Broodoo Ramses is a club and bass artist based in France, with 60 gigs on soundcheck across Belgrade, Berlin, Geneva and Hamburg and 7 more. Often billed alongside Bamao Yendé, Crystallmess and Jyoty. Next up: La Station - Gare des Mines, Paris on Fri 20 Nov.
 
@@ -28,4 +28,4 @@ Broodoo Ramses is a club and bass artist based in France, with 60 gigs on soundc
 
 Bamao Yendé, Crystallmess, Jyoty
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/broodooramses/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/broodooramses/)*

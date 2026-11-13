@@ -1,6 +1,6 @@
 # Eiden
 
-Eiden is a Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Tunnel, Milan on Sat, 21 Nov 2026.
+Eiden is a Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Tunnel, Milan on Sat, 21 Nov 2026.
 
 Eiden is a trance artist, with 11 gigs on soundcheck across Milan. Often billed alongside Ludovici, LUX (IT) and Mapo. Next up: Tunnel, Milan on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Eiden is a trance artist, with 11 gigs on soundcheck across Milan. Often billed 
 
 Ludovici, LUX (IT), Mapo
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eiden/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eiden/)*

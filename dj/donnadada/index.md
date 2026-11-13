@@ -1,6 +1,6 @@
 # Donna Dada
 
-Donna Dada is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Biltmore Cabaret, Vancouver on Fri, 27 Nov 2026.
+Donna Dada is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Biltmore Cabaret, Vancouver on Fri, 27 Nov 2026.
 
 Donna Dada is a garage and house artist based in Canada, with 23 gigs on soundcheck across Calgary, Edmonton, Los Angeles and Toronto and 1 more. Often billed alongside DR BPM, Effy and Kraang. Next up: Biltmore Cabaret, Vancouver on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Donna Dada is a garage and house artist based in Canada, with 23 gigs on soundch
 
 DR BPM, Effy, Kraang
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/donnadada/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/donnadada/)*

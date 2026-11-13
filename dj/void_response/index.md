@@ -1,6 +1,6 @@
 # void_response
 
-void_response is a Electro and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Near Jannowitzbrücke, Berlin on Fri, 27 Nov 2026.
+void_response is a Electro and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Near Jannowitzbrücke, Berlin on Fri, 27 Nov 2026.
 
 void_response is an electro and bass artist based in United Kingdom, with 10 gigs on soundcheck across Berlin and London. Often billed alongside Turbo Miffy, Cocktail Party Effect and DJ-HOTLINE 333. Next up: TBA - Near Jannowitzbrücke, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ void_response is an electro and bass artist based in United Kingdom, with 10 gig
 
 Turbo Miffy, Cocktail Party Effect, DJ-HOTLINE 333
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/void_response/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/void_response/)*

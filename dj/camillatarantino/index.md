@@ -1,6 +1,6 @@
 # Camilla Tarantino
 
-Camilla Tarantino is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Sensorium, Berlin on Fri, 27 Nov 2026.
+Camilla Tarantino is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Sensorium, Berlin on Fri, 27 Nov 2026.
 
 Camilla Tarantino is a techno and tech house artist based in Italy, with 37 gigs on soundcheck across Berlin. Often billed alongside Viktor Kampf, Ilyas S and Francesca Kazka. Next up: Sensorium, Berlin on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Camilla Tarantino is a techno and tech house artist based in Italy, with 37 gigs
 
 Viktor Kampf, Ilyas S, Francesca Kazka
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/camillatarantino/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/camillatarantino/)*

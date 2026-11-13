@@ -1,6 +1,6 @@
 # Odete
 
-Odete is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Arroz Estúdios, Lisbon on Wed, 11 Nov 2026.
+Odete is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Arroz Estúdios, Lisbon on Wed, 11 Nov 2026.
 
 Odete is an electronica and experimental artist based in Portugal, with 26 gigs on soundcheck across Amsterdam, Berlin, Lisbon and Milan and 5 more. Often billed alongside BLEID, Violet (PT) and Astrid Sonne. Next up: Arroz Estúdios, Lisbon on Wed 11 Nov.
 
@@ -25,4 +25,4 @@ Odete is an electronica and experimental artist based in Portugal, with 26 gigs 
 
 BLEID, Violet (PT), Astrid Sonne
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/odete/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/odete/)*

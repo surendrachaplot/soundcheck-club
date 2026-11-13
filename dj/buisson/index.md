@@ -1,6 +1,6 @@
 # Buisson
 
-Buisson is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Flowranch, Quebec City on Sat, 12 Dec 2026.
+Buisson is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Flowranch, Quebec City on Sat, 12 Dec 2026.
 
 Buisson is a techno and house artist based in Canada, with 10 gigs on soundcheck across Montreal and Quebec City. Often billed alongside Bioquake, Berti and Caterina Infinity. Next up: Flowranch, Quebec City on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Buisson is a techno and house artist based in Canada, with 10 gigs on soundcheck
 
 Bioquake, Berti, Caterina Infinity
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/buisson/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/buisson/)*

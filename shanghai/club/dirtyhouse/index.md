@@ -1,6 +1,6 @@
 # Dirtyhouse
 
-Dirtyhouse is a music venue in Shanghai with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "RAVE FORCE: AK SPORTS" on Fri, 13 Nov 2026.
+Dirtyhouse is a music venue in Shanghai with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "RAVE FORCE: AK SPORTS" on Fri, 13 Nov 2026.
 
 Dirtyhouse is a music venue in Shanghai listed on soundcheck. 5 upcoming gigs, with line-ups including AK SPORTS, Mansun, NAKIN and Onyx and 1 more. See dates, start times and who's playing.
 
@@ -14,4 +14,4 @@ Dirtyhouse is a music venue in Shanghai listed on soundcheck. 5 upcoming gigs, w
 | Fri, 20 Nov 2026 | DIRTY DIMENSION |  |
 | Sat, 21 Nov 2026 | YetiOut Thomas Bray | NAKIN |
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/shanghai/club/dirtyhouse/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/shanghai/club/dirtyhouse/)*

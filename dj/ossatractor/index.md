@@ -1,6 +1,6 @@
 # Oss Atractor
 
-Oss Atractor is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at 50 | 50, Medellin on Sat, 14 Nov 2026.
+Oss Atractor is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at 50 | 50, Medellin on Sat, 14 Nov 2026.
 
 Oss Atractor is a techno and electronica artist based in Colombia, with 17 gigs on soundcheck across Medellin. Often billed alongside Red Noise, Leo J and Sepian. Next up: 50 | 50, Medellin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Oss Atractor is a techno and electronica artist based in Colombia, with 17 gigs 
 
 Red Noise, Leo J, Sepian
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ossatractor/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ossatractor/)*

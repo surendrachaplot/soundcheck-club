@@ -1,6 +1,6 @@
 # Bollwerk Cologne
 
-Bollwerk Cologne is a music venue in Cologne with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "AFTER:DARK - A Highclass Kinky Rave" on Fri, 27 Nov 2026.
+Bollwerk Cologne is a music venue in Cologne with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "AFTER:DARK - A Highclass Kinky Rave" on Fri, 27 Nov 2026.
 
 Bollwerk Cologne is a music venue in Cologne listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. Hohenzollernring 89-93, 50672 Köln, Germany.
 
@@ -15,4 +15,4 @@ Bollwerk Cologne is a music venue in Cologne listed on soundcheck. 2 upcoming gi
 
 Hohenzollernring 89-93, 50672 Köln, Germany, Cologne
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/bollwerk-cologne/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/bollwerk-cologne/)*

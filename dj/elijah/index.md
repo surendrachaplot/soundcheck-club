@@ -1,6 +1,6 @@
 # Elijah
 
-Elijah is a Club and Grime artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Genesis Cinema, London on Tue, 17 Nov 2026.
+Elijah is a Club and Grime artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Genesis Cinema, London on Tue, 17 Nov 2026.
 
 Elijah is a club and grime artist based in United Kingdom, with 40 gigs on soundcheck across Barcelona, Berlin, Edinburgh and Glasgow and 16 more. Often billed alongside Moxie, Ahadadream and Bendik Giske. Next up: Genesis Cinema, London on Tue 17 Nov.
 
@@ -25,4 +25,4 @@ Elijah is a club and grime artist based in United Kingdom, with 40 gigs on sound
 
 Moxie, Ahadadream, Bendik Giske
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elijah/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elijah/)*

@@ -1,6 +1,6 @@
 # Moonbootica
 
-Moonbootica is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Gewölbe, Cologne on Fri, 27 Nov 2026.
+Moonbootica is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Gewölbe, Cologne on Fri, 27 Nov 2026.
 
 Moonbootica is a techno and house artist based in Germany, with 52 gigs on soundcheck across Austria, Berlin, Cologne and Dortmund / Essen and 11 more. Often billed alongside Format B, AKA AKA and Dominik Eulberg. Next up: Gewölbe, Cologne on Fri 27 Nov.
 
@@ -28,4 +28,4 @@ Moonbootica is a techno and house artist based in Germany, with 52 gigs on sound
 
 Format B, AKA AKA, Dominik Eulberg
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moonbootica/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moonbootica/)*

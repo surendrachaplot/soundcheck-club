@@ -1,6 +1,6 @@
 # K.eem
 
-K.eem is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Cross, London on Sat, 28 Nov 2026.
+K.eem is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Cross, London on Sat, 28 Nov 2026.
 
 K.eem is a techno and house artist, with 16 gigs on soundcheck across Amsterdam, Barcelona, Copenhagen and London and 3 more. Often billed alongside Auggië, Cipy and Ander Race. Next up: The Cross, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ K.eem is a techno and house artist, with 16 gigs on soundcheck across Amsterdam,
 
 Auggië, Cipy, Ander Race
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/k.eem/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/k.eem/)*

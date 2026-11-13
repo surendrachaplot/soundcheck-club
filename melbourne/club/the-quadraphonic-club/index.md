@@ -1,6 +1,6 @@
 # The Quadraphonic Club
 
-The Quadraphonic Club is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "Calentura Vol.3: El Gran Mono Meets Bellaqueo" on Sat, 5 Dec 2026.
+The Quadraphonic Club is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "Calentura Vol.3: El Gran Mono Meets Bellaqueo" on Sat, 5 Dec 2026.
 
 The Quadraphonic Club is a music venue in Melbourne listed on soundcheck. 1 upcoming gig, with line-ups including Gabbs and ZAFIRO (AU). See dates, start times and who's playing. 45 Victoria St, Brunswick VIC 3056.
 
@@ -14,4 +14,4 @@ The Quadraphonic Club is a music venue in Melbourne listed on soundcheck. 1 upco
 
 45 Victoria St, Brunswick VIC 3056, Melbourne
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-quadraphonic-club/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-quadraphonic-club/)*

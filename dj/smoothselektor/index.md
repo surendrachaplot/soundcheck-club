@@ -1,6 +1,6 @@
 # Smooth Selektor
 
-Smooth Selektor is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Balagan, Mexico City on Sat, 14 Nov 2026.
+Smooth Selektor is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Balagan, Mexico City on Sat, 14 Nov 2026.
 
 Smooth Selektor is a house and deep house artist based in Mexico, with 10 gigs on soundcheck across Guadalajara and Mexico City. Often billed alongside Roan Prado, YUGEEN and Alicelect. Next up: Balagan, Mexico City on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Smooth Selektor is a house and deep house artist based in Mexico, with 10 gigs o
 
 Roan Prado, YUGEEN, Alicelect
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/smoothselektor/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/smoothselektor/)*

@@ -1,6 +1,6 @@
 # Smolna x Schissma: Kander at Smolna
 
-Smolna x Schissma: Kander on Sat 14 Nov, Warsaw. 5 artists: ERNST (UA), Kander, SCHELLT and VRAXX and 1 more. Techno. See the line-up on soundcheck.
+Smolna x Schissma: Kander on Sat 14 Nov, Warsaw. 7 artists: ERNST (UA), Kander, Kasia DVD and Mazi (PL) and 3 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,8 @@ Smolna x Schissma: Kander on Sat 14 Nov, Warsaw. 5 artists: ERNST (UA), Kander, 
 
 - ERNST (UA)
 - Kander
+- Kasia DVD
+- Mazi (PL)
 - SCHELLT
 - VRAXX
 - xcessive

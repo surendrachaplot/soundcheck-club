@@ -1,6 +1,6 @@
 # Randalia
 
-Randalia is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at PRST, Vienna on Fri, 13 Nov 2026.
+Randalia is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at PRST, Vienna on Fri, 13 Nov 2026.
 
 Randalia is a house and tech house artist based in Austria, with 29 gigs on soundcheck across Berlin and Vienna. Often billed alongside DJ Sprudel, Countershine and Aimé. Next up: PRST, Vienna on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Randalia is a house and tech house artist based in Austria, with 29 gigs on soun
 
 DJ Sprudel, Countershine, Aimé
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/randalia/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/randalia/)*

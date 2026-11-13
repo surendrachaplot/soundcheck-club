@@ -1,6 +1,6 @@
 # Sala Villanos
 
-Sala Villanos is a music venue in Madrid with 7 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Cinthie + Nacho Marco " on Fri, 13 Nov 2026.
+Sala Villanos is a music venue in Madrid with 7 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Cinthie + Nacho Marco " on Fri, 13 Nov 2026.
 
 Sala Villanos is a music venue in Madrid listed on soundcheck. 7 upcoming gigs, with line-ups including Acid Pauli, Acid Hero, Cinthie and COEO and 2 more. See dates, start times and who's playing. C. de Bernardino Obregón, 18, 28012 Madrid, Spain.
 
@@ -20,4 +20,4 @@ Sala Villanos is a music venue in Madrid listed on soundcheck. 7 upcoming gigs, 
 
 C. de Bernardino Obregón, 18, 28012 Madrid, Spain, Madrid
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-villanos/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-villanos/)*

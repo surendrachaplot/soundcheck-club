@@ -1,6 +1,6 @@
 # In-Tan
 
-In-Tan is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at La Gare / Le Gore, Paris on Wed, 18 Nov 2026.
+In-Tan is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at La Gare / Le Gore, Paris on Wed, 18 Nov 2026.
 
 In-Tan is a techno and house artist based in Indonesia, with 61 gigs on soundcheck across Berlin, Lyon, Marseille and Paris. Often billed alongside Kelbail, Cattoni and Artifak. Next up: La Gare / Le Gore, Paris on Wed 18 Nov.
 
@@ -26,4 +26,4 @@ In-Tan is a techno and house artist based in Indonesia, with 61 gigs on soundche
 
 Kelbail, Cattoni, Artifak
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/in-tan/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/in-tan/)*

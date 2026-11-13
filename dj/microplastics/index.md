@@ -1,6 +1,6 @@
 # Microplastics
 
-Microplastics is a Club and Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The White Hotel, Manchester on Fri, 11 Dec 2026.
+Microplastics is a Club and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The White Hotel, Manchester on Fri, 11 Dec 2026.
 
 Microplastics is a club and experimental artist based in United Kingdom, with 15 gigs on soundcheck across Berlin, Central, London and Manchester and 4 more. Often billed alongside 96 Back, aya and Jennifer Walton. Next up: The White Hotel, Manchester on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ Microplastics is a club and experimental artist based in United Kingdom, with 15
 
 96 Back, aya, Jennifer Walton
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/microplastics/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/microplastics/)*

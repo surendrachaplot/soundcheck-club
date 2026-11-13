@@ -1,6 +1,6 @@
 # High Times - NYE at Northcote Theatre
 
-High Times - NYE at Northcote Theatre on Thu 31 Dec, Melbourne. 16 artists: Aquenta, Deepa, Jun Wan and Marcellus Pittman and 12 more. House and Club. See the line-up on soundcheck.
+High Times - NYE at Northcote Theatre on Thu 31 Dec, Melbourne. 16 artists: Abigail Toll, Aquenta, Deepa and Jun Wan and 12 more. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ High Times - NYE at Northcote Theatre on Thu 31 Dec, Melbourne. 16 artists: Aque
 
 ## Line-up
 
+- Abigail Toll
 - Aquenta
 - Deepa
 - Jun Wan
@@ -21,7 +22,6 @@ High Times - NYE at Northcote Theatre on Thu 31 Dec, Melbourne. 16 artists: Aque
 - PITCHKA
 - Simon TK
 - Soichi Terada
-- Soju Gang
 - System Olympia
 - Umut
 - Zalina

@@ -1,6 +1,6 @@
 # Alex Culross
 
-Alex Culross is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Temple Lane, Dundee on Fri, 13 Nov 2026.
+Alex Culross is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Temple Lane, Dundee on Fri, 13 Nov 2026.
 
 Alex Culross is a tech house and house artist based in United Kingdom, with 20 gigs on soundcheck across Dundee, Edinburgh, Glasgow and Ibiza and 6 more. Often billed alongside Charlie Kennedy, Alexandria and Eldon. Next up: Temple Lane, Dundee on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Alex Culross is a tech house and house artist based in United Kingdom, with 20 g
 
 Charlie Kennedy, Alexandria, Eldon (1)
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexculross/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexculross/)*

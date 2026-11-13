@@ -1,14 +1,15 @@
 # schulze
 
-schulze is a Breakbeat and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Umbo, Zurich on Sat, 21 Nov 2026.
+schulze is a Breakbeat and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Umbo, Zurich on Sat, 21 Nov 2026.
 
-schulze is a breakbeat and club artist based in Italy, with 9 gigs on soundcheck across Basel, Berlin and Zurich. Often billed alongside Tempestfeather, FISK and Frank and Geoff. Next up: Umbo, Zurich on Sat 21 Nov.
+schulze is a breakbeat and club artist based in Italy, with 10 gigs on soundcheck across Basel, Berlin and Zurich. Often billed alongside Tempestfeather, FISK and Frank and Geoff. Next up: Umbo, Zurich on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Umbo | Zurich |
+| Fri, 11 Dec 2026 | Crack Bellmer | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ schulze is a breakbeat and club artist based in Italy, with 9 gigs on soundcheck
 
 Tempestfeather, FISK, Frank and Geoff
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/schulze/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/schulze/)*

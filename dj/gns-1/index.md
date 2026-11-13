@@ -1,6 +1,6 @@
 # GNS (1)
 
-GNS (1) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Fabrik, Madrid on Sat, 30 Jan 2027.
+GNS (1) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Fabrik, Madrid on Sat, 30 Jan 2027.
 
 GNS is a techno and trance artist based in Spain, with 8 gigs on soundcheck across Berlin and Madrid. Often billed alongside Cobb Douglas, DJ Marta and DJ Primitivo. Next up: Fabrik, Madrid on Sat 30 Jan.
 
@@ -24,4 +24,4 @@ GNS is a techno and trance artist based in Spain, with 8 gigs on soundcheck acro
 
 Cobb Douglas, DJ Marta, DJ Primitivo
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gns-1/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gns-1/)*

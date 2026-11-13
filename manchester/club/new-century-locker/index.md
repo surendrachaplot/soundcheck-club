@@ -1,6 +1,6 @@
 # New Century Locker
 
-New Century Locker is a music venue in Manchester with 11 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Mad Professor + Dennis Bovell" on Fri, 13 Nov 2026.
+New Century Locker is a music venue in Manchester with 11 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Mad Professor + Dennis Bovell" on Fri, 13 Nov 2026.
 
 New Century Locker is a music venue in Manchester listed on soundcheck. 11 upcoming gigs, with line-ups including 1991 (UK), Bimini, Charlie Bones and Dennis Bovell and 2 more. See dates, start times and who's playing. 34 Hanover St Manchester M4 4AH.
 
@@ -23,4 +23,4 @@ New Century Locker is a music venue in Manchester listed on soundcheck. 11 upcom
 
 34 Hanover St Manchester M4 4AH, Manchester
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/new-century-locker/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/new-century-locker/)*

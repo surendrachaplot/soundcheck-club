@@ -1,14 +1,15 @@
 # Diablito
 
-Diablito is a Neo Perreo and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA, Los Angeles on Sun, 15 Nov 2026.
+Diablito is a Neo Perreo and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA, Los Angeles on Sun, 15 Nov 2026.
 
-Diablito is a neo perreo and club artist based in United States of America, with 35 gigs on soundcheck across Los Angeles, San Francisco/Oakland and Seattle. Often billed alongside DINABN, BL4ZE and T3KNO. Next up: TBA, Los Angeles on Sun 15 Nov.
+Diablito is a neo perreo and club artist based in United States of America, with 36 gigs on soundcheck across Los Angeles, San Francisco/Oakland and Seattle. Often billed alongside DINABN, BL4ZE and T3KNO. Next up: TBA, Los Angeles on Sun 15 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 15 Nov 2026 | TBA | Los Angeles |
+| Thu, 19 Nov 2026 | Los Globos | Los Angeles |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Diablito is a neo perreo and club artist based in United States of America, with
 
 DINABN, BL4ZE, T3KNO
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diablito/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diablito/)*

@@ -1,6 +1,6 @@
 # La Fabriek
 
-La Fabriek is a music venue in Brussels with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Key to sunshine by Magic key" on Fri, 13 Nov 2026.
+La Fabriek is a music venue in Brussels with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Key to sunshine by Magic key" on Fri, 13 Nov 2026.
 
 La Fabriek is a music venue in Brussels listed on soundcheck. 5 upcoming gigs, with line-ups including Backlight, Dizo, Eskha and GUS and 2 more. See dates, start times and who's playing. Rue de la petite ile 1A, 1070 Brussels, Belgium.
 
@@ -18,4 +18,4 @@ La Fabriek is a music venue in Brussels listed on soundcheck. 5 upcoming gigs, w
 
 Rue de la petite ile 1A, 1070 Brussels, Belgium, Brussels
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/la-fabriek/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/la-fabriek/)*

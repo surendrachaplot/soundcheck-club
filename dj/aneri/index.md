@@ -1,6 +1,6 @@
 # Aneri
 
-Aneri is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Drugstore Beograd, Belgrade on Sat, 19 Dec 2026.
+Aneri is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Drugstore Beograd, Belgrade on Sat, 19 Dec 2026.
 
 Aneri is a techno and industrial artist based in Serbia, with 22 gigs on soundcheck across Belgrade and Serbia. Often billed alongside Mamavitae, mdngt and Asarri. Next up: Drugstore Beograd, Belgrade on Sat 19 Dec.
 
@@ -26,4 +26,4 @@ Aneri is a techno and industrial artist based in Serbia, with 22 gigs on soundch
 
 Mamavitae, mdngt, Asarri
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aneri/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aneri/)*

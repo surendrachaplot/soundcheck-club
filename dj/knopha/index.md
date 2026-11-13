@@ -1,6 +1,6 @@
 # Knopha
 
-Knopha is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Heim Shanghai, Shanghai on Sat, 28 Nov 2026.
+Knopha is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Heim Shanghai, Shanghai on Sat, 28 Nov 2026.
 
 Knopha is a techno and house artist based in China, with 89 gigs on soundcheck across Bangkok, Beijing, Chengdu and Hanoi and 8 more. Often billed alongside echocatcher, YKK (CN) and chuan. Next up: Heim Shanghai, Shanghai on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Knopha is a techno and house artist based in China, with 89 gigs on soundcheck a
 
 echocatcher, YKK (CN), chuan
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/knopha/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/knopha/)*

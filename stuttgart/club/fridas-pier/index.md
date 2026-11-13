@@ -1,6 +1,6 @@
 # Fridas Pier
 
-Fridas Pier is a music venue in Stuttgart with 17 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "AMBUSH BY VORTEX" on Fri, 13 Nov 2026.
+Fridas Pier is a music venue in Stuttgart with 17 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "AMBUSH BY VORTEX" on Fri, 13 Nov 2026.
 
 Fridas Pier is a music venue in Stuttgart listed on soundcheck. 17 upcoming gigs, with line-ups including Bjørnson, Chris Hirose, Chris Schwarzwälder and Danilo Filipe and 2 more. See dates, start times and who's playing. Uferstraße 107, 70188 Stuttgart, Germany.
 
@@ -23,4 +23,4 @@ Fridas Pier is a music venue in Stuttgart listed on soundcheck. 17 upcoming gigs
 
 Uferstraße 107, 70188 Stuttgart, Germany, Stuttgart
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/fridas-pier/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/fridas-pier/)*

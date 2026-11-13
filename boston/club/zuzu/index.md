@@ -1,6 +1,6 @@
 # Zuzu
 
-Zuzu is a music venue in Boston with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Green Dream: Spiral into Insanity" on Sat, 14 Nov 2026.
+Zuzu is a music venue in Boston with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Green Dream: Spiral into Insanity" on Sat, 14 Nov 2026.
 
 Zuzu is a music venue in Boston listed on soundcheck. 2 upcoming gigs, with line-ups including Kaleb Treat and Miss Ara. See dates, start times and who's playing. 510 Massachusetts Ave, Cambridge MA 02136.
 
@@ -15,4 +15,4 @@ Zuzu is a music venue in Boston listed on soundcheck. 2 upcoming gigs, with line
 
 510 Massachusetts Ave, Cambridge MA 02136, Boston
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/boston/club/zuzu/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/boston/club/zuzu/)*

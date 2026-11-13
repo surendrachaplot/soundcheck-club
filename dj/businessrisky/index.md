@@ -1,6 +1,6 @@
 # Business Risky
 
-Business Risky is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Culture Box, Copenhagen on Sat, 9 Jan 2027.
+Business Risky is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Culture Box, Copenhagen on Sat, 9 Jan 2027.
 
 Business Risky is a house and techno artist based in Denmark, with 16 gigs on soundcheck across Copenhagen. Often billed alongside Anders HP, CERJ and NILU. Next up: Culture Box, Copenhagen on Sat 9 Jan.
 
@@ -25,4 +25,4 @@ Business Risky is a house and techno artist based in Denmark, with 16 gigs on so
 
 Anders HP, CERJ, NILU
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/businessrisky/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/businessrisky/)*

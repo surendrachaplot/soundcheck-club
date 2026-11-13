@@ -1,6 +1,6 @@
 # El Club
 
-El Club is a music venue in Detroit with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "SMOAKLAND" on Sat, 5 Dec 2026.
+El Club is a music venue in Detroit with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "SMOAKLAND" on Sat, 5 Dec 2026.
 
 El Club is a music venue in Detroit listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 4114 Vernor Hwy, Detroit, MI 48209, USA.
 
@@ -14,4 +14,4 @@ El Club is a music venue in Detroit listed on soundcheck. 1 upcoming gig. See da
 
 4114 Vernor Hwy, Detroit, MI 48209, USA, Detroit
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/el-club/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/el-club/)*

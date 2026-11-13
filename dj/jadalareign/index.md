@@ -1,6 +1,6 @@
 # JADALAREIGN
 
-JADALAREIGN is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Ausgang Plaza, Montreal on Thu, 3 Dec 2026.
+JADALAREIGN is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Ausgang Plaza, Montreal on Thu, 3 Dec 2026.
 
 JADALAREIGN is a house and techno artist based in United States of America, with 197 gigs on soundcheck across Amsterdam, Austin, Baltimore and Berlin and 24 more. Often billed alongside Mike Servito, Ash Lauryn and Carlos Souffront. Next up: Ausgang Plaza, Montreal on Thu 3 Dec.
 
@@ -26,4 +26,4 @@ JADALAREIGN is a house and techno artist based in United States of America, with
 
 Mike Servito, Ash Lauryn, Carlos Souffront
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jadalareign/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jadalareign/)*

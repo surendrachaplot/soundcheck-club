@@ -1,6 +1,6 @@
 # celodic
 
-celodic is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Zeche Zollverein, Dortmund / Essen on Sat, 28 Nov 2026.
+celodic is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Zeche Zollverein, Dortmund / Essen on Sat, 28 Nov 2026.
 
 celodic is a techno and electro artist based in Germany, with 11 gigs on soundcheck across Berlin and Dortmund / Essen. Often billed alongside Juulz, Alhena_ and Krackk. Next up: Zeche Zollverein, Dortmund / Essen on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ celodic is a techno and electro artist based in Germany, with 11 gigs on soundch
 
 Juulz, Alhena_, Krackk
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/celodic/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/celodic/)*

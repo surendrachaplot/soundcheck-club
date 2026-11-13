@@ -1,8 +1,8 @@
 # Silent Green
 
-Silent Green is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Yasuaki Shimizu + Merma Suelo " on Fri, 13 Nov 2026.
+Silent Green is a music venue in Berlin with 13 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Yasuaki Shimizu + Merma Suelo " on Fri, 13 Nov 2026.
 
-Silent Green is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with line-ups including Abdullah Miniawy, Babak Ahteshamipour, CONTAGIOUS and Dis Fig and 2 more. See dates, start times and who's playing. Gerichtstraße 35, 13347 Berlin, Germany.
+Silent Green is a music venue in Berlin listed on soundcheck. 13 upcoming gigs, with line-ups including Abdullah Miniawy, Babak Ahteshamipour, CONTAGIOUS and Dis Fig and 2 more. See dates, start times and who's playing. Gerichtstraße 35, 13347 Berlin, Germany.
 
 ## What's on
 
@@ -16,11 +16,11 @@ Silent Green is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, 
 | Fri, 27 Nov 2026 | LIA LIA + Levi | Levi (DE), LiaLia |
 | Wed, 2 Dec 2026 | BEAM SPLITTER x XIU XIU present: DEDICATED PLAY FESTIVAL (Dec 2 - 4) | Ka Baird, Mieko Suzuki, Valentin Tszin |
 | Wed, 9 Dec 2026 | Sintonia 2026 Attunement III |  |
+| Fri, 11 Dec 2026 | Kontext pres. REZZETT + Ludwig Wandinger | Ludwig Wandinger, Rezzett |
 | Fri, 22 Jan 2027 | CTM 2027: Methoding |  |
-| Fri, 22 Jan 2027 | CTM 2027: Opening Concert | Polygonia |
 
 ## Address
 
 Gerichtstraße 35, 13347 Berlin, Germany, Berlin
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/silent-green/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/silent-green/)*

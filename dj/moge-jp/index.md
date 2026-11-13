@@ -1,6 +1,6 @@
 # moge!
 
-moge! is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Nakano Heavysick Zero, Tokyo on Mon, 23 Nov 2026.
+moge! is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Nakano Heavysick Zero, Tokyo on Mon, 23 Nov 2026.
 
 moge! is a techno and bass artist based in Japan, with 63 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside illequal, ast midori and meweta. Next up: Nakano Heavysick Zero, Tokyo on Mon 23 Nov.
 
@@ -25,4 +25,4 @@ moge! is a techno and bass artist based in Japan, with 63 gigs on soundcheck acr
 
 illequal, ast midori, meweta
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moge-jp/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moge-jp/)*

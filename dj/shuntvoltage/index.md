@@ -1,6 +1,6 @@
 # Shunt Voltage
 
-Shunt Voltage is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Yard, Manchester on Sat, 23 Jan 2027.
+Shunt Voltage is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Yard, Manchester on Sat, 23 Jan 2027.
 
 Shunt Voltage is an acid and techno artist based in United Kingdom, with 12 gigs on soundcheck across Leeds, London and Manchester. Often billed alongside John Paynter, Carbon Based Lifeforms and Banco De Gaia. Next up: The Yard, Manchester on Sat 23 Jan.
 
@@ -25,4 +25,4 @@ Shunt Voltage is an acid and techno artist based in United Kingdom, with 12 gigs
 
 John Paynter, Carbon Based Lifeforms, Banco De Gaia
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shuntvoltage/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shuntvoltage/)*

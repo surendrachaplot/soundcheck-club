@@ -1,6 +1,6 @@
 # Vaneska
 
-Vaneska is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Rote Sonne, Munich on Fri, 13 Nov 2026.
+Vaneska is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Rote Sonne, Munich on Fri, 13 Nov 2026.
 
 Vaneska is a trance and techno artist based in Germany, with 41 gigs on soundcheck across Augsburg, Berlin, Cologne and Hamburg and 3 more. Often billed alongside NAGINI, Praun and subcutan. Next up: Rote Sonne, Munich on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Vaneska is a trance and techno artist based in Germany, with 41 gigs on soundche
 
 NAGINI, Praun, subcutan
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vaneska/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vaneska/)*

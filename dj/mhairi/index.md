@@ -1,14 +1,13 @@
 # Mha iri
 
-Mha iri is a Techno and Tech House artist with 6 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Noto Philadelphia, Philadelphia on Thu, 12 Nov 2026.
+Mha iri is a Techno and Tech House artist with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at House of Yes, New York City on Sat, 14 Nov 2026.
 
-Mha iri is a techno and tech house artist based in United Kingdom, with 124 gigs on soundcheck across Amsterdam, Athens, Auckland and Barcelona and 49 more. Often billed alongside Alan Fitzpatrick, Eli Brown and Joyhauser. Next up: Noto Philadelphia, Philadelphia on Thu 12 Nov.
+Mha iri is a techno and tech house artist based in United Kingdom, with 124 gigs on soundcheck across Amsterdam, Athens, Auckland and Barcelona and 49 more. Often billed alongside Alan Fitzpatrick, Eli Brown and Joyhauser. Next up: House of Yes, New York City on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 12 Nov 2026 | Noto Philadelphia | Philadelphia |
 | Sat, 14 Nov 2026 | House of Yes | New York City |
 | Sat, 21 Nov 2026 | Tanzhaus West | Frankfurt |
 | Sat, 28 Nov 2026 | Nordstern | Basel |
@@ -17,6 +16,7 @@ Mha iri is a techno and tech house artist based in United Kingdom, with 124 gigs
 
 ## Recently played
 
+- Noto Philadelphia, Philadelphia · Thu, 12 Nov 2026
 - Amsterdam Central Station, Amsterdam · Sat, 24 Oct 2026
 - Uebel & Gefährlich, Hamburg · Sat, 10 Oct 2026
 - Palladium Riga, Riga · Fri, 9 Oct 2026
@@ -24,10 +24,9 @@ Mha iri is a techno and tech house artist based in United Kingdom, with 124 gigs
 - TBA - Il Mercato Centrale, Sydney · Fri, 18 Sept 2026
 - Groove, Buenos Aires · Sat, 12 Sept 2026
 - TBA - Los Angeles (Warehouse), Los Angeles · Fri, 7 Aug 2026
-- Amnesia Ibiza, Ibiza · Sun, 2 Aug 2026
 
 ## Shares bills with
 
 Alan Fitzpatrick, Eli Brown, Joyhauser
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mhairi/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mhairi/)*

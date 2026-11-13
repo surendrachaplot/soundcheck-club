@@ -1,6 +1,6 @@
 # Coldpast — 10 Year Anniversary of The Late Show at Revolver Upstairs
 
-Coldpast — 10 Year Anniversary of The Late Show at Revolver Upstairs on Sat 21 Nov, Melbourne. 4 artists: Colette, FAF, Lewis Cancut and Sammy Sanchez. House and Garage. See the line-up on soundcheck.
+Coldpast — 10 Year Anniversary of The Late Show at Revolver Upstairs on Sat 21 Nov, Melbourne. 3 artists: FAF, Lewis Cancut and Sammy Sanchez. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ Coldpast — 10 Year Anniversary of The Late Show at Revolver Upstairs on Sat 21
 
 ## Line-up
 
-- Colette
 - FAF (1)
 - Lewis Cancut
 - Sammy Sanchez

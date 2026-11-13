@@ -1,6 +1,6 @@
 # Sexpressions at AMT
 
-Sexpressions at AMT on Fri 4 Dec, Berlin. 5 artists: Bobaz Lobster, DJ SEXSTASY, GI.O and Rishka and 1 more. Techno and House. See the line-up on soundcheck.
+Sexpressions at AMT on Fri 4 Dec, Berlin. 5 artists: Bobaz, DJ SEXSTASY, GI.O and Rishka and 1 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ Sexpressions at AMT on Fri 4 Dec, Berlin. 5 artists: Bobaz Lobster, DJ SEXSTASY,
 
 ## Line-up
 
-- Bobaz Lobster
+- Bobaz
 - DJ SEXSTASY
 - GI.O
 - Rishka

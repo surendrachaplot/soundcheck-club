@@ -1,6 +1,6 @@
 # Kyra (1)
 
-Kyra (1) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Mena Berlin, Berlin on Fri, 4 Dec 2026.
+Kyra (1) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Mena Berlin, Berlin on Fri, 4 Dec 2026.
 
 Kyra is a house and techno artist based in Taiwan, with 11 gigs on soundcheck across Austin, Berlin, Cologne and London and 1 more. Often billed alongside Jamie Q, Afrodite and Aji. Next up: Mena Berlin, Berlin on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Kyra is a house and techno artist based in Taiwan, with 11 gigs on soundcheck ac
 
 Jamie Q, Afrodite (2), Aji
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kyra-1/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kyra-1/)*

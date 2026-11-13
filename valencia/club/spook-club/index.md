@@ -1,6 +1,6 @@
 # Spook Club
 
-Spook Club is a music venue in Valencia with 10 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Vendex + invitados" on Sat, 14 Nov 2026.
+Spook Club is a music venue in Valencia with 10 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Vendex + Charlotte Lyonn & Total with M8NSE + ENGALANAN" on Sat, 14 Nov 2026.
 
 Spook Club is a music venue in Valencia listed on soundcheck. 10 upcoming gigs, with line-ups including Alarico, alvar., Andres Campo and Ariezzz and 2 more. See dates, start times and who's playing. Pinedo Valencia.
 
@@ -8,7 +8,7 @@ Spook Club is a music venue in Valencia listed on soundcheck. 10 upcoming gigs, 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Vendex + invitados | Ariezzz, ENGALANAN, Lucía Gea, M8NSE, Vendex |
+| Sat, 14 Nov 2026 | Vendex + Charlotte Lyonn & Total with M8NSE + ENGALANAN | Ariezzz, ENGALANAN, Lucía Gea, M8NSE, Vendex |
 | Sat, 21 Nov 2026 | Spook conection + Special K |  |
 | Sat, 21 Nov 2026 | Special-K with Shoal, Marie Pravda (tickets 10€ in bio) | Marie Pravda, Moy Santana, Pizzicatto, Shoal |
 | Sat, 28 Nov 2026 | INVADERS 'TRIP TO JAPAN' |  |
@@ -23,4 +23,4 @@ Spook Club is a music venue in Valencia listed on soundcheck. 10 upcoming gigs, 
 
 Pinedo Valencia, Valencia
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/spook-club/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/spook-club/)*

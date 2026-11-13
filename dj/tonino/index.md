@@ -1,6 +1,6 @@
 # Tonino
 
-Tonino is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at PKH Warehouse, Berlin on Sat, 5 Dec 2026.
+Tonino is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at PKH Warehouse, Berlin on Sat, 5 Dec 2026.
 
 Tonino is a techno and progressive house artist based in Germany, with 28 gigs on soundcheck across Berlin, Frankfurt, Hamburg and Nürnberg and 2 more. Often billed alongside Adi Dassler, Bjørnson and Element 61. Next up: PKH Warehouse, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Tonino is a techno and progressive house artist based in Germany, with 28 gigs o
 
 Adi Dassler, Bjørnson, Element 61
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tonino/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tonino/)*

@@ -1,8 +1,8 @@
 # Rubén Secaduras
 
-Rubén Secaduras is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - ENTITY POWERED BY VOID ACCOUSTICS, Madrid on Fri, 27 Nov 2026.
+Rubén Secaduras is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - ENTITY POWERED BY VOID ACCOUSTICS, Madrid on Fri, 27 Nov 2026.
 
-Rubén Secaduras is a techno and electronica artist based in Spain, with 24 gigs on soundcheck across Barcelona, Berlin, Lisbon and Madrid and 1 more. Often billed alongside TOM CHIESA, PATTY&SELMA and Rozzer. Next up: TBA - ENTITY POWERED BY VOID ACCOUSTICS, Madrid on Fri 27 Nov.
+Rubén Secaduras is a techno and electronica artist based in Spain, with 25 gigs on soundcheck across Barcelona, Berlin, Lisbon and Madrid and 1 more. Often billed alongside TOM CHIESA, PATTY&SELMA and DISTORT (ES). Next up: TBA - ENTITY POWERED BY VOID ACCOUSTICS, Madrid on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Rubén Secaduras is a techno and electronica artist based in Spain, with 24 gigs
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | TBA - ENTITY POWERED BY VOID ACCOUSTICS | Madrid |
 | Thu, 31 Dec 2026 | OST | Berlin |
+| Fri, 1 Jan 2027 | Club Magno | Madrid |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Rubén Secaduras is a techno and electronica artist based in Spain, with 24 gigs
 
 ## Shares bills with
 
-TOM CHIESA, PATTY&SELMA, Rozzer
+TOM CHIESA, PATTY&SELMA, DISTORT (ES)
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rubensecaduras/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rubensecaduras/)*

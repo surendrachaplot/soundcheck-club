@@ -1,6 +1,6 @@
 # D! Club
 
-D! Club is a music venue in Lausanne with 9 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Jan Blomqvist, Romain Garcia" on Fri, 13 Nov 2026.
+D! Club is a music venue in Lausanne with 9 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Jan Blomqvist, Romain Garcia" on Fri, 13 Nov 2026.
 
 D! Club is a music venue in Lausanne listed on soundcheck. 9 upcoming gigs, with line-ups including Adriatique, Alicia Hahn, Angerfist and Einmusik and 2 more. See dates, start times and who's playing. Place Centrale 1; 1003, Lausanne; Switzerland.
 
@@ -22,4 +22,4 @@ D! Club is a music venue in Lausanne listed on soundcheck. 9 upcoming gigs, with
 
 Place Centrale 1; 1003, Lausanne; Switzerland, Lausanne
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/lausanne/club/d-club/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/lausanne/club/d-club/)*

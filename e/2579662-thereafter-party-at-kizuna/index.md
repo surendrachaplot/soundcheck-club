@@ -1,6 +1,6 @@
 # Thereafter Party at Kizuna
 
-Thereafter Party at Kizuna on Sat 14 Nov, London. 5 artists: dj ripple, Franklin_, La Gosse and Moody Waters and 1 more. House. See the line-up on soundcheck.
+Thereafter Party at Kizuna on Sat 14 Nov, London. 6 artists: dj ripple, E-LAW, Franklin_ and La Gosse and 2 more. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Thereafter Party at Kizuna on Sat 14 Nov, London. 5 artists: dj ripple, Franklin
 ## Line-up
 
 - dj ripple
+- E-LAW
 - Franklin_
 - La Gosse
 - Moody Waters

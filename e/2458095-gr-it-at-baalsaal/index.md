@@ -1,6 +1,6 @@
 # GR:IT at Baalsaal
 
-GR:IT at Baalsaal on Fri 13 Nov, Hamburg. 4 artists: Anne-Lu, CLAVD, formula303 and rodmor. Techno. See the line-up on soundcheck.
+GR:IT at Baalsaal on Fri 13 Nov, Hamburg. 4 artists: Anne-Lu, formula303, rodmor and Vektra. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,8 +11,8 @@ GR:IT at Baalsaal on Fri 13 Nov, Hamburg. 4 artists: Anne-Lu, CLAVD, formula303 
 ## Line-up
 
 - Anne-Lu
-- CLAVD
 - formula303
 - rodmor
+- Vektra
 
 *Source: [soundcheck](https://soundcheck.club/e/2458095-gr-it-at-baalsaal/)*

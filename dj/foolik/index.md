@@ -1,14 +1,15 @@
 # Foolik
 
-Foolik is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Tanzhaus West, Frankfurt on Sat, 19 Dec 2026.
+Foolik is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Tanzhaus West, Frankfurt on Sat, 19 Dec 2026.
 
-Foolik is a techno and house artist based in Germany, with 75 gigs on soundcheck across Amsterdam, Berlin, Cologne and Frankfurt and 6 more. Often billed alongside Pauli Pocket, Peter Schumann and Falke. Next up: Tanzhaus West, Frankfurt on Sat 19 Dec.
+Foolik is a techno and house artist based in Germany, with 76 gigs on soundcheck across Amsterdam, Berlin, Cologne and Frankfurt and 6 more. Often billed alongside Pauli Pocket, Falke and Peter Schumann. Next up: Tanzhaus West, Frankfurt on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Dec 2026 | Tanzhaus West | Frankfurt |
+| Thu, 31 Dec 2026 | Kater | Berlin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Foolik is a techno and house artist based in Germany, with 75 gigs on soundcheck
 
 ## Shares bills with
 
-Pauli Pocket, Peter Schumann, Falke
+Pauli Pocket, Falke, Peter Schumann
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/foolik/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/foolik/)*

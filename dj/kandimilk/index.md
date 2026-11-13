@@ -1,6 +1,6 @@
 # Kandi Milk
 
-Kandi Milk is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Exley, New York City on Sat, 14 Nov 2026.
+Kandi Milk is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Exley, New York City on Sat, 14 Nov 2026.
 
 Kandi Milk is a house and techno artist based in Chile, with 4 gigs on soundcheck across New York City. Often billed alongside Love Letters, JIALING and Jeffrey Sfire. Next up: The Exley, New York City on Sat 14 Nov.
 
@@ -20,4 +20,4 @@ Kandi Milk is a house and techno artist based in Chile, with 4 gigs on soundchec
 
 Love Letters, JIALING, Jeffrey Sfire
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kandimilk/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kandimilk/)*

@@ -1,6 +1,6 @@
 # Debit
 
-Debit is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA, Berlin on Fri, 22 Jan 2027.
+Debit is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA, Berlin on Fri, 22 Jan 2027.
 
 Debit is a techno and experimental artist based in United States of America, with 204 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 57 more. Often billed alongside APP, Alaska and Flat. Next up: TBA, Berlin on Fri 22 Jan.
 
@@ -27,4 +27,4 @@ Debit is a techno and experimental artist based in United States of America, wit
 
 APP, Alaska (2), Flat
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/debit/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/debit/)*

@@ -1,6 +1,6 @@
 # Tripleset
 
-Tripleset is a Garage and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Midway, San Francisco/Oakland on Sat, 14 Nov 2026.
+Tripleset is a Garage and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Midway, San Francisco/Oakland on Sat, 14 Nov 2026.
 
 Tripleset is a garage and house artist based in United States of America, with 19 gigs on soundcheck across Denver and San Francisco/Oakland. Often billed alongside That Franco, Alex Edward and Neumonic. Next up: The Midway, San Francisco/Oakland on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Tripleset is a garage and house artist based in United States of America, with 1
 
 That Franco, Alex Edward, Neumonic
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tripleset/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tripleset/)*

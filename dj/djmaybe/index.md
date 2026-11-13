@@ -1,6 +1,6 @@
 # DJ Maybe
 
-DJ Maybe is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Paradisco Bogotá, Bogotá on Fri, 13 Nov 2026.
+DJ Maybe is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Paradisco Bogotá, Bogotá on Fri, 13 Nov 2026.
 
 DJ Maybe is a house and electronica artist, with 14 gigs on soundcheck across Bogotá. Often billed alongside Emilio Mustafá, Mística and yismna. Next up: Paradisco Bogotá, Bogotá on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ DJ Maybe is a house and electronica artist, with 14 gigs on soundcheck across Bo
 
 Emilio Mustafá, Mística, yismna
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmaybe/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmaybe/)*

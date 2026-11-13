@@ -1,14 +1,13 @@
 # Underground SF
 
-Underground SF is a music venue in San Francisco/Oakland with 8 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Just Another Bitch EP Release Party" on Thu, 12 Nov 2026.
+Underground SF is a music venue in San Francisco/Oakland with 7 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "CLUB MUSIC 11/13 at UndergroundSF" on Fri, 13 Nov 2026.
 
-Underground SF is a music venue in San Francisco/Oakland listed on soundcheck. 8 upcoming gigs, with line-ups including 480P (US), 9-System, Aepricity and ALICE STRIBLING and 2 more. See dates, start times and who's playing. 424 Haight St, San Francisco, CA 94117, United States.
+Underground SF is a music venue in San Francisco/Oakland listed on soundcheck. 7 upcoming gigs, with line-ups including 480P (US), 9-System, ALICE STRIBLING and Andy411 and 2 more. See dates, start times and who's playing. 424 Haight St, San Francisco, CA 94117, United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 12 Nov 2026 | Just Another Bitch EP Release Party | Aepricity, Davey Ultra, Just Another Bitch, Koreaboo, Oso Feo, ZZ (4), ek:), likeholywine, nonsuit, xxveneco |
 | Fri, 13 Nov 2026 | CLUB MUSIC 11/13 at UndergroundSF | Andy411, Camillionaire |
 | Sat, 21 Nov 2026 | hydraphex presents: Freeman 713, Emma Rak, Midnight Climax, 9-System, Stasis Field | 9-System, Emma Rak, Freeman 713, Midnight Climax |
 | Thu, 26 Nov 2026 | FIXED GLOSS presents 𝑮𝑶𝑻𝑯𝑺𝑮𝑰𝑽𝑰𝑵𝑮 | ALICE STRIBLING |
@@ -21,4 +20,4 @@ Underground SF is a music venue in San Francisco/Oakland listed on soundcheck. 8
 
 424 Haight St, San Francisco, CA 94117, United States, San Francisco/Oakland
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/underground-sf/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/underground-sf/)*

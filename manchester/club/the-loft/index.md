@@ -1,6 +1,6 @@
 # The Loft
 
-The Loft is a music venue in Manchester with 21 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "The Loft: J Wave b2b Lewis Taylor (All Night Long)" on Thu, 12 Nov 2026.
+The Loft is a music venue in Manchester with 21 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Animal Crossing: Gene On Earth b2b dj sweet6teen (All Night Long)" on Fri, 13 Nov 2026.
 
 The Loft is a music venue in Manchester listed on soundcheck. 21 upcoming gigs, with line-ups including Alexander Skancke, Alexia Glensy, b.lo and BELLA (NL) and 2 more. See dates, start times and who's playing. Unit 1, New Street, Manchester, M40 8AW.
 
@@ -8,7 +8,6 @@ The Loft is a music venue in Manchester listed on soundcheck. 21 upcoming gigs, 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 12 Nov 2026 | The Loft: J Wave b2b Lewis Taylor (All Night Long) | Lewis Taylor, jWave |
 | Fri, 13 Nov 2026 | Animal Crossing: Gene On Earth b2b dj sweet6teen (All Night Long) | Gene On Earth, dj sweet6teen |
 | Sat, 14 Nov 2026 | The Loft: Yung Singh, RIRIA & SOPHIA | RIRIA, Yung Singh |
 | Thu, 19 Nov 2026 | The Loft: Jamie Fielding (All Night Long) | Jamie Fielding |
@@ -18,9 +17,10 @@ The Loft is a music venue in Manchester listed on soundcheck. 21 upcoming gigs, 
 | Fri, 27 Nov 2026 | Keep It Unreal x The Loft: Mr. Scruff (All Night Long) | Mr Scruff |
 | Sat, 28 Nov 2026 | SlapFunk Weekender - AFTERS | Alexander Skancke, Captain Wallop, DJ Senc, Doudou MD, Fumiya Tanaka, Georgia, Nathalie Seres, Wax Material |
 | Thu, 3 Dec 2026 | Swingers: Oldboy b2b DJ Cosworth (All Night Long) | DJ Cosworth, Oldboy |
+| Fri, 4 Dec 2026 | Nothing Stays The Same: Mella Dee (All Night Long) - SOLD OUT | Mella Dee |
 
 ## Address
 
 Unit 1, New Street, Manchester, M40 8AW, Manchester
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-loft/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-loft/)*

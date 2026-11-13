@@ -1,6 +1,6 @@
 # Soulnd
 
-Soulnd is a Drum & Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Ж Jazz Room, Sofia on Sun, 22 Nov 2026.
+Soulnd is a Drum & Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Ж Jazz Room, Sofia on Sun, 22 Nov 2026.
 
 Soulnd is a drum & bass and dubstep artist based in Bulgaria, with 44 gigs on soundcheck across London and Sofia. Often billed alongside Amy  B, Ivy Lab and J-Lost. Next up: Ж Jazz Room, Sofia on Sun 22 Nov.
 
@@ -26,4 +26,4 @@ Soulnd is a drum & bass and dubstep artist based in Bulgaria, with 44 gigs on so
 
 Amy  B, Ivy Lab, J-Lost
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soulnd/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soulnd/)*

@@ -1,6 +1,6 @@
 # Stan Yaroslavsky
 
-Stan Yaroslavsky is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Aoyama Hachi, Tokyo on Sat, 5 Dec 2026.
+Stan Yaroslavsky is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Aoyama Hachi, Tokyo on Sat, 5 Dec 2026.
 
 Stan Yaroslavsky is a house and minimal artist based in Portugal, with 18 gigs on soundcheck across Berlin, Lisbon, London and New York City and 3 more. Often billed alongside Benjamin Fehr, Modebaku and Alex Celler. Next up: Aoyama Hachi, Tokyo on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Stan Yaroslavsky is a house and minimal artist based in Portugal, with 18 gigs o
 
 Benjamin Fehr, Modebaku, Alex Celler
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stanyaroslavsky/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stanyaroslavsky/)*

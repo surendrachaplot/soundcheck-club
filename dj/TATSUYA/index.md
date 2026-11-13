@@ -1,6 +1,6 @@
 # TATSUYA
 
-TATSUYA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Warp Shinjuku, Tokyo on Sun, 22 Nov 2026.
+TATSUYA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Warp Shinjuku, Tokyo on Sun, 22 Nov 2026.
 
 TATSUYA is a techno and house artist, with 97 gigs on soundcheck across Kyoto, New York City, Osaka and Paris and 2 more. Often billed alongside Hi Sai, HORKEW and Casimir. Next up: Warp Shinjuku, Tokyo on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ TATSUYA is a techno and house artist, with 97 gigs on soundcheck across Kyoto, N
 
 Hi Sai, HORKEW, Casimir (2)
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/TATSUYA/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/TATSUYA/)*

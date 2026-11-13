@@ -1,6 +1,6 @@
 # underscores
 
-underscores is a Electro and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Autódromo de Interlagos, Sao Paulo on Sat, 5 Dec 2026.
+underscores is a Electro and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Autódromo de Interlagos, Sao Paulo on Sat, 5 Dec 2026.
 
 underscores is an electro and house artist based in United States of America, with 12 gigs on soundcheck across Brussels, Chicago, Dublin and Glasgow and 5 more. Often billed alongside umru, FCUKERS and Sophia Stel. Next up: Autódromo de Interlagos, Sao Paulo on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ underscores is an electro and house artist based in United States of America, wi
 
 umru, FCUKERS, Sophia Stel
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/underscores/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/underscores/)*

@@ -1,13 +1,14 @@
 # Bicep
 
-Bicep is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at K.B. Hallen, Copenhagen on Wed, 3 Mar 2027.
+Bicep is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 21 Nov 2026.
 
-Bicep is a house and techno artist based in United Kingdom, with 85 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austria and 45 more. Often billed alongside Peggy Gou, TSHA and salute. Next up: K.B. Hallen, Copenhagen on Wed 3 Mar.
+Bicep is a house and techno artist based in United Kingdom, with 86 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austria and 45 more. Often billed alongside Peggy Gou, TSHA and salute. Next up: Depot Mayfield, Manchester on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | Depot Mayfield | Manchester |
 | Wed, 3 Mar 2027 | K.B. Hallen | Copenhagen |
 | Fri, 5 Mar 2027 | Kajskjul 105 | Gothenburg |
 | Sat, 6 Mar 2027 | Banan-Kompaniet | Stockholm |
@@ -31,4 +32,4 @@ Bicep is a house and techno artist based in United Kingdom, with 85 gigs on soun
 
 Peggy Gou, TSHA, salute
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bicep/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bicep/)*

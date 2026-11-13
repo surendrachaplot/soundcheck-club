@@ -1,6 +1,6 @@
 # Sakro
 
-Sakro is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Pawn Shop, Dublin on Sat, 14 Nov 2026.
+Sakro is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Pawn Shop, Dublin on Sat, 14 Nov 2026.
 
 Sakro is a house and minimal artist based in Mexico, with 51 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Chicago and 15 more. Often billed alongside Miguel Puente, Louie Fresco and Mejia. Next up: Pawn Shop, Dublin on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Sakro is a house and minimal artist based in Mexico, with 51 gigs on soundcheck 
 
 Miguel Puente, Louie Fresco, Mejia
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sakro/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sakro/)*

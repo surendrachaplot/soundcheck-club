@@ -1,6 +1,6 @@
 # Strut SF and F8 present Jenö & Markie at F8 1192 Folsom
 
-Strut SF and F8 present Jenö & Markie at F8 1192 Folsom on Wed 18 Nov, San Francisco/Oakland. 2 artists: Jeno and Markie. House and Acid. See the line-up on soundcheck.
+Strut SF and F8 present Jenö & Markie at F8 1192 Folsom on Wed 18 Nov, San Francisco/Oakland. 3 artists: Emilio Orlandi, Jeno and Markie. House and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Strut SF and F8 present Jenö & Markie at F8 1192 Folsom on Wed 18 Nov, San Fran
 
 ## Line-up
 
+- Emilio Orlandi
 - Jeno
 - Markie
 

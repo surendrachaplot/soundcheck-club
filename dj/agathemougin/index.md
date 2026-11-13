@@ -1,13 +1,14 @@
 # Agathe Mougin
 
-Agathe Mougin is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at KOKO, London on Fri, 27 Nov 2026.
+Agathe Mougin is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Silencio, Paris on Sat, 14 Nov 2026.
 
-Agathe Mougin is a house and disco artist based in France, with 47 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bordeaux and 6 more. Often billed alongside CAPTNNN', Miura and Acid Washed. Next up: KOKO, London on Fri 27 Nov.
+Agathe Mougin is a house and disco artist based in France, with 48 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bordeaux and 6 more. Often billed alongside CAPTNNN', Miura and Acid Washed. Next up: Silencio, Paris on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | Silencio | Paris |
 | Fri, 27 Nov 2026 | KOKO | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ Agathe Mougin is a house and disco artist based in France, with 47 gigs on sound
 
 CAPTNNN', Miura, Acid Washed
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/agathemougin/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/agathemougin/)*

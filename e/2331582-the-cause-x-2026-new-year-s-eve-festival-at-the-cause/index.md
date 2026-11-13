@@ -1,6 +1,6 @@
 # The Cause x 2026: New Year's Eve Festival at The Cause
 
-The Cause x 2026: New Year's Eve Festival on Thu 31 Dec, London. See the line-up on soundcheck.
+The Cause x 2026: New Year's Eve Festival on Thu 31 Dec, London. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Casepeat
 
-Casepeat is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Ximxim Bar, Seoul on Fri, 13 Nov 2026.
+Casepeat is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Ximxim Bar, Seoul on Fri, 13 Nov 2026.
 
-Casepeat is a trance and techno artist based in South Korea, with 32 gigs on soundcheck across Seoul, South Korea and Tokyo. Often billed alongside Kataploks, Purple Rabbit and Kago Pengchi. Next up: Ximxim Bar, Seoul on Fri 13 Nov.
+Casepeat is a trance and techno artist based in South Korea, with 33 gigs on soundcheck across Seoul, South Korea and Tokyo. Often billed alongside Kataploks, Purple Rabbit and Kago Pengchi. Next up: Ximxim Bar, Seoul on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Casepeat is a trance and techno artist based in South Korea, with 32 gigs on sou
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Ximxim Bar | Seoul |
 | Sat, 14 Nov 2026 | TBA - Jacks Bar | South-korea |
+| Fri, 27 Nov 2026 | Nagomix | Tokyo |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Casepeat is a trance and techno artist based in South Korea, with 32 gigs on sou
 
 Kataploks, Purple Rabbit, Kago Pengchi
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/casepeat/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/casepeat/)*

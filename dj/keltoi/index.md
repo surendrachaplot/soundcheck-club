@@ -1,6 +1,6 @@
 # Keltoi
 
-Keltoi is a Baile Funk and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at New Wave Ramen, Manchester on Fri, 27 Nov 2026.
+Keltoi is a Baile Funk and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at New Wave Ramen, Manchester on Fri, 27 Nov 2026.
 
 Keltoi is a baile funk and house artist based in United Kingdom, with 40 gigs on soundcheck across Manchester. Often billed alongside Hannah O'Gorman, Atiké and Fastlove. Next up: New Wave Ramen, Manchester on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Keltoi is a baile funk and house artist based in United Kingdom, with 40 gigs on
 
 Hannah O'Gorman, Atiké, Fastlove
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/keltoi/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/keltoi/)*

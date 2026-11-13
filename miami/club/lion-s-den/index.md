@@ -1,6 +1,6 @@
 # Lion's Den
 
-Lion's Den is a music venue in Miami with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "DJ Sub Zero, Armii1n B2B Choukroun" on Fri, 13 Nov 2026.
+Lion's Den is a music venue in Miami with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "DJ Sub Zero, Armii1n B2B Choukroun" on Fri, 13 Nov 2026.
 
 Lion's Den is a music venue in Miami listed on soundcheck. 5 upcoming gigs, with line-ups including Adam Collins, Armii1n, Chez Damier and Jivan Calderone and 2 more. See dates, start times and who's playing. 150 NW 73rd st.
 
@@ -18,4 +18,4 @@ Lion's Den is a music venue in Miami listed on soundcheck. 5 upcoming gigs, with
 
 150 NW 73rd st, Miami
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/lion-s-den/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/lion-s-den/)*

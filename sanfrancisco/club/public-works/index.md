@@ -1,6 +1,6 @@
 # Public Works
 
-Public Works is a music venue in San Francisco/Oakland with 19 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "QUEEN OUT FINALE PT 1: Bianca Oblivion, BabiDoll" on Fri, 13 Nov 2026.
+Public Works is a music venue in San Francisco/Oakland with 19 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "QUEEN OUT FINALE PT 1: Bianca Oblivion, BabiDoll" on Fri, 13 Nov 2026.
 
 Public Works is a music venue in San Francisco/Oakland listed on soundcheck. 19 upcoming gigs, with line-ups including BabiDoll, Bandēs, Bianca Oblivion and Cali Rose and 2 more. See dates, start times and who's playing. 161 Erie Street, San Francisco, CA 94103, United States.
 
@@ -15,7 +15,7 @@ Public Works is a music venue in San Francisco/Oakland listed on soundcheck. 19 
 | Fri, 20 Nov 2026 | Jonny Wild - Who Let The Zoo Out |  |
 | Sat, 21 Nov 2026 | DEATHPACT: From Darkness, Comes Light: Eclipsed presented by Public Works & DJ Dials |  |
 | Fri, 27 Nov 2026 | Skream presented by Goldenvoice | Skream |
-| Fri, 4 Dec 2026 | Guy J presented by Public Works, Safra & Konnekted | Guy J |
+| Fri, 4 Dec 2026 | GUY J presented by Public Works, Safra, Konnekted, & SET | Guy J |
 | Sat, 5 Dec 2026 | Desert Dwellers presented by Public Works & Bicycle Day |  |
 | Sat, 5 Dec 2026 | Studio de Laune: Regularfantasy & Max Sprauer | Max Sprauer, Regularfantasy |
 
@@ -23,4 +23,4 @@ Public Works is a music venue in San Francisco/Oakland listed on soundcheck. 19 
 
 161 Erie Street, San Francisco, CA 94103, United States, San Francisco/Oakland
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/public-works/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/public-works/)*

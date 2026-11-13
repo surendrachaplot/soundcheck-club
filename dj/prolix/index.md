@@ -1,6 +1,6 @@
 # Prolix
 
-Prolix is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Maassilo, Rotterdam on Sat, 27 Feb 2027.
+Prolix is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Maassilo, Rotterdam on Sat, 27 Feb 2027.
 
 Prolix is a drum & bass and jungle artist based in United Kingdom, with 24 gigs on soundcheck across Amsterdam, Austin, Berlin and Brighton and 9 more. Often billed alongside Ed Rush, Optical and Black Sun Empire. Next up: Maassilo, Rotterdam on Sat 27 Feb.
 
@@ -25,4 +25,4 @@ Prolix is a drum & bass and jungle artist based in United Kingdom, with 24 gigs 
 
 Ed Rush, Optical, Black Sun Empire
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prolix/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prolix/)*

@@ -1,10 +1,10 @@
 # Labirintas 2026 at Elastica
 
-Labirintas 2026 at Elastica on Thu 12 Nov, Vilnius. 13 artists: HASLA, Homemade Explosives, Intakx and Jensen Interceptor and 9 more. Techno and House. See the line-up on soundcheck.
+Labirintas 2026 at Elastica on Fri 13 Nov, Vilnius. 13 artists: HASLA, Homemade Explosives, Intakx and Jensen Interceptor and 9 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Thu, 12 Nov 2026 |
+| Date | Fri, 13 Nov 2026 |
 | Venue | Elastica |
 | City | Vilnius |
 

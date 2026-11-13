@@ -1,14 +1,15 @@
 # Andres Campo
 
-Andres Campo is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Spook Club, Valencia on Sat, 19 Dec 2026.
+Andres Campo is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Spook Club, Valencia on Sat, 19 Dec 2026.
 
-Andres Campo is a techno and tech house artist based in Spain, with 90 gigs on soundcheck across Amsterdam, Bali, Barcelona and Bogotá and 20 more. Often billed alongside Adiel, Fatima Hajji and Luca Donzelli. Next up: Spook Club, Valencia on Sat 19 Dec.
+Andres Campo is a techno and tech house artist based in Spain, with 91 gigs on soundcheck across Amsterdam, Bali, Barcelona and Bogotá and 21 more. Often billed alongside Fatima Hajji, Adiel and Luca Donzelli. Next up: Spook Club, Valencia on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Dec 2026 | Spook Club | Valencia |
+| Thu, 31 Dec 2026 | Cocoricò | North |
 | Fri, 1 Jan 2027 | Fabrik | Madrid |
 
 ## Recently played
@@ -24,6 +25,6 @@ Andres Campo is a techno and tech house artist based in Spain, with 90 gigs on s
 
 ## Shares bills with
 
-Adiel, Fatima Hajji, Luca Donzelli
+Fatima Hajji, Adiel, Luca Donzelli
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andrescampo/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andrescampo/)*

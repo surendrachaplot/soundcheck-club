@@ -1,6 +1,6 @@
 # NUTMEG
 
-NUTMEG is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at THE HAPPY mAN CHEAKS, Tokyo on Sat, 14 Nov 2026.
+NUTMEG is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at THE HAPPY mAN CHEAKS, Tokyo on Sat, 14 Nov 2026.
 
 NUTMEG is a techno and acid artist based in Japan, with 10 gigs on soundcheck across Tokyo. Often billed alongside HIDAI, Do Shock Booze and AMG SAIMURA (TECHVANE). Next up: THE HAPPY mAN CHEAKS, Tokyo on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ NUTMEG is a techno and acid artist based in Japan, with 10 gigs on soundcheck ac
 
 HIDAI, Do Shock Booze, AMG SAIMURA (TECHVANE)
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nutmeg/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nutmeg/)*

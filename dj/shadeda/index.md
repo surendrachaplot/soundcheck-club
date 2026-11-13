@@ -1,14 +1,15 @@
 # Shadeda
 
-Shadeda is a House and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at renae, Manchester on Fri, 13 Nov 2026.
+Shadeda is a House and Broken Beat artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at renae, Manchester on Fri, 13 Nov 2026.
 
-Shadeda is a house and broken beat artist based in United Kingdom, with 33 gigs on soundcheck across Leeds, Liverpool, London and Manchester and 3 more. Often billed alongside kisa, Finn and Sakers. Next up: renae, Manchester on Fri 13 Nov.
+Shadeda is a house and broken beat artist based in United Kingdom, with 34 gigs on soundcheck across Leeds, Liverpool, London and Manchester and 3 more. Often billed alongside kisa, Finn and Sakers. Next up: renae, Manchester on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | renae | Manchester |
+| Thu, 3 Dec 2026 | Soup | Manchester |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Shadeda is a house and broken beat artist based in United Kingdom, with 33 gigs 
 
 kisa, Finn, Sakers
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shadeda/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shadeda/)*

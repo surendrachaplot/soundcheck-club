@@ -1,6 +1,6 @@
 # Annamite
 
-Annamite is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Wych, Toronto on Thu, 10 Dec 2026.
+Annamite is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Wych, Toronto on Thu, 10 Dec 2026.
 
 Annamite is a house and electro artist based in Canada, with 7 gigs on soundcheck across Hobart and Toronto. Often billed alongside CHNTEL., SouthPawBrown and 1TK. Next up: The Wych, Toronto on Thu 10 Dec.
 
@@ -23,4 +23,4 @@ Annamite is a house and electro artist based in Canada, with 7 gigs on soundchec
 
 CHNTEL., SouthPawBrown, 1TK (1)
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annamite/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annamite/)*

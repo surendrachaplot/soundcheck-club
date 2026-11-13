@@ -1,6 +1,6 @@
 # Cimmerian
 
-Cimmerian is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Panke Social, Sheffield on Thu, 31 Dec 2026.
+Cimmerian is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Panke Social, Sheffield on Thu, 31 Dec 2026.
 
 Cimmerian is a techno and breakbeat artist based in United Kingdom, with 12 gigs on soundcheck across Sheffield. Often billed alongside Move Elusive, Harrison (UK) and CL:ARK. Next up: Panke Social, Sheffield on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Cimmerian is a techno and breakbeat artist based in United Kingdom, with 12 gigs
 
 Move Elusive, Harrison (UK), CL:ARK
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cimmerian/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cimmerian/)*

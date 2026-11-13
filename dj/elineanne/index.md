@@ -1,8 +1,8 @@
 # Eline (BE)
 
-Eline (BE) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at OXI, Berlin on Fri, 13 Nov 2026.
+Eline (BE) is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at OXI, Berlin on Fri, 13 Nov 2026.
 
-Eline (BE) is a house and techno artist based in Belgium, with 32 gigs on soundcheck across Amsterdam, Antwerp, Bali and Berlin and 3 more. Often billed alongside Courtesy, Lola Haro and r.omy. Next up: OXI, Berlin on Fri 13 Nov.
+Eline (BE) is a house and tech house artist based in Belgium, with 32 gigs on soundcheck across Amsterdam, Antwerp, Bali and Berlin and 3 more. Often billed alongside Courtesy, Lola Haro and r.omy. Next up: OXI, Berlin on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Eline (BE) is a house and techno artist based in Belgium, with 32 gigs on soundc
 
 Courtesy, Lola Haro, r.omy
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elineanne/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elineanne/)*

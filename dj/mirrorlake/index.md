@@ -1,6 +1,6 @@
 # MirrorLake
 
-MirrorLake is a Electronica and Downtempo artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Relink:Data, Mexico City on Fri, 20 Nov 2026.
+MirrorLake is a Electronica and Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Relink:Data, Mexico City on Fri, 20 Nov 2026.
 
 MirrorLake is an electronica and downtempo artist based in Mexico, with 11 gigs on soundcheck across Mexico City. Often billed alongside Koscoy, Bluecommand and Eafhm. Next up: Relink:Data, Mexico City on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ MirrorLake is an electronica and downtempo artist based in Mexico, with 11 gigs 
 
 Koscoy, Bluecommand, Eafhm
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mirrorlake/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mirrorlake/)*

@@ -1,6 +1,6 @@
 # Gueparda
 
-Gueparda is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Republik Club, Madrid on Fri, 13 Nov 2026.
+Gueparda is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Republik Club, Madrid on Fri, 13 Nov 2026.
 
 Gueparda is a techno and trance artist based in Spain, with 10 gigs on soundcheck across Madrid. Often billed alongside Vulker, Diego A-K and M3tamyth. Next up: Republik Club, Madrid on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Gueparda is a techno and trance artist based in Spain, with 10 gigs on soundchec
 
 Vulker, Diego A-K, M3tamyth
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gueparda/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gueparda/)*

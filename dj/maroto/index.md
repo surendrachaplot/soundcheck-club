@@ -1,6 +1,6 @@
 # Marotö
 
-Marotö is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Secret Location, Madrid on Fri, 20 Nov 2026.
+Marotö is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Secret Location, Madrid on Fri, 20 Nov 2026.
 
 Marotö is a techno and tech house artist based in Spain, with 34 gigs on soundcheck across Barcelona, London and Madrid. Often billed alongside Kily Ruiz, DaniM and Alba Franch. Next up: TBA - Secret Location, Madrid on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Marotö is a techno and tech house artist based in Spain, with 34 gigs on soundc
 
 Kily Ruiz, DaniM, Alba Franch
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maroto/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maroto/)*

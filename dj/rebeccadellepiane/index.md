@@ -1,6 +1,6 @@
 # Rebecca Delle Piane
 
-Rebecca Delle Piane is a Techno and Electronica artist with 6 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at FVTVR, Paris on Fri, 13 Nov 2026.
+Rebecca Delle Piane is a Techno and Electronica artist with 6 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at FVTVR, Paris on Fri, 13 Nov 2026.
 
 Rebecca Delle Piane is a techno and electronica artist based in Italy, with 98 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bratislava and 25 more. Often billed alongside Freddy K, SDN and Alarico. Next up: FVTVR, Paris on Fri 13 Nov.
 
@@ -30,4 +30,4 @@ Rebecca Delle Piane is a techno and electronica artist based in Italy, with 98 g
 
 Freddy K, SDN (1), Alarico
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rebeccadellepiane/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rebeccadellepiane/)*

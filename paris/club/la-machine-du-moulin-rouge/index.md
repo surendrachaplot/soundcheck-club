@@ -1,6 +1,6 @@
 # La Machine Du Moulin Rouge
 
-La Machine Du Moulin Rouge is a music venue in Paris with 9 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Flash Cocotte" on Fri, 13 Nov 2026.
+La Machine Du Moulin Rouge is a music venue in Paris with 9 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Flash Cocotte" on Fri, 13 Nov 2026.
 
 La Machine Du Moulin Rouge is a music venue in Paris listed on soundcheck. 9 upcoming gigs, with line-ups including 25EMEHEURE, Akua, bb and Carla Genus and 2 more. See dates, start times and who's playing. 90 boulevard de Clichy; 75018; Paris; France.
 
@@ -22,4 +22,4 @@ La Machine Du Moulin Rouge is a music venue in Paris listed on soundcheck. 9 upc
 
 90 boulevard de Clichy; 75018; Paris; France, Paris
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-machine-du-moulin-rouge/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-machine-du-moulin-rouge/)*

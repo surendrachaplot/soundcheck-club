@@ -1,8 +1,8 @@
 # Smokey Bubblin' B
 
-Smokey Bubblin' B is a House and Garage artist with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
+Smokey Bubblin' B is a House and Garage artist with 6 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
 
-Smokey Bubblin' B is a house and garage artist based in United Kingdom, with 66 gigs on soundcheck across Austin, Barcelona, Birmingham and Brighton and 14 more. Often billed alongside George Mensah, Sammy Porter and Tilli Murphy. Next up: The Concourse Project, Austin on Fri 13 Nov.
+Smokey Bubblin' B is a house and garage artist based in United Kingdom, with 67 gigs on soundcheck across Austin, Barcelona, Birmingham and Brighton and 14 more. Often billed alongside George Mensah, Sammy Porter and Tilli Murphy. Next up: The Concourse Project, Austin on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Smokey Bubblin' B is a house and garage artist based in United Kingdom, with 66 
 | Sat, 14 Nov 2026 | Smoke & Mirrors | Chicago |
 | Sat, 28 Nov 2026 | The Prospect Building | Bristol |
 | Sat, 5 Dec 2026 | ark (Melb) | Melbourne |
+| Fri, 11 Dec 2026 | Chinese Laundry | Sydney |
 | Thu, 31 Dec 2026 | Chelmsford City Racecourse | London |
 
 ## Recently played
@@ -29,4 +30,4 @@ Smokey Bubblin' B is a house and garage artist based in United Kingdom, with 66 
 
 George Mensah, Sammy Porter, Tilli Murphy
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/smokeybubblinb/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/smokeybubblinb/)*

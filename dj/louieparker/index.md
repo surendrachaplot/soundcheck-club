@@ -1,6 +1,6 @@
 # Louie Parker
 
-Louie Parker is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Heim Shanghai, Shanghai on Fri, 20 Nov 2026.
+Louie Parker is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Heim Shanghai, Shanghai on Fri, 20 Nov 2026.
 
 Louie Parker is a club and techno artist based in United Kingdom, with 17 gigs on soundcheck across London, Manchester, Seoul and Shanghai. Often billed alongside Arjayes, Pallister and Vivra Verra. Next up: Heim Shanghai, Shanghai on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Louie Parker is a club and techno artist based in United Kingdom, with 17 gigs o
 
 Arjayes, Pallister, Vivra Verra
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/louieparker/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/louieparker/)*

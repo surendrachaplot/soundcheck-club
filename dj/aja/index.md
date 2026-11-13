@@ -1,13 +1,14 @@
 # AJA
 
-AJA is a Club and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Saloon, Tokyo on Sun, 22 Nov 2026.
+AJA is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Brixton Radio, London on Sat, 21 Nov 2026.
 
-AJA is a club and drum & bass artist based in United Kingdom, with 17 gigs on soundcheck across Brussels, Glasgow, Liverpool and London and 5 more. Often billed alongside ANNA, Acido Cielo and Becky Stroke. Next up: Saloon, Tokyo on Sun 22 Nov.
+AJA is a drum & bass and jungle artist based in United Kingdom, with 18 gigs on soundcheck across Brussels, Glasgow, Liverpool and London and 5 more. Often billed alongside ANNA, Acido Cielo and Becky Stroke. Next up: Brixton Radio, London on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | Brixton Radio | London |
 | Sun, 22 Nov 2026 | Saloon | Tokyo |
 
 ## Recently played
@@ -25,4 +26,4 @@ AJA is a club and drum & bass artist based in United Kingdom, with 17 gigs on so
 
 ANNA, Acido Cielo, Becky Stroke
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aja/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aja/)*

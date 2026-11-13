@@ -1,6 +1,6 @@
 # George Bowie
 
-George Bowie is a Trance and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Savoy, Glasgow on Sat, 26 Dec 2026.
+George Bowie is a Trance and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Savoy, Glasgow on Sat, 26 Dec 2026.
 
 George Bowie is a trance and disco artist based in United Kingdom, with 32 gigs on soundcheck across Dundee and Glasgow. Often billed alongside Joe Deacon, NRG Trax and Macca. Next up: Savoy, Glasgow on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ George Bowie is a trance and disco artist based in United Kingdom, with 32 gigs 
 
 Joe Deacon, NRG Trax, Macca (2)
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/georgebowie/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/georgebowie/)*

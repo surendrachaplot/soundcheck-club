@@ -1,6 +1,6 @@
 # INVITES: MARUSHA at Faust
 
-INVITES: MARUSHA at Faust on Sat 14 Nov, Seoul. 3 artists: Kim Bo Yeon, Marcus L and Sol (KR). See the line-up on soundcheck.
+INVITES: MARUSHA at Faust on Sat 14 Nov, Seoul. 4 artists: Harivo, Kim Bo Yeon, Marcus L and Sol (KR). See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ INVITES: MARUSHA at Faust on Sat 14 Nov, Seoul. 3 artists: Kim Bo Yeon, Marcus L
 
 ## Line-up
 
+- Harivo
 - Kim Bo Yeon
 - Marcus L
 - Sol (KR)

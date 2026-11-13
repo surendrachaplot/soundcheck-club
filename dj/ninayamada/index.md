@@ -1,14 +1,16 @@
 # Nina Yamada
 
-Nina Yamada is a House and Jazz artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Club Empire, London on Sat, 5 Dec 2026.
+Nina Yamada is a House and Jazz artist with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Club Empire, London on Sat, 5 Dec 2026.
 
-Nina Yamada is a house and jazz artist based in Japan, with 65 gigs on soundcheck across Bangkok, Berlin, Birmingham and Brighton and 9 more. Often billed alongside Tonydot, Ozwick and Anja Ngozi. Next up: Club Empire, London on Sat 5 Dec.
+Nina Yamada is a house and jazz artist based in Japan, with 67 gigs on soundcheck across Bangkok, Berlin, Birmingham and Brighton and 11 more. Often billed alongside Tonydot, Ozwick and Anja Ngozi. Next up: Club Empire, London on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Club Empire | London |
+| Sun, 6 Dec 2026 | Islington Mill | Manchester |
+| Sat, 12 Dec 2026 | Solace | Melbourne |
 | Sat, 19 Dec 2026 | Fraser Park | Sydney |
 | Sat, 23 Jan 2027 | NT's Loft | London |
 
@@ -27,4 +29,4 @@ Nina Yamada is a house and jazz artist based in Japan, with 65 gigs on soundchec
 
 Tonydot, Ozwick, Anja Ngozi
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ninayamada/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ninayamada/)*

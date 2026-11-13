@@ -1,6 +1,6 @@
 # APERITIVO: Daytime groove at Bread and Butter
 
-APERITIVO: Daytime groove at Bread and Butter on Sun 29 Nov, London. 3 artists: Andy Caruso, Deepmore and N-Ground. House and Disco. See the line-up on soundcheck.
+APERITIVO: Daytime groove at Bread and Butter on Sun 29 Nov, London. 4 artists: Andy Caruso, Deepmore, Julia Roma and N-Ground. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ APERITIVO: Daytime groove at Bread and Butter on Sun 29 Nov, London. 3 artists: 
 
 - Andy Caruso
 - Deepmore
+- Julia Roma
 - N-Ground
 
 *Source: [soundcheck](https://soundcheck.club/e/2556358-aperitivo-daytime-groove-at-bread-and-butter/)*

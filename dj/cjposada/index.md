@@ -1,6 +1,6 @@
 # CJ Posada
 
-CJ Posada is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - WINSTONS 1921 BACON ST OCEAN BEACH, San Diego on Fri, 13 Nov 2026.
+CJ Posada is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - WINSTONS 1921 BACON ST OCEAN BEACH, San Diego on Fri, 13 Nov 2026.
 
 CJ Posada is a house and tech house artist based in United States of America, with 52 gigs on soundcheck across Amsterdam, Miami and San Diego. Often billed alongside Bondar, Oleg Bondar and Malik Mantra. Next up: TBA - WINSTONS 1921 BACON ST OCEAN BEACH, San Diego on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ CJ Posada is a house and tech house artist based in United States of America, wi
 
 Bondar, Oleg Bondar, Malik Mantra
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cjposada/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cjposada/)*

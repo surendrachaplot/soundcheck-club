@@ -1,6 +1,6 @@
 # Tarkno
 
-Tarkno is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Gotec, Karlsruhe on Fri, 13 Nov 2026.
+Tarkno is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Gotec, Karlsruhe on Fri, 13 Nov 2026.
 
 Tarkno is a techno and house artist based in Australia, with 119 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Budapest and 40 more. Often billed alongside slin, Carmen Electro and RUIZ OSC1. Next up: Gotec, Karlsruhe on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Tarkno is a techno and house artist based in Australia, with 119 gigs on soundch
 
 slin, Carmen Electro, RUIZ OSC1
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tarkno/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tarkno/)*

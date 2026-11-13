@@ -1,6 +1,6 @@
 # Better Late
 
-Better Late is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at La Gata del Born, Barcelona on Sun, 15 Nov 2026.
+Better Late is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at La Gata del Born, Barcelona on Sun, 15 Nov 2026.
 
 Better Late is a house and disco artist based in United Kingdom, with 77 gigs on soundcheck across Amsterdam, Barcelona and London. Often billed alongside HannahLuyah, Mimsy and DJ Will Grant. Next up: La Gata del Born, Barcelona on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Better Late is a house and disco artist based in United Kingdom, with 77 gigs on
 
 HannahLuyah, Mimsy, DJ Will Grant
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/betterlate/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/betterlate/)*

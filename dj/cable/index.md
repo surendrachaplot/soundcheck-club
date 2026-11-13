@@ -1,14 +1,25 @@
 # Cable
 
-Cable is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at NQ JPN, London on Fri, 13 Nov 2026.
+Cable is a Techno and House artist with 25 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at NQ JPN, London on Fri, 13 Nov 2026.
 
-Cable is a techno and house artist, with 10 gigs on soundcheck across Atlanta, Cologne, Krakow and Lisbon and 5 more. Often billed alongside Phone, Is (AM) and AnD. Next up: NQ JPN, London on Fri 13 Nov.
+Cable is a techno and house artist, with 34 gigs on soundcheck across Atlanta, Baltimore, Berlin and Birmingham and 20 more. Often billed alongside Phone, Is (AM) and Balance. Next up: NQ JPN, London on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | NQ JPN | London |
+| Sat, 14 Nov 2026 | Czech | Leipzig |
+| Sat, 14 Nov 2026 | Mnky HSE | London |
+| Sat, 14 Nov 2026 | BnA Hotel | Tokyo |
+| Sat, 14 Nov 2026 | Mbar | Cape Town |
+| Sat, 14 Nov 2026 | Zlate Piesky | Bratislava |
+| Sat, 14 Nov 2026 | Lvlone Night Club & Lounge | Miami |
+| Sat, 14 Nov 2026 | LMG Warehouse | Birmingham |
+| Sat, 14 Nov 2026 | Jb's Lounge LKF | Hong Kong |
+| Sat, 14 Nov 2026 | Over & Above KL | Kuala Lumpur |
+| Sat, 14 Nov 2026 | JZ Latino | Shanghai |
+| Sat, 14 Nov 2026 | Lx Music | Lisbon |
 
 ## Recently played
 
@@ -23,6 +34,6 @@ Cable is a techno and house artist, with 10 gigs on soundcheck across Atlanta, C
 
 ## Shares bills with
 
-Phone, Is (AM), AnD
+Phone, Is (AM), Balance
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cable/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cable/)*

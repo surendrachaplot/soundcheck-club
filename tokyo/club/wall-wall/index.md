@@ -1,6 +1,6 @@
 # WALL & WALL
 
-WALL & WALL is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "Rooftop Antenna Live Winter 2026" on Sun, 15 Nov 2026.
+WALL & WALL is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "Rooftop Antenna Live Winter 2026" on Sun, 15 Nov 2026.
 
 WALL & WALL is a music venue in Tokyo listed on soundcheck. 1 upcoming gig, with line-ups including 1LDK, JUN INAGAWA and Seren 4 Ever. See dates, start times and who's playing. 3-18-19 Minami Aoyama, Minato-ku, Tokyo, 107-0062 Japan.
 
@@ -14,4 +14,4 @@ WALL & WALL is a music venue in Tokyo listed on soundcheck. 1 upcoming gig, with
 
 3-18-19 Minami Aoyama, Minato-ku, Tokyo, 107-0062 Japan, Tokyo
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/wall-wall/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/wall-wall/)*

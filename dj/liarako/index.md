@@ -1,13 +1,14 @@
 # LiaRako
 
-LiaRako is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at THE HAPPY mAN CHEAKS, Tokyo on Sat, 14 Nov 2026.
+LiaRako is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Cube, Tokyo on Fri, 13 Nov 2026.
 
-LiaRako is a techno and house artist based in Japan, with 109 gigs on soundcheck across Chubu and Tokyo. Often billed alongside WAKA XINXI, Hackmarkt and AiMii. Next up: THE HAPPY mAN CHEAKS, Tokyo on Sat 14 Nov.
+LiaRako is a techno and house artist based in Japan, with 110 gigs on soundcheck across Chubu and Tokyo. Often billed alongside WAKA XINXI, Hackmarkt and AiMii. Next up: Cube, Tokyo on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | Cube | Tokyo |
 | Sat, 14 Nov 2026 | THE HAPPY mAN CHEAKS | Tokyo |
 | Wed, 30 Dec 2026 | TBA | Tokyo |
 
@@ -26,4 +27,4 @@ LiaRako is a techno and house artist based in Japan, with 109 gigs on soundcheck
 
 WAKA XINXI, Hackmarkt, AiMii
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/liarako/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/liarako/)*

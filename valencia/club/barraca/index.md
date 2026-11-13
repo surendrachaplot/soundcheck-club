@@ -1,6 +1,6 @@
 # Barraca
 
-Barraca is a music venue in Valencia with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Technology" on Sat, 14 Nov 2026.
+Barraca is a music venue in Valencia with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Technology" on Sat, 14 Nov 2026.
 
 Barraca is a music venue in Valencia listed on soundcheck. 3 upcoming gigs, with line-ups including arcalogue, Ayra Nishati, Barbara and Carlos Pérez and 2 more. See dates, start times and who's playing. Avd San Roc s/n, Sueca, 46410 Valencia, Spain.
 
@@ -16,4 +16,4 @@ Barraca is a music venue in Valencia listed on soundcheck. 3 upcoming gigs, with
 
 Avd San Roc s/n, Sueca, 46410 Valencia, Spain, Valencia
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/barraca/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/barraca/)*

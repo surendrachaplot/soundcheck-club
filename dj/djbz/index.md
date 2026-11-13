@@ -1,6 +1,6 @@
 # DJ Bz
 
-DJ Bz is a House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at PWCC, North on Sun, 29 Nov 2026.
+DJ Bz is a House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at PWCC, North on Sun, 29 Nov 2026.
 
 DJ Bz is a house and minimal techno artist based in United Kingdom, with 62 gigs on soundcheck across Amsterdam, Basel, Berlin and Dundee and 9 more. Often billed alongside Doogi, Sammy Peeps and Kirmelian. Next up: PWCC, North on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ DJ Bz is a house and minimal techno artist based in United Kingdom, with 62 gigs
 
 Doogi, Sammy Peeps, Kirmelian
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbz/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbz/)*

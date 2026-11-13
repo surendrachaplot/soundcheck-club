@@ -1,6 +1,6 @@
 # Trasto
 
-Trasto is a Techno and Downtempo artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Lasociaciøn, Madrid on Fri, 13 Nov 2026.
+Trasto is a Techno and Downtempo artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Lasociaciøn, Madrid on Fri, 13 Nov 2026.
 
 Trasto is a techno and downtempo artist based in Spain, with 19 gigs on soundcheck across Barcelona, Madrid and Mexico City. Often billed alongside ADRI.G, Crissis and Jakka. Next up: Lasociaciøn, Madrid on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Trasto is a techno and downtempo artist based in Spain, with 19 gigs on soundche
 
 ADRI.G, Crissis, Jakka
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trasto/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trasto/)*

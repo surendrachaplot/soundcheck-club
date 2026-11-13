@@ -1,6 +1,6 @@
 # Rëgret
 
-Rëgret is a Hardcore and Gabber artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Bar Fader, Osaka on Fri, 13 Nov 2026.
+Rëgret is a Hardcore and Gabber artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Bar Fader, Osaka on Fri, 13 Nov 2026.
 
 Rëgret is a hardcore and gabber artist based in Japan, with 15 gigs on soundcheck across Osaka and Tokyo. Often billed alongside matres, DJ Shimamura and kakepon. Next up: Bar Fader, Osaka on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Rëgret is a hardcore and gabber artist based in Japan, with 15 gigs on soundche
 
 matres, DJ Shimamura, kakepon
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/regret/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/regret/)*

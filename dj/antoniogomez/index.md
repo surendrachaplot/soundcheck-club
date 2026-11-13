@@ -1,6 +1,6 @@
 # Antonio Gómez
 
-Antonio Gómez is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Video Club, Bogotá on Fri, 13 Nov 2026.
+Antonio Gómez is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Video Club, Bogotá on Fri, 13 Nov 2026.
 
 Antonio Gómez is a house and techno artist based in Colombia, with 22 gigs on soundcheck across Bogotá. Often billed alongside Isabella Isaza, Pippo and Natandú. Next up: Video Club, Bogotá on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Antonio Gómez is a house and techno artist based in Colombia, with 22 gigs on s
 
 Isabella Isaza, Pippo, Natandú
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antoniogomez/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antoniogomez/)*

@@ -1,6 +1,6 @@
 # Bloodkedelic
 
-Bloodkedelic is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Sensorium, Berlin on Wed, 9 Dec 2026.
+Bloodkedelic is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Sensorium, Berlin on Wed, 9 Dec 2026.
 
 Bloodkedelic is a techno and house artist based in Germany, with 11 gigs on soundcheck across Berlin. Often billed alongside DE.fine, Freya Algiz and A.I.F.O.S.. Next up: Sensorium, Berlin on Wed 9 Dec.
 
@@ -25,4 +25,4 @@ Bloodkedelic is a techno and house artist based in Germany, with 11 gigs on soun
 
 DE.fine, Freya Algiz, A.I.F.O.S.
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bloodkedelic/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bloodkedelic/)*

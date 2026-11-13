@@ -1,6 +1,6 @@
 # Fank Ford
 
-Fank Ford is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Korpusi, Tbilisi on Sat, 21 Nov 2026.
+Fank Ford is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Korpusi, Tbilisi on Sat, 21 Nov 2026.
 
 Fank Ford is an industrial and techno artist based in Georgia, with 13 gigs on soundcheck across Berlin, Mexico City, Tbilisi and Vienna. Often billed alongside Kariauli, MESKVLIF and vngdr. Next up: TBA - Korpusi, Tbilisi on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Fank Ford is an industrial and techno artist based in Georgia, with 13 gigs on s
 
 Kariauli, MESKVLIF, vngdr
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fankford/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fankford/)*

@@ -1,6 +1,6 @@
 # LOCAL CONNECTION - Sekta Selekta at Sekta Selekta
 
-LOCAL CONNECTION - Sekta Selekta on Sat 21 Nov, Krakow. 3 artists: Hubsond, Pridi and Zharkov. Electro and Minimal. See the line-up on soundcheck.
+LOCAL CONNECTION - Sekta Selekta on Sat 21 Nov, Krakow. 3 artists: Hubsond, Pridi and Zharkov. Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

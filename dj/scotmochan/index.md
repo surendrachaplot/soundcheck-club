@@ -1,6 +1,6 @@
 # Scot Mochan
 
-Scot Mochan is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Crown Pier, London on Thu, 31 Dec 2026.
+Scot Mochan is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Crown Pier, London on Thu, 31 Dec 2026.
 
 Scot Mochan is a house and club artist based in United Kingdom, with 28 gigs on soundcheck across London. Often billed alongside NYCity Soundz, VanRock and Max E Groove. Next up: Crown Pier, London on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Scot Mochan is a house and club artist based in United Kingdom, with 28 gigs on 
 
 NYCity Soundz, VanRock, Max E Groove
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scotmochan/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scotmochan/)*

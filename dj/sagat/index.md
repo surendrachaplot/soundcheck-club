@@ -1,6 +1,6 @@
 # Sagat
 
-Sagat is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Botanique, Brussels on Sat, 28 Nov 2026.
+Sagat is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Botanique, Brussels on Sat, 28 Nov 2026.
 
 Sagat is an experimental and ambient artist based in Belgium, with 17 gigs on soundcheck across Berlin, Bristol, Brussels and London. Often billed alongside Nosedrip, Basile3 and Ben Bertrand. Next up: Botanique, Brussels on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Sagat is an experimental and ambient artist based in Belgium, with 17 gigs on so
 
 Nosedrip, Basile3, Ben Bertrand
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sagat/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sagat/)*

@@ -1,14 +1,14 @@
 # JPSC
 
-JPSC is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Elastica, Vilnius on Thu, 12 Nov 2026.
+JPSC is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Elastica, Vilnius on Fri, 13 Nov 2026.
 
-JPSC is a techno and house artist based in Lithuania, with 16 gigs on soundcheck across Vilnius. Often billed alongside Et Cetera, Under Black Helmet and Valdagger. Next up: Elastica, Vilnius on Thu 12 Nov.
+JPSC is a techno and house artist based in Lithuania, with 16 gigs on soundcheck across Vilnius. Often billed alongside Et Cetera, Under Black Helmet and Valdagger. Next up: Elastica, Vilnius on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 12 Nov 2026 | Elastica | Vilnius |
+| Fri, 13 Nov 2026 | Elastica | Vilnius |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ JPSC is a techno and house artist based in Lithuania, with 16 gigs on soundcheck
 
 Et Cetera, Under Black Helmet, Valdagger
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jpsc-li/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jpsc-li/)*

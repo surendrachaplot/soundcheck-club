@@ -1,6 +1,6 @@
 # New Year`s Eve with Moonbootica at MH5 Rooftop
 
-New Year`s Eve with Moonbootica at MH5 Rooftop on Thu 31 Dec, Munich. 3 artists: B-ZEY, Moonbootica and Tom Novy. House and Electronica. See the line-up on soundcheck.
+New Year`s Eve with Moonbootica at MH5 Rooftop on Thu 31 Dec, Munich. 3 artists: B-ZEY, Moonbootica and Tom Novy. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

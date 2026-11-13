@@ -1,6 +1,6 @@
 # CRISTI:ANA
 
-CRISTI:ANA is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Wiggle Room, Toronto on Fri, 4 Dec 2026.
+CRISTI:ANA is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Wiggle Room, Toronto on Fri, 4 Dec 2026.
 
 CRISTI:ANA is a techno and tech house artist based in Canada, with 43 gigs on soundcheck across Montreal and Toronto. Often billed alongside SAMM DU, VARON and Cozmic Cat. Next up: Wiggle Room, Toronto on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ CRISTI:ANA is a techno and tech house artist based in Canada, with 43 gigs on so
 
 SAMM DU, VARON, Cozmic Cat
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cristiana/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cristiana/)*

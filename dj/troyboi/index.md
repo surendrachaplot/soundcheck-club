@@ -1,14 +1,15 @@
 # TroyBoi
 
-TroyBoi is a Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - The Ruins American Canyon, California on Fri, 13 Nov 2026.
+TroyBoi is a Bass and Dubstep artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - The Ruins American Canyon, California on Fri, 13 Nov 2026.
 
-TroyBoi is a bass and dubstep artist based in United Kingdom, with 31 gigs on soundcheck across Austin, Calgary, California and Chicago and 15 more. Often billed alongside Matroda, Alesso and Deorro. Next up: TBA - The Ruins American Canyon, California on Fri 13 Nov.
+TroyBoi is a bass and dubstep artist based in United Kingdom, with 32 gigs on soundcheck across Austin, Calgary, California and Chicago and 16 more. Often billed alongside Matroda, Alesso and Deorro. Next up: TBA - The Ruins American Canyon, California on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | TBA - The Ruins American Canyon | California |
+| Wed, 30 Dec 2026 | The Warehouse at The Nashville Fairgrounds | Nashville |
 | Thu, 31 Dec 2026 | NOS Event Center | Los-angeles |
 
 ## Recently played
@@ -26,4 +27,4 @@ TroyBoi is a bass and dubstep artist based in United Kingdom, with 31 gigs on so
 
 Matroda, Alesso, Deorro
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/troyboi/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/troyboi/)*

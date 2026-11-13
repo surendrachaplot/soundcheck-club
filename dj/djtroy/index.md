@@ -1,6 +1,6 @@
 # DJ Troy
 
-DJ Troy is a Techno and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Tresor / Globus, Berlin on Mon, 28 Dec 2026.
+DJ Troy is a Techno and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Tresor / Globus, Berlin on Mon, 28 Dec 2026.
 
 DJ Troy is a techno and minimal artist based in Ukraine, with 17 gigs on soundcheck across Berlin, Brussels, Bucharest and Hamburg and 3 more. Often billed alongside Nicole., Camion Bazar and Developer. Next up: Tresor / Globus, Berlin on Mon 28 Dec.
 
@@ -26,4 +26,4 @@ DJ Troy is a techno and minimal artist based in Ukraine, with 17 gigs on soundch
 
 Nicole., Camion Bazar, Developer
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djtroy/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djtroy/)*

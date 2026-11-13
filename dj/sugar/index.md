@@ -1,6 +1,6 @@
 # Sugar
 
-Sugar is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Système, Montreal on Sat, 28 Nov 2026.
+Sugar is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Système, Montreal on Sat, 28 Nov 2026.
 
 Sugar is a techno and trance artist based in Denmark, with 52 gigs on soundcheck across Antwerp, Barcelona, Basel and Berlin and 17 more. Often billed alongside Schacke, Ezy and Mohajer. Next up: Système, Montreal on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Sugar is a techno and trance artist based in Denmark, with 52 gigs on soundcheck
 
 Schacke, Ezy, Mohajer
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sugar/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sugar/)*

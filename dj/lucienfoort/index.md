@@ -1,6 +1,6 @@
 # Lucien Foort
 
-Lucien Foort is a House and Acid artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Thuishaven, Amsterdam on Sat, 9 Jan 2027.
+Lucien Foort is a House and Acid artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Thuishaven, Amsterdam on Sat, 9 Jan 2027.
 
 Lucien Foort is a house and acid artist based in Netherlands, with 48 gigs on soundcheck across Amsterdam, Ibiza, Rotterdam and Utrecht. Often billed alongside Alexander Koning, Erick E and ROOG. Next up: Thuishaven, Amsterdam on Sat 9 Jan.
 
@@ -27,4 +27,4 @@ Lucien Foort is a house and acid artist based in Netherlands, with 48 gigs on so
 
 Alexander Koning, Erick E, ROOG
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucienfoort/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucienfoort/)*

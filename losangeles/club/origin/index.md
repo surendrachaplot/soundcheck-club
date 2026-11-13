@@ -1,6 +1,6 @@
 # Origin
 
-Origin is a music venue in Los Angeles with 11 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Only Fire & Friends" on Fri, 13 Nov 2026.
+Origin is a music venue in Los Angeles with 11 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Only Fire & Friends" on Fri, 13 Nov 2026.
 
 Origin is a music venue in Los Angeles listed on soundcheck. 11 upcoming gigs, with line-ups including Alice Longyu Gao, Annicka, Blaise S and Breakbot and 2 more. See dates, start times and who's playing. 613 Imperial St., Los Angeles, CA 90021.
 
@@ -23,4 +23,4 @@ Origin is a music venue in Los Angeles listed on soundcheck. 11 upcoming gigs, w
 
 613 Imperial St., Los Angeles, CA 90021, Los Angeles
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/origin/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/origin/)*

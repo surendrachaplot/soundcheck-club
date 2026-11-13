@@ -1,6 +1,6 @@
 # Clocky Chulo
 
-Clocky Chulo is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Mood Ring, New York City on Sat, 21 Nov 2026.
+Clocky Chulo is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Mood Ring, New York City on Sat, 21 Nov 2026.
 
 Clocky Chulo is a house and disco artist based in United States of America, with 9 gigs on soundcheck across New York City. Often billed alongside DJ ing, To The End. and Mozn. Next up: Mood Ring, New York City on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Clocky Chulo is a house and disco artist based in United States of America, with
 
 DJ ing, To The End., Mozn
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clockychulo/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clockychulo/)*

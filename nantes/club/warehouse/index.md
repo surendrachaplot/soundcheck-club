@@ -1,6 +1,6 @@
 # Warehouse
 
-Warehouse is a music venue in Nantes with 10 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Hardcore France & Eskape prés. INVASION" on Fri, 13 Nov 2026.
+Warehouse is a music venue in Nantes with 10 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Hardcore France & Eskape prés. INVASION" on Fri, 13 Nov 2026.
 
 Warehouse is a music venue in Nantes listed on soundcheck. 10 upcoming gigs, with line-ups including Akalex, AMOR MUSIC, billx and Dan Bono and 2 more. See dates, start times and who's playing. 21 quai des Antilles 44200 Nantes.
 
@@ -8,7 +8,7 @@ Warehouse is a music venue in Nantes listed on soundcheck. 10 upcoming gigs, wit
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Hardcore France & Eskape prés. INVASION | Goblin Grave, Neko, Unicorn on Ketamine, billx |
+| Fri, 13 Nov 2026 | Hardcore France & Eskape prés. INVASION | Goblin Grave, Neko, Unicorn on K, billx |
 | Fri, 20 Nov 2026 | ORGANÏK with Jazzy, Yoshiko, Todiefor | HIBI, Todiefor, Yoshiko |
 | Fri, 4 Dec 2026 | 2Much Nantes: Panteros666, Dj Schnake, Kichta | Dj Schnake, Eskha, Kichta, Panteros666 |
 | Fri, 11 Dec 2026 | Impact Nantes | Ezza (2), JAAX, Junkie Kid, KX CHR, Majes |
@@ -23,4 +23,4 @@ Warehouse is a music venue in Nantes listed on soundcheck. 10 upcoming gigs, wit
 
 21 quai des Antilles 44200 Nantes, Nantes
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/warehouse/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/warehouse/)*

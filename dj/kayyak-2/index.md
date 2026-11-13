@@ -1,6 +1,6 @@
 # KAYYAK
 
-KAYYAK is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Kino Roland, Zurich on Sat, 21 Nov 2026.
+KAYYAK is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Kino Roland, Zurich on Sat, 21 Nov 2026.
 
 KAYYAK is a house and disco artist based in Switzerland, with 50 gigs on soundcheck across Barcelona, Ibiza, Lausanne and Manchester and 2 more. Often billed alongside Kalabrese, Alex Dallas and Dejan. Next up: Kino Roland, Zurich on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ KAYYAK is a house and disco artist based in Switzerland, with 50 gigs on soundch
 
 Kalabrese, Alex Dallas, Dejan
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kayyak-2/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kayyak-2/)*

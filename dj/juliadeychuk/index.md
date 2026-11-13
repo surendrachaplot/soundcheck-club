@@ -1,6 +1,6 @@
 # Julia Deychuk
 
-Julia Deychuk is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - 21 Roof Top Bar, Kuala Lumpur on Sat, 14 Nov 2026.
+Julia Deychuk is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - 21 Roof Top Bar, Kuala Lumpur on Sat, 14 Nov 2026.
 
 Julia Deychuk is a house and techno artist based in Ukraine, with 40 gigs on soundcheck across Kuala Lumpur. Often billed alongside Alam, Meliha and Axel Groove. Next up: TBA - 21 Roof Top Bar, Kuala Lumpur on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Julia Deychuk is a house and techno artist based in Ukraine, with 40 gigs on sou
 
 Alam, Meliha, Axel Groove
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juliadeychuk/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juliadeychuk/)*

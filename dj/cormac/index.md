@@ -1,6 +1,6 @@
 # Cormac
 
-Cormac is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Karmakoma, Belgrade on Fri, 13 Nov 2026.
+Cormac is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Karmakoma, Belgrade on Fri, 13 Nov 2026.
 
 Cormac is a house and techno artist, with 204 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 69 more. Often billed alongside BASHKKA, Roi Perez and Massimiliano Pagliara. Next up: Karmakoma, Belgrade on Fri 13 Nov.
 
@@ -29,4 +29,4 @@ Cormac is a house and techno artist, with 204 gigs on soundcheck across Amsterda
 
 BASHKKA, Roi Perez, Massimiliano Pagliara
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cormac/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cormac/)*

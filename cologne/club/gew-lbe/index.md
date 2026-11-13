@@ -1,6 +1,6 @@
 # Gewölbe
 
-Gewölbe is a music venue in Cologne with 16 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Perfect Timing with Biggie Schoellz, Fero Duman, Nic Lorenz, Sidney Charles, SIMES" on Fri, 13 Nov 2026.
+Gewölbe is a music venue in Cologne with 16 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Perfect Timing with Biggie Schoellz, Fero Duman, Nic Lorenz, Sidney Charles, SIMES" on Fri, 13 Nov 2026.
 
 Gewölbe is a music venue in Cologne listed on soundcheck. 16 upcoming gigs, with line-ups including Paula Tape, Ahmet Sisman, AMSL and Anatoli [DE] and 2 more. See dates, start times and who's playing. Hans-Böckler Platz 2, 50672; Cologne; Germany.
 
@@ -23,4 +23,4 @@ Gewölbe is a music venue in Cologne listed on soundcheck. 16 upcoming gigs, wit
 
 Hans-Böckler Platz 2, 50672; Cologne; Germany, Cologne
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/gew-lbe/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/gew-lbe/)*

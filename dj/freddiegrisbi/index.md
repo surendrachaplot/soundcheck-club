@@ -1,6 +1,6 @@
 # Freddie Grisbi
 
-Freddie Grisbi is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The System, Sheffield on Sat, 21 Nov 2026.
+Freddie Grisbi is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The System, Sheffield on Sat, 21 Nov 2026.
 
 Freddie Grisbi is a tech house and deep house artist based in United Kingdom, with 8 gigs on soundcheck across London and Sheffield. Often billed alongside obviouslyalex, The Doobskins and A For Alpha. Next up: The System, Sheffield on Sat 21 Nov.
 
@@ -24,4 +24,4 @@ Freddie Grisbi is a tech house and deep house artist based in United Kingdom, wi
 
 obviouslyalex, The Doobskins, A For Alpha
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/freddiegrisbi/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/freddiegrisbi/)*

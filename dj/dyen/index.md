@@ -1,6 +1,6 @@
 # DYEN
 
-DYEN is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Fabrik, Madrid on Sat, 5 Dec 2026.
+DYEN is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Fabrik, Madrid on Sat, 5 Dec 2026.
 
 DYEN is a techno and house artist based in Netherlands, with 226 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Barcelona and 67 more. Often billed alongside Nico Moreno, Shlømo and Charlie Sparks. Next up: Fabrik, Madrid on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ DYEN is a techno and house artist based in Netherlands, with 226 gigs on soundch
 
 Nico Moreno, Shlømo, Charlie Sparks
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dyen/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dyen/)*

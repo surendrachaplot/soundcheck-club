@@ -1,6 +1,6 @@
 # Renzo (1)
 
-Renzo (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Masada, Milan on Sun, 22 Nov 2026.
+Renzo (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Masada, Milan on Sun, 22 Nov 2026.
 
 Renzo is a techno and house artist based in Mexico, with 19 gigs on soundcheck across Barcelona, Berlin, Cologne and Ghent and 6 more. Often billed alongside ACCUL, Antonym and Bélavie. Next up: Masada, Milan on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ Renzo is a techno and house artist based in Mexico, with 19 gigs on soundcheck a
 
 ACCUL, Antonym, Bélavie
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/renzo-1/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/renzo-1/)*

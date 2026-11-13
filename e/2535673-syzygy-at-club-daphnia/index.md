@@ -1,6 +1,6 @@
 # syzygy at Club Daphnia
 
-syzygy at Club Daphnia on Sat 5 Dec, Osaka. 15 artists: APEPA, Enishi, KAPI and Loe (JP) and 11 more. Techno and House. See the line-up on soundcheck.
+syzygy at Club Daphnia on Sat 5 Dec, Osaka. 14 artists: APEPA, Enishi, KAPI and Loe (JP) and 10 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -22,7 +22,6 @@ syzygy at Club Daphnia on Sat 5 Dec, Osaka. 15 artists: APEPA, Enishi, KAPI and 
 - SAITO
 - storror
 - Tui (1)
-- yori
 - YouForgot
 - YSK.
 

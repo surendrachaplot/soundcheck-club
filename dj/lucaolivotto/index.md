@@ -1,6 +1,6 @@
 # Luca Olivotto
 
-Luca Olivotto is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at OXI, Berlin on Sat, 5 Dec 2026.
+Luca Olivotto is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at OXI, Berlin on Sat, 5 Dec 2026.
 
 Luca Olivotto is a house and disco artist based in Germany, with 80 gigs on soundcheck across Berlin, Bratislava, Cologne and Frankfurt and 7 more. Often billed alongside Eva Crystaltips, Nephews and Quadrakey. Next up: OXI, Berlin on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Luca Olivotto is a house and disco artist based in Germany, with 80 gigs on soun
 
 Eva Crystaltips, Nephews, Quadrakey
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaolivotto/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaolivotto/)*

@@ -1,6 +1,6 @@
 # Blank Site
 
-Blank Site is a music venue in Seoul with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Broken Ones invites: Metamoksha (Bussy Temple / SG)" on Sat, 21 Nov 2026.
+Blank Site is a music venue in Seoul with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Broken Ones invites: Metamoksha (Bussy Temple / SG)" on Sat, 21 Nov 2026.
 
 Blank Site is a music venue in Seoul listed on soundcheck. 2 upcoming gigs, with line-ups including Earthbender, HWXXNG, Kitty and MAZE (KR) and 2 more. See dates, start times and who's playing. B2, 22, Bogwang-ro 60-gil, Yongsan-gu, Seoul, South Korea.
 
@@ -15,4 +15,4 @@ Blank Site is a music venue in Seoul listed on soundcheck. 2 upcoming gigs, with
 
 B2, 22, Bogwang-ro 60-gil, Yongsan-gu, Seoul, South Korea, Seoul
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/blank-site/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/blank-site/)*

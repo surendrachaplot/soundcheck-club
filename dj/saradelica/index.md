@@ -1,6 +1,6 @@
 # saradélica
 
-saradélica is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Paradisco Bogotá, Bogotá on Sat, 14 Nov 2026.
+saradélica is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Paradisco Bogotá, Bogotá on Sat, 14 Nov 2026.
 
 saradélica is a techno and club artist based in Colombia, with 40 gigs on soundcheck across Bogotá, Medellin and Mexico City. Often billed alongside Carlos Rizzi, Niebla and Dagga. Next up: Paradisco Bogotá, Bogotá on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ saradélica is a techno and club artist based in Colombia, with 40 gigs on sound
 
 Carlos Rizzi, Niebla, Dagga
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saradelica/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saradelica/)*

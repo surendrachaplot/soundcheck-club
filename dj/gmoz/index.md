@@ -1,6 +1,6 @@
 # GMOZ
 
-GMOZ is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Glenworth Valley, Sydney on Mon, 28 Dec 2026.
+GMOZ is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Glenworth Valley, Sydney on Mon, 28 Dec 2026.
 
 GMOZ is a techno and trance artist based in Australia, with 36 gigs on soundcheck across Amsterdam, Australian Capital Territory, Berlin and Melbourne and 1 more. Often billed alongside Eva Charley, Lily FM and dameeeela. Next up: Glenworth Valley, Sydney on Mon 28 Dec.
 
@@ -26,4 +26,4 @@ GMOZ is a techno and trance artist based in Australia, with 36 gigs on soundchec
 
 Eva Charley, Lily FM, dameeeela
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gmoz/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gmoz/)*

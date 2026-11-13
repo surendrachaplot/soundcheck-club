@@ -1,6 +1,6 @@
 # MADGRRL
 
-MADGRRL is a Techno and Bass artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at M7 Club, Barcelona on Fri, 20 Nov 2026.
+MADGRRL is a Techno and Bass artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at M7 Club, Barcelona on Fri, 20 Nov 2026.
 
 MADGRRL is a techno and bass artist based in United States of America, with 21 gigs on soundcheck across Barcelona, Dallas Fort Worth, Dallas/Fort Worth and Denver and 8 more. Often billed alongside I Hate Models, Azyr and Chris Lake. Next up: M7 Club, Barcelona on Fri 20 Nov.
 
@@ -28,4 +28,4 @@ MADGRRL is a techno and bass artist based in United States of America, with 21 g
 
 I Hate Models, Azyr, Chris Lake
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/madgrrl/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/madgrrl/)*

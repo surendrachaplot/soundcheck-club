@@ -1,6 +1,6 @@
 # Bianca Oblivion
 
-Bianca Oblivion is a Bass and Club artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Public Works, San Francisco/Oakland on Fri, 13 Nov 2026.
+Bianca Oblivion is a Bass and Club artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Public Works, San Francisco/Oakland on Fri, 13 Nov 2026.
 
 Bianca Oblivion is a bass and club artist based in United States of America, with 177 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Austin and 53 more. Often billed alongside Star Eyes, Sam Binga and AK SPORTS. Next up: Public Works, San Francisco/Oakland on Fri 13 Nov.
 
@@ -28,4 +28,4 @@ Bianca Oblivion is a bass and club artist based in United States of America, wit
 
 Star Eyes, Sam Binga, AK SPORTS
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/biancaoblivion/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/biancaoblivion/)*

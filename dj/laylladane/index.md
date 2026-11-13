@@ -1,6 +1,6 @@
 # Laylla Dane
 
-Laylla Dane is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Ж Jazz Room, Sofia on Sun, 22 Nov 2026.
+Laylla Dane is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Ж Jazz Room, Sofia on Sun, 22 Nov 2026.
 
 Laylla Dane is a techno and house artist based in Bulgaria, with 59 gigs on soundcheck across Amsterdam, Athens, Belgrade and Berlin and 7 more. Often billed alongside Bosha, Frykk and Deyan Dimitrov. Next up: Ж Jazz Room, Sofia on Sun 22 Nov.
 
@@ -28,4 +28,4 @@ Laylla Dane is a techno and house artist based in Bulgaria, with 59 gigs on soun
 
 Bosha, Frykk, Deyan Dimitrov
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laylladane/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laylladane/)*

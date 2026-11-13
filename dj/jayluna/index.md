@@ -1,6 +1,6 @@
 # Jay Luna
 
-Jay Luna is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Nubel, Madrid on Sun, 29 Nov 2026.
+Jay Luna is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Nubel, Madrid on Sun, 29 Nov 2026.
 
 Jay Luna is a house and disco artist based in Spain, with 31 gigs on soundcheck across Barcelona, Budapest, London and Madrid and 2 more. Often billed alongside Hugo Carter, Yahaira and Cabin Luv Affair. Next up: Nubel, Madrid on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Jay Luna is a house and disco artist based in Spain, with 31 gigs on soundcheck 
 
 Hugo Carter, Yahaira, Cabin Luv Affair
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jayluna/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jayluna/)*

@@ -1,6 +1,6 @@
 # MikeQ
 
-MikeQ is a Ballroom and Club artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Village Canindé, Sao Paulo on Sat, 14 Nov 2026.
+MikeQ is a Ballroom and Club artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Village Canindé, Sao Paulo on Sat, 14 Nov 2026.
 
 MikeQ is a ballroom and club artist based in United States of America, with 53 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 22 more. Often billed alongside Sinjin Hawke, Leonce and Litney. Next up: Village Canindé, Sao Paulo on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ MikeQ is a ballroom and club artist based in United States of America, with 53 g
 
 Sinjin Hawke, Leonce, Litney
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeq/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeq/)*

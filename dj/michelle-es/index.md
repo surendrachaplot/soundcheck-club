@@ -1,6 +1,6 @@
 # Michélle
 
-Michélle is a Deep House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Sigma, Ibiza on Tue, 17 Nov 2026.
+Michélle is a Deep House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Sigma, Ibiza on Tue, 17 Nov 2026.
 
 Michélle is a deep house and tech house artist based in Spain, with 3 gigs on soundcheck across Ibiza. Next up: Sigma, Ibiza on Tue 17 Nov.
 
@@ -15,4 +15,4 @@ Michélle is a deep house and tech house artist based in Spain, with 3 gigs on s
 
 - Sigma, Ibiza · Tue, 10 Nov 2026
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/michelle-es/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/michelle-es/)*

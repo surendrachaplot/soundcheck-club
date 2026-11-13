@@ -1,6 +1,6 @@
 # Dadalab
 
-Dadalab is a music venue in Austin with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "YES/& · Charity Electronic Music Night" on Sat, 21 Nov 2026.
+Dadalab is a music venue in Austin with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "YES/& · Charity Electronic Music Night" on Sat, 21 Nov 2026.
 
 Dadalab is a music venue in Austin listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing. 2008 Alexander Ave, Austin, TX 78722.
 
@@ -16,4 +16,4 @@ Dadalab is a music venue in Austin listed on soundcheck. 3 upcoming gigs. See da
 
 2008 Alexander Ave, Austin, TX 78722, Austin
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/austin/club/dadalab/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/austin/club/dadalab/)*

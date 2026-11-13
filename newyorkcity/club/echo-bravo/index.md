@@ -1,6 +1,6 @@
 # Echo Bravo
 
-Echo Bravo is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "Gay Guy Friday" on Fri, 13 Nov 2026.
+Echo Bravo is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "Gay Guy Friday" on Fri, 13 Nov 2026.
 
 Echo Bravo is a music venue in New York City listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Echo Bravo is a music venue in New York City listed on soundcheck. 1 upcoming gi
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Gay Guy Friday |  |
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/echo-bravo/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/echo-bravo/)*

@@ -1,6 +1,6 @@
 # INVITES: Sandrien at Faust
 
-INVITES: Sandrien at Faust on Fri 13 Nov, Seoul. 1 artist: Sandrien. See the line-up on soundcheck.
+INVITES: Sandrien at Faust on Fri 13 Nov, Seoul. 5 artists: Mars Parck, Nocturnal (KR), NUSNOOM and Sandrien and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,10 @@ INVITES: Sandrien at Faust on Fri 13 Nov, Seoul. 1 artist: Sandrien. See the lin
 
 ## Line-up
 
+- Mars Parck
+- Nocturnal (KR)
+- NUSNOOM
 - Sandrien
+- Yuriko (2)
 
 *Source: [soundcheck](https://soundcheck.club/e/2566313-invites-sandrien-at-faust/)*

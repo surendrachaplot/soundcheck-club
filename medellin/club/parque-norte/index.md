@@ -1,6 +1,6 @@
 # Parque Norte
 
-Parque Norte is a music venue in Medellin with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "SIRIUS 2026" on Sat, 12 Dec 2026.
+Parque Norte is a music venue in Medellin with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "SIRIUS 2026" on Sat, 12 Dec 2026.
 
 Parque Norte is a music venue in Medellin listed on soundcheck. 1 upcoming gig, with line-ups including Abstract Division, François X, Planetary Assault Systems and Pushmann and 2 more. See dates, start times and who's playing. Cra. 53 #76-115, Medellín, Antioquia, Colombia.
 
@@ -14,4 +14,4 @@ Parque Norte is a music venue in Medellin listed on soundcheck. 1 upcoming gig, 
 
 Cra. 53 #76-115, Medellín, Antioquia, Colombia, Medellin
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/medellin/club/parque-norte/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/medellin/club/parque-norte/)*

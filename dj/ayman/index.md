@@ -1,6 +1,6 @@
 # Ayman
 
-Ayman is a Tech House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Studio 1111, Berlin on Sat, 14 Nov 2026.
+Ayman is a Tech House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Studio 1111, Berlin on Sat, 14 Nov 2026.
 
 Ayman is a tech house and minimal artist based in France, with 10 gigs on soundcheck across Baltimore, Berlin, Montreal and Paris. Often billed alongside AMDH, MADAM and DJ BinBag. Next up: Studio 1111, Berlin on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Ayman is a tech house and minimal artist based in France, with 10 gigs on soundc
 
 AMDH, MADAM, DJ BinBag
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ayman/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ayman/)*

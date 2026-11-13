@@ -1,6 +1,6 @@
 # Mollono.Bass at Ritter Butzke
 
-Mollono.Bass at Ritter Butzke on Fri 20 Nov, Berlin. 3 artists: LEENI, Mollono.Bass and vom Feisten. Techno. See the line-up on soundcheck.
+Mollono.Bass at Ritter Butzke on Fri 20 Nov, Berlin. 4 artists: Konrad Sturm, LEENI, Mollono.Bass and vom Feisten. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Mollono.Bass at Ritter Butzke on Fri 20 Nov, Berlin. 3 artists: LEENI, Mollono.B
 
 ## Line-up
 
+- Konrad Sturm
 - LEENI
 - Mollono.Bass
 - vom Feisten

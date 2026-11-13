@@ -1,6 +1,6 @@
 # Antony Szmierek
 
-Antony Szmierek is a Funk / Soul and Jazz artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Stinsen, Stockholm on Fri, 27 Nov 2026.
+Antony Szmierek is a Funk / Soul and Jazz artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Stinsen, Stockholm on Fri, 27 Nov 2026.
 
 Antony Szmierek is a funk / soul and jazz artist based in United Kingdom, with 10 gigs on soundcheck across Berlin, Birmingham, Bristol and Brussels and 6 more. Often billed alongside Sofia Kourtesis, 1-800 GIRLS and ANNA. Next up: Stinsen, Stockholm on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Antony Szmierek is a funk / soul and jazz artist based in United Kingdom, with 1
 
 Sofia Kourtesis, 1-800 GIRLS, ANNA
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antonyszmierek/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antonyszmierek/)*

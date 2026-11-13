@@ -1,6 +1,6 @@
 # Marble & DJ Rawel at NEU
 
-Marble & DJ Rawel at NEU on Fri 20 Nov, Stockholm. 1 artist: Marble. House and Garage. See the line-up on soundcheck.
+Marble & DJ Rawel at NEU on Fri 20 Nov, Stockholm. 2 artists: DJ Rawel and Marble. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Marble & DJ Rawel at NEU on Fri 20 Nov, Stockholm. 1 artist: Marble. House and G
 
 ## Line-up
 
+- DJ Rawel
 - Marble
 
 *Source: [soundcheck](https://soundcheck.club/e/2582098-marble-dj-rawel-at-neu/)*

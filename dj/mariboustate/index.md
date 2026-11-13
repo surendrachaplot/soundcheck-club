@@ -1,13 +1,14 @@
 # Maribou State
 
-Maribou State is a House and Funk / Soul artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Nitsa Club, Barcelona on Fri, 20 Nov 2026.
+Maribou State is a House and Electronica artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Hacienda Club, Rome on Fri, 13 Nov 2026.
 
-Maribou State is a house and funk / soul artist based in United Kingdom, with 44 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Brighton and 24 more. Often billed alongside CHRIS STASSY, DJ Gigola and FCUKERS. Next up: Nitsa Club, Barcelona on Fri 20 Nov.
+Maribou State is a house and electronica artist based in United Kingdom, with 45 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Brighton and 25 more. Often billed alongside CHRIS STASSY, DJ Gigola and FCUKERS. Next up: Hacienda Club, Rome on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | Hacienda Club | Rome |
 | Fri, 20 Nov 2026 | Nitsa Club | Barcelona |
 | Sat, 21 Nov 2026 | Centre Point | Dublin |
 
@@ -26,4 +27,4 @@ Maribou State is a house and funk / soul artist based in United Kingdom, with 44
 
 CHRIS STASSY, DJ Gigola, FCUKERS
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mariboustate/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mariboustate/)*

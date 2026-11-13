@@ -1,6 +1,6 @@
 # fabric Cape Town: HAAi, Midland, Ellen Allien, Daniel Avery, Heidi + more at The Castle of Good Hope
 
-fabric Cape Town: HAAi, Midland, Ellen Allien, Daniel Avery, Heidi + more at The Castle of Good Hope on Sat 16 Jan, Cape Town. 5 artists: Daniel Avery, Ellen Allien, HAAi and Heidi and 1 more. See the line-up on soundcheck.
+fabric Cape Town: HAAi, Midland, Ellen Allien, Daniel Avery, Heidi + more at The Castle of Good Hope on Sat 16 Jan, Cape Town. 12 artists: !Sooks, Daniel Avery, Ellen Allien and Erefaan Pearce and 8 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,10 +10,17 @@ fabric Cape Town: HAAi, Midland, Ellen Allien, Daniel Avery, Heidi + more at The
 
 ## Line-up
 
+- !Sooks
 - Daniel Avery
 - Ellen Allien
+- Erefaan Pearce
+- Gabbana
 - HAAi
 - Heidi
+- Kat La Kat
+- Lazarusman
+- Leighton Moody
 - Midland
+- nataša
 
 *Source: [soundcheck](https://soundcheck.club/e/2542823-fabric-cape-town-haai-midland-ellen-allien-daniel-avery-heid/)*

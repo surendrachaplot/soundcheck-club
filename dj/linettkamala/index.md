@@ -1,6 +1,6 @@
 # LINETT KAMALA
 
-LINETT KAMALA is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Palais, London on Sat, 14 Nov 2026.
+LINETT KAMALA is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Palais, London on Sat, 14 Nov 2026.
 
 LINETT KAMALA is a house and deep house artist based in United Kingdom, with 2 gigs on soundcheck across London. Often billed alongside Bradley Zero, Jorg Kuning and Scarlett O'Malley. Next up: Palais, London on Sat 14 Nov.
 
@@ -15,4 +15,4 @@ LINETT KAMALA is a house and deep house artist based in United Kingdom, with 2 g
 
 Bradley Zero, Jorg Kuning, Scarlett O'Malley
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/linettkamala/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/linettkamala/)*

@@ -1,6 +1,6 @@
 # chldrns
 
-chldrns is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Casa Checo - Plaza Cuicuilco, Mexico-city on Sat, 21 Nov 2026.
+chldrns is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Casa Checo - Plaza Cuicuilco, Mexico-city on Sat, 21 Nov 2026.
 
 chldrns is a house and minimal artist based in Mexico, with 25 gigs on soundcheck across London, Mexico City, Prague and Valencia. Often billed alongside Gallō, Bastard Love and EM2K. Next up: Casa Checo - Plaza Cuicuilco, Mexico City on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ chldrns is a house and minimal artist based in Mexico, with 25 gigs on soundchec
 
 Gallō, Bastard Love, EM2K
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chldrns/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chldrns/)*

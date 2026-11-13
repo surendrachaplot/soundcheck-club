@@ -1,6 +1,6 @@
 # Arkyn
 
-Arkyn is a Jungle and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Kiki Cambridge, South-east on Sat, 5 Dec 2026.
+Arkyn is a Jungle and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Kiki Cambridge, South-east on Sat, 5 Dec 2026.
 
 Arkyn is a jungle and hardcore artist based in United Kingdom, with 23 gigs on soundcheck across Berlin, Bristol, Denver and London and 3 more. Often billed alongside Billy Daniel Bunter, Swankout and Vinyl Junkie. Next up: Kiki Cambridge, South East on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Arkyn is a jungle and hardcore artist based in United Kingdom, with 23 gigs on s
 
 Billy Daniel Bunter, Swankout, Vinyl Junkie
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arkyn/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arkyn/)*

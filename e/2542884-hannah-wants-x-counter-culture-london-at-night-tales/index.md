@@ -1,6 +1,6 @@
 # Hannah Wants x counter culture - London at Night Tales
 
-Hannah Wants x counter culture - London at Night Tales on Sat 5 Dec, London. 1 artist: Hannah Wants. House. See the line-up on soundcheck.
+Hannah Wants x counter culture - London at Night Tales on Sat 5 Dec, London. 4 artists: Dominique Danielle, Hannah Wants, Shimrise and TABZ. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,9 @@ Hannah Wants x counter culture - London at Night Tales on Sat 5 Dec, London. 1 a
 
 ## Line-up
 
+- Dominique Danielle
 - Hannah Wants
+- Shimrise
+- TABZ
 
 *Source: [soundcheck](https://soundcheck.club/e/2542884-hannah-wants-x-counter-culture-london-at-night-tales/)*

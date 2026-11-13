@@ -1,6 +1,6 @@
 # Quadrant Soundscape
 
-Quadrant Soundscape is a Dub Techno and Dub artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Eastern Bloc Records, Manchester on Fri, 11 Dec 2026.
+Quadrant Soundscape is a Dub Techno and Dub artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Eastern Bloc Records, Manchester on Fri, 11 Dec 2026.
 
 Quadrant Soundscape is a dub techno and dub artist based in United Kingdom, with 19 gigs on soundcheck across Berlin and Manchester. Often billed alongside Daz Mac, Andy Green and Man-L. Next up: Eastern Bloc Records, Manchester on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Quadrant Soundscape is a dub techno and dub artist based in United Kingdom, with
 
 Daz Mac, Andy Green, Man-L
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/quadrantsoundscape-uk/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/quadrantsoundscape-uk/)*

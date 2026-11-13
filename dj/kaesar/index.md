@@ -1,6 +1,6 @@
 # Kaesar
 
-Kaesar is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at 5A, Lisbon on Sat, 14 Nov 2026.
+Kaesar is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at 5A, Lisbon on Sat, 14 Nov 2026.
 
 Kaesar is a house and techno artist based in Portugal, with 101 gigs on soundcheck across Budapest, Lisbon, Malaga and Porto and 1 more. Often billed alongside Bernardo Vaz, Gear and Kokeshi. Next up: 5A, Lisbon on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Kaesar is a house and techno artist based in Portugal, with 101 gigs on soundche
 
 Bernardo Vaz, Gear, Kokeshi
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaesar/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaesar/)*

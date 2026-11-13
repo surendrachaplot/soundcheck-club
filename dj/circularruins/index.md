@@ -1,14 +1,15 @@
 # Circular Ruins
 
-Circular Ruins is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at 8MM, Berlin on Fri, 13 Nov 2026.
+Circular Ruins is a Experimental and Ambient artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at 8MM, Berlin on Fri, 13 Nov 2026.
 
-Circular Ruins is an experimental and ambient artist based in Germany, with 4 gigs on soundcheck across Berlin and Düsseldorf. Often billed alongside Aleksandra Słyż, LINTD and More. Next up: 8MM, Berlin on Fri 13 Nov.
+Circular Ruins is an experimental and ambient artist based in Germany, with 5 gigs on soundcheck across Berlin and Düsseldorf. Often billed alongside LINTD, Abigail Toll and Aleksandra Słyż. Next up: 8MM, Berlin on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | 8MM | Berlin |
+| Fri, 13 Nov 2026 | Zionskirche | Berlin |
 
 ## Recently played
 
@@ -18,6 +19,6 @@ Circular Ruins is an experimental and ambient artist based in Germany, with 4 gi
 
 ## Shares bills with
 
-Aleksandra Słyż, LINTD, More (3)
+LINTD, Abigail Toll, Aleksandra Słyż
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/circularruins/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/circularruins/)*

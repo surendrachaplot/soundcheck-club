@@ -1,6 +1,6 @@
 # Moin
 
-Moin is a Post-Punk and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Kino Siska, Ljubljana on Wed, 17 Feb 2027.
+Moin is a Post-Punk and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Kino Siska, Ljubljana on Wed, 17 Feb 2027.
 
 Moin is a post-punk and experimental artist, with 40 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Belgrade and 25 more. Often billed alongside aya, Abdullah Miniawy and livwutang. Next up: Kino Siska, Ljubljana on Wed 17 Feb.
 
@@ -25,4 +25,4 @@ Moin is a post-punk and experimental artist, with 40 gigs on soundcheck across A
 
 aya, Abdullah Miniawy, livwutang
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moin/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moin/)*

@@ -1,6 +1,6 @@
 # G.Kura
 
-G.Kura is a Techno and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Cafe-Gallery, Tbilisi on Fri, 13 Nov 2026.
+G.Kura is a Techno and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Cafe-Gallery, Tbilisi on Fri, 13 Nov 2026.
 
 G.Kura is a techno and afro house artist based in Georgia, with 11 gigs on soundcheck across Tbilisi and Toronto. Often billed alongside Ash Scholem, AudioSpace and Gio Shengelia. Next up: Cafe-Gallery, Tbilisi on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ G.Kura is a techno and afro house artist based in Georgia, with 11 gigs on sound
 
 Ash Scholem, AudioSpace, Gio Shengelia
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/g.kura/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/g.kura/)*

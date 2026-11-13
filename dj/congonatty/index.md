@@ -1,6 +1,6 @@
 # Congo Natty
 
-Congo Natty is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Malkata Tekila, Sofia on Sat, 14 Nov 2026.
+Congo Natty is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Malkata Tekila, Sofia on Sat, 14 Nov 2026.
 
 Congo Natty is a jungle and drum & bass artist based in United Kingdom, with 47 gigs on soundcheck across Berlin, Birmingham, Brighton and Bristol and 11 more. Often billed alongside DJ Snuff, Aries and DJ Hype. Next up: Malkata Tekila, Sofia on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Congo Natty is a jungle and drum & bass artist based in United Kingdom, with 47 
 
 DJ Snuff, Aries, DJ Hype
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/congonatty/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/congonatty/)*

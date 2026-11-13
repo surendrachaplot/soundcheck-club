@@ -1,6 +1,6 @@
 # Catania
 
-Catania is a Progressive House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Zecret Location (Ask on Instagram via DM), Berlin on Fri, 27 Nov 2026.
+Catania is a Progressive House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Zecret Location (Ask on Instagram via DM), Berlin on Fri, 27 Nov 2026.
 
 Catania is a progressive house and electro artist based in Gibraltar, with 11 gigs on soundcheck across Berlin, Leeds, London and Madrid and 2 more. Often billed alongside Cavilla, Roya Brehl and Chris Kitchen. Next up: TBA - Zecret Location (Ask on Instagram via DM), Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Catania is a progressive house and electro artist based in Gibraltar, with 11 gi
 
 Cavilla, Roya Brehl, Chris Kitchen
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/catania/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/catania/)*

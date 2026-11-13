@@ -1,8 +1,8 @@
 # Nina Kraviz
 
-Nina Kraviz is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
+Nina Kraviz is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
 
-Nina Kraviz is a techno and house artist based in Russia, with 181 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 58 more. Often billed alongside Adiel, Héctor Oaks and Richie Hawtin. Next up: The Wildlands, Melbourne on Fri 20 Nov.
+Nina Kraviz is a techno and house artist based in Russia, with 182 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 58 more. Often billed alongside Adiel, Héctor Oaks and Richie Hawtin. Next up: The Wildlands, Melbourne on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Nina Kraviz is a techno and house artist based in Russia, with 181 gigs on sound
 | Fri, 4 Dec 2026 | Umeda Club Quattro | Osaka |
 | Sat, 5 Dec 2026 | WOMB | Tokyo |
 | Sat, 3 Apr 2027 | Maimarkthalle | Mannheim |
+| Fri, 9 Apr 2027 | Mercado Livre Arena Pacaembu | Sao-paulo |
 
 ## Recently played
 
@@ -30,4 +31,4 @@ Nina Kraviz is a techno and house artist based in Russia, with 181 gigs on sound
 
 Adiel, Héctor Oaks, Richie Hawtin
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ninakraviz/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ninakraviz/)*

@@ -1,6 +1,6 @@
 # Spajder Jeruzalem
 
-Spajder Jeruzalem is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at MONKEY LOVE, Warsaw on Fri, 20 Nov 2026.
+Spajder Jeruzalem is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at MONKEY LOVE, Warsaw on Fri, 20 Nov 2026.
 
 Spajder Jeruzalem is a house and tech house artist based in Poland, with 13 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Robek, Bartman and Hodgson_ale. Next up: MONKEY LOVE, Warsaw on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Spajder Jeruzalem is a house and tech house artist based in Poland, with 13 gigs
 
 Robek, Bartman, Hodgson_ale
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spajderjeruzalem/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spajderjeruzalem/)*

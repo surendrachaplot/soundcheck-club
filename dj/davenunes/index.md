@@ -1,6 +1,6 @@
 # Dave Nunes
 
-Dave Nunes is a Amapiano and Afrobeats artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at De Papierfabriek, Nijmegen on Fri, 27 Nov 2026.
+Dave Nunes is a Amapiano and Afrobeats artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at De Papierfabriek, Nijmegen on Fri, 27 Nov 2026.
 
 Dave Nunes is an amapiano and afrobeats artist, with 24 gigs on soundcheck across Amsterdam, Barcelona, Copenhagen and Dubai and 7 more. Often billed alongside Tida Kamara, Diego Armando and KILIMANJARO. Next up: De Papierfabriek, Nijmegen on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Dave Nunes is an amapiano and afrobeats artist, with 24 gigs on soundcheck acros
 
 Tida Kamara, Diego Armando, KILIMANJARO
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davenunes/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davenunes/)*

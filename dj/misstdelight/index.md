@@ -1,6 +1,6 @@
 # Miss T Delight
 
-Miss T Delight is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at DNA. CLUB, Berlin on Fri, 13 Nov 2026.
+Miss T Delight is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at DNA. CLUB, Berlin on Fri, 13 Nov 2026.
 
 Miss T Delight is a techno and bass artist based in Turkey, with 27 gigs on soundcheck across Berlin and Paris. Often billed alongside hi.fí, Kiar Oscuro and 2727. Next up: DNA. CLUB, Berlin on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Miss T Delight is a techno and bass artist based in Turkey, with 27 gigs on soun
 
 hi.fí, Kiar Oscuro, 2727
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/misstdelight/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/misstdelight/)*

@@ -1,6 +1,6 @@
 # Hiribae
 
-Hiribae is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Koda, Nairobi on Fri, 4 Dec 2026.
+Hiribae is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Koda, Nairobi on Fri, 4 Dec 2026.
 
 Hiribae is a minimal and house artist, with 3 gigs on soundcheck across Kenya, Nairobi and Sydney. Often billed alongside Ghedi, !Sooks and AfroKillerz. Next up: Koda, Nairobi on Fri 4 Dec.
 
@@ -19,4 +19,4 @@ Hiribae is a minimal and house artist, with 3 gigs on soundcheck across Kenya, N
 
 Ghedi, !Sooks, AfroKillerz
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hiribae/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hiribae/)*

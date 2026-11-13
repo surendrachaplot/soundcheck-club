@@ -1,6 +1,6 @@
 # Cmd Tulch
 
-Cmd Tulch is a Italo Disco and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Beate Uwe, Berlin on Fri, 27 Nov 2026.
+Cmd Tulch is a Italo Disco and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Beate Uwe, Berlin on Fri, 27 Nov 2026.
 
 Cmd Tulch is an italo disco and disco artist based in Germany, with 16 gigs on soundcheck across Berlin. Often billed alongside Hank Clap, Andrea Zucca and Rena Volvo. Next up: Beate Uwe, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Cmd Tulch is an italo disco and disco artist based in Germany, with 16 gigs on s
 
 Hank Clap, Andrea Zucca, Rena Volvo
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cmdtulch/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cmdtulch/)*

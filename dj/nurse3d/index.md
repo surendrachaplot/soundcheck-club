@@ -1,6 +1,6 @@
 # NURSE3D
 
-NURSE3D is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at La Machine Du Moulin Rouge, Paris on Fri, 4 Dec 2026.
+NURSE3D is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at La Machine Du Moulin Rouge, Paris on Fri, 4 Dec 2026.
 
 NURSE3D is a techno and hardcore artist based in United Kingdom, with 19 gigs on soundcheck across Beijing, Berlin, Glasgow and Hong Kong and 9 more. Often billed alongside 2G, B.A.R.K and Linbo_3. Next up: La Machine Du Moulin Rouge, Paris on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ NURSE3D is a techno and hardcore artist based in United Kingdom, with 19 gigs on
 
 2G (1), B.A.R.K, Linbo_3
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nurse3d/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nurse3d/)*

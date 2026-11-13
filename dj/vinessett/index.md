@@ -1,14 +1,15 @@
 # VINESSETT
 
-VINESSETT is a Hip-Hop and Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Recyclart, Brussels on Sat, 14 Nov 2026.
+VINESSETT is a Hip-Hop and Experimental artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Recyclart, Brussels on Sat, 14 Nov 2026.
 
-VINESSETT is a hip-hop and experimental artist, with 21 gigs on soundcheck across Berlin, Brussels, Paris and The Hague. Often billed alongside iced lattina, Brodinski and Fredoleboss. Next up: Recyclart, Brussels on Sat 14 Nov.
+VINESSETT is a hip-hop and experimental artist, with 22 gigs on soundcheck across Berlin, Brussels, Paris and The Hague. Often billed alongside iced lattina, Brodinski and Fredoleboss. Next up: Recyclart, Brussels on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Recyclart | Brussels |
+| Fri, 4 Dec 2026 | Beursschouwburg | Brussels |
 | Fri, 29 Jan 2027 | Botanique | Brussels |
 
 ## Recently played
@@ -26,4 +27,4 @@ VINESSETT is a hip-hop and experimental artist, with 21 gigs on soundcheck acros
 
 iced lattina, Brodinski, Fredoleboss
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vinessett/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vinessett/)*

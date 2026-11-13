@@ -1,8 +1,8 @@
 # Benwal
 
-Benwal is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
+Benwal is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
 
-Benwal is a techno and house artist based in Netherlands, with 213 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 56 more. Often billed alongside Kyle Starkey, MALUGI and Bad Boombox. Next up: The Concourse Project, Austin on Fri 13 Nov.
+Benwal is a techno and house artist based in Netherlands, with 214 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 56 more. Often billed alongside Kyle Starkey, MALUGI and Bad Boombox. Next up: The Concourse Project, Austin on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Benwal is a techno and house artist based in Netherlands, with 213 gigs on sound
 
 Kyle Starkey, MALUGI, Bad Boombox
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benwal/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benwal/)*

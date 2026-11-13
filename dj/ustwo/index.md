@@ -1,6 +1,6 @@
 # Us Two
 
-Us Two is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Hemkade 48, Amsterdam on Sat, 12 Dec 2026.
+Us Two is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Hemkade 48, Amsterdam on Sat, 12 Dec 2026.
 
 Us Two is a house and tech house artist based in United Kingdom, with 68 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 17 more. Often billed alongside Ilario Alicante, Max Dean and East End Dubs. Next up: Hemkade 48, Amsterdam on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Us Two is a house and tech house artist based in United Kingdom, with 68 gigs on
 
 Ilario Alicante, Max Dean, East End Dubs
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ustwo/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ustwo/)*

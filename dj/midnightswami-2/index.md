@@ -1,6 +1,6 @@
 # midnightswami
 
-midnightswami is a Club and Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Ormside Projects, London on Thu, 26 Nov 2026.
+midnightswami is a Club and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Ormside Projects, London on Thu, 26 Nov 2026.
 
 midnightswami is a club and experimental artist based in United Kingdom, with 11 gigs on soundcheck across London. Often billed alongside effua, fAt-lÏP and DIGITALSAINT. Next up: Ormside Projects, London on Thu 26 Nov.
 
@@ -26,4 +26,4 @@ midnightswami is a club and experimental artist based in United Kingdom, with 11
 
 effua, fAt-lÏP, DIGITALSAINT
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/midnightswami-2/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/midnightswami-2/)*

@@ -1,6 +1,6 @@
 # Jan Nedved
 
-Jan Nedved is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Bukanyr Boat, Prague on Sat, 19 Dec 2026.
+Jan Nedved is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Bukanyr Boat, Prague on Sat, 19 Dec 2026.
 
 Jan Nedved is a house and progressive house artist based in Czech Republic, with 22 gigs on soundcheck across Budapest and Prague. Often billed alongside ASCENDER, Hiro and hiro (CZ). Next up: Bukanyr Boat, Prague on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Jan Nedved is a house and progressive house artist based in Czech Republic, with
 
 ASCENDER, Hiro, hiro (CZ)
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jannedved/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jannedved/)*

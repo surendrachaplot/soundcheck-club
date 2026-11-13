@@ -1,6 +1,6 @@
 # Rob Mello
 
-Rob Mello is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Big Rons Records, Malta on Sat, 21 Nov 2026.
+Rob Mello is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Big Rons Records, Malta on Sat, 21 Nov 2026.
 
 Rob Mello is a house and disco artist based in United Kingdom, with 17 gigs on soundcheck across Bristol, Dublin, Ibiza and Leeds and 4 more. Often billed alongside Jonny Rock, Axel Boman and Bifa and The Juice. Next up: Big Rons Records, Malta on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Rob Mello is a house and disco artist based in United Kingdom, with 17 gigs on s
 
 Jonny Rock, Axel Boman, Bifa and The Juice
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robmello/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robmello/)*

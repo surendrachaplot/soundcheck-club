@@ -1,6 +1,6 @@
 # Brillobox
 
-Brillobox is a music venue in Pittsburgh with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "F**K My Computer" on Sat, 14 Nov 2026.
+Brillobox is a music venue in Pittsburgh with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "F**K My Computer" on Sat, 14 Nov 2026.
 
 Brillobox is a music venue in Pittsburgh listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Brillobox is a music venue in Pittsburgh listed on soundcheck. 1 upcoming gig. S
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | F**K My Computer |  |
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/pittsburgh/club/brillobox/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/pittsburgh/club/brillobox/)*

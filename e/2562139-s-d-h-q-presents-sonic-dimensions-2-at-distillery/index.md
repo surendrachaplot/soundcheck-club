@@ -1,6 +1,6 @@
 # S.D.H.Q. presents: Sonic Dimensions #2 at Distillery
 
-S.D.H.Q. presents: Sonic Dimensions #2 at Distillery on Fri 13 Nov, Leipzig. 4 artists: Die Ruhe, Emeveka, Kalitos and OutWithJane. Techno and Psytrance. See the line-up on soundcheck.
+S.D.H.Q. presents: Sonic Dimensions #2 at Distillery on Fri 13 Nov, Leipzig. 7 artists: Carol Selig, Die Ruhe, Emeveka and Kalitos and 3 more. Techno and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,9 +10,12 @@ S.D.H.Q. presents: Sonic Dimensions #2 at Distillery on Fri 13 Nov, Leipzig. 4 a
 
 ## Line-up
 
+- Carol Selig
 - Die Ruhe
 - Emeveka
 - Kalitos
+- Larry Love
 - OutWithJane
+- SAMANDTHESOUND
 
 *Source: [soundcheck](https://soundcheck.club/e/2562139-s-d-h-q-presents-sonic-dimensions-2-at-distillery/)*

@@ -1,6 +1,6 @@
 # DJ Business (2)
 
-DJ Business (2) is a House and Bass artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at C2 OST, Karlsruhe on Fri, 13 Nov 2026.
+DJ Business (2) is a House and Bass artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at C2 OST, Karlsruhe on Fri, 13 Nov 2026.
 
 DJ Business is a house and bass artist based in Germany, with 64 gigs on soundcheck across Basel, Bavaria, Berlin and Cologne and 10 more. Often billed alongside Wall Ra, Carl Hang and Sophti. Next up: C2 OST, Karlsruhe on Fri 13 Nov.
 
@@ -28,4 +28,4 @@ DJ Business is a house and bass artist based in Germany, with 64 gigs on soundch
 
 Wall Ra, Carl Hang, Sophti
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbusiness-2/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbusiness-2/)*

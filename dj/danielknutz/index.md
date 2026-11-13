@@ -1,6 +1,6 @@
 # Daniel Knutz
 
-Daniel Knutz is a Acid and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Electrowerkz, London on Fri, 27 Nov 2026.
+Daniel Knutz is a Acid and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Electrowerkz, London on Fri, 27 Nov 2026.
 
 Daniel Knutz is an acid and italo disco artist based in Brazil, with 9 gigs on soundcheck across Berlin, Leipzig and London. Often billed alongside Electric Visionary, Marko König and Mercúrio Gótico. Next up: Electrowerkz, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Daniel Knutz is an acid and italo disco artist based in Brazil, with 9 gigs on s
 
 Electric Visionary, Marko König, Mercúrio Gótico
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielknutz/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielknutz/)*

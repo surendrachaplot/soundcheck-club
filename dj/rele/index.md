@@ -1,6 +1,6 @@
 # Rele
 
-Rele is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 14 Nov 2026.
+Rele is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 14 Nov 2026.
 
 Rele is a house and electro artist based in Italy, with 65 gigs on soundcheck across Barcelona and Valencia. Often billed alongside Alexxx, PAZ WAZ HERE and lorenzo del po. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Rele is a house and electro artist based in Italy, with 65 gigs on soundcheck ac
 
 Alexxx, PAZ WAZ HERE, lorenzo del po
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rele/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rele/)*

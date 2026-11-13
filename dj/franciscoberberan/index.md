@@ -1,6 +1,6 @@
 # Francisco Berberan
 
-Francisco Berberan is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Kømplex Lisbon, Lisbon on Sat, 14 Nov 2026.
+Francisco Berberan is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Kømplex Lisbon, Lisbon on Sat, 14 Nov 2026.
 
 Francisco Berberan is a house and techno artist based in Portugal, with 48 gigs on soundcheck across Lisbon and Porto. Often billed alongside Thiago Guiselini, Kokeshi and Varela. Next up: Kømplex Lisbon, Lisbon on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Francisco Berberan is a house and techno artist based in Portugal, with 48 gigs 
 
 Thiago Guiselini, Kokeshi, Varela
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/franciscoberberan/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/franciscoberberan/)*

@@ -1,6 +1,6 @@
 # Ivory
 
-Ivory is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Volt Club Milano, Milan on Sat, 5 Dec 2026.
+Ivory is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Volt Club Milano, Milan on Sat, 5 Dec 2026.
 
 Ivory is a techno and house artist based in Italy, with 148 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 41 more. Often billed alongside Nandu, Aera and Auggië. Next up: Volt Club Milano, Milan on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Ivory is a techno and house artist based in Italy, with 148 gigs on soundcheck a
 
 Nandu, Aera, Auggië
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ivory/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ivory/)*

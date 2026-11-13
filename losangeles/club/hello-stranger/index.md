@@ -1,17 +1,18 @@
 # Hello Stranger
 
-Hello Stranger is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "BEAT CINEMA - Elusive, Glo Phase, Ben Bratton, Shroomie + BC Residents" on Fri, 13 Nov 2026.
+Hello Stranger is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "BEAT CINEMA - Elusive, Glo Phase, Ben Bratton, Shroomie + BC Residents" on Fri, 13 Nov 2026.
 
-Hello Stranger is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig, with line-ups including DJ Shroomie, Glo Phase and wave Groove. See dates, start times and who's playing. 320 East 2nd Street Los Angeles, CA 90012.
+Hello Stranger is a music venue in Los Angeles listed on soundcheck. 2 upcoming gigs, with line-ups including DJ Shroomie, Glo Phase and wave Groove. See dates, start times and who's playing. 320 East 2nd Street Los Angeles, CA 90012.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | BEAT CINEMA - Elusive, Glo Phase, Ben Bratton, Shroomie + BC Residents | DJ Shroomie, Glo Phase, wave Groove |
+| Fri, 4 Dec 2026 | Indeed Indeed presents: XL Middleton Album Release Party |  |
 
 ## Address
 
 320 East 2nd Street Los Angeles, CA 90012, Los Angeles
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/hello-stranger/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/hello-stranger/)*

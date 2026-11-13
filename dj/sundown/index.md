@@ -1,6 +1,6 @@
 # Sundown
 
-Sundown is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at VEF Vasarnīca, Riga on Fri, 13 Nov 2026.
+Sundown is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at VEF Vasarnīca, Riga on Fri, 13 Nov 2026.
 
 Sundown is a techno and house artist based in Latvia, with 13 gigs on soundcheck across New York City and Riga. Often billed alongside Ikss, HP-82 and Existal. Next up: VEF Vasarnīca, Riga on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Sundown is a techno and house artist based in Latvia, with 13 gigs on soundcheck
 
 Ikss, HP-82, Existal
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sundown/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sundown/)*

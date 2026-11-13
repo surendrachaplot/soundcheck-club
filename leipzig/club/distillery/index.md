@@ -1,6 +1,6 @@
 # Distillery
 
-Distillery is a music venue in Leipzig with 11 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "S.D.H.Q. presents: Sonic Dimensions #2" on Fri, 13 Nov 2026.
+Distillery is a music venue in Leipzig with 11 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "S.D.H.Q. presents: Sonic Dimensions #2" on Fri, 13 Nov 2026.
 
 Distillery is a music venue in Leipzig listed on soundcheck. 11 upcoming gigs, with line-ups including 50PHIE, Andreas Eckhardt, Arman John and a:tok and 2 more. See dates, start times and who's playing. Eggebrechtstraße 2, 04103 Leipzig, Germany.
 
@@ -8,7 +8,7 @@ Distillery is a music venue in Leipzig listed on soundcheck. 11 upcoming gigs, w
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | S.D.H.Q. presents: Sonic Dimensions #2 | Die Ruhe, Emeveka, Kalitos, OutWithJane |
+| Fri, 13 Nov 2026 | S.D.H.Q. presents: Sonic Dimensions #2 | Carol Selig, Die Ruhe, Emeveka, Kalitos, Larry Love, OutWithJane, SAMANDTHESOUND |
 | Sat, 14 Nov 2026 | CRÈME CLUB × R.A.N.D MUZIK w/ Bephål, LOLSNAKE, SLANY | Bephål, Davy (Crème Club), Franziska Berns, LOLSNAKE, Lulu & Nell, Reece Walker, SLANY, Shuray & Walle, stbr |
 | Tue, 17 Nov 2026 | Only Us - Sleepless Tuesday | DJ Schnürschuh, DJ Skonti, Delirante, Feta Felice, InterStella, STRUMM., Shaleen, Timstagram, itsadisasta |
 | Sat, 21 Nov 2026 | Roman Flügel × nebula | Cynthia Matisse, Lea Jessen, Roman Flügel, a:tok, moraine, morphin, noxsonos |
@@ -23,4 +23,4 @@ Distillery is a music venue in Leipzig listed on soundcheck. 11 upcoming gigs, w
 
 Eggebrechtstraße 2, 04103 Leipzig, Germany, Leipzig
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/distillery/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/distillery/)*

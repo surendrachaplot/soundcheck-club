@@ -1,6 +1,6 @@
 # Biproduct
 
-Biproduct is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Location TBA, Boston on Fri, 13 Nov 2026.
+Biproduct is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Location TBA, Boston on Fri, 13 Nov 2026.
 
 Biproduct is a techno and experimental artist based in United States of America, with 10 gigs on soundcheck across Boston, Philadelphia and San Diego. Often billed alongside 9D3, AVATO and Angel Attack. Next up: TBA - Location TBA, Boston on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Biproduct is a techno and experimental artist based in United States of America,
 
 9D3, AVATO, Angel Attack
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/biproduct/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/biproduct/)*

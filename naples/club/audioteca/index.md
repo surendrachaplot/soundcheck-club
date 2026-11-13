@@ -1,14 +1,13 @@
 # Audioteca
 
-Audioteca is a music venue in Naples with 13 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Audioteca x Open Decks • Alessandro De Nicola" on Thu, 12 Nov 2026.
+Audioteca is a music venue in Naples with 12 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Audioteca • Aldo Rosati" on Sat, 14 Nov 2026.
 
-Audioteca is a music venue in Naples listed on soundcheck. 13 upcoming gigs, with line-ups including 128GDM, Aldo Rosati, Angelo Perna and Silvestro S and 1 more. See dates, start times and who's playing. Via P. Togliatti 70c - S. Giorgio a Cremano, Napoli.
+Audioteca is a music venue in Naples listed on soundcheck. 12 upcoming gigs, with line-ups including 128GDM, Aldo Rosati, Angelo Perna and Ylenia Del Giudice. See dates, start times and who's playing. Via P. Togliatti 70c - S. Giorgio a Cremano, Napoli.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 12 Nov 2026 | Audioteca x Open Decks • Alessandro De Nicola | Silvestro S |
 | Sat, 14 Nov 2026 | Audioteca • Aldo Rosati | Aldo Rosati |
 | Sun, 15 Nov 2026 | Audioteca • I Guappi |  |
 | Wed, 18 Nov 2026 | Audioteca x Bit Radio • Yayo |  |
@@ -18,9 +17,10 @@ Audioteca is a music venue in Naples listed on soundcheck. 13 upcoming gigs, wit
 | Sun, 22 Nov 2026 | Audioteca x Domingo Tropical • Los Tanos Y Su Discos |  |
 | Wed, 25 Nov 2026 | Audioteca x Bit Radio • 128GDM | 128GDM |
 | Thu, 26 Nov 2026 | Audioteca x Open Decks • Salvatore Solo Vinili |  |
+| Fri, 27 Nov 2026 | Audioteca x Musicamente • Angelo Perna | Angelo Perna |
 
 ## Address
 
 Via P. Togliatti 70c - S. Giorgio a Cremano, Napoli, Naples
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/naples/club/audioteca/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/naples/club/audioteca/)*

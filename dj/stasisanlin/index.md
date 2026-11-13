@@ -1,6 +1,6 @@
 # Stasi Sanlin
 
-Stasi Sanlin is a Tech House and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Bohemia Beach Club, Dubai on Sat, 5 Dec 2026.
+Stasi Sanlin is a Tech House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Bohemia Beach Club, Dubai on Sat, 5 Dec 2026.
 
 Stasi Sanlin is a tech house and afro house artist based in Kazakhstan, with 35 gigs on soundcheck across Amsterdam, Athens, Bali and Brussels and 8 more. Often billed alongside Mario Bazouri, Clint Maximus and Deer Jade. Next up: Bohemia Beach Club, Dubai on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Stasi Sanlin is a tech house and afro house artist based in Kazakhstan, with 35 
 
 Mario Bazouri, Clint Maximus, Deer Jade
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stasisanlin/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stasisanlin/)*

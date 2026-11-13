@@ -1,6 +1,6 @@
 # Animal Trainer
 
-Animal Trainer is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at THE OTHER SIDE, Amsterdam on Fri, 13 Nov 2026.
+Animal Trainer is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at THE OTHER SIDE, Amsterdam on Fri, 13 Nov 2026.
 
 Animal Trainer is a house and techno artist based in Switzerland, with 88 gigs on soundcheck across Amsterdam, Athens, Bali and Bangkok and 23 more. Often billed alongside ACID FLORA, Anthik and Kellerkind. Next up: THE OTHER SIDE, Amsterdam on Fri 13 Nov.
 
@@ -29,4 +29,4 @@ Animal Trainer is a house and techno artist based in Switzerland, with 88 gigs o
 
 ACID FLORA, Anthik, Kellerkind
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/animaltrainer/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/animaltrainer/)*

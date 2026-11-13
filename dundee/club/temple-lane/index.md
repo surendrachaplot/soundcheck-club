@@ -1,6 +1,6 @@
 # Temple Lane
 
-Temple Lane is a music venue in Dundee with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "LTD presents: Alex Culross & Carmen Baia" on Fri, 13 Nov 2026.
+Temple Lane is a music venue in Dundee with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "LTD presents: Alex Culross & Carmen Baia" on Fri, 13 Nov 2026.
 
 Temple Lane is a music venue in Dundee listed on soundcheck. 1 upcoming gig, with line-ups including Alex Culross, Carmen Baía and Van Damn. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Temple Lane is a music venue in Dundee listed on soundcheck. 1 upcoming gig, wit
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | LTD presents: Alex Culross & Carmen Baia | Alex Culross, Carmen Baía, Van Damn |
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dundee/club/temple-lane/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dundee/club/temple-lane/)*

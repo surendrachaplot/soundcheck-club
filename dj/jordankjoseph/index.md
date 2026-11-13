@@ -1,6 +1,6 @@
 # Jordan K Joseph
 
-Jordan K Joseph is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Aaja Basement, London on Fri, 11 Dec 2026.
+Jordan K Joseph is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Aaja Basement, London on Fri, 11 Dec 2026.
 
 Jordan K Joseph is a techno and bass artist based in United Kingdom, with 15 gigs on soundcheck across London and Manchester. Often billed alongside Marley Reid, Conrad Lee and Maria Hanlon. Next up: Aaja Basement, London on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Jordan K Joseph is a techno and bass artist based in United Kingdom, with 15 gig
 
 Marley Reid, Conrad Lee, Maria Hanlon
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jordankjoseph/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jordankjoseph/)*

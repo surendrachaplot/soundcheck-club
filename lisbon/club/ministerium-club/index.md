@@ -1,6 +1,6 @@
 # Ministerium Club
 
-Ministerium Club is a music venue in Lisbon with 13 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Manfredas, Laimonas & Tiago" on Fri, 13 Nov 2026.
+Ministerium Club is a music venue in Lisbon with 13 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Manfredas, Laimonas & Tiago" on Fri, 13 Nov 2026.
 
 Ministerium Club is a music venue in Lisbon listed on soundcheck. 13 upcoming gigs, with line-ups including 40D (Dj), 753, Adi (CO) and Ben Sims and 2 more. See dates, start times and who's playing. Praça Comércio 72, 1100-148, Lisboa, Portugal.
 
@@ -23,4 +23,4 @@ Ministerium Club is a music venue in Lisbon listed on soundcheck. 13 upcoming gi
 
 Praça Comércio 72, 1100-148, Lisboa, Portugal, Lisbon
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/ministerium-club/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/ministerium-club/)*

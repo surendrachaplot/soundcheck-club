@@ -1,6 +1,6 @@
 # Qnete
 
-Qnete is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Printhouse, Munich on Sat, 14 Nov 2026.
+Qnete is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Printhouse, Munich on Sat, 14 Nov 2026.
 
 Qnete is a house and techno artist based in Germany, with 11 gigs on soundcheck across Berlin, Cologne, Dublin and Leipzig and 2 more. Often billed alongside Bufiman, Sevensol and .VRIL. Next up: Printhouse, Munich on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Qnete is a house and techno artist based in Germany, with 11 gigs on soundcheck 
 
 Bufiman, Sevensol, .VRIL
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/qnete/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/qnete/)*

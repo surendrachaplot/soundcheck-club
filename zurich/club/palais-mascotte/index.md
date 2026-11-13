@@ -1,6 +1,6 @@
 # Palais Mascotte
 
-Palais Mascotte is a music venue in Zurich with 9 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "PALAIS MEETS PATCHWORK: JOSEY REBELLE | SHY ONE | SASSY J" on Fri, 13 Nov 2026.
+Palais Mascotte is a music venue in Zurich with 9 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "PALAIS MEETS PATCHWORK: JOSEY REBELLE | SHY ONE | SASSY J" on Fri, 13 Nov 2026.
 
 Palais Mascotte is a music venue in Zurich listed on soundcheck. 9 upcoming gigs, with line-ups including Animal Trainer, Antal, Barbara Boeing and Danilo Plessow and 2 more. See dates, start times and who's playing. Theaterstrasse 10, 8001 Zürich.
 
@@ -22,4 +22,4 @@ Palais Mascotte is a music venue in Zurich listed on soundcheck. 9 upcoming gigs
 
 Theaterstrasse 10, 8001 Zürich, Zurich
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/palais-mascotte/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/palais-mascotte/)*

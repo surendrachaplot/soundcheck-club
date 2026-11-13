@@ -1,6 +1,6 @@
 # ISAAC ARGA
 
-ISAAC ARGA is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Muller Bar, Madrid on Sat, 14 Nov 2026.
+ISAAC ARGA is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Muller Bar, Madrid on Sat, 14 Nov 2026.
 
 ISAAC ARGA is a house and deep house artist based in Spain, with 44 gigs on soundcheck across Madrid. Often billed alongside WO KEM, KOKE and TEEMON&POOMBA. Next up: Muller Bar, Madrid on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ ISAAC ARGA is a house and deep house artist based in Spain, with 44 gigs on soun
 
 WO KEM, KOKE, TEEMON&POOMBA
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/isaacarga/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/isaacarga/)*

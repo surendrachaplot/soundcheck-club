@@ -1,6 +1,6 @@
 # ALISTARM
 
-ALISTARM is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at control, Bucharest on Fri, 20 Nov 2026.
+ALISTARM is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at control, Bucharest on Fri, 20 Nov 2026.
 
 ALISTARM is a techno and acid artist based in Romania, with 24 gigs on soundcheck across Bucharest. Often billed alongside CARMEN (RO), Gruell and Michael Ius. Next up: control, Bucharest on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ ALISTARM is a techno and acid artist based in Romania, with 24 gigs on soundchec
 
 CARMEN (RO), Gruell, Michael Ius
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alistarm/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alistarm/)*

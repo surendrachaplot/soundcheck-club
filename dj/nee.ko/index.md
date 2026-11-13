@@ -1,6 +1,6 @@
 # nee.ko
 
-nee.ko is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA, Los Angeles on Fri, 20 Nov 2026.
+nee.ko is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA, Los Angeles on Fri, 20 Nov 2026.
 
 nee.ko is a house and minimal artist based in Brazil, with 49 gigs on soundcheck across Chicago, Detroit, Los Angeles and Washington DC. Often billed alongside Enzo Muro, Borbi and Gee.nu. Next up: TBA, Los Angeles on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ nee.ko is a house and minimal artist based in Brazil, with 49 gigs on soundcheck
 
 Enzo Muro, Borbi, Gee.nu
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nee.ko/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nee.ko/)*

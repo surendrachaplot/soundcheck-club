@@ -1,6 +1,6 @@
 # La Belle Angele
 
-La Belle Angele is a music venue in Edinburgh with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Jackhammer 25 Years - Neil Landstrumm, Gary Beck, Co-Accused, Keyte, WolfJazz" on Tue, 29 Dec 2026.
+La Belle Angele is a music venue in Edinburgh with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Jackhammer 25 Years - Neil Landstrumm, Gary Beck, Co-Accused, Keyte, WolfJazz" on Tue, 29 Dec 2026.
 
 La Belle Angele is a music venue in Edinburgh listed on soundcheck. 2 upcoming gigs, with line-ups including Chris Astrojazz, Co-Accused, Gary Beck and Keyte and 2 more. See dates, start times and who's playing. 11 Hasties Close, Edinburgh, EH1 1HJ, Scotland, United Kingdom.
 
@@ -15,4 +15,4 @@ La Belle Angele is a music venue in Edinburgh listed on soundcheck. 2 upcoming g
 
 11 Hasties Close, Edinburgh, EH1 1HJ, Scotland, United Kingdom, Edinburgh
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/la-belle-angele/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/la-belle-angele/)*

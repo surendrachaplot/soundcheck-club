@@ -1,6 +1,6 @@
 # Ion Ludwig
 
-Ion Ludwig is a Minimal and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Inout Music Club, Sardinia on Sat, 14 Nov 2026.
+Ion Ludwig is a Minimal and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Inout Music Club, Sardinia on Sat, 14 Nov 2026.
 
 Ion Ludwig is a minimal and house artist based in Germany, with 98 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 28 more. Often billed alongside Rhadoo, Aline (CH) and BILA. Next up: Inout Music Club, Sardinia on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Ion Ludwig is a minimal and house artist based in Germany, with 98 gigs on sound
 
 Rhadoo, Aline (CH), BILA
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ionludwig/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ionludwig/)*

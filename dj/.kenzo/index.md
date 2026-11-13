@@ -1,6 +1,6 @@
 # .Kenzo
 
-.Kenzo is a Electro and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Back Room, Bali on Fri, 13 Nov 2026.
+.Kenzo is a Electro and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Back Room, Bali on Fri, 13 Nov 2026.
 
 .Kenzo is an electro and breakbeat artist, with 8 gigs on soundcheck across Bali. Often billed alongside Lijero, Montella G and DADO. Next up: The Back Room, Bali on Fri 13 Nov.
 
@@ -24,4 +24,4 @@
 
 Lijero, Montella G, DADO
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/.kenzo/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/.kenzo/)*

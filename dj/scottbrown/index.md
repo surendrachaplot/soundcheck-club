@@ -1,6 +1,6 @@
 # Scott Brown
 
-Scott Brown is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Paradiso, Amsterdam on Sat, 30 Jan 2027.
+Scott Brown is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Paradiso, Amsterdam on Sat, 30 Jan 2027.
 
 Scott Brown is a hardcore and gabber artist based in United Kingdom, with 38 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 13 more. Often billed alongside Dougal, Charlie B and Mark Breeze. Next up: Paradiso, Amsterdam on Sat 30 Jan.
 
@@ -25,4 +25,4 @@ Scott Brown is a hardcore and gabber artist based in United Kingdom, with 38 gig
 
 Dougal, Charlie B, Mark Breeze
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scottbrown/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scottbrown/)*

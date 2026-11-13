@@ -1,6 +1,6 @@
 # Diskohengst
 
-Diskohengst is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Monarch, Berlin on Sat, 14 Nov 2026.
+Diskohengst is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Monarch, Berlin on Sat, 14 Nov 2026.
 
 Diskohengst is a disco and house artist based in Germany, with 51 gigs on soundcheck across Berlin, Cologne, Hamburg and Munich and 2 more. Often billed alongside Tom Kutsche, Valentino 45 and Femdelic. Next up: Monarch, Berlin on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Diskohengst is a disco and house artist based in Germany, with 51 gigs on soundc
 
 Tom Kutsche, Valentino 45, Femdelic
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diskohengst/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diskohengst/)*

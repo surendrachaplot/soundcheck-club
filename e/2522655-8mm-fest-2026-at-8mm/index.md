@@ -1,6 +1,6 @@
 # 8MM Fest 2026 at 8MM
 
-8MM Fest 2026 on Fri 13 Nov, Berlin. 4 artists: Aleksandra Słyż, Circular Ruins, LINTD and More. Experimental and Post-Punk. See the line-up on soundcheck.
+8MM Fest 2026 on Fri 13 Nov, Berlin. 5 artists: Abigail Toll, Aleksandra Słyż, Circular Ruins and LINTD and 1 more. Experimental and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@
 
 ## Line-up
 
+- Abigail Toll
 - Aleksandra Słyż
 - Circular Ruins
 - LINTD

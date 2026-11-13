@@ -1,6 +1,6 @@
 # Chenzo
 
-Chenzo is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Colour Factory, London on Fri, 11 Dec 2026.
+Chenzo is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Colour Factory, London on Fri, 11 Dec 2026.
 
 Chenzo is a drum & bass and techno artist based in United Kingdom, with 15 gigs on soundcheck across Amsterdam, Antwerp, Cologne and Dundee and 3 more. Often billed alongside Mylo Harvey, Acuña Collective and MUSCLECARS. Next up: Colour Factory, London on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Chenzo is a drum & bass and techno artist based in United Kingdom, with 15 gigs 
 
 Mylo Harvey, Acuña Collective, MUSCLECARS
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chenzo/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chenzo/)*

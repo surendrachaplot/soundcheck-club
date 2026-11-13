@@ -1,6 +1,6 @@
 # Parasol Bar
 
-Parasol Bar is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "Sonaré Nights Chapter IV: The Finale" on Sun, 6 Dec 2026.
+Parasol Bar is a music venue in London with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "Sonaré Nights Chapter IV: The Finale" on Sun, 6 Dec 2026.
 
 Parasol Bar is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Golden Lady. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Parasol Bar is a music venue in London listed on soundcheck. 1 upcoming gig, wit
 | --- | --- | --- |
 | Sun, 6 Dec 2026 | Sonaré Nights Chapter IV: The Finale | Golden Lady |
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/parasol-bar/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/parasol-bar/)*

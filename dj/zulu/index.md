@@ -1,6 +1,6 @@
 # Zulu
 
-Zulu is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Fundbureau, Hamburg on Sat, 21 Nov 2026.
+Zulu is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Fundbureau, Hamburg on Sat, 21 Nov 2026.
 
 Zulu is a techno and trance artist based in Colombia, with 53 gigs on soundcheck across Beijing, Berlin, Hamburg and Lyon and 5 more. Often billed alongside BNZN, Elon Bass and co:co. Next up: Fundbureau, Hamburg on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Zulu is a techno and trance artist based in Colombia, with 53 gigs on soundcheck
 
 BNZN, Elon Bass, co:co
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zulu/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zulu/)*

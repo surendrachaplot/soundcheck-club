@@ -1,6 +1,6 @@
 # Yaki
 
-Yaki is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Central Florida Fairgrounds, Florida on Fri, 23 Apr 2027.
+Yaki is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Central Florida Fairgrounds, Florida on Fri, 23 Apr 2027.
 
 Yaki is a techno and club artist, with 33 gigs on soundcheck across Athens, Chicago, Florida and New York City and 1 more. Often billed alongside Sevyn 0000, Via App and DJ Thank You. Next up: Central Florida Fairgrounds, Florida on Fri 23 Apr.
 
@@ -25,4 +25,4 @@ Yaki is a techno and club artist, with 33 gigs on soundcheck across Athens, Chic
 
 Sevyn 0000, Via App, DJ Thank You
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yaki/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yaki/)*

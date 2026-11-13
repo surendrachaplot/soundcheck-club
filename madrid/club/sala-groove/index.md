@@ -1,6 +1,6 @@
 # Sala Groove
 
-Sala Groove is a music venue in Madrid with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "SALVAJE 3 ANIVERSARIO EN GROOVE" on Sat, 21 Nov 2026.
+Sala Groove is a music venue in Madrid with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "SALVAJE 3 ANIVERSARIO EN GROOVE" on Sat, 21 Nov 2026.
 
 Sala Groove is a music venue in Madrid listed on soundcheck. 4 upcoming gigs, with line-ups including Abel Ramos, Cristian Varela, Dj Pepo and Joey Daniel and 2 more. See dates, start times and who's playing. A4 - Ctra. Andalucia Km 20,900 Salida 20 Pinto, Madrid.
 
@@ -17,4 +17,4 @@ Sala Groove is a music venue in Madrid listed on soundcheck. 4 upcoming gigs, wi
 
 A4 - Ctra. Andalucia Km 20,900 Salida 20 Pinto, Madrid, Madrid
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-groove/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-groove/)*

@@ -1,6 +1,6 @@
 # Cut Snake
 
-Cut Snake is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Warehouse, Orange County on Wed, 25 Nov 2026.
+Cut Snake is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Warehouse, Orange County on Wed, 25 Nov 2026.
 
 Cut Snake is a house and disco artist based in United States of America, with 14 gigs on soundcheck across Denver, Los Angeles, Orange County and San Diego. Often billed alongside Ardalan, Luke C. and Blaq PAGES. Next up: TBA - Warehouse, Orange County on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ Cut Snake is a house and disco artist based in United States of America, with 14
 
 Ardalan, Luke C., Blaq PAGES
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cutsnake/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cutsnake/)*

@@ -1,6 +1,6 @@
 # Felice
 
-Felice is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Gotec, Karlsruhe on Fri, 13 Nov 2026.
+Felice is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Gotec, Karlsruhe on Fri, 13 Nov 2026.
 
 Felice is a house and techno artist, with 16 gigs on soundcheck across Berlin, Detroit, Hannover and Karlsruhe and 4 more. Often billed alongside ACE, DJ Interstella and Francois Dillinger. Next up: Gotec, Karlsruhe on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Felice is a house and techno artist, with 16 gigs on soundcheck across Berlin, D
 
 ACE, DJ Interstella, Francois Dillinger
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/felice/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/felice/)*

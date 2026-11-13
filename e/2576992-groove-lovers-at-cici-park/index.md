@@ -1,6 +1,6 @@
-# Groove Lovers at Cici Park
+# Groove Lovers｜律动达人 at Cici Park
 
-Groove Lovers at Cici Park on Fri 20 Nov, Chongqing. House and Electro. See the line-up on soundcheck.
+Groove Lovers｜律动达人 at Cici Park on Fri 20 Nov, Chongqing. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

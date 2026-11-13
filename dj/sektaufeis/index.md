@@ -1,6 +1,6 @@
 # Sekt auf Eis
 
-Sekt auf Eis is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at ROSA, Berlin on Sat, 14 Nov 2026.
+Sekt auf Eis is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at ROSA, Berlin on Sat, 14 Nov 2026.
 
 Sekt auf Eis is a techno and trance artist based in Germany, with 3 gigs on soundcheck across Berlin and Munich. Often billed alongside Amo (IT), An Chen and 9LALEY. Next up: ROSA, Berlin on Sat 14 Nov.
 
@@ -19,4 +19,4 @@ Sekt auf Eis is a techno and trance artist based in Germany, with 3 gigs on soun
 
 Amo (IT), An Chen, 9LALEY
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sektaufeis/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sektaufeis/)*

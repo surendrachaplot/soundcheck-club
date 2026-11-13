@@ -1,6 +1,6 @@
 # Abdon
 
-Abdon is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at LAB theCLUB, Madrid on Fri, 25 Dec 2026.
+Abdon is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at LAB theCLUB, Madrid on Fri, 25 Dec 2026.
 
 Abdon is a tech house and house artist based in Spain, with 67 gigs on soundcheck across Barcelona, Ibiza, Madrid and Mallorca and 2 more. Often billed alongside Pau Guilera, De La Swing and Vidaloca. Next up: LAB theCLUB, Madrid on Fri 25 Dec.
 
@@ -25,4 +25,4 @@ Abdon is a tech house and house artist based in Spain, with 67 gigs on soundchec
 
 Pau Guilera, De La Swing, Vidaloca
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/abdon/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/abdon/)*

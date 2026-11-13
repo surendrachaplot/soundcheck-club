@@ -1,6 +1,6 @@
 # Step Forward pres. Eargasmgod at Grelle Forelle
 
-Step Forward pres. Eargasmgod at Grelle Forelle on Fri 4 Dec, Vienna. 2 artists: EARGASM GOD and Who is ela¿. See the line-up on soundcheck.
+Step Forward pres. Eargasmgod at Grelle Forelle on Fri 4 Dec, Vienna. 2 artists: Anna Ullrich and EARGASM GOD. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ Step Forward pres. Eargasmgod at Grelle Forelle on Fri 4 Dec, Vienna. 2 artists:
 
 ## Line-up
 
+- Anna Ullrich
 - EARGASM GOD
-- Who is ela¿
 
 *Source: [soundcheck](https://soundcheck.club/e/2578230-step-forward-pres-eargasmgod-at-grelle-forelle/)*

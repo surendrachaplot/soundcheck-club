@@ -1,17 +1,17 @@
 # Headrow House
 
-Headrow House is a music venue in Leeds with 11 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Dublon (Live)" on Thu, 12 Nov 2026.
+Headrow House is a music venue in Leeds with 12 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "60 juno" on Fri, 13 Nov 2026.
 
-Headrow House is a music venue in Leeds listed on soundcheck. 11 upcoming gigs, with line-ups including Ben Daddy, Capo Lee, Dublon and Kylie Wears Berghaus and 2 more. See dates, start times and who's playing. Bramleys Yard, 19 The Headrow, Leeds, LS1 6PU, United Kingdom.
+Headrow House is a music venue in Leeds listed on soundcheck. 12 upcoming gigs, with line-ups including Capo Lee, Kylie Wears Berghaus, Maximilian FD and Oliver Kristian and 2 more. See dates, start times and who's playing. Bramleys Yard, 19 The Headrow, Leeds, LS1 6PU, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 12 Nov 2026 | Dublon (Live) | Ben Daddy, Dublon |
 | Fri, 13 Nov 2026 | 60 juno |  |
 | Sat, 21 Nov 2026 | Channelled Frequencies with Maximilian FD, Olly & Torin | Maximilian FD, Oliver Kristian, Torin Grady |
 | Tue, 24 Nov 2026 | Chuck Strangers |  |
+| Tue, 24 Nov 2026 | 3PM Selects x Louder Noize - Sounds of Electro |  |
 | Fri, 27 Nov 2026 | Kylie Wears Berghaus | Kylie Wears Berghaus |
 | Wed, 2 Dec 2026 | Milo Korbenski |  |
 | Fri, 4 Dec 2026 | Tarzsa | Tarzsa |
@@ -23,4 +23,4 @@ Headrow House is a music venue in Leeds listed on soundcheck. 11 upcoming gigs, 
 
 Bramleys Yard, 19 The Headrow, Leeds, LS1 6PU, United Kingdom, Leeds
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/headrow-house/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/headrow-house/)*

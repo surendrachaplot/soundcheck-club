@@ -1,6 +1,6 @@
 # BBetriebswirt
 
-BBetriebswirt is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Indiego Glocksee, Hannover on Fri, 20 Nov 2026.
+BBetriebswirt is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Indiego Glocksee, Hannover on Fri, 20 Nov 2026.
 
 BBetriebswirt is a trance and techno artist based in Germany, with 71 gigs on soundcheck across Berlin, Cologne, Hamburg and Hannover and 7 more. Often billed alongside Hello Sasy, Freya K. and P.Vanillaboy. Next up: Indiego Glocksee, Hannover on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ BBetriebswirt is a trance and techno artist based in Germany, with 71 gigs on so
 
 Hello Sasy, Freya K., P.Vanillaboy
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bbetriebswirt/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bbetriebswirt/)*

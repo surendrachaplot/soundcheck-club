@@ -1,6 +1,6 @@
 # Jïmono
 
-Jïmono is a Afro Tech and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Radial, London on Fri, 15 Jan 2027.
+Jïmono is a Afro Tech and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Radial, London on Fri, 15 Jan 2027.
 
 Jïmono is an afro tech and deep house artist based in United Kingdom, with 9 gigs on soundcheck across London and Manchester. Often billed alongside Bushman (UK), MYDIR and Ankhoï. Next up: Radial, London on Fri 15 Jan.
 
@@ -25,4 +25,4 @@ Jïmono is an afro tech and deep house artist based in United Kingdom, with 9 gi
 
 Bushman (UK), MYDIR, Ankhoï
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jïmono/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jïmono/)*

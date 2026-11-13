@@ -1,6 +1,6 @@
 # Sansibar
 
-Sansibar is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Circolo Amelia, Milan on Sat, 14 Nov 2026.
+Sansibar is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Circolo Amelia, Milan on Sat, 14 Nov 2026.
 
 Sansibar is a techno and house artist, with 203 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 55 more. Often billed alongside Denzel, dj sweet6teen and Katerina. Next up: Circolo Amelia, Milan on Sat 14 Nov.
 
@@ -29,4 +29,4 @@ Sansibar is a techno and house artist, with 203 gigs on soundcheck across Amster
 
 Denzel, dj sweet6teen, Katerina
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sansibar/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sansibar/)*

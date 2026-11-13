@@ -1,6 +1,6 @@
 # ELVI (SE)
 
-ELVI (SE) is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Circolo degli Illuminati, Rome on Fri, 13 Nov 2026.
+ELVI (SE) is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Circolo degli Illuminati, Rome on Fri, 13 Nov 2026.
 
 ELVI (SE) is a house and downtempo artist based in Sweden, with 38 gigs on soundcheck across Amsterdam, Barcelona, Copenhagen and Ibiza and 4 more. Often billed alongside Prunk, Kim April and Enzo Leep. Next up: Circolo degli Illuminati, Rome on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ ELVI (SE) is a house and downtempo artist based in Sweden, with 38 gigs on sound
 
 Prunk, Kim April, Enzo Leep
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elvi-se/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elvi-se/)*

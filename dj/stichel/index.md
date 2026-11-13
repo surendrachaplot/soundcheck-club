@@ -1,6 +1,6 @@
 # Stichel
 
-Stichel is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at E-Werk Kulturzentrum, Nürnberg on Sat, 23 Jan 2027.
+Stichel is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at E-Werk Kulturzentrum, Nürnberg on Sat, 23 Jan 2027.
 
 Stichel is a techno and trance artist based in Germany, with 18 gigs on soundcheck across Nürnberg. Often billed alongside atjan, TSAVAGE and In Verruf. Next up: E-Werk Kulturzentrum, Nürnberg on Sat 23 Jan.
 
@@ -25,4 +25,4 @@ Stichel is a techno and trance artist based in Germany, with 18 gigs on soundche
 
 atjan, TSAVAGE, In Verruf
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stichel/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stichel/)*

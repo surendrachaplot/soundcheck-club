@@ -18,7 +18,7 @@ KALTBAU: DJ Hyperdrive, HUJUS, DJ Cringey, HUMAN ERROR, relajadita at DSTRKT Clu
 - DJ Cringey
 - DJ Hyperdrive
 - HUJUS
-- HUMAN ERROR
+- HUMAN  ERROR
 - Johannes Wohlgeschaffen
 - Katta Lana
 - Katy Rough

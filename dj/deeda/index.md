@@ -1,6 +1,6 @@
 # Deeda
 
-Deeda is a Techno and Acid artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Parking Garage Kresna Uprising, Skopje on Sat, 14 Nov 2026.
+Deeda is a Techno and Acid artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Parking Garage Kresna Uprising, Skopje on Sat, 14 Nov 2026.
 
 Deeda is a techno and acid artist based in Serbia, with 37 gigs on soundcheck across Belgrade, Dresden, Istanbul and Ljubljana and 4 more. Often billed alongside Asarri, Essio and Stameni. Next up: TBA - Parking Garage Kresna Uprising, Skopje on Sat 14 Nov.
 
@@ -28,4 +28,4 @@ Deeda is a techno and acid artist based in Serbia, with 37 gigs on soundcheck ac
 
 Asarri, Essio, Stameni
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deeda/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deeda/)*

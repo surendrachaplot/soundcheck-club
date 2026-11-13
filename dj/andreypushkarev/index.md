@@ -1,6 +1,6 @@
 # Andrey Pushkarev
 
-Andrey Pushkarev is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Tempo Club, Santiago-de-quer-taro on Sat, 14 Nov 2026.
+Andrey Pushkarev is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Tempo Club, Santiago-de-quer-taro on Sat, 14 Nov 2026.
 
 Andrey Pushkarev is a house and minimal artist, with 113 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 48 more. Often billed alongside Lola Palmer, Mihai Popoviciu and Priku. Next up: Tempo Club, Santiago De Quer Taro on Sat 14 Nov.
 
@@ -28,4 +28,4 @@ Andrey Pushkarev is a house and minimal artist, with 113 gigs on soundcheck acro
 
 Lola Palmer, Mihai Popoviciu, Priku
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andreypushkarev/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andreypushkarev/)*

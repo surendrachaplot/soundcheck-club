@@ -1,6 +1,6 @@
 # Luciid
 
-Luciid is a Techno and Industrial artist with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at OST, Berlin on Sat, 21 Nov 2026.
+Luciid is a Techno and Industrial artist with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at OST, Berlin on Sat, 21 Nov 2026.
 
 Luciid is a techno and industrial artist based in Ireland, with 126 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 45 more. Often billed alongside Vendex, Dexphase and Raxeller. Next up: OST, Berlin on Sat 21 Nov.
 
@@ -29,4 +29,4 @@ Luciid is a techno and industrial artist based in Ireland, with 126 gigs on soun
 
 Vendex, Dexphase, Raxeller
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luciid/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luciid/)*

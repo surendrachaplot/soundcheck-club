@@ -1,6 +1,6 @@
 # CAZOU
 
-CAZOU is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Seawolf Records Barcelona, Barcelona on Fri, 13 Nov 2026.
+CAZOU is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Seawolf Records Barcelona, Barcelona on Fri, 13 Nov 2026.
 
 CAZOU is a minimal and house artist, with 23 gigs on soundcheck across Barcelona. Often billed alongside Galu Bla, Vennegur and Mat Spiaggi. Next up: Seawolf Records Barcelona, Barcelona on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ CAZOU is a minimal and house artist, with 23 gigs on soundcheck across Barcelona
 
 Galu Bla, Vennegur, Mat Spiaggi
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cazou/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cazou/)*

@@ -1,6 +1,6 @@
 # France Jobin
 
-France Jobin is a Experimental and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Thila Ground, Seoul on Fri, 11 Dec 2026.
+France Jobin is a Experimental and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Thila Ground, Seoul on Fri, 11 Dec 2026.
 
 France Jobin is an experimental and electro artist based in Canada, with 10 gigs on soundcheck across Glasgow, Montreal and Seoul. Often billed alongside Honeydrip, Alan Harman and Aurora Halal. Next up: Thila Ground, Seoul on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ France Jobin is an experimental and electro artist based in Canada, with 10 gigs
 
 Honeydrip, Alan Harman, Aurora Halal
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/francejobin/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/francejobin/)*

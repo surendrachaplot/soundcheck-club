@@ -1,6 +1,6 @@
 # Josh Butler
 
-Josh Butler is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Sweat Shop Brew Kitchen, Auckland on Sat, 19 Dec 2026.
+Josh Butler is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Sweat Shop Brew Kitchen, Auckland on Sat, 19 Dec 2026.
 
 Josh Butler is a house and tech house artist, with 80 gigs on soundcheck across Amsterdam, Auckland, Austin and Bergen and 30 more. Often billed alongside Huxley, Alexis Raphael and Archie Hamilton. Next up: Sweat Shop Brew Kitchen, Auckland on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Josh Butler is a house and tech house artist, with 80 gigs on soundcheck across 
 
 Huxley, Alexis Raphael, Archie Hamilton
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshbutler/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshbutler/)*

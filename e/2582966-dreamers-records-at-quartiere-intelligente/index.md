@@ -1,10 +1,10 @@
 # Dreamers RECORDS at Quartiere Intelligente
 
-Dreamers RECORDS at Quartiere Intelligente on Sat 21 Nov, Naples. Techno and Tech House. See the line-up on soundcheck.
+Dreamers RECORDS at Quartiere Intelligente on Fri 20 Nov, Naples. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 21 Nov 2026 |
+| Date | Fri, 20 Nov 2026 |
 | Venue | Quartiere Intelligente |
 | City | Naples |
 

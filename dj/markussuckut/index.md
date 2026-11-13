@@ -1,8 +1,8 @@
 # Markus Suckut
 
-Markus Suckut is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at public records, New York City on Fri, 4 Dec 2026.
+Markus Suckut is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at public records, New York City on Fri, 4 Dec 2026.
 
-Markus Suckut is a techno and house artist based in Germany, with 22 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 7 more. Often billed alongside Temudo, Altinbas and GiGi FM. Next up: public records, New York City on Fri 4 Dec.
+Markus Suckut is a techno and house artist based in Germany, with 23 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 7 more. Often billed alongside Temudo, Altinbas and Border One. Next up: public records, New York City on Fri 4 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Markus Suckut is a techno and house artist based in Germany, with 22 gigs on sou
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | public records | New York City |
 | Sat, 12 Dec 2026 | NWHR | Montreal |
+| Sat, 26 Dec 2026 | Fuse | Brussels |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Markus Suckut is a techno and house artist based in Germany, with 22 gigs on sou
 
 ## Shares bills with
 
-Temudo, Altinbas, GiGi FM
+Temudo, Altinbas, Border One
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markussuckut/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markussuckut/)*

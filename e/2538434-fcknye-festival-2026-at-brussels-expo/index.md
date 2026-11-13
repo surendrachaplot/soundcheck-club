@@ -63,7 +63,7 @@ FCKNYE Festival 2026 at Brussels Expo on Wed 30 Dec, Brussels. 64 artists: 2HOT2
 - Todiefor
 - Trym
 - Ueberrest
-- Unicorn on Ketamine
+- Unicorn on K
 - uphoria
 - Urumi
 - Vendex

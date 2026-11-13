@@ -1,6 +1,6 @@
 # Nosaj Thing
 
-Nosaj Thing is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at La Gaîté Lyrique, Paris on Fri, 13 Nov 2026.
+Nosaj Thing is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at La Gaîté Lyrique, Paris on Fri, 13 Nov 2026.
 
 Nosaj Thing is a techno and experimental artist based in United States of America, with 80 gigs on soundcheck across Amsterdam, Athens, Austin and Bangkok and 34 more. Often billed alongside Jacques Greene, Daito Manabe and Chloé Caillet. Next up: La Gaîté Lyrique, Paris on Fri 13 Nov.
 
@@ -9,7 +9,7 @@ Nosaj Thing is a techno and experimental artist based in United States of Americ
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | La Gaîté Lyrique | Paris |
-| Mon, 16 Nov 2026 | Parallel | Amsterdam |
+| Mon, 16 Nov 2026 | Paradiso | Amsterdam |
 | Thu, 3 Dec 2026 | The Fields at Siam Country Club | Thailand |
 
 ## Recently played
@@ -27,4 +27,4 @@ Nosaj Thing is a techno and experimental artist based in United States of Americ
 
 Jacques Greene, Daito Manabe, Chloé Caillet
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nosajthing/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nosajthing/)*

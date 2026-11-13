@@ -1,6 +1,6 @@
 # Just1
 
-Just1 is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Macadam, Nantes on Sat, 5 Dec 2026.
+Just1 is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Macadam, Nantes on Sat, 5 Dec 2026.
 
 Just1 is a house and electro artist based in France, with 38 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Hamburg and 7 more. Often billed alongside Alexia, Tau Car and Micha. Next up: Macadam, Nantes on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Just1 is a house and electro artist based in France, with 38 gigs on soundcheck 
 
 Alexia (2), Tau Car, Micha (5)
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/just1/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/just1/)*

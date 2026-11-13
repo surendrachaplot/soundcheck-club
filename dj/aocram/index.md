@@ -1,6 +1,6 @@
 # Aöcram
 
-Aöcram is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 28 Nov 2026.
+Aöcram is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 28 Nov 2026.
 
 Aöcram is a techno and house artist, with 84 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Beijing and 32 more. Often billed alongside Amulador, Decoder and Hiroko Yamamura. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Aöcram is a techno and house artist, with 84 gigs on soundcheck across Amsterda
 
 Amulador, Decoder, Hiroko Yamamura
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aocram/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aocram/)*

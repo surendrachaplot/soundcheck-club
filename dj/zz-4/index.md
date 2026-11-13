@@ -1,18 +1,18 @@
 # ZZ (4)
 
-ZZ (4) is a Club and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Underground SF, San Francisco/Oakland on Thu, 12 Nov 2026.
+ZZ (4) is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Fri, 20 Nov 2026.
 
-ZZ is a club and bass artist based in United States of America, with 31 gigs on soundcheck across New York City, San Francisco/Oakland and Tokyo. Often billed alongside jmo corleone, ek:) and Just Another Bitch. Next up: Underground SF, San Francisco/Oakland on Thu 12 Nov.
+ZZ is a club and bass artist based in United States of America, with 31 gigs on soundcheck across New York City, San Francisco/Oakland and Tokyo. Often billed alongside jmo corleone, ek:) and Just Another Bitch. Next up: F8 1192 Folsom, San Francisco/Oakland on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 12 Nov 2026 | Underground SF | San Francisco/Oakland |
 | Fri, 20 Nov 2026 | F8 1192 Folsom | San Francisco/Oakland |
 
 ## Recently played
 
+- Underground SF, San Francisco/Oakland · Thu, 12 Nov 2026
 - San Francisco Belle Hornblower, San Francisco/Oakland · Sun, 25 Oct 2026
 - The Foundry, San Francisco/Oakland · Wed, 16 Sept 2026
 - F8 1192 Folsom, San Francisco/Oakland · Fri, 14 Aug 2026
@@ -20,10 +20,9 @@ ZZ is a club and bass artist based in United States of America, with 31 gigs on 
 - Arcana, San Francisco/Oakland · Fri, 17 Jul 2026
 - Public Works, San Francisco/Oakland · Thu, 2 Jul 2026
 - TBA - Shasta-Trinity National Forest, San Francisco/Oakland · Thu, 4 Jun 2026
-- TBA - Multiple SF Venues, San Francisco/Oakland · Thu, 14 May 2026
 
 ## Shares bills with
 
 jmo corleone, ek:), Just Another Bitch
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zz-4/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zz-4/)*

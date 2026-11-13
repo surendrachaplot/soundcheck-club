@@ -1,6 +1,6 @@
 # Shake Daddy
 
-Shake Daddy is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Hans Bunte Areal, Freiburg on Sat, 14 Nov 2026.
+Shake Daddy is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Hans Bunte Areal, Freiburg on Sat, 14 Nov 2026.
 
 Shake Daddy is a techno and trance artist based in Australia, with 59 gigs on soundcheck across Amsterdam, Berlin, Brisbane and Edinburgh and 9 more. Often billed alongside GEN97, SATYS FYRE and ANDATA. Next up: Hans Bunte Areal, Freiburg on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Shake Daddy is a techno and trance artist based in Australia, with 59 gigs on so
 
 GEN97, SATYS FYRE, ANDATA
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shakedaddy/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shakedaddy/)*

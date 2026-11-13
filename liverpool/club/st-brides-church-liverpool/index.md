@@ -1,6 +1,6 @@
 # St Brides Church Liverpool
 
-St Brides Church Liverpool is a music venue in Liverpool with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "yeri duzman 'as the crows fly' album launch" on Fri, 13 Nov 2026.
+St Brides Church Liverpool is a music venue in Liverpool with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "yeri duzman 'as the crows fly' album launch" on Fri, 13 Nov 2026.
 
 St Brides Church Liverpool is a music venue in Liverpool listed on soundcheck. 2 upcoming gigs, with line-ups including yeri. See dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ St Brides Church Liverpool is a music venue in Liverpool listed on soundcheck. 2
 | Fri, 13 Nov 2026 | yeri duzman 'as the crows fly' album launch | yeri |
 | Sat, 28 Nov 2026 | Naissance |  |
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/st-brides-church-liverpool/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/st-brides-church-liverpool/)*

@@ -1,6 +1,6 @@
 # Sony2k
 
-Sony2k is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at ÆDEN, Berlin on Fri, 27 Nov 2026.
+Sony2k is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at ÆDEN, Berlin on Fri, 27 Nov 2026.
 
 Sony2k is a techno and house artist based in Germany, with 23 gigs on soundcheck across Berlin, Hamburg, Leipzig and Madrid and 1 more. Often billed alongside Ben Derris, Amo (IT) and Deltapeak. Next up: ÆDEN, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Sony2k is a techno and house artist based in Germany, with 23 gigs on soundcheck
 
 Ben Derris, Amo (IT), Deltapeak
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sony2k/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sony2k/)*

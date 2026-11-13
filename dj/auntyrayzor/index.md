@@ -1,6 +1,6 @@
 # Aunty Rayzor
 
-Aunty Rayzor is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at ALICE, Copenhagen on Thu, 19 Nov 2026.
+Aunty Rayzor is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at ALICE, Copenhagen on Thu, 19 Nov 2026.
 
 Aunty Rayzor is an experimental and electronica artist based in Nigeria, with 25 gigs on soundcheck across Amsterdam, Athens, Berlin and Birmingham and 15 more. Often billed alongside DJ Travella, Catu Diosis and Dj Babatr. Next up: ALICE, Copenhagen on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Aunty Rayzor is an experimental and electronica artist based in Nigeria, with 25
 
 DJ Travella, Catu Diosis, Dj Babatr
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/auntyrayzor/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/auntyrayzor/)*

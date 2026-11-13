@@ -1,6 +1,6 @@
 # Feenicks
 
-Feenicks is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Ankali & Planeta Za, Prague on Sat, 28 Nov 2026.
+Feenicks is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Ankali & Planeta Za, Prague on Sat, 28 Nov 2026.
 
 Feenicks is a techno and trance artist based in United States of America, with 81 gigs on soundcheck across New York City, Paris and Prague. Often billed alongside Raketa95, Yan (CZ) and Misha Jaru. Next up: Ankali & Planeta Za, Prague on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Feenicks is a techno and trance artist based in United States of America, with 8
 
 Raketa95, Yan (CZ), Misha Jaru
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/feenicks/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/feenicks/)*

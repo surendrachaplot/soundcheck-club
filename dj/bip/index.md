@@ -1,6 +1,6 @@
 # B I P
 
-B I P is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Garrison, Toronto on Sat, 21 Nov 2026.
+B I P is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Garrison, Toronto on Sat, 21 Nov 2026.
 
 B I P is a techno and house artist based in Canada, with 9 gigs on soundcheck across New York City and Toronto. Often billed alongside GRRLCRRSH, LArA and Sofia Fly. Next up: The Garrison, Toronto on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ B I P is a techno and house artist based in Canada, with 9 gigs on soundcheck ac
 
 GRRLCRRSH, LArA (5), Sofia Fly
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bip/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bip/)*

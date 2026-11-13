@@ -1,6 +1,6 @@
 # DJ SET (Uk)
 
-DJ SET (Uk) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Hive Club, Zurich on Sat, 14 Nov 2026.
+DJ SET (Uk) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Hive Club, Zurich on Sat, 14 Nov 2026.
 
 DJ SET (Uk) is a techno and house artist based in United Kingdom, with 22 gigs on soundcheck across Berlin, Birmingham, Los Angeles and Lyon and 8 more. Often billed alongside Helena Hauff, PARIS (AU) and .cosm. Next up: Hive Club, Zurich on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ DJ SET (Uk) is a techno and house artist based in United Kingdom, with 22 gigs o
 
 Helena Hauff, PARIS (AU), .cosm
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djset-uk/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djset-uk/)*

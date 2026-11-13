@@ -1,6 +1,6 @@
 # Ludmila Di Pasquale
 
-Ludmila Di Pasquale is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Carreglwyd Estate, West-wales on Thu, 10 Jun 2027.
+Ludmila Di Pasquale is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Carreglwyd Estate, West-wales on Thu, 10 Jun 2027.
 
 Ludmila Di Pasquale is a house and techno artist based in Argentina, with 52 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 5 more. Often billed alongside Bermani, Lucas Escarioni and Ana Hagen. Next up: Carreglwyd Estate, West Wales on Thu 10 Jun.
 
@@ -25,4 +25,4 @@ Ludmila Di Pasquale is a house and techno artist based in Argentina, with 52 gig
 
 Bermani, Lucas Escarioni, Ana Hagen
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ludmiladipasquale/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ludmiladipasquale/)*

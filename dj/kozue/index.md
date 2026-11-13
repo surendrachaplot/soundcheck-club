@@ -1,6 +1,6 @@
 # Kozue
 
-Kozue is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Platform9, Vancouver on Fri, 20 Nov 2026.
+Kozue is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Platform9, Vancouver on Fri, 20 Nov 2026.
 
 Kozue is a house and techno artist based in Japan, with 54 gigs on soundcheck across Calgary, Montreal, Tokyo and Vancouver. Often billed alongside Dane, Beiti and Body Double. Next up: Platform9, Vancouver on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Kozue is a house and techno artist based in Japan, with 54 gigs on soundcheck ac
 
 Dane, Beiti, Body Double
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kozue/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kozue/)*

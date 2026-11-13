@@ -1,6 +1,6 @@
 # Salem Unsigned
 
-Salem Unsigned is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Glazart, Paris on Sun, 15 Nov 2026.
+Salem Unsigned is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Glazart, Paris on Sun, 15 Nov 2026.
 
 Salem Unsigned is a techno and house artist based in France, with 39 gigs on soundcheck across Berlin, Lyon, Marseille and Paris and 1 more. Often billed alongside Istigkeit, Bad Boombox and Doruksen. Next up: Glazart, Paris on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Salem Unsigned is a techno and house artist based in France, with 39 gigs on sou
 
 Istigkeit, Bad Boombox, Doruksen
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/salemunsigned/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/salemunsigned/)*

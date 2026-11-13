@@ -1,6 +1,6 @@
 # Midnite Mary
 
-Midnite Mary is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Catch One, Los Angeles on Wed, 25 Nov 2026.
+Midnite Mary is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Catch One, Los Angeles on Wed, 25 Nov 2026.
 
 Midnite Mary is a house and disco artist based in United States of America, with 22 gigs on soundcheck across Los Angeles and New York City. Often billed alongside Tavish, Heidi Lawden and Masha Mar. Next up: Catch One, Los Angeles on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ Midnite Mary is a house and disco artist based in United States of America, with
 
 Tavish, Heidi Lawden, Masha Mar
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/midnitemary/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/midnitemary/)*

@@ -1,6 +1,6 @@
 # A Space for Sound
 
-A Space for Sound is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Private Loft, New York City on Fri, 20 Nov 2026.
+A Space for Sound is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Private Loft, New York City on Fri, 20 Nov 2026.
 
 A Space for Sound is an ambient and experimental artist based in United States of America, with 10 gigs on soundcheck across New York City and Vancouver. Often billed alongside keiyaA, 1morning and A.M.D.. Next up: TBA - Private Loft, New York City on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ A Space for Sound is an ambient and experimental artist based in United States o
 
 keiyaA, 1morning, A.M.D.
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aspaceforsound/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aspaceforsound/)*

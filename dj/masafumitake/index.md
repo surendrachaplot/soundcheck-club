@@ -1,6 +1,6 @@
 # Masafumi Take
 
-Masafumi Take is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Kagurane, Tokyo on Sat, 14 Nov 2026.
+Masafumi Take is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Kagurane, Tokyo on Sat, 14 Nov 2026.
 
 Masafumi Take is a techno and acid artist based in Japan, with 24 gigs on soundcheck across Melbourne, Seoul and Tokyo. Often billed alongside adak7, KATHARSIS and DJ SO. Next up: Kagurane, Tokyo on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Masafumi Take is a techno and acid artist based in Japan, with 24 gigs on soundc
 
 adak7, KATHARSIS, DJ SO
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/masafumitake/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/masafumitake/)*

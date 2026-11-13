@@ -1,13 +1,14 @@
 # Lex (GR)
 
-Lex (GR) is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Barunah Plains, Victoria on Mon, 28 Dec 2026.
+Lex (GR) is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Burger Disco Club, Athens on Sat, 14 Nov 2026.
 
-Lex (GR) is a deep house and house artist based in Greece, with 35 gigs on soundcheck across Athens, Barcelona, Berlin and Bogotá and 9 more. Often billed alongside Chevy, Locke and MATRIX3K. Next up: Barunah Plains, Victoria on Mon 28 Dec.
+Lex (GR) is a house and disco artist based in Greece, with 36 gigs on soundcheck across Athens, Barcelona, Berlin and Bogotá and 9 more. Often billed alongside Chevy, Locke and Kostas Georgoudis. Next up: Burger Disco Club, Athens on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | Burger Disco Club | Athens |
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |
 
 ## Recently played
@@ -23,6 +24,6 @@ Lex (GR) is a deep house and house artist based in Greece, with 35 gigs on sound
 
 ## Shares bills with
 
-Chevy, Locke, MATRIX3K
+Chevy, Locke, Kostas Georgoudis
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lex-gr/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lex-gr/)*

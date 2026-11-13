@@ -1,6 +1,6 @@
 # Opposite
 
-Opposite is a music venue in Barcelona with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Secret Location x Plethoric" on Fri, 13 Nov 2026.
+Opposite is a music venue in Barcelona with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Secret Location x Plethoric" on Fri, 13 Nov 2026.
 
 Opposite is a music venue in Barcelona listed on soundcheck. 3 upcoming gigs, with line-ups including Dellavega, Frucula, Lautaro Deem and Lucas Frank and 2 more. See dates, start times and who's playing. Avd. Francesc Ferrer y Guardia, 13, 08038 (Barcelona).
 
@@ -16,4 +16,4 @@ Opposite is a music venue in Barcelona listed on soundcheck. 3 upcoming gigs, wi
 
 Avd. Francesc Ferrer y Guardia, 13, 08038 (Barcelona), Barcelona
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/opposite/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/opposite/)*

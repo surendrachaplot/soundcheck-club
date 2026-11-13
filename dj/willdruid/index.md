@@ -1,6 +1,6 @@
 # Will Druid
 
-Will Druid is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Outlaws Yacht Club, Leeds on Sat, 28 Nov 2026.
+Will Druid is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Outlaws Yacht Club, Leeds on Sat, 28 Nov 2026.
 
 Will Druid is a house and techno artist based in United Kingdom, with 23 gigs on soundcheck across Leeds and Manchester. Often billed alongside BAY-BUSH-KA, ChaRita and April (UK). Next up: Outlaws Yacht Club, Leeds on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Will Druid is a house and techno artist based in United Kingdom, with 23 gigs on
 
 BAY-BUSH-KA, ChaRita, April (UK)
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/willdruid/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/willdruid/)*

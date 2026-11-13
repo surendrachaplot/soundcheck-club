@@ -1,6 +1,6 @@
 # SpaceWax
 
-SpaceWax is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Club Zimmermanns, Cologne on Thu, 19 Nov 2026.
+SpaceWax is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Club Zimmermanns, Cologne on Thu, 19 Nov 2026.
 
 SpaceWax is a house and acid artist based in Germany, with 8 gigs on soundcheck across Cologne, Düsseldorf and Greece. Often billed alongside NVNDO, 22 and Akaj. Next up: Club Zimmermanns, Cologne on Thu 19 Nov.
 
@@ -24,4 +24,4 @@ SpaceWax is a house and acid artist based in Germany, with 8 gigs on soundcheck 
 
 NVNDO, 22 (1), Akaj
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spacewax/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spacewax/)*

@@ -1,6 +1,6 @@
 # Hodgson_ale
 
-Hodgson_ale is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at VVOSK RECORDS, Warsaw on Sat, 21 Nov 2026.
+Hodgson_ale is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at VVOSK RECORDS, Warsaw on Sat, 21 Nov 2026.
 
 Hodgson_ale is a house and minimal artist based in Italy, with 18 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Bartman, MRV and House Martin. Next up: VVOSK RECORDS, Warsaw on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Hodgson_ale is a house and minimal artist based in Italy, with 18 gigs on soundc
 
 Bartman, MRV (1), House Martin
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hodgson_ale/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hodgson_ale/)*

@@ -1,6 +1,6 @@
 # Kutmah
 
-Kutmah is a Hip-Hop and Ambient artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 3 Dec 2026.
+Kutmah is a Hip-Hop and Ambient artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 3 Dec 2026.
 
 Kutmah is a hip-hop and ambient artist based in United Kingdom, with 14 gigs on soundcheck across Amsterdam and Berlin. Often billed alongside Opium Hum, Neana and The Gaslamp Killer. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 3 Dec.
 
@@ -26,4 +26,4 @@ Kutmah is a hip-hop and ambient artist based in United Kingdom, with 14 gigs on 
 
 Opium Hum, Neana, The Gaslamp Killer
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kutmah/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kutmah/)*

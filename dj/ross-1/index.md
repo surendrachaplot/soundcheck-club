@@ -1,6 +1,6 @@
 # Ross (1)
 
-Ross (1) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at 50 | 50, Medellin on Sat, 21 Nov 2026.
+Ross (1) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at 50 | 50, Medellin on Sat, 21 Nov 2026.
 
 Ross is a house and techno artist, with 8 gigs on soundcheck across Barcelona, Ho Chi Minh City, Lyon and Medellin and 1 more. Often billed alongside Elwei, 1Night Only and Adriana Roma. Next up: 50 | 50, Medellin on Sat 21 Nov.
 
@@ -24,4 +24,4 @@ Ross is a house and techno artist, with 8 gigs on soundcheck across Barcelona, H
 
 Elwei, 1Night Only, Adriana Roma
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ross-1/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ross-1/)*

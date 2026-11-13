@@ -1,6 +1,6 @@
 # Club 44hz
 
-Club 44hz is a music venue in Sao Paulo with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "Club 44hz - Sacra 303 show case" on Sun, 15 Nov 2026.
+Club 44hz is a music venue in Sao Paulo with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "Club 44hz - Sacra 303 show case" on Sun, 15 Nov 2026.
 
 Club 44hz is a music venue in Sao Paulo listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Club 44hz is a music venue in Sao Paulo listed on soundcheck. 1 upcoming gig. Se
 | --- | --- | --- |
 | Sun, 15 Nov 2026 | Club 44hz - Sacra 303 show case |  |
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/club-44hz/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/club-44hz/)*

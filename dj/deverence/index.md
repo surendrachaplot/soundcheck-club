@@ -1,6 +1,6 @@
 # Deverence
 
-Deverence is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Chinese Laundry, Sydney on Fri, 13 Nov 2026.
+Deverence is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Chinese Laundry, Sydney on Fri, 13 Nov 2026.
 
 Deverence is a jungle and drum & bass artist based in Australia, with 20 gigs on soundcheck across Sydney. Often billed alongside Hotel 84, Fashionably Late and King Henry. Next up: Chinese Laundry, Sydney on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Deverence is a jungle and drum & bass artist based in Australia, with 20 gigs on
 
 Hotel 84, Fashionably Late, King Henry
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deverence/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deverence/)*

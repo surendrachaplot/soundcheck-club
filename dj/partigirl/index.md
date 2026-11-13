@@ -1,13 +1,14 @@
 # PARTIGIRL
 
-PARTIGIRL is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Glenworth Valley, Sydney on Mon, 28 Dec 2026.
+PARTIGIRL is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Chinese Laundry, Sydney on Fri, 27 Nov 2026.
 
-PARTIGIRL is a house and techno artist based in Australia, with 34 gigs on soundcheck across Amsterdam and Sydney. Often billed alongside RHINESTONE COWGIRL, Deens and Digi Doll. Next up: Glenworth Valley, Sydney on Mon 28 Dec.
+PARTIGIRL is a house and techno artist based in Australia, with 35 gigs on soundcheck across Amsterdam and Sydney. Often billed alongside RHINESTONE COWGIRL, Deens and Digi Doll. Next up: Chinese Laundry, Sydney on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | Chinese Laundry | Sydney |
 | Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
 | Sun, 3 Jan 2027 | The Ivy | Sydney |
 
@@ -26,4 +27,4 @@ PARTIGIRL is a house and techno artist based in Australia, with 34 gigs on sound
 
 RHINESTONE COWGIRL, Deens, Digi Doll
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/partigirl/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/partigirl/)*

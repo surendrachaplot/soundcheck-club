@@ -1,8 +1,8 @@
 # Douglas Calii
 
-Douglas Calii is a Drum & Bass and IDM artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at 工gong, Chengdu on Fri, 13 Nov 2026.
+Douglas Calii is a Drum & Bass and IDM artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at 工gong, Chengdu on Fri, 13 Nov 2026.
 
-Douglas Calii is a drum & bass and idm artist based in Netherlands, with 10 gigs on soundcheck across Amsterdam, Beijing, Chengdu and Chongqing and 1 more. Often billed alongside Marijn S, NAKANO BLU and Komatsu. Next up: 工gong, Chengdu on Fri 13 Nov.
+Douglas Calii is a drum & bass and idm artist based in Netherlands, with 11 gigs on soundcheck across Amsterdam, Beijing, Chengdu and Chongqing and 1 more. Often billed alongside Marijn S, NAKANO BLU and Komatsu. Next up: 工gong, Chengdu on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Douglas Calii is a drum & bass and idm artist based in Netherlands, with 10 gigs
 
 Marijn S, NAKANO BLU, Komatsu
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/douglascalii/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/douglascalii/)*

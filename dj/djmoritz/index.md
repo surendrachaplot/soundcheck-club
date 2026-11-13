@@ -1,6 +1,6 @@
 # DJ Moritz
 
-DJ Moritz is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Pimpernel, Munich on Sat, 14 Nov 2026.
+DJ Moritz is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Pimpernel, Munich on Sat, 14 Nov 2026.
 
 DJ Moritz is a house and electro artist based in South Korea, with 14 gigs on soundcheck across Munich and Seoul. Often billed alongside DJ Funny, DJ Jinwook and Hans Nieswandt. Next up: Pimpernel, Munich on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ DJ Moritz is a house and electro artist based in South Korea, with 14 gigs on so
 
 DJ Funny, DJ Jinwook, Hans Nieswandt
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmoritz/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmoritz/)*

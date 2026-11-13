@@ -1,6 +1,6 @@
 # Akasha NYE at Akasha Las Dalias Club - Ibiza
 
-Akasha NYE at Akasha Las Dalias Club - Ibiza on Thu 31 Dec, Ibiza. 2 artists: Dj Ino and Oriol Calvo. See the line-up on soundcheck.
+Akasha NYE at Akasha Las Dalias Club - Ibiza on Thu 31 Dec, Ibiza. 3 artists: Dj Ino, IBÁN MENDOZA and Oriol Calvo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Akasha NYE at Akasha Las Dalias Club - Ibiza on Thu 31 Dec, Ibiza. 2 artists: Dj
 ## Line-up
 
 - Dj Ino
+- IBÁN MENDOZA
 - Oriol Calvo
 
 *Source: [soundcheck](https://soundcheck.club/e/2556633-akasha-nye-at-akasha-las-dalias-club-ibiza/)*

@@ -1,6 +1,6 @@
 # Argenis Brito
 
-Argenis Brito is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Fünk, Mexico City on Thu, 19 Nov 2026.
+Argenis Brito is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Fünk, Mexico City on Thu, 19 Nov 2026.
 
 Argenis Brito is a house and minimal artist based in Venezuela, with 48 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Guadalajara and 11 more. Often billed alongside Dandy Jack, Nils Ohrmann and Bastard Love. Next up: Fünk, Mexico City on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Argenis Brito is a house and minimal artist based in Venezuela, with 48 gigs on 
 
 Dandy Jack, Nils Ohrmann, Bastard Love
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/argenisbrito/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/argenisbrito/)*

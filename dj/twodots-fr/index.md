@@ -1,6 +1,6 @@
 # Two Dots (FR)
 
-Two Dots (FR) is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at KALT, Strasbourg on Sat, 14 Nov 2026.
+Two Dots (FR) is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at KALT, Strasbourg on Sat, 14 Nov 2026.
 
 Two Dots (FR) is a techno and trance artist based in France, with 14 gigs on soundcheck across Amsterdam, Berlin, Budapest and Copenhagen and 3 more. Often billed alongside Amo (IT), Bambounou and Florian Picasso. Next up: KALT, Strasbourg on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Two Dots (FR) is a techno and trance artist based in France, with 14 gigs on sou
 
 Amo (IT), Bambounou, Florian Picasso
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/twodots-fr/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/twodots-fr/)*

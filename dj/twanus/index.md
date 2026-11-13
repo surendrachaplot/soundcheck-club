@@ -1,6 +1,6 @@
 # Twan (US)
 
-Twan (US) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Blue Leopard Lounge, Chicago on Sat, 28 Nov 2026.
+Twan (US) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Blue Leopard Lounge, Chicago on Sat, 28 Nov 2026.
 
 Twan (US) is a house and techno artist based in United States of America, with 15 gigs on soundcheck across Chicago, Cleveland and Detroit. Often billed alongside Sound On Tape, DJ Lady D and VITIGRRL. Next up: Blue Leopard Lounge, Chicago on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Twan (US) is a house and techno artist based in United States of America, with 1
 
 Sound On Tape, DJ Lady D, VITIGRRL
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/twanus/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/twanus/)*

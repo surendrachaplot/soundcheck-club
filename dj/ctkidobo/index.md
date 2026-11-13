@@ -1,6 +1,6 @@
 # CT Kidobó
 
-CT Kidobó is a Electro and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Atno, Budapest on Sat, 19 Dec 2026.
+CT Kidobó is a Electro and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Atno, Budapest on Sat, 19 Dec 2026.
 
 CT Kidobó is an electro and disco artist based in Hungary, with 12 gigs on soundcheck across Budapest and Vienna. Often billed alongside Kvrk, Imre Kiss and LAU. Next up: Atno, Budapest on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ CT Kidobó is an electro and disco artist based in Hungary, with 12 gigs on soun
 
 Kvrk, Imre Kiss, LAU (6)
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ctkidobo/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ctkidobo/)*

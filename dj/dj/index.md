@@ -1,13 +1,14 @@
-# Soju Gang
+# Abigail Toll
 
-Soju Gang is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
+Abigail Toll is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at 8MM, Berlin on Fri, 13 Nov 2026.
 
-Soju Gang is a house and techno artist, with 132 gigs on soundcheck across Adelaide, Baltimore, Barcelona and Berlin and 31 more. Often billed alongside Haus of Ralph, Jyoty and AANO. Next up: The Wildlands, Melbourne on Fri 20 Nov.
+Abigail Toll is a house and techno artist, with 133 gigs on soundcheck across Adelaide, Baltimore, Barcelona and Berlin and 31 more. Often billed alongside Haus of Ralph, Jyoty and AANO. Next up: 8MM, Berlin on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | 8MM | Berlin |
 | Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 | Thu, 31 Dec 2026 | Northcote Theatre | Melbourne |
 | Fri, 5 Mar 2027 | Moyston | Melbourne |
@@ -27,4 +28,4 @@ Soju Gang is a house and techno artist, with 132 gigs on soundcheck across Adela
 
 Haus of Ralph, Jyoty, AANO
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dj/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dj/)*

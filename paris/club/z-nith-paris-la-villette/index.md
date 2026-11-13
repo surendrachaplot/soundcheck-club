@@ -1,6 +1,6 @@
 # Zénith Paris - La Villette
 
-Zénith Paris - La Villette is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Vrai Marabout Voyant Compétent à Strasbourg – Paiement Après Résultat" on Tue, 17 Nov 2026.
+Zénith Paris - La Villette is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Vrai Marabout Voyant Compétent à Strasbourg – Paiement Après Résultat" on Tue, 17 Nov 2026.
 
 Zénith Paris - La Villette is a music venue in Paris listed on soundcheck. 4 upcoming gigs, with line-ups including Acid Arab, Chase & Status, Gimmix and MEUTE. See dates, start times and who's playing. 211 avenue Jean Jaurès; 75019; Paris, France.
 
@@ -17,4 +17,4 @@ Zénith Paris - La Villette is a music venue in Paris listed on soundcheck. 4 up
 
 211 avenue Jean Jaurès; 75019; Paris, France, Paris
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/z-nith-paris-la-villette/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/z-nith-paris-la-villette/)*

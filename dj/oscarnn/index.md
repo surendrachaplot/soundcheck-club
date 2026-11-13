@@ -1,6 +1,6 @@
 # Oscar Nñ
 
-Oscar Nñ is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at public records, New York City on Sat, 26 Dec 2026.
+Oscar Nñ is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at public records, New York City on Sat, 26 Dec 2026.
 
 Oscar Nñ is a club and techno artist based in United States of America, with 54 gigs on soundcheck across Atlanta, Berlin, Leipzig and Los Angeles and 4 more. Often billed alongside Adam R, Riobamba and Sterling Juan Diaz. Next up: public records, New York City on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Oscar Nñ is a club and techno artist based in United States of America, with 54
 
 Adam R, Riobamba, Sterling Juan Diaz
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarnn/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarnn/)*

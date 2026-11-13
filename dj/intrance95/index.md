@@ -1,6 +1,6 @@
 # In Trance 95
 
-In Trance 95 is a Industrial and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Floyd, Athens on Thu, 3 Dec 2026.
+In Trance 95 is a Industrial and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Floyd, Athens on Thu, 3 Dec 2026.
 
 In Trance 95 is an industrial and electro artist based in Greece, with 9 gigs on soundcheck across Athens, Berlin and Vienna. Often billed alongside Alex Machairas, Cabaret Voltaire and Evita Manji. Next up: Floyd, Athens on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ In Trance 95 is an industrial and electro artist based in Greece, with 9 gigs on
 
 Alex Machairas, Cabaret Voltaire, Evita Manji
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/intrance95/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/intrance95/)*

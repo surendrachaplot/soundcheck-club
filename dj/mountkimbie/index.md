@@ -1,6 +1,6 @@
 # Mount Kimbie
 
-Mount Kimbie is a Electronica and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at RSO.BERLIN, Berlin on Sat, 14 Nov 2026.
+Mount Kimbie is a Electronica and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at RSO.BERLIN, Berlin on Sat, 14 Nov 2026.
 
 Mount Kimbie is an electronica and house artist based in United Kingdom, with 81 gigs on soundcheck across Antwerp, Austin, Barcelona and Belfast and 40 more. Often billed alongside Kai Campos, Jayda G and Actress. Next up: RSO.BERLIN, Berlin on Sat 14 Nov.
 
@@ -28,4 +28,4 @@ Mount Kimbie is an electronica and house artist based in United Kingdom, with 81
 
 Kai Campos, Jayda G, Actress
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mountkimbie/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mountkimbie/)*

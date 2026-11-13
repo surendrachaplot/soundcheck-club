@@ -1,13 +1,14 @@
 # Nice N Sleazy
 
-Nice N Sleazy is a music venue in Glasgow with 11 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "The 909 Society presents: Housework Volume 8" on Fri, 20 Nov 2026.
+Nice N Sleazy is a music venue in Glasgow with 12 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Zhoosh" on Thu, 19 Nov 2026.
 
-Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 11 upcoming gigs, with line-ups including ESTO, Et Al, Gabor Matty and iluna and 2 more. See dates, start times and who's playing. 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom.
+Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 12 upcoming gigs, with line-ups including ESTO, Et Al, Gabor Matty and iluna and 2 more. See dates, start times and who's playing. 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Thu, 19 Nov 2026 | Zhoosh |  |
 | Fri, 20 Nov 2026 | The 909 Society presents: Housework Volume 8 | ESTO |
 | Sat, 21 Nov 2026 | Bass Injection presents: Afterhours | Rodent |
 | Sat, 21 Nov 2026 | craftybrownkid matinee |  |
@@ -17,10 +18,9 @@ Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 11 upcoming gigs
 | Sat, 5 Dec 2026 | Queer Theory: Judas Kiss | Gabor Matty |
 | Fri, 11 Dec 2026 | MONO CULTURE & RAVE.GLA present |  |
 | Thu, 17 Dec 2026 | Skid: Selected |  |
-| Sat, 19 Dec 2026 | Finesse: iluna | ITEM9, SunēX, TiLA, iluna |
 
 ## Address
 
 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom, Glasgow
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/nice-n-sleazy/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/nice-n-sleazy/)*

@@ -1,6 +1,6 @@
 # Simple Cuts
 
-Simple Cuts is a Funk / Soul and Jazz artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Traverse City Whiskey Co. Outpost, Detroit on Fri, 13 Nov 2026.
+Simple Cuts is a Funk / Soul and Jazz artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Traverse City Whiskey Co. Outpost, Detroit on Fri, 13 Nov 2026.
 
 Simple Cuts is a funk / soul and jazz artist based in United States of America, with 31 gigs on soundcheck across Detroit. Often billed alongside Swingvibe, ERNO (US) and Eddie Logix. Next up: Traverse City Whiskey Co. Outpost, Detroit on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Simple Cuts is a funk / soul and jazz artist based in United States of America, 
 
 Swingvibe, ERNO (US), Eddie Logix
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simplecuts/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simplecuts/)*

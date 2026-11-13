@@ -1,6 +1,6 @@
 # Depot
 
-Depot is a music venue in Cardiff with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Shangri-La presents: Sasha & John Digweed" on Sat, 14 Nov 2026.
+Depot is a music venue in Cardiff with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Shangri-La presents: Sasha & John Digweed" on Sat, 14 Nov 2026.
 
 Depot is a music venue in Cardiff listed on soundcheck. 4 upcoming gigs, with line-ups including John Digweed, L.P. Rhythm, Marc Kinchen and Robbie Doherty and 1 more. See dates, start times and who's playing. DEPOT Cardiff  Williams Way,  Curran Embankment,  Cardiff  CF10 5DY,  Wales.
 
@@ -17,4 +17,4 @@ Depot is a music venue in Cardiff listed on soundcheck. 4 upcoming gigs, with li
 
 DEPOT Cardiff  Williams Way,  Curran Embankment,  Cardiff  CF10 5DY,  Wales, Cardiff
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/cardiff/club/depot/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/cardiff/club/depot/)*

@@ -1,19 +1,19 @@
 # Jay Galligan
 
-Jay Galligan is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at OHM, Berlin on Thu, 12 Nov 2026.
+Jay Galligan is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Island, Bristol on Sat, 5 Dec 2026.
 
-Jay Galligan is a techno and electro artist based in Ireland, with 18 gigs on soundcheck across Berlin, Bristol, Cork and Dublin and 3 more. Often billed alongside Ario, RS Tangent and Lynne. Next up: OHM, Berlin on Thu 12 Nov.
+Jay Galligan is a techno and electro artist based in Ireland, with 18 gigs on soundcheck across Berlin, Bristol, Cork and Dublin and 3 more. Often billed alongside Ario, RS Tangent and Lynne. Next up: The Island, Bristol on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 12 Nov 2026 | OHM | Berlin |
 | Sat, 5 Dec 2026 | The Island | Bristol |
 | Sat, 19 Dec 2026 | Strange Brew | Bristol |
 
 ## Recently played
 
+- OHM, Berlin · Thu, 12 Nov 2026
 - Bonobo, Tokyo · Sat, 3 Oct 2026
 - Cosies, Bristol · Fri, 25 Sept 2026
 - The Island, Bristol · Sat, 12 Sept 2026
@@ -21,10 +21,9 @@ Jay Galligan is a techno and electro artist based in Ireland, with 18 gigs on so
 - vurt., Seoul · Sat, 11 Jul 2026
 - Sherkin Island, Cork · Thu, 28 May 2026
 - The Island, Bristol · Fri, 17 Apr 2026
-- The Love Inn, Bristol · Thu, 5 Mar 2026
 
 ## Shares bills with
 
 Ario, RS Tangent, Lynne
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaygalligan/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaygalligan/)*

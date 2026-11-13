@@ -1,13 +1,14 @@
 # KASIENKA
 
-KASIENKA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Kompass Klub, Ghent on Sat, 12 Dec 2026.
+KASIENKA is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Ghent (multi-venue), Ghent on Fri, 27 Nov 2026.
 
-KASIENKA is a techno and trance artist based in Belgium, with 14 gigs on soundcheck across Berlin, Düsseldorf and Ghent. Often billed alongside Stinny Stone, droomwolkje and Cobb Douglas. Next up: Kompass Klub, Ghent on Sat 12 Dec.
+KASIENKA is a techno and trance artist based in Belgium, with 15 gigs on soundcheck across Berlin, Düsseldorf and Ghent. Often billed alongside droomwolkje, SEE YOU LATER and Stinny Stone. Next up: TBA - Ghent (multi-venue), Ghent on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | TBA - Ghent (multi-venue) | Ghent |
 | Sat, 12 Dec 2026 | Kompass Klub | Ghent |
 
 ## Recently played
@@ -23,6 +24,6 @@ KASIENKA is a techno and trance artist based in Belgium, with 14 gigs on soundch
 
 ## Shares bills with
 
-Stinny Stone, droomwolkje, Cobb Douglas
+droomwolkje, SEE YOU LATER, Stinny Stone
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kasienka/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kasienka/)*

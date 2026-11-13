@@ -1,6 +1,6 @@
 # Gogan
 
-Gogan is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at MONKEY LOVE, Warsaw on Sat, 21 Nov 2026.
+Gogan is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at MONKEY LOVE, Warsaw on Sat, 21 Nov 2026.
 
 Gogan is a techno and house artist based in Poland, with 9 gigs on soundcheck across Krakow, Warsaw and Wroclaw. Often billed alongside Rytmik, Alexander Skancke and Anna Borsuk. Next up: MONKEY LOVE, Warsaw on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Gogan is a techno and house artist based in Poland, with 9 gigs on soundcheck ac
 
 Rytmik, Alexander Skancke, Anna Borsuk
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gogan/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gogan/)*

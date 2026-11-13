@@ -1,6 +1,6 @@
 # LOST x REECORDS at Seaseaclub Barcelona
 
-LOST x REECORDS at Seaseaclub Barcelona on Sat 14 Nov, Barcelona. 4 artists: ATMEN, HANIE, Reelow and Simon Erar. House and Tech House. See the line-up on soundcheck.
+LOST x REECORDS at Seaseaclub Barcelona on Sat 14 Nov, Barcelona. 9 artists: ATMEN, Cesar Martino, D.O.N and Dave Rose and 5 more. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,12 @@ LOST x REECORDS at Seaseaclub Barcelona on Sat 14 Nov, Barcelona. 4 artists: ATM
 ## Line-up
 
 - ATMEN
+- Cesar Martino
+- D.O.N
+- Dave Rose
 - HANIE
+- Lokesh
+- REDA
 - Reelow
 - Simon Erar
 

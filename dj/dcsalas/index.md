@@ -1,6 +1,6 @@
 # DC Salas
 
-DC Salas is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Madre Ria, Ecuador on Thu, 19 Nov 2026.
+DC Salas is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Madre Ria, Ecuador on Thu, 19 Nov 2026.
 
 DC Salas is a house and techno artist based in Belgium, with 118 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 23 more. Often billed alongside Innershades, Sara Dziri and Phara. Next up: Madre Ria, Ecuador on Thu 19 Nov.
 
@@ -27,4 +27,4 @@ DC Salas is a house and techno artist based in Belgium, with 118 gigs on soundch
 
 Innershades, Sara Dziri, Phara
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dcsalas/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dcsalas/)*

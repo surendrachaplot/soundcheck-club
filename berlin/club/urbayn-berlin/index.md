@@ -1,6 +1,6 @@
 # Urbayn Berlin
 
-Urbayn Berlin is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "FCK APPS. MAKE FRIENDS OFFLINE" on Fri, 20 Nov 2026.
+Urbayn Berlin is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "FCK APPS. MAKE FRIENDS OFFLINE" on Fri, 20 Nov 2026.
 
 Urbayn Berlin is a music venue in Berlin listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. Glasbläserallee 25.
 
@@ -15,4 +15,4 @@ Urbayn Berlin is a music venue in Berlin listed on soundcheck. 2 upcoming gigs. 
 
 Glasbläserallee 25, Berlin
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/urbayn-berlin/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/urbayn-berlin/)*

@@ -1,6 +1,6 @@
 # Pochola
 
-Pochola is a Club and Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Ormside Projects, London on Fri, 13 Nov 2026.
+Pochola is a Club and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Ormside Projects, London on Fri, 13 Nov 2026.
 
 Pochola is a club and bass artist based in Mexico, with 18 gigs on soundcheck across Berlin, Croatia, London and San Francisco/Oakland. Often billed alongside DJ Plead, Manuka Honey and Mobilegirl. Next up: Ormside Projects, London on Fri 13 Nov.
 
@@ -9,7 +9,7 @@ Pochola is a club and bass artist based in Mexico, with 18 gigs on soundcheck ac
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Ormside Projects | London |
-| Fri, 27 Nov 2026 | Dalston Den | London |
+| Fri, 27 Nov 2026 | N7 | London |
 | Thu, 17 Jun 2027 | Medane Beach | Croatia |
 
 ## Recently played
@@ -27,4 +27,4 @@ Pochola is a club and bass artist based in Mexico, with 18 gigs on soundcheck ac
 
 DJ Plead, Manuka Honey, Mobilegirl
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pochola/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pochola/)*

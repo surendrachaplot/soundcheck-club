@@ -1,6 +1,6 @@
 # Hyden
 
-Hyden is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at RADION, Amsterdam on Fri, 5 Feb 2027.
+Hyden is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at RADION, Amsterdam on Fri, 5 Feb 2027.
 
 Hyden is a techno and electro artist based in France, with 56 gigs on soundcheck across Amsterdam, Berlin, Bratislava and Buenos Aires and 12 more. Often billed alongside Lobster (NL), BENZA and Cleric. Next up: RADION, Amsterdam on Fri 5 Feb.
 
@@ -25,4 +25,4 @@ Hyden is a techno and electro artist based in France, with 56 gigs on soundcheck
 
 Lobster (NL), BENZA, Cleric
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hyden/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hyden/)*

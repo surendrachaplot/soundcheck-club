@@ -1,6 +1,6 @@
 # YASUKI
 
-YASUKI is a Drum & Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at HVEN, Tokyo on Fri, 13 Nov 2026.
+YASUKI is a Drum & Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at HVEN, Tokyo on Fri, 13 Nov 2026.
 
 YASUKI is a drum & bass and techno artist based in Japan, with 9 gigs on soundcheck across Okinawa and Tokyo. Often billed alongside CRAZYHYUGA, DJ AKi and Kulage. Next up: HVEN, Tokyo on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ YASUKI is a drum & bass and techno artist based in Japan, with 9 gigs on soundch
 
 CRAZYHYUGA, DJ AKi, Kulage
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yasuki-jp/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yasuki-jp/)*

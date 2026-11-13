@@ -1,6 +1,6 @@
 # Liquidate
 
-Liquidate is a music venue in Manchester with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Liquid Reggae" on Fri, 13 Nov 2026.
+Liquidate is a music venue in Manchester with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Liquid Reggae" on Fri, 13 Nov 2026.
 
 Liquidate is a music venue in Manchester listed on soundcheck. 4 upcoming gigs, with line-ups including Alex Gaskill, Ed Tomlinson, Jack Moss and Selecta Shaun. See dates, start times and who's playing. 855 Stockport road.
 
@@ -17,4 +17,4 @@ Liquidate is a music venue in Manchester listed on soundcheck. 4 upcoming gigs, 
 
 855 Stockport road, Manchester
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/liquidate/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/liquidate/)*

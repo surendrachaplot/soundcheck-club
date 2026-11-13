@@ -1,6 +1,6 @@
 # Valeria
 
-Valeria is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Tresor / Globus, Berlin on Mon, 28 Dec 2026.
+Valeria is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Tresor / Globus, Berlin on Mon, 28 Dec 2026.
 
 Valeria is a techno and house artist based in Mexico, with 17 gigs on soundcheck across Berlin, Hamburg, Heidelberg and Los Angeles and 2 more. Often billed alongside Justine Perry, Lemarie and Paula Koski. Next up: Tresor / Globus, Berlin on Mon 28 Dec.
 
@@ -26,4 +26,4 @@ Valeria is a techno and house artist based in Mexico, with 17 gigs on soundcheck
 
 Justine Perry, Lemarie, Paula Koski
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/valeria/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/valeria/)*

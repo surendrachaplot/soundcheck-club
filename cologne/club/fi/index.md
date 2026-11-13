@@ -1,6 +1,6 @@
 # fi
 
-fi is a music venue in Cologne with 14 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "fi x && x Tipping Point" on Sat, 14 Nov 2026.
+fi is a music venue in Cologne with 14 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "fi x && x Tipping Point" on Sat, 14 Nov 2026.
 
 fi is a music venue in Cologne listed on soundcheck. 14 upcoming gigs, with line-ups including Acid Pauli, Alalkih, Bonnie Spacey and Claus Casper and 2 more. See dates, start times and who's playing. Widdersdorfer Straße 246, 50825 Köln, Deutschland.
 
@@ -23,4 +23,4 @@ fi is a music venue in Cologne listed on soundcheck. 14 upcoming gigs, with line
 
 Widdersdorfer Straße 246, 50825 Köln, Deutschland, Cologne
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/fi/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/fi/)*

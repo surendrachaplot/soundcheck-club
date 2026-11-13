@@ -1,6 +1,6 @@
 # Darkova
 
-Darkova is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Catacombs Cabaret, Toronto on Sat, 21 Nov 2026.
+Darkova is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Catacombs Cabaret, Toronto on Sat, 21 Nov 2026.
 
 Darkova is a techno and minimal techno artist based in Canada, with 43 gigs on soundcheck across Montreal and Toronto. Often billed alongside Measure Divide, Alley Kay and Vadim Khan. Next up: Catacombs Cabaret, Toronto on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Darkova is a techno and minimal techno artist based in Canada, with 43 gigs on s
 
 Measure Divide, Alley Kay, Vadim Khan
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/darkova/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/darkova/)*

@@ -1,6 +1,6 @@
 # Rayko
 
-Rayko is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Muller Bar, Madrid on Sat, 14 Nov 2026.
+Rayko is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Muller Bar, Madrid on Sat, 14 Nov 2026.
 
 Rayko is a house and disco artist based in Spain, with 9 gigs on soundcheck across Madrid and Nantes. Often billed alongside Kamboya, Dan Bono and Eagles & Butterflies. Next up: Muller Bar, Madrid on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Rayko is a house and disco artist based in Spain, with 9 gigs on soundcheck acro
 
 Kamboya, Dan Bono, Eagles & Butterflies
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rayko/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rayko/)*

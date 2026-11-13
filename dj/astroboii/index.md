@@ -1,14 +1,15 @@
 # Astroboii
 
-Astroboii is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Entre Nous, Montreal on Fri, 13 Nov 2026.
+Astroboii is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Entre Nous, Montreal on Fri, 13 Nov 2026.
 
-Astroboii is a techno and bass artist based in Mexico, with 52 gigs on soundcheck across Berlin, Chengdu, Guadalajara and Hanoi and 2 more. Often billed alongside Niño Arbol, Cybebe and Octoptic. Next up: Entre Nous, Montreal on Fri 13 Nov.
+Astroboii is a techno and bass artist based in Mexico, with 53 gigs on soundcheck across Berlin, Chengdu, Guadalajara and Hanoi and 2 more. Often billed alongside Niño Arbol, Cybebe and Octoptic. Next up: Entre Nous, Montreal on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Entre Nous | Montreal |
+| Thu, 3 Dec 2026 | Fünk | Mexico City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Astroboii is a techno and bass artist based in Mexico, with 52 gigs on soundchec
 
 Niño Arbol, Cybebe, Octoptic
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/astroboii/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/astroboii/)*

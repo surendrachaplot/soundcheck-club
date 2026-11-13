@@ -1,6 +1,6 @@
 # Komitee
 
-Komitee is a music venue in Munich with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Tanzen mit extragroßen Pflanzen: DJ FM & DJ FREUND im Komitee" on Sat, 21 Nov 2026.
+Komitee is a music venue in Munich with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Tanzen mit extragroßen Pflanzen: DJ FM & DJ FREUND im Komitee" on Sat, 21 Nov 2026.
 
 Komitee is a music venue in Munich listed on soundcheck. 3 upcoming gigs, with line-ups including Die Tektonische Plattenverschiebung and DJ FM & DJ FREUND. See dates, start times and who's playing. Gabelsbergerstr. 24, 80333 Munich.
 
@@ -16,4 +16,4 @@ Komitee is a music venue in Munich listed on soundcheck. 3 upcoming gigs, with l
 
 Gabelsbergerstr. 24, 80333 Munich, Munich
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/komitee/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/komitee/)*

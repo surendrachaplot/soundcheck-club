@@ -1,6 +1,6 @@
 # Alexandra Mellgren
 
-Alexandra Mellgren is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Ivans Pilsnerbar, Gothenburg on Sat, 14 Nov 2026.
+Alexandra Mellgren is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Ivans Pilsnerbar, Gothenburg on Sat, 14 Nov 2026.
 
 Alexandra Mellgren is a techno and house artist based in Sweden, with 7 gigs on soundcheck across Gothenburg and Stockholm. Often billed alongside ABSTRS, ARANEA and Ms. K. Next up: Ivans Pilsnerbar, Gothenburg on Sat 14 Nov.
 
@@ -23,4 +23,4 @@ Alexandra Mellgren is a techno and house artist based in Sweden, with 7 gigs on 
 
 ABSTRS, ARANEA, Ms. K
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandramellgren/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandramellgren/)*

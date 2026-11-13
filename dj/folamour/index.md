@@ -1,8 +1,8 @@
 # Folamour
 
-Folamour is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at DRUMSHEDS, London on Fri, 13 Nov 2026.
+Folamour is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at DRUMSHEDS, London on Fri, 13 Nov 2026.
 
-Folamour is a house and disco artist based in France, with 162 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 56 more. Often billed alongside Dan Shake, Seth Troxler and TSHA. Next up: DRUMSHEDS, London on Fri 13 Nov.
+Folamour is a house and disco artist based in France, with 163 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 56 more. Often billed alongside Dan Shake, Seth Troxler and TSHA. Next up: DRUMSHEDS, London on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Folamour is a house and disco artist based in France, with 162 gigs on soundchec
 | Sun, 15 Nov 2026 | Palais | London |
 | Fri, 27 Nov 2026 | Arts Club | Liverpool |
 | Sat, 28 Nov 2026 | Lx Factory | Lisbon |
+| Sat, 5 Dec 2026 | Nitsa Club | Barcelona |
 | Sat, 12 Dec 2026 | Nordstern | Basel |
 | Sun, 8 Aug 2027 | Clifton Downs | Bristol |
 
@@ -30,4 +31,4 @@ Folamour is a house and disco artist based in France, with 162 gigs on soundchec
 
 Dan Shake, Seth Troxler, TSHA
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/folamour/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/folamour/)*

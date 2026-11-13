@@ -1,6 +1,6 @@
 # Cosmos Campolide
 
-Cosmos Campolide is a music venue in Lisbon with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Soul Sister & LIZATRON dee jay set" on Fri, 13 Nov 2026.
+Cosmos Campolide is a music venue in Lisbon with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Soul Sister & LIZATRON dee jay set" on Fri, 13 Nov 2026.
 
 Cosmos Campolide is a music venue in Lisbon listed on soundcheck. 2 upcoming gigs, with line-ups including nharo. See dates, start times and who's playing. Rua Marquês de Fronteira, 163, Lisbon, Portugal.
 
@@ -15,4 +15,4 @@ Cosmos Campolide is a music venue in Lisbon listed on soundcheck. 2 upcoming gig
 
 Rua Marquês de Fronteira, 163, Lisbon, Portugal, Lisbon
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/cosmos-campolide/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/cosmos-campolide/)*

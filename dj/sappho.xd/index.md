@@ -1,6 +1,6 @@
 # Sappho.XD
 
-Sappho.XD is a Drum & Bass and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Bsmt 254, Toronto on Fri, 13 Nov 2026.
+Sappho.XD is a Drum & Bass and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Bsmt 254, Toronto on Fri, 13 Nov 2026.
 
 Sappho.XD is a drum & bass and electro artist based in Sri Lanka, with 34 gigs on soundcheck across Toronto. Often billed alongside Ms. GothicFish, GRRLCRRSH and moodyjooly. Next up: Bsmt 254, Toronto on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Sappho.XD is a drum & bass and electro artist based in Sri Lanka, with 34 gigs o
 
 Ms. GothicFish, GRRLCRRSH, moodyjooly
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sappho.xd/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sappho.xd/)*

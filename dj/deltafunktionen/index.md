@@ -1,6 +1,6 @@
 # Delta Funktionen
 
-Delta Funktionen is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Turbina, Budapest on Fri, 27 Nov 2026.
+Delta Funktionen is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Turbina, Budapest on Fri, 27 Nov 2026.
 
 Delta Funktionen is a techno and downtempo artist based in Netherlands, with 13 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 6 more. Often billed alongside Napirelly, DJ SO and Full Sentimental. Next up: Turbina, Budapest on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Delta Funktionen is a techno and downtempo artist based in Netherlands, with 13 
 
 Napirelly, DJ SO, Full Sentimental
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deltafunktionen/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deltafunktionen/)*

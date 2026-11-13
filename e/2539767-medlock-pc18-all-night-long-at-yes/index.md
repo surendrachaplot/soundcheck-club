@@ -1,6 +1,6 @@
 # Medlock & PC18 ALL NIGHT LONG at Yes
 
-Medlock & PC18 ALL NIGHT LONG at Yes on Sat 28 Nov, Manchester. 1 artist: Medlock. Trance and Techno. See the line-up on soundcheck.
+Medlock & PC18 ALL NIGHT LONG at Yes on Sat 28 Nov, Manchester. 1 artist: Medlock. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

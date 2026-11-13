@@ -1,6 +1,6 @@
 # Traumer
 
-Traumer is a House and Techno artist with 15 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TESTBED, Leeds on Fri, 13 Nov 2026.
+Traumer is a House and Techno artist with 15 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TESTBED, Leeds on Fri, 13 Nov 2026.
 
 Traumer is a house and techno artist based in France, with 349 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 86 more. Often billed alongside Enzo Siragusa, Shonky and Rossi. Next up: TESTBED, Leeds on Fri 13 Nov.
 
@@ -36,4 +36,4 @@ Traumer is a house and techno artist based in France, with 349 gigs on soundchec
 
 Enzo Siragusa, Shonky, Rossi
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/traumer/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/traumer/)*

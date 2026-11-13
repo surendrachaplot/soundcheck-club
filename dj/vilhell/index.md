@@ -1,6 +1,6 @@
 # Vilhell
 
-Vilhell is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Prisma, Berlin on Fri, 20 Nov 2026.
+Vilhell is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Prisma, Berlin on Fri, 20 Nov 2026.
 
 Vilhell is an electro and techno artist, with 11 gigs on soundcheck across Berlin. Often billed alongside Gościńska, Suit Kei and Goldmund.99. Next up: Prisma, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Vilhell is an electro and techno artist, with 11 gigs on soundcheck across Berli
 
 Gościńska, Suit Kei, Goldmund.99
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vilhell/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vilhell/)*

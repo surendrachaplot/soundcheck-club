@@ -1,14 +1,14 @@
 # Joe Rolét
 
-Joe Rolét is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Telegraph Building, Belfast on Sat, 14 Nov 2026.
+Joe Rolét is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Limelight, Belfast on Sat, 14 Nov 2026.
 
-Joe Rolét is a tech house and house artist based in United Kingdom, with 29 gigs on soundcheck across Aberdeen, Amsterdam, Belfast and Berlin and 10 more. Often billed alongside Fleur Shore, Max Dean and Olive F. Next up: The Telegraph Building, Belfast on Sat 14 Nov.
+Joe Rolét is a tech house and house artist based in United Kingdom, with 29 gigs on soundcheck across Aberdeen, Amsterdam, Belfast and Berlin and 10 more. Often billed alongside Fleur Shore, Max Dean and Olive F. Next up: The Limelight, Belfast on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | The Telegraph Building | Belfast |
+| Sat, 14 Nov 2026 | The Limelight | Belfast |
 | Fri, 27 Nov 2026 | fabric | London |
 
 ## Recently played
@@ -26,4 +26,4 @@ Joe Rolét is a tech house and house artist based in United Kingdom, with 29 gig
 
 Fleur Shore, Max Dean, Olive F
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joerolet/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joerolet/)*

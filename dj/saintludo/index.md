@@ -1,16 +1,16 @@
 # Saint Ludo
 
-Saint Ludo is a Garage and Bass artist with 14 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Larimer Lounge, Denver on Thu, 12 Nov 2026.
+Saint Ludo is a Garage and Bass artist with 14 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Bill Graham Civic Auditorium, San Francisco/Oakland on Fri, 13 Nov 2026.
 
-Saint Ludo is a garage and bass artist, with 135 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 35 more. Often billed alongside Y U QT, Bakey and Ewan McVicar. Next up: Larimer Lounge, Denver on Thu 12 Nov.
+Saint Ludo is a garage and bass artist, with 136 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 35 more. Often billed alongside Y U QT, Bakey and Ewan McVicar. Next up: Bill Graham Civic Auditorium, San Francisco/Oakland on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 12 Nov 2026 | Larimer Lounge | Denver |
 | Fri, 13 Nov 2026 | Bill Graham Civic Auditorium | San Francisco/Oakland |
 | Sat, 21 Nov 2026 | Depot Mayfield | Manchester |
+| Fri, 4 Dec 2026 | Parallel | Amsterdam |
 | Sat, 12 Dec 2026 | Blank Site | Seoul |
 | Fri, 18 Dec 2026 | Circus Tokyo | Tokyo |
 | Sat, 19 Dec 2026 | Circus Osaka | Osaka |
@@ -23,6 +23,7 @@ Saint Ludo is a garage and bass artist, with 135 gigs on soundcheck across Amste
 
 ## Recently played
 
+- Larimer Lounge, Denver · Thu, 12 Nov 2026
 - Gaswrx Birmingham, London · Sat, 31 Oct 2026
 - Beaver Works, Leeds · Sat, 31 Oct 2026
 - The Brickworks, Nottingham · Fri, 30 Oct 2026
@@ -30,10 +31,9 @@ Saint Ludo is a garage and bass artist, with 135 gigs on soundcheck across Amste
 - Depot Mayfield, Manchester · Fri, 9 Oct 2026
 - TBA - Vogrie Country Park, Edinburgh · Sat, 3 Oct 2026
 - Lakota, Bristol · Fri, 18 Sept 2026
-- Razzmatazz, Barcelona · Sat, 22 Aug 2026
 
 ## Shares bills with
 
 Y U QT, Bakey, Ewan McVicar
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saintludo/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saintludo/)*

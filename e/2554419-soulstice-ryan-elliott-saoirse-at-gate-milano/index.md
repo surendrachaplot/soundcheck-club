@@ -1,6 +1,6 @@
 # SOULSTICE: Ryan Elliott & Saoirse at Gate Milano
 
-SOULSTICE: Ryan Elliott & Saoirse at Gate Milano on Fri 20 Nov, Milan. 3 artists: Ferrari, Ryan Elliott and Saoirse. House. See the line-up on soundcheck.
+SOULSTICE: Ryan Elliott & Saoirse at Gate Milano on Fri 20 Nov, Milan. 4 artists: Ferrari, Ryan Elliott, Saoirse and ZAREEN. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ SOULSTICE: Ryan Elliott & Saoirse at Gate Milano on Fri 20 Nov, Milan. 3 artists
 - Ferrari
 - Ryan Elliott
 - Saoirse
+- ZAREEN
 
 *Source: [soundcheck](https://soundcheck.club/e/2554419-soulstice-ryan-elliott-saoirse-at-gate-milano/)*

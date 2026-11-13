@@ -1,6 +1,6 @@
 # Funkhaus Wien
 
-Funkhaus Wien is a music venue in Vienna with 12 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "club fatale w. KRN" on Fri, 13 Nov 2026.
+Funkhaus Wien is a music venue in Vienna with 12 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "club fatale w. KRN" on Fri, 13 Nov 2026.
 
 Funkhaus Wien is a music venue in Vienna listed on soundcheck. 12 upcoming gigs, with line-ups including Alice (AT), Bambalan, Diskohengst and Felix Wolfs and 2 more. See dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ Funkhaus Wien is a music venue in Vienna listed on soundcheck. 12 upcoming gigs,
 | Sun, 6 Dec 2026 | Untz Baby Untz - Nikolo in the Funkhaus | SHIZZLE |
 | Fri, 18 Dec 2026 | LOVEDANCIN' Vienna | Gerd Janson, Mareia, Tom Kutsche |
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/funkhaus-wien/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/funkhaus-wien/)*

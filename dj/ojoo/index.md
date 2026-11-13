@@ -1,6 +1,6 @@
 # ojoo
 
-ojoo is a Experimental and Dub artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at OHM, Berlin on Fri, 27 Nov 2026.
+ojoo is a Experimental and Dub artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at OHM, Berlin on Fri, 27 Nov 2026.
 
 ojoo is an experimental and dub artist based in Morocco, with 109 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Bergen and 27 more. Often billed alongside ojoo, Ossia and NVST. Next up: OHM, Berlin on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ ojoo is an experimental and dub artist based in Morocco, with 109 gigs on soundc
 
 ojoo, Ossia, NVST
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ojoo/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ojoo/)*

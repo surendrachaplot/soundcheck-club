@@ -1,6 +1,6 @@
 # TOOTHTAXI
 
-TOOTHTAXI is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Glove That Fits, London on Sat, 5 Dec 2026.
+TOOTHTAXI is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Glove That Fits, London on Sat, 5 Dec 2026.
 
 TOOTHTAXI is a techno and experimental artist based in United Kingdom, with 26 gigs on soundcheck across London. Often billed alongside DELARA, LIZAZA and Arrosa. Next up: The Glove That Fits, London on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ TOOTHTAXI is a techno and experimental artist based in United Kingdom, with 26 g
 
 DELARA, LIZAZA, Arrosa
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toothtaxi/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toothtaxi/)*

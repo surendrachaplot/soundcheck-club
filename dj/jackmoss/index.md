@@ -1,6 +1,6 @@
 # Jack Moss
 
-Jack Moss is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Liquidate, Manchester on Sat, 12 Dec 2026.
+Jack Moss is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Liquidate, Manchester on Sat, 12 Dec 2026.
 
 Jack Moss is a techno and acid artist based in United Kingdom, with 12 gigs on soundcheck across London and Manchester. Often billed alongside Alex Gaskill, CJ Art and Daniel Lesden. Next up: Liquidate, Manchester on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Jack Moss is a techno and acid artist based in United Kingdom, with 12 gigs on s
 
 Alex Gaskill, CJ Art, Daniel Lesden
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jackmoss/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jackmoss/)*

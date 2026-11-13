@@ -1,6 +1,6 @@
 # Stefan Meser
 
-Stefan Meser is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Conny Club, Münster on Sat, 21 Nov 2026.
+Stefan Meser is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Conny Club, Münster on Sat, 21 Nov 2026.
 
 Stefan Meser is a house and tech house artist based in Netherlands, with 22 gigs on soundcheck across Amsterdam, Düsseldorf, Münster and Rotterdam and 2 more. Often billed alongside Karim Soliman, SANTØS and Ammé. Next up: Conny Club, Münster on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Stefan Meser is a house and tech house artist based in Netherlands, with 22 gigs
 
 Karim Soliman, SANTØS, Ammé
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanmeser/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanmeser/)*

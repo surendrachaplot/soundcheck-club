@@ -1,6 +1,6 @@
 # Armii1n
 
-Armii1n is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Lion's Den, Miami on Fri, 13 Nov 2026.
+Armii1n is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Lion's Den, Miami on Fri, 13 Nov 2026.
 
 Armii1n is a house and techno artist based in Iran, with 140 gigs on soundcheck across Miami and New York City. Often billed alongside Choukroun, Zayd and Monk. Next up: Lion's Den, Miami on Fri 13 Nov.
 
@@ -29,4 +29,4 @@ Armii1n is a house and techno artist based in Iran, with 140 gigs on soundcheck 
 
 Choukroun, Zayd, Monk (2)
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/armii1n/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/armii1n/)*

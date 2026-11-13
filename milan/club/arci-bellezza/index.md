@@ -1,6 +1,6 @@
 # Arci Bellezza
 
-Arci Bellezza is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "'WINDOWS' with A Good Year & haloplus+ live" on Tue, 15 Dec 2026.
+Arci Bellezza is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "'WINDOWS' with A Good Year & haloplus+ live" on Tue, 15 Dec 2026.
 
 Arci Bellezza is a music venue in Milan listed on soundcheck. 1 upcoming gig, with line-ups including A Good Year and haloplus+. See dates, start times and who's playing. Via Giovanni Bellezza, 16/A, 20136 Milano MI, Italy.
 
@@ -14,4 +14,4 @@ Arci Bellezza is a music venue in Milan listed on soundcheck. 1 upcoming gig, wi
 
 Via Giovanni Bellezza, 16/A, 20136 Milano MI, Italy, Milan
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/arci-bellezza/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/arci-bellezza/)*

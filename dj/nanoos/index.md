@@ -1,6 +1,6 @@
 # Nanoos
 
-Nanoos is a Club and Ghetto Tech artist with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Don Quixote, Los Angeles on Fri, 13 Nov 2026.
+Nanoos is a Club and Ghetto Tech artist with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Don Quixote, Los Angeles on Fri, 13 Nov 2026.
 
 Nanoos is a club and ghetto tech artist based in United States of America, with 96 gigs on soundcheck across Atlanta, Berlin, Boston and Chicago and 20 more. Often billed alongside Cquestt, Dj Nico and Fullbodydurag. Next up: Don Quixote, Los Angeles on Fri 13 Nov.
 
@@ -29,4 +29,4 @@ Nanoos is a club and ghetto tech artist based in United States of America, with 
 
 Cquestt, Dj Nico, Fullbodydurag
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nanoos/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nanoos/)*

@@ -1,6 +1,6 @@
 # Sorley at Halcyon
 
-Sorley at Halcyon on Sat 19 Dec, San Francisco/Oakland. 1 artist: Jørdy. See the line-up on soundcheck.
+Sorley at Halcyon on Sat 19 Dec, San Francisco/Oakland. 1 artist: Jordy. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,6 @@ Sorley at Halcyon on Sat 19 Dec, San Francisco/Oakland. 1 artist: Jørdy. See th
 
 ## Line-up
 
-- Jørdy
+- Jordy
 
 *Source: [soundcheck](https://soundcheck.club/e/2571293-sorley-at-halcyon/)*

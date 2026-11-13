@@ -1,14 +1,15 @@
 # Lost Memories
 
-Lost Memories is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Revolver Upstairs, Melbourne on Fri, 20 Nov 2026.
+Lost Memories is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Revolver Upstairs, Melbourne on Fri, 20 Nov 2026.
 
-Lost Memories is a techno and house artist based in Australia, with 19 gigs on soundcheck across Melbourne. Often billed alongside Common Tribe, Acid Safari and DJ Kiti. Next up: Revolver Upstairs, Melbourne on Fri 20 Nov.
+Lost Memories is a techno and house artist based in Australia, with 20 gigs on soundcheck across Melbourne. Often billed alongside Common Tribe, bellxsxs and Acid Safari. Next up: Revolver Upstairs, Melbourne on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Revolver Upstairs | Melbourne |
+| Wed, 25 Nov 2026 | Revolver Upstairs | Melbourne |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Lost Memories is a techno and house artist based in Australia, with 19 gigs on s
 
 ## Shares bills with
 
-Common Tribe, Acid Safari, DJ Kiti
+Common Tribe, bellxsxs, Acid Safari
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lostmemories/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lostmemories/)*

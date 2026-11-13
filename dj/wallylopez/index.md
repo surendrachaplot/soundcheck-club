@@ -1,6 +1,6 @@
 # Wally Lopez
 
-Wally Lopez is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Macarena Club, Barcelona on Fri, 20 Nov 2026.
+Wally Lopez is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Macarena Club, Barcelona on Fri, 20 Nov 2026.
 
 Wally Lopez is a house and tech house artist based in Spain, with 48 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Geneva and 10 more. Often billed alongside NODUS, Oscar Colorado and Anthony Godfather. Next up: Macarena Club, Barcelona on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ Wally Lopez is a house and tech house artist based in Spain, with 48 gigs on sou
 
 NODUS, Oscar Colorado, Anthony Godfather (2)
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wallylopez/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wallylopez/)*

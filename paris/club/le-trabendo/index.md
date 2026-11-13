@@ -1,6 +1,6 @@
 # Le Trabendo
 
-Le Trabendo is a music venue in Paris with 10 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "HORS-SOL" on Fri, 13 Nov 2026.
+Le Trabendo is a music venue in Paris with 10 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "HORS-SOL" on Fri, 13 Nov 2026.
 
 Le Trabendo is a music venue in Paris listed on soundcheck. 10 upcoming gigs, with line-ups including AnD, Bakey, Beatrice M. and Domi (FR) and 2 more. See dates, start times and who's playing. 211 avenue Jean Jaurès; 75019; Paris; France.
 
@@ -23,4 +23,4 @@ Le Trabendo is a music venue in Paris listed on soundcheck. 10 upcoming gigs, wi
 
 211 avenue Jean Jaurès; 75019; Paris; France, Paris
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-trabendo/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-trabendo/)*

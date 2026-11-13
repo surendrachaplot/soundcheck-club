@@ -1,6 +1,6 @@
 # Alphamob
 
-Alphamob is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Golden Pudel Club, Hamburg on Sun, 22 Nov 2026.
+Alphamob is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Golden Pudel Club, Hamburg on Sun, 22 Nov 2026.
 
 Alphamob is an electronic artist, with 10 gigs on soundcheck across Hamburg and London. Often billed alongside DJ SOURCE, Phil Abaddon and Sorrymane. Next up: Golden Pudel Club, Hamburg on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ Alphamob is an electronic artist, with 10 gigs on soundcheck across Hamburg and 
 
 DJ SOURCE, Phil Abaddon, Sorrymane
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alphamob/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alphamob/)*

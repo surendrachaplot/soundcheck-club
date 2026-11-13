@@ -1,6 +1,6 @@
 # MANAPOOL
 
-MANAPOOL is a Hardcore and Breakcore artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA, Chicago on Sat, 14 Nov 2026.
+MANAPOOL is a Hardcore and Breakcore artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA, Chicago on Sat, 14 Nov 2026.
 
 MANAPOOL is a hardcore and breakcore artist based in United States of America, with 26 gigs on soundcheck across Boston, Chicago, Los Angeles and Minneapolis/St Paul and 4 more. Often billed alongside 99jakes, Casper McFadden and Lil Kevo 303. Next up: TBA, Chicago on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ MANAPOOL is a hardcore and breakcore artist based in United States of America, w
 
 99jakes, Casper McFadden, Lil Kevo 303
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manapool/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manapool/)*

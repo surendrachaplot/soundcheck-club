@@ -1,6 +1,6 @@
 # DJ Christmas
 
-DJ Christmas is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Bar Datcha, Montreal on Thu, 19 Nov 2026.
+DJ Christmas is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Bar Datcha, Montreal on Thu, 19 Nov 2026.
 
 DJ Christmas is a house and techno artist based in United States of America, with 11 gigs on soundcheck across Chicago, Montreal and New York City. Often billed alongside A lana, m50 and r.ss. Next up: Bar Datcha, Montreal on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ DJ Christmas is a house and techno artist based in United States of America, wit
 
 A lana, m50, r.ss
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djchristmas/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djchristmas/)*

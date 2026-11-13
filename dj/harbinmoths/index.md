@@ -1,6 +1,6 @@
 # Harbinmoths
 
-Harbinmoths is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Hall, Tallinn on Sat, 28 Nov 2026.
+Harbinmoths is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Hall, Tallinn on Sat, 28 Nov 2026.
 
 Harbinmoths is a techno artist based in Estonia, with 8 gigs on soundcheck across Tallinn. Often billed alongside Hugo Mesi, Katja Adrikova and Artur Lääts. Next up: Hall, Tallinn on Sat 28 Nov.
 
@@ -24,4 +24,4 @@ Harbinmoths is a techno artist based in Estonia, with 8 gigs on soundcheck acros
 
 Hugo Mesi, Katja Adrikova, Artur Lääts
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/harbinmoths/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/harbinmoths/)*

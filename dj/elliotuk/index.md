@@ -1,6 +1,6 @@
 # Elliot (UK)
 
-Elliot (UK) is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Chica Club, Barcelona on Sat, 14 Nov 2026.
+Elliot (UK) is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Chica Club, Barcelona on Sat, 14 Nov 2026.
 
 Elliot (UK) is a techno and breakbeat artist based in United Kingdom, with 11 gigs on soundcheck across Bangkok, Barcelona, London and Madrid. Often billed alongside Jhō_gan, Charles Green and Dr. Ginn. Next up: Chica Club, Barcelona on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Elliot (UK) is a techno and breakbeat artist based in United Kingdom, with 11 gi
 
 Jhō_gan, Charles Green, Dr. Ginn
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elliotuk/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elliotuk/)*

@@ -1,6 +1,6 @@
 # Loose Strands 2 pres: Kuba’97, Jazz, DJ Sliding Doors at 201 Below
 
-Loose Strands 2 pres: Kuba’97, Jazz, DJ Sliding Doors at 201 Below on Sat 21 Nov, Perth. 1 artist: Kuba'97. House and Electro. See the line-up on soundcheck.
+Loose Strands 2 pres: Kuba’97, Jazz, DJ Sliding Doors at 201 Below on Sat 21 Nov, Perth. 2 artists: DJ Sliding Doors and Kuba'97. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Loose Strands 2 pres: Kuba’97, Jazz, DJ Sliding Doors at 201 Below on Sat 21 N
 
 ## Line-up
 
+- DJ Sliding Doors
 - Kuba'97
 
 *Source: [soundcheck](https://soundcheck.club/e/2573185-loose-strands-2-pres-kuba-97-jazz-dj-sliding-doors-at-201-be/)*

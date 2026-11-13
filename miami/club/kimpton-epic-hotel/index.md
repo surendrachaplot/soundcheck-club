@@ -1,17 +1,17 @@
 # Kimpton Epic Hotel
 
-Kimpton Epic Hotel is a music venue in Miami with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. The next is "EPIC NYE '27" on Thu, 31 Dec 2026.
+Kimpton Epic Hotel is a music venue in Miami with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "EPIC NYE '27" on Thu, 31 Dec 2026.
 
-Kimpton Epic Hotel is a music venue in Miami listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 270 Biscayne Blvd Way, Miami, FL 33131, United States.
+Kimpton Epic Hotel is a music venue in Miami listed on soundcheck. 1 upcoming gig, with line-ups including ANDREATENS, Chus & Ceballos, DJ Chus and Pablo Ceballos. See dates, start times and who's playing. 270 Biscayne Blvd Way, Miami, FL 33131, United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 31 Dec 2026 | EPIC NYE '27 |  |
+| Thu, 31 Dec 2026 | EPIC NYE '27 | ANDREATENS, Chus & Ceballos, DJ Chus, Pablo Ceballos |
 
 ## Address
 
 270 Biscayne Blvd Way, Miami, FL 33131, United States, Miami
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/kimpton-epic-hotel/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/kimpton-epic-hotel/)*

@@ -1,6 +1,6 @@
 # Zoe Talley
 
-Zoe Talley is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TV Lounge, Detroit on Fri, 13 Nov 2026.
+Zoe Talley is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TV Lounge, Detroit on Fri, 13 Nov 2026.
 
 Zoe Talley is a house and techno artist based in United States of America, with 35 gigs on soundcheck across Detroit and New York City. Often billed alongside AK (US), Fullbodydurag and jamea.. Next up: TV Lounge, Detroit on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Zoe Talley is a house and techno artist based in United States of America, with 
 
 AK (US), Fullbodydurag, jamea.
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zoetalley/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zoetalley/)*

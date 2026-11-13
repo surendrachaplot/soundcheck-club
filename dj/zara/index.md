@@ -1,8 +1,8 @@
 # Zara
 
-Zara is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Sektor Evolution, Dresden on Sat, 21 Nov 2026.
+Zara is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Sektor Evolution, Dresden on Sat, 21 Nov 2026.
 
-Zara is a techno and experimental artist based in Australia, with 82 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 26 more. Often billed alongside Andy Garvey, Tangerine and Agonis. Next up: Sektor Evolution, Dresden on Sat 21 Nov.
+Zara is a techno and trance artist based in Australia, with 83 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 26 more. Often billed alongside Andy Garvey, Tangerine and Agonis. Next up: Sektor Evolution, Dresden on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Zara is a techno and experimental artist based in Australia, with 82 gigs on sou
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Sektor Evolution | Dresden |
 | Fri, 27 Nov 2026 | TBA - Budawangs | New-south-wales |
+| Sat, 5 Dec 2026 | TBA - INNER WEST | Sydney |
 | Sat, 30 Jan 2027 | Collingwood Children's Farm | Melbourne |
 
 ## Recently played
@@ -27,4 +28,4 @@ Zara is a techno and experimental artist based in Australia, with 82 gigs on sou
 
 Andy Garvey, Tangerine, Agonis
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zara/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zara/)*

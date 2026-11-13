@@ -1,14 +1,13 @@
 # Descent
 
-Descent is a music venue in Boston with 7 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Fast Forward presents LOSTBOYJAY" on Thu, 12 Nov 2026.
+Descent is a music venue in Boston with 6 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "After Brunch presents: Rafa Barrios" on Fri, 13 Nov 2026.
 
-Descent is a music venue in Boston listed on soundcheck. 7 upcoming gigs, with line-ups including BLXSS, Cam Stockman, D.Dan and DVS1 and 2 more. See dates, start times and who's playing. 33 Dunster St, Camridge MA,02138.
+Descent is a music venue in Boston listed on soundcheck. 6 upcoming gigs, with line-ups including BLXSS, Cam Stockman, D.Dan and DVS1 and 2 more. See dates, start times and who's playing. 33 Dunster St, Camridge MA,02138.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 12 Nov 2026 | Fast Forward presents LOSTBOYJAY | LOSTBOYJAY |
 | Fri, 13 Nov 2026 | After Brunch presents: Rafa Barrios | FridaY (DE), Juju, Rafa Barrios |
 | Thu, 19 Nov 2026 | Club Culture: DVS1 & Meschwitz | DVS1, Meschwitz |
 | Fri, 20 Nov 2026 | RedEye Anniversary: B2B NIGHT | BLXSS, Nanoos, shekdash |
@@ -20,4 +19,4 @@ Descent is a music venue in Boston listed on soundcheck. 7 upcoming gigs, with l
 
 33 Dunster St, Camridge MA,02138, Boston
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/boston/club/descent/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/boston/club/descent/)*

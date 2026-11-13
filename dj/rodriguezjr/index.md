@@ -1,14 +1,15 @@
 # Rodriguez Jr.
 
-Rodriguez Jr. is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Wet Deck at W Hotel, Kuala Lumpur on Fri, 11 Dec 2026.
+Rodriguez Jr. is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Wet Deck at W Hotel, Kuala Lumpur on Fri, 11 Dec 2026.
 
-Rodriguez Jr. is a house and techno artist based in United States of America, with 146 gigs on soundcheck across Amsterdam, Auckland, Austin and Bali and 45 more. Often billed alongside Nick Warren, Bart Skils and Konstantin Sibold. Next up: Wet Deck at W Hotel, Kuala Lumpur on Fri 11 Dec.
+Rodriguez Jr. is a house and techno artist based in United States of America, with 147 gigs on soundcheck across Amsterdam, Auckland, Austin and Bali and 45 more. Often billed alongside Nick Warren, Bart Skils and Konstantin Sibold. Next up: Wet Deck at W Hotel, Kuala Lumpur on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Dec 2026 | Wet Deck at W Hotel | Kuala Lumpur |
+| Sat, 19 Dec 2026 | Zumana Bali | Bali |
 | Sat, 30 Jan 2027 | Igloofest | Montreal |
 
 ## Recently played
@@ -26,4 +27,4 @@ Rodriguez Jr. is a house and techno artist based in United States of America, wi
 
 Nick Warren, Bart Skils, Konstantin Sibold
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rodriguezjr/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rodriguezjr/)*

@@ -1,8 +1,8 @@
 # Peach
 
-Peach is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Kinki, Manila on Fri, 20 Nov 2026.
+Peach is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Kinki, Manila on Fri, 20 Nov 2026.
 
-Peach is a house and techno artist based in Canada, with 241 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Bali and 63 more. Often billed alongside Shanti Celeste, Gabrielle Kwarteng and Saoirse. Next up: Kinki, Manila on Fri 20 Nov.
+Peach is a house and techno artist based in Canada, with 242 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Bali and 64 more. Often billed alongside Shanti Celeste, Gabrielle Kwarteng and Saoirse. Next up: Kinki, Manila on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Peach is a house and techno artist based in Canada, with 241 gigs on soundcheck 
 | Thu, 31 Dec 2026 | Les Enfants Brillants | Barcelona |
 | Fri, 5 Mar 2027 | Moyston | Melbourne |
 | Sat, 6 Mar 2027 | Meredith Supernatural Ampitheatre | Melbourne |
+| Fri, 9 Apr 2027 | Mercado Livre Arena Pacaembu | Sao-paulo |
 | Fri, 28 May 2027 | Peckham Rye Park | London |
 | Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
 | Thu, 19 Aug 2027 | The Garden Tisno | Croatia |
@@ -34,4 +35,4 @@ Peach is a house and techno artist based in Canada, with 241 gigs on soundcheck 
 
 Shanti Celeste, Gabrielle Kwarteng, Saoirse
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peach/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peach/)*

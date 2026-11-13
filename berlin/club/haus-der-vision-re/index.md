@@ -1,6 +1,6 @@
 # Haus der Visionäre
 
-Haus der Visionäre is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "!K7 pres. DJ-Kicks - All Day" on Sun, 13 Dec 2026.
+Haus der Visionäre is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "!K7 pres. DJ-Kicks - All Day" on Sun, 13 Dec 2026.
 
 Haus der Visionäre is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including Gudrun Gut, Kabeaushé, Modeselektor and Natalie Robinson and 2 more. See dates, start times and who's playing. Eichenstr. 4a, 12435 Berlin.
 
@@ -15,4 +15,4 @@ Haus der Visionäre is a music venue in Berlin listed on soundcheck. 2 upcoming 
 
 Eichenstr. 4a, 12435 Berlin, Berlin
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/haus-der-vision-re/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/haus-der-vision-re/)*

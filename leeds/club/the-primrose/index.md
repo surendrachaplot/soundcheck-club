@@ -1,6 +1,6 @@
 # The Primrose
 
-The Primrose is a music venue in Leeds with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "WEIRDITUDE - ONE LAST NIGHT IN LEEDS" on Sat, 14 Nov 2026.
+The Primrose is a music venue in Leeds with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "WEIRDITUDE - ONE LAST NIGHT IN LEEDS" on Sat, 14 Nov 2026.
 
 The Primrose is a music venue in Leeds listed on soundcheck. 2 upcoming gigs, with line-ups including Chris Kitchen, Pete Melba and Roya Brehl. See dates, start times and who's playing. 280 Meanwood Road Leeds LS7 2HZ.
 
@@ -15,4 +15,4 @@ The Primrose is a music venue in Leeds listed on soundcheck. 2 upcoming gigs, wi
 
 280 Meanwood Road Leeds LS7 2HZ, Leeds
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-primrose/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-primrose/)*

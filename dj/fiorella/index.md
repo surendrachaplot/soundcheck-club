@@ -1,6 +1,6 @@
 # Fiorella
 
-Fiorella is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at The Range, Turin on Fri, 13 Nov 2026.
+Fiorella is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Range, Turin on Fri, 13 Nov 2026.
 
 Fiorella is a tech house and techno artist based in Italy, with 31 gigs on soundcheck across Austria, Buenos Aires, London and Madrid and 6 more. Often billed alongside Nicola Gavino, YOUniverse and ANXHELA. Next up: The Range, Turin on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Fiorella is a tech house and techno artist based in Italy, with 31 gigs on sound
 
 Nicola Gavino, YOUniverse, ANXHELA
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fiorella/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fiorella/)*

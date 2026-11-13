@@ -1,6 +1,6 @@
 # Ebony Willis
 
-Ebony Willis is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at QQQ ST. Park, Melbourne on Sat, 19 Dec 2026.
+Ebony Willis is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at QQQ ST. Park, Melbourne on Sat, 19 Dec 2026.
 
 Ebony Willis is a techno and trance artist based in Australia, with 37 gigs on soundcheck across Berlin, Byron Bay, Canberra and Copenhagen and 3 more. Often billed alongside Notion (AU), Autogenesis and Laura King. Next up: QQQ ST. Park, Melbourne on Sat 19 Dec.
 
@@ -26,4 +26,4 @@ Ebony Willis is a techno and trance artist based in Australia, with 37 gigs on s
 
 Notion (AU), Autogenesis, Laura King
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ebonywillis/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ebonywillis/)*

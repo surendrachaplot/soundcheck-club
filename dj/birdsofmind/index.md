@@ -1,6 +1,6 @@
 # Birds of Mind
 
-Birds of Mind is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at 77, London on Sat, 12 Dec 2026.
+Birds of Mind is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at 77, London on Sat, 12 Dec 2026.
 
 Birds of Mind is a house and deep house artist based in France, with 74 gigs on soundcheck across Amsterdam, Athens, Barcelona and Dubai and 18 more. Often billed alongside Parallelle, Bedouin and Colyn. Next up: 77, London on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Birds of Mind is a house and deep house artist based in France, with 74 gigs on 
 
 Parallelle, Bedouin, Colyn
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/birdsofmind/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/birdsofmind/)*

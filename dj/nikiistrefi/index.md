@@ -1,6 +1,6 @@
 # Niki Istrefi
 
-Niki Istrefi is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Tunnel, Milan on Sat, 5 Dec 2026.
+Niki Istrefi is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Tunnel, Milan on Sat, 5 Dec 2026.
 
 Niki Istrefi is a techno and trance artist based in Denmark, with 14 gigs on soundcheck across Barcelona, Berlin, Budapest and Copenhagen and 6 more. Often billed alongside Boston 168, VEL (MA) and WNDRLST. Next up: Tunnel, Milan on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Niki Istrefi is a techno and trance artist based in Denmark, with 14 gigs on sou
 
 Boston 168, VEL (MA), WNDRLST
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nikiistrefi/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nikiistrefi/)*

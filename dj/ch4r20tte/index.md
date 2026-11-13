@@ -1,6 +1,6 @@
 # ch4r20tte
 
-ch4r20tte is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at ://about blank, Berlin on Fri, 27 Nov 2026.
+ch4r20tte is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at ://about blank, Berlin on Fri, 27 Nov 2026.
 
 ch4r20tte is a techno and trance artist based in Germany, with 36 gigs on soundcheck across Basel, Berlin, Dresden and Heidelberg and 1 more. Often billed alongside DJ ritalino, Gladee and NACHTIGALL. Next up: ://about blank, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ ch4r20tte is a techno and trance artist based in Germany, with 36 gigs on soundc
 
 DJ ritalino, Gladee, NACHTIGALL
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ch4r20tte/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ch4r20tte/)*

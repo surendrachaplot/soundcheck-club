@@ -1,6 +1,6 @@
 # Badaboum
 
-Badaboum is a music venue in Paris with 17 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. The next is "Marli & Master c-fu (all night long)" on Fri, 13 Nov 2026.
+Badaboum is a music venue in Paris with 17 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Marli & Master c-fu (all night long)" on Fri, 13 Nov 2026.
 
 Badaboum is a music venue in Paris listed on soundcheck. 17 upcoming gigs, with line-ups including fka.m4a, Marli, Master c-fu and Olympe4000. See dates, start times and who's playing. 2 bis rue des Taillandiers; 75011; Paris; France.
 
@@ -23,4 +23,4 @@ Badaboum is a music venue in Paris listed on soundcheck. 17 upcoming gigs, with 
 
 2 bis rue des Taillandiers; 75011; Paris; France, Paris
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/badaboum/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/badaboum/)*

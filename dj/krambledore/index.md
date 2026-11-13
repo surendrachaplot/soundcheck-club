@@ -1,6 +1,6 @@
 # Krambledore
 
-Krambledore is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Club Paula, Dresden on Sat, 21 Nov 2026.
+Krambledore is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Club Paula, Dresden on Sat, 21 Nov 2026.
 
 Krambledore is a drum & bass and techno artist based in Germany, with 18 gigs on soundcheck across Dresden and Leipzig. Often billed alongside Blightz, PiJay and MNCHLD. Next up: Club Paula, Dresden on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Krambledore is a drum & bass and techno artist based in Germany, with 18 gigs on
 
 Blightz, PiJay, MNCHLD
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krambledore/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krambledore/)*

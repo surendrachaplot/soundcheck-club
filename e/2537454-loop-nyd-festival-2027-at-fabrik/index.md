@@ -1,6 +1,6 @@
 # LOOP NYD FESTIVAL 2027 at Fabrik
 
-LOOP NYD FESTIVAL 2027 at Fabrik on Fri 1 Jan, Madrid. 21 artists: Adrian Mills, Alex Clap, Andres Campo and Anthony Godfather and 17 more. See the line-up on soundcheck.
+LOOP NYD FESTIVAL 2027 at Fabrik on Fri 1 Jan, Madrid. 27 artists: Adrian Mills, Alex Clap, Alignment and Andres Campo and 23 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,10 +12,15 @@ LOOP NYD FESTIVAL 2027 at Fabrik on Fri 1 Jan, Madrid. 21 artists: Adrian Mills,
 
 - Adrian Mills
 - Alex Clap
+- Alignment
 - Andres Campo
 - Anthony Godfather (2)
 - ART NO LOGIA
+- CESAR ALMENA
+- Charlie Sparks
 - Chelina Manuhutu
+- Dhuna
+- DIØN
 - Frank Storm
 - fumi (DE)
 - GAB (ES)
@@ -27,6 +32,7 @@ LOOP NYD FESTIVAL 2027 at Fabrik on Fri 1 Jan, Madrid. 21 artists: Adrian Mills,
 - Mason Collective
 - Matthias Tanzmann
 - Michenlo
+- Nuke
 - Paco Osuna
 - Vanee
 - Wally Lopez

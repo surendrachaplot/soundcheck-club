@@ -1,6 +1,6 @@
 # K-MEL
 
-K-MEL is a Hardcore and Industrial artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Forge, Bucharest on Sat, 21 Nov 2026.
+K-MEL is a Hardcore and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Forge, Bucharest on Sat, 21 Nov 2026.
 
 K-MEL is a hardcore and industrial artist based in Venezuela, with 8 gigs on soundcheck across Bucharest, Budapest, Marseille and Medellin and 4 more. Often billed alongside DA NA, GODINI and 5ogol. Next up: Forge, Bucharest on Sat 21 Nov.
 
@@ -24,4 +24,4 @@ K-MEL is a hardcore and industrial artist based in Venezuela, with 8 gigs on sou
 
 DA NA, GODINI, 5ogol
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/k-mel/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/k-mel/)*

@@ -1,6 +1,6 @@
 # Beate Invites /// HOUSE QUEENS at Beate Uwe
 
-Beate Invites /// HOUSE QUEENS at Beate Uwe on Sat 21 Nov, Berlin. 8 artists: Cardi-O, Cora Lee, Kristina Sheli and LIZZN and 4 more. House and Deep House. See the line-up on soundcheck.
+Beate Invites /// HOUSE QUEENS at Beate Uwe on Sat 21 Nov, Berlin. 9 artists: Anaîka, Cardi-O, Cora Lee and Kristina Sheli and 5 more. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Beate Invites /// HOUSE QUEENS at Beate Uwe on Sat 21 Nov, Berlin. 8 artists: Ca
 
 ## Line-up
 
+- Anaîka
 - Cardi-O
 - Cora Lee
 - Kristina Sheli

@@ -1,6 +1,6 @@
 # Disco Arabesquo
 
-Disco Arabesquo is a Disco and Pop artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Cairo Jazz Club, Egypt on Thu, 31 Dec 2026.
+Disco Arabesquo is a Disco and Pop artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Cairo Jazz Club, Egypt on Thu, 31 Dec 2026.
 
 Disco Arabesquo is a disco and pop artist based in Netherlands, with 14 gigs on soundcheck across Amsterdam, Barcelona, Dubai and Dublin and 2 more. Often billed alongside Cascou, Moving Still and Arabian Panther. Next up: Cairo Jazz Club, Egypt on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Disco Arabesquo is a disco and pop artist based in Netherlands, with 14 gigs on 
 
 Cascou, Moving Still, Arabian Panther
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/discoarabesquo/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/discoarabesquo/)*

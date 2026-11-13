@@ -1,6 +1,6 @@
 # Juju Manju
 
-Juju Manju is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Sacré, Paris on Sat, 28 Nov 2026.
+Juju Manju is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Sacré, Paris on Sat, 28 Nov 2026.
 
 Juju Manju is a house and deep house artist based in Portugal, with 29 gigs on soundcheck across Bangkok, Lisbon, Paris and Tokyo. Often billed alongside manju, Moulin.music and Fabich. Next up: Sacré, Paris on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Juju Manju is a house and deep house artist based in Portugal, with 29 gigs on s
 
 manju, Moulin.music, Fabich
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jujumanju/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jujumanju/)*

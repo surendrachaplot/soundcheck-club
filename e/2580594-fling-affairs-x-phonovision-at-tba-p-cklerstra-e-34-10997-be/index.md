@@ -1,6 +1,6 @@
 # fling affairs x PhonoVision at TBA - Pücklerstraße 34, 10997 Berlin
 
-fling affairs x PhonoVision at TBA - Pücklerstraße 34, 10997 Berlin on Sun 13 Dec, Berlin. 8 artists: AichaJinete, babymullet, charli/e and DJ Fucks Himself and 4 more. House and Garage. See the line-up on soundcheck.
+fling affairs x PhonoVision at TBA - Pücklerstraße 34, 10997 Berlin on Sun 13 Dec, Berlin. 8 artists: babymullet, charli/e, DJ Fucks Himself and Florian Pas and 4 more. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ fling affairs x PhonoVision at TBA - Pücklerstraße 34, 10997 Berlin on Sun 13 
 
 ## Line-up
 
-- AichaJinete
 - babymullet
 - charli/e
 - DJ Fucks Himself
@@ -18,5 +17,6 @@ fling affairs x PhonoVision at TBA - Pücklerstraße 34, 10997 Berlin on Sun 13 
 - HiHat
 - play/us
 - Shmonèss
+- Souci
 
 *Source: [soundcheck](https://soundcheck.club/e/2580594-fling-affairs-x-phonovision-at-tba-p-cklerstra-e-34-10997-be/)*

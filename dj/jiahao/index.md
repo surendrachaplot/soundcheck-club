@@ -1,6 +1,6 @@
 # Jiahao
 
-Jiahao is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Groundless Factory, Beijing on Sat, 21 Nov 2026.
+Jiahao is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Groundless Factory, Beijing on Sat, 21 Nov 2026.
 
 Jiahao is a house and minimal artist based in China, with 55 gigs on soundcheck across Beijing and Shanghai. Often billed alongside SunMeng, Nigls and Kai.F. Next up: Groundless Factory, Beijing on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Jiahao is a house and minimal artist based in China, with 55 gigs on soundcheck 
 
 SunMeng, Nigls, Kai.F
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jiahao/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jiahao/)*

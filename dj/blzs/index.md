@@ -1,13 +1,14 @@
 # BLZS
 
-BLZS is a Techno and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Tresor / Globus, Berlin on Mon, 28 Dec 2026.
+BLZS is a Techno and Dub Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Vektor - The Klub, Budapest on Fri, 18 Dec 2026.
 
-BLZS is a techno and dub techno artist based in Hungary, with 13 gigs on soundcheck across Berlin, Birmingham and Budapest. Often billed alongside Cvrdwell, AGA2L and Ackermann. Next up: Tresor / Globus, Berlin on Mon 28 Dec.
+BLZS is a techno and dub techno artist based in Hungary, with 14 gigs on soundcheck across Berlin, Birmingham and Budapest. Often billed alongside Cvrdwell, AGA2L and Indirect Movement. Next up: Vektor - The Klub, Budapest on Fri 18 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Dec 2026 | Vektor - The Klub | Budapest |
 | Mon, 28 Dec 2026 | Tresor / Globus | Berlin |
 | Tue, 29 Dec 2026 | Tresor / Globus | Berlin |
 
@@ -24,6 +25,6 @@ BLZS is a techno and dub techno artist based in Hungary, with 13 gigs on soundch
 
 ## Shares bills with
 
-Cvrdwell, AGA2L, Ackermann
+Cvrdwell, AGA2L, Indirect Movement
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blzs/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blzs/)*

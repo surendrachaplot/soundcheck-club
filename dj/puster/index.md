@@ -1,6 +1,6 @@
 # PUSTER
 
-PUSTER is a Techno and Psytrance artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at SEL OCTAGON TOKYO, Tokyo on Wed, 18 Nov 2026.
+PUSTER is a Techno and Psytrance artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at SEL OCTAGON TOKYO, Tokyo on Wed, 18 Nov 2026.
 
 PUSTER is a techno and psytrance artist based in Japan, with 66 gigs on soundcheck across Tokyo. Often billed alongside Kojiro, DANDAN and RYOOKY. Next up: SEL OCTAGON TOKYO, Tokyo on Wed 18 Nov.
 
@@ -26,4 +26,4 @@ PUSTER is a techno and psytrance artist based in Japan, with 66 gigs on soundche
 
 Kojiro, DANDAN, RYOOKY
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/puster/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/puster/)*

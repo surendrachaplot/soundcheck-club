@@ -1,6 +1,6 @@
 # Joanna Lenta
 
-Joanna Lenta is a Downtempo and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Beate Uwe, Berlin on Sun, 27 Dec 2026.
+Joanna Lenta is a Downtempo and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Beate Uwe, Berlin on Sun, 27 Dec 2026.
 
 Joanna Lenta is a downtempo and deep house artist based in Germany, with 16 gigs on soundcheck across Berlin. Often billed alongside K2W0, Colsen and Gazbee. Next up: Beate Uwe, Berlin on Sun 27 Dec.
 
@@ -25,4 +25,4 @@ Joanna Lenta is a downtempo and deep house artist based in Germany, with 16 gigs
 
 K2W0, Colsen, Gazbee
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joannalenta/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joannalenta/)*

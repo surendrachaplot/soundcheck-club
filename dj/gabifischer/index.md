@@ -1,6 +1,6 @@
 # Gabi Fischer
 
-Gabi Fischer is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Âmago, Sao Paulo on Thu, 19 Nov 2026.
+Gabi Fischer is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Âmago, Sao Paulo on Thu, 19 Nov 2026.
 
 Gabi Fischer is a house and techno artist based in Brazil, with 34 gigs on soundcheck across Berlin, Rio de Janeiro and Sao Paulo. Often billed alongside PR.A.DO, Dj Melted and Kair. Next up: Âmago, Sao Paulo on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Gabi Fischer is a house and techno artist based in Brazil, with 34 gigs on sound
 
 PR.A.DO, Dj Melted, Kair
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabifischer/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabifischer/)*

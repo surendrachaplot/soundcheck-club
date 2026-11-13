@@ -1,8 +1,8 @@
 # 2ManyDJs
 
-2ManyDJs is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at BASE Milano, Milan on Sat, 14 Nov 2026.
+2ManyDJs is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at BASE Milano, Milan on Sat, 14 Nov 2026.
 
-2ManyDJs is a house and techno artist based in Belgium, with 75 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 31 more. Often billed alongside Erol Alkan, Tiga and Bolis Pupul. Next up: BASE Milano, Milan on Sat 14 Nov.
+2ManyDJs is a house and techno artist based in Belgium, with 76 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 31 more. Often billed alongside Erol Alkan, Tiga and Bolis Pupul. Next up: BASE Milano, Milan on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@
 | Sat, 28 Nov 2026 | Nitsa Club | Barcelona |
 | Fri, 18 Dec 2026 | Are You Affiliated | Newcastle |
 | Sat, 19 Dec 2026 | Depot Mayfield | Manchester |
+| Fri, 15 Jan 2027 | Hacienda Club | Rome |
 | Mon, 5 Apr 2027 | TBA - Mayrhofen, Austria | Austria |
 
 ## Recently played
@@ -29,4 +30,4 @@
 
 Erol Alkan, Tiga, Bolis Pupul
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/2manydjs/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/2manydjs/)*

@@ -1,6 +1,6 @@
 # Pascal Viscardi
 
-Pascal Viscardi is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Canal 54, Geneva on Fri, 13 Nov 2026.
+Pascal Viscardi is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Canal 54, Geneva on Fri, 13 Nov 2026.
 
 Pascal Viscardi is a house and italo disco artist based in Switzerland, with 9 gigs on soundcheck across Geneva, Ho Chi Minh City, Milan and Seoul. Often billed alongside Tommiboy, Artmaillé and Baxa. Next up: Canal 54, Geneva on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Pascal Viscardi is a house and italo disco artist based in Switzerland, with 9 g
 
 Tommiboy, Artmaillé, Baxa
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pascalviscardi/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pascalviscardi/)*

@@ -1,6 +1,6 @@
 # DJ Scribe
 
-DJ Scribe is a Experimental and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at public records, New York City on Sat, 26 Dec 2026.
+DJ Scribe is a Experimental and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at public records, New York City on Sat, 26 Dec 2026.
 
 DJ Scribe is an experimental and house artist based in United States of America, with 12 gigs on soundcheck across New York City. Often billed alongside Boo Lean, DJ Kibachan and DJ Shannon. Next up: public records, New York City on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ DJ Scribe is an experimental and house artist based in United States of America,
 
 Boo Lean, DJ Kibachan, DJ Shannon
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djscribe/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djscribe/)*

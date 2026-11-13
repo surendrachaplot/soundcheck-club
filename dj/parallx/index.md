@@ -1,6 +1,6 @@
 # Parallx
 
-Parallx is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at MTW, Frankfurt on Sat, 14 Nov 2026.
+Parallx is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at MTW, Frankfurt on Sat, 14 Nov 2026.
 
 Parallx is a techno and industrial artist based in Germany, with 145 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 55 more. Often billed alongside Acierate, RIKHTER and Tham. Next up: MTW, Frankfurt on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Parallx is a techno and industrial artist based in Germany, with 145 gigs on sou
 
 Acierate, RIKHTER, Tham
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/parallx/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/parallx/)*

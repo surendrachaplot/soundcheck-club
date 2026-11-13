@@ -1,6 +1,6 @@
 # Lewis OfMan at Botanique
 
-Lewis OfMan at Botanique on Wed 10 Feb, Brussels. 1 artist: Lewis OfMan. See the line-up on soundcheck.
+Lewis OfMan at Botanique on Wed 10 Feb, Brussels. 1 artist: Lewis OfMan. Electro and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

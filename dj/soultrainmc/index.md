@@ -1,6 +1,6 @@
 # Soultrain MC
 
-Soultrain MC is a Techno and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at OST, Berlin on Sat, 12 Dec 2026.
+Soultrain MC is a Techno and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at OST, Berlin on Sat, 12 Dec 2026.
 
 Soultrain MC is a techno and jungle artist based in Germany, with 11 gigs on soundcheck across Berlin, Hamburg and Mannheim. Often billed alongside Diaz-Soto, Dj Quien and Wittes. Next up: OST, Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Soultrain MC is a techno and jungle artist based in Germany, with 11 gigs on sou
 
 Diaz-Soto, Dj Quien, Wittes
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soultrainmc/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soultrainmc/)*

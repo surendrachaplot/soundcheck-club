@@ -1,6 +1,6 @@
 # Trendy Wendy
 
-Trendy Wendy is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at The Street, Edinburgh on Fri, 13 Nov 2026.
+Trendy Wendy is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Street, Edinburgh on Fri, 13 Nov 2026.
 
 Trendy Wendy is a disco and house artist based in United Kingdom, with 79 gigs on soundcheck across Edinburgh. Often billed alongside Mairi 'b' Pots, DJ Zak from Bolton and Steve Austin. Next up: The Street, Edinburgh on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Trendy Wendy is a disco and house artist based in United Kingdom, with 79 gigs o
 
 Mairi 'b' Pots, DJ Zak from Bolton, Steve Austin
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trendywendy/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trendywendy/)*

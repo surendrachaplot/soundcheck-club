@@ -1,6 +1,6 @@
 # xMachina
 
-xMachina is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Vittoria Wharf Studio, London on Sat, 30 Jan 2027.
+xMachina is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Vittoria Wharf Studio, London on Sat, 30 Jan 2027.
 
 xMachina is a techno and house artist based in Italy, with 13 gigs on soundcheck across Berlin and London. Often billed alongside HORN-E, Stellarator and AKWA. Next up: Vittoria Wharf Studio, London on Sat 30 Jan.
 
@@ -25,4 +25,4 @@ xMachina is a techno and house artist based in Italy, with 13 gigs on soundcheck
 
 HORN-E, Stellarator, AKWA
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xmachina/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xmachina/)*

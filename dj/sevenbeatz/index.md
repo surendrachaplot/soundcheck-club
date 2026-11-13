@@ -1,6 +1,6 @@
 # Sevenbeatz
 
-Sevenbeatz is a Reggaeton and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Bien Public, Bordeaux on Fri, 15 Jan 2027.
+Sevenbeatz is a Reggaeton and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Bien Public, Bordeaux on Fri, 15 Jan 2027.
 
 Sevenbeatz is a reggaeton and house artist based in France, with 40 gigs on soundcheck across Bordeaux, Lyon, Madrid and Marseille and 3 more. Often billed alongside Saari, Anaco and L'Orangeade. Next up: Bien Public, Bordeaux on Fri 15 Jan.
 
@@ -25,4 +25,4 @@ Sevenbeatz is a reggaeton and house artist based in France, with 40 gigs on soun
 
 Saari, Anaco, L'Orangeade
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sevenbeatz/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sevenbeatz/)*

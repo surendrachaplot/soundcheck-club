@@ -1,6 +1,6 @@
 # Mattia Onori
 
-Mattia Onori is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - a chapel in neukölln, Berlin on Sun, 13 Dec 2026.
+Mattia Onori is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - a chapel in neukölln, Berlin on Sun, 13 Dec 2026.
 
 Mattia Onori is an experimental and ambient artist based in Germany, with 8 gigs on soundcheck across Berlin. Often billed alongside Ascion, Born in 1986 and Brasi. Next up: TBA - a chapel in neukölln, Berlin on Sun 13 Dec.
 
@@ -24,4 +24,4 @@ Mattia Onori is an experimental and ambient artist based in Germany, with 8 gigs
 
 Ascion, Born in 1986, Brasi
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mattiaonori/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mattiaonori/)*

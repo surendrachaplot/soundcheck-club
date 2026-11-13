@@ -1,6 +1,6 @@
 # EDGAR KERRI
 
-EDGAR KERRI is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Club Malasaña, Madrid on Fri, 20 Nov 2026.
+EDGAR KERRI is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Club Malasaña, Madrid on Fri, 20 Nov 2026.
 
 EDGAR KERRI is an electronica and house artist based in Spain, with 14 gigs on soundcheck across Madrid. Often billed alongside MYGAL, ANDREA VANDALL and LOVEFOXY. Next up: Club Malasaña, Madrid on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ EDGAR KERRI is an electronica and house artist based in Spain, with 14 gigs on s
 
 MYGAL, ANDREA VANDALL, LOVEFOXY
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edgarkerri/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edgarkerri/)*

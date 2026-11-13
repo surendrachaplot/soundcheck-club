@@ -1,6 +1,6 @@
 # Joplyn
 
-Joplyn is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Radius, Chicago on Fri, 1 Jan 2027.
+Joplyn is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Radius, Chicago on Fri, 1 Jan 2027.
 
 Joplyn is a house and techno artist based in Germany, with 69 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Chicago and 24 more. Often billed alongside Agents Of Time, Colyn and Deer Jade. Next up: Radius, Chicago on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Joplyn is a house and techno artist based in Germany, with 69 gigs on soundcheck
 
 Agents Of Time, Colyn, Deer Jade
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joplyn/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joplyn/)*

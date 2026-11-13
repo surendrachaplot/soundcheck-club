@@ -1,6 +1,6 @@
 # Move Mózg 11 Years / Yesca at Kaskada
 
-Move Mózg 11 Years / Yesca at Kaskada on Fri 4 Dec, Warsaw. 4 artists: Cyryl, daisy cutter, Ola Teks and Yesca. Techno and House. See the line-up on soundcheck.
+Move Mózg 11 Years / Yesca at Kaskada on Fri 4 Dec, Warsaw. 5 artists: Cyryl, daisy cutter, igor.z.komo and Ola Teks and 1 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Move Mózg 11 Years / Yesca at Kaskada on Fri 4 Dec, Warsaw. 4 artists: Cyryl, d
 
 - Cyryl
 - daisy cutter
+- igor.z.komo
 - Ola Teks
 - Yesca
 

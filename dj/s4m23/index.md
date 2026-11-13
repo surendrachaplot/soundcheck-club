@@ -1,14 +1,15 @@
 # S4M23
 
-S4M23 is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Paragon, New York City on Fri, 4 Dec 2026.
+S4M23 is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Paragon, New York City on Fri, 4 Dec 2026.
 
-S4M23 is a techno and house artist based in United States of America, with 88 gigs on soundcheck across Athens, Austin, Berlin and Boston and 9 more. Often billed alongside Mike Servito, Lauren Flax and Miss Parker. Next up: Paragon, New York City on Fri 4 Dec.
+S4M23 is a techno and house artist based in United States of America, with 89 gigs on soundcheck across Athens, Austin, Berlin and Boston and 9 more. Often billed alongside Mike Servito, Lauren Flax and Miss Parker. Next up: Paragon, New York City on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | Paragon | New York City |
+| Fri, 11 Dec 2026 | Qncc | New York City |
 | Sat, 12 Dec 2026 | BASEMENT | New York City |
 | Sat, 26 Dec 2026 | public records | New York City |
 | Thu, 31 Dec 2026 | Nowadays | New York City |
@@ -28,4 +29,4 @@ S4M23 is a techno and house artist based in United States of America, with 88 gi
 
 Mike Servito, Lauren Flax, Miss Parker
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/s4m23/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/s4m23/)*

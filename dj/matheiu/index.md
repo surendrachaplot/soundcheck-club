@@ -1,6 +1,6 @@
 # Matheiu
 
-Matheiu is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at Rama Soundgarden, Medellin on Fri, 13 Nov 2026.
+Matheiu is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Rama Soundgarden, Medellin on Fri, 13 Nov 2026.
 
 Matheiu is a house and minimal artist based in Venezuela, with 51 gigs on soundcheck across Barcelona, Berlin, Bogotá and Medellin. Often billed alongside Salvador Hören, Hören and Martin Leaves. Next up: Rama Soundgarden, Medellin on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Matheiu is a house and minimal artist based in Venezuela, with 51 gigs on soundc
 
 Salvador Hören, Hören, Martin Leaves
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matheiu/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matheiu/)*

@@ -1,14 +1,14 @@
 # Zayd
 
-Zayd is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - TBA, New York City on Fri, 13 Nov 2026.
+Zayd is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - 20 MEADOW STREET BK NYC, New York City on Fri, 13 Nov 2026.
 
-Zayd is a house and techno artist based in Lebanon, with 37 gigs on soundcheck across New York City and San Diego. Often billed alongside Armii1n, Choukroun and Monk. Next up: TBA - TBA, New York City on Fri 13 Nov.
+Zayd is a house and techno artist based in Lebanon, with 37 gigs on soundcheck across New York City and San Diego. Often billed alongside Armii1n, Choukroun and Monk. Next up: TBA - 20 MEADOW STREET BK NYC, New York City on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | TBA - TBA | New York City |
+| Fri, 13 Nov 2026 | TBA - 20 MEADOW STREET BK NYC | New York City |
 | Sat, 21 Nov 2026 | TBA - East Williamsburg | New York City |
 
 ## Recently played
@@ -26,4 +26,4 @@ Zayd is a house and techno artist based in Lebanon, with 37 gigs on soundcheck a
 
 Armii1n, Choukroun, Monk (2)
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zayd/)*
+*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zayd/)*
