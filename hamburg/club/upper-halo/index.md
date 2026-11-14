@@ -1,6 +1,6 @@
 # Upper Halo
 
-Upper Halo is a music venue in Hamburg with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "Sinner Circle - A kinky Xmas" on Fri, 4 Dec 2026.
+Upper Halo is a music venue in Hamburg with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. The next is "Sinner Circle - A kinky Xmas" on Fri, 4 Dec 2026.
 
 Upper Halo is a music venue in Hamburg listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Upper Halo is a music venue in Hamburg listed on soundcheck. 1 upcoming gig. See
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | Sinner Circle - A kinky Xmas |  |
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/upper-halo/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/upper-halo/)*

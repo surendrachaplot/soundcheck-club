@@ -1,6 +1,6 @@
 # Assailants
 
-Assailants is a Techno and Ghetto Tech artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Radio Estrella, Bogotá on Thu, 19 Nov 2026.
+Assailants is a Techno and Ghetto Tech artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Radio Estrella, Bogotá on Thu, 19 Nov 2026.
 
 Assailants is a techno and ghetto tech artist based in United Kingdom, with 5 gigs on soundcheck across Bogotá, Brussels, Medellin and Mexico City. Often billed alongside Ben Sims, Truncate and Alejandro Franco. Next up: Radio Estrella, Bogotá on Thu 19 Nov.
 
@@ -21,4 +21,4 @@ Assailants is a techno and ghetto tech artist based in United Kingdom, with 5 gi
 
 Ben Sims, Truncate, Alejandro Franco
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/assailants/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/assailants/)*

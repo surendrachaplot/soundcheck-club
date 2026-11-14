@@ -1,6 +1,6 @@
 # funksmack
 
-funksmack is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Dali, Cork on Fri, 27 Nov 2026.
+funksmack is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Dali, Cork on Fri, 27 Nov 2026.
 
 funksmack is a disco and house artist based in Ireland, with 30 gigs on soundcheck across Cork and Dublin. Often billed alongside Danilo Milk, Ricky Chong and A.O.D. Next up: Dali, Cork on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ funksmack is a disco and house artist based in Ireland, with 30 gigs on soundche
 
 Danilo Milk, Ricky Chong, A.O.D
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/funksmack/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/funksmack/)*

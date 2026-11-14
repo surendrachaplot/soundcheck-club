@@ -1,6 +1,6 @@
 # Electrosexual
 
-Electrosexual is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Lark, Berlin on Wed, 18 Nov 2026.
+Electrosexual is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Lark, Berlin on Wed, 18 Nov 2026.
 
 Electrosexual is a techno and house artist based in France, with 38 gigs on soundcheck across Antwerp, Athens, Berlin and Brussels and 5 more. Often billed alongside Mashyno, cristian zanotti and 2FARO. Next up: Lark, Berlin on Wed 18 Nov.
 
@@ -26,4 +26,4 @@ Electrosexual is a techno and house artist based in France, with 38 gigs on soun
 
 Mashyno, cristian zanotti, 2FARO
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/electrosexual/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/electrosexual/)*

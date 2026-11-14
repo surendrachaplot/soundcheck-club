@@ -1,6 +1,6 @@
 # Lucine
 
-Lucine is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Starlane Pizza Bar, London on Sat, 12 Dec 2026.
+Lucine is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Starlane Pizza Bar, London on Sat, 12 Dec 2026.
 
 Lucine is a techno and breakbeat artist based in France, with 17 gigs on soundcheck across London. Often billed alongside FITS ME FUNNY, Sexy G and DELARA. Next up: Starlane Pizza Bar, London on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Lucine is a techno and breakbeat artist based in France, with 17 gigs on soundch
 
 FITS ME FUNNY, Sexy G, DELARA
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucine/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucine/)*

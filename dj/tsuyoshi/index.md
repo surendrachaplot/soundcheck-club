@@ -1,8 +1,8 @@
 # Tsuyoshi Suzuki
 
-Tsuyoshi Suzuki is a Psytrance and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Joule, Osaka on Sat, 14 Nov 2026.
+Tsuyoshi Suzuki is a Psytrance and Techno artist with 7 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Joule, Osaka on Sat, 14 Nov 2026.
 
-Tsuyoshi Suzuki is a psytrance and techno artist based in Japan, with 55 gigs on soundcheck across Athens, Beijing, Melbourne and Osaka and 1 more. Often billed alongside Drunken Kong, ERIMIYA and Ree.K. Next up: Joule, Osaka on Sat 14 Nov.
+Tsuyoshi Suzuki is a psytrance and techno artist based in Japan, with 56 gigs on soundcheck across Athens, Beijing, Kanto and Melbourne and 2 more. Often billed alongside Drunken Kong, ERIMIYA and Ree.K. Next up: Joule, Osaka on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Tsuyoshi Suzuki is a psytrance and techno artist based in Japan, with 55 gigs on
 | Sat, 14 Nov 2026 | Joule | Osaka |
 | Sat, 14 Nov 2026 | Triangle | Osaka |
 | Sat, 14 Nov 2026 | Blvck Water | Osaka |
+| Sat, 21 Nov 2026 | Kobu Camp Village | Kanto |
 | Tue, 29 Dec 2026 | WOMB | Tokyo |
 | Sat, 15 May 2027 | Ooba Camping Village | Tokyo |
 | Sat, 15 May 2027 | おおばキャンプ村 | Tokyo |
@@ -30,4 +31,4 @@ Tsuyoshi Suzuki is a psytrance and techno artist based in Japan, with 55 gigs on
 
 Drunken Kong, ERIMIYA, Ree.K
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tsuyoshi/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tsuyoshi/)*

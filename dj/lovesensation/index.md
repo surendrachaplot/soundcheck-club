@@ -1,6 +1,6 @@
 # Love Sensation
 
-Love Sensation is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Tola, London on Sat, 14 Nov 2026.
+Love Sensation is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Tola, London on Sat, 14 Nov 2026.
 
 Love Sensation is a house and techno artist based in United Kingdom, with 22 gigs on soundcheck across Berlin and London. Often billed alongside MADDØG, Kidcat and DJ-HOTLINE 333. Next up: Tola, London on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Love Sensation is a house and techno artist based in United Kingdom, with 22 gig
 
 MADDØG, Kidcat, DJ-HOTLINE 333
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lovesensation/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lovesensation/)*

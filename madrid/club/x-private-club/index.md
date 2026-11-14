@@ -1,6 +1,6 @@
 # X Private Club
 
-X Private Club is a music venue in Madrid with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Noizze W/ Edor" on Sat, 14 Nov 2026.
+X Private Club is a music venue in Madrid with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Noizze W/ Edor" on Sat, 14 Nov 2026.
 
 X Private Club is a music venue in Madrid listed on soundcheck. 4 upcoming gigs, with line-ups including Albano Bastonero, Iokhonda, Jaime O'Connor and Prompt and 2 more. See dates, start times and who's playing. Madrid.
 
@@ -17,4 +17,4 @@ X Private Club is a music venue in Madrid listed on soundcheck. 4 upcoming gigs,
 
 Madrid, Madrid
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/x-private-club/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/x-private-club/)*

@@ -1,6 +1,6 @@
 # Pinch
 
-Pinch is a Dubstep and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Strange Brew, Bristol on Sat, 12 Dec 2026.
+Pinch is a Dubstep and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Strange Brew, Bristol on Sat, 12 Dec 2026.
 
 Pinch is a dubstep and techno artist based in United Kingdom, with 57 gigs on soundcheck across Amsterdam, Berlin, Bristol and Bucharest and 15 more. Often billed alongside SGT Pokes, Beatrice M. and Yushh. Next up: Strange Brew, Bristol on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Pinch is a dubstep and techno artist based in United Kingdom, with 57 gigs on so
 
 SGT Pokes, Beatrice M., Yushh
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pinch/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pinch/)*

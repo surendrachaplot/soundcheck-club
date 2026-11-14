@@ -1,6 +1,6 @@
 # Yui (JP)
 
-Yui (JP) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at VENT, Tokyo on Fri, 25 Dec 2026.
+Yui (JP) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at VENT, Tokyo on Fri, 25 Dec 2026.
 
 Yui (JP) is a techno and house artist based in Japan, with 58 gigs on soundcheck across Berlin, Kyoto, Osaka and Tbilisi and 1 more. Often billed alongside tnseei, Lynta and Kurea. Next up: VENT, Tokyo on Fri 25 Dec.
 
@@ -25,4 +25,4 @@ Yui (JP) is a techno and house artist based in Japan, with 58 gigs on soundcheck
 
 tnseei, Lynta, Kurea
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yuijp/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yuijp/)*

@@ -1,6 +1,6 @@
 # YSY
 
-YSY is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "room service: Vinyl-Only Night" on Sat, 14 Nov 2026.
+YSY is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "room service: Vinyl-Only Night" on Sat, 14 Nov 2026.
 
 YSY is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including Kijara, Pauli B and RON B. See dates, start times and who's playing. Frankfurter Allee 23.
 
@@ -15,4 +15,4 @@ YSY is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-
 
 Frankfurter Allee 23, Berlin
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ysy/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ysy/)*

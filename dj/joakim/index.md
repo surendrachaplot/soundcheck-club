@@ -1,6 +1,6 @@
 # Joakim
 
-Joakim is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Oddity, Paris on Fri, 20 Nov 2026.
+Joakim is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Oddity, Paris on Fri, 20 Nov 2026.
 
 Joakim is a house and disco artist, with 12 gigs on soundcheck across Barcelona, Bristol, London and Los Angeles and 3 more. Often billed alongside Alexis Le-Tan, Katie Goodman and Tom Roy. Next up: Oddity, Paris on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Joakim is a house and disco artist, with 12 gigs on soundcheck across Barcelona,
 
 Alexis Le-Tan, Katie Goodman, Tom Roy
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joakim/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joakim/)*

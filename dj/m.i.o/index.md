@@ -1,14 +1,15 @@
 # M.I.O
 
-M.I.O is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at R Lounge, Tokyo on Sat, 21 Nov 2026.
+M.I.O is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at R Lounge, Tokyo on Sat, 21 Nov 2026.
 
-M.I.O is a bass and techno artist, with 52 gigs on soundcheck across London and Tokyo. Often billed alongside akii, Aliceyuki and MUNÉO. Next up: R Lounge, Tokyo on Sat 21 Nov.
+M.I.O is a bass and techno artist, with 53 gigs on soundcheck across London and Tokyo. Often billed alongside akii, Aliceyuki and MUNÉO. Next up: R Lounge, Tokyo on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | R Lounge | Tokyo |
+| Thu, 26 Nov 2026 | HVEN | Tokyo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ M.I.O is a bass and techno artist, with 52 gigs on soundcheck across London and 
 
 akii, Aliceyuki, MUNÉO
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/m.i.o/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/m.i.o/)*

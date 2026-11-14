@@ -1,6 +1,6 @@
 # Fernelly
 
-Fernelly is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Signal, New York City on Sat, 21 Nov 2026.
+Fernelly is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Signal, New York City on Sat, 21 Nov 2026.
 
 Fernelly is a house and balearic artist based in United States of America, with 56 gigs on soundcheck across New York City. Often billed alongside Seedy J, SPF 50 and Miles Robbins. Next up: Signal, New York City on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Fernelly is a house and balearic artist based in United States of America, with 
 
 Seedy J, SPF 50, Miles Robbins
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fernelly-us/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fernelly-us/)*

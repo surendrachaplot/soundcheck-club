@@ -1,6 +1,6 @@
 # mark shadow
 
-mark shadow is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at XOYO, London on Wed, 18 Nov 2026.
+mark shadow is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at XOYO, London on Wed, 18 Nov 2026.
 
 mark shadow is a deep house and house artist based in Italy, with 29 gigs on soundcheck across Brighton and London. Often billed alongside KAMEROL, IZZY (UK) and JaeS. Next up: XOYO, London on Wed 18 Nov.
 
@@ -25,4 +25,4 @@ mark shadow is a deep house and house artist based in Italy, with 29 gigs on sou
 
 KAMEROL, IZZY (UK), JaeS
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markshadow/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markshadow/)*

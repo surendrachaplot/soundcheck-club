@@ -1,18 +1,18 @@
 # Ultra DNB
 
-Ultra DNB is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Woodshop, New York City on Fri, 13 Nov 2026.
+Ultra DNB is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at The Woodshop, New York City on Thu, 10 Dec 2026.
 
-Ultra DNB is a drum & bass and jungle artist based in United States of America, with 23 gigs on soundcheck across New York City and Philadelphia. Often billed alongside DJ Nope, BLCKLST and Dave Shichman. Next up: The Woodshop, New York City on Fri 13 Nov.
+Ultra DNB is a drum & bass and jungle artist based in United States of America, with 23 gigs on soundcheck across New York City and Philadelphia. Often billed alongside DJ Nope, BLCKLST and Dave Shichman. Next up: The Woodshop, New York City on Thu 10 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | The Woodshop | New York City |
 | Thu, 10 Dec 2026 | The Woodshop | New York City |
 
 ## Recently played
 
+- The Woodshop, New York City · Fri, 13 Nov 2026
 - Star|Bolt, Philadelphia · Fri, 21 Aug 2026
 - The Meadows, New York City · Sat, 11 Jul 2026
 - The Meadows, New York City · Sat, 13 Jun 2026
@@ -20,10 +20,9 @@ Ultra DNB is a drum & bass and jungle artist based in United States of America, 
 - The Woodshop, New York City · Sat, 28 Feb 2026
 - TBA - The Attic, 20 Meadow Street, New York City · Fri, 27 Feb 2026
 - Elsewhere, New York City · Sat, 7 Feb 2026
-- SILO, New York City · Fri, 30 Jan 2026
 
 ## Shares bills with
 
 DJ Nope, BLCKLST, Dave Shichman
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ultradnb/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ultradnb/)*

@@ -1,6 +1,6 @@
 # Charleen Herzig
 
-Charleen Herzig is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Edelfettwerk, Hamburg on Sat, 14 Nov 2026.
+Charleen Herzig is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Edelfettwerk, Hamburg on Sat, 14 Nov 2026.
 
 Charleen Herzig is a techno and trance artist based in Germany, with 46 gigs on soundcheck across Berlin, Brandenburg, Cologne and Frankfurt and 6 more. Often billed alongside Limoncello, Katy Rough and DETOXX. Next up: Edelfettwerk, Hamburg on Sat 14 Nov.
 
@@ -29,4 +29,4 @@ Charleen Herzig is a techno and trance artist based in Germany, with 46 gigs on 
 
 Limoncello, Katy Rough, DETOXX
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/charleenherzig/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/charleenherzig/)*

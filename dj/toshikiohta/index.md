@@ -1,6 +1,6 @@
 # Toshiki Ohta
 
-Toshiki Ohta is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Corner Corner, London on Sun, 20 Dec 2026.
+Toshiki Ohta is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Corner Corner, London on Sun, 20 Dec 2026.
 
 Toshiki Ohta is a house and techno artist based in United Kingdom, with 40 gigs on soundcheck across Berlin, Bristol, Leeds and London and 1 more. Often billed alongside Tia Cousins, Jaye Ward and Michelle Manetti. Next up: TBA - Corner Corner, London on Sun 20 Dec.
 
@@ -25,4 +25,4 @@ Toshiki Ohta is a house and techno artist based in United Kingdom, with 40 gigs 
 
 Tia Cousins, Jaye Ward, Michelle Manetti
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toshikiohta/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toshikiohta/)*

@@ -1,6 +1,6 @@
 # Anfisa Letyago
 
-Anfisa Letyago is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Parque de la Ciudad, CABA, Buenos Aires on Sat, 14 Nov 2026.
+Anfisa Letyago is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Parque de la Ciudad, CABA, Buenos Aires on Sat, 14 Nov 2026.
 
 Anfisa Letyago is a techno and house artist based in Italy, with 197 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 71 more. Often billed alongside Adam Beyer, Enrico Sangiuliano and Pan-Pot. Next up: TBA - Parque de la Ciudad, CABA, Buenos Aires on Sat 14 Nov.
 
@@ -31,4 +31,4 @@ Anfisa Letyago is a techno and house artist based in Italy, with 197 gigs on sou
 
 Adam Beyer, Enrico Sangiuliano, Pan-Pot
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anfisaletyago/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anfisaletyago/)*

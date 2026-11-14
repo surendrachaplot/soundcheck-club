@@ -1,6 +1,6 @@
 # Formosa
 
-Formosa is a Techno and Italo Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at SideQuest on 44th, Pittsburgh on Sat, 14 Nov 2026.
+Formosa is a Techno and Italo Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at SideQuest on 44th, Pittsburgh on Sat, 14 Nov 2026.
 
 Formosa is a techno and italo disco artist based in United States of America, with 6 gigs on soundcheck across New York City and Pittsburgh. Often billed alongside Jellyfish, Ricky Mawzlin and Veronica Vasicka. Next up: SideQuest on 44th, Pittsburgh on Sat 14 Nov.
 
@@ -22,4 +22,4 @@ Formosa is a techno and italo disco artist based in United States of America, wi
 
 Jellyfish, Ricky Mawzlin, Veronica Vasicka
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/formosa/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/formosa/)*

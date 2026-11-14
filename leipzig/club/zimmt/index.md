@@ -1,6 +1,6 @@
 # ZiMMT
 
-ZiMMT is a music venue in Leipzig with 8 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "AV-Labor (Workshop AI-Video Creation)" on Mon, 16 Nov 2026.
+ZiMMT is a music venue in Leipzig with 8 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "AV-Labor (Workshop AI-Video Creation)" on Mon, 16 Nov 2026.
 
 ZiMMT is a music venue in Leipzig listed on soundcheck. 8 upcoming gigs, with line-ups including Jan Jelinek. See dates, start times and who's playing. Torgauer Str. 80, 04318 Leipzig, Germany.
 
@@ -21,4 +21,4 @@ ZiMMT is a music venue in Leipzig listed on soundcheck. 8 upcoming gigs, with li
 
 Torgauer Str. 80, 04318 Leipzig, Germany, Leipzig
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/zimmt/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/zimmt/)*

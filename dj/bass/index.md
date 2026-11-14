@@ -1,6 +1,6 @@
 # Bass
 
-Bass is a Drum & Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Epiphany Center for the Arts, Chicago on Fri, 20 Nov 2026.
+Bass is a Drum & Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Epiphany Center for the Arts, Chicago on Fri, 20 Nov 2026.
 
 Bass is a drum & bass and techno artist based in Egypt, with 131 gigs on soundcheck across Amsterdam, Auckland, Bali and Bangkok and 49 more. Often billed alongside Jungle (UK), Tekk and A². Next up: Epiphany Center for the Arts, Chicago on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Bass is a drum & bass and techno artist based in Egypt, with 131 gigs on soundch
 
 Jungle (UK), Tekk, A²
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bass/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bass/)*

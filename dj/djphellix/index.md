@@ -1,6 +1,6 @@
 # DJ phellix
 
-DJ phellix is a Afro House and Afro Tech artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Escape DeLux CLUB, Amsterdam on Fri, 18 Dec 2026.
+DJ phellix is a Afro House and Afro Tech artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Escape DeLux CLUB, Amsterdam on Fri, 18 Dec 2026.
 
 DJ phellix is an afro house and afro tech artist based in Iran, with 28 gigs on soundcheck across Amsterdam, Berlin, Dubai and Düsseldorf and 3 more. Often billed alongside SIAAH, Dj Diass and GOYANU. Next up: Escape DeLux CLUB, Amsterdam on Fri 18 Dec.
 
@@ -27,4 +27,4 @@ DJ phellix is an afro house and afro tech artist based in Iran, with 28 gigs on 
 
 SIAAH, Dj Diass, GOYANU
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djphellix/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djphellix/)*

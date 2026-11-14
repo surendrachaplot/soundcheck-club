@@ -1,6 +1,6 @@
 # Nikala
 
-Nikala is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Sakari, Tbilisi on Sat, 14 Nov 2026.
+Nikala is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Sakari, Tbilisi on Sat, 14 Nov 2026.
 
 Nikala is an electronica and experimental artist based in Georgia, with 15 gigs on soundcheck across Tbilisi. Often billed alongside Kancheli, DJ Surge and Surge. Next up: Sakari, Tbilisi on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Nikala is an electronica and experimental artist based in Georgia, with 15 gigs 
 
 Kancheli, DJ Surge, Surge
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nikala/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nikala/)*

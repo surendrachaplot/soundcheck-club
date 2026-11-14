@@ -1,6 +1,6 @@
 # 2HOT2PLAY
 
-2HOT2PLAY is a Techno and Trance artist with 11 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Thuishaven, Amsterdam on Sun, 15 Nov 2026.
+2HOT2PLAY is a Techno and Trance artist with 11 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Thuishaven, Amsterdam on Sun, 15 Nov 2026.
 
 2HOT2PLAY is a techno and trance artist based in Germany, with 125 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Augsburg and 38 more. Often billed alongside L.zwo, Mika Heggemann and PRADA2000. Next up: Thuishaven, Amsterdam on Sun 15 Nov.
 
@@ -35,4 +35,4 @@
 
 L.zwo, Mika Heggemann, PRADA2000
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/2hot2play/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/2hot2play/)*

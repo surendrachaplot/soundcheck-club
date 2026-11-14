@@ -1,8 +1,8 @@
 # E.LINA
 
-E.LINA is a House and Minimal artist with 8 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Reunion DXB, Dubai on Sat, 14 Nov 2026.
+E.LINA is a House and Minimal artist with 7 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Reunion DXB, Dubai on Sat, 14 Nov 2026.
 
-E.LINA is a house and minimal artist based in Ukraine, with 168 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Barcelona and 44 more. Often billed alongside Annyrock, DJ Senc and Cap. Next up: Reunion DXB, Dubai on Sat 14 Nov.
+E.LINA is a house and minimal artist based in Ukraine, with 167 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Barcelona and 44 more. Often billed alongside Annyrock, DJ Senc and Cap. Next up: Reunion DXB, Dubai on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -11,7 +11,6 @@ E.LINA is a house and minimal artist based in Ukraine, with 168 gigs on soundche
 | Sat, 14 Nov 2026 | Reunion DXB | Dubai |
 | Fri, 27 Nov 2026 | Kapsule | Liverpool |
 | Sat, 28 Nov 2026 | DRUMSHEDS | London |
-| Sat, 5 Dec 2026 | Signal | New York City |
 | Fri, 11 Dec 2026 | Shelter Amsterdam | Amsterdam |
 | Thu, 10 Jun 2027 | Carreglwyd Estate | West-wales |
 | Thu, 22 Jul 2027 | Great Fulford | West-wales |
@@ -32,4 +31,4 @@ E.LINA is a house and minimal artist based in Ukraine, with 168 gigs on soundche
 
 Annyrock, DJ Senc, Cap
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/e-lina/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/e-lina/)*

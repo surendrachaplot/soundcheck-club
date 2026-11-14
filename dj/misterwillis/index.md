@@ -1,6 +1,6 @@
 # Mister Willis
 
-Mister Willis is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Tresor / Globus, Berlin on Mon, 28 Dec 2026.
+Mister Willis is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Tresor / Globus, Berlin on Mon, 28 Dec 2026.
 
 Mister Willis is a techno and house artist based in United Kingdom, with 49 gigs on soundcheck across Berlin, London, Manchester and Munich and 6 more. Often billed alongside Sparkling Water Dreams, Calcium Channel and Blasha & Allatt. Next up: Tresor / Globus, Berlin on Mon 28 Dec.
 
@@ -26,4 +26,4 @@ Mister Willis is a techno and house artist based in United Kingdom, with 49 gigs
 
 Sparkling Water Dreams, Calcium Channel, Blasha & Allatt
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/misterwillis/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/misterwillis/)*

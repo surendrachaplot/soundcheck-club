@@ -1,6 +1,6 @@
 # Nitin
 
-Nitin is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Rhythm, Toronto on Sat, 5 Dec 2026.
+Nitin is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Rhythm, Toronto on Sat, 5 Dec 2026.
 
 Nitin is a house and tech house artist based in Canada, with 39 gigs on soundcheck across Detroit, Los Angeles, Manila and Miami and 4 more. Often billed alongside Kenny Glasgow, Steingold and butr. Next up: Rhythm, Toronto on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Nitin is a house and tech house artist based in Canada, with 39 gigs on soundche
 
 Kenny Glasgow, Steingold, butr
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nitin/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nitin/)*

@@ -1,6 +1,6 @@
 # Mickey Zhang
 
-Mickey Zhang is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Groundless Factory, Beijing on Sat, 21 Nov 2026.
+Mickey Zhang is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Groundless Factory, Beijing on Sat, 21 Nov 2026.
 
 Mickey Zhang is a techno and house artist based in China, with 50 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 3 more. Often billed alongside Weng Weng, Yang Bing and Pancake Lee. Next up: Groundless Factory, Beijing on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Mickey Zhang is a techno and house artist based in China, with 50 gigs on soundc
 
 Weng Weng, Yang Bing, Pancake Lee
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mickeyzhang/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mickeyzhang/)*

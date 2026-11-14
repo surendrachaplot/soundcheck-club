@@ -1,6 +1,6 @@
 # YANNY (1)
 
-YANNY (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Plot 22, Sheffield on Fri, 18 Dec 2026.
+YANNY (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Plot 22, Sheffield on Fri, 18 Dec 2026.
 
 YANNY is a techno and house artist based in Japan, with 92 gigs on soundcheck across Athens, Bangkok, Berlin and Bristol and 11 more. Often billed alongside KOSHIRO, Mari Sakurai and XINOVI. Next up: Plot 22, Sheffield on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ YANNY is a techno and house artist based in Japan, with 92 gigs on soundcheck ac
 
 KOSHIRO, Mari Sakurai, XINOVI
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yanny-1/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yanny-1/)*

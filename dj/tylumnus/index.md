@@ -1,6 +1,6 @@
 # Ty Lumnus
 
-Ty Lumnus is a Experimental and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Berkeley Suite, Glasgow on Fri, 11 Dec 2026.
+Ty Lumnus is a Experimental and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at The Berkeley Suite, Glasgow on Fri, 11 Dec 2026.
 
 Ty Lumnus is an experimental and acid artist based in United Kingdom, with 15 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside I am blip, Chris Liberator and Dissonance Network. Next up: The Berkeley Suite, Glasgow on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Ty Lumnus is an experimental and acid artist based in United Kingdom, with 15 gi
 
 I am blip, Chris Liberator, Dissonance Network
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tylumnus/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tylumnus/)*

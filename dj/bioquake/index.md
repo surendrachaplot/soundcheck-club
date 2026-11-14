@@ -1,6 +1,6 @@
 # Bioquake
 
-Bioquake is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Flowranch, Quebec City on Sat, 12 Dec 2026.
+Bioquake is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Flowranch, Quebec City on Sat, 12 Dec 2026.
 
 Bioquake is a house and deep house artist based in Canada, with 5 gigs on soundcheck across Montreal and Quebec City. Often billed alongside Buisson, Claire and Deneb. Next up: Flowranch, Quebec City on Sat 12 Dec.
 
@@ -21,4 +21,4 @@ Bioquake is a house and deep house artist based in Canada, with 5 gigs on soundc
 
 Buisson, Claire, Deneb
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bioquake/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bioquake/)*

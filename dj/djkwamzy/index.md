@@ -1,6 +1,6 @@
 # DJ Kwamzy
 
-DJ Kwamzy is a Amapiano and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Setlist @ Somerset House, London on Sat, 14 Nov 2026.
+DJ Kwamzy is a Amapiano and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Setlist @ Somerset House, London on Sat, 14 Nov 2026.
 
 DJ Kwamzy is an amapiano and afro house artist based in United Kingdom, with 12 gigs on soundcheck across Amsterdam, London and Toronto. Often billed alongside Kwamzy, Golden Lady and AADJA. Next up: Setlist @ Somerset House, London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ DJ Kwamzy is an amapiano and afro house artist based in United Kingdom, with 12 
 
 Kwamzy, Golden Lady, AADJA
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djkwamzy/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djkwamzy/)*

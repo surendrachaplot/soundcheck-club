@@ -1,6 +1,6 @@
 # Danse Intermission
 
-Danse Intermission is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Catalyst Arts Studio, Belfast on Fri, 27 Nov 2026.
+Danse Intermission is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Catalyst Arts Studio, Belfast on Fri, 27 Nov 2026.
 
 Danse Intermission is a house and italo disco artist, with 22 gigs on soundcheck across Belfast. Often billed alongside CAOIMHE, Jordan Nocturne and Inside Moves. Next up: Catalyst Arts Studio, Belfast on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Danse Intermission is a house and italo disco artist, with 22 gigs on soundcheck
 
 CAOIMHE, Jordan Nocturne, Inside Moves
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danseintermission/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danseintermission/)*

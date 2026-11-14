@@ -1,6 +1,6 @@
 # VOICEX
 
-VOICEX is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at MS Stubnitz, Hamburg on Fri, 27 Nov 2026.
+VOICEX is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at MS Stubnitz, Hamburg on Fri, 27 Nov 2026.
 
 VOICEX is a techno and tech house artist based in Spain, with 24 gigs on soundcheck across Berlin, Hamburg and Madrid. Often billed alongside MAURER, PØVE and Cobb Douglas. Next up: MS Stubnitz, Hamburg on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ VOICEX is a techno and tech house artist based in Spain, with 24 gigs on soundch
 
 MAURER, PØVE, Cobb Douglas
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/voicex/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/voicex/)*

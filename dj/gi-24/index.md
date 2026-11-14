@@ -1,6 +1,6 @@
 # gi (24)
 
-gi (24) is a Techno and IDM artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - INNER WEST, Sydney on Sat, 5 Dec 2026.
+gi (24) is a Techno and IDM artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - INNER WEST, Sydney on Sat, 5 Dec 2026.
 
 gi is a techno and idm artist, with 18 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Lisbon and 5 more. Often billed alongside Carrier, AERAE and Autogenesis. Next up: TBA - INNER WEST, Sydney on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ gi is a techno and idm artist, with 18 gigs on soundcheck across Amsterdam, Barc
 
 Carrier, AERAE, Autogenesis
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gi-24/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gi-24/)*

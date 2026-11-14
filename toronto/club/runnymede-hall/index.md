@@ -1,6 +1,6 @@
 # Runnymede Hall
 
-Runnymede Hall is a music venue in Toronto with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Nitepunk" on Fri, 27 Nov 2026.
+Runnymede Hall is a music venue in Toronto with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Nitepunk" on Fri, 27 Nov 2026.
 
 Runnymede Hall is a music venue in Toronto listed on soundcheck. 3 upcoming gigs, with line-ups including Lens, Lucky 7, Nitepunk and S.P.Y. and 1 more. See dates, start times and who's playing. 821 Runnymede Rd.
 
@@ -16,4 +16,4 @@ Runnymede Hall is a music venue in Toronto listed on soundcheck. 3 upcoming gigs
 
 821 Runnymede Rd, Toronto
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/runnymede-hall/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/runnymede-hall/)*

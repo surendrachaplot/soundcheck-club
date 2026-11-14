@@ -1,6 +1,6 @@
 # VICKEY
 
-VICKEY is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Ghent (multi-venue), Ghent on Fri, 27 Nov 2026.
+VICKEY is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Ghent (multi-venue), Ghent on Fri, 27 Nov 2026.
 
 VICKEY is a trance and techno artist based in Belgium, with 26 gigs on soundcheck across Antwerp, Brussels, Ghent and Ho Chi Minh City. Often billed alongside John Gilliot, JEKKAMAÏ and Holiness. Next up: TBA - Ghent (multi-venue), Ghent on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ VICKEY is a trance and techno artist based in Belgium, with 26 gigs on soundchec
 
 John Gilliot, JEKKAMAÏ, Holiness
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vickey/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vickey/)*

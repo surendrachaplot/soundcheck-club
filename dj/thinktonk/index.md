@@ -1,6 +1,6 @@
 # Think Tonk
 
-Think Tonk is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at fabric, London on Sat, 14 Nov 2026.
+Think Tonk is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at fabric, London on Sat, 14 Nov 2026.
 
 Think Tonk is a drum & bass and jungle artist based in United Kingdom, with 12 gigs on soundcheck across Chicago, London, Manchester and San Francisco/Oakland. Often billed alongside Mindstate, dogger and EVABEE. Next up: fabric, London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Think Tonk is a drum & bass and jungle artist based in United Kingdom, with 12 g
 
 Mindstate, dogger, EVABEE
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thinktonk/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thinktonk/)*

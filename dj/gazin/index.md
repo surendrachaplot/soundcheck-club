@@ -1,6 +1,6 @@
 # Gazin
 
-Gazin is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Secret Grove, Portland on Sat, 28 Nov 2026.
+Gazin is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Secret Grove, Portland on Sat, 28 Nov 2026.
 
 Gazin is a house and deep house artist based in South Korea, with 9 gigs on soundcheck across Portland. Often billed alongside Andy Warren, Peter Sheppard and Aaron Davis. Next up: Secret Grove, Portland on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Gazin is a house and deep house artist based in South Korea, with 9 gigs on soun
 
 Andy Warren, Peter Sheppard, Aaron Davis
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gazin/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gazin/)*

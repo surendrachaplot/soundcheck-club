@@ -1,8 +1,8 @@
 # Mr. Ho
 
-Mr. Ho is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Tai Tong Organic Ecopark, Hong Kong on Sat, 14 Nov 2026.
+Mr. Ho is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Tai Tong Organic Ecopark, Hong Kong on Sat, 14 Nov 2026.
 
-Mr. Ho is a house and techno artist based in China, with 148 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Atlanta and 50 more. Often billed alongside Luca Lozano, Wada Yosuke and Xiaolin. Next up: Tai Tong Organic Ecopark, Hong Kong on Sat 14 Nov.
+Mr. Ho is a house and techno artist based in China, with 149 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Atlanta and 51 more. Often billed alongside Luca Lozano, Wada Yosuke and Xiaolin. Next up: Tai Tong Organic Ecopark, Hong Kong on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Mr. Ho is a house and techno artist based in China, with 148 gigs on soundcheck 
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Tai Tong Organic Ecopark | Hong Kong |
 | Sat, 28 Nov 2026 | Clutch, Warehouse Bangkok | Bangkok |
+| Fri, 11 Dec 2026 | Bastet | Philadelphia |
 | Sat, 12 Dec 2026 | Signal | New York City |
 | Fri, 18 Dec 2026 | Castle Mandawa, Rajasthan | Other-regions |
 | Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
@@ -29,4 +30,4 @@ Mr. Ho is a house and techno artist based in China, with 148 gigs on soundcheck 
 
 Luca Lozano, Wada Yosuke, Xiaolin
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.ho/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.ho/)*

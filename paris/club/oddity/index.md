@@ -1,6 +1,6 @@
 # Oddity
 
-Oddity is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "Oddity Radio Listening Session 003 with Joakim" on Fri, 20 Nov 2026.
+Oddity is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. The next is "Oddity Radio Listening Session 003 with Joakim" on Fri, 20 Nov 2026.
 
 Oddity is a music venue in Paris listed on soundcheck. 1 upcoming gig, with line-ups including Joakim. See dates, start times and who's playing. 27, rue Notre-Dame de Nazareth, Paris 75003.
 
@@ -14,4 +14,4 @@ Oddity is a music venue in Paris listed on soundcheck. 1 upcoming gig, with line
 
 27, rue Notre-Dame de Nazareth, Paris 75003, Paris
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/oddity/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/oddity/)*

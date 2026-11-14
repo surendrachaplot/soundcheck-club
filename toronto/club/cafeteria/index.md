@@ -1,14 +1,13 @@
 # Cafeteria
 
-Cafeteria is a music venue in Toronto with 9 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "TONY PRICE'S NAME? ALBUM RELEASE PARTY WITH MILCH, BLKVRGO & AMEDEO" on Fri, 13 Nov 2026.
+Cafeteria is a music venue in Toronto with 8 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "DNDARA 03 // SWANA Electronic Night Series" on Sat, 14 Nov 2026.
 
-Cafeteria is a music venue in Toronto listed on soundcheck. 9 upcoming gigs, with line-ups including Akkai, Amedeo (CA), Ana Luisa and Blkvirgo and 2 more. See dates, start times and who's playing. 1650 Dupont St, Toronto, ON M6P 3T2, Canada.
+Cafeteria is a music venue in Toronto listed on soundcheck. 8 upcoming gigs, with line-ups including Akkai, Amedeo (CA), Ana Luisa and Blkvirgo and 2 more. See dates, start times and who's playing. 1650 Dupont St, Toronto, ON M6P 3T2, Canada.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | TONY PRICE'S NAME? ALBUM RELEASE PARTY WITH MILCH, BLKVRGO & AMEDEO | Amedeo (CA), Blkvirgo, Milch (1), Tony Price |
 | Sat, 14 Nov 2026 | DNDARA 03 // SWANA Electronic Night Series | Valeria Wardini |
 | Sun, 15 Nov 2026 | SABR - by Mastané |  |
 | Fri, 20 Nov 2026 | Veneno Club presents Entrañas | Ana Luisa, Entrañas, Geezr, Sofia Fly, mo.fede |
@@ -22,4 +21,4 @@ Cafeteria is a music venue in Toronto listed on soundcheck. 9 upcoming gigs, wit
 
 1650 Dupont St, Toronto, ON M6P 3T2, Canada, Toronto
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/cafeteria/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/cafeteria/)*

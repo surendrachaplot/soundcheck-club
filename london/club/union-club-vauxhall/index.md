@@ -1,14 +1,13 @@
 # Union Club, Vauxhall
 
-Union Club, Vauxhall is a music venue in London with 17 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "AFTER PARTY at FOX IN THE BOX (ALL FEMALES DJS)" on Fri, 13 Nov 2026.
+Union Club, Vauxhall is a music venue in London with 16 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "VANITY afterhours from 1am till 10am" on Sat, 14 Nov 2026.
 
-Union Club, Vauxhall is a music venue in London listed on soundcheck. 17 upcoming gigs, with line-ups including Alex Rebel, Armooniaman, Colleen 'Cosmo' Murphy and Dani B and 2 more. See dates, start times and who's playing. 66 Albert Embankment, Lambeth, London SE1 7TW.
+Union Club, Vauxhall is a music venue in London listed on soundcheck. 16 upcoming gigs, with line-ups including Alex Rebel, Armooniaman, Colleen 'Cosmo' Murphy and Dani B and 2 more. See dates, start times and who's playing. 66 Albert Embankment, Lambeth, London SE1 7TW.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | AFTER PARTY at FOX IN THE BOX (ALL FEMALES DJS) | El Cassar, Moonz, PERILOUS P, SUNI SIDE UP |
 | Sat, 14 Nov 2026 | VANITY afterhours from 1am till 10am | Alex Rebel, Dani B, Enrico Chirchiello, Francesco Poggi |
 | Sat, 14 Nov 2026 | Pay AT&T Bill Online Without Logging In: Fast Guest Pay Guide | Haseeb Iqbal, Novelist |
 | Sat, 14 Nov 2026 | Duke Energy Bill Payment Portal Login & Quick Pay Methods | Colleen 'Cosmo' Murphy |
@@ -18,9 +17,10 @@ Union Club, Vauxhall is a music venue in London listed on soundcheck. 17 upcomin
 | Sun, 22 Nov 2026 | Orbit Sunday night / Monday morning after party | Emilion Dollar Baby, Kazuki Takahashi, Thomas Galbardi, Yukari |
 | Thu, 26 Nov 2026 | DESIRE - Weekly Thursday After Party - Armooniaman | Armooniaman, Dhez, Duwat?, Elisa Nau. |
 | Sun, 29 Nov 2026 | Orbit Sunday night / Monday morning after party | Giusy S (2), Thomas Galbardi |
+| Sat, 5 Dec 2026 | TROUGH XXXMAS PARTY | Massimo Paramour |
 
 ## Address
 
 66 Albert Embankment, Lambeth, London SE1 7TW, London
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/union-club-vauxhall/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/union-club-vauxhall/)*

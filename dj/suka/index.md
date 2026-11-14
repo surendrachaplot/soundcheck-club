@@ -1,6 +1,6 @@
 # SUKA
 
-SUKA is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Nether Club, Bucharest on Sat, 28 Nov 2026.
+SUKA is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Nether Club, Bucharest on Sat, 28 Nov 2026.
 
 SUKA is a techno and industrial artist based in Ukraine, with 24 gigs on soundcheck across Amsterdam, Bucharest and London. Often billed alongside STVN, Zeyvers and JÆLBIRD. Next up: Nether Club, Bucharest on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ SUKA is a techno and industrial artist based in Ukraine, with 24 gigs on soundch
 
 STVN (2), Zeyvers, JÆLBIRD
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suka/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suka/)*

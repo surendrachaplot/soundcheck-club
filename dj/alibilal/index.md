@@ -1,6 +1,6 @@
 # Ali Bilal
 
-Ali Bilal is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Abercrombie Hotel, Sydney on Fri, 11 Dec 2026.
+Ali Bilal is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Abercrombie Hotel, Sydney on Fri, 11 Dec 2026.
 
 Ali Bilal is a techno and garage artist based in Australia, with 14 gigs on soundcheck across Brisbane, Melbourne and Sydney. Often billed alongside ARTISAH, Dave Stuart and Jazz (AU). Next up: Abercrombie Hotel, Sydney on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Ali Bilal is a techno and garage artist based in Australia, with 14 gigs on soun
 
 ARTISAH, Dave Stuart, Jazz (AU)
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alibilal/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alibilal/)*

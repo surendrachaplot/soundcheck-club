@@ -1,6 +1,6 @@
 # Grenouillette
 
-Grenouillette is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Bahnwärter Thiel, Munich on Fri, 20 Nov 2026.
+Grenouillette is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Bahnwärter Thiel, Munich on Fri, 20 Nov 2026.
 
 Grenouillette is a house and techno artist based in Germany, with 36 gigs on soundcheck across Berlin, Munich and Stuttgart. Often billed alongside Lealaetitia, DJ Glitterelli and HAMZA. Next up: Bahnwärter Thiel, Munich on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Grenouillette is a house and techno artist based in Germany, with 36 gigs on sou
 
 Lealaetitia, DJ Glitterelli, HAMZA
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grenouillette/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grenouillette/)*

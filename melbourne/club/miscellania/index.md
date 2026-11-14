@@ -1,14 +1,13 @@
 # Miscellania
 
-Miscellania is a music venue in Melbourne with 11 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "NYMPHO x PEP RALLY present: Chippy Nonstop" on Fri, 13 Nov 2026.
+Miscellania is a music venue in Melbourne with 10 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "MUTATIONS WEEKENDER" on Sat, 14 Nov 2026.
 
-Miscellania is a music venue in Melbourne listed on soundcheck. 11 upcoming gigs, with line-ups including Aashofteh, ATARANGI, b. caszh and CCL and 2 more. See dates, start times and who's playing. 2/401 Swanston St, Melbourne VIC 3004.
+Miscellania is a music venue in Melbourne listed on soundcheck. 10 upcoming gigs, with line-ups including Aashofteh, b. caszh, CCL and Charms and 2 more. See dates, start times and who's playing. 2/401 Swanston St, Melbourne VIC 3004.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | NYMPHO x PEP RALLY present: Chippy Nonstop | ATARANGI, Chippy Nonstop, DIESEL (NZ), House Mum, Mon Franco |
 | Sat, 14 Nov 2026 | MUTATIONS WEEKENDER | CCL, Charms, DJ Mum, Emelyne, Genie (1), Gillielove, Kate Miller, Kiernan Laveaux, Moopie, Nerve, Piezo, Pugilist, Simo Cell, Stormn Norm, The Rat |
 | Sun, 15 Nov 2026 | MUTATIONS WEEKENDER | CCL, DJ Mum, DJ Plead, Emelyne, Gillielove, Kate Miller, Moopie, Piezo, Simo Cell, dBridge |
 | Thu, 19 Nov 2026 | Aus.udg x H.O pres. 'The Haps' ft 4ORTTUNE, Kenny Bounce, ECO$YSTEM + more |  |
@@ -18,9 +17,10 @@ Miscellania is a music venue in Melbourne listed on soundcheck. 11 upcoming gigs
 | Fri, 27 Nov 2026 | Party People: Kyuchan (KR), Fuchsia (Eora), Curb Dancer | Kyuchan, fuchsia |
 | Sun, 29 Nov 2026 | CONFIDE Queer Summer Sunday Series ☼ Vol. 14 | Eoin DJ, Freddie (DK), OMOLOKO, Yaz, b. caszh |
 | Fri, 4 Dec 2026 | A Colourful Storm: Mark N (Bloody Fist) + Moopie ft. KHA (Posseshot) + Th Duo Trio | CS + Kreme, Mark N, Moopie, Tarquin Manek |
+| Thu, 10 Dec 2026 | AETERNA pres. jackzebra (CN) - Zhuang Zhuang Tour |  |
 
 ## Address
 
 2/401 Swanston St, Melbourne VIC 3004, Melbourne
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/miscellania/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/miscellania/)*

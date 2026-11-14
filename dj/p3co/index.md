@@ -1,6 +1,6 @@
 # P3CO
 
-P3CO is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Ctrllab Art House and Gallery, Montreal on Fri, 4 Dec 2026.
+P3CO is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Ctrllab Art House and Gallery, Montreal on Fri, 4 Dec 2026.
 
 P3CO is a techno and trance artist based in Canada, with 7 gigs on soundcheck across Montreal. Often billed alongside EMN, Ratchet and fangsie. Next up: Ctrllab Art House and Gallery, Montreal on Fri 4 Dec.
 
@@ -23,4 +23,4 @@ P3CO is a techno and trance artist based in Canada, with 7 gigs on soundcheck ac
 
 EMN (1), Ratchet, fangsie
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/p3co/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/p3co/)*

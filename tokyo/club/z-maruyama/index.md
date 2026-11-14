@@ -1,14 +1,13 @@
 # Z Maruyama
 
-Z Maruyama is a music venue in Tokyo with 14 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "NERO 2nd Anniversary - Face 2 Face (HARD TECHNO)" on Fri, 13 Nov 2026.
+Z Maruyama is a music venue in Tokyo with 13 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "AMN SUPPORTED BY NIGHT HIKE (TECHNO)" on Sat, 14 Nov 2026.
 
-Z Maruyama is a music venue in Tokyo listed on soundcheck. 14 upcoming gigs, with line-ups including AHREUM, ASSIGN, Chihoshi and Chika Luna and 2 more. See dates, start times and who's playing. 1F 2-4 Maruyamacho Shibuya-ku Tokyo 150-0044.
+Z Maruyama is a music venue in Tokyo listed on soundcheck. 13 upcoming gigs, with line-ups including AHREUM, ASSIGN, Chihoshi and Chika Luna and 2 more. See dates, start times and who's playing. 1F 2-4 Maruyamacho Shibuya-ku Tokyo 150-0044.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | NERO 2nd Anniversary - Face 2 Face (HARD TECHNO) | DALJAE, IPPØ, KAITO (5), KATSU (2), samJ |
 | Sat, 14 Nov 2026 | AMN SUPPORTED BY NIGHT HIKE (TECHNO) | MASAYASU |
 | Sun, 15 Nov 2026 | 31st Anniversary Special X-tra gaiden -All '90s X-tra Classics!?- (TECHNO) |  |
 | Thu, 19 Nov 2026 | BUNKER × ENCODE (TECHNO) | EMILIO (3), Florian Picasso, LYOM |
@@ -18,9 +17,10 @@ Z Maruyama is a music venue in Tokyo listed on soundcheck. 14 upcoming gigs, wit
 | Sun, 22 Nov 2026 | JAZZTRONIK 'SAMURAI' DJ TOUR IN TOKYO WITH The Library (HOUSE) | The Library |
 | Fri, 27 Nov 2026 | HOUSE SESSION WITH RED RUBY (HOUSE / TECH HOUSE) | Chika Luna, GooPer, Onsawa&tkc |
 | Sat, 28 Nov 2026 | Rezonance (DRUM &BASS) | ASSIGN, ITSUKI, Maozon, kens:k |
+| Wed, 2 Dec 2026 | BBBBB30 | CLESENT, Hi Sai, SUETSUGU |
 
 ## Address
 
 1F 2-4 Maruyamacho Shibuya-ku Tokyo 150-0044, Tokyo
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/z-maruyama/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/z-maruyama/)*

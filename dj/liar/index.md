@@ -1,6 +1,6 @@
 # Liar
 
-Liar is a House and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Arakawa Iwabuchi-Seki Green Area BBQ Site & Surrounding Area, Kita-ku, Tokyo, Tokyo on Sat, 28 Nov 2026.
+Liar is a House and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Arakawa Iwabuchi-Seki Green Area BBQ Site & Surrounding Area, Kita-ku, Tokyo, Tokyo on Sat, 28 Nov 2026.
 
 Liar is a house and latin bass artist based in Romania, with 6 gigs on soundcheck across Bucharest, Osaka and Tokyo. Often billed alongside Neri, Aleroj and Hiroyuki Abe. Next up: Arakawa Iwabuchi-Seki Green Area BBQ Site & Surrounding Area, Kita-ku, Tokyo, Tokyo on Sat 28 Nov.
 
@@ -22,4 +22,4 @@ Liar is a house and latin bass artist based in Romania, with 6 gigs on soundchec
 
 Neri, Aleroj, Hiroyuki Abe
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/liar/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/liar/)*

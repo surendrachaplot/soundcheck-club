@@ -1,14 +1,13 @@
 # Nitsa Club
 
-Nitsa Club is a music venue in Barcelona with 10 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "oskar med k · Bofirax · Isa Rojas / DJ Python · RHR · selectya Glossy" on Fri, 13 Nov 2026.
+Nitsa Club is a music venue in Barcelona with 9 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "SOUNDIT Club: Palms Trax All Night Long / POGO: Mietze Conte · ideasforconversations" on Sat, 14 Nov 2026.
 
-Nitsa Club is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs, with line-ups including 2ManyDJs, Bofirax, Cloonee and Dengue Dengue Dengue and 2 more. See dates, start times and who's playing. Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain.
+Nitsa Club is a music venue in Barcelona listed on soundcheck. 9 upcoming gigs, with line-ups including 2ManyDJs, Cloonee, Dengue Dengue Dengue and Dj Fra and 2 more. See dates, start times and who's playing. Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | oskar med k · Bofirax · Isa Rojas / DJ Python · RHR · selectya Glossy | Bofirax, DJ Python, Isa Rojas, RHR, oskar med k |
 | Sat, 14 Nov 2026 | SOUNDIT Club: Palms Trax All Night Long / POGO: Mietze Conte · ideasforconversations | Mietze Conte, Palms Trax |
 | Fri, 20 Nov 2026 | Maribou State DJ Set · MAF / Minna-no-Kimochi · Hekt · Oliver Lieb · Julietta Ferrari | Hekt, Julietta Ferrari, MAF, Maribou State, Minna-no-Kimochi, Oliver Lieb |
 | Sat, 21 Nov 2026 | Cloonee · HANIE / Somoslas x PLAYGIRL: KASI · Nina GGG · TOM CHIESA | Cloonee, HANIE, KASI, Nina GGG, TOM CHIESA |
@@ -23,4 +22,4 @@ Nitsa Club is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs,
 
 Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain, Barcelona
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/nitsa-club/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/nitsa-club/)*

@@ -1,6 +1,6 @@
 # Rough Cuts at Crew Bar Meta
 
-Rough Cuts at Crew Bar Meta on Sun 29 Nov, Naples. 2 artists: Enrico Maria and Francesco Romano. House and Funk / Soul. See the line-up on soundcheck.
+Rough Cuts at Crew Bar Meta on Sun 29 Nov, Naples. 3 artists: Enrico Maria, Francesco Romano and Joshua (IT). House and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Rough Cuts at Crew Bar Meta on Sun 29 Nov, Naples. 2 artists: Enrico Maria and F
 
 - Enrico Maria
 - Francesco Romano
+- Joshua (IT)
 
 *Source: [soundcheck](https://soundcheck.club/e/2582787-rough-cuts-at-crew-bar-meta/)*

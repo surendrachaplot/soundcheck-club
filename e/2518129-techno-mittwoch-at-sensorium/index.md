@@ -1,6 +1,6 @@
 # TECHNO MITTWOCH at Sensorium
 
-TECHNO MITTWOCH at Sensorium on Wed 18 Nov, Berlin. 7 artists: André Skuda, Molis, nixmoon and PETDuo and 3 more. Techno and Tech House. See the line-up on soundcheck.
+TECHNO MITTWOCH at Sensorium on Wed 18 Nov, Berlin. 8 artists: André Skuda, Julka, Molis and nixmoon and 4 more. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ TECHNO MITTWOCH at Sensorium on Wed 18 Nov, Berlin. 7 artists: André Skuda, Mol
 ## Line-up
 
 - André Skuda
+- Julka (2)
 - Molis
 - nixmoon
 - PETDuo

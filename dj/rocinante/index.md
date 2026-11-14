@@ -1,6 +1,6 @@
 # Rocinante
 
-Rocinante is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Move, West-wales on Sat, 21 Nov 2026.
+Rocinante is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Move, West-wales on Sat, 21 Nov 2026.
 
 Rocinante is a minimal and tech house artist based in United Kingdom, with 6 gigs on soundcheck across Berlin, Brighton, London and West Wales. Often billed alongside PROFF, Lavie Au Soleil and Will C. Next up: Move, West Wales on Sat 21 Nov.
 
@@ -22,4 +22,4 @@ Rocinante is a minimal and tech house artist based in United Kingdom, with 6 gig
 
 PROFF, Lavie Au Soleil, Will C
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rocinante/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rocinante/)*

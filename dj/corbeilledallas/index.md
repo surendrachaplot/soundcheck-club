@@ -1,6 +1,6 @@
 # Corbeille Dallas
 
-Corbeille Dallas is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Le 211, Paris on Sat, 5 Dec 2026.
+Corbeille Dallas is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Le 211, Paris on Sat, 5 Dec 2026.
 
 Corbeille Dallas is a techno and club artist based in France, with 45 gigs on soundcheck across Geneva and Paris. Often billed alongside De Vedelly, Cannonbar and Egna. Next up: Le 211, Paris on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Corbeille Dallas is a techno and club artist based in France, with 45 gigs on so
 
 De Vedelly, Cannonbar, Egna
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/corbeilledallas/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/corbeilledallas/)*

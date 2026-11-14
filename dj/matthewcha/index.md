@@ -1,6 +1,6 @@
 # Matthew Cha
 
-Matthew Cha is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Washington DC , Washington DC on Fri, 4 Dec 2026.
+Matthew Cha is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Washington DC , Washington DC on Fri, 4 Dec 2026.
 
 Matthew Cha is a techno and experimental artist based in South Korea, with 37 gigs on soundcheck across Baltimore, Berlin, Boston and New York City and 3 more. Often billed alongside Marteka Fair, JADE CAO and TonalTheory. Next up: TBA - Washington DC , Washington DC on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Matthew Cha is a techno and experimental artist based in South Korea, with 37 gi
 
 Marteka Fair, JADE CAO, TonalTheory
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewcha/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewcha/)*

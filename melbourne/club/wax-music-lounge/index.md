@@ -1,15 +1,13 @@
 # Wax Music Lounge
 
-Wax Music Lounge is a music venue in Melbourne with 32 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "DOWNSTAIRS DISCO" on Fri, 13 Nov 2026.
+Wax Music Lounge is a music venue in Melbourne with 30 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "PA777IENCE (Syd) • Complications Tour" on Sat, 14 Nov 2026.
 
-Wax Music Lounge is a music venue in Melbourne listed on soundcheck. 32 upcoming gigs, with line-ups including BABANASHE, Manchild, Miles Nautu and Savage The Girl and 1 more. See dates, start times and who's playing. 250 Flinders St (basement), Melbourne, VIC, Australia, Victoria.
+Wax Music Lounge is a music venue in Melbourne listed on soundcheck. 30 upcoming gigs, with line-ups including BABANASHE, Miles Nautu, Savage The Girl and Steely Ann. See dates, start times and who's playing. 250 Flinders St (basement), Melbourne, VIC, Australia, Victoria.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | DOWNSTAIRS DISCO | Steely Ann |
-| Fri, 13 Nov 2026 | DOWNSTAIRS DISCO • Steely Ann & Manchild | Manchild, Steely Ann |
 | Sat, 14 Nov 2026 | PA777IENCE (Syd) • Complications Tour |  |
 | Mon, 16 Nov 2026 | CIRCADIAN RHYTHMS |  |
 | Tue, 17 Nov 2026 | BRAZLOMBIA |  |
@@ -18,9 +16,11 @@ Wax Music Lounge is a music venue in Melbourne listed on soundcheck. 32 upcoming
 | Fri, 20 Nov 2026 | JU'SUAN • 'COMMON UNDERSTANDING' Album Launch |  |
 | Sat, 21 Nov 2026 | TRIBE | BABANASHE |
 | Mon, 23 Nov 2026 | CIRCADIAN RHYTHMS |  |
+| Tue, 24 Nov 2026 | BRAZLOMBIA |  |
+| Wed, 25 Nov 2026 | MELLOWDÍAS THUMP |  |
 
 ## Address
 
 250 Flinders St (basement), Melbourne, VIC, Australia, Victoria, Melbourne
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/wax-music-lounge/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/wax-music-lounge/)*

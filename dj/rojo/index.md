@@ -1,6 +1,6 @@
 # ROJO
 
-ROJO is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Animal, New York City on Sun, 15 Nov 2026.
+ROJO is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Animal, New York City on Sun, 15 Nov 2026.
 
 ROJO is a house and techno artist based in United States of America, with 40 gigs on soundcheck across Buenos Aires, Detroit, New York City and Philadelphia and 2 more. Often billed alongside HUNY, Lemonline and kraftwitch. Next up: Animal, New York City on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ ROJO is a house and techno artist based in United States of America, with 40 gig
 
 HUNY, Lemonline, kraftwitch
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rojo/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rojo/)*

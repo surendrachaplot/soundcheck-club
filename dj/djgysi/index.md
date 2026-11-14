@@ -1,6 +1,6 @@
 # DJ Gysi
 
-DJ Gysi is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Fridas Pier, Stuttgart on Fri, 18 Dec 2026.
+DJ Gysi is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Fridas Pier, Stuttgart on Fri, 18 Dec 2026.
 
 DJ Gysi is a trance and techno artist based in Germany, with 14 gigs on soundcheck across Berlin, Hamburg, Hannover and Leipzig and 1 more. Often billed alongside DJ Hellfire, Anne-Lu and Benleh. Next up: Fridas Pier, Stuttgart on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ DJ Gysi is a trance and techno artist based in Germany, with 14 gigs on soundche
 
 DJ Hellfire, Anne-Lu, Benleh
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djgysi/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djgysi/)*

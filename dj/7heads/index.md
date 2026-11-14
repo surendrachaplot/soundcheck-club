@@ -1,6 +1,6 @@
 # 7heads
 
-7heads is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Promenaden Eck, Berlin on Fri, 4 Dec 2026.
+7heads is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Promenaden Eck, Berlin on Fri, 4 Dec 2026.
 
 7heads is a tech house and techno artist based in Italy, with 7 gigs on soundcheck across Berlin and Stockholm. Often billed alongside Cioz, TOKI (SE) and Bonfante. Next up: Promenaden Eck, Berlin on Fri 4 Dec.
 
@@ -23,4 +23,4 @@
 
 Cioz, TOKI (SE), Bonfante
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/7heads/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/7heads/)*

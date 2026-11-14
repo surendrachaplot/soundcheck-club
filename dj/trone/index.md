@@ -1,6 +1,6 @@
 # Tr One
 
-Tr One is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Pawn Shop, Dublin on Fri, 11 Dec 2026.
+Tr One is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Pawn Shop, Dublin on Fri, 11 Dec 2026.
 
 Tr One is a house and techno artist based in Ireland, with 62 gigs on soundcheck across Berlin, Chicago, Cork and Dublin and 3 more. Often billed alongside Jack Devine, Doiléir and Hooligan. Next up: Pawn Shop, Dublin on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Tr One is a house and techno artist based in Ireland, with 62 gigs on soundcheck
 
 Jack Devine, Doiléir, Hooligan
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trone/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trone/)*

@@ -1,6 +1,6 @@
 # Juliann
 
-Juliann is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Solum, Paris on Sat, 28 Nov 2026.
+Juliann is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Solum, Paris on Sat, 28 Nov 2026.
 
 Juliann is a house and tech house artist based in France, with 11 gigs on soundcheck across Marseille, Paris and Santiago. Often billed alongside Assayag, Mooglie and Andera. Next up: Solum, Paris on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Juliann is a house and tech house artist based in France, with 11 gigs on soundc
 
 Assayag, Mooglie, Andera
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juliann/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juliann/)*

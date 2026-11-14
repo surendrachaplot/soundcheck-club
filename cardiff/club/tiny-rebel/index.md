@@ -1,6 +1,6 @@
 # Tiny Rebel
 
-Tiny Rebel is a music venue in Cardiff with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "Local x Lucas Alexander | Tiny Rebel Cardiff" on Fri, 20 Nov 2026.
+Tiny Rebel is a music venue in Cardiff with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. The next is "Local x Lucas Alexander | Tiny Rebel Cardiff" on Fri, 20 Nov 2026.
 
 Tiny Rebel is a music venue in Cardiff listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Tiny Rebel is a music venue in Cardiff listed on soundcheck. 1 upcoming gig. See
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Local x Lucas Alexander / Tiny Rebel Cardiff |  |
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/cardiff/club/tiny-rebel/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/cardiff/club/tiny-rebel/)*

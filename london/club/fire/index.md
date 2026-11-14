@@ -1,16 +1,14 @@
 # Fire
 
-Fire is a music venue in London with 10 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "KINYXX LONDON - Fetish Edition (Opening Party)" on Fri, 13 Nov 2026.
+Fire is a music venue in London with 8 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Fuego" on Sat, 14 Nov 2026.
 
-Fire is a music venue in London listed on soundcheck. 10 upcoming gigs, with line-ups including Bradley Skeng, Bryan Gee, DIDIXX and Dillinja and 2 more. See dates, start times and who's playing. 39 Parry Street, South Lambeth Road, London, SW8 1RT.
+Fire is a music venue in London listed on soundcheck. 8 upcoming gigs, with line-ups including Bryan Gee, Dillinja, DJ Hype and DJ Phantasy and 2 more. See dates, start times and who's playing. 39 Parry Street, South Lambeth Road, London, SW8 1RT.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | KINYXX LONDON - Fetish Edition (Opening Party) | Bradley Skeng, DIDIXX |
 | Sat, 14 Nov 2026 | Fuego |  |
-| Sat, 14 Nov 2026 | A:M After Hours |  |
 | Sun, 15 Nov 2026 | Beyond After Hours |  |
 | Sat, 21 Nov 2026 | Beyond Editions: DJ Aron | Fabio Luigi, Jon Byrne |
 | Sat, 21 Nov 2026 | A:M After Hours |  |
@@ -23,4 +21,4 @@ Fire is a music venue in London listed on soundcheck. 10 upcoming gigs, with lin
 
 39 Parry Street, South Lambeth Road, London, SW8 1RT, London
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/fire/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/fire/)*

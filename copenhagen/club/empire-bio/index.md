@@ -1,6 +1,6 @@
 # Empire Bio
 
-Empire Bio is a music venue in Copenhagen with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "Pitchblack Playback: Aphex Twin 'Drukqs' + 'Richard D. James'" on Tue, 17 Nov 2026.
+Empire Bio is a music venue in Copenhagen with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. The next is "Pitchblack Playback: Aphex Twin 'Drukqs' + 'Richard D. James'" on Tue, 17 Nov 2026.
 
 Empire Bio is a music venue in Copenhagen listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Guldbergsgade 29F, 2200 København.
 
@@ -14,4 +14,4 @@ Empire Bio is a music venue in Copenhagen listed on soundcheck. 1 upcoming gig. 
 
 Guldbergsgade 29F, 2200 København, Copenhagen
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/empire-bio/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/empire-bio/)*

@@ -1,6 +1,6 @@
 # Mila-Rose
 
-Mila-Rose is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Old Town, Woodstock, Cape Town on Sat, 19 Dec 2026.
+Mila-Rose is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Old Town, Woodstock, Cape Town on Sat, 19 Dec 2026.
 
 Mila-Rose is an afro house and afro tech artist based in South Africa, with 10 gigs on soundcheck across Cape Town and London. Often billed alongside Avi Subban, Dwson and STOFFELA. Next up: Old Town, Woodstock, Cape Town on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Mila-Rose is an afro house and afro tech artist based in South Africa, with 10 g
 
 Avi Subban, Dwson, STOFFELA
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mila-rose/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mila-rose/)*

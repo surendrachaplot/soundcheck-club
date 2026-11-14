@@ -1,6 +1,6 @@
 # Rekkt
 
-Rekkt is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at CCO La Rayonne, Lyon on Thu, 31 Dec 2026.
+Rekkt is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at CCO La Rayonne, Lyon on Thu, 31 Dec 2026.
 
 Rekkt is a techno and drum & bass artist based in Belgium, with 6 gigs on soundcheck across Berlin, Lausanne, Lyon and Paris and 2 more. Often billed alongside DNNS, FLKN and Flymeon. Next up: CCO La Rayonne, Lyon on Thu 31 Dec.
 
@@ -22,4 +22,4 @@ Rekkt is a techno and drum & bass artist based in Belgium, with 6 gigs on soundc
 
 DNNS, FLKN, Flymeon
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rekkt/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rekkt/)*

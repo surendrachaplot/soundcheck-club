@@ -1,6 +1,6 @@
 # MALISTA
 
-MALISTA is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Liquid Club, Malta on Sat, 26 Dec 2026.
+MALISTA is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Liquid Club, Malta on Sat, 26 Dec 2026.
 
 MALISTA is a techno and industrial artist based in Malta, with 33 gigs on soundcheck across Malta. Often billed alongside MAMO, A-THØX and Lombz. Next up: Liquid Club, Malta on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ MALISTA is a techno and industrial artist based in Malta, with 33 gigs on soundc
 
 MAMO (2), A-THØX, Lombz
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/malista/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/malista/)*

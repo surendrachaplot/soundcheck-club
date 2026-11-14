@@ -1,6 +1,6 @@
 # André Dancekowski
 
-André Dancekowski is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Neue Welle, Leipzig on Sat, 14 Nov 2026.
+André Dancekowski is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Neue Welle, Leipzig on Sat, 14 Nov 2026.
 
 André Dancekowski is a house and techno artist based in Germany, with 70 gigs on soundcheck across Berlin, Bologna, Brussels and Cologne and 13 more. Often billed alongside Mikey Gee, karete bu and Black Loops. Next up: Neue Welle, Leipzig on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ André Dancekowski is a house and techno artist based in Germany, with 70 gigs o
 
 Mikey Gee, karete bu, Black Loops
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andredancekowski/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andredancekowski/)*

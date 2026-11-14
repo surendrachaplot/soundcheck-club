@@ -1,6 +1,6 @@
 # Elektrógena
 
-Elektrógena is a Electro and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Doggy Klœb, Malaga on Sat, 5 Dec 2026.
+Elektrógena is a Electro and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Doggy Klœb, Malaga on Sat, 5 Dec 2026.
 
 Elektrógena is an electro and club artist, with 8 gigs on soundcheck across Madrid and Malaga. Often billed alongside Aizikovic, DJ F (ES) and Dan Böhler. Next up: Doggy Klœb, Malaga on Sat 5 Dec.
 
@@ -24,4 +24,4 @@ Elektrógena is an electro and club artist, with 8 gigs on soundcheck across Mad
 
 Aizikovic, DJ F (ES), Dan Böhler
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elektrogena/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elektrogena/)*

@@ -1,6 +1,6 @@
 # Andrea Riffo
 
-Andrea Riffo is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Club 1, Santiago on Sat, 28 Nov 2026.
+Andrea Riffo is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Club 1, Santiago on Sat, 28 Nov 2026.
 
 Andrea Riffo is a techno and electronica artist based in Chile, with 19 gigs on soundcheck across Barcelona, Berlin, Riga and Santiago. Often billed alongside EXKIZO, Marcelo Antonio and Adriana Lopez. Next up: Club 1, Santiago on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Andrea Riffo is a techno and electronica artist based in Chile, with 19 gigs on 
 
 EXKIZO, Marcelo Antonio, Adriana Lopez
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andreariffo/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andreariffo/)*

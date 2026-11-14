@@ -1,6 +1,6 @@
 # Red Laser at The White Hotel
 
-Red Laser at The White Hotel on Sat 16 Jan, Manchester. 2 artists: Il Bosco and Pharaoh Brunson. Disco and Acid. See the line-up on soundcheck.
+Red Laser at The White Hotel on Sat 16 Jan, Manchester. 2 artists: Il Bosco and Pharaoh Brunson. Acid and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

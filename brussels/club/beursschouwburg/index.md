@@ -1,6 +1,6 @@
 # Beursschouwburg
 
-Beursschouwburg is a music venue in Brussels with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Desire + Johnny Jewel" on Mon, 23 Nov 2026.
+Beursschouwburg is a music venue in Brussels with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Desire + Johnny Jewel" on Mon, 23 Nov 2026.
 
 Beursschouwburg is a music venue in Brussels listed on soundcheck. 3 upcoming gigs, with line-ups including DJ Creole Princess, iced lattina, Johnny Jewel and Ocelot and 1 more. See dates, start times and who's playing. Auguste Ortsstraat 20-28; 1000 Brussel; Belgium.
 
@@ -16,4 +16,4 @@ Beursschouwburg is a music venue in Brussels listed on soundcheck. 3 upcoming gi
 
 Auguste Ortsstraat 20-28; 1000 Brussel; Belgium, Brussels
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/beursschouwburg/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/beursschouwburg/)*

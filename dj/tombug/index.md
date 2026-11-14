@@ -1,8 +1,8 @@
 # Tom Bug
 
-Tom Bug is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Peti Kupe, Zagreb on Sat, 14 Nov 2026.
+Tom Bug is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Peti Kupe, Zagreb on Sat, 14 Nov 2026.
 
-Tom Bug is a house and deep house artist, with 19 gigs on soundcheck across Belgrade, Ljubljana and Zagreb. Often billed alongside Elena Mikac, Aney F. and Ilija Rudman. Next up: Peti Kupe, Zagreb on Sat 14 Nov.
+Tom Bug is a house and deep house artist based in Croatia, with 19 gigs on soundcheck across Belgrade, Ljubljana and Zagreb. Often billed alongside Elena Mikac, Aney F. and Ilija Rudman. Next up: Peti Kupe, Zagreb on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Tom Bug is a house and deep house artist, with 19 gigs on soundcheck across Belg
 
 Elena Mikac, Aney F., Ilija Rudman
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tombug/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tombug/)*

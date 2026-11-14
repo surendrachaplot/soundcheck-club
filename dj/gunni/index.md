@@ -1,6 +1,6 @@
 # Gunni
 
-Gunni is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Cantina SieteSeis, Mexico City on Wed, 11 Nov 2026.
+Gunni is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Cantina SieteSeis, Mexico City on Wed, 11 Nov 2026.
 
 Gunni is a techno and house artist based in Belgium, with 22 gigs on soundcheck across Berlin, Brussels, Cologne and Ghent and 2 more. Often billed alongside AliA, DJ Rino and EliseThere. Next up: Cantina SieteSeis, Mexico City on Wed 11 Nov.
 
@@ -25,4 +25,4 @@ Gunni is a techno and house artist based in Belgium, with 22 gigs on soundcheck 
 
 AliA, DJ Rino, EliseThere
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gunni/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gunni/)*

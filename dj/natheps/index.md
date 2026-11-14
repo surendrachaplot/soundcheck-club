@@ -1,6 +1,6 @@
 # nath eps
 
-nath eps is a Funk / Soul and R&B artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Club Cheek, London on Sat, 28 Nov 2026.
+nath eps is a Funk / Soul and R&B artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Club Cheek, London on Sat, 28 Nov 2026.
 
 nath eps is a funk / soul and r&b artist based in United Kingdom, with 17 gigs on soundcheck across Berlin, Bristol and London. Often billed alongside joey manzi, Saige Sounds and Alexander Nut. Next up: Club Cheek, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ nath eps is a funk / soul and r&b artist based in United Kingdom, with 17 gigs o
 
 joey manzi, Saige Sounds, Alexander Nut
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/natheps/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/natheps/)*

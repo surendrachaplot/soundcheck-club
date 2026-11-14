@@ -1,14 +1,13 @@
 # Gut Level
 
-Gut Level is a music venue in Sheffield with 10 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Sleazy Peelers w/ Rosie Ama, Kay Fabe, Betty & Paniolo" on Fri, 13 Nov 2026.
+Gut Level is a music venue in Sheffield with 9 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "LEATHERDYKE - 4 YEARS OF PISS, SWEAT, AND TEARS" on Sat, 14 Nov 2026.
 
-Gut Level is a music venue in Sheffield listed on soundcheck. 10 upcoming gigs, with line-ups including Aquamarine, Backseat Driver, Ben Vince and Bubbles (UK) and 2 more. See dates, start times and who's playing. 32-34 Chapel Walk, Sheffield, S1 2PD.
+Gut Level is a music venue in Sheffield listed on soundcheck. 9 upcoming gigs, with line-ups including Aquamarine, Backseat Driver, Ben Vince and Bubbles (UK) and 2 more. See dates, start times and who's playing. 32-34 Chapel Walk, Sheffield, S1 2PD.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Sleazy Peelers w/ Rosie Ama, Kay Fabe, Betty & Paniolo | Kay Fabe, Paniolo, Rosie Ama |
 | Sat, 14 Nov 2026 | LEATHERDYKE - 4 YEARS OF PISS, SWEAT, AND TEARS | MYNA, TB-316 |
 | Thu, 19 Nov 2026 | Gut Level presents: Ben Vince, Leo Hermitt & Phoneutrian | Ben Vince |
 | Sat, 21 Nov 2026 | Who Needs Guitars Anyway |  |
@@ -23,4 +22,4 @@ Gut Level is a music venue in Sheffield listed on soundcheck. 10 upcoming gigs, 
 
 32-34 Chapel Walk, Sheffield, S1 2PD, Sheffield
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/gut-level/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/gut-level/)*

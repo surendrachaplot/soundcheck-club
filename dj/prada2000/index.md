@@ -1,14 +1,13 @@
 # PRADA2000
 
-PRADA2000 is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Factory Town, Miami on Fri, 13 Nov 2026.
+PRADA2000 is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at RSO.BERLIN, Berlin on Fri, 27 Nov 2026.
 
-PRADA2000 is a techno and trance artist based in Germany, with 214 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 53 more. Often billed alongside Adrian Mills, Mika Heggemann and Cleopard2000. Next up: Factory Town, Miami on Fri 13 Nov.
+PRADA2000 is a techno and trance artist based in Germany, with 214 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 53 more. Often billed alongside Adrian Mills, Mika Heggemann and Cleopard2000. Next up: RSO.BERLIN, Berlin on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Factory Town | Miami |
 | Fri, 27 Nov 2026 | RSO.BERLIN | Berlin |
 | Sat, 5 Dec 2026 | Zenith - Die Kulturhalle | Munich |
 | Fri, 11 Dec 2026 | Fuse | Brussels |
@@ -18,6 +17,7 @@ PRADA2000 is a techno and trance artist based in Germany, with 214 gigs on sound
 
 ## Recently played
 
+- Factory Town, Miami · Fri, 13 Nov 2026
 - Nxt Museum, Amsterdam · Fri, 23 Oct 2026
 - Warehouse Elementenstraat, Amsterdam · Thu, 22 Oct 2026
 - Gotec, Karlsruhe · Sat, 17 Oct 2026
@@ -25,10 +25,9 @@ PRADA2000 is a techno and trance artist based in Germany, with 214 gigs on sound
 - Plage Privée Parc de Miribel, Lyon · Sat, 10 Oct 2026
 - WDM, Hannover · Fri, 2 Oct 2026
 - TBA - Fohrstraat, 9000 Gent, België, Ghent · Sat, 26 Sept 2026
-- Cabaret  Aléatoire, Marseille · Fri, 25 Sept 2026
 
 ## Shares bills with
 
 Adrian Mills, Mika Heggemann, Cleopard2000
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prada2000/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prada2000/)*

@@ -1,6 +1,6 @@
 # PLK
 
-PLK is a Experimental and Pop artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Casa del lago UNAM, Mexico City on Fri, 20 Nov 2026.
+PLK is a Experimental and Pop artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Casa del lago UNAM, Mexico City on Fri, 20 Nov 2026.
 
 PLK is an experimental and pop artist based in Poland, with 10 gigs on soundcheck across Berlin, Brussels, Krakow and Mexico City and 1 more. Often billed alongside KAROLINDA, Angerfist and DiV4. Next up: Casa del lago UNAM, Mexico City on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ PLK is an experimental and pop artist based in Poland, with 10 gigs on soundchec
 
 KAROLINDA, Angerfist, DiV4
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/plk-1/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/plk-1/)*

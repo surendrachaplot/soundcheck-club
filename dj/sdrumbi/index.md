@@ -1,6 +1,6 @@
 # Sdrumbi
 
-Sdrumbi is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Station Live Club, Milan on Fri, 18 Dec 2026.
+Sdrumbi is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Station Live Club, Milan on Fri, 18 Dec 2026.
 
 Sdrumbi is a house and electronica artist based in Italy, with 16 gigs on soundcheck across Copenhagen and Milan. Often billed alongside Sunday Lapolees, Memo (CO) and Ariberto. Next up: Station Live Club, Milan on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Sdrumbi is a house and electronica artist based in Italy, with 16 gigs on soundc
 
 Sunday Lapolees, Memo (CO), Ariberto
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sdrumbi/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sdrumbi/)*

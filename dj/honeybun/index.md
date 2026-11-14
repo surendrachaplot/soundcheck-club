@@ -1,20 +1,20 @@
 # Honey Bun
 
-Honey Bun is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Good Room, New York City on Fri, 13 Nov 2026.
+Honey Bun is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Knockdown Center, New York City on Sat, 28 Nov 2026.
 
-Honey Bun is a house and techno artist based in United States of America, with 153 gigs on soundcheck across Amsterdam, Boston, Brussels and Croatia and 6 more. Often billed alongside Lovie, Stonie Blue and Ayanna Heaven. Next up: Good Room, New York City on Fri 13 Nov.
+Honey Bun is a house and techno artist based in United States of America, with 153 gigs on soundcheck across Amsterdam, Boston, Brussels and Croatia and 6 more. Often billed alongside Lovie, Stonie Blue and Ayanna Heaven. Next up: Knockdown Center, New York City on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Good Room | New York City |
 | Sat, 28 Nov 2026 | Knockdown Center | New York City |
 | Fri, 11 Dec 2026 | House of Yes | New York City |
 | Thu, 19 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 
+- Good Room, New York City · Fri, 13 Nov 2026
 - TBA - Brooklyn, New York City · Sat, 31 Oct 2026
 - Nowadays, New York City · Sat, 17 Oct 2026
 - Bossa Nova Civic Club, New York City · Thu, 8 Oct 2026
@@ -22,10 +22,9 @@ Honey Bun is a house and techno artist based in United States of America, with 1
 - Little Island, New York City · Fri, 4 Sept 2026
 - TBA - Brooklyn Loft Location <3, New York City · Fri, 14 Aug 2026
 - Elsewhere, New York City · Fri, 7 Aug 2026
-- Elsewhere, New York City · Fri, 7 Aug 2026
 
 ## Shares bills with
 
 Lovie, Stonie Blue, Ayanna Heaven
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/honeybun/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/honeybun/)*

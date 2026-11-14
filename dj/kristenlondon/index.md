@@ -1,6 +1,6 @@
 # Kristen London
 
-Kristen London is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Idle Mind Tavern, New York City on Sat, 14 Nov 2026.
+Kristen London is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Idle Mind Tavern, New York City on Sat, 14 Nov 2026.
 
 Kristen London is a house and techno artist based in United States of America, with 30 gigs on soundcheck across New York City. Often billed alongside Szobi, DJ girlcrush and Ah Dek. Next up: Idle Mind Tavern, New York City on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Kristen London is a house and techno artist based in United States of America, w
 
 Szobi, DJ girlcrush, Ah Dek
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kristenlondon/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kristenlondon/)*

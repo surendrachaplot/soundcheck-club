@@ -1,14 +1,13 @@
 # Bustin' Loose
 
-Bustin' Loose is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Alcazar Live, Rome on Fri, 13 Nov 2026.
+Bustin' Loose is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Madam, Amsterdam on Sat, 14 Nov 2026.
 
-Bustin' Loose is a house and disco artist based in United Kingdom, with 164 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Berlin and 19 more. Often billed alongside Tatiana, Roland & Brother Rich and Magnolia_. Next up: Alcazar Live, Rome on Fri 13 Nov.
+Bustin' Loose is a house and disco artist based in United Kingdom, with 164 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Berlin and 19 more. Often billed alongside Tatiana, Roland & Brother Rich and Magnolia_. Next up: Madam, Amsterdam on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Alcazar Live | Rome |
 | Sat, 14 Nov 2026 | Madam | Amsterdam |
 | Sat, 21 Nov 2026 | Ciao Ciao | New York City |
 | Fri, 27 Nov 2026 | Nuevo Leon 89 | Mexico City |
@@ -17,6 +16,7 @@ Bustin' Loose is a house and disco artist based in United Kingdom, with 164 gigs
 
 ## Recently played
 
+- Alcazar Live, Rome · Fri, 13 Nov 2026
 - Gloria's, Liverpool · Sat, 7 Nov 2026
 - Amsterdam Central Station, Amsterdam · Sat, 24 Oct 2026
 - Art''otel Amsterdam, Amsterdam · Fri, 23 Oct 2026
@@ -24,10 +24,9 @@ Bustin' Loose is a house and disco artist based in United Kingdom, with 164 gigs
 - Watsons EQ, Sydney · Sun, 4 Oct 2026
 - Xanadu, New York City · Sun, 20 Sept 2026
 - ZeyZey, Miami · Fri, 18 Sept 2026
-- Ciao Ciao, New York City · Sat, 12 Sept 2026
 
 ## Shares bills with
 
 Tatiana, Roland & Brother Rich, Magnolia_
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bustinloose/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bustinloose/)*

@@ -1,6 +1,6 @@
 # Psyked
 
-Psyked is a Hardcore and Garage artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at O2 Academy Bristol, Bristol on Sat, 28 Nov 2026.
+Psyked is a Hardcore and Garage artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at O2 Academy Bristol, Bristol on Sat, 28 Nov 2026.
 
 Psyked is a hardcore and garage artist based in Germany, with 3 gigs on soundcheck across Berlin, Bristol and Leeds. Often billed alongside Amelia Leigh, BERRA and CICELY. Next up: O2 Academy Bristol, Bristol on Sat 28 Nov.
 
@@ -19,4 +19,4 @@ Psyked is a hardcore and garage artist based in Germany, with 3 gigs on soundche
 
 Amelia Leigh, BERRA, CICELY
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/psyked/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/psyked/)*

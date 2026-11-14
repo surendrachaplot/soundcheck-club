@@ -1,6 +1,6 @@
 # MEUTE
 
-MEUTE is a Techno and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Foothills of Nandi, Karahalli, Bangalore on Sat, 5 Dec 2026.
+MEUTE is a Techno and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Foothills of Nandi, Karahalli, Bangalore on Sat, 5 Dec 2026.
 
 MEUTE is a techno and progressive house artist based in Germany, with 22 gigs on soundcheck across Amsterdam, Bangalore, Barcelona and Bologna and 13 more. Often billed alongside FISHER, Joris Voorn and KOMPROMAT. Next up: TBA - Foothills of Nandi, Karahalli, Bangalore on Sat 5 Dec.
 
@@ -27,4 +27,4 @@ MEUTE is a techno and progressive house artist based in Germany, with 22 gigs on
 
 FISHER, Joris Voorn, KOMPROMAT
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meute/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meute/)*

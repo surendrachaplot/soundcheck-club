@@ -1,6 +1,6 @@
 # Brandon Block
 
-Brandon Block is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Joshua Brooks, Manchester on Sat, 12 Dec 2026.
+Brandon Block is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Joshua Brooks, Manchester on Sat, 12 Dec 2026.
 
 Brandon Block is a house and tech house artist based in United Kingdom, with 44 gigs on soundcheck across Auckland, Brighton, Brisbane and Dubai and 6 more. Often billed alongside Bongo Ben, Alex P and Darren Emerson. Next up: Joshua Brooks, Manchester on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Brandon Block is a house and tech house artist based in United Kingdom, with 44 
 
 Bongo Ben, Alex P, Darren Emerson
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brandonblock/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brandonblock/)*

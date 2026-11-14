@@ -1,6 +1,6 @@
 # Mercado Popular: Fundraiser for Venezuela & Colombia at Osmo x Marusan
 
-Mercado Popular: Fundraiser for Venezuela & Colombia at Osmo x Marusan on Sat 21 Nov, Montreal. 1 artist: santinista. Reggaeton and Dembow. See the line-up on soundcheck.
+Mercado Popular: Fundraiser for Venezuela & Colombia at Osmo x Marusan on Sat 21 Nov, Montreal. 1 artist: chago_91. Reggaeton and Dembow. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,6 @@ Mercado Popular: Fundraiser for Venezuela & Colombia at Osmo x Marusan on Sat 21
 
 ## Line-up
 
-- santinista
+- chago_91
 
 *Source: [soundcheck](https://soundcheck.club/e/2583903-mercado-popular-fundraiser-for-venezuela-colombia-at-osmo-x/)*

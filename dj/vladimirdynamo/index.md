@@ -1,6 +1,6 @@
 # Vladimir Dynamo
 
-Vladimir Dynamo is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Mogambo, Valencia on Fri, 20 Nov 2026.
+Vladimir Dynamo is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Mogambo, Valencia on Fri, 20 Nov 2026.
 
 Vladimir Dynamo is a techno and electro artist based in Spain, with 36 gigs on soundcheck across Barcelona, Madrid and Valencia. Often billed alongside Finalversion3, Alienata and Dj badtrip. Next up: Mogambo, Valencia on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Vladimir Dynamo is a techno and electro artist based in Spain, with 36 gigs on s
 
 Finalversion3, Alienata, Dj badtrip
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vladimirdynamo/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vladimirdynamo/)*

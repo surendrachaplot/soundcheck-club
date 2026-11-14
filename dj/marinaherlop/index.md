@@ -1,6 +1,6 @@
 # Marina Herlop
 
-Marina Herlop is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA, Berlin on Fri, 22 Jan 2027.
+Marina Herlop is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA, Berlin on Fri, 22 Jan 2027.
 
 Marina Herlop is an experimental and techno artist based in Spain, with 38 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bologna and 18 more. Often billed alongside James Holden, Kode9 and Bill Kouligas. Next up: TBA, Berlin on Fri 22 Jan.
 
@@ -25,4 +25,4 @@ Marina Herlop is an experimental and techno artist based in Spain, with 38 gigs 
 
 James Holden, Kode9, Bill Kouligas
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marinaherlop/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marinaherlop/)*

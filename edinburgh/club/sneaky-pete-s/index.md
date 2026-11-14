@@ -1,17 +1,17 @@
 # Sneaky Pete's
 
-Sneaky Pete's is a music venue in Edinburgh with 32 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Palidrone: Dansa (LUCKYME) & rudi" on Fri, 13 Nov 2026.
+Sneaky Pete's is a music venue in Edinburgh with 43 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Popular Music" on Sat, 14 Nov 2026.
 
-Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 32 upcoming gigs, with line-ups including YVI, Amber Leith, Becca Egan and Big Miz and 2 more. See dates, start times and who's playing. 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom.
+Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 43 upcoming gigs, with line-ups including YVI, Amber Leith, Ant TC1 and Becca Egan and 2 more. See dates, start times and who's playing. 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Palidrone: Dansa (LUCKYME) & rudi | Dansa |
 | Sat, 14 Nov 2026 | Popular Music | Nick from Sneaks |
 | Sun, 15 Nov 2026 | GOO (Daniel Avery b2b Richard Fearless) - Free Time | Daniel Avery, Richard Fearless |
 | Sun, 15 Nov 2026 | Postal: Amber Leith | Amber Leith |
+| Mon, 16 Nov 2026 | Konversion |  |
 | Mon, 16 Nov 2026 | Konversion |  |
 | Tue, 17 Nov 2026 | RARE Club // Becca Egan, Geordie | Becca Egan, Geordie |
 | Tue, 17 Nov 2026 | RARE Club, Becca Egan, Geordie | Becca Egan, Geordie |
@@ -23,4 +23,4 @@ Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 32 upcoming gi
 
 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom, Edinburgh
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/sneaky-pete-s/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/sneaky-pete-s/)*

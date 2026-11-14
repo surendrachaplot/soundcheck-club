@@ -1,6 +1,6 @@
 # znorthy
 
-znorthy is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Val’s Lesbian Bar, Philadelphia on Fri, 20 Nov 2026.
+znorthy is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Val’s Lesbian Bar, Philadelphia on Fri, 20 Nov 2026.
 
 znorthy is a club and techno artist based in United States of America, with 74 gigs on soundcheck across Baltimore, Bogotá, New York City and Philadelphia and 2 more. Often billed alongside Franxx, GET FACE and Gabberbitch69. Next up: Val’s Lesbian Bar, Philadelphia on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ znorthy is a club and techno artist based in United States of America, with 74 g
 
 Franxx, GET FACE, Gabberbitch69
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/znorthy/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/znorthy/)*

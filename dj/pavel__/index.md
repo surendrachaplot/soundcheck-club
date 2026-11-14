@@ -1,6 +1,6 @@
 # PAVEL__
 
-PAVEL__ is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Aaja Basement, London on Fri, 11 Dec 2026.
+PAVEL__ is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Aaja Basement, London on Fri, 11 Dec 2026.
 
 PAVEL__ is a techno and electro artist based in Romania, with 6 gigs on soundcheck across London. Often billed alongside DELARA, Jonas Lesitoc and Modlar. Next up: Aaja Basement, London on Fri 11 Dec.
 
@@ -22,4 +22,4 @@ PAVEL__ is a techno and electro artist based in Romania, with 6 gigs on soundche
 
 DELARA, Jonas Lesitoc, Modlar
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pavel__/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pavel__/)*

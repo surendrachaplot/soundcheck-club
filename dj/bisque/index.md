@@ -1,6 +1,6 @@
 # BISQUE
 
-BISQUE is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at nachbar, Amsterdam on Fri, 27 Nov 2026.
+BISQUE is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at nachbar, Amsterdam on Fri, 27 Nov 2026.
 
 BISQUE is an electronic artist based in United States of America, with 6 gigs on soundcheck across Amsterdam. Often billed alongside Schwesta P, AAT (NL) and Ammé. Next up: nachbar, Amsterdam on Fri 27 Nov.
 
@@ -22,4 +22,4 @@ BISQUE is an electronic artist based in United States of America, with 6 gigs on
 
 Schwesta P, AAT (NL), Ammé
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bisque/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bisque/)*

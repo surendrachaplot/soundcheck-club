@@ -1,6 +1,6 @@
 # Sel.6
 
-Sel.6 is a Bass and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at ZeyZey, Miami on Sat, 14 Nov 2026.
+Sel.6 is a Bass and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at ZeyZey, Miami on Sat, 14 Nov 2026.
 
 Sel.6 is a bass and electro artist based in United States of America, with 58 gigs on soundcheck across Miami, Minneapolis/St Paul, New Orleans and New York City and 1 more. Often billed alongside Alexx in Chainss, DJ Tamsom and Pressure Point (US). Next up: ZeyZey, Miami on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Sel.6 is a bass and electro artist based in United States of America, with 58 gi
 
 Alexx in Chainss, DJ Tamsom, Pressure Point (US)
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sel6/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sel6/)*

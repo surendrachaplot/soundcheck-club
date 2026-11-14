@@ -1,6 +1,6 @@
 # kstrobez
 
-kstrobez is a Jungle and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Mood Ring, New York City on Thu, 19 Nov 2026.
+kstrobez is a Jungle and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Mood Ring, New York City on Thu, 19 Nov 2026.
 
 kstrobez is a jungle and house artist based in United States of America, with 6 gigs on soundcheck across New York City. Often billed alongside 32LVS, AG and EDEN BEKELE. Next up: Mood Ring, New York City on Thu 19 Nov.
 
@@ -22,4 +22,4 @@ kstrobez is a jungle and house artist based in United States of America, with 6 
 
 32LVS, AG (1), EDEN BEKELE
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kstrobez/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kstrobez/)*

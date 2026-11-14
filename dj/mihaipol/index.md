@@ -1,6 +1,6 @@
 # Mihai Pol
 
-Mihai Pol is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - 333, New York City on Fri, 20 Nov 2026.
+Mihai Pol is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - 333, New York City on Fri, 20 Nov 2026.
 
 Mihai Pol is a minimal and house artist based in Romania, with 73 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Bali and 28 more. Often billed alongside Constratti, Daescu and Prichindel. Next up: TBA - 333, New York City on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Mihai Pol is a minimal and house artist based in Romania, with 73 gigs on soundc
 
 Constratti, Daescu, Prichindel
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mihaipol/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mihaipol/)*

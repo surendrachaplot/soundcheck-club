@@ -1,6 +1,6 @@
 # Donna
 
-Donna is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Ghent (multi-venue), Ghent on Fri, 27 Nov 2026.
+Donna is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Ghent (multi-venue), Ghent on Fri, 27 Nov 2026.
 
 Donna is a club and techno artist based in Germany, with 17 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Ghent and 5 more. Often billed alongside Samantha Togni, ASHTREY and Anahita Shamsaei. Next up: TBA - Ghent (multi-venue), Ghent on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Donna is a club and techno artist based in Germany, with 17 gigs on soundcheck a
 
 Samantha Togni, ASHTREY, Anahita Shamsaei
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/donna/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/donna/)*

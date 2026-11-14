@@ -1,6 +1,6 @@
 # Onsawa&tkc
 
-Onsawa&tkc is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at VENT, Tokyo on Fri, 20 Nov 2026.
+Onsawa&tkc is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at VENT, Tokyo on Fri, 20 Nov 2026.
 
 Onsawa&tkc is a house and tech house artist based in Japan, with 9 gigs on soundcheck across Tokyo. Often billed alongside Ayantula, GooPer and Kotono Shirai. Next up: VENT, Tokyo on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Onsawa&tkc is a house and tech house artist based in Japan, with 9 gigs on sound
 
 Ayantula, GooPer, Kotono Shirai
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/onsawatkc/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/onsawatkc/)*

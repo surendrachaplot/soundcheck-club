@@ -1,6 +1,6 @@
 # The Elastic Ball
 
-The Elastic Ball is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Old Towne Pub, Los Angeles on Sun, 15 Nov 2026.
+The Elastic Ball is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Old Towne Pub, Los Angeles on Sun, 15 Nov 2026.
 
 The Elastic Ball is an experimental and electronica artist based in United States of America, with 6 gigs on soundcheck across Los Angeles. Often billed alongside blanket forts, E.M. Bae and Hot Sound Injection. Next up: Old Towne Pub, Los Angeles on Sun 15 Nov.
 
@@ -22,4 +22,4 @@ The Elastic Ball is an experimental and electronica artist based in United State
 
 blanket forts, E.M. Bae, Hot Sound Injection
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theelasticball/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theelasticball/)*

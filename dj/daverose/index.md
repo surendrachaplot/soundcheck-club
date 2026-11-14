@@ -1,6 +1,6 @@
 # Dave Rose
 
-Dave Rose is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 14 Nov 2026.
+Dave Rose is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 14 Nov 2026.
 
 Dave Rose is a house and tech house artist based in United States of America, with 9 gigs on soundcheck across Barcelona, Ibiza and San Diego. Often billed alongside REDA (EG), ATMEN and Adrián Mejías. Next up: Seaseaclub Barcelona, Barcelona on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Dave Rose is a house and tech house artist based in United States of America, wi
 
 REDA (EG), ATMEN, Adrián Mejías
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daverose/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daverose/)*

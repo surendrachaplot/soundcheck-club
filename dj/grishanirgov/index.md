@@ -1,6 +1,6 @@
 # Grisha Nirgov
 
-Grisha Nirgov is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Laska V21, Riga on Fri, 20 Nov 2026.
+Grisha Nirgov is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Laska V21, Riga on Fri, 20 Nov 2026.
 
 Grisha Nirgov is a techno and house artist based in Latvia, with 30 gigs on soundcheck across Riga. Often billed alongside Herren Ivo, Johnny Depo and mOZ. Next up: Laska V21, Riga on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Grisha Nirgov is a techno and house artist based in Latvia, with 30 gigs on soun
 
 Herren Ivo, Johnny Depo, mOZ (2)
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grishanirgov/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grishanirgov/)*

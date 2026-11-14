@@ -1,6 +1,6 @@
 # karennoid
 
-karennoid is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Botanero, Chicago on Fri, 20 Nov 2026.
+karennoid is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Botanero, Chicago on Fri, 20 Nov 2026.
 
 karennoid is a techno and club artist based in United States of America, with 52 gigs on soundcheck across Chicago, Los Angeles and Mexico City. Often billed alongside J. Córdova, DJ Aguara'i and Flores Negras. Next up: Botanero, Chicago on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ karennoid is a techno and club artist based in United States of America, with 52
 
 J. Córdova, DJ Aguara'i, Flores Negras
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karennoid/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karennoid/)*

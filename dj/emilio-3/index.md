@@ -1,6 +1,6 @@
 # EMILIO (3)
 
-EMILIO (3) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Z Maruyama, Tokyo on Thu, 19 Nov 2026.
+EMILIO (3) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Z Maruyama, Tokyo on Thu, 19 Nov 2026.
 
 EMILIO is a techno and trance artist based in Japan, with 66 gigs on soundcheck across Osaka, Seoul and Tokyo. Often billed alongside uuu7, STRATAH and EVE. Next up: Z Maruyama, Tokyo on Thu 19 Nov.
 
@@ -26,4 +26,4 @@ EMILIO is a techno and trance artist based in Japan, with 66 gigs on soundcheck 
 
 uuu7, STRATAH, EVE (1)
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emilio-3/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emilio-3/)*

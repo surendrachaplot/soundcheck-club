@@ -1,6 +1,6 @@
 # BAAZZLEY
 
-BAAZZLEY is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Oberon, New York City on Sat, 14 Nov 2026.
+BAAZZLEY is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Oberon, New York City on Sat, 14 Nov 2026.
 
 BAAZZLEY is a house and disco artist based in United States of America, with 9 gigs on soundcheck across Istanbul and New York City. Often billed alongside ALEXIS DE LA ROSA, James Axon and Justin Cudmore. Next up: Oberon, New York City on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ BAAZZLEY is a house and disco artist based in United States of America, with 9 g
 
 ALEXIS DE LA ROSA, James Axon, Justin Cudmore
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baazzley/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baazzley/)*

@@ -1,6 +1,6 @@
 # Cassia
 
-Cassia is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Flash, Washington DC on Sat, 21 Nov 2026.
+Cassia is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Flash, Washington DC on Sat, 21 Nov 2026.
 
 Cassia is a house and deep house artist based in United States of America, with 65 gigs on soundcheck across Budapest, Hamburg, Leipzig and London and 3 more. Often billed alongside SPCL.K, Cloud Ary and Chase Wilson. Next up: Flash, Washington DC on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Cassia is a house and deep house artist based in United States of America, with 
 
 SPCL.K, Cloud Ary, Chase Wilson
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cassia/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cassia/)*

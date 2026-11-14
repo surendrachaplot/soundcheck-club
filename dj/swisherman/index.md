@@ -1,6 +1,6 @@
 # swisherman
 
-swisherman is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Oxford Art Factory, Sydney on Fri, 8 Jan 2027.
+swisherman is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Oxford Art Factory, Sydney on Fri, 8 Jan 2027.
 
 swisherman is a techno and bass artist based in Australia, with 12 gigs on soundcheck across Canberra and Sydney. Often billed alongside Fashionably Late, Ebony Willis and Karmel Jäger. Next up: Oxford Art Factory, Sydney on Fri 8 Jan.
 
@@ -25,4 +25,4 @@ swisherman is a techno and bass artist based in Australia, with 12 gigs on sound
 
 Fashionably Late, Ebony Willis, Karmel Jäger
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/swisherman/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/swisherman/)*

@@ -1,6 +1,6 @@
 # Sun of June
 
-Sun of June is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Nué Seoul, Seoul on Sat, 14 Nov 2026.
+Sun of June is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Nué Seoul, Seoul on Sat, 14 Nov 2026.
 
 Sun of June is a house and disco artist based in France, with 78 gigs on soundcheck across Marseille, Nottingham, Seoul and Tokyo. Often billed alongside Cityboy from Seoul, HAGY and Moeuv. Next up: Nué Seoul, Seoul on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Sun of June is a house and disco artist based in France, with 78 gigs on soundch
 
 Cityboy from Seoul, HAGY, Moeuv
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sunofjune/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sunofjune/)*

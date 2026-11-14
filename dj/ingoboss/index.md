@@ -1,6 +1,6 @@
 # Ingo Boss
 
-Ingo Boss is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Outzeit, Hesse on Sat, 14 Nov 2026.
+Ingo Boss is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Outzeit, Hesse on Sat, 14 Nov 2026.
 
 Ingo Boss is a techno and house artist based in Germany, with 6 gigs on soundcheck across Berlin, Düsseldorf, Frankfurt and Hesse. Often billed alongside Felix Reichelt, Holger Schönagel and Ida Engberg. Next up: Outzeit, Hesse on Sat 14 Nov.
 
@@ -22,4 +22,4 @@ Ingo Boss is a techno and house artist based in Germany, with 6 gigs on soundche
 
 Felix Reichelt, Holger Schönagel, Ida Engberg
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ingoboss/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ingoboss/)*

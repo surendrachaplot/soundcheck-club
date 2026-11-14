@@ -1,6 +1,6 @@
 # MAHO
 
-MAHO is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Royal Lounge, Tokyo on Sun, 15 Nov 2026.
+MAHO is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Royal Lounge, Tokyo on Sun, 15 Nov 2026.
 
 MAHO is a house and techno artist based in Mexico, with 35 gigs on soundcheck across Guadalajara, Mexico City, Nantes and Osaka and 1 more. Often billed alongside SIGNAL (JP), Krankent and RIN. Next up: Royal Lounge, Tokyo on Sun 15 Nov.
 
@@ -26,4 +26,4 @@ MAHO is a house and techno artist based in Mexico, with 35 gigs on soundcheck ac
 
 SIGNAL (JP), Krankent, RIN (5)
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maho-mx/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maho-mx/)*

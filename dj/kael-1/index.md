@@ -1,6 +1,6 @@
 # KAEL (1)
 
-KAEL (1) is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Nordstern, Basel on Sat, 5 Dec 2026.
+KAEL (1) is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Nordstern, Basel on Sat, 5 Dec 2026.
 
 KAEL is a techno and electro artist based in Switzerland, with 26 gigs on soundcheck across Amsterdam, Basel, Geneva and Lausanne and 1 more. Often billed alongside Deborah De Luca, Gioski and Enrico Sangiuliano. Next up: Nordstern, Basel on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ KAEL is a techno and electro artist based in Switzerland, with 26 gigs on soundc
 
 Deborah De Luca, Gioski, Enrico Sangiuliano
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kael-1/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kael-1/)*

@@ -1,8 +1,8 @@
 # Black Criss
 
-Black Criss is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Ocaso Rooftop Gastro-Bar, Medellin on Sat, 28 Nov 2026.
+Black Criss is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Ocaso Rooftop Gastro-Bar, Medellin on Sat, 28 Nov 2026.
 
-Black Criss is a tech house and house artist, with 30 gigs on soundcheck across Medellin. Often billed alongside Gruss, Davis Gruss and Camilo Do Santos. Next up: Ocaso Rooftop Gastro-Bar, Medellin on Sat 28 Nov.
+Black Criss is a tech house and house artist based in Colombia, with 30 gigs on soundcheck across Medellin. Often billed alongside Gruss, Davis Gruss and Camilo Do Santos. Next up: Ocaso Rooftop Gastro-Bar, Medellin on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Black Criss is a tech house and house artist, with 30 gigs on soundcheck across 
 
 Gruss, Davis Gruss, Camilo Do Santos
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blackcriss/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blackcriss/)*

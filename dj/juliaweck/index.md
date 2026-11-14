@@ -1,6 +1,6 @@
 # Julia Weck
 
-Julia Weck is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Fortim CE, Brazil on Sat, 26 Dec 2026.
+Julia Weck is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Fortim CE, Brazil on Sat, 26 Dec 2026.
 
 Julia Weck is a house and disco artist based in Brazil, with 16 gigs on soundcheck across Berlin, Brazil, Lisbon and Paris and 2 more. Often billed alongside Giu Viscardi, Vermelho and Benjamin Ferreira. Next up: TBA - Fortim CE, Brazil on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Julia Weck is a house and disco artist based in Brazil, with 16 gigs on soundche
 
 Giu Viscardi, Vermelho, Benjamin Ferreira
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juliaweck/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juliaweck/)*

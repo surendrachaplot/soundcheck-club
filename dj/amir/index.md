@@ -1,6 +1,6 @@
 # Amir
 
-Amir is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at PIP Den Haag, The Hague on Sat, 5 Dec 2026.
+Amir is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at PIP Den Haag, The Hague on Sat, 5 Dec 2026.
 
 Amir is a techno and house artist based in Germany, with 15 gigs on soundcheck across Amsterdam, Basel, Dubai and Melbourne and 3 more. Often billed alongside Rozaly, A.Well and ARRA. Next up: PIP Den Haag, The Hague on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Amir is a techno and house artist based in Germany, with 15 gigs on soundcheck a
 
 Rozaly, A.Well, ARRA
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amir/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amir/)*

@@ -1,6 +1,6 @@
 # Uone
 
-Uone is a Deep House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at St Kilda Bowling Club, Melbourne on Sun, 21 Feb 2027.
+Uone is a Deep House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at St Kilda Bowling Club, Melbourne on Sun, 21 Feb 2027.
 
 Uone is a deep house and techno artist, with 25 gigs on soundcheck across Amsterdam, Auckland, Bali and Berlin and 6 more. Often billed alongside Viken Arman, Sanoi and Stavroz. Next up: St Kilda Bowling Club, Melbourne on Sun 21 Feb.
 
@@ -25,4 +25,4 @@ Uone is a deep house and techno artist, with 25 gigs on soundcheck across Amster
 
 Viken Arman, Sanoi, Stavroz
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/uone/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/uone/)*

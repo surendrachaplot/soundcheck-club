@@ -1,6 +1,6 @@
 # Parisha
 
-Parisha is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at OXI, Berlin on Sat, 14 Nov 2026.
+Parisha is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at OXI, Berlin on Sat, 14 Nov 2026.
 
 Parisha is a techno and trance artist based in Germany, with 26 gigs on soundcheck across Bangkok, Berlin and Leipzig. Often billed alongside The Blackmailer, die Berts and Esther. Next up: OXI, Berlin on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Parisha is a techno and trance artist based in Germany, with 26 gigs on soundche
 
 The Blackmailer, die Berts, Esther
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/parisha/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/parisha/)*

@@ -1,6 +1,6 @@
 # Dj Dune
 
-Dj Dune is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Lasociaciøn, Madrid on Fri, 11 Dec 2026.
+Dj Dune is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Lasociaciøn, Madrid on Fri, 11 Dec 2026.
 
 Dj Dune is a techno and house artist based in Italy, with 16 gigs on soundcheck across Berlin, Düsseldorf, Madrid and Rome and 1 more. Often billed alongside Astral Travel, DRAMA SOURCE ARTIFACTS and Inner Lakes. Next up: Lasociaciøn, Madrid on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Dj Dune is a techno and house artist based in Italy, with 16 gigs on soundcheck 
 
 Astral Travel, DRAMA SOURCE ARTIFACTS, Inner Lakes
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdune/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdune/)*

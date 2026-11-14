@@ -1,6 +1,6 @@
 # KIKA (MD)
 
-KIKA (MD) is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Sahna, Uzbekistan on Sat, 14 Nov 2026.
+KIKA (MD) is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Sahna, Uzbekistan on Sat, 14 Nov 2026.
 
 KIKA (MD) is a techno and electronica artist based in Moldova, with 12 gigs on soundcheck across Bucharest and Uzbekistan. Often billed alongside Michael Ius, Thomas Rob and ALISTARM. Next up: Sahna, Uzbekistan on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ KIKA (MD) is a techno and electronica artist based in Moldova, with 12 gigs on s
 
 Michael Ius, Thomas Rob, ALISTARM
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kika-md/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kika-md/)*

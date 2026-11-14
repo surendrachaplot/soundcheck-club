@@ -1,6 +1,6 @@
 # Shiva Feshareki
 
-Shiva Feshareki is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Silent Green, Berlin on Fri, 13 Nov 2026.
+Shiva Feshareki is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Silent Green, Berlin on Fri, 13 Nov 2026.
 
 Shiva Feshareki is an experimental and ambient artist based in United Kingdom, with 6 gigs on soundcheck across Berlin, Brussels and London. Often billed alongside Abdullah Miniawy, Aidons Antoine and Babak Ahteshamipour. Next up: Silent Green, Berlin on Fri 13 Nov.
 
@@ -12,6 +12,7 @@ Shiva Feshareki is an experimental and ambient artist based in United Kingdom, w
 
 ## Recently played
 
+- Silent Green, Berlin · Fri, 13 Nov 2026
 - Vespers Club, London · Sat, 25 Apr 2026
 - St Martin-in-the-Fields Church, London · Thu, 5 Mar 2026
 - Les Halles de Schaerbeek, Brussels · Thu, 11 Jan 2024
@@ -22,4 +23,4 @@ Shiva Feshareki is an experimental and ambient artist based in United Kingdom, w
 
 Abdullah Miniawy, Aidons Antoine, Babak Ahteshamipour
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shivafeshareki/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shivafeshareki/)*

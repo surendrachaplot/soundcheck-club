@@ -1,6 +1,6 @@
 # DJ WÜRM
 
-DJ WÜRM is a Club and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Heavy Sick Zero, Tokyo on Sat, 14 Nov 2026.
+DJ WÜRM is a Club and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Heavy Sick Zero, Tokyo on Sat, 14 Nov 2026.
 
 DJ WÜRM is a club and experimental artist based in Belgium, with 14 gigs on soundcheck across Brussels, Ljubljana, Nürnberg and Paris and 3 more. Often billed alongside Brieuc, Illsee and Orphids. Next up: Heavy Sick Zero, Tokyo on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ DJ WÜRM is a club and experimental artist based in Belgium, with 14 gigs on sou
 
 Brieuc, Illsee, Orphids
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djwurm/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djwurm/)*

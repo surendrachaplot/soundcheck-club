@@ -1,6 +1,6 @@
 # Saucy Lady
 
-Saucy Lady is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Sat, 5 Dec 2026.
+Saucy Lady is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Sat, 5 Dec 2026.
 
 Saucy Lady is a disco and house artist based in United States of America, with 30 gigs on soundcheck across Amsterdam, Boston, Detroit and London and 5 more. Often billed alongside Soul Clap, Dimitri From Paris and Funk du Jour. Next up: DJ Bar Bridge Shinjuku, Tokyo on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Saucy Lady is a disco and house artist based in United States of America, with 3
 
 Soul Clap, Dimitri From Paris, Funk du Jour
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saucylady/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saucylady/)*

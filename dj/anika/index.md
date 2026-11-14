@@ -1,8 +1,8 @@
 # Anika
 
-Anika is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Smolna, Warsaw on Thu, 26 Nov 2026.
+Anika is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Smolna, Warsaw on Thu, 26 Nov 2026.
 
-Anika is a techno and house artist, with 22 gigs on soundcheck across Berlin, Brussels, Dortmund / Essen and Dublin and 8 more. Often billed alongside KETTAMA, Tommy Holohan and Austra. Next up: Smolna, Warsaw on Thu 26 Nov.
+Anika is a techno and house artist based in Germany, with 22 gigs on soundcheck across Berlin, Brussels, Dortmund / Essen and Dublin and 8 more. Often billed alongside KETTAMA, Tommy Holohan and Austra. Next up: Smolna, Warsaw on Thu 26 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Anika is a techno and house artist, with 22 gigs on soundcheck across Berlin, Br
 
 KETTAMA, Tommy Holohan, Austra
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anika/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anika/)*

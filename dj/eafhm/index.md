@@ -1,6 +1,6 @@
 # Eafhm
 
-Eafhm is a Electronica and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Relink:Data, Mexico City on Fri, 20 Nov 2026.
+Eafhm is a Electronica and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Relink:Data, Mexico City on Fri, 20 Nov 2026.
 
 Eafhm is an electronica and ambient artist based in Mexico, with 11 gigs on soundcheck across Mexico City. Often billed alongside Bluecommand, Koscoy and MirrorLake. Next up: Relink:Data, Mexico City on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Eafhm is an electronica and ambient artist based in Mexico, with 11 gigs on soun
 
 Bluecommand, Koscoy, MirrorLake
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eafhm/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eafhm/)*

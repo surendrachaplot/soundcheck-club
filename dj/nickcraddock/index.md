@@ -1,6 +1,6 @@
 # Nick Craddock
 
-Nick Craddock is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Collect LX Factory, Lisbon on Wed, 18 Nov 2026.
+Nick Craddock is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Collect LX Factory, Lisbon on Wed, 18 Nov 2026.
 
 Nick Craddock is a house and techno artist based in United Kingdom, with 22 gigs on soundcheck across Lisbon. Often billed alongside Sibson, Ana Pacheco and Francisca Urbano. Next up: Collect LX Factory, Lisbon on Wed 18 Nov.
 
@@ -25,4 +25,4 @@ Nick Craddock is a house and techno artist based in United Kingdom, with 22 gigs
 
 Sibson, Ana Pacheco, Francisca Urbano
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nickcraddock/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nickcraddock/)*

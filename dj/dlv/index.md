@@ -1,14 +1,14 @@
 # DLV
 
-DLV is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at AUX Club, Athens on Sat, 14 Nov 2026.
+DLV is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Arch Club Live Stage, Athens on Sat, 14 Nov 2026.
 
-DLV is a techno and acid artist based in Austria, with 131 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 40 more. Often billed alongside KTK (DE), Sept and Blame The Mono. Next up: AUX Club, Athens on Sat 14 Nov.
+DLV is a techno and acid artist based in Austria, with 131 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 40 more. Often billed alongside KTK (DE), Sept and Blame The Mono. Next up: Arch Club Live Stage, Athens on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | AUX Club | Athens |
+| Sat, 14 Nov 2026 | Arch Club Live Stage | Athens |
 | Sat, 28 Nov 2026 | AUX Club | Athens |
 
 ## Recently played
@@ -26,4 +26,4 @@ DLV is a techno and acid artist based in Austria, with 131 gigs on soundcheck ac
 
 KTK (DE), Sept, Blame The Mono
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dlv/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dlv/)*

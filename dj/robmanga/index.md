@@ -1,0 +1,28 @@
+# Rob Manga
+
+Rob Manga is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at SISSI'S Amsterdam, Amsterdam on Sat, 5 Dec 2026.
+
+Rob Manga is a house and disco artist based in Netherlands, with 50 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Bucharest and 3 more. Often billed alongside Leroy Rey, Lucas Benjamin and some out of none. Next up: SISSI'S Amsterdam, Amsterdam on Sat 5 Dec.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 5 Dec 2026 | SISSI'S Amsterdam | Amsterdam |
+
+## Recently played
+
+- Doka, Amsterdam · Sat, 7 Nov 2026
+- Kyas Art Salon, Amsterdam · Wed, 21 Oct 2026
+- Noorderlicht Café, Amsterdam · Sat, 22 Aug 2026
+- Doka, Amsterdam · Sat, 1 Aug 2026
+- Doka, Amsterdam · Thu, 30 Jul 2026
+- Clutch, Warehouse Bangkok, Bangkok · Fri, 24 Jul 2026
+- Lofi, Amsterdam · Sat, 18 Jul 2026
+- Skatecafe, Amsterdam · Fri, 26 Jun 2026
+
+## Shares bills with
+
+Leroy Rey, Lucas Benjamin, some out of none
+
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robmanga/)*

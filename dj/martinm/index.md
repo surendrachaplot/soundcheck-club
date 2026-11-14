@@ -1,6 +1,6 @@
 # Martin 'M
 
-Martin 'M is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Kassa Boat, Budapest on Fri, 18 Dec 2026.
+Martin 'M is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Kassa Boat, Budapest on Fri, 18 Dec 2026.
 
 Martin 'M is a house and minimal artist based in Hungary, with 37 gigs on soundcheck across Berlin, Budapest, London and Madrid. Often billed alongside Robert Dobak, Electric Boutique and Knoll. Next up: Kassa Boat, Budapest on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Martin 'M is a house and minimal artist based in Hungary, with 37 gigs on soundc
 
 Robert Dobak, Electric Boutique, Knoll
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/martinm/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/martinm/)*

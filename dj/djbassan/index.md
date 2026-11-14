@@ -1,6 +1,6 @@
 # Dj Bassan
 
-Dj Bassan is a Baile Funk and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
+Dj Bassan is a Baile Funk and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
 
 Dj Bassan is a baile funk and techno artist based in Brazil, with 34 gigs on soundcheck across Amsterdam, Berlin, Brussels and Colombia and 4 more. Often billed alongside Caio Prince, Delcu and Carlos do Complexo. Next up: El Rio Hostel, Colombia on Wed 3 Mar.
 
@@ -25,4 +25,4 @@ Dj Bassan is a baile funk and techno artist based in Brazil, with 34 gigs on sou
 
 Caio Prince, Delcu, Carlos do Complexo
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbassan/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbassan/)*

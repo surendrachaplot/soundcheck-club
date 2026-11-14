@@ -1,6 +1,6 @@
 # Felix Kropf
 
-Felix Kropf is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Paloma, Berlin on Sat, 21 Nov 2026.
+Felix Kropf is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Paloma, Berlin on Sat, 21 Nov 2026.
 
 Felix Kropf is a house and techno artist based in Germany, with 17 gigs on soundcheck across Berlin. Often billed alongside Håstad, Ori Raz and Sevensol. Next up: Paloma, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Felix Kropf is a house and techno artist based in Germany, with 17 gigs on sound
 
 Håstad, Ori Raz, Sevensol
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/felixkropf/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/felixkropf/)*

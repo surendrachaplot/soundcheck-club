@@ -1,6 +1,6 @@
 # LEANNE
 
-LEANNE is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Loft, Vienna on Fri, 27 Nov 2026.
+LEANNE is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at The Loft, Vienna on Fri, 27 Nov 2026.
 
 LEANNE is a trance and techno artist based in Slovenia, with 13 gigs on soundcheck across Berlin, Ljubljana, Slovenia and Vienna. Often billed alongside MNTR, Brtinzz and Flacc. Next up: The Loft, Vienna on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ LEANNE is a trance and techno artist based in Slovenia, with 13 gigs on soundche
 
 MNTR, Brtinzz, Flacc
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leanne/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leanne/)*

@@ -1,6 +1,6 @@
 # Matt FX
 
-Matt FX is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Danger Danger, New York City on Sat, 14 Nov 2026.
+Matt FX is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Danger Danger, New York City on Sat, 14 Nov 2026.
 
 Matt FX is a house and techno artist based in United States of America, with 63 gigs on soundcheck across Chengdu, Hanoi, Ho Chi Minh City and Mexico City and 4 more. Often billed alongside Mona Matsuoka, Tim Lucent and Vibeiana. Next up: Danger Danger, New York City on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Matt FX is a house and techno artist based in United States of America, with 63 
 
 Mona Matsuoka, Tim Lucent, Vibeiana
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mattfx/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mattfx/)*

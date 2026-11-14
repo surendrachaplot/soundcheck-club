@@ -1,6 +1,6 @@
 # HYPNOTIC.ERA
 
-HYPNOTIC.ERA is a Italo Disco and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Secret Location, Neukölln (near Sonnenallee), Berlin on Sat, 28 Nov 2026.
+HYPNOTIC.ERA is a Italo Disco and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Secret Location, Neukölln (near Sonnenallee), Berlin on Sat, 28 Nov 2026.
 
 HYPNOTIC.ERA is an italo disco and electro artist based in Germany, with 13 gigs on soundcheck across Berlin. Often billed alongside Desolate Discotheque, Tiem and BB Deng. Next up: TBA - Secret Location, Neukölln (near Sonnenallee), Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ HYPNOTIC.ERA is an italo disco and electro artist based in Germany, with 13 gigs
 
 Desolate Discotheque, Tiem, BB Deng
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hypnotic.era/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hypnotic.era/)*

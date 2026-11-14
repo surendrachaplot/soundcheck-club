@@ -1,6 +1,6 @@
 # Lottus
 
-Lottus is a music venue in Porto with 6 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "9T2 + JOFF" on Sat, 14 Nov 2026.
+Lottus is a music venue in Porto with 6 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "9T2 + JOFF" on Sat, 14 Nov 2026.
 
 Lottus is a music venue in Porto listed on soundcheck. 6 upcoming gigs, with line-ups including 9T2, Amulador, David Rodrigues and Joff and 2 more. See dates, start times and who's playing. Rua De Monchique 15, Juanto A  Alfandega.
 
@@ -19,4 +19,4 @@ Lottus is a music venue in Porto listed on soundcheck. 6 upcoming gigs, with lin
 
 Rua De Monchique 15, Juanto A  Alfandega, Porto
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/porto/club/lottus/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/porto/club/lottus/)*

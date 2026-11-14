@@ -1,6 +1,6 @@
 # Jacek Sienkiewicz
 
-Jacek Sienkiewicz is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Casa del lago UNAM, Mexico City on Fri, 20 Nov 2026.
+Jacek Sienkiewicz is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Casa del lago UNAM, Mexico City on Fri, 20 Nov 2026.
 
 Jacek Sienkiewicz is an experimental and techno artist based in Poland, with 29 gigs on soundcheck across Berlin, Krakow, London and Mexico City and 5 more. Often billed alongside Robert Piotrowicz, Rashad Becker and Chino. Next up: Casa del lago UNAM, Mexico City on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Jacek Sienkiewicz is an experimental and techno artist based in Poland, with 29 
 
 Robert Piotrowicz, Rashad Becker, Chino
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaceksienkiewicz/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaceksienkiewicz/)*

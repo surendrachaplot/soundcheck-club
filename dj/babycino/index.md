@@ -1,6 +1,6 @@
 # Babycino
 
-Babycino is a House and Balearic artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
+Babycino is a House and Balearic artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
 
 Babycino is a house and balearic artist based in Australia, with 26 gigs on soundcheck across Melbourne and Victoria. Often billed alongside Elsie, Darcy Justice and Séarlait. Next up: The Wildlands, Melbourne on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Babycino is a house and balearic artist based in Australia, with 26 gigs on soun
 
 Elsie, Darcy Justice, Séarlait
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babycino/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babycino/)*

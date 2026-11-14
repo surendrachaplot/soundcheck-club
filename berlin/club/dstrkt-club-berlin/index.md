@@ -1,14 +1,13 @@
 # DSTRKT Club Berlin
 
-DSTRKT Club Berlin is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "KALTBAU: DJ Hyperdrive, HUJUS, DJ Cringey, HUMAN ERROR, relajadita" on Fri, 13 Nov 2026.
+DSTRKT Club Berlin is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "PURE PLEASURE" on Fri, 27 Nov 2026.
 
-DSTRKT Club Berlin is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including 2HOT2PLAY, Al Aslan, Alex Friday and Andreas Henneberg and 2 more. See dates, start times and who's playing. Storkower Straße 123, 10407 Berlin, Deutschland.
+DSTRKT Club Berlin is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with line-ups including 2HOT2PLAY, Alex Friday, Andreas Henneberg and AREA ØNE and 2 more. See dates, start times and who's playing. Storkower Straße 123, 10407 Berlin, Deutschland.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | KALTBAU: DJ Hyperdrive, HUJUS, DJ Cringey, HUMAN ERROR, relajadita | Al Aslan, Brauer, Caniche, DJ Cringey, DJ Hyperdrive, HUJUS, HUMAN  ERROR, Johannes Wohlgeschaffen, Katta Lana, Katy Rough, L-AUX, LISTORIO, SEKTOR69, Slimegoat144, TONI BA, Yanor, cell1, cravings320, relajadita, tokenbeats |
 | Fri, 27 Nov 2026 | PURE PLEASURE | DBBD, HARD CANDY (GER), INEXXSTABLE, LOVEFOXY, Only Fire, RON B, Schlecksi, Shanti Celeste |
 | Sat, 28 Nov 2026 | T.I.M.E.F.A.L.L. - Umek - DjHell - A.Galuzzi - Teenage Mutants - A.Henneberg  uvm | Andreas Henneberg, BLYSS, Bombata, Cat Vermillion, DJ Hell, JOANNA COELHO, Jil Tanner, Rose, Teenage Mutants, Umek |
 | Sat, 28 Nov 2026 | ALOBOI — LIVE SET 2.0 IN BERLIN X T.I.M.E.F.A.L.L |  |
@@ -23,4 +22,4 @@ DSTRKT Club Berlin is a music venue in Berlin listed on soundcheck. 10 upcoming 
 
 Storkower Straße 123, 10407 Berlin, Deutschland, Berlin
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dstrkt-club-berlin/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dstrkt-club-berlin/)*

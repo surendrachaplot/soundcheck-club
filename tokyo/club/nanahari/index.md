@@ -1,6 +1,6 @@
 # Nanahari
 
-Nanahari is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "YOKOGAWA Tadahiko Improvisation Chronicle" on Sun, 29 Nov 2026.
+Nanahari is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. The next is "YOKOGAWA Tadahiko Improvisation Chronicle" on Sun, 29 Nov 2026.
 
 Nanahari is a music venue in Tokyo listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Nanahari is a music venue in Tokyo listed on soundcheck. 1 upcoming gig. See dat
 | --- | --- | --- |
 | Sun, 29 Nov 2026 | YOKOGAWA Tadahiko Improvisation Chronicle |  |
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/nanahari/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/nanahari/)*

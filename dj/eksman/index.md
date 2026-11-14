@@ -1,14 +1,13 @@
 # Eksman
 
-Eksman is a Drum & Bass and Jungle artist with 12 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Basing House, London on Fri, 13 Nov 2026.
+Eksman is a Drum & Bass and Jungle artist with 11 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Outernet Live, London on Sat, 14 Nov 2026.
 
-Eksman is a drum & bass and jungle artist based in United Kingdom, with 78 gigs on soundcheck across Auckland, Birmingham, Bristol and Cardiff and 12 more. Often billed alongside IC3, Hedex and Logan D. Next up: Basing House, London on Fri 13 Nov.
+Eksman is a drum & bass and jungle artist based in United Kingdom, with 78 gigs on soundcheck across Auckland, Birmingham, Bristol and Cardiff and 12 more. Often billed alongside IC3, Hedex and Logan D. Next up: Outernet Live, London on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Basing House | London |
 | Sat, 14 Nov 2026 | Outernet Live | London |
 | Fri, 20 Nov 2026 | Wolfbrook Arena | Christchurch |
 | Sat, 21 Nov 2026 | The Trusts Stadium | Auckland |
@@ -23,6 +22,7 @@ Eksman is a drum & bass and jungle artist based in United Kingdom, with 78 gigs 
 
 ## Recently played
 
+- Basing House, London · Fri, 13 Nov 2026
 - Marshall Arena, South-east · Sat, 7 Nov 2026
 - 11 Bromley Street, Birmingham · Sat, 7 Nov 2026
 - Lakota, Bristol · Fri, 16 Oct 2026
@@ -30,10 +30,9 @@ Eksman is a drum & bass and jungle artist based in United Kingdom, with 78 gigs 
 - NOWHERE, Manchester · Sat, 3 Oct 2026
 - Depot, Cardiff · Sat, 19 Sept 2026
 - Sawmills, Bristol · Sat, 12 Sept 2026
-- Eutopia Whs, London · Sat, 5 Sept 2026
 
 ## Shares bills with
 
 IC3, Hedex, Logan D
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eksman/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eksman/)*

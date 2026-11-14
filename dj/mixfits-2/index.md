@@ -1,8 +1,8 @@
 # Mixfits (2)
 
-Mixfits (2) is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Fruitmarket, Edinburgh on Sat, 14 Nov 2026.
+Mixfits (2) is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Fruitmarket, Edinburgh on Sat, 14 Nov 2026.
 
-Mixfits is a house and techno artist based in United Kingdom, with 51 gigs on soundcheck across Aberdeen, Edinburgh and Glasgow. Often billed alongside Jodie Mooney, RUA DJ and TOOKAST. Next up: Fruitmarket, Edinburgh on Sat 14 Nov.
+Mixfits is a house and techno artist based in United Kingdom, with 52 gigs on soundcheck across Aberdeen, Edinburgh and Glasgow. Often billed alongside Jodie Mooney, RUA DJ and TOOKAST. Next up: Fruitmarket, Edinburgh on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Mixfits is a house and techno artist based in United Kingdom, with 51 gigs on so
 | Sat, 14 Nov 2026 | Fruitmarket | Edinburgh |
 | Thu, 19 Nov 2026 | The Bongo Club | Edinburgh |
 | Tue, 24 Nov 2026 | Sneaky Pete's | Edinburgh |
+| Thu, 26 Nov 2026 | Cabaret Voltaire | Edinburgh |
 | Mon, 30 Nov 2026 | Sneaky Pete's | Edinburgh |
 
 ## Recently played
@@ -28,4 +29,4 @@ Mixfits is a house and techno artist based in United Kingdom, with 51 gigs on so
 
 Jodie Mooney, RUA DJ, TOOKAST
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mixfits-2/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mixfits-2/)*

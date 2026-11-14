@@ -1,6 +1,6 @@
 # Marley Reid
 
-Marley Reid is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Jazz Cafe, London on Sat, 19 Dec 2026.
+Marley Reid is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at The Jazz Cafe, London on Sat, 19 Dec 2026.
 
 Marley Reid is a house and disco artist based in United Kingdom, with 65 gigs on soundcheck across Berlin, Brighton, London and Manchester. Often billed alongside Danandout, Levi Love and Bustin' Loose. Next up: The Jazz Cafe, London on Sat 19 Dec.
 
@@ -26,4 +26,4 @@ Marley Reid is a house and disco artist based in United Kingdom, with 65 gigs on
 
 Danandout, Levi Love, Bustin' Loose
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marleyreid/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marleyreid/)*

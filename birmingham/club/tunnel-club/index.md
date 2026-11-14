@@ -1,6 +1,6 @@
 # Tunnel Club
 
-Tunnel Club is a music venue in Birmingham with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Birmingham Techno x Regis x MACHINE with Ben Sims, James Ruskin + more" on Fri, 4 Dec 2026.
+Tunnel Club is a music venue in Birmingham with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Birmingham Techno x Regis x MACHINE with Ben Sims, James Ruskin + more" on Fri, 4 Dec 2026.
 
 Tunnel Club is a music venue in Birmingham listed on soundcheck. 3 upcoming gigs, with line-ups including Bassman, Ben Sims, Bryan Gee and Chris Bayne and 2 more. See dates, start times and who's playing. Livery Street, Birmingham, B3 1HL, United Kingdom.
 
@@ -16,4 +16,4 @@ Tunnel Club is a music venue in Birmingham listed on soundcheck. 3 upcoming gigs
 
 Livery Street, Birmingham, B3 1HL, United Kingdom, Birmingham
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/tunnel-club/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/tunnel-club/)*

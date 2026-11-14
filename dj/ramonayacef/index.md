@@ -1,6 +1,6 @@
 # Ramona Yacef
 
-Ramona Yacef is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Poull, Paris on Fri, 20 Nov 2026.
+Ramona Yacef is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Poull, Paris on Fri, 20 Nov 2026.
 
 Ramona Yacef is a house and minimal artist based in Italy, with 37 gigs on soundcheck across Barcelona, Berlin, Geneva and Ibiza and 6 more. Often billed alongside Chica Paula, Dandy Jack and Francesco Nikolai. Next up: Poull, Paris on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Ramona Yacef is a house and minimal artist based in Italy, with 37 gigs on sound
 
 Chica Paula, Dandy Jack, Francesco Nikolai
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ramonayacef/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ramonayacef/)*

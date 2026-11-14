@@ -1,6 +1,6 @@
 # Matorola
 
-Matorola is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Klub K4, Ljubljana on Fri, 20 Nov 2026.
+Matorola is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Klub K4, Ljubljana on Fri, 20 Nov 2026.
 
 Matorola is an electronica and house artist, with 10 gigs on soundcheck across Ljubljana and Vienna. Often billed alongside Slishko, Flipper and Merru. Next up: Klub K4, Ljubljana on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Matorola is an electronica and house artist, with 10 gigs on soundcheck across L
 
 Slishko, Flipper, Merru
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matorola/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matorola/)*

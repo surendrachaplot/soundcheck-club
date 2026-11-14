@@ -1,6 +1,6 @@
 # DJ Creole Princess
 
-DJ Creole Princess is a Hip-Hop and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at La Station - Gare des Mines, Paris on Fri, 20 Nov 2026.
+DJ Creole Princess is a Hip-Hop and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at La Station - Gare des Mines, Paris on Fri, 20 Nov 2026.
 
 DJ Creole Princess is a hip-hop and house artist, with 8 gigs on soundcheck across Berlin, Brussels, London and New York City and 1 more. Often billed alongside DotTV, Kieran Dotwav and TEBI TV. Next up: La Station - Gare des Mines, Paris on Fri 20 Nov.
 
@@ -24,4 +24,4 @@ DJ Creole Princess is a hip-hop and house artist, with 8 gigs on soundcheck acro
 
 DotTV, Kieran Dotwav, TEBI TV
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djcreoleprincess/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djcreoleprincess/)*

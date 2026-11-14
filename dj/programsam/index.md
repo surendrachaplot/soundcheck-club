@@ -1,6 +1,6 @@
 # Program Sam
 
-Program Sam is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Mooi Space, Toronto on Sat, 14 Nov 2026.
+Program Sam is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Mooi Space, Toronto on Sat, 14 Nov 2026.
 
 Program Sam is a techno and house artist based in Canada, with 43 gigs on soundcheck across Detroit and Toronto. Often billed alongside maxedvisa, florasystem and 999ADJ. Next up: Mooi Space, Toronto on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Program Sam is a techno and house artist based in Canada, with 43 gigs on soundc
 
 maxedvisa, florasystem, 999ADJ
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/programsam/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/programsam/)*

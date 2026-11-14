@@ -1,6 +1,6 @@
 # Lvca
 
-Lvca is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Cascina nascosta, Milan on Sun, 22 Nov 2026.
+Lvca is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Cascina nascosta, Milan on Sun, 22 Nov 2026.
 
 Lvca is a house and electronica artist based in Italy, with 57 gigs on soundcheck across Barcelona, London, Mexico City and Milan and 5 more. Often billed alongside Lovin Duo, Erika Gueli and Sunrush. Next up: Cascina nascosta, Milan on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ Lvca is a house and electronica artist based in Italy, with 57 gigs on soundchec
 
 Lovin Duo, Erika Gueli, Sunrush
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lvca/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lvca/)*

@@ -1,6 +1,6 @@
 # SIT Amphia
 
-SIT Amphia is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Club Guesthouse, Bucharest on Sat, 28 Nov 2026.
+SIT Amphia is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Club Guesthouse, Bucharest on Sat, 28 Nov 2026.
 
 SIT Amphia is a house and minimal artist based in Romania, with 42 gigs on soundcheck across Amsterdam, Beijing, Belgrade and Berlin and 15 more. Often billed alongside Cristi Cons, Vlad Caia and Reiss. Next up: Club Guesthouse, Bucharest on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ SIT Amphia is a house and minimal artist based in Romania, with 42 gigs on sound
 
 Cristi Cons, Vlad Caia, Reiss
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sitamphia/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sitamphia/)*

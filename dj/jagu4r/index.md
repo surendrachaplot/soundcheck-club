@@ -1,6 +1,6 @@
 # JAGU4R
 
-JAGU4R is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at 404.EXE, Atlanta on Fri, 11 Dec 2026.
+JAGU4R is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at 404.EXE, Atlanta on Fri, 11 Dec 2026.
 
 JAGU4R is a techno and club artist based in United States of America, with 54 gigs on soundcheck across Atlanta, New York City and Washington DC. Often billed alongside BRATATTACK, Don Fairylèon and GORP. Next up: 404.EXE, Atlanta on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ JAGU4R is a techno and club artist based in United States of America, with 54 gi
 
 BRATATTACK, Don Fairylèon, GORP
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jagu4r/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jagu4r/)*

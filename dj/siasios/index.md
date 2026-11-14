@@ -1,19 +1,19 @@
 # siasios
 
-siasios is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Oddity Club, Athens on Fri, 13 Nov 2026.
+siasios is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Castle Club, Cyprus on Fri, 4 Dec 2026.
 
-siasios is a techno and industrial artist based in Greece, with 40 gigs on soundcheck across Athens, Barcelona, Belgrade and Cyprus and 4 more. Often billed alongside Imperium, Pelany and Até.. Next up: Oddity Club, Athens on Fri 13 Nov.
+siasios is a techno and industrial artist based in Greece, with 40 gigs on soundcheck across Athens, Barcelona, Belgrade and Cyprus and 4 more. Often billed alongside Imperium, Pelany and Até.. Next up: Castle Club, Cyprus on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Oddity Club | Athens |
 | Fri, 4 Dec 2026 | Castle Club | Cyprus |
 | Sat, 5 Dec 2026 | Hangar | Belgrade |
 
 ## Recently played
 
+- Oddity Club, Athens · Fri, 13 Nov 2026
 - AUX Club, Athens · Sat, 3 Oct 2026
 - Universe Athens, Athens · Sat, 30 May 2026
 - AUX Club, Athens · Sat, 2 May 2026
@@ -21,10 +21,9 @@ siasios is a techno and industrial artist based in Greece, with 40 gigs on sound
 - AUX Club, Athens · Fri, 24 Apr 2026
 - Universe Athens, Athens · Sat, 18 Apr 2026
 - Temple Athens, Athens · Tue, 24 Mar 2026
-- Das Werk, Vienna · Sat, 21 Mar 2026
 
 ## Shares bills with
 
 Imperium, Pelany, Até.
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/siasios/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/siasios/)*

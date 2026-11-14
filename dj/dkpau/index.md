@@ -1,6 +1,6 @@
 # DK PAU
 
-DK PAU is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA, Vancouver on Thu, 24 Dec 2026.
+DK PAU is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA, Vancouver on Thu, 24 Dec 2026.
 
 DK PAU is a techno and house artist based in Spain, with 85 gigs on soundcheck across Calgary, Montreal, Osaka and San Francisco/Oakland and 1 more. Often billed alongside POPU, Behrad Tehrani and C-Star. Next up: TBA, Vancouver on Thu 24 Dec.
 
@@ -25,4 +25,4 @@ DK PAU is a techno and house artist based in Spain, with 85 gigs on soundcheck a
 
 POPU, Behrad Tehrani, C-Star
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dkpau/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dkpau/)*

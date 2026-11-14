@@ -1,6 +1,6 @@
 # Plural
 
-Plural is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Obedient Missionary, Detroit on Sat, 28 Nov 2026.
+Plural is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Obedient Missionary, Detroit on Sat, 28 Nov 2026.
 
 Plural is a techno and house artist based in United States of America, with 19 gigs on soundcheck across Chicago, Detroit and New York City. Often billed alongside Brent Shay, DJ I.V. and AIDEL. Next up: TBA - Obedient Missionary, Detroit on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Plural is a techno and house artist based in United States of America, with 19 g
 
 Brent Shay, DJ I.V., AIDEL
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/plural/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/plural/)*

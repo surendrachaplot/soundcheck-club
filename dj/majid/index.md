@@ -1,6 +1,6 @@
 # Majid
 
-Majid is a House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Soundscapes Zanzi, Tanzania on Thu, 21 Jan 2027.
+Majid is a House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Soundscapes Zanzi, Tanzania on Thu, 21 Jan 2027.
 
 Majid is a house artist based in Saudi Arabia, with 9 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 2 more. Often billed alongside Always Late, Baloo (SA) and CHKLTE. Next up: Soundscapes Zanzi, Tanzania on Thu 21 Jan.
 
@@ -25,4 +25,4 @@ Majid is a house artist based in Saudi Arabia, with 9 gigs on soundcheck across 
 
 Always Late, Baloo (SA), CHKLTE
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/majid/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/majid/)*

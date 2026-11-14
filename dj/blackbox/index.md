@@ -1,6 +1,6 @@
 # Black Box
 
-Black Box is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Community Berlin, Los Angeles on Sat, 26 Dec 2026.
+Black Box is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at The Community Berlin, Los Angeles on Sat, 26 Dec 2026.
 
 Black Box is a house and techno artist based in Germany, with 52 gigs on soundcheck across Amsterdam, Baden W Rttemberg, Berlin and Cologne and 15 more. Often billed alongside Unseen., Martin Mind and ZARE. Next up: The Community Berlin, Los Angeles on Sat 26 Dec.
 
@@ -27,4 +27,4 @@ Black Box is a house and techno artist based in Germany, with 52 gigs on soundch
 
 Unseen., Martin Mind, ZARE
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blackbox/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blackbox/)*

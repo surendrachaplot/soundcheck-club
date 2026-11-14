@@ -1,6 +1,6 @@
 # Fedor
 
-Fedor is a Minimal Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Secret Location, Bali on Sat, 20 Mar 2027.
+Fedor is a Minimal Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Secret Location, Bali on Sat, 20 Mar 2027.
 
 Fedor is a minimal techno and tech house artist based in Russia, with 7 gigs on soundcheck across Bali and Prague. Often billed alongside Dmitro, Latex and Nidlab. Next up: TBA - Secret Location, Bali on Sat 20 Mar.
 
@@ -23,4 +23,4 @@ Fedor is a minimal techno and tech house artist based in Russia, with 7 gigs on 
 
 Dmitro, Latex (1), Nidlab
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fedor/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fedor/)*

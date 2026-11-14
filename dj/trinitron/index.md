@@ -1,6 +1,6 @@
 # Trinitron
 
-Trinitron is a Deep House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Pono Ranch, Seattle on Sat, 5 Dec 2026.
+Trinitron is a Deep House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Pono Ranch, Seattle on Sat, 5 Dec 2026.
 
 Trinitron is a deep house and downtempo artist based in United States of America, with 46 gigs on soundcheck across Seattle. Often billed alongside Julie Herrera, Christine Michelle and Copeland. Next up: Pono Ranch, Seattle on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Trinitron is a deep house and downtempo artist based in United States of America
 
 Julie Herrera, Christine Michelle, Copeland
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trinitron/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trinitron/)*

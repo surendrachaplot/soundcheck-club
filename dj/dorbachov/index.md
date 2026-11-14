@@ -1,6 +1,6 @@
 # Dorbachov
 
-Dorbachov is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at renae, Manchester on Fri, 27 Nov 2026.
+Dorbachov is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at renae, Manchester on Fri, 27 Nov 2026.
 
 Dorbachov is a techno and house artist based in United Kingdom, with 11 gigs on soundcheck across Antwerp and Manchester. Often billed alongside CEEKAY, Kabel and Rosie (UK). Next up: renae, Manchester on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Dorbachov is a techno and house artist based in United Kingdom, with 11 gigs on 
 
 CEEKAY, Kabel, Rosie (UK)
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dorbachov/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dorbachov/)*

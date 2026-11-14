@@ -1,6 +1,6 @@
 # Agnelli & Nelson
 
-Agnelli & Nelson is a Trance and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Hidden, Manchester on Sat, 28 Nov 2026.
+Agnelli & Nelson is a Trance and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Hidden, Manchester on Sat, 28 Nov 2026.
 
 Agnelli & Nelson are a trance and progressive house duo based in United Kingdom, with 6 gigs on soundcheck across London, Malta, Manchester and West Wales. Often billed alongside Madwave, Amy Wiles and Billy Gillies. Next up: Hidden, Manchester on Sat 28 Nov.
 
@@ -22,4 +22,4 @@ Agnelli & Nelson are a trance and progressive house duo based in United Kingdom,
 
 Madwave, Amy Wiles, Billy Gillies
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/agnellinelson/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/agnellinelson/)*

@@ -1,6 +1,6 @@
 # DJ Treibsand
 
-DJ Treibsand is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Ikii, Berlin on Wed, 2 Dec 2026.
+DJ Treibsand is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Ikii, Berlin on Wed, 2 Dec 2026.
 
 DJ Treibsand is an ambient and experimental artist based in Germany, with 8 gigs on soundcheck across Berlin. Often billed alongside 0dysseus, Benjamin Freeney and 3.14. Next up: Ikii, Berlin on Wed 2 Dec.
 
@@ -24,4 +24,4 @@ DJ Treibsand is an ambient and experimental artist based in Germany, with 8 gigs
 
 0dysseus, Benjamin Freeney, 3.14
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djtreibsand/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djtreibsand/)*

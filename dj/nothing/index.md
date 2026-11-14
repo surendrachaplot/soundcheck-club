@@ -1,8 +1,8 @@
 # nothing
 
-nothing is a Dubstep and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Treefort Music Hall, Idaho on Wed, 31 Mar 2027.
+nothing is a Dubstep and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Treefort Music Hall, Idaho on Wed, 31 Mar 2027.
 
-nothing is a dubstep and club artist based in Canada, with 6 gigs on soundcheck across Detroit, Idaho and Vancouver. Often billed alongside Hurts, Balance and Barbara. Next up: Treefort Music Hall, Idaho on Wed 31 Mar.
+nothing is a dubstep and club artist based in Canada, with 6 gigs on soundcheck across Detroit, Idaho and Vancouver. Often billed alongside Hurts, BULLY and Balance. Next up: Treefort Music Hall, Idaho on Wed 31 Mar.
 
 ## Upcoming shows
 
@@ -20,6 +20,6 @@ nothing is a dubstep and club artist based in Canada, with 6 gigs on soundcheck 
 
 ## Shares bills with
 
-Hurts, Balance, Barbara
+Hurts, BULLY, Balance
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nothing/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nothing/)*

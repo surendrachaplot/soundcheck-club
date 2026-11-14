@@ -1,6 +1,6 @@
 # Otis
 
-Otis is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 28 Nov 2026.
+Otis is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 28 Nov 2026.
 
 Otis is a techno and house artist based in Mexico, with 18 gigs on soundcheck across Barcelona, Frankfurt, Madrid and Mexico City and 3 more. Often billed alongside Drag & Drop, Bo Irion and Dan Bay. Next up: Seaseaclub Barcelona, Barcelona on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Otis is a techno and house artist based in Mexico, with 18 gigs on soundcheck ac
 
 Drag & Drop, Bo Irion, Dan Bay
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/otis/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/otis/)*

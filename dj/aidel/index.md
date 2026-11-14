@@ -1,6 +1,6 @@
 # AIDEL
 
-AIDEL is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Marble Bar, Detroit on Fri, 20 Nov 2026.
+AIDEL is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Marble Bar, Detroit on Fri, 20 Nov 2026.
 
 AIDEL is a techno and house artist based in United States of America, with 41 gigs on soundcheck across Detroit. Often billed alongside Amino, Wax Assassin and Earlll. Next up: Marble Bar, Detroit on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ AIDEL is a techno and house artist based in United States of America, with 41 gi
 
 Amino, Wax Assassin, Earlll
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aidel/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aidel/)*

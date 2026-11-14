@@ -1,6 +1,6 @@
 # DJ SABI
 
-DJ SABI is a Reggaeton and Neo Perreo artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Los Globos, Los Angeles on Thu, 19 Nov 2026.
+DJ SABI is a Reggaeton and Neo Perreo artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Los Globos, Los Angeles on Thu, 19 Nov 2026.
 
 DJ SABI is a reggaeton and neo perreo artist based in United States of America, with 44 gigs on soundcheck across Boston, Los Angeles, Miami and New York City and 5 more. Often billed alongside SPELL, Trippie Hippie (US) and p1no. Next up: Los Globos, Los Angeles on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ DJ SABI is a reggaeton and neo perreo artist based in United States of America, 
 
 SPELL, Trippie Hippie (US), p1no
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsabi/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsabi/)*

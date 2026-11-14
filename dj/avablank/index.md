@@ -1,6 +1,6 @@
 # Ava Blank
 
-Ava Blank is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Soulwerks, Los Angeles on Fri, 20 Nov 2026.
+Ava Blank is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Soulwerks, Los Angeles on Fri, 20 Nov 2026.
 
 Ava Blank is a house and club artist based in United States of America, with 34 gigs on soundcheck across Los Angeles and San Francisco/Oakland. Often billed alongside Dazegxd, Draik Lezbijan and Eva Myra May. Next up: Soulwerks, Los Angeles on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Ava Blank is a house and club artist based in United States of America, with 34 
 
 Dazegxd, Draik Lezbijan, Eva Myra May
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avablank/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avablank/)*

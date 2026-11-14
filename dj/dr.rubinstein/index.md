@@ -1,14 +1,13 @@
 # Dr. Rubinstein
 
-Dr. Rubinstein is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Pawnshop, Taipei on Fri, 13 Nov 2026.
+Dr. Rubinstein is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Tai Tong Organic Ecopark, Hong Kong on Sat, 14 Nov 2026.
 
-Dr. Rubinstein is a techno and house artist based in Germany, with 216 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 67 more. Often billed alongside Ellen Allien, Freddy K and Hyperaktivist. Next up: Pawnshop, Taipei on Fri 13 Nov.
+Dr. Rubinstein is a techno and house artist based in Germany, with 216 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 67 more. Often billed alongside Ellen Allien, Freddy K and Hyperaktivist. Next up: Tai Tong Organic Ecopark, Hong Kong on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Pawnshop | Taipei |
 | Sat, 14 Nov 2026 | Tai Tong Organic Ecopark | Hong Kong |
 | Fri, 20 Nov 2026 | Kasteel De Berckt | Netherlands |
 | Sat, 26 Dec 2026 | RSO.BERLIN | Berlin |
@@ -16,6 +15,7 @@ Dr. Rubinstein is a techno and house artist based in Germany, with 216 gigs on s
 
 ## Recently played
 
+- Pawnshop, Taipei · Fri, 13 Nov 2026
 - Las Tres Chimeneas, Barcelona · Sat, 31 Oct 2026
 - Kilomètre25, Paris · Sat, 24 Oct 2026
 - BASEMENT, New York City · Sat, 17 Oct 2026
@@ -23,10 +23,9 @@ Dr. Rubinstein is a techno and house artist based in Germany, with 216 gigs on s
 - Hidden, Manchester · Fri, 9 Oct 2026
 - RSO.BERLIN, Berlin · Fri, 2 Oct 2026
 - Fvtvr, Paris · Sat, 12 Sept 2026
-- TBA - Schwing und Stampf Festival, Zurich · Thu, 27 Aug 2026
 
 ## Shares bills with
 
 Ellen Allien, Freddy K, Hyperaktivist
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.rubinstein/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.rubinstein/)*

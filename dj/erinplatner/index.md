@@ -1,6 +1,6 @@
 # Erin Platner
 
-Erin Platner is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Pawnshop, Taipei on Thu, 31 Dec 2026.
+Erin Platner is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Pawnshop, Taipei on Thu, 31 Dec 2026.
 
 Erin Platner is a techno and ambient artist, with 8 gigs on soundcheck across Pittsburgh and Taipei. Often billed alongside Diskonnected, Gemnital and Other Shore. Next up: Pawnshop, Taipei on Thu 31 Dec.
 
@@ -24,4 +24,4 @@ Erin Platner is a techno and ambient artist, with 8 gigs on soundcheck across Pi
 
 Diskonnected, Gemnital, Other Shore
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erinplatner/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erinplatner/)*

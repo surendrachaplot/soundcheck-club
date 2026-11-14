@@ -1,6 +1,6 @@
 # Holding Patterns
 
-Holding Patterns is a music venue in Leeds with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Holding Patterns 2nd Birthday" on Sat, 14 Nov 2026.
+Holding Patterns is a music venue in Leeds with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Holding Patterns 2nd Birthday" on Sat, 14 Nov 2026.
 
 Holding Patterns is a music venue in Leeds listed on soundcheck. 3 upcoming gigs, with line-ups including Mighty Funk Houser, PBR Streetgang, Sam Pratt and Seth Chohan and 1 more. See dates, start times and who's playing. 2 Albion Place, LS1 6JL.
 
@@ -16,4 +16,4 @@ Holding Patterns is a music venue in Leeds listed on soundcheck. 3 upcoming gigs
 
 2 Albion Place, LS1 6JL, Leeds
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/holding-patterns/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/holding-patterns/)*

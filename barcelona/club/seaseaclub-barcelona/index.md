@@ -1,6 +1,6 @@
 # Seaseaclub Barcelona
 
-Seaseaclub Barcelona is a music venue in Barcelona with 8 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "LOST x REECORDS" on Sat, 14 Nov 2026.
+Seaseaclub Barcelona is a music venue in Barcelona with 8 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "LOST x REECORDS" on Sat, 14 Nov 2026.
 
 Seaseaclub Barcelona is a music venue in Barcelona listed on soundcheck. 8 upcoming gigs, with line-ups including Alec Falconer, ATMEN, Binh and Cesar Martino and 2 more. See dates, start times and who's playing. Carrer Port Esportiu, 14P, 08930 Barcelona.
 
@@ -21,4 +21,4 @@ Seaseaclub Barcelona is a music venue in Barcelona listed on soundcheck. 8 upcom
 
 Carrer Port Esportiu, 14P, 08930 Barcelona, Barcelona
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/seaseaclub-barcelona/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/seaseaclub-barcelona/)*

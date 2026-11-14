@@ -1,13 +1,14 @@
 # KILLIN
 
-KILLIN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at WOMB, Tokyo on Wed, 30 Dec 2026.
+KILLIN is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Kobu Camp Village, Kanto on Sat, 21 Nov 2026.
 
-KILLIN is a techno and house artist based in Japan, with 14 gigs on soundcheck across Osaka and Tokyo. Often billed alongside ERIMIYA, CARTOON and Daitto. Next up: WOMB, Tokyo on Wed 30 Dec.
+KILLIN is a techno and house artist based in Japan, with 15 gigs on soundcheck across Kanto, Osaka and Tokyo. Often billed alongside ERIMIYA, CARTOON and Daitto. Next up: Kobu Camp Village, Kanto on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | Kobu Camp Village | Kanto |
 | Wed, 30 Dec 2026 | WOMB | Tokyo |
 
 ## Recently played
@@ -25,4 +26,4 @@ KILLIN is a techno and house artist based in Japan, with 14 gigs on soundcheck a
 
 ERIMIYA, CARTOON, Daitto
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/killin/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/killin/)*

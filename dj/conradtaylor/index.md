@@ -1,6 +1,6 @@
 # Conrad Taylor
 
-Conrad Taylor is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
+Conrad Taylor is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
 
 Conrad Taylor is a techno and house artist based in United States of America, with 24 gigs on soundcheck across Austin, Berlin, Chicago and Dallas Fort Worth and 8 more. Often billed alongside Flash Gea, Marie Vaunt and hhunter. Next up: The Concourse Project, Austin on Fri 13 Nov.
 
@@ -16,6 +16,7 @@ Conrad Taylor is a techno and house artist based in United States of America, wi
 
 ## Recently played
 
+- The Concourse Project, Austin · Fri, 13 Nov 2026
 - TBA - 1609 E Jackson St, Phoenix · Fri, 9 Oct 2026
 - Ritter Butzke, Berlin · Sat, 3 Oct 2026
 - Industry City, New York City · Sat, 5 Sept 2026
@@ -23,10 +24,9 @@ Conrad Taylor is a techno and house artist based in United States of America, wi
 - Celebrities Night Club, Vancouver · Sat, 22 Aug 2026
 - The Comfort Zone, Toronto · Fri, 19 Jun 2026
 - 1015 Folsom, San Francisco/Oakland · Thu, 18 Jun 2026
-- Echostage, Washington DC · Fri, 12 Jun 2026
 
 ## Shares bills with
 
 Flash Gea, Marie Vaunt, hhunter
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/conradtaylor/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/conradtaylor/)*

@@ -1,6 +1,6 @@
 # Wi5dom
 
-Wi5dom is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Void Club, Berlin on Sat, 28 Nov 2026.
+Wi5dom is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Void Club, Berlin on Sat, 28 Nov 2026.
 
 Wi5dom is a techno and progressive house artist based in Germany, with 24 gigs on soundcheck across Berlin and Birmingham. Often billed alongside Bäggy, MARIE.MOON and Kriszpy. Next up: Void Club, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Wi5dom is a techno and progressive house artist based in Germany, with 24 gigs o
 
 Bäggy, MARIE.MOON, Kriszpy
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wi5dom/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wi5dom/)*

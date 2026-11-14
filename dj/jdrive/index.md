@@ -1,6 +1,6 @@
 # j:drive
 
-j:drive is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Mosaic, Baltimore on Sat, 5 Dec 2026.
+j:drive is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Mosaic, Baltimore on Sat, 5 Dec 2026.
 
 j:drive is a house and techno artist based in United States of America, with 28 gigs on soundcheck across Baltimore, New York City and Washington DC. Often billed alongside DJ AstroNat, Cobrastrk and Erin Page. Next up: Mosaic, Baltimore on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ j:drive is a house and techno artist based in United States of America, with 28 
 
 DJ AstroNat, Cobrastrk, Erin Page
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jdrive/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jdrive/)*

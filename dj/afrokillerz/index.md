@@ -1,6 +1,6 @@
 # AfroKillerz
 
-AfroKillerz is a Afro House and Afro Tech artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Koda, Nairobi on Fri, 4 Dec 2026.
+AfroKillerz is a Afro House and Afro Tech artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Koda, Nairobi on Fri, 4 Dec 2026.
 
 AfroKillerz is an afro house and afro tech artist based in Portugal, with 27 gigs on soundcheck across Amsterdam, Basel, Lisbon and London and 4 more. Often billed alongside Mr Silk, Studio Bros and DJ Lilocox. Next up: Koda, Nairobi on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ AfroKillerz is an afro house and afro tech artist based in Portugal, with 27 gig
 
 Mr Silk, Studio Bros, DJ Lilocox
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/afrokillerz/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/afrokillerz/)*

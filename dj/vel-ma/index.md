@@ -1,8 +1,8 @@
 # VEL (MA)
 
-VEL (MA) is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Graphic Hangang, Seoul on Wed, 11 Nov 2026.
+VEL (MA) is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Graphic Hangang, Seoul on Wed, 11 Nov 2026.
 
-VEL (MA) is a techno and trance artist based in France, with 168 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 51 more. Often billed alongside Anetha, A Strange Wedding and Mac Declos. Next up: Graphic Hangang, Seoul on Wed 11 Nov.
+VEL (MA) is a techno and trance artist based in France, with 169 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 51 more. Often billed alongside Anetha, A Strange Wedding and Mac Declos. Next up: Graphic Hangang, Seoul on Wed 11 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ VEL (MA) is a techno and trance artist based in France, with 168 gigs on soundch
 | Tue, 1 Dec 2026 | 8 Marvila | Lisbon |
 | Sun, 20 Dec 2026 | Le Sucre | Lyon |
 | Thu, 31 Dec 2026 | RSO.BERLIN | Berlin |
+| Sat, 15 May 2027 | Plage De Torcy | Paris |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ VEL (MA) is a techno and trance artist based in France, with 168 gigs on soundch
 
 Anetha, A Strange Wedding, Mac Declos
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vel-ma/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vel-ma/)*

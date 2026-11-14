@@ -1,8 +1,8 @@
 # Thomy
 
-Thomy is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Nido Marseille, Marseille on Sat, 19 Dec 2026.
+Thomy is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Nido Marseille, Marseille on Sat, 19 Dec 2026.
 
-Thomy is a house and electro artist, with 8 gigs on soundcheck across Barcelona, Lisbon, Marseille and Paris. Often billed alongside Alëx, Man/Ipulate and .cosm. Next up: Nido Marseille, Marseille on Sat 19 Dec.
+Thomy is a house and electro artist based in France, with 8 gigs on soundcheck across Barcelona, Lisbon, Marseille and Paris. Often billed alongside Alëx, Man/Ipulate and .cosm. Next up: Nido Marseille, Marseille on Sat 19 Dec.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ Thomy is a house and electro artist, with 8 gigs on soundcheck across Barcelona,
 
 Alëx, Man/Ipulate, .cosm
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thomy/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thomy/)*

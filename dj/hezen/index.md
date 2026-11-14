@@ -1,6 +1,6 @@
 # HEZEN
 
-HEZEN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Algha's Plantroom, London on Sat, 21 Nov 2026.
+HEZEN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Algha's Plantroom, London on Sat, 21 Nov 2026.
 
 HEZEN is a techno and house artist based in France, with 22 gigs on soundcheck across Bristol and London. Often billed alongside TEDESCO, THEMPRESS and Gloria Rose. Next up: Algha's Plantroom, London on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ HEZEN is a techno and house artist based in France, with 22 gigs on soundcheck a
 
 TEDESCO, THEMPRESS, Gloria Rose
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hezen/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hezen/)*

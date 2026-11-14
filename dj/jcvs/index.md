@@ -1,6 +1,6 @@
 # JCVS
 
-JCVS is a Club and Baile Funk artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Crypt at St. Matthews Church, London on Sat, 12 Dec 2026.
+JCVS is a Club and Baile Funk artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at The Crypt at St. Matthews Church, London on Sat, 12 Dec 2026.
 
 JCVS is a club and baile funk artist based in United Kingdom, with 16 gigs on soundcheck across Berlin, Bristol, Brussels and Copenhagen and 4 more. Often billed alongside GUS, SILVASURFER and DJ RaMeMes. Next up: The Crypt at St. Matthews Church, London on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ JCVS is a club and baile funk artist based in United Kingdom, with 16 gigs on so
 
 GUS (4), SILVASURFER, DJ RaMeMes
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jcvs/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jcvs/)*

@@ -1,6 +1,6 @@
 # Gabriele Poso
 
-Gabriele Poso is a House and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Treefort Music Hall, Idaho on Wed, 31 Mar 2027.
+Gabriele Poso is a House and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Treefort Music Hall, Idaho on Wed, 31 Mar 2027.
 
 Gabriele Poso is a house and latin bass artist based in Italy, with 14 gigs on soundcheck across Bali, Barcelona, Idaho and London and 5 more. Often billed alongside Another Taste, BULLY and Balance. Next up: Treefort Music Hall, Idaho on Wed 31 Mar.
 
@@ -25,4 +25,4 @@ Gabriele Poso is a house and latin bass artist based in Italy, with 14 gigs on s
 
 Another Taste, BULLY, Balance
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrieleposo/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrieleposo/)*

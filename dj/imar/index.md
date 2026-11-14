@@ -1,6 +1,6 @@
 # IMA:R
 
-IMA:R is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Nido Marseille, Marseille on Sat, 12 Dec 2026.
+IMA:R is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Nido Marseille, Marseille on Sat, 12 Dec 2026.
 
 IMA:R is a house and techno artist based in France, with 25 gigs on soundcheck across Lyon, Marseille and Paris. Often billed alongside P errine, Koffi and Lumbago. Next up: Nido Marseille, Marseille on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ IMA:R is a house and techno artist based in France, with 25 gigs on soundcheck a
 
 P errine, Koffi, Lumbago
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/imar/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/imar/)*

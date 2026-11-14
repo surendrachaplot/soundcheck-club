@@ -1,6 +1,6 @@
 # Antrim
 
-Antrim is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA, Uruguay on Mon, 21 Dec 2026.
+Antrim is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA, Uruguay on Mon, 21 Dec 2026.
 
 Antrim is a progressive house and techno artist based in Argentina, with 41 gigs on soundcheck across Amsterdam, Barcelona, Buenos Aires and Dublin and 9 more. Often billed alongside Nicolas Rada, Kamilo Sanclemente and Marcelo Vasami. Next up: TBA, Uruguay on Mon 21 Dec.
 
@@ -25,4 +25,4 @@ Antrim is a progressive house and techno artist based in Argentina, with 41 gigs
 
 Nicolas Rada, Kamilo Sanclemente, Marcelo Vasami
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antrim/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antrim/)*

@@ -1,6 +1,6 @@
 # Ben Arsenal
 
-Ben Arsenal is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Barbary, Philadelphia on Sat, 14 Nov 2026.
+Ben Arsenal is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at The Barbary, Philadelphia on Sat, 14 Nov 2026.
 
 Ben Arsenal is a house and tech house artist based in United States of America, with 54 gigs on soundcheck across New York City, Philadelphia, Toronto and Washington DC. Often billed alongside Joshua Lang, Rob Paine and Riva + Bianca. Next up: The Barbary, Philadelphia on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Ben Arsenal is a house and tech house artist based in United States of America, 
 
 Joshua Lang, Rob Paine, Riva + Bianca
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benarsenal/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benarsenal/)*

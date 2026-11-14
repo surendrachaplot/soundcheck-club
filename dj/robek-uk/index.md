@@ -1,6 +1,6 @@
 # robek (UK)
 
-robek (UK) is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Sauna Social Club, London on Sun, 22 Nov 2026.
+robek (UK) is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Sauna Social Club, London on Sun, 22 Nov 2026.
 
 robek (UK) is a bass and techno artist, with 17 gigs on soundcheck across London. Often billed alongside Alpha Fett Baby, Shokunin and Ryo Kurashina. Next up: Sauna Social Club, London on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ robek (UK) is a bass and techno artist, with 17 gigs on soundcheck across London
 
 Alpha Fett Baby, Shokunin, Ryo Kurashina
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robek-uk/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robek-uk/)*

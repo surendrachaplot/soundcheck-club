@@ -1,6 +1,6 @@
 # KASIENKA
 
-KASIENKA is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Ghent (multi-venue), Ghent on Fri, 27 Nov 2026.
+KASIENKA is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Ghent (multi-venue), Ghent on Fri, 27 Nov 2026.
 
 KASIENKA is a techno and trance artist based in Belgium, with 15 gigs on soundcheck across Berlin, Düsseldorf and Ghent. Often billed alongside droomwolkje, SEE YOU LATER and Stinny Stone. Next up: TBA - Ghent (multi-venue), Ghent on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ KASIENKA is a techno and trance artist based in Belgium, with 15 gigs on soundch
 
 droomwolkje, SEE YOU LATER, Stinny Stone
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kasienka/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kasienka/)*

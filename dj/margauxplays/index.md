@@ -1,6 +1,6 @@
 # Margaux Plays
 
-Margaux Plays is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Casino de Montbenon, Lausanne on Fri, 20 Nov 2026.
+Margaux Plays is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Casino de Montbenon, Lausanne on Fri, 20 Nov 2026.
 
 Margaux Plays is a techno and house artist based in Switzerland, with 11 gigs on soundcheck across Lausanne. Often billed alongside Adolpho & Franky, TT and Alex Nantaya. Next up: Casino de Montbenon, Lausanne on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Margaux Plays is a techno and house artist based in Switzerland, with 11 gigs on
 
 Adolpho & Franky, TT (2), Alex Nantaya
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/margauxplays/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/margauxplays/)*

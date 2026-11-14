@@ -1,8 +1,8 @@
 # DJ Koco aka Shimokita
 
-DJ Koco aka Shimokita is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
+DJ Koco aka Shimokita is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
 
-DJ Koco aka Shimokita is a house and hip-hop artist based in United Kingdom, with 47 gigs on soundcheck across Antwerp, Barcelona, Berlin and Brussels and 17 more. Often billed alongside DJ Spinna, Lefto Early Bird and Abigail Toll. Next up: The Wildlands, Melbourne on Fri 20 Nov.
+DJ Koco aka Shimokita is a house and hip-hop artist based in United Kingdom, with 47 gigs on soundcheck across Antwerp, Barcelona, Berlin and Brussels and 17 more. Often billed alongside DJ Spinna, Lefto Early Bird and Anz. Next up: The Wildlands, Melbourne on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ DJ Koco aka Shimokita is a house and hip-hop artist based in United Kingdom, wit
 
 ## Shares bills with
 
-DJ Spinna, Lefto Early Bird, Abigail Toll
+DJ Spinna, Lefto Early Bird, Anz
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djkocoakashimokita/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djkocoakashimokita/)*

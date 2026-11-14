@@ -1,6 +1,6 @@
 # b.lo
 
-b.lo is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Hidden, Manchester on Sat, 14 Nov 2026.
+b.lo is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Hidden, Manchester on Sat, 14 Nov 2026.
 
 b.lo is an electro and techno artist based in United Kingdom, with 28 gigs on soundcheck across Manchester. Often billed alongside GFA, Hanz and teepee h. Next up: Hidden, Manchester on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ b.lo is an electro and techno artist based in United Kingdom, with 28 gigs on so
 
 GFA, Hanz, teepee h
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/b.lo/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/b.lo/)*

@@ -1,6 +1,6 @@
 # Char.l.n
 
-Char.l.n is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Sainte-Catherine Hall, Montreal on Fri, 20 Nov 2026.
+Char.l.n is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Sainte-Catherine Hall, Montreal on Fri, 20 Nov 2026.
 
 Char.l.n is a techno and house artist based in Canada, with 25 gigs on soundcheck across Montreal. Often billed alongside ALEX REV, Special K (CA) and Xaviera. Next up: Sainte-Catherine Hall, Montreal on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Char.l.n is a techno and house artist based in Canada, with 25 gigs on soundchec
 
 ALEX REV, Special K (CA), Xaviera
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/char.l.n/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/char.l.n/)*

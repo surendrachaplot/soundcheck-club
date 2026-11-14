@@ -1,6 +1,6 @@
 # ZHU
 
-ZHU is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at BERHTA, Washington DC on Fri, 18 Dec 2026.
+ZHU is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at BERHTA, Washington DC on Fri, 18 Dec 2026.
 
 ZHU is a house and techno artist based in United States of America, with 32 gigs on soundcheck across Austin, Bogotá, Chicago and Denver and 12 more. Often billed alongside Diplo, Azzecca and Biscits. Next up: BERHTA, Washington DC on Fri 18 Dec.
 
@@ -26,4 +26,4 @@ ZHU is a house and techno artist based in United States of America, with 32 gigs
 
 Diplo, Azzecca, Biscits
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zhu/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zhu/)*

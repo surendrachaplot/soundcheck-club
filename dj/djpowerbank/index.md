@@ -1,6 +1,6 @@
 # DJ Powerbank
 
-DJ Powerbank is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Cutie, Bielefeld on Sat, 12 Dec 2026.
+DJ Powerbank is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Cutie, Bielefeld on Sat, 12 Dec 2026.
 
 DJ Powerbank is a trance and techno artist based in Germany, with 20 gigs on soundcheck across Berlin, Bielefeld, Cologne and Hamburg and 2 more. Often billed alongside dylliboi_91, DJ YARAK and DJ https. Next up: Cutie, Bielefeld on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ DJ Powerbank is a trance and techno artist based in Germany, with 20 gigs on sou
 
 dylliboi_91, DJ YARAK, DJ https
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djpowerbank/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djpowerbank/)*

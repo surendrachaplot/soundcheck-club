@@ -1,6 +1,6 @@
 # eleu
 
-eleu is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Gut Level, Sheffield on Fri, 11 Dec 2026.
+eleu is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Gut Level, Sheffield on Fri, 11 Dec 2026.
 
 eleu is a techno and club artist, with 11 gigs on soundcheck across Leeds and Sheffield. Often billed alongside AYDJ, Akamwave and Cosmikuro. Next up: Gut Level, Sheffield on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ eleu is a techno and club artist, with 11 gigs on soundcheck across Leeds and Sh
 
 AYDJ, Akamwave, Cosmikuro
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eleu/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eleu/)*

@@ -1,6 +1,6 @@
 # Forester at Night We Met
 
-Forester at Night We Met on Fri 20 Nov, Nashville. 1 artist: Forester. House. See the line-up on soundcheck.
+Forester at Night We Met on Fri 20 Nov, Nashville. 2 artists: Forester and Virginia Vision. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Forester at Night We Met on Fri 20 Nov, Nashville. 1 artist: Forester. House. Se
 ## Line-up
 
 - Forester
+- Virginia Vision
 
 *Source: [soundcheck](https://soundcheck.club/e/2576470-forester-at-night-we-met/)*

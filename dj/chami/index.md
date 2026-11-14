@@ -1,20 +1,20 @@
 # Chami
 
-Chami is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The White Hotel, Manchester on Fri, 13 Nov 2026.
+Chami is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Bassiani, Tbilisi on Fri, 4 Dec 2026.
 
-Chami is a techno and house artist based in Germany, with 118 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 27 more. Often billed alongside Olivia Mendez, OPH and Blasha & Allatt. Next up: The White Hotel, Manchester on Fri 13 Nov.
+Chami is a techno and house artist based in Germany, with 118 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 27 more. Often billed alongside Olivia Mendez, OPH and Blasha & Allatt. Next up: Bassiani, Tbilisi on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | The White Hotel | Manchester |
 | Fri, 4 Dec 2026 | Bassiani | Tbilisi |
 | Sat, 5 Dec 2026 | Smolna | Warsaw |
 | Fri, 11 Dec 2026 | FVTVR | Paris |
 
 ## Recently played
 
+- The White Hotel, Manchester · Fri, 13 Nov 2026
 - The Bassement, Madrid · Sat, 7 Nov 2026
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 24 Oct 2026
 - RADION, Amsterdam · Fri, 23 Oct 2026
@@ -22,10 +22,9 @@ Chami is a techno and house artist based in Germany, with 118 gigs on soundcheck
 - Else, Berlin · Sun, 20 Sept 2026
 - Masada, Milan · Sat, 19 Sept 2026
 - Fvtvr, Paris · Fri, 18 Sept 2026
-- FOLD, London · Sat, 12 Sept 2026
 
 ## Shares bills with
 
 Olivia Mendez, OPH, Blasha & Allatt
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chami/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chami/)*

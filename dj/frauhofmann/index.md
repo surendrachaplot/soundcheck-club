@@ -1,6 +1,6 @@
 # Frau Hofmann
 
-Frau Hofmann is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Tausend, Berlin on Sat, 14 Nov 2026.
+Frau Hofmann is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Tausend, Berlin on Sat, 14 Nov 2026.
 
 Frau Hofmann is a techno and house artist based in Austria, with 19 gigs on soundcheck across Berlin and Vienna. Often billed alongside Purrdition, Alecid and C.Love. Next up: Tausend, Berlin on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Frau Hofmann is a techno and house artist based in Austria, with 19 gigs on soun
 
 Purrdition, Alecid, C.Love (2)
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frauhofmann/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frauhofmann/)*

@@ -1,6 +1,6 @@
 # Cinna Peyghamy
 
-Cinna Peyghamy is a Experimental and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 29 Jan 2027.
+Cinna Peyghamy is a Experimental and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 29 Jan 2027.
 
 Cinna Peyghamy is an experimental and dub techno artist based in France, with 38 gigs on soundcheck across Armenia, Basel, Bergen and Berlin and 10 more. Often billed alongside Azu Tiwaline, Mahmood Schricker and Ale Hop. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 29 Jan.
 
@@ -25,4 +25,4 @@ Cinna Peyghamy is an experimental and dub techno artist based in France, with 38
 
 Azu Tiwaline, Mahmood Schricker, Ale Hop
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cinnapeyghamy/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cinnapeyghamy/)*

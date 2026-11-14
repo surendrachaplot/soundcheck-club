@@ -1,6 +1,6 @@
 # Meguru
 
-Meguru is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Abyss Shanghai, Shanghai on Sat, 14 Nov 2026.
+Meguru is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Abyss Shanghai, Shanghai on Sat, 14 Nov 2026.
 
 Meguru is a techno and trance artist based in China, with 27 gigs on soundcheck across Amsterdam, Beijing, Berlin and Freiburg and 4 more. Often billed alongside Fischmonger, LIUYANG and DISCIPLINE. Next up: Abyss Shanghai, Shanghai on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Meguru is a techno and trance artist based in China, with 27 gigs on soundcheck 
 
 Fischmonger, LIUYANG, DISCIPLINE
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meguru/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meguru/)*

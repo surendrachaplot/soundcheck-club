@@ -1,14 +1,13 @@
 # Vespers Club
 
-Vespers Club is a music venue in London with 17 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Sanctuary Realm presents: FRIDAY THE 13TH" on Fri, 13 Nov 2026.
+Vespers Club is a music venue in London with 16 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "five in a bed and Onde Anda at vespers" on Sat, 14 Nov 2026.
 
-Vespers Club is a music venue in London listed on soundcheck. 17 upcoming gigs, with line-ups including Abobo, Aïsha Devi, Ama (UK) and Bryan Gee and 2 more. See dates, start times and who's playing. 133A Rye Lane, London, SE15 4BQ, UK.
+Vespers Club is a music venue in London listed on soundcheck. 16 upcoming gigs, with line-ups including Abobo, Aïsha Devi, Ama (UK) and Bryan Gee and 2 more. See dates, start times and who's playing. 133A Rye Lane, London, SE15 4BQ, UK.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Sanctuary Realm presents: FRIDAY THE 13TH |  |
 | Sat, 14 Nov 2026 | five in a bed and Onde Anda at vespers | Dexter Dooley, Onde Anda |
 | Fri, 20 Nov 2026 | Pony Party! // PON3'S IN PECKHAM! ⋆.˚˖࿔ ࣪ (MLP THEMED RAVE) | Meow Meow, Takenbymarshall, it_dont_Matt.er |
 | Sat, 21 Nov 2026 | Fixity: Plus | Femi, Glayden, MFM (FI), TRYCE |
@@ -18,9 +17,10 @@ Vespers Club is a music venue in London listed on soundcheck. 17 upcoming gigs, 
 | Sun, 29 Nov 2026 | Half East and Most Christmas Grotto |  |
 | Sun, 6 Dec 2026 | Motive Hunter: The FREE Motive Before Christmas (Open Decks + Day Party) |  |
 | Wed, 9 Dec 2026 | FRÄME - Live AV Show & Support |  |
+| Wed, 9 Dec 2026 | Främe Live AV Show + Mattia Zucchelli | Främe, Løgømyx, Mattia Zucchelli |
 
 ## Address
 
 133A Rye Lane, London, SE15 4BQ, UK, London
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/vespers-club/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/vespers-club/)*

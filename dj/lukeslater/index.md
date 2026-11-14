@@ -1,14 +1,13 @@
 # Luke Slater
 
-Luke Slater is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Poolen, Copenhagen on Fri, 13 Nov 2026.
+Luke Slater is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at not|or|ius Club, Turin on Sat, 21 Nov 2026.
 
-Luke Slater is a techno and house artist based in United Kingdom, with 132 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 47 more. Often billed alongside Steffi, Fadi Mohem and JakoJako. Next up: Poolen, Copenhagen on Fri 13 Nov.
+Luke Slater is a techno and house artist based in United Kingdom, with 132 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 47 more. Often billed alongside Steffi, Fadi Mohem and JakoJako. Next up: not|or|ius Club, Turin on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Poolen | Copenhagen |
 | Sat, 21 Nov 2026 | not/or/ius Club | Turin |
 | Fri, 27 Nov 2026 | RADION | Amsterdam |
 | Sun, 27 Dec 2026 | SWG3 | Glasgow |
@@ -17,6 +16,7 @@ Luke Slater is a techno and house artist based in United Kingdom, with 132 gigs 
 
 ## Recently played
 
+- Poolen, Copenhagen · Fri, 13 Nov 2026
 - E1, London · Sat, 7 Nov 2026
 - C12, Brussels · Sat, 31 Oct 2026
 - CLUB RAUM, Amsterdam · Fri, 23 Oct 2026
@@ -24,10 +24,9 @@ Luke Slater is a techno and house artist based in United Kingdom, with 132 gigs 
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 10 Oct 2026
 - Tapada da Ajuda, Lisbon · Sat, 26 Sept 2026
 - Openluchttheater Amersfoort, Amsterdam · Fri, 18 Sept 2026
-- La Pinilla Ski Resort, Madrid · Mon, 10 Aug 2026
 
 ## Shares bills with
 
 Steffi, Fadi Mohem, JakoJako
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukeslater/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukeslater/)*

@@ -1,6 +1,6 @@
 # doctor doms
 
-doctor doms is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Crack Bellmer, Berlin on Thu, 26 Nov 2026.
+doctor doms is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Crack Bellmer, Berlin on Thu, 26 Nov 2026.
 
 doctor doms is a techno and trance artist based in Germany, with 71 gigs on soundcheck across Berlin and Marseille. Often billed alongside Rudy Zigliara, OM (COL) and VO227. Next up: Crack Bellmer, Berlin on Thu 26 Nov.
 
@@ -26,4 +26,4 @@ doctor doms is a techno and trance artist based in Germany, with 71 gigs on soun
 
 Rudy Zigliara, OM (COL), VO227
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doctordoms/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doctordoms/)*

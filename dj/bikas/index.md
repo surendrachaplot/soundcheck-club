@@ -1,6 +1,6 @@
 # Bikas
 
-Bikas is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Era uma vez no Porto, Porto on Wed, 18 Nov 2026.
+Bikas is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Era uma vez no Porto, Porto on Wed, 18 Nov 2026.
 
 Bikas is a techno and house artist based in Portugal, with 43 gigs on soundcheck across Lisbon and Porto. Often billed alongside Pedro Tabuada, Carlos Regadas and Serginho. Next up: Era uma vez no Porto, Porto on Wed 18 Nov.
 
@@ -25,4 +25,4 @@ Bikas is a techno and house artist based in Portugal, with 43 gigs on soundcheck
 
 Pedro Tabuada, Carlos Regadas, Serginho
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bikas/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bikas/)*

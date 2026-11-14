@@ -1,6 +1,6 @@
 # SHUFFA
 
-SHUFFA is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Village Underground, London on Sat, 5 Dec 2026.
+SHUFFA is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Village Underground, London on Sat, 5 Dec 2026.
 
 SHUFFA is a garage and house artist based in United Kingdom, with 52 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Australian Capital Territory and 18 more. Often billed alongside Diffrent, Girls Don't Sync and Rich Reason. Next up: Village Underground, London on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ SHUFFA is a garage and house artist based in United Kingdom, with 52 gigs on sou
 
 Diffrent, Girls Don't Sync, Rich Reason
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shuffa/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shuffa/)*

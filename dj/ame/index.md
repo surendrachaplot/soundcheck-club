@@ -1,14 +1,13 @@
 # Âme
 
-Âme is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at D-EDGE, Sao Paulo on Fri, 13 Nov 2026.
+Âme is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Parque de la Ciudad, CABA, Buenos Aires on Sat, 14 Nov 2026.
 
-Âme is a techno and house artist based in Germany, with 405 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 80 more. Often billed alongside Trikk, Jimi Jules and Dixon. Next up: D-EDGE, Sao Paulo on Fri 13 Nov.
+Âme is a techno and house artist based in Germany, with 405 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 80 more. Often billed alongside Trikk, Jimi Jules and Dixon. Next up: TBA - Parque de la Ciudad, CABA, Buenos Aires on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | D-EDGE | Sao Paulo |
 | Sat, 14 Nov 2026 | TBA - Parque de la Ciudad, CABA | Buenos Aires |
 | Sat, 14 Nov 2026 | Club Hípico de Santiago | Santiago |
 | Fri, 20 Nov 2026 | Duggal Greenhouse | New York City |
@@ -20,6 +19,7 @@
 
 ## Recently played
 
+- D-EDGE, Sao Paulo · Fri, 13 Nov 2026
 - Tama, Poznan · Sat, 7 Nov 2026
 - Kauz, Zurich · Sat, 7 Nov 2026
 - Peti Kupe, Zagreb · Sat, 7 Nov 2026
@@ -27,10 +27,9 @@
 - Antwerp Expo, Antwerp · Fri, 6 Nov 2026
 - Factory Town, Miami · Fri, 30 Oct 2026
 - Fünk, Mexico City · Fri, 30 Oct 2026
-- NDSM Scheepsbouwloods, Amsterdam · Sat, 24 Oct 2026
 
 ## Shares bills with
 
 Trikk, Jimi Jules, Dixon
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ame/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ame/)*

@@ -1,6 +1,6 @@
 # Ben Derris
 
-Ben Derris is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at ://about blank, Berlin on Fri, 20 Nov 2026.
+Ben Derris is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at ://about blank, Berlin on Fri, 20 Nov 2026.
 
 Ben Derris is a techno and trance artist based in Germany, with 105 gigs on soundcheck across Berlin, Cologne, Copenhagen and Dresden and 13 more. Often billed alongside Linus Villa, Sony2k and djvonnebenan. Next up: ://about blank, Berlin on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Ben Derris is a techno and trance artist based in Germany, with 105 gigs on soun
 
 Linus Villa, Sony2k, djvonnebenan
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benderris/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benderris/)*

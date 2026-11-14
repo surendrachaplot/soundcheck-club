@@ -1,6 +1,6 @@
 # Millos Kaiser
 
-Millos Kaiser is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Mercado Livre Arena Pacaembu, Sao-paulo on Fri, 9 Apr 2027.
+Millos Kaiser is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Mercado Livre Arena Pacaembu, Sao-paulo on Fri, 9 Apr 2027.
 
 Millos Kaiser is a house and balearic artist based in Brazil, with 101 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Edinburgh and 14 more. Often billed alongside Craig Ouar, Giu Nunez and Gop Tun DJs. Next up: Mercado Livre Arena Pacaembu, Sao Paulo on Fri 9 Apr.
 
@@ -25,4 +25,4 @@ Millos Kaiser is a house and balearic artist based in Brazil, with 101 gigs on s
 
 Craig Ouar, Giu Nunez, Gop Tun DJs
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milloskaiser/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milloskaiser/)*

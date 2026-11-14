@@ -1,6 +1,6 @@
 # Odile Myrtil
 
-Odile Myrtil is a Club and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Société des arts technologiques, Montreal on Thu, 31 Dec 2026.
+Odile Myrtil is a Club and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Société des arts technologiques, Montreal on Thu, 31 Dec 2026.
 
 Odile Myrtil is a club and electro artist based in Canada, with 16 gigs on soundcheck across Montreal. Often billed alongside Chloe Lallouz, Frankie Teardrop and 100 gecs. Next up: Société des arts technologiques, Montreal on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Odile Myrtil is a club and electro artist based in Canada, with 16 gigs on sound
 
 Chloe Lallouz, Frankie Teardrop, 100 gecs
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/odilemyrtil/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/odilemyrtil/)*

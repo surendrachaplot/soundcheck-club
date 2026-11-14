@@ -1,18 +1,18 @@
 # Dennis Bovell
 
-Dennis Bovell is a Dub and Dancehall artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at New Century Locker, Manchester on Fri, 13 Nov 2026.
+Dennis Bovell is a Dub and Dancehall artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at The Jazz Cafe, London on Sun, 24 Jan 2027.
 
-Dennis Bovell is a dub and dancehall artist based in Barbados, with 24 gigs on soundcheck across Barcelona, Berlin, London and Manchester and 3 more. Often billed alongside Tash LC, Alex Kassian and Elijah Minnelli. Next up: New Century Locker, Manchester on Fri 13 Nov.
+Dennis Bovell is a dub and dancehall artist based in Barbados, with 24 gigs on soundcheck across Barcelona, Berlin, London and Manchester and 3 more. Often billed alongside Tash LC, Alex Kassian and Elijah Minnelli. Next up: The Jazz Cafe, London on Sun 24 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | New Century Locker | Manchester |
 | Sun, 24 Jan 2027 | The Jazz Cafe | London |
 
 ## Recently played
 
+- New Century Locker, Manchester · Fri, 13 Nov 2026
 - TBA - Markfield Road N15 - outdoors, London · Fri, 11 Sept 2026
 - Soul Mama Islington, London · Sun, 23 Aug 2026
 - Jumbi, London · Sat, 15 Aug 2026
@@ -20,10 +20,9 @@ Dennis Bovell is a dub and dancehall artist based in Barbados, with 24 gigs on s
 - Jumbi, London · Mon, 30 Mar 2026
 - La Nau, Barcelona · Sun, 22 Mar 2026
 - Berghain | Panorama Bar | Säule, Berlin · Fri, 13 Mar 2026
-- Palais, London · Sun, 8 Feb 2026
 
 ## Shares bills with
 
 Tash LC, Alex Kassian, Elijah Minnelli
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dennisbovell/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dennisbovell/)*

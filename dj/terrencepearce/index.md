@@ -1,13 +1,14 @@
 # Terrence Pearce
 
-Terrence Pearce is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Koue Bokkeveld, Cape-town on Wed, 30 Dec 2026.
+Terrence Pearce is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Mødular., Cape Town on Sat, 14 Nov 2026.
 
-Terrence Pearce is a house and disco artist based in South Africa, with 9 gigs on soundcheck across Cape Town. Often billed alongside White Nite, Friends of Friends Soundsystem and Cody Losper. Next up: TBA - Koue Bokkeveld, Cape Town on Wed 30 Dec.
+Terrence Pearce is a house and disco artist based in South Africa, with 10 gigs on soundcheck across Cape Town. Often billed alongside White Nite, Friends of Friends Soundsystem and JED (ZA). Next up: Mødular., Cape Town on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | Mødular. | Cape Town |
 | Wed, 30 Dec 2026 | TBA - Koue Bokkeveld | Cape-town |
 
 ## Recently played
@@ -23,6 +24,6 @@ Terrence Pearce is a house and disco artist based in South Africa, with 9 gigs o
 
 ## Shares bills with
 
-White Nite, Friends of Friends Soundsystem, Cody Losper
+White Nite, Friends of Friends Soundsystem, JED (ZA)
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/terrencepearce/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/terrencepearce/)*

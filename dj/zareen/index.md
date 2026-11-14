@@ -1,6 +1,6 @@
 # ZAREEN
 
-ZAREEN is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Gate Milano, Milan on Fri, 20 Nov 2026.
+ZAREEN is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Gate Milano, Milan on Fri, 20 Nov 2026.
 
 ZAREEN is a house and tech house artist based in Italy, with 18 gigs on soundcheck across Berlin, Milan, Paris and San Diego. Often billed alongside DJ IDeaL, Terry Jasinto and AMBRA. Next up: Gate Milano, Milan on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ ZAREEN is a house and tech house artist based in Italy, with 18 gigs on soundche
 
 DJ IDeaL, Terry Jasinto, AMBRA
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zareen/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zareen/)*

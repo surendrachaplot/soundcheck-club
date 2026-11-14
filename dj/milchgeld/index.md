@@ -1,6 +1,6 @@
 # Milchgeld
 
-Milchgeld is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Siggi, Brandenburg on Sat, 28 Nov 2026.
+Milchgeld is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Siggi, Brandenburg on Sat, 28 Nov 2026.
 
 Milchgeld is a techno and tech house artist based in Germany, with 21 gigs on soundcheck across Berlin and Brandenburg. Often billed alongside Sonse, DaSoMaZo and NYXEA. Next up: Siggi, Brandenburg on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Milchgeld is a techno and tech house artist based in Germany, with 21 gigs on so
 
 Sonse, DaSoMaZo, NYXEA
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milchgeld/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milchgeld/)*

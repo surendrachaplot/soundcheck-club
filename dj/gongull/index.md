@@ -1,6 +1,6 @@
 # GONGULL
 
-GONGULL is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Kater, Berlin on Sat, 28 Nov 2026.
+GONGULL is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Kater, Berlin on Sat, 28 Nov 2026.
 
 GONGULL is a house and tech house artist based in Panama, with 11 gigs on soundcheck across Barcelona and Berlin. Often billed alongside Elwei, Miguel Silva and Popsky. Next up: Kater, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ GONGULL is a house and tech house artist based in Panama, with 11 gigs on soundc
 
 Elwei, Miguel Silva, Popsky
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gongull/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gongull/)*

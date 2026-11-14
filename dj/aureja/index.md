@@ -1,6 +1,6 @@
 # AUREJA
 
-AUREJA is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Muipo Club, Vilnius on Fri, 27 Nov 2026.
+AUREJA is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Muipo Club, Vilnius on Fri, 27 Nov 2026.
 
 AUREJA is a house and disco artist based in Lithuania, with 22 gigs on soundcheck across Vilnius. Often billed alongside Senkala, Roe Deers and Ambroza. Next up: Muipo Club, Vilnius on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ AUREJA is a house and disco artist based in Lithuania, with 22 gigs on soundchec
 
 Senkala, Roe Deers, Ambroza
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aureja/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aureja/)*

@@ -1,6 +1,6 @@
 # Jane Remover
 
-Jane Remover is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at smartbar, Chicago on Wed, 16 Dec 2026.
+Jane Remover is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at smartbar, Chicago on Wed, 16 Dec 2026.
 
 Jane Remover is an electronica and house artist based in United States of America, with 5 gigs on soundcheck across Chicago, Los Angeles, Miami and New York City and 1 more. Often billed alongside 619!, 999999999 and AABEL. Next up: smartbar, Chicago on Wed 16 Dec.
 
@@ -21,4 +21,4 @@ Jane Remover is an electronica and house artist based in United States of Americ
 
 619!, 999999999, AABEL
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janeremover/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janeremover/)*

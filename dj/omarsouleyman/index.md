@@ -1,6 +1,6 @@
 # Omar Souleyman
 
-Omar Souleyman is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at den Atelier, Luxembourg on Fri, 5 Mar 2027.
+Omar Souleyman is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at den Atelier, Luxembourg on Fri, 5 Mar 2027.
 
 Omar Souleyman is a house and electro artist, with 32 gigs on soundcheck across Athens, Bali, Barcelona and Brussels and 18 more. Often billed alongside Ben UFO, Ehua and Folamour. Next up: den Atelier, Luxembourg on Fri 5 Mar.
 
@@ -25,4 +25,4 @@ Omar Souleyman is a house and electro artist, with 32 gigs on soundcheck across 
 
 Ben UFO, Ehua, Folamour
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/omarsouleyman/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/omarsouleyman/)*

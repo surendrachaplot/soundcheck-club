@@ -1,6 +1,6 @@
 # Mary Harp
 
-Mary Harp is a House and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Culture Box, Copenhagen on Fri, 29 Jan 2027.
+Mary Harp is a House and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Culture Box, Copenhagen on Fri, 29 Jan 2027.
 
 Mary Harp is a house and jungle artist based in Denmark, with 24 gigs on soundcheck across Copenhagen. Often billed alongside CAYOOTEE, parashoot and DJ Lukey. Next up: Culture Box, Copenhagen on Fri 29 Jan.
 
@@ -25,4 +25,4 @@ Mary Harp is a house and jungle artist based in Denmark, with 24 gigs on soundch
 
 CAYOOTEE, parashoot, DJ Lukey
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maryharp/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maryharp/)*

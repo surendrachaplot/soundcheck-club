@@ -1,6 +1,6 @@
 # Tommahawk
 
-Tommahawk is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Entrepotgebouw, Netherlands on Sat, 14 Nov 2026.
+Tommahawk is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Entrepotgebouw, Netherlands on Sat, 14 Nov 2026.
 
 Tommahawk is a techno and house artist based in Germany, with 85 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 15 more. Often billed alongside Sabura, MikAH and A.N.I.. Next up: Entrepotgebouw, Netherlands on Sat 14 Nov.
 
@@ -28,4 +28,4 @@ Tommahawk is a techno and house artist based in Germany, with 85 gigs on soundch
 
 Sabura, MikAH, A.N.I.
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tommahawk/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tommahawk/)*

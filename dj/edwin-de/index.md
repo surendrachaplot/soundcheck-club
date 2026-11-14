@@ -1,6 +1,6 @@
 # Edwin (DE)
 
-Edwin (DE) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Fridas Pier, Stuttgart on Fri, 20 Nov 2026.
+Edwin (DE) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Fridas Pier, Stuttgart on Fri, 20 Nov 2026.
 
 Edwin (DE) is a house and techno artist based in Germany, with 27 gigs on soundcheck across Stuttgart. Often billed alongside MIRO (DE), Alex Kassian and DJ Floppy Disk. Next up: Fridas Pier, Stuttgart on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Edwin (DE) is a house and techno artist based in Germany, with 27 gigs on soundc
 
 MIRO (DE), Alex Kassian, DJ Floppy Disk
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edwin-de/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edwin-de/)*

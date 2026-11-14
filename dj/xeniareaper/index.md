@@ -1,6 +1,6 @@
 # Xenia Reaper
 
-Xenia Reaper is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Shunter, Rotterdam on Fri, 27 Nov 2026.
+Xenia Reaper is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Shunter, Rotterdam on Fri, 27 Nov 2026.
 
 Xenia Reaper is an experimental and ambient artist based in Germany, with 34 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 7 more. Often billed alongside CYBERMISSION, Conna Haraway and ex wiish. Next up: Shunter, Rotterdam on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Xenia Reaper is an experimental and ambient artist based in Germany, with 34 gig
 
 CYBERMISSION, Conna Haraway, ex wiish
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xeniareaper/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xeniareaper/)*

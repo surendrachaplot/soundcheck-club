@@ -1,6 +1,6 @@
 # Foreign Affair
 
-Foreign Affair is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Charlie, Munich on Fri, 18 Dec 2026.
+Foreign Affair is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Charlie, Munich on Fri, 18 Dec 2026.
 
 Foreign Affair is a house and tech house artist, with 6 gigs on soundcheck across London and Munich. Often billed alongside Julian Rtr, A-DEE and A-Dee and Dasmo. Next up: Charlie, Munich on Fri 18 Dec.
 
@@ -22,4 +22,4 @@ Foreign Affair is a house and tech house artist, with 6 gigs on soundcheck acros
 
 Julian Rtr, A-DEE, A-Dee and Dasmo
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/foreignaffair/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/foreignaffair/)*

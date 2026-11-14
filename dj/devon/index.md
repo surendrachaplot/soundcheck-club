@@ -1,6 +1,6 @@
 # Devon
 
-Devon is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Tabula Rasa, Tokyo on Sat, 14 Nov 2026.
+Devon is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Tabula Rasa, Tokyo on Sat, 14 Nov 2026.
 
 Devon is a house and techno artist based in Japan, with 59 gigs on soundcheck across Mexico City, San Francisco/Oakland, Seoul and Tokyo and 1 more. Often billed alongside Leo Gabriel, sui_rex and 50Minimals. Next up: Tabula Rasa, Tokyo on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Devon is a house and techno artist based in Japan, with 59 gigs on soundcheck ac
 
 Leo Gabriel, sui_rex, 50Minimals
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/devon/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/devon/)*

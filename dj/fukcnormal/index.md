@@ -1,6 +1,6 @@
 # FUKCNORMAL
 
-FUKCNORMAL is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - ENTITY POWERED BY VOID ACCOUSTICS, Madrid on Fri, 27 Nov 2026.
+FUKCNORMAL is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - ENTITY POWERED BY VOID ACCOUSTICS, Madrid on Fri, 27 Nov 2026.
 
 FUKCNORMAL is a techno and club artist based in Spain, with 51 gigs on soundcheck across Barcelona, Berlin, Helsinki and Lisbon and 4 more. Often billed alongside Olvido, DJ Final Boss and LVL1. Next up: TBA - ENTITY POWERED BY VOID ACCOUSTICS, Madrid on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ FUKCNORMAL is a techno and club artist based in Spain, with 51 gigs on soundchec
 
 Olvido, DJ Final Boss, LVL1
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fukcnormal/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fukcnormal/)*

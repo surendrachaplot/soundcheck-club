@@ -1,6 +1,6 @@
 # ZANNT
 
-ZANNT is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Secret Location NK, Berlin on Fri, 20 Nov 2026.
+ZANNT is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Secret Location NK, Berlin on Fri, 20 Nov 2026.
 
 ZANNT is a techno and house artist based in Greece, with 18 gigs on soundcheck across Athens, Berlin and Hamburg. Often billed alongside Cherry Distress, 131bpm and ADAM MUNNINGS. Next up: TBA - Secret Location NK, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ ZANNT is a techno and house artist based in Greece, with 18 gigs on soundcheck a
 
 Cherry Distress, 131bpm, ADAM MUNNINGS
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zannt/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zannt/)*

@@ -1,6 +1,6 @@
 # Quest (IT)
 
-Quest (IT) is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Secret Location, Boston on Fri, 20 Nov 2026.
+Quest (IT) is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Secret Location, Boston on Fri, 20 Nov 2026.
 
 Quest (IT) is a house and techno artist based in Italy, with 192 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 63 more. Often billed alongside Christian AB, Adiel and Francesco Del Garda. Next up: TBA - Secret Location, Boston on Fri 20 Nov.
 
@@ -30,4 +30,4 @@ Quest (IT) is a house and techno artist based in Italy, with 192 gigs on soundch
 
 Christian AB, Adiel, Francesco Del Garda
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/questit/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/questit/)*

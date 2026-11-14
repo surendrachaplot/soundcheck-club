@@ -1,6 +1,6 @@
 # Raw Planet
 
-Raw Planet is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Secret Location DC, Washington DC on Sat, 21 Nov 2026.
+Raw Planet is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Secret Location DC, Washington DC on Sat, 21 Nov 2026.
 
 Raw Planet is a house and techno artist based in United States of America, with 19 gigs on soundcheck across Barcelona, Detroit, New York City and Valencia and 1 more. Often billed alongside Eric Yaz, KenYi and VYNX. Next up: TBA - Secret Location DC, Washington DC on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Raw Planet is a house and techno artist based in United States of America, with 
 
 Eric Yaz, KenYi, VYNX
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rawplanet/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rawplanet/)*

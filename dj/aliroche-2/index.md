@@ -1,6 +1,6 @@
 # Ali Roche (2)
 
-Ali Roche (2) is a Trance and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Abbey, Manchester on Sat, 28 Nov 2026.
+Ali Roche (2) is a Trance and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at The Abbey, Manchester on Sat, 28 Nov 2026.
 
 Ali Roche is a trance and bass artist based in Ireland, with 8 gigs on soundcheck across Manchester. Often billed alongside blo rida, Club Penguin and SUS-R. Next up: The Abbey, Manchester on Sat 28 Nov.
 
@@ -24,4 +24,4 @@ Ali Roche is a trance and bass artist based in Ireland, with 8 gigs on soundchec
 
 blo rida, Club Penguin, SUS-R
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aliroche-2/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aliroche-2/)*

@@ -1,6 +1,6 @@
 # Mick Jarmain
 
-Mick Jarmain is a Balearic and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Social, London on Sat, 6 Feb 2027.
+Mick Jarmain is a Balearic and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at The Social, London on Sat, 6 Feb 2027.
 
 Mick Jarmain is a balearic and disco artist based in United Kingdom, with 6 gigs on soundcheck across London and Newcastle. Often billed alongside Andy Dunn and Tony Heslop. Next up: The Social, London on Sat 6 Feb.
 
@@ -22,4 +22,4 @@ Mick Jarmain is a balearic and disco artist based in United Kingdom, with 6 gigs
 
 Andy Dunn, Tony Heslop
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mickjarmain/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mickjarmain/)*

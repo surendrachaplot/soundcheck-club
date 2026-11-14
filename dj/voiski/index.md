@@ -1,6 +1,6 @@
 # Voiski
 
-Voiski is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Chez Les Plombiers, Central on Sun, 22 Nov 2026.
+Voiski is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Chez Les Plombiers, Central on Sun, 22 Nov 2026.
 
 Voiski is a techno and house artist based in France, with 74 gigs on soundcheck across Amsterdam, Bali, Barcelona and Beijing and 31 more. Often billed alongside Eliott Litrowski, Polar Inertia and Altinbas. Next up: Chez Les Plombiers, Central on Sun 22 Nov.
 
@@ -26,4 +26,4 @@ Voiski is a techno and house artist based in France, with 74 gigs on soundcheck 
 
 Eliott Litrowski, Polar Inertia, Altinbas
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/voiski/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/voiski/)*

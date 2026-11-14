@@ -1,6 +1,6 @@
 # DJ Music
 
-DJ Music is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at La Station - Gare des Mines, Paris on Sat, 28 Nov 2026.
+DJ Music is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at La Station - Gare des Mines, Paris on Sat, 28 Nov 2026.
 
 DJ Music is a club and techno artist based in France, with 9 gigs on soundcheck across Paris. Often billed alongside Golce, fetva and Word of Command. Next up: La Station - Gare des Mines, Paris on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ DJ Music is a club and techno artist based in France, with 9 gigs on soundcheck 
 
 Golce, fetva, Word of Command
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmusic/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmusic/)*

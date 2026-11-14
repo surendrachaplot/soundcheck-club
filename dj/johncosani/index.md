@@ -1,6 +1,6 @@
 # John Cosani
 
-John Cosani is a Progressive House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA, Uruguay on Mon, 21 Dec 2026.
+John Cosani is a Progressive House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA, Uruguay on Mon, 21 Dec 2026.
 
 John Cosani is a progressive house and tech house artist based in Argentina, with 43 gigs on soundcheck across Amsterdam, Barcelona, Buenos Aires and Copenhagen and 10 more. Often billed alongside Hernan Cattaneo, Albano Bastonero and Mayro. Next up: TBA, Uruguay on Mon 21 Dec.
 
@@ -25,4 +25,4 @@ John Cosani is a progressive house and tech house artist based in Argentina, wit
 
 Hernan Cattaneo, Albano Bastonero, Mayro
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johncosani/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johncosani/)*

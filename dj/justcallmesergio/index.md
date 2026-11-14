@@ -1,6 +1,6 @@
 # justcallmesergio
 
-justcallmesergio is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at ciao ciao Bar, Berlin on Sat, 19 Dec 2026.
+justcallmesergio is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at ciao ciao Bar, Berlin on Sat, 19 Dec 2026.
 
 justcallmesergio is a house and electro artist based in Ukraine, with 45 gigs on soundcheck across Berlin, Krakow and Oslo. Often billed alongside Rina Katen, Loves_kills and Slow PSTL. Next up: ciao ciao Bar, Berlin on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ justcallmesergio is a house and electro artist based in Ukraine, with 45 gigs on
 
 Rina Katen, Loves_kills, Slow PSTL
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/justcallmesergio/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/justcallmesergio/)*

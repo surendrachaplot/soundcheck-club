@@ -1,6 +1,6 @@
 # Thievery Corporation
 
-Thievery Corporation is a Downtempo and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Foothills of Nandi, Karahalli, Bangalore on Sat, 5 Dec 2026.
+Thievery Corporation is a Downtempo and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Foothills of Nandi, Karahalli, Bangalore on Sat, 5 Dec 2026.
 
 Thievery Corporation is a downtempo and electronica artist based in United States of America, with 18 gigs on soundcheck across Amsterdam, Bangalore, Chicago and Houston and 6 more. Often billed alongside DJ Shadow, 4 Hero and ANSWER (IN). Next up: TBA - Foothills of Nandi, Karahalli, Bangalore on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Thievery Corporation is a downtempo and electronica artist based in United State
 
 DJ Shadow, 4 Hero, ANSWER (IN)
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thieverycorporation/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thieverycorporation/)*

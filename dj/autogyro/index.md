@@ -1,6 +1,6 @@
 # autogyro
 
-autogyro is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Red Eye NY, New York City on Fri, 13 Nov 2026.
+autogyro is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Red Eye NY, New York City on Fri, 13 Nov 2026.
 
 autogyro is a techno and house artist based in United States of America, with 22 gigs on soundcheck across Detroit, New York City and Washington DC. Often billed alongside Wax Assassin, we1sman and IPOK. Next up: Red Eye NY, New York City on Fri 13 Nov.
 
@@ -13,6 +13,7 @@ autogyro is a techno and house artist based in United States of America, with 22
 
 ## Recently played
 
+- Red Eye NY, New York City · Fri, 13 Nov 2026
 - Red Eye NY, New York City · Fri, 9 Oct 2026
 - Spkrbox, Detroit · Wed, 30 Sept 2026
 - Menjo's, Detroit · Sat, 26 Sept 2026
@@ -20,10 +21,9 @@ autogyro is a techno and house artist based in United States of America, with 22
 - The Eagle of Detroit, Detroit · Sat, 1 Aug 2026
 - Spkrbox, Detroit · Thu, 30 Jul 2026
 - Menjo's, Detroit · Sat, 6 Jun 2026
-- The Eagle of Detroit, Detroit · Fri, 22 May 2026
 
 ## Shares bills with
 
 Wax Assassin, we1sman, IPOK
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/autogyro/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/autogyro/)*

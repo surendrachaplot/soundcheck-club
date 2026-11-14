@@ -1,6 +1,6 @@
 # Sino
 
-Sino is a House and Amapiano artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at BBCB: Beton Brut+Concrete Bar, Seoul on Sat, 14 Nov 2026.
+Sino is a House and Amapiano artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at BBCB: Beton Brut+Concrete Bar, Seoul on Sat, 14 Nov 2026.
 
 Sino is a house and amapiano artist based in Ireland, with 9 gigs on soundcheck across Barcelona, Dublin, London and Seoul and 1 more. Often billed alongside AiMii, COOK SWEET and Unkelchubbz. Next up: BBCB: Beton Brut+Concrete Bar, Seoul on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Sino is a house and amapiano artist based in Ireland, with 9 gigs on soundcheck 
 
 AiMii, COOK SWEET, Unkelchubbz
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sino/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sino/)*

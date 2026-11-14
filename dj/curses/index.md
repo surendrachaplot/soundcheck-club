@@ -1,6 +1,6 @@
 # Curses
 
-Curses is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at BASEMENT, New York City on Sat, 14 Nov 2026.
+Curses is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at BASEMENT, New York City on Sat, 14 Nov 2026.
 
 Curses is a techno and house artist based in United States of America, with 197 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 66 more. Often billed alongside The Lady Machine, Rakans and Cormac. Next up: BASEMENT, New York City on Sat 14 Nov.
 
@@ -29,4 +29,4 @@ Curses is a techno and house artist based in United States of America, with 197 
 
 The Lady Machine, Rakans, Cormac
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/curses/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/curses/)*

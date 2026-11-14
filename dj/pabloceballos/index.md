@@ -1,6 +1,6 @@
 # Pablo Ceballos
 
-Pablo Ceballos is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Superior Ingredients, New York City on Sun, 29 Nov 2026.
+Pablo Ceballos is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Superior Ingredients, New York City on Sun, 29 Nov 2026.
 
 Pablo Ceballos is a house and tech house artist based in Spain, with 24 gigs on soundcheck across Madrid, Miami, Montreal and New York City and 4 more. Often billed alongside Chus & Ceballos, DJ Chus and Oscar G. Next up: Superior Ingredients, New York City on Sun 29 Nov.
 
@@ -26,4 +26,4 @@ Pablo Ceballos is a house and tech house artist based in Spain, with 24 gigs on 
 
 Chus & Ceballos, DJ Chus, Oscar G
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pabloceballos/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pabloceballos/)*

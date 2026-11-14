@@ -1,6 +1,6 @@
 # VSSR
 
-VSSR is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at De Fik Garden, Amsterdam on Thu, 26 Nov 2026.
+VSSR is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at De Fik Garden, Amsterdam on Thu, 26 Nov 2026.
 
 VSSR is a techno and house artist based in Netherlands, with 28 gigs on soundcheck across Amsterdam, Berlin, Buenos Aires and Rotterdam and 4 more. Often billed alongside JSPRV35, KETCH and Grace Dahl. Next up: De Fik Garden, Amsterdam on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ VSSR is a techno and house artist based in Netherlands, with 28 gigs on soundche
 
 JSPRV35, KETCH, Grace Dahl
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vssr/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vssr/)*

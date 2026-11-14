@@ -1,6 +1,6 @@
 # Rangelova
 
-Rangelova is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at ROSA, Berlin on Fri, 11 Dec 2026.
+Rangelova is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at ROSA, Berlin on Fri, 11 Dec 2026.
 
 Rangelova is a techno and house artist based in Germany, with 24 gigs on soundcheck across Athens, Berlin, Birmingham and London. Often billed alongside Choronzon, Mar/us and Miss Italia. Next up: ROSA, Berlin on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Rangelova is a techno and house artist based in Germany, with 24 gigs on soundch
 
 Choronzon, Mar/us, Miss Italia
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rangelova/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rangelova/)*

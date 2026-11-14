@@ -1,6 +1,6 @@
 # Nevel
 
-Nevel is a House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Electronic Music Division Rome, Rome on Wed, 25 Nov 2026.
+Nevel is a House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Electronic Music Division Rome, Rome on Wed, 25 Nov 2026.
 
 Nevel is a house artist based in Italy, with 6 gigs on soundcheck across Rome. Often billed alongside DIANA, Filippo Pagni and Guglielmo Bernardini. Next up: Electronic Music Division Rome, Rome on Wed 25 Nov.
 
@@ -22,4 +22,4 @@ Nevel is a house artist based in Italy, with 6 gigs on soundcheck across Rome. O
 
 DIANA, Filippo Pagni, Guglielmo Bernardini
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nevel/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nevel/)*

@@ -1,6 +1,6 @@
 # Marylou
 
-Marylou is a Experimental and Club artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - LFO, Madrid on Sat, 14 Nov 2026.
+Marylou is a Experimental and Club artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - LFO, Madrid on Sat, 14 Nov 2026.
 
 Marylou is an experimental and club artist based in France, with 116 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 14 more. Often billed alongside Darwin, ophélie and Gavsborg. Next up: TBA - LFO, Madrid on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Marylou is an experimental and club artist based in France, with 116 gigs on sou
 
 Darwin, ophélie, Gavsborg
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marylou/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marylou/)*

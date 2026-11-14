@@ -1,6 +1,6 @@
 # Lex (GR)
 
-Lex (GR) is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Burger Disco Club, Athens on Sat, 14 Nov 2026.
+Lex (GR) is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Burger Disco Club, Athens on Sat, 14 Nov 2026.
 
 Lex (GR) is a house and disco artist based in Greece, with 36 gigs on soundcheck across Athens, Barcelona, Berlin and Bogotá and 9 more. Often billed alongside Chevy, Locke and Kostas Georgoudis. Next up: Burger Disco Club, Athens on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Lex (GR) is a house and disco artist based in Greece, with 36 gigs on soundcheck
 
 Chevy, Locke, Kostas Georgoudis
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lex-gr/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lex-gr/)*

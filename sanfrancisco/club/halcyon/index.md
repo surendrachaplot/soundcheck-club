@@ -1,14 +1,13 @@
 # Halcyon
 
-Halcyon is a music venue in San Francisco/Oakland with 21 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Bontan" on Fri, 13 Nov 2026.
+Halcyon is a music venue in San Francisco/Oakland with 20 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Deborah De Luca" on Sat, 14 Nov 2026.
 
-Halcyon is a music venue in San Francisco/Oakland listed on soundcheck. 21 upcoming gigs, with line-ups including Paolo Ferrara, BENSY, Bontan and Cameron Jack and 2 more. See dates, start times and who's playing. 314 11th St, San Francisco, California, 94103.
+Halcyon is a music venue in San Francisco/Oakland listed on soundcheck. 20 upcoming gigs, with line-ups including Paolo Ferrara, BENSY, Cameron Jack and Ciaran McAuley and 2 more. See dates, start times and who's playing. 314 11th St, San Francisco, California, 94103.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Bontan | Bontan |
 | Sat, 14 Nov 2026 | Deborah De Luca | Deborah De Luca |
 | Fri, 20 Nov 2026 | JOA | JOA (IT) |
 | Sat, 21 Nov 2026 | Kaufmann | Kaufmann |
@@ -18,9 +17,10 @@ Halcyon is a music venue in San Francisco/Oakland listed on soundcheck. 21 upcom
 | Sat, 5 Dec 2026 | Cameron Jack | Cameron Jack |
 | Fri, 11 Dec 2026 | Malone MOREZ | Malone |
 | Sat, 12 Dec 2026 | T78 | T78 |
+| Fri, 18 Dec 2026 | Locky | Locky |
 
 ## Address
 
 314 11th St, San Francisco, California, 94103, San Francisco/Oakland
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/halcyon/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/halcyon/)*

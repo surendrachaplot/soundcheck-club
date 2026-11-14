@@ -1,6 +1,6 @@
 # Wyatt (1)
 
-Wyatt (1) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Kauz, Zurich on Fri, 11 Dec 2026.
+Wyatt (1) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Kauz, Zurich on Fri, 11 Dec 2026.
 
 Wyatt is a house and techno artist based in Switzerland, with 14 gigs on soundcheck across Berlin, Bristol, Bucharest and Lausanne and 5 more. Often billed alongside Aline (CH), Adriano Lemon and Nick F. Next up: Kauz, Zurich on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Wyatt is a house and techno artist based in Switzerland, with 14 gigs on soundch
 
 Aline (CH), Adriano Lemon, Nick F
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wyatt-1/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wyatt-1/)*

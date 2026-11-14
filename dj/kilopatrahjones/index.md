@@ -1,14 +1,13 @@
 # Kilopatrah Jones
 
-Kilopatrah Jones is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Parkside Lounge, New York City on Fri, 13 Nov 2026.
+Kilopatrah Jones is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Paragon, New York City on Thu, 19 Nov 2026.
 
-Kilopatrah Jones is a house and techno artist based in United States of America, with 195 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 22 more. Often billed alongside Dee Diggs, Mike Servito and Ron Like Hell. Next up: The Parkside Lounge, New York City on Fri 13 Nov.
+Kilopatrah Jones is a house and techno artist based in United States of America, with 195 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 22 more. Often billed alongside Dee Diggs, Mike Servito and Ron Like Hell. Next up: Paragon, New York City on Thu 19 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | The Parkside Lounge | New York City |
 | Thu, 19 Nov 2026 | Paragon | New York City |
 | Fri, 20 Nov 2026 | Duggal Greenhouse | New York City |
 | Fri, 11 Dec 2026 | H0L0 | New York City |
@@ -16,6 +15,7 @@ Kilopatrah Jones is a house and techno artist based in United States of America,
 
 ## Recently played
 
+- The Parkside Lounge, New York City · Fri, 13 Nov 2026
 - The Cafe, San Francisco/Oakland · Sun, 8 Nov 2026
 - Bossa Nova Civic Club, New York City · Wed, 4 Nov 2026
 - Paragon, New York City · Fri, 23 Oct 2026
@@ -23,10 +23,9 @@ Kilopatrah Jones is a house and techno artist based in United States of America,
 - BASEMENT, New York City · Sat, 10 Oct 2026
 - Good Room, New York City · Fri, 9 Oct 2026
 - Dead Letter No. 9, New York City · Sat, 3 Oct 2026
-- BASEMENT, New York City · Sat, 26 Sept 2026
 
 ## Shares bills with
 
 Dee Diggs, Mike Servito, Ron Like Hell
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kilopatrahjones/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kilopatrahjones/)*

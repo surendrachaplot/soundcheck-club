@@ -1,6 +1,6 @@
 # CAPTNNN'
 
-CAPTNNN' is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Silencio, Paris on Sat, 14 Nov 2026.
+CAPTNNN' is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Silencio, Paris on Sat, 14 Nov 2026.
 
 CAPTNNN' is a house and techno artist based in Switzerland, with 36 gigs on soundcheck across Amsterdam, Berlin, Dublin and Geneva and 4 more. Often billed alongside Florian Picasso, Miura and Sam Karam. Next up: Silencio, Paris on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ CAPTNNN' is a house and techno artist based in Switzerland, with 36 gigs on soun
 
 Florian Picasso, Miura, Sam Karam
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/captnnn/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/captnnn/)*

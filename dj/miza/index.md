@@ -1,6 +1,6 @@
 # Miza
 
-Miza is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Mia Mao, Paris on Sat, 26 Dec 2026.
+Miza is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Mia Mao, Paris on Sat, 26 Dec 2026.
 
 Miza is a techno and trance artist based in Australia, with 13 gigs on soundcheck across Melbourne, Nantes and Paris. Often billed alongside Bones 33, BETÏSES and Britney Speed. Next up: Mia Mao, Paris on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Miza is a techno and trance artist based in Australia, with 13 gigs on soundchec
 
 Bones 33, BETÏSES, Britney Speed
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miza/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miza/)*

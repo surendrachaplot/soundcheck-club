@@ -1,6 +1,6 @@
 # ZIGNNAL
 
-ZIGNNAL is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Bardo Speakeasy, Mexico City on Sat, 12 Dec 2026.
+ZIGNNAL is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Bardo Speakeasy, Mexico City on Sat, 12 Dec 2026.
 
 ZIGNNAL is a techno and house artist based in Mexico, with 11 gigs on soundcheck across Guadalajara and Mexico City. Often billed alongside NAHAN, Ramiel II and Cabe. Next up: Bardo Speakeasy, Mexico City on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ ZIGNNAL is a techno and house artist based in Mexico, with 11 gigs on soundcheck
 
 NAHAN, Ramiel II, Cabe
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zignnal/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zignnal/)*

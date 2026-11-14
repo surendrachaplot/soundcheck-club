@@ -1,6 +1,6 @@
 # Eelke Kleijn
 
-Eelke Kleijn is a Progressive House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Distillery Complex, Pittsburgh on Fri, 4 Dec 2026.
+Eelke Kleijn is a Progressive House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at The Distillery Complex, Pittsburgh on Fri, 4 Dec 2026.
 
 Eelke Kleijn is a progressive house and techno artist based in Netherlands, with 116 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 38 more. Often billed alongside Miss Melera, Corren Cavini and Nick Warren. Next up: The Distillery Complex, Pittsburgh on Fri 4 Dec.
 
@@ -29,4 +29,4 @@ Eelke Kleijn is a progressive house and techno artist based in Netherlands, with
 
 Miss Melera, Corren Cavini, Nick Warren
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eelkekleijn/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eelkekleijn/)*

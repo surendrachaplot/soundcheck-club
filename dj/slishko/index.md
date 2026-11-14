@@ -1,6 +1,6 @@
 # Slishko
 
-Slishko is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Klub K4, Ljubljana on Fri, 20 Nov 2026.
+Slishko is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Klub K4, Ljubljana on Fri, 20 Nov 2026.
 
 Slishko is an electronica and house artist, with 10 gigs on soundcheck across Ljubljana and Vienna. Often billed alongside Matorola, Merru and Flipper. Next up: Klub K4, Ljubljana on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Slishko is an electronica and house artist, with 10 gigs on soundcheck across Lj
 
 Matorola, Merru, Flipper
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slishko/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slishko/)*

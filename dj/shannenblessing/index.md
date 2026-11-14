@@ -1,19 +1,19 @@
 # Shannen Blessing
 
-Shannen Blessing is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Eastern Bloc Records, Manchester on Fri, 13 Nov 2026.
+Shannen Blessing is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at block., Dublin on Sat, 14 Nov 2026.
 
-Shannen Blessing is a techno and trance artist based in Ireland, with 57 gigs on soundcheck across Amsterdam, Belfast, Berlin and Cork and 5 more. Often billed alongside MAV666, Aero and JWY. Next up: Eastern Bloc Records, Manchester on Fri 13 Nov.
+Shannen Blessing is a techno and trance artist based in Ireland, with 57 gigs on soundcheck across Amsterdam, Belfast, Berlin and Cork and 5 more. Often billed alongside MAV666, Aero and JWY. Next up: block., Dublin on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Eastern Bloc Records | Manchester |
 | Sat, 14 Nov 2026 | block. | Dublin |
 | Sat, 5 Dec 2026 | The Sound House | Dublin |
 
 ## Recently played
 
+- Eastern Bloc Records, Manchester · Fri, 13 Nov 2026
 - Pawn Shop, Dublin · Sat, 3 Oct 2026
 - The Grand Social, Dublin · Sat, 27 Jun 2026
 - Cyprus Avenue, Cork · Fri, 26 Jun 2026
@@ -21,10 +21,9 @@ Shannen Blessing is a techno and trance artist based in Ireland, with 57 gigs on
 - The Ulster Sports Club, Belfast · Fri, 20 Feb 2026
 - The Sound House, Dublin · Fri, 16 Jan 2026
 - The Sound House, Dublin · Fri, 26 Dec 2025
-- Yamamori Tengu, Dublin · Sun, 16 Nov 2025
 
 ## Shares bills with
 
 MAV666, Aero (1), JWY (1)
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shannenblessing/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shannenblessing/)*

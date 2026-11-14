@@ -1,6 +1,6 @@
 # Jordan Gardner
 
-Jordan Gardner is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Bar Datcha, Montreal on Sat, 12 Dec 2026.
+Jordan Gardner is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Bar Datcha, Montreal on Sat, 12 Dec 2026.
 
 Jordan Gardner is a house and club artist based in Canada, with 33 gigs on soundcheck across Mexico City, Montreal and Toronto. Often billed alongside Groceries, Ard1n and HVN. Next up: Bar Datcha, Montreal on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Jordan Gardner is a house and club artist based in Canada, with 33 gigs on sound
 
 Groceries, Ard1n, HVN (1)
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jordangardner/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jordangardner/)*

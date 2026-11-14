@@ -1,14 +1,15 @@
 # Denis Sulta
 
-Denis Sulta is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at IDRA, Manchester on Sat, 14 Nov 2026.
+Denis Sulta is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at IDRA, Manchester on Sat, 14 Nov 2026.
 
-Denis Sulta is a house and techno artist based in United Kingdom, with 159 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Bali and 56 more. Often billed alongside Ben Hemsley, CHRIS STASSY and Sarah Story. Next up: IDRA, Manchester on Sat 14 Nov.
+Denis Sulta is a house and techno artist based in United Kingdom, with 160 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Bali and 57 more. Often billed alongside Ben Hemsley, CHRIS STASSY and Sarah Story. Next up: IDRA, Manchester on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | IDRA | Manchester |
+| Sat, 21 Nov 2026 | Club 415 | Brazil |
 | Thu, 26 Nov 2026 | Sub Club | Glasgow |
 | Fri, 27 Nov 2026 | Cabaret Voltaire | Edinburgh |
 | Sat, 28 Nov 2026 | Unit 51 | Aberdeen |
@@ -35,4 +36,4 @@ Denis Sulta is a house and techno artist based in United Kingdom, with 159 gigs 
 
 Ben Hemsley, CHRIS STASSY, Sarah Story
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/denissulta/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/denissulta/)*

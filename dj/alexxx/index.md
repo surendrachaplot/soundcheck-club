@@ -1,6 +1,6 @@
 # Alexxx
 
-Alexxx is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 14 Nov 2026.
+Alexxx is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 14 Nov 2026.
 
 Alexxx is a house and minimal artist based in Italy, with 41 gigs on soundcheck across Barcelona and Valencia. Often billed alongside Rele, PAZ WAZ HERE and LASK. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Alexxx is a house and minimal artist based in Italy, with 41 gigs on soundcheck 
 
 Rele, PAZ WAZ HERE, LASK (2)
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexxx/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexxx/)*

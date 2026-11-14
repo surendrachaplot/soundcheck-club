@@ -1,6 +1,6 @@
 # Lipton
 
-Lipton is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Four Quarters, London on Sat, 28 Nov 2026.
+Lipton is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Four Quarters, London on Sat, 28 Nov 2026.
 
 Lipton is a jungle and drum & bass artist based in United Kingdom, with 6 gigs on soundcheck across London and Manchester. Often billed alongside Jamie G, Lil Meesh and Marc Ryder. Next up: Four Quarters, London on Sat 28 Nov.
 
@@ -22,4 +22,4 @@ Lipton is a jungle and drum & bass artist based in United Kingdom, with 6 gigs o
 
 Jamie G, Lil Meesh, Marc Ryder
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lipton/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lipton/)*

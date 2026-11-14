@@ -1,6 +1,6 @@
 # Visages
 
-Visages is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Phonox, London on Fri, 8 Jan 2027.
+Visages is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Phonox, London on Fri, 8 Jan 2027.
 
 Visages is a drum & bass and dubstep artist based in France, with 38 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Atlanta and 22 more. Often billed alongside Monty, SP:MC and Alix Perez. Next up: Phonox, London on Fri 8 Jan.
 
@@ -25,4 +25,4 @@ Visages is a drum & bass and dubstep artist based in France, with 38 gigs on sou
 
 Monty, SP:MC, Alix Perez
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/visages/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/visages/)*

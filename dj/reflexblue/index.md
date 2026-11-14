@@ -1,6 +1,6 @@
 # Reflex Blue
 
-Reflex Blue is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at fabric, London on Sat, 14 Nov 2026.
+Reflex Blue is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at fabric, London on Sat, 14 Nov 2026.
 
 Reflex Blue is a house and tech house artist based in Australia, with 117 gigs on soundcheck across Amsterdam, Auckland, Bangkok and Barcelona and 40 more. Often billed alongside Doudou MD, Fumiya Tanaka and Gene On Earth. Next up: fabric, London on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Reflex Blue is a house and tech house artist based in Australia, with 117 gigs o
 
 Doudou MD, Fumiya Tanaka, Gene On Earth
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reflexblue/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reflexblue/)*

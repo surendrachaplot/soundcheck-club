@@ -1,6 +1,6 @@
 # Kissel
 
-Kissel is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Upstairs at the 700, Philadelphia on Fri, 20 Nov 2026.
+Kissel is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Upstairs at the 700, Philadelphia on Fri, 20 Nov 2026.
 
 Kissel is a techno and club artist based in United States of America, with 9 gigs on soundcheck across Philadelphia. Often billed alongside E.LEE, Obreezy Beats and RESONATE.JPEG. Next up: Upstairs at the 700, Philadelphia on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Kissel is a techno and club artist based in United States of America, with 9 gig
 
 E.LEE, Obreezy Beats, RESONATE.JPEG
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kissel/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kissel/)*

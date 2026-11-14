@@ -1,6 +1,6 @@
 # DRAMA SOURCE ARTIFACTS
 
-DRAMA SOURCE ARTIFACTS is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at OXI, Berlin on Thu, 31 Dec 2026.
+DRAMA SOURCE ARTIFACTS is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at OXI, Berlin on Thu, 31 Dec 2026.
 
 DRAMA SOURCE ARTIFACTS is a techno and house artist based in Germany, with 20 gigs on soundcheck across Berlin, Madrid, Stuttgart and Tbilisi. Often billed alongside Galo, Astral Travel and Eliza. Next up: OXI, Berlin on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ DRAMA SOURCE ARTIFACTS is a techno and house artist based in Germany, with 20 gi
 
 Galo (2), Astral Travel, Eliza (2)
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dramasourceartifacts/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dramasourceartifacts/)*

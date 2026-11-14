@@ -1,6 +1,6 @@
 # Daniël
 
-Daniël is a Tech House and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Toekomstmuziek, Amsterdam on Fri, 11 Dec 2026.
+Daniël is a Tech House and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Toekomstmuziek, Amsterdam on Fri, 11 Dec 2026.
 
 Daniël is a tech house and acid artist, with 10 gigs on soundcheck across Amsterdam and Brussels. Often billed alongside Voss, no:attitude and Omnibus Collective. Next up: Toekomstmuziek, Amsterdam on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Daniël is a tech house and acid artist, with 10 gigs on soundcheck across Amste
 
 Voss, no:attitude, Omnibus Collective
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daniel/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daniel/)*

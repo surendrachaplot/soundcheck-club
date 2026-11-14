@@ -1,6 +1,6 @@
 # ābnamā
 
-ābnamā is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at FOLD, London on Sat, 14 Nov 2026.
+ābnamā is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at FOLD, London on Sat, 14 Nov 2026.
 
 ābnamā is a techno and house artist based in Germany, with 81 gigs on soundcheck across Athens, Berlin, Copenhagen and Leipzig and 11 more. Often billed alongside Camilla Rae, 131bpm and Majdolen. Next up: FOLD, London on Sat 14 Nov.
 
@@ -26,4 +26,4 @@
 
 Camilla Rae, 131bpm, Majdolen
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/abnama/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/abnama/)*

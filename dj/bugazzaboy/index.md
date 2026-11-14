@@ -1,6 +1,6 @@
 # Bugazza Boy
 
-Bugazza Boy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Zwille, Berlin on Fri, 20 Nov 2026.
+Bugazza Boy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Zwille, Berlin on Fri, 20 Nov 2026.
 
 Bugazza Boy is a techno and house artist based in Germany, with 5 gigs on soundcheck across Berlin and Leipzig. Often billed alongside 314A, :MUMM and Annina. Next up: Zwille, Berlin on Fri 20 Nov.
 
@@ -21,4 +21,4 @@ Bugazza Boy is a techno and house artist based in Germany, with 5 gigs on soundc
 
 314A, :MUMM, Annina
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bugazzaboy/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bugazzaboy/)*

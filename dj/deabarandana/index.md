@@ -1,6 +1,6 @@
 # Dea Barandana
 
-Dea Barandana is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA, Melbourne on Sat, 14 Nov 2026.
+Dea Barandana is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA, Melbourne on Sat, 14 Nov 2026.
 
 Dea Barandana is a disco and house artist based in Indonesia, with 15 gigs on soundcheck across Amsterdam, Bali, Berlin and Ho Chi Minh City and 7 more. Often billed alongside DITA (ID), DJ Subaru and Marcellus Pittman. Next up: TBA, Melbourne on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Dea Barandana is a disco and house artist based in Indonesia, with 15 gigs on so
 
 DITA (ID), DJ Subaru, Marcellus Pittman
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deabarandana/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deabarandana/)*

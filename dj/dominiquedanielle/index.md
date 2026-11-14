@@ -1,6 +1,6 @@
 # Dominique Danielle
 
-Dominique Danielle is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Night Tales, London on Sat, 5 Dec 2026.
+Dominique Danielle is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Night Tales, London on Sat, 5 Dec 2026.
 
 Dominique Danielle is a deep house and house artist based in United Kingdom, with 31 gigs on soundcheck across Birmingham and London. Often billed alongside Mark Radford, Lance Morgan and B3. Next up: Night Tales, London on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Dominique Danielle is a deep house and house artist based in United Kingdom, wit
 
 Mark Radford, Lance Morgan, B3
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dominiquedanielle/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dominiquedanielle/)*

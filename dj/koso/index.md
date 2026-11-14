@@ -1,6 +1,6 @@
 # KOSO
 
-KOSO is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Honey Street Studio, Manchester on Sun, 22 Nov 2026.
+KOSO is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Honey Street Studio, Manchester on Sun, 22 Nov 2026.
 
 KOSO is a techno and trance artist based in Myanmar, with 17 gigs on soundcheck across London and Manchester. Often billed alongside Egui, Kuriboh and Deventi. Next up: Honey Street Studio, Manchester on Sun 22 Nov.
 
@@ -26,4 +26,4 @@ KOSO is a techno and trance artist based in Myanmar, with 17 gigs on soundcheck 
 
 Egui, Kuriboh, Deventi
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/koso/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/koso/)*

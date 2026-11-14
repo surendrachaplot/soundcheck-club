@@ -1,6 +1,6 @@
 # AYURI
 
-AYURI is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Prince Charles, Berlin on Sat, 21 Nov 2026.
+AYURI is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Prince Charles, Berlin on Sat, 21 Nov 2026.
 
 AYURI is a techno and house artist based in Japan, with 13 gigs on soundcheck across Berlin, Bucharest and Tokyo. Often billed alongside SONOKI, Cosmo (KR) and Ameli Paul. Next up: Prince Charles, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ AYURI is a techno and house artist based in Japan, with 13 gigs on soundcheck ac
 
 SONOKI, Cosmo (KR), Ameli Paul
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ayuri/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ayuri/)*

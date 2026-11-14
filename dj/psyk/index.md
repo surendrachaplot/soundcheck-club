@@ -1,6 +1,6 @@
 # Psyk
 
-Psyk is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - San Francisco, San Francisco/Oakland on Fri, 20 Nov 2026.
+Psyk is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - San Francisco, San Francisco/Oakland on Fri, 20 Nov 2026.
 
 Psyk is a techno and house artist based in Spain, with 130 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 45 more. Often billed alongside ORBE, Luigi Tozzi and Laura BCR. Next up: TBA - San Francisco, San Francisco/Oakland on Fri 20 Nov.
 
@@ -35,4 +35,4 @@ Psyk is a techno and house artist based in Spain, with 130 gigs on soundcheck ac
 
 ORBE, Luigi Tozzi, Laura BCR
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/psyk/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/psyk/)*

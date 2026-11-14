@@ -1,6 +1,6 @@
 # permerin
 
-permerin is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Strand Rederi, Stockholm on Sat, 28 Nov 2026.
+permerin is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Strand Rederi, Stockholm on Sat, 28 Nov 2026.
 
 permerin is a tech house and house artist based in Sweden, with 7 gigs on soundcheck across Stockholm. Often billed alongside Martin Pålsson, Hamparsomian and Erik Sahl. Next up: Strand Rederi, Stockholm on Sat 28 Nov.
 
@@ -23,4 +23,4 @@ permerin is a tech house and house artist based in Sweden, with 7 gigs on soundc
 
 Martin Pålsson, Hamparsomian, Erik Sahl
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/permerin/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/permerin/)*

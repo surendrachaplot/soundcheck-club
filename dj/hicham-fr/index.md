@@ -1,6 +1,6 @@
 # Hicham (FR)
 
-Hicham (FR) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Waterhouse Studios, Amsterdam on Fri, 4 Dec 2026.
+Hicham (FR) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Waterhouse Studios, Amsterdam on Fri, 4 Dec 2026.
 
 Hicham (FR) is a house and techno artist, with 63 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 33 more. Often billed alongside Walrus, Keras and Tomas Station. Next up: Waterhouse Studios, Amsterdam on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Hicham (FR) is a house and techno artist, with 63 gigs on soundcheck across Amst
 
 Walrus, Keras, Tomas Station
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hicham-fr/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hicham-fr/)*

@@ -1,6 +1,6 @@
 # Felinae
 
-Felinae is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at DETROIT CLUB, Barcelona on Sat, 21 Nov 2026.
+Felinae is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at DETROIT CLUB, Barcelona on Sat, 21 Nov 2026.
 
 Felinae is a techno and trance artist based in Spain, with 45 gigs on soundcheck across Barcelona, Berlin, Budapest and Ibiza and 4 more. Often billed alongside Cobb Douglas, Ozzwald and Amøn. Next up: DETROIT CLUB, Barcelona on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Felinae is a techno and trance artist based in Spain, with 45 gigs on soundcheck
 
 Cobb Douglas, Ozzwald, Amøn
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/felinae/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/felinae/)*

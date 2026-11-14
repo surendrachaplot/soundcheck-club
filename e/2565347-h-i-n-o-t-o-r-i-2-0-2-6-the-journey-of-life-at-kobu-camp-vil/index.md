@@ -1,6 +1,6 @@
 # H I N O T O R I. 2 0 2 6 - The Journey of life - at Kobu Camp Village
 
-H I N O T O R I. 2 0 2 6 - The Journey of life - at Kobu Camp Village on Sat 21 Nov, Kanto. 4 artists: Buzz, Daichi, Masaki and RYOOKY. See the line-up on soundcheck.
+H I N O T O R I. 2 0 2 6 - The Journey of life - at Kobu Camp Village on Sat 21 Nov, Kanto. 16 artists: Abyss, Agartha, aya and Cosmic and 12 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,9 +10,21 @@ H I N O T O R I. 2 0 2 6 - The Journey of life - at Kobu Camp Village on Sat 21 
 
 ## Line-up
 
-- Buzz
-- Daichi
-- Masaki
-- RYOOKY
+- Abyss
+- Agartha
+- aya
+- Cosmic
+- Dimension
+- Gaia
+- Groovebox
+- Jerry
+- JUNKO ONAGI
+- KILLIN
+- Mandala
+- MAO
+- PiERO
+- Takt
+- Tsuyoshi Suzuki
+- YUYA
 
 *Source: [soundcheck](https://soundcheck.club/e/2565347-h-i-n-o-t-o-r-i-2-0-2-6-the-journey-of-life-at-kobu-camp-vil/)*

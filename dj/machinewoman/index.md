@@ -1,6 +1,6 @@
 # Machine Woman
 
-Machine Woman is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Autumn Three, London on Sun, 29 Nov 2026.
+Machine Woman is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Autumn Three, London on Sun, 29 Nov 2026.
 
 Machine Woman is a techno and electronica artist, with 33 gigs on soundcheck across Amsterdam, Berlin, Bristol and Istanbul and 4 more. Often billed alongside Marika The Alien, Olivia Ward and Bicep. Next up: Autumn Three, London on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Machine Woman is a techno and electronica artist, with 33 gigs on soundcheck acr
 
 Marika The Alien, Olivia Ward, Bicep
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/machinewoman/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/machinewoman/)*

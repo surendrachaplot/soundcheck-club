@@ -1,14 +1,13 @@
 # SASS Music Club
 
-SASS Music Club is a music venue in Vienna with 7 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "HERZZZ" on Fri, 13 Nov 2026.
+SASS Music Club is a music venue in Vienna with 6 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Club Pompadour" on Sat, 14 Nov 2026.
 
-SASS Music Club is a music venue in Vienna listed on soundcheck. 7 upcoming gigs, with line-ups including -LaLa-, Anni Herzer, Apua and Crazy Sonic and 2 more. See dates, start times and who's playing. Karlsplatz 1, 1010 Wien, Austria.
+SASS Music Club is a music venue in Vienna listed on soundcheck. 6 upcoming gigs, with line-ups including -LaLa-, Apua, Crazy Sonic and DJ Deadlift and 2 more. See dates, start times and who's playing. Karlsplatz 1, 1010 Wien, Austria.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | HERZZZ | Anni Herzer, Felix Rupprecht, Julani |
 | Sat, 14 Nov 2026 | Club Pompadour | Paul Panther, Philipp Blecha, Veronika Amie |
 | Sun, 15 Nov 2026 | Morgengymnastik with Redivider | Apua, DJ Deadlift |
 | Thu, 19 Nov 2026 | Bonkers x Belly Dance Services | Ludviq, Nick Hanzo |
@@ -20,4 +19,4 @@ SASS Music Club is a music venue in Vienna listed on soundcheck. 7 upcoming gigs
 
 Karlsplatz 1, 1010 Wien, Austria, Vienna
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/sass-music-club/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/sass-music-club/)*

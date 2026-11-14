@@ -1,6 +1,6 @@
 # Amnati
 
-Amnati is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Klunkerkranich, Berlin on Sat, 21 Nov 2026.
+Amnati is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Klunkerkranich, Berlin on Sat, 21 Nov 2026.
 
 Amnati is a house and electronica artist, with 12 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Anna Almani, Apolonia and Baba The Knife. Next up: Klunkerkranich, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Amnati is a house and electronica artist, with 12 gigs on soundcheck across Berl
 
 Anna Almani, Apolonia, Baba The Knife
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amnati/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amnati/)*

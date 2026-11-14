@@ -1,6 +1,6 @@
 # Alice in Flames
 
-Alice in Flames is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at ://about blank, Berlin on Sat, 23 Jan 2027.
+Alice in Flames is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at ://about blank, Berlin on Sat, 23 Jan 2027.
 
 Alice in Flames is a techno and electro artist based in Germany, with 13 gigs on soundcheck across Athens, Berlin, Dortmund / Essen and Hamburg and 1 more. Often billed alongside FAQ (DE), HKS97 and L.F.T.. Next up: ://about blank, Berlin on Sat 23 Jan.
 
@@ -25,4 +25,4 @@ Alice in Flames is a techno and electro artist based in Germany, with 13 gigs on
 
 FAQ (DE), HKS97, L.F.T.
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aliceinflames/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aliceinflames/)*

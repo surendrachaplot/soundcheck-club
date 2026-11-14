@@ -1,6 +1,6 @@
 # Marc Schneider
 
-Marc Schneider is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Atelier Rooftop, Berlin on Sat, 28 Nov 2026.
+Marc Schneider is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Atelier Rooftop, Berlin on Sat, 28 Nov 2026.
 
 Marc Schneider is a house and techno artist based in Germany, with 34 gigs on soundcheck across Amsterdam, Berlin, Hamburg and Portland. Often billed alongside Karina Schneider, Meat and Barbara Preisinger. Next up: Atelier Rooftop, Berlin on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Marc Schneider is a house and techno artist based in Germany, with 34 gigs on so
 
 Karina Schneider, Meat, Barbara Preisinger
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcschneider/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcschneider/)*

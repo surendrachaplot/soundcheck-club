@@ -1,6 +1,6 @@
 # Fran Poch
 
-Fran Poch is a Electronica and Drone artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA, Berlin on Sat, 28 Nov 2026.
+Fran Poch is a Electronica and Drone artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA, Berlin on Sat, 28 Nov 2026.
 
 Fran Poch is an electronica and drone artist based in Chile, with 6 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Franz Bobel, 2PHIL and Alexa D!saster. Next up: TBA, Berlin on Sat 28 Nov.
 
@@ -22,4 +22,4 @@ Fran Poch is an electronica and drone artist based in Chile, with 6 gigs on soun
 
 Franz Bobel, 2PHIL, Alexa D!saster
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/franpoch/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/franpoch/)*

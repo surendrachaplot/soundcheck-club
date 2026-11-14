@@ -1,6 +1,6 @@
 # Zhangie
 
-Zhangie is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at KEPK, Brisbane on Sat, 14 Nov 2026.
+Zhangie is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at KEPK, Brisbane on Sat, 14 Nov 2026.
 
 Zhangie is a techno and minimal artist based in Australia, with 13 gigs on soundcheck across Brisbane and Sydney. Often billed alongside ART IS HARD, Koey and Altinbas. Next up: KEPK, Brisbane on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Zhangie is a techno and minimal artist based in Australia, with 13 gigs on sound
 
 ART IS HARD, Koey, Altinbas
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zhangie/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zhangie/)*

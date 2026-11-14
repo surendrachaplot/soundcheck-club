@@ -1,6 +1,6 @@
 # LISA LOCA
 
-LISA LOCA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at M-BIA, Berlin on Fri, 11 Dec 2026.
+LISA LOCA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at M-BIA, Berlin on Fri, 11 Dec 2026.
 
 LISA LOCA is a techno and trance artist based in Germany, with 7 gigs on soundcheck across Berlin. Often billed alongside Brizze, Wachbär and DaSoMaZo. Next up: M-BIA, Berlin on Fri 11 Dec.
 
@@ -23,4 +23,4 @@ LISA LOCA is a techno and trance artist based in Germany, with 7 gigs on soundch
 
 Brizze, Wachbär, DaSoMaZo
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lisaloca/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lisaloca/)*

@@ -1,6 +1,6 @@
 # Kaos Liao
 
-Kaos Liao is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Pawnshop, Taipei on Fri, 25 Dec 2026.
+Kaos Liao is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Pawnshop, Taipei on Fri, 25 Dec 2026.
 
 Kaos Liao is an electronic artist based in Taiwan, with 16 gigs on soundcheck across Taipei. Often billed alongside F.G.D., Jesse Chen and Al Burro. Next up: Pawnshop, Taipei on Fri 25 Dec.
 
@@ -25,4 +25,4 @@ Kaos Liao is an electronic artist based in Taiwan, with 16 gigs on soundcheck ac
 
 F.G.D., Jesse Chen, Al Burro
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaosliao/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaosliao/)*

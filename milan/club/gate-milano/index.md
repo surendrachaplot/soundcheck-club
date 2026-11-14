@@ -1,14 +1,13 @@
 # Gate Milano
 
-Gate Milano is a music venue in Milan with 19 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Funk Tribu" on Fri, 13 Nov 2026.
+Gate Milano is a music venue in Milan with 18 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Mantikore: Per Pleks" on Sat, 14 Nov 2026.
 
-Gate Milano is a music venue in Milan listed on soundcheck. 19 upcoming gigs, with line-ups including Amygdala, Anetha, Angerfist and ANKKH and 2 more. See dates, start times and who's playing. Via Valtellina, 21, 20159 Milano MI.
+Gate Milano is a music venue in Milan listed on soundcheck. 18 upcoming gigs, with line-ups including Amygdala, Anetha, Angerfist and ANKKH and 2 more. See dates, start times and who's playing. Via Valtellina, 21, 20159 Milano MI.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Funk Tribu | Funk Tribu, GLADJEE, RESA UTOPICA |
 | Sat, 14 Nov 2026 | Mantikore: Per Pleks | HEMPTOTE, Per Pleks, Pura Solenne |
 | Fri, 20 Nov 2026 | SOULSTICE: Ryan Elliott & Saoirse | Ferrari, Ryan Elliott, Saoirse, ZAREEN |
 | Sat, 21 Nov 2026 | SCHRANZ MOVEMENT: Obscure Shape | Dstm, Obscure Shape |
@@ -18,9 +17,10 @@ Gate Milano is a music venue in Milan listed on soundcheck. 19 upcoming gigs, wi
 | Mon, 7 Dec 2026 | PLASMA: Clara Cuvé & William Luck | ANKKH, Clara Cuvé, William Luck |
 | Mon, 7 Dec 2026 | ARKÔRE: Hardbounce • Early Hardstyle • Old School Hardcore | Sick Boy |
 | Fri, 11 Dec 2026 | BCCO: Blawan & ÜBERKIKZ & FENIM0RE | Blawan, FENIM0RE, ÜBERKIKZ |
+| Fri, 11 Dec 2026 | BCCO & MOAB with Blawan , Fenimore, Uberkikz + Room 2 at GATE | Blawan, FENIM0RE, ÜBERKIKZ |
 
 ## Address
 
 Via Valtellina, 21, 20159 Milano MI, Milan
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/gate-milano/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/gate-milano/)*

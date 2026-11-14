@@ -1,6 +1,6 @@
 # Tschatsching
 
-Tschatsching is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Oma Doris, Dortmund / Essen on Sat, 12 Dec 2026.
+Tschatsching is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Oma Doris, Dortmund / Essen on Sat, 12 Dec 2026.
 
 Tschatsching is a techno and house artist based in Germany, with 22 gigs on soundcheck across Berlin, Cologne and Dortmund / Essen. Often billed alongside Szunflower, Gutkind and Gilles Bock. Next up: Oma Doris, Dortmund / Essen on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Tschatsching is a techno and house artist based in Germany, with 22 gigs on soun
 
 Szunflower, Gutkind, Gilles Bock
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tschatsching/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tschatsching/)*

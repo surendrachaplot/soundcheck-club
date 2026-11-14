@@ -1,6 +1,6 @@
 # LIZAZA
 
-LIZAZA is a Techno and EBM artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Old Church, London on Sat, 19 Dec 2026.
+LIZAZA is a Techno and EBM artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at The Old Church, London on Sat, 19 Dec 2026.
 
 LIZAZA is a techno and ebm artist based in Russia, with 40 gigs on soundcheck across London. Often billed alongside Arrosa, Leviminks and DELARA. Next up: The Old Church, London on Sat 19 Dec.
 
@@ -26,4 +26,4 @@ LIZAZA is a techno and ebm artist based in Russia, with 40 gigs on soundcheck ac
 
 Arrosa, Leviminks, DELARA
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lizaza/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lizaza/)*

@@ -1,6 +1,6 @@
 # Modlar
 
-Modlar is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Aaja Basement, London on Fri, 11 Dec 2026.
+Modlar is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Aaja Basement, London on Fri, 11 Dec 2026.
 
 Modlar is a techno and electro artist based in Italy, with 29 gigs on soundcheck across London. Often billed alongside DELARA, CITYTRONIX and SBBS. Next up: Aaja Basement, London on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Modlar is a techno and electro artist based in Italy, with 29 gigs on soundcheck
 
 DELARA, CITYTRONIX, SBBS
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/modlar/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/modlar/)*

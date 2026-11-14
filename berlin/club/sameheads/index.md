@@ -1,14 +1,13 @@
 # Sameheads
 
-Sameheads is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Libertine Records" on Fri, 13 Nov 2026.
+Sameheads is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "STUDIO X x MIRELLA RECORDS" on Sat, 14 Nov 2026.
 
-Sameheads is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including Alexander Arpeggio, Alienata, Amelia Holt and Yoshi (DE) and 2 more. See dates, start times and who's playing. Richardstrasse 10; Neukölln; 12043 Berlin; Germany.
+Sameheads is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with line-ups including Alexander Arpeggio, Alienata, Amelia Holt and Andrea Zucca and 2 more. See dates, start times and who's playing. Richardstrasse 10; Neukölln; 12043 Berlin; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Libertine Records | Ed Warner, ElectroDon, Luke Eargoggle, Yoshi (DE) |
 | Sat, 14 Nov 2026 | STUDIO X x MIRELLA RECORDS | Audio Vacanze, Cosmo, Giulia Gutterer |
 | Sat, 21 Nov 2026 | Listen Listen x Club Cosmic | Alexander Arpeggio, DJ Primitivo, Novo Line, Osterinsel, Rachel Opert |
 | Thu, 26 Nov 2026 | WAVES | Alienata, Paty Vapor, Reka |
@@ -23,4 +22,4 @@ Sameheads is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, wit
 
 Richardstrasse 10; Neukölln; 12043 Berlin; Germany, Berlin
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sameheads/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sameheads/)*

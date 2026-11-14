@@ -1,6 +1,6 @@
 # Ben Osborne
 
-Ben Osborne is a Disco and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Woodbridge, South-east on Sat, 22 May 2027.
+Ben Osborne is a Disco and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Woodbridge, South-east on Sat, 22 May 2027.
 
 Ben Osborne is a disco and deep house artist based in United Kingdom, with 47 gigs on soundcheck across London and South East. Often billed alongside Neil Thornton, Bobby Bucys and Aswad. Next up: Woodbridge, South East on Sat 22 May.
 
@@ -25,4 +25,4 @@ Ben Osborne is a disco and deep house artist based in United Kingdom, with 47 gi
 
 Neil Thornton, Bobby Bucys, Aswad
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benosborne/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benosborne/)*

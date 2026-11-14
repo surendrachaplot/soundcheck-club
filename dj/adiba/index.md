@@ -1,6 +1,6 @@
 # Adiba
 
-Adiba is a Garage and Dancehall artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Jumbi, London on Thu, 31 Dec 2026.
+Adiba is a Garage and Dancehall artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Jumbi, London on Thu, 31 Dec 2026.
 
 Adiba is a garage and dancehall artist based in United Kingdom, with 8 gigs on soundcheck across Berlin and London. Often billed alongside Bussa, Chris Collins and DJ Nate. Next up: Jumbi, London on Thu 31 Dec.
 
@@ -24,4 +24,4 @@ Adiba is a garage and dancehall artist based in United Kingdom, with 8 gigs on s
 
 Bussa, Chris Collins, DJ Nate
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adiba/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adiba/)*

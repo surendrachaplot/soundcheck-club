@@ -1,6 +1,6 @@
 # The Old Church
 
-The Old Church is a music venue in London with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "PUDDLE V" on Sat, 21 Nov 2026.
+The Old Church is a music venue in London with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "PUDDLE V" on Sat, 21 Nov 2026.
 
 The Old Church is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including ADRIAN LECA, Arrosa, Brother of Set and Fungi and 2 more. See dates, start times and who's playing. Stoke Newington Church St, N16 9ES, London, UK.
 
@@ -17,4 +17,4 @@ The Old Church is a music venue in London listed on soundcheck. 4 upcoming gigs,
 
 Stoke Newington Church St, N16 9ES, London, UK, London
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-old-church/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-old-church/)*

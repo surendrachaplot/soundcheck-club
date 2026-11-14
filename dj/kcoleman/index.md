@@ -1,6 +1,6 @@
 # K.Coleman
 
-K.Coleman is a Deep House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Steel Yard, London on Sat, 19 Dec 2026.
+K.Coleman is a Deep House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at The Steel Yard, London on Sat, 19 Dec 2026.
 
 K.Coleman is a deep house and tech house artist based in United Kingdom, with 13 gigs on soundcheck across Birmingham and London. Often billed alongside JAYDAA, Iwizz and Ashley Knights. Next up: The Steel Yard, London on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ K.Coleman is a deep house and tech house artist based in United Kingdom, with 13
 
 JAYDAA, Iwizz, Ashley Knights
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kcoleman/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kcoleman/)*

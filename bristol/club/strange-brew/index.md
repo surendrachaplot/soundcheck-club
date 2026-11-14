@@ -1,14 +1,13 @@
 # Strange Brew
 
-Strange Brew is a music venue in Bristol with 9 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "SHERELLE, Sir Hiss, Heyza" on Fri, 13 Nov 2026.
+Strange Brew is a music venue in Bristol with 8 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Shanti Celeste & Huerta" on Sat, 14 Nov 2026.
 
-Strange Brew is a music venue in Bristol listed on soundcheck. 9 upcoming gigs, with line-ups including Beatrice M., Chez de Milo, Foodman and Francesco Del Garda and 2 more. See dates, start times and who's playing. 10-12 Fairfax Street, Bristol, BS1 3DB.
+Strange Brew is a music venue in Bristol listed on soundcheck. 8 upcoming gigs, with line-ups including Beatrice M., Chez de Milo, Foodman and Francesco Del Garda and 2 more. See dates, start times and who's playing. 10-12 Fairfax Street, Bristol, BS1 3DB.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | SHERELLE, Sir Hiss, Heyza | SHERELLE, Sir Hiss |
 | Sat, 14 Nov 2026 | Shanti Celeste & Huerta | Huerta, Shanti Celeste |
 | Sun, 15 Nov 2026 | Kiss Facility (Mayah Alkhateri & Sega Bodega) | Sega Bodega |
 | Wed, 18 Nov 2026 | The Field | The Field |
@@ -22,4 +21,4 @@ Strange Brew is a music venue in Bristol listed on soundcheck. 9 upcoming gigs, 
 
 10-12 Fairfax Street, Bristol, BS1 3DB, Bristol
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/strange-brew/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/strange-brew/)*

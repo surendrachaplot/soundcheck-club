@@ -1,6 +1,6 @@
 # VALENCE
 
-VALENCE is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at San Diego Made Factory, San Diego on Sat, 5 Dec 2026.
+VALENCE is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at San Diego Made Factory, San Diego on Sat, 5 Dec 2026.
 
 VALENCE is a house and deep house artist based in Argentina, with 31 gigs on soundcheck across Berlin, Buenos Aires, Lyon and Miami and 2 more. Often billed alongside Manu Oubiña, Miguel Silver and Ana Hagen. Next up: San Diego Made Factory, San Diego on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ VALENCE is a house and deep house artist based in Argentina, with 31 gigs on sou
 
 Manu Oubiña, Miguel Silver, Ana Hagen
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/valence/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/valence/)*

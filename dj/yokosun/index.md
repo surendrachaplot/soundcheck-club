@@ -1,6 +1,6 @@
 # YOKOSUN
 
-YOKOSUN is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
+YOKOSUN is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
 
 YOKOSUN is a house and techno artist based in Japan, with 109 gigs on soundcheck across Bali, Bangkok, Hanoi and Ho Chi Minh City and 5 more. Often billed alongside BongBongQuayQuay, Hibiya Line and Park:ING. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ YOKOSUN is a house and techno artist based in Japan, with 109 gigs on soundcheck
 
 BongBongQuayQuay, Hibiya Line, Park:ING
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yokosun/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yokosun/)*

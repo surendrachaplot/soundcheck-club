@@ -1,6 +1,6 @@
 # Demsky
 
-Demsky is a Ambient and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Pintology, Tokyo on Sat, 21 Nov 2026.
+Demsky is a Ambient and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Pintology, Tokyo on Sat, 21 Nov 2026.
 
 Demsky is an ambient and electronica artist based in Japan, with 16 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside Drinkss, Anapol and DJ Dante. Next up: Pintology, Tokyo on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Demsky is an ambient and electronica artist based in Japan, with 16 gigs on soun
 
 Drinkss, Anapol, DJ Dante
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/demsky/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/demsky/)*

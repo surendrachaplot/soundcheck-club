@@ -1,6 +1,6 @@
 # Uun
 
-Uun is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Biltmore Cabaret, Vancouver on Sun, 13 Dec 2026.
+Uun is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Biltmore Cabaret, Vancouver on Sun, 13 Dec 2026.
 
 Uun is a techno and acid artist based in United States of America, with 15 gigs on soundcheck across Chicago, Denver, Detroit and Los Angeles and 3 more. Often billed alongside Adra, Aztekan and Max Gardner. Next up: Biltmore Cabaret, Vancouver on Sun 13 Dec.
 
@@ -25,4 +25,4 @@ Uun is a techno and acid artist based in United States of America, with 15 gigs 
 
 Adra, Aztekan, Max Gardner
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/uun/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/uun/)*

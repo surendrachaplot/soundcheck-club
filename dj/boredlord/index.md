@@ -1,6 +1,6 @@
 # Bored Lord
 
-Bored Lord is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at There/There, San Francisco/Oakland on Fri, 27 Nov 2026.
+Bored Lord is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at There/There, San Francisco/Oakland on Fri, 27 Nov 2026.
 
 Bored Lord is a house and techno artist based in United States of America, with 152 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Atlanta and 43 more. Often billed alongside RITCHRD, bastiengoat and Tom Marsi. Next up: There/There, San Francisco/Oakland on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Bored Lord is a house and techno artist based in United States of America, with 
 
 RITCHRD, bastiengoat, Tom Marsi
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boredlord/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boredlord/)*

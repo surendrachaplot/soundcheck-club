@@ -1,6 +1,6 @@
 # Stathis (GR)
 
-Stathis (GR) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at KREUZWERK, Berlin on Fri, 27 Nov 2026.
+Stathis (GR) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at KREUZWERK, Berlin on Fri, 27 Nov 2026.
 
 Stathis (GR) is a house and techno artist, with 63 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 11 more. Often billed alongside Luigi Di Venere, Maria Politi and Majdolen. Next up: KREUZWERK, Berlin on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Stathis (GR) is a house and techno artist, with 63 gigs on soundcheck across Ams
 
 Luigi Di Venere, Maria Politi, Majdolen
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stathis-gr/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stathis-gr/)*

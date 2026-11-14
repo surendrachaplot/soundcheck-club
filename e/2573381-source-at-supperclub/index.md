@@ -1,6 +1,6 @@
 # Source at Supperclub
 
-Source at Supperclub on Thu 26 Nov, Amsterdam. See the line-up on soundcheck.
+Source at Supperclub on Thu 26 Nov, Amsterdam. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

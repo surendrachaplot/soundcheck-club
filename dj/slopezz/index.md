@@ -1,6 +1,6 @@
 # SLOPEZZ
 
-SLOPEZZ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Schlachthof Wiesbaden, Frankfurt on Sat, 12 Dec 2026.
+SLOPEZZ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Schlachthof Wiesbaden, Frankfurt on Sat, 12 Dec 2026.
 
 SLOPEZZ is a techno and house artist based in Germany, with 15 gigs on soundcheck across Frankfurt. Often billed alongside Orakel, Jozh and KRIS JAMES. Next up: Schlachthof Wiesbaden, Frankfurt on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ SLOPEZZ is a techno and house artist based in Germany, with 15 gigs on soundchec
 
 Orakel, Jozh, KRIS JAMES
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slopezz/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slopezz/)*

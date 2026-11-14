@@ -1,6 +1,6 @@
 # OK Sterling
 
-OK Sterling is a Tech House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - 1240 MORNINGSIDE WAY, VENICE, Los Angeles on Sat, 12 Dec 2026.
+OK Sterling is a Tech House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - 1240 MORNINGSIDE WAY, VENICE, Los Angeles on Sat, 12 Dec 2026.
 
 OK Sterling is a tech house and progressive house artist based in United States of America, with 9 gigs on soundcheck across Los Angeles. Often billed alongside Lavenge, Max Rush and yNOTi. Next up: TBA - 1240 MORNINGSIDE WAY, VENICE, Los Angeles on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ OK Sterling is a tech house and progressive house artist based in United States 
 
 Lavenge, Max Rush, yNOTi
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oksterling/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oksterling/)*

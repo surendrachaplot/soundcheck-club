@@ -1,6 +1,6 @@
 # Ballhaus West
 
-Ballhaus West is a music venue in Karlsruhe with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "Electric Gala New Years Eve 2027" on Thu, 31 Dec 2026.
+Ballhaus West is a music venue in Karlsruhe with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. The next is "Electric Gala New Years Eve 2027" on Thu, 31 Dec 2026.
 
 Ballhaus West is a music venue in Karlsruhe listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Ballhaus West is a music venue in Karlsruhe listed on soundcheck. 1 upcoming gig
 | --- | --- | --- |
 | Thu, 31 Dec 2026 | Electric Gala New Years Eve 2027 |  |
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/karlsruhe/club/ballhaus-west/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/karlsruhe/club/ballhaus-west/)*

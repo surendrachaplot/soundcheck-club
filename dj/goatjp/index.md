@@ -1,6 +1,6 @@
 # Goat (JP)
 
-Goat (JP) is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Bourse de Commerce — Pinault Collection, Paris on Sun, 15 Nov 2026.
+Goat (JP) is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Bourse de Commerce — Pinault Collection, Paris on Sun, 15 Nov 2026.
 
 Goat (JP) is an experimental and techno artist based in Japan, with 18 gigs on soundcheck across Berlin, Bristol, Brussels and Copenhagen and 8 more. Often billed alongside Alva Noto, Arsenal Mikebe and Nicola Cruz. Next up: Bourse de Commerce — Pinault Collection, Paris on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Goat (JP) is an experimental and techno artist based in Japan, with 18 gigs on s
 
 Alva Noto, Arsenal Mikebe, Nicola Cruz
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/goatjp/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/goatjp/)*

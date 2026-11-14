@@ -1,6 +1,6 @@
 # Jai Piccone
 
-Jai Piccone is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Haven, Byron Bay on Sat, 14 Nov 2026.
+Jai Piccone is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Haven, Byron Bay on Sat, 14 Nov 2026.
 
 Jai Piccone is a house and techno artist based in Australia, with 27 gigs on soundcheck across Brisbane, Byron Bay, Melbourne and Sydney. Often billed alongside Human Movement, 1tbsp and Asha Franco. Next up: Haven, Byron Bay on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Jai Piccone is a house and techno artist based in Australia, with 27 gigs on sou
 
 Human Movement, 1tbsp, Asha Franco
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaipiccone/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaipiccone/)*

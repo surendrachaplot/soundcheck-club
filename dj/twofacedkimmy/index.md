@@ -1,6 +1,6 @@
 # TWOFACEDKIMMY
 
-TWOFACEDKIMMY is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - IF INSTITUTE, IF Institute, Luruper Chaussee 125, Gewerbehof, 22761 Hamburg-Altona, Hamburg on Fri, 20 Nov 2026.
+TWOFACEDKIMMY is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - IF INSTITUTE, IF Institute, Luruper Chaussee 125, Gewerbehof, 22761 Hamburg-Altona, Hamburg on Fri, 20 Nov 2026.
 
 TWOFACEDKIMMY is a techno and trance artist based in Germany, with 28 gigs on soundcheck across Berlin, Frankfurt, Hamburg and Hannover. Often billed alongside Unromantic, TRYPTAJ and Alex Benz. Next up: TBA - IF INSTITUTE, IF Institute, Luruper Chaussee 125, Gewerbehof, 22761 Hamburg-Altona, Hamburg on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ TWOFACEDKIMMY is a techno and trance artist based in Germany, with 28 gigs on so
 
 Unromantic, TRYPTAJ, Alex Benz
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/twofacedkimmy/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/twofacedkimmy/)*

@@ -1,6 +1,6 @@
 # Julia Rose
 
-Julia Rose is a Techno and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Monarch, San Francisco/Oakland on Sat, 14 Nov 2026.
+Julia Rose is a Techno and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Monarch, San Francisco/Oakland on Sat, 14 Nov 2026.
 
 Julia Rose is a techno and breakbeat artist based in United States of America, with 3 gigs on soundcheck across San Francisco/Oakland. Often billed alongside 1OO1O, Andyland and Cquestt. Next up: Monarch, San Francisco/Oakland on Sat 14 Nov.
 
@@ -19,4 +19,4 @@ Julia Rose is a techno and breakbeat artist based in United States of America, w
 
 1OO1O, Andyland, Cquestt
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juliarose/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juliarose/)*

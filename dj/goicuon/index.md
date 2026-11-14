@@ -1,13 +1,14 @@
 # Gỏi Cuốn
 
-Gỏi Cuốn is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Luu Bar, Ho Chi Minh City on Fri, 20 Nov 2026.
+Gỏi Cuốn is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at La Scène Saigon, Ho Chi Minh City on Sat, 14 Nov 2026.
 
-Gỏi Cuốn is a house and techno artist based in Vietnam, with 55 gigs on soundcheck across Hanoi and Ho Chi Minh City. Often billed alongside Park:ING, Hibiya Line and Baobei.. Next up: Luu Bar, Ho Chi Minh City on Fri 20 Nov.
+Gỏi Cuốn is a house and techno artist based in Vietnam, with 56 gigs on soundcheck across Hanoi and Ho Chi Minh City. Often billed alongside Park:ING, Hibiya Line and Baobei.. Next up: La Scène Saigon, Ho Chi Minh City on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | La Scène Saigon | Ho Chi Minh City |
 | Fri, 20 Nov 2026 | Luu Bar | Ho Chi Minh City |
 
 ## Recently played
@@ -25,4 +26,4 @@ Gỏi Cuốn is a house and techno artist based in Vietnam, with 55 gigs on soun
 
 Park:ING, Hibiya Line, Baobei.
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/goicuon/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/goicuon/)*

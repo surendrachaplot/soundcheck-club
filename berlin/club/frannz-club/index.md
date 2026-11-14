@@ -1,6 +1,6 @@
 # Frannz Club
 
-Frannz Club is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "David J (Bauhaus, Love & Rockets) + Paul Wallfisch (ex-Swans)" on Thu, 17 Dec 2026.
+Frannz Club is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. The next is "David J (Bauhaus, Love & Rockets) + Paul Wallfisch (ex-Swans)" on Thu, 17 Dec 2026.
 
 Frannz Club is a music venue in Berlin listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Schönhauser Allee 36, 10435 Berlin, Germany.
 
@@ -14,4 +14,4 @@ Frannz Club is a music venue in Berlin listed on soundcheck. 1 upcoming gig. See
 
 Schönhauser Allee 36, 10435 Berlin, Germany, Berlin
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/frannz-club/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/frannz-club/)*

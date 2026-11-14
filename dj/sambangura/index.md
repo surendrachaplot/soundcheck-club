@@ -1,6 +1,6 @@
 # Sam Bangura
 
-Sam Bangura is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Vittoria Wharf Studio, London on Fri, 20 Nov 2026.
+Sam Bangura is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Vittoria Wharf Studio, London on Fri, 20 Nov 2026.
 
 Sam Bangura is a house and techno artist based in United Kingdom, with 127 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 23 more. Often billed alongside Harry McCanna, Dale Mussington and NorthSouth. Next up: Vittoria Wharf Studio, London on Fri 20 Nov.
 
@@ -32,4 +32,4 @@ Sam Bangura is a house and techno artist based in United Kingdom, with 127 gigs 
 
 Harry McCanna, Dale Mussington, NorthSouth
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sambangura/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sambangura/)*

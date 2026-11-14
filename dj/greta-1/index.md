@@ -1,6 +1,6 @@
 # Greta
 
-Greta is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at feedbk, New York City on Fri, 27 Nov 2026.
+Greta is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at feedbk, New York City on Fri, 27 Nov 2026.
 
 Greta is a techno and minimal techno artist, with 15 gigs on soundcheck across Athens, Barcelona, Buenos Aires and Gothenburg and 4 more. Often billed alongside Ayshel, Icarus in love and /WLM. Next up: feedbk, New York City on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Greta is a techno and minimal techno artist, with 15 gigs on soundcheck across A
 
 Ayshel, Icarus in love, /WLM
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/greta-1/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/greta-1/)*

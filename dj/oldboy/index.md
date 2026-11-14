@@ -1,6 +1,6 @@
 # Oldboy
 
-Oldboy is a Garage and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Distrikt, Leeds on Fri, 20 Nov 2026.
+Oldboy is a Garage and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Distrikt, Leeds on Fri, 20 Nov 2026.
 
 Oldboy is a garage and house artist based in United Kingdom, with 62 gigs on soundcheck across Amsterdam, Athens, Birmingham and Brighton and 18 more. Often billed alongside DJ Cosworth, Captain Wallop and Prozak (IRL). Next up: Distrikt, Leeds on Fri 20 Nov.
 
@@ -29,4 +29,4 @@ Oldboy is a garage and house artist based in United Kingdom, with 62 gigs on sou
 
 DJ Cosworth, Captain Wallop, Prozak (IRL)
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oldboy/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oldboy/)*

@@ -1,6 +1,6 @@
 # maša (SI)
 
-maša (SI) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Atno, Budapest on Fri, 27 Nov 2026.
+maša (SI) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Atno, Budapest on Fri, 27 Nov 2026.
 
 maša (SI) is a house and techno artist based in Slovenia, with 26 gigs on soundcheck across Berlin, Bratislava, Budapest and Lisbon and 6 more. Often billed alongside Zvèn, Akaj and 93kb. Next up: Atno, Budapest on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ maša (SI) is a house and techno artist based in Slovenia, with 26 gigs on sound
 
 Zvèn, Akaj, 93kb
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/masa-si/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/masa-si/)*

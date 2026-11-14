@@ -1,6 +1,6 @@
 # Nick Holder
 
-Nick Holder is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Boogie, Toronto on Sun, 15 Nov 2026.
+Nick Holder is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Boogie, Toronto on Sun, 15 Nov 2026.
 
 Nick Holder is a house and deep house artist based in Canada, with 28 gigs on soundcheck across Lyon, San Francisco/Oakland, Seattle and Toronto. Often billed alongside Tyrone Solomon, Trackheadz and Abacus. Next up: Boogie, Toronto on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Nick Holder is a house and deep house artist based in Canada, with 28 gigs on so
 
 Tyrone Solomon, Trackheadz, Abacus
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nickholder/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nickholder/)*

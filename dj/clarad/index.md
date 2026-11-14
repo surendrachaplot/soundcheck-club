@@ -1,6 +1,6 @@
 # Clara D
 
-Clara D is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Brussels, Brussels on Sat, 21 Nov 2026.
+Clara D is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Brussels, Brussels on Sat, 21 Nov 2026.
 
 Clara D is a techno and house artist based in Belgium, with 63 gigs on soundcheck across Antwerp, Berlin, Brussels and Ghent and 4 more. Often billed alongside Initial Code, Askkin and Azo. Next up: TBA - Brussels, Brussels on Sat 21 Nov.
 
@@ -28,4 +28,4 @@ Clara D is a techno and house artist based in Belgium, with 63 gigs on soundchec
 
 Initial Code, Askkin, Azo
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clarad/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clarad/)*

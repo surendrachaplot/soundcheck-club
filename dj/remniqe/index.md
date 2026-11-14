@@ -1,6 +1,6 @@
 # Remniqe
 
-Remniqe is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at SILO, New York City on Tue, 17 Nov 2026.
+Remniqe is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at SILO, New York City on Tue, 17 Nov 2026.
 
 Remniqe is a house and techno artist based in United States of America, with 76 gigs on soundcheck across New York City, San Francisco/Oakland and Tokyo. Often billed alongside DJ Nope, DJ eh and BLCKLST. Next up: SILO, New York City on Tue 17 Nov.
 
@@ -25,4 +25,4 @@ Remniqe is a house and techno artist based in United States of America, with 76 
 
 DJ Nope, DJ eh, BLCKLST
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/remniqe/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/remniqe/)*

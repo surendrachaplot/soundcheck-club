@@ -1,6 +1,6 @@
 # Red Greg
 
-Red Greg is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Lille Centre, North on Sat, 21 Nov 2026.
+Red Greg is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Lille Centre, North on Sat, 21 Nov 2026.
 
 Red Greg is a disco and house artist based in United Kingdom, with 29 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 8 more. Often billed alongside Seiji Ono, Mafalda and Mendel. Next up: TBA - Lille Centre, North on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Red Greg is a disco and house artist based in United Kingdom, with 29 gigs on so
 
 Seiji Ono, Mafalda, Mendel
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/redgreg/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/redgreg/)*

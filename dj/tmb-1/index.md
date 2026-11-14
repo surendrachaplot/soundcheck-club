@@ -1,6 +1,6 @@
 # TMB (1)
 
-TMB (1) is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at La Cova, Hamburg on Fri, 20 Nov 2026.
+TMB (1) is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at La Cova, Hamburg on Fri, 20 Nov 2026.
 
 TMB is a techno and electro artist based in Germany, with 13 gigs on soundcheck across Hamburg. Often billed alongside Eva Nyx, AH-N!CE and Unromantic. Next up: La Cova, Hamburg on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ TMB is a techno and electro artist based in Germany, with 13 gigs on soundcheck 
 
 Eva Nyx, AH-N!CE, Unromantic
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tmb-1/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tmb-1/)*

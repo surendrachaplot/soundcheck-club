@@ -1,6 +1,6 @@
 # skn(sakana)
 
-skn(sakana) is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Teranoma Tidepool, Osaka on Sun, 22 Nov 2026.
+skn(sakana) is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Teranoma Tidepool, Osaka on Sun, 22 Nov 2026.
 
 skn(sakana) is a house and disco artist based in Japan, with 23 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside Mercy., Aiconga and Motel Paraiso. Next up: Teranoma Tidepool, Osaka on Sun 22 Nov.
 
@@ -26,4 +26,4 @@ skn(sakana) is a house and disco artist based in Japan, with 23 gigs on soundche
 
 Mercy., Aiconga, Motel Paraiso
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sknsakana/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sknsakana/)*

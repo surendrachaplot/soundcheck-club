@@ -1,6 +1,6 @@
 # Camp and Furnace
 
-Camp and Furnace is a music venue in Liverpool with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Loud & Clear Festival" on Sat, 21 Nov 2026.
+Camp and Furnace is a music venue in Liverpool with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Loud & Clear Festival" on Sat, 21 Nov 2026.
 
 Camp and Furnace is a music venue in Liverpool listed on soundcheck. 2 upcoming gigs, with line-ups including Jetski. See dates, start times and who's playing. 67 Greenland Street, Liverpool, L1 0BY, United Kingdom.
 
@@ -15,4 +15,4 @@ Camp and Furnace is a music venue in Liverpool listed on soundcheck. 2 upcoming 
 
 67 Greenland Street, Liverpool, L1 0BY, United Kingdom, Liverpool
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/camp-and-furnace/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/camp-and-furnace/)*

@@ -1,6 +1,6 @@
 # Adriatique
 
-Adriatique is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at FOMO, Azerbaijan on Sun, 15 Nov 2026.
+Adriatique is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at FOMO, Azerbaijan on Sun, 15 Nov 2026.
 
 Adriatique is a techno and house artist based in Switzerland, with 187 gigs on soundcheck across Amsterdam, Antwerp, Athens and Azerbaijan and 50 more. Often billed alongside Mind Against, Colyn and DJ Tennis. Next up: FOMO, Azerbaijan on Sun 15 Nov.
 
@@ -29,4 +29,4 @@ Adriatique is a techno and house artist based in Switzerland, with 187 gigs on s
 
 Mind Against, Colyn, DJ Tennis
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adriatique/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adriatique/)*

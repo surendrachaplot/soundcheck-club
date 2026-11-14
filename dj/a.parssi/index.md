@@ -1,6 +1,6 @@
 # A. Parssi
 
-A. Parssi is a Pop and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Concord Music Hall, Chicago on Sat, 14 Nov 2026.
+A. Parssi is a Pop and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Concord Music Hall, Chicago on Sat, 14 Nov 2026.
 
 A. Parssi is a pop and latin bass artist based in United States of America, with 5 gigs on soundcheck across Chicago. Often billed alongside Ali Najdi, Athena and MNSA. Next up: Concord Music Hall, Chicago on Sat 14 Nov.
 
@@ -21,4 +21,4 @@ A. Parssi is a pop and latin bass artist based in United States of America, with
 
 Ali Najdi, Athena, MNSA
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/a.parssi/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/a.parssi/)*

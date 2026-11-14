@@ -1,6 +1,6 @@
 # 3Phaz
 
-3Phaz is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Ilion Plus, Athens on Sat, 21 Nov 2026.
+3Phaz is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Ilion Plus, Athens on Sat, 21 Nov 2026.
 
 3Phaz is an experimental and electronica artist based in Egypt, with 28 gigs on soundcheck across Adelaide, Amsterdam, Athens and Barcelona and 19 more. Often billed alongside ojoo, Liliane Chlela and Rama. Next up: Ilion Plus, Athens on Sat 21 Nov.
 
@@ -25,4 +25,4 @@
 
 ojoo, Liliane Chlela, Rama (2)
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/3phaz/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/3phaz/)*

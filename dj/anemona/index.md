@@ -1,8 +1,8 @@
 # Anemona
 
-Anemona is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Creative Cluster Vienna, Vienna on Sat, 28 Nov 2026.
+Anemona is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Creative Cluster Vienna, Vienna on Sat, 28 Nov 2026.
 
-Anemona is a techno and hardcore artist, with 18 gigs on soundcheck across Vienna. Often billed alongside Adriatica, Autonomuse and LaPrinzessaGalaktika. Next up: Creative Cluster Vienna, Vienna on Sat 28 Nov.
+Anemona is a techno and hardcore artist based in Romania, with 18 gigs on soundcheck across Vienna. Often billed alongside Adriatica, Autonomuse and LaPrinzessaGalaktika. Next up: Creative Cluster Vienna, Vienna on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Anemona is a techno and hardcore artist, with 18 gigs on soundcheck across Vienn
 
 Adriatica, Autonomuse, LaPrinzessaGalaktika
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anemona/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anemona/)*

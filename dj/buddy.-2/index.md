@@ -1,6 +1,6 @@
 # Buddy. (2)
 
-Buddy. (2) is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Honey Street Studio, Manchester on Sat, 21 Nov 2026.
+Buddy. (2) is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Honey Street Studio, Manchester on Sat, 21 Nov 2026.
 
 Buddy. is a house and tech house artist based in United Kingdom, with 18 gigs on soundcheck across Edinburgh, London and Manchester. Often billed alongside Sunny D, Theo G (UK) and AJC (UK). Next up: Honey Street Studio, Manchester on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Buddy. is a house and tech house artist based in United Kingdom, with 18 gigs on
 
 Sunny D, Theo G (UK), AJC (UK)
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/buddy.-2/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/buddy.-2/)*

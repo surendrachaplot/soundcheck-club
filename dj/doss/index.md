@@ -1,6 +1,6 @@
 # Doss
 
-Doss is a Club and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Kingdom Nightclub, Austin on Sat, 14 Nov 2026.
+Doss is a Club and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Kingdom Nightclub, Austin on Sat, 14 Nov 2026.
 
 Doss is a club and techno artist based in United States of America, with 62 gigs on soundcheck across Athens, Atlanta, Austin and Berlin and 21 more. Often billed alongside CFCF, Ninajirachi and Yves Tumor. Next up: Kingdom Nightclub, Austin on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Doss is a club and techno artist based in United States of America, with 62 gigs
 
 CFCF, Ninajirachi, Yves Tumor
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doss/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doss/)*

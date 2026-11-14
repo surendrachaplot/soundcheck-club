@@ -1,6 +1,6 @@
 # 2tipz
 
-2tipz is a Footwork and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at DMen Tap, Chicago on Sat, 21 Nov 2026.
+2tipz is a Footwork and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at DMen Tap, Chicago on Sat, 21 Nov 2026.
 
 2tipz is a footwork and bass artist based in United States of America, with 11 gigs on soundcheck across Chicago. Often billed alongside Dj Scari, Relativity Lounge and swesdo. Next up: DMen Tap, Chicago on Sat 21 Nov.
 
@@ -25,4 +25,4 @@
 
 Dj Scari, Relativity Lounge, swesdo
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/2tipz/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/2tipz/)*

@@ -1,6 +1,6 @@
 # Katie
 
-Katie is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Pickle, Miami on Thu, 3 Dec 2026.
+Katie is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at The Pickle, Miami on Thu, 3 Dec 2026.
 
 Katie is a tech house and house artist based in Spain, with 12 gigs on soundcheck across Barcelona, Berlin, Copenhagen and Leeds and 5 more. Often billed alongside 1morning, AGNES (IT) and ALKMST. Next up: The Pickle, Miami on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Katie is a tech house and house artist based in Spain, with 12 gigs on soundchec
 
 1morning, AGNES (IT), ALKMST
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katie/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katie/)*

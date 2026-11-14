@@ -1,6 +1,6 @@
 # mitokon
 
-mitokon is a Amapiano and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Forestlimit, Tokyo on Fri, 20 Nov 2026.
+mitokon is a Amapiano and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Forestlimit, Tokyo on Fri, 20 Nov 2026.
 
 mitokon is an amapiano and house artist based in Japan, with 92 gigs on soundcheck across Kyoto, Taipei and Tokyo. Often billed alongside HW BINGO, K8 (TYO GQOM) and mionn. Next up: Forestlimit, Tokyo on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ mitokon is an amapiano and house artist based in Japan, with 92 gigs on soundche
 
 HW BINGO, K8 (TYO GQOM), mionn
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mitokon/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mitokon/)*

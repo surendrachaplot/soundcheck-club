@@ -1,6 +1,6 @@
 # Rafael Onid
 
-Rafael Onid is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Fabriketa, Sao Paulo on Sat, 14 Nov 2026.
+Rafael Onid is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Fabriketa, Sao Paulo on Sat, 14 Nov 2026.
 
 Rafael Onid is a house and techno artist based in Brazil, with 22 gigs on soundcheck across Colombia, Rio de Janeiro and Sao Paulo. Often billed alongside Galvin, Cesare vs Disorder and Magda. Next up: Fabriketa, Sao Paulo on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Rafael Onid is a house and techno artist based in Brazil, with 22 gigs on soundc
 
 Galvin, Cesare vs Disorder, Magda
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rafaelonid/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rafaelonid/)*

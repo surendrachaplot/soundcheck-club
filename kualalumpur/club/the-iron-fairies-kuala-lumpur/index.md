@@ -1,6 +1,6 @@
 # The Iron Fairies Kuala Lumpur
 
-The Iron Fairies Kuala Lumpur is a music venue in Kuala Lumpur with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "The Sweatbox 11th Anniversary x Red Ruby Takeover" on Sat, 14 Nov 2026.
+The Iron Fairies Kuala Lumpur is a music venue in Kuala Lumpur with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "The Sweatbox 11th Anniversary x Red Ruby Takeover" on Sat, 14 Nov 2026.
 
 The Iron Fairies Kuala Lumpur is a music venue in Kuala Lumpur listed on soundcheck. 2 upcoming gigs, with line-ups including Alam, Axel Groove, Biscuit (MY) and DJ Kuma and 2 more. See dates, start times and who's playing. H-G-06, Hive, TREC, 438 Jalan Tun Razak, 50400, Kuala Lumpur, Malaysia.
 
@@ -15,4 +15,4 @@ The Iron Fairies Kuala Lumpur is a music venue in Kuala Lumpur listed on soundch
 
 H-G-06, Hive, TREC, 438 Jalan Tun Razak, 50400, Kuala Lumpur, Malaysia, Kuala Lumpur
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/kualalumpur/club/the-iron-fairies-kuala-lumpur/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/kualalumpur/club/the-iron-fairies-kuala-lumpur/)*

@@ -1,6 +1,6 @@
 # RICHE
 
-RICHE is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at BERHTA, Washington DC on Fri, 18 Dec 2026.
+RICHE is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at BERHTA, Washington DC on Fri, 18 Dec 2026.
 
 RICHE is a house and techno artist based in United States of America, with 29 gigs on soundcheck across Amsterdam, Berlin, Brussels and Copenhagen and 11 more. Often billed alongside ELIF, Jimi Jules and Mona Pirzad. Next up: BERHTA, Washington DC on Fri 18 Dec.
 
@@ -26,4 +26,4 @@ RICHE is a house and techno artist based in United States of America, with 29 gi
 
 ELIF, Jimi Jules, Mona Pirzad
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/riche/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/riche/)*

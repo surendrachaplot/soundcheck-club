@@ -1,6 +1,6 @@
 # Black Lake
 
-Black Lake is a electronic artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at And Club, Johannesburg on Fri, 20 Nov 2026.
+Black Lake is a electronic artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at And Club, Johannesburg on Fri, 20 Nov 2026.
 
 Black Lake is an electronic artist based in South Africa, with 2 gigs on soundcheck across Johannesburg. Often billed alongside ILLING, Avi Subban and Daryn Steytler. Next up: And Club, Johannesburg on Fri 20 Nov.
 
@@ -15,4 +15,4 @@ Black Lake is an electronic artist based in South Africa, with 2 gigs on soundch
 
 ILLING, Avi Subban, Daryn Steytler
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blacklake/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blacklake/)*

@@ -1,6 +1,6 @@
 # Chris Main
 
-Chris Main is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at BORIS CLUB, Barcelona on Sat, 21 Nov 2026.
+Chris Main is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at BORIS CLUB, Barcelona on Sat, 21 Nov 2026.
 
 Chris Main is a house and disco artist based in Spain, with 17 gigs on soundcheck across Barcelona. Often billed alongside Jon Peña, DIROS and Vidaloca. Next up: BORIS CLUB, Barcelona on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Chris Main is a house and disco artist based in Spain, with 17 gigs on soundchec
 
 Jon Peña, DIROS, Vidaloca
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrismain/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrismain/)*

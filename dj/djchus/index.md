@@ -1,6 +1,6 @@
 # DJ Chus
 
-DJ Chus is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Superior Ingredients, New York City on Sun, 29 Nov 2026.
+DJ Chus is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Superior Ingredients, New York City on Sun, 29 Nov 2026.
 
 DJ Chus is a house and tech house artist based in Spain, with 85 gigs on soundcheck across Amsterdam, Atlanta, Bali and Barcelona and 24 more. Often billed alongside La Santa (ES), Patrick M and Joeski. Next up: Superior Ingredients, New York City on Sun 29 Nov.
 
@@ -26,4 +26,4 @@ DJ Chus is a house and tech house artist based in Spain, with 85 gigs on soundch
 
 La Santa (ES), Patrick M, Joeski
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djchus/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djchus/)*

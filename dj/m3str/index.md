@@ -1,6 +1,6 @@
 # M3STR
 
-M3STR is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Gare Porto, Porto on Sat, 21 Nov 2026.
+M3STR is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Gare Porto, Porto on Sat, 21 Nov 2026.
 
 M3STR is a techno and house artist based in Portugal, with 17 gigs on soundcheck across Hanoi, Hong Kong, Lisbon and Porto. Often billed alongside CRAVO, 4625kHz and Enkō. Next up: Gare Porto, Porto on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ M3STR is a techno and house artist based in Portugal, with 17 gigs on soundcheck
 
 CRAVO, 4625kHz, Enkō
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/m3str/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/m3str/)*

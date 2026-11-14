@@ -1,6 +1,6 @@
 # Dea (IT)
 
-Dea (IT) is a Techno and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - The Forum, Dubai on Sat, 28 Nov 2026.
+Dea (IT) is a Techno and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - The Forum, Dubai on Sat, 28 Nov 2026.
 
 Dea (IT) is a techno and ghetto tech artist based in Italy, with 23 gigs on soundcheck across Dubai, Madrid and Milan. Often billed alongside Ju Lovett, Kirill Zhan and Baby B.. Next up: TBA - The Forum, Dubai on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Dea (IT) is a techno and ghetto tech artist based in Italy, with 23 gigs on soun
 
 Ju Lovett, Kirill Zhan, Baby B.
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dea-it/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dea-it/)*

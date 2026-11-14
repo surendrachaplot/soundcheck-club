@@ -1,6 +1,6 @@
 # Almared
 
-Almared is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Golden Sheaf, New-south-wales on Sat, 26 Dec 2026.
+Almared is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at The Golden Sheaf, New-south-wales on Sat, 26 Dec 2026.
 
 Almared is an afro house and afro tech artist based in Australia, with 22 gigs on soundcheck across Adelaide, Amsterdam, Melbourne and New South Wales and 1 more. Often billed alongside Dr Mendez, Netanel. and Samantha Loveridge. Next up: The Golden Sheaf, New South Wales on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Almared is an afro house and afro tech artist based in Australia, with 22 gigs o
 
 Dr Mendez, Netanel., Samantha Loveridge
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/almared/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/almared/)*

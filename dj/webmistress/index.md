@@ -1,6 +1,6 @@
 # Webmistress
 
-Webmistress is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Soulwerks, Los Angeles on Fri, 20 Nov 2026.
+Webmistress is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Soulwerks, Los Angeles on Fri, 20 Nov 2026.
 
 Webmistress is a techno and club artist based in United States of America, with 31 gigs on soundcheck across Chicago, Denver, Los Angeles and Minneapolis/St Paul and 3 more. Often billed alongside Umbra Abra, 1morning and Avi Loud. Next up: Soulwerks, Los Angeles on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Webmistress is a techno and club artist based in United States of America, with 
 
 Umbra Abra, 1morning, Avi Loud
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/webmistress/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/webmistress/)*

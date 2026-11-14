@@ -1,6 +1,6 @@
 # nulty
 
-nulty is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Abercrombie Hotel, Sydney on Fri, 20 Nov 2026.
+nulty is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Abercrombie Hotel, Sydney on Fri, 20 Nov 2026.
 
 nulty is a techno and bass artist based in Australia, with 6 gigs on soundcheck across Sydney. Often billed alongside NFRMT, Alex Ward and Bouki. Next up: Abercrombie Hotel, Sydney on Fri 20 Nov.
 
@@ -22,4 +22,4 @@ nulty is a techno and bass artist based in Australia, with 6 gigs on soundcheck 
 
 NFRMT, Alex Ward, Bouki
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nulty/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nulty/)*

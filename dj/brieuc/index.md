@@ -1,6 +1,6 @@
 # Brieuc
 
-Brieuc is a Hardcore and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Heavy Sick Zero, Tokyo on Sat, 14 Nov 2026.
+Brieuc is a Hardcore and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Heavy Sick Zero, Tokyo on Sat, 14 Nov 2026.
 
 Brieuc is a hardcore and bass artist, with 3 gigs on soundcheck across Lisbon and Tokyo. Often billed alongside DJ WÜRM, Orphids and Tetsuya Fukada. Next up: Heavy Sick Zero, Tokyo on Sat 14 Nov.
 
@@ -19,4 +19,4 @@ Brieuc is a hardcore and bass artist, with 3 gigs on soundcheck across Lisbon an
 
 DJ WÜRM, Orphids, Tetsuya Fukada
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brieuc/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brieuc/)*

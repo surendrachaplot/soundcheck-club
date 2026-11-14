@@ -1,6 +1,6 @@
 # David Böning
 
-David Böning is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Tokonoma Club, Frankfurt on Sat, 21 Nov 2026.
+David Böning is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Tokonoma Club, Frankfurt on Sat, 21 Nov 2026.
 
 David Böning is a house and electro artist based in Germany, with 25 gigs on soundcheck across Berlin, Frankfurt and Munich. Often billed alongside Jeyrototo, DJoy and Ido Toledano. Next up: Tokonoma Club, Frankfurt on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ David Böning is a house and electro artist based in Germany, with 25 gigs on so
 
 Jeyrototo, DJoy, Ido Toledano
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidboning/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidboning/)*

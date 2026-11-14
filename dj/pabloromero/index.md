@@ -1,6 +1,6 @@
 # Pablo Romero
 
-Pablo Romero is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
+Pablo Romero is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
 
 Pablo Romero is a house and techno artist based in United States of America, with 139 gigs on soundcheck across Amsterdam, Bogotá, Boston and Colombia and 9 more. Often billed alongside Daniel Dutts, Jean-Paul and mink. Next up: El Rio Hostel, Colombia on Wed 3 Mar.
 
@@ -25,4 +25,4 @@ Pablo Romero is a house and techno artist based in United States of America, wit
 
 Daniel Dutts, Jean-Paul, mink
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pabloromero/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pabloromero/)*

@@ -1,6 +1,6 @@
 # maniaclina
 
-maniaclina is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Fabrik Du Plaisir, Zurich on Sat, 14 Nov 2026.
+maniaclina is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Fabrik Du Plaisir, Zurich on Sat, 14 Nov 2026.
 
 maniaclina is a techno and trance artist based in Germany, with 129 gigs on soundcheck across Barcelona, Basel, Berlin and Cologne and 16 more. Often billed alongside Charlotte Lion, DJ Jordan and Sika Akis. Next up: Fabrik Du Plaisir, Zurich on Sat 14 Nov.
 
@@ -29,4 +29,4 @@ maniaclina is a techno and trance artist based in Germany, with 129 gigs on soun
 
 Charlotte Lion, DJ Jordan, Sika Akis
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maniaclina/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maniaclina/)*

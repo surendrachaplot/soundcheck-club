@@ -1,6 +1,6 @@
 # ZIGGY ZAYA
 
-ZIGGY ZAYA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA, Vancouver on Sat, 14 Nov 2026.
+ZIGGY ZAYA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA, Vancouver on Sat, 14 Nov 2026.
 
 ZIGGY ZAYA is a techno and house artist based in Canada, with 30 gigs on soundcheck across Portland, Toronto and Vancouver. Often billed alongside Fisher Bryce, AVRY and educación física. Next up: TBA, Vancouver on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ ZIGGY ZAYA is a techno and house artist based in Canada, with 30 gigs on soundch
 
 Fisher Bryce, AVRY, educación física
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ziggyzaya/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ziggyzaya/)*

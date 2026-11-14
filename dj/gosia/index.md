@@ -1,6 +1,6 @@
 # Gosia
 
-Gosia is a Techno and Deep House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Quarters, Brighton on Fri, 11 Dec 2026.
+Gosia is a Techno and Deep House artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Quarters, Brighton on Fri, 11 Dec 2026.
 
 Gosia is a techno and deep house artist based in United Kingdom, with 15 gigs on soundcheck across Brighton. Often billed alongside Ross Harper, Nathan Godolphin and Acid Carbon. Next up: Quarters, Brighton on Fri 11 Dec.
 
@@ -27,4 +27,4 @@ Gosia is a techno and deep house artist based in United Kingdom, with 15 gigs on
 
 Ross Harper, Nathan Godolphin, Acid Carbon
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gosia/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gosia/)*

@@ -1,6 +1,6 @@
 # Plastik Patrik
 
-Plastik Patrik is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Cabaret Berlin, Montreal on Sat, 5 Dec 2026.
+Plastik Patrik is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Cabaret Berlin, Montreal on Sat, 5 Dec 2026.
 
 Plastik Patrik is an electro and techno artist based in Canada, with 20 gigs on soundcheck across Montreal. Often billed alongside DJ Davidé, Ian Jackman and Omni. Next up: Cabaret Berlin, Montreal on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Plastik Patrik is an electro and techno artist based in Canada, with 20 gigs on 
 
 DJ Davidé, Ian Jackman, Omni
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/plastikpatrik/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/plastikpatrik/)*

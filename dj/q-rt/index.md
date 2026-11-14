@@ -1,6 +1,6 @@
 # q-rt
 
-q-rt is a House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Nordstern, Basel on Thu, 31 Dec 2026.
+q-rt is a House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Nordstern, Basel on Thu, 31 Dec 2026.
 
 q-rt is a house artist based in Switzerland, with 15 gigs on soundcheck across Basel. Often billed alongside Colyn, Doma and Galopp. Next up: Nordstern, Basel on Thu 31 Dec.
 
@@ -26,4 +26,4 @@ q-rt is a house artist based in Switzerland, with 15 gigs on soundcheck across B
 
 Colyn, Doma, Galopp
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/q-rt/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/q-rt/)*

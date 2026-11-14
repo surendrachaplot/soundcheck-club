@@ -1,6 +1,6 @@
 # doccudder
 
-doccudder is a electronic artist with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Sala Cocó, Madrid on Thu, 26 Nov 2026.
+doccudder is a electronic artist with 5 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Sala Cocó, Madrid on Thu, 26 Nov 2026.
 
 doccudder is an electronic artist based in Spain, with 32 gigs on soundcheck across Madrid. Often billed alongside Gerardo Niva, DJ SWISHERMAN and Bushbaby. Next up: Sala Cocó, Madrid on Thu 26 Nov.
 
@@ -29,4 +29,4 @@ doccudder is an electronic artist based in Spain, with 32 gigs on soundcheck acr
 
 Gerardo Niva, DJ SWISHERMAN, Bushbaby
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doccudder/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doccudder/)*

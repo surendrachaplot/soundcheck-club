@@ -1,8 +1,8 @@
 # Deodaat
 
-Deodaat is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Het Dorp, Amsterdam on Fri, 20 Nov 2026.
+Deodaat is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Het Dorp, Amsterdam on Fri, 20 Nov 2026.
 
-Deodaat is a house and disco artist, with 9 gigs on soundcheck across Amsterdam and Utrecht. Often billed alongside AIS De La Montagne, Afra and Alba Franch. Next up: Het Dorp, Amsterdam on Fri 20 Nov.
+Deodaat is a house and disco artist based in Netherlands, with 9 gigs on soundcheck across Amsterdam and Utrecht. Often billed alongside AIS De La Montagne, Afra and Alba Franch. Next up: Het Dorp, Amsterdam on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Deodaat is a house and disco artist, with 9 gigs on soundcheck across Amsterdam 
 
 AIS De La Montagne, Afra, Alba Franch
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deodaat/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deodaat/)*

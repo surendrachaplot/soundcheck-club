@@ -1,14 +1,13 @@
 # Jolene
 
-Jolene is a music venue in Copenhagen with 7 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Stake House with Hugo, Alpo, DJ SRA & Tiger" on Fri, 13 Nov 2026.
+Jolene is a music venue in Copenhagen with 6 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Operator with Kawun & Prom Night" on Sat, 14 Nov 2026.
 
-Jolene is a music venue in Copenhagen listed on soundcheck. 7 upcoming gigs, with line-ups including Alpo, avoN, Crisco and Dee Brown and 2 more. See dates, start times and who's playing. Flaesketorvet 81; Copenhagen V. 1711; Denmark.
+Jolene is a music venue in Copenhagen listed on soundcheck. 6 upcoming gigs, with line-ups including avoN, Crisco, Dee Brown and Dj Algorythm and 2 more. See dates, start times and who's playing. Flaesketorvet 81; Copenhagen V. 1711; Denmark.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Stake House with Hugo, Alpo, DJ SRA & Tiger | Alpo, DJ SRA |
 | Sat, 14 Nov 2026 | Operator with Kawun & Prom Night | Kawun, Prom Night |
 | Thu, 19 Nov 2026 | SYNTHETICA with DJ Algorythm & avoN | Dj Algorythm, avoN |
 | Fri, 20 Nov 2026 | Jolene Invites with C.K. & Dee Brown | Dee Brown |
@@ -20,4 +19,4 @@ Jolene is a music venue in Copenhagen listed on soundcheck. 7 upcoming gigs, wit
 
 Flaesketorvet 81; Copenhagen V. 1711; Denmark, Copenhagen
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/jolene/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/jolene/)*

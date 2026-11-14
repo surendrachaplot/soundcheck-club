@@ -1,6 +1,6 @@
 # DJ SOUL SLINGER
 
-DJ SOUL SLINGER is a Drum & Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Club Daphnia, Osaka on Fri, 4 Dec 2026.
+DJ SOUL SLINGER is a Drum & Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Club Daphnia, Osaka on Fri, 4 Dec 2026.
 
 DJ SOUL SLINGER is a drum & bass and techno artist based in United States of America, with 11 gigs on soundcheck across Detroit, New York City, Osaka and Tokyo. Often billed alongside MTECH, AK (US) and AceMo. Next up: Club Daphnia, Osaka on Fri 4 Dec.
 
@@ -27,4 +27,4 @@ DJ SOUL SLINGER is a drum & bass and techno artist based in United States of Ame
 
 MTECH, AK (US), AceMo
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsoulslinger/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsoulslinger/)*

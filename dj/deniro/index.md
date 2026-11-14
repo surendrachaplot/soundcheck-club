@@ -1,6 +1,6 @@
 # Deniro
 
-Deniro is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Fuse, Brussels on Sat, 26 Dec 2026.
+Deniro is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Fuse, Brussels on Sat, 26 Dec 2026.
 
 Deniro is a techno and house artist based in Netherlands, with 76 gigs on soundcheck across Amsterdam, Athens, Berlin and Bogotá and 24 more. Often billed alongside Bastienne, TAFKAMP and Adriana Lopez. Next up: Fuse, Brussels on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Deniro is a techno and house artist based in Netherlands, with 76 gigs on soundc
 
 Bastienne, TAFKAMP, Adriana Lopez
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deniro/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deniro/)*

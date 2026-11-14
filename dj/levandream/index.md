@@ -1,6 +1,6 @@
 # Levandream
 
-Levandream is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Minimal Bar, Berlin on Tue, 1 Dec 2026.
+Levandream is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Minimal Bar, Berlin on Tue, 1 Dec 2026.
 
 Levandream is a techno and house artist based in Jordan, with 6 gigs on soundcheck across Berlin. Often billed alongside Karolanne, Agustin Mendez and BIJI ON DECKS. Next up: Minimal Bar, Berlin on Tue 1 Dec.
 
@@ -22,4 +22,4 @@ Levandream is a techno and house artist based in Jordan, with 6 gigs on soundche
 
 Karolanne, Agustin Mendez, BIJI ON DECKS
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/levandream/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/levandream/)*

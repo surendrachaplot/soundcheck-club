@@ -1,6 +1,6 @@
 # Mauricio Fleury
 
-Mauricio Fleury is a Jazz and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Clärchen's Ballhaus, Berlin on Fri, 20 Nov 2026.
+Mauricio Fleury is a Jazz and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Clärchen's Ballhaus, Berlin on Fri, 20 Nov 2026.
 
 Mauricio Fleury is a jazz and funk / soul artist based in Brazil, with 14 gigs on soundcheck across Berlin. Often billed alongside Ken Okuda, Bulma Brief and Dj Quien. Next up: Clärchen's Ballhaus, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Mauricio Fleury is a jazz and funk / soul artist based in Brazil, with 14 gigs o
 
 Ken Okuda, Bulma Brief, Dj Quien
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mauriciofleury/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mauriciofleury/)*

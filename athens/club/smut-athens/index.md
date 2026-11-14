@@ -1,6 +1,6 @@
 # SMUT Athens
 
-SMUT Athens is a music venue in Athens with 10 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Coma x SMUT pres. BRITISH MURDER BOYS live, UFO95. live, Regis, Sawf, JERM" on Sat, 14 Nov 2026.
+SMUT Athens is a music venue in Athens with 10 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Coma x SMUT pres. BRITISH MURDER BOYS live, UFO95. live, Regis, Sawf, JERM" on Sat, 14 Nov 2026.
 
 SMUT Athens is a music venue in Athens listed on soundcheck. 10 upcoming gigs, with line-ups including Alarico, Antigone, Ayshel and British Murder Boys and 2 more. See dates, start times and who's playing. Vatsaxi 4, Athina 104 38, Greece.
 
@@ -23,4 +23,4 @@ SMUT Athens is a music venue in Athens listed on soundcheck. 10 upcoming gigs, w
 
 Vatsaxi 4, Athina 104 38, Greece, Athens
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/athens/club/smut-athens/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/athens/club/smut-athens/)*

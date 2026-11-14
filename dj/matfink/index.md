@@ -1,6 +1,6 @@
 # Mat Fink
 
-Mat Fink is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Paloma, Berlin on Thu, 10 Dec 2026.
+Mat Fink is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Paloma, Berlin on Thu, 10 Dec 2026.
 
 Mat Fink is a house and disco artist based in United States of America, with 58 gigs on soundcheck across Berlin and Sofia. Often billed alongside Mini Nik, Dominik Szczepaniak and Balthazar Martinez. Next up: Paloma, Berlin on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ Mat Fink is a house and disco artist based in United States of America, with 58 
 
 Mini Nik, Dominik Szczepaniak, Balthazar Martinez
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matfink/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matfink/)*

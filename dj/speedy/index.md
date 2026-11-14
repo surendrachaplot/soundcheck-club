@@ -1,6 +1,6 @@
 # SPEEDY
 
-SPEEDY is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Dojo Boutique Club, Budapest on Sat, 21 Nov 2026.
+SPEEDY is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Dojo Boutique Club, Budapest on Sat, 21 Nov 2026.
 
 SPEEDY is a techno and house artist based in Tunisia, with 92 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 31 more. Often billed alongside Speedy J, Speedy P and Ben Klock. Next up: Dojo Boutique Club, Budapest on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ SPEEDY is a techno and house artist based in Tunisia, with 92 gigs on soundcheck
 
 Speedy J, Speedy P, Ben Klock
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/speedy/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/speedy/)*

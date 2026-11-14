@@ -1,6 +1,6 @@
 # NOH Extended
 
-NOH Extended is a music venue in Istanbul with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "Noh Extended: Arnaud Rebotini" on Fri, 27 Nov 2026.
+NOH Extended is a music venue in Istanbul with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. The next is "Noh Extended: Arnaud Rebotini" on Fri, 27 Nov 2026.
 
 NOH Extended is a music venue in Istanbul listed on soundcheck. 1 upcoming gig, with line-ups including Arnaud Rebotini, Ece Özel and Marina Bibik. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ NOH Extended is a music venue in Istanbul listed on soundcheck. 1 upcoming gig, 
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Noh Extended: Arnaud Rebotini | Arnaud Rebotini, Ece Özel, Marina Bibik |
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/noh-extended/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/noh-extended/)*

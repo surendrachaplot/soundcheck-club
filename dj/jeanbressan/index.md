@@ -1,6 +1,6 @@
 # Jean Bressan
 
-Jean Bressan is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at 303 Audiophile Bar, Barcelona on Thu, 26 Nov 2026.
+Jean Bressan is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at 303 Audiophile Bar, Barcelona on Thu, 26 Nov 2026.
 
 Jean Bressan is a house and techno artist based in Italy, with 18 gigs on soundcheck across Barcelona, Bogotá and Miami. Often billed alongside Breezywav, Farres and Javier Carballo. Next up: 303 Audiophile Bar, Barcelona on Thu 26 Nov.
 
@@ -26,4 +26,4 @@ Jean Bressan is a house and techno artist based in Italy, with 18 gigs on soundc
 
 Breezywav, Farres, Javier Carballo
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jeanbressan/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jeanbressan/)*

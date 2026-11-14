@@ -1,6 +1,6 @@
 # Flint (UK)
 
-Flint (UK) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Honey Street Studio, Manchester on Sat, 5 Dec 2026.
+Flint (UK) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Honey Street Studio, Manchester on Sat, 5 Dec 2026.
 
 Flint (UK) is a techno and house artist based in United Kingdom, with 10 gigs on soundcheck across Berlin, Brighton, Manchester and Sheffield and 1 more. Often billed alongside colecta, Hames and Omari. Next up: Honey Street Studio, Manchester on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Flint (UK) is a techno and house artist based in United Kingdom, with 10 gigs on
 
 colecta, Hames, Omari (2)
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flint-uk/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flint-uk/)*

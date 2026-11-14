@@ -1,6 +1,6 @@
 # Johannes Albert
 
-Johannes Albert is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Hoppetosse, Berlin on Fri, 15 Jan 2027.
+Johannes Albert is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Hoppetosse, Berlin on Fri, 15 Jan 2027.
 
 Johannes Albert is a house and techno artist, with 99 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Frankfurt and 15 more. Often billed alongside Iron Curtis, Ady Toledano and Leon Licht. Next up: Hoppetosse, Berlin on Fri 15 Jan.
 
@@ -25,4 +25,4 @@ Johannes Albert is a house and techno artist, with 99 gigs on soundcheck across 
 
 Iron Curtis, Ady Toledano, Leon Licht
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johannesalbert/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johannesalbert/)*

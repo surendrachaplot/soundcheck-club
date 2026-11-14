@@ -1,6 +1,6 @@
 # Sticky
 
-Sticky is a Garage and Dancehall artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Ghent (multi-venue), Ghent on Fri, 27 Nov 2026.
+Sticky is a Garage and Dancehall artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Ghent (multi-venue), Ghent on Fri, 27 Nov 2026.
 
 Sticky is a garage and dancehall artist based in United Kingdom, with 17 gigs on soundcheck across Birmingham, Ghent, London and Manchester. Often billed alongside MC DT, Matt Jam Lamont and Rich Reason. Next up: TBA - Ghent (multi-venue), Ghent on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Sticky is a garage and dancehall artist based in United Kingdom, with 17 gigs on
 
 MC DT, Matt Jam Lamont, Rich Reason
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sticky/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sticky/)*

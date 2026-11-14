@@ -1,6 +1,6 @@
 # Eze
 
-Eze is a Grime and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Gut Level, Sheffield on Fri, 11 Dec 2026.
+Eze is a Grime and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Gut Level, Sheffield on Fri, 11 Dec 2026.
 
 Eze is a grime and bass artist, with 13 gigs on soundcheck across Manchester and Sheffield. Often billed alongside Omašta, Zeki and colecta. Next up: Gut Level, Sheffield on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Eze is a grime and bass artist, with 13 gigs on soundcheck across Manchester and
 
 Omašta, Zeki, colecta
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eze/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eze/)*

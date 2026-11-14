@@ -1,6 +1,6 @@
 # Sander van Doorn
 
-Sander van Doorn is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Club M2 Miami, Miami on Fri, 4 Dec 2026.
+Sander van Doorn is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Club M2 Miami, Miami on Fri, 4 Dec 2026.
 
 Sander van Doorn is a trance and techno artist based in Netherlands, with 28 gigs on soundcheck across Amsterdam, Birmingham, Buenos Aires and Cologne and 18 more. Often billed alongside Marco V, Erick E and Alexander Koning. Next up: Club M2 Miami, Miami on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Sander van Doorn is a trance and techno artist based in Netherlands, with 28 gig
 
 Marco V, Erick E, Alexander Koning
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sandervandoorn/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sandervandoorn/)*

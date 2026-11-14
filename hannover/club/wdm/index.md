@@ -1,6 +1,6 @@
 # WDM
 
-WDM is a music venue in Hannover with 17 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Klubnacht with MATHILDA, Gold Teeth, adjustin'" on Fri, 13 Nov 2026.
+WDM is a music venue in Hannover with 17 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "EXIT with TRIPTYKH x Ben Techy x Noise Not War x IN FURCH" on Sat, 14 Nov 2026.
 
 WDM is a music venue in Hannover listed on soundcheck. 17 upcoming gigs, with line-ups including 2HOT2PLAY, 5euroGoldi, AEREA and Alisa Stovik and 2 more. See dates, start times and who's playing. Weidendamm 8, 30167 Hannover.
 
@@ -8,8 +8,8 @@ WDM is a music venue in Hannover listed on soundcheck. 17 upcoming gigs, with li
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Klubnacht with MATHILDA, Gold Teeth, adjustin' | MATHILDA (2) |
 | Sat, 14 Nov 2026 | EXIT with TRIPTYKH x Ben Techy x Noise Not War x IN FURCH | Ben Techy, In Furcht, Noise Not War, TRIPTYKH |
+| Sat, 14 Nov 2026 | How to Use Duke Energy Quick Pay & One-Time Online Bill Payment | AnD |
 | Fri, 20 Nov 2026 | Obscurité × rekursiv | DJ GARGA, Herr Muller, ISHAPE, Krackk, ruru (1), s-ray |
 | Fri, 20 Nov 2026 | Klubnachht with Amy Dabbs, CLAVD, randahlicious | Amy Dabbs, CLAVD |
 | Sat, 21 Nov 2026 | OBSESSION with Quelza | Quelza, SPORTMANN, Tarkan, co:co |
@@ -23,4 +23,4 @@ WDM is a music venue in Hannover listed on soundcheck. 17 upcoming gigs, with li
 
 Weidendamm 8, 30167 Hannover, Hannover
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/hannover/club/wdm/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/hannover/club/wdm/)*

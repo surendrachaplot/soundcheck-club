@@ -1,6 +1,6 @@
 # Neil Thornton
 
-Neil Thornton is a Downtempo and Funk / Soul artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at 26 Curtain Road, London on Sat, 21 Nov 2026.
+Neil Thornton is a Downtempo and Funk / Soul artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at 26 Curtain Road, London on Sat, 21 Nov 2026.
 
 Neil Thornton is a downtempo and funk / soul artist based in United Kingdom, with 133 gigs on soundcheck across London. Often billed alongside Matt Young, Sean Innit and Ray Juss. Next up: 26 Curtain Road, London on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ Neil Thornton is a downtempo and funk / soul artist based in United Kingdom, wit
 
 Matt Young, Sean Innit, Ray Juss
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neilthornton/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neilthornton/)*

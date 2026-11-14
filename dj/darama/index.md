@@ -1,6 +1,6 @@
 # Darama
 
-Darama is a Breakbeat and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Palais, London on Fri, 20 Nov 2026.
+Darama is a Breakbeat and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Palais, London on Fri, 20 Nov 2026.
 
 Darama is a breakbeat and techno artist based in United Kingdom, with 18 gigs on soundcheck across Bristol, Dublin, London and Manchester. Often billed alongside yourboykiran, Chande and Izzi. Next up: Palais, London on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Darama is a breakbeat and techno artist based in United Kingdom, with 18 gigs on
 
 yourboykiran, Chande, Izzi
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/darama/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/darama/)*

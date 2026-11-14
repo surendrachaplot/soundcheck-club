@@ -1,19 +1,19 @@
 # Ron Trent
 
-Ron Trent is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at DRUMSHEDS, London on Fri, 13 Nov 2026.
+Ron Trent is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Nowadays, New York City on Thu, 31 Dec 2026.
 
-Ron Trent is a house and deep house artist based in United States of America, with 116 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 39 more. Often billed alongside Ben UFO, Ogazón and Joe Claussell. Next up: DRUMSHEDS, London on Fri 13 Nov.
+Ron Trent is a house and deep house artist based in United States of America, with 116 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 39 more. Often billed alongside Ben UFO, Ogazón and Joe Claussell. Next up: Nowadays, New York City on Thu 31 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | DRUMSHEDS | London |
 | Thu, 31 Dec 2026 | Nowadays | New York City |
 | Thu, 19 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 
+- DRUMSHEDS, London · Fri, 13 Nov 2026
 - essaim, Paris · Thu, 12 Nov 2026
 - Bar Studios Factory, Milan · Sat, 31 Oct 2026
 - Lofi, Amsterdam · Sat, 24 Oct 2026
@@ -21,10 +21,9 @@ Ron Trent is a house and deep house artist based in United States of America, wi
 - Cockatoo Island, Sydney · Sun, 4 Oct 2026
 - Sidney Myer Music Bowl, Melbourne · Sat, 3 Oct 2026
 - Klymax Discotheque, Bali · Fri, 25 Sept 2026
-- Auditorium Parco della Musica, Rome · Sat, 12 Sept 2026
 
 ## Shares bills with
 
 Ben UFO, Ogazón, Joe Claussell
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rontrent/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rontrent/)*

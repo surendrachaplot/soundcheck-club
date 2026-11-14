@@ -1,6 +1,6 @@
 # Turbojazz
 
-Turbojazz is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - HARRINGTON STREET, CBD, Cape Town on Thu, 31 Dec 2026.
+Turbojazz is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - HARRINGTON STREET, CBD, Cape Town on Thu, 31 Dec 2026.
 
 Turbojazz is a house and disco artist based in Italy, with 49 gigs on soundcheck across Amsterdam, Berlin, Birmingham and Cape Town and 7 more. Often billed alongside DNN, Ormeye and Alex De Ponti. Next up: TBA - HARRINGTON STREET, CBD, Cape Town on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Turbojazz is a house and disco artist based in Italy, with 49 gigs on soundcheck
 
 DNN, Ormeye, Alex De Ponti
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/turbojazz/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/turbojazz/)*

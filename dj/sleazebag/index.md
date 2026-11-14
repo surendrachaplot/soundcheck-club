@@ -1,6 +1,6 @@
 # Sleazebag
 
-Sleazebag is a Drum & Bass and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Waiting Room, London on Sat, 14 Nov 2026.
+Sleazebag is a Drum & Bass and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at The Waiting Room, London on Sat, 14 Nov 2026.
 
 Sleazebag is a drum & bass and house artist based in United Kingdom, with 26 gigs on soundcheck across Bristol and London. Often billed alongside Krash Dubs, PEPPA and Rodney. Next up: The Waiting Room, London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Sleazebag is a drum & bass and house artist based in United Kingdom, with 26 gig
 
 Krash Dubs, PEPPA (2), Rodney
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sleazebag/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sleazebag/)*

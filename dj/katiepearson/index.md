@@ -1,6 +1,6 @@
 # Katie Pearson
 
-Katie Pearson is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
+Katie Pearson is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
 
 Katie Pearson is a house and club artist based in Australia, with 32 gigs on soundcheck across Brisbane, Melbourne, Perth and Sydney. Often billed alongside Millú, Naycab and Activator (AU). Next up: The Wildlands, Melbourne on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Katie Pearson is a house and club artist based in Australia, with 32 gigs on sou
 
 Millú, Naycab, Activator (AU)
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katiepearson/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katiepearson/)*

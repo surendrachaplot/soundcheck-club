@@ -1,6 +1,6 @@
 # Fitzroy
 
-Fitzroy is a music venue in Berlin with 13 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Insolar (Day Into Night)" on Sat, 14 Nov 2026.
+Fitzroy is a music venue in Berlin with 13 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Insolar (Day Into Night)" on Sat, 14 Nov 2026.
 
 Fitzroy is a music venue in Berlin listed on soundcheck. 13 upcoming gigs, with line-ups including ADNS, Atavi, Ben Sleia and BFAM and 2 more. See dates, start times and who's playing. Holzmarktstraße 15, 10179 Berlin, Germany.
 
@@ -23,4 +23,4 @@ Fitzroy is a music venue in Berlin listed on soundcheck. 13 upcoming gigs, with 
 
 Holzmarktstraße 15, 10179 Berlin, Germany, Berlin
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/fitzroy/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/fitzroy/)*

@@ -1,6 +1,6 @@
 # Leighton Moody
 
-Leighton Moody is a Deep House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Castle of Good Hope, Cape-town on Sat, 16 Jan 2027.
+Leighton Moody is a Deep House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at The Castle of Good Hope, Cape-town on Sat, 16 Jan 2027.
 
 Leighton Moody is a deep house and afro house artist based in South Africa, with 10 gigs on soundcheck across Cape Town. Often billed alongside Cassiem Latief, Irshaad Samaai and !Sooks. Next up: The Castle of Good Hope, Cape Town on Sat 16 Jan.
 
@@ -25,4 +25,4 @@ Leighton Moody is a deep house and afro house artist based in South Africa, with
 
 Cassiem Latief, Irshaad Samaai, !Sooks
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leightonmoody/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leightonmoody/)*

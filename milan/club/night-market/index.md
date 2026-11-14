@@ -1,6 +1,6 @@
 # Night Market
 
-Night Market is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "NIGHT MARKET'S w/ Glo.my & Makileo" on Thu, 19 Nov 2026.
+Night Market is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "NIGHT MARKET'S w/ Glo.my & Makileo" on Thu, 19 Nov 2026.
 
 Night Market is a music venue in Milan listed on soundcheck. 2 upcoming gigs, with line-ups including Erika Gueli and Makileo. See dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ Night Market is a music venue in Milan listed on soundcheck. 2 upcoming gigs, wi
 | Thu, 19 Nov 2026 | NIGHT MARKET'S w/ Glo.my & Makileo | Makileo |
 | Thu, 26 Nov 2026 | NIGHT MARKET'S w/ Erika Gueli & Robypeach | Erika Gueli |
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/night-market/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/night-market/)*

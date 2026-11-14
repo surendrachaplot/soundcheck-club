@@ -1,6 +1,6 @@
 # DJIL
 
-DJIL is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Paloma, Berlin on Sun, 29 Nov 2026.
+DJIL is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Paloma, Berlin on Sun, 29 Nov 2026.
 
 DJIL is a house and trance artist based in Germany, with 7 gigs on soundcheck across Berlin. Often billed alongside Heimlich Maneuver, Multifun and :MUMM. Next up: Paloma, Berlin on Sun 29 Nov.
 
@@ -23,4 +23,4 @@ DJIL is a house and trance artist based in Germany, with 7 gigs on soundcheck ac
 
 Heimlich Maneuver, Multifun, :MUMM
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djil-1/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djil-1/)*

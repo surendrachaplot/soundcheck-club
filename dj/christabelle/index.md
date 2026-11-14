@@ -1,6 +1,6 @@
 # Christa Belle
 
-Christa Belle is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Fortune Sound Club, Vancouver on Sat, 14 Nov 2026.
+Christa Belle is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Fortune Sound Club, Vancouver on Sat, 14 Nov 2026.
 
 Christa Belle is a house and disco artist based in Canada, with 30 gigs on soundcheck across Berlin and Vancouver. Often billed alongside DJ D.Dee, DJ Hannah and DJ Holographic. Next up: Fortune Sound Club, Vancouver on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Christa Belle is a house and disco artist based in Canada, with 30 gigs on sound
 
 DJ D.Dee, DJ Hannah, DJ Holographic
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/christabelle/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/christabelle/)*

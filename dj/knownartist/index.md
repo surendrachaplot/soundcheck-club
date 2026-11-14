@@ -1,6 +1,6 @@
 # Known Artist
 
-Known Artist is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 14 Nov 2026.
+Known Artist is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 14 Nov 2026.
 
 Known Artist is a techno and trance artist based in Italy, with 42 gigs on soundcheck across Berlin and Milan. Often billed alongside Ditzy, bipolar and ARMANDO. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Known Artist is a techno and trance artist based in Italy, with 42 gigs on sound
 
 Ditzy, bipolar, ARMANDO
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/knownartist/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/knownartist/)*

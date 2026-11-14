@@ -1,6 +1,6 @@
 # Vagliolise
 
-Vagliolise is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA, Rome on Sat, 5 Dec 2026.
+Vagliolise is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA, Rome on Sat, 5 Dec 2026.
 
 Vagliolise is a techno and electronica artist based in Italy, with 14 gigs on soundcheck across Bologna, Milan, Naples and Rome and 1 more. Often billed alongside Na Diavl, Fernando Costantini and Fybes. Next up: TBA, Rome on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Vagliolise is a techno and electronica artist based in Italy, with 14 gigs on so
 
 Na Diavl, Fernando Costantini, Fybes
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vagliolise/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vagliolise/)*

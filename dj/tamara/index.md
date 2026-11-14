@@ -1,6 +1,6 @@
 # Tamara
 
-Tamara is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Den Anden Side, Copenhagen on Sat, 14 Nov 2026.
+Tamara is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Den Anden Side, Copenhagen on Sat, 14 Nov 2026.
 
 Tamara is a house and techno artist based in Denmark, with 16 gigs on soundcheck across Copenhagen and Los Angeles. Often billed alongside Harrison Heat, Danilo Plessow and Johannes Astrup. Next up: Den Anden Side, Copenhagen on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Tamara is a house and techno artist based in Denmark, with 16 gigs on soundcheck
 
 Harrison Heat, Danilo Plessow, Johannes Astrup
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tamara/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tamara/)*

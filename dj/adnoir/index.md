@@ -1,6 +1,6 @@
 # Adnoir
 
-Adnoir is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Frka, Bosnia-and-herzegovina on Fri, 20 Nov 2026.
+Adnoir is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Frka, Bosnia-and-herzegovina on Fri, 20 Nov 2026.
 
 Adnoir is a techno and club artist based in Bosnia and Herzegovina, with 10 gigs on soundcheck across Belgrade, Bosnia And Herzegovina and Zagreb. Often billed alongside Nemesia, Balša and Dažbog. Next up: Frka, Bosnia And Herzegovina on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Adnoir is a techno and club artist based in Bosnia and Herzegovina, with 10 gigs
 
 Nemesia, Balša, Dažbog
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adnoir/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adnoir/)*

@@ -1,6 +1,6 @@
 # REDA
 
-REDA is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 14 Nov 2026.
+REDA is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 14 Nov 2026.
 
 REDA is a house and tech house artist based in Algeria, with 34 gigs on soundcheck across Barcelona, Krakow, Lausanne and London and 1 more. Often billed alongside Nadezh No, nuarrrrr and Badalian. Next up: Seaseaclub Barcelona, Barcelona on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ REDA is a house and tech house artist based in Algeria, with 34 gigs on soundche
 
 Nadezh No, nuarrrrr, Badalian
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reda/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reda/)*

@@ -1,6 +1,6 @@
 # Marvin Jupiter
 
-Marvin Jupiter is a Broken Beat and Jazz artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Colour Factory, London on Sat, 14 Nov 2026.
+Marvin Jupiter is a Broken Beat and Jazz artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Colour Factory, London on Sat, 14 Nov 2026.
 
 Marvin Jupiter is a broken beat and jazz artist based in United Kingdom, with 18 gigs on soundcheck across Leeds and London. Often billed alongside CasuallyClued, Juno and REO (UK). Next up: Colour Factory, London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Marvin Jupiter is a broken beat and jazz artist based in United Kingdom, with 18
 
 CasuallyClued, Juno (4), REO (UK)
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marvinjupiter/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marvinjupiter/)*

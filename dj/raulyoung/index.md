@@ -1,6 +1,6 @@
 # Raul Young
 
-Raul Young is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
+Raul Young is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
 
 Raul Young is a techno and tech house artist based in Hungary, with 18 gigs on soundcheck across Budapest, Prague and Vienna. Often billed alongside Dave Wincent, Hot X and Mateo & Spirit. Next up: Hungexpo Budapest, Budapest on Fri 13 Nov.
 
@@ -12,6 +12,7 @@ Raul Young is a techno and tech house artist based in Hungary, with 18 gigs on s
 
 ## Recently played
 
+- Hungexpo Budapest, Budapest · Fri, 13 Nov 2026
 - Fuchs2, Prague · Sat, 7 Nov 2026
 - Aether Club Budapest, Budapest · Fri, 14 Aug 2026
 - Aether Club Budapest, Budapest · Fri, 5 Dec 2025
@@ -19,10 +20,9 @@ Raul Young is a techno and tech house artist based in Hungary, with 18 gigs on s
 - Kassa Boat, Budapest · Sat, 27 Sept 2025
 - Das Werk, Vienna · Sat, 7 Jun 2025
 - Arzenal, Budapest · Fri, 21 Mar 2025
-- Jolly Roger Club, Vienna · Tue, 31 Dec 2024
 
 ## Shares bills with
 
 Dave Wincent, Hot X, Mateo & Spirit
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raulyoung/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raulyoung/)*

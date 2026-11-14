@@ -1,14 +1,13 @@
 # Sub Club
 
-Sub Club is a music venue in Glasgow with 29 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "RTM: Edit Select & Slam & KAAI" on Fri, 13 Nov 2026.
+Sub Club is a music venue in Glasgow with 28 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Subculture with Harri + Pancratio" on Sat, 14 Nov 2026.
 
-Sub Club is a music venue in Glasgow listed on soundcheck. 29 upcoming gigs, with line-ups including FLETCH, Alien Communications, Archie Hamilton and Ben Hemsley and 2 more. See dates, start times and who's playing. 22 Jamaica St; Glasgow, G1 4QD; Scotland; United Kingdom.
+Sub Club is a music venue in Glasgow listed on soundcheck. 28 upcoming gigs, with line-ups including FLETCH, Alien Communications, Archie Hamilton and Ben Hemsley and 2 more. See dates, start times and who's playing. 22 Jamaica St; Glasgow, G1 4QD; Scotland; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | RTM: Edit Select & Slam & KAAI | Edit-Select, KAAI, Slam |
 | Sat, 14 Nov 2026 | Subculture with Harri + Pancratio | DJ Harri, Pancratio |
 | Sun, 15 Nov 2026 | Nightvison Presents: Dart t& TJade | DART, Frankie Elyse, Tjade |
 | Thu, 19 Nov 2026 | FLY - DJ BORING & Sam Alfred | DJ BORING, Sam Alfred |
@@ -18,9 +17,10 @@ Sub Club is a music venue in Glasgow listed on soundcheck. 29 upcoming gigs, wit
 | Fri, 27 Nov 2026 | SENSU • Gene On Earth • Junior • Sub Club | Gene On Earth |
 | Sat, 28 Nov 2026 | Subculture w/ Domenic Cappello [All Night Long] | Domenic Cappello |
 | Sat, 28 Nov 2026 | FOREVER: The Exhibition by Indie Sleaze Forever (19:00-22:00) | SKYLERMYLER |
+| Fri, 4 Dec 2026 | Colours House Party Presents - Danny Tenaglia | Danny Tenaglia |
 
 ## Address
 
 22 Jamaica St; Glasgow, G1 4QD; Scotland; United Kingdom, Glasgow
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/sub-club/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/sub-club/)*

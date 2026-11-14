@@ -1,10 +1,10 @@
 # o.ä + eeliyx + Konrad Wehrmeister at Paloma
 
-o.ä + eeliyx + Konrad Wehrmeister at Paloma on Sat 14 Nov, Berlin. 2 artists: Konrad Wehrmeister and Tom Seidler. See the line-up on soundcheck.
+o.ä + eeliyx + Konrad Wehrmeister at Paloma on Sat 13 Mar, Berlin. 2 artists: Konrad Wehrmeister and Tom Seidler. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 14 Nov 2026 |
+| Date | Sat, 13 Mar 2027 |
 | Venue | Paloma |
 | City | Berlin |
 

@@ -1,6 +1,6 @@
 # Shkedul
 
-Shkedul is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Inner West Secret Location, Sydney on Fri, 27 Nov 2026.
+Shkedul is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Inner West Secret Location, Sydney on Fri, 27 Nov 2026.
 
 Shkedul is a techno and house artist based in Italy, with 34 gigs on soundcheck across Bangkok, Barcelona, Beijing and Belgrade and 18 more. Often billed alongside Enrico Vivaldi, Anthea and Ben Klock. Next up: TBA - Inner West Secret Location, Sydney on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Shkedul is a techno and house artist based in Italy, with 34 gigs on soundcheck 
 
 Enrico Vivaldi, Anthea, Ben Klock
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shkedul/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shkedul/)*

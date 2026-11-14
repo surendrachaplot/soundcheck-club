@@ -1,6 +1,6 @@
 # Joselito
 
-Joselito is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Sun, 13 Dec 2026.
+Joselito is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Sun, 13 Dec 2026.
 
 Joselito is a house and club artist based in Spain, with 13 gigs on soundcheck across Berlin, Ibiza and Madrid. Often billed alongside Pomboklap, Toni Maravillas and Animal Trainer. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sun 13 Dec.
 
@@ -25,4 +25,4 @@ Joselito is a house and club artist based in Spain, with 13 gigs on soundcheck a
 
 Pomboklap, Toni Maravillas, Animal Trainer
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joselito/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joselito/)*

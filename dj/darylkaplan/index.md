@@ -1,6 +1,6 @@
 # Daryl Kaplan
 
-Daryl Kaplan is a Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at DETROIT CLUB, Barcelona on Sun, 13 Dec 2026.
+Daryl Kaplan is a Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at DETROIT CLUB, Barcelona on Sun, 13 Dec 2026.
 
 Daryl Kaplan is a techno artist, with 6 gigs on soundcheck across Barcelona. Often billed alongside FDZ (ES), Adriano. and Ander Arce. Next up: DETROIT CLUB, Barcelona on Sun 13 Dec.
 
@@ -22,4 +22,4 @@ Daryl Kaplan is a techno artist, with 6 gigs on soundcheck across Barcelona. Oft
 
 FDZ (ES), Adriano., Ander Arce
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/darylkaplan/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/darylkaplan/)*

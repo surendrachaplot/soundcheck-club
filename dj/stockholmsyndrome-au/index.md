@@ -1,6 +1,6 @@
 # Stockholm Syndrome
 
-Stockholm Syndrome is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Revolver Upstairs, Melbourne on Wed, 18 Nov 2026.
+Stockholm Syndrome is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Revolver Upstairs, Melbourne on Wed, 18 Nov 2026.
 
 Stockholm Syndrome is a techno and house artist based in Australia, with 51 gigs on soundcheck across Berlin, Edinburgh, Madrid and Melbourne. Often billed alongside Mike Callander, Eric Stark and Traxion. Next up: Revolver Upstairs, Melbourne on Wed 18 Nov.
 
@@ -25,4 +25,4 @@ Stockholm Syndrome is a techno and house artist based in Australia, with 51 gigs
 
 Mike Callander, Eric Stark, Traxion
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stockholmsyndrome-au/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stockholmsyndrome-au/)*

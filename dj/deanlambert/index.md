@@ -1,6 +1,6 @@
 # Dean Lambert
 
-Dean Lambert is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Steel Yard, London on Thu, 31 Dec 2026.
+Dean Lambert is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at The Steel Yard, London on Thu, 31 Dec 2026.
 
 Dean Lambert is a house and tech house artist based in United Kingdom, with 8 gigs on soundcheck across London. Often billed alongside Dolly Rockers, Tenacious and Jonathan Ulysses. Next up: The Steel Yard, London on Thu 31 Dec.
 
@@ -24,4 +24,4 @@ Dean Lambert is a house and tech house artist based in United Kingdom, with 8 gi
 
 Dolly Rockers, Tenacious, Jonathan Ulysses
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deanlambert/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deanlambert/)*

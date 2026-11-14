@@ -1,8 +1,8 @@
 # History Of Beatrice
 
-History Of Beatrice is a electronic artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at KHIDI, Tbilisi on Sat, 14 Nov 2026.
+History Of Beatrice is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at KHIDI, Tbilisi on Sat, 14 Nov 2026.
 
-History Of Beatrice is an electronic artist, with 6 gigs on soundcheck across Tbilisi. Often billed alongside Comethisfar, Fukumachi and Jörg Lüttringhaus. Next up: KHIDI, Tbilisi on Sat 14 Nov.
+History Of Beatrice is an electronic artist based in Georgia, with 6 gigs on soundcheck across Tbilisi. Often billed alongside Comethisfar, Fukumachi and Jörg Lüttringhaus. Next up: KHIDI, Tbilisi on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -22,4 +22,4 @@ History Of Beatrice is an electronic artist, with 6 gigs on soundcheck across Tb
 
 Comethisfar, Fukumachi, Jörg Lüttringhaus
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/historyofbeatrice/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/historyofbeatrice/)*

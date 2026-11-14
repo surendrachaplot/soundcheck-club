@@ -1,15 +1,13 @@
 # Numm
 
-Numm is a music venue in Tokyo with 22 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Organize" on Fri, 13 Nov 2026.
+Numm is a music venue in Tokyo with 21 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "DIVUM" on Sat, 14 Nov 2026.
 
-Numm is a music venue in Tokyo listed on soundcheck. 22 upcoming gigs, with line-ups including 3rill, CHIDA, DAIY and Dazzle Drums and 2 more. See dates, start times and who's playing. B1F AiiA ANEX bld 2-9-13 Shibuya, Shibuya-ku, Tokyo-to 150-0002 Japan.
+Numm is a music venue in Tokyo listed on soundcheck. 21 upcoming gigs, with line-ups including 3rill, 5ive, CHIDA and DAIY and 2 more. See dates, start times and who's playing. B1F AiiA ANEX bld 2-9-13 Shibuya, Shibuya-ku, Tokyo-to 150-0002 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Organize | Dukwa, Manaha, Nari (2), kengotaki |
-| Fri, 13 Nov 2026 | Dukwa | Dukwa, Manaha, Nari (2), kengotaki |
 | Sat, 14 Nov 2026 | DIVUM |  |
 | Sat, 14 Nov 2026 | DIVUM |  |
 | Sat, 14 Nov 2026 | DOOPORA | Takuya Matsumoto |
@@ -18,9 +16,11 @@ Numm is a music venue in Tokyo listed on soundcheck. 22 upcoming gigs, with line
 | Tue, 17 Nov 2026 | Area Deep |  |
 | Wed, 18 Nov 2026 | Spin | 3rill, DAIY, Junki Akutagawa |
 | Thu, 19 Nov 2026 | 歓喜 | Sota Shimada |
+| Sat, 21 Nov 2026 | Parallel | 3rill, Keigo, Onométro, Terax, takumar |
+| Sun, 22 Nov 2026 | STAY FRIEND | Kentaro Takizawa |
 
 ## Address
 
 B1F AiiA ANEX bld 2-9-13 Shibuya, Shibuya-ku, Tokyo-to 150-0002 Japan, Tokyo
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/numm/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/numm/)*

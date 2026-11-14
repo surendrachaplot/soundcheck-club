@@ -1,6 +1,6 @@
 # Varo
 
-Varo is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Core, Madrid on Sat, 14 Nov 2026.
+Varo is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Core, Madrid on Sat, 14 Nov 2026.
 
 Varo is a techno and tech house artist, with 3 gigs on soundcheck across Madrid and Seoul. Often billed alongside Aster, GG and KATIA. Next up: Core, Madrid on Sat 14 Nov.
 
@@ -19,4 +19,4 @@ Varo is a techno and tech house artist, with 3 gigs on soundcheck across Madrid 
 
 Aster, GG (2), KATIA
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alvaromuñoz/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alvaromuñoz/)*

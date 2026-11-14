@@ -1,6 +1,6 @@
 # Squaric
 
-Squaric is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TANKclub, Bologna on Sat, 14 Nov 2026.
+Squaric is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TANKclub, Bologna on Sat, 14 Nov 2026.
 
 Squaric is a techno and experimental artist, with 105 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bologna and 16 more. Often billed alongside Atlantic Energy, Sender Berlin and Anri. Next up: TANKclub, Bologna on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Squaric is a techno and experimental artist, with 105 gigs on soundcheck across 
 
 Atlantic Energy, Sender Berlin, Anri
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/squaric/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/squaric/)*

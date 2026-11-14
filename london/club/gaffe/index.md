@@ -1,6 +1,6 @@
 # Gaffe
 
-Gaffe is a music venue in London with 9 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "FREEDIVE//005 W/Matthias,Yamour, Bunney & Josh Keit" on Fri, 13 Nov 2026.
+Gaffe is a music venue in London with 9 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "FREEDIVE//005 W/Matthias,Yamour, Bunney & Josh Keit" on Fri, 13 Nov 2026.
 
 Gaffe is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including 1morning, 3 Minds, Andrew James Gustav and Batu and 2 more. See dates, start times and who's playing. 1 Anthony Way, N18 3QT.
 
@@ -22,4 +22,4 @@ Gaffe is a music venue in London listed on soundcheck. 9 upcoming gigs, with lin
 
 1 Anthony Way, N18 3QT, London
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/gaffe/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/gaffe/)*

@@ -1,8 +1,8 @@
 # Step1
 
-Step1 is a Techno and Post-Punk artist with 24 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Czech, Leipzig on Sat, 14 Nov 2026.
+Step1 is a Techno and Post-Punk artist with 32 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Czech, Leipzig on Sat, 14 Nov 2026.
 
-Step1 is a techno and post-punk artist based in Georgia, with 25 gigs on soundcheck across Baltimore, Berlin, Birmingham and Bratislava and 15 more. Often billed alongside Balance, Cable and Is (AM). Next up: Czech, Leipzig on Sat 14 Nov.
+Step1 is a techno and post-punk artist based in Georgia, with 33 gigs on soundcheck across Atlanta, Baltimore, Berlin and Birmingham and 22 more. Often billed alongside Balance, Cable and Is (AM). Next up: Czech, Leipzig on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Step1 is a techno and post-punk artist based in Georgia, with 25 gigs on soundch
 
 Balance, Cable, Is (AM)
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/step1/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/step1/)*

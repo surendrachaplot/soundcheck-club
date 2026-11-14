@@ -1,6 +1,6 @@
 # Fuchs
 
-Fuchs is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Minimüzikhol, Istanbul on Fri, 20 Nov 2026.
+Fuchs is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Minimüzikhol, Istanbul on Fri, 20 Nov 2026.
 
 Fuchs is a house and techno artist based in Turkey, with 30 gigs on soundcheck across Berlin and Istanbul. Often billed alongside Subsky, Semih Akay and Yunus Guvenen. Next up: Minimüzikhol, Istanbul on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Fuchs is a house and techno artist based in Turkey, with 30 gigs on soundcheck a
 
 Subsky, Semih Akay, Yunus Guvenen
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fuchs/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fuchs/)*

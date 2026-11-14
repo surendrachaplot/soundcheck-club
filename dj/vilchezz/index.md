@@ -1,6 +1,6 @@
 # Vilchezz
 
-Vilchezz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Fabrik, Madrid on Sat, 5 Dec 2026.
+Vilchezz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Fabrik, Madrid on Sat, 5 Dec 2026.
 
 Vilchezz is a techno and house artist, with 47 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 12 more. Often billed alongside BENZA, Lobster (NL) and Grace Dahl. Next up: Fabrik, Madrid on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Vilchezz is a techno and house artist, with 47 gigs on soundcheck across Amsterd
 
 BENZA, Lobster (NL), Grace Dahl
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vilchezz/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vilchezz/)*

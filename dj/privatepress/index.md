@@ -1,6 +1,6 @@
 # Private Press
 
-Private Press is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Mastak, Warsaw on Sat, 21 Nov 2026.
+Private Press is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Mastak, Warsaw on Sat, 21 Nov 2026.
 
 Private Press is a techno and house artist based in Poland, with 30 gigs on soundcheck across Berlin, Krakow, New York City and Poland and 4 more. Often billed alongside MATRIX3K, Contakt (PL) and MKO (PL). Next up: Mastak, Warsaw on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ Private Press is a techno and house artist based in Poland, with 30 gigs on soun
 
 MATRIX3K, Contakt (PL), MKO (PL)
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/privatepress/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/privatepress/)*

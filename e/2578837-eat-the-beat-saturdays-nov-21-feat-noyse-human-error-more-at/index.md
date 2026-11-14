@@ -1,6 +1,6 @@
 # Eat The Beat Saturdays - Nov 21 feat. NOYSE, HUMAN ERROR & MORE at TBA - Il Mercato Centrale
 
-Eat The Beat Saturdays - Nov 21 feat. NOYSE, HUMAN ERROR & MORE at TBA - Il Mercato Centrale on Sat 21 Nov, Melbourne. 6 artists: HUMAN  ERROR, Jessy, Lash and Mateo Blanco and 2 more. Techno and Tech House. See the line-up on soundcheck.
+Eat The Beat Saturdays - Nov 21 feat. NOYSE, HUMAN ERROR & MORE at TBA - Il Mercato Centrale on Sat 21 Nov, Melbourne. 6 artists: HUMAN ERROR, Jessy, Lash and Mateo Blanco and 2 more. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ Eat The Beat Saturdays - Nov 21 feat. NOYSE, HUMAN ERROR & MORE at TBA - Il Merc
 
 ## Line-up
 
-- HUMAN  ERROR
+- HUMAN ERROR
 - Jessy
 - Lash
 - Mateo Blanco

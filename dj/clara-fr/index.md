@@ -1,6 +1,6 @@
 # CLARA (FR)
 
-CLARA (FR) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at L'anomalie, Paris on Sun, 29 Nov 2026.
+CLARA (FR) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at L'anomalie, Paris on Sun, 29 Nov 2026.
 
 CLARA (FR) is a techno and house artist based in France, with 19 gigs on soundcheck across Barcelona, Belgrade, Berlin and Bordeaux and 8 more. Often billed alongside Albin Brezlan, Basstronauten and Bonq. Next up: L'anomalie, Paris on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ CLARA (FR) is a techno and house artist based in France, with 19 gigs on soundch
 
 Albin Brezlan, Basstronauten, Bonq
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clara-fr/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clara-fr/)*

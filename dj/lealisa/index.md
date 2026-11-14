@@ -1,6 +1,6 @@
 # Lea Lisa
 
-Lea Lisa is a House and Electro artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Badaboum, Paris on Fri, 27 Nov 2026.
+Lea Lisa is a House and Electro artist with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Badaboum, Paris on Fri, 27 Nov 2026.
 
 Lea Lisa is a house and electro artist based in Switzerland, with 80 gigs on soundcheck across Amsterdam, Berlin, Bristol and Frankfurt and 18 more. Often billed alongside Nahomi, Elliot Schooling and Kerri Chandler. Next up: TBA - Badaboum, Paris on Fri 27 Nov.
 
@@ -28,4 +28,4 @@ Lea Lisa is a house and electro artist based in Switzerland, with 80 gigs on sou
 
 Nahomi, Elliot Schooling, Kerri Chandler
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lealisa/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lealisa/)*

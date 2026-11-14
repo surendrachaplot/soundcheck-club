@@ -1,6 +1,6 @@
 # Peter Eilmes
 
-Peter Eilmes is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Tanzhaus West, Frankfurt on Thu, 31 Dec 2026.
+Peter Eilmes is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Tanzhaus West, Frankfurt on Thu, 31 Dec 2026.
 
 Peter Eilmes is an electronic artist based in Germany, with 7 gigs on soundcheck across Frankfurt. Often billed alongside Drag & Drop, Frau Laura and Otis. Next up: Tanzhaus West, Frankfurt on Thu 31 Dec.
 
@@ -23,4 +23,4 @@ Peter Eilmes is an electronic artist based in Germany, with 7 gigs on soundcheck
 
 Drag & Drop, Frau Laura, Otis
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/petereilmes/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/petereilmes/)*

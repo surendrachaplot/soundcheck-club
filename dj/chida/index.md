@@ -1,6 +1,6 @@
 # CHIDA
 
-CHIDA is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at South Swell Cafe, Osaka on Sat, 21 Nov 2026.
+CHIDA is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at South Swell Cafe, Osaka on Sat, 21 Nov 2026.
 
 CHIDA is a house and techno artist based in Japan, with 213 gigs on soundcheck across Amsterdam, Beijing, Berlin and Bristol and 16 more. Often billed alongside YAMARCHY, FFAN and 5ive. Next up: South Swell Cafe, Osaka on Sat 21 Nov.
 
@@ -28,4 +28,4 @@ CHIDA is a house and techno artist based in Japan, with 213 gigs on soundcheck a
 
 YAMARCHY, FFAN, 5ive
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chida/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chida/)*

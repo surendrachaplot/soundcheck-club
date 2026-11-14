@@ -1,6 +1,6 @@
 # Bruno Schmidt
 
-Bruno Schmidt is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at La Vista, Mexico City on Wed, 11 Nov 2026.
+Bruno Schmidt is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at La Vista, Mexico City on Wed, 11 Nov 2026.
 
 Bruno Schmidt is a house and techno artist based in United Kingdom, with 159 gigs on soundcheck across Adelaide, Amsterdam, Austin and Bali and 45 more. Often billed alongside Andrew James Gustav, Morgan and Emsho. Next up: La Vista, Mexico City on Wed 11 Nov.
 
@@ -27,4 +27,4 @@ Bruno Schmidt is a house and techno artist based in United Kingdom, with 159 gig
 
 Andrew James Gustav, Morgan, Emsho
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brunoschmidt/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brunoschmidt/)*

@@ -1,6 +1,6 @@
 # Demuir
 
-Demuir is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Secret Grove, Portland on Fri, 27 Nov 2026.
+Demuir is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Secret Grove, Portland on Fri, 27 Nov 2026.
 
 Demuir is a house and deep house artist based in Canada, with 50 gigs on soundcheck across Atlanta, Auckland, Austin and Chicago and 12 more. Often billed alongside Boys Don't Disco, Ian Llorens and Paul Najera. Next up: Secret Grove, Portland on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Demuir is a house and deep house artist based in Canada, with 50 gigs on soundch
 
 Boys Don't Disco, Ian Llorens, Paul Najera
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/demuir/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/demuir/)*

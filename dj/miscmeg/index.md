@@ -1,6 +1,6 @@
 # Miscmeg
 
-Miscmeg is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Miscellania, Melbourne on Sun, 22 Nov 2026.
+Miscmeg is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Miscellania, Melbourne on Sun, 22 Nov 2026.
 
 Miscmeg is a tech house and techno artist, with 76 gigs on soundcheck across Berlin, Copenhagen, Helsinki and Melbourne and 2 more. Often billed alongside Reptant, Moopie and Paper-Cuts. Next up: Miscellania, Melbourne on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ Miscmeg is a tech house and techno artist, with 76 gigs on soundcheck across Ber
 
 Reptant, Moopie, Paper-Cuts
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miscmeg/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miscmeg/)*

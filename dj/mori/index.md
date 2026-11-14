@@ -1,6 +1,6 @@
 # Mori
 
-Mori is a Hip-Hop and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Park Hyatt, Shanghai on Thu, 31 Dec 2026.
+Mori is a Hip-Hop and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Park Hyatt, Shanghai on Thu, 31 Dec 2026.
 
 Mori is a hip-hop and house artist based in Germany, with 30 gigs on soundcheck across Frankfurt, London, Miami and Shanghai and 1 more. Often billed alongside DJ B2B, ATAMI and DA BOOK. Next up: Park Hyatt, Shanghai on Thu 31 Dec.
 
@@ -26,4 +26,4 @@ Mori is a hip-hop and house artist based in Germany, with 30 gigs on soundcheck 
 
 DJ B2B, ATAMI, DA BOOK
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mori/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mori/)*

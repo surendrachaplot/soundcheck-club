@@ -1,14 +1,13 @@
 # Teritorija
 
-Teritorija is a music venue in Riga with 6 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Cosmo Rave: Gravity" on Fri, 13 Nov 2026.
+Teritorija is a music venue in Riga with 5 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "KINKY RAVE w/ Lockhart (UK)" on Fri, 4 Dec 2026.
 
-Teritorija is a music venue in Riga listed on soundcheck. 6 upcoming gigs, with line-ups including ANASI, DENOVA, excels and Existal and 2 more. See dates, start times and who's playing. Krišjāņa Barona Street 136, Riga.
+Teritorija is a music venue in Riga listed on soundcheck. 5 upcoming gigs, with line-ups including ANASI, DENOVA, excels and Existal and 2 more. See dates, start times and who's playing. Krišjāņa Barona Street 136, Riga.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Cosmo Rave: Gravity |  |
 | Fri, 4 Dec 2026 | KINKY RAVE w/ Lockhart (UK) | Ksenia Kamikaza, LETRIX, Lockhart, Pulss, UZAY |
 | Fri, 11 Dec 2026 | Let's Do Techno X Scotish Base vol. 3 | ANASI, Existal, KOLE AUDRO, Kelvin, Kupris, LETRIX, Notwelcome, NØSARA, RAWKORED, Riposte, UZAY, zulfree |
 | Sat, 12 Dec 2026 | BASS SLAUGHTER: KRAMPUS RAVE - Night | DENOVA, Marex Kai, RAWKORED, XSYNC19, excels |
@@ -19,4 +18,4 @@ Teritorija is a music venue in Riga listed on soundcheck. 6 upcoming gigs, with 
 
 Krišjāņa Barona Street 136, Riga, Riga
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/riga/club/teritorija/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/riga/club/teritorija/)*

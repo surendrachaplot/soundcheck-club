@@ -1,6 +1,6 @@
 # Dublon
 
-Dublon is a House and Jazz artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at NT's Loft, London on Sat, 14 Nov 2026.
+Dublon is a House and Jazz artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at NT's Loft, London on Sat, 14 Nov 2026.
 
 Dublon is a house and jazz artist based in Denmark, with 39 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Copenhagen and 17 more. Often billed alongside Agathe Mougin, Amy Jor and Argia. Next up: NT's Loft, London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Dublon is a house and jazz artist based in Denmark, with 39 gigs on soundcheck a
 
 Agathe Mougin, Amy Jor, Argia
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dublon/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dublon/)*

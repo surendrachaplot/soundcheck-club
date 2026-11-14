@@ -1,6 +1,6 @@
 # Layton Giordani
 
-Layton Giordani is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
+Layton Giordani is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
 
 Layton Giordani is a techno and house artist based in United States of America, with 138 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 46 more. Often billed alongside Adam Beyer, John Summit and Green Velvet. Next up: The Concourse Project, Austin on Fri 13 Nov.
 
@@ -20,6 +20,7 @@ Layton Giordani is a techno and house artist based in United States of America, 
 
 ## Recently played
 
+- The Concourse Project, Austin · Fri, 13 Nov 2026
 - Factory Town, Miami · Fri, 30 Oct 2026
 - Lion Super Club, Seoul · Thu, 1 Oct 2026
 - Waterfront Park in San Diego, San Diego · Sat, 26 Sept 2026
@@ -27,10 +28,9 @@ Layton Giordani is a techno and house artist based in United States of America, 
 - Crobar - Buenos Aires, Buenos Aires · Fri, 18 Sept 2026
 - TBA, Toronto · Sat, 5 Sept 2026
 - The Soap Factory, San Diego · Sat, 15 Aug 2026
-- Max Bell Centre, Calgary · Sat, 1 Aug 2026
 
 ## Shares bills with
 
 Adam Beyer, John Summit, Green Velvet
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laytongiordani/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laytongiordani/)*

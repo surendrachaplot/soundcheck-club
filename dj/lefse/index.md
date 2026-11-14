@@ -1,6 +1,6 @@
 # LEFSE
 
-LEFSE is a Techno and Pop artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Collapse, Pittsburgh on Fri, 20 Nov 2026.
+LEFSE is a Techno and Pop artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Collapse, Pittsburgh on Fri, 20 Nov 2026.
 
 LEFSE is a techno and pop artist based in United States of America, with 18 gigs on soundcheck across Pittsburgh. Often billed alongside Lemonline, Formosa and moistbreezy. Next up: Collapse, Pittsburgh on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ LEFSE is a techno and pop artist based in United States of America, with 18 gigs
 
 Lemonline, Formosa (1), moistbreezy
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lefse/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lefse/)*

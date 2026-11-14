@@ -1,6 +1,6 @@
 # Mimi J
 
-Mimi J is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Chinese Laundry, Sydney on Fri, 27 Nov 2026.
+Mimi J is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Chinese Laundry, Sydney on Fri, 27 Nov 2026.
 
 Mimi J is a house and techno artist based in Australia, with 67 gigs on soundcheck across Sydney. Often billed alongside Bouki, Jacqui Cunningham and LEVOS. Next up: Chinese Laundry, Sydney on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Mimi J is a house and techno artist based in Australia, with 67 gigs on soundche
 
 Bouki, Jacqui Cunningham, LEVOS
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mimij/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mimij/)*

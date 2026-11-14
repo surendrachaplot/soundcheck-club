@@ -1,6 +1,6 @@
 # REGI D
 
-REGI D is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Musa da Bica, Lisbon on Fri, 20 Nov 2026.
+REGI D is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Musa da Bica, Lisbon on Fri, 20 Nov 2026.
 
 REGI D is a house and electro artist based in Portugal, with 14 gigs on soundcheck across Barcelona, Lisbon, Madrid and Porto. Often billed alongside Carlos Regadas, DÆVV and Let. Next up: Musa da Bica, Lisbon on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ REGI D is a house and electro artist based in Portugal, with 14 gigs on soundche
 
 Carlos Regadas, DÆVV, Let (3)
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/regid/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/regid/)*

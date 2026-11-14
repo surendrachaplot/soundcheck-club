@@ -1,6 +1,6 @@
 # Cathy Grogan
 
-Cathy Grogan is a House and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at dubble, Amsterdam on Sat, 21 Nov 2026.
+Cathy Grogan is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at dubble, Amsterdam on Sat, 21 Nov 2026.
 
 Cathy Grogan is a house and club artist based in Ireland, with 6 gigs on soundcheck across Amsterdam. Often billed alongside Benny2, BELLA (NL) and Boris Coelman. Next up: dubble, Amsterdam on Sat 21 Nov.
 
@@ -22,4 +22,4 @@ Cathy Grogan is a house and club artist based in Ireland, with 6 gigs on soundch
 
 Benny2, BELLA (NL), Boris Coelman
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cathygrogan/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cathygrogan/)*

@@ -1,6 +1,6 @@
 # FL!M
 
-FL!M is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Rachdingue, Barcelona on Sat, 14 Nov 2026.
+FL!M is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Rachdingue, Barcelona on Sat, 14 Nov 2026.
 
 FL!M is a techno and electro artist based in Thailand, with 16 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 2 more. Often billed alongside Doug Bass, Nuria Ghia and BLONDEX. Next up: Rachdingue, Barcelona on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ FL!M is a techno and electro artist based in Thailand, with 16 gigs on soundchec
 
 Doug Bass, Nuria Ghia, BLONDEX
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fl!m/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fl!m/)*

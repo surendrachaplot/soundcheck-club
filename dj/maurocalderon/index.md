@@ -1,6 +1,6 @@
 # Mauro Calderón
 
-Mauro Calderón is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at VVOSK RECORDS, Warsaw on Sat, 21 Nov 2026.
+Mauro Calderón is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at VVOSK RECORDS, Warsaw on Sat, 21 Nov 2026.
 
 Mauro Calderón is a house and minimal artist based in Colombia, with 22 gigs on soundcheck across Bogotá and Warsaw. Often billed alongside Canedo, Febe and Moscofly. Next up: VVOSK RECORDS, Warsaw on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Mauro Calderón is a house and minimal artist based in Colombia, with 22 gigs on
 
 Canedo, Febe, Moscofly
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maurocalderon/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maurocalderon/)*

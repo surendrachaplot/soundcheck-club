@@ -1,6 +1,6 @@
 # Maggy Smiss
 
-Maggy Smiss is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at La Java, Paris on Sat, 5 Dec 2026.
+Maggy Smiss is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at La Java, Paris on Sat, 5 Dec 2026.
 
 Maggy Smiss is a house and techno artist based in France, with 63 gigs on soundcheck across Berlin, Copenhagen, Edinburgh and Lyon and 2 more. Often billed alongside Crowd Control, Baka G and Denyl Brook. Next up: La Java, Paris on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Maggy Smiss is a house and techno artist based in France, with 63 gigs on soundc
 
 Crowd Control, Baka G, Denyl Brook
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maggysmiss/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maggysmiss/)*

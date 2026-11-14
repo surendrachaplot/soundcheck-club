@@ -1,6 +1,6 @@
 # NYXEA
 
-NYXEA is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Alte Fabrik, Greifswalder Str. 23A 10407, Berlin on Sat, 21 Nov 2026.
+NYXEA is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Alte Fabrik, Greifswalder Str. 23A 10407, Berlin on Sat, 21 Nov 2026.
 
 NYXEA is a techno and trance artist based in Germany, with 20 gigs on soundcheck across Berlin, Dortmund / Essen, Dresden and Düsseldorf. Often billed alongside Milchgeld, Texo and Daora. Next up: TBA - Alte Fabrik, Greifswalder Str. 23A 10407, Berlin on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ NYXEA is a techno and trance artist based in Germany, with 20 gigs on soundcheck
 
 Milchgeld, Texo, Daora
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nyxea/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nyxea/)*

@@ -1,6 +1,6 @@
 # Favela Events at Supperclub
 
-Favela Events at Supperclub on Fri 20 Nov, Amsterdam. See the line-up on soundcheck.
+Favela Events at Supperclub on Fri 20 Nov, Amsterdam. Baile Funk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

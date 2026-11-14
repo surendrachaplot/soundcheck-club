@@ -1,6 +1,6 @@
 # Paul Loraine
 
-Paul Loraine is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Macarena Club, Barcelona on Thu, 19 Nov 2026.
+Paul Loraine is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Macarena Club, Barcelona on Thu, 19 Nov 2026.
 
 Paul Loraine is a house and deep house artist based in United Kingdom, with 15 gigs on soundcheck across Barcelona, Ibiza and Manchester. Often billed alongside Ryan O Gorman, Funk D'Void and Francesco Mami. Next up: Macarena Club, Barcelona on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Paul Loraine is a house and deep house artist based in United Kingdom, with 15 g
 
 Ryan O Gorman, Funk D'Void, Francesco Mami
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paulloraine/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paulloraine/)*

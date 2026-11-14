@@ -1,6 +1,6 @@
 # The Groovejet
 
-The Groovejet is a House and Pop artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Madam, Amsterdam on Fri, 25 Dec 2026.
+The Groovejet is a House and Pop artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Madam, Amsterdam on Fri, 25 Dec 2026.
 
 The Groovejet is a house and pop artist based in Netherlands, with 9 gigs on soundcheck across Amsterdam. Often billed alongside Emma Champagne Queen, Kirilski and Aiscream. Next up: Madam, Amsterdam on Fri 25 Dec.
 
@@ -25,4 +25,4 @@ The Groovejet is a house and pop artist based in Netherlands, with 9 gigs on sou
 
 Emma Champagne Queen, Kirilski, Aiscream
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thegroovejet/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thegroovejet/)*

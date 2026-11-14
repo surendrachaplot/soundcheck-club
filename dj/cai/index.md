@@ -1,6 +1,6 @@
 # CAI
 
-CAI is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Heim Shanghai, Shanghai on Fri, 20 Nov 2026.
+CAI is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Heim Shanghai, Shanghai on Fri, 20 Nov 2026.
 
 CAI is a house and techno artist, with 5 gigs on soundcheck across Osaka and Shanghai. Often billed alongside Chouchou, George and LOMOROOM. Next up: Heim Shanghai, Shanghai on Fri 20 Nov.
 
@@ -21,4 +21,4 @@ CAI is a house and techno artist, with 5 gigs on soundcheck across Osaka and Sha
 
 Chouchou, George, LOMOROOM
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cai/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cai/)*

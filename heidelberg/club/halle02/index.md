@@ -1,14 +1,13 @@
 # halle02
 
-halle02 is a music venue in Heidelberg with 7 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Electrolegacy mit Dominik Eulberg" on Fri, 13 Nov 2026.
+halle02 is a music venue in Heidelberg with 6 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "In Control: Heidelberg Allstars" on Thu, 19 Nov 2026.
 
-halle02 is a music venue in Heidelberg listed on soundcheck. 7 upcoming gigs, with line-ups including DeGuzman, DJ Achim Feuervogel, Dominik Eulberg and Felix Kröcher and 2 more. See dates, start times and who's playing. Zollhofgarten 2, 69115 Heidelberg.
+halle02 is a music venue in Heidelberg listed on soundcheck. 6 upcoming gigs, with line-ups including DeGuzman, DJ Achim Feuervogel, Felix Kröcher and Feydh Rotan and 2 more. See dates, start times and who's playing. Zollhofgarten 2, 69115 Heidelberg.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Electrolegacy mit Dominik Eulberg | Dominik Eulberg, Feydh Rotan, Labohr |
 | Thu, 19 Nov 2026 | In Control: Heidelberg Allstars |  |
 | Sat, 21 Nov 2026 | ELECTRIC HORIZON INDOOR | DJ Achim Feuervogel, DeGuzman, In Verruf, Paraçek, S!LA |
 | Sat, 28 Nov 2026 | Liquicity Heidelberg 2026 | Fox Stevenson, Grafix, Lexurus, Technimatic |
@@ -20,4 +19,4 @@ halle02 is a music venue in Heidelberg listed on soundcheck. 7 upcoming gigs, wi
 
 Zollhofgarten 2, 69115 Heidelberg, Heidelberg
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/heidelberg/club/halle02/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/heidelberg/club/halle02/)*

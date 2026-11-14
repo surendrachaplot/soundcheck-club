@@ -1,6 +1,6 @@
 # Kino Siska
 
-Kino Siska is a music venue in Ljubljana with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "RAVE ON x endemit" on Sat, 21 Nov 2026.
+Kino Siska is a music venue in Ljubljana with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "RAVE ON x endemit" on Sat, 21 Nov 2026.
 
 Kino Siska is a music venue in Ljubljana listed on soundcheck. 2 upcoming gigs, with line-ups including Abdullah Miniawy, Ed Davenport, Efdemin and Kikelomo and 2 more. See dates, start times and who's playing. Trg Prekomorskih brigad 3, 1000 Ljubljana.
 
@@ -15,4 +15,4 @@ Kino Siska is a music venue in Ljubljana listed on soundcheck. 2 upcoming gigs, 
 
 Trg Prekomorskih brigad 3, 1000 Ljubljana, Ljubljana
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/ljubljana/club/kino-siska/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/ljubljana/club/kino-siska/)*

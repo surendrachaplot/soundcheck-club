@@ -1,6 +1,6 @@
 # alalwa
 
-alalwa is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Muller Bar, Madrid on Sat, 14 Nov 2026.
+alalwa is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Muller Bar, Madrid on Sat, 14 Nov 2026.
 
 alalwa is a disco and house artist based in Argentina, with 6 gigs on soundcheck across Madrid. Often billed alongside Kamboya, ISAAC ARGA and Javier de la Vega. Next up: Muller Bar, Madrid on Sat 14 Nov.
 
@@ -22,4 +22,4 @@ alalwa is a disco and house artist based in Argentina, with 6 gigs on soundcheck
 
 Kamboya, ISAAC ARGA, Javier de la Vega
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alalwa/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alalwa/)*

@@ -1,6 +1,6 @@
 # Wharf Chambers
 
-Wharf Chambers is a music venue in Leeds with 6 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Betsy Croot" on Fri, 20 Nov 2026.
+Wharf Chambers is a music venue in Leeds with 6 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Betsy Croot - GRAND OPENING" on Fri, 20 Nov 2026.
 
 Wharf Chambers is a music venue in Leeds listed on soundcheck. 6 upcoming gigs, with line-ups including 2QUID, Ben Vince, Gary Gwadera and MYOHMY and 1 more. See dates, start times and who's playing. 23-25 Wharf Street, Leeds, LS2 7EQ, United Kingdom.
 
@@ -8,7 +8,7 @@ Wharf Chambers is a music venue in Leeds listed on soundcheck. 6 upcoming gigs, 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Betsy Croot |  |
+| Fri, 20 Nov 2026 | Betsy Croot - GRAND OPENING |  |
 | Sat, 21 Nov 2026 | Wash At Wharf Chambers |  |
 | Sat, 28 Nov 2026 | Friends + Neighbours | Ben Vince, Gary Gwadera |
 | Fri, 4 Dec 2026 | Locked In presents Coco Dubz with Cunning MC, Froidy + more |  |
@@ -19,4 +19,4 @@ Wharf Chambers is a music venue in Leeds listed on soundcheck. 6 upcoming gigs, 
 
 23-25 Wharf Street, Leeds, LS2 7EQ, United Kingdom, Leeds
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/wharf-chambers/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/wharf-chambers/)*

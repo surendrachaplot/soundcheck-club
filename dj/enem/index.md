@@ -1,6 +1,6 @@
 # enem
 
-enem is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 10 Dec 2026.
+enem is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 10 Dec 2026.
 
 enem is a house and techno artist based in Argentina, with 40 gigs on soundcheck across Barcelona, Buenos Aires, Ibiza and Madrid and 1 more. Often billed alongside Aleski, Mariano Cima and Chino Latino. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ enem is a house and techno artist based in Argentina, with 40 gigs on soundcheck
 
 Aleski, Mariano Cima, Chino Latino
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enem/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enem/)*

@@ -1,14 +1,13 @@
 # BENZA
 
-BENZA is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Astoria, Turin on Fri, 13 Nov 2026.
+BENZA is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at AMT, Berlin on Sat, 21 Nov 2026.
 
-BENZA is a techno and house artist based in Spain, with 77 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Chicago and 20 more. Often billed alongside Vilchezz, JKS and Lobster (NL). Next up: Astoria, Turin on Fri 13 Nov.
+BENZA is a techno and house artist based in Spain, with 77 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Chicago and 20 more. Often billed alongside Vilchezz, JKS and Lobster (NL). Next up: AMT, Berlin on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Astoria | Turin |
 | Sat, 21 Nov 2026 | AMT | Berlin |
 | Sat, 5 Dec 2026 | Fabrik | Madrid |
 | Sat, 26 Dec 2026 | KREUZWERK | Berlin |
@@ -16,6 +15,7 @@ BENZA is a techno and house artist based in Spain, with 77 gigs on soundcheck ac
 
 ## Recently played
 
+- Astoria, Turin · Fri, 13 Nov 2026
 - RSO.BERLIN, Berlin · Sat, 7 Nov 2026
 - RSO.BERLIN, Berlin · Sat, 7 Nov 2026
 - Smoke & Mirrors, Chicago · Sat, 31 Oct 2026
@@ -23,10 +23,9 @@ BENZA is a techno and house artist based in Spain, with 77 gigs on soundcheck ac
 - nachbar, Amsterdam · Thu, 22 Oct 2026
 - Specka, Madrid · Fri, 18 Sept 2026
 - Lowkey Seoul, Seoul · Fri, 11 Sept 2026
-- Wigwam, Dublin · Sat, 5 Sept 2026
 
 ## Shares bills with
 
 Vilchezz, JKS, Lobster (NL)
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benza/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benza/)*

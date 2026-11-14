@@ -1,6 +1,6 @@
 # Hunny
 
-Hunny is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Treefort Music Hall, Idaho on Wed, 31 Mar 2027.
+Hunny is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Treefort Music Hall, Idaho on Wed, 31 Mar 2027.
 
 Hunny is a techno and deep house artist based in South Korea, with 8 gigs on soundcheck across Idaho, Seoul and Tokyo. Often billed alongside Minehero, BEATTEKNIKS and BULLY. Next up: Treefort Music Hall, Idaho on Wed 31 Mar.
 
@@ -24,4 +24,4 @@ Hunny is a techno and deep house artist based in South Korea, with 8 gigs on sou
 
 Minehero, BEATTEKNIKS, BULLY
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hunny/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hunny/)*

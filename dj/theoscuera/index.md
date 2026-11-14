@@ -1,6 +1,6 @@
 # Theo Scuera
 
-Theo Scuera is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Secret Location, Rome on Sat, 14 Nov 2026.
+Theo Scuera is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Secret Location, Rome on Sat, 14 Nov 2026.
 
 Theo Scuera is an electronic artist based in France, with 12 gigs on soundcheck across Copenhagen, Paris, Rome and Stockholm. Often billed alongside BAKR, Full Sentimental and A.Litique. Next up: TBA - Secret Location, Rome on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Theo Scuera is an electronic artist based in France, with 12 gigs on soundcheck 
 
 BAKR, Full Sentimental, A.Litique
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theoscuera/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theoscuera/)*

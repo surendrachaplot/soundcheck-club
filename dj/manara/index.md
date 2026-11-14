@@ -1,6 +1,6 @@
 # Manara
 
-Manara is a Bass and Broken Beat artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Bourse de Commerce — Pinault Collection, Paris on Fri, 4 Dec 2026.
+Manara is a Bass and Broken Beat artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Bourse de Commerce — Pinault Collection, Paris on Fri, 4 Dec 2026.
 
 Manara is a bass and broken beat artist based in Brazil, with 5 gigs on soundcheck across London, Madrid and Paris. Often billed alongside A.Wild, Acid Sally and Alien Communications. Next up: Bourse de Commerce — Pinault Collection, Paris on Fri 4 Dec.
 
@@ -21,4 +21,4 @@ Manara is a bass and broken beat artist based in Brazil, with 5 gigs on soundche
 
 A.Wild, Acid Sally, Alien Communications
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manara/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manara/)*

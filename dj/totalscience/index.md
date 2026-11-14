@@ -1,6 +1,6 @@
 # Total Science
 
-Total Science is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Phonox, London on Sat, 23 Jan 2027.
+Total Science is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Phonox, London on Sat, 23 Jan 2027.
 
 Total Science is a drum & bass and jungle artist based in United Kingdom, with 34 gigs on soundcheck across Amsterdam, Barcelona, Bogotá and Brighton and 10 more. Often billed alongside Loxy, Break and Bryan Gee. Next up: Phonox, London on Sat 23 Jan.
 
@@ -25,4 +25,4 @@ Total Science is a drum & bass and jungle artist based in United Kingdom, with 3
 
 Loxy, Break, Bryan Gee
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/totalscience/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/totalscience/)*

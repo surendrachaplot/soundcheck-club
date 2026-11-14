@@ -1,6 +1,6 @@
 # Saniter
 
-Saniter is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Daddy’S all day bar, Athens on Sat, 14 Nov 2026.
+Saniter is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Daddy’S all day bar, Athens on Sat, 14 Nov 2026.
 
 Saniter is a techno and trance artist based in Greece, with 44 gigs on soundcheck across Athens and New York City. Often billed alongside Saniter & Theremin, JERM and Linkshand. Next up: Daddy’S all day bar, Athens on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Saniter is a techno and trance artist based in Greece, with 44 gigs on soundchec
 
 Saniter & Theremin, JERM, Linkshand
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saniter/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saniter/)*

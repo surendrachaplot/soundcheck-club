@@ -1,6 +1,6 @@
 # Ginger
 
-Ginger is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Fauno Bar, Guadalajara on Sat, 21 Nov 2026.
+Ginger is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Fauno Bar, Guadalajara on Sat, 21 Nov 2026.
 
 Ginger is a techno and house artist based in Mexico, with 21 gigs on soundcheck across Frankfurt, Guadalajara, Malmo and Medellin and 3 more. Often billed alongside Zion, Minish and Candelaria. Next up: Fauno Bar, Guadalajara on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Ginger is a techno and house artist based in Mexico, with 21 gigs on soundcheck 
 
 Zion, Minish, Candelaria
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ginger/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ginger/)*

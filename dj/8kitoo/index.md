@@ -1,6 +1,6 @@
 # 8kitoo
 
-8kitoo is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Parc de la Gran Via de Hospitalet, Barcelona on Sat, 14 Nov 2026.
+8kitoo is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Parc de la Gran Via de Hospitalet, Barcelona on Sat, 14 Nov 2026.
 
 8kitoo is a techno and electronica artist based in Spain, with 32 gigs on soundcheck across Barcelona, Berlin, Madrid and Valencia. Often billed alongside Chico Blanco, acidheaven and JOVENDELAPERLA. Next up: TBA - Parc de la Gran Via de Hospitalet, Barcelona on Sat 14 Nov.
 
@@ -25,4 +25,4 @@
 
 Chico Blanco, acidheaven, JOVENDELAPERLA
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/8kitoo/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/8kitoo/)*

@@ -1,6 +1,6 @@
 # Anna Kasyan
 
-Anna Kasyan is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at ://about blank, Berlin on Fri, 4 Dec 2026.
+Anna Kasyan is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at ://about blank, Berlin on Fri, 4 Dec 2026.
 
 Anna Kasyan is a techno and house artist based in Ukraine, with 14 gigs on soundcheck across Berlin. Often billed alongside Lifka, Sciarada and The Brvtalist. Next up: ://about blank, Berlin on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Anna Kasyan is a techno and house artist based in Ukraine, with 14 gigs on sound
 
 Lifka, Sciarada, The Brvtalist
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annakasyan/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annakasyan/)*

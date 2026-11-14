@@ -1,6 +1,6 @@
 # Yodo Groove (Yodobashi Ikebukuro)
 
-Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Tokyo Rooftop Party at YODO GROOVE | Steven Soji Wright (LA) – SKY MUSIC JOURNEY" on Sun, 15 Nov 2026.
+Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo with 5 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Tokyo Rooftop Party at YODO GROOVE | Steven Soji Wright (LA) – SKY MUSIC JOURNEY" on Sun, 15 Nov 2026.
 
 Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo listed on soundcheck. 5 upcoming gigs, with line-ups including ANZU, ATT, DJ Emma and DJ SAWA and 2 more. See dates, start times and who's playing. Yodobashi HD Bldg., 1-28-1 Minamiikebukuro, Toshima-ku, Tokyo 171-8569, Japan.
 
@@ -18,4 +18,4 @@ Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo listed on soundcheck
 
 Yodobashi HD Bldg., 1-28-1 Minamiikebukuro, Toshima-ku, Tokyo 171-8569, Japan, Tokyo
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/yodo-groove-yodobashi-ikebukuro/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/yodo-groove-yodobashi-ikebukuro/)*

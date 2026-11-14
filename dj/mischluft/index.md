@@ -1,6 +1,6 @@
 # Mischluft
 
-Mischluft is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Maassilo, Rotterdam on Sat, 14 Nov 2026.
+Mischluft is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Maassilo, Rotterdam on Sat, 14 Nov 2026.
 
 Mischluft is a techno and trance artist based in Germany, with 227 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 67 more. Often billed alongside Bad Boombox, Janis Zielinski and Ollie Lishman. Next up: Maassilo, Rotterdam on Sat 14 Nov.
 
@@ -28,4 +28,4 @@ Mischluft is a techno and trance artist based in Germany, with 227 gigs on sound
 
 Bad Boombox, Janis Zielinski, Ollie Lishman
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mischluft/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mischluft/)*

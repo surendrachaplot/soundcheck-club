@@ -1,6 +1,6 @@
 # bvtlr
 
-bvtlr is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Hoxton Cabin, London on Sat, 21 Nov 2026.
+bvtlr is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Hoxton Cabin, London on Sat, 21 Nov 2026.
 
 bvtlr is a minimal and house artist based in New Zealand, with 6 gigs on soundcheck across London. Often billed alongside Sincerely Simon, Ethan Ming and Corners. Next up: Hoxton Cabin, London on Sat 21 Nov.
 
@@ -22,4 +22,4 @@ bvtlr is a minimal and house artist based in New Zealand, with 6 gigs on soundch
 
 Sincerely Simon, Ethan Ming, Corners
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bvtlr/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bvtlr/)*

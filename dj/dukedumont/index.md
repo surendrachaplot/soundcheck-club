@@ -1,6 +1,6 @@
 # Duke Dumont
 
-Duke Dumont is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Sektor 6D, Warsaw on Sat, 14 Nov 2026.
+Duke Dumont is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Sektor 6D, Warsaw on Sat, 14 Nov 2026.
 
 Duke Dumont is a house and tech house artist based in United Kingdom, with 37 gigs on soundcheck across Austin, Belfast, Boston and Cardiff and 21 more. Often billed alongside Eli & Fur, Lane 8 and Wax Motif. Next up: Sektor 6D, Warsaw on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Duke Dumont is a house and tech house artist based in United Kingdom, with 37 gi
 
 Eli & Fur, Lane 8, Wax Motif
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dukedumont/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dukedumont/)*

@@ -1,13 +1,13 @@
 # Gatsby Hall
 
-Gatsby Hall is a music venue in Prague with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. The next is "Masquerade Dating - BIG EDITION Official Pre-Party [80% SOLD OUT]" on Thu, 5 Nov 2026.
+Gatsby Hall is a music venue in Prague with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. The next is "Sex-Positive Party // COUPLES & GIRLS SPECIAL EDITION  [85% SOLD OUT]" on Sat, 14 Nov 2026.
 
-Gatsby Hall is a music venue in Prague listed on soundcheck. 1 upcoming gig, with line-ups including SAVBEA. See dates, start times and who's playing.
+Gatsby Hall is a music venue in Prague listed on soundcheck. 1 upcoming gig, with line-ups including Riki Boro. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | Masquerade Dating - BIG EDITION Official Pre-Party [80% SOLD OUT] | SAVBEA |
+| Sat, 14 Nov 2026 | Sex-Positive Party // COUPLES & GIRLS SPECIAL EDITION  [85% SOLD OUT] | Riki Boro |
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/gatsby-hall/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/gatsby-hall/)*

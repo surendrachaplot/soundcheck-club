@@ -1,6 +1,6 @@
 # Ivy F
 
-Ivy F is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at radial, London on Sun, 15 Nov 2026.
+Ivy F is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at radial, London on Sun, 15 Nov 2026.
 
 Ivy F is a house and techno artist based in United Kingdom, with 13 gigs on soundcheck across Amsterdam, London and Manchester. Often billed alongside LO-LOW, Oliver Scala and teleopath. Next up: radial, London on Sun 15 Nov.
 
@@ -26,4 +26,4 @@ Ivy F is a house and techno artist based in United Kingdom, with 13 gigs on soun
 
 LO-LOW, Oliver Scala, teleopath
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ivyf/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ivyf/)*

@@ -1,6 +1,6 @@
 # Daniel Bell
 
-Daniel Bell is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Secret Location, New York City on Fri, 20 Nov 2026.
+Daniel Bell is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Secret Location, New York City on Fri, 20 Nov 2026.
 
 Daniel Bell is a techno and house artist based in United States of America, with 110 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 33 more. Often billed alongside Erika, BMG and Mike Servito. Next up: TBA - Secret Location, New York City on Fri 20 Nov.
 
@@ -28,4 +28,4 @@ Daniel Bell is a techno and house artist based in United States of America, with
 
 Erika, BMG, Mike Servito
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielbell/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielbell/)*

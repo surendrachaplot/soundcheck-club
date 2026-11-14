@@ -1,6 +1,6 @@
 # Relaxer
 
-Relaxer is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Warehouse Loft , Philadelphia on Sat, 14 Nov 2026.
+Relaxer is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Warehouse Loft , Philadelphia on Sat, 14 Nov 2026.
 
 Relaxer is a techno and experimental artist, with 68 gigs on soundcheck across Chicago, Krakow, Los Angeles and Montreal and 8 more. Often billed alongside aka-Sol, Kilbourne and Baby Leo. Next up: TBA - Warehouse Loft , Philadelphia on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Relaxer is a techno and experimental artist, with 68 gigs on soundcheck across C
 
 aka-Sol, Kilbourne, Baby Leo
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/relaxer/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/relaxer/)*

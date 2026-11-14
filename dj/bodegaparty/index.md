@@ -1,6 +1,6 @@
 # Bodegaparty
 
-Bodegaparty is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TRANSMISSION DC, Washington DC on Fri, 27 Nov 2026.
+Bodegaparty is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TRANSMISSION DC, Washington DC on Fri, 27 Nov 2026.
 
 Bodegaparty is a club and techno artist based in United States of America, with 93 gigs on soundcheck across Los Angeles, Montreal, New York City and Toronto and 1 more. Often billed alongside purp, jo_sway and Tromac. Next up: TRANSMISSION DC, Washington DC on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Bodegaparty is a club and techno artist based in United States of America, with 
 
 purp, jo_sway, Tromac
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bodegaparty/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bodegaparty/)*

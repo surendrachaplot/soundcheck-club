@@ -1,6 +1,6 @@
 # Airali
 
-Airali is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Bossa Nova Civic Club, New York City on Sat, 14 Nov 2026.
+Airali is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Bossa Nova Civic Club, New York City on Sat, 14 Nov 2026.
 
 Airali is a techno and experimental artist based in Italy, with 30 gigs on soundcheck across Glasgow, London, New York City and Portland and 1 more. Often billed alongside Ikävä Pii, Aepricity and Ariane V. Next up: Bossa Nova Civic Club, New York City on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Airali is a techno and experimental artist based in Italy, with 30 gigs on sound
 
 Ikävä Pii, Aepricity, Ariane V
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/airali/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/airali/)*

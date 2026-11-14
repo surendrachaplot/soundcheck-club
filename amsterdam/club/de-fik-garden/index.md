@@ -1,6 +1,6 @@
 # De Fik Garden
 
-De Fik Garden is a music venue in Amsterdam with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "OBERHAUM IN DE FIK" on Thu, 26 Nov 2026.
+De Fik Garden is a music venue in Amsterdam with 5 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "OBERHAUM IN DE FIK" on Thu, 26 Nov 2026.
 
 De Fik Garden is a music venue in Amsterdam listed on soundcheck. 5 upcoming gigs, with line-ups including 3daywknd, WON (NL), Bianchetti and Cobahn and 2 more. See dates, start times and who's playing. Sportparklaan 19, 1062 ZA Amsterdam, The Netherlands.
 
@@ -18,4 +18,4 @@ De Fik Garden is a music venue in Amsterdam listed on soundcheck. 5 upcoming gig
 
 Sportparklaan 19, 1062 ZA Amsterdam, The Netherlands, Amsterdam
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/de-fik-garden/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/de-fik-garden/)*

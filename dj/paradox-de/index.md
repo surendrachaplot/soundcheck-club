@@ -1,6 +1,6 @@
 # PARA|DØX
 
-PARA|DØX is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - SECRET PORTAL WAREHOUSE RAVE, Berlin on Sat, 20 Mar 2027.
+PARA|DØX is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - SECRET PORTAL WAREHOUSE RAVE, Berlin on Sat, 20 Mar 2027.
 
 PARA|DØX is a techno and industrial artist based in Germany, with 15 gigs on soundcheck across Berlin and Hannover. Often billed alongside KOWOLSKI, Soul to Mind and Mansist. Next up: TBA - SECRET PORTAL WAREHOUSE RAVE, Berlin on Sat 20 Mar.
 
@@ -25,4 +25,4 @@ PARA|DØX is a techno and industrial artist based in Germany, with 15 gigs on so
 
 KOWOLSKI, Soul to Mind, Mansist
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paradox-de/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paradox-de/)*

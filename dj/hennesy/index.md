@@ -1,6 +1,6 @@
 # HENNESY
 
-HENNESY is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Helios37, Cologne on Sat, 30 Jan 2027.
+HENNESY is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Helios37, Cologne on Sat, 30 Jan 2027.
 
 HENNESY is a techno and trance artist based in Germany, with 13 gigs on soundcheck across Cologne. Often billed alongside SPEEDO, Pamela Rave and Sasuma. Next up: Helios37, Cologne on Sat 30 Jan.
 
@@ -25,4 +25,4 @@ HENNESY is a techno and trance artist based in Germany, with 13 gigs on soundche
 
 SPEEDO (2), Pamela Rave, Sasuma
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hennesy/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hennesy/)*

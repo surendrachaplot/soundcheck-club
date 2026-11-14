@@ -1,6 +1,6 @@
 # DJ Slugo
 
-DJ Slugo is a Ghetto Tech and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Radius, Chicago on Sat, 26 Dec 2026.
+DJ Slugo is a Ghetto Tech and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Radius, Chicago on Sat, 26 Dec 2026.
 
 DJ Slugo is a ghetto tech and house artist based in United States of America, with 82 gigs on soundcheck across Amsterdam, Atlanta, Bogotá and Boston and 20 more. Often billed alongside Traxman, DJ Clent and DJ Godfather. Next up: Radius, Chicago on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ DJ Slugo is a ghetto tech and house artist based in United States of America, wi
 
 Traxman, DJ Clent, DJ Godfather
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djslugo/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djslugo/)*

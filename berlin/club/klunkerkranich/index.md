@@ -1,6 +1,6 @@
 # Klunkerkranich
 
-Klunkerkranich is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "WUZA x KRANICH w. Lotte Ahoi, Raphael Hofman, b4to, Mike Moran, Sexy Against Borders, rrrr" on Sat, 14 Nov 2026.
+Klunkerkranich is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "WUZA x KRANICH w. Lotte Ahoi, Raphael Hofman, b4to, Mike Moran, Sexy Against Borders, rrrr" on Sat, 14 Nov 2026.
 
 Klunkerkranich is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including Amnati, Ben Derris, Hannelore and Hotline Bikadi and 2 more. See dates, start times and who's playing. Karl-Marx-Straße 66, 12043 Berlin.
 
@@ -16,4 +16,4 @@ Klunkerkranich is a music venue in Berlin listed on soundcheck. 3 upcoming gigs,
 
 Karl-Marx-Straße 66, 12043 Berlin, Berlin
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/klunkerkranich/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/klunkerkranich/)*

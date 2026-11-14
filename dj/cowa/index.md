@@ -1,6 +1,6 @@
 # Cowa
 
-Cowa is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Bastet, Philadelphia on Sat, 21 Nov 2026.
+Cowa is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Bastet, Philadelphia on Sat, 21 Nov 2026.
 
 Cowa is a house and club artist based in United States of America, with 16 gigs on soundcheck across Philadelphia and Washington DC. Often billed alongside Big Queso, tj groover and Qino. Next up: Bastet, Philadelphia on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Cowa is a house and club artist based in United States of America, with 16 gigs 
 
 Big Queso, tj groover, Qino
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cowa/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cowa/)*

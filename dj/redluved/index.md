@@ -1,6 +1,6 @@
 # Redluved
 
-Redluved is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Macadam, Nantes on Sun, 17 Jan 2027.
+Redluved is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Macadam, Nantes on Sun, 17 Jan 2027.
 
 Redluved is a techno and trance artist based in France, with 6 gigs on soundcheck across Nantes. Often billed alongside Youl, ANNX and Blue Hour. Next up: Macadam, Nantes on Sun 17 Jan.
 
@@ -22,4 +22,4 @@ Redluved is a techno and trance artist based in France, with 6 gigs on soundchec
 
 Youl, ANNX, Blue Hour
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/redluved/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/redluved/)*

@@ -1,6 +1,6 @@
 # Porcelain
 
-Porcelain is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Matakanarama Festival Site, Auckland on Tue, 29 Dec 2026.
+Porcelain is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Matakanarama Festival Site, Auckland on Tue, 29 Dec 2026.
 
 Porcelain is a techno and breakbeat artist based in New Zealand, with 7 gigs on soundcheck across Auckland, Christchurch and Sydney. Often billed alongside CLOVA, ANABE and AROHA. Next up: Matakanarama Festival Site, Auckland on Tue 29 Dec.
 
@@ -23,4 +23,4 @@ Porcelain is a techno and breakbeat artist based in New Zealand, with 7 gigs on 
 
 CLOVA, ANABE, AROHA
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/porcelain/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/porcelain/)*

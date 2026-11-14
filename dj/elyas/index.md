@@ -1,6 +1,6 @@
 # Elyas
 
-Elyas is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - SECRET WAREHOUSE, Berlin on Sat, 12 Dec 2026.
+Elyas is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - SECRET WAREHOUSE, Berlin on Sat, 12 Dec 2026.
 
 Elyas is a techno and house artist based in France, with 8 gigs on soundcheck across Berlin, Geneva, Lyon and Marseille and 1 more. Often billed alongside Avni Leka, A.Silentio and Alys LF. Next up: TBA - SECRET WAREHOUSE, Berlin on Sat 12 Dec.
 
@@ -24,4 +24,4 @@ Elyas is a techno and house artist based in France, with 8 gigs on soundcheck ac
 
 Avni Leka, A.Silentio, Alys LF
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elyas/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elyas/)*

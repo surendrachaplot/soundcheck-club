@@ -1,6 +1,6 @@
 # Nikita Zabelin
 
-Nikita Zabelin is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Fabula, Rest-of-russia on Sat, 5 Dec 2026.
+Nikita Zabelin is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Fabula, Rest-of-russia on Sat, 5 Dec 2026.
 
 Nikita Zabelin is a techno and electronica artist based in Russia, with 17 gigs on soundcheck across Bali, Beijing, Chongqing and Hong Kong and 6 more. Often billed alongside Ivan Kyrov, .upDXyl and Abelle. Next up: TBA - Fabula, Rest Of Russia on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Nikita Zabelin is a techno and electronica artist based in Russia, with 17 gigs 
 
 Ivan Kyrov, .upDXyl, Abelle
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nikitazabelin/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nikitazabelin/)*

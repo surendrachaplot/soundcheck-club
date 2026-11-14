@@ -1,6 +1,6 @@
 # Cougar (PL)
 
-Cougar (PL) is a Afro House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Sektor 6D, Warsaw on Sat, 14 Nov 2026.
+Cougar (PL) is a Afro House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Sektor 6D, Warsaw on Sat, 14 Nov 2026.
 
 Cougar (PL) is an afro house and tech house artist based in Poland, with 11 gigs on soundcheck across Warsaw. Often billed alongside NuCasa, Sosia and Adelix. Next up: Sektor 6D, Warsaw on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Cougar (PL) is an afro house and tech house artist based in Poland, with 11 gigs
 
 NuCasa, Sosia, Adelix
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cougarpl/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cougarpl/)*

@@ -1,14 +1,13 @@
 # Dominik Eulberg
 
-Dominik Eulberg is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at halle02, Heidelberg on Fri, 13 Nov 2026.
+Dominik Eulberg is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at fi, Cologne on Sat, 21 Nov 2026.
 
-Dominik Eulberg is a techno and house artist based in Germany, with 104 gigs on soundcheck across Amsterdam, Basel, Berlin and Cape Town and 20 more. Often billed alongside Prismode, Super Flu and Jonathan Kaspar. Next up: halle02, Heidelberg on Fri 13 Nov.
+Dominik Eulberg is a techno and house artist based in Germany, with 104 gigs on soundcheck across Amsterdam, Basel, Berlin and Cape Town and 20 more. Often billed alongside Prismode, Super Flu and Jonathan Kaspar. Next up: fi, Cologne on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | halle02 | Heidelberg |
 | Sat, 21 Nov 2026 | fi | Cologne |
 | Fri, 27 Nov 2026 | Adam Riese | Frankfurt |
 | Sat, 12 Dec 2026 | Club Paula | Dresden |
@@ -17,6 +16,7 @@ Dominik Eulberg is a techno and house artist based in Germany, with 104 gigs on 
 
 ## Recently played
 
+- halle02, Heidelberg · Fri, 13 Nov 2026
 - Centralstation, Darmstadt · Fri, 30 Oct 2026
 - Arthouse Le Paris, Zurich · Wed, 28 Oct 2026
 - Kompass Klub, Ghent · Sat, 17 Oct 2026
@@ -24,10 +24,9 @@ Dominik Eulberg is a techno and house artist based in Germany, with 104 gigs on 
 - Odonien, Cologne · Sat, 26 Sept 2026
 - Klangtherapie, Nürnberg · Thu, 6 Aug 2026
 - Fridas Pier, Stuttgart · Sat, 1 Aug 2026
-- Arsenaal Site, Ghent · Sun, 26 Jul 2026
 
 ## Shares bills with
 
 Prismode, Super Flu, Jonathan Kaspar
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dominikeulberg/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dominikeulberg/)*

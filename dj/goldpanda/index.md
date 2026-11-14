@@ -1,6 +1,6 @@
 # Gold Panda
 
-Gold Panda is a Electronica and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The White Hotel, Manchester on Sat, 14 Nov 2026.
+Gold Panda is a Electronica and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at The White Hotel, Manchester on Sat, 14 Nov 2026.
 
 Gold Panda is an electronica and house artist based in United Kingdom, with 26 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Birmingham and 18 more. Often billed alongside Nathan Fake, Baba Ali and 1-800 GIRLS. Next up: The White Hotel, Manchester on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Gold Panda is an electronica and house artist based in United Kingdom, with 26 g
 
 Nathan Fake, Baba Ali, 1-800 GIRLS
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/goldpanda/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/goldpanda/)*

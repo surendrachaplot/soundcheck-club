@@ -1,14 +1,13 @@
 # Beste Hira
 
-Beste Hira is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at INPUT High Fidelity Dance Club, Barcelona on Fri, 13 Nov 2026.
+Beste Hira is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 14 Nov 2026.
 
-Beste Hira is a techno and house artist based in Netherlands, with 200 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Freddy K, Rødhåd and Lobster (NL). Next up: INPUT High Fidelity Dance Club, Barcelona on Fri 13 Nov.
+Beste Hira is a techno and house artist based in Netherlands, with 200 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Freddy K, Rødhåd and Lobster (NL). Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | INPUT High Fidelity Dance Club | Barcelona |
 | Sat, 14 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 14 Nov 2026 | Lofi | Amsterdam |
 | Fri, 20 Nov 2026 | Rote Sonne | Munich |
@@ -18,6 +17,7 @@ Beste Hira is a techno and house artist based in Netherlands, with 200 gigs on s
 
 ## Recently played
 
+- INPUT High Fidelity Dance Club, Barcelona · Fri, 13 Nov 2026
 - Virage, Paris · Sat, 7 Nov 2026
 - Tokonoma Club, Frankfurt · Fri, 6 Nov 2026
 - Dockland, Münster · Sat, 31 Oct 2026
@@ -25,10 +25,9 @@ Beste Hira is a techno and house artist based in Netherlands, with 200 gigs on s
 - Sugarfactory, Amsterdam · Sat, 24 Oct 2026
 - RADION, Amsterdam · Thu, 22 Oct 2026
 - THE OTHER SIDE, Amsterdam · Thu, 22 Oct 2026
-- Oma Doris, Dortmund / Essen · Sat, 10 Oct 2026
 
 ## Shares bills with
 
 Freddy K, Rødhåd, Lobster (NL)
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bestehira/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bestehira/)*

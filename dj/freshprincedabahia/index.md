@@ -1,6 +1,6 @@
 # FRESHPRINCEDABAHIA
 
-FRESHPRINCEDABAHIA is a Baile Funk and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Village Canindé, Sao Paulo on Sat, 14 Nov 2026.
+FRESHPRINCEDABAHIA is a Baile Funk and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Village Canindé, Sao Paulo on Sat, 14 Nov 2026.
 
 FRESHPRINCEDABAHIA is a baile funk and house artist based in Brazil, with 20 gigs on soundcheck across Barcelona, Berlin, Leipzig and Lisbon and 4 more. Often billed alongside Batekoo, Mirands and Rafa Balera. Next up: Village Canindé, Sao Paulo on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ FRESHPRINCEDABAHIA is a baile funk and house artist based in Brazil, with 20 gig
 
 Batekoo, Mirands, Rafa Balera
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/freshprincedabahia/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/freshprincedabahia/)*

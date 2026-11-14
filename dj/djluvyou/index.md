@@ -1,14 +1,13 @@
 # DJ Luv You
 
-DJ Luv You is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Abbotsford Convent, Melbourne on Sat, 14 Nov 2026.
+DJ Luv You is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
 
-DJ Luv You is a house and progressive house artist based in Australia, with 97 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 18 more. Often billed alongside Hannah D, Tina Disco and Baby G. Next up: Abbotsford Convent, Melbourne on Sat 14 Nov.
+DJ Luv You is a house and progressive house artist based in Australia, with 97 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 18 more. Often billed alongside Hannah D, Tina Disco and Baby G. Next up: Lardner Park, Melbourne on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Abbotsford Convent | Melbourne |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 
 ## Recently played
@@ -26,4 +25,4 @@ DJ Luv You is a house and progressive house artist based in Australia, with 97 g
 
 Hannah D, Tina Disco, Baby G
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djluvyou/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djluvyou/)*

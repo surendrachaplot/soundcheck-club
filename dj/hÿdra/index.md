@@ -1,6 +1,6 @@
 # hÿdra
 
-hÿdra is a Techno and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Igloofest, Montreal on Sat, 6 Feb 2027.
+hÿdra is a Techno and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Igloofest, Montreal on Sat, 6 Feb 2027.
 
 hÿdra is a techno and ghetto tech artist based in Canada, with 27 gigs on soundcheck across Montreal and Tallinn. Often billed alongside nastygloss, Casa Kobrae and Katamina. Next up: Igloofest, Montreal on Sat 6 Feb.
 
@@ -25,4 +25,4 @@ hÿdra is a techno and ghetto tech artist based in Canada, with 27 gigs on sound
 
 nastygloss, Casa Kobrae, Katamina
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hÿdra/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hÿdra/)*

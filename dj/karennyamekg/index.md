@@ -1,6 +1,6 @@
 # Karen Nyame KG
 
-Karen Nyame KG is a House and Amapiano artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Stinsen, Stockholm on Fri, 27 Nov 2026.
+Karen Nyame KG is a House and Amapiano artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Stinsen, Stockholm on Fri, 27 Nov 2026.
 
 Karen Nyame KG is a house and amapiano artist based in United Kingdom, with 69 gigs on soundcheck across Amsterdam, Berlin, Brussels and Dublin and 15 more. Often billed alongside Fiyahdred, Ikonika and AYAYA. Next up: Stinsen, Stockholm on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Karen Nyame KG is a house and amapiano artist based in United Kingdom, with 69 g
 
 Fiyahdred, Ikonika, AYAYA
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karennyamekg/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karennyamekg/)*

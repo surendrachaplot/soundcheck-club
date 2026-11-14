@@ -1,15 +1,13 @@
 # Forestlimit
 
-Forestlimit is a music venue in Tokyo with 22 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "entundra" on Fri, 13 Nov 2026.
+Forestlimit is a music venue in Tokyo with 20 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "fLASHBAx 21" on Sat, 14 Nov 2026.
 
-Forestlimit is a music venue in Tokyo listed on soundcheck. 22 upcoming gigs, with line-ups including 478, AKIRAM EN, anolis and Ayato and 2 more. See dates, start times and who's playing. 2-8-15 B15 Hatagaya K3 Building, Shibuya-ku Hatagaya, Tokyo.
+Forestlimit is a music venue in Tokyo listed on soundcheck. 20 upcoming gigs, with line-ups including 478, AKIRAM EN, Ayato and Azrel and 2 more. See dates, start times and who's playing. 2-8-15 B15 Hatagaya K3 Building, Shibuya-ku Hatagaya, Tokyo.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | entundra | Mitch Elliott, YUKO ARAKI, mlosims |
-| Fri, 13 Nov 2026 | PHANTASY BREAK 東京 | File Explorer, HALU(Tribal Connection), MEGURO, Yurushite Nyan, anolis |
 | Sat, 14 Nov 2026 | fLASHBAx 21 | DJ MEMAI, Oshi |
 | Sun, 15 Nov 2026 | RewindFlash RED TOUR IN TOKYO |  |
 | Tue, 17 Nov 2026 | Clara de Asís & Vittoria Assembri |  |
@@ -18,9 +16,11 @@ Forestlimit is a music venue in Tokyo listed on soundcheck. 22 upcoming gigs, wi
 | Fri, 20 Nov 2026 | TYO GQOM 8th Anniversary | D[NOWHERE]J, HW BINGO, K8 (TYO GQOM), mitokon |
 | Sat, 21 Nov 2026 | 'Rumble#50' | Yoshitaka Shirakura |
 | Sat, 21 Nov 2026 | 'うまれっぱなし!' vol.0 | Yuima Enya |
+| Sun, 22 Nov 2026 | amtra000.1 | Azrel |
+| Mon, 23 Nov 2026 | 挿入都市 | CVN (1), E.O.U, woopheadclrms |
 
 ## Address
 
 2-8-15 B15 Hatagaya K3 Building, Shibuya-ku Hatagaya, Tokyo, Tokyo
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/forestlimit/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/forestlimit/)*

@@ -1,6 +1,6 @@
 # DeGuzman
 
-DeGuzman is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at halle02, Heidelberg on Sat, 21 Nov 2026.
+DeGuzman is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at halle02, Heidelberg on Sat, 21 Nov 2026.
 
 DeGuzman is a techno and trance artist based in Germany, with 140 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 19 more. Often billed alongside The Belgian Stallion, Paranormila and SANDRA ROMINA. Next up: halle02, Heidelberg on Sat 21 Nov.
 
@@ -28,4 +28,4 @@ DeGuzman is a techno and trance artist based in Germany, with 140 gigs on soundc
 
 The Belgian Stallion, Paranormila, SANDRA ROMINA
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deguzman/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deguzman/)*

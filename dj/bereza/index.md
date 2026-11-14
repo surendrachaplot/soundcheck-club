@@ -1,6 +1,6 @@
 # BEREZA
 
-BEREZA is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Drugstore Beograd, Belgrade on Fri, 4 Dec 2026.
+BEREZA is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Drugstore Beograd, Belgrade on Fri, 4 Dec 2026.
 
 BEREZA is a techno and breakbeat artist based in Serbia, with 7 gigs on soundcheck across Belgrade and Istanbul. Often billed alongside VLKN, Essio and AM Hi. Next up: Drugstore Beograd, Belgrade on Fri 4 Dec.
 
@@ -23,4 +23,4 @@ BEREZA is a techno and breakbeat artist based in Serbia, with 7 gigs on soundche
 
 VLKN, Essio, AM Hi
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bereza/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bereza/)*

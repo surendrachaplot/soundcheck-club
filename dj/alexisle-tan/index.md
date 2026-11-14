@@ -1,6 +1,6 @@
 # Alexis Le-Tan
 
-Alexis Le-Tan is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Le Poisson Volant, Paris on Thu, 19 Nov 2026.
+Alexis Le-Tan is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Le Poisson Volant, Paris on Thu, 19 Nov 2026.
 
 Alexis Le-Tan is a techno and acid artist based in France, with 26 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 12 more. Often billed alongside Joakim, Alicia Carrera and DJ Sundae. Next up: Le Poisson Volant, Paris on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Alexis Le-Tan is a techno and acid artist based in France, with 26 gigs on sound
 
 Joakim, Alicia Carrera, DJ Sundae
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexisle-tan/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexisle-tan/)*

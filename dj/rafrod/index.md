@@ -1,6 +1,6 @@
 # Raf & Rod
 
-Raf & Rod is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 28 Nov 2026.
+Raf & Rod is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 28 Nov 2026.
 
 Raf & Rod are a house and techno duo based in Brazil, with 50 gigs on soundcheck across Barcelona, Berlin, Ibiza and Madrid and 1 more. Often billed alongside Omar M, XipNoize and Sampol. Next up: Seaseaclub Barcelona, Barcelona on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Raf & Rod are a house and techno duo based in Brazil, with 50 gigs on soundcheck
 
 Omar M, XipNoize, Sampol
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rafrod/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rafrod/)*

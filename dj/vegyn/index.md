@@ -1,6 +1,6 @@
 # Vegyn
 
-Vegyn is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Outset, Chicago on Fri, 20 Nov 2026.
+Vegyn is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Outset, Chicago on Fri, 20 Nov 2026.
 
 Vegyn is a house and electronica artist based in United Kingdom, with 72 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Bali and 27 more. Often billed alongside AMR*, Skin On Skin and amr*. Next up: Outset, Chicago on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Vegyn is a house and electronica artist based in United Kingdom, with 72 gigs on
 
 AMR*, Skin On Skin, amr* (2)
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vegyn/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vegyn/)*

@@ -1,6 +1,6 @@
 # YoungLolo
 
-YoungLolo is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Casa Rosada, Bogotá on Sat, 28 Nov 2026.
+YoungLolo is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Casa Rosada, Bogotá on Sat, 28 Nov 2026.
 
 YoungLolo is a techno and trance artist based in Colombia, with 7 gigs on soundcheck across Barcelona, Berlin and Bogotá. Often billed alongside Apei, DJ KINNER and Nihl. Next up: Casa Rosada, Bogotá on Sat 28 Nov.
 
@@ -23,4 +23,4 @@ YoungLolo is a techno and trance artist based in Colombia, with 7 gigs on soundc
 
 Apei, DJ KINNER, Nihl
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/younglolo/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/younglolo/)*

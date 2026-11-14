@@ -1,6 +1,6 @@
 # MIYAMORO
 
-MIYAMORO is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Document, Bristol on Sat, 19 Dec 2026.
+MIYAMORO is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Document, Bristol on Sat, 19 Dec 2026.
 
 MIYAMORO is a drum & bass and dubstep artist based in United Kingdom, with 7 gigs on soundcheck across Brighton, Bristol, London and Manchester and 1 more. Often billed alongside Vispera, Acolyte and Bad Bitch Dubz. Next up: Document, Bristol on Sat 19 Dec.
 
@@ -23,4 +23,4 @@ MIYAMORO is a drum & bass and dubstep artist based in United Kingdom, with 7 gig
 
 Vispera, Acolyte, Bad Bitch Dubz
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miyamoro/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miyamoro/)*

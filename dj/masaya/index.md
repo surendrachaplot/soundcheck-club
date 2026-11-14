@@ -1,6 +1,6 @@
 # Masaya
 
-Masaya is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at HVEN, Tokyo on Sat, 12 Dec 2026.
+Masaya is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at HVEN, Tokyo on Sat, 12 Dec 2026.
 
 Masaya is a house and techno artist based in Switzerland, with 14 gigs on soundcheck across Geneva, Lausanne and Tokyo. Often billed alongside Luca Mascolo, Nicolas Duvoisin and Adolpho & Franky. Next up: HVEN, Tokyo on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Masaya is a house and techno artist based in Switzerland, with 14 gigs on soundc
 
 Luca Mascolo, Nicolas Duvoisin, Adolpho & Franky
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/masaya/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/masaya/)*

@@ -1,6 +1,6 @@
 # Malaii.exe
 
-Malaii.exe is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Dual, Bangkok on Fri, 27 Nov 2026.
+Malaii.exe is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Dual, Bangkok on Fri, 27 Nov 2026.
 
 Malaii.exe is a techno and industrial artist based in Thailand, with 7 gigs on soundcheck across Bangkok. Often billed alongside DJ Sweed, MAYTAE and Marmosets. Next up: Dual, Bangkok on Fri 27 Nov.
 
@@ -23,4 +23,4 @@ Malaii.exe is a techno and industrial artist based in Thailand, with 7 gigs on s
 
 DJ Sweed, MAYTAE, Marmosets
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/malaii.exe/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/malaii.exe/)*

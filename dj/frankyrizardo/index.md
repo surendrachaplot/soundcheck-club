@@ -1,25 +1,26 @@
 # Franky Rizardo
 
-Franky Rizardo is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Pandora Sevilla, South on Fri, 13 Nov 2026.
+Franky Rizardo is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Expo Santa Fe, Mexico City on Fri, 20 Nov 2026.
 
-Franky Rizardo is a house and tech house artist based in Netherlands, with 268 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 57 more. Often billed alongside Marco Carola, East End Dubs and Mason Collective. Next up: Pandora Sevilla, South on Fri 13 Nov.
+Franky Rizardo is a house and tech house artist based in Netherlands, with 269 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 57 more. Often billed alongside Marco Carola, East End Dubs and Mason Collective. Next up: Expo Santa Fe, Mexico City on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Pandora Sevilla | South |
 | Fri, 20 Nov 2026 | Expo Santa Fe | Mexico City |
 | Fri, 20 Nov 2026 | Duggal Greenhouse | New York City |
 | Fri, 27 Nov 2026 | Stereo | Montreal |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
 | Thu, 3 Dec 2026 | The Concourse Project | Austin |
+| Fri, 4 Dec 2026 | TBA - CASA NEOS | Miami |
 | Mon, 28 Dec 2026 | Blackstone Street Warehouse | Liverpool |
 | Wed, 17 Mar 2027 | Happy Bay Beach | Saint-martin |
 
 ## Recently played
 
+- Pandora Sevilla, South · Fri, 13 Nov 2026
 - Tinker Field, Orlando · Fri, 6 Nov 2026
 - Factory Town, Miami · Fri, 30 Oct 2026
 - Gold Bar Hangar, California · Fri, 30 Oct 2026
@@ -27,10 +28,9 @@ Franky Rizardo is a house and tech house artist based in Netherlands, with 268 g
 - GASHOUDER, Amsterdam · Sat, 24 Oct 2026
 - The Loft Amsterdam, Amsterdam · Sat, 24 Oct 2026
 - A'DAM Toren, Amsterdam · Wed, 21 Oct 2026
-- Mana Wynwood, Miami · Fri, 16 Oct 2026
 
 ## Shares bills with
 
 Marco Carola, East End Dubs, Mason Collective
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frankyrizardo/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frankyrizardo/)*

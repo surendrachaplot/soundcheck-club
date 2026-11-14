@@ -1,6 +1,6 @@
 # Euphonique
 
-Euphonique is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Clock Factory, Bristol on Fri, 20 Nov 2026.
+Euphonique is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at The Clock Factory, Bristol on Fri, 20 Nov 2026.
 
 Euphonique is a drum & bass and jungle artist based in United Kingdom, with 35 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Bristol and 12 more. Often billed alongside DJ SS, Aries and Chimpo. Next up: The Clock Factory, Bristol on Fri 20 Nov.
 
@@ -28,4 +28,4 @@ Euphonique is a drum & bass and jungle artist based in United Kingdom, with 35 g
 
 DJ SS, Aries, Chimpo
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/euphonique/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/euphonique/)*

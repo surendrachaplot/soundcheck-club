@@ -1,6 +1,6 @@
 # Kat (BE)
 
-Kat (BE) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at C12, Brussels on Sat, 5 Dec 2026.
+Kat (BE) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at C12, Brussels on Sat, 5 Dec 2026.
 
 Kat (BE) is a techno and trance artist based in Belgium, with 11 gigs on soundcheck across Brussels and Ghent. Often billed alongside Nemea6, Hysope and ALI3N. Next up: C12, Brussels on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Kat (BE) is a techno and trance artist based in Belgium, with 11 gigs on soundch
 
 Nemea6, Hysope, ALI3N
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kat-12/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kat-12/)*

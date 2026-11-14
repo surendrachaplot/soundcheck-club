@@ -1,6 +1,6 @@
 # Kim Bruun
 
-Kim Bruun is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Ziegrastraße 11, Berlin on Sun, 15 Nov 2026.
+Kim Bruun is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Ziegrastraße 11, Berlin on Sun, 15 Nov 2026.
 
 Kim Bruun is a house and acid artist based in Germany, with 9 gigs on soundcheck across Berlin. Often billed alongside The Burrell Connection, Furz and Soliad. Next up: Ziegrastraße 11, Berlin on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Kim Bruun is a house and acid artist based in Germany, with 9 gigs on soundcheck
 
 The Burrell Connection, Furz, Soliad
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kimbruun/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kimbruun/)*

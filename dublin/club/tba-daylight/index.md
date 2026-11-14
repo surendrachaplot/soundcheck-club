@@ -1,6 +1,6 @@
 # TBA - Daylight
 
-TBA - Daylight is a music venue in Dublin with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "Stretch presents: Mercorn All Night Long" on Fri, 11 Dec 2026.
+TBA - Daylight is a music venue in Dublin with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. The next is "Stretch presents: Mercorn All Night Long" on Fri, 11 Dec 2026.
 
 TBA - Daylight is a music venue in Dublin listed on soundcheck. 1 upcoming gig, with line-ups including Mercorn. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Daylight is a music venue in Dublin listed on soundcheck. 1 upcoming gig, 
 | --- | --- | --- |
 | Fri, 11 Dec 2026 | Stretch presents: Mercorn All Night Long | Mercorn |
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/tba-daylight/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/tba-daylight/)*

@@ -1,14 +1,13 @@
 # The Midway
 
-The Midway is a music venue in San Francisco/Oakland with 10 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Valentino Khan" on Fri, 13 Nov 2026.
+The Midway is a music venue in San Francisco/Oakland with 9 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Give Until Gone presents: Neumonic" on Sat, 14 Nov 2026.
 
-The Midway is a music venue in San Francisco/Oakland listed on soundcheck. 10 upcoming gigs, with line-ups including anamē, Chrissy Please, cstr and Decibel and 2 more. See dates, start times and who's playing. 900 Marin Street, San Francisco, CA 94124.
+The Midway is a music venue in San Francisco/Oakland listed on soundcheck. 9 upcoming gigs, with line-ups including anamē, Chrissy Please, cstr and Decibel and 2 more. See dates, start times and who's playing. 900 Marin Street, San Francisco, CA 94124.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Valentino Khan |  |
 | Sat, 14 Nov 2026 | Give Until Gone presents: Neumonic | Neumonic, That Franco, Tripleset, cstr |
 | Fri, 20 Nov 2026 | Hans Glader | That Franco |
 | Fri, 20 Nov 2026 | James Hype |  |
@@ -23,4 +22,4 @@ The Midway is a music venue in San Francisco/Oakland listed on soundcheck. 10 up
 
 900 Marin Street, San Francisco, CA 94124, San Francisco/Oakland
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-midway/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-midway/)*

@@ -1,6 +1,6 @@
 # DJ Senc
 
-DJ Senc is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Club Guesthouse, Bucharest on Sat, 14 Nov 2026.
+DJ Senc is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Club Guesthouse, Bucharest on Sat, 14 Nov 2026.
 
 DJ Senc is a house and tech house artist based in Italy, with 143 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 30 more. Often billed alongside Samuel Deep, Doudou MD and E.LINA. Next up: Club Guesthouse, Bucharest on Sat 14 Nov.
 
@@ -29,4 +29,4 @@ DJ Senc is a house and tech house artist based in Italy, with 143 gigs on soundc
 
 Samuel Deep, Doudou MD, E.LINA
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsenc/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsenc/)*

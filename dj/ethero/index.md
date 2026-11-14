@@ -1,18 +1,18 @@
 # ( ether o )
 
-( ether o ) is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at BABY01, Berlin on Fri, 13 Nov 2026.
+( ether o ) is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Zemin Art Gallery, Berlin on Thu, 10 Dec 2026.
 
-( ether o ) is a techno and experimental artist based in Taiwan, with 8 gigs on soundcheck across Berlin. Often billed alongside Andrea Burelli, Andrea D'Arsié and Andriy K.. Next up: BABY01, Berlin on Fri 13 Nov.
+( ether o ) is a techno and experimental artist based in Taiwan, with 8 gigs on soundcheck across Berlin. Often billed alongside Andrea Burelli, Andrea D'Arsié and Andriy K.. Next up: Zemin Art Gallery, Berlin on Thu 10 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | BABY01 | Berlin |
 | Thu, 10 Dec 2026 | Zemin Art Gallery | Berlin |
 
 ## Recently played
 
+- BABY01, Berlin · Fri, 13 Nov 2026
 - migas, a listening bar, Berlin · Wed, 18 Mar 2026
 - 90mil, Berlin · Sat, 18 Oct 2025
 - Kater, Berlin · Fri, 17 Oct 2025
@@ -24,4 +24,4 @@
 
 Andrea Burelli, Andrea D'Arsié, Andriy K.
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ethero/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ethero/)*

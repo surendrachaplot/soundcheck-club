@@ -1,6 +1,6 @@
 # Philip Goyette
 
-Philip Goyette is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Flash, Washington DC on Sat, 12 Dec 2026.
+Philip Goyette is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Flash, Washington DC on Sat, 12 Dec 2026.
 
 Philip Goyette is a house and deep house artist based in United States of America, with 30 gigs on soundcheck across Istanbul and Washington DC. Often billed alongside Edo, KayLaSoul and Aaron Sparks. Next up: Flash, Washington DC on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Philip Goyette is a house and deep house artist based in United States of Americ
 
 Edo, KayLaSoul, Aaron Sparks
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/philipgoyette/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/philipgoyette/)*

@@ -1,6 +1,6 @@
 # Elena Barker
 
-Elena Barker is a Techno and Dub artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - LFO, Madrid on Sat, 5 Dec 2026.
+Elena Barker is a Techno and Dub artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - LFO, Madrid on Sat, 5 Dec 2026.
 
 Elena Barker is a techno and dub artist based in Spain, with 22 gigs on soundcheck across Barcelona, Berlin, Madrid and Seoul. Often billed alongside beltranz, Christian AB and DISTORT (ES). Next up: TBA - LFO, Madrid on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Elena Barker is a techno and dub artist based in Spain, with 22 gigs on soundche
 
 beltranz, Christian AB, DISTORT (ES)
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elenabarker/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elenabarker/)*

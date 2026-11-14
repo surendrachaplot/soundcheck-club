@@ -1,6 +1,6 @@
 # Occibel
 
-Occibel is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Lanificio 159, Rome on Sat, 14 Nov 2026.
+Occibel is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Lanificio 159, Rome on Sat, 14 Nov 2026.
 
 Occibel is a house and electro artist based in France, with 76 gigs on soundcheck across Amsterdam, Athens, Atlanta and Bangkok and 22 more. Often billed alongside Vitess, HearThug and IAMBP. Next up: Lanificio 159, Rome on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Occibel is a house and electro artist based in France, with 76 gigs on soundchec
 
 Vitess, HearThug, IAMBP
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/occibel/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/occibel/)*

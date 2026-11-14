@@ -1,6 +1,6 @@
 # Dr4kken
 
-Dr4kken is a Hardcore and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Ghent (multi-venue), Ghent on Fri, 27 Nov 2026.
+Dr4kken is a Hardcore and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Ghent (multi-venue), Ghent on Fri, 27 Nov 2026.
 
 Dr4kken is a hardcore and trance artist based in France, with 21 gigs on soundcheck across Barcelona, Beijing, Berlin and Birmingham and 15 more. Often billed alongside hainafromchina, .upDXyl and AMIRA. Next up: TBA - Ghent (multi-venue), Ghent on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Dr4kken is a hardcore and trance artist based in France, with 21 gigs on soundch
 
 hainafromchina, .upDXyl, AMIRA
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dr4kken/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dr4kken/)*

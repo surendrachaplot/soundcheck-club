@@ -1,6 +1,6 @@
 # una (1)
 
-una (1) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Post Bar, Helsinki on Fri, 27 Nov 2026.
+una (1) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Post Bar, Helsinki on Fri, 27 Nov 2026.
 
 una is a techno and trance artist based in Finland, with 13 gigs on soundcheck across Finland and Helsinki. Often billed alongside Denzel, Emma Valtonen and MFM (FI). Next up: Post Bar, Helsinki on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ una is a techno and trance artist based in Finland, with 13 gigs on soundcheck a
 
 Denzel, Emma Valtonen, MFM (FI)
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/una-1/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/una-1/)*

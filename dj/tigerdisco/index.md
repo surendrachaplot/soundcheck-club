@@ -1,6 +1,6 @@
 # tigerdisco
 
-tigerdisco is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Void Club, Berlin on Sat, 21 Nov 2026.
+tigerdisco is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Void Club, Berlin on Sat, 21 Nov 2026.
 
 tigerdisco is a disco and house artist based in Germany, with 25 gigs on soundcheck across Berlin, Brussels, Seoul and Tokyo and 1 more. Often billed alongside Daniel Wang, AAguilAA and Baxa. Next up: Void Club, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ tigerdisco is a disco and house artist based in Germany, with 25 gigs on soundch
 
 Daniel Wang, AAguilAA, Baxa
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tigerdisco/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tigerdisco/)*

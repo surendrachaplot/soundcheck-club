@@ -1,6 +1,6 @@
 # Charms
 
-Charms is a Bass and Dub artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Miscellania, Melbourne on Sat, 14 Nov 2026.
+Charms is a Bass and Dub artist with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Miscellania, Melbourne on Sat, 14 Nov 2026.
 
 Charms is a bass and dub artist based in United Kingdom, with 31 gigs on soundcheck across London, Manchester and Melbourne. Often billed alongside Moopie, Pugilist and Stormn Norm. Next up: Miscellania, Melbourne on Sat 14 Nov.
 
@@ -28,4 +28,4 @@ Charms is a bass and dub artist based in United Kingdom, with 31 gigs on soundch
 
 Moopie, Pugilist, Stormn Norm
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/charms/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/charms/)*

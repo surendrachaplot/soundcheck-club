@@ -1,8 +1,8 @@
 # G L O W Z I
 
-G L O W Z I is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Système, Montreal on Thu, 3 Dec 2026.
+G L O W Z I is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Système, Montreal on Thu, 3 Dec 2026.
 
-G L O W Z I is a house and deep house artist based in Canada, with 39 gigs on soundcheck across London, Montreal and Toronto. Often billed alongside IAMNOTMYHISTORY, Alina (MTL) and Guthrie. Next up: Système, Montreal on Thu 3 Dec.
+G L O W Z I is a house and deep house artist based in Canada, with 40 gigs on soundcheck across London, Montreal and Toronto. Often billed alongside IAMNOTMYHISTORY, Alina (MTL) and Guthrie. Next up: Système, Montreal on Thu 3 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ G L O W Z I is a house and deep house artist based in Canada, with 39 gigs on so
 | --- | --- | --- |
 | Thu, 3 Dec 2026 | Système | Montreal |
 | Thu, 3 Dec 2026 | Ausgang Plaza | Montreal |
+| Thu, 3 Dec 2026 | Système | Montreal |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ G L O W Z I is a house and deep house artist based in Canada, with 39 gigs on so
 
 IAMNOTMYHISTORY, Alina (MTL), Guthrie
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/glowzi/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/glowzi/)*

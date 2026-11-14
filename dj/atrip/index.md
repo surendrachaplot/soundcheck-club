@@ -1,6 +1,6 @@
 # ATRIP
 
-ATRIP is a House and Garage artist with 6 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 21 Nov 2026.
+ATRIP is a House and Garage artist with 6 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 21 Nov 2026.
 
 ATRIP is a house and garage artist based in Germany, with 91 gigs on soundcheck across Adelaide, Amsterdam, Austin and Barcelona and 42 more. Often billed alongside DJ BORING, Oppidan and salute. Next up: Depot Mayfield, Manchester on Sat 21 Nov.
 
@@ -30,4 +30,4 @@ ATRIP is a house and garage artist based in Germany, with 91 gigs on soundcheck 
 
 DJ BORING, Oppidan, salute
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/atrip/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/atrip/)*

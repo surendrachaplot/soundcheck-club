@@ -1,6 +1,6 @@
 # Kollektiv Turmstrasse
 
-Kollektiv Turmstrasse is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Pacha, Munich on Fri, 20 Nov 2026.
+Kollektiv Turmstrasse is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Pacha, Munich on Fri, 20 Nov 2026.
 
 Kollektiv Turmstrasse is a house and techno artist based in Germany, with 114 gigs on soundcheck across Amsterdam, Antwerp, Basel and Belgrade and 40 more. Often billed alongside Jonathan Kaspar, Miura and Biesmans. Next up: Pacha, Munich on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ Kollektiv Turmstrasse is a house and techno artist based in Germany, with 114 gi
 
 Jonathan Kaspar, Miura, Biesmans
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kollektivturmstrasse/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kollektivturmstrasse/)*

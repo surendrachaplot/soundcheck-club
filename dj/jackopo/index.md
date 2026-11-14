@@ -1,6 +1,6 @@
 # Jackopo
 
-Jackopo is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Ziegrastraße 11, Berlin on Sat, 14 Nov 2026.
+Jackopo is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Ziegrastraße 11, Berlin on Sat, 14 Nov 2026.
 
 Jackopo is a house and deep house artist based in United Kingdom, with 11 gigs on soundcheck across Berlin and London. Often billed alongside Savio Testa, AOB and Anil Aras. Next up: Ziegrastraße 11, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Jackopo is a house and deep house artist based in United Kingdom, with 11 gigs o
 
 Savio Testa, AOB, Anil Aras
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jackopo/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jackopo/)*

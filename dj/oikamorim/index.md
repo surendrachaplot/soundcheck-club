@@ -1,6 +1,6 @@
 # Oikam Orim
 
-Oikam Orim is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Ääniwalli, Helsinki on Fri, 27 Nov 2026.
+Oikam Orim is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Ääniwalli, Helsinki on Fri, 27 Nov 2026.
 
 Oikam Orim is a techno and ebm artist based in Finland, with 7 gigs on soundcheck across Helsinki. Often billed alongside SARELL, ANNDRA and Afem Syko. Next up: Ääniwalli, Helsinki on Fri 27 Nov.
 
@@ -23,4 +23,4 @@ Oikam Orim is a techno and ebm artist based in Finland, with 7 gigs on soundchec
 
 SARELL, ANNDRA, Afem Syko
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oikamorim/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oikamorim/)*

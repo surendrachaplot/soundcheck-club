@@ -1,6 +1,6 @@
 # Delilah
 
-Delilah is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Magazine London, London on Sat, 28 Nov 2026.
+Delilah is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Magazine London, London on Sat, 28 Nov 2026.
 
 Delilah is a house and tech house artist based in United Kingdom, with 45 gigs on soundcheck across Berlin, Bristol, Brussels and Dublin and 9 more. Often billed alongside MiNNA, Rossi and Sidney Charles. Next up: Magazine London, London on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Delilah is a house and tech house artist based in United Kingdom, with 45 gigs o
 
 MiNNA, Rossi, Sidney Charles
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/delilah/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/delilah/)*

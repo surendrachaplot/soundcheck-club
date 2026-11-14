@@ -1,6 +1,6 @@
 # Kédu
 
-Kédu is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Miscellania, Melbourne on Sun, 22 Nov 2026.
+Kédu is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Miscellania, Melbourne on Sun, 22 Nov 2026.
 
 Kédu is a house and techno artist based in New Zealand, with 12 gigs on soundcheck across Auckland, Christchurch, Melbourne and Sydney. Often billed alongside Borrowed CS, AJ Honeysuckle and Aashofteh. Next up: Miscellania, Melbourne on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ Kédu is a house and techno artist based in New Zealand, with 12 gigs on soundch
 
 Borrowed CS, AJ Honeysuckle, Aashofteh
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kedu/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kedu/)*

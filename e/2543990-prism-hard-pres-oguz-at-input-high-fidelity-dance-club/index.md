@@ -1,6 +1,6 @@
 # PRISM Hard pres OGUZ at INPUT High Fidelity Dance Club
 
-PRISM Hard pres OGUZ at INPUT High Fidelity Dance Club on Fri 4 Dec, Barcelona. 1 artist: OGUZ. Techno. See the line-up on soundcheck.
+PRISM Hard pres OGUZ at INPUT High Fidelity Dance Club on Fri 4 Dec, Barcelona. 2 artists: MVGRI and OGUZ. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ PRISM Hard pres OGUZ at INPUT High Fidelity Dance Club on Fri 4 Dec, Barcelona. 
 
 ## Line-up
 
+- MVGRI
 - OGUZ
 
 *Source: [soundcheck](https://soundcheck.club/e/2543990-prism-hard-pres-oguz-at-input-high-fidelity-dance-club/)*

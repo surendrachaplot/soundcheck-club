@@ -1,6 +1,6 @@
 # Sopik
 
-Sopik is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Tirana Olympic Park, Tirana on Sun, 29 Nov 2026.
+Sopik is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Tirana Olympic Park, Tirana on Sun, 29 Nov 2026.
 
 Sopik is a techno and industrial artist based in Ukraine, with 64 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 28 more. Often billed alongside X&trick, DXPE (ES) and ALOKIN. Next up: Tirana Olympic Park, Tirana on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Sopik is a techno and industrial artist based in Ukraine, with 64 gigs on soundc
 
 X&trick, DXPE (ES), ALOKIN
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sopik/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sopik/)*

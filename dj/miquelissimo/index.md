@@ -1,6 +1,6 @@
 # MIQUELISSIMO
 
-MIQUELISSIMO is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Club Magno, Madrid on Fri, 1 Jan 2027.
+MIQUELISSIMO is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Club Magno, Madrid on Fri, 1 Jan 2027.
 
 MIQUELISSIMO is a techno and tech house artist based in Spain, with 12 gigs on soundcheck across Madrid. Often billed alongside DISTORT (ES), Rubén Secaduras and Maya B. Next up: Club Magno, Madrid on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ MIQUELISSIMO is a techno and tech house artist based in Spain, with 12 gigs on s
 
 DISTORT (ES), Rubén Secaduras, Maya B
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miquelissimo/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miquelissimo/)*

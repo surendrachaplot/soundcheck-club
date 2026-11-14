@@ -1,6 +1,6 @@
 # JENKS
 
-JENKS is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Catalyst Arts Studio, Belfast on Fri, 27 Nov 2026.
+JENKS is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Catalyst Arts Studio, Belfast on Fri, 27 Nov 2026.
 
 JENKS is a drum & bass and jungle artist based in United Kingdom, with 29 gigs on soundcheck across Belfast, Birmingham, Brighton and Bristol and 3 more. Often billed alongside Benny Page, Deekline and Disrupta. Next up: Catalyst Arts Studio, Belfast on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ JENKS is a drum & bass and jungle artist based in United Kingdom, with 29 gigs o
 
 Benny Page, Deekline, Disrupta
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jenks/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jenks/)*

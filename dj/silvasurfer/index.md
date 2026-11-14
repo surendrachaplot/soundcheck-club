@@ -1,6 +1,6 @@
 # SILVASURFER
 
-SILVASURFER is a Baile Funk and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Crypt at St. Matthews Church, London on Sat, 12 Dec 2026.
+SILVASURFER is a Baile Funk and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at The Crypt at St. Matthews Church, London on Sat, 12 Dec 2026.
 
 SILVASURFER is a baile funk and club artist based in Germany, with 31 gigs on soundcheck across Berlin, Brussels, Dublin and London and 3 more. Often billed alongside N3LYSTAR, Anthracene and JCVS. Next up: The Crypt at St. Matthews Church, London on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ SILVASURFER is a baile funk and club artist based in Germany, with 31 gigs on so
 
 N3LYSTAR, Anthracene, JCVS
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/silvasurfer/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/silvasurfer/)*

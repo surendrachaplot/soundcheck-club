@@ -1,14 +1,14 @@
 # Fusion Club
 
-Fusion Club is a music venue in Münster with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "SCHRANZ is BACK Münster with Felix Kröcher" on Sat, 14 Nov 2026.
+Fusion Club is a music venue in Münster with 5 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "SCHRANZ is BACK Münster with Felix Kröcher, Marco Remus,The sixth sense, Luca Hemmers, B-Runner" on Sat, 14 Nov 2026.
 
-Fusion Club is a music venue in Münster listed on soundcheck. 5 upcoming gigs, with line-ups including Alexia K., Chris Liebing, Felix Kröcher and FLACCO and 2 more. See dates, start times and who's playing. Am Hawerkamp 32; 48155 Münster; Germany.
+Fusion Club is a music venue in Münster listed on soundcheck. 5 upcoming gigs, with line-ups including Alexia K., B-Runner, Chris Liebing and Felix Kröcher and 2 more. See dates, start times and who's playing. Am Hawerkamp 32; 48155 Münster; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | SCHRANZ is BACK Münster with Felix Kröcher | Felix Kröcher |
+| Sat, 14 Nov 2026 | SCHRANZ is BACK Münster with Felix Kröcher, Marco Remus,The sixth sense, Luca Hemmers, B-Runner | B-Runner, Felix Kröcher, Luca Hemmers, The Sixth Sense |
 | Fri, 20 Nov 2026 | Pump x WSDN Weekender | FLACCO, In Verruf, Juliana Yamasaki, Nachtigaller, Neon Graveyard, O.B.I. (DE), OGUZ, TANJA MIJU |
 | Sat, 5 Dec 2026 | ACID WARS W/ MHA IRI, TOMMAHAWK & MANY MORE | Alexia K., Jens Mueller |
 | Fri, 11 Dec 2026 | Bassmania |  |
@@ -18,4 +18,4 @@ Fusion Club is a music venue in Münster listed on soundcheck. 5 upcoming gigs, 
 
 Am Hawerkamp 32; 48155 Münster; Germany, Münster
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/munster/club/fusion-club/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/munster/club/fusion-club/)*

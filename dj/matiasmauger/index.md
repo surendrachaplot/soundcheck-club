@@ -1,6 +1,6 @@
 # Matias Mauger
 
-Matias Mauger is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Delta Rica, Buenos Aires on Sat, 12 Dec 2026.
+Matias Mauger is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Delta Rica, Buenos Aires on Sat, 12 Dec 2026.
 
 Matias Mauger is a house and minimal artist, with 7 gigs on soundcheck across Buenos Aires. Often billed alongside Ana Hagen, Cabanne and Denis Kaznacheev. Next up: Delta Rica, Buenos Aires on Sat 12 Dec.
 
@@ -23,4 +23,4 @@ Matias Mauger is a house and minimal artist, with 7 gigs on soundcheck across Bu
 
 Ana Hagen, Cabanne, Denis Kaznacheev
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matiasmauger/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matiasmauger/)*

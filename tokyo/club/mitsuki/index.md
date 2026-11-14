@@ -1,6 +1,6 @@
 # Mitsuki
 
-Mitsuki is a music venue in Tokyo with 14 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Robert Bergman/Marco Weibel/Kikiorix" on Tue, 10 Nov 2026.
+Mitsuki is a music venue in Tokyo with 14 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Robert Bergman/Marco Weibel/Kikiorix" on Tue, 10 Nov 2026.
 
 Mitsuki is a music venue in Tokyo listed on soundcheck. 14 upcoming gigs, with line-ups including David Fogarty, DJ Zenta, Iori and K.E.G and 2 more. See dates, start times and who's playing. 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan.
 
@@ -23,4 +23,4 @@ Mitsuki is a music venue in Tokyo listed on soundcheck. 14 upcoming gigs, with l
 
 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan, Tokyo
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/mitsuki/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/mitsuki/)*

@@ -1,6 +1,6 @@
-# Panorama at Amp
+# PANORAMA at Amp
 
-Panorama at Amp on Sat 19 Dec, Münster. Techno. See the line-up on soundcheck.
+PANORAMA at Amp on Sat 19 Dec, Münster. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

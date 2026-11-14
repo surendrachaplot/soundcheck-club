@@ -1,6 +1,6 @@
 # Mellowdramatics
 
-Mellowdramatics is a Club and Dub artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Spanners, London on Sat, 21 Nov 2026.
+Mellowdramatics is a Club and Dub artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Spanners, London on Sat, 21 Nov 2026.
 
 Mellowdramatics is a club and dub artist based in United Kingdom, with 33 gigs on soundcheck across Glasgow, London and Norway. Often billed alongside John T. Gast, Authentically Plastic and Conrad Pack. Next up: Spanners, London on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Mellowdramatics is a club and dub artist based in United Kingdom, with 33 gigs o
 
 John T. Gast, Authentically Plastic, Conrad Pack
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mellowdramatics/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mellowdramatics/)*

@@ -1,6 +1,6 @@
 # Galaxian
 
-Galaxian is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA, Boston on Thu, 31 Dec 2026.
+Galaxian is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA, Boston on Thu, 31 Dec 2026.
 
 Galaxian is a techno and electro artist based in United Kingdom, with 7 gigs on soundcheck across Barcelona, Berlin, Boston and Copenhagen and 2 more. Often billed alongside AJA, Abena and Alliyah Enyo. Next up: TBA, Boston on Thu 31 Dec.
 
@@ -23,4 +23,4 @@ Galaxian is a techno and electro artist based in United Kingdom, with 7 gigs on 
 
 AJA, Abena, Alliyah Enyo
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/galaxian/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/galaxian/)*

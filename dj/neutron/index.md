@@ -1,6 +1,6 @@
 # Neutron
 
-Neutron is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Fox and Firkin, London on Sat, 14 Nov 2026.
+Neutron is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at The Fox and Firkin, London on Sat, 14 Nov 2026.
 
 Neutron is a techno and house artist based in Serbia, with 9 gigs on soundcheck across Belgrade and London. Often billed alongside ROPE, HETEM and Knower. Next up: The Fox and Firkin, London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Neutron is a techno and house artist based in Serbia, with 9 gigs on soundcheck 
 
 ROPE, HETEM, Knower
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neutron/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neutron/)*

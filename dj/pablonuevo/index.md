@@ -1,6 +1,6 @@
 # Pablo Nuevo
 
-Pablo Nuevo is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at President Hotel, Athens on Sun, 29 Nov 2026.
+Pablo Nuevo is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at President Hotel, Athens on Sun, 29 Nov 2026.
 
 Pablo Nuevo is a house and afro house artist based in Greece, with 19 gigs on soundcheck across Amsterdam, Athens and Thessaloniki. Often billed alongside BRB, Friez and Tonya. Next up: President Hotel, Athens on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Pablo Nuevo is a house and afro house artist based in Greece, with 19 gigs on so
 
 BRB, Friez, Tonya
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pablonuevo/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pablonuevo/)*

@@ -1,15 +1,13 @@
 # DJ Cringey
 
-DJ Cringey is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA, Berlin on Fri, 13 Nov 2026.
+DJ Cringey is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Bergson Kunstkraftwerk, Munich on Sat, 21 Nov 2026.
 
-DJ Cringey is a techno and trance artist based in New Zealand, with 120 gigs on soundcheck across Amsterdam, Antwerp, Basel and Belfast and 31 more. Often billed alongside TOXIMAMI, DJ Hyperdrive and davyboi. Next up: TBA, Berlin on Fri 13 Nov.
+DJ Cringey is a techno and trance artist based in New Zealand, with 120 gigs on soundcheck across Amsterdam, Antwerp, Basel and Belfast and 31 more. Often billed alongside TOXIMAMI, DJ Hyperdrive and davyboi. Next up: Bergson Kunstkraftwerk, Munich on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | TBA | Berlin |
-| Fri, 13 Nov 2026 | DSTRKT Club Berlin | Berlin |
 | Sat, 21 Nov 2026 | Bergson Kunstkraftwerk | Munich |
 | Sat, 28 Nov 2026 | MUENZE | Berlin |
 | Sat, 28 Nov 2026 | Lijm & Cultuur | Netherlands |
@@ -19,17 +17,17 @@ DJ Cringey is a techno and trance artist based in New Zealand, with 120 gigs on 
 
 ## Recently played
 
+- TBA, Berlin · Fri, 13 Nov 2026
+- DSTRKT Club Berlin, Berlin · Fri, 13 Nov 2026
 - OST, Berlin · Fri, 6 Nov 2026
 - DRUMSHEDS, London · Fri, 23 Oct 2026
 - Warehouse Elementenstraat, Amsterdam · Thu, 22 Oct 2026
 - Gotec, Karlsruhe · Sat, 17 Oct 2026
 - Edelfettwerk, Hamburg · Fri, 9 Oct 2026
 - Mondo Open Air, Madrid · Sat, 26 Sept 2026
-- Virage, Paris · Sat, 26 Sept 2026
-- Studio Club Malaga, Malaga · Fri, 25 Sept 2026
 
 ## Shares bills with
 
 TOXIMAMI, DJ Hyperdrive, davyboi
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djcringey/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djcringey/)*

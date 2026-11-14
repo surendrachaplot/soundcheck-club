@@ -1,6 +1,6 @@
 # Lekë
 
-Lekë is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Hoppetosse, Berlin on Sat, 14 Nov 2026.
+Lekë is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Hoppetosse, Berlin on Sat, 14 Nov 2026.
 
 Lekë is a house and minimal artist based in Kosovo, with 13 gigs on soundcheck across Barcelona, Berlin, Edinburgh and Milan and 3 more. Often billed alongside Ray Okpara, DJ Bz and Doogi. Next up: Hoppetosse, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Lekë is a house and minimal artist based in Kosovo, with 13 gigs on soundcheck 
 
 Ray Okpara, DJ Bz, Doogi
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leke/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leke/)*

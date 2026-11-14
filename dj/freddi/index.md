@@ -1,6 +1,6 @@
 # Freddi
 
-Freddi is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Sneaky Pete's, Edinburgh on Wed, 18 Nov 2026.
+Freddi is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Sneaky Pete's, Edinburgh on Wed, 18 Nov 2026.
 
 Freddi is a house and techno artist based in Netherlands, with 52 gigs on soundcheck across Amsterdam, Antwerp, Edinburgh and Eindhoven and 4 more. Often billed alongside OLIVIA LENSEN, Gerardo Niva and Kara Okay. Next up: Sneaky Pete's, Edinburgh on Wed 18 Nov.
 
@@ -30,4 +30,4 @@ Freddi is a house and techno artist based in Netherlands, with 52 gigs on soundc
 
 OLIVIA LENSEN, Gerardo Niva, Kara Okay
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/freddi/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/freddi/)*

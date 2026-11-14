@@ -1,6 +1,6 @@
 # Pooja B
 
-Pooja B is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Tempio del Futuro Perduto, Milan on Fri, 20 Nov 2026.
+Pooja B is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Tempio del Futuro Perduto, Milan on Fri, 20 Nov 2026.
 
 Pooja B is a techno and house artist based in India, with 74 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Dubai and 14 more. Often billed alongside Gioski, Cristian Marras and DE FEO. Next up: Tempio del Futuro Perduto, Milan on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Pooja B is a techno and house artist based in India, with 74 gigs on soundcheck 
 
 Gioski, Cristian Marras, DE FEO
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/poojab/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/poojab/)*

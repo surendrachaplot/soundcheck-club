@@ -1,6 +1,6 @@
 # Minau
 
-Minau is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TCQ, Buenos Aires on Fri, 27 Nov 2026.
+Minau is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TCQ, Buenos Aires on Fri, 27 Nov 2026.
 
 Minau is a techno and house artist, with 9 gigs on soundcheck across Buenos Aires. Often billed alongside Berger Muzik, Cia Rebeck and KØLPØS. Next up: TCQ, Buenos Aires on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Minau is a techno and house artist, with 9 gigs on soundcheck across Buenos Aire
 
 Berger Muzik, Cia Rebeck, KØLPØS
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/minau/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/minau/)*

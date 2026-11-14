@@ -1,6 +1,6 @@
 # UNKLE
 
-UNKLE is a Hip-Hop and Electronica artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Hollywood Theatre, Vancouver on Mon, 7 Dec 2026.
+UNKLE is a Hip-Hop and Electronica artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Hollywood Theatre, Vancouver on Mon, 7 Dec 2026.
 
 UNKLE is a hip-hop and electronica artist based in United Kingdom, with 17 gigs on soundcheck across Belfast, Brighton, Budapest and Chicago and 9 more. Often billed alongside James Lavelle, Jay Carder and A4lenia. Next up: Hollywood Theatre, Vancouver on Mon 7 Dec.
 
@@ -27,4 +27,4 @@ UNKLE is a hip-hop and electronica artist based in United Kingdom, with 17 gigs 
 
 James Lavelle, Jay Carder, A4lenia
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/unkle/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/unkle/)*

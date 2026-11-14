@@ -1,6 +1,6 @@
 # Kultuurikatel
 
-Kultuurikatel is a music venue in Tallinn with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "Selecta: Andy C (UK) at Tallinn" on Fri, 26 Mar 2027.
+Kultuurikatel is a music venue in Tallinn with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. The next is "Selecta: Andy C (UK) at Tallinn" on Fri, 26 Mar 2027.
 
 Kultuurikatel is a music venue in Tallinn listed on soundcheck. 1 upcoming gig, with line-ups including Andy C, ENTER (EE) and Tonn Piper. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Kultuurikatel is a music venue in Tallinn listed on soundcheck. 1 upcoming gig, 
 | --- | --- | --- |
 | Fri, 26 Mar 2027 | Selecta: Andy C (UK) at Tallinn | Andy C, ENTER (EE), Tonn Piper |
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/kultuurikatel/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/kultuurikatel/)*

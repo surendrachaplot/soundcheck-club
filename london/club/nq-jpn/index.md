@@ -1,14 +1,13 @@
 # NQ JPN
 
-NQ JPN is a music venue in London with 7 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "NQ JPN: House & Techno" on Fri, 13 Nov 2026.
+NQ JPN is a music venue in London with 6 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "NQ JPN: House & Techno" on Sat, 14 Nov 2026.
 
-NQ JPN is a music venue in London listed on soundcheck. 7 upcoming gigs, with line-ups including Cable, Harrison (UK), Marlon and Santero. See dates, start times and who's playing.
+NQ JPN is a music venue in London listed on soundcheck. 6 upcoming gigs, with line-ups including Harrison (UK), Marlon and Santero. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | NQ JPN: House & Techno | Cable |
 | Sat, 14 Nov 2026 | NQ JPN: House & Techno |  |
 | Sat, 14 Nov 2026 | Hjaksnsn |  |
 | Fri, 20 Nov 2026 | NQ JPN: House & Techno | Santero |
@@ -16,4 +15,4 @@ NQ JPN is a music venue in London listed on soundcheck. 7 upcoming gigs, with li
 | Fri, 27 Nov 2026 | NQ JPN: House & Techno | Harrison (UK) |
 | Sat, 28 Nov 2026 | NQ JPN: House & Techno |  |
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/nq-jpn/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/nq-jpn/)*

@@ -1,6 +1,6 @@
 # Qwirk
 
-Qwirk is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Bag Factory, Manchester on Sun, 29 Nov 2026.
+Qwirk is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at The Bag Factory, Manchester on Sun, 29 Nov 2026.
 
 Qwirk is a bass and dubstep artist based in United Kingdom, with 15 gigs on soundcheck across Manchester and Sheffield. Often billed alongside Gracie T, Chande and Lotus Phaze. Next up: The Bag Factory, Manchester on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Qwirk is a bass and dubstep artist based in United Kingdom, with 15 gigs on soun
 
 Gracie T, Chande, Lotus Phaze
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/qwirk/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/qwirk/)*

@@ -1,6 +1,6 @@
 # Mario Polanco
 
-Mario Polanco is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Green Room NYC, New York City on Fri, 20 Nov 2026.
+Mario Polanco is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Green Room NYC, New York City on Fri, 20 Nov 2026.
 
 Mario Polanco is a house and techno artist based in United States of America, with 25 gigs on soundcheck across New York City. Often billed alongside Miss Gypsy, Martín Y Corazón and Greg Paulus. Next up: Green Room NYC, New York City on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Mario Polanco is a house and techno artist based in United States of America, wi
 
 Miss Gypsy, Martín Y Corazón, Greg Paulus
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mariopolanco/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mariopolanco/)*

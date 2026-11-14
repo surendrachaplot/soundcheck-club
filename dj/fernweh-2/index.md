@@ -1,6 +1,6 @@
 # Fernweh (2)
 
-Fernweh (2) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Basing House, London on Sat, 21 Nov 2026.
+Fernweh (2) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Basing House, London on Sat, 21 Nov 2026.
 
 Fernweh is a techno and trance artist based in Germany, with 13 gigs on soundcheck across Amsterdam and London. Often billed alongside MEAKIN, Alythia Kwan and MARIUS SEBASTIAN. Next up: Basing House, London on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Fernweh is a techno and trance artist based in Germany, with 13 gigs on soundche
 
 MEAKIN, Alythia Kwan, MARIUS SEBASTIAN
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fernweh-2/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fernweh-2/)*

@@ -1,6 +1,6 @@
 # Shanti Celeste
 
-Shanti Celeste is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Strange Brew, Bristol on Sat, 14 Nov 2026.
+Shanti Celeste is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Strange Brew, Bristol on Sat, 14 Nov 2026.
 
 Shanti Celeste is a house and techno artist based in United Kingdom, with 234 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 63 more. Often billed alongside Peach, Saoirse and Ogazón. Next up: Strange Brew, Bristol on Sat 14 Nov.
 
@@ -36,4 +36,4 @@ Shanti Celeste is a house and techno artist based in United Kingdom, with 234 gi
 
 Peach, Saoirse, Ogazón
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shanticeleste/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shanticeleste/)*

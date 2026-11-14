@@ -1,14 +1,13 @@
 # Lilli Escher
 
-Lilli Escher is a music venue in Hamburg with 7 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Ek-Sistenz" on Fri, 13 Nov 2026.
+Lilli Escher is a music venue in Hamburg with 6 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Inner Child" on Sat, 14 Nov 2026.
 
-Lilli Escher is a music venue in Hamburg listed on soundcheck. 7 upcoming gigs, with line-ups including Ek-sistenz, Ilja Franz, NOAH JAMES and SZELEST. See dates, start times and who's playing. Max-Brauer-Allee 279, 22769 Hamburg, Germany.
+Lilli Escher is a music venue in Hamburg listed on soundcheck. 6 upcoming gigs, with line-ups including Ilja Franz, NOAH JAMES and SZELEST. See dates, start times and who's playing. Max-Brauer-Allee 279, 22769 Hamburg, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Ek-Sistenz | Ek-sistenz |
 | Sat, 14 Nov 2026 | Inner Child |  |
 | Tue, 17 Nov 2026 | Maxi Lehmkuhl |  |
 | Wed, 18 Nov 2026 | Noah James | NOAH JAMES |
@@ -20,4 +19,4 @@ Lilli Escher is a music venue in Hamburg listed on soundcheck. 7 upcoming gigs, 
 
 Max-Brauer-Allee 279, 22769 Hamburg, Germany, Hamburg
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/lilli-escher/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/lilli-escher/)*

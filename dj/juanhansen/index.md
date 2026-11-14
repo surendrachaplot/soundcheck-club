@@ -1,14 +1,15 @@
 # Juan Hansen
 
-Juan Hansen is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at INPUT High Fidelity Dance Club, Barcelona on Fri, 11 Dec 2026.
+Juan Hansen is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at INPUT High Fidelity Dance Club, Barcelona on Fri, 11 Dec 2026.
 
-Juan Hansen is a techno and house artist based in Argentina, with 43 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brazil and 14 more. Often billed alongside Innellea, Amadori and Nick Varon. Next up: INPUT High Fidelity Dance Club, Barcelona on Fri 11 Dec.
+Juan Hansen is a techno and house artist based in Argentina, with 44 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brazil and 14 more. Often billed alongside Innellea, Amadori and Nick Varon. Next up: INPUT High Fidelity Dance Club, Barcelona on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Dec 2026 | INPUT High Fidelity Dance Club | Barcelona |
+| Sat, 12 Dec 2026 | Hive Club | Zurich |
 | Sat, 19 Dec 2026 | Uebel & Gefährlich | Hamburg |
 | Sat, 19 Dec 2026 | Kastel | Istanbul |
 | Mon, 4 Jan 2027 | TBA - Open Park, Punta del Este | Uruguay |
@@ -29,4 +30,4 @@ Juan Hansen is a techno and house artist based in Argentina, with 43 gigs on sou
 
 Innellea, Amadori, Nick Varon
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juanhansen/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juanhansen/)*

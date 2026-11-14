@@ -1,6 +1,6 @@
 # Chucho Amezcua
 
-Chucho Amezcua is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Versalles 64, Mexico City on Sat, 14 Nov 2026.
+Chucho Amezcua is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Versalles 64, Mexico City on Sat, 14 Nov 2026.
 
 Chucho Amezcua is a house and techno artist based in Mexico, with 12 gigs on soundcheck across Mexico City. Often billed alongside Eliel Capa, Joss Crown and daveh00d. Next up: Versalles 64, Mexico City on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Chucho Amezcua is a house and techno artist based in Mexico, with 12 gigs on sou
 
 Eliel Capa, Joss Crown, daveh00d
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chuchoamezcua/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chuchoamezcua/)*

@@ -1,6 +1,6 @@
 # Natly Mey
 
-Natly Mey is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - 21 Roof Top Bar, Kuala Lumpur on Sat, 14 Nov 2026.
+Natly Mey is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - 21 Roof Top Bar, Kuala Lumpur on Sat, 14 Nov 2026.
 
 Natly Mey is a techno and tech house artist based in Russia, with 9 gigs on soundcheck across Kuala Lumpur. Often billed alongside Alam, BugzB and Julia Deychuk. Next up: TBA - 21 Roof Top Bar, Kuala Lumpur on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Natly Mey is a techno and tech house artist based in Russia, with 9 gigs on soun
 
 Alam, BugzB, Julia Deychuk
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/natlymey/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/natlymey/)*

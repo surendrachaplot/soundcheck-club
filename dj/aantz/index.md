@@ -1,6 +1,6 @@
 # aantz
 
-aantz is a Ambient and Experimental artist with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Panke, Berlin on Sun, 15 Nov 2026.
+aantz is a Ambient and Experimental artist with 5 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Panke, Berlin on Sun, 15 Nov 2026.
 
 aantz is an ambient and experimental artist based in Argentina, with 18 gigs on soundcheck across Argentina, Basel, Berlin and Buenos Aires and 2 more. Often billed alongside O/Y, Barker and 2THEMAX. Next up: Panke, Berlin on Sun 15 Nov.
 
@@ -29,4 +29,4 @@ aantz is an ambient and experimental artist based in Argentina, with 18 gigs on 
 
 O/Y, Barker, 2THEMAX
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aantz/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aantz/)*

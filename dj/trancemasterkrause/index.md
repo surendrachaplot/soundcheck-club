@@ -1,14 +1,13 @@
 # Trancemaster Krause
 
-Trancemaster Krause is a Techno and Trance artist with 10 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Kassablanca, Jena on Fri, 13 Nov 2026.
+Trancemaster Krause is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Hans Bunte Areal, Freiburg on Sat, 14 Nov 2026.
 
-Trancemaster Krause is a techno and trance artist based in Germany, with 244 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 46 more. Often billed alongside Cleopard2000, Mika Heggemann and Justin Tinderdate. Next up: Kassablanca, Jena on Fri 13 Nov.
+Trancemaster Krause is a techno and trance artist based in Germany, with 244 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 46 more. Often billed alongside Cleopard2000, Mika Heggemann and Justin Tinderdate. Next up: Hans Bunte Areal, Freiburg on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Kassablanca | Jena |
 | Sat, 14 Nov 2026 | Hans Bunte Areal | Freiburg |
 | Wed, 18 Nov 2026 | Lokschuppen Berlin | Berlin |
 | Fri, 27 Nov 2026 | Amp | Münster |
@@ -21,6 +20,7 @@ Trancemaster Krause is a techno and trance artist based in Germany, with 244 gig
 
 ## Recently played
 
+- Kassablanca, Jena · Fri, 13 Nov 2026
 - Smoke & Mirrors, Chicago · Fri, 6 Nov 2026
 - NOS Event Center, Los Angeles · Fri, 30 Oct 2026
 - Thuishaven, Amsterdam · Sun, 25 Oct 2026
@@ -28,10 +28,9 @@ Trancemaster Krause is a techno and trance artist based in Germany, with 244 gig
 - Oosterbar, Amsterdam · Wed, 21 Oct 2026
 - Junkyard Dortmund, Dortmund / Essen · Sat, 10 Oct 2026
 - Phantom Bar Berlin, Berlin · Wed, 7 Oct 2026
-- Helgas Stadtpalast, Mecklenburg-vorpommern · Sat, 3 Oct 2026
 
 ## Shares bills with
 
 Cleopard2000, Mika Heggemann, Justin Tinderdate
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trancemasterkrause/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trancemasterkrause/)*

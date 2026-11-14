@@ -1,8 +1,8 @@
 # DJ Lilocox
 
-DJ Lilocox is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Ministerium Club, Lisbon on Sat, 19 Dec 2026.
+DJ Lilocox is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Ministerium Club, Lisbon on Sat, 19 Dec 2026.
 
-DJ Lilocox is an afro house and afro tech artist, with 11 gigs on soundcheck across Lisbon, London, New York City and Zurich. Often billed alongside Studio Bros, AfroKillerz and Magic Beatz. Next up: Ministerium Club, Lisbon on Sat 19 Dec.
+DJ Lilocox is an afro house and afro tech artist based in Portugal, with 11 gigs on soundcheck across Lisbon, London, New York City and Zurich. Often billed alongside Studio Bros, AfroKillerz and Magic Beatz. Next up: Ministerium Club, Lisbon on Sat 19 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ DJ Lilocox is an afro house and afro tech artist, with 11 gigs on soundcheck acr
 
 Studio Bros, AfroKillerz, Magic Beatz
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djlilocox/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djlilocox/)*

@@ -1,6 +1,6 @@
 # Kokeshi
 
-Kokeshi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Kassa Boat, Budapest on Fri, 18 Dec 2026.
+Kokeshi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Kassa Boat, Budapest on Fri, 18 Dec 2026.
 
 Kokeshi is a techno and house artist based in Portugal, with 103 gigs on soundcheck across Budapest, Lisbon, London and Munich and 2 more. Often billed alongside John-E, Kaesar and Gear. Next up: Kassa Boat, Budapest on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Kokeshi is a techno and house artist based in Portugal, with 103 gigs on soundch
 
 John-E, Kaesar, Gear
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kokeshi/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kokeshi/)*

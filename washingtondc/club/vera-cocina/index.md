@@ -1,14 +1,13 @@
 # Vera Cocina & بار
 
-Vera Cocina & بار is a music venue in Washington DC with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "SOLAIRE & SH00K ONES PRESENT: AJ Christou" on Fri, 13 Nov 2026.
+Vera Cocina & بار is a music venue in Washington DC with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Nü Androids presents: Romain Garcia" on Sun, 15 Nov 2026.
 
-Vera Cocina & بار is a music venue in Washington DC listed on soundcheck. 4 upcoming gigs, with line-ups including AJ Christou. See dates, start times and who's playing. 2002 Fenwick St NE, Washington, DC 20002, USA.
+Vera Cocina & بار is a music venue in Washington DC listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing. 2002 Fenwick St NE, Washington, DC 20002, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | SOLAIRE & SH00K ONES PRESENT: AJ Christou | AJ Christou |
 | Sun, 15 Nov 2026 | Nü Androids presents: Romain Garcia |  |
 | Fri, 27 Nov 2026 | Nü Wav presents: Madison Kendall |  |
 | Sat, 12 Dec 2026 | Nü Androids presents: Bensy |  |
@@ -17,4 +16,4 @@ Vera Cocina & بار is a music venue in Washington DC listed on soundcheck. 4 u
 
 2002 Fenwick St NE, Washington, DC 20002, USA, Washington DC
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/vera-cocina/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/vera-cocina/)*

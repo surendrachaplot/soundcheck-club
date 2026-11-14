@@ -1,6 +1,6 @@
 # bernie soundmate
 
-bernie soundmate is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 21 Nov 2026.
+bernie soundmate is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 21 Nov 2026.
 
 bernie soundmate is a house and minimal artist based in Spain, with 33 gigs on soundcheck across Barcelona, Dubai, Dublin and Lisbon. Often billed alongside Vandi (ES), Dylema and G.G (LB). Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ bernie soundmate is a house and minimal artist based in Spain, with 33 gigs on s
 
 Vandi (ES), Dylema, G.G (LB)
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/berniesoundmate/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/berniesoundmate/)*

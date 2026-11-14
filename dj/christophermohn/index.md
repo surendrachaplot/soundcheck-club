@@ -1,6 +1,6 @@
 # Christopher Mohn
 
-Christopher Mohn is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Campground 1H from DTLA, Los-angeles on Fri, 16 Apr 2027.
+Christopher Mohn is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Campground 1H from DTLA, Los-angeles on Fri, 16 Apr 2027.
 
 Christopher Mohn is a house and techno artist based in United States of America, with 18 gigs on soundcheck across Detroit, Los Angeles, San Diego and San Francisco/Oakland. Often billed alongside Krane, Silky and Arthur Onni. Next up: TBA - Campground 1H from DTLA, Los Angeles on Fri 16 Apr.
 
@@ -25,4 +25,4 @@ Christopher Mohn is a house and techno artist based in United States of America,
 
 Krane, Silky, Arthur Onni
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/christophermohn/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/christophermohn/)*

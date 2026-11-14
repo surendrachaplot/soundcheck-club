@@ -1,6 +1,6 @@
 # Daymount
 
-Daymount is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Babour Sauvage, Paris on Sun, 13 Dec 2026.
+Daymount is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Babour Sauvage, Paris on Sun, 13 Dec 2026.
 
 Daymount is an electro and house artist based in France, with 16 gigs on soundcheck across Brussels and Paris. Often billed alongside Fawzi Adjan, Woodson and Aamon. Next up: Babour Sauvage, Paris on Sun 13 Dec.
 
@@ -25,4 +25,4 @@ Daymount is an electro and house artist based in France, with 16 gigs on soundch
 
 Fawzi Adjan, Woodson, Aamon
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daymount/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daymount/)*

@@ -1,6 +1,6 @@
 # Very J
 
-Very J is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Greenpoint, New York City on Sat, 14 Nov 2026.
+Very J is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Greenpoint, New York City on Sat, 14 Nov 2026.
 
 Very J is a house and techno artist based in United States of America, with 131 gigs on soundcheck across Boston, Detroit, London and Los Angeles and 2 more. Often billed alongside For Future's Sake, John Raffaele and Devoye. Next up: TBA - Greenpoint, New York City on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Very J is a house and techno artist based in United States of America, with 131 
 
 For Future's Sake, John Raffaele, Devoye
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/veryj/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/veryj/)*

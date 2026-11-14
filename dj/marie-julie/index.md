@@ -1,14 +1,15 @@
 # Marie-Julie
 
-Marie-Julie is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Off-Club, Belgium on Sat, 5 Dec 2026.
+Marie-Julie is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Off-Club, Belgium on Sat, 5 Dec 2026.
 
-Marie-Julie is a techno and house artist based in Belgium, with 93 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgium and 13 more. Often billed alongside Phara, Altinbas and Border One. Next up: Off-Club, Belgium on Sat 5 Dec.
+Marie-Julie is a techno and house artist based in Belgium, with 94 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgium and 13 more. Often billed alongside Phara, Altinbas and Border One. Next up: Off-Club, Belgium on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Off-Club | Belgium |
+| Sat, 26 Dec 2026 | RADION | Amsterdam |
 | Thu, 31 Dec 2026 | Fuse | Brussels |
 
 ## Recently played
@@ -26,4 +27,4 @@ Marie-Julie is a techno and house artist based in Belgium, with 93 gigs on sound
 
 Phara, Altinbas, Border One
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marie-julie/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marie-julie/)*

@@ -1,6 +1,6 @@
 # Dwson
 
-Dwson is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at 1Fox Precinct, Johannesburg on Sat, 12 Dec 2026.
+Dwson is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at 1Fox Precinct, Johannesburg on Sat, 12 Dec 2026.
 
 Dwson is an afro house and house artist based in South Africa, with 11 gigs on soundcheck across Cape Town and Johannesburg. Often billed alongside Black Coffee, Mila-Rose and Oskido. Next up: 1Fox Precinct, Johannesburg on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Dwson is an afro house and house artist based in South Africa, with 11 gigs on s
 
 Black Coffee, Mila-Rose, Oskido
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dwson/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dwson/)*

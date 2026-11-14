@@ -1,6 +1,6 @@
 # Das Zimmer
 
-Das Zimmer is a music venue in Mannheim with 18 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "UPPER 90, Mija" on Sat, 14 Nov 2026.
+Das Zimmer is a music venue in Mannheim with 18 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "UPPER 90, Mija" on Sat, 14 Nov 2026.
 
 Das Zimmer is a music venue in Mannheim listed on soundcheck. 18 upcoming gigs, with line-ups including alejandrø, Cara Elizabeth, David Löhlein and DJ Unholy and 2 more. See dates, start times and who's playing. Q5 Passage 14-22, 68161, Mannheim.
 
@@ -23,4 +23,4 @@ Das Zimmer is a music venue in Mannheim listed on soundcheck. 18 upcoming gigs, 
 
 Q5 Passage 14-22, 68161, Mannheim, Mannheim
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/mannheim/club/das-zimmer/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/mannheim/club/das-zimmer/)*

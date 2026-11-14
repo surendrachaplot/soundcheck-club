@@ -1,6 +1,6 @@
 # Midland
 
-Midland is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Cobalt Studios, Newcastle on Sat, 21 Nov 2026.
+Midland is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Cobalt Studios, Newcastle on Sat, 21 Nov 2026.
 
 Midland is a house and techno artist based in United Kingdom, with 125 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 47 more. Often billed alongside NIKS, Peach and Shanti Celeste. Next up: Cobalt Studios, Newcastle on Sat 21 Nov.
 
@@ -32,4 +32,4 @@ Midland is a house and techno artist based in United Kingdom, with 125 gigs on s
 
 NIKS, Peach, Shanti Celeste
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/midland/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/midland/)*

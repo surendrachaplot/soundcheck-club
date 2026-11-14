@@ -1,6 +1,6 @@
 # TBA - The Golden Giraffe - Sukhumvit 11
 
-TBA - The Golden Giraffe - Sukhumvit 11 is a music venue in Bangkok with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "SONIC DREAMS PSYTRANCE BANGKOK" on Sat, 28 Nov 2026.
+TBA - The Golden Giraffe - Sukhumvit 11 is a music venue in Bangkok with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. The next is "SONIC DREAMS PSYTRANCE BANGKOK" on Sat, 28 Nov 2026.
 
 TBA - The Golden Giraffe - Sukhumvit 11 is a music venue in Bangkok listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - The Golden Giraffe - Sukhumvit 11 is a music venue in Bangkok listed on so
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | SONIC DREAMS PSYTRANCE BANGKOK |  |
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/tba-the-golden-giraffe-sukhumvit-11/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/tba-the-golden-giraffe-sukhumvit-11/)*

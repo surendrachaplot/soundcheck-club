@@ -1,6 +1,6 @@
 # Konakov
 
-Konakov is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Start.Bahn - Genezarethkirche, Berlin on Sun, 29 Nov 2026.
+Konakov is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Start.Bahn - Genezarethkirche, Berlin on Sun, 29 Nov 2026.
 
 Konakov is an experimental and ambient artist based in Ukraine, with 19 gigs on soundcheck across Berlin, Glasgow, Liverpool and London and 1 more. Often billed alongside bod [包家巷], Andriy K. and AXT. Next up: Start.Bahn - Genezarethkirche, Berlin on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Konakov is an experimental and ambient artist based in Ukraine, with 19 gigs on 
 
 bod [包家巷], Andriy K., AXT
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/konakov-ua/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/konakov-ua/)*

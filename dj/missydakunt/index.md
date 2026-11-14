@@ -1,6 +1,6 @@
 # Missy Da Kunt
 
-Missy Da Kunt is a House and Ballroom artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Petit Bain, Paris on Sat, 28 Nov 2026.
+Missy Da Kunt is a House and Ballroom artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Petit Bain, Paris on Sat, 28 Nov 2026.
 
 Missy Da Kunt is a house and ballroom artist based in France, with 21 gigs on soundcheck across Brussels, Paris, Porto and Sydney. Often billed alongside Broodoo Ramses, Slim Soledad and BAE BAE. Next up: Petit Bain, Paris on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Missy Da Kunt is a house and ballroom artist based in France, with 21 gigs on so
 
 Broodoo Ramses, Slim Soledad, BAE BAE
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/missydakunt/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/missydakunt/)*

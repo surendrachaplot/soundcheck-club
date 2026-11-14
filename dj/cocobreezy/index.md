@@ -1,6 +1,6 @@
 # Coco & Breezy
 
-Coco & Breezy is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Woldenberg Riverfront Park, New-orleans on Fri, 13 Nov 2026.
+Coco & Breezy is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Woldenberg Riverfront Park, New-orleans on Fri, 13 Nov 2026.
 
 Coco & Breezy are a house and afro house duo based in United States of America, with 100 gigs on soundcheck across Austin, Boston, Calgary and Charlotte and 30 more. Often billed alongside Aluna, Breezy and Claptone. Next up: Woldenberg Riverfront Park, New Orleans on Fri 13 Nov.
 
@@ -13,6 +13,7 @@ Coco & Breezy are a house and afro house duo based in United States of America, 
 
 ## Recently played
 
+- Woldenberg Riverfront Park, New-orleans · Fri, 13 Nov 2026
 - Refuge, New York City · Sat, 7 Nov 2026
 - TBA, Stockholm · Fri, 23 Oct 2026
 - The Great Pyramids OF Giza, Egypt · Fri, 9 Oct 2026
@@ -20,10 +21,9 @@ Coco & Breezy are a house and afro house duo based in United States of America, 
 - TBA, Los Angeles · Sun, 27 Sept 2026
 - Chinois Ibiza, Ibiza · Fri, 4 Sept 2026
 - Søpavillonen, Copenhagen · Sat, 22 Aug 2026
-- Hï Ibiza, Ibiza · Wed, 12 Aug 2026
 
 ## Shares bills with
 
 Aluna, Breezy, Claptone
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cocobreezy/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cocobreezy/)*

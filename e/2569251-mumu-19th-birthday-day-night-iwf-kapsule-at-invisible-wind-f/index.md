@@ -1,6 +1,6 @@
 # mUmU 19th Birthday day / night - IWF & Kapsule at Invisible Wind Factory
 
-mUmU 19th Birthday day / night - IWF & Kapsule at Invisible Wind Factory on Sat 30 Jan, Liverpool. 7 artists: Francesco Del Garda, Gabrielle Kwarteng, H-Foundation and Lee Rands and 3 more. Techno and House. See the line-up on soundcheck.
+mUmU 19th Birthday day / night - IWF & Kapsule at Invisible Wind Factory on Sat 30 Jan, Liverpool. 8 artists: Cersy, Francesco Del Garda, Gabrielle Kwarteng and H-Foundation and 4 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ mUmU 19th Birthday day / night - IWF & Kapsule at Invisible Wind Factory on Sat 
 
 ## Line-up
 
+- Cersy
 - Francesco Del Garda
 - Gabrielle Kwarteng
 - H-Foundation

@@ -1,6 +1,6 @@
 # Dirty Daddy Don
 
-Dirty Daddy Don is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at KREUZWERK, Berlin on Fri, 1 Jan 2027.
+Dirty Daddy Don is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at KREUZWERK, Berlin on Fri, 1 Jan 2027.
 
 Dirty Daddy Don is a techno and house artist based in Canada, with 79 gigs on soundcheck across Amsterdam, Athens, Berlin and Dresden and 5 more. Often billed alongside Majdolen, Khloe and Skankstasy. Next up: KREUZWERK, Berlin on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Dirty Daddy Don is a techno and house artist based in Canada, with 79 gigs on so
 
 Majdolen, Khloe, Skankstasy
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtydaddydon/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtydaddydon/)*

@@ -1,6 +1,6 @@
 # Hekato
 
-Hekato is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Crackhouse, Gdansk on Sat, 28 Nov 2026.
+Hekato is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Crackhouse, Gdansk on Sat, 28 Nov 2026.
 
 Hekato is a techno and house artist based in Poland, with 62 gigs on soundcheck across Amsterdam, Berlin, Gdansk and Hamburg and 6 more. Often billed alongside Mislaw, Lucyd and Rethe. Next up: Crackhouse, Gdansk on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Hekato is a techno and house artist based in Poland, with 62 gigs on soundcheck 
 
 Mislaw, Lucyd, Rethe
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hekato/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hekato/)*

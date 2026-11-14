@@ -1,6 +1,6 @@
 # dj blip
 
-dj blip is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Golden Pudel Club, Hamburg on Fri, 20 Nov 2026.
+dj blip is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Golden Pudel Club, Hamburg on Fri, 20 Nov 2026.
 
 dj blip is a techno and progressive house artist based in Germany, with 33 gigs on soundcheck across Copenhagen and Hamburg. Often billed alongside Shimmy Robin, Laetizia and Newinfluenzer. Next up: Golden Pudel Club, Hamburg on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ dj blip is a techno and progressive house artist based in Germany, with 33 gigs 
 
 Shimmy Robin, Laetizia, Newinfluenzer
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djblip/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djblip/)*

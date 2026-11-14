@@ -1,6 +1,6 @@
 # Tom Zeta
 
-Tom Zeta is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Hive Club, Zurich on Fri, 20 Nov 2026.
+Tom Zeta is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Hive Club, Zurich on Fri, 20 Nov 2026.
 
 Tom Zeta is a house and deep house artist based in Netherlands, with 31 gigs on soundcheck across Amsterdam, Azerbaijan, Barcelona and Belgrade and 10 more. Often billed alongside Adam Ten, Matthias Tanzmann and Mita Gami. Next up: Hive Club, Zurich on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Tom Zeta is a house and deep house artist based in Netherlands, with 31 gigs on 
 
 Adam Ten, Matthias Tanzmann, Mita Gami
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomzeta/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomzeta/)*

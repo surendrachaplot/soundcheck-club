@@ -1,14 +1,13 @@
 # Barbara Boeing
 
-Barbara Boeing is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at OXI, Berlin on Fri, 13 Nov 2026.
+Barbara Boeing is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Inkonst, Malmo on Sat, 14 Nov 2026.
 
-Barbara Boeing is a house and disco artist based in Brazil, with 130 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 47 more. Often billed alongside Kapote, Cody Currie and Max NRG Supply. Next up: OXI, Berlin on Fri 13 Nov.
+Barbara Boeing is a house and disco artist based in Brazil, with 130 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 47 more. Often billed alongside Kapote, Cody Currie and Max NRG Supply. Next up: Inkonst, Malmo on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | OXI | Berlin |
 | Sat, 14 Nov 2026 | Inkonst | Malmo |
 | Sat, 14 Nov 2026 | Blå | Oslo |
 | Fri, 20 Nov 2026 | Palais Mascotte | Zurich |
@@ -17,6 +16,7 @@ Barbara Boeing is a house and disco artist based in Brazil, with 130 gigs on sou
 
 ## Recently played
 
+- OXI, Berlin · Fri, 13 Nov 2026
 - TBA - DTLA, Los Angeles · Fri, 2 Oct 2026
 - Système, Montreal · Fri, 25 Sept 2026
 - Mindener Straße Unter dem Ostwestfalendamm, Bielefeld · Sat, 19 Sept 2026
@@ -24,10 +24,9 @@ Barbara Boeing is a house and disco artist based in Brazil, with 130 gigs on sou
 - Else, Berlin · Sat, 15 Aug 2026
 - Night Tales, London · Sat, 8 Aug 2026
 - TBA - Villa di Fiorano - Via di Fioranello 18, Rome · Sun, 19 Jul 2026
-- Bar Datcha, Montreal · Fri, 26 Jun 2026
 
 ## Shares bills with
 
 Kapote, Cody Currie, Max NRG Supply
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/barbaraboeing/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/barbaraboeing/)*

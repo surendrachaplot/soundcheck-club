@@ -1,6 +1,6 @@
 # Maik Miroux
 
-Maik Miroux is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Casa Amante Club, Madrid on Sat, 14 Nov 2026.
+Maik Miroux is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Casa Amante Club, Madrid on Sat, 14 Nov 2026.
 
 Maik Miroux is a house and electronica artist based in Spain, with 122 gigs on soundcheck across Berlin, Bologna, Ibiza and Madrid. Often billed alongside Torrione, Body-O and Victor Carré. Next up: Casa Amante Club, Madrid on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Maik Miroux is a house and electronica artist based in Spain, with 122 gigs on s
 
 Torrione, Body-O, Victor Carré
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maikmiroux/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maikmiroux/)*

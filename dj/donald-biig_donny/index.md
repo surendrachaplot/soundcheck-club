@@ -1,6 +1,6 @@
 # DONALD - BIIG_DONNY
 
-DONALD - BIIG_DONNY is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at FOLD, London on Sun, 27 Dec 2026.
+DONALD - BIIG_DONNY is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at FOLD, London on Sun, 27 Dec 2026.
 
 DONALD - BIIG_DONNY is a house and techno artist based in Italy, with 52 gigs on soundcheck across Athens, Bali, Bangkok and Barcelona and 21 more. Often billed alongside Munir Nadir, Alex Dima and Cristian Sarde. Next up: FOLD, London on Sun 27 Dec.
 
@@ -25,4 +25,4 @@ DONALD - BIIG_DONNY is a house and techno artist based in Italy, with 52 gigs on
 
 Munir Nadir, Alex Dima, Cristian Sarde
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/donald-biig_donny/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/donald-biig_donny/)*

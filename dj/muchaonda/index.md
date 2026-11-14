@@ -1,6 +1,6 @@
 # Mucha Onda
 
-Mucha Onda is a Reggaeton and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Relink:Data, Mexico City on Wed, 18 Nov 2026.
+Mucha Onda is a Reggaeton and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Relink:Data, Mexico City on Wed, 18 Nov 2026.
 
 Mucha Onda is a reggaeton and club artist based in Mexico, with 17 gigs on soundcheck across Mexico City. Often billed alongside Lukrø, Deejay Energy and Dj Diego. Next up: Relink:Data, Mexico City on Wed 18 Nov.
 
@@ -25,4 +25,4 @@ Mucha Onda is a reggaeton and club artist based in Mexico, with 17 gigs on sound
 
 Lukrø, Deejay Energy, Dj Diego (1)
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/muchaonda/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/muchaonda/)*

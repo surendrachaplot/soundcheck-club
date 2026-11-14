@@ -1,6 +1,6 @@
 # Madalba
 
-Madalba is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Tresor / Globus, Berlin on Sat, 19 Dec 2026.
+Madalba is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Tresor / Globus, Berlin on Sat, 19 Dec 2026.
 
 Madalba is a techno and house artist based in Italy, with 101 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Bologna and 20 more. Often billed alongside Handmade, Amperia and DJ TOOL. Next up: Tresor / Globus, Berlin on Sat 19 Dec.
 
@@ -26,4 +26,4 @@ Madalba is a techno and house artist based in Italy, with 101 gigs on soundcheck
 
 Handmade, Amperia, DJ TOOL
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/madalba/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/madalba/)*

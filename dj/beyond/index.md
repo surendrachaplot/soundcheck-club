@@ -1,6 +1,6 @@
 # Beyond
 
-Beyond is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at DNA. CLUB, Berlin on Sat, 14 Nov 2026.
+Beyond is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at DNA. CLUB, Berlin on Sat, 14 Nov 2026.
 
 Beyond is a house and techno artist based in Spain, with 10 gigs on soundcheck across Barcelona, Berlin, Cologne and Los Angeles and 4 more. Often billed alongside Armin van Buuren, Astrix and Billy Gillies. Next up: DNA. CLUB, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Beyond is a house and techno artist based in Spain, with 10 gigs on soundcheck a
 
 Armin van Buuren, Astrix, Billy Gillies
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beyond/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beyond/)*

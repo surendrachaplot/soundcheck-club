@@ -1,6 +1,6 @@
 # Balša
 
-Balša is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Frka, Bosnia-and-herzegovina on Fri, 20 Nov 2026.
+Balša is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Frka, Bosnia-and-herzegovina on Fri, 20 Nov 2026.
 
 Balša is a techno and electronica artist based in Serbia, with 16 gigs on soundcheck across Belgrade and Bosnia And Herzegovina. Often billed alongside Dažbog, .Paragon and aleksssa. Next up: Frka, Bosnia And Herzegovina on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Balša is a techno and electronica artist based in Serbia, with 16 gigs on sound
 
 Dažbog, .Paragon, aleksssa
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/balsa-se/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/balsa-se/)*

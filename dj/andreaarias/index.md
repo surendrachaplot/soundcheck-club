@@ -1,6 +1,6 @@
 # Andrea Arias
 
-Andrea Arias is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
+Andrea Arias is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
 
 Andrea Arias is a techno and electro artist based in Colombia, with 29 gigs on soundcheck across Barcelona, Bogotá, Colombia and Madrid and 3 more. Often billed alongside Cybernea, Alex Jockey and Delectro. Next up: El Rio Hostel, Colombia on Wed 3 Mar.
 
@@ -25,4 +25,4 @@ Andrea Arias is a techno and electro artist based in Colombia, with 29 gigs on s
 
 Cybernea, Alex Jockey, Delectro (2)
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andreaarias/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andreaarias/)*

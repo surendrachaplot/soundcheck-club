@@ -1,6 +1,6 @@
 # Tim Hagemann
 
-Tim Hagemann is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Fabrik Du Plaisir, Zurich on Sat, 14 Nov 2026.
+Tim Hagemann is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Fabrik Du Plaisir, Zurich on Sat, 14 Nov 2026.
 
 Tim Hagemann is a techno and house artist based in Germany, with 38 gigs on soundcheck across Baden W Rttemberg, Bangkok, Berlin and Cologne and 4 more. Often billed alongside KEN (DE), Tobias Sommer and DJ PayPaul. Next up: Fabrik Du Plaisir, Zurich on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Tim Hagemann is a techno and house artist based in Germany, with 38 gigs on soun
 
 KEN (DE), Tobias Sommer, DJ PayPaul
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/timhagemann/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/timhagemann/)*

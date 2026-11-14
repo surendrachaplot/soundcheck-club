@@ -1,6 +1,6 @@
 # PEDRØ
 
-PEDRØ is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Firepit Art Gallery and Studios CIC, London on Fri, 27 Nov 2026.
+PEDRØ is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Firepit Art Gallery and Studios CIC, London on Fri, 27 Nov 2026.
 
 PEDRØ is a techno and acid artist based in United Kingdom, with 30 gigs on soundcheck across Glasgow and London. Often billed alongside fTronic, S_STEELE and teleopath. Next up: Firepit Art Gallery and Studios CIC, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ PEDRØ is a techno and acid artist based in United Kingdom, with 30 gigs on soun
 
 fTronic, S_STEELE, teleopath
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pedro-uk/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pedro-uk/)*

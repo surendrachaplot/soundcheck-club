@@ -1,6 +1,6 @@
 # Dalston Superstore
 
-Dalston Superstore is a music venue in London with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "Fast & Bi-Furious" on Fri, 20 Nov 2026.
+Dalston Superstore is a music venue in London with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. The next is "Fast & Bi-Furious" on Fri, 20 Nov 2026.
 
 Dalston Superstore is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Buggery Grips, CHEZA LUCINA, RICO RICA and Tom Place. See dates, start times and who's playing. 117 Kingsland High St; Dalston; London E8 2PB; United Kingdom.
 
@@ -14,4 +14,4 @@ Dalston Superstore is a music venue in London listed on soundcheck. 1 upcoming g
 
 117 Kingsland High St; Dalston; London E8 2PB; United Kingdom, London
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/dalston-superstore/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/dalston-superstore/)*

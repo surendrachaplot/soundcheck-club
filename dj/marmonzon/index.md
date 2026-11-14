@@ -1,6 +1,6 @@
 # Mar Monzon
 
-Mar Monzon is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Parque de la Ciudad, CABA, Buenos Aires on Sat, 14 Nov 2026.
+Mar Monzon is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Parque de la Ciudad, CABA, Buenos Aires on Sat, 14 Nov 2026.
 
 Mar Monzon is a house and tech house artist based in Argentina, with 13 gigs on soundcheck across Buenos Aires and Uruguay. Often billed alongside Lulú Matheou, Manu Oubiña and Pabels. Next up: TBA - Parque de la Ciudad, CABA, Buenos Aires on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Mar Monzon is a house and tech house artist based in Argentina, with 13 gigs on 
 
 Lulú Matheou, Manu Oubiña, Pabels
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marmonzon/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marmonzon/)*

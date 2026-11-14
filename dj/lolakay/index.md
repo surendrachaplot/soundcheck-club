@@ -1,6 +1,6 @@
 # Lola Kay
 
-Lola Kay is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Acud Macht NEU, Berlin on Sat, 21 Nov 2026.
+Lola Kay is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Acud Macht NEU, Berlin on Sat, 21 Nov 2026.
 
 Lola Kay is a techno and house artist based in Germany, with 70 gigs on soundcheck across Barcelona, Berlin, Copenhagen and London and 5 more. Often billed alongside ValaV, AMARANTE and REXER. Next up: Acud Macht NEU, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Lola Kay is a techno and house artist based in Germany, with 70 gigs on soundche
 
 ValaV, AMARANTE, REXER
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lolakay/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lolakay/)*

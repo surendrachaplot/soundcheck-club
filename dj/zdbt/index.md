@@ -1,6 +1,6 @@
 # ZDBT
 
-ZDBT is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Post Bar, Helsinki on Sat, 14 Nov 2026.
+ZDBT is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Post Bar, Helsinki on Sat, 14 Nov 2026.
 
 ZDBT is a techno and house artist based in Canada, with 60 gigs on soundcheck across Berlin, Calgary, Detroit and Helsinki and 6 more. Often billed alongside Syd Woz, Dairy Free and NAP (MX). Next up: Post Bar, Helsinki on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ ZDBT is a techno and house artist based in Canada, with 60 gigs on soundcheck ac
 
 Syd Woz, Dairy Free, NAP (MX)
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zdbt/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zdbt/)*

@@ -1,6 +1,6 @@
 # Mike ruff cut Lloyd
 
-Mike ruff cut Lloyd is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Steel Yard, London on Fri, 1 Jan 2027.
+Mike ruff cut Lloyd is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at The Steel Yard, London on Fri, 1 Jan 2027.
 
 Mike ruff cut Lloyd is a garage and house artist based in United Kingdom, with 23 gigs on soundcheck across London. Often billed alongside MC Creed, Chris Jones and DJ S (UK). Next up: The Steel Yard, London on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Mike ruff cut Lloyd is a garage and house artist based in United Kingdom, with 2
 
 MC Creed, Chris Jones, DJ S (UK)
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeruffcutlloyd/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeruffcutlloyd/)*

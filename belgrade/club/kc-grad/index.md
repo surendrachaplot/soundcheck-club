@@ -1,6 +1,6 @@
 # KC Grad
 
-KC Grad is a music venue in Belgrade with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "launmomentdat meets KC Grad" on Sat, 28 Nov 2026.
+KC Grad is a music venue in Belgrade with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "launmomentdat meets KC Grad" on Sat, 28 Nov 2026.
 
 KC Grad is a music venue in Belgrade listed on soundcheck. 2 upcoming gigs, with line-ups including brÅk, Mini Zucchini and Mitsubitchi. See dates, start times and who's playing. Belgrade, 11000, Serbia.
 
@@ -15,4 +15,4 @@ KC Grad is a music venue in Belgrade listed on soundcheck. 2 upcoming gigs, with
 
 Belgrade, 11000, Serbia, Belgrade
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/kc-grad/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/kc-grad/)*

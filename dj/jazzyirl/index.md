@@ -1,14 +1,13 @@
 # Jazzy (IRL)
 
-Jazzy (IRL) is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Invisible Wind Factory, Liverpool on Fri, 13 Nov 2026.
+Jazzy (IRL) is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at The Limelight, Belfast on Sat, 14 Nov 2026.
 
-Jazzy (IRL) is a house and tech house artist based in Ireland, with 23 gigs on soundcheck across Amsterdam, Austin, Belfast and Boston and 13 more. Often billed alongside RUZE, Badger (UK) and Chris Lorenzo. Next up: Invisible Wind Factory, Liverpool on Fri 13 Nov.
+Jazzy (IRL) is a house and tech house artist based in Ireland, with 23 gigs on soundcheck across Amsterdam, Austin, Belfast and Boston and 13 more. Often billed alongside RUZE, Badger (UK) and Chris Lorenzo. Next up: The Limelight, Belfast on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Invisible Wind Factory | Liverpool |
 | Sat, 14 Nov 2026 | The Limelight | Belfast |
 | Sat, 21 Nov 2026 | Digital | Newcastle |
 | Sat, 28 Nov 2026 | Document | Bristol |
@@ -19,6 +18,7 @@ Jazzy (IRL) is a house and tech house artist based in Ireland, with 23 gigs on s
 
 ## Recently played
 
+- Invisible Wind Factory, Liverpool · Fri, 13 Nov 2026
 - Village Studios, Vancouver · Sun, 11 Oct 2026
 - Spybar, Chicago · Sat, 10 Oct 2026
 - TBA, Los Angeles · Sun, 27 Sept 2026
@@ -26,10 +26,9 @@ Jazzy (IRL) is a house and tech house artist based in Ireland, with 23 gigs on s
 - UNLOCKED, London · Thu, 16 Jul 2026
 - BCM, Mallorca · Wed, 1 Jul 2026
 - Ashton Court Estate, Bristol · Sat, 23 May 2026
-- Shelter Amsterdam, Amsterdam · Fri, 1 May 2026
 
 ## Shares bills with
 
 RUZE, Badger (UK), Chris Lorenzo
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jazzyirl/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jazzyirl/)*

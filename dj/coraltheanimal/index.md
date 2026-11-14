@@ -1,6 +1,6 @@
 # Coral the Animal
 
-Coral the Animal is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
+Coral the Animal is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
 
 Coral the Animal is a house and hip-hop artist based in South Korea, with 28 gigs on soundcheck across Seoul and South Korea. Often billed alongside Bagagee Viphex13, Funkin Cat and Gamma Knife. Next up: TBA - Jacks Bar, South Korea on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Coral the Animal is a house and hip-hop artist based in South Korea, with 28 gig
 
 Bagagee Viphex13, Funkin Cat, Gamma Knife
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/coraltheanimal/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/coraltheanimal/)*

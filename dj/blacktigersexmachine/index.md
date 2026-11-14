@@ -1,6 +1,6 @@
 # Black Tiger Sex Machine
 
-Black Tiger Sex Machine is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Central Florida Fairgrounds, Florida on Fri, 23 Apr 2027.
+Black Tiger Sex Machine is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Central Florida Fairgrounds, Florida on Fri, 23 Apr 2027.
 
 Black Tiger Sex Machine is a bass and dubstep artist based in Canada, with 20 gigs on soundcheck across Austin, Boston, Buenos Aires and Dallas/Fort Worth and 10 more. Often billed alongside Lilly Palmer, Benny Benassi and Boys Noize. Next up: Central Florida Fairgrounds, Florida on Fri 23 Apr.
 
@@ -25,4 +25,4 @@ Black Tiger Sex Machine is a bass and dubstep artist based in Canada, with 20 gi
 
 Lilly Palmer, Benny Benassi, Boys Noize
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blacktigersexmachine/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blacktigersexmachine/)*

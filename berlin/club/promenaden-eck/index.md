@@ -1,6 +1,6 @@
 # Promenaden Eck
 
-Promenaden Eck is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Insel der Jugend X Promenaden Eck (free entry)" on Thu, 19 Nov 2026.
+Promenaden Eck is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Insel der Jugend X Promenaden Eck (free entry)" on Thu, 19 Nov 2026.
 
 Promenaden Eck is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with line-ups including 7heads, Alexander Paulski, Artfx! and Bin Okin and 2 more. See dates, start times and who's playing. Schillerpromenade 11, 12049 Berlin.
 
@@ -18,4 +18,4 @@ Promenaden Eck is a music venue in Berlin listed on soundcheck. 5 upcoming gigs,
 
 Schillerpromenade 11, 12049 Berlin, Berlin
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/promenaden-eck/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/promenaden-eck/)*

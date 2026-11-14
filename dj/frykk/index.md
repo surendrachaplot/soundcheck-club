@@ -1,6 +1,6 @@
 # Frykk
 
-Frykk is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Low Key Records, Sofia on Sun, 6 Dec 2026.
+Frykk is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Low Key Records, Sofia on Sun, 6 Dec 2026.
 
 Frykk is a techno and electronica artist based in Bulgaria, with 22 gigs on soundcheck across Sofia. Often billed alongside Factuaw, Alexandar Kyosev and Laylla Dane. Next up: Low Key Records, Sofia on Sun 6 Dec.
 
@@ -25,4 +25,4 @@ Frykk is a techno and electronica artist based in Bulgaria, with 22 gigs on soun
 
 Factuaw, Alexandar Kyosev, Laylla Dane
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frykk/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frykk/)*

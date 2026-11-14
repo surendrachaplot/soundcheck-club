@@ -1,6 +1,6 @@
 # Chino Latino
 
-Chino Latino is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 10 Dec 2026.
+Chino Latino is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 10 Dec 2026.
 
 Chino Latino is a house and electro artist based in Argentina, with 11 gigs on soundcheck across Barcelona. Often billed alongside Mariano Cima, enem and Aleski. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ Chino Latino is a house and electro artist based in Argentina, with 11 gigs on s
 
 Mariano Cima, enem, Aleski
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chinolatino/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chinolatino/)*

@@ -1,6 +1,6 @@
 # Nooriyah
 
-Nooriyah is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Skatecafe, Amsterdam on Fri, 20 Nov 2026.
+Nooriyah is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Skatecafe, Amsterdam on Fri, 20 Nov 2026.
 
 Nooriyah is a house and club artist based in United Kingdom, with 72 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Barcelona and 37 more. Often billed alongside Jyoty, NIKS and Meg10. Next up: Skatecafe, Amsterdam on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Nooriyah is a house and club artist based in United Kingdom, with 72 gigs on sou
 
 Jyoty, NIKS, Meg10
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nooriyah/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nooriyah/)*

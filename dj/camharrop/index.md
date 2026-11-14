@@ -1,6 +1,6 @@
 # Cam Harrop
 
-Cam Harrop is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Plant & Deck, Leeds on Fri, 18 Dec 2026.
+Cam Harrop is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Plant & Deck, Leeds on Fri, 18 Dec 2026.
 
 Cam Harrop is a tech house and house artist based in United Kingdom, with 17 gigs on soundcheck across Leeds, London and Newcastle. Often billed alongside Kinso, Luke Reynolds and Redshift. Next up: Plant & Deck, Leeds on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Cam Harrop is a tech house and house artist based in United Kingdom, with 17 gig
 
 Kinso, Luke Reynolds, Redshift (2)
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/camharrop/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/camharrop/)*

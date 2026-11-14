@@ -1,6 +1,6 @@
 # 333CXT
 
-333CXT is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Arts Club, Liverpool on Fri, 4 Dec 2026.
+333CXT is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Arts Club, Liverpool on Fri, 4 Dec 2026.
 
 333CXT is a techno and hardcore artist based in Germany, with 24 gigs on soundcheck across Antwerp, Berlin, Cologne and Glasgow and 7 more. Often billed alongside VECTA, FennX and SCHELLT. Next up: Arts Club, Liverpool on Fri 4 Dec.
 
@@ -26,4 +26,4 @@
 
 VECTA, FennX, SCHELLT
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/333cxt/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/333cxt/)*

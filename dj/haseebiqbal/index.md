@@ -1,6 +1,6 @@
 # Haseeb Iqbal
 
-Haseeb Iqbal is a Dub and Jazz artist with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Bar v Krymský, Prague on Sat, 14 Nov 2026.
+Haseeb Iqbal is a Dub and Jazz artist with 5 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Bar v Krymský, Prague on Sat, 14 Nov 2026.
 
 Haseeb Iqbal is a dub and jazz artist based in United Kingdom, with 118 gigs on soundcheck across Berlin, Brighton, Bristol and Copenhagen and 17 more. Often billed alongside Novelist, Donna Leake and Mark Quinn. Next up: Bar v Krymský, Prague on Sat 14 Nov.
 
@@ -29,4 +29,4 @@ Haseeb Iqbal is a dub and jazz artist based in United Kingdom, with 118 gigs on 
 
 Novelist, Donna Leake, Mark Quinn
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/haseebiqbal/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/haseebiqbal/)*

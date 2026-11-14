@@ -1,6 +1,6 @@
 # Jim O'Rourke
 
-Jim O'Rourke is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
+Jim O'Rourke is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
 
 Jim O'Rourke is an experimental and ambient artist based in United States of America, with 15 gigs on soundcheck across Chubu, Krakow, Munich and Nantes and 5 more. Often billed alongside Eiko Ishibashi, billy woods and 2K88. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Jim O'Rourke is an experimental and ambient artist based in United States of Ame
 
 Eiko Ishibashi, billy woods, 2K88
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jimorourke/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jimorourke/)*

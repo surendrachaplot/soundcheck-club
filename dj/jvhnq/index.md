@@ -1,6 +1,6 @@
 # Jvhnq
 
-Jvhnq is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Sensorium, Berlin on Fri, 20 Nov 2026.
+Jvhnq is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Sensorium, Berlin on Fri, 20 Nov 2026.
 
 Jvhnq is a tech house and techno artist based in Germany, with 13 gigs on soundcheck across Berlin. Often billed alongside Finjas, DaSoMaZo and Florens. Next up: Sensorium, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Jvhnq is a tech house and techno artist based in Germany, with 13 gigs on soundc
 
 Finjas, DaSoMaZo, Florens
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jvhnq/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jvhnq/)*

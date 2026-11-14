@@ -1,6 +1,6 @@
 # Eisikko
 
-Eisikko is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at C2 OST, Karlsruhe on Sat, 21 Nov 2026.
+Eisikko is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at C2 OST, Karlsruhe on Sat, 21 Nov 2026.
 
 Eisikko is a techno and house artist based in Germany, with 8 gigs on soundcheck across Karlsruhe and Mannheim. Often billed alongside 20 100, tanteEMMA and lose. Next up: C2 OST, Karlsruhe on Sat 21 Nov.
 
@@ -24,4 +24,4 @@ Eisikko is a techno and house artist based in Germany, with 8 gigs on soundcheck
 
 20 100, tanteEMMA, lose
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eisikko/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eisikko/)*

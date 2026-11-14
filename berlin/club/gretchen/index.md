@@ -1,6 +1,6 @@
 # Gretchen
 
-Gretchen is a music venue in Berlin with 26 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Recycle: BLACKOUT BERLIN" on Sat, 14 Nov 2026.
+Gretchen is a music venue in Berlin with 26 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Recycle: BLACKOUT BERLIN" on Sat, 14 Nov 2026.
 
 Gretchen is a music venue in Berlin listed on soundcheck. 26 upcoming gigs, with line-ups including alllone, Allynx, anna andersrum and Ant TC1 and 2 more. See dates, start times and who's playing. Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany.
 
@@ -23,4 +23,4 @@ Gretchen is a music venue in Berlin listed on soundcheck. 26 upcoming gigs, with
 
 Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany, Berlin
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gretchen/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gretchen/)*

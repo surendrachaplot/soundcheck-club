@@ -1,6 +1,6 @@
 # DJ Cozy
 
-DJ Cozy is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Jupiter Disco, New York City on Thu, 19 Nov 2026.
+DJ Cozy is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Jupiter Disco, New York City on Thu, 19 Nov 2026.
 
 DJ Cozy is a techno and electro artist based in United States of America, with 9 gigs on soundcheck across New York City. Often billed alongside Ana Lola Roman, Atomheartmommy and Christian Tokyo. Next up: Jupiter Disco, New York City on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ DJ Cozy is a techno and electro artist based in United States of America, with 9
 
 Ana Lola Roman, Atomheartmommy, Christian Tokyo
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djcozy/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djcozy/)*

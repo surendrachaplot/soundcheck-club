@@ -1,6 +1,6 @@
 # Yate
 
-Yate is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Aoyama Hachi, Tokyo on Sun, 6 Dec 2026.
+Yate is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Aoyama Hachi, Tokyo on Sun, 6 Dec 2026.
 
 Yate is a techno and house artist based in Ukraine, with 12 gigs on soundcheck across Tbilisi and Tokyo. Often billed alongside SIGNAL (JP), Ayana Pattra and Sofozor. Next up: Aoyama Hachi, Tokyo on Sun 6 Dec.
 
@@ -25,4 +25,4 @@ Yate is a techno and house artist based in Ukraine, with 12 gigs on soundcheck a
 
 SIGNAL (JP), Ayana Pattra, Sofozor
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yate/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yate/)*

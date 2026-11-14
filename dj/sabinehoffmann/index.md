@@ -1,6 +1,6 @@
 # Sabine Hoffmann
 
-Sabine Hoffmann is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Kater, Berlin on Sat, 5 Dec 2026.
+Sabine Hoffmann is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Kater, Berlin on Sat, 5 Dec 2026.
 
 Sabine Hoffmann is a techno and house artist based in Germany, with 96 gigs on soundcheck across Berlin, Dresden, Hamburg and Hannover. Often billed alongside Tinko, Shaleen and Kenneth Christiansen. Next up: Kater, Berlin on Sat 5 Dec.
 
@@ -27,4 +27,4 @@ Sabine Hoffmann is a techno and house artist based in Germany, with 96 gigs on s
 
 Tinko, Shaleen, Kenneth Christiansen
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sabinehoffmann/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sabinehoffmann/)*

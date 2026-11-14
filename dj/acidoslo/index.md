@@ -1,6 +1,6 @@
 # Acid Oslo
 
-Acid Oslo is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at La Gare / Le Gore, Paris on Mon, 16 Nov 2026.
+Acid Oslo is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at La Gare / Le Gore, Paris on Mon, 16 Nov 2026.
 
 Acid Oslo is a techno and electro artist based in France, with 95 gigs on soundcheck across Barcelona, Lyon, Paris and Turin. Often billed alongside NEWIN, Ben Manson and Karmakiddo. Next up: La Gare / Le Gore, Paris on Mon 16 Nov.
 
@@ -28,4 +28,4 @@ Acid Oslo is a techno and electro artist based in France, with 95 gigs on soundc
 
 NEWIN, Ben Manson, Karmakiddo
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/acidoslo/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/acidoslo/)*

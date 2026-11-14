@@ -1,6 +1,6 @@
 # Pauli B
 
-Pauli B is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at YSY, Berlin on Sat, 14 Nov 2026.
+Pauli B is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at YSY, Berlin on Sat, 14 Nov 2026.
 
 Pauli B is a house and tech house artist based in Germany, with 7 gigs on soundcheck across Berlin. Often billed alongside Danda, JULÉZ and CC:NIELOS. Next up: YSY, Berlin on Sat 14 Nov.
 
@@ -23,4 +23,4 @@ Pauli B is a house and tech house artist based in Germany, with 7 gigs on soundc
 
 Danda, JULÉZ, CC:NIELOS
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paulib/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paulib/)*

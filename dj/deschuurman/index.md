@@ -1,6 +1,6 @@
 # De Schuurman
 
-De Schuurman is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at nachbar, Amsterdam on Sat, 28 Nov 2026.
+De Schuurman is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at nachbar, Amsterdam on Sat, 28 Nov 2026.
 
 De Schuurman is a techno and house artist based in Netherlands, with 65 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 24 more. Often billed alongside Nsasi, Catu Diosis and DJ Travella. Next up: nachbar, Amsterdam on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ De Schuurman is a techno and house artist based in Netherlands, with 65 gigs on 
 
 Nsasi, Catu Diosis, DJ Travella
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deschuurman/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deschuurman/)*

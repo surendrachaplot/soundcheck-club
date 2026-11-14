@@ -1,6 +1,6 @@
 # Sho Sho
 
-Sho Sho is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Thu, 26 Nov 2026.
+Sho Sho is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Thu, 26 Nov 2026.
 
 Sho Sho is a bass and house artist based in France, with 13 gigs on soundcheck across Bangkok, Barcelona, Brighton and Ho Chi Minh City and 1 more. Often billed alongside DESNUAGES, Amine K and CHARLES-EDDY. Next up: DJ Bar Bridge Shinjuku, Tokyo on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Sho Sho is a bass and house artist based in France, with 13 gigs on soundcheck a
 
 DESNUAGES, Amine K, CHARLES-EDDY
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shosho-th/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shosho-th/)*

@@ -1,6 +1,6 @@
 # Amphi
 
-Amphi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Heide Museum of Modern Art Sculpture Park, Melbourne on Sat, 19 Dec 2026.
+Amphi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Heide Museum of Modern Art Sculpture Park, Melbourne on Sat, 19 Dec 2026.
 
 Amphi is a techno and house artist based in Australia, with 18 gigs on soundcheck across Hobart and Melbourne. Often billed alongside Bex, Kithers and Rev Lon. Next up: Heide Museum of Modern Art Sculpture Park, Melbourne on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Amphi is a techno and house artist based in Australia, with 18 gigs on soundchec
 
 Bex, Kithers, Rev Lon
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amphi/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amphi/)*

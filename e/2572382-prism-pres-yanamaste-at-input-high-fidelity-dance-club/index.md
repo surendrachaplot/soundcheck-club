@@ -1,6 +1,6 @@
 # PRISM pres Yanamaste at INPUT High Fidelity Dance Club
 
-PRISM pres Yanamaste at INPUT High Fidelity Dance Club on Fri 25 Dec, Barcelona. 1 artist: Yanamaste. Techno. See the line-up on soundcheck.
+PRISM pres Yanamaste at INPUT High Fidelity Dance Club on Fri 25 Dec, Barcelona. 2 artists: Ronze and Yanamaste. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ PRISM pres Yanamaste at INPUT High Fidelity Dance Club on Fri 25 Dec, Barcelona.
 
 ## Line-up
 
+- Ronze
 - Yanamaste
 
 *Source: [soundcheck](https://soundcheck.club/e/2572382-prism-pres-yanamaste-at-input-high-fidelity-dance-club/)*

@@ -1,6 +1,6 @@
 # Idjut Boys
 
-Idjut Boys is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Sameheads, Berlin on Sat, 28 Nov 2026.
+Idjut Boys is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Sameheads, Berlin on Sat, 28 Nov 2026.
 
 Idjut Boys is a disco and house artist based in United Kingdom, with 35 gigs on soundcheck across Athens, Bali, Barcelona and Berlin and 11 more. Often billed alongside C.L.A.W.S., Galen and Grace Sands. Next up: Sameheads, Berlin on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Idjut Boys is a disco and house artist based in United Kingdom, with 35 gigs on 
 
 C.L.A.W.S., Galen, Grace Sands
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/idjutboys/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/idjutboys/)*

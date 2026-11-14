@@ -1,6 +1,6 @@
 # Allynx
 
-Allynx is a Electronica and Jazz artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Gretchen, Berlin on Thu, 3 Dec 2026.
+Allynx is a Electronica and Jazz artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Gretchen, Berlin on Thu, 3 Dec 2026.
 
 Allynx is an electronica and jazz artist based in Germany, with 40 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Daniel Best, Marian Tone and Eddy Ramich. Next up: Gretchen, Berlin on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Allynx is an electronica and jazz artist based in Germany, with 40 gigs on sound
 
 Daniel Best, Marian Tone, Eddy Ramich
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/allynx/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/allynx/)*

@@ -1,6 +1,6 @@
 # Benteki
 
-Benteki is a Garage and Grime artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - EAST LONDON, London on Sat, 5 Dec 2026.
+Benteki is a Garage and Grime artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - EAST LONDON, London on Sat, 5 Dec 2026.
 
 Benteki is a garage and grime artist based in United Kingdom, with 14 gigs on soundcheck across Leeds and London. Often billed alongside SHIFT K3Y, GEM (UK) and Harry Yellop. Next up: TBA - EAST LONDON, London on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Benteki is a garage and grime artist based in United Kingdom, with 14 gigs on so
 
 SHIFT K3Y, GEM (UK), Harry Yellop
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benteki/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benteki/)*

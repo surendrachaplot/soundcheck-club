@@ -1,14 +1,13 @@
 # Gattaccio
 
-Gattaccio is a music venue in Florence with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Vieri Mura 'rundinas' Celebriamo L'uscita Dell'album" on Fri, 13 Nov 2026.
+Gattaccio is a music venue in Florence with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. The next is "Materia Vibrante ☆ vinyl set" on Sat, 14 Nov 2026.
 
-Gattaccio is a music venue in Florence listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing.
+Gattaccio is a music venue in Florence listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Vieri Mura 'rundinas' Celebriamo L'uscita Dell'album |  |
 | Sat, 14 Nov 2026 | Materia Vibrante ☆ vinyl set |  |
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/florence/club/gattaccio/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/florence/club/gattaccio/)*

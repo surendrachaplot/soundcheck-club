@@ -1,6 +1,6 @@
 # Arto (2)
 
-Arto (2) is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Baggen, Copenhagen on Fri, 20 Nov 2026.
+Arto (2) is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Baggen, Copenhagen on Fri, 20 Nov 2026.
 
 Arto is a house and balearic artist based in Denmark, with 11 gigs on soundcheck across Copenhagen. Often billed alongside dj bootymagic, Anton Goltermann and Max Finney. Next up: Baggen, Copenhagen on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Arto is a house and balearic artist based in Denmark, with 11 gigs on soundcheck
 
 dj bootymagic, Anton Goltermann, Max Finney
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arto-2/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arto-2/)*

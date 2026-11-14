@@ -1,6 +1,6 @@
 # Kühl
 
-Kühl is a Progressive House and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Turbina, Budapest on Sat, 14 Nov 2026.
+Kühl is a Progressive House and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Turbina, Budapest on Sat, 14 Nov 2026.
 
 Kühl is a progressive house and trance artist based in Hungary, with 19 gigs on soundcheck across Budapest. Often billed alongside Peter Makto, Heaven INC. and Chriss Ronson. Next up: Turbina, Budapest on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Kühl is a progressive house and trance artist based in Hungary, with 19 gigs on
 
 Peter Makto, Heaven INC., Chriss Ronson
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kuhl/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kuhl/)*

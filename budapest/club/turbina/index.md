@@ -1,14 +1,13 @@
 # Turbina
 
-Turbina is a music venue in Budapest with 10 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "5 YEARS OF KINK w/ D.DAN | CLUB ROOM: DIRTY CASH" on Fri, 13 Nov 2026.
+Turbina is a music venue in Budapest with 9 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "TURBINA ON PROGRESSIVE SOUNDS VOL.01" on Sat, 14 Nov 2026.
 
-Turbina is a music venue in Budapest listed on soundcheck. 10 upcoming gigs, with line-ups including Andrey Pushkarev, Atashi, Bencsama and Chris Dustin and 2 more. See dates, start times and who's playing. Budapest, Vajdahunyad street 4., 1082.
+Turbina is a music venue in Budapest listed on soundcheck. 9 upcoming gigs, with line-ups including Andrey Pushkarev, Atashi, Bencsama and Deepbass and 2 more. See dates, start times and who's playing. Budapest, Vajdahunyad street 4., 1082.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | 5 YEARS OF KINK w/ D.DAN / CLUB ROOM: DIRTY CASH | CRB, Chris Dustin, D.Dan, Klayman, SVR101, Sikztah, Terminal (2), Vatsanah |
 | Sat, 14 Nov 2026 | TURBINA ON PROGRESSIVE SOUNDS VOL.01 | East Cafe, Hunter (2), Kühl, Peter Makto, Rich |
 | Sat, 14 Nov 2026 | TECHNODUB SEANCE 15 YEARS ANNIVERSARY W / FEDERSEN | Federsen, Ferenc Szanati, Garpo, ZOL |
 | Thu, 19 Nov 2026 | ROOTZ x Turbina | Atashi, Bencsama, Rovizz, Switch Nollie |
@@ -23,4 +22,4 @@ Turbina is a music venue in Budapest listed on soundcheck. 10 upcoming gigs, wit
 
 Budapest, Vajdahunyad street 4., 1082, Budapest
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/turbina/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/turbina/)*

@@ -1,6 +1,6 @@
 # Melting 99
 
-Melting 99 is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Pawnshop, Taipei on Sat, 21 Nov 2026.
+Melting 99 is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Pawnshop, Taipei on Sat, 21 Nov 2026.
 
 Melting 99 is a techno and house artist based in Taiwan, with 47 gigs on soundcheck across Hanoi, New York City, Seoul and Taipei and 1 more. Often billed alongside Kerena, L-CC and miranda ku. Next up: Pawnshop, Taipei on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Melting 99 is a techno and house artist based in Taiwan, with 47 gigs on soundch
 
 Kerena, L-CC, miranda ku
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/melting99/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/melting99/)*

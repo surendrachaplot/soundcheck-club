@@ -1,6 +1,6 @@
 # RED MOJO
 
-RED MOJO is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Holy Poly, Lower-saxony on Fri, 20 Nov 2026.
+RED MOJO is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Holy Poly, Lower-saxony on Fri, 20 Nov 2026.
 
 RED MOJO is a trance and techno artist based in Germany, with 2 gigs on soundcheck across Lower Saxony and Münster. Often billed alongside DJ Dios, Delm and FRÆNCIS. Next up: Holy Poly, Lower Saxony on Fri 20 Nov.
 
@@ -15,4 +15,4 @@ RED MOJO is a trance and techno artist based in Germany, with 2 gigs on soundche
 
 DJ Dios, Delm, FRÆNCIS
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/redmojo/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/redmojo/)*

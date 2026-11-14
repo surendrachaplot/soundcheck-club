@@ -1,6 +1,6 @@
 # Dellavega
 
-Dellavega is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Opposite, Barcelona on Fri, 20 Nov 2026.
+Dellavega is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Opposite, Barcelona on Fri, 20 Nov 2026.
 
 Dellavega is a tech house and house artist based in Spain, with 11 gigs on soundcheck across Barcelona, Ibiza, Madrid and Seoul. Often billed alongside Ssero, De La Swing and Rendher. Next up: Opposite, Barcelona on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ Dellavega is a tech house and house artist based in Spain, with 11 gigs on sound
 
 Ssero, De La Swing, Rendher
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dellavega/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dellavega/)*

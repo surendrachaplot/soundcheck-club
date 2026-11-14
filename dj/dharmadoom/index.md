@@ -1,6 +1,6 @@
 # Dharma Doom
 
-Dharma Doom is a Minimal and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Uus Laine, Tallinn on Fri, 4 Dec 2026.
+Dharma Doom is a Minimal and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Uus Laine, Tallinn on Fri, 4 Dec 2026.
 
 Dharma Doom is a minimal and electronica artist based in Estonia, with 19 gigs on soundcheck across Berlin, Helsinki, Tallinn and Tbilisi and 1 more. Often billed alongside Shah Rud, Nikolajev and digidaria. Next up: Uus Laine, Tallinn on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Dharma Doom is a minimal and electronica artist based in Estonia, with 19 gigs o
 
 Shah Rud, Nikolajev, digidaria
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dharmadoom/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dharmadoom/)*

@@ -1,6 +1,6 @@
 # Ciclo
 
-Ciclo is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Sonorama, Medellin on Sat, 14 Nov 2026.
+Ciclo is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Sonorama, Medellin on Sat, 14 Nov 2026.
 
 Ciclo is a tech house and house artist based in Colombia, with 38 gigs on soundcheck across Amsterdam, Barcelona, Bogotá and Ibiza and 6 more. Often billed alongside Jose M, Obando and Raized. Next up: Sonorama, Medellin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Ciclo is a tech house and house artist based in Colombia, with 38 gigs on soundc
 
 Jose M, Obando, Raized
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ciclo/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ciclo/)*

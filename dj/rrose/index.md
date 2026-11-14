@@ -1,6 +1,6 @@
 # Rrose
 
-Rrose is a Techno and Experimental artist with 6 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Signal, New York City on Fri, 13 Nov 2026.
+Rrose is a Techno and Experimental artist with 6 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Signal, New York City on Fri, 13 Nov 2026.
 
 Rrose is a techno and experimental artist based in United States of America, with 160 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 52 more. Often billed alongside Wata Igarashi, DJ Nobu and Polygonia. Next up: Signal, New York City on Fri 13 Nov.
 
@@ -17,6 +17,7 @@ Rrose is a techno and experimental artist based in United States of America, wit
 
 ## Recently played
 
+- Signal, New York City · Fri, 13 Nov 2026
 - EXIT Glasgow, Glasgow · Sat, 31 Oct 2026
 - RADION, Amsterdam · Sat, 24 Oct 2026
 - Bajes Amsterdam, Amsterdam · Thu, 22 Oct 2026
@@ -24,10 +25,9 @@ Rrose is a techno and experimental artist based in United States of America, wit
 - Loods6, Amsterdam · Thu, 22 Oct 2026
 - Ormside Projects, London · Sun, 18 Oct 2026
 - Razzmatazz, Barcelona · Sun, 11 Oct 2026
-- SMUT Athens, Athens · Sat, 10 Oct 2026
 
 ## Shares bills with
 
 Wata Igarashi, DJ Nobu, Polygonia
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rrose/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rrose/)*

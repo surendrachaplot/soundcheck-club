@@ -1,6 +1,6 @@
 # Dankle
 
-Dankle is a Bass and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Plot 22, Sheffield on Fri, 18 Dec 2026.
+Dankle is a Bass and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Plot 22, Sheffield on Fri, 18 Dec 2026.
 
 Dankle is a bass and hardcore artist based in United Kingdom, with 11 gigs on soundcheck across Bristol, London, Manchester and Sheffield. Often billed alongside Phatworld, Ben Suff Donk and DJ Fingerblast. Next up: Plot 22, Sheffield on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Dankle is a bass and hardcore artist based in United Kingdom, with 11 gigs on so
 
 Phatworld, Ben Suff Donk, DJ Fingerblast
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dankle/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dankle/)*

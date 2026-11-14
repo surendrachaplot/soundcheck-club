@@ -1,6 +1,6 @@
 # Junkie Kid
 
-Junkie Kid is a Techno and Hardcore artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Festivalna Dvorana Lent, Slovenia on Sat, 14 Nov 2026.
+Junkie Kid is a Techno and Hardcore artist with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Festivalna Dvorana Lent, Slovenia on Sat, 14 Nov 2026.
 
 Junkie Kid is a techno and hardcore artist based in United States of America, with 22 gigs on soundcheck across Brisbane, Chicago, Houston and Istanbul and 15 more. Often billed alongside DJ GUESTLIST, HIJCKD and Mark Blair. Next up: Festivalna Dvorana Lent, Slovenia on Sat 14 Nov.
 
@@ -28,4 +28,4 @@ Junkie Kid is a techno and hardcore artist based in United States of America, wi
 
 DJ GUESTLIST, HIJCKD, Mark Blair
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/junkiekid/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/junkiekid/)*

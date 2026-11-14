@@ -1,6 +1,6 @@
 # TADI THE GREAT
 
-TADI THE GREAT is a Jazz and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Space Studios, South-east on Fri, 20 Nov 2026.
+TADI THE GREAT is a Jazz and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Space Studios, South-east on Fri, 20 Nov 2026.
 
 TADI THE GREAT is a jazz and funk / soul artist based in United Kingdom, with 7 gigs on soundcheck across London and South East. Often billed alongside Dexter Dooley. Next up: Space Studios, South East on Fri 20 Nov.
 
@@ -23,4 +23,4 @@ TADI THE GREAT is a jazz and funk / soul artist based in United Kingdom, with 7 
 
 Dexter Dooley
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tadithegreat/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tadithegreat/)*

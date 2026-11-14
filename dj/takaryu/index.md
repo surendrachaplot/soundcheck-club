@@ -1,6 +1,6 @@
 # takaryu
 
-takaryu is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Nakano Heavysick Zero, Tokyo on Sun, 29 Nov 2026.
+takaryu is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Nakano Heavysick Zero, Tokyo on Sun, 29 Nov 2026.
 
 takaryu is a garage and bass artist based in Japan, with 13 gigs on soundcheck across Tokyo. Often billed alongside Genick, SPRAYBOX and Carpainter. Next up: Nakano Heavysick Zero, Tokyo on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ takaryu is a garage and bass artist based in Japan, with 13 gigs on soundcheck a
 
 Genick, SPRAYBOX, Carpainter
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/takaryu/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/takaryu/)*

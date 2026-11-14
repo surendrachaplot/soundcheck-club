@@ -1,6 +1,6 @@
 # saya (DE)
 
-saya (DE) is a Techno and Reggaeton artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at ÆDEN, Berlin on Fri, 27 Nov 2026.
+saya (DE) is a Techno and Reggaeton artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at ÆDEN, Berlin on Fri, 27 Nov 2026.
 
 saya (DE) is a techno and reggaeton artist based in United Kingdom, with 4 gigs on soundcheck across Berlin. Often billed alongside 4NOUK, Bours? and Brtinzz. Next up: ÆDEN, Berlin on Fri 27 Nov.
 
@@ -20,4 +20,4 @@ saya (DE) is a techno and reggaeton artist based in United Kingdom, with 4 gigs 
 
 4NOUK, Bours?, Brtinzz
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sayade/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sayade/)*

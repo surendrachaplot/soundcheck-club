@@ -1,6 +1,6 @@
 # Jesse Ukkonen
 
-Jesse Ukkonen is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Kaiku, Helsinki on Sat, 28 Nov 2026.
+Jesse Ukkonen is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Kaiku, Helsinki on Sat, 28 Nov 2026.
 
 Jesse Ukkonen is a house and techno artist based in Finland, with 14 gigs on soundcheck across Helsinki. Often billed alongside NASHA, HiToshi and Carlina Carpelan. Next up: Kaiku, Helsinki on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Jesse Ukkonen is a house and techno artist based in Finland, with 14 gigs on sou
 
 NASHA, HiToshi, Carlina Carpelan
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jesseukkonen/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jesseukkonen/)*

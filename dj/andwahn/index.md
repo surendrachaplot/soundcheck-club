@@ -1,6 +1,6 @@
 # Andwahn
 
-Andwahn is a Breakbeat and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Whammy Bar, Auckland on Sat, 28 Nov 2026.
+Andwahn is a Breakbeat and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Whammy Bar, Auckland on Sat, 28 Nov 2026.
 
 Andwahn is a breakbeat and jungle artist based in New Zealand, with 11 gigs on soundcheck across Auckland and Christchurch. Often billed alongside Aunty Bev, Takydon and Caru (NZ). Next up: Whammy Bar, Auckland on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Andwahn is a breakbeat and jungle artist based in New Zealand, with 11 gigs on s
 
 Aunty Bev, Takydon, Caru (NZ)
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andwahn/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andwahn/)*

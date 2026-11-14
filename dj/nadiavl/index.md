@@ -1,6 +1,6 @@
 # Na Diavl
 
-Na Diavl is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA, Rome on Sat, 5 Dec 2026.
+Na Diavl is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA, Rome on Sat, 5 Dec 2026.
 
 Na Diavl is an electronica and experimental artist based in Italy, with 12 gigs on soundcheck across Florence, Milan, Naples and Rome. Often billed alongside Vagliolise, Fernando Costantini and Collarbone. Next up: TBA, Rome on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Na Diavl is an electronica and experimental artist based in Italy, with 12 gigs 
 
 Vagliolise, Fernando Costantini, Collarbone
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nadiavl/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nadiavl/)*

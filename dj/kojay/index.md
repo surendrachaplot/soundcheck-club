@@ -1,6 +1,6 @@
 # Kojay
 
-Kojay is a House and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at M.O.T, London on Fri, 20 Nov 2026.
+Kojay is a House and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at M.O.T, London on Fri, 20 Nov 2026.
 
 Kojay is a house and broken beat artist based in United Kingdom, with 81 gigs on soundcheck across Birmingham, Bristol, Edinburgh and London. Often billed alongside P-Lucas, Jamesey and Matt L-S. Next up: M.O.T, London on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Kojay is a house and broken beat artist based in United Kingdom, with 81 gigs on
 
 P-Lucas, Jamesey, Matt L-S
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kojay/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kojay/)*

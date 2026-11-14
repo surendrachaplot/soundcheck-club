@@ -1,6 +1,6 @@
 # Dweedo
 
-Dweedo is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Faith in Strangers, South-east on Fri, 4 Dec 2026.
+Dweedo is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Faith in Strangers, South-east on Fri, 4 Dec 2026.
 
 Dweedo is a techno and electro artist, with 19 gigs on soundcheck across Amsterdam, Berlin, Edinburgh and Glasgow and 8 more. Often billed alongside J.Wiltshire, Roman Flügel and Elena Colombi. Next up: Faith in Strangers, South East on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Dweedo is a techno and electro artist, with 19 gigs on soundcheck across Amsterd
 
 J.Wiltshire, Roman Flügel, Elena Colombi
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dweedo/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dweedo/)*

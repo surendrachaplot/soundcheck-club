@@ -1,6 +1,6 @@
 # DJ Morita
 
-DJ Morita is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Upsidedown, Osaka on Sat, 28 Nov 2026.
+DJ Morita is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Upsidedown, Osaka on Sat, 28 Nov 2026.
 
 DJ Morita is a techno and minimal techno artist based in Japan, with 37 gigs on soundcheck across Osaka and Tokyo. Often billed alongside Endurance, Ario and Loe (JP). Next up: Upsidedown, Osaka on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ DJ Morita is a techno and minimal techno artist based in Japan, with 37 gigs on 
 
 Endurance, Ario, Loe (JP)
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmorita/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmorita/)*

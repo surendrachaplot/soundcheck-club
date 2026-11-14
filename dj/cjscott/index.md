@@ -1,6 +1,6 @@
 # CJ Scott
 
-CJ Scott is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Reimersholme Hotel, Stockholm on Fri, 27 Nov 2026.
+CJ Scott is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Reimersholme Hotel, Stockholm on Fri, 27 Nov 2026.
 
 CJ Scott is a house and disco artist based in Sweden, with 9 gigs on soundcheck across Gothenburg and Stockholm. Often billed alongside Ari Bald, Karin Bernstrup and Marble. Next up: Reimersholme Hotel, Stockholm on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ CJ Scott is a house and disco artist based in Sweden, with 9 gigs on soundcheck 
 
 Ari Bald, Karin Bernstrup, Marble
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cjscott/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cjscott/)*

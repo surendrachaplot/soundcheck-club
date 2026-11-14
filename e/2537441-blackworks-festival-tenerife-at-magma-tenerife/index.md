@@ -14,7 +14,7 @@ Blackworks Festival Tenerife at Magma, Tenerife on Sat 5 Dec, Canary Islands. 6 
 - Dexphase
 - Fantasm
 - GIØ (1)
-- HUMAN  ERROR
+- HUMAN ERROR
 - Skryption
 
 *Source: [soundcheck](https://soundcheck.club/e/2537441-blackworks-festival-tenerife-at-magma-tenerife/)*

@@ -1,6 +1,6 @@
 # New Frames
 
-New Frames is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at AMT, Berlin on Tue, 24 Nov 2026.
+New Frames is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at AMT, Berlin on Tue, 24 Nov 2026.
 
 New Frames is a techno and acid artist based in Germany, with 33 gigs on soundcheck across Berlin, Brussels, Budapest and Cologne and 10 more. Often billed alongside Phase Fatale, RIKHTER and Unhuman. Next up: AMT, Berlin on Tue 24 Nov.
 
@@ -25,4 +25,4 @@ New Frames is a techno and acid artist based in Germany, with 33 gigs on soundch
 
 Phase Fatale, RIKHTER, Unhuman
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/newframes/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/newframes/)*

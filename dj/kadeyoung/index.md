@@ -1,6 +1,6 @@
 # Kade Young
 
-Kade Young is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Club 1722 Afterhours, Baltimore on Fri, 11 Dec 2026.
+Kade Young is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Club 1722 Afterhours, Baltimore on Fri, 11 Dec 2026.
 
 Kade Young is a house and club artist based in United States of America, with 110 gigs on soundcheck across Baltimore, Glasgow, London and New York City and 3 more. Often billed alongside JIALING, Jacq Jill and SDOT MUSIC. Next up: Club 1722 Afterhours, Baltimore on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ Kade Young is a house and club artist based in United States of America, with 11
 
 JIALING, Jacq Jill, SDOT MUSIC
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kadeyoung/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kadeyoung/)*

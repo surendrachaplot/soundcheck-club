@@ -1,6 +1,6 @@
 # Café Berlín
 
-Café Berlín is a music venue in Madrid with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "I.S.U.I.L.P Tour 26" on Thu, 19 Nov 2026.
+Café Berlín is a music venue in Madrid with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "I.S.U.I.L.P Tour 26" on Thu, 19 Nov 2026.
 
 Café Berlín is a music venue in Madrid listed on soundcheck. 2 upcoming gigs, with line-ups including Kabeaushé. See dates, start times and who's playing. Calle de Cost. Avenida de los Ángeles, 20, 28013 Madrid.
 
@@ -15,4 +15,4 @@ Café Berlín is a music venue in Madrid listed on soundcheck. 2 upcoming gigs, 
 
 Calle de Cost. Avenida de los Ángeles, 20, 28013 Madrid, Madrid
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/caf-berl-n/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/caf-berl-n/)*

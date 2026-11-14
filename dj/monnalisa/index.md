@@ -1,6 +1,6 @@
 # Monna Lisa
 
-Monna Lisa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Sat, 21 Nov 2026.
+Monna Lisa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Sat, 21 Nov 2026.
 
 Monna Lisa is a techno and house artist based in Japan, with 53 gigs on soundcheck across London, Osaka and Tokyo. Often billed alongside Arao, Bundo and 35DH-1. Next up: UTOPIA / DYSTOPIA, Tokyo on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Monna Lisa is a techno and house artist based in Japan, with 53 gigs on soundche
 
 Arao, Bundo, 35DH-1
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/monnalisa/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/monnalisa/)*

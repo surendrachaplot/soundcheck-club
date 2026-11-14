@@ -1,6 +1,6 @@
 # Sophia Essel
 
-Sophia Essel is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Spybar, Chicago on Fri, 27 Nov 2026.
+Sophia Essel is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Spybar, Chicago on Fri, 27 Nov 2026.
 
 Sophia Essel is a house and tech house artist based in United Kingdom, with 22 gigs on soundcheck across Boston, Chicago, London and Los Angeles and 5 more. Often billed alongside Arielle Free, Claptone and Conducta. Next up: Spybar, Chicago on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Sophia Essel is a house and tech house artist based in United Kingdom, with 22 g
 
 Arielle Free, Claptone, Conducta
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sophiaessel/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sophiaessel/)*

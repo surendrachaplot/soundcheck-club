@@ -1,6 +1,6 @@
 # Izco
 
-Izco is a Garage and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at control, Bucharest on Sat, 5 Dec 2026.
+Izco is a Garage and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at control, Bucharest on Sat, 5 Dec 2026.
 
 Izco is a garage and jungle artist based in United Kingdom, with 85 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Berlin and 23 more. Often billed alongside Capo Lee, Bakey and Tim Reaper. Next up: control, Bucharest on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Izco is a garage and jungle artist based in United Kingdom, with 85 gigs on soun
 
 Capo Lee, Bakey, Tim Reaper
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/izco/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/izco/)*

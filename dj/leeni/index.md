@@ -1,6 +1,6 @@
 # LEENI
 
-LEENI is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Ritter Butzke, Berlin on Fri, 20 Nov 2026.
+LEENI is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Ritter Butzke, Berlin on Fri, 20 Nov 2026.
 
 LEENI is a techno and house artist based in Germany, with 87 gigs on soundcheck across Amsterdam, Austria, Berlin and Cologne and 9 more. Often billed alongside Danilo Kupfernagel, Mollono.Bass and Pornbugs. Next up: Ritter Butzke, Berlin on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ LEENI is a techno and house artist based in Germany, with 87 gigs on soundcheck 
 
 Danilo Kupfernagel, Mollono.Bass, Pornbugs
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leeni/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leeni/)*

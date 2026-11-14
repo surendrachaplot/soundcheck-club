@@ -1,6 +1,6 @@
 # Alejandro Gata
 
-Alejandro Gata is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Skin Club, Madrid on Fri, 27 Nov 2026.
+Alejandro Gata is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Skin Club, Madrid on Fri, 27 Nov 2026.
 
 Alejandro Gata is a techno and tech house artist based in Spain, with 15 gigs on soundcheck across Barcelona and Madrid. Often billed alongside NETN, Theia Daja and Nil Cast. Next up: Skin Club, Madrid on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Alejandro Gata is a techno and tech house artist based in Spain, with 15 gigs on
 
 NETN, Theia Daja, Nil Cast
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alejandrogata/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alejandrogata/)*

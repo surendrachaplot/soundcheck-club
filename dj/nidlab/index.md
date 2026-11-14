@@ -1,8 +1,8 @@
 # Nidlab
 
-Nidlab is a House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Secret Location, Bali on Sat, 20 Mar 2027.
+Nidlab is a House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Secret Location, Bali on Sat, 20 Mar 2027.
 
-Nidlab is a house and minimal techno artist, with 9 gigs on soundcheck across Bali. Often billed alongside Latex, Dmitro and Fedor. Next up: TBA - Secret Location, Bali on Sat 20 Mar.
+Nidlab is a house and minimal techno artist based in Indonesia, with 9 gigs on soundcheck across Bali. Often billed alongside Latex, Dmitro and Fedor. Next up: TBA - Secret Location, Bali on Sat 20 Mar.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Nidlab is a house and minimal techno artist, with 9 gigs on soundcheck across Ba
 
 Latex (1), Dmitro, Fedor
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nidlab/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nidlab/)*

@@ -1,6 +1,6 @@
 # Avikal
 
-Avikal is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Malaga Sin City, Milan on Fri, 20 Nov 2026.
+Avikal is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Malaga Sin City, Milan on Fri, 20 Nov 2026.
 
 Avikal is a techno and house artist based in Italy, with 33 gigs on soundcheck across Lisbon and Milan. Often billed alongside Cristian Croce, David Bes and Marialuisa. Next up: Malaga Sin City, Milan on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Avikal is a techno and house artist based in Italy, with 33 gigs on soundcheck a
 
 Cristian Croce, David Bes, Marialuisa
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avikal/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avikal/)*

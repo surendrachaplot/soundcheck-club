@@ -1,6 +1,6 @@
 # Tetsuya Fukada
 
-Tetsuya Fukada is a Trance and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Heavy Sick Zero, Tokyo on Sat, 14 Nov 2026.
+Tetsuya Fukada is a Trance and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Heavy Sick Zero, Tokyo on Sat, 14 Nov 2026.
 
 Tetsuya Fukada is a trance and experimental artist based in Japan, with 26 gigs on soundcheck across Tokyo. Often billed alongside ato夢, Axorst2k and Xamd. Next up: Heavy Sick Zero, Tokyo on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Tetsuya Fukada is a trance and experimental artist based in Japan, with 26 gigs 
 
 ato夢, Axorst2k, Xamd
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tetsuyafukada/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tetsuyafukada/)*

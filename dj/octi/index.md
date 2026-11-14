@@ -1,6 +1,6 @@
 # OCTI
 
-OCTI is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - TWO FLOOR WAREHOUSE , New York City on Fri, 20 Nov 2026.
+OCTI is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - TWO FLOOR WAREHOUSE , New York City on Fri, 20 Nov 2026.
 
 OCTI is a techno and electro artist based in United States of America, with 8 gigs on soundcheck across London and New York City. Often billed alongside SKIN CONTACT, Von and ASHTREY. Next up: TBA - TWO FLOOR WAREHOUSE , New York City on Fri 20 Nov.
 
@@ -24,4 +24,4 @@ OCTI is a techno and electro artist based in United States of America, with 8 gi
 
 SKIN CONTACT, Von, ASHTREY
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/octi/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/octi/)*

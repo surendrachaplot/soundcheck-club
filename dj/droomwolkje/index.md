@@ -1,6 +1,6 @@
 # droomwolkje
 
-droomwolkje is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Ghent (multi-venue), Ghent on Fri, 27 Nov 2026.
+droomwolkje is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Ghent (multi-venue), Ghent on Fri, 27 Nov 2026.
 
 droomwolkje is a techno and trance artist based in Belgium, with 24 gigs on soundcheck across Antwerp, Berlin, Brussels and Ghent and 1 more. Often billed alongside KASIENKA, Lena De Roose and MOKER. Next up: TBA - Ghent (multi-venue), Ghent on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ droomwolkje is a techno and trance artist based in Belgium, with 24 gigs on soun
 
 KASIENKA, Lena De Roose, MOKER
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/droomwolkje/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/droomwolkje/)*

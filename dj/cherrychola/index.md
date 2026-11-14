@@ -1,14 +1,13 @@
 # Cherry Chola
 
-Cherry Chola is a House and Electronica artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Abbotsford Convent, Melbourne on Sat, 14 Nov 2026.
+Cherry Chola is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
 
-Cherry Chola is a house and electronica artist based in Australia, with 4 gigs on soundcheck across Melbourne, Mexico City and Sydney. Often billed alongside 1tbsp, 6 SENSE and Abigail Toll. Next up: Abbotsford Convent, Melbourne on Sat 14 Nov.
+Cherry Chola is a house and electronica artist based in Australia, with 4 gigs on soundcheck across Melbourne, Mexico City and Sydney. Often billed alongside 1tbsp, 6 SENSE and Ahadadream. Next up: The Wildlands, Melbourne on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Abbotsford Convent | Melbourne |
 | Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 | Sat, 5 Dec 2026 | Civic Underground | Sydney |
 
@@ -18,6 +17,6 @@ Cherry Chola is a house and electronica artist based in Australia, with 4 gigs o
 
 ## Shares bills with
 
-1tbsp, 6 SENSE, Abigail Toll
+1tbsp, 6 SENSE, Ahadadream
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cherrychola/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cherrychola/)*

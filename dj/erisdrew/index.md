@@ -1,6 +1,6 @@
 # Eris Drew
 
-Eris Drew is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Lx Factory, Lisbon on Sat, 14 Nov 2026.
+Eris Drew is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Lx Factory, Lisbon on Sat, 14 Nov 2026.
 
 Eris Drew is a house and techno artist based in United States of America, with 210 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 66 more. Often billed alongside Octo Octa, CCL and Mike Servito. Next up: Lx Factory, Lisbon on Sat 14 Nov.
 
@@ -32,4 +32,4 @@ Eris Drew is a house and techno artist based in United States of America, with 2
 
 Octo Octa, CCL, Mike Servito
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erisdrew/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erisdrew/)*

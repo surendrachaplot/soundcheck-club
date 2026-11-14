@@ -1,6 +1,6 @@
 # Continental GT
 
-Continental GT is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at 93 Feet East, London on Sat, 5 Dec 2026.
+Continental GT is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at 93 Feet East, London on Sat, 5 Dec 2026.
 
 Continental GT is a tech house and house artist based in United Kingdom, with 34 gigs on soundcheck across Amsterdam, Birmingham, Ibiza and Leeds and 2 more. Often billed alongside Sammy Porter, hitty and Brian Smith. Next up: 93 Feet East, London on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Continental GT is a tech house and house artist based in United Kingdom, with 34
 
 Sammy Porter, hitty, Brian Smith
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/continentalgt/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/continentalgt/)*

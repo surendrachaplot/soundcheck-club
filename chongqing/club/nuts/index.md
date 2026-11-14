@@ -1,14 +1,13 @@
 # 坚果NUTS
 
-坚果NUTS is a music venue in Chongqing with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Sound From Stockholm: Zellmani (Public Possession, DAGE)" on Fri, 13 Nov 2026.
+坚果NUTS is a music venue in Chongqing with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Out Of Season" on Sat, 14 Nov 2026.
 
-坚果NUTS is a music venue in Chongqing listed on soundcheck. 4 upcoming gigs, with line-ups including Pei. See dates, start times and who's playing. 重庆两江新区龙湖新壹街C馆1F（1F Building C,Xinyijie, District Liangjiangxinqu,Chongqing,China）.
+坚果NUTS is a music venue in Chongqing listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing. 重庆两江新区龙湖新壹街C馆1F（1F Building C,Xinyijie, District Liangjiangxinqu,Chongqing,China）.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Sound From Stockholm: Zellmani (Public Possession, DAGE) | Pei |
 | Sat, 14 Nov 2026 | Out Of Season |  |
 | Fri, 20 Nov 2026 | 13000KM: from Montreal to CQ |  |
 | Sat, 21 Nov 2026 | SoSo's Dance Party No.MMMM |  |
@@ -17,4 +16,4 @@
 
 重庆两江新区龙湖新壹街C馆1F（1F Building C,Xinyijie, District Liangjiangxinqu,Chongqing,China）, Chongqing
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/chongqing/club/nuts/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/chongqing/club/nuts/)*

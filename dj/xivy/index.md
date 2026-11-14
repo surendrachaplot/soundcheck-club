@@ -1,6 +1,6 @@
 # X & Ivy
 
-X & Ivy is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Mondo, Madrid on Thu, 10 Dec 2026.
+X & Ivy is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Mondo, Madrid on Thu, 10 Dec 2026.
 
 X & Ivy are a house and techno duo, with 30 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Leeds and 8 more. Often billed alongside Jojo Lorenzo, Tinzo and D Stone. Next up: Mondo, Madrid on Thu 10 Dec.
 
@@ -27,4 +27,4 @@ X & Ivy are a house and techno duo, with 30 gigs on soundcheck across Amsterdam,
 
 Jojo Lorenzo, Tinzo, D Stone
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xivy/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xivy/)*

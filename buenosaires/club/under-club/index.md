@@ -1,6 +1,6 @@
 # Under Club
 
-Under Club is a music venue in Buenos Aires with 10 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "ROOM SHOWCASE - ALETØ - Bondarük & SMT" on Sat, 14 Nov 2026.
+Under Club is a music venue in Buenos Aires with 10 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "ROOM SHOWCASE - ALETØ - Bondarük & SMT" on Sat, 14 Nov 2026.
 
 Under Club is a music venue in Buenos Aires listed on soundcheck. 10 upcoming gigs, with line-ups including Abstract Division, ALETØ, Ana Hagen and Andrés Zacco and 2 more. See dates, start times and who's playing. Niceto Vega 5699, 1425, Ciudad de Buenos Aires.
 
@@ -23,4 +23,4 @@ Under Club is a music venue in Buenos Aires listed on soundcheck. 10 upcoming gi
 
 Niceto Vega 5699, 1425, Ciudad de Buenos Aires, Buenos Aires
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/under-club/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/under-club/)*

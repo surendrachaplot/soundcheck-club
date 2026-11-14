@@ -1,6 +1,6 @@
 # Lay Kus
 
-Lay Kus is a House and Dub artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Lab.Club, London on Sat, 21 Nov 2026.
+Lay Kus is a House and Dub artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Lab.Club, London on Sat, 21 Nov 2026.
 
 Lay Kus is a house and dub artist based in United Kingdom, with 7 gigs on soundcheck across London. Often billed alongside DJ Programma, Make Money Mafia and Moontalk (UK). Next up: Lab.Club, London on Sat 21 Nov.
 
@@ -23,4 +23,4 @@ Lay Kus is a house and dub artist based in United Kingdom, with 7 gigs on soundc
 
 DJ Programma, Make Money Mafia, Moontalk (UK)
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laykus/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laykus/)*

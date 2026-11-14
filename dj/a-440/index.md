@@ -1,6 +1,6 @@
 # A-440
 
-A-440 is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at La Station - Gare des Mines, Paris on Fri, 27 Nov 2026.
+A-440 is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at La Station - Gare des Mines, Paris on Fri, 27 Nov 2026.
 
 A-440 is a house and trance artist based in France, with 41 gigs on soundcheck across Berlin, London, Nantes and Paris and 1 more. Often billed alongside Ixpé, Ba-Vic and Julie Desire. Next up: La Station - Gare des Mines, Paris on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ A-440 is a house and trance artist based in France, with 41 gigs on soundcheck a
 
 Ixpé, Ba-Vic, Julie Desire
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/a-440/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/a-440/)*

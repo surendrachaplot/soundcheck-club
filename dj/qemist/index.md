@@ -1,13 +1,14 @@
 # Qemist
 
-Qemist is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Sat, 5 Dec 2026.
+Qemist is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Indigo Mrkto, Chicago on Fri, 4 Dec 2026.
 
-Qemist is a club and techno artist based in United States of America, with 38 gigs on soundcheck across Baltimore, Charlotte, Chicago and London and 10 more. Often billed alongside Dj Nico, bastiengoat and Lastword. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Sat 5 Dec.
+Qemist is a club and techno artist based in United States of America, with 39 gigs on soundcheck across Baltimore, Charlotte, Chicago and London and 10 more. Often billed alongside Dj Nico, bastiengoat and Lastword. Next up: Indigo Mrkto, Chicago on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Dec 2026 | Indigo Mrkto | Chicago |
 | Sat, 5 Dec 2026 | Kremwerk-Timbre Room-Cherry Complex | Seattle |
 
 ## Recently played
@@ -25,4 +26,4 @@ Qemist is a club and techno artist based in United States of America, with 38 gi
 
 Dj Nico, bastiengoat, Lastword
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/qemist/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/qemist/)*

@@ -1,8 +1,8 @@
 # Robert Romain
 
-Robert Romain is a Deep House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Südpol, Hamburg on Fri, 13 Nov 2026.
+Robert Romain is a Deep House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Südpol, Hamburg on Fri, 13 Nov 2026.
 
-Robert Romain is a deep house and electronica artist based in Germany, with 6 gigs on soundcheck across Amsterdam, Berlin, Hamburg and Leipzig and 1 more. Often billed alongside Adrija, Beju! and Chris Hanke. Next up: Südpol, Hamburg on Fri 13 Nov.
+Robert Romain is a deep house and electronica artist based in Germany, with 6 gigs on soundcheck across Amsterdam, Berlin, Hamburg and Leipzig and 1 more. Often billed alongside Adrija, Beju! and Camion Bazar. Next up: Südpol, Hamburg on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Robert Romain is a deep house and electronica artist based in Germany, with 6 gi
 
 ## Recently played
 
+- Südpol, Hamburg · Fri, 13 Nov 2026
 - Waterhouse Studios, Amsterdam · Fri, 23 Oct 2026
 - Bahnwärter Thiel, Munich · Sat, 21 Feb 2026
 - gART.n, Berlin · Sun, 14 Sept 2025
@@ -20,6 +21,6 @@ Robert Romain is a deep house and electronica artist based in Germany, with 6 gi
 
 ## Shares bills with
 
-Adrija, Beju!, Chris Hanke
+Adrija, Beju!, Camion Bazar
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robertromain/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robertromain/)*

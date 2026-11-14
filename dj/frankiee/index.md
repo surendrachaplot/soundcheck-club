@@ -1,6 +1,6 @@
 # FRANKIEE
 
-FRANKIEE is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TAG Culture Rome, Rome on Sat, 14 Nov 2026.
+FRANKIEE is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TAG Culture Rome, Rome on Sat, 14 Nov 2026.
 
 FRANKIEE is a techno and electro artist based in United Kingdom, with 33 gigs on soundcheck across Bologna, London, Marseille and Milan and 1 more. Often billed alongside Bonza, IRIDE and Marcolino. Next up: TAG Culture Rome, Rome on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ FRANKIEE is a techno and electro artist based in United Kingdom, with 33 gigs on
 
 Bonza, IRIDE, Marcolino
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frankiee/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frankiee/)*

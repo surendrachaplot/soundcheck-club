@@ -1,14 +1,13 @@
 # Bricks
 
-Bricks is a music venue in London with 9 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Grooves For Good X Bricks" on Fri, 13 Nov 2026.
+Bricks is a music venue in London with 8 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Type One Community: World Diabetes Day / Third Birthday Party" on Sat, 14 Nov 2026.
 
-Bricks is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including Adela, Antepop, AVANTIME and Body Clinic and 2 more. See dates, start times and who's playing. 414 Coldharbour Lane, London, United Kingdom SW9 8LF.
+Bricks is a music venue in London listed on soundcheck. 8 upcoming gigs, with line-ups including Adela, Antepop, AVANTIME and Body Clinic and 2 more. See dates, start times and who's playing. 414 Coldharbour Lane, London, United Kingdom SW9 8LF.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Grooves For Good X Bricks | CHICCA, Caspa Mono, DJ Bowlcut, Defunked, Lysander, OJ Willis, Rivera (UK) |
 | Sat, 14 Nov 2026 | Type One Community: World Diabetes Day / Third Birthday Party | Antepop, Kyle Parsley, Timor, ohmydais |
 | Fri, 20 Nov 2026 | Rhythmic Addiction | Braaks, Malin Genie, Max Sinàl |
 | Fri, 20 Nov 2026 | ADVANCED DANCE | ewing |
@@ -22,4 +21,4 @@ Bricks is a music venue in London listed on soundcheck. 9 upcoming gigs, with li
 
 414 Coldharbour Lane, London, United Kingdom SW9 8LF, London
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/bricks/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/bricks/)*

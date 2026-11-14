@@ -1,6 +1,6 @@
 # Darude
 
-Darude is a Trance and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Bauhaus, Houston on Fri, 27 Nov 2026.
+Darude is a Trance and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Bauhaus, Houston on Fri, 27 Nov 2026.
 
 Darude is a trance and techno artist based in Finland, with 39 gigs on soundcheck across Amsterdam, Auckland, Austin and Baltimore and 25 more. Often billed alongside ASLO, Adam Bartas and Boris Brejcha. Next up: Bauhaus, Houston on Fri 27 Nov.
 
@@ -29,4 +29,4 @@ Darude is a trance and techno artist based in Finland, with 39 gigs on soundchec
 
 ASLO, Adam Bartas, Boris Brejcha
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/darude/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/darude/)*

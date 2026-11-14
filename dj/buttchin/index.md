@@ -1,6 +1,6 @@
 # BUTTCHIN
 
-BUTTCHIN is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Süss War Gestern, Berlin on Sat, 28 Nov 2026.
+BUTTCHIN is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Süss War Gestern, Berlin on Sat, 28 Nov 2026.
 
 BUTTCHIN is a house and tech house artist based in Germany, with 33 gigs on soundcheck across Berlin. Often billed alongside AWSM, Cotumo and Ele Luz. Next up: Süss War Gestern, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ BUTTCHIN is a house and tech house artist based in Germany, with 33 gigs on soun
 
 AWSM, Cotumo, Ele Luz
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/buttchin/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/buttchin/)*

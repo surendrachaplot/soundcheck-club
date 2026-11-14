@@ -1,6 +1,6 @@
 # Juan San Lucas
 
-Juan San Lucas is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Aaja Basement, London on Fri, 11 Dec 2026.
+Juan San Lucas is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Aaja Basement, London on Fri, 11 Dec 2026.
 
 Juan San Lucas is a house and techno artist based in Italy, with 13 gigs on soundcheck across London. Often billed alongside BLILI, D.M.S and DREIAN. Next up: Aaja Basement, London on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Juan San Lucas is a house and techno artist based in Italy, with 13 gigs on soun
 
 BLILI, D.M.S, DREIAN
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juansanlucas/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juansanlucas/)*

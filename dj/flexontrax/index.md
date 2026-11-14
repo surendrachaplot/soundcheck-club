@@ -1,6 +1,6 @@
 # Flex on Trax
 
-Flex on Trax is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at ÆDEN, Berlin on Fri, 27 Nov 2026.
+Flex on Trax is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at ÆDEN, Berlin on Fri, 27 Nov 2026.
 
 Flex on Trax is a techno and trance artist based in Germany, with 18 gigs on soundcheck across Berlin and Cologne. Often billed alongside Bouncy Bitch, DJ SODBRENNEN and OSKAMAXX. Next up: ÆDEN, Berlin on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Flex on Trax is a techno and trance artist based in Germany, with 18 gigs on sou
 
 Bouncy Bitch, DJ SODBRENNEN, OSKAMAXX
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flexontrax/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flexontrax/)*

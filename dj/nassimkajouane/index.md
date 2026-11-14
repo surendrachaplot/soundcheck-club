@@ -1,6 +1,6 @@
 # Nassim Kajouane
 
-Nassim Kajouane is a Electro and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Inter-City, The Hague on Sat, 14 Nov 2026.
+Nassim Kajouane is a Electro and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Inter-City, The Hague on Sat, 14 Nov 2026.
 
 Nassim Kajouane is an electro and bass artist based in Netherlands, with 6 gigs on soundcheck across The Hague. Often billed alongside Abo Abo, Andy Garvey and Angel D'lite. Next up: Inter-City, The Hague on Sat 14 Nov.
 
@@ -22,4 +22,4 @@ Nassim Kajouane is an electro and bass artist based in Netherlands, with 6 gigs 
 
 Abo Abo, Andy Garvey, Angel D'lite
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nassimkajouane/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nassimkajouane/)*

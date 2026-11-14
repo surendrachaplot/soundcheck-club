@@ -1,6 +1,6 @@
 # Super Flu
 
-Super Flu is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Ritter Butzke, Berlin on Sat, 16 Jan 2027.
+Super Flu is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Ritter Butzke, Berlin on Sat, 16 Jan 2027.
 
 Super Flu is a techno and house artist based in Germany, with 130 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 44 more. Often billed alongside Prismode, Solvane and Markus Klee. Next up: Ritter Butzke, Berlin on Sat 16 Jan.
 
@@ -26,4 +26,4 @@ Super Flu is a techno and house artist based in Germany, with 130 gigs on soundc
 
 Prismode, Solvane, Markus Klee
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/superflu/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/superflu/)*

@@ -1,6 +1,6 @@
 # IKARVS
 
-IKARVS is a Trance and Dembow artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Paavli Kultuurivabrik, Tallinn on Fri, 9 Apr 2027.
+IKARVS is a Trance and Dembow artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Paavli Kultuurivabrik, Tallinn on Fri, 9 Apr 2027.
 
 IKARVS is a trance and dembow artist based in Poland, with 19 gigs on soundcheck across Krakow, Poznan, Tallinn and Warsaw. Often billed alongside eylau, Abrew and Aslamin. Next up: Paavli Kultuurivabrik, Tallinn on Fri 9 Apr.
 
@@ -25,4 +25,4 @@ IKARVS is a trance and dembow artist based in Poland, with 19 gigs on soundcheck
 
 eylau, Abrew, Aslamin
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ikarvs/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ikarvs/)*

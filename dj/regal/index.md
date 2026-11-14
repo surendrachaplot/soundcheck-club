@@ -1,6 +1,6 @@
 # Regal
 
-Regal is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at OXI, Berlin on Fri, 20 Nov 2026.
+Regal is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at OXI, Berlin on Fri, 20 Nov 2026.
 
 Regal is a techno and acid artist based in Spain, with 154 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside Nuke, Amelie Lens and Daria Kolosova. Next up: OXI, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Regal is a techno and acid artist based in Spain, with 154 gigs on soundcheck ac
 
 Nuke, Amelie Lens, Daria Kolosova
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/regal/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/regal/)*

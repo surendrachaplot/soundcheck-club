@@ -1,6 +1,6 @@
 # Cadeem LaMarr
 
-Cadeem LaMarr is a Club and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Skatecafe, Amsterdam on Sat, 12 Dec 2026.
+Cadeem LaMarr is a Club and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Skatecafe, Amsterdam on Sat, 12 Dec 2026.
 
 Cadeem LaMarr is a club and ghetto tech artist based in United States of America, with 26 gigs on soundcheck across Amsterdam, Baltimore, Los Angeles and New York City and 2 more. Often billed alongside JaySwann, Tromac and cash.liss. Next up: Skatecafe, Amsterdam on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Cadeem LaMarr is a club and ghetto tech artist based in United States of America
 
 JaySwann, Tromac, cash.liss
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cadeemlamarr/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cadeemlamarr/)*

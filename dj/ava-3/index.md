@@ -1,6 +1,6 @@
 # AVA (3)
 
-AVA (3) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Love Inn, Bristol on Sat, 5 Dec 2026.
+AVA (3) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at The Love Inn, Bristol on Sat, 5 Dec 2026.
 
 AVA is a techno and tech house artist based in United Kingdom, with 10 gigs on soundcheck across Bologna, Bristol, London and Southampton. Often billed alongside DASHY, Azumei and IZZIT. Next up: The Love Inn, Bristol on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ AVA is a techno and tech house artist based in United Kingdom, with 10 gigs on s
 
 DASHY, Azumei, IZZIT
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ava-3/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ava-3/)*

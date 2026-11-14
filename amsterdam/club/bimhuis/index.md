@@ -1,6 +1,6 @@
 # Bimhuis
 
-Bimhuis is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Eliana Glass" on Sun, 22 Nov 2026.
+Bimhuis is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Eliana Glass" on Sun, 22 Nov 2026.
 
 Bimhuis is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs, with line-ups including Martyn, Nala Brown, upsammy and Valentina Magaletti. See dates, start times and who's playing. Piet Heinkade 3; 1019 Zeeburg; Amsterdam; Netherlands.
 
@@ -20,4 +20,4 @@ Bimhuis is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs, wit
 
 Piet Heinkade 3; 1019 Zeeburg; Amsterdam; Netherlands, Amsterdam
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bimhuis/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bimhuis/)*

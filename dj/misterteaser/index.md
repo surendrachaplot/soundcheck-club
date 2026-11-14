@@ -1,6 +1,6 @@
 # Mister Teaser
 
-Mister Teaser is a Electronica and Electro artist with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Incógnito, Lisbon on Thu, 19 Nov 2026.
+Mister Teaser is a Electronica and Electro artist with 5 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Incógnito, Lisbon on Thu, 19 Nov 2026.
 
 Mister Teaser is an electronica and electro artist based in Portugal, with 133 gigs on soundcheck across Athens, Barcelona, Berlin and Budapest and 9 more. Often billed alongside Francis Canadas, Boogaloo Steve and Chris Video. Next up: Incógnito, Lisbon on Thu 19 Nov.
 
@@ -29,4 +29,4 @@ Mister Teaser is an electronica and electro artist based in Portugal, with 133 g
 
 Francis Canadas, Boogaloo Steve, Chris Video
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/misterteaser/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/misterteaser/)*

@@ -1,6 +1,6 @@
 # CalvoMusic
 
-CalvoMusic is a Club and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Sneaky Pete's, Edinburgh on Fri, 20 Nov 2026.
+CalvoMusic is a Club and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Sneaky Pete's, Edinburgh on Fri, 20 Nov 2026.
 
 CalvoMusic is a club and house artist based in United States of America, with 50 gigs on soundcheck across Baltimore, Berlin, Cape Town and Chicago and 6 more. Often billed alongside Kade Young, Tah and DJ-SUN. Next up: Sneaky Pete's, Edinburgh on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ CalvoMusic is a club and house artist based in United States of America, with 50
 
 Kade Young, Tah (1), DJ-SUN
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/calvomusic/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/calvomusic/)*

@@ -1,6 +1,6 @@
 # David Radi
 
-David Radi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at PRST, Vienna on Fri, 4 Dec 2026.
+David Radi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at PRST, Vienna on Fri, 4 Dec 2026.
 
 David Radi is a house and techno artist based in Austria, with 26 gigs on soundcheck across Vienna. Often billed alongside Matthias Kaiser, Chris Freud and Mat Schubert. Next up: PRST, Vienna on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ David Radi is a house and techno artist based in Austria, with 26 gigs on soundc
 
 Matthias Kaiser, Chris Freud, Mat Schubert
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidradi/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidradi/)*

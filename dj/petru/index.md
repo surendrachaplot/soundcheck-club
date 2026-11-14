@@ -1,6 +1,6 @@
 # PETRU
 
-PETRU is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Volks, Brighton on Fri, 22 Jan 2027.
+PETRU is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Volks, Brighton on Fri, 22 Jan 2027.
 
 PETRU is a techno and deep house artist based in France, with 15 gigs on soundcheck across Berlin, Brighton, London and Manchester. Often billed alongside Ross Harper, Acid Carbon and Nathan Godolphin. Next up: Volks, Brighton on Fri 22 Jan.
 
@@ -25,4 +25,4 @@ PETRU is a techno and deep house artist based in France, with 15 gigs on soundch
 
 Ross Harper, Acid Carbon, Nathan Godolphin
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/petru/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/petru/)*

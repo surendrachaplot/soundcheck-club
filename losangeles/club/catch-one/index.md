@@ -1,6 +1,6 @@
 # Catch One
 
-Catch One is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "YourShot Finals (MKEI Debut)" on Sat, 14 Nov 2026.
+Catch One is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "YourShot Finals (MKEI Debut)" on Sat, 14 Nov 2026.
 
 Catch One is a music venue in Los Angeles listed on soundcheck. 2 upcoming gigs, with line-ups including Blackpaw, Dick Ensalada, DJ Harvey and Heidi Lawden and 2 more. See dates, start times and who's playing. 4067 W Pico Blvd, Los Angeles, CA 90019.
 
@@ -15,4 +15,4 @@ Catch One is a music venue in Los Angeles listed on soundcheck. 2 upcoming gigs,
 
 4067 W Pico Blvd, Los Angeles, CA 90019, Los Angeles
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/catch-one/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/catch-one/)*

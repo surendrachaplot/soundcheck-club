@@ -1,6 +1,6 @@
 # Fox (US)
 
-Fox (US) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Aoyama Hachi, Tokyo on Sun, 20 Dec 2026.
+Fox (US) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Aoyama Hachi, Tokyo on Sun, 20 Dec 2026.
 
 Fox (US) is a house and techno artist based in United States of America, with 32 gigs on soundcheck across Barcelona, Bristol, Copenhagen and Leeds and 10 more. Often billed alongside CBS, PC (MX) and ROKU. Next up: Aoyama Hachi, Tokyo on Sun 20 Dec.
 
@@ -25,4 +25,4 @@ Fox (US) is a house and techno artist based in United States of America, with 32
 
 CBS, PC (MX), ROKU
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fox-us/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fox-us/)*

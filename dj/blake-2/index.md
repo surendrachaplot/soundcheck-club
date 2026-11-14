@@ -1,6 +1,6 @@
 # Blake (2)
 
-Blake (2) is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Dalston Den, London on Thu, 31 Dec 2026.
+Blake (2) is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Dalston Den, London on Thu, 31 Dec 2026.
 
 Blake is a jungle and drum & bass artist based in United Kingdom, with 5 gigs on soundcheck across London. Often billed alongside Agility, Bryn Brax and Whatsname. Next up: Dalston Den, London on Thu 31 Dec.
 
@@ -21,4 +21,4 @@ Blake is a jungle and drum & bass artist based in United Kingdom, with 5 gigs on
 
 Agility, Bryn Brax, Whatsname
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blake-2/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blake-2/)*

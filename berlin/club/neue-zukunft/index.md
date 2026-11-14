@@ -1,14 +1,13 @@
 # Neue Zukunft
 
-Neue Zukunft is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "The Great Marton Conspiracy, Abanamat" on Fri, 13 Nov 2026.
+Neue Zukunft is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Årabrot, Intercourse" on Wed, 18 Nov 2026.
 
-Neue Zukunft is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with line-ups including Die Wilde Jagd. See dates, start times and who's playing. Alt-Stralau 68, 10245 Berlin.
+Neue Zukunft is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, with line-ups including Die Wilde Jagd. See dates, start times and who's playing. Alt-Stralau 68, 10245 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | The Great Marton Conspiracy, Abanamat |  |
 | Wed, 18 Nov 2026 | Årabrot, Intercourse |  |
 | Thu, 19 Nov 2026 | BLACKOUT hosted by Acoustic Neuroma |  |
 | Fri, 27 Nov 2026 | BLUES BUMPS: THE DARTS (US) + support // Berlin Neue Zukunft |  |
@@ -21,4 +20,4 @@ Neue Zukunft is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, w
 
 Alt-Stralau 68, 10245 Berlin, Berlin
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/neue-zukunft/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/neue-zukunft/)*

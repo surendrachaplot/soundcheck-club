@@ -1,6 +1,6 @@
 # Amourette
 
-Amourette is a Krautrock and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Nightmoves, New York City on Sun, 13 Dec 2026.
+Amourette is a Krautrock and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Nightmoves, New York City on Sun, 13 Dec 2026.
 
 Amourette is a krautrock and house artist based in United States of America, with 27 gigs on soundcheck across New York City. Often billed alongside Maroje T, DJ Sundae and Intergalactic Gary. Next up: Nightmoves, New York City on Sun 13 Dec.
 
@@ -25,4 +25,4 @@ Amourette is a krautrock and house artist based in United States of America, wit
 
 Maroje T, DJ Sundae, Intergalactic Gary
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amourette/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amourette/)*

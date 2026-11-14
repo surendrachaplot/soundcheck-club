@@ -1,6 +1,6 @@
 # Fonkituur
 
-Fonkituur is a Disco and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Amigo, Ghent on Sat, 5 Dec 2026.
+Fonkituur is a Disco and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Amigo, Ghent on Sat, 5 Dec 2026.
 
 Fonkituur is a disco and italo disco artist based in Belgium, with 24 gigs on soundcheck across Berlin and Ghent. Often billed alongside Zehlendorfer Disco Squad, Bordello Soundsystem and Frank Motetti. Next up: Amigo, Ghent on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Fonkituur is a disco and italo disco artist based in Belgium, with 24 gigs on so
 
 Zehlendorfer Disco Squad, Bordello Soundsystem, Frank Motetti
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fonkituur/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fonkituur/)*

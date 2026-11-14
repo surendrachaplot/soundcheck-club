@@ -1,6 +1,6 @@
 # Unit 51
 
-Unit 51 is a music venue in Aberdeen with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "FLY - Denis Sulta - Aberdeen" on Sat, 28 Nov 2026.
+Unit 51 is a music venue in Aberdeen with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "FLY - Denis Sulta - Aberdeen" on Sat, 28 Nov 2026.
 
 Unit 51 is a music venue in Aberdeen listed on soundcheck. 2 upcoming gigs, with line-ups including Denis Sulta, HALFPINT and sim0ne. See dates, start times and who's playing. Carnegie's Brae, AB10 1BF Aberdeen, Scotland, United Kingdom.
 
@@ -15,4 +15,4 @@ Unit 51 is a music venue in Aberdeen listed on soundcheck. 2 upcoming gigs, with
 
 Carnegie's Brae, AB10 1BF Aberdeen, Scotland, United Kingdom, Aberdeen
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/aberdeen/club/unit-51/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/aberdeen/club/unit-51/)*

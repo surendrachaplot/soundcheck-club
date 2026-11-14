@@ -1,6 +1,6 @@
 # Malibu
 
-Malibu is a Ambient and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at La Station - Gare des Mines, Paris on Sat, 28 Nov 2026.
+Malibu is a Ambient and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at La Station - Gare des Mines, Paris on Sat, 28 Nov 2026.
 
 Malibu is an ambient and experimental artist based in France, with 79 gigs on soundcheck across Adelaide, Amsterdam, Athens and Austin and 36 more. Often billed alongside ESP, Nick León and ojoo. Next up: La Station - Gare des Mines, Paris on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Malibu is an ambient and experimental artist based in France, with 79 gigs on so
 
 ESP, Nick León, ojoo
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/malibu-1/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/malibu-1/)*

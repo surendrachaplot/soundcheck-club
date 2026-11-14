@@ -1,8 +1,8 @@
 # Gil Tamazyan
 
-Gil Tamazyan is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Library Bar Dtla, Los Angeles on Sat, 5 Dec 2026.
+Gil Tamazyan is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Library Bar Dtla, Los Angeles on Sat, 5 Dec 2026.
 
-Gil Tamazyan is a deep house and house artist, with 6 gigs on soundcheck across Los Angeles and Sydney. Often billed alongside Beggar, DJ Shroomie and Glo Phase. Next up: Library Bar Dtla, Los Angeles on Sat 5 Dec.
+Gil Tamazyan is a deep house and house artist based in United States of America, with 6 gigs on soundcheck across Los Angeles and Sydney. Often billed alongside Beggar, DJ Shroomie and Glo Phase. Next up: Library Bar Dtla, Los Angeles on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -22,4 +22,4 @@ Gil Tamazyan is a deep house and house artist, with 6 gigs on soundcheck across 
 
 Beggar, DJ Shroomie, Glo Phase
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giltamazyan/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giltamazyan/)*

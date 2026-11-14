@@ -1,6 +1,6 @@
 # Jan Ehret
 
-Jan Ehret is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Kesselhaus, Munich on Sat, 19 Dec 2026.
+Jan Ehret is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Kesselhaus, Munich on Sat, 19 Dec 2026.
 
 Jan Ehret is a techno and electro artist based in Germany, with 24 gigs on soundcheck across Barcelona, Berlin, Dortmund / Essen and Frankfurt and 4 more. Often billed alongside Daria Zadekova, Jakob Lesch and Tuna (DE). Next up: Kesselhaus, Munich on Sat 19 Dec.
 
@@ -27,4 +27,4 @@ Jan Ehret is a techno and electro artist based in Germany, with 24 gigs on sound
 
 Daria Zadekova, Jakob Lesch, Tuna (DE)
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janehret/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janehret/)*

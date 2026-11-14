@@ -1,6 +1,6 @@
 # Sam Feldt
 
-Sam Feldt is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Royal Caribbean Cruise Ship, Miami on Thu, 21 Jan 2027.
+Sam Feldt is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Royal Caribbean Cruise Ship, Miami on Thu, 21 Jan 2027.
 
 Sam Feldt is a house and deep house artist based in Netherlands, with 29 gigs on soundcheck across Amsterdam, Bali, Barcelona and Boston and 12 more. Often billed alongside Kygo, AMPRS&ND and Adam Beyer. Next up: Royal Caribbean Cruise Ship, Miami on Thu 21 Jan.
 
@@ -26,4 +26,4 @@ Sam Feldt is a house and deep house artist based in Netherlands, with 29 gigs on
 
 Kygo, AMPRS&ND, Adam Beyer
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samfeldt/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samfeldt/)*

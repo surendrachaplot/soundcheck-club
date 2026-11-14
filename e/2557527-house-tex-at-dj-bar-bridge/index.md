@@ -1,6 +1,6 @@
 # House-tex at DJ Bar Bridge
 
-House-tex at DJ Bar Bridge on Thu 3 Dec, Tokyo. 1 artist: DJ Emma. House. See the line-up on soundcheck.
+House-tex at DJ Bar Bridge on Thu 3 Dec, Tokyo. 2 artists: DJ Emma and dj yumi-cco. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ House-tex at DJ Bar Bridge on Thu 3 Dec, Tokyo. 1 artist: DJ Emma. House. See th
 ## Line-up
 
 - DJ Emma
+- dj yumi-cco
 
 *Source: [soundcheck](https://soundcheck.club/e/2557527-house-tex-at-dj-bar-bridge/)*

@@ -1,14 +1,13 @@
 # Plano B
 
-Plano B is a music venue in Porto with 10 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Ogazón (DE)" on Fri, 13 Nov 2026.
+Plano B is a music venue in Porto with 9 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Daniel Ribeiro + Rúben Costa" on Sat, 14 Nov 2026.
 
-Plano B is a music venue in Porto listed on soundcheck. 10 upcoming gigs, with line-ups including Alive, Daniel Ribeiro, Jen Cardini and Joao Semedo and 2 more. See dates, start times and who's playing. Rua Cândido dos Reis nº30 Porto (aos clérigos).
+Plano B is a music venue in Porto listed on soundcheck. 9 upcoming gigs, with line-ups including Alive, Daniel Ribeiro, Jen Cardini and Joao Semedo and 2 more. See dates, start times and who's playing. Rua Cândido dos Reis nº30 Porto (aos clérigos).
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Ogazón (DE) | Ogazón |
 | Sat, 14 Nov 2026 | Daniel Ribeiro + Rúben Costa | Daniel Ribeiro, Rúben Costa |
 | Thu, 19 Nov 2026 | NIGHTSHIFT - Cubo Mágico Showcase with Eduardo |  |
 | Fri, 20 Nov 2026 | Objekt (JP) | Objekt |
@@ -23,4 +22,4 @@ Plano B is a music venue in Porto listed on soundcheck. 10 upcoming gigs, with l
 
 Rua Cândido dos Reis nº30 Porto (aos clérigos), Porto
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/porto/club/plano-b/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/porto/club/plano-b/)*

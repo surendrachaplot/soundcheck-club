@@ -1,6 +1,6 @@
 # Pouya Ehsaei
 
-Pouya Ehsaei is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Ormside Projects, London on Wed, 25 Nov 2026.
+Pouya Ehsaei is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Ormside Projects, London on Wed, 25 Nov 2026.
 
 Pouya Ehsaei is an experimental and electronica artist based in Iran, with 13 gigs on soundcheck across Amsterdam, Berlin, London and Toronto and 1 more. Often billed alongside 7ip7o3, Ale Hop and Andrea Belfi. Next up: Ormside Projects, London on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ Pouya Ehsaei is an experimental and electronica artist based in Iran, with 13 gi
 
 7ip7o3, Ale Hop, Andrea Belfi
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pouyaehsaei/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pouyaehsaei/)*

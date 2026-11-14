@@ -1,6 +1,6 @@
 # anzie
 
-anzie is a Neo Perreo and R&B artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at K-Bar Powiśle, Warsaw on Sat, 14 Nov 2026.
+anzie is a Neo Perreo and R&B artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at K-Bar Powiśle, Warsaw on Sat, 14 Nov 2026.
 
 anzie is a neo perreo and r&b artist based in Poland, with 7 gigs on soundcheck across Poznan and Warsaw. Often billed alongside julek ploski, Adobo (PL) and Janek Pirks. Next up: K-Bar Powiśle, Warsaw on Sat 14 Nov.
 
@@ -23,4 +23,4 @@ anzie is a neo perreo and r&b artist based in Poland, with 7 gigs on soundcheck 
 
 julek ploski, Adobo (PL), Janek Pirks
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anzie/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anzie/)*

@@ -1,6 +1,6 @@
 # ANDREATENS
 
-ANDREATENS is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Kimpton Epic Hotel, Miami on Thu, 31 Dec 2026.
+ANDREATENS is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Kimpton Epic Hotel, Miami on Thu, 31 Dec 2026.
 
 ANDREATENS is a house and afro house artist based in United States of America, with 23 gigs on soundcheck across Miami. Often billed alongside DJ Chus, Markem and Ella Romand. Next up: Kimpton Epic Hotel, Miami on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ ANDREATENS is a house and afro house artist based in United States of America, w
 
 DJ Chus, Markem, Ella Romand
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andreatens/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andreatens/)*

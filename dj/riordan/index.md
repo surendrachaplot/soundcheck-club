@@ -1,14 +1,13 @@
 # Riordan
 
-Riordan is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Art Club, Houston on Fri, 13 Nov 2026.
+Riordan is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Matakana Country Park, Auckland on Sun, 27 Dec 2026.
 
-Riordan is a house and tech house artist based in United Kingdom, with 136 gigs on soundcheck across Amsterdam, Auckland, Austin and Barcelona and 44 more. Often billed alongside Gorgon City, Prunk and Jackie Hollander. Next up: Art Club, Houston on Fri 13 Nov.
+Riordan is a house and tech house artist based in United Kingdom, with 136 gigs on soundcheck across Amsterdam, Auckland, Austin and Barcelona and 44 more. Often billed alongside Gorgon City, Prunk and Jackie Hollander. Next up: Matakana Country Park, Auckland on Sun 27 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Art Club | Houston |
 | Sun, 27 Dec 2026 | Matakana Country Park | Auckland |
 | Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |
@@ -21,6 +20,7 @@ Riordan is a house and tech house artist based in United Kingdom, with 136 gigs 
 
 ## Recently played
 
+- Art Club, Houston · Fri, 13 Nov 2026
 - Index, Dublin · Sat, 7 Nov 2026
 - Depot Mayfield, Manchester · Fri, 6 Nov 2026
 - Mint XL, Leeds · Fri, 30 Oct 2026
@@ -28,10 +28,9 @@ Riordan is a house and tech house artist based in United Kingdom, with 136 gigs 
 - Spirit of the Suwannee Music Park, Jacksonville · Thu, 22 Oct 2026
 - Quartyard, San Diego · Sat, 10 Oct 2026
 - 1015 Folsom, San Francisco/Oakland · Fri, 9 Oct 2026
-- Circus Osaka, Osaka · Fri, 2 Oct 2026
 
 ## Shares bills with
 
 Gorgon City, Prunk, Jackie Hollander
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/riordan/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/riordan/)*

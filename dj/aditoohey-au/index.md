@@ -1,6 +1,6 @@
 # Adi Toohey
 
-Adi Toohey is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Heaps Normal Health Club, Sydney on Sun, 22 Nov 2026.
+Adi Toohey is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Heaps Normal Health Club, Sydney on Sun, 22 Nov 2026.
 
 Adi Toohey is a house and techno artist based in Australia, with 30 gigs on soundcheck across Hobart, Melbourne and Sydney. Often billed alongside Ben Fester, Bria and DJ Earl Grey. Next up: Heaps Normal Health Club, Sydney on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ Adi Toohey is a house and techno artist based in Australia, with 30 gigs on soun
 
 Ben Fester, Bria, DJ Earl Grey
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aditoohey-au/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aditoohey-au/)*

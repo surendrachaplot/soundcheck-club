@@ -1,6 +1,6 @@
 # Fanaa
 
-Fanaa is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA, Sydney on Fri, 20 Nov 2026.
+Fanaa is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA, Sydney on Fri, 20 Nov 2026.
 
 Fanaa is a bass and techno artist based in Australia, with 6 gigs on soundcheck across Sydney. Often billed alongside Broccoli Effect, Ari Kiko and Arsonist. Next up: TBA, Sydney on Fri 20 Nov.
 
@@ -22,4 +22,4 @@ Fanaa is a bass and techno artist based in Australia, with 6 gigs on soundcheck 
 
 Broccoli Effect, Ari Kiko, Arsonist
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fanaa/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fanaa/)*

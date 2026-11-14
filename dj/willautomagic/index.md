@@ -1,6 +1,6 @@
 # Will Automagic
 
-Will Automagic is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Ticket Holders Only, New York City on Sun, 15 Nov 2026.
+Will Automagic is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Ticket Holders Only, New York City on Sun, 15 Nov 2026.
 
 Will Automagic is a house and techno artist based in United States of America, with 76 gigs on soundcheck across New York City. Often billed alongside Nita Aviance, The Carry Nation and S'aint Panic. Next up: TBA - Ticket Holders Only, New York City on Sun 15 Nov.
 
@@ -29,4 +29,4 @@ Will Automagic is a house and techno artist based in United States of America, w
 
 Nita Aviance, The Carry Nation, S'aint Panic
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/willautomagic/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/willautomagic/)*

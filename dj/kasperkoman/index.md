@@ -1,6 +1,6 @@
 # Kasper Koman
 
-Kasper Koman is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at WestWeelde, Amsterdam on Sat, 5 Dec 2026.
+Kasper Koman is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at WestWeelde, Amsterdam on Sat, 5 Dec 2026.
 
 Kasper Koman is a progressive house and deep house artist based in Netherlands, with 21 gigs on soundcheck across Amsterdam, Berlin, Budapest and Copenhagen and 6 more. Often billed alongside Jody Wisternoff, Alex O'Rion and Because of Art. Next up: WestWeelde, Amsterdam on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Kasper Koman is a progressive house and deep house artist based in Netherlands, 
 
 Jody Wisternoff, Alex O'Rion, Because of Art
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kasperkoman/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kasperkoman/)*

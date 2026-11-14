@@ -1,6 +1,6 @@
 # DJ NOT I
 
-DJ NOT I is a Bass and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Patision65, Athens on Sat, 28 Nov 2026.
+DJ NOT I is a Bass and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Patision65, Athens on Sat, 28 Nov 2026.
 
 DJ NOT I is a bass and experimental artist based in Greece, with 21 gigs on soundcheck across Athens, Milan and Thessaloniki. Often billed alongside Socrates Antypas, pink.wav and Andreas Palmer. Next up: Patision65, Athens on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ DJ NOT I is a bass and experimental artist based in Greece, with 21 gigs on soun
 
 Socrates Antypas, pink.wav, Andreas Palmer
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djnoti/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djnoti/)*

@@ -1,6 +1,6 @@
 # Joya Astou
 
-Joya Astou is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at CLUB RAUM, Amsterdam on Fri, 13 Nov 2026.
+Joya Astou is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at CLUB RAUM, Amsterdam on Fri, 13 Nov 2026.
 
 Joya Astou is a techno and minimal techno artist based in Netherlands, with 44 gigs on soundcheck across Amsterdam, Berlin, Rotterdam and Utrecht. Often billed alongside Prance, Delano Legito and Mees Javois. Next up: CLUB RAUM, Amsterdam on Fri 13 Nov.
 
@@ -13,6 +13,7 @@ Joya Astou is a techno and minimal techno artist based in Netherlands, with 44 g
 
 ## Recently played
 
+- CLUB RAUM, Amsterdam · Fri, 13 Nov 2026
 - De Fik Garden, Amsterdam · Sat, 24 Oct 2026
 - Mono, Rotterdam · Fri, 18 Sept 2026
 - export, Rotterdam · Sat, 12 Sept 2026
@@ -20,10 +21,9 @@ Joya Astou is a techno and minimal techno artist based in Netherlands, with 44 g
 - Shunter, Rotterdam · Sat, 22 Aug 2026
 - Garage Noord, Amsterdam · Sat, 8 Aug 2026
 - RADION, Amsterdam · Sat, 25 Jul 2026
-- RADION, Amsterdam · Sat, 18 Jul 2026
 
 ## Shares bills with
 
 Prance, Delano Legito, Mees Javois
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joyaastou/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joyaastou/)*

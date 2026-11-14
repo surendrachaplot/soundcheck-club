@@ -1,6 +1,6 @@
 # YJ(KOR)
 
-YJ(KOR) is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Faust, Seoul on Sat, 21 Nov 2026.
+YJ(KOR) is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Faust, Seoul on Sat, 21 Nov 2026.
 
 YJ(KOR) is a techno and hardcore artist based in South Korea, with 7 gigs on soundcheck across Bangkok and Seoul. Often billed alongside lucii, ATISMIA and D.E.F. Next up: Faust, Seoul on Sat 21 Nov.
 
@@ -23,4 +23,4 @@ YJ(KOR) is a techno and hardcore artist based in South Korea, with 7 gigs on sou
 
 lucii, ATISMIA, D.E.F
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yjkor/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yjkor/)*

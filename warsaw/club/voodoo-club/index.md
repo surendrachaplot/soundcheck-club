@@ -1,6 +1,6 @@
 # VooDoo Club
 
-VooDoo Club is a music venue in Warsaw with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "КШТАŁT ✠ SONIC DEATH X JACUZZI" on Sun, 29 Nov 2026.
+VooDoo Club is a music venue in Warsaw with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. The next is "КШТАŁT ✠ SONIC DEATH X JACUZZI" on Sun, 29 Nov 2026.
 
 VooDoo Club is a music venue in Warsaw listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. al. Prymasa Tysiąclecia 48A, 01-242 Warszawa.
 
@@ -14,4 +14,4 @@ VooDoo Club is a music venue in Warsaw listed on soundcheck. 1 upcoming gig. See
 
 al. Prymasa Tysiąclecia 48A, 01-242 Warszawa, Warsaw
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/voodoo-club/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/voodoo-club/)*

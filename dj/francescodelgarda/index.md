@@ -1,16 +1,13 @@
 # Francesco Del Garda
 
-Francesco Del Garda is a House and Techno artist with 16 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at SWG3, Glasgow on Fri, 13 Nov 2026.
+Francesco Del Garda is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Brussels, Brussels on Sat, 21 Nov 2026.
 
-Francesco Del Garda is a house and techno artist based in Italy, with 236 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 48 more. Often billed alongside Christian AB, Craig Richards and Quest (IT). Next up: SWG3, Glasgow on Fri 13 Nov.
+Francesco Del Garda is a house and techno artist based in Italy, with 236 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 48 more. Often billed alongside Christian AB, Craig Richards and Quest (IT). Next up: TBA - Brussels, Brussels on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | SWG3 | Glasgow |
-| Fri, 13 Nov 2026 | SWG3 | Glasgow |
-| Fri, 13 Nov 2026 | SWG3 | Glasgow |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
 | Fri, 27 Nov 2026 | The Bassement | Madrid |
 | Sat, 28 Nov 2026 | DURO | Milan |
@@ -20,20 +17,23 @@ Francesco Del Garda is a house and techno artist based in Italy, with 236 gigs o
 | Sat, 26 Dec 2026 | Cocoricò | North |
 | Thu, 31 Dec 2026 | Concept Haus | Manchester |
 | Thu, 31 Dec 2026 | TBA | Barcelona |
+| Sat, 30 Jan 2027 | Invisible Wind Factory | Liverpool |
+| Fri, 9 Apr 2027 | Mercado Livre Arena Pacaembu | Sao-paulo |
+| Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 
+- SWG3, Glasgow · Fri, 13 Nov 2026
+- SWG3, Glasgow · Fri, 13 Nov 2026
+- SWG3, Glasgow · Fri, 13 Nov 2026
 - FVTVR, Paris · Fri, 6 Nov 2026
 - Luma, Milan · Sat, 31 Oct 2026
 - Lofi, Amsterdam · Fri, 23 Oct 2026
 - Lofi, Amsterdam · Fri, 23 Oct 2026
 - fabric, London · Sat, 17 Oct 2026
-- The Loft, Manchester · Fri, 16 Oct 2026
-- Tenax, Florence · Sat, 10 Oct 2026
-- Nowadays, New York City · Sat, 3 Oct 2026
 
 ## Shares bills with
 
 Christian AB, Craig Richards, Quest (IT)
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/francescodelgarda/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/francescodelgarda/)*

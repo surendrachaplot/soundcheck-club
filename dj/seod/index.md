@@ -1,6 +1,6 @@
 # SEOD
 
-SEOD is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Modeci, Seoul on Thu, 12 Nov 2026.
+SEOD is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Modeci, Seoul on Thu, 12 Nov 2026.
 
 SEOD is a house and techno artist based in South Korea, with 47 gigs on soundcheck across Seoul, South Korea and Tokyo. Often billed alongside Shinyoung, JAEHAN and Youknowsong. Next up: Modeci, Seoul on Thu 12 Nov.
 
@@ -9,10 +9,10 @@ SEOD is a house and techno artist based in South Korea, with 47 gigs on soundche
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 12 Nov 2026 | Modeci | Seoul |
-| Fri, 13 Nov 2026 | Modeci | Seoul |
 
 ## Recently played
 
+- Modeci, Seoul · Fri, 13 Nov 2026
 - Modeci, Seoul · Thu, 12 Nov 2026
 - The Opera, Seoul · Fri, 9 Oct 2026
 - TBA - 강원도 화천, South-korea · Sun, 4 Oct 2026
@@ -20,10 +20,9 @@ SEOD is a house and techno artist based in South Korea, with 47 gigs on soundche
 - Hertz, Seoul · Wed, 23 Sept 2026
 - Modeci, Seoul · Sat, 19 Sept 2026
 - Modeci, Seoul · Thu, 17 Sept 2026
-- Kockiri, Seoul · Fri, 28 Aug 2026
 
 ## Shares bills with
 
 Shinyoung, JAEHAN (2), Youknowsong
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seod/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seod/)*

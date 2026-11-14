@@ -1,6 +1,6 @@
 # Kieran Jandu
 
-Kieran Jandu is a House and Minimal Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Eastern Bloc Records, Manchester on Fri, 27 Nov 2026.
+Kieran Jandu is a House and Minimal Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Eastern Bloc Records, Manchester on Fri, 27 Nov 2026.
 
 Kieran Jandu is a house and minimal techno artist based in United Kingdom, with 17 gigs on soundcheck across Copenhagen, London, Manchester and Sofia. Often billed alongside Jim Bane, AdomasLP and Avsluta. Next up: Eastern Bloc Records, Manchester on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Kieran Jandu is a house and minimal techno artist based in United Kingdom, with 
 
 Jim Bane, AdomasLP, Avsluta
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jandu/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jandu/)*

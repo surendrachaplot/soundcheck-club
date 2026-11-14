@@ -1,6 +1,6 @@
 # Inbal
 
-Inbal is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Loso, Richmond on Sat, 21 Nov 2026.
+Inbal is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Loso, Richmond on Sat, 21 Nov 2026.
 
 Inbal is a house and disco artist based in United States of America, with 61 gigs on soundcheck across Austin, Berlin, Detroit and Guadalajara and 9 more. Often billed alongside Rimaye, Terence Tabeau and Will Renuart. Next up: Loso, Richmond on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Inbal is a house and disco artist based in United States of America, with 61 gig
 
 Rimaye, Terence Tabeau, Will Renuart
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inbal/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inbal/)*

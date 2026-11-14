@@ -1,6 +1,6 @@
 # Trick Track
 
-Trick Track is a music venue in Rome with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "Trick Track DRUM AND BASS vol.2 with KZ & RAW MODELZ" on Sat, 14 Nov 2026.
+Trick Track is a music venue in Rome with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. The next is "Trick Track DRUM AND BASS vol.2 with KZ & RAW MODELZ" on Sat, 14 Nov 2026.
 
 Trick Track is a music venue in Rome listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Via Tito Speri, 23, 00071 Pomezia RM.
 
@@ -14,4 +14,4 @@ Trick Track is a music venue in Rome listed on soundcheck. 1 upcoming gig. See d
 
 Via Tito Speri, 23, 00071 Pomezia RM, Rome
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/rome/club/trick-track/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/rome/club/trick-track/)*

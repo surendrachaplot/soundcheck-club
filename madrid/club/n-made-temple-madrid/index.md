@@ -1,6 +1,6 @@
 # Nômade Temple Madrid
 
-Nômade Temple Madrid is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "El vermut de Café Libre + LIVE Music" on Sun, 15 Nov 2026.
+Nômade Temple Madrid is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. The next is "El vermut de Café Libre + LIVE Music" on Sun, 15 Nov 2026.
 
 Nômade Temple Madrid is a music venue in Madrid listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Gran Vía, 11, Centro, Centro, 28013 Madrid.
 
@@ -14,4 +14,4 @@ Nômade Temple Madrid is a music venue in Madrid listed on soundcheck. 1 upcomin
 
 Gran Vía, 11, Centro, Centro, 28013 Madrid, Madrid
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/n-made-temple-madrid/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/n-made-temple-madrid/)*

@@ -1,6 +1,6 @@
 # COUCOU CHLOE
 
-COUCOU CHLOE is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at KIFF, Switzerland on Fri, 27 Nov 2026.
+COUCOU CHLOE is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at KIFF, Switzerland on Fri, 27 Nov 2026.
 
 COUCOU CHLOE is an electronica and experimental artist based in United Kingdom, with 50 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 24 more. Often billed alongside Amnesia Scanner, Freeka Tet and HOUSEWIFE 9. Next up: KIFF, Switzerland on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ COUCOU CHLOE is an electronica and experimental artist based in United Kingdom, 
 
 Amnesia Scanner, Freeka Tet, HOUSEWIFE 9
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/coucouchloe/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/coucouchloe/)*

@@ -1,8 +1,8 @@
 # DJ YuukiHiguchi
 
-DJ YuukiHiguchi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Koara, Tokyo on Sun, 29 Nov 2026.
+DJ YuukiHiguchi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Koara, Tokyo on Sun, 29 Nov 2026.
 
-DJ YuukiHiguchi is a house and techno artist, with 7 gigs on soundcheck across Tokyo. Often billed alongside Hackmarkt, 7e and Hiroshi Watanabe. Next up: Koara, Tokyo on Sun 29 Nov.
+DJ YuukiHiguchi is a house and techno artist based in Japan, with 7 gigs on soundcheck across Tokyo. Often billed alongside Hackmarkt, 7e and Hiroshi Watanabe. Next up: Koara, Tokyo on Sun 29 Nov.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ DJ YuukiHiguchi is a house and techno artist, with 7 gigs on soundcheck across T
 
 Hackmarkt, 7e, Hiroshi Watanabe
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djyuukihiguchi/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djyuukihiguchi/)*

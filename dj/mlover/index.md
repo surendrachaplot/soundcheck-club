@@ -1,6 +1,6 @@
 # M'Lover
 
-M'Lover is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Last Arch, London on Sat, 16 Jan 2027.
+M'Lover is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Last Arch, London on Sat, 16 Jan 2027.
 
 M'Lover is a house and electro artist based in United Kingdom, with 21 gigs on soundcheck across Bristol, Liverpool and London. Often billed alongside STEWPOT, Daisybelle and Danny Vito. Next up: Last Arch, London on Sat 16 Jan.
 
@@ -25,4 +25,4 @@ M'Lover is a house and electro artist based in United Kingdom, with 21 gigs on s
 
 STEWPOT, Daisybelle, Danny Vito
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mlover/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mlover/)*

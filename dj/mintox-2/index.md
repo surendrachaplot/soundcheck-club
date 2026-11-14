@@ -1,6 +1,6 @@
 # Mintox
 
-Mintox is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Solace, Melbourne on Fri, 4 Dec 2026.
+Mintox is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Solace, Melbourne on Fri, 4 Dec 2026.
 
 Mintox is a house and techno artist based in Australia, with 12 gigs on soundcheck across Melbourne, Perth and Sydney. Often billed alongside Activator (AU), Andy Garvey and Assembler Code. Next up: Solace, Melbourne on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Mintox is a house and techno artist based in Australia, with 12 gigs on soundche
 
 Activator (AU), Andy Garvey, Assembler Code
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mintox-2/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mintox-2/)*

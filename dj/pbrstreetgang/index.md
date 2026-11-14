@@ -1,6 +1,6 @@
 # PBR Streetgang
 
-PBR Streetgang is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Holding Patterns, Leeds on Sat, 14 Nov 2026.
+PBR Streetgang is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Holding Patterns, Leeds on Sat, 14 Nov 2026.
 
 PBR Streetgang is a house and disco artist based in United Kingdom, with 46 gigs on soundcheck across Berlin, Brighton, Bristol and Glasgow and 5 more. Often billed alongside Crazy P, James Holroyd and Alexis Raphael. Next up: Holding Patterns, Leeds on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ PBR Streetgang is a house and disco artist based in United Kingdom, with 46 gigs
 
 Crazy P, James Holroyd, Alexis Raphael
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pbrstreetgang/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pbrstreetgang/)*

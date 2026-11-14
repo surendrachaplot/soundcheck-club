@@ -1,14 +1,13 @@
 # Tokonoma Club
 
-Tokonoma Club is a music venue in Frankfurt with 7 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "A PRINCIPLE OF HOPE" on Fri, 13 Nov 2026.
+Tokonoma Club is a music venue in Frankfurt with 6 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "CIRCLE (WDC Closing)" on Sat, 14 Nov 2026.
 
-Tokonoma Club is a music venue in Frankfurt listed on soundcheck. 7 upcoming gigs, with line-ups including Adriana Lopez, Anna Hjalmarsson, Answer Code Request and BAUGRUPPE90 and 2 more. See dates, start times and who's playing. Gutleutstraße 320,60327 Frankfurt.
+Tokonoma Club is a music venue in Frankfurt listed on soundcheck. 6 upcoming gigs, with line-ups including Adriana Lopez, Anna Hjalmarsson, Answer Code Request and Bliss Inc. and 2 more. See dates, start times and who's playing. Gutleutstraße 320,60327 Frankfurt.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | A PRINCIPLE OF HOPE | BAUGRUPPE90, CAIVA, Doreen, Richard Akingbehin, livwutang |
 | Sat, 14 Nov 2026 | CIRCLE (WDC Closing) | Adriana Lopez, Anna Hjalmarsson, Max Best, Minju, Red Rooms, Soyoon, Wigbert |
 | Fri, 20 Nov 2026 | CIRCLE x STORNO (anniversary) | Carmen Electro, GERKE, SHDW |
 | Sat, 21 Nov 2026 | CIRCLE | DJ ZBB, DJoy, David Böning, Eileen, Onur Özer, Robin RB |
@@ -20,4 +19,4 @@ Tokonoma Club is a music venue in Frankfurt listed on soundcheck. 7 upcoming gig
 
 Gutleutstraße 320,60327 Frankfurt, Frankfurt
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/tokonoma-club/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/tokonoma-club/)*

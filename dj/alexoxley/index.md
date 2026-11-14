@@ -1,6 +1,6 @@
 # Alex Oxley
 
-Alex Oxley is a Disco and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Holocene, Portland on Sun, 15 Nov 2026.
+Alex Oxley is a Disco and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Holocene, Portland on Sun, 15 Nov 2026.
 
 Alex Oxley is a disco and italo disco artist based in United Kingdom, with 63 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Austin and 25 more. Often billed alongside Roxanne Roll, Fleetmac Wood and Horror Hi-Fi. Next up: Holocene, Portland on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Alex Oxley is a disco and italo disco artist based in United Kingdom, with 63 gi
 
 Roxanne Roll, Fleetmac Wood, Horror Hi-Fi
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexoxley/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexoxley/)*

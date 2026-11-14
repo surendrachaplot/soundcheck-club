@@ -1,6 +1,6 @@
 # Møstroh
 
-Møstroh is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Bassement, Madrid on Thu, 19 Nov 2026.
+Møstroh is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at The Bassement, Madrid on Thu, 19 Nov 2026.
 
 Møstroh is a techno and trance artist based in Italy, with 37 gigs on soundcheck across Barcelona, Berlin, Cologne and Madrid. Often billed alongside JRG, Tasuik and JAIROSKUN. Next up: The Bassement, Madrid on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Møstroh is a techno and trance artist based in Italy, with 37 gigs on soundchec
 
 JRG, Tasuik, JAIROSKUN
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mostroh/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mostroh/)*

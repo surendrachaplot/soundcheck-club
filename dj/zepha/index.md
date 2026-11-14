@@ -1,6 +1,6 @@
 # Zepha
 
-Zepha is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA, Mexico City on Sat, 14 Nov 2026.
+Zepha is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA, Mexico City on Sat, 14 Nov 2026.
 
 Zepha is a house and minimal artist based in Canada, with 37 gigs on soundcheck across Mexico City, Montreal, Paris and Quebec City. Often billed alongside Rig Thrall, Claire and GOLDEN PINEAPPLE. Next up: TBA, Mexico City on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Zepha is a house and minimal artist based in Canada, with 37 gigs on soundcheck 
 
 Rig Thrall, Claire, GOLDEN PINEAPPLE
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zepha/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zepha/)*

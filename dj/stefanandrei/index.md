@@ -1,6 +1,6 @@
 # Stefan Andrei
 
-Stefan Andrei is a House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Kizuna, London on Sat, 14 Nov 2026.
+Stefan Andrei is a House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Kizuna, London on Sat, 14 Nov 2026.
 
 Stefan Andrei is a house and minimal techno artist based in United Kingdom, with 31 gigs on soundcheck across Amsterdam and London. Often billed alongside Obreja., Zigy and Desuba. Next up: Kizuna, London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Stefan Andrei is a house and minimal techno artist based in United Kingdom, with
 
 Obreja., Zigy, Desuba
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanandrei/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanandrei/)*

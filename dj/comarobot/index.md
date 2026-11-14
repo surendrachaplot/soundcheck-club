@@ -1,6 +1,6 @@
 # ComaRobot
 
-ComaRobot is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Volnost, Seoul on Fri, 20 Nov 2026.
+ComaRobot is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Volnost, Seoul on Fri, 20 Nov 2026.
 
 ComaRobot is a techno and industrial artist based in South Korea, with 96 gigs on soundcheck across Hong Kong, Seoul and Tokyo. Often billed alongside Siot, SIJIN and Purusha. Next up: Volnost, Seoul on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ ComaRobot is a techno and industrial artist based in South Korea, with 96 gigs o
 
 Siot, SIJIN, Purusha
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/comarobot/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/comarobot/)*

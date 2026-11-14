@@ -1,6 +1,6 @@
 # Rafael Aragon
 
-Rafael Aragon is a Techno and Afro House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Illegaal, Brussels on Sat, 14 Nov 2026.
+Rafael Aragon is a Techno and Afro House artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Illegaal, Brussels on Sat, 14 Nov 2026.
 
 Rafael Aragon is a techno and afro house artist based in Belgium, with 26 gigs on soundcheck across Berlin, Brussels, Ghent and Madrid and 3 more. Often billed alongside Dj Soleil, Kitoko and Sarah Abd Ali. Next up: Illegaal, Brussels on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Rafael Aragon is a techno and afro house artist based in Belgium, with 26 gigs o
 
 Dj Soleil, Kitoko, Sarah Abd Ali
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rafaelaragon/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rafaelaragon/)*

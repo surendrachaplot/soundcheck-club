@@ -1,14 +1,14 @@
 # Daria Kolosova
 
-Daria Kolosova is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA, Atlanta on Sat, 14 Nov 2026.
+Daria Kolosova is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Future Atlanta, Atlanta on Sat, 14 Nov 2026.
 
-Daria Kolosova is a techno and house artist based in Ukraine, with 324 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 84 more. Often billed alongside KlangKuenstler, DAX J and Patrick Mason. Next up: TBA, Atlanta on Sat 14 Nov.
+Daria Kolosova is a techno and house artist based in Ukraine, with 324 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 84 more. Often billed alongside KlangKuenstler, DAX J and Patrick Mason. Next up: Future Atlanta, Atlanta on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | TBA | Atlanta |
+| Sat, 14 Nov 2026 | Future Atlanta | Atlanta |
 | Fri, 27 Nov 2026 | Home The Venue | Sydney |
 | Sat, 5 Dec 2026 | Zenith - Die Kulturhalle | Munich |
 | Sat, 19 Dec 2026 | fabric | London |
@@ -33,4 +33,4 @@ Daria Kolosova is a techno and house artist based in Ukraine, with 324 gigs on s
 
 KlangKuenstler, DAX J, Patrick Mason
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dariakolosova/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dariakolosova/)*

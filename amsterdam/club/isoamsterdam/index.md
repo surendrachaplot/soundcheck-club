@@ -1,6 +1,6 @@
 # ISOamsterdam
 
-ISOamsterdam is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Lentekabinet x ISO x Amsterdam Art Week" on Sat, 21 Nov 2026.
+ISOamsterdam is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Lentekabinet x ISO x Amsterdam Art Week" on Sat, 21 Nov 2026.
 
 ISOamsterdam is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, with line-ups including BSS-AMS, Erol Alkan, Field Notes DJs and Karel. See dates, start times and who's playing. Isolatorweg 17.
 
@@ -15,4 +15,4 @@ ISOamsterdam is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs
 
 Isolatorweg 17, Amsterdam
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/isoamsterdam/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/isoamsterdam/)*

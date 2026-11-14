@@ -1,6 +1,6 @@
 # BLUEMEW
 
-BLUEMEW is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Sat, 28 Nov 2026.
+BLUEMEW is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Sat, 28 Nov 2026.
 
 BLUEMEW is a bass and techno artist based in Japan, with 27 gigs on soundcheck across Seoul and Tokyo. Often billed alongside SOGI, M.I.O and MELEETIME. Next up: UTOPIA / DYSTOPIA, Tokyo on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ BLUEMEW is a bass and techno artist based in Japan, with 27 gigs on soundcheck a
 
 SOGI, M.I.O, MELEETIME
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bluemew/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bluemew/)*

@@ -1,6 +1,6 @@
 # PARTS
 
-PARTS is a Progressive House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Electric Bristol, Bristol on Fri, 4 Dec 2026.
+PARTS is a Progressive House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Electric Bristol, Bristol on Fri, 4 Dec 2026.
 
 PARTS is a progressive house and deep house artist based in United Kingdom, with 15 gigs on soundcheck across Bristol, Lisbon and London. Often billed alongside Leena Punks, MXV (UK) and Amber Stomp. Next up: Electric Bristol, Bristol on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ PARTS is a progressive house and deep house artist based in United Kingdom, with
 
 Leena Punks, MXV (UK), Amber Stomp
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/parts/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/parts/)*

@@ -1,31 +1,29 @@
 # Jason Peters
 
-Jason Peters is a House and Italo Disco artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Bar Oriente, Mexico City on Fri, 13 Nov 2026.
+Jason Peters is a House and Italo Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Downtown Los Angeles, Los Angeles on Fri, 4 Dec 2026.
 
-Jason Peters is a house and italo disco artist based in United States of America, with 22 gigs on soundcheck across Barcelona, Los Angeles, Mexico City and San Francisco/Oakland and 2 more. Often billed alongside Sharlese, Amatric and Nicoshi. Next up: Bar Oriente, Mexico City on Fri 13 Nov.
+Jason Peters is a house and italo disco artist based in United States of America, with 22 gigs on soundcheck across Barcelona, Los Angeles, Mexico City and San Francisco/Oakland and 2 more. Often billed alongside Sharlese, Amatric and Nicoshi. Next up: TBA - Downtown Los Angeles, Los Angeles on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Bar Oriente | Mexico City |
-| Fri, 13 Nov 2026 | Bar Oriente | Mexico City |
 | Fri, 4 Dec 2026 | TBA - Downtown Los Angeles | Los Angeles |
 | Sat, 12 Dec 2026 | 93 Beer Tap | Tijuana |
 
 ## Recently played
 
+- Bar Oriente, Mexico City · Fri, 13 Nov 2026
+- Bar Oriente, Mexico City · Fri, 13 Nov 2026
 - Public Works, San Francisco/Oakland · Fri, 9 Oct 2026
 - Public Works, San Francisco/Oakland · Sat, 15 Aug 2026
 - The Monkey Loft, Seattle · Thu, 16 Jul 2026
 - Sala Upload Barcelona, Barcelona · Sat, 30 May 2026
 - Public Works, San Francisco/Oakland · Sat, 9 May 2026
 - Public Works, San Francisco/Oakland · Fri, 6 Mar 2026
-- Public Works, San Francisco/Oakland · Fri, 31 Oct 2025
-- Pony, Seattle · Sat, 11 Oct 2025
 
 ## Shares bills with
 
 Sharlese, Amatric, Nicoshi
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonpeters/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonpeters/)*

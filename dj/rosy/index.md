@@ -1,6 +1,6 @@
 # Rosy
 
-Rosy is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Distillery Complex, Pittsburgh on Fri, 4 Dec 2026.
+Rosy is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at The Distillery Complex, Pittsburgh on Fri, 4 Dec 2026.
 
 Rosy is a techno and club artist based in United States of America, with 7 gigs on soundcheck across Pittsburgh. Often billed alongside Heather Harper, Alynment and Carrie Sours. Next up: The Distillery Complex, Pittsburgh on Fri 4 Dec.
 
@@ -23,4 +23,4 @@ Rosy is a techno and club artist based in United States of America, with 7 gigs 
 
 Heather Harper, Alynment, Carrie Sours
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rosy/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rosy/)*

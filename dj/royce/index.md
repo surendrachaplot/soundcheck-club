@@ -1,6 +1,6 @@
 # Royce
 
-Royce is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Veronica Schip, Amsterdam on Sat, 12 Dec 2026.
+Royce is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Veronica Schip, Amsterdam on Sat, 12 Dec 2026.
 
 Royce is a house and disco artist based in Romania, with 10 gigs on soundcheck across Amsterdam, Austin, London and Los Angeles and 3 more. Often billed alongside Walker & Royce, Anfisa Letyago and Minor Forms. Next up: Veronica Schip, Amsterdam on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Royce is a house and disco artist based in Romania, with 10 gigs on soundcheck a
 
 Walker & Royce, Anfisa Letyago, Minor Forms
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/royce/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/royce/)*

@@ -1,6 +1,6 @@
 # Voss
 
-Voss is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Toekomstmuziek, Amsterdam on Fri, 11 Dec 2026.
+Voss is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Toekomstmuziek, Amsterdam on Fri, 11 Dec 2026.
 
 Voss is a house and tech house artist based in Netherlands, with 23 gigs on soundcheck across Amsterdam. Often billed alongside Daniël, no:attitude and Frank Haag. Next up: Toekomstmuziek, Amsterdam on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Voss is a house and tech house artist based in Netherlands, with 23 gigs on soun
 
 Daniël, no:attitude, Frank Haag
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/voss/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/voss/)*

@@ -1,6 +1,6 @@
 # Olenxxa
 
-Olenxxa is a Electro and Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Patision65, Athens on Sat, 28 Nov 2026.
+Olenxxa is a Electro and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Patision65, Athens on Sat, 28 Nov 2026.
 
 Olenxxa is an electro and downtempo artist, with 11 gigs on soundcheck across Athens. Often billed alongside Taylor Savage, Miss Trouli and Turbo Teeth. Next up: Patision65, Athens on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Olenxxa is an electro and downtempo artist, with 11 gigs on soundcheck across At
 
 Taylor Savage, Miss Trouli, Turbo Teeth
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/olenxxa/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/olenxxa/)*

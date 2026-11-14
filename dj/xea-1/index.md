@@ -1,6 +1,6 @@
 # xea (1)
 
-xea (1) is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Le Poisson Volant, Paris on Sat, 14 Nov 2026.
+xea (1) is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Le Poisson Volant, Paris on Sat, 14 Nov 2026.
 
 xea is a bass and techno artist based in France, with 13 gigs on soundcheck across Marseille and Paris. Often billed alongside 42L, Abstraxion and Aloka. Next up: Le Poisson Volant, Paris on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ xea is a bass and techno artist based in France, with 13 gigs on soundcheck acro
 
 42L (1), Abstraxion, Aloka
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xea-1/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xea-1/)*

@@ -1,6 +1,6 @@
 # Makam
 
-Makam is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Secret Location, Madrid on Sat, 5 Dec 2026.
+Makam is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Secret Location, Madrid on Sat, 5 Dec 2026.
 
 Makam is a techno and house artist based in Netherlands, with 30 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Croatia and 4 more. Often billed alongside Richard Akingbehin, AMORAL and Christian AB. Next up: TBA - Secret Location, Madrid on Sat 5 Dec.
 
@@ -27,4 +27,4 @@ Makam is a techno and house artist based in Netherlands, with 30 gigs on soundch
 
 Richard Akingbehin, AMORAL, Christian AB
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/makam/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/makam/)*

@@ -1,6 +1,6 @@
 # Entropy Worship
 
-Entropy Worship is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Knockout, San Francisco/Oakland on Sun, 29 Nov 2026.
+Entropy Worship is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at The Knockout, San Francisco/Oakland on Sun, 29 Nov 2026.
 
 Entropy Worship is a techno and dub techno artist, with 9 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Adra, Victor Vega and Axkan. Next up: The Knockout, San Francisco/Oakland on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Entropy Worship is a techno and dub techno artist, with 9 gigs on soundcheck acr
 
 Adra, Victor Vega, Axkan
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/entropyworship/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/entropyworship/)*

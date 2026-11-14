@@ -1,6 +1,6 @@
 # Festopolis Locals at TBA - House of Growfunding
 
-Festopolis Locals at TBA - House of Growfunding on Fri 20 Nov, Brussels. 4 artists: Flore, kedakeda, Quibron and Stevy Lab. Progressive House. See the line-up on soundcheck.
+Festopolis Locals at TBA - House of Growfunding on Fri 20 Nov, Brussels. 4 artists: kedakeda, Onohno, Quibron and Stevy Lab. Progressive House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,8 @@ Festopolis Locals at TBA - House of Growfunding on Fri 20 Nov, Brussels. 4 artis
 
 ## Line-up
 
-- Flore
 - kedakeda
+- Onohno
 - Quibron
 - Stevy Lab
 

@@ -1,6 +1,6 @@
 # Heimlich Knüller
 
-Heimlich Knüller is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Beate Uwe, Berlin on Sun, 20 Dec 2026.
+Heimlich Knüller is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Beate Uwe, Berlin on Sun, 20 Dec 2026.
 
 Heimlich Knüller is a techno and downtempo artist based in Germany, with 86 gigs on soundcheck across Amsterdam, Basel, Berlin and Cologne and 17 more. Often billed alongside Mimi Love, Mira and Pauli Pocket. Next up: Beate Uwe, Berlin on Sun 20 Dec.
 
@@ -25,4 +25,4 @@ Heimlich Knüller is a techno and downtempo artist based in Germany, with 86 gig
 
 Mimi Love, Mira, Pauli Pocket
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/heimlichknuller/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/heimlichknuller/)*

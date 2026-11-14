@@ -1,6 +1,6 @@
 # Baume
 
-Baume is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Bar de Escuta, Rio de Janeiro on Sat, 14 Nov 2026.
+Baume is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Bar de Escuta, Rio de Janeiro on Sat, 14 Nov 2026.
 
 Baume is a house and disco artist, with 18 gigs on soundcheck across Berlin, Liverpool, London and Lyon and 9 more. Often billed alongside Disco Frenchy, Housecall and Nofraje. Next up: Bar de Escuta, Rio de Janeiro on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Baume is a house and disco artist, with 18 gigs on soundcheck across Berlin, Liv
 
 Disco Frenchy, Housecall, Nofraje
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baume/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baume/)*

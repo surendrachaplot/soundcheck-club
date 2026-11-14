@@ -1,6 +1,6 @@
 # RARA
 
-RARA is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Floyd, Miami on Sat, 21 Nov 2026.
+RARA is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Floyd, Miami on Sat, 21 Nov 2026.
 
 RARA is a house and tech house artist, with 10 gigs on soundcheck across Berlin, Ibiza, Miami and Prague and 1 more. Often billed alongside Ale Acosta, Kujo and Marta Supernova. Next up: Floyd, Miami on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ RARA is a house and tech house artist, with 10 gigs on soundcheck across Berlin,
 
 Ale Acosta, Kujo, Marta Supernova
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rara/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rara/)*

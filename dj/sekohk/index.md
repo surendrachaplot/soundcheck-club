@@ -1,6 +1,6 @@
 # seko (HK)
 
-seko (HK) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Nulab Chengdu, Chengdu on Sat, 21 Nov 2026.
+seko (HK) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Nulab Chengdu, Chengdu on Sat, 21 Nov 2026.
 
 seko (HK) is a techno and house artist, with 15 gigs on soundcheck across Chengdu, Hong Kong, Seoul and Tokyo. Often billed alongside Konnection, Dan-neo and Faxtory. Next up: Nulab Chengdu, Chengdu on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ seko (HK) is a techno and house artist, with 15 gigs on soundcheck across Chengd
 
 Konnection, Dan-neo, Faxtory
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sekohk/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sekohk/)*

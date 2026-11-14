@@ -1,6 +1,6 @@
 # The Orb
 
-The Orb is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Yebisu The Garden Hall, Tokyo on Sun, 27 Dec 2026.
+The Orb is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Yebisu The Garden Hall, Tokyo on Sun, 27 Dec 2026.
 
 The Orb is an electronica and house artist based in United Kingdom, with 25 gigs on soundcheck across Amsterdam, Athens, Bratislava and Brighton and 8 more. Often billed alongside Young Marco, Abdullah Miniawy and Anz. Next up: Yebisu The Garden Hall, Tokyo on Sun 27 Dec.
 
@@ -25,4 +25,4 @@ The Orb is an electronica and house artist based in United Kingdom, with 25 gigs
 
 Young Marco, Abdullah Miniawy, Anz
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theorb/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theorb/)*

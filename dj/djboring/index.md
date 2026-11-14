@@ -1,6 +1,6 @@
 # DJ BORING
 
-DJ BORING is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA, Amsterdam on Fri, 13 Nov 2026.
+DJ BORING is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA, Amsterdam on Fri, 13 Nov 2026.
 
 DJ BORING is a house and techno artist based in Australia, with 235 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 80 more. Often billed alongside Sally C, salute and DJ Seinfeld. Next up: TBA, Amsterdam on Fri 13 Nov.
 
@@ -21,6 +21,7 @@ DJ BORING is a house and techno artist based in Australia, with 235 gigs on soun
 
 ## Recently played
 
+- TBA, Amsterdam · Fri, 13 Nov 2026
 - Industry City, New York City · Sat, 31 Oct 2026
 - Factory Town, Miami · Fri, 30 Oct 2026
 - Ciało, Wroclaw · Sat, 24 Oct 2026
@@ -28,10 +29,9 @@ DJ BORING is a house and techno artist based in Australia, with 235 gigs on soun
 - WestWeelde, Amsterdam · Thu, 22 Oct 2026
 - Klymax Discotheque, Bali · Fri, 2 Oct 2026
 - Prysm Nightclub, Chicago · Sat, 19 Sept 2026
-- The Foundry, San Francisco/Oakland · Fri, 18 Sept 2026
 
 ## Shares bills with
 
 Sally C, salute, DJ Seinfeld
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djboring/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djboring/)*

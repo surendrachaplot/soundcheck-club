@@ -1,6 +1,6 @@
 # Mwah
 
-Mwah is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Baggen, Copenhagen on Sat, 14 Nov 2026.
+Mwah is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Baggen, Copenhagen on Sat, 14 Nov 2026.
 
 Mwah is a garage and house artist based in Denmark, with 10 gigs on soundcheck across Copenhagen and Frankfurt. Often billed alongside CAYOOTEE, Mary Harp and Miss Bashful x DBBD. Next up: Baggen, Copenhagen on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Mwah is a garage and house artist based in Denmark, with 10 gigs on soundcheck a
 
 CAYOOTEE, Mary Harp, Miss Bashful x DBBD
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mwah/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mwah/)*

@@ -1,6 +1,6 @@
 # Substance
 
-Substance is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at CLUB RAUM, Amsterdam on Fri, 1 Jan 2027.
+Substance is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at CLUB RAUM, Amsterdam on Fri, 1 Jan 2027.
 
 Substance is a techno and house artist based in Germany, with 34 gigs on soundcheck across Amsterdam, Baltimore, Barcelona and Berlin and 8 more. Often billed alongside DJ Pete, Inverse Element and Vainqueur. Next up: CLUB RAUM, Amsterdam on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Substance is a techno and house artist based in Germany, with 34 gigs on soundch
 
 DJ Pete, Inverse Element, Vainqueur
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/substance/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/substance/)*

@@ -1,6 +1,6 @@
 # Westfall
 
-Westfall is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at La Java, Paris on Fri, 27 Nov 2026.
+Westfall is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at La Java, Paris on Fri, 27 Nov 2026.
 
 Westfall is a techno and trance artist based in France, with 24 gigs on soundcheck across Barcelona, Berlin, Hanoi and Paris. Often billed alongside HANÀ, Anji and BENNETT. Next up: La Java, Paris on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Westfall is a techno and trance artist based in France, with 24 gigs on soundche
 
 HANÀ, Anji (2), BENNETT
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/westfall/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/westfall/)*

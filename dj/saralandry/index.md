@@ -1,6 +1,6 @@
 # Sara Landry
 
-Sara Landry is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
+Sara Landry is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
 
 Sara Landry is a techno and house artist based in United States of America, with 224 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Athens and 74 more. Often billed alongside I Hate Models, Nico Moreno and 999999999. Next up: The Concourse Project, Austin on Fri 13 Nov.
 
@@ -16,10 +16,11 @@ Sara Landry is a techno and house artist based in United States of America, with
 | Wed, 30 Dec 2026 | Petco Park | San-diego |
 | Wed, 30 Dec 2026 | Petco Park | San-diego |
 | Thu, 31 Dec 2026 | Petco Park | San-diego |
-| Fri, 4 Jun 2027 | TBA | Glasgow |
+| Fri, 4 Jun 2027 | Clydeside Live | Glasgow |
 
 ## Recently played
 
+- The Concourse Project, Austin · Fri, 13 Nov 2026
 - Edmonton Expo Center, Edmonton · Fri, 30 Oct 2026
 - Wamu Theatre, Seattle · Fri, 30 Oct 2026
 - Red Rocks Amphitheatre, Colorado · Sat, 10 Oct 2026
@@ -27,10 +28,9 @@ Sara Landry is a techno and house artist based in United States of America, with
 - Factory Town, Miami · Sun, 6 Sept 2026
 - Union Park, Chicago · Fri, 4 Sept 2026
 - Amnesia Ibiza, Ibiza · Sun, 23 Aug 2026
-- Magazine Open–Air, London · Fri, 21 Aug 2026
 
 ## Shares bills with
 
 I Hate Models, Nico Moreno, 999999999
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saralandry/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saralandry/)*

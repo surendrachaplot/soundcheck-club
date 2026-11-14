@@ -1,8 +1,8 @@
 # indulgent
 
-indulgent is a Afro House and Dancehall artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Gorg-O-Mish, Vancouver on Sat, 14 Nov 2026.
+indulgent is a Afro House and Dancehall artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Gorg-O-Mish, Vancouver on Sat, 14 Nov 2026.
 
-indulgent is an afro house and dancehall artist, with 7 gigs on soundcheck across Vancouver. Often billed alongside Abasi, DJ Hannah and Kozue. Next up: Gorg-O-Mish, Vancouver on Sat 14 Nov.
+indulgent is an afro house and dancehall artist based in Canada, with 7 gigs on soundcheck across Vancouver. Often billed alongside Abasi, DJ Hannah and Kozue. Next up: Gorg-O-Mish, Vancouver on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ indulgent is an afro house and dancehall artist, with 7 gigs on soundcheck acros
 
 Abasi, DJ Hannah, Kozue
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/indulgent/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/indulgent/)*

@@ -1,6 +1,6 @@
 # Grow
 
-Grow is a music venue in London with 10 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "DeepDig: Handson Family (4 Hour Set) // Vanessa Freeman" on Sat, 14 Nov 2026.
+Grow is a music venue in London with 10 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "DeepDig: Handson Family (4 Hour Set) // Vanessa Freeman" on Sat, 14 Nov 2026.
 
 Grow is a music venue in London listed on soundcheck. 10 upcoming gigs, with line-ups including Alfie Panaiotis, Beavs, Charlie Dark and CSGRV and 2 more. See dates, start times and who's playing. 98C Wallis Road; Main Yard; London E9 5LN.
 
@@ -23,4 +23,4 @@ Grow is a music venue in London listed on soundcheck. 10 upcoming gigs, with lin
 
 98C Wallis Road; Main Yard; London E9 5LN, London
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/grow/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/grow/)*

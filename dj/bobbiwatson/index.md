@@ -1,6 +1,6 @@
 # Bobbi Watson
 
-Bobbi Watson is a Techno and Dub Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at UMI, Brussels on Sat, 14 Nov 2026.
+Bobbi Watson is a Techno and Dub Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at UMI, Brussels on Sat, 14 Nov 2026.
 
 Bobbi Watson is a techno and dub techno artist based in France, with 41 gigs on soundcheck across Amsterdam, Antwerp, Brussels and Ghent and 6 more. Often billed alongside Ina Kaysen, Jessen and UNOS. Next up: UMI, Brussels on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Bobbi Watson is a techno and dub techno artist based in France, with 41 gigs on 
 
 Ina Kaysen, Jessen, UNOS
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bobbiwatson/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bobbiwatson/)*

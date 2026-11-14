@@ -1,6 +1,6 @@
 # Kaito
 
-Kaito is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - VELVE Lounge, Tokyo on Mon, 16 Nov 2026.
+Kaito is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - VELVE Lounge, Tokyo on Mon, 16 Nov 2026.
 
 Kaito is a techno and house artist based in Japan, with 50 gigs on soundcheck across Detroit, Hong Kong, Kyoto and Melbourne and 4 more. Often billed alongside DALJAE, CHIKA and DICE. Next up: TBA - VELVE Lounge, Tokyo on Mon 16 Nov.
 
@@ -26,4 +26,4 @@ Kaito is a techno and house artist based in Japan, with 50 gigs on soundcheck ac
 
 DALJAE, CHIKA, DICE
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaito/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaito/)*

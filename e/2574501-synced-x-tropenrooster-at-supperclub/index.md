@@ -1,6 +1,6 @@
 # Synced x Tropenrooster at Supperclub
 
-Synced x Tropenrooster at Supperclub on Fri 8 Jan, Amsterdam. See the line-up on soundcheck.
+Synced x Tropenrooster at Supperclub on Fri 8 Jan, Amsterdam. Dancehall and Afrobeats. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

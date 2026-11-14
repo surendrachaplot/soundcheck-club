@@ -1,6 +1,6 @@
 # Ignacio Morales
 
-Ignacio Morales is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at 303 Audiophile Bar, Barcelona on Sat, 14 Nov 2026.
+Ignacio Morales is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at 303 Audiophile Bar, Barcelona on Sat, 14 Nov 2026.
 
 Ignacio Morales is a house and minimal artist based in Spain, with 25 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and Ibiza and 6 more. Often billed alongside Alexis Cabrera, Giorgio Maulini and Alvaro Medina. Next up: 303 Audiophile Bar, Barcelona on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Ignacio Morales is a house and minimal artist based in Spain, with 25 gigs on so
 
 Alexis Cabrera, Giorgio Maulini, Alvaro Medina
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ignaciomorales/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ignaciomorales/)*

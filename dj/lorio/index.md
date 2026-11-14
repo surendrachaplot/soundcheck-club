@@ -1,6 +1,6 @@
 # Lorio
 
-Lorio is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Sacadura Cabral, 167, Rio de Janeiro on Sat, 14 Nov 2026.
+Lorio is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Sacadura Cabral, 167, Rio de Janeiro on Sat, 14 Nov 2026.
 
 Lorio is a techno and house artist based in Brazil, with 27 gigs on soundcheck across Rio de Janeiro and Sao Paulo. Often billed alongside Myla, DESSANTI and Elisa Amaral. Next up: Sacadura Cabral, 167, Rio de Janeiro on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Lorio is a techno and house artist based in Brazil, with 27 gigs on soundcheck a
 
 Myla, DESSANTI, Elisa Amaral
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lorio/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lorio/)*

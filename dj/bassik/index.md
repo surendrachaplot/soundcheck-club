@@ -1,6 +1,6 @@
 # Bassik
 
-Bassik is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Bunker, Turin on Fri, 27 Nov 2026.
+Bassik is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Bunker, Turin on Fri, 27 Nov 2026.
 
 Bassik is a techno and house artist based in Italy, with 33 gigs on soundcheck across Barcelona, Cape Town, Istanbul and Johannesburg and 2 more. Often billed alongside Distorted Planet, Gandalf and Ectoplasm. Next up: Bunker, Turin on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Bassik is a techno and house artist based in Italy, with 33 gigs on soundcheck a
 
 Distorted Planet, Gandalf, Ectoplasm
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bassik/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bassik/)*

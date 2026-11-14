@@ -1,6 +1,6 @@
 # Louis The 4th
 
-Louis The 4th is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at FVTVR, Paris on Fri, 11 Dec 2026.
+Louis The 4th is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at FVTVR, Paris on Fri, 11 Dec 2026.
 
 Louis The 4th is a techno and house artist based in France, with 50 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bordeaux and 8 more. Often billed alongside Chami, Dictent Vroom and A.mo. Next up: FVTVR, Paris on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ Louis The 4th is a techno and house artist based in France, with 50 gigs on soun
 
 Chami, Dictent Vroom, A.mo
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/louisthe4th/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/louisthe4th/)*

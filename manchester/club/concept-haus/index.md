@@ -1,6 +1,6 @@
 # Concept Haus
 
-Concept Haus is a music venue in Manchester with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "ABB X RECOGNISE" on Sat, 21 Nov 2026.
+Concept Haus is a music venue in Manchester with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "ABB X RECOGNISE" on Sat, 21 Nov 2026.
 
 Concept Haus is a music venue in Manchester listed on soundcheck. 4 upcoming gigs, with line-ups including Anthea, AVIAX, Carl H and Christian AB and 2 more. See dates, start times and who's playing. 29 Cobden Street, Salford, M66WF.
 
@@ -17,4 +17,4 @@ Concept Haus is a music venue in Manchester listed on soundcheck. 4 upcoming gig
 
 29 Cobden Street, Salford, M66WF, Manchester
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/concept-haus/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/concept-haus/)*

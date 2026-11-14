@@ -1,6 +1,6 @@
 # Clutch, Warehouse Bangkok
 
-Clutch, Warehouse Bangkok is a music venue in Bangkok with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Clutch presents: MR.HO" on Sat, 28 Nov 2026.
+Clutch, Warehouse Bangkok is a music venue in Bangkok with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Clutch presents: MR.HO" on Sat, 28 Nov 2026.
 
 Clutch, Warehouse Bangkok is a music venue in Bangkok listed on soundcheck. 2 upcoming gigs, with line-ups including DOTT, Elaheh, Gaspray and Mr. Ho and 1 more. See dates, start times and who's playing. Clutch Bar, Talad Noi, Bangkok. Thailand.
 
@@ -15,4 +15,4 @@ Clutch, Warehouse Bangkok is a music venue in Bangkok listed on soundcheck. 2 up
 
 Clutch Bar, Talad Noi, Bangkok. Thailand, Bangkok
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/clutch-warehouse-bangkok/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/clutch-warehouse-bangkok/)*

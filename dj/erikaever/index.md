@@ -1,6 +1,6 @@
 # Erika Ever
 
-Erika Ever is a Club and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at VFD, London on Sat, 21 Nov 2026.
+Erika Ever is a Club and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at VFD, London on Sat, 21 Nov 2026.
 
 Erika Ever is a club and electro artist based in Australia, with 6 gigs on soundcheck across London and Melbourne. Often billed alongside nabii, ARKNGL and Aaliyah Salem. Next up: VFD, London on Sat 21 Nov.
 
@@ -22,4 +22,4 @@ Erika Ever is a club and electro artist based in Australia, with 6 gigs on sound
 
 nabii, ARKNGL, Aaliyah Salem
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erikaever/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erikaever/)*

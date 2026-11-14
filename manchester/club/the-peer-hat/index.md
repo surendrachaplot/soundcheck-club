@@ -1,6 +1,6 @@
 # The Peer Hat
 
-The Peer Hat is a music venue in Manchester with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "Chance Meeting: Dhangsha + Kop-Z" on Tue, 17 Nov 2026.
+The Peer Hat is a music venue in Manchester with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. The next is "Chance Meeting: Dhangsha + Kop-Z" on Tue, 17 Nov 2026.
 
 The Peer Hat is a music venue in Manchester listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 14-16 Faraday St, Manchester M1 1BE, United Kingdom.
 
@@ -14,4 +14,4 @@ The Peer Hat is a music venue in Manchester listed on soundcheck. 1 upcoming gig
 
 14-16 Faraday St, Manchester M1 1BE, United Kingdom, Manchester
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-peer-hat/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-peer-hat/)*

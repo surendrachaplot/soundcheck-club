@@ -1,6 +1,6 @@
 # Bi Nuu
 
-Bi Nuu is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Wave Noir  #06  Noirscapes" on Sat, 28 Nov 2026.
+Bi Nuu is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Wave Noir  #06  Noirscapes" on Sat, 28 Nov 2026.
 
 Bi Nuu is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including justpatrick, Kayoso and Lord Galon. See dates, start times and who's playing. Im U-Bhf. Schlesisches Tor; 10997 Berlin; Germany.
 
@@ -16,4 +16,4 @@ Bi Nuu is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with li
 
 Im U-Bhf. Schlesisches Tor; 10997 Berlin; Germany, Berlin
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bi-nuu/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bi-nuu/)*

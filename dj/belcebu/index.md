@@ -1,6 +1,6 @@
 # BELCEBÚ
 
-BELCEBÚ is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Sala Muv, Madrid on Fri, 15 Jan 2027.
+BELCEBÚ is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Sala Muv, Madrid on Fri, 15 Jan 2027.
 
 BELCEBÚ is a techno and industrial artist, with 80 gigs on soundcheck across Barcelona, Lisbon, London and Madrid and 3 more. Often billed alongside BUFAINE, Mussen and Pulpix. Next up: Sala Muv, Madrid on Fri 15 Jan.
 
@@ -25,4 +25,4 @@ BELCEBÚ is a techno and industrial artist, with 80 gigs on soundcheck across Ba
 
 BUFAINE, Mussen, Pulpix
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/belcebu/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/belcebu/)*

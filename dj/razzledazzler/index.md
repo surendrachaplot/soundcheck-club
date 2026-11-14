@@ -1,6 +1,6 @@
 # Razzle Dazzler
 
-Razzle Dazzler is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at AMT, Berlin on Tue, 1 Dec 2026.
+Razzle Dazzler is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at AMT, Berlin on Tue, 1 Dec 2026.
 
 Razzle Dazzler is a techno and trance artist based in Poland, with 16 gigs on soundcheck across Berlin and Lisbon. Often billed alongside ALIS., ELOISA and Kander. Next up: AMT, Berlin on Tue 1 Dec.
 
@@ -25,4 +25,4 @@ Razzle Dazzler is a techno and trance artist based in Poland, with 16 gigs on so
 
 ALIS., ELOISA, Kander
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/razzledazzler/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/razzledazzler/)*

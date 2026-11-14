@@ -1,6 +1,6 @@
 # Cris Argotti
 
-Cris Argotti is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Berenice., Cali on Sun, 29 Nov 2026.
+Cris Argotti is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Berenice., Cali on Sun, 29 Nov 2026.
 
 Cris Argotti is a house and afro house artist based in Colombia, with 3 gigs on soundcheck across Cali, Colombia and Medellin. Often billed alongside Sonyer and Tida Kamara. Next up: Berenice., Cali on Sun 29 Nov.
 
@@ -19,4 +19,4 @@ Cris Argotti is a house and afro house artist based in Colombia, with 3 gigs on 
 
 Sonyer, Tida Kamara
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/crisargotti/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/crisargotti/)*

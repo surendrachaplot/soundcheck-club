@@ -1,15 +1,13 @@
 # KUKO
 
-KUKO is a Techno and Trance artist with 13 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Melbourne Pavilion, Melbourne on Fri, 13 Nov 2026.
+KUKO is a Techno and Trance artist with 11 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Native Beach Club, Buenos Aires on Fri, 20 Nov 2026.
 
-KUKO is a techno and trance artist based in Germany, with 259 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 71 more. Often billed alongside Cloudy, Adrian Mills and Johannes Schuster. Next up: Melbourne Pavilion, Melbourne on Fri 13 Nov.
+KUKO is a techno and trance artist based in Germany, with 259 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 71 more. Often billed alongside Cloudy, Adrian Mills and Johannes Schuster. Next up: Native Beach Club, Buenos Aires on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Melbourne Pavilion | Melbourne |
-| Sat, 14 Nov 2026 | The Ivy | Sydney |
 | Fri, 20 Nov 2026 | Native Beach Club | Buenos Aires |
 | Sat, 21 Nov 2026 | Komplexo Tempo | Sao Paulo |
 | Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
@@ -20,9 +18,11 @@ KUKO is a techno and trance artist based in Germany, with 259 gigs on soundcheck
 | Sat, 12 Dec 2026 | Kompass Klub | Ghent |
 | Fri, 18 Dec 2026 | Messe Stuttgart | Stuttgart |
 | Sat, 19 Dec 2026 | Bootshaus | Cologne |
+| Fri, 4 Jun 2027 | Clydeside Live | Glasgow |
 
 ## Recently played
 
+- Melbourne Pavilion, Melbourne · Fri, 13 Nov 2026
 - TBA - MATREZ, Žorža Klemansoa 37, 11000, Belgrade · Sat, 7 Nov 2026
 - Jahrhunderthalle, Bochum · Sat, 31 Oct 2026
 - Gotec, Karlsruhe · Fri, 30 Oct 2026
@@ -30,10 +30,9 @@ KUKO is a techno and trance artist based in Germany, with 259 gigs on soundcheck
 - Lutfi Kirdar Congress Center, Istanbul · Sat, 17 Oct 2026
 - Sonora Bordeaux, Bordeaux · Fri, 16 Oct 2026
 - Parc des Expositions de Bordeaux lac, Bordeaux · Fri, 16 Oct 2026
-- Fabrik, Madrid · Sun, 11 Oct 2026
 
 ## Shares bills with
 
 Cloudy, Adrian Mills, Johannes Schuster
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kuko-de/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kuko-de/)*

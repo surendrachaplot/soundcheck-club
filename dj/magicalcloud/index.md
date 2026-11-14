@@ -1,6 +1,6 @@
 # Magical Cloud
 
-Magical Cloud is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Triangle, Osaka on Sat, 5 Dec 2026.
+Magical Cloud is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Triangle, Osaka on Sat, 5 Dec 2026.
 
 Magical Cloud is a techno and psytrance artist, with 14 gigs on soundcheck across Osaka. Often billed alongside Pinky_c2, |_UDWIG and Goodrug. Next up: Triangle, Osaka on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Magical Cloud is a techno and psytrance artist, with 14 gigs on soundcheck acros
 
 Pinky_c2, |_UDWIG, Goodrug
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/magicalcloud/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/magicalcloud/)*

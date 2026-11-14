@@ -1,6 +1,6 @@
 # lis (5)
 
-lis (5) is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Garage Noord, Amsterdam on Sun, 13 Dec 2026.
+lis (5) is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Garage Noord, Amsterdam on Sun, 13 Dec 2026.
 
 lis is a techno and bass artist based in Netherlands, with 12 gigs on soundcheck across Amsterdam. Often billed alongside BIANKA, DIORA and Thoms Traxx. Next up: Garage Noord, Amsterdam on Sun 13 Dec.
 
@@ -25,4 +25,4 @@ lis is a techno and bass artist based in Netherlands, with 12 gigs on soundcheck
 
 BIANKA, DIORA, Thoms Traxx
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lis-5/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lis-5/)*

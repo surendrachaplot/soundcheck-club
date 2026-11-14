@@ -1,6 +1,6 @@
 # PRO5PECT
 
-PRO5PECT is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Carousel Bar & Ballroom, Sydney on Fri, 27 Nov 2026.
+PRO5PECT is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Carousel Bar & Ballroom, Sydney on Fri, 27 Nov 2026.
 
 PRO5PECT is a techno and progressive house artist based in Australia, with 3 gigs on soundcheck across Sydney. Often billed alongside Nadine B, PAPCO and Caike.. Next up: Carousel Bar & Ballroom, Sydney on Fri 27 Nov.
 
@@ -19,4 +19,4 @@ PRO5PECT is a techno and progressive house artist based in Australia, with 3 gig
 
 Nadine B, PAPCO, Caike.
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pro5pect/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pro5pect/)*

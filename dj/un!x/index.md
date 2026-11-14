@@ -1,6 +1,6 @@
 # UN!X
 
-UN!X is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Warehouse Talat Noi, Bangkok on Sat, 14 Nov 2026.
+UN!X is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at The Warehouse Talat Noi, Bangkok on Sat, 14 Nov 2026.
 
 UN!X is a house and techno artist based in Thailand, with 56 gigs on soundcheck across Bangkok, Ho Chi Minh City, Hong Kong and Shanghai and 1 more. Often billed alongside PPOINT, Yorsab and Virion. Next up: The Warehouse Talat Noi, Bangkok on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ UN!X is a house and techno artist based in Thailand, with 56 gigs on soundcheck 
 
 PPOINT, Yorsab, Virion
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/un!x/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/un!x/)*

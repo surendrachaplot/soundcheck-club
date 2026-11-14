@@ -1,6 +1,6 @@
 # Vandiaz
 
-Vandiaz is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Skin Club, Madrid on Sun, 29 Nov 2026.
+Vandiaz is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Skin Club, Madrid on Sun, 29 Nov 2026.
 
 Vandiaz is a techno and electro artist based in Spain, with 57 gigs on soundcheck across Madrid. Often billed alongside Javier Klash, Dyans and Reitze. Next up: Skin Club, Madrid on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Vandiaz is a techno and electro artist based in Spain, with 57 gigs on soundchec
 
 Javier Klash, Dyans, Reitze
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vandiaz/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vandiaz/)*

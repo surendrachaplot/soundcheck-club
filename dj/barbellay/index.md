@@ -1,8 +1,8 @@
 # Barbellay
 
-Barbellay is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Husitská 22, Prague on Fri, 20 Nov 2026.
+Barbellay is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Husitská 22, Prague on Fri, 20 Nov 2026.
 
-Barbellay is a techno and trance artist, with 13 gigs on soundcheck across Bratislava and Prague. Often billed alongside Fantomass, MURKEZZI and Keporkak. Next up: Husitská 22, Prague on Fri 20 Nov.
+Barbellay is a techno and trance artist based in Slovakia, with 13 gigs on soundcheck across Bratislava and Prague. Often billed alongside Fantomass, MURKEZZI and Keporkak. Next up: Husitská 22, Prague on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Barbellay is a techno and trance artist, with 13 gigs on soundcheck across Brati
 
 Fantomass, MURKEZZI, Keporkak
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/barbellay/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/barbellay/)*

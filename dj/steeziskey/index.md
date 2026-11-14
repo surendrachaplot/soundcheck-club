@@ -1,6 +1,6 @@
 # Steeziskey
 
-Steeziskey is a UK Funky and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Vinyl Whistle, Leeds on Sun, 13 Dec 2026.
+Steeziskey is a UK Funky and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at The Vinyl Whistle, Leeds on Sun, 13 Dec 2026.
 
 Steeziskey is an uk funky and garage artist based in United Kingdom, with 15 gigs on soundcheck across Leeds and London. Often billed alongside sbfmRADIO, Badly Drawn Banana and Chedda Bred. Next up: The Vinyl Whistle, Leeds on Sun 13 Dec.
 
@@ -25,4 +25,4 @@ Steeziskey is an uk funky and garage artist based in United Kingdom, with 15 gig
 
 sbfmRADIO, Badly Drawn Banana, Chedda Bred
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/steeziskey/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/steeziskey/)*

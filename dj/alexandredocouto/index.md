@@ -1,6 +1,6 @@
 # Alexandre Docouto
 
-Alexandre Docouto is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at TBA - Address released to Shotgun ticket holders, Washington DC on Sat, 14 Nov 2026.
+Alexandre Docouto is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Address released to Shotgun ticket holders, Washington DC on Sat, 14 Nov 2026.
 
 Alexandre Docouto is a house and deep house artist based in United States of America, with 6 gigs on soundcheck across Washington DC. Often billed alongside Chris Nitti, Hoppa and Armen Miran. Next up: TBA - Address released to Shotgun ticket holders, Washington DC on Sat 14 Nov.
 
@@ -22,4 +22,4 @@ Alexandre Docouto is a house and deep house artist based in United States of Ame
 
 Chris Nitti, Hoppa, Armen Miran
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandredocouto/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandredocouto/)*

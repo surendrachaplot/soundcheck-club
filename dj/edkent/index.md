@@ -1,6 +1,6 @@
 # Ed Kent
 
-Ed Kent is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Solace, Melbourne on Sat, 14 Nov 2026.
+Ed Kent is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Solace, Melbourne on Sat, 14 Nov 2026.
 
 Ed Kent is a house and techno artist based in Australia, with 84 gigs on soundcheck across Berlin, Ho Chi Minh City, Melbourne and Sydney and 1 more. Often billed alongside Hannah D, Mabel and Moopie. Next up: Solace, Melbourne on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Ed Kent is a house and techno artist based in Australia, with 84 gigs on soundch
 
 Hannah D, Mabel, Moopie
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edkent/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edkent/)*

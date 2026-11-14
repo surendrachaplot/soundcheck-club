@@ -1,6 +1,6 @@
 # Zooboi
 
-Zooboi is a Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Club Buddha, Chubu on Fri, 20 Nov 2026.
+Zooboi is a Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Club Buddha, Chubu on Fri, 20 Nov 2026.
 
 Zooboi is a techno artist based in Japan, with 3 gigs on soundcheck across Chubu and Tokyo. Often billed alongside Akito, DJnoonkoon and MileZ. Next up: Club Buddha, Chubu on Fri 20 Nov.
 
@@ -19,4 +19,4 @@ Zooboi is a techno artist based in Japan, with 3 gigs on soundcheck across Chubu
 
 Akito, DJnoonkoon, MileZ
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zooboi/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zooboi/)*

@@ -1,6 +1,6 @@
 # WaxFiend
 
-WaxFiend is a R&B and Dancehall artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Skatecafe, Amsterdam on Fri, 27 Nov 2026.
+WaxFiend is a R&B and Dancehall artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Skatecafe, Amsterdam on Fri, 27 Nov 2026.
 
 WaxFiend is a r&b and dancehall artist based in Netherlands, with 15 gigs on soundcheck across Amsterdam. Often billed alongside Rockefellababe, Zoë Janice and Abstract (US). Next up: Skatecafe, Amsterdam on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ WaxFiend is a r&b and dancehall artist based in Netherlands, with 15 gigs on sou
 
 Rockefellababe, Zoë Janice, Abstract (US)
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/waxfiend/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/waxfiend/)*

@@ -1,14 +1,13 @@
 # Index
 
-Index is a music venue in Dublin with 9 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Index: Alan Fitzpatrick" on Fri, 13 Nov 2026.
+Index is a music venue in Dublin with 8 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Index: Partiboi69" on Sat, 14 Nov 2026.
 
-Index is a music venue in Dublin listed on soundcheck. 9 upcoming gigs, with line-ups including Alan Fitzpatrick, ALISHA, Anil Aras and Apollonia and 2 more. See dates, start times and who's playing. 57 Middle Abbey St, North City, Dublin 1, D01 W573.
+Index is a music venue in Dublin listed on soundcheck. 8 upcoming gigs, with line-ups including ALISHA, Anil Aras, Apollonia and Cloudy and 2 more. See dates, start times and who's playing. 57 Middle Abbey St, North City, Dublin 1, D01 W573.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Index: Alan Fitzpatrick | Alan Fitzpatrick |
 | Sat, 14 Nov 2026 | Index: Partiboi69 | Partiboi69 |
 | Fri, 20 Nov 2026 | Index x Omni: Jamback | Anil Aras, Emma Kearns, Jamback |
 | Sat, 21 Nov 2026 | Index: Rebūke |  |
@@ -22,4 +21,4 @@ Index is a music venue in Dublin listed on soundcheck. 9 upcoming gigs, with lin
 
 57 Middle Abbey St, North City, Dublin 1, D01 W573, Dublin
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/index/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/index/)*

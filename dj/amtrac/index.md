@@ -1,6 +1,6 @@
 # Amtrac
 
-Amtrac is a House and Deep House artist with 6 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Process PDX, Portland on Thu, 19 Nov 2026.
+Amtrac is a House and Deep House artist with 6 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Process PDX, Portland on Thu, 19 Nov 2026.
 
 Amtrac is a house and deep house artist based in United States of America, with 77 gigs on soundcheck across Austin, Chicago, Dallas/Fort Worth and Denver and 20 more. Often billed alongside Totally Enormous Extinct Dinosaurs, Tourist and CRi. Next up: Process PDX, Portland on Thu 19 Nov.
 
@@ -30,4 +30,4 @@ Amtrac is a house and deep house artist based in United States of America, with 
 
 Totally Enormous Extinct Dinosaurs, Tourist, CRi
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amtrac/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amtrac/)*

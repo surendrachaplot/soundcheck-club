@@ -1,6 +1,6 @@
 # Agua con gas
 
-Agua con gas is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TORTE BAR, Berlin on Thu, 19 Nov 2026.
+Agua con gas is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TORTE BAR, Berlin on Thu, 19 Nov 2026.
 
 Agua con gas is a house and techno artist based in Germany, with 27 gigs on soundcheck across Berlin, Buenos Aires, Cape Town and Tbilisi. Often billed alongside SENERGI, CHRANDY and Doctora Amor. Next up: TORTE BAR, Berlin on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Agua con gas is a house and techno artist based in Germany, with 27 gigs on soun
 
 SENERGI, CHRANDY, Doctora Amor
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aguacongas/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aguacongas/)*

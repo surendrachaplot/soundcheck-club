@@ -1,6 +1,6 @@
 # Debaser Hornstulls Strand
 
-Debaser Hornstulls Strand is a music venue in Stockholm with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "Fun Factory" on Sat, 14 Nov 2026.
+Debaser Hornstulls Strand is a music venue in Stockholm with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. The next is "Fun Factory" on Sat, 14 Nov 2026.
 
 Debaser Hornstulls Strand is a music venue in Stockholm listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Hornstulls Strand 4, 11739 Stockholm, Sweden.
 
@@ -14,4 +14,4 @@ Debaser Hornstulls Strand is a music venue in Stockholm listed on soundcheck. 1 
 
 Hornstulls Strand 4, 11739 Stockholm, Sweden, Stockholm
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/debaser-hornstulls-strand/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/debaser-hornstulls-strand/)*

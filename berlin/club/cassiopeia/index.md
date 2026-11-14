@@ -1,6 +1,6 @@
 # Cassiopeia
 
-Cassiopeia is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "CHB COLLECTIVE - FEVER DREAM" on Fri, 20 Nov 2026.
+Cassiopeia is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "CHB COLLECTIVE - FEVER DREAM" on Fri, 20 Nov 2026.
 
 Cassiopeia is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including AWSM, DJ Hotcue, DJ Jetset and eZaY and 2 more. See dates, start times and who's playing. Revaler Str. 99, 10245 Berlin, Germany.
 
@@ -17,4 +17,4 @@ Cassiopeia is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, wit
 
 Revaler Str. 99, 10245 Berlin, Germany, Berlin
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/cassiopeia/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/cassiopeia/)*

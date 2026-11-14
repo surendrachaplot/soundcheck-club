@@ -1,6 +1,6 @@
 # The Empire Line
 
-The Empire Line is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Astron Club, Athens on Fri, 27 Nov 2026.
+The Empire Line is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Astron Club, Athens on Fri, 27 Nov 2026.
 
 The Empire Line is a techno artist based in Sweden, with 10 gigs on soundcheck across Athens, Basel, Berlin and Copenhagen and 5 more. Often billed alongside Croatian Amor, Vanity Productions and Ireen Amnes. Next up: Astron Club, Athens on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ The Empire Line is a techno artist based in Sweden, with 10 gigs on soundcheck a
 
 Croatian Amor, Vanity Productions, Ireen Amnes
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theempireline/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theempireline/)*

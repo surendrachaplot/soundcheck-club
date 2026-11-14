@@ -1,14 +1,13 @@
 # Aquenta
 
-Aquenta is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Abbotsford Convent, Melbourne on Sat, 14 Nov 2026.
+Aquenta is a Club and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Northcote Theatre, Melbourne on Thu, 31 Dec 2026.
 
-Aquenta is a club and house artist based in Australia, with 21 gigs on soundcheck across Hobart, Melbourne and Sydney. Often billed alongside Rydeen (AU), Baschoe and Abigail Toll. Next up: Abbotsford Convent, Melbourne on Sat 14 Nov.
+Aquenta is a club and house artist based in Australia, with 21 gigs on soundcheck across Hobart, Melbourne and Sydney. Often billed alongside Rydeen (AU), Baschoe and Aisha Mirza. Next up: Northcote Theatre, Melbourne on Thu 31 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Abbotsford Convent | Melbourne |
 | Thu, 31 Dec 2026 | Northcote Theatre | Melbourne |
 
 ## Recently played
@@ -24,6 +23,6 @@ Aquenta is a club and house artist based in Australia, with 21 gigs on soundchec
 
 ## Shares bills with
 
-Rydeen (AU), Baschoe, Abigail Toll
+Rydeen (AU), Baschoe, Aisha Mirza
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aquenta/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aquenta/)*

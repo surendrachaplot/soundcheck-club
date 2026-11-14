@@ -1,6 +1,6 @@
 # Tresor: True Spirit at Tresor / Globus
 
-Tresor: True Spirit at Tresor / Globus on Sat 19 Dec, Berlin. 4 artists: Janina, Madalba, Stojche and Zenker Brothers. Techno. See the line-up on soundcheck.
+Tresor: True Spirit at Tresor / Globus on Sat 19 Dec, Berlin. 6 artists: Aloe, Janina, Madalba and Stojche and 2 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,9 +10,11 @@ Tresor: True Spirit at Tresor / Globus on Sat 19 Dec, Berlin. 4 artists: Janina,
 
 ## Line-up
 
+- Aloe
 - Janina
 - Madalba
 - Stojche
+- Vaccaro
 - Zenker Brothers
 
 *Source: [soundcheck](https://soundcheck.club/e/2572535-tresor-true-spirit-at-tresor-globus/)*

@@ -1,14 +1,13 @@
 # Hiroko Yamamura
 
-Hiroko Yamamura is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Cause, London on Fri, 13 Nov 2026.
+Hiroko Yamamura is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Public Works, San Francisco/Oakland on Fri, 20 Nov 2026.
 
-Hiroko Yamamura is a techno and house artist based in United States of America, with 171 gigs on soundcheck across Amsterdam, Arkansas, Athens and Austin and 45 more. Often billed alongside Seth Troxler, Carl Craig and DJ Heather. Next up: The Cause, London on Fri 13 Nov.
+Hiroko Yamamura is a techno and house artist based in United States of America, with 171 gigs on soundcheck across Amsterdam, Arkansas, Athens and Austin and 45 more. Often billed alongside Seth Troxler, Carl Craig and DJ Heather. Next up: Public Works, San Francisco/Oakland on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | The Cause | London |
 | Fri, 20 Nov 2026 | Public Works | San Francisco/Oakland |
 | Fri, 4 Dec 2026 | TBA | Michigan |
 | Tue, 29 Dec 2026 | ZEROTOKYO | Tokyo |
@@ -19,6 +18,7 @@ Hiroko Yamamura is a techno and house artist based in United States of America, 
 
 ## Recently played
 
+- The Cause, London · Fri, 13 Nov 2026
 - The Momentary, Arkansas · Fri, 6 Nov 2026
 - Brooklyn Roots Collective, New York City · Fri, 2 Oct 2026
 - Union Park, Chicago · Fri, 4 Sept 2026
@@ -26,10 +26,9 @@ Hiroko Yamamura is a techno and house artist based in United States of America, 
 - Bassiani, Tbilisi · Sat, 15 Aug 2026
 - Burgess Park, London · Sat, 1 Aug 2026
 - Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin · Thu, 16 Jul 2026
-- Berghain | Panorama Bar | Säule, Berlin · Sat, 4 Jul 2026
 
 ## Shares bills with
 
 Seth Troxler, Carl Craig, DJ Heather
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hirokoyamamura/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hirokoyamamura/)*

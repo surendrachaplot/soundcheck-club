@@ -1,6 +1,6 @@
 # Mary (5)
 
-Mary (5) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Rhythm, Toronto on Fri, 20 Nov 2026.
+Mary (5) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Rhythm, Toronto on Fri, 20 Nov 2026.
 
 Mary is a house and electro artist based in Canada, with 25 gigs on soundcheck across Toronto. Often billed alongside Chafic, Cosmic JD and Milidi. Next up: Rhythm, Toronto on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Mary is a house and electro artist based in Canada, with 25 gigs on soundcheck a
 
 Chafic, Cosmic JD, Milidi
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mary-5/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mary-5/)*

@@ -1,6 +1,6 @@
 # Sid The Science Bitch
 
-Sid The Science Bitch is a Techno and Gabber artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Bossa Nova Civic Club, New-york-city on Mon, 8 Nov 2027.
+Sid The Science Bitch is a Techno and Gabber artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Bossa Nova Civic Club, New-york-city on Mon, 8 Nov 2027.
 
 Sid The Science Bitch is a techno and gabber artist based in United States of America, with 20 gigs on soundcheck across Bristol, London, New York City and Tokyo. Often billed alongside XS BULLY, AC (dot robot) and Sissy Cinnamon. Next up: Bossa Nova Civic Club, New York City on Mon 8 Nov.
 
@@ -25,4 +25,4 @@ Sid The Science Bitch is a techno and gabber artist based in United States of Am
 
 XS BULLY, AC (dot robot), Sissy Cinnamon
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sidthesciencebitch/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sidthesciencebitch/)*

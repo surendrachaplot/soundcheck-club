@@ -1,6 +1,6 @@
 # alizé.e
 
-alizé.e is a Dub and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Giri, Berlin on Fri, 20 Nov 2026.
+alizé.e is a Dub and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Giri, Berlin on Fri, 20 Nov 2026.
 
 alizé.e is a dub and house artist based in France, with 21 gigs on soundcheck across Berlin, Bologna and Brussels. Often billed alongside scdr, Andriy K. and Kat Never. Next up: Giri, Berlin on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ alizé.e is a dub and house artist based in France, with 21 gigs on soundcheck a
 
 scdr, Andriy K., Kat Never
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alize.e/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alize.e/)*

@@ -1,6 +1,6 @@
 # TBA - 21 Roof Top Bar
 
-TBA - 21 Roof Top Bar is a music venue in Kuala Lumpur with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "SPCTRM POOL PARTY" on Sat, 14 Nov 2026.
+TBA - 21 Roof Top Bar is a music venue in Kuala Lumpur with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. The next is "SPCTRM POOL PARTY" on Sat, 14 Nov 2026.
 
 TBA - 21 Roof Top Bar is a music venue in Kuala Lumpur listed on soundcheck. 1 upcoming gig, with line-ups including Axel Groove, Julia Deychuk and Natly Mey. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - 21 Roof Top Bar is a music venue in Kuala Lumpur listed on soundcheck. 1 u
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | SPCTRM POOL PARTY | Axel Groove, Julia Deychuk, Natly Mey |
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/kualalumpur/club/tba-21-roof-top-bar/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/kualalumpur/club/tba-21-roof-top-bar/)*

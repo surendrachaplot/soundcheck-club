@@ -1,6 +1,6 @@
 # Klub Studio
 
-Klub Studio is a music venue in Krakow with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Hubert. & prawy brzeg - sei porobilo...TOUR - 18.11 Kraków" on Wed, 18 Nov 2026.
+Klub Studio is a music venue in Krakow with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Hubert. & prawy brzeg - sei porobilo...TOUR - 18.11 Kraków" on Wed, 18 Nov 2026.
 
 Klub Studio is a music venue in Krakow listed on soundcheck. 2 upcoming gigs, with line-ups including Hubert.. See dates, start times and who's playing. ul. Budryka 4; Krakow, Poland.
 
@@ -15,4 +15,4 @@ Klub Studio is a music venue in Krakow listed on soundcheck. 2 upcoming gigs, wi
 
 ul. Budryka 4; Krakow, Poland, Krakow
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/klub-studio/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/klub-studio/)*

@@ -1,6 +1,6 @@
 # Yukari BB
 
-Yukari BB is a House and Jazz artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Club Metro, Kyoto on Mon, 23 Nov 2026.
+Yukari BB is a House and Jazz artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Club Metro, Kyoto on Mon, 23 Nov 2026.
 
 Yukari BB is a house and jazz artist based in Japan, with 38 gigs on soundcheck across Amsterdam, Kyoto, London and Osaka and 1 more. Often billed alongside Masaki Tamura, Kyoto Jazz Massive and Midori Aoyama. Next up: Club Metro, Kyoto on Mon 23 Nov.
 
@@ -25,4 +25,4 @@ Yukari BB is a house and jazz artist based in Japan, with 38 gigs on soundcheck 
 
 Masaki Tamura, Kyoto Jazz Massive, Midori Aoyama
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yukaribb/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yukaribb/)*

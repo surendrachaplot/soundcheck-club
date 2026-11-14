@@ -1,6 +1,6 @@
 # BOOTHBUNNY
 
-BOOTHBUNNY is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at ROSA, Berlin on Sat, 14 Nov 2026.
+BOOTHBUNNY is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at ROSA, Berlin on Sat, 14 Nov 2026.
 
 BOOTHBUNNY is a trance and techno artist based in Germany, with 10 gigs on soundcheck across Amsterdam, Berlin and Hamburg. Often billed alongside NØVEX (DE), djst4rlight and AISHA. Next up: ROSA, Berlin on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ BOOTHBUNNY is a trance and techno artist based in Germany, with 10 gigs on sound
 
 NØVEX (DE), djst4rlight, AISHA
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boothbunny/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boothbunny/)*

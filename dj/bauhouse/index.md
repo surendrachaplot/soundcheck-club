@@ -1,6 +1,6 @@
 # Bauhouse
 
-Bauhouse is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at D-EDGE, Sao Paulo on Fri, 20 Nov 2026.
+Bauhouse is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at D-EDGE, Sao Paulo on Fri, 20 Nov 2026.
 
 Bauhouse is a house and tech house artist based in Brazil, with 20 gigs on soundcheck across Rio de Janeiro and Sao Paulo. Often billed alongside simo not simon, BALDACCI and ALOT. Next up: D-EDGE, Sao Paulo on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Bauhouse is a house and tech house artist based in Brazil, with 20 gigs on sound
 
 simo not simon, BALDACCI, ALOT
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bauhouse/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bauhouse/)*

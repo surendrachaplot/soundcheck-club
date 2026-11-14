@@ -1,6 +1,6 @@
 # Dakissa
 
-Dakissa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Karmakoma, Belgrade on Sat, 21 Nov 2026.
+Dakissa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Karmakoma, Belgrade on Sat, 21 Nov 2026.
 
 Dakissa is a house and techno artist based in Serbia, with 13 gigs on soundcheck across Belgrade. Often billed alongside Dakman, Gostoja and Bosko Balos. Next up: Karmakoma, Belgrade on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Dakissa is a house and techno artist based in Serbia, with 13 gigs on soundcheck
 
 Dakman, Gostoja, Bosko Balos
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dakissa/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dakissa/)*

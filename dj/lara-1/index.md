@@ -1,6 +1,6 @@
 # Lara (1)
 
-Lara (1) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at 50 | 50, Medellin on Sun, 15 Nov 2026.
+Lara (1) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at 50 | 50, Medellin on Sun, 15 Nov 2026.
 
 Lara is a house and techno artist based in Slovenia, with 23 gigs on soundcheck across Berlin, Bologna, Ljubljana and London and 6 more. Often billed alongside Virgilio, Lottie (SI) and Monti1one. Next up: 50 | 50, Medellin on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Lara is a house and techno artist based in Slovenia, with 23 gigs on soundcheck 
 
 Virgilio, Lottie (SI), Monti1one
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lara-1/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lara-1/)*

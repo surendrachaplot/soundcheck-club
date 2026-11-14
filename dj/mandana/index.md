@@ -1,6 +1,6 @@
 # Mandana
 
-Mandana is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Garden Tisno, Croatia on Thu, 26 Aug 2027.
+Mandana is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at The Garden Tisno, Croatia on Thu, 26 Aug 2027.
 
 Mandana is a house and electro artist based in Belgium, with 42 gigs on soundcheck across Antwerp, Barcelona, Berlin and Brussels and 4 more. Often billed alongside DJ Rino, Dana Kuehr and Alfred Anders. Next up: The Garden Tisno, Croatia on Thu 26 Aug.
 
@@ -25,4 +25,4 @@ Mandana is a house and electro artist based in Belgium, with 42 gigs on soundche
 
 DJ Rino, Dana Kuehr, Alfred Anders
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mandana/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mandana/)*

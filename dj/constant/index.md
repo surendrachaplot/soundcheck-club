@@ -1,6 +1,6 @@
 # CONSTANT
 
-CONSTANT is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Pawn Shop, Dublin on Sat, 21 Nov 2026.
+CONSTANT is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Pawn Shop, Dublin on Sat, 21 Nov 2026.
 
 CONSTANT is a techno and house artist based in Ireland, with 12 gigs on soundcheck across Dublin and London. Often billed alongside Geist, Derv and MAV666. Next up: Pawn Shop, Dublin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ CONSTANT is a techno and house artist based in Ireland, with 12 gigs on soundche
 
 Geist, Derv, MAV666
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/constant/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/constant/)*

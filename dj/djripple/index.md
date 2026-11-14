@@ -1,8 +1,8 @@
 # dj ripple
 
-dj ripple is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Kizuna, London on Sat, 14 Nov 2026.
+dj ripple is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Kizuna, London on Sat, 14 Nov 2026.
 
-dj ripple is a house and techno artist, with 11 gigs on soundcheck across Leeds and London. Often billed alongside PAS (UK), Rob Pearson and Donton. Next up: Kizuna, London on Sat 14 Nov.
+dj ripple is a house and techno artist based in United Kingdom, with 11 gigs on soundcheck across Leeds and London. Often billed alongside PAS (UK), Rob Pearson and Donton. Next up: Kizuna, London on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ dj ripple is a house and techno artist, with 11 gigs on soundcheck across Leeds 
 
 PAS (UK), Rob Pearson, Donton
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djripple/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djripple/)*

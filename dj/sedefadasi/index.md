@@ -1,14 +1,13 @@
 # Sedef Adasï
 
-Sedef Adasï is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Kaiku, Helsinki on Fri, 13 Nov 2026.
+Sedef Adasï is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Karmen Camina, Strasbourg on Sat, 14 Nov 2026.
 
-Sedef Adasï is a techno and house artist based in Turkey, with 318 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 74 more. Often billed alongside BASHKKA, Gabrielle Kwarteng and Job Jobse. Next up: Kaiku, Helsinki on Fri 13 Nov.
+Sedef Adasï is a techno and house artist based in Turkey, with 318 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 74 more. Often billed alongside BASHKKA, Gabrielle Kwarteng and Job Jobse. Next up: Karmen Camina, Strasbourg on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Kaiku | Helsinki |
 | Sat, 14 Nov 2026 | Karmen Camina | Strasbourg |
 | Fri, 20 Nov 2026 | Burger Disco Club | Athens |
 | Sat, 21 Nov 2026 | FOLD | London |
@@ -21,6 +20,7 @@ Sedef Adasï is a techno and house artist based in Turkey, with 318 gigs on soun
 
 ## Recently played
 
+- Kaiku, Helsinki · Fri, 13 Nov 2026
 - UMI, Brussels · Sat, 7 Nov 2026
 - Ankali & Planeta Za, Prague · Fri, 6 Nov 2026
 - The Great Northern, San Francisco/Oakland · Fri, 30 Oct 2026
@@ -28,10 +28,9 @@ Sedef Adasï is a techno and house artist based in Turkey, with 318 gigs on soun
 - Shelter Amsterdam, Amsterdam · Sat, 24 Oct 2026
 - CLUB RAUM, Amsterdam · Fri, 23 Oct 2026
 - Bajes Amsterdam, Amsterdam · Fri, 23 Oct 2026
-- A'DAM Toren, Amsterdam · Wed, 21 Oct 2026
 
 ## Shares bills with
 
 BASHKKA, Gabrielle Kwarteng, Job Jobse
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sedefadasi/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sedefadasi/)*

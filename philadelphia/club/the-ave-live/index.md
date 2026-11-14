@@ -1,6 +1,6 @@
 # The Ave Live
 
-The Ave Live is a music venue in Philadelphia with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "DEPARTED + goodie pres. Victor Calderone at The Ave" on Sat, 19 Dec 2026.
+The Ave Live is a music venue in Philadelphia with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. The next is "DEPARTED + goodie pres. Victor Calderone at The Ave" on Sat, 19 Dec 2026.
 
 The Ave Live is a music venue in Philadelphia listed on soundcheck. 1 upcoming gig, with line-ups including Ben Arsenal, Francisco Collazo, Rob Paine and Victor Calderone. See dates, start times and who's playing. 520 N Christopher Columbus Blvd.
 
@@ -14,4 +14,4 @@ The Ave Live is a music venue in Philadelphia listed on soundcheck. 1 upcoming g
 
 520 N Christopher Columbus Blvd, Philadelphia
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/the-ave-live/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/the-ave-live/)*

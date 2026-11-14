@@ -1,6 +1,6 @@
 # Gavsborg
 
-Gavsborg is a Dub and Dancehall artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 12 Dec 2026.
+Gavsborg is a Dub and Dancehall artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 12 Dec 2026.
 
 Gavsborg is a dub and dancehall artist based in Jamaica, with 46 gigs on soundcheck across Amsterdam, Berlin, Bristol and Brussels and 11 more. Often billed alongside MBODJ, Baba Sy and Marylou. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Gavsborg is a dub and dancehall artist based in Jamaica, with 46 gigs on soundch
 
 MBODJ, Baba Sy, Marylou
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gavsborg/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gavsborg/)*

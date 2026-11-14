@@ -1,6 +1,6 @@
 # Marie Nyx
 
-Marie Nyx is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Virgil, Los Angeles on Fri, 20 Nov 2026.
+Marie Nyx is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at The Virgil, Los Angeles on Fri, 20 Nov 2026.
 
 Marie Nyx is a techno and electro artist based in United States of America, with 37 gigs on soundcheck across Los Angeles, Orange County and San Diego. Often billed alongside BB Shaine, Etari and Materielle. Next up: The Virgil, Los Angeles on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Marie Nyx is a techno and electro artist based in United States of America, with
 
 BB Shaine, Etari, Materielle
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marienyx/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marienyx/)*

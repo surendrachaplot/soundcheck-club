@@ -1,6 +1,6 @@
 # CKRN303
 
-CKRN303 is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at DeTour, Tokyo on Tue, 17 Nov 2026.
+CKRN303 is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at DeTour, Tokyo on Tue, 17 Nov 2026.
 
 CKRN303 is a techno and house artist based in Japan, with 8 gigs on soundcheck across Tokyo. Often billed alongside SIGNAL (JP), Krankent and Sofozor. Next up: DeTour, Tokyo on Tue 17 Nov.
 
@@ -24,4 +24,4 @@ CKRN303 is a techno and house artist based in Japan, with 8 gigs on soundcheck a
 
 SIGNAL (JP), Krankent, Sofozor
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ckrn303/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ckrn303/)*

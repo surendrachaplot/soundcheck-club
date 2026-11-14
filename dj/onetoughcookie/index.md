@@ -1,6 +1,6 @@
 # One Tough Cookie
 
-One Tough Cookie is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Starlane Pizza Bar, London on Sat, 14 Nov 2026.
+One Tough Cookie is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Starlane Pizza Bar, London on Sat, 14 Nov 2026.
 
 One Tough Cookie is a house and minimal artist based in France, with 37 gigs on soundcheck across Amsterdam, Barcelona, Berlin and London and 3 more. Often billed alongside Charlotte (FR), Charonne and Poggio. Next up: Starlane Pizza Bar, London on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ One Tough Cookie is a house and minimal artist based in France, with 37 gigs on 
 
 Charlotte (FR), Charonne, Poggio
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/onetoughcookie/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/onetoughcookie/)*

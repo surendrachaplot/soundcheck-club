@@ -1,18 +1,18 @@
 # Laolu
 
-Laolu is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Zelus Athens, Athens on Fri, 13 Nov 2026.
+Laolu is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Verbier, Switzerland on Fri, 20 Nov 2026.
 
-Laolu is a house and afro house artist based in Switzerland, with 107 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 30 more. Often billed alongside La Forêt, Ankhoï and AMÉMÉ. Next up: Zelus Athens, Athens on Fri 13 Nov.
+Laolu is a house and afro house artist based in Switzerland, with 107 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 30 more. Often billed alongside La Forêt, Ankhoï and AMÉMÉ. Next up: Verbier, Switzerland on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Zelus Athens | Athens |
 | Fri, 20 Nov 2026 | Verbier | Switzerland |
 
 ## Recently played
 
+- Zelus Athens, Athens · Fri, 13 Nov 2026
 - Klein Phönix, Istanbul · Fri, 30 Oct 2026
 - Audio Club, Geneva · Fri, 23 Oct 2026
 - Westerkerk, Amsterdam · Thu, 22 Oct 2026
@@ -20,10 +20,9 @@ Laolu is a house and afro house artist based in Switzerland, with 107 gigs on so
 - Floyd, Miami · Fri, 9 Oct 2026
 - fabric, London · Fri, 25 Sept 2026
 - Hï Ibiza, Ibiza · Sat, 19 Sept 2026
-- Zumana Bali, Bali · Wed, 9 Sept 2026
 
 ## Shares bills with
 
 La Forêt, Ankhoï, AMÉMÉ
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laolu/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laolu/)*

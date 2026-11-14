@@ -1,6 +1,6 @@
 # DETROIT CLUB
 
-DETROIT CLUB is a music venue in Barcelona with 7 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "CARGO & JACKY ICKX invites w Felinae, Cobb Douglas + more (FREE TILL 01:00)" on Sat, 21 Nov 2026.
+DETROIT CLUB is a music venue in Barcelona with 7 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "CARGO & JACKY ICKX invites w Felinae, Cobb Douglas + more (FREE TILL 01:00)" on Sat, 21 Nov 2026.
 
 DETROIT CLUB is a music venue in Barcelona listed on soundcheck. 7 upcoming gigs, with line-ups including CARGO (DE), Cobb Douglas, Daryl Kaplan and DiscoDaisy and 2 more. See dates, start times and who's playing. Passatge Can Polític, 13, b, 08907 Hospitalet de Llobregat, Barcelona.
 
@@ -20,4 +20,4 @@ DETROIT CLUB is a music venue in Barcelona listed on soundcheck. 7 upcoming gigs
 
 Passatge Can Polític, 13, b, 08907 Hospitalet de Llobregat, Barcelona, Barcelona
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/detroit-club/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/detroit-club/)*

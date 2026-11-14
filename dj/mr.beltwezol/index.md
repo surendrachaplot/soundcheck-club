@@ -1,6 +1,6 @@
 # Mr. Belt & Wezol
 
-Mr. Belt & Wezol is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Thuishaven, Amsterdam on Sun, 6 Dec 2026.
+Mr. Belt & Wezol is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Thuishaven, Amsterdam on Sun, 6 Dec 2026.
 
 Mr. Belt & Wezol are a house and tech house duo based in Netherlands, with 55 gigs on soundcheck across Amsterdam, Barcelona, Bucharest and Ibiza and 16 more. Often billed alongside Karim Soliman, RUZE and Ammé. Next up: Thuishaven, Amsterdam on Sun 6 Dec.
 
@@ -28,4 +28,4 @@ Mr. Belt & Wezol are a house and tech house duo based in Netherlands, with 55 gi
 
 Karim Soliman, RUZE, Ammé
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.beltwezol/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.beltwezol/)*

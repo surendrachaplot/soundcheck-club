@@ -1,6 +1,6 @@
 # Gonzalo Trejo
 
-Gonzalo Trejo is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TCQ, Buenos Aires on Sat, 21 Nov 2026.
+Gonzalo Trejo is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TCQ, Buenos Aires on Sat, 21 Nov 2026.
 
 Gonzalo Trejo is a techno and industrial artist based in Argentina, with 29 gigs on soundcheck across Buenos Aires, London and San Francisco/Oakland. Often billed alongside Ludmila Lettieri, Bruno Ledesma and Gresil. Next up: TCQ, Buenos Aires on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Gonzalo Trejo is a techno and industrial artist based in Argentina, with 29 gigs
 
 Ludmila Lettieri, Bruno Ledesma, Gresil
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gonzalotrejo/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gonzalotrejo/)*

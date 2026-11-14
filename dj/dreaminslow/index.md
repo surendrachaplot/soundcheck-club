@@ -1,6 +1,6 @@
 # DREAMINSLOW
 
-DREAMINSLOW is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at SISTEM, New York City on Sat, 14 Nov 2026.
+DREAMINSLOW is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at SISTEM, New York City on Sat, 14 Nov 2026.
 
 DREAMINSLOW is a techno and club artist based in United States of America, with 77 gigs on soundcheck across Atlanta, Berlin, Boston and London and 3 more. Often billed alongside Muerte Lenta, Friedberg and SATURNSARii. Next up: SISTEM, New York City on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ DREAMINSLOW is a techno and club artist based in United States of America, with 
 
 Muerte Lenta, Friedberg, SATURNSARii
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dreaminslow/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dreaminslow/)*

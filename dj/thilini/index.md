@@ -1,6 +1,6 @@
 # Thilini
 
-Thilini is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Hoppetosse, Berlin on Sat, 5 Dec 2026.
+Thilini is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Hoppetosse, Berlin on Sat, 5 Dec 2026.
 
 Thilini is a house and techno artist based in Australia, with 47 gigs on soundcheck across Adelaide, Barcelona, Berlin and Hanoi and 5 more. Often billed alongside Mike Shannon, Alexkid and DeWalta. Next up: Hoppetosse, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Thilini is a house and techno artist based in Australia, with 47 gigs on soundch
 
 Mike Shannon, Alexkid, DeWalta
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thilini/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thilini/)*

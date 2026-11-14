@@ -1,6 +1,6 @@
 # Stacey Pullen
 
-Stacey Pullen is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Refuge, New York City on Sat, 5 Dec 2026.
+Stacey Pullen is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Refuge, New York City on Sat, 5 Dec 2026.
 
 Stacey Pullen is a techno and house artist, with 133 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 34 more. Often billed alongside Carl Craig, Soul Clap and DJ Minx. Next up: Refuge, New York City on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Stacey Pullen is a techno and house artist, with 133 gigs on soundcheck across A
 
 Carl Craig, Soul Clap, DJ Minx
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/staceypullen/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/staceypullen/)*

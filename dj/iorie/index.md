@@ -1,6 +1,6 @@
 # Iorie
 
-Iorie is a Downtempo and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Beate Uwe, Berlin on Sun, 13 Dec 2026.
+Iorie is a Downtempo and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Beate Uwe, Berlin on Sun, 13 Dec 2026.
 
 Iorie is a downtempo and house artist based in Germany, with 38 gigs on soundcheck across Amsterdam, Berlin, Cologne and Hamburg and 10 more. Often billed alongside Noraj Cue, Pauli Pocket and Sascha Cawa. Next up: Beate Uwe, Berlin on Sun 13 Dec.
 
@@ -25,4 +25,4 @@ Iorie is a downtempo and house artist based in Germany, with 38 gigs on soundche
 
 Noraj Cue, Pauli Pocket, Sascha Cawa
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iorie/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iorie/)*

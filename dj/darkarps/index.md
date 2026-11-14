@@ -1,6 +1,6 @@
 # Dark Arps
 
-Dark Arps is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA, Vancouver on Sat, 28 Nov 2026.
+Dark Arps is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA, Vancouver on Sat, 28 Nov 2026.
 
 Dark Arps is a techno and minimal artist based in Canada, with 6 gigs on soundcheck across Vancouver. Often billed alongside Paul Franc, Lalo Campo and 70A57. Next up: TBA, Vancouver on Sat 28 Nov.
 
@@ -22,4 +22,4 @@ Dark Arps is a techno and minimal artist based in Canada, with 6 gigs on soundch
 
 Paul Franc, Lalo Campo, 70A57
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/darkarps/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/darkarps/)*

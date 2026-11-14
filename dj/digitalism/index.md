@@ -1,6 +1,6 @@
 # Digitalism
 
-Digitalism is a Electro and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Kompass Klub, Ghent on Sat, 21 Nov 2026.
+Digitalism is a Electro and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Kompass Klub, Ghent on Sat, 21 Nov 2026.
 
 Digitalism is an electro and electronica artist based in Germany, with 40 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Berlin and 20 more. Often billed alongside ISAbella, Bauernfeind and Dr. Lektroluv. Next up: Kompass Klub, Ghent on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Digitalism is an electro and electronica artist based in Germany, with 40 gigs o
 
 ISAbella, Bauernfeind, Dr. Lektroluv
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/digitalism/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/digitalism/)*

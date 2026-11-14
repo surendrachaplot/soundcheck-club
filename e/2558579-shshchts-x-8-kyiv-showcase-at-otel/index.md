@@ -1,6 +1,6 @@
 # SHSHCHTS x [8]: Kyiv Showcase at Otel'
 
-SHSHCHTS x [8]: Kyiv Showcase at Otel' on Fri 4 Dec, Kyiv. 3 artists: dij iniesta, noorj and Oleksii Podat. See the line-up on soundcheck.
+SHSHCHTS x [8]: Kyiv Showcase at Otel' on Fri 4 Dec, Kyiv. 1 artist: Oleksii Podat. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,6 @@ SHSHCHTS x [8]: Kyiv Showcase at Otel' on Fri 4 Dec, Kyiv. 3 artists: dij iniest
 
 ## Line-up
 
-- dij iniesta
-- noorj
 - Oleksii Podat
 
 *Source: [soundcheck](https://soundcheck.club/e/2558579-shshchts-x-8-kyiv-showcase-at-otel/)*

@@ -1,6 +1,6 @@
 # DWIGHT
 
-DWIGHT is a electronic artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Modeci, Seoul on Thu, 12 Nov 2026.
+DWIGHT is a electronic artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Modeci, Seoul on Thu, 12 Nov 2026.
 
 DWIGHT is an electronic artist based in South Korea, with 10 gigs on soundcheck across Seoul. Often billed alongside .2ndfloor, JAEHAN and Oldshoes. Next up: Modeci, Seoul on Thu 12 Nov.
 
@@ -26,4 +26,4 @@ DWIGHT is an electronic artist based in South Korea, with 10 gigs on soundcheck 
 
 .2ndfloor, JAEHAN (2), Oldshoes
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dwight/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dwight/)*

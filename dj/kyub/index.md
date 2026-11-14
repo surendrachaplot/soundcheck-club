@@ -1,6 +1,6 @@
 # KYUB
 
-KYUB is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Holy Poly, Lower-saxony on Fri, 20 Nov 2026.
+KYUB is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Holy Poly, Lower-saxony on Fri, 20 Nov 2026.
 
 KYUB is a techno and trance artist based in Germany, with 6 gigs on soundcheck across Berlin, Lower Saxony and Münster. Often billed alongside DJ Dios, FRÆNCIS and JENKA. Next up: Holy Poly, Lower Saxony on Fri 20 Nov.
 
@@ -22,4 +22,4 @@ KYUB is a techno and trance artist based in Germany, with 6 gigs on soundcheck a
 
 DJ Dios, FRÆNCIS, JENKA
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kyub/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kyub/)*

@@ -1,8 +1,8 @@
 # Ohishi
 
-Ohishi is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at DJ Bar Bridge, Tokyo on Mon, 16 Nov 2026.
+Ohishi is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at DJ Bar Bridge, Tokyo on Mon, 16 Nov 2026.
 
-Ohishi is a house and techno artist based in Japan, with 79 gigs on soundcheck across Seoul and Tokyo. Often billed alongside DJ Nori, JOKI and TAT2K. Next up: DJ Bar Bridge, Tokyo on Mon 16 Nov.
+Ohishi is a house and techno artist based in Japan, with 80 gigs on soundcheck across Seoul and Tokyo. Often billed alongside DJ Nori, JOKI and TAT2K. Next up: DJ Bar Bridge, Tokyo on Mon 16 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ohishi is a house and techno artist based in Japan, with 79 gigs on soundcheck a
 | --- | --- | --- |
 | Mon, 16 Nov 2026 | DJ Bar Bridge | Tokyo |
 | Mon, 21 Dec 2026 | DJ Bar Bridge | Tokyo |
+| Mon, 18 Jan 2027 | DJ Bar Bridge | Tokyo |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Ohishi is a house and techno artist based in Japan, with 79 gigs on soundcheck a
 
 DJ Nori, JOKI, TAT2K
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ohishi/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ohishi/)*

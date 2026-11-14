@@ -1,6 +1,6 @@
 # DJ RIGHTEOUS
 
-DJ RIGHTEOUS is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Music Hall, Detroit on Fri, 27 Nov 2026.
+DJ RIGHTEOUS is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at The Music Hall, Detroit on Fri, 27 Nov 2026.
 
 DJ RIGHTEOUS is a house and deep house artist based in United States of America, with 39 gigs on soundcheck across Chicago, Detroit, Miami and New York City. Often billed alongside Bruce Bailey, DJ Cent and ERNO (US). Next up: The Music Hall, Detroit on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ DJ RIGHTEOUS is a house and deep house artist based in United States of America,
 
 Bruce Bailey, DJ Cent, ERNO (US)
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djrighteous/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djrighteous/)*

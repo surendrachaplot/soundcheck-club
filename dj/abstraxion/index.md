@@ -1,6 +1,6 @@
 # Abstraxion
 
-Abstraxion is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Reimersholme Hotel, Stockholm on Fri, 27 Nov 2026.
+Abstraxion is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Reimersholme Hotel, Stockholm on Fri, 27 Nov 2026.
 
 Abstraxion is a techno and house artist based in France, with 32 gigs on soundcheck across Berlin, Copenhagen, Malmo and Marseille and 3 more. Often billed alongside Sean Fender, Vio PRG and Delavas. Next up: Reimersholme Hotel, Stockholm on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Abstraxion is a techno and house artist based in France, with 32 gigs on soundch
 
 Sean Fender, Vio PRG, Delavas
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/abstraxion/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/abstraxion/)*

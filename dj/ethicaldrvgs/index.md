@@ -1,6 +1,6 @@
 # EthicalDrvgs
 
-EthicalDrvgs is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - DTLA, California on Sat, 5 Dec 2026.
+EthicalDrvgs is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - DTLA, California on Sat, 5 Dec 2026.
 
 EthicalDrvgs is a techno and house artist based in United States of America, with 24 gigs on soundcheck across Bangkok, California, Ho Chi Minh City and Los Angeles and 1 more. Often billed alongside Jasmine Infiniti, Kingdom and Azure. Next up: TBA - DTLA, California on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ EthicalDrvgs is a techno and house artist based in United States of America, wit
 
 Jasmine Infiniti, Kingdom, Azure
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ethicaldrvgs/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ethicaldrvgs/)*

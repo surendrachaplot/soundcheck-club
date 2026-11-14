@@ -1,6 +1,6 @@
 # Lynta
 
-Lynta is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at VENT, Tokyo on Fri, 25 Dec 2026.
+Lynta is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at VENT, Tokyo on Fri, 25 Dec 2026.
 
 Lynta is a techno and house artist based in Japan, with 46 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside Yui (JP), tnseei and Kurea. Next up: VENT, Tokyo on Fri 25 Dec.
 
@@ -25,4 +25,4 @@ Lynta is a techno and house artist based in Japan, with 46 gigs on soundcheck ac
 
 Yui (JP), tnseei, Kurea
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lynta/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lynta/)*

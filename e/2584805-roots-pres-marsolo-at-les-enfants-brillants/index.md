@@ -1,6 +1,6 @@
 # Roots pres. Marsolo at Les Enfants Brillants
 
-Roots pres. Marsolo at Les Enfants Brillants on Fri 15 Jan, Barcelona. 2 artists: INDRA TRAFERRI and Marsolo. House and Tech House. See the line-up on soundcheck.
+Roots pres. Marsolo at Les Enfants Brillants on Fri 15 Jan, Barcelona. 2 artists: Marsolo and MostWanted. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ Roots pres. Marsolo at Les Enfants Brillants on Fri 15 Jan, Barcelona. 2 artists
 
 ## Line-up
 
-- INDRA TRAFERRI
 - Marsolo
+- MostWanted
 
 *Source: [soundcheck](https://soundcheck.club/e/2584805-roots-pres-marsolo-at-les-enfants-brillants/)*

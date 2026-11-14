@@ -1,6 +1,6 @@
 # sbk (1)
 
-sbk (1) is a Grime and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Heavy Sick Zero, Tokyo on Sat, 12 Dec 2026.
+sbk (1) is a Grime and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Heavy Sick Zero, Tokyo on Sat, 12 Dec 2026.
 
 sbk is a grime and jungle artist, with 11 gigs on soundcheck across Bogotá, Bristol, Ho Chi Minh City and London and 3 more. Often billed alongside MileZ, No Faking DJs and Betsy Mae. Next up: Heavy Sick Zero, Tokyo on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ sbk is a grime and jungle artist, with 11 gigs on soundcheck across Bogotá, Bri
 
 MileZ, No Faking DJs, Betsy Mae
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sbk-1/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sbk-1/)*

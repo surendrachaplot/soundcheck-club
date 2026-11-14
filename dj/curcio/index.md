@@ -1,6 +1,6 @@
 # Curcio
 
-Curcio is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Lento Hi Fi Bar, Naples on Fri, 20 Nov 2026.
+Curcio is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Lento Hi Fi Bar, Naples on Fri, 20 Nov 2026.
 
 Curcio is a disco and funk / soul artist, with 33 gigs on soundcheck across London and Naples. Often billed alongside ThanksMate, Giuseppe Fava and KARLOVE. Next up: Lento Hi Fi Bar, Naples on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Curcio is a disco and funk / soul artist, with 33 gigs on soundcheck across Lond
 
 ThanksMate, Giuseppe Fava, KARLOVE
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/curcio/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/curcio/)*

@@ -1,6 +1,6 @@
 # La Cité Fertile
 
-La Cité Fertile is a music venue in Paris with 6 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "SUBSILENCE: warehouse with Daniel Meister,Lukea,Mateba,Trofin" on Sat, 28 Nov 2026.
+La Cité Fertile is a music venue in Paris with 6 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "SUBSILENCE: warehouse with Daniel Meister,Lukea,Mateba,Trofin" on Sat, 28 Nov 2026.
 
 La Cité Fertile is a music venue in Paris listed on soundcheck. 6 upcoming gigs, with line-ups including Daniel Meister, EMIRA, Equus Belli and Forest and 2 more. See dates, start times and who's playing. 14 avenue Edouard Vaillant, 93500 Pantin.
 
@@ -19,4 +19,4 @@ La Cité Fertile is a music venue in Paris listed on soundcheck. 6 upcoming gigs
 
 14 avenue Edouard Vaillant, 93500 Pantin, Paris
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-cit-fertile/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-cit-fertile/)*

@@ -1,6 +1,6 @@
 # Tehran
 
-Tehran is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Silent Green, Berlin on Fri, 13 Nov 2026.
+Tehran is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Silent Green, Berlin on Fri, 13 Nov 2026.
 
 Tehran is a techno and experimental artist based in Denmark, with 9 gigs on soundcheck across Berlin and Copenhagen. Often billed alongside DJ Cunt, Francesca Burattelli and Rune Kielsgaard. Next up: Silent Green, Berlin on Fri 13 Nov.
 
@@ -12,6 +12,7 @@ Tehran is a techno and experimental artist based in Denmark, with 9 gigs on soun
 
 ## Recently played
 
+- Silent Green, Berlin · Fri, 13 Nov 2026
 - Forbrændingen, Copenhagen · Sat, 19 Sept 2026
 - Odds and Ends, Copenhagen · Sat, 27 Jun 2026
 - Christianshavns Beboerhus, Copenhagen · Fri, 10 Apr 2026
@@ -19,10 +20,9 @@ Tehran is a techno and experimental artist based in Denmark, with 9 gigs on soun
 - Hangaren, Copenhagen · Wed, 3 Sept 2025
 - TBA -  Oddenvej 243, Yderby, Sjællands Odde, 4583, Copenhagen · Fri, 8 Aug 2025
 - Den Grå Hal, Copenhagen · Sat, 15 Mar 2025
-- Basement Vesterbro, Copenhagen · Sat, 30 Nov 2024
 
 ## Shares bills with
 
 DJ Cunt, Francesca Burattelli, Rune Kielsgaard
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tehran/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tehran/)*

@@ -1,8 +1,8 @@
 # Map.ache
 
-Map.ache is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Club Space Miami, Miami on Sun, 22 Nov 2026.
+Map.ache is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Club Space Miami, Miami on Sun, 22 Nov 2026.
 
-Map.ache is a house and techno artist based in Germany, with 104 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 26 more. Often billed alongside Konstantin, Leafar Legov and Edward. Next up: Club Space Miami, Miami on Sun 22 Nov.
+Map.ache is a house and techno artist based in Germany, with 105 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 27 more. Often billed alongside Konstantin, Leafar Legov and Edward. Next up: Club Space Miami, Miami on Sun 22 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Map.ache is a house and techno artist based in Germany, with 104 gigs on soundch
 | --- | --- | --- |
 | Sun, 22 Nov 2026 | Club Space Miami | Miami |
 | Thu, 21 Jan 2027 | Soundscapes Zanzi | Tanzania |
+| Fri, 22 Jan 2027 | TBA | Cape Town |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Map.ache is a house and techno artist based in Germany, with 104 gigs on soundch
 
 Konstantin, Leafar Legov, Edward
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/map.ache/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/map.ache/)*

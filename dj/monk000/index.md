@@ -1,6 +1,6 @@
 # Monk000
 
-Monk000 is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at WWW, Tokyo on Fri, 11 Dec 2026.
+Monk000 is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at WWW, Tokyo on Fri, 11 Dec 2026.
 
 Monk000 is a techno and industrial artist, with 40 gigs on soundcheck across Osaka, Sydney, Tokyo and Warsaw. Often billed alongside YOXIKI, EVE and CHIKA. Next up: WWW, Tokyo on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Monk000 is a techno and industrial artist, with 40 gigs on soundcheck across Osa
 
 YOXIKI, EVE (1), CHIKA
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/monk000/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/monk000/)*

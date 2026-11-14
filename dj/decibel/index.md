@@ -1,6 +1,6 @@
 # Decibel
 
-Decibel is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Midway, San Francisco/Oakland on Sat, 12 Dec 2026.
+Decibel is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at The Midway, San Francisco/Oakland on Sat, 12 Dec 2026.
 
 Decibel is a house and techno artist based in United States of America, with 25 gigs on soundcheck across Berlin, Detroit, Los Angeles and New York City and 1 more. Often billed alongside Chrissy Please, Decibel Flekx and Destro187. Next up: The Midway, San Francisco/Oakland on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Decibel is a house and techno artist based in United States of America, with 25 
 
 Chrissy Please, Decibel Flekx, Destro187
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/decibel/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/decibel/)*

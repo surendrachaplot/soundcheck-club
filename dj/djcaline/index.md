@@ -1,6 +1,6 @@
 # DJ Caline
 
-DJ Caline is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Pavilhão Carlos Lopes, Lisbon on Sat, 21 Nov 2026.
+DJ Caline is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Pavilhão Carlos Lopes, Lisbon on Sat, 21 Nov 2026.
 
 DJ Caline is a trance and techno artist based in France, with 43 gigs on soundcheck across Berlin, Bordeaux, Brussels and Geneva and 8 more. Often billed alongside Die Klar, Dj Schnake and DJ Football. Next up: Pavilhão Carlos Lopes, Lisbon on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ DJ Caline is a trance and techno artist based in France, with 43 gigs on soundch
 
 Die Klar, Dj Schnake, DJ Football
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djcaline/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djcaline/)*

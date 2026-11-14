@@ -1,6 +1,6 @@
 # Moodymann in Tokyo at MIDNIGHT EAST
 
-Moodymann in Tokyo at MIDNIGHT EAST on Sat 12 Dec, Tokyo. 1 artist: Moodymann. House. See the line-up on soundcheck.
+Moodymann in Tokyo at MIDNIGHT EAST on Sat 12 Dec, Tokyo. 4 artists: CMYK, DJ Kensei, FU (JP) and Moodymann. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,9 @@ Moodymann in Tokyo at MIDNIGHT EAST on Sat 12 Dec, Tokyo. 1 artist: Moodymann. H
 
 ## Line-up
 
+- CMYK
+- DJ Kensei
+- FU (JP)
 - Moodymann
 
 *Source: [soundcheck](https://soundcheck.club/e/2555408-moodymann-in-tokyo-at-midnight-east/)*

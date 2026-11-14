@@ -1,6 +1,6 @@
 # Audioteca
 
-Audioteca is a music venue in Naples with 12 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Audioteca • Aldo Rosati" on Sat, 14 Nov 2026.
+Audioteca is a music venue in Naples with 12 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Audioteca • Aldo Rosati" on Sat, 14 Nov 2026.
 
 Audioteca is a music venue in Naples listed on soundcheck. 12 upcoming gigs, with line-ups including 128GDM, Aldo Rosati, Angelo Perna and Ylenia Del Giudice. See dates, start times and who's playing. Via P. Togliatti 70c - S. Giorgio a Cremano, Napoli.
 
@@ -23,4 +23,4 @@ Audioteca is a music venue in Naples listed on soundcheck. 12 upcoming gigs, wit
 
 Via P. Togliatti 70c - S. Giorgio a Cremano, Napoli, Naples
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/naples/club/audioteca/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/naples/club/audioteca/)*

@@ -1,6 +1,6 @@
 # Dj Laxxiste A.
 
-Dj Laxxiste A. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Sodas 2123, Vilnius on Fri, 27 Nov 2026.
+Dj Laxxiste A. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Sodas 2123, Vilnius on Fri, 27 Nov 2026.
 
 Dj Laxxiste A. is a techno and house artist based in Switzerland, with 31 gigs on soundcheck across Bordeaux, Geneva, Lausanne and Lyon and 4 more. Often billed alongside Braises de Velours, Maï-Linh and Reda Saiarh. Next up: Sodas 2123, Vilnius on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Dj Laxxiste A. is a techno and house artist based in Switzerland, with 31 gigs o
 
 Braises de Velours, Maï-Linh, Reda Saiarh
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djlaxxistea/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djlaxxistea/)*

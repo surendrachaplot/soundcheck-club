@@ -1,6 +1,6 @@
 # Charles Webster
 
-Charles Webster is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Wood Street Bear, London on Sun, 29 Nov 2026.
+Charles Webster is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Wood Street Bear, London on Sun, 29 Nov 2026.
 
 Charles Webster is a house and deep house artist based in United Kingdom, with 25 gigs on soundcheck across Alicante, Athens, Cape Town and Cork and 11 more. Often billed alongside Kyle Russouw, Paul Nickerson and Alex Dallas. Next up: Wood Street Bear, London on Sun 29 Nov.
 
@@ -27,4 +27,4 @@ Charles Webster is a house and deep house artist based in United Kingdom, with 2
 
 Kyle Russouw, Paul Nickerson, Alex Dallas
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cwebster/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cwebster/)*

@@ -1,6 +1,6 @@
 # FD
 
-FD is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Phonox, London on Sat, 23 Jan 2027.
+FD is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Phonox, London on Sat, 23 Jan 2027.
 
 FD is a drum & bass and jungle artist based in United Kingdom, with 40 gigs on soundcheck across Amsterdam, Auckland, Basel and Christchurch and 7 more. Often billed alongside MC Fox, Lenzman and Satl. Next up: Phonox, London on Sat 23 Jan.
 
@@ -25,4 +25,4 @@ FD is a drum & bass and jungle artist based in United Kingdom, with 40 gigs on s
 
 MC Fox, Lenzman, Satl
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fd/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fd/)*

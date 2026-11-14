@@ -1,6 +1,6 @@
 # Muscle Memory
 
-Muscle Memory is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Jupiter Disco, New York City on Fri, 20 Nov 2026.
+Muscle Memory is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Jupiter Disco, New York City on Fri, 20 Nov 2026.
 
 Muscle Memory is a house and disco artist based in United States of America, with 19 gigs on soundcheck across Los Angeles, New York City, Philadelphia and San Francisco/Oakland. Often billed alongside Timo Lee, Amelia Holt and Justin Strauss. Next up: Jupiter Disco, New York City on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Muscle Memory is a house and disco artist based in United States of America, wit
 
 Timo Lee, Amelia Holt, Justin Strauss
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/musclememory/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/musclememory/)*

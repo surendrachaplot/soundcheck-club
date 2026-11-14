@@ -1,6 +1,6 @@
 # DJ Klapsalon
 
-DJ Klapsalon is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Time is the new space, Rotterdam on Sat, 14 Nov 2026.
+DJ Klapsalon is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Time is the new space, Rotterdam on Sat, 14 Nov 2026.
 
 DJ Klapsalon is a house and electronica artist based in United States of America, with 16 gigs on soundcheck across Amsterdam, Brussels, Paris and Rotterdam. Often billed alongside Hassan Raphael, doo-bop and AYEDA. Next up: Time is the new space, Rotterdam on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ DJ Klapsalon is a house and electronica artist based in United States of America
 
 Hassan Raphael, doo-bop, AYEDA
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djklapsalon-nl/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djklapsalon-nl/)*

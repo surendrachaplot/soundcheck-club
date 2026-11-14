@@ -1,8 +1,8 @@
 # Daura
 
-Daura is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Signal, New York City on Fri, 20 Nov 2026.
+Daura is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Signal, New York City on Fri, 20 Nov 2026.
 
-Daura is a techno and house artist based in Canada, with 68 gigs on soundcheck across Amsterdam, Berlin, Brussels and Düsseldorf and 26 more. Often billed alongside Moaad BKR, Mr. Murray and ATEQ. Next up: Signal, New York City on Fri 20 Nov.
+Daura is a techno and house artist based in Canada, with 69 gigs on soundcheck across Amsterdam, Berlin, Brussels and Düsseldorf and 26 more. Often billed alongside Moaad BKR, Mr. Murray and ATEQ. Next up: Signal, New York City on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Daura is a techno and house artist based in Canada, with 68 gigs on soundcheck a
 | Fri, 20 Nov 2026 | Signal | New York City |
 | Sat, 28 Nov 2026 | feedbk | New-york-city |
 | Fri, 4 Dec 2026 | TBA - Secret Location DTLA  | Los Angeles |
+| Fri, 11 Dec 2026 | Système | Montreal |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Daura is a techno and house artist based in Canada, with 68 gigs on soundcheck a
 
 Moaad BKR, Mr. Murray, ATEQ
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daura/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daura/)*

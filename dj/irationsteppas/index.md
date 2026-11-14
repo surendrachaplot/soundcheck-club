@@ -1,8 +1,8 @@
 # Iration Steppas
 
-Iration Steppas is a Dub and Drum & Bass artist with 6 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Sugar Hill Disco, New York City on Fri, 20 Nov 2026.
+Iration Steppas is a Dub and Drum & Bass artist with 7 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Sugar Hill Disco, New York City on Fri, 20 Nov 2026.
 
-Iration Steppas is a dub and drum & bass artist based in United Kingdom, with 91 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 24 more. Often billed alongside O.B.F, Simon Scott and Breakfake. Next up: Sugar Hill Disco, New York City on Fri 20 Nov.
+Iration Steppas is a dub and drum & bass artist based in United Kingdom, with 92 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 24 more. Often billed alongside O.B.F, Simon Scott and Breakfake. Next up: Sugar Hill Disco, New York City on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Iration Steppas is a dub and drum & bass artist based in United Kingdom, with 91
 | Fri, 27 Nov 2026 | Motorista Studio | Toronto |
 | Sat, 28 Nov 2026 | TBA - Montreal | Montreal |
 | Sat, 12 Dec 2026 | The Dominion Centre | London |
+| Sat, 9 Jan 2027 | The Fox and Firkin | London |
 | Sat, 6 Feb 2027 | Beaver Works | Leeds |
 | Thu, 22 Jul 2027 | The Garden Tisno | London |
 
@@ -30,4 +31,4 @@ Iration Steppas is a dub and drum & bass artist based in United Kingdom, with 91
 
 O.B.F, Simon Scott, Breakfake
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/irationsteppas/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/irationsteppas/)*

@@ -1,6 +1,6 @@
 # Jerry M
 
-Jerry M is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at REDDO Warsaw, Warsaw on Sat, 21 Nov 2026.
+Jerry M is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at REDDO Warsaw, Warsaw on Sat, 21 Nov 2026.
 
 Jerry M is a techno and house artist based in Poland, with 60 gigs on soundcheck across Amsterdam, Poznan and Warsaw. Often billed alongside WEIKUM, Meskalino and Koryt. Next up: REDDO Warsaw, Warsaw on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Jerry M is a techno and house artist based in Poland, with 60 gigs on soundcheck
 
 WEIKUM, Meskalino, Koryt
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jerrym/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jerrym/)*

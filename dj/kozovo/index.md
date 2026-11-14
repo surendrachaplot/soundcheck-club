@@ -1,6 +1,6 @@
 # Kozovo
 
-Kozovo is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA, Guadalajara on Sat, 14 Nov 2026.
+Kozovo is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA, Guadalajara on Sat, 14 Nov 2026.
 
 Kozovo is an experimental and ambient artist based in Mexico, with 22 gigs on soundcheck across Guadalajara and Mexico City. Often billed alongside Buena Tarde, Delise and murales. Next up: TBA, Guadalajara on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Kozovo is an experimental and ambient artist based in Mexico, with 22 gigs on so
 
 Buena Tarde, Delise, murales
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kozovo/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kozovo/)*

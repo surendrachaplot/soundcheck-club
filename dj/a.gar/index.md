@@ -1,6 +1,6 @@
 # a.gar
 
-a.gar is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Deep End, New York City on Fri, 27 Nov 2026.
+a.gar is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at The Deep End, New York City on Fri, 27 Nov 2026.
 
 a.gar is a techno and minimal techno artist based in United States of America, with 10 gigs on soundcheck across New York City. Often billed alongside Pablo Vitale, AJACENT and ELIVVATE. Next up: The Deep End, New York City on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ a.gar is a techno and minimal techno artist based in United States of America, w
 
 Pablo Vitale, AJACENT, ELIVVATE
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/a.gar/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/a.gar/)*

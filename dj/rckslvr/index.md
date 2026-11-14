@@ -1,6 +1,6 @@
 # RCKSLVR
 
-RCKSLVR is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Cielo Farms Malibu, Los Angeles on Sat, 14 Nov 2026.
+RCKSLVR is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Cielo Farms Malibu, Los Angeles on Sat, 14 Nov 2026.
 
 RCKSLVR is a tech house and house artist based in United States of America, with 58 gigs on soundcheck across Leipzig and Los Angeles. Often billed alongside Tempo, GRLFRND and DENYC. Next up: Cielo Farms Malibu, Los Angeles on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ RCKSLVR is a tech house and house artist based in United States of America, with
 
 Tempo, GRLFRND, DENYC
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rckslvr/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rckslvr/)*

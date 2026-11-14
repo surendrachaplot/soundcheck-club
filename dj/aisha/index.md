@@ -1,6 +1,6 @@
 # AISHA
 
-AISHA is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at ROSA, Berlin on Sat, 14 Nov 2026.
+AISHA is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at ROSA, Berlin on Sat, 14 Nov 2026.
 
 AISHA is a techno and trance artist based in United Kingdom, with 174 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Athens and 52 more. Often billed alongside Azyr, franck and Faster Horses. Next up: ROSA, Berlin on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ AISHA is a techno and trance artist based in United Kingdom, with 174 gigs on so
 
 Azyr, franck, Faster Horses
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aisha/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aisha/)*

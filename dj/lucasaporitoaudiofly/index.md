@@ -1,18 +1,18 @@
 # Luca Saporito (Audiofly)
 
-Luca Saporito (Audiofly) is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Hive Club, Zurich on Fri, 13 Nov 2026.
+Luca Saporito (Audiofly) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 21 Nov 2026.
 
-Luca Saporito (Audiofly) is a house and deep house artist based in Spain, with 58 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 21 more. Often billed alongside Andhim, Landikhan and Jamie Jones. Next up: Hive Club, Zurich on Fri 13 Nov.
+Luca Saporito (Audiofly) is a house and deep house artist based in Spain, with 58 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 21 more. Often billed alongside Andhim, Landikhan and Jamie Jones. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Hive Club | Zurich |
 | Sat, 21 Nov 2026 | Akasha Las Dalias Club - Ibiza | Ibiza |
 
 ## Recently played
 
+- Hive Club, Zurich · Fri, 13 Nov 2026
 - Smokey Club, Amsterdam · Thu, 22 Oct 2026
 - Kater, Berlin · Fri, 9 Oct 2026
 - [UNVRS], Ibiza · Wed, 16 Sept 2026
@@ -20,10 +20,9 @@ Luca Saporito (Audiofly) is a house and deep house artist based in Spain, with 5
 - Cova Santa, Ibiza · Fri, 19 Jun 2026
 - Hive Club, Zurich · Sat, 25 Apr 2026
 - Coco Boule, Berlin · Thu, 26 Feb 2026
-- Do Not Sit On The Furniture, Miami · Sat, 27 Dec 2025
 
 ## Shares bills with
 
 Andhim, Landikhan, Jamie Jones
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucasaporitoaudiofly/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucasaporitoaudiofly/)*

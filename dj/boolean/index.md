@@ -1,6 +1,6 @@
 # Boo Lean
 
-Boo Lean is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA, Los Angeles on Wed, 25 Nov 2026.
+Boo Lean is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA, Los Angeles on Wed, 25 Nov 2026.
 
 Boo Lean is a bass and house artist based in United States of America, with 35 gigs on soundcheck across Austin, Cleveland, Los Angeles and New York City and 1 more. Often billed alongside HONEY B, Viiaan and Christian Tokyo. Next up: TBA, Los Angeles on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ Boo Lean is a bass and house artist based in United States of America, with 35 g
 
 HONEY B, Viiaan, Christian Tokyo
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boolean/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boolean/)*

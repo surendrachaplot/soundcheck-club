@@ -1,6 +1,6 @@
 # T.NO
 
-T.NO is a Bass and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Club Cheek, London on Fri, 27 Nov 2026.
+T.NO is a Bass and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Club Cheek, London on Fri, 27 Nov 2026.
 
 T.NO is a bass and techno artist based in Netherlands, with 67 gigs on soundcheck across Amsterdam, Berlin, Bratislava and Bristol and 18 more. Often billed alongside Styn, Christian AB and Rozaly. Next up: Club Cheek, London on Fri 27 Nov.
 
@@ -30,4 +30,4 @@ T.NO is a bass and techno artist based in Netherlands, with 67 gigs on soundchec
 
 Styn, Christian AB, Rozaly
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/t.no-ne/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/t.no-ne/)*

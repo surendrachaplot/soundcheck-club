@@ -1,6 +1,6 @@
 # rouvie
 
-rouvie is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Frappant, Hamburg on Sat, 21 Nov 2026.
+rouvie is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Frappant, Hamburg on Sat, 21 Nov 2026.
 
 rouvie is a house and club artist based in Germany, with 21 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Jella, Atréju Mensah and Dave Embrace. Next up: Frappant, Hamburg on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ rouvie is a house and club artist based in Germany, with 21 gigs on soundcheck a
 
 Jella, Atréju Mensah, Dave Embrace
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rouvie/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rouvie/)*

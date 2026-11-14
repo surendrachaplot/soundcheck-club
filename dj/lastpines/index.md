@@ -1,6 +1,6 @@
 # Last Pines
 
-Last Pines is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at fabric, London on Sun, 20 Dec 2026.
+Last Pines is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at fabric, London on Sun, 20 Dec 2026.
 
 Last Pines is a minimal and house artist, with 27 gigs on soundcheck across Barcelona, Berlin, Bristol and Budapest and 4 more. Often billed alongside Antja, A.B.U. and Josh Smith. Next up: fabric, London on Sun 20 Dec.
 
@@ -26,4 +26,4 @@ Last Pines is a minimal and house artist, with 27 gigs on soundcheck across Barc
 
 Antja, A.B.U., Josh Smith
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lastpines/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lastpines/)*

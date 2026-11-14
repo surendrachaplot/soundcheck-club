@@ -1,14 +1,13 @@
 # livwutang
 
-livwutang is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Tokonoma Club, Frankfurt on Fri, 13 Nov 2026.
+livwutang is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA, Paris on Sat, 14 Nov 2026.
 
-livwutang is a techno and house artist based in United States of America, with 223 gigs on soundcheck across Amsterdam, Baltimore, Barcelona and Beijing and 56 more. Often billed alongside Kia (AU), CCL and Richard Akingbehin. Next up: Tokonoma Club, Frankfurt on Fri 13 Nov.
+livwutang is a techno and house artist based in United States of America, with 223 gigs on soundcheck across Amsterdam, Baltimore, Barcelona and Beijing and 56 more. Often billed alongside Kia (AU), CCL and Richard Akingbehin. Next up: TBA, Paris on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Tokonoma Club | Frankfurt |
 | Sat, 14 Nov 2026 | TBA | Paris |
 | Sat, 21 Nov 2026 | Open Ground | Wuppertal |
 | Sat, 28 Nov 2026 | Nowadays | New York City |
@@ -23,6 +22,7 @@ livwutang is a techno and house artist based in United States of America, with 2
 
 ## Recently played
 
+- Tokonoma Club, Frankfurt · Fri, 13 Nov 2026
 - Yamamori Tengu, Dublin · Sat, 7 Nov 2026
 - M.O.T, London · Fri, 6 Nov 2026
 - Garage Noord, Amsterdam · Sun, 25 Oct 2026
@@ -30,10 +30,9 @@ livwutang is a techno and house artist based in United States of America, with 2
 - CLUB RAUM, Amsterdam · Fri, 23 Oct 2026
 - FOLD, London · Fri, 23 Oct 2026
 - Backsteinboot, Berlin · Sat, 10 Oct 2026
-- Subspace, Denver · Fri, 2 Oct 2026
 
 ## Shares bills with
 
 Kia (AU), CCL, Richard Akingbehin
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/livwutang/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/livwutang/)*

@@ -1,6 +1,6 @@
 # AIIA
 
-AIIA is a Techno and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Hive Club, Zurich on Sat, 14 Nov 2026.
+AIIA is a Techno and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Hive Club, Zurich on Sat, 14 Nov 2026.
 
 AIIA is a techno and deep house artist based in Switzerland, with 2 gigs on soundcheck across Zurich. Often billed alongside DJ SET (Uk), Jpattersson and Manuel Moreno. Next up: Hive Club, Zurich on Sat 14 Nov.
 
@@ -15,4 +15,4 @@ AIIA is a techno and deep house artist based in Switzerland, with 2 gigs on soun
 
 DJ SET (Uk), Jpattersson, Manuel Moreno
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aiia/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aiia/)*

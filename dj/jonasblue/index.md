@@ -1,6 +1,6 @@
 # Jonas Blue
 
-Jonas Blue is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Club Hípico de Santiago, Santiago on Sat, 14 Nov 2026.
+Jonas Blue is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Club Hípico de Santiago, Santiago on Sat, 14 Nov 2026.
 
 Jonas Blue is a house and techno artist based in United Kingdom, with 48 gigs on soundcheck across Bali, Barcelona, Boston and Chicago and 16 more. Often billed alongside James Hype (UK), Meduza and Paisley Jensen. Next up: Club Hípico de Santiago, Santiago on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Jonas Blue is a house and techno artist based in United Kingdom, with 48 gigs on
 
 James Hype (UK), Meduza, Paisley Jensen
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jonasblue/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jonasblue/)*

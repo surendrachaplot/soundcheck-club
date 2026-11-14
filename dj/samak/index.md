@@ -1,6 +1,6 @@
 # Sam AK
 
-Sam AK is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - VANCOUVER, Vancouver on Sat, 21 Nov 2026.
+Sam AK is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - VANCOUVER, Vancouver on Sat, 21 Nov 2026.
 
 Sam AK is a techno and hardcore artist based in Canada, with 8 gigs on soundcheck across Vancouver. Often billed alongside NIMAHA, Wonderboi and Bÿständer. Next up: TBA - VANCOUVER, Vancouver on Sat 21 Nov.
 
@@ -24,4 +24,4 @@ Sam AK is a techno and hardcore artist based in Canada, with 8 gigs on soundchec
 
 NIMAHA, Wonderboi, Bÿständer
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samak/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samak/)*

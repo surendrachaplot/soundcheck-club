@@ -1,6 +1,6 @@
 # Jumbi
 
-Jumbi is a music venue in London with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Jumbi Friday Dance: FLOORJAM" on Fri, 20 Nov 2026.
+Jumbi is a music venue in London with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Jumbi Friday Dance: FLOORJAM" on Fri, 20 Nov 2026.
 
 Jumbi is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including Adiba, blissy e, dOnüt and Heléna Star and 2 more. See dates, start times and who's playing. Unit 4.1, Copeland Park, 133 Copeland Rd, London SE15 3SN.
 
@@ -17,4 +17,4 @@ Jumbi is a music venue in London listed on soundcheck. 4 upcoming gigs, with lin
 
 Unit 4.1, Copeland Park, 133 Copeland Rd, London SE15 3SN, London
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/jumbi/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/jumbi/)*

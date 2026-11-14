@@ -1,6 +1,6 @@
 # Das Ohr zum Sonntag: DOZSFEST (1/2) at Golden Pudel Club
 
-Das Ohr zum Sonntag: DOZSFEST (1/2) at Golden Pudel Club on Sun 29 Nov, Hamburg. 3 artists: DJ Sprinter, Sarah Q and Soraya. See the line-up on soundcheck.
+Das Ohr zum Sonntag: DOZSFEST (1/2) at Golden Pudel Club on Sun 29 Nov, Hamburg. 2 artists: DJ Sprinter and Sarah Q. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,5 @@ Das Ohr zum Sonntag: DOZSFEST (1/2) at Golden Pudel Club on Sun 29 Nov, Hamburg.
 
 - DJ Sprinter
 - Sarah Q
-- Soraya
 
 *Source: [soundcheck](https://soundcheck.club/e/2582609-das-ohr-zum-sonntag-dozsfest-1-2-at-golden-pudel-club/)*

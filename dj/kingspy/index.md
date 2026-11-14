@@ -1,6 +1,6 @@
 # KINGSPY
 
-KINGSPY is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Bastet, Philadelphia on Sat, 28 Nov 2026.
+KINGSPY is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Bastet, Philadelphia on Sat, 28 Nov 2026.
 
 KINGSPY is a house and techno artist based in United States of America, with 7 gigs on soundcheck across Philadelphia. Often billed alongside DJ Dommis, Foxy Nora and Ohlei. Next up: Bastet, Philadelphia on Sat 28 Nov.
 
@@ -23,4 +23,4 @@ KINGSPY is a house and techno artist based in United States of America, with 7 g
 
 DJ Dommis, Foxy Nora, Ohlei
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kingspy/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kingspy/)*

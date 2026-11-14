@@ -1,0 +1,28 @@
+# Atsou
+
+Atsou is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Mott 32, Hong Kong on Sat, 14 Nov 2026.
+
+Atsou is a deep house and house artist based in Greece, with 31 gigs on soundcheck across Amsterdam, Athens, Hong Kong and Istanbul and 4 more. Often billed alongside Kayf, KORRILA and Avangart Tabldot. Next up: Mott 32, Hong Kong on Sat 14 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 14 Nov 2026 | Mott 32 | Hong Kong |
+
+## Recently played
+
+- The Cross, London · Fri, 30 Oct 2026
+- Gallery, London · Fri, 10 Apr 2026
+- Klein Phönix, Istanbul · Fri, 3 Apr 2026
+- Arch Club Live Stage, Athens · Fri, 12 Dec 2025
+- Westerkerk, Amsterdam · Wed, 22 Oct 2025
+- Moxy Athens City, Athens · Sun, 5 Oct 2025
+- Moxy Athens City, Athens · Sun, 14 Sept 2025
+- Piraeus Tower, Athens · Sat, 5 Jul 2025
+
+## Shares bills with
+
+Kayf, KORRILA, Avangart Tabldot
+
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/atsou/)*

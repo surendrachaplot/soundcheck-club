@@ -1,6 +1,6 @@
 # OXI NYE - 60 Hours [Free Re-Entry] at OXI
 
-OXI NYE - 60 Hours [Free Re-Entry] on Thu 31 Dec, Berlin. 33 artists: 1morning, AGY3NA, Cheriii and Costanza and 29 more. Techno and House. See the line-up on soundcheck.
+OXI NYE - 60 Hours [Free Re-Entry] on Thu 31 Dec, Berlin. 34 artists: 1morning, AGY3NA, Cheriii and Costanza and 30 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -24,6 +24,7 @@ OXI NYE - 60 Hours [Free Re-Entry] on Thu 31 Dec, Berlin. 33 artists: 1morning, 
 - Immy
 - Ina Kacz
 - Joyce Muniz
+- Kevin Saunderson
 - Kr!z
 - Luca Olivotto
 - Malte Süß

@@ -1,6 +1,6 @@
 # SouthPawBrown
 
-SouthPawBrown is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Wych, Toronto on Thu, 10 Dec 2026.
+SouthPawBrown is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at The Wych, Toronto on Thu, 10 Dec 2026.
 
 SouthPawBrown is a house and techno artist based in Canada, with 26 gigs on soundcheck across Toronto. Often billed alongside Antitrust, Barroness and Landan Brawley. Next up: The Wych, Toronto on Thu 10 Dec.
 
@@ -26,4 +26,4 @@ SouthPawBrown is a house and techno artist based in Canada, with 26 gigs on soun
 
 Antitrust, Barroness, Landan Brawley
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/southpawbrown/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/southpawbrown/)*

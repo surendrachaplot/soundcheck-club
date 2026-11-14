@@ -1,6 +1,6 @@
 # Mogus
 
-Mogus is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Paramour, Brussels on Sat, 5 Dec 2026.
+Mogus is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Paramour, Brussels on Sat, 5 Dec 2026.
 
 Mogus is a house and minimal artist based in Belgium, with 19 gigs on soundcheck across Antwerp, Berlin, Brussels and Ghent and 1 more. Often billed alongside Davy, T.A.M.22 and Sips. Next up: Paramour, Brussels on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Mogus is a house and minimal artist based in Belgium, with 19 gigs on soundcheck
 
 Davy, T.A.M.22, Sips
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mogus/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mogus/)*

@@ -1,6 +1,6 @@
 # Mowie (2)
 
-Mowie (2) is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Igloofest, Montreal on Sat, 23 Jan 2027.
+Mowie (2) is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Igloofest, Montreal on Sat, 23 Jan 2027.
 
 Mowie is a hardcore and gabber artist based in Canada, with 20 gigs on soundcheck across Montreal and Toronto. Often billed alongside the bald girl, Baby Bimbo and Outback. Next up: Igloofest, Montreal on Sat 23 Jan.
 
@@ -25,4 +25,4 @@ Mowie is a hardcore and gabber artist based in Canada, with 20 gigs on soundchec
 
 the bald girl, Baby Bimbo, Outback
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mowie-2/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mowie-2/)*

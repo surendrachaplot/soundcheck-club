@@ -1,8 +1,8 @@
 # Margaret Dygas
 
-Margaret Dygas is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 21 Nov 2026.
+Margaret Dygas is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 21 Nov 2026.
 
-Margaret Dygas is a house and minimal artist based in Poland, with 155 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Belgrade and 41 more. Often billed alongside Edward, Zip and Francesco Del Garda. Next up: Seaseaclub Barcelona, Barcelona on Sat 21 Nov.
+Margaret Dygas is a house and minimal artist based in Poland, with 156 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Belgrade and 41 more. Often billed alongside Edward, Zip and Francesco Del Garda. Next up: Seaseaclub Barcelona, Barcelona on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Margaret Dygas is a house and minimal artist based in Poland, with 155 gigs on s
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Seaseaclub Barcelona | Barcelona |
 | Sat, 5 Dec 2026 | NUMBER 90 LONDON | London |
+| Sun, 13 Dec 2026 | essaim | Paris |
 | Fri, 25 Dec 2026 | Berghain / Panorama Bar / Säule | Berlin |
 
 ## Recently played
@@ -27,4 +28,4 @@ Margaret Dygas is a house and minimal artist based in Poland, with 155 gigs on s
 
 Edward, Zip, Francesco Del Garda
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/margaretdygas/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/margaretdygas/)*

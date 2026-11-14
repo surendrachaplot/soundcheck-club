@@ -1,6 +1,6 @@
 # Elle Dee
 
-Elle Dee is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA, New York City on Sat, 28 Nov 2026.
+Elle Dee is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA, New York City on Sat, 28 Nov 2026.
 
 Elle Dee is a techno and house artist based in Brazil, with 77 gigs on soundcheck across Berlin, Boston, Chicago and Detroit and 2 more. Often billed alongside Lauren Flax, Mike Servito and Juana. Next up: TBA, New York City on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Elle Dee is a techno and house artist based in Brazil, with 77 gigs on soundchec
 
 Lauren Flax, Mike Servito, Juana
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elledee/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elledee/)*

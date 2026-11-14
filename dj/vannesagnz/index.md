@@ -1,6 +1,6 @@
 # Vannesa Gnz
 
-Vannesa Gnz is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at 50 | 50, Medellin on Sun, 15 Nov 2026.
+Vannesa Gnz is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at 50 | 50, Medellin on Sun, 15 Nov 2026.
 
 Vannesa Gnz is a techno and house artist based in Colombia, with 107 gigs on soundcheck across Barcelona, Madrid and Medellin. Often billed alongside Juli Monsalve, Deraout and Andres Gil. Next up: 50 | 50, Medellin on Sun 15 Nov.
 
@@ -26,4 +26,4 @@ Vannesa Gnz is a techno and house artist based in Colombia, with 107 gigs on sou
 
 Juli Monsalve, Deraout, Andres Gil
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vannesagnz/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vannesagnz/)*

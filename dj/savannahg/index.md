@@ -1,6 +1,6 @@
 # Savannah G
 
-Savannah G is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Paris Bar, Detroit on Fri, 27 Nov 2026.
+Savannah G is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Paris Bar, Detroit on Fri, 27 Nov 2026.
 
 Savannah G is a disco and house artist based in United States of America, with 72 gigs on soundcheck across Detroit, New York City, Pittsburgh and Toronto. Often billed alongside Auntie Chanel, Stevano and Jesse Cory. Next up: Paris Bar, Detroit on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Savannah G is a disco and house artist based in United States of America, with 7
 
 Auntie Chanel, Stevano, Jesse Cory
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/savannahg/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/savannahg/)*

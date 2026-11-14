@@ -1,6 +1,6 @@
 # The Sonder Bar
 
-The Sonder Bar is a music venue in Portland with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Area 53" on Fri, 20 Nov 2026.
+The Sonder Bar is a music venue in Portland with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Area 53" on Fri, 20 Nov 2026.
 
 The Sonder Bar is a music venue in Portland listed on soundcheck. 3 upcoming gigs, with line-ups including Juliet Mendoza. See dates, start times and who's playing. 1925 NE 42nd Ave, Portland, OR 97213.
 
@@ -16,4 +16,4 @@ The Sonder Bar is a music venue in Portland listed on soundcheck. 3 upcoming gig
 
 1925 NE 42nd Ave, Portland, OR 97213, Portland
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/portland/club/the-sonder-bar/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/portland/club/the-sonder-bar/)*

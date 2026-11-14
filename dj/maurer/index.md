@@ -1,6 +1,6 @@
 # MAURER
 
-MAURER is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at MTW, Frankfurt on Sat, 14 Nov 2026.
+MAURER is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at MTW, Frankfurt on Sat, 14 Nov 2026.
 
 MAURER is a techno and trance artist based in Spain, with 38 gigs on soundcheck across Berlin, Buenos Aires, Cologne and East and 10 more. Often billed alongside VOICEX, FILTRACK and FANK. Next up: MTW, Frankfurt on Sat 14 Nov.
 
@@ -28,4 +28,4 @@ MAURER is a techno and trance artist based in Spain, with 38 gigs on soundcheck 
 
 VOICEX, FILTRACK, FANK
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maurer/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maurer/)*

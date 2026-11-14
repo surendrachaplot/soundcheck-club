@@ -1,6 +1,6 @@
 # GOODNIGHT 4TH YEAR ANNIVERSARY at Forestlimit
 
-GOODNIGHT 4TH YEAR ANNIVERSARY at Forestlimit on Fri 27 Nov, Tokyo. 2 artists: migeru and NordOst. Breakcore. See the line-up on soundcheck.
+GOODNIGHT 4TH YEAR ANNIVERSARY at Forestlimit on Fri 27 Nov, Tokyo. 2 artists: migeru and NordOst. Hardcore and Breakcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

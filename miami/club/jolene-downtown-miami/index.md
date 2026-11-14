@@ -1,15 +1,13 @@
 # Jolene Downtown Miami
 
-Jolene Downtown Miami is a music venue in Miami with 12 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Helena Hauff" on Fri, 13 Nov 2026.
+Jolene Downtown Miami is a music venue in Miami with 10 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Bill Patrick b2b Bort (All Night Long)" on Sat, 14 Nov 2026.
 
-Jolene Downtown Miami is a music venue in Miami listed on soundcheck. 12 upcoming gigs, with line-ups including Adiel, AMO, Benny Benassi and Bill Patrick and 2 more. See dates, start times and who's playing. 200 E Flagler Street Miami, FL 33131.
+Jolene Downtown Miami is a music venue in Miami listed on soundcheck. 10 upcoming gigs, with line-ups including AMO, Benny Benassi, Bill Patrick and Bort and 2 more. See dates, start times and who's playing. 200 E Flagler Street Miami, FL 33131.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Helena Hauff | Helena Hauff, Roll-e |
-| Fri, 13 Nov 2026 | Adiel, Yu Su, & Jovi Gibs | Adiel, JOVIGIBS, Yu Su |
 | Sat, 14 Nov 2026 | Bill Patrick b2b Bort (All Night Long) | Bill Patrick, Bort |
 | Sat, 21 Nov 2026 | Silvie Loto | Silvie Loto |
 | Wed, 25 Nov 2026 | Helena Hauff | Helena Hauff, Roll-e |
@@ -18,9 +16,11 @@ Jolene Downtown Miami is a music venue in Miami listed on soundcheck. 12 upcomin
 | Wed, 2 Dec 2026 | Benny Benassi (Italo Disco Set) | Benny Benassi, Mutant Pete |
 | Thu, 3 Dec 2026 | AFTERJAM: Jamback | Jamback |
 | Sat, 5 Dec 2026 | Basel: Francis Mercier | Francis Mercier |
+| Sun, 6 Dec 2026 | Damiam Lazarus, Danny Daze, | Damian Lazarus, Danny Daze |
+| Sat, 12 Dec 2026 | Satoshie Tomiie | AMO, Daizy, Satoshi Tomiie |
 
 ## Address
 
 200 E Flagler Street Miami, FL 33131, Miami
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/jolene-downtown-miami/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/jolene-downtown-miami/)*

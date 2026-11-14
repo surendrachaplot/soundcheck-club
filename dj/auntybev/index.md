@@ -1,6 +1,6 @@
 # Aunty Bev
 
-Aunty Bev is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Whammy Bar, Auckland on Sat, 28 Nov 2026.
+Aunty Bev is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Whammy Bar, Auckland on Sat, 28 Nov 2026.
 
 Aunty Bev is a techno and breakbeat artist based in New Zealand, with 6 gigs on soundcheck across Auckland. Often billed alongside Andwahn, 75 ARROWHEADS and Aunty El. Next up: Whammy Bar, Auckland on Sat 28 Nov.
 
@@ -22,4 +22,4 @@ Aunty Bev is a techno and breakbeat artist based in New Zealand, with 6 gigs on 
 
 Andwahn, 75 ARROWHEADS, Aunty El
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/auntybev/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/auntybev/)*

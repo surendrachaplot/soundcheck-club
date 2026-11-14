@@ -1,6 +1,6 @@
 # DREIAN
 
-DREIAN is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Egg London, London on Sat, 26 Dec 2026.
+DREIAN is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Egg London, London on Sat, 26 Dec 2026.
 
 DREIAN is a techno and trance artist based in United Kingdom, with 48 gigs on soundcheck across Amsterdam, Berlin, London and Munich. Often billed alongside BLILI, D.M.S and Will Lewis. Next up: Egg London, London on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ DREIAN is a techno and trance artist based in United Kingdom, with 48 gigs on so
 
 BLILI, D.M.S, Will Lewis
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dreian/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dreian/)*

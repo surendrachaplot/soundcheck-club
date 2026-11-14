@@ -1,6 +1,6 @@
 # David Gtronic
 
-David Gtronic is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Signal, New York City on Thu, 19 Nov 2026.
+David Gtronic is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Signal, New York City on Thu, 19 Nov 2026.
 
 David Gtronic is a house and techno artist based in Colombia, with 44 gigs on soundcheck across Amsterdam, Atlanta, Bali and Bangkok and 14 more. Often billed alongside Gian-Paul, Sepp and ADEZ. Next up: Signal, New York City on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ David Gtronic is a house and techno artist based in Colombia, with 44 gigs on so
 
 Gian-Paul, Sepp, ADEZ
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidgtronic/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidgtronic/)*

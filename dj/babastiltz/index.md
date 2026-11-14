@@ -1,6 +1,6 @@
 # Baba Stiltz
 
-Baba Stiltz is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Kantine am Berghain, Berlin on Wed, 27 Jan 2027.
+Baba Stiltz is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Kantine am Berghain, Berlin on Wed, 27 Jan 2027.
 
 Baba Stiltz is a house and deep house artist based in Sweden, with 30 gigs on soundcheck across Bali, Berlin, Brussels and Copenhagen and 13 more. Often billed alongside Bianca Lexis, Olefonken and Sekitova. Next up: Kantine am Berghain, Berlin on Wed 27 Jan.
 
@@ -27,4 +27,4 @@ Baba Stiltz is a house and deep house artist based in Sweden, with 30 gigs on so
 
 Bianca Lexis, Olefonken, Sekitova
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babastiltz/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babastiltz/)*

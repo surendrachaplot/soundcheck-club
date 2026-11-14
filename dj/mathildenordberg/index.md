@@ -1,6 +1,6 @@
 # Mathilde Nordberg
 
-Mathilde Nordberg is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Ritter Butzke, Berlin on Fri, 20 Nov 2026.
+Mathilde Nordberg is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Ritter Butzke, Berlin on Fri, 20 Nov 2026.
 
 Mathilde Nordberg is a techno and house artist based in Denmark, with 10 gigs on soundcheck across Berlin and Copenhagen. Often billed alongside Tim Andresen, Rauschhaus and ADAPT (DK). Next up: Ritter Butzke, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Mathilde Nordberg is a techno and house artist based in Denmark, with 10 gigs on
 
 Tim Andresen, Rauschhaus, ADAPT (DK)
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mathildenordberg/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mathildenordberg/)*

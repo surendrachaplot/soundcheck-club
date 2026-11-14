@@ -1,6 +1,6 @@
 # AVRY
 
-AVRY is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Beaumont Studios, Vancouver on Sat, 20 Mar 2027.
+AVRY is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at The Beaumont Studios, Vancouver on Sat, 20 Mar 2027.
 
 AVRY is a house and techno artist based in Canada, with 14 gigs on soundcheck across Toronto and Vancouver. Often billed alongside ZIGGY ZAYA, Andre Rose and Andre Zimmer. Next up: The Beaumont Studios, Vancouver on Sat 20 Mar.
 
@@ -25,4 +25,4 @@ AVRY is a house and techno artist based in Canada, with 14 gigs on soundcheck ac
 
 ZIGGY ZAYA, Andre Rose, Andre Zimmer
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avry/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avry/)*

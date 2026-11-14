@@ -1,6 +1,6 @@
 # David Guetta
 
-David Guetta is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at O2 Arena, London on Sat, 5 Jun 2027.
+David Guetta is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at O2 Arena, London on Sat, 5 Jun 2027.
 
 David Guetta is a house and progressive house artist based in France, with 156 gigs on soundcheck across Dubai, Frankfurt, Geneva and Ibiza and 6 more. Often billed alongside Paul Reynolds, Meduza and James Hype (UK). Next up: O2 Arena, London on Sat 5 Jun.
 
@@ -25,4 +25,4 @@ David Guetta is a house and progressive house artist based in France, with 156 g
 
 Paul Reynolds, Meduza, James Hype (UK)
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidguetta/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidguetta/)*

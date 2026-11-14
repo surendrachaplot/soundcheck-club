@@ -1,6 +1,6 @@
 # Leona
 
-Leona is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Pawnshop, Taipei on Sat, 26 Dec 2026.
+Leona is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Pawnshop, Taipei on Sat, 26 Dec 2026.
 
 Leona is a techno and house artist based in Germany, with 20 gigs on soundcheck across Berlin, Geneva, Lisbon and Nantes and 3 more. Often billed alongside Melting 99, Chima Isaaro and Elinnn. Next up: Pawnshop, Taipei on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Leona is a techno and house artist based in Germany, with 20 gigs on soundcheck 
 
 Melting 99, Chima Isaaro, Elinnn
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leona-1/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leona-1/)*

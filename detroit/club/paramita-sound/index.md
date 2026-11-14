@@ -1,18 +1,17 @@
 # Paramita Sound
 
-Paramita Sound is a music venue in Detroit with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "we1sman" on Fri, 13 Nov 2026.
+Paramita Sound is a music venue in Detroit with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. The next is "good company w/ james" on Sat, 14 Nov 2026.
 
-Paramita Sound is a music venue in Detroit listed on soundcheck. 2 upcoming gigs, with line-ups including we1sman. See dates, start times and who's playing. 1515 Broadway St Suite C, Detroit, MI 48226, United States.
+Paramita Sound is a music venue in Detroit listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 1515 Broadway St Suite C, Detroit, MI 48226, United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | we1sman | we1sman |
 | Sat, 14 Nov 2026 | good company w/ james |  |
 
 ## Address
 
 1515 Broadway St Suite C, Detroit, MI 48226, United States, Detroit
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/paramita-sound/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/paramita-sound/)*

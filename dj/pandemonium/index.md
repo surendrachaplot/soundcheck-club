@@ -1,6 +1,6 @@
 # Pandemonium
 
-Pandemonium is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Eldorado, North on Sat, 21 Nov 2026.
+Pandemonium is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Eldorado, North on Sat, 21 Nov 2026.
 
 Pandemonium is a techno and industrial artist based in Spain, with 20 gigs on soundcheck across North, Sydney and Vancouver. Often billed alongside Sam I Am, pretzelz and ARTISAH. Next up: Eldorado, North on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Pandemonium is a techno and industrial artist based in Spain, with 20 gigs on so
 
 Sam I Am, pretzelz, ARTISAH
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pandemonium/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pandemonium/)*

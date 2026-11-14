@@ -1,20 +1,20 @@
 # AJ Christou
 
-AJ Christou is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Vera Cocina & بار, Washington DC on Fri, 13 Nov 2026.
+AJ Christou is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Formation Brewery, Phoenix on Sat, 14 Nov 2026.
 
-AJ Christou is a tech house and house artist based in United Kingdom, with 120 gigs on soundcheck across Amsterdam, Atlanta, Bali and Bangkok and 29 more. Often billed alongside Mason Collective, Fleur Shore and Jesse Calosso. Next up: Vera Cocina & بار, Washington DC on Fri 13 Nov.
+AJ Christou is a tech house and house artist based in United Kingdom, with 120 gigs on soundcheck across Amsterdam, Atlanta, Bali and Bangkok and 29 more. Often billed alongside Mason Collective, Fleur Shore and Jesse Calosso. Next up: Formation Brewery, Phoenix on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Vera Cocina & بار | Washington DC |
 | Sat, 14 Nov 2026 | Formation Brewery | Phoenix |
 | Sat, 28 Nov 2026 | Refuge | New York City |
 | Sat, 12 Dec 2026 | Shelter Amsterdam | Amsterdam |
 
 ## Recently played
 
+- Vera Cocina & بار, Washington DC · Fri, 13 Nov 2026
 - Bar Oriente, Mexico City · Fri, 6 Nov 2026
 - Mediahaven - Minervahaven, Amsterdam · Fri, 23 Oct 2026
 - Coda, Toronto · Fri, 16 Oct 2026
@@ -22,10 +22,9 @@ AJ Christou is a tech house and house artist based in United Kingdom, with 120 g
 - Pacha Ibiza, Ibiza · Fri, 18 Sept 2026
 - Stratus Lounge, Philadelphia · Sun, 30 Aug 2026
 - Smith's Olde Bar, Atlanta · Sat, 29 Aug 2026
-- Thuishaven, Amsterdam · Sun, 23 Aug 2026
 
 ## Shares bills with
 
 Mason Collective, Fleur Shore, Jesse Calosso
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ajchristou/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ajchristou/)*

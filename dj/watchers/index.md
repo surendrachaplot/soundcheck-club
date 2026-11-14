@@ -1,6 +1,6 @@
 # Watchers
 
-Watchers is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Mint XL, Leeds on Fri, 18 Dec 2026.
+Watchers is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Mint XL, Leeds on Fri, 18 Dec 2026.
 
 Watchers is a tech house and house artist based in United Kingdom, with 30 gigs on soundcheck across Amsterdam, Brighton, Bristol and Glasgow and 6 more. Often billed alongside Ellia Jaya, Gaskin and Julian Fijma. Next up: Mint XL, Leeds on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Watchers is a tech house and house artist based in United Kingdom, with 30 gigs 
 
 Ellia Jaya, Gaskin, Julian Fijma
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/watchers/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/watchers/)*

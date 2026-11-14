@@ -1,6 +1,6 @@
 # Jenny Fox
 
-Jenny Fox is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Radius, Chicago on Fri, 1 Jan 2027.
+Jenny Fox is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Radius, Chicago on Fri, 1 Jan 2027.
 
 Jenny Fox is a techno and club artist based in United States of America, with 36 gigs on soundcheck across Chicago. Often billed alongside Flores Negras, karennoid and Ariel Zetina. Next up: Radius, Chicago on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Jenny Fox is a techno and club artist based in United States of America, with 36
 
 Flores Negras, karennoid, Ariel Zetina
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jennyfox/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jennyfox/)*

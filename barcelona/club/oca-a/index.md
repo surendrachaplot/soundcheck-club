@@ -1,6 +1,6 @@
 # Ocaña
 
-Ocaña is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "Hollywood Night - Filmmakers, Creatives & Actors Party" on Thu, 19 Nov 2026.
+Ocaña is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. The next is "Hollywood Night - Filmmakers, Creatives & Actors Party" on Thu, 19 Nov 2026.
 
 Ocaña is a music venue in Barcelona listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Plaza Reial 13, Barcelona 08002, Spain.
 
@@ -14,4 +14,4 @@ Ocaña is a music venue in Barcelona listed on soundcheck. 1 upcoming gig. See d
 
 Plaza Reial 13, Barcelona 08002, Spain, Barcelona
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/oca-a/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/oca-a/)*

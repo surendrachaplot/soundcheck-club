@@ -1,6 +1,6 @@
 # FRANZIV
 
-FRANZIV is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - 288 Green St. Cambridge, Boston on Sat, 5 Dec 2026.
+FRANZIV is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - 288 Green St. Cambridge, Boston on Sat, 5 Dec 2026.
 
 FRANZIV is a house and progressive house artist based in United States of America, with 32 gigs on soundcheck across Boston and New York City. Often billed alongside ViV:On, AleBCostantino and DJ Bookworm. Next up: TBA - 288 Green St. Cambridge, Boston on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ FRANZIV is a house and progressive house artist based in United States of Americ
 
 ViV:On, AleBCostantino, DJ Bookworm
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/franziv/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/franziv/)*

@@ -1,6 +1,6 @@
 # Mia Banks
 
-Mia Banks is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Luxor Live, Netherlands on Sat, 21 Nov 2026.
+Mia Banks is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Luxor Live, Netherlands on Sat, 21 Nov 2026.
 
 Mia Banks is a disco and house artist based in Netherlands, with 6 gigs on soundcheck across Amsterdam, Netherlands, Nijmegen and Rotterdam. Often billed alongside Crystal Touch, Dan Cluskey and Lenzz. Next up: Luxor Live, Netherlands on Sat 21 Nov.
 
@@ -22,4 +22,4 @@ Mia Banks is a disco and house artist based in Netherlands, with 6 gigs on sound
 
 Crystal Touch, Dan Cluskey, Lenzz
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miabanks/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miabanks/)*

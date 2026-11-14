@@ -1,6 +1,6 @@
 # DJPT
 
-DJPT is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Qncc, New York City on Fri, 11 Dec 2026.
+DJPT is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Qncc, New York City on Fri, 11 Dec 2026.
 
 DJPT is a techno and club artist based in United States of America, with 71 gigs on soundcheck across Chicago and New York City. Often billed alongside Sevyn Love, DJ DEADNAME and Alissa Brianna. Next up: Qncc, New York City on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ DJPT is a techno and club artist based in United States of America, with 71 gigs
 
 Sevyn Love, DJ DEADNAME, Alissa Brianna
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djpt/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djpt/)*

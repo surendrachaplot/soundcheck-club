@@ -1,6 +1,6 @@
 # futurristic
 
-futurristic is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at ÆDEN, Berlin on Fri, 27 Nov 2026.
+futurristic is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at ÆDEN, Berlin on Fri, 27 Nov 2026.
 
 futurristic is a techno and trance artist based in Germany, with 51 gigs on soundcheck across Berlin, Frankfurt, Hamburg and Karlsruhe and 1 more. Often billed alongside SOHOE, Stinny Stone and Salzbauer. Next up: ÆDEN, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ futurristic is a techno and trance artist based in Germany, with 51 gigs on soun
 
 SOHOE, Stinny Stone, Salzbauer
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/futurristic/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/futurristic/)*

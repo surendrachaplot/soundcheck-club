@@ -1,6 +1,6 @@
 # Max Styler
 
-Max Styler is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
+Max Styler is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
 
 Max Styler is a house and tech house artist based in United States of America, with 138 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 44 more. Often billed alongside Layton Giordani, John Summit and Eli Brown. Next up: The Concourse Project, Austin on Fri 13 Nov.
 
@@ -22,17 +22,17 @@ Max Styler is a house and tech house artist based in United States of America, w
 
 ## Recently played
 
+- The Concourse Project, Austin · Fri, 13 Nov 2026
+- Woldenberg Riverfront Park, New-orleans · Fri, 13 Nov 2026
 - Klub Werkstatt, Copenhagen · Sat, 7 Nov 2026
 - O der Klub, Vienna · Fri, 6 Nov 2026
 - New City Gas, Montreal · Sat, 31 Oct 2026
 - Theater Amsterdam, Amsterdam · Sat, 24 Oct 2026
 - Volt Club Milano, Milan · Thu, 22 Oct 2026
 - Mana Wynwood, Miami · Fri, 16 Oct 2026
-- Shrine Auditorium and Expo Hall, Los Angeles · Sat, 3 Oct 2026
-- TBA - Pier 80, San Francisco/Oakland · Sat, 26 Sept 2026
 
 ## Shares bills with
 
 Layton Giordani, John Summit, Eli Brown
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxstyler/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxstyler/)*

@@ -1,6 +1,6 @@
 # Fujur
 
-Fujur is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Specka, Madrid on Sat, 9 Jan 2027.
+Fujur is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Specka, Madrid on Sat, 9 Jan 2027.
 
 Fujur is an electronica and techno artist based in Spain, with 6 gigs on soundcheck across Madrid. Often billed alongside Themine, Cedrik and DAMMBEER. Next up: Specka, Madrid on Sat 9 Jan.
 
@@ -22,4 +22,4 @@ Fujur is an electronica and techno artist based in Spain, with 6 gigs on soundch
 
 Themine, Cedrik, DAMMBEER
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fujur/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fujur/)*

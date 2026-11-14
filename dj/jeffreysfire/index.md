@@ -1,6 +1,6 @@
 # Jeffrey Sfire
 
-Jeffrey Sfire is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at public records, New York City on Sun, 6 Dec 2026.
+Jeffrey Sfire is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at public records, New York City on Sun, 6 Dec 2026.
 
 Jeffrey Sfire is a house and techno artist based in United States of America, with 71 gigs on soundcheck across Atlanta, Berlin, Chengdu and Chicago and 12 more. Often billed alongside Mike Servito, Justin Cudmore and Carlos Souffront. Next up: public records, New York City on Sun 6 Dec.
 
@@ -25,4 +25,4 @@ Jeffrey Sfire is a house and techno artist based in United States of America, wi
 
 Mike Servito, Justin Cudmore, Carlos Souffront
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffreysfire/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffreysfire/)*

@@ -1,6 +1,6 @@
 # Joseph Capriati
 
-Joseph Capriati is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Electric Wonderland, Hong Kong on Fri, 20 Nov 2026.
+Joseph Capriati is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Electric Wonderland, Hong Kong on Fri, 20 Nov 2026.
 
 Joseph Capriati is a techno and house artist based in Italy, with 247 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 54 more. Often billed alongside Jamie Jones, Indira Paganotto and Seth Troxler. Next up: Electric Wonderland, Hong Kong on Fri 20 Nov.
 
@@ -35,4 +35,4 @@ Joseph Capriati is a techno and house artist based in Italy, with 247 gigs on so
 
 Jamie Jones, Indira Paganotto, Seth Troxler
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/josephcapriati/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/josephcapriati/)*

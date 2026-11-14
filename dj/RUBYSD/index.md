@@ -1,6 +1,6 @@
 # Ruby SD
 
-Ruby SD is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Club Cheek, London on Fri, 4 Dec 2026.
+Ruby SD is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Club Cheek, London on Fri, 4 Dec 2026.
 
 Ruby SD is an electro and techno artist based in United Kingdom, with 48 gigs on soundcheck across Birmingham, Bristol, Hamburg and Leeds and 2 more. Often billed alongside Son of Paul, batgirl and Birrell. Next up: Club Cheek, London on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Ruby SD is an electro and techno artist based in United Kingdom, with 48 gigs on
 
 Son of Paul, batgirl, Birrell
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/RUBYSD/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/RUBYSD/)*

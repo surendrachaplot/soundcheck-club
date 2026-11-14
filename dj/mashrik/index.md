@@ -1,6 +1,6 @@
 # Mashrik
 
-Mashrik is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Lion's Den, Miami on Wed, 2 Dec 2026.
+Mashrik is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Lion's Den, Miami on Wed, 2 Dec 2026.
 
 Mashrik is a deep house and house artist based in United States of America, with 26 gigs on soundcheck across Buenos Aires, Lisbon, Los Angeles and Mexico City and 3 more. Often billed alongside Nacho Isa, Borak and YokoO. Next up: Lion's Den, Miami on Wed 2 Dec.
 
@@ -25,4 +25,4 @@ Mashrik is a deep house and house artist based in United States of America, with
 
 Nacho Isa, Borak, YokoO
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mashrik/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mashrik/)*

@@ -1,6 +1,6 @@
 # Jai Baisden
 
-Jai Baisden is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Egg London, London on Sat, 5 Dec 2026.
+Jai Baisden is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Egg London, London on Sat, 5 Dec 2026.
 
 Jai Baisden is a tech house and deep house artist based in United Kingdom, with 45 gigs on soundcheck across London. Often billed alongside JAYDAA, Beezo and Shenin Amara. Next up: Egg London, London on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Jai Baisden is a tech house and deep house artist based in United Kingdom, with 
 
 JAYDAA, Beezo, Shenin Amara
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaibaisden/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaibaisden/)*

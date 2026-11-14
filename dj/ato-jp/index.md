@@ -1,6 +1,6 @@
 # ato夢
 
-ato夢 is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Heavy Sick Zero, Tokyo on Sat, 14 Nov 2026.
+ato夢 is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Heavy Sick Zero, Tokyo on Sat, 14 Nov 2026.
 
 ato夢 is a techno and experimental artist based in Japan, with 29 gigs on soundcheck across Tokyo. Often billed alongside Tetsuya Fukada, deadfish eyes and Dana Ollestad. Next up: Heavy Sick Zero, Tokyo on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ ato夢 is a techno and experimental artist based in Japan, with 29 gigs on sound
 
 Tetsuya Fukada, deadfish eyes, Dana Ollestad
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ato-jp/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ato-jp/)*

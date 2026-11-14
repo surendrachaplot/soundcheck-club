@@ -1,6 +1,6 @@
 # Cera Khin
 
-Cera Khin is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Mia Mao, Paris on Sat, 14 Nov 2026.
+Cera Khin is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Mia Mao, Paris on Sat, 14 Nov 2026.
 
 Cera Khin is a techno and house artist based in Tunisia, with 210 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Basel and 71 more. Often billed alongside Charlie Sparks, Clara Cuvé and Patrick Mason. Next up: Mia Mao, Paris on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Cera Khin is a techno and house artist based in Tunisia, with 210 gigs on soundc
 
 Charlie Sparks, Clara Cuvé, Patrick Mason
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cerakhin/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cerakhin/)*

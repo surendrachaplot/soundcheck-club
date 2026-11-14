@@ -1,6 +1,6 @@
 # CLTX
 
-CLTX is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Nivo, Sofia on Fri, 27 Nov 2026.
+CLTX is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Nivo, Sofia on Fri, 27 Nov 2026.
 
 CLTX is a techno and trance artist based in France, with 209 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 69 more. Often billed alongside DYEN, Alignment and Charlie Sparks. Next up: Nivo, Sofia on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ CLTX is a techno and trance artist based in France, with 209 gigs on soundcheck 
 
 DYEN, Alignment, Charlie Sparks
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cltx/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cltx/)*

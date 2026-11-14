@@ -1,6 +1,6 @@
 # Dasha Fyah
 
-Dasha Fyah is a Dub artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Recyclart, Brussels on Fri, 4 Dec 2026.
+Dasha Fyah is a Dub artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Recyclart, Brussels on Fri, 4 Dec 2026.
 
 Dasha Fyah is a dub artist based in Czech Republic, with 8 gigs on soundcheck across Brussels and Prague. Often billed alongside Carrageenan, EliseThere and Katrixia. Next up: Recyclart, Brussels on Fri 4 Dec.
 
@@ -24,4 +24,4 @@ Dasha Fyah is a dub artist based in Czech Republic, with 8 gigs on soundcheck ac
 
 Carrageenan, EliseThere, Katrixia
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dashafyah/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dashafyah/)*

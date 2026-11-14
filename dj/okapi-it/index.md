@@ -1,6 +1,6 @@
 # Økapi
 
-Økapi is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Eldorado, North on Sat, 21 Nov 2026.
+Økapi is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Eldorado, North on Sat, 21 Nov 2026.
 
 Økapi is a techno and electronica artist based in Italy, with 6 gigs on soundcheck across Ghent, North, Seoul and Tokyo and 1 more. Often billed alongside Abstrakt (UK), Bluemarina and Conor Thomas. Next up: Eldorado, North on Sat 21 Nov.
 
@@ -22,4 +22,4 @@
 
 Abstrakt (UK), Bluemarina, Conor Thomas
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/okapi-it/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/okapi-it/)*

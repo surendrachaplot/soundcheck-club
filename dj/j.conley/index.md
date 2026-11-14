@@ -1,6 +1,6 @@
 # J. Conley
 
-J. Conley is a Ambient and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Kiku (16 Gradwell St, Liverpool L1 4JH), Liverpool on Wed, 18 Nov 2026.
+J. Conley is a Ambient and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Kiku (16 Gradwell St, Liverpool L1 4JH), Liverpool on Wed, 18 Nov 2026.
 
 J. Conley is an ambient and electronica artist, with 14 gigs on soundcheck across Liverpool. Often billed alongside Binyamin, Cult Rosa and Dj Streaks. Next up: TBA - Kiku (16 Gradwell St, Liverpool L1 4JH), Liverpool on Wed 18 Nov.
 
@@ -26,4 +26,4 @@ J. Conley is an ambient and electronica artist, with 14 gigs on soundcheck acros
 
 Binyamin, Cult Rosa, Dj Streaks
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/j.conley/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/j.conley/)*

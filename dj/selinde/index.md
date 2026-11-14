@@ -1,19 +1,19 @@
 # Selin (DE)
 
-Selin (DE) is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Monarch, Berlin on Fri, 13 Nov 2026.
+Selin (DE) is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Fitzroy, Berlin on Sun, 22 Nov 2026.
 
-Selin (DE) is a house and disco artist based in Germany, with 18 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Kat_Es, Bress Underground and Darwin Stapel. Next up: Monarch, Berlin on Fri 13 Nov.
+Selin (DE) is a house and disco artist based in Germany, with 18 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Kat_Es, Bress Underground and Darwin Stapel. Next up: Fitzroy, Berlin on Sun 22 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Monarch | Berlin |
 | Sun, 22 Nov 2026 | Fitzroy | Berlin |
 | Sat, 28 Nov 2026 | TBA | Berlin |
 
 ## Recently played
 
+- Monarch, Berlin · Fri, 13 Nov 2026
 - Haus73, Hamburg · Sat, 31 Oct 2026
 - Bulbul Berlin, Berlin · Sat, 10 Oct 2026
 - Hoppetosse, Berlin · Sat, 19 Sept 2026
@@ -21,10 +21,9 @@ Selin (DE) is a house and disco artist based in Germany, with 18 gigs on soundch
 - Bulbul Berlin, Berlin · Sat, 4 Jul 2026
 - OXI, Berlin · Sat, 20 Jun 2026
 - Haus73, Hamburg · Sat, 30 May 2026
-- ://about blank, Berlin · Thu, 28 May 2026
 
 ## Shares bills with
 
 Kat_Es, Bress Underground, Darwin Stapel
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/selinde/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/selinde/)*

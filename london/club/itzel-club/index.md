@@ -1,18 +1,17 @@
 # Itzel Club
 
-Itzel Club is a music venue in London with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Sasson at Itzel Club" on Fri, 13 Nov 2026.
+Itzel Club is a music venue in London with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. The next is "Moojo" on Fri, 27 Nov 2026.
 
-Itzel Club is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Kidflo, Moojo and Nicolas Sasson. See dates, start times and who's playing. 15 Berkeley Street, London W1J 8DY.
+Itzel Club is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Moojo. See dates, start times and who's playing. 15 Berkeley Street, London W1J 8DY.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Sasson at Itzel Club | Kidflo, Nicolas Sasson |
 | Fri, 27 Nov 2026 | Moojo | Moojo |
 
 ## Address
 
 15 Berkeley Street, London W1J 8DY, London
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/itzel-club/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/itzel-club/)*

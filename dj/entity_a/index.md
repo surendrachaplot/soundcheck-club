@@ -1,6 +1,6 @@
 # entity_A
 
-entity_A is a Garage and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at H0L0, New York City on Thu, 3 Dec 2026.
+entity_A is a Garage and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at H0L0, New York City on Thu, 3 Dec 2026.
 
 entity_A is a garage and electro artist based in United States of America, with 7 gigs on soundcheck across New York City. Often billed alongside Abril IRL, JOHNNY O and Scribble. Next up: H0L0, New York City on Thu 3 Dec.
 
@@ -23,4 +23,4 @@ entity_A is a garage and electro artist based in United States of America, with 
 
 Abril IRL, JOHNNY O, Scribble
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/entity_a/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/entity_a/)*

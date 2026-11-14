@@ -1,6 +1,6 @@
 # Sona
 
-Sona is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Ghent (multi-venue), Ghent on Fri, 27 Nov 2026.
+Sona is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Ghent (multi-venue), Ghent on Fri, 27 Nov 2026.
 
 Sona is an afro house and house artist based in Taiwan, with 15 gigs on soundcheck across Amsterdam, Antwerp, Ghent and Houston and 8 more. Often billed alongside Black Coffee, AMIRA and AMÉMÉ. Next up: TBA - Ghent (multi-venue), Ghent on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Sona is an afro house and house artist based in Taiwan, with 15 gigs on soundche
 
 Black Coffee, AMIRA, AMÉMÉ
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sona/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sona/)*

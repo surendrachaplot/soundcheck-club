@@ -1,6 +1,6 @@
 # HVL
 
-HVL is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Bassiani, Tbilisi on Fri, 27 Nov 2026.
+HVL is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Bassiani, Tbilisi on Fri, 27 Nov 2026.
 
 HVL is a techno and house artist based in Georgia, with 111 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 17 more. Often billed alongside Kvanchi, Ndrx and Newa. Next up: Bassiani, Tbilisi on Fri 27 Nov.
 
@@ -28,4 +28,4 @@ HVL is a techno and house artist based in Georgia, with 111 gigs on soundcheck a
 
 Kvanchi, Ndrx, Newa
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hvl/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hvl/)*

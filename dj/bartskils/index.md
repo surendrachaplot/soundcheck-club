@@ -1,6 +1,6 @@
 # Bart Skils
 
-Bart Skils is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Plaza Mayor de El Poble Espanyol, Barcelona on Sat, 28 Nov 2026.
+Bart Skils is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Plaza Mayor de El Poble Espanyol, Barcelona on Sat, 28 Nov 2026.
 
 Bart Skils is a techno and house artist based in Netherlands, with 149 gigs on soundcheck across Adelaide, Amsterdam, Athens and Atlanta and 54 more. Often billed alongside Adam Beyer, Victor Ruiz and Eli Brown. Next up: Plaza Mayor de El Poble Espanyol, Barcelona on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Bart Skils is a techno and house artist based in Netherlands, with 149 gigs on s
 
 Adam Beyer, Victor Ruiz, Eli Brown
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bartskils/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bartskils/)*

@@ -1,6 +1,6 @@
 # Dilemma (2)
 
-Dilemma (2) is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Art School, Glasgow on Fri, 11 Dec 2026.
+Dilemma (2) is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at The Art School, Glasgow on Fri, 11 Dec 2026.
 
 Dilemma is a jungle and drum & bass artist based in United Kingdom, with 2 gigs on soundcheck across Glasgow and London. Often billed alongside Winslow, BCee and Episode Three. Next up: The Art School, Glasgow on Fri 11 Dec.
 
@@ -15,4 +15,4 @@ Dilemma is a jungle and drum & bass artist based in United Kingdom, with 2 gigs 
 
 Winslow, BCee, Episode Three
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dilemma-2/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dilemma-2/)*

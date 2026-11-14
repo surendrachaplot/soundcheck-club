@@ -1,6 +1,6 @@
 # DJ JNETT
 
-DJ JNETT is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Poor Toms Oltra, Sydney on Sun, 20 Dec 2026.
+DJ JNETT is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Poor Toms Oltra, Sydney on Sun, 20 Dec 2026.
 
 DJ JNETT is a house and deep house artist based in Australia, with 138 gigs on soundcheck across Auckland, Brisbane, Byron Bay and Canberra and 2 more. Often billed alongside Colette, Zjoso and Moopie. Next up: Poor Toms Oltra, Sydney on Sun 20 Dec.
 
@@ -25,4 +25,4 @@ DJ JNETT is a house and deep house artist based in Australia, with 138 gigs on s
 
 Colette, Zjoso, Moopie
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djjnett/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djjnett/)*

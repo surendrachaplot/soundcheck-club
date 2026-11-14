@@ -1,6 +1,6 @@
 # H15 Scene & Studio
 
-H15 Scene & Studio is a music venue in Copenhagen with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "One year rave - Roll as One anniversary" on Sat, 14 Nov 2026.
+H15 Scene & Studio is a music venue in Copenhagen with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "One year rave - Roll as One anniversary" on Sat, 14 Nov 2026.
 
 H15 Scene & Studio is a music venue in Copenhagen listed on soundcheck. 4 upcoming gigs, with line-ups including Aerocell, avoN, Daniel Kaarill and Fergus Murphy and 2 more. See dates, start times and who's playing. Halmtorvet 15, 1715, Copenhagen.
 
@@ -17,4 +17,4 @@ H15 Scene & Studio is a music venue in Copenhagen listed on soundcheck. 4 upcomi
 
 Halmtorvet 15, 1715, Copenhagen, Copenhagen
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/h15-scene-studio/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/h15-scene-studio/)*

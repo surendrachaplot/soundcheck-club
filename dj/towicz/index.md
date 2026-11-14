@@ -1,6 +1,6 @@
 # Towicz
 
-Towicz is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at AMT, Berlin on Fri, 4 Dec 2026.
+Towicz is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at AMT, Berlin on Fri, 4 Dec 2026.
 
 Towicz is a techno and trance artist, with 26 gigs on soundcheck across Berlin, Karlsruhe, Munich and Nürnberg. Often billed alongside Dominique Lamee, HNAS and Janky. Next up: AMT, Berlin on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Towicz is a techno and trance artist, with 26 gigs on soundcheck across Berlin, 
 
 Dominique Lamee, HNAS, Janky
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/towicz/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/towicz/)*

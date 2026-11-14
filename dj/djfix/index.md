@@ -1,6 +1,6 @@
 # djfix
 
-djfix is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - San Francisco, San Francisco/Oakland on Fri, 4 Dec 2026.
+djfix is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - San Francisco, San Francisco/Oakland on Fri, 4 Dec 2026.
 
 djfix is a techno and tech house artist based in United States of America, with 33 gigs on soundcheck across Bangkok, Berlin, Canberra and Copenhagen and 12 more. Often billed alongside Jek (US), adobeprincess and Ekkel. Next up: TBA - San Francisco, San Francisco/Oakland on Fri 4 Dec.
 
@@ -27,4 +27,4 @@ djfix is a techno and tech house artist based in United States of America, with 
 
 Jek (US), adobeprincess, Ekkel
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djfix/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djfix/)*

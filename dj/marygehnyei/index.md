@@ -1,6 +1,6 @@
 # Mary Gehnyei
 
-Mary Gehnyei is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Secret Location, Rome on Sat, 14 Nov 2026.
+Mary Gehnyei is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Secret Location, Rome on Sat, 14 Nov 2026.
 
 Mary Gehnyei is a house and techno artist based in Italy, with 24 gigs on soundcheck across Barcelona, Berlin, Copenhagen and Florence and 2 more. Often billed alongside Mary G, Ameliée and Lela Xein. Next up: TBA - Secret Location, Rome on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Mary Gehnyei is a house and techno artist based in Italy, with 24 gigs on soundc
 
 Mary G, Ameliée, Lela Xein
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marygehnyei/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marygehnyei/)*

@@ -1,14 +1,13 @@
 # Tuff Club
 
-Tuff Club is a music venue in Singapore with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "PROGRESSIONS" on Fri, 13 Nov 2026.
+Tuff Club is a music venue in Singapore with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Thugshop X Never Tooo Loud presents: Philippa Pacho (Phorum Records / SE)" on Fri, 20 Nov 2026.
 
-Tuff Club is a music venue in Singapore listed on soundcheck. 3 upcoming gigs, with line-ups including Joshua Dillon, Øbsidian, Philippa Pacho and Vinnie Stew. See dates, start times and who's playing. 138 Robinson Road #19-01, Singapore 068906.
+Tuff Club is a music venue in Singapore listed on soundcheck. 2 upcoming gigs, with line-ups including Joshua Dillon, Øbsidian, Philippa Pacho and Vinnie Stew. See dates, start times and who's playing. 138 Robinson Road #19-01, Singapore 068906.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | PROGRESSIONS |  |
 | Fri, 20 Nov 2026 | Thugshop X Never Tooo Loud presents: Philippa Pacho (Phorum Records / SE) | Philippa Pacho |
 | Sat, 28 Nov 2026 | 𝐑𝐄𝐌: 𝐒𝐈𝐆𝐍𝐀𝐋 𝟎𝟑 | Joshua Dillon, Vinnie Stew, Øbsidian |
 
@@ -16,4 +15,4 @@ Tuff Club is a music venue in Singapore listed on soundcheck. 3 upcoming gigs, w
 
 138 Robinson Road #19-01, Singapore 068906, Singapore
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/tuff-club/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/tuff-club/)*

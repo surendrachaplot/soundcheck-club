@@ -1,6 +1,6 @@
 # DJ Nigga Fox
 
-DJ Nigga Fox is a Kuduro and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Garden Tisno, Croatia on Thu, 19 Aug 2027.
+DJ Nigga Fox is a Kuduro and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at The Garden Tisno, Croatia on Thu, 19 Aug 2027.
 
 DJ Nigga Fox is a kuduro and club artist based in Portugal, with 78 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 29 more. Often billed alongside Dj Danifox, DJ Firmeza and DJ Marfox. Next up: The Garden Tisno, Croatia on Thu 19 Aug.
 
@@ -25,4 +25,4 @@ DJ Nigga Fox is a kuduro and club artist based in Portugal, with 78 gigs on soun
 
 Dj Danifox, DJ Firmeza, DJ Marfox
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djniggafox/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djniggafox/)*

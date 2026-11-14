@@ -1,6 +1,6 @@
 # ANDHRAY
 
-ANDHRAY is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at M7 Club, Barcelona on Fri, 27 Nov 2026.
+ANDHRAY is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at M7 Club, Barcelona on Fri, 27 Nov 2026.
 
 ANDHRAY is a techno and industrial artist based in Colombia, with 30 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 9 more. Often billed alongside Keith barrera, Lady Maru and Surfer Rosa. Next up: M7 Club, Barcelona on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ ANDHRAY is a techno and industrial artist based in Colombia, with 30 gigs on sou
 
 Keith barrera (3), Lady Maru, Surfer Rosa
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andhray/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andhray/)*

@@ -1,6 +1,6 @@
 # Determiner
 
-Determiner is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Sensorium, Berlin on Wed, 16 Dec 2026.
+Determiner is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Sensorium, Berlin on Wed, 16 Dec 2026.
 
 Determiner is a techno and drum & bass artist based in Germany, with 12 gigs on soundcheck across Berlin and Mannheim. Often billed alongside Seimen Dexter, Sonair and Felix Reichelt. Next up: Sensorium, Berlin on Wed 16 Dec.
 
@@ -25,4 +25,4 @@ Determiner is a techno and drum & bass artist based in Germany, with 12 gigs on 
 
 Seimen Dexter, Sonair, Felix Reichelt
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/determiner/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/determiner/)*

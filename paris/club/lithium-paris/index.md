@@ -1,6 +1,6 @@
 # Lithium Paris
 
-Lithium Paris is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "Weirdies Jon Beige's afterimage release party" on Sun, 15 Nov 2026.
+Lithium Paris is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. The next is "Weirdies Jon Beige's afterimage release party" on Sun, 15 Nov 2026.
 
 Lithium Paris is a music venue in Paris listed on soundcheck. 1 upcoming gig, with line-ups including DJ Sundae, Rebequita, rougail space program and VITAMINE C. See dates, start times and who's playing. 6 Rue Saint-Blaise, 75020 Paris.
 
@@ -14,4 +14,4 @@ Lithium Paris is a music venue in Paris listed on soundcheck. 1 upcoming gig, wi
 
 6 Rue Saint-Blaise, 75020 Paris, Paris
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/lithium-paris/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/lithium-paris/)*

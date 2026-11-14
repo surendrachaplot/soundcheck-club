@@ -1,6 +1,6 @@
 # Konnection
 
-Konnection is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Nulab Chengdu, Chengdu on Sat, 21 Nov 2026.
+Konnection is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Nulab Chengdu, Chengdu on Sat, 21 Nov 2026.
 
 Konnection is a techno and house artist based in China, with 43 gigs on soundcheck across Chengdu, Hong Kong, Shenzhen and Tokyo. Often billed alongside Dan-neo, Faxtory and Finsent C. Next up: Nulab Chengdu, Chengdu on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Konnection is a techno and house artist based in China, with 43 gigs on soundche
 
 Dan-neo, Faxtory, Finsent C
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/konnection/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/konnection/)*

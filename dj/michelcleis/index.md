@@ -1,6 +1,6 @@
 # Michel Cleis
 
-Michel Cleis is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Folklor, Lausanne on Sat, 14 Nov 2026.
+Michel Cleis is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Folklor, Lausanne on Sat, 14 Nov 2026.
 
 Michel Cleis is a house and tech house artist based in Switzerland, with 14 gigs on soundcheck across Frankfurt, Geneva, Ibiza and Lausanne and 1 more. Often billed alongside Alci, Anthea and La Forêt. Next up: Folklor, Lausanne on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Michel Cleis is a house and tech house artist based in Switzerland, with 14 gigs
 
 Alci, Anthea, La Forêt
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/michelcleis/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/michelcleis/)*

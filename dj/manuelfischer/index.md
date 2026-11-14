@@ -1,6 +1,6 @@
 # Manuel Fischer
 
-Manuel Fischer is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Kino Roland, Zurich on Sat, 28 Nov 2026.
+Manuel Fischer is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Kino Roland, Zurich on Sat, 28 Nov 2026.
 
 Manuel Fischer is a house and techno artist based in Switzerland, with 47 gigs on soundcheck across Bali, Bangkok, Berlin and Ho Chi Minh City and 6 more. Often billed alongside Alex Dallas, Prioleau and Abdel Hady. Next up: Kino Roland, Zurich on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Manuel Fischer is a house and techno artist based in Switzerland, with 47 gigs o
 
 Alex Dallas, Prioleau, Abdel Hady
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manuelfischer/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manuelfischer/)*

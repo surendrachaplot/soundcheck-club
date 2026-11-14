@@ -1,6 +1,6 @@
 # Señor Harrys
 
-Señor Harrys is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Rastro Live Studio, Madrid on Sat, 14 Nov 2026.
+Señor Harrys is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Rastro Live Studio, Madrid on Sat, 14 Nov 2026.
 
 Señor Harrys is a house and electronica artist based in Spain, with 8 gigs on soundcheck across Madrid. Often billed alongside Espiritusanto, Gleezy and xacome. Next up: Rastro Live Studio, Madrid on Sat 14 Nov.
 
@@ -24,4 +24,4 @@ Señor Harrys is a house and electronica artist based in Spain, with 8 gigs on s
 
 Espiritusanto, Gleezy, xacome
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/senorharrys/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/senorharrys/)*

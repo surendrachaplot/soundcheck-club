@@ -1,6 +1,6 @@
 # Marea
 
-Marea is a EBM and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA, Ibiza on Fri, 5 Jan 2029.
+Marea is a EBM and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA, Ibiza on Fri, 5 Jan 2029.
 
 Marea is an ebm and techno artist based in Colombia, with 14 gigs on soundcheck across Barcelona, Bogotá, Ibiza and Medellin and 1 more. Often billed alongside Alonzo, Amel Amaru and Biometric Systems. Next up: TBA, Ibiza on Fri 5 Jan.
 
@@ -25,4 +25,4 @@ Marea is an ebm and techno artist based in Colombia, with 14 gigs on soundcheck 
 
 Alonzo, Amel Amaru, Biometric Systems
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marea/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marea/)*

@@ -1,8 +1,8 @@
 # britiimpeerium
 
-britiimpeerium is a Tech House and Pop artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Paavli Kultuurivabrik, Tallinn on Fri, 9 Apr 2027.
+britiimpeerium is a Tech House and Pop artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Paavli Kultuurivabrik, Tallinn on Fri, 9 Apr 2027.
 
-britiimpeerium is a tech house and pop artist, with 11 gigs on soundcheck across Tallinn. Often billed alongside Awakening, Dirt Vessel and Fake Versace. Next up: Paavli Kultuurivabrik, Tallinn on Fri 9 Apr.
+britiimpeerium is a tech house and pop artist based in Estonia, with 11 gigs on soundcheck across Tallinn. Often billed alongside Awakening, Dirt Vessel and Fake Versace. Next up: Paavli Kultuurivabrik, Tallinn on Fri 9 Apr.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ britiimpeerium is a tech house and pop artist, with 11 gigs on soundcheck across
 
 Awakening, Dirt Vessel, Fake Versace
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/britiimpeerium/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/britiimpeerium/)*

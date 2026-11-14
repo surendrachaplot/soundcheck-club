@@ -1,6 +1,6 @@
 # Priori
 
-Priori is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Stereo, Montreal on Sat, 5 Dec 2026.
+Priori is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Stereo, Montreal on Sat, 5 Dec 2026.
 
 Priori is a techno and house artist based in Canada, with 164 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Belgrade and 57 more. Often billed alongside Aurora Halal, Kia (AU) and DjRUM. Next up: Stereo, Montreal on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Priori is a techno and house artist based in Canada, with 164 gigs on soundcheck
 
 Aurora Halal, Kia (AU), DjRUM
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/priori/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/priori/)*

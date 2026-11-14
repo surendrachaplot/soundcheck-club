@@ -1,6 +1,6 @@
 # Solah
 
-Solah is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Le Brass, Brussels on Fri, 11 Dec 2026.
+Solah is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Le Brass, Brussels on Fri, 11 Dec 2026.
 
 Solah is a drum & bass and jungle artist based in United Kingdom, with 31 gigs on soundcheck across Amsterdam, Brighton, Bristol and Brussels and 10 more. Often billed alongside Whiney, Emma B and P Money. Next up: Le Brass, Brussels on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Solah is a drum & bass and jungle artist based in United Kingdom, with 31 gigs o
 
 Whiney, Emma B, P Money
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/solah/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/solah/)*

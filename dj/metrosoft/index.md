@@ -1,6 +1,6 @@
 # Metrosoft
 
-Metrosoft is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Renate, Berlin on Sat, 14 Nov 2026.
+Metrosoft is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Renate, Berlin on Sat, 14 Nov 2026.
 
 Metrosoft is a house and hip-hop artist based in Germany, with 6 gigs on soundcheck across Berlin. Often billed alongside sleeptwitch, Aysun and DJ CHICHI. Next up: Renate, Berlin on Sat 14 Nov.
 
@@ -22,4 +22,4 @@ Metrosoft is a house and hip-hop artist based in Germany, with 6 gigs on soundch
 
 sleeptwitch, Aysun, DJ CHICHI
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/metrosoft/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/metrosoft/)*

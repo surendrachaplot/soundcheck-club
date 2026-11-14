@@ -1,6 +1,6 @@
 # Donnerstag (1)
 
-Donnerstag (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Undisclosed Location, Arizona on Sat, 14 Nov 2026.
+Donnerstag (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Undisclosed Location, Arizona on Sat, 14 Nov 2026.
 
 Donnerstag is a techno and house artist based in United States of America, with 12 gigs on soundcheck across Amsterdam, Arizona, Berlin and Copenhagen and 5 more. Often billed alongside Juheun, Civil Servant and Michelle Sparks. Next up: TBA - Undisclosed Location, Arizona on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Donnerstag is a techno and house artist based in United States of America, with 
 
 Juheun, Civil Servant, Michelle Sparks
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/donnerstag-1/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/donnerstag-1/)*

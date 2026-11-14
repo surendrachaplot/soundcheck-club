@@ -1,6 +1,6 @@
 # Kasablanca
 
-Kasablanca is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Lion Super Club, Seoul on Fri, 27 Nov 2026.
+Kasablanca is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Lion Super Club, Seoul on Fri, 27 Nov 2026.
 
 Kasablanca is a techno and progressive house artist based in Canada, with 15 gigs on soundcheck across Barcelona, Berlin, Chicago and Copenhagen and 10 more. Often billed alongside Ben Böhmer, Lane 8 and Marten Lou. Next up: Lion Super Club, Seoul on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Kasablanca is a techno and progressive house artist based in Canada, with 15 gig
 
 Ben Böhmer, Lane 8, Marten Lou
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kasablanca/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kasablanca/)*

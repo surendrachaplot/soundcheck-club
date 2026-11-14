@@ -1,6 +1,6 @@
 # LUBIMAYA
 
-LUBIMAYA is a electronic artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Dusty Munky Bar, Cyprus on Sat, 14 Nov 2026.
+LUBIMAYA is a electronic artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Dusty Munky Bar, Cyprus on Sat, 14 Nov 2026.
 
 LUBIMAYA is an electronic artist based in Cyprus, with 2 gigs on soundcheck across Cyprus. Often billed alongside African Stevenson, AnDe Trois and Anna Reusch. Next up: Dusty Munky Bar, Cyprus on Sat 14 Nov.
 
@@ -15,4 +15,4 @@ LUBIMAYA is an electronic artist based in Cyprus, with 2 gigs on soundcheck acro
 
 African Stevenson, AnDe Trois, Anna Reusch
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lubimaya/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lubimaya/)*

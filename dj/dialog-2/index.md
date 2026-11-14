@@ -1,6 +1,6 @@
 # Dialog (2)
 
-Dialog (2) is a electronic artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 28 Nov 2026.
+Dialog (2) is a electronic artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 28 Nov 2026.
 
 Dialog is an electronic artist based in Finland, with 2 gigs on soundcheck across Amsterdam and Berlin. Often billed alongside Abajour, Aöcram and Budino. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 28 Nov.
 
@@ -15,4 +15,4 @@ Dialog is an electronic artist based in Finland, with 2 gigs on soundcheck acros
 
 Abajour, Aöcram, Budino
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dialog-2/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dialog-2/)*

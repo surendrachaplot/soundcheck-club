@@ -1,6 +1,6 @@
 # Leese (1)
 
-Leese (1) is a Electronica and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Ghent (multi-venue), Ghent on Fri, 27 Nov 2026.
+Leese (1) is a Electronica and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Ghent (multi-venue), Ghent on Fri, 27 Nov 2026.
 
 Leese is an electronica and bass artist based in Belgium, with 24 gigs on soundcheck across Berlin, Brussels, Ghent and Paris and 1 more. Often billed alongside Erykah, Le Motel and freq444. Next up: TBA - Ghent (multi-venue), Ghent on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Leese is an electronica and bass artist based in Belgium, with 24 gigs on soundc
 
 Erykah, Le Motel, freq444
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leese-1/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leese-1/)*

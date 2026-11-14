@@ -1,6 +1,6 @@
 # MZKN
 
-MZKN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Aoyama Hachi, Tokyo on Sun, 6 Dec 2026.
+MZKN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Aoyama Hachi, Tokyo on Sun, 6 Dec 2026.
 
 MZKN is a techno and house artist based in Japan, with 10 gigs on soundcheck across Tokyo. Often billed alongside SIGNAL (JP), Torus and ki. Next up: Aoyama Hachi, Tokyo on Sun 6 Dec.
 
@@ -25,4 +25,4 @@ MZKN is a techno and house artist based in Japan, with 10 gigs on soundcheck acr
 
 SIGNAL (JP), Torus, ki (43)
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mzkn/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mzkn/)*

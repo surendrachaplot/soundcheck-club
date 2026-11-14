@@ -1,6 +1,6 @@
 # Leo Christopher
 
-Leo Christopher is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Oculist, Brighton on Sat, 28 Nov 2026.
+Leo Christopher is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Oculist, Brighton on Sat, 28 Nov 2026.
 
 Leo Christopher is a house and deep house artist based in United Kingdom, with 19 gigs on soundcheck across Brighton and London. Often billed alongside Obester, Jake Nash and Oliver Molina. Next up: Oculist, Brighton on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Leo Christopher is a house and deep house artist based in United Kingdom, with 1
 
 Obester, Jake Nash, Oliver Molina
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leochristopher/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leochristopher/)*

@@ -1,8 +1,8 @@
 # Vladimir Ivkovic
 
-Vladimir Ivkovic is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Burger Disco Club, Athens on Sun, 15 Nov 2026.
+Vladimir Ivkovic is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Burger Disco Club, Athens on Sun, 15 Nov 2026.
 
-Vladimir Ivkovic is a techno and house artist based in Germany, with 243 gigs on soundcheck across Amsterdam, Athens, Auckland and Bali and 80 more. Often billed alongside Lena Willikens, Ivan Smagghe and Jane Fitz. Next up: Burger Disco Club, Athens on Sun 15 Nov.
+Vladimir Ivkovic is a techno and house artist based in Germany, with 244 gigs on soundcheck across Amsterdam, Athens, Auckland and Bali and 81 more. Often billed alongside Lena Willikens, Ivan Smagghe and Jane Fitz. Next up: Burger Disco Club, Athens on Sun 15 Nov.
 
 ## Upcoming shows
 
@@ -15,11 +15,11 @@ Vladimir Ivkovic is a techno and house artist based in Germany, with 243 gigs on
 | Sun, 6 Dec 2026 | TBA | Berlin |
 | Sat, 12 Dec 2026 | Robert Johnson | Hesse |
 | Sat, 19 Dec 2026 | Fuse | Brussels |
+| Thu, 31 Dec 2026 | Open Ground | Wuppertal |
 | Sat, 16 Jan 2027 | The White Hotel | Manchester |
 | Fri, 22 Jan 2027 | The Golden Lion | Manchester |
 | Tue, 1 Jun 2027 | TBA - Casale dell'arte - Catania  | Sicily |
 | Thu, 19 Aug 2027 | The Garden Tisno | Croatia |
-| Thu, 26 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Vladimir Ivkovic is a techno and house artist based in Germany, with 243 gigs on
 
 Lena Willikens, Ivan Smagghe, Jane Fitz
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vladimirivkovic/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vladimirivkovic/)*

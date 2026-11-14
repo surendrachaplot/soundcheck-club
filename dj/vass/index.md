@@ -1,6 +1,6 @@
 # Vass
 
-Vass is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA -  SECRET LOCATION, Rome on Sat, 14 Nov 2026.
+Vass is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA -  SECRET LOCATION, Rome on Sat, 14 Nov 2026.
 
 Vass is a techno and electro artist based in United Kingdom, with 120 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 38 more. Often billed alongside Unai Trotti, Junki Inoue and Z@p. Next up: TBA -  SECRET LOCATION, Rome on Sat 14 Nov.
 
@@ -28,4 +28,4 @@ Vass is a techno and electro artist based in United Kingdom, with 120 gigs on so
 
 Unai Trotti, Junki Inoue, Z@p
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vass/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vass/)*

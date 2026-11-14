@@ -1,6 +1,6 @@
 # Jarreau Vandal
 
-Jarreau Vandal is a Hip-Hop and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Skatecafe, Amsterdam on Fri, 20 Nov 2026.
+Jarreau Vandal is a Hip-Hop and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Skatecafe, Amsterdam on Fri, 20 Nov 2026.
 
 Jarreau Vandal is a hip-hop and house artist based in Netherlands, with 80 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 31 more. Often billed alongside LAMSI, p-rallel and Conducta. Next up: Skatecafe, Amsterdam on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Jarreau Vandal is a hip-hop and house artist based in Netherlands, with 80 gigs 
 
 LAMSI, p-rallel, Conducta
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jarreauvandal/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jarreauvandal/)*

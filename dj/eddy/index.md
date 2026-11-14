@@ -1,14 +1,15 @@
 # EDDY
 
-EDDY is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at K39, Frankfurt on Sat, 21 Nov 2026.
+EDDY is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at K39, Frankfurt on Sat, 21 Nov 2026.
 
-EDDY is a techno and trance artist based in Mongolia, with 6 gigs on soundcheck across Frankfurt, Mexico City and Seoul. Often billed alongside PAU, Polytoxic and A.T.E.K. Next up: K39, Frankfurt on Sat 21 Nov.
+EDDY is a techno and trance artist based in Mongolia, with 7 gigs on soundcheck across Frankfurt, Mexico City, Seoul and Tokyo. Often billed alongside PAU, Polytoxic and A.T.E.K. Next up: K39, Frankfurt on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | K39 | Frankfurt |
+| Tue, 19 Jan 2027 | DJ Bar Bridge | Tokyo |
 
 ## Recently played
 
@@ -22,4 +23,4 @@ EDDY is a techno and trance artist based in Mongolia, with 6 gigs on soundcheck 
 
 PAU (6), Polytoxic, A.T.E.K
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eddy/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eddy/)*

@@ -1,6 +1,6 @@
 # Bodhi
 
-Bodhi is a Garage and UK Funky artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Yellow House, Amsterdam on Sat, 14 Nov 2026.
+Bodhi is a Garage and UK Funky artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Yellow House, Amsterdam on Sat, 14 Nov 2026.
 
 Bodhi is a garage and uk funky artist based in United Kingdom, with 8 gigs on soundcheck across Amsterdam, Bristol, Chicago and London. Often billed alongside George Daniel, Oscar Farrell and RAYBAY. Next up: Yellow House, Amsterdam on Sat 14 Nov.
 
@@ -24,4 +24,4 @@ Bodhi is a garage and uk funky artist based in United Kingdom, with 8 gigs on so
 
 George Daniel, Oscar Farrell, RAYBAY
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bodhi/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bodhi/)*

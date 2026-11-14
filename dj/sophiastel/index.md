@@ -1,6 +1,6 @@
 # Sophia Stel
 
-Sophia Stel is a Electronica and Pop artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Autódromo de Interlagos, Sao Paulo on Sat, 5 Dec 2026.
+Sophia Stel is a Electronica and Pop artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Autódromo de Interlagos, Sao Paulo on Sat, 5 Dec 2026.
 
 Sophia Stel is an electronica and pop artist based in Canada, with 15 gigs on soundcheck across Berlin, London, Los Angeles and Melbourne and 3 more. Often billed alongside Hannah Diamond, CITYTRONIX and GFOTY. Next up: Autódromo de Interlagos, Sao Paulo on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Sophia Stel is an electronica and pop artist based in Canada, with 15 gigs on so
 
 Hannah Diamond, CITYTRONIX, GFOTY
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sophiastel/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sophiastel/)*

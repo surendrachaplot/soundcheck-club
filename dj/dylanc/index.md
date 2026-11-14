@@ -1,6 +1,6 @@
 # Dylan C
 
-Dylan C is a Bass and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Xchc, Christchurch on Sat, 5 Dec 2026.
+Dylan C is a Bass and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Xchc, Christchurch on Sat, 5 Dec 2026.
 
 Dylan C is a bass and drum & bass artist based in New Zealand, with 25 gigs on soundcheck across Auckland, Christchurch and North Island. Often billed alongside Mia Kober, Paige Julia and DirdyGerdi. Next up: Xchc, Christchurch on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Dylan C is a bass and drum & bass artist based in New Zealand, with 25 gigs on s
 
 Mia Kober, Paige Julia, DirdyGerdi
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dylanc/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dylanc/)*

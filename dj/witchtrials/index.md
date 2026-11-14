@@ -1,6 +1,6 @@
 # Witch Trials
 
-Witch Trials is a House and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Paloma, Berlin on Sat, 5 Dec 2026.
+Witch Trials is a House and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Paloma, Berlin on Sat, 5 Dec 2026.
 
 Witch Trials is a house and dub techno artist based in Ireland, with 9 gigs on soundcheck across Berlin and London. Often billed alongside Sub Basics, Juhani Oivo and Anna Kost. Next up: Paloma, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Witch Trials is a house and dub techno artist based in Ireland, with 9 gigs on s
 
 Sub Basics, Juhani Oivo, Anna Kost
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/witchtrials/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/witchtrials/)*

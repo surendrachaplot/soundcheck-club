@@ -1,6 +1,6 @@
 # Kater: SHINING IN THE DARK at Kater
 
-Kater: SHINING IN THE DARK on Thu 31 Dec, Berlin. 36 artists: Alex Neri, An On Bast, André Dancekowski and Britta Arnold and 32 more. Techno and House. See the line-up on soundcheck.
+Kater: SHINING IN THE DARK on Thu 31 Dec, Berlin. 37 artists: Alex Neri, An On Bast, André Dancekowski and Britta Arnold and 33 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -40,6 +40,7 @@ Kater: SHINING IN THE DARK on Thu 31 Dec, Berlin. 36 artists: Alex Neri, An On B
 - plattenpunani
 - Roe Deers
 - Rosa Red
+- Schnurrsen
 - schönfeld
 - Sven Dohse
 - Tal Fussman

@@ -1,6 +1,6 @@
 # Elektro Guzzi
 
-Elektro Guzzi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at WUK, Vienna on Sat, 5 Dec 2026.
+Elektro Guzzi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at WUK, Vienna on Sat, 5 Dec 2026.
 
 Elektro Guzzi is a techno and house artist based in Austria, with 11 gigs on soundcheck across Berlin, Dresden, Hamburg and Ljubljana and 3 more. Often billed alongside Altroy, Ambient Animal and Anushka Chkheidze. Next up: WUK, Vienna on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Elektro Guzzi is a techno and house artist based in Austria, with 11 gigs on sou
 
 Altroy, Ambient Animal, Anushka Chkheidze
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elektroguzzi/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elektroguzzi/)*

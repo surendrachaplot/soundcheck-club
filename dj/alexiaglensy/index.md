@@ -1,14 +1,13 @@
 # Alexia Glensy
 
-Alexia Glensy is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Coil, Melbourne on Fri, 13 Nov 2026.
+Alexia Glensy is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at The Loft, Manchester on Fri, 20 Nov 2026.
 
-Alexia Glensy is a house and techno artist based in Brazil, with 180 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 39 more. Often billed alongside Alex Dima, Gabbs and Cap. Next up: Coil, Melbourne on Fri 13 Nov.
+Alexia Glensy is a house and techno artist based in Brazil, with 180 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 39 more. Often billed alongside Alex Dima, Gabbs and Cap. Next up: The Loft, Manchester on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Coil | Melbourne |
 | Fri, 20 Nov 2026 | The Loft | Manchester |
 | Sat, 28 Nov 2026 | BRET | Amsterdam |
 | Sat, 28 Nov 2026 | BRET | Amsterdam |
@@ -17,6 +16,7 @@ Alexia Glensy is a house and techno artist based in Brazil, with 180 gigs on sou
 
 ## Recently played
 
+- Coil, Melbourne · Fri, 13 Nov 2026
 - Dual, Bangkok · Sat, 7 Nov 2026
 - Hertz, Seoul · Fri, 6 Nov 2026
 - Orlagh House, Dublin · Fri, 30 Oct 2026
@@ -24,10 +24,9 @@ Alexia Glensy is a house and techno artist based in Brazil, with 180 gigs on sou
 - TBA, Amsterdam · Sun, 25 Oct 2026
 - Klaproos, Amsterdam · Fri, 23 Oct 2026
 - Arca, Milan · Sat, 17 Oct 2026
-- Les Enfants Brillants, Barcelona · Sat, 3 Oct 2026
 
 ## Shares bills with
 
 Alex Dima, Gabbs, Cap
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexiaglensy/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexiaglensy/)*

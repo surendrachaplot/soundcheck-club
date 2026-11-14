@@ -1,6 +1,6 @@
 # IVAN POSEIDON
 
-IVAN POSEIDON is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 17 Dec 2026.
+IVAN POSEIDON is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 17 Dec 2026.
 
 IVAN POSEIDON is a house and minimal artist based in Argentina, with 88 gigs on soundcheck across Barcelona and Berlin. Often billed alongside Lisandro Mustapic, Kid Moss and Aka theo. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu 17 Dec.
 
@@ -25,4 +25,4 @@ IVAN POSEIDON is a house and minimal artist based in Argentina, with 88 gigs on 
 
 Lisandro Mustapic, Kid Moss, Aka theo
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ivanposeidon/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ivanposeidon/)*

@@ -1,14 +1,15 @@
 # Miss Jay (RO)
 
-Miss Jay (RO) is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at La Station - Gare des Mines, Paris on Sat, 28 Nov 2026.
+Miss Jay (RO) is a Bass and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at La Station - Gare des Mines, Paris on Sat, 28 Nov 2026.
 
-Miss Jay (RO) is a club and bass artist based in Romania, with 47 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 19 more. Often billed alongside Sukubratz, BRAVA and Mareeo. Next up: La Station - Gare des Mines, Paris on Sat 28 Nov.
+Miss Jay (RO) is a bass and club artist based in Romania, with 48 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 20 more. Often billed alongside Sukubratz, TTristana and BRAVA. Next up: La Station - Gare des Mines, Paris on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | La Station - Gare des Mines | Paris |
+| Fri, 4 Dec 2026 | Le Makeda | Marseille |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Miss Jay (RO) is a club and bass artist based in Romania, with 47 gigs on soundc
 
 ## Shares bills with
 
-Sukubratz, BRAVA, Mareeo
+Sukubratz, TTristana, BRAVA
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/missjay-RO/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/missjay-RO/)*

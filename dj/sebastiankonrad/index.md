@@ -1,20 +1,20 @@
 # Sebastian Konrad
 
-Sebastian Konrad is a House and Afro House artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Secret Industrial Location (Berlin), Berlin on Fri, 13 Nov 2026.
+Sebastian Konrad is a House and Afro House artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Shelter Amsterdam, Amsterdam on Sat, 21 Nov 2026.
 
-Sebastian Konrad is a house and afro house artist based in Switzerland, with 60 gigs on soundcheck across Amsterdam, Athens, Basel and Berlin and 10 more. Often billed alongside Michel Sacher, Read the News and Ronny Grauer. Next up: TBA - Secret Industrial Location (Berlin), Berlin on Fri 13 Nov.
+Sebastian Konrad is a house and afro house artist based in Switzerland, with 60 gigs on soundcheck across Amsterdam, Athens, Basel and Berlin and 10 more. Often billed alongside Michel Sacher, Read the News and Ronny Grauer. Next up: Shelter Amsterdam, Amsterdam on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | TBA - Secret Industrial Location (Berlin) | Berlin |
 | Sat, 21 Nov 2026 | Shelter Amsterdam | Amsterdam |
 | Fri, 27 Nov 2026 | Nordstern | Basel |
 | Sun, 29 Nov 2026 | President Hotel | Athens |
 
 ## Recently played
 
+- TBA - Secret Industrial Location (Berlin), Berlin · Fri, 13 Nov 2026
 - One Marylebone, London · Thu, 29 Oct 2026
 - Thuishaven, Amsterdam · Sat, 24 Oct 2026
 - Nordstern, Basel · Sat, 22 Aug 2026
@@ -22,10 +22,9 @@ Sebastian Konrad is a house and afro house artist based in Switzerland, with 60 
 - Zürich - Various Venues, Zurich · Mon, 3 Aug 2026
 - Zürich - Various Venues, Zurich · Mon, 3 Aug 2026
 - Kiesgrube, Düsseldorf · Sat, 1 Aug 2026
-- Praterinsel, Munich · Sat, 25 Jul 2026
 
 ## Shares bills with
 
 Michel Sacher, Read the News, Ronny Grauer
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastiankonrad/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastiankonrad/)*

@@ -1,6 +1,6 @@
 # Austen van der Bleek
 
-Austen van der Bleek is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Bar Mezzo, Tampa Bay on Sat, 14 Nov 2026.
+Austen van der Bleek is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Bar Mezzo, Tampa Bay on Sat, 14 Nov 2026.
 
 Austen van der Bleek is a house and deep house artist based in United States of America, with 108 gigs on soundcheck across Atlanta, Detroit, Jacksonville and Miami and 3 more. Often billed alongside Jask, Brian Busto and Christian Parchuke. Next up: Bar Mezzo, Tampa Bay on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Austen van der Bleek is a house and deep house artist based in United States of 
 
 Jask, Brian Busto, Christian Parchuke
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/austenvanderbleek/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/austenvanderbleek/)*

@@ -1,6 +1,6 @@
 # Substation
 
-Substation is a music venue in Seattle with 18 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "AEREA" on Sat, 14 Nov 2026.
+Substation is a music venue in Seattle with 18 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "AEREA" on Sat, 14 Nov 2026.
 
 Substation is a music venue in Seattle listed on soundcheck. 18 upcoming gigs, with line-ups including 1tbsp, AEREA, Buunshin and Josh Baker and 1 more. See dates, start times and who's playing. 645 NW 45th St, Seattle WA 98107.
 
@@ -23,4 +23,4 @@ Substation is a music venue in Seattle listed on soundcheck. 18 upcoming gigs, w
 
 645 NW 45th St, Seattle WA 98107, Seattle
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/substation/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/substation/)*

@@ -1,6 +1,6 @@
 # Gemini
 
-Gemini is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Ministry Of Sound, London on Sat, 26 Dec 2026.
+Gemini is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Ministry Of Sound, London on Sat, 26 Dec 2026.
 
 Gemini is a techno and house artist, with 37 gigs on soundcheck across Berlin, Bristol, Chicago and Cologne and 4 more. Often billed alongside Supa D, Pioneer and Antonio Pascal. Next up: Ministry Of Sound, London on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Gemini is a techno and house artist, with 37 gigs on soundcheck across Berlin, B
 
 Supa D, Pioneer, Antonio Pascal
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gemini/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gemini/)*

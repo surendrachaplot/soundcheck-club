@@ -1,6 +1,6 @@
 # Trevor Fung
 
-Trevor Fung is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Timber Loft, London on Sun, 6 Dec 2026.
+Trevor Fung is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at The Timber Loft, London on Sun, 6 Dec 2026.
 
 Trevor Fung is a house and balearic artist based in United Kingdom, with 20 gigs on soundcheck across Brighton, Bristol, Edinburgh and Glasgow and 4 more. Often billed alongside Alex Savvides, DJ Ron and Grooverider. Next up: The Timber Loft, London on Sun 6 Dec.
 
@@ -25,4 +25,4 @@ Trevor Fung is a house and balearic artist based in United Kingdom, with 20 gigs
 
 Alex Savvides, DJ Ron, Grooverider
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trevorfung/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trevorfung/)*

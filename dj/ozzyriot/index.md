@@ -1,6 +1,6 @@
 # Ozzy Riot
 
-Ozzy Riot is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Tanzhaus West, Frankfurt on Sat, 12 Dec 2026.
+Ozzy Riot is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Tanzhaus West, Frankfurt on Sat, 12 Dec 2026.
 
 Ozzy Riot is a techno and house artist based in Germany, with 37 gigs on soundcheck across Amsterdam, Berlin, Frankfurt and Hamburg and 2 more. Often billed alongside Mark Stanton, Belocca and Flo Circus. Next up: Tanzhaus West, Frankfurt on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Ozzy Riot is a techno and house artist based in Germany, with 37 gigs on soundch
 
 Mark Stanton, Belocca, Flo Circus
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ozzyriot/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ozzyriot/)*

@@ -1,6 +1,6 @@
 # Petit CAB
 
-Petit CAB is a music venue in Marseille with 8 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Kendal [All Night Long] @ Petit Cab" on Sat, 14 Nov 2026.
+Petit CAB is a music venue in Marseille with 8 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Kendal [All Night Long] @ Petit Cab" on Sat, 14 Nov 2026.
 
 Petit CAB is a music venue in Marseille listed on soundcheck. 8 upcoming gigs, with line-ups including Chloé, Dj Schnake, Kendal and Mad Rey and 2 more. See dates, start times and who's playing. 41 rue Jobin, 13003 MARSEILLE.
 
@@ -21,4 +21,4 @@ Petit CAB is a music venue in Marseille listed on soundcheck. 8 upcoming gigs, w
 
 41 rue Jobin, 13003 MARSEILLE, Marseille
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/petit-cab/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/petit-cab/)*

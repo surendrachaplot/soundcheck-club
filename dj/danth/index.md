@@ -1,6 +1,6 @@
 # Danth
 
-Danth is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at LAY Beach Club, Bangkok on Wed, 9 Dec 2026.
+Danth is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at LAY Beach Club, Bangkok on Wed, 9 Dec 2026.
 
 Danth is an electronic artist, with 9 gigs on soundcheck across Bangkok and Cologne. Often billed alongside Alex Martin, 1991 and A Little Sound. Next up: LAY Beach Club, Bangkok on Wed 9 Dec.
 
@@ -25,4 +25,4 @@ Danth is an electronic artist, with 9 gigs on soundcheck across Bangkok and Colo
 
 Alex Martin, 1991, A Little Sound
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danth/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danth/)*

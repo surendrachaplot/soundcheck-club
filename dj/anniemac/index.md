@@ -1,6 +1,6 @@
 # Annie Mac
 
-Annie Mac is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Centre Point, Dublin on Fri, 5 Feb 2027.
+Annie Mac is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Centre Point, Dublin on Fri, 5 Feb 2027.
 
 Annie Mac is a house and techno artist based in United Kingdom, with 33 gigs on soundcheck across Belfast, Cardiff, Dublin and Glasgow and 6 more. Often billed alongside DJ Paulette, Gina Breeze and Honey Dijon. Next up: Centre Point, Dublin on Fri 5 Feb.
 
@@ -27,4 +27,4 @@ Annie Mac is a house and techno artist based in United Kingdom, with 33 gigs on 
 
 DJ Paulette, Gina Breeze, Honey Dijon
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anniemac/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anniemac/)*

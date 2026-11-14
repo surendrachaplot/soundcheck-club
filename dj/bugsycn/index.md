@@ -1,13 +1,14 @@
 # Bugsy(CN)
 
-Bugsy(CN) is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Dual, Bangkok on Fri, 20 Nov 2026.
+Bugsy(CN) is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Bar Temp., Bangkok on Thu, 19 Nov 2026.
 
-Bugsy(CN) is a house and club artist based in China, with 8 gigs on soundcheck across Bangkok, Chengdu, London and Seoul and 1 more. Often billed alongside Amor Satyr, Brent Burns and CRL. Next up: Dual, Bangkok on Fri 20 Nov.
+Bugsy(CN) is a house and club artist based in China, with 9 gigs on soundcheck across Bangkok, Chengdu, London and Seoul and 1 more. Often billed alongside CicE, Karmasub and Amor Satyr. Next up: Bar Temp., Bangkok on Thu 19 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 19 Nov 2026 | Bar Temp. | Bangkok |
 | Fri, 20 Nov 2026 | Dual | Bangkok |
 
 ## Recently played
@@ -22,6 +23,6 @@ Bugsy(CN) is a house and club artist based in China, with 8 gigs on soundcheck a
 
 ## Shares bills with
 
-Amor Satyr, Brent Burns, CRL (1)
+CicE, Karmasub, Amor Satyr
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bugsycn/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bugsycn/)*

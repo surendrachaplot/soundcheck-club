@@ -1,6 +1,6 @@
 # GROOVEBABY
 
-GROOVEBABY is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Vault Perth, Perth on Sat, 14 Nov 2026.
+GROOVEBABY is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at The Vault Perth, Perth on Sat, 14 Nov 2026.
 
 GROOVEBABY is a techno and club artist based in Australia, with 13 gigs on soundcheck across Adelaide, Melbourne and Perth. Often billed alongside BANO (AU), Dancespace and CITIZEN1. Next up: The Vault Perth, Perth on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ GROOVEBABY is a techno and club artist based in Australia, with 13 gigs on sound
 
 BANO (AU), Dancespace, CITIZEN1
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/groovebaby/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/groovebaby/)*

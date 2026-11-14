@@ -1,6 +1,6 @@
 # Tifra
 
-Tifra is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Jolene, Copenhagen on Fri, 27 Nov 2026.
+Tifra is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Jolene, Copenhagen on Fri, 27 Nov 2026.
 
 Tifra is a house and techno artist based in Netherlands, with 23 gigs on soundcheck across Amsterdam, Copenhagen, Lisbon and Paris and 1 more. Often billed alongside Benny Rodrigues, Boris Coelman and Kyra Khaldi. Next up: Jolene, Copenhagen on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Tifra is a house and techno artist based in Netherlands, with 23 gigs on soundch
 
 Benny Rodrigues, Boris Coelman, Kyra Khaldi
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tifra/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tifra/)*

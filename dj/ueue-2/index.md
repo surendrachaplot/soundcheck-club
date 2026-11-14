@@ -1,6 +1,6 @@
 # ueue (2)
 
-ueue (2) is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Mon, 30 Nov 2026.
+ueue (2) is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Mon, 30 Nov 2026.
 
 ueue is a house and disco artist based in Japan, with 35 gigs on soundcheck across Osaka and Tokyo. Often billed alongside Kairi Komoda, The Library and Kobashi Mitsuki. Next up: DJ Bar Bridge Shinjuku, Tokyo on Mon 30 Nov.
 
@@ -25,4 +25,4 @@ ueue is a house and disco artist based in Japan, with 35 gigs on soundcheck acro
 
 Kairi Komoda, The Library, Kobashi Mitsuki
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ueue-2/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ueue-2/)*

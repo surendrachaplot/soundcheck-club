@@ -1,14 +1,15 @@
 # BrettHit
 
-BrettHit is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at M-BIA, Berlin on Fri, 11 Dec 2026.
+BrettHit is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at M-BIA, Berlin on Fri, 11 Dec 2026.
 
-BrettHit is a techno and industrial artist based in Germany, with 4 gigs on soundcheck across Berlin and Düsseldorf. Often billed alongside Donnerfotz HT, Fernanda Martins and LISA LOCA. Next up: M-BIA, Berlin on Fri 11 Dec.
+BrettHit is a techno and industrial artist based in Germany, with 5 gigs on soundcheck across Berlin and Düsseldorf. Often billed alongside Donnerfotz HT, Fernanda Martins and LISA LOCA. Next up: M-BIA, Berlin on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Dec 2026 | M-BIA | Berlin |
+| Fri, 18 Dec 2026 | R25 Kulturschlachthof | Düsseldorf |
 
 ## Recently played
 
@@ -20,4 +21,4 @@ BrettHit is a techno and industrial artist based in Germany, with 4 gigs on soun
 
 Donnerfotz HT, Fernanda Martins, LISA LOCA
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bretthit/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bretthit/)*

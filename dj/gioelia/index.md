@@ -1,6 +1,6 @@
 # Gio Elia
 
-Gio Elia is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Jolene Downtown Miami, Miami on Sat, 28 Nov 2026.
+Gio Elia is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Jolene Downtown Miami, Miami on Sat, 28 Nov 2026.
 
 Gio Elia is a techno and house artist based in United States of America, with 37 gigs on soundcheck across Berlin, Mexico City, Miami and Munich and 3 more. Often billed alongside True Vine, Danny Daze and Bort. Next up: Jolene Downtown Miami, Miami on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Gio Elia is a techno and house artist based in United States of America, with 37
 
 True Vine, Danny Daze, Bort
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gioelia/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gioelia/)*

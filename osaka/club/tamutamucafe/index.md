@@ -1,6 +1,6 @@
 # Tamutamucafe
 
-Tamutamucafe is a music venue in Osaka with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Cultural Echo Extra Edition 艶歌" on Sat, 14 Nov 2026.
+Tamutamucafe is a music venue in Osaka with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Cultural Echo Extra Edition 艶歌" on Sat, 14 Nov 2026.
 
 Tamutamucafe is a music venue in Osaka listed on soundcheck. 4 upcoming gigs. See dates, start times and who's playing. 2-18-6 Nipponbashi, Chuo-ku, Osaka-shi, Osaka, 542-0073 Japan.
 
@@ -17,4 +17,4 @@ Tamutamucafe is a music venue in Osaka listed on soundcheck. 4 upcoming gigs. Se
 
 2-18-6 Nipponbashi, Chuo-ku, Osaka-shi, Osaka, 542-0073 Japan, Osaka
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/tamutamucafe/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/tamutamucafe/)*

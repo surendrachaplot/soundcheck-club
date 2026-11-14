@@ -1,6 +1,6 @@
 # FURIA MISTICA
 
-FURIA MISTICA is a Hip-Hop and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at NUMBER 90 LONDON, London on Fri, 27 Nov 2026.
+FURIA MISTICA is a Hip-Hop and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at NUMBER 90 LONDON, London on Fri, 27 Nov 2026.
 
 FURIA MISTICA is a hip-hop and baile funk artist, with 7 gigs on soundcheck across Berlin, London, Milan and Rome. Often billed alongside Akua, Anti Ribeiro and Atoloi. Next up: NUMBER 90 LONDON, London on Fri 27 Nov.
 
@@ -23,4 +23,4 @@ FURIA MISTICA is a hip-hop and baile funk artist, with 7 gigs on soundcheck acro
 
 Akua, Anti Ribeiro, Atoloi
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/furiamistica/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/furiamistica/)*

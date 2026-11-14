@@ -1,6 +1,6 @@
 # AIBA
 
-AIBA is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at WOMB, Tokyo on Sat, 21 Nov 2026.
+AIBA is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at WOMB, Tokyo on Sat, 21 Nov 2026.
 
 AIBA is a house and techno artist based in Japan, with 29 gigs on soundcheck across Tokyo. Often billed alongside Yamariki, DJ Emma and Satoshi Otsuki. Next up: WOMB, Tokyo on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ AIBA is a house and techno artist based in Japan, with 29 gigs on soundcheck acr
 
 Yamariki, DJ Emma, Satoshi Otsuki
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aiba/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aiba/)*

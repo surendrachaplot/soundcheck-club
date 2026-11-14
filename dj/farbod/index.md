@@ -1,6 +1,6 @@
 # Farbod
 
-Farbod is a Techno and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at FLUCC, Vienna on Sat, 14 Nov 2026.
+Farbod is a Techno and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at FLUCC, Vienna on Sat, 14 Nov 2026.
 
 Farbod is a techno and funk / soul artist based in Austria, with 54 gigs on soundcheck across Athens, Leipzig, Prague and San Francisco/Oakland and 1 more. Often billed alongside Arman Shadow, DJ Wolle and Rui de Janeiro. Next up: FLUCC, Vienna on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Farbod is a techno and funk / soul artist based in Austria, with 54 gigs on soun
 
 Arman Shadow, DJ Wolle, Rui de Janeiro
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/farbod/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/farbod/)*

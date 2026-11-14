@@ -1,6 +1,6 @@
 # Overmono
 
-Overmono is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Poolen, Copenhagen on Thu, 26 Nov 2026.
+Overmono is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Poolen, Copenhagen on Thu, 26 Nov 2026.
 
 Overmono is a techno and house artist based in United Kingdom, with 112 gigs on soundcheck across Aberdeen, Amsterdam, Athens and Austin and 48 more. Often billed alongside KI/KI, Nia Archives and Ewan McVicar. Next up: Poolen, Copenhagen on Thu 26 Nov.
 
@@ -34,4 +34,4 @@ Overmono is a techno and house artist based in United Kingdom, with 112 gigs on 
 
 KI/KI, Nia Archives, Ewan McVicar
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/overmono/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/overmono/)*

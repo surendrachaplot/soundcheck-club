@@ -1,6 +1,6 @@
 # Ulf Herold
 
-Ulf Herold is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at SB – Space Between, Nürnberg on Sat, 28 Nov 2026.
+Ulf Herold is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at SB – Space Between, Nürnberg on Sat, 28 Nov 2026.
 
 Ulf Herold is an experimental and bass artist based in Germany, with 18 gigs on soundcheck across Berlin and Nürnberg. Often billed alongside kawasaki2000, Anna Butter and Andriy K.. Next up: SB – Space Between, Nürnberg on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Ulf Herold is an experimental and bass artist based in Germany, with 18 gigs on 
 
 kawasaki2000, Anna Butter, Andriy K.
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ulfherold/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ulfherold/)*

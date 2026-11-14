@@ -1,8 +1,8 @@
 # Anthony Linell
 
-Anthony Linell is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at DAX Club, South on Sat, 14 Nov 2026.
+Anthony Linell is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at DAX Club, South on Sat, 14 Nov 2026.
 
-Anthony Linell is a techno and house artist based in Sweden, with 108 gigs on soundcheck across Adelaide, Amsterdam, Athens and Barcelona and 30 more. Often billed alongside Evigt Mörker, Jin Mustafa and Neel. Next up: DAX Club, South on Sat 14 Nov.
+Anthony Linell is a techno and house artist based in Sweden, with 109 gigs on soundcheck across Adelaide, Amsterdam, Athens and Barcelona and 30 more. Often billed alongside Evigt Mörker, Jin Mustafa and Neel. Next up: DAX Club, South on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Anthony Linell is a techno and house artist based in Sweden, with 108 gigs on so
 | Sun, 15 Nov 2026 | Garage Noord | Amsterdam |
 | Fri, 27 Nov 2026 | public records | New York City |
 | Sat, 12 Dec 2026 | TBA - SALA MUV | Madrid |
+| Sat, 19 Dec 2026 | Under Bron | Stockholm |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Anthony Linell is a techno and house artist based in Sweden, with 108 gigs on so
 
 Evigt Mörker, Jin Mustafa, Neel
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonylinell/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonylinell/)*

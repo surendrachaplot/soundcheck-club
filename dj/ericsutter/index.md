@@ -1,6 +1,6 @@
 # Eric Sutter
 
-Eric Sutter is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA, Detroit on Sat, 21 Nov 2026.
+Eric Sutter is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA, Detroit on Sat, 21 Nov 2026.
 
 Eric Sutter is a house and deep house artist based in United States of America, with 16 gigs on soundcheck across Detroit. Often billed alongside Jeremy Poling, Nesto and Ryan Sadorus. Next up: TBA, Detroit on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Eric Sutter is a house and deep house artist based in United States of America, 
 
 Jeremy Poling, Nesto, Ryan Sadorus
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ericsutter/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ericsutter/)*

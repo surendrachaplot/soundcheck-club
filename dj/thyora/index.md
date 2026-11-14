@@ -1,6 +1,6 @@
 # THYORA
 
-THYORA is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Frieda's Büxe, Zurich on Fri, 27 Nov 2026.
+THYORA is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Frieda's Büxe, Zurich on Fri, 27 Nov 2026.
 
 THYORA is a techno and house artist based in Switzerland, with 25 gigs on soundcheck across Basel, Bern and Zurich. Often billed alongside Michel Sacher, Read the News and NTO. Next up: Frieda's Büxe, Zurich on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ THYORA is a techno and house artist based in Switzerland, with 25 gigs on soundc
 
 Michel Sacher, Read the News, NTO
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thyora/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thyora/)*

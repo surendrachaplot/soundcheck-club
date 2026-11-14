@@ -1,6 +1,6 @@
 # Tony Gallardo
 
-Tony Gallardo is a Latin Bass and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA, Mexico City on Sun, 22 Nov 2026.
+Tony Gallardo is a Latin Bass and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA, Mexico City on Sun, 22 Nov 2026.
 
 Tony Gallardo is a latin bass and club artist based in Mexico, with 12 gigs on soundcheck across Barcelona, Mexico City, Milan and Paris. Often billed alongside Alejandro Veneno, Loris and Rosa Pistola. Next up: TBA, Mexico City on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ Tony Gallardo is a latin bass and club artist based in Mexico, with 12 gigs on s
 
 Alejandro Veneno, Loris, Rosa Pistola
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tonygallardo/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tonygallardo/)*

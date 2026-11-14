@@ -1,6 +1,6 @@
 # Roulita
 
-Roulita is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Bunker, Turin on Fri, 27 Nov 2026.
+Roulita is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Bunker, Turin on Fri, 27 Nov 2026.
 
 Roulita is a techno and trance artist based in France, with 42 gigs on soundcheck across Berlin, Bordeaux, Brussels and Lyon and 5 more. Often billed alongside Adiel, Litoshka and Olivia Mendez. Next up: Bunker, Turin on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Roulita is a techno and trance artist based in France, with 42 gigs on soundchec
 
 Adiel, Litoshka, Olivia Mendez
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roulita/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roulita/)*

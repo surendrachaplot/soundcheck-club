@@ -1,6 +1,6 @@
 # DJ Tragik
 
-DJ Tragik is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Boat - MS Lex / Boat Terminal: Mercedes-Benz Arena, Berlin on Sat, 8 May 2027.
+DJ Tragik is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Boat - MS Lex / Boat Terminal: Mercedes-Benz Arena, Berlin on Sat, 8 May 2027.
 
 DJ Tragik is a techno and house artist based in Germany, with 11 gigs on soundcheck across Barcelona, Berlin, Budapest and Leipzig. Often billed alongside DJ Jordan, Dominik Eulberg and Moonbootica. Next up: Boat - MS Lex / Boat Terminal: Mercedes-Benz Arena, Berlin on Sat 8 May.
 
@@ -25,4 +25,4 @@ DJ Tragik is a techno and house artist based in Germany, with 11 gigs on soundch
 
 DJ Jordan, Dominik Eulberg, Moonbootica
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djtragik/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djtragik/)*

@@ -1,6 +1,6 @@
 # Bastard Love
 
-Bastard Love is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA, Mexico City on Sat, 14 Nov 2026.
+Bastard Love is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA, Mexico City on Sat, 14 Nov 2026.
 
 Bastard Love is a house and electro artist based in Mexico, with 80 gigs on soundcheck across Barcelona, Berlin, Calgary and Guadalajara and 5 more. Often billed alongside Mejia, Ossios and Oliverio Segura. Next up: TBA, Mexico City on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Bastard Love is a house and electro artist based in Mexico, with 80 gigs on soun
 
 Mejia, Ossios, Oliverio Segura
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bastardlove/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bastardlove/)*

@@ -1,6 +1,6 @@
 # Jens Balser
 
-Jens Balser is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Pracht, Frankfurt on Sat, 28 Nov 2026.
+Jens Balser is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Pracht, Frankfurt on Sat, 28 Nov 2026.
 
 Jens Balser is a techno and tech house artist based in Germany, with 13 gigs on soundcheck across Berlin and Frankfurt. Often billed alongside Thomas Schumacher, Grace Thompson and Pierre Morgan. Next up: Pracht, Frankfurt on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Jens Balser is a techno and tech house artist based in Germany, with 13 gigs on 
 
 Thomas Schumacher, Grace Thompson, Pierre Morgan
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jensbalser/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jensbalser/)*

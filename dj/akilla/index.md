@@ -1,6 +1,6 @@
 # Akilla
 
-Akilla is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Usquare, Brussels on Sat, 12 Dec 2026.
+Akilla is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Usquare, Brussels on Sat, 12 Dec 2026.
 
 Akilla is a house and disco artist based in Belgium, with 4 gigs on soundcheck across Brussels and Ghent. Often billed alongside Arian Zand, Bafana and Cröak. Next up: Usquare, Brussels on Sat 12 Dec.
 
@@ -20,4 +20,4 @@ Akilla is a house and disco artist based in Belgium, with 4 gigs on soundcheck a
 
 Arian Zand, Bafana, Cröak
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akilla/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akilla/)*

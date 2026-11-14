@@ -1,14 +1,13 @@
 # Eric Duncan
 
-Eric Duncan is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Angel Music Bar, Melbourne on Fri, 13 Nov 2026.
+Eric Duncan is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Revolver Upstairs, Melbourne on Sat, 14 Nov 2026.
 
-Eric Duncan is a house and disco artist based in United States of America, with 70 gigs on soundcheck across Athens, Bali, Bangkok and Beijing and 25 more. Often billed alongside FFAN, Craig Ouar and Monkey Timers. Next up: Angel Music Bar, Melbourne on Fri 13 Nov.
+Eric Duncan is a house and disco artist based in United States of America, with 70 gigs on soundcheck across Athens, Bali, Bangkok and Beijing and 25 more. Often billed alongside FFAN, Craig Ouar and Monkey Timers. Next up: Revolver Upstairs, Melbourne on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Angel Music Bar | Melbourne |
 | Sat, 14 Nov 2026 | Revolver Upstairs | Melbourne |
 | Sun, 22 Nov 2026 | Heaps Normal Health Club | Sydney |
 | Thu, 10 Dec 2026 | Outer Heaven | New York City |
@@ -16,6 +15,7 @@ Eric Duncan is a house and disco artist based in United States of America, with 
 
 ## Recently played
 
+- Angel Music Bar, Melbourne · Fri, 13 Nov 2026
 - TBA, Victoria · Fri, 6 Nov 2026
 - BAR Inc, Osaka · Fri, 30 Oct 2026
 - Kieth Flack, Kyushu · Sat, 24 Oct 2026
@@ -23,10 +23,9 @@ Eric Duncan is a house and disco artist based in United States of America, with 
 - Potato Head Beach Club, Bali · Fri, 16 Oct 2026
 - Yoshibar, Bangkok · Sat, 10 Oct 2026
 - Nyapi, Seoul · Sun, 4 Oct 2026
-- Siwilai Radical Club, Bangkok · Fri, 2 Oct 2026
 
 ## Shares bills with
 
 FFAN, Craig Ouar, Monkey Timers
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ericduncan/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ericduncan/)*

@@ -1,6 +1,6 @@
 # Jesse Maas
 
-Jesse Maas is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Chinese Laundry, Sydney on Fri, 20 Nov 2026.
+Jesse Maas is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Chinese Laundry, Sydney on Fri, 20 Nov 2026.
 
 Jesse Maas is a house and tech house artist based in Netherlands, with 80 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 13 more. Often billed alongside Benny Rodrigues, Boss Priester and Dennis Quin. Next up: Chinese Laundry, Sydney on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ Jesse Maas is a house and tech house artist based in Netherlands, with 80 gigs o
 
 Benny Rodrigues, Boss Priester, Dennis Quin
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jessemaas/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jessemaas/)*

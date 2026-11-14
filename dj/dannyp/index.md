@@ -1,6 +1,6 @@
 # Danny P
 
-Danny P is a Electronica and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Ministry Of Sound, London on Sat, 21 Nov 2026.
+Danny P is a Electronica and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Ministry Of Sound, London on Sat, 21 Nov 2026.
 
 Danny P is an electronica and house artist based in United Kingdom, with 7 gigs on soundcheck across Dublin, Ibiza, Liverpool and London and 1 more. Often billed alongside Caleb Laurenson, Robbie Doherty and 4am Kru. Next up: Ministry Of Sound, London on Sat 21 Nov.
 
@@ -23,4 +23,4 @@ Danny P is an electronica and house artist based in United Kingdom, with 7 gigs 
 
 Caleb Laurenson, Robbie Doherty, 4am Kru
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyp/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyp/)*

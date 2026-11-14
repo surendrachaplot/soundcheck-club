@@ -1,6 +1,6 @@
 # WEEKEND OCTAGON at SEL OCTAGON TOKYO
 
-WEEKEND OCTAGON at SEL OCTAGON TOKYO on Sat 14 Nov, Tokyo. 4 artists: kazuma, Lemi, Miki and WATARU. Electro and Club. See the line-up on soundcheck.
+WEEKEND OCTAGON at SEL OCTAGON TOKYO on Sat 14 Nov, Tokyo. 3 artists: kazuma, Lemi and WATARU. Electro and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,6 @@ WEEKEND OCTAGON at SEL OCTAGON TOKYO on Sat 14 Nov, Tokyo. 4 artists: kazuma, Le
 
 - kazuma
 - Lemi
-- Miki
 - WATARU
 
 *Source: [soundcheck](https://soundcheck.club/e/2584757-weekend-octagon-at-sel-octagon-tokyo/)*

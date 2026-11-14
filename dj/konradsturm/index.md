@@ -1,6 +1,6 @@
 # Konrad Sturm
 
-Konrad Sturm is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Ritter Butzke, Berlin on Fri, 20 Nov 2026.
+Konrad Sturm is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Ritter Butzke, Berlin on Fri, 20 Nov 2026.
 
 Konrad Sturm is a house and techno artist based in Germany, with 12 gigs on soundcheck across Berlin, Hamburg and Munich. Often billed alongside Lotte Ahoi, Alma Linda and Ciao 3lla. Next up: Ritter Butzke, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Konrad Sturm is a house and techno artist based in Germany, with 12 gigs on soun
 
 Lotte Ahoi, Alma Linda, Ciao 3lla
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/konradsturm/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/konradsturm/)*

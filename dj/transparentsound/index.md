@@ -1,6 +1,6 @@
 # Transparent Sound
 
-Transparent Sound is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Cadavra, Madrid on Fri, 11 Dec 2026.
+Transparent Sound is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Cadavra, Madrid on Fri, 11 Dec 2026.
 
 Transparent Sound is an electro and techno artist based in United Kingdom, with 30 gigs on soundcheck across Barcelona, Bergen, Berlin and Brighton and 11 more. Often billed alongside Nadia Struiwigh, Oren (IT) and Plant43. Next up: Cadavra, Madrid on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Transparent Sound is an electro and techno artist based in United Kingdom, with 
 
 Nadia Struiwigh, Oren (IT), Plant43
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/transparentsound/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/transparentsound/)*

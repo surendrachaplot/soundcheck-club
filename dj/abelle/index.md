@@ -1,18 +1,18 @@
 # Abelle
 
-Abelle is a Techno and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at DEX, Moscow on Fri, 13 Nov 2026.
+Abelle is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Fabula, Rest-of-russia on Sat, 5 Dec 2026.
 
-Abelle is a techno and minimal artist based in Russia, with 6 gigs on soundcheck across Istanbul, Lisbon, Moscow and Rest Of Russia and 1 more. Often billed alongside Sofia Rodina, Tíago and Wellew. Next up: DEX, Moscow on Fri 13 Nov.
+Abelle is a techno and minimal artist based in Russia, with 6 gigs on soundcheck across Istanbul, Lisbon, Moscow and Rest Of Russia and 1 more. Often billed alongside Sofia Rodina, Tíago and Wellew. Next up: TBA - Fabula, Rest Of Russia on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | DEX | Moscow |
 | Sat, 5 Dec 2026 | TBA - Fabula | Rest-of-russia |
 
 ## Recently played
 
+- DEX, Moscow · Fri, 13 Nov 2026
 - MIDNIGHT EAST, Tokyo · Fri, 18 Jul 2025
 - Ministerium Club, Lisbon · Fri, 17 May 2024
 - Suma Han, Istanbul · Sat, 21 Oct 2023
@@ -22,4 +22,4 @@ Abelle is a techno and minimal artist based in Russia, with 6 gigs on soundcheck
 
 Sofia Rodina, Tíago, Wellew
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/abelle/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/abelle/)*

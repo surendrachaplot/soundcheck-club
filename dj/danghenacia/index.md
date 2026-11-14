@@ -1,6 +1,6 @@
 # Dan Ghenacia
 
-Dan Ghenacia is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Les Enfants Brillants, Barcelona on Fri, 20 Nov 2026.
+Dan Ghenacia is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Les Enfants Brillants, Barcelona on Fri, 20 Nov 2026.
 
 Dan Ghenacia is a house and tech house artist based in France, with 164 gigs on soundcheck across Amsterdam, Athens, Atlanta and Bali and 42 more. Often billed alongside Shonky, Apollonia and Dyed Soundorom. Next up: Les Enfants Brillants, Barcelona on Fri 20 Nov.
 
@@ -29,4 +29,4 @@ Dan Ghenacia is a house and tech house artist based in France, with 164 gigs on 
 
 Shonky, Apollonia, Dyed Soundorom
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danghenacia/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danghenacia/)*

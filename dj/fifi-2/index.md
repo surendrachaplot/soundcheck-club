@@ -1,6 +1,6 @@
 # FIFI LA ROUX
 
-FIFI LA ROUX is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Sneaky Pete's, Edinburgh on Thu, 19 Nov 2026.
+FIFI LA ROUX is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Sneaky Pete's, Edinburgh on Thu, 19 Nov 2026.
 
 FIFI LA ROUX is a jungle and drum & bass artist based in United Kingdom, with 14 gigs on soundcheck across Berlin, Edinburgh, London and Los Angeles and 2 more. Often billed alongside Benwal, Chloé Caillet and DJ Fuckoff. Next up: Sneaky Pete's, Edinburgh on Thu 19 Nov.
 
@@ -26,4 +26,4 @@ FIFI LA ROUX is a jungle and drum & bass artist based in United Kingdom, with 14
 
 Benwal, Chloé Caillet, DJ Fuckoff
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fifi-2/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fifi-2/)*

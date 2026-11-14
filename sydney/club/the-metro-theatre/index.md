@@ -1,6 +1,6 @@
 # The Metro Theatre
 
-The Metro Theatre is a music venue in Sydney with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "FINND Presents: Scan" on Wed, 18 Nov 2026.
+The Metro Theatre is a music venue in Sydney with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "FINND Presents: Scan" on Wed, 18 Nov 2026.
 
 The Metro Theatre is a music venue in Sydney listed on soundcheck. 2 upcoming gigs, with line-ups including sim0ne. See dates, start times and who's playing. 624 George St; Sydney, NSW 2000; Australia.
 
@@ -15,4 +15,4 @@ The Metro Theatre is a music venue in Sydney listed on soundcheck. 2 upcoming gi
 
 624 George St; Sydney, NSW 2000; Australia, Sydney
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-metro-theatre/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-metro-theatre/)*

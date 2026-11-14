@@ -1,6 +1,6 @@
 # Cowper
 
-Cowper is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Soup, Manchester on Sat, 5 Dec 2026.
+Cowper is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Soup, Manchester on Sat, 5 Dec 2026.
 
 Cowper is a house and techno artist based in United Kingdom, with 30 gigs on soundcheck across Amsterdam, Berlin, Bristol and London and 3 more. Often billed alongside Lupini, Il Bosco and Kickin Pigeon. Next up: Soup, Manchester on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Cowper is a house and techno artist based in United Kingdom, with 30 gigs on sou
 
 Lupini, Il Bosco, Kickin Pigeon
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cowper/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cowper/)*

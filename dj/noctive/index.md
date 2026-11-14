@@ -1,6 +1,6 @@
 # Noctive
 
-Noctive is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Doggy Klœb, Malaga on Sat, 28 Nov 2026.
+Noctive is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Doggy Klœb, Malaga on Sat, 28 Nov 2026.
 
 Noctive is a techno and house artist based in Spain, with 19 gigs on soundcheck across Madrid and Malaga. Often billed alongside Reisender, Spingel and FLAKØ. Next up: Doggy Klœb, Malaga on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Noctive is a techno and house artist based in Spain, with 19 gigs on soundcheck 
 
 Reisender, Spingel, FLAKØ
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noctive/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noctive/)*

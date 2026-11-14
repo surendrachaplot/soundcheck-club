@@ -1,6 +1,6 @@
 # SOLSTICE:001 presents Exos LIVE [Mutual Rytm] at Umbala
 
-SOLSTICE:001 presents Exos LIVE [Mutual Rytm] at Umbala on Sat 21 Nov, Ho Chi Minh City. 3 artists: Erika Perales, Exos and Orange Cyanide. Techno. See the line-up on soundcheck.
+SOLSTICE:001 presents Exos LIVE [Mutual Rytm] at Umbala on Sat 21 Nov, Ho Chi Minh City. 3 artists: Erika Perales, Exos and Orange Cyanide. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

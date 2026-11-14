@@ -1,6 +1,6 @@
 # Timur Basha
 
-Timur Basha is a Minimal and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Mtkvarze, Tbilisi on Sat, 14 Nov 2026.
+Timur Basha is a Minimal and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Mtkvarze, Tbilisi on Sat, 14 Nov 2026.
 
 Timur Basha is a minimal and techno artist based in Ukraine, with 49 gigs on soundcheck across Bangkok, Barcelona, Berlin and Hamburg and 10 more. Often billed alongside Shakolin, Karine and Yone-Ko. Next up: Mtkvarze, Tbilisi on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Timur Basha is a minimal and techno artist based in Ukraine, with 49 gigs on sou
 
 Shakolin, Karine, Yone-Ko
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/timurbasha/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/timurbasha/)*

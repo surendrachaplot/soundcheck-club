@@ -1,8 +1,8 @@
 # Phone
 
-Phone is a New Wave and Afro Tech artist with 24 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Czech, Leipzig on Sat, 14 Nov 2026.
+Phone is a New Wave and Afro Tech artist with 32 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Czech, Leipzig on Sat, 14 Nov 2026.
 
-Phone is a new wave and afro tech artist based in Spain, with 46 gigs on soundcheck across Atlanta, Baltimore, Berlin and Birmingham and 25 more. Often billed alongside Is (AM), Cable and Balance. Next up: Czech, Leipzig on Sat 14 Nov.
+Phone is a new wave and afro tech artist based in Spain, with 54 gigs on soundcheck across Atlanta, Baltimore, Berlin and Birmingham and 30 more. Often billed alongside Is (AM), Cable and Balance. Next up: Czech, Leipzig on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Phone is a new wave and afro tech artist based in Spain, with 46 gigs on soundch
 
 Is (AM), Cable, Balance
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/phone/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/phone/)*

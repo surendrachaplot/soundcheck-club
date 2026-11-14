@@ -1,6 +1,6 @@
 # Stump Valley
 
-Stump Valley is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at w_sercu, Poznan on Fri, 20 Nov 2026.
+Stump Valley is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at w_sercu, Poznan on Fri, 20 Nov 2026.
 
 Stump Valley is a house and disco artist based in Germany, with 85 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 21 more. Often billed alongside Kapote, Sam Ruffillo and Max NRG Supply. Next up: w_sercu, Poznan on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Stump Valley is a house and disco artist based in Germany, with 85 gigs on sound
 
 Kapote, Sam Ruffillo, Max NRG Supply
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stumpvalley/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stumpvalley/)*

@@ -1,6 +1,6 @@
 # Futuro Tropicale
 
-Futuro Tropicale is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Tempio del Futuro Perduto, Milan on Sat, 21 Nov 2026.
+Futuro Tropicale is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Tempio del Futuro Perduto, Milan on Sat, 21 Nov 2026.
 
 Futuro Tropicale is a house and electronica artist based in Italy, with 57 gigs on soundcheck across Amsterdam, Berlin and Milan. Often billed alongside Lele Sacchi, Marthial and Dolce Potente. Next up: Tempio del Futuro Perduto, Milan on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Futuro Tropicale is a house and electronica artist based in Italy, with 57 gigs 
 
 Lele Sacchi, Marthial, Dolce Potente
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/futurotropicale-it/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/futurotropicale-it/)*

@@ -1,6 +1,6 @@
 # Zentralwäscherei
 
-Zentralwäscherei is a music venue in Zurich with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "ZW-FESTIVAL with HOLY TONGUE & ANGELFIGHTRRR" on Tue, 17 Nov 2026.
+Zentralwäscherei is a music venue in Zurich with 5 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "ZW-FESTIVAL with HOLY TONGUE & ANGELFIGHTRRR" on Tue, 17 Nov 2026.
 
 Zentralwäscherei is a music venue in Zurich listed on soundcheck. 5 upcoming gigs, with line-ups including mad miran, Mukuna, ohjeelo and Phrex and 1 more. See dates, start times and who's playing. Neue Hard 12, Verein Zentralwaescherei, 8005 Zurich.
 
@@ -18,4 +18,4 @@ Zentralwäscherei is a music venue in Zurich listed on soundcheck. 5 upcoming gi
 
 Neue Hard 12, Verein Zentralwaescherei, 8005 Zurich, Zurich
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/zentralw-scherei/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/zentralw-scherei/)*

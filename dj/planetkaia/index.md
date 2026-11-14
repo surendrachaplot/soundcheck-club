@@ -1,6 +1,6 @@
 # Planet KaiA
 
-Planet KaiA is a Ghetto Tech and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Lincoln Factory, Detroit on Fri, 20 Nov 2026.
+Planet KaiA is a Ghetto Tech and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Lincoln Factory, Detroit on Fri, 20 Nov 2026.
 
 Planet KaiA is a ghetto tech and techno artist based in United States of America, with 35 gigs on soundcheck across Detroit. Often billed alongside Fullbodydurag, we1sman and Auntie Chanel. Next up: Lincoln Factory, Detroit on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Planet KaiA is a ghetto tech and techno artist based in United States of America
 
 Fullbodydurag, we1sman, Auntie Chanel
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/planetkaia/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/planetkaia/)*

@@ -1,6 +1,6 @@
 # Gringo del Sol
 
-Gringo del Sol is a electronic artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Leysin Ski Resort, Switzerland on Mon, 15 Mar 2027.
+Gringo del Sol is a electronic artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Leysin Ski Resort, Switzerland on Mon, 15 Mar 2027.
 
 Gringo del Sol is an electronic artist based in Switzerland, with 2 gigs on soundcheck across Switzerland. Often billed alongside Alex Attias, Antal and Cinnaman. Next up: Leysin Ski Resort, Switzerland on Mon 15 Mar.
 
@@ -15,4 +15,4 @@ Gringo del Sol is an electronic artist based in Switzerland, with 2 gigs on soun
 
 Alex Attias, Antal, Cinnaman
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gringodelsol/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gringodelsol/)*

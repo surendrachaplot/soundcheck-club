@@ -1,6 +1,6 @@
 # Paradice Sinema
 
-Paradice Sinema is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Groundless Factory, Beijing on Sat, 21 Nov 2026.
+Paradice Sinema is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Groundless Factory, Beijing on Sat, 21 Nov 2026.
 
 Paradice Sinema is a techno and house artist based in United States of America, with 46 gigs on soundcheck across Beijing, San Francisco/Oakland and Shanghai. Often billed alongside Darcy, Kai.F and Nigls. Next up: Groundless Factory, Beijing on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Paradice Sinema is a techno and house artist based in United States of America, 
 
 Darcy, Kai.F, Nigls
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paradicesinema/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paradicesinema/)*

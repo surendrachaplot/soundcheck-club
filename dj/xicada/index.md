@@ -1,6 +1,6 @@
 # Xicada
 
-Xicada is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Jama, Toronto on Fri, 20 Nov 2026.
+Xicada is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at The Jama, Toronto on Fri, 20 Nov 2026.
 
 Xicada is an experimental and techno artist based in Canada, with 24 gigs on soundcheck across Montreal and Toronto. Often billed alongside Garden of Magic, DINO and Aperçu. Next up: The Jama, Toronto on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Xicada is an experimental and techno artist based in Canada, with 24 gigs on sou
 
 Garden of Magic, DINO (3), Aperçu
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xicada/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xicada/)*

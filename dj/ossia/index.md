@@ -1,13 +1,14 @@
 # Ossia
 
-Ossia is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The White Hotel, Manchester on Thu, 17 Dec 2026.
+Ossia is a Experimental and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Ormside Projects, London on Wed, 9 Dec 2026.
 
-Ossia is an experimental and bass artist based in United Kingdom, with 53 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Bergen and 17 more. Often billed alongside ojoo, Dan Johnson and i-sha. Next up: The White Hotel, Manchester on Thu 17 Dec.
+Ossia is an experimental and bass artist based in United Kingdom, with 54 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Bergen and 17 more. Often billed alongside ojoo, Dan Johnson and i-sha. Next up: Ormside Projects, London on Wed 9 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 9 Dec 2026 | Ormside Projects | London |
 | Thu, 17 Dec 2026 | The White Hotel | Manchester |
 
 ## Recently played
@@ -25,4 +26,4 @@ Ossia is an experimental and bass artist based in United Kingdom, with 53 gigs o
 
 ojoo, Dan Johnson, i-sha
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ossia/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ossia/)*

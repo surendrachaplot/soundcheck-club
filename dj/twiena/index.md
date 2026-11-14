@@ -1,8 +1,8 @@
 # TWIENA
 
-TWIENA is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at KABUL à GoGo, Utrecht on Sat, 14 Nov 2026.
+TWIENA is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at KABUL à GoGo, Utrecht on Sat, 14 Nov 2026.
 
-TWIENA is a techno and house artist based in Netherlands, with 129 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 14 more. Often billed alongside Doppelgang, Faustin (NL) and Mary Lake. Next up: KABUL à GoGo, Utrecht on Sat 14 Nov.
+TWIENA is a techno and house artist based in Netherlands, with 130 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 14 more. Often billed alongside Doppelgang, Faustin (NL) and Mary Lake. Next up: KABUL à GoGo, Utrecht on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ TWIENA is a techno and house artist based in Netherlands, with 129 gigs on sound
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | KABUL à GoGo | Utrecht |
 | Sat, 14 Nov 2026 | BRET | Amsterdam |
+| Fri, 11 Dec 2026 | RADION | Amsterdam |
 | Fri, 1 Jan 2027 | CLUB RAUM | Amsterdam |
 
 ## Recently played
@@ -27,4 +28,4 @@ TWIENA is a techno and house artist based in Netherlands, with 129 gigs on sound
 
 Doppelgang, Faustin (NL), Mary Lake
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/twiena/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/twiena/)*

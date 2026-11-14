@@ -1,6 +1,6 @@
 # Monk Club
 
-Monk Club is a music venue in Rome with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "MANIFESTO 2026 - Day 3" on Sat, 28 Nov 2026.
+Monk Club is a music venue in Rome with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "MANIFESTO 2026 - Day 3" on Sat, 28 Nov 2026.
 
 Monk Club is a music venue in Rome listed on soundcheck. 2 upcoming gigs, with line-ups including Kode9, Mad Professor, Populous and Quantic. See dates, start times and who's playing. via Giuseppe Mirri 35, 00100, Roma.
 
@@ -15,4 +15,4 @@ Monk Club is a music venue in Rome listed on soundcheck. 2 upcoming gigs, with l
 
 via Giuseppe Mirri 35, 00100, Roma, Rome
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/rome/club/monk-club/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/rome/club/monk-club/)*

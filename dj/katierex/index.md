@@ -1,6 +1,6 @@
 # Katie Rex
 
-Katie Rex is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - DTLA, Los Angeles on Fri, 4 Dec 2026.
+Katie Rex is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - DTLA, Los Angeles on Fri, 4 Dec 2026.
 
 Katie Rex is a techno and electronica artist based in United States of America, with 83 gigs on soundcheck across Austin, Boston, Chicago and Los Angeles and 7 more. Often billed alongside DJ Sharf, KYRUH and LISAS. Next up: TBA - DTLA, Los Angeles on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Katie Rex is a techno and electronica artist based in United States of America, 
 
 DJ Sharf, KYRUH, LISAS
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katierex/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katierex/)*

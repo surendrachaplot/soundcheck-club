@@ -1,6 +1,6 @@
 # Miguel Gallardo
 
-Miguel Gallardo is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - 333, New York City on Fri, 18 Dec 2026.
+Miguel Gallardo is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - 333, New York City on Fri, 18 Dec 2026.
 
 Miguel Gallardo is a house and tech house artist based in United States of America, with 30 gigs on soundcheck across Atlanta, Los Angeles, Miami and New York City. Often billed alongside RAAUL, Raw Phonics and Sasta. Next up: TBA - 333, New York City on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Miguel Gallardo is a house and tech house artist based in United States of Ameri
 
 RAAUL, Raw Phonics, Sasta
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelgallardo/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelgallardo/)*

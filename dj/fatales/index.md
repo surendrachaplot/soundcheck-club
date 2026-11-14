@@ -1,6 +1,6 @@
 # FatAles
 
-FatAles is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Studio dB, Berlin on Sat, 21 Nov 2026.
+FatAles is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Studio dB, Berlin on Sat, 21 Nov 2026.
 
 FatAles is a house and disco artist based in Italy, with 3 gigs on soundcheck across Berlin. Often billed alongside Mamede, kamishibai and riss. Next up: Studio dB, Berlin on Sat 21 Nov.
 
@@ -19,4 +19,4 @@ FatAles is a house and disco artist based in Italy, with 3 gigs on soundcheck ac
 
 Mamede, kamishibai, riss
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fatales/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fatales/)*

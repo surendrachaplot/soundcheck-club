@@ -1,6 +1,6 @@
 # Eeks
 
-Eeks is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Vittoria Wharf Studio, London on Sat, 5 Dec 2026.
+Eeks is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Vittoria Wharf Studio, London on Sat, 5 Dec 2026.
 
 Eeks is a house and deep house artist based in United Kingdom, with 10 gigs on soundcheck across London. Often billed alongside Darren J, Jack Burt and Mark Radford. Next up: Vittoria Wharf Studio, London on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Eeks is a house and deep house artist based in United Kingdom, with 10 gigs on s
 
 Darren J, Jack Burt, Mark Radford
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eeks/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eeks/)*

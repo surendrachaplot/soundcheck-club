@@ -1,6 +1,6 @@
 # .Paragon
 
-.Paragon is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Drugstore Beograd, Belgrade on Fri, 11 Dec 2026.
+.Paragon is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Drugstore Beograd, Belgrade on Fri, 11 Dec 2026.
 
 .Paragon is a techno and electronica artist based in Serbia, with 35 gigs on soundcheck across Belgrade and Ljubljana. Often billed alongside Luka Jukic, Impedance and Lollipop Janosz. Next up: Drugstore Beograd, Belgrade on Fri 11 Dec.
 
@@ -25,4 +25,4 @@
 
 Luka Jukic, Impedance, Lollipop Janosz
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/.paragon/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/.paragon/)*

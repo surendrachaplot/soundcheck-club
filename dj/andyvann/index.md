@@ -1,6 +1,6 @@
 # Andy Vann
 
-Andy Vann is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Il Brutto Auckland, Auckland on Sat, 14 Nov 2026.
+Andy Vann is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Il Brutto Auckland, Auckland on Sat, 14 Nov 2026.
 
 Andy Vann is a house and techno artist based in New Zealand, with 9 gigs on soundcheck across Auckland. Often billed alongside Greg Churchill, AROHA and DJ HMC. Next up: Il Brutto Auckland, Auckland on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Andy Vann is a house and techno artist based in New Zealand, with 9 gigs on soun
 
 Greg Churchill, AROHA, DJ HMC
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andyvann/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andyvann/)*

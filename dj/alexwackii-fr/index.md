@@ -1,6 +1,6 @@
 # Alex Wackii
 
-Alex Wackii is a Progressive House and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Petit Bain, Paris on Sat, 5 Dec 2026.
+Alex Wackii is a Progressive House and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Petit Bain, Paris on Sat, 5 Dec 2026.
 
 Alex Wackii is a progressive house and trance artist based in France, with 6 gigs on soundcheck across Paris. Often billed alongside Pete K, Wolf Story and Cosmic Gate. Next up: Petit Bain, Paris on Sat 5 Dec.
 
@@ -22,4 +22,4 @@ Alex Wackii is a progressive house and trance artist based in France, with 6 gig
 
 Pete K, Wolf Story, Cosmic Gate
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexwackii-fr/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexwackii-fr/)*

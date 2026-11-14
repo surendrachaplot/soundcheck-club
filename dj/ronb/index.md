@@ -1,6 +1,6 @@
 # RON B
 
-RON B is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at YSY, Berlin on Sat, 21 Nov 2026.
+RON B is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at YSY, Berlin on Sat, 21 Nov 2026.
 
 RON B is a techno and house artist based in Germany, with 14 gigs on soundcheck across Berlin and Madrid. Often billed alongside Aamun Koi, ARSA and Acid Foxy. Next up: YSY, Berlin on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ RON B is a techno and house artist based in Germany, with 14 gigs on soundcheck 
 
 Aamun Koi, ARSA, Acid Foxy
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ronb/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ronb/)*

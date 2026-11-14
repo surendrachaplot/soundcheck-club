@@ -1,14 +1,13 @@
 # Cobalt Studios
 
-Cobalt Studios is a music venue in Newcastle with 14 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Ivan Smagghe All Night Long (Age 21+)" on Fri, 13 Nov 2026.
+Cobalt Studios is a music venue in Newcastle with 13 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Shy Bairns presents // PIP b2b Weston All Night Long" on Sat, 14 Nov 2026.
 
-Cobalt Studios is a music venue in Newcastle listed on soundcheck. 14 upcoming gigs, with line-ups including Becky Woodcock, Carl H, Cosmo Sofi and dj sweet6teen and 2 more. See dates, start times and who's playing. 10 - 16  Boyd St. Newcastle Upon Tyne, NE2 1AP, United Kingdom.
+Cobalt Studios is a music venue in Newcastle listed on soundcheck. 13 upcoming gigs, with line-ups including Becky Woodcock, Carl H, Cosmo Sofi and dj sweet6teen and 2 more. See dates, start times and who's playing. 10 - 16  Boyd St. Newcastle Upon Tyne, NE2 1AP, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Ivan Smagghe All Night Long (Age 21+) | Ivan Smagghe |
 | Sat, 14 Nov 2026 | Shy Bairns presents // PIP b2b Weston All Night Long | PIP., Weston |
 | Fri, 20 Nov 2026 | Juiced 2nd Birthday with dj sweet6teen + James Worker | James Worker, dj sweet6teen |
 | Sat, 21 Nov 2026 | 'Some Like It Early' presents: Marcia Carr | Marcia Carr |
@@ -18,9 +17,10 @@ Cobalt Studios is a music venue in Newcastle listed on soundcheck. 14 upcoming g
 | Sun, 29 Nov 2026 | DIY Electronic Music Day, Open Decks, Record Fair |  |
 | Fri, 4 Dec 2026 | Carl H B2B Richard Gregory All Night Long | Carl H, Richard Gregory |
 | Sat, 5 Dec 2026 | Cosmo Sofi All Night Long | Cosmo Sofi |
+| Fri, 11 Dec 2026 | Cosmicomics: Kyle Toole, Casual Max, Kian OK, Tommy 2000, 8 in Orbit | Kian OK, Kyle Toole, Tommy 2000 |
 
 ## Address
 
 10 - 16  Boyd St. Newcastle Upon Tyne, NE2 1AP, United Kingdom, Newcastle
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/cobalt-studios/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/cobalt-studios/)*

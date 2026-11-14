@@ -1,6 +1,6 @@
 # Bambounou
 
-Bambounou is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at BRET, Amsterdam on Fri, 20 Nov 2026.
+Bambounou is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at BRET, Amsterdam on Fri, 20 Nov 2026.
 
 Bambounou is a techno and house artist based in France, with 182 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Barcelona and 54 more. Often billed alongside Sedef Adasï, Sossa and Bradley Zero. Next up: BRET, Amsterdam on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Bambounou is a techno and house artist based in France, with 182 gigs on soundch
 
 Sedef Adasï, Sossa, Bradley Zero
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bambounou/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bambounou/)*

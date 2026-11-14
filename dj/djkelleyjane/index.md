@@ -1,6 +1,6 @@
 # dj kelleyjane
 
-dj kelleyjane is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Sat, 28 Nov 2026.
+dj kelleyjane is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Sat, 28 Nov 2026.
 
 dj kelleyjane is a techno and house artist based in United States of America, with 9 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Carlos Souffront, Discnogirl and Javi (US). Next up: F8 1192 Folsom, San Francisco/Oakland on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ dj kelleyjane is a techno and house artist based in United States of America, wi
 
 Carlos Souffront, Discnogirl, Javi (US)
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djkelleyjane/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djkelleyjane/)*

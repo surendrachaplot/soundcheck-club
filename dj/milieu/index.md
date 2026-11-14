@@ -1,6 +1,6 @@
 # Milieu
 
-Milieu is a Ambient and Acid artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA, Chicago on Fri, 27 Nov 2026.
+Milieu is a Ambient and Acid artist with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA, Chicago on Fri, 27 Nov 2026.
 
 Milieu is an ambient and acid artist based in United States of America, with 11 gigs on soundcheck across Chicago and Detroit. Often billed alongside m50, Sinner DC and Adriel Fantastique!. Next up: TBA, Chicago on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Milieu is an ambient and acid artist based in United States of America, with 11 
 
 m50, Sinner DC, Adriel Fantastique!
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milieu/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milieu/)*

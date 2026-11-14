@@ -1,6 +1,6 @@
 # Nocturne
 
-Nocturne is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Tresor / Globus, Berlin on Wed, 23 Dec 2026.
+Nocturne is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Tresor / Globus, Berlin on Wed, 23 Dec 2026.
 
 Nocturne is a techno and house artist based in United Kingdom, with 7 gigs on soundcheck across Amsterdam, Berlin, Frankfurt and Paris and 2 more. Often billed alongside Alexander Kowalski, Bas Dobbelaer and Ben Kaczor. Next up: Tresor / Globus, Berlin on Wed 23 Dec.
 
@@ -23,4 +23,4 @@ Nocturne is a techno and house artist based in United Kingdom, with 7 gigs on so
 
 Alexander Kowalski, Bas Dobbelaer, Ben Kaczor
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nocturne/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nocturne/)*

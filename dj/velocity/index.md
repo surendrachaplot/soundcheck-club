@@ -1,6 +1,6 @@
 # Velocity
 
-Velocity is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Saloon, Tokyo on Sat, 14 Nov 2026.
+Velocity is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Saloon, Tokyo on Sat, 14 Nov 2026.
 
 Velocity is a drum & bass and bass artist based in Japan, with 68 gigs on soundcheck across Okinawa, Osaka and Tokyo. Often billed alongside KEiTA, Aya ( Human Elements ) and Zusan. Next up: Saloon, Tokyo on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Velocity is a drum & bass and bass artist based in Japan, with 68 gigs on soundc
 
 KEiTA, Aya ( Human Elements ), Zusan (3)
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/velocity/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/velocity/)*

@@ -1,10 +1,10 @@
 # Hypnotic Mindscapes at Bambi's
 
-Hypnotic Mindscapes at Bambi's on Fri 4 Dec, Toronto. 2 artists: Cosmic JD and Masayuki Tomita. Tech House and Minimal Techno. See the line-up on soundcheck.
+Hypnotic Mindscapes at Bambi's on Sat 5 Dec, Toronto. 2 artists: Cosmic JD and Masayuki Tomita. Tech House and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Fri, 4 Dec 2026 |
+| Date | Sat, 5 Dec 2026 |
 | Venue | Bambi's |
 | City | Toronto |
 

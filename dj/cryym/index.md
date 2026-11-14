@@ -1,6 +1,6 @@
 # Cryym
 
-Cryym is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Premises, Chicago on Sat, 21 Nov 2026.
+Cryym is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Premises, Chicago on Sat, 21 Nov 2026.
 
 Cryym is a techno and acid artist based in United States of America, with 13 gigs on soundcheck across Chicago. Often billed alongside D. Strange, Flores Negras and J. Córdova. Next up: TBA - Premises, Chicago on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Cryym is a techno and acid artist based in United States of America, with 13 gig
 
 D. Strange, Flores Negras, J. Córdova
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cryym/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cryym/)*

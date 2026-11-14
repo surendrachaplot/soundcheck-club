@@ -1,6 +1,6 @@
 # Acid Arab
 
-Acid Arab is a Electro and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Universe Athens, Athens on Fri, 27 Nov 2026.
+Acid Arab is a Electro and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Universe Athens, Athens on Fri, 27 Nov 2026.
 
 Acid Arab is an electro and techno artist based in France, with 108 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 37 more. Often billed alongside NTO, TDJ and Goom Gum. Next up: Universe Athens, Athens on Fri 27 Nov.
 
@@ -30,4 +30,4 @@ Acid Arab is an electro and techno artist based in France, with 108 gigs on soun
 
 NTO, TDJ, Goom Gum
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/acidarab/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/acidarab/)*

@@ -1,6 +1,6 @@
 # Cinema Royale
 
-Cinema Royale is a Italo Disco and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at San Francisco, Amsterdam on Thu, 26 Nov 2026.
+Cinema Royale is a Italo Disco and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at San Francisco, Amsterdam on Thu, 26 Nov 2026.
 
 Cinema Royale is an italo disco and disco artist based in Netherlands, with 13 gigs on soundcheck across Amsterdam, Berlin and Utrecht. Often billed alongside Luca Lozano, Aria Santillana and BELLA (NL). Next up: San Francisco, Amsterdam on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Cinema Royale is an italo disco and disco artist based in Netherlands, with 13 g
 
 Luca Lozano, Aria Santillana, BELLA (NL)
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cinemaroyale/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cinemaroyale/)*

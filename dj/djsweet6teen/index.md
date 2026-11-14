@@ -1,14 +1,13 @@
 # dj sweet6teen
 
-dj sweet6teen is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Loft, Manchester on Fri, 13 Nov 2026.
+dj sweet6teen is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Azimut Club, Turin on Sat, 14 Nov 2026.
 
-dj sweet6teen is a house and techno artist based in Germany, with 276 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 59 more. Often billed alongside Angel D'lite, Peach and Sansibar. Next up: The Loft, Manchester on Fri 13 Nov.
+dj sweet6teen is a house and techno artist based in Germany, with 276 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 59 more. Often billed alongside Angel D'lite, Peach and Sansibar. Next up: Azimut Club, Turin on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | The Loft | Manchester |
 | Sat, 14 Nov 2026 | Azimut Club | Turin |
 | Fri, 20 Nov 2026 | Cobalt Studios | Newcastle |
 | Sat, 21 Nov 2026 | Tresor / Globus | Berlin |
@@ -20,9 +19,11 @@ dj sweet6teen is a house and techno artist based in Germany, with 276 gigs on so
 | Sun, 27 Dec 2026 | Thuishaven | Amsterdam |
 | Thu, 31 Dec 2026 | Bassiani | Tbilisi |
 | Fri, 5 Mar 2027 | Moyston | Melbourne |
+| Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 
+- The Loft, Manchester · Fri, 13 Nov 2026
 - C12, Brussels · Sat, 7 Nov 2026
 - Badaboum, Paris · Fri, 6 Nov 2026
 - Otto Wagner Areal, Vienna · Sat, 31 Oct 2026
@@ -30,10 +31,9 @@ dj sweet6teen is a house and techno artist based in Germany, with 276 gigs on so
 - Robert Johnson, Hesse · Sat, 24 Oct 2026
 - Pllek, Amsterdam · Thu, 22 Oct 2026
 - Gewölbe, Cologne · Sun, 18 Oct 2026
-- Under The Arches, Leeds · Sat, 17 Oct 2026
 
 ## Shares bills with
 
 Angel D'lite, Peach, Sansibar
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsweet6teen/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsweet6teen/)*

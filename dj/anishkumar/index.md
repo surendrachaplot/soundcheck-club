@@ -1,6 +1,6 @@
 # Anish Kumar
 
-Anish Kumar is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 21 Nov 2026.
+Anish Kumar is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 21 Nov 2026.
 
 Anish Kumar is a house and disco artist based in United Kingdom, with 76 gigs on soundcheck across Barcelona, Berlin, Brighton and Bristol and 15 more. Often billed alongside DJ BORING, Dan Shake and Hagop Tchaparian. Next up: Depot Mayfield, Manchester on Sat 21 Nov.
 
@@ -28,4 +28,4 @@ Anish Kumar is a house and disco artist based in United Kingdom, with 76 gigs on
 
 DJ BORING, Dan Shake, Hagop Tchaparian
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anishkumar/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anishkumar/)*

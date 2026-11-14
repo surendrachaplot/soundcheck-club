@@ -1,6 +1,6 @@
 # AKIHIRO
 
-AKIHIRO is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Area_osaka, Osaka on Sun, 22 Nov 2026.
+AKIHIRO is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Area_osaka, Osaka on Sun, 22 Nov 2026.
 
 AKIHIRO is a house and techno artist based in Japan, with 43 gigs on soundcheck across Osaka, Seoul and Tokyo. Often billed alongside KAITO., KZA and FFAN. Next up: Area_osaka, Osaka on Sun 22 Nov.
 
@@ -26,4 +26,4 @@ AKIHIRO is a house and techno artist based in Japan, with 43 gigs on soundcheck 
 
 KAITO., KZA, FFAN
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akihiro/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akihiro/)*

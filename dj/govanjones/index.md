@@ -1,6 +1,6 @@
 # Govan Jones
 
-Govan Jones is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Clubhouse Detroit, Detroit on Fri, 20 Nov 2026.
+Govan Jones is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at The Clubhouse Detroit, Detroit on Fri, 20 Nov 2026.
 
 Govan Jones is a house and tech house artist based in United States of America, with 17 gigs on soundcheck across Cleveland and Detroit. Often billed alongside DUBYAH, Drop Catch and K-LALA. Next up: The Clubhouse Detroit, Detroit on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Govan Jones is a house and tech house artist based in United States of America, 
 
 DUBYAH, Drop Catch, K-LALA
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/govanjones/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/govanjones/)*

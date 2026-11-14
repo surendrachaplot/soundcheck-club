@@ -1,14 +1,14 @@
 # Billy Bondage
 
-Billy Bondage is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Parking.Radio, Quebec City on Sat, 28 Nov 2026.
+Billy Bondage is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at parking.radio, Quebec City on Sat, 28 Nov 2026.
 
-Billy Bondage is a techno and club artist based in Canada, with 20 gigs on soundcheck across Montreal and Quebec City. Often billed alongside Public Appeal, nastygloss and Baby Bimbo. Next up: Parking.Radio, Quebec City on Sat 28 Nov.
+Billy Bondage is a techno and club artist based in Canada, with 20 gigs on soundcheck across Montreal and Quebec City. Often billed alongside Public Appeal, nastygloss and Baby Bimbo. Next up: parking.radio, Quebec City on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 28 Nov 2026 | Parking.Radio | Quebec City |
+| Sat, 28 Nov 2026 | parking.radio | Quebec City |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Billy Bondage is a techno and club artist based in Canada, with 20 gigs on sound
 
 Public Appeal, nastygloss, Baby Bimbo
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/billybondage/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/billybondage/)*

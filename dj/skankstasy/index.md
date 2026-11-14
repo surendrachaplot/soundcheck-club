@@ -1,6 +1,6 @@
 # Skankstasy
 
-Skankstasy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at KREUZWERK, Berlin on Fri, 1 Jan 2027.
+Skankstasy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at KREUZWERK, Berlin on Fri, 1 Jan 2027.
 
 Skankstasy is a techno and house artist based in Germany, with 44 gigs on soundcheck across Berlin, Hamburg, Leipzig and Stockholm. Often billed alongside Dirty Daddy Don, Killa and Carmen 16. Next up: KREUZWERK, Berlin on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Skankstasy is a techno and house artist based in Germany, with 44 gigs on soundc
 
 Dirty Daddy Don, Killa, Carmen 16
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skankstasy/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skankstasy/)*

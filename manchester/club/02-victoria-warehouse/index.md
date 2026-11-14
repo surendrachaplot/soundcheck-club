@@ -1,6 +1,6 @@
 # 02 Victoria Warehouse
 
-02 Victoria Warehouse is a music venue in Manchester with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "NYE W/ Tinlicker" on Thu, 31 Dec 2026.
+02 Victoria Warehouse is a music venue in Manchester with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "NYE W/ Tinlicker" on Thu, 31 Dec 2026.
 
 02 Victoria Warehouse is a music venue in Manchester listed on soundcheck. 2 upcoming gigs, with line-ups including Fabio, Grooverider, Roni Size and Tinlicker. See dates, start times and who's playing. Trafford Wharf Road, Manchester, Greater Manchester, M17 1AB, UK.
 
@@ -15,4 +15,4 @@
 
 Trafford Wharf Road, Manchester, Greater Manchester, M17 1AB, UK, Manchester
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/02-victoria-warehouse/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/02-victoria-warehouse/)*

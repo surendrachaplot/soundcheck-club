@@ -1,6 +1,6 @@
-# KRAN welcomes / NEGITIV / 27.11. / at Kran Beograd
+# KRAN welcomes / NEGITIV / 27.11. at Kran Beograd
 
-KRAN welcomes / NEGITIV / 27.11. / at Kran Beograd on Fri 27 Nov, Belgrade. 3 artists: MICYVID, NEGITIV and Vorick. Techno and Hardcore. See the line-up on soundcheck.
+KRAN welcomes / NEGITIV / 27.11. at Kran Beograd on Fri 27 Nov, Belgrade. 3 artists: MICYVID, NEGITIV and Vorick. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

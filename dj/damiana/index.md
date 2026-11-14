@@ -1,6 +1,6 @@
 # DAMIANA
 
-DAMIANA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Ministerium Club, Lisbon on Sat, 21 Nov 2026.
+DAMIANA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Ministerium Club, Lisbon on Sat, 21 Nov 2026.
 
 DAMIANA is a house and techno artist based in Germany, with 12 gigs on soundcheck across Antwerp, Berlin, Lisbon and London and 1 more. Often billed alongside BODYSHIFT, Michelle Manetti and Nicolle Velcro. Next up: Ministerium Club, Lisbon on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ DAMIANA is a house and techno artist based in Germany, with 12 gigs on soundchec
 
 BODYSHIFT, Michelle Manetti, Nicolle Velcro
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/damiana/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/damiana/)*

@@ -1,6 +1,6 @@
 # Mariano Mellino
 
-Mariano Mellino is a Progressive House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Mandarine Park & Tent, Buenos Aires on Thu, 26 Nov 2026.
+Mariano Mellino is a Progressive House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Mandarine Park & Tent, Buenos Aires on Thu, 26 Nov 2026.
 
 Mariano Mellino is a progressive house and techno artist based in Argentina, with 94 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Barcelona and 28 more. Often billed alongside Guy J, Nico Moon and Colyn. Next up: Mandarine Park & Tent, Buenos Aires on Thu 26 Nov.
 
@@ -26,4 +26,4 @@ Mariano Mellino is a progressive house and techno artist based in Argentina, wit
 
 Guy J, Nico Moon, Colyn
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marianomellino/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marianomellino/)*

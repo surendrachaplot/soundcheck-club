@@ -1,6 +1,6 @@
 # Night & Day Café
 
-Night & Day Café is a music venue in Manchester with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "The Plastic Loft: Disco n Funk No.5" on Fri, 13 Nov 2026.
+Night & Day Café is a music venue in Manchester with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. The next is "The Plastic Loft: Disco n Funk No.5" on Fri, 13 Nov 2026.
 
 Night & Day Café is a music venue in Manchester listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 26 Oldham Street; Manchester; M1 1JN.
 
@@ -14,4 +14,4 @@ Night & Day Café is a music venue in Manchester listed on soundcheck. 1 upcomin
 
 26 Oldham Street; Manchester; M1 1JN, Manchester
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/night-day-caf/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/night-day-caf/)*

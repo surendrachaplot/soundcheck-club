@@ -1,6 +1,6 @@
 # 2K88
 
-2K88 is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Milton Court Concert Hall, London on Wed, 25 Nov 2026.
+2K88 is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Milton Court Concert Hall, London on Wed, 25 Nov 2026.
 
 2K88 is an experimental and bass artist based in Poland, with 46 gigs on soundcheck across Adelaide, Amsterdam, Berlin and Brussels and 17 more. Often billed alongside Rainy Miller, Bianca Scout and ojoo. Next up: Milton Court Concert Hall, London on Wed 25 Nov.
 
@@ -25,4 +25,4 @@
 
 Rainy Miller, Bianca Scout, ojoo
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/2k88/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/2k88/)*

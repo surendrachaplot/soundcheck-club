@@ -1,6 +1,6 @@
 # Banana Hill at Honey Street Studio
 
-Banana Hill at Honey Street Studio on Sat 28 Nov, Manchester. 4 artists: Banana Hill, Cervo, Contours and King Kit. Deep House and Balearic. See the line-up on soundcheck.
+Banana Hill at Honey Street Studio on Sat 28 Nov, Manchester. 5 artists: Banana Hill, Cervo, Contours and King Kit and 1 more. Deep House and Afrobeat. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,5 +14,6 @@ Banana Hill at Honey Street Studio on Sat 28 Nov, Manchester. 4 artists: Banana 
 - Cervo
 - Contours
 - King Kit
+- SNO (UK)
 
 *Source: [soundcheck](https://soundcheck.club/e/2531715-banana-hill-at-honey-street-studio/)*

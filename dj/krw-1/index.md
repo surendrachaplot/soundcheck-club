@@ -1,6 +1,6 @@
 # KRW (1)
 
-KRW (1) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TV Lounge, Detroit on Sat, 28 Nov 2026.
+KRW (1) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TV Lounge, Detroit on Sat, 28 Nov 2026.
 
 KRW is a house and deep house artist based in United States of America, with 9 gigs on soundcheck across Detroit. Often billed alongside Detroit House Collective, Rachael Parker and Stacey Hotwaxx Hale. Next up: TV Lounge, Detroit on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ KRW is a house and deep house artist based in United States of America, with 9 g
 
 Detroit House Collective, Rachael Parker, Stacey Hotwaxx Hale
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krw-1/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krw-1/)*

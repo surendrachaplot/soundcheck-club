@@ -1,6 +1,6 @@
 # RAH (US)
 
-RAH (US) is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Washington DC , Washington DC on Fri, 4 Dec 2026.
+RAH (US) is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Washington DC , Washington DC on Fri, 4 Dec 2026.
 
 RAH (US) is a techno and minimal techno artist based in United States of America, with 19 gigs on soundcheck across Boston, New York City and Washington DC. Often billed alongside Marteka Fair, Matthew Cha and KRØK. Next up: TBA - Washington DC , Washington DC on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ RAH (US) is a techno and minimal techno artist based in United States of America
 
 Marteka Fair, Matthew Cha, KRØK
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rah-us/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rah-us/)*

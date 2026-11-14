@@ -1,6 +1,6 @@
 # Naarly
 
-Naarly is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Frankhan Selectist, Istanbul on Sat, 28 Nov 2026.
+Naarly is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Frankhan Selectist, Istanbul on Sat, 28 Nov 2026.
 
 Naarly is a house and afro house artist based in Sweden, with 4 gigs on soundcheck across Istanbul, London, Milan and Zurich. Often billed alongside Andro, Asal and Aura. Next up: Frankhan Selectist, Istanbul on Sat 28 Nov.
 
@@ -20,4 +20,4 @@ Naarly is a house and afro house artist based in Sweden, with 4 gigs on soundche
 
 Andro, Asal, Aura
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/naarly/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/naarly/)*

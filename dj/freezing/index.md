@@ -1,6 +1,6 @@
 # Free Zing
 
-Free Zing is a Techno and Electro artist with 6 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Circolo Masada + Circolo Amelia, Milan on Sat, 21 Nov 2026.
+Free Zing is a Techno and Electro artist with 6 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Circolo Masada + Circolo Amelia, Milan on Sat, 21 Nov 2026.
 
 Free Zing is a techno and electro artist based in Spain, with 68 gigs on soundcheck across Barcelona, Berlin, Birmingham and Bristol and 12 more. Often billed alongside Alien Communications, BAYS and Dea. Next up: TBA - Circolo Masada + Circolo Amelia, Milan on Sat 21 Nov.
 
@@ -30,4 +30,4 @@ Free Zing is a techno and electro artist based in Spain, with 68 gigs on soundch
 
 Alien Communications, BAYS, Dea (6)
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/freezing/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/freezing/)*

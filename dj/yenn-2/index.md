@@ -1,6 +1,6 @@
 # YENN (2)
 
-YENN (2) is a Club and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Cakeshop, Seoul on Thu, 19 Nov 2026.
+YENN (2) is a Club and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Cakeshop, Seoul on Thu, 19 Nov 2026.
 
 YENN is a club and electronica artist based in South Korea, with 14 gigs on soundcheck across Seoul. Often billed alongside Juuno, SEOL and DJ POOL. Next up: Cakeshop, Seoul on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ YENN is a club and electronica artist based in South Korea, with 14 gigs on soun
 
 Juuno, SEOL, DJ POOL
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yenn-2/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yenn-2/)*

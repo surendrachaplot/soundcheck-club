@@ -1,6 +1,6 @@
 # Denzel
 
-Denzel is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Renate, Berlin on Fri, 20 Nov 2026.
+Denzel is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Renate, Berlin on Fri, 20 Nov 2026.
 
 Denzel is a techno and house artist based in Finland, with 124 gigs on soundcheck across Amsterdam, Berlin, Bristol and Copenhagen and 10 more. Often billed alongside Joni DJ, Justus Valtanen and Daniel Kayrouz. Next up: Renate, Berlin on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ Denzel is a techno and house artist based in Finland, with 124 gigs on soundchec
 
 Joni DJ, Justus Valtanen, Daniel Kayrouz
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/denzel/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/denzel/)*

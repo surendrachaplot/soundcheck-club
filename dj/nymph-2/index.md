@@ -1,6 +1,6 @@
 # Nymph (NY)
 
-Nymph (NY) is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at BASEMENT, New York City on Fri, 20 Nov 2026.
+Nymph (NY) is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at BASEMENT, New York City on Fri, 20 Nov 2026.
 
 Nymph (NY) is a techno and club artist based in United States of America, with 20 gigs on soundcheck across New York City. Often billed alongside KIMKILLA, 1morning and ABEILLE. Next up: BASEMENT, New York City on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Nymph (NY) is a techno and club artist based in United States of America, with 2
 
 KIMKILLA, 1morning, ABEILLE
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nymph-2/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nymph-2/)*

@@ -1,6 +1,6 @@
 # Claptone
 
-Claptone is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at KOKO, London on Sat, 14 Nov 2026.
+Claptone is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at KOKO, London on Sat, 14 Nov 2026.
 
 Claptone is a house and tech house artist based in Germany, with 262 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 75 more. Often billed alongside DIEGO SAN DIEGO, Hannah Wants and Solardo. Next up: KOKO, London on Sat 14 Nov.
 
@@ -32,4 +32,4 @@ Claptone is a house and tech house artist based in Germany, with 262 gigs on sou
 
 DIEGO SAN DIEGO, Hannah Wants, Solardo
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/claptone/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/claptone/)*

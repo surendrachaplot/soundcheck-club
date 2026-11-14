@@ -1,6 +1,6 @@
 # Mike Morrisey
 
-Mike Morrisey is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Distrikt, Leeds on Sat, 12 Dec 2026.
+Mike Morrisey is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Distrikt, Leeds on Sat, 12 Dec 2026.
 
 Mike Morrisey is a tech house and house artist based in United Kingdom, with 60 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Ibiza and 10 more. Often billed alongside Luke Welsh, Dan Costello and MPhilly. Next up: Distrikt, Leeds on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Mike Morrisey is a tech house and house artist based in United Kingdom, with 60 
 
 Luke Welsh, Dan Costello, MPhilly
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikemorrisey/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikemorrisey/)*

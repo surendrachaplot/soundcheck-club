@@ -1,6 +1,6 @@
 # Atype
 
-Atype is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Alte Fabrik, Greifswalder Str. 23A 10407, Berlin on Sat, 21 Nov 2026.
+Atype is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Alte Fabrik, Greifswalder Str. 23A 10407, Berlin on Sat, 21 Nov 2026.
 
 Atype is a techno and trance artist based in Germany, with 7 gigs on soundcheck across Berlin and Freiburg. Often billed alongside Mikadoo, DJ Junior and Daora. Next up: TBA - Alte Fabrik, Greifswalder Str. 23A 10407, Berlin on Sat 21 Nov.
 
@@ -23,4 +23,4 @@ Atype is a techno and trance artist based in Germany, with 7 gigs on soundcheck 
 
 Mikadoo (2), DJ Junior (2), Daora
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/atype/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/atype/)*

@@ -1,6 +1,6 @@
 # Antilogic
 
-Antilogic is a Bass and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at La Station - Gare des Mines, Paris on Sat, 28 Nov 2026.
+Antilogic is a Bass and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at La Station - Gare des Mines, Paris on Sat, 28 Nov 2026.
 
 Antilogic is a bass and baile funk artist based in France, with 8 gigs on soundcheck across Marseille, Nantes, Paris and Rennes. Often billed alongside Oonagh Haines, TTristana and ARTEM (FR). Next up: La Station - Gare des Mines, Paris on Sat 28 Nov.
 
@@ -24,4 +24,4 @@ Antilogic is a bass and baile funk artist based in France, with 8 gigs on soundc
 
 Oonagh Haines, TTristana, ARTEM (FR)
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antilogic/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antilogic/)*

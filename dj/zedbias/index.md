@@ -1,6 +1,6 @@
 # Zed Bias
 
-Zed Bias is a Garage and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Skatecafe, Amsterdam on Fri, 27 Nov 2026.
+Zed Bias is a Garage and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Skatecafe, Amsterdam on Fri, 27 Nov 2026.
 
 Zed Bias is a garage and house artist based in United Kingdom, with 62 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Birmingham and 13 more. Often billed alongside Chunky, Bakey and Chimpo. Next up: Skatecafe, Amsterdam on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Zed Bias is a garage and house artist based in United Kingdom, with 62 gigs on s
 
 Chunky, Bakey, Chimpo
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zedbias/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zedbias/)*

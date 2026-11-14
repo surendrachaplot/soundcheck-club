@@ -1,6 +1,6 @@
 # Oliver Ho
 
-Oliver Ho is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - SUBLANUA MEDELLIN, Colombia on Fri, 18 Dec 2026.
+Oliver Ho is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - SUBLANUA MEDELLIN, Colombia on Fri, 18 Dec 2026.
 
 Oliver Ho is a techno and industrial artist based in United Kingdom, with 12 gigs on soundcheck across Athens, Beijing, Berlin and Birmingham and 3 more. Often billed alongside Regis, Rangelova and Broken English Club. Next up: TBA - SUBLANUA MEDELLIN, Colombia on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Oliver Ho is a techno and industrial artist based in United Kingdom, with 12 gig
 
 Regis, Rangelova, Broken English Club
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverho/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverho/)*

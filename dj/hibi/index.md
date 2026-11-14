@@ -1,6 +1,6 @@
 # HIBI
 
-HIBI is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Warehouse, Nantes on Fri, 20 Nov 2026.
+HIBI is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Warehouse, Nantes on Fri, 20 Nov 2026.
 
 HIBI is a techno and trance artist based in France, with 15 gigs on soundcheck across Marseille, Nantes and Paris. Often billed alongside 25EMEHEURE, LESSSS and ØBSTN. Next up: Warehouse, Nantes on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ HIBI is a techno and trance artist based in France, with 15 gigs on soundcheck a
 
 25EMEHEURE, LESSSS, ØBSTN
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hibi/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hibi/)*

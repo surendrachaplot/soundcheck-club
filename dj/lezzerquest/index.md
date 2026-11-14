@@ -1,6 +1,6 @@
 # LEZZER QUEST
 
-LEZZER QUEST is a Italo Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Berkeley Suite, Glasgow on Sat, 19 Dec 2026.
+LEZZER QUEST is a Italo Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at The Berkeley Suite, Glasgow on Sat, 19 Dec 2026.
 
 LEZZER QUEST is an italo disco and house artist based in United Kingdom, with 32 gigs on soundcheck across Berlin, Edinburgh, Glasgow and London and 1 more. Often billed alongside Bonzai Bonner, David Scott and Josh Caffé. Next up: The Berkeley Suite, Glasgow on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ LEZZER QUEST is an italo disco and house artist based in United Kingdom, with 32
 
 Bonzai Bonner, David Scott, Josh Caffé
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lezzerquest/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lezzerquest/)*

@@ -1,6 +1,6 @@
 # CC Luna
 
-CC Luna is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA, Stockholm on Fri, 27 Nov 2026.
+CC Luna is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA, Stockholm on Fri, 27 Nov 2026.
 
 CC Luna is a techno and house artist based in Sweden, with 32 gigs on soundcheck across Berlin, Gothenburg and Stockholm. Often billed alongside MERILIN, Marten Attling and DJ Alban. Next up: TBA, Stockholm on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ CC Luna is a techno and house artist based in Sweden, with 32 gigs on soundcheck
 
 MERILIN, Marten Attling, DJ Alban
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ccluna/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ccluna/)*

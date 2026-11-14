@@ -1,6 +1,6 @@
 # David Castellani
 
-David Castellani is a Techno and Acid artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Los Angeles, Los Angeles on Fri, 20 Nov 2026.
+David Castellani is a Techno and Acid artist with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Los Angeles, Los Angeles on Fri, 20 Nov 2026.
 
 David Castellani is a techno and acid artist based in Italy, with 34 gigs on soundcheck across Amsterdam, Berlin, Bologna and Chicago and 6 more. Often billed alongside Lady Starlight, MAEDON and Alarico. Next up: TBA - Los Angeles, Los Angeles on Fri 20 Nov.
 
@@ -28,4 +28,4 @@ David Castellani is a techno and acid artist based in Italy, with 34 gigs on sou
 
 Lady Starlight, MAEDON, Alarico
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidcastellani/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidcastellani/)*

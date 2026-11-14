@@ -1,18 +1,18 @@
 # A_Phan
 
-A_Phan is a Electronica and Jazz artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Angewandte PSK, Vienna on Fri, 13 Nov 2026.
+A_Phan is a Electronica and Jazz artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Club Lucia, Vienna on Mon, 30 Nov 2026.
 
-A_Phan is an electronica and jazz artist based in Austria, with 8 gigs on soundcheck across Berlin and Vienna. Often billed alongside Natasha Moreno, Yakkushi and Abigail Toll. Next up: Angewandte PSK, Vienna on Fri 13 Nov.
+A_Phan is an electronica and jazz artist based in Austria, with 8 gigs on soundcheck across Berlin and Vienna. Often billed alongside Natasha Moreno, Yakkushi and Anmon. Next up: Club Lucia, Vienna on Mon 30 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Angewandte PSK | Vienna |
 | Mon, 30 Nov 2026 | Club Lucia | Vienna |
 
 ## Recently played
 
+- Angewandte PSK, Vienna · Fri, 13 Nov 2026
 - Kollektiv Kaorle, Vienna · Fri, 2 Oct 2026
 - Monarch, Berlin · Sat, 5 Sept 2026
 - Club Lucia, Vienna · Sat, 16 May 2026
@@ -22,6 +22,6 @@ A_Phan is an electronica and jazz artist based in Austria, with 8 gigs on soundc
 
 ## Shares bills with
 
-Natasha Moreno, Yakkushi, Abigail Toll
+Natasha Moreno, Yakkushi, Anmon
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/a_phan/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/a_phan/)*

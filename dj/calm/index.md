@@ -1,6 +1,6 @@
 # Calm
 
-Calm is a House and Disco artist with 8 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Club Z in Zimmermans, Cologne on Sat, 14 Nov 2026.
+Calm is a House and Disco artist with 8 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Club Z in Zimmermans, Cologne on Sat, 14 Nov 2026.
 
 Calm is a house and disco artist based in Japan, with 20 gigs on soundcheck across Bali, Barcelona, Cologne and London and 5 more. Often billed alongside Frantic, Kaoru Inoue and CHIDA. Next up: Club Z in Zimmermans, Cologne on Sat 14 Nov.
 
@@ -32,4 +32,4 @@ Calm is a house and disco artist based in Japan, with 20 gigs on soundcheck acro
 
 Frantic, Kaoru Inoue, CHIDA
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/calm/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/calm/)*

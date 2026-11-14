@@ -1,6 +1,6 @@
 # James Poole
 
-James Poole is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Bourke Street Courtyard, Melbourne on Sat, 14 Nov 2026.
+James Poole is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Bourke Street Courtyard, Melbourne on Sat, 14 Nov 2026.
 
 James Poole is a house and tech house artist based in United Kingdom, with 14 gigs on soundcheck across Amsterdam, Birmingham, Eindhoven and Glasgow and 9 more. Often billed alongside East End Dubs, Hidde van Wee and Julian Fijma. Next up: Bourke Street Courtyard, Melbourne on Sat 14 Nov.
 
@@ -9,7 +9,6 @@ James Poole is a house and tech house artist based in United Kingdom, with 14 gi
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Bourke Street Courtyard | Melbourne |
-| Sat, 14 Nov 2026 | Watsons EQ | Sydney |
 | Fri, 20 Nov 2026 | Depot Mayfield | Manchester |
 | Sat, 21 Nov 2026 | Digital | Newcastle |
 | Sun, 6 Dec 2026 | Thuishaven | Amsterdam |
@@ -30,4 +29,4 @@ James Poole is a house and tech house artist based in United Kingdom, with 14 gi
 
 East End Dubs, Hidde van Wee, Julian Fijma
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamespoole/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamespoole/)*

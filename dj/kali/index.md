@@ -1,14 +1,15 @@
 # Kali
 
-Kali is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Palazzo Permanens, Budapest on Sat, 14 Nov 2026.
+Kali is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Palazzo Permanens, Budapest on Sat, 14 Nov 2026.
 
-Kali is a techno and house artist based in Australia, with 50 gigs on soundcheck across Berlin, Budapest, Copenhagen and Geneva and 8 more. Often billed alongside Hayato Iwaki, Reenie and YANNY. Next up: Palazzo Permanens, Budapest on Sat 14 Nov.
+Kali is a techno and house artist based in Australia, with 51 gigs on soundcheck across Berlin, Budapest, Copenhagen and Gdansk and 9 more. Often billed alongside Hayato Iwaki, Reenie and YANNY. Next up: Palazzo Permanens, Budapest on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Palazzo Permanens | Budapest |
+| Fri, 2 Jul 2027 | Gwardia Kaszubska | Gdansk |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Kali is a techno and house artist based in Australia, with 50 gigs on soundcheck
 
 Hayato Iwaki, Reenie, YANNY (1)
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kali/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kali/)*

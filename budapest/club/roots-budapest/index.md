@@ -1,6 +1,6 @@
 # Roots Budapest
 
-Roots Budapest is a music venue in Budapest with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "The Genesis Roots Session" on Fri, 11 Dec 2026.
+Roots Budapest is a music venue in Budapest with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. The next is "The Genesis Roots Session" on Fri, 11 Dec 2026.
 
 Roots Budapest is a music venue in Budapest listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Roots Budapest is a music venue in Budapest listed on soundcheck. 1 upcoming gig
 | --- | --- | --- |
 | Fri, 11 Dec 2026 | The Genesis Roots Session |  |
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/roots-budapest/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/roots-budapest/)*

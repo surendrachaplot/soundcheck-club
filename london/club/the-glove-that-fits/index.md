@@ -1,14 +1,13 @@
 # The Glove That Fits
 
-The Glove That Fits is a music venue in London with 17 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Pumping Velvet x Handclap: Cleyra, Jaye Ward, SPRKLBB" on Fri, 13 Nov 2026.
+The Glove That Fits is a music venue in London with 16 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Far From Alone with KRN & Sinéad" on Sat, 14 Nov 2026.
 
-The Glove That Fits is a music venue in London listed on soundcheck. 17 upcoming gigs, with line-ups including Alaïs, Amor Ante, Aniaef and ANTØNIØ. and 2 more. See dates, start times and who's playing. 179 Morning Lane, Hackney, E96LH, United Kingdom.
+The Glove That Fits is a music venue in London listed on soundcheck. 16 upcoming gigs, with line-ups including Alaïs, Amor Ante, Aniaef and ANTØNIØ. and 2 more. See dates, start times and who's playing. 179 Morning Lane, Hackney, E96LH, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Pumping Velvet x Handclap: Cleyra, Jaye Ward, SPRKLBB | Jaye Ward, SPRKLBB |
 | Sat, 14 Nov 2026 | Far From Alone with KRN & Sinéad | Jefferson King, KRN, Markozonio, Sinéad, fae (UK) |
 | Thu, 19 Nov 2026 | Rubedo III | Baabax, Shayleen Rose |
 | Fri, 20 Nov 2026 | CASE STUDIES - Berwick, CASE, Teetee | Berwick, Case (2), Teetee |
@@ -18,9 +17,10 @@ The Glove That Fits is a music venue in London listed on soundcheck. 17 upcoming
 | Sat, 28 Nov 2026 | CLUB BOOTS VOL III | Harry Gay, Jess Hands, Katie Baxter, Meg Ward, Sita Shah, miniMel |
 | Fri, 4 Dec 2026 | RИFT | Desert Bor, Nikolaider, Sokolyann, XANDY |
 | Sat, 5 Dec 2026 | PINHOLE 4.0 | GLASSBASS, Hanno Hinkelbein, Kutkh Jackdaw, LATO, Laura MRLS, TOOTHTAXI |
+| Fri, 11 Dec 2026 | The Pound | Alaïs, Sleepy Jean, YSL (Young Saucy Lovers) |
 
 ## Address
 
 179 Morning Lane, Hackney, E96LH, United Kingdom, London
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-glove-that-fits/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-glove-that-fits/)*

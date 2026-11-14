@@ -1,6 +1,6 @@
 # MORODER
 
-MORODER is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Nutone Sofia, Sofia on Sat, 14 Nov 2026.
+MORODER is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Nutone Sofia, Sofia on Sat, 14 Nov 2026.
 
 MORODER is a techno and house artist based in Bulgaria, with 6 gigs on soundcheck across Sofia. Often billed alongside Miss Lidiya, Shade. and VELLA. Next up: Nutone Sofia, Sofia on Sat 14 Nov.
 
@@ -22,4 +22,4 @@ MORODER is a techno and house artist based in Bulgaria, with 6 gigs on soundchec
 
 Miss Lidiya, Shade., VELLA
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moroder-bg/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moroder-bg/)*

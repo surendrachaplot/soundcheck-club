@@ -1,6 +1,6 @@
 # Renate Klubnacht & Daytime with Flight Mode & GTI at Renate
 
-Renate Klubnacht & Daytime with Flight Mode & GTI on Sat 28 Nov, Berlin. 11 artists: Eliott Litrowski, GTI, ilbroccolovolante and Kidcat and 7 more. Techno and House. See the line-up on soundcheck.
+Renate Klubnacht & Daytime with Flight Mode & GTI on Sat 28 Nov, Berlin. 13 artists: Eliott Litrowski, Furotica, GTI and ilbroccolovolante and 9 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,8 +11,10 @@ Renate Klubnacht & Daytime with Flight Mode & GTI on Sat 28 Nov, Berlin. 11 arti
 ## Line-up
 
 - Eliott Litrowski
+- Furotica
 - GTI
 - ilbroccolovolante
+- Jelle from the Block
 - Kidcat
 - Laylla Dane
 - Leona Jacewska

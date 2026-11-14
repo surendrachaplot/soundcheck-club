@@ -1,6 +1,6 @@
 # Josh Heywood
 
-Josh Heywood is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
+Josh Heywood is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
 
 Josh Heywood is a techno and house artist based in Australia, with 65 gigs on soundcheck across Auckland, Berlin, Brisbane and Canberra and 5 more. Often billed alongside Etwas, HYBE and Matteo Freyrie. Next up: Lardner Park, Melbourne on Fri 27 Nov.
 
@@ -28,4 +28,4 @@ Josh Heywood is a techno and house artist based in Australia, with 65 gigs on so
 
 Etwas, HYBE, Matteo Freyrie
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshheywood/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshheywood/)*

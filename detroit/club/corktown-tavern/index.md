@@ -1,6 +1,6 @@
 # Corktown Tavern
 
-Corktown Tavern is a music venue in Detroit with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Chicago vs Detroit - The Night before Thanksgiving Showdown" on Wed, 25 Nov 2026.
+Corktown Tavern is a music venue in Detroit with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Chicago vs Detroit - The Night before Thanksgiving Showdown" on Wed, 25 Nov 2026.
 
 Corktown Tavern is a music venue in Detroit listed on soundcheck. 2 upcoming gigs, with line-ups including Brent Shay, Deeper Waters, Mike Agent X Clark and Rimarkable and 2 more. See dates, start times and who's playing. 1716 Michigan Avenue; Detroit, MI 48216; United States.
 
@@ -15,4 +15,4 @@ Corktown Tavern is a music venue in Detroit listed on soundcheck. 2 upcoming gig
 
 1716 Michigan Avenue; Detroit, MI 48216; United States, Detroit
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/corktown-tavern/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/corktown-tavern/)*

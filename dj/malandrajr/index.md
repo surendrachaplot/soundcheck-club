@@ -1,6 +1,6 @@
 # Malandra JR
 
-Malandra JR is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Cielo Farms Malibu, Los Angeles on Sat, 14 Nov 2026.
+Malandra JR is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Cielo Farms Malibu, Los Angeles on Sat, 14 Nov 2026.
 
 Malandra JR is a house and techno artist based in Italy, with 12 gigs on soundcheck across Berlin, Brussels, Dubai and Frankfurt and 6 more. Often billed alongside Hugorieri, Andre Winter and Belben. Next up: Cielo Farms Malibu, Los Angeles on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Malandra JR is a house and techno artist based in Italy, with 12 gigs on soundch
 
 Hugorieri, Andre Winter, Belben
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/malandrajr/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/malandrajr/)*

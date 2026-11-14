@@ -1,6 +1,6 @@
 # Cosmjn
 
-Cosmjn is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Drop inn, Birmingham on Sat, 26 Dec 2026.
+Cosmjn is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at The Drop inn, Birmingham on Sat, 26 Dec 2026.
 
 Cosmjn is a minimal and house artist based in Romania, with 76 gigs on soundcheck across Atlanta, Auckland, Bali and Barcelona and 37 more. Often billed alongside Lizz, Andrei Ciubuc and Herodot. Next up: The Drop inn, Birmingham on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Cosmjn is a minimal and house artist based in Romania, with 76 gigs on soundchec
 
 Lizz, Andrei Ciubuc, Herodot
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmjn/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmjn/)*

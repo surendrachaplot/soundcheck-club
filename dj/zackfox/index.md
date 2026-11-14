@@ -1,8 +1,8 @@
 # Zack Fox
 
-Zack Fox is a Ghetto Tech and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
+Zack Fox is a Ghetto Tech and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
 
-Zack Fox is a ghetto tech and house artist based in United States of America, with 93 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 29 more. Often billed alongside DJ Bone, Jubilee and Jyoty. Next up: Factory Town, Miami on Wed 2 Dec.
+Zack Fox is a ghetto tech and house artist based in United States of America, with 94 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 29 more. Often billed alongside DJ Bone, Jubilee and Jyoty. Next up: Factory Town, Miami on Wed 2 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Zack Fox is a ghetto tech and house artist based in United States of America, wi
 | --- | --- | --- |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
+| Thu, 4 Feb 2027 | Knockdown Center | New York City |
 | Fri, 5 Feb 2027 | Knockdown Center | New-york-city |
 | Sat, 6 Feb 2027 | Knockdown Center | New-york-city |
 
@@ -28,4 +29,4 @@ Zack Fox is a ghetto tech and house artist based in United States of America, wi
 
 DJ Bone, Jubilee, Jyoty
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zackfox/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zackfox/)*

@@ -1,6 +1,6 @@
 # Mamede
 
-Mamede is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Studio dB, Berlin on Sat, 21 Nov 2026.
+Mamede is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Studio dB, Berlin on Sat, 21 Nov 2026.
 
 Mamede is a house and disco artist based in Brazil, with 21 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Madrid and 1 more. Often billed alongside materia hache, riss and FatAles. Next up: Studio dB, Berlin on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Mamede is a house and disco artist based in Brazil, with 21 gigs on soundcheck a
 
 materia hache, riss, FatAles
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mamede/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mamede/)*

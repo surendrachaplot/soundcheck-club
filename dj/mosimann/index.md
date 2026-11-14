@@ -1,6 +1,6 @@
 # Mosimann
 
-Mosimann is a Electro and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Igloofest, Montreal on Thu, 28 Jan 2027.
+Mosimann is a Electro and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Igloofest, Montreal on Thu, 28 Jan 2027.
 
 Mosimann is an electro and house artist based in France, with 24 gigs on soundcheck across Amsterdam, Andorra, Barcelona and Brussels and 9 more. Often billed alongside Vladimir Cauchemar, Acid Arab and Agoria. Next up: Igloofest, Montreal on Thu 28 Jan.
 
@@ -27,4 +27,4 @@ Mosimann is an electro and house artist based in France, with 24 gigs on soundch
 
 Vladimir Cauchemar, Acid Arab, Agoria
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mosimann/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mosimann/)*

@@ -1,6 +1,6 @@
 # André Costa
 
-André Costa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at 5A, Lisbon on Thu, 19 Nov 2026.
+André Costa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at 5A, Lisbon on Thu, 19 Nov 2026.
 
 André Costa is a house and techno artist, with 7 gigs on soundcheck across Lisbon. Often billed alongside FAUSTO, Pedrø Duarte and Afonso (PT). Next up: 5A, Lisbon on Thu 19 Nov.
 
@@ -23,4 +23,4 @@ André Costa is a house and techno artist, with 7 gigs on soundcheck across Lisb
 
 FAUSTO, Pedrø Duarte, Afonso (PT)
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andrecosta/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andrecosta/)*

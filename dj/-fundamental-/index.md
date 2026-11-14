@@ -1,6 +1,6 @@
 # Fundamental
 
-Fundamental is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Rąžė, Lithuania on Fri, 20 Nov 2026.
+Fundamental is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Rąžė, Lithuania on Fri, 20 Nov 2026.
 
 Fundamental is a tech house and house artist based in Lithuania, with 8 gigs on soundcheck across Lithuania, Riga and Vilnius. Often billed alongside AUREJA, Ambroza and DJ Alwayslate. Next up: Rąžė, Lithuania on Fri 20 Nov.
 
@@ -24,4 +24,4 @@ Fundamental is a tech house and house artist based in Lithuania, with 8 gigs on 
 
 AUREJA, Ambroza, DJ Alwayslate
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/-fundamental-/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/-fundamental-/)*

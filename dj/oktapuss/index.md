@@ -1,6 +1,6 @@
 # OKTAPUSS
 
-OKTAPUSS is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Block42, Nuanu Creative City, Bali on Sat, 12 Dec 2026.
+OKTAPUSS is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Block42, Nuanu Creative City, Bali on Sat, 12 Dec 2026.
 
 OKTAPUSS is a techno and breakbeat artist based in Indonesia, with 17 gigs on soundcheck across Bali, Bangkok, Ho Chi Minh City and Kuala Lumpur. Often billed alongside Ian Lapa, Loreng and Greystick. Next up: Block42, Nuanu Creative City, Bali on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ OKTAPUSS is a techno and breakbeat artist based in Indonesia, with 17 gigs on so
 
 Ian Lapa, Loreng, Greystick
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oktapuss/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oktapuss/)*

@@ -1,6 +1,6 @@
 # Janaway
 
-Janaway is a Jungle and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Distillery N17, London on Sun, 22 Nov 2026.
+Janaway is a Jungle and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Distillery N17, London on Sun, 22 Nov 2026.
 
 Janaway is a jungle and hardcore artist based in United Kingdom, with 84 gigs on soundcheck across Amsterdam, Berlin, Brighton and Bristol and 13 more. Often billed alongside The Bass Injector, Guido YZ and Mousai. Next up: Distillery N17, London on Sun 22 Nov.
 
@@ -26,4 +26,4 @@ Janaway is a jungle and hardcore artist based in United Kingdom, with 84 gigs on
 
 The Bass Injector, Guido YZ, Mousai
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janaway/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janaway/)*

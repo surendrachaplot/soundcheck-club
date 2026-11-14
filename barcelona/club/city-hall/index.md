@@ -1,6 +1,6 @@
 # City Hall
 
-City Hall is a music venue in Barcelona with 27 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "HARDCORE MANIAKS x MASIA" on Sat, 14 Nov 2026.
+City Hall is a music venue in Barcelona with 27 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "HARDCORE MANIAKS x MASIA" on Sat, 14 Nov 2026.
 
 City Hall is a music venue in Barcelona listed on soundcheck. 27 upcoming gigs, with line-ups including Ardz, B.UNQ!, Cambric and CUTIE and 2 more. See dates, start times and who's playing. Rambla de Catalunya, 4; 08007 Barcelona; Spain.
 
@@ -23,4 +23,4 @@ City Hall is a music venue in Barcelona listed on soundcheck. 27 upcoming gigs, 
 
 Rambla de Catalunya, 4; 08007 Barcelona; Spain, Barcelona
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/city-hall/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/city-hall/)*

@@ -1,6 +1,6 @@
 # Cabaret Voltaire
 
-Cabaret Voltaire is a Post-Punk and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Floyd, Athens on Thu, 3 Dec 2026.
+Cabaret Voltaire is a Post-Punk and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Floyd, Athens on Thu, 3 Dec 2026.
 
 Cabaret Voltaire is a post-punk and industrial artist based in United Kingdom, with 10 gigs on soundcheck across Amsterdam, Athens, Barcelona and Brussels and 5 more. Often billed alongside Olga Anna Markowska, 2K88 and 30drop. Next up: Floyd, Athens on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Cabaret Voltaire is a post-punk and industrial artist based in United Kingdom, w
 
 Olga Anna Markowska, 2K88, 30drop
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cabaretvoltaire/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cabaretvoltaire/)*

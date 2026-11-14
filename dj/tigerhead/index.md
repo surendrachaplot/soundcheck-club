@@ -1,14 +1,14 @@
 # Tigerhead
 
-Tigerhead is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at AUX Club, Athens on Sat, 14 Nov 2026.
+Tigerhead is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Arch Club Live Stage, Athens on Sat, 14 Nov 2026.
 
-Tigerhead is a techno and trance artist, with 76 gigs on soundcheck across Athens, Atlanta, Basel and Berlin and 31 more. Often billed alongside Ellen Allien, Bours? and Beau Didier. Next up: AUX Club, Athens on Sat 14 Nov.
+Tigerhead is a techno and trance artist, with 76 gigs on soundcheck across Athens, Atlanta, Basel and Berlin and 31 more. Often billed alongside Ellen Allien, Bours? and Beau Didier. Next up: Arch Club Live Stage, Athens on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | AUX Club | Athens |
+| Sat, 14 Nov 2026 | Arch Club Live Stage | Athens |
 | Sat, 12 Dec 2026 | OST | Berlin |
 
 ## Recently played
@@ -26,4 +26,4 @@ Tigerhead is a techno and trance artist, with 76 gigs on soundcheck across Athen
 
 Ellen Allien, Bours?, Beau Didier
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tigerhead/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tigerhead/)*

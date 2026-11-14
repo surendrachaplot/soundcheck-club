@@ -1,6 +1,6 @@
 # Ly Tran
 
-Ly Tran is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at El Cid, Los Angeles on Fri, 20 Nov 2026.
+Ly Tran is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at El Cid, Los Angeles on Fri, 20 Nov 2026.
 
 Ly Tran is a club and techno artist based in United States of America, with 20 gigs on soundcheck across Los Angeles and New York City. Often billed alongside Pauliewog, Jae-an and Azure. Next up: El Cid, Los Angeles on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Ly Tran is a club and techno artist based in United States of America, with 20 g
 
 Pauliewog, Jae-an, Azure
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lytran/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lytran/)*

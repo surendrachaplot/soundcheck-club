@@ -1,6 +1,6 @@
 # dogheadsurigeri
 
-dogheadsurigeri is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Jasna 1, Warsaw on Sat, 5 Dec 2026.
+dogheadsurigeri is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Jasna 1, Warsaw on Sat, 5 Dec 2026.
 
 dogheadsurigeri is a techno and trance artist based in Poland, with 75 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 17 more. Often billed alongside Antonio De Angelis, Bassvictim and Blasha & Allatt. Next up: Jasna 1, Warsaw on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ dogheadsurigeri is a techno and trance artist based in Poland, with 75 gigs on s
 
 Antonio De Angelis, Bassvictim, Blasha & Allatt
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dogheadsurigeri/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dogheadsurigeri/)*

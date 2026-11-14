@@ -1,6 +1,6 @@
 # Antique (HU)
 
-Antique (HU) is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Vektor - The Klub, Budapest on Sat, 14 Nov 2026.
+Antique (HU) is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Vektor - The Klub, Budapest on Sat, 14 Nov 2026.
 
 Antique (HU) is a house and tech house artist based in Hungary, with 42 gigs on soundcheck across Budapest. Often billed alongside T:MANIAK, Spanti and TAMAS SZABO. Next up: Vektor - The Klub, Budapest on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Antique (HU) is a house and tech house artist based in Hungary, with 42 gigs on 
 
 T:MANIAK, Spanti, TAMAS SZABO
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antiquehu/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antiquehu/)*

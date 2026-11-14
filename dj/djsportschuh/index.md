@@ -1,6 +1,6 @@
 # DJ SPORTSCHUH
 
-DJ SPORTSCHUH is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at OXI, Berlin on Fri, 4 Dec 2026.
+DJ SPORTSCHUH is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at OXI, Berlin on Fri, 4 Dec 2026.
 
 DJ SPORTSCHUH is a techno and house artist based in Germany, with 141 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 16 more. Often billed alongside BNZN, Flavius (DE) and ATTA (GER). Next up: OXI, Berlin on Fri 4 Dec.
 
@@ -28,4 +28,4 @@ DJ SPORTSCHUH is a techno and house artist based in Germany, with 141 gigs on so
 
 BNZN, Flavius (DE), ATTA (GER)
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsportschuh/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsportschuh/)*

@@ -1,6 +1,6 @@
 # Hugh Malo
 
-Hugh Malo is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Beech Kombucha, Tampa Bay on Sat, 14 Nov 2026.
+Hugh Malo is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Beech Kombucha, Tampa Bay on Sat, 14 Nov 2026.
 
 Hugh Malo is a minimal and house artist based in United States of America, with 15 gigs on soundcheck across Miami and Tampa Bay. Often billed alongside Mayan Cxllective, Protect and Diana NC. Next up: Beech Kombucha, Tampa Bay on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Hugh Malo is a minimal and house artist based in United States of America, with 
 
 Mayan Cxllective, Protect, Diana NC
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hughmalo/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hughmalo/)*

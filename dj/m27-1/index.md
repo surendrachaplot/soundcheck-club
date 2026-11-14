@@ -1,6 +1,6 @@
 # M27 (1)
 
-M27 (1) is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Heavy Sick Zero, Tokyo on Sat, 12 Dec 2026.
+M27 (1) is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Heavy Sick Zero, Tokyo on Sat, 12 Dec 2026.
 
 M27 is a jungle and drum & bass artist, with 33 gigs on soundcheck across Chicago, Los Angeles, New York City and San Francisco/Oakland and 1 more. Often billed alongside Keishaboy, SOBA and Nobel Filth. Next up: Heavy Sick Zero, Tokyo on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ M27 is a jungle and drum & bass artist, with 33 gigs on soundcheck across Chicag
 
 Keishaboy, SOBA, Nobel Filth
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/m27-1/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/m27-1/)*

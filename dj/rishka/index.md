@@ -1,6 +1,6 @@
 # Rishka
 
-Rishka is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at AMT, Berlin on Fri, 4 Dec 2026.
+Rishka is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at AMT, Berlin on Fri, 4 Dec 2026.
 
 Rishka is a techno and trance artist based in Germany, with 25 gigs on soundcheck across Berlin, Cologne, Munich and Nürnberg and 1 more. Often billed alongside DJ SEXSTASY, Towicz and KTK (DE). Next up: AMT, Berlin on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Rishka is a techno and trance artist based in Germany, with 25 gigs on soundchec
 
 DJ SEXSTASY, Towicz, KTK (DE)
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rishka/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rishka/)*

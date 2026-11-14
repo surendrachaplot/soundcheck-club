@@ -1,6 +1,6 @@
 # Teddy Killerz
 
-Teddy Killerz is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Westhafen, Leipzig on Sat, 28 Nov 2026.
+Teddy Killerz is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Westhafen, Leipzig on Sat, 28 Nov 2026.
 
 Teddy Killerz is a drum & bass and bass artist based in Russia, with 44 gigs on soundcheck across Amsterdam, Antwerp, Bratislava and Brisbane and 26 more. Often billed alongside Black Sun Empire, Magnetude and Audio. Next up: Westhafen, Leipzig on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Teddy Killerz is a drum & bass and bass artist based in Russia, with 44 gigs on 
 
 Black Sun Empire, Magnetude, Audio
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/teddykillerz/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/teddykillerz/)*

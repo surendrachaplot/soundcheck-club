@@ -1,6 +1,6 @@
 # Sama' Abdulhadi
 
-Sama' Abdulhadi is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at CDP - Grassina (FI), Florence on Sat, 14 Nov 2026.
+Sama' Abdulhadi is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at CDP - Grassina (FI), Florence on Sat, 14 Nov 2026.
 
 Sama' Abdulhadi is a techno and house artist based in Palestine, with 174 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beirut and 60 more. Often billed alongside Richie Hawtin, Ben Klock and Anfisa Letyago. Next up: CDP - Grassina (FI), Florence on Sat 14 Nov.
 
@@ -29,4 +29,4 @@ Sama' Abdulhadi is a techno and house artist based in Palestine, with 174 gigs o
 
 Richie Hawtin, Ben Klock, Anfisa Letyago
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samaabdulhadi/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samaabdulhadi/)*

@@ -1,6 +1,6 @@
 # Nachine
 
-Nachine is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Core, Madrid on Sat, 14 Nov 2026.
+Nachine is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Core, Madrid on Sat, 14 Nov 2026.
 
 Nachine is an electronica and house artist based in Spain, with 17 gigs on soundcheck across Madrid. Often billed alongside SexNachine, SENDA FATAL and Varo (ES). Next up: Core, Madrid on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Nachine is an electronica and house artist based in Spain, with 17 gigs on sound
 
 SexNachine, SENDA FATAL, Varo (ES)
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nachine/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nachine/)*

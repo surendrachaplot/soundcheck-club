@@ -1,26 +1,26 @@
 # SWG3
 
-SWG3 is a music venue in Glasgow with 28 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "SYNRG Presents - Francesco Del Garda & DJ Masda" on Fri, 13 Nov 2026.
+SWG3 is a music venue in Glasgow with 23 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "CASSIUS Club LIVE + Special Guests" on Sat, 14 Nov 2026.
 
-SWG3 is a music venue in Glasgow listed on soundcheck. 28 upcoming gigs, with line-ups including AMMARA, An Dannsa Dub, Boss Priester and Bushbaby and 2 more. See dates, start times and who's playing. 100 Eastvale Place, Glasgow, G3 8QG.
+SWG3 is a music venue in Glasgow listed on soundcheck. 23 upcoming gigs, with line-ups including AMMARA, An Dannsa Dub, Bushbaby and Cassius and 2 more. See dates, start times and who's playing. 100 Eastvale Place, Glasgow, G3 8QG.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | SYNRG Presents - Francesco Del Garda & DJ Masda | DJ Masda, Francesco Del Garda |
-| Fri, 13 Nov 2026 | SYNRG Presents - Francesco Del Garda & DJ Masda | DJ Masda, Francesco Del Garda |
-| Fri, 13 Nov 2026 | SYNRG presents: Francesco Del Garda b2b DJ Masda (All Night Long) | DJ Masda, Francesco Del Garda |
-| Fri, 13 Nov 2026 | FLY / Jamback, Locky & Boss Priester / Glasgow | Boss Priester, Jamback, Locky |
-| Fri, 13 Nov 2026 | FLY - Jamback, Locky & Boss Priester - Glasgow | Boss Priester, Jamback, Locky |
 | Sat, 14 Nov 2026 | CASSIUS Club LIVE + Special Guests | Cassius |
 | Fri, 20 Nov 2026 | RARE Club // Bushbaby | Bushbaby, gau7t |
 | Sat, 21 Nov 2026 | FLY / Paige Tomlinson / Glasgow | Paige Tomlinson |
 | Sat, 21 Nov 2026 | Paige Tomlinson & Céleste - Glasgow | Céleste, Paige Tomlinson |
 | Fri, 27 Nov 2026 | Mietze Conte - SWG3 Warehouse | Mietze Conte |
+| Fri, 27 Nov 2026 | Colours House Party Presents Sasha | Lloyd Barwood, Sasha |
+| Fri, 27 Nov 2026 | Techno Culture |  |
+| Sat, 28 Nov 2026 | Steel City Dance Discs / X CLUB., Tommy Holohan, Clouds + more | Clouds, Jenn Gunn (2), Tommy Holohan, X CLUB. |
+| Sat, 28 Nov 2026 | Steel City Scotland - X Club, Tommy Holohan x Clouds, Jenn Gunn | Clouds, Jenn Gunn (2), Tommy Holohan, X CLUB. |
+| Sat, 28 Nov 2026 | An Dannsa Dub + Special Guests | An Dannsa Dub |
 
 ## Address
 
 100 Eastvale Place, Glasgow, G3 8QG, Glasgow
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/swg3/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/swg3/)*

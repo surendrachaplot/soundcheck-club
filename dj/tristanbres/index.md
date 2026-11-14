@@ -1,6 +1,6 @@
 # Tristan Bres
 
-Tristan Bres is a electronic artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
+Tristan Bres is a electronic artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
 
 Tristan Bres is an electronic artist based in France, with 2 gigs on soundcheck across Bangalore and Thailand. Often billed alongside Sweely, ANSWER (IN) and Afrodite. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
 
@@ -15,4 +15,4 @@ Tristan Bres is an electronic artist based in France, with 2 gigs on soundcheck 
 
 Sweely, ANSWER (IN), Afrodite (2)
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tristanbres/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tristanbres/)*

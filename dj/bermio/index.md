@@ -1,6 +1,6 @@
 # Bermio
 
-Bermio is a Techno and Classical artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TRAUM, Antwerp on Sat, 2 Jan 2027.
+Bermio is a Techno and Classical artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TRAUM, Antwerp on Sat, 2 Jan 2027.
 
 Bermio is a techno and classical artist based in Belgium, with 13 gigs on soundcheck across Amsterdam, Antwerp and Brussels. Often billed alongside Luna Lucci, Joyhauser and Klaps. Next up: TRAUM, Antwerp on Sat 2 Jan.
 
@@ -25,4 +25,4 @@ Bermio is a techno and classical artist based in Belgium, with 13 gigs on soundc
 
 Luna Lucci, Joyhauser, Klaps
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bermio/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bermio/)*

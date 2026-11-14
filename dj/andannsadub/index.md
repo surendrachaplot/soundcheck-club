@@ -1,6 +1,6 @@
 # An Dannsa Dub
 
-An Dannsa Dub is a Dub and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at SWG3, Glasgow on Sat, 28 Nov 2026.
+An Dannsa Dub is a Dub and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at SWG3, Glasgow on Sat, 28 Nov 2026.
 
 An Dannsa Dub is a dub and jungle artist based in United Kingdom, with 12 gigs on soundcheck across Edinburgh, Glasgow, London and Newcastle. Often billed alongside Alpha Steppa, Doss and Eva Lazarus. Next up: SWG3, Glasgow on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ An Dannsa Dub is a dub and jungle artist based in United Kingdom, with 12 gigs o
 
 Alpha Steppa, Doss, Eva Lazarus
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andannsadub/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andannsadub/)*

@@ -1,6 +1,6 @@
 # Maya Evers
 
-Maya Evers is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Kater, Berlin on Thu, 31 Dec 2026.
+Maya Evers is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Kater, Berlin on Thu, 31 Dec 2026.
 
 Maya Evers is a house and techno artist based in Germany, with 10 gigs on soundcheck across Berlin, Hamburg and Stuttgart. Often billed alongside Chris Schwarzwälder, Mona Moore and Sven Dohse. Next up: Kater, Berlin on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Maya Evers is a house and techno artist based in Germany, with 10 gigs on soundc
 
 Chris Schwarzwälder, Mona Moore, Sven Dohse
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mayaevers/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mayaevers/)*

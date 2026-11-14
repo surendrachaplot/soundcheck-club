@@ -1,6 +1,6 @@
 # Zuleta M
 
-Zuleta M is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Süss War Gestern, Berlin on Sat, 21 Nov 2026.
+Zuleta M is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Süss War Gestern, Berlin on Sat, 21 Nov 2026.
 
 Zuleta M is a house and techno artist, with 22 gigs on soundcheck across Barcelona, Berlin and Ibiza. Often billed alongside Gonzalo Lavin (Chile), Besch and Miguel Silva. Next up: Süss War Gestern, Berlin on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Zuleta M is a house and techno artist, with 22 gigs on soundcheck across Barcelo
 
 Gonzalo Lavin (Chile), Besch, Miguel Silva
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zuletam/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zuletam/)*

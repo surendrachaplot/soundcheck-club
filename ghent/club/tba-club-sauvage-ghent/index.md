@@ -1,6 +1,6 @@
 # TBA - Club Sauvage - Ghent
 
-TBA - Club Sauvage - Ghent is a music venue in Ghent with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "KNALL with Dave H and Marco Chia" on Sun, 7 Feb 2027.
+TBA - Club Sauvage - Ghent is a music venue in Ghent with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. The next is "KNALL with Dave H and Marco Chia" on Sun, 7 Feb 2027.
 
 TBA - Club Sauvage - Ghent is a music venue in Ghent listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Club Sauvage - Ghent is a music venue in Ghent listed on soundcheck. 1 upc
 | --- | --- | --- |
 | Sun, 7 Feb 2027 | KNALL with Dave H and Marco Chia |  |
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/tba-club-sauvage-ghent/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/tba-club-sauvage-ghent/)*

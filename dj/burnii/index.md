@@ -1,6 +1,6 @@
 # Burnii
 
-Burnii is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Comfort Zone, Toronto on Fri, 27 Nov 2026.
+Burnii is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at The Comfort Zone, Toronto on Fri, 27 Nov 2026.
 
 Burnii is a techno and tech house artist based in Canada, with 20 gigs on soundcheck across Toronto. Often billed alongside KILL 9 1, R4TS and BlanchEcho. Next up: The Comfort Zone, Toronto on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Burnii is a techno and tech house artist based in Canada, with 20 gigs on soundc
 
 KILL 9 1, R4TS, BlanchEcho
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/burnii/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/burnii/)*

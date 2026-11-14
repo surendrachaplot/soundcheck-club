@@ -1,6 +1,6 @@
 # dj goodboy (BK)
 
-dj goodboy (BK) is a Breakbeat and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Honey's, New York City on Sat, 5 Dec 2026.
+dj goodboy (BK) is a Breakbeat and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Honey's, New York City on Sat, 5 Dec 2026.
 
 dj goodboy (BK) is a breakbeat and house artist based in Canada, with 11 gigs on soundcheck across New York City and San Francisco/Oakland. Often billed alongside Pedestrian Access, Spiral Eddie and Bea Levy. Next up: Honey's, New York City on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ dj goodboy (BK) is a breakbeat and house artist based in Canada, with 11 gigs on
 
 Pedestrian Access, Spiral Eddie, Bea Levy
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djgoodboy-bk/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djgoodboy-bk/)*

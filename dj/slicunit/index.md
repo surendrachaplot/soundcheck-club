@@ -1,6 +1,6 @@
 # SLIC Unit
 
-SLIC Unit is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Golden Pudel Club, Hamburg on Sat, 28 Nov 2026.
+SLIC Unit is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Golden Pudel Club, Hamburg on Sat, 28 Nov 2026.
 
 SLIC Unit is a club and bass artist based in Germany, with 35 gigs on soundcheck across Berlin, Bogotá, Cologne and Colombia and 6 more. Often billed alongside yung_womb, Slimgirl fat and Nissa Carrington. Next up: Golden Pudel Club, Hamburg on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ SLIC Unit is a club and bass artist based in Germany, with 35 gigs on soundcheck
 
 yung_womb, Slimgirl fat, Nissa Carrington
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slicunit/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slicunit/)*

@@ -1,6 +1,6 @@
 # Lilly & Kazan
 
-Lilly & Kazan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Crack Bellmer, Berlin on Sat, 5 Dec 2026.
+Lilly & Kazan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Crack Bellmer, Berlin on Sat, 5 Dec 2026.
 
 Lilly & Kazan are a house and techno duo, with 19 gigs on soundcheck across Berlin and Istanbul. Often billed alongside Mr. Fonk, CanDJane and Concentio. Next up: Crack Bellmer, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Lilly & Kazan are a house and techno duo, with 19 gigs on soundcheck across Berl
 
 Mr. Fonk, CanDJane, Concentio
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lillykazan/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lillykazan/)*

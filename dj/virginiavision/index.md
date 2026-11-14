@@ -1,13 +1,14 @@
 # Virginia Vision
 
-Virginia Vision is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Night We Met, Nashville on Fri, 27 Nov 2026.
+Virginia Vision is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Night We Met, Nashville on Fri, 20 Nov 2026.
 
-Virginia Vision is a house and deep house artist based in United States of America, with 15 gigs on soundcheck across Nashville and Washington DC. Often billed alongside Cheeko, Chito and KREAM. Next up: Night We Met, Nashville on Fri 27 Nov.
+Virginia Vision is a house and deep house artist based in United States of America, with 16 gigs on soundcheck across Nashville and Washington DC. Often billed alongside Cheeko, Chito and Forester. Next up: Night We Met, Nashville on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | Night We Met | Nashville |
 | Fri, 27 Nov 2026 | Night We Met | Nashville |
 
 ## Recently played
@@ -23,6 +24,6 @@ Virginia Vision is a house and deep house artist based in United States of Ameri
 
 ## Shares bills with
 
-Cheeko, Chito, KREAM
+Cheeko, Chito, Forester
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/virginiavision/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/virginiavision/)*

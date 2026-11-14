@@ -1,11 +1,11 @@
-# GUEST MIXES at Parking.Radio
+# GUEST MIXES at parking.radio
 
-GUEST MIXES at Parking.Radio on Sun 15 Nov, Quebec City. 1 artist: R-DNA. See the line-up on soundcheck.
+GUEST MIXES at parking.radio on Sun 15 Nov, Quebec City. 1 artist: R-DNA. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sun, 15 Nov 2026 |
-| Venue | Parking.Radio |
+| Venue | parking.radio |
 | City | Quebec City |
 
 ## Line-up

@@ -1,6 +1,6 @@
 # Here on Earth
 
-Here on Earth is a Jazz and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Kings Arms E2, London on Sun, 29 Nov 2026.
+Here on Earth is a Jazz and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Kings Arms E2, London on Sun, 29 Nov 2026.
 
 Here on Earth is a jazz and funk / soul artist based in United Kingdom, with 8 gigs on soundcheck across London. Often billed alongside ARLYSS, Alfie Panaiotis and Cristian Sirica. Next up: Kings Arms E2, London on Sun 29 Nov.
 
@@ -24,4 +24,4 @@ Here on Earth is a jazz and funk / soul artist based in United Kingdom, with 8 g
 
 ARLYSS, Alfie Panaiotis, Cristian Sirica
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hereonearth/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hereonearth/)*

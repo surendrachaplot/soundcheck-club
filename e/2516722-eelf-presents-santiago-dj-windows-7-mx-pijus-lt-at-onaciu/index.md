@@ -1,6 +1,6 @@
 # EELF Presents - Santiago: DJ Windows 7 (Mx), Pijus (LT) at Onaciu
 
-EELF Presents - Santiago: DJ Windows 7 (Mx), Pijus (LT) at Onaciu on Fri 20 Nov, Santiago. 2 artists: DJ WINDOWS 7 and Pijus. Techno and House. See the line-up on soundcheck.
+EELF Presents - Santiago: DJ Windows 7 (Mx), Pijus (LT) at Onaciu on Fri 20 Nov, Santiago. 2 artists: DJ WINDOWS 7 and Pijus. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

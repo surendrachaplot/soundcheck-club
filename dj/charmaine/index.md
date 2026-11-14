@@ -1,6 +1,6 @@
 # Charmaine
 
-Charmaine is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Benelux BAR, Amsterdam on Sun, 6 Dec 2026.
+Charmaine is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Benelux BAR, Amsterdam on Sun, 6 Dec 2026.
 
 Charmaine is a house and techno artist based in Netherlands, with 67 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 4 more. Often billed alongside Ays (NL), CARISTA and DTM Funk. Next up: Benelux BAR, Amsterdam on Sun 6 Dec.
 
@@ -26,4 +26,4 @@ Charmaine is a house and techno artist based in Netherlands, with 67 gigs on sou
 
 Ays (NL), CARISTA, DTM Funk
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/charmaine/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/charmaine/)*

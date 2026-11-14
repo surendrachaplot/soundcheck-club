@@ -1,6 +1,6 @@
 # Rupert Ellis
 
-Rupert Ellis is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Electric Pizza Shop, Manchester on Fri, 18 Dec 2026.
+Rupert Ellis is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Electric Pizza Shop, Manchester on Fri, 18 Dec 2026.
 
 Rupert Ellis is a tech house and house artist based in United Kingdom, with 28 gigs on soundcheck across London, Manchester, Melbourne and Paris. Often billed alongside Will Mellor, DJOM and Bobby Scallop. Next up: Electric Pizza Shop, Manchester on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Rupert Ellis is a tech house and house artist based in United Kingdom, with 28 g
 
 Will Mellor, DJOM, Bobby Scallop
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rupertellis/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rupertellis/)*

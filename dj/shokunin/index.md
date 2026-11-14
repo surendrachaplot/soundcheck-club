@@ -1,6 +1,6 @@
 # Shokunin
 
-Shokunin is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Sauna Social Club, London on Sun, 22 Nov 2026.
+Shokunin is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Sauna Social Club, London on Sun, 22 Nov 2026.
 
 Shokunin is a techno and ambient artist, with 10 gigs on soundcheck across London. Often billed alongside robek (UK), Ilya Gurin-Babayeu and grysh77. Next up: Sauna Social Club, London on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ Shokunin is a techno and ambient artist, with 10 gigs on soundcheck across Londo
 
 robek (UK), Ilya Gurin-Babayeu, grysh77
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shokunin/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shokunin/)*

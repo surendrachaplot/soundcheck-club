@@ -1,6 +1,6 @@
 # Blinky
 
-Blinky is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at BIKO, Milan on Fri, 4 Dec 2026.
+Blinky is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at BIKO, Milan on Fri, 4 Dec 2026.
 
 Blinky is a techno and house artist, with 14 gigs on soundcheck across Melbourne, Milan and Shanghai. Often billed alongside Milangeles, Andrewww and Dam.no. Next up: BIKO, Milan on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Blinky is a techno and house artist, with 14 gigs on soundcheck across Melbourne
 
 Milangeles, Andrewww, Dam.no
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blinky/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blinky/)*

@@ -1,6 +1,6 @@
 # Terminal Bar
 
-Terminal Bar is a music venue in Minneapolis/St Paul with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Hot Buttered Boogie #1" on Sat, 21 Nov 2026.
+Terminal Bar is a music venue in Minneapolis/St Paul with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Hot Buttered Boogie #1" on Sat, 21 Nov 2026.
 
 Terminal Bar is a music venue in Minneapolis/St Paul listed on soundcheck. 2 upcoming gigs, with line-ups including DJ Blue Funk, DJ Katalist, DJ Nola and Vincent Patricola. See dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ Terminal Bar is a music venue in Minneapolis/St Paul listed on soundcheck. 2 upc
 | Sat, 21 Nov 2026 | Hot Buttered Boogie #1 | DJ Katalist, DJ Nola, Vincent Patricola |
 | Wed, 25 Nov 2026 | Bad Habit Extended Edition | DJ Blue Funk |
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/minneapolis/club/terminal-bar/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/minneapolis/club/terminal-bar/)*

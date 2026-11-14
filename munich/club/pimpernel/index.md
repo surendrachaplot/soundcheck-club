@@ -1,14 +1,13 @@
 # Pimpernel
 
-Pimpernel is a music venue in Munich with 18 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Pimpernel All Night Long" on Fri, 13 Nov 2026.
+Pimpernel is a music venue in Munich with 17 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Pimpernel All Night Long" on Sat, 14 Nov 2026.
 
-Pimpernel is a music venue in Munich listed on soundcheck. 18 upcoming gigs, with line-ups including Capitan Lalo, DJ Moritz, JAN RIEG and Jepe and 2 more. See dates, start times and who's playing. Müllerstr. 56; 80469 Munich; Germany.
+Pimpernel is a music venue in Munich listed on soundcheck. 17 upcoming gigs, with line-ups including DJ Moritz, JAN RIEG, Jepe and Luvin'Lou and 2 more. See dates, start times and who's playing. Müllerstr. 56; 80469 Munich; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Pimpernel All Night Long | Capitan Lalo |
 | Sat, 14 Nov 2026 | Pimpernel All Night Long | DJ Moritz |
 | Sun, 15 Nov 2026 | Pimpernel All Night Long | Sonson |
 | Mon, 16 Nov 2026 | Pimpernel All Night Long | Thomas Stieler |
@@ -18,9 +17,10 @@ Pimpernel is a music venue in Munich listed on soundcheck. 18 upcoming gigs, wit
 | Fri, 20 Nov 2026 | Pimpernel All Night Long | Tofu&Acid |
 | Sat, 21 Nov 2026 | Pimpernel All Night Long | Roberto Sotgia |
 | Sun, 22 Nov 2026 | Pimpernel All Night Long | Luvin'Lou |
+| Mon, 23 Nov 2026 | Pimpernel All Night Long | Thomas Stieler |
 
 ## Address
 
 Müllerstr. 56; 80469 Munich; Germany, Munich
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/pimpernel/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/pimpernel/)*

@@ -1,6 +1,6 @@
 # Junior Sanchez
 
-Junior Sanchez is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Green Room NYC, New York City on Fri, 11 Dec 2026.
+Junior Sanchez is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Green Room NYC, New York City on Fri, 11 Dec 2026.
 
 Junior Sanchez is a house and tech house artist based in United States of America, with 43 gigs on soundcheck across Atlanta, Austin, Boston and Detroit and 9 more. Often billed alongside Gettoblaster, Love & Logic and Devon James. Next up: Green Room NYC, New York City on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ Junior Sanchez is a house and tech house artist based in United States of Americ
 
 Gettoblaster, Love & Logic, Devon James
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juniorsanchez/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juniorsanchez/)*

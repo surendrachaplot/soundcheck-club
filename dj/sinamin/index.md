@@ -1,6 +1,6 @@
 # Sinamin
 
-Sinamin is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Kater, Berlin on Sat, 5 Dec 2026.
+Sinamin is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Kater, Berlin on Sat, 5 Dec 2026.
 
 Sinamin is a house and disco artist based in Germany, with 48 gigs on soundcheck across Berlin, Cologne, Dresden and Hamburg and 2 more. Often billed alongside Horst Haller, Ronald Koon and Bert Radscho. Next up: Kater, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Sinamin is a house and disco artist based in Germany, with 48 gigs on soundcheck
 
 Horst Haller, Ronald Koon, Bert Radscho
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sinamin/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sinamin/)*

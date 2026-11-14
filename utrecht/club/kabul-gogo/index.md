@@ -1,14 +1,13 @@
 # KABUL à GoGo
 
-KABUL à GoGo is a music venue in Utrecht with 6 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "SCHRITT x Vibrant Collective" on Fri, 13 Nov 2026.
+KABUL à GoGo is a music venue in Utrecht with 5 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Guitig by day & night" on Sat, 14 Nov 2026.
 
-KABUL à GoGo is a music venue in Utrecht listed on soundcheck. 6 upcoming gigs, with line-ups including 36framez, Bours?, Danny Wabbit and DIØN and 2 more. See dates, start times and who's playing. Gietijzerstraat 3, 3534 AV, Utrecht, Netherlands.
+KABUL à GoGo is a music venue in Utrecht listed on soundcheck. 5 upcoming gigs, with line-ups including 36framez, DIØN, dj flatfeet and Evi and 2 more. See dates, start times and who's playing. Gietijzerstraat 3, 3534 AV, Utrecht, Netherlands.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | SCHRITT x Vibrant Collective | Bours?, Danny Wabbit, Fran LF, Nastia, Sinergy |
 | Sat, 14 Nov 2026 | Guitig by day & night | 36framez, Hannecart, Jerrau, Lola Edo, Lyrae, TWIENA, Vuur, dj flatfeet |
 | Sat, 14 Nov 2026 | AT&T Account Bill Pay Online: Portal Login & Billing Management | Haseeb Iqbal, Novelist |
 | Fri, 20 Nov 2026 | Plume | Evi (1), MBQT, NT-FRAGILE |
@@ -19,4 +18,4 @@ KABUL à GoGo is a music venue in Utrecht listed on soundcheck. 6 upcoming gigs,
 
 Gietijzerstraat 3, 3534 AV, Utrecht, Netherlands, Utrecht
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/kabul-gogo/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/kabul-gogo/)*

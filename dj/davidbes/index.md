@@ -1,6 +1,6 @@
 # David Bes
 
-David Bes is a Minimal Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Malaga Sin City, Milan on Fri, 20 Nov 2026.
+David Bes is a Minimal Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Malaga Sin City, Milan on Fri, 20 Nov 2026.
 
 David Bes is a minimal techno and tech house artist based in Italy, with 29 gigs on soundcheck across Milan. Often billed alongside Avikal, Stefano Riva and Simon T. Next up: Malaga Sin City, Milan on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ David Bes is a minimal techno and tech house artist based in Italy, with 29 gigs
 
 Avikal, Stefano Riva, Simon T
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidbes/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidbes/)*

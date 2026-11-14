@@ -1,6 +1,6 @@
 # arow
 
-arow is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at VENT, Tokyo on Sat, 21 Nov 2026.
+arow is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at VENT, Tokyo on Sat, 21 Nov 2026.
 
 arow is a techno and house artist based in Japan, with 154 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside NordOst, TEI TEI and Aki Dolanikov. Next up: VENT, Tokyo on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ arow is a techno and house artist based in Japan, with 154 gigs on soundcheck ac
 
 NordOst, TEI TEI, Aki Dolanikov
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arow/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arow/)*

@@ -1,14 +1,14 @@
 # Konrad Wehrmeister
 
-Konrad Wehrmeister is a House and Dub artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Paloma, Berlin on Sat, 14 Nov 2026.
+Konrad Wehrmeister is a House and Dub artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Paloma, Berlin on Sat, 13 Mar 2027.
 
-Konrad Wehrmeister is a house and dub artist, with 19 gigs on soundcheck across Berlin, London, Manchester and Munich. Often billed alongside Lara Fein, Stenny and Bogus Trumper. Next up: Paloma, Berlin on Sat 14 Nov.
+Konrad Wehrmeister is a house and dub artist based in Germany, with 19 gigs on soundcheck across Berlin, London, Manchester and Munich. Often billed alongside Lara Fein, Stenny and Bogus Trumper. Next up: Paloma, Berlin on Sat 13 Mar.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Paloma | Berlin |
+| Sat, 13 Mar 2027 | Paloma | Berlin |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Konrad Wehrmeister is a house and dub artist, with 19 gigs on soundcheck across 
 
 Lara Fein, Stenny, Bogus Trumper
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/konradwehrmeister/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/konradwehrmeister/)*

@@ -1,14 +1,13 @@
 # Electrowerkz
 
-Electrowerkz is a music venue in London with 10 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Riposte - QUEER RAVE - 2 dancefloors + performance & art room + stalls" on Fri, 13 Nov 2026.
+Electrowerkz is a music venue in London with 9 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "GRIP [ XXX SPORTS NIGHT ]" on Thu, 19 Nov 2026.
 
-Electrowerkz is a music venue in London listed on soundcheck. 10 upcoming gigs, with line-ups including Arrosa, AUKA, AyChibs and Bethan and 2 more. See dates, start times and who's playing. 7 Torrens Street; Islington; London EC1V 1NQ; United Kingdom.
+Electrowerkz is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including Arrosa, AyChibs, Brother of Set and Claudia Kane and 2 more. See dates, start times and who's playing. 7 Torrens Street; Islington; London EC1V 1NQ; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Riposte - QUEER RAVE - 2 dancefloors + performance & art room + stalls | AUKA, Bethan, David Ramsay, J. Aria, Ms.G, Q-BRA |
 | Thu, 19 Nov 2026 | GRIP [ XXX SPORTS NIGHT ] |  |
 | Fri, 20 Nov 2026 | To The Left | AyChibs, Donnie Sunshine, Mayowa |
 | Fri, 20 Nov 2026 | HONEY HONEY |  |
@@ -23,4 +22,4 @@ Electrowerkz is a music venue in London listed on soundcheck. 10 upcoming gigs, 
 
 7 Torrens Street; Islington; London EC1V 1NQ; United Kingdom, London
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/electrowerkz/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/electrowerkz/)*

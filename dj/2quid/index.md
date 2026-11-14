@@ -1,6 +1,6 @@
 # 2QUID
 
-2QUID is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Wharf Chambers, Leeds on Sat, 5 Dec 2026.
+2QUID is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Wharf Chambers, Leeds on Sat, 5 Dec 2026.
 
 2QUID is a jungle and drum & bass artist based in United Kingdom, with 37 gigs on soundcheck across Amsterdam, Bristol, Leeds and Liverpool and 2 more. Often billed alongside Janaway, Phia500 and Samurai Breaks. Next up: Wharf Chambers, Leeds on Sat 5 Dec.
 
@@ -25,4 +25,4 @@
 
 Janaway, Phia500, Samurai Breaks
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/2quid/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/2quid/)*

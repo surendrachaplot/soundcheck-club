@@ -1,6 +1,6 @@
 # Green Lake Project
 
-Green Lake Project is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Ritter Butzke, Berlin on Sat, 6 Feb 2027.
+Green Lake Project is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Ritter Butzke, Berlin on Sat, 6 Feb 2027.
 
 Green Lake Project is a techno and house artist based in Germany, with 12 gigs on soundcheck across Berlin, Hamburg, Leipzig and Munich. Often billed alongside Mollono.Bass, nøvae and Danilo Kupfernagel. Next up: Ritter Butzke, Berlin on Sat 6 Feb.
 
@@ -25,4 +25,4 @@ Green Lake Project is a techno and house artist based in Germany, with 12 gigs o
 
 Mollono.Bass, nøvae, Danilo Kupfernagel
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/greenlakeproject/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/greenlakeproject/)*

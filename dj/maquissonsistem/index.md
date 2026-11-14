@@ -1,6 +1,6 @@
 # Maquis Son Sistèm
 
-Maquis Son Sistèm is a Dub and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Les Relais Solidaires, Paris on Sat, 28 Nov 2026.
+Maquis Son Sistèm is a Dub and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Les Relais Solidaires, Paris on Sat, 28 Nov 2026.
 
 Maquis Son Sistèm is a dub and bass artist based in France, with 25 gigs on soundcheck across Amsterdam, Berlin, Bristol and Brussels and 7 more. Often billed alongside Jan Loup, Fatale Furylax and Jacky Jeane. Next up: Les Relais Solidaires, Paris on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Maquis Son Sistèm is a dub and bass artist based in France, with 25 gigs on sou
 
 Jan Loup, Fatale Furylax, Jacky Jeane
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maquissonsistem/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maquissonsistem/)*

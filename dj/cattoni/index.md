@@ -1,6 +1,6 @@
 # Cattoni
 
-Cattoni is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Mia Mao, Paris on Sat, 30 Jan 2027.
+Cattoni is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Mia Mao, Paris on Sat, 30 Jan 2027.
 
 Cattoni is a techno and trance artist based in France, with 27 gigs on soundcheck across Berlin, Lyon and Paris. Often billed alongside In-Tan, Artifak and Kelbail. Next up: Mia Mao, Paris on Sat 30 Jan.
 
@@ -25,4 +25,4 @@ Cattoni is a techno and trance artist based in France, with 27 gigs on soundchec
 
 In-Tan, Artifak, Kelbail
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cattoni/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cattoni/)*

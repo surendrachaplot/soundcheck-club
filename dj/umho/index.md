@@ -1,6 +1,6 @@
 # Umho
 
-Umho is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Parque de los Gasometros, Santiago on Sat, 14 Nov 2026.
+Umho is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Parque de los Gasometros, Santiago on Sat, 14 Nov 2026.
 
 Umho is a house and minimal artist based in Chile, with 18 gigs on soundcheck across Miami and Santiago. Often billed alongside Ricardo Villalobos, Alejandro Vivanco and Francisco Martinez. Next up: Parque de los Gasometros, Santiago on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Umho is a house and minimal artist based in Chile, with 18 gigs on soundcheck ac
 
 Ricardo Villalobos, Alejandro Vivanco, Francisco Martinez
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/umho/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/umho/)*

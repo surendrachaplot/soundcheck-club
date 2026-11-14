@@ -1,6 +1,6 @@
 # Hilu (2)
 
-Hilu (2) is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Zu Mir Oder Zu Dir, Berlin on Thu, 19 Nov 2026.
+Hilu (2) is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Zu Mir Oder Zu Dir, Berlin on Thu, 19 Nov 2026.
 
 Hilu is a house and club artist based in Germany, with 8 gigs on soundcheck across Berlin. Often billed alongside Mitsuko, Amed Nheiro and Black Swan. Next up: Zu Mir Oder Zu Dir, Berlin on Thu 19 Nov.
 
@@ -24,4 +24,4 @@ Hilu is a house and club artist based in Germany, with 8 gigs on soundcheck acro
 
 Mitsuko, Amed Nheiro, Black Swan
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hilu-2/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hilu-2/)*

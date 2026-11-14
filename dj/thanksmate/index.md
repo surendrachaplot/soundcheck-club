@@ -1,6 +1,6 @@
 # ThanksMate
 
-ThanksMate is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Umoya, Naples on Fri, 1 Jan 2027.
+ThanksMate is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Umoya, Naples on Fri, 1 Jan 2027.
 
 ThanksMate is a house and disco artist based in United Kingdom, with 60 gigs on soundcheck across Amsterdam, Florence, London and Milan and 3 more. Often billed alongside Obbi, Curcio and Mugman. Next up: Umoya, Naples on Fri 1 Jan.
 
@@ -26,4 +26,4 @@ ThanksMate is a house and disco artist based in United Kingdom, with 60 gigs on 
 
 Obbi, Curcio, Mugman
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thanksmate/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thanksmate/)*

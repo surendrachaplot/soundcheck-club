@@ -1,8 +1,8 @@
 # aya
 
-aya is a Experimental and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Le Sucre, Lyon on Fri, 20 Nov 2026.
+aya is a Experimental and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Le Sucre, Lyon on Fri, 20 Nov 2026.
 
-aya is an experimental and techno artist based in United Kingdom, with 149 gigs on soundcheck across Adelaide, Amsterdam, Athens and Austria and 53 more. Often billed alongside 96 Back, Jennifer Walton and Heinali. Next up: Le Sucre, Lyon on Fri 20 Nov.
+aya is an experimental and techno artist based in United Kingdom, with 150 gigs on soundcheck across Adelaide, Amsterdam, Athens and Austria and 54 more. Often billed alongside 96 Back, Jennifer Walton and Heinali. Next up: Le Sucre, Lyon on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ aya is an experimental and techno artist based in United Kingdom, with 149 gigs 
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Le Sucre | Lyon |
 | Sat, 21 Nov 2026 | Elsewhere | New York City |
+| Sat, 21 Nov 2026 | Kobu Camp Village | Kanto |
 | Sat, 28 Nov 2026 | UNDERCITY | Seoul |
 | Fri, 22 Jan 2027 | TBA | Berlin |
 | Thu, 28 Jan 2027 | Berghain / Panorama Bar / Säule | Berlin |
@@ -29,4 +30,4 @@ aya is an experimental and techno artist based in United Kingdom, with 149 gigs 
 
 96 Back, Jennifer Walton, Heinali
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aya/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aya/)*

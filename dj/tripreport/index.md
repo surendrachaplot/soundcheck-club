@@ -1,6 +1,6 @@
 # Trip Report
 
-Trip Report is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Middlesex, Boston on Thu, 3 Dec 2026.
+Trip Report is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Middlesex, Boston on Thu, 3 Dec 2026.
 
 Trip Report is a house and techno artist based in United States of America, with 53 gigs on soundcheck across Boston, Detroit and New York City. Often billed alongside Brianna Paon, Soul Clap and DJ Kon. Next up: Middlesex, Boston on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Trip Report is a house and techno artist based in United States of America, with
 
 Brianna Paon, Soul Clap, DJ Kon
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tripreport/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tripreport/)*

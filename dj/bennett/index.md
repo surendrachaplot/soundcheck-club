@@ -1,14 +1,13 @@
 # BENNETT
 
-BENNETT is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Sala ART, Madrid on Fri, 13 Nov 2026.
+BENNETT is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - KARREE, Fahnenbergplatz 3, Freiburg on Sat, 5 Dec 2026.
 
-BENNETT is a techno and trance artist based in Germany, with 32 gigs on soundcheck across Basel, Berlin, Cologne and Freiburg and 9 more. Often billed alongside I Hate Models, WAN.1 and Charleen Herzig. Next up: Sala ART, Madrid on Fri 13 Nov.
+BENNETT is a techno and trance artist based in Germany, with 32 gigs on soundcheck across Basel, Berlin, Cologne and Freiburg and 9 more. Often billed alongside I Hate Models, WAN.1 and Charleen Herzig. Next up: TBA - KARREE, Fahnenbergplatz 3, Freiburg on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Sala ART | Madrid |
 | Sat, 5 Dec 2026 | TBA - KARREE, Fahnenbergplatz 3 | Freiburg |
 | Sat, 5 Dec 2026 | Karree | Freiburg |
 | Sat, 12 Dec 2026 | Elysia | Basel |
@@ -18,6 +17,7 @@ BENNETT is a techno and trance artist based in Germany, with 32 gigs on soundche
 
 ## Recently played
 
+- Sala ART, Madrid · Fri, 13 Nov 2026
 - Lokschuppen Berlin, Berlin · Fri, 16 Oct 2026
 - Echostage, Washington DC · Sat, 26 Sept 2026
 - Lokschuppen Berlin, Berlin · Wed, 9 Sept 2026
@@ -25,10 +25,9 @@ BENNETT is a techno and trance artist based in Germany, with 32 gigs on soundche
 - Kilomètre25, Paris · Fri, 14 Aug 2026
 - Fridas Pier, Stuttgart · Sat, 1 Aug 2026
 - TBA - TUNISEE, Freiburg · Fri, 17 Jul 2026
-- Tama, Poznan · Sat, 4 Jul 2026
 
 ## Shares bills with
 
 I Hate Models, WAN.1, Charleen Herzig
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bennett/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bennett/)*

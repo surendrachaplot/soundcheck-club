@@ -1,6 +1,6 @@
 # Luigi Di Venere
 
-Luigi Di Venere is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Buzz, Berlin on Fri, 20 Nov 2026.
+Luigi Di Venere is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at The Buzz, Berlin on Fri, 20 Nov 2026.
 
 Luigi Di Venere is a house and techno artist based in Germany, with 114 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 27 more. Often billed alongside Stathis (GR), Massimiliano Pagliara and Chris Cruse. Next up: The Buzz, Berlin on Fri 20 Nov.
 
@@ -28,4 +28,4 @@ Luigi Di Venere is a house and techno artist based in Germany, with 114 gigs on 
 
 Stathis (GR), Massimiliano Pagliara, Chris Cruse
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luigidivenere/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luigidivenere/)*

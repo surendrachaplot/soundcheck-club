@@ -1,6 +1,6 @@
 # Matt Egbert
 
-Matt Egbert is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - INFO ON INSTAGRAM @RECOLLECTUNDERGROUND, Los Angeles on Thu, 26 Nov 2026.
+Matt Egbert is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - INFO ON INSTAGRAM @RECOLLECTUNDERGROUND, Los Angeles on Thu, 26 Nov 2026.
 
 Matt Egbert is a house and minimal artist based in United States of America, with 18 gigs on soundcheck across Boston, Los Angeles, New York City and San Diego. Often billed alongside Rich NXT, ARISA and Adam Rose. Next up: TBA - INFO ON INSTAGRAM @RECOLLECTUNDERGROUND, Los Angeles on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Matt Egbert is a house and minimal artist based in United States of America, wit
 
 Rich NXT, ARISA, Adam Rose
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mattegbert/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mattegbert/)*

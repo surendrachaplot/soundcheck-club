@@ -1,6 +1,6 @@
 # back2beanie
 
-back2beanie is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Bahnwärter Thiel, Munich on Sat, 19 Dec 2026.
+back2beanie is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Bahnwärter Thiel, Munich on Sat, 19 Dec 2026.
 
 back2beanie is a techno and trance artist based in Germany, with 26 gigs on soundcheck across Berlin and Munich. Often billed alongside stilli, P1RELLI and Knallplatten. Next up: Bahnwärter Thiel, Munich on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ back2beanie is a techno and trance artist based in Germany, with 26 gigs on soun
 
 stilli, P1RELLI, Knallplatten
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/back2beanie/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/back2beanie/)*

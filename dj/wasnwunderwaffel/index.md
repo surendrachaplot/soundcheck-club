@@ -1,6 +1,6 @@
 # Wasn & Wunderwaffel
 
-Wasn & Wunderwaffel is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at ://about blank, Berlin on Sat, 23 Jan 2027.
+Wasn & Wunderwaffel is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at ://about blank, Berlin on Sat, 23 Jan 2027.
 
 Wasn & Wunderwaffel are a techno and house duo based in Germany, with 15 gigs on soundcheck across Berlin. Often billed alongside Anja Zaube, Barbara Hofmann and Jessamine. Next up: ://about blank, Berlin on Sat 23 Jan.
 
@@ -25,4 +25,4 @@ Wasn & Wunderwaffel are a techno and house duo based in Germany, with 15 gigs on
 
 Anja Zaube, Barbara Hofmann, Jessamine
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wasnwunderwaffel/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wasnwunderwaffel/)*

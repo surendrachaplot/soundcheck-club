@@ -1,6 +1,6 @@
 # Hannah Holland
 
-Hannah Holland is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA, Los Angeles on Fri, 13 Nov 2026.
+Hannah Holland is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA, Los Angeles on Fri, 13 Nov 2026.
 
 Hannah Holland is a house and techno artist based in United Kingdom, with 72 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 13 more. Often billed alongside Josh Caffé, FAFF and Michelle Manetti. Next up: TBA, Los Angeles on Fri 13 Nov.
 
@@ -14,6 +14,7 @@ Hannah Holland is a house and techno artist based in United Kingdom, with 72 gig
 
 ## Recently played
 
+- TBA, Los Angeles · Fri, 13 Nov 2026
 - The Cause, London · Sat, 31 Oct 2026
 - The Timber Loft, London · Sun, 25 Oct 2026
 - Quarry, Liverpool · Sat, 17 Oct 2026
@@ -21,10 +22,9 @@ Hannah Holland is a house and techno artist based in United Kingdom, with 72 gig
 - Kaņepes Kultūras Centrs, Riga · Fri, 25 Sept 2026
 - Southwark Park, London · Sun, 30 Aug 2026
 - CLUB RAUM, Amsterdam · Sat, 1 Aug 2026
-- The Carpet Shop, London · Sat, 27 Jun 2026
 
 ## Shares bills with
 
 Josh Caffé, FAFF, Michelle Manetti
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahholland/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahholland/)*

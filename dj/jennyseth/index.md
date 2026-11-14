@@ -1,6 +1,6 @@
 # Jenny Seth
 
-Jenny Seth is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Reimersholme Hotel, Stockholm on Fri, 27 Nov 2026.
+Jenny Seth is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Reimersholme Hotel, Stockholm on Fri, 27 Nov 2026.
 
 Jenny Seth is a deep house and house artist, with 9 gigs on soundcheck across Stockholm. Often billed alongside Christian Daflos, Sean Fender and Abstraxion. Next up: Reimersholme Hotel, Stockholm on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Jenny Seth is a deep house and house artist, with 9 gigs on soundcheck across St
 
 Christian Daflos, Sean Fender, Abstraxion
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jennyseth/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jennyseth/)*

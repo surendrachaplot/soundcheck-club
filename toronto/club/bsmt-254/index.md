@@ -1,14 +1,13 @@
 # Bsmt 254
 
-Bsmt 254 is a music venue in Toronto with 8 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Assassin Bug, KATARAMA, Kerub, moodyjooly, art by Sappho.XD" on Fri, 13 Nov 2026.
+Bsmt 254 is a music venue in Toronto with 7 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "OVERDRIVE" on Thu, 19 Nov 2026.
 
-Bsmt 254 is a music venue in Toronto listed on soundcheck. 8 upcoming gigs, with line-ups including Assassin Bug, Babies R Stupid, Burnin' Vernon and CAETANO and 2 more. See dates, start times and who's playing. 254 Lansdowne Ave, Toronto, ON M6H 3X9.
+Bsmt 254 is a music venue in Toronto listed on soundcheck. 7 upcoming gigs, with line-ups including Babies R Stupid, Burnin' Vernon, CAETANO and DJ Barbi and 2 more. See dates, start times and who's playing. 254 Lansdowne Ave, Toronto, ON M6H 3X9.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Assassin Bug, KATARAMA, Kerub, moodyjooly, art by Sappho.XD | Assassin Bug, KATARAMA, KERUB, Sappho.XD, moodyjooly |
 | Thu, 19 Nov 2026 | OVERDRIVE | Szikra, Xela. |
 | Fri, 20 Nov 2026 | oomf 09 feat. T-Nex, DJ Barbi & OMG.BLOG | DJ Barbi, OMG.BLOG, turtle nex |
 | Sat, 21 Nov 2026 | Heartbeat Ft. Jason Palma & Iced Misto ft. Paul E. Lopes | Iced Misto, Jason Palma |
@@ -21,4 +20,4 @@ Bsmt 254 is a music venue in Toronto listed on soundcheck. 8 upcoming gigs, with
 
 254 Lansdowne Ave, Toronto, ON M6H 3X9, Toronto
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/bsmt-254/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/bsmt-254/)*

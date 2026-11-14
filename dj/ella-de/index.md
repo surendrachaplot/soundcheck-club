@@ -1,13 +1,14 @@
 # EllA
 
-EllA is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Hoppetosse, Berlin on Fri, 27 Nov 2026.
+EllA is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Galerie & Café Seeterassen, Hamburg on Sat, 14 Nov 2026.
 
-EllA is a techno and tech house artist based in Germany, with 43 gigs on soundcheck across Berlin, Buenos Aires, Hamburg and Sao Paulo. Often billed alongside Hans Hammer, Surreal (DE) and A.B.U.. Next up: Hoppetosse, Berlin on Fri 27 Nov.
+EllA is a house and techno artist based in Germany, with 44 gigs on soundcheck across Berlin, Buenos Aires, Hamburg and Sao Paulo. Often billed alongside Hans Hammer, Surreal (DE) and A.B.U.. Next up: Galerie & Café Seeterassen, Hamburg on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | Galerie & Café Seeterassen | Hamburg |
 | Fri, 27 Nov 2026 | Hoppetosse | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ EllA is a techno and tech house artist based in Germany, with 43 gigs on soundch
 
 Hans Hammer, Surreal (DE), A.B.U.
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ella-de/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ella-de/)*

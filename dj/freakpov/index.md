@@ -1,6 +1,6 @@
 # FREAK POV
 
-FREAK POV is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Crypt (New Orleans), New Orleans on Fri, 20 Nov 2026.
+FREAK POV is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at The Crypt (New Orleans), New Orleans on Fri, 20 Nov 2026.
 
 FREAK POV is a techno and club artist based in United States of America, with 8 gigs on soundcheck across Minneapolis/St Paul, New Orleans, New York City and San Francisco/Oakland. Often billed alongside Tom Marsi, Bad Leather and Bored Lord. Next up: The Crypt (New Orleans), New Orleans on Fri 20 Nov.
 
@@ -24,4 +24,4 @@ FREAK POV is a techno and club artist based in United States of America, with 8 
 
 Tom Marsi, Bad Leather, Bored Lord
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/freakpov/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/freakpov/)*

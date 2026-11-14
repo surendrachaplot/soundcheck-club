@@ -1,6 +1,6 @@
 # anaiis
 
-anaiis is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Royal Festival Hall, London on Sat, 14 Nov 2026.
+anaiis is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Royal Festival Hall, London on Sat, 14 Nov 2026.
 
 anaiis is a drum & bass and jungle artist based in United Kingdom, with 10 gigs on soundcheck across Bristol, London and Tokyo. Often billed alongside Goldie, Cleveland Watkiss and IAMNOBODI. Next up: Royal Festival Hall, London on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ anaiis is a drum & bass and jungle artist based in United Kingdom, with 10 gigs 
 
 Goldie, Cleveland Watkiss, IAMNOBODI
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anaiis/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anaiis/)*

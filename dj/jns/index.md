@@ -1,18 +1,19 @@
 # JNS
 
-JNS is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Nakano Heavysick Zero, Tokyo on Fri, 13 Nov 2026.
+JNS is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Paper, Seoul on Sun, 15 Nov 2026.
 
-JNS is a house and techno artist based in South Korea, with 174 gigs on soundcheck across Seoul and Tokyo. Often billed alongside Gyusco, Jesse You and Closet Yi. Next up: Nakano Heavysick Zero, Tokyo on Fri 13 Nov.
+JNS is a house and techno artist based in South Korea, with 175 gigs on soundcheck across Seoul and Tokyo. Often billed alongside Gyusco, Jesse You and Closet Yi. Next up: Paper, Seoul on Sun 15 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Nakano Heavysick Zero | Tokyo |
 | Sun, 15 Nov 2026 | Paper | Seoul |
+| Fri, 20 Nov 2026 | Hertz | Seoul |
 
 ## Recently played
 
+- Nakano Heavysick Zero, Tokyo · Fri, 13 Nov 2026
 - Stoked&stoned, Seoul · Fri, 6 Nov 2026
 - Stoked&stoned, Seoul · Mon, 2 Nov 2026
 - Paper, Seoul · Sun, 25 Oct 2026
@@ -20,10 +21,9 @@ JNS is a house and techno artist based in South Korea, with 174 gigs on soundche
 - Stoked&stoned, Seoul · Mon, 19 Oct 2026
 - Stoked&stoned, Seoul · Sun, 4 Oct 2026
 - Graphic Hangang, Seoul · Fri, 2 Oct 2026
-- Stoked&stoned, Seoul · Mon, 28 Sept 2026
 
 ## Shares bills with
 
 Gyusco, Jesse You, Closet Yi
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jns/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jns/)*

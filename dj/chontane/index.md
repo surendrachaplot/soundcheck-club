@@ -1,6 +1,6 @@
 # Chontane
 
-Chontane is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Fabrik, Madrid on Sat, 5 Dec 2026.
+Chontane is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Fabrik, Madrid on Sat, 5 Dec 2026.
 
 Chontane is a techno and house artist based in Germany, with 93 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 39 more. Often billed alongside SHDW, Lars Huismann and Regent. Next up: Fabrik, Madrid on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Chontane is a techno and house artist based in Germany, with 93 gigs on soundche
 
 SHDW, Lars Huismann, Regent
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chontane/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chontane/)*

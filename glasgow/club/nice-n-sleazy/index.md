@@ -1,6 +1,6 @@
 # Nice N Sleazy
 
-Nice N Sleazy is a music venue in Glasgow with 12 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Zhoosh" on Thu, 19 Nov 2026.
+Nice N Sleazy is a music venue in Glasgow with 12 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Zhoosh" on Thu, 19 Nov 2026.
 
 Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 12 upcoming gigs, with line-ups including ESTO, Et Al, Gabor Matty and iluna and 2 more. See dates, start times and who's playing. 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom.
 
@@ -23,4 +23,4 @@ Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 12 upcoming gigs
 
 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom, Glasgow
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/nice-n-sleazy/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/nice-n-sleazy/)*

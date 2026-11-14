@@ -1,6 +1,6 @@
 # Agrabah
 
-Agrabah is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Mercado Livre Arena Pacaembu, Sao-paulo on Fri, 9 Apr 2027.
+Agrabah is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Mercado Livre Arena Pacaembu, Sao-paulo on Fri, 9 Apr 2027.
 
 Agrabah is a house and techno artist, with 8 gigs on soundcheck across Sao Paulo. Often billed alongside Caio T., Eli Iwasa and Gop Tun DJs. Next up: Mercado Livre Arena Pacaembu, Sao Paulo on Fri 9 Apr.
 
@@ -24,4 +24,4 @@ Agrabah is a house and techno artist, with 8 gigs on soundcheck across Sao Paulo
 
 Caio T., Eli Iwasa, Gop Tun DJs
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/agrabah/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/agrabah/)*

@@ -1,6 +1,6 @@
 # Bambi-S
 
-Bambi-S is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Haven, Byron Bay on Fri, 20 Nov 2026.
+Bambi-S is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Haven, Byron Bay on Fri, 20 Nov 2026.
 
 Bambi-S is a house and techno artist based in Germany, with 43 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brisbane and 11 more. Often billed alongside Stipo, Cristina Lazic and It's George!. Next up: Haven, Byron Bay on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Bambi-S is a house and techno artist based in Germany, with 43 gigs on soundchec
 
 Stipo, Cristina Lazic, It's George!
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bambi-s/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bambi-s/)*

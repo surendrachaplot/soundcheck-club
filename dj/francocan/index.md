@@ -1,6 +1,6 @@
 # FRANCO (CAN)
 
-FRANCO (CAN) is a Pop and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Rivoli, Toronto on Sat, 21 Nov 2026.
+FRANCO (CAN) is a Pop and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Rivoli, Toronto on Sat, 21 Nov 2026.
 
 FRANCO (CAN) is a pop and house artist based in Canada, with 24 gigs on soundcheck across Toronto. Next up: Rivoli, Toronto on Sat 21 Nov.
 
@@ -21,4 +21,4 @@ FRANCO (CAN) is a pop and house artist based in Canada, with 24 gigs on soundche
 - Bar Dem, Toronto · Sat, 13 Sept 2025
 - Rivoli, Toronto · Sat, 19 Jul 2025
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/francocan/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/francocan/)*

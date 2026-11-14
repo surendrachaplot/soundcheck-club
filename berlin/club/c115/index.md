@@ -1,6 +1,6 @@
 # C115
 
-C115 is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "C115 with Disguised & Glaskin [daytime event]" on Sat, 14 Nov 2026.
+C115 is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "C115 with Disguised & Glaskin [daytime event]" on Sat, 14 Nov 2026.
 
 C115 is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including Disguised, DjRUM, Glaskin and Stenny. See dates, start times and who's playing. Messedamm 23, 14055 Berlin.
 
@@ -15,4 +15,4 @@ C115 is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line
 
 Messedamm 23, 14055 Berlin, Berlin
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/c115/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/c115/)*

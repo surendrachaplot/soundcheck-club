@@ -1,6 +1,6 @@
 # Kid Simius
 
-Kid Simius is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Kater, Berlin on Thu, 31 Dec 2026.
+Kid Simius is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Kater, Berlin on Thu, 31 Dec 2026.
 
 Kid Simius is a house and techno artist based in Spain, with 58 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 25 more. Often billed alongside Sarah Wild, Natalie Robinson and julës jay. Next up: Kater, Berlin on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Kid Simius is a house and techno artist based in Spain, with 58 gigs on soundche
 
 Sarah Wild, Natalie Robinson, julës jay
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kidsimius/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kidsimius/)*

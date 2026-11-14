@@ -1,6 +1,6 @@
 # Kulturbrauerei
 
-Kulturbrauerei is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "Silvester in der Kulturbrauerei" on Thu, 31 Dec 2026.
+Kulturbrauerei is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. The next is "Silvester in der Kulturbrauerei" on Thu, 31 Dec 2026.
 
 Kulturbrauerei is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including Goa Camino and Onkel Tom. See dates, start times and who's playing. Schönhauser Allee 36-39; Prenzlauer Berg; 10435 Berlin; Germany.
 
@@ -14,4 +14,4 @@ Kulturbrauerei is a music venue in Berlin listed on soundcheck. 1 upcoming gig, 
 
 Schönhauser Allee 36-39; Prenzlauer Berg; 10435 Berlin; Germany, Berlin
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kulturbrauerei/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kulturbrauerei/)*

@@ -1,6 +1,6 @@
 # Yuka
 
-Yuka is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
+Yuka is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
 
 Yuka is a techno and house artist based in Russia, with 12 gigs on soundcheck across Los Angeles, Okinawa, Seoul and South Korea and 1 more. Often billed alongside Meiden, Bliss and Casepeat. Next up: TBA - Jacks Bar, South Korea on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Yuka is a techno and house artist based in Russia, with 12 gigs on soundcheck ac
 
 Meiden, Bliss (1), Casepeat
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yuka/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yuka/)*

@@ -1,6 +1,6 @@
 # BANSHE
 
-BANSHE is a Jungle and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Wigwam, Dublin on Thu, 31 Dec 2026.
+BANSHE is a Jungle and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Wigwam, Dublin on Thu, 31 Dec 2026.
 
 BANSHE is a jungle and house artist based in Ireland, with 7 gigs on soundcheck across Dublin. Often billed alongside 1tbsp, BetzyNina and Calibre. Next up: Wigwam, Dublin on Thu 31 Dec.
 
@@ -23,4 +23,4 @@ BANSHE is a jungle and house artist based in Ireland, with 7 gigs on soundcheck 
 
 1tbsp, BetzyNina, Calibre
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/banshe/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/banshe/)*

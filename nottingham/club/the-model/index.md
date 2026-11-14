@@ -1,6 +1,6 @@
 # The Model
 
-The Model is a music venue in Nottingham with 7 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "DubFat" on Fri, 13 Nov 2026.
+The Model is a music venue in Nottingham with 7 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "ROOM.3 with Rosie Ama, Paniolo + Evil Woman" on Sat, 14 Nov 2026.
 
 The Model is a music venue in Nottingham listed on soundcheck. 7 upcoming gigs, with line-ups including Anna Wall, CONFLICT BUREAU, dj come and Evil Woman and 2 more. See dates, start times and who's playing. 23 Goose Gate, Nottingham, NG1 3FE.
 
@@ -8,8 +8,8 @@ The Model is a music venue in Nottingham listed on soundcheck. 7 upcoming gigs, 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | DubFat |  |
 | Sat, 14 Nov 2026 | ROOM.3 with Rosie Ama, Paniolo + Evil Woman | Evil Woman, Paniolo, Rosie Ama |
+| Sat, 14 Nov 2026 | Cold Brewed X Mimm 15th Birthday |  |
 | Sat, 21 Nov 2026 | Unmasked 3: Secret Lineup |  |
 | Fri, 27 Nov 2026 | Lobster Lounge brings the FUNK |  |
 | Sat, 28 Nov 2026 | Electroground - Anna Wall, James Tristan, dj come & Keeks | Anna Wall, James Tristan, Keeks, dj come |
@@ -20,4 +20,4 @@ The Model is a music venue in Nottingham listed on soundcheck. 7 upcoming gigs, 
 
 23 Goose Gate, Nottingham, NG1 3FE, Nottingham
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/the-model/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/the-model/)*

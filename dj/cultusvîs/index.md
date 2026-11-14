@@ -1,6 +1,6 @@
 # CÛLTÛS VÎS
 
-CÛLTÛS VÎS is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Casa Nube Wynwood, Miami on Sat, 21 Nov 2026.
+CÛLTÛS VÎS is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Casa Nube Wynwood, Miami on Sat, 21 Nov 2026.
 
 CÛLTÛS VÎS is a techno and trance artist based in United States of America, with 14 gigs on soundcheck across Miami. Often billed alongside Dadrev, DomnRob and iCKY. Next up: Casa Nube Wynwood, Miami on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ CÛLTÛS VÎS is a techno and trance artist based in United States of America, w
 
 Dadrev, DomnRob, iCKY
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cultusvîs/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cultusvîs/)*

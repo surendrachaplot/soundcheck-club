@@ -1,6 +1,6 @@
 # AMIRA
 
-AMIRA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Ghent (multi-venue), Ghent on Fri, 27 Nov 2026.
+AMIRA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Ghent (multi-venue), Ghent on Fri, 27 Nov 2026.
 
 AMIRA is a house and techno artist based in United States of America, with 30 gigs on soundcheck across Antwerp, Ghent, Los Angeles and Melbourne and 1 more. Often billed alongside Terry Jasinto, DJ IDeaL and Jimbo James. Next up: TBA - Ghent (multi-venue), Ghent on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ AMIRA is a house and techno artist based in United States of America, with 30 gi
 
 Terry Jasinto, DJ IDeaL, Jimbo James
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amira/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amira/)*

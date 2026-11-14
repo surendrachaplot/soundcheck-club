@@ -1,6 +1,6 @@
 # Couch Mechanic
 
-Couch Mechanic is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Chinese Laundry, Sydney on Fri, 27 Nov 2026.
+Couch Mechanic is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Chinese Laundry, Sydney on Fri, 27 Nov 2026.
 
 Couch Mechanic is a techno and house artist based in Australia, with 31 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Jane Decks, Casual P and Elijah Something. Next up: Chinese Laundry, Sydney on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Couch Mechanic is a techno and house artist based in Australia, with 31 gigs on 
 
 Jane Decks, Casual P, Elijah Something
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/couchmechanic/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/couchmechanic/)*

@@ -1,6 +1,6 @@
 # Edifício Martinelli
 
-Edifício Martinelli is a music venue in Sao Paulo with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "SEIVA no Edifício Martinelli! |20.11" on Fri, 20 Nov 2026.
+Edifício Martinelli is a music venue in Sao Paulo with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "SEIVA no Edifício Martinelli! |20.11" on Fri, 20 Nov 2026.
 
 Edifício Martinelli is a music venue in Sao Paulo listed on soundcheck. 3 upcoming gigs, with line-ups including From House to Disco, Gui Scott and Subb-an. See dates, start times and who's playing. R. São Bento, 405 - Centro Histórico de São Paulo, São Paulo - SP, 01011-100.
 
@@ -16,4 +16,4 @@ Edifício Martinelli is a music venue in Sao Paulo listed on soundcheck. 3 upcom
 
 R. São Bento, 405 - Centro Histórico de São Paulo, São Paulo - SP, 01011-100, Sao Paulo
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/edif-cio-martinelli/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/edif-cio-martinelli/)*

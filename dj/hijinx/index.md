@@ -1,6 +1,6 @@
 # HIJINX
 
-HIJINX is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Phonox, London on Fri, 22 Jan 2027.
+HIJINX is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Phonox, London on Fri, 22 Jan 2027.
 
 HIJINX is a dubstep and bass artist based in United Kingdom, with 27 gigs on soundcheck across Berlin, Bristol, Chicago and Denver and 9 more. Often billed alongside Alix Perez, SGT Pokes and Cesco. Next up: Phonox, London on Fri 22 Jan.
 
@@ -25,4 +25,4 @@ HIJINX is a dubstep and bass artist based in United Kingdom, with 27 gigs on sou
 
 Alix Perez, SGT Pokes, Cesco
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hijinx/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hijinx/)*

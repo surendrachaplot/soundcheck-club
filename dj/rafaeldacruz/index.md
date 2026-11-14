@@ -1,6 +1,6 @@
 # Rafael Da Cruz
 
-Rafael Da Cruz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Lux Fragil, Lisbon on Sat, 28 Nov 2026.
+Rafael Da Cruz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Lux Fragil, Lisbon on Sat, 28 Nov 2026.
 
 Rafael Da Cruz is a techno and house artist based in Portugal, with 22 gigs on soundcheck across Barcelona, Berlin, Cologne and Geneva and 1 more. Often billed alongside Andhim, Sheri Vari and Adam Charaf. Next up: Lux Fragil, Lisbon on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Rafael Da Cruz is a techno and house artist based in Portugal, with 22 gigs on s
 
 Andhim, Sheri Vari, Adam Charaf
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rafaeldacruz/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rafaeldacruz/)*

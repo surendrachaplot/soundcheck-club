@@ -1,6 +1,6 @@
 # Sara Delirio
 
-Sara Delirio is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Paradisco Bogotá, Bogotá on Sat, 14 Nov 2026.
+Sara Delirio is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Paradisco Bogotá, Bogotá on Sat, 14 Nov 2026.
 
 Sara Delirio is a techno and club artist based in Colombia, with 24 gigs on soundcheck across Barcelona, Berlin, Bogot and Bogotá and 7 more. Often billed alongside Jose BB, saradélica and Sophyaa. Next up: Paradisco Bogotá, Bogotá on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Sara Delirio is a techno and club artist based in Colombia, with 24 gigs on soun
 
 Jose BB, saradélica, Sophyaa
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saradelirio/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saradelirio/)*

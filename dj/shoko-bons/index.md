@@ -1,6 +1,6 @@
 # Shoko-Bons
 
-Shoko-Bons is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Violetta, Tokyo on Sat, 21 Nov 2026.
+Shoko-Bons is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Violetta, Tokyo on Sat, 21 Nov 2026.
 
 Shoko-Bons is a techno and acid artist based in Japan, with 11 gigs on soundcheck across Osaka and Tokyo. Often billed alongside Yokote Acid, K.N. and Bob Rogue. Next up: Violetta, Tokyo on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Shoko-Bons is a techno and acid artist based in Japan, with 11 gigs on soundchec
 
 Yokote Acid, K.N., Bob Rogue
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shoko-bons/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shoko-bons/)*

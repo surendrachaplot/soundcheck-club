@@ -1,6 +1,6 @@
 # Neocraft
 
-Neocraft is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Minimüzikhol, Istanbul on Sat, 21 Nov 2026.
+Neocraft is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Minimüzikhol, Istanbul on Sat, 21 Nov 2026.
 
 Neocraft is a house and minimal artist based in Turkey, with 31 gigs on soundcheck across Amsterdam and Istanbul. Often billed alongside Baban, Morteza Minouei and BOOSAY. Next up: Minimüzikhol, Istanbul on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Neocraft is a house and minimal artist based in Turkey, with 31 gigs on soundche
 
 Baban, Morteza Minouei, BOOSAY
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neocraft/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neocraft/)*

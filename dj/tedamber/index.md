@@ -1,6 +1,6 @@
 # Ted Amber
 
-Ted Amber is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Kostmosas, Vilnius on Mon, 16 Nov 2026.
+Ted Amber is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Kostmosas, Vilnius on Mon, 16 Nov 2026.
 
 Ted Amber is a minimal and house artist based in United Kingdom, with 21 gigs on soundcheck across London, Manchester, Riga and Vilnius and 1 more. Often billed alongside Azire, D I N and Gianluca Felline. Next up: Kostmosas, Vilnius on Mon 16 Nov.
 
@@ -25,4 +25,4 @@ Ted Amber is a minimal and house artist based in United Kingdom, with 21 gigs on
 
 Azire, D I N, Gianluca Felline
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tedamber/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tedamber/)*

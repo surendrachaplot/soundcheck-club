@@ -1,6 +1,6 @@
 # PONTA
 
-PONTA is a Trance and Psytrance artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at WOMB, Tokyo on Fri, 11 Dec 2026.
+PONTA is a Trance and Psytrance artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at WOMB, Tokyo on Fri, 11 Dec 2026.
 
 PONTA is a trance and psytrance artist based in Japan, with 34 gigs on soundcheck across Osaka, Rio de Janeiro and Tokyo. Often billed alongside WATARU, HK. and ayaka. Next up: WOMB, Tokyo on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ PONTA is a trance and psytrance artist based in Japan, with 34 gigs on soundchec
 
 WATARU, HK. (1), ayaka
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ponta/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ponta/)*

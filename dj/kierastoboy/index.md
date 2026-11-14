@@ -1,6 +1,6 @@
 # Kierastoboy
 
-Kierastoboy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Block42, Nuanu Creative City, Bali on Sat, 12 Dec 2026.
+Kierastoboy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Block42, Nuanu Creative City, Bali on Sat, 12 Dec 2026.
 
 Kierastoboy is a house and techno artist, with 52 gigs on soundcheck across Bali, Bangkok, Lisbon and Seoul and 2 more. Often billed alongside Rui Vargas, Adam Purnell and ANYA JAVYBZ. Next up: Block42, Nuanu Creative City, Bali on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Kierastoboy is a house and techno artist, with 52 gigs on soundcheck across Bali
 
 Rui Vargas, Adam Purnell, ANYA JAVYBZ
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kierastoboy/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kierastoboy/)*

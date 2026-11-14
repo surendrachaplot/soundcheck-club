@@ -1,6 +1,6 @@
 # Hackney Bridge
 
-Hackney Bridge is a music venue in London with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Zaperoco w/ El Magico Baobab + Jamz Supernova" on Sat, 14 Nov 2026.
+Hackney Bridge is a music venue in London with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Zaperoco w/ El Magico Baobab + Jamz Supernova" on Sat, 14 Nov 2026.
 
 Hackney Bridge is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including Amancai, BEKIMACHINE, blissy e and Bushy Squirrel and 2 more. See dates, start times and who's playing. Units 1-28, Echo Building, E Bay Ln, London E15 2SJ.
 
@@ -16,4 +16,4 @@ Hackney Bridge is a music venue in London listed on soundcheck. 3 upcoming gigs,
 
 Units 1-28, Echo Building, E Bay Ln, London E15 2SJ, London
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/hackney-bridge/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/hackney-bridge/)*

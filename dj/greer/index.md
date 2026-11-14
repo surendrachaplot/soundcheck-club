@@ -1,6 +1,6 @@
 # Greer
 
-Greer is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Tender, Melbourne on Thu, 19 Nov 2026.
+Greer is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Tender, Melbourne on Thu, 19 Nov 2026.
 
 Greer is a techno and experimental artist based in Greece, with 22 gigs on soundcheck across Brisbane, Melbourne and Sydney. Often billed alongside 1tbsp, Jungist and Modulor. Next up: Tender, Melbourne on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Greer is a techno and experimental artist based in Greece, with 22 gigs on sound
 
 1tbsp, Jungist, Modulor
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/greer/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/greer/)*

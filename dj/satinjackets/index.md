@@ -1,6 +1,6 @@
 # Satin Jackets
 
-Satin Jackets is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Razzmatazz 2, Barcelona on Wed, 10 Feb 2027.
+Satin Jackets is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Razzmatazz 2, Barcelona on Wed, 10 Feb 2027.
 
 Satin Jackets is a house and disco artist based in Germany, with 60 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 22 more. Often billed alongside Undercatt, clavette and Amiti. Next up: Razzmatazz 2, Barcelona on Wed 10 Feb.
 
@@ -26,4 +26,4 @@ Satin Jackets is a house and disco artist based in Germany, with 60 gigs on soun
 
 Undercatt, clavette, Amiti
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/satinjackets/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/satinjackets/)*

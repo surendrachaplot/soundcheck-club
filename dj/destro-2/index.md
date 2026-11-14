@@ -1,6 +1,6 @@
 # Destro (2)
 
-Destro (2) is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at FOLD, London on Sat, 19 Dec 2026.
+Destro (2) is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at FOLD, London on Sat, 19 Dec 2026.
 
 Destro is a techno and acid artist based in Venezuela, with 22 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 4 more. Often billed alongside Paula Velez, Japp Beats and Sterling Moss. Next up: FOLD, London on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Destro is a techno and acid artist based in Venezuela, with 22 gigs on soundchec
 
 Paula Velez, Japp Beats, Sterling Moss
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/destro-2/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/destro-2/)*

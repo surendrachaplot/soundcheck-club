@@ -1,6 +1,6 @@
 # Renaessance
 
-Renaessance is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - 1 hour from Sydney, Sydney on Fri, 13 Nov 2026.
+Renaessance is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - 1 hour from Sydney, Sydney on Fri, 13 Nov 2026.
 
 Renaessance is a house and techno artist based in Australia, with 43 gigs on soundcheck across Melbourne, Sydney and Victoria. Often billed alongside Love, Jess, Prizefight and Charlotte Rooney. Next up: TBA - 1 hour from Sydney, Sydney on Fri 13 Nov.
 
@@ -13,6 +13,7 @@ Renaessance is a house and techno artist based in Australia, with 43 gigs on sou
 
 ## Recently played
 
+- TBA - 1 hour from Sydney, Sydney · Fri, 13 Nov 2026
 - Glamorama, Melbourne · Sat, 31 Oct 2026
 - Glamorama, Melbourne · Sat, 2 May 2026
 - ELECTRIC BAR, Melbourne · Sun, 8 Mar 2026
@@ -20,10 +21,9 @@ Renaessance is a house and techno artist based in Australia, with 43 gigs on sou
 - Glamorama, Melbourne · Sat, 13 Dec 2025
 - The Third Day, Melbourne · Sat, 6 Dec 2025
 - Revolver Upstairs, Melbourne · Thu, 27 Nov 2025
-- Abercrombie Hotel, Sydney · Fri, 10 Oct 2025
 
 ## Shares bills with
 
 Love, Jess, Prizefight, Charlotte Rooney
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/renaessance/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/renaessance/)*

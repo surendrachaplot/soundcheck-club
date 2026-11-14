@@ -1,8 +1,8 @@
 # Dictionally
 
-Dictionally is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Mon, 16 Nov 2026.
+Dictionally is a House and Garage artist with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Mon, 16 Nov 2026.
 
-Dictionally is a house and garage artist based in Japan, with 36 gigs on soundcheck across Tokyo. Often billed alongside Kyohei Tanaka, Genick and Hiroaki Iida. Next up: DJ Bar Bridge Shinjuku, Tokyo on Mon 16 Nov.
+Dictionally is a house and garage artist based in Japan, with 37 gigs on soundcheck across Tokyo. Often billed alongside Kyohei Tanaka, Genick and Hiroaki Iida. Next up: DJ Bar Bridge Shinjuku, Tokyo on Mon 16 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Dictionally is a house and garage artist based in Japan, with 36 gigs on soundch
 | Mon, 16 Nov 2026 | DJ Bar Bridge Shinjuku | Tokyo |
 | Mon, 23 Nov 2026 | DJ Bar Bridge Shinjuku | Tokyo |
 | Mon, 28 Dec 2026 | DJ Bar Bridge Shinjuku | Tokyo |
+| Mon, 25 Jan 2027 | DJ Bar Bridge Shinjuku | Tokyo |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Dictionally is a house and garage artist based in Japan, with 36 gigs on soundch
 
 Kyohei Tanaka, Genick, Hiroaki Iida
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dictionally/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dictionally/)*

@@ -1,14 +1,15 @@
 # MostWanted
 
-MostWanted is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Eldorado, North on Sat, 21 Nov 2026.
+MostWanted is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Eldorado, North on Sat, 21 Nov 2026.
 
-MostWanted is a house and electro artist based in Peru, with 18 gigs on soundcheck across Barcelona, Madrid and North. Often billed alongside Santacreu, JJ Beteta and Christian Arcila. Next up: Eldorado, North on Sat 21 Nov.
+MostWanted is a house and electro artist based in Peru, with 19 gigs on soundcheck across Barcelona, Madrid and North. Often billed alongside Santacreu, JJ Beteta and Christian Arcila. Next up: Eldorado, North on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Eldorado | North |
+| Fri, 15 Jan 2027 | Les Enfants Brillants | Barcelona |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ MostWanted is a house and electro artist based in Peru, with 18 gigs on soundche
 
 Santacreu, JJ Beteta, Christian Arcila
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mostwanted/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mostwanted/)*

@@ -1,6 +1,6 @@
 # Kibum
 
-Kibum is a Minimal and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Secret Location, Bali on Sat, 20 Mar 2027.
+Kibum is a Minimal and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Secret Location, Bali on Sat, 20 Mar 2027.
 
 Kibum is a minimal and minimal techno artist based in South Korea, with 110 gigs on soundcheck across Bali, Seoul and South Korea. Often billed alongside Jongho, Mihak and kimmtae. Next up: TBA - Secret Location, Bali on Sat 20 Mar.
 
@@ -25,4 +25,4 @@ Kibum is a minimal and minimal techno artist based in South Korea, with 110 gigs
 
 Jongho, Mihak, kimmtae
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kibum/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kibum/)*

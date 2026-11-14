@@ -1,6 +1,6 @@
 # TBA - Sabaa Event Space - Al Seef
 
-TBA - Sabaa Event Space - Al Seef is a music venue in Dubai with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "CIPHER" on Fri, 20 Nov 2026.
+TBA - Sabaa Event Space - Al Seef is a music venue in Dubai with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. The next is "CIPHER" on Fri, 20 Nov 2026.
 
 TBA - Sabaa Event Space - Al Seef is a music venue in Dubai listed on soundcheck. 1 upcoming gig, with line-ups including CARAM and Fabian Gomez. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Sabaa Event Space - Al Seef is a music venue in Dubai listed on soundcheck
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | CIPHER | CARAM, Fabian Gomez |
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dubai/club/tba-sabaa-event-space-al-seef/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dubai/club/tba-sabaa-event-space-al-seef/)*

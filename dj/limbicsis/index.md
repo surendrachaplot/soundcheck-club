@@ -1,6 +1,6 @@
 # limbic sis
 
-limbic sis is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Frankhan Selectist, Istanbul on Sat, 14 Nov 2026.
+limbic sis is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Frankhan Selectist, Istanbul on Sat, 14 Nov 2026.
 
 limbic sis is a house and techno artist based in Germany, with 68 gigs on soundcheck across Berlin, Cologne, Copenhagen and Hamburg and 15 more. Often billed alongside FRÆNZ:, DJ Eivissa and 0megavybe. Next up: Frankhan Selectist, Istanbul on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ limbic sis is a house and techno artist based in Germany, with 68 gigs on soundc
 
 FRÆNZ:, DJ Eivissa, 0megavybe
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/limbicsis/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/limbicsis/)*

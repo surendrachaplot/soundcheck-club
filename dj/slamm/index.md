@@ -1,6 +1,6 @@
 # SLAMM
 
-SLAMM is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at ZeyZey, Miami on Fri, 4 Dec 2026.
+SLAMM is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at ZeyZey, Miami on Fri, 4 Dec 2026.
 
 SLAMM is a tech house and house artist based in United States of America, with 27 gigs on soundcheck across Chicago, Dallas/Fort Worth, Denver and Florida and 5 more. Often billed alongside Marco Strous, Justin Rabin and Archie Hamilton. Next up: ZeyZey, Miami on Fri 4 Dec.
 
@@ -27,4 +27,4 @@ SLAMM is a tech house and house artist based in United States of America, with 2
 
 Marco Strous, Justin Rabin, Archie Hamilton
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slamm/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slamm/)*

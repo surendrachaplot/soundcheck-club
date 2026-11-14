@@ -1,8 +1,8 @@
 # Rad.Lez
 
-Rad.Lez is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Ritter Butzke, Berlin on Fri, 18 Dec 2026.
+Rad.Lez is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Ritter Butzke, Berlin on Fri, 18 Dec 2026.
 
-Rad.Lez is a techno and house artist based in Venezuela, with 111 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 3 more. Often billed alongside Lazykid, Shabiki and Sin:port. Next up: Ritter Butzke, Berlin on Fri 18 Dec.
+Rad.Lez is a techno and house artist based in Venezuela, with 112 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 3 more. Often billed alongside Lazykid, Shabiki and Sin:port. Next up: Ritter Butzke, Berlin on Fri 18 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Rad.Lez is a techno and house artist based in Venezuela, with 111 gigs on soundc
 | --- | --- | --- |
 | Fri, 18 Dec 2026 | Ritter Butzke | Berlin |
 | Sat, 19 Dec 2026 | Lieberscholli | Munich |
+| Thu, 31 Dec 2026 | Lieberscholli | Munich |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Rad.Lez is a techno and house artist based in Venezuela, with 111 gigs on soundc
 
 Lazykid, Shabiki, Sin:port
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rad.lez/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rad.lez/)*

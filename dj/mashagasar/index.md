@@ -1,6 +1,6 @@
 # masha gasar
 
-masha gasar is a Electronica and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Klub K4, Ljubljana on Fri, 20 Nov 2026.
+masha gasar is a Electronica and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Klub K4, Ljubljana on Fri, 20 Nov 2026.
 
 masha gasar is an electronica and tech house artist based in Slovenia, with 8 gigs on soundcheck across Ljubljana and Vienna. Often billed alongside Matorola, DJ Hill and Slishko. Next up: Klub K4, Ljubljana on Fri 20 Nov.
 
@@ -24,4 +24,4 @@ masha gasar is an electronica and tech house artist based in Slovenia, with 8 gi
 
 Matorola, DJ Hill (2), Slishko
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mashagasar/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mashagasar/)*

@@ -1,6 +1,6 @@
 # KIMME
 
-KIMME is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Barracuda Bar, Cologne on Fri, 20 Nov 2026.
+KIMME is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Barracuda Bar, Cologne on Fri, 20 Nov 2026.
 
 KIMME is a house and progressive house artist based in Germany, with 4 gigs on soundcheck across Cologne. Often billed alongside Jerome Soir, nutenrieth and Carmen Electro. Next up: Barracuda Bar, Cologne on Fri 20 Nov.
 
@@ -20,4 +20,4 @@ KIMME is a house and progressive house artist based in Germany, with 4 gigs on s
 
 Jerome Soir, nutenrieth, Carmen Electro
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kimme-de/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kimme-de/)*

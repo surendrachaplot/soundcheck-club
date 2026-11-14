@@ -1,6 +1,6 @@
 # GNMR
 
-GNMR is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Signal, New York City on Fri, 20 Nov 2026.
+GNMR is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Signal, New York City on Fri, 20 Nov 2026.
 
 GNMR is a techno and house artist based in Italy, with 154 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 26 more. Often billed alongside Marcolino, IRIDE and Giammarco Orsini. Next up: Signal, New York City on Fri 20 Nov.
 
@@ -28,4 +28,4 @@ GNMR is a techno and house artist based in Italy, with 154 gigs on soundcheck ac
 
 Marcolino, IRIDE, Giammarco Orsini
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gnmr/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gnmr/)*

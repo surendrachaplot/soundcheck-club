@@ -1,14 +1,13 @@
 # The Rechabite
 
-The Rechabite is a music venue in Perth with 7 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Midnight Elevator: A FREE PARTY FOR PARTY PEOPLE" on Fri, 13 Nov 2026.
+The Rechabite is a music venue in Perth with 6 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "RAVE RELIEF: PRIDE 2026" on Sat, 28 Nov 2026.
 
-The Rechabite is a music venue in Perth listed on soundcheck. 7 upcoming gigs, with line-ups including Andrea Bakulic, Eurohead, Jane Remover and KE-YEN and 2 more. See dates, start times and who's playing. 224 William St, Northbridge WA 6003, Australia.
+The Rechabite is a music venue in Perth listed on soundcheck. 6 upcoming gigs, with line-ups including Eurohead, Jane Remover, Roza Terenzi and Supergloss and 2 more. See dates, start times and who's playing. 224 William St, Northbridge WA 6003, Australia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Midnight Elevator: A FREE PARTY FOR PARTY PEOPLE | Andrea Bakulic, KE-YEN, YESNA |
 | Sat, 28 Nov 2026 | RAVE RELIEF: PRIDE 2026 |  |
 | Sat, 5 Dec 2026 | Thaiboy Digital | Eurohead, Thaiboy Digital |
 | Thu, 31 Dec 2026 | Garbage TV NYE Presents: Roza Terenzi & Supergloss | Roza Terenzi, Supergloss |
@@ -20,4 +19,4 @@ The Rechabite is a music venue in Perth listed on soundcheck. 7 upcoming gigs, w
 
 224 William St, Northbridge WA 6003, Australia, Perth
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/perth/club/the-rechabite/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/perth/club/the-rechabite/)*

@@ -1,6 +1,6 @@
 # Charlie B
 
-Charlie B is a Jungle and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Basing House, London on Sat, 28 Nov 2026.
+Charlie B is a Jungle and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Basing House, London on Sat, 28 Nov 2026.
 
 Charlie B is a jungle and house artist based in United Kingdom, with 12 gigs on soundcheck across Amsterdam, Glasgow, Leeds and London and 2 more. Often billed alongside DJ SS, Dougal and Kenny Ken. Next up: Basing House, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Charlie B is a jungle and house artist based in United Kingdom, with 12 gigs on 
 
 DJ SS, Dougal, Kenny Ken
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/charlieb/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/charlieb/)*

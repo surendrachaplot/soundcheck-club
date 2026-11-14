@@ -1,6 +1,6 @@
 # Babak Ahteshamipour
 
-Babak Ahteshamipour is a Hardcore and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Silent Green, Berlin on Fri, 13 Nov 2026.
+Babak Ahteshamipour is a Hardcore and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Silent Green, Berlin on Fri, 13 Nov 2026.
 
 Babak Ahteshamipour is a hardcore and experimental artist based in Greece, with 8 gigs on soundcheck across Athens, Berlin and London. Often billed alongside Mike Nigro, Simos Ares and Abdullah Miniawy. Next up: Silent Green, Berlin on Fri 13 Nov.
 
@@ -12,6 +12,7 @@ Babak Ahteshamipour is a hardcore and experimental artist based in Greece, with 
 
 ## Recently played
 
+- Silent Green, Berlin · Fri, 13 Nov 2026
 - Plex, Athens · Sat, 7 Jun 2025
 - TV Control Center (KET), Athens · Fri, 11 Oct 2024
 - TV Control Center (KET), Athens · Fri, 11 Oct 2024
@@ -24,4 +25,4 @@ Babak Ahteshamipour is a hardcore and experimental artist based in Greece, with 
 
 Mike Nigro, Simos Ares, Abdullah Miniawy
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babakahteshamipour/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babakahteshamipour/)*

@@ -1,6 +1,6 @@
 # CADZOW
 
-CADZOW is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Lokschuppen Berlin, Berlin on Fri, 4 Dec 2026.
+CADZOW is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Lokschuppen Berlin, Berlin on Fri, 4 Dec 2026.
 
 CADZOW is a techno and trance artist based in United Kingdom, with 61 gigs on soundcheck across Aberdeen, Amsterdam, Belfast and Berlin and 15 more. Often billed alongside Alex Farell, Jezza & Jod and Black Traffic. Next up: Lokschuppen Berlin, Berlin on Fri 4 Dec.
 
@@ -27,4 +27,4 @@ CADZOW is a techno and trance artist based in United Kingdom, with 61 gigs on so
 
 Alex Farell, Jezza & Jod, Black Traffic
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cadzow/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cadzow/)*

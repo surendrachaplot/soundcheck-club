@@ -1,6 +1,6 @@
 # Boxpark Shoreditch
 
-Boxpark Shoreditch is a music venue in London with 7 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Coors Presents: Saturday Sessions" on Sat, 14 Nov 2026.
+Boxpark Shoreditch is a music venue in London with 7 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Coors Presents: Saturday Sessions" on Sat, 14 Nov 2026.
 
 Boxpark Shoreditch is a music venue in London listed on soundcheck. 7 upcoming gigs. See dates, start times and who's playing. 2-10 Bethnal Green Rd, London E1 6GY.
 
@@ -20,4 +20,4 @@ Boxpark Shoreditch is a music venue in London listed on soundcheck. 7 upcoming g
 
 2-10 Bethnal Green Rd, London E1 6GY, London
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/boxpark-shoreditch/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/boxpark-shoreditch/)*

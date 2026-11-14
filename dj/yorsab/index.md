@@ -1,6 +1,6 @@
 # Yorsab
 
-Yorsab is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Speakerbox, Bangkok on Sat, 28 Nov 2026.
+Yorsab is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Speakerbox, Bangkok on Sat, 28 Nov 2026.
 
 Yorsab is a house and techno artist based in Thailand, with 27 gigs on soundcheck across Bangkok, Ho Chi Minh City and Shanghai. Often billed alongside PPOINT, UN!X and bunnyman.dogs. Next up: Speakerbox, Bangkok on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Yorsab is a house and techno artist based in Thailand, with 27 gigs on soundchec
 
 PPOINT, UN!X, bunnyman.dogs
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yorsab/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yorsab/)*

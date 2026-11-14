@@ -1,8 +1,8 @@
 # Secret Cinema
 
-Secret Cinema is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Ruis Alkmaar, Amsterdam on Sat, 28 Nov 2026.
+Secret Cinema is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Ruis Alkmaar, Amsterdam on Sat, 28 Nov 2026.
 
-Secret Cinema is a techno and house artist based in Netherlands, with 55 gigs on soundcheck across Amsterdam, Barcelona, Frankfurt and Geneva and 9 more. Often billed alongside ABOUT SOFIYA, Olympe and Benny Rodrigues. Next up: Ruis Alkmaar, Amsterdam on Sat 28 Nov.
+Secret Cinema is a techno and house artist based in Netherlands, with 56 gigs on soundcheck across Amsterdam, Barcelona, Frankfurt and Geneva and 9 more. Often billed alongside ABOUT SOFIYA, Olympe and Benny Rodrigues. Next up: Ruis Alkmaar, Amsterdam on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Secret Cinema is a techno and house artist based in Netherlands, with 55 gigs on
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Ruis Alkmaar | Amsterdam |
 | Sat, 5 Dec 2026 | TBA - Hacienda La Luna, Morelos Mexico. | Morelos |
+| Sat, 26 Dec 2026 | THE OTHER SIDE | Amsterdam |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Secret Cinema is a techno and house artist based in Netherlands, with 55 gigs on
 
 ABOUT SOFIYA, Olympe, Benny Rodrigues
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/secretcinema/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/secretcinema/)*

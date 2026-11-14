@@ -1,6 +1,6 @@
 # Postkantine
 
-Postkantine is a music venue in Basel with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "amenthia night" on Sat, 28 Nov 2026.
+Postkantine is a music venue in Basel with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "amenthia night" on Sat, 28 Nov 2026.
 
 Postkantine is a music venue in Basel listed on soundcheck. 3 upcoming gigs, with line-ups including Agonis, Choufleur Mimosa, Conrad Pack and Elsa (CH) and 2 more. See dates, start times and who's playing. Postpassage 5, 4051 Basel.
 
@@ -16,4 +16,4 @@ Postkantine is a music venue in Basel listed on soundcheck. 3 upcoming gigs, wit
 
 Postpassage 5, 4051 Basel, Basel
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/basel/club/postkantine/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/basel/club/postkantine/)*

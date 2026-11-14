@@ -1,8 +1,8 @@
 # Astro (3)
 
-Astro (3) is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Noon + Cafe, Osaka on Fri, 4 Dec 2026.
+Astro (3) is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Noon + Cafe, Osaka on Fri, 4 Dec 2026.
 
-Astro is a deep house and house artist, with 27 gigs on soundcheck across Osaka. Often billed alongside yu-more, KONDO Mitsuo and aqtagawa. Next up: Noon + Cafe, Osaka on Fri 4 Dec.
+Astro is a deep house and house artist based in Japan, with 27 gigs on soundcheck across Osaka. Often billed alongside yu-more, KONDO Mitsuo and aqtagawa. Next up: Noon + Cafe, Osaka on Fri 4 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Astro is a deep house and house artist, with 27 gigs on soundcheck across Osaka.
 
 yu-more, KONDO Mitsuo, aqtagawa
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/astro-3/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/astro-3/)*

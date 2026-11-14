@@ -1,6 +1,6 @@
 # Fear-E
 
-Fear-E is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at People's Leisure Club, Edinburgh on Sat, 21 Nov 2026.
+Fear-E is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at People's Leisure Club, Edinburgh on Sat, 21 Nov 2026.
 
 Fear-E is a techno and acid artist based in United Kingdom, with 31 gigs on soundcheck across Berlin, Bristol, Dublin and Edinburgh and 5 more. Often billed alongside Jerome Hill, Co-Accused and Nightwave. Next up: People's Leisure Club, Edinburgh on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Fear-E is a techno and acid artist based in United Kingdom, with 31 gigs on soun
 
 Jerome Hill, Co-Accused, Nightwave
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fear-e/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fear-e/)*

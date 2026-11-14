@@ -1,6 +1,6 @@
 # PAWSA
 
-PAWSA is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Arena Norte, Nuñez, Buenos Aires on Sat, 21 Nov 2026.
+PAWSA is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Arena Norte, Nuñez, Buenos Aires on Sat, 21 Nov 2026.
 
 PAWSA is a house and tech house artist based in United Kingdom, with 157 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 46 more. Often billed alongside Dennis Cruz, Seth Troxler and Silvie Loto. Next up: TBA - Arena Norte, Nuñez, Buenos Aires on Sat 21 Nov.
 
@@ -28,4 +28,4 @@ PAWSA is a house and tech house artist based in United Kingdom, with 157 gigs on
 
 Dennis Cruz, Seth Troxler, Silvie Loto
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pawsa/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pawsa/)*

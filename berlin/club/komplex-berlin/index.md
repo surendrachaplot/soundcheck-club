@@ -1,6 +1,6 @@
 # Komplex Berlin
 
-Komplex Berlin is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Jan Oberlaender & José on Ice" on Sat, 14 Nov 2026.
+Komplex Berlin is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Jan Oberlaender & José on Ice" on Sat, 14 Nov 2026.
 
 Komplex Berlin is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including Clara Cuvé, davyboi and Jan Oberlaender. See dates, start times and who's playing. Modersohnstraße 34-45, 10245 Berlin.
 
@@ -16,4 +16,4 @@ Komplex Berlin is a music venue in Berlin listed on soundcheck. 3 upcoming gigs,
 
 Modersohnstraße 34-45, 10245 Berlin, Berlin
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/komplex-berlin/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/komplex-berlin/)*

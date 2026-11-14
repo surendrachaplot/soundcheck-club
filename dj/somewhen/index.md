@@ -1,14 +1,13 @@
 # Somewhen
 
-Somewhen is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Smolna, Warsaw on Fri, 13 Nov 2026.
+Somewhen is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Hans Bunte Areal, Freiburg on Sat, 14 Nov 2026.
 
-Somewhen is a techno and trance artist based in Germany, with 261 gigs on soundcheck across Amsterdam, Antwerp, Austin and Baden W Rttemberg and 73 more. Often billed alongside Kobosil, Clara Cuvé and In Verruf. Next up: Smolna, Warsaw on Fri 13 Nov.
+Somewhen is a techno and trance artist based in Germany, with 261 gigs on soundcheck across Amsterdam, Antwerp, Austin and Baden W Rttemberg and 73 more. Often billed alongside Kobosil, Clara Cuvé and In Verruf. Next up: Hans Bunte Areal, Freiburg on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Smolna | Warsaw |
 | Sat, 14 Nov 2026 | Hans Bunte Areal | Freiburg |
 | Sat, 14 Nov 2026 | Lokschuppen Dillingen | Baden-w-rttemberg |
 | Fri, 20 Nov 2026 | Mia Mao | Paris |
@@ -18,6 +17,7 @@ Somewhen is a techno and trance artist based in Germany, with 261 gigs on soundc
 
 ## Recently played
 
+- Smolna, Warsaw · Fri, 13 Nov 2026
 - Docks, Hamburg · Fri, 6 Nov 2026
 - Factory Town, Miami · Fri, 30 Oct 2026
 - Fusion Club, Münster · Sat, 24 Oct 2026
@@ -25,10 +25,9 @@ Somewhen is a techno and trance artist based in Germany, with 261 gigs on soundc
 - Brooklyn Roots Collective, New York City · Sat, 17 Oct 2026
 - Radius, Chicago · Fri, 16 Oct 2026
 - Blackstone Street Warehouse, Liverpool · Sat, 3 Oct 2026
-- Strasse E, Dresden · Fri, 2 Oct 2026
 
 ## Shares bills with
 
 Kobosil, Clara Cuvé, In Verruf
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/somewhen/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/somewhen/)*

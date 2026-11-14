@@ -1,14 +1,13 @@
 # 3oz Dive Club
 
-3oz Dive Club is a music venue in San Diego with 6 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "FNGRS CRSSD presents Luke Alessi" on Fri, 13 Nov 2026.
+3oz Dive Club is a music venue in San Diego with 5 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "TRULY MADLY - presented by FTWNH x SHRIMP" on Sat, 14 Nov 2026.
 
-3oz Dive Club is a music venue in San Diego listed on soundcheck. 6 upcoming gigs, with line-ups including Calles, Dylan Payne, Egyptian Lover and Halo Varga and 2 more. See dates, start times and who's playing. 1060 Garnet Avenue, Pacific Beach, San Diego, CA 92109, USA.
+3oz Dive Club is a music venue in San Diego listed on soundcheck. 5 upcoming gigs, with line-ups including Calles, Dylan Payne, Egyptian Lover and Halo Varga and 2 more. See dates, start times and who's playing. 1060 Garnet Avenue, Pacific Beach, San Diego, CA 92109, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | FNGRS CRSSD presents Luke Alessi | Luke Alessi |
 | Sat, 14 Nov 2026 | TRULY MADLY - presented by FTWNH x SHRIMP |  |
 | Thu, 19 Nov 2026 | Aftercare OO2 | Calles, Sol (HN), VAZA, metabiite |
 | Wed, 25 Nov 2026 | 3oz Selekts-Halo Varga b2b Dylan Payne | Dylan Payne, Halo Varga |
@@ -19,4 +18,4 @@
 
 1060 Garnet Avenue, Pacific Beach, San Diego, CA 92109, USA, San Diego
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/3oz-dive-club/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/3oz-dive-club/)*

@@ -1,6 +1,6 @@
 # DJ Sea View
 
-DJ Sea View is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Acud Macht NEU, Berlin on Fri, 20 Nov 2026.
+DJ Sea View is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Acud Macht NEU, Berlin on Fri, 20 Nov 2026.
 
 DJ Sea View is a techno and trance artist based in Denmark, with 34 gigs on soundcheck across Basel, Berlin, Copenhagen and Oslo. Often billed alongside Matriark, Signe Alarcón and FILTH.y. Next up: Acud Macht NEU, Berlin on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ DJ Sea View is a techno and trance artist based in Denmark, with 34 gigs on soun
 
 Matriark, Signe Alarcón, FILTH.y
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djseaview/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djseaview/)*

@@ -1,6 +1,6 @@
 # DREYA
 
-DREYA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at PRST, Vienna on Sat, 12 Dec 2026.
+DREYA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at PRST, Vienna on Sat, 12 Dec 2026.
 
 DREYA is a house and techno artist based in Austria, with 32 gigs on soundcheck across Berlin, Geneva, Ibiza and Miami and 5 more. Often billed alongside TEZIBEL, DJ Deadlift and Felix Rupprecht. Next up: PRST, Vienna on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ DREYA is a house and techno artist based in Austria, with 32 gigs on soundcheck 
 
 TEZIBEL, DJ Deadlift, Felix Rupprecht
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dreya/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dreya/)*

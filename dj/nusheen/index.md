@@ -1,6 +1,6 @@
 # Nusheen
 
-Nusheen is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Ormside Projects, London on Fri, 20 Nov 2026.
+Nusheen is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Ormside Projects, London on Fri, 20 Nov 2026.
 
 Nusheen is a club and house artist based in United Kingdom, with 28 gigs on soundcheck across Glasgow, London and Manchester. Often billed alongside Hometown Sound, Kahn and Naone. Next up: Ormside Projects, London on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Nusheen is a club and house artist based in United Kingdom, with 28 gigs on soun
 
 Hometown Sound, Kahn, Naone
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nusheen/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nusheen/)*

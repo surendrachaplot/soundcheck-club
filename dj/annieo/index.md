@@ -1,6 +1,6 @@
 # Annie O
 
-Annie O is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Die Rakete, Nürnberg on Fri, 20 Nov 2026.
+Annie O is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Die Rakete, Nürnberg on Fri, 20 Nov 2026.
 
 Annie O is a techno and house artist based in Germany, with 27 gigs on soundcheck across Berlin, Copenhagen, Leipzig and Nürnberg. Often billed alongside Multifuse, Any Mello and Arne Schattenberg. Next up: Die Rakete, Nürnberg on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Annie O is a techno and house artist based in Germany, with 27 gigs on soundchec
 
 Multifuse, Any Mello, Arne Schattenberg
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annieo/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annieo/)*

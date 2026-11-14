@@ -1,6 +1,6 @@
 # DJ Breakless
 
-DJ Breakless is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - IF INSTITUTE, IF Institute, Luruper Chaussee 125, Gewerbehof, 22761 Hamburg-Altona, Hamburg on Fri, 20 Nov 2026.
+DJ Breakless is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - IF INSTITUTE, IF Institute, Luruper Chaussee 125, Gewerbehof, 22761 Hamburg-Altona, Hamburg on Fri, 20 Nov 2026.
 
 DJ Breakless is a techno and house artist, with 20 gigs on soundcheck across Hamburg. Often billed alongside Temazcal, Bailey Brown and BNZN. Next up: TBA - IF INSTITUTE, IF Institute, Luruper Chaussee 125, Gewerbehof, 22761 Hamburg-Altona, Hamburg on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ DJ Breakless is a techno and house artist, with 20 gigs on soundcheck across Ham
 
 Temazcal (2), Bailey Brown, BNZN
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbreakless/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbreakless/)*

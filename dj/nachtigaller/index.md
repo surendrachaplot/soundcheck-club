@@ -1,6 +1,6 @@
 # Nachtigaller
 
-Nachtigaller is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Fusion Club, Münster on Fri, 20 Nov 2026.
+Nachtigaller is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Fusion Club, Münster on Fri, 20 Nov 2026.
 
 Nachtigaller is a techno and trance artist based in Germany, with 32 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Frankfurt and 8 more. Often billed alongside In Furcht, Obscure Shape and A.N.I.. Next up: Fusion Club, Münster on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ Nachtigaller is a techno and trance artist based in Germany, with 32 gigs on sou
 
 In Furcht, Obscure Shape, A.N.I.
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nachtigaller/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nachtigaller/)*

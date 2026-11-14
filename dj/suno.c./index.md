@@ -1,6 +1,6 @@
 # Sun O.C.
 
-Sun O.C. is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Worm, Rotterdam on Sat, 21 Nov 2026.
+Sun O.C. is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Worm, Rotterdam on Sat, 21 Nov 2026.
 
 Sun O.C. is a drum & bass and techno artist based in Netherlands, with 7 gigs on soundcheck across Amsterdam and Rotterdam. Often billed alongside CHAMBER45, Duppy and EYCEE. Next up: Worm, Rotterdam on Sat 21 Nov.
 
@@ -23,4 +23,4 @@ Sun O.C. is a drum & bass and techno artist based in Netherlands, with 7 gigs on
 
 CHAMBER45, Duppy, EYCEE
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suno.c./)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suno.c./)*

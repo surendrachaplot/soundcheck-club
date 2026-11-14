@@ -1,14 +1,16 @@
 # Arman Shadow
 
-Arman Shadow is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Loft, Vienna on Fri, 27 Nov 2026.
+Arman Shadow is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Das Werk, Vienna on Sat, 21 Nov 2026.
 
-Arman Shadow is a techno and trance artist based in Iran, with 59 gigs on soundcheck across Athens, Leipzig, Malta and Munich and 3 more. Often billed alongside Farbod, Joey and Trugbild. Next up: The Loft, Vienna on Fri 27 Nov.
+Arman Shadow is a techno and trance artist based in Iran, with 61 gigs on soundcheck across Athens, Leipzig, Malta and Munich and 3 more. Often billed alongside Farbod, Joey and Trugbild. Next up: Das Werk, Vienna on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | Das Werk | Vienna |
 | Fri, 27 Nov 2026 | The Loft | Vienna |
+| Fri, 27 Nov 2026 | Das Werk | Vienna |
 
 ## Recently played
 
@@ -25,4 +27,4 @@ Arman Shadow is a techno and trance artist based in Iran, with 59 gigs on soundc
 
 Farbod, Joey (2), Trugbild
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/armanshadow/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/armanshadow/)*

@@ -1,6 +1,6 @@
 # Luuk van Dijk
 
-Luuk van Dijk is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Lurín live / Lima, Perú., Peru on Sat, 21 Nov 2026.
+Luuk van Dijk is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Lurín live / Lima, Perú., Peru on Sat, 21 Nov 2026.
 
 Luuk van Dijk is a house and tech house artist based in Netherlands, with 252 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 57 more. Often billed alongside Prunk, L.P. Rhythm and Max Dean. Next up: TBA - Lurín live / Lima, Perú., Peru on Sat 21 Nov.
 
@@ -31,4 +31,4 @@ Luuk van Dijk is a house and tech house artist based in Netherlands, with 252 gi
 
 Prunk, L.P. Rhythm, Max Dean
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luukvandijk-nl/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luukvandijk-nl/)*

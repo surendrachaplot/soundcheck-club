@@ -1,6 +1,6 @@
 # ANIN
 
-ANIN is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at control, Bucharest on Thu, 19 Nov 2026.
+ANIN is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at control, Bucharest on Thu, 19 Nov 2026.
 
 ANIN is a bass and techno artist based in Romania, with 9 gigs on soundcheck across Bucharest and Kyoto. Often billed alongside Drao, Low Freq and Gheordu. Next up: control, Bucharest on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ ANIN is a bass and techno artist based in Romania, with 9 gigs on soundcheck acr
 
 Drao, Low Freq, Gheordu
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anin/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anin/)*

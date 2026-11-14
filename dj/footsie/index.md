@@ -1,13 +1,14 @@
 # Footsie
 
-Footsie is a Dub and Grime artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Carpet Shop, London on Sun, 29 Nov 2026.
+Footsie is a Dub and Grime artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at The Trinity Centre, Bristol on Sat, 28 Nov 2026.
 
-Footsie is a dub and grime artist based in United Kingdom, with 36 gigs on soundcheck across Berlin, Brighton, Bristol and Bucharest and 5 more. Often billed alongside Sir Spyro, Killa P and Dubkasm. Next up: The Carpet Shop, London on Sun 29 Nov.
+Footsie is a dub and grime artist based in United Kingdom, with 37 gigs on soundcheck across Berlin, Brighton, Bristol and Bucharest and 5 more. Often billed alongside Sir Spyro, Killa P and Dubkasm. Next up: The Trinity Centre, Bristol on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | The Trinity Centre | Bristol |
 | Sun, 29 Nov 2026 | The Carpet Shop | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ Footsie is a dub and grime artist based in United Kingdom, with 36 gigs on sound
 
 Sir Spyro, Killa P, Dubkasm
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/footsie/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/footsie/)*

@@ -1,6 +1,6 @@
 # jaynetics
 
-jaynetics is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Sensorium, Berlin on Wed, 16 Dec 2026.
+jaynetics is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Sensorium, Berlin on Wed, 16 Dec 2026.
 
 jaynetics is a tech house and techno artist based in Germany, with 7 gigs on soundcheck across Berlin. Often billed alongside EVYA, VEGANICECREAM and April the pink. Next up: Sensorium, Berlin on Wed 16 Dec.
 
@@ -23,4 +23,4 @@ jaynetics is a tech house and techno artist based in Germany, with 7 gigs on sou
 
 EVYA, VEGANICECREAM, April the pink
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaynetics/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaynetics/)*

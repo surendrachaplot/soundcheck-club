@@ -1,6 +1,6 @@
 # The Fox and Firkin
 
-The Fox and Firkin is a music venue in London with 16 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Fox & Firkin presents Danny Rankin, Shosh, Pia Collada + Herse" on Fri, 13 Nov 2026.
+The Fox and Firkin is a music venue in London with 16 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Eat Static LIVE" on Sat, 14 Nov 2026.
 
 The Fox and Firkin is a music venue in London listed on soundcheck. 16 upcoming gigs, with line-ups including Awesome Tapes From Africa, Beirut Groove Collective, Bena and Calm Stiege and 2 more. See dates, start times and who's playing. 316 Lewisham High Street London SE136JZ.
 
@@ -8,7 +8,6 @@ The Fox and Firkin is a music venue in London listed on soundcheck. 16 upcoming 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Fox & Firkin presents Danny Rankin, Shosh, Pia Collada + Herse | Danny Rankin |
 | Sat, 14 Nov 2026 | Eat Static LIVE | Liquid Ross, Neutron |
 | Fri, 20 Nov 2026 | D&B Against Racism |  |
 | Sat, 21 Nov 2026 | Emerald, mixtress, Lady Passion, Latecomer | Emerald, Latecomer, mixtress |
@@ -18,9 +17,10 @@ The Fox and Firkin is a music venue in London listed on soundcheck. 16 upcoming 
 | Fri, 11 Dec 2026 | Prince Fatty X Greensleeves Xmas Dance | Liam Bailey, Prince Fatty |
 | Fri, 11 Dec 2026 | Wah Wah Live: Raz & Afla + Gideon Conn | Dom Servini, Raz and Afla |
 | Sat, 12 Dec 2026 | Tony Mortimer's 90's Christmas |  |
+| Sat, 12 Dec 2026 | Greg Wilson, Terry Farley, Karis | Greg Wilson, Karis., Terry Farley |
 
 ## Address
 
 316 Lewisham High Street London SE136JZ, London
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-fox-and-firkin/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-fox-and-firkin/)*

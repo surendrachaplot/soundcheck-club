@@ -1,14 +1,13 @@
 # tINI
 
-tINI is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at D-Edge RIO, Rio de Janeiro on Fri, 13 Nov 2026.
+tINI is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Brussels, Brussels on Sat, 21 Nov 2026.
 
-tINI is a house and techno artist based in Germany, with 269 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 71 more. Often billed alongside Gene On Earth, Anthea and Dyed Soundorom. Next up: D-Edge RIO, Rio de Janeiro on Fri 13 Nov.
+tINI is a house and techno artist based in Germany, with 270 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 71 more. Often billed alongside Gene On Earth, Anthea and Dyed Soundorom. Next up: TBA - Brussels, Brussels on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | D-Edge RIO | Rio de Janeiro |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
 | Sat, 21 Nov 2026 | UMI | Brussels |
 | Sat, 28 Nov 2026 | Gaïa Beach | Morocco |
@@ -20,9 +19,11 @@ tINI is a house and techno artist based in Germany, with 269 gigs on soundcheck 
 | Thu, 31 Dec 2026 | OXI | Berlin |
 | Thu, 31 Dec 2026 | Les Enfants Brillants | Barcelona |
 | Fri, 5 Feb 2027 | Igloofest | Montreal |
+| Fri, 12 Feb 2027 | Cadavra | Madrid |
 
 ## Recently played
 
+- D-Edge RIO, Rio de Janeiro · Fri, 13 Nov 2026
 - Starlane São Paulo, Sao-paulo · Thu, 12 Nov 2026
 - El Rio Hostel, Colombia · Sun, 8 Nov 2026
 - Curador Club Social, Cali · Sat, 7 Nov 2026
@@ -30,10 +31,9 @@ tINI is a house and techno artist based in Germany, with 269 gigs on soundcheck 
 - Garage Noord, Amsterdam · Sun, 25 Oct 2026
 - THE OTHER SIDE, Amsterdam · Sun, 25 Oct 2026
 - CLUB RAUM, Amsterdam · Fri, 23 Oct 2026
-- Cobalt Studios, Newcastle · Fri, 16 Oct 2026
 
 ## Shares bills with
 
 Gene On Earth, Anthea, Dyed Soundorom
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tini/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tini/)*

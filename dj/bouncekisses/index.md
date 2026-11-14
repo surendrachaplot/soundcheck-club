@@ -1,6 +1,6 @@
 # bounce kisses
 
-bounce kisses is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Eagle of Detroit, Detroit on Wed, 25 Nov 2026.
+bounce kisses is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at The Eagle of Detroit, Detroit on Wed, 25 Nov 2026.
 
 bounce kisses is a techno and ambient artist based in United States of America, with 10 gigs on soundcheck across Detroit, Leipzig and New York City. Often billed alongside Boyfriend Dick, L4RV4 and ConCon. Next up: The Eagle of Detroit, Detroit on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ bounce kisses is a techno and ambient artist based in United States of America, 
 
 Boyfriend Dick, L4RV4, ConCon
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bouncekisses/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bouncekisses/)*

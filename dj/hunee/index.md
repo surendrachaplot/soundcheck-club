@@ -1,8 +1,8 @@
 # Hunee
 
-Hunee is a House and Disco artist with 8 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Gazarte, Athens on Sat, 14 Nov 2026.
+Hunee is a House and Disco artist with 9 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Gazarte, Athens on Sat, 14 Nov 2026.
 
-Hunee is a house and disco artist based in Germany, with 155 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 35 more. Often billed alongside Antal, Call Super and Paquita Gordon. Next up: Gazarte, Athens on Sat 14 Nov.
+Hunee is a house and disco artist based in Germany, with 156 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 35 more. Often billed alongside Antal, Call Super and Paquita Gordon. Next up: Gazarte, Athens on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Hunee is a house and disco artist based in Germany, with 155 gigs on soundcheck 
 | Sat, 14 Nov 2026 | Gazarte | Athens |
 | Fri, 20 Nov 2026 | Rex Club | Paris |
 | Fri, 4 Dec 2026 | EartH | London |
+| Fri, 11 Dec 2026 | Lux Fragil | Lisbon |
 | Fri, 18 Dec 2026 | Lofi | Amsterdam |
 | Sat, 19 Dec 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 28 May 2027 | Peckham Rye Park | London |
@@ -32,4 +33,4 @@ Hunee is a house and disco artist based in Germany, with 155 gigs on soundcheck 
 
 Antal, Call Super, Paquita Gordon
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hunee/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hunee/)*

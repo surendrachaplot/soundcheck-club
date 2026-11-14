@@ -1,6 +1,6 @@
 # Electric Studios
 
-Electric Studios is a music venue in Sheffield with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Sound Of Bassline | Sheffield" on Sat, 14 Nov 2026.
+Electric Studios is a music venue in Sheffield with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Sound Of Bassline | Sheffield" on Sat, 14 Nov 2026.
 
 Electric Studios is a music venue in Sheffield listed on soundcheck. 3 upcoming gigs, with line-ups including Dennis Quin, Jamie Duggan and Kings of the Rollers. See dates, start times and who's playing. 6 Leadmill Road, Sheffield, S1 4SE.
 
@@ -16,4 +16,4 @@ Electric Studios is a music venue in Sheffield listed on soundcheck. 3 upcoming 
 
 6 Leadmill Road, Sheffield, S1 4SE, Sheffield
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/electric-studios/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/electric-studios/)*

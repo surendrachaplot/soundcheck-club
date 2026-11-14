@@ -1,6 +1,6 @@
 # dirtydms
 
-dirtydms is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Secret Location, Amsterdam on Sat, 21 Nov 2026.
+dirtydms is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Secret Location, Amsterdam on Sat, 21 Nov 2026.
 
 dirtydms is a techno and bass artist based in Netherlands, with 68 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Bologna and 7 more. Often billed alongside Helmond Lang, Jasmín and Kessler. Next up: TBA - Secret Location, Amsterdam on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ dirtydms is a techno and bass artist based in Netherlands, with 68 gigs on sound
 
 Helmond Lang, Jasmín, Kessler
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtydms/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtydms/)*

@@ -1,6 +1,6 @@
 # E.LEE
 
-E.LEE is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Upstairs at the 700, Philadelphia on Fri, 20 Nov 2026.
+E.LEE is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Upstairs at the 700, Philadelphia on Fri, 20 Nov 2026.
 
 E.LEE is a techno and club artist based in United States of America, with 10 gigs on soundcheck across Philadelphia. Often billed alongside Kissel, Obreezy Beats and RESONATE.JPEG. Next up: Upstairs at the 700, Philadelphia on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ E.LEE is a techno and club artist based in United States of America, with 10 gig
 
 Kissel, Obreezy Beats, RESONATE.JPEG
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/e.lee/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/e.lee/)*

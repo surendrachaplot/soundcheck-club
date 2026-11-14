@@ -1,6 +1,6 @@
 # TBA - Gulf Inn Hotel Al Nasr
 
-TBA - Gulf Inn Hotel Al Nasr is a music venue in Dubai with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "Moist Paper Party" on Sat, 21 Nov 2026.
+TBA - Gulf Inn Hotel Al Nasr is a music venue in Dubai with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. The next is "Moist Paper Party" on Sat, 21 Nov 2026.
 
 TBA - Gulf Inn Hotel Al Nasr is a music venue in Dubai listed on soundcheck. 1 upcoming gig, with line-ups including Baby B.. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Gulf Inn Hotel Al Nasr is a music venue in Dubai listed on soundcheck. 1 u
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Moist Paper Party | Baby B. |
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dubai/club/tba-gulf-inn-hotel-al-nasr/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dubai/club/tba-gulf-inn-hotel-al-nasr/)*

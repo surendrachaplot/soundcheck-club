@@ -1,6 +1,6 @@
 # CHAR
 
-CHAR is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Egg London, London on Sat, 5 Dec 2026.
+CHAR is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Egg London, London on Sat, 5 Dec 2026.
 
 CHAR is a techno and drum & bass artist based in France, with 10 gigs on soundcheck across Berlin, Chicago, Detroit and London and 4 more. Often billed alongside Beezo, JAYDAA and Shenin Amara. Next up: Egg London, London on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ CHAR is a techno and drum & bass artist based in France, with 10 gigs on soundch
 
 Beezo, JAYDAA, Shenin Amara
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/char-fr/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/char-fr/)*

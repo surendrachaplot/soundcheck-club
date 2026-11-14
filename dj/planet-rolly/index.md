@@ -1,6 +1,6 @@
 # Planet Rolly
 
-Planet Rolly is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Bar Franca, Los Angeles on Sun, 15 Nov 2026.
+Planet Rolly is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Bar Franca, Los Angeles on Sun, 15 Nov 2026.
 
 Planet Rolly is a house and electronica artist based in United States of America, with 16 gigs on soundcheck across Los Angeles and Montreal. Often billed alongside Club Tularosa, Kana Hishiya and Maddy Maia. Next up: Bar Franca, Los Angeles on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Planet Rolly is a house and electronica artist based in United States of America
 
 Club Tularosa, Kana Hishiya, Maddy Maia
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/planet-rolly/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/planet-rolly/)*

@@ -1,6 +1,6 @@
 # Ece Özel
 
-Ece Özel is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at NOH Extended, Istanbul on Fri, 27 Nov 2026.
+Ece Özel is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at NOH Extended, Istanbul on Fri, 27 Nov 2026.
 
 Ece Özel is a techno and house artist based in Turkey, with 72 gigs on soundcheck across Amsterdam, Athens, Belgrade and Berlin and 13 more. Often billed alongside Jen Cardini, Elena Colombi and Ferhat Albayrak. Next up: NOH Extended, Istanbul on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Ece Özel is a techno and house artist based in Turkey, with 72 gigs on soundche
 
 Jen Cardini, Elena Colombi, Ferhat Albayrak
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eceozel/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eceozel/)*

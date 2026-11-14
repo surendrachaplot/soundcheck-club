@@ -1,6 +1,6 @@
 # Dom & Roland
 
-Dom & Roland is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Notting Hill Arts Club, London on Fri, 4 Dec 2026.
+Dom & Roland is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Notting Hill Arts Club, London on Fri, 4 Dec 2026.
 
 Dom & Roland are a drum & bass and jungle duo based in United Kingdom, with 15 gigs on soundcheck across Amsterdam, Brighton, Bucharest and Budapest and 4 more. Often billed alongside Bailey (UK), Blackeye MC and Etch. Next up: Notting Hill Arts Club, London on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Dom & Roland are a drum & bass and jungle duo based in United Kingdom, with 15 g
 
 Bailey (UK), Blackeye MC, Etch
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/domroland/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/domroland/)*

@@ -1,6 +1,6 @@
 # metrologic
 
-metrologic is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Aaja Basement, London on Fri, 11 Dec 2026.
+metrologic is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Aaja Basement, London on Fri, 11 Dec 2026.
 
 metrologic is a techno and electro artist based in Greece, with 19 gigs on soundcheck across London. Often billed alongside MAL33T, Almeida Moura and DELARA. Next up: Aaja Basement, London on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ metrologic is a techno and electro artist based in Greece, with 19 gigs on sound
 
 MAL33T, Almeida Moura, DELARA
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/metrologic/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/metrologic/)*

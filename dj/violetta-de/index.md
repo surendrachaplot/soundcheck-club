@@ -1,6 +1,6 @@
 # Violetta (DE)
 
-Violetta (DE) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Paloma, Berlin on Fri, 11 Dec 2026.
+Violetta (DE) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Paloma, Berlin on Fri, 11 Dec 2026.
 
 Violetta (DE) is a house and techno artist based in Germany, with 23 gigs on soundcheck across Berlin and Stuttgart. Often billed alongside Lucas Depta, Lakkes and Rødhåd. Next up: Paloma, Berlin on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Violetta (DE) is a house and techno artist based in Germany, with 23 gigs on sou
 
 Lucas Depta, Lakkes, Rødhåd
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/violetta-de/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/violetta-de/)*

@@ -1,6 +1,6 @@
 # KOKETAMC
 
-KOKETAMC is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Astron Club, Athens on Sat, 21 Nov 2026.
+KOKETAMC is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Astron Club, Athens on Sat, 21 Nov 2026.
 
 KOKETAMC is a techno and downtempo artist based in Greece, with 31 gigs on soundcheck across Athens, Berlin, Copenhagen and Thessaloniki. Often billed alongside Ayshel, Bighi and DJ Problems. Next up: Astron Club, Athens on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ KOKETAMC is a techno and downtempo artist based in Greece, with 31 gigs on sound
 
 Ayshel, Bighi, DJ Problems
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/koketamc/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/koketamc/)*

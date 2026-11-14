@@ -1,6 +1,6 @@
 # Eduardo Castillo
 
-Eduardo Castillo is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at ROCA HIFI, Mexico City on Wed, 11 Nov 2026.
+Eduardo Castillo is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at ROCA HIFI, Mexico City on Wed, 11 Nov 2026.
 
 Eduardo Castillo is a house and deep house artist, with 9 gigs on soundcheck across Los Angeles, Mexico City, Miami and New York City. Often billed alongside Apache, Barreto and Bluecommand. Next up: ROCA HIFI, Mexico City on Wed 11 Nov.
 
@@ -25,4 +25,4 @@ Eduardo Castillo is a house and deep house artist, with 9 gigs on soundcheck acr
 
 Apache, Barreto, Bluecommand
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eduardocastillo/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eduardocastillo/)*

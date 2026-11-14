@@ -1,6 +1,6 @@
 # JAYDAA
 
-JAYDAA is a Tech House and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Ministry Of Sound, London on Sat, 14 Nov 2026.
+JAYDAA is a Tech House and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Ministry Of Sound, London on Sat, 14 Nov 2026.
 
 JAYDAA is a tech house and house artist based in United Kingdom, with 210 gigs on soundcheck across Algarve, Birmingham, Ibiza and London and 2 more. Often billed alongside Shenin Amara, Jerome Six and Beezo. Next up: Ministry Of Sound, London on Sat 14 Nov.
 
@@ -31,4 +31,4 @@ JAYDAA is a tech house and house artist based in United Kingdom, with 210 gigs o
 
 Shenin Amara, Jerome Six, Beezo
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaydaa/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaydaa/)*

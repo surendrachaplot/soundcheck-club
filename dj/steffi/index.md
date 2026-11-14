@@ -1,6 +1,6 @@
 # Steffi
 
-Steffi is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at La Paloma, Barcelona on Fri, 27 Nov 2026.
+Steffi is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at La Paloma, Barcelona on Fri, 27 Nov 2026.
 
 Steffi is a techno and house artist based in Netherlands, with 153 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 28 more. Often billed alongside Virginia, Blasha & Allatt and Tasha. Next up: La Paloma, Barcelona on Fri 27 Nov.
 
@@ -29,4 +29,4 @@ Steffi is a techno and house artist based in Netherlands, with 153 gigs on sound
 
 Virginia, Blasha & Allatt, Tasha
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/steffi/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/steffi/)*

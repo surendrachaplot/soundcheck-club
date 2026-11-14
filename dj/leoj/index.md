@@ -1,6 +1,6 @@
 # Leo J
 
-Leo J is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at 50 | 50, Medellin on Sat, 14 Nov 2026.
+Leo J is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at 50 | 50, Medellin on Sat, 14 Nov 2026.
 
 Leo J is a house and techno artist, with 62 gigs on soundcheck across Barcelona, Berlin, Lisbon and London and 5 more. Often billed alongside Leo Janeiro, Bernardo Campos and From House to Disco. Next up: 50 | 50, Medellin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Leo J is a house and techno artist, with 62 gigs on soundcheck across Barcelona,
 
 Leo Janeiro, Bernardo Campos, From House to Disco
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leoj/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leoj/)*

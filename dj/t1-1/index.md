@@ -1,6 +1,6 @@
 # T1 (1)
 
-T1 (1) is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Rolling Stock, London on Fri, 4 Dec 2026.
+T1 (1) is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Rolling Stock, London on Fri, 4 Dec 2026.
 
 T1 is a house and minimal artist, with 16 gigs on soundcheck across London. Often billed alongside Moonz, DeRizzio and Azire. Next up: Rolling Stock, London on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ T1 is a house and minimal artist, with 16 gigs on soundcheck across London. Ofte
 
 Moonz, DeRizzio, Azire
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/t1-1/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/t1-1/)*

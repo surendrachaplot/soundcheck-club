@@ -1,14 +1,13 @@
 # 45 London
 
-45 London is a music venue in London with 7 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Valera " on Fri, 13 Nov 2026.
+45 London is a music venue in London with 6 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "ComEd Pay My Bill: Pay Online, Guest Payment & Login Portal" on Sat, 14 Nov 2026.
 
-45 London is a music venue in London listed on soundcheck. 7 upcoming gigs, with line-ups including AnD, Emilion Dollar Baby, Kazuki Takahashi and MC Secret Agent and 2 more. See dates, start times and who's playing. 45 Curtain Road, London EC2A 3PT.
+45 London is a music venue in London listed on soundcheck. 6 upcoming gigs, with line-ups including AnD, Emilion Dollar Baby, Kazuki Takahashi and MC Secret Agent and 2 more. See dates, start times and who's playing. 45 Curtain Road, London EC2A 3PT.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Valera  |  |
 | Sat, 14 Nov 2026 | ComEd Pay My Bill: Pay Online, Guest Payment & Login Portal | AnD |
 | Sat, 21 Nov 2026 | Kasaba House Vol 12 - Afro, Turkish & Arabic House | Yilmaz Sumbul |
 | Thu, 26 Nov 2026 | Finally |  |
@@ -20,4 +19,4 @@
 
 45 Curtain Road, London EC2A 3PT, London
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/45-london/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/45-london/)*

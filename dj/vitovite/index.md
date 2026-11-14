@@ -1,6 +1,6 @@
 # VITØ VITE
 
-VITØ VITE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - instagram | telegram: @klangsubstanz, Berlin on Sat, 12 Dec 2026.
+VITØ VITE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - instagram | telegram: @klangsubstanz, Berlin on Sat, 12 Dec 2026.
 
 VITØ VITE is a techno and house artist based in Germany, with 11 gigs on soundcheck across Berlin. Often billed alongside Marc Eisenberg, Einfach Taffo and gegenfegen. Next up: TBA - instagram | telegram: @klangsubstanz, Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ VITØ VITE is a techno and house artist based in Germany, with 11 gigs on soundc
 
 Marc Eisenberg, Einfach Taffo, gegenfegen
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vitovite/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vitovite/)*

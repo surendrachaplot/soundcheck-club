@@ -1,6 +1,6 @@
 # Maaantz
 
-Maaantz is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Ilion Plus, Athens on Sat, 14 Nov 2026.
+Maaantz is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Ilion Plus, Athens on Sat, 14 Nov 2026.
 
 Maaantz is a techno and electro artist based in Greece, with 47 gigs on soundcheck across Athens. Often billed alongside Jipan, IMPVLSIV and Nikos Thanos. Next up: Ilion Plus, Athens on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Maaantz is a techno and electro artist based in Greece, with 47 gigs on soundche
 
 Jipan, IMPVLSIV, Nikos Thanos
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maaantz/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maaantz/)*

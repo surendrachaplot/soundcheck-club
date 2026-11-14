@@ -1,6 +1,6 @@
 # Juan Neira
 
-Juan Neira is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Crack Bellmer, Berlin on Fri, 20 Nov 2026.
+Juan Neira is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Crack Bellmer, Berlin on Fri, 20 Nov 2026.
 
 Juan Neira is a house and techno artist based in Uruguay, with 21 gigs on soundcheck across Berlin. Often billed alongside Jogo, Freigeist and Flor Coto. Next up: Crack Bellmer, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Juan Neira is a house and techno artist based in Uruguay, with 21 gigs on soundc
 
 Jogo, Freigeist, Flor Coto
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juanneira/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juanneira/)*

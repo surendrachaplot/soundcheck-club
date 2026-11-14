@@ -1,6 +1,6 @@
 # CHRSBRRY
 
-CHRSBRRY is a Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Faceclock Gallery, Philadelphia on Fri, 11 Dec 2026.
+CHRSBRRY is a Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Faceclock Gallery, Philadelphia on Fri, 11 Dec 2026.
 
 CHRSBRRY is a bass and garage artist based in United States of America, with 15 gigs on soundcheck across New York City and Philadelphia. Often billed alongside Feral Sound, Nic Baker and mel b. Next up: Faceclock Gallery, Philadelphia on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ CHRSBRRY is a bass and garage artist based in United States of America, with 15 
 
 Feral Sound, Nic Baker, mel b
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrsbrry/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrsbrry/)*

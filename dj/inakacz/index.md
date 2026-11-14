@@ -1,6 +1,6 @@
 # Ina Kacz
 
-Ina Kacz is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Bassiani, Tbilisi on Fri, 11 Dec 2026.
+Ina Kacz is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Bassiani, Tbilisi on Fri, 11 Dec 2026.
 
 Ina Kacz is a techno and house artist based in France, with 57 gigs on soundcheck across Athens, Barcelona, Berlin and Bratislava and 16 more. Often billed alongside Luigi Tozzi, Kvanchi and Psyk. Next up: Bassiani, Tbilisi on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ Ina Kacz is a techno and house artist based in France, with 57 gigs on soundchec
 
 Luigi Tozzi, Kvanchi, Psyk
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inakacz/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inakacz/)*

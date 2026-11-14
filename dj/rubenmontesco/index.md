@@ -1,6 +1,6 @@
 # Ruben Montesco
 
-Ruben Montesco is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Studio76 Club, Madrid on Sat, 5 Dec 2026.
+Ruben Montesco is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Studio76 Club, Madrid on Sat, 5 Dec 2026.
 
 Ruben Montesco is an electro and techno artist based in Spain, with 18 gigs on soundcheck across Barcelona and Madrid. Often billed alongside F. Vinuesa, ADRI.G and Mario Gagliardi. Next up: Studio76 Club, Madrid on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Ruben Montesco is an electro and techno artist based in Spain, with 18 gigs on s
 
 F. Vinuesa, ADRI.G, Mario Gagliardi
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rubenmontesco/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rubenmontesco/)*

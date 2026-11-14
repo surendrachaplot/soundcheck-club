@@ -1,6 +1,6 @@
 # Loading...
 
-Loading... is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at 1Fox Precinct, Johannesburg on Sat, 12 Dec 2026.
+Loading... is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at 1Fox Precinct, Johannesburg on Sat, 12 Dec 2026.
 
 Loading... is a house and techno artist based in United States of America, with 44 gigs on soundcheck across Detroit, Johannesburg and Miami. Often billed alongside Loading... (US), DJ DARIA and Eddie Fowlkes. Next up: 1Fox Precinct, Johannesburg on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Loading... is a house and techno artist based in United States of America, with 
 
 Loading... (US), DJ DARIA, Eddie Fowlkes
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loading.../)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loading.../)*

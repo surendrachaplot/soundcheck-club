@@ -1,18 +1,18 @@
 # JS Alvarez
 
-JS Alvarez is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Crypt (New Orleans), New Orleans on Fri, 13 Nov 2026.
+JS Alvarez is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Tuff Break Loser's Lounge, New Orleans on Sat, 14 Nov 2026.
 
-JS Alvarez is a techno and electro artist based in United States of America, with 49 gigs on soundcheck across Chicago, Denver, Detroit and New Orleans and 3 more. Often billed alongside Makeen, Shanti and Dan B Hood. Next up: The Crypt (New Orleans), New Orleans on Fri 13 Nov.
+JS Alvarez is a techno and electro artist based in United States of America, with 49 gigs on soundcheck across Chicago, Denver, Detroit and New Orleans and 3 more. Often billed alongside Makeen, Shanti and Dan B Hood. Next up: Tuff Break Loser's Lounge, New Orleans on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | The Crypt (New Orleans) | New Orleans |
 | Sat, 14 Nov 2026 | Tuff Break Loser's Lounge | New Orleans |
 
 ## Recently played
 
+- The Crypt (New Orleans), New Orleans · Fri, 13 Nov 2026
 - The California Clipper, Chicago · Thu, 29 Oct 2026
 - Tangent Gallery, Detroit · Sat, 3 Oct 2026
 - Podlasie Club, Chicago · Sat, 29 Aug 2026
@@ -20,10 +20,9 @@ JS Alvarez is a techno and electro artist based in United States of America, wit
 - Tuff Break Loser's Lounge, New Orleans · Fri, 3 Apr 2026
 - Whistler, Chicago · Thu, 19 Mar 2026
 - Public Works Gallery, Chicago · Fri, 30 Jan 2026
-- Smoke & Mirrors, Chicago · Wed, 31 Dec 2025
 
 ## Shares bills with
 
 Makeen, Shanti, Dan B Hood
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jsalvarez/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jsalvarez/)*

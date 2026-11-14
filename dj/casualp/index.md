@@ -1,6 +1,6 @@
 # Casual P
 
-Casual P is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Chinese Laundry, Sydney on Sat, 14 Nov 2026.
+Casual P is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Chinese Laundry, Sydney on Sat, 14 Nov 2026.
 
 Casual P is a house and garage artist based in Australia, with 26 gigs on soundcheck across Sydney. Often billed alongside Ari Kiko, Couch Mechanic and Jane Decks. Next up: Chinese Laundry, Sydney on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Casual P is a house and garage artist based in Australia, with 26 gigs on soundc
 
 Ari Kiko, Couch Mechanic, Jane Decks
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/casualp/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/casualp/)*

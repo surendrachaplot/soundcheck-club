@@ -1,6 +1,6 @@
 # Ado
 
-Ado is a Minimal and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Ghent (multi-venue), Ghent on Fri, 27 Nov 2026.
+Ado is a Minimal and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Ghent (multi-venue), Ghent on Fri, 27 Nov 2026.
 
 Ado is a minimal and electronica artist based in Netherlands, with 7 gigs on soundcheck across Amsterdam, Berlin, Bogotá and Geneva and 2 more. Often billed alongside ADO (DE), Dexon and AMIRA. Next up: TBA - Ghent (multi-venue), Ghent on Fri 27 Nov.
 
@@ -23,4 +23,4 @@ Ado is a minimal and electronica artist based in Netherlands, with 7 gigs on sou
 
 ADO (DE), Dexon, AMIRA
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ado/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ado/)*

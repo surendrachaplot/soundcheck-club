@@ -1,6 +1,6 @@
 # ADB (FR)
 
-ADB (FR) is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Cabaret  Aléatoire, Marseille on Fri, 11 Dec 2026.
+ADB (FR) is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Cabaret  Aléatoire, Marseille on Fri, 11 Dec 2026.
 
 ADB (FR) is a trance and techno artist based in France, with 25 gigs on soundcheck across Berlin, Marseille, Montreal and Munich and 3 more. Often billed alongside MEYEM, Bady (FR) and DJ Caline. Next up: Cabaret  Aléatoire, Marseille on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ ADB (FR) is a trance and techno artist based in France, with 25 gigs on soundche
 
 MEYEM, Bady (FR), DJ Caline
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adb-fr/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adb-fr/)*

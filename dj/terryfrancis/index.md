@@ -1,6 +1,6 @@
 # Terry Francis
 
-Terry Francis is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Movers, Nottingham on Sat, 28 Nov 2026.
+Terry Francis is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Movers, Nottingham on Sat, 28 Nov 2026.
 
 Terry Francis is a tech house and house artist based in United Kingdom, with 65 gigs on soundcheck across Aberdeen, Adelaide, Berlin and Birmingham and 10 more. Often billed alongside 3 Minds, Eddie Richards and Jake Beautyman. Next up: Movers, Nottingham on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Terry Francis is a tech house and house artist based in United Kingdom, with 65 
 
 3 Minds, Eddie Richards, Jake Beautyman
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/terryfrancis/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/terryfrancis/)*

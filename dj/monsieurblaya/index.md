@@ -1,6 +1,6 @@
 # Monsieur Blaya
 
-Monsieur Blaya is a Reggaeton and Pop artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Yasta Club, Madrid on Fri, 20 Nov 2026.
+Monsieur Blaya is a Reggaeton and Pop artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Yasta Club, Madrid on Fri, 20 Nov 2026.
 
 Monsieur Blaya is a reggaeton and pop artist based in Spain, with 22 gigs on soundcheck across Madrid. Often billed alongside Albany, BRINGAS and COBRAH. Next up: Yasta Club, Madrid on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Monsieur Blaya is a reggaeton and pop artist based in Spain, with 22 gigs on sou
 
 Albany, BRINGAS, COBRAH
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/monsieurblaya/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/monsieurblaya/)*

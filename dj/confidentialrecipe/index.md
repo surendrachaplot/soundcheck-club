@@ -1,6 +1,6 @@
 # Confidential Recipe
 
-Confidential Recipe is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Coliseo Medplus, Bogot on Fri, 4 Dec 2026.
+Confidential Recipe is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Coliseo Medplus, Bogot on Fri, 4 Dec 2026.
 
 Confidential Recipe is a techno and house artist based in Colombia, with 78 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogot and 7 more. Often billed alongside DJ MELEJ, Dagga and RACH. Next up: Coliseo Medplus, Bogot on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Confidential Recipe is a techno and house artist based in Colombia, with 78 gigs
 
 DJ MELEJ, Dagga, RACH
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/confidentialrecipe/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/confidentialrecipe/)*

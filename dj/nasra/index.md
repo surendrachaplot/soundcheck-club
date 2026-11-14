@@ -1,18 +1,18 @@
 # Nasra
 
-Nasra is a Bass and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at MS Stubnitz, Hamburg on Fri, 13 Nov 2026.
+Nasra is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Hafenklang, Hamburg on Sat, 14 Nov 2026.
 
-Nasra is a bass and house artist based in Germany, with 34 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Hamburg and 2 more. Often billed alongside DJ Babyblade, yungfya and Haaizey. Next up: MS Stubnitz, Hamburg on Fri 13 Nov.
+Nasra is a bass and house artist based in Germany, with 34 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Hamburg and 2 more. Often billed alongside DJ Babyblade, yungfya and Haaizey. Next up: Hafenklang, Hamburg on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | MS Stubnitz | Hamburg |
 | Sat, 14 Nov 2026 | Hafenklang | Hamburg |
 
 ## Recently played
 
+- MS Stubnitz, Hamburg · Fri, 13 Nov 2026
 - TAM, Berlin · Sat, 24 Oct 2026
 - Else, Berlin · Sun, 16 Aug 2026
 - 90mil, Berlin · Fri, 1 May 2026
@@ -20,10 +20,9 @@ Nasra is a bass and house artist based in Germany, with 34 gigs on soundcheck ac
 - Locke, Hamburg · Sat, 4 Oct 2025
 - Ms Dockville, Hamburg · Fri, 15 Aug 2025
 - Fitzroy, Berlin · Sat, 9 Aug 2025
-- Ankali & Planeta Za, Prague · Sat, 28 Jun 2025
 
 ## Shares bills with
 
 DJ Babyblade, yungfya, Haaizey
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nasra/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nasra/)*

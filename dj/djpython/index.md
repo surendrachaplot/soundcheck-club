@@ -1,14 +1,13 @@
 # DJ Python
 
-DJ Python is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Nitsa Club, Barcelona on Fri, 13 Nov 2026.
+DJ Python is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Le Chinois, Paris on Fri, 27 Nov 2026.
 
-DJ Python is a techno and house artist based in United States of America, with 195 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 49 more. Often billed alongside Nick León, Ana Roxanne and VTSS. Next up: Nitsa Club, Barcelona on Fri 13 Nov.
+DJ Python is a techno and house artist based in United States of America, with 195 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 49 more. Often billed alongside Nick León, Ana Roxanne and VTSS. Next up: Le Chinois, Paris on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Nitsa Club | Barcelona |
 | Fri, 27 Nov 2026 | Le Chinois | Paris |
 | Thu, 3 Dec 2026 | The Fields at Siam Country Club | Thailand |
 | Fri, 4 Dec 2026 | Final | Taipei |
@@ -16,6 +15,7 @@ DJ Python is a techno and house artist based in United States of America, with 1
 
 ## Recently played
 
+- Nitsa Club, Barcelona · Fri, 13 Nov 2026
 - Lingotto Fiere, Turin · Thu, 29 Oct 2026
 - Hotel Forum, Krakow · Fri, 9 Oct 2026
 - Various venues - Warsaw & Krakow, Poland · Fri, 2 Oct 2026
@@ -23,10 +23,9 @@ DJ Python is a techno and house artist based in United States of America, with 1
 - Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
 - fabric, London · Sat, 12 Sept 2026
 - RSO.BERLIN, Berlin · Sat, 8 Aug 2026
-- TBA - Apiro, Marche IT, Milan · Thu, 30 Jul 2026
 
 ## Shares bills with
 
 Nick León, Ana Roxanne, VTSS
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djpython/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djpython/)*

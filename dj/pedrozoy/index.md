@@ -1,6 +1,6 @@
 # Pedro Zoy
 
-Pedro Zoy is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Collect LX Factory, Lisbon on Fri, 27 Nov 2026.
+Pedro Zoy is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Collect LX Factory, Lisbon on Fri, 27 Nov 2026.
 
 Pedro Zoy is a house and minimal artist based in Portugal, with 13 gigs on soundcheck across Lisbon. Often billed alongside Kee_ko, Kee.ko and Anthea. Next up: Collect LX Factory, Lisbon on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Pedro Zoy is a house and minimal artist based in Portugal, with 13 gigs on sound
 
 Kee_ko, Kee.ko, Anthea
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pedrozoy/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pedrozoy/)*

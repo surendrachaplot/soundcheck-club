@@ -1,6 +1,6 @@
 # Wakka
 
-Wakka is a Tech House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Distrikt, Leeds on Sat, 28 Nov 2026.
+Wakka is a Tech House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Distrikt, Leeds on Sat, 28 Nov 2026.
 
 Wakka is a tech house and minimal artist based in United Kingdom, with 34 gigs on soundcheck across Barcelona, Edinburgh, Leeds and London and 2 more. Often billed alongside Adam Lance, DJ Bz and Nooney. Next up: Distrikt, Leeds on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Wakka is a tech house and minimal artist based in United Kingdom, with 34 gigs o
 
 Adam Lance, DJ Bz, Nooney
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wakka/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wakka/)*

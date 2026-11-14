@@ -1,6 +1,6 @@
 # Ironbase
 
-Ironbase is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Sky Club, Leipzig on Sat, 22 May 2027.
+Ironbase is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Sky Club, Leipzig on Sat, 22 May 2027.
 
 Ironbase is a techno and club artist based in Germany, with 6 gigs on soundcheck across Berlin, Dresden and Leipzig. Often billed alongside AARON, Alex Stein and Bill Youngman. Next up: Sky Club, Leipzig on Sat 22 May.
 
@@ -22,4 +22,4 @@ Ironbase is a techno and club artist based in Germany, with 6 gigs on soundcheck
 
 AARON, Alex Stein, Bill Youngman
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ironbase/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ironbase/)*

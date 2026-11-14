@@ -1,14 +1,14 @@
 # Masayuki Tomita
 
-Masayuki Tomita is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Bambi's, Toronto on Fri, 4 Dec 2026.
+Masayuki Tomita is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Bambi's, Toronto on Sat, 5 Dec 2026.
 
-Masayuki Tomita is a house and techno artist based in Japan, with 18 gigs on soundcheck across Berlin, Montreal and Toronto. Often billed alongside Cosmic JD, Janina Marie and Matt Brancatella. Next up: Bambi's, Toronto on Fri 4 Dec.
+Masayuki Tomita is a house and techno artist based in Japan, with 18 gigs on soundcheck across Berlin, Montreal and Toronto. Often billed alongside Cosmic JD, Janina Marie and Matt Brancatella. Next up: Bambi's, Toronto on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Dec 2026 | Bambi's | Toronto |
+| Sat, 5 Dec 2026 | Bambi's | Toronto |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Masayuki Tomita is a house and techno artist based in Japan, with 18 gigs on sou
 
 Cosmic JD, Janina Marie, Matt Brancatella
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/masayukitomita/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/masayukitomita/)*

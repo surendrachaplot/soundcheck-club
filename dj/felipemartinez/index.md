@@ -1,6 +1,6 @@
 # Felipe Martinez
 
-Felipe Martinez is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at OneSixOne, Melbourne on Mon, 16 Nov 2026.
+Felipe Martinez is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at OneSixOne, Melbourne on Mon, 16 Nov 2026.
 
 Felipe Martinez is a house and tech house artist based in New Zealand, with 16 gigs on soundcheck across Auckland, Bogotá, Melbourne and Sydney and 1 more. Often billed alongside Ana Teles, Logan Baker and Dylan C. Next up: OneSixOne, Melbourne on Mon 16 Nov.
 
@@ -25,4 +25,4 @@ Felipe Martinez is a house and tech house artist based in New Zealand, with 16 g
 
 Ana Teles, Logan Baker, Dylan C
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/felipemartinez/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/felipemartinez/)*

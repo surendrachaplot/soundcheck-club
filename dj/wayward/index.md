@@ -1,6 +1,6 @@
 # Wayward
 
-Wayward is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Block C, London on Fri, 27 Nov 2026.
+Wayward is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Block C, London on Fri, 27 Nov 2026.
 
 Wayward is a house and hip-hop artist based in United Kingdom, with 6 gigs on soundcheck across Antwerp, London and Vienna. Often billed alongside Junior Simba, 2fox and Albi.. Next up: Block C, London on Fri 27 Nov.
 
@@ -22,4 +22,4 @@ Wayward is a house and hip-hop artist based in United Kingdom, with 6 gigs on so
 
 Junior Simba, 2fox, Albi.
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wayward/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wayward/)*

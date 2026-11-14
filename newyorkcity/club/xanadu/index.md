@@ -1,6 +1,6 @@
 # Xanadu
 
-Xanadu is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Sunday Skate Club feat. Sissies of Mercy - Club Flush: SIDESTREETS (skate)" on Sun, 15 Nov 2026.
+Xanadu is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Sunday Skate Club feat. Sissies of Mercy - Club Flush: SIDESTREETS (skate)" on Sun, 15 Nov 2026.
 
 Xanadu is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including SIDESTREETS and Sissies of Mercy. See dates, start times and who's playing. 262 Starr St, Brooklyn, NY 11237.
 
@@ -15,4 +15,4 @@ Xanadu is a music venue in New York City listed on soundcheck. 2 upcoming gigs, 
 
 262 Starr St, Brooklyn, NY 11237, New York City
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/xanadu/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/xanadu/)*

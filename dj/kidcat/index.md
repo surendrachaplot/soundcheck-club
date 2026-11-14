@@ -1,6 +1,6 @@
 # Kidcat
 
-Kidcat is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Tola, London on Sat, 14 Nov 2026.
+Kidcat is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Tola, London on Sat, 14 Nov 2026.
 
 Kidcat is a house and techno artist based in Germany, with 77 gigs on soundcheck across Amsterdam, Berlin, Bratislava and Copenhagen and 5 more. Often billed alongside ilbroccolovolante, Jimmie and zikade. Next up: Tola, London on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Kidcat is a house and techno artist based in Germany, with 77 gigs on soundcheck
 
 ilbroccolovolante, Jimmie, zikade
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kidcat/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kidcat/)*

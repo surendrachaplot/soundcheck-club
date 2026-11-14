@@ -1,18 +1,17 @@
 # Napa Music Hall
 
-Napa Music Hall is a music venue in San Francisco/Oakland with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Illich Mujica - Haunted Ballroom" on Fri, 30 Oct 2026.
+Napa Music Hall is a music venue in San Francisco/Oakland with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. The next is "Salty Residency - Friendsgiving" on Fri, 27 Nov 2026.
 
-Napa Music Hall is a music venue in San Francisco/Oakland listed on soundcheck. 2 upcoming gigs, with line-ups including DeepMilk, Illich Mujica and Tamer_1oc. See dates, start times and who's playing. 1030 Main St, Napa, CA 94559, United States.
+Napa Music Hall is a music venue in San Francisco/Oakland listed on soundcheck. 1 upcoming gig, with line-ups including DeepMilk and Tamer_1oc. See dates, start times and who's playing. 1030 Main St, Napa, CA 94559, United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Illich Mujica - Haunted Ballroom | DeepMilk, Illich Mujica, Tamer_1oc |
-| Fri, 30 Oct 2026 | Illich Mujica - Haunted Ballroom | Illich Mujica |
+| Fri, 27 Nov 2026 | Salty Residency - Friendsgiving | DeepMilk, Tamer_1oc |
 
 ## Address
 
 1030 Main St, Napa, CA 94559, United States, San Francisco/Oakland
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/napa-music-hall/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/napa-music-hall/)*

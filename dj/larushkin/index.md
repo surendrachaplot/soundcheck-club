@@ -1,6 +1,6 @@
 # Larushkin
 
-Larushkin is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Islington Mill, Manchester on Sun, 6 Dec 2026.
+Larushkin is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Islington Mill, Manchester on Sun, 6 Dec 2026.
 
 Larushkin is a tech house and house artist based in United Kingdom, with 28 gigs on soundcheck across Leeds, London and Manchester. Often billed alongside Neillis, AMEX (UK) and Touré. Next up: Islington Mill, Manchester on Sun 6 Dec.
 
@@ -25,4 +25,4 @@ Larushkin is a tech house and house artist based in United Kingdom, with 28 gigs
 
 Neillis, AMEX (UK), Touré
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/larushkin/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/larushkin/)*

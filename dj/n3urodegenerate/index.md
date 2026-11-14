@@ -1,6 +1,6 @@
 # N3urodegenerate
 
-N3urodegenerate is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Le Mondo, Baltimore on Fri, 20 Nov 2026.
+N3urodegenerate is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Le Mondo, Baltimore on Fri, 20 Nov 2026.
 
 N3urodegenerate is a techno and club artist based in United States of America, with 15 gigs on soundcheck across Baltimore, New York City, Richmond and Washington DC. Often billed alongside Ether Pleaser, Matthew Cha and Vivian Oblivion. Next up: Le Mondo, Baltimore on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ N3urodegenerate is a techno and club artist based in United States of America, w
 
 Ether Pleaser, Matthew Cha, Vivian Oblivion
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/n3urodegenerate/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/n3urodegenerate/)*

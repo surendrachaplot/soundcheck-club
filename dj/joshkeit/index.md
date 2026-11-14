@@ -1,6 +1,6 @@
 # Josh Keit
 
-Josh Keit is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Gaffe, London on Fri, 13 Nov 2026.
+Josh Keit is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Gaffe, London on Fri, 13 Nov 2026.
 
 Josh Keit is a house and techno artist based in United Kingdom, with 52 gigs on soundcheck across Brighton, Leeds, Lisbon and London and 1 more. Often billed alongside Oldfield, Jardine (UK) and Jenson.. Next up: Gaffe, London on Fri 13 Nov.
 
@@ -14,6 +14,7 @@ Josh Keit is a house and techno artist based in United Kingdom, with 52 gigs on 
 
 ## Recently played
 
+- Gaffe, London · Fri, 13 Nov 2026
 - fabric, London · Sat, 7 Nov 2026
 - Last Arch, London · Fri, 4 Sept 2026
 - Last Arch, London · Sun, 12 Jul 2026
@@ -21,10 +22,9 @@ Josh Keit is a house and techno artist based in United Kingdom, with 52 gigs on 
 - TBA, London · Sat, 27 Jun 2026
 - The Cause, London · Sat, 6 Jun 2026
 - Stage and Radio, Manchester · Fri, 5 Jun 2026
-- The Lion and Lamb, London · Fri, 15 May 2026
 
 ## Shares bills with
 
 Oldfield, Jardine (UK), Jenson.
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshkeit/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshkeit/)*

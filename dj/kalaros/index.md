@@ -1,8 +1,8 @@
 # Kala Ros
 
-Kala Ros is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Bridge 48, Barcelona on Thu, 19 Nov 2026.
+Kala Ros is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Bridge 48, Barcelona on Thu, 19 Nov 2026.
 
-Kala Ros is a techno and house artist based in Argentina, with 29 gigs on soundcheck across Barcelona and Geneva. Often billed alongside Lucho (VE), MarsattacX and Freeka. Next up: Bridge 48, Barcelona on Thu 19 Nov.
+Kala Ros is a techno and house artist based in Argentina, with 30 gigs on soundcheck across Barcelona and Geneva. Often billed alongside Lucho (VE), MarsattacX and Freeka. Next up: Bridge 48, Barcelona on Thu 19 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Kala Ros is a techno and house artist based in Argentina, with 29 gigs on soundc
 | --- | --- | --- |
 | Thu, 19 Nov 2026 | Bridge 48 | Barcelona |
 | Fri, 20 Nov 2026 | The Supermercat Gotico | Barcelona |
+| Fri, 4 Dec 2026 | Sauvage Swinger Club | Barcelona |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Kala Ros is a techno and house artist based in Argentina, with 29 gigs on soundc
 
 Lucho (VE), MarsattacX, Freeka
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kalaros/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kalaros/)*

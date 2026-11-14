@@ -1,6 +1,6 @@
 # jWave
 
-jWave is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Cabaret Voltaire, Edinburgh on Fri, 20 Nov 2026.
+jWave is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Cabaret Voltaire, Edinburgh on Fri, 20 Nov 2026.
 
 jWave is a tech house and house artist based in United Kingdom, with 54 gigs on soundcheck across Aberdeen, Amsterdam, Barcelona and Birmingham and 17 more. Often billed alongside Josh Baker, Marsolo and Alexandria. Next up: Cabaret Voltaire, Edinburgh on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ jWave is a tech house and house artist based in United Kingdom, with 54 gigs on 
 
 Josh Baker, Marsolo, Alexandria
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jwave/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jwave/)*

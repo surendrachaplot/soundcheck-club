@@ -1,6 +1,6 @@
 # Bytz
 
-Bytz is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Happy Buddha, Vietnam on Thu, 31 Dec 2026.
+Bytz is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Happy Buddha, Vietnam on Thu, 31 Dec 2026.
 
 Bytz is an electronica and house artist based in United States of America, with 20 gigs on soundcheck across Bali, Bangkok, Chicago and Hanoi and 5 more. Often billed alongside DANE., JKIND and Manny. Next up: Happy Buddha, Vietnam on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Bytz is an electronica and house artist based in United States of America, with 
 
 DANE., JKIND, Manny (2)
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bytz/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bytz/)*

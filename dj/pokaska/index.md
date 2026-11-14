@@ -1,6 +1,6 @@
 # Pokaska
 
-Pokaska is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Débris, Tokyo on Fri, 11 Dec 2026.
+Pokaska is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Débris, Tokyo on Fri, 11 Dec 2026.
 
 Pokaska is a techno and house artist based in Japan, with 36 gigs on soundcheck across Tokyo. Often billed alongside chanai, uuu7 and Anapol. Next up: Débris, Tokyo on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Pokaska is a techno and house artist based in Japan, with 36 gigs on soundcheck 
 
 chanai, uuu7, Anapol
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pokaska/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pokaska/)*

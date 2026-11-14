@@ -1,14 +1,13 @@
 # Edge Miami
 
-Edge Miami is a music venue in Miami with 8 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Très Mortimer by Mints On The House" on Fri, 13 Nov 2026.
+Edge Miami is a music venue in Miami with 7 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Komashov, Rodrigo Vieira, DMeyer, Røye, Tiffany Romero" on Sat, 14 Nov 2026.
 
-Edge Miami is a music venue in Miami listed on soundcheck. 8 upcoming gigs, with line-ups including Conosur, Lee Foss, Miguel Bastida and Oscar G and 2 more. See dates, start times and who's playing. 114 NE 20th Terrace Miami, FL 33137.
+Edge Miami is a music venue in Miami listed on soundcheck. 7 upcoming gigs, with line-ups including Conosur, Lee Foss, Miguel Bastida and Oscar G and 2 more. See dates, start times and who's playing. 114 NE 20th Terrace Miami, FL 33137.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Très Mortimer by Mints On The House | Très Mortimer |
 | Sat, 14 Nov 2026 | Komashov, Rodrigo Vieira, DMeyer, Røye, Tiffany Romero |  |
 | Fri, 20 Nov 2026 | Miguel Bastida by Something Chill | Miguel Bastida |
 | Sat, 21 Nov 2026 | Nativos (BR), Ketryn Goetten, Solune, Conosur | Conosur, Solune |
@@ -21,4 +20,4 @@ Edge Miami is a music venue in Miami listed on soundcheck. 8 upcoming gigs, with
 
 114 NE 20th Terrace Miami, FL 33137, Miami
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/edge-miami/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/edge-miami/)*

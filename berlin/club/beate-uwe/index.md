@@ -1,14 +1,13 @@
 # Beate Uwe
 
-Beate Uwe is a music venue in Berlin with 21 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Magic Circus" on Fri, 13 Nov 2026.
+Beate Uwe is a music venue in Berlin with 20 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Beate Invites /// WUT Kollektiv" on Sat, 14 Nov 2026.
 
-Beate Uwe is a music venue in Berlin listed on soundcheck. 21 upcoming gigs, with line-ups including Adrian Schneider, Anaîka, Andrea Zucca and ANNAWAFFEL and 2 more. See dates, start times and who's playing. Schillingstr. 31, 10179, Berlin.
+Beate Uwe is a music venue in Berlin listed on soundcheck. 20 upcoming gigs, with line-ups including Adrian Schneider, Anaîka, Andrea Zucca and ANNAWAFFEL and 2 more. See dates, start times and who's playing. Schillingstr. 31, 10179, Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Magic Circus | MonoAbe |
 | Sat, 14 Nov 2026 | Beate Invites /// WUT Kollektiv | ANXA, KYT, Sonalie Solar |
 | Sun, 15 Nov 2026 | Beate Barfuß /// Rampue (live), sneffinsky, Kira Kaluma, Katschinka, Shurti | Rampue, sneffinsky |
 | Fri, 20 Nov 2026 | EISENGRAU | Testbild |
@@ -18,9 +17,10 @@ Beate Uwe is a music venue in Berlin listed on soundcheck. 21 upcoming gigs, wit
 | Thu, 26 Nov 2026 | Be Home /// NVANCE (live), Audae (live), Farn, Yanakuna | Audae, Farn |
 | Fri, 27 Nov 2026 | Automaticamore | Andrea Zucca, Cmd Tulch, Franz Scala, Hank Clap, Rena Volvo |
 | Sat, 28 Nov 2026 | NIGHTSHIFT Edition #11 | Better Call Paul, Brahmski, Halunki, Lobo (DE), Monsai, Nikklaas, Selin, heinrich grooves |
+| Sun, 29 Nov 2026 | Beate Barfuß /// BeYond Night | zhart |
 
 ## Address
 
 Schillingstr. 31, 10179, Berlin, Berlin
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/beate-uwe/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/beate-uwe/)*

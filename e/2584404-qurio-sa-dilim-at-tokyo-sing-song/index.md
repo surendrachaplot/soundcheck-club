@@ -1,6 +1,6 @@
 # QURIO: SA DILIM at Tokyo Sing Song
 
-QURIO: SA DILIM at Tokyo Sing Song on Sat 14 Nov, Sydney. 1 artist: MISHSQUISH. Baile Funk and Bass. See the line-up on soundcheck.
+QURIO: SA DILIM at Tokyo Sing Song on Sat 14 Nov, Sydney. 1 artist: MISHSQUISH. Bass and Baile Funk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

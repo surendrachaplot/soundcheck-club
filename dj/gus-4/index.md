@@ -1,6 +1,6 @@
 # GUS (4)
 
-GUS (4) is a Club and Baile Funk artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Crypt at St. Matthews Church, London on Sat, 12 Dec 2026.
+GUS (4) is a Club and Baile Funk artist with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at The Crypt at St. Matthews Church, London on Sat, 12 Dec 2026.
 
 GUS is a club and baile funk artist based in United Kingdom, with 39 gigs on soundcheck across Amsterdam, Berlin, Bristol and Brussels and 8 more. Often billed alongside N3LYSTAR, DAZLBØY and SZAL. Next up: The Crypt at St. Matthews Church, London on Sat 12 Dec.
 
@@ -28,4 +28,4 @@ GUS is a club and baile funk artist based in United Kingdom, with 39 gigs on sou
 
 N3LYSTAR, DAZLBØY, SZAL
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gus-4/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gus-4/)*

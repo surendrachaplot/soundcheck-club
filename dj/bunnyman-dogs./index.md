@@ -1,6 +1,6 @@
 # bunnyman.dogs
 
-bunnyman.dogs is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Speakerbox, Bangkok on Sat, 28 Nov 2026.
+bunnyman.dogs is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Speakerbox, Bangkok on Sat, 28 Nov 2026.
 
 bunnyman.dogs is a techno and house artist based in Thailand, with 72 gigs on soundcheck across Bangkok. Often billed alongside DJ Sweed, La Yumar and DJ Krit Morton. Next up: Speakerbox, Bangkok on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ bunnyman.dogs is a techno and house artist based in Thailand, with 72 gigs on so
 
 DJ Sweed, La Yumar, DJ Krit Morton
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bunnyman-dogs./)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bunnyman-dogs./)*

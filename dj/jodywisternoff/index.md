@@ -1,6 +1,6 @@
 # Jody Wisternoff
 
-Jody Wisternoff is a Progressive House and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Move, West-wales on Sat, 21 Nov 2026.
+Jody Wisternoff is a Progressive House and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Move, West-wales on Sat, 21 Nov 2026.
 
 Jody Wisternoff is a progressive house and house artist based in United Kingdom, with 119 gigs on soundcheck across Amsterdam, Auckland, Austin and Baltimore and 44 more. Often billed alongside Nicky Elisabeth, Dosem and Marsh. Next up: Move, West Wales on Sat 21 Nov.
 
@@ -29,4 +29,4 @@ Jody Wisternoff is a progressive house and house artist based in United Kingdom,
 
 Nicky Elisabeth, Dosem, Marsh
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jodywisternoff/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jodywisternoff/)*

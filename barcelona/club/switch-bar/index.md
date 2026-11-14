@@ -1,8 +1,8 @@
 # Switch Bar
 
-Switch Bar is a music venue in Barcelona with 13 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Golden Bug" on Fri, 13 Nov 2026.
+Switch Bar is a music venue in Barcelona with 14 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Golden Bug" on Fri, 13 Nov 2026.
 
-Switch Bar is a music venue in Barcelona listed on soundcheck. 13 upcoming gigs, with line-ups including Acid Oslo, Arildo, DJ Service and Golden Bug and 2 more. See dates, start times and who's playing. Carrer Francisco Giner, 24, 08012 Barcelona, Spain.
+Switch Bar is a music venue in Barcelona listed on soundcheck. 14 upcoming gigs, with line-ups including Acid Oslo, Arildo, DJ Service and Golden Bug and 2 more. See dates, start times and who's playing. Carrer Francisco Giner, 24, 08012 Barcelona, Spain.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Switch Bar is a music venue in Barcelona listed on soundcheck. 13 upcoming gigs,
 
 Carrer Francisco Giner, 24, 08012 Barcelona, Spain, Barcelona
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/switch-bar/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/switch-bar/)*

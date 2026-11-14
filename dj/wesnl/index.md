@@ -1,6 +1,6 @@
 # Wes (NL)
 
-Wes (NL) is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Sensorium, Berlin on Wed, 18 Nov 2026.
+Wes (NL) is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Sensorium, Berlin on Wed, 18 Nov 2026.
 
 Wes (NL) is a house and hip-hop artist based in Netherlands, with 17 gigs on soundcheck across Amsterdam, Berlin, Rotterdam and Tokyo and 1 more. Often billed alongside Ajuma, Coco Maria and Edgar Ramiro. Next up: Sensorium, Berlin on Wed 18 Nov.
 
@@ -25,4 +25,4 @@ Wes (NL) is a house and hip-hop artist based in Netherlands, with 17 gigs on sou
 
 Ajuma, Coco Maria, Edgar Ramiro
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wesnl/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wesnl/)*

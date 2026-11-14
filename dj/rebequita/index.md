@@ -1,6 +1,6 @@
 # Rebequita
 
-Rebequita is a House and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Lithium Paris, Paris on Sun, 15 Nov 2026.
+Rebequita is a House and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Lithium Paris, Paris on Sun, 15 Nov 2026.
 
 Rebequita is a house and reggaeton artist based in France, with 64 gigs on soundcheck across Amsterdam, Bordeaux, Geneva and Los Angeles and 5 more. Often billed alongside Naomi (FR), rougail space program and Bamao Yendé. Next up: Lithium Paris, Paris on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Rebequita is a house and reggaeton artist based in France, with 64 gigs on sound
 
 Naomi (FR), rougail space program, Bamao Yendé
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rebequita/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rebequita/)*

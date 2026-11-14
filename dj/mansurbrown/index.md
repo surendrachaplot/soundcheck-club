@@ -1,6 +1,6 @@
 # Mansur Brown
 
-Mansur Brown is a Jazz and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Protein Studios, London on Sat, 5 Dec 2026.
+Mansur Brown is a Jazz and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Protein Studios, London on Sat, 5 Dec 2026.
 
 Mansur Brown is a jazz and house artist based in United Kingdom, with 13 gigs on soundcheck across Bali, Berlin, Istanbul and Leeds and 4 more. Often billed alongside Anish Kumar, Arthi and Bushbby. Next up: Protein Studios, London on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Mansur Brown is a jazz and house artist based in United Kingdom, with 13 gigs on
 
 Anish Kumar, Arthi, Bushbby
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mansurbrown/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mansurbrown/)*

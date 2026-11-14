@@ -1,6 +1,6 @@
 # Nia Archives
 
-Nia Archives is a Jungle and Drum & Bass artist with 7 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Uber Eats Music Hall, Berlin on Tue, 1 Dec 2026.
+Nia Archives is a Jungle and Drum & Bass artist with 7 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Uber Eats Music Hall, Berlin on Tue, 1 Dec 2026.
 
 Nia Archives is a jungle and drum & bass artist based in United Kingdom, with 111 gigs on soundcheck across Amsterdam, Auckland, Bangkok and Barcelona and 35 more. Often billed alongside Overmono, SHERELLE and Oppidan. Next up: Uber Eats Music Hall, Berlin on Tue 1 Dec.
 
@@ -31,4 +31,4 @@ Nia Archives is a jungle and drum & bass artist based in United Kingdom, with 11
 
 Overmono, SHERELLE, Oppidan
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/niaarchives/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/niaarchives/)*

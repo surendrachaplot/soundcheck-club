@@ -1,6 +1,6 @@
 # Basy Tropikalne
 
-Basy Tropikalne is a Latin Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at OHM, Berlin on Sat, 28 Nov 2026.
+Basy Tropikalne is a Latin Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at OHM, Berlin on Sat, 28 Nov 2026.
 
 Basy Tropikalne is a latin bass and bass artist based in Poland, with 18 gigs on soundcheck across Berlin and Warsaw. Often billed alongside Dengue Dengue Dengue, Some Guest and iffi. Next up: OHM, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Basy Tropikalne is a latin bass and bass artist based in Poland, with 18 gigs on
 
 Dengue Dengue Dengue, Some Guest, iffi
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/basytropikalne/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/basytropikalne/)*

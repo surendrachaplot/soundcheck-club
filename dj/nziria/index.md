@@ -1,6 +1,6 @@
 # NZIRIA
 
-NZIRIA is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA, Berlin on Fri, 22 Jan 2027.
+NZIRIA is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA, Berlin on Fri, 22 Jan 2027.
 
 NZIRIA is an experimental and electronica artist based in Italy, with 21 gigs on soundcheck across Berlin, Bologna, Brussels and Copenhagen and 7 more. Often billed alongside Gabber Eleganza, A.N.I. and Apparat. Next up: TBA, Berlin on Fri 22 Jan.
 
@@ -26,4 +26,4 @@ NZIRIA is an experimental and electronica artist based in Italy, with 21 gigs on
 
 Gabber Eleganza, A.N.I., Apparat
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nziria/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nziria/)*

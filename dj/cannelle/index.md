@@ -1,6 +1,6 @@
 # Cannelle
 
-Cannelle is a Disco and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Radius, Chicago on Sat, 14 Nov 2026.
+Cannelle is a Disco and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Radius, Chicago on Sat, 14 Nov 2026.
 
 Cannelle is a disco and techno artist based in France, with 39 gigs on soundcheck across Antwerp, Barcelona, Berlin and Chicago and 8 more. Often billed alongside LeBRON, ali rq and Luksek. Next up: Radius, Chicago on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Cannelle is a disco and techno artist based in France, with 39 gigs on soundchec
 
 LeBRON, ali rq, Luksek
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cannelle/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cannelle/)*

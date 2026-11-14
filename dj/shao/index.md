@@ -1,6 +1,6 @@
 # Shao
 
-Shao is a Techno and IDM artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Retro Mountain Koh Phangan, Thailand on Thu, 14 Jan 2027.
+Shao is a Techno and IDM artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Retro Mountain Koh Phangan, Thailand on Thu, 14 Jan 2027.
 
 Shao is a techno and idm artist based in China, with 20 gigs on soundcheck across Amsterdam, Beijing, Berlin and Chengdu and 4 more. Often billed alongside Wu Zhuoling, Berlin Bunny and Bloody Mary. Next up: Retro Mountain Koh Phangan, Thailand on Thu 14 Jan.
 
@@ -25,4 +25,4 @@ Shao is a techno and idm artist based in China, with 20 gigs on soundcheck acros
 
 Wu Zhuoling, Berlin Bunny, Bloody Mary
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shao/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shao/)*

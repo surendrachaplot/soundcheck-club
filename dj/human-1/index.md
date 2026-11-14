@@ -1,6 +1,6 @@
 # Human (1)
 
-Human (1) is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at TBA - Korpusi, Tbilisi on Sat, 21 Nov 2026.
+Human (1) is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Korpusi, Tbilisi on Sat, 21 Nov 2026.
 
 Human is a techno and electronica artist based in Germany, with 6 gigs on soundcheck across Beijing, London, Tbilisi and Toronto. Often billed alongside Fank Ford, MESKVLIF and vngdr. Next up: TBA - Korpusi, Tbilisi on Sat 21 Nov.
 
@@ -22,4 +22,4 @@ Human is a techno and electronica artist based in Germany, with 6 gigs on soundc
 
 Fank Ford, MESKVLIF, vngdr
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/human-1/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/human-1/)*

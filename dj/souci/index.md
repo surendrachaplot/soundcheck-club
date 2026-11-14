@@ -1,14 +1,15 @@
 # Souci
 
-Souci is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Pücklerstraße 34, 10997 Berlin, Berlin on Sun, 13 Dec 2026.
+Souci is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Pücklerstraße 34, 10997 Berlin, Berlin on Sun, 13 Dec 2026.
 
-Souci is a techno and house artist based in Serbia, with 59 gigs on soundcheck across Barcelona, Berlin, Cologne and Detroit and 7 more. Often billed alongside DJ Fucks Himself, $ombi and Camilla Rae. Next up: TBA - Pücklerstraße 34, 10997 Berlin, Berlin on Sun 13 Dec.
+Souci is a techno and house artist based in Serbia, with 60 gigs on soundcheck across Barcelona, Berlin, Cologne and Detroit and 7 more. Often billed alongside DJ Fucks Himself, Camilla Rae and $ombi. Next up: TBA - Pücklerstraße 34, 10997 Berlin, Berlin on Sun 13 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 13 Dec 2026 | TBA - Pücklerstraße 34, 10997 Berlin | Berlin |
+| Thu, 31 Dec 2026 | Renate | Berlin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Souci is a techno and house artist based in Serbia, with 59 gigs on soundcheck a
 
 ## Shares bills with
 
-DJ Fucks Himself, $ombi, Camilla Rae
+DJ Fucks Himself, Camilla Rae, $ombi
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/souci/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/souci/)*

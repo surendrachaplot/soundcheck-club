@@ -1,6 +1,6 @@
 # N1NA
 
-N1NA is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Bossa Nova Civic Club, New York City on Mon, 23 Nov 2026.
+N1NA is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Bossa Nova Civic Club, New York City on Mon, 23 Nov 2026.
 
 N1NA is a techno and minimal techno artist, with 28 gigs on soundcheck across Boston, Miami and New York City. Often billed alongside Adrian Hex, Secret Raver and DJ Prim. Next up: Bossa Nova Civic Club, New York City on Mon 23 Nov.
 
@@ -25,4 +25,4 @@ N1NA is a techno and minimal techno artist, with 28 gigs on soundcheck across Bo
 
 Adrian Hex, Secret Raver, DJ Prim
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/n1na/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/n1na/)*

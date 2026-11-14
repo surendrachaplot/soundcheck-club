@@ -1,6 +1,6 @@
 # Luca Guichard
 
-Luca Guichard is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Collect LX Factory, Lisbon on Mon, 23 Nov 2026.
+Luca Guichard is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Collect LX Factory, Lisbon on Mon, 23 Nov 2026.
 
 Luca Guichard is a techno and house artist based in Portugal, with 10 gigs on soundcheck across Lisbon. Often billed alongside Kee_ko, Nebulaee and Ale De Tuglie. Next up: Collect LX Factory, Lisbon on Mon 23 Nov.
 
@@ -25,4 +25,4 @@ Luca Guichard is a techno and house artist based in Portugal, with 10 gigs on so
 
 Kee_ko, Nebulaee, Ale De Tuglie
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaguichard/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaguichard/)*

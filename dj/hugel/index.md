@@ -1,8 +1,8 @@
 # Hugel
 
-Hugel is a House and Afro House artist with 6 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Parque de la Ciudad, CABA, Buenos Aires on Sat, 14 Nov 2026.
+Hugel is a House and Afro House artist with 7 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Parque de la Ciudad, CABA, Buenos Aires on Sat, 14 Nov 2026.
 
-Hugel is a house and afro house artist based in France, with 155 gigs on soundcheck across Amsterdam, Athens, Atlanta and Auckland and 48 more. Often billed alongside Miss Monique, Juany Bravo and FISHER. Next up: TBA - Parque de la Ciudad, CABA, Buenos Aires on Sat 14 Nov.
+Hugel is a house and afro house artist based in France, with 156 gigs on soundcheck across Amsterdam, Athens, Atlanta and Auckland and 48 more. Often billed alongside Miss Monique, Juany Bravo and FISHER. Next up: TBA - Parque de la Ciudad, CABA, Buenos Aires on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Hugel is a house and afro house artist based in France, with 155 gigs on soundch
 | Fri, 20 Nov 2026 | Olympic Stadium | Berlin |
 | Fri, 20 Nov 2026 | TBA | Buenos Aires |
 | Fri, 27 Nov 2026 | Warehouse ZRH | Zurich |
+| Sun, 6 Dec 2026 | TBA - CASA NEOS | Miami |
 | Fri, 18 Dec 2026 | District Arena at Terraform | Bangalore |
 
 ## Recently played
@@ -30,4 +31,4 @@ Hugel is a house and afro house artist based in France, with 155 gigs on soundch
 
 Miss Monique, Juany Bravo, FISHER
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hugel/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hugel/)*

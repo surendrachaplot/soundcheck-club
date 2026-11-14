@@ -1,6 +1,6 @@
 # Jon McCray
 
-Jon McCray is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Bourbon On Division, Chicago on Sat, 28 Nov 2026.
+Jon McCray is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Bourbon On Division, Chicago on Sat, 28 Nov 2026.
 
 Jon McCray is a techno and club artist based in United States of America, with 44 gigs on soundcheck across Chicago and New York City. Often billed alongside R°sha, Vyper and Flores Negras. Next up: Bourbon On Division, Chicago on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Jon McCray is a techno and club artist based in United States of America, with 4
 
 R°sha, Vyper, Flores Negras
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jonmccray/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jonmccray/)*

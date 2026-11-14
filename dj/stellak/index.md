@@ -1,6 +1,6 @@
 # Stella K
 
-Stella K is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Bal Chavaux, Paris on Fri, 20 Nov 2026.
+Stella K is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Bal Chavaux, Paris on Fri, 20 Nov 2026.
 
 Stella K is a house and techno artist based in France, with 37 gigs on soundcheck across Amsterdam, Berlin, Brussels and Geneva and 4 more. Often billed alongside NMSS, Vera Moro and Casper. Next up: Bal Chavaux, Paris on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ Stella K is a house and techno artist based in France, with 37 gigs on soundchec
 
 NMSS, Vera Moro, Casper
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stellak/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stellak/)*

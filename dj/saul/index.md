@@ -1,6 +1,6 @@
 # Saul
 
-Saul is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Cabaret Sauvage, Paris on Sat, 14 Nov 2026.
+Saul is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Cabaret Sauvage, Paris on Sat, 14 Nov 2026.
 
 Saul is a house and techno artist, with 5 gigs on soundcheck across Amsterdam, London, Paris and San Francisco/Oakland. Often billed alongside Bjarki, Desirée Falessi and Eline. Next up: Cabaret Sauvage, Paris on Sat 14 Nov.
 
@@ -21,4 +21,4 @@ Saul is a house and techno artist, with 5 gigs on soundcheck across Amsterdam, L
 
 Bjarki, Desirée Falessi, Eline
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saul/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saul/)*

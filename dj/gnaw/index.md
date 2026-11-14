@@ -1,6 +1,6 @@
 # Gnäw
 
-Gnäw is a Experimental and Noise artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Silent Green, Berlin on Fri, 13 Nov 2026.
+Gnäw is a Experimental and Noise artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Silent Green, Berlin on Fri, 13 Nov 2026.
 
 Gnäw is an experimental and noise artist based in Czech Republic, with 7 gigs on soundcheck across Berlin, Bratislava and Prague. Often billed alongside Mor Wen, Qow and Sarkawt Hamad. Next up: Silent Green, Berlin on Fri 13 Nov.
 
@@ -12,6 +12,7 @@ Gnäw is an experimental and noise artist based in Czech Republic, with 7 gigs o
 
 ## Recently played
 
+- Silent Green, Berlin · Fri, 13 Nov 2026
 - Petrohradská Kolektiv, Prague · Thu, 23 Jul 2026
 - Hybernská 4, Prague · Fri, 5 Sept 2025
 - Kavárna Potrvá, Prague · Sat, 15 Mar 2025
@@ -23,4 +24,4 @@ Gnäw is an experimental and noise artist based in Czech Republic, with 7 gigs o
 
 Mor Wen, Qow, Sarkawt Hamad
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gnaw/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gnaw/)*

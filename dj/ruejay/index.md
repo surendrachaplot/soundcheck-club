@@ -1,6 +1,6 @@
 # Rue Jay
 
-Rue Jay is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Joshua Brooks, Manchester on Sat, 12 Dec 2026.
+Rue Jay is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Joshua Brooks, Manchester on Sat, 12 Dec 2026.
 
 Rue Jay is a house and tech house artist based in United Kingdom, with 9 gigs on soundcheck across Amsterdam, Birmingham, Ibiza and London and 1 more. Often billed alongside Prunk, Altern-8 and Andy Manston. Next up: Joshua Brooks, Manchester on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Rue Jay is a house and tech house artist based in United Kingdom, with 9 gigs on
 
 Prunk, Altern-8, Andy Manston
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ruejay/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ruejay/)*

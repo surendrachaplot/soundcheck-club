@@ -1,6 +1,6 @@
 # Kwartz
 
-Kwartz is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Specka, Madrid on Sun, 15 Nov 2026.
+Kwartz is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Specka, Madrid on Sun, 15 Nov 2026.
 
 Kwartz is a techno and house artist based in Spain, with 111 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 40 more. Often billed alongside Kaiser (K S R), BLANKA and Nørbak. Next up: Specka, Madrid on Sun 15 Nov.
 
@@ -27,4 +27,4 @@ Kwartz is a techno and house artist based in Spain, with 111 gigs on soundcheck 
 
 Kaiser (K S R), BLANKA, Nørbak
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kwartz/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kwartz/)*

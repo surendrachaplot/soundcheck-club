@@ -1,6 +1,6 @@
 # Mateo
 
-Mateo is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
+Mateo is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
 
 Mateo is a techno and house artist based in Hungary, with 8 gigs on soundcheck across Bordeaux, Budapest, Marseille and Melbourne and 3 more. Often billed alongside Spirit, Agents Of Time and Albin Brezlan. Next up: Hungexpo Budapest, Budapest on Fri 13 Nov.
 
@@ -13,6 +13,7 @@ Mateo is a techno and house artist based in Hungary, with 8 gigs on soundcheck a
 
 ## Recently played
 
+- Hungexpo Budapest, Budapest · Fri, 13 Nov 2026
 - Budapest Park, Budapest · Fri, 28 Aug 2026
 - Mtkvarze, Tbilisi · Tue, 6 Jan 2026
 - TBA - Le 180 Festival - La Teste de Buch, Bordeaux · Fri, 8 Aug 2025
@@ -24,4 +25,4 @@ Mateo is a techno and house artist based in Hungary, with 8 gigs on soundcheck a
 
 Spirit, Agents Of Time, Albin Brezlan
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mateo/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mateo/)*

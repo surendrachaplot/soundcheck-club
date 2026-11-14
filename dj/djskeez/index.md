@@ -1,6 +1,6 @@
 # DJ Skeez
 
-DJ Skeez is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Spkrbox, Detroit on Tue, 17 Nov 2026.
+DJ Skeez is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Spkrbox, Detroit on Tue, 17 Nov 2026.
 
 DJ Skeez is a house and techno artist based in United States of America, with 62 gigs on soundcheck across Detroit, Hanoi and Ho Chi Minh City. Often billed alongside Stacey Hotwaxx Hale, dej.y and DJ Bet. Next up: Spkrbox, Detroit on Tue 17 Nov.
 
@@ -25,4 +25,4 @@ DJ Skeez is a house and techno artist based in United States of America, with 62
 
 Stacey Hotwaxx Hale, dej.y, DJ Bet
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djskeez/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djskeez/)*

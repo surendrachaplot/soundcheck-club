@@ -1,6 +1,6 @@
 # Gravagerz
 
-Gravagerz is a House and Garage artist with 7 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Elsewhere, Gold-coast on Sun, 15 Nov 2026.
+Gravagerz is a House and Garage artist with 7 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Elsewhere, Gold-coast on Sun, 15 Nov 2026.
 
 Gravagerz is a house and garage artist based in Italy, with 20 gigs on soundcheck across Amsterdam, Arizona, Boston and Copenhagen and 15 more. Often billed alongside Tini Gessler, Ely Oaks and Jackie Hollander. Next up: Elsewhere, Gold Coast on Sun 15 Nov.
 
@@ -31,4 +31,4 @@ Gravagerz is a house and garage artist based in Italy, with 20 gigs on soundchec
 
 Tini Gessler, Ely Oaks, Jackie Hollander
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gravagerz/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gravagerz/)*

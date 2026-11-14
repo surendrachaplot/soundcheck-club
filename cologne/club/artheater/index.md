@@ -1,14 +1,13 @@
 # Artheater
 
-Artheater is a music venue in Cologne with 8 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Sound of Hell pres. LS41 ALL NIGHT LONG" on Fri, 13 Nov 2026.
+Artheater is a music venue in Cologne with 7 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Jump House by Dados" on Sat, 14 Nov 2026.
 
-Artheater is a music venue in Cologne listed on soundcheck. 8 upcoming gigs, with line-ups including 909 RACING TEAM, alleira, anyka and DJ Discostoff and 2 more. See dates, start times and who's playing. Ehrenfeldgürtel 127; 50823 Cologne; Germany.
+Artheater is a music venue in Cologne listed on soundcheck. 7 upcoming gigs, with line-ups including 909 RACING TEAM, alleira, anyka and DJ Discostoff and 2 more. See dates, start times and who's playing. Ehrenfeldgürtel 127; 50823 Cologne; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Sound of Hell pres. LS41 ALL NIGHT LONG | LS41 (2) |
 | Sat, 14 Nov 2026 | Jump House by Dados | DJ Discostoff, Ken Brause, Lizzle, Tristan K, anyka |
 | Fri, 20 Nov 2026 | SOUND SOUND x Mike Momburg All Night Long with Kara Okay, KIM SWIM, Milion | 909 RACING TEAM, Domenik Deckert, KIM SWIM, Kara Okay, Mike Momburg, Milion |
 | Sat, 21 Nov 2026 | BergWacht with Victor Ruiz uvm | Liho, Max Blumen, Victor Ruiz |
@@ -21,4 +20,4 @@ Artheater is a music venue in Cologne listed on soundcheck. 8 upcoming gigs, wit
 
 Ehrenfeldgürtel 127; 50823 Cologne; Germany, Cologne
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/artheater/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/artheater/)*

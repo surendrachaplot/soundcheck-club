@@ -1,6 +1,6 @@
 # Albin Brezlan
 
-Albin Brezlan is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
+Albin Brezlan is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
 
 Albin Brezlan is a techno and house artist based in Austria, with 136 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bratislava and 4 more. Often billed alongside Huebl, Mark Michael and Dana Melissa. Next up: Hungexpo Budapest, Budapest on Fri 13 Nov.
 
@@ -12,6 +12,7 @@ Albin Brezlan is a techno and house artist based in Austria, with 136 gigs on so
 
 ## Recently played
 
+- Hungexpo Budapest, Budapest · Fri, 13 Nov 2026
 - Das Werk, Vienna · Sat, 7 Nov 2026
 - Amsterdam Central Station, Amsterdam · Sun, 25 Oct 2026
 - Oosterbar, Amsterdam · Sat, 24 Oct 2026
@@ -19,10 +20,9 @@ Albin Brezlan is a techno and house artist based in Austria, with 136 gigs on so
 - O der Klub, Vienna · Fri, 2 Oct 2026
 - Club Exil, Vienna · Fri, 18 Sept 2026
 - Das Werk, Vienna · Sat, 5 Sept 2026
-- RAW Gelände, Berlin · Sat, 29 Aug 2026
 
 ## Shares bills with
 
 Huebl, Mark Michael, Dana Melissa
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/albinbrezlan/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/albinbrezlan/)*

@@ -1,6 +1,6 @@
 # Aury
 
-Aury is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Les Enfants Brillants, Barcelona on Sun, 6 Dec 2026.
+Aury is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Les Enfants Brillants, Barcelona on Sun, 6 Dec 2026.
 
 Aury is an electronica and house artist based in Spain, with 9 gigs on soundcheck across Barcelona, Ibiza and Madrid. Often billed alongside Sindicato Del Baile, 4Pleasure and A.M. Project. Next up: Les Enfants Brillants, Barcelona on Sun 6 Dec.
 
@@ -25,4 +25,4 @@ Aury is an electronica and house artist based in Spain, with 9 gigs on soundchec
 
 Sindicato Del Baile, 4Pleasure, A.M. Project
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aury/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aury/)*

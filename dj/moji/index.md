@@ -1,6 +1,6 @@
 # MØJI
 
-MØJI is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Flinders, Sydney on Fri, 11 Dec 2026.
+MØJI is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at The Flinders, Sydney on Fri, 11 Dec 2026.
 
 MØJI is a techno and downtempo artist based in Iran, with 33 gigs on soundcheck across Amsterdam, Berlin, Melbourne and Sydney and 2 more. Often billed alongside Mila Stern, David Dorad and Foolik. Next up: The Flinders, Sydney on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ MØJI is a techno and downtempo artist based in Iran, with 33 gigs on soundcheck
 
 Mila Stern, David Dorad, Foolik
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moji/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moji/)*

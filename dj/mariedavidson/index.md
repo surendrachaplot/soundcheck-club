@@ -1,6 +1,6 @@
 # Marie Davidson
 
-Marie Davidson is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at H0L0, New York City on Fri, 11 Dec 2026.
+Marie Davidson is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at H0L0, New York City on Fri, 11 Dec 2026.
 
 Marie Davidson is a techno and house artist based in Canada, with 162 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 56 more. Often billed alongside Laurel Halo, TAYHANA and deBasement. Next up: H0L0, New York City on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ Marie Davidson is a techno and house artist based in Canada, with 162 gigs on so
 
 Laurel Halo, TAYHANA, deBasement
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mariedavidson/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mariedavidson/)*

@@ -1,6 +1,6 @@
 # In Between
 
-In Between is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Beate Uwe, Berlin on Sat, 26 Dec 2026.
+In Between is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Beate Uwe, Berlin on Sat, 26 Dec 2026.
 
 In Between is a techno and house artist based in Germany, with 8 gigs on soundcheck across Berlin. Often billed alongside Inch of Shadow, AREA 101 and Ligal Tamir. Next up: Beate Uwe, Berlin on Sat 26 Dec.
 
@@ -24,4 +24,4 @@ In Between is a techno and house artist based in Germany, with 8 gigs on soundch
 
 Inch of Shadow, AREA 101, Ligal Tamir
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inbetween/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inbetween/)*

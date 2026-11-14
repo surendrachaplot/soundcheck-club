@@ -1,6 +1,6 @@
 # John Acquaviva
 
-John Acquaviva is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Marble Bar, Detroit on Sat, 21 Nov 2026.
+John Acquaviva is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Marble Bar, Detroit on Sat, 21 Nov 2026.
 
 John Acquaviva is a house and disco artist based in Canada, with 29 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Detroit and 9 more. Often billed alongside Roland Leesker, Ataxia and Jairo Uría. Next up: Marble Bar, Detroit on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ John Acquaviva is a house and disco artist based in Canada, with 29 gigs on soun
 
 Roland Leesker, Ataxia, Jairo Uría
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johnacquaviva/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johnacquaviva/)*

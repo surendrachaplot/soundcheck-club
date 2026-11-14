@@ -1,6 +1,6 @@
 # Panke Social
 
-Panke Social is a music venue in Sheffield with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "TEKNO JUNKIEZ" on Sat, 5 Dec 2026.
+Panke Social is a music venue in Sheffield with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "TEKNO JUNKIEZ" on Sat, 5 Dec 2026.
 
 Panke Social is a music venue in Sheffield listed on soundcheck. 4 upcoming gigs, with line-ups including Cimmerian, Move Elusive, Olórin and TEKNO Monkey. See dates, start times and who's playing. 16 Exchange street, Sheffield, S25TR.
 
@@ -17,4 +17,4 @@ Panke Social is a music venue in Sheffield listed on soundcheck. 4 upcoming gigs
 
 16 Exchange street, Sheffield, S25TR, Sheffield
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/panke-social/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/panke-social/)*

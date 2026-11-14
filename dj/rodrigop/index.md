@@ -1,6 +1,6 @@
 # Rodrigo P.
 
-Rodrigo P. is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Galeria de Arte, Mexico City on Sat, 5 Dec 2026.
+Rodrigo P. is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Galeria de Arte, Mexico City on Sat, 5 Dec 2026.
 
 Rodrigo P. is a house and minimal artist based in Mexico, with 18 gigs on soundcheck across Amsterdam and Mexico City. Often billed alongside Mejia, ED (MX) and Alo. Next up: TBA - Galeria de Arte, Mexico City on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Rodrigo P. is a house and minimal artist based in Mexico, with 18 gigs on soundc
 
 Mejia, ED (MX), Alo
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rodrigop/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rodrigop/)*

@@ -1,6 +1,6 @@
 # VECTOR:IZE LAUNCH PARTY...or: A New Hope for VECTOR in the ⁠24+1/2⁠ᵗʰ Century at QQQ ST. Park
 
-VECTOR:IZE LAUNCH PARTY...or: A New Hope for VECTOR in the ⁠24+1/2⁠ᵗʰ Century at QQQ ST. Park on Fri 26 Feb, Melbourne. 1 artist: File Explorer. Breakbeat and Electro. See the line-up on soundcheck.
+VECTOR:IZE LAUNCH PARTY...or: A New Hope for VECTOR in the ⁠24+1/2⁠ᵗʰ Century at QQQ ST. Park on Fri 26 Feb, Melbourne. 2 artists: Ezy Konbini and File Explorer. Breakbeat and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ VECTOR:IZE LAUNCH PARTY...or: A New Hope for VECTOR in the ⁠24+1/2⁠ᵗʰ Cen
 
 ## Line-up
 
+- Ezy Konbini
 - File Explorer
 
 *Source: [soundcheck](https://soundcheck.club/e/2560953-vector-ize-launch-party-or-a-new-hope-for-vector-in-the-24-1/)*

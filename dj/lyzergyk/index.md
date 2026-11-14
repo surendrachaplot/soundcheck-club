@@ -1,6 +1,6 @@
 # Lyzergyk
 
-Lyzergyk is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Entrepôts Dominion, Les, Montreal on Sat, 14 Nov 2026.
+Lyzergyk is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Entrepôts Dominion, Les, Montreal on Sat, 14 Nov 2026.
 
 Lyzergyk is a techno and acid artist based in Canada, with 8 gigs on soundcheck across Montreal. Often billed alongside Olivier Francis, Brokn Sound_Machine and Dryadd. Next up: Entrepôts Dominion, Les, Montreal on Sat 14 Nov.
 
@@ -24,4 +24,4 @@ Lyzergyk is a techno and acid artist based in Canada, with 8 gigs on soundcheck 
 
 Olivier Francis, Brokn Sound_Machine, Dryadd
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lyzergyk/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lyzergyk/)*

@@ -1,6 +1,6 @@
 # Disco Deli
 
-Disco Deli is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Radius, Chicago on Mon, 28 Dec 2026.
+Disco Deli is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Radius, Chicago on Mon, 28 Dec 2026.
 
 Disco Deli is a house and disco artist, with 6 gigs on soundcheck across Chicago. Often billed alongside Chris Luno, Chromeo and DJ Harvey. Next up: Radius, Chicago on Mon 28 Dec.
 
@@ -22,4 +22,4 @@ Disco Deli is a house and disco artist, with 6 gigs on soundcheck across Chicago
 
 Chris Luno, Chromeo, DJ Harvey
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/discodeli/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/discodeli/)*

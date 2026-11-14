@@ -1,6 +1,6 @@
 # Frenchhh
 
-Frenchhh is a House and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at fabric, London on Sun, 6 Dec 2026.
+Frenchhh is a House and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at fabric, London on Sun, 6 Dec 2026.
 
 Frenchhh is a house and ghetto tech artist based in United Kingdom, with 14 gigs on soundcheck across London. Often billed alongside Elliot Schooling, Liam Palmer and Summer Ghemati. Next up: fabric, London on Sun 6 Dec.
 
@@ -25,4 +25,4 @@ Frenchhh is a house and ghetto tech artist based in United Kingdom, with 14 gigs
 
 Elliot Schooling, Liam Palmer, Summer Ghemati
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frenchhh/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frenchhh/)*

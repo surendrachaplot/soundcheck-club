@@ -1,6 +1,6 @@
 # 7833 Soundlab
 
-7833 Soundlab is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "A'live: Electronic Music Playground" on Sat, 28 Nov 2026.
+7833 Soundlab is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "A'live: Electronic Music Playground" on Sat, 28 Nov 2026.
 
 7833 Soundlab is a music venue in Barcelona listed on soundcheck. 2 upcoming gigs, with line-ups including Aman Dava, Dictent Vroom, Louis The 4th and SIVINSKI. See dates, start times and who's playing. Carrer Ferlandina 29, Barcelona, 08001, Espanya.
 
@@ -15,4 +15,4 @@
 
 Carrer Ferlandina 29, Barcelona, 08001, Espanya, Barcelona
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/7833-soundlab/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/7833-soundlab/)*

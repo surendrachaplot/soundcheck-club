@@ -1,6 +1,6 @@
 # Iori Wakasa
 
-Iori Wakasa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Koara, Tokyo on Sat, 21 Nov 2026.
+Iori Wakasa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Koara, Tokyo on Sat, 21 Nov 2026.
 
 Iori Wakasa is a house and techno artist based in Japan, with 42 gigs on soundcheck across Seoul and Tokyo. Often billed alongside Sunga, Ko Umehara and Yo Nishijima. Next up: Koara, Tokyo on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Iori Wakasa is a house and techno artist based in Japan, with 42 gigs on soundch
 
 Sunga, Ko Umehara, Yo Nishijima
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ioriwakasa/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ioriwakasa/)*

@@ -1,6 +1,6 @@
 # Maxi Mo
 
-Maxi Mo is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Culture Box, Copenhagen on Fri, 29 Jan 2027.
+Maxi Mo is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Culture Box, Copenhagen on Fri, 29 Jan 2027.
 
 Maxi Mo is a drum & bass and jungle artist based in Denmark, with 18 gigs on soundcheck across Copenhagen and Osaka. Often billed alongside HDN, Lulla-Li and AMITTET. Next up: Culture Box, Copenhagen on Fri 29 Jan.
 
@@ -25,4 +25,4 @@ Maxi Mo is a drum & bass and jungle artist based in Denmark, with 18 gigs on sou
 
 HDN, Lulla-Li, AMITTET
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maximo/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maximo/)*

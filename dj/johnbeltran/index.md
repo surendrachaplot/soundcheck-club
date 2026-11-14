@@ -1,6 +1,6 @@
 # John Beltran
 
-John Beltran is a Balearic and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at public records, New York City on Fri, 4 Dec 2026.
+John Beltran is a Balearic and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at public records, New York City on Fri, 4 Dec 2026.
 
 John Beltran is a balearic and ambient artist, with 31 gigs on soundcheck across Berlin, Brussels, Chicago and Detroit and 5 more. Often billed alongside David A-P, Peter Croce and Blair French. Next up: public records, New York City on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ John Beltran is a balearic and ambient artist, with 31 gigs on soundcheck across
 
 David A-P, Peter Croce, Blair French
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johnbeltran/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johnbeltran/)*

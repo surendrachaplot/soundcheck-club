@@ -1,6 +1,6 @@
 # DJ Paypal
 
-DJ Paypal is a Footwork and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at ZeyZey, Miami on Sat, 14 Nov 2026.
+DJ Paypal is a Footwork and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at ZeyZey, Miami on Sat, 14 Nov 2026.
 
 DJ Paypal is a footwork and bass artist based in United States of America, with 66 gigs on soundcheck across Amsterdam, Atlanta, Baltimore and Bangkok and 27 more. Often billed alongside Missy, DJ Chad and Kloxii Li. Next up: ZeyZey, Miami on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ DJ Paypal is a footwork and bass artist based in United States of America, with 
 
 Missy, DJ Chad, Kloxii Li
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djpaypal/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djpaypal/)*

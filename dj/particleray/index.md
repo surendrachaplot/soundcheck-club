@@ -1,6 +1,6 @@
 # Particle Ray
 
-Particle Ray is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Trestle Inn, Philadelphia on Sat, 14 Nov 2026.
+Particle Ray is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Trestle Inn, Philadelphia on Sat, 14 Nov 2026.
 
 Particle Ray is a disco and house artist based in United States of America, with 45 gigs on soundcheck across Philadelphia. Often billed alongside Lady Prowl, DJ Matpat and Lefto Early Bird. Next up: Trestle Inn, Philadelphia on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Particle Ray is a disco and house artist based in United States of America, with
 
 Lady Prowl, DJ Matpat, Lefto Early Bird
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/particleray/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/particleray/)*

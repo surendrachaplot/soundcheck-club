@@ -1,6 +1,6 @@
 # Sera J
 
-Sera J is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at WE club, Thessaloniki on Sat, 21 Nov 2026.
+Sera J is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at WE club, Thessaloniki on Sat, 21 Nov 2026.
 
 Sera J is a techno and house artist based in Greece, with 46 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 23 more. Often billed alongside ANNĒ, SHDW and Alarico. Next up: WE club, Thessaloniki on Sat 21 Nov.
 
@@ -28,4 +28,4 @@ Sera J is a techno and house artist based in Greece, with 46 gigs on soundcheck 
 
 ANNĒ, SHDW, Alarico
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seraj/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seraj/)*

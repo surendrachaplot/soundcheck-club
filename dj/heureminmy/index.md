@@ -1,6 +1,6 @@
 # Heuremin (MY)
 
-Heuremin (MY) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at Pisco Bar, Kuala Lumpur on Sat, 28 Nov 2026.
+Heuremin (MY) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Pisco Bar, Kuala Lumpur on Sat, 28 Nov 2026.
 
 Heuremin (MY) is a techno and trance artist based in Malaysia, with 6 gigs on soundcheck across Kuala Lumpur. Often billed alongside Odd (MY), 7CIRCLE and Brainer. Next up: Pisco Bar, Kuala Lumpur on Sat 28 Nov.
 
@@ -22,4 +22,4 @@ Heuremin (MY) is a techno and trance artist based in Malaysia, with 6 gigs on so
 
 Odd (MY), 7CIRCLE, Brainer
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/heureminmy/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/heureminmy/)*

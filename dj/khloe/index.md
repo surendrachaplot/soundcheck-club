@@ -1,20 +1,20 @@
 # Khloe
 
-Khloe is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at à la Folie Paris, Paris on Fri, 13 Nov 2026.
+Khloe is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Renate, Berlin on Sat, 5 Dec 2026.
 
-Khloe is a techno and house artist based in Venezuela, with 104 gigs on soundcheck across Amsterdam, Berlin, Dresden and Hamburg and 2 more. Often billed alongside ALP (DE), Mama Yha Yha and Rakans. Next up: à la Folie Paris, Paris on Fri 13 Nov.
+Khloe is a techno and house artist based in Venezuela, with 104 gigs on soundcheck across Amsterdam, Berlin, Dresden and Hamburg and 2 more. Often billed alongside ALP (DE), Mama Yha Yha and Rakans. Next up: Renate, Berlin on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | à la Folie Paris | Paris |
 | Sat, 5 Dec 2026 | Renate | Berlin |
 | Thu, 31 Dec 2026 | OST | Berlin |
 | Sun, 7 Mar 2027 | KitKatClub | Berlin |
 
 ## Recently played
 
+- à la Folie Paris, Paris · Fri, 13 Nov 2026
 - Wanderlust, Paris · Thu, 20 Aug 2026
 - Phantom Bar Berlin, Berlin · Fri, 14 Aug 2026
 - Berghain | Panorama Bar | Säule, Berlin · Thu, 13 Aug 2026
@@ -22,10 +22,9 @@ Khloe is a techno and house artist based in Venezuela, with 104 gigs on soundche
 - Südpol, Hamburg · Sat, 1 Aug 2026
 - Komplex Berlin, Berlin · Sat, 25 Jul 2026
 - Ferropolis, Leipzig · Fri, 17 Jul 2026
-- KitKatClub, Berlin · Fri, 10 Jul 2026
 
 ## Shares bills with
 
 ALP (DE), Mama Yha Yha, Rakans
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/khloe/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/khloe/)*

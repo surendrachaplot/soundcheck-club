@@ -1,8 +1,8 @@
 # Mimi (4)
 
-Mimi (4) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at PBOX STND, Tokyo on Sat, 14 Nov 2026.
+Mimi (4) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at PBOX STND, Tokyo on Sat, 14 Nov 2026.
 
-Mimi is a house and techno artist based in Portugal, with 18 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 7 more. Often billed alongside Konstantin, Leafar Legov and Serenne. Next up: PBOX STND, Tokyo on Sat 14 Nov.
+Mimi is a house and techno artist based in Portugal, with 19 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 8 more. Often billed alongside Konstantin, Leafar Legov and Serenne. Next up: PBOX STND, Tokyo on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Mimi is a house and techno artist based in Portugal, with 18 gigs on soundcheck 
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | PBOX STND | Tokyo |
 | Fri, 4 Dec 2026 | TBA - Lisboa | Lisbon |
+| Fri, 22 Jan 2027 | TBA | Cape Town |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Mimi is a house and techno artist based in Portugal, with 18 gigs on soundcheck 
 
 Konstantin, Leafar Legov, Serenne
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mimi-4/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mimi-4/)*

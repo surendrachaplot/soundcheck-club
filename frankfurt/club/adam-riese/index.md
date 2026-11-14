@@ -1,6 +1,6 @@
 # Adam Riese
 
-Adam Riese is a music venue in Frankfurt with 9 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "HEAT X OGUZ SCHRANZ SESH" on Fri, 20 Nov 2026.
+Adam Riese is a music venue in Frankfurt with 9 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "HEAT X OGUZ SCHRANZ SESH" on Fri, 20 Nov 2026.
 
 Adam Riese is a music venue in Frankfurt listed on soundcheck. 9 upcoming gigs, with line-ups including ADAN, Calamity, Dominik Eulberg and Jozh and 1 more. See dates, start times and who's playing. Mainzer Landstraße 229, 60326 Frankfurt am Main, Deutschland.
 
@@ -22,4 +22,4 @@ Adam Riese is a music venue in Frankfurt listed on soundcheck. 9 upcoming gigs, 
 
 Mainzer Landstraße 229, 60326 Frankfurt am Main, Deutschland, Frankfurt
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/adam-riese/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/adam-riese/)*

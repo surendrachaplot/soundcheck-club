@@ -1,6 +1,6 @@
 # Allanit
 
-Allanit is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Ciel Social Club Rooftop, Washington DC on Thu, 19 Nov 2026.
+Allanit is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Ciel Social Club Rooftop, Washington DC on Thu, 19 Nov 2026.
 
 Allanit is a deep house and house artist based in United States of America, with 10 gigs on soundcheck across Washington DC. Often billed alongside Demimonde, Sarah Myers and KayLaSoul. Next up: Ciel Social Club Rooftop, Washington DC on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Allanit is a deep house and house artist based in United States of America, with
 
 Demimonde, Sarah Myers, KayLaSoul
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/allanit/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/allanit/)*

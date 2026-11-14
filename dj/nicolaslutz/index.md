@@ -1,15 +1,13 @@
 # Nicolas Lutz
 
-Nicolas Lutz is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at DURO, Milan on Fri, 13 Nov 2026.
+Nicolas Lutz is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Karmen Camina, Strasbourg on Sat, 14 Nov 2026.
 
-Nicolas Lutz is a techno and house artist based in Uruguay, with 189 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Belgrade and 48 more. Often billed alongside Binh, DJ Masda and Craig Richards. Next up: DURO, Milan on Fri 13 Nov.
+Nicolas Lutz is a techno and house artist based in Uruguay, with 189 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Belgrade and 48 more. Often billed alongside Binh, DJ Masda and Craig Richards. Next up: Karmen Camina, Strasbourg on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | DURO | Milan |
-| Fri, 13 Nov 2026 | DURO | Milan |
 | Sat, 14 Nov 2026 | Karmen Camina | Strasbourg |
 | Sun, 15 Nov 2026 | Sonnenraum | Berlin |
 | Fri, 27 Nov 2026 | Kaiku | Helsinki |
@@ -20,20 +18,21 @@ Nicolas Lutz is a techno and house artist based in Uruguay, with 189 gigs on sou
 | Thu, 31 Dec 2026 | Nowadays | New York City |
 | Sat, 30 Jan 2027 | Invisible Wind Factory | Liverpool |
 | Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
+| Thu, 19 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 
+- DURO, Milan · Fri, 13 Nov 2026
+- DURO, Milan · Fri, 13 Nov 2026
 - essaim, Paris · Sat, 7 Nov 2026
 - Las Tres Chimeneas, Barcelona · Sat, 31 Oct 2026
 - The Loft, Manchester · Fri, 30 Oct 2026
 - Garage Noord, Amsterdam · Sun, 25 Oct 2026
 - Pllek, Amsterdam · Sun, 25 Oct 2026
 - San Francisco, Amsterdam · Thu, 22 Oct 2026
-- WOMB, Tokyo · Sat, 10 Oct 2026
-- Hertz, Seoul · Thu, 8 Oct 2026
 
 ## Shares bills with
 
 Binh, DJ Masda, Craig Richards
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolaslutz/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolaslutz/)*

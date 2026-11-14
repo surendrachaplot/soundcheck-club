@@ -1,6 +1,6 @@
 # Logan Fisher
 
-Logan Fisher is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Glove That Fits, London on Sat, 12 Dec 2026.
+Logan Fisher is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at The Glove That Fits, London on Sat, 12 Dec 2026.
 
 Logan Fisher is a house and acid artist based in United Kingdom, with 29 gigs on soundcheck across Athens, Birmingham, Brighton and Bucharest and 7 more. Often billed alongside Rosie Ama, Fall Forward and Leo Zero. Next up: The Glove That Fits, London on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Logan Fisher is a house and acid artist based in United Kingdom, with 29 gigs on
 
 Rosie Ama, Fall Forward, Leo Zero
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loganfisher/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loganfisher/)*

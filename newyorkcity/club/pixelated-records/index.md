@@ -1,18 +1,17 @@
 # Pixelated Records
 
-Pixelated Records is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "FRIDAY THE 13th with Nickodemus" on Fri, 13 Nov 2026.
+Pixelated Records is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. The next is "Ladies in Frequency: Frequency No. 002" on Fri, 11 Dec 2026.
 
-Pixelated Records is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including Alan Morehouse, Nickodemus and Soultek. See dates, start times and who's playing. 792 Onderdonk Ave, Ridgewood, NY 11385, USA.
+Pixelated Records is a music venue in New York City listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 792 Onderdonk Ave, Ridgewood, NY 11385, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | FRIDAY THE 13th with Nickodemus | Alan Morehouse, Nickodemus, Soultek |
 | Fri, 11 Dec 2026 | Ladies in Frequency: Frequency No. 002 |  |
 
 ## Address
 
 792 Onderdonk Ave, Ridgewood, NY 11385, USA, New York City
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/pixelated-records/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/pixelated-records/)*

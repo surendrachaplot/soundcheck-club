@@ -1,6 +1,6 @@
 # DJ Sprite
 
-DJ Sprite is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Subterrannean, Chicago on Fri, 20 Nov 2026.
+DJ Sprite is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Subterrannean, Chicago on Fri, 20 Nov 2026.
 
 DJ Sprite is a techno and industrial artist based in United States of America, with 47 gigs on soundcheck across Berlin and Chicago. Often billed alongside DJ Flesh_Bot, Dj Licious and Anarchotech. Next up: Subterrannean, Chicago on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ DJ Sprite is a techno and industrial artist based in United States of America, w
 
 DJ Flesh_Bot, Dj Licious, Anarchotech
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsprite/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsprite/)*

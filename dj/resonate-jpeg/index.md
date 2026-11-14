@@ -1,6 +1,6 @@
 # RESONATE.JPEG
 
-RESONATE.JPEG is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Upstairs at the 700, Philadelphia on Fri, 20 Nov 2026.
+RESONATE.JPEG is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Upstairs at the 700, Philadelphia on Fri, 20 Nov 2026.
 
 RESONATE.JPEG is a techno and experimental artist based in United States of America, with 9 gigs on soundcheck across Philadelphia and Vancouver. Often billed alongside Obreezy Beats, Speed.FM and E.LEE. Next up: Upstairs at the 700, Philadelphia on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ RESONATE.JPEG is a techno and experimental artist based in United States of Amer
 
 Obreezy Beats, Speed.FM, E.LEE
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/resonate-jpeg/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/resonate-jpeg/)*

@@ -1,6 +1,6 @@
 # Jamvvis
 
-Jamvvis is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Bar Datcha, Montreal on Thu, 26 Nov 2026.
+Jamvvis is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Bar Datcha, Montreal on Thu, 26 Nov 2026.
 
 Jamvvis is a house and club artist based in Canada, with 42 gigs on soundcheck across Montreal, New York City and Toronto. Often billed alongside Outback, James Benjamin and umru. Next up: Bar Datcha, Montreal on Thu 26 Nov.
 
@@ -26,4 +26,4 @@ Jamvvis is a house and club artist based in Canada, with 42 gigs on soundcheck a
 
 Outback, James Benjamin, umru
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamvvis/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamvvis/)*

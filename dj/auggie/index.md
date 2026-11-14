@@ -1,6 +1,6 @@
 # Auggië
 
-Auggië is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Volt Club Milano, Milan on Sat, 21 Nov 2026.
+Auggië is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Volt Club Milano, Milan on Sat, 21 Nov 2026.
 
 Auggië is a techno and tech house artist based in Italy, with 85 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 12 more. Often billed alongside Ivory, Âme and Cipy. Next up: Volt Club Milano, Milan on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Auggië is a techno and tech house artist based in Italy, with 85 gigs on soundc
 
 Ivory, Âme, Cipy
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/auggie/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/auggie/)*

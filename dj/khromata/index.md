@@ -1,8 +1,8 @@
 # Khromata
 
-Khromata is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 11 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Sat, 14 Nov 2026.
+Khromata is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Sat, 14 Nov 2026.
 
-Khromata is a techno and trance artist, with 6 gigs on soundcheck across Los Angeles, New York City and San Francisco/Oakland. Often billed alongside Amy Wiles, Astrix and Billy Gillies. Next up: The Great Northern, San Francisco/Oakland on Sat 14 Nov.
+Khromata is a techno and trance artist based in United States of America, with 6 gigs on soundcheck across Los Angeles, New York City and San Francisco/Oakland. Often billed alongside Amy Wiles, Astrix and Billy Gillies. Next up: The Great Northern, San Francisco/Oakland on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -22,4 +22,4 @@ Khromata is a techno and trance artist, with 6 gigs on soundcheck across Los Ang
 
 Amy Wiles, Astrix, Billy Gillies
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/khromata/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/khromata/)*

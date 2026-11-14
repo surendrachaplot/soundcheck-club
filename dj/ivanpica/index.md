@@ -1,6 +1,6 @@
 # Ivan Pica
 
-Ivan Pica is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at EL SÓTANO, Madrid on Sat, 5 Dec 2026.
+Ivan Pica is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at EL SÓTANO, Madrid on Sat, 5 Dec 2026.
 
 Ivan Pica is a house and club artist based in Spain, with 14 gigs on soundcheck across Amsterdam, Ibiza and Madrid. Often billed alongside DJ Le Baron, Ismael Rivas and Nelson Reis. Next up: EL SÓTANO, Madrid on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Ivan Pica is a house and club artist based in Spain, with 14 gigs on soundcheck 
 
 DJ Le Baron, Ismael Rivas, Nelson Reis
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ivanpica/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ivanpica/)*

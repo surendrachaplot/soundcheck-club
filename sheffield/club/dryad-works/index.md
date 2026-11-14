@@ -1,6 +1,6 @@
 # Dryad Works
 
-Dryad Works is a music venue in Sheffield with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "Trance Trance Revolution Returns" on Fri, 4 Dec 2026.
+Dryad Works is a music venue in Sheffield with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. The next is "Trance Trance Revolution Returns" on Fri, 4 Dec 2026.
 
 Dryad Works is a music venue in Sheffield listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 2 Parkwood Road, Sheffield, S3 8AG.
 
@@ -14,4 +14,4 @@ Dryad Works is a music venue in Sheffield listed on soundcheck. 1 upcoming gig. 
 
 2 Parkwood Road, Sheffield, S3 8AG, Sheffield
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/dryad-works/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/dryad-works/)*

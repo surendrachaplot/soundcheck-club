@@ -1,6 +1,6 @@
 # Genie (1)
 
-Genie (1) is a Bass and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Miscellania, Melbourne on Sat, 14 Nov 2026.
+Genie (1) is a Bass and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Miscellania, Melbourne on Sat, 14 Nov 2026.
 
 Genie is a bass and club artist based in Australia, with 14 gigs on soundcheck across Australian Capital Territory, Canberra, London and Melbourne and 1 more. Often billed alongside Kiernan Laveaux, Dyslecta and Ed Kent. Next up: Miscellania, Melbourne on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Genie is a bass and club artist based in Australia, with 14 gigs on soundcheck a
 
 Kiernan Laveaux, Dyslecta, Ed Kent
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/genie-1/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/genie-1/)*

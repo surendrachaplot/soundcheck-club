@@ -1,6 +1,6 @@
 # Block1
 
-Block1 is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "A People People Thing X Tether Records" on Fri, 20 Nov 2026.
+Block1 is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "A People People Thing X Tether Records" on Fri, 20 Nov 2026.
 
 Block1 is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including André Baum, Dandy Jack, Arno aka Einzelkind and Forster and 2 more. See dates, start times and who's playing. Blockdammweg 1, Berlin 10317.
 
@@ -15,4 +15,4 @@ Block1 is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with li
 
 Blockdammweg 1, Berlin 10317, Berlin
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/block1/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/block1/)*

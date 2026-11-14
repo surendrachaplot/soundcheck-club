@@ -1,6 +1,6 @@
 # Monty
 
-Monty is a Drum & Bass and Bass artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at OT301, Amsterdam on Sat, 14 Nov 2026.
+Monty is a Drum & Bass and Bass artist with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at OT301, Amsterdam on Sat, 14 Nov 2026.
 
 Monty is a drum & bass and bass artist based in Germany, with 91 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 26 more. Often billed alongside Visages, SP:MC and Wiebe Roose. Next up: OT301, Amsterdam on Sat 14 Nov.
 
@@ -28,4 +28,4 @@ Monty is a drum & bass and bass artist based in Germany, with 91 gigs on soundch
 
 Visages, SP:MC, Wiebe Roose
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/monty/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/monty/)*

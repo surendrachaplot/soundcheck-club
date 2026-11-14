@@ -1,8 +1,8 @@
 # XLR
 
-XLR is a music venue in Manchester with 6 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Ghosts of Garage - Bring Your Own Moves [B.Y.O.B]" on Sat, 14 Nov 2026.
+XLR is a music venue in Manchester with 7 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Ghosts of Garage - Bring Your Own Moves [B.Y.O.B]" on Sat, 14 Nov 2026.
 
-XLR is a music venue in Manchester listed on soundcheck. 6 upcoming gigs, with line-ups including A For Alpha, DJ HEADTORCH, Emile and GSpot and 2 more. See dates, start times and who's playing. 455 Wilmslow Road, Withington, Manchester, M20 4AN.
+XLR is a music venue in Manchester listed on soundcheck. 7 upcoming gigs, with line-ups including A For Alpha, DJ HEADTORCH, Emile and GSpot and 2 more. See dates, start times and who's playing. 455 Wilmslow Road, Withington, Manchester, M20 4AN.
 
 ## What's on
 
@@ -10,6 +10,7 @@ XLR is a music venue in Manchester listed on soundcheck. 6 upcoming gigs, with l
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Ghosts of Garage - Bring Your Own Moves [B.Y.O.B] | LARISHKA (UK) |
 | Thu, 19 Nov 2026 | A For Alpha (Extended Set); presented by Ivy Collective & Save our Scene; BYOB | A For Alpha, Emile, Sunny D |
+| Thu, 26 Nov 2026 | Insidious Audio X XLR [B.Y.O.B] |  |
 | Fri, 27 Nov 2026 | 23 Degrees x XLR: Silva Snipa & Malps [B.Y.O.B] | Silva Snipa |
 | Sat, 28 Nov 2026 | FLY GIRLS$ X XLR [B.Y.O.B] | POOCH |
 | Sat, 5 Dec 2026 | Neighbours x XLR [B.Y.O.B] | DJ HEADTORCH, GSpot, SUBVISIONS |
@@ -19,4 +20,4 @@ XLR is a music venue in Manchester listed on soundcheck. 6 upcoming gigs, with l
 
 455 Wilmslow Road, Withington, Manchester, M20 4AN, Manchester
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/xlr/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/xlr/)*

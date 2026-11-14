@@ -1,6 +1,6 @@
 # Køni
 
-Køni is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Bassement, Madrid on Thu, 19 Nov 2026.
+Køni is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at The Bassement, Madrid on Thu, 19 Nov 2026.
 
 Køni is a techno and acid artist based in Spain, with 9 gigs on soundcheck across Madrid. Often billed alongside FØBIA, Lexmax and M.I.XX.I. Next up: The Bassement, Madrid on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Køni is a techno and acid artist based in Spain, with 9 gigs on soundcheck acro
 
 FØBIA, Lexmax, M.I.XX.I
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/koni-es/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/koni-es/)*

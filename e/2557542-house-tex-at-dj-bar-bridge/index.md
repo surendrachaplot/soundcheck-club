@@ -1,6 +1,6 @@
 # House-Tex at DJ Bar Bridge
 
-House-Tex at DJ Bar Bridge on Thu 10 Dec, Tokyo. 1 artist: DJ Emma. House. See the line-up on soundcheck.
+House-Tex at DJ Bar Bridge on Thu 10 Dec, Tokyo. 2 artists: DJ Emma and Rickey Shannon. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ House-Tex at DJ Bar Bridge on Thu 10 Dec, Tokyo. 1 artist: DJ Emma. House. See t
 ## Line-up
 
 - DJ Emma
+- Rickey Shannon
 
 *Source: [soundcheck](https://soundcheck.club/e/2557542-house-tex-at-dj-bar-bridge/)*

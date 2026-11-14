@@ -1,6 +1,6 @@
 # Bella Renee
 
-Bella Renee is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Meow Wolf, New-mexico on Fri, 11 Dec 2026.
+Bella Renee is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Meow Wolf, New-mexico on Fri, 11 Dec 2026.
 
 Bella Renee is a tech house and house artist based in United States of America, with 9 gigs on soundcheck across Chicago, Los Angeles, Miami and Nashville and 3 more. Often billed alongside AMPRS&ND, Adam Beyer and Alley Kay. Next up: Meow Wolf, New Mexico on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Bella Renee is a tech house and house artist based in United States of America, 
 
 AMPRS&ND, Adam Beyer, Alley Kay
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bellarenee/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bellarenee/)*

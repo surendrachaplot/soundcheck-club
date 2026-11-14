@@ -1,6 +1,6 @@
 # Michael Anthony
 
-Michael Anthony is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Refuge, New York City on Thu, 10 Dec 2026.
+Michael Anthony is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Refuge, New York City on Thu, 10 Dec 2026.
 
 Michael Anthony is a house and techno artist based in United States of America, with 11 gigs on soundcheck across London, New York City and San Francisco/Oakland. Often billed alongside Anthony Mansfield, Combover and Cristoph. Next up: Refuge, New York City on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ Michael Anthony is a house and techno artist based in United States of America, 
 
 Anthony Mansfield, Combover, Cristoph
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelanthony/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelanthony/)*

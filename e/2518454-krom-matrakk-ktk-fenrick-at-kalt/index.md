@@ -1,6 +1,6 @@
 # KROM:  MATRAKK, KTK, Fenrick at KALT
 
-KROM:  MATRAKK, KTK, Fenrick at KALT on Thu 31 Dec, Strasbourg. 5 artists: Fenrick, KTK (DE), MATRAKK and Perruche and 1 more. See the line-up on soundcheck.
+KROM:  MATRAKK, KTK, Fenrick at KALT on Thu 31 Dec, Strasbourg. 7 artists: Dima Roas, Fenrick, KTK (DE) and MATRAKK and 3 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,10 +10,12 @@ KROM:  MATRAKK, KTK, Fenrick at KALT on Thu 31 Dec, Strasbourg. 5 artists: Fenri
 
 ## Line-up
 
+- Dima Roas
 - Fenrick
 - KTK (DE)
 - MATRAKK
 - Perruche
+- Satprem
 - STU (FR)
 
 *Source: [soundcheck](https://soundcheck.club/e/2518454-krom-matrakk-ktk-fenrick-at-kalt/)*

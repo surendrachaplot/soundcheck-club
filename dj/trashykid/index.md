@@ -1,6 +1,6 @@
 # Trashy Kid
 
-Trashy Kid is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at B2 Rīga, Riga on Fri, 4 Dec 2026.
+Trashy Kid is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at B2 Rīga, Riga on Fri, 4 Dec 2026.
 
 Trashy Kid is a techno and house artist based in Latvia, with 9 gigs on soundcheck across Riga. Often billed alongside KIRHA, E91 and Nina Elektrichka. Next up: B2 Rīga, Riga on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Trashy Kid is a techno and house artist based in Latvia, with 9 gigs on soundche
 
 KIRHA, E91, Nina Elektrichka
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trashykid/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trashykid/)*

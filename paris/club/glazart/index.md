@@ -1,6 +1,6 @@
 # Glazart
 
-Glazart is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "AFTER O'CLOCK: Electric Rescue, Lina K, ZOÉ DEL REZ" on Sat, 14 Nov 2026.
+Glazart is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "AFTER O'CLOCK: Electric Rescue, Lina K, ZOÉ DEL REZ" on Sat, 14 Nov 2026.
 
 Glazart is a music venue in Paris listed on soundcheck. 4 upcoming gigs, with line-ups including Chris Gavin, Electric Rescue, Equus Belli and Lina K and 2 more. See dates, start times and who's playing. 7-15 av de la Porte de la Villette; 75019; Paris; France.
 
@@ -17,4 +17,4 @@ Glazart is a music venue in Paris listed on soundcheck. 4 upcoming gigs, with li
 
 7-15 av de la Porte de la Villette; 75019; Paris; France, Paris
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/glazart/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/glazart/)*

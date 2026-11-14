@@ -1,8 +1,8 @@
 # POLTERGST
 
-POLTERGST is a Techno and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Audiodrome, Turin on Sat, 14 Nov 2026.
+POLTERGST is a Techno and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Audiodrome, Turin on Sat, 14 Nov 2026.
 
-POLTERGST is a techno and drum & bass artist based in Germany, with 7 gigs on soundcheck across Bavaria, Cologne, Dortmund / Essen and Istanbul and 3 more. Often billed alongside ZEUZ, Alfred Heinrichs and Ave (DE). Next up: Audiodrome, Turin on Sat 14 Nov.
+POLTERGST is a techno and drum & bass artist based in Germany, with 8 gigs on soundcheck across Bavaria, Cologne, Dortmund / Essen and Dublin and 4 more. Often billed alongside ZEUZ, Alfred Heinrichs and Ave (DE). Next up: Audiodrome, Turin on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ POLTERGST is a techno and drum & bass artist based in Germany, with 7 gigs on so
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Audiodrome | Turin |
 | Fri, 11 Dec 2026 | Essigfabrik | Cologne |
+| Sat, 23 Jan 2027 | Wigwam | Dublin |
 
 ## Recently played
 
@@ -23,4 +24,4 @@ POLTERGST is a techno and drum & bass artist based in Germany, with 7 gigs on so
 
 ZEUZ, Alfred Heinrichs, Ave (DE)
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/poltergst/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/poltergst/)*

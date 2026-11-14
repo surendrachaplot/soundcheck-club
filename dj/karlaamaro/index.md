@@ -1,6 +1,6 @@
 # Karla Amaro
 
-Karla Amaro is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Vybe Department Ibiza, Ibiza on Fri, 20 Nov 2026.
+Karla Amaro is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Vybe Department Ibiza, Ibiza on Fri, 20 Nov 2026.
 
 Karla Amaro is a house and techno artist based in Spain, with 23 gigs on soundcheck across Barcelona, Ibiza, Malaga and Santiago. Often billed alongside André Butano, ATMEN and Jean Pierre. Next up: Vybe Department Ibiza, Ibiza on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Karla Amaro is a house and techno artist based in Spain, with 23 gigs on soundch
 
 André Butano, ATMEN, Jean Pierre
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karlaamaro/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karlaamaro/)*

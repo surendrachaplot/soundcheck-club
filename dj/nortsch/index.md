@@ -1,6 +1,6 @@
 # Nortsch
 
-Nortsch is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Disco Zwei, Mannheim on Sat, 14 Nov 2026.
+Nortsch is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Disco Zwei, Mannheim on Sat, 14 Nov 2026.
 
 Nortsch is a techno and house artist based in Germany, with 35 gigs on soundcheck across Berlin, Dresden, Heidelberg and Karlsruhe and 2 more. Often billed alongside Confusion, Arok and Akuma. Next up: Disco Zwei, Mannheim on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Nortsch is a techno and house artist based in Germany, with 35 gigs on soundchec
 
 Confusion, Arok, Akuma
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nortsch/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nortsch/)*

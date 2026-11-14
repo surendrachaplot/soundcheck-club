@@ -1,6 +1,6 @@
 # Xminder
 
-Xminder is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Emoçoes Bar/Cova da Piedade, Lisbon on Sat, 21 Nov 2026.
+Xminder is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Emoçoes Bar/Cova da Piedade, Lisbon on Sat, 21 Nov 2026.
 
 Xminder is a techno and house artist based in Portugal, with 33 gigs on soundcheck across Barcelona, Berlin, Hamburg and Lisbon and 1 more. Often billed alongside Glitz, Frankie Flowerz and Bert. Next up: TBA - Emoçoes Bar/Cova da Piedade, Lisbon on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Xminder is a techno and house artist based in Portugal, with 33 gigs on soundche
 
 Glitz, Frankie Flowerz, Bert
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xminder/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xminder/)*

@@ -1,6 +1,6 @@
 # Dj Danifox
 
-Dj Danifox is a Kuduro and Afrobeats artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Garden Tisno, Croatia on Thu, 19 Aug 2027.
+Dj Danifox is a Kuduro and Afrobeats artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at The Garden Tisno, Croatia on Thu, 19 Aug 2027.
 
 Dj Danifox is a kuduro and afrobeats artist based in Portugal, with 54 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Brussels and 20 more. Often billed alongside DJ Nigga Fox, DJ Firmeza and DJ Lycox. Next up: The Garden Tisno, Croatia on Thu 19 Aug.
 
@@ -25,4 +25,4 @@ Dj Danifox is a kuduro and afrobeats artist based in Portugal, with 54 gigs on s
 
 DJ Nigga Fox, DJ Firmeza, DJ Lycox
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdanifox/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdanifox/)*

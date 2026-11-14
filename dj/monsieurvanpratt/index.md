@@ -1,6 +1,6 @@
 # Monsieur Van Pratt
 
-Monsieur Van Pratt is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Nuevo Leon 89, Mexico City on Fri, 27 Nov 2026.
+Monsieur Van Pratt is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Nuevo Leon 89, Mexico City on Fri, 27 Nov 2026.
 
 Monsieur Van Pratt is a house and disco artist based in Mexico, with 76 gigs on soundcheck across Amsterdam, Berlin, Guadalajara and Helsinki and 3 more. Often billed alongside Disco 86, Bustin' Loose and Barreto. Next up: Nuevo Leon 89, Mexico City on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Monsieur Van Pratt is a house and disco artist based in Mexico, with 76 gigs on 
 
 Disco 86, Bustin' Loose, Barreto
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/monsieurvanpratt/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/monsieurvanpratt/)*

@@ -1,6 +1,6 @@
 # Caro Vola
 
-Caro Vola is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Promenaden Eck, Berlin on Fri, 4 Dec 2026.
+Caro Vola is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Promenaden Eck, Berlin on Fri, 4 Dec 2026.
 
 Caro Vola is a house and tech house artist based in Germany, with 32 gigs on soundcheck across Berlin and Hamburg. Often billed alongside MARIE.MOON, Dorsch and Dela Nesto. Next up: Promenaden Eck, Berlin on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Caro Vola is a house and tech house artist based in Germany, with 32 gigs on sou
 
 MARIE.MOON, Dorsch, Dela Nesto
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carovola/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carovola/)*

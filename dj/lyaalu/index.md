@@ -1,6 +1,6 @@
 # Ìyáàlù
 
-Ìyáàlù is a Baile Funk and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Night Tales, London on Fri, 20 Nov 2026.
+Ìyáàlù is a Baile Funk and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Night Tales, London on Fri, 20 Nov 2026.
 
 Ìyáàlù is a baile funk and bass artist based in United Kingdom, with 31 gigs on soundcheck across London and Manchester. Often billed alongside CXLI, OTDELTA and Bushbby. Next up: Night Tales, London on Fri 20 Nov.
 
@@ -26,4 +26,4 @@
 
 CXLI, OTDELTA, Bushbby
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lyaalu/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lyaalu/)*

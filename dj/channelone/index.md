@@ -1,6 +1,6 @@
 # Channel One
 
-Channel One is a Dub and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Mercado Livre Arena Pacaembu, Sao-paulo on Fri, 9 Apr 2027.
+Channel One is a Dub and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Mercado Livre Arena Pacaembu, Sao-paulo on Fri, 9 Apr 2027.
 
 Channel One is a dub and drum & bass artist based in Ireland, with 20 gigs on soundcheck across Amsterdam, Berlin, Brighton and Bristol and 5 more. Often billed alongside Iration Steppas, Ben UFO and Christian AB. Next up: Mercado Livre Arena Pacaembu, Sao Paulo on Fri 9 Apr.
 
@@ -25,4 +25,4 @@ Channel One is a dub and drum & bass artist based in Ireland, with 20 gigs on so
 
 Iration Steppas, Ben UFO, Christian AB
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/channelone/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/channelone/)*

@@ -1,6 +1,6 @@
 # snobo (2)
 
-snobo (2) is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Shinjuku Duusraa, Tokyo on Tue, 17 Nov 2026.
+snobo (2) is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Shinjuku Duusraa, Tokyo on Tue, 17 Nov 2026.
 
 snobo is a drum & bass and bass artist based in Japan, with 9 gigs on soundcheck across Seoul and Tokyo. Often billed alongside Midnight Runner, maidable and HASHTAGPOPE. Next up: Shinjuku Duusraa, Tokyo on Tue 17 Nov.
 
@@ -25,4 +25,4 @@ snobo is a drum & bass and bass artist based in Japan, with 9 gigs on soundcheck
 
 Midnight Runner (2), maidable, HASHTAGPOPE
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/snobo-2/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/snobo-2/)*

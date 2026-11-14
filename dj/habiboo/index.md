@@ -1,6 +1,6 @@
 # Habiboo
 
-Habiboo is a Baile Funk and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at La Gravière, Geneva on Sat, 21 Nov 2026.
+Habiboo is a Baile Funk and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at La Gravière, Geneva on Sat, 21 Nov 2026.
 
 Habiboo is a baile funk and afrobeat artist based in Switzerland, with 32 gigs on soundcheck across Geneva. Often billed alongside Hirma, Esengo and Sampaio. Next up: La Gravière, Geneva on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Habiboo is a baile funk and afrobeat artist based in Switzerland, with 32 gigs o
 
 Hirma, Esengo, Sampaio
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/habiboo/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/habiboo/)*

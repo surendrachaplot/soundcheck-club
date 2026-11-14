@@ -1,6 +1,6 @@
 # Melbeatz
 
-Melbeatz is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Old Shillelagh, Detroit on Sat, 5 Dec 2026.
+Melbeatz is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at The Old Shillelagh, Detroit on Sat, 5 Dec 2026.
 
 Melbeatz is a house and tech house artist based in United States of America, with 13 gigs on soundcheck across Berlin and Detroit. Often billed alongside Coss, Zettka and Hanebüchener. Next up: The Old Shillelagh, Detroit on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Melbeatz is a house and tech house artist based in United States of America, wit
 
 Coss, Zettka, Hanebüchener
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/melbeatz/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/melbeatz/)*

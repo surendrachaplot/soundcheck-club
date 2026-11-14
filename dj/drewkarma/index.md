@@ -1,6 +1,6 @@
 # Drew Karma
 
-Drew Karma is a Techno and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Arch535, London on Sat, 12 Dec 2026.
+Drew Karma is a Techno and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Arch535, London on Sat, 12 Dec 2026.
 
 Drew Karma is a techno and deep house artist based in United Kingdom, with 14 gigs on soundcheck across London. Often billed alongside Junior Richards, Scott Braithwaite and Mr Shiver. Next up: Arch535, London on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Drew Karma is a techno and deep house artist based in United Kingdom, with 14 gi
 
 Junior Richards, Scott Braithwaite, Mr Shiver
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drewkarma/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drewkarma/)*

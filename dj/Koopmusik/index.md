@@ -1,6 +1,6 @@
 # Koopmusik
 
-Koopmusik is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Distillery Complex, Pittsburgh on Fri, 4 Dec 2026.
+Koopmusik is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at The Distillery Complex, Pittsburgh on Fri, 4 Dec 2026.
 
 Koopmusik is a house and deep house artist, with 12 gigs on soundcheck across Chicago, Detroit, Philadelphia and Pittsburgh and 1 more. Often billed alongside Riva + Bianca, Sertac Sahin and ANATTA. Next up: The Distillery Complex, Pittsburgh on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Koopmusik is a house and deep house artist, with 12 gigs on soundcheck across Ch
 
 Riva + Bianca, Sertac Sahin, ANATTA
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/Koopmusik/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/Koopmusik/)*

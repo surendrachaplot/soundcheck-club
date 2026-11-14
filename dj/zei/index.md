@@ -1,6 +1,6 @@
 # Zei
 
-Zei is a Rio Funk and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Mtkvarze, Tbilisi on Sat, 14 Nov 2026.
+Zei is a Rio Funk and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Mtkvarze, Tbilisi on Sat, 14 Nov 2026.
 
 Zei is a rio funk and techno artist based in Georgia, with 15 gigs on soundcheck across Rio de Janeiro, Sao Paulo and Tbilisi. Often billed alongside Cobert, DJ Delorean and Minerali. Next up: Mtkvarze, Tbilisi on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Zei is a rio funk and techno artist based in Georgia, with 15 gigs on soundcheck
 
 Cobert, DJ Delorean, Minerali
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zei/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zei/)*

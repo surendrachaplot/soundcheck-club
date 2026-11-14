@@ -1,6 +1,6 @@
 # Lolu Menayed
 
-Lolu Menayed is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Pacha Ibiza, Ibiza on Sat, 21 Nov 2026.
+Lolu Menayed is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Pacha Ibiza, Ibiza on Sat, 21 Nov 2026.
 
 Lolu Menayed is a house and tech house artist based in Argentina, with 34 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 9 more. Often billed alongside Jay de Lys, Franky Rizardo and Toman. Next up: Pacha Ibiza, Ibiza on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Lolu Menayed is a house and tech house artist based in Argentina, with 34 gigs o
 
 Jay de Lys, Franky Rizardo, Toman
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lolumenayed-ar/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lolumenayed-ar/)*

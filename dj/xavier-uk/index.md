@@ -1,6 +1,6 @@
 # Xavier (UK)
 
-Xavier (UK) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Lottus, Porto on Sun, 29 Nov 2026.
+Xavier (UK) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Lottus, Porto on Sun, 29 Nov 2026.
 
 Xavier (UK) is a techno and trance artist based in United Kingdom, with 22 gigs on soundcheck across Copenhagen, Leipzig, Liverpool and London and 4 more. Often billed alongside Anabel Arroyo, Anastasia Kristensen and BOJ. Next up: Lottus, Porto on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Xavier (UK) is a techno and trance artist based in United Kingdom, with 22 gigs 
 
 Anabel Arroyo, Anastasia Kristensen, BOJ (1)
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xavier-uk/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xavier-uk/)*

@@ -1,6 +1,6 @@
 # Waterscape
 
-Waterscape is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Hex House, New York City on Sat, 14 Nov 2026.
+Waterscape is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Hex House, New York City on Sat, 14 Nov 2026.
 
 Waterscape is a techno and experimental artist based in United States of America, with 60 gigs on soundcheck across New York City. Often billed alongside Random Name Generator, BBFLICS and LEAHHITS. Next up: Hex House, New York City on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Waterscape is a techno and experimental artist based in United States of America
 
 Random Name Generator, BBFLICS, LEAHHITS
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/waterscape/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/waterscape/)*

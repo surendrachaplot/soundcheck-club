@@ -1,6 +1,6 @@
 # Toobris
 
-Toobris is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at RSO.BERLIN, Berlin on Fri, 20 Nov 2026.
+Toobris is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at RSO.BERLIN, Berlin on Fri, 20 Nov 2026.
 
 Toobris is a techno and house artist based in Germany, with 69 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 28 more. Often billed alongside Freddy K, Alarico and BENZA. Next up: RSO.BERLIN, Berlin on Fri 20 Nov.
 
@@ -29,4 +29,4 @@ Toobris is a techno and house artist based in Germany, with 69 gigs on soundchec
 
 Freddy K, Alarico, BENZA
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toobris/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toobris/)*

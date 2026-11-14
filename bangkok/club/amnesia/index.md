@@ -1,14 +1,13 @@
 # Amnesia
 
-Amnesia is a music venue in Bangkok with 10 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Hard Techno Rave feat. EFFIX [DE] " on Fri, 13 Nov 2026.
+Amnesia is a music venue in Bangkok with 9 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Hard Techno Rave feat. Mondello (BE) by INAKOMA" on Fri, 20 Nov 2026.
 
-Amnesia is a music venue in Bangkok listed on soundcheck. 10 upcoming gigs, with line-ups including KATER AERA, LeStrange, LonSkii and Sam Laxton and 1 more. See dates, start times and who's playing. 21/77 Soi Phetchaburi 47, Intersection 10, Bang Kapi Subdistrict, Huai Khwang District, Bangkok 10310.
+Amnesia is a music venue in Bangkok listed on soundcheck. 9 upcoming gigs, with line-ups including KATER AERA, LeStrange, LonSkii and Sam Laxton and 1 more. See dates, start times and who's playing. 21/77 Soi Phetchaburi 47, Intersection 10, Bang Kapi Subdistrict, Huai Khwang District, Bangkok 10310.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Hard Techno Rave feat. EFFIX [DE]  | LonSkii |
 | Fri, 20 Nov 2026 | Hard Techno Rave feat. Mondello (BE) by INAKOMA | LonSkii |
 | Fri, 27 Nov 2026 | Hard Techno Rave feat. LonSkii By INAKOMA | LonSkii |
 | Fri, 4 Dec 2026 | Hard Techno Rave feat. Sam Laxton INAKOMA | LonSkii, Sam Laxton |
@@ -23,4 +22,4 @@ Amnesia is a music venue in Bangkok listed on soundcheck. 10 upcoming gigs, with
 
 21/77 Soi Phetchaburi 47, Intersection 10, Bang Kapi Subdistrict, Huai Khwang District, Bangkok 10310, Bangkok
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/amnesia/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/amnesia/)*

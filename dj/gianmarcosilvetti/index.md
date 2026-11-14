@@ -1,6 +1,6 @@
 # Gianmarco Silvetti
 
-Gianmarco Silvetti is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - SECRET WAREHOUSE, Berlin on Sat, 12 Dec 2026.
+Gianmarco Silvetti is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - SECRET WAREHOUSE, Berlin on Sat, 12 Dec 2026.
 
 Gianmarco Silvetti is a techno and house artist based in Italy, with 16 gigs on soundcheck across Berlin. Often billed alongside Esterne Moog, Backlogs and Doiléir. Next up: TBA - SECRET WAREHOUSE, Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Gianmarco Silvetti is a techno and house artist based in Italy, with 16 gigs on 
 
 Esterne Moog, Backlogs, Doiléir
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gianmarcosilvetti/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gianmarcosilvetti/)*

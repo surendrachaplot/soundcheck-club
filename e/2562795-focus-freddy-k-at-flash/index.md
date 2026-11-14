@@ -1,6 +1,6 @@
 # FOCUS: Freddy K at Flash
 
-FOCUS: Freddy K at Flash on Fri 18 Dec, Washington DC. 2 artists: dimneonsum and Freddy K. Techno and Minimal Techno. See the line-up on soundcheck.
+FOCUS: Freddy K at Flash on Fri 18 Dec, Washington DC. 5 artists: David Gaviria, dimneonsum, Freddy K and Juan Toca Rico and 1 more. Techno and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,10 @@ FOCUS: Freddy K at Flash on Fri 18 Dec, Washington DC. 2 artists: dimneonsum and
 
 ## Line-up
 
+- David Gaviria
 - dimneonsum
 - Freddy K
+- Juan Toca Rico
+- Pablo Flor
 
 *Source: [soundcheck](https://soundcheck.club/e/2562795-focus-freddy-k-at-flash/)*

@@ -1,6 +1,6 @@
 # AMO
 
-AMO is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Jolene Downtown Miami, Miami on Sat, 12 Dec 2026.
+AMO is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Jolene Downtown Miami, Miami on Sat, 12 Dec 2026.
 
 AMO is a house and minimal artist based in United States of America, with 42 gigs on soundcheck across Atlanta, Berlin, Düsseldorf and Ibiza and 8 more. Often billed alongside Chad Andrew, Adam Collins and Philipp Johann Thimm. Next up: Jolene Downtown Miami, Miami on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ AMO is a house and minimal artist based in United States of America, with 42 gig
 
 Chad Andrew, Adam Collins, Philipp Johann Thimm
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amo/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amo/)*

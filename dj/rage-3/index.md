@@ -1,6 +1,6 @@
 # RAGE (3)
 
-RAGE (3) is a Drum & Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Void Club, Berlin on Sat, 21 Nov 2026.
+RAGE (3) is a Drum & Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Void Club, Berlin on Sat, 21 Nov 2026.
 
 RAGE is a drum & bass and techno artist based in Germany, with 7 gigs on soundcheck across Berlin, London, Mallorca and Manchester and 1 more. Often billed alongside Bou (UK), Napes and ODF. Next up: Void Club, Berlin on Sat 21 Nov.
 
@@ -23,4 +23,4 @@ RAGE is a drum & bass and techno artist based in Germany, with 7 gigs on soundch
 
 Bou (UK), Napes, ODF (1)
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rage-3/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rage-3/)*

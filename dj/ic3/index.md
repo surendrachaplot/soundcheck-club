@@ -1,6 +1,6 @@
 # IC3
 
-IC3 is a Drum & Bass and Jungle artist with 11 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at The Prospect Building, Bristol on Sat, 14 Nov 2026.
+IC3 is a Drum & Bass and Jungle artist with 11 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at The Prospect Building, Bristol on Sat, 14 Nov 2026.
 
 IC3 is a drum & bass and jungle artist based in United Kingdom, with 97 gigs on soundcheck across Amsterdam, Birmingham, Bristol and Cardiff and 11 more. Often billed alongside Eksman, Dillinja and DJ Hype. Next up: The Prospect Building, Bristol on Sat 14 Nov.
 
@@ -35,4 +35,4 @@ IC3 is a drum & bass and jungle artist based in United Kingdom, with 97 gigs on 
 
 Eksman, Dillinja, DJ Hype
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ic3/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ic3/)*

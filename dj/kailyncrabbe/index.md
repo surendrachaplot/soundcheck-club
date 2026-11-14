@@ -1,6 +1,6 @@
 # Kailyn Crabbe
 
-Kailyn Crabbe is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
+Kailyn Crabbe is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
 
 Kailyn Crabbe is a house and electronica artist based in Australia, with 43 gigs on soundcheck across Melbourne, Perth and Sydney. Often billed alongside Slumdog, Prizefight and Sophie Forrest. Next up: Lardner Park, Melbourne on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Kailyn Crabbe is a house and electronica artist based in Australia, with 43 gigs
 
 Slumdog, Prizefight, Sophie Forrest
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kailyncrabbe/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kailyncrabbe/)*

@@ -1,6 +1,6 @@
 # Connor Tomoana
 
-Connor Tomoana is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Sweat Shop Brew Kitchen, Auckland on Sat, 19 Dec 2026.
+Connor Tomoana is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Sweat Shop Brew Kitchen, Auckland on Sat, 19 Dec 2026.
 
 Connor Tomoana is a house and tech house artist based in New Zealand, with 17 gigs on soundcheck across Auckland and Melbourne. Often billed alongside Cameron Morris, Macmillan and ANABE. Next up: Sweat Shop Brew Kitchen, Auckland on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Connor Tomoana is a house and tech house artist based in New Zealand, with 17 gi
 
 Cameron Morris, Macmillan, ANABE
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/connortomoana/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/connortomoana/)*

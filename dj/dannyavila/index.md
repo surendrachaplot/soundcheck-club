@@ -1,6 +1,6 @@
 # Danny Avila
 
-Danny Avila is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Lion Super Club, Seoul on Fri, 20 Nov 2026.
+Danny Avila is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Lion Super Club, Seoul on Fri, 20 Nov 2026.
 
 Danny Avila is a techno and tech house artist based in Spain, with 56 gigs on soundcheck across Austin, Barcelona, Berlin and Boston and 29 more. Often billed alongside Carlos Manaça, Charles D (US) and Dj Du'ArT. Next up: Lion Super Club, Seoul on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ Danny Avila is a techno and tech house artist based in Spain, with 56 gigs on so
 
 Carlos Manaça, Charles D (US), Dj Du'ArT
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyavila/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyavila/)*

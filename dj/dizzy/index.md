@@ -1,6 +1,6 @@
 # Dizzy
 
-Dizzy is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Spazio Varco, North on Sat, 14 Nov 2026.
+Dizzy is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Spazio Varco, North on Sat, 14 Nov 2026.
 
 Dizzy is a techno and house artist based in Italy, with 56 gigs on soundcheck across Barcelona, Berlin, Bogotá and Bologna and 15 more. Often billed alongside Pabie, DJ Tree and C.ru.z. Next up: Spazio Varco, North on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Dizzy is a techno and house artist based in Italy, with 56 gigs on soundcheck ac
 
 Pabie, DJ Tree, C.ru.z
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dizzy/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dizzy/)*

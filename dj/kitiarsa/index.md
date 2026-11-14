@@ -1,6 +1,6 @@
 # KITI ARSA
 
-KITI ARSA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Crack Bellmer, Berlin on Sat, 5 Dec 2026.
+KITI ARSA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Crack Bellmer, Berlin on Sat, 5 Dec 2026.
 
 KITI ARSA is a house and techno artist based in Germany, with 42 gigs on soundcheck across Berlin, Frankfurt, Hamburg and Leipzig and 3 more. Often billed alongside julës jay, DJ FEELTOOMUCH and Ramón [DE]. Next up: Crack Bellmer, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ KITI ARSA is a house and techno artist based in Germany, with 42 gigs on soundch
 
 julës jay, DJ FEELTOOMUCH, Ramón [DE]
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kitiarsa/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kitiarsa/)*

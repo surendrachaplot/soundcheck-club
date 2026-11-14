@@ -1,6 +1,6 @@
 # Kassie
 
-Kassie is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Versalles 64, Mexico City on Sat, 14 Nov 2026.
+Kassie is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Versalles 64, Mexico City on Sat, 14 Nov 2026.
 
 Kassie is a techno and house artist based in Mexico, with 51 gigs on soundcheck across Buenos Aires, Guadalajara, Melbourne and Mexico City and 1 more. Often billed alongside Ann García, Dj Fucci and Alby Esc. Next up: Versalles 64, Mexico City on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Kassie is a techno and house artist based in Mexico, with 51 gigs on soundcheck 
 
 Ann García, Dj Fucci, Alby Esc
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kassie/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kassie/)*

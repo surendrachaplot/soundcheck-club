@@ -1,6 +1,6 @@
 # Nina Welch
 
-Nina Welch is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at UMI, Brussels on Fri, 27 Nov 2026.
+Nina Welch is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at UMI, Brussels on Fri, 27 Nov 2026.
 
 Nina Welch is a techno and downtempo artist based in Belgium, with 15 gigs on soundcheck across Antwerp, Berlin and Brussels. Often billed alongside DJ Rino, Boudewijn Ericx and EliseThere. Next up: UMI, Brussels on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Nina Welch is a techno and downtempo artist based in Belgium, with 15 gigs on so
 
 DJ Rino, Boudewijn Ericx, EliseThere
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ninawelch/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ninawelch/)*

@@ -1,6 +1,6 @@
 # NEDU
 
-NEDU is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Final, Taipei on Sat, 21 Nov 2026.
+NEDU is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Final, Taipei on Sat, 21 Nov 2026.
 
 NEDU is a techno and house artist based in Taiwan, with 18 gigs on soundcheck across Taipei. Often billed alongside Kemical SistaS, LinGia and L-CC. Next up: Final, Taipei on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ NEDU is a techno and house artist based in Taiwan, with 18 gigs on soundcheck ac
 
 Kemical SistaS, LinGia, L-CC
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nedu/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nedu/)*

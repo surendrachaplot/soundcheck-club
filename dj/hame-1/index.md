@@ -1,6 +1,6 @@
 # Hame (1)
 
-Hame (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Amaluna Paris, Paris on Sat, 5 Dec 2026.
+Hame (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Amaluna Paris, Paris on Sat, 5 Dec 2026.
 
 Hame is a techno and house artist based in Netherlands, with 35 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 3 more. Often billed alongside Hafa, Lola Haro and frederic. Next up: Amaluna Paris, Paris on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Hame is a techno and house artist based in Netherlands, with 35 gigs on soundche
 
 Hafa, Lola Haro, frederic (2)
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hame-1/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hame-1/)*

@@ -1,6 +1,6 @@
 # Sean Fender
 
-Sean Fender is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Reimersholme Hotel, Stockholm on Fri, 27 Nov 2026.
+Sean Fender is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Reimersholme Hotel, Stockholm on Fri, 27 Nov 2026.
 
 Sean Fender is a house and techno artist based in Sweden, with 25 gigs on soundcheck across Berlin, Copenhagen, Malmo and Stockholm. Often billed alongside Queen E, Abstraxion and Dgeral. Next up: Reimersholme Hotel, Stockholm on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Sean Fender is a house and techno artist based in Sweden, with 25 gigs on soundc
 
 Queen E, Abstraxion, Dgeral
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seanfender/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seanfender/)*

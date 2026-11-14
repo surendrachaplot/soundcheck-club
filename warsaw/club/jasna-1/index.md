@@ -1,14 +1,13 @@
 # Jasna 1
 
-Jasna 1 is a music venue in Warsaw with 10 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Klub Verboten x FETISH CHATEU - WARSAW" on Fri, 13 Nov 2026.
+Jasna 1 is a music venue in Warsaw with 9 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "J1 - CXEMA BACKSTAGE" on Sat, 14 Nov 2026.
 
-Jasna 1 is a music venue in Warsaw listed on soundcheck. 10 upcoming gigs, with line-ups including Adiel, BEXA, daisy cutter and dogheadsurigeri and 2 more. See dates, start times and who's playing. Jasna 1, 00-013 Warszawa.
+Jasna 1 is a music venue in Warsaw listed on soundcheck. 9 upcoming gigs, with line-ups including Adiel, daisy cutter, dogheadsurigeri and Evian Christ and 2 more. See dates, start times and who's playing. Jasna 1, 00-013 Warszawa.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Klub Verboten x FETISH CHATEU - WARSAW | BEXA, Milena Glowacka, Polanski, SORAYA* |
 | Sat, 14 Nov 2026 | J1 - CXEMA BACKSTAGE | Facheroia, Nana_k, Nastya Muravyova, Richie Beige, Slava Lepsheiev, Stanislav Tolkachev, ssscreep |
 | Fri, 20 Nov 2026 | J1 - Freddy K | Freddy K, MKO (PL), PAWEL (PL), Sabre (PL), uszko |
 | Sat, 21 Nov 2026 | J1 - Laure Croft b2b Henning Baer, Hellix, Ola Teks | Hellix, Henning Baer, Laure Croft, Ola Teks |
@@ -23,4 +22,4 @@ Jasna 1 is a music venue in Warsaw listed on soundcheck. 10 upcoming gigs, with 
 
 Jasna 1, 00-013 Warszawa, Warsaw
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/jasna-1/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/jasna-1/)*

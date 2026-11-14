@@ -1,6 +1,6 @@
 # Joe Claussell
 
-Joe Claussell is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Cosmic Arts, New York City on Sat, 21 Nov 2026.
+Joe Claussell is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Cosmic Arts, New York City on Sat, 21 Nov 2026.
 
 Joe Claussell is a house and deep house artist based in United States of America, with 100 gigs on soundcheck across Adelaide, Amsterdam, Athens and Atlanta and 28 more. Often billed alongside Danny Krivit, Francois K and Ron Trent. Next up: Cosmic Arts, New York City on Sat 21 Nov.
 
@@ -29,4 +29,4 @@ Joe Claussell is a house and deep house artist based in United States of America
 
 Danny Krivit, Francois K, Ron Trent
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joeclaussell/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joeclaussell/)*

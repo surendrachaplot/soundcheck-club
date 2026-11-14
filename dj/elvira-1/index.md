@@ -1,6 +1,6 @@
 # Elvira (1)
 
-Elvira (1) is a Dub and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Le Poisson Volant, Paris on Sat, 14 Nov 2026.
+Elvira (1) is a Dub and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Le Poisson Volant, Paris on Sat, 14 Nov 2026.
 
 Elvira is a dub and techno artist based in India, with 24 gigs on soundcheck across Bergen, Brussels, London and Milan and 2 more. Often billed alongside Subsism, Odd Shy Guy and Fatale Furylax. Next up: Le Poisson Volant, Paris on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Elvira is a dub and techno artist based in India, with 24 gigs on soundcheck acr
 
 Subsism, Odd Shy Guy, Fatale Furylax
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elvira-1/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elvira-1/)*

@@ -1,14 +1,15 @@
 # Evita
 
-Evita is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Société des arts technologiques, Montreal on Fri, 27 Nov 2026.
+Evita is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Société des arts technologiques, Montreal on Fri, 27 Nov 2026.
 
-Evita is a techno and house artist based in Austria, with 31 gigs on soundcheck across Bordeaux, Boston, Mexico City and Montreal. Often billed alongside Kiju, Leef and Plunkz. Next up: Société des arts technologiques, Montreal on Fri 27 Nov.
+Evita is a techno and house artist based in Austria, with 32 gigs on soundcheck across Bordeaux, Boston, Mexico City and Montreal. Often billed alongside Kiju, Leef and Plunkz. Next up: Société des arts technologiques, Montreal on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Société des arts technologiques | Montreal |
+| Sat, 12 Dec 2026 | Système | Montreal |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Evita is a techno and house artist based in Austria, with 31 gigs on soundcheck 
 
 Kiju, Leef, Plunkz
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/evita/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/evita/)*

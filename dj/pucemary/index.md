@@ -1,6 +1,6 @@
 # Puce Mary
 
-Puce Mary is a Noise and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Barbican Hall, London on Sun, 24 Jan 2027.
+Puce Mary is a Noise and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at The Barbican Hall, London on Sun, 24 Jan 2027.
 
 Puce Mary is a noise and experimental artist based in Denmark, with 19 gigs on soundcheck across Amsterdam, Berlin, Brussels and Copenhagen and 7 more. Often billed alongside Rainy Miller, Amnesia Scanner and Assyouti. Next up: The Barbican Hall, London on Sun 24 Jan.
 
@@ -25,4 +25,4 @@ Puce Mary is a noise and experimental artist based in Denmark, with 19 gigs on s
 
 Rainy Miller, Amnesia Scanner, Assyouti
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pucemary/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pucemary/)*

@@ -1,6 +1,6 @@
 # Secret Location
 
-Secret Location is a music venue in London with 6 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "SKANK" on Sat, 14 Nov 2026.
+Secret Location is a music venue in London with 6 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "SKANK" on Sat, 14 Nov 2026.
 
 Secret Location is a music venue in London listed on soundcheck. 6 upcoming gigs, with line-ups including Benny Bysouth, Bluer, Bubs Baker and Gareth Wild and 2 more. See dates, start times and who's playing. To Be Announced.
 
@@ -19,4 +19,4 @@ Secret Location is a music venue in London listed on soundcheck. 6 upcoming gigs
 
 To Be Announced, London
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/secret-location/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/secret-location/)*

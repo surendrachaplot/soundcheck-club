@@ -1,6 +1,6 @@
 # Loopline
 
-Loopline is a Experimental and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Fylkingen, Stockholm on Fri, 27 Nov 2026.
+Loopline is a Experimental and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Fylkingen, Stockholm on Fri, 27 Nov 2026.
 
 Loopline is an experimental and club artist based in Sweden, with 3 gigs on soundcheck across London and Stockholm. Often billed alongside Josephine Moriko, Lokey and sean pain. Next up: Fylkingen, Stockholm on Fri 27 Nov.
 
@@ -19,4 +19,4 @@ Loopline is an experimental and club artist based in Sweden, with 3 gigs on soun
 
 Josephine Moriko, Lokey, sean pain
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loopline/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loopline/)*

@@ -1,6 +1,6 @@
 # Badlokk
 
-Badlokk is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Waalhalla, Nijmegen on Sat, 14 Nov 2026.
+Badlokk is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Waalhalla, Nijmegen on Sat, 14 Nov 2026.
 
 Badlokk is a drum & bass and techno artist based in Germany, with 37 gigs on soundcheck across Berlin, Cologne, Dresden and Hannover and 2 more. Often billed alongside Gourski, Enaly and JSPR. Next up: Waalhalla, Nijmegen on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Badlokk is a drum & bass and techno artist based in Germany, with 37 gigs on sou
 
 Gourski, Enaly, JSPR
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/badlokk/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/badlokk/)*

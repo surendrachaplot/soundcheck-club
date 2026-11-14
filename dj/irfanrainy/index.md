@@ -1,6 +1,6 @@
 # Irfan Rainy
 
-Irfan Rainy is a House and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at renae, Manchester on Thu, 19 Nov 2026.
+Irfan Rainy is a House and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at renae, Manchester on Thu, 19 Nov 2026.
 
 Irfan Rainy is a house and afrobeat artist based in United Kingdom, with 39 gigs on soundcheck across Barcelona, Detroit, London and Manchester and 1 more. Often billed alongside Dele Sosimi, Joe Claussell and kisa. Next up: renae, Manchester on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Irfan Rainy is a house and afrobeat artist based in United Kingdom, with 39 gigs
 
 Dele Sosimi, Joe Claussell, kisa
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/irfanrainy/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/irfanrainy/)*

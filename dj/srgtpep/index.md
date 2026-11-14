@@ -1,6 +1,6 @@
 # srgtpep
 
-srgtpep is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Tonal, Mexico City on Wed, 11 Nov 2026.
+srgtpep is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Tonal, Mexico City on Wed, 11 Nov 2026.
 
 srgtpep is a house and techno artist based in United States of America, with 19 gigs on soundcheck across Detroit, Mexico City, New York City and Portland. Often billed alongside C Powers, cay horiuchi and 999ADJ. Next up: Tonal, Mexico City on Wed 11 Nov.
 
@@ -26,4 +26,4 @@ srgtpep is a house and techno artist based in United States of America, with 19 
 
 C Powers, cay horiuchi, 999ADJ
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/srgtpep/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/srgtpep/)*

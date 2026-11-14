@@ -1,6 +1,6 @@
 # Blauer Salon
 
-Blauer Salon is a music venue in Dresden with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "Ladies on Fire" on Sat, 21 Nov 2026.
+Blauer Salon is a music venue in Dresden with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. The next is "Ladies on Fire" on Sat, 21 Nov 2026.
 
 Blauer Salon is a music venue in Dresden listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Blauer Salon is a music venue in Dresden listed on soundcheck. 1 upcoming gig. S
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Ladies on Fire |  |
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dresden/club/blauer-salon/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dresden/club/blauer-salon/)*

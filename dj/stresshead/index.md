@@ -1,6 +1,6 @@
 # Stresshead
 
-Stresshead is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Aaja Basement, London on Sat, 5 Dec 2026.
+Stresshead is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Aaja Basement, London on Sat, 5 Dec 2026.
 
 Stresshead is a house and garage artist based in United Kingdom, with 20 gigs on soundcheck across Berlin, Bristol, Edinburgh and Leeds and 1 more. Often billed alongside Drinks On Me, Baobei and 1111. Next up: Aaja Basement, London on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Stresshead is a house and garage artist based in United Kingdom, with 20 gigs on
 
 Drinks On Me, Baobei, 1111
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stresshead/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stresshead/)*

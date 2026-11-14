@@ -1,14 +1,13 @@
 # Ministerium Club
 
-Ministerium Club is a music venue in Lisbon with 13 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. The next is "Manfredas, Laimonas & Tiago" on Fri, 13 Nov 2026.
+Ministerium Club is a music venue in Lisbon with 12 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Riktus with STORM (NL), Neoma (UK), GTH b2b NOQIA, kennino" on Thu, 19 Nov 2026.
 
-Ministerium Club is a music venue in Lisbon listed on soundcheck. 13 upcoming gigs, with line-ups including 40D (Dj), 753, Adi (CO) and Ben Sims and 2 more. See dates, start times and who's playing. Praça Comércio 72, 1100-148, Lisboa, Portugal.
+Ministerium Club is a music venue in Lisbon listed on soundcheck. 12 upcoming gigs, with line-ups including 40D (Dj), 753, Adi (CO) and Ben Sims and 2 more. See dates, start times and who's playing. Praça Comércio 72, 1100-148, Lisboa, Portugal.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Manfredas, Laimonas & Tiago | Laimonas, Manfredas, Tíago |
 | Thu, 19 Nov 2026 | Riktus with STORM (NL), Neoma (UK), GTH b2b NOQIA, kennino | GTH (FR), NOQIA, Neoma, STORM, kennino |
 | Sat, 21 Nov 2026 | Shequence 1st Anniversary | DAMIANA, Nicolle Velcro |
 | Sat, 28 Nov 2026 | Unai Trotti b2b Adi & Pitcho | Adi (CO), Pitcho, Unai Trotti |
@@ -18,9 +17,10 @@ Ministerium Club is a music venue in Lisbon listed on soundcheck. 13 upcoming gi
 | Thu, 10 Dec 2026 | Riktus New Generation Vol.14 | Silver Fx, musa |
 | Fri, 11 Dec 2026 | Liturgia - 2 Years Anniversary |  |
 | Sat, 12 Dec 2026 | Dan Ghenacia (All Night Long) | Dan Ghenacia |
+| Sat, 19 Dec 2026 | KONDA presents: KARABA, 40D & More | 40D (Dj), DJ Lilocox, KARABA, Studio Bros |
 
 ## Address
 
 Praça Comércio 72, 1100-148, Lisboa, Portugal, Lisbon
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/ministerium-club/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/ministerium-club/)*

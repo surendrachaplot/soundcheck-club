@@ -1,6 +1,6 @@
 # Monitors
 
-Monitors is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at StereoBar, Montreal on Fri, 27 Nov 2026.
+Monitors is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at StereoBar, Montreal on Fri, 27 Nov 2026.
 
 Monitors is a techno artist based in Canada, with 17 gigs on soundcheck across Montreal. Often billed alongside Guillaume Michaud, Napo Lugo and Opposite Direktion. Next up: StereoBar, Montreal on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Monitors is a techno artist based in Canada, with 17 gigs on soundcheck across M
 
 Guillaume Michaud, Napo Lugo, Opposite Direktion
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/monitors/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/monitors/)*

@@ -1,6 +1,6 @@
 # MØSENGGE
 
-MØSENGGE is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Sigma, Ibiza on Sat, 21 Nov 2026.
+MØSENGGE is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Sigma, Ibiza on Sat, 21 Nov 2026.
 
 MØSENGGE is a techno and tech house artist based in Spain, with 14 gigs on soundcheck across Ibiza. Often billed alongside Marcelo Demarco, SEMREH and AntZ. Next up: Sigma, Ibiza on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ MØSENGGE is a techno and tech house artist based in Spain, with 14 gigs on soun
 
 Marcelo Demarco, SEMREH, AntZ (2)
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mosengge/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mosengge/)*

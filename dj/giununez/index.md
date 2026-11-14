@@ -1,6 +1,6 @@
 # Giu Nunez
 
-Giu Nunez is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Fortim CE, Brazil on Sat, 26 Dec 2026.
+Giu Nunez is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Fortim CE, Brazil on Sat, 26 Dec 2026.
 
 Giu Nunez is a house and disco artist based in Brazil, with 109 gigs on soundcheck across Amsterdam, Berlin, Bordeaux and Brazil and 14 more. Often billed alongside Craig Ouar, Millos Kaiser and Carrot Green. Next up: TBA - Fortim CE, Brazil on Sat 26 Dec.
 
@@ -26,4 +26,4 @@ Giu Nunez is a house and disco artist based in Brazil, with 109 gigs on soundche
 
 Craig Ouar, Millos Kaiser, Carrot Green
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giununez/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giununez/)*

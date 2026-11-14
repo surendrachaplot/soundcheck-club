@@ -1,6 +1,6 @@
 # Fragoso
 
-Fragoso is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Lux Fragil, Lisbon on Fri, 20 Nov 2026.
+Fragoso is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Lux Fragil, Lisbon on Fri, 20 Nov 2026.
 
 Fragoso is a house and tech house artist, with 26 gigs on soundcheck across Geneva, Lisbon and Porto. Often billed alongside Pedro Tabuada, DJ Nox and Carlos Regadas. Next up: Lux Fragil, Lisbon on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Fragoso is a house and tech house artist, with 26 gigs on soundcheck across Gene
 
 Pedro Tabuada, DJ Nox, Carlos Regadas
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fragoso/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fragoso/)*

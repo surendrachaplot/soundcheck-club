@@ -1,6 +1,6 @@
 # Luciano
 
-Luciano is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Brooklyn Pacha, New York City on Sat, 21 Nov 2026.
+Luciano is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Brooklyn Pacha, New York City on Sat, 21 Nov 2026.
 
 Luciano is a house and tech house artist based in Switzerland, with 117 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Bucharest and 22 more. Often billed alongside Sossa, Prospa and Marco Carola. Next up: Brooklyn Pacha, New York City on Sat 21 Nov.
 
@@ -30,4 +30,4 @@ Luciano is a house and tech house artist based in Switzerland, with 117 gigs on 
 
 Sossa, Prospa, Marco Carola
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luciano/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luciano/)*

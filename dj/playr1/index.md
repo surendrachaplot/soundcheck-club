@@ -1,6 +1,6 @@
 # Playr1
 
-Playr1 is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at public records, New York City on Fri, 11 Dec 2026.
+Playr1 is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at public records, New York City on Fri, 11 Dec 2026.
 
 Playr1 is a house and techno artist based in United States of America, with 41 gigs on soundcheck across Atlanta, Chicago, Nashville and New York City and 1 more. Often billed alongside Akarsh, Gabriela Gonzalez and David Bulay. Next up: public records, New York City on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Playr1 is a house and techno artist based in United States of America, with 41 g
 
 Akarsh, Gabriela Gonzalez, David Bulay
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/playr1/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/playr1/)*

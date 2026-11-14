@@ -1,6 +1,6 @@
 # Weberknecht
 
-Weberknecht is a music venue in Vienna with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "RAVECON × MIND X-MAS feat. Mario Ranieri" on Mon, 7 Dec 2026.
+Weberknecht is a music venue in Vienna with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. The next is "RAVECON × MIND X-MAS feat. Mario Ranieri" on Mon, 7 Dec 2026.
 
 Weberknecht is a music venue in Vienna listed on soundcheck. 1 upcoming gig, with line-ups including JP eXbert, KJAER and Richard Steinschlag. See dates, start times and who's playing. Lerchenfelder Gürtel 47, Vienna, Austria.
 
@@ -14,4 +14,4 @@ Weberknecht is a music venue in Vienna listed on soundcheck. 1 upcoming gig, wit
 
 Lerchenfelder Gürtel 47, Vienna, Austria, Vienna
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/weberknecht/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/weberknecht/)*

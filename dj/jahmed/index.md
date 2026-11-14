@@ -1,6 +1,6 @@
 # Jahmed
 
-Jahmed is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Brick Lane Tap Room, London on Thu, 31 Dec 2026.
+Jahmed is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Brick Lane Tap Room, London on Thu, 31 Dec 2026.
 
 Jahmed is a house and disco artist based in United Kingdom, with 21 gigs on soundcheck across London. Often billed alongside SUGARLOAF, GENIETUNES and Arnie Wrong. Next up: Brick Lane Tap Room, London on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Jahmed is a house and disco artist based in United Kingdom, with 21 gigs on soun
 
 SUGARLOAF, GENIETUNES, Arnie Wrong
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jahmed/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jahmed/)*

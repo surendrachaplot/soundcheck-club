@@ -1,6 +1,6 @@
 # Rowen Clark
 
-Rowen Clark is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Desa Kitsune, Bali on Fri, 20 Nov 2026.
+Rowen Clark is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Desa Kitsune, Bali on Fri, 20 Nov 2026.
 
 Rowen Clark is a house and deep house artist based in Netherlands, with 13 gigs on soundcheck across Amsterdam, Bali, Indonesia and Liverpool and 2 more. Often billed alongside BRAD WATTS, Aidan Bega and Edger. Next up: Desa Kitsune, Bali on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Rowen Clark is a house and deep house artist based in Netherlands, with 13 gigs 
 
 BRAD WATTS, Aidan Bega, Edger
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rowenclark/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rowenclark/)*

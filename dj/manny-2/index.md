@@ -1,6 +1,6 @@
 # Manny (2)
 
-Manny (2) is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Banana Mama, Vietnam on Sat, 14 Nov 2026.
+Manny (2) is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Banana Mama, Vietnam on Sat, 14 Nov 2026.
 
 Manny is an electronica and house artist based in France, with 96 gigs on soundcheck across Ho Chi Minh City and Vietnam. Often billed alongside DESNUAGES, DJ Ouch! and MTXIII. Next up: Banana Mama, Vietnam on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Manny is an electronica and house artist based in France, with 96 gigs on soundc
 
 DESNUAGES, DJ Ouch!, MTXIII
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manny-2/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manny-2/)*

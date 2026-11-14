@@ -1,6 +1,6 @@
 # Gilbert0
 
-Gilbert0 is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Downtown Los Angeles, Los Angeles on Sat, 12 Dec 2026.
+Gilbert0 is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Downtown Los Angeles, Los Angeles on Sat, 12 Dec 2026.
 
 Gilbert0 is a house and deep house artist based in Dominican Republic, with 15 gigs on soundcheck across Los Angeles. Often billed alongside Ian Llorens, Artur (US) and DJ Shroomie. Next up: TBA - Downtown Los Angeles, Los Angeles on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Gilbert0 is a house and deep house artist based in Dominican Republic, with 15 g
 
 Ian Llorens, Artur (US), DJ Shroomie
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gilbert0/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gilbert0/)*

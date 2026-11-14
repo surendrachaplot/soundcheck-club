@@ -1,6 +1,6 @@
 # Energy No13
 
-Energy No13 is a Electro and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Carolina Sardi Studio: 260 NE 60th Street, Miami, Miami on Sat, 5 Dec 2026.
+Energy No13 is a Electro and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Carolina Sardi Studio: 260 NE 60th Street, Miami, Miami on Sat, 5 Dec 2026.
 
 Energy No13 is an electro and experimental artist based in United States of America, with 25 gigs on soundcheck across Miami. Often billed alongside Meaux, djmedley and Jorge Barr. Next up: TBA - Carolina Sardi Studio: 260 NE 60th Street, Miami, Miami on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Energy No13 is an electro and experimental artist based in United States of Amer
 
 Meaux, djmedley, Jorge Barr
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/energyno13/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/energyno13/)*

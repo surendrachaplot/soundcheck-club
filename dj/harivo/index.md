@@ -1,6 +1,6 @@
 # Harivo
 
-Harivo is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Faust, Seoul on Sat, 14 Nov 2026.
+Harivo is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Faust, Seoul on Sat, 14 Nov 2026.
 
 Harivo is a house and deep house artist based in South Korea, with 42 gigs on soundcheck across Seoul and Tokyo. Often billed alongside Stann Lumo, Marcus L and Mars Parck. Next up: Faust, Seoul on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Harivo is a house and deep house artist based in South Korea, with 42 gigs on so
 
 Stann Lumo, Marcus L, Mars Parck
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/harivo/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/harivo/)*

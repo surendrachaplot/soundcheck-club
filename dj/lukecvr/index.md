@@ -1,6 +1,6 @@
 # Luke CVR
 
-Luke CVR is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Angel Music Bar, Melbourne on Sat, 14 Nov 2026.
+Luke CVR is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Angel Music Bar, Melbourne on Sat, 14 Nov 2026.
 
 Luke CVR is a house and deep house artist based in Australia, with 10 gigs on soundcheck across Adelaide and Melbourne. Often billed alongside Moopie, BABY MONET and Charles Moon. Next up: Angel Music Bar, Melbourne on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Luke CVR is a house and deep house artist based in Australia, with 10 gigs on so
 
 Moopie, BABY MONET, Charles Moon
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukecvr/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukecvr/)*

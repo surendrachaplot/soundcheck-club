@@ -1,6 +1,6 @@
 # Leonardo Cruz DJ
 
-Leonardo Cruz DJ is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - All My Friends + Secret Location, London on Sat, 14 Nov 2026.
+Leonardo Cruz DJ is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - All My Friends + Secret Location, London on Sat, 14 Nov 2026.
 
 Leonardo Cruz DJ is a house and techno artist based in Brazil, with 40 gigs on soundcheck across London and South East. Often billed alongside Juliana Branco, Simoon Pedro and G Belmonte. Next up: TBA - All My Friends + Secret Location, London on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Leonardo Cruz DJ is a house and techno artist based in Brazil, with 40 gigs on s
 
 Juliana Branco, Simoon Pedro, G Belmonte
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leonardocruzdj/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leonardocruzdj/)*

@@ -1,6 +1,6 @@
 # Gunes Ergun
 
-Gunes Ergun is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Kastel, Istanbul on Sat, 14 Nov 2026.
+Gunes Ergun is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Kastel, Istanbul on Sat, 14 Nov 2026.
 
 Gunes Ergun is a house and techno artist based in Turkey, with 13 gigs on soundcheck across Istanbul. Often billed alongside Volkan Gunduz, Atakan Uysal and FAITH. Next up: Kastel, Istanbul on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Gunes Ergun is a house and techno artist based in Turkey, with 13 gigs on soundc
 
 Volkan Gunduz, Atakan Uysal, FAITH
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gunesergun/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gunesergun/)*

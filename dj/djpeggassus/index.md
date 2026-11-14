@@ -1,6 +1,6 @@
 # DJ P€gga$u$
 
-DJ P€gga$u$ is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Ilion Plus, Athens on Sat, 21 Nov 2026.
+DJ P€gga$u$ is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Ilion Plus, Athens on Sat, 21 Nov 2026.
 
 DJ P€gga$u$ is a club and bass artist based in Greece, with 8 gigs on soundcheck across Athens. Often billed alongside Nicol Bolas, GORO and kvadosh. Next up: Ilion Plus, Athens on Sat 21 Nov.
 
@@ -24,4 +24,4 @@ DJ P€gga$u$ is a club and bass artist based in Greece, with 8 gigs on soundche
 
 Nicol Bolas, GORO, kvadosh
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djpeggassus/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djpeggassus/)*

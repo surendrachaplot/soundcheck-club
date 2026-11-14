@@ -1,14 +1,13 @@
 # Skream
 
-Skream is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Parque Fundidora, Monterrey on Fri, 13 Nov 2026.
+Skream is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Art Club, Houston on Sat, 14 Nov 2026.
 
-Skream is a house and techno artist based in United Kingdom, with 240 gigs on soundcheck across Amsterdam, Antwerp, Austria and Bali and 70 more. Often billed alongside Seth Troxler, Benga and DJ Tennis. Next up: Parque Fundidora, Monterrey on Fri 13 Nov.
+Skream is a house and techno artist based in United Kingdom, with 240 gigs on soundcheck across Amsterdam, Antwerp, Austria and Bali and 70 more. Often billed alongside Seth Troxler, Benga and DJ Tennis. Next up: Art Club, Houston on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Parque Fundidora | Monterrey |
 | Sat, 14 Nov 2026 | Art Club | Houston |
 | Sun, 22 Nov 2026 | Club Space Miami | Miami |
 | Fri, 27 Nov 2026 | Ace*Mission | Los Angeles |
@@ -20,6 +19,7 @@ Skream is a house and techno artist based in United Kingdom, with 240 gigs on so
 
 ## Recently played
 
+- Parque Fundidora, Monterrey · Fri, 13 Nov 2026
 - Lincoln Factory, Detroit · Sat, 7 Nov 2026
 - Coda, Toronto · Fri, 6 Nov 2026
 - Factory Town, Miami · Fri, 30 Oct 2026
@@ -27,10 +27,9 @@ Skream is a house and techno artist based in United Kingdom, with 240 gigs on so
 - Volt Club Milano, Milan · Thu, 15 Oct 2026
 - Cabaret Voltaire, Edinburgh · Sat, 10 Oct 2026
 - TBA, Dundee · Fri, 9 Oct 2026
-- Club 69, Glasgow · Thu, 8 Oct 2026
 
 ## Shares bills with
 
 Seth Troxler, Benga, DJ Tennis
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skream/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skream/)*

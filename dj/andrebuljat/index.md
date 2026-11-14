@@ -1,6 +1,6 @@
 # Andre Buljat
 
-Andre Buljat is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at BORIS CLUB, Barcelona on Sat, 5 Dec 2026.
+Andre Buljat is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at BORIS CLUB, Barcelona on Sat, 5 Dec 2026.
 
 Andre Buljat is a house and tech house artist based in Germany, with 31 gigs on soundcheck across Barcelona, Berlin, Ibiza and Lisbon and 4 more. Often billed alongside Pau Guilera, Abdon and Cesare vs Disorder. Next up: BORIS CLUB, Barcelona on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Andre Buljat is a house and tech house artist based in Germany, with 31 gigs on 
 
 Pau Guilera, Abdon, Cesare vs Disorder
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andrebuljat/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andrebuljat/)*

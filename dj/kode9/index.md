@@ -1,15 +1,13 @@
 # Kode9
 
-Kode9 is a Bass and Experimental artist with 6 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Paavli Kultuurivabrik, Tallinn on Fri, 13 Nov 2026.
+Kode9 is a Bass and Experimental artist with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Brussels, Brussels on Sat, 21 Nov 2026.
 
-Kode9 is a bass and experimental artist based in United Kingdom, with 143 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Bangkok and 53 more. Often billed alongside Tim Reaper, Mala and Skee Mask. Next up: Paavli Kultuurivabrik, Tallinn on Fri 13 Nov.
+Kode9 is a bass and experimental artist based in United Kingdom, with 143 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Bangkok and 53 more. Often billed alongside Tim Reaper, Mala and Skee Mask. Next up: TBA - Brussels, Brussels on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Paavli Kultuurivabrik | Tallinn |
-| Fri, 13 Nov 2026 | TBA - Eesti Kunstiakadeemia | Tallinn |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
 | Fri, 27 Nov 2026 | Ormside Projects | London |
 | Sun, 29 Nov 2026 | Monk Club | Rome |
@@ -17,17 +15,17 @@ Kode9 is a bass and experimental artist based in United Kingdom, with 143 gigs o
 
 ## Recently played
 
+- Paavli Kultuurivabrik, Tallinn · Fri, 13 Nov 2026
+- TBA - Eesti Kunstiakadeemia, Tallinn · Fri, 13 Nov 2026
 - Lingotto Fiere, Turin · Thu, 29 Oct 2026
 - The White Hotel, Manchester · Sat, 24 Oct 2026
 - The Globe, Glossop, Manchester · Fri, 23 Oct 2026
 - Karlstorbahnhof, Heidelberg · Fri, 16 Oct 2026
 - Hotel Forum, Krakow · Sat, 10 Oct 2026
 - Various venues - Warsaw & Krakow, Poland · Fri, 2 Oct 2026
-- Palais, London · Fri, 2 Oct 2026
-- Badaboum, Paris · Fri, 18 Sept 2026
 
 ## Shares bills with
 
 Tim Reaper, Mala, Skee Mask
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kode9/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kode9/)*

@@ -1,6 +1,6 @@
 # Nicole.
 
-Nicole. is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Tresor / Globus, Berlin on Mon, 28 Dec 2026.
+Nicole. is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Tresor / Globus, Berlin on Mon, 28 Dec 2026.
 
 Nicole. is a techno and house artist based in Georgia, with 55 gigs on soundcheck across Berlin, Bucharest, Copenhagen and Dortmund / Essen and 6 more. Often billed alongside DJ Troy, Bekuchi and NX. Next up: Tresor / Globus, Berlin on Mon 28 Dec.
 
@@ -26,4 +26,4 @@ Nicole. is a techno and house artist based in Georgia, with 55 gigs on soundchec
 
 DJ Troy, Bekuchi, NX (1)
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicole-2/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicole-2/)*

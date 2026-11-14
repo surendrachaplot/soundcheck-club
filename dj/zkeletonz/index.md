@@ -1,6 +1,6 @@
 # Zkeletonz
 
-Zkeletonz is a New Wave and Post-Punk artist with 6 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Barfly, London on Fri, 20 Nov 2026.
+Zkeletonz is a New Wave and Post-Punk artist with 6 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Barfly, London on Fri, 20 Nov 2026.
 
 Zkeletonz is a new wave and post-punk artist based in United Kingdom, with 27 gigs on soundcheck across London. Often billed alongside Emergency Loop, Hyperfunk and JustElliot. Next up: Barfly, London on Fri 20 Nov.
 
@@ -30,4 +30,4 @@ Zkeletonz is a new wave and post-punk artist based in United Kingdom, with 27 gi
 
 Emergency Loop, Hyperfunk, JustElliot
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zkeletonz/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zkeletonz/)*

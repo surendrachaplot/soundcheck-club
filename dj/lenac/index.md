@@ -1,6 +1,6 @@
 # Léna C
 
-Léna C is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Grow, London on Fri, 27 Nov 2026.
+Léna C is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Grow, London on Fri, 27 Nov 2026.
 
 Léna C is a disco and house artist based in United Kingdom, with 24 gigs on soundcheck across Liverpool, London, Manchester and Sheffield. Often billed alongside JOSH FB, Joi La Frique and Nonna Fab. Next up: Grow, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Léna C is a disco and house artist based in United Kingdom, with 24 gigs on sou
 
 JOSH FB, Joi La Frique, Nonna Fab
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lenac/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lenac/)*

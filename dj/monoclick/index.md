@@ -1,6 +1,6 @@
 # Monoclick
 
-Monoclick is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Public Works, San Francisco/Oakland on Fri, 20 Nov 2026.
+Monoclick is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Public Works, San Francisco/Oakland on Fri, 20 Nov 2026.
 
 Monoclick is a house and deep house artist based in Hungary, with 91 gigs on soundcheck across Budapest, Los Angeles, San Diego and San Francisco/Oakland. Often billed alongside Electric Boutique, Krane and James Houdini. Next up: Public Works, San Francisco/Oakland on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ Monoclick is a house and deep house artist based in Hungary, with 91 gigs on sou
 
 Electric Boutique, Krane, James Houdini
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/monoclick/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/monoclick/)*

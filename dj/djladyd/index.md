@@ -1,6 +1,6 @@
 # DJ Lady D
 
-DJ Lady D is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Radius, Chicago on Fri, 1 Jan 2027.
+DJ Lady D is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Radius, Chicago on Fri, 1 Jan 2027.
 
 DJ Lady D is a house and techno artist based in United States of America, with 61 gigs on soundcheck across Chicago, Detroit, Miami and Minneapolis/St Paul and 4 more. Often billed alongside DJ Heather, VITIGRRL and Carl Craig. Next up: Radius, Chicago on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ DJ Lady D is a house and techno artist based in United States of America, with 6
 
 DJ Heather, VITIGRRL, Carl Craig
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djladyd/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djladyd/)*

@@ -1,6 +1,6 @@
 # KUAN
 
-KUAN is a Techno and IDM artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Pawnshop, Taipei on Sat, 21 Nov 2026.
+KUAN is a Techno and IDM artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Pawnshop, Taipei on Sat, 21 Nov 2026.
 
 KUAN is a techno and idm artist based in Taiwan, with 69 gigs on soundcheck across Hanoi, Taipei and Tokyo. Often billed alongside KATRINA, L-CC and Kerena. Next up: Pawnshop, Taipei on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ KUAN is a techno and idm artist based in Taiwan, with 69 gigs on soundcheck acro
 
 KATRINA, L-CC, Kerena
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kuan-tw/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kuan-tw/)*

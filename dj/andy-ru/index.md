@@ -1,6 +1,6 @@
 # An Dy
 
-An Dy is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at DNA Lounge, San Francisco/Oakland on Fri, 20 Nov 2026.
+An Dy is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at DNA Lounge, San Francisco/Oakland on Fri, 20 Nov 2026.
 
 An Dy is a house and tech house artist based in Russia, with 34 gigs on soundcheck across Amsterdam, Copenhagen, Dresden and Marseille and 6 more. Often billed alongside Dark Disco, Artwork and Anfisa Letyago. Next up: DNA Lounge, San Francisco/Oakland on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ An Dy is a house and tech house artist based in Russia, with 34 gigs on soundche
 
 Dark Disco, Artwork, Anfisa Letyago
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andy-ru/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andy-ru/)*

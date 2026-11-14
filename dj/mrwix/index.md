@@ -1,6 +1,6 @@
 # Mr. Wix
 
-Mr. Wix is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at San Francisco, Amsterdam on Sat, 21 Nov 2026.
+Mr. Wix is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at San Francisco, Amsterdam on Sat, 21 Nov 2026.
 
 Mr. Wix is an electronic artist based in Netherlands, with 12 gigs on soundcheck across Amsterdam. Often billed alongside KC The Funkaholic, Cinnaman and Max B. Next up: San Francisco, Amsterdam on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Mr. Wix is an electronic artist based in Netherlands, with 12 gigs on soundcheck
 
 KC The Funkaholic, Cinnaman, Max B
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mrwix/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mrwix/)*

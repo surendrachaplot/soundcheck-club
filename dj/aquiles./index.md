@@ -1,6 +1,6 @@
 # AQUILES.
 
-AQUILES. is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Death Disco, Athens on Fri, 20 Nov 2026.
+AQUILES. is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Death Disco, Athens on Fri, 20 Nov 2026.
 
 AQUILES. is a techno and trance artist based in Greece, with 11 gigs on soundcheck across Athens. Often billed alongside Mariø, Pannox and Alisa Murphy. Next up: Death Disco, Athens on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ AQUILES. is a techno and trance artist based in Greece, with 11 gigs on soundche
 
 Mariø, Pannox, Alisa Murphy
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aquiles./)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aquiles./)*

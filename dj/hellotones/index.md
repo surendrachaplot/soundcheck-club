@@ -1,6 +1,6 @@
 # hellotones
 
-hellotones is a Club and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Paragon, New York City on Wed, 25 Nov 2026.
+hellotones is a Club and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Paragon, New York City on Wed, 25 Nov 2026.
 
 hellotones is a club and reggaeton artist based in United States of America, with 21 gigs on soundcheck across Brussels, London, Los Angeles and New York City and 1 more. Often billed alongside Marvelito, Mextape and Riobamba. Next up: Paragon, New York City on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ hellotones is a club and reggaeton artist based in United States of America, wit
 
 Marvelito, Mextape, Riobamba
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hellotones/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hellotones/)*

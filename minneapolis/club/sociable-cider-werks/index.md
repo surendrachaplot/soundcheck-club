@@ -1,6 +1,6 @@
 # Sociable Cider Werks
 
-Sociable Cider Werks is a music venue in Minneapolis/St Paul with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "House Proud Mpls" on Fri, 4 Dec 2026.
+Sociable Cider Werks is a music venue in Minneapolis/St Paul with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. The next is "House Proud Mpls" on Fri, 4 Dec 2026.
 
 Sociable Cider Werks is a music venue in Minneapolis/St Paul listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Sociable Cider Werks is a music venue in Minneapolis/St Paul listed on soundchec
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | House Proud Mpls |  |
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/minneapolis/club/sociable-cider-werks/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/minneapolis/club/sociable-cider-werks/)*

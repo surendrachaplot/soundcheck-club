@@ -1,6 +1,6 @@
 # Kitoko
 
-Kitoko is a Bass and Afro House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Illegaal, Brussels on Sat, 14 Nov 2026.
+Kitoko is a Bass and Afro House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Illegaal, Brussels on Sat, 14 Nov 2026.
 
 Kitoko is a bass and afro house artist based in Belgium, with 13 gigs on soundcheck across Brussels. Often billed alongside Dj Soleil, Rafael Aragon and Baka G. Next up: Illegaal, Brussels on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Kitoko is a bass and afro house artist based in Belgium, with 13 gigs on soundch
 
 Dj Soleil, Rafael Aragon, Baka G
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kitoko/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kitoko/)*

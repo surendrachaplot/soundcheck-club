@@ -1,6 +1,6 @@
 # FREAKENSTEIN
 
-FREAKENSTEIN is a Electro and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Amber's, Manchester on Sat, 19 Dec 2026.
+FREAKENSTEIN is a Electro and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Amber's, Manchester on Sat, 19 Dec 2026.
 
 FREAKENSTEIN is an electro and house artist based in United Kingdom, with 30 gigs on soundcheck across Amsterdam, Bristol, Ibiza and Leeds and 4 more. Often billed alongside Egyptian Lover, Anna Wall and Anthea. Next up: Amber's, Manchester on Sat 19 Dec.
 
@@ -26,4 +26,4 @@ FREAKENSTEIN is an electro and house artist based in United Kingdom, with 30 gig
 
 Egyptian Lover, Anna Wall, Anthea
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/freakenstein/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/freakenstein/)*

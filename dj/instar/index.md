@@ -1,6 +1,6 @@
 # instar
 
-instar is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Ghent (multi-venue), Ghent on Fri, 27 Nov 2026.
+instar is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Ghent (multi-venue), Ghent on Fri, 27 Nov 2026.
 
 instar is a techno and bass artist based in Belgium, with 21 gigs on soundcheck across Antwerp, Berlin, Brussels and Ghent and 2 more. Often billed alongside waltur, myu:sa and Lolalita. Next up: TBA - Ghent (multi-venue), Ghent on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ instar is a techno and bass artist based in Belgium, with 21 gigs on soundcheck 
 
 waltur, myu:sa, Lolalita
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/instar/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/instar/)*

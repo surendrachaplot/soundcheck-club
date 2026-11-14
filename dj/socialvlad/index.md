@@ -1,6 +1,6 @@
 # SOCIAL VLAD
 
-SOCIAL VLAD is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Renate, Berlin on Thu, 31 Dec 2026.
+SOCIAL VLAD is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Renate, Berlin on Thu, 31 Dec 2026.
 
 SOCIAL VLAD is a techno and house artist based in Ukraine, with 47 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bologna and 3 more. Often billed alongside OLHA, Sergey Chernyshov and wallflower_. Next up: Renate, Berlin on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ SOCIAL VLAD is a techno and house artist based in Ukraine, with 47 gigs on sound
 
 OLHA, Sergey Chernyshov, wallflower_
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/socialvlad/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/socialvlad/)*

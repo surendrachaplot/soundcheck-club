@@ -1,6 +1,6 @@
 # OFFGRID
 
-OFFGRID is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at The Mash House, Edinburgh on Sat, 21 Nov 2026.
+OFFGRID is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at The Mash House, Edinburgh on Sat, 21 Nov 2026.
 
 OFFGRID is a techno and house artist based in United Kingdom, with 8 gigs on soundcheck across Edinburgh. Often billed alongside Ryan Murphy, cara hegarty and BORLEY. Next up: The Mash House, Edinburgh on Sat 21 Nov.
 
@@ -24,4 +24,4 @@ OFFGRID is a techno and house artist based in United Kingdom, with 8 gigs on sou
 
 Ryan Murphy (2), cara hegarty, BORLEY
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/offgrid-uk/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/offgrid-uk/)*

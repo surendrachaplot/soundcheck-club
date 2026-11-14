@@ -1,6 +1,6 @@
 # Pachanga Boys
 
-Pachanga Boys is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at TBA - Downtown Los Angeles, Los Angeles on Sat, 12 Dec 2026.
+Pachanga Boys is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Downtown Los Angeles, Los Angeles on Sat, 12 Dec 2026.
 
 Pachanga Boys is a techno and house artist based in France, with 31 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Guadalajara and 12 more. Often billed alongside Bleach, Superpitcher and BLOND:ISH. Next up: TBA - Downtown Los Angeles, Los Angeles on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Pachanga Boys is a techno and house artist based in France, with 31 gigs on soun
 
 Bleach, Superpitcher, BLOND:ISH
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pachangaboys/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pachangaboys/)*

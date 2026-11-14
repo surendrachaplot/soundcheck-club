@@ -1,6 +1,6 @@
 # Ôneyra
 
-Ôneyra is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Crack Bellmer, Berlin on Sat, 14 Nov 2026.
+Ôneyra is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Crack Bellmer, Berlin on Sat, 14 Nov 2026.
 
 Ôneyra is a techno and trance artist based in Ireland, with 35 gigs on soundcheck across Berlin, Brussels, Cologne and London and 1 more. Often billed alongside Rovin, MZR and Montague. Next up: Crack Bellmer, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@
 
 Rovin, MZR, Montague
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oneyra/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oneyra/)*

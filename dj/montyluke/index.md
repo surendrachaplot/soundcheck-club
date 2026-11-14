@@ -1,6 +1,6 @@
 # Monty Luke
 
-Monty Luke is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Kater, Berlin on Sat, 5 Dec 2026.
+Monty Luke is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Kater, Berlin on Sat, 5 Dec 2026.
 
 Monty Luke is a house and techno artist based in United States of America, with 56 gigs on soundcheck across Amsterdam, Berlin, Detroit and Hannover and 9 more. Often billed alongside Radio Slave, Iron Curtis and Adriana Ruas. Next up: Kater, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Monty Luke is a house and techno artist based in United States of America, with 
 
 Radio Slave, Iron Curtis, Adriana Ruas
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/montyluke/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/montyluke/)*

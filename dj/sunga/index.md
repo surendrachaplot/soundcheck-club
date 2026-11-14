@@ -1,14 +1,15 @@
 # Sunga
 
-Sunga is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Rugs*, Beijing on Fri, 20 Nov 2026.
+Sunga is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Rugs*, Beijing on Fri, 20 Nov 2026.
 
-Sunga is a house and techno artist based in Japan, with 120 gigs on soundcheck across Bangkok, Beijing, Chubu and Kanto and 3 more. Often billed alongside Mamazu, YO.AN and DJ Kensei. Next up: Rugs*, Beijing on Fri 20 Nov.
+Sunga is a house and techno artist based in Japan, with 121 gigs on soundcheck across Bangkok, Beijing, Chubu and Kanto and 3 more. Often billed alongside Mamazu, YO.AN and DJ Kensei. Next up: Rugs*, Beijing on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Rugs* | Beijing |
+| Sat, 28 Nov 2026 | Aoyama Hachi | Tokyo |
 | Sat, 19 Dec 2026 | Mago | Chubu |
 | Tue, 29 Dec 2026 | Little Moon Villa Koh Mak | Thailand |
 
@@ -27,4 +28,4 @@ Sunga is a house and techno artist based in Japan, with 120 gigs on soundcheck a
 
 Mamazu, YO.AN, DJ Kensei
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sunga/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sunga/)*

@@ -1,6 +1,6 @@
 # caitlin c. harvey
 
-caitlin c. harvey is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Moondog Cafe, Detroit on Fri, 20 Nov 2026.
+caitlin c. harvey is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Moondog Cafe, Detroit on Fri, 20 Nov 2026.
 
 caitlin c. harvey is an experimental and ambient artist based in United States of America, with 13 gigs on soundcheck across Detroit. Often billed alongside otodojo, Bccording and King Sophia. Next up: Moondog Cafe, Detroit on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ caitlin c. harvey is an experimental and ambient artist based in United States o
 
 otodojo, Bccording, King Sophia
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caitlincharvey/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caitlincharvey/)*

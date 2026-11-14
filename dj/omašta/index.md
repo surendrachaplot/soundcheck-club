@@ -1,6 +1,6 @@
 # Omašta
 
-Omašta is a Grime and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Gut Level, Sheffield on Fri, 11 Dec 2026.
+Omašta is a Grime and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Gut Level, Sheffield on Fri, 11 Dec 2026.
 
 Omašta is a grime and club artist based in United Kingdom, with 14 gigs on soundcheck across London and Sheffield. Often billed alongside Eze, Zeki and MYNA. Next up: Gut Level, Sheffield on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Omašta is a grime and club artist based in United Kingdom, with 14 gigs on soun
 
 Eze, Zeki, MYNA
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/omašta/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/omašta/)*

@@ -1,6 +1,6 @@
 # Tbili orgia
 
-Tbili orgia is a Dancehall and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Tbili Orgia, Tbilisi on Sun, 22 Nov 2026.
+Tbili orgia is a Dancehall and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Tbili Orgia, Tbilisi on Sun, 22 Nov 2026.
 
 Tbili orgia is a dancehall and experimental artist based in Georgia, with 19 gigs on soundcheck across Tbilisi. Often billed alongside Vazhmarr, Anketa and borisluvv. Next up: Tbili Orgia, Tbilisi on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ Tbili orgia is a dancehall and experimental artist based in Georgia, with 19 gig
 
 Vazhmarr, Anketa, borisluvv
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tbiliorgia/)*
+*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tbiliorgia/)*
