@@ -1,14 +1,13 @@
 # MARRØN
 
-MARRØN is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Elysia, Basel on Sat, 14 Nov 2026.
+MARRØN is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Frame, Dublin on Fri, 20 Nov 2026.
 
-MARRØN is a techno and house artist based in Netherlands, with 316 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 86 more. Often billed alongside Blasha & Allatt, Ben Klock and Freddy K. Next up: Elysia, Basel on Sat 14 Nov.
+MARRØN is a techno and house artist based in Netherlands, with 316 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 86 more. Often billed alongside Blasha & Allatt, Ben Klock and Freddy K. Next up: Frame, Dublin on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Elysia | Basel |
 | Fri, 20 Nov 2026 | Frame | Dublin |
 | Sat, 21 Nov 2026 | Switch | Porto |
 | Fri, 27 Nov 2026 | Hive Club | Zurich |
@@ -20,9 +19,11 @@ MARRØN is a techno and house artist based in Netherlands, with 316 gigs on soun
 | Thu, 31 Dec 2026 | fabric | London |
 | Fri, 1 Jan 2027 | C12 | Brussels |
 | Fri, 29 Jan 2027 | Carousel Bar & Ballroom | Sydney |
+| Sat, 30 Jan 2027 | Preston Warehouse | Melbourne |
 
 ## Recently played
 
+- Elysia, Basel · Sat, 14 Nov 2026
 - Peti Kupe, Zagreb · Fri, 13 Nov 2026
 - Universe Athens, Athens · Sat, 7 Nov 2026
 - DURO, Milan · Fri, 6 Nov 2026
@@ -30,10 +31,9 @@ MARRØN is a techno and house artist based in Netherlands, with 316 gigs on soun
 - Sub Club, Glasgow · Fri, 30 Oct 2026
 - De Fik Garden, Amsterdam · Sun, 25 Oct 2026
 - Kazerne Reigersbos, Amsterdam · Sun, 25 Oct 2026
-- Mediahaven - Minervahaven, Amsterdam · Sat, 24 Oct 2026
 
 ## Shares bills with
 
 Blasha & Allatt, Ben Klock, Freddy K
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marron/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marron/)*

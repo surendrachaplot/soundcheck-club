@@ -1,6 +1,6 @@
 # Jessy
 
-Jessy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Il Mercato Centrale, Melbourne on Sat, 21 Nov 2026.
+Jessy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA - Il Mercato Centrale, Melbourne on Sat, 21 Nov 2026.
 
 Jessy is a house and techno artist based in Norway, with 19 gigs on soundcheck across Barcelona, Berlin, Gothenburg and Madrid and 2 more. Often billed alongside Cucut, Dj Henny and Mateo Blanco. Next up: TBA - Il Mercato Centrale, Melbourne on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Jessy is a house and techno artist based in Norway, with 19 gigs on soundcheck a
 
 Cucut, Dj Henny, Mateo Blanco
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jessy/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jessy/)*

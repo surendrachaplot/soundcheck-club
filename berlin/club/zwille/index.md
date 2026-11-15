@@ -1,13 +1,14 @@
 # Zwille
 
-Zwille is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. The next is "meet the sandman / SOLIPARTY" on Fri, 20 Nov 2026.
+Zwille is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "meet the sandman / SOLIPARTY" on Fri, 20 Nov 2026.
 
-Zwille is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including Bugazza Boy. See dates, start times and who's playing.
+Zwille is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including Bugazza Boy. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | meet the sandman / SOLIPARTY | Bugazza Boy |
+| Fri, 4 Dec 2026 | Soliparty Trans Day of Remembrance |  |
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/zwille/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/zwille/)*

@@ -1,14 +1,13 @@
 # Omar Ahmad
 
-Omar Ahmad is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Playground 1114 Bedford Avenue Brooklyn, New York City on Fri, 13 Nov 2026.
+Omar Ahmad is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Nowadays, New York City on Thu, 10 Dec 2026.
 
-Omar Ahmad is a techno and house artist based in United States of America, with 31 gigs on soundcheck across Detroit and New York City. Often billed alongside Saphe, otodojo and ACE. Next up: TBA - Playground 1114 Bedford Avenue Brooklyn, New York City on Fri 13 Nov.
+Omar Ahmad is a techno and house artist based in United States of America, with 31 gigs on soundcheck across Detroit and New York City. Often billed alongside Saphe, otodojo and ACE. Next up: Nowadays, New York City on Thu 10 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | TBA - Playground 1114 Bedford Avenue Brooklyn | New York City |
 | Thu, 10 Dec 2026 | Nowadays | New York City |
 
 ## Recently played
@@ -26,4 +25,4 @@ Omar Ahmad is a techno and house artist based in United States of America, with 
 
 Saphe, otodojo, ACE
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/omarahmad/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/omarahmad/)*

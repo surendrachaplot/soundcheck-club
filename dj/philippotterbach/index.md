@@ -1,18 +1,18 @@
 # Philipp Otterbach
 
-Philipp Otterbach is a Experimental and Ambient artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Aula, Central on Sat, 14 Nov 2026.
+Philipp Otterbach is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Twist Bar, Prague on Fri, 27 Nov 2026.
 
-Philipp Otterbach is an experimental and ambient artist based in Germany, with 42 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Bristol and 15 more. Often billed alongside p/kstr, Benedikt Frey and DJ Absolutely Shit. Next up: Aula, Central on Sat 14 Nov.
+Philipp Otterbach is an experimental and ambient artist based in Germany, with 42 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Bristol and 15 more. Often billed alongside p/kstr, Benedikt Frey and DJ Absolutely Shit. Next up: Twist Bar, Prague on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Aula | Central |
 | Fri, 27 Nov 2026 | Twist Bar | Prague |
 
 ## Recently played
 
+- Aula, Central · Sat, 14 Nov 2026
 - kv.r., Vienna · Thu, 12 Nov 2026
 - TBA - Secret Location (Madrid), Madrid · Sat, 3 Oct 2026
 - The Lubber Fiend, Newcastle · Thu, 17 Sept 2026
@@ -20,10 +20,9 @@ Philipp Otterbach is an experimental and ambient artist based in Germany, with 4
 - TBA - Klingemühle, Berlin · Fri, 14 Aug 2026
 - Kwia, Berlin · Thu, 2 Jul 2026
 - ASIAT Park, Brussels · Thu, 14 May 2026
-- TBA, Montreal · Fri, 24 Apr 2026
 
 ## Shares bills with
 
 p/kstr, Benedikt Frey, DJ Absolutely Shit
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/philippotterbach/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/philippotterbach/)*

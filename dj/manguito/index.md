@@ -1,6 +1,6 @@
 # Manguito
 
-Manguito is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Green Room NYC, New York City on Sat, 12 Dec 2026.
+Manguito is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Green Room NYC, New York City on Sat, 12 Dec 2026.
 
 Manguito is a house and techno artist based in United States of America, with 22 gigs on soundcheck across New York City. Often billed alongside Ksenyeah, Alex Weremchuk and Griffin Maxwell Brooks. Next up: Green Room NYC, New York City on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Manguito is a house and techno artist based in United States of America, with 22
 
 Ksenyeah, Alex Weremchuk, Griffin Maxwell Brooks
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manguito/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manguito/)*

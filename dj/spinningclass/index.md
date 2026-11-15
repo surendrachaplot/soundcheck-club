@@ -1,6 +1,6 @@
 # Spinning Class
 
-Spinning Class is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Secret Location , Milan on Sat, 21 Nov 2026.
+Spinning Class is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA - Secret Location , Milan on Sat, 21 Nov 2026.
 
 Spinning Class is an electro and house artist based in Portugal, with 7 gigs on soundcheck across Copenhagen and Milan. Often billed alongside Dgeral, Entree and Frederik Tollund. Next up: TBA - Secret Location , Milan on Sat 21 Nov.
 
@@ -23,4 +23,4 @@ Spinning Class is an electro and house artist based in Portugal, with 7 gigs on 
 
 Dgeral, Entree, Frederik Tollund
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spinningclass/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spinningclass/)*

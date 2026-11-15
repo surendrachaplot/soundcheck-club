@@ -1,20 +1,21 @@
 # Roy Rosenfeld
 
-Roy Rosenfeld is a House and Progressive House artist with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at StereoBar, Montreal on Sat, 14 Nov 2026.
+Roy Rosenfeld is a Progressive House and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA - Lurín live / Lima, Perú., Peru on Sat, 21 Nov 2026.
 
-Roy Rosenfeld is a house and progressive house artist based in Czech Republic, with 140 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 36 more. Often billed alongside Sebastien Leger, Guy Mantzur and Lee Burridge. Next up: StereoBar, Montreal on Sat 14 Nov.
+Roy Rosenfeld is a progressive house and house artist based in Czech Republic, with 141 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 36 more. Often billed alongside Sebastien Leger, Guy Mantzur and Lee Burridge. Next up: TBA - Lurín live / Lima, Perú., Peru on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | StereoBar | Montreal |
 | Sat, 21 Nov 2026 | TBA - Lurín live / Lima, Perú. | Peru |
 | Sat, 12 Dec 2026 | Bikini Club | Barcelona |
 | Sat, 23 Jan 2027 | Kult | Belgrade |
+| Fri, 12 Feb 2027 | E1 | London |
 
 ## Recently played
 
+- StereoBar, Montreal · Sat, 14 Nov 2026
 - Upside, Florida · Fri, 13 Nov 2026
 - TBA - Private Location, San Diego · Sun, 1 Nov 2026
 - TBA - Downtown LA, Los Angeles · Sat, 31 Oct 2026
@@ -22,10 +23,9 @@ Roy Rosenfeld is a house and progressive house artist based in Czech Republic, w
 - Ijver, Amsterdam · Sun, 25 Oct 2026
 - WestWeelde, Amsterdam · Sat, 24 Oct 2026
 - Sonorama, Medellin · Sat, 17 Oct 2026
-- TBA -  Ex Hacienda de San Pablo de Enmedio, Mexico City · Fri, 16 Oct 2026
 
 ## Shares bills with
 
 Sebastien Leger, Guy Mantzur, Lee Burridge
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/royrosenfeld/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/royrosenfeld/)*

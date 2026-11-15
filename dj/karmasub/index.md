@@ -1,6 +1,6 @@
 # Karmasub
 
-Karmasub is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Bar Temp., Bangkok on Thu, 19 Nov 2026.
+Karmasub is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Bar Temp., Bangkok on Thu, 19 Nov 2026.
 
 Karmasub is a techno and electronica artist based in China, with 33 gigs on soundcheck across Bangkok, Chengdu, Chongqing and Shanghai. Often billed alongside Leonwill, Bugsy(CN) and Driva. Next up: Bar Temp., Bangkok on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Karmasub is a techno and electronica artist based in China, with 33 gigs on soun
 
 Leonwill, Bugsy(CN), Driva
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karmasub/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karmasub/)*

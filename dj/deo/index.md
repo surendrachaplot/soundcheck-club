@@ -1,6 +1,6 @@
 # Deo_
 
-Deo_ is a Funk / Soul and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at The Crescent, North on Sat, 28 Nov 2026.
+Deo_ is a Funk / Soul and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at The Crescent, North on Sat, 28 Nov 2026.
 
 Deo_ is a funk / soul and house artist based in United Kingdom, with 4 gigs on soundcheck across Leeds, London and North. Often billed alongside Allfield, B:Cam and Flo Ruby. Next up: The Crescent, North on Sat 28 Nov.
 
@@ -20,4 +20,4 @@ Deo_ is a funk / soul and house artist based in United Kingdom, with 4 gigs on s
 
 Allfield, B:Cam, Flo Ruby
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deo/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deo/)*

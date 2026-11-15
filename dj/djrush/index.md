@@ -1,14 +1,13 @@
 # DJ Rush
 
-DJ Rush is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
+DJ Rush is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 5 Dec 2026.
 
-DJ Rush is a techno and house artist based in United States of America, with 97 gigs on soundcheck across Amsterdam, Baden W Rttemberg, Barcelona and Basel and 38 more. Often billed alongside J.Fernandes, Alignment and Kobosil. Next up: Hungexpo Budapest, Budapest on Fri 13 Nov.
+DJ Rush is a techno and house artist based in United States of America, with 97 gigs on soundcheck across Amsterdam, Baden W Rttemberg, Barcelona and Basel and 38 more. Often billed alongside J.Fernandes, Alignment and Kobosil. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Hungexpo Budapest | Budapest |
 | Sat, 5 Dec 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 19 Dec 2026 | Karree | Baden-w-rttemberg |
 
@@ -27,4 +26,4 @@ DJ Rush is a techno and house artist based in United States of America, with 97 
 
 J.Fernandes, Alignment, Kobosil
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djrush/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djrush/)*

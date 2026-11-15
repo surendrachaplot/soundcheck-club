@@ -1,19 +1,19 @@
 # Marylou
 
-Marylou is a Experimental and Club artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - LFO, Madrid on Sat, 14 Nov 2026.
+Marylou is a Experimental and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 12 Dec 2026.
 
-Marylou is an experimental and club artist based in France, with 116 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 14 more. Often billed alongside Darwin, ophélie and Gavsborg. Next up: TBA - LFO, Madrid on Sat 14 Nov.
+Marylou is an experimental and club artist based in France, with 116 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 14 more. Often billed alongside Darwin, ophélie and Gavsborg. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | TBA - LFO | Madrid |
 | Sat, 12 Dec 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Thu, 17 Dec 2026 | OHM | Berlin |
 
 ## Recently played
 
+- TBA - LFO, Madrid · Sat, 14 Nov 2026
 - TBA, Berlin · Sun, 1 Nov 2026
 - Kantine am Berghain, Berlin · Wed, 28 Oct 2026
 - De Sering, Amsterdam · Fri, 23 Oct 2026
@@ -21,10 +21,9 @@ Marylou is an experimental and club artist based in France, with 116 gigs on sou
 - Ateliers Jeanne Barret, South-east · Fri, 2 Oct 2026
 - Panke, Berlin · Thu, 24 Sept 2026
 - TBA - Secret Location (near Frankfurter Allee), Berlin · Wed, 2 Sept 2026
-- Ormside Projects, London · Sat, 22 Aug 2026
 
 ## Shares bills with
 
 Darwin, ophélie, Gavsborg
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marylou/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marylou/)*

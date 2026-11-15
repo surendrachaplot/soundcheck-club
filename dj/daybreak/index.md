@@ -1,6 +1,6 @@
 # Daybreak
 
-Daybreak is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Pawnshop, Taipei on Fri, 20 Nov 2026.
+Daybreak is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Pawnshop, Taipei on Fri, 20 Nov 2026.
 
 Daybreak is a techno and trance artist based in United States of America, with 44 gigs on soundcheck across Bangkok, Beijing, Berlin and Boston and 6 more. Often billed alongside Telesforo, Volvox and Michelle Kay. Next up: Pawnshop, Taipei on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Daybreak is a techno and trance artist based in United States of America, with 4
 
 Telesforo, Volvox, Michelle Kay
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daybreak/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daybreak/)*

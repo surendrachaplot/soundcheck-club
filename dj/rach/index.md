@@ -1,6 +1,6 @@
 # RACH
 
-RACH is a Techno and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Sun, 15 Nov 2026.
+RACH is a Techno and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Sun, 15 Nov 2026.
 
 RACH is a techno and dubstep artist based in Colombia, with 25 gigs on soundcheck across Amsterdam, Bogotá, Brighton and London and 1 more. Often billed alongside Confidential Recipe, SKIN and Alex Bessofen. Next up: Kaputt Club / Proyecto Kinder, Bogotá on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ RACH is a techno and dubstep artist based in Colombia, with 25 gigs on soundchec
 
 Confidential Recipe, SKIN, Alex Bessofen
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rach/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rach/)*

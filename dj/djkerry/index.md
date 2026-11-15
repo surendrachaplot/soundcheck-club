@@ -1,18 +1,20 @@
 # Dj Kerry
 
-Dj Kerry is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat, 14 Nov 2026.
+Dj Kerry is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat, 14 Nov 2026.
 
-Dj Kerry is a house and disco artist based in United States of America, with 55 gigs on soundcheck across Ho Chi Minh City, Los Angeles, New York City and Osaka and 2 more. Often billed alongside Stacy Christine, Heidi Lawden and Masha Mar. Next up: TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat 14 Nov.
+Dj Kerry is a house and disco artist based in United States of America, with 56 gigs on soundcheck across Ho Chi Minh City, Los Angeles, New York City and Osaka and 2 more. Often billed alongside Stacy Christine, Heidi Lawden and Masha Mar. Next up: TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | TBA - 2341 E Olympic Blvd Los Angeles, CA  90021 | Los Angeles |
+| Sat, 28 Nov 2026 | TBA - Los Angeles | Los Angeles |
 | Thu, 31 Dec 2026 | Belasco Theater | Los Angeles |
 
 ## Recently played
 
+- TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles · Sat, 14 Nov 2026
 - TBA, Los Angeles · Fri, 6 Nov 2026
 - TBA, Los Angeles · Fri, 23 Oct 2026
 - TBA - address will be sent to ticket holders, Los Angeles · Sat, 10 Oct 2026
@@ -20,10 +22,9 @@ Dj Kerry is a house and disco artist based in United States of America, with 55 
 - The Bridge, Los Angeles · Sat, 18 Jul 2026
 - The Escondite (The Hideout), Los Angeles · Sun, 12 Jul 2026
 - Gateway Mendocino, San Francisco/Oakland · Thu, 18 Jun 2026
-- TBA - Downtown Los Angeles, Los Angeles · Fri, 8 May 2026
 
 ## Shares bills with
 
 Stacy Christine, Heidi Lawden, Masha Mar
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djkerry/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djkerry/)*

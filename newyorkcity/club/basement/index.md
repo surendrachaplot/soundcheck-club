@@ -1,14 +1,13 @@
 # BASEMENT
 
-BASEMENT is a music venue in New York City with 9 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Pornceptual: The Lady Machine/ Huamaniser/ KONZ/ LYDO/ Curses/ Kim Ann Foxman / Shaun J. Wright" on Sat, 14 Nov 2026.
+BASEMENT is a music venue in New York City with 8 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Lady Starlight live / Amotik / Nymph / Courtesy / Meilgaarden / Giovannii" on Fri, 20 Nov 2026.
 
-BASEMENT is a music venue in New York City listed on soundcheck. 9 upcoming gigs, with line-ups including LYDO, AMORAL, Amotik and Cormac and 2 more. See dates, start times and who's playing. 52-19 Flushing Ave., Maspeth, NY 11378 USA.
+BASEMENT is a music venue in New York City listed on soundcheck. 8 upcoming gigs, with line-ups including AMORAL, Amotik, Cormac and Courtesy and 2 more. See dates, start times and who's playing. 52-19 Flushing Ave., Maspeth, NY 11378 USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Pornceptual: The Lady Machine/ Huamaniser/ KONZ/ LYDO/ Curses/ Kim Ann Foxman / Shaun J. Wright | Curses, Huamaniser, KONZ, Kim Ann Foxman, LYDO, Shaun J. Wright, The Lady Machine |
 | Fri, 20 Nov 2026 | Lady Starlight live / Amotik / Nymph / Courtesy / Meilgaarden / Giovannii | Amotik, Courtesy, Giovannii, Lady Starlight, Meilgaarden, Nymph (NY) |
 | Sat, 21 Nov 2026 | Function b2b Nastia Reigel / NEUX / Juana / Cormac / x3butterfly / Will Automagic | Cormac, Function, Juana, NEUX, Will Automagic, x3butterfly |
 | Fri, 4 Dec 2026 | Eerste Communie: MARRØN / AMORAL / Hitam / Gabrielle Kwarteng / Matas / Still Agua | AMORAL, Gabrielle Kwarteng, Hitam, MARRØN, Matas, Still Agua |
@@ -22,4 +21,4 @@ BASEMENT is a music venue in New York City listed on soundcheck. 9 upcoming gigs
 
 52-19 Flushing Ave., Maspeth, NY 11378 USA, New York City
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/basement/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/basement/)*

@@ -1,15 +1,13 @@
 # Verraco
 
-Verraco is a Techno and Bass artist with 13 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA, Amsterdam on Fri, 13 Nov 2026.
+Verraco is a Techno and Bass artist with 11 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Pisces, Atlanta on Fri, 20 Nov 2026.
 
-Verraco is a techno and bass artist based in Colombia, with 185 gigs on soundcheck across Amsterdam, Athens, Atlanta and Baltimore and 54 more. Often billed alongside Bitter Babe, Batu and CCL. Next up: TBA, Amsterdam on Fri 13 Nov.
+Verraco is a techno and bass artist based in Colombia, with 185 gigs on soundcheck across Amsterdam, Athens, Atlanta and Baltimore and 54 more. Often billed alongside Bitter Babe, Batu and CCL. Next up: Pisces, Atlanta on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | TBA | Amsterdam |
-| Sat, 14 Nov 2026 | Sawmills | Bristol |
 | Fri, 20 Nov 2026 | Pisces | Atlanta |
 | Sat, 21 Nov 2026 | Flash | Washington DC |
 | Sat, 5 Dec 2026 | TBA | Mexico City |
@@ -20,9 +18,11 @@ Verraco is a techno and bass artist based in Colombia, with 185 gigs on soundche
 | Thu, 18 Feb 2027 | Bozar | Brussels |
 | Fri, 5 Mar 2027 | Moyston | Melbourne |
 | Fri, 28 May 2027 | Peckham Rye Park | London |
+| Thu, 19 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 
+- Sawmills, Bristol · Sat, 14 Nov 2026
 - TBA, Amsterdam · Fri, 13 Nov 2026
 - Nowadays, New York City · Sat, 7 Nov 2026
 - Marble Bar, Detroit · Fri, 6 Nov 2026
@@ -30,10 +30,9 @@ Verraco is a techno and bass artist based in Colombia, with 185 gigs on soundche
 - Hive Club, Zurich · Fri, 30 Oct 2026
 - Radio Radio, Amsterdam · Sat, 24 Oct 2026
 - Bajes Amsterdam, Amsterdam · Fri, 23 Oct 2026
-- Nitsa Club, Barcelona · Sat, 17 Oct 2026
 
 ## Shares bills with
 
 Bitter Babe, Batu, CCL
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/verraco/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/verraco/)*

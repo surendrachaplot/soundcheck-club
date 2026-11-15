@@ -1,6 +1,6 @@
 # Felicity Mangan
 
-Felicity Mangan is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Berlin Museum : Nikolaikirche, Berlin on Thu, 19 Nov 2026.
+Felicity Mangan is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Berlin Museum : Nikolaikirche, Berlin on Thu, 19 Nov 2026.
 
 Felicity Mangan is an experimental and electronica artist based in Germany, with 8 gigs on soundcheck across Berlin and Dortmund / Essen. Often billed alongside Martina Bertoni, Nilgün Özer and Aude. Next up: Berlin Museum : Nikolaikirche, Berlin on Thu 19 Nov.
 
@@ -24,4 +24,4 @@ Felicity Mangan is an experimental and electronica artist based in Germany, with
 
 Martina Bertoni, Nilgün Özer, Aude
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/felicitymangan/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/felicitymangan/)*

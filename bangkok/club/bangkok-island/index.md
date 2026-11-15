@@ -1,14 +1,13 @@
 # Bangkok Island
 
-Bangkok Island is a music venue in Bangkok with 6 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "GAIA MAMA" on Sat, 14 Nov 2026.
+Bangkok Island is a music venue in Bangkok with 5 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "DJ Community" on Wed, 18 Nov 2026.
 
-Bangkok Island is a music venue in Bangkok listed on soundcheck. 6 upcoming gigs, with line-ups including Katya and Selecta (ES). See dates, start times and who's playing. 499/1 Talat Chong Nonsi Alley, Chong Nonsi, Yan Nawa, Bangkok 10120.
+Bangkok Island is a music venue in Bangkok listed on soundcheck. 5 upcoming gigs, with line-ups including Selecta (ES). See dates, start times and who's playing. 499/1 Talat Chong Nonsi Alley, Chong Nonsi, Yan Nawa, Bangkok 10120.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | GAIA MAMA | Katya |
 | Wed, 18 Nov 2026 | DJ Community |  |
 | Thu, 19 Nov 2026 | Playground Open Mic Cypher |  |
 | Fri, 20 Nov 2026 | Art island |  |
@@ -19,4 +18,4 @@ Bangkok Island is a music venue in Bangkok listed on soundcheck. 6 upcoming gigs
 
 499/1 Talat Chong Nonsi Alley, Chong Nonsi, Yan Nawa, Bangkok 10120, Bangkok
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/bangkok-island/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/bangkok-island/)*

@@ -1,14 +1,13 @@
 # Russell Industrial Center
 
-Russell Industrial Center is a music venue in Detroit with 5 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Layton Giordani presents MADMINDS" on Sat, 14 Nov 2026.
+Russell Industrial Center is a music venue in Detroit with 4 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "it's murph - Fade Into Nothing Tour" on Fri, 20 Nov 2026.
 
-Russell Industrial Center is a music venue in Detroit listed on soundcheck. 5 upcoming gigs, with line-ups including Annicka, DJ SPHiNX, Layton Giordani and Nils Hoffmann and 1 more. See dates, start times and who's playing. 1600 Clay Street; Detroit; Michigan; 48211.
+Russell Industrial Center is a music venue in Detroit listed on soundcheck. 4 upcoming gigs, with line-ups including Nils Hoffmann and Wiley. See dates, start times and who's playing. 1600 Clay Street; Detroit; Michigan; 48211.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Layton Giordani presents MADMINDS | Annicka, DJ SPHiNX, Layton Giordani |
 | Fri, 20 Nov 2026 | it's murph - Fade Into Nothing Tour | Nils Hoffmann |
 | Fri, 4 Dec 2026 | SIDEPIECE‍ |  |
 | Fri, 22 Jan 2027 | AYYBO |  |
@@ -18,4 +17,4 @@ Russell Industrial Center is a music venue in Detroit listed on soundcheck. 5 up
 
 1600 Clay Street; Detroit; Michigan; 48211, Detroit
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/russell-industrial-center/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/russell-industrial-center/)*

@@ -1,14 +1,13 @@
 # Den Anden Side
 
-Den Anden Side is a music venue in Copenhagen with 9 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Seaworld" on Sat, 14 Nov 2026.
+Den Anden Side is a music venue in Copenhagen with 8 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "International Transgender day of Remembrance by BASH IS BACK" on Fri, 20 Nov 2026.
 
-Den Anden Side is a music venue in Copenhagen listed on soundcheck. 9 upcoming gigs, with line-ups including Amphia, Anders Horse, Asta Fugazi and avoN and 2 more. See dates, start times and who's playing. Axeltorv 5 1609 Copenhagen, Denmark.
+Den Anden Side is a music venue in Copenhagen listed on soundcheck. 8 upcoming gigs, with line-ups including Amphia, Asta Fugazi, Baltza and BAUGRUPPE90 and 2 more. See dates, start times and who's playing. Axeltorv 5 1609 Copenhagen, Denmark.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Seaworld | Anders Horse, DJ SWISHERMAN, Johannes Astrup, Minimy, Tamara, avoN |
 | Fri, 20 Nov 2026 | International Transgender day of Remembrance by BASH IS BACK | Baltza, DJ Woo Girl, Delove, Dgeral, Gavnlig, Immy |
 | Sat, 21 Nov 2026 | GAGxDAS XXXVII | Amphia, DRAHO, Gloria Rose, Hasvat Informant, Matriark, Milo Makua, dj Joe |
 | Fri, 27 Nov 2026 | One Dragon Service with CEM & DJ TOOL | CEM, DJ TOOL |
@@ -22,4 +21,4 @@ Den Anden Side is a music venue in Copenhagen listed on soundcheck. 9 upcoming g
 
 Axeltorv 5 1609 Copenhagen, Denmark, Copenhagen
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/den-anden-side/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/den-anden-side/)*

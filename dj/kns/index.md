@@ -1,6 +1,6 @@
 # kNS
 
-kNS is a Drum & Bass and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at DJ Bar Bridge, Tokyo on Mon, 25 Jan 2027.
+kNS is a Drum & Bass and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at DJ Bar Bridge, Tokyo on Mon, 25 Jan 2027.
 
 kNS is a drum & bass and house artist based in Spain, with 6 gigs on soundcheck across Madrid and Tokyo. Often billed alongside Irazu, MÄEM and TKNS. Next up: DJ Bar Bridge, Tokyo on Mon 25 Jan.
 
@@ -22,4 +22,4 @@ kNS is a drum & bass and house artist based in Spain, with 6 gigs on soundcheck 
 
 Irazu, MÄEM, TKNS
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kns/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kns/)*

@@ -1,6 +1,6 @@
 # rodkoral
 
-rodkoral is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Sun, 15 Nov 2026.
+rodkoral is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Sun, 15 Nov 2026.
 
 rodkoral is an electro and techno artist based in Colombia, with 27 gigs on soundcheck across Bogotá and Medellin. Often billed alongside Cybernea, Owldisco and Andrea Arias. Next up: Kaputt Club / Proyecto Kinder, Bogotá on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ rodkoral is an electro and techno artist based in Colombia, with 27 gigs on soun
 
 Cybernea, Owldisco, Andrea Arias
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rodkoral/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rodkoral/)*

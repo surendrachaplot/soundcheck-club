@@ -1,6 +1,6 @@
 # Lau.tastic
 
-Lau.tastic is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Depo Klub, Zagreb on Sat, 21 Nov 2026.
+Lau.tastic is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Depo Klub, Zagreb on Sat, 21 Nov 2026.
 
 Lau.tastic is a techno and industrial artist based in United Kingdom, with 98 gigs on soundcheck across Amsterdam, Berlin, Birmingham and Brighton and 8 more. Often billed alongside Dres Codex, Labåzuy and KASTILO. Next up: Depo Klub, Zagreb on Sat 21 Nov.
 
@@ -28,4 +28,4 @@ Lau.tastic is a techno and industrial artist based in United Kingdom, with 98 gi
 
 Dres Codex, Labåzuy, KASTILO
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lautastic/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lautastic/)*

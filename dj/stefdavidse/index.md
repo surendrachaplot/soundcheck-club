@@ -1,14 +1,13 @@
 # Stef Davidse
 
-Stef Davidse is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at The Golden Sheaf, New-south-wales on Sat, 14 Nov 2026.
+Stef Davidse is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 27 Nov 2026.
 
-Stef Davidse is a house and tech house artist based in Netherlands, with 108 gigs on soundcheck across Amsterdam, Bali, Barcelona and Birmingham and 19 more. Often billed alongside Ryan Resso, Chopper (UK) and FINKY. Next up: The Golden Sheaf, New South Wales on Sat 14 Nov.
+Stef Davidse is a house and tech house artist based in Netherlands, with 108 gigs on soundcheck across Amsterdam, Bali, Barcelona and Birmingham and 19 more. Often billed alongside Ryan Resso, Chopper (UK) and FINKY. Next up: Shelter Amsterdam, Amsterdam on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | The Golden Sheaf | New-south-wales |
 | Fri, 27 Nov 2026 | Shelter Amsterdam | Amsterdam |
 | Sun, 6 Dec 2026 | Madam | Amsterdam |
 | Mon, 7 Dec 2026 | The Loft | Vienna |
@@ -17,6 +16,7 @@ Stef Davidse is a house and tech house artist based in Netherlands, with 108 gig
 
 ## Recently played
 
+- The Golden Sheaf, New-south-wales · Sat, 14 Nov 2026
 - Glamorama, Melbourne · Fri, 13 Nov 2026
 - The Back Room, Bali · Sat, 7 Nov 2026
 - Maassilo, Rotterdam · Sat, 31 Oct 2026
@@ -24,10 +24,9 @@ Stef Davidse is a house and tech house artist based in Netherlands, with 108 gig
 - Db55, Amsterdam · Sat, 24 Oct 2026
 - TBA - AMSTERDAM BARBER COMPANY, Amsterdam · Sat, 24 Oct 2026
 - Club Up, Amsterdam · Thu, 22 Oct 2026
-- Tropeninstituut: Koninklijk Instituut Voor de Tropen, Amsterdam · Wed, 21 Oct 2026
 
 ## Shares bills with
 
 Ryan Resso, Chopper (UK), FINKY
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stefdavidse/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stefdavidse/)*

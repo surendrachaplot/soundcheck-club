@@ -1,14 +1,13 @@
 # EKKO
 
-EKKO is a music venue in Utrecht with 16 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Blue Saturday" on Sat, 14 Nov 2026.
+EKKO is a music venue in Utrecht with 15 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Bus 12" on Thu, 19 Nov 2026.
 
-EKKO is a music venue in Utrecht listed on soundcheck. 16 upcoming gigs, with line-ups including David Vunk, Ineffekt, Jolani Jhones and Razzmic. See dates, start times and who's playing. Bemuurde Weerd WZ 3, 3513 BH, Utrecht, Netherlands.
+EKKO is a music venue in Utrecht listed on soundcheck. 15 upcoming gigs, with line-ups including David Vunk, Ineffekt, Jolani Jhones and Razzmic. See dates, start times and who's playing. Bemuurde Weerd WZ 3, 3513 BH, Utrecht, Netherlands.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Blue Saturday |  |
 | Thu, 19 Nov 2026 | Bus 12 |  |
 | Fri, 20 Nov 2026 | Diep In De Groef |  |
 | Sat, 21 Nov 2026 | DOTS | Jolani Jhones |
@@ -18,9 +17,10 @@ EKKO is a music venue in Utrecht listed on soundcheck. 16 upcoming gigs, with li
 | Thu, 3 Dec 2026 | Bus 12 |  |
 | Fri, 4 Dec 2026 | Diep In De Groef |  |
 | Sat, 5 Dec 2026 | Social Dance Club Night |  |
+| Sun, 6 Dec 2026 | Club Weeb |  |
 
 ## Address
 
 Bemuurde Weerd WZ 3, 3513 BH, Utrecht, Netherlands, Utrecht
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/ekko/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/ekko/)*

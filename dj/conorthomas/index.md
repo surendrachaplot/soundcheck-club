@@ -1,20 +1,20 @@
 # Conor Thomas
 
-Conor Thomas is a EBM and Industrial artist with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at 09h30-05h30, Antwerp on Sat, 14 Nov 2026.
+Conor Thomas is a EBM and Industrial artist with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at EXIT Glasgow, Glasgow on Fri, 27 Nov 2026.
 
-Conor Thomas is an ebm and industrial artist based in United Kingdom, with 59 gigs on soundcheck across Antwerp, Berlin, Bristol and Glasgow and 4 more. Often billed alongside Faux Naif, Anna Gray and Annabel Fraser. Next up: 09h30-05h30, Antwerp on Sat 14 Nov.
+Conor Thomas is an ebm and industrial artist based in United Kingdom, with 59 gigs on soundcheck across Antwerp, Berlin, Bristol and Glasgow and 4 more. Often billed alongside Faux Naif, Anna Gray and Annabel Fraser. Next up: EXIT Glasgow, Glasgow on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | 09h30-05h30 | Antwerp |
 | Fri, 27 Nov 2026 | EXIT Glasgow | Glasgow |
 | Fri, 4 Dec 2026 | The White Hotel | Manchester |
 | Sat, 12 Dec 2026 | The White Hotel | Manchester |
 
 ## Recently played
 
+- 09h30-05h30, Antwerp · Sat, 14 Nov 2026
 - The Globe, Glossop, Manchester · Sat, 7 Nov 2026
 - Kapsule, Liverpool · Sat, 17 Oct 2026
 - The White Hotel, Manchester · Thu, 10 Sept 2026
@@ -22,10 +22,9 @@ Conor Thomas is an ebm and industrial artist based in United Kingdom, with 59 gi
 - EXIT Glasgow, Glasgow · Sat, 23 May 2026
 - The White Hotel, Manchester · Thu, 16 Apr 2026
 - Various Venues, Bristol, Bristol · Sat, 11 Apr 2026
-- The White Hotel, Manchester · Sat, 21 Mar 2026
 
 ## Shares bills with
 
 Faux Naif, Anna Gray, Annabel Fraser
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/conorthomas/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/conorthomas/)*

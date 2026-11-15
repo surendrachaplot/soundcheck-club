@@ -1,14 +1,13 @@
 # Nora En Pure
 
-Nora En Pure is a Deep House and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Audio SF, San Francisco/Oakland on Sat, 14 Nov 2026.
+Nora En Pure is a Deep House and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA - Social Dayclub Sacramento, California on Sun, 15 Nov 2026.
 
-Nora En Pure is a deep house and house artist based in South Africa, with 167 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 47 more. Often billed alongside Paradoks, Corren Cavini and Claptone. Next up: Audio SF, San Francisco/Oakland on Sat 14 Nov.
+Nora En Pure is a deep house and house artist based in South Africa, with 167 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 47 more. Often billed alongside Paradoks, Corren Cavini and Claptone. Next up: TBA - Social Dayclub Sacramento, California on Sun 15 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Audio SF | San Francisco/Oakland |
 | Sun, 15 Nov 2026 | TBA - Social Dayclub Sacramento | California |
 | Fri, 20 Nov 2026 | TBA | Buenos Aires |
 | Fri, 11 Dec 2026 | Armature Works Riverfront | Florida |
@@ -17,6 +16,7 @@ Nora En Pure is a deep house and house artist based in South Africa, with 167 gi
 
 ## Recently played
 
+- Audio SF, San Francisco/Oakland · Sat, 14 Nov 2026
 - Lunchbox, Atlanta · Fri, 13 Nov 2026
 - TBA - Archi Club, Costanera, Buenos Aires · Sat, 7 Nov 2026
 - Factory Town, Miami · Fri, 30 Oct 2026
@@ -24,10 +24,9 @@ Nora En Pure is a deep house and house artist based in South Africa, with 167 gi
 - Oceandiva Original, Netherlands · Fri, 23 Oct 2026
 - Piknic Électronik / Parc Jean Drapeau, Montreal · Sat, 10 Oct 2026
 - Electric Bristol, Bristol · Fri, 2 Oct 2026
-- TBA, Melbourne · Sat, 19 Sept 2026
 
 ## Shares bills with
 
 Paradoks, Corren Cavini, Claptone
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noraenpure/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noraenpure/)*

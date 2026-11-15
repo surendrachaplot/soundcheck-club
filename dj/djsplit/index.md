@@ -1,18 +1,18 @@
 # DJ Split
 
-DJ Split is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Club Cheek, London on Sat, 14 Nov 2026.
+DJ Split is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 21 Nov 2026.
 
-DJ Split is a house and techno artist based in Germany, with 25 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 14 more. Often billed alongside A For Alpha, Archie Hamilton and Benji King. Next up: Club Cheek, London on Sat 14 Nov.
+DJ Split is a house and techno artist based in Germany, with 25 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 14 more. Often billed alongside A For Alpha, Archie Hamilton and Benji King. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Club Cheek | London |
 | Sat, 21 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 
 ## Recently played
 
+- Club Cheek, London · Sat, 14 Nov 2026
 - The Cause, London · Sat, 7 Nov 2026
 - The Cause, London · Sun, 1 Nov 2026
 - Dalston Superstore, London · Thu, 24 Sept 2026
@@ -20,10 +20,9 @@ DJ Split is a house and techno artist based in Germany, with 25 gigs on soundche
 - RSO.BERLIN, Berlin · Sat, 12 Sept 2026
 - Bar Datcha, Montreal · Sat, 5 Sept 2026
 - Standard Time, Toronto · Fri, 4 Sept 2026
-- Refuge, New York City · Sat, 29 Aug 2026
 
 ## Shares bills with
 
 A For Alpha, Archie Hamilton, Benji King
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsplit/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsplit/)*

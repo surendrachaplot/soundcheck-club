@@ -1,6 +1,6 @@
 # TINDRA
 
-TINDRA is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Golden Gate, Berlin on Sat, 14 Nov 2026.
+TINDRA is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Golden Gate, Berlin on Sat, 14 Nov 2026.
 
 TINDRA is a house and minimal artist based in Sweden, with 43 gigs on soundcheck across Barcelona, Berlin, Copenhagen and Gothenburg and 3 more. Often billed alongside Pentti Igor, Per Hammar and ENNA. Next up: Golden Gate, Berlin on Sat 14 Nov.
 
@@ -12,6 +12,7 @@ TINDRA is a house and minimal artist based in Sweden, with 43 gigs on soundcheck
 
 ## Recently played
 
+- Golden Gate, Berlin · Sat, 14 Nov 2026
 - Under Bron, Stockholm · Fri, 6 Nov 2026
 - Inkonst, Malmo · Sat, 26 Sept 2026
 - Kater, Berlin · Sat, 19 Sept 2026
@@ -19,10 +20,9 @@ TINDRA is a house and minimal artist based in Sweden, with 43 gigs on soundcheck
 - Golden Gate, Berlin · Fri, 11 Sept 2026
 - Hangaren, Copenhagen · Thu, 27 Aug 2026
 - Vaganza Beachgarden, Malmo · Fri, 21 Aug 2026
-- Hangaren, Copenhagen · Sat, 8 Aug 2026
 
 ## Shares bills with
 
 Pentti Igor, Per Hammar, ENNA
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tindra/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tindra/)*

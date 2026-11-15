@@ -1,14 +1,13 @@
 # Surgeon
 
-Surgeon is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at SMUT Athens, Athens on Sat, 14 Nov 2026.
+Surgeon is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Studionotte, Milan on Sat, 21 Nov 2026.
 
-Surgeon is a techno and house artist based in United Kingdom, with 138 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 40 more. Often billed alongside Speedy J, DJ Pete and Regis. Next up: SMUT Athens, Athens on Sat 14 Nov.
+Surgeon is a techno and house artist based in United Kingdom, with 138 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 40 more. Often billed alongside Speedy J, DJ Pete and Regis. Next up: Studionotte, Milan on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | SMUT Athens | Athens |
 | Sat, 21 Nov 2026 | Studionotte | Milan |
 | Sat, 28 Nov 2026 | Tresor / Globus | Berlin |
 | Fri, 11 Dec 2026 | Lanna Club | North |
@@ -19,6 +18,7 @@ Surgeon is a techno and house artist based in United Kingdom, with 138 gigs on s
 
 ## Recently played
 
+- SMUT Athens, Athens · Sat, 14 Nov 2026
 - Cité du Design Saint Etienne, Central · Fri, 6 Nov 2026
 - Open Ground, Wuppertal · Sat, 31 Oct 2026
 - Berghain | Panorama Bar | Säule, Berlin · Fri, 30 Oct 2026
@@ -26,10 +26,9 @@ Surgeon is a techno and house artist based in United Kingdom, with 138 gigs on s
 - The Bassement, Madrid · Sat, 3 Oct 2026
 - Laboral Ciudad de la Cultura, North · Fri, 25 Sept 2026
 - Else, Berlin · Sun, 20 Sept 2026
-- Tresor / Globus, Berlin · Sat, 12 Sept 2026
 
 ## Shares bills with
 
 Speedy J, DJ Pete, Regis
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/surgeon/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/surgeon/)*

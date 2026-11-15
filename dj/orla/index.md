@@ -1,6 +1,6 @@
 # Or:la
 
-Or:la is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at RSO.BERLIN, Berlin on Sat, 14 Nov 2026.
+Or:la is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at RSO.BERLIN, Berlin on Sat, 14 Nov 2026.
 
 Or:la is a techno and house artist based in Ireland, with 132 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 32 more. Often billed alongside Amaliah, Pariah and Objekt. Next up: RSO.BERLIN, Berlin on Sat 14 Nov.
 
@@ -15,6 +15,7 @@ Or:la is a techno and house artist based in Ireland, with 132 gigs on soundcheck
 
 ## Recently played
 
+- RSO.BERLIN, Berlin · Sat, 14 Nov 2026
 - Palais, London · Sat, 7 Nov 2026
 - block., Dublin · Sat, 31 Oct 2026
 - Quarry, Liverpool · Sat, 17 Oct 2026
@@ -22,10 +23,9 @@ Or:la is a techno and house artist based in Ireland, with 132 gigs on soundcheck
 - La Cheetah Club, Glasgow · Sat, 19 Sept 2026
 - The Roses of Elagabalus, London · Thu, 27 Aug 2026
 - FOLD, London · Fri, 14 Aug 2026
-- La Pinilla Ski Resort, Madrid · Mon, 10 Aug 2026
 
 ## Shares bills with
 
 Amaliah, Pariah, Objekt
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/orla/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/orla/)*

@@ -1,14 +1,13 @@
 # Fabrik
 
-Fabrik is a music venue in Madrid with 8 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "CODE 23 Anniversary: La Trilogía [Part II]" on Sat, 14 Nov 2026.
+Fabrik is a music venue in Madrid with 7 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "150 with Dimitri Vegas in Fabrik" on Sat, 21 Nov 2026.
 
-Fabrik is a music venue in Madrid listed on soundcheck. 8 upcoming gigs, with line-ups including 999999999, Paolo Ferrara, Abel Ramos and Adrian Mills and 2 more. See dates, start times and who's playing. Av. de la Industria 82, 28970 Humanes de Madrid, Spain.
+Fabrik is a music venue in Madrid listed on soundcheck. 7 upcoming gigs, with line-ups including 999999999, Abel Ramos, Adrian Mills and Akira and 2 more. See dates, start times and who's playing. Av. de la Industria 82, 28970 Humanes de Madrid, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | CODE 23 Anniversary: La Trilogía [Part II] | Alienata, BIIA, BLANKA, Boris S., CESAR ALMENA, CRAVO, David Meiser, Efdemin, Frank Kvitta, Freddy K, Grace Dahl, Héctor Oaks, Insolate, Marcal, Mario Ranieri, Nuke, Onlynumbers, PETDuo, Paolo Ferrara, Parfait, Polygonia, Rebecca Delle Piane, Rebekah, Temudo, franck |
 | Sat, 21 Nov 2026 | 150 with Dimitri Vegas in Fabrik |  |
 | Sat, 28 Nov 2026 | MAKINEROS XXL Winter Edition | Alex T (UK), DJ Marta, Da Terror, Day-Mar, Juanma (CL), Marian Dacal, Netherworld |
 | Sat, 5 Dec 2026 | CODE 23 Anniversary: La Trilogía [Part III] | 999999999, BENZA, Ben Sims, Boston 168, Candy Cox, Chlär, Chontane, Cloudy, Colin Benders, DAX J, DYEN, Dave Clarke, Disguised, Exos, Flug, Franzizca., HERMETICA, James Ruskin, Lewis Fautzi, Montero, Neon Graveyard, Nuke, OGUZ, Patrick Mason, Paula Cazenave, Quest, SHDW, Vilchezz, ÜBERKIKZ |
@@ -21,4 +20,4 @@ Fabrik is a music venue in Madrid listed on soundcheck. 8 upcoming gigs, with li
 
 Av. de la Industria 82, 28970 Humanes de Madrid, Spain, Madrid
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/fabrik/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/fabrik/)*

@@ -1,6 +1,6 @@
 # Kollektiv Turmstrasse (DE / Live) / The Villa at The Villa
 
-Kollektiv Turmstrasse (DE / Live) / The Villa on Fri 12 Feb, Oslo. 1 artist: Kollektiv Turmstrasse. See the line-up on soundcheck.
+Kollektiv Turmstrasse (DE / Live) / The Villa on Fri 12 Feb, Oslo. 1 artist: Kollektiv Turmstrasse. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

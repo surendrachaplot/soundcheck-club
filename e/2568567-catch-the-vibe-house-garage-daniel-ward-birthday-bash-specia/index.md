@@ -1,11 +1,11 @@
-# Catch The Vibe - House & Garage - Daniel Ward Birthday Bash Special at [ Loading BAY ]
+# Catch The Vibe - House & Garage - Daniel Ward Birthday Bash Special at UNLOCKED
 
-Catch The Vibe - House & Garage - Daniel Ward Birthday Bash Special at [ Loading BAY ] on Sat 21 Nov, London. 3 artists: Daniel Ward, Hermit and Rocket Dubz. House and Garage. See the line-up on soundcheck.
+Catch The Vibe - House & Garage - Daniel Ward Birthday Bash Special at UNLOCKED on Sat 21 Nov, London. 3 artists: Daniel Ward, Hermit and Rocket Dubz. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 21 Nov 2026 |
-| Venue | [ Loading BAY ] |
+| Venue | UNLOCKED |
 | City | London |
 
 ## Line-up

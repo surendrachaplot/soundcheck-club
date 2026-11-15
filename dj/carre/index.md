@@ -1,20 +1,20 @@
 # Carré
 
-Carré is a Bass and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at P0rtal, Rhode-island on Sat, 14 Nov 2026.
+Carré is a Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at La Cheetah Club, Glasgow on Sat, 28 Nov 2026.
 
-Carré is a bass and techno artist based in United States of America, with 85 gigs on soundcheck across Amsterdam, Berlin, Bratislava and Brighton and 25 more. Often billed alongside Samwise (US), Darwin and Seyer (UK). Next up: P0rtal, Rhode Island on Sat 14 Nov.
+Carré is a bass and techno artist based in United States of America, with 85 gigs on soundcheck across Amsterdam, Berlin, Bratislava and Brighton and 25 more. Often billed alongside Samwise (US), Darwin and Seyer (UK). Next up: La Cheetah Club, Glasgow on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | P0rtal | Rhode-island |
 | Sat, 28 Nov 2026 | La Cheetah Club | Glasgow |
 | Thu, 17 Jun 2027 | Medane Beach | Croatia |
 | Thu, 22 Jul 2027 | The Garden Tisno | London |
 
 ## Recently played
 
+- P0rtal, Rhode-island · Sat, 14 Nov 2026
 - Nowadays, New York City · Fri, 13 Nov 2026
 - TBA - Address revealed to ticket holders day of show, Denver · Sat, 7 Nov 2026
 - Yamamori Tengu, Dublin · Sun, 25 Oct 2026
@@ -22,10 +22,9 @@ Carré is a bass and techno artist based in United States of America, with 85 gi
 - DRUMSHEDS, London · Sat, 17 Oct 2026
 - Podlasie Club, Chicago · Sat, 10 Oct 2026
 - SideQuest on 44th, Pittsburgh · Fri, 9 Oct 2026
-- The Loom, San Francisco/Oakland · Fri, 2 Oct 2026
 
 ## Shares bills with
 
 Samwise (US), Darwin, Seyer (UK)
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carre/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carre/)*

@@ -1,8 +1,8 @@
 # Final
 
-Final is a music venue in Taipei with 10 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "PURE G: Animistic Beliefs" on Sat, 21 Nov 2026.
+Final is a music venue in Taipei with 10 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "PURE G: Animistic Beliefs" on Sat, 21 Nov 2026.
 
-Final is a music venue in Taipei listed on soundcheck. 10 upcoming gigs, with line-ups including Andriy K., Animistic Beliefs, Async Figure and Batu and 2 more. See dates, start times and who's playing. 10666, Taiwan, Taipei City, Da’an District, Section 1, Fuxing South Road, 249號號地下一樓.
+Final is a music venue in Taipei listed on soundcheck. 10 upcoming gigs, with line-ups including AKU, Andriy K., Animistic Beliefs and Async Figure and 2 more. See dates, start times and who's playing. 10666, Taiwan, Taipei City, Da’an District, Section 1, Fuxing South Road, 249號號地下一樓.
 
 ## What's on
 
@@ -17,10 +17,10 @@ Final is a music venue in Taipei listed on soundcheck. 10 upcoming gigs, with li
 | Sat, 19 Dec 2026 | PURE G: Kangding Ray | Kangding Ray |
 | Fri, 25 Dec 2026 | Saint Ludo | Saint Ludo |
 | Thu, 31 Dec 2026 | Final NYE 2027: DJ MELL G | DJ MELL G |
-| Sat, 2 Jan 2027 | PRIMA MATERIA - 混元凝聲 | Andriy K., KINRO |
+| Sat, 2 Jan 2027 | Twilight Rhythm — PRIMA MATERIA : 混元凝聲 | AKU (6), Andriy K., KINRO |
 
 ## Address
 
 10666, Taiwan, Taipei City, Da’an District, Section 1, Fuxing South Road, 249號號地下一樓, Taipei
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/taipei/club/final/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/taipei/club/final/)*

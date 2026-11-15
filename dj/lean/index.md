@@ -1,6 +1,6 @@
 # lean
 
-lean is a Electro and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA, Rome on Sat, 5 Dec 2026.
+lean is a Electro and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA, Rome on Sat, 5 Dec 2026.
 
 lean is an electro and tech house artist based in Italy, with 11 gigs on soundcheck across Berlin, Copenhagen, Los Angeles and Milan and 2 more. Often billed alongside Adriano, Sbri and Yoshi (DE). Next up: TBA, Rome on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ lean is an electro and tech house artist based in Italy, with 11 gigs on soundch
 
 Adriano, Sbri, Yoshi (DE)
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lean/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lean/)*

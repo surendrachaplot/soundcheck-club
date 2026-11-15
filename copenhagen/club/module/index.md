@@ -1,15 +1,13 @@
 # MODULE
 
-MODULE is a music venue in Copenhagen with 9 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "AFTERNOON X MODULE // FREE ENTRANCE" on Sat, 14 Nov 2026.
+MODULE is a music venue in Copenhagen with 7 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "TorsdagsTechno X Roll As One" on Thu, 19 Nov 2026.
 
-MODULE is a music venue in Copenhagen listed on soundcheck. 9 upcoming gigs, with line-ups including ADAPT (DK), Aerocell, Aja Gulris and Anders HP and 2 more. See dates, start times and who's playing. Vesterbrogade 2B, 1620 København V, Danmark.
+MODULE is a music venue in Copenhagen listed on soundcheck. 7 upcoming gigs, with line-ups including ADAPT (DK), Aerocell, Anders HP and avoN and 2 more. See dates, start times and who's playing. Vesterbrogade 2B, 1620 København V, Danmark.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | AFTERNOON X MODULE // FREE ENTRANCE | Aja Gulris |
-| Sat, 14 Nov 2026 | MODULE X Mia Mendi | ELZACE, Mia Mendi, UBER KNAST, VALON, sore point |
 | Thu, 19 Nov 2026 | TorsdagsTechno X Roll As One | Aerocell, B From E, HIGHL4ND3R, Ziggy Stardubb, avoN |
 | Fri, 20 Nov 2026 | INFERNA: Karashò (DE) | Cakebutcher, Emma Priis, Karashò, LMN (1), Shaan (2) |
 | Sat, 21 Nov 2026 | TANZEN UND SPRINGEN X MODULE | BOHO, Frida(y), dj bootymagic |
@@ -22,4 +20,4 @@ MODULE is a music venue in Copenhagen listed on soundcheck. 9 upcoming gigs, wit
 
 Vesterbrogade 2B, 1620 København V, Danmark, Copenhagen
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/module/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/module/)*

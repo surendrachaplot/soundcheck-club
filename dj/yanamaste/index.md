@@ -1,6 +1,6 @@
 # Yanamaste
 
-Yanamaste is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Club Hípico de Santiago, Santiago on Sat, 14 Nov 2026.
+Yanamaste is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Club Hípico de Santiago, Santiago on Sat, 14 Nov 2026.
 
 Yanamaste is a techno and house artist based in Georgia, with 277 gigs on soundcheck across Alicante, Amsterdam, Athens and Atlanta and 80 more. Often billed alongside Alarico, Chlär and Grace Dahl. Next up: Club Hípico de Santiago, Santiago on Sat 14 Nov.
 
@@ -23,6 +23,7 @@ Yanamaste is a techno and house artist based in Georgia, with 277 gigs on soundc
 
 ## Recently played
 
+- Club Hípico de Santiago, Santiago · Sat, 14 Nov 2026
 - FOLD, London · Sat, 7 Nov 2026
 - Palais 12 / Paleis 12 (ING Arena), Brussels · Fri, 6 Nov 2026
 - Factory Town, Miami · Fri, 30 Oct 2026
@@ -30,10 +31,9 @@ Yanamaste is a techno and house artist based in Georgia, with 277 gigs on soundc
 - NOS Event Center, Los Angeles · Fri, 30 Oct 2026
 - SMUT Athens, Athens · Tue, 27 Oct 2026
 - Havenpark, Amsterdam · Sat, 24 Oct 2026
-- Havenpark, Amsterdam · Sat, 24 Oct 2026
 
 ## Shares bills with
 
 Alarico, Chlär, Grace Dahl
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yanamaste/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yanamaste/)*

@@ -1,6 +1,6 @@
 # KASTILO
 
-KASTILO is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at París 15, Malaga on Sun, 6 Dec 2026.
+KASTILO is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at París 15, Malaga on Sun, 6 Dec 2026.
 
 KASTILO is an industrial and techno artist based in Spain, with 23 gigs on soundcheck across Birmingham, Cardiff, London and Madrid and 2 more. Often billed alongside Dres Codex, Lau.tastic and Baptist (UK). Next up: París 15, Malaga on Sun 6 Dec.
 
@@ -25,4 +25,4 @@ KASTILO is an industrial and techno artist based in Spain, with 23 gigs on sound
 
 Dres Codex, Lau.tastic, Baptist (UK)
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kastilo/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kastilo/)*

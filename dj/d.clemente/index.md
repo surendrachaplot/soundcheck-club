@@ -1,6 +1,6 @@
 # d. clemente
 
-d. clemente is a Jungle and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at The Yard, Manchester on Fri, 27 Nov 2026.
+d. clemente is a Jungle and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at The Yard, Manchester on Fri, 27 Nov 2026.
 
 d. clemente is a jungle and techno artist based in United Kingdom, with 38 gigs on soundcheck across London, Manchester and Sheffield. Often billed alongside FKA Hardcore, djlaundrybasket and salt pillar. Next up: The Yard, Manchester on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ d. clemente is a jungle and techno artist based in United Kingdom, with 38 gigs 
 
 FKA Hardcore, djlaundrybasket, salt pillar
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/d.clemente/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/d.clemente/)*

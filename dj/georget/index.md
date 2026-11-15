@@ -1,6 +1,6 @@
 # George T
 
-George T is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Sneaky Pete's, Edinburgh on Sat, 5 Dec 2026.
+George T is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Sneaky Pete's, Edinburgh on Sat, 5 Dec 2026.
 
 George T is a house and electronica artist based in United Kingdom, with 18 gigs on soundcheck across Edinburgh. Often billed alongside Mairi 'b' Pots, discjocelyne and Dani Sonder. Next up: Sneaky Pete's, Edinburgh on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ George T is a house and electronica artist based in United Kingdom, with 18 gigs
 
 Mairi 'b' Pots, discjocelyne, Dani Sonder
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/georget/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/georget/)*

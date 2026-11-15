@@ -1,6 +1,6 @@
 # MEGURO
 
-MEGURO is a Bass and Ghetto Tech artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at VENT, Tokyo on Sun, 22 Nov 2026.
+MEGURO is a Bass and Ghetto Tech artist with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at VENT, Tokyo on Sun, 22 Nov 2026.
 
 MEGURO is a bass and ghetto tech artist based in Japan, with 52 gigs on soundcheck across Taipei, Taiwan and Tokyo. Often billed alongside ATM, Frankie $ and HALU(Tribal Connection). Next up: VENT, Tokyo on Sun 22 Nov.
 
@@ -27,4 +27,4 @@ MEGURO is a bass and ghetto tech artist based in Japan, with 52 gigs on soundche
 
 ATM, Frankie $, HALU(Tribal Connection)
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meguro/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meguro/)*

@@ -1,14 +1,13 @@
 # Lens (2)
 
-Lens (2) is a Drum & Bass and Dubstep artist with 11 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Hidden, Manchester on Sat, 14 Nov 2026.
+Lens (2) is a Drum & Bass and Dubstep artist with 10 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Patterns, Brighton on Sat, 28 Nov 2026.
 
-Lens is a drum & bass and dubstep artist based in United Kingdom, with 38 gigs on soundcheck across Barcelona, Birmingham, Brighton and Brisbane and 27 more. Often billed alongside Degs, Mozey and MPH. Next up: Hidden, Manchester on Sat 14 Nov.
+Lens is a drum & bass and dubstep artist based in United Kingdom, with 38 gigs on soundcheck across Barcelona, Birmingham, Brighton and Brisbane and 27 more. Often billed alongside Degs, Mozey and MPH. Next up: Patterns, Brighton on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Hidden | Manchester |
 | Sat, 28 Nov 2026 | Patterns | Brighton |
 | Fri, 4 Dec 2026 | Runnymede Hall | Toronto |
 | Sat, 5 Dec 2026 | Le Centre: Hub Creatif | Quebec-city |
@@ -22,6 +21,7 @@ Lens is a drum & bass and dubstep artist based in United Kingdom, with 38 gigs o
 
 ## Recently played
 
+- Hidden, Manchester · Sat, 14 Nov 2026
 - XOYO Birmingham, Birmingham · Fri, 13 Nov 2026
 - Mina Museum, Cluj-napoca · Sat, 7 Nov 2026
 - Z-Bau, Nürnberg · Fri, 6 Nov 2026
@@ -29,10 +29,9 @@ Lens is a drum & bass and dubstep artist based in United Kingdom, with 38 gigs o
 - NUMBER 90 LONDON, London · Fri, 23 Oct 2026
 - Lost Horizon, Bristol · Sat, 17 Oct 2026
 - Holocene, Portland · Sun, 11 Oct 2026
-- 1720, Los Angeles · Sat, 10 Oct 2026
 
 ## Shares bills with
 
 Degs, Mozey, MPH (1)
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lens-2/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lens-2/)*

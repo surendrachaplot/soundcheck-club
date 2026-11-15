@@ -1,14 +1,13 @@
 # Plot 22
 
-Plot 22 is a music venue in Sheffield with 10 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Trance United - FREE PARTY" on Sat, 14 Nov 2026.
+Plot 22 is a music venue in Sheffield with 9 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "BABEZ 'n BREAKZ" on Fri, 20 Nov 2026.
 
-Plot 22 is a music venue in Sheffield listed on soundcheck. 10 upcoming gigs, with line-ups including Archie Gray, Ben Suff Donk, Betsy Mae and Dankle and 2 more. See dates, start times and who's playing. 20-22 Exchange St, Sheffield City Centre, Sheffield, S2 5TS.
+Plot 22 is a music venue in Sheffield listed on soundcheck. 9 upcoming gigs, with line-ups including Archie Gray, Ben Suff Donk, Betsy Mae and Dankle and 2 more. See dates, start times and who's playing. 20-22 Exchange St, Sheffield City Centre, Sheffield, S2 5TS.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Trance United - FREE PARTY |  |
 | Fri, 20 Nov 2026 | BABEZ 'n BREAKZ | Betsy Mae, ELS (UK), Ebz |
 | Sat, 21 Nov 2026 | Dusk2Dawn presents: A Night of DnB & Jungle |  |
 | Fri, 27 Nov 2026 | Do It For The Plot (FREE PARTY) |  |
@@ -23,4 +22,4 @@ Plot 22 is a music venue in Sheffield listed on soundcheck. 10 upcoming gigs, wi
 
 20-22 Exchange St, Sheffield City Centre, Sheffield, S2 5TS, Sheffield
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/plot-22/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/plot-22/)*

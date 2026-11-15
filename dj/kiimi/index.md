@@ -1,6 +1,6 @@
 # Kiimi
 
-Kiimi is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at All My Friends, London on Thu, 19 Nov 2026.
+Kiimi is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at All My Friends, London on Thu, 19 Nov 2026.
 
 Kiimi is a house and techno artist based in United Kingdom, with 38 gigs on soundcheck across Amsterdam, Brighton, Bristol and Ibiza and 3 more. Often billed alongside HAAi, Lu.Re and Meg Ward. Next up: All My Friends, London on Thu 19 Nov.
 
@@ -27,4 +27,4 @@ Kiimi is a house and techno artist based in United Kingdom, with 38 gigs on soun
 
 HAAi, Lu.Re, Meg Ward
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kiimi/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kiimi/)*

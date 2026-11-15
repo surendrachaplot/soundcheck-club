@@ -1,14 +1,13 @@
 # Patrick Mason
 
-Patrick Mason is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Mdlr, Singapore on Sat, 14 Nov 2026.
+Patrick Mason is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at gallery 1986, Vilnius on Fri, 20 Nov 2026.
 
-Patrick Mason is a techno and house artist based in Germany, with 318 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 98 more. Often billed alongside Héctor Oaks, Indira Paganotto and 999999999. Next up: Mdlr, Singapore on Sat 14 Nov.
+Patrick Mason is a techno and house artist based in Germany, with 318 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 98 more. Often billed alongside Héctor Oaks, Indira Paganotto and 999999999. Next up: gallery 1986, Vilnius on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Mdlr | Singapore |
 | Fri, 20 Nov 2026 | gallery 1986 | Vilnius |
 | Fri, 27 Nov 2026 | Flux | Istanbul |
 | Sat, 28 Nov 2026 | Oddity Club | Athens |
@@ -23,6 +22,7 @@ Patrick Mason is a techno and house artist based in Germany, with 318 gigs on so
 
 ## Recently played
 
+- Mdlr, Singapore · Sat, 14 Nov 2026
 - Savaya Bali, Bali · Sat, 7 Nov 2026
 - DRUMSHEDS, London · Sat, 24 Oct 2026
 - Silencio, Paris · Fri, 23 Oct 2026
@@ -30,10 +30,9 @@ Patrick Mason is a techno and house artist based in Germany, with 318 gigs on so
 - Lofi, Amsterdam · Wed, 21 Oct 2026
 - Auditorio Málaga Cortijo de Torres, South · Sat, 10 Oct 2026
 - fi, Cologne · Sat, 3 Oct 2026
-- Cité du Cinéma, Paris · Fri, 2 Oct 2026
 
 ## Shares bills with
 
 Héctor Oaks, Indira Paganotto, 999999999
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickmason/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickmason/)*

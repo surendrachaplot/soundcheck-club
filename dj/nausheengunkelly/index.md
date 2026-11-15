@@ -1,6 +1,6 @@
 # Nausheen Gun Kelly
 
-Nausheen Gun Kelly is a Techno and IDM artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Club 77, Sydney on Fri, 4 Dec 2026.
+Nausheen Gun Kelly is a Techno and IDM artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Club 77, Sydney on Fri, 4 Dec 2026.
 
 Nausheen Gun Kelly is a techno and idm artist, with 6 gigs on soundcheck across Sydney. Often billed alongside Arsonist, Bclip and Billy Dublewicz. Next up: Club 77, Sydney on Fri 4 Dec.
 
@@ -22,4 +22,4 @@ Nausheen Gun Kelly is a techno and idm artist, with 6 gigs on soundcheck across 
 
 Arsonist, Bclip, Billy Dublewicz
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nausheengunkelly/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nausheengunkelly/)*

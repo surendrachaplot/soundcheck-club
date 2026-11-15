@@ -1,18 +1,18 @@
 # Sandra Mason
 
-Sandra Mason is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Aula, Central on Sat, 14 Nov 2026.
+Sandra Mason is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA, Rome on Sat, 5 Dec 2026.
 
-Sandra Mason is an experimental and techno artist based in Italy, with 44 gigs on soundcheck across Berlin, Bordeaux, Central and Florence and 6 more. Often billed alongside Marco Ragni, Cosimo Damiano and Gattonero. Next up: Aula, Central on Sat 14 Nov.
+Sandra Mason is an experimental and techno artist based in Italy, with 44 gigs on soundcheck across Berlin, Bordeaux, Central and Florence and 6 more. Often billed alongside Marco Ragni, Cosimo Damiano and Gattonero. Next up: TBA, Rome on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Aula | Central |
 | Sat, 5 Dec 2026 | TBA | Rome |
 
 ## Recently played
 
+- Aula, Central · Sat, 14 Nov 2026
 - Gattaccio, Florence · Sat, 31 Oct 2026
 - Chiesetta Della Misericordia + Argo16, Venice · Sat, 10 Oct 2026
 - Frissón, Rome · Thu, 1 Oct 2026
@@ -20,10 +20,9 @@ Sandra Mason is an experimental and techno artist based in Italy, with 44 gigs o
 - TBA - Via Bartolomeo Eustachi 38, Milano, Milan · Sat, 12 Sept 2026
 - THE MAGICK BAR, Rome · Fri, 11 Sept 2026
 - THE MAGICK BAR, Rome · Fri, 14 Aug 2026
-- TBA - Apiro, Marche IT, Milan · Thu, 30 Jul 2026
 
 ## Shares bills with
 
 Marco Ragni, Cosimo Damiano, Gattonero
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sandramason/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sandramason/)*

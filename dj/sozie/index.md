@@ -1,14 +1,14 @@
 # Sozie
 
-Sozie is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Klakaz, Athens on Sun, 29 Nov 2026.
+Sozie is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Oddity Club, Athens on Sun, 29 Nov 2026.
 
-Sozie is a techno and electronica artist based in Greece, with 12 gigs on soundcheck across Athens and London. Often billed alongside Tammy Tsanaka, PJ MUGIWARA and 555ivas. Next up: Klakaz, Athens on Sun 29 Nov.
+Sozie is a techno and electronica artist based in Greece, with 12 gigs on soundcheck across Athens and London. Often billed alongside Tammy Tsanaka, PJ MUGIWARA and 555ivas. Next up: Oddity Club, Athens on Sun 29 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 29 Nov 2026 | Klakaz | Athens |
+| Sun, 29 Nov 2026 | Oddity Club | Athens |
 | Sat, 19 Dec 2026 | Athens Conservatoire - Ωδείον Αθηνών | Athens |
 
 ## Recently played
@@ -26,4 +26,4 @@ Sozie is a techno and electronica artist based in Greece, with 12 gigs on soundc
 
 Tammy Tsanaka, PJ MUGIWARA, 555ivas
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sozie/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sozie/)*

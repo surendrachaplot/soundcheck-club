@@ -1,6 +1,6 @@
 # Grund für Exil - 4lthangrund Soliparty at Club Exil
 
-Grund für Exil - 4lthangrund Soliparty at Club Exil on Fri 20 Nov, Vienna. 4 artists: M41RH, ninon., Ridgie and VOLTMARIE. Techno and Dub. See the line-up on soundcheck.
+Grund für Exil - 4lthangrund Soliparty at Club Exil on Fri 20 Nov, Vienna. 7 artists: Luca Carlotta, M41RH, Milla Piso and ninon. and 3 more. Techno and Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,9 +10,12 @@ Grund für Exil - 4lthangrund Soliparty at Club Exil on Fri 20 Nov, Vienna. 4 ar
 
 ## Line-up
 
+- Luca Carlotta
 - M41RH
+- Milla Piso
 - ninon.
 - Ridgie
 - VOLTMARIE
+- Yves (2)
 
 *Source: [soundcheck](https://soundcheck.club/e/2580020-grund-f-r-exil-4lthangrund-soliparty-at-club-exil/)*

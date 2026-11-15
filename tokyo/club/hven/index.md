@@ -1,8 +1,8 @@
 # HVEN
 
-HVEN is a music venue in Tokyo with 7 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "HVEN Open Studio: Records Sunday" on Sun, 15 Nov 2026.
+HVEN is a music venue in Tokyo with 7 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "HVEN Open Studio: Records Sunday" on Sun, 15 Nov 2026.
 
-HVEN is a music venue in Tokyo listed on soundcheck. 7 upcoming gigs, with line-ups including DSKE, FrEaKyNoRiKy, Kirill Shapovalov and M.I.O and 2 more. See dates, start times and who's playing. 1-6-10 , Kamimeguro, Meguro-ku, Tokyo, 153-0051, Japan.
+HVEN is a music venue in Tokyo listed on soundcheck. 7 upcoming gigs, with line-ups including akii, DSKE, FrEaKyNoRiKy and Kirill Shapovalov and 2 more. See dates, start times and who's playing. 1-6-10 , Kamimeguro, Meguro-ku, Tokyo, 153-0051, Japan.
 
 ## What's on
 
@@ -10,7 +10,7 @@ HVEN is a music venue in Tokyo listed on soundcheck. 7 upcoming gigs, with line-
 | --- | --- | --- |
 | Sun, 15 Nov 2026 | HVEN Open Studio: Records Sunday |  |
 | Fri, 20 Nov 2026 | HVEN presents: QUINTAESENCIA |  |
-| Sat, 21 Nov 2026 | HVEN presents: WAIFU |  |
+| Sat, 21 Nov 2026 | HVEN presents: WAIFU | FrEaKyNoRiKy, Yuki Kawamura, akii, softchaos |
 | Thu, 26 Nov 2026 | Queerious | FrEaKyNoRiKy, M.I.O, PANICWORKS, VÏVÏ |
 | Sat, 28 Nov 2026 | Popoff Kitchen MAKANAI まかない | DSKE, Kirill Shapovalov, MUNÉO, Vasya Saiko, WAKA XINXI |
 | Fri, 4 Dec 2026 | HVEN Presents: Soichi Terada | Soichi Terada |
@@ -20,4 +20,4 @@ HVEN is a music venue in Tokyo listed on soundcheck. 7 upcoming gigs, with line-
 
 1-6-10 , Kamimeguro, Meguro-ku, Tokyo, 153-0051, Japan, Tokyo
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/hven/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/hven/)*

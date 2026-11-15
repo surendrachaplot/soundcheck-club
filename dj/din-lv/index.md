@@ -1,6 +1,6 @@
 # D I N
 
-D I N is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at MONKEY LOVE, Warsaw on Sat, 21 Nov 2026.
+D I N is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at MONKEY LOVE, Warsaw on Sat, 21 Nov 2026.
 
 D I N is a house and minimal artist based in Latvia, with 47 gigs on soundcheck across Barcelona, Belgrade, Berlin and Budapest and 6 more. Often billed alongside iOAN (LV), Adroit and Ikss. Next up: MONKEY LOVE, Warsaw on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ D I N is a house and minimal artist based in Latvia, with 47 gigs on soundcheck 
 
 iOAN (LV), Adroit, Ikss
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/din-lv/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/din-lv/)*

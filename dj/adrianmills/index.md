@@ -1,14 +1,13 @@
 # Adrian Mills
 
-Adrian Mills is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Level 1 @ Cannonball Arts, Seattle on Sat, 14 Nov 2026.
+Adrian Mills is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at MFCC Arena, Malta on Fri, 4 Dec 2026.
 
-Adrian Mills is a techno and trance artist based in Germany, with 272 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 70 more. Often billed alongside Cloudy, KUKO and Serafina. Next up: Level 1 @ Cannonball Arts, Seattle on Sat 14 Nov.
+Adrian Mills is a techno and trance artist based in Germany, with 272 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 70 more. Often billed alongside Cloudy, KUKO and Serafina. Next up: MFCC Arena, Malta on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Level 1 @ Cannonball Arts | Seattle |
 | Fri, 4 Dec 2026 | MFCC Arena | Malta |
 | Sat, 5 Dec 2026 | Flanders Expo Centre | Ghent |
 | Fri, 11 Dec 2026 | Halle Tony Garnier | Lyon |
@@ -20,6 +19,7 @@ Adrian Mills is a techno and trance artist based in Germany, with 272 gigs on so
 
 ## Recently played
 
+- Level 1 @ Cannonball Arts, Seattle · Sat, 14 Nov 2026
 - Ace*Mission, Los Angeles · Fri, 13 Nov 2026
 - Cinecittà World, Rome · Sat, 31 Oct 2026
 - Studio Club Malaga, Malaga · Sat, 31 Oct 2026
@@ -27,10 +27,9 @@ Adrian Mills is a techno and trance artist based in Germany, with 272 gigs on so
 - Roxy, Prague · Tue, 27 Oct 2026
 - Warehouse Elementenstraat, Amsterdam · Sun, 25 Oct 2026
 - Sugarfactory, Amsterdam · Wed, 21 Oct 2026
-- Universe Athens, Athens · Sat, 17 Oct 2026
 
 ## Shares bills with
 
 Cloudy, KUKO, Serafina
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianmills/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianmills/)*

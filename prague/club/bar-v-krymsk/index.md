@@ -1,15 +1,13 @@
 # Bar v Krymský
 
-Bar v Krymský is a music venue in Prague with 8 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Baltazar" on Sat, 14 Nov 2026.
+Bar v Krymský is a music venue in Prague with 6 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Velvet House Revolution with Josef Sedloň & Em Spiller" on Mon, 16 Nov 2026.
 
-Bar v Krymský is a music venue in Prague listed on soundcheck. 8 upcoming gigs, with line-ups including Brady, Haseeb Iqbal, Lillou and Novelist. See dates, start times and who's playing. Krymská 21, Praha.
+Bar v Krymský is a music venue in Prague listed on soundcheck. 6 upcoming gigs, with line-ups including Brady and Lillou. See dates, start times and who's playing. Krymská 21, Praha.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Baltazar |  |
-| Sat, 14 Nov 2026 | Pay AT&T Bill Online Without Logging In: Fast Guest Pay Guide | Haseeb Iqbal, Novelist |
 | Mon, 16 Nov 2026 | Velvet House Revolution with Josef Sedloň & Em Spiller |  |
 | Wed, 18 Nov 2026 | Scratch 006 with Kolack & Poem (Vinyl Only Set) |  |
 | Fri, 20 Nov 2026 | Babe LN & Douglas |  |
@@ -21,4 +19,4 @@ Bar v Krymský is a music venue in Prague listed on soundcheck. 8 upcoming gigs,
 
 Krymská 21, Praha, Prague
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bar-v-krymsk/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bar-v-krymsk/)*

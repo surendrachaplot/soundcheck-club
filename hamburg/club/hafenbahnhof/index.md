@@ -1,17 +1,18 @@
 # Hafenbahnhof
 
-Hafenbahnhof is a music venue in Hamburg with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. The next is "WΛVE 7" on Fri, 6 Nov 2026.
+Hafenbahnhof is a music venue in Hamburg with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "DJ Kollektors Party" on Fri, 20 Nov 2026.
 
-Hafenbahnhof is a music venue in Hamburg listed on soundcheck. 1 upcoming gig, with line-ups including CHICHO, Mistressandcommander and Pamadii. See dates, start times and who's playing. Große Elbstraße 276, 22767 Hamburg, Germany.
+Hafenbahnhof is a music venue in Hamburg listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. Große Elbstraße 276, 22767 Hamburg, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | WΛVE 7 | CHICHO, Mistressandcommander, Pamadii |
+| Fri, 20 Nov 2026 | DJ Kollektors Party |  |
+| Fri, 27 Nov 2026 | Balkan Bangers |  |
 
 ## Address
 
 Große Elbstraße 276, 22767 Hamburg, Germany, Hamburg
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/hafenbahnhof/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/hafenbahnhof/)*

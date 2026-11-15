@@ -1,6 +1,6 @@
 # Dean Sullivan
 
-Dean Sullivan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Showtime Lounge, Washington DC on Sun, 15 Nov 2026.
+Dean Sullivan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Showtime Lounge, Washington DC on Sun, 15 Nov 2026.
 
 Dean Sullivan is a house and techno artist based in United States of America, with 12 gigs on soundcheck across Washington DC. Often billed alongside Tommy Cornelis, Joyce Lim and $et. Next up: Showtime Lounge, Washington DC on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Dean Sullivan is a house and techno artist based in United States of America, wi
 
 Tommy Cornelis, Joyce Lim, $et
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deansullivan/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deansullivan/)*

@@ -1,6 +1,6 @@
 # Eybel
 
-Eybel is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - The Vault, Barcelona on Sun, 15 Nov 2026.
+Eybel is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA - The Vault, Barcelona on Sun, 15 Nov 2026.
 
 Eybel is a techno and tech house artist based in Spain, with 22 gigs on soundcheck across Barcelona. Often billed alongside KARELBLADE, Rabent and Soulness. Next up: TBA - The Vault, Barcelona on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Eybel is a techno and tech house artist based in Spain, with 22 gigs on soundche
 
 KARELBLADE, Rabent, Soulness
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eybel/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eybel/)*

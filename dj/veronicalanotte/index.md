@@ -1,6 +1,6 @@
 # Veronica Lanotte
 
-Veronica Lanotte is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Solace, Melbourne on Thu, 3 Dec 2026.
+Veronica Lanotte is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Solace, Melbourne on Thu, 3 Dec 2026.
 
 Veronica Lanotte is a techno and house artist based in United Kingdom, with 5 gigs on soundcheck across London, Melbourne and Milan. Often billed alongside Lorenzo Morresi, ADMINISTRATOR and Alex Neri. Next up: Solace, Melbourne on Thu 3 Dec.
 
@@ -21,4 +21,4 @@ Veronica Lanotte is a techno and house artist based in United Kingdom, with 5 gi
 
 Lorenzo Morresi, ADMINISTRATOR, Alex Neri
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/veronicalanotte/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/veronicalanotte/)*

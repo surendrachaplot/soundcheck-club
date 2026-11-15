@@ -1,6 +1,6 @@
 # H-Foundation
 
-H-Foundation is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat, 14 Nov 2026.
+H-Foundation is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat, 14 Nov 2026.
 
 H-Foundation is a house and tech house artist based in United States of America, with 16 gigs on soundcheck across Amsterdam, Chicago, Croatia and Denver and 7 more. Often billed alongside Gabrielle Kwarteng, Halo Varga and Hipp-e. Next up: TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat 14 Nov.
 
@@ -16,6 +16,7 @@ H-Foundation is a house and tech house artist based in United States of America,
 
 ## Recently played
 
+- TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles · Sat, 14 Nov 2026
 - The Cause, London · Sat, 31 Oct 2026
 - Soup, Manchester · Fri, 30 Oct 2026
 - TILLATEC, Amsterdam · Mon, 26 Oct 2026
@@ -23,10 +24,9 @@ H-Foundation is a house and tech house artist based in United States of America,
 - Reelworks Denver, Denver · Sat, 22 Aug 2026
 - TBA, Los Angeles · Fri, 21 Aug 2026
 - Refuge, New York City · Sat, 18 Jul 2026
-- Floyd, Miami · Sun, 12 Jul 2026
 
 ## Shares bills with
 
 Gabrielle Kwarteng, Halo Varga, Hipp-e
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hfoundation/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hfoundation/)*

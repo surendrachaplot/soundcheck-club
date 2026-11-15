@@ -1,6 +1,6 @@
 # Marco Strous
 
-Marco Strous is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
+Marco Strous is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
 
 Marco Strous is a tech house and house artist based in Portugal, with 45 gigs on soundcheck across Austin, Boston, Chicago and Dallas/Fort Worth and 15 more. Often billed alongside Chris Lake, MPH and Jackie Hollander. Next up: The Concourse Project, Austin on Fri 13 Nov.
 
@@ -28,4 +28,4 @@ Marco Strous is a tech house and house artist based in Portugal, with 45 gigs on
 
 Chris Lake, MPH (1), Jackie Hollander
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcostrous/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcostrous/)*

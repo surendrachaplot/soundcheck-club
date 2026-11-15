@@ -1,15 +1,13 @@
 # renae
 
-renae is a music venue in Manchester with 13 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "QU3ST" on Sat, 14 Nov 2026.
+renae is a music venue in Manchester with 11 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "renae: dithering" on Sun, 15 Nov 2026.
 
-renae is a music venue in Manchester listed on soundcheck. 13 upcoming gigs, with line-ups including atalaya, Ayy Den, Babs and BANSHII and 2 more. See dates, start times and who's playing. 45-47 Thomas St, Manchester M4 1NA.
+renae is a music venue in Manchester listed on soundcheck. 11 upcoming gigs, with line-ups including atalaya, Ayy Den, Babs and BANSHII and 2 more. See dates, start times and who's playing. 45-47 Thomas St, Manchester M4 1NA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | QU3ST | SOULQU3ST |
-| Sat, 14 Nov 2026 | renae: Fannoire Ge & Bengoa | Bengoa, Fannoire Ge |
 | Sun, 15 Nov 2026 | renae: dithering | dithering |
 | Thu, 19 Nov 2026 | Irfan Rainy: Tribute to Juan Atkins | Irfan Rainy |
 | Sat, 21 Nov 2026 | LLOUS' at The Other People Place | BANSHII, POOCH, Sharayda, emiiyuu |
@@ -18,9 +16,11 @@ renae is a music venue in Manchester listed on soundcheck. 13 upcoming gigs, wit
 | Wed, 2 Dec 2026 | renae x Saturama presents Room To: Immerse | Werkha |
 | Fri, 4 Dec 2026 | renae labs: Neffa-T Masterclass | Neffa-T |
 | Sat, 5 Dec 2026 | Culina x renae | Babs (3), CARALUS |
+| Fri, 11 Dec 2026 | Expansions with Nick Kagame, Contours & Yadava at T.O.P.P | Contours, Nick Kagame, Yadava |
+| Fri, 18 Dec 2026 | Migrant Melodics | Ayy Den, DANCING WITH STANLEY, DR MYSTERY, atalaya |
 
 ## Address
 
 45-47 Thomas St, Manchester M4 1NA, Manchester
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/renae/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/renae/)*

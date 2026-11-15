@@ -1,15 +1,13 @@
 # Beste Hira
 
-Beste Hira is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 14 Nov 2026.
+Beste Hira is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Rote Sonne, Munich on Fri, 20 Nov 2026.
 
-Beste Hira is a techno and house artist based in Netherlands, with 200 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Freddy K, Rødhåd and Lobster (NL). Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 14 Nov.
+Beste Hira is a techno and house artist based in Netherlands, with 200 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Freddy K, Rødhåd and Lobster (NL). Next up: Rote Sonne, Munich on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
-| Sat, 14 Nov 2026 | Lofi | Amsterdam |
 | Fri, 20 Nov 2026 | Rote Sonne | Munich |
 | Fri, 4 Dec 2026 | Südpol | Hamburg |
 | Sat, 12 Dec 2026 | Gate Milano | Milan |
@@ -17,17 +15,17 @@ Beste Hira is a techno and house artist based in Netherlands, with 200 gigs on s
 
 ## Recently played
 
+- Berghain | Panorama Bar | Säule, Berlin · Sat, 14 Nov 2026
+- Lofi, Amsterdam · Sat, 14 Nov 2026
 - INPUT High Fidelity Dance Club, Barcelona · Fri, 13 Nov 2026
 - Virage, Paris · Sat, 7 Nov 2026
 - Tokonoma Club, Frankfurt · Fri, 6 Nov 2026
 - Dockland, Münster · Sat, 31 Oct 2026
 - Den Anden Side, Copenhagen · Fri, 30 Oct 2026
 - Sugarfactory, Amsterdam · Sat, 24 Oct 2026
-- RADION, Amsterdam · Thu, 22 Oct 2026
-- THE OTHER SIDE, Amsterdam · Thu, 22 Oct 2026
 
 ## Shares bills with
 
 Freddy K, Rødhåd, Lobster (NL)
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bestehira/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bestehira/)*

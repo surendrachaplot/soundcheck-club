@@ -1,14 +1,13 @@
 # Daxson
 
-Daxson is a Trance and Progressive House artist with 5 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Outernet Live, London on Sat, 14 Nov 2026.
+Daxson is a Trance and Progressive House artist with 4 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at WaV, Liverpool on Sat, 12 Dec 2026.
 
-Daxson is a trance and progressive house artist based in United Kingdom, with 26 gigs on soundcheck across Amsterdam, Glasgow, Liverpool and London and 12 more. Often billed alongside Ciaran McAuley, Amy Wiles and Aly & Fila. Next up: Outernet Live, London on Sat 14 Nov.
+Daxson is a trance and progressive house artist based in United Kingdom, with 26 gigs on soundcheck across Amsterdam, Glasgow, Liverpool and London and 12 more. Often billed alongside Ciaran McAuley, Amy Wiles and Aly & Fila. Next up: WaV, Liverpool on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Outernet Live | London |
 | Sat, 12 Dec 2026 | WaV | Liverpool |
 | Thu, 21 Jan 2027 | Royal Caribbean Cruise Ship | Miami |
 | Sat, 17 Apr 2027 | OX Club Prague | Prague |
@@ -16,6 +15,7 @@ Daxson is a trance and progressive house artist based in United Kingdom, with 26
 
 ## Recently played
 
+- Outernet Live, London · Sat, 14 Nov 2026
 - 02 Victoria Warehouse, Manchester · Sat, 26 Sept 2026
 - XOYO, London · Sat, 22 Aug 2026
 - Ora, Seattle · Fri, 14 Aug 2026
@@ -23,10 +23,9 @@ Daxson is a trance and progressive house artist based in United Kingdom, with 26
 - Alte Kaserne, Zurich · Sat, 8 Aug 2026
 - UNO MALTA, Malta · Thu, 7 May 2026
 - SWG3, Glasgow · Sat, 29 Nov 2025
-- Joshua Brooks, Manchester · Fri, 3 Oct 2025
 
 ## Shares bills with
 
 Ciaran McAuley, Amy Wiles, Aly & Fila
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daxson/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daxson/)*

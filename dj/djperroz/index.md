@@ -1,6 +1,6 @@
 # DJ Perroz
 
-DJ Perroz is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Club Rodenburg, Netherlands on Fri, 27 Nov 2026.
+DJ Perroz is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Club Rodenburg, Netherlands on Fri, 27 Nov 2026.
 
 DJ Perroz is a techno and house artist based in Netherlands, with 11 gigs on soundcheck across Amsterdam, Berlin, Netherlands and Romania and 1 more. Often billed alongside RobertS (NL), BALAI and Gaya Carmeli. Next up: Club Rodenburg, Netherlands on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ DJ Perroz is a techno and house artist based in Netherlands, with 11 gigs on sou
 
 RobertS (NL), BALAI, Gaya Carmeli
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djperroz/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djperroz/)*

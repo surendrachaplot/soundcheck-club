@@ -1,6 +1,6 @@
 # Ayebatonye
 
-Ayebatonye is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Club 77, Sydney on Sun, 29 Nov 2026.
+Ayebatonye is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Club 77, Sydney on Sun, 29 Nov 2026.
 
 Ayebatonye is a house and techno artist based in Australia, with 36 gigs on soundcheck across Brisbane, Melbourne, Sydney and Victoria. Often billed alongside C.FRIM, Four Tet and Jyoty. Next up: Club 77, Sydney on Sun 29 Nov.
 
@@ -14,6 +14,7 @@ Ayebatonye is a house and techno artist based in Australia, with 36 gigs on soun
 
 ## Recently played
 
+- Abbotsford Convent, Melbourne · Sat, 14 Nov 2026
 - Miscellania, Melbourne · Fri, 16 Oct 2026
 - Club 77, Sydney · Fri, 4 Sept 2026
 - Pony Club, Melbourne · Sat, 30 May 2026
@@ -21,10 +22,9 @@ Ayebatonye is a house and techno artist based in Australia, with 36 gigs on soun
 - Abbotsford Convent, Melbourne · Sat, 1 Nov 2025
 - Chinese Laundry, Sydney · Sat, 21 Jun 2025
 - Club 77, Sydney · Fri, 6 Jun 2025
-- Miscellania, Melbourne · Sat, 15 Mar 2025
 
 ## Shares bills with
 
 C.FRIM, Four Tet, Jyoty
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ayebatonye/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ayebatonye/)*

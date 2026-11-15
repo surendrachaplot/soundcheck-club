@@ -1,14 +1,13 @@
 # San Francisco
 
-San Francisco is a music venue in Amsterdam with 9 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Yusu Selectors" on Sat, 14 Nov 2026.
+San Francisco is a music venue in Amsterdam with 8 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Severja, DJ Heartbreak & Arthur Baron" on Sun, 15 Nov 2026.
 
-San Francisco is a music venue in Amsterdam listed on soundcheck. 9 upcoming gigs, with line-ups including Arthur Baron, B Current, Cinema Royale and Dj Heartbreak and 2 more. See dates, start times and who's playing. Zeedijk 40, Amsterdam, Netherlands 1012 AZ.
+San Francisco is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs, with line-ups including Arthur Baron, B Current, Cinema Royale and Dj Heartbreak and 2 more. See dates, start times and who's playing. Zeedijk 40, Amsterdam, Netherlands 1012 AZ.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Yusu Selectors | yusu selectors |
 | Sun, 15 Nov 2026 | Severja, DJ Heartbreak & Arthur Baron | Arthur Baron, Dj Heartbreak, Severja |
 | Thu, 19 Nov 2026 | Minor Attractions w/ Dan Jose, Moss M & B Current | B Current, Moss M |
 | Fri, 20 Nov 2026 | Dreamcastmoe (45” vinyl set) | dreamcastmoe |
@@ -22,4 +21,4 @@ San Francisco is a music venue in Amsterdam listed on soundcheck. 9 upcoming gig
 
 Zeedijk 40, Amsterdam, Netherlands 1012 AZ, Amsterdam
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/san-francisco/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/san-francisco/)*

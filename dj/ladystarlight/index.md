@@ -1,20 +1,20 @@
 # Lady Starlight
 
-Lady Starlight is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Tempio del Futuro Perduto, Milan on Sat, 14 Nov 2026.
+Lady Starlight is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at BASEMENT, New York City on Fri, 20 Nov 2026.
 
-Lady Starlight is a techno and house artist based in United States of America, with 101 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Basel and 41 more. Often billed alongside STERAC, Rødhåd and DVS1. Next up: Tempio del Futuro Perduto, Milan on Sat 14 Nov.
+Lady Starlight is a techno and house artist based in United States of America, with 101 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Basel and 41 more. Often billed alongside STERAC, Rødhåd and DVS1. Next up: BASEMENT, New York City on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Tempio del Futuro Perduto | Milan |
 | Fri, 20 Nov 2026 | BASEMENT | New York City |
 | Sat, 28 Nov 2026 | Tresor / Globus | Berlin |
 | Wed, 30 Dec 2026 | Leighton's Farm | Auckland |
 
 ## Recently played
 
+- Tempio del Futuro Perduto, Milan · Sat, 14 Nov 2026
 - Fuse, Brussels · Sat, 7 Nov 2026
 - Paradiso, Amsterdam · Sat, 24 Oct 2026
 - TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC · Sat, 17 Oct 2026
@@ -22,10 +22,9 @@ Lady Starlight is a techno and house artist based in United States of America, w
 - smartbar, Chicago · Fri, 16 Oct 2026
 - Zeiss Grossplanetarium, Berlin · Tue, 13 Oct 2026
 - Laboral Ciudad de la Cultura, North · Fri, 25 Sept 2026
-- TBA - Brooklyn, New York City · Fri, 18 Sept 2026
 
 ## Shares bills with
 
 STERAC, Rødhåd, DVS1
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ladystarlight/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ladystarlight/)*

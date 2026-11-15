@@ -1,6 +1,6 @@
 # Village Underground Barcelona
 
-Village Underground Barcelona is a music venue in Barcelona with 5 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "SUBconscious // [[Function Records Jungle DnB Showcase]] Digital & Charla Green " on Sat, 21 Nov 2026.
+Village Underground Barcelona is a music venue in Barcelona with 5 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "SUBconscious // [[Function Records Jungle DnB Showcase]] Digital & Charla Green " on Sat, 21 Nov 2026.
 
 Village Underground Barcelona is a music venue in Barcelona listed on soundcheck. 5 upcoming gigs, with line-ups including 4R15, Breakfake, Charla Green and Dave Angel and 2 more. See dates, start times and who's playing. Carrer Cobalt 12, 08907 L'Hospitalet de Llobregat.
 
@@ -18,4 +18,4 @@ Village Underground Barcelona is a music venue in Barcelona listed on soundcheck
 
 Carrer Cobalt 12, 08907 L'Hospitalet de Llobregat, Barcelona
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/village-underground-barcelona/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/village-underground-barcelona/)*

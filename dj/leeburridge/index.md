@@ -1,6 +1,6 @@
 # Lee Burridge
 
-Lee Burridge is a Deep House and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Savaya Bali, Bali on Sun, 15 Nov 2026.
+Lee Burridge is a Deep House and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Savaya Bali, Bali on Sun, 15 Nov 2026.
 
 Lee Burridge is a deep house and house artist based in United Kingdom, with 165 gigs on soundcheck across Austin, Bali, Barcelona and Belgrade and 42 more. Often billed alongside Jim Rider, Tim Green and Double Touch. Next up: Savaya Bali, Bali on Sun 15 Nov.
 
@@ -31,4 +31,4 @@ Lee Burridge is a deep house and house artist based in United Kingdom, with 165 
 
 Jim Rider, Tim Green, Double Touch
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leeburridge/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leeburridge/)*

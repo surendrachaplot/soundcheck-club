@@ -1,15 +1,13 @@
 # Ankali & Planeta Za
 
-Ankali & Planeta Za is a music venue in Prague with 10 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "HEAT X with GLIA, Zuzana Hakl, Demonika, Midirama, VI:AM" on Sat, 14 Nov 2026.
+Ankali & Planeta Za is a music venue in Prague with 8 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "✮ EERIE COLLECTIVE X The Kitchen ✮" on Fri, 20 Nov 2026.
 
-Ankali & Planeta Za is a music venue in Prague listed on soundcheck. 10 upcoming gigs, with line-ups including Adelia, Arton (CZ), AVHD and Axis Alpha and 2 more. See dates, start times and who's playing. Lopuchová 58/6, Prague, 101 00, Czechia.
+Ankali & Planeta Za is a music venue in Prague listed on soundcheck. 8 upcoming gigs, with line-ups including Adelia, Arton (CZ), AVHD and Axis Alpha and 2 more. See dates, start times and who's playing. Lopuchová 58/6, Prague, 101 00, Czechia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | HEAT X with GLIA, Zuzana Hakl, Demonika, Midirama, VI:AM | Demonika, GLIA, Midirama, VI:AM, Zuzana Hakl |
-| Sat, 14 Nov 2026 | Full HD: Sweet Tooth with 3531 Cluster, duboisi, Stefania, Wuss | Stefania, Wuss, duboisi |
 | Fri, 20 Nov 2026 | ✮ EERIE COLLECTIVE X The Kitchen ✮ | AVHD, DDK (1), DJames (2), KRISTIE KARDIO, RADYK, SOLE DOSI, ZiZi, ishka machina, zazitech |
 | Sat, 21 Nov 2026 | Temple Of ⏐ გიორგობა | Kavkaz Widow, MARS (4), MLK:M, Technadze, VISNEACS, saHHar |
 | Fri, 27 Nov 2026 | allnighter: DJ MARIA. & Konduku | DJ MARIA., Konduku |
@@ -23,4 +21,4 @@ Ankali & Planeta Za is a music venue in Prague listed on soundcheck. 10 upcoming
 
 Lopuchová 58/6, Prague, 101 00, Czechia, Prague
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/ankali-planeta-za/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/ankali-planeta-za/)*

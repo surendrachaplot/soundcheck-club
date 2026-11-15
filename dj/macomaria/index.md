@@ -1,14 +1,13 @@
 # Maco Maria
 
-Maco Maria is a Electro and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at A-Side, Paris on Fri, 13 Nov 2026.
+Maco Maria is a Electro and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Plage De Torcy, Paris on Sat, 15 May 2027.
 
-Maco Maria is an electro and tech house artist based in France, with 30 gigs on soundcheck across Barcelona, Brussels, Nantes and Paris and 1 more. Often billed alongside Louison, Domi (FR) and LAMALICE. Next up: A-Side, Paris on Fri 13 Nov.
+Maco Maria is an electro and tech house artist based in France, with 30 gigs on soundcheck across Barcelona, Brussels, Nantes and Paris and 1 more. Often billed alongside Louison, Domi (FR) and LAMALICE. Next up: Plage De Torcy, Paris on Sat 15 May.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | A-Side | Paris |
 | Sat, 15 May 2027 | Plage De Torcy | Paris |
 
 ## Recently played
@@ -26,4 +25,4 @@ Maco Maria is an electro and tech house artist based in France, with 30 gigs on 
 
 Louison, Domi (FR), LAMALICE
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/macomaria/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/macomaria/)*

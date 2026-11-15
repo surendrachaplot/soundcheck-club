@@ -1,8 +1,8 @@
 # Prisma
 
-Prisma is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Klubkneipe x House Cats" on Sun, 15 Nov 2026.
+Prisma is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Klubkneipe x House Cats" on Sun, 15 Nov 2026.
 
-Prisma is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with line-ups including Benua, Carl Conrad, Domovnika and Emilion Dollar Baby and 2 more. See dates, start times and who's playing. Brückenstraße 1, 10179 Berlin.
+Prisma is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with line-ups including Benua, Carl Conrad, DOLTER and Domovnika and 2 more. See dates, start times and who's playing. Brückenstraße 1, 10179 Berlin.
 
 ## What's on
 
@@ -16,9 +16,10 @@ Prisma is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with li
 | Tue, 24 Nov 2026 | Klubkneipe x Tuesday Ritual - Dance with Friends Takeover | Lola (UK) |
 | Thu, 26 Nov 2026 | Sssmile Afterhour | Benua, Carl Conrad, THYS (2), The Kiss |
 | Sun, 29 Nov 2026 | Klubkneipe x Resonance | Emilion Dollar Baby, Kazuki Takahashi |
+| Fri, 12 Feb 2027 | SUS Valentine | DOLTER, High Protocol |
 
 ## Address
 
 Brückenstraße 1, 10179 Berlin, Berlin
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/prisma/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/prisma/)*

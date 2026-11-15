@@ -1,6 +1,6 @@
 # Laze
 
-Laze is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at La Gravière, Geneva on Fri, 20 Nov 2026.
+Laze is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at La Gravière, Geneva on Fri, 20 Nov 2026.
 
 Laze is a techno and trance artist based in France, with 99 gigs on soundcheck across Barcelona, Berlin, Bordeaux and Brussels and 20 more. Often billed alongside Faster Horses, Azyr and Part Time Killer. Next up: La Gravière, Geneva on Fri 20 Nov.
 
@@ -32,4 +32,4 @@ Laze is a techno and trance artist based in France, with 99 gigs on soundcheck a
 
 Faster Horses, Azyr, Part Time Killer
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laze/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laze/)*

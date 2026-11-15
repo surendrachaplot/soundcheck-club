@@ -1,6 +1,6 @@
 # PNNY
 
-PNNY is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
+PNNY is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
 
 PNNY is a house and disco artist based in Indonesia, with 126 gigs on soundcheck across Amsterdam, Bali, Bangkok and Berlin and 12 more. Often billed alongside Tiago Oudman, Tjade and DITA (ID). Next up: The Wildlands, Melbourne on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ PNNY is a house and disco artist based in Indonesia, with 126 gigs on soundcheck
 
 Tiago Oudman, Tjade, DITA (ID)
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pnny/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pnny/)*

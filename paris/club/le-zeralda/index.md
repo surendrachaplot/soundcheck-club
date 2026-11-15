@@ -1,18 +1,17 @@
 # Le Zeralda
 
-Le Zeralda is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Rawdive, L'ecuyer, Ottoman Gruw B2b Nelestial" on Sat, 14 Nov 2026.
+Le Zeralda is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. The next is "AFTER - La Onda x Le Zeralda: Mich, Pastel, Benouze" on Sat, 21 Nov 2026.
 
-Le Zeralda is a music venue in Paris listed on soundcheck. 2 upcoming gigs, with line-ups including Benouze, Mich and Pastel. See dates, start times and who's playing. 125 avenue Gallieni, Bagnolet.
+Le Zeralda is a music venue in Paris listed on soundcheck. 1 upcoming gig, with line-ups including Benouze, Mich and Pastel. See dates, start times and who's playing. 125 avenue Gallieni, Bagnolet.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Rawdive, L'ecuyer, Ottoman Gruw B2b Nelestial |  |
 | Sat, 21 Nov 2026 | AFTER - La Onda x Le Zeralda: Mich, Pastel, Benouze | Benouze, Mich (10), Pastel |
 
 ## Address
 
 125 avenue Gallieni, Bagnolet, Paris
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-zeralda/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-zeralda/)*

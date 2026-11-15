@@ -1,8 +1,8 @@
 # O’Malli
 
-O’Malli is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Shuka Bar, Frankfurt on Sat, 28 Nov 2026.
+O’Malli is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Shuka Bar, Frankfurt on Sat, 28 Nov 2026.
 
-O’Malli is a house and minimal artist, with 4 gigs on soundcheck across Frankfurt. Often billed alongside Max Reggiannini, Abraham (GER) and Audiosafari (DE). Next up: Shuka Bar, Frankfurt on Sat 28 Nov.
+O’Malli is a house and minimal artist based in Germany, with 4 gigs on soundcheck across Frankfurt. Often billed alongside Max Reggiannini, Abraham (GER) and Audiosafari (DE). Next up: Shuka Bar, Frankfurt on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -20,4 +20,4 @@ O’Malli is a house and minimal artist, with 4 gigs on soundcheck across Frankf
 
 Max Reggiannini, Abraham (GER), Audiosafari (DE)
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/omalli/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/omalli/)*

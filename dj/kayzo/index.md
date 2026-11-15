@@ -1,14 +1,15 @@
 # Kayzo
 
-Kayzo is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Level 1 @ Cannonball Arts, Seattle on Sat, 23 Jan 2027.
+Kayzo is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Level 1 @ Cannonball Arts, Seattle on Sat, 23 Jan 2027.
 
-Kayzo is a techno and house artist based in United States of America, with 32 gigs on soundcheck across Amsterdam, Atlanta, Austin and Boston and 20 more. Often billed alongside hhunter, Alesso and Audien. Next up: Level 1 @ Cannonball Arts, Seattle on Sat 23 Jan.
+Kayzo is a techno and house artist based in United States of America, with 33 gigs on soundcheck across Amsterdam, Atlanta, Austin and Boston and 20 more. Often billed alongside hhunter, Alesso and Audien. Next up: Level 1 @ Cannonball Arts, Seattle on Sat 23 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 23 Jan 2027 | Level 1 @ Cannonball Arts | Seattle |
+| Fri, 12 Feb 2027 | Nova SD | San Diego |
 | Fri, 5 Mar 2027 | Radius | Chicago |
 
 ## Recently played
@@ -26,4 +27,4 @@ Kayzo is a techno and house artist based in United States of America, with 32 gi
 
 hhunter, Alesso, Audien
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kayzo/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kayzo/)*

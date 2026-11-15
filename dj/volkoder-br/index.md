@@ -1,6 +1,6 @@
 # Volkoder
 
-Volkoder is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
+Volkoder is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
 
 Volkoder is a house and tech house artist based in Brazil, with 27 gigs on soundcheck across Amsterdam, Austin, Belgrade and Budapest and 13 more. Often billed alongside CamelPhat, KI/KI and Mahmut Orhan. Next up: The Concourse Project, Austin on Fri 13 Nov.
 
@@ -9,7 +9,6 @@ Volkoder is a house and tech house artist based in Brazil, with 27 gigs on sound
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
-| Sat, 14 Nov 2026 | Museu do Amanhã | Rio de Janeiro |
 | Sun, 15 Nov 2026 | The Concourse Project | Austin |
 | Sat, 21 Nov 2026 | Coda | Toronto |
 | Fri, 27 Nov 2026 | TBA - Oasis, Costanera | Buenos Aires |
@@ -17,6 +16,7 @@ Volkoder is a house and tech house artist based in Brazil, with 27 gigs on sound
 
 ## Recently played
 
+- Museu do Amanhã, Rio de Janeiro · Sat, 14 Nov 2026
 - The Concourse Project, Austin · Fri, 13 Nov 2026
 - Parque Fundidora, Monterrey · Fri, 13 Nov 2026
 - The Chocolate Factory, New York City · Fri, 6 Nov 2026
@@ -24,10 +24,9 @@ Volkoder is a house and tech house artist based in Brazil, with 27 gigs on sound
 - Club Space Miami, Miami · Fri, 30 Oct 2026
 - Theater Amsterdam, Amsterdam · Sat, 24 Oct 2026
 - Hangar Luke Beograd, Belgrade · Fri, 16 Oct 2026
-- Hï Ibiza, Ibiza · Thu, 17 Sept 2026
 
 ## Shares bills with
 
 CamelPhat, KI/KI, Mahmut Orhan
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/volkoder-br/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/volkoder-br/)*

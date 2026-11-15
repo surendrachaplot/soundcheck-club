@@ -1,8 +1,8 @@
 # Edoardo
 
-Edoardo is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Bridge 48, Barcelona on Fri, 20 Nov 2026.
+Edoardo is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Bridge 48, Barcelona on Fri, 20 Nov 2026.
 
-Edoardo is an electronic artist, with 4 gigs on soundcheck across Barcelona and Berlin. Often billed alongside 505 (Live), Blush Response and Cadih. Next up: Bridge 48, Barcelona on Fri 20 Nov.
+Edoardo is an electronic artist based in Germany, with 4 gigs on soundcheck across Barcelona and Berlin. Often billed alongside 505 (Live), Blush Response and Cadih. Next up: Bridge 48, Barcelona on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -20,4 +20,4 @@ Edoardo is an electronic artist, with 4 gigs on soundcheck across Barcelona and 
 
 505 (Live), Blush Response, Cadih
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edoardo/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edoardo/)*

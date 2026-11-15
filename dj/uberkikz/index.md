@@ -1,14 +1,13 @@
 # ÜBERKIKZ
 
-ÜBERKIKZ is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA, Amsterdam on Sat, 14 Nov 2026.
+ÜBERKIKZ is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at MUENZE, Berlin on Sat, 28 Nov 2026.
 
-ÜBERKIKZ is a techno and house artist based in Russia, with 231 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 58 more. Often billed alongside future.666, DJ Hyperdrive and Cloudy. Next up: TBA, Amsterdam on Sat 14 Nov.
+ÜBERKIKZ is a techno and house artist based in Russia, with 231 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 58 more. Often billed alongside future.666, DJ Hyperdrive and Cloudy. Next up: MUENZE, Berlin on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | TBA | Amsterdam |
 | Sat, 28 Nov 2026 | MUENZE | Berlin |
 | Fri, 4 Dec 2026 | MFCC Arena | Malta |
 | Sat, 5 Dec 2026 | Fabrik | Madrid |
@@ -20,9 +19,11 @@
 | Wed, 30 Dec 2026 | MUENZE | Berlin |
 | Sat, 6 Feb 2027 | Fuse | Brussels |
 | Sat, 20 Feb 2027 | TBA - Warehouse Location | Toronto |
+| Sun, 7 Mar 2027 | KREUZWERK | Berlin |
 
 ## Recently played
 
+- TBA, Amsterdam · Sat, 14 Nov 2026
 - Lx Factory, Lisbon · Fri, 13 Nov 2026
 - Schrotty, Cologne · Wed, 11 Nov 2026
 - RSO.BERLIN, Berlin · Sat, 7 Nov 2026
@@ -30,10 +31,9 @@
 - RSO.BERLIN, Berlin · Sat, 7 Nov 2026
 - Complejo Embrujo, South · Sat, 31 Oct 2026
 - E1, London · Fri, 30 Oct 2026
-- Bajes Amsterdam, Amsterdam · Sun, 25 Oct 2026
 
 ## Shares bills with
 
 future.666, DJ Hyperdrive, Cloudy
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/uberkikz/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/uberkikz/)*

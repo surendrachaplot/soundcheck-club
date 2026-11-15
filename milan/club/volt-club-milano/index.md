@@ -1,14 +1,13 @@
 # Volt Club Milano
 
-Volt Club Milano is a music venue in Milan with 9 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Gerd Janson B2B Jonathan Kaspar — ALL NIGHT LONG" on Sat, 14 Nov 2026.
+Volt Club Milano is a music venue in Milan with 8 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Tiga + Dustin Phil" on Thu, 19 Nov 2026.
 
-Volt Club Milano is a music venue in Milan listed on soundcheck. 9 upcoming gigs, with line-ups including Alessio Cristiano, Alex Wann, Auggië and Dennis Louvra and 2 more. See dates, start times and who's playing. Via Molino delle Armi, 16, 20123 Milano MI, Italy.
+Volt Club Milano is a music venue in Milan listed on soundcheck. 8 upcoming gigs, with line-ups including Alessio Cristiano, Alex Wann, Auggië and Dennis Louvra and 2 more. See dates, start times and who's playing. Via Molino delle Armi, 16, 20123 Milano MI, Italy.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Gerd Janson B2B Jonathan Kaspar — ALL NIGHT LONG | Gerd Janson, Jonathan Kaspar |
 | Thu, 19 Nov 2026 | Tiga + Dustin Phil | Dustin Phil, Tiga |
 | Fri, 20 Nov 2026 | Marten Lou + Alessio Cristiano | Alessio Cristiano, Marten Lou |
 | Sat, 21 Nov 2026 | Alex Wann + Auggië | Alex Wann, Auggië |
@@ -22,4 +21,4 @@ Volt Club Milano is a music venue in Milan listed on soundcheck. 9 upcoming gigs
 
 Via Molino delle Armi, 16, 20123 Milano MI, Italy, Milan
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/volt-club-milano/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/volt-club-milano/)*

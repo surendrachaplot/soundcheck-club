@@ -1,6 +1,6 @@
 # Blck-Swan
 
-Blck-Swan is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at DNA. CLUB, Berlin on Fri, 20 Nov 2026.
+Blck-Swan is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at DNA. CLUB, Berlin on Fri, 20 Nov 2026.
 
 Blck-Swan is a techno and tech house artist based in Mauritius, with 66 gigs on soundcheck across Berlin and Milan. Often billed alongside H7, The Kiss and Benua. Next up: DNA. CLUB, Berlin on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Blck-Swan is a techno and tech house artist based in Mauritius, with 66 gigs on 
 
 H7 (3), The Kiss, Benua
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blck-swan/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blck-swan/)*

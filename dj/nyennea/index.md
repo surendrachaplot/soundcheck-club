@@ -1,14 +1,14 @@
 # Nyennea
 
-Nyennea is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Klakaz, Athens on Sun, 29 Nov 2026.
+Nyennea is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Oddity Club, Athens on Sun, 29 Nov 2026.
 
-Nyennea is a club and experimental artist based in Greece, with 17 gigs on soundcheck across Athens and Berlin. Often billed alongside Porschelane, Anthracene and bod [包家巷]. Next up: Klakaz, Athens on Sun 29 Nov.
+Nyennea is a club and experimental artist based in Greece, with 17 gigs on soundcheck across Athens and Berlin. Often billed alongside Porschelane, Anthracene and bod [包家巷]. Next up: Oddity Club, Athens on Sun 29 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 29 Nov 2026 | Klakaz | Athens |
+| Sun, 29 Nov 2026 | Oddity Club | Athens |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Nyennea is a club and experimental artist based in Greece, with 17 gigs on sound
 
 Porschelane, Anthracene, bod [包家巷]
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nyennea/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nyennea/)*

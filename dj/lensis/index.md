@@ -1,6 +1,6 @@
 # Lensis
 
-Lensis is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Tempio Radio, Milan on Sun, 15 Nov 2026.
+Lensis is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA - Tempio Radio, Milan on Sun, 15 Nov 2026.
 
 Lensis is a techno and dub techno artist, with 7 gigs on soundcheck across Milan. Often billed alongside Marco Bove, Hallien and Mark Wark. Next up: TBA - Tempio Radio, Milan on Sun 15 Nov.
 
@@ -23,4 +23,4 @@ Lensis is a techno and dub techno artist, with 7 gigs on soundcheck across Milan
 
 Marco Bove, Hallien, Mark Wark
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lensis/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lensis/)*

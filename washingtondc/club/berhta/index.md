@@ -1,15 +1,13 @@
 # BERHTA
 
-BERHTA is a music venue in Washington DC with 16 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "COSTA, CELO" on Sat, 14 Nov 2026.
+BERHTA is a music venue in Washington DC with 14 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "BEAUZ" on Fri, 20 Nov 2026.
 
-BERHTA is a music venue in Washington DC listed on soundcheck. 16 upcoming gigs, with line-ups including Arlo, Bob Moses, bradeazy and Carl Craig and 2 more. See dates, start times and who's playing. 1237 W Place NE, Washington, D.C., 20018.
+BERHTA is a music venue in Washington DC listed on soundcheck. 14 upcoming gigs, with line-ups including Arlo, Bob Moses, bradeazy and Carl Craig and 2 more. See dates, start times and who's playing. 1237 W Place NE, Washington, D.C., 20018.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | COSTA, CELO |  |
-| Sat, 14 Nov 2026 | Frost Children | Frost Children |
 | Fri, 20 Nov 2026 | BEAUZ |  |
 | Sat, 21 Nov 2026 | Mary Droppinz | Mary Droppinz |
 | Fri, 27 Nov 2026 | Detroit Love: Carl Craig b2b Seth Troxler, Roni Amitai | Carl Craig, Roni Amitai, Seth Troxler |
@@ -18,9 +16,11 @@ BERHTA is a music venue in Washington DC listed on soundcheck. 16 upcoming gigs,
 | Sat, 5 Dec 2026 | Bob Moses [Club Set], Notre Dame | Bob Moses, Notre Dame |
 | Fri, 11 Dec 2026 | OMNOM, bradeazy | bradeazy |
 | Fri, 18 Dec 2026 | ZHU presents BLACKLIZT.DC: Night 1 | Fahlberg, Parallelle, RICHE, TOBEHONEST, ZHU |
+| Sat, 19 Dec 2026 | ZHU presents BLACKLIZT.DC: Night Two | HNTR, Kotiēr, ZHU |
+| Sat, 26 Dec 2026 | GRAVEDGR | GRAVEDGR |
 
 ## Address
 
 1237 W Place NE, Washington, D.C., 20018, Washington DC
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/berhta/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/berhta/)*

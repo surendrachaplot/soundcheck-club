@@ -1,14 +1,13 @@
 # Shanti Celeste
 
-Shanti Celeste is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Strange Brew, Bristol on Sat, 14 Nov 2026.
+Shanti Celeste is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at DSTRKT Club Berlin, Berlin on Fri, 27 Nov 2026.
 
-Shanti Celeste is a house and techno artist based in United Kingdom, with 234 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 63 more. Often billed alongside Peach, Saoirse and Ogazón. Next up: Strange Brew, Bristol on Sat 14 Nov.
+Shanti Celeste is a house and techno artist based in United Kingdom, with 235 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 63 more. Often billed alongside Peach, Saoirse and Ogazón. Next up: DSTRKT Club Berlin, Berlin on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Strange Brew | Bristol |
 | Fri, 27 Nov 2026 | DSTRKT Club Berlin | Berlin |
 | Sat, 28 Nov 2026 | Quarters | Brighton |
 | Sat, 5 Dec 2026 | Den Anden Side | Copenhagen |
@@ -20,9 +19,11 @@ Shanti Celeste is a house and techno artist based in United Kingdom, with 234 gi
 | Thu, 22 Jul 2027 | Great Fulford | West-wales |
 | Thu, 19 Aug 2027 | The Garden Tisno | Croatia |
 | Sat, 28 Aug 2027 | Southwark Park | London |
+| Sat, 28 Aug 2027 | Southwark Park | London |
 
 ## Recently played
 
+- Strange Brew, Bristol · Sat, 14 Nov 2026
 - Razzmatazz, Barcelona · Sat, 7 Nov 2026
 - The Berkeley Suite, Glasgow · Fri, 6 Nov 2026
 - KOKO, London · Sat, 24 Oct 2026
@@ -30,10 +31,9 @@ Shanti Celeste is a house and techno artist based in United Kingdom, with 234 gi
 - TBA - East Williamsburg, New York City · Sat, 17 Oct 2026
 - Mana Wynwood, Miami · Fri, 16 Oct 2026
 - Jolene Downtown Miami, Miami · Thu, 15 Oct 2026
-- Amnesia Ibiza, Ibiza · Sun, 4 Oct 2026
 
 ## Shares bills with
 
 Peach, Saoirse, Ogazón
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shanticeleste/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shanticeleste/)*

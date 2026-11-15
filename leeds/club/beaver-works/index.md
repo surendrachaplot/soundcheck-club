@@ -1,14 +1,13 @@
 # Beaver Works
 
-Beaver Works is a music venue in Leeds with 5 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Rejuvenation - November Rave 2026" on Sat, 14 Nov 2026.
+Beaver Works is a music venue in Leeds with 4 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Crossy presents: The Breakthrough - Leeds" on Sat, 21 Nov 2026.
 
-Beaver Works is a music venue in Leeds listed on soundcheck. 5 upcoming gigs, with line-ups including Amelia Leigh, BUTTY, CICELY and Crossy and 2 more. See dates, start times and who's playing. 36 Whitehouse Street; Leeds; LS10 1AD; United Kingdom.
+Beaver Works is a music venue in Leeds listed on soundcheck. 4 upcoming gigs, with line-ups including Amelia Leigh, CICELY, Crossy and Demolition Man and 2 more. See dates, start times and who's playing. 36 Whitehouse Street; Leeds; LS10 1AD; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Rejuvenation - November Rave 2026 | BUTTY, Hixxy, Lisa Pinup, Mark Breeze, Rob Tissera, Sharkey (1) |
 | Sat, 21 Nov 2026 | Crossy presents: The Breakthrough - Leeds | Crossy, Demolition Man, Inja, Trafic MC |
 | Fri, 11 Dec 2026 | The Nightmare Before Christmas 3! PRSPCT & BassOff present | Amelia Leigh, CICELY, DR BUMBERCREASE, Ebz, Greenhouse, IFFYHYPE, Imanu, Jackum, LIMEWAX, Milzy, Napes, Psyked, RAYBAY, Thrasher |
 | Thu, 31 Dec 2026 | Beaverworks  - Trouble in Wonderland |  |
@@ -18,4 +17,4 @@ Beaver Works is a music venue in Leeds listed on soundcheck. 5 upcoming gigs, wi
 
 36 Whitehouse Street; Leeds; LS10 1AD; United Kingdom, Leeds
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/beaver-works/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/beaver-works/)*

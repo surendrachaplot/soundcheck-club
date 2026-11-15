@@ -1,8 +1,8 @@
 # Larook
 
-Larook is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Baalsaal, Hamburg on Sat, 28 Nov 2026.
+Larook is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Baalsaal, Hamburg on Sat, 28 Nov 2026.
 
-Larook is a techno and minimal techno artist, with 4 gigs on soundcheck across Berlin, Hamburg and Leipzig. Often billed alongside DJ ritalino, Eluzid and Florian Pas. Next up: Baalsaal, Hamburg on Sat 28 Nov.
+Larook is a techno and minimal techno artist based in Germany, with 4 gigs on soundcheck across Berlin, Hamburg and Leipzig. Often billed alongside DJ ritalino, Eluzid and Florian Pas. Next up: Baalsaal, Hamburg on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -20,4 +20,4 @@ Larook is a techno and minimal techno artist, with 4 gigs on soundcheck across B
 
 DJ ritalino, Eluzid, Florian Pas
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/larook/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/larook/)*

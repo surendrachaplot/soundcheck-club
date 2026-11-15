@@ -1,14 +1,13 @@
 # Winson Ngoh
 
-Winson Ngoh is a Techno and Industrial artist with 6 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - DM ARENA KARLSRUHE, Karlsruhe on Sat, 14 Nov 2026.
+Winson Ngoh is a Techno and Industrial artist with 5 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Fortuna Hall, Prague on Sat, 5 Dec 2026.
 
-Winson Ngoh is a techno and industrial artist based in Netherlands, with 43 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 28 more. Often billed alongside KUKO, Fantasm and KLOFAMA. Next up: TBA - DM ARENA KARLSRUHE, Karlsruhe on Sat 14 Nov.
+Winson Ngoh is a techno and industrial artist based in Netherlands, with 43 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 28 more. Often billed alongside KUKO, Fantasm and KLOFAMA. Next up: Fortuna Hall, Prague on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | TBA - DM ARENA KARLSRUHE | Karlsruhe |
 | Sat, 5 Dec 2026 | Fortuna Hall | Prague |
 | Sat, 5 Dec 2026 | TBA | Prague |
 | Fri, 18 Dec 2026 | Messe Stuttgart | Stuttgart |
@@ -17,6 +16,7 @@ Winson Ngoh is a techno and industrial artist based in Netherlands, with 43 gigs
 
 ## Recently played
 
+- TBA - DM ARENA KARLSRUHE, Karlsruhe · Sat, 14 Nov 2026
 - Klokgebouw, Eindhoven · Fri, 13 Nov 2026
 - Leopardstown Racecourse, Dublin · Fri, 30 Oct 2026
 - Afas Live, Amsterdam · Sun, 25 Oct 2026
@@ -24,10 +24,9 @@ Winson Ngoh is a techno and industrial artist based in Netherlands, with 43 gigs
 - TBA, Leipzig · Sat, 17 Oct 2026
 - TBA, Barcelona · Sun, 11 Oct 2026
 - Gateshead International Stadium, Newcastle · Sat, 26 Sept 2026
-- IFEMA, Madrid · Fri, 25 Sept 2026
 
 ## Shares bills with
 
 KUKO, Fantasm, KLOFAMA
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/winsonngoh/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/winsonngoh/)*

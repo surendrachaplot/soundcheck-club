@@ -1,15 +1,13 @@
 # Danilo Plessow
 
-Danilo Plessow is a House and Disco artist with 8 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at A-Side, Paris on Fri, 13 Nov 2026.
+Danilo Plessow is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 27 Nov 2026.
 
-Danilo Plessow is a house and disco artist based in Germany, with 187 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 60 more. Often billed alongside Motor City Drum Ensemble, Antal and Hugo LX. Next up: A-Side, Paris on Fri 13 Nov.
+Danilo Plessow is a house and disco artist based in Germany, with 187 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 60 more. Often billed alongside Motor City Drum Ensemble, Antal and Hugo LX. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | A-Side | Paris |
-| Sat, 14 Nov 2026 | La Paloma | Barcelona |
 | Fri, 27 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 4 Dec 2026 | Karmen Camina | Strasbourg |
 | Sat, 5 Dec 2026 | Palais Mascotte | Zurich |
@@ -19,6 +17,7 @@ Danilo Plessow is a house and disco artist based in Germany, with 187 gigs on so
 
 ## Recently played
 
+- La Paloma, Barcelona · Sat, 14 Nov 2026
 - A-Side, Paris · Fri, 13 Nov 2026
 - Phantom, Paris, Paris · Sat, 31 Oct 2026
 - Østre, Bergen · Thu, 29 Oct 2026
@@ -26,10 +25,9 @@ Danilo Plessow is a house and disco artist based in Germany, with 187 gigs on so
 - WestWeelde, Amsterdam · Thu, 22 Oct 2026
 - ZENNER, Berlin · Fri, 16 Oct 2026
 - Sala Villanos, Madrid · Fri, 16 Oct 2026
-- Iter Tenerife, Canary-islands · Fri, 16 Oct 2026
 
 ## Shares bills with
 
 Motor City Drum Ensemble, Antal, Hugo LX
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daniloplessow/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daniloplessow/)*

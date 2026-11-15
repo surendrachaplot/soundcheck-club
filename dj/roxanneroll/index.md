@@ -1,6 +1,6 @@
 # Roxanne Roll
 
-Roxanne Roll is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Holocene, Portland on Sun, 15 Nov 2026.
+Roxanne Roll is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Holocene, Portland on Sun, 15 Nov 2026.
 
 Roxanne Roll is a disco and house artist based in United States of America, with 110 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Auckland and 38 more. Often billed alongside Fleetmac Wood, Alex Oxley and Horror Hi-Fi. Next up: Holocene, Portland on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Roxanne Roll is a disco and house artist based in United States of America, with
 
 Fleetmac Wood, Alex Oxley, Horror Hi-Fi
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roxanneroll/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roxanneroll/)*

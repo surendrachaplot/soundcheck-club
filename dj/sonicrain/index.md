@@ -1,14 +1,13 @@
 # Sonic Rain
 
-Sonic Rain is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
+Sonic Rain is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Gotec, Karlsruhe on Sat, 21 Nov 2026.
 
-Sonic Rain is a techno and house artist based in United Kingdom, with 73 gigs on soundcheck across Berlin, Budapest, Karlsruhe and Krakow and 2 more. Often billed alongside Daniel Moritz, Svetec and Meduzah. Next up: Hungexpo Budapest, Budapest on Fri 13 Nov.
+Sonic Rain is a techno and house artist based in United Kingdom, with 73 gigs on soundcheck across Berlin, Budapest, Karlsruhe and Krakow and 2 more. Often billed alongside Daniel Moritz, Svetec and Meduzah. Next up: Gotec, Karlsruhe on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Hungexpo Budapest | Budapest |
 | Sat, 21 Nov 2026 | Gotec | Karlsruhe |
 
 ## Recently played
@@ -26,4 +25,4 @@ Sonic Rain is a techno and house artist based in United Kingdom, with 73 gigs on
 
 Daniel Moritz, Svetec, Meduzah
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sonicrain/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sonicrain/)*

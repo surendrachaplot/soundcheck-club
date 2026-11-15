@@ -1,14 +1,13 @@
 # Stage and Radio
 
-Stage and Radio is a music venue in Manchester with 32 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "RSB - The Finale 26" on Sat, 14 Nov 2026.
+Stage and Radio is a music venue in Manchester with 31 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Reveler" on Wed, 18 Nov 2026.
 
-Stage and Radio is a music venue in Manchester listed on soundcheck. 32 upcoming gigs, with line-ups including 4D, Alex Milo, Ally King and Amelia Leigh and 2 more. See dates, start times and who's playing. 43 Port St, Manchester M1 2EQ.
+Stage and Radio is a music venue in Manchester listed on soundcheck. 31 upcoming gigs, with line-ups including 4D, Alex Milo, Ally King and Amelia Leigh and 2 more. See dates, start times and who's playing. 43 Port St, Manchester M1 2EQ.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | RSB - The Finale 26 |  |
 | Wed, 18 Nov 2026 | Reveler | Leaha, ORI (ozone), Princess Elf Bar |
 | Thu, 19 Nov 2026 | Cuttin' Through The Jungle - Call Me George & Friends |  |
 | Fri, 20 Nov 2026 | DUB CULTURE presents: Mattik | B-HIND, Mattik (UK), Megan Wroe |
@@ -18,9 +17,10 @@ Stage and Radio is a music venue in Manchester listed on soundcheck. 32 upcoming
 | Tue, 24 Nov 2026 | Room 909 Movember Madness |  |
 | Fri, 27 Nov 2026 | Vispera's Dirtieth - Minimal Damage | Vispera |
 | Fri, 27 Nov 2026 | No More All Male Lineups X Mind Over Matter | Ally King, Amelia Leigh, GEOMETRIKK |
+| Sat, 28 Nov 2026 | Sir Hiss & Friends: Just Jane B2B CASE B2B Sir Hiss (All Night Long) | Case (2), Just Jane, Sir Hiss |
 
 ## Address
 
 43 Port St, Manchester M1 2EQ, Manchester
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/stage-and-radio/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/stage-and-radio/)*

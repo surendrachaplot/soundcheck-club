@@ -1,14 +1,13 @@
 # Lift Beograd
 
-Lift Beograd is a music venue in Belgrade with 5 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Stefan Bulatovic" on Sat, 14 Nov 2026.
+Lift Beograd is a music venue in Belgrade with 4 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Be Good & 1996 - Sowl Promo at LIFT" on Fri, 20 Nov 2026.
 
-Lift Beograd is a music venue in Belgrade listed on soundcheck. 5 upcoming gigs, with line-ups including Stellarcompanion. See dates, start times and who's playing. Cetinjska 15.
+Lift Beograd is a music venue in Belgrade listed on soundcheck. 4 upcoming gigs, with line-ups including Stellarcompanion. See dates, start times and who's playing. Cetinjska 15.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Stefan Bulatovic |  |
 | Fri, 20 Nov 2026 | Be Good & 1996 - Sowl Promo at LIFT |  |
 | Sat, 21 Nov 2026 | Nevena Jeremic |  |
 | Fri, 27 Nov 2026 | Vlada Russ |  |
@@ -18,4 +17,4 @@ Lift Beograd is a music venue in Belgrade listed on soundcheck. 5 upcoming gigs,
 
 Cetinjska 15, Belgrade
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/lift-beograd/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/lift-beograd/)*

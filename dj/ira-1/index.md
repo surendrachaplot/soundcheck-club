@@ -1,6 +1,6 @@
 # Ira (1)
 
-Ira (1) is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Sun, 15 Nov 2026.
+Ira (1) is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Sun, 15 Nov 2026.
 
 Ira is a techno and ebm artist based in Russia, with 7 gigs on soundcheck across Bogotá and Leipzig. Often billed alongside Bluekim, Dubnivm and Felinah. Next up: Kaputt Club / Proyecto Kinder, Bogotá on Sun 15 Nov.
 
@@ -23,4 +23,4 @@ Ira is a techno and ebm artist based in Russia, with 7 gigs on soundcheck across
 
 Bluekim, Dubnivm, Felinah
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ira-1/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ira-1/)*

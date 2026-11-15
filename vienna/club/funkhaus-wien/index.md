@@ -1,14 +1,13 @@
 # Funkhaus Wien
 
-Funkhaus Wien is a music venue in Vienna with 11 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Once in a Blue Moon, Kiki ball + Afterparty" on Sat, 14 Nov 2026.
+Funkhaus Wien is a music venue in Vienna with 10 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "The House of Funk presents Ricky Chong" on Fri, 20 Nov 2026.
 
-Funkhaus Wien is a music venue in Vienna listed on soundcheck. 11 upcoming gigs, with line-ups including Diskohengst, Felix Wolfs, Gerd Janson and Lua Preta and 2 more. See dates, start times and who's playing.
+Funkhaus Wien is a music venue in Vienna listed on soundcheck. 10 upcoming gigs, with line-ups including Diskohengst, Felix Wolfs, Gerd Janson and Lua Preta and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Once in a Blue Moon, Kiki ball + Afterparty |  |
 | Fri, 20 Nov 2026 | The House of Funk presents Ricky Chong | Ricky Chong |
 | Sat, 21 Nov 2026 | Yolo Taxi with UMAFRICANA, Lua Preta & Miss Roshni~~ | Lua Preta, UMAFRICANA, Yolo Taxi |
 | Fri, 27 Nov 2026 | Cafe Disko x Firlefunk | Diskohengst, Felix Wolfs |
@@ -18,5 +17,6 @@ Funkhaus Wien is a music venue in Vienna listed on soundcheck. 11 upcoming gigs,
 | Sun, 6 Dec 2026 | Untz Baby Untz - Nikolo in the Funkhaus | SHIZZLE |
 | Fri, 18 Dec 2026 | LOVEDANCIN' Vienna | Gerd Janson, Mareia, Tom Kutsche |
 | Sat, 19 Dec 2026 | traveling without moving |  |
+| Sat, 16 Jan 2027 | traveling without moving |  |
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/funkhaus-wien/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/funkhaus-wien/)*

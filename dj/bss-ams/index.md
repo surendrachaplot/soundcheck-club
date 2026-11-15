@@ -1,6 +1,6 @@
 # BSS-AMS
 
-BSS-AMS is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at ISOamsterdam, Amsterdam on Sat, 21 Nov 2026.
+BSS-AMS is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at ISOamsterdam, Amsterdam on Sat, 21 Nov 2026.
 
 BSS-AMS is a house and techno artist based in Netherlands, with 5 gigs on soundcheck across Amsterdam. Often billed alongside CARISTA, Jasmín and Joy Orbison. Next up: ISOamsterdam, Amsterdam on Sat 21 Nov.
 
@@ -21,4 +21,4 @@ BSS-AMS is a house and techno artist based in Netherlands, with 5 gigs on soundc
 
 CARISTA, Jasmín, Joy Orbison
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bss-ams/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bss-ams/)*

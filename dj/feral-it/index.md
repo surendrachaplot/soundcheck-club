@@ -1,6 +1,6 @@
 # Feral
 
-Feral is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at FOLD, London on Sat, 5 Dec 2026.
+Feral is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at FOLD, London on Sat, 5 Dec 2026.
 
 Feral is a techno and electronica artist based in Italy, with 84 gigs on soundcheck across Adelaide, Amsterdam, Athens and Baltimore and 34 more. Often billed alongside Luigi Tozzi, Spekki Webu and D-Leria. Next up: FOLD, London on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Feral is a techno and electronica artist based in Italy, with 84 gigs on soundch
 
 Luigi Tozzi, Spekki Webu, D-Leria
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/feral-it/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/feral-it/)*

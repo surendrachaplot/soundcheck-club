@@ -1,0 +1,28 @@
+# Max Circuit
+
+Max Circuit is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at City Hall, Barcelona on Thu, 19 Nov 2026.
+
+Max Circuit is a techno and acid artist based in Colombia, with 40 gigs on soundcheck across Barcelona. Often billed alongside Mahe, SuttleK and EUPHORIX.bcn. Next up: City Hall, Barcelona on Thu 19 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Thu, 19 Nov 2026 | City Hall | Barcelona |
+
+## Recently played
+
+- City Hall, Barcelona · Wed, 4 Nov 2026
+- DETROIT CLUB, Barcelona · Fri, 31 Jul 2026
+- M7 Club, Barcelona · Fri, 29 May 2026
+- City Hall, Barcelona · Thu, 23 Apr 2026
+- M7 Club, Barcelona · Sat, 18 Apr 2026
+- M7 Club, Barcelona · Sat, 11 Apr 2026
+- M7 Club, Barcelona · Fri, 20 Mar 2026
+- M7 Club, Barcelona · Sat, 14 Mar 2026
+
+## Shares bills with
+
+Mahe, SuttleK, EUPHORIX.bcn
+
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxcircuit/)*

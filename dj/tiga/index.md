@@ -1,6 +1,6 @@
 # Tiga
 
-Tiga is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Volt Club Milano, Milan on Thu, 19 Nov 2026.
+Tiga is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Volt Club Milano, Milan on Thu, 19 Nov 2026.
 
 Tiga is a techno and house artist based in Canada, with 133 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belgrade and 45 more. Often billed alongside DJ Holographic, DJ Tennis and Avalon Emerson. Next up: Volt Club Milano, Milan on Thu 19 Nov.
 
@@ -34,4 +34,4 @@ Tiga is a techno and house artist based in Canada, with 133 gigs on soundcheck a
 
 DJ Holographic, DJ Tennis, Avalon Emerson
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tiga/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tiga/)*

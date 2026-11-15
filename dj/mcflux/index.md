@@ -1,18 +1,18 @@
 # MC Flux
 
-MC Flux is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Outernet Live, London on Sat, 14 Nov 2026.
+MC Flux is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at The Warehouse, Leeds on Sat, 6 Feb 2027.
 
-MC Flux is a jungle and drum & bass artist based in United Kingdom, with 10 gigs on soundcheck across Leeds, London and Toronto. Often billed alongside Subject 13, Abby Daze and Joe Le Groove. Next up: Outernet Live, London on Sat 14 Nov.
+MC Flux is a jungle and drum & bass artist based in United Kingdom, with 10 gigs on soundcheck across Leeds, London and Toronto. Often billed alongside Subject 13, Abby Daze and Joe Le Groove. Next up: The Warehouse, Leeds on Sat 6 Feb.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Outernet Live | London |
 | Sat, 6 Feb 2027 | The Warehouse | Leeds |
 
 ## Recently played
 
+- Outernet Live, London · Sat, 14 Nov 2026
 - Basing House, London · Fri, 22 Aug 2025
 - Planet Wax, London · Sat, 9 Aug 2025
 - Corsica Studios, London · Fri, 11 Jul 2025
@@ -20,10 +20,9 @@ MC Flux is a jungle and drum & bass artist based in United Kingdom, with 10 gigs
 - Planet Wax, London · Thu, 6 Mar 2025
 - Dalston Den, London · Sat, 22 Feb 2025
 - 131 Mccormack St, Toronto · Sat, 22 Jun 2024
-- fabric, London · Sat, 16 Dec 2023
 
 ## Shares bills with
 
 Subject 13, Abby Daze, Joe Le Groove
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mcflux/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mcflux/)*

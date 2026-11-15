@@ -1,6 +1,6 @@
 # ENNIO
 
-ENNIO is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Vittoria Wharf Studio, London on Sun, 15 Nov 2026.
+ENNIO is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Vittoria Wharf Studio, London on Sun, 15 Nov 2026.
 
 ENNIO is a techno and house artist, with 95 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Beijing and 19 more. Often billed alongside HAMY, Faerber and N.R.M. Next up: Vittoria Wharf Studio, London on Sun 15 Nov.
 
@@ -27,4 +27,4 @@ ENNIO is a techno and house artist, with 95 gigs on soundcheck across Amsterdam,
 
 HAMY, Faerber, N.R.M
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ennio/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ennio/)*

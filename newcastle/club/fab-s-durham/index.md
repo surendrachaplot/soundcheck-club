@@ -1,0 +1,17 @@
+# Fab's Durham
+
+Fab's Durham is a music venue in Newcastle with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. The next is "ROTATE 809: OWEN OFF BONE" on Wed, 18 Nov 2026.
+
+Fab's Durham is a music venue in Newcastle listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 66 Saddler Street, Durham, DH1 3NP.
+
+## What's on
+
+| Date | Gig | Line-up |
+| --- | --- | --- |
+| Wed, 18 Nov 2026 | ROTATE 809: OWEN OFF BONE |  |
+
+## Address
+
+66 Saddler Street, Durham, DH1 3NP, Newcastle
+
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/fab-s-durham/)*

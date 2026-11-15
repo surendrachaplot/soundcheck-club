@@ -1,14 +1,13 @@
 # Beate Uwe
 
-Beate Uwe is a music venue in Berlin with 20 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Beate Invites /// WUT Kollektiv" on Sat, 14 Nov 2026.
+Beate Uwe is a music venue in Berlin with 19 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Beate Barfuß /// Rampue (live), sneffinsky, Kira Kaluma, Katschinka, Shurti" on Sun, 15 Nov 2026.
 
-Beate Uwe is a music venue in Berlin listed on soundcheck. 20 upcoming gigs, with line-ups including Adrian Schneider, Anaîka, Andrea Zucca and ANNAWAFFEL and 2 more. See dates, start times and who's playing. Schillingstr. 31, 10179, Berlin.
+Beate Uwe is a music venue in Berlin listed on soundcheck. 19 upcoming gigs, with line-ups including Adrian Schneider, Anaîka, Andrea Zucca and ANNAWAFFEL and 2 more. See dates, start times and who's playing. Schillingstr. 31, 10179, Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Beate Invites /// WUT Kollektiv | ANXA, KYT, Sonalie Solar |
 | Sun, 15 Nov 2026 | Beate Barfuß /// Rampue (live), sneffinsky, Kira Kaluma, Katschinka, Shurti | Rampue, sneffinsky |
 | Fri, 20 Nov 2026 | EISENGRAU | Testbild |
 | Sat, 21 Nov 2026 | Beate Invites /// HOUSE QUEENS | Anaîka, Cardi-O, Cora Lee, Kristina Sheli, LIZZN, MC-K, Miss Kitchen, Mitsuko, Natasha Roze |
@@ -18,9 +17,10 @@ Beate Uwe is a music venue in Berlin listed on soundcheck. 20 upcoming gigs, wit
 | Fri, 27 Nov 2026 | Automaticamore | Andrea Zucca, Cmd Tulch, Franz Scala, Hank Clap, Rena Volvo |
 | Sat, 28 Nov 2026 | NIGHTSHIFT Edition #11 | Better Call Paul, Brahmski, Halunki, Lobo (DE), Monsai, Nikklaas, Selin, heinrich grooves |
 | Sun, 29 Nov 2026 | Beate Barfuß /// BeYond Night | zhart |
+| Fri, 4 Dec 2026 | Soup for Breakfast - Sternchen Suppe | Daenell, Miss Kitchen, SILSAN, nasnan |
 
 ## Address
 
 Schillingstr. 31, 10179, Berlin, Berlin
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/beate-uwe/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/beate-uwe/)*

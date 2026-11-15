@@ -1,20 +1,20 @@
 # babyschön
 
-babyschön is a House and Acid artist with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at NT's Loft, London on Sat, 14 Nov 2026.
+babyschön is a House and Acid artist with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at NT's Loft, London on Sat, 21 Nov 2026.
 
-babyschön is a house and acid artist based in United Kingdom, with 94 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Bristol and 15 more. Often billed alongside Tia Cousins, DJ Subaru and Harry James. Next up: NT's Loft, London on Sat 14 Nov.
+babyschön is a house and acid artist based in United Kingdom, with 94 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Bristol and 15 more. Often billed alongside Tia Cousins, DJ Subaru and Harry James. Next up: NT's Loft, London on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | NT's Loft | London |
 | Sat, 21 Nov 2026 | NT's Loft | London |
 | Sat, 28 Nov 2026 | NT's Loft | London |
 | Thu, 19 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 
+- NT's Loft, London · Sat, 14 Nov 2026
 - NT's Loft, London · Sat, 7 Nov 2026
 - The Carlton Club, Manchester · Sat, 31 Oct 2026
 - Doka, Amsterdam · Sat, 24 Oct 2026
@@ -22,10 +22,9 @@ babyschön is a house and acid artist based in United Kingdom, with 94 gigs on s
 - The Cause, London · Sat, 12 Sept 2026
 - The Model, Nottingham · Sat, 12 Sept 2026
 - TBA - Secret Location, Berlin · Sat, 29 Aug 2026
-- The White Hotel, Manchester · Sat, 8 Aug 2026
 
 ## Shares bills with
 
 Tia Cousins, DJ Subaru, Harry James
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babyschon/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babyschon/)*

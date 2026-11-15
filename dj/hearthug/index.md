@@ -1,14 +1,13 @@
 # HearThug
 
-HearThug is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Les Asnouss, Morocco on Fri, 13 Nov 2026.
+HearThug is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA - Foothills of Nandi, Karahalli, Bangalore on Sat, 5 Dec 2026.
 
-HearThug is a house and electro artist based in Tunisia, with 64 gigs on soundcheck across Amsterdam, Bangalore, Barcelona and Belgrade and 24 more. Often billed alongside Occibel, IAMBP and Alyhas. Next up: TBA - Les Asnouss, Morocco on Fri 13 Nov.
+HearThug is a house and electro artist based in Tunisia, with 64 gigs on soundcheck across Amsterdam, Bangalore, Barcelona and Belgrade and 24 more. Often billed alongside Occibel, IAMBP and Alyhas. Next up: TBA - Foothills of Nandi, Karahalli, Bangalore on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | TBA - Les Asnouss | Morocco |
 | Sat, 5 Dec 2026 | TBA - Foothills of Nandi, Karahalli | Bangalore |
 
 ## Recently played
@@ -26,4 +25,4 @@ HearThug is a house and electro artist based in Tunisia, with 64 gigs on soundch
 
 Occibel, IAMBP, Alyhas
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hearthug/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hearthug/)*

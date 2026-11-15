@@ -1,15 +1,13 @@
 # Audio SF
 
-Audio SF is a music venue in San Francisco/Oakland with 22 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "FLAMINGOSIS" on Sat, 14 Nov 2026.
+Audio SF is a music venue in San Francisco/Oakland with 20 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "As You Like It Unedited: Theo Parrish All Day Long" on Sun, 15 Nov 2026.
 
-Audio SF is a music venue in San Francisco/Oakland listed on soundcheck. 22 upcoming gigs, with line-ups including 19:26, ALMAS, Cristoph and Dosem and 2 more. See dates, start times and who's playing. 316 11th St; San Francisco CA 94103; United States.
+Audio SF is a music venue in San Francisco/Oakland listed on soundcheck. 20 upcoming gigs, with line-ups including 19:26, ALMAS, Cristoph and Dosem and 2 more. See dates, start times and who's playing. 316 11th St; San Francisco CA 94103; United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | FLAMINGOSIS |  |
-| Sat, 14 Nov 2026 | Nora En Pure | Nora En Pure |
 | Sun, 15 Nov 2026 | As You Like It Unedited: Theo Parrish All Day Long | Theo Parrish |
 | Fri, 20 Nov 2026 | Dosem |  |
 | Fri, 20 Nov 2026 | Dosem @AudioSF | ALMAS, Dosem |
@@ -18,9 +16,11 @@ Audio SF is a music venue in San Francisco/Oakland listed on soundcheck. 22 upco
 | Fri, 4 Dec 2026 | DANSYN |  |
 | Sat, 5 Dec 2026 | Awen (Live) |  |
 | Fri, 11 Dec 2026 | Dusky |  |
+| Sat, 12 Dec 2026 | Marten Lou | Marten Lou |
+| Fri, 18 Dec 2026 | Cristoph | Cristoph |
 
 ## Address
 
 316 11th St; San Francisco CA 94103; United States, San Francisco/Oakland
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/audio-sf/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/audio-sf/)*

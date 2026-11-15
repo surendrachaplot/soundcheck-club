@@ -1,6 +1,6 @@
 # Nita Oxun
 
-Nita Oxun is a Dub and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Filth, Amsterdam on Sun, 22 Nov 2026.
+Nita Oxun is a Dub and Ambient artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Filth, Amsterdam on Sun, 22 Nov 2026.
 
 Nita Oxun is a dub and ambient artist based in Netherlands, with 13 gigs on soundcheck across Amsterdam. Often billed alongside Harry Who, Postmac and Caim. Next up: Filth, Amsterdam on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ Nita Oxun is a dub and ambient artist based in Netherlands, with 13 gigs on soun
 
 Harry Who, Postmac, Caim
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nitaoxun/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nitaoxun/)*

@@ -1,13 +1,14 @@
 # Kelela
 
-Kelela is a R&B and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Southwark Park, London on Sat, 28 Aug 2027.
+Kelela is a R&B and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Southwark Park, London on Sat, 28 Aug 2027.
 
-Kelela is a r&b and electronica artist based in United States of America, with 21 gigs on soundcheck across Barcelona, Berlin, Chicago and Copenhagen and 14 more. Often billed alongside Arca, Bassvictim and Beltran. Next up: Southwark Park, London on Sat 28 Aug.
+Kelela is a r&b and electronica artist based in United States of America, with 22 gigs on soundcheck across Barcelona, Berlin, Chicago and Copenhagen and 14 more. Often billed alongside FiNE, Shanti Celeste and ABRA. Next up: Southwark Park, London on Sat 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Aug 2027 | Southwark Park | London |
 | Sat, 28 Aug 2027 | Southwark Park | London |
 
 ## Recently played
@@ -23,6 +24,6 @@ Kelela is a r&b and electronica artist based in United States of America, with 2
 
 ## Shares bills with
 
-Arca, Bassvictim, Beltran
+FiNE, Shanti Celeste, ABRA
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kelela/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kelela/)*

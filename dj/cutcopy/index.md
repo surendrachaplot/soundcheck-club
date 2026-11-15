@@ -1,6 +1,6 @@
 # Cut Copy
 
-Cut Copy is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA, Los Angeles on Sun, 15 Nov 2026.
+Cut Copy is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA, Los Angeles on Sun, 15 Nov 2026.
 
 Cut Copy is a house and electronica artist based in Australia, with 16 gigs on soundcheck across Arkansas, Chicago, Denver and Los Angeles and 7 more. Often billed alongside Crazy P, nimino and ANTIMATTER. Next up: TBA, Los Angeles on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Cut Copy is a house and electronica artist based in Australia, with 16 gigs on s
 
 Crazy P, nimino, ANTIMATTER
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cutcopy/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cutcopy/)*

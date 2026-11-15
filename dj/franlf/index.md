@@ -1,13 +1,14 @@
 # Fran LF
 
-Fran LF is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Lokschuppen Berlin, Berlin on Sat, 2 Jan 2027.
+Fran LF is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Raedli, Zurich on Fri, 18 Dec 2026.
 
-Fran LF is a techno and trance artist based in Netherlands, with 45 gigs on soundcheck across Amsterdam, Athens, Berlin and Hannover and 13 more. Often billed alongside Sinergy, Bours? and HUJUS. Next up: Lokschuppen Berlin, Berlin on Sat 2 Jan.
+Fran LF is a techno and trance artist based in Netherlands, with 46 gigs on soundcheck across Amsterdam, Athens, Berlin and Hannover and 14 more. Often billed alongside Sinergy, Bours? and HUJUS. Next up: Raedli, Zurich on Fri 18 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Dec 2026 | Raedli | Zurich |
 | Sat, 2 Jan 2027 | Lokschuppen Berlin | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Fran LF is a techno and trance artist based in Netherlands, with 45 gigs on soun
 
 Sinergy, Bours?, HUJUS
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/franlf/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/franlf/)*

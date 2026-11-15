@@ -1,6 +1,6 @@
 # R-DNA
 
-R-DNA is a Techno and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at parking.radio, Quebec City on Sun, 15 Nov 2026.
+R-DNA is a Techno and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at parking.radio, Quebec City on Sun, 15 Nov 2026.
 
 R-DNA is a techno and baile funk artist based in Ukraine, with 35 gigs on soundcheck across New York City and Quebec City. Often billed alongside masha latte, 1ol1v1a and SEDENTARY. Next up: parking.radio, Quebec City on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ R-DNA is a techno and baile funk artist based in Ukraine, with 35 gigs on soundc
 
 masha latte, 1ol1v1a, SEDENTARY
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/r-dna/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/r-dna/)*

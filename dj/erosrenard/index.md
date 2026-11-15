@@ -1,8 +1,8 @@
 # Eros Renard
 
-Eros Renard is a Electro and EBM artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at CGM - Club Giovanile Milano, Milan on Fri, 20 Nov 2026.
+Eros Renard is a Electro and EBM artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at CGM - Club Giovanile Milano, Milan on Fri, 20 Nov 2026.
 
-Eros Renard is an electro and ebm artist, with 4 gigs on soundcheck across Milan. Often billed alongside CRHERZ, Lvca Versace and Vicky Montefusco. Next up: CGM - Club Giovanile Milano, Milan on Fri 20 Nov.
+Eros Renard is an electro and ebm artist based in Italy, with 4 gigs on soundcheck across Milan. Often billed alongside CRHERZ, Lvca Versace and Vicky Montefusco. Next up: CGM - Club Giovanile Milano, Milan on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -20,4 +20,4 @@ Eros Renard is an electro and ebm artist, with 4 gigs on soundcheck across Milan
 
 CRHERZ, Lvca Versace, Vicky Montefusco
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erosrenard/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erosrenard/)*

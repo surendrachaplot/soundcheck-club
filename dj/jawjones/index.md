@@ -1,14 +1,15 @@
 # Jaw Jones
 
-Jaw Jones is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA, Toronto on Sat, 21 Nov 2026.
+Jaw Jones is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA, Toronto on Sat, 21 Nov 2026.
 
-Jaw Jones is a techno and house artist based in Canada, with 50 gigs on soundcheck across Montreal and Toronto. Often billed alongside Marnigurl, Zellers and Kajaka. Next up: TBA, Toronto on Sat 21 Nov.
+Jaw Jones is a techno and house artist based in Canada, with 51 gigs on soundcheck across Montreal and Toronto. Often billed alongside Marnigurl, Zellers and Kajaka. Next up: TBA, Toronto on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | TBA | Toronto |
+| Sat, 5 Dec 2026 | St Anne's Parish Hall | Toronto |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Jaw Jones is a techno and house artist based in Canada, with 50 gigs on soundche
 
 Marnigurl, Zellers, Kajaka
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jawjones/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jawjones/)*

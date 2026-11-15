@@ -1,6 +1,6 @@
 # SUNS
 
-SUNS is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Turtur, Hamburg on Sat, 28 Nov 2026.
+SUNS is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Turtur, Hamburg on Sat, 28 Nov 2026.
 
 SUNS is a drum & bass and techno artist, with 11 gigs on soundcheck across Hamburg. Often billed alongside pruefunke, Eightball and Tweakz. Next up: Turtur, Hamburg on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ SUNS is a drum & bass and techno artist, with 11 gigs on soundcheck across Hambu
 
 pruefunke, Eightball, Tweakz
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suns/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suns/)*

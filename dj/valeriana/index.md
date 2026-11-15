@@ -1,6 +1,6 @@
 # Valeriana
 
-Valeriana is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at CHICO, Mexico City on Sat, 21 Nov 2026.
+Valeriana is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at CHICO, Mexico City on Sat, 21 Nov 2026.
 
 Valeriana is a house and deep house artist based in Mexico, with 167 gigs on soundcheck across Barcelona, Berlin, Bogotá and Buenos Aires and 10 more. Often billed alongside Julia Toporek, Rafatel and Remille. Next up: CHICO, Mexico City on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ Valeriana is a house and deep house artist based in Mexico, with 167 gigs on sou
 
 Julia Toporek, Rafatel, Remille
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/valeriana/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/valeriana/)*

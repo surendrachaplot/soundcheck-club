@@ -1,14 +1,13 @@
 # Philipp Strobel
 
-Philipp Strobel is a EBM and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Slaughterhouse am Kulturfabrik Moabit, Berlin on Sat, 14 Nov 2026.
+Philipp Strobel is a EBM and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at West Germany, Berlin on Fri, 20 Nov 2026.
 
-Philipp Strobel is an ebm and techno artist based in Germany, with 66 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Krakow and 7 more. Often billed alongside Incendie, Caillou (DE) and Ancient Methods. Next up: Slaughterhouse am Kulturfabrik Moabit, Berlin on Sat 14 Nov.
+Philipp Strobel is an ebm and techno artist based in Germany, with 66 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Krakow and 7 more. Often billed alongside Incendie, Caillou (DE) and Ancient Methods. Next up: West Germany, Berlin on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Slaughterhouse am Kulturfabrik Moabit | Berlin |
 | Fri, 20 Nov 2026 | West Germany | Berlin |
 | Fri, 27 Nov 2026 | Urban Spree | Berlin |
 | Wed, 2 Dec 2026 | Urban Spree | Berlin |
@@ -17,6 +16,7 @@ Philipp Strobel is an ebm and techno artist based in Germany, with 66 gigs on so
 
 ## Recently played
 
+- Slaughterhouse am Kulturfabrik Moabit, Berlin · Sat, 14 Nov 2026
 - Bergson Kunstkraftwerk, Munich · Fri, 23 Oct 2026
 - Urban Spree, Berlin · Sat, 3 Oct 2026
 - Urban Spree, Berlin · Sat, 29 Aug 2026
@@ -24,10 +24,9 @@ Philipp Strobel is an ebm and techno artist based in Germany, with 66 gigs on so
 - Urban Spree, Berlin · Fri, 24 Apr 2026
 - Urban Spree, Berlin · Sat, 28 Mar 2026
 - Urban Spree, Berlin · Sat, 21 Mar 2026
-- Urban Spree, Berlin · Tue, 9 Dec 2025
 
 ## Shares bills with
 
 Incendie, Caillou (DE), Ancient Methods
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/philippstrobel/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/philippstrobel/)*

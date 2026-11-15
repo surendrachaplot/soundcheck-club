@@ -1,6 +1,6 @@
 # NOIRE – TAKE ME HIGHER at Weekend
 
-NOIRE – TAKE ME HIGHER at Weekend on Sat 21 Nov, Berlin. 1 artist: Nick Curly. Techno and House. See the line-up on soundcheck.
+NOIRE – TAKE ME HIGHER at Weekend on Sat 21 Nov, Berlin. 2 artists: Nick Curly and Steffen Deux. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ NOIRE – TAKE ME HIGHER at Weekend on Sat 21 Nov, Berlin. 1 artist: Nick Curly.
 ## Line-up
 
 - Nick Curly
+- Steffen Deux
 
 *Source: [soundcheck](https://soundcheck.club/e/2565622-noire-take-me-higher-at-weekend/)*

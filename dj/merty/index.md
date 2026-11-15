@@ -1,8 +1,8 @@
 # Merty
 
-Merty is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at The Red Church, Bristol on Sat, 5 Dec 2026.
+Merty is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at The Red Church, Bristol on Sat, 5 Dec 2026.
 
-Merty is a techno and house artist, with 7 gigs on soundcheck across Bristol. Often billed alongside BABBACHUNKS, DJ babba and Chiedza. Next up: The Red Church, Bristol on Sat 5 Dec.
+Merty is a techno and house artist based in United Kingdom, with 7 gigs on soundcheck across Bristol. Often billed alongside BABBACHUNKS, DJ babba and Chiedza. Next up: The Red Church, Bristol on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ Merty is a techno and house artist, with 7 gigs on soundcheck across Bristol. Of
 
 BABBACHUNKS, DJ babba, Chiedza
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/merty/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/merty/)*

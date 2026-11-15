@@ -1,14 +1,13 @@
 # Theo Parrish
 
-Theo Parrish is a House and Funk / Soul artist with 9 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA, Los Angeles on Fri, 13 Nov 2026.
+Theo Parrish is a House and Funk / Soul artist with 8 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Audio SF, San Francisco/Oakland on Sun, 15 Nov 2026.
 
-Theo Parrish is a house and funk / soul artist based in United States of America, with 136 gigs on soundcheck across Amsterdam, Antwerp, Bali and Baltimore and 35 more. Often billed alongside Avalon Emerson, Moodymann and Batu. Next up: TBA, Los Angeles on Fri 13 Nov.
+Theo Parrish is a house and funk / soul artist based in United States of America, with 136 gigs on soundcheck across Amsterdam, Antwerp, Bali and Baltimore and 35 more. Often billed alongside Avalon Emerson, Moodymann and Batu. Next up: Audio SF, San Francisco/Oakland on Sun 15 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | TBA | Los Angeles |
 | Sun, 15 Nov 2026 | Audio SF | San Francisco/Oakland |
 | Fri, 20 Nov 2026 | Centre PHI | Montreal |
 | Sat, 21 Nov 2026 | Standard Time | Toronto |
@@ -33,4 +32,4 @@ Theo Parrish is a house and funk / soul artist based in United States of America
 
 Avalon Emerson, Moodymann, Batu
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theoparrish/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theoparrish/)*

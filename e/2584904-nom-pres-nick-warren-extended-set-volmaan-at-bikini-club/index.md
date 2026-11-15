@@ -1,6 +1,6 @@
 # NOM pres. Nick Warren (Extended Set) + Volmaan at Bikini Club
 
-NOM pres. Nick Warren (Extended Set) + Volmaan at Bikini Club on Sat 5 Dec, Barcelona. 2 artists: Nick Warren and Volmaan. See the line-up on soundcheck.
+NOM pres. Nick Warren (Extended Set) + Volmaan at Bikini Club on Sat 5 Dec, Barcelona. 2 artists: Nick Warren and Volmaan. Progressive House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

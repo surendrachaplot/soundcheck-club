@@ -1,14 +1,13 @@
 # The Berkeley Suite
 
-The Berkeley Suite is a music venue in Glasgow with 28 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "The Berkeley Suite present: GOO W// Daniel Avery x Richard Fearless" on Sat, 14 Nov 2026.
+The Berkeley Suite is a music venue in Glasgow with 27 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "CASA: GROOVE THANG (EXTRA 2020's SOUNDS) // TUESDAY 17th NOVEMBER" on Tue, 17 Nov 2026.
 
-The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 28 upcoming gigs, with line-ups including Chris Liberator, Co-Accused, Crazy P and Daniel Avery and 2 more. See dates, start times and who's playing. 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom.
+The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 27 upcoming gigs, with line-ups including Chris Liberator, Co-Accused, Crazy P and Doc Scott and 2 more. See dates, start times and who's playing. 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | The Berkeley Suite present: GOO W// Daniel Avery x Richard Fearless | Daniel Avery, Richard Fearless |
 | Tue, 17 Nov 2026 | CASA: GROOVE THANG (EXTRA 2020's SOUNDS) // TUESDAY 17th NOVEMBER |  |
 | Wed, 18 Nov 2026 | PILOT |  |
 | Thu, 19 Nov 2026 | 2Passo // Tino |  |
@@ -18,9 +17,10 @@ The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 28 upcoming
 | Fri, 27 Nov 2026 | Sih-Lest presents: DOREY | DOREY |
 | Sat, 28 Nov 2026 | BREATHE: Crazy P : Early Doors 6PM -10PM  | Crazy P, Jamie Gunn |
 | Thu, 3 Dec 2026 | Gig |  |
+| Fri, 4 Dec 2026 | Co-Accused with The Hacker | Co-Accused, The Hacker |
 
 ## Address
 
 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom, Glasgow
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-berkeley-suite/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-berkeley-suite/)*

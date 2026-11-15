@@ -1,6 +1,6 @@
 # Modeselektor at 314 Scholes
 
-Modeselektor at 314 Scholes on Fri 12 Feb, New York City. 1 artist: Modeselektor. See the line-up on soundcheck.
+Modeselektor at 314 Scholes on Fri 12 Feb, New York City. 1 artist: Modeselektor. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

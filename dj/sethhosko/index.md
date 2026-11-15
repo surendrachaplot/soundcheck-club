@@ -1,8 +1,8 @@
 # Seth Hosko
 
-Seth Hosko is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Bar  Milagro, New York City on Thu, 3 Dec 2026.
+Seth Hosko is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Bar  Milagro, New York City on Thu, 3 Dec 2026.
 
-Seth Hosko is a house and disco artist, with 5 gigs on soundcheck across New York City. Often billed alongside Leg Room, Emil Bergh and DJibouti. Next up: Bar  Milagro, New York City on Thu 3 Dec.
+Seth Hosko is a house and disco artist based in United States of America, with 5 gigs on soundcheck across New York City. Often billed alongside Leg Room, Emil Bergh and DJibouti. Next up: Bar  Milagro, New York City on Thu 3 Dec.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ Seth Hosko is a house and disco artist, with 5 gigs on soundcheck across New Yor
 
 Leg Room, Emil Bergh, DJibouti
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sethhosko/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sethhosko/)*

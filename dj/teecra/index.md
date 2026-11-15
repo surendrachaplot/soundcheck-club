@@ -1,6 +1,6 @@
 # Teecra
 
-Teecra is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Vittoria Wharf Studio, London on Sun, 15 Nov 2026.
+Teecra is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Vittoria Wharf Studio, London on Sun, 15 Nov 2026.
 
 Teecra is a techno and house artist based in United Kingdom, with 57 gigs on soundcheck across Berlin, Brussels, Copenhagen and London and 1 more. Often billed alongside Riva, TEDESCO and Jaye Ward. Next up: Vittoria Wharf Studio, London on Sun 15 Nov.
 
@@ -27,4 +27,4 @@ Teecra is a techno and house artist based in United Kingdom, with 57 gigs on sou
 
 Riva, TEDESCO, Jaye Ward
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/teecra/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/teecra/)*

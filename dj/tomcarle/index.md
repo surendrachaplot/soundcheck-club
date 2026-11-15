@@ -1,6 +1,6 @@
 # TOM CARLE
 
-TOM CARLE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat, 14 Nov 2026.
+TOM CARLE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat, 14 Nov 2026.
 
 TOM CARLE is a house and techno artist based in United States of America, with 12 gigs on soundcheck across Los Angeles. Often billed alongside DJ Sneak, Danny Zee and J-Dub. Next up: TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat 14 Nov.
 
@@ -12,6 +12,7 @@ TOM CARLE is a house and techno artist based in United States of America, with 1
 
 ## Recently played
 
+- TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles · Sat, 14 Nov 2026
 - Woodley Park, Los Angeles · Sun, 7 Jun 2026
 - Wywh, Los Angeles · Sat, 6 Jun 2026
 - Dark Horse Tavern, Los Angeles · Sat, 18 Apr 2026
@@ -19,10 +20,9 @@ TOM CARLE is a house and techno artist based in United States of America, with 1
 - TBA, Los Angeles · Fri, 19 Dec 2025
 - TBA, Los Angeles · Thu, 30 Oct 2025
 - TBA - Bolo Studios, Burbank, Los Angeles · Sat, 6 Sept 2025
-- Woodley Park, Los Angeles · Sun, 27 Apr 2025
 
 ## Shares bills with
 
 DJ Sneak, Danny Zee, J-Dub
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomcarle/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomcarle/)*

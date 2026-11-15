@@ -1,13 +1,14 @@
 # sayuara
 
-sayuara is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Bahnwärter Thiel, Munich on Thu, 31 Dec 2026.
+sayuara is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Lieberscholli, Munich on Fri, 11 Dec 2026.
 
-sayuara is a techno and tech house artist based in Germany, with 28 gigs on soundcheck across Berlin, Hamburg, Munich and Stuttgart and 1 more. Often billed alongside Thilo Who, Moritz Minoa and SILSAN. Next up: Bahnwärter Thiel, Munich on Thu 31 Dec.
+sayuara is a techno and house artist based in Germany, with 29 gigs on soundcheck across Berlin, Hamburg, Munich and Stuttgart and 1 more. Often billed alongside Thilo Who, Moritz Minoa and SILSAN. Next up: Lieberscholli, Munich on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Dec 2026 | Lieberscholli | Munich |
 | Thu, 31 Dec 2026 | Bahnwärter Thiel | Munich |
 
 ## Recently played
@@ -25,4 +26,4 @@ sayuara is a techno and tech house artist based in Germany, with 28 gigs on soun
 
 Thilo Who, Moritz Minoa, SILSAN
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sayuara/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sayuara/)*

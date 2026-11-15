@@ -1,6 +1,6 @@
 # Dr.Flamer
 
-Dr.Flamer is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Pygmalion, Dublin on Fri, 4 Dec 2026.
+Dr.Flamer is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Pygmalion, Dublin on Fri, 4 Dec 2026.
 
 Dr.Flamer is a house and techno artist based in Italy, with 99 gigs on soundcheck across Dublin. Often billed alongside DJ PIERR, Syl Black and Mkav. Next up: Pygmalion, Dublin on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Dr.Flamer is a house and techno artist based in Italy, with 99 gigs on soundchec
 
 DJ PIERR, Syl Black, Mkav
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.flamer/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.flamer/)*

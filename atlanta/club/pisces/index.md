@@ -1,14 +1,13 @@
 # Pisces
 
-Pisces is a music venue in Atlanta with 6 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Benito Night" on Sat, 14 Nov 2026.
+Pisces is a music venue in Atlanta with 5 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Verraco" on Fri, 20 Nov 2026.
 
-Pisces is a music venue in Atlanta listed on soundcheck. 6 upcoming gigs, with line-ups including Ben UFO, HAAi, LSDXOXO and Tromac and 1 more. See dates, start times and who's playing. 483 Edgewood Ave SE, Atlanta Ga 30312.
+Pisces is a music venue in Atlanta listed on soundcheck. 5 upcoming gigs, with line-ups including Ben UFO, HAAi, LSDXOXO and Tromac and 1 more. See dates, start times and who's playing. 483 Edgewood Ave SE, Atlanta Ga 30312.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Benito Night |  |
 | Fri, 20 Nov 2026 | Verraco | Verraco |
 | Fri, 4 Dec 2026 | HAAi | HAAi |
 | Sat, 5 Dec 2026 | LSDXOXO | LSDXOXO |
@@ -19,4 +18,4 @@ Pisces is a music venue in Atlanta listed on soundcheck. 6 upcoming gigs, with l
 
 483 Edgewood Ave SE, Atlanta Ga 30312, Atlanta
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/atlanta/club/pisces/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/atlanta/club/pisces/)*

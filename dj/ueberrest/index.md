@@ -1,14 +1,13 @@
 # Ueberrest
 
-Ueberrest is a Techno and Trance artist with 18 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Brooklyn Roots Collective, New York City on Sat, 14 Nov 2026.
+Ueberrest is a Techno and Trance artist with 17 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Arzenal, Budapest on Fri, 20 Nov 2026.
 
-Ueberrest is a techno and trance artist based in Switzerland, with 134 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 55 more. Often billed alongside Kobosil, Somewhen and KUKO. Next up: Brooklyn Roots Collective, New York City on Sat 14 Nov.
+Ueberrest is a techno and trance artist based in Switzerland, with 134 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 55 more. Often billed alongside Kobosil, Somewhen and KUKO. Next up: Arzenal, Budapest on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Brooklyn Roots Collective | New York City |
 | Fri, 20 Nov 2026 | Arzenal | Budapest |
 | Fri, 20 Nov 2026 | Arzenal | Budapest |
 | Sat, 28 Nov 2026 | Messegelände Hannover | Hannover |
@@ -20,9 +19,11 @@ Ueberrest is a techno and trance artist based in Switzerland, with 134 gigs on s
 | Sat, 2 Jan 2027 | Pier 80 Warehouse | San Francisco/Oakland |
 | Fri, 22 Jan 2027 | O der Klub | Vienna |
 | Sat, 23 Jan 2027 | E-Werk Kulturzentrum | Nürnberg |
+| Fri, 29 Jan 2027 | DSTRKT Club Berlin | Berlin |
 
 ## Recently played
 
+- Brooklyn Roots Collective, New York City · Sat, 14 Nov 2026
 - Factory Town, Miami · Fri, 13 Nov 2026
 - Public Works, San Francisco/Oakland · Fri, 6 Nov 2026
 - Club Cultural Lima, Peru · Fri, 30 Oct 2026
@@ -30,10 +31,9 @@ Ueberrest is a techno and trance artist based in Switzerland, with 134 gigs on s
 - Club Vaag, Antwerp · Sun, 25 Oct 2026
 - NDSM Scheepsbouwloods, Amsterdam · Sat, 24 Oct 2026
 - Gate Milano, Milan · Fri, 23 Oct 2026
-- Warehouse Elementenstraat, Amsterdam · Thu, 22 Oct 2026
 
 ## Shares bills with
 
 Kobosil, Somewhen, KUKO
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ueberrest/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ueberrest/)*

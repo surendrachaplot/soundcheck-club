@@ -1,14 +1,13 @@
 # East End Dubs
 
-East End Dubs is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Document, Bristol on Sat, 14 Nov 2026.
+East End Dubs is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 20 Nov 2026.
 
-East End Dubs is a house and tech house artist based in United Kingdom, with 295 gigs on soundcheck across Amsterdam, Antwerp, Austin and Austria and 55 more. Often billed alongside ALISHA, Max Dean and Jamback. Next up: Document, Bristol on Sat 14 Nov.
+East End Dubs is a house and tech house artist based in United Kingdom, with 295 gigs on soundcheck across Amsterdam, Antwerp, Austin and Austria and 55 more. Often billed alongside ALISHA, Max Dean and Jamback. Next up: Depot Mayfield, Manchester on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Document | Bristol |
 | Fri, 20 Nov 2026 | Depot Mayfield | Manchester |
 | Sat, 21 Nov 2026 | YoYo - Palais de Tokyo | Paris |
 | Fri, 27 Nov 2026 | Ace*Mission | Los Angeles |
@@ -22,6 +21,7 @@ East End Dubs is a house and tech house artist based in United Kingdom, with 295
 
 ## Recently played
 
+- Document, Bristol · Sat, 14 Nov 2026
 - NX Newcastle, Newcastle · Fri, 13 Nov 2026
 - Sonorama, Medellin · Fri, 6 Nov 2026
 - Blackstone Street Warehouse, Liverpool · Sat, 31 Oct 2026
@@ -29,10 +29,9 @@ East End Dubs is a house and tech house artist based in United Kingdom, with 295
 - [UNVRS], Ibiza · Sat, 10 Oct 2026
 - Ushuaïa Ibiza, Ibiza · Sat, 10 Oct 2026
 - Hï Ibiza, Ibiza · Tue, 6 Oct 2026
-- The View From The Shard, London · Sun, 4 Oct 2026
 
 ## Shares bills with
 
 ALISHA, Max Dean, Jamback
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eastenddubs/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eastenddubs/)*

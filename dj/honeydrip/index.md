@@ -1,6 +1,6 @@
 # Honeydrip
 
-Honeydrip is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Société des arts technologiques, Montreal on Sat, 3 Apr 2027.
+Honeydrip is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Société des arts technologiques, Montreal on Sat, 3 Apr 2027.
 
 Honeydrip is a bass and techno artist based in Canada, with 72 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 18 more. Often billed alongside Deadbeat, Jen Cardini and Mossy Mugler. Next up: Société des arts technologiques, Montreal on Sat 3 Apr.
 
@@ -25,4 +25,4 @@ Honeydrip is a bass and techno artist based in Canada, with 72 gigs on soundchec
 
 Deadbeat, Jen Cardini, Mossy Mugler
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/honeydrip/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/honeydrip/)*

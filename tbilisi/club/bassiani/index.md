@@ -1,14 +1,13 @@
 # Bassiani
 
-Bassiani is a music venue in Tbilisi with 9 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Morevi: Keto, Kim Dürbeck, Patås, Pierre B" on Sat, 14 Nov 2026.
+Bassiani is a music venue in Tbilisi with 8 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Bassiani x Mala Junta" on Fri, 20 Nov 2026.
 
-Bassiani is a music venue in Tbilisi listed on soundcheck. 9 upcoming gigs, with line-ups including 98dots, Amelia Holt, Amir and ATEQ and 2 more. See dates, start times and who's playing. Tsereteli street 2 , Tbilisi, Georgia.
+Bassiani is a music venue in Tbilisi listed on soundcheck. 8 upcoming gigs, with line-ups including 98dots, Amelia Holt, Amir and ATEQ and 2 more. See dates, start times and who's playing. Tsereteli street 2 , Tbilisi, Georgia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Morevi: Keto, Kim Dürbeck, Patås, Pierre B | Keto, Kim Dürbeck, Patås, Pierre B |
 | Fri, 20 Nov 2026 | Bassiani x Mala Junta | D.Dan, DJ TOOL, Hyperaktivist, Kancheli, Ndrx, Newa, Sophie Phare, Yazzus |
 | Sat, 21 Nov 2026 | Hydrash: IAMEA, Valley Dolly, Zitto | IAMEA, Valley Dolly, Zitto |
 | Fri, 27 Nov 2026 | Delsin: 30 Years Anniversary | Amir (1), HVL, Kraumur, Kvanchi, STERAC, Tasha, Volodymyr Gnatenko, nthng |
@@ -22,4 +21,4 @@ Bassiani is a music venue in Tbilisi listed on soundcheck. 9 upcoming gigs, with
 
 Tsereteli street 2 , Tbilisi, Georgia, Tbilisi
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/bassiani/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/bassiani/)*

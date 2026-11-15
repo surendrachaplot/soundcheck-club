@@ -1,32 +1,29 @@
 # VÏVÏ
 
-VÏVÏ is a Techno and Breakbeat artist with 5 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Cube, Tokyo on Sat, 14 Nov 2026.
+VÏVÏ is a Techno and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at HVEN, Tokyo on Thu, 26 Nov 2026.
 
-VÏVÏ is a techno and breakbeat artist based in Japan, with 44 gigs on soundcheck across Okinawa, Osaka, Taipei and Tokyo. Often billed alongside DØLLHAUS, FrEaKyNoRiKy and AYANA KOSHIBA. Next up: Cube, Tokyo on Sat 14 Nov.
+VÏVÏ is a techno and breakbeat artist based in Japan, with 44 gigs on soundcheck across Okinawa, Osaka, Taipei and Tokyo. Often billed alongside DØLLHAUS, FrEaKyNoRiKy and AYANA KOSHIBA. Next up: HVEN, Tokyo on Thu 26 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Cube | Tokyo |
-| Sat, 14 Nov 2026 | Heavy Sick Zero | Tokyo |
-| Sat, 14 Nov 2026 | Nakano Heavysick Zero | Tokyo |
 | Thu, 26 Nov 2026 | HVEN | Tokyo |
 | Fri, 11 Dec 2026 | TBA - Secret Location  | Tokyo |
 
 ## Recently played
 
+- Cube, Tokyo · Sat, 14 Nov 2026
+- Heavy Sick Zero, Tokyo · Sat, 14 Nov 2026
+- Nakano Heavysick Zero, Tokyo · Sat, 14 Nov 2026
 - ZEROTOKYO, Tokyo · Fri, 13 Nov 2026
 - HVEN, Tokyo · Sat, 31 Oct 2026
 - TBA, Tokyo · Sat, 24 Oct 2026
 - TBA - QUEENDOM, Tokyo · Sun, 27 Sept 2026
 - TBA - Secret Location , Tokyo · Fri, 18 Sept 2026
-- Pipe Live Music, Taipei · Sat, 12 Sept 2026
-- Secret Venue in Minatoku-Nishiazabu, Tokyo · Sat, 29 Aug 2026
-- Yodo Groove (Yodobashi Ikebukuro), Tokyo · Sun, 16 Aug 2026
 
 ## Shares bills with
 
 DØLLHAUS, FrEaKyNoRiKy, AYANA KOSHIBA
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vïvï/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vïvï/)*

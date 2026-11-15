@@ -1,14 +1,13 @@
 # Cabaret Voltaire
 
-Cabaret Voltaire is a music venue in Edinburgh with 9 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "NCTRN030: Club Nocturne presents Hayley Zalassi" on Sat, 14 Nov 2026.
+Cabaret Voltaire is a music venue in Edinburgh with 8 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Bpm - Blonded" on Thu, 19 Nov 2026.
 
-Cabaret Voltaire is a music venue in Edinburgh listed on soundcheck. 9 upcoming gigs, with line-ups including cara hegarty, Dan Shake, Denis Sulta and Hayley Zalassi and 2 more. See dates, start times and who's playing. 36-38 Blair St; Edinburgh, EH1 1QR; Scotland; United Kingdom.
+Cabaret Voltaire is a music venue in Edinburgh listed on soundcheck. 8 upcoming gigs, with line-ups including cara hegarty, Dan Shake, Denis Sulta and jWave and 2 more. See dates, start times and who's playing. 36-38 Blair St; Edinburgh, EH1 1QR; Scotland; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | NCTRN030: Club Nocturne presents Hayley Zalassi | Hayley Zalassi |
 | Thu, 19 Nov 2026 | Bpm - Blonded |  |
 | Fri, 20 Nov 2026 | For the Love of House: jWave & Local Dub [You&Me] | Local Dub, jWave |
 | Sat, 21 Nov 2026 | NCTRN031: Club Nocturne presents Nyra | Nyra |
@@ -22,4 +21,4 @@ Cabaret Voltaire is a music venue in Edinburgh listed on soundcheck. 9 upcoming 
 
 36-38 Blair St; Edinburgh, EH1 1QR; Scotland; United Kingdom, Edinburgh
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/cabaret-voltaire/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/cabaret-voltaire/)*

@@ -1,18 +1,18 @@
 # Le Coné
 
-Le Coné is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at DAX Club, South on Sat, 14 Nov 2026.
+Le Coné is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at The Club (Málaga), Malaga on Fri, 20 Nov 2026.
 
-Le Coné is a techno and acid artist based in Spain, with 9 gigs on soundcheck across London, Madrid, Malaga and South. Often billed alongside Aizikovic, Agulla and Alvaro Sanchez. Next up: DAX Club, South on Sat 14 Nov.
+Le Coné is a techno and acid artist based in Spain, with 9 gigs on soundcheck across London, Madrid, Malaga and South. Often billed alongside Aizikovic, Agulla and Alvaro Sanchez. Next up: The Club (Málaga), Malaga on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | DAX Club | South |
 | Fri, 20 Nov 2026 | The Club (Málaga) | Malaga |
 
 ## Recently played
 
+- DAX Club, South · Sat, 14 Nov 2026
 - Secret Location, London · Sat, 14 Jun 2025
 - Sala Muv, Madrid · Wed, 16 Apr 2025
 - Sala Muv, Madrid · Fri, 7 Feb 2025
@@ -25,4 +25,4 @@ Le Coné is a techno and acid artist based in Spain, with 9 gigs on soundcheck a
 
 Aizikovic, Agulla, Alvaro Sanchez
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lecone/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lecone/)*

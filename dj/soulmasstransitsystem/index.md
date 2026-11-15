@@ -1,14 +1,13 @@
 # Soul Mass Transit System
 
-Soul Mass Transit System is a Garage and House artist with 11 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Kapsule, Liverpool on Sat, 14 Nov 2026.
+Soul Mass Transit System is a Garage and House artist with 10 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at block., Dublin on Sat, 21 Nov 2026.
 
-Soul Mass Transit System is a garage and house artist based in United Kingdom, with 167 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 42 more. Often billed alongside Silva Bumpa, Dr Dubplate and Faster Horses. Next up: Kapsule, Liverpool on Sat 14 Nov.
+Soul Mass Transit System is a garage and house artist based in United Kingdom, with 167 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 42 more. Often billed alongside Silva Bumpa, Dr Dubplate and Faster Horses. Next up: block., Dublin on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Kapsule | Liverpool |
 | Sat, 21 Nov 2026 | block. | Dublin |
 | Sat, 28 Nov 2026 | Cardiff Students' Union - The Great Hall | Cardiff |
 | Fri, 4 Dec 2026 | Digital | Newcastle |
@@ -22,6 +21,7 @@ Soul Mass Transit System is a garage and house artist based in United Kingdom, w
 
 ## Recently played
 
+- Kapsule, Liverpool · Sat, 14 Nov 2026
 - La Cheetah Club, Glasgow · Fri, 13 Nov 2026
 - Plot 22, Sheffield · Fri, 6 Nov 2026
 - Sneaky Pete's, Edinburgh · Tue, 3 Nov 2026
@@ -29,10 +29,9 @@ Soul Mass Transit System is a garage and house artist based in United Kingdom, w
 - Hope House, Leeds · Fri, 30 Oct 2026
 - Basement Amsterdam, Amsterdam · Sat, 24 Oct 2026
 - Bajes Amsterdam, Amsterdam · Thu, 22 Oct 2026
-- Gaswrx Birmingham, Birmingham · Sat, 17 Oct 2026
 
 ## Shares bills with
 
 Silva Bumpa, Dr Dubplate, Faster Horses
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soulmasstransitsystem/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soulmasstransitsystem/)*

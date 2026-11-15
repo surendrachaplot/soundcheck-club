@@ -1,14 +1,13 @@
 # Ryan Elliott
 
-Ryan Elliott is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Supermarket, Zurich on Sat, 14 Nov 2026.
+Ryan Elliott is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Gate Milano, Milan on Fri, 20 Nov 2026.
 
-Ryan Elliott is a house and techno artist based in United States of America, with 276 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 70 more. Often billed alongside Ogazón, Christian AB and PARAMIDA. Next up: Supermarket, Zurich on Sat 14 Nov.
+Ryan Elliott is a house and techno artist based in United States of America, with 276 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 70 more. Often billed alongside Ogazón, Christian AB and PARAMIDA. Next up: Gate Milano, Milan on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Supermarket | Zurich |
 | Fri, 20 Nov 2026 | Gate Milano | Milan |
 | Sat, 21 Nov 2026 | Carpa & Picnic of El Poble Espanyol | Barcelona |
 | Sun, 22 Nov 2026 | essaim | Paris |
@@ -20,9 +19,11 @@ Ryan Elliott is a house and techno artist based in United States of America, wit
 | Sat, 19 Dec 2026 | Depot Mayfield | Manchester |
 | Fri, 28 May 2027 | Peckham Rye Park | London |
 | Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
+| Thu, 22 Jul 2027 | Great Fulford | West-wales |
 
 ## Recently played
 
+- Supermarket, Zurich · Sat, 14 Nov 2026
 - Folklor, Lausanne · Fri, 13 Nov 2026
 - Lofi, Amsterdam · Sat, 7 Nov 2026
 - Invisible Wind Factory, Liverpool · Sat, 31 Oct 2026
@@ -30,10 +31,9 @@ Ryan Elliott is a house and techno artist based in United States of America, wit
 - Skatecafe, Amsterdam · Sun, 25 Oct 2026
 - Mediahaven - Minervahaven, Amsterdam · Sat, 24 Oct 2026
 - GASHOUDER, Amsterdam · Fri, 23 Oct 2026
-- The Loft Amsterdam, Amsterdam · Fri, 23 Oct 2026
 
 ## Shares bills with
 
 Ogazón, Christian AB, PARAMIDA
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanelliott/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanelliott/)*

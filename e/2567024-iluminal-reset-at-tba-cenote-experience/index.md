@@ -1,6 +1,6 @@
 # ILUMINAL Reset at TBA - Cenote Experience
 
-ILUMINAL Reset at TBA - Cenote Experience on Tue 5 Jan, Tulum. 1 artist: Traumer. See the line-up on soundcheck.
+ILUMINAL Reset at TBA - Cenote Experience on Tue 5 Jan, Tulum. 2 artists: Janeret and Traumer. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ ILUMINAL Reset at TBA - Cenote Experience on Tue 5 Jan, Tulum. 1 artist: Traumer
 
 ## Line-up
 
+- Janeret
 - Traumer
 
 *Source: [soundcheck](https://soundcheck.club/e/2567024-iluminal-reset-at-tba-cenote-experience/)*

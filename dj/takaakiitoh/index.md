@@ -1,14 +1,13 @@
 # Takaaki Itoh
 
-Takaaki Itoh is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Astron Club, Athens on Sat, 14 Nov 2026.
+Takaaki Itoh is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Turbina, Budapest on Fri, 20 Nov 2026.
 
-Takaaki Itoh is a techno and house artist based in Japan, with 134 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 42 more. Often billed alongside Loktibrada, DANA NADA and DANDAN. Next up: Astron Club, Athens on Sat 14 Nov.
+Takaaki Itoh is a techno and house artist based in Japan, with 134 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 42 more. Often billed alongside Loktibrada, DANA NADA and DANDAN. Next up: Turbina, Budapest on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Astron Club | Athens |
 | Fri, 20 Nov 2026 | Turbina | Budapest |
 | Sat, 21 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 11 Dec 2026 | Abercrombie Hotel | Sydney |
@@ -16,6 +15,7 @@ Takaaki Itoh is a techno and house artist based in Japan, with 134 gigs on sound
 
 ## Recently played
 
+- Astron Club, Athens · Sat, 14 Nov 2026
 - VENT, Tokyo · Sat, 31 Oct 2026
 - Cross Club, Prague · Fri, 16 Oct 2026
 - Azimut Club, Turin · Sat, 10 Oct 2026
@@ -23,10 +23,9 @@ Takaaki Itoh is a techno and house artist based in Japan, with 134 gigs on sound
 - RADION, Amsterdam · Sat, 3 Oct 2026
 - Fever, Bilbao · Fri, 2 Oct 2026
 - TBA - WAREHOUSE ECO PARK Cl. 24 #48 - 27, El Poblado, Medellín, Medellin · Sat, 26 Sept 2026
-- TBA - Los Angeles, Los Angeles · Sat, 12 Sept 2026
 
 ## Shares bills with
 
 Loktibrada, DANA NADA, DANDAN
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/takaakiitoh/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/takaakiitoh/)*

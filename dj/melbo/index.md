@@ -1,6 +1,6 @@
 # Melbo
 
-Melbo is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Südpol, Hamburg on Fri, 13 Nov 2026.
+Melbo is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Südpol, Hamburg on Fri, 13 Nov 2026.
 
 Melbo is a techno and house artist based in Germany, with 54 gigs on soundcheck across Berlin, Cologne, Frankfurt and Hamburg and 5 more. Often billed alongside Falke, Surreal (DE) and Foolik. Next up: Südpol, Hamburg on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Melbo is a techno and house artist based in Germany, with 54 gigs on soundcheck 
 
 Falke, Surreal (DE), Foolik
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/melbo/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/melbo/)*

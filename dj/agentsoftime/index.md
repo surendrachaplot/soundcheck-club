@@ -1,14 +1,13 @@
 # Agents Of Time
 
-Agents Of Time is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
+Agents Of Time is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Lofi, Amsterdam on Fri, 20 Nov 2026.
 
-Agents Of Time is a techno and house artist based in Italy, with 141 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 44 more. Often billed alongside Kevin de Vries, Stephan Bodzin and Henri Bergmann. Next up: Hungexpo Budapest, Budapest on Fri 13 Nov.
+Agents Of Time is a techno and house artist based in Italy, with 141 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 44 more. Often billed alongside Kevin de Vries, Stephan Bodzin and Henri Bergmann. Next up: Lofi, Amsterdam on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Hungexpo Budapest | Budapest |
 | Fri, 20 Nov 2026 | Lofi | Amsterdam |
 
 ## Recently played
@@ -26,4 +25,4 @@ Agents Of Time is a techno and house artist based in Italy, with 141 gigs on sou
 
 Kevin de Vries, Stephan Bodzin, Henri Bergmann
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/agentsoftime/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/agentsoftime/)*

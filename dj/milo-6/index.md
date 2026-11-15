@@ -1,8 +1,8 @@
 # Milo (6)
 
-Milo (6) is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Phonox, London on Thu, 10 Dec 2026.
+Milo (6) is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Phonox, London on Thu, 10 Dec 2026.
 
-Milo is a house and bass artist, with 4 gigs on soundcheck across London. Often billed alongside FITS ME FUNNY, Alé and DJ VALENTINE. Next up: Phonox, London on Thu 10 Dec.
+Milo is a house and bass artist based in United Kingdom, with 4 gigs on soundcheck across London. Often billed alongside FITS ME FUNNY, Alé and DJ VALENTINE. Next up: Phonox, London on Thu 10 Dec.
 
 ## Upcoming shows
 
@@ -20,4 +20,4 @@ Milo is a house and bass artist, with 4 gigs on soundcheck across London. Often 
 
 FITS ME FUNNY, Alé (1), DJ VALENTINE
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milo-6/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milo-6/)*

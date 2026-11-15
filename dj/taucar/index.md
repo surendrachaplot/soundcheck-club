@@ -1,13 +1,14 @@
 # Tau Car
 
-Tau Car is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Le Trabendo, Paris on Fri, 15 Jan 2027.
+Tau Car is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Neue Welle, Leipzig on Sat, 12 Dec 2026.
 
-Tau Car is a house and techno artist based in France, with 124 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Bangkok and 34 more. Often billed alongside International Mac, Konstantin and Edward. Next up: Le Trabendo, Paris on Fri 15 Jan.
+Tau Car is a house and techno artist based in France, with 125 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Bangkok and 34 more. Often billed alongside International Mac, Konstantin and Edward. Next up: Neue Welle, Leipzig on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Dec 2026 | Neue Welle | Leipzig |
 | Fri, 15 Jan 2027 | Le Trabendo | Paris |
 
 ## Recently played
@@ -25,4 +26,4 @@ Tau Car is a house and techno artist based in France, with 124 gigs on soundchec
 
 International Mac, Konstantin, Edward
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taucar/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taucar/)*

@@ -1,15 +1,13 @@
 # Bossa Nova Civic Club
 
-Bossa Nova Civic Club is a music venue in New York City with 31 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Happy Hour: Cow Tools, Alex Hell-n, Airali" on Sat, 14 Nov 2026.
+Bossa Nova Civic Club is a music venue in New York City with 29 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Planet B / Colored Craig / Avenue F" on Sun, 15 Nov 2026.
 
-Bossa Nova Civic Club is a music venue in New York City listed on soundcheck. 31 upcoming gigs, with line-ups including 1-800 GIRLS, DJ.K2, AceMo and Adam X and 2 more. See dates, start times and who's playing. 1271 Myrtle Ave; Brooklyn, NY 11221; United States.
+Bossa Nova Civic Club is a music venue in New York City listed on soundcheck. 29 upcoming gigs, with line-ups including 1-800 GIRLS, DJ.K2, AceMo and Adam X and 2 more. See dates, start times and who's playing. 1271 Myrtle Ave; Brooklyn, NY 11221; United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Happy Hour: Cow Tools, Alex Hell-n, Airali | Airali, Alex Hell-n, Cow Tools |
-| Sat, 14 Nov 2026 | Quantum | DJ Manny, LITA DA DOLL, PHILIP MORGAN |
 | Sun, 15 Nov 2026 | Planet B / Colored Craig / Avenue F | Avenue F, Colored Craig, Planet B |
 | Sun, 15 Nov 2026 | Happy Hour: Bajo Constructo with Synestesia & Yann Brogard | KORBEAT, Synestesia |
 | Mon, 16 Nov 2026 | Fractals pres SANCTUM with CRYFXB, Dante Pasquale, DJGothQueen, Rapture | CRYFXB, Djgothqueen (3), Rapture |
@@ -18,9 +16,11 @@ Bossa Nova Civic Club is a music venue in New York City listed on soundcheck. 31
 | Wed, 18 Nov 2026 | CRUD0 TAKES OVER Bossa Nova Civic Club - FREE WITH RSVP |  |
 | Wed, 18 Nov 2026 | Happy Hour at Bossa Nova with IKU, 1800Packbrat, and Helixfang |  |
 | Thu, 19 Nov 2026 | Happy Hour: ENDOCYTOSIS | mxmax |
+| Thu, 19 Nov 2026 | COKETAZO | Cisne, KLKÉ, LILLA, MORPHINA |
+| Fri, 20 Nov 2026 | No Vista: Mike Q, Mike Gip, Daniro, Brick Bandits | Daniro, MikeQ |
 
 ## Address
 
 1271 Myrtle Ave; Brooklyn, NY 11221; United States, New York City
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/bossa-nova-civic-club/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/bossa-nova-civic-club/)*

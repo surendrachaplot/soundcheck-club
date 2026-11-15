@@ -1,14 +1,13 @@
 # Tokonoma Club
 
-Tokonoma Club is a music venue in Frankfurt with 6 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "CIRCLE (WDC Closing)" on Sat, 14 Nov 2026.
+Tokonoma Club is a music venue in Frankfurt with 5 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "CIRCLE x STORNO (anniversary)" on Fri, 20 Nov 2026.
 
-Tokonoma Club is a music venue in Frankfurt listed on soundcheck. 6 upcoming gigs, with line-ups including Adriana Lopez, Anna Hjalmarsson, Answer Code Request and Bliss Inc. and 2 more. See dates, start times and who's playing. Gutleutstraße 320,60327 Frankfurt.
+Tokonoma Club is a music venue in Frankfurt listed on soundcheck. 5 upcoming gigs, with line-ups including Anna Hjalmarsson, Answer Code Request, Bliss Inc. and Byron Yeates and 2 more. See dates, start times and who's playing. Gutleutstraße 320,60327 Frankfurt.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | CIRCLE (WDC Closing) | Adriana Lopez, Anna Hjalmarsson, Max Best, Minju, Red Rooms, Soyoon, Wigbert |
 | Fri, 20 Nov 2026 | CIRCLE x STORNO (anniversary) | Carmen Electro, GERKE, SHDW |
 | Sat, 21 Nov 2026 | CIRCLE | DJ ZBB, DJoy, David Böning, Eileen, Onur Özer, Robin RB |
 | Fri, 27 Nov 2026 | (FULL CIRCLE) | Anna Hjalmarsson, Answer Code Request, Bliss Inc., Byron Yeates, Cosmic Cherry, DJ Hyperdrive, DJ MELL G, DJ Stingray 313, JSPRV35, Maruwa, Massimiliano Pagliara, Meilgaarden, SAFA, Sansibar, Silverlining, The Lady Machine, Tiago Walter, Vera, Wigbert, ZSZS, not even noticed |
@@ -19,4 +18,4 @@ Tokonoma Club is a music venue in Frankfurt listed on soundcheck. 6 upcoming gig
 
 Gutleutstraße 320,60327 Frankfurt, Frankfurt
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/tokonoma-club/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/tokonoma-club/)*

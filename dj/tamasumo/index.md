@@ -1,14 +1,13 @@
 # Tama Sumo
 
-Tama Sumo is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 14 Nov 2026.
+Tama Sumo is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 4 Dec 2026.
 
-Tama Sumo is a house and techno artist based in Germany, with 220 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 62 more. Often billed alongside Lakuti, Roi Perez and MUSCLECARS. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Sat 14 Nov.
+Tama Sumo is a house and techno artist based in Germany, with 220 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 62 more. Often billed alongside Lakuti, Roi Perez and MUSCLECARS. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | NAMA - Nuovo Anfiteatro Martesana | Milan |
 | Fri, 4 Dec 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 26 Dec 2026 | TBA - Fortim CE | Brazil |
 | Wed, 3 Mar 2027 | El Rio Hostel | Colombia |
@@ -18,6 +17,7 @@ Tama Sumo is a house and techno artist based in Germany, with 220 gigs on soundc
 
 ## Recently played
 
+- NAMA - Nuovo Anfiteatro Martesana, Milan · Sat, 14 Nov 2026
 - TBA - 3 LOCAIS / 3 LOCATIONS, Sao-paulo · Fri, 6 Nov 2026
 - Signal, New York City · Sun, 1 Nov 2026
 - Tangent Gallery, Detroit · Sat, 31 Oct 2026
@@ -25,10 +25,9 @@ Tama Sumo is a house and techno artist based in Germany, with 220 gigs on soundc
 - TBA, Chicago · Fri, 30 Oct 2026
 - San Francisco Belle Hornblower, San Francisco/Oakland · Sun, 25 Oct 2026
 - Den Anden Side, Copenhagen · Sat, 10 Oct 2026
-- Spook Club, Valencia · Sat, 26 Sept 2026
 
 ## Shares bills with
 
 Lakuti, Roi Perez, MUSCLECARS
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tamasumo/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tamasumo/)*

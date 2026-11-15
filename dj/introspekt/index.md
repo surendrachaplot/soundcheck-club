@@ -1,14 +1,13 @@
 # Introspekt
 
-Introspekt is a Garage and Bass artist with 10 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at P0rtal, Rhode-island on Sat, 14 Nov 2026.
+Introspekt is a Garage and Bass artist with 9 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA - NAICOB - 105 S. Huntington Ave. Jamaica Plain, 02130, Boston on Sun, 15 Nov 2026.
 
-Introspekt is a garage and bass artist based in United States of America, with 202 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Austin and 50 more. Often billed alongside Octo Octa, CCL and Angel D'lite. Next up: P0rtal, Rhode Island on Sat 14 Nov.
+Introspekt is a garage and bass artist based in United States of America, with 202 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Austin and 50 more. Often billed alongside Octo Octa, CCL and Angel D'lite. Next up: TBA - NAICOB - 105 S. Huntington Ave. Jamaica Plain, 02130, Boston on Sun 15 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | P0rtal | Rhode-island |
 | Sun, 15 Nov 2026 | TBA - NAICOB - 105 S. Huntington Ave. Jamaica Plain, 02130 | Boston |
 | Fri, 20 Nov 2026 | Post Bar | Helsinki |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
@@ -21,6 +20,7 @@ Introspekt is a garage and bass artist based in United States of America, with 2
 
 ## Recently played
 
+- P0rtal, Rhode-island · Sat, 14 Nov 2026
 - Nowadays, New York City · Fri, 13 Nov 2026
 - KABUL à GoGo, Utrecht · Sat, 7 Nov 2026
 - Headrow House, Leeds · Fri, 6 Nov 2026
@@ -28,10 +28,9 @@ Introspekt is a garage and bass artist based in United States of America, with 2
 - nachbar, Amsterdam · Sat, 31 Oct 2026
 - FOLD, London · Fri, 23 Oct 2026
 - San Francisco, Amsterdam · Thu, 22 Oct 2026
-- TBA, Berlin · Sun, 4 Oct 2026
 
 ## Shares bills with
 
 Octo Octa, CCL, Angel D'lite
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/introspekt/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/introspekt/)*

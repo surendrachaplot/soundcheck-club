@@ -1,14 +1,13 @@
 # Ogazón
 
-Ogazón is a Techno and House artist with 17 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Lx Factory, Lisbon on Sat, 14 Nov 2026.
+Ogazón is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Expo Santa Fe, Mexico City on Fri, 20 Nov 2026.
 
-Ogazón is a techno and house artist based in Luxembourg, with 318 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 80 more. Often billed alongside Ryan Elliott, Marcel Dettmann and BASHKKA. Next up: Lx Factory, Lisbon on Sat 14 Nov.
+Ogazón is a techno and house artist based in Luxembourg, with 318 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 80 more. Often billed alongside Ryan Elliott, Marcel Dettmann and BASHKKA. Next up: Expo Santa Fe, Mexico City on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Lx Factory | Lisbon |
 | Fri, 20 Nov 2026 | Expo Santa Fe | Mexico City |
 | Sat, 21 Nov 2026 | Flash | Washington DC |
 | Sat, 28 Nov 2026 | fabric | London |
@@ -20,9 +19,11 @@ Ogazón is a techno and house artist based in Luxembourg, with 318 gigs on sound
 | Fri, 18 Dec 2026 | Nordstern | Basel |
 | Sat, 30 Jan 2027 | Invisible Wind Factory | Liverpool |
 | Sat, 6 Mar 2027 | fabric | London |
+| Sat, 20 Mar 2027 | den Atelier | Luxembourg |
 
 ## Recently played
 
+- Lx Factory, Lisbon · Sat, 14 Nov 2026
 - Plano B, Porto · Fri, 13 Nov 2026
 - Q35 WAREHOUSE, Turin · Sat, 7 Nov 2026
 - Zoom Club, Frankfurt · Fri, 6 Nov 2026
@@ -30,10 +31,9 @@ Ogazón is a techno and house artist based in Luxembourg, with 318 gigs on sound
 - RADION, Amsterdam · Sun, 25 Oct 2026
 - BRET, Amsterdam · Fri, 23 Oct 2026
 - TBA, Amsterdam · Thu, 22 Oct 2026
-- Post Bar, Helsinki · Sat, 17 Oct 2026
 
 ## Shares bills with
 
 Ryan Elliott, Marcel Dettmann, BASHKKA
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ogazon/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ogazon/)*

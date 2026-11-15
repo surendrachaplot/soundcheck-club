@@ -1,14 +1,13 @@
 # Antal
 
-Antal is a House and Disco artist with 15 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Inter-City, The Hague on Sat, 14 Nov 2026.
+Antal is a House and Disco artist with 14 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA - Brussels, Brussels on Sat, 21 Nov 2026.
 
-Antal is a house and disco artist based in Netherlands, with 178 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 57 more. Often billed alongside Hunee, Kléo and Coco Maria. Next up: Inter-City, The Hague on Sat 14 Nov.
+Antal is a house and disco artist based in Netherlands, with 178 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 57 more. Often billed alongside Hunee, Kléo and Coco Maria. Next up: TBA - Brussels, Brussels on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Inter-City | The Hague |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
 | Sat, 28 Nov 2026 | fabric | London |
 | Sat, 5 Dec 2026 | Palais Mascotte | Zurich |
@@ -20,9 +19,11 @@ Antal is a house and disco artist based in Netherlands, with 178 gigs on soundch
 | Sat, 26 Dec 2026 | TBA - Fortim CE | Brazil |
 | Mon, 15 Mar 2027 | Leysin Ski Resort | Switzerland |
 | Fri, 16 Apr 2027 | Higashi Izu Cross Country Course | Chubu |
+| Fri, 28 May 2027 | Peckham Rye Park | London |
 
 ## Recently played
 
+- Inter-City, The Hague · Sat, 14 Nov 2026
 - Salle des Fêtes de Fives, Lille · Sun, 8 Nov 2026
 - Rex Club, Paris · Sat, 7 Nov 2026
 - Doka, Amsterdam · Sun, 25 Oct 2026
@@ -30,10 +31,9 @@ Antal is a house and disco artist based in Netherlands, with 178 gigs on soundch
 - Ndsm Wharf, Amsterdam · Fri, 23 Oct 2026
 - San Francisco, Amsterdam · Thu, 22 Oct 2026
 - 1 Hotel Tokyo, Tokyo · Sat, 10 Oct 2026
-- Tanjong Pagar Distripark, Singapore · Sat, 3 Oct 2026
 
 ## Shares bills with
 
 Hunee, Kléo, Coco Maria
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antal/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antal/)*

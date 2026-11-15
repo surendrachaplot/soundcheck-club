@@ -1,13 +1,14 @@
 # J4NNICH
 
-J4NNICH is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at ://about blank, Berlin on Fri, 4 Dec 2026.
+J4NNICH is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Sensorium, Berlin on Sat, 21 Nov 2026.
 
-J4NNICH is a techno and tech house artist based in Germany, with 4 gigs on soundcheck across Berlin. Often billed alongside sischex, *Tia* and Alexander Pohl. Next up: ://about blank, Berlin on Fri 4 Dec.
+J4NNICH is a techno and tech house artist based in Germany, with 5 gigs on soundcheck across Berlin. Often billed alongside EVYA, jaynetics and sischex. Next up: Sensorium, Berlin on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | Sensorium | Berlin |
 | Fri, 4 Dec 2026 | ://about blank | Berlin |
 
 ## Recently played
@@ -18,6 +19,6 @@ J4NNICH is a techno and tech house artist based in Germany, with 4 gigs on sound
 
 ## Shares bills with
 
-sischex, *Tia*, Alexander Pohl
+EVYA, jaynetics, sischex
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/j4nnich/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/j4nnich/)*

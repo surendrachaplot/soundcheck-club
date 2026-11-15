@@ -1,6 +1,6 @@
 # The California Clipper
 
-The California Clipper is a music venue in Chicago with 6 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Sidaka presents: Songs in '24/7' Solo Piano Works" on Sun, 15 Nov 2026.
+The California Clipper is a music venue in Chicago with 6 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Sidaka presents: Songs in '24/7' Solo Piano Works" on Sun, 15 Nov 2026.
 
 The California Clipper is a music venue in Chicago listed on soundcheck. 6 upcoming gigs, with line-ups including Dan B Hood, Emmaculate, Jaq Attaque and jayah and 2 more. See dates, start times and who's playing. 1002 N California Ave, Chicago, IL 60622.
 
@@ -19,4 +19,4 @@ The California Clipper is a music venue in Chicago listed on soundcheck. 6 upcom
 
 1002 N California Ave, Chicago, IL 60622, Chicago
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/the-california-clipper/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/the-california-clipper/)*

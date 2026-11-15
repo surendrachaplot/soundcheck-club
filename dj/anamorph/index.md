@@ -1,6 +1,6 @@
 # Anamorph
 
-Anamorph is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Salon des Amateurs, Düsseldorf on Sat, 21 Nov 2026.
+Anamorph is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Salon des Amateurs, Düsseldorf on Sat, 21 Nov 2026.
 
 Anamorph is a techno and house artist based in Tunisia, with 4 gigs on soundcheck across Athens, Brussels, Düsseldorf and Hannover. Often billed alongside Andrei Ciubuc, Bennet (DE) and Funkylanda. Next up: Salon des Amateurs, Düsseldorf on Sat 21 Nov.
 
@@ -20,4 +20,4 @@ Anamorph is a techno and house artist based in Tunisia, with 4 gigs on soundchec
 
 Andrei Ciubuc, Bennet (DE), Funkylanda
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anamorph/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anamorph/)*

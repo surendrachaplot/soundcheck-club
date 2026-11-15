@@ -1,6 +1,6 @@
 # Chef Carl
 
-Chef Carl is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Showtime Lounge, Washington DC on Sun, 15 Nov 2026.
+Chef Carl is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Showtime Lounge, Washington DC on Sun, 15 Nov 2026.
 
 Chef Carl is a house and balearic artist based in United States of America, with 12 gigs on soundcheck across Atlanta, Baltimore, Philadelphia and Washington DC. Often billed alongside Babypufff, Joyce Lim and Tommy Cornelis. Next up: Showtime Lounge, Washington DC on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Chef Carl is a house and balearic artist based in United States of America, with
 
 Babypufff, Joyce Lim, Tommy Cornelis
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chefcarl/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chefcarl/)*

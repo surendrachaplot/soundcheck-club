@@ -1,6 +1,6 @@
 # ISA (ES)
 
-ISA (ES) is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Fitzroy, Berlin on Sun, 15 Nov 2026.
+ISA (ES) is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Fitzroy, Berlin on Sun, 15 Nov 2026.
 
 ISA (ES) is a techno and trance artist based in Spain, with 85 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 11 more. Often billed alongside Mademoisel, Alviker and DJ Botanika. Next up: Fitzroy, Berlin on Sun 15 Nov.
 
@@ -27,4 +27,4 @@ ISA (ES) is a techno and trance artist based in Spain, with 85 gigs on soundchec
 
 Mademoisel, Alviker, DJ Botanika
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/isa-es/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/isa-es/)*

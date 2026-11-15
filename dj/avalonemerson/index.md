@@ -1,6 +1,6 @@
 # Avalon Emerson
 
-Avalon Emerson is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Hangar, Belgrade on Fri, 20 Nov 2026.
+Avalon Emerson is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Hangar, Belgrade on Fri, 20 Nov 2026.
 
 Avalon Emerson is a techno and house artist based in United States of America, with 199 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 57 more. Often billed alongside Sedef Adasï, BASHKKA and Aurora Halal. Next up: Hangar, Belgrade on Fri 20 Nov.
 
@@ -31,4 +31,4 @@ Avalon Emerson is a techno and house artist based in United States of America, w
 
 Sedef Adasï, BASHKKA, Aurora Halal
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avalonemerson/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avalonemerson/)*

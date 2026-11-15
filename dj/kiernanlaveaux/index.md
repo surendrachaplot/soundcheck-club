@@ -1,6 +1,6 @@
 # Kiernan Laveaux
 
-Kiernan Laveaux is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Miscellania, Melbourne on Sat, 14 Nov 2026.
+Kiernan Laveaux is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Miscellania, Melbourne on Sat, 14 Nov 2026.
 
 Kiernan Laveaux is a techno and house artist based in United States of America, with 177 gigs on soundcheck across Amsterdam, Atlanta, Baltimore and Barcelona and 32 more. Often billed alongside ADAB, Malzof and CCL. Next up: Miscellania, Melbourne on Sat 14 Nov.
 
@@ -16,6 +16,7 @@ Kiernan Laveaux is a techno and house artist based in United States of America, 
 
 ## Recently played
 
+- Miscellania, Melbourne · Sat, 14 Nov 2026
 - TBA - Mount Adrah, Wiradjuri Country NSW, New-south-wales · Fri, 6 Nov 2026
 - Bossa Nova Civic Club, New York City · Sun, 1 Nov 2026
 - The Compound, Baltimore · Fri, 30 Oct 2026
@@ -23,10 +24,9 @@ Kiernan Laveaux is a techno and house artist based in United States of America, 
 - TBA - Brooklyn, New York City · Sat, 24 Oct 2026
 - House of Yes, New York City · Fri, 23 Oct 2026
 - TBA - Secret Location, San Diego · Sat, 17 Oct 2026
-- Bantha Tea Bar, Pittsburgh · Wed, 7 Oct 2026
 
 ## Shares bills with
 
 ADAB, Malzof, CCL
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kiernanlaveaux/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kiernanlaveaux/)*

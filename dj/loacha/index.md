@@ -1,6 +1,6 @@
 # Loacha
 
-Loacha is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Alaska Waterloo, London on Fri, 11 Dec 2026.
+Loacha is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Alaska Waterloo, London on Fri, 11 Dec 2026.
 
 Loacha is a house and garage artist based in United Kingdom, with 20 gigs on soundcheck across London. Often billed alongside HiFever, Harrison BDP and lucello. Next up: Alaska Waterloo, London on Fri 11 Dec.
 
@@ -12,7 +12,7 @@ Loacha is a house and garage artist based in United Kingdom, with 20 gigs on sou
 
 ## Recently played
 
-- Night Tales Loft, London · Sat, 15 Aug 2026
+- NT's Loft, London · Sat, 15 Aug 2026
 - Arch 14, London · Thu, 30 Apr 2026
 - Night Tales, London · Sat, 10 Jan 2026
 - Tola, London · Fri, 26 Sept 2025
@@ -25,4 +25,4 @@ Loacha is a house and garage artist based in United Kingdom, with 20 gigs on sou
 
 HiFever, Harrison BDP, lucello
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loacha/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loacha/)*

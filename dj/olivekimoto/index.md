@@ -1,6 +1,6 @@
 # Olive Kimoto
 
-Olive Kimoto is a Ambient and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA, Los Angeles on Sun, 15 Nov 2026.
+Olive Kimoto is a Ambient and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA, Los Angeles on Sun, 15 Nov 2026.
 
 Olive Kimoto is an ambient and downtempo artist based in United States of America, with 10 gigs on soundcheck across Los Angeles and Seoul. Often billed alongside Bianca Lexis, Bondo and Maral. Next up: TBA, Los Angeles on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Olive Kimoto is an ambient and downtempo artist based in United States of Americ
 
 Bianca Lexis, Bondo, Maral
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/olivekimoto/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/olivekimoto/)*

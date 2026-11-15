@@ -1,6 +1,6 @@
 # KARLOVE
 
-KARLOVE is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Umoya, Naples on Fri, 1 Jan 2027.
+KARLOVE is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Umoya, Naples on Fri, 1 Jan 2027.
 
 KARLOVE is a disco and house artist based in Italy, with 25 gigs on soundcheck across Naples. Often billed alongside ThanksMate, Giuseppe Fava and Obbi. Next up: Umoya, Naples on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ KARLOVE is a disco and house artist based in Italy, with 25 gigs on soundcheck a
 
 ThanksMate, Giuseppe Fava, Obbi
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karlove/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karlove/)*

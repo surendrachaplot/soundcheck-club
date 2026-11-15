@@ -1,6 +1,6 @@
 # Sammy Sanchez
 
-Sammy Sanchez is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Revolver Upstairs, Melbourne on Sat, 21 Nov 2026.
+Sammy Sanchez is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Revolver Upstairs, Melbourne on Sat, 21 Nov 2026.
 
 Sammy Sanchez is a house and disco artist based in Australia, with 23 gigs on soundcheck across Melbourne. Often billed alongside Freddy Gardens, Proto-Exotica and Princey. Next up: Revolver Upstairs, Melbourne on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Sammy Sanchez is a house and disco artist based in Australia, with 23 gigs on so
 
 Freddy Gardens, Proto-Exotica, Princey
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sammysanchez/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sammysanchez/)*

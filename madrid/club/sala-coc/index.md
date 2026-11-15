@@ -1,14 +1,13 @@
 # Sala Cocó
 
-Sala Cocó is a music venue in Madrid with 9 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Clouds / Gerardo Niva B2B JÄMO" on Sat, 14 Nov 2026.
+Sala Cocó is a music venue in Madrid with 8 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Kara Okay / Gerardo Niva" on Thu, 19 Nov 2026.
 
-Sala Cocó is a music venue in Madrid listed on soundcheck. 9 upcoming gigs, with line-ups including Clouds, DJ Heartstring, DJ SWISHERMAN and doccudder and 2 more. See dates, start times and who's playing. Calle Alcalá 20, 28014 Madrid, Spain.
+Sala Cocó is a music venue in Madrid listed on soundcheck. 8 upcoming gigs, with line-ups including DJ Heartstring, DJ SWISHERMAN, doccudder and Eliza Rose and 2 more. See dates, start times and who's playing. Calle Alcalá 20, 28014 Madrid, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Clouds / Gerardo Niva B2B JÄMO | Clouds, Gerardo Niva, JÄMO |
 | Thu, 19 Nov 2026 | Kara Okay / Gerardo Niva | Gerardo Niva, Kara Okay |
 | Sat, 21 Nov 2026 | LOVEFOXY / Gerardo Niva / DJ SWISHERMAN | DJ SWISHERMAN, Gerardo Niva, LOVEFOXY |
 | Thu, 26 Nov 2026 | Locklead / Gerardo Niva / DJ SWISHERMAN B2B doccudder | DJ SWISHERMAN, Gerardo Niva, Locklead, doccudder |
@@ -22,4 +21,4 @@ Sala Cocó is a music venue in Madrid listed on soundcheck. 9 upcoming gigs, wit
 
 Calle Alcalá 20, 28014 Madrid, Spain, Madrid
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-coc/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-coc/)*

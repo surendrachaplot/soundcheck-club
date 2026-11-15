@@ -1,14 +1,13 @@
 # Super7
 
-Super7 is a music venue in Lyon with 6 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "JUSTINE FOREVER • LOULZ" on Sat, 14 Nov 2026.
+Super7 is a music venue in Lyon with 5 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "ALADDIN • NOYO" on Sun, 15 Nov 2026.
 
-Super7 is a music venue in Lyon listed on soundcheck. 6 upcoming gigs. See dates, start times and who's playing. 40 rue Saint-Jérôme 69007 Lyon.
+Super7 is a music venue in Lyon listed on soundcheck. 5 upcoming gigs. See dates, start times and who's playing. 40 rue Saint-Jérôme 69007 Lyon.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | JUSTINE FOREVER • LOULZ |  |
 | Sun, 15 Nov 2026 | ALADDIN • NOYO |  |
 | Thu, 19 Nov 2026 | Super7: Lieu De Vie Et Club |  |
 | Fri, 20 Nov 2026 | Super7: Lieu De Vie Et Club |  |
@@ -19,4 +18,4 @@ Super7 is a music venue in Lyon listed on soundcheck. 6 upcoming gigs. See dates
 
 40 rue Saint-Jérôme 69007 Lyon, Lyon
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/super7/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/super7/)*

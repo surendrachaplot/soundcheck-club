@@ -1,6 +1,6 @@
 # Strategy
 
-Strategy is a Drum & Bass and Bass artist with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at The Button Factory, Auckland on Sat, 21 Nov 2026.
+Strategy is a Drum & Bass and Bass artist with 4 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at The Button Factory, Auckland on Sat, 21 Nov 2026.
 
 Strategy is a drum & bass and bass artist based in United States of America, with 56 gigs on soundcheck across Auckland, Bristol, Chicago and Christchurch and 12 more. Often billed alongside Rich Reason, Chimpo and T-Man (UK). Next up: The Button Factory, Auckland on Sat 21 Nov.
 
@@ -28,4 +28,4 @@ Strategy is a drum & bass and bass artist based in United States of America, wit
 
 Rich Reason, Chimpo, T-Man (UK)
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/strategy/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/strategy/)*

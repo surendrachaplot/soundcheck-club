@@ -1,17 +1,18 @@
 # Trinity Drug Store
 
-Trinity Drug Store is a music venue in Toronto with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. The next is "INFERNVM" on Fri, 20 Nov 2026.
+Trinity Drug Store is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "INFERNVM" on Fri, 20 Nov 2026.
 
-Trinity Drug Store is a music venue in Toronto listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 793 Dundas street west.
+Trinity Drug Store is a music venue in Toronto listed on soundcheck. 2 upcoming gigs, with line-ups including KILL 9 1 and Maul. See dates, start times and who's playing. 793 Dundas street west.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | INFERNVM |  |
+| Sat, 21 Nov 2026 | 404: Maul vs KILL 9 1 | KILL 9 1, Maul (2) |
 
 ## Address
 
 793 Dundas street west, Toronto
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/trinity-drug-store/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/trinity-drug-store/)*

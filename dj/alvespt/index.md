@@ -1,8 +1,8 @@
 # ALVES (PT)
 
-ALVES (PT) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Radius, Chicago on Wed, 30 Dec 2026.
+ALVES (PT) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Radius, Chicago on Wed, 30 Dec 2026.
 
-ALVES (PT) is a house and tech house artist, with 4 gigs on soundcheck across Chicago, Lisbon and Orlando. Often billed alongside KinAhau, A Little Sound and AAT (NL). Next up: Radius, Chicago on Wed 30 Dec.
+ALVES (PT) is a house and tech house artist based in Portugal, with 4 gigs on soundcheck across Chicago, Lisbon and Orlando. Often billed alongside KinAhau, A Little Sound and AAT (NL). Next up: Radius, Chicago on Wed 30 Dec.
 
 ## Upcoming shows
 
@@ -20,4 +20,4 @@ ALVES (PT) is a house and tech house artist, with 4 gigs on soundcheck across Ch
 
 KinAhau, A Little Sound, AAT (NL)
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alvespt/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alvespt/)*

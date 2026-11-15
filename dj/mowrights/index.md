@@ -1,6 +1,6 @@
 # Mo Wrights
 
-Mo Wrights is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at dubble, Amsterdam on Sat, 21 Nov 2026.
+Mo Wrights is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at dubble, Amsterdam on Sat, 21 Nov 2026.
 
 Mo Wrights is a house and disco artist based in Netherlands, with 35 gigs on soundcheck across Amsterdam and London. Often billed alongside Lucas Benjamin, Razzmic and Pelanoir. Next up: dubble, Amsterdam on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Mo Wrights is a house and disco artist based in Netherlands, with 35 gigs on sou
 
 Lucas Benjamin, Razzmic, Pelanoir
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mowrights/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mowrights/)*

@@ -1,14 +1,15 @@
 # Utopos
 
-Utopos is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA, Toronto on Sat, 21 Nov 2026.
+Utopos is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA, Toronto on Sat, 21 Nov 2026.
 
-Utopos is a techno and house artist based in Australia, with 13 gigs on soundcheck across Toronto. Often billed alongside Hemlock (CA), Siren and Chumbo. Next up: TBA, Toronto on Sat 21 Nov.
+Utopos is a techno and house artist based in Australia, with 14 gigs on soundcheck across Toronto. Often billed alongside Hemlock (CA), Siren and Chumbo. Next up: TBA, Toronto on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | TBA | Toronto |
+| Fri, 4 Dec 2026 | Rhythm | Toronto |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Utopos is a techno and house artist based in Australia, with 13 gigs on soundche
 
 Hemlock (CA), Siren (4), Chumbo
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/utopos/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/utopos/)*

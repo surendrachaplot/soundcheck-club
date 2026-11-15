@@ -1,14 +1,13 @@
 # CHICO
 
-CHICO is a music venue in Mexico City with 7 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "TNR Media" on Sat, 14 Nov 2026.
+CHICO is a music venue in Mexico City with 6 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "BLEED x ATML" on Fri, 20 Nov 2026.
 
-CHICO is a music venue in Mexico City listed on soundcheck. 7 upcoming gigs, with line-ups including Concepción Huerta, deeplinkin, DJLOVETHEPARTY and Emmanuelle (BR) and 2 more. See dates, start times and who's playing. Colima 367 Roma Nte., Cuauhtemoc, 06700 Ciudad de MÃ©xico, CDMX.
+CHICO is a music venue in Mexico City listed on soundcheck. 6 upcoming gigs, with line-ups including Concepción Huerta, deeplinkin, DJLOVETHEPARTY and Emmanuelle (BR) and 2 more. See dates, start times and who's playing. Colima 367 Roma Nte., Cuauhtemoc, 06700 Ciudad de MÃ©xico, CDMX.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | TNR Media | GEO LINN, Koscoy, Laura Coch, TAPIIA |
 | Fri, 20 Nov 2026 | BLEED x ATML | Concepción Huerta, ETRA, Emmanuelle (BR), Pictureplane, deeplinkin |
 | Sat, 21 Nov 2026 | aanjel takeover: "Shifting" Release Party | Palmi, Valeriana |
 | Fri, 27 Nov 2026 | Salida Recs x Music Mulier | Octoptic, TNT Dan, Ursula Prawn, VOMFLIEGEL |
@@ -20,4 +19,4 @@ CHICO is a music venue in Mexico City listed on soundcheck. 7 upcoming gigs, wit
 
 Colima 367 Roma Nte., Cuauhtemoc, 06700 Ciudad de MÃ©xico, CDMX, Mexico City
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/chico/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/chico/)*

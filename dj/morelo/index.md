@@ -1,6 +1,6 @@
 # morelo
 
-morelo is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Stoked&stoned, Seoul on Mon, 9 Nov 2026.
+morelo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Stoked&stoned, Seoul on Mon, 9 Nov 2026.
 
 morelo is a house and techno artist based in South Korea, with 13 gigs on soundcheck across Seoul. Often billed alongside Mignon, Riskii and Nolove. Next up: Stoked&stoned, Seoul on Mon 9 Nov.
 
@@ -9,10 +9,10 @@ morelo is a house and techno artist based in South Korea, with 13 gigs on soundc
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 9 Nov 2026 | Stoked&stoned | Seoul |
-| Sat, 14 Nov 2026 | Stoked&stoned | Seoul |
 
 ## Recently played
 
+- Stoked&stoned, Seoul · Sat, 14 Nov 2026
 - Stoked&stoned, Seoul · Mon, 9 Nov 2026
 - Stoked&stoned, Seoul · Fri, 16 Oct 2026
 - Stoked&stoned, Seoul · Mon, 12 Oct 2026
@@ -20,10 +20,9 @@ morelo is a house and techno artist based in South Korea, with 13 gigs on soundc
 - Stoked&stoned, Seoul · Mon, 21 Sept 2026
 - Stoked&stoned, Seoul · Sat, 15 Aug 2026
 - Stoked&stoned, Seoul · Fri, 14 Aug 2026
-- Ximxim Bar, Seoul · Fri, 1 Nov 2024
 
 ## Shares bills with
 
 Mignon (2), Riskii (2), Nolove
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/morelo/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/morelo/)*

@@ -1,19 +1,19 @@
 # Dayzero
 
-Dayzero is a Bass and Dubstep artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at 88block, Tokyo on Sat, 14 Nov 2026.
+Dayzero is a Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at R Lounge, Tokyo on Fri, 20 Nov 2026.
 
-Dayzero is a bass and dubstep artist based in Japan, with 49 gigs on soundcheck across Bristol, Guadalajara, Kyoto and London and 3 more. Often billed alongside Herbalistek, Oyubi and Romy Mats. Next up: 88block, Tokyo on Sat 14 Nov.
+Dayzero is a bass and dubstep artist based in Japan, with 49 gigs on soundcheck across Bristol, Guadalajara, Kyoto and London and 3 more. Often billed alongside Herbalistek, Oyubi and Romy Mats. Next up: R Lounge, Tokyo on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | 88block | Tokyo |
 | Fri, 20 Nov 2026 | R Lounge | Tokyo |
 | Sat, 12 Dec 2026 | 神田明神文化交流館 | Tokyo |
 
 ## Recently played
 
+- 88block, Tokyo · Sat, 14 Nov 2026
 - Oba Camp Village, Tokyo · Sat, 7 Nov 2026
 - Saloon, Tokyo · Thu, 15 Oct 2026
 - Saloon, Tokyo · Fri, 2 Oct 2026
@@ -21,10 +21,9 @@ Dayzero is a bass and dubstep artist based in Japan, with 49 gigs on soundcheck 
 - Saloon, Tokyo · Thu, 20 Aug 2026
 - 88block, Tokyo · Sat, 18 Jul 2026
 - Enter Shibuya, Tokyo · Thu, 11 Jun 2026
-- Saloon, Tokyo · Sat, 6 Jun 2026
 
 ## Shares bills with
 
 Herbalistek, Oyubi, Romy Mats
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dayzero/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dayzero/)*

@@ -1,6 +1,6 @@
 # Mogra
 
-Mogra is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Copa AKIHABARA" on Sun, 15 Nov 2026.
+Mogra is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Copa AKIHABARA" on Sun, 15 Nov 2026.
 
 Mogra is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with line-ups including Marble. See dates, start times and who's playing. 3-11 Akihabara, Taitou-ku, Tokyo, 101-0021.
 
@@ -15,4 +15,4 @@ Mogra is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with line
 
 3-11 Akihabara, Taitou-ku, Tokyo, 101-0021, Tokyo
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/mogra/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/mogra/)*

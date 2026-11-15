@@ -1,8 +1,8 @@
 # Orange&Cedar
 
-Orange&Cedar is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Zu Mir Oder Zu Dir, Berlin on Thu, 19 Nov 2026.
+Orange&Cedar is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Zu Mir Oder Zu Dir, Berlin on Thu, 19 Nov 2026.
 
-Orange&Cedar is a house and tech house artist, with 4 gigs on soundcheck across Berlin and Mannheim. Often billed alongside Danjo, Shoe Bee and C-Rock. Next up: Zu Mir Oder Zu Dir, Berlin on Thu 19 Nov.
+Orange&Cedar is a house and tech house artist based in Germany, with 4 gigs on soundcheck across Berlin and Mannheim. Often billed alongside Danjo, Shoe Bee and C-Rock. Next up: Zu Mir Oder Zu Dir, Berlin on Thu 19 Nov.
 
 ## Upcoming shows
 
@@ -20,4 +20,4 @@ Orange&Cedar is a house and tech house artist, with 4 gigs on soundcheck across 
 
 Danjo, Shoe Bee, C-Rock
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/orangecedar/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/orangecedar/)*

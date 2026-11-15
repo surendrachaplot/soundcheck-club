@@ -1,6 +1,6 @@
 # Jay Duncan
 
-Jay Duncan is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at The Love Inn, Bristol on Fri, 20 Nov 2026.
+Jay Duncan is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at The Love Inn, Bristol on Fri, 20 Nov 2026.
 
 Jay Duncan is a techno and house artist based in United Kingdom, with 76 gigs on soundcheck across Berlin, Bristol, Brussels and Copenhagen and 13 more. Often billed alongside Lukas Wigflex, Bethan and FAFF. Next up: The Love Inn, Bristol on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ Jay Duncan is a techno and house artist based in United Kingdom, with 76 gigs on
 
 Lukas Wigflex, Bethan, FAFF
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jayduncan/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jayduncan/)*

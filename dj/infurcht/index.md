@@ -1,19 +1,19 @@
 # In Furcht
 
-In Furcht is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at WDM, Hannover on Sat, 14 Nov 2026.
+In Furcht is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Core, Madrid on Thu, 19 Nov 2026.
 
-In Furcht is a techno and trance artist based in Germany, with 65 gigs on soundcheck across Amsterdam, Berlin, Cologne and Dortmund / Essen and 21 more. Often billed alongside Neon Graveyard, Johannes Schuster and Noise Not War. Next up: WDM, Hannover on Sat 14 Nov.
+In Furcht is a techno and trance artist based in Germany, with 65 gigs on soundcheck across Amsterdam, Berlin, Cologne and Dortmund / Essen and 21 more. Often billed alongside Neon Graveyard, Johannes Schuster and Noise Not War. Next up: Core, Madrid on Thu 19 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | WDM | Hannover |
 | Thu, 19 Nov 2026 | Core | Madrid |
 | Sat, 28 Nov 2026 | OST | Berlin |
 
 ## Recently played
 
+- WDM, Hannover · Sat, 14 Nov 2026
 - Bootshaus, Cologne · Fri, 6 Nov 2026
 - La Machine Du Moulin Rouge, Paris · Sat, 31 Oct 2026
 - La Machine Du Moulin Rouge, Paris · Sat, 31 Oct 2026
@@ -21,10 +21,9 @@ In Furcht is a techno and trance artist based in Germany, with 65 gigs on soundc
 - Ampere Düsseldorf, Düsseldorf · Sat, 17 Oct 2026
 - Airport Würzburg, Nürnberg · Fri, 2 Oct 2026
 - Artheater, Cologne · Sat, 19 Sept 2026
-- Hall, Tallinn · Fri, 11 Sept 2026
 
 ## Shares bills with
 
 Neon Graveyard, Johannes Schuster, Noise Not War
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/infurcht/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/infurcht/)*

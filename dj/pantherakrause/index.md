@@ -1,18 +1,18 @@
 # Panthera Krause
 
-Panthera Krause is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Good Room, New York City on Sat, 14 Nov 2026.
+Panthera Krause is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Renate, Berlin on Sat, 19 Dec 2026.
 
-Panthera Krause is a house and techno artist based in Germany, with 24 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Copenhagen and 5 more. Often billed alongside Peter Invasion, Atlantik and Audio Werner. Next up: Good Room, New York City on Sat 14 Nov.
+Panthera Krause is a house and techno artist based in Germany, with 24 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Copenhagen and 5 more. Often billed alongside Peter Invasion, Atlantik and Audio Werner. Next up: Renate, Berlin on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Good Room | New York City |
 | Sat, 19 Dec 2026 | Renate | Berlin |
 
 ## Recently played
 
+- Good Room, New York City · Sat, 14 Nov 2026
 - Kater, Berlin · Sat, 19 Sept 2026
 - 303 Audiophile Bar, Barcelona · Fri, 6 Mar 2026
 - Kater, Berlin · Wed, 31 Dec 2025
@@ -20,10 +20,9 @@ Panthera Krause is a house and techno artist based in Germany, with 24 gigs on s
 - Renate, Berlin · Sat, 28 Jun 2025
 - Kater, Berlin · Sat, 19 Apr 2025
 - Conne Island, Leipzig · Fri, 27 Sept 2024
-- Renate, Berlin · Fri, 9 Aug 2024
 
 ## Shares bills with
 
 Peter Invasion, Atlantik, Audio Werner
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pantherakrause/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pantherakrause/)*

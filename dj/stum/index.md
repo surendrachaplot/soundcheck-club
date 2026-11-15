@@ -1,6 +1,6 @@
 # STÜM
 
-STÜM is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
+STÜM is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
 
 STÜM is a techno and house artist based in Australia, with 78 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Austin and 27 more. Often billed alongside Kyle Starkey, Benwal and Ewan McVicar. Next up: The Concourse Project, Austin on Fri 13 Nov.
 
@@ -9,13 +9,13 @@ STÜM is a techno and house artist based in Australia, with 78 gigs on soundchec
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
-| Sat, 14 Nov 2026 | Radius | Chicago |
 | Sat, 21 Nov 2026 | TBA - Matilo Park | Rotterdam |
 | Sun, 22 Nov 2026 | Thuishaven | Amsterdam |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 
 ## Recently played
 
+- Radius, Chicago · Sat, 14 Nov 2026
 - The Concourse Project, Austin · Fri, 13 Nov 2026
 - Spin, San Diego · Fri, 13 Nov 2026
 - 99 Scott Ave, New York City · Sat, 7 Nov 2026
@@ -23,10 +23,9 @@ STÜM is a techno and house artist based in Australia, with 78 gigs on soundchec
 - Pllek, Amsterdam · Sat, 24 Oct 2026
 - H7 Warehouse, Amsterdam · Fri, 23 Oct 2026
 - The Liquid Room, Edinburgh · Sat, 17 Oct 2026
-- Unit 51, Aberdeen · Fri, 16 Oct 2026
 
 ## Shares bills with
 
 Kyle Starkey, Benwal, Ewan McVicar
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stum/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stum/)*

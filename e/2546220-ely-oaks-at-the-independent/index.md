@@ -1,6 +1,6 @@
 # Ely Oaks at The Independent
 
-Ely Oaks at The Independent on Fri 12 Feb, San Francisco Oakland. 1 artist: Ely Oaks. See the line-up on soundcheck.
+Ely Oaks at The Independent on Fri 12 Feb, San Francisco Oakland. 1 artist: Ely Oaks. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

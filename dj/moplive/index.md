@@ -1,6 +1,6 @@
 # Mop (live)
 
-Mop (live) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Switch Bar, Barcelona on Fri, 20 Nov 2026.
+Mop (live) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Switch Bar, Barcelona on Fri, 20 Nov 2026.
 
 Mop (live) is a house and electro artist based in Ecuador, with 5 gigs on soundcheck across Barcelona. Often billed alongside Angelo Cortines, Zedlav and Milla Campollo. Next up: Switch Bar, Barcelona on Fri 20 Nov.
 
@@ -21,4 +21,4 @@ Mop (live) is a house and electro artist based in Ecuador, with 5 gigs on soundc
 
 Angelo Cortines, Zedlav, Milla Campollo
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moplive/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moplive/)*

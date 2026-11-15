@@ -1,15 +1,13 @@
 # UTOPIA / DYSTOPIA
 
-UTOPIA / DYSTOPIA is a music venue in Tokyo with 6 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "plug vol.25" on Sat, 14 Nov 2026.
+UTOPIA / DYSTOPIA is a music venue in Tokyo with 4 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "MACOTOPIA vol.3 -#まこふぇす26 お疲れ様会-" on Sun, 15 Nov 2026.
 
-UTOPIA / DYSTOPIA is a music venue in Tokyo listed on soundcheck. 6 upcoming gigs, with line-ups including Arao, BLUEMEW, chanai and DJ MASASHI MATSUI and 2 more. See dates, start times and who's playing. 〒150-0044 Tokyo, Shibuya, Maruyamacho, 4−6 QLINK渋谷神泉 B1F B2F.
+UTOPIA / DYSTOPIA is a music venue in Tokyo listed on soundcheck. 4 upcoming gigs, with line-ups including Arao, BLUEMEW, chanai and DJ MASASHI MATSUI and 2 more. See dates, start times and who's playing. 〒150-0044 Tokyo, Shibuya, Maruyamacho, 4−6 QLINK渋谷神泉 B1F B2F.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | plug vol.25 | KASHIWAGI, Kajitsu, Nobuharu Morimoto, SEIichiro Mitsuma, Soma Oue |
-| Sat, 14 Nov 2026 | plug vol.25 POWER OF FEELING OF ELATION | KASHIWAGI, Nobuharu Morimoto, Pei, SEIichiro Mitsuma |
 | Sun, 15 Nov 2026 | MACOTOPIA vol.3 -#まこふぇす26 お疲れ様会- |  |
 | Sat, 21 Nov 2026 | Wild Paarty Sounds | Arao, DJ MASASHI MATSUI, MOTOKA, Monna Lisa |
 | Mon, 23 Nov 2026 | RESIDUAL | Shimon Taka |
@@ -19,4 +17,4 @@ UTOPIA / DYSTOPIA is a music venue in Tokyo listed on soundcheck. 6 upcoming gig
 
 〒150-0044 Tokyo, Shibuya, Maruyamacho, 4−6 QLINK渋谷神泉 B1F B2F, Tokyo
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/utopia-dystopia/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/utopia-dystopia/)*

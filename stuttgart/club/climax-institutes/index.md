@@ -1,14 +1,13 @@
 # Climax-Institutes
 
-Climax-Institutes is a music venue in Stuttgart with 9 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "DANSE AVEC MOI w/TYPSI, Mary, Chamelio3000" on Sat, 14 Nov 2026.
+Climax-Institutes is a music venue in Stuttgart with 8 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Appetizer - November Edition" on Thu, 19 Nov 2026.
 
-Climax-Institutes is a music venue in Stuttgart listed on soundcheck. 9 upcoming gigs, with line-ups including Adi Dassler, Chamelio 3000, E-PUNK and Kate no Sleep and 2 more. See dates, start times and who's playing. Calwer Str. 25, 70173 Stuttgart.
+Climax-Institutes is a music venue in Stuttgart listed on soundcheck. 8 upcoming gigs, with line-ups including Adi Dassler, E-PUNK, Kate no Sleep and Michael Clash Gottschalk and 2 more. See dates, start times and who's playing. Calwer Str. 25, 70173 Stuttgart.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | DANSE AVEC MOI w/TYPSI, Mary, Chamelio3000 | Chamelio 3000, TYPSI |
 | Thu, 19 Nov 2026 | Appetizer - November Edition | Adi Dassler |
 | Fri, 20 Nov 2026 | Pulse |  |
 | Sat, 21 Nov 2026 | WORN-OUT  | Vincent Neumann |
@@ -22,4 +21,4 @@ Climax-Institutes is a music venue in Stuttgart listed on soundcheck. 9 upcoming
 
 Calwer Str. 25, 70173 Stuttgart, Stuttgart
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/climax-institutes/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/climax-institutes/)*

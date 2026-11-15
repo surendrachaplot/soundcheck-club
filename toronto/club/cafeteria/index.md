@@ -1,14 +1,13 @@
 # Cafeteria
 
-Cafeteria is a music venue in Toronto with 8 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "DNDARA 03 // SWANA Electronic Night Series" on Sat, 14 Nov 2026.
+Cafeteria is a music venue in Toronto with 7 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "SABR - by Mastané" on Sun, 15 Nov 2026.
 
-Cafeteria is a music venue in Toronto listed on soundcheck. 8 upcoming gigs, with line-ups including Akkai, Amedeo (CA), Ana Luisa and Blkvirgo and 2 more. See dates, start times and who's playing. 1650 Dupont St, Toronto, ON M6P 3T2, Canada.
+Cafeteria is a music venue in Toronto listed on soundcheck. 7 upcoming gigs, with line-ups including Akkai, Amedeo (CA), Ana Luisa and Blkvirgo and 2 more. See dates, start times and who's playing. 1650 Dupont St, Toronto, ON M6P 3T2, Canada.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | DNDARA 03 // SWANA Electronic Night Series | Valeria Wardini |
 | Sun, 15 Nov 2026 | SABR - by Mastané |  |
 | Fri, 20 Nov 2026 | Veneno Club presents Entrañas | Ana Luisa, Entrañas, Geezr, Sofia Fly, mo.fede |
 | Sat, 21 Nov 2026 | La Rumba Buena |  |
@@ -21,4 +20,4 @@ Cafeteria is a music venue in Toronto listed on soundcheck. 8 upcoming gigs, wit
 
 1650 Dupont St, Toronto, ON M6P 3T2, Canada, Toronto
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/cafeteria/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/cafeteria/)*

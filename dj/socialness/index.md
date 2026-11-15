@@ -1,6 +1,6 @@
 # Socialness
 
-Socialness is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Ernest, Newcastle on Fri, 20 Nov 2026.
+Socialness is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Ernest, Newcastle on Fri, 20 Nov 2026.
 
 Socialness is a disco and house artist based in United Kingdom, with 14 gigs on soundcheck across Newcastle. Often billed alongside Alousea, Bradley Circles and LA!NE. Next up: Ernest, Newcastle on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Socialness is a disco and house artist based in United Kingdom, with 14 gigs on 
 
 Alousea, Bradley Circles, LA!NE
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/socialness/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/socialness/)*

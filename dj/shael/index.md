@@ -1,6 +1,6 @@
 # Shael
 
-Shael is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Check Confirmation, Calgary on Fri, 4 Dec 2026.
+Shael is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA - Check Confirmation, Calgary on Fri, 4 Dec 2026.
 
 Shael is a house and techno artist based in Canada, with 4 gigs on soundcheck across Calgary and Vancouver. Often billed alongside AVRY, AWood and Angel Science. Next up: TBA - Check Confirmation, Calgary on Fri 4 Dec.
 
@@ -20,4 +20,4 @@ Shael is a house and techno artist based in Canada, with 4 gigs on soundcheck ac
 
 AVRY, AWood, Angel Science
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shael/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shael/)*

@@ -1,6 +1,6 @@
 # Kampire
 
-Kampire is a Bass and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at The White Hotel, Manchester on Sun, 15 Nov 2026.
+Kampire is a Bass and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at The White Hotel, Manchester on Sun, 15 Nov 2026.
 
 Kampire is a bass and house artist based in Uganda, with 57 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 22 more. Often billed alongside DJ Travella, De Schuurman and Jay Mitta. Next up: The White Hotel, Manchester on Sun 15 Nov.
 
@@ -26,4 +26,4 @@ Kampire is a bass and house artist based in Uganda, with 57 gigs on soundcheck a
 
 DJ Travella, De Schuurman, Jay Mitta
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kampire/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kampire/)*

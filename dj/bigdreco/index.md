@@ -1,18 +1,18 @@
 # BIG DRECO
 
-BIG DRECO is a Jazz and Grime artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at 91 Brick Lane, London on Sat, 14 Nov 2026.
+BIG DRECO is a Jazz and Grime artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at fabric, London on Fri, 27 Nov 2026.
 
-BIG DRECO is a jazz and grime artist based in United Kingdom, with 9 gigs on soundcheck across London and Manchester. Often billed alongside Chedda Bred, limi and AUKA. Next up: 91 Brick Lane, London on Sat 14 Nov.
+BIG DRECO is a jazz and grime artist based in United Kingdom, with 9 gigs on soundcheck across London and Manchester. Often billed alongside Chedda Bred, limi and AUKA. Next up: fabric, London on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | 91 Brick Lane | London |
 | Fri, 27 Nov 2026 | fabric | London |
 
 ## Recently played
 
+- 91 Brick Lane, London · Sat, 14 Nov 2026
 - Dalston Den, London · Sat, 28 Mar 2026
 - Dalston Den, London · Sat, 7 Mar 2026
 - The Cause, London · Sat, 28 Feb 2026
@@ -25,4 +25,4 @@ BIG DRECO is a jazz and grime artist based in United Kingdom, with 9 gigs on sou
 
 Chedda Bred, limi, AUKA
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bigdreco/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bigdreco/)*

@@ -1,6 +1,6 @@
 # MANOU
 
-MANOU is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Skull Bar, Athens on Sun, 8 Nov 2026.
+MANOU is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Skull Bar, Athens on Sun, 8 Nov 2026.
 
 MANOU is a house and techno artist based in Greece, with 6 gigs on soundcheck across Athens. Often billed alongside oKálo, KORRILA and Nicola Boh. Next up: Skull Bar, Athens on Sun 8 Nov.
 
@@ -23,4 +23,4 @@ MANOU is a house and techno artist based in Greece, with 6 gigs on soundcheck ac
 
 oKálo, KORRILA, Nicola Boh
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manou/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manou/)*

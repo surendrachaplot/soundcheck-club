@@ -1,14 +1,13 @@
 # CLUB RAUM
 
-CLUB RAUM is a music venue in Amsterdam with 10 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "November SPIELRAUM Weekender" on Fri, 13 Nov 2026.
+CLUB RAUM is a music venue in Amsterdam with 9 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Call Super (All Night Long)" on Fri, 20 Nov 2026.
 
-CLUB RAUM is a music venue in Amsterdam listed on soundcheck. 10 upcoming gigs, with line-ups including 36framez, Abstract Division, Amanda Mussi and AMORAL and 2 more. See dates, start times and who's playing. Humberweg 3, 1043 AC Amsterdam.
+CLUB RAUM is a music venue in Amsterdam listed on soundcheck. 9 upcoming gigs, with line-ups including 36framez, Abstract Division, Amanda Mussi and AMORAL and 2 more. See dates, start times and who's playing. Humberweg 3, 1043 AC Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | November SPIELRAUM Weekender | DJ Masda, Efdemin, GiGi FM, John Talabot, Joya Astou, Loidis, Mac Declos, Marcal, Mareena, Nastia, OG Karin, Pelanoir, Sugar Free, The Advent, Vera Logdanidi |
 | Fri, 20 Nov 2026 | Call Super (All Night Long) | Call Super |
 | Sat, 21 Nov 2026 | PAX-ROMANA: 12HRS EXTENDED | Budino, D-Leria, Elisa Batti, Irakli, Julie, Massimiliano Pagliara, Nèna, Tammo Hesselink |
 | Fri, 27 Nov 2026 | Hamam Nights | Hyperaktivist, Josh Caffé, Sedef Adasï |
@@ -23,4 +22,4 @@ CLUB RAUM is a music venue in Amsterdam listed on soundcheck. 10 upcoming gigs, 
 
 Humberweg 3, 1043 AC Amsterdam, Amsterdam
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-raum/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-raum/)*

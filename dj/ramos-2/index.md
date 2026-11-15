@@ -1,6 +1,6 @@
 # Ramos (2)
 
-Ramos (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Eighteenth Street Lounge (ESL), Washington DC on Sun, 15 Nov 2026.
+Ramos (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Eighteenth Street Lounge (ESL), Washington DC on Sun, 15 Nov 2026.
 
 Ramos is a house and techno artist based in United States of America, with 77 gigs on soundcheck across Medellin and Washington DC. Often billed alongside enz.O, KayLaSoul and Mazko A. Next up: Eighteenth Street Lounge (ESL), Washington DC on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Ramos is a house and techno artist based in United States of America, with 77 gi
 
 enz.O, KayLaSoul, Mazko A
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ramos-2/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ramos-2/)*

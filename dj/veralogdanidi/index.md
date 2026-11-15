@@ -1,14 +1,13 @@
 # Vera Logdanidi
 
-Vera Logdanidi is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at CLUB RAUM, Amsterdam on Fri, 13 Nov 2026.
+Vera Logdanidi is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Biltmore Cabaret, Vancouver on Sat, 12 Dec 2026.
 
-Vera Logdanidi is a techno and house artist based in Ukraine, with 70 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 23 more. Often billed alongside Na Nich, Efdemin and Luigi Tozzi. Next up: CLUB RAUM, Amsterdam on Fri 13 Nov.
+Vera Logdanidi is a techno and house artist based in Ukraine, with 70 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 23 more. Often billed alongside Na Nich, Efdemin and Luigi Tozzi. Next up: Biltmore Cabaret, Vancouver on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | CLUB RAUM | Amsterdam |
 | Sat, 12 Dec 2026 | Biltmore Cabaret | Vancouver |
 | Fri, 18 Dec 2026 | BASEMENT | New York City |
 | Thu, 31 Dec 2026 | OXI | Berlin |
@@ -28,4 +27,4 @@ Vera Logdanidi is a techno and house artist based in Ukraine, with 70 gigs on so
 
 Na Nich, Efdemin, Luigi Tozzi
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/veralogdanidi/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/veralogdanidi/)*

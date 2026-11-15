@@ -1,6 +1,6 @@
 # Gone Deville
 
-Gone Deville is a House and Afro House artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Ausgang Plaza, Montreal on Thu, 3 Dec 2026.
+Gone Deville is a House and Afro House artist with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Ausgang Plaza, Montreal on Thu, 3 Dec 2026.
 
 Gone Deville is a house and afro house artist based in Canada, with 6 gigs on soundcheck across Montreal. Often billed alongside Akpossoul, Alan Dixon and Amarji King. Next up: Ausgang Plaza, Montreal on Thu 3 Dec.
 
@@ -22,4 +22,4 @@ Gone Deville is a house and afro house artist based in Canada, with 6 gigs on so
 
 Akpossoul, Alan Dixon, Amarji King
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gonedeville/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gonedeville/)*

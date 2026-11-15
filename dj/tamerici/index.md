@@ -1,6 +1,6 @@
 # Tamerici
 
-Tamerici is a Electronica and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Leila, Milan on Sat, 21 Nov 2026.
+Tamerici is a Electronica and Ambient artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Leila, Milan on Sat, 21 Nov 2026.
 
 Tamerici is an electronica and ambient artist based in Italy, with 6 gigs on soundcheck across Milan. Often billed alongside 7Astris, KLËRR and Eathan. Next up: Leila, Milan on Sat 21 Nov.
 
@@ -22,4 +22,4 @@ Tamerici is an electronica and ambient artist based in Italy, with 6 gigs on sou
 
 7Astris, KLËRR, Eathan
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tamerici/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tamerici/)*

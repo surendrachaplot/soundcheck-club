@@ -1,6 +1,6 @@
 # IN2POL
 
-IN2POL is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
+IN2POL is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
 
 IN2POL is a house and disco artist based in Australia, with 12 gigs on soundcheck across Amsterdam, Hobart, Melbourne and Sydney and 2 more. Often billed alongside Love, Jess, Mordi and DJ Luv You. Next up: Lardner Park, Melbourne on Fri 27 Nov.
 
@@ -13,6 +13,7 @@ IN2POL is a house and disco artist based in Australia, with 12 gigs on soundchec
 
 ## Recently played
 
+- Fairfield Amphitheatre, Melbourne · Sat, 14 Nov 2026
 - Colorado Charlie, The Hague · Sat, 15 Aug 2026
 - Thuishaven, Amsterdam · Sat, 25 Jul 2026
 - Shelter Amsterdam, Amsterdam · Fri, 3 Jul 2026
@@ -20,10 +21,9 @@ IN2POL is a house and disco artist based in Australia, with 12 gigs on soundchec
 - Our Friend's Farm, Melbourne · Fri, 3 Apr 2026
 - Plaza Hotel Sydney, Sydney · Sat, 28 Feb 2026
 - The Grand Poobah, Hobart · Sat, 21 Feb 2026
-- TBA - 90 Minutes from Melbourne, Melbourne · Fri, 6 Feb 2026
 
 ## Shares bills with
 
 Love, Jess, Mordi, DJ Luv You
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/in2pol/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/in2pol/)*

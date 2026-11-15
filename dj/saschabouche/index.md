@@ -1,6 +1,6 @@
 # Sascha Bouché
 
-Sascha Bouché is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at WDM, Hannover on Sat, 5 Dec 2026.
+Sascha Bouché is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at WDM, Hannover on Sat, 5 Dec 2026.
 
 Sascha Bouché is a techno and house artist based in Germany, with 6 gigs on soundcheck across Hannover. Often billed alongside CLAVD, Cybersex and DJ SPORTSCHUH. Next up: WDM, Hannover on Sat 5 Dec.
 
@@ -22,4 +22,4 @@ Sascha Bouché is a techno and house artist based in Germany, with 6 gigs on sou
 
 CLAVD, Cybersex, DJ SPORTSCHUH
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saschabouche/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saschabouche/)*

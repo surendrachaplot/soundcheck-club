@@ -1,6 +1,6 @@
 # Paige Tomlinson
 
-Paige Tomlinson is a House and Techno artist with 16 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
+Paige Tomlinson is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
 
 Paige Tomlinson is a house and techno artist based in United Kingdom, with 177 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 42 more. Often billed alongside Prunk, Kyle Starkey and L.P. Rhythm. Next up: The Concourse Project, Austin on Fri 13 Nov.
 
@@ -9,8 +9,6 @@ Paige Tomlinson is a house and techno artist based in United Kingdom, with 177 g
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
-| Sat, 14 Nov 2026 | Maassilo | Rotterdam |
-| Sat, 14 Nov 2026 | Radius | Chicago |
 | Fri, 20 Nov 2026 | The Liquid Room | Edinburgh |
 | Sat, 21 Nov 2026 | SWG3 | Glasgow |
 | Sat, 21 Nov 2026 | SWG3 | Glasgow |
@@ -20,20 +18,22 @@ Paige Tomlinson is a house and techno artist based in United Kingdom, with 177 g
 | Sun, 29 Nov 2026 | Sparty | Budapest |
 | Fri, 4 Dec 2026 | Index | Dublin |
 | Sat, 30 Jan 2027 | Cruise Terminal Rotterdam | Rotterdam |
+| Sun, 28 Feb 2027 | Ozone Reserve | Perth |
+| Fri, 5 Mar 2027 | Moyston | Melbourne |
 
 ## Recently played
 
+- Maassilo, Rotterdam · Sat, 14 Nov 2026
+- Radius, Chicago · Sat, 14 Nov 2026
 - The Concourse Project, Austin · Fri, 13 Nov 2026
 - Club Vinyl, Denver · Fri, 13 Nov 2026
 - 99 Scott Ave, New York City · Sat, 7 Nov 2026
 - The Ground at Club Space, Miami · Fri, 6 Nov 2026
 - RAWFACTORY, Amsterdam · Sat, 24 Oct 2026
 - NDSM Scheepsbouwloods, Amsterdam · Thu, 22 Oct 2026
-- Amnesia Ibiza, Ibiza · Thu, 8 Oct 2026
-- The Telegraph Building, Belfast · Sat, 3 Oct 2026
 
 ## Shares bills with
 
 Prunk, Kyle Starkey, L.P. Rhythm
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paigetomlinson/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paigetomlinson/)*

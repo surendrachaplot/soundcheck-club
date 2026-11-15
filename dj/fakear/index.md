@@ -1,6 +1,6 @@
 # Fakear
 
-Fakear is a Electro and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Plage De Torcy, Paris on Sat, 15 May 2027.
+Fakear is a Electro and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Plage De Torcy, Paris on Sat, 15 May 2027.
 
 Fakear is an electro and downtempo artist based in France, with 35 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Copenhagen and 13 more. Often billed alongside Audem, LB aka LABAT and oOgo. Next up: Plage De Torcy, Paris on Sat 15 May.
 
@@ -25,4 +25,4 @@ Fakear is an electro and downtempo artist based in France, with 35 gigs on sound
 
 Audem, LB aka LABAT, oOgo
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fakear/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fakear/)*

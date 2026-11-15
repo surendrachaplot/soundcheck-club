@@ -1,19 +1,19 @@
 # Pascale Voltaire
 
-Pascale Voltaire is a Techno and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Piekło nad Niebem, Warsaw on Sat, 14 Nov 2026.
+Pascale Voltaire is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Weekend, Berlin on Fri, 18 Dec 2026.
 
-Pascale Voltaire is a techno and progressive house artist based in Germany, with 108 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 12 more. Often billed alongside Florian François, Yves Meyer and Vlad Yaki. Next up: Piekło nad Niebem, Warsaw on Sat 14 Nov.
+Pascale Voltaire is a techno and progressive house artist based in Germany, with 108 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 12 more. Often billed alongside Florian François, Yves Meyer and Vlad Yaki. Next up: Weekend, Berlin on Fri 18 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Piekło nad Niebem | Warsaw |
 | Fri, 18 Dec 2026 | Weekend | Berlin |
 | Fri, 15 Jan 2027 | Weekend | Berlin |
 
 ## Recently played
 
+- Piekło nad Niebem, Warsaw · Sat, 14 Nov 2026
 - Pracht, Frankfurt · Fri, 30 Oct 2026
 - Smolna, Warsaw · Sat, 26 Sept 2026
 - Kater, Berlin · Fri, 25 Sept 2026
@@ -21,10 +21,9 @@ Pascale Voltaire is a techno and progressive house artist based in Germany, with
 - Birgit, Berlin · Fri, 28 Aug 2026
 - Luzztro, Warsaw · Fri, 21 Aug 2026
 - Freilichtbühne im Harburger Stadtpark, Hamburg · Sat, 8 Aug 2026
-- Pracht, Frankfurt · Sat, 8 Aug 2026
 
 ## Shares bills with
 
 Florian François, Yves Meyer, Vlad Yaki
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pascalevoltaire/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pascalevoltaire/)*

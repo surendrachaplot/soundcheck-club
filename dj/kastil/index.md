@@ -1,6 +1,6 @@
 # Kastil
 
-Kastil is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Jimmy Jazz, North on Mon, 7 Dec 2026.
+Kastil is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Jimmy Jazz, North on Mon, 7 Dec 2026.
 
 Kastil is a techno artist based in Spain, with 6 gigs on soundcheck across Barcelona, Madrid and North. Often billed alongside Andrés Ov, Blaark and Cintia Martís. Next up: Jimmy Jazz, North on Mon 7 Dec.
 
@@ -22,4 +22,4 @@ Kastil is a techno artist based in Spain, with 6 gigs on soundcheck across Barce
 
 Andrés Ov, Blaark, Cintia Martís
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kastil/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kastil/)*

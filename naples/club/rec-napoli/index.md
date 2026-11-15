@@ -1,14 +1,13 @@
 # REC Napoli
 
-REC Napoli is a music venue in Naples with 11 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Henge at REC SALOME, Markantonio, Jesooria" on Sat, 14 Nov 2026.
+REC Napoli is a music venue in Naples with 10 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "ORA.daft at REC  Anthony Rother, Sexy Deep Futuristic, JJ" on Sun, 15 Nov 2026.
 
-REC Napoli is a music venue in Naples listed on soundcheck. 11 upcoming gigs, with line-ups including Ale Hope, Anthea, Anthony Rother and Bobby. and 2 more. See dates, start times and who's playing. Via Campana 233, Pozzuoli, 80078, Napoli.
+REC Napoli is a music venue in Naples listed on soundcheck. 10 upcoming gigs, with line-ups including Ale Hope, Anthea, Anthony Rother and Bobby. and 2 more. See dates, start times and who's playing. Via Campana 233, Pozzuoli, 80078, Napoli.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Henge at REC SALOME, Markantonio, Jesooria | Jesooria, Markantonio, SALOME |
 | Sun, 15 Nov 2026 | ORA.daft at REC  Anthony Rother, Sexy Deep Futuristic, JJ | Anthony Rother |
 | Sat, 21 Nov 2026 | Cassy, Eduardo de la Calle, Ale Hope | Ale Hope, Cassy, Eduardo de la Calle |
 | Sat, 28 Nov 2026 | BHODI at REC Anthea, Idriss D, Vincenzo Castaldo | Anthea, Idriss D |
@@ -18,9 +17,10 @@ REC Napoli is a music venue in Naples listed on soundcheck. 11 upcoming gigs, wi
 | Sat, 19 Dec 2026 | Shonky, Gabriele Russo b2b Dj Fresh, Michele Illiano | Gabriele Russo, Michele Illiano, Shonky |
 | Fri, 25 Dec 2026 | tINI & dj sweet6teen, Busex | busexy, dj sweet6teen, tINI |
 | Sat, 26 Dec 2026 | HENGE at REC Estella Boersma, JASSS, Jesooria | Estella Boersma, JASSS, Jesooria |
+| Fri, 1 Jan 2027 | BACK TO SCHOOL - NYE/NYD | Bobby., Cosmo (KR), DJ Tree, Fabio Monesi, Gabriele Russo, Héctor Oaks, Idriss D, Jesooria, Marc Anthony Bowen, Marcolino, Paquita Gordon, Quelza, Ricky Montanari, Rob Strobe, Serenne, Stenny, mad miran, marielou |
 
 ## Address
 
 Via Campana 233, Pozzuoli, 80078, Napoli, Naples
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/naples/club/rec-napoli/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/naples/club/rec-napoli/)*

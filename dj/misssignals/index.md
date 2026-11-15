@@ -1,18 +1,18 @@
 # Miss Signals
 
-Miss Signals is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Süss War Gestern, Berlin on Sat, 14 Nov 2026.
+Miss Signals is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Crack Bellmer, Berlin on Thu, 26 Nov 2026.
 
-Miss Signals is a house and techno artist based in Germany, with 5 gigs on soundcheck across Berlin. Often billed alongside Joe Peck, Rudy Zigliara and doctor doms. Next up: Süss War Gestern, Berlin on Sat 14 Nov.
+Miss Signals is a house and techno artist based in Germany, with 5 gigs on soundcheck across Berlin. Often billed alongside Joe Peck, Rudy Zigliara and doctor doms. Next up: Crack Bellmer, Berlin on Thu 26 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Süss War Gestern | Berlin |
 | Thu, 26 Nov 2026 | Crack Bellmer | Berlin |
 
 ## Recently played
 
+- Süss War Gestern, Berlin · Sat, 14 Nov 2026
 - Der Weiße Hase, Berlin · Fri, 23 Oct 2026
 - Madame Claude, Berlin · Sat, 3 Oct 2026
 - Bulbul Berlin, Berlin · Fri, 2 Oct 2026
@@ -21,4 +21,4 @@ Miss Signals is a house and techno artist based in Germany, with 5 gigs on sound
 
 Joe Peck, Rudy Zigliara, doctor doms
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/misssignals/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/misssignals/)*

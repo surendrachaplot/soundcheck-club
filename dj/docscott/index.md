@@ -1,6 +1,6 @@
 # Doc Scott
 
-Doc Scott is a Drum & Bass and Jungle artist with 8 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Night Tales, London on Sun, 15 Nov 2026.
+Doc Scott is a Drum & Bass and Jungle artist with 8 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Night Tales, London on Sun, 15 Nov 2026.
 
 Doc Scott is a drum & bass and jungle artist based in United Kingdom, with 120 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 31 more. Often billed alongside Goldie, Grooverider and Loxy. Next up: Night Tales, London on Sun 15 Nov.
 
@@ -32,4 +32,4 @@ Doc Scott is a drum & bass and jungle artist based in United Kingdom, with 120 g
 
 Goldie, Grooverider, Loxy
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/docscott/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/docscott/)*

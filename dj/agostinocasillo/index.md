@@ -1,6 +1,6 @@
 # Agostino Casillo
 
-Agostino Casillo is a Afro House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Bunker, Turin on Sat, 14 Nov 2026.
+Agostino Casillo is a Afro House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Bunker, Turin on Sat, 14 Nov 2026.
 
 Agostino Casillo is an afro house and techno artist based in Italy, with 7 gigs on soundcheck across Amsterdam, Berlin, London and Naples and 1 more. Often billed alongside Aton, CRL and Luval. Next up: Bunker, Turin on Sat 14 Nov.
 
@@ -12,6 +12,7 @@ Agostino Casillo is an afro house and techno artist based in Italy, with 7 gigs 
 
 ## Recently played
 
+- Bunker, Turin · Sat, 14 Nov 2026
 - Quartiere Intelligente, Naples · Thu, 25 Dec 2025
 - Vittoria Wharf Studio, London · Sat, 13 Dec 2025
 - Umoya, Naples · Sat, 7 Jun 2025
@@ -23,4 +24,4 @@ Agostino Casillo is an afro house and techno artist based in Italy, with 7 gigs 
 
 Aton, CRL (1), Luval
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/agostinocasillo/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/agostinocasillo/)*

@@ -1,6 +1,6 @@
 # Quaad
 
-Quaad is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - SECRET LOCATION, Seattle on Fri, 27 Nov 2026.
+Quaad is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA - SECRET LOCATION, Seattle on Fri, 27 Nov 2026.
 
 Quaad is a drum & bass and jungle artist based in United States of America, with 12 gigs on soundcheck across Denver, Detroit and Seattle. Often billed alongside Grym, DJ Scam and Jen Tops. Next up: TBA - SECRET LOCATION, Seattle on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Quaad is a drum & bass and jungle artist based in United States of America, with
 
 Grym, DJ Scam, Jen Tops
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/quaad/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/quaad/)*

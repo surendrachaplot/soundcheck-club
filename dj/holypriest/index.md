@@ -1,14 +1,13 @@
 # Holy Priest
 
-Holy Priest is a Techno and Hardcore artist with 12 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Litexpo, Vilnius on Sat, 14 Nov 2026.
+Holy Priest is a Techno and Hardcore artist with 11 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Martiniplaza, Amsterdam on Sat, 21 Nov 2026.
 
-Holy Priest is a techno and hardcore artist based in Germany, with 156 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Austin and 68 more. Often billed alongside elMefti, Fantasm and Onlynumbers. Next up: Litexpo, Vilnius on Sat 14 Nov.
+Holy Priest is a techno and hardcore artist based in Germany, with 156 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Austin and 68 more. Often billed alongside elMefti, Fantasm and Onlynumbers. Next up: Martiniplaza, Amsterdam on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Litexpo | Vilnius |
 | Sat, 21 Nov 2026 | Martiniplaza | Amsterdam |
 | Fri, 4 Dec 2026 | Fabrique | Milan |
 | Sat, 5 Dec 2026 | Cinecittà World | Rome |
@@ -23,6 +22,7 @@ Holy Priest is a techno and hardcore artist based in Germany, with 156 gigs on s
 
 ## Recently played
 
+- Litexpo, Vilnius · Sat, 14 Nov 2026
 - Palais 12 / Paleis 12 (ING Arena), Brussels · Sat, 7 Nov 2026
 - Tinker Field, Orlando · Fri, 6 Nov 2026
 - DRUMSHEDS, London · Fri, 23 Oct 2026
@@ -30,10 +30,9 @@ Holy Priest is a techno and hardcore artist based in Germany, with 156 gigs on s
 - The OVO Hydro, Glasgow · Fri, 16 Oct 2026
 - The Concourse Project, Austin · Sun, 11 Oct 2026
 - The Concourse Project, Austin · Sat, 10 Oct 2026
-- Circuit de Barcelona - Catalunya, Barcelona · Fri, 11 Sept 2026
 
 ## Shares bills with
 
 elMefti, Fantasm, Onlynumbers
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/holypriest/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/holypriest/)*

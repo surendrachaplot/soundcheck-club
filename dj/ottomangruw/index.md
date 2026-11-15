@@ -1,6 +1,6 @@
 # Ottoman Grüw
 
-Ottoman Grüw is a EBM and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Secret Location, Berlin on Fri, 27 Nov 2026.
+Ottoman Grüw is a EBM and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA - Secret Location, Berlin on Fri, 27 Nov 2026.
 
 Ottoman Grüw is an ebm and techno artist, with 63 gigs on soundcheck across Amsterdam, Antwerp, Athens and Berlin and 13 more. Often billed alongside 2+2=5, Incendie and Monstera Occulta. Next up: TBA - Secret Location, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Ottoman Grüw is an ebm and techno artist, with 63 gigs on soundcheck across Ams
 
 2+2=5, Incendie, Monstera Occulta
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ottomangruw/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ottomangruw/)*

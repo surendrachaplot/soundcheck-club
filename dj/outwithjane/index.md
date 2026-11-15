@@ -1,6 +1,6 @@
 # OutWithJane
 
-OutWithJane is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Prisma, Berlin on Sun, 15 Nov 2026.
+OutWithJane is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Prisma, Berlin on Sun, 15 Nov 2026.
 
 OutWithJane is a house and techno artist based in Germany, with 17 gigs on soundcheck across Berlin, Dresden and Leipzig. Often billed alongside Larry Love, T.Schaui and Kalitos. Next up: Prisma, Berlin on Sun 15 Nov.
 
@@ -29,4 +29,4 @@ OutWithJane is a house and techno artist based in Germany, with 17 gigs on sound
 
 Larry Love, T.Schaui, Kalitos
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/outwithjane/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/outwithjane/)*

@@ -1,6 +1,6 @@
 # rake?raka?
 
-rake?raka? is a music venue in Osaka with 7 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Bansan" on Sat, 14 Nov 2026.
+rake?raka? is a music venue in Osaka with 7 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "DEAR MONDAY, vol.312" on Mon, 16 Nov 2026.
 
 rake?raka? is a music venue in Osaka listed on soundcheck. 7 upcoming gigs, with line-ups including ALTF4, DJ Shu-ma, fb5 and GASIRAM and 2 more. See dates, start times and who's playing. 6-2-8 Soemoncho, Chuo-ku, Osaka-shi, Osaka, 542-0084 Japan.
 
@@ -8,8 +8,8 @@ rake?raka? is a music venue in Osaka listed on soundcheck. 7 upcoming gigs, with
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Bansan |  |
 | Mon, 16 Nov 2026 | DEAR MONDAY, vol.312 | HSC (1) |
+| Sat, 21 Nov 2026 | AfterLife | Kensuke IWANO |
 | Sun, 22 Nov 2026 | BrekingTechno:96 | UCEMI |
 | Fri, 27 Nov 2026 | Catharsis |  |
 | Mon, 30 Nov 2026 | DEAR MONDAY, vol.312 | GASIRAM, HSC (1) |
@@ -20,4 +20,4 @@ rake?raka? is a music venue in Osaka listed on soundcheck. 7 upcoming gigs, with
 
 6-2-8 Soemoncho, Chuo-ku, Osaka-shi, Osaka, 542-0084 Japan, Osaka
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/rake-raka/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/rake-raka/)*

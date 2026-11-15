@@ -1,14 +1,13 @@
 # Serafina
 
-Serafina is a Techno and Trance artist with 10 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Level 1 @ Cannonball Arts, Seattle on Sat, 14 Nov 2026.
+Serafina is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Native Beach Club, Buenos Aires on Fri, 20 Nov 2026.
 
-Serafina is a techno and trance artist based in Germany, with 202 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 57 more. Often billed alongside Adrian Mills, fumi (DE) and Cloudy. Next up: Level 1 @ Cannonball Arts, Seattle on Sat 14 Nov.
+Serafina is a techno and trance artist based in Germany, with 202 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 57 more. Often billed alongside Adrian Mills, fumi (DE) and Cloudy. Next up: Native Beach Club, Buenos Aires on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Level 1 @ Cannonball Arts | Seattle |
 | Fri, 20 Nov 2026 | Native Beach Club | Buenos Aires |
 | Sat, 21 Nov 2026 | Komplexo Tempo | Sao Paulo |
 | Sat, 21 Nov 2026 | Espacio Riesco Expo Centre | Santiago |
@@ -21,6 +20,7 @@ Serafina is a techno and trance artist based in Germany, with 202 gigs on soundc
 
 ## Recently played
 
+- Level 1 @ Cannonball Arts, Seattle · Sat, 14 Nov 2026
 - Ace*Mission, Los Angeles · Fri, 13 Nov 2026
 - Tunnel Club, Pereira · Fri, 6 Nov 2026
 - Afrobar, Sicily · Sat, 31 Oct 2026
@@ -28,10 +28,9 @@ Serafina is a techno and trance artist based in Germany, with 202 gigs on soundc
 - Sugarfactory, Amsterdam · Wed, 21 Oct 2026
 - Parc Floral De Paris, Paris · Fri, 16 Oct 2026
 - Sonora Bordeaux, Bordeaux · Fri, 16 Oct 2026
-- Parc des Expositions de Bordeaux lac, Bordeaux · Fri, 16 Oct 2026
 
 ## Shares bills with
 
 Adrian Mills, fumi (DE), Cloudy
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/serafina/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/serafina/)*

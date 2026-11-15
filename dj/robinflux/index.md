@@ -1,6 +1,6 @@
 # Robin Flux
 
-Robin Flux is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Kater, Berlin on Sat, 21 Nov 2026.
+Robin Flux is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Kater, Berlin on Sat, 21 Nov 2026.
 
 Robin Flux is a house and techno artist based in Germany, with 105 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 9 more. Often billed alongside DJ LoveCatt, Mari to the future and Triqi. Next up: Kater, Berlin on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Robin Flux is a house and techno artist based in Germany, with 105 gigs on sound
 
 DJ LoveCatt, Mari to the future, Triqi
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robinflux/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robinflux/)*

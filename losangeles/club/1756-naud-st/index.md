@@ -1,6 +1,6 @@
 # 1756 Naud St.
 
-1756 Naud St. is a music venue in Los Angeles with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Big Softy, Aki Oke & Adult Woman" on Sat, 14 Nov 2026.
+1756 Naud St. is a music venue in Los Angeles with 4 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Big Softy, Aki Oke & Adult Woman" on Sat, 14 Nov 2026.
 
 1756 Naud St. is a music venue in Los Angeles listed on soundcheck. 4 upcoming gigs, with line-ups including 1 7, 214, Big Softy and Circle (US) and 2 more. See dates, start times and who's playing. 1756 Naud St., Los Angeles, CA 90012.
 
@@ -17,4 +17,4 @@
 
 1756 Naud St., Los Angeles, CA 90012, Los Angeles
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/1756-naud-st/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/1756-naud-st/)*

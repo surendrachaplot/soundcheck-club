@@ -1,22 +1,22 @@
 # TBA
 
-TBA is a music venue in London with 293 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Dirty Epic presents: AEREA live (LA debut), Orly Gal, V0rtic & heelbite316" on Fri, 13 Nov 2026.
+TBA is a music venue in London with 251 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "to live and die in E.U.L.A release show" on Fri, 13 Nov 2026.
 
-TBA is a music venue in London listed on soundcheck. 293 upcoming gigs, with line-ups including 11:68PM, 19:26, 2727 and 2flowers and 2 more. See dates, start times and who's playing.
+TBA is a music venue in London listed on soundcheck. 251 upcoming gigs, with line-ups including 11:68PM, 19:26, 2flowers and 2HZY and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Dirty Epic presents: AEREA live (LA debut), Orly Gal, V0rtic & heelbite316 | AEREA, Orly Gal, heelbite316 |
-| Fri, 13 Nov 2026 | SIGNAL4YR: Shaun J Wright // Hannah Holland // Gay Felony // Mez Monty | Gay Felony, Hannah Holland, Mez Monty, Shaun J. Wright |
-| Fri, 13 Nov 2026 | Boiler Room: Amsterdam / Friday | Amaliah, Batu, Berkan V8, DJ BORING, Ezgi, Gerd Janson, Marcel Dettmann, PARAMIDA, Parris, RHR, RONI, Verraco, mance |
-| Fri, 13 Nov 2026 | The Living Code: Whispers of Stone |  |
-| Fri, 13 Nov 2026 | Into The Woods presents Theo Parrish (All Night Long) | Theo Parrish |
 | Fri, 13 Nov 2026 | to live and die in E.U.L.A release show |  |
-| Sat, 14 Nov 2026 | Jungle |  |
-| Sat, 14 Nov 2026 | Boiler Room: Amsterdam / Saturday | Alba Franch, Eva Vrijdag, Ignez, Juicy Romance, Kara Okay, Locus Error, Milion, Planetary Assault Systems, Rene Wise, Stef Mendesidis, Valody, ÜBERKIKZ |
-| Sat, 14 Nov 2026 | Weich Birthday Sleepover | Alex Jenkin, CuCiCuCi, Margaux Gazur, abstraqt |
-| Sat, 14 Nov 2026 | The Space Party |  |
+| Sat, 14 Nov 2026 | VANTEK: Dj Stingray 313 | DJ Hockey, DJ Stingray 313, NOTEVENDOWN, Njoki Njoki |
+| Sat, 14 Nov 2026 | Function Affiliates | KNXS, Lonald J. Bandz, xtcemi |
+| Sat, 14 Nov 2026 | Borderless Project: Mihigh | Mihigh, Yair |
+| Sat, 14 Nov 2026 | VICE: Delirium | BUCK/OFF, Flabbergast (LA), Nark, fun2bjane |
+| Sun, 15 Nov 2026 | Into The Woods presents Cut Copy (DJ Set) | Cut Copy, Olive Kimoto |
+| Sun, 15 Nov 2026 | UNMD PRESENTS |  |
+| Sun, 15 Nov 2026 | Live Sessions - Rock the House |  |
+| Sun, 15 Nov 2026 | Goody 1st Anniversary Party |  |
+| Sun, 15 Nov 2026 | INFIERNO X AFTERMIDNIGHT | Diablito |
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba/)*

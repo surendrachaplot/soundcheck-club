@@ -1,6 +1,6 @@
 # VNNUK
 
-VNNUK is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Bike Jesus, Prague on Sat, 21 Nov 2026.
+VNNUK is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Bike Jesus, Prague on Sat, 21 Nov 2026.
 
 VNNUK is a techno and experimental artist based in Czech Republic, with 31 gigs on soundcheck across Prague. Often billed alongside Atlaskin, zazitech and 3ever. Next up: Bike Jesus, Prague on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ VNNUK is a techno and experimental artist based in Czech Republic, with 31 gigs 
 
 Atlaskin, zazitech, 3ever
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vnnuk/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vnnuk/)*

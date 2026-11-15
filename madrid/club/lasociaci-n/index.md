@@ -1,14 +1,13 @@
 # Lasociaciøn
 
-Lasociaciøn is a music venue in Madrid with 11 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Quimera Project: Ribé, SCHRZØ, Yuliën, Michel Lauriola, CYNTH, Héctor Mad" on Sat, 14 Nov 2026.
+Lasociaciøn is a music venue in Madrid with 10 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "complot.techno" on Fri, 20 Nov 2026.
 
-Lasociaciøn is a music venue in Madrid listed on soundcheck. 11 upcoming gigs, with line-ups including Amperia, Ania Bruster, Arlase and Babu and 2 more. See dates, start times and who's playing. C. Gamonal, 5, 28031 Madrid.
+Lasociaciøn is a music venue in Madrid listed on soundcheck. 10 upcoming gigs, with line-ups including Amperia, Ania Bruster, Arlase and Babu and 2 more. See dates, start times and who's playing. C. Gamonal, 5, 28031 Madrid.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Quimera Project: Ribé, SCHRZØ, Yuliën, Michel Lauriola, CYNTH, Héctor Mad | Cynth, Hector MAD, Michel Lauriola, Ribé, SCHRZØ, Yuliën |
 | Fri, 20 Nov 2026 | complot.techno | Ania Bruster, Arlase, CVRLXS CA |
 | Sat, 21 Nov 2026 | TRAMA with Robert Leiner | Babu, Betamax_, FERRI, Mou, Pablo Ruizgalan, Robert Leiner, Victor Reyes |
 | Fri, 27 Nov 2026 | DARKMASS Lasociaciøn /// Paula Koski • Esther Summer • KATTA • KINKIGROOVE • KRS | Esther Summer, KRSDJ, Paula Koski |
@@ -18,9 +17,10 @@ Lasociaciøn is a music venue in Madrid listed on soundcheck. 11 upcoming gigs, 
 | Sat, 12 Dec 2026 | Only Vinyl Night: Selected Records Showcase — XVIII Years | G4G0, Gabriel D'or & Bordoy, Pyramidal Decode, SERNA, Trasto, Xpansul |
 | Sat, 19 Dec 2026 | Barro Showcase // Especial Nöle 20 años | Amperia, Nöle, Ricardo Morales |
 | Thu, 24 Dec 2026 | Soundhall Aniversario | Beatrice (DE), E2NMN, K1000o, Redondoo, Yiye, exuvia |
+| Sat, 26 Dec 2026 | Bunkers Collective 5th Anniversary |  |
 
 ## Address
 
 C. Gamonal, 5, 28031 Madrid, Madrid
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lasociaci-n/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lasociaci-n/)*

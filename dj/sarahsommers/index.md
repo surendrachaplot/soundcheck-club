@@ -1,14 +1,13 @@
 # Sarah Sommers
 
-Sarah Sommers is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Elastica, Vilnius on Fri, 13 Nov 2026.
+Sarah Sommers is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Howler, Melbourne on Sat, 12 Dec 2026.
 
-Sarah Sommers is a techno and house artist based in Germany, with 64 gigs on soundcheck across Amsterdam, Austin, Barcelona and Beijing and 27 more. Often billed alongside Handmade, Josef Kunz and Dr. Rubinstein. Next up: Elastica, Vilnius on Fri 13 Nov.
+Sarah Sommers is a techno and house artist based in Germany, with 64 gigs on soundcheck across Amsterdam, Austin, Barcelona and Beijing and 27 more. Often billed alongside Handmade, Josef Kunz and Dr. Rubinstein. Next up: Howler, Melbourne on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Elastica | Vilnius |
 | Sat, 12 Dec 2026 | Howler | Melbourne |
 | Mon, 28 Dec 2026 | Tresor / Globus | Berlin |
 | Thu, 31 Dec 2026 | Tresor / Globus | Berlin |
@@ -28,4 +27,4 @@ Sarah Sommers is a techno and house artist based in Germany, with 64 gigs on sou
 
 Handmade, Josef Kunz, Dr. Rubinstein
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahsommers/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahsommers/)*

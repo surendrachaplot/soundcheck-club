@@ -1,6 +1,6 @@
 # Craig Charles Funk & Soul House Party at O2 Academy Liverpool
 
-Craig Charles Funk & Soul House Party at O2 Academy Liverpool on Fri 12 Feb, Liverpool. 1 artist: Craig Charles. See the line-up on soundcheck.
+Craig Charles Funk & Soul House Party at O2 Academy Liverpool on Fri 12 Feb, Liverpool. 1 artist: Craig Charles. House and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

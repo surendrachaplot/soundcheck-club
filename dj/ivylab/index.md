@@ -1,14 +1,13 @@
 # Ivy Lab
 
-Ivy Lab is a Bass and Drum & Bass artist with 11 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Kassa Boat, Budapest on Sat, 14 Nov 2026.
+Ivy Lab is a Bass and Drum & Bass artist with 10 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Thekla, Bristol on Fri, 27 Nov 2026.
 
-Ivy Lab is a bass and drum & bass artist based in United Kingdom, with 110 gigs on soundcheck across Adelaide, Antwerp, Arkansas and Atlanta and 45 more. Often billed alongside Kasra, Lake Hills and Rohaan. Next up: Kassa Boat, Budapest on Sat 14 Nov.
+Ivy Lab is a bass and drum & bass artist based in United Kingdom, with 110 gigs on soundcheck across Adelaide, Antwerp, Arkansas and Atlanta and 45 more. Often billed alongside Kasra, Lake Hills and Rohaan. Next up: Thekla, Bristol on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Kassa Boat | Budapest |
 | Fri, 27 Nov 2026 | Thekla | Bristol |
 | Sat, 28 Nov 2026 | Volks | Brighton |
 | Sat, 5 Dec 2026 | Final | Taipei |
@@ -22,6 +21,7 @@ Ivy Lab is a bass and drum & bass artist based in United Kingdom, with 110 gigs 
 
 ## Recently played
 
+- Kassa Boat, Budapest · Sat, 14 Nov 2026
 - Kavka Oudaan, Antwerp · Fri, 13 Nov 2026
 - Public Works, San Francisco/Oakland · Sat, 24 Oct 2026
 - The Vermont Hollywood, Los Angeles · Fri, 23 Oct 2026
@@ -29,10 +29,9 @@ Ivy Lab is a bass and drum & bass artist based in United Kingdom, with 110 gigs 
 - Mana Wynwood, Miami · Fri, 16 Oct 2026
 - The Ground at Club Space, Miami · Thu, 15 Oct 2026
 - Le Belmont, Montreal · Sun, 11 Oct 2026
-- SILO, New York City · Sat, 10 Oct 2026
 
 ## Shares bills with
 
 Kasra, Lake Hills, Rohaan
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ivylab/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ivylab/)*

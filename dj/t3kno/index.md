@@ -1,14 +1,15 @@
 # T3KNO
 
-T3KNO is a Guaracha and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Los Globos, Los Angeles on Thu, 19 Nov 2026.
+T3KNO is a Guaracha and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Los Globos, Los Angeles on Thu, 19 Nov 2026.
 
-T3KNO is a guaracha and techno artist based in United States of America, with 47 gigs on soundcheck across Los Angeles and San Francisco/Oakland. Often billed alongside BL4ZE, 4LOKA and Diablito. Next up: Los Globos, Los Angeles on Thu 19 Nov.
+T3KNO is a guaracha and techno artist based in United States of America, with 48 gigs on soundcheck across Los Angeles and San Francisco/Oakland. Often billed alongside BL4ZE, 4LOKA and Diablito. Next up: Los Globos, Los Angeles on Thu 19 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 19 Nov 2026 | Los Globos | Los Angeles |
+| Sat, 21 Nov 2026 | TBA - 818-724-7836 | Los Angeles |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ T3KNO is a guaracha and techno artist based in United States of America, with 47
 
 BL4ZE, 4LOKA, Diablito
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/t3kno/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/t3kno/)*

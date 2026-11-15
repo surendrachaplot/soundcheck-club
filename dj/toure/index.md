@@ -1,6 +1,6 @@
 # Touré
 
-Touré is a House and Electro artist with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Last Arch, London on Fri, 20 Nov 2026.
+Touré is a House and Electro artist with 4 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Last Arch, London on Fri, 20 Nov 2026.
 
 Touré is a house and electro artist based in United Kingdom, with 45 gigs on soundcheck across Bristol, Glasgow, Leeds and London and 5 more. Often billed alongside Larushkin, Jiminy Watts and Sleepy Jean. Next up: Last Arch, London on Fri 20 Nov.
 
@@ -28,4 +28,4 @@ Touré is a house and electro artist based in United Kingdom, with 45 gigs on so
 
 Larushkin, Jiminy Watts, Sleepy Jean
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toure/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toure/)*

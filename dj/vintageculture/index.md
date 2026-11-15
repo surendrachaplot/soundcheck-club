@@ -1,8 +1,8 @@
 # Vintage Culture
 
-Vintage Culture is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Rhythm Park, Thailand on Fri, 18 Dec 2026.
+Vintage Culture is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA - Rhythm Park, Thailand on Fri, 18 Dec 2026.
 
-Vintage Culture is a house and tech house artist based in Brazil, with 215 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 51 more. Often billed alongside FISHER, Andrea Oliva and Franky Rizardo. Next up: TBA - Rhythm Park, Thailand on Fri 18 Dec.
+Vintage Culture is a house and tech house artist based in Brazil, with 216 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 51 more. Often billed alongside FISHER, Andrea Oliva and Franky Rizardo. Next up: TBA - Rhythm Park, Thailand on Fri 18 Dec.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Vintage Culture is a house and tech house artist based in Brazil, with 215 gigs 
 | Fri, 18 Dec 2026 | TBA - Rhythm Park | Thailand |
 | Sat, 19 Dec 2026 | Savaya Bali | Bali |
 | Mon, 21 Dec 2026 | TBA | Uruguay |
+| Fri, 12 Feb 2027 | Museu do Amanhã | Rio de Janeiro |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Vintage Culture is a house and tech house artist based in Brazil, with 215 gigs 
 
 FISHER, Andrea Oliva, Franky Rizardo
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vintageculture/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vintageculture/)*

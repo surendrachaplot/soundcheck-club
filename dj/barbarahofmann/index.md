@@ -1,13 +1,14 @@
 # Barbara Hofmann
 
-Barbara Hofmann is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at ://about blank, Berlin on Sat, 23 Jan 2027.
+Barbara Hofmann is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at ://about blank, Berlin on Thu, 24 Dec 2026.
 
-Barbara Hofmann is a house and techno artist based in Germany, with 26 gigs on soundcheck across Berlin, Cologne, Düsseldorf and Hamburg and 1 more. Often billed alongside Jessamine, fr. JPLA and Kwaint. Next up: ://about blank, Berlin on Sat 23 Jan.
+Barbara Hofmann is a house and techno artist based in Germany, with 27 gigs on soundcheck across Berlin, Cologne, Düsseldorf and Hamburg and 1 more. Often billed alongside Jessamine, a:tok and fr. JPLA. Next up: ://about blank, Berlin on Thu 24 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 24 Dec 2026 | ://about blank | Berlin |
 | Sat, 23 Jan 2027 | ://about blank | Berlin |
 
 ## Recently played
@@ -23,6 +24,6 @@ Barbara Hofmann is a house and techno artist based in Germany, with 26 gigs on s
 
 ## Shares bills with
 
-Jessamine, fr. JPLA, Kwaint
+Jessamine, a:tok, fr. JPLA
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/barbarahofmann/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/barbarahofmann/)*

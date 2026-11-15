@@ -1,8 +1,8 @@
 # PIMENTTA
 
-PIMENTTA is a House and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Plano B, Porto on Thu, 26 Nov 2026.
+PIMENTTA is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Plano B, Porto on Thu, 26 Nov 2026.
 
-PIMENTTA is a house and club artist, with 4 gigs on soundcheck across Porto. Often billed alongside Carlos Regadas, DJ Nox and Easttown. Next up: Plano B, Porto on Thu 26 Nov.
+PIMENTTA is a house and club artist based in Portugal, with 4 gigs on soundcheck across Porto. Often billed alongside Carlos Regadas, DJ Nox and Easttown. Next up: Plano B, Porto on Thu 26 Nov.
 
 ## Upcoming shows
 
@@ -20,4 +20,4 @@ PIMENTTA is a house and club artist, with 4 gigs on soundcheck across Porto. Oft
 
 Carlos Regadas, DJ Nox, Easttown
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pimentta/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pimentta/)*

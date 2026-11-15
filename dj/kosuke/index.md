@@ -1,19 +1,19 @@
 # Kosuke
 
-Kosuke is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Cube, Tokyo on Sat, 14 Nov 2026.
+Kosuke is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Blvck Water, Osaka on Fri, 27 Nov 2026.
 
-Kosuke is a techno and industrial artist based in Japan, with 69 gigs on soundcheck across Amsterdam, Beijing, Bogotá and Hamburg and 8 more. Often billed alongside FENGX2, EMILIO and EVE. Next up: Cube, Tokyo on Sat 14 Nov.
+Kosuke is a techno and industrial artist based in Japan, with 69 gigs on soundcheck across Amsterdam, Beijing, Bogotá and Hamburg and 8 more. Often billed alongside FENGX2, EMILIO and EVE. Next up: Blvck Water, Osaka on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Cube | Tokyo |
 | Fri, 27 Nov 2026 | Blvck Water | Osaka |
 | Sat, 28 Nov 2026 | Adrift | Tokyo |
 
 ## Recently played
 
+- Cube, Tokyo · Sat, 14 Nov 2026
 - WOMB, Tokyo · Thu, 29 Oct 2026
 - WOMB, Tokyo · Thu, 29 Oct 2026
 - Blvck Water, Osaka · Fri, 23 Oct 2026
@@ -21,10 +21,9 @@ Kosuke is a techno and industrial artist based in Japan, with 69 gigs on soundch
 - Blvck Water, Osaka · Fri, 4 Sept 2026
 - clubasia, Tokyo · Fri, 21 Aug 2026
 - Roppongi Cube, Tokyo · Sat, 18 Jul 2026
-- Secret Venue in Minatoku-Nishiazabu, Tokyo · Sat, 4 Jul 2026
 
 ## Shares bills with
 
 FENGX2, EMILIO (3), EVE (1)
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kosuke/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kosuke/)*

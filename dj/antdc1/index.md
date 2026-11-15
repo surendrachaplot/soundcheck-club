@@ -1,8 +1,8 @@
 # Ant TC1
 
-Ant TC1 is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Gretchen, Berlin on Sat, 16 Jan 2027.
+Ant TC1 is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Gretchen, Berlin on Sat, 16 Jan 2027.
 
-Ant TC1 is a drum & bass and jungle artist based in United Kingdom, with 63 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 27 more. Often billed alongside Goldie, Doc Scott and Dillinja. Next up: Gretchen, Berlin on Sat 16 Jan.
+Ant TC1 is a drum & bass and jungle artist based in United Kingdom, with 64 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 27 more. Often billed alongside Goldie, Doc Scott and Dillinja. Next up: Gretchen, Berlin on Sat 16 Jan.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ant TC1 is a drum & bass and jungle artist based in United Kingdom, with 63 gigs
 | --- | --- | --- |
 | Sat, 16 Jan 2027 | Gretchen | Berlin |
 | Sun, 17 Jan 2027 | Sneaky Pete's | Edinburgh |
+| Sat, 30 Jan 2027 | Moon Club | Bristol |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Ant TC1 is a drum & bass and jungle artist based in United Kingdom, with 63 gigs
 
 Goldie, Doc Scott, Dillinja
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antdc1/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antdc1/)*

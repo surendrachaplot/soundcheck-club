@@ -1,14 +1,13 @@
 # Dubkasm
 
-Dubkasm is a Dub and Dubstep artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Zoo, Geneva on Fri, 13 Nov 2026.
+Dubkasm is a Dub and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at The Trinity Centre, Bristol on Sat, 28 Nov 2026.
 
-Dubkasm is a dub and dubstep artist based in United Kingdom, with 17 gigs on soundcheck across Barcelona, Bristol, Bucharest and Geneva and 4 more. Often billed alongside Footsie, 4am Kru and A For Alpha. Next up: Zoo, Geneva on Fri 13 Nov.
+Dubkasm is a dub and dubstep artist based in United Kingdom, with 17 gigs on soundcheck across Barcelona, Bristol, Bucharest and Geneva and 4 more. Often billed alongside Footsie, 4am Kru and A For Alpha. Next up: The Trinity Centre, Bristol on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Zoo | Geneva |
 | Sat, 28 Nov 2026 | The Trinity Centre | Bristol |
 | Fri, 4 Dec 2026 | fabric | London |
 
@@ -27,4 +26,4 @@ Dubkasm is a dub and dubstep artist based in United Kingdom, with 17 gigs on sou
 
 Footsie, 4am Kru, A For Alpha
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dubkasm/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dubkasm/)*

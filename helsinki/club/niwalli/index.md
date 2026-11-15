@@ -1,6 +1,6 @@
 # Ääniwalli
 
-Ääniwalli is a music venue in Helsinki with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "LOYALTY TEST: Inox Traxx (OSTGUT TON, DE)" on Fri, 27 Nov 2026.
+Ääniwalli is a music venue in Helsinki with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "LOYALTY TEST: Inox Traxx (OSTGUT TON, DE)" on Fri, 27 Nov 2026.
 
 Ääniwalli is a music venue in Helsinki listed on soundcheck. 3 upcoming gigs, with line-ups including Inox Traxx, Oikam Orim, Samuel Moriero and The Scientist and 1 more. See dates, start times and who's playing. Pälkäneentie 13, 00510 Helsinki, Finland.
 
@@ -16,4 +16,4 @@
 
 Pälkäneentie 13, 00510 Helsinki, Finland, Helsinki
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/niwalli/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/niwalli/)*

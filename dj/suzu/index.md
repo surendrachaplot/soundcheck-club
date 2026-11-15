@@ -1,19 +1,19 @@
 # suzu
 
-suzu is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at VENT, Tokyo on Sat, 14 Nov 2026.
+suzu is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Koara, Tokyo on Sun, 15 Nov 2026.
 
-suzu is a house and techno artist based in Germany, with 11 gigs on soundcheck across Sydney and Tokyo. Often billed alongside Koki, LEFTOLD and Samo. Next up: VENT, Tokyo on Sat 14 Nov.
+suzu is a house and techno artist based in Germany, with 11 gigs on soundcheck across Sydney and Tokyo. Often billed alongside Koki, LEFTOLD and Samo. Next up: Koara, Tokyo on Sun 15 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | VENT | Tokyo |
 | Sun, 15 Nov 2026 | Koara | Tokyo |
 | Sat, 21 Nov 2026 | TBA | Sydney |
 
 ## Recently played
 
+- VENT, Tokyo · Sat, 14 Nov 2026
 - Red Bar, Tokyo · Tue, 3 Nov 2026
 - 88block, Tokyo · Tue, 1 Sept 2026
 - Heavy Sick Zero, Tokyo · Sat, 29 Aug 2026
@@ -21,10 +21,9 @@ suzu is a house and techno artist based in Germany, with 11 gigs on soundcheck a
 - Aoyama Hachi, Tokyo · Tue, 5 May 2026
 - Koara, Tokyo · Sun, 15 Mar 2026
 - COUNTER CLUB, Tokyo · Sat, 14 Feb 2026
-- Aoyama Hachi, Tokyo · Fri, 21 Nov 2025
 
 ## Shares bills with
 
 Koki, LEFTOLD, Samo
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suzu/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suzu/)*

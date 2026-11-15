@@ -1,16 +1,13 @@
 # Risa Taniguchi
 
-Risa Taniguchi is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Joule, Osaka on Sat, 14 Nov 2026.
+Risa Taniguchi is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 22 Nov 2026.
 
-Risa Taniguchi is a techno and house artist based in Japan, with 125 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bologna and 14 more. Often billed alongside Drunken Kong, YURI VALEN and Ken Ishii. Next up: Joule, Osaka on Sat 14 Nov.
+Risa Taniguchi is a techno and house artist based in Japan, with 125 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bologna and 14 more. Often billed alongside Drunken Kong, YURI VALEN and Ken Ishii. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun 22 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Joule | Osaka |
-| Sat, 14 Nov 2026 | Triangle | Osaka |
-| Sat, 14 Nov 2026 | Blvck Water | Osaka |
 | Sun, 22 Nov 2026 | Yodo Groove (Yodobashi Ikebukuro) | Tokyo |
 | Mon, 23 Nov 2026 | or | Tokyo |
 | Sat, 28 Nov 2026 | Adrift | Tokyo |
@@ -19,17 +16,17 @@ Risa Taniguchi is a techno and house artist based in Japan, with 125 gigs on sou
 
 ## Recently played
 
+- Joule, Osaka · Sat, 14 Nov 2026
+- Triangle, Osaka · Sat, 14 Nov 2026
+- Blvck Water, Osaka · Sat, 14 Nov 2026
 - TANKclub, Bologna · Sat, 24 Oct 2026
 - Melkweg, Amsterdam · Fri, 23 Oct 2026
 - WOMB, Tokyo · Sun, 20 Sept 2026
 - TBA -    Kodamanomori Camp Ground, Nagano, Tokyo · Fri, 11 Sept 2026
 - Yodo Groove (Yodobashi Ikebukuro), Tokyo · Sun, 6 Sept 2026
-- Der Weiße Hase, Berlin · Fri, 14 Aug 2026
-- Glazart, Paris · Sun, 9 Aug 2026
-- ZEROTOKYO, Tokyo · Fri, 24 Jul 2026
 
 ## Shares bills with
 
 Drunken Kong, YURI VALEN, Ken Ishii
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/risataniguchi/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/risataniguchi/)*

@@ -1,14 +1,13 @@
 # Warp Shinjuku
 
-Warp Shinjuku is a music venue in Tokyo with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "AVA Night - Richard Durand, Somna, Rinaly + more" on Sun, 15 Nov 2026.
+Warp Shinjuku is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "AVIDD 3rd Anniversary" on Sun, 22 Nov 2026.
 
-Warp Shinjuku is a music venue in Tokyo listed on soundcheck. 3 upcoming gigs, with line-ups including TATSUYA, Codeswitch, Derek Ryan and Kazu and 2 more. See dates, start times and who's playing. 1-21-1 Kabukicho, Shinjuku-ku, Tokyo, 160-0021 Japan.
+Warp Shinjuku is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with line-ups including TATSUYA, Kazu and Keigo (JP). See dates, start times and who's playing. 1-21-1 Kabukicho, Shinjuku-ku, Tokyo, 160-0021 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 15 Nov 2026 | AVA Night - Richard Durand, Somna, Rinaly + more | Codeswitch, Derek Ryan, M42 (1), Richard Durand, Rinaly, Somna, YOSHIMASA, Yang |
 | Sun, 22 Nov 2026 | AVIDD 3rd Anniversary | Kazu |
 | Sun, 22 Nov 2026 | Palmera - Tech House Party  | Keigo (JP), TATSUYA |
 
@@ -16,4 +15,4 @@ Warp Shinjuku is a music venue in Tokyo listed on soundcheck. 3 upcoming gigs, w
 
 1-21-1 Kabukicho, Shinjuku-ku, Tokyo, 160-0021 Japan, Tokyo
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/warp-shinjuku/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/warp-shinjuku/)*

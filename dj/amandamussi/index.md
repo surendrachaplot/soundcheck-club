@@ -1,13 +1,14 @@
 # Amanda Mussi
 
-Amanda Mussi is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Room 11, Mongolia on Sat, 21 Nov 2026.
+Amanda Mussi is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at POTENT, Shanghai on Fri, 20 Nov 2026.
 
-Amanda Mussi is a techno and house artist based in Brazil, with 126 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 33 more. Often billed alongside Rachel Noon, Sept and Volvox. Next up: Room 11, Mongolia on Sat 21 Nov.
+Amanda Mussi is a techno and house artist based in Brazil, with 127 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 33 more. Often billed alongside Rachel Noon, Sept and Volvox. Next up: POTENT, Shanghai on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | POTENT | Shanghai |
 | Sat, 21 Nov 2026 | Room 11 | Mongolia |
 | Fri, 27 Nov 2026 | KREUZWERK | Berlin |
 | Fri, 1 Jan 2027 | CLUB RAUM | Amsterdam |
@@ -27,4 +28,4 @@ Amanda Mussi is a techno and house artist based in Brazil, with 126 gigs on soun
 
 Rachel Noon, Sept, Volvox
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amandamussi/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amandamussi/)*

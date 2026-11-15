@@ -1,14 +1,13 @@
 # 1LDK
 
-1LDK is a Electronica and Pop artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at WALL & WALL, Tokyo on Sun, 15 Nov 2026.
+1LDK is a Electronica and Pop artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Reactor Shanghai, Shanghai on Sat, 21 Nov 2026.
 
-1LDK is an electronica and pop artist based in Japan, with 11 gigs on soundcheck across Barcelona, Berlin, Cologne and London and 4 more. Often billed alongside Andriana-Yaroslava Saienko, Carrier and Catu Diosis. Next up: WALL & WALL, Tokyo on Sun 15 Nov.
+1LDK is an electronica and pop artist based in Japan, with 11 gigs on soundcheck across Barcelona, Berlin, Cologne and London and 4 more. Often billed alongside Andriana-Yaroslava Saienko, Carrier and Catu Diosis. Next up: Reactor Shanghai, Shanghai on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 15 Nov 2026 | WALL & WALL | Tokyo |
 | Sat, 21 Nov 2026 | Reactor Shanghai | Shanghai |
 | Mon, 28 Dec 2026 | Socore Factory | Osaka |
 
@@ -27,4 +26,4 @@
 
 Andriana-Yaroslava Saienko, Carrier, Catu Diosis
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/1ldk/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/1ldk/)*

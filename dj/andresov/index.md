@@ -1,6 +1,6 @@
 # Andrés Ov
 
-Andrés Ov is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Sala Siroco, Madrid on Wed, 18 Nov 2026.
+Andrés Ov is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Sala Siroco, Madrid on Wed, 18 Nov 2026.
 
 Andrés Ov is a techno and club artist based in Spain, with 16 gigs on soundcheck across Madrid. Often billed alongside Xcire, Dense Smoke and 00rt. Next up: Sala Siroco, Madrid on Wed 18 Nov.
 
@@ -25,4 +25,4 @@ Andrés Ov is a techno and club artist based in Spain, with 16 gigs on soundchec
 
 Xcire, Dense Smoke, 00rt
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andresov/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andresov/)*

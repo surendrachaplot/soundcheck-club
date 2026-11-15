@@ -1,14 +1,13 @@
 # Unai Trotti
 
-Unai Trotti is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA -  SECRET LOCATION, Rome on Sat, 14 Nov 2026.
+Unai Trotti is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at FOLD, London on Sat, 21 Nov 2026.
 
-Unai Trotti is a techno and house artist based in United Kingdom, with 189 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 61 more. Often billed alongside Z@p, Vass and Junki Inoue. Next up: TBA -  SECRET LOCATION, Rome on Sat 14 Nov.
+Unai Trotti is a techno and house artist based in United Kingdom, with 189 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 61 more. Often billed alongside Z@p, Vass and Junki Inoue. Next up: FOLD, London on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | TBA -  SECRET LOCATION | Rome |
 | Sat, 21 Nov 2026 | FOLD | London |
 | Fri, 27 Nov 2026 | The Bassement | Madrid |
 | Sat, 28 Nov 2026 | Ministerium Club | Lisbon |
@@ -21,6 +20,7 @@ Unai Trotti is a techno and house artist based in United Kingdom, with 189 gigs 
 
 ## Recently played
 
+- TBA -  SECRET LOCATION, Rome · Sat, 14 Nov 2026
 - Le Trabendo, Paris · Fri, 13 Nov 2026
 - TILLATEC, Amsterdam · Fri, 6 Nov 2026
 - WOMB, Tokyo · Sat, 24 Oct 2026
@@ -28,10 +28,9 @@ Unai Trotti is a techno and house artist based in United Kingdom, with 189 gigs 
 - Final, Taipei · Sat, 17 Oct 2026
 - Hertz, Seoul · Fri, 16 Oct 2026
 - 24 Kitchen Street, Liverpool · Fri, 2 Oct 2026
-- Chalkidiki, Kalamitsi, Thalatta Camp, Greece · Wed, 30 Sept 2026
 
 ## Shares bills with
 
 Z@p, Vass, Junki Inoue
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/unaitrotti/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/unaitrotti/)*

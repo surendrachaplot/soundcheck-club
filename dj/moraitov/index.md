@@ -1,19 +1,19 @@
 # Moraitov
 
-Moraitov is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Parking Garage Kresna Uprising, Skopje on Sat, 14 Nov 2026.
+Moraitov is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Klub K4, Ljubljana on Sat, 21 Nov 2026.
 
-Moraitov is a techno and industrial artist based in North Macedonia, with 9 gigs on soundcheck across Belgrade, Ljubljana and Skopje. Often billed alongside Stameni, ACOR and nobena. Next up: TBA - Parking Garage Kresna Uprising, Skopje on Sat 14 Nov.
+Moraitov is a techno and industrial artist based in North Macedonia, with 9 gigs on soundcheck across Belgrade, Ljubljana and Skopje. Often billed alongside Stameni, ACOR and nobena. Next up: Klub K4, Ljubljana on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | TBA - Parking Garage Kresna Uprising | Skopje |
 | Sat, 21 Nov 2026 | Klub K4 | Ljubljana |
 | Fri, 4 Dec 2026 | Drugstore Beograd | Belgrade |
 
 ## Recently played
 
+- TBA - Parking Garage Kresna Uprising, Skopje · Sat, 14 Nov 2026
 - TBA - Port of Belgrade, Belgrade · Fri, 2 Oct 2026
 - Matrez - Warehouse, Belgrade · Sat, 12 Sept 2026
 - TBA - MATREZ , Belgrade · Sat, 27 Jun 2026
@@ -25,4 +25,4 @@ Moraitov is a techno and industrial artist based in North Macedonia, with 9 gigs
 
 Stameni, ACOR, nobena
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moraitov/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moraitov/)*

@@ -1,17 +1,18 @@
 # Sala El Sol
 
-Sala El Sol is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. The next is "Pogo Live: Mietze Conte (live) + Secret Guest + pogo djs" on Fri, 13 Nov 2026.
+Sala El Sol is a music venue in Madrid with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Elements Cave: Alviker + DAVID MENA + Pulpix + Leofix" on Wed, 18 Nov 2026.
 
-Sala El Sol is a music venue in Madrid listed on soundcheck. 1 upcoming gig, with line-ups including Mietze Conte. See dates, start times and who's playing. Calle Jardines 3, 28013 Madrid, Spain.
+Sala El Sol is a music venue in Madrid listed on soundcheck. 2 upcoming gigs, with line-ups including Alviker, DAVID MENA, Leofix and Pulpix. See dates, start times and who's playing. Calle Jardines 3, 28013 Madrid, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Pogo Live: Mietze Conte (live) + Secret Guest + pogo djs | Mietze Conte |
+| Wed, 18 Nov 2026 | Elements Cave: Alviker + DAVID MENA + Pulpix + Leofix | Alviker, DAVID MENA, Leofix, Pulpix |
+| Wed, 25 Nov 2026 | Elements Cave |  |
 
 ## Address
 
 Calle Jardines 3, 28013 Madrid, Spain, Madrid
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-el-sol/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-el-sol/)*

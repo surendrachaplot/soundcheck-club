@@ -1,6 +1,6 @@
 # Privatclub
 
-Privatclub is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Lynnic & ItsArius - SOMEWHERE TOUR 2026" on Tue, 24 Nov 2026.
+Privatclub is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Lynnic & ItsArius - SOMEWHERE TOUR 2026" on Tue, 24 Nov 2026.
 
 Privatclub is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including Bizarre Billy and Lynnic. See dates, start times and who's playing. Skalitzer Straße 85-86, 10997 Berlin.
 
@@ -17,4 +17,4 @@ Privatclub is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, wit
 
 Skalitzer Straße 85-86, 10997 Berlin, Berlin
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/privatclub/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/privatclub/)*

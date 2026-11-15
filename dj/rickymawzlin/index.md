@@ -1,6 +1,6 @@
 # Ricky Mawzlin
 
-Ricky Mawzlin is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Mary's Bar, Pittsburgh on Sat, 5 Dec 2026.
+Ricky Mawzlin is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Mary's Bar, Pittsburgh on Sat, 5 Dec 2026.
 
 Ricky Mawzlin is a house and italo disco artist based in United States of America, with 69 gigs on soundcheck across Berlin, Ho Chi Minh City, London and Mexico City and 5 more. Often billed alongside Formosa, Jellyfish and smoko.world. Next up: Mary's Bar, Pittsburgh on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Ricky Mawzlin is a house and italo disco artist based in United States of Americ
 
 Formosa (1), Jellyfish, smoko.world
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rickymawzlin/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rickymawzlin/)*

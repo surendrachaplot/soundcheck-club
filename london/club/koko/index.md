@@ -1,15 +1,13 @@
 # KOKO
 
-KOKO is a music venue in London with 24 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "KOKO Electronic: Claptone" on Sat, 14 Nov 2026.
+KOKO is a music venue in London with 22 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "KOKO Electronic: Francis Mercier, Friday 20th Nov (Pt.1)" on Fri, 20 Nov 2026.
 
-KOKO is a music venue in London listed on soundcheck. 24 upcoming gigs, with line-ups including Agathe Mougin, Alex Wann, AMOUNKA and Arnie Wrong and 2 more. See dates, start times and who's playing. 1a Camden High Street; Camden Town; London NW1 7JE; United Kingdom.
+KOKO is a music venue in London listed on soundcheck. 22 upcoming gigs, with line-ups including Agathe Mougin, Alex Wann, AMOUNKA and Arnie Wrong and 2 more. See dates, start times and who's playing. 1a Camden High Street; Camden Town; London NW1 7JE; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | KOKO Electronic: Claptone | Claptone, Crusy, Will Silver |
-| Sat, 14 Nov 2026 | Duke Energy One-Time Utility Payment Online: Instant Guest Pay Steps | SHARE (NL), TBA |
 | Fri, 20 Nov 2026 | KOKO Electronic: Francis Mercier, Friday 20th Nov (Pt.1) | Francis Mercier, Nadrums, Neyl (1) |
 | Fri, 20 Nov 2026 | KOKO Electronic: Francis Mercier, Weekender (Nov 20,21,22) | Francis Mercier |
 | Sat, 21 Nov 2026 | KOKO Electronic: Francis Mercier, Saturday 21st Nov (Pt.2) | Francis Mercier, Makèz, Storm Mollison |
@@ -18,9 +16,11 @@ KOKO is a music venue in London listed on soundcheck. 24 upcoming gigs, with lin
 | Fri, 27 Nov 2026 | KOKO Electronic x The Moment: WhoMadeWho (Fri 27th, Live) / (Sat 28th, Hybrid DJ Set) | WhoMadeWho |
 | Sat, 28 Nov 2026 | KOKO Electronic x The Moment: WhoMadeWho (Sat 28th, Hybrid DJ Set) | GiZ, Lilya Mandre, Son of Son, WhoMadeWho |
 | Sat, 5 Dec 2026 | DJ Marky & Friends London | DJ Die, DJ Marky, Gardna, MC GQ, Makoto |
+| Sat, 5 Dec 2026 | Disco Disco: Derrick Carter | Derrick Carter |
+| Fri, 11 Dec 2026 | KOKO Electronic: Jan Blomqvist (live) | AMOUNKA, Jan Blomqvist |
 
 ## Address
 
 1a Camden High Street; Camden Town; London NW1 7JE; United Kingdom, London
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/koko/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/koko/)*

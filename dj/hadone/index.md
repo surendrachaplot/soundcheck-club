@@ -1,6 +1,6 @@
 # Hadone
 
-Hadone is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Chez Les Plombiers, Central on Sun, 22 Nov 2026.
+Hadone is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Chez Les Plombiers, Central on Sun, 22 Nov 2026.
 
 Hadone is a techno and house artist based in France, with 206 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 66 more. Often billed alongside UFO95, Chlär and DAX J. Next up: Chez Les Plombiers, Central on Sun 22 Nov.
 
@@ -32,4 +32,4 @@ Hadone is a techno and house artist based in France, with 206 gigs on soundcheck
 
 UFO95, Chlär, DAX J
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hadone/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hadone/)*

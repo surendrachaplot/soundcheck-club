@@ -1,6 +1,6 @@
 # Void Club
 
-Void Club is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "BRAINFIRE -25th Inferno- Gabber Hardcore Speedcore" on Sat, 14 Nov 2026.
+Void Club is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Lucid Dreaming - 15 Years Anniversary with Seba (SE)" on Fri, 20 Nov 2026.
 
 Void Club is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line-ups including AAguilAA, Abriss Andrej, Alex Pastore and Anna Hoeber and 2 more. See dates, start times and who's playing. Wiesenweg 5-9, 10365.
 
@@ -8,7 +8,6 @@ Void Club is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, wit
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | BRAINFIRE -25th Inferno- Gabber Hardcore Speedcore | Jensen, Outrage, Robsen |
 | Fri, 20 Nov 2026 | Lucid Dreaming - 15 Years Anniversary with Seba (SE) | CainDNB, Dirty Plates, MARIE.MOON, Seba, Shaded Lines, Upzet |
 | Sat, 21 Nov 2026 | Ziber BERLIN ☆ THIEVES | AAguilAA, BLEACH.LIVE, ELITEWASTE, Glotzer, Melanie Havens, Merlin Cum, Miro Von, RAGE (3), SXCL, ilbroccolovolante, tigerdisco |
 | Fri, 27 Nov 2026 | Drum and Bass w/Billain (BA), Erotic Cafe' (IT) - human_made 007 | Abriss Andrej, Alex Pastore, Anton Quasi, Billain, DAHRAXT, IHOPEIEXIST, Kenzura, Krushak, RMW (DE), Torn (RU), icanseesounds, nillonollin |
@@ -18,9 +17,10 @@ Void Club is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, wit
 | Sat, 12 Dec 2026 | Dionys x I Love Modus: Hardtechno x Trance/Bounce Rave (2 Floors) | Brizze, e.leptic |
 | Fri, 18 Dec 2026 | Free Party | Anna Hoeber, Antiquis Anima, MixB, Theo Slickers, Upzet |
 | Sat, 19 Dec 2026 | Split Signal - Face2face & Back2back | Dirty Plates (2), IZA (6), K.EULE, LOUPING, Lay.Dee Strange, Mr.Lafont, Soniq, Upzet, kutscher |
+| Sat, 2 Jan 2027 | Dionys: Hardtechno x Trance/Bounce Rave(2 Floors) | Brizze |
 
 ## Address
 
 Wiesenweg 5-9, 10365, Berlin
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*

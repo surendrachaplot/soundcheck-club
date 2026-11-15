@@ -1,14 +1,13 @@
 # Gare Porto
 
-Gare Porto is a music venue in Porto with 8 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Boston 168 [live], 1000A, Tiago Fragateiro" on Sat, 14 Nov 2026.
+Gare Porto is a music venue in Porto with 7 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Stef Mendesidis [live], Amulador" on Fri, 20 Nov 2026.
 
-Gare Porto is a music venue in Porto listed on soundcheck. 8 upcoming gigs, with line-ups including Amulador, Banditst4r, Boston 168 and Catarina Silva and 2 more. See dates, start times and who's playing. Rua da Madeira 182, 4000 Porto, Portugal.
+Gare Porto is a music venue in Porto listed on soundcheck. 7 upcoming gigs, with line-ups including Amulador, Banditst4r, Catarina Silva and dawn dani and 2 more. See dates, start times and who's playing. Rua da Madeira 182, 4000 Porto, Portugal.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Boston 168 [live], 1000A, Tiago Fragateiro | Boston 168, Tiago Fragateiro |
 | Fri, 20 Nov 2026 | Stef Mendesidis [live], Amulador | Amulador, Stef Mendesidis |
 | Sat, 21 Nov 2026 | Analytical Convenience with M3STR [live], Fjäll, Nocivo - FREE ENTRY | Fjäll, M3STR |
 | Fri, 27 Nov 2026 | Ovelha Trax 5th Anniversary - Catarina Silva, System Sophie b2b Bandidt4r, Mingote | Banditst4r, Catarina Silva, Mingote, System Sophie |
@@ -21,4 +20,4 @@ Gare Porto is a music venue in Porto listed on soundcheck. 8 upcoming gigs, with
 
 Rua da Madeira 182, 4000 Porto, Portugal, Porto
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/porto/club/gare-porto/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/porto/club/gare-porto/)*

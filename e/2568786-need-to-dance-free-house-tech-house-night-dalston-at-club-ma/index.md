@@ -1,6 +1,6 @@
 # NEED TO DANCE (Free House & Tech House Night, Dalston) at Club Makossa
 
-NEED TO DANCE (Free House & Tech House Night, Dalston) at Club Makossa on Thu 26 Nov, London. 1 artist: Alexei Byzone. House and Tech House. See the line-up on soundcheck.
+NEED TO DANCE (Free House & Tech House Night, Dalston) at Club Makossa on Thu 26 Nov, London. 3 artists: Alexei Byzone, daaz and EWERED. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,7 @@ NEED TO DANCE (Free House & Tech House Night, Dalston) at Club Makossa on Thu 26
 ## Line-up
 
 - Alexei Byzone
+- daaz
+- EWERED
 
 *Source: [soundcheck](https://soundcheck.club/e/2568786-need-to-dance-free-house-tech-house-night-dalston-at-club-ma/)*

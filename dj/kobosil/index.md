@@ -1,14 +1,13 @@
 # Kobosil
 
-Kobosil is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Hans Bunte Areal, Freiburg on Sat, 14 Nov 2026.
+Kobosil is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Home The Venue, Sydney on Fri, 27 Nov 2026.
 
-Kobosil is a techno and house artist based in Germany, with 278 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 80 more. Often billed alongside Somewhen, Clara Cuvé and I Hate Models. Next up: Hans Bunte Areal, Freiburg on Sat 14 Nov.
+Kobosil is a techno and house artist based in Germany, with 278 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 80 more. Often billed alongside Somewhen, Clara Cuvé and I Hate Models. Next up: Home The Venue, Sydney on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Hans Bunte Areal | Freiburg |
 | Fri, 27 Nov 2026 | Home The Venue | Sydney |
 | Fri, 4 Dec 2026 | Hansemesse, Rostock | Mecklenburg-vorpommern |
 | Sat, 19 Dec 2026 | Hallenstadion | Zurich |
@@ -19,6 +18,7 @@ Kobosil is a techno and house artist based in Germany, with 278 gigs on soundche
 
 ## Recently played
 
+- Hans Bunte Areal, Freiburg · Sat, 14 Nov 2026
 - Gianpula Main Room, Malta · Fri, 13 Nov 2026
 - Club Cultural Lima, Peru · Fri, 30 Oct 2026
 - Auditorio Málaga Cortijo de Torres, South · Sat, 10 Oct 2026
@@ -26,10 +26,9 @@ Kobosil is a techno and house artist based in Germany, with 278 gigs on soundche
 - TBA - Port of Belgrade, Belgrade · Fri, 2 Oct 2026
 - Akvárium Klub, Budapest · Fri, 2 Oct 2026
 - Akvárium Klub, Budapest · Fri, 2 Oct 2026
-- Gate Milano, Milan · Fri, 25 Sept 2026
 
 ## Shares bills with
 
 Somewhen, Clara Cuvé, I Hate Models
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kobosil/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kobosil/)*

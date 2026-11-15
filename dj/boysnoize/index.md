@@ -1,14 +1,13 @@
 # Boys Noize
 
-Boys Noize is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Factory Town, Miami on Sat, 14 Nov 2026.
+Boys Noize is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Bitec Banga, Bangkok on Fri, 27 Nov 2026.
 
-Boys Noize is a techno and house artist based in Germany, with 180 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bangkok and 65 more. Often billed alongside VTSS, MCR-T and Patrick Mason. Next up: Factory Town, Miami on Sat 14 Nov.
+Boys Noize is a techno and house artist based in Germany, with 180 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bangkok and 65 more. Often billed alongside VTSS, MCR-T and Patrick Mason. Next up: Bitec Banga, Bangkok on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Factory Town | Miami |
 | Fri, 27 Nov 2026 | Bitec Banga | Bangkok |
 | Fri, 18 Dec 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |
@@ -18,6 +17,7 @@ Boys Noize is a techno and house artist based in Germany, with 180 gigs on sound
 
 ## Recently played
 
+- Factory Town, Miami · Sat, 14 Nov 2026
 - Echostage, Washington DC · Fri, 13 Nov 2026
 - Tinker Field, Orlando · Fri, 6 Nov 2026
 - The Grammy Museum at L.A. Live, Los Angeles · Mon, 2 Nov 2026
@@ -25,10 +25,9 @@ Boys Noize is a techno and house artist based in Germany, with 180 gigs on sound
 - Melkweg, Amsterdam · Sat, 24 Oct 2026
 - Nitsa Club, Barcelona · Fri, 23 Oct 2026
 - Studio1111, Berlin · Sat, 17 Oct 2026
-- Mia Mao, Paris · Fri, 16 Oct 2026
 
 ## Shares bills with
 
 VTSS, MCR-T, Patrick Mason
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boysnoize/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boysnoize/)*

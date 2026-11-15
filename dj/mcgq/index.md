@@ -1,15 +1,13 @@
 # MC GQ
 
-MC GQ is a Drum & Bass and Jungle artist with 8 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Outernet Live, London on Sat, 14 Nov 2026.
+MC GQ is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Night Tales, London on Sun, 15 Nov 2026.
 
-MC GQ is a drum & bass and jungle artist based in United Kingdom, with 99 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Birmingham and 15 more. Often billed alongside Dillinja, SP:MC and DJ Marky. Next up: Outernet Live, London on Sat 14 Nov.
+MC GQ is a drum & bass and jungle artist based in United Kingdom, with 99 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Birmingham and 15 more. Often billed alongside Dillinja, SP:MC and DJ Marky. Next up: Night Tales, London on Sun 15 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Outernet Live | London |
-| Sat, 14 Nov 2026 | fabric | London |
 | Sun, 15 Nov 2026 | Night Tales | London |
 | Fri, 20 Nov 2026 | TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday) | Amsterdam |
 | Fri, 20 Nov 2026 | Ampere | Antwerp |
@@ -19,17 +17,17 @@ MC GQ is a drum & bass and jungle artist based in United Kingdom, with 99 gigs o
 
 ## Recently played
 
+- Outernet Live, London · Sat, 14 Nov 2026
+- fabric, London · Sat, 14 Nov 2026
 - DRUMSHEDS, London · Sat, 7 Nov 2026
 - XOYO, London · Sat, 7 Nov 2026
 - TAC (Tottenham Arts Collective), London · Fri, 30 Oct 2026
 - fabric, London · Fri, 23 Oct 2026
 - Eutopia Whs, London · Sat, 5 Sept 2026
 - Disco Zwei, Mannheim · Sat, 5 Sept 2026
-- The Cause, London · Sat, 22 Aug 2026
-- The Prospect Building, Bristol · Sat, 8 Aug 2026
 
 ## Shares bills with
 
 Dillinja, SP:MC, DJ Marky
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mcgq/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mcgq/)*

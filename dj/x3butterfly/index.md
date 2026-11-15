@@ -1,6 +1,6 @@
 # x3butterfly
 
-x3butterfly is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at KREUZWERK, Berlin on Sat, 14 Nov 2026.
+x3butterfly is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at KREUZWERK, Berlin on Sat, 14 Nov 2026.
 
 x3butterfly is a techno and house artist based in United States of America, with 218 gigs on soundcheck across Amsterdam, Atlanta, Bangkok and Beijing and 39 more. Often billed alongside Sterling Juan Diaz, Concrete Husband and Meilgaarden. Next up: KREUZWERK, Berlin on Sat 14 Nov.
 
@@ -18,6 +18,7 @@ x3butterfly is a techno and house artist based in United States of America, with
 
 ## Recently played
 
+- KREUZWERK, Berlin · Sat, 14 Nov 2026
 - nachbar, Amsterdam · Fri, 13 Nov 2026
 - public records, New York City · Sun, 1 Nov 2026
 - Pisces, Atlanta · Fri, 30 Oct 2026
@@ -25,10 +26,9 @@ x3butterfly is a techno and house artist based in United States of America, with
 - FOLD, London · Fri, 23 Oct 2026
 - Knockdown Center, New York City · Sat, 17 Oct 2026
 - Mana Wynwood, Miami · Fri, 16 Oct 2026
-- TBA - Black Circle , Indiana · Fri, 16 Oct 2026
 
 ## Shares bills with
 
 Sterling Juan Diaz, Concrete Husband, Meilgaarden
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/x3butterfly/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/x3butterfly/)*

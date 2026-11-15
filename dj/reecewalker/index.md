@@ -1,6 +1,6 @@
 # Reece Walker
 
-Reece Walker is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Distillery, Leipzig on Sat, 14 Nov 2026.
+Reece Walker is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Distillery, Leipzig on Sat, 14 Nov 2026.
 
 Reece Walker is a house and tech house artist based in Germany, with 18 gigs on soundcheck across Berlin, Frankfurt, Leipzig and Melbourne and 1 more. Often billed alongside mp.ulle, Carmel and Sevensol. Next up: Distillery, Leipzig on Sat 14 Nov.
 
@@ -12,6 +12,7 @@ Reece Walker is a house and tech house artist based in Germany, with 18 gigs on 
 
 ## Recently played
 
+- Distillery, Leipzig · Sat, 14 Nov 2026
 - Kater, Berlin · Sat, 30 May 2026
 - arkaoda Berlin, Berlin · Sat, 17 Jan 2026
 - Bassiani, Tbilisi · Sat, 18 Oct 2025
@@ -19,10 +20,9 @@ Reece Walker is a house and tech house artist based in Germany, with 18 gigs on 
 - Kulturlounge, Leipzig · Fri, 6 Jun 2025
 - Silbergold, Frankfurt · Fri, 7 Mar 2025
 - Kater, Berlin · Sat, 15 Feb 2025
-- Sub Club Melbourne, Melbourne · Fri, 31 Jan 2025
 
 ## Shares bills with
 
 mp.ulle, Carmel, Sevensol
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reecewalker/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reecewalker/)*

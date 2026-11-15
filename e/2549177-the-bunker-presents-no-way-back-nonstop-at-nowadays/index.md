@@ -1,6 +1,6 @@
 # The Bunker presents: No Way Back Nonstop at Nowadays
 
-The Bunker presents: No Way Back Nonstop at Nowadays on Sat 14 Nov, New York City. 8 artists: BMG, Bryan Kasenic, Carlos Souffront and Derek Plaslaiko and 4 more. Acid and Electro. See the line-up on soundcheck.
+The Bunker presents: No Way Back Nonstop at Nowadays on Sat 14 Nov, New York City. 8 artists: BMG, Bryan Kasenic, Carlos Souffront and Derek Plaslaiko and 4 more. Electro and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

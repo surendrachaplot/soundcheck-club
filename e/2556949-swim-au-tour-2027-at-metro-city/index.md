@@ -1,6 +1,6 @@
 # SWIM - AU Tour 2027 at Metro City
 
-SWIM - AU Tour 2027 at Metro City on Fri 12 Feb, Perth. 1 artist: SWIM (AU). See the line-up on soundcheck.
+SWIM - AU Tour 2027 at Metro City on Fri 12 Feb, Perth. 1 artist: SWIM (AU). House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Shinyoung
 
-Shinyoung is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Graphic Hangang, Seoul on Wed, 11 Nov 2026.
+Shinyoung is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Graphic Hangang, Seoul on Wed, 11 Nov 2026.
 
 Shinyoung is a house and techno artist based in South Korea, with 121 gigs on soundcheck across Seoul, South Korea and Tokyo. Often billed alongside SEOD, Youknowsong and JAEHAN. Next up: Graphic Hangang, Seoul on Wed 11 Nov.
 
@@ -9,7 +9,6 @@ Shinyoung is a house and techno artist based in South Korea, with 121 gigs on so
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 11 Nov 2026 | Graphic Hangang | Seoul |
-| Thu, 12 Nov 2026 | Modeci | Seoul |
 | Sun, 22 Nov 2026 | Hertz | Seoul |
 
 ## Recently played
@@ -27,4 +26,4 @@ Shinyoung is a house and techno artist based in South Korea, with 121 gigs on so
 
 SEOD, Youknowsong, JAEHAN (2)
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shinyoung/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shinyoung/)*

@@ -1,19 +1,19 @@
 # dragongirl
 
-dragongirl is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Basement Vesterbro, Copenhagen on Sat, 14 Nov 2026.
+dragongirl is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Cecil AM, Copenhagen on Fri, 27 Nov 2026.
 
-dragongirl is a techno and trance artist based in Norway, with 46 gigs on soundcheck across Bergen, Berlin, Copenhagen and Oslo and 1 more. Often billed alongside HEX ELECTRONIX, Elias Gozal and Gavnlig. Next up: Basement Vesterbro, Copenhagen on Sat 14 Nov.
+dragongirl is a techno and trance artist based in Norway, with 46 gigs on soundcheck across Bergen, Berlin, Copenhagen and Oslo and 1 more. Often billed alongside HEX ELECTRONIX, Elias Gozal and Gavnlig. Next up: Cecil AM, Copenhagen on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Basement Vesterbro | Copenhagen |
 | Fri, 27 Nov 2026 | Cecil AM | Copenhagen |
 | Sat, 5 Dec 2026 | Hangaren | Copenhagen |
 
 ## Recently played
 
+- Basement Vesterbro, Copenhagen · Sat, 14 Nov 2026
 - The Villa, Oslo · Fri, 30 Oct 2026
 - Den Anden Side, Copenhagen · Fri, 14 Aug 2026
 - Pumpehuset, Copenhagen · Thu, 13 Aug 2026
@@ -21,10 +21,9 @@ dragongirl is a techno and trance artist based in Norway, with 46 gigs on soundc
 - Huset I Magstræde, Copenhagen · Thu, 14 May 2026
 - Sidste Mole, Copenhagen · Wed, 13 May 2026
 - Hangaren, Copenhagen · Sat, 9 May 2026
-- H15 Scene & Studio, Copenhagen · Thu, 2 Apr 2026
 
 ## Shares bills with
 
 HEX ELECTRONIX, Elias Gozal, Gavnlig
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dragongirl/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dragongirl/)*

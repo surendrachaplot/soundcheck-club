@@ -1,8 +1,8 @@
 # TBA - Los Angeles
 
-TBA - Los Angeles is a music venue in Los Angeles with 14 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "VOIDLINE LA — STATIC REBELLION — 14 NOVEMBER" on Sat, 14 Nov 2026.
+TBA - Los Angeles is a music venue in Los Angeles with 16 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "VOIDLINE LA — STATIC REBELLION — 14 NOVEMBER" on Sat, 14 Nov 2026.
 
-TBA - Los Angeles is a music venue in Los Angeles listed on soundcheck. 14 upcoming gigs, with line-ups including 999999999, Adrian Reyes, Akua and Annika Wolfe and 2 more. See dates, start times and who's playing.
+TBA - Los Angeles is a music venue in Los Angeles listed on soundcheck. 16 upcoming gigs, with line-ups including 999999999, Adrian Reyes, Akua and Annika Wolfe and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
@@ -15,8 +15,8 @@ TBA - Los Angeles is a music venue in Los Angeles listed on soundcheck. 14 upcom
 | Sat, 21 Nov 2026 | WORK Weekender Day 2: Adrian Reyes, Luigi Tozzi [Live], & The Lady Machine | Adrian Reyes, Luigi Tozzi, The Lady Machine |
 | Sun, 22 Nov 2026 | WORK Weekender Day 3: BB Shaine, David Castellani [LIVE], & FJAAK | BB Shaine, David Castellani, FJAAK |
 | Wed, 25 Nov 2026 | INCOGNITO x NON SERIES Quince: Neel, Psyk (LA Debut), Tauceti _ Thanksgiving Eve Rave | Neel, Psyk, Tauceti (FR) |
-| Sat, 28 Nov 2026 | body wave: Jonny Rock (UK), DJ Lloyd, Tavish DJ b2b Xica Soul | Body Wave DJs, Jonny Rock, Lloydski, Tavish, Xica Soul |
+| Sat, 28 Nov 2026 | POSTPONED body wave: Jonny Rock (UK), DJ Lloyd, Tavish DJ b2b Xica Soul | Body Wave DJs, Jonny Rock, Lloydski, Tavish, Xica Soul |
+| Sat, 28 Nov 2026 | body wave: DJ Lloyd, DJ Kerry, Tavish DJ b2b Xica Soul | Body Wave DJs, Dj Kerry, Lloydski, Tavish, Xica Soul |
 | Fri, 4 Dec 2026 | WORK Harder presents: Rebekah [All Night Long] | Rebekah |
-| Fri, 4 Dec 2026 | Planet Love: livwutang / James Axon / Mez Monty | James Axon, Mez Monty, livwutang |
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-los-angeles/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-los-angeles/)*

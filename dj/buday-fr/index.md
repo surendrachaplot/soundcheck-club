@@ -1,6 +1,6 @@
 # Buday
 
-Buday is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Skin Club, Madrid on Sat, 21 Nov 2026.
+Buday is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Skin Club, Madrid on Sat, 21 Nov 2026.
 
 Buday is a techno and house artist based in France, with 21 gigs on soundcheck across Amsterdam, Berlin, Bratislava and Brussels and 4 more. Often billed alongside Mar/us, Cristian Marras and BOYCA. Next up: Skin Club, Madrid on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Buday is a techno and house artist based in France, with 21 gigs on soundcheck a
 
 Mar/us, Cristian Marras, BOYCA
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/buday-fr/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/buday-fr/)*

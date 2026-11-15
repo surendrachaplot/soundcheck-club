@@ -1,14 +1,13 @@
 # Regis
 
-Regis is a Techno and Experimental artist with 12 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at SMUT Athens, Athens on Sat, 14 Nov 2026.
+Regis is a Techno and Experimental artist with 11 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at vurt., Seoul on Sat, 21 Nov 2026.
 
-Regis is a techno and experimental artist based in United Kingdom, with 128 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 36 more. Often billed alongside Sandwell District, Function and Samuel Kerridge. Next up: SMUT Athens, Athens on Sat 14 Nov.
+Regis is a techno and experimental artist based in United Kingdom, with 128 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 36 more. Often billed alongside Sandwell District, Function and Samuel Kerridge. Next up: vurt., Seoul on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | SMUT Athens | Athens |
 | Sat, 21 Nov 2026 | vurt. | Seoul |
 | Fri, 27 Nov 2026 | Mago | Chubu |
 | Sat, 28 Nov 2026 | KGR(n) | Tokyo |
@@ -23,6 +22,7 @@ Regis is a techno and experimental artist based in United Kingdom, with 128 gigs
 
 ## Recently played
 
+- SMUT Athens, Athens · Sat, 14 Nov 2026
 - Las Tres Chimeneas, Barcelona · Sat, 31 Oct 2026
 - Tresor / Globus, Berlin · Fri, 30 Oct 2026
 - Wigwam, Dublin · Sun, 25 Oct 2026
@@ -30,10 +30,9 @@ Regis is a techno and experimental artist based in United Kingdom, with 128 gigs
 - Tunnel Club, Birmingham · Fri, 2 Oct 2026
 - Laboral Ciudad de la Cultura, North · Fri, 25 Sept 2026
 - Church of the Holy Trinity, Toronto · Sat, 12 Sept 2026
-- Tresor / Globus, Berlin · Sat, 5 Sept 2026
 
 ## Shares bills with
 
 Sandwell District, Function, Samuel Kerridge
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/regis/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/regis/)*

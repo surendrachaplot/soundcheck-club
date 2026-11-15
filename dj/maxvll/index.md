@@ -1,18 +1,18 @@
 # Maxvll
 
-Maxvll is a Hip-Hop and Afrobeats artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Razzmatazz, Barcelona on Sat, 14 Nov 2026.
+Maxvll is a Hip-Hop and Afrobeats artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Club Magno, Madrid on Thu, 17 Dec 2026.
 
-Maxvll is a hip-hop and afrobeats artist based in Spain, with 131 gigs on soundcheck across Amsterdam, Barcelona, Geneva and Lisbon and 4 more. Often billed alongside Diego Armando, Yosef (ES) and Yosef. Next up: Razzmatazz, Barcelona on Sat 14 Nov.
+Maxvll is a hip-hop and afrobeats artist based in Spain, with 131 gigs on soundcheck across Amsterdam, Barcelona, Geneva and Lisbon and 4 more. Often billed alongside Diego Armando, Yosef (ES) and Yosef. Next up: Club Magno, Madrid on Thu 17 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Razzmatazz | Barcelona |
 | Thu, 17 Dec 2026 | Club Magno | Madrid |
 
 ## Recently played
 
+- Razzmatazz, Barcelona · Sat, 14 Nov 2026
 - Sala Cocó, Madrid · Thu, 15 Oct 2026
 - Skatecafe, Amsterdam · Sat, 5 Sept 2026
 - Sala ART, Madrid · Sat, 1 Aug 2026
@@ -20,10 +20,9 @@ Maxvll is a hip-hop and afrobeats artist based in Spain, with 131 gigs on soundc
 - Sala ART, Madrid · Thu, 16 Jul 2026
 - Sala ART, Madrid · Sat, 11 Jul 2026
 - Club Magno, Madrid · Sat, 13 Jun 2026
-- Le Sucre, Lyon · Fri, 12 Jun 2026
 
 ## Shares bills with
 
 Diego Armando, Yosef (ES), Yosef
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxvll/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxvll/)*

@@ -1,6 +1,6 @@
 # Fantasie Safari
 
-Fantasie Safari is a Italo Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Lento Hi Fi Bar, Naples on Sat, 28 Nov 2026.
+Fantasie Safari is a Italo Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Lento Hi Fi Bar, Naples on Sat, 28 Nov 2026.
 
 Fantasie Safari is an italo disco and funk / soul artist based in Italy, with 9 gigs on soundcheck across Berlin, Milan, Naples and Paris. Often billed alongside Tommiboy, Adriana and Aria Santillana. Next up: Lento Hi Fi Bar, Naples on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Fantasie Safari is an italo disco and funk / soul artist based in Italy, with 9 
 
 Tommiboy, Adriana (1), Aria Santillana
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fantasiesafari/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fantasiesafari/)*

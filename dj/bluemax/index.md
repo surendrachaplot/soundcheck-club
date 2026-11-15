@@ -1,8 +1,8 @@
 # Blue Max
 
-Blue Max is a EBM and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Lore, Atlanta on Fri, 27 Nov 2026.
+Blue Max is a EBM and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Lore, Atlanta on Fri, 27 Nov 2026.
 
-Blue Max is an ebm and techno artist, with 13 gigs on soundcheck across Atlanta. Often billed alongside Silk Wolf, Abby Dear and BRAINWORLD. Next up: Lore, Atlanta on Fri 27 Nov.
+Blue Max is an ebm and techno artist based in United States of America, with 13 gigs on soundcheck across Atlanta. Often billed alongside Silk Wolf, Abby Dear and BRAINWORLD. Next up: Lore, Atlanta on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Blue Max is an ebm and techno artist, with 13 gigs on soundcheck across Atlanta.
 
 Silk Wolf, Abby Dear, BRAINWORLD
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bluemax/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bluemax/)*

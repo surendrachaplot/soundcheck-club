@@ -1,14 +1,13 @@
 # Distrikt
 
-Distrikt is a music venue in Leeds with 11 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Uncut presents: Joëlla Jackson" on Sat, 14 Nov 2026.
+Distrikt is a music venue in Leeds with 10 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "7 YEARS OF SWITCH:UP" on Fri, 20 Nov 2026.
 
-Distrikt is a music venue in Leeds listed on soundcheck. 11 upcoming gigs, with line-ups including Adam Lance, ad*n, Alexia Glensy and Arty (UK) and 2 more. See dates, start times and who's playing. 7 Duncan Street, Leeds, LS1 6DQ, United Kingdom.
+Distrikt is a music venue in Leeds listed on soundcheck. 10 upcoming gigs, with line-ups including Adam Lance, ad*n, Alexia Glensy and Arty (UK) and 2 more. See dates, start times and who's playing. 7 Duncan Street, Leeds, LS1 6DQ, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Uncut presents: Joëlla Jackson | Joëlla Jackson |
 | Fri, 20 Nov 2026 | 7 YEARS OF SWITCH:UP | Charlotte Ord, Oldboy, Silva Snipa, Sulphur |
 | Sat, 21 Nov 2026 | Standard Records presents D'Julz | D'Julz, Dubstandards, LJC (1), Ola & Lucia |
 | Fri, 27 Nov 2026 | In Motion  |  |
@@ -18,9 +17,10 @@ Distrikt is a music venue in Leeds listed on soundcheck. 11 upcoming gigs, with 
 | Fri, 11 Dec 2026 | Distrikt presents x Face2face: Pancratio, Huerta, Alexia Glensy | Alexia Glensy, Huerta, Pancratio |
 | Sat, 12 Dec 2026 | BASS3 x Distrikt Bar | Mike Morrisey |
 | Sun, 27 Dec 2026 | No Boundaries CHRISTMAS SPECIAL |  |
+| Fri, 1 Jan 2027 | Distrikt presents x Funky Beats Only: New Years Day | AZAAD, Binyamhn, Facta, Julian Anthony, PARAMIDA, Ron Obvious, Ste Roberts |
 
 ## Address
 
 7 Duncan Street, Leeds, LS1 6DQ, United Kingdom, Leeds
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/distrikt/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/distrikt/)*

@@ -1,6 +1,6 @@
 # Nezemlyan
 
-Nezemlyan is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Klub K4, Ljubljana on Fri, 27 Nov 2026.
+Nezemlyan is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Klub K4, Ljubljana on Fri, 27 Nov 2026.
 
 Nezemlyan is a techno and trance artist based in Slovenia, with 7 gigs on soundcheck across Barcelona and Ljubljana. Often billed alongside Cener, Kadli and Flacc. Next up: Klub K4, Ljubljana on Fri 27 Nov.
 
@@ -23,4 +23,4 @@ Nezemlyan is a techno and trance artist based in Slovenia, with 7 gigs on soundc
 
 Cener, Kadli, Flacc
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nezemlyan/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nezemlyan/)*

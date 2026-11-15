@@ -1,6 +1,6 @@
 # CDVR 5 YEARS with tINI at Cadavra
 
-CDVR 5 YEARS with tINI at Cadavra on Fri 12 Feb, Madrid. 1 artist: tINI. See the line-up on soundcheck.
+CDVR 5 YEARS with tINI at Cadavra on Fri 12 Feb, Madrid. 1 artist: tINI. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Saskia
 
-Saskia is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at The Island, Bristol on Thu, 31 Dec 2026.
+Saskia is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at The Island, Bristol on Thu, 31 Dec 2026.
 
 Saskia is a techno and experimental artist based in Japan, with 10 gigs on soundcheck across Bristol and London. Often billed alongside Jurango, Mackenzie (UK) and ALYA L. Next up: The Island, Bristol on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Saskia is a techno and experimental artist based in Japan, with 10 gigs on sound
 
 Jurango, Mackenzie (UK), ALYA L
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saskia/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saskia/)*

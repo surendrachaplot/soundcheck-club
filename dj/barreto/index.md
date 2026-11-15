@@ -1,14 +1,13 @@
 # Barreto
 
-Barreto is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at ROCA HIFI, Mexico City on Wed, 11 Nov 2026.
+Barreto is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Mad Radio Medellín, Medellin on Tue, 17 Nov 2026.
 
-Barreto is a house and deep house artist based in Mexico, with 97 gigs on soundcheck across Lisbon, Medellin, Mexico City and Miami and 1 more. Often billed alongside papa jazz, Irena Stanisic and Duke Skylocker (Disco Dust). Next up: ROCA HIFI, Mexico City on Wed 11 Nov.
+Barreto is a house and deep house artist based in Mexico, with 97 gigs on soundcheck across Lisbon, Medellin, Mexico City and Miami and 1 more. Often billed alongside papa jazz, Irena Stanisic and Duke Skylocker (Disco Dust). Next up: Mad Radio Medellín, Medellin on Tue 17 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 11 Nov 2026 | ROCA HIFI | Mexico City |
 | Tue, 17 Nov 2026 | Mad Radio Medellín | Medellin |
 
 ## Recently played
@@ -26,4 +25,4 @@ Barreto is a house and deep house artist based in Mexico, with 97 gigs on soundc
 
 papa jazz, Irena Stanisic, Duke Skylocker (Disco Dust)
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/barreto/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/barreto/)*

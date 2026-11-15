@@ -1,8 +1,8 @@
 # Ervn (BR)
 
-Ervn (BR) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Viuz, Medellin on Sun, 15 Nov 2026.
+Ervn (BR) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Viuz, Medellin on Sun, 15 Nov 2026.
 
-Ervn (BR) is a house and electro artist, with 4 gigs on soundcheck across Dublin, Los Angeles, Madrid and Medellin. Often billed alongside Chris Gorrie, Fiddy1 and Grem (IT). Next up: Viuz, Medellin on Sun 15 Nov.
+Ervn (BR) is a house and electro artist based in Brazil, with 4 gigs on soundcheck across Dublin, Los Angeles, Madrid and Medellin. Often billed alongside Chris Gorrie, Fiddy1 and Grem (IT). Next up: Viuz, Medellin on Sun 15 Nov.
 
 ## Upcoming shows
 
@@ -20,4 +20,4 @@ Ervn (BR) is a house and electro artist, with 4 gigs on soundcheck across Dublin
 
 Chris Gorrie, Fiddy1, Grem (IT)
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ervn-br/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ervn-br/)*

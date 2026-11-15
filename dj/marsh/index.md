@@ -1,6 +1,6 @@
 # Marsh
 
-Marsh is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
+Marsh is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
 
 Marsh is a progressive house and house artist based in United Kingdom, with 133 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Belfast and 42 more. Often billed alongside Jody Wisternoff, Durante and Hana. Next up: The Queen Mary, Los Angeles on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Marsh is a progressive house and house artist based in United Kingdom, with 133 
 
 Jody Wisternoff, Durante, Hana
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marsh/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marsh/)*

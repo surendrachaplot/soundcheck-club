@@ -1,6 +1,6 @@
 # Inner Lakes
 
-Inner Lakes is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Circolo Amelia, Milan on Sat, 14 Nov 2026.
+Inner Lakes is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Circolo Amelia, Milan on Sat, 14 Nov 2026.
 
 Inner Lakes is a techno and electro artist based in Italy, with 91 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside Enrico Vivaldi, GNMR and Pabie. Next up: Circolo Amelia, Milan on Sat 14 Nov.
 
@@ -12,6 +12,7 @@ Inner Lakes is a techno and electro artist based in Italy, with 91 gigs on sound
 
 ## Recently played
 
+- Circolo Amelia, Milan · Sat, 14 Nov 2026
 - Signal, New York City · Fri, 30 Oct 2026
 - TBA - Secret Place, Marseille · Fri, 7 Aug 2026
 - Asd Laghi Carcana, Milan · Sat, 18 Jul 2026
@@ -19,10 +20,9 @@ Inner Lakes is a techno and electro artist based in Italy, with 91 gigs on sound
 - Hackney Wick Multiple Venues, London · Sat, 27 Jun 2026
 - Triennale di Milano, Milan · Sun, 14 Jun 2026
 - Berghain | Panorama Bar | Säule, Berlin · Fri, 12 Jun 2026
-- Macadam, Nantes · Fri, 27 Mar 2026
 
 ## Shares bills with
 
 Enrico Vivaldi, GNMR, Pabie
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/innerlakes/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/innerlakes/)*

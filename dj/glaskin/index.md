@@ -1,18 +1,18 @@
 # Glaskin
 
-Glaskin is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at C115, Berlin on Sat, 14 Nov 2026.
+Glaskin is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Frieda's Büxe, Zurich on Sat, 21 Nov 2026.
 
-Glaskin is a techno and house artist based in Germany, with 69 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bratislava and 9 more. Often billed alongside Muallem, 600-cell and BASHKKA. Next up: C115, Berlin on Sat 14 Nov.
+Glaskin is a techno and house artist based in Germany, with 69 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bratislava and 9 more. Often billed alongside Muallem, 600-cell and BASHKKA. Next up: Frieda's Büxe, Zurich on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | C115 | Berlin |
 | Sat, 21 Nov 2026 | Frieda's Büxe | Zurich |
 
 ## Recently played
 
+- C115, Berlin · Sat, 14 Nov 2026
 - Dings, Munich · Sat, 24 Oct 2026
 - Le Sucre, Lyon · Sun, 13 Sept 2026
 - RSO.BERLIN, Berlin · Thu, 13 Aug 2026
@@ -20,10 +20,9 @@ Glaskin is a techno and house artist based in Germany, with 69 gigs on soundchec
 - Garchinger See, Munich · Sat, 18 Jul 2026
 - BLITZ, Munich · Sat, 20 Jun 2026
 - Gianpula Village, Malta · Sat, 23 May 2026
-- BLITZ, Munich · Thu, 30 Apr 2026
 
 ## Shares bills with
 
 Muallem, 600-cell, BASHKKA
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/glaskin/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/glaskin/)*

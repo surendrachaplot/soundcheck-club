@@ -1,14 +1,13 @@
 # elipamanoke
 
-elipamanoke is a music venue in Leipzig with 12 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Neurotherapy" on Sat, 14 Nov 2026.
+elipamanoke is a music venue in Leipzig with 11 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "SUBØHM x eli pres. Lola Cerise" on Tue, 17 Nov 2026.
 
-elipamanoke is a music venue in Leipzig listed on soundcheck. 12 upcoming gigs, with line-ups including Aio, AMBROXAN, Cat-J and Cufme and 2 more. See dates, start times and who's playing. Markranstädter Straße 4, 04229 Leipzig.
+elipamanoke is a music venue in Leipzig listed on soundcheck. 11 upcoming gigs, with line-ups including Aio, AMBROXAN, Cat-J and Cufme and 2 more. See dates, start times and who's playing. Markranstädter Straße 4, 04229 Leipzig.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Neurotherapy | IHOPEIEXIST, Sindicate, Snapix, Snarecrow |
 | Tue, 17 Nov 2026 | SUBØHM x eli pres. Lola Cerise | DJ STIMULA, DYNASTY, KREONE, Lola Cerise, Mascha Roth, SubkoØne |
 | Fri, 20 Nov 2026 | soft & HARD CRUSH | Cat-J, KETA PERRY, LYZI, PyjamaMama, Rebel, meowmeyer |
 | Sat, 21 Nov 2026 | KOSMOS with Mehr is Mehr | Aio, Fennek, GIANNA, Mehr is Mehr, Randali, Shabiki |
@@ -18,9 +17,10 @@ elipamanoke is a music venue in Leipzig listed on soundcheck. 12 upcoming gigs, 
 | Fri, 4 Dec 2026 | STUDIO 69 w/ Josi Miller, Qnoe, Cufme, DJ Business, Eluzid, Shamzy, PIG, Shape | Cufme, DJ Business (2), Eluzid, Josi Miller (2), PIG (1), Qnoe |
 | Sat, 5 Dec 2026 | SUPERPAMANOKE |  |
 | Sat, 12 Dec 2026 | Bass Basar – Christmas Market & DJs |  |
+| Sat, 19 Dec 2026 | Sachsentrance Hammerharte Bescherung | DJ https, Meta Chrom, RaverPik, Trancy Chatman, VLUNA, snoritz |
 
 ## Address
 
 Markranstädter Straße 4, 04229 Leipzig, Leipzig
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/elipamanoke/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/elipamanoke/)*

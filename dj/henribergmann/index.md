@@ -1,19 +1,19 @@
 # Henri Bergmann
 
-Henri Bergmann is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at New City Gas, Montreal on Sat, 14 Nov 2026.
+Henri Bergmann is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at The Grand Social, Dublin on Sat, 28 Nov 2026.
 
-Henri Bergmann is a techno and house artist based in United Kingdom, with 112 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 41 more. Often billed alongside Agents Of Time, Argy and Brina Knauss. Next up: New City Gas, Montreal on Sat 14 Nov.
+Henri Bergmann is a techno and house artist based in United Kingdom, with 112 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 41 more. Often billed alongside Agents Of Time, Argy and Brina Knauss. Next up: The Grand Social, Dublin on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | New City Gas | Montreal |
 | Sat, 28 Nov 2026 | The Grand Social | Dublin |
 | Wed, 9 Dec 2026 | Café del Mar Phuket | Thailand |
 
 ## Recently played
 
+- New City Gas, Montreal · Sat, 14 Nov 2026
 - Ritter Butzke, Berlin · Sat, 7 Nov 2026
 - Klein Phönix, Istanbul · Fri, 6 Nov 2026
 - Onyx (E1), London · Fri, 30 Oct 2026
@@ -21,10 +21,9 @@ Henri Bergmann is a techno and house artist based in United Kingdom, with 112 gi
 - Pasaje America, Mexico City · Sat, 3 Oct 2026
 - The Brightside, Brisbane · Sun, 27 Sept 2026
 - Maitland Showground, Sydney · Fri, 25 Sept 2026
-- Mediapark Köln, Cologne · Sat, 29 Aug 2026
 
 ## Shares bills with
 
 Agents Of Time, Argy, Brina Knauss
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/henribergmann/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/henribergmann/)*

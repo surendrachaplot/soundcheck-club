@@ -1,6 +1,6 @@
 # Almost Famous
 
-Almost Famous is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Kater, Berlin on Sat, 19 Dec 2026.
+Almost Famous is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Kater, Berlin on Sat, 19 Dec 2026.
 
 Almost Famous is a house and techno artist based in Germany, with 39 gigs on soundcheck across Berlin, Dresden and Munich. Often billed alongside groovyjuri, Käthe & Haes and Smau. Next up: Kater, Berlin on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Almost Famous is a house and techno artist based in Germany, with 39 gigs on sou
 
 groovyjuri, Käthe & Haes, Smau
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/almostfamous/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/almostfamous/)*

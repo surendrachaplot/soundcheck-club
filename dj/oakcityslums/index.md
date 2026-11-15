@@ -1,6 +1,6 @@
 # Oak City Slums
 
-Oak City Slums is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at The Airliner, Los Angeles on Thu, 19 Nov 2026.
+Oak City Slums is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at The Airliner, Los Angeles on Thu, 19 Nov 2026.
 
 Oak City Slums is a club and house artist based in United States of America, with 51 gigs on soundcheck across Los Angeles, New Orleans, New York City and Philadelphia and 3 more. Often billed alongside Avi Loud, Daddy Kev and Liano. Next up: The Airliner, Los Angeles on Thu 19 Nov.
 
@@ -26,4 +26,4 @@ Oak City Slums is a club and house artist based in United States of America, wit
 
 Avi Loud, Daddy Kev, Liano
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oakcityslums/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oakcityslums/)*

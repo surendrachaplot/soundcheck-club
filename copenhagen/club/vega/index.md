@@ -1,14 +1,13 @@
 # VEGA
 
-VEGA is a music venue in Copenhagen with 6 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "100%WET // VEGA" on Sat, 14 Nov 2026.
+VEGA is a music venue in Copenhagen with 5 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Smerz (NO) + [support: Felicity J Lord] // VEGA" on Sun, 22 Nov 2026.
 
-VEGA is a music venue in Copenhagen listed on soundcheck. 6 upcoming gigs, with line-ups including 100%WET, Arlo Parks, Muskila and Orbital and 1 more. See dates, start times and who's playing. Enghavevej 40, 1674 København V, Danmark.
+VEGA is a music venue in Copenhagen listed on soundcheck. 5 upcoming gigs, with line-ups including Arlo Parks, Muskila, Orbital and Smerz. See dates, start times and who's playing. Enghavevej 40, 1674 København V, Danmark.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | 100%WET // VEGA | 100%WET |
 | Sun, 22 Nov 2026 | Smerz (NO) + [support: Felicity J Lord] // VEGA | Smerz |
 | Sun, 29 Nov 2026 | ARLO PARKS // VEGA | Arlo Parks |
 | Thu, 28 Jan 2027 | Albertslund Terror Korps |  |
@@ -19,4 +18,4 @@ VEGA is a music venue in Copenhagen listed on soundcheck. 6 upcoming gigs, with 
 
 Enghavevej 40, 1674 København V, Danmark, Copenhagen
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/vega/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/vega/)*

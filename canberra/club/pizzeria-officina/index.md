@@ -1,6 +1,6 @@
 # Pizzeria Officina
 
-Pizzeria Officina is a music venue in Canberra with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. The next is "Chiaroscuro: Kiernan Laveaux, Genie, Aashofteh & more" on Fri, 20 Nov 2026.
+Pizzeria Officina is a music venue in Canberra with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. The next is "Chiaroscuro: Kiernan Laveaux, Genie, Aashofteh, gelli" on Fri, 20 Nov 2026.
 
 Pizzeria Officina is a music venue in Canberra listed on soundcheck. 1 upcoming gig, with line-ups including Aashofteh, Genie and Kiernan Laveaux. See dates, start times and who's playing.
 
@@ -8,6 +8,6 @@ Pizzeria Officina is a music venue in Canberra listed on soundcheck. 1 upcoming 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Chiaroscuro: Kiernan Laveaux, Genie, Aashofteh & more | Aashofteh, Genie (1), Kiernan Laveaux |
+| Fri, 20 Nov 2026 | Chiaroscuro: Kiernan Laveaux, Genie, Aashofteh, gelli | Aashofteh, Genie (1), Kiernan Laveaux |
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/canberra/club/pizzeria-officina/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/canberra/club/pizzeria-officina/)*

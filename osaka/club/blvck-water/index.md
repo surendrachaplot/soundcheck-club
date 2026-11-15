@@ -1,14 +1,13 @@
 # Blvck Water
 
-Blvck Water is a music venue in Osaka with 17 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "OSAKA NIGHT JOURNEY 2026" on Sat, 14 Nov 2026.
+Blvck Water is a music venue in Osaka with 16 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "TECHNO ''テクノ高校テクノ部(Techno High School)''w/LIZA,kamesou,ZAGUN" on Sun, 15 Nov 2026.
 
-Blvck Water is a music venue in Osaka listed on soundcheck. 17 upcoming gigs, with line-ups including 死者蘇生CH, _goodbyeforever_, amor (JP) and CHIKA and 2 more. See dates, start times and who's playing. B1F Grace Soemoncho Bldg., 7-6 Soemoncho, Chuo-ku, Osaka.
+Blvck Water is a music venue in Osaka listed on soundcheck. 16 upcoming gigs, with line-ups including 死者蘇生CH, _goodbyeforever_, amor (JP) and CHIKA and 2 more. See dates, start times and who's playing. B1F Grace Soemoncho Bldg., 7-6 Soemoncho, Chuo-ku, Osaka.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | OSAKA NIGHT JOURNEY 2026 | Drunken Kong, EVE (1), FENGX2, KWC (2), Kaoll, LIZA (6), Nobuya, Risa Taniguchi, TENO, Taiske (2), Tsuyoshi Suzuki, WOLT, Yoji Biomehanika, ZAGUN, _goodbyeforever_, dyn (JP), kamesou, yu-more, 建築テクノ |
 | Sun, 15 Nov 2026 | TECHNO ''テクノ高校テクノ部(Techno High School)''w/LIZA,kamesou,ZAGUN | IZA (6), ZAGUN, kamesou |
 | Mon, 16 Nov 2026 | SINGULARITY VOL.01 | Kaoll, 死者蘇生CH |
 | Tue, 17 Nov 2026 | 'sutura'×DELTA TECHNO ADDICT at Night Club Blvck Water SPECIAL COLLABORATION | ZAGUN, amor (JP) |
@@ -18,9 +17,10 @@ Blvck Water is a music venue in Osaka listed on soundcheck. 17 upcoming gigs, wi
 | Tue, 24 Nov 2026 | 'sutura' TECHNO ADDICT at Night Club Blvck Water Resident Night | ZAGUN, amor (JP), dyn (JP) |
 | Fri, 27 Nov 2026 | HARD TECHNO 'CRACKS' with Kosuke (Hiroshima), FENGX2 | FENGX2, Kosuke |
 | Sat, 28 Nov 2026 | HARD TECHNO 'CRACKS' with YANA ETC (Belarus / Poland), FENGX2 | FENGX2, YANA ETC |
+| Fri, 4 Dec 2026 | HARD TECHNO 'CRACKS' |  |
 
 ## Address
 
 B1F Grace Soemoncho Bldg., 7-6 Soemoncho, Chuo-ku, Osaka, Osaka
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/blvck-water/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/blvck-water/)*

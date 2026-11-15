@@ -1,14 +1,13 @@
 # QQQ ST. Park
 
-QQQ ST. Park is a music venue in Melbourne with 8 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "DRIZZZ - En Route Tour" on Sat, 14 Nov 2026.
+QQQ ST. Park is a music venue in Melbourne with 7 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "SUBMARINE (GER), STRATEGY (UK), DEEP TEMPO (UK)" on Fri, 27 Nov 2026.
 
-QQQ ST. Park is a music venue in Melbourne listed on soundcheck. 8 upcoming gigs, with line-ups including Aaron Static, Autogenesis, Azifm and dawnbreaker and 2 more. See dates, start times and who's playing. 2 Peel St, Collingwood VIC 3066.
+QQQ ST. Park is a music venue in Melbourne listed on soundcheck. 7 upcoming gigs, with line-ups including Aaron Static, Autogenesis, Azifm and dawnbreaker and 2 more. See dates, start times and who's playing. 2 Peel St, Collingwood VIC 3066.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | DRIZZZ - En Route Tour |  |
 | Fri, 27 Nov 2026 | SUBMARINE (GER), STRATEGY (UK), DEEP TEMPO (UK) | safire |
 | Sat, 28 Nov 2026 | System Killerz |  |
 | Fri, 4 Dec 2026 | Lenzman Melbourne Fundraiser | Aaron Static, Azifm, EMCD, Hound, safire |
@@ -21,4 +20,4 @@ QQQ ST. Park is a music venue in Melbourne listed on soundcheck. 8 upcoming gigs
 
 2 Peel St, Collingwood VIC 3066, Melbourne
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/qqq-st-park/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/qqq-st-park/)*

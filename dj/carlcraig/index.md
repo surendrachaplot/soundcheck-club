@@ -1,6 +1,6 @@
 # Carl Craig
 
-Carl Craig is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Topazdeluxe, Monterrey on Fri, 13 Nov 2026.
+Carl Craig is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Topazdeluxe, Monterrey on Fri, 13 Nov 2026.
 
 Carl Craig is a house and techno artist based in United States of America, with 305 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 64 more. Often billed alongside Moodymann, DJ Holographic and Seth Troxler. Next up: Topazdeluxe, Monterrey on Fri 13 Nov.
 
@@ -34,4 +34,4 @@ Carl Craig is a house and techno artist based in United States of America, with 
 
 Moodymann, DJ Holographic, Seth Troxler
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlcraig/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlcraig/)*

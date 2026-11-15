@@ -1,6 +1,6 @@
 # 142b Lounge
 
-142b Lounge is a music venue in Glasgow with 9 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "NOTHING HITS HARDER" on Sat, 14 Nov 2026.
+142b Lounge is a music venue in Glasgow with 9 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "GTA VI RELEASE PARTY" on Thu, 19 Nov 2026.
 
 142b Lounge is a music venue in Glasgow listed on soundcheck. 9 upcoming gigs. See dates, start times and who's playing. 142b St Vincent St, Glasgow G2 5LA.
 
@@ -8,7 +8,7 @@
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | NOTHING HITS HARDER |  |
+| Thu, 19 Nov 2026 | GTA VI RELEASE PARTY |  |
 | Fri, 20 Nov 2026 | FREAKY AFROPIANO FRIDAYS |  |
 | Sat, 21 Nov 2026 | NOTHING HITS HARDER |  |
 | Fri, 27 Nov 2026 | FREAKY AFROPIANO FRIDAYS |  |
@@ -22,4 +22,4 @@
 
 142b St Vincent St, Glasgow G2 5LA, Glasgow
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/142b-lounge/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/142b-lounge/)*

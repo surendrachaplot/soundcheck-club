@@ -1,14 +1,13 @@
 # Bloody Mary
 
-Bloody Mary is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Gotec, Karlsruhe on Fri, 13 Nov 2026.
+Bloody Mary is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Tresor / Globus, Berlin on Mon, 28 Dec 2026.
 
-Bloody Mary is a techno and acid artist, with 162 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 47 more. Often billed alongside Alienata, Afra and Shaleen. Next up: Gotec, Karlsruhe on Fri 13 Nov.
+Bloody Mary is a techno and acid artist, with 162 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 47 more. Often billed alongside Alienata, Afra and Shaleen. Next up: Tresor / Globus, Berlin on Mon 28 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Gotec | Karlsruhe |
 | Mon, 28 Dec 2026 | Tresor / Globus | Berlin |
 | Sat, 2 Jan 2027 | Tresor / Globus | Berlin |
 
@@ -27,4 +26,4 @@ Bloody Mary is a techno and acid artist, with 162 gigs on soundcheck across Amst
 
 Alienata, Afra, Shaleen
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bloodymary/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bloodymary/)*

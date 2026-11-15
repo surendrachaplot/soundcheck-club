@@ -1,6 +1,6 @@
 # TSVI
 
-TSVI is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at The Jam Jar, Bristol on Fri, 20 Nov 2026.
+TSVI is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at The Jam Jar, Bristol on Fri, 20 Nov 2026.
 
 TSVI is a techno and bass artist based in United Kingdom, with 115 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 43 more. Often billed alongside Anunaku, Ehua and Identified Patient. Next up: The Jam Jar, Bristol on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ TSVI is a techno and bass artist based in United Kingdom, with 115 gigs on sound
 
 Anunaku, Ehua, Identified Patient
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tsvi/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tsvi/)*

@@ -1,6 +1,6 @@
 # The Meadows
 
-The Meadows is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Reggaeton Throwbacks [21+] Thanksgiving Eve" on Wed, 25 Nov 2026.
+The Meadows is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Reggaeton Throwbacks [21+] Thanksgiving Eve" on Wed, 25 Nov 2026.
 
 The Meadows is a music venue in New York City listed on soundcheck. 4 upcoming gigs. See dates, start times and who's playing. 17 Meadow St, Brooklyn, NY 11206.
 
@@ -17,4 +17,4 @@ The Meadows is a music venue in New York City listed on soundcheck. 4 upcoming g
 
 17 Meadow St, Brooklyn, NY 11206, New York City
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-meadows/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-meadows/)*

@@ -1,14 +1,13 @@
 # 50 | 50
 
-50 | 50 is a music venue in Medellin with 8 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "ONIRYC COLLECTIVE — 11 YEARS" on Sat, 14 Nov 2026.
+50 | 50 is a music venue in Medellin with 7 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Dark X Frenzi - House to Techno" on Sun, 15 Nov 2026.
 
-50 | 50 is a music venue in Medellin listed on soundcheck. 8 upcoming gigs, with line-ups including Andres Gil, Beau Didier, Ben UFO and Brenda. and 2 more. See dates, start times and who's playing. Cra. 50 #34-62 Piso 2, La Candelaria, Medellín.
+50 | 50 is a music venue in Medellin listed on soundcheck. 7 upcoming gigs, with line-ups including Andres Gil, Beau Didier, Ben UFO and Brenda. and 2 more. See dates, start times and who's playing. Cra. 50 #34-62 Piso 2, La Candelaria, Medellín.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | ONIRYC COLLECTIVE — 11 YEARS | Leo J, Oss Atractor |
 | Sun, 15 Nov 2026 | Dark X Frenzi - House to Techno | Andres Gil, Beau Didier, Deraout, Insolent, Isaiah (NL), Lara (1), Matheo Velez, SAYA, Valencia, Vannesa Gnz |
 | Fri, 20 Nov 2026 | NØƎMA Collective pres: NASCENT | LINNA |
 | Fri, 20 Nov 2026 | Nascent: NØƎMA Debut | LINNA, The Fabric Of Reality |
@@ -21,4 +20,4 @@
 
 Cra. 50 #34-62 Piso 2, La Candelaria, Medellín, Medellin
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/medellin/club/50-50/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/medellin/club/50-50/)*

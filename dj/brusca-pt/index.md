@@ -1,18 +1,18 @@
 # Brusca
 
-Brusca is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Village Underground Lisboa, Lisbon on Sat, 14 Nov 2026.
+Brusca is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Lux Fragil, Lisbon on Sat, 21 Nov 2026.
 
-Brusca is a techno and club artist based in Portugal, with 43 gigs on soundcheck across Berlin, Lisbon, London and Porto. Often billed alongside CRAVO, FRESKO and Laura Hasagun. Next up: Village Underground Lisboa, Lisbon on Sat 14 Nov.
+Brusca is a techno and club artist based in Portugal, with 43 gigs on soundcheck across Berlin, Lisbon, London and Porto. Often billed alongside CRAVO, FRESKO and Laura Hasagun. Next up: Lux Fragil, Lisbon on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Village Underground Lisboa | Lisbon |
 | Sat, 21 Nov 2026 | Lux Fragil | Lisbon |
 
 ## Recently played
 
+- Village Underground Lisboa, Lisbon · Sat, 14 Nov 2026
 - 5A, Lisbon · Fri, 21 Aug 2026
 - NADA Lisbon, Lisbon · Fri, 24 Jul 2026
 - Lux Fragil, Lisbon · Fri, 15 May 2026
@@ -20,10 +20,9 @@ Brusca is a techno and club artist based in Portugal, with 43 gigs on soundcheck
 - FOLD, London · Sat, 21 Feb 2026
 - Ministerium Club, Lisbon · Fri, 12 Dec 2025
 - 5A, Lisbon · Sat, 6 Dec 2025
-- Pavilhão Carlos Lopes, Lisbon · Fri, 31 Oct 2025
 
 ## Shares bills with
 
 CRAVO, FRESKO, Laura Hasagun
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brusca-pt/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brusca-pt/)*

@@ -1,14 +1,13 @@
 # R Lounge
 
-R Lounge is a music venue in Tokyo with 15 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Trance Mission Vol.3" on Sat, 14 Nov 2026.
+R Lounge is a music venue in Tokyo with 14 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Techno's High" on Thu, 19 Nov 2026.
 
-R Lounge is a music venue in Tokyo listed on soundcheck. 15 upcoming gigs, with line-ups including AKARI, akii, ATT and Attik and 2 more. See dates, start times and who's playing. Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN.
+R Lounge is a music venue in Tokyo listed on soundcheck. 14 upcoming gigs, with line-ups including AKARI, akii, ATT and Attik and 2 more. See dates, start times and who's playing. Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Trance Mission Vol.3 | Xana |
 | Thu, 19 Nov 2026 | Techno's High | omeme_gangimari |
 | Fri, 20 Nov 2026 | 3000Thirty feat. KOROstyle & BOGL | Dayzero, Midnight Runner (2) |
 | Sat, 21 Nov 2026 | FETCH x NEKO MAFIA with Meg10 (DE) + DJ Nico (US) | AKARI, DIV, Dj Nico, HALU(Tribal Connection), M.I.O, MAYUDEPTH, MINAMI, MUNÉO, Meg10, RANNA, Sonia Lagoon (2), akii, intoxxy |
@@ -18,9 +17,10 @@ R Lounge is a music venue in Tokyo listed on soundcheck. 15 upcoming gigs, with 
 | Sat, 28 Nov 2026 | HAPPY JACK 忘年会 | ATT, Q'hey, Takami |
 | Sun, 29 Nov 2026 | Amakuchi Party Vol.26 甘口ミク × 天使電影 りりぱっ！ |  |
 | Fri, 4 Dec 2026 | AXIS presents SHUTTER | MUSCLE ∞ BROTHERS |
+| Sat, 5 Dec 2026 | E=mc2 4th Anniversary | Attik |
 
 ## Address
 
 Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN, Tokyo
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/r-lounge/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/r-lounge/)*

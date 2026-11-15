@@ -1,18 +1,18 @@
 # The Resistance
 
-The Resistance is a Dubstep and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at Circolo Magnolia, Milan on Fri, 13 Nov 2026.
+The Resistance is a Dubstep and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Central Florida Fairgrounds, Florida on Fri, 23 Apr 2027.
 
-The Resistance is a dubstep and breakbeat artist based in Netherlands, with 5 gigs on soundcheck across Budapest, Detroit, Florida and Milan and 1 more. Often billed alongside A Hundred Drums, AG (NYC) and BARK. Next up: Circolo Magnolia, Milan on Fri 13 Nov.
+The Resistance is a dubstep and breakbeat artist based in Netherlands, with 5 gigs on soundcheck across Budapest, Detroit, Florida and Milan and 1 more. Often billed alongside A Hundred Drums, AG (NYC) and BARK. Next up: Central Florida Fairgrounds, Florida on Fri 23 Apr.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Circolo Magnolia | Milan |
 | Fri, 23 Apr 2027 | Central Florida Fairgrounds | Florida |
 
 ## Recently played
 
+- Circolo Magnolia, Milan · Fri, 13 Nov 2026
 - Q Nightclub, Seattle · Sat, 24 Oct 2026
 - Elektricity, Detroit · Sat, 14 Feb 2026
 - Arzenal, Budapest · Fri, 10 Oct 2025
@@ -21,4 +21,4 @@ The Resistance is a dubstep and breakbeat artist based in Netherlands, with 5 gi
 
 A Hundred Drums, AG (NYC), BARK
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theresistance/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theresistance/)*

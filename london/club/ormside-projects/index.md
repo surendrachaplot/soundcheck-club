@@ -1,14 +1,13 @@
 # Ormside Projects
 
-Ormside Projects is a music venue in London with 19 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Buckley Curates: Appleblim and Beatrice M" on Sat, 14 Nov 2026.
+Ormside Projects is a music venue in London with 18 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Diversion with Beatcrime Soundsystem" on Sun, 15 Nov 2026.
 
-Ormside Projects is a music venue in London listed on soundcheck. 19 upcoming gigs, with line-ups including Alex Rita, Anina, Appleblim and Baba T and 2 more. See dates, start times and who's playing. 32 Ormside St, London SE15 1TR, UK.
+Ormside Projects is a music venue in London listed on soundcheck. 18 upcoming gigs, with line-ups including Alex Rita, Anina, Baba T and Cloud Management and 2 more. See dates, start times and who's playing. 32 Ormside St, London SE15 1TR, UK.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Buckley Curates: Appleblim and Beatrice M | Appleblim, Beatrice M., Buckley (UK) |
 | Sun, 15 Nov 2026 | Diversion with Beatcrime Soundsystem | Cloud Management, Elijah Minnelli, Zoe Pea, sinny |
 | Wed, 18 Nov 2026 | rubenmccarter - 'Untie The Knot' Album Release Party [Eastern Margins × DADI360 present] |  |
 | Thu, 19 Nov 2026 | Automatic Album Launch | Rat Section |
@@ -18,9 +17,10 @@ Ormside Projects is a music venue in London listed on soundcheck. 19 upcoming gi
 | Thu, 26 Nov 2026 | BBBwithluv x AFRICANPU$$Y presents AFREECAN IN LONDON | XT1ANA, midnightswami |
 | Fri, 27 Nov 2026 | [SOLD OUT / RESALE ACTIVE] Unsound London x Tropical Waste: RP Boo, Kode9  | Hermeneia, Kode9, RP Boo, Seb (Tropical Waste), k means |
 | Sat, 28 Nov 2026 | Lemon Lounge | ddwy |
+| Wed, 2 Dec 2026 | Hootenanny: Erwan Keravec, Or Sobre Blau, Camberwell Group, Lily Beltane |  |
 
 ## Address
 
 32 Ormside St, London SE15 1TR, UK, London
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/ormside-projects/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/ormside-projects/)*

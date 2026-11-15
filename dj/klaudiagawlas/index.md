@@ -1,14 +1,13 @@
 # Klaudia Gawlas
 
-Klaudia Gawlas is a Techno and Tech House artist with 5 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
+Klaudia Gawlas is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at E1, London on Fri, 27 Nov 2026.
 
-Klaudia Gawlas is a techno and tech house artist based in Germany, with 99 gigs on soundcheck across Amsterdam, Antwerp, Athens and Baden W Rttemberg and 36 more. Often billed alongside Marco Bailey, Joris Turenhout and Lino Fuso. Next up: Hungexpo Budapest, Budapest on Fri 13 Nov.
+Klaudia Gawlas is a techno and tech house artist based in Germany, with 99 gigs on soundcheck across Amsterdam, Antwerp, Athens and Baden W Rttemberg and 36 more. Often billed alongside Marco Bailey, Joris Turenhout and Lino Fuso. Next up: E1, London on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Hungexpo Budapest | Budapest |
 | Fri, 27 Nov 2026 | E1 | London |
 | Sat, 28 Nov 2026 | Common Ground | Naples |
 | Fri, 11 Dec 2026 | Fridas Pier | Stuttgart |
@@ -29,4 +28,4 @@ Klaudia Gawlas is a techno and tech house artist based in Germany, with 99 gigs 
 
 Marco Bailey, Joris Turenhout, Lino Fuso
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/klaudiagawlas/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/klaudiagawlas/)*

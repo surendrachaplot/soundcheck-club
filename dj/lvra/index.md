@@ -1,6 +1,6 @@
 # LVRA
 
-LVRA is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at The Wee Red Bar, Edinburgh on Sat, 5 Dec 2026.
+LVRA is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at The Wee Red Bar, Edinburgh on Sat, 5 Dec 2026.
 
 LVRA is a techno and club artist based in United Kingdom, with 27 gigs on soundcheck across Amsterdam, Berlin, Chengdu and Edinburgh and 10 more. Often billed alongside Soda Plains, KOPI O and Manuka Honey. Next up: The Wee Red Bar, Edinburgh on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ LVRA is a techno and club artist based in United Kingdom, with 27 gigs on soundc
 
 Soda Plains, KOPI O, Manuka Honey
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lvra/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lvra/)*

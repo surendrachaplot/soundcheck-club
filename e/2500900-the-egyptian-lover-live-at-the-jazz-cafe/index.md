@@ -1,6 +1,6 @@
 # The Egyptian Lover (Live) at The Jazz Cafe
 
-The Egyptian Lover (Live) at The Jazz Cafe on Fri 12 Feb, London. 1 artist: Egyptian Lover. See the line-up on soundcheck.
+The Egyptian Lover (Live) at The Jazz Cafe on Fri 12 Feb, London. 1 artist: Egyptian Lover. Hip-Hop and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

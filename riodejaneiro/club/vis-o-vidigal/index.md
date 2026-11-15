@@ -1,13 +1,13 @@
 # Visão Vidigal
 
-Visão Vidigal is a music venue in Rio de Janeiro with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. The next is "S3-Ep4 : Pesadaooo" on Fri, 13 Nov 2026.
+Visão Vidigal is a music venue in Rio de Janeiro with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. The next is "Crazy Party No Visão 28/11" on Sat, 28 Nov 2026.
 
-Visão Vidigal is a music venue in Rio de Janeiro listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
+Visão Vidigal is a music venue in Rio de Janeiro listed on soundcheck. 1 upcoming gig, with line-ups including Bia Marques. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | S3-Ep4 : Pesadaooo |  |
+| Sat, 28 Nov 2026 | Crazy Party No Visão 28/11 | Bia Marques |
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/riodejaneiro/club/vis-o-vidigal/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/riodejaneiro/club/vis-o-vidigal/)*

@@ -1,16 +1,13 @@
 # Melkweg
 
-Melkweg is a music venue in Amsterdam with 27 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Factor B x Theatre of the Mind: Meeting of the Minds – Melkweg" on Sat, 14 Nov 2026.
+Melkweg is a music venue in Amsterdam with 24 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Cheeky Monday: Submorphics & T.R.A.C" on Mon, 16 Nov 2026.
 
-Melkweg is a music venue in Amsterdam listed on soundcheck. 27 upcoming gigs, with line-ups including A.R.T., Chinese Daughter, De Plaag and Devereaux 85 and 2 more. See dates, start times and who's playing. Lijnbaansgracht 234/a, 1017 Binnenstad, Amsterdam.
+Melkweg is a music venue in Amsterdam listed on soundcheck. 24 upcoming gigs, with line-ups including A.R.T., Chinese Daughter, De Plaag and Devereaux 85 and 2 more. See dates, start times and who's playing. Lijnbaansgracht 234/a, 1017 Binnenstad, Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Factor B x Theatre of the Mind: Meeting of the Minds – Melkweg |  |
-| Sat, 14 Nov 2026 | Luminosity pres. Factor B - Theatre of The Mind | Estiva |
-| Sat, 14 Nov 2026 | HIGH TEA presents: Kanine Reflections Amsterdam | Hoax (UK), Kanine |
 | Mon, 16 Nov 2026 | Cheeky Monday: Submorphics & T.R.A.C | Submorphics |
 | Tue, 17 Nov 2026 | Techno Tuesday Amsterdam, Michel Lauriola, Dexon, The Baptist | Dexon, Michel Lauriola |
 | Sat, 21 Nov 2026 | JACK SHORE - ALL NIGHT - IN THE MIDDLE |  |
@@ -18,9 +15,12 @@ Melkweg is a music venue in Amsterdam listed on soundcheck. 27 upcoming gigs, wi
 | Tue, 24 Nov 2026 | Techno Tuesday Amsterdam, Dexon & Jayzo extended sets | Dexon, Jayzo |
 | Thu, 26 Nov 2026 | Trobi presents: Kameleon in Concert |  |
 | Fri, 27 Nov 2026 | KrackFree Soundsystem - 10 year anniversary | Chinese Daughter, Gorgon Sound, Rider Shafique |
+| Fri, 27 Nov 2026 | Modestep | Modestep |
+| Fri, 27 Nov 2026 | Phantom Wizard |  |
+| Sat, 28 Nov 2026 | Popronde Amsterdam - Het Eindfeest | De Plaag, Femi, Maxime (NL), Mayte, iGor (2) |
 
 ## Address
 
 Lijnbaansgracht 234/a, 1017 Binnenstad, Amsterdam, Amsterdam
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/melkweg/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/melkweg/)*

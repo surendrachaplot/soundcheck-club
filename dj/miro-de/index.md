@@ -1,14 +1,15 @@
 # MIRO (DE)
 
-MIRO (DE) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Fridas Pier, Stuttgart on Fri, 20 Nov 2026.
+MIRO (DE) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Fridas Pier, Stuttgart on Fri, 20 Nov 2026.
 
-MIRO (DE) is a house and techno artist based in Germany, with 35 gigs on soundcheck across Düsseldorf, London, Madrid and Mannheim and 6 more. Often billed alongside Edwin (DE), DJ Floppy Disk and Edwin. Next up: Fridas Pier, Stuttgart on Fri 20 Nov.
+MIRO (DE) is a house and techno artist based in Germany, with 36 gigs on soundcheck across Düsseldorf, London, Madrid and Mannheim and 7 more. Often billed alongside Edwin (DE), DJ Floppy Disk and Edwin. Next up: Fridas Pier, Stuttgart on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Fridas Pier | Stuttgart |
+| Sat, 21 Nov 2026 | Blue Room | Montreal |
 | Thu, 17 Dec 2026 | Club Magno | Madrid |
 
 ## Recently played
@@ -26,4 +27,4 @@ MIRO (DE) is a house and techno artist based in Germany, with 35 gigs on soundch
 
 Edwin (DE), DJ Floppy Disk, Edwin
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miro-de/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miro-de/)*

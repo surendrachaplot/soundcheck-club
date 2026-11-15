@@ -1,6 +1,6 @@
 # Trackheadz
 
-Trackheadz is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Boogie, Toronto on Sun, 15 Nov 2026.
+Trackheadz is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Boogie, Toronto on Sun, 15 Nov 2026.
 
 Trackheadz is a deep house and house artist based in Canada, with 7 gigs on soundcheck across Toronto. Often billed alongside Tyrone Solomon, Nick Holder and Don Barbarino. Next up: Boogie, Toronto on Sun 15 Nov.
 
@@ -23,4 +23,4 @@ Trackheadz is a deep house and house artist based in Canada, with 7 gigs on soun
 
 Tyrone Solomon, Nick Holder, Don Barbarino
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trackheadz/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trackheadz/)*

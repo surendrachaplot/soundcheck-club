@@ -1,8 +1,8 @@
 # SAMM UKWU
 
-SAMM UKWU is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
+SAMM UKWU is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
 
-SAMM UKWU is a house and tech house artist, with 8 gigs on soundcheck across Bogotá, Colombia and Medellin. Often billed alongside Panthora, Damytic and Adi (CO). Next up: El Rio Hostel, Colombia on Wed 3 Mar.
+SAMM UKWU is a house and tech house artist based in Colombia, with 8 gigs on soundcheck across Bogotá, Colombia and Medellin. Often billed alongside Panthora, Damytic and Adi (CO). Next up: El Rio Hostel, Colombia on Wed 3 Mar.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ SAMM UKWU is a house and tech house artist, with 8 gigs on soundcheck across Bog
 
 Panthora, Damytic, Adi (CO)
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sammukwu/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sammukwu/)*

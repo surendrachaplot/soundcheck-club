@@ -1,6 +1,6 @@
 # Mortimer's
 
-Mortimer's is a music venue in Minneapolis/St Paul with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. The next is "Doll Blunt" on Sun, 15 Nov 2026.
+Mortimer's is a music venue in Minneapolis/St Paul with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. The next is "Doll Blunt" on Sun, 15 Nov 2026.
 
 Mortimer's is a music venue in Minneapolis/St Paul listed on soundcheck. 1 upcoming gig, with line-ups including TECHNODOLL. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Mortimer's is a music venue in Minneapolis/St Paul listed on soundcheck. 1 upcom
 | --- | --- | --- |
 | Sun, 15 Nov 2026 | Doll Blunt | TECHNODOLL |
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/minneapolis/club/mortimer-s/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/minneapolis/club/mortimer-s/)*

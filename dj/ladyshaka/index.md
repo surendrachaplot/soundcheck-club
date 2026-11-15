@@ -1,8 +1,8 @@
 # Lady Shaka
 
-Lady Shaka is a House and Club artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Neck of the Woods, Auckland on Sat, 5 Dec 2026.
+Lady Shaka is a House and Club artist with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Neck of the Woods, Auckland on Sat, 5 Dec 2026.
 
-Lady Shaka is a house and club artist based in New Zealand, with 97 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Auckland and 35 more. Often billed alongside nasthug, ryota dj and Yung Singh. Next up: Neck of the Woods, Auckland on Sat 5 Dec.
+Lady Shaka is a house and club artist based in New Zealand, with 98 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Auckland and 35 more. Often billed alongside nasthug, ryota dj and Yung Singh. Next up: Neck of the Woods, Auckland on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Lady Shaka is a house and club artist based in New Zealand, with 97 gigs on soun
 
 ## Recently played
 
+- The Cause, London · Sat, 14 Nov 2026
 - DRUMSHEDS, London · Sat, 24 Oct 2026
 - Depot Mayfield, Manchester · Sat, 26 Sept 2026
 - Circus Tokyo, Tokyo · Wed, 23 Sept 2026
@@ -21,10 +22,9 @@ Lady Shaka is a house and club artist based in New Zealand, with 97 gigs on soun
 - Else, Berlin · Sat, 5 Sept 2026
 - Pisces, Atlanta · Fri, 21 Aug 2026
 - Worm, Rotterdam · Sat, 25 Jul 2026
-- Chango, Madrid · Thu, 2 Jul 2026
 
 ## Shares bills with
 
 nasthug, ryota dj, Yung Singh
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ladyshaka/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ladyshaka/)*

@@ -1,8 +1,8 @@
 # Volks
 
-Volks is a music venue in Brighton with 10 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Sub-liminal Recordings: Wiley (Jungle Set)" on Fri, 20 Nov 2026.
+Volks is a music venue in Brighton with 11 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Sub-liminal Recordings: Wiley (Jungle Set)" on Fri, 20 Nov 2026.
 
-Volks is a music venue in Brighton listed on soundcheck. 10 upcoming gigs, with line-ups including Aaron Liberator, Acid Carbon, Benny L and Chris Liberator and 2 more. See dates, start times and who's playing. 3 Madeira Drive; Brighton; BN2 1PS; United Kingdom.
+Volks is a music venue in Brighton listed on soundcheck. 11 upcoming gigs, with line-ups including Aaron Liberator, Acid Carbon, Benny L and Chris Liberator and 2 more. See dates, start times and who's playing. 3 Madeira Drive; Brighton; BN2 1PS; United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Volks is a music venue in Brighton listed on soundcheck. 10 upcoming gigs, with 
 
 3 Madeira Drive; Brighton; BN2 1PS; United Kingdom, Brighton
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/volks/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/volks/)*

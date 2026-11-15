@@ -1,6 +1,6 @@
 # Ric Piccolo
 
-Ric Piccolo is a Italo Disco and Disco artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Bodega Danza, Copenhagen on Thu, 19 Nov 2026.
+Ric Piccolo is a Italo Disco and Disco artist with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Bodega Danza, Copenhagen on Thu, 19 Nov 2026.
 
 Ric Piccolo is an italo disco and disco artist based in Germany, with 72 gigs on soundcheck across Barcelona, Basel, Belgrade and Berlin and 21 more. Often billed alongside Furor Exótica, Furotica and Harari. Next up: Bodega Danza, Copenhagen on Thu 19 Nov.
 
@@ -27,4 +27,4 @@ Ric Piccolo is an italo disco and disco artist based in Germany, with 72 gigs on
 
 Furor Exótica, Furotica, Harari
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ricpiccolo/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ricpiccolo/)*

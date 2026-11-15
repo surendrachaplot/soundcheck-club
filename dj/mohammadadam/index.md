@@ -1,8 +1,8 @@
 # Mohammad Adam
 
-Mohammad Adam is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Ormside Projects, London on Wed, 16 Dec 2026.
+Mohammad Adam is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Ormside Projects, London on Wed, 16 Dec 2026.
 
-Mohammad Adam is an electronic artist, with 8 gigs on soundcheck across Berlin, Krakow, London and Manchester and 1 more. Often billed alongside Bill Kouligas, Carrier and DjRUM. Next up: Ormside Projects, London on Wed 16 Dec.
+Mohammad Adam is an electronic artist based in United Kingdom, with 8 gigs on soundcheck across Berlin, Krakow, London and Manchester and 1 more. Often billed alongside Bill Kouligas, Carrier and DjRUM. Next up: Ormside Projects, London on Wed 16 Dec.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ Mohammad Adam is an electronic artist, with 8 gigs on soundcheck across Berlin, 
 
 Bill Kouligas, Carrier, DjRUM
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mohammadadam/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mohammadadam/)*

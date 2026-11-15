@@ -1,14 +1,14 @@
 # Fruit Gillette
 
-Fruit Gillette is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Klakaz, Athens on Sun, 29 Nov 2026.
+Fruit Gillette is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Oddity Club, Athens on Sun, 29 Nov 2026.
 
-Fruit Gillette is a club and experimental artist based in Greece, with 9 gigs on soundcheck across Athens and Berlin. Often billed alongside 555ivas, Alexandra Niaka and Ara XD. Next up: Klakaz, Athens on Sun 29 Nov.
+Fruit Gillette is a club and experimental artist based in Greece, with 9 gigs on soundcheck across Athens and Berlin. Often billed alongside 555ivas, Alexandra Niaka and Ara XD. Next up: Oddity Club, Athens on Sun 29 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 29 Nov 2026 | Klakaz | Athens |
+| Sun, 29 Nov 2026 | Oddity Club | Athens |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Fruit Gillette is a club and experimental artist based in Greece, with 9 gigs on
 
 555ivas, Alexandra Niaka, Ara XD
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fruitgillette/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fruitgillette/)*

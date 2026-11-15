@@ -1,18 +1,18 @@
 # MLLE CEE
 
-MLLE CEE is a Bass and Latin Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Bar Datcha, Montreal on Sat, 14 Nov 2026.
+MLLE CEE is a Bass and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Bar Datcha, Montreal on Fri, 4 Dec 2026.
 
-MLLE CEE is a bass and latin bass artist based in Canada, with 30 gigs on soundcheck across Montreal and Quebec City. Often billed alongside softwarewolfe, CVSTRO and xibaona. Next up: Bar Datcha, Montreal on Sat 14 Nov.
+MLLE CEE is a bass and latin bass artist based in Canada, with 30 gigs on soundcheck across Montreal and Quebec City. Often billed alongside softwarewolfe, CVSTRO and xibaona. Next up: Bar Datcha, Montreal on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Bar Datcha | Montreal |
 | Fri, 4 Dec 2026 | Bar Datcha | Montreal |
 
 ## Recently played
 
+- Bar Datcha, Montreal · Sat, 14 Nov 2026
 - TBA - LOCATION SENT TO TIX HOLDERS ON DAY OF EVENT, Montreal · Sat, 10 Oct 2026
 - Le Centre: Hub Creatif, Quebec City · Sat, 12 Sept 2026
 - Jardins Gamelin, Montreal · Thu, 3 Sept 2026
@@ -20,10 +20,9 @@ MLLE CEE is a bass and latin bass artist based in Canada, with 30 gigs on soundc
 - Bar Le Ritz PDB, Montreal · Sat, 8 Aug 2026
 - Village au Pied-du-Courant, Montreal · Thu, 23 Jul 2026
 - Newspeak, Montreal · Sat, 11 Jul 2026
-- TBA - LOCATION SENT TO TIX HOLDERS ON DAY OF EVENT, Montreal · Sat, 4 Jul 2026
 
 ## Shares bills with
 
 softwarewolfe, CVSTRO, xibaona
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mllecee/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mllecee/)*

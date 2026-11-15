@@ -1,6 +1,6 @@
 # Vanco
 
-Vanco is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Waagnatie Expo & Events, Antwerp on Sat, 28 Nov 2026.
+Vanco is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Waagnatie Expo & Events, Antwerp on Sat, 28 Nov 2026.
 
 Vanco is an afro house and house artist based in South Africa, with 43 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 17 more. Often billed alongside CLEIDO, Sef Kombo and Andrea Oliva. Next up: Waagnatie Expo & Events, Antwerp on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Vanco is an afro house and house artist based in South Africa, with 43 gigs on s
 
 CLEIDO, Sef Kombo, Andrea Oliva
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vanco/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vanco/)*

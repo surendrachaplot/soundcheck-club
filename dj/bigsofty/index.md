@@ -1,6 +1,6 @@
 # Big Softy
 
-Big Softy is a electronic artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at 1756 Naud St., Los Angeles on Sat, 14 Nov 2026.
+Big Softy is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at 1756 Naud St., Los Angeles on Sat, 14 Nov 2026.
 
 Big Softy is an electronic artist based in United Kingdom, with 7 gigs on soundcheck across Berlin, Bristol, London and Los Angeles. Often billed alongside Areola Grande Latte, Jaguar and KDA. Next up: 1756 Naud St., Los Angeles on Sat 14 Nov.
 
@@ -9,10 +9,11 @@ Big Softy is an electronic artist based in United Kingdom, with 7 gigs on soundc
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | 1756 Naud St. | Los Angeles |
-| Sat, 14 Nov 2026 | Ziegrastraße 11 | Berlin |
 
 ## Recently played
 
+- 1756 Naud St., Los Angeles · Sat, 14 Nov 2026
+- Ziegrastraße 11, Berlin · Sat, 14 Nov 2026
 - The Shacklewell Arms, Bristol · Tue, 10 Nov 2026
 - Club Cheek, London · Fri, 4 Sept 2026
 - Vespers Club, London · Sat, 7 Feb 2026
@@ -23,4 +24,4 @@ Big Softy is an electronic artist based in United Kingdom, with 7 gigs on soundc
 
 Areola Grande Latte, Jaguar, KDA
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bigsofty/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bigsofty/)*

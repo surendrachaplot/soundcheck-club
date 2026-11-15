@@ -1,6 +1,6 @@
 # Mona Sage
 
-Mona Sage is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Colour Factory, London on Sat, 12 Dec 2026.
+Mona Sage is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Colour Factory, London on Sat, 12 Dec 2026.
 
 Mona Sage is a techno and trance artist based in France, with 20 gigs on soundcheck across Berlin, Copenhagen and London. Often billed alongside Manni Dee, S Ruston and Gloria Rose. Next up: Colour Factory, London on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Mona Sage is a techno and trance artist based in France, with 20 gigs on soundch
 
 Manni Dee, S Ruston, Gloria Rose
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/monasage/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/monasage/)*

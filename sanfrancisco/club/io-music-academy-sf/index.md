@@ -1,6 +1,6 @@
 # IO Music Academy SF
 
-IO Music Academy SF is a music venue in San Francisco/Oakland with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Pay Con Edison Bill Fast: Online & Quick Pay Options" on Sat, 14 Nov 2026.
+IO Music Academy SF is a music venue in San Francisco/Oakland with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Pay Con Edison Bill Fast: Online & Quick Pay Options" on Sat, 14 Nov 2026.
 
 IO Music Academy SF is a music venue in San Francisco/Oakland listed on soundcheck. 3 upcoming gigs, with line-ups including AnD, starfari and Tripleset. See dates, start times and who's playing. 430 Main Street, San Francisco, CA 91405, USA.
 
@@ -16,4 +16,4 @@ IO Music Academy SF is a music venue in San Francisco/Oakland listed on soundche
 
 430 Main Street, San Francisco, CA 91405, USA, San Francisco/Oakland
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/io-music-academy-sf/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/io-music-academy-sf/)*

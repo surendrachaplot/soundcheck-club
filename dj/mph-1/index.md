@@ -1,6 +1,6 @@
 # MPH (1)
 
-MPH (1) is a Garage and House artist with 15 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
+MPH (1) is a Garage and House artist with 15 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
 
 MPH is a garage and house artist based in United Kingdom, with 137 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 51 more. Often billed alongside Oppidan, Flava D and Hamdi. Next up: The Concourse Project, Austin on Fri 13 Nov.
 
@@ -36,4 +36,4 @@ MPH is a garage and house artist based in United Kingdom, with 137 gigs on sound
 
 Oppidan, Flava D, Hamdi
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mph-1/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mph-1/)*

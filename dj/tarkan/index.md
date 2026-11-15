@@ -1,20 +1,20 @@
 # Tarkan
 
-Tarkan is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at MTW, Frankfurt on Sat, 14 Nov 2026.
+Tarkan is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at WDM, Hannover on Sat, 21 Nov 2026.
 
-Tarkan is a techno and trance artist based in Germany, with 27 gigs on soundcheck across Berlin, Budapest, Cologne and Frankfurt and 1 more. Often billed alongside MAHA, Leskus and co:co. Next up: MTW, Frankfurt on Sat 14 Nov.
+Tarkan is a techno and trance artist based in Germany, with 27 gigs on soundcheck across Berlin, Budapest, Cologne and Frankfurt and 1 more. Often billed alongside MAHA, Leskus and co:co. Next up: WDM, Hannover on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | MTW | Frankfurt |
 | Sat, 21 Nov 2026 | WDM | Hannover |
 | Fri, 4 Dec 2026 | WDM | Hannover |
 | Sat, 6 Feb 2027 | WDM | Hannover |
 
 ## Recently played
 
+- MTW, Frankfurt · Sat, 14 Nov 2026
 - Arzenal, Budapest · Sat, 7 Nov 2026
 - WDM, Hannover · Sat, 24 Oct 2026
 - WDM, Hannover · Sat, 17 Oct 2026
@@ -22,10 +22,9 @@ Tarkan is a techno and trance artist based in Germany, with 27 gigs on soundchec
 - WDM, Hannover · Sat, 18 Jul 2026
 - WDM, Hannover · Sat, 30 May 2026
 - Phantom Bar Berlin, Berlin · Thu, 21 May 2026
-- WDM, Hannover · Fri, 8 May 2026
 
 ## Shares bills with
 
 MAHA, Leskus, co:co
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tarkan/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tarkan/)*

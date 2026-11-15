@@ -1,6 +1,6 @@
 # Larisa
 
-Larisa is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Do Not Sit On The Furniture, Miami on Wed, 18 Nov 2026.
+Larisa is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Do Not Sit On The Furniture, Miami on Wed, 18 Nov 2026.
 
 Larisa is a tech house and house artist, with 6 gigs on soundcheck across Los Angeles, Miami and San Francisco/Oakland. Often billed alongside Israel Sunshine, Denis Horvat and Jessy Nimni. Next up: Do Not Sit On The Furniture, Miami on Wed 18 Nov.
 
@@ -22,4 +22,4 @@ Larisa is a tech house and house artist, with 6 gigs on soundcheck across Los An
 
 Israel Sunshine, Denis Horvat, Jessy Nimni
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/larisa/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/larisa/)*

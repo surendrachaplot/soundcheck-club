@@ -1,14 +1,13 @@
 # Kater
 
-Kater is a music venue in Berlin with 16 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Katernacht with Enrica Falqui, Rio Tashan, Ed Davenport, Sanaz + more" on Sat, 14 Nov 2026.
+Kater is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Hot Mess with FLINTA* CLUB DECK" on Thu, 19 Nov 2026.
 
-Kater is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, with line-ups including Nadine Hennig, Acid Pauli, Aio and Alex Neri and 2 more. See dates, start times and who's playing. Holzmarktstrasse 25, 10243 Berlin.
+Kater is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with line-ups including Nadine Hennig, Acid Pauli, Aio and Alex Neri and 2 more. See dates, start times and who's playing. Holzmarktstrasse 25, 10243 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Katernacht with Enrica Falqui, Rio Tashan, Ed Davenport, Sanaz + more | BUSSI, Ed Davenport, Enrica Falqui, James Lotion, New Digital Fidelity, ONNI, Phil XO, Rio Tashan, Sanaz, Sara Miller |
 | Thu, 19 Nov 2026 | Hot Mess with FLINTA* CLUB DECK | CATAWR, Marie Chain, Pilar Jordan |
 | Fri, 20 Nov 2026 | WENN ES HELL WIRD (Nenn' ich es Aufgang oder Untergang) - Ein Solo Musiktheater |  |
 | Fri, 20 Nov 2026 | Mystic Creatures | Aio, Bonnie Spacey, Daya Pruna, Elias Goldmund, HOVR, Horst Haller, Just Emma, Konfusia, Maurice Mino, Naicet, Nina Hepburn, R3NATA, Taberia |
@@ -18,9 +17,10 @@ Kater is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, with li
 | Sat, 28 Nov 2026 | 49 Katzen... tanzen auf'm Tisch | AVEM, Acid Pauli, Argia, Bandulera, Borella, Britta Arnold, Caleesi, Chris Schwarzwälder, Christine Benz, Damian Lazarus, ELIF, Erna (FR), Franca, Frankey & Sandrino, GONGULL, Geju, Gespona, Gina Sabatini, Hardt Antoine, Jake the Rapper, Jonathan Kaspar, Joséphine de Retour, Julie Saint Germain, Justin Shaffer, Kassian, Kotoe, LENI (DE), Landikhan, Last Men On Earth, MANTi, Maglia, Martin Cozar, Meltem Yazar, Mila Stern, Mimi Love, Mira, MĪMĪ x FY, Rakäthe, Remcord, Robin Dey, Sarah Kreis, Sutsche, Sven Dohse, Toto Chiavetta, Upercent, UrbnMowgli, Viken Arman, ZE:NA, alko, lisa tba, meera |
 | Fri, 4 Dec 2026 | Kater x 30 Years of Moodmusic | Amine K, Filippo Moscatello, Jepe, Kristin Velvet, Sasse, Stella Stellar, Wewerka, babxi, miAs |
 | Sat, 5 Dec 2026 | Katernacht with Lea Lisa, Monty Luke, Mike Shannon, Sabine Hoffmann + more | Balthazar Martinez, Karl Kobs, Lea Lisa, Manolo. (DE), Mike Shannon, Monty Luke, Sabine Hoffmann, Simml, Sinamin, Vanaenae |
+| Thu, 10 Dec 2026 | Shebanese à la Kater | HANNAHHANSEN, der Ackermann |
 
 ## Address
 
 Holzmarktstrasse 25, 10243 Berlin, Berlin
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kater/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kater/)*

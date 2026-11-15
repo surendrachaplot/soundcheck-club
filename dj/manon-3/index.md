@@ -1,8 +1,8 @@
 # Manon (3)
 
-Manon (3) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at C2 OST, Karlsruhe on Sat, 28 Nov 2026.
+Manon (3) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at C2 OST, Karlsruhe on Sat, 28 Nov 2026.
 
-Manon is a house and tech house artist, with 9 gigs on soundcheck across Berlin, Frankfurt, Karlsruhe and Leipzig and 4 more. Often billed alongside A.B.U., Andrew James Gustav and Boris & Davy. Next up: C2 OST, Karlsruhe on Sat 28 Nov.
+Manon is a house and tech house artist based in Germany, with 9 gigs on soundcheck across Berlin, Frankfurt, Karlsruhe and Leipzig and 4 more. Often billed alongside A.B.U., Andrew James Gustav and Boris & Davy. Next up: C2 OST, Karlsruhe on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Manon is a house and tech house artist, with 9 gigs on soundcheck across Berlin,
 
 A.B.U., Andrew James Gustav, Boris & Davy
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manon-3/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manon-3/)*

@@ -1,14 +1,14 @@
 # Simon Tyv
 
-Simon Tyv is a House and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at The Villa, Oslo on Sun, 22 Nov 2026.
+Simon Tyv is a House and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at The Villa, Oslo on Sat, 21 Nov 2026.
 
-Simon Tyv is a house and experimental artist based in Norway, with 15 gigs on soundcheck across Copenhagen and Oslo. Often billed alongside DJ JM, Anémi and Erik M.. Next up: The Villa, Oslo on Sun 22 Nov.
+Simon Tyv is a house and experimental artist based in Norway, with 15 gigs on soundcheck across Copenhagen and Oslo. Often billed alongside DJ JM, Anémi and Erik M.. Next up: The Villa, Oslo on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 22 Nov 2026 | The Villa | Oslo |
+| Sat, 21 Nov 2026 | The Villa | Oslo |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Simon Tyv is a house and experimental artist based in Norway, with 15 gigs on so
 
 DJ JM, Anémi, Erik M.
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simontyv-2/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simontyv-2/)*

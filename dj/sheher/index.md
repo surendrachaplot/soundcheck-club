@@ -1,6 +1,6 @@
 # SHE/HER
 
-SHE/HER is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Kasteel De Berckt, Netherlands on Fri, 20 Nov 2026.
+SHE/HER is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Kasteel De Berckt, Netherlands on Fri, 20 Nov 2026.
 
 SHE/HER is a techno and house artist based in Netherlands, with 69 gigs on soundcheck across Amsterdam, Berlin, Milan and Netherlands and 4 more. Often billed alongside Flits, Lasse and Isaiah (NL). Next up: Kasteel De Berckt, Netherlands on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ SHE/HER is a techno and house artist based in Netherlands, with 69 gigs on sound
 
 Flits, Lasse, Isaiah (NL)
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sheher/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sheher/)*

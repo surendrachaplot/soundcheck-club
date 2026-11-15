@@ -1,6 +1,6 @@
 # Anna Ullrich
 
-Anna Ullrich is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at PRST, Vienna on Fri, 20 Nov 2026.
+Anna Ullrich is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at PRST, Vienna on Fri, 20 Nov 2026.
 
 Anna Ullrich is a techno and trance artist based in Austria, with 56 gigs on soundcheck across Berlin, Hamburg, Milan and Munich and 2 more. Often billed alongside Who is ela¿, TAUSEND2Ø and Dimitrios. Next up: PRST, Vienna on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ Anna Ullrich is a techno and trance artist based in Austria, with 56 gigs on sou
 
 Who is ela¿, TAUSEND2Ø, Dimitrios (2)
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annaullrich/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annaullrich/)*

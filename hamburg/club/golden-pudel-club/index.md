@@ -1,14 +1,13 @@
 # Golden Pudel Club
 
-Golden Pudel Club is a music venue in Hamburg with 11 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "AOS AT PUDEL" on Sat, 14 Nov 2026.
+Golden Pudel Club is a music venue in Hamburg with 10 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Next Time w/ Live: Nic Krog & Afraid of messages, Djs: Ratkat & Nika Son" on Sun, 15 Nov 2026.
 
-Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 11 upcoming gigs, with line-ups including Alphamob, Anton Jonathan, ATAVEM and Danya (DE) and 2 more. See dates, start times and who's playing. St. Pauli Fischmarkt 27; 20359 Hamburg; Germany.
+Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 10 upcoming gigs, with line-ups including Alphamob, ATAVEM, Danya (DE) and dj blip and 2 more. See dates, start times and who's playing. St. Pauli Fischmarkt 27; 20359 Hamburg; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | AOS AT PUDEL | Anton Jonathan, DJ Babyblade, DJ SOURCE, EliaHaze, Schwesta P, Talia Dorr |
 | Sun, 15 Nov 2026 | Next Time w/ Live: Nic Krog & Afraid of messages, Djs: Ratkat & Nika Son | DJ S (UK), Nic Krog, Nika Son, Ratkat |
 | Wed, 18 Nov 2026 | Afrotonic |  |
 | Thu, 19 Nov 2026 | Blossom |  |
@@ -18,9 +17,10 @@ Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 11 upcoming 
 | Wed, 25 Nov 2026 | Afrotonic |  |
 | Sat, 28 Nov 2026 | SLIC presents: CLUB ORIGINS with JAXX TMS, Femdelic, Nissa Carrington | Femdelic, JAXX TMS, Nissa Carrington, SLIC Unit |
 | Sun, 29 Nov 2026 | Das Ohr zum Sonntag: DOZSFEST (1/2) | DJ Sprinter, Sarah Q |
+| Sat, 5 Dec 2026 | GOME + The Gang with Doppelgang | Doppelgang, GOME |
 
 ## Address
 
 St. Pauli Fischmarkt 27; 20359 Hamburg; Germany, Hamburg
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/golden-pudel-club/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/golden-pudel-club/)*

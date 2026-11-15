@@ -1,6 +1,6 @@
 # F8 1192 Folsom
 
-F8 1192 Folsom is a music venue in San Francisco/Oakland with 12 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Stamina presents Lo" on Sun, 15 Nov 2026.
+F8 1192 Folsom is a music venue in San Francisco/Oakland with 12 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Stamina presents Lo" on Sun, 15 Nov 2026.
 
 F8 1192 Folsom is a music venue in San Francisco/Oakland listed on soundcheck. 12 upcoming gigs, with line-ups including Aleki, Ardalan, at-at and Byter and 2 more. See dates, start times and who's playing. 1192 Folsom St, San Francisco, CA 94103.
 
@@ -23,4 +23,4 @@ F8 1192 Folsom is a music venue in San Francisco/Oakland listed on soundcheck. 1
 
 1192 Folsom St, San Francisco, CA 94103, San Francisco/Oakland
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/f8-1192-folsom/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/f8-1192-folsom/)*

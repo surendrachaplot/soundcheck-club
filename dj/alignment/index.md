@@ -1,14 +1,13 @@
 # Alignment
 
-Alignment is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Turbinenhalle, Oberhausen on Sat, 14 Nov 2026.
+Alignment is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Nordstern, Basel on Sat, 28 Nov 2026.
 
-Alignment is a techno and house artist based in Germany, with 262 gigs on soundcheck across Amsterdam, Andorra, Antwerp and Athens and 85 more. Often billed alongside Shlømo, Basswell and DYEN. Next up: Turbinenhalle, Oberhausen on Sat 14 Nov.
+Alignment is a techno and house artist based in Germany, with 262 gigs on soundcheck across Amsterdam, Andorra, Antwerp and Athens and 85 more. Often billed alongside Shlømo, Basswell and DYEN. Next up: Nordstern, Basel on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Turbinenhalle | Oberhausen |
 | Sat, 28 Nov 2026 | Nordstern | Basel |
 | Sat, 12 Dec 2026 | Kompass Klub | Ghent |
 | Wed, 30 Dec 2026 | Brussels Expo | Brussels |
@@ -19,6 +18,7 @@ Alignment is a techno and house artist based in Germany, with 262 gigs on soundc
 
 ## Recently played
 
+- Turbinenhalle, Oberhausen · Sat, 14 Nov 2026
 - 74 Hall, Istanbul · Fri, 13 Nov 2026
 - TBA, Poland · Sat, 31 Oct 2026
 - Ciało, Wroclaw · Sat, 31 Oct 2026
@@ -26,10 +26,9 @@ Alignment is a techno and house artist based in Germany, with 262 gigs on soundc
 - Warehouse Elementenstraat, Amsterdam · Thu, 22 Oct 2026
 - Sonora Bordeaux, Bordeaux · Fri, 16 Oct 2026
 - Parc des Expositions de Bordeaux lac, Bordeaux · Fri, 16 Oct 2026
-- WDM, Hannover · Sat, 10 Oct 2026
 
 ## Shares bills with
 
 Shlømo, Basswell, DYEN
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alignment/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alignment/)*

@@ -1,6 +1,6 @@
 # Redemptive
 
-Redemptive is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Culture Box, Copenhagen on Fri, 29 Jan 2027.
+Redemptive is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Culture Box, Copenhagen on Fri, 29 Jan 2027.
 
 Redemptive is a drum & bass and jungle artist based in Denmark, with 7 gigs on soundcheck across Copenhagen. Often billed alongside DBADJO, Dwonji and Mary Harp. Next up: Culture Box, Copenhagen on Fri 29 Jan.
 
@@ -23,4 +23,4 @@ Redemptive is a drum & bass and jungle artist based in Denmark, with 7 gigs on s
 
 DBADJO, Dwonji, Mary Harp
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/redemptive/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/redemptive/)*

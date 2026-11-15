@@ -1,8 +1,8 @@
 # Proxoxie
 
-Proxoxie is a Club and Pop artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Epiphany Center for the Arts, Chicago on Fri, 20 Nov 2026.
+Proxoxie is a Club and Pop artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Epiphany Center for the Arts, Chicago on Fri, 20 Nov 2026.
 
-Proxoxie is a club and pop artist, with 4 gigs on soundcheck across Chicago. Often billed alongside Bass and Darling. Next up: Epiphany Center for the Arts, Chicago on Fri 20 Nov.
+Proxoxie is a club and pop artist based in United States of America, with 4 gigs on soundcheck across Chicago. Often billed alongside Bass and Darling. Next up: Epiphany Center for the Arts, Chicago on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -20,4 +20,4 @@ Proxoxie is a club and pop artist, with 4 gigs on soundcheck across Chicago. Oft
 
 Bass, Darling
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/proxoxie/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/proxoxie/)*

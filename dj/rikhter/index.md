@@ -1,20 +1,20 @@
 # RIKHTER
 
-RIKHTER is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Lehmann Club, Stuttgart on Sat, 14 Nov 2026.
+RIKHTER is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at OST, Berlin on Fri, 4 Dec 2026.
 
-RIKHTER is a techno and industrial artist based in Spain, with 176 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 56 more. Often billed alongside Somewhen, Kobosil and In Verruf. Next up: Lehmann Club, Stuttgart on Sat 14 Nov.
+RIKHTER is a techno and industrial artist based in Spain, with 176 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 56 more. Often billed alongside Somewhen, Kobosil and In Verruf. Next up: OST, Berlin on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Lehmann Club | Stuttgart |
 | Fri, 4 Dec 2026 | OST | Berlin |
 | Fri, 11 Dec 2026 | Smolna | Warsaw |
 | Sun, 6 Feb 2028 | Adam Riese | Frankfurt |
 
 ## Recently played
 
+- Lehmann Club, Stuttgart · Sat, 14 Nov 2026
 - Selva Club, East · Fri, 6 Nov 2026
 - Yalta Club, Sofia · Sat, 31 Oct 2026
 - Kloster Anrode, Thuringia · Sat, 24 Oct 2026
@@ -22,10 +22,9 @@ RIKHTER is a techno and industrial artist based in Spain, with 176 gigs on sound
 - The Bassement, Madrid · Thu, 15 Oct 2026
 - Tresor / Globus, Berlin · Mon, 7 Sept 2026
 - Domicile, Miami · Sat, 29 Aug 2026
-- TBA - Los Angeles, Los Angeles · Fri, 28 Aug 2026
 
 ## Shares bills with
 
 Somewhen, Kobosil, In Verruf
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rikhter/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rikhter/)*

@@ -1,6 +1,6 @@
 # Rabent
 
-Rabent is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - The Vault, Barcelona on Sun, 15 Nov 2026.
+Rabent is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA - The Vault, Barcelona on Sun, 15 Nov 2026.
 
 Rabent is a techno and electronica artist based in Spain, with 55 gigs on soundcheck across Barcelona. Often billed alongside Eybel, KARELBLADE and NAUAL. Next up: TBA - The Vault, Barcelona on Sun 15 Nov.
 
@@ -27,4 +27,4 @@ Rabent is a techno and electronica artist based in Spain, with 55 gigs on soundc
 
 Eybel, KARELBLADE, NAUAL
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rabent/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rabent/)*

@@ -1,6 +1,6 @@
 # Hoxton Cabin
 
-Hoxton Cabin is a music venue in London with 5 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Friends with Benefits! (Fundraiser) [Deep Groovy Acid House]" on Fri, 20 Nov 2026.
+Hoxton Cabin is a music venue in London with 5 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Friends with Benefits! (Fundraiser) [Deep Groovy Acid House]" on Fri, 20 Nov 2026.
 
 Hoxton Cabin is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including AAKAARA, Benebe, bvtlr and Cecilia Ena and 2 more. See dates, start times and who's playing. 132 Kingsland Rd, London E2 8DP, United Kingdom.
 
@@ -18,4 +18,4 @@ Hoxton Cabin is a music venue in London listed on soundcheck. 5 upcoming gigs, w
 
 132 Kingsland Rd, London E2 8DP, United Kingdom, London
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/hoxton-cabin/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/hoxton-cabin/)*

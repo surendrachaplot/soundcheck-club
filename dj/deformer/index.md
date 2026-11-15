@@ -1,8 +1,8 @@
 # Deformer
 
-Deformer is a Hardcore and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at PIP Den Haag, The Hague on Sat, 28 Nov 2026.
+Deformer is a Hardcore and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at PIP Den Haag, The Hague on Sat, 28 Nov 2026.
 
-Deformer is a hardcore and drum & bass artist, with 4 gigs on soundcheck across Amsterdam, Berlin and The Hague. Often billed alongside Thrasher, DETEST and DOLPHIN. Next up: PIP Den Haag, The Hague on Sat 28 Nov.
+Deformer is a hardcore and drum & bass artist based in Netherlands, with 4 gigs on soundcheck across Amsterdam, Berlin and The Hague. Often billed alongside Thrasher, DETEST and DOLPHIN. Next up: PIP Den Haag, The Hague on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -20,4 +20,4 @@ Deformer is a hardcore and drum & bass artist, with 4 gigs on soundcheck across 
 
 Thrasher, DETEST, DOLPHIN
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deformer/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deformer/)*

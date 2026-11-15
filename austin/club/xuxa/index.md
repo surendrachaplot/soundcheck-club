@@ -1,20 +1,19 @@
 # XuXa
 
-XuXa is a music venue in Austin with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "MBM presents: Doc Martin + Brett Johnson + Cuillere" on Sat, 14 Nov 2026.
+XuXa is a music venue in Austin with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Denied Music + Might Be Magic PRESENT: KIKÉ MAYOR (LA) + Daniel Allen (ATX)" on Thu, 19 Nov 2026.
 
-XuXa is a music venue in Austin listed on soundcheck. 4 upcoming gigs, with line-ups including Brett Johnson, Cuillere, Daniel Allen and Doc Martin and 2 more. See dates, start times and who's playing. 6910 Shirley Ave, Unit I, Austin, TX 78752, USA.
+XuXa is a music venue in Austin listed on soundcheck. 3 upcoming gigs, with line-ups including Daniel Allen, Henry Chow, Joe Dismal and Kike Mayor and 1 more. See dates, start times and who's playing. 6910 Shirley Ave, Unit I, Austin, TX 78752, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | MBM presents: Doc Martin + Brett Johnson + Cuillere | Brett Johnson, Cuillere, Doc Martin |
 | Thu, 19 Nov 2026 | Denied Music + Might Be Magic PRESENT: KIKÉ MAYOR (LA) + Daniel Allen (ATX) | Daniel Allen, Kike Mayor |
 | Sat, 21 Nov 2026 | Nuit Blanche by Gigante Records x Zohara |  |
-| Fri, 27 Nov 2026 | Henry Chow (NYC) + Joe Dismal (Houston) + Zara | Henry Chow, Joe Dismal, Zara Mustafa |
+| Fri, 27 Nov 2026 | Henry Chow (NYC) + Joe Dismal (Houston) + Zara Mustafa | Henry Chow, Joe Dismal, Zara Mustafa |
 
 ## Address
 
 6910 Shirley Ave, Unit I, Austin, TX 78752, USA, Austin
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/austin/club/xuxa/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/austin/club/xuxa/)*

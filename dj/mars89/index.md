@@ -1,6 +1,6 @@
 # Mars89
 
-Mars89 is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Cube, Tokyo on Sat, 21 Nov 2026.
+Mars89 is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Cube, Tokyo on Sat, 21 Nov 2026.
 
 Mars89 is a techno and bass artist based in Japan, with 124 gigs on soundcheck across Beijing, Berlin, Chengdu and Kanto and 9 more. Often billed alongside ykah, MAYUDEPTH and TEI TEI. Next up: Cube, Tokyo on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Mars89 is a techno and bass artist based in Japan, with 124 gigs on soundcheck a
 
 ykah, MAYUDEPTH, TEI TEI
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mars89/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mars89/)*

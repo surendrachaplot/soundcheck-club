@@ -1,14 +1,13 @@
 # Paragon
 
-Paragon is a music venue in New York City with 13 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Pressure: Matrixxman, Joanna Kuchta, Marco Neves + Skin2Skin" on Sat, 14 Nov 2026.
+Paragon is a music venue in New York City with 12 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "God Bless This Whorehouse" on Thu, 19 Nov 2026.
 
-Paragon is a music venue in New York City listed on soundcheck. 13 upcoming gigs, with line-ups including 1morning, 550am, Adelaide and AK (US) and 2 more. See dates, start times and who's playing. 990 Broadway Brooklyn, NY.
+Paragon is a music venue in New York City listed on soundcheck. 12 upcoming gigs, with line-ups including 1morning, 550am, Adelaide and AK (US) and 2 more. See dates, start times and who's playing. 990 Broadway Brooklyn, NY.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Pressure: Matrixxman, Joanna Kuchta, Marco Neves + Skin2Skin | BRATATTACK, DJ Freedem, Joanna Kuchta, Marco Neves, Matrixxman, flotussin |
 | Thu, 19 Nov 2026 | God Bless This Whorehouse | AK (US), Jin & Juice, Kilopatrah Jones, LITA DA DOLL, phlegm |
 | Fri, 20 Nov 2026 | Phantasma: TYGAPAW, 1morning, Ether Pleaser + purp, Amadeezy, Tromac b2b King Virgo | 1morning, Amadeezy, Ether Pleaser, King Virgo, TYGAPAW, Tromac, purp |
 | Sat, 21 Nov 2026 | yaego, Sangre, Glass Halo + Ashley Venom & Nymph | Ashley Venom, Glass Halo, Nymph (NY), yaego |
@@ -18,9 +17,10 @@ Paragon is a music venue in New York City listed on soundcheck. 13 upcoming gigs
 | Fri, 4 Dec 2026 | Paradiso: Baltra, No_4mat, S4M23 + SINCERELY x SKIN2SKIN | Adelaide (1), Amarji King, Baltra, Christinathesaintt, Daniro, No_4mat, S4M23, zzzzach |
 | Sat, 5 Dec 2026 | Club Stars: Kim Ann Foxman, Ariel Zetina, Tommy Hart + Rollup | Ariel Zetina, Bianca Oblivion, Kim Ann Foxman, Tommy Hart, grunge mum, zorenLo |
 | Thu, 10 Dec 2026 | Doss & Friends | Doss |
+| Fri, 11 Dec 2026 | Diamond CLUB: Nick León, Verraco, MPeach + shekdash | MPeach, Nick León, Verraco, shekdash |
 
 ## Address
 
 990 Broadway Brooklyn, NY, New York City
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/paragon/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/paragon/)*

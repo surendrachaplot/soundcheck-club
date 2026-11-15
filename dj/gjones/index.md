@@ -1,6 +1,6 @@
 # G Jones
 
-G Jones is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Petco Park, San-diego on Wed, 30 Dec 2026.
+G Jones is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Petco Park, San-diego on Wed, 30 Dec 2026.
 
 G Jones is a bass and dubstep artist based in United States of America, with 28 gigs on soundcheck across Amsterdam, Auckland, Austin and Berlin and 19 more. Often billed alongside EPROM, Mary Droppinz and Chase & Status. Next up: Petco Park, San Diego on Wed 30 Dec.
 
@@ -25,4 +25,4 @@ G Jones is a bass and dubstep artist based in United States of America, with 28 
 
 EPROM, Mary Droppinz, Chase & Status
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gjones/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gjones/)*

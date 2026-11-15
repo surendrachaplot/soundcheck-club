@@ -1,6 +1,6 @@
 # susu laroche
 
-susu laroche is a Experimental and Pop artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Ormside Projects, London on Wed, 9 Dec 2026.
+susu laroche is a Experimental and Pop artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Ormside Projects, London on Wed, 9 Dec 2026.
 
 susu laroche is an experimental and pop artist, with 36 gigs on soundcheck across Amsterdam, Glasgow, London and Manchester and 3 more. Often billed alongside JOSEF KURTZ, Mobbs and Conrad Pack. Next up: Ormside Projects, London on Wed 9 Dec.
 
@@ -25,4 +25,4 @@ susu laroche is an experimental and pop artist, with 36 gigs on soundcheck acros
 
 JOSEF KURTZ, Mobbs, Conrad Pack
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/susularoche/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/susularoche/)*

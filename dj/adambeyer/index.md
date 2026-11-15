@@ -1,14 +1,15 @@
 # Adam Beyer
 
-Adam Beyer is a Techno and Tech House artist with 5 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA, Buenos Aires on Fri, 20 Nov 2026.
+Adam Beyer is a Techno and Tech House artist with 6 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA, Buenos Aires on Fri, 20 Nov 2026.
 
-Adam Beyer is a techno and tech house artist based in Sweden, with 218 gigs on soundcheck across Amsterdam, Antwerp, Argentina and Athens and 62 more. Often billed alongside Bart Skils, Eric Prydz and Patrick Topping. Next up: TBA, Buenos Aires on Fri 20 Nov.
+Adam Beyer is a techno and tech house artist based in Sweden, with 219 gigs on soundcheck across Amsterdam, Antwerp, Argentina and Athens and 62 more. Often billed alongside Bart Skils, Eric Prydz and Patrick Topping. Next up: TBA, Buenos Aires on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | TBA | Buenos Aires |
+| Fri, 20 Nov 2026 | Klein Phönix | Istanbul |
 | Sat, 28 Nov 2026 | Plaza Mayor de El Poble Espanyol | Barcelona |
 | Thu, 21 Jan 2027 | Royal Caribbean Cruise Ship | Miami |
 | Thu, 21 Jan 2027 | Royal Caribbean Cruise Ship | Miami |
@@ -29,4 +30,4 @@ Adam Beyer is a techno and tech house artist based in Sweden, with 218 gigs on s
 
 Bart Skils, Eric Prydz, Patrick Topping
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adambeyer/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adambeyer/)*

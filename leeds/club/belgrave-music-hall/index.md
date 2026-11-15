@@ -1,14 +1,13 @@
 # Belgrave Music Hall
 
-Belgrave Music Hall is a music venue in Leeds with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "O'Flynn" on Sat, 14 Nov 2026.
+Belgrave Music Hall is a music venue in Leeds with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "The Early Years / Sennen" on Mon, 16 Nov 2026.
 
-Belgrave Music Hall is a music venue in Leeds listed on soundcheck. 3 upcoming gigs, with line-ups including O'Flynn. See dates, start times and who's playing. 1-1A Cross Belgrave Street, LS2 8JP Leeds.
+Belgrave Music Hall is a music venue in Leeds listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 1-1A Cross Belgrave Street, LS2 8JP Leeds.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | O'Flynn | O'Flynn |
 | Mon, 16 Nov 2026 | The Early Years / Sennen |  |
 | Wed, 2 Dec 2026 | Bug Teeth & Friendz |  |
 
@@ -16,4 +15,4 @@ Belgrave Music Hall is a music venue in Leeds listed on soundcheck. 3 upcoming g
 
 1-1A Cross Belgrave Street, LS2 8JP Leeds, Leeds
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/belgrave-music-hall/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/belgrave-music-hall/)*

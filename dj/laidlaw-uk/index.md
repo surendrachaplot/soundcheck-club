@@ -1,6 +1,6 @@
 # Laidlaw
 
-Laidlaw is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Refuge, New York City on Sat, 14 Nov 2026.
+Laidlaw is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Refuge, New York City on Sat, 14 Nov 2026.
 
 Laidlaw is a house and tech house artist based in United Kingdom, with 213 gigs on soundcheck across Aberdeen, Amsterdam, Atlanta and Austria and 42 more. Often billed alongside Enzo Siragusa, Dr Banana and Julian Anthony. Next up: Refuge, New York City on Sat 14 Nov.
 
@@ -16,6 +16,7 @@ Laidlaw is a house and tech house artist based in United Kingdom, with 213 gigs 
 
 ## Recently played
 
+- Refuge, New York City · Sat, 14 Nov 2026
 - Dumbo, Bologna · Fri, 13 Nov 2026
 - The Liquid Room, Edinburgh · Sat, 31 Oct 2026
 - NDSM Scheepsbouwloods, Amsterdam · Sun, 25 Oct 2026
@@ -23,10 +24,9 @@ Laidlaw is a house and tech house artist based in United Kingdom, with 213 gigs 
 - Shelter Amsterdam, Amsterdam · Wed, 21 Oct 2026
 - The Dome, Liverpool · Sat, 17 Oct 2026
 - The Sugarhouse, North · Sat, 17 Oct 2026
-- Nitsa Club, Barcelona · Fri, 16 Oct 2026
 
 ## Shares bills with
 
 Enzo Siragusa, Dr Banana, Julian Anthony
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laidlaw-uk/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laidlaw-uk/)*

@@ -1,6 +1,6 @@
 # Buteco
 
-Buteco is a music venue in Atlanta with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. The next is "Breakbeat Social" on Thu, 22 Oct 2026.
+Buteco is a music venue in Atlanta with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. The next is "PULSE with DJ Debbie Graham and Andrew Marriott" on Sat, 21 Nov 2026.
 
 Buteco is a music venue in Atlanta listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -8,6 +8,6 @@ Buteco is a music venue in Atlanta listed on soundcheck. 1 upcoming gig. See dat
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Breakbeat Social |  |
+| Sat, 21 Nov 2026 | PULSE with DJ Debbie Graham and Andrew Marriott |  |
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/atlanta/club/buteco/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/atlanta/club/buteco/)*

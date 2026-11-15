@@ -1,14 +1,13 @@
 # Sasha
 
-Sasha is a Progressive House and Techno artist with 13 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Depot, Cardiff on Sat, 14 Nov 2026.
+Sasha is a Progressive House and Techno artist with 12 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Rhythm, Toronto on Thu, 19 Nov 2026.
 
-Sasha is a progressive house and techno artist based in United Kingdom, with 190 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 58 more. Often billed alongside John Digweed, Franky Wah and Patrice Bäumel. Next up: Depot, Cardiff on Sat 14 Nov.
+Sasha is a progressive house and techno artist based in United Kingdom, with 190 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 58 more. Often billed alongside John Digweed, Franky Wah and Patrice Bäumel. Next up: Rhythm, Toronto on Thu 19 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Depot | Cardiff |
 | Thu, 19 Nov 2026 | Rhythm | Toronto |
 | Sat, 21 Nov 2026 | Óbuda Bay | Budapest |
 | Fri, 27 Nov 2026 | SWG3 | Glasgow |
@@ -20,9 +19,11 @@ Sasha is a progressive house and techno artist based in United Kingdom, with 190
 | Thu, 31 Dec 2026 | Zamna Tulum | Tulum |
 | Sat, 6 Feb 2027 | Ijland | Amsterdam |
 | Wed, 17 Mar 2027 | Happy Bay Beach | Saint-martin |
+| Sat, 3 Jul 2027 | Tofte Manor | London |
 
 ## Recently played
 
+- Depot, Cardiff · Sat, 14 Nov 2026
 - Prozak 2.0, Krakow · Tue, 10 Nov 2026
 - Bikini Club, Barcelona · Sat, 7 Nov 2026
 - TBA - Colombo, Sri-lanka · Sat, 31 Oct 2026
@@ -30,10 +31,9 @@ Sasha is a progressive house and techno artist based in United Kingdom, with 190
 - Abyss Shanghai, Shanghai · Sat, 24 Oct 2026
 - Pacific Amsterdam, Amsterdam · Fri, 23 Oct 2026
 - Frontón Bucareli, Mexico City · Fri, 2 Oct 2026
-- BERHTA, Washington DC · Sat, 26 Sept 2026
 
 ## Shares bills with
 
 John Digweed, Franky Wah, Patrice Bäumel
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sasha/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sasha/)*

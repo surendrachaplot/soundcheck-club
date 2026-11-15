@@ -1,6 +1,6 @@
 # Felinah
 
-Felinah is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Sun, 15 Nov 2026.
+Felinah is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Sun, 15 Nov 2026.
 
 Felinah is a techno and electronica artist based in Colombia, with 30 gigs on soundcheck across Bogotá and Medellin. Often billed alongside Owldisco, Bedriñana and Bluekim. Next up: Kaputt Club / Proyecto Kinder, Bogotá on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Felinah is a techno and electronica artist based in Colombia, with 30 gigs on so
 
 Owldisco, Bedriñana, Bluekim
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/felinah/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/felinah/)*

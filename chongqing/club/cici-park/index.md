@@ -1,14 +1,13 @@
 # Cici Park
 
-Cici Park is a music venue in Chongqing with 9 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "CYBER JUNGLE" on Sat, 14 Nov 2026.
+Cici Park is a music venue in Chongqing with 8 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "OPEN DECK @cicipark" on Wed, 18 Nov 2026.
 
-Cici Park is a music venue in Chongqing listed on soundcheck. 9 upcoming gigs, with line-ups including Kongsent, Paul Lution, Sunyoung and Yang Bing. See dates, start times and who's playing. Youth Cultural Space, 2nd Floor, Opening Port Park Gate2, Long Men Hao Street, Ma An Shan No.56, NanAn District, Chongqing, China / 重庆市南岸区开埠遗址公园2号门（观光电梯下二楼 青年文化空间）.
+Cici Park is a music venue in Chongqing listed on soundcheck. 8 upcoming gigs, with line-ups including Kongsent, Paul Lution, Sunyoung and Yang Bing. See dates, start times and who's playing. Youth Cultural Space, 2nd Floor, Opening Port Park Gate2, Long Men Hao Street, Ma An Shan No.56, NanAn District, Chongqing, China / 重庆市南岸区开埠遗址公园2号门（观光电梯下二楼 青年文化空间）.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | CYBER JUNGLE |  |
 | Wed, 18 Nov 2026 | OPEN DECK @cicipark |  |
 | Fri, 20 Nov 2026 | Groove Lovers｜律动达人 |  |
 | Sat, 21 Nov 2026 | House Nation｜浩室一族 |  |
@@ -22,4 +21,4 @@ Cici Park is a music venue in Chongqing listed on soundcheck. 9 upcoming gigs, w
 
 Youth Cultural Space, 2nd Floor, Opening Port Park Gate2, Long Men Hao Street, Ma An Shan No.56, NanAn District, Chongqing, China / 重庆市南岸区开埠遗址公园2号门（观光电梯下二楼 青年文化空间）, Chongqing
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/chongqing/club/cici-park/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/chongqing/club/cici-park/)*

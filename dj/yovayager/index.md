@@ -1,6 +1,6 @@
 # Yova Yager
 
-Yova Yager is a Techno and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Distillery N17, London on Thu, 31 Dec 2026.
+Yova Yager is a Techno and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Distillery N17, London on Thu, 31 Dec 2026.
 
 Yova Yager is a techno and disco artist based in Ukraine, with 23 gigs on soundcheck across Berlin, Krakow, London and Manchester and 1 more. Often billed alongside OllyK, Jeneva and Simik. Next up: Distillery N17, London on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Yova Yager is a techno and disco artist based in Ukraine, with 23 gigs on soundc
 
 OllyK, Jeneva, Simik
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yovayager/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yovayager/)*

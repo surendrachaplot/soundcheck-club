@@ -1,8 +1,8 @@
 # masheen
 
-masheen is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Abercrombie Hotel, Sydney on Fri, 20 Nov 2026.
+masheen is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Abercrombie Hotel, Sydney on Fri, 20 Nov 2026.
 
-masheen is a techno and electro artist based in Australia, with 11 gigs on soundcheck across Kuala Lumpur and Sydney. Often billed alongside TR4XIE, AMZDAMN B2B SMAGS and Alias Error. Next up: Abercrombie Hotel, Sydney on Fri 20 Nov.
+masheen is a techno and bass artist based in Australia, with 12 gigs on soundcheck across Kuala Lumpur and Sydney. Often billed alongside Kassita, LEGGY and TR4XIE. Next up: Abercrombie Hotel, Sydney on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ masheen is a techno and electro artist based in Australia, with 11 gigs on sound
 
 ## Recently played
 
+- TBA - Secret Location, Sydney · Sat, 14 Nov 2026
 - TBA, Sydney · Sun, 26 Apr 2026
 - TBA - NSW, Sydney · Fri, 3 Apr 2026
 - TBA, Sydney · Sat, 14 Feb 2026
@@ -19,10 +20,9 @@ masheen is a techno and electro artist based in Australia, with 11 gigs on sound
 - Club 77, Sydney · Thu, 15 Jan 2026
 - Mantra Bar, Kuala Lumpur · Fri, 19 Dec 2025
 - Schirrmo's Bar, Sydney · Sat, 15 Nov 2025
-- TBA, Sydney · Sat, 6 Sept 2025
 
 ## Shares bills with
 
-TR4XIE, AMZDAMN B2B SMAGS, Alias Error
+Kassita, LEGGY, TR4XIE
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/masheen/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/masheen/)*

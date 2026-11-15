@@ -1,6 +1,6 @@
 # Jeff Straw
 
-Jeff Straw is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Butter, San Francisco/Oakland on Sun, 15 Nov 2026.
+Jeff Straw is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Butter, San Francisco/Oakland on Sun, 15 Nov 2026.
 
 Jeff Straw is a house and disco artist based in United States of America, with 87 gigs on soundcheck across Denver, Ibiza and San Francisco/Oakland. Often billed alongside HIDRA, Mode Leeloo and Major Trouble. Next up: Butter, San Francisco/Oakland on Sun 15 Nov.
 
@@ -26,4 +26,4 @@ Jeff Straw is a house and disco artist based in United States of America, with 8
 
 HIDRA, Mode Leeloo, Major Trouble
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffstraw/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffstraw/)*

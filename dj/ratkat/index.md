@@ -1,6 +1,6 @@
 # Ratkat
 
-Ratkat is a Electronica and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Golden Pudel Club, Hamburg on Sun, 15 Nov 2026.
+Ratkat is a Electronica and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Golden Pudel Club, Hamburg on Sun, 15 Nov 2026.
 
 Ratkat is an electronica and club artist based in Germany, with 6 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Nika Son, Blevin Blectum and Cloud Management. Next up: Golden Pudel Club, Hamburg on Sun 15 Nov.
 
@@ -22,4 +22,4 @@ Ratkat is an electronica and club artist based in Germany, with 6 gigs on soundc
 
 Nika Son, Blevin Blectum, Cloud Management
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ratkat/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ratkat/)*

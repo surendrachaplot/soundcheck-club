@@ -1,18 +1,18 @@
 # S.I.M
 
-S.I.M is a Techno and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Monarch, San Francisco/Oakland on Sat, 14 Nov 2026.
+S.I.M is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA - Campground 1H from DTLA, Los-angeles on Fri, 16 Apr 2027.
 
-S.I.M is a techno and breakbeat artist based in United States of America, with 15 gigs on soundcheck across Los Angeles, San Diego and San Francisco/Oakland. Often billed alongside JAQ.XS, JustJovani and Saffaire. Next up: Monarch, San Francisco/Oakland on Sat 14 Nov.
+S.I.M is a techno and breakbeat artist based in United States of America, with 15 gigs on soundcheck across Los Angeles, San Diego and San Francisco/Oakland. Often billed alongside JAQ.XS, JustJovani and Saffaire. Next up: TBA - Campground 1H from DTLA, Los Angeles on Fri 16 Apr.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Monarch | San Francisco/Oakland |
 | Fri, 16 Apr 2027 | TBA - Campground 1H from DTLA | Los-angeles |
 
 ## Recently played
 
+- Monarch, San Francisco/Oakland · Sat, 14 Nov 2026
 - TBA - DTLA, Los Angeles · Fri, 6 Nov 2026
 - TBA - DTLA, Los Angeles · Sat, 24 Oct 2026
 - 1015 Folsom, San Francisco/Oakland · Thu, 22 Oct 2026
@@ -20,10 +20,9 @@ S.I.M is a techno and breakbeat artist based in United States of America, with 1
 - Public Works, San Francisco/Oakland · Fri, 11 Sept 2026
 - Arcana, San Francisco/Oakland · Sat, 5 Sept 2026
 - 1015 Folsom, San Francisco/Oakland · Fri, 21 Aug 2026
-- TBA - Los Angeles, Los Angeles · Sat, 15 Aug 2026
 
 ## Shares bills with
 
 JAQ.XS, JustJovani, Saffaire
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sim.us/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sim.us/)*

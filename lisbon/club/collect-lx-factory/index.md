@@ -1,14 +1,13 @@
 # Collect LX Factory
 
-Collect LX Factory is a music venue in Lisbon with 16 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Collect LX Factory presents Dorisburg (live)" on Sat, 14 Nov 2026.
+Collect LX Factory is a music venue in Lisbon with 15 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "COLLECT w/ HELDER RUSSO" on Mon, 16 Nov 2026.
 
-Collect LX Factory is a music venue in Lisbon listed on soundcheck. 16 upcoming gigs, with line-ups including 2jack4u, Amulador, Arque and C3D-E and 2 more. See dates, start times and who's playing. R. Rodrigues de Faria 103, 1300-501 Lisboa.
+Collect LX Factory is a music venue in Lisbon listed on soundcheck. 15 upcoming gigs, with line-ups including 2jack4u, Arque, C3D-E and Certain People and 2 more. See dates, start times and who's playing. R. Rodrigues de Faria 103, 1300-501 Lisboa.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Collect LX Factory presents Dorisburg (live) | Amulador, Dorisburg, Elless & Benn |
 | Mon, 16 Nov 2026 | COLLECT w/ HELDER RUSSO | Helder Russo |
 | Tue, 17 Nov 2026 | COLLECT w/ THIAGO GUISELINI | Thiago Guiselini |
 | Wed, 18 Nov 2026 | COLLECT w/ NICK CRADDOCK | Nick Craddock |
@@ -18,9 +17,10 @@ Collect LX Factory is a music venue in Lisbon listed on soundcheck. 16 upcoming 
 | Sat, 21 Nov 2026 | Collect LX Factory presents C3D-E (live) | C3D-E, Solid-Funk, Ze Salvador |
 | Mon, 23 Nov 2026 | COLLECT w/ LUCA GUICHARD | Luca Guichard |
 | Tue, 24 Nov 2026 | COLLECT w/ ILHEM | Ilhem |
+| Wed, 25 Nov 2026 | COLLECT w/ PAWL, ARQUE & CERTAIN PEOPLE | Arque, Certain People, Pawl |
 
 ## Address
 
 R. Rodrigues de Faria 103, 1300-501 Lisboa, Lisbon
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/collect-lx-factory/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/collect-lx-factory/)*

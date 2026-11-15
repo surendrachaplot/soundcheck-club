@@ -1,18 +1,18 @@
 # not even noticed
 
-not even noticed is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Legal, Munich on Sat, 14 Nov 2026.
+not even noticed is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Tokonoma Club, Frankfurt on Fri, 27 Nov 2026.
 
-not even noticed is a house and techno artist based in Germany, with 45 gigs on soundcheck across Amsterdam, Bangkok, Beijing and Berlin and 14 more. Often billed alongside GERKE, Bliss Inc. and SAFA. Next up: Legal, Munich on Sat 14 Nov.
+not even noticed is a house and techno artist based in Germany, with 45 gigs on soundcheck across Amsterdam, Bangkok, Beijing and Berlin and 14 more. Often billed alongside GERKE, Bliss Inc. and SAFA. Next up: Tokonoma Club, Frankfurt on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Legal | Munich |
 | Fri, 27 Nov 2026 | Tokonoma Club | Frankfurt |
 
 ## Recently played
 
+- Legal, Munich · Sat, 14 Nov 2026
 - Tokonoma Club, Frankfurt · Sat, 7 Nov 2026
 - Tokonoma Club, Frankfurt · Sat, 22 Aug 2026
 - TBA - Klingemühle, Berlin · Fri, 14 Aug 2026
@@ -20,10 +20,9 @@ not even noticed is a house and techno artist based in Germany, with 45 gigs on 
 - saasfee*pavillon, Frankfurt · Fri, 26 Jun 2026
 - Tokonoma Club, Frankfurt · Sat, 16 May 2026
 - Tokonoma Club, Frankfurt · Thu, 30 Apr 2026
-- Paloma, Berlin · Sat, 11 Apr 2026
 
 ## Shares bills with
 
 GERKE, Bliss Inc., SAFA
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/notevennoticed/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/notevennoticed/)*

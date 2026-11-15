@@ -1,6 +1,6 @@
 # Club Paula
 
-Club Paula is a music venue in Dresden with 7 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "D:CODE" on Fri, 20 Nov 2026.
+Club Paula is a music venue in Dresden with 7 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "D:CODE" on Fri, 20 Nov 2026.
 
 Club Paula is a music venue in Dresden listed on soundcheck. 7 upcoming gigs, with line-ups including 808 CRIME, Axoon, Blightz and Coline and 2 more. See dates, start times and who's playing. Meschwitzstr. 14, 01099 Dresden.
 
@@ -20,4 +20,4 @@ Club Paula is a music venue in Dresden listed on soundcheck. 7 upcoming gigs, wi
 
 Meschwitzstr. 14, 01099 Dresden, Dresden
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dresden/club/club-paula/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dresden/club/club-paula/)*

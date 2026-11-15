@@ -1,0 +1,22 @@
+# Hickson
+
+Hickson is a Techno and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Joule, Osaka on Fri, 27 Nov 2026.
+
+Hickson is a techno and hip-hop artist based in Japan, with 3 gigs on soundcheck across Osaka. Often billed alongside Astro, NOBUYA and O-MAN. Next up: Joule, Osaka on Fri 27 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 27 Nov 2026 | Joule | Osaka |
+
+## Recently played
+
+- Compufunk Records, Osaka · Fri, 30 Oct 2026
+- Tank酒場, Osaka · Thu, 22 Oct 2026
+
+## Shares bills with
+
+Astro, NOBUYA (2), O-MAN
+
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hickson/)*

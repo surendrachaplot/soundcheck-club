@@ -1,15 +1,13 @@
 # GiGi FM
 
-GiGi FM is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at CLUB RAUM, Amsterdam on Fri, 13 Nov 2026.
+GiGi FM is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Magasins Généraux, Paris on Fri, 20 Nov 2026.
 
-GiGi FM is a techno and house artist, with 198 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 66 more. Often billed alongside Altinbas, Polygonia and DVS1. Next up: CLUB RAUM, Amsterdam on Fri 13 Nov.
+GiGi FM is a techno and house artist, with 198 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 66 more. Often billed alongside Altinbas, Polygonia and DVS1. Next up: Magasins Généraux, Paris on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | CLUB RAUM | Amsterdam |
-| Sat, 14 Nov 2026 | DURO | Milan |
 | Fri, 20 Nov 2026 | Magasins Généraux | Paris |
 | Sat, 21 Nov 2026 | Magasins Généraux | Paris |
 | Sat, 21 Nov 2026 | Ubu Club | Rennes |
@@ -20,9 +18,12 @@ GiGi FM is a techno and house artist, with 198 gigs on soundcheck across Adelaid
 | Sat, 12 Dec 2026 | fabric | London |
 | Fri, 18 Dec 2026 | FORGE | Sheffield |
 | Sat, 19 Dec 2026 | Strange Brew | Bristol |
+| Sat, 26 Dec 2026 | SMUT Athens | Athens |
+| Thu, 19 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 
+- DURO, Milan · Sat, 14 Nov 2026
 - CLUB RAUM, Amsterdam · Fri, 13 Nov 2026
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 31 Oct 2026
 - H7 Warehouse, Amsterdam · Sat, 24 Oct 2026
@@ -30,10 +31,9 @@ GiGi FM is a techno and house artist, with 198 gigs on soundcheck across Adelaid
 - RADION, Amsterdam · Fri, 23 Oct 2026
 - De Thomaskerk, Amsterdam · Fri, 23 Oct 2026
 - TBA, Perth · Sat, 10 Oct 2026
-- TBA - Warehouse, Perth · Sat, 10 Oct 2026
 
 ## Shares bills with
 
 Altinbas, Polygonia, DVS1
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gigifm/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gigifm/)*

@@ -1,6 +1,6 @@
 # gwa (1)
 
-gwa (1) is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Eastern Bloc Records, Manchester on Sat, 5 Dec 2026.
+gwa (1) is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Eastern Bloc Records, Manchester on Sat, 5 Dec 2026.
 
 gwa is a techno and dub techno artist based in United Kingdom, with 4 gigs on soundcheck across Leeds and Manchester. Often billed alongside Hooley, Mouridis and Ario. Next up: Eastern Bloc Records, Manchester on Sat 5 Dec.
 
@@ -20,4 +20,4 @@ gwa is a techno and dub techno artist based in United Kingdom, with 4 gigs on so
 
 Hooley, Mouridis, Ario
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gwa-1/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gwa-1/)*

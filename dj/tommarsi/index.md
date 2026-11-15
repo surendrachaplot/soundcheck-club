@@ -1,6 +1,6 @@
 # Tom Marsi
 
-Tom Marsi is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at The Airliner, Los Angeles on Thu, 19 Nov 2026.
+Tom Marsi is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at The Airliner, Los Angeles on Thu, 19 Nov 2026.
 
 Tom Marsi is a club and techno artist based in United States of America, with 110 gigs on soundcheck across Atlanta, Chicago, Los Angeles and Mexico City and 8 more. Often billed alongside Discnogirl, DJ CARO and RITCHRD. Next up: The Airliner, Los Angeles on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Tom Marsi is a club and techno artist based in United States of America, with 11
 
 Discnogirl, DJ CARO, RITCHRD
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tommarsi/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tommarsi/)*

@@ -1,6 +1,6 @@
 # Mario Clavasquin
 
-Mario Clavasquin is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Ocaso Rooftop Gastro-Bar, Medellin on Sat, 28 Nov 2026.
+Mario Clavasquin is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Ocaso Rooftop Gastro-Bar, Medellin on Sat, 28 Nov 2026.
 
 Mario Clavasquin is a tech house and house artist based in United States of America, with 18 gigs on soundcheck across Medellin and Miami. Often billed alongside WM(COL), Elisabeth Moon and Raized. Next up: Ocaso Rooftop Gastro-Bar, Medellin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Mario Clavasquin is a tech house and house artist based in United States of Amer
 
 WM(COL), Elisabeth Moon, Raized
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marioclavasquin/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marioclavasquin/)*

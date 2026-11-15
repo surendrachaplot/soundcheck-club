@@ -1,6 +1,6 @@
 # RÄV
 
-RÄV is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at You Club, North on Sat, 21 Nov 2026.
+RÄV is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at You Club, North on Sat, 21 Nov 2026.
 
 RÄV is a techno and hardcore artist based in Italy, with 37 gigs on soundcheck across Athens, Basel, Berlin and Bologna and 21 more. Often billed alongside Stephan Krus, NTHR and Lethal Frame. Next up: You Club, North on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ RÄV is a techno and hardcore artist based in Italy, with 37 gigs on soundcheck 
 
 Stephan Krus, NTHR, Lethal Frame
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rav-it/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rav-it/)*

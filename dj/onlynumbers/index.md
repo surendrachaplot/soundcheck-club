@@ -1,14 +1,13 @@
 # Onlynumbers
 
-Onlynumbers is a Techno and Hardcore artist with 17 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Fabrik, Madrid on Sat, 14 Nov 2026.
+Onlynumbers is a Techno and Hardcore artist with 16 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at NX Newcastle, Newcastle on Fri, 20 Nov 2026.
 
-Onlynumbers is a techno and hardcore artist based in France, with 106 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 61 more. Often billed alongside NOVAH, KLOFAMA and Basswell. Next up: Fabrik, Madrid on Sat 14 Nov.
+Onlynumbers is a techno and hardcore artist based in France, with 106 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 61 more. Often billed alongside NOVAH, KLOFAMA and Basswell. Next up: NX Newcastle, Newcastle on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Fabrik | Madrid |
 | Fri, 20 Nov 2026 | NX Newcastle | Newcastle |
 | Sat, 21 Nov 2026 | Martiniplaza | Amsterdam |
 | Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
@@ -20,9 +19,11 @@ Onlynumbers is a techno and hardcore artist based in France, with 106 gigs on so
 | Sat, 19 Dec 2026 | Hallenstadion | Zurich |
 | Sat, 26 Dec 2026 | The Telegraph Building | Belfast |
 | Wed, 30 Dec 2026 | Brussels Expo | Brussels |
+| Thu, 31 Dec 2026 | Afas Live | Amsterdam |
 
 ## Recently played
 
+- Fabrik, Madrid · Sat, 14 Nov 2026
 - Lehmann Club, Stuttgart · Fri, 13 Nov 2026
 - Hemkade 48, Amsterdam · Thu, 22 Oct 2026
 - TBA - Espacio Zity, Zaragoza, North · Sun, 11 Oct 2026
@@ -30,10 +31,9 @@ Onlynumbers is a techno and hardcore artist based in France, with 106 gigs on so
 - Terminal 1, Central · Sat, 3 Oct 2026
 - Index, Dublin · Fri, 2 Oct 2026
 - Arzenal, Budapest · Sat, 19 Sept 2026
-- TBA - Grand Parc Miribel Jonage, Lyon · Sat, 12 Sept 2026
 
 ## Shares bills with
 
 NOVAH, KLOFAMA, Basswell
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/onlynumbers/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/onlynumbers/)*

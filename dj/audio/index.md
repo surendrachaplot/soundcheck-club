@@ -1,19 +1,19 @@
 # Audio
 
-Audio is a Drum & Bass and Experimental artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Slakthuset, Stockholm on Sat, 14 Nov 2026.
+Audio is a Drum & Bass and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA - B17 Art Complex, Bogotá on Fri, 11 Dec 2026.
 
-Audio is a drum & bass and experimental artist based in United Kingdom, with 41 gigs on soundcheck across Amsterdam, Atlanta, Berlin and Bogotá and 21 more. Often billed alongside Ed Rush, Optical and Pythius. Next up: Slakthuset, Stockholm on Sat 14 Nov.
+Audio is a drum & bass and experimental artist based in United Kingdom, with 41 gigs on soundcheck across Amsterdam, Atlanta, Berlin and Bogotá and 21 more. Often billed alongside Ed Rush, Optical and Pythius. Next up: TBA - B17 Art Complex, Bogotá on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Slakthuset | Stockholm |
 | Fri, 11 Dec 2026 | TBA - B17 Art Complex | Bogotá |
 | Sun, 13 Dec 2026 | Lunchbox | Atlanta |
 
 ## Recently played
 
+- Slakthuset, Stockholm · Sat, 14 Nov 2026
 - Křižík Pavilion B, Prague · Fri, 13 Nov 2026
 - Maassilo, Rotterdam · Fri, 30 Oct 2026
 - The Chocolate Factory, New York City · Thu, 9 Jul 2026
@@ -21,10 +21,9 @@ Audio is a drum & bass and experimental artist based in United Kingdom, with 41 
 - Volks, Brighton · Fri, 15 May 2026
 - The Steel Yard, London · Sat, 18 Apr 2026
 - Arena Wien, Vienna · Sat, 11 Apr 2026
-- Lakota, Bristol · Sat, 14 Mar 2026
 
 ## Shares bills with
 
 Ed Rush, Optical, Pythius
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/audio/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/audio/)*

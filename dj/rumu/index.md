@@ -1,18 +1,18 @@
 # rumu
 
-rumu is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Phonox, London on Sat, 14 Nov 2026.
+rumu is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Phonox, London on Sat, 21 Nov 2026.
 
-rumu is a techno and electro artist, with 8 gigs on soundcheck across Amsterdam and London. Often billed alongside Dusky, Nicky Elisabeth and Aspetuck. Next up: Phonox, London on Sat 14 Nov.
+rumu is a techno and electro artist based in United Kingdom, with 8 gigs on soundcheck across Amsterdam and London. Often billed alongside Dusky, Nicky Elisabeth and Aspetuck. Next up: Phonox, London on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Phonox | London |
 | Sat, 21 Nov 2026 | Phonox | London |
 
 ## Recently played
 
+- Phonox, London · Sat, 14 Nov 2026
 - Electrowerkz, London · Sat, 16 May 2026
 - Night Tales Loft, London · Wed, 1 Jan 2025
 - Dalston Den, London · Fri, 18 Aug 2023
@@ -24,4 +24,4 @@ rumu is a techno and electro artist, with 8 gigs on soundcheck across Amsterdam 
 
 Dusky, Nicky Elisabeth, Aspetuck
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rumu/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rumu/)*

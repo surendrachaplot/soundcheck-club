@@ -1,6 +1,6 @@
 # Aiden (DE)
 
-Aiden (DE) is a Techno and Industrial artist with 5 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at BEC (Bilbao Exhibition Center), North on Sat, 28 Nov 2026.
+Aiden (DE) is a Techno and Industrial artist with 5 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at BEC (Bilbao Exhibition Center), North on Sat, 28 Nov 2026.
 
 Aiden (DE) is a techno and industrial artist based in United States of America, with 103 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 47 more. Often billed alongside Kobosil, Somewhen and In Verruf. Next up: BEC (Bilbao Exhibition Center), North on Sat 28 Nov.
 
@@ -29,4 +29,4 @@ Aiden (DE) is a techno and industrial artist based in United States of America, 
 
 Kobosil, Somewhen, In Verruf
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aiden-de/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aiden-de/)*

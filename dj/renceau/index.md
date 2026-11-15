@@ -1,14 +1,13 @@
 # Renceau
 
-Renceau is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Wed, 11 Nov 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 13 Nov 2026.
+Renceau is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 18 Dec 2026.
 
-Renceau is a house and garage artist based in Netherlands, with 6 gigs on soundcheck across Amsterdam, Manchester and Rotterdam. Often billed alongside Milion, Silva Bumpa and Bella Claxton. Next up: Shelter Amsterdam, Amsterdam on Fri 13 Nov.
+Renceau is a house and garage artist based in Netherlands, with 5 gigs on soundcheck across Amsterdam, Manchester and Rotterdam. Often billed alongside Milion, Silva Bumpa and Bella Claxton. Next up: Depot Mayfield, Manchester on Fri 18 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Shelter Amsterdam | Amsterdam |
 | Fri, 18 Dec 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
@@ -22,4 +21,4 @@ Renceau is a house and garage artist based in Netherlands, with 6 gigs on soundc
 
 Milion, Silva Bumpa, Bella Claxton
 
-*Updated Wed, 11 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/renceau/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/renceau/)*

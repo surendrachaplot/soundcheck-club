@@ -1,13 +1,14 @@
 # Pink Id
 
-Pink Id is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at City Hall, Barcelona on Wed, 25 Nov 2026.
+Pink Id is a Hardcore and Acid artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at City Hall, Barcelona on Thu, 19 Nov 2026.
 
-Pink Id is a techno artist based in Argentina, with 6 gigs on soundcheck across Barcelona. Often billed alongside Atari Stacey and Yeison M. Next up: City Hall, Barcelona on Wed 25 Nov.
+Pink Id is a hardcore and acid artist based in Argentina, with 7 gigs on soundcheck across Barcelona. Often billed alongside Atari Stacey, Max Circuit and Yeison M. Next up: City Hall, Barcelona on Thu 19 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 19 Nov 2026 | City Hall | Barcelona |
 | Wed, 25 Nov 2026 | City Hall | Barcelona |
 
 ## Recently played
@@ -20,6 +21,6 @@ Pink Id is a techno artist based in Argentina, with 6 gigs on soundcheck across 
 
 ## Shares bills with
 
-Atari Stacey, Yeison M
+Atari Stacey, Max Circuit, Yeison M
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pinkid/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pinkid/)*

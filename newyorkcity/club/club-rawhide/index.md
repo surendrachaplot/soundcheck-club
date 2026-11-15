@@ -1,16 +1,16 @@
 # Club Rawhide
 
-Club Rawhide is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Club Rawhide SATURDAY NIGHT 11.14.26 w/ flirty800, Peter Napoli, Ryan Farr" on Sat, 14 Nov 2026.
+Club Rawhide is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "LOVE SENSATION SUNDAYS 11.15.26 w/ The Illustrious Blacks, Johnny Dynell" on Sun, 15 Nov 2026.
 
-Club Rawhide is a music venue in New York City listed on soundcheck. 6 upcoming gigs, with line-ups including flirty800, Johnny Dynell, Peter Napoli and Ryan Farr and 1 more. See dates, start times and who's playing. 250 W 26TH ST.
+Club Rawhide is a music venue in New York City listed on soundcheck. 6 upcoming gigs, with line-ups including Johnny Dynell and The Illustrious Blacks. See dates, start times and who's playing. 250 W 26TH ST.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Club Rawhide SATURDAY NIGHT 11.14.26 w/ flirty800, Peter Napoli, Ryan Farr | Peter Napoli, Ryan Farr, flirty800 |
 | Sun, 15 Nov 2026 | LOVE SENSATION SUNDAYS 11.15.26 w/ The Illustrious Blacks, Johnny Dynell | Johnny Dynell, The Illustrious Blacks |
 | Thu, 19 Nov 2026 | CODED Thursdays 11.19.26 |  |
+| Thu, 19 Nov 2026 | Bear Happy Hour at The Rambles at Rawhide |  |
 | Fri, 20 Nov 2026 | Club Rawhide FRIDAY NIGHT 11.20.26 |  |
 | Sat, 21 Nov 2026 | Club Rawhide SATURDAY NIGHT 11.21.26 |  |
 | Sun, 22 Nov 2026 | LOVE SENSATION SUNDAYS 11.22.26 |  |
@@ -19,4 +19,4 @@ Club Rawhide is a music venue in New York City listed on soundcheck. 6 upcoming 
 
 250 W 26TH ST, New York City
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/club-rawhide/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/club-rawhide/)*

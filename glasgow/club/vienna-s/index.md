@@ -1,6 +1,6 @@
 # Vienna's
 
-Vienna's is a music venue in Glasgow with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Revival: DJ Vance" on Sat, 28 Nov 2026.
+Vienna's is a music venue in Glasgow with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Revival: DJ Vance" on Sat, 28 Nov 2026.
 
 Vienna's is a music venue in Glasgow listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 20 New St, Paisley PA1 1YB.
 
@@ -15,4 +15,4 @@ Vienna's is a music venue in Glasgow listed on soundcheck. 2 upcoming gigs. See 
 
 20 New St, Paisley PA1 1YB, Glasgow
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/vienna-s/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/vienna-s/)*

@@ -1,13 +1,14 @@
 # DAVID MENA
 
-DAVID MENA is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at EL SÓTANO, Madrid on Sun, 22 Nov 2026.
+DAVID MENA is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Sala El Sol, Madrid on Wed, 18 Nov 2026.
 
-DAVID MENA is a techno and acid artist, with 14 gigs on soundcheck across Madrid. Often billed alongside Alviker, Arok Shiva and KITAE. Next up: EL SÓTANO, Madrid on Sun 22 Nov.
+DAVID MENA is a techno and acid artist, with 15 gigs on soundcheck across Madrid. Often billed alongside Alviker, Arok Shiva and Pulpix. Next up: Sala El Sol, Madrid on Wed 18 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 18 Nov 2026 | Sala El Sol | Madrid |
 | Sun, 22 Nov 2026 | EL SÓTANO | Madrid |
 
 ## Recently played
@@ -23,6 +24,6 @@ DAVID MENA is a techno and acid artist, with 14 gigs on soundcheck across Madrid
 
 ## Shares bills with
 
-Alviker, Arok Shiva, KITAE
+Alviker, Arok Shiva, Pulpix
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidmena/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidmena/)*

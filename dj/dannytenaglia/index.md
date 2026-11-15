@@ -1,14 +1,13 @@
 # Danny Tenaglia
 
-Danny Tenaglia is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at The Barbary, Philadelphia on Sat, 14 Nov 2026.
+Danny Tenaglia is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Sub Club, Glasgow on Fri, 4 Dec 2026.
 
-Danny Tenaglia is a house and techno artist based in United States of America, with 118 gigs on soundcheck across Amsterdam, Auckland, Austin and Barcelona and 32 more. Often billed alongside Brandon Block, Darren Emerson and John Course. Next up: The Barbary, Philadelphia on Sat 14 Nov.
+Danny Tenaglia is a house and techno artist based in United States of America, with 118 gigs on soundcheck across Amsterdam, Auckland, Austin and Barcelona and 32 more. Often billed alongside Brandon Block, Darren Emerson and John Course. Next up: Sub Club, Glasgow on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | The Barbary | Philadelphia |
 | Fri, 4 Dec 2026 | Sub Club | Glasgow |
 | Fri, 11 Dec 2026 | Grand Central Hall | Liverpool |
 | Sat, 12 Dec 2026 | E1 | London |
@@ -16,6 +15,7 @@ Danny Tenaglia is a house and techno artist based in United States of America, w
 
 ## Recently played
 
+- The Barbary, Philadelphia · Sat, 14 Nov 2026
 - Stereo, Montreal · Sat, 31 Oct 2026
 - Superior Ingredients, New York City · Sat, 24 Oct 2026
 - TBA - Ciudad Universitaria, Belgrano, Buenos Aires · Sat, 17 Oct 2026
@@ -23,10 +23,9 @@ Danny Tenaglia is a house and techno artist based in United States of America, w
 - Studio Club Malaga, Malaga · Sat, 3 Oct 2026
 - Amnesia Ibiza, Ibiza · Fri, 2 Oct 2026
 - Knockdown Center, New York City · Sat, 5 Sept 2026
-- Piknic Électronik / Parc Jean Drapeau, Montreal · Sun, 30 Aug 2026
 
 ## Shares bills with
 
 Brandon Block, Darren Emerson, John Course
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dannytenaglia/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dannytenaglia/)*

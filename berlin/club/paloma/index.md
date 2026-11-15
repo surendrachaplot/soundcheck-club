@@ -1,15 +1,13 @@
 # Paloma
 
-Paloma is a music venue in Berlin with 28 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Fear Of Silence takeover at Paloma w/Harba and Delta Division all night long" on Sat, 14 Nov 2026.
+Paloma is a music venue in Berlin with 26 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Floathouse Studio x Nightshift" on Sun, 15 Nov 2026.
 
-Paloma is a music venue in Berlin listed on soundcheck. 28 upcoming gigs, with line-ups including 11:68PM, acidheaven, Adriano Scopece and ASA 808 and 2 more. See dates, start times and who's playing. Skalitzer Str. 135, 10999 Berlin.
+Paloma is a music venue in Berlin listed on soundcheck. 26 upcoming gigs, with line-ups including 11:68PM, acidheaven, Adriano Scopece and ASA 808 and 2 more. See dates, start times and who's playing. Skalitzer Str. 135, 10999 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Fear Of Silence takeover at Paloma w/Harba and Delta Division all night long | Delta Division, Harba |
-| Sat, 14 Nov 2026 | KOTTI, OIDA | JP Bechamel, Miyra Lim, Reeno Reluv |
 | Sun, 15 Nov 2026 | Floathouse Studio x Nightshift | Beqqi, Cosmic Cherry, Dyslexi, Stoshka, Yukon Nature, acidheaven, charli/e, julian (DE), salameh |
 | Thu, 19 Nov 2026 | GROOVE BURO w/BROCCOLI | Fineberg, Karolina Bnv |
 | Fri, 20 Nov 2026 | Storytellers | Adriano Scopece, Do you know Juno |
@@ -18,9 +16,11 @@ Paloma is a music venue in Berlin listed on soundcheck. 28 upcoming gigs, with l
 | Sat, 21 Nov 2026 | Mimosa | Felix Kropf |
 | Sun, 22 Nov 2026 | Gentle Reminder | Charlie Vaux, DJ Bricks, Giulia Gutterer, MVHY, VRTL |
 | Thu, 26 Nov 2026 | Discoteca Botánica |  |
+| Fri, 27 Nov 2026 | Paloma Invites | Flemish.Fetish, Grace Sands |
+| Fri, 27 Nov 2026 | FULL DOSE RECORDS SOUNDCLASH : 10 YEARS OF FLAME @ Paloma |  |
 
 ## Address
 
 Skalitzer Str. 135, 10999 Berlin, Berlin
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/paloma/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/paloma/)*

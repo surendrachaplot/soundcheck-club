@@ -1,14 +1,13 @@
 # Toribio
 
-Toribio is a House and Disco artist with 8 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Bar Mezzo, Tampa Bay on Sat, 14 Nov 2026.
+Toribio is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Good Room, New York City on Fri, 20 Nov 2026.
 
-Toribio is a house and disco artist based in United States of America, with 238 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 24 more. Often billed alongside Mickey Perez, Love Injection and Guthrie. Next up: Bar Mezzo, Tampa Bay on Sat 14 Nov.
+Toribio is a house and disco artist based in United States of America, with 238 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 24 more. Often billed alongside Mickey Perez, Love Injection and Guthrie. Next up: Good Room, New York City on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Bar Mezzo | Tampa Bay |
 | Fri, 20 Nov 2026 | Good Room | New York City |
 | Sat, 21 Nov 2026 | Moondog Hifi | New York City |
 | Sat, 5 Dec 2026 | TV Lounge | Detroit |
@@ -19,6 +18,7 @@ Toribio is a house and disco artist based in United States of America, with 238 
 
 ## Recently played
 
+- Bar Mezzo, Tampa Bay · Sat, 14 Nov 2026
 - TBA - Little Shop of Soil, New York City · Sat, 7 Nov 2026
 - Loso, Richmond · Sat, 31 Oct 2026
 - TBA - Club House on Fulton, New York City · Sun, 25 Oct 2026
@@ -26,10 +26,9 @@ Toribio is a house and disco artist based in United States of America, with 238 
 - Djoon, Paris · Fri, 9 Oct 2026
 - Brooklyn Roots Collective, New York City · Fri, 2 Oct 2026
 - shyboy hifi, Dallas/Fort Worth · Fri, 25 Sept 2026
-- TBA - Club House, New York City · Sun, 20 Sept 2026
 
 ## Shares bills with
 
 Mickey Perez, Love Injection, Guthrie
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toribio/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toribio/)*

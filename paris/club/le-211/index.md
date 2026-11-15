@@ -1,6 +1,6 @@
 # Le 211
 
-Le 211 is a music venue in Paris with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Optimal Request X Fog" on Sun, 22 Nov 2026.
+Le 211 is a music venue in Paris with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Optimal Request X Fog" on Sun, 22 Nov 2026.
 
 Le 211 is a music venue in Paris listed on soundcheck. 3 upcoming gigs, with line-ups including 69DB, 6thFloor, BAGGA and Corbeille Dallas and 2 more. See dates, start times and who's playing. 211 Av. Jean Jaurès, 75019.
 
@@ -16,4 +16,4 @@ Le 211 is a music venue in Paris listed on soundcheck. 3 upcoming gigs, with lin
 
 211 Av. Jean Jaurès, 75019, Paris
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-211/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-211/)*

@@ -1,14 +1,13 @@
 # H0L0
 
-H0L0 is a music venue in New York City with 10 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "ReSolute with Dyed Soundorom" on Sat, 14 Nov 2026.
+H0L0 is a music venue in New York City with 9 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "BKG Takeover" on Thu, 19 Nov 2026.
 
-H0L0 is a music venue in New York City listed on soundcheck. 10 upcoming gigs, with line-ups including Abril IRL, Brett Johnson, CAMILLA and Danny Daze and 2 more. See dates, start times and who's playing. 1090 Wyckoff Ave, Queens, NY 11385, United States.
+H0L0 is a music venue in New York City listed on soundcheck. 9 upcoming gigs, with line-ups including Abril IRL, Brett Johnson, Danny Daze and Dee Diggs and 2 more. See dates, start times and who's playing. 1090 Wyckoff Ave, Queens, NY 11385, United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | ReSolute with Dyed Soundorom | CAMILLA, Dyed Soundorom, Joiah, Josefina Tapia (2), Rana Iravani, Shvili, Sky Rivers |
 | Thu, 19 Nov 2026 | BKG Takeover | NICHE (2), Sangarang |
 | Fri, 20 Nov 2026 | SHEILA | Dee Diggs, Gail Force One, MarceauxMarceaux, Neon Christina |
 | Sat, 21 Nov 2026 | MegaMilk | Leonardo Glovibes |
@@ -23,4 +22,4 @@ H0L0 is a music venue in New York City listed on soundcheck. 10 upcoming gigs, w
 
 1090 Wyckoff Ave, Queens, NY 11385, United States, New York City
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/h0l0/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/h0l0/)*

@@ -1,8 +1,8 @@
 # Vigo
 
-Vigo is a Afro House and Pop artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Trax Club, North on Sat, 21 Nov 2026.
+Vigo is a Afro House and Pop artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Trax Club, North on Sat, 21 Nov 2026.
 
-Vigo is an afro house and pop artist, with 5 gigs on soundcheck across Lyon, Madrid, New York City and North and 1 more. Often billed alongside Alexandre, Break A Leg and Dangermami. Next up: Trax Club, North on Sat 21 Nov.
+Vigo is an afro house and pop artist based in Germany, with 5 gigs on soundcheck across Lyon, Madrid, New York City and North and 1 more. Often billed alongside Alexandre, Break A Leg and Dangermami. Next up: Trax Club, North on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ Vigo is an afro house and pop artist, with 5 gigs on soundcheck across Lyon, Mad
 
 Alexandre, Break A Leg, Dangermami
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vigo/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vigo/)*

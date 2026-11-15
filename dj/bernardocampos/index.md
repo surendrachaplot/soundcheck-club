@@ -1,14 +1,15 @@
 # Bernardo Campos
 
-Bernardo Campos is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Secret, Rio de Janeiro on Fri, 20 Nov 2026.
+Bernardo Campos is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA - Secret, Rio de Janeiro on Fri, 20 Nov 2026.
 
-Bernardo Campos is a house and disco artist based in Brazil, with 40 gigs on soundcheck across Rio de Janeiro and Sao Paulo. Often billed alongside Leo Janeiro, Leo J and Marta Supernova. Next up: TBA - Secret, Rio de Janeiro on Fri 20 Nov.
+Bernardo Campos is a house and disco artist based in Brazil, with 41 gigs on soundcheck across Rio de Janeiro and Sao Paulo. Often billed alongside Leo Janeiro, Leo J and Marta Supernova. Next up: TBA - Secret, Rio de Janeiro on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | TBA - Secret | Rio de Janeiro |
+| Fri, 27 Nov 2026 | Fatchia | Rio de Janeiro |
 | Sat, 5 Dec 2026 | Marina Da Glória | Rio de Janeiro |
 
 ## Recently played
@@ -26,4 +27,4 @@ Bernardo Campos is a house and disco artist based in Brazil, with 40 gigs on sou
 
 Leo Janeiro, Leo J, Marta Supernova
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bernardocampos/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bernardocampos/)*

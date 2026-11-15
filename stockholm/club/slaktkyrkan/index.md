@@ -1,14 +1,13 @@
 # Slaktkyrkan
 
-Slaktkyrkan is a music venue in Stockholm with 6 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Hyperdrive - Zapravka" on Sat, 14 Nov 2026.
+Slaktkyrkan is a music venue in Stockholm with 5 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Rebūke - Stockholm" on Fri, 20 Nov 2026.
 
-Slaktkyrkan is a music venue in Stockholm listed on soundcheck. 6 upcoming gigs, with line-ups including Claire Hardman, Dillinja, HLZ and JONOS and 2 more. See dates, start times and who's playing. Styckmästargatan 10, 121 62 Johanneshov, Svezia.
+Slaktkyrkan is a music venue in Stockholm listed on soundcheck. 5 upcoming gigs, with line-ups including Dillinja, HLZ, JONOS and Nachtigaller and 2 more. See dates, start times and who's playing. Styckmästargatan 10, 121 62 Johanneshov, Svezia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Hyperdrive - Zapravka | Claire Hardman, yohan.aif |
 | Fri, 20 Nov 2026 | Rebūke - Stockholm | JONOS, Rebuke |
 | Sat, 28 Nov 2026 | DIMENSION - TECHNO STOCKHOLM — 3RD ANNIVERSARY | Nachtigaller, TBA |
 | Sat, 5 Dec 2026 | Metalheadz Blue Note Sessions: Dillinja + Zero T + HLZ + shanlifiction + Limbz - Slaktkyrkan | Dillinja, HLZ (2), Zero T, shanlifiction |
@@ -19,4 +18,4 @@ Slaktkyrkan is a music venue in Stockholm listed on soundcheck. 6 upcoming gigs,
 
 Styckmästargatan 10, 121 62 Johanneshov, Svezia, Stockholm
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/slaktkyrkan/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/slaktkyrkan/)*

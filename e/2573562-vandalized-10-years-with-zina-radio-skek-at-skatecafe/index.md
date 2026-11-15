@@ -1,6 +1,6 @@
 # VANDALIZED 10 YEARS WITH ZINA RADIO & SKEK at Skatecafe
 
-VANDALIZED 10 YEARS WITH ZINA RADIO & SKEK at Skatecafe on Fri 20 Nov, Amsterdam. 4 artists: Jarreau Vandal, Nooriyah, Opium Hum and R2R. Bass and Afrobeat. See the line-up on soundcheck.
+VANDALIZED 10 YEARS WITH ZINA RADIO & SKEK at Skatecafe on Fri 20 Nov, Amsterdam. 4 artists: Jarreau Vandal, Nooriyah, Opium Hum and R2R. Afrobeat and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

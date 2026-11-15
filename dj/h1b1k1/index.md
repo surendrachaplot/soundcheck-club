@@ -1,14 +1,15 @@
 # H1b1k1
 
-H1b1k1 is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Panorama Ocean View Cottage, Okinawa on Sun, 22 Nov 2026.
+H1b1k1 is a Acid and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Panorama Ocean View Cottage, Okinawa on Sun, 22 Nov 2026.
 
-H1b1k1 is an acid and house artist based in Japan, with 9 gigs on soundcheck across Okinawa. Often billed alongside A-Tweed, Thomass Jackson and Aja (FR). Next up: Panorama Ocean View Cottage, Okinawa on Sun 22 Nov.
+H1b1k1 is an acid and house artist based in Japan, with 10 gigs on soundcheck across Okinawa. Often billed alongside A-Tweed, Thomass Jackson and Aja (FR). Next up: Panorama Ocean View Cottage, Okinawa on Sun 22 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 22 Nov 2026 | Panorama Ocean View Cottage | Okinawa |
+| Sat, 28 Nov 2026 | Aien Coffee And Hostel | Okinawa |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ H1b1k1 is an acid and house artist based in Japan, with 9 gigs on soundcheck acr
 
 A-Tweed, Thomass Jackson, Aja (FR)
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/h1b1k1/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/h1b1k1/)*

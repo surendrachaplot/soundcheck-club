@@ -1,14 +1,13 @@
 # Miss Bashful
 
-Miss Bashful is a Techno and Trance artist with 11 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at La Machine Du Moulin Rouge, Paris on Sat, 14 Nov 2026.
+Miss Bashful is a Techno and Trance artist with 10 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA - Brussels, Brussels on Sat, 21 Nov 2026.
 
-Miss Bashful is a techno and trance artist based in Germany, with 118 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 47 more. Often billed alongside DBBD, Miss Bashful x DBBD and MCR-T. Next up: La Machine Du Moulin Rouge, Paris on Sat 14 Nov.
+Miss Bashful is a techno and trance artist based in Germany, with 118 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 47 more. Often billed alongside DBBD, Miss Bashful x DBBD and MCR-T. Next up: TBA - Brussels, Brussels on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | La Machine Du Moulin Rouge | Paris |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
 | Sat, 21 Nov 2026 | Fuse | Brussels |
 | Sat, 5 Dec 2026 | Electric Brixton | London |
@@ -22,6 +21,7 @@ Miss Bashful is a techno and trance artist based in Germany, with 118 gigs on so
 
 ## Recently played
 
+- La Machine Du Moulin Rouge, Paris · Sat, 14 Nov 2026
 - Nitsa Club, Barcelona · Fri, 30 Oct 2026
 - Den Anden Side, Copenhagen · Fri, 23 Oct 2026
 - Studio1111, Berlin · Fri, 16 Oct 2026
@@ -29,10 +29,9 @@ Miss Bashful is a techno and trance artist based in Germany, with 118 gigs on so
 - Club Phoenix - Gianpula Village, Malta · Sat, 29 Aug 2026
 - Schrotty, Cologne · Fri, 28 Aug 2026
 - Phoxxi Green Area, Hamburg · Sat, 22 Aug 2026
-- Komplex Berlin, Berlin · Sat, 25 Jul 2026
 
 ## Shares bills with
 
 DBBD, Miss Bashful x DBBD, MCR-T
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/missbashful/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/missbashful/)*

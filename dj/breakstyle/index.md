@@ -1,6 +1,6 @@
 # BreakStyle
 
-BreakStyle is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at M7 Club, Barcelona on Thu, 12 Nov 2026.
+BreakStyle is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at M7 Club, Barcelona on Thu, 12 Nov 2026.
 
 BreakStyle is a techno and electronica artist based in Spain, with 19 gigs on soundcheck across Barcelona. Often billed alongside Adviro, Xavi BCN and Flores. Next up: M7 Club, Barcelona on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ BreakStyle is a techno and electronica artist based in Spain, with 19 gigs on so
 
 Adviro, Xavi BCN, Flores
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/breakstyle/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/breakstyle/)*

@@ -1,6 +1,6 @@
 # Buena Tarde
 
-Buena Tarde is a Electronica and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at C3 Rooftop, Guadalajara on Sun, 6 Dec 2026.
+Buena Tarde is a Electronica and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at C3 Rooftop, Guadalajara on Sun, 6 Dec 2026.
 
 Buena Tarde is an electronica and bass artist based in Mexico, with 53 gigs on soundcheck across Guadalajara, Mexico City and Prague. Often billed alongside Sinxstxsia, Kozovo and Delise. Next up: C3 Rooftop, Guadalajara on Sun 6 Dec.
 
@@ -25,4 +25,4 @@ Buena Tarde is an electronica and bass artist based in Mexico, with 53 gigs on s
 
 Sinxstxsia, Kozovo, Delise
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/buenatarde/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/buenatarde/)*

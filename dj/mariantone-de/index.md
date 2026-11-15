@@ -1,6 +1,6 @@
 # Marian Tone
 
-Marian Tone is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Gretchen, Berlin on Sun, 7 Feb 2027.
+Marian Tone is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Gretchen, Berlin on Sun, 7 Feb 2027.
 
 Marian Tone is a house and funk / soul artist based in Germany, with 32 gigs on soundcheck across Berlin and London. Often billed alongside Paulita, Shahrokh and Tom Kutsche. Next up: Gretchen, Berlin on Sun 7 Feb.
 
@@ -25,4 +25,4 @@ Marian Tone is a house and funk / soul artist based in Germany, with 32 gigs on 
 
 Paulita, Shahrokh, Tom Kutsche
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mariantone-de/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mariantone-de/)*

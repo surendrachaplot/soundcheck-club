@@ -1,19 +1,19 @@
 # Tripleset
 
-Tripleset is a Garage and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at The Midway, San Francisco/Oakland on Sat, 14 Nov 2026.
+Tripleset is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at The Faight, San Francisco/Oakland on Fri, 27 Nov 2026.
 
-Tripleset is a garage and house artist based in United States of America, with 19 gigs on soundcheck across Denver and San Francisco/Oakland. Often billed alongside That Franco, Alex Edward and Neumonic. Next up: The Midway, San Francisco/Oakland on Sat 14 Nov.
+Tripleset is a garage and house artist based in United States of America, with 19 gigs on soundcheck across Denver and San Francisco/Oakland. Often billed alongside That Franco, Alex Edward and Neumonic. Next up: The Faight, San Francisco/Oakland on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | The Midway | San Francisco/Oakland |
 | Fri, 27 Nov 2026 | The Faight | San Francisco/Oakland |
 | Sat, 12 Dec 2026 | IO Music Academy SF | San Francisco/Oakland |
 
 ## Recently played
 
+- The Midway, San Francisco/Oakland · Sat, 14 Nov 2026
 - IO Music Academy SF, San Francisco/Oakland · Sat, 19 Sept 2026
 - IO Music Academy SF, San Francisco/Oakland · Sat, 6 Jun 2026
 - 1015 Folsom, San Francisco/Oakland · Fri, 1 May 2026
@@ -21,10 +21,9 @@ Tripleset is a garage and house artist based in United States of America, with 1
 - IO Music Academy SF, San Francisco/Oakland · Thu, 11 Dec 2025
 - Monarch, San Francisco/Oakland · Sat, 6 Dec 2025
 - IO Music Academy SF, San Francisco/Oakland · Thu, 4 Dec 2025
-- 1015 Folsom, San Francisco/Oakland · Fri, 28 Nov 2025
 
 ## Shares bills with
 
 That Franco, Alex Edward, Neumonic
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tripleset/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tripleset/)*

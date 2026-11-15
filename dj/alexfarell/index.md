@@ -1,24 +1,25 @@
 # Alex Farell
 
-Alex Farell is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Pier 48's Shed A, San Francisco/Oakland on Sat, 14 Nov 2026.
+Alex Farell is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Peti Kupe, Zagreb on Fri, 20 Nov 2026.
 
-Alex Farell is a techno and trance artist based in United Kingdom, with 132 gigs on soundcheck across Aberdeen, Amsterdam, Barcelona and Belfast and 44 more. Often billed alongside SIKOTI, Azyr and Faster Horses. Next up: Pier 48's Shed A, San Francisco/Oakland on Sat 14 Nov.
+Alex Farell is a techno and trance artist based in United Kingdom, with 133 gigs on soundcheck across Aberdeen, Amsterdam, Barcelona and Belfast and 44 more. Often billed alongside SIKOTI, Azyr and Faster Horses. Next up: Peti Kupe, Zagreb on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Pier 48's Shed A | San Francisco/Oakland |
 | Fri, 20 Nov 2026 | Peti Kupe | Zagreb |
 | Sat, 21 Nov 2026 | Electric Brixton | London |
 | Fri, 27 Nov 2026 | Mint XL | Leeds |
 | Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
 | Sat, 19 Dec 2026 | DRUMSHEDS | London |
 | Sat, 19 Dec 2026 | DRUMSHEDS | London |
+| Fri, 12 Feb 2027 | 24 Kitchen Street | Liverpool |
 | Sat, 27 Feb 2027 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |
 
 ## Recently played
 
+- Pier 48's Shed A, San Francisco/Oakland · Sat, 14 Nov 2026
 - Silo Dallas, Dallas/Fort Worth · Sun, 8 Nov 2026
 - Elsewhere, New York City · Fri, 6 Nov 2026
 - The Liquid Room, Edinburgh · Sat, 24 Oct 2026
@@ -26,10 +27,9 @@ Alex Farell is a techno and trance artist based in United Kingdom, with 132 gigs
 - OST, Berlin · Sat, 22 Aug 2026
 - TBA - Secret Location, London · Thu, 20 Aug 2026
 - Munich Beach Resort, Munich · Sat, 8 Aug 2026
-- Bowlers Exhibition Centre, Manchester · Sat, 1 Aug 2026
 
 ## Shares bills with
 
 SIKOTI, Azyr, Faster Horses
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexfarell/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexfarell/)*

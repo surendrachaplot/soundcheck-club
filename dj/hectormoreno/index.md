@@ -1,6 +1,6 @@
 # Hector Moreno
 
-Hector Moreno is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Weetamix, Geneva on Fri, 4 Dec 2026.
+Hector Moreno is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Weetamix, Geneva on Fri, 4 Dec 2026.
 
 Hector Moreno is a house and techno artist based in Switzerland, with 69 gigs on soundcheck across Amsterdam, Bali, Berlin and Geneva and 4 more. Often billed alongside Fernando De Matos, Master M and SamC. Next up: Weetamix, Geneva on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Hector Moreno is a house and techno artist based in Switzerland, with 69 gigs on
 
 Fernando De Matos, Master M, SamC
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hectormoreno/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hectormoreno/)*

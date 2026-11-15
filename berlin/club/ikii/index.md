@@ -1,6 +1,6 @@
 # Ikii
 
-Ikii is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "subsidence part one" on Sun, 15 Nov 2026.
+Ikii is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "subsidence part one" on Sun, 15 Nov 2026.
 
 Ikii is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including 0dysseus, Andrea Ida, annna and Der Opium Queen and 2 more. See dates, start times and who's playing. Herrfurthplatz 8, 12049 Berlin, Germany.
 
@@ -17,4 +17,4 @@ Ikii is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line
 
 Herrfurthplatz 8, 12049 Berlin, Germany, Berlin
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ikii/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ikii/)*

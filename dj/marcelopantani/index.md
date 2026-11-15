@@ -1,6 +1,6 @@
 # Marcelo Pantani
 
-Marcelo Pantani is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Club Malasaña, Madrid on Sat, 21 Nov 2026.
+Marcelo Pantani is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Club Malasaña, Madrid on Sat, 21 Nov 2026.
 
 Marcelo Pantani is a house and electronica artist based in Spain, with 46 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Nile Fee, John Heaven and Daniel 2000. Next up: Club Malasaña, Madrid on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Marcelo Pantani is a house and electronica artist based in Spain, with 46 gigs o
 
 Nile Fee, John Heaven, Daniel 2000
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelopantani/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelopantani/)*

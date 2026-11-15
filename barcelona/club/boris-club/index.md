@@ -1,14 +1,13 @@
 # BORIS CLUB
 
-BORIS CLUB is a music venue in Barcelona with 10 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "BORIS CLUB: Notre Dame presents PARANORMAL" on Sat, 14 Nov 2026.
+BORIS CLUB is a music venue in Barcelona with 9 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "BORIS CLUB pres MOUSSE T" on Fri, 20 Nov 2026.
 
-BORIS CLUB is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs, with line-ups including Andrea Oliva, Andre Buljat, Chris Main and DJ Oliver and 2 more. See dates, start times and who's playing. Carrer de Bori i FontestÃ , 25, SarriÃ -Sant Gervasi, 08021 Barcelona [2].
+BORIS CLUB is a music venue in Barcelona listed on soundcheck. 9 upcoming gigs, with line-ups including Andrea Oliva, Andre Buljat, Chris Main and DJ Oliver and 2 more. See dates, start times and who's playing. Carrer de Bori i FontestÃ , 25, SarriÃ -Sant Gervasi, 08021 Barcelona [2].
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | BORIS CLUB: Notre Dame presents PARANORMAL | HeAndMe, Notre Dame, Pole Position |
 | Fri, 20 Nov 2026 | BORIS CLUB pres MOUSSE T | Mousse T. |
 | Sat, 21 Nov 2026 | BORIS CLUB | K:ROL |
 | Sat, 21 Nov 2026 | The Fun House X BORIS (DAYTIME) | Chris Main, DJ Oliver, Vidaloca |
@@ -23,4 +22,4 @@ BORIS CLUB is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs,
 
 Carrer de Bori i FontestÃ , 25, SarriÃ -Sant Gervasi, 08021 Barcelona [2], Barcelona
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/boris-club/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/boris-club/)*

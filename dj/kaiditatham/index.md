@@ -1,18 +1,18 @@
 # Kaidi Tatham
 
-Kaidi Tatham is a House and Jazz artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Kauz, Zurich on Sat, 14 Nov 2026.
+Kaidi Tatham is a House and Jazz artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at The Carpet Shop, London on Sun, 13 Dec 2026.
 
-Kaidi Tatham is a house and jazz artist based in United Kingdom, with 23 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 6 more. Often billed alongside Patrick Gibin, Sassy J and Alexander Nut. Next up: Kauz, Zurich on Sat 14 Nov.
+Kaidi Tatham is a house and jazz artist based in United Kingdom, with 23 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 6 more. Often billed alongside Patrick Gibin, Sassy J and Alexander Nut. Next up: The Carpet Shop, London on Sun 13 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Kauz | Zurich |
 | Sun, 13 Dec 2026 | The Carpet Shop | London |
 
 ## Recently played
 
+- Kauz, Zurich · Sat, 14 Nov 2026
 - DURO, Milan · Sun, 8 Nov 2026
 - Lost Horizon, Bristol · Thu, 15 Oct 2026
 - Vittoria Wharf Studio, London · Sat, 16 May 2026
@@ -20,10 +20,9 @@ Kaidi Tatham is a house and jazz artist based in United Kingdom, with 23 gigs on
 - Corsica Studios, London · Fri, 27 Jun 2025
 - La Paloma, Barcelona · Sat, 24 May 2025
 - La Bellevilloise, Paris · Sat, 12 Apr 2025
-- Colour Factory, London · Sat, 29 Mar 2025
 
 ## Shares bills with
 
 Patrick Gibin, Sassy J, Alexander Nut
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaiditatham/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaiditatham/)*

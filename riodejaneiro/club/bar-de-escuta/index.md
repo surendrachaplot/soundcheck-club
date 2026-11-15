@@ -1,14 +1,13 @@
 # Bar de Escuta
 
-Bar de Escuta is a music venue in Rio de Janeiro with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Escuta Recebe: Baume" on Sat, 14 Nov 2026.
+Bar de Escuta is a music venue in Rio de Janeiro with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. The next is "Escuta Recebe: Letgabs" on Sun, 15 Nov 2026.
 
-Bar de Escuta is a music venue in Rio de Janeiro listed on soundcheck. 2 upcoming gigs, with line-ups including Baume and LETGABS. See dates, start times and who's playing.
+Bar de Escuta is a music venue in Rio de Janeiro listed on soundcheck. 1 upcoming gig, with line-ups including LETGABS. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Escuta Recebe: Baume | Baume |
 | Sun, 15 Nov 2026 | Escuta Recebe: Letgabs | LETGABS |
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/riodejaneiro/club/bar-de-escuta/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/riodejaneiro/club/bar-de-escuta/)*

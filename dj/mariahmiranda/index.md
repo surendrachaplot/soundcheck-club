@@ -1,6 +1,6 @@
 # Mariah Miranda
 
-Mariah Miranda is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - SACADURA CABRAL 147, SAÚDE, RIO DE JANEIRO, Rio de Janeiro on Thu, 19 Nov 2026.
+Mariah Miranda is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA - SACADURA CABRAL 147, SAÚDE, RIO DE JANEIRO, Rio de Janeiro on Thu, 19 Nov 2026.
 
 Mariah Miranda is a techno and house artist based in Brazil, with 26 gigs on soundcheck across Amsterdam, Munich, Rio de Janeiro and Sao Paulo. Often billed alongside Gustabby, Jacquelone and Cuca. Next up: TBA - SACADURA CABRAL 147, SAÚDE, RIO DE JANEIRO, Rio de Janeiro on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Mariah Miranda is a techno and house artist based in Brazil, with 26 gigs on sou
 
 Gustabby, Jacquelone, Cuca
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mariahmiranda/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mariahmiranda/)*

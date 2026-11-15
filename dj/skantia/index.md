@@ -1,13 +1,15 @@
 # Skantia
 
-Skantia is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Wollaton Park, Nottingham on Sat, 5 Jun 2027.
+Skantia is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at 02 Victoria Warehouse, Manchester on Fri, 20 Nov 2026.
 
-Skantia is a drum & bass and bass artist based in United Kingdom, with 59 gigs on soundcheck across Amsterdam, Auckland, Birmingham and Brighton and 23 more. Often billed alongside Simula, Disrupta and K Motionz. Next up: Wollaton Park, Nottingham on Sat 5 Jun.
+Skantia is a drum & bass and bass artist based in United Kingdom, with 61 gigs on soundcheck across Amsterdam, Auckland, Birmingham and Brighton and 23 more. Often billed alongside Simula, Disrupta and K Motionz. Next up: 02 Victoria Warehouse, Manchester on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | 02 Victoria Warehouse | Manchester |
+| Sat, 12 Dec 2026 | Grelle Forelle | Vienna |
 | Sat, 5 Jun 2027 | Wollaton Park | Nottingham |
 
 ## Recently played
@@ -25,4 +27,4 @@ Skantia is a drum & bass and bass artist based in United Kingdom, with 59 gigs o
 
 Simula, Disrupta, K Motionz
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skantia/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skantia/)*

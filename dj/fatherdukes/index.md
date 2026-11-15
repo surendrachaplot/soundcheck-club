@@ -1,14 +1,15 @@
 # Father Dukes
 
-Father Dukes is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Northern Lights Lounge, Detroit on Wed, 25 Nov 2026.
+Father Dukes is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Northern Lights Lounge, Detroit on Wed, 25 Nov 2026.
 
-Father Dukes is a house and techno artist based in United States of America, with 125 gigs on soundcheck across Chicago, Detroit, Los Angeles and New York City and 4 more. Often billed alongside Ryan Spencer, Scott Zacharias and Ladylike. Next up: Northern Lights Lounge, Detroit on Wed 25 Nov.
+Father Dukes is a house and techno artist based in United States of America, with 126 gigs on soundcheck across Chicago, Detroit, Los Angeles and New York City and 4 more. Often billed alongside Ryan Spencer, Scott Zacharias and Ladylike. Next up: Northern Lights Lounge, Detroit on Wed 25 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 25 Nov 2026 | Northern Lights Lounge | Detroit |
+| Sat, 5 Dec 2026 | St Anne's Parish Hall | Toronto |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Father Dukes is a house and techno artist based in United States of America, wit
 
 Ryan Spencer, Scott Zacharias, Ladylike
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fatherdukes/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fatherdukes/)*

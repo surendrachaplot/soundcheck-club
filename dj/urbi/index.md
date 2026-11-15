@@ -1,18 +1,18 @@
 # Urbi
 
-Urbi is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at The Underbank, Manchester on Sat, 14 Nov 2026.
+Urbi is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at 26 Leake Street, London on Fri, 27 Nov 2026.
 
-Urbi is a house and deep house artist based in United Kingdom, with 61 gigs on soundcheck across Amsterdam, Budapest, Glasgow and Leeds and 3 more. Often billed alongside Hayley Zalassi, SAVANNAHH and Levi Love. Next up: The Underbank, Manchester on Sat 14 Nov.
+Urbi is a house and deep house artist based in United Kingdom, with 61 gigs on soundcheck across Amsterdam, Budapest, Glasgow and Leeds and 3 more. Often billed alongside Hayley Zalassi, SAVANNAHH and Levi Love. Next up: 26 Leake Street, London on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | The Underbank | Manchester |
 | Fri, 27 Nov 2026 | 26 Leake Street | London |
 
 ## Recently played
 
+- The Underbank, Manchester · Sat, 14 Nov 2026
 - Electric Pizza Shop, Manchester · Fri, 13 Nov 2026
 - renae, Manchester · Sat, 31 Oct 2026
 - Duke Of Tokyo, Amsterdam · Thu, 22 Oct 2026
@@ -20,10 +20,9 @@ Urbi is a house and deep house artist based in United Kingdom, with 61 gigs on s
 - renae, Manchester · Fri, 18 Sept 2026
 - renae, Manchester · Fri, 7 Aug 2026
 - Hidden, Manchester · Fri, 17 Jul 2026
-- Soup, Manchester · Sat, 4 Jul 2026
 
 ## Shares bills with
 
 Hayley Zalassi, SAVANNAHH, Levi Love
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/urbi/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/urbi/)*

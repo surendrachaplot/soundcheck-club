@@ -1,14 +1,13 @@
 # EartH
 
-EartH is a music venue in London with 13 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Pola & Bryson Live (World Debut)" on Sat, 14 Nov 2026.
+EartH is a music venue in London with 12 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "EartH presents Gigi Masin" on Wed, 18 Nov 2026.
 
-EartH is a music venue in London listed on soundcheck. 13 upcoming gigs, with line-ups including Abdullah Miniawy, Anz, The Avalanches and Buttechno and 2 more. See dates, start times and who's playing. 13 Stoke Newington Rd, Stoke Newington, London N16 8BH, UK.
+EartH is a music venue in London listed on soundcheck. 12 upcoming gigs, with line-ups including Abdullah Miniawy, Anz, The Avalanches and Buttechno and 2 more. See dates, start times and who's playing. 13 Stoke Newington Rd, Stoke Newington, London N16 8BH, UK.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Pola & Bryson Live (World Debut) | Pola & Bryson |
 | Wed, 18 Nov 2026 | EartH presents Gigi Masin | Gigi Masin, Tony Njoku |
 | Fri, 20 Nov 2026 | The Avalanches (DJ) + Logic1000  very special guest | Logic1000, The Avalanches |
 | Sat, 21 Nov 2026 | Mietze Conte - EartH Hall | Kid on Air, Mietze Conte |
@@ -18,9 +17,10 @@ EartH is a music venue in London listed on soundcheck. 13 upcoming gigs, with li
 | Sat, 5 Dec 2026 | Holy Tongue, Shackleton, James Massiah, and Regina Collage | James Massiah, Shackleton |
 | Mon, 7 Dec 2026 | Yawning Portal + merely & Niko Demus | Niko Demus, Yawning Portal, merely |
 | Sat, 12 Dec 2026 | Origins: DjRUM (All Night Long) | DjRUM |
+| Sat, 19 Dec 2026 | London Something: Jungle Drum & Bass in the Heart of Hackney | DJ Brockie, Eksman, Logan D, SAVANNAH |
 
 ## Address
 
 13 Stoke Newington Rd, Stoke Newington, London N16 8BH, UK, London
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/earth/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/earth/)*

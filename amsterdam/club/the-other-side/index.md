@@ -1,14 +1,13 @@
 # THE OTHER SIDE
 
-THE OTHER SIDE is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "FULL CYCLE invites 'The Art of Sound' by Groove Atelier" on Sat, 14 Nov 2026.
+THE OTHER SIDE is a music venue in Amsterdam with 6 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "BOPS • queer. pop. party" on Fri, 27 Nov 2026.
 
-THE OTHER SIDE is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs, with line-ups including Absoluut, Bass Btch, Budakid and Cote de Boeuf and the Elegant 1 and 2 more. See dates, start times and who's playing. Rigakade 10, 1013BC, Amsterdam, The Netherlands.
+THE OTHER SIDE is a music venue in Amsterdam listed on soundcheck. 6 upcoming gigs, with line-ups including Absoluut, Bass Btch, Budakid and Cote de Boeuf and the Elegant 1 and 2 more. See dates, start times and who's playing. Rigakade 10, 1013BC, Amsterdam, The Netherlands.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | FULL CYCLE invites 'The Art of Sound' by Groove Atelier |  |
 | Fri, 27 Nov 2026 | BOPS • queer. pop. party | Absoluut, Bass Btch, FREY., TMORGZ |
 | Sat, 28 Nov 2026 | THE OTHER SIDE presents: Sama' Abdulhadi | Sama' Abdulhadi |
 | Sat, 19 Dec 2026 | 3000Grad at The Otherside | WOODKIN |
@@ -20,4 +19,4 @@ THE OTHER SIDE is a music venue in Amsterdam listed on soundcheck. 7 upcoming gi
 
 Rigakade 10, 1013BC, Amsterdam, The Netherlands, Amsterdam
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/the-other-side/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/the-other-side/)*

@@ -1,14 +1,13 @@
 # DJ Rap
 
-DJ Rap is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Outernet Live, London on Sat, 14 Nov 2026.
+DJ Rap is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Sidney & Matilda, Sheffield on Fri, 27 Nov 2026.
 
-DJ Rap is a drum & bass and jungle artist based in United States of America, with 40 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Bristol and 9 more. Often billed alongside Nicky Blackmarket, DJ Hype and Navigator. Next up: Outernet Live, London on Sat 14 Nov.
+DJ Rap is a drum & bass and jungle artist based in United States of America, with 40 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Bristol and 9 more. Often billed alongside Nicky Blackmarket, DJ Hype and Navigator. Next up: Sidney & Matilda, Sheffield on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Outernet Live | London |
 | Fri, 27 Nov 2026 | Sidney & Matilda | Sheffield |
 | Sat, 12 Dec 2026 | Hootananny Brixton | London |
 | Thu, 31 Dec 2026 | Fire | London |
@@ -16,6 +15,7 @@ DJ Rap is a drum & bass and jungle artist based in United States of America, wit
 
 ## Recently played
 
+- Outernet Live, London · Sat, 14 Nov 2026
 - NOWHERE, Manchester · Sat, 3 Oct 2026
 - Studio 338, London · Sat, 26 Sept 2026
 - Depot, Cardiff · Sat, 19 Sept 2026
@@ -23,10 +23,9 @@ DJ Rap is a drum & bass and jungle artist based in United States of America, wit
 - The Social, London · Sat, 29 Aug 2026
 - Bowlers Exhibition Centre, Manchester · Sat, 2 May 2026
 - The Fox and Firkin, London · Sat, 4 Apr 2026
-- HERE, London · Sat, 14 Mar 2026
 
 ## Shares bills with
 
 Nicky Blackmarket, DJ Hype, Navigator
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djrap/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djrap/)*

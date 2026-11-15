@@ -1,13 +1,14 @@
 # Roman Adam
 
-Roman Adam is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Kater, Berlin on Sat, 12 Dec 2026.
+Roman Adam is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Lieberscholli, Munich on Fri, 11 Dec 2026.
 
-Roman Adam is a techno and house artist based in Germany, with 46 gigs on soundcheck across Berlin, Cape Town, Cologne and Copenhagen and 4 more. Often billed alongside Kaufmann, TiM TASTE and Baba The Knife. Next up: Kater, Berlin on Sat 12 Dec.
+Roman Adam is a techno and house artist based in Germany, with 47 gigs on soundcheck across Berlin, Cape Town, Cologne and Copenhagen and 4 more. Often billed alongside Kaufmann, TiM TASTE and Baba The Knife. Next up: Lieberscholli, Munich on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Dec 2026 | Lieberscholli | Munich |
 | Sat, 12 Dec 2026 | Kater | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Roman Adam is a techno and house artist based in Germany, with 46 gigs on soundc
 
 Kaufmann, TiM TASTE, Baba The Knife
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/romanadam/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/romanadam/)*

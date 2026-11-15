@@ -1,13 +1,14 @@
 # MoBlack
 
-MoBlack is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at KOKO, London on Sat, 19 Dec 2026.
+MoBlack is a Afro House and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Klein Phönix, Istanbul on Sat, 28 Nov 2026.
 
-MoBlack is an afro house and house artist based in Italy, with 100 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 44 more. Often billed alongside Francis Mercier, Nitefreak and FALYN. Next up: KOKO, London on Sat 19 Dec.
+MoBlack is an afro house and house artist based in Italy, with 101 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 44 more. Often billed alongside Francis Mercier, Nitefreak and FALYN. Next up: Klein Phönix, Istanbul on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | Klein Phönix | Istanbul |
 | Sat, 19 Dec 2026 | KOKO | London |
 | Mon, 21 Dec 2026 | TBA | Uruguay |
 
@@ -26,4 +27,4 @@ MoBlack is an afro house and house artist based in Italy, with 100 gigs on sound
 
 Francis Mercier, Nitefreak, FALYN
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moblack/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moblack/)*

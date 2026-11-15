@@ -1,6 +1,6 @@
 # Palmi
 
-Palmi is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at CHICO, Mexico City on Sat, 21 Nov 2026.
+Palmi is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at CHICO, Mexico City on Sat, 21 Nov 2026.
 
 Palmi is a house and electronica artist based in France, with 32 gigs on soundcheck across Mexico City, Paris and Vienna. Often billed alongside papa jazz, Soos and MNTY. Next up: CHICO, Mexico City on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Palmi is a house and electronica artist based in France, with 32 gigs on soundch
 
 papa jazz, Soos, MNTY
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/palmi/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/palmi/)*

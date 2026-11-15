@@ -1,6 +1,6 @@
 # Mira
 
-Mira is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Odonien, Cologne on Fri, 20 Nov 2026.
+Mira is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Odonien, Cologne on Fri, 20 Nov 2026.
 
 Mira is a house and techno artist based in Germany, with 212 gigs on soundcheck across Amsterdam, Athens, Austin and Bangkok and 45 more. Often billed alongside Chris Schwarzwälder, Britta Arnold and Caleesi. Next up: Odonien, Cologne on Fri 20 Nov.
 
@@ -29,4 +29,4 @@ Mira is a house and techno artist based in Germany, with 212 gigs on soundcheck 
 
 Chris Schwarzwälder, Britta Arnold, Caleesi
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mira/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mira/)*

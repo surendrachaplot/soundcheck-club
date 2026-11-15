@@ -1,6 +1,6 @@
 # KitKatClub
 
-KitKatClub is a music venue in Berlin with 23 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Nacktfleisch - Berlin Queer Naked Party (All Genders)" on Sun, 15 Nov 2026.
+KitKatClub is a music venue in Berlin with 23 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Nacktfleisch - Berlin Queer Naked Party (All Genders)" on Sun, 15 Nov 2026.
 
 KitKatClub is a music venue in Berlin listed on soundcheck. 23 upcoming gigs, with line-ups including ADAM MUNNINGS, Ari Denaro, BearoOo and Bert and 2 more. See dates, start times and who's playing. Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany.
 
@@ -23,4 +23,4 @@ KitKatClub is a music venue in Berlin listed on soundcheck. 23 upcoming gigs, wi
 
 Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany, Berlin
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kitkatclub/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kitkatclub/)*

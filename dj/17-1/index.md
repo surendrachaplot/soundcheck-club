@@ -1,6 +1,6 @@
 # 1 7 (1)
 
-1 7 (1) is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at 1756 Naud St., Los Angeles on Sat, 14 Nov 2026.
+1 7 (1) is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at 1756 Naud St., Los Angeles on Sat, 14 Nov 2026.
 
 1 7 is a techno artist based in Croatia, with 6 gigs on soundcheck across Los Angeles and Zagreb. Often billed alongside 214, Cevi and Circle (US). Next up: 1756 Naud St., Los Angeles on Sat 14 Nov.
 
@@ -12,6 +12,7 @@
 
 ## Recently played
 
+- 1756 Naud St., Los Angeles · Sat, 14 Nov 2026
 - Depo Klub, Zagreb · Fri, 30 Oct 2026
 - Depo Klub, Zagreb · Fri, 19 Jun 2026
 - Depo Klub, Zagreb · Fri, 15 May 2026
@@ -22,4 +23,4 @@
 
 214, Cevi, Circle (US)
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/17-1/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/17-1/)*

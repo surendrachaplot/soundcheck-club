@@ -1,6 +1,6 @@
 # DJ Fuckoff
 
-DJ Fuckoff is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at glimmer, Hamburg on Fri, 20 Nov 2026.
+DJ Fuckoff is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at glimmer, Hamburg on Fri, 20 Nov 2026.
 
 DJ Fuckoff is a techno and house artist based in Germany, with 202 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 68 more. Often billed alongside DJ AYA, Anetha and DJ Gigola. Next up: glimmer, Hamburg on Fri 20 Nov.
 
@@ -34,4 +34,4 @@ DJ Fuckoff is a techno and house artist based in Germany, with 202 gigs on sound
 
 DJ AYA, Anetha, DJ Gigola
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djfuckoff/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djfuckoff/)*

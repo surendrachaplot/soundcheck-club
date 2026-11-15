@@ -1,14 +1,13 @@
 # Carpet (F.L.H.P)
 
-Carpet (F.L.H.P) is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at ErF Studios, New York City on Fri, 13 Nov 2026.
+Carpet (F.L.H.P) is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Outer Heaven, New York City on Fri, 18 Dec 2026.
 
-Carpet (F.L.H.P) is an experimental and electronica artist based in United States of America, with 18 gigs on soundcheck across Mexico City and New York City. Often billed alongside MARBLE RYE, Second Contact and Concret. Next up: ErF Studios, New York City on Fri 13 Nov.
+Carpet (F.L.H.P) is an experimental and electronica artist based in United States of America, with 18 gigs on soundcheck across Mexico City and New York City. Often billed alongside MARBLE RYE, Second Contact and Concret. Next up: Outer Heaven, New York City on Fri 18 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | ErF Studios | New York City |
 | Fri, 18 Dec 2026 | Outer Heaven | New York City |
 
 ## Recently played
@@ -26,4 +25,4 @@ Carpet (F.L.H.P) is an experimental and electronica artist based in United State
 
 MARBLE RYE, Second Contact, Concret
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carpetf.l.h.p/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carpetf.l.h.p/)*

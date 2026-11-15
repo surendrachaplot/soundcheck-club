@@ -1,14 +1,13 @@
 # Larry Cadge
 
-Larry Cadge is a House and Minimal artist with 8 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Colour Factory, London on Sat, 14 Nov 2026.
+Larry Cadge is a House and Minimal artist with 7 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Colour Factory, London on Sat, 19 Dec 2026.
 
-Larry Cadge is a house and minimal artist based in United Kingdom, with 62 gigs on soundcheck across Barcelona, London and Milan. Often billed alongside Andrea Giudice, Irren and Mono Dust_. Next up: Colour Factory, London on Sat 14 Nov.
+Larry Cadge is a house and minimal artist based in United Kingdom, with 62 gigs on soundcheck across Barcelona, London and Milan. Often billed alongside Andrea Giudice, Irren and Mono Dust_. Next up: Colour Factory, London on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Colour Factory | London |
 | Sat, 19 Dec 2026 | Colour Factory | London |
 | Thu, 31 Dec 2026 | TBA - Hackney Wick Secret Location | London |
 | Sat, 16 Jan 2027 | Colour Factory | London |
@@ -19,6 +18,7 @@ Larry Cadge is a house and minimal artist based in United Kingdom, with 62 gigs 
 
 ## Recently played
 
+- Colour Factory, London · Sat, 14 Nov 2026
 - Starlane Pizza Bar, London · Sun, 8 Nov 2026
 - TBA - Fabwick Hackney Wick E9 5EN + Secret Afterparty Hackney Wick, London · Sat, 31 Oct 2026
 - Colour Factory, London · Sat, 24 Oct 2026
@@ -26,10 +26,9 @@ Larry Cadge is a house and minimal artist based in United Kingdom, with 62 gigs 
 - Fabwick, London · Sun, 20 Sept 2026
 - Colour Factory, London · Sat, 19 Sept 2026
 - Starlane Pizza Bar, London · Sun, 19 Jul 2026
-- Colour Factory, London · Sat, 18 Jul 2026
 
 ## Shares bills with
 
 Andrea Giudice, Irren, Mono Dust_
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/larrycadge/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/larrycadge/)*

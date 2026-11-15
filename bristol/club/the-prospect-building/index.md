@@ -1,14 +1,13 @@
 # The Prospect Building
 
-The Prospect Building is a music venue in Bristol with 8 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "UKF Bristol" on Sat, 14 Nov 2026.
+The Prospect Building is a music venue in Bristol with 7 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Teletech: Bristol" on Fri, 27 Nov 2026.
 
-The Prospect Building is a music venue in Bristol listed on soundcheck. 8 upcoming gigs, with line-ups including A Little Sound, Anaïs, Anz and Aries and 2 more. See dates, start times and who's playing. 45 Feeder Rd Bristol, BS2 0SE.
+The Prospect Building is a music venue in Bristol listed on soundcheck. 7 upcoming gigs, with line-ups including Anz, Aries, Axle and Azumei and 2 more. See dates, start times and who's playing. 45 Feeder Rd Bristol, BS2 0SE.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | UKF Bristol | A Little Sound, Anaïs, IC3, K Motionz, MC Texas, Wilkinson |
 | Fri, 27 Nov 2026 | Teletech: Bristol | Lola Cerise, Restricted |
 | Fri, 27 Nov 2026 | Teletech Bristol | BØĘRY, Lola Cerise, Restricted |
 | Sat, 28 Nov 2026 | ATW pres. Interplanetary Criminal + Guests | Anz, Axle, Azumei, Camille Doe, Dr Dubplate, Fliss Mayo, Fonzo (UK), Interplanetary Criminal, La La, Lolli, Main Phase, RIRIA, SUFI, Smokey Bubblin' B |
@@ -21,4 +20,4 @@ The Prospect Building is a music venue in Bristol listed on soundcheck. 8 upcomi
 
 45 Feeder Rd Bristol, BS2 0SE, Bristol
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-prospect-building/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-prospect-building/)*

@@ -1,6 +1,6 @@
 # TRAUM
 
-TRAUM is a music venue in Antwerp with 12 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "Oh Honey 5 Years - 24h Rave" on Sat, 14 Nov 2026.
+TRAUM is a music venue in Antwerp with 12 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Oh Honey 5 Years - 24h Rave" on Sat, 14 Nov 2026.
 
 TRAUM is a music venue in Antwerp listed on soundcheck. 12 upcoming gigs, with line-ups including Alexander Koning, Bermio, Cheriii and Clara D and 2 more. See dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ TRAUM is a music venue in Antwerp listed on soundcheck. 12 upcoming gigs, with l
 | Fri, 18 Dec 2026 | Traum Nacht: Om Unit, Mankiyan, gaiko | Mankiyan, Om Unit, gaiko |
 | Sat, 19 Dec 2026 | Kraken met Feestgedruis: Iboga Label Night | Emok, Shamanu |
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/traum/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/traum/)*

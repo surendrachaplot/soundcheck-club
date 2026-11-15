@@ -1,6 +1,6 @@
 # JUXTA
 
-JUXTA is a Tech House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at fabric, London on Sun, 15 Nov 2026.
+JUXTA is a Tech House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at fabric, London on Sun, 15 Nov 2026.
 
 JUXTA is a tech house and minimal techno artist based in United Kingdom, with 4 gigs on soundcheck across London and Manchester. Often billed alongside Annie Errez, Connor Male and Dig This. Next up: fabric, London on Sun 15 Nov.
 
@@ -20,4 +20,4 @@ JUXTA is a tech house and minimal techno artist based in United Kingdom, with 4 
 
 Annie Errez, Connor Male, Dig This
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juxta/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juxta/)*

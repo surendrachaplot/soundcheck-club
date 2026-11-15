@@ -1,14 +1,13 @@
 # OLIVIA LENSEN
 
-OLIVIA LENSEN is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Maassilo, Rotterdam on Sat, 14 Nov 2026.
+OLIVIA LENSEN is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Thuishaven, Amsterdam on Sun, 22 Nov 2026.
 
-OLIVIA LENSEN is a house and techno artist based in Netherlands, with 71 gigs on soundcheck across Amsterdam, Cologne, Dortmund / Essen and Netherlands and 3 more. Often billed alongside Freddi, Lisa Korver and NewTone. Next up: Maassilo, Rotterdam on Sat 14 Nov.
+OLIVIA LENSEN is a house and techno artist based in Netherlands, with 71 gigs on soundcheck across Amsterdam, Cologne, Dortmund / Essen and Netherlands and 3 more. Often billed alongside Freddi, Lisa Korver and NewTone. Next up: Thuishaven, Amsterdam on Sun 22 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Maassilo | Rotterdam |
 | Sun, 22 Nov 2026 | Thuishaven | Amsterdam |
 | Sat, 28 Nov 2026 | Inter-City | The Hague |
 | Sat, 12 Dec 2026 | Het Sieraad | Amsterdam |
@@ -18,6 +17,7 @@ OLIVIA LENSEN is a house and techno artist based in Netherlands, with 71 gigs on
 
 ## Recently played
 
+- Maassilo, Rotterdam · Sat, 14 Nov 2026
 - Complex Maastricht, Netherlands · Fri, 30 Oct 2026
 - Het Rijk van de Keizer, Amsterdam · Sat, 24 Oct 2026
 - Thuishaven, Amsterdam · Fri, 23 Oct 2026
@@ -25,10 +25,9 @@ OLIVIA LENSEN is a house and techno artist based in Netherlands, with 71 gigs on
 - RAWFACTORY, Amsterdam · Thu, 22 Oct 2026
 - Ijver, Amsterdam · Thu, 22 Oct 2026
 - Shelter Amsterdam, Amsterdam · Sat, 10 Oct 2026
-- SISSI'S Amsterdam, Amsterdam · Fri, 9 Oct 2026
 
 ## Shares bills with
 
 Freddi, Lisa Korver, NewTone
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/olivialensen/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/olivialensen/)*

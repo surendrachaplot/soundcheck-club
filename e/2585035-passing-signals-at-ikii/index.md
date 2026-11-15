@@ -1,6 +1,6 @@
 # Passing Signals at Ikii
 
-Passing Signals at Ikii on Sat 5 Dec, Berlin. 4 artists: Andrea Ida, Der Opium Queen, The Burrell Connection and Typhoon Lady. See the line-up on soundcheck.
+Passing Signals at Ikii on Sat 5 Dec, Berlin. 4 artists: Andrea Ida, Der Opium Queen, The Burrell Connection and Typhoon Lady. Ambient and Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

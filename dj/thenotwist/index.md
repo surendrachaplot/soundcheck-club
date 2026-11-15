@@ -1,8 +1,8 @@
 # The Notwist
 
-The Notwist is a Experimental and Pop artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Treefort Music Hall, Idaho on Wed, 31 Mar 2027.
+The Notwist is a Experimental and Pop artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Treefort Music Hall, Idaho on Wed, 31 Mar 2027.
 
-The Notwist is an experimental and pop artist based in Germany, with 5 gigs on soundcheck across Bologna, Düsseldorf, Idaho and London and 1 more. Often billed alongside Anushka Chkheidze, Balance and Barbara. Next up: Treefort Music Hall, Idaho on Wed 31 Mar.
+The Notwist is an experimental and pop artist based in Germany, with 5 gigs on soundcheck across Bologna, Düsseldorf, Idaho and London and 1 more. Often billed alongside Anushka Chkheidze, BULLY and Balance. Next up: Treefort Music Hall, Idaho on Wed 31 Mar.
 
 ## Upcoming shows
 
@@ -19,6 +19,6 @@ The Notwist is an experimental and pop artist based in Germany, with 5 gigs on s
 
 ## Shares bills with
 
-Anushka Chkheidze, Balance, Barbara
+Anushka Chkheidze, BULLY, Balance
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thenotwist/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thenotwist/)*

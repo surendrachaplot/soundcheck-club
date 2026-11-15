@@ -1,14 +1,13 @@
 # Nic Fanciulli
 
-Nic Fanciulli is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Parque de la Ciudad, CABA, Buenos Aires on Sat, 14 Nov 2026.
+Nic Fanciulli is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Club Hípico de Santiago, Santiago on Sat, 14 Nov 2026.
 
-Nic Fanciulli is a house and tech house artist based in United Kingdom, with 217 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 50 more. Often billed alongside Andrea Oliva, Raul Rodriguez and Chelina Manuhutu. Next up: TBA - Parque de la Ciudad, CABA, Buenos Aires on Sat 14 Nov.
+Nic Fanciulli is a house and tech house artist based in United Kingdom, with 217 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 50 more. Often billed alongside Andrea Oliva, Raul Rodriguez and Chelina Manuhutu. Next up: Club Hípico de Santiago, Santiago on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | TBA - Parque de la Ciudad, CABA | Buenos Aires |
 | Sat, 14 Nov 2026 | Club Hípico de Santiago | Santiago |
 | Sat, 21 Nov 2026 | Romaero - Baneasa | Bucharest |
 | Sun, 22 Nov 2026 | TBA | Bologna |
@@ -19,17 +18,17 @@ Nic Fanciulli is a house and tech house artist based in United Kingdom, with 217
 
 ## Recently played
 
+- TBA - Parque de la Ciudad, CABA, Buenos Aires · Sat, 14 Nov 2026
+- Club Hípico de Santiago, Santiago · Sat, 14 Nov 2026
 - Caribbean Lake Park, Dominican-republic · Sat, 7 Nov 2026
 - Ushuaïa Ibiza, Ibiza · Sat, 10 Oct 2026
 - Ushuaïa Ibiza, Ibiza · Sat, 3 Oct 2026
 - TBA - Various Venues, Malta · Thu, 1 Oct 2026
 - UNO MALTA, Malta · Thu, 1 Oct 2026
 - Ushuaïa Ibiza, Ibiza · Sat, 26 Sept 2026
-- Seaseaclub Barcelona, Barcelona · Sun, 20 Sept 2026
-- Carroponte, Milan · Sat, 19 Sept 2026
 
 ## Shares bills with
 
 Andrea Oliva, Raul Rodriguez, Chelina Manuhutu
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicfanciulli/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicfanciulli/)*

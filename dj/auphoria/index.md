@@ -1,13 +1,14 @@
 # Auphoria
 
-Auphoria is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Green Room NYC, New York City on Sat, 28 Nov 2026.
+Auphoria is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Refuge, New York City on Fri, 20 Nov 2026.
 
-Auphoria is a house and minimal artist based in Argentina, with 74 gigs on soundcheck across Mexico City, Miami, New York City and Orlando. Often billed alongside Armii1n, Jeny Michelle and Choukroun. Next up: Green Room NYC, New York City on Sat 28 Nov.
+Auphoria is a house and minimal artist based in Argentina, with 75 gigs on soundcheck across Mexico City, Miami, New York City and Orlando. Often billed alongside Armii1n, Jeny Michelle and Choukroun. Next up: Refuge, New York City on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | Refuge | New York City |
 | Sat, 28 Nov 2026 | Green Room NYC | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ Auphoria is a house and minimal artist based in Argentina, with 74 gigs on sound
 
 Armii1n, Jeny Michelle, Choukroun
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/auphoria/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/auphoria/)*

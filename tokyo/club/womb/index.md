@@ -1,14 +1,13 @@
 # WOMB
 
-WOMB is a music venue in Tokyo with 21 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "KULU (TECHNO / HOUSE)" on Sat, 14 Nov 2026.
+WOMB is a music venue in Tokyo with 20 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Asia Tech" on Tue, 17 Nov 2026.
 
-WOMB is a music venue in Tokyo listed on soundcheck. 21 upcoming gigs, with line-ups including Abura, Addiy, AHREUM and AIBA and 2 more. See dates, start times and who's playing. 2-16 Maruyamacho Shibuya, Tokyo 150-0044 Japan.
+WOMB is a music venue in Tokyo listed on soundcheck. 20 upcoming gigs, with line-ups including Abura, Addiy, AHREUM and AIBA and 2 more. See dates, start times and who's playing. 2-16 Maruyamacho Shibuya, Tokyo 150-0044 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | KULU (TECHNO / HOUSE) | DSKE, KUNPEI, Ko Umehara, Louis Shannon, Mita Gami, NAMIMI SENSEI, Robbie Akbal, SATICA, Sante Visioni, Vino (1), boys be kko |
 | Tue, 17 Nov 2026 | Asia Tech |  |
 | Thu, 19 Nov 2026 | RETURN | ALEXANDER M, KUNPEI, Louis Shannon, Rickey Shannon |
 | Fri, 20 Nov 2026 | Rainbow Disco Club PRESENTS FOLD (TECHNO / HOUSE) | DJ MARIA., Haruka, James Newmarch, Kenji Takimi, Kikiorix, MAYURASHKA, Nari (2), Voicedrone |
@@ -18,9 +17,10 @@ WOMB is a music venue in Tokyo listed on soundcheck. 21 upcoming gigs, with line
 | Wed, 25 Nov 2026 | WTW | KABUTO, Kyper, SAMO (JP) |
 | Thu, 26 Nov 2026 | PASSION 4TH ANNIVERSARY (HOUSE / TECH HOUSE) | NAMIMI SENSEI, Ozwick, PiERO, Tonbo |
 | Fri, 27 Nov 2026 | NEURON | AHREUM, ANDY DEDE, EIGHT, FALYN, Kandarta, Kris Fuji, LYOM, RYOHEI, TOCHAN, Tenten, Trikk |
+| Sat, 28 Nov 2026 | SO FAR | DJ Dextro, Kulage, Risa Taniguchi |
 
 ## Address
 
 2-16 Maruyamacho Shibuya, Tokyo 150-0044 Japan, Tokyo
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/womb/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/womb/)*

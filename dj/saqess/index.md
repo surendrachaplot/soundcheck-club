@@ -1,6 +1,6 @@
 # saqess
 
-saqess is a Bass and Dub artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Circus Tokyo, Tokyo on Sun, 22 Nov 2026.
+saqess is a Bass and Dub artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Circus Tokyo, Tokyo on Sun, 22 Nov 2026.
 
 saqess is a bass and dub artist based in Japan, with 9 gigs on soundcheck across Tokyo. Often billed alongside ALPHA, Acrocanthosaurus and DUCK. Next up: Circus Tokyo, Tokyo on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ saqess is a bass and dub artist based in Japan, with 9 gigs on soundcheck across
 
 ALPHA (4), Acrocanthosaurus, DUCK
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saqess/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saqess/)*

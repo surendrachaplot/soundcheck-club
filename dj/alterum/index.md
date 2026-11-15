@@ -1,8 +1,8 @@
 # alterum
 
-alterum is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at SIX Feet Under, Cardiff on Fri, 20 Nov 2026.
+alterum is a Hardcore and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at SIX Feet Under, Cardiff on Fri, 20 Nov 2026.
 
-alterum is a hardcore and techno artist based in United Kingdom, with 65 gigs on soundcheck across Berlin, Birmingham, Brighton and Bristol and 7 more. Often billed alongside 3DMA, pissxie and Takenbymarshall. Next up: SIX Feet Under, Cardiff on Fri 20 Nov.
+alterum is a hardcore and techno artist based in United Kingdom, with 66 gigs on soundcheck across Berlin, Birmingham, Brighton and Bristol and 7 more. Often billed alongside 3DMA, pissxie and Takenbymarshall. Next up: SIX Feet Under, Cardiff on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ alterum is a hardcore and techno artist based in United Kingdom, with 65 gigs on
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | SIX Feet Under | Cardiff |
 | Fri, 27 Nov 2026 | Distillery N17 | London |
+| Thu, 11 Feb 2027 | M.O.T | London |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ alterum is a hardcore and techno artist based in United Kingdom, with 65 gigs on
 
 3DMA, pissxie, Takenbymarshall
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alterum/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alterum/)*

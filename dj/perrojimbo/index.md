@@ -1,6 +1,6 @@
 # Perro Jimbo
 
-Perro Jimbo is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at High Club Room, Madrid on Sat, 21 Nov 2026.
+Perro Jimbo is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at High Club Room, Madrid on Sat, 21 Nov 2026.
 
 Perro Jimbo is a house and techno artist based in Italy, with 90 gigs on soundcheck across Barcelona, Berlin, Dublin and Lyon and 4 more. Often billed alongside VIKk, Family Matters and Fatal. Next up: High Club Room, Madrid on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Perro Jimbo is a house and techno artist based in Italy, with 90 gigs on soundch
 
 VIKk, Family Matters, Fatal
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/perrojimbo/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/perrojimbo/)*

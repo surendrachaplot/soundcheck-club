@@ -1,6 +1,6 @@
 # future.666
 
-future.666 is a Techno and Trance artist with 11 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at Cieloterra, Rome on Fri, 27 Nov 2026.
+future.666 is a Techno and Trance artist with 11 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Cieloterra, Rome on Fri, 27 Nov 2026.
 
 future.666 is a techno and trance artist based in Germany, with 276 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 75 more. Often billed alongside DJ Hyperdrive, ÜBERKIKZ and Adrian Mills. Next up: Cieloterra, Rome on Fri 27 Nov.
 
@@ -16,8 +16,8 @@ future.666 is a techno and trance artist based in Germany, with 276 gigs on soun
 | Fri, 18 Dec 2026 | Westhafen | Leipzig |
 | Sun, 20 Dec 2026 | Mia Mao | Paris |
 | Wed, 30 Dec 2026 | MUENZE | Berlin |
+| Sat, 27 Mar 2027 | RSO.BERLIN | Berlin |
 | Sun, 28 Mar 2027 | NDSM Docklands | Amsterdam |
-| Mon, 29 Mar 2027 | RSO.BERLIN | Berlin |
 | Fri, 30 Apr 2027 | TBA | Berlin |
 
 ## Recently played
@@ -35,4 +35,4 @@ future.666 is a techno and trance artist based in Germany, with 276 gigs on soun
 
 DJ Hyperdrive, ÜBERKIKZ, Adrian Mills
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/future666/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/future666/)*

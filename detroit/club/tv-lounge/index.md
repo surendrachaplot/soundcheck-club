@@ -1,8 +1,8 @@
 # TV Lounge
 
-TV Lounge is a music venue in Detroit with 7 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. The next is "WAX ON WAX OFF" on Fri, 20 Nov 2026.
+TV Lounge is a music venue in Detroit with 8 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "WAX ON WAX OFF" on Fri, 20 Nov 2026.
 
-TV Lounge is a music venue in Detroit listed on soundcheck. 7 upcoming gigs, with line-ups including 888lambchop, Ameera, DJ Slimey and Eddie Logix and 2 more. See dates, start times and who's playing. 2548 Grand River Avenue; Detroit, MI; United States.
+TV Lounge is a music venue in Detroit listed on soundcheck. 8 upcoming gigs, with line-ups including 888lambchop, Ameera, DJ Minx and DJ Slimey and 2 more. See dates, start times and who's playing. 2548 Grand River Avenue; Detroit, MI; United States.
 
 ## What's on
 
@@ -14,10 +14,11 @@ TV Lounge is a music venue in Detroit listed on soundcheck. 7 upcoming gigs, wit
 | Sun, 29 Nov 2026 | GOSPEL HOUSE 313 presented by THILL Radio | Terrence Parker |
 | Sat, 5 Dec 2026 | Toribio • sillygirlcarmen • BROOKLYN, DETROIT AND EVERYWHERE THE GROOVE TAKES YOU | Meftah, Toribio, sillygirlcarmen |
 | Sat, 12 Dec 2026 | Jacques Greene - jg North American Tour | Jacques Greene, Matthew Dear |
+| Sat, 19 Dec 2026 | DJ Minx House Your Life Holiday Edition | DJ Minx, Kevin Saunderson |
 | Thu, 31 Dec 2026 | TV NYE |  |
 
 ## Address
 
 2548 Grand River Avenue; Detroit, MI; United States, Detroit
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tv-lounge/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tv-lounge/)*

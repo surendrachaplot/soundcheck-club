@@ -1,8 +1,8 @@
 # Ellie Stokes
 
-Ellie Stokes is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 14 Nov 2026. Next at The Carpet Shop, London on Fri, 18 Dec 2026.
+Ellie Stokes is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at The Carpet Shop, London on Fri, 18 Dec 2026.
 
-Ellie Stokes is a house and techno artist based in United Kingdom, with 99 gigs on soundcheck across Athens, Barcelona, Belgrade and Berlin and 21 more. Often billed alongside Chez de Milo, Dave Harvey and Ivan Smagghe. Next up: The Carpet Shop, London on Fri 18 Dec.
+Ellie Stokes is a house and techno artist based in United Kingdom, with 100 gigs on soundcheck across Athens, Barcelona, Belgrade and Berlin and 21 more. Often billed alongside Chez de Milo, Dave Harvey and Ivan Smagghe. Next up: The Carpet Shop, London on Fri 18 Dec.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Ellie Stokes is a house and techno artist based in United Kingdom, with 99 gigs 
 
 ## Recently played
 
+- The Cause, London · Sat, 14 Nov 2026
 - The Cause, London · Sat, 31 Oct 2026
 - Space Studios, South-east · Fri, 30 Oct 2026
 - KOKO, London · Sat, 24 Oct 2026
@@ -21,10 +22,9 @@ Ellie Stokes is a house and techno artist based in United Kingdom, with 99 gigs 
 - Pikes Ibiza, Ibiza · Sun, 11 Oct 2026
 - Strange Brew, Bristol · Fri, 25 Sept 2026
 - The Cause, London · Sat, 12 Sept 2026
-- Rote Fabrik, Zurich · Fri, 7 Aug 2026
 
 ## Shares bills with
 
 Chez de Milo, Dave Harvey, Ivan Smagghe
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elliestokes/)*
+*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elliestokes/)*
