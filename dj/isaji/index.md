@@ -1,6 +1,6 @@
 # ISAJI
 
-ISAJI is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA - CENTARAL3F, Chubu on Fri, 20 Nov 2026.
+ISAJI is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA - CENTARAL3F, Chubu on Fri, 20 Nov 2026.
 
 ISAJI is an electronic artist based in Japan, with 2 gigs on soundcheck across Chubu. Often billed alongside AKANE (JP), FukuChan and NAOKI. Next up: TBA - CENTARAL3F, Chubu on Fri 20 Nov.
 
@@ -18,4 +18,4 @@ ISAJI is an electronic artist based in Japan, with 2 gigs on soundcheck across C
 
 AKANE (JP), FukuChan, NAOKI
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/isaji/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/isaji/)*

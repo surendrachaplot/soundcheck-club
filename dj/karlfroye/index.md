@@ -1,13 +1,14 @@
 # Karlfroye
 
-Karlfroye is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at La Station - Gare des Mines, Paris on Sat, 12 Dec 2026.
+Karlfroye is a Hardcore and Gabber artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at La Station - Gare des Mines, Paris on Sat, 12 Dec 2026.
 
-Karlfroye is a hardcore and gabber artist based in France, with 21 gigs on soundcheck across Brussels, Geneva, Lausanne and Paris and 4 more. Often billed alongside KimberlaID, Talita Otović and Claude Murder. Next up: La Station - Gare des Mines, Paris on Sat 12 Dec.
+Karlfroye is a hardcore and gabber artist based in France, with 22 gigs on soundcheck across Brussels, Geneva, Lausanne and Paris and 4 more. Often billed alongside KimberlaID, Talita Otović and Claude Murder. Next up: La Station - Gare des Mines, Paris on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Dec 2026 | La Station - Gare des Mines | Paris |
 | Sat, 12 Dec 2026 | La Station - Gare des Mines | Paris |
 
 ## Recently played
@@ -25,4 +26,4 @@ Karlfroye is a hardcore and gabber artist based in France, with 21 gigs on sound
 
 KimberlaID, Talita Otović, Claude Murder
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karlfroye/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karlfroye/)*

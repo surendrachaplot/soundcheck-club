@@ -1,6 +1,6 @@
 # STRATAH
 
-STRATAH is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at ZEROTOKYO, Tokyo on Sat, 28 Nov 2026.
+STRATAH is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at ZEROTOKYO, Tokyo on Sat, 28 Nov 2026.
 
 STRATAH is a techno and trance artist based in Japan, with 46 gigs on soundcheck across Osaka, Sydney and Tokyo. Often billed alongside EMILIO, YURI VALEN and uuu7. Next up: ZEROTOKYO, Tokyo on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ STRATAH is a techno and trance artist based in Japan, with 46 gigs on soundcheck
 
 EMILIO (3), YURI VALEN, uuu7
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stratah/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stratah/)*

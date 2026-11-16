@@ -1,6 +1,6 @@
 # Jasmín
 
-Jasmín is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA - Secret Location, Amsterdam on Sat, 21 Nov 2026.
+Jasmín is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA - Secret Location, Amsterdam on Sat, 21 Nov 2026.
 
 Jasmín is a techno and house artist based in Netherlands, with 116 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 24 more. Often billed alongside Fafi Abdel Nour, mad miran and Nèna. Next up: TBA - Secret Location, Amsterdam on Sat 21 Nov.
 
@@ -29,4 +29,4 @@ Jasmín is a techno and house artist based in Netherlands, with 116 gigs on soun
 
 Fafi Abdel Nour, mad miran, Nèna
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jasmin-NL/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jasmin-NL/)*

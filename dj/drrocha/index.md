@@ -1,6 +1,6 @@
 # DR ROCHA
 
-DR ROCHA is a Electronica and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at EL SÓTANO, Madrid on Thu, 31 Dec 2026.
+DR ROCHA is a Electronica and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at EL SÓTANO, Madrid on Thu, 31 Dec 2026.
 
 DR ROCHA is an electronica and club artist, with 2 gigs on soundcheck across Madrid. Often billed alongside Gaskón, Jabra and Monty. Next up: EL SÓTANO, Madrid on Thu 31 Dec.
 
@@ -18,4 +18,4 @@ DR ROCHA is an electronica and club artist, with 2 gigs on soundcheck across Mad
 
 Gaskón, Jabra, Monty
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drrocha/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drrocha/)*

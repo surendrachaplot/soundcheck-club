@@ -1,6 +1,6 @@
 # François Halard
 
-François Halard is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Poull, Paris on Fri, 20 Nov 2026.
+François Halard is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Poull, Paris on Fri, 20 Nov 2026.
 
 François Halard is a house and techno artist, with 6 gigs on soundcheck across Paris. Often billed alongside Kermit Dee, Mathilde Rocaboy and Sioul. Next up: Poull, Paris on Fri 20 Nov.
 
@@ -22,4 +22,4 @@ François Halard is a house and techno artist, with 6 gigs on soundcheck across 
 
 Kermit Dee, Mathilde Rocaboy, Sioul
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/françoishalard/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/françoishalard/)*

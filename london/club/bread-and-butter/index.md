@@ -1,6 +1,6 @@
 # Bread and Butter
 
-Bread and Butter is a music venue in London with 4 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Sons Of Craft and Friends Open Decks" on Sat, 21 Nov 2026.
+Bread and Butter is a music venue in London with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Sons Of Craft and Friends Open Decks" on Sat, 21 Nov 2026.
 
 Bread and Butter is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including Andy Caruso, Any Koh, Carl Rowlinson and Deepmore and 2 more. See dates, start times and who's playing. 72 rivington street London EC2A 3AY.
 
@@ -17,4 +17,4 @@ Bread and Butter is a music venue in London listed on soundcheck. 4 upcoming gig
 
 72 rivington street London EC2A 3AY, London
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/bread-and-butter/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/bread-and-butter/)*

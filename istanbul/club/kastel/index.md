@@ -1,6 +1,6 @@
 # Kastel
 
-Kastel is a music venue in Istanbul with 6 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Adana Twins __ PRESENTED BY THE FALLS" on Fri, 20 Nov 2026.
+Kastel is a music venue in Istanbul with 6 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Adana Twins __ PRESENTED BY THE FALLS" on Fri, 20 Nov 2026.
 
 Kastel is a music venue in Istanbul listed on soundcheck. 6 upcoming gigs, with line-ups including Adana Twins, AEREA, Alican and Dixon and 2 more. See dates, start times and who's playing. Huseyinaga, Kamer Hatun Cd. No:10, 34435 Beyoglu/Istanbul, Turkey.
 
@@ -19,4 +19,4 @@ Kastel is a music venue in Istanbul listed on soundcheck. 6 upcoming gigs, with 
 
 Huseyinaga, Kamer Hatun Cd. No:10, 34435 Beyoglu/Istanbul, Turkey, Istanbul
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/kastel/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/kastel/)*

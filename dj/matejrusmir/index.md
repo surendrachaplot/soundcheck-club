@@ -1,6 +1,6 @@
 # Matej Rusmir
 
-Matej Rusmir is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Drugstore Beograd, Belgrade on Fri, 20 Nov 2026.
+Matej Rusmir is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Drugstore Beograd, Belgrade on Fri, 20 Nov 2026.
 
 Matej Rusmir is a techno and house artist based in Serbia, with 39 gigs on soundcheck across Belgrade. Often billed alongside illillillillill, tsola and Ali Guney. Next up: Drugstore Beograd, Belgrade on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Matej Rusmir is a techno and house artist based in Serbia, with 39 gigs on sound
 
 illillillillill, tsola, Ali Guney
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matejrusmir/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matejrusmir/)*

@@ -1,6 +1,6 @@
 # Bootshaus
 
-Bootshaus is a music venue in Cologne with 15 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Alle Farben - A World full of Colors Club Tour 2026" on Fri, 20 Nov 2026.
+Bootshaus is a music venue in Cologne with 15 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Alle Farben - A World full of Colors Club Tour 2026" on Fri, 20 Nov 2026.
 
 Bootshaus is a music venue in Cologne listed on soundcheck. 15 upcoming gigs, with line-ups including Alle Farben, Brennan Heart, cablu and Deborah De Luca and 2 more. See dates, start times and who's playing. Auenweg 173; 51063 Cologne; Germany.
 
@@ -23,4 +23,4 @@ Bootshaus is a music venue in Cologne listed on soundcheck. 15 upcoming gigs, wi
 
 Auenweg 173; 51063 Cologne; Germany, Cologne
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/bootshaus/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/bootshaus/)*

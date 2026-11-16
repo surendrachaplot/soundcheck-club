@@ -1,6 +1,6 @@
 # Helios37
 
-Helios37 is a music venue in Cologne with 9 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "(sold out) SCHRANZ is BACK Köln with Felix Kröcher" on Fri, 20 Nov 2026.
+Helios37 is a music venue in Cologne with 9 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "(sold out) SCHRANZ is BACK Köln with Felix Kröcher" on Fri, 20 Nov 2026.
 
 Helios37 is a music venue in Cologne listed on soundcheck. 9 upcoming gigs, with line-ups including AELVA K, Belasto, Bensonius and DJ Discostoff and 2 more. See dates, start times and who's playing. Heliosstr. 37, 50825 Köln, Deutschland.
 
@@ -22,4 +22,4 @@ Helios37 is a music venue in Cologne listed on soundcheck. 9 upcoming gigs, with
 
 Heliosstr. 37, 50825 Köln, Deutschland, Cologne
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/helios37/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/helios37/)*

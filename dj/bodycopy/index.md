@@ -1,6 +1,6 @@
 # Body Copy
 
-Body Copy is a Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Mood Ring, New York City on Fri, 4 Dec 2026.
+Body Copy is a Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Mood Ring, New York City on Fri, 4 Dec 2026.
 
 Body Copy is a garage artist, with 2 gigs on soundcheck across New York City. Often billed alongside Max Parkinson, NICHE and Sangarang. Next up: Mood Ring, New York City on Fri 4 Dec.
 
@@ -18,4 +18,4 @@ Body Copy is a garage artist, with 2 gigs on soundcheck across New York City. Of
 
 Max Parkinson, NICHE (2), Sangarang
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bodycopy/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bodycopy/)*

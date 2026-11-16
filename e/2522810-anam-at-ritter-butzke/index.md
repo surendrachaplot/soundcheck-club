@@ -1,6 +1,6 @@
 # anamē at Ritter Butzke
 
-anamē at Ritter Butzke on Sat 13 Feb, Berlin. 1 artist: anamē. See the line-up on soundcheck.
+anamē at Ritter Butzke on Sat 13 Feb, Berlin. 1 artist: anamē. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Misa (NL)
 
-Misa (NL) is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Mood Ring, New York City on Fri, 27 Nov 2026.
+Misa (NL) is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Mood Ring, New York City on Fri, 27 Nov 2026.
 
 Misa (NL) is a trance and techno artist, with 5 gigs on soundcheck across Amsterdam and New York City. Often billed alongside WADDLE, 2440 and Annabelle (US). Next up: Mood Ring, New York City on Fri 27 Nov.
 
@@ -21,4 +21,4 @@ Misa (NL) is a trance and techno artist, with 5 gigs on soundcheck across Amster
 
 WADDLE, 2440, Annabelle (US)
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/misanl/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/misanl/)*

@@ -1,15 +1,13 @@
 # Max Styler
 
-Max Styler is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
+Max Styler is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Toffler, Rotterdam on Fri, 20 Nov 2026.
 
-Max Styler is a house and tech house artist based in United States of America, with 138 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 44 more. Often billed alongside Layton Giordani, John Summit and Eli Brown. Next up: The Concourse Project, Austin on Fri 13 Nov.
+Max Styler is a house and tech house artist based in United States of America, with 138 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 44 more. Often billed alongside Layton Giordani, John Summit and Eli Brown. Next up: Toffler, Rotterdam on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | The Concourse Project | Austin |
-| Fri, 13 Nov 2026 | Woldenberg Riverfront Park | New-orleans |
 | Fri, 20 Nov 2026 | Toffler | Rotterdam |
 | Sat, 21 Nov 2026 | 26 Leake Street | London |
 | Sat, 21 Nov 2026 | 26 Leake Street | London |
@@ -21,6 +19,7 @@ Max Styler is a house and tech house artist based in United States of America, w
 
 ## Recently played
 
+- The Concourse Project, Austin · Sun, 15 Nov 2026
 - The Concourse Project, Austin · Fri, 13 Nov 2026
 - Woldenberg Riverfront Park, New-orleans · Fri, 13 Nov 2026
 - Klub Werkstatt, Copenhagen · Sat, 7 Nov 2026
@@ -28,10 +27,9 @@ Max Styler is a house and tech house artist based in United States of America, w
 - New City Gas, Montreal · Sat, 31 Oct 2026
 - Theater Amsterdam, Amsterdam · Sat, 24 Oct 2026
 - Volt Club Milano, Milan · Thu, 22 Oct 2026
-- Mana Wynwood, Miami · Fri, 16 Oct 2026
 
 ## Shares bills with
 
 Layton Giordani, John Summit, Eli Brown
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxstyler/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxstyler/)*

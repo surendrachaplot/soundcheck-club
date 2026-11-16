@@ -1,6 +1,6 @@
 # The Pickle
 
-The Pickle is a music venue in Miami with 7 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "The Pickle" on Fri, 20 Nov 2026.
+The Pickle is a music venue in Miami with 7 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "The Pickle" on Fri, 20 Nov 2026.
 
 The Pickle is a music venue in Miami listed on soundcheck. 7 upcoming gigs, with line-ups including 1morning, Alexander Franco, Alex Pastor and ALKMST and 2 more. See dates, start times and who's playing. 1395 NW 57th Ave.
 
@@ -20,4 +20,4 @@ The Pickle is a music venue in Miami listed on soundcheck. 7 upcoming gigs, with
 
 1395 NW 57th Ave, Miami
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/the-pickle/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/the-pickle/)*

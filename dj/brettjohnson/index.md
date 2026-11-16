@@ -1,6 +1,6 @@
 # Brett Johnson
 
-Brett Johnson is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at The Pickle, Miami on Thu, 3 Dec 2026.
+Brett Johnson is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at The Pickle, Miami on Thu, 3 Dec 2026.
 
 Brett Johnson is a house and acid artist based in United States of America, with 195 gigs on soundcheck across Austin, Chicago, Denver and Detroit and 8 more. Often billed alongside Horse Opera, Brother Pate and Marcus Lott. Next up: The Pickle, Miami on Thu 3 Dec.
 
@@ -26,4 +26,4 @@ Brett Johnson is a house and acid artist based in United States of America, with
 
 Horse Opera, Brother Pate, Marcus Lott
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brettjohnson/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brettjohnson/)*

@@ -1,8 +1,8 @@
 # relajadita
 
-relajadita is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Uebel & Gefährlich, Hamburg on Fri, 20 Nov 2026.
+relajadita is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Uebel & Gefährlich, Hamburg on Fri, 20 Nov 2026.
 
-relajadita is a techno and trance artist based in Spain, with 38 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 14 more. Often billed alongside Adrian Mills, DVAID and HUMAN  ERROR. Next up: Uebel & Gefährlich, Hamburg on Fri 20 Nov.
+relajadita is a techno and trance artist based in Spain, with 38 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 14 more. Often billed alongside Adrian Mills, DVAID and HUMAN ERROR. Next up: Uebel & Gefährlich, Hamburg on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -26,6 +26,6 @@ relajadita is a techno and trance artist based in Spain, with 38 gigs on soundch
 
 ## Shares bills with
 
-Adrian Mills, DVAID, HUMAN  ERROR
+Adrian Mills, DVAID, HUMAN ERROR
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/relajadita/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/relajadita/)*

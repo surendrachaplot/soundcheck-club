@@ -1,6 +1,6 @@
 # Mako
 
-Mako is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at EL SÓTANO, Madrid on Sun, 27 Dec 2026.
+Mako is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at EL SÓTANO, Madrid on Sun, 27 Dec 2026.
 
 Mako is a techno and house artist based in Russia, with 16 gigs on soundcheck across Bali, Bristol, Denver and Hong Kong and 6 more. Often billed alongside Arok Shiva, COLAS and DLR. Next up: EL SÓTANO, Madrid on Sun 27 Dec.
 
@@ -25,4 +25,4 @@ Mako is a techno and house artist based in Russia, with 16 gigs on soundcheck ac
 
 Arok Shiva, COLAS, DLR
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mako/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mako/)*

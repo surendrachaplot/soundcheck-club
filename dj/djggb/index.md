@@ -1,6 +1,6 @@
 # DJ GGB
 
-DJ GGB is a Afro House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at The Steel Yard, London on Fri, 1 Jan 2027.
+DJ GGB is a Afro House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at The Steel Yard, London on Fri, 1 Jan 2027.
 
 DJ GGB is an afro house and deep house artist based in United Kingdom, with 4 gigs on soundcheck across London. Often billed alongside DJ Truce, Atjazz and DJ DEC. Next up: The Steel Yard, London on Fri 1 Jan.
 
@@ -20,4 +20,4 @@ DJ GGB is an afro house and deep house artist based in United Kingdom, with 4 gi
 
 DJ Truce, Atjazz, DJ DEC
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djggb/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djggb/)*

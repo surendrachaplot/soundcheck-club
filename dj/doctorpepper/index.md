@@ -1,6 +1,6 @@
 # Doctor Pepper
 
-Doctor Pepper is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at St Anne's Parish Hall, Toronto on Sat, 5 Dec 2026.
+Doctor Pepper is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at St Anne's Parish Hall, Toronto on Sat, 5 Dec 2026.
 
 Doctor Pepper is a techno and house artist, with 3 gigs on soundcheck across Toronto. Often billed alongside Astroboy, Father Dukes and GRRLCRRSH. Next up: St Anne's Parish Hall, Toronto on Sat 5 Dec.
 
@@ -19,4 +19,4 @@ Doctor Pepper is a techno and house artist, with 3 gigs on soundcheck across Tor
 
 Astroboy, Father Dukes, GRRLCRRSH
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doctorpepper/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doctorpepper/)*

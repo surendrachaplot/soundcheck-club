@@ -1,6 +1,6 @@
 # C.K
 
-C.K is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Renate, Berlin on Sat, 19 Dec 2026.
+C.K is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Renate, Berlin on Sat, 19 Dec 2026.
 
 C.K is a house and techno artist based in Denmark, with 37 gigs on soundcheck across Amsterdam, Baltimore, Bergen and Berlin and 14 more. Often billed alongside dj sweet6teen, CCL and Cirkeline. Next up: Renate, Berlin on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ C.K is a house and techno artist based in Denmark, with 37 gigs on soundcheck ac
 
 dj sweet6teen, CCL, Cirkeline
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ck-dk/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ck-dk/)*

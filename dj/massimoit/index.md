@@ -1,6 +1,6 @@
 # Massimo (IT)
 
-Massimo (IT) is a House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Sacré, Paris on Fri, 11 Dec 2026.
+Massimo (IT) is a House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Sacré, Paris on Fri, 11 Dec 2026.
 
 Massimo (IT) is a house artist, with 2 gigs on soundcheck across Paris and Vancouver. Often billed alongside Isa Castelari and KÖL (CA). Next up: Sacré, Paris on Fri 11 Dec.
 
@@ -18,4 +18,4 @@ Massimo (IT) is a house artist, with 2 gigs on soundcheck across Paris and Vanco
 
 Isa Castelari, KÖL (CA)
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/massimoit/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/massimoit/)*

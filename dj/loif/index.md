@@ -1,20 +1,20 @@
 # LOIF
 
-LOIF is a Techno and Bass artist with 4 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Creator Dock 创作者码头, Chengdu on Sun, 15 Nov 2026.
+LOIF is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Oizumi-Kojo, Kanto on Sun, 22 Nov 2026.
 
-LOIF is a techno and bass artist based in Australia, with 66 gigs on soundcheck across Amsterdam, Beijing, Berlin and Bordeaux and 19 more. Often billed alongside Tangerine, Kia (AU) and D-Grade. Next up: Creator Dock 创作者码头, Chengdu on Sun 15 Nov.
+LOIF is a techno and bass artist based in Australia, with 66 gigs on soundcheck across Amsterdam, Beijing, Berlin and Bordeaux and 19 more. Often billed alongside Tangerine, Kia (AU) and D-Grade. Next up: Oizumi-Kojo, Kanto on Sun 22 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 15 Nov 2026 | Creator Dock 创作者码头 | Chengdu |
 | Sun, 22 Nov 2026 | Oizumi-Kojo | Kanto |
 | Fri, 27 Nov 2026 | TBA - Brooman NSW | Sydney |
 | Fri, 27 Nov 2026 | TBA - Budawangs | New-south-wales |
 
 ## Recently played
 
+- Creator Dock 创作者码头, Chengdu · Sun, 15 Nov 2026
 - Cube, Tokyo · Fri, 13 Nov 2026
 - 工gong, Chengdu · Fri, 6 Nov 2026
 - Hakkabar 院吧, Chengdu · Thu, 5 Nov 2026
@@ -22,10 +22,9 @@ LOIF is a techno and bass artist based in Australia, with 66 gigs on soundcheck 
 - Wigwam, Shanghai · Fri, 23 Oct 2026
 - Abbotsford Convent, Melbourne · Sat, 10 Oct 2026
 - Miscellania, Melbourne · Fri, 25 Sept 2026
-- TBA, Melbourne · Sat, 12 Sept 2026
 
 ## Shares bills with
 
 Tangerine, Kia (AU), D-Grade
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loif/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loif/)*

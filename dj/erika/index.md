@@ -1,14 +1,13 @@
 # Erika
 
-Erika is a Techno and Acid artist with 4 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Nowadays, New York City on Sat, 14 Nov 2026.
+Erika is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Tresor / Globus, Berlin on Sat, 28 Nov 2026.
 
-Erika is a techno and acid artist, with 128 gigs on soundcheck across Amsterdam, Baltimore, Beijing and Berlin and 29 more. Often billed alongside BMG, Mike Servito and Derek Plaslaiko. Next up: Nowadays, New York City on Sat 14 Nov.
+Erika is a techno and acid artist, with 128 gigs on soundcheck across Amsterdam, Baltimore, Beijing and Berlin and 29 more. Often billed alongside BMG, Mike Servito and Derek Plaslaiko. Next up: Tresor / Globus, Berlin on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Nowadays | New York City |
 | Sat, 28 Nov 2026 | Tresor / Globus | Berlin |
 | Wed, 27 Jan 2027 | TBA - Brooklyn | New York City |
 | Wed, 3 Mar 2027 | El Rio Hostel | Colombia |
@@ -28,4 +27,4 @@ Erika is a techno and acid artist, with 128 gigs on soundcheck across Amsterdam,
 
 BMG, Mike Servito, Derek Plaslaiko
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erika/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erika/)*

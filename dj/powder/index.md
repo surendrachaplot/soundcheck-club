@@ -1,6 +1,6 @@
 # Powder
 
-Powder is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Nowadays, New York City on Thu, 31 Dec 2026.
+Powder is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Nowadays, New York City on Thu, 31 Dec 2026.
 
 Powder is a house and techno artist based in Japan, with 73 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Boston and 30 more. Often billed alongside 5ive, KOOLMFL and Mala. Next up: Nowadays, New York City on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Powder is a house and techno artist based in Japan, with 73 gigs on soundcheck a
 
 5ive, KOOLMFL, Mala
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/powder/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/powder/)*

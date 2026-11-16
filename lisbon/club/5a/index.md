@@ -1,6 +1,6 @@
 # 5A
 
-5A is a music venue in Lisbon with 7 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Aspen Collective" on Thu, 19 Nov 2026.
+5A is a music venue in Lisbon with 7 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Aspen Collective" on Thu, 19 Nov 2026.
 
 5A is a music venue in Lisbon listed on soundcheck. 7 upcoming gigs, with line-ups including FAUSTO, Afonso (PT), André Costa and Conor Brophy and 2 more. See dates, start times and who's playing. Rua Noronha, 5A 1250-168 Lisbon, Portugal.
 
@@ -20,4 +20,4 @@
 
 Rua Noronha, 5A 1250-168 Lisbon, Portugal, Lisbon
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/5a/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/5a/)*

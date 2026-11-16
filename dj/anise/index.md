@@ -1,6 +1,6 @@
 # anise
 
-anise is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at The Jama, Toronto on Fri, 20 Nov 2026.
+anise is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at The Jama, Toronto on Fri, 20 Nov 2026.
 
 anise is a techno and house artist based in Canada, with 26 gigs on soundcheck across Montreal, Singapore and Toronto. Often billed alongside Chafic, Daragma and Measure Divide. Next up: The Jama, Toronto on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ anise is a techno and house artist based in Canada, with 26 gigs on soundcheck a
 
 Chafic, Daragma, Measure Divide
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anise/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anise/)*

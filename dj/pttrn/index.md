@@ -1,6 +1,6 @@
 # PTTRN
 
-PTTRN is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Vertigo Antwerp, Antwerp on Fri, 4 Dec 2026.
+PTTRN is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Vertigo Antwerp, Antwerp on Fri, 4 Dec 2026.
 
 PTTRN is a techno and electronica artist, with 9 gigs on soundcheck across Antwerp, Ghent and Porto. Often billed alongside Jorge Flukso, Obstn8 Vs0n and Phemia. Next up: Vertigo Antwerp, Antwerp on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ PTTRN is a techno and electronica artist, with 9 gigs on soundcheck across Antwe
 
 Jorge Flukso, Obstn8 Vs0n, Phemia
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pttrn/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pttrn/)*

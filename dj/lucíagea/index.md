@@ -1,6 +1,6 @@
 # Lucía Gea
 
-Lucía Gea is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Core, Madrid on Thu, 19 Nov 2026.
+Lucía Gea is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Core, Madrid on Thu, 19 Nov 2026.
 
 Lucía Gea is a techno and tech house artist based in Spain, with 76 gigs on soundcheck across Barcelona, Berlin, Hamburg and Ibiza and 3 more. Often billed alongside Dj badtrip, Finalversion3 and Ariezzz. Next up: Core, Madrid on Thu 19 Nov.
 
@@ -26,4 +26,4 @@ Lucía Gea is a techno and tech house artist based in Spain, with 76 gigs on sou
 
 Dj badtrip, Finalversion3, Ariezzz
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucíagea/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucíagea/)*

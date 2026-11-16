@@ -1,6 +1,6 @@
 # Certain People
 
-Certain People is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Collect LX Factory, Lisbon on Wed, 25 Nov 2026.
+Certain People is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Collect LX Factory, Lisbon on Wed, 25 Nov 2026.
 
 Certain People is a house and electronica artist based in Spain, with 63 gigs on soundcheck across Barcelona, Guadalajara, Ibiza and Lisbon and 5 more. Often billed alongside Fuentes-Guerra, Javi Redondo and Emi Koto. Next up: Collect LX Factory, Lisbon on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ Certain People is a house and electronica artist based in Spain, with 63 gigs on
 
 Fuentes-Guerra, Javi Redondo, Emi Koto
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/certainpeople/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/certainpeople/)*

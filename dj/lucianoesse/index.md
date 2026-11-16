@@ -1,6 +1,6 @@
 # Luciano Esse
 
-Luciano Esse is a Minimal Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Cocoricò, North on Thu, 31 Dec 2026.
+Luciano Esse is a Minimal Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Cocoricò, North on Thu, 31 Dec 2026.
 
 Luciano Esse is a minimal techno and tech house artist based in Italy, with 7 gigs on soundcheck across Barcelona, Florence, Milan and North and 2 more. Often billed alongside 999999999, Alarico and Alignment. Next up: Cocoricò, North on Thu 31 Dec.
 
@@ -23,4 +23,4 @@ Luciano Esse is a minimal techno and tech house artist based in Italy, with 7 gi
 
 999999999, Alarico, Alignment
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucianoesse/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucianoesse/)*

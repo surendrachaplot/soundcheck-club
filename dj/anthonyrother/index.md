@@ -1,20 +1,20 @@
 # Anthony Rother
 
-Anthony Rother is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at REC Napoli, Naples on Sun, 15 Nov 2026.
+Anthony Rother is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Fri, 27 Nov 2026.
 
-Anthony Rother is a techno and electro artist based in Germany, with 98 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside Helena Hauff, Asymptote and DJ MELL G. Next up: REC Napoli, Naples on Sun 15 Nov.
+Anthony Rother is a techno and electro artist based in Germany, with 98 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside Helena Hauff, Asymptote and DJ MELL G. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 15 Nov 2026 | REC Napoli | Naples |
 | Fri, 27 Nov 2026 | NAMA - Nuovo Anfiteatro Martesana | Milan |
 | Sat, 28 Nov 2026 | Het Sieraad | Amsterdam |
 | Sat, 5 Dec 2026 | RSO.BERLIN | Berlin |
 
 ## Recently played
 
+- REC Napoli, Naples · Sun, 15 Nov 2026
 - Soap House - Ex Saponerie Mira Lanza, Rome · Sat, 14 Nov 2026
 - Fira Barcelona, Barcelona · Fri, 6 Nov 2026
 - The Lower Level, Boston · Sat, 24 Oct 2026
@@ -22,10 +22,9 @@ Anthony Rother is a techno and electro artist based in Germany, with 98 gigs on 
 - Bassiani, Tbilisi · Fri, 16 Oct 2026
 - Specka, Madrid · Sat, 10 Oct 2026
 - FOLD, London · Fri, 28 Aug 2026
-- Tokonoma Club, Frankfurt · Sat, 25 Jul 2026
 
 ## Shares bills with
 
 Helena Hauff, Asymptote, DJ MELL G
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonyrother/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonyrother/)*

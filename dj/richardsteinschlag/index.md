@@ -1,6 +1,6 @@
 # Richard Steinschlag
 
-Richard Steinschlag is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Weberknecht, Vienna on Mon, 7 Dec 2026.
+Richard Steinschlag is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Weberknecht, Vienna on Mon, 7 Dec 2026.
 
 Richard Steinschlag is a psytrance and techno artist based in Austria, with 8 gigs on soundcheck across Vienna. Often billed alongside JP eXbert, KJAER and Alena Noctis. Next up: Weberknecht, Vienna on Mon 7 Dec.
 
@@ -24,4 +24,4 @@ Richard Steinschlag is a psytrance and techno artist based in Austria, with 8 gi
 
 JP eXbert, KJAER, Alena Noctis
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/richardsteinschlag/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/richardsteinschlag/)*

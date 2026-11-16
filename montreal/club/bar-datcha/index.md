@@ -1,6 +1,6 @@
 # Bar Datcha
 
-Bar Datcha is a music venue in Montreal with 11 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "PATRICK, 2FA, DJ Christmas" on Thu, 19 Nov 2026.
+Bar Datcha is a music venue in Montreal with 11 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "PATRICK, 2FA, DJ Christmas" on Thu, 19 Nov 2026.
 
 Bar Datcha is a music venue in Montreal listed on soundcheck. 11 upcoming gigs, with line-ups including BADJUDA, DJ Christmas, Emil Paquin and Entrañas and 2 more. See dates, start times and who's playing. 98 Avenue Laurier O, Montréal, QC H2T 2N4, Canada.
 
@@ -23,4 +23,4 @@ Bar Datcha is a music venue in Montreal listed on soundcheck. 11 upcoming gigs, 
 
 98 Avenue Laurier O, Montréal, QC H2T 2N4, Canada, Montreal
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/bar-datcha/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/bar-datcha/)*

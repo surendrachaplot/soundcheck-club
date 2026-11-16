@@ -1,6 +1,6 @@
 # Interplanetary Criminal at The Regency Ballroom
 
-Interplanetary Criminal at The Regency Ballroom on Sat 13 Feb, San Francisco Oakland. 2 artists: Interplanetary Criminal and RIRIA. See the line-up on soundcheck.
+Interplanetary Criminal at The Regency Ballroom on Sat 13 Feb, San Francisco Oakland. 2 artists: Interplanetary Criminal and RIRIA. Breakbeat and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

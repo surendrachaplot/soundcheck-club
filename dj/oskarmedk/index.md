@@ -1,14 +1,13 @@
 # oskar med k
 
-oskar med k is a House and Deep House artist with 6 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Wagon, Madrid on Sun, 15 Nov 2026.
+oskar med k is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Barunah Plains, Victoria on Mon, 28 Dec 2026.
 
-oskar med k is a house and deep house artist based in Norway, with 26 gigs on soundcheck across Barcelona, Berlin, Brisbane and Budapest and 20 more. Often billed alongside Boys Noize, Dean Turnley and Skepta. Next up: Wagon, Madrid on Sun 15 Nov.
+oskar med k is a house and deep house artist based in Norway, with 26 gigs on soundcheck across Barcelona, Berlin, Brisbane and Budapest and 20 more. Often billed alongside Boys Noize, Dean Turnley and Skepta. Next up: Barunah Plains, Victoria on Mon 28 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 15 Nov 2026 | Wagon | Madrid |
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |
 | Sat, 2 Jan 2027 | The Forum Theatre | Melbourne |
 | Sun, 3 Jan 2027 | Enmore Theatre | Sydney |
@@ -17,6 +16,7 @@ oskar med k is a house and deep house artist based in Norway, with 26 gigs on so
 
 ## Recently played
 
+- Wagon, Madrid · Sun, 15 Nov 2026
 - Nitsa Club, Barcelona · Fri, 13 Nov 2026
 - Foro Niebla, Mexico City · Sat, 10 Oct 2026
 - Fonda Theatre, Los Angeles · Wed, 7 Oct 2026
@@ -24,10 +24,9 @@ oskar med k is a house and deep house artist based in Norway, with 26 gigs on so
 - TBA - Pier 80, San Francisco/Oakland · Sat, 26 Sept 2026
 - Cervantes' Masterpiece Ballroom, Denver · Fri, 25 Sept 2026
 - Terminal 5, New York City · Sat, 19 Sept 2026
-- Radius, Chicago · Sat, 12 Sept 2026
 
 ## Shares bills with
 
 Boys Noize, Dean Turnley, Skepta
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oskarmedk/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oskarmedk/)*

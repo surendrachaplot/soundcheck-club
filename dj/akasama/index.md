@@ -1,6 +1,6 @@
 # AKASAMA
 
-AKASAMA is a Electronica and Grime artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at ACERVO BAR, Rio de Janeiro on Sat, 21 Nov 2026.
+AKASAMA is a Electronica and Grime artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at ACERVO BAR, Rio de Janeiro on Sat, 21 Nov 2026.
 
 AKASAMA is an electronica and grime artist based in Brazil, with 2 gigs on soundcheck across Rio de Janeiro. Often billed alongside ANTCONSTANTINO. Next up: ACERVO BAR, Rio de Janeiro on Sat 21 Nov.
 
@@ -18,4 +18,4 @@ AKASAMA is an electronica and grime artist based in Brazil, with 2 gigs on sound
 
 ANTCONSTANTINO
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akasama/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akasama/)*

@@ -1,6 +1,6 @@
 # Chez Damier
 
-Chez Damier is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Modeci, Seoul on Sat, 21 Nov 2026.
+Chez Damier is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Modeci, Seoul on Sat, 21 Nov 2026.
 
 Chez Damier is a house and deep house artist based in United States of America, with 164 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 54 more. Often billed alongside Eddie Leader, DJ Deep and Dennis Ferrer. Next up: Modeci, Seoul on Sat 21 Nov.
 
@@ -28,4 +28,4 @@ Chez Damier is a house and deep house artist based in United States of America, 
 
 Eddie Leader, DJ Deep, Dennis Ferrer
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chezdamier/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chezdamier/)*

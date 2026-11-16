@@ -1,6 +1,6 @@
 # 74 Hall
 
-74 Hall is a music venue in Istanbul with 6 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "NEGITIV - VALYRIA RITUAL" on Sat, 21 Nov 2026.
+74 Hall is a music venue in Istanbul with 6 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "NEGITIV - VALYRIA RITUAL" on Sat, 21 Nov 2026.
 
 74 Hall is a music venue in Istanbul listed on soundcheck. 6 upcoming gigs, with line-ups including Arda Yazkan, Basswell, Doruksen and NEGITIV and 2 more. See dates, start times and who's playing. Zeytinlik Mah. Yakut Sok. No:7 (Eski 74 Sineması), 34140 Bakırköy/İstanbul.
 
@@ -19,4 +19,4 @@
 
 Zeytinlik Mah. Yakut Sok. No:7 (Eski 74 Sineması), 34140 Bakırköy/İstanbul, Istanbul
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/74-hall/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/74-hall/)*

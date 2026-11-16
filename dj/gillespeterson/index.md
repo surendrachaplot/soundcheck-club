@@ -1,6 +1,6 @@
 # Gilles Peterson
 
-Gilles Peterson is a Jazz and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at The Vanguard, Sydney on Tue, 17 Nov 2026.
+Gilles Peterson is a Jazz and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at The Vanguard, Sydney on Tue, 17 Nov 2026.
 
 Gilles Peterson is a jazz and house artist based in United Kingdom, with 84 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 27 more. Often billed alongside Patrick Forge, Jamz Supernova and MUSCLECARS. Next up: The Vanguard, Sydney on Tue 17 Nov.
 
@@ -14,6 +14,7 @@ Gilles Peterson is a jazz and house artist based in United Kingdom, with 84 gigs
 
 ## Recently played
 
+- Liberty Hall, Sydney · Sun, 15 Nov 2026
 - Northcote Theatre, Melbourne · Sat, 14 Nov 2026
 - Stadtgarten Konzertsaal / Cafe, Cologne · Fri, 6 Nov 2026
 - La Marbrerie, Paris · Sun, 25 Oct 2026
@@ -21,10 +22,9 @@ Gilles Peterson is a jazz and house artist based in United Kingdom, with 84 gigs
 - Dahlia Stereo, Manchester · Thu, 10 Sept 2026
 - Finsbury Park, London · Sat, 8 Aug 2026
 - The Salt Shed, Chicago · Sat, 18 Jul 2026
-- La Bellevilloise, Paris · Thu, 9 Jul 2026
 
 ## Shares bills with
 
 Patrick Forge, Jamz Supernova, MUSCLECARS
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gillespeterson/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gillespeterson/)*

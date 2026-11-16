@@ -1,14 +1,13 @@
 # The Bungalow Bar
 
-The Bungalow Bar is a music venue in Glasgow with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "NBP Birthday Clubnight!" on Sun, 15 Nov 2026.
+The Bungalow Bar is a music venue in Glasgow with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. The next is "KAI REESU : Kai Hard - Live at the Bungalow Paisley" on Thu, 10 Dec 2026.
 
-The Bungalow Bar is a music venue in Glasgow listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing.
+The Bungalow Bar is a music venue in Glasgow listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 15 Nov 2026 | NBP Birthday Clubnight! |  |
 | Thu, 10 Dec 2026 | KAI REESU : Kai Hard - Live at the Bungalow Paisley |  |
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-bungalow-bar/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-bungalow-bar/)*

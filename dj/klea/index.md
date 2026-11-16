@@ -1,6 +1,6 @@
 # KLEA
 
-KLEA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Renate, Berlin on Sat, 12 Dec 2026.
+KLEA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Renate, Berlin on Sat, 12 Dec 2026.
 
 KLEA is a techno and house artist based in Albania, with 39 gigs on soundcheck across Berlin, Milan and Shanghai. Often billed alongside Quolcat, Tinco and GLIA. Next up: Renate, Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ KLEA is a techno and house artist based in Albania, with 39 gigs on soundcheck a
 
 Quolcat, Tinco, GLIA
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/klea/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/klea/)*

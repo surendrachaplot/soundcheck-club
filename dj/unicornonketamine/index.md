@@ -1,6 +1,6 @@
 # Unicorn on K
 
-Unicorn on K is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Brussels Expo, Brussels on Wed, 30 Dec 2026.
+Unicorn on K is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Brussels Expo, Brussels on Wed, 30 Dec 2026.
 
 Unicorn on K is a hardcore and techno artist based in Spain, with 18 gigs on soundcheck across Barcelona, Berlin, Brussels and Budapest and 10 more. Often billed alongside billx, Angerfist and The Dark Horror. Next up: Brussels Expo, Brussels on Wed 30 Dec.
 
@@ -25,4 +25,4 @@ Unicorn on K is a hardcore and techno artist based in Spain, with 18 gigs on sou
 
 billx, Angerfist, The Dark Horror
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/unicornonketamine/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/unicornonketamine/)*

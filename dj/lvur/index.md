@@ -1,6 +1,6 @@
 # LVUR
 
-LVUR is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA, Bucharest on Fri, 15 Jan 2027.
+LVUR is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA, Bucharest on Fri, 15 Jan 2027.
 
 LVUR is a techno and industrial artist based in Romania, with 4 gigs on soundcheck across Bucharest. Often billed alongside AMEDEUS, Amnesico and KATHERYNE. Next up: TBA, Bucharest on Fri 15 Jan.
 
@@ -20,4 +20,4 @@ LVUR is a techno and industrial artist based in Romania, with 4 gigs on soundche
 
 AMEDEUS, Amnesico, KATHERYNE
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lvur/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lvur/)*

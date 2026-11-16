@@ -1,6 +1,6 @@
 # Tomoki Tamura
 
-Tomoki Tamura is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Cobalt Studios, Newcastle on Sat, 12 Dec 2026.
+Tomoki Tamura is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Cobalt Studios, Newcastle on Sat, 12 Dec 2026.
 
 Tomoki Tamura is a house and techno artist based in Germany, with 120 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Baltimore and 45 more. Often billed alongside GARAN GARAN, Satoshi Tomiie and Alexander Skancke. Next up: Cobalt Studios, Newcastle on Sat 12 Dec.
 
@@ -27,4 +27,4 @@ Tomoki Tamura is a house and techno artist based in Germany, with 120 gigs on so
 
 GARAN GARAN, Satoshi Tomiie, Alexander Skancke
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomokitamura/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomokitamura/)*

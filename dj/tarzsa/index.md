@@ -1,6 +1,6 @@
 # Tarzsa
 
-Tarzsa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Headrow House, Leeds on Fri, 4 Dec 2026.
+Tarzsa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Headrow House, Leeds on Fri, 4 Dec 2026.
 
 Tarzsa is a house and techno artist based in United Kingdom, with 90 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 22 more. Often billed alongside Bradley Zero, Dan Shake and Joy Orbison. Next up: Headrow House, Leeds on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Tarzsa is a house and techno artist based in United Kingdom, with 90 gigs on sou
 
 Bradley Zero, Dan Shake, Joy Orbison
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tarzsa/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tarzsa/)*

@@ -1,6 +1,6 @@
 # UMI
 
-UMI is a music venue in Brussels with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "BLUR x Listen Festival · Extended edition" on Sat, 21 Nov 2026.
+UMI is a music venue in Brussels with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "BLUR x Listen Festival · Extended edition" on Sat, 21 Nov 2026.
 
 UMI is a music venue in Brussels listed on soundcheck. 2 upcoming gigs, with line-ups including Adi (CO), adobeprincess, Amelia Holt and Aurora Halal and 2 more. See dates, start times and who's playing. Rue du Marché aux Fromages 10, 1000 Bruxelles.
 
@@ -15,4 +15,4 @@ UMI is a music venue in Brussels listed on soundcheck. 2 upcoming gigs, with lin
 
 Rue du Marché aux Fromages 10, 1000 Bruxelles, Brussels
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/umi/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/umi/)*

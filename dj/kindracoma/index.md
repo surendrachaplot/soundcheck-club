@@ -1,6 +1,6 @@
 # Kindracoma
 
-Kindracoma is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Studio Pro Arte, Baden-w-rttemberg on Sat, 21 Nov 2026.
+Kindracoma is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Studio Pro Arte, Baden-w-rttemberg on Sat, 21 Nov 2026.
 
 Kindracoma is an electronic artist based in Ukraine, with 4 gigs on soundcheck across Baden W Rttemberg and Berlin. Often billed alongside Bryozone, Costa (FR) and Drop Sum. Next up: Studio Pro Arte, Baden W Rttemberg on Sat 21 Nov.
 
@@ -20,4 +20,4 @@ Kindracoma is an electronic artist based in Ukraine, with 4 gigs on soundcheck a
 
 Bryozone, Costa (FR), Drop Sum
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kindracoma/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kindracoma/)*

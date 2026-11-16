@@ -1,6 +1,6 @@
 # Molder
 
-Molder is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Socore Factory, Osaka on Fri, 4 Dec 2026.
+Molder is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Socore Factory, Osaka on Fri, 4 Dec 2026.
 
 Molder is an experimental and techno artist based in Croatia, with 3 gigs on soundcheck across Osaka. Often billed alongside Broshuda, CHIE and Chie Otomi. Next up: Socore Factory, Osaka on Fri 4 Dec.
 
@@ -19,4 +19,4 @@ Molder is an experimental and techno artist based in Croatia, with 3 gigs on sou
 
 Broshuda, CHIE, Chie Otomi
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/molder/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/molder/)*

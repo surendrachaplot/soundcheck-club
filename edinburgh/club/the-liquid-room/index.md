@@ -1,6 +1,6 @@
 # The Liquid Room
 
-The Liquid Room is a music venue in Edinburgh with 4 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Paige Tomlinson - Edinburgh" on Fri, 20 Nov 2026.
+The Liquid Room is a music venue in Edinburgh with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Paige Tomlinson - Edinburgh" on Fri, 20 Nov 2026.
 
 The Liquid Room is a music venue in Edinburgh listed on soundcheck. 4 upcoming gigs, with line-ups including Bushbaby, Dennis Quin, Job de Jong and LUKAS & FRANK and 1 more. See dates, start times and who's playing. 9c Victoria Street; Edinburgh, EH1 2HE; Scotland; United Kingdom.
 
@@ -17,4 +17,4 @@ The Liquid Room is a music venue in Edinburgh listed on soundcheck. 4 upcoming g
 
 9c Victoria Street; Edinburgh, EH1 2HE; Scotland; United Kingdom, Edinburgh
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-liquid-room/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-liquid-room/)*

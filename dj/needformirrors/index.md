@@ -1,6 +1,6 @@
 # Need For Mirrors
 
-Need For Mirrors is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Phonox, London on Wed, 30 Dec 2026.
+Need For Mirrors is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Phonox, London on Wed, 30 Dec 2026.
 
 Need For Mirrors is a drum & bass and jungle artist based in United Kingdom, with 45 gigs on soundcheck across Auckland, Belfast, Berlin and Birmingham and 10 more. Often billed alongside Mantmast, DJ Lee and Doc Scott. Next up: Phonox, London on Wed 30 Dec.
 
@@ -25,4 +25,4 @@ Need For Mirrors is a drum & bass and jungle artist based in United Kingdom, wit
 
 Mantmast, DJ Lee, Doc Scott
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/needformirrors/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/needformirrors/)*

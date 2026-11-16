@@ -1,6 +1,6 @@
 # POoK
 
-POoK is a Techno and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Volks, Brighton on Fri, 4 Dec 2026.
+POoK is a Techno and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Volks, Brighton on Fri, 4 Dec 2026.
 
 POoK is a techno and jungle artist based in United Kingdom, with 25 gigs on soundcheck across Brighton and Leeds. Often billed alongside Lola (UK), Koipinoxia and Markus Saarländer. Next up: Volks, Brighton on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ POoK is a techno and jungle artist based in United Kingdom, with 25 gigs on soun
 
 Lola (UK), Koipinoxia, Markus Saarländer
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pook/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pook/)*

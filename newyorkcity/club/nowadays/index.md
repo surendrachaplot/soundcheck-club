@@ -1,14 +1,13 @@
 # Nowadays
 
-Nowadays is a music venue in New York City with 26 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "The Bunker presents: No Way Back Nonstop" on Sat, 14 Nov 2026.
+Nowadays is a music venue in New York City with 25 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "OST & Conditioner: African American Sound Recordings, chinapoet, Loidis, more eaze, Purelink" on Thu, 19 Nov 2026.
 
-Nowadays is a music venue in New York City listed on soundcheck. 26 upcoming gigs, with line-ups including 1morning, 8ULENTINA, MORENXXX and Paula Tape and 2 more. See dates, start times and who's playing. 56-06 Cooper Ave. Ridgewood, NY 11385 USA.
+Nowadays is a music venue in New York City listed on soundcheck. 25 upcoming gigs, with line-ups including 1morning, 8ULENTINA, MORENXXX and Paula Tape and 2 more. See dates, start times and who's playing. 56-06 Cooper Ave. Ridgewood, NY 11385 USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | The Bunker presents: No Way Back Nonstop | BMG, Bryan Kasenic, Carlos Souffront, Derek Plaslaiko, Erika, Mike Servito, Patrick Russell, Scott Zacharias |
 | Thu, 19 Nov 2026 | OST & Conditioner: African American Sound Recordings, chinapoet, Loidis, more eaze, Purelink | Loidis, Purelink, more eaze |
 | Fri, 20 Nov 2026 | Laurel Halo All Night | Laurel Halo |
 | Sat, 21 Nov 2026 | Let's Dance Brooklyn x Saint James Joy: ThanksChristmaHanukKwanzaa Boogie & Toy Drive | Ali Coleman, VARSHA |
@@ -18,9 +17,10 @@ Nowadays is a music venue in New York City listed on soundcheck. 26 upcoming gig
 | Fri, 27 Nov 2026 | Club Night: AceMo & Swami Sound (live), GENG PTP, Princess Peggie | AceMo, Princess Peggie, Swami Sound |
 | Sat, 28 Nov 2026 | livwutang All Night | livwutang |
 | Sat, 28 Nov 2026 | SanDia: Family Affair with Bendito, Jeremy Giros, Kata, Miss Gypsy | /KATA/, Bendito, Jeremy Giros, Miss Gypsy |
+| Sun, 29 Nov 2026 | Theo Parrish All Day | Theo Parrish |
 
 ## Address
 
 56-06 Cooper Ave. Ridgewood, NY 11385 USA, New York City
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nowadays/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nowadays/)*

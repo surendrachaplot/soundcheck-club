@@ -1,6 +1,6 @@
 # Jackies Open Air Daytime - Closing 2026 Season La Terrrazza at La Terrrazza
 
-Jackies Open Air Daytime - Closing 2026 Season La Terrrazza on Sat 21 Nov, Barcelona. 1 artist: Octave One. House. See the line-up on soundcheck.
+Jackies Open Air Daytime - Closing 2026 Season La Terrrazza on Sat 21 Nov, Barcelona. 3 artists: GIVIO, Octave One and Piem. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ Jackies Open Air Daytime - Closing 2026 Season La Terrrazza on Sat 21 Nov, Barce
 
 ## Line-up
 
+- GIVIO
 - Octave One
+- Piem
 
 *Source: [soundcheck](https://soundcheck.club/e/2534107-jackies-open-air-daytime-closing-2026-season-la-terrrazza-at/)*

@@ -1,6 +1,6 @@
 # Ian Pooley
 
-Ian Pooley is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at The Villa, Oslo on Sat, 30 Jan 2027.
+Ian Pooley is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at The Villa, Oslo on Sat, 30 Jan 2027.
 
 Ian Pooley is a house and techno artist based in Germany, with 130 gigs on soundcheck across Adelaide, Amsterdam, Athens and Auckland and 55 more. Often billed alongside dj sweet6teen, Cinthie and Eva Crystaltips. Next up: The Villa, Oslo on Sat 30 Jan.
 
@@ -25,4 +25,4 @@ Ian Pooley is a house and techno artist based in Germany, with 130 gigs on sound
 
 dj sweet6teen, Cinthie, Eva Crystaltips
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ianpooley/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ianpooley/)*

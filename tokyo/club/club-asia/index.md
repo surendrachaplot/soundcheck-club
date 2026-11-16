@@ -1,6 +1,6 @@
 # club asia
 
-club asia is a music venue in Tokyo with 14 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "EXODUS vol.259" on Wed, 18 Nov 2026.
+club asia is a music venue in Tokyo with 14 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "EXODUS vol.259" on Wed, 18 Nov 2026.
 
 club asia is a music venue in Tokyo listed on soundcheck. 14 upcoming gigs, with line-ups including 80KIDZ, Acrocanthosaurus, Albino Sound and Amps and 2 more. See dates, start times and who's playing. 1-8 Maruyamacho, Shibuya-ku, Tokyo, 150-0044 Japan.
 
@@ -23,4 +23,4 @@ club asia is a music venue in Tokyo listed on soundcheck. 14 upcoming gigs, with
 
 1-8 Maruyamacho, Shibuya-ku, Tokyo, 150-0044 Japan, Tokyo
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/club-asia/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/club-asia/)*

@@ -1,0 +1,21 @@
+# Vasya Saiko
+
+Vasya Saiko is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at HVEN, Tokyo on Sat, 28 Nov 2026.
+
+Vasya Saiko is a techno and house artist based in Japan, with 2 gigs on soundcheck across Tokyo. Often billed alongside DSKE, FEIYI and KCT. Next up: HVEN, Tokyo on Sat 28 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 28 Nov 2026 | HVEN | Tokyo |
+
+## Recently played
+
+- Spread, Tokyo · Sat, 7 Nov 2026
+
+## Shares bills with
+
+DSKE, FEIYI, KCT (1)
+
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vasyasaiko/)*

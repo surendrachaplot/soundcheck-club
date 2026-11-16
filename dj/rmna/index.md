@@ -1,6 +1,6 @@
 # RMNA
 
-RMNA is a Techno and Dub artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Gray Area, San Francisco/Oakland on Tue, 17 Nov 2026.
+RMNA is a Techno and Dub artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Gray Area, San Francisco/Oakland on Tue, 17 Nov 2026.
 
 RMNA is a techno and dub artist based in United States of America, with 16 gigs on soundcheck across Berlin, Detroit, Rome and San Francisco/Oakland. Often billed alongside Kudeki, Torsion and Neel. Next up: Gray Area, San Francisco/Oakland on Tue 17 Nov.
 
@@ -26,4 +26,4 @@ RMNA is a techno and dub artist based in United States of America, with 16 gigs 
 
 Kudeki, Torsion, Neel
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rmna/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rmna/)*

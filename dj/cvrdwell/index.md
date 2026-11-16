@@ -1,6 +1,6 @@
 # Cvrdwell
 
-Cvrdwell is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Kassa Boat, Budapest on Fri, 4 Dec 2026.
+Cvrdwell is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Kassa Boat, Budapest on Fri, 4 Dec 2026.
 
 Cvrdwell is a techno and trance artist based in Hungary, with 54 gigs on soundcheck across Budapest. Often billed alongside AGA2L, Indirect Movement and isu. Next up: Kassa Boat, Budapest on Fri 4 Dec.
 
@@ -27,4 +27,4 @@ Cvrdwell is a techno and trance artist based in Hungary, with 54 gigs on soundch
 
 AGA2L, Indirect Movement, isu
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cvrdwell/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cvrdwell/)*

@@ -1,6 +1,6 @@
 # UNACHAN
 
-UNACHAN is a House and Vaporwave artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Area51 / 17map Minami, Osaka on Sun, 22 Nov 2026.
+UNACHAN is a House and Vaporwave artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Area51 / 17map Minami, Osaka on Sun, 22 Nov 2026.
 
 UNACHAN is a house and vaporwave artist based in Japan, with 5 gigs on soundcheck across Kansai, Kyoto and Osaka. Often billed alongside KEIMIN, 9e_u and Lhinen. Next up: Area51 / 17map Minami, Osaka on Sun 22 Nov.
 
@@ -21,4 +21,4 @@ UNACHAN is a house and vaporwave artist based in Japan, with 5 gigs on soundchec
 
 KEIMIN, 9e_u, Lhinen
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/unachan/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/unachan/)*

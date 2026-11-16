@@ -1,6 +1,6 @@
 # Golden Gate Anniversary at Golden Gate
 
-Golden Gate Anniversary on Thu 19 Nov, Berlin. 25 artists: Ancut, Anderson, Bee Lincoln and Click | Click and 21 more. See the line-up on soundcheck.
+Golden Gate Anniversary on Thu 19 Nov, Berlin. 24 artists: Ancut, Anderson (US), Bee Lincoln and Click | Click and 20 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,7 @@ Golden Gate Anniversary on Thu 19 Nov, Berlin. 25 artists: Ancut, Anderson, Bee 
 ## Line-up
 
 - Ancut
-- Anderson
+- Anderson (US)
 - Bee Lincoln
 - Click | Click
 - Coco
@@ -21,7 +21,6 @@ Golden Gate Anniversary on Thu 19 Nov, Berlin. 25 artists: Ancut, Anderson, Bee 
 - Esther Silex
 - eveava
 - Flo Pirke
-- Hagel
 - Jased
 - jiyun kim
 - Joe BRT

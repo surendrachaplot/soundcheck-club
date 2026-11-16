@@ -1,6 +1,6 @@
 # Maves
 
-Maves is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Outlaws Yacht Club, Leeds on Sun, 6 Dec 2026.
+Maves is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Outlaws Yacht Club, Leeds on Sun, 6 Dec 2026.
 
 Maves is a house and tech house artist based in United Kingdom, with 58 gigs on soundcheck across Leeds, Liverpool, London and Toronto. Often billed alongside RUDEE NIK, Tabbara and Chiara. Next up: Outlaws Yacht Club, Leeds on Sun 6 Dec.
 
@@ -25,4 +25,4 @@ Maves is a house and tech house artist based in United Kingdom, with 58 gigs on 
 
 RUDEE NIK, Tabbara, Chiara
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maves/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maves/)*

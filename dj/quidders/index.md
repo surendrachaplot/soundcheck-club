@@ -1,6 +1,6 @@
 # Quidders
 
-Quidders is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Upper East, London on Fri, 27 Nov 2026.
+Quidders is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Upper East, London on Fri, 27 Nov 2026.
 
 Quidders is a house and tech house artist based in United Kingdom, with 14 gigs on soundcheck across Leeds, London and Manchester. Often billed alongside Jimmy, Brennan and Boink. Next up: Upper East, London on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Quidders is a house and tech house artist based in United Kingdom, with 14 gigs 
 
 Jimmy, Brennan (2), Boink
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/quidders/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/quidders/)*

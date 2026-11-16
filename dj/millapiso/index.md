@@ -1,6 +1,6 @@
 # Milla Piso
 
-Milla Piso is a Dub and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Club Exil, Vienna on Fri, 20 Nov 2026.
+Milla Piso is a Dub and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Club Exil, Vienna on Fri, 20 Nov 2026.
 
 Milla Piso is a dub and techno artist, with 3 gigs on soundcheck across Vienna. Often billed alongside KRAWALLBARBIE, Luca Carlotta and M41RH. Next up: Club Exil, Vienna on Fri 20 Nov.
 
@@ -19,4 +19,4 @@ Milla Piso is a dub and techno artist, with 3 gigs on soundcheck across Vienna. 
 
 KRAWALLBARBIE, Luca Carlotta, M41RH
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/millapiso/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/millapiso/)*

@@ -1,14 +1,13 @@
 # Mac Declos
 
-Mac Declos is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Le Sucre, Lyon on Sun, 15 Nov 2026.
+Mac Declos is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Hangaren, Copenhagen on Fri, 27 Nov 2026.
 
-Mac Declos is a techno and house artist based in France, with 226 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 64 more. Often billed alongside Anetha, Lacchesi and Chlär. Next up: Le Sucre, Lyon on Sun 15 Nov.
+Mac Declos is a techno and house artist based in France, with 226 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 64 more. Often billed alongside Anetha, Lacchesi and Chlär. Next up: Hangaren, Copenhagen on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 15 Nov 2026 | Le Sucre | Lyon |
 | Fri, 27 Nov 2026 | Hangaren | Copenhagen |
 | Sat, 28 Nov 2026 | FOLD | London |
 | Fri, 4 Dec 2026 | Südpol | Hamburg |
@@ -19,6 +18,7 @@ Mac Declos is a techno and house artist based in France, with 226 gigs on soundc
 
 ## Recently played
 
+- Le Sucre, Lyon · Sun, 15 Nov 2026
 - CLUB RAUM, Amsterdam · Fri, 13 Nov 2026
 - Lx Factory, Lisbon · Fri, 13 Nov 2026
 - The Basement Eindhoven, Eindhoven · Sat, 7 Nov 2026
@@ -26,10 +26,9 @@ Mac Declos is a techno and house artist based in France, with 226 gigs on soundc
 - Wigwam, Dublin · Fri, 23 Oct 2026
 - RADION, Amsterdam · Wed, 21 Oct 2026
 - Masada, Milan · Sat, 17 Oct 2026
-- Fabrik, Madrid · Sun, 11 Oct 2026
 
 ## Shares bills with
 
 Anetha, Lacchesi, Chlär
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/macdeclos/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/macdeclos/)*

@@ -1,6 +1,6 @@
 # Philippa Pacho
 
-Philippa Pacho is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Tuff Club, Singapore on Fri, 20 Nov 2026.
+Philippa Pacho is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Tuff Club, Singapore on Fri, 20 Nov 2026.
 
 Philippa Pacho is a techno and house artist based in Sweden, with 275 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bangkok and 82 more. Often billed alongside Blue Hour, Fadi Mohem and Freddy K. Next up: Tuff Club, Singapore on Fri 20 Nov.
 
@@ -33,4 +33,4 @@ Philippa Pacho is a techno and house artist based in Sweden, with 275 gigs on so
 
 Blue Hour, Fadi Mohem, Freddy K
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/philippapacho/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/philippapacho/)*

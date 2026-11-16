@@ -1,6 +1,6 @@
 # Sofia Kourtesis
 
-Sofia Kourtesis is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Frankhan Selectist, Istanbul on Sat, 21 Nov 2026.
+Sofia Kourtesis is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Frankhan Selectist, Istanbul on Sat, 21 Nov 2026.
 
 Sofia Kourtesis is a house and techno artist based in Peru, with 148 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 49 more. Often billed alongside Bonobo, DJ Tennis and Paula Tape. Next up: Frankhan Selectist, Istanbul on Sat 21 Nov.
 
@@ -29,4 +29,4 @@ Sofia Kourtesis is a house and techno artist based in Peru, with 148 gigs on sou
 
 Bonobo, DJ Tennis, Paula Tape
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sofiakourtesis/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sofiakourtesis/)*

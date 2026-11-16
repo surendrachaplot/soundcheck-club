@@ -1,6 +1,6 @@
 # NYAO
 
-NYAO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Enter Shibuya, Tokyo on Mon, 16 Nov 2026.
+NYAO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Enter Shibuya, Tokyo on Mon, 16 Nov 2026.
 
 NYAO is a techno and house artist based in Japan, with 74 gigs on soundcheck across Paris and Tokyo. Often billed alongside Taichi Kawahira, DANA NADA and DANDAN. Next up: Enter Shibuya, Tokyo on Mon 16 Nov.
 
@@ -25,4 +25,4 @@ NYAO is a techno and house artist based in Japan, with 74 gigs on soundcheck acr
 
 Taichi Kawahira, DANA NADA, DANDAN
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nyao/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nyao/)*

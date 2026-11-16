@@ -1,6 +1,6 @@
 # YOSHI KANOU
 
-YOSHI KANOU is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Dogenzaka Church, Tokyo on Tue, 24 Nov 2026.
+YOSHI KANOU is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Dogenzaka Church, Tokyo on Tue, 24 Nov 2026.
 
 YOSHI KANOU is a techno and house artist based in Japan, with 222 gigs on soundcheck across Amsterdam, London, Seoul and Tokyo. Often billed alongside AiMii, WAKA XINXI and DJason. Next up: Dogenzaka Church, Tokyo on Tue 24 Nov.
 
@@ -26,4 +26,4 @@ YOSHI KANOU is a techno and house artist based in Japan, with 222 gigs on soundc
 
 AiMii, WAKA XINXI, DJason
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshikanou/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshikanou/)*

@@ -1,6 +1,6 @@
 # SA:FIR
 
-SA:FIR is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Mashroom, Krakow on Sat, 12 Dec 2026.
+SA:FIR is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Mashroom, Krakow on Sat, 12 Dec 2026.
 
 SA:FIR is a techno and progressive house artist based in Portugal, with 5 gigs on soundcheck across Glasgow, Krakow and Warsaw. Often billed alongside EL PADRE, Jay Cluss and Major K. Next up: Mashroom, Krakow on Sat 12 Dec.
 
@@ -21,4 +21,4 @@ SA:FIR is a techno and progressive house artist based in Portugal, with 5 gigs o
 
 EL PADRE, Jay Cluss, Major K
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/safir-pl/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/safir-pl/)*

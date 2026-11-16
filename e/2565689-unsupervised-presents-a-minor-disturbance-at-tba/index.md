@@ -1,6 +1,6 @@
 # Unsupervised Presents: A Minor Disturbance at TBA
 
-Unsupervised Presents: A Minor Disturbance at TBA on Fri 27 Nov, Sydney. 3 artists: Arketek, Rebel Yell and Scariestgirlintheworld. Breakcore and EBM. See the line-up on soundcheck.
+Unsupervised Presents: A Minor Disturbance at TBA on Fri 27 Nov, Sydney. 2 artists: Rebel Yell and Scariestgirlintheworld. Breakcore and EBM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ Unsupervised Presents: A Minor Disturbance at TBA on Fri 27 Nov, Sydney. 3 artis
 
 ## Line-up
 
-- Arketek
 - Rebel Yell
 - Scariestgirlintheworld
 

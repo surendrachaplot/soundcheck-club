@@ -1,13 +1,14 @@
 # GIVIO
 
-GIVIO is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Noxe Barcelona, Barcelona on Thu, 26 Nov 2026.
+GIVIO is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at La Terrrazza, Barcelona on Sat, 21 Nov 2026.
 
-GIVIO is a house and tech house artist based in Spain, with 96 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ibiza and 4 more. Often billed alongside Sarah Andersson, Nesi and Alex Silva. Next up: Noxe Barcelona, Barcelona on Thu 26 Nov.
+GIVIO is a house and tech house artist based in Spain, with 97 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ibiza and 4 more. Often billed alongside Sarah Andersson, Nesi and Piem. Next up: La Terrrazza, Barcelona on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | La Terrrazza | Barcelona |
 | Thu, 26 Nov 2026 | Noxe Barcelona | Barcelona |
 
 ## Recently played
@@ -23,6 +24,6 @@ GIVIO is a house and tech house artist based in Spain, with 96 gigs on soundchec
 
 ## Shares bills with
 
-Sarah Andersson, Nesi, Alex Silva
+Sarah Andersson, Nesi, Piem
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/givio/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/givio/)*

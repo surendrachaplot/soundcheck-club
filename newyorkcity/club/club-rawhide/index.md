@@ -1,14 +1,13 @@
 # Club Rawhide
 
-Club Rawhide is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "LOVE SENSATION SUNDAYS 11.15.26 w/ The Illustrious Blacks, Johnny Dynell" on Sun, 15 Nov 2026.
+Club Rawhide is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "CODED Thursdays 11.19.26" on Thu, 19 Nov 2026.
 
-Club Rawhide is a music venue in New York City listed on soundcheck. 6 upcoming gigs, with line-ups including Johnny Dynell and The Illustrious Blacks. See dates, start times and who's playing. 250 W 26TH ST.
+Club Rawhide is a music venue in New York City listed on soundcheck. 5 upcoming gigs. See dates, start times and who's playing. 250 W 26TH ST.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 15 Nov 2026 | LOVE SENSATION SUNDAYS 11.15.26 w/ The Illustrious Blacks, Johnny Dynell | Johnny Dynell, The Illustrious Blacks |
 | Thu, 19 Nov 2026 | CODED Thursdays 11.19.26 |  |
 | Thu, 19 Nov 2026 | Bear Happy Hour at The Rambles at Rawhide |  |
 | Fri, 20 Nov 2026 | Club Rawhide FRIDAY NIGHT 11.20.26 |  |
@@ -19,4 +18,4 @@ Club Rawhide is a music venue in New York City listed on soundcheck. 6 upcoming 
 
 250 W 26TH ST, New York City
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/club-rawhide/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/club-rawhide/)*

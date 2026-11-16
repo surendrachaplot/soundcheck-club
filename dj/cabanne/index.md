@@ -1,8 +1,8 @@
 # Cabanne
 
-Cabanne is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at SAM Sampling Moods, Milan on Sat, 21 Nov 2026.
+Cabanne is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at SAM Sampling Moods, Milan on Sat, 21 Nov 2026.
 
-Cabanne is a house and minimal artist based in France, with 76 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 36 more. Often billed alongside Rhadoo, Lowris and Cesar Merveille. Next up: SAM Sampling Moods, Milan on Sat 21 Nov.
+Cabanne is a house and minimal artist based in France, with 77 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 36 more. Often billed alongside Rhadoo, Lowris and Cesar Merveille. Next up: SAM Sampling Moods, Milan on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Cabanne is a house and minimal artist based in France, with 76 gigs on soundchec
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | SAM Sampling Moods | Milan |
 | Sat, 28 Nov 2026 | Frankhan Selectist | Istanbul |
+| Thu, 31 Dec 2026 | TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona | Barcelona |
 | Thu, 26 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
@@ -27,4 +28,4 @@ Cabanne is a house and minimal artist based in France, with 76 gigs on soundchec
 
 Rhadoo, Lowris, Cesar Merveille
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cabanne/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cabanne/)*

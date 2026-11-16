@@ -1,14 +1,13 @@
 # source:link
 
-source:link is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at KREUZWERK, Berlin on Sat, 14 Nov 2026.
+source:link is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at La Gare / Le Gore, Paris on Fri, 20 Nov 2026.
 
-source:link is a house and techno artist based in France, with 27 gigs on soundcheck across Barcelona, Berlin, Helsinki and Leipzig and 5 more. Often billed alongside ābnamā, ADAM MUNNINGS and Hanaby. Next up: KREUZWERK, Berlin on Sat 14 Nov.
+source:link is a house and techno artist based in France, with 27 gigs on soundcheck across Barcelona, Berlin, Helsinki and Leipzig and 5 more. Often billed alongside ābnamā, ADAM MUNNINGS and Hanaby. Next up: La Gare / Le Gore, Paris on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | KREUZWERK | Berlin |
 | Fri, 20 Nov 2026 | La Gare / Le Gore | Paris |
 | Sat, 12 Dec 2026 | Fitzroy | Berlin |
 
@@ -27,4 +26,4 @@ source:link is a house and techno artist based in France, with 27 gigs on soundc
 
 ābnamā, ADAM MUNNINGS, Hanaby
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sourcelink/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sourcelink/)*

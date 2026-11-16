@@ -1,6 +1,6 @@
 # Den Zel
 
-Den Zel is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Under Bron, Stockholm on Sat, 12 Dec 2026.
+Den Zel is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Under Bron, Stockholm on Sat, 12 Dec 2026.
 
 Den Zel is an electronica and house artist, with 2 gigs on soundcheck across Malmo and Stockholm. Often billed alongside Aya, Bella Sarris and CTM. Next up: Under Bron, Stockholm on Sat 12 Dec.
 
@@ -18,4 +18,4 @@ Den Zel is an electronica and house artist, with 2 gigs on soundcheck across Mal
 
 Aya (2), Bella Sarris, CTM (1)
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/denzel-it/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/denzel-it/)*

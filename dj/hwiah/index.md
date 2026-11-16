@@ -1,14 +1,13 @@
 # Hwiah
 
-Hwiah is a Minimal and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Graphic Hangang, Seoul on Wed, 11 Nov 2026.
+Hwiah is a Minimal and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Atdge Seoul, Seoul on Fri, 20 Nov 2026.
 
-Hwiah is a minimal and techno artist based in South Korea, with 37 gigs on soundcheck across Seoul. Often billed alongside Yeji, Hogun and KYVU. Next up: Graphic Hangang, Seoul on Wed 11 Nov.
+Hwiah is a minimal and techno artist based in South Korea, with 37 gigs on soundcheck across Seoul. Often billed alongside Yeji, Hogun and KYVU. Next up: Atdge Seoul, Seoul on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 11 Nov 2026 | Graphic Hangang | Seoul |
 | Fri, 20 Nov 2026 | Atdge Seoul | Seoul |
 
 ## Recently played
@@ -26,4 +25,4 @@ Hwiah is a minimal and techno artist based in South Korea, with 37 gigs on sound
 
 Yeji, Hogun, KYVU
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hwiah/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hwiah/)*

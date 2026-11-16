@@ -1,6 +1,6 @@
 # The Supermercat Gotico
 
-The Supermercat Gotico is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "The Supermercat x Silicona pres. Kala Ros + PILIGN" on Fri, 20 Nov 2026.
+The Supermercat Gotico is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "The Supermercat x Silicona pres. Kala Ros + PILIGN" on Fri, 20 Nov 2026.
 
 The Supermercat Gotico is a music venue in Barcelona listed on soundcheck. 2 upcoming gigs, with line-ups including DD.MATTS, Freeka, Kala Ros and PILIGN and 1 more. See dates, start times and who's playing. Carrer Ample, 32, Ciutat Vella, 08002, Barcelona.
 
@@ -15,4 +15,4 @@ The Supermercat Gotico is a music venue in Barcelona listed on soundcheck. 2 upc
 
 Carrer Ample, 32, Ciutat Vella, 08002, Barcelona, Barcelona
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/the-supermercat-gotico/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/the-supermercat-gotico/)*

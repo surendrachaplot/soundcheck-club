@@ -1,6 +1,6 @@
 # AOS W/ Main Phase, DJ Fuckoff, Janis Zielinski, PAU & MORE at Prince Charles
 
-AOS W/ Main Phase, DJ Fuckoff, Janis Zielinski, PAU & MORE at Prince Charles on Sat 19 Dec, Berlin. 7 artists: DJ Fuckoff, Janis Zielinski, Main Phase and PAU and 3 more. Techno and House. See the line-up on soundcheck.
+AOS W/ Main Phase, DJ Fuckoff, Janis Zielinski, PAU & MORE at Prince Charles on Sat 19 Dec, Berlin. 8 artists: DJ Fuckoff, Janis Zielinski, Main Phase and PAU and 4 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -17,5 +17,6 @@ AOS W/ Main Phase, DJ Fuckoff, Janis Zielinski, PAU & MORE at Prince Charles on 
 - Perra Inmunda
 - Speckman
 - Talia Dorr
+- Talons
 
 *Source: [soundcheck](https://soundcheck.club/e/2577108-aos-w-main-phase-dj-fuckoff-janis-zielinski-pau-more-at-prin/)*

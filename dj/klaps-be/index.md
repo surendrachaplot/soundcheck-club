@@ -1,6 +1,6 @@
 # Klaps
 
-Klaps is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Fuse, Brussels on Sat, 5 Dec 2026.
+Klaps is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Fuse, Brussels on Sat, 5 Dec 2026.
 
 Klaps is a techno and house artist based in Belgium, with 34 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 11 more. Often billed alongside Reinier Zonneveld, Jane Muss and Maharti. Next up: Fuse, Brussels on Sat 5 Dec.
 
@@ -27,4 +27,4 @@ Klaps is a techno and house artist based in Belgium, with 34 gigs on soundcheck 
 
 Reinier Zonneveld, Jane Muss, Maharti
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/klaps-be/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/klaps-be/)*

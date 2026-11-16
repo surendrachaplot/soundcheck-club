@@ -1,13 +1,14 @@
 # Robert Drewek
 
-Robert Drewek is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at 303 Audiophile Bar, Barcelona on Sat, 5 Dec 2026.
+Robert Drewek is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Silbergold, Frankfurt on Fri, 4 Dec 2026.
 
-Robert Drewek is a house and techno artist based in Germany, with 122 gigs on soundcheck across Antwerp, Barcelona, Berlin and Copenhagen and 14 more. Often billed alongside Matt Star, Move D and Dana Ruh. Next up: 303 Audiophile Bar, Barcelona on Sat 5 Dec.
+Robert Drewek is a house and techno artist based in Germany, with 123 gigs on soundcheck across Antwerp, Barcelona, Berlin and Copenhagen and 14 more. Often billed alongside Matt Star, Move D and Dana Ruh. Next up: Silbergold, Frankfurt on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Dec 2026 | Silbergold | Frankfurt |
 | Sat, 5 Dec 2026 | 303 Audiophile Bar | Barcelona |
 | Fri, 15 Jan 2027 | Hoppetosse | Berlin |
 
@@ -26,4 +27,4 @@ Robert Drewek is a house and techno artist based in Germany, with 122 gigs on so
 
 Matt Star, Move D, Dana Ruh
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robertdrewek/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robertdrewek/)*

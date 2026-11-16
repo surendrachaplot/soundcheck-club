@@ -1,6 +1,6 @@
 # .Cheka
 
-.Cheka is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at AMT, Berlin on Tue, 17 Nov 2026.
+.Cheka is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at AMT, Berlin on Tue, 17 Nov 2026.
 
 .Cheka is a techno and trance artist based in Ukraine, with 74 gigs on soundcheck across Berlin, Bratislava, Brussels and Dortmund / Essen and 8 more. Often billed alongside ALIS., PHLOXO and Manrick Stapez. Next up: AMT, Berlin on Tue 17 Nov.
 
@@ -26,4 +26,4 @@
 
 ALIS., PHLOXO, Manrick Stapez
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/.cheka/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/.cheka/)*

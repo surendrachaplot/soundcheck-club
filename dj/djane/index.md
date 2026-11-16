@@ -1,6 +1,6 @@
 # Djane
 
-Djane is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Panic Room, Paris on Sat, 21 Nov 2026.
+Djane is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Panic Room, Paris on Sat, 21 Nov 2026.
 
 Djane is a house and techno artist based in Malaysia, with 5 gigs on soundcheck across Kuala Lumpur, Melbourne and Paris. Often billed alongside Geo (IT), Hysteric and Julia Deychuk. Next up: Panic Room, Paris on Sat 21 Nov.
 
@@ -21,4 +21,4 @@ Djane is a house and techno artist based in Malaysia, with 5 gigs on soundcheck 
 
 Geo (IT), Hysteric, Julia Deychuk
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djane/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djane/)*

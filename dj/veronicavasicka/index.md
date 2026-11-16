@@ -1,6 +1,6 @@
 # Veronica Vasicka
 
-Veronica Vasicka is a Techno and New Wave artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at EXIT Glasgow, Glasgow on Fri, 27 Nov 2026.
+Veronica Vasicka is a Techno and New Wave artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at EXIT Glasgow, Glasgow on Fri, 27 Nov 2026.
 
 Veronica Vasicka is a techno and new wave artist based in United States of America, with 57 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 16 more. Often billed alongside An-i, Amelia Holt and Andi. Next up: EXIT Glasgow, Glasgow on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Veronica Vasicka is a techno and new wave artist based in United States of Ameri
 
 An-i, Amelia Holt, Andi
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/veronicavasicka/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/veronicavasicka/)*

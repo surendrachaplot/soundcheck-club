@@ -1,6 +1,6 @@
 # Karel
 
-Karel is a Reggaeton and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at ISOamsterdam, Amsterdam on Sat, 21 Nov 2026.
+Karel is a Reggaeton and Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at ISOamsterdam, Amsterdam on Sat, 21 Nov 2026.
 
 Karel is a reggaeton and bass artist, with 12 gigs on soundcheck across Amsterdam, Ghent, Rotterdam and Vienna. Often billed alongside DIORA, DJ Europarking and Afra. Next up: ISOamsterdam, Amsterdam on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Karel is a reggaeton and bass artist, with 12 gigs on soundcheck across Amsterda
 
 DIORA, DJ Europarking, Afra
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karel/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karel/)*

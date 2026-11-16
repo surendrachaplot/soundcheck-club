@@ -1,6 +1,6 @@
 # Fenrick
 
-Fenrick is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Sala Independance Club, Madrid on Fri, 20 Nov 2026.
+Fenrick is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Sala Independance Club, Madrid on Fri, 20 Nov 2026.
 
 Fenrick is a techno and trance artist based in Belgium, with 148 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Atlanta and 47 more. Often billed alongside EMILIJA, Odymel and Adrian Mills. Next up: Sala Independance Club, Madrid on Fri 20 Nov.
 
@@ -28,4 +28,4 @@ Fenrick is a techno and trance artist based in Belgium, with 148 gigs on soundch
 
 EMILIJA, Odymel, Adrian Mills
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fenrick/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fenrick/)*

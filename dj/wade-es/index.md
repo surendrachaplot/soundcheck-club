@@ -1,6 +1,6 @@
 # Wade
 
-Wade is a Tech House and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Fitz Club, Madrid on Fri, 20 Nov 2026.
+Wade is a Tech House and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Fitz Club, Madrid on Fri, 20 Nov 2026.
 
 Wade is a tech house and house artist based in Spain, with 113 gigs on soundcheck across Amsterdam, Argentina, Barcelona and Basel and 38 more. Often billed alongside Chelina Manuhutu, Marco Carola and Vintage Culture. Next up: Fitz Club, Madrid on Fri 20 Nov.
 
@@ -29,4 +29,4 @@ Wade is a tech house and house artist based in Spain, with 113 gigs on soundchec
 
 Chelina Manuhutu, Marco Carola, Vintage Culture
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wade-es/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wade-es/)*

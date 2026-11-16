@@ -1,6 +1,6 @@
 # AB Club (Ancienne Belgique)
 
-AB Club (Ancienne Belgique) is a music venue in Brussels with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Afroplug Night - 5th Anniversary" on Fri, 20 Nov 2026.
+AB Club (Ancienne Belgique) is a music venue in Brussels with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Afroplug Night - 5th Anniversary" on Fri, 20 Nov 2026.
 
 AB Club (Ancienne Belgique) is a music venue in Brussels listed on soundcheck. 3 upcoming gigs, with line-ups including Angel Rocket, Brownsugvr, DJ Bisou and LazerGazer and 2 more. See dates, start times and who's playing. Anspachlaan 110, 1000 Brussel.
 
@@ -16,4 +16,4 @@ AB Club (Ancienne Belgique) is a music venue in Brussels listed on soundcheck. 3
 
 Anspachlaan 110, 1000 Brussel, Brussels
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/ab-club-ancienne-belgique/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/ab-club-ancienne-belgique/)*

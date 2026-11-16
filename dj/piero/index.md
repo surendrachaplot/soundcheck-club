@@ -1,6 +1,6 @@
 # PiERO
 
-PiERO is a Psytrance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Kobu Camp Village, Kanto on Sat, 21 Nov 2026.
+PiERO is a Psytrance and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Kobu Camp Village, Kanto on Sat, 21 Nov 2026.
 
 PiERO is a psytrance and techno artist, with 41 gigs on soundcheck across Kanto, Osaka and Tokyo. Often billed alongside Tom Monkey, MASOI and C!AO. Next up: Kobu Camp Village, Kanto on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ PiERO is a psytrance and techno artist, with 41 gigs on soundcheck across Kanto,
 
 Tom Monkey, MASOI, C!AO
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/piero/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/piero/)*

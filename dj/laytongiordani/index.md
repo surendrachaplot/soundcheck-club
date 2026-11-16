@@ -1,15 +1,13 @@
 # Layton Giordani
 
-Layton Giordani is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
+Layton Giordani is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at New City Gas, Montreal on Sat, 28 Nov 2026.
 
-Layton Giordani is a techno and house artist based in United States of America, with 138 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 46 more. Often billed alongside Adam Beyer, John Summit and Green Velvet. Next up: The Concourse Project, Austin on Fri 13 Nov.
+Layton Giordani is a techno and house artist based in United States of America, with 138 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 46 more. Often billed alongside Adam Beyer, John Summit and Green Velvet. Next up: New City Gas, Montreal on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | The Concourse Project | Austin |
-| Sun, 15 Nov 2026 | The Concourse Project | Austin |
 | Sat, 28 Nov 2026 | New City Gas | Montreal |
 | Sat, 28 Nov 2026 | Dstrkt, New City Gas | Montreal |
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |
@@ -19,6 +17,7 @@ Layton Giordani is a techno and house artist based in United States of America, 
 
 ## Recently played
 
+- The Concourse Project, Austin · Sun, 15 Nov 2026
 - Russell Industrial Center, Detroit · Sat, 14 Nov 2026
 - The Concourse Project, Austin · Fri, 13 Nov 2026
 - Factory Town, Miami · Fri, 30 Oct 2026
@@ -26,10 +25,9 @@ Layton Giordani is a techno and house artist based in United States of America, 
 - Waterfront Park in San Diego, San Diego · Sat, 26 Sept 2026
 - TBA - Crobar Club, Palermo, Buenos Aires · Fri, 18 Sept 2026
 - Crobar - Buenos Aires, Buenos Aires · Fri, 18 Sept 2026
-- TBA, Toronto · Sat, 5 Sept 2026
 
 ## Shares bills with
 
 Adam Beyer, John Summit, Green Velvet
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laytongiordani/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laytongiordani/)*

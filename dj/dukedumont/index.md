@@ -1,6 +1,6 @@
 # Duke Dumont
 
-Duke Dumont is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at The Telegraph Building, Belfast on Fri, 20 Nov 2026.
+Duke Dumont is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at The Telegraph Building, Belfast on Fri, 20 Nov 2026.
 
 Duke Dumont is a house and tech house artist based in United Kingdom, with 37 gigs on soundcheck across Austin, Belfast, Boston and Cardiff and 21 more. Often billed alongside Eli & Fur, Lane 8 and Wax Motif. Next up: The Telegraph Building, Belfast on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Duke Dumont is a house and tech house artist based in United Kingdom, with 37 gi
 
 Eli & Fur, Lane 8, Wax Motif
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dukedumont/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dukedumont/)*

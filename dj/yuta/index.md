@@ -1,6 +1,6 @@
 # YUTA
 
-YUTA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Oizumi-Kojo, Kanto on Sun, 22 Nov 2026.
+YUTA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Oizumi-Kojo, Kanto on Sun, 22 Nov 2026.
 
 YUTA is a techno and house artist based in Japan, with 108 gigs on soundcheck across Bangkok, Beijing, Berlin and Central and 16 more. Often billed alongside Shinsuke Goto, DJ Yazi and DJ Nobu. Next up: Oizumi-Kojo, Kanto on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ YUTA is a techno and house artist based in Japan, with 108 gigs on soundcheck ac
 
 Shinsuke Goto, DJ Yazi, DJ Nobu
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yuta/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yuta/)*

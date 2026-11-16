@@ -1,14 +1,13 @@
 # Ian Llorens
 
-Ian Llorens is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat, 14 Nov 2026.
+Ian Llorens is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA - Downtown Los Angeles, Los Angeles on Sat, 12 Dec 2026.
 
-Ian Llorens is a house and deep house artist based in Puerto Rico, with 39 gigs on soundcheck across Los Angeles. Often billed alongside Gilbert0, Sky Rivers and DJ Sneak. Next up: TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat 14 Nov.
+Ian Llorens is a house and deep house artist based in Puerto Rico, with 39 gigs on soundcheck across Los Angeles. Often billed alongside Gilbert0, Sky Rivers and DJ Sneak. Next up: TBA - Downtown Los Angeles, Los Angeles on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | TBA - 2341 E Olympic Blvd Los Angeles, CA  90021 | Los Angeles |
 | Sat, 12 Dec 2026 | TBA - Downtown Los Angeles | Los Angeles |
 
 ## Recently played
@@ -26,4 +25,4 @@ Ian Llorens is a house and deep house artist based in Puerto Rico, with 39 gigs 
 
 Gilbert0, Sky Rivers, DJ Sneak
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ianllorens/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ianllorens/)*

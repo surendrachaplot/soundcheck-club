@@ -1,6 +1,6 @@
 # Manuel Benvegnù
 
-Manuel Benvegnù is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Station Live Club, Milan on Fri, 18 Dec 2026.
+Manuel Benvegnù is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Station Live Club, Milan on Fri, 18 Dec 2026.
 
 Manuel Benvegnù is a house and electronica artist based in Italy, with 2 gigs on soundcheck across Milan. Often billed alongside Ariberto, Gumbelly and Memo (CO). Next up: Station Live Club, Milan on Fri 18 Dec.
 
@@ -18,4 +18,4 @@ Manuel Benvegnù is a house and electronica artist based in Italy, with 2 gigs o
 
 Ariberto, Gumbelly, Memo (CO)
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manuelbenvegnù/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manuelbenvegnù/)*

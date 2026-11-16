@@ -1,14 +1,13 @@
 # Enzo Siragusa
 
-Enzo Siragusa is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Refuge, New York City on Sat, 14 Nov 2026.
+Enzo Siragusa is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Carpa & Picnic of El Poble Espanyol, Barcelona on Sat, 21 Nov 2026.
 
-Enzo Siragusa is a house and tech house artist based in United Kingdom, with 209 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 46 more. Often billed alongside Laidlaw, Traumer and Rossi. Next up: Refuge, New York City on Sat 14 Nov.
+Enzo Siragusa is a house and tech house artist based in United Kingdom, with 209 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 46 more. Often billed alongside Laidlaw, Traumer and Rossi. Next up: Carpa & Picnic of El Poble Espanyol, Barcelona on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Refuge | New York City |
 | Sat, 21 Nov 2026 | Carpa & Picnic of El Poble Espanyol | Barcelona |
 | Fri, 27 Nov 2026 | Depot Mayfield | Manchester |
 | Sat, 28 Nov 2026 | DRUMSHEDS | London |
@@ -34,4 +33,4 @@ Enzo Siragusa is a house and tech house artist based in United Kingdom, with 209
 
 Laidlaw, Traumer, Rossi
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enzosiragusa/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enzosiragusa/)*

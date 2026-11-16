@@ -1,6 +1,6 @@
 # Peryl
 
-Peryl is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Oizumi-Kojo, Kanto on Sun, 22 Nov 2026.
+Peryl is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Oizumi-Kojo, Kanto on Sun, 22 Nov 2026.
 
 Peryl is a techno and experimental artist based in Germany, with 31 gigs on soundcheck across Berlin, Brussels, Dortmund / Essen and Kanto and 5 more. Often billed alongside Rødhåd, Adriana Lopez and Ignez. Next up: Oizumi-Kojo, Kanto on Sun 22 Nov.
 
@@ -27,4 +27,4 @@ Peryl is a techno and experimental artist based in Germany, with 31 gigs on soun
 
 Rødhåd, Adriana Lopez, Ignez
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peryl/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peryl/)*

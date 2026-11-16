@@ -1,6 +1,6 @@
 # Remo-con
 
-Remo-con is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at BRAND SHIBUYA, Tokyo on Sun, 22 Nov 2026.
+Remo-con is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at BRAND SHIBUYA, Tokyo on Sun, 22 Nov 2026.
 
 Remo-con is a techno and house artist based in Japan, with 53 gigs on soundcheck across Chubu, Kyoto, Osaka and Tokyo. Often billed alongside BEPPU, YOSHIMASA and Takami. Next up: BRAND SHIBUYA, Tokyo on Sun 22 Nov.
 
@@ -27,4 +27,4 @@ Remo-con is a techno and house artist based in Japan, with 53 gigs on soundcheck
 
 BEPPU, YOSHIMASA, Takami
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/remo-con/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/remo-con/)*

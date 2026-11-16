@@ -1,6 +1,6 @@
 # CAMET
 
-CAMET is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Mason Bar, Cyprus on Sat, 21 Nov 2026.
+CAMET is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Mason Bar, Cyprus on Sat, 21 Nov 2026.
 
 CAMET is a house and electronica artist based in United Kingdom, with 40 gigs on soundcheck across Barcelona, Berlin, Cyprus and Madrid. Often billed alongside Torrione, JP Candela and COLLISION. Next up: Mason Bar, Cyprus on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ CAMET is a house and electronica artist based in United Kingdom, with 40 gigs on
 
 Torrione, JP Candela, COLLISION
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/camet/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/camet/)*

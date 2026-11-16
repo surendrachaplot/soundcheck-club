@@ -1,6 +1,6 @@
 # Solitaire
 
-Solitaire is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA - Campground 1H from DTLA, Los-angeles on Fri, 16 Apr 2027.
+Solitaire is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA - Campground 1H from DTLA, Los-angeles on Fri, 16 Apr 2027.
 
 Solitaire is a techno and experimental artist based in United States of America, with 4 gigs on soundcheck across Los Angeles. Often billed alongside 92Jelani, Alberto Tolo and Aztekan. Next up: TBA - Campground 1H from DTLA, Los Angeles on Fri 16 Apr.
 
@@ -20,4 +20,4 @@ Solitaire is a techno and experimental artist based in United States of America,
 
 92Jelani, Alberto Tolo, Aztekan
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/solitaire/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/solitaire/)*

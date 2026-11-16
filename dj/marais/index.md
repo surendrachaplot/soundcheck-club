@@ -1,6 +1,6 @@
 # Marais
 
-Marais is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Detune, Milan on Sat, 21 Nov 2026.
+Marais is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Detune, Milan on Sat, 21 Nov 2026.
 
 Marais is a house and tech house artist based in Italy, with 46 gigs on soundcheck across Florence, London, Milan and New York City and 1 more. Often billed alongside N0BLE R0T, Garçon De Rue and Vithz. Next up: Detune, Milan on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Marais is a house and tech house artist based in Italy, with 46 gigs on soundche
 
 N0BLE R0T, Garçon De Rue, Vithz
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marais/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marais/)*

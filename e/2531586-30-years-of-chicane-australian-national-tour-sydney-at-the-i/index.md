@@ -1,6 +1,6 @@
 # 30 Years of Chicane, Australian National Tour - Sydney at The Ivy
 
-30 Years of Chicane, Australian National Tour - Sydney at The Ivy on Sat 13 Feb, Sydney. 1 artist: Chicane. See the line-up on soundcheck.
+30 Years of Chicane, Australian National Tour - Sydney at The Ivy on Sat 13 Feb, Sydney. 1 artist: Chicane. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

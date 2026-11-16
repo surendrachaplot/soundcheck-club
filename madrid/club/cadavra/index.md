@@ -1,6 +1,6 @@
 # Cadavra
 
-Cadavra is a music venue in Madrid with 21 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "D-Leria & SERNA at ANFANG" on Thu, 19 Nov 2026.
+Cadavra is a music venue in Madrid with 21 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "D-Leria & SERNA at ANFANG" on Thu, 19 Nov 2026.
 
 Cadavra is a music venue in Madrid listed on soundcheck. 21 upcoming gigs, with line-ups including Abdulla A., Answer Code Request, Aury and Avo (ES) and 2 more. See dates, start times and who's playing. C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain.
 
@@ -8,7 +8,7 @@ Cadavra is a music venue in Madrid listed on soundcheck. 21 upcoming gigs, with 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 19 Nov 2026 | D-Leria & SERNA at ANFANG | D-Leria, SERNA |
+| Thu, 19 Nov 2026 | D-Leria & SERNA at ANFANG | D-Leria, NETN, SERNA |
 | Fri, 20 Nov 2026 | TROOPERS x MAGIE NOIRE | Gab Jr., Lisandro Mustapic, Luca Ruiz, MARYO, Mar Bravo, Sazky, Thomas Schmitt |
 | Sat, 21 Nov 2026 | Glossy Mistakes with Lena Willikens & Vladimir Ivkovic (all night long) | Lena Willikens, Vladimir Ivkovic |
 | Thu, 26 Nov 2026 | Scuba & Jakka at ANFANG | Jakka, Scuba |
@@ -23,4 +23,4 @@ Cadavra is a music venue in Madrid listed on soundcheck. 21 upcoming gigs, with 
 
 C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain, Madrid
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/cadavra/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/cadavra/)*

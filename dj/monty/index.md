@@ -1,6 +1,6 @@
 # Monty
 
-Monty is a Drum & Bass and Bass artist with 4 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at The Compound by Dirt Dog, Los Angeles on Sat, 5 Dec 2026.
+Monty is a Drum & Bass and Bass artist with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at The Compound by Dirt Dog, Los Angeles on Sat, 5 Dec 2026.
 
 Monty is a drum & bass and bass artist based in Germany, with 92 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 26 more. Often billed alongside Visages, SP:MC and Wiebe Roose. Next up: The Compound by Dirt Dog, Los Angeles on Sat 5 Dec.
 
@@ -28,4 +28,4 @@ Monty is a drum & bass and bass artist based in Germany, with 92 gigs on soundch
 
 Visages, SP:MC, Wiebe Roose
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/monty/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/monty/)*

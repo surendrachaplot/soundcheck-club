@@ -1,6 +1,6 @@
 # Alex Garcia (2)
 
-Alex Garcia (2) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 27 Nov 2026.
+Alex Garcia (2) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 27 Nov 2026.
 
 Alex Garcia is a house and electro artist based in Spain, with 46 gigs on soundcheck across Barcelona and New York City. Often billed alongside Vince Void, Adria (ES) and Pau Rosés. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Alex Garcia is a house and electro artist based in Spain, with 46 gigs on soundc
 
 Vince Void, Adria (ES), Pau Rosés
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexgarcia-2/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexgarcia-2/)*

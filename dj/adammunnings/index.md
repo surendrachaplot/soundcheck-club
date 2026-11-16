@@ -1,14 +1,13 @@
 # ADAM MUNNINGS
 
-ADAM MUNNINGS is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at KREUZWERK, Berlin on Sat, 14 Nov 2026.
+ADAM MUNNINGS is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at ROSA, Berlin on Sat, 21 Nov 2026.
 
-ADAM MUNNINGS is a house and techno artist based in Australia, with 82 gigs on soundcheck across Amsterdam, Athens, Bangkok and Berlin and 9 more. Often billed alongside Elninodiablo, DJ Petite and Jonathan Apelbaum. Next up: KREUZWERK, Berlin on Sat 14 Nov.
+ADAM MUNNINGS is a house and techno artist based in Australia, with 82 gigs on soundcheck across Amsterdam, Athens, Bangkok and Berlin and 9 more. Often billed alongside Elninodiablo, DJ Petite and Jonathan Apelbaum. Next up: ROSA, Berlin on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | KREUZWERK | Berlin |
 | Sat, 21 Nov 2026 | ROSA | Berlin |
 | Thu, 31 Dec 2026 | OST | Berlin |
 | Fri, 1 Jan 2027 | KREUZWERK | Berlin |
@@ -29,4 +28,4 @@ ADAM MUNNINGS is a house and techno artist based in Australia, with 82 gigs on s
 
 Elninodiablo, DJ Petite, Jonathan Apelbaum
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adammunnings/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adammunnings/)*

@@ -1,6 +1,6 @@
 # Kesselhaus
 
-Kesselhaus is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Township Rebellion - Extended Set " on Sat, 21 Nov 2026.
+Kesselhaus is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Township Rebellion - Extended Set " on Sat, 21 Nov 2026.
 
 Kesselhaus is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including Township Rebellion. See dates, start times and who's playing. Knaackstraße 97, 10435 Berlin.
 
@@ -15,4 +15,4 @@ Kesselhaus is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, wit
 
 Knaackstraße 97, 10435 Berlin, Berlin
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kesselhaus/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kesselhaus/)*

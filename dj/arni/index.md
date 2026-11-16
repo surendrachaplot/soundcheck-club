@@ -1,6 +1,6 @@
 # Árni
 
-Árni is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Blindspot*, Bucharest on Fri, 27 Nov 2026.
+Árni is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Blindspot*, Bucharest on Fri, 27 Nov 2026.
 
 Árni is a techno and hardcore artist based in Iceland, with 17 gigs on soundcheck across Berlin, Bucharest and Copenhagen. Often billed alongside AYLIN IDAH, Keeptress and Xyro. Next up: Blindspot*, Bucharest on Fri 27 Nov.
 
@@ -25,4 +25,4 @@
 
 AYLIN IDAH, Keeptress, Xyro
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arni/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arni/)*

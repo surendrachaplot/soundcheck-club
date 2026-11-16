@@ -1,6 +1,6 @@
 # MJ Cole
 
-MJ Cole is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Jumbi, London on Thu, 31 Dec 2026.
+MJ Cole is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Jumbi, London on Thu, 31 Dec 2026.
 
 MJ Cole is a garage and bass artist based in United Kingdom, with 32 gigs on soundcheck across Barcelona, Brighton, Dublin and Ibiza and 4 more. Often billed alongside DJ EZ, Chunky and Kirollus. Next up: Jumbi, London on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ MJ Cole is a garage and bass artist based in United Kingdom, with 32 gigs on sou
 
 DJ EZ, Chunky, Kirollus
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mjcole/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mjcole/)*

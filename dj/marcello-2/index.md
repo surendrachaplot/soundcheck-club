@@ -1,8 +1,8 @@
 # Marcello (2)
 
-Marcello (2) is a House and Acid artist with 4 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Detune, Milan on Fri, 20 Nov 2026.
+Marcello (2) is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Detune, Milan on Fri, 20 Nov 2026.
 
-Marcello is a house and acid artist based in Italy, with 33 gigs on soundcheck across Amsterdam, Austria, Berlin and Milan. Often billed alongside Nicola Mazzetti, Alexander Koning and Lucien Foort. Next up: Detune, Milan on Fri 20 Nov.
+Marcello is a house and techno artist based in Italy, with 33 gigs on soundcheck across Amsterdam, Austria, Berlin and Milan. Often billed alongside Nicola Mazzetti, Alexander Koning and Lucien Foort. Next up: Detune, Milan on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -10,7 +10,7 @@ Marcello is a house and acid artist based in Italy, with 33 gigs on soundcheck a
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Detune | Milan |
 | Thu, 10 Dec 2026 | Saalbach-Hinterglemm | Austria |
-| Sat, 13 Feb 2027 | Lofi | Amsterdam |
+| Sat, 13 Feb 2027 | TBA | Amsterdam |
 | Sat, 10 Apr 2027 | Thuishaven | Amsterdam |
 
 ## Recently played
@@ -28,4 +28,4 @@ Marcello is a house and acid artist based in Italy, with 33 gigs on soundcheck a
 
 Nicola Mazzetti, Alexander Koning, Lucien Foort
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcello-2/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcello-2/)*

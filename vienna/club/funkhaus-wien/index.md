@@ -1,8 +1,8 @@
 # Funkhaus Wien
 
-Funkhaus Wien is a music venue in Vienna with 10 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "The House of Funk presents Ricky Chong" on Fri, 20 Nov 2026.
+Funkhaus Wien is a music venue in Vienna with 11 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "The House of Funk presents Ricky Chong" on Fri, 20 Nov 2026.
 
-Funkhaus Wien is a music venue in Vienna listed on soundcheck. 10 upcoming gigs, with line-ups including Diskohengst, Felix Wolfs, Gerd Janson and Lua Preta and 2 more. See dates, start times and who's playing.
+Funkhaus Wien is a music venue in Vienna listed on soundcheck. 11 upcoming gigs, with line-ups including Diskohengst, Felix Wolfs, Gerd Janson and Lua Preta and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
@@ -19,4 +19,4 @@ Funkhaus Wien is a music venue in Vienna listed on soundcheck. 10 upcoming gigs,
 | Sat, 19 Dec 2026 | traveling without moving |  |
 | Sat, 16 Jan 2027 | traveling without moving |  |
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/funkhaus-wien/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/funkhaus-wien/)*

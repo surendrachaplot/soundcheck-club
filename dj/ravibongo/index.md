@@ -1,6 +1,6 @@
 # Ravi Bongo
 
-Ravi Bongo is a Afro House and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at AB Club (Ancienne Belgique), Brussels on Fri, 20 Nov 2026.
+Ravi Bongo is a Afro House and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at AB Club (Ancienne Belgique), Brussels on Fri, 20 Nov 2026.
 
 Ravi Bongo is an afro house and club artist, with 5 gigs on soundcheck across Brussels. Often billed alongside Brownsugvr, Joliiah and CHKLTE. Next up: AB Club (Ancienne Belgique), Brussels on Fri 20 Nov.
 
@@ -21,4 +21,4 @@ Ravi Bongo is an afro house and club artist, with 5 gigs on soundcheck across Br
 
 Brownsugvr, Joliiah, CHKLTE
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ravibongo/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ravibongo/)*

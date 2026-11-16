@@ -1,6 +1,6 @@
 # Minimal Bar
 
-Minimal Bar is a music venue in Berlin with 79 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Lazy.Sunday with Tasting Notes" on Sun, 15 Nov 2026.
+Minimal Bar is a music venue in Berlin with 79 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "manic.monday mit Pablo Cornejo (Chile)" on Mon, 16 Nov 2026.
 
 Minimal Bar is a music venue in Berlin listed on soundcheck. 79 upcoming gigs, with line-ups including Beshy, CEEE, CL-ljud and Clarence and 2 more. See dates, start times and who's playing. Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany.
 
@@ -8,7 +8,6 @@ Minimal Bar is a music venue in Berlin listed on soundcheck. 79 upcoming gigs, w
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 15 Nov 2026 | Lazy.Sunday with Tasting Notes | Tasting Notes |
 | Mon, 16 Nov 2026 | manic.monday mit Pablo Cornejo (Chile) | Pablo Cornejo |
 | Mon, 16 Nov 2026 | Lazy.Sunday with Tasting Notes |  |
 | Tue, 17 Nov 2026 | Go.Play with Gaamer |  |
@@ -18,9 +17,10 @@ Minimal Bar is a music venue in Berlin listed on soundcheck. 79 upcoming gigs, w
 | Sat, 21 Nov 2026 | Visitor.area mit Eric Heydenfeld & DJ Burdi Call (Brudi love) | Eric Heydenfeld |
 | Sun, 22 Nov 2026 | Lazy.Sunday with Keyvan |  |
 | Mon, 23 Nov 2026 | Manic.Monday with Fineberg |  |
+| Tue, 24 Nov 2026 | Go.Play with Robot Girl |  |
 
 ## Address
 
 Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany, Berlin
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/minimal-bar/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/minimal-bar/)*

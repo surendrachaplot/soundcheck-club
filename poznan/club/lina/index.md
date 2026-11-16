@@ -1,6 +1,6 @@
 # ŚLINA
 
-ŚLINA is a music venue in Poznan with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. The next is "Earth Trax Live Autumn/Winter Tour Poznan" on Fri, 27 Nov 2026.
+ŚLINA is a music venue in Poznan with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. The next is "Earth Trax Live Autumn/Winter Tour Poznan" on Fri, 27 Nov 2026.
 
 ŚLINA is a music venue in Poznan listed on soundcheck. 1 upcoming gig, with line-ups including DJ Duch and Earth Trax. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Earth Trax Live Autumn/Winter Tour Poznan | DJ Duch, Earth Trax |
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/poznan/club/lina/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/poznan/club/lina/)*

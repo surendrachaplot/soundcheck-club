@@ -1,6 +1,6 @@
 # D-Grade
 
-D-Grade is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA, Sydney on Sat, 28 Nov 2026.
+D-Grade is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA, Sydney on Sat, 28 Nov 2026.
 
 D-Grade is a techno and club artist based in Australia, with 62 gigs on soundcheck across Adelaide, Athens, Beijing and Canberra and 5 more. Often billed alongside Paramat, LOIF and Moopie. Next up: TBA, Sydney on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ D-Grade is a techno and club artist based in Australia, with 62 gigs on soundche
 
 Paramat, LOIF, Moopie
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/d-grade/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/d-grade/)*

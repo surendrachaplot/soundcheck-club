@@ -1,6 +1,6 @@
 # KRAFT Premium Pounding Techno 13th of February 2027 at Lagerwal
 
-KRAFT Premium Pounding Techno 13th of February 2027 at Lagerwal on Sat 13 Feb, Amsterdam. 1 artist: TheKoosy. See the line-up on soundcheck.
+KRAFT Premium Pounding Techno 13th of February 2027 at Lagerwal on Sat 13 Feb, Amsterdam. 1 artist: TheKoosy. Techno and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

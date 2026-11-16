@@ -1,6 +1,6 @@
 # ＬＩＬＩＴＨ ✦ 5€ PRE-SALE ✦ at ÆDEN
 
-ＬＩＬＩＴＨ ✦ 5€ PRE-SALE ✦ at ÆDEN on Wed 18 Nov, Berlin. 2 artists: Stom and VNVK. Techno and House. See the line-up on soundcheck.
+ＬＩＬＩＴＨ ✦ 5€ PRE-SALE ✦ at ÆDEN on Wed 18 Nov, Berlin. 4 artists: KLOE, Sinesthesia, Stom and VNVK. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@
 
 ## Line-up
 
+- KLOE
+- Sinesthesia
 - Stom
 - VNVK
 

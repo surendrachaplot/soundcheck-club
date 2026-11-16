@@ -1,6 +1,6 @@
 # Runner
 
-Runner is a Ambient and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Patision65, Athens on Sat, 28 Nov 2026.
+Runner is a Ambient and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Patision65, Athens on Sat, 28 Nov 2026.
 
 Runner is an ambient and club artist based in Greece, with 5 gigs on soundcheck across Athens. Often billed alongside Nausicaä, Poor J’Darr and pink.wav. Next up: Patision65, Athens on Sat 28 Nov.
 
@@ -21,4 +21,4 @@ Runner is an ambient and club artist based in Greece, with 5 gigs on soundcheck 
 
 Nausicaä, Poor J’Darr, pink.wav
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/runner/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/runner/)*

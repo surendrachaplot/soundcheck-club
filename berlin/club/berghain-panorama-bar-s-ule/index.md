@@ -1,6 +1,6 @@
 # Berghain | Panorama Bar | Säule
 
-Berghain | Panorama Bar | Säule is a music venue in Berlin with 23 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "HEELIX" on Thu, 19 Nov 2026.
+Berghain | Panorama Bar | Säule is a music venue in Berlin with 23 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "HEELIX" on Thu, 19 Nov 2026.
 
 Berghain | Panorama Bar | Säule is a music venue in Berlin listed on soundcheck. 23 upcoming gigs, with line-ups including 96 Back, Abajour, Abo Abo and Akua and 2 more. See dates, start times and who's playing. 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Berghain | Panorama Bar | Säule is a music venue in Berlin listed on soundcheck
 
 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany, Berlin
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/berghain-panorama-bar-s-ule/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/berghain-panorama-bar-s-ule/)*

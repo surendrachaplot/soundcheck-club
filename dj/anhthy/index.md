@@ -1,6 +1,6 @@
 # ANH THY
 
-ANH THY is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Chausseestrasse 131, Berlin on Fri, 20 Nov 2026.
+ANH THY is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Chausseestrasse 131, Berlin on Fri, 20 Nov 2026.
 
 ANH THY is a trance and techno artist, with 2 gigs on soundcheck across Berlin. Often billed alongside David Samó, GARNELE and e.leptic. Next up: Chausseestrasse 131, Berlin on Fri 20 Nov.
 
@@ -18,4 +18,4 @@ ANH THY is a trance and techno artist, with 2 gigs on soundcheck across Berlin. 
 
 David Samó, GARNELE, e.leptic
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anhthy/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anhthy/)*

@@ -1,14 +1,13 @@
 # MC GQ
 
-MC GQ is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Night Tales, London on Sun, 15 Nov 2026.
+MC GQ is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri, 20 Nov 2026.
 
-MC GQ is a drum & bass and jungle artist based in United Kingdom, with 99 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Birmingham and 15 more. Often billed alongside Dillinja, SP:MC and DJ Marky. Next up: Night Tales, London on Sun 15 Nov.
+MC GQ is a drum & bass and jungle artist based in United Kingdom, with 99 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Birmingham and 15 more. Often billed alongside Dillinja, SP:MC and DJ Marky. Next up: TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 15 Nov 2026 | Night Tales | London |
 | Fri, 20 Nov 2026 | TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday) | Amsterdam |
 | Fri, 20 Nov 2026 | Ampere | Antwerp |
 | Sat, 21 Nov 2026 | Warehouse Elementenstraat | Amsterdam |
@@ -17,6 +16,7 @@ MC GQ is a drum & bass and jungle artist based in United Kingdom, with 99 gigs o
 
 ## Recently played
 
+- Night Tales, London · Sun, 15 Nov 2026
 - Outernet Live, London · Sat, 14 Nov 2026
 - fabric, London · Sat, 14 Nov 2026
 - DRUMSHEDS, London · Sat, 7 Nov 2026
@@ -24,10 +24,9 @@ MC GQ is a drum & bass and jungle artist based in United Kingdom, with 99 gigs o
 - TAC (Tottenham Arts Collective), London · Fri, 30 Oct 2026
 - fabric, London · Fri, 23 Oct 2026
 - Eutopia Whs, London · Sat, 5 Sept 2026
-- Disco Zwei, Mannheim · Sat, 5 Sept 2026
 
 ## Shares bills with
 
 Dillinja, SP:MC, DJ Marky
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mcgq/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mcgq/)*

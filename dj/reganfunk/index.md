@@ -1,6 +1,6 @@
 # Regan Funk
 
-Regan Funk is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Oculist, Brighton on Sat, 28 Nov 2026.
+Regan Funk is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Oculist, Brighton on Sat, 28 Nov 2026.
 
 Regan Funk is a tech house and techno artist based in United Kingdom, with 27 gigs on soundcheck across Brighton and London. Often billed alongside Oli Leal, DJOM and From A To B. Next up: Oculist, Brighton on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Regan Funk is a tech house and techno artist based in United Kingdom, with 27 gi
 
 Oli Leal, DJOM, From A To B
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reganfunk/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reganfunk/)*

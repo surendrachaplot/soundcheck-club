@@ -1,6 +1,6 @@
 # SIVINSKI
 
-SIVINSKI is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Studio dB, Berlin on Sat, 5 Dec 2026.
+SIVINSKI is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Studio dB, Berlin on Sat, 5 Dec 2026.
 
 SIVINSKI is a techno and minimal techno artist based in Argentina, with 12 gigs on soundcheck across Barcelona, Berlin, Milan and Turin. Often billed alongside AGUSTIN BARBEI, ARIHA and Alfa Cornae. Next up: Studio dB, Berlin on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ SIVINSKI is a techno and minimal techno artist based in Argentina, with 12 gigs 
 
 AGUSTIN BARBEI, ARIHA, Alfa Cornae
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sivinski/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sivinski/)*

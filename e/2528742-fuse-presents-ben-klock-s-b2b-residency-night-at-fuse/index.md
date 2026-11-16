@@ -1,6 +1,6 @@
 # Fuse presents: Ben Klock's b2b residency night at Fuse
 
-Fuse presents: Ben Klock's b2b residency night on Sat 13 Feb, Brussels. 1 artist: Ben Klock. See the line-up on soundcheck.
+Fuse presents: Ben Klock's b2b residency night on Sat 13 Feb, Brussels. 1 artist: Ben Klock. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Truant
 
-Truant is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at REDDO Warsaw, Warsaw on Sat, 21 Nov 2026.
+Truant is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at REDDO Warsaw, Warsaw on Sat, 21 Nov 2026.
 
 Truant is a techno and tech house artist based in Poland, with 91 gigs on soundcheck across Berlin, Copenhagen, Krakow and Poznan and 2 more. Often billed alongside Jerry M, KEVS and BEXA. Next up: REDDO Warsaw, Warsaw on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Truant is a techno and tech house artist based in Poland, with 91 gigs on soundc
 
 Jerry M, KEVS, BEXA
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/truant/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/truant/)*

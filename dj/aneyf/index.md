@@ -1,6 +1,6 @@
 # Aney F.
 
-Aney F. is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Publika Bar Klub, Ljubljana on Fri, 20 Nov 2026.
+Aney F. is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Publika Bar Klub, Ljubljana on Fri, 20 Nov 2026.
 
 Aney F. is a house and tech house artist based in Slovenia, with 26 gigs on soundcheck across Ljubljana and Zagreb. Often billed alongside Elena Mikac, James Cole and Art Dealer (IT). Next up: Publika Bar Klub, Ljubljana on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Aney F. is a house and tech house artist based in Slovenia, with 26 gigs on soun
 
 Elena Mikac, James Cole, Art Dealer (IT)
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aneyf/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aneyf/)*

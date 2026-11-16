@@ -1,6 +1,6 @@
 # Koralle
 
-Koralle is a music venue in Dresden with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Haus of House" on Fri, 20 Nov 2026.
+Koralle is a music venue in Dresden with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Haus of House" on Fri, 20 Nov 2026.
 
 Koralle is a music venue in Dresden listed on soundcheck. 3 upcoming gigs, with line-ups including Gabriele Congedo, Larry Love, OutWithJane and Tensition. See dates, start times and who's playing.
 
@@ -12,4 +12,4 @@ Koralle is a music venue in Dresden listed on soundcheck. 3 upcoming gigs, with 
 | Sat, 21 Nov 2026 | Momentum with Haide Cuhn, Butz Solo aka Sørenzho & More |  |
 | Sat, 28 Nov 2026 | UNDER PRESSURE | Tensition |
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dresden/club/koralle/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dresden/club/koralle/)*

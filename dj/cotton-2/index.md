@@ -1,6 +1,6 @@
 # cotton
 
-cotton is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Bossa Nova Civic Club, New York City on Tue, 17 Nov 2026.
+cotton is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Bossa Nova Civic Club, New York City on Tue, 17 Nov 2026.
 
 cotton is a techno and electro artist based in United States of America, with 48 gigs on soundcheck across Athens, Berlin, Chicago and Istanbul and 3 more. Often billed alongside Juliana Huxtable, Kilopatrah Jones and Massimiliano Pagliara. Next up: Bossa Nova Civic Club, New York City on Tue 17 Nov.
 
@@ -25,4 +25,4 @@ cotton is a techno and electro artist based in United States of America, with 48
 
 Juliana Huxtable, Kilopatrah Jones, Massimiliano Pagliara
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cotton-2/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cotton-2/)*

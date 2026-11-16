@@ -1,0 +1,21 @@
+# Yaroslav Lebedinskiy
+
+Yaroslav Lebedinskiy is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at DEX, Moscow on Fri, 11 Dec 2026.
+
+Yaroslav Lebedinskiy is an electronic artist based in Russia, with 2 gigs on soundcheck across Moscow and Saint Petersburg. Often billed alongside ALOD, Chain Damage and Gemüt. Next up: DEX, Moscow on Fri 11 Dec.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 11 Dec 2026 | DEX | Moscow |
+
+## Recently played
+
+- K-30, Saint-petersburg · Sat, 7 Nov 2026
+
+## Shares bills with
+
+ALOD, Chain Damage, Gemüt
+
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yaroslavlebedinskiy/)*

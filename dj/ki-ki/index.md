@@ -1,15 +1,13 @@
 # KI/KI
 
-KI/KI is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
+KI/KI is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Magazine London, London on Sat, 21 Nov 2026.
 
-KI/KI is a techno and house artist based in Netherlands, with 238 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 80 more. Often billed alongside DJ Gigola, Anetha and Funk Tribu. Next up: The Concourse Project, Austin on Fri 13 Nov.
+KI/KI is a techno and house artist based in Netherlands, with 238 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 80 more. Often billed alongside DJ Gigola, Anetha and Funk Tribu. Next up: Magazine London, London on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | The Concourse Project | Austin |
-| Sun, 15 Nov 2026 | The Concourse Project | Austin |
 | Sat, 21 Nov 2026 | Magazine London | London |
 | Sat, 28 Nov 2026 | Tour & Taxis | Brussels |
 | Fri, 4 Dec 2026 | Coliseo Medplus | Bogot |
@@ -20,9 +18,11 @@ KI/KI is a techno and house artist based in Netherlands, with 238 gigs on soundc
 | Sat, 2 Jan 2027 | Arena Joondalup | Perth |
 | Sat, 9 Jan 2027 | Carriageworks | Sydney |
 | Sat, 3 Apr 2027 | Maimarkthalle | Mannheim |
+| Thu, 17 Jun 2027 | TBA - Barcelona (Sónar by Day) & Fira Gran Via (Sónar by Night) | Barcelona |
 
 ## Recently played
 
+- The Concourse Project, Austin · Sun, 15 Nov 2026
 - The Concourse Project, Austin · Fri, 13 Nov 2026
 - Parque Fundidora, Monterrey · Fri, 13 Nov 2026
 - Tinker Field, Orlando · Fri, 6 Nov 2026
@@ -30,10 +30,9 @@ KI/KI is a techno and house artist based in Netherlands, with 238 gigs on soundc
 - Ziggo Dome, Amsterdam · Thu, 22 Oct 2026
 - Mana Wynwood, Miami · Fri, 16 Oct 2026
 - Depot Mayfield, Manchester · Fri, 18 Sept 2026
-- Hafen 49, Mannheim · Sun, 13 Sept 2026
 
 ## Shares bills with
 
 DJ Gigola, Anetha, Funk Tribu
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ki-ki/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ki-ki/)*

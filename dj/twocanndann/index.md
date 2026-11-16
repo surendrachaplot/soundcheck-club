@@ -1,6 +1,6 @@
 # TWOCANNDANN
 
-TWOCANNDANN is a Hardcore and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Audio, Glasgow on Fri, 27 Nov 2026.
+TWOCANNDANN is a Hardcore and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Audio, Glasgow on Fri, 27 Nov 2026.
 
 TWOCANNDANN is a hardcore and breakbeat artist, with 52 gigs on soundcheck across Dundee, Edinburgh, Glasgow and Seoul. Often billed alongside amhailt.xox, dj bitrot and CELTIC TERROR SQUAD. Next up: Audio, Glasgow on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ TWOCANNDANN is a hardcore and breakbeat artist, with 52 gigs on soundcheck acros
 
 amhailt.xox, dj bitrot, CELTIC TERROR SQUAD
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/twocanndann/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/twocanndann/)*

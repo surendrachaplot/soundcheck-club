@@ -1,6 +1,6 @@
 # Evan Espinoza
 
-Evan Espinoza is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA - SECRET DOWNTOWN LOCATION, Vancouver on Sat, 21 Nov 2026.
+Evan Espinoza is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA - SECRET DOWNTOWN LOCATION, Vancouver on Sat, 21 Nov 2026.
 
 Evan Espinoza is a techno and house artist based in Mexico, with 13 gigs on soundcheck across Vancouver. Often billed alongside Behrad Tehrani, C-Star and Lalo Campo. Next up: TBA - SECRET DOWNTOWN LOCATION, Vancouver on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Evan Espinoza is a techno and house artist based in Mexico, with 13 gigs on soun
 
 Behrad Tehrani, C-Star, Lalo Campo
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/evanespinoza-mx/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/evanespinoza-mx/)*

@@ -1,6 +1,6 @@
 # Q35 WAREHOUSE
 
-Q35 WAREHOUSE is a music venue in Turin with 5 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "John Talabot hosted by EAR\WAX" on Sat, 21 Nov 2026.
+Q35 WAREHOUSE is a music venue in Turin with 5 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "John Talabot hosted by EAR\WAX" on Sat, 21 Nov 2026.
 
 Q35 WAREHOUSE is a music venue in Turin listed on soundcheck. 5 upcoming gigs, with line-ups including Aberra, Adiel, Ellen Allien and HAAi and 2 more. See dates, start times and who's playing. Lungo Dora Firenze 131/A.
 
@@ -18,4 +18,4 @@ Q35 WAREHOUSE is a music venue in Turin listed on soundcheck. 5 upcoming gigs, w
 
 Lungo Dora Firenze 131/A, Turin
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/turin/club/q35-warehouse/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/turin/club/q35-warehouse/)*

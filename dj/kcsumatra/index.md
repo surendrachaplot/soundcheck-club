@@ -1,6 +1,6 @@
 # KC Sumatra
 
-KC Sumatra is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at De Papierfabriek, Nijmegen on Fri, 27 Nov 2026.
+KC Sumatra is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at De Papierfabriek, Nijmegen on Fri, 27 Nov 2026.
 
 KC Sumatra is an electronic artist, with 4 gigs on soundcheck across Amsterdam, Nijmegen and Rotterdam. Often billed alongside Anz, DJ Pointless and Dave Nunes. Next up: De Papierfabriek, Nijmegen on Fri 27 Nov.
 
@@ -20,4 +20,4 @@ KC Sumatra is an electronic artist, with 4 gigs on soundcheck across Amsterdam, 
 
 Anz, DJ Pointless, Dave Nunes
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kcsumatra/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kcsumatra/)*

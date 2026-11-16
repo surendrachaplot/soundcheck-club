@@ -1,6 +1,6 @@
 # PIRAPUS
 
-PIRAPUS is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA - 433 Settlement Road , Kaiwaka, New Zealand 0573, North-island on Wed, 30 Dec 2026.
+PIRAPUS is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA - 433 Settlement Road , Kaiwaka, New Zealand 0573, North-island on Wed, 30 Dec 2026.
 
 PIRAPUS is a drum & bass and bass artist based in New Zealand, with 17 gigs on soundcheck across Amsterdam, Auckland, Bratislava and Bristol and 11 more. Often billed alongside 4am Kru, A Little Sound and Andromedik. Next up: TBA - 433 Settlement Road , Kaiwaka, New Zealand 0573, North Island on Wed 30 Dec.
 
@@ -26,4 +26,4 @@ PIRAPUS is a drum & bass and bass artist based in New Zealand, with 17 gigs on s
 
 4am Kru, A Little Sound, Andromedik
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pirapus/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pirapus/)*

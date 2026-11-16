@@ -1,6 +1,6 @@
 # Emel
 
-Emel is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at OneSixOne, Melbourne on Mon, 23 Nov 2026.
+Emel is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at OneSixOne, Melbourne on Mon, 23 Nov 2026.
 
 Emel is a house and techno artist based in Philippines, with 52 gigs on soundcheck across Bangkok, Bangladesh, Beijing and Berlin and 13 more. Often billed alongside Ouissam, Saint Guel and DOTT. Next up: OneSixOne, Melbourne on Mon 23 Nov.
 
@@ -26,4 +26,4 @@ Emel is a house and techno artist based in Philippines, with 52 gigs on soundche
 
 Ouissam, Saint Guel, DOTT
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emel-ph/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emel-ph/)*

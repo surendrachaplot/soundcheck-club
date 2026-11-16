@@ -1,6 +1,6 @@
 # Draik Lezbijan
 
-Draik Lezbijan is a Footwork and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Soulwerks, Los Angeles on Fri, 20 Nov 2026.
+Draik Lezbijan is a Footwork and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Soulwerks, Los Angeles on Fri, 20 Nov 2026.
 
 Draik Lezbijan is a footwork and electronica artist based in United States of America, with 4 gigs on soundcheck across Los Angeles. Often billed alongside Ava Blank, Icon Alias and Sportress. Next up: Soulwerks, Los Angeles on Fri 20 Nov.
 
@@ -20,4 +20,4 @@ Draik Lezbijan is a footwork and electronica artist based in United States of Am
 
 Ava Blank, Icon Alias, Sportress
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/draiklezbijan/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/draiklezbijan/)*

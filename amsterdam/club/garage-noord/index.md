@@ -1,14 +1,13 @@
 # Garage Noord
 
-Garage Noord is a music venue in Amsterdam with 6 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "BeHaerd - Purposely Connect #2" on Sun, 15 Nov 2026.
+Garage Noord is a music venue in Amsterdam with 5 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "PLEASERS" on Fri, 20 Nov 2026.
 
-Garage Noord is a music venue in Amsterdam listed on soundcheck. 6 upcoming gigs, with line-ups including Anthony Linell, Apsāya, AUCO and August (NL) and 2 more. See dates, start times and who's playing. Gedempt Hamerkanaal 40, 1012 KM Amsterdam.
+Garage Noord is a music venue in Amsterdam listed on soundcheck. 5 upcoming gigs, with line-ups including Apsāya, AUCO, August (NL) and baby ganoush and 2 more. See dates, start times and who's playing. Gedempt Hamerkanaal 40, 1012 KM Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 15 Nov 2026 | BeHaerd - Purposely Connect #2 | Anthony Linell, DHÆÜR, Daan Donk, Doran, Idilay, Jessie Granqvist, LUAR (NL), Victor (DE) |
 | Fri, 20 Nov 2026 | PLEASERS | AUCO |
 | Sat, 21 Nov 2026 | Omen Wapta Weekender | Apsāya, Emika Elena, Gan D, Gui (PT), Innersha, Mimu, Moss M, Property, Raär, Sarah Wreath, Woody92, bipolar |
 | Fri, 27 Nov 2026 | VHS x Pacific Ondergronds Bar40 hosted by Spacebunker | VHS |
@@ -19,4 +18,4 @@ Garage Noord is a music venue in Amsterdam listed on soundcheck. 6 upcoming gigs
 
 Gedempt Hamerkanaal 40, 1012 KM Amsterdam, Amsterdam
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/garage-noord/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/garage-noord/)*

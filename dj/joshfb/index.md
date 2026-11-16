@@ -1,14 +1,15 @@
 # JOSH FB
 
-JOSH FB is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Grow, London on Fri, 27 Nov 2026.
+JOSH FB is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Grow, London on Fri, 27 Nov 2026.
 
-JOSH FB is a disco and house artist based in United Kingdom, with 61 gigs on soundcheck across Amsterdam, Berlin, Bristol and Edinburgh and 10 more. Often billed alongside Sunni D, Léna C and Boboxa. Next up: Grow, London on Fri 27 Nov.
+JOSH FB is a disco and house artist based in United Kingdom, with 62 gigs on soundcheck across Amsterdam, Berlin, Bristol and Edinburgh and 10 more. Often billed alongside Sunni D, Léna C and Boboxa. Next up: Grow, London on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Grow | London |
+| Sat, 13 Feb 2027 | Bread and Butter Arch | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ JOSH FB is a disco and house artist based in United Kingdom, with 61 gigs on sou
 
 Sunni D, Léna C, Boboxa
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshfb/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshfb/)*

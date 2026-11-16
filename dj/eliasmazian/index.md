@@ -1,6 +1,6 @@
 # Elias Mazian
 
-Elias Mazian is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Glamorama, Melbourne on Fri, 20 Nov 2026.
+Elias Mazian is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Glamorama, Melbourne on Fri, 20 Nov 2026.
 
 Elias Mazian is a house and techno artist based in Netherlands, with 130 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bristol and 25 more. Often billed alongside Suze Ijó, Tsepo and BELLA (NL). Next up: Glamorama, Melbourne on Fri 20 Nov.
 
@@ -31,4 +31,4 @@ Elias Mazian is a house and techno artist based in Netherlands, with 130 gigs on
 
 Suze Ijó, Tsepo, BELLA (NL)
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eliasmazian/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eliasmazian/)*

@@ -1,14 +1,13 @@
 # The Blessed Madonna
 
-The Blessed Madonna is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Club Hípico de Santiago, Santiago on Sat, 14 Nov 2026.
+The Blessed Madonna is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Expo Santa Fe, Mexico City on Fri, 20 Nov 2026.
 
-The Blessed Madonna is a house and techno artist based in United States of America, with 148 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 49 more. Often billed alongside Honey Dijon, HAAi and Mochakk. Next up: Club Hípico de Santiago, Santiago on Sat 14 Nov.
+The Blessed Madonna is a house and techno artist based in United States of America, with 148 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 49 more. Often billed alongside Honey Dijon, HAAi and Mochakk. Next up: Expo Santa Fe, Mexico City on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Club Hípico de Santiago | Santiago |
 | Fri, 20 Nov 2026 | Expo Santa Fe | Mexico City |
 | Sat, 5 Dec 2026 | Plano B | Porto |
 
@@ -27,4 +26,4 @@ The Blessed Madonna is a house and techno artist based in United States of Ameri
 
 Honey Dijon, HAAi, Mochakk
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theblessedmadonna/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theblessedmadonna/)*

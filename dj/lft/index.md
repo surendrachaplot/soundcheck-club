@@ -1,14 +1,13 @@
 # L.F.T.
 
-L.F.T. is a Techno and Electro artist with 5 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Bunker, Turin on Sat, 14 Nov 2026.
+L.F.T. is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Volnost, Seoul on Fri, 20 Nov 2026.
 
-L.F.T. is a techno and electro artist based in Germany, with 128 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 44 more. Often billed alongside Festnacht, DJ MELL G and Helena Hauff. Next up: Bunker, Turin on Sat 14 Nov.
+L.F.T. is a techno and electro artist based in Germany, with 128 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 44 more. Often billed alongside Festnacht, DJ MELL G and Helena Hauff. Next up: Volnost, Seoul on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Bunker | Turin |
 | Fri, 20 Nov 2026 | Volnost | Seoul |
 | Sat, 21 Nov 2026 | Pawnshop | Taipei |
 | Sat, 28 Nov 2026 | OIL Club | Shenzhen |
@@ -29,4 +28,4 @@ L.F.T. is a techno and electro artist based in Germany, with 128 gigs on soundch
 
 Festnacht, DJ MELL G, Helena Hauff
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lft/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lft/)*

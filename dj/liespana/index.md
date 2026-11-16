@@ -1,6 +1,6 @@
 # LIESPANA
 
-LIESPANA is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at 303 Audiophile Bar, Barcelona on Thu, 3 Dec 2026.
+LIESPANA is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at 303 Audiophile Bar, Barcelona on Thu, 3 Dec 2026.
 
 LIESPANA is a techno and tech house artist, with 2 gigs on soundcheck across Barcelona. Often billed alongside Bill Hates, Selten and Yalu. Next up: 303 Audiophile Bar, Barcelona on Thu 3 Dec.
 
@@ -18,4 +18,4 @@ LIESPANA is a techno and tech house artist, with 2 gigs on soundcheck across Bar
 
 Bill Hates, Selten, Yalu
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/liespana/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/liespana/)*

@@ -1,8 +1,8 @@
 # Kelvin 373
 
-Kelvin 373 is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at The Prospect Building, Bristol on Fri, 4 Dec 2026.
+Kelvin 373 is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at The Prospect Building, Bristol on Fri, 4 Dec 2026.
 
-Kelvin 373 is a drum & bass and jungle artist based in United Kingdom, with 50 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Bristol and 11 more. Often billed alongside Aries, Kelvin and Crossy. Next up: The Prospect Building, Bristol on Fri 4 Dec.
+Kelvin 373 is a drum & bass and jungle artist based in United Kingdom, with 51 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Bristol and 11 more. Often billed alongside Aries, Kelvin and Crossy. Next up: The Prospect Building, Bristol on Fri 4 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Kelvin 373 is a drum & bass and jungle artist based in United Kingdom, with 50 g
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | The Prospect Building | Bristol |
 | Sat, 5 Dec 2026 | Brixton Jamm | London |
+| Sat, 13 Feb 2027 | The Clock Factory | Bristol |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Kelvin 373 is a drum & bass and jungle artist based in United Kingdom, with 50 g
 
 Aries, Kelvin, Crossy
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kelvin373/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kelvin373/)*

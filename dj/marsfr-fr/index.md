@@ -1,13 +1,14 @@
 # Mars (FR)
 
-Mars (FR) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at komunal, Birmingham on Fri, 20 Nov 2026.
+Mars (FR) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at ZUBAR, Tokyo on Fri, 20 Nov 2026.
 
-Mars (FR) is a techno and house artist based in France, with 13 gigs on soundcheck across Amsterdam, Birmingham, Buenos Aires and Chicago and 3 more. Often billed alongside AMORAL, ANiIIIIiiiKii and Abstract Division. Next up: komunal, Birmingham on Fri 20 Nov.
+Mars (FR) is a techno and house artist based in France, with 14 gigs on soundcheck across Amsterdam, Birmingham, Buenos Aires and Chicago and 3 more. Often billed alongside AMORAL, ANiIIIIiiiKii and Abstract Division. Next up: ZUBAR, Tokyo on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | ZUBAR | Tokyo |
 | Fri, 20 Nov 2026 | komunal | Birmingham |
 | Fri, 27 Nov 2026 | komunal | Birmingham |
 
@@ -26,4 +27,4 @@ Mars (FR) is a techno and house artist based in France, with 13 gigs on soundche
 
 AMORAL, ANiIIIIiiiKii, Abstract Division
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marsfr-fr/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marsfr-fr/)*

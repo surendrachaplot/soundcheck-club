@@ -24,7 +24,7 @@ BCCO x 240KMH at MUENZE on Wed 30 Dec, Berlin. 34 artists: AEREA, Alycia Bezgo, 
 - future.666
 - GIØ (1)
 - HALF LIFE
-- HUMAN  ERROR
+- HUMAN ERROR
 - ines isla
 - JKS
 - Josh Heywood

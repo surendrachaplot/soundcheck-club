@@ -1,6 +1,6 @@
 # Unmute
 
-Unmute is a music venue in Hanoi with 10 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Unmute W/ Piezo, Yang B2B Kway, Tanohi" on Fri, 20 Nov 2026.
+Unmute is a music venue in Hanoi with 10 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Unmute W/ Piezo, Yang B2B Kway, Tanohi" on Fri, 20 Nov 2026.
 
 Unmute is a music venue in Hanoi listed on soundcheck. 10 upcoming gigs, with line-ups including AiLien, Artmony, Bakey and Carrier and 2 more. See dates, start times and who's playing. Floors 4F and 5&6F, 169 Phuc Tan, Hoan Kiem, Hanoi.
 
@@ -23,4 +23,4 @@ Unmute is a music venue in Hanoi listed on soundcheck. 10 upcoming gigs, with li
 
 Floors 4F and 5&6F, 169 Phuc Tan, Hoan Kiem, Hanoi, Hanoi
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/hanoi/club/unmute/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/hanoi/club/unmute/)*

@@ -1,6 +1,6 @@
 # zamara
 
-zamara is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Den Anden Side, Copenhagen on Sat, 12 Dec 2026.
+zamara is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Den Anden Side, Copenhagen on Sat, 12 Dec 2026.
 
 zamara is a techno and trance artist based in Sweden, with 27 gigs on soundcheck across Berlin, Copenhagen, Gothenburg and Malmo. Often billed alongside Ayham, J.A.S and Blck-Swan. Next up: Den Anden Side, Copenhagen on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ zamara is a techno and trance artist based in Sweden, with 27 gigs on soundcheck
 
 Ayham, J.A.S, Blck-Swan
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zamara/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zamara/)*

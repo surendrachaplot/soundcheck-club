@@ -1,6 +1,6 @@
 # CALYMA The Opening at Hotel Labtwentytwo
 
-CALYMA The Opening at Hotel Labtwentytwo on Sat 21 Nov, Barcelona. 1 artist: LYNNA. Latin Bass and Afro House. See the line-up on soundcheck.
+CALYMA The Opening at Hotel Labtwentytwo on Sat 21 Nov, Barcelona. 2 artists: LYNNA and SOFIA PINEDA. Latin Bass and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ CALYMA The Opening at Hotel Labtwentytwo on Sat 21 Nov, Barcelona. 1 artist: LYN
 ## Line-up
 
 - LYNNA
+- SOFIA PINEDA
 
 *Source: [soundcheck](https://soundcheck.club/e/2573294-calyma-the-opening-at-hotel-labtwentytwo/)*

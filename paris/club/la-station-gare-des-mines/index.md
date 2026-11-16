@@ -1,8 +1,8 @@
 # La Station - Gare des Mines
 
-La Station - Gare des Mines is a music venue in Paris with 6 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Boukan records: Dj Créole Princess // fka phaedra // Bamao Yendé // Broodoo Ramses " on Fri, 20 Nov 2026.
+La Station - Gare des Mines is a music venue in Paris with 7 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Boukan records: Dj Créole Princess // fka phaedra // Bamao Yendé // Broodoo Ramses " on Fri, 20 Nov 2026.
 
-La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 6 upcoming gigs, with line-ups including A-440, Antilogic, BABY-B and Bamao Yendé and 2 more. See dates, start times and who's playing. 29 avenue de la Porte d’Aubervilliers Paris.
+La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 7 upcoming gigs, with line-ups including A-440, Antilogic, BABY-B and Bamao Yendé and 2 more. See dates, start times and who's playing. 29 avenue de la Porte d’Aubervilliers Paris.
 
 ## What's on
 
@@ -14,9 +14,10 @@ La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 6 up
 | Sat, 28 Nov 2026 | DADDY ISSUES: MOTHER EDITION | DJ Music, Golce, KUKII, Liyo, Soyklo, Word of Command, encore une autre, fetva |
 | Sat, 5 Dec 2026 | la Culottée | Roe Deers |
 | Sat, 12 Dec 2026 | EXPLITY VS HYPERCORE PRESENT FINISH THEY/THEM: THE ULTIMATE DJ DUEL | Claude Murder, Karlfroye, Talita Otović |
+| Sat, 12 Dec 2026 | EXPLITY VS HYPERCORE PRESENT FINISH THEY/THEM: THE ULTIMATE DJ DUEL | Claude Murder, Karlfroye, Talita Otović |
 
 ## Address
 
 29 avenue de la Porte d’Aubervilliers Paris, Paris
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-station-gare-des-mines/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-station-gare-des-mines/)*

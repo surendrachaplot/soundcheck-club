@@ -1,6 +1,6 @@
 # Raleigh Chapel
 
-Raleigh Chapel is a music venue in London with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "VIGIL" on Thu, 19 Nov 2026.
+Raleigh Chapel is a music venue in London with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "VIGIL" on Thu, 19 Nov 2026.
 
 Raleigh Chapel is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Colombian Drone Mafia, McGregor, Mirror Organs and VISIO and 1 more. See dates, start times and who's playing. 138 Church Walk, N16 8QQ, London UK.
 
@@ -15,4 +15,4 @@ Raleigh Chapel is a music venue in London listed on soundcheck. 2 upcoming gigs,
 
 138 Church Walk, N16 8QQ, London UK, London
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/raleigh-chapel/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/raleigh-chapel/)*

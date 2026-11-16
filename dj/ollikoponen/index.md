@@ -1,6 +1,6 @@
 # Olli Koponen
 
-Olli Koponen is a Italo Disco and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Stidilä, Helsinki on Sat, 21 Nov 2026.
+Olli Koponen is a Italo Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Stidilä, Helsinki on Sat, 21 Nov 2026.
 
 Olli Koponen is an italo disco and house artist based in Finland, with 16 gigs on soundcheck across Berlin and Helsinki. Often billed alongside DJ Oltermann, Marc Fred and Carlina Carpelan. Next up: Stidilä, Helsinki on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Olli Koponen is an italo disco and house artist based in Finland, with 16 gigs o
 
 DJ Oltermann, Marc Fred, Carlina Carpelan
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ollikoponen/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ollikoponen/)*

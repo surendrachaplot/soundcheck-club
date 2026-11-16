@@ -1,6 +1,6 @@
 # Mazzou
 
-Mazzou is a Minimal Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Până Mâine Bar, Bucharest on Fri, 20 Nov 2026.
+Mazzou is a Minimal Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Până Mâine Bar, Bucharest on Fri, 20 Nov 2026.
 
 Mazzou is a minimal techno and minimal artist, with 9 gigs on soundcheck across Brussels, Bucharest, Budapest and Ghent. Often billed alongside Bono, MöB and kozter. Next up: Până Mâine Bar, Bucharest on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Mazzou is a minimal techno and minimal artist, with 9 gigs on soundcheck across 
 
 Bono, MöB (1), kozter
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mazzou/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mazzou/)*

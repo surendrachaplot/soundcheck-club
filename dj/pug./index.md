@@ -1,6 +1,6 @@
 # Pug.
 
-Pug. is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA - DM FOR LOCATION, Rome on Sat, 21 Nov 2026.
+Pug. is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA - DM FOR LOCATION, Rome on Sat, 21 Nov 2026.
 
 Pug. is a techno and bass artist based in Italy, with 4 gigs on soundcheck across Rome. Often billed alongside Alessandro Cocco, Dario Mass and Delma. Next up: TBA - DM FOR LOCATION, Rome on Sat 21 Nov.
 
@@ -20,4 +20,4 @@ Pug. is a techno and bass artist based in Italy, with 4 gigs on soundcheck acros
 
 Alessandro Cocco, Dario Mass, Delma
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pug./)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pug./)*

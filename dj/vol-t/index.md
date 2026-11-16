@@ -1,6 +1,6 @@
 # Vol-T
 
-Vol-T is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at When Coffee Meets Whisky, Riga on Fri, 20 Nov 2026.
+Vol-T is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at When Coffee Meets Whisky, Riga on Fri, 20 Nov 2026.
 
 Vol-T is a techno and electro artist based in Latvia, with 4 gigs on soundcheck across Riga. Often billed alongside Aiste Regina, Charlton and Daniel_9_18. Next up: When Coffee Meets Whisky, Riga on Fri 20 Nov.
 
@@ -20,4 +20,4 @@ Vol-T is a techno and electro artist based in Latvia, with 4 gigs on soundcheck 
 
 Aiste Regina, Charlton, Daniel_9_18
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vol-t/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vol-t/)*

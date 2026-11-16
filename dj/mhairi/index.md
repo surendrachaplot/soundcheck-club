@@ -1,8 +1,8 @@
 # Mha iri
 
-Mha iri is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Tanzhaus West, Frankfurt on Sat, 21 Nov 2026.
+Mha iri is a Techno and Tech House artist with 5 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Tanzhaus West, Frankfurt on Sat, 21 Nov 2026.
 
-Mha iri is a techno and tech house artist based in United Kingdom, with 124 gigs on soundcheck across Amsterdam, Athens, Auckland and Barcelona and 49 more. Often billed alongside Alan Fitzpatrick, Eli Brown and Joyhauser. Next up: Tanzhaus West, Frankfurt on Sat 21 Nov.
+Mha iri is a techno and tech house artist based in United Kingdom, with 125 gigs on soundcheck across Amsterdam, Athens, Auckland and Barcelona and 49 more. Often billed alongside Alan Fitzpatrick, Eli Brown and Joyhauser. Next up: Tanzhaus West, Frankfurt on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Mha iri is a techno and tech house artist based in United Kingdom, with 124 gigs
 | Sat, 28 Nov 2026 | Nordstern | Basel |
 | Fri, 4 Dec 2026 | SWG3 | Glasgow |
 | Fri, 4 Dec 2026 | SWG3 | Glasgow |
+| Sat, 5 Dec 2026 | Fusion Club | Münster |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Mha iri is a techno and tech house artist based in United Kingdom, with 124 gigs
 
 Alan Fitzpatrick, Eli Brown, Joyhauser
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mhairi/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mhairi/)*

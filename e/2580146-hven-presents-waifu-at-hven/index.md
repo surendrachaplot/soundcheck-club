@@ -1,6 +1,6 @@
 # HVEN presents: WAIFU at HVEN
 
-HVEN presents: WAIFU on Sat 21 Nov, Tokyo. 4 artists: akii, FrEaKyNoRiKy, softchaos and Yuki Kawamura. Techno and Club. See the line-up on soundcheck.
+HVEN presents: WAIFU on Sat 21 Nov, Tokyo. 5 artists: akii, FrEaKyNoRiKy, heykazma and softchaos and 1 more. Techno and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ HVEN presents: WAIFU on Sat 21 Nov, Tokyo. 4 artists: akii, FrEaKyNoRiKy, softch
 
 - akii
 - FrEaKyNoRiKy
+- heykazma
 - softchaos
 - Yuki Kawamura
 

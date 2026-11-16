@@ -1,6 +1,6 @@
 # Circolo degli Illuminati
 
-Circolo degli Illuminati is a music venue in Rome with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. The next is "LIFE ON MARS: Neverdogs & many more" on Fri, 20 Nov 2026.
+Circolo degli Illuminati is a music venue in Rome with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. The next is "LIFE ON MARS: Neverdogs & many more" on Fri, 20 Nov 2026.
 
 Circolo degli Illuminati is a music venue in Rome listed on soundcheck. 1 upcoming gig, with line-ups including Artslaves and Neverdogs. See dates, start times and who's playing. Via Giuseppe Libetta 1, 00154 Roma (RM), Italy.
 
@@ -14,4 +14,4 @@ Circolo degli Illuminati is a music venue in Rome listed on soundcheck. 1 upcomi
 
 Via Giuseppe Libetta 1, 00154 Roma (RM), Italy, Rome
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/rome/club/circolo-degli-illuminati/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/rome/club/circolo-degli-illuminati/)*

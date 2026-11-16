@@ -1,14 +1,13 @@
 # La Gare / Le Gore
 
-La Gare / Le Gore is a music venue in Paris with 18 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "MILE DIETRICH ALL NIGHT" on Sun, 15 Nov 2026.
+La Gare / Le Gore is a music venue in Paris with 17 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Acid Oslo" on Mon, 16 Nov 2026.
 
-La Gare / Le Gore is a music venue in Paris listed on soundcheck. 18 upcoming gigs, with line-ups including Acid Oslo, Aubry, Bobbi Watson and Davera and 2 more. See dates, start times and who's playing. 1 Av. Corentin Cariou, 75019 Paris.
+La Gare / Le Gore is a music venue in Paris listed on soundcheck. 17 upcoming gigs, with line-ups including Acid Oslo, Aubry, Bobbi Watson and Davera and 2 more. See dates, start times and who's playing. 1 Av. Corentin Cariou, 75019 Paris.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 15 Nov 2026 | MILE DIETRICH ALL NIGHT | Mila Dietrich |
 | Mon, 16 Nov 2026 | Acid Oslo | Acid Oslo |
 | Tue, 17 Nov 2026 | Jam Du BPM Contest |  |
 | Wed, 18 Nov 2026 | PYGMENTS: VALERICK & In-Tan | In-Tan |
@@ -18,9 +17,10 @@ La Gare / Le Gore is a music venue in Paris listed on soundcheck. 18 upcoming gi
 | Sun, 22 Nov 2026 | MILE DIETRICH INV. Munsinger | Mila Dietrich, Munsinger |
 | Mon, 23 Nov 2026 | Acid Oslo | Acid Oslo |
 | Tue, 24 Nov 2026 | Jam du BPM Contest |  |
+| Wed, 25 Nov 2026 | PYGMENTS: Davera & In-Tan | Davera, In-Tan |
 
 ## Address
 
 1 Av. Corentin Cariou, 75019 Paris, Paris
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-gare-le-gore/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-gare-le-gore/)*

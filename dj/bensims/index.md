@@ -1,6 +1,6 @@
 # Ben Sims
 
-Ben Sims is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Radio Estrella, Bogotá on Thu, 19 Nov 2026.
+Ben Sims is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Radio Estrella, Bogotá on Thu, 19 Nov 2026.
 
 Ben Sims is a techno and house artist based in United Kingdom, with 213 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 64 more. Often billed alongside Oscar Mulero, Blasha & Allatt and Nuke. Next up: Radio Estrella, Bogotá on Thu 19 Nov.
 
@@ -35,4 +35,4 @@ Ben Sims is a techno and house artist based in United Kingdom, with 213 gigs on 
 
 Oscar Mulero, Blasha & Allatt, Nuke
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bensims/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bensims/)*

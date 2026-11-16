@@ -1,14 +1,13 @@
 # Marcel Dettmann
 
-Marcel Dettmann is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Sunday Sunday, Mexico City on Sun, 15 Nov 2026.
+Marcel Dettmann is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Oxford Art Factory, Sydney on Fri, 20 Nov 2026.
 
-Marcel Dettmann is a techno and house artist based in Germany, with 298 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 86 more. Often billed alongside Ben Klock, Ogazón and BASHKKA. Next up: Sunday Sunday, Mexico City on Sun 15 Nov.
+Marcel Dettmann is a techno and house artist based in Germany, with 298 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 86 more. Often billed alongside Ben Klock, Ogazón and BASHKKA. Next up: Oxford Art Factory, Sydney on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 15 Nov 2026 | Sunday Sunday | Mexico City |
 | Fri, 20 Nov 2026 | Oxford Art Factory | Sydney |
 | Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 | Sat, 21 Nov 2026 | Preston Warehouse | Melbourne |
@@ -20,6 +19,7 @@ Marcel Dettmann is a techno and house artist based in Germany, with 298 gigs on 
 
 ## Recently played
 
+- Sunday Sunday, Mexico City · Sun, 15 Nov 2026
 - Parque Fundidora, Monterrey · Fri, 13 Nov 2026
 - TBA, Amsterdam · Fri, 13 Nov 2026
 - fabric, London · Sat, 7 Nov 2026
@@ -27,10 +27,9 @@ Marcel Dettmann is a techno and house artist based in Germany, with 298 gigs on 
 - Zoom Club, Frankfurt · Fri, 6 Nov 2026
 - Factory Town, Miami · Fri, 30 Oct 2026
 - Mediahaven - Minervahaven, Amsterdam · Sat, 24 Oct 2026
-- RADION, Amsterdam · Sat, 24 Oct 2026
 
 ## Shares bills with
 
 Ben Klock, Ogazón, BASHKKA
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marceldettmann/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marceldettmann/)*

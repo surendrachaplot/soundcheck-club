@@ -1,6 +1,6 @@
 # DJ Bar Bridge Shinjuku
 
-DJ Bar Bridge Shinjuku is a music venue in Tokyo with 51 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "PRIMAL DUB, HIKARU & KILLER-BONG" on Mon, 16 Nov 2026.
+DJ Bar Bridge Shinjuku is a music venue in Tokyo with 51 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "PRIMAL DUB, HIKARU & KILLER-BONG" on Mon, 16 Nov 2026.
 
 DJ Bar Bridge Shinjuku is a music venue in Tokyo listed on soundcheck. 51 upcoming gigs, with line-ups including callithyia, Dazzle Drums, Dictionally and Dimitri From Paris and 2 more. See dates, start times and who's playing. B1F KADO BILD., 2-19-9 SHINJUKU, SHINJUKU-KU, Tokyo Japan.
 
@@ -23,4 +23,4 @@ DJ Bar Bridge Shinjuku is a music venue in Tokyo listed on soundcheck. 51 upcomi
 
 B1F KADO BILD., 2-19-9 SHINJUKU, SHINJUKU-KU, Tokyo Japan, Tokyo
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dj-bar-bridge-shinjuku/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dj-bar-bridge-shinjuku/)*

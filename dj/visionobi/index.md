@@ -1,6 +1,6 @@
 # Visionobi
 
-Visionobi is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at E1, London on Sat, 21 Nov 2026.
+Visionobi is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at E1, London on Sat, 21 Nov 2026.
 
 Visionobi is a drum & bass and jungle artist based in United Kingdom, with 46 gigs on soundcheck across Auckland, Berlin, Brighton and Bristol and 10 more. Often billed alongside Kyrist, Bladerunner and GLXY. Next up: E1, London on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Visionobi is a drum & bass and jungle artist based in United Kingdom, with 46 gi
 
 Kyrist, Bladerunner, GLXY
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/visionobi/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/visionobi/)*

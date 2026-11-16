@@ -1,18 +1,18 @@
 # NOONI NOBU
 
-NOONI NOBU is a House and Dub artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Numm, Tokyo on Sun, 15 Nov 2026.
+NOONI NOBU is a House and Dub artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Numm, Tokyo on Sat, 5 Dec 2026.
 
-NOONI NOBU is a house and dub artist based in Japan, with 45 gigs on soundcheck across Tokyo. Often billed alongside Kitano, KDT and DJ ISE. Next up: Numm, Tokyo on Sun 15 Nov.
+NOONI NOBU is a house and dub artist based in Japan, with 45 gigs on soundcheck across Tokyo. Often billed alongside Kitano, KDT and DJ ISE. Next up: Numm, Tokyo on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 15 Nov 2026 | Numm | Tokyo |
 | Sat, 5 Dec 2026 | Numm | Tokyo |
 
 ## Recently played
 
+- Numm, Tokyo · Sun, 15 Nov 2026
 - Numm, Tokyo · Sun, 20 Sept 2026
 - Numm, Tokyo · Fri, 7 Aug 2026
 - Numm, Tokyo · Sun, 2 Aug 2026
@@ -20,10 +20,9 @@ NOONI NOBU is a house and dub artist based in Japan, with 45 gigs on soundcheck 
 - Numm, Tokyo · Sat, 6 Jun 2026
 - Cafein, Tokyo · Mon, 11 May 2026
 - Numm, Tokyo · Mon, 4 May 2026
-- Numm, Tokyo · Mon, 6 Apr 2026
 
 ## Shares bills with
 
 Kitano, KDT, DJ ISE
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nooninobu/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nooninobu/)*

@@ -1,6 +1,6 @@
 # Boris
 
-Boris is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at C12, Brussels on Sat, 28 Nov 2026.
+Boris is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at C12, Brussels on Sat, 28 Nov 2026.
 
 Boris is a techno and house artist based in Germany, with 257 gigs on soundcheck across Adelaide, Amsterdam, Athens and Auckland and 71 more. Often billed alongside BASHKKA, Massimiliano Pagliara and Roi Perez. Next up: C12, Brussels on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Boris is a techno and house artist based in Germany, with 257 gigs on soundcheck
 
 BASHKKA, Massimiliano Pagliara, Roi Perez
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/borisdj/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/borisdj/)*

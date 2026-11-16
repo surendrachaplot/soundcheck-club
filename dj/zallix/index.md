@@ -1,6 +1,6 @@
 # Zallix
 
-Zallix is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA - instagram | telegram: @klangsubstanz, Berlin on Sat, 12 Dec 2026.
+Zallix is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA - instagram | telegram: @klangsubstanz, Berlin on Sat, 12 Dec 2026.
 
 Zallix is a techno and house artist based in Germany, with 3 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Ali Rajat, Aslan Venom and Einfach Taffo. Next up: TBA - instagram | telegram: @klangsubstanz, Berlin on Sat 12 Dec.
 
@@ -19,4 +19,4 @@ Zallix is a techno and house artist based in Germany, with 3 gigs on soundcheck 
 
 Ali Rajat, Aslan Venom, Einfach Taffo
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zallix/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zallix/)*

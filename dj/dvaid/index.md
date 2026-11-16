@@ -1,8 +1,8 @@
 # DVAID
 
-DVAID is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Lehmann Club, Stuttgart on Fri, 20 Nov 2026.
+DVAID is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Lehmann Club, Stuttgart on Fri, 20 Nov 2026.
 
-DVAID is a techno and trance artist based in Germany, with 57 gigs on soundcheck across Amsterdam, Ankara, Basel and Berlin and 22 more. Often billed alongside Adrian Mills, HUMAN  ERROR and WILDERÍCH. Next up: Lehmann Club, Stuttgart on Fri 20 Nov.
+DVAID is a techno and trance artist based in Germany, with 57 gigs on soundcheck across Amsterdam, Ankara, Basel and Berlin and 22 more. Often billed alongside Adrian Mills, HUMAN ERROR and WILDERÍCH. Next up: Lehmann Club, Stuttgart on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ DVAID is a techno and trance artist based in Germany, with 57 gigs on soundcheck
 
 ## Shares bills with
 
-Adrian Mills, HUMAN  ERROR, WILDERÍCH
+Adrian Mills, HUMAN ERROR, WILDERÍCH
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dvaid/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dvaid/)*

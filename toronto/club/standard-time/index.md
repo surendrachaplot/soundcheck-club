@@ -1,6 +1,6 @@
 # Standard Time
 
-Standard Time is a music venue in Toronto with 9 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Fukhouse with The Lady Machine, Ian Guthrie and Jeremy P. Caulfied (live)" on Fri, 20 Nov 2026.
+Standard Time is a music venue in Toronto with 9 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Fukhouse with The Lady Machine, Ian Guthrie and Jeremy P. Caulfied (live)" on Fri, 20 Nov 2026.
 
 Standard Time is a music venue in Toronto listed on soundcheck. 9 upcoming gigs, with line-ups including Adrian Sherwood, Ciel, Darwin and Destiny (CA) and 2 more. See dates, start times and who's playing. 165 Geary Ave Toronto, ON M6H 2B8, Canada.
 
@@ -22,4 +22,4 @@ Standard Time is a music venue in Toronto listed on soundcheck. 9 upcoming gigs,
 
 165 Geary Ave Toronto, ON M6H 2B8, Canada, Toronto
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/standard-time/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/standard-time/)*

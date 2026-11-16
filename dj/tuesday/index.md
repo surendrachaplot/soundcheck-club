@@ -1,6 +1,6 @@
 # TUESDAY
 
-TUESDAY is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Social Room, Hong Kong on Fri, 20 Nov 2026.
+TUESDAY is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Social Room, Hong Kong on Fri, 20 Nov 2026.
 
 TUESDAY is a techno and bass artist based in China, with 30 gigs on soundcheck across Barcelona, Hong Kong, San Francisco/Oakland and Shenzhen. Often billed alongside YUEMING, Oscar Days and adam.. Next up: Social Room, Hong Kong on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ TUESDAY is a techno and bass artist based in China, with 30 gigs on soundcheck a
 
 YUEMING, Oscar Days, adam.
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tuesday/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tuesday/)*

@@ -1,6 +1,6 @@
 # Live Haus
 
-Live Haus is a music venue in Tokyo with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "'HOLIPPA!'" on Mon, 16 Nov 2026.
+Live Haus is a music venue in Tokyo with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "'HOLIPPA!'" on Mon, 16 Nov 2026.
 
 Live Haus is a music venue in Tokyo listed on soundcheck. 3 upcoming gigs, with line-ups including Acrocanthosaurus, EVE, EYEMAY and Leefia and 2 more. See dates, start times and who's playing. 2-14-2 Kitazawa, Setagaya-ku, Tokyo, 155-0031 Japan.
 
@@ -16,4 +16,4 @@ Live Haus is a music venue in Tokyo listed on soundcheck. 3 upcoming gigs, with 
 
 2-14-2 Kitazawa, Setagaya-ku, Tokyo, 155-0031 Japan, Tokyo
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/live-haus/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/live-haus/)*

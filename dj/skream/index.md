@@ -1,8 +1,8 @@
 # Skream
 
-Skream is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Club Space Miami, Miami on Sun, 22 Nov 2026.
+Skream is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Club Space Miami, Miami on Sun, 22 Nov 2026.
 
-Skream is a house and techno artist based in United Kingdom, with 241 gigs on soundcheck across Amsterdam, Antwerp, Austria and Bali and 70 more. Often billed alongside Seth Troxler, Benga and DJ Tennis. Next up: Club Space Miami, Miami on Sun 22 Nov.
+Skream is a house and techno artist based in United Kingdom, with 242 gigs on soundcheck across Amsterdam, Antwerp, Austria and Bali and 70 more. Often billed alongside Seth Troxler, Benga and DJ Tennis. Next up: Club Space Miami, Miami on Sun 22 Nov.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Skream is a house and techno artist based in United Kingdom, with 241 gigs on so
 | Fri, 11 Dec 2026 | Culture | Washington DC |
 | Sat, 19 Dec 2026 | Village Underground | London |
 | Fri, 12 Feb 2027 | Rex Club | Paris |
+| Sat, 13 Feb 2027 | block. | Dublin |
 | Mon, 5 Apr 2027 | TBA - Mayrhofen, Austria | Austria |
 
 ## Recently played
@@ -32,4 +33,4 @@ Skream is a house and techno artist based in United Kingdom, with 241 gigs on so
 
 Seth Troxler, Benga, DJ Tennis
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skream/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skream/)*

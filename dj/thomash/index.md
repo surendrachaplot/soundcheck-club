@@ -1,14 +1,15 @@
 # Thomash
 
-Thomash is a Downtempo and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Aien Coffee And Hostel, Okinawa on Sat, 28 Nov 2026.
+Thomash is a Downtempo and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Aien Coffee And Hostel, Okinawa on Sat, 28 Nov 2026.
 
-Thomash is a downtempo and house artist based in Brazil, with 16 gigs on soundcheck across Berlin, Okinawa, Osaka and Tbilisi and 1 more. Often billed alongside Saeko Killy, 7e and Ground. Next up: Aien Coffee And Hostel, Okinawa on Sat 28 Nov.
+Thomash is a downtempo and house artist based in Brazil, with 17 gigs on soundcheck across Berlin, Okinawa, Osaka and Tbilisi and 1 more. Often billed alongside Saeko Killy, Ground and 7e. Next up: Aien Coffee And Hostel, Okinawa on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Aien Coffee And Hostel | Okinawa |
+| Sat, 28 Nov 2026 | 森の中のラフィ | Okinawa |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Thomash is a downtempo and house artist based in Brazil, with 16 gigs on soundch
 
 ## Shares bills with
 
-Saeko Killy, 7e, Ground (1)
+Saeko Killy, Ground (1), 7e
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thomash/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thomash/)*

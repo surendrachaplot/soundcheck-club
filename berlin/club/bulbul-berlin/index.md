@@ -1,6 +1,6 @@
 # Bulbul Berlin
 
-Bulbul Berlin is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "House of Others (Vol.14): James Lotion, elliephunk, materia hache" on Thu, 19 Nov 2026.
+Bulbul Berlin is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "House of Others (Vol.14): James Lotion, elliephunk, materia hache" on Thu, 19 Nov 2026.
 
 Bulbul Berlin is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, with line-ups including Ashbeat, Club Jerome, Delavas and elliephunk and 2 more. See dates, start times and who's playing. Skalitzer str. 114, 10999 Berlin, Germany.
 
@@ -20,4 +20,4 @@ Bulbul Berlin is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, 
 
 Skalitzer str. 114, 10999 Berlin, Germany, Berlin
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*

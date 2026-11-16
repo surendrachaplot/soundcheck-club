@@ -1,6 +1,6 @@
 # Enter Shibuya
 
-Enter Shibuya is a music venue in Tokyo with 9 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "lucid 明晰夢" on Mon, 16 Nov 2026.
+Enter Shibuya is a music venue in Tokyo with 9 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "lucid 明晰夢" on Mon, 16 Nov 2026.
 
 Enter Shibuya is a music venue in Tokyo listed on soundcheck. 9 upcoming gigs, with line-ups including AMANE, Daichi, DNG and Hayato and 2 more. See dates, start times and who's playing. 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan.
 
@@ -22,4 +22,4 @@ Enter Shibuya is a music venue in Tokyo listed on soundcheck. 9 upcoming gigs, w
 
 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan, Tokyo
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/enter-shibuya/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/enter-shibuya/)*

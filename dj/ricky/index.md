@@ -1,6 +1,6 @@
 # RICKY
 
-RICKY is a Techno and Gabber artist with 4 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Shinjuku Loft, Tokyo on Sat, 21 Nov 2026.
+RICKY is a Techno and Gabber artist with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Shinjuku Loft, Tokyo on Sat, 21 Nov 2026.
 
 RICKY is a techno and gabber artist based in Japan, with 51 gigs on soundcheck across Amsterdam, London, Medellin and Osaka and 3 more. Often billed alongside KYLE MIKASA, KAMIKAZE and egomania. Next up: Shinjuku Loft, Tokyo on Sat 21 Nov.
 
@@ -28,4 +28,4 @@ RICKY is a techno and gabber artist based in Japan, with 51 gigs on soundcheck a
 
 KYLE MIKASA, KAMIKAZE, egomania
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ricky/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ricky/)*

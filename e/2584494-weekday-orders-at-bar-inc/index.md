@@ -1,6 +1,6 @@
-# Weekday Orders at BAR Inc
+# WEEKDAY ORDERS at BAR Inc
 
-Weekday Orders at BAR Inc on Mon 7 Dec, Osaka. House. See the line-up on soundcheck.
+WEEKDAY ORDERS at BAR Inc on Mon 7 Dec, Osaka. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

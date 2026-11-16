@@ -1,6 +1,6 @@
 # DSKE
 
-DSKE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at HVEN, Tokyo on Sat, 28 Nov 2026.
+DSKE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at HVEN, Tokyo on Sat, 28 Nov 2026.
 
 DSKE is a house and techno artist based in Japan, with 86 gigs on soundcheck across Hanoi, Hong Kong, Manila and Seattle and 5 more. Often billed alongside MAYUDEPTH, MUNÉO and DJ POIPOI. Next up: HVEN, Tokyo on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ DSKE is a house and techno artist based in Japan, with 86 gigs on soundcheck acr
 
 MAYUDEPTH, MUNÉO, DJ POIPOI
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dske/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dske/)*

@@ -1,6 +1,6 @@
 # Ignez
 
-Ignez is a Techno and House artist with 17 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Zoo, Geneva on Fri, 20 Nov 2026.
+Ignez is a Techno and House artist with 17 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Zoo, Geneva on Fri, 20 Nov 2026.
 
 Ignez is a techno and house artist based in Netherlands, with 243 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 75 more. Often billed alongside Yanamaste, Rene Wise and Rødhåd. Next up: Zoo, Geneva on Fri 20 Nov.
 
@@ -36,4 +36,4 @@ Ignez is a techno and house artist based in Netherlands, with 243 gigs on soundc
 
 Yanamaste, Rene Wise, Rødhåd
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ignez/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ignez/)*

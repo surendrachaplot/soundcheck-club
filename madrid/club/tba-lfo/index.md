@@ -1,8 +1,8 @@
-# TBA -  LFO
+# TBA - LFO
 
-TBA -  LFO is a music venue in Madrid with 6 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Fernweh Vol 32" on Fri, 20 Nov 2026.
+TBA - LFO is a music venue in Madrid with 6 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Fernweh Vol 32" on Fri, 20 Nov 2026.
 
-TBA -  LFO is a music venue in Madrid listed on soundcheck. 6 upcoming gigs, with line-ups including Angelinanyulí, AliA, azul and Baldman and 2 more. See dates, start times and who's playing.
+TBA - LFO is a music venue in Madrid listed on soundcheck. 6 upcoming gigs, with line-ups including Angelinanyulí, AliA, azul and Baldman and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
@@ -15,4 +15,4 @@ TBA -  LFO is a music venue in Madrid listed on soundcheck. 6 upcoming gigs, wit
 | Tue, 5 Jan 2027 | Crave Club |  |
 | Sat, 23 Jan 2027 | Bors Collective: 3rd Anniversary |  |
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/tba-lfo/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/tba-lfo/)*

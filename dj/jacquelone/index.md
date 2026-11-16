@@ -1,6 +1,6 @@
 # Jacquelone
 
-Jacquelone is a Baile Funk and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA - SACADURA CABRAL 147, SAÚDE, RIO DE JANEIRO, Rio de Janeiro on Thu, 19 Nov 2026.
+Jacquelone is a Baile Funk and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA - SACADURA CABRAL 147, SAÚDE, RIO DE JANEIRO, Rio de Janeiro on Thu, 19 Nov 2026.
 
 Jacquelone is a baile funk and techno artist based in Brazil, with 44 gigs on soundcheck across Rio de Janeiro and Sao Paulo. Often billed alongside ANTCONSTANTINO, Gustabby and Chediak. Next up: TBA - SACADURA CABRAL 147, SAÚDE, RIO DE JANEIRO, Rio de Janeiro on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Jacquelone is a baile funk and techno artist based in Brazil, with 44 gigs on so
 
 ANTCONSTANTINO, Gustabby, Chediak
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jacquelone/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jacquelone/)*

@@ -1,6 +1,6 @@
 # Gabs Leyton
 
-Gabs Leyton is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Kater, Berlin on Sat, 21 Nov 2026.
+Gabs Leyton is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Kater, Berlin on Sat, 21 Nov 2026.
 
 Gabs Leyton is a house and disco artist, with 34 gigs on soundcheck across Berlin. Often billed alongside Javier Anxiety, Lea Czychy and Moehecan. Next up: Kater, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Gabs Leyton is a house and disco artist, with 34 gigs on soundcheck across Berli
 
 Javier Anxiety, Lea Czychy, Moehecan
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabsleyton/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabsleyton/)*

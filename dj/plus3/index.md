@@ -1,6 +1,6 @@
 # Plus 3
 
-Plus 3 is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Cocoricò, North on Thu, 31 Dec 2026.
+Plus 3 is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Cocoricò, North on Thu, 31 Dec 2026.
 
 Plus 3 is a techno artist, with 3 gigs on soundcheck across North, Sicily and Turin. Often billed alongside 999999999, A.N.I. and Alarico. Next up: Cocoricò, North on Thu 31 Dec.
 
@@ -19,4 +19,4 @@ Plus 3 is a techno artist, with 3 gigs on soundcheck across North, Sicily and Tu
 
 999999999, A.N.I., Alarico
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/plus3/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/plus3/)*

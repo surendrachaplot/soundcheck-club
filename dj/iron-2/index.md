@@ -1,6 +1,6 @@
 # IRON
 
-IRON is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Enter Shibuya, Tokyo on Fri, 20 Nov 2026.
+IRON is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Enter Shibuya, Tokyo on Fri, 20 Nov 2026.
 
 IRON is a techno and house artist based in Japan, with 25 gigs on soundcheck across Oberhausen, Seoul and Tokyo. Often billed alongside OCCA, LiaRako and DJ SO. Next up: Enter Shibuya, Tokyo on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ IRON is a techno and house artist based in Japan, with 25 gigs on soundcheck acr
 
 OCCA, LiaRako, DJ SO
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iron-2/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iron-2/)*

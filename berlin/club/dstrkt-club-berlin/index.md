@@ -1,8 +1,8 @@
 # DSTRKT Club Berlin
 
-DSTRKT Club Berlin is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "PURE PLEASURE" on Fri, 27 Nov 2026.
+DSTRKT Club Berlin is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "PURE PLEASURE" on Fri, 27 Nov 2026.
 
-DSTRKT Club Berlin is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with line-ups including 2HOT2PLAY, Alex Friday, Andreas Henneberg and AREA ØNE and 2 more. See dates, start times and who's playing. Storkower Straße 123, 10407 Berlin, Deutschland.
+DSTRKT Club Berlin is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including 2HOT2PLAY, Alex Friday, Andreas Henneberg and AREA ØNE and 2 more. See dates, start times and who's playing. Storkower Straße 123, 10407 Berlin, Deutschland.
 
 ## What's on
 
@@ -14,6 +14,7 @@ DSTRKT Club Berlin is a music venue in Berlin listed on soundcheck. 9 upcoming g
 | Sat, 5 Dec 2026 | HIVE pres. IGDA B2B Niotech ALL NIGHT LONG | IGDA, Niotech |
 | Wed, 30 Dec 2026 | ONYX NYE: 'NEW ERA' | 2HOT2PLAY, AREA ØNE, BENITO (DE), BENNETT, BIJI ON DECKS, Bruno Brero, HANÀ, KARISH, Kimberly, L.zwo, MISS FRENXH, OLED, Part Time Killer, Treibende Kraft, two girls one mom |
 | Fri, 29 Jan 2027 | ONYX pres. Ueberrest: 'RECHARGE' | Alex Friday, Bruno Brero, Danilo Filipe, Ueberrest |
+| Sat, 13 Feb 2027 | Weltenphase II Birthday |  |
 | Sat, 13 Mar 2027 | ONYX pres. Somewhen [EXTENDED SET]: 'PRESSURE' | Somewhen |
 | Sat, 1 May 2027 | ONYX 'MAYDAY' | DJ Achim Feuervogel, DJ DRECKISCH, Eva Charley, NYCO (NL) |
 | Sat, 24 Jul 2027 | ONYX 'AFTER PRIDE' | DICE, DJ SUSI, Dj Schnake, HANÀ, Paraçek |
@@ -22,4 +23,4 @@ DSTRKT Club Berlin is a music venue in Berlin listed on soundcheck. 9 upcoming g
 
 Storkower Straße 123, 10407 Berlin, Deutschland, Berlin
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dstrkt-club-berlin/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dstrkt-club-berlin/)*

@@ -1,6 +1,6 @@
 # James Nash
 
-James Nash is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at The Clock Factory, Bristol on Sat, 30 Jan 2027.
+James Nash is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at The Clock Factory, Bristol on Sat, 30 Jan 2027.
 
 James Nash is a house and tech house artist based in United Kingdom, with 15 gigs on soundcheck across Bristol, Dublin and Manchester. Often billed alongside Fleur Shore, Local Dub and A For Alpha. Next up: The Clock Factory, Bristol on Sat 30 Jan.
 
@@ -25,4 +25,4 @@ James Nash is a house and tech house artist based in United Kingdom, with 15 gig
 
 Fleur Shore, Local Dub, A For Alpha
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesnash/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesnash/)*

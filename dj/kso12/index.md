@@ -1,6 +1,6 @@
 # kso12
 
-kso12 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Frieda's Büxe, Zurich on Sat, 19 Dec 2026.
+kso12 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Frieda's Büxe, Zurich on Sat, 19 Dec 2026.
 
 kso12 is a techno and house artist based in Switzerland, with 61 gigs on soundcheck across Basel, Berlin, Bern and Dresden and 5 more. Often billed alongside MARCISM, Toni Dextor and Thomas Bianco. Next up: Frieda's Büxe, Zurich on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ kso12 is a techno and house artist based in Switzerland, with 61 gigs on soundch
 
 MARCISM, Toni Dextor, Thomas Bianco
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kso12/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kso12/)*

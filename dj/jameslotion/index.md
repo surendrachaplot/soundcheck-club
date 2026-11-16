@@ -1,6 +1,6 @@
 # James Lotion
 
-James Lotion is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Bulbul Berlin, Berlin on Thu, 19 Nov 2026.
+James Lotion is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Bulbul Berlin, Berlin on Thu, 19 Nov 2026.
 
 James Lotion is a house and techno artist based in Netherlands, with 51 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Dresden and 5 more. Often billed alongside Sparkly Pony, Dgeral and Dirty Daddy Don. Next up: Bulbul Berlin, Berlin on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ James Lotion is a house and techno artist based in Netherlands, with 51 gigs on 
 
 Sparkly Pony, Dgeral, Dirty Daddy Don
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jameslotion/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jameslotion/)*

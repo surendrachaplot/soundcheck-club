@@ -1,6 +1,6 @@
 # ADNS
 
-ADNS is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Fitzroy, Berlin on Sat, 19 Dec 2026.
+ADNS is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Fitzroy, Berlin on Sat, 19 Dec 2026.
 
 ADNS is a techno artist based in Greece, with 2 gigs on soundcheck across Berlin. Often billed alongside Malingula, sinkaaf and Juan Neira. Next up: Fitzroy, Berlin on Sat 19 Dec.
 
@@ -18,4 +18,4 @@ ADNS is a techno artist based in Greece, with 2 gigs on soundcheck across Berlin
 
 Malingula, sinkaaf, Juan Neira
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adns/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adns/)*

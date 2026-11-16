@@ -1,14 +1,13 @@
 # Floyd
 
-Floyd is a music venue in Miami with 14 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Franc Fala + Aryeh" on Sun, 15 Nov 2026.
+Floyd is a music venue in Miami with 13 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Floyd at The Vault: Joe Kay presents TEMPO" on Sat, 21 Nov 2026.
 
-Floyd is a music venue in Miami listed on soundcheck. 14 upcoming gigs, with line-ups including Berrakka, Ale De Tuglie, Ammo Avenue and Art Department and 2 more. See dates, start times and who's playing. 34 NE 11th Street Miami, FL 33132.
+Floyd is a music venue in Miami listed on soundcheck. 13 upcoming gigs, with line-ups including Berrakka, Ale De Tuglie, Ammo Avenue and Art Department and 2 more. See dates, start times and who's playing. 34 NE 11th Street Miami, FL 33132.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 15 Nov 2026 | Franc Fala + Aryeh | Franc Fala, Nii Tei, SIEGEL (2) |
 | Sat, 21 Nov 2026 | Floyd at The Vault: Joe Kay presents TEMPO | Joe Kay, RARA |
 | Sun, 22 Nov 2026 | Divorcée | Greg Wilson, Will Buck |
 | Sat, 28 Nov 2026 | Bag Raiders | Bag Raiders, JOVIGIBS, Katie Ox |
@@ -18,9 +17,10 @@ Floyd is a music venue in Miami listed on soundcheck. 14 upcoming gigs, with lin
 | Fri, 4 Dec 2026 | Ciao Melódie! (Floyd Basel 2026) | Danyelino, Dyed Soundorom, Enzo Siragusa, Marlie, Natalia Roth |
 | Sat, 5 Dec 2026 | Obskür presents: The System (Floyd Basel 2026) |  |
 | Sun, 6 Dec 2026 | Knight Club: MCR-T + Mija (Floyd Basel 2026) | Berrakka, Cole Knight, MCR-T, Mija |
+| Sat, 12 Dec 2026 | My Friend Misty x OTHERWORLD present: Sagittarius Soiree |  |
 
 ## Address
 
 34 NE 11th Street Miami, FL 33132, Miami
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/floyd/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/floyd/)*

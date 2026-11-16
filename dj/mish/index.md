@@ -1,6 +1,6 @@
 # Mish
 
-Mish is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at J'adore Miami Beach, Miami on Fri, 20 Nov 2026.
+Mish is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at J'adore Miami Beach, Miami on Fri, 20 Nov 2026.
 
 Mish is a hardcore and techno artist based in Mexico, with 27 gigs on soundcheck across Amsterdam, Auckland, Bristol and Dortmund / Essen and 8 more. Often billed alongside Angerfist, Act of Rage and Anime. Next up: J'adore Miami Beach, Miami on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Mish is a hardcore and techno artist based in Mexico, with 27 gigs on soundcheck
 
 Angerfist, Act of Rage, Anime
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mish/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mish/)*

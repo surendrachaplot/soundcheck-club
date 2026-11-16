@@ -1,6 +1,6 @@
 # TANKclub
 
-TANKclub is a music venue in Bologna with 4 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "VIRGIL with Brosco All Night Long" on Sat, 21 Nov 2026.
+TANKclub is a music venue in Bologna with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "VIRGIL with Brosco All Night Long" on Sat, 21 Nov 2026.
 
 TANKclub is a music venue in Bologna listed on soundcheck. 4 upcoming gigs, with line-ups including Conical Intersection, Davide Brosco and ØSC. See dates, start times and who's playing.
 
@@ -13,4 +13,4 @@ TANKclub is a music venue in Bologna listed on soundcheck. 4 upcoming gigs, with
 | Sat, 28 Nov 2026 | LUME | Conical Intersection, ØSC (1) |
 | Sat, 5 Dec 2026 | Insane Frequency HB Day Teknology |  |
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/bologna/club/tankclub/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/bologna/club/tankclub/)*

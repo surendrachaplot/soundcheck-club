@@ -1,14 +1,13 @@
 # TOCCORORO
 
-TOCCORORO is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
+TOCCORORO is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Ace*Mission, Los Angeles on Fri, 27 Nov 2026.
 
-TOCCORORO is a techno and house artist based in Spain, with 147 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 43 more. Often billed alongside JASSS, Manuka Honey and SPFDJ. Next up: The Concourse Project, Austin on Fri 13 Nov.
+TOCCORORO is a techno and house artist based in Spain, with 147 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 43 more. Often billed alongside JASSS, Manuka Honey and SPFDJ. Next up: Ace*Mission, Los Angeles on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | The Concourse Project | Austin |
 | Fri, 27 Nov 2026 | Ace*Mission | Los Angeles |
 | Fri, 27 Nov 2026 | YuYu Cine Club | Mexico City |
 | Sat, 12 Dec 2026 | Colour Factory | London |
@@ -29,4 +28,4 @@ TOCCORORO is a techno and house artist based in Spain, with 147 gigs on soundche
 
 JASSS, Manuka Honey, SPFDJ
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toccororo/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toccororo/)*

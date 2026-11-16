@@ -1,8 +1,8 @@
 # MALUGI
 
-MALUGI is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Werkspoorkathedraal, Netherlands on Sat, 21 Nov 2026.
+MALUGI is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Werkspoorkathedraal, Netherlands on Sat, 21 Nov 2026.
 
-MALUGI is a techno and house artist based in Germany, with 258 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 68 more. Often billed alongside Marlon Hoffstadt, Surf 2 Glory and DJ Heartstring. Next up: Werkspoorkathedraal, Netherlands on Sat 21 Nov.
+MALUGI is a techno and house artist based in Germany, with 259 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 68 more. Often billed alongside Marlon Hoffstadt, Surf 2 Glory and DJ Heartstring. Next up: Werkspoorkathedraal, Netherlands on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ MALUGI is a techno and house artist based in Germany, with 258 gigs on soundchec
 | Sun, 13 Dec 2026 | Lofi | Amsterdam |
 | Sat, 30 Jan 2027 | The Warehouse | Leeds |
 | Sat, 6 Feb 2027 | The Roundhouse | London |
+| Sat, 13 Feb 2027 | Antwerp Expo | Antwerp |
 | Sun, 28 Feb 2027 | Ozone Reserve | Perth |
 | Fri, 5 Mar 2027 | Moyston | Melbourne |
 | Sat, 6 Mar 2027 | Gateway Bridge Underpass | Brisbane |
@@ -33,4 +34,4 @@ MALUGI is a techno and house artist based in Germany, with 258 gigs on soundchec
 
 Marlon Hoffstadt, Surf 2 Glory, DJ Heartstring
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/malugi/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/malugi/)*

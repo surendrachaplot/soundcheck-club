@@ -1,14 +1,13 @@
 # Rachel Noon
 
-Rachel Noon is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at KREUZWERK, Berlin on Sat, 14 Nov 2026.
+Rachel Noon is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at ROSA, Berlin on Sat, 21 Nov 2026.
 
-Rachel Noon is a techno and house artist based in United States of America, with 157 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 26 more. Often billed alongside BASHKKA, Mohajer and Rakans. Next up: KREUZWERK, Berlin on Sat 14 Nov.
+Rachel Noon is a techno and house artist based in United States of America, with 157 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 26 more. Often billed alongside BASHKKA, Mohajer and Rakans. Next up: ROSA, Berlin on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | KREUZWERK | Berlin |
 | Sat, 21 Nov 2026 | ROSA | Berlin |
 | Fri, 4 Dec 2026 | KREUZWERK | Berlin |
 | Fri, 18 Dec 2026 | OXI | Berlin |
@@ -30,4 +29,4 @@ Rachel Noon is a techno and house artist based in United States of America, with
 
 BASHKKA, Mohajer, Rakans
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rachelnoon/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rachelnoon/)*

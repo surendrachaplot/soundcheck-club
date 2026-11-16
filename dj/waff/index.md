@@ -1,6 +1,6 @@
 # wAFF
 
-wAFF is a Tech House and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Port Beach Brewery, Perth on Fri, 27 Nov 2026.
+wAFF is a Tech House and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Port Beach Brewery, Perth on Fri, 27 Nov 2026.
 
 wAFF is a tech house and house artist based in United Kingdom, with 144 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belgrade and 40 more. Often billed alongside Jamie Jones, Max Dean and Richy Ahmed. Next up: Port Beach Brewery, Perth on Fri 27 Nov.
 
@@ -29,4 +29,4 @@ wAFF is a tech house and house artist based in United Kingdom, with 144 gigs on 
 
 Jamie Jones, Max Dean, Richy Ahmed
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/waff/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/waff/)*

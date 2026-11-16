@@ -1,6 +1,6 @@
 # Gaffe
 
-Gaffe is a music venue in London with 7 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Gaffe presents x Deaf Tech w Batu, Cosmo & Ploy " on Fri, 20 Nov 2026.
+Gaffe is a music venue in London with 7 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Gaffe presents x Deaf Tech w Batu, Cosmo & Ploy " on Fri, 20 Nov 2026.
 
 Gaffe is a music venue in London listed on soundcheck. 7 upcoming gigs, with line-ups including 1morning, 3 Minds, Andrew James Gustav and Batu and 2 more. See dates, start times and who's playing. 1 Anthony Way, N18 3QT.
 
@@ -20,4 +20,4 @@ Gaffe is a music venue in London listed on soundcheck. 7 upcoming gigs, with lin
 
 1 Anthony Way, N18 3QT, London
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/gaffe/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/gaffe/)*

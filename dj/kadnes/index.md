@@ -1,6 +1,6 @@
 # Kadnes
 
-Kadnes is a Downtempo and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Klein, Istanbul on Fri, 11 Dec 2026.
+Kadnes is a Downtempo and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Klein, Istanbul on Fri, 11 Dec 2026.
 
 Kadnes is a downtempo and tech house artist, with 7 gigs on soundcheck across Istanbul. Often billed alongside Alexandr Grecov, Beatrix (CA) and Headwaters. Next up: Klein, Istanbul on Fri 11 Dec.
 
@@ -23,4 +23,4 @@ Kadnes is a downtempo and tech house artist, with 7 gigs on soundcheck across Is
 
 Alexandr Grecov, Beatrix (CA), Headwaters
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kadnes/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kadnes/)*

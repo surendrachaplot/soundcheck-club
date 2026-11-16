@@ -1,6 +1,6 @@
 # Montonn Jira
 
-Montonn Jira is a IDM and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Retro Mountain Koh Phangan, Thailand on Thu, 14 Jan 2027.
+Montonn Jira is a IDM and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Retro Mountain Koh Phangan, Thailand on Thu, 14 Jan 2027.
 
 Montonn Jira is an idm and experimental artist based in Thailand, with 5 gigs on soundcheck across Bangkok, Chubu, Taipei and Thailand and 1 more. Often billed alongside Alarico, Alice Phoebe Lou and Amal. Next up: Retro Mountain Koh Phangan, Thailand on Thu 14 Jan.
 
@@ -21,4 +21,4 @@ Montonn Jira is an idm and experimental artist based in Thailand, with 5 gigs on
 
 Alarico, Alice Phoebe Lou, Amal
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/montonnjira/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/montonnjira/)*

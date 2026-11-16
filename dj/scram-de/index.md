@@ -1,6 +1,6 @@
 # scram
 
-scram is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at ://about blank, Berlin on Thu, 24 Dec 2026.
+scram is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at ://about blank, Berlin on Thu, 24 Dec 2026.
 
 scram is a house and techno artist based in Germany, with 13 gigs on soundcheck across Berlin and Madrid. Often billed alongside Reka Zalan, STASIC and THNTS. Next up: ://about blank, Berlin on Thu 24 Dec.
 
@@ -25,4 +25,4 @@ scram is a house and techno artist based in Germany, with 13 gigs on soundcheck 
 
 Reka Zalan, STASIC, THNTS
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scram-de/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scram-de/)*

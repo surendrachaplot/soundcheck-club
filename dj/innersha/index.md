@@ -1,14 +1,13 @@
 # Innersha
 
-Innersha is a Techno and Experimental artist with 6 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at public records, New York City on Mon, 9 Nov 2026.
+Innersha is a Techno and Experimental artist with 5 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 19 Nov 2026.
 
-Innersha is a techno and experimental artist based in Armenia, with 32 gigs on soundcheck across Amsterdam, Armenia, Berlin and Brussels and 17 more. Often billed alongside Dasha Rush, Polar Inertia and Spekki Webu. Next up: public records, New York City on Mon 9 Nov.
+Innersha is a techno and experimental artist based in Armenia, with 32 gigs on soundcheck across Amsterdam, Armenia, Berlin and Brussels and 17 more. Often billed alongside Dasha Rush, Polar Inertia and Spekki Webu. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 19 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 9 Nov 2026 | public records | New York City |
 | Thu, 19 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 20 Nov 2026 | Magasins Généraux | Paris |
 | Fri, 20 Nov 2026 | Magasins Généraux | Paris |
@@ -30,4 +29,4 @@ Innersha is a techno and experimental artist based in Armenia, with 32 gigs on s
 
 Dasha Rush, Polar Inertia, Spekki Webu
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/innersha/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/innersha/)*

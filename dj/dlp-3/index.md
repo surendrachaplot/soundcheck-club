@@ -1,6 +1,6 @@
 # DLP (3)
 
-DLP (3) is a Disco and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Lento Hi Fi Bar, Naples on Sat, 21 Nov 2026.
+DLP (3) is a Disco and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Lento Hi Fi Bar, Naples on Sat, 21 Nov 2026.
 
 DLP is a disco and techno artist, with 4 gigs on soundcheck across Milan and Naples. Often billed alongside GNMR, Matvee and Nicodemo. Next up: Lento Hi Fi Bar, Naples on Sat 21 Nov.
 
@@ -20,4 +20,4 @@ DLP is a disco and techno artist, with 4 gigs on soundcheck across Milan and Nap
 
 GNMR, Matvee, Nicodemo
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dlp-3/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dlp-3/)*

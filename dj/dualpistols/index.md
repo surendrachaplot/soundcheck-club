@@ -1,6 +1,6 @@
 # Dual Pistols
 
-Dual Pistols is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Mtkvarze, Tbilisi on Sat, 21 Nov 2026.
+Dual Pistols is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Mtkvarze, Tbilisi on Sat, 21 Nov 2026.
 
 Dual Pistols is a techno and house artist based in Georgia, with 73 gigs on soundcheck across Athens, Berlin, Dublin and Hamburg and 3 more. Often billed alongside Frequency Shifter, Knaughty and Boyd Schidt. Next up: Mtkvarze, Tbilisi on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Dual Pistols is a techno and house artist based in Georgia, with 73 gigs on soun
 
 Frequency Shifter, Knaughty, Boyd Schidt
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dualpistols/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dualpistols/)*

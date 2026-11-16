@@ -1,6 +1,6 @@
 # ephemeral objects
 
-ephemeral objects is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Biltmore Cabaret, Vancouver on Sat, 21 Nov 2026.
+ephemeral objects is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Biltmore Cabaret, Vancouver on Sat, 21 Nov 2026.
 
 ephemeral objects is a techno and experimental artist based in Canada, with 29 gigs on soundcheck across Vancouver. Often billed alongside IHA (CA), DJ Hockey and Xiumei. Next up: Biltmore Cabaret, Vancouver on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ ephemeral objects is a techno and experimental artist based in Canada, with 29 g
 
 IHA (CA), DJ Hockey, Xiumei
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ephemeralobjects/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ephemeralobjects/)*

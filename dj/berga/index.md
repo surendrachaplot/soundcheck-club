@@ -1,6 +1,6 @@
 # BERGA
 
-BERGA is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at New Guernica, Melbourne on Fri, 20 Nov 2026.
+BERGA is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at New Guernica, Melbourne on Fri, 20 Nov 2026.
 
 BERGA is a techno and minimal techno artist based in Brazil, with 2 gigs on soundcheck across Melbourne. Often billed alongside DJ ALI (AU), Ivan Kyrov and JANEIN. Next up: New Guernica, Melbourne on Fri 20 Nov.
 
@@ -18,4 +18,4 @@ BERGA is a techno and minimal techno artist based in Brazil, with 2 gigs on soun
 
 DJ ALI (AU), Ivan Kyrov, JANEIN
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/berga/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/berga/)*

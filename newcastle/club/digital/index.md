@@ -1,8 +1,8 @@
 # Digital
 
-Digital is a music venue in Newcastle with 13 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "UNIT.90 THURSDAYS" on Thu, 19 Nov 2026.
+Digital is a music venue in Newcastle with 14 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "UNIT.90 THURSDAYS" on Thu, 19 Nov 2026.
 
-Digital is a music venue in Newcastle listed on soundcheck. 13 upcoming gigs, with line-ups including Kepler, ADR (UK), Andy Whitby and Conducta and 2 more. See dates, start times and who's playing. Times Square, Newcastle upon Tyne, NE1 4EP, United Kingdom.
+Digital is a music venue in Newcastle listed on soundcheck. 14 upcoming gigs, with line-ups including Kepler, ADR (UK), Andy Whitby and Conducta and 2 more. See dates, start times and who's playing. Times Square, Newcastle upon Tyne, NE1 4EP, United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Digital is a music venue in Newcastle listed on soundcheck. 13 upcoming gigs, wi
 
 Times Square, Newcastle upon Tyne, NE1 4EP, United Kingdom, Newcastle
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/digital/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/digital/)*

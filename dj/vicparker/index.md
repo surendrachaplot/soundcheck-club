@@ -1,23 +1,23 @@
 # Vic Parker
 
-Vic Parker is a Bass and Experimental artist with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Home Deptford, London on Sun, 15 Nov 2026.
+Vic Parker is a Bass and Experimental artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Planet Wax, London on Thu, 19 Nov 2026.
 
-Vic Parker is a bass and experimental artist based in Canada, with 4 gigs on soundcheck across Bristol, London and Vancouver. Often billed alongside Col the Doctor, Bronwyn and Vasho. Next up: Home Deptford, London on Sun 15 Nov.
+Vic Parker is a bass and experimental artist based in Canada, with 4 gigs on soundcheck across Bristol, London and Vancouver. Often billed alongside Col the Doctor, Bronwyn and Vasho. Next up: Planet Wax, London on Thu 19 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 15 Nov 2026 | Home Deptford | London |
 | Thu, 19 Nov 2026 | Planet Wax | London |
 | Sat, 28 Nov 2026 | TBA - East Van | Vancouver |
 
 ## Recently played
 
+- Home Deptford, London · Sun, 15 Nov 2026
 - Cosies, Bristol · Sat, 7 Nov 2026
 
 ## Shares bills with
 
 Col the Doctor, Bronwyn, Vasho
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vicparker/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vicparker/)*

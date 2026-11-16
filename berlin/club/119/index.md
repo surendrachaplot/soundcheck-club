@@ -1,6 +1,6 @@
 # 119
 
-119 is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "HAUSNACHT [002]" on Fri, 20 Nov 2026.
+119 is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "HAUSNACHT [002]" on Fri, 20 Nov 2026.
 
 119 is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, with line-ups including .Cheka, Act One, Afgang and Agata (PL) and 2 more. See dates, start times and who's playing. Storkower Straße 119, 10407 Berlin.
 
@@ -20,4 +20,4 @@
 
 Storkower Straße 119, 10407 Berlin, Berlin
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/119/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/119/)*

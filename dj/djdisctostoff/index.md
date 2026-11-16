@@ -1,6 +1,6 @@
 # DJ Discostoff
 
-DJ Discostoff is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Kunst-Werk am Kaiserhaus, Dortmund / Essen on Sat, 21 Nov 2026.
+DJ Discostoff is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Kunst-Werk am Kaiserhaus, Dortmund / Essen on Sat, 21 Nov 2026.
 
 DJ Discostoff is a techno and trance artist based in Germany, with 42 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Hamburg. Often billed alongside DJ Tallboy, Rosilicious and Marco Eisenberg. Next up: Kunst-Werk am Kaiserhaus, Dortmund / Essen on Sat 21 Nov.
 
@@ -28,4 +28,4 @@ DJ Discostoff is a techno and trance artist based in Germany, with 42 gigs on so
 
 DJ Tallboy, Rosilicious, Marco Eisenberg
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdisctostoff/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdisctostoff/)*

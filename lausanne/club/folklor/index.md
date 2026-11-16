@@ -1,6 +1,6 @@
 # Folklor
 
-Folklor is a music venue in Lausanne with 7 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "1 Million Black Tour Lausanne" on Thu, 19 Nov 2026.
+Folklor is a music venue in Lausanne with 7 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "1 Million Black Tour Lausanne" on Thu, 19 Nov 2026.
 
 Folklor is a music venue in Lausanne listed on soundcheck. 7 upcoming gigs, with line-ups including 2M, Adolpho & Franky, Alex Wann and Cinthie and 2 more. See dates, start times and who's playing. Place de la Riponne 10, 1005 Lausanne.
 
@@ -20,4 +20,4 @@ Folklor is a music venue in Lausanne listed on soundcheck. 7 upcoming gigs, with
 
 Place de la Riponne 10, 1005 Lausanne, Lausanne
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/lausanne/club/folklor/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/lausanne/club/folklor/)*

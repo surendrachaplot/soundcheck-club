@@ -1,6 +1,6 @@
 # Clarisa Kimskii
 
-Clarisa Kimskii is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Shunter, Rotterdam on Fri, 27 Nov 2026.
+Clarisa Kimskii is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Shunter, Rotterdam on Fri, 27 Nov 2026.
 
 Clarisa Kimskii is a techno and house artist based in United States of America, with 181 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 41 more. Often billed alongside Ne/Re/A, Mike Servito and Wata Igarashi. Next up: Shunter, Rotterdam on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Clarisa Kimskii is a techno and house artist based in United States of America, 
 
 Ne/Re/A, Mike Servito, Wata Igarashi
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clarisakimskii/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clarisakimskii/)*

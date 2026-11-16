@@ -1,6 +1,6 @@
 # Axel Boman
 
-Axel Boman is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Studio 508, Amsterdam on Sat, 21 Nov 2026.
+Axel Boman is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Studio 508, Amsterdam on Sat, 21 Nov 2026.
 
 Axel Boman is a house and techno artist based in Sweden, with 158 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 52 more. Often billed alongside Kornél Kovács, Pedrodollar and Octo Octa. Next up: Studio 508, Amsterdam on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ Axel Boman is a house and techno artist based in Sweden, with 158 gigs on soundc
 
 Kornél Kovács, Pedrodollar, Octo Octa
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/axelboman/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/axelboman/)*

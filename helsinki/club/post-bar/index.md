@@ -1,6 +1,6 @@
 # Post Bar
 
-Post Bar is a music venue in Helsinki with 8 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "BIG SEXXY BASS – The Club Kid Edition" on Fri, 20 Nov 2026.
+Post Bar is a music venue in Helsinki with 8 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "BIG SEXXY BASS – The Club Kid Edition" on Fri, 20 Nov 2026.
 
 Post Bar is a music venue in Helsinki listed on soundcheck. 8 upcoming gigs, with line-ups including Aurora Halal, CEB (FI), Daniel Kayrouz and Denzel and 2 more. See dates, start times and who's playing. Kaikukatu 2.
 
@@ -21,4 +21,4 @@ Post Bar is a music venue in Helsinki listed on soundcheck. 8 upcoming gigs, wit
 
 Kaikukatu 2, Helsinki
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/post-bar/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/post-bar/)*

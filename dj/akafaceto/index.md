@@ -1,6 +1,6 @@
 # akafaceto
 
-akafaceto is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Muga, Bologna on Sat, 21 Nov 2026.
+akafaceto is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Muga, Bologna on Sat, 21 Nov 2026.
 
 akafaceto is a techno and club artist, with 2 gigs on soundcheck across Bologna. Often billed alongside Alex Wilcox, HeedLess and POL100. Next up: Muga, Bologna on Sat 21 Nov.
 
@@ -18,4 +18,4 @@ akafaceto is a techno and club artist, with 2 gigs on soundcheck across Bologna.
 
 Alex Wilcox, HeedLess, POL100
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akafaceto/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akafaceto/)*

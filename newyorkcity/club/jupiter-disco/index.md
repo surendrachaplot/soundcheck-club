@@ -1,14 +1,13 @@
 # Jupiter Disco
 
-Jupiter Disco is a music venue in New York City with 9 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Transcendence: Akira, D1NAH, Señoritajuicy" on Sun, 15 Nov 2026.
+Jupiter Disco is a music venue in New York City with 8 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Sonara House: La Vega & NONI" on Wed, 18 Nov 2026.
 
-Jupiter Disco is a music venue in New York City listed on soundcheck. 9 upcoming gigs, with line-ups including Akira, Amen the Producer, BOJAQ and Carozilla and 2 more. See dates, start times and who's playing. 1237 Flushing Avenue, Brooklyn, NY 11237, USA.
+Jupiter Disco is a music venue in New York City listed on soundcheck. 8 upcoming gigs, with line-ups including Amen the Producer, BOJAQ, Carozilla and cry$cross and 2 more. See dates, start times and who's playing. 1237 Flushing Avenue, Brooklyn, NY 11237, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 15 Nov 2026 | Transcendence: Akira, D1NAH, Señoritajuicy | Akira, D1NAH, Señoritajuicy |
 | Wed, 18 Nov 2026 | Sonara House: La Vega & NONI | La Vega, NONI (US) |
 | Thu, 19 Nov 2026 | CBSmoove + DJ Cozy | DJ Cozy |
 | Fri, 20 Nov 2026 | Carozilla + Muscle Memory | Carozilla, Muscle Memory |
@@ -22,4 +21,4 @@ Jupiter Disco is a music venue in New York City listed on soundcheck. 9 upcoming
 
 1237 Flushing Avenue, Brooklyn, NY 11237, USA, New York City
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jupiter-disco/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jupiter-disco/)*

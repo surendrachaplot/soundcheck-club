@@ -1,6 +1,6 @@
 # Neverdogs
 
-Neverdogs is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Circolo degli Illuminati, Rome on Fri, 20 Nov 2026.
+Neverdogs is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Circolo degli Illuminati, Rome on Fri, 20 Nov 2026.
 
 Neverdogs is a tech house and house artist based in Italy, with 60 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 23 more. Often billed alongside wAFF, Manda Moor and Artslaves. Next up: Circolo degli Illuminati, Rome on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Neverdogs is a tech house and house artist based in Italy, with 60 gigs on sound
 
 wAFF, Manda Moor, Artslaves
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neverdogs/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neverdogs/)*

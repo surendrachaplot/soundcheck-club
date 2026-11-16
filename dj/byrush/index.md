@@ -1,6 +1,6 @@
 # byrush
 
-byrush is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Stollen 134, Dortmund / Essen on Fri, 27 Nov 2026.
+byrush is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Stollen 134, Dortmund / Essen on Fri, 27 Nov 2026.
 
 byrush is a trance and techno artist based in Germany, with 10 gigs on soundcheck across Bochum, Dortmund / Essen and Düsseldorf. Often billed alongside Turbomarius, Molis and Alexa Fluor. Next up: Stollen 134, Dortmund / Essen on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ byrush is a trance and techno artist based in Germany, with 10 gigs on soundchec
 
 Turbomarius, Molis, Alexa Fluor
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/byrush/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/byrush/)*

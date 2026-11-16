@@ -1,6 +1,6 @@
 # Cold Hippie X Martyrs at Autumn Three
 
-Cold Hippie X Martyrs at Autumn Three on Sat 13 Feb, London. 3 artists: Cold Hippie, Form Affinity and Squish. See the line-up on soundcheck.
+Cold Hippie X Martyrs at Autumn Three on Sat 13 Feb, London. 3 artists: Cold Hippie, Form Affinity and Squish. Ambient and Drone. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

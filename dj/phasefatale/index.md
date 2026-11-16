@@ -1,6 +1,6 @@
 # Phase Fatale
 
-Phase Fatale is a Techno and EBM artist with 6 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at KHIDI, Tbilisi on Fri, 20 Nov 2026.
+Phase Fatale is a Techno and EBM artist with 6 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at KHIDI, Tbilisi on Fri, 20 Nov 2026.
 
 Phase Fatale is a techno and ebm artist based in United States of America, with 239 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 75 more. Often billed alongside Pablo Bozzi, Unhuman and Soft Crash. Next up: KHIDI, Tbilisi on Fri 20 Nov.
 
@@ -30,4 +30,4 @@ Phase Fatale is a techno and ebm artist based in United States of America, with 
 
 Pablo Bozzi, Unhuman, Soft Crash
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/phasefatale/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/phasefatale/)*

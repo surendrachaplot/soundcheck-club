@@ -1,6 +1,6 @@
 # Elsewhere
 
-Elsewhere is a music venue in New York City with 19 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "SASSY 009 - In the Round" on Thu, 19 Nov 2026.
+Elsewhere is a music venue in New York City with 19 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "SASSY 009 - In the Round" on Thu, 19 Nov 2026.
 
 Elsewhere is a music venue in New York City listed on soundcheck. 19 upcoming gigs, with line-ups including Alive Girl, ARMANA KHAN, aya and Denninger and 2 more. See dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
 
@@ -23,4 +23,4 @@ Elsewhere is a music venue in New York City listed on soundcheck. 19 upcoming gi
 
 599 Johnson Ave, Brooklyn, NY 11237 USA, New York City
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*

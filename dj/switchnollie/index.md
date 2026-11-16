@@ -1,14 +1,15 @@
 # Switch Nollie
 
-Switch Nollie is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Turbina, Budapest on Thu, 19 Nov 2026.
+Switch Nollie is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Turbina, Budapest on Thu, 19 Nov 2026.
 
-Switch Nollie is a techno and house artist based in Hungary, with 83 gigs on soundcheck across Amsterdam and Budapest. Often billed alongside Pizza Amore, Adis Is OK and SLYM. Next up: Turbina, Budapest on Thu 19 Nov.
+Switch Nollie is a techno and house artist based in Hungary, with 84 gigs on soundcheck across Amsterdam and Budapest. Often billed alongside Pizza Amore, Adis Is OK and SLYM. Next up: Turbina, Budapest on Thu 19 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 19 Nov 2026 | Turbina | Budapest |
+| Fri, 20 Nov 2026 | Kassa Boat | Budapest |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Switch Nollie is a techno and house artist based in Hungary, with 83 gigs on sou
 
 Pizza Amore, Adis Is OK, SLYM
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/switchnollie/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/switchnollie/)*

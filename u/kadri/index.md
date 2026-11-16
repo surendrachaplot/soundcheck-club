@@ -1,6 +1,6 @@
 # u/kadri (@kadri)
 
-u/kadri (@kadri) has logged 4 gigs across 4 venues in 3 cities on soundcheck.
+u/kadri (@kadri) has logged 4 gigs across 4 venues in 3 cities on soundcheck, based in Singapore.
 
 - Gigs logged: 4
 - Venues: 4

@@ -1,6 +1,6 @@
 # Hotline Bikadi
 
-Hotline Bikadi is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Klunkerkranich, Berlin on Sat, 21 Nov 2026.
+Hotline Bikadi is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Klunkerkranich, Berlin on Sat, 21 Nov 2026.
 
 Hotline Bikadi is a house and electronica artist based in Germany, with 2 gigs on soundcheck across Berlin. Often billed alongside Amnati, Ben Derris and Cattoni. Next up: Klunkerkranich, Berlin on Sat 21 Nov.
 
@@ -18,4 +18,4 @@ Hotline Bikadi is a house and electronica artist based in Germany, with 2 gigs o
 
 Amnati, Ben Derris, Cattoni
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hotlinebikadi/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hotlinebikadi/)*

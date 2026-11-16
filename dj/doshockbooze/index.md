@@ -1,6 +1,6 @@
 # Do Shock Booze
 
-Do Shock Booze is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Z Maruyama, Tokyo on Sat, 5 Dec 2026.
+Do Shock Booze is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Z Maruyama, Tokyo on Sat, 5 Dec 2026.
 
 Do Shock Booze is a techno and house artist based in Japan, with 68 gigs on soundcheck across Okinawa and Tokyo. Often billed alongside Taichi Kawahira, Drunken Kong and Remi Ohsugi. Next up: Z Maruyama, Tokyo on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Do Shock Booze is a techno and house artist based in Japan, with 68 gigs on soun
 
 Taichi Kawahira, Drunken Kong, Remi Ohsugi
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doshockbooze/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doshockbooze/)*

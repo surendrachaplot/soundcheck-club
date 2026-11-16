@@ -1,6 +1,6 @@
 # Prosumer
 
-Prosumer is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Verbier, Switzerland on Fri, 20 Nov 2026.
+Prosumer is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Verbier, Switzerland on Fri, 20 Nov 2026.
 
 Prosumer is a house and disco artist based in United Kingdom, with 179 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 51 more. Often billed alongside Horse Meat Disco, Peach and Gene On Earth. Next up: Verbier, Switzerland on Fri 20 Nov.
 
@@ -28,4 +28,4 @@ Prosumer is a house and disco artist based in United Kingdom, with 179 gigs on s
 
 Horse Meat Disco, Peach, Gene On Earth
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prosumer/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prosumer/)*

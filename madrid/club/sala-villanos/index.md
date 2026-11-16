@@ -1,6 +1,6 @@
 # Sala Villanos
 
-Sala Villanos is a music venue in Madrid with 6 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Matthew Herbert (DJ) + Dj F " on Fri, 20 Nov 2026.
+Sala Villanos is a music venue in Madrid with 6 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Matthew Herbert (DJ) + Dj F " on Fri, 20 Nov 2026.
 
 Sala Villanos is a music venue in Madrid listed on soundcheck. 6 upcoming gigs, with line-ups including Acid Pauli, Acid Hero, DJ F (ES) and Horse Meat Disco and 2 more. See dates, start times and who's playing. C. de Bernardino Obregón, 18, 28012 Madrid, Spain.
 
@@ -19,4 +19,4 @@ Sala Villanos is a music venue in Madrid listed on soundcheck. 6 upcoming gigs, 
 
 C. de Bernardino Obregón, 18, 28012 Madrid, Spain, Madrid
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-villanos/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-villanos/)*

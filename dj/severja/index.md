@@ -1,18 +1,18 @@
 # Severja
 
-Severja is a Techno and IDM artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at San Francisco, Amsterdam on Sun, 15 Nov 2026.
+Severja is a Techno and IDM artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA, Madrid on Fri, 27 Nov 2026.
 
-Severja is a techno and idm artist based in Germany, with 61 gigs on soundcheck across Adelaide, Amsterdam, Berlin and Chengdu and 16 more. Often billed alongside Aion, Arthur Baron and Polygonia. Next up: San Francisco, Amsterdam on Sun 15 Nov.
+Severja is a techno and idm artist based in Germany, with 61 gigs on soundcheck across Adelaide, Amsterdam, Berlin and Chengdu and 16 more. Often billed alongside Aion, Arthur Baron and Polygonia. Next up: TBA, Madrid on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 15 Nov 2026 | San Francisco | Amsterdam |
 | Fri, 27 Nov 2026 | TBA | Madrid |
 
 ## Recently played
 
+- San Francisco, Amsterdam · Sun, 15 Nov 2026
 - FOLD, London · Sat, 7 Nov 2026
 - public records, New York City · Fri, 18 Sept 2026
 - Bar Laika, New York City · Wed, 16 Sept 2026
@@ -20,10 +20,9 @@ Severja is a techno and idm artist based in Germany, with 61 gigs on soundcheck 
 - Giri, Berlin · Thu, 9 Jul 2026
 - TBA, Berlin · Fri, 6 Mar 2026
 - Solace, Melbourne · Fri, 26 Dec 2025
-- TBA - Innerwest Warehouse, Sydney · Fri, 12 Dec 2025
 
 ## Shares bills with
 
 Aion, Arthur Baron, Polygonia
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/severja/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/severja/)*

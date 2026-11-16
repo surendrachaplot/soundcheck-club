@@ -1,6 +1,6 @@
 # Love Missile at Limehouse Town Hall
 
-Love Missile at Limehouse Town Hall on Sat 13 Feb, London. 2 artists: Bushy Squirrel and Sara P. See the line-up on soundcheck.
+Love Missile at Limehouse Town Hall on Sat 13 Feb, London. 2 artists: Bushy Squirrel and Sara P. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

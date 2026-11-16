@@ -1,6 +1,6 @@
 # Curbside Lambsear
 
-Curbside Lambsear is a Pop and Dub artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Quarry, Liverpool on Fri, 12 Feb 2027.
+Curbside Lambsear is a Pop and Dub artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Quarry, Liverpool on Fri, 12 Feb 2027.
 
 Curbside Lambsear is a pop and dub artist based in United Kingdom, with 2 gigs on soundcheck across Barcelona and Liverpool. Often billed alongside Cut Hands, RNXRX and Rrose. Next up: Quarry, Liverpool on Fri 12 Feb.
 
@@ -15,4 +15,4 @@ Curbside Lambsear is a pop and dub artist based in United Kingdom, with 2 gigs o
 
 Cut Hands, RNXRX, Rrose
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/curbsidelambsear/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/curbsidelambsear/)*

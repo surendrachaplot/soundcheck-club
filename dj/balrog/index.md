@@ -1,6 +1,6 @@
 # Balrog
 
-Balrog is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at The Vinyl Whistle, Leeds on Fri, 27 Nov 2026.
+Balrog is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at The Vinyl Whistle, Leeds on Fri, 27 Nov 2026.
 
 Balrog is a techno and house artist based in United Kingdom, with 46 gigs on soundcheck across Belfast, Berlin, Copenhagen and Krakow and 6 more. Often billed alongside Aero, Habgud and INLIMEN. Next up: The Vinyl Whistle, Leeds on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Balrog is a techno and house artist based in United Kingdom, with 46 gigs on sou
 
 Aero (1), Habgud, INLIMEN
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/balrog/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/balrog/)*

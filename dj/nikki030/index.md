@@ -1,6 +1,6 @@
 # NIKKI030
 
-NIKKI030 is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Sommerbad Neuköln, Berlin on Sat, 28 Aug 2027.
+NIKKI030 is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Sommerbad Neuköln, Berlin on Sat, 28 Aug 2027.
 
 NIKKI030 is a trance and techno artist based in Germany, with 7 gigs on soundcheck across Berlin, Cologne and Vienna. Often billed alongside Anuuk, DonChoppa and SEKTOR69. Next up: Sommerbad Neuköln, Berlin on Sat 28 Aug.
 
@@ -23,4 +23,4 @@ NIKKI030 is a trance and techno artist based in Germany, with 7 gigs on soundche
 
 Anuuk, DonChoppa, SEKTOR69
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nikki030/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nikki030/)*

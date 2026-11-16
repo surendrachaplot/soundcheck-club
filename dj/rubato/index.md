@@ -1,6 +1,6 @@
 # Rubato
 
-Rubato is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Lion Super Club, Seoul on Sat, 21 Nov 2026.
+Rubato is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Lion Super Club, Seoul on Sat, 21 Nov 2026.
 
 Rubato is a house and trance artist based in South Korea, with 22 gigs on soundcheck across Seoul and South Korea. Often billed alongside Kataploks, Bagagee Viphex13 and Casepeat. Next up: Lion Super Club, Seoul on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Rubato is a house and trance artist based in South Korea, with 22 gigs on soundc
 
 Kataploks, Bagagee Viphex13, Casepeat
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rubato/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rubato/)*

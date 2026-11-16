@@ -1,6 +1,6 @@
 # Roma Ptashenko
 
-Roma Ptashenko is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA - Fabula, Rest-of-russia on Sat, 5 Dec 2026.
+Roma Ptashenko is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA - Fabula, Rest-of-russia on Sat, 5 Dec 2026.
 
 Roma Ptashenko is a techno and acid artist based in Russia, with 3 gigs on soundcheck across Bali, Belgrade and Rest Of Russia. Often billed alongside Abelle, Anelle and Annie. Next up: TBA - Fabula, Rest Of Russia on Sat 5 Dec.
 
@@ -19,4 +19,4 @@ Roma Ptashenko is a techno and acid artist based in Russia, with 3 gigs on sound
 
 Abelle, Anelle, Annie
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/romaptashenko/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/romaptashenko/)*

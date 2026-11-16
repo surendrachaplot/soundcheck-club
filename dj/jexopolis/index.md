@@ -1,6 +1,6 @@
 # Jex Opolis
 
-Jex Opolis is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at EartH Kitchen, London on Fri, 20 Nov 2026.
+Jex Opolis is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at EartH Kitchen, London on Fri, 20 Nov 2026.
 
 Jex Opolis is a house and techno artist based in Canada, with 59 gigs on soundcheck across Adelaide, Amsterdam, Bergen and Berlin and 26 more. Often billed alongside Bell Towers, Jeremy Castillo and A G E. Next up: EartH Kitchen, London on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Jex Opolis is a house and techno artist based in Canada, with 59 gigs on soundch
 
 Bell Towers, Jeremy Castillo, A G E
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jexopolis/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jexopolis/)*

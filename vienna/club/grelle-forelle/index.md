@@ -1,6 +1,6 @@
 # Grelle Forelle
 
-Grelle Forelle is a music venue in Vienna with 7 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "FISH MARKET - Altinbas" on Fri, 20 Nov 2026.
+Grelle Forelle is a music venue in Vienna with 7 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "FISH MARKET - Altinbas" on Fri, 20 Nov 2026.
 
 Grelle Forelle is a music venue in Vienna listed on soundcheck. 7 upcoming gigs, with line-ups including Altinbas, Anna Ullrich, Annika Stein and Crystal O and 2 more. See dates, start times and who's playing. Spittelauer Lände 12; 1090 Vienna; Austria.
 
@@ -20,4 +20,4 @@ Grelle Forelle is a music venue in Vienna listed on soundcheck. 7 upcoming gigs,
 
 Spittelauer Lände 12; 1090 Vienna; Austria, Vienna
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/grelle-forelle/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/grelle-forelle/)*

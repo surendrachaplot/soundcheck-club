@@ -1,6 +1,6 @@
 # Nido Marseille
 
-Nido Marseille is a music venue in Marseille with 10 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Nido label night: Heavydance - BlueSky, Maj.Tom, Mel, Taiel & Vivi" on Fri, 20 Nov 2026.
+Nido Marseille is a music venue in Marseille with 10 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Nido label night: Heavydance - BlueSky, Maj.Tom, Mel, Taiel & Vivi" on Fri, 20 Nov 2026.
 
 Nido Marseille is a music venue in Marseille listed on soundcheck. 10 upcoming gigs, with line-ups including Baptiste Coppel, Brasi, Camu and Cristobal and 2 more. See dates, start times and who's playing. 20 boulevard fifi turin.
 
@@ -23,4 +23,4 @@ Nido Marseille is a music venue in Marseille listed on soundcheck. 10 upcoming g
 
 20 boulevard fifi turin, Marseille
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/nido-marseille/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/nido-marseille/)*

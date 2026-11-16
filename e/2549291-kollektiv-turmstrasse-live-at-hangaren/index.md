@@ -1,6 +1,6 @@
 # Kollektiv Turmstrasse (live) at Hangaren
 
-Kollektiv Turmstrasse (live) at Hangaren on Sat 13 Feb, Copenhagen. 1 artist: Kollektiv Turmstrasse. See the line-up on soundcheck.
+Kollektiv Turmstrasse (live) at Hangaren on Sat 13 Feb, Copenhagen. 1 artist: Kollektiv Turmstrasse. Techno and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

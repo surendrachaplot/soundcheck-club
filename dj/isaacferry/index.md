@@ -1,6 +1,6 @@
 # Isaac Ferry
 
-Isaac Ferry is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Nublu, New York City on Sat, 5 Dec 2026.
+Isaac Ferry is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Nublu, New York City on Sat, 5 Dec 2026.
 
 Isaac Ferry is a disco and house artist based in United Kingdom, with 27 gigs on soundcheck across Berlin, London, Mexico City and Miami and 1 more. Often billed alongside Discolypso Crew, Dombrance and Rigopolar. Next up: Nublu, New York City on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Isaac Ferry is a disco and house artist based in United Kingdom, with 27 gigs on
 
 Discolypso Crew, Dombrance, Rigopolar
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/isaacferry/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/isaacferry/)*

@@ -1,14 +1,13 @@
 # Craig Richards
 
-Craig Richards is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at The DBA, Manchester on Sun, 15 Nov 2026.
+Craig Richards is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Club Guesthouse, Bucharest on Sat, 21 Nov 2026.
 
-Craig Richards is a house and techno artist based in United Kingdom, with 171 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 33 more. Often billed alongside Bobby., Francesco Del Garda and Christian AB. Next up: The DBA, Manchester on Sun 15 Nov.
+Craig Richards is a house and techno artist based in United Kingdom, with 171 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 33 more. Often billed alongside Bobby., Francesco Del Garda and Christian AB. Next up: Club Guesthouse, Bucharest on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 15 Nov 2026 | The DBA | Manchester |
 | Sat, 21 Nov 2026 | Club Guesthouse | Bucharest |
 | Sat, 5 Dec 2026 | Yamamori Tengu | Dublin |
 | Fri, 11 Dec 2026 | Berghain / Panorama Bar / Säule | Berlin |
@@ -20,6 +19,7 @@ Craig Richards is a house and techno artist based in United Kingdom, with 171 gi
 
 ## Recently played
 
+- The DBA, Manchester · Sun, 15 Nov 2026
 - The White Hotel, Manchester · Sat, 14 Nov 2026
 - Circus Osaka, Osaka · Mon, 2 Nov 2026
 - Circus Osaka, Osaka · Mon, 2 Nov 2026
@@ -27,10 +27,9 @@ Craig Richards is a house and techno artist based in United Kingdom, with 171 gi
 - RADION, Amsterdam · Sun, 25 Oct 2026
 - Het Salon, Amsterdam · Fri, 23 Oct 2026
 - Klaproos, Amsterdam · Thu, 22 Oct 2026
-- fabric, London · Sat, 17 Oct 2026
 
 ## Shares bills with
 
 Bobby., Francesco Del Garda, Christian AB
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/craigrichards/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/craigrichards/)*

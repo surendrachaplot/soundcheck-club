@@ -1,6 +1,6 @@
 # The Bassement
 
-The Bassement is a music venue in Madrid with 13 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "NITRO: EARGASM GOD + LUZZY + Tasuik B2B Køni + ZENEA B2B Møstroh" on Thu, 19 Nov 2026.
+The Bassement is a music venue in Madrid with 13 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "NITRO: EARGASM GOD + LUZZY + Tasuik B2B Køni + ZENEA B2B Møstroh" on Thu, 19 Nov 2026.
 
 The Bassement is a music venue in Madrid listed on soundcheck. 13 upcoming gigs, with line-ups including AEREA, Ana Alves, Ania Bruster and Anna Jevills and 2 more. See dates, start times and who's playing. C. de Galileo, 2628015 Madrid.
 
@@ -23,4 +23,4 @@ The Bassement is a music venue in Madrid listed on soundcheck. 13 upcoming gigs,
 
 C. de Galileo, 2628015 Madrid, Madrid
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/the-bassement/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/the-bassement/)*

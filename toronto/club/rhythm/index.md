@@ -1,14 +1,13 @@
 # Rhythm
 
-Rhythm is a music venue in Toronto with 13 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "PARADOX 5 Years Together Part 2: Q&A & House Music" on Sun, 15 Nov 2026.
+Rhythm is a music venue in Toronto with 12 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Rhythm Workshop Series: Digital DJing" on Wed, 18 Nov 2026.
 
-Rhythm is a music venue in Toronto listed on soundcheck. 13 upcoming gigs, with line-ups including Ankathesia, Arapu, AUX_ID and Barbara Preisinger and 2 more. See dates, start times and who's playing. 141 Bathurst Street, Toronto, Ontario, M5V 2R2, CANADA.
+Rhythm is a music venue in Toronto listed on soundcheck. 12 upcoming gigs, with line-ups including Ankathesia, Arapu, AUX_ID and Barbara Preisinger and 2 more. See dates, start times and who's playing. 141 Bathurst Street, Toronto, Ontario, M5V 2R2, CANADA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 15 Nov 2026 | PARADOX 5 Years Together Part 2: Q&A & House Music | Claudio PRC, Salty |
 | Wed, 18 Nov 2026 | Rhythm Workshop Series: Digital DJing | Zellers |
 | Thu, 19 Nov 2026 | ABOVE AVERAGE Toronto 007 - Nick Muir & Carerra & Tavares | Carerra & Tavares, Nick Muir, Sasha |
 | Fri, 20 Nov 2026 | Rhythm: Barbara Preisinger and Mary | Barbara Preisinger, Mary (5) |
@@ -18,9 +17,10 @@ Rhythm is a music venue in Toronto listed on soundcheck. 13 upcoming gigs, with 
 | Thu, 26 Nov 2026 | Long Play: Adrianne Lenker |  |
 | Fri, 27 Nov 2026 | Rhythm: Arapu and Thomas James | Arapu, Thomas James (2) |
 | Sat, 28 Nov 2026 | SIF Collective 7 Year Anniversary | Ankathesia |
+| Fri, 4 Dec 2026 | Rhythm x Lucid: Liquid Earth with Hemlock & Utopos | Hemlock (CA), Liquid Earth, Utopos |
 
 ## Address
 
 141 Bathurst Street, Toronto, Ontario, M5V 2R2, CANADA, Toronto
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/rhythm/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/rhythm/)*

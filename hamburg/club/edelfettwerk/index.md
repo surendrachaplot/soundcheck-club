@@ -1,6 +1,6 @@
 # Edelfettwerk
 
-Edelfettwerk is a music venue in Hamburg with 4 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "OUR HOUSE. YOUR HOUSE. SECRET LINEUP" on Sat, 21 Nov 2026.
+Edelfettwerk is a music venue in Hamburg with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "OUR HOUSE. YOUR HOUSE. SECRET LINEUP" on Sat, 21 Nov 2026.
 
 Edelfettwerk is a music venue in Hamburg listed on soundcheck. 4 upcoming gigs, with line-ups including Bizzarro Universe, NATTA (DE), Paraçek and Rausch & Farbe and 1 more. See dates, start times and who's playing. Schnackenburgsallee 202, 22525 Hamburg.
 
@@ -17,4 +17,4 @@ Edelfettwerk is a music venue in Hamburg listed on soundcheck. 4 upcoming gigs, 
 
 Schnackenburgsallee 202, 22525 Hamburg, Hamburg
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/edelfettwerk/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/edelfettwerk/)*

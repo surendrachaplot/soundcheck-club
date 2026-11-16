@@ -1,6 +1,6 @@
 # PPOINT
 
-PPOINT is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA - Gearbox, Bangkok on Sat, 21 Nov 2026.
+PPOINT is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA - Gearbox, Bangkok on Sat, 21 Nov 2026.
 
 PPOINT is a techno and house artist based in Thailand, with 46 gigs on soundcheck across Bangkok and Ho Chi Minh City. Often billed alongside 4STAR, Tetez and UN!X. Next up: TBA - Gearbox, Bangkok on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ PPOINT is a techno and house artist based in Thailand, with 46 gigs on soundchec
 
 4STAR, Tetez, UN!X
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ppoint/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ppoint/)*

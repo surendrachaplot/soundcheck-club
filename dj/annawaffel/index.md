@@ -1,18 +1,18 @@
 # ANNAWAFFEL
 
-ANNAWAFFEL is a Downtempo and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Goldener Salon, Hamburg on Sun, 15 Nov 2026.
+ANNAWAFFEL is a Downtempo and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Beate Uwe, Berlin on Sun, 20 Dec 2026.
 
-ANNAWAFFEL is a downtempo and house artist based in Germany, with 7 gigs on soundcheck across Berlin and Hamburg. Often billed alongside AHAB, Ailin Liefeldt and Captain Ahoi. Next up: Goldener Salon, Hamburg on Sun 15 Nov.
+ANNAWAFFEL is a downtempo and house artist based in Germany, with 7 gigs on soundcheck across Berlin and Hamburg. Often billed alongside AHAB, Ailin Liefeldt and Captain Ahoi. Next up: Beate Uwe, Berlin on Sun 20 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 15 Nov 2026 | Goldener Salon | Hamburg |
 | Sun, 20 Dec 2026 | Beate Uwe | Berlin |
 
 ## Recently played
 
+- Goldener Salon, Hamburg · Sun, 15 Nov 2026
 - Jonny Knüppel, Berlin · Sat, 31 Oct 2026
 - Klunkerkranich, Berlin · Fri, 28 Aug 2026
 - gART.n, Berlin · Sun, 16 Aug 2026
@@ -23,4 +23,4 @@ ANNAWAFFEL is a downtempo and house artist based in Germany, with 7 gigs on soun
 
 AHAB, Ailin Liefeldt, Captain Ahoi
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annawaffel/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annawaffel/)*

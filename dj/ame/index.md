@@ -1,14 +1,13 @@
 # Âme
 
-Âme is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Club Hípico de Santiago, Santiago on Sat, 14 Nov 2026.
+Âme is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Duggal Greenhouse, New York City on Fri, 20 Nov 2026.
 
-Âme is a techno and house artist based in Germany, with 405 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 80 more. Often billed alongside Trikk, Jimi Jules and Dixon. Next up: Club Hípico de Santiago, Santiago on Sat 14 Nov.
+Âme is a techno and house artist based in Germany, with 405 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 80 more. Often billed alongside Trikk, Jimi Jules and Dixon. Next up: Duggal Greenhouse, New York City on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Club Hípico de Santiago | Santiago |
 | Fri, 20 Nov 2026 | Duggal Greenhouse | New York City |
 | Sat, 28 Nov 2026 | Robert Johnson | Hesse |
 | Sat, 28 Nov 2026 | Luz De Gas | Barcelona |
@@ -31,4 +30,4 @@
 
 Trikk, Jimi Jules, Dixon
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ame/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ame/)*

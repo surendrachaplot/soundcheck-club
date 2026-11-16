@@ -1,6 +1,6 @@
 # Tim Green
 
-Tim Green is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at The Timber Loft, London on Sat, 21 Nov 2026.
+Tim Green is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at The Timber Loft, London on Sat, 21 Nov 2026.
 
 Tim Green is a house and deep house artist based in United Kingdom, with 113 gigs on soundcheck across Amsterdam, Auckland, Bangkok and Barcelona and 34 more. Often billed alongside Lee Burridge, Sebastien Leger and Roy Rosenfeld. Next up: The Timber Loft, London on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Tim Green is a house and deep house artist based in United Kingdom, with 113 gig
 
 Lee Burridge, Sebastien Leger, Roy Rosenfeld
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tg/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tg/)*

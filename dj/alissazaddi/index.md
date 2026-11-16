@@ -1,6 +1,6 @@
 # Alissa Zaddi
 
-Alissa Zaddi is a Club and EBM artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Geist im Glas, Berlin on Fri, 20 Nov 2026.
+Alissa Zaddi is a Club and EBM artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Geist im Glas, Berlin on Fri, 20 Nov 2026.
 
 Alissa Zaddi is a club and ebm artist, with 13 gigs on soundcheck across Berlin, Cape Town, Hamburg and Paris. Often billed alongside JADA MORAES, breakdnz and mx.pinky. Next up: Geist im Glas, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Alissa Zaddi is a club and ebm artist, with 13 gigs on soundcheck across Berlin,
 
 JADA MORAES, breakdnz, mx.pinky
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alissazaddi/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alissazaddi/)*

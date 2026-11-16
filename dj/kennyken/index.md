@@ -1,8 +1,8 @@
 # Kenny Ken
 
-Kenny Ken is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Electric Brixton, London on Sat, 5 Dec 2026.
+Kenny Ken is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Electric Brixton, London on Sat, 5 Dec 2026.
 
-Kenny Ken is a drum & bass and jungle artist based in United Kingdom, with 68 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Bristol and 9 more. Often billed alongside Nicky Blackmarket, DJ Hype and Navigator. Next up: Electric Brixton, London on Sat 5 Dec.
+Kenny Ken is a drum & bass and jungle artist based in United Kingdom, with 69 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Bristol and 9 more. Often billed alongside Nicky Blackmarket, DJ Hype and Navigator. Next up: Electric Brixton, London on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Kenny Ken is a drum & bass and jungle artist based in United Kingdom, with 68 gi
 | Thu, 31 Dec 2026 | Fire | London |
 | Thu, 31 Dec 2026 | Tunnel Club | Birmingham |
 | Sat, 9 Jan 2027 | KOKO | London |
+| Sat, 23 Jan 2027 | Club Uno | London |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Kenny Ken is a drum & bass and jungle artist based in United Kingdom, with 68 gi
 
 Nicky Blackmarket, DJ Hype, Navigator
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kennyken/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kennyken/)*

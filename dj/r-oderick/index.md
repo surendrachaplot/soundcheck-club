@@ -1,6 +1,6 @@
 # R-ODERICK
 
-R-ODERICK is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Catacombs Cabaret, Toronto on Sat, 28 Nov 2026.
+R-ODERICK is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Catacombs Cabaret, Toronto on Sat, 28 Nov 2026.
 
 R-ODERICK is a techno and house artist based in Canada, with 70 gigs on soundcheck across Berlin, Montreal and Toronto. Often billed alongside Stashole, Venus in Foil and Adam X. Next up: Catacombs Cabaret, Toronto on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ R-ODERICK is a techno and house artist based in Canada, with 70 gigs on soundche
 
 Stashole, Venus in Foil, Adam X
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/r-oderick/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/r-oderick/)*

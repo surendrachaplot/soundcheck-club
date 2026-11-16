@@ -1,6 +1,6 @@
 # Solace
 
-Solace is a music venue in Melbourne with 6 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Pearl: Martinou (Live)" on Fri, 20 Nov 2026.
+Solace is a music venue in Melbourne with 6 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Pearl: Martinou (Live)" on Fri, 20 Nov 2026.
 
 Solace is a music venue in Melbourne listed on soundcheck. 6 upcoming gigs, with line-ups including ADMINISTRATOR, Andy Hart, Ari (AU) and Bex and 2 more. See dates, start times and who's playing. 21-25 Croft Alley, Melbourne, 3000.
 
@@ -19,4 +19,4 @@ Solace is a music venue in Melbourne listed on soundcheck. 6 upcoming gigs, with
 
 21-25 Croft Alley, Melbourne, 3000, Melbourne
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/solace/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/solace/)*

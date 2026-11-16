@@ -1,6 +1,6 @@
 # Brusca
 
-Brusca is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Lux Fragil, Lisbon on Sat, 21 Nov 2026.
+Brusca is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Lux Fragil, Lisbon on Sat, 21 Nov 2026.
 
 Brusca is a techno and club artist based in Portugal, with 43 gigs on soundcheck across Berlin, Lisbon, London and Porto. Often billed alongside CRAVO, FRESKO and Laura Hasagun. Next up: Lux Fragil, Lisbon on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Brusca is a techno and club artist based in Portugal, with 43 gigs on soundcheck
 
 CRAVO, FRESKO, Laura Hasagun
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brusca-pt/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brusca-pt/)*

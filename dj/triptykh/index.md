@@ -1,6 +1,6 @@
 # TRIPTYKH
 
-TRIPTYKH is a Techno and Industrial artist with 5 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Gotec, Karlsruhe on Fri, 27 Nov 2026.
+TRIPTYKH is a Techno and Industrial artist with 5 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Gotec, Karlsruhe on Fri, 27 Nov 2026.
 
 TRIPTYKH is a techno and industrial artist based in United States of America, with 65 gigs on soundcheck across Antwerp, Atlanta, Auckland and Austin and 39 more. Often billed alongside Aiden (DE), Ueberrest and I Hate Models. Next up: Gotec, Karlsruhe on Fri 27 Nov.
 
@@ -29,4 +29,4 @@ TRIPTYKH is a techno and industrial artist based in United States of America, wi
 
 Aiden (DE), Ueberrest, I Hate Models
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/triptykh/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/triptykh/)*

@@ -1,6 +1,6 @@
 # Daniel Ward
 
-Daniel Ward is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at UNLOCKED, London on Sat, 21 Nov 2026.
+Daniel Ward is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at UNLOCKED, London on Sat, 21 Nov 2026.
 
 Daniel Ward is a house and garage artist based in United Kingdom, with 16 gigs on soundcheck across London. Often billed alongside Hermit, DJ Listener and MC Secret Agent. Next up: UNLOCKED, London on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ Daniel Ward is a house and garage artist based in United Kingdom, with 16 gigs o
 
 Hermit, DJ Listener, MC Secret Agent
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielward/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielward/)*

@@ -1,6 +1,6 @@
 # Audiofields
 
-Audiofields is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at P0rtal, Rhode-island on Fri, 11 Dec 2026.
+Audiofields is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at P0rtal, Rhode-island on Fri, 11 Dec 2026.
 
 Audiofields is a jungle and drum & bass artist based in Denmark, with 3 gigs on soundcheck across Boston and Rhode Island. Often billed alongside Carré, Darwin and Introspekt. Next up: P0rtal, Rhode Island on Fri 11 Dec.
 
@@ -19,4 +19,4 @@ Audiofields is a jungle and drum & bass artist based in Denmark, with 3 gigs on 
 
 Carré, Darwin, Introspekt
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/audiofields/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/audiofields/)*

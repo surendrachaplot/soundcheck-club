@@ -1,6 +1,6 @@
 # Diverge
 
-Diverge is a Jungle and Drum & Bass artist with 9 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Sidney & Matilda, Sheffield on Sat, 21 Nov 2026.
+Diverge is a Jungle and Drum & Bass artist with 9 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Sidney & Matilda, Sheffield on Sat, 21 Nov 2026.
 
 Diverge is a jungle and drum & bass artist based in United Kingdom, with 77 gigs on soundcheck across Berlin, Brighton, Bristol and Dallas Fort Worth and 9 more. Often billed alongside LD50, Solo and Goldie. Next up: Sidney & Matilda, Sheffield on Sat 21 Nov.
 
@@ -33,4 +33,4 @@ Diverge is a jungle and drum & bass artist based in United Kingdom, with 77 gigs
 
 LD50, Solo (3), Goldie
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diverge/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diverge/)*

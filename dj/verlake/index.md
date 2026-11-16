@@ -1,6 +1,6 @@
 # Verlake
 
-Verlake is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Smolna, Warsaw on Sat, 21 Nov 2026.
+Verlake is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Smolna, Warsaw on Sat, 21 Nov 2026.
 
 Verlake is a techno and drum & bass artist, with 5 gigs on soundcheck across Madrid, Warsaw and Wroclaw. Often billed alongside Trans Timmermans, A_tropic and Axis Mundi. Next up: Smolna, Warsaw on Sat 21 Nov.
 
@@ -21,4 +21,4 @@ Verlake is a techno and drum & bass artist, with 5 gigs on soundcheck across Mad
 
 Trans Timmermans, A_tropic, Axis Mundi
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/verlake/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/verlake/)*

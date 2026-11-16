@@ -1,6 +1,6 @@
 # cara hegarty
 
-cara hegarty is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Cabaret Voltaire, Edinburgh on Thu, 26 Nov 2026.
+cara hegarty is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Cabaret Voltaire, Edinburgh on Thu, 26 Nov 2026.
 
 cara hegarty is a house and disco artist based in United Kingdom, with 12 gigs on soundcheck across Edinburgh. Often billed alongside Mixfits, OFFGRID and Phoebe Roper. Next up: Cabaret Voltaire, Edinburgh on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ cara hegarty is a house and disco artist based in United Kingdom, with 12 gigs o
 
 Mixfits (2), OFFGRID, Phoebe Roper
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carahegarty/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carahegarty/)*

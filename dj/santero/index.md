@@ -1,6 +1,6 @@
 # Santero
 
-Santero is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at NQ JPN, London on Fri, 20 Nov 2026.
+Santero is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at NQ JPN, London on Fri, 20 Nov 2026.
 
 Santero is a house and techno artist based in United Kingdom, with 3 gigs on soundcheck across London. Often billed alongside Evil Nine, Marlon and Stanton Warriors. Next up: NQ JPN, London on Fri 20 Nov.
 
@@ -19,4 +19,4 @@ Santero is a house and techno artist based in United Kingdom, with 3 gigs on sou
 
 Evil Nine, Marlon, Stanton Warriors
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/santero/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/santero/)*

@@ -1,6 +1,6 @@
 # Alienmade
 
-Alienmade is a Dubstep and Grime artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Blindspot*, Bucharest on Fri, 20 Nov 2026.
+Alienmade is a Dubstep and Grime artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Blindspot*, Bucharest on Fri, 20 Nov 2026.
 
 Alienmade is a dubstep and grime artist based in Romania, with 2 gigs on soundcheck across Bucharest. Often billed alongside ANIN, D-Fuze and Drao. Next up: Blindspot*, Bucharest on Fri 20 Nov.
 
@@ -18,4 +18,4 @@ Alienmade is a dubstep and grime artist based in Romania, with 2 gigs on soundch
 
 ANIN, D-Fuze, Drao
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alienmade/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alienmade/)*

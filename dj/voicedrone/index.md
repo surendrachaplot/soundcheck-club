@@ -1,6 +1,6 @@
 # Voicedrone
 
-Voicedrone is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at WOMB, Tokyo on Fri, 20 Nov 2026.
+Voicedrone is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at WOMB, Tokyo on Fri, 20 Nov 2026.
 
 Voicedrone is a techno and house artist based in United Kingdom, with 92 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 24 more. Often billed alongside James Newmarch, Anabel Arroyo and Alba Heidari. Next up: WOMB, Tokyo on Fri 20 Nov.
 
@@ -33,4 +33,4 @@ Voicedrone is a techno and house artist based in United Kingdom, with 92 gigs on
 
 James Newmarch, Anabel Arroyo, Alba Heidari
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/voicedrone/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/voicedrone/)*

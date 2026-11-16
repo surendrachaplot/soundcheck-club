@@ -1,6 +1,6 @@
 # Lincoln Factory
 
-Lincoln Factory is a music venue in Detroit with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Big A** Party" on Fri, 20 Nov 2026.
+Lincoln Factory is a music venue in Detroit with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Big A** Party" on Fri, 20 Nov 2026.
 
 Lincoln Factory is a music venue in Detroit listed on soundcheck. 3 upcoming gigs, with line-ups including Carl Craig, Disc Jockey George, JMT and Mija and 2 more. See dates, start times and who's playing. 1331 Holden Street, Detroit, MI 48202, USA.
 
@@ -16,4 +16,4 @@ Lincoln Factory is a music venue in Detroit listed on soundcheck. 3 upcoming gig
 
 1331 Holden Street, Detroit, MI 48202, USA, Detroit
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/lincoln-factory/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/lincoln-factory/)*

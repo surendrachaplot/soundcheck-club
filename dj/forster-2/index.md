@@ -1,6 +1,6 @@
 # Forster (2)
 
-Forster (2) is a Industrial and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Block1, Berlin on Sat, 12 Dec 2026.
+Forster (2) is a Industrial and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Block1, Berlin on Sat, 12 Dec 2026.
 
 Forster is an industrial and experimental artist based in Germany, with 4 gigs on soundcheck across Berlin. Often billed alongside Eric Frye, Frank Bretschneider and Microhm. Next up: Block1, Berlin on Sat 12 Dec.
 
@@ -20,4 +20,4 @@ Forster is an industrial and experimental artist based in Germany, with 4 gigs o
 
 Eric Frye, Frank Bretschneider, Microhm
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/forster-2/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/forster-2/)*

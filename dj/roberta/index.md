@@ -1,6 +1,6 @@
 # Roberta
 
-Roberta is a Techno and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Switch Bar, Barcelona on Wed, 18 Nov 2026.
+Roberta is a Techno and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Switch Bar, Barcelona on Wed, 18 Nov 2026.
 
 Roberta is a techno and hip-hop artist based in Mexico, with 12 gigs on soundcheck across Barcelona, Byron Bay and Mexico City. Often billed alongside Laura Put, Sumiruna and Alacrán del Amor. Next up: Switch Bar, Barcelona on Wed 18 Nov.
 
@@ -25,4 +25,4 @@ Roberta is a techno and hip-hop artist based in Mexico, with 12 gigs on soundche
 
 Laura Put, Sumiruna, Alacrán del Amor
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roberta/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roberta/)*

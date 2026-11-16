@@ -1,6 +1,6 @@
 # Jordan Walker
 
-Jordan Walker is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Red Brick Records, Manchester on Sat, 5 Dec 2026.
+Jordan Walker is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Red Brick Records, Manchester on Sat, 5 Dec 2026.
 
 Jordan Walker is a tech house and house artist, with 13 gigs on soundcheck across Leeds and Manchester. Often billed alongside BP, Eli Shaw and Luke Foulkes. Next up: Red Brick Records, Manchester on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Jordan Walker is a tech house and house artist, with 13 gigs on soundcheck acros
 
 BP (1), Eli Shaw, Luke Foulkes
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jordanwalker/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jordanwalker/)*

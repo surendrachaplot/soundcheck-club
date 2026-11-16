@@ -1,6 +1,6 @@
 # Dizz Martin
 
-Dizz Martin is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Happy Buddha, Vietnam on Thu, 31 Dec 2026.
+Dizz Martin is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Happy Buddha, Vietnam on Thu, 31 Dec 2026.
 
 Dizz Martin is an electronic artist based in Ukraine, with 2 gigs on soundcheck across Ho Chi Minh City and Vietnam. Often billed alongside Bytz, Chris Wolter and Erika Perales. Next up: Happy Buddha, Vietnam on Thu 31 Dec.
 
@@ -18,4 +18,4 @@ Dizz Martin is an electronic artist based in Ukraine, with 2 gigs on soundcheck 
 
 Bytz, Chris Wolter, Erika Perales
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dizzmartin/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dizzmartin/)*

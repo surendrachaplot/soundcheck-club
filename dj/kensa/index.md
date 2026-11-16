@@ -1,6 +1,6 @@
 # Kensa
 
-Kensa is a Electro and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA, Sydney on Sat, 21 Nov 2026.
+Kensa is a Electro and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA, Sydney on Sat, 21 Nov 2026.
 
 Kensa is an electro and techno artist based in United Kingdom, with 68 gigs on soundcheck across Bangkok, Barcelona, Berlin and Bologna and 12 more. Often billed alongside Nicky Macha, Timoti and Jayar. Next up: TBA, Sydney on Sat 21 Nov.
 
@@ -28,4 +28,4 @@ Kensa is an electro and techno artist based in United Kingdom, with 68 gigs on s
 
 Nicky Macha, Timoti, Jayar
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kensa/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kensa/)*

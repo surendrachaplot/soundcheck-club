@@ -1,6 +1,6 @@
 # RICO RICA
 
-RICO RICA is a Latin Bass and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Dalston Superstore, London on Fri, 20 Nov 2026.
+RICO RICA is a Latin Bass and Club artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Dalston Superstore, London on Fri, 20 Nov 2026.
 
 RICO RICA is a latin bass and club artist based in Colombia, with 97 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 17 more. Often billed alongside Teykirisi, Litney and petaanx. Next up: Dalston Superstore, London on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ RICO RICA is a latin bass and club artist based in Colombia, with 97 gigs on sou
 
 Teykirisi, Litney, petaanx
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ricorica/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ricorica/)*

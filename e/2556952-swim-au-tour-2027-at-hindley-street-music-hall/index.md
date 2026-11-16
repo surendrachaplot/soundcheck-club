@@ -1,6 +1,6 @@
 # SWIM - AU Tour 2027 at Hindley Street Music Hall
 
-SWIM - AU Tour 2027 at Hindley Street Music Hall on Sat 13 Feb, Adelaide. 1 artist: SWIM (AU). See the line-up on soundcheck.
+SWIM - AU Tour 2027 at Hindley Street Music Hall on Sat 13 Feb, Adelaide. 1 artist: SWIM (AU). House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

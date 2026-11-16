@@ -1,8 +1,8 @@
 # Jens Mueller
 
-Jens Mueller is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Fusion Club, Münster on Sat, 5 Dec 2026.
+Jens Mueller is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Fusion Club, Münster on Sat, 5 Dec 2026.
 
-Jens Mueller is a techno and acid artist based in Germany, with 5 gigs on soundcheck across Berlin and Münster. Often billed alongside Alexia K., Tiko and Ben Dust. Next up: Fusion Club, Münster on Sat 5 Dec.
+Jens Mueller is a techno and acid artist based in Germany, with 5 gigs on soundcheck across Berlin and Münster. Often billed alongside Tiko, Alexia K. and Ben Dust. Next up: Fusion Club, Münster on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -19,6 +19,6 @@ Jens Mueller is a techno and acid artist based in Germany, with 5 gigs on soundc
 
 ## Shares bills with
 
-Alexia K., Tiko, Ben Dust
+Tiko, Alexia K., Ben Dust
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jensmueller/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jensmueller/)*

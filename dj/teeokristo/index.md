@@ -1,6 +1,6 @@
 # Teeo Kristo
 
-Teeo Kristo is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Q35 WAREHOUSE, Turin on Sat, 12 Dec 2026.
+Teeo Kristo is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Q35 WAREHOUSE, Turin on Sat, 12 Dec 2026.
 
 Teeo Kristo is a techno artist based in Albania, with 3 gigs on soundcheck across Turin. Often billed alongside BENZA, Ellen Allien and Lobster (NL). Next up: Q35 WAREHOUSE, Turin on Sat 12 Dec.
 
@@ -19,4 +19,4 @@ Teeo Kristo is a techno artist based in Albania, with 3 gigs on soundcheck acros
 
 BENZA, Ellen Allien, Lobster (NL)
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/teeokristo/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/teeokristo/)*

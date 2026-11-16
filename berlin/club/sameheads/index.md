@@ -1,6 +1,6 @@
 # Sameheads
 
-Sameheads is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Listen Listen x Club Cosmic" on Sat, 21 Nov 2026.
+Sameheads is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Listen Listen x Club Cosmic" on Sat, 21 Nov 2026.
 
 Sameheads is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with line-ups including Alexander Arpeggio, Alienata, Amelia Holt and Andrea Zucca and 2 more. See dates, start times and who's playing. Richardstrasse 10; Neukölln; 12043 Berlin; Germany.
 
@@ -21,4 +21,4 @@ Sameheads is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with
 
 Richardstrasse 10; Neukölln; 12043 Berlin; Germany, Berlin
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sameheads/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sameheads/)*

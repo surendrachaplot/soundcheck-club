@@ -1,8 +1,8 @@
 # Studio 338
 
-Studio 338 is a music venue in London with 4 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Forward Motion" on Sat, 21 Nov 2026.
+Studio 338 is a music venue in London with 5 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Forward Motion" on Sat, 21 Nov 2026.
 
-Studio 338 is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including Beezo, Casey Spillman, DJ S (UK) and Jack n Danny and 2 more. See dates, start times and who's playing. 338 Boord Street; Greenwich; London SE10 0PF; United Kingdom.
+Studio 338 is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including Beezo, Casey Spillman, DJ S (UK) and Jack n Danny and 2 more. See dates, start times and who's playing. 338 Boord Street; Greenwich; London SE10 0PF; United Kingdom.
 
 ## What's on
 
@@ -12,9 +12,10 @@ Studio 338 is a music venue in London listed on soundcheck. 4 upcoming gigs, wit
 | Fri, 4 Dec 2026 | F*CK ME IT'S CHRISTMAS |  |
 | Sat, 5 Dec 2026 | House Passion x Beehive Winter Festival | Beezo, DJ S (UK), JAYDAA, Jack n Danny, Jammer, Jerome Six, Shenin Amara, Supa D |
 | Thu, 31 Dec 2026 | Release: NYE - Paco Osuna, Manda Moor, SYREETA, Tini Gessler, Joella Jackson, Nu Zau + more | Casey Spillman, Joëlla Jackson, Manda Moor, Nu Zau, Paco Osuna, Riaz Dhanani, SYREETA, Tini Gessler |
+| Sat, 13 Feb 2027 | HOUSE OF LOVE (HOUSE IS A FEELINGS 13TH B'DAY) SHINE 879 & RAVE DAYS |  |
 
 ## Address
 
 338 Boord Street; Greenwich; London SE10 0PF; United Kingdom, London
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/studio-338/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/studio-338/)*

@@ -1,6 +1,6 @@
 # Paul Lution
 
-Paul Lution is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 28 Nov 2026.
+Paul Lution is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 28 Nov 2026.
 
 Paul Lution is a techno and house artist based in Italy, with 45 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bologna and 12 more. Often billed alongside Munir Nadir, OTIS and Alex Dima. Next up: Seaseaclub Barcelona, Barcelona on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Paul Lution is a techno and house artist based in Italy, with 45 gigs on soundch
 
 Munir Nadir, OTIS (3), Alex Dima
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paullution/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paullution/)*

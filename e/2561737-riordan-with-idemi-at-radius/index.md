@@ -1,6 +1,6 @@
 # Riordan with IDEMI at Radius
 
-Riordan with IDEMI at Radius on Sat 13 Feb, Chicago. 2 artists: IDEMI and Riordan. See the line-up on soundcheck.
+Riordan with IDEMI at Radius on Sat 13 Feb, Chicago. 2 artists: IDEMI and Riordan. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

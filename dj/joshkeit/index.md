@@ -1,6 +1,6 @@
 # Josh Keit
 
-Josh Keit is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Collect LX Factory, Lisbon on Mon, 30 Nov 2026.
+Josh Keit is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Collect LX Factory, Lisbon on Mon, 30 Nov 2026.
 
 Josh Keit is a house and techno artist based in United Kingdom, with 52 gigs on soundcheck across Brighton, Leeds, Lisbon and London and 1 more. Often billed alongside Oldfield, Jardine (UK) and Jenson.. Next up: Collect LX Factory, Lisbon on Mon 30 Nov.
 
@@ -26,4 +26,4 @@ Josh Keit is a house and techno artist based in United Kingdom, with 52 gigs on 
 
 Oldfield, Jardine (UK), Jenson.
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshkeit/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshkeit/)*

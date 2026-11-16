@@ -1,6 +1,6 @@
 # Hegemeister
 
-Hegemeister is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Zemin Art Gallery, Berlin on Fri, 20 Nov 2026.
+Hegemeister is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Zemin Art Gallery, Berlin on Fri, 20 Nov 2026.
 
 Hegemeister is a techno and tech house artist based in Spain, with 3 gigs on soundcheck across Berlin. Often billed alongside L.OST, NuAmo and NDNG. Next up: Zemin Art Gallery, Berlin on Fri 20 Nov.
 
@@ -19,4 +19,4 @@ Hegemeister is a techno and tech house artist based in Spain, with 3 gigs on sou
 
 L.OST, NuAmo, NDNG
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hegemeister/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hegemeister/)*

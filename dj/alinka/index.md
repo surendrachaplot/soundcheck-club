@@ -1,6 +1,6 @@
 # Alinka
 
-Alinka is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Good Room, New York City on Sat, 12 Dec 2026.
+Alinka is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Good Room, New York City on Sat, 12 Dec 2026.
 
 Alinka is a house and techno artist based in Ukraine, with 125 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 40 more. Often billed alongside Massimiliano Pagliara, Budino and Sara Miller. Next up: Good Room, New York City on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Alinka is a house and techno artist based in Ukraine, with 125 gigs on soundchec
 
 Massimiliano Pagliara, Budino, Sara Miller
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alinka/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alinka/)*

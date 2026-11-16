@@ -1,6 +1,6 @@
 # DJ Subaru
 
-DJ Subaru is a Italo Disco and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
+DJ Subaru is a Italo Disco and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
 
 DJ Subaru is an italo disco and house artist based in United Kingdom, with 80 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brighton and 14 more. Often billed alongside babyschön, Sound Metaphors Djs and Michael Upson. Next up: The Wildlands, Melbourne on Fri 20 Nov.
 
@@ -28,4 +28,4 @@ DJ Subaru is an italo disco and house artist based in United Kingdom, with 80 gi
 
 babyschön, Sound Metaphors Djs, Michael Upson
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsubaru/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsubaru/)*

@@ -1,6 +1,6 @@
 # MOCID.
 
-MOCID. is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Castle Mandawa, Rajasthan, Other-regions on Fri, 18 Dec 2026.
+MOCID. is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Castle Mandawa, Rajasthan, Other-regions on Fri, 18 Dec 2026.
 
 MOCID. is a house and techno artist, with 4 gigs on soundcheck across Bangkok and Other Regions. Often billed alongside .g (TH), ANSWER (IN) and Aiden Francis. Next up: Castle Mandawa, Rajasthan, Other Regions on Fri 18 Dec.
 
@@ -20,4 +20,4 @@ MOCID. is a house and techno artist, with 4 gigs on soundcheck across Bangkok an
 
 .g (TH), ANSWER (IN), Aiden Francis
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mocid./)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mocid./)*

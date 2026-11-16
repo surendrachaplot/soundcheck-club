@@ -1,6 +1,6 @@
 # Alexi Delano
 
-Alexi Delano is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Under Bron, Stockholm on Fri, 4 Dec 2026.
+Alexi Delano is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Under Bron, Stockholm on Fri, 4 Dec 2026.
 
 Alexi Delano is a techno and minimal techno artist based in Chile, with 27 gigs on soundcheck across Amsterdam, Denver, Gothenburg and Lisbon and 7 more. Often billed alongside Emin G, Ms. K and ABSTRS. Next up: Under Bron, Stockholm on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Alexi Delano is a techno and minimal techno artist based in Chile, with 27 gigs 
 
 Emin G, Ms. K, ABSTRS
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexidelano/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexidelano/)*

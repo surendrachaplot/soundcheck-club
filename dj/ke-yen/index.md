@@ -1,6 +1,6 @@
 # KE-YEN
 
-KE-YEN is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Sub Club Melbourne, Melbourne on Sat, 12 Dec 2026.
+KE-YEN is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Sub Club Melbourne, Melbourne on Sat, 12 Dec 2026.
 
 KE-YEN is a house and garage artist based in Australia, with 33 gigs on soundcheck across Adelaide, Bali, Bangkok and Barcelona and 15 more. Often billed alongside Maruwa, Benga and Friend of a Friend. Next up: Sub Club Melbourne, Melbourne on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ KE-YEN is a house and garage artist based in Australia, with 33 gigs on soundche
 
 Maruwa, Benga, Friend of a Friend
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ke-yen/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ke-yen/)*

@@ -1,6 +1,6 @@
 # Studionotte
 
-Studionotte is a music venue in Milan with 4 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Pictura & SORGENTE SONORA" on Fri, 20 Nov 2026.
+Studionotte is a music venue in Milan with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Pictura & SORGENTE SONORA" on Fri, 20 Nov 2026.
 
 Studionotte is a music venue in Milan listed on soundcheck. 4 upcoming gigs, with line-ups including Acidgigi, ALDAVE, Brasi and Luc and 2 more. See dates, start times and who's playing. Via Feltre, 30, 20132 Milano MI.
 
@@ -17,4 +17,4 @@ Studionotte is a music venue in Milan listed on soundcheck. 4 upcoming gigs, wit
 
 Via Feltre, 30, 20132 Milano MI, Milan
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/studionotte/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/studionotte/)*

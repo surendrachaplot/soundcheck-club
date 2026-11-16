@@ -1,6 +1,6 @@
 # Skin On Skin
 
-Skin On Skin is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA, Singapore on Sat, 21 Nov 2026.
+Skin On Skin is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA, Singapore on Sat, 21 Nov 2026.
 
 Skin On Skin is a techno and house artist based in South Sudan, with 163 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Antwerp and 67 more. Often billed alongside Mall Grab, KETTAMA and DJ Gigola. Next up: TBA, Singapore on Sat 21 Nov.
 
@@ -32,4 +32,4 @@ Skin On Skin is a techno and house artist based in South Sudan, with 163 gigs on
 
 Mall Grab, KETTAMA, DJ Gigola
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skinonskin/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skinonskin/)*

@@ -1,6 +1,6 @@
 # M-BIA
 
-M-BIA is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Sanctus pres. Diztorted [Belfast]" on Fri, 20 Nov 2026.
+M-BIA is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Sanctus pres. Diztorted [Belfast]" on Fri, 20 Nov 2026.
 
 M-BIA is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with line-ups including Basstronauten, BrettHit, Daniel Boon and INTOX and 2 more. See dates, start times and who's playing. Dircksenstr. 123, 10178 Berlin.
 
@@ -21,4 +21,4 @@ M-BIA is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with lin
 
 Dircksenstr. 123, 10178 Berlin, Berlin
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bia/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bia/)*

@@ -1,14 +1,13 @@
 # Kangding Ray
 
-Kangding Ray is a Techno and Experimental artist with 7 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Circolo Amelia, Milan on Sat, 14 Nov 2026.
+Kangding Ray is a Techno and Experimental artist with 6 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at INPUT High Fidelity Dance Club, Barcelona on Fri, 20 Nov 2026.
 
-Kangding Ray is a techno and experimental artist based in Germany, with 160 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 50 more. Often billed alongside Dasha Rush, DJ Nobu and Ne/Re/A. Next up: Circolo Amelia, Milan on Sat 14 Nov.
+Kangding Ray is a techno and experimental artist based in Germany, with 160 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 50 more. Often billed alongside Dasha Rush, DJ Nobu and Ne/Re/A. Next up: INPUT High Fidelity Dance Club, Barcelona on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Circolo Amelia | Milan |
 | Fri, 20 Nov 2026 | INPUT High Fidelity Dance Club | Barcelona |
 | Fri, 27 Nov 2026 | Podlasie Club | Chicago |
 | Sat, 28 Nov 2026 | TBA - Secret Location | Toronto |
@@ -31,4 +30,4 @@ Kangding Ray is a techno and experimental artist based in Germany, with 160 gigs
 
 Dasha Rush, DJ Nobu, Ne/Re/A
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kangdingray/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kangdingray/)*

@@ -1,6 +1,6 @@
 # Het Salon
 
-Het Salon is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. The next is "Tobana" on Fri, 20 Nov 2026.
+Het Salon is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. The next is "Tobana" on Fri, 20 Nov 2026.
 
 Het Salon is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with line-ups including Dimitris Anagnostou and robbin. See dates, start times and who's playing. Condensatorweg 36, 1014 AX Amsterdam.
 
@@ -14,4 +14,4 @@ Het Salon is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, wi
 
 Condensatorweg 36, 1014 AX Amsterdam, Amsterdam
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/het-salon/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/het-salon/)*

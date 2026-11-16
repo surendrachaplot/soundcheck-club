@@ -1,15 +1,13 @@
 # Miscellania
 
-Miscellania is a music venue in Melbourne with 10 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "MUTATIONS WEEKENDER" on Sat, 14 Nov 2026.
+Miscellania is a music venue in Melbourne with 8 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Aus.udg x H.O pres. 'The Haps' ft 4ORTTUNE, Kenny Bounce, ECO$YSTEM + more" on Thu, 19 Nov 2026.
 
-Miscellania is a music venue in Melbourne listed on soundcheck. 10 upcoming gigs, with line-ups including Aashofteh, b. caszh, CCL and Charms and 2 more. See dates, start times and who's playing. 2/401 Swanston St, Melbourne VIC 3004.
+Miscellania is a music venue in Melbourne listed on soundcheck. 8 upcoming gigs, with line-ups including Aashofteh, b. caszh, CS + Kreme and D. Tyrone and 2 more. See dates, start times and who's playing. 2/401 Swanston St, Melbourne VIC 3004.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | MUTATIONS WEEKENDER | CCL, Charms, DJ Mum, Emelyne, Genie (1), Gillielove, Kate Miller, Kiernan Laveaux, Moopie, Nerve, Piezo, Pugilist, Simo Cell, Stormn Norm, The Rat |
-| Sun, 15 Nov 2026 | MUTATIONS WEEKENDER | CCL, DJ Mum, DJ Plead, Emelyne, Gillielove, Kate Miller, Moopie, Piezo, Simo Cell, dBridge |
 | Thu, 19 Nov 2026 | Aus.udg x H.O pres. 'The Haps' ft 4ORTTUNE, Kenny Bounce, ECO$YSTEM + more |  |
 | Fri, 20 Nov 2026 | Misc x Tribqu pres. Galcher Lustwerk LIVE | D. Tyrone, DJ Earl Grey, Galcher Lustwerk, Kuzco, Zjoso |
 | Sat, 21 Nov 2026 | Spincycle presents Matthias (Superluminal) | Matthias (1), Venus Flytrap (2) |
@@ -23,4 +21,4 @@ Miscellania is a music venue in Melbourne listed on soundcheck. 10 upcoming gigs
 
 2/401 Swanston St, Melbourne VIC 3004, Melbourne
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/miscellania/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/miscellania/)*

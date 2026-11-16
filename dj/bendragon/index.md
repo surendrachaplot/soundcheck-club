@@ -1,6 +1,6 @@
 # Ben Dragon
 
-Ben Dragon is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at The Airliner, Los Angeles on Fri, 20 Nov 2026.
+Ben Dragon is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at The Airliner, Los Angeles on Fri, 20 Nov 2026.
 
 Ben Dragon is a deep house and house artist, with 2 gigs on soundcheck across Los Angeles. Often billed alongside Big Cee, Juliet Mendoza and Yazmina. Next up: The Airliner, Los Angeles on Fri 20 Nov.
 
@@ -18,4 +18,4 @@ Ben Dragon is a deep house and house artist, with 2 gigs on soundcheck across Lo
 
 Big Cee, Juliet Mendoza, Yazmina
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bendragon/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bendragon/)*

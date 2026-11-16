@@ -1,14 +1,13 @@
 # Bar Shrimp
 
-Bar Shrimp is a music venue in Manchester with 7 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Bar Shrimp: Waltz LDN Takeover" on Sun, 15 Nov 2026.
+Bar Shrimp is a music venue in Manchester with 6 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Bar Shrimp: Rev.Austin, Levi Love." on Fri, 20 Nov 2026.
 
-Bar Shrimp is a music venue in Manchester listed on soundcheck. 7 upcoming gigs, with line-ups including Allius, doodle DJs, Elleinad and Hannah O'Gorman and 2 more. See dates, start times and who's playing. 7 New York Street, Manchester, M1 4JB.
+Bar Shrimp is a music venue in Manchester listed on soundcheck. 6 upcoming gigs, with line-ups including Allius, doodle DJs, Elleinad and Hannah O'Gorman and 2 more. See dates, start times and who's playing. 7 New York Street, Manchester, M1 4JB.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 15 Nov 2026 | Bar Shrimp: Waltz LDN Takeover | Katbrownsugar |
 | Fri, 20 Nov 2026 | Bar Shrimp: Rev.Austin, Levi Love. | Levi Love |
 | Sat, 21 Nov 2026 | Bar Shrimp: Oriki, Alfie Channell | Oriki |
 | Fri, 27 Nov 2026 | Bar Shrimp: Laura Jackon, Doodle | Laura Jackson, doodle DJs |
@@ -20,4 +19,4 @@ Bar Shrimp is a music venue in Manchester listed on soundcheck. 7 upcoming gigs,
 
 7 New York Street, Manchester, M1 4JB, Manchester
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/bar-shrimp/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/bar-shrimp/)*

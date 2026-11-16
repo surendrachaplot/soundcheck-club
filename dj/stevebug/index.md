@@ -1,6 +1,6 @@
 # Steve Bug
 
-Steve Bug is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Jaeger, Oslo on Sat, 21 Nov 2026.
+Steve Bug is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Jaeger, Oslo on Sat, 21 Nov 2026.
 
 Steve Bug is a house and techno artist based in Germany, with 64 gigs on soundcheck across Amsterdam, Auckland, Austria and Barcelona and 37 more. Often billed alongside Mathias Kaden, Steve Challier and miAs. Next up: Jaeger, Oslo on Sat 21 Nov.
 
@@ -15,6 +15,7 @@ Steve Bug is a house and techno artist based in Germany, with 64 gigs on soundch
 
 ## Recently played
 
+- The Brightside, Brisbane · Sun, 15 Nov 2026
 - Revolver Upstairs, Melbourne · Fri, 13 Nov 2026
 - Silent Studios, Auckland · Sat, 7 Nov 2026
 - Haven, Byron Bay · Fri, 6 Nov 2026
@@ -22,10 +23,9 @@ Steve Bug is a house and techno artist based in Germany, with 64 gigs on soundch
 - Yellow House, Amsterdam · Sat, 24 Oct 2026
 - The Timber Loft, London · Sun, 11 Oct 2026
 - Minimüzikhol, Istanbul · Fri, 11 Sept 2026
-- VENT, Tokyo · Sat, 18 Jul 2026
 
 ## Shares bills with
 
 Mathias Kaden, Steve Challier, miAs
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stevebug/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stevebug/)*

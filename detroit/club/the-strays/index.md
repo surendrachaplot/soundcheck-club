@@ -1,6 +1,6 @@
 # The Strays
 
-The Strays is a music venue in Detroit with 4 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "RIVETED - Dark Techno, Industrial, EBM" on Fri, 20 Nov 2026.
+The Strays is a music venue in Detroit with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "RIVETED - Dark Techno, Industrial, EBM" on Fri, 20 Nov 2026.
 
 The Strays is a music venue in Detroit listed on soundcheck. 4 upcoming gigs, with line-ups including Aleroj, DJ FLP, DJ Girl and fi3nd and 2 more. See dates, start times and who's playing. 8850 Joseph Campau Ave, Hamtramck, MI 48212, USA.
 
@@ -17,4 +17,4 @@ The Strays is a music venue in Detroit listed on soundcheck. 4 upcoming gigs, wi
 
 8850 Joseph Campau Ave, Hamtramck, MI 48212, USA, Detroit
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/the-strays/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/the-strays/)*

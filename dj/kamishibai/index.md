@@ -1,6 +1,6 @@
 # kamishibai
 
-kamishibai is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Studio dB, Berlin on Sat, 21 Nov 2026.
+kamishibai is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Studio dB, Berlin on Sat, 21 Nov 2026.
 
 kamishibai is a disco and house artist based in Germany, with 2 gigs on soundcheck across Berlin. Often billed alongside FatAles, Mamede and riss. Next up: Studio dB, Berlin on Sat 21 Nov.
 
@@ -18,4 +18,4 @@ kamishibai is a disco and house artist based in Germany, with 2 gigs on soundche
 
 FatAles, Mamede, riss
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kamishibai/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kamishibai/)*

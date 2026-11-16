@@ -1,6 +1,6 @@
 # atebaki
 
-atebaki is a Downtempo and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA - VANCOUVER, Vancouver on Sat, 28 Nov 2026.
+atebaki is a Downtempo and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA - VANCOUVER, Vancouver on Sat, 28 Nov 2026.
 
 atebaki is a downtempo and bass artist based in Canada, with 2 gigs on soundcheck across Vancouver. Often billed alongside Creatura. Next up: TBA - VANCOUVER, Vancouver on Sat 28 Nov.
 
@@ -18,4 +18,4 @@ atebaki is a downtempo and bass artist based in Canada, with 2 gigs on soundchec
 
 Creatura
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/atebaki/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/atebaki/)*

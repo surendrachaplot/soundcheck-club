@@ -1,18 +1,21 @@
 # Wellew
 
-Wellew is a electronic artist with 2 upcoming gigs listed on soundcheck as of Fri, 13 Nov 2026. Next at DEX, Moscow on Fri, 13 Nov 2026.
+Wellew is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA - Fabula, Rest-of-russia on Sat, 5 Dec 2026.
 
-Wellew is an electronic artist, with 2 gigs on soundcheck across Moscow and Rest Of Russia. Often billed alongside Abelle, Annie and Anushka (UK). Next up: DEX, Moscow on Fri 13 Nov.
+Wellew is an electronic artist based in Russia, with 2 gigs on soundcheck across Moscow and Rest Of Russia. Often billed alongside Abelle, Annie and Anushka (UK). Next up: TBA - Fabula, Rest Of Russia on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | DEX | Moscow |
 | Sat, 5 Dec 2026 | TBA - Fabula | Rest-of-russia |
+
+## Recently played
+
+- DEX, Moscow · Fri, 13 Nov 2026
 
 ## Shares bills with
 
 Abelle, Annie, Anushka (UK)
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wellew/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wellew/)*

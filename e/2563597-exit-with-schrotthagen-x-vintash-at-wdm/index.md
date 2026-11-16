@@ -1,6 +1,6 @@
 # EXIT with Schrotthagen x VINTASH at WDM
 
-EXIT with Schrotthagen x VINTASH at WDM on Sat 13 Feb, Hannover. 2 artists: Schrotthagen and VINTASH. See the line-up on soundcheck.
+EXIT with Schrotthagen x VINTASH at WDM on Sat 13 Feb, Hannover. 2 artists: Schrotthagen and VINTASH. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Dusan Kacarevic
 
-Dusan Kacarevic is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Atno, Budapest on Sat, 21 Nov 2026.
+Dusan Kacarevic is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Atno, Budapest on Sat, 21 Nov 2026.
 
 Dusan Kacarevic is a techno and house artist based in Serbia, with 2 gigs on soundcheck across Belgrade and Budapest. Often billed alongside Boza Podunavac, DJ Budai and DVS1. Next up: Atno, Budapest on Sat 21 Nov.
 
@@ -18,4 +18,4 @@ Dusan Kacarevic is a techno and house artist based in Serbia, with 2 gigs on sou
 
 Boza Podunavac, DJ Budai, DVS1
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dusankacarevic/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dusankacarevic/)*

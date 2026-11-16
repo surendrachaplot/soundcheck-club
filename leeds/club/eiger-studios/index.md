@@ -1,6 +1,6 @@
 # Eiger Studios
 
-Eiger Studios is a music venue in Leeds with 9 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Big Boys presents Opening Night with Cottam" on Fri, 20 Nov 2026.
+Eiger Studios is a music venue in Leeds with 9 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Big Boys presents Opening Night with Cottam" on Fri, 20 Nov 2026.
 
 Eiger Studios is a music venue in Leeds listed on soundcheck. 9 upcoming gigs, with line-ups including basic chanel, Benny Bysouth, BUTCHABOI and Chris Liberator and 2 more. See dates, start times and who's playing. Unit 1, Fairfield House, New Craven Gate Industrial Estate, Leeds, LS11 5NF.
 
@@ -22,4 +22,4 @@ Eiger Studios is a music venue in Leeds listed on soundcheck. 9 upcoming gigs, w
 
 Unit 1, Fairfield House, New Craven Gate Industrial Estate, Leeds, LS11 5NF, Leeds
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/eiger-studios/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/eiger-studios/)*

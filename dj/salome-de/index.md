@@ -1,6 +1,6 @@
 # SALOME
 
-SALOME is a Techno and Electro artist with 5 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Studio1111, Berlin on Thu, 19 Nov 2026.
+SALOME is a Techno and Electro artist with 5 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Studio1111, Berlin on Thu, 19 Nov 2026.
 
 SALOME is a techno and electro artist based in Georgia, with 237 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 76 more. Often billed alongside MCMLXXXV, CEM and SPFDJ. Next up: Studio1111, Berlin on Thu 19 Nov.
 
@@ -29,4 +29,4 @@ SALOME is a techno and electro artist based in Georgia, with 237 gigs on soundch
 
 MCMLXXXV, CEM, SPFDJ
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/salome-de/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/salome-de/)*

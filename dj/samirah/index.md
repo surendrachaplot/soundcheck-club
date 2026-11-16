@@ -1,6 +1,6 @@
 # Samirah
 
-Samirah is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Bread and Butter Arch, London on Thu, 19 Nov 2026.
+Samirah is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Bread and Butter Arch, London on Thu, 19 Nov 2026.
 
 Samirah is a house and techno artist, with 10 gigs on soundcheck across London. Often billed alongside ElectroPleasure, Adaje and BOA. Next up: Bread and Butter Arch, London on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Samirah is a house and techno artist, with 10 gigs on soundcheck across London. 
 
 ElectroPleasure, Adaje, BOA (1)
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samirah/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samirah/)*

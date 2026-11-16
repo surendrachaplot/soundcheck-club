@@ -1,6 +1,6 @@
 # XQZ ME
 
-XQZ ME is a Club and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at The Airliner, Los Angeles on Thu, 19 Nov 2026.
+XQZ ME is a Club and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at The Airliner, Los Angeles on Thu, 19 Nov 2026.
 
 XQZ ME is a club and house artist based in United States of America, with 9 gigs on soundcheck across Los Angeles, New York City and Seattle. Often billed alongside NEPTUNEWAVEY, Andy Oro and No Pressure. Next up: The Airliner, Los Angeles on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ XQZ ME is a club and house artist based in United States of America, with 9 gigs
 
 NEPTUNEWAVEY, Andy Oro, No Pressure
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xqzme/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xqzme/)*

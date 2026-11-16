@@ -1,6 +1,6 @@
 # Deer Jade
 
-Deer Jade is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Ikal Hotel, Tepoztlán, Estado-de-m-xico on Fri, 13 Nov 2026.
+Deer Jade is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Ikal Hotel, Tepoztlán, Estado-de-m-xico on Fri, 13 Nov 2026.
 
 Deer Jade is a house and techno artist based in Switzerland, with 125 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 37 more. Often billed alongside Adriatique, Ben Böhmer and LP Giobbi. Next up: Ikal Hotel, Tepoztlán, Estado De M Xico on Fri 13 Nov.
 
@@ -29,4 +29,4 @@ Deer Jade is a house and techno artist based in Switzerland, with 125 gigs on so
 
 Adriatique, Ben Böhmer, LP Giobbi
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deerjade/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deerjade/)*

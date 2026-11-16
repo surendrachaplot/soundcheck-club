@@ -1,6 +1,6 @@
 # The Greyhound
 
-The Greyhound is a music venue in London with 16 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "HIFI/LOFI goes to London: Franz Matthews (Live), Beyond The Struttosphere" on Fri, 20 Nov 2026.
+The Greyhound is a music venue in London with 16 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "HIFI/LOFI goes to London: Franz Matthews (Live), Beyond The Struttosphere" on Fri, 20 Nov 2026.
 
 The Greyhound is a music venue in London listed on soundcheck. 16 upcoming gigs, with line-ups including Anna Kost, Awedinary, Beton Brut and Beyond The Struttosphere and 2 more. See dates, start times and who's playing. 109 Peckham High St, London SE15 5SE.
 
@@ -23,4 +23,4 @@ The Greyhound is a music venue in London listed on soundcheck. 16 upcoming gigs,
 
 109 Peckham High St, London SE15 5SE, London
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-greyhound/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-greyhound/)*

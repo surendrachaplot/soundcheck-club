@@ -1,6 +1,6 @@
 # Jepe
 
-Jepe is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Romantica, Stuttgart on Sat, 21 Nov 2026.
+Jepe is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Romantica, Stuttgart on Sat, 21 Nov 2026.
 
 Jepe is a house and techno artist based in Germany, with 45 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cyprus and 10 more. Often billed alongside Alexander Maier, Berny and Manu Strasse. Next up: Romantica, Stuttgart on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ Jepe is a house and techno artist based in Germany, with 45 gigs on soundcheck a
 
 Alexander Maier, Berny, Manu Strasse
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jepe/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jepe/)*

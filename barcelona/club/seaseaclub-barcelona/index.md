@@ -1,6 +1,6 @@
 # Seaseaclub Barcelona
 
-Seaseaclub Barcelona is a music venue in Barcelona with 7 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Half Baked x Les Enfants at SEASEACLUB with Margaret Dygas, Tristan da Cunha & More" on Sat, 21 Nov 2026.
+Seaseaclub Barcelona is a music venue in Barcelona with 7 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Half Baked x Les Enfants at SEASEACLUB with Margaret Dygas, Tristan da Cunha & More" on Sat, 21 Nov 2026.
 
 Seaseaclub Barcelona is a music venue in Barcelona listed on soundcheck. 7 upcoming gigs, with line-ups including Alec Falconer, Binh, DJ Service and Evan Baggs and 2 more. See dates, start times and who's playing. Carrer Port Esportiu, 14P, 08930 Barcelona.
 
@@ -20,4 +20,4 @@ Seaseaclub Barcelona is a music venue in Barcelona listed on soundcheck. 7 upcom
 
 Carrer Port Esportiu, 14P, 08930 Barcelona, Barcelona
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/seaseaclub-barcelona/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/seaseaclub-barcelona/)*

@@ -1,6 +1,6 @@
 # Emma Rose
 
-Emma Rose is a Garage and UK Funky artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Waterbear Music Bar, Brighton on Sat, 28 Nov 2026.
+Emma Rose is a Garage and UK Funky artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Waterbear Music Bar, Brighton on Sat, 28 Nov 2026.
 
 Emma Rose is a garage and uk funky artist based in United Kingdom, with 10 gigs on soundcheck across Brighton, Bristol, London and Manchester. Often billed alongside ROWANA, Dani Whylie and Duality. Next up: Waterbear Music Bar, Brighton on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Emma Rose is a garage and uk funky artist based in United Kingdom, with 10 gigs 
 
 ROWANA, Dani Whylie, Duality
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emmarose/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emmarose/)*

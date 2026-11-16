@@ -1,6 +1,6 @@
 # Tocai
 
-Tocai is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Het Dorp, Amsterdam on Fri, 20 Nov 2026.
+Tocai is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Het Dorp, Amsterdam on Fri, 20 Nov 2026.
 
 Tocai is a house and disco artist based in Spain, with 3 gigs on soundcheck across Amsterdam. Often billed alongside El Nicoya, Aram Mukanay and Deodaat. Next up: Het Dorp, Amsterdam on Fri 20 Nov.
 
@@ -19,4 +19,4 @@ Tocai is a house and disco artist based in Spain, with 3 gigs on soundcheck acro
 
 El Nicoya, Aram Mukanay, Deodaat
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tocai/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tocai/)*

@@ -1,6 +1,6 @@
 # Arcadia V at The Mash House
 
-Arcadia V at The Mash House on Thu 19 Nov, Edinburgh. 4 artists: CU-SITH, Dan Jakson, silkrot and SINN3R. See the line-up on soundcheck.
+Arcadia V at The Mash House on Thu 19 Nov, Edinburgh. 4 artists: CU-SITH, Dan Jakson, silkrot and SINN3R. Hardcore and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

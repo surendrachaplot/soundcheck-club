@@ -1,6 +1,6 @@
 # ELZIRA
 
-ELZIRA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at OXI, Berlin on Fri, 4 Dec 2026.
+ELZIRA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at OXI, Berlin on Fri, 4 Dec 2026.
 
 ELZIRA is a techno and trance artist based in Germany, with 2 gigs on soundcheck across Berlin. Often billed alongside Brizze, DJ Discostoff and DJ SPORTSCHUH. Next up: OXI, Berlin on Fri 4 Dec.
 
@@ -18,4 +18,4 @@ ELZIRA is a techno and trance artist based in Germany, with 2 gigs on soundcheck
 
 Brizze, DJ Discostoff, DJ SPORTSCHUH
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elzira/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elzira/)*

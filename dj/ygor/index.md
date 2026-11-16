@@ -1,6 +1,6 @@
 # Ygor
 
-Ygor is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at NOD, Moldova on Fri, 20 Nov 2026.
+Ygor is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at NOD, Moldova on Fri, 20 Nov 2026.
 
 Ygor is a house and breakbeat artist based in Moldova, with 3 gigs on soundcheck across Berlin, Moldova and Sofia. Often billed alongside Algorithm, Bog and Dana. Next up: NOD, Moldova on Fri 20 Nov.
 
@@ -19,4 +19,4 @@ Ygor is a house and breakbeat artist based in Moldova, with 3 gigs on soundcheck
 
 Algorithm, Bog (3), Dana (2)
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ygor/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ygor/)*

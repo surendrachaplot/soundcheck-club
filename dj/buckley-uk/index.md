@@ -1,6 +1,6 @@
 # Buckley (UK)
 
-Buckley (UK) is a Garage and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at CANVAS, Dundee on Sat, 21 Nov 2026.
+Buckley (UK) is a Garage and Dubstep artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at CANVAS, Dundee on Sat, 21 Nov 2026.
 
 Buckley (UK) is a garage and dubstep artist based in United Kingdom, with 81 gigs on soundcheck across Berlin, Bristol, Cardiff and Dundee and 9 more. Often billed alongside harpriya, Dawsons Kriek and Howie Booth. Next up: CANVAS, Dundee on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Buckley (UK) is a garage and dubstep artist based in United Kingdom, with 81 gig
 
 harpriya, Dawsons Kriek, Howie Booth
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/buckley-uk/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/buckley-uk/)*

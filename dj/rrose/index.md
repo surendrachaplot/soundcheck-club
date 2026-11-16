@@ -1,6 +1,6 @@
 # Rrose
 
-Rrose is a Techno and Experimental artist with 4 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at OHM, Berlin on Thu, 19 Nov 2026.
+Rrose is a Techno and Experimental artist with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at OHM, Berlin on Thu, 19 Nov 2026.
 
 Rrose is a techno and experimental artist based in United States of America, with 160 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 52 more. Often billed alongside Wata Igarashi, DJ Nobu and Polygonia. Next up: OHM, Berlin on Thu 19 Nov.
 
@@ -28,4 +28,4 @@ Rrose is a techno and experimental artist based in United States of America, wit
 
 Wata Igarashi, DJ Nobu, Polygonia
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rrose/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rrose/)*

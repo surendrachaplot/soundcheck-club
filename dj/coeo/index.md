@@ -1,6 +1,6 @@
 # COEO
 
-COEO is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Aahhh Rooftop, Munich on Sat, 21 Nov 2026.
+COEO is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Aahhh Rooftop, Munich on Sat, 21 Nov 2026.
 
 COEO is a house and disco artist based in Germany, with 113 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 31 more. Often billed alongside Kapote, Athlete Whippet and Gee Lane. Next up: Aahhh Rooftop, Munich on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ COEO is a house and disco artist based in Germany, with 113 gigs on soundcheck a
 
 Kapote, Athlete Whippet, Gee Lane
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/coeo/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/coeo/)*

@@ -1,6 +1,6 @@
 # Sidney Charles
 
-Sidney Charles is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA - Lurín live / Lima, Perú., Peru on Sat, 21 Nov 2026.
+Sidney Charles is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA - Lurín live / Lima, Perú., Peru on Sat, 21 Nov 2026.
 
 Sidney Charles is a house and tech house artist based in Germany, with 232 gigs on soundcheck across Aberdeen, Amsterdam, Atlanta and Austin and 47 more. Often billed alongside Prunk, ALISHA and Gaskin. Next up: TBA - Lurín live / Lima, Perú., Peru on Sat 21 Nov.
 
@@ -29,4 +29,4 @@ Sidney Charles is a house and tech house artist based in Germany, with 232 gigs 
 
 Prunk, ALISHA, Gaskin
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sidneycharles/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sidneycharles/)*

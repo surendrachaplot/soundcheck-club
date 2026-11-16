@@ -1,6 +1,6 @@
 # CRAZY-T
 
-CRAZY-T is a Bass and Electro artist with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Club (o)Utopos, Chubu on Fri, 20 Nov 2026.
+CRAZY-T is a Bass and Electro artist with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Club (o)Utopos, Chubu on Fri, 20 Nov 2026.
 
 CRAZY-T is a bass and electro artist based in Japan, with 9 gigs on soundcheck across Chubu, Okinawa, Osaka and Seoul and 1 more. Often billed alongside LEF!!!CREW!!!, ACHIRI and CH.0. Next up: Club (o)Utopos, Chubu on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ CRAZY-T is a bass and electro artist based in Japan, with 9 gigs on soundcheck a
 
 LEF!!!CREW!!!, ACHIRI, CH.0
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/crazy-t/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/crazy-t/)*

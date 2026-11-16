@@ -1,6 +1,6 @@
 # Stidilä
 
-Stidilä is a music venue in Helsinki with 4 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Perjantaijatkot Stidilässä – Olli Koponen & Tietäjä" on Sat, 21 Nov 2026.
+Stidilä is a music venue in Helsinki with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Perjantaijatkot Stidilässä – Olli Koponen & Tietäjä" on Sat, 21 Nov 2026.
 
 Stidilä is a music venue in Helsinki listed on soundcheck. 4 upcoming gigs, with line-ups including babybel, Carlina Carpelan, Daniel Kayrouz and Exploited Body and 2 more. See dates, start times and who's playing. Kaikukatu 4, 00101 Helsinki, Finland.
 
@@ -17,4 +17,4 @@ Stidilä is a music venue in Helsinki listed on soundcheck. 4 upcoming gigs, wit
 
 Kaikukatu 4, 00101 Helsinki, Finland, Helsinki
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/stidil/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/stidil/)*

@@ -1,6 +1,6 @@
 # Ballucci Hounslow
 
-Ballucci Hounslow is a music venue in London with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. The next is "Gathered at Ballucci" on Sat, 21 Nov 2026.
+Ballucci Hounslow is a music venue in London with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. The next is "Gathered at Ballucci" on Sat, 21 Nov 2026.
 
 Ballucci Hounslow is a music venue in London listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Ballucci Hounslow is a music venue in London listed on soundcheck. 1 upcoming gi
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Gathered at Ballucci |  |
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/ballucci-hounslow/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/ballucci-hounslow/)*

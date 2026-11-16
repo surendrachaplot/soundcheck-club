@@ -1,6 +1,6 @@
 # Fewmurnz
 
-Fewmurnz is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Mesmeric Sofia, Sofia on Fri, 27 Nov 2026.
+Fewmurnz is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Mesmeric Sofia, Sofia on Fri, 27 Nov 2026.
 
 Fewmurnz is a garage and house artist based in Bulgaria, with 4 gigs on soundcheck across Sofia. Often billed alongside Thrilian, Captain Wallop and DJ Perception. Next up: Mesmeric Sofia, Sofia on Fri 27 Nov.
 
@@ -20,4 +20,4 @@ Fewmurnz is a garage and house artist based in Bulgaria, with 4 gigs on soundche
 
 Thrilian, Captain Wallop, DJ Perception
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fewmurnz/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fewmurnz/)*

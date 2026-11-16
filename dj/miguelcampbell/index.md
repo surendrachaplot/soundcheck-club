@@ -1,6 +1,6 @@
 # Miguel Campbell
 
-Miguel Campbell is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at fabric, London on Fri, 27 Nov 2026.
+Miguel Campbell is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at fabric, London on Fri, 27 Nov 2026.
 
 Miguel Campbell is a house and deep house artist based in United Kingdom, with 39 gigs on soundcheck across Amsterdam, Auckland, Birmingham and Edinburgh and 10 more. Often billed alongside Alexis Raphael, Shadow Child and Steven Cee. Next up: fabric, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Miguel Campbell is a house and deep house artist based in United Kingdom, with 3
 
 Alexis Raphael, Shadow Child, Steven Cee
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelcampbell/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelcampbell/)*

@@ -1,6 +1,6 @@
 # DJ Cringey
 
-DJ Cringey is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Bergson Kunstkraftwerk, Munich on Sat, 21 Nov 2026.
+DJ Cringey is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Bergson Kunstkraftwerk, Munich on Sat, 21 Nov 2026.
 
 DJ Cringey is a techno and trance artist based in New Zealand, with 120 gigs on soundcheck across Amsterdam, Antwerp, Basel and Belfast and 31 more. Often billed alongside TOXIMAMI, DJ Hyperdrive and davyboi. Next up: Bergson Kunstkraftwerk, Munich on Sat 21 Nov.
 
@@ -30,4 +30,4 @@ DJ Cringey is a techno and trance artist based in New Zealand, with 120 gigs on 
 
 TOXIMAMI, DJ Hyperdrive, davyboi
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djcringey/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djcringey/)*

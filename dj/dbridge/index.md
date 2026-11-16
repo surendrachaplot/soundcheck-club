@@ -1,19 +1,19 @@
 # dBridge
 
-dBridge is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Miscellania, Melbourne on Sun, 15 Nov 2026.
+dBridge is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Casa Montjuïc & Vall d'Hebron Olympic Pavilion, Barcelona on Thu, 11 Mar 2027.
 
-dBridge is a drum & bass and bass artist based in United Kingdom, with 97 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 36 more. Often billed alongside DjRUM, SP:MC and Kia (AU). Next up: Miscellania, Melbourne on Sun 15 Nov.
+dBridge is a drum & bass and bass artist based in United Kingdom, with 97 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 36 more. Often billed alongside DjRUM, SP:MC and Kia (AU). Next up: Casa Montjuïc & Vall d'Hebron Olympic Pavilion, Barcelona on Thu 11 Mar.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 15 Nov 2026 | Miscellania | Melbourne |
 | Thu, 11 Mar 2027 | Casa Montjuïc & Vall d'Hebron Olympic Pavilion | Barcelona |
 | Thu, 22 Jul 2027 | The Garden Tisno | London |
 
 ## Recently played
 
+- Miscellania, Melbourne · Sun, 15 Nov 2026
 - TBA, Victoria · Fri, 6 Nov 2026
 - ILLUM, Shanghai · Sat, 10 Oct 2026
 - ILLUM, Shanghai · Sat, 10 Oct 2026
@@ -21,10 +21,9 @@ dBridge is a drum & bass and bass artist based in United Kingdom, with 97 gigs o
 - The Cause, London · Sat, 22 Aug 2026
 - The Glove That Fits, London · Sat, 22 Aug 2026
 - Berghain | Panorama Bar | Säule, Berlin · Fri, 21 Aug 2026
-- The White Hotel, Manchester · Fri, 24 Jul 2026
 
 ## Shares bills with
 
 DjRUM, SP:MC, Kia (AU)
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dbridge/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dbridge/)*

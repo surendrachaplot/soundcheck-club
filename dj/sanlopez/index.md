@@ -1,6 +1,6 @@
 # San Lopez
 
-San Lopez is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Sala Muv, Madrid on Fri, 15 Jan 2027.
+San Lopez is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Sala Muv, Madrid on Fri, 15 Jan 2027.
 
 San Lopez is a techno and industrial artist, with 13 gigs on soundcheck across Basel, Lisbon and Madrid. Often billed alongside Schusta, Madson Carpenter and Taxsh. Next up: Sala Muv, Madrid on Fri 15 Jan.
 
@@ -25,4 +25,4 @@ San Lopez is a techno and industrial artist, with 13 gigs on soundcheck across B
 
 Schusta, Madson Carpenter, Taxsh
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sanlopez/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sanlopez/)*

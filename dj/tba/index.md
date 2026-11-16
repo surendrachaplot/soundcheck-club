@@ -1,14 +1,13 @@
 # TBA
 
-TBA is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at 1756 Naud St., Los Angeles on Sat, 14 Nov 2026.
+TBA is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Kult, Belgrade on Wed, 18 Nov 2026.
 
-TBA is a techno and house artist based in Georgia, with 287 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 53 more. Often billed alongside PARIS (AU), SHARE (NL) and Gerald VDH. Next up: 1756 Naud St., Los Angeles on Sat 14 Nov.
+TBA is a techno and house artist based in Georgia, with 287 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 53 more. Often billed alongside PARIS (AU), SHARE (NL) and Gerald VDH. Next up: Kult, Belgrade on Wed 18 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | 1756 Naud St. | Los Angeles |
 | Wed, 18 Nov 2026 | Kult | Belgrade |
 | Sat, 21 Nov 2026 | Electric Ballroom | London |
 | Wed, 25 Nov 2026 | Kult | Belgrade |
@@ -20,6 +19,7 @@ TBA is a techno and house artist based in Georgia, with 287 gigs on soundcheck a
 | Sat, 19 Dec 2026 | TBA - Lisboa | Lisbon |
 | Sat, 16 Jan 2027 | Electric Ballroom | London |
 | Sat, 23 Jan 2027 | Electric Ballroom | London |
+| Sat, 30 Jan 2027 | Electric Ballroom | London |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ TBA is a techno and house artist based in Georgia, with 287 gigs on soundcheck a
 
 PARIS (AU), SHARE (NL), Gerald VDH
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tba/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tba/)*

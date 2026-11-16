@@ -1,6 +1,6 @@
 # Hans Bunte Areal
 
-Hans Bunte Areal is a music venue in Freiburg with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Infamous" on Sat, 5 Dec 2026.
+Hans Bunte Areal is a music venue in Freiburg with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Infamous" on Sat, 5 Dec 2026.
 
 Hans Bunte Areal is a music venue in Freiburg listed on soundcheck. 2 upcoming gigs, with line-ups including AMBAM, Anina Owly, Carla Schmitt and Charlie Sparks and 2 more. See dates, start times and who's playing. Hans Bunte Str. 16c, 79098, Freiburg, Germany.
 
@@ -15,4 +15,4 @@ Hans Bunte Areal is a music venue in Freiburg listed on soundcheck. 2 upcoming g
 
 Hans Bunte Str. 16c, 79098, Freiburg, Germany, Freiburg
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/freiburg/club/hans-bunte-areal/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/freiburg/club/hans-bunte-areal/)*

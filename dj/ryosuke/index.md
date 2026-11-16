@@ -1,6 +1,6 @@
 # Ryosuke
 
-Ryosuke is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at DJ Bar Bridge, Tokyo on Tue, 19 Jan 2027.
+Ryosuke is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at DJ Bar Bridge, Tokyo on Tue, 19 Jan 2027.
 
 Ryosuke is a house and techno artist based in Japan, with 42 gigs on soundcheck across Osaka, Seoul and Tokyo. Often billed alongside Bushmind, Celter and Karuta. Next up: DJ Bar Bridge, Tokyo on Tue 19 Jan.
 
@@ -25,4 +25,4 @@ Ryosuke is a house and techno artist based in Japan, with 42 gigs on soundcheck 
 
 Bushmind, Celter, Karuta
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryosuke/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryosuke/)*

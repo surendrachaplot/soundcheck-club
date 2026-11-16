@@ -1,6 +1,6 @@
 # Rossko
 
-Rossko is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Bikini Club, Barcelona on Fri, 27 Nov 2026.
+Rossko is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Bikini Club, Barcelona on Fri, 27 Nov 2026.
 
 Rossko is a house and tech house artist based in United Kingdom, with 84 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bucharest and 15 more. Often billed alongside Julian Anthony, Rich NXT and Reeshy. Next up: Bikini Club, Barcelona on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Rossko is a house and tech house artist based in United Kingdom, with 84 gigs on
 
 Julian Anthony, Rich NXT, Reeshy
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rossko/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rossko/)*

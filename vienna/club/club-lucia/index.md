@@ -1,6 +1,6 @@
 # Club Lucia
 
-Club Lucia is a music venue in Vienna with 10 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "PLATTENBAU + LEMONGRAB" on Tue, 17 Nov 2026.
+Club Lucia is a music venue in Vienna with 10 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "PLATTENBAU + LEMONGRAB" on Tue, 17 Nov 2026.
 
 Club Lucia is a music venue in Vienna listed on soundcheck. 10 upcoming gigs, with line-ups including A_Phan, Chiara Allnutt, COIDO and Jan Loup and 2 more. See dates, start times and who's playing. Stadtbahnbögen 24/25 (U6 Thaliastraße) 1080 Vienna.
 
@@ -23,4 +23,4 @@ Club Lucia is a music venue in Vienna listed on soundcheck. 10 upcoming gigs, wi
 
 Stadtbahnbögen 24/25 (U6 Thaliastraße) 1080 Vienna, Vienna
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/club-lucia/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/club-lucia/)*

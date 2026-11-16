@@ -1,6 +1,6 @@
 # Esbirra Ibiza
 
-Esbirra Ibiza is a music venue in Ibiza with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "LOVE & DANCE — CHAPTER 02" on Fri, 20 Nov 2026.
+Esbirra Ibiza is a music venue in Ibiza with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "LOVE & DANCE — CHAPTER 02" on Fri, 20 Nov 2026.
 
 Esbirra Ibiza is a music venue in Ibiza listed on soundcheck. 3 upcoming gigs, with line-ups including be.lanuit, Los Suruba, Pau Pérez and Timo Maas. See dates, start times and who's playing. Avinguda Punta Arabí, 228, 07849 es Canar, Illes Balears.
 
@@ -16,4 +16,4 @@ Esbirra Ibiza is a music venue in Ibiza listed on soundcheck. 3 upcoming gigs, w
 
 Avinguda Punta Arabí, 228, 07849 es Canar, Illes Balears, Ibiza
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/esbirra-ibiza/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/esbirra-ibiza/)*

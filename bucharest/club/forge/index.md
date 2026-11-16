@@ -1,6 +1,6 @@
 # Forge
 
-Forge is a music venue in Bucharest with 5 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Sqweez! x VESELKA Kyiv" on Fri, 20 Nov 2026.
+Forge is a music venue in Bucharest with 5 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Sqweez! x VESELKA Kyiv" on Fri, 20 Nov 2026.
 
 Forge is a music venue in Bucharest listed on soundcheck. 5 upcoming gigs, with line-ups including DA NA, Extrawelt, FAUST and GODINI and 2 more. See dates, start times and who's playing. Șoseaua Pantelimon 1A, Bucharest, Romania 022401.
 
@@ -18,4 +18,4 @@ Forge is a music venue in Bucharest listed on soundcheck. 5 upcoming gigs, with 
 
 Șoseaua Pantelimon 1A, Bucharest, Romania 022401, Bucharest
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/forge/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/forge/)*

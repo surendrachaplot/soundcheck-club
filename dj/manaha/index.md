@@ -1,6 +1,6 @@
 # Manaha
 
-Manaha is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Mitsuki, Tokyo on Mon, 16 Nov 2026.
+Manaha is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Mitsuki, Tokyo on Mon, 16 Nov 2026.
 
 Manaha is a house and tech house artist based in Japan, with 13 gigs on soundcheck across Tokyo. Often billed alongside Nari, Dukwa and Rickey Shannon. Next up: Mitsuki, Tokyo on Mon 16 Nov.
 
@@ -26,4 +26,4 @@ Manaha is a house and tech house artist based in Japan, with 13 gigs on soundche
 
 Nari (2), Dukwa, Rickey Shannon
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manaha/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manaha/)*

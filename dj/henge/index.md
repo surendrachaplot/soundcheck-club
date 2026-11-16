@@ -1,14 +1,15 @@
 # HENGE
 
-HENGE is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA - Foothills of Nandi, Karahalli, Bangalore on Sat, 5 Dec 2026.
+HENGE is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA - Foothills of Nandi, Karahalli, Bangalore on Sat, 5 Dec 2026.
 
-HENGE is a techno and electronica artist, with 21 gigs on soundcheck across Bangalore, Barcelona, Berlin and Bristol and 11 more. Often billed alongside Dogshow, Haaji Ka Halva and 1-800 GIRLS. Next up: TBA - Foothills of Nandi, Karahalli, Bangalore on Sat 5 Dec.
+HENGE is a techno and electronica artist, with 22 gigs on soundcheck across Bangalore, Barcelona, Berlin and Bristol and 11 more. Often billed alongside Dogshow, Haaji Ka Halva and 1-800 GIRLS. Next up: TBA - Foothills of Nandi, Karahalli, Bangalore on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | TBA - Foothills of Nandi, Karahalli | Bangalore |
+| Sat, 13 Feb 2027 | Akvárium Klub | Budapest |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ HENGE is a techno and electronica artist, with 21 gigs on soundcheck across Bang
 
 Dogshow, Haaji Ka Halva, 1-800 GIRLS
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/henge/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/henge/)*

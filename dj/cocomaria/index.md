@@ -1,6 +1,6 @@
 # Coco Maria
 
-Coco Maria is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Pérola Negra Club, Porto on Sat, 21 Nov 2026.
+Coco Maria is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Pérola Negra Club, Porto on Sat, 21 Nov 2026.
 
 Coco Maria is a house and disco artist based in Mexico, with 137 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 43 more. Often billed alongside Antal, Palo Santo Discos and Cosmo Sofi. Next up: Pérola Negra Club, Porto on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Coco Maria is a house and disco artist based in Mexico, with 137 gigs on soundch
 
 Antal, Palo Santo Discos, Cosmo Sofi
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cocomaria/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cocomaria/)*

@@ -1,6 +1,6 @@
 # Mikele
 
-Mikele is a Progressive House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Burger Disco Club, Athens on Wed, 18 Nov 2026.
+Mikele is a Progressive House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Burger Disco Club, Athens on Wed, 18 Nov 2026.
 
 Mikele is a progressive house and tech house artist based in Italy, with 45 gigs on soundcheck across Athens and Tbilisi. Often billed alongside George Apergis, Tolis Q and Marthe. Next up: Burger Disco Club, Athens on Wed 18 Nov.
 
@@ -25,4 +25,4 @@ Mikele is a progressive house and tech house artist based in Italy, with 45 gigs
 
 George Apergis, Tolis Q, Marthe
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikele/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikele/)*

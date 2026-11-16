@@ -1,6 +1,6 @@
 # BABY (PT)
 
-BABY (PT) is a Progressive House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Socore Factory, Osaka on Mon, 28 Dec 2026.
+BABY (PT) is a Progressive House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Socore Factory, Osaka on Mon, 28 Dec 2026.
 
 BABY (PT) is a progressive house and electro artist, with 5 gigs on soundcheck across Amsterdam and Osaka. Often billed alongside Mattia Rizzi, Gorilla Loco and Karina.. Next up: Socore Factory, Osaka on Mon 28 Dec.
 
@@ -21,4 +21,4 @@ BABY (PT) is a progressive house and electro artist, with 5 gigs on soundcheck a
 
 Mattia Rizzi, Gorilla Loco, Karina.
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babypt/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babypt/)*

@@ -1,6 +1,6 @@
 # Axel (IT)
 
-Axel (IT) is a Tech House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA, Tel-aviv on Fri, 20 Nov 2026.
+Axel (IT) is a Tech House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA, Tel-aviv on Fri, 20 Nov 2026.
 
 Axel (IT) is a tech house and electro artist based in Italy, with 5 gigs on soundcheck across Buenos Aires, Lyon, Naples and Tel Aviv. Often billed alongside Chris Bodnar, Dav and Fleur Shore. Next up: TBA, Tel Aviv on Fri 20 Nov.
 
@@ -21,4 +21,4 @@ Axel (IT) is a tech house and electro artist based in Italy, with 5 gigs on soun
 
 Chris Bodnar, Dav, Fleur Shore
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/axelit/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/axelit/)*

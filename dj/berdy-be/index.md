@@ -1,6 +1,6 @@
 # Berdy
 
-Berdy is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at B21, Brussels on Fri, 27 Nov 2026.
+Berdy is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at B21, Brussels on Fri, 27 Nov 2026.
 
 Berdy is a techno and trance artist based in Luxembourg, with 2 gigs on soundcheck across Brussels. Often billed alongside Icarus (BE). Next up: B21, Brussels on Fri 27 Nov.
 
@@ -18,4 +18,4 @@ Berdy is a techno and trance artist based in Luxembourg, with 2 gigs on soundche
 
 Icarus (BE)
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/berdy-be/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/berdy-be/)*

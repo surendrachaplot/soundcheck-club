@@ -1,14 +1,13 @@
 # Eris Drew
 
-Eris Drew is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA - E16, London on Sun, 15 Nov 2026.
+Eris Drew is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at smartbar, Chicago on Sat, 19 Dec 2026.
 
-Eris Drew is a house and techno artist based in United States of America, with 210 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 66 more. Often billed alongside Octo Octa, CCL and Mike Servito. Next up: TBA - E16, London on Sun 15 Nov.
+Eris Drew is a house and techno artist based in United States of America, with 210 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 66 more. Often billed alongside Octo Octa, CCL and Mike Servito. Next up: smartbar, Chicago on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 15 Nov 2026 | TBA - E16 | London |
 | Sat, 19 Dec 2026 | smartbar | Chicago |
 | Wed, 30 Dec 2026 | TBA | Minneapolis/St Paul |
 | Thu, 31 Dec 2026 | Tangent Gallery | Detroit |
@@ -18,6 +17,7 @@ Eris Drew is a house and techno artist based in United States of America, with 2
 
 ## Recently played
 
+- TBA - E16, London · Sun, 15 Nov 2026
 - Lx Factory, Lisbon · Sat, 14 Nov 2026
 - CLUB RAUM, Amsterdam · Sun, 8 Nov 2026
 - WAS., Utrecht · Sat, 7 Nov 2026
@@ -25,10 +25,9 @@ Eris Drew is a house and techno artist based in United States of America, with 2
 - TivoliVredenburg, Utrecht · Thu, 5 Nov 2026
 - Tangent Gallery, Detroit · Sat, 31 Oct 2026
 - Tangent Gallery, Detroit · Fri, 30 Oct 2026
-- Skatecafe, Amsterdam · Sun, 25 Oct 2026
 
 ## Shares bills with
 
 Octo Octa, CCL, Mike Servito
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erisdrew/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erisdrew/)*

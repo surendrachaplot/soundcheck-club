@@ -1,6 +1,6 @@
 # N7
 
-N7 is a music venue in London with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Sazzle + Friends: Cancer Fundraiser" on Fri, 27 Nov 2026.
+N7 is a music venue in London with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Sazzle + Friends: Cancer Fundraiser" on Fri, 27 Nov 2026.
 
 N7 is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including Dusty Dan, Loris, Marc & Spenca and Pochola and 2 more. See dates, start times and who's playing. Unit 2, 303 Holloway Road, London N7 8HS.
 
@@ -16,4 +16,4 @@ N7 is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-u
 
 Unit 2, 303 Holloway Road, London N7 8HS, London
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/n7/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/n7/)*

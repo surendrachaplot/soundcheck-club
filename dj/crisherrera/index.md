@@ -1,14 +1,13 @@
 # Cris Herrera
 
-Cris Herrera is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat, 14 Nov 2026.
+Cris Herrera is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Quartyard, San Diego on Sat, 19 Dec 2026.
 
-Cris Herrera is a house and deep house artist based in United States of America, with 41 gigs on soundcheck across Amsterdam, Detroit, Guadalajara and Los Angeles and 2 more. Often billed alongside Paul Najera, Boys Don't Disco and Oscar P. Next up: TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat 14 Nov.
+Cris Herrera is a house and deep house artist based in United States of America, with 41 gigs on soundcheck across Amsterdam, Detroit, Guadalajara and Los Angeles and 2 more. Often billed alongside Paul Najera, Boys Don't Disco and Oscar P. Next up: Quartyard, San Diego on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | TBA - 2341 E Olympic Blvd Los Angeles, CA  90021 | Los Angeles |
 | Sat, 19 Dec 2026 | Quartyard | San Diego |
 
 ## Recently played
@@ -26,4 +25,4 @@ Cris Herrera is a house and deep house artist based in United States of America,
 
 Paul Najera, Boys Don't Disco, Oscar P
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/crisherrera/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/crisherrera/)*

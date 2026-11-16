@@ -1,6 +1,6 @@
 # SMUT Athens
 
-SMUT Athens is a music venue in Athens with 9 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "SMUT x Freddy K x Josey Rebelle x LOBSTER" on Sat, 21 Nov 2026.
+SMUT Athens is a music venue in Athens with 9 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "SMUT x Freddy K x Josey Rebelle x LOBSTER" on Sat, 21 Nov 2026.
 
 SMUT Athens is a music venue in Athens listed on soundcheck. 9 upcoming gigs, with line-ups including Alarico, Antigone, Ayshel and Dasha Rush and 2 more. See dates, start times and who's playing. Vatsaxi 4, Athina 104 38, Greece.
 
@@ -22,4 +22,4 @@ SMUT Athens is a music venue in Athens listed on soundcheck. 9 upcoming gigs, wi
 
 Vatsaxi 4, Athina 104 38, Greece, Athens
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/athens/club/smut-athens/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/athens/club/smut-athens/)*

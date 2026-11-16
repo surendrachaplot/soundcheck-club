@@ -1,6 +1,6 @@
 # LARA-RA
 
-LARA-RA is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Freeze HiFi, Liverpool on Thu, 26 Nov 2026.
+LARA-RA is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Freeze HiFi, Liverpool on Thu, 26 Nov 2026.
 
 LARA-RA is a disco and funk / soul artist based in United Kingdom, with 7 gigs on soundcheck across Liverpool. Often billed alongside Beechy, Clara B and Izaac Moses. Next up: Freeze HiFi, Liverpool on Thu 26 Nov.
 
@@ -23,4 +23,4 @@ LARA-RA is a disco and funk / soul artist based in United Kingdom, with 7 gigs o
 
 Beechy, Clara B, Izaac Moses
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lara-ra/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lara-ra/)*

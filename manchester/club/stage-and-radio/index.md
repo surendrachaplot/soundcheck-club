@@ -1,6 +1,6 @@
 # Stage and Radio
 
-Stage and Radio is a music venue in Manchester with 31 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Reveler" on Wed, 18 Nov 2026.
+Stage and Radio is a music venue in Manchester with 31 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Reveler" on Wed, 18 Nov 2026.
 
 Stage and Radio is a music venue in Manchester listed on soundcheck. 31 upcoming gigs, with line-ups including 4D, Alex Milo, Ally King and Amelia Leigh and 2 more. See dates, start times and who's playing. 43 Port St, Manchester M1 2EQ.
 
@@ -23,4 +23,4 @@ Stage and Radio is a music venue in Manchester listed on soundcheck. 31 upcoming
 
 43 Port St, Manchester M1 2EQ, Manchester
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/stage-and-radio/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/stage-and-radio/)*

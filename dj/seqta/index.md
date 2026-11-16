@@ -1,14 +1,13 @@
 # Seqta
 
-Seqta is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Kibe, Batumi on Sat, 14 Nov 2026.
+Seqta is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Cafe Gallery, Tbilisi on Sat, 5 Dec 2026.
 
-Seqta is a techno and trance artist based in Germany, with 153 gigs on soundcheck across Athens, Batumi, Berlin and Copenhagen and 7 more. Often billed alongside DJ Sense, Generali Minerali and HORNS. Next up: Kibe, Batumi on Sat 14 Nov.
+Seqta is a techno and trance artist based in Germany, with 153 gigs on soundcheck across Athens, Batumi, Berlin and Copenhagen and 7 more. Often billed alongside DJ Sense, Generali Minerali and HORNS. Next up: Cafe Gallery, Tbilisi on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Kibe | Batumi |
 | Sat, 5 Dec 2026 | Cafe Gallery | Tbilisi |
 | Sat, 5 Dec 2026 | Cafe-Gallery | Tbilisi |
 | Fri, 29 Jan 2027 | The Groove Garden | Sri-lanka |
@@ -28,4 +27,4 @@ Seqta is a techno and trance artist based in Germany, with 153 gigs on soundchec
 
 DJ Sense, Generali Minerali, HORNS (1)
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seqta/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seqta/)*

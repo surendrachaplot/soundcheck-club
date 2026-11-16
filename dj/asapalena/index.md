@@ -1,6 +1,6 @@
 # asapalena
 
-asapalena is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Mood Ring, New York City on Fri, 20 Nov 2026.
+asapalena is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Mood Ring, New York City on Fri, 20 Nov 2026.
 
 asapalena is an electronic artist based in United States of America, with 2 gigs on soundcheck across New York City. Often billed alongside Castillonaire, Connector and HumanbIAN. Next up: Mood Ring, New York City on Fri 20 Nov.
 
@@ -18,4 +18,4 @@ asapalena is an electronic artist based in United States of America, with 2 gigs
 
 Castillonaire, Connector, HumanbIAN
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/asapalena/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/asapalena/)*

@@ -1,6 +1,6 @@
 # Tiago de Renor
 
-Tiago de Renor is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA - SECRET DOWNTOWN LOCATION, Vancouver on Sat, 21 Nov 2026.
+Tiago de Renor is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA - SECRET DOWNTOWN LOCATION, Vancouver on Sat, 21 Nov 2026.
 
 Tiago de Renor is a techno and house artist based in Canada, with 30 gigs on soundcheck across Vancouver. Often billed alongside Siavash, Perspectiv and Rodriguez Jr.. Next up: TBA - SECRET DOWNTOWN LOCATION, Vancouver on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Tiago de Renor is a techno and house artist based in Canada, with 30 gigs on sou
 
 Siavash, Perspectiv, Rodriguez Jr.
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tiagoderenor/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tiagoderenor/)*

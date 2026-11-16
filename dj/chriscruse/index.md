@@ -1,6 +1,6 @@
 # Chris Cruse
 
-Chris Cruse is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Belasco Theater, Los Angeles on Thu, 31 Dec 2026.
+Chris Cruse is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Belasco Theater, Los Angeles on Thu, 31 Dec 2026.
 
 Chris Cruse is a house and techno artist based in United States of America, with 123 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 38 more. Often billed alongside Luigi Di Venere, Massimiliano Pagliara and Cormac. Next up: Belasco Theater, Los Angeles on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Chris Cruse is a house and techno artist based in United States of America, with
 
 Luigi Di Venere, Massimiliano Pagliara, Cormac
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chriscruse/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chriscruse/)*

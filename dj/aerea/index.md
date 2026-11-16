@@ -1,6 +1,6 @@
 # AEREA
 
-AEREA is a Techno and Trance artist with 11 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Radius, Chicago on Fri, 20 Nov 2026.
+AEREA is a Techno and Trance artist with 11 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Radius, Chicago on Fri, 20 Nov 2026.
 
 AEREA is a techno and trance artist based in Spain, with 86 gigs on soundcheck across Amsterdam, Antwerp, Athens and Azerbaijan and 52 more. Often billed alongside future.666, DJ Hyperdrive and ÜBERKIKZ. Next up: Radius, Chicago on Fri 20 Nov.
 
@@ -35,4 +35,4 @@ AEREA is a techno and trance artist based in Spain, with 86 gigs on soundcheck a
 
 future.666, DJ Hyperdrive, ÜBERKIKZ
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aerea/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aerea/)*

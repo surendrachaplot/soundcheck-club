@@ -1,6 +1,6 @@
 # Bambi's
 
-Bambi's is a music venue in Toronto with 8 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Invisible City Presents: Ryan Spencer & Todd Modes" on Fri, 20 Nov 2026.
+Bambi's is a music venue in Toronto with 8 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Invisible City Presents: Ryan Spencer & Todd Modes" on Fri, 20 Nov 2026.
 
 Bambi's is a music venue in Toronto listed on soundcheck. 8 upcoming gigs, with line-ups including Basic Soul Unit, Carlos Estebban, Cosmic JD and Critter and 2 more. See dates, start times and who's playing. 1265 Dundas W, Toronto, ON M6J 1X6, Canada.
 
@@ -21,4 +21,4 @@ Bambi's is a music venue in Toronto listed on soundcheck. 8 upcoming gigs, with 
 
 1265 Dundas W, Toronto, ON M6J 1X6, Canada, Toronto
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/bambi-s/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/bambi-s/)*

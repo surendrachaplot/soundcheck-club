@@ -1,14 +1,13 @@
 # Enrico Sangiuliano
 
-Enrico Sangiuliano is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Club Hípico de Santiago, Santiago on Sat, 14 Nov 2026.
+Enrico Sangiuliano is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Refuge, New York City on Thu, 19 Nov 2026.
 
-Enrico Sangiuliano is a techno and house artist based in Italy, with 127 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 45 more. Often billed alongside Charlotte de Witte, Anfisa Letyago and Pan-Pot. Next up: Club Hípico de Santiago, Santiago on Sat 14 Nov.
+Enrico Sangiuliano is a techno and house artist based in Italy, with 127 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 45 more. Often billed alongside Charlotte de Witte, Anfisa Letyago and Pan-Pot. Next up: Refuge, New York City on Thu 19 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Club Hípico de Santiago | Santiago |
 | Thu, 19 Nov 2026 | Refuge | New York City |
 | Fri, 20 Nov 2026 | The Queen Mary | Los Angeles |
 | Sat, 21 Nov 2026 | Prysm Nightclub | Chicago |
@@ -30,4 +29,4 @@ Enrico Sangiuliano is a techno and house artist based in Italy, with 127 gigs on
 
 Charlotte de Witte, Anfisa Letyago, Pan-Pot
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enricosangiuliano/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enricosangiuliano/)*

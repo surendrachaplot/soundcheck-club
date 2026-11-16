@@ -1,6 +1,6 @@
 # zwilling.
 
-zwilling. is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Uebel & Gefährlich, Hamburg on Fri, 20 Nov 2026.
+zwilling. is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Uebel & Gefährlich, Hamburg on Fri, 20 Nov 2026.
 
 zwilling. is a techno and trance artist based in Germany, with 122 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 42 more. Often billed alongside Serafina, WILDERÍCH and Adrian Mills. Next up: Uebel & Gefährlich, Hamburg on Fri 20 Nov.
 
@@ -29,4 +29,4 @@ zwilling. is a techno and trance artist based in Germany, with 122 gigs on sound
 
 Serafina, WILDERÍCH, Adrian Mills
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zwilling./)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zwilling./)*

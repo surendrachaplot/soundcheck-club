@@ -1,6 +1,6 @@
 # Gabrielle Kwarteng
 
-Gabrielle Kwarteng is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
+Gabrielle Kwarteng is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
 
 Gabrielle Kwarteng is a house and techno artist based in United States of America, with 280 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Auckland and 77 more. Often billed alongside BASHKKA, Peach and Sedef Adasï. Next up: The Wildlands, Melbourne on Fri 20 Nov.
 
@@ -36,4 +36,4 @@ Gabrielle Kwarteng is a house and techno artist based in United States of Americ
 
 BASHKKA, Peach, Sedef Adasï
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriellekwarteng/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriellekwarteng/)*

@@ -1,6 +1,6 @@
 # Flatspot
 
-Flatspot is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Kasteel De Berckt, Netherlands on Fri, 20 Nov 2026.
+Flatspot is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Kasteel De Berckt, Netherlands on Fri, 20 Nov 2026.
 
 Flatspot is an electronic artist based in Netherlands, with 2 gigs on soundcheck across Antwerp and Netherlands. Often billed alongside 36framez, AnG (NL) and Aron Friedman. Next up: Kasteel De Berckt, Netherlands on Fri 20 Nov.
 
@@ -18,4 +18,4 @@ Flatspot is an electronic artist based in Netherlands, with 2 gigs on soundcheck
 
 36framez, AnG (NL), Aron Friedman
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flatspot/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flatspot/)*

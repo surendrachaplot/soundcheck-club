@@ -1,6 +1,6 @@
 # MAO
 
-MAO is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Kobu Camp Village, Kanto on Sat, 21 Nov 2026.
+MAO is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Kobu Camp Village, Kanto on Sat, 21 Nov 2026.
 
 MAO is a house and hip-hop artist based in Germany, with 44 gigs on soundcheck across Amsterdam, Bogotá, Kanto and Madrid and 3 more. Often billed alongside Roy (PT), Shin and SARA. Next up: Kobu Camp Village, Kanto on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ MAO is a house and hip-hop artist based in Germany, with 44 gigs on soundcheck a
 
 Roy (PT), Shin, SARA
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mao/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mao/)*

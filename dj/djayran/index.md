@@ -1,6 +1,6 @@
 # dj ayran
 
-dj ayran is a Breakbeat and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Tagada, Vienna on Sat, 28 Nov 2026.
+dj ayran is a Breakbeat and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Tagada, Vienna on Sat, 28 Nov 2026.
 
 dj ayran is a breakbeat and club artist based in Austria, with 3 gigs on soundcheck across Vienna. Often billed alongside Meander and Philo_. Next up: Tagada, Vienna on Sat 28 Nov.
 
@@ -19,4 +19,4 @@ dj ayran is a breakbeat and club artist based in Austria, with 3 gigs on soundch
 
 Meander (1), Philo_
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djayran/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djayran/)*

@@ -1,6 +1,6 @@
 # Bollwerk Cologne
 
-Bollwerk Cologne is a music venue in Cologne with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "UN:LISTED I A HIGHCLASS RAVE" on Fri, 27 Nov 2026.
+Bollwerk Cologne is a music venue in Cologne with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "UN:LISTED I A HIGHCLASS RAVE" on Fri, 27 Nov 2026.
 
 Bollwerk Cologne is a music venue in Cologne listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. Hohenzollernring 89-93, 50672 Köln, Germany.
 
@@ -15,4 +15,4 @@ Bollwerk Cologne is a music venue in Cologne listed on soundcheck. 2 upcoming gi
 
 Hohenzollernring 89-93, 50672 Köln, Germany, Cologne
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/bollwerk-cologne/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/bollwerk-cologne/)*

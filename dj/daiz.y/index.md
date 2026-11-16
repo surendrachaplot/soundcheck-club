@@ -1,6 +1,6 @@
 # daiz.y
 
-daiz.y is a Club and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at People's Leisure Club, Edinburgh on Sun, 29 Nov 2026.
+daiz.y is a Club and Electronica artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at People's Leisure Club, Edinburgh on Sun, 29 Nov 2026.
 
 daiz.y is a club and electronica artist based in United Kingdom, with 2 gigs on soundcheck across Edinburgh. Often billed alongside DJ Cheers, George T and Sweet Philly. Next up: People's Leisure Club, Edinburgh on Sun 29 Nov.
 
@@ -15,4 +15,4 @@ daiz.y is a club and electronica artist based in United Kingdom, with 2 gigs on 
 
 DJ Cheers, George T, Sweet Philly
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daiz.y/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daiz.y/)*

@@ -1,6 +1,6 @@
 # Hidden Heights Creative Studio
 
-Hidden Heights Creative Studio is a music venue in Newcastle with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. The next is "Secret Signal" on Sat, 28 Nov 2026.
+Hidden Heights Creative Studio is a music venue in Newcastle with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. The next is "Secret Signal" on Sat, 28 Nov 2026.
 
 Hidden Heights Creative Studio is a music venue in Newcastle listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Arch 4 Hymers Court, Brandling Street, Gatehsead, NE8 2BA.
 
@@ -14,4 +14,4 @@ Hidden Heights Creative Studio is a music venue in Newcastle listed on soundchec
 
 Arch 4 Hymers Court, Brandling Street, Gatehsead, NE8 2BA, Newcastle
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/hidden-heights-creative-studio/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/hidden-heights-creative-studio/)*

@@ -1,6 +1,6 @@
 # F0ulplay
 
-F0ulplay is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA - INNER WEST, Sydney on Sat, 21 Nov 2026.
+F0ulplay is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA - INNER WEST, Sydney on Sat, 21 Nov 2026.
 
 F0ulplay is a techno and trance artist based in Australia, with 10 gigs on soundcheck across Sydney. Often billed alongside Ari Kiko, Arsonist and Billy Dublewicz. Next up: TBA - INNER WEST, Sydney on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ F0ulplay is a techno and trance artist based in Australia, with 10 gigs on sound
 
 Ari Kiko, Arsonist, Billy Dublewicz
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/f0ulplay/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/f0ulplay/)*

@@ -1,17 +1,18 @@
 # kidProquo
 
-kidProquo is a Jungle and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at D2, Aberdeen on Sat, 14 Nov 2026.
+kidProquo is a Disco and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Assai Records Aberdeen, Aberdeen on Sat, 12 Dec 2026.
 
-kidProquo is a jungle and bass artist based in United Kingdom, with 7 gigs on soundcheck across Aberdeen. Often billed alongside Cornetta, FLIPSIDE. and Morphamish. Next up: D2, Aberdeen on Sat 14 Nov.
+kidProquo is a disco and jungle artist based in United Kingdom, with 8 gigs on soundcheck across Aberdeen. Often billed alongside Cornetta, FLIPSIDE. and Morphamish. Next up: Assai Records Aberdeen, Aberdeen on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | D2 | Aberdeen |
+| Sat, 12 Dec 2026 | Assai Records Aberdeen | Aberdeen |
 
 ## Recently played
 
+- D2, Aberdeen · Sat, 14 Nov 2026
 - The Old Workshop, Aberdeen · Sat, 3 Oct 2026
 - The Tunnels, Aberdeen · Fri, 27 Feb 2026
 - D2, Aberdeen · Sat, 8 Nov 2025
@@ -23,4 +24,4 @@ kidProquo is a jungle and bass artist based in United Kingdom, with 7 gigs on so
 
 Cornetta, FLIPSIDE., Morphamish
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kidproquo/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kidproquo/)*

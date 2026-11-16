@@ -1,6 +1,6 @@
 # Tim Kern
 
-Tim Kern is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at SASS Music Club, Vienna on Sat, 21 Nov 2026.
+Tim Kern is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at SASS Music Club, Vienna on Sat, 21 Nov 2026.
 
 Tim Kern is a house and techno artist based in Slovenia, with 14 gigs on soundcheck across Berlin, Florence, Ljubljana and Paris and 2 more. Often billed alongside Tzena, Mayell and IGZ (HR). Next up: SASS Music Club, Vienna on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Tim Kern is a house and techno artist based in Slovenia, with 14 gigs on soundch
 
 Tzena, Mayell, IGZ (HR)
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/timkern/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/timkern/)*

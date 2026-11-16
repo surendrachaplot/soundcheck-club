@@ -1,6 +1,6 @@
 # Unité.22
 
-Unité.22 is a music venue in Marseille with 4 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Ktk, Two Dots & Vitiligo" on Fri, 20 Nov 2026.
+Unité.22 is a music venue in Marseille with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Ktk, Two Dots & Vitiligo" on Fri, 20 Nov 2026.
 
 Unité.22 is a music venue in Marseille listed on soundcheck. 4 upcoming gigs, with line-ups including DAX J, Gipsyan, Goldie B and HI ROSIE and 2 more. See dates, start times and who's playing. 22 rue jobin, 13003 Marseille.
 
@@ -17,4 +17,4 @@ Unité.22 is a music venue in Marseille listed on soundcheck. 4 upcoming gigs, w
 
 22 rue jobin, 13003 Marseille, Marseille
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/unit-22/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/unit-22/)*

@@ -1,6 +1,6 @@
 # Artic
 
-Artic is a Electronica and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Kostmosas, Vilnius on Mon, 16 Nov 2026.
+Artic is a Electronica and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Kostmosas, Vilnius on Mon, 16 Nov 2026.
 
 Artic is an electronica and minimal techno artist, with 7 gigs on soundcheck across Vilnius. Often billed alongside Gemayel, Youwin Trax and Hádes. Next up: Kostmosas, Vilnius on Mon 16 Nov.
 
@@ -23,4 +23,4 @@ Artic is an electronica and minimal techno artist, with 7 gigs on soundcheck acr
 
 Gemayel, Youwin Trax, Hádes
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/artic/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/artic/)*

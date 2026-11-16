@@ -1,6 +1,6 @@
 # Fady One
 
-Fady One is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Jardin Hospice, Brussels on Thu, 19 Nov 2026.
+Fady One is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Jardin Hospice, Brussels on Thu, 19 Nov 2026.
 
 Fady One is an electro and techno artist based in Belgium, with 17 gigs on soundcheck across Brussels and London. Often billed alongside Carmelina Matta, Jeny Cox and Alfonso. Next up: Jardin Hospice, Brussels on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Fady One is an electro and techno artist based in Belgium, with 17 gigs on sound
 
 Carmelina Matta, Jeny Cox, Alfonso
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fadyone/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fadyone/)*

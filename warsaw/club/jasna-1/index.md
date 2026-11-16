@@ -1,6 +1,6 @@
 # Jasna 1
 
-Jasna 1 is a music venue in Warsaw with 8 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "J1 - Freddy K" on Fri, 20 Nov 2026.
+Jasna 1 is a music venue in Warsaw with 8 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "J1 - Freddy K" on Fri, 20 Nov 2026.
 
 Jasna 1 is a music venue in Warsaw listed on soundcheck. 8 upcoming gigs, with line-ups including Adiel, daisy cutter, dogheadsurigeri and Evian Christ and 2 more. See dates, start times and who's playing. Jasna 1, 00-013 Warszawa.
 
@@ -21,4 +21,4 @@ Jasna 1 is a music venue in Warsaw listed on soundcheck. 8 upcoming gigs, with l
 
 Jasna 1, 00-013 Warszawa, Warsaw
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/jasna-1/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/jasna-1/)*

@@ -1,6 +1,6 @@
 # lose
 
-lose is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at C2 OST, Karlsruhe on Sat, 21 Nov 2026.
+lose is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at C2 OST, Karlsruhe on Sat, 21 Nov 2026.
 
 lose is a techno and house artist based in Germany, with 5 gigs on soundcheck across Karlsruhe. Often billed alongside 20 100, Eisikko and tanteEMMA. Next up: C2 OST, Karlsruhe on Sat 21 Nov.
 
@@ -21,4 +21,4 @@ lose is a techno and house artist based in Germany, with 5 gigs on soundcheck ac
 
 20 100, Eisikko, tanteEMMA
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lose/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lose/)*

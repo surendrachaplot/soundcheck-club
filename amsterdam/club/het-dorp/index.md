@@ -1,6 +1,6 @@
 # Het Dorp
 
-Het Dorp is a music venue in Amsterdam with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "The Underground is Coming X Het Dorp" on Fri, 20 Nov 2026.
+Het Dorp is a music venue in Amsterdam with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "The Underground is Coming X Het Dorp" on Fri, 20 Nov 2026.
 
 Het Dorp is a music venue in Amsterdam listed on soundcheck. 3 upcoming gigs, with line-ups including Aram Mukanay, Deodaat, El Nicoya and Nablijven Soundsystem and 1 more. See dates, start times and who's playing. Noordwal 1, 1021 PX Amsterdam, Netherlands.
 
@@ -16,4 +16,4 @@ Het Dorp is a music venue in Amsterdam listed on soundcheck. 3 upcoming gigs, wi
 
 Noordwal 1, 1021 PX Amsterdam, Netherlands, Amsterdam
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/het-dorp/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/het-dorp/)*

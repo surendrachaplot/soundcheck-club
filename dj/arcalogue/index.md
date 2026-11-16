@@ -1,6 +1,6 @@
 # arcalogue
 
-arcalogue is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Barraca, Valencia on Sat, 21 Nov 2026.
+arcalogue is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Barraca, Valencia on Sat, 21 Nov 2026.
 
 arcalogue is a techno and electro artist based in United States of America, with 2 gigs on soundcheck across New York City and Valencia. Often billed alongside Ayra Nishati, Barbara and Domen. Next up: Barraca, Valencia on Sat 21 Nov.
 
@@ -18,4 +18,4 @@ arcalogue is a techno and electro artist based in United States of America, with
 
 Ayra Nishati, Barbara, Domen
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arcalogue/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arcalogue/)*

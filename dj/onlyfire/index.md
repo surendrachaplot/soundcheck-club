@@ -1,6 +1,6 @@
 # Only Fire
 
-Only Fire is a Techno and Club artist with 5 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Kingdom Nightclub, Austin on Fri, 20 Nov 2026.
+Only Fire is a Techno and Club artist with 5 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Kingdom Nightclub, Austin on Fri, 20 Nov 2026.
 
 Only Fire is a techno and club artist based in Croatia, with 97 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 36 more. Often billed alongside River Moon, Chippy Nonstop and Memphy. Next up: Kingdom Nightclub, Austin on Fri 20 Nov.
 
@@ -29,4 +29,4 @@ Only Fire is a techno and club artist based in Croatia, with 97 gigs on soundche
 
 River Moon, Chippy Nonstop, Memphy
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/onlyfire/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/onlyfire/)*

@@ -1,6 +1,6 @@
 # DREAMINSLOW
 
-DREAMINSLOW is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA - 1 INGRAHAM ST, New York City on Sat, 21 Nov 2026.
+DREAMINSLOW is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA - 1 INGRAHAM ST, New York City on Sat, 21 Nov 2026.
 
 DREAMINSLOW is a techno and club artist based in United States of America, with 77 gigs on soundcheck across Atlanta, Berlin, Boston and London and 3 more. Often billed alongside Muerte Lenta, Friedberg and SATURNSARii. Next up: TBA - 1 INGRAHAM ST, New York City on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ DREAMINSLOW is a techno and club artist based in United States of America, with 
 
 Muerte Lenta, Friedberg, SATURNSARii
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dreaminslow/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dreaminslow/)*

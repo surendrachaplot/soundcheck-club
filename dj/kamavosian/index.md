@@ -1,6 +1,6 @@
 # KamavoSian
 
-KamavoSian is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA - Korpusi, Tbilisi on Sat, 21 Nov 2026.
+KamavoSian is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA - Korpusi, Tbilisi on Sat, 21 Nov 2026.
 
 KamavoSian is an industrial and techno artist based in Armenia, with 2 gigs on soundcheck across Tbilisi. Often billed alongside OIZA, ALCHEMY and Fank Ford. Next up: TBA - Korpusi, Tbilisi on Sat 21 Nov.
 
@@ -18,4 +18,4 @@ KamavoSian is an industrial and techno artist based in Armenia, with 2 gigs on s
 
 OIZA, ALCHEMY (2), Fank Ford
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kamavosian/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kamavosian/)*

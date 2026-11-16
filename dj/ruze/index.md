@@ -1,6 +1,6 @@
 # RUZE
 
-RUZE is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Tigres de la Noche, Washington DC on Fri, 20 Nov 2026.
+RUZE is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Tigres de la Noche, Washington DC on Fri, 20 Nov 2026.
 
 RUZE is a house and tech house artist based in United Kingdom, with 129 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 29 more. Often billed alongside Prunk, Kellie Allen and Robbie Doherty. Next up: Tigres de la Noche, Washington DC on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ RUZE is a house and tech house artist based in United Kingdom, with 129 gigs on 
 
 Prunk, Kellie Allen, Robbie Doherty
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ruze/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ruze/)*

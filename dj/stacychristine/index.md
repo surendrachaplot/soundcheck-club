@@ -1,14 +1,13 @@
 # Stacy Christine
 
-Stacy Christine is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat, 14 Nov 2026.
+Stacy Christine is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA - Downtown Los Angeles, Los Angeles on Fri, 4 Dec 2026.
 
-Stacy Christine is a house and disco artist based in United States of America, with 129 gigs on soundcheck across Atlanta, Barcelona, Detroit and London and 6 more. Often billed alongside Bears In Space, Perfect Lovers and Heidi Lawden. Next up: TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat 14 Nov.
+Stacy Christine is a house and disco artist based in United States of America, with 129 gigs on soundcheck across Atlanta, Barcelona, Detroit and London and 6 more. Often billed alongside Bears In Space, Perfect Lovers and Heidi Lawden. Next up: TBA - Downtown Los Angeles, Los Angeles on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | TBA - 2341 E Olympic Blvd Los Angeles, CA  90021 | Los Angeles |
 | Fri, 4 Dec 2026 | TBA - Downtown Los Angeles | Los Angeles |
 | Thu, 31 Dec 2026 | Belasco Theater | Los Angeles |
 
@@ -27,4 +26,4 @@ Stacy Christine is a house and disco artist based in United States of America, w
 
 Bears In Space, Perfect Lovers, Heidi Lawden
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stacychristine/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stacychristine/)*

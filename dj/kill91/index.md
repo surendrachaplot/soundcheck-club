@@ -1,20 +1,21 @@
 # KILL 9 1
 
-KILL 9 1 is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Geary Avenue Warehouse Project, Toronto on Fri, 20 Nov 2026.
+KILL 9 1 is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Trinity Drug Store, Toronto on Sun, 15 Nov 2026.
 
-KILL 9 1 is a techno and trance artist based in Canada, with 52 gigs on soundcheck across Toronto. Often billed alongside R4TS, Maul and Mand0. Next up: Geary Avenue Warehouse Project, Toronto on Fri 20 Nov.
+KILL 9 1 is a techno and trance artist based in Canada, with 52 gigs on soundcheck across Toronto. Often billed alongside R4TS, Maul and Mand0. Next up: Trinity Drug Store, Toronto on Sun 15 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 15 Nov 2026 | Trinity Drug Store | Toronto |
 | Fri, 20 Nov 2026 | Geary Avenue Warehouse Project | Toronto |
-| Sat, 21 Nov 2026 | Trinity Drug Store | Toronto |
 | Fri, 27 Nov 2026 | The Comfort Zone | Toronto |
 | Fri, 11 Dec 2026 | The Comfort Zone | Toronto |
 
 ## Recently played
 
+- Trinity Drug Store, Toronto · Sun, 15 Nov 2026
 - The Comfort Zone, Toronto · Fri, 13 Nov 2026
 - The Comfort Zone, Toronto · Fri, 6 Nov 2026
 - Story Toronto, Toronto · Sat, 31 Oct 2026
@@ -22,10 +23,9 @@ KILL 9 1 is a techno and trance artist based in Canada, with 52 gigs on soundche
 - The Comfort Zone, Toronto · Fri, 30 Oct 2026
 - 821 Runnymede Rd, Toronto · Fri, 16 Oct 2026
 - TBA, Toronto · Sat, 10 Oct 2026
-- 821 Runnymede Rd, Toronto · Sat, 3 Oct 2026
 
 ## Shares bills with
 
 R4TS, Maul (2), Mand0
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kill91/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kill91/)*

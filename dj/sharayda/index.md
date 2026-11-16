@@ -1,6 +1,6 @@
 # Sharayda
 
-Sharayda is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Dahlia Stereo, Manchester on Sat, 21 Nov 2026.
+Sharayda is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Dahlia Stereo, Manchester on Sat, 21 Nov 2026.
 
 Sharayda is a house and garage artist based in United Kingdom, with 23 gigs on soundcheck across Manchester. Often billed alongside krioso, BANSHII and Javan. Next up: Dahlia Stereo, Manchester on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Sharayda is a house and garage artist based in United Kingdom, with 23 gigs on s
 
 krioso, BANSHII, Javan
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sharayda/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sharayda/)*

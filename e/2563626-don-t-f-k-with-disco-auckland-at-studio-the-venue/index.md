@@ -1,6 +1,6 @@
 # Don't F**k with Disco - Auckland at Studio the Venue
 
-Don't F**k with Disco - Auckland at Studio the Venue on Sat 13 Feb, Auckland. 1 artist: Don't F**k with Disco. See the line-up on soundcheck.
+Don't F**k with Disco - Auckland at Studio the Venue on Sat 13 Feb, Auckland. 1 artist: Don't F**k with Disco. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

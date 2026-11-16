@@ -1,6 +1,6 @@
 # CASAMUSICA
 
-CASAMUSICA is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Casual, Hong Kong on Fri, 27 Nov 2026.
+CASAMUSICA is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Casual, Hong Kong on Fri, 27 Nov 2026.
 
 CASAMUSICA is a house and disco artist based in Japan, with 23 gigs on soundcheck across Florence, Hong Kong, Seoul and Shanghai. Often billed alongside Zora Chan, DJ Kirby and Andy-S. Next up: Casual, Hong Kong on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ CASAMUSICA is a house and disco artist based in Japan, with 23 gigs on soundchec
 
 Zora Chan, DJ Kirby, Andy-S
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/casamusica/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/casamusica/)*

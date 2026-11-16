@@ -1,6 +1,6 @@
 # DJ lil'dave
 
-DJ lil'dave is a Funk / Soul and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Trestle Inn, Philadelphia on Sat, 21 Nov 2026.
+DJ lil'dave is a Funk / Soul and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Trestle Inn, Philadelphia on Sat, 21 Nov 2026.
 
 DJ lil'dave is a funk / soul and house artist based in United States of America, with 19 gigs on soundcheck across Miami and Philadelphia. Often billed alongside DJ Dommis, Rebel Foster and Chris Burrell. Next up: Trestle Inn, Philadelphia on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ DJ lil'dave is a funk / soul and house artist based in United States of America,
 
 DJ Dommis, Rebel Foster, Chris Burrell
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djlildave/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djlildave/)*

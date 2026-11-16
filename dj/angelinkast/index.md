@@ -1,14 +1,15 @@
 # Angelinkast
 
-Angelinkast is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Noto Philadelphia, Philadelphia on Thu, 3 Dec 2026.
+Angelinkast is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Noto Philadelphia, Philadelphia on Thu, 3 Dec 2026.
 
-Angelinkast is a house and progressive house artist based in United States of America, with 15 gigs on soundcheck across Philadelphia. Often billed alongside Shadow Walker, Self Talk and Gamix. Next up: Noto Philadelphia, Philadelphia on Thu 3 Dec.
+Angelinkast is a house and progressive house artist based in United States of America, with 16 gigs on soundcheck across Philadelphia. Often billed alongside Shadow Walker, Self Talk and Gamix. Next up: Noto Philadelphia, Philadelphia on Thu 3 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 3 Dec 2026 | Noto Philadelphia | Philadelphia |
+| Fri, 1 Jan 2027 | The Barbary | Philadelphia |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Angelinkast is a house and progressive house artist based in United States of Am
 
 Shadow Walker, Self Talk, Gamix
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/angelinkast/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/angelinkast/)*

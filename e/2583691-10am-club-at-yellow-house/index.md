@@ -1,6 +1,6 @@
 # 10AM Club at Yellow House
 
-10AM Club at Yellow House on Sat 21 Nov, Amsterdam. 1 artist: Coppola (DE). House. See the line-up on soundcheck.
+10AM Club at Yellow House on Sat 21 Nov, Amsterdam. 2 artists: Coppola (DE) and Styffn. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@
 ## Line-up
 
 - Coppola (DE)
+- Styffn
 
 *Source: [soundcheck](https://soundcheck.club/e/2583691-10am-club-at-yellow-house/)*

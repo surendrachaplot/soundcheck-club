@@ -1,6 +1,6 @@
 # Joris Voorn
 
-Joris Voorn is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Electric Circus, Adelaide on Sat, 21 Nov 2026.
+Joris Voorn is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Electric Circus, Adelaide on Sat, 21 Nov 2026.
 
 Joris Voorn is a techno and house artist based in Netherlands, with 210 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 63 more. Often billed alongside Artbat, Kevin de Vries and Adam Beyer. Next up: Electric Circus, Adelaide on Sat 21 Nov.
 
@@ -29,4 +29,4 @@ Joris Voorn is a techno and house artist based in Netherlands, with 210 gigs on 
 
 Artbat, Kevin de Vries, Adam Beyer
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jorisvoorn/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jorisvoorn/)*

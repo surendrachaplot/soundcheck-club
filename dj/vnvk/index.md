@@ -1,6 +1,6 @@
 # VNVK
 
-VNVK is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at ÆDEN, Berlin on Wed, 18 Nov 2026.
+VNVK is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at ÆDEN, Berlin on Wed, 18 Nov 2026.
 
 VNVK is a techno and house artist based in Bulgaria, with 40 gigs on soundcheck across Berlin and Rotterdam. Often billed alongside The Camel, EMIRA and Lukr Range. Next up: ÆDEN, Berlin on Wed 18 Nov.
 
@@ -25,4 +25,4 @@ VNVK is a techno and house artist based in Bulgaria, with 40 gigs on soundcheck 
 
 The Camel, EMIRA, Lukr Range
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vnvk/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vnvk/)*

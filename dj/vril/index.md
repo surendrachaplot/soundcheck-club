@@ -1,6 +1,6 @@
 # .VRIL
 
-.VRIL is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Magasins Généraux, Paris on Fri, 20 Nov 2026.
+.VRIL is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Magasins Généraux, Paris on Fri, 20 Nov 2026.
 
 .VRIL is a techno and house artist based in Germany, with 156 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 48 more. Often billed alongside DJ Dustin, Konstantin and Edward. Next up: Magasins Généraux, Paris on Fri 20 Nov.
 
@@ -30,4 +30,4 @@
 
 DJ Dustin, Konstantin, Edward
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vril/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vril/)*

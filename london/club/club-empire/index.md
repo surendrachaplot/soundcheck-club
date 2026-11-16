@@ -1,6 +1,6 @@
 # Club Empire
 
-Club Empire is a music venue in London with 8 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "4 Hours With: Miche" on Fri, 20 Nov 2026.
+Club Empire is a music venue in London with 8 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "4 Hours With: Miche" on Fri, 20 Nov 2026.
 
 Club Empire is a music venue in London listed on soundcheck. 8 upcoming gigs, with line-ups including Daisybelle, Emerald, Funster and Lily London and 2 more. See dates, start times and who's playing. Club Empire, 289 Mare Street, Hackney, London, E8 1EJ, United Kingdom.
 
@@ -21,4 +21,4 @@ Club Empire is a music venue in London listed on soundcheck. 8 upcoming gigs, wi
 
 Club Empire, 289 Mare Street, Hackney, London, E8 1EJ, United Kingdom, London
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-empire/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-empire/)*

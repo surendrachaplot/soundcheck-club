@@ -1,6 +1,6 @@
 # Auramatic
 
-Auramatic is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at ark (Melb), Melbourne on Sat, 28 Nov 2026.
+Auramatic is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at ark (Melb), Melbourne on Sat, 28 Nov 2026.
 
 Auramatic is a garage and house artist based in United Kingdom, with 62 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 21 more. Often billed alongside n4tee, DAISY and Mattik (UK). Next up: ark (Melb), Melbourne on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Auramatic is a garage and house artist based in United Kingdom, with 62 gigs on 
 
 n4tee, DAISY, Mattik (UK)
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/auramatic/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/auramatic/)*

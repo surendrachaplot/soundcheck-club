@@ -1,6 +1,6 @@
 # Système
 
-Système is a music venue in Montreal with 23 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "BRUK-WILD with Scott C + Moonstarr (Broken Beat & UK Vibes)" on Sun, 15 Nov 2026.
+Système is a music venue in Montreal with 23 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "BRUK-WILD with Scott C + Moonstarr (Broken Beat & UK Vibes)" on Sun, 15 Nov 2026.
 
 Système is a music venue in Montreal listed on soundcheck. 23 upcoming gigs, with line-ups including Akpossoul, Asha, Badgalquirit and Bwi-Bwi and 2 more. See dates, start times and who's playing. 7119 Saint Hubert, Montreal QC H2S2N1 Canada.
 
@@ -23,4 +23,4 @@ Système is a music venue in Montreal listed on soundcheck. 23 upcoming gigs, wi
 
 7119 Saint Hubert, Montreal QC H2S2N1 Canada, Montreal
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/syst-me/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/syst-me/)*

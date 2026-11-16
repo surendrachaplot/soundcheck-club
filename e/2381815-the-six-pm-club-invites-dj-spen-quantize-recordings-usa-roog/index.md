@@ -1,6 +1,6 @@
 # The Six Pm Club invites DJ Spen (Quantize Recordings USA) | ROOG | Greg van Bueren at Jimmy Woo
 
-The Six Pm Club invites DJ Spen (Quantize Recordings USA) | ROOG | Greg van Bueren at Jimmy Woo on Sat 13 Feb, Amsterdam. 2 artists: DJ Spen and ROOG. See the line-up on soundcheck.
+The Six Pm Club invites DJ Spen (Quantize Recordings USA) | ROOG | Greg van Bueren at Jimmy Woo on Sat 13 Feb, Amsterdam. 2 artists: DJ Spen and ROOG. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

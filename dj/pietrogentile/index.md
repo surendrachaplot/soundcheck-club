@@ -1,19 +1,19 @@
 # Pietro Gentile
 
-Pietro Gentile is a Deep House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Rooftop Henriksberg, Gothenburg on Sun, 15 Nov 2026.
+Pietro Gentile is a Deep House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Rooftop Henriksberg, Gothenburg on Sun, 6 Dec 2026.
 
-Pietro Gentile is a deep house and techno artist based in Sweden, with 14 gigs on soundcheck across Gothenburg. Often billed alongside peter m.lander, EILLOM and John H (SE). Next up: Rooftop Henriksberg, Gothenburg on Sun 15 Nov.
+Pietro Gentile is a deep house and techno artist based in Sweden, with 14 gigs on soundcheck across Gothenburg. Often billed alongside peter m.lander, EILLOM and John H (SE). Next up: Rooftop Henriksberg, Gothenburg on Sun 6 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 15 Nov 2026 | Rooftop Henriksberg | Gothenburg |
 | Sun, 6 Dec 2026 | Rooftop Henriksberg | Gothenburg |
 | Sun, 27 Dec 2026 | Rooftop Henriksberg | Gothenburg |
 
 ## Recently played
 
+- Rooftop Henriksberg, Gothenburg · Sun, 15 Nov 2026
 - Clarion Hotel Draken, Rooftop Bar & Terrace, Gothenburg · Sun, 2 Aug 2026
 - TBA - HAVSBAREN @ Långedrag Värdshus , Gothenburg · Sat, 11 Jul 2026
 - Clarion Hotel Draken, Rooftop Bar & Terrace, Gothenburg · Sun, 5 Jul 2026
@@ -21,10 +21,9 @@ Pietro Gentile is a deep house and techno artist based in Sweden, with 14 gigs o
 - Rooftop Henriksberg, Gothenburg · Sun, 13 Jul 2025
 - Rooftop Henriksberg, Gothenburg · Sun, 11 Aug 2024
 - Rooftop Henriksberg, Gothenburg · Sun, 28 Jul 2024
-- Rooftop Henriksberg, Gothenburg · Sun, 14 Jul 2024
 
 ## Shares bills with
 
 peter m.lander, EILLOM, John H (SE)
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pietrogentile/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pietrogentile/)*

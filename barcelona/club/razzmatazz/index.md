@@ -1,6 +1,6 @@
 # Razzmatazz
 
-Razzmatazz is a music venue in Barcelona with 8 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Jolani Jhones + Rico Rosa + LaBlackie + ᵀʰᵉ ᵀʷⁱⁿˢ live" on Fri, 20 Nov 2026.
+Razzmatazz is a music venue in Barcelona with 8 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Jolani Jhones + Rico Rosa + LaBlackie + ᵀʰᵉ ᵀʷⁱⁿˢ live" on Fri, 20 Nov 2026.
 
 Razzmatazz is a music venue in Barcelona listed on soundcheck. 8 upcoming gigs, with line-ups including adobeprincess, Alex Wilcox, Alvva and Andrae Durden and 2 more. See dates, start times and who's playing. C Almogavers 122 - C Pamplona 88; Barcelona; Spain.
 
@@ -21,4 +21,4 @@ Razzmatazz is a music venue in Barcelona listed on soundcheck. 8 upcoming gigs, 
 
 C Almogavers 122 - C Pamplona 88; Barcelona; Spain, Barcelona
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*

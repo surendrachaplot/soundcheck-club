@@ -1,6 +1,6 @@
 # gooseyyy
 
-gooseyyy is a Techno and IDM artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at QQQ ST. Park, Melbourne on Sat, 19 Dec 2026.
+gooseyyy is a Techno and IDM artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at QQQ ST. Park, Melbourne on Sat, 19 Dec 2026.
 
 gooseyyy is a techno and idm artist, with 3 gigs on soundcheck across Melbourne. Often billed alongside Autogenesis, Bri and Deaf Toucan. Next up: QQQ ST. Park, Melbourne on Sat 19 Dec.
 
@@ -19,4 +19,4 @@ gooseyyy is a techno and idm artist, with 3 gigs on soundcheck across Melbourne.
 
 Autogenesis, Bri (10), Deaf Toucan
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gooseyyy/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gooseyyy/)*

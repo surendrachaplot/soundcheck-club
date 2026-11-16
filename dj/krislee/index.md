@@ -1,6 +1,6 @@
 # Kris Lee
 
-Kris Lee is a House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Open Air Club, New York City on Thu, 19 Nov 2026.
+Kris Lee is a House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Open Air Club, New York City on Thu, 19 Nov 2026.
 
 Kris Lee is a house artist based in United Arab Emirates, with 2 gigs on soundcheck across New York City. Often billed alongside Atish, Catori and Drew Proud. Next up: Open Air Club, New York City on Thu 19 Nov.
 
@@ -18,4 +18,4 @@ Kris Lee is a house artist based in United Arab Emirates, with 2 gigs on soundch
 
 Atish, Catori, Drew Proud
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krislee/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krislee/)*

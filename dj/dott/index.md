@@ -1,14 +1,13 @@
 # DOTT
 
-DOTT is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA - Woowon, Bangsaen, Chonburi, Thailand on Sat, 14 Nov 2026.
+DOTT is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
 
-DOTT is a house and techno artist based in Thailand, with 158 gigs on soundcheck across Bali, Bangkok, Bangladesh and Beijing and 18 more. Often billed alongside Sarayu, Elaheh and Jirus (MELA). Next up: TBA - Woowon, Bangsaen, Chonburi, Thailand on Sat 14 Nov.
+DOTT is a house and techno artist based in Thailand, with 158 gigs on soundcheck across Bali, Bangkok, Bangladesh and Beijing and 18 more. Often billed alongside Sarayu, Elaheh and Jirus (MELA). Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | TBA - Woowon, Bangsaen, Chonburi | Thailand |
 | Thu, 3 Dec 2026 | The Fields at Siam Country Club | Thailand |
 | Sat, 12 Dec 2026 | Clutch, Warehouse Bangkok | Bangkok |
 | Fri, 18 Dec 2026 | Castle Mandawa, Rajasthan | Other-regions |
@@ -30,4 +29,4 @@ DOTT is a house and techno artist based in Thailand, with 158 gigs on soundcheck
 
 Sarayu, Elaheh, Jirus (MELA)
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dott/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dott/)*

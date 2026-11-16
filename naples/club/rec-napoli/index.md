@@ -1,14 +1,13 @@
 # REC Napoli
 
-REC Napoli is a music venue in Naples with 10 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "ORA.daft at REC  Anthony Rother, Sexy Deep Futuristic, JJ" on Sun, 15 Nov 2026.
+REC Napoli is a music venue in Naples with 9 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Cassy, Eduardo de la Calle, Ale Hope" on Sat, 21 Nov 2026.
 
-REC Napoli is a music venue in Naples listed on soundcheck. 10 upcoming gigs, with line-ups including Ale Hope, Anthea, Anthony Rother and Bobby. and 2 more. See dates, start times and who's playing. Via Campana 233, Pozzuoli, 80078, Napoli.
+REC Napoli is a music venue in Naples listed on soundcheck. 9 upcoming gigs, with line-ups including Ale Hope, Anthea, Bobby. and busexy and 2 more. See dates, start times and who's playing. Via Campana 233, Pozzuoli, 80078, Napoli.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 15 Nov 2026 | ORA.daft at REC  Anthony Rother, Sexy Deep Futuristic, JJ | Anthony Rother |
 | Sat, 21 Nov 2026 | Cassy, Eduardo de la Calle, Ale Hope | Ale Hope, Cassy, Eduardo de la Calle |
 | Sat, 28 Nov 2026 | BHODI at REC Anthea, Idriss D, Vincenzo Castaldo | Anthea, Idriss D |
 | Sat, 5 Dec 2026 | Ignez, Deetron, Emmef | Deetron, Emmef, Ignez |
@@ -23,4 +22,4 @@ REC Napoli is a music venue in Naples listed on soundcheck. 10 upcoming gigs, wi
 
 Via Campana 233, Pozzuoli, 80078, Napoli, Naples
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/naples/club/rec-napoli/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/naples/club/rec-napoli/)*

@@ -1,6 +1,6 @@
 # Xiaolin
 
-Xiaolin is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at DURO, Milan on Fri, 20 Nov 2026.
+Xiaolin is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at DURO, Milan on Fri, 20 Nov 2026.
 
 Xiaolin is a house and techno artist, with 109 gigs on soundcheck across Amsterdam, Bali, Barcelona and Beijing and 34 more. Often billed alongside Sunsiaré, Mr. Ho and Wata Igarashi. Next up: DURO, Milan on Fri 20 Nov.
 
@@ -34,4 +34,4 @@ Xiaolin is a house and techno artist, with 109 gigs on soundcheck across Amsterd
 
 Sunsiaré, Mr. Ho, Wata Igarashi
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xiaolin/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xiaolin/)*

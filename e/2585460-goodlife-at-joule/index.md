@@ -1,6 +1,6 @@
 # GOODLIFE at Joule
 
-GOODLIFE at Joule on Fri 27 Nov, Osaka. 6 artists: Astro, Hickson, ing (UK) and NOBUYA and 2 more. Techno and Tech House. See the line-up on soundcheck.
+GOODLIFE at Joule on Fri 27 Nov, Osaka. 7 artists: Astro, Hickson, ing (UK) and NOBUYA and 3 more. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,6 +15,7 @@ GOODLIFE at Joule on Fri 27 Nov, Osaka. 6 artists: Astro, Hickson, ing (UK) and 
 - ing (UK)
 - NOBUYA (2)
 - O-MAN
+- YOKO aka LAiR
 - YUXI
 
 *Source: [soundcheck](https://soundcheck.club/e/2585460-goodlife-at-joule/)*

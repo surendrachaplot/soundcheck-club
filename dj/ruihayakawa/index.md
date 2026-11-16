@@ -1,6 +1,6 @@
 # RUI HAYAKAWA
 
-RUI HAYAKAWA is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Mago, Chubu on Sat, 19 Dec 2026.
+RUI HAYAKAWA is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Mago, Chubu on Sat, 19 Dec 2026.
 
 RUI HAYAKAWA is a house and hip-hop artist based in Japan, with 3 gigs on soundcheck across Chubu and Tokyo. Often billed alongside CRAZY-T, DJ POIPOI and DJ Quietstorm. Next up: Mago, Chubu on Sat 19 Dec.
 
@@ -19,4 +19,4 @@ RUI HAYAKAWA is a house and hip-hop artist based in Japan, with 3 gigs on soundc
 
 CRAZY-T, DJ POIPOI, DJ Quietstorm
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ruihayakawa/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ruihayakawa/)*

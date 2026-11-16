@@ -1,14 +1,13 @@
 # J Majik
 
-J Majik is a Drum & Bass and Jungle artist with 7 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Night Tales, London on Sun, 15 Nov 2026.
+J Majik is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at The Wardrobe, Leeds on Sun, 29 Nov 2026.
 
-J Majik is a drum & bass and jungle artist based in United Kingdom, with 15 gigs on soundcheck across Berlin, Birmingham, Brighton and Bristol and 6 more. Often billed alongside Doc Scott, Diverge and Dillinja. Next up: Night Tales, London on Sun 15 Nov.
+J Majik is a drum & bass and jungle artist based in United Kingdom, with 15 gigs on soundcheck across Berlin, Birmingham, Brighton and Bristol and 6 more. Often billed alongside Doc Scott, Diverge and Dillinja. Next up: The Wardrobe, Leeds on Sun 29 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 15 Nov 2026 | Night Tales | London |
 | Sun, 29 Nov 2026 | The Wardrobe | Leeds |
 | Fri, 4 Dec 2026 | Joshua Brooks | Manchester |
 | Fri, 18 Dec 2026 | Night Tales | London |
@@ -18,6 +17,7 @@ J Majik is a drum & bass and jungle artist based in United Kingdom, with 15 gigs
 
 ## Recently played
 
+- Night Tales, London · Sun, 15 Nov 2026
 - The Clock Factory, Bristol · Sat, 31 Oct 2026
 - Hare & Hounds, Birmingham · Fri, 28 Aug 2026
 - Dryad Works, Sheffield · Sat, 20 Jun 2026
@@ -25,10 +25,9 @@ J Majik is a drum & bass and jungle artist based in United Kingdom, with 15 gigs
 - Electric Brixton, London · Sat, 4 Apr 2026
 - Volks, Brighton · Fri, 26 Apr 2024
 - Beaver Works, Leeds · Sat, 10 Feb 2024
-- Planet Wax, London · Fri, 7 Jul 2023
 
 ## Shares bills with
 
 Doc Scott, Diverge, Dillinja
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jmajik/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jmajik/)*

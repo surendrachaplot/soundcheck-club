@@ -1,8 +1,8 @@
 # Phonox
 
-Phonox is a music venue in London with 41 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Insomnia: Kessler, Ned Spencer & YAZ" on Thu, 19 Nov 2026.
+Phonox is a music venue in London with 43 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Insomnia: Kessler, Ned Spencer & YAZ" on Thu, 19 Nov 2026.
 
-Phonox is a music venue in London listed on soundcheck. 41 upcoming gigs, with line-ups including Aba Shanti-I, A LOVE FROM OUTER SPACE, Angel D'lite and Billy Daniel Bunter and 2 more. See dates, start times and who's playing. 418 Brixton Road Brixton London SW9 7AY.
+Phonox is a music venue in London listed on soundcheck. 43 upcoming gigs, with line-ups including Aba Shanti-I, A LOVE FROM OUTER SPACE, Angel D'lite and Billy Daniel Bunter and 2 more. See dates, start times and who's playing. 418 Brixton Road Brixton London SW9 7AY.
 
 ## What's on
 
@@ -16,11 +16,11 @@ Phonox is a music venue in London listed on soundcheck. 41 upcoming gigs, with l
 | Fri, 27 Nov 2026 | Ross From Friends [All Night Long]: 4 Fridays at Phonox (Closing Party) | Ross From Friends |
 | Sat, 28 Nov 2026 | Dusky presents Signals | Dusky |
 | Sat, 28 Nov 2026 | Phonox: Angel D'lite & 0K Williams | Angel D'lite, OK Williams |
-| Wed, 2 Dec 2026 | HEADACHE PRESENTS: OFFICIAL AFTER PARTY | Vegyn |
+| Wed, 2 Dec 2026 | HEADACHE PRESENTS: OFFICIAL AFTER PARTY | Headache, Vegyn |
 | Thu, 3 Dec 2026 | Insomnia: Denham Audio, Jungle George & Et Al | Denham Audio |
 
 ## Address
 
 418 Brixton Road Brixton London SW9 7AY, London
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/phonox/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/phonox/)*

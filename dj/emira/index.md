@@ -1,6 +1,6 @@
 # EMIRA
 
-EMIRA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at La Cité Fertile, Paris on Sun, 29 Nov 2026.
+EMIRA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at La Cité Fertile, Paris on Sun, 29 Nov 2026.
 
 EMIRA is a techno and house artist based in Tunisia, with 44 gigs on soundcheck across Berlin, Hannover, Milan and Paris and 1 more. Often billed alongside The Camel, VNVK and Tiem. Next up: La Cité Fertile, Paris on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ EMIRA is a techno and house artist based in Tunisia, with 44 gigs on soundcheck 
 
 The Camel, VNVK, Tiem
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emira/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emira/)*

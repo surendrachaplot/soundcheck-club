@@ -1,6 +1,6 @@
 # Amnesia Milano
 
-Amnesia Milano is a music venue in Milan with 4 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Sosa, SDK (Simone De Kunovich), Ezra" on Sat, 21 Nov 2026.
+Amnesia Milano is a music venue in Milan with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Sosa, SDK (Simone De Kunovich), Ezra" on Sat, 21 Nov 2026.
 
 Amnesia Milano is a music venue in Milan listed on soundcheck. 4 upcoming gigs, with line-ups including Cuartero, GENNARO, Jamback and Sante Sansone and 2 more. See dates, start times and who's playing. Via Alfonso Gatto angolo Viale Forlanini, 20134 Milano (MI), Italy.
 
@@ -17,4 +17,4 @@ Amnesia Milano is a music venue in Milan listed on soundcheck. 4 upcoming gigs, 
 
 Via Alfonso Gatto angolo Viale Forlanini, 20134 Milano (MI), Italy, Milan
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/amnesia-milano/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/amnesia-milano/)*

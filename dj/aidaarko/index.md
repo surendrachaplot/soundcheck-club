@@ -1,6 +1,6 @@
 # Aida Arko
 
-Aida Arko is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Lokschuppen Berlin, Berlin on Fri, 27 Nov 2026.
+Aida Arko is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Lokschuppen Berlin, Berlin on Fri, 27 Nov 2026.
 
 Aida Arko is a techno and industrial artist based in Austria, with 83 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 30 more. Often billed alongside Mar/us, Angel Karel and Metaraph. Next up: Lokschuppen Berlin, Berlin on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Aida Arko is a techno and industrial artist based in Austria, with 83 gigs on so
 
 Mar/us, Angel Karel, Metaraph
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aidaarko/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aidaarko/)*

@@ -1,6 +1,6 @@
 # DJ Travella
 
-DJ Travella is a Singeli and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
+DJ Travella is a Singeli and Club artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
 
 DJ Travella is a singeli and club artist based in Tanzania, with 83 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 38 more. Often billed alongside DJ Diaki, Mia Koden and De Schuurman. Next up: El Rio Hostel, Colombia on Wed 3 Mar.
 
@@ -26,4 +26,4 @@ DJ Travella is a singeli and club artist based in Tanzania, with 83 gigs on soun
 
 DJ Diaki, Mia Koden, De Schuurman
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djtravella/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djtravella/)*

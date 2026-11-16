@@ -1,13 +1,14 @@
 # Kikelomo
 
-Kikelomo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Kino Siska, Ljubljana on Wed, 17 Feb 2027.
+Kikelomo is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Fitzroy, Berlin on Sun, 6 Dec 2026.
 
-Kikelomo is a techno and house artist based in United Kingdom, with 105 gigs on soundcheck across Amsterdam, Antwerp, Basel and Beijing and 26 more. Often billed alongside Honey Dijon, Gabrielle Kwarteng and Virginia. Next up: Kino Siska, Ljubljana on Wed 17 Feb.
+Kikelomo is a techno and house artist based in United Kingdom, with 106 gigs on soundcheck across Amsterdam, Antwerp, Basel and Beijing and 26 more. Often billed alongside Honey Dijon, Gabrielle Kwarteng and Virginia. Next up: Fitzroy, Berlin on Sun 6 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 6 Dec 2026 | Fitzroy | Berlin |
 | Wed, 17 Feb 2027 | Kino Siska | Ljubljana |
 
 ## Recently played
@@ -25,4 +26,4 @@ Kikelomo is a techno and house artist based in United Kingdom, with 105 gigs on 
 
 Honey Dijon, Gabrielle Kwarteng, Virginia
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kikelomo/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kikelomo/)*

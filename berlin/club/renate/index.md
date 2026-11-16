@@ -1,6 +1,6 @@
 # Renate
 
-Renate is a music venue in Berlin with 16 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Renate Klubnacht & Daytime with Black.Is, Moses Joses & HitYaWithThat" on Fri, 20 Nov 2026.
+Renate is a music venue in Berlin with 16 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Renate Klubnacht & Daytime with Black.Is, Moses Joses & HitYaWithThat" on Fri, 20 Nov 2026.
 
 Renate is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, with line-ups including Aalia Iraki, AAMIROO, Alexandra and Alfred Anders and 2 more. See dates, start times and who's playing. Alt Stralau 70; Friedrichshain; 10245 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Renate is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, with l
 
 Alt Stralau 70; Friedrichshain; 10245 Berlin; Germany, Berlin
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/renate/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/renate/)*

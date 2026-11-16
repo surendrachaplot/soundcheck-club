@@ -1,14 +1,13 @@
 # Silent Green
 
-Silent Green is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Tehran Contemporary Sounds Festival 2026" on Fri, 13 Nov 2026.
+Silent Green is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Psychic Liberation Night: Horse Lords + Audrey Chen & Nick Klein" on Wed, 18 Nov 2026.
 
-Silent Green is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line-ups including Abdullah Miniawy, Babak Ahteshamipour, CONTAGIOUS and Dis Fig and 2 more. See dates, start times and who's playing. Gerichtstraße 35, 13347 Berlin, Germany.
+Silent Green is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including Dis Fig, FITNESSS, Ka Baird and Levi (DE) and 2 more. See dates, start times and who's playing. Gerichtstraße 35, 13347 Berlin, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Tehran Contemporary Sounds Festival 2026 | Abdullah Miniawy, Babak Ahteshamipour, CONTAGIOUS, Gnäw, Herr Spectre, LABOUR, Shiva Feshareki, Tarxun, Tehran |
 | Wed, 18 Nov 2026 | Psychic Liberation Night: Horse Lords + Audrey Chen & Nick Klein |  |
 | Tue, 24 Nov 2026 | Angel Bat Dawid |  |
 | Fri, 27 Nov 2026 | LIA LIA + Levi | Levi (DE), LiaLia |
@@ -18,9 +17,10 @@ Silent Green is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, 
 | Fri, 22 Jan 2027 | CTM 2027: Methoding |  |
 | Fri, 22 Jan 2027 | CTM 2027: Opening Concert | Polygonia |
 | Sat, 23 Jan 2027 | CTM 2027: Colliding | Dis Fig, FITNESSS (2) |
+| Sun, 24 Jan 2027 | CTM 2027: Spatial Audio Experimentation Lab Finale |  |
 
 ## Address
 
 Gerichtstraße 35, 13347 Berlin, Germany, Berlin
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/silent-green/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/silent-green/)*

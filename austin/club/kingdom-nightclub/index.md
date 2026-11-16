@@ -1,6 +1,6 @@
 # Kingdom Nightclub
 
-Kingdom Nightclub is a music venue in Austin with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "HARD RUBBER: Only Fire & FRIENDS" on Fri, 20 Nov 2026.
+Kingdom Nightclub is a music venue in Austin with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "HARD RUBBER: Only Fire & FRIENDS" on Fri, 20 Nov 2026.
 
 Kingdom Nightclub is a music venue in Austin listed on soundcheck. 3 upcoming gigs, with line-ups including Amtrac, D.Dan, ITZA and JAViii and 2 more. See dates, start times and who's playing. 505 E 7th St. Austin, Texas 78701.
 
@@ -16,4 +16,4 @@ Kingdom Nightclub is a music venue in Austin listed on soundcheck. 3 upcoming gi
 
 505 E 7th St. Austin, Texas 78701, Austin
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/austin/club/kingdom-nightclub/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/austin/club/kingdom-nightclub/)*

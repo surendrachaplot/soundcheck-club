@@ -1,6 +1,6 @@
 # Joshua (IT)
 
-Joshua (IT) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Crew Bar Meta, Naples on Sun, 29 Nov 2026.
+Joshua (IT) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Crew Bar Meta, Naples on Sun, 29 Nov 2026.
 
 Joshua (IT) is a house and tech house artist, with 17 gigs on soundcheck across Barcelona and Naples. Often billed alongside Carlo Martino, VNP and Enrico Maria. Next up: Crew Bar Meta, Naples on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Joshua (IT) is a house and tech house artist, with 17 gigs on soundcheck across 
 
 Carlo Martino, VNP, Enrico Maria
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshuait/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshuait/)*

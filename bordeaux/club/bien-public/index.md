@@ -1,6 +1,6 @@
 # Bien Public
 
-Bien Public is a music venue in Bordeaux with 4 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "La Maskarade invite Giammarco Orsini" on Sat, 21 Nov 2026.
+Bien Public is a music venue in Bordeaux with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "La Maskarade invite Giammarco Orsini" on Sat, 21 Nov 2026.
 
 Bien Public is a music venue in Bordeaux listed on soundcheck. 4 upcoming gigs, with line-ups including aurevoirgaba, Bambi (FR), Beatrice M. and Donna Gibson and 2 more. See dates, start times and who's playing. 68 quai Deschamps.
 
@@ -17,4 +17,4 @@ Bien Public is a music venue in Bordeaux listed on soundcheck. 4 upcoming gigs, 
 
 68 quai Deschamps, Bordeaux
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/bordeaux/club/bien-public/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/bordeaux/club/bien-public/)*

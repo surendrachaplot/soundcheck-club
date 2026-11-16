@@ -1,6 +1,6 @@
 # Michael Canitrot - London at Onyx (E1)
 
-Michael Canitrot - London at Onyx (E1) on Sat 21 Nov, London. 3 artists: Ann LoV, Max Menaged and Michael Canitrot. Progressive House and Techno. See the line-up on soundcheck.
+Michael Canitrot - London at Onyx (E1) on Sat 21 Nov, London. 6 artists: ANÆT, Ann LoV, Max Menaged and Michael Canitrot and 2 more. Progressive House and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,11 @@ Michael Canitrot - London at Onyx (E1) on Sat 21 Nov, London. 3 artists: Ann LoV
 
 ## Line-up
 
+- ANÆT
 - Ann LoV
 - Max Menaged
 - Michael Canitrot
+- O.Maverick
+- Y // SHH
 
 *Source: [soundcheck](https://soundcheck.club/e/2357684-michael-canitrot-london-at-onyx-e1/)*

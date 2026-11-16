@@ -1,13 +1,14 @@
 # Congo Natty
 
-Congo Natty is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Future Yard, Liverpool on Sat, 30 Jan 2027.
+Congo Natty is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Club Uno, London on Sat, 23 Jan 2027.
 
-Congo Natty is a jungle and drum & bass artist based in United Kingdom, with 47 gigs on soundcheck across Berlin, Birmingham, Brighton and Bristol and 11 more. Often billed alongside DJ Snuff, Aries and DJ Hype. Next up: Future Yard, Liverpool on Sat 30 Jan.
+Congo Natty is a jungle and drum & bass artist based in United Kingdom, with 48 gigs on soundcheck across Berlin, Birmingham, Brighton and Bristol and 11 more. Often billed alongside DJ Snuff, Aries and DJ Hype. Next up: Club Uno, London on Sat 23 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 23 Jan 2027 | Club Uno | London |
 | Sat, 30 Jan 2027 | Future Yard | Liverpool |
 
 ## Recently played
@@ -25,4 +26,4 @@ Congo Natty is a jungle and drum & bass artist based in United Kingdom, with 47 
 
 DJ Snuff, Aries, DJ Hype
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/congonatty/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/congonatty/)*

@@ -1,6 +1,6 @@
 # YFS (1)
 
-YFS (1) is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at fabric, London on Sun, 6 Dec 2026.
+YFS (1) is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at fabric, London on Sun, 6 Dec 2026.
 
 YFS is an electronic artist, with 3 gigs on soundcheck across London. Often billed alongside Antss, BEGGSY and Banksie. Next up: fabric, London on Sun 6 Dec.
 
@@ -19,4 +19,4 @@ YFS is an electronic artist, with 3 gigs on soundcheck across London. Often bill
 
 Antss, BEGGSY, Banksie
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yfs-1/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yfs-1/)*

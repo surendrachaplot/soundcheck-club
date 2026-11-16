@@ -1,6 +1,6 @@
 # Holysss
 
-Holysss is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at MODULE, Copenhagen on Fri, 1 Jan 2027.
+Holysss is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at MODULE, Copenhagen on Fri, 1 Jan 2027.
 
 Holysss is a techno and trance artist based in Ukraine, with 21 gigs on soundcheck across Copenhagen. Often billed alongside MINHI, DJ Macid and DJ Void. Next up: MODULE, Copenhagen on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Holysss is a techno and trance artist based in Ukraine, with 21 gigs on soundche
 
 MINHI, DJ Macid, DJ Void
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/holysss/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/holysss/)*

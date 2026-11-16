@@ -1,13 +1,14 @@
 # Quakes
 
-Quakes is a Bass and Psytrance artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA, Sydney on Wed, 30 Dec 2026.
+Quakes is a Bass and Psytrance artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA, Sydney on Sat, 28 Nov 2026.
 
-Quakes is a bass and psytrance artist based in Australia, with 10 gigs on soundcheck across Sydney. Often billed alongside Jungist, Lopro and Scythe. Next up: TBA, Sydney on Wed 30 Dec.
+Quakes is a bass and psytrance artist based in Australia, with 11 gigs on soundcheck across Sydney. Often billed alongside Lopro, Autogenesis and I.C.Y. Next up: TBA, Sydney on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | TBA | Sydney |
 | Wed, 30 Dec 2026 | TBA | Sydney |
 
 ## Recently played
@@ -23,6 +24,6 @@ Quakes is a bass and psytrance artist based in Australia, with 10 gigs on soundc
 
 ## Shares bills with
 
-Jungist, Lopro, Scythe
+Lopro, Autogenesis, I.C.Y
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/quakes/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/quakes/)*

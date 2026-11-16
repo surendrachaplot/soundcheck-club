@@ -1,6 +1,6 @@
 # Bustin' Loose
 
-Bustin' Loose is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Ciao Ciao, New York City on Sat, 21 Nov 2026.
+Bustin' Loose is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Ciao Ciao, New York City on Sat, 21 Nov 2026.
 
 Bustin' Loose is a house and disco artist based in United Kingdom, with 164 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Berlin and 19 more. Often billed alongside Tatiana, Roland & Brother Rich and Magnolia_. Next up: Ciao Ciao, New York City on Sat 21 Nov.
 
@@ -28,4 +28,4 @@ Bustin' Loose is a house and disco artist based in United Kingdom, with 164 gigs
 
 Tatiana, Roland & Brother Rich, Magnolia_
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bustinloose/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bustinloose/)*

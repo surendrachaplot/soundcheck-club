@@ -1,6 +1,6 @@
 # PRST
 
-PRST is a music venue in Vienna with 5 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Anna Ullrich pres. Achterbahn" on Fri, 20 Nov 2026.
+PRST is a music venue in Vienna with 5 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Anna Ullrich pres. Achterbahn" on Fri, 20 Nov 2026.
 
 PRST is a music venue in Vienna listed on soundcheck. 5 upcoming gigs, with line-ups including Aleta, Anna Ullrich, Apua and Armin Hermann and 2 more. See dates, start times and who's playing. Praterstraße 18, 1020 Wien, Austria.
 
@@ -18,4 +18,4 @@ PRST is a music venue in Vienna listed on soundcheck. 5 upcoming gigs, with line
 
 Praterstraße 18, 1020 Wien, Austria, Vienna
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/prst/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/prst/)*

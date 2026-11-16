@@ -1,6 +1,6 @@
 # Yves (2)
 
-Yves (2) is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Club Exil, Vienna on Fri, 20 Nov 2026.
+Yves (2) is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Club Exil, Vienna on Fri, 20 Nov 2026.
 
 Yves is a techno and bass artist based in Romania, with 8 gigs on soundcheck across Prague, Vienna and Zurich. Often billed alongside anxxxious_t, patta and Aimé. Next up: Club Exil, Vienna on Fri 20 Nov.
 
@@ -24,4 +24,4 @@ Yves is a techno and bass artist based in Romania, with 8 gigs on soundcheck acr
 
 anxxxious_t, patta, Aimé
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yves-2/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yves-2/)*

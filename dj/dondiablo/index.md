@@ -1,14 +1,13 @@
 # Don Diablo
 
-Don Diablo is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Club Hípico de Santiago, Santiago on Sat, 14 Nov 2026.
+Don Diablo is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at UNLOCKED, London on Sat, 28 Nov 2026.
 
-Don Diablo is a house and techno artist based in Netherlands, with 38 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 24 more. Often billed alongside Clara Cuvé, FISHER and Fatima Hajji. Next up: Club Hípico de Santiago, Santiago on Sat 14 Nov.
+Don Diablo is a house and techno artist based in Netherlands, with 38 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 24 more. Often billed alongside Clara Cuvé, FISHER and Fatima Hajji. Next up: UNLOCKED, London on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Club Hípico de Santiago | Santiago |
 | Sat, 28 Nov 2026 | UNLOCKED | London |
 | Sat, 5 Dec 2026 | Ritter Butzke | Berlin |
 | Sat, 4 Dec 2027 | Brno Exhibition Centre | Brno |
@@ -28,4 +27,4 @@ Don Diablo is a house and techno artist based in Netherlands, with 38 gigs on so
 
 Clara Cuvé, FISHER, Fatima Hajji
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dondiablo/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dondiablo/)*

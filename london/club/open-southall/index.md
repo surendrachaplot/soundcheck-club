@@ -1,6 +1,6 @@
 # Open Southall
 
-Open Southall is a music venue in London with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. The next is "Ealing Extranormal Vol.51" on Sat, 21 Nov 2026.
+Open Southall is a music venue in London with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. The next is "Ealing Extranormal Vol.51" on Sat, 21 Nov 2026.
 
 Open Southall is a music venue in London listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Open Southall is a music venue in London listed on soundcheck. 1 upcoming gig. S
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Ealing Extranormal Vol.51 |  |
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/open-southall/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/open-southall/)*

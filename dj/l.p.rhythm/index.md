@@ -1,8 +1,8 @@
 # L.P. Rhythm
 
-L.P. Rhythm is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at INPUT High Fidelity Dance Club, Barcelona on Sat, 21 Nov 2026.
+L.P. Rhythm is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at INPUT High Fidelity Dance Club, Barcelona on Sat, 21 Nov 2026.
 
-L.P. Rhythm is a house and tech house artist based in United Kingdom, with 191 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Bali and 36 more. Often billed alongside Gaskin, Locky and Luuk van Dijk. Next up: INPUT High Fidelity Dance Club, Barcelona on Sat 21 Nov.
+L.P. Rhythm is a house and tech house artist based in United Kingdom, with 192 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Bali and 36 more. Often billed alongside Gaskin, Locky and Luuk van Dijk. Next up: INPUT High Fidelity Dance Club, Barcelona on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ L.P. Rhythm is a house and tech house artist based in United Kingdom, with 191 g
 | Thu, 31 Dec 2026 | Digital | Newcastle |
 | Thu, 31 Dec 2026 | The Telegraph Building | Belfast |
 | Sat, 30 Jan 2027 | Depot | Cardiff |
+| Sat, 13 Feb 2027 | Thuishaven | Amsterdam |
 | Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 
 ## Recently played
@@ -32,4 +33,4 @@ L.P. Rhythm is a house and tech house artist based in United Kingdom, with 191 g
 
 Gaskin, Locky, Luuk van Dijk
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/l.p.rhythm/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/l.p.rhythm/)*

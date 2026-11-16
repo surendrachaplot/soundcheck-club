@@ -1,6 +1,6 @@
 # Danny Roach
 
-Danny Roach is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at The DBA, Manchester on Tue, 29 Dec 2026.
+Danny Roach is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at The DBA, Manchester on Tue, 29 Dec 2026.
 
 Danny Roach is a techno and house artist based in United Kingdom, with 43 gigs on soundcheck across Berlin, London and Manchester. Often billed alongside Deventi, INLIMEN and jardabpm. Next up: The DBA, Manchester on Tue 29 Dec.
 
@@ -25,4 +25,4 @@ Danny Roach is a techno and house artist based in United Kingdom, with 43 gigs o
 
 Deventi, INLIMEN, jardabpm
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyroach/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyroach/)*

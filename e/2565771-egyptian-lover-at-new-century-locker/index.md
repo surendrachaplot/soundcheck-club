@@ -1,6 +1,6 @@
 # Egyptian Lover at New Century Locker
 
-Egyptian Lover at New Century Locker on Sat 13 Feb, Manchester. 1 artist: Egyptian Lover. See the line-up on soundcheck.
+Egyptian Lover at New Century Locker on Sat 13 Feb, Manchester. 1 artist: Egyptian Lover. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

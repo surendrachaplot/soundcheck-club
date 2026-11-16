@@ -1,6 +1,6 @@
 # Mandala
 
-Mandala is a Bass and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Kobu Camp Village, Kanto on Sat, 21 Nov 2026.
+Mandala is a Bass and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Kobu Camp Village, Kanto on Sat, 21 Nov 2026.
 
 Mandala is a bass and post-punk artist, with 3 gigs on soundcheck across Kanto, Lisbon and Los Angeles. Often billed alongside Abyss, Agartha and Cosmic. Next up: Kobu Camp Village, Kanto on Sat 21 Nov.
 
@@ -19,4 +19,4 @@ Mandala is a bass and post-punk artist, with 3 gigs on soundcheck across Kanto, 
 
 Abyss, Agartha, Cosmic
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mandala/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mandala/)*

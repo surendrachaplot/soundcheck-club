@@ -1,14 +1,13 @@
 # Robbie Doherty
 
-Robbie Doherty is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Woldenberg Riverfront Park, New-orleans on Fri, 13 Nov 2026.
+Robbie Doherty is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Ministry Of Sound, London on Sat, 21 Nov 2026.
 
-Robbie Doherty is a house and tech house artist based in United Kingdom, with 168 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Auckland and 38 more. Often billed alongside Prunk, Dennis Quin and ALISHA. Next up: Woldenberg Riverfront Park, New Orleans on Fri 13 Nov.
+Robbie Doherty is a house and tech house artist based in United Kingdom, with 168 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Auckland and 38 more. Often billed alongside Prunk, Dennis Quin and ALISHA. Next up: Ministry Of Sound, London on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Woldenberg Riverfront Park | New-orleans |
 | Sat, 21 Nov 2026 | Ministry Of Sound | London |
 | Fri, 27 Nov 2026 | NX Newcastle | Newcastle |
 | Sun, 29 Nov 2026 | Lofi | Amsterdam |
@@ -33,4 +32,4 @@ Robbie Doherty is a house and tech house artist based in United Kingdom, with 16
 
 Prunk, Dennis Quin, ALISHA
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robbiedoherty/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robbiedoherty/)*

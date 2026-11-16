@@ -1,6 +1,6 @@
 # The Lubber Fiend
 
-The Lubber Fiend is a music venue in Newcastle with 6 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Budino & Bunney" on Fri, 20 Nov 2026.
+The Lubber Fiend is a music venue in Newcastle with 6 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Budino & Bunney" on Fri, 20 Nov 2026.
 
 The Lubber Fiend is a music venue in Newcastle listed on soundcheck. 6 upcoming gigs, with line-ups including Berwick (Live), Budino, Bunney and Elijah Minnelli and 2 more. See dates, start times and who's playing. 81 Blandford St., Newcastle upon Tyne NE1 3PZ.
 
@@ -19,4 +19,4 @@ The Lubber Fiend is a music venue in Newcastle listed on soundcheck. 6 upcoming 
 
 81 Blandford St., Newcastle upon Tyne NE1 3PZ, Newcastle
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/the-lubber-fiend/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/the-lubber-fiend/)*

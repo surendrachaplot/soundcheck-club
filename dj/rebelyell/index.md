@@ -1,8 +1,8 @@
 # Rebel Yell
 
-Rebel Yell is a EBM and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA, Sydney on Fri, 27 Nov 2026.
+Rebel Yell is a EBM and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA, Sydney on Fri, 27 Nov 2026.
 
-Rebel Yell is an ebm and industrial artist based in Australia, with 7 gigs on soundcheck across Berlin, Melbourne and Sydney. Often billed alongside Postponez, Arketek and Chino. Next up: TBA, Sydney on Fri 27 Nov.
+Rebel Yell is an ebm and industrial artist based in Australia, with 7 gigs on soundcheck across Berlin, Melbourne and Sydney. Often billed alongside Postponez, Chino and Grasps. Next up: TBA, Sydney on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -21,6 +21,6 @@ Rebel Yell is an ebm and industrial artist based in Australia, with 7 gigs on so
 
 ## Shares bills with
 
-Postponez, Arketek, Chino
+Postponez, Chino, Grasps
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rebelyell/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rebelyell/)*

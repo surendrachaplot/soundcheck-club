@@ -1,6 +1,6 @@
 # Evaa_
 
-Evaa_ is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA - Secret Location, Central on Sat, 5 Dec 2026.
+Evaa_ is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA - Secret Location, Central on Sat, 5 Dec 2026.
 
 Evaa_ is a house and electro artist based in Italy, with 10 gigs on soundcheck across Berlin, Bologna, Central and Milan and 1 more. Often billed alongside DJ Rou, Achieh and Alexia Glensy. Next up: TBA - Secret Location, Central on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Evaa_ is a house and electro artist based in Italy, with 10 gigs on soundcheck a
 
 DJ Rou, Achieh, Alexia Glensy
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/evaa_/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/evaa_/)*

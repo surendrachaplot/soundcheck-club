@@ -1,6 +1,6 @@
 # Connor Wall
 
-Connor Wall is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 26 Nov 2026.
+Connor Wall is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 26 Nov 2026.
 
 Connor Wall is a techno and house artist based in Australia, with 52 gigs on soundcheck across Amsterdam, Athens, Belgrade and Berlin and 28 more. Often billed alongside Anthony Linell, Tauceti (FR) and Toobris. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 26 Nov.
 
@@ -28,4 +28,4 @@ Connor Wall is a techno and house artist based in Australia, with 52 gigs on sou
 
 Anthony Linell, Tauceti (FR), Toobris
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/connorwall/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/connorwall/)*

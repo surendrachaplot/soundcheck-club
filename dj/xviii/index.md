@@ -1,6 +1,6 @@
 # XVIII
 
-XVIII is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Frekuence, Tirana on Sat, 21 Nov 2026.
+XVIII is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Frekuence, Tirana on Sat, 21 Nov 2026.
 
 XVIII is a techno artist based in Kosovo, with 3 gigs on soundcheck across Tirana. Often billed alongside Nani Killa, NANI and SOPA. Next up: Frekuence, Tirana on Sat 21 Nov.
 
@@ -19,4 +19,4 @@ XVIII is a techno artist based in Kosovo, with 3 gigs on soundcheck across Tiran
 
 Nani Killa, NANI, SOPA
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xviii/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xviii/)*

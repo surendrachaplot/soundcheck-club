@@ -1,6 +1,6 @@
 # glimmer
 
-glimmer is a music venue in Hamburg with 5 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "glimmer glubnacht with DJ Fuckoff" on Fri, 20 Nov 2026.
+glimmer is a music venue in Hamburg with 5 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "glimmer glubnacht with DJ Fuckoff" on Fri, 20 Nov 2026.
 
 glimmer is a music venue in Hamburg listed on soundcheck. 5 upcoming gigs, with line-ups including Antonym, Cherries040, DJ Babyblade and dj fako and 2 more. See dates, start times and who's playing. Stockmeyerstraße 43, 20457 Hamburg, Germany.
 
@@ -18,4 +18,4 @@ glimmer is a music venue in Hamburg listed on soundcheck. 5 upcoming gigs, with 
 
 Stockmeyerstraße 43, 20457 Hamburg, Germany, Hamburg
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/glimmer/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/glimmer/)*

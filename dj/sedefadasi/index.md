@@ -1,6 +1,6 @@
 # Sedef Adasï
 
-Sedef Adasï is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Burger Disco Club, Athens on Fri, 20 Nov 2026.
+Sedef Adasï is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Burger Disco Club, Athens on Fri, 20 Nov 2026.
 
 Sedef Adasï is a techno and house artist based in Turkey, with 318 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 74 more. Often billed alongside BASHKKA, Gabrielle Kwarteng and Job Jobse. Next up: Burger Disco Club, Athens on Fri 20 Nov.
 
@@ -32,4 +32,4 @@ Sedef Adasï is a techno and house artist based in Turkey, with 318 gigs on soun
 
 BASHKKA, Gabrielle Kwarteng, Job Jobse
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sedefadasi/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sedefadasi/)*

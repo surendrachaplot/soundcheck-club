@@ -1,6 +1,6 @@
 # Takaaki Itoh
 
-Takaaki Itoh is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Turbina, Budapest on Fri, 20 Nov 2026.
+Takaaki Itoh is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Turbina, Budapest on Fri, 20 Nov 2026.
 
 Takaaki Itoh is a techno and house artist based in Japan, with 134 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 42 more. Often billed alongside Loktibrada, DANA NADA and DANDAN. Next up: Turbina, Budapest on Fri 20 Nov.
 
@@ -28,4 +28,4 @@ Takaaki Itoh is a techno and house artist based in Japan, with 134 gigs on sound
 
 Loktibrada, DANA NADA, DANDAN
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/takaakiitoh/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/takaakiitoh/)*

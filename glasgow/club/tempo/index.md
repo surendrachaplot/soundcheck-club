@@ -1,6 +1,6 @@
 # Tempo
 
-Tempo is a music venue in Glasgow with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "I Am A Raver Over 30s" on Sat, 5 Dec 2026.
+Tempo is a music venue in Glasgow with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "I Am A Raver Over 30s" on Sat, 5 Dec 2026.
 
 Tempo is a music venue in Glasgow listed on soundcheck. 3 upcoming gigs, with line-ups including Da Terror and Quince. See dates, start times and who's playing. 70 Dumbarton Rd, Clydebank G81 1UG.
 
@@ -16,4 +16,4 @@ Tempo is a music venue in Glasgow listed on soundcheck. 3 upcoming gigs, with li
 
 70 Dumbarton Rd, Clydebank G81 1UG, Glasgow
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/tempo/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/tempo/)*

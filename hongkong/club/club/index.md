@@ -1,6 +1,6 @@
 # 宀 Club
 
-宀 Club is a music venue in Hong Kong with 16 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Entropy 熵 with Valentin Ginies (11001 Records, Berlin) + Nanogram (Entropy 熵) + suz eq (enzyme)" on Fri, 20 Nov 2026.
+宀 Club is a music venue in Hong Kong with 16 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Entropy 熵 with Valentin Ginies (11001 Records, Berlin) + Nanogram (Entropy 熵) + suz eq (enzyme)" on Fri, 20 Nov 2026.
 
 宀 Club is a music venue in Hong Kong listed on soundcheck. 16 upcoming gigs, with line-ups including ADRIANNA.C, Anyss, Bouffant Bouffant and Charlieowo and 2 more. See dates, start times and who's playing. 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong.
 
@@ -23,4 +23,4 @@
 
 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong, Hong Kong
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/club/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/club/)*

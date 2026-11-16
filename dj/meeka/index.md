@@ -1,8 +1,8 @@
 # Meeka
 
-Meeka is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA - Il Mercato Centrale, Melbourne on Sat, 21 Nov 2026.
+Meeka is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA - Il Mercato Centrale, Melbourne on Sat, 21 Nov 2026.
 
-Meeka is a techno and tech house artist based in Poland, with 3 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Bastian Bux, HUMAN  ERROR and Jessy. Next up: TBA - Il Mercato Centrale, Melbourne on Sat 21 Nov.
+Meeka is a techno and tech house artist based in Poland, with 3 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Bastian Bux, HUMAN ERROR and Jessy. Next up: TBA - Il Mercato Centrale, Melbourne on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -17,6 +17,6 @@ Meeka is a techno and tech house artist based in Poland, with 3 gigs on soundche
 
 ## Shares bills with
 
-Bastian Bux, HUMAN  ERROR, Jessy
+Bastian Bux, HUMAN ERROR, Jessy
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meeka/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meeka/)*

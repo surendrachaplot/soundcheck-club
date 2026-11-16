@@ -1,6 +1,6 @@
 # Yves Taubert
 
-Yves Taubert is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Eschschloraque, Berlin on Fri, 20 Nov 2026.
+Yves Taubert is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Eschschloraque, Berlin on Fri, 20 Nov 2026.
 
 Yves Taubert is a techno and house artist based in Germany, with 6 gigs on soundcheck across Berlin. Often billed alongside Tornadotoni, Mia Bergmann and patte. Next up: Eschschloraque, Berlin on Fri 20 Nov.
 
@@ -22,4 +22,4 @@ Yves Taubert is a techno and house artist based in Germany, with 6 gigs on sound
 
 Tornadotoni, Mia Bergmann, patte
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yvestaubert/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yvestaubert/)*

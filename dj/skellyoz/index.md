@@ -1,6 +1,6 @@
 # Skellyoz
 
-Skellyoz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at The Points, Belfast on Sat, 21 Nov 2026.
+Skellyoz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at The Points, Belfast on Sat, 21 Nov 2026.
 
 Skellyoz is a techno and house artist based in United Kingdom, with 5 gigs on soundcheck across Belfast. Often billed alongside GUZZ., CLERK. and Casual. Next up: The Points, Belfast on Sat 21 Nov.
 
@@ -21,4 +21,4 @@ Skellyoz is a techno and house artist based in United Kingdom, with 5 gigs on so
 
 GUZZ., CLERK., Casual
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skellyoz/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skellyoz/)*

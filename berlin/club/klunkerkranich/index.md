@@ -1,6 +1,6 @@
 # Klunkerkranich
 
-Klunkerkranich is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "LICIOUS x KRANICH w. Kataya, Hotline Bikadi, Bringtsman, Amnati b2b Jini Piju, Ben Derris" on Sat, 21 Nov 2026.
+Klunkerkranich is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "LICIOUS x KRANICH w. Kataya, Hotline Bikadi, Bringtsman, Amnati b2b Jini Piju, Ben Derris" on Sat, 21 Nov 2026.
 
 Klunkerkranich is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including Amnati, Ben Derris, Hannelore and Hotline Bikadi and 2 more. See dates, start times and who's playing. Karl-Marx-Straße 66, 12043 Berlin.
 
@@ -15,4 +15,4 @@ Klunkerkranich is a music venue in Berlin listed on soundcheck. 2 upcoming gigs,
 
 Karl-Marx-Straße 66, 12043 Berlin, Berlin
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/klunkerkranich/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/klunkerkranich/)*

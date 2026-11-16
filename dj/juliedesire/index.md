@@ -1,14 +1,13 @@
 # Julie Desire
 
-Julie Desire is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at TRAUM, Antwerp on Sat, 14 Nov 2026.
+Julie Desire is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at RSO.BERLIN, Berlin on Fri, 20 Nov 2026.
 
-Julie Desire is a techno and house artist based in France, with 123 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bologna and 26 more. Often billed alongside Cheriii, Mars O10C and A-440. Next up: TRAUM, Antwerp on Sat 14 Nov.
+Julie Desire is a techno and house artist based in France, with 123 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bologna and 26 more. Often billed alongside Cheriii, Mars O10C and A-440. Next up: RSO.BERLIN, Berlin on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | TRAUM | Antwerp |
 | Fri, 20 Nov 2026 | RSO.BERLIN | Berlin |
 | Sat, 5 Dec 2026 | Renate | Berlin |
 | Thu, 31 Dec 2026 | essaim | Paris |
@@ -29,4 +28,4 @@ Julie Desire is a techno and house artist based in France, with 123 gigs on soun
 
 Cheriii, Mars O10C, A-440
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juliedesire/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juliedesire/)*

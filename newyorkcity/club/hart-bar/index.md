@@ -1,6 +1,6 @@
 # Hart Bar
 
-Hart Bar is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Warm Leatherette" on Sat, 12 Dec 2026.
+Hart Bar is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Warm Leatherette" on Sat, 12 Dec 2026.
 
 Hart Bar is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including alter.world, Ivy Oh, Oscil and Supes Base and 1 more. See dates, start times and who's playing. 538 Hart Street, Brooklyn, NY 11221 USA.
 
@@ -15,4 +15,4 @@ Hart Bar is a music venue in New York City listed on soundcheck. 2 upcoming gigs
 
 538 Hart Street, Brooklyn, NY 11221 USA, New York City
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/hart-bar/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/hart-bar/)*

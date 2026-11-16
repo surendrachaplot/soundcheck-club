@@ -1,6 +1,6 @@
 # Peeve
 
-Peeve is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Krakatoa, Aberdeen on Thu, 19 Nov 2026.
+Peeve is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Krakatoa, Aberdeen on Thu, 19 Nov 2026.
 
 Peeve is a house and techno artist based in United Kingdom, with 30 gigs on soundcheck across Aberdeen, Dundee, Edinburgh and Glasgow and 1 more. Often billed alongside BAYNE, Sonho and Is Kill. Next up: Krakatoa, Aberdeen on Thu 19 Nov.
 
@@ -27,4 +27,4 @@ Peeve is a house and techno artist based in United Kingdom, with 30 gigs on soun
 
 BAYNE, Sonho, Is Kill
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peeve/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peeve/)*

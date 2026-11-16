@@ -1,14 +1,13 @@
 # Azyr
 
-Azyr is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Club Hípico de Santiago, Santiago on Sat, 14 Nov 2026.
+Azyr is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Cardiff Students' Union - Y Plas, Cardiff on Fri, 20 Nov 2026.
 
-Azyr is a techno and house artist based in United Kingdom, with 263 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 75 more. Often billed alongside LESSSS, blk. and Charlie Sparks. Next up: Club Hípico de Santiago, Santiago on Sat 14 Nov.
+Azyr is a techno and house artist based in United Kingdom, with 263 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 75 more. Often billed alongside LESSSS, blk. and Charlie Sparks. Next up: Cardiff Students' Union - Y Plas, Cardiff on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Club Hípico de Santiago | Santiago |
 | Fri, 20 Nov 2026 | Cardiff Students' Union - Y Plas | Cardiff |
 | Sat, 21 Nov 2026 | The Garage | Madrid |
 | Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
@@ -32,4 +31,4 @@ Azyr is a techno and house artist based in United Kingdom, with 263 gigs on soun
 
 LESSSS, blk., Charlie Sparks
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/azyr/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/azyr/)*

@@ -1,6 +1,6 @@
 # Be.roo
 
-Be.roo is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Mastak, Warsaw on Fri, 18 Dec 2026.
+Be.roo is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Mastak, Warsaw on Fri, 18 Dec 2026.
 
 Be.roo is a minimal and tech house artist based in Poland, with 2 gigs on soundcheck across Warsaw. Often billed alongside Joseph Clarke, Matthew Neequaye and Plastik. Next up: Mastak, Warsaw on Fri 18 Dec.
 
@@ -18,4 +18,4 @@ Be.roo is a minimal and tech house artist based in Poland, with 2 gigs on soundc
 
 Joseph Clarke, Matthew Neequaye, Plastik (1)
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beroo/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beroo/)*

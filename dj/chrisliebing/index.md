@@ -1,15 +1,13 @@
 # Chris Liebing
 
-Chris Liebing is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
+Chris Liebing is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Verbier, Switzerland on Fri, 20 Nov 2026.
 
-Chris Liebing is a techno and house artist based in Germany, with 228 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 76 more. Often billed alongside Speedy J, Ben Klock and Daria Kolosova. Next up: The Concourse Project, Austin on Fri 13 Nov.
+Chris Liebing is a techno and house artist based in Germany, with 228 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 76 more. Often billed alongside Speedy J, Ben Klock and Daria Kolosova. Next up: Verbier, Switzerland on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | The Concourse Project | Austin |
-| Sat, 14 Nov 2026 | TBA - DTLA | Los Angeles |
 | Fri, 20 Nov 2026 | Verbier | Switzerland |
 | Sat, 21 Nov 2026 | Martiniplaza | Amsterdam |
 | Mon, 7 Dec 2026 | HI.Club | Naples |
@@ -35,4 +33,4 @@ Chris Liebing is a techno and house artist based in Germany, with 228 gigs on so
 
 Speedy J, Ben Klock, Daria Kolosova
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisliebing/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisliebing/)*

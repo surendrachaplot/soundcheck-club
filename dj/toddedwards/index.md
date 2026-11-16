@@ -1,6 +1,6 @@
 # Todd Edwards
 
-Todd Edwards is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at The Jazz Cafe, London on Fri, 15 Jan 2027.
+Todd Edwards is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at The Jazz Cafe, London on Fri, 15 Jan 2027.
 
 Todd Edwards is a house and garage artist based in United States of America, with 132 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 34 more. Often billed alongside Conducta, Sam Divine and Rio Tashan. Next up: The Jazz Cafe, London on Fri 15 Jan.
 
@@ -25,4 +25,4 @@ Todd Edwards is a house and garage artist based in United States of America, wit
 
 Conducta, Sam Divine, Rio Tashan
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toddedwards/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toddedwards/)*

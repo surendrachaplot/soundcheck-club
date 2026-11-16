@@ -1,6 +1,6 @@
 # Die Tektonische Plattenverschiebung
 
-Die Tektonische Plattenverschiebung is a Electro and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA -  Gans Woanders, Pilgersheimer Str. 13, 81543 München, Munich on Tue, 17 Nov 2026.
+Die Tektonische Plattenverschiebung is a Electro and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA -  Gans Woanders, Pilgersheimer Str. 13, 81543 München, Munich on Tue, 17 Nov 2026.
 
 Die Tektonische Plattenverschiebung is an electro and techno artist based in Germany, with 41 gigs on soundcheck across Munich. Often billed alongside DJ FM & DJ FREUND, Safahs and ANXA. Next up: TBA -  Gans Woanders, Pilgersheimer Str. 13, 81543 München, Munich on Tue 17 Nov.
 
@@ -29,4 +29,4 @@ Die Tektonische Plattenverschiebung is an electro and techno artist based in Ger
 
 DJ FM & DJ FREUND, Safahs, ANXA
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dietektonischeplattenverschiebung/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dietektonischeplattenverschiebung/)*

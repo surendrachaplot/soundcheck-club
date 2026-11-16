@@ -1,6 +1,6 @@
 # Process PDX
 
-Process PDX is a music venue in Portland with 5 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Amtrac [Dream live tour]" on Thu, 19 Nov 2026.
+Process PDX is a music venue in Portland with 5 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Amtrac [Dream live tour]" on Thu, 19 Nov 2026.
 
 Process PDX is a music venue in Portland listed on soundcheck. 5 upcoming gigs, with line-ups including Amtrac, Danny Goliger, Gerd Janson and Groshong and 2 more. See dates, start times and who's playing. 5040 SE Milwaukie Ave. Portland, OR, 97202.
 
@@ -18,4 +18,4 @@ Process PDX is a music venue in Portland listed on soundcheck. 5 upcoming gigs, 
 
 5040 SE Milwaukie Ave. Portland, OR, 97202, Portland
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/portland/club/process-pdx/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/portland/club/process-pdx/)*

@@ -1,8 +1,8 @@
 # Warehouse
 
-Warehouse is a music venue in Nantes with 9 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "ORGANÏK with Jazzy, Yoshiko, Todiefor" on Fri, 20 Nov 2026.
+Warehouse is a music venue in Nantes with 10 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "ORGANÏK with Jazzy, Yoshiko, Todiefor" on Fri, 20 Nov 2026.
 
-Warehouse is a music venue in Nantes listed on soundcheck. 9 upcoming gigs, with line-ups including Akalex, AMOR MUSIC, Dan Bono and Dj Schnake and 2 more. See dates, start times and who's playing. 21 quai des Antilles 44200 Nantes.
+Warehouse is a music venue in Nantes listed on soundcheck. 10 upcoming gigs, with line-ups including Akalex, AMOR MUSIC, Daft Funk Live and Dan Bono and 2 more. See dates, start times and who's playing. 21 quai des Antilles 44200 Nantes.
 
 ## What's on
 
@@ -16,10 +16,11 @@ Warehouse is a music venue in Nantes listed on soundcheck. 9 upcoming gigs, with
 | Sat, 23 Jan 2027 | CLUB DE JOUR with Myd, Mayou Picchu & Akalex | Akalex, Myd |
 | Fri, 5 Feb 2027 | Cult Collective x Le Diable Au Corps au Warehouse Nantes |  |
 | Sat, 6 Feb 2027 | CLUB DE JOUR with Worakls présente OVERTURE feat. Ekaterina Shelehova & Antonin Winter | Dan Bono, Quentin Schneider, Worakls |
+| Sat, 13 Feb 2027 | Club de Jour invite Daft Funk Live | Daft Funk Live |
 | Fri, 19 Feb 2027 | Amor, Piazza, Sowa by SOLEA | AMOR MUSIC |
 
 ## Address
 
 21 quai des Antilles 44200 Nantes, Nantes
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/warehouse/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/warehouse/)*

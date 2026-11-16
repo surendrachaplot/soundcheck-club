@@ -1,6 +1,6 @@
 # Vito Natoli
 
-Vito Natoli is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Sonar, Central on Fri, 20 Nov 2026.
+Vito Natoli is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Sonar, Central on Fri, 20 Nov 2026.
 
 Vito Natoli is a tech house and house artist, with 3 gigs on soundcheck across Central, Florence and Medellin. Often billed alongside Antonio Marki, Federico Grazzini and Emijay. Next up: Sonar, Central on Fri 20 Nov.
 
@@ -19,4 +19,4 @@ Vito Natoli is a tech house and house artist, with 3 gigs on soundcheck across C
 
 Antonio Marki, Federico Grazzini, Emijay
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vitonatoli/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vitonatoli/)*

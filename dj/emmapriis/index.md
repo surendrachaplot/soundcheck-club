@@ -1,6 +1,6 @@
 # Emma Priis
 
-Emma Priis is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at MODULE, Copenhagen on Fri, 20 Nov 2026.
+Emma Priis is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at MODULE, Copenhagen on Fri, 20 Nov 2026.
 
 Emma Priis is a techno and house artist based in Denmark, with 13 gigs on soundcheck across Copenhagen. Often billed alongside Cakebutcher, Entree and FA999. Next up: MODULE, Copenhagen on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Emma Priis is a techno and house artist based in Denmark, with 13 gigs on soundc
 
 Cakebutcher, Entree, FA999
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emmapriis/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emmapriis/)*

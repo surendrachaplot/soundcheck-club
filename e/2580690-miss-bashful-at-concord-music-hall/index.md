@@ -1,6 +1,6 @@
 # Miss Bashful at Concord Music Hall
 
-Miss Bashful at Concord Music Hall on Sat 13 Feb, Chicago. 1 artist: Miss Bashful. See the line-up on soundcheck.
+Miss Bashful at Concord Music Hall on Sat 13 Feb, Chicago. 1 artist: Miss Bashful. Club and Ghetto Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

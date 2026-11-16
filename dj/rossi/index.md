@@ -1,6 +1,6 @@
 # Rossi
 
-Rossi is a House and Tech House artist with 14 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 27 Nov 2026.
+Rossi is a House and Tech House artist with 14 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 27 Nov 2026.
 
 Rossi is a house and tech house artist based in United Kingdom, with 258 gigs on soundcheck across Amsterdam, Auckland, Austin and Austria and 58 more. Often billed alongside Josh Baker, Enzo Siragusa and Jamback. Next up: Depot Mayfield, Manchester on Fri 27 Nov.
 
@@ -36,4 +36,4 @@ Rossi is a house and tech house artist based in United Kingdom, with 258 gigs on
 
 Josh Baker, Enzo Siragusa, Jamback
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rossi/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rossi/)*

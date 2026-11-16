@@ -1,6 +1,6 @@
 # Physical Therapy
 
-Physical Therapy is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at House of Yes, New York City on Sat, 21 Nov 2026.
+Physical Therapy is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at House of Yes, New York City on Sat, 21 Nov 2026.
 
 Physical Therapy is a techno and house artist based in United States of America, with 156 gigs on soundcheck across Amsterdam, Beijing, Berlin and Boston and 31 more. Often billed alongside Michael Magnan, Fatherhood and Lauren Flax. Next up: House of Yes, New York City on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ Physical Therapy is a techno and house artist based in United States of America,
 
 Michael Magnan, Fatherhood, Lauren Flax
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/physicaltherapy/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/physicaltherapy/)*

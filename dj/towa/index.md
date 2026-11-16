@@ -1,6 +1,6 @@
 # Towa
 
-Towa is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Joule, Osaka on Fri, 20 Nov 2026.
+Towa is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Joule, Osaka on Fri, 20 Nov 2026.
 
 Towa is a techno and garage artist, with 3 gigs on soundcheck across Osaka and Tokyo. Often billed alongside AKIHIRO, Diceman and Jonson. Next up: Joule, Osaka on Fri 20 Nov.
 
@@ -19,4 +19,4 @@ Towa is a techno and garage artist, with 3 gigs on soundcheck across Osaka and T
 
 AKIHIRO, Diceman, Jonson
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/towa/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/towa/)*

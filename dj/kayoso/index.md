@@ -1,6 +1,6 @@
 # Kayoso
 
-Kayoso is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Bi Nuu, Berlin on Thu, 31 Dec 2026.
+Kayoso is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Bi Nuu, Berlin on Thu, 31 Dec 2026.
 
 Kayoso is a house and disco artist based in Germany, with 16 gigs on soundcheck across Berlin. Often billed alongside justpatrick, Camo Braxton and Sesame. Next up: Bi Nuu, Berlin on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Kayoso is a house and disco artist based in Germany, with 16 gigs on soundcheck 
 
 justpatrick, Camo Braxton, Sesame
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kayoso/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kayoso/)*

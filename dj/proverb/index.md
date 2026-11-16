@@ -1,6 +1,6 @@
 # Proverb
 
-Proverb is a Dubstep and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Strange Brew, Bristol on Sat, 12 Dec 2026.
+Proverb is a Dubstep and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Strange Brew, Bristol on Sat, 12 Dec 2026.
 
 Proverb is a dubstep and techno artist based in United Kingdom, with 4 gigs on soundcheck across Berlin, Bristol and London. Often billed alongside Pinch, Appleblim and Axle. Next up: Strange Brew, Bristol on Sat 12 Dec.
 
@@ -20,4 +20,4 @@ Proverb is a dubstep and techno artist based in United Kingdom, with 4 gigs on s
 
 Pinch, Appleblim, Axle
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/proverb/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/proverb/)*

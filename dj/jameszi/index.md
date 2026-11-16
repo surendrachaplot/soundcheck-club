@@ -1,6 +1,6 @@
 # James Zi
 
-James Zi is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Yasta Club, Madrid on Fri, 20 Nov 2026.
+James Zi is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Yasta Club, Madrid on Fri, 20 Nov 2026.
 
 James Zi is a techno and electronica artist, with 2 gigs on soundcheck across Madrid. Often billed alongside Monsieur Blaya, WO KEM and findPeaks. Next up: Yasta Club, Madrid on Fri 20 Nov.
 
@@ -18,4 +18,4 @@ James Zi is a techno and electronica artist, with 2 gigs on soundcheck across Ma
 
 Monsieur Blaya, WO KEM, findPeaks
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jameszi/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jameszi/)*

@@ -1,6 +1,6 @@
 # Emi Koto
 
-Emi Koto is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA - El Invernadero, Madrid on Sat, 21 Nov 2026.
+Emi Koto is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA - El Invernadero, Madrid on Sat, 21 Nov 2026.
 
 Emi Koto is an electronica and house artist based in Spain, with 25 gigs on soundcheck across Madrid. Often billed alongside Certain People, Le Nomad and Arque. Next up: TBA - El Invernadero, Madrid on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Emi Koto is an electronica and house artist based in Spain, with 25 gigs on soun
 
 Certain People, Le Nomad, Arque
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emikoto/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emikoto/)*

@@ -1,6 +1,6 @@
 # DJ Krush
 
-DJ Krush is a Hip-Hop and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Club Metro, Kyoto on Sat, 28 Nov 2026.
+DJ Krush is a Hip-Hop and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Club Metro, Kyoto on Sat, 28 Nov 2026.
 
 DJ Krush is a hip-hop and techno artist based in Japan, with 66 gigs on soundcheck across Amsterdam, Athens, Beijing and Berlin and 18 more. Often billed alongside DJ Quietstorm, Herbalistek and Jomo. Next up: Club Metro, Kyoto on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ DJ Krush is a hip-hop and techno artist based in Japan, with 66 gigs on soundche
 
 DJ Quietstorm, Herbalistek, Jomo
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djkrush/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djkrush/)*

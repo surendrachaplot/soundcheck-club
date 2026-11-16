@@ -1,6 +1,6 @@
 # Hen's Teeth
 
-Hen's Teeth is a music venue in Dublin with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Stop The Lights! with Kelly-Anne Byrne B2B Graham Dolan" on Fri, 18 Dec 2026.
+Hen's Teeth is a music venue in Dublin with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Stop The Lights! with Kelly-Anne Byrne B2B Graham Dolan" on Fri, 18 Dec 2026.
 
 Hen's Teeth is a music venue in Dublin listed on soundcheck. 3 upcoming gigs, with line-ups including DJ-CK, iasc, Martello Give and Tyvion Valentine. See dates, start times and who's playing. Hen's Teeth, Blackpitts, Dublin 8, D08 A9FD.
 
@@ -16,4 +16,4 @@ Hen's Teeth is a music venue in Dublin listed on soundcheck. 3 upcoming gigs, wi
 
 Hen's Teeth, Blackpitts, Dublin 8, D08 A9FD, Dublin
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/hen-s-teeth/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/hen-s-teeth/)*

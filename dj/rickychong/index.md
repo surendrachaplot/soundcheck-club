@@ -1,6 +1,6 @@
 # Ricky Chong
 
-Ricky Chong is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Funkhaus Wien, Vienna on Fri, 20 Nov 2026.
+Ricky Chong is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Funkhaus Wien, Vienna on Fri, 20 Nov 2026.
 
 Ricky Chong is a disco and house artist based in Ireland, with 67 gigs on soundcheck across Belfast, Bristol, Cork and Dublin and 8 more. Often billed alongside MARINI, Glenn Davis and Pablo Fatty Fatty. Next up: Funkhaus Wien, Vienna on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Ricky Chong is a disco and house artist based in Ireland, with 67 gigs on soundc
 
 MARINI, Glenn Davis, Pablo Fatty Fatty
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rickychong/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rickychong/)*

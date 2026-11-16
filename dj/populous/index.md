@@ -1,6 +1,6 @@
 # Populous
 
-Populous is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Monk Club, Rome on Sun, 29 Nov 2026.
+Populous is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Monk Club, Rome on Sun, 29 Nov 2026.
 
 Populous is an electronica and house artist based in Italy, with 22 gigs on soundcheck across Amsterdam, Barcelona, Bologna and Brussels and 6 more. Often billed alongside ELASI, Gazzi and Ivreatronic. Next up: Monk Club, Rome on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Populous is an electronica and house artist based in Italy, with 22 gigs on soun
 
 ELASI, Gazzi, Ivreatronic
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/populous/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/populous/)*

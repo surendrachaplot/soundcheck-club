@@ -1,6 +1,6 @@
 # Macadam
 
-Macadam is a music venue in Nantes with 21 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Macadam • Manfredas ~ Amor Leone ~ Ottäkam" on Fri, 20 Nov 2026.
+Macadam is a music venue in Nantes with 21 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Macadam • Manfredas ~ Amor Leone ~ Ottäkam" on Fri, 20 Nov 2026.
 
 Macadam is a music venue in Nantes listed on soundcheck. 21 upcoming gigs, with line-ups including Akira Yamagata, Alexia, Bambi (FR) and Bennet and 2 more. See dates, start times and who's playing. 17 rue Jules Launey 44100 Nantes.
 
@@ -23,4 +23,4 @@ Macadam is a music venue in Nantes listed on soundcheck. 21 upcoming gigs, with 
 
 17 rue Jules Launey 44100 Nantes, Nantes
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/macadam/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/macadam/)*

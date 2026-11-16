@@ -1,6 +1,6 @@
 # The Jago
 
-The Jago is a music venue in London with 4 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Candela Wax w/ La Mandarina" on Sat, 21 Nov 2026.
+The Jago is a music venue in London with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Candela Wax w/ La Mandarina" on Sat, 21 Nov 2026.
 
 The Jago is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including LORA S and Malur. See dates, start times and who's playing. 440 Kingsland Road, E8 4AA London, United Kingdom.
 
@@ -17,4 +17,4 @@ The Jago is a music venue in London listed on soundcheck. 4 upcoming gigs, with 
 
 440 Kingsland Road, E8 4AA London, United Kingdom, London
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-jago/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-jago/)*

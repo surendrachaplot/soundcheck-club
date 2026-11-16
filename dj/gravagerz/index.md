@@ -1,14 +1,13 @@
 # Gravagerz
 
-Gravagerz is a House and Garage artist with 7 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Elsewhere, Gold-coast on Sun, 15 Nov 2026.
+Gravagerz is a House and Garage artist with 6 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Villa Nightclub, Perth on Fri, 20 Nov 2026.
 
-Gravagerz is a house and garage artist based in Italy, with 20 gigs on soundcheck across Amsterdam, Arizona, Boston and Copenhagen and 15 more. Often billed alongside Tini Gessler, Ely Oaks and Jackie Hollander. Next up: Elsewhere, Gold Coast on Sun 15 Nov.
+Gravagerz is a house and garage artist based in Italy, with 20 gigs on soundcheck across Amsterdam, Arizona, Boston and Copenhagen and 15 more. Often billed alongside Tini Gessler, Ely Oaks and Jackie Hollander. Next up: Villa Nightclub, Perth on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 15 Nov 2026 | Elsewhere | Gold-coast |
 | Fri, 20 Nov 2026 | Villa Nightclub | Perth |
 | Sat, 21 Nov 2026 | Seadeck | Sydney |
 | Sat, 5 Dec 2026 | Night We Met | Nashville |
@@ -18,6 +17,7 @@ Gravagerz is a house and garage artist based in Italy, with 20 gigs on soundchec
 
 ## Recently played
 
+- Elsewhere, Gold-coast · Sun, 15 Nov 2026
 - The Night Cat, Melbourne · Fri, 6 Nov 2026
 - Westworld of Scottsdale, Arizona · Fri, 30 Oct 2026
 - Wamu Theatre, Seattle · Fri, 30 Oct 2026
@@ -25,10 +25,9 @@ Gravagerz is a house and garage artist based in Italy, with 20 gigs on soundchec
 - Culture, Washington DC · Sat, 26 Sept 2026
 - Glen Helen Regional Park, Los Angeles · Sat, 19 Sept 2026
 - Fortune Sound Club, Vancouver · Sat, 12 Sept 2026
-- Boat Cruise Summer Series, Boston · Sat, 29 Aug 2026
 
 ## Shares bills with
 
 Tini Gessler, Ely Oaks, Jackie Hollander
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gravagerz/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gravagerz/)*

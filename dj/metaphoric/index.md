@@ -1,6 +1,6 @@
 # metaphoric
 
-metaphoric is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Bunker Minden, Minden on Sat, 21 Nov 2026.
+metaphoric is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Bunker Minden, Minden on Sat, 21 Nov 2026.
 
 metaphoric is a techno and industrial artist based in Germany, with 2 gigs on soundcheck across Dortmund / Essen and Minden. Often billed alongside PALA_. Next up: Bunker Minden, Minden on Sat 21 Nov.
 
@@ -18,4 +18,4 @@ metaphoric is a techno and industrial artist based in Germany, with 2 gigs on so
 
 PALA_
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/metaphoric/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/metaphoric/)*

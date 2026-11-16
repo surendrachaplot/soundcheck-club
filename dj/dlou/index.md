@@ -1,6 +1,6 @@
 # DLOU
 
-DLOU is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Goya Social Club, Madrid on Thu, 26 Nov 2026.
+DLOU is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Goya Social Club, Madrid on Thu, 26 Nov 2026.
 
 DLOU is a tech house and house artist based in Spain, with 23 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Abdon, DJ Tennis and Freddy Bello. Next up: Goya Social Club, Madrid on Thu 26 Nov.
 
@@ -26,4 +26,4 @@ DLOU is a tech house and house artist based in Spain, with 23 gigs on soundcheck
 
 Abdon, DJ Tennis, Freddy Bello
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dlou/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dlou/)*

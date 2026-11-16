@@ -1,6 +1,6 @@
 # Kim Ann Foxman
 
-Kim Ann Foxman is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Paragon, New York City on Sat, 5 Dec 2026.
+Kim Ann Foxman is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Paragon, New York City on Sat, 5 Dec 2026.
 
 Kim Ann Foxman is a house and techno artist based in United States of America, with 159 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Bali and 45 more. Often billed alongside Cora (CN), Shaun J. Wright and DJ TOOL. Next up: Paragon, New York City on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Kim Ann Foxman is a house and techno artist based in United States of America, w
 
 Cora (CN), Shaun J. Wright, DJ TOOL
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kimannfoxman/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kimannfoxman/)*

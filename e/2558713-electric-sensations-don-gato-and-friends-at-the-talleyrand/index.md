@@ -1,6 +1,6 @@
 # Electric Sensations: Don Gato and Friends at The Talleyrand
 
-Electric Sensations: Don Gato and Friends at The Talleyrand on Sat 21 Nov, Manchester. 1 artist: Don Gato. Acid and Disco. See the line-up on soundcheck.
+Electric Sensations: Don Gato and Friends at The Talleyrand on Sat 21 Nov, Manchester. 1 artist: Don Gato. Disco and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

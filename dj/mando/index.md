@@ -1,6 +1,6 @@
 # Mando
 
-Mando is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA - Ghent (multi-venue), Ghent on Fri, 27 Nov 2026.
+Mando is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA - Ghent (multi-venue), Ghent on Fri, 27 Nov 2026.
 
 Mando is a techno and house artist based in Italy, with 21 gigs on soundcheck across Amsterdam, Antwerp, Ghent and Leeds and 3 more. Often billed alongside WASP, Foolishman and Gen Yamada. Next up: TBA - Ghent (multi-venue), Ghent on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Mando is a techno and house artist based in Italy, with 21 gigs on soundcheck ac
 
 WASP, Foolishman, Gen Yamada
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mando/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mando/)*

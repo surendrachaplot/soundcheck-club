@@ -1,6 +1,6 @@
 # Chippy Nonstop
 
-Chippy Nonstop is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Whammy Bar, Auckland on Fri, 20 Nov 2026.
+Chippy Nonstop is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Whammy Bar, Auckland on Fri, 20 Nov 2026.
 
 Chippy Nonstop is a techno and house artist based in Canada, with 183 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 52 more. Often billed alongside Karim Olen Ash, Young Teesh and HVN. Next up: Whammy Bar, Auckland on Fri 20 Nov.
 
@@ -29,4 +29,4 @@ Chippy Nonstop is a techno and house artist based in Canada, with 183 gigs on so
 
 Karim Olen Ash, Young Teesh, HVN (1)
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chippynonstop/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chippynonstop/)*

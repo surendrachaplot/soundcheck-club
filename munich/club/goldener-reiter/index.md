@@ -1,6 +1,6 @@
 # Goldener Reiter
 
-Goldener Reiter is a music venue in Munich with 6 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Goodies with Alba, Toni, Yen" on Fri, 20 Nov 2026.
+Goldener Reiter is a music venue in Munich with 6 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Goodies with Alba, Toni, Yen" on Fri, 20 Nov 2026.
 
 Goldener Reiter is a music venue in Munich listed on soundcheck. 6 upcoming gigs, with line-ups including André Dancekowski, Arninho, die_ley and DJ Business and 2 more. See dates, start times and who's playing. Theklastraße 1 Munich, Germany 80469.
 
@@ -19,4 +19,4 @@ Goldener Reiter is a music venue in Munich listed on soundcheck. 6 upcoming gigs
 
 Theklastraße 1 Munich, Germany 80469, Munich
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/goldener-reiter/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/goldener-reiter/)*

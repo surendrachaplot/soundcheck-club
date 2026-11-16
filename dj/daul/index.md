@@ -1,13 +1,14 @@
 # Daul
 
-Daul is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Modeci, Seoul on Fri, 20 Nov 2026.
+Daul is a House and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Stoked&stoned, Seoul on Mon, 16 Nov 2026.
 
-Daul is a house and hip-hop artist based in South Korea, with 105 gigs on soundcheck across Seoul and Tokyo. Often billed alongside TRUEUNSOL, DJ Wow and Gyusco. Next up: Modeci, Seoul on Fri 20 Nov.
+Daul is a house and hip-hop artist based in South Korea, with 106 gigs on soundcheck across Seoul and Tokyo. Often billed alongside TRUEUNSOL, DJ Wow and Gyusco. Next up: Stoked&stoned, Seoul on Mon 16 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Mon, 16 Nov 2026 | Stoked&stoned | Seoul |
 | Fri, 20 Nov 2026 | Modeci | Seoul |
 
 ## Recently played
@@ -25,4 +26,4 @@ Daul is a house and hip-hop artist based in South Korea, with 105 gigs on soundc
 
 TRUEUNSOL, DJ Wow, Gyusco
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daul/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daul/)*

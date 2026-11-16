@@ -1,6 +1,6 @@
 # IC3
 
-IC3 is a Drum & Bass and Jungle artist with 9 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri, 20 Nov 2026.
+IC3 is a Drum & Bass and Jungle artist with 9 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri, 20 Nov 2026.
 
 IC3 is a drum & bass and jungle artist based in United Kingdom, with 97 gigs on soundcheck across Amsterdam, Birmingham, Bristol and Cardiff and 11 more. Often billed alongside Eksman, Dillinja and DJ Hype. Next up: TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri 20 Nov.
 
@@ -33,4 +33,4 @@ IC3 is a drum & bass and jungle artist based in United Kingdom, with 97 gigs on 
 
 Eksman, Dillinja, DJ Hype
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ic3/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ic3/)*

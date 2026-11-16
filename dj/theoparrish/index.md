@@ -1,14 +1,13 @@
 # Theo Parrish
 
-Theo Parrish is a House and Funk / Soul artist with 8 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Audio SF, San Francisco/Oakland on Sun, 15 Nov 2026.
+Theo Parrish is a House and Funk / Soul artist with 7 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Centre PHI, Montreal on Fri, 20 Nov 2026.
 
-Theo Parrish is a house and funk / soul artist based in United States of America, with 136 gigs on soundcheck across Amsterdam, Antwerp, Bali and Baltimore and 35 more. Often billed alongside Avalon Emerson, Moodymann and Batu. Next up: Audio SF, San Francisco/Oakland on Sun 15 Nov.
+Theo Parrish is a house and funk / soul artist based in United States of America, with 136 gigs on soundcheck across Amsterdam, Antwerp, Bali and Baltimore and 35 more. Often billed alongside Avalon Emerson, Moodymann and Batu. Next up: Centre PHI, Montreal on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 15 Nov 2026 | Audio SF | San Francisco/Oakland |
 | Fri, 20 Nov 2026 | Centre PHI | Montreal |
 | Sat, 21 Nov 2026 | Standard Time | Toronto |
 | Sun, 29 Nov 2026 | Nowadays | New York City |
@@ -19,6 +18,7 @@ Theo Parrish is a house and funk / soul artist based in United States of America
 
 ## Recently played
 
+- Audio SF, San Francisco/Oakland · Sun, 15 Nov 2026
 - TBA, Los Angeles · Fri, 13 Nov 2026
 - Solotech Studios, Los Angeles · Thu, 12 Nov 2026
 - Frankhan Selectist, Istanbul · Sat, 7 Nov 2026
@@ -26,10 +26,9 @@ Theo Parrish is a house and funk / soul artist based in United States of America
 - Lingotto Fiere, Turin · Thu, 29 Oct 2026
 - The White Hotel, Manchester · Fri, 23 Oct 2026
 - La Bellevilloise, Paris · Sat, 17 Oct 2026
-- Empire Polo Club, Palm-springs · Sat, 10 Oct 2026
 
 ## Shares bills with
 
 Avalon Emerson, Moodymann, Batu
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theoparrish/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theoparrish/)*

@@ -1,6 +1,6 @@
 # Artificial DNA
 
-Artificial DNA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Tanzhaus West, Frankfurt on Fri, 20 Nov 2026.
+Artificial DNA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Tanzhaus West, Frankfurt on Fri, 20 Nov 2026.
 
 Artificial DNA is a techno and trance artist based in Germany, with 12 gigs on soundcheck across Berlin, Frankfurt, Leipzig and Stuttgart. Often billed alongside Øscil, Jozh and Ced Healing. Next up: Tanzhaus West, Frankfurt on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Artificial DNA is a techno and trance artist based in Germany, with 12 gigs on s
 
 Øscil, Jozh, Ced Healing
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/artificialdna/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/artificialdna/)*

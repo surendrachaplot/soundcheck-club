@@ -1,14 +1,13 @@
 # Lee Burridge
 
-Lee Burridge is a Deep House and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Savaya Bali, Bali on Sun, 15 Nov 2026.
+Lee Burridge is a Deep House and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Beach Hotel - Byron Bay, Byron-bay on Fri, 20 Nov 2026.
 
-Lee Burridge is a deep house and house artist based in United Kingdom, with 165 gigs on soundcheck across Austin, Bali, Barcelona and Belgrade and 42 more. Often billed alongside Jim Rider, Tim Green and Double Touch. Next up: Savaya Bali, Bali on Sun 15 Nov.
+Lee Burridge is a deep house and house artist based in United Kingdom, with 165 gigs on soundcheck across Austin, Bali, Barcelona and Belgrade and 42 more. Often billed alongside Jim Rider, Tim Green and Double Touch. Next up: Beach Hotel - Byron Bay, Byron Bay on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 15 Nov 2026 | Savaya Bali | Bali |
 | Fri, 20 Nov 2026 | Beach Hotel - Byron Bay | Byron-bay |
 | Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 | Sat, 28 Nov 2026 | The Ivy | Sydney |
@@ -18,6 +17,7 @@ Lee Burridge is a deep house and house artist based in United Kingdom, with 165 
 
 ## Recently played
 
+- Savaya Bali, Bali · Sun, 15 Nov 2026
 - Zumana Bali, Bali · Fri, 13 Nov 2026
 - RASA, Singapore · Sat, 7 Nov 2026
 - RASA, Singapore · Sat, 7 Nov 2026
@@ -25,10 +25,9 @@ Lee Burridge is a deep house and house artist based in United Kingdom, with 165 
 - TBA - Ciudad Universitaria, Belgrano, Buenos Aires · Sat, 17 Oct 2026
 - Parc Jean-Drapeau, Montreal · Mon, 12 Oct 2026
 - UKOKO CLUB, Costa-rica · Sat, 10 Oct 2026
-- Wicked West, San Diego · Sun, 4 Oct 2026
 
 ## Shares bills with
 
 Jim Rider, Tim Green, Double Touch
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leeburridge/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leeburridge/)*

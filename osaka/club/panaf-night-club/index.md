@@ -1,6 +1,6 @@
 # Panaf Night Club
 
-Panaf Night Club is a music venue in Osaka with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. The next is "Black Swan by Maria" on Sat, 26 Dec 2026.
+Panaf Night Club is a music venue in Osaka with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. The next is "Black Swan by Maria" on Sat, 26 Dec 2026.
 
 Panaf Night Club is a music venue in Osaka listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Panaf Night Club is a music venue in Osaka listed on soundcheck. 1 upcoming gig.
 | --- | --- | --- |
 | Sat, 26 Dec 2026 | Black Swan by Maria |  |
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/panaf-night-club/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/panaf-night-club/)*

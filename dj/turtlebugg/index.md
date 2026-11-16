@@ -1,6 +1,6 @@
 # Turtle Bugg
 
-Turtle Bugg is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at TV Lounge, Detroit on Fri, 20 Nov 2026.
+Turtle Bugg is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at TV Lounge, Detroit on Fri, 20 Nov 2026.
 
 Turtle Bugg is a house and techno artist based in United States of America, with 56 gigs on soundcheck across Baltimore, Chicago, Cleveland and Detroit and 3 more. Often billed alongside Shigeto, Savannah G and Kenjiro. Next up: TV Lounge, Detroit on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Turtle Bugg is a house and techno artist based in United States of America, with
 
 Shigeto, Savannah G, Kenjiro
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/turtlebugg/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/turtlebugg/)*

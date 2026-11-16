@@ -1,6 +1,6 @@
 # DJ EZ
 
-DJ EZ is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at The Garden Tisno, Croatia on Thu, 19 Aug 2027.
+DJ EZ is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at The Garden Tisno, Croatia on Thu, 19 Aug 2027.
 
 DJ EZ is a garage and house artist based in United Kingdom, with 111 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Bangkok and 32 more. Often billed alongside Benny Rodrigues, Danny Howard and Sonny Fodera. Next up: The Garden Tisno, Croatia on Thu 19 Aug.
 
@@ -25,4 +25,4 @@ DJ EZ is a garage and house artist based in United Kingdom, with 111 gigs on sou
 
 Benny Rodrigues, Danny Howard, Sonny Fodera
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djez/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djez/)*

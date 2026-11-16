@@ -1,14 +1,13 @@
 # ØTTA
 
-ØTTA is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
+ØTTA is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Studio1111, Berlin on Thu, 19 Nov 2026.
 
-ØTTA is a techno and house artist based in Portugal, with 202 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 71 more. Often billed alongside Nico Moreno, 999999999 and Charlie Sparks. Next up: The Concourse Project, Austin on Fri 13 Nov.
+ØTTA is a techno and house artist based in Portugal, with 202 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 71 more. Often billed alongside Nico Moreno, 999999999 and Charlie Sparks. Next up: Studio1111, Berlin on Thu 19 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | The Concourse Project | Austin |
 | Thu, 19 Nov 2026 | Studio1111 | Berlin |
 | Sat, 21 Nov 2026 | Colour Factory | London |
 | Wed, 25 Nov 2026 | Origin | Los Angeles |
@@ -20,6 +19,7 @@
 | Sat, 12 Dec 2026 | Cieloterra | Rome |
 | Sat, 19 Dec 2026 | Nitsa Club | Barcelona |
 | Thu, 24 Dec 2026 | Mondo | Madrid |
+| Sat, 26 Dec 2026 | Coda | Toronto |
 
 ## Recently played
 
@@ -36,4 +36,4 @@
 
 Nico Moreno, 999999999, Charlie Sparks
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/otta/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/otta/)*

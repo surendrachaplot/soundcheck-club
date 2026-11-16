@@ -1,6 +1,6 @@
 # DDK (1)
 
-DDK (1) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Ankali & Planeta Za, Prague on Fri, 20 Nov 2026.
+DDK (1) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Ankali & Planeta Za, Prague on Fri, 20 Nov 2026.
 
 DDK is a techno and tech house artist based in Czech Republic, with 65 gigs on soundcheck across Berlin, Bratislava, Paris and Prague and 2 more. Often billed alongside zazitech, RADYK and SJ Yellow. Next up: Ankali & Planeta Za, Prague on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ DDK is a techno and tech house artist based in Czech Republic, with 65 gigs on s
 
 zazitech, RADYK, SJ Yellow
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ddk-1/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ddk-1/)*

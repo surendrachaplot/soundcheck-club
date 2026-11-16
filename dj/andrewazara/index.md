@@ -1,6 +1,6 @@
 # Andrew Azara
 
-Andrew Azara is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Signal, New York City on Thu, 19 Nov 2026.
+Andrew Azara is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Signal, New York City on Thu, 19 Nov 2026.
 
 Andrew Azara is a house and minimal artist, with 44 gigs on soundcheck across Amsterdam, Barcelona, Dublin and Ibiza and 10 more. Often billed alongside Nick Curly, Max Haas and Kid Moss. Next up: Signal, New York City on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Andrew Azara is a house and minimal artist, with 44 gigs on soundcheck across Am
 
 Nick Curly, Max Haas, Kid Moss
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewazara/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewazara/)*

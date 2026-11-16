@@ -1,8 +1,8 @@
 # Alexia K.
 
-Alexia K. is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Gridx, Luxembourg on Sat, 21 Nov 2026.
+Alexia K. is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Gridx, Luxembourg on Sat, 21 Nov 2026.
 
-Alexia K. is a techno and acid artist based in Germany, with 11 gigs on soundcheck across Berlin, Düsseldorf, Luxembourg and Münster and 1 more. Often billed alongside Jens Mueller, Kerstin Eden and Ian Crank. Next up: Gridx, Luxembourg on Sat 21 Nov.
+Alexia K. is a techno and acid artist based in Germany, with 11 gigs on soundcheck across Berlin, Düsseldorf, Luxembourg and Münster and 1 more. Often billed alongside Jens Mueller, Kerstin Eden and Tiko. Next up: Gridx, Luxembourg on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Alexia K. is a techno and acid artist based in Germany, with 11 gigs on soundche
 
 ## Shares bills with
 
-Jens Mueller, Kerstin Eden, Ian Crank
+Jens Mueller, Kerstin Eden, Tiko
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexiak/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexiak/)*

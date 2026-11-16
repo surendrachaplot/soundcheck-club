@@ -1,14 +1,13 @@
 # Rana Iravani
 
-Rana Iravani is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Green Room NYC, New York City on Sat, 14 Nov 2026.
+Rana Iravani is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at MAD Radio NYC, New York City on Thu, 19 Nov 2026.
 
-Rana Iravani is a house and tech house artist based in United States of America, with 50 gigs on soundcheck across Dubai, Miami and New York City. Often billed alongside Auphoria, Armii1n and Jack Mulqueen. Next up: Green Room NYC, New York City on Sat 14 Nov.
+Rana Iravani is a house and tech house artist based in United States of America, with 50 gigs on soundcheck across Dubai, Miami and New York City. Often billed alongside Auphoria, Armii1n and Jack Mulqueen. Next up: MAD Radio NYC, New York City on Thu 19 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Green Room NYC | New York City |
 | Thu, 19 Nov 2026 | MAD Radio NYC | New York City |
 | Sat, 28 Nov 2026 | Green Room NYC | New York City |
 | Sat, 5 Dec 2026 | Paraiso Estereo | Miami |
@@ -28,4 +27,4 @@ Rana Iravani is a house and tech house artist based in United States of America,
 
 Auphoria, Armii1n, Jack Mulqueen
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ranairavani/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ranairavani/)*

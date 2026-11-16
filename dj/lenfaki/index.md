@@ -1,6 +1,6 @@
 # Len Faki
 
-Len Faki is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Link, Bologna on Sat, 21 Nov 2026.
+Len Faki is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Link, Bologna on Sat, 21 Nov 2026.
 
 Len Faki is a techno and house artist based in Germany, with 167 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 62 more. Often billed alongside Daria Kolosova, Sam Paganini and Chris Liebing. Next up: Link, Bologna on Sat 21 Nov.
 
@@ -30,4 +30,4 @@ Len Faki is a techno and house artist based in Germany, with 167 gigs on soundch
 
 Daria Kolosova, Sam Paganini, Chris Liebing
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lenfaki/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lenfaki/)*

@@ -1,6 +1,6 @@
 # 6EJOU
 
-6EJOU is a Techno and Industrial artist with 5 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Espacio Riesco Expo Centre, Santiago on Sat, 21 Nov 2026.
+6EJOU is a Techno and Industrial artist with 5 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Espacio Riesco Expo Centre, Santiago on Sat, 21 Nov 2026.
 
 6EJOU is a techno and industrial artist based in France, with 185 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Baden W Rttemberg and 59 more. Often billed alongside Raxeller, KARAH and CARV. Next up: Espacio Riesco Expo Centre, Santiago on Sat 21 Nov.
 
@@ -29,4 +29,4 @@
 
 Raxeller, KARAH, CARV
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/6ejou/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/6ejou/)*

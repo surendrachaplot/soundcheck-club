@@ -1,15 +1,13 @@
 # Simo Cell
 
-Simo Cell is a Bass and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Miscellania, Melbourne on Sat, 14 Nov 2026.
+Simo Cell is a Bass and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at EartH, London on Sat, 28 Nov 2026.
 
-Simo Cell is a bass and techno artist based in France, with 139 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Barcelona and 61 more. Often billed alongside CCL, DjRUM and Abdullah Miniawy. Next up: Miscellania, Melbourne on Sat 14 Nov.
+Simo Cell is a bass and techno artist based in France, with 139 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Barcelona and 61 more. Often billed alongside CCL, DjRUM and Abdullah Miniawy. Next up: EartH, London on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Miscellania | Melbourne |
-| Sun, 15 Nov 2026 | Miscellania | Melbourne |
 | Sat, 28 Nov 2026 | EartH | London |
 | Sat, 28 Nov 2026 | EartH | London |
 | Sat, 12 Dec 2026 | OCZKI | Warsaw |
@@ -17,6 +15,7 @@ Simo Cell is a bass and techno artist based in France, with 139 gigs on soundche
 
 ## Recently played
 
+- Miscellania, Melbourne · Sun, 15 Nov 2026
 - Miscellania, Melbourne · Sat, 14 Nov 2026
 - TBA, Sydney · Thu, 12 Nov 2026
 - Club 77, Sydney · Wed, 11 Nov 2026
@@ -24,10 +23,9 @@ Simo Cell is a bass and techno artist based in France, with 139 gigs on soundche
 - TBA - Mount Adrah, Wiradjuri Country NSW, New-south-wales · Fri, 6 Nov 2026
 - Basic Club, Naples · Sat, 24 Oct 2026
 - Strange Brew, Bristol · Sat, 17 Oct 2026
-- La Station - Gare des Mines, Paris · Sat, 3 Oct 2026
 
 ## Shares bills with
 
 CCL, DjRUM, Abdullah Miniawy
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simocell/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simocell/)*

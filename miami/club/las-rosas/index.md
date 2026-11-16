@@ -1,6 +1,6 @@
 # Las Rosas
 
-Las Rosas is a music venue in Miami with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "MONKS & PUNKS" on Thu, 3 Dec 2026.
+Las Rosas is a music venue in Miami with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "MONKS & PUNKS" on Thu, 3 Dec 2026.
 
 Las Rosas is a music venue in Miami listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 2898 NW 7th Ave, Miami, FL 33127.
 
@@ -15,4 +15,4 @@ Las Rosas is a music venue in Miami listed on soundcheck. 2 upcoming gigs. See d
 
 2898 NW 7th Ave, Miami, FL 33127, Miami
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/las-rosas/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/las-rosas/)*

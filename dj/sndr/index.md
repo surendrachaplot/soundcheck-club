@@ -1,6 +1,6 @@
 # SNDR
 
-SNDR is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at STK 47 WAREHOUSE, Krakow on Fri, 11 Dec 2026.
+SNDR is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at STK 47 WAREHOUSE, Krakow on Fri, 11 Dec 2026.
 
 SNDR is a techno and electronica artist based in Italy, with 3 gigs on soundcheck across Krakow, Naples and Rome. Often billed alongside AEREA, ANNYAH and Bliviøn. Next up: STK 47 WAREHOUSE, Krakow on Fri 11 Dec.
 
@@ -19,4 +19,4 @@ SNDR is a techno and electronica artist based in Italy, with 3 gigs on soundchec
 
 AEREA, ANNYAH, Bliviøn
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sndr/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sndr/)*

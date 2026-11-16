@@ -1,6 +1,6 @@
 # BONNITA
 
-BONNITA is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
+BONNITA is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
 
 BONNITA is a house and electronica artist based in Australia, with 4 gigs on soundcheck across Melbourne. Often billed alongside Gilles Peterson, Marley Swain and RAH. Next up: The Wildlands, Melbourne on Fri 20 Nov.
 
@@ -20,4 +20,4 @@ BONNITA is a house and electronica artist based in Australia, with 4 gigs on sou
 
 Gilles Peterson, Marley Swain, RAH (1)
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bonnita/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bonnita/)*

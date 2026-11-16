@@ -1,6 +1,6 @@
 # Gipsyan
 
-Gipsyan is a Bass and Hard Drum artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Unité.22, Marseille on Sat, 28 Nov 2026.
+Gipsyan is a Bass and Hard Drum artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Unité.22, Marseille on Sat, 28 Nov 2026.
 
 Gipsyan is a bass and hard drum artist based in France, with 3 gigs on soundcheck across Marseille, Paris and South East. Often billed alongside Cardozo, Goldie B and HI ROSIE. Next up: Unité.22, Marseille on Sat 28 Nov.
 
@@ -19,4 +19,4 @@ Gipsyan is a bass and hard drum artist based in France, with 3 gigs on soundchec
 
 Cardozo, Goldie B, HI ROSIE
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gipsyan/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gipsyan/)*

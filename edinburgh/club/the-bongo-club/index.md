@@ -1,6 +1,6 @@
 # The Bongo Club
 
-The Bongo Club is a music venue in Edinburgh with 12 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Origins: n4tee" on Thu, 19 Nov 2026.
+The Bongo Club is a music venue in Edinburgh with 12 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Origins: n4tee" on Thu, 19 Nov 2026.
 
 The Bongo Club is a music venue in Edinburgh listed on soundcheck. 12 upcoming gigs, with line-ups including BORLEY, Dany, Darrell Pulse and Dombrance and 2 more. See dates, start times and who's playing. 66 Cowgate; Edinburgh, EH1 1JX;  Scotland; United Kingdom.
 
@@ -23,4 +23,4 @@ The Bongo Club is a music venue in Edinburgh listed on soundcheck. 12 upcoming g
 
 66 Cowgate; Edinburgh, EH1 1JX;  Scotland; United Kingdom, Edinburgh
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-bongo-club/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-bongo-club/)*

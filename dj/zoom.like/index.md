@@ -1,6 +1,6 @@
 # Zoom.Like
 
-Zoom.Like is a House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at BYD Munich, Munich on Fri, 27 Nov 2026.
+Zoom.Like is a House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at BYD Munich, Munich on Fri, 27 Nov 2026.
 
 Zoom.Like is a house artist based in Germany, with 8 gigs on soundcheck across Berlin, Frankfurt and Munich. Often billed alongside ASK:ME, Alfred Heinrichs and Alignment. Next up: BYD Munich, Munich on Fri 27 Nov.
 
@@ -24,4 +24,4 @@ Zoom.Like is a house artist based in Germany, with 8 gigs on soundcheck across B
 
 ASK:ME, Alfred Heinrichs, Alignment
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zoom.like/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zoom.like/)*

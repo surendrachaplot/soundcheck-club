@@ -1,6 +1,6 @@
 # Silver Fx
 
-Silver Fx is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Ministerium Club, Lisbon on Thu, 10 Dec 2026.
+Silver Fx is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Ministerium Club, Lisbon on Thu, 10 Dec 2026.
 
 Silver Fx is a techno and trance artist based in Portugal, with 5 gigs on soundcheck across Lisbon. Often billed alongside Daddy V, FURAVIA and João Melgueira. Next up: Ministerium Club, Lisbon on Thu 10 Dec.
 
@@ -21,4 +21,4 @@ Silver Fx is a techno and trance artist based in Portugal, with 5 gigs on soundc
 
 Daddy V, FURAVIA, João Melgueira
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/silverfx/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/silverfx/)*

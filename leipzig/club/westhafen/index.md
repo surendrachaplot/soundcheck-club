@@ -1,6 +1,6 @@
 # Westhafen
 
-Westhafen is a music venue in Leipzig with 7 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "HARBOUR Indoor Festival" on Tue, 17 Nov 2026.
+Westhafen is a music venue in Leipzig with 7 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "HARBOUR Indoor Festival" on Tue, 17 Nov 2026.
 
 Westhafen is a music venue in Leipzig listed on soundcheck. 7 upcoming gigs, with line-ups including CAMPA, CAVVØ, David Löhlein and Ezio Aguiar and 2 more. See dates, start times and who's playing. Ernst Keil Straße 17, 04179 Leipzig, Germany.
 
@@ -20,4 +20,4 @@ Westhafen is a music venue in Leipzig listed on soundcheck. 7 upcoming gigs, wit
 
 Ernst Keil Straße 17, 04179 Leipzig, Germany, Leipzig
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/westhafen/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/westhafen/)*

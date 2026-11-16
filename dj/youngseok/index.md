@@ -1,14 +1,14 @@
 # Youngseok
 
-Youngseok is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Stoked&stoned, Seoul on Mon, 9 Nov 2026.
+Youngseok is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Stoked&stoned, Seoul on Mon, 16 Nov 2026.
 
-Youngseok is a house and techno artist based in South Korea, with 99 gigs on soundcheck across Seoul. Often billed alongside Gyusco, Nolove and Mignon. Next up: Stoked&stoned, Seoul on Mon 9 Nov.
+Youngseok is a house and techno artist based in South Korea, with 100 gigs on soundcheck across Seoul. Often billed alongside Gyusco, Nolove and Mignon. Next up: Stoked&stoned, Seoul on Mon 16 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 9 Nov 2026 | Stoked&stoned | Seoul |
+| Mon, 16 Nov 2026 | Stoked&stoned | Seoul |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Youngseok is a house and techno artist based in South Korea, with 99 gigs on sou
 
 Gyusco, Nolove, Mignon (2)
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/youngseok/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/youngseok/)*

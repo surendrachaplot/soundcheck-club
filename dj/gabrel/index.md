@@ -1,6 +1,6 @@
 # GABR:EL
 
-GABR:EL is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Pygmalion, Dublin on Sat, 12 Dec 2026.
+GABR:EL is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Pygmalion, Dublin on Sat, 12 Dec 2026.
 
 GABR:EL is a techno and progressive house artist based in Brazil, with 26 gigs on soundcheck across Dublin. Often billed alongside SOUZAC, Belen G and NAZARENO MAASS. Next up: Pygmalion, Dublin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ GABR:EL is a techno and progressive house artist based in Brazil, with 26 gigs o
 
 SOUZAC, Belen G, NAZARENO MAASS
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrel/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrel/)*

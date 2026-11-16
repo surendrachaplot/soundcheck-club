@@ -1,14 +1,13 @@
 # Kölsch
 
-Kölsch is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Club Hípico de Santiago, Santiago on Sat, 14 Nov 2026.
+Kölsch is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Paradiso, Amsterdam on Thu, 19 Nov 2026.
 
-Kölsch is a techno and house artist based in Denmark, with 170 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 50 more. Often billed alongside Kevin de Vries, Adam Beyer and CamelPhat. Next up: Club Hípico de Santiago, Santiago on Sat 14 Nov.
+Kölsch is a techno and house artist based in Denmark, with 170 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 50 more. Often billed alongside Kevin de Vries, Adam Beyer and CamelPhat. Next up: Paradiso, Amsterdam on Thu 19 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Club Hípico de Santiago | Santiago |
 | Thu, 19 Nov 2026 | Paradiso | Amsterdam |
 | Fri, 20 Nov 2026 | Robert Johnson | Hesse |
 | Fri, 4 Dec 2026 | D! Club | Lausanne |
@@ -30,4 +29,4 @@ Kölsch is a techno and house artist based in Denmark, with 170 gigs on soundche
 
 Kevin de Vries, Adam Beyer, CamelPhat
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kolsch/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kolsch/)*

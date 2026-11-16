@@ -1,6 +1,6 @@
 # Oscil
 
-Oscil is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Bossa Nova Civic Club, New York City on Sun, 22 Nov 2026.
+Oscil is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Bossa Nova Civic Club, New York City on Sun, 22 Nov 2026.
 
 Oscil is a techno and house artist based in United States of America, with 15 gigs on soundcheck across New York City. Often billed alongside alter.world, Uttaraa and Qtea. Next up: Bossa Nova Civic Club, New York City on Sun 22 Nov.
 
@@ -28,4 +28,4 @@ Oscil is a techno and house artist based in United States of America, with 15 gi
 
 alter.world, Uttaraa, Qtea
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oscil/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oscil/)*

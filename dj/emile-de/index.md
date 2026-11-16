@@ -1,6 +1,6 @@
 # Émile
 
-Émile is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Stollen 134, Dortmund / Essen on Fri, 27 Nov 2026.
+Émile is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Stollen 134, Dortmund / Essen on Fri, 27 Nov 2026.
 
 Émile is a techno and trance artist, with 4 gigs on soundcheck across Dortmund / Essen, Paris and Strasbourg. Often billed alongside BassVersteck, Chinau and Kerrosin. Next up: Stollen 134, Dortmund / Essen on Fri 27 Nov.
 
@@ -20,4 +20,4 @@
 
 BassVersteck, Chinau, Kerrosin
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emile-de/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emile-de/)*

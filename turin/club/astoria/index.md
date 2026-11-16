@@ -1,6 +1,6 @@
 # Astoria
 
-Astoria is a music venue in Turin with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Da BOUNCEMENT w/ASTRO" on Sat, 21 Nov 2026.
+Astoria is a music venue in Turin with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Da BOUNCEMENT w/ASTRO" on Sat, 21 Nov 2026.
 
 Astoria is a music venue in Turin listed on soundcheck. 3 upcoming gigs, with line-ups including Delano Legito, Hellson5, Syber and Toru Ikemoto. See dates, start times and who's playing. Via Claudio Luigi Berthollet 13, 10125 Torino (TO), Italy.
 
@@ -16,4 +16,4 @@ Astoria is a music venue in Turin listed on soundcheck. 3 upcoming gigs, with li
 
 Via Claudio Luigi Berthollet 13, 10125 Torino (TO), Italy, Turin
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/turin/club/astoria/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/turin/club/astoria/)*

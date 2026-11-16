@@ -1,6 +1,6 @@
 # Roman Danilo
 
-Roman Danilo is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Macadam, Nantes on Sat, 19 Dec 2026.
+Roman Danilo is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Macadam, Nantes on Sat, 19 Dec 2026.
 
 Roman Danilo is a minimal and house artist, with 8 gigs on soundcheck across Bordeaux, Lyon, Nantes and Paris. Often billed alongside Michelle, Aaron J and Alexis Namur. Next up: Macadam, Nantes on Sat 19 Dec.
 
@@ -24,4 +24,4 @@ Roman Danilo is a minimal and house artist, with 8 gigs on soundcheck across Bor
 
 Michelle, Aaron J, Alexis Namur
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/romandanilo/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/romandanilo/)*

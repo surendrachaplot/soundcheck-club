@@ -1,6 +1,6 @@
 # Mar Monzon
 
-Mar Monzon is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA - Medellin Polo Club, Punta del Este, Uruguay on Sat, 26 Dec 2026.
+Mar Monzon is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA - Medellin Polo Club, Punta del Este, Uruguay on Sat, 26 Dec 2026.
 
 Mar Monzon is a house and tech house artist based in Argentina, with 13 gigs on soundcheck across Buenos Aires and Uruguay. Often billed alongside Lulú Matheou, Manu Oubiña and Pabels. Next up: TBA - Medellin Polo Club, Punta del Este, Uruguay on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Mar Monzon is a house and tech house artist based in Argentina, with 13 gigs on 
 
 Lulú Matheou, Manu Oubiña, Pabels
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marmonzon/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marmonzon/)*

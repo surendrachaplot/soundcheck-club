@@ -1,6 +1,6 @@
 # Baalsaal
 
-Baalsaal is a music venue in Hamburg with 8 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Move to Groove" on Sat, 21 Nov 2026.
+Baalsaal is a music venue in Hamburg with 8 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Move to Groove" on Sat, 21 Nov 2026.
 
 Baalsaal is a music venue in Hamburg listed on soundcheck. 8 upcoming gigs, with line-ups including Andra (DE), dannycookin, FRÆNCIS and JENKA and 2 more. See dates, start times and who's playing. Reeperbahn 25; 20359 Hamburg; Germany.
 
@@ -21,4 +21,4 @@ Baalsaal is a music venue in Hamburg listed on soundcheck. 8 upcoming gigs, with
 
 Reeperbahn 25; 20359 Hamburg; Germany, Hamburg
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/baalsaal/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/baalsaal/)*

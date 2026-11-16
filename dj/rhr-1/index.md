@@ -1,6 +1,6 @@
 # RHR
 
-RHR is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 21 Nov 2026.
+RHR is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 21 Nov 2026.
 
 RHR is a techno and house artist based in Brazil, with 138 gigs on soundcheck across Amsterdam, Athens, Atlanta and Bangkok and 45 more. Often billed alongside Cashu, Verraco and Nick León. Next up: Depot Mayfield, Manchester on Sat 21 Nov.
 
@@ -30,4 +30,4 @@ RHR is a techno and house artist based in Brazil, with 138 gigs on soundcheck ac
 
 Cashu, Verraco, Nick León
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rhr-1/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rhr-1/)*

@@ -1,18 +1,17 @@
 # Jungla London
 
-Jungla London is a music venue in London with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "HOUSE OF JUNGLA Winter Vibes" on Sat, 7 Nov 2026.
+Jungla London is a music venue in London with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. The next is "ITC Records presents AWAKEN, with Elliot Moriarty, Arterapsy, Harry Wilson and Simon Shehata" on Fri, 22 Jan 2027.
 
-Jungla London is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Ale Grooves, HAIG and Jaden Pace. See dates, start times and who's playing. 22 Inverness St, London NW1 7HJ.
+Jungla London is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Arterapsy, Elliot Moriarty, Harry Wilson and Simon Shehata. See dates, start times and who's playing. 22 Inverness St, London NW1 7HJ.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | HOUSE OF JUNGLA Winter Vibes | Ale Grooves, HAIG, Jaden Pace |
-| Sat, 7 Nov 2026 | HOUSE OF JUNGLA Winter Vibes | Ale Grooves, HAIG, Jaden Pace |
+| Fri, 22 Jan 2027 | ITC Records presents AWAKEN, with Elliot Moriarty, Arterapsy, Harry Wilson and Simon Shehata | Arterapsy, Elliot Moriarty, Harry Wilson, Simon Shehata |
 
 ## Address
 
 22 Inverness St, London NW1 7HJ, London
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/jungla-london/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/jungla-london/)*

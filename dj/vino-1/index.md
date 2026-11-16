@@ -1,6 +1,6 @@
 # Vino (1)
 
-Vino (1) is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Secret Grove, Portland on Fri, 27 Nov 2026.
+Vino (1) is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Secret Grove, Portland on Fri, 27 Nov 2026.
 
 Vino is a house and progressive house artist based in United States of America, with 5 gigs on soundcheck across Portland and Tokyo. Often billed alongside Conures (DJ Tokunaga), Kamekawa and 2bnsn. Next up: Secret Grove, Portland on Fri 27 Nov.
 
@@ -21,4 +21,4 @@ Vino is a house and progressive house artist based in United States of America, 
 
 Conures (DJ Tokunaga), Kamekawa, 2bnsn
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vino-1/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vino-1/)*

@@ -1,6 +1,6 @@
 # Delove
 
-Delove is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Den Anden Side, Copenhagen on Fri, 20 Nov 2026.
+Delove is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Den Anden Side, Copenhagen on Fri, 20 Nov 2026.
 
 Delove is a progressive house and house artist based in Denmark, with 7 gigs on soundcheck across Copenhagen. Often billed alongside Baltza, DJ Woo Girl and Dgeral. Next up: Den Anden Side, Copenhagen on Fri 20 Nov.
 
@@ -23,4 +23,4 @@ Delove is a progressive house and house artist based in Denmark, with 7 gigs on 
 
 Baltza, DJ Woo Girl, Dgeral
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/delove/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/delove/)*

@@ -1,6 +1,6 @@
 # WEEKEND SELECTERS at BAR Inc
 
-WEEKEND SELECTERS at BAR Inc on Sat 19 Dec, Osaka. 2 artists: An-i and Oviduct. Techno and Minimal. See the line-up on soundcheck.
+WEEKEND SELECTERS at BAR Inc on Sat 19 Dec, Osaka. 3 artists: An-i, Oviduct and Shingo. Techno and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ WEEKEND SELECTERS at BAR Inc on Sat 19 Dec, Osaka. 2 artists: An-i and Oviduct. 
 
 - An-i
 - Oviduct
+- Shingo
 
 *Source: [soundcheck](https://soundcheck.club/e/2575917-weekend-selecters-at-bar-inc/)*

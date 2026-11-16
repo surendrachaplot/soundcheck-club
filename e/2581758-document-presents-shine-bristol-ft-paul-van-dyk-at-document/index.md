@@ -1,6 +1,6 @@
 # Document presents: SHINE Bristol Ft. Paul Van Dyk at Document
 
-Document presents: SHINE Bristol Ft. Paul Van Dyk on Sat 13 Feb, Bristol. 3 artists: Cosmic Gate, John O'Callaghan and Paul Van Dyk. See the line-up on soundcheck.
+Document presents: SHINE Bristol Ft. Paul Van Dyk on Sat 13 Feb, Bristol. 3 artists: Cosmic Gate, John O'Callaghan and Paul Van Dyk. Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

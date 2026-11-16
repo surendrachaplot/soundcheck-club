@@ -1,6 +1,6 @@
 # Fundbureau
 
-Fundbureau is a music venue in Hamburg with 7 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Marius Lehnert // Nikiija // LESENTI KOLLEKTIV" on Fri, 20 Nov 2026.
+Fundbureau is a music venue in Hamburg with 7 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Marius Lehnert // Nikiija // LESENTI KOLLEKTIV" on Fri, 20 Nov 2026.
 
 Fundbureau is a music venue in Hamburg listed on soundcheck. 7 upcoming gigs, with line-ups including Baime, Convinzed, Eightball and ELOISA and 2 more. See dates, start times and who's playing. Altländer Str. 1120095 Hamburg, Germany.
 
@@ -20,4 +20,4 @@ Fundbureau is a music venue in Hamburg listed on soundcheck. 7 upcoming gigs, wi
 
 Altländer Str. 1120095 Hamburg, Germany, Hamburg
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/fundbureau/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/fundbureau/)*

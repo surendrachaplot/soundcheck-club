@@ -1,6 +1,6 @@
 # Drao
 
-Drao is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at control, Bucharest on Thu, 19 Nov 2026.
+Drao is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at control, Bucharest on Thu, 19 Nov 2026.
 
 Drao is a bass and techno artist based in Romania, with 7 gigs on soundcheck across Bucharest. Often billed alongside ANIN, Gheordu and Low Freq. Next up: control, Bucharest on Thu 19 Nov.
 
@@ -23,4 +23,4 @@ Drao is a bass and techno artist based in Romania, with 7 gigs on soundcheck acr
 
 ANIN, Gheordu, Low Freq
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drao/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drao/)*

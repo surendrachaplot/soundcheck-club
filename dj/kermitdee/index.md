@@ -1,6 +1,6 @@
 # Kermit Dee
 
-Kermit Dee is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Poull, Paris on Fri, 20 Nov 2026.
+Kermit Dee is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Poull, Paris on Fri, 20 Nov 2026.
 
 Kermit Dee is a techno and deep house artist based in France, with 7 gigs on soundcheck across Paris. Often billed alongside François Halard, Inès MBRK and Benedetta. Next up: Poull, Paris on Fri 20 Nov.
 
@@ -23,4 +23,4 @@ Kermit Dee is a techno and deep house artist based in France, with 7 gigs on sou
 
 François Halard, Inès MBRK, Benedetta
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kermitdee/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kermitdee/)*

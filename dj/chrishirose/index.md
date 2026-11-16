@@ -1,6 +1,6 @@
 # Chris Hirose
 
-Chris Hirose is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Fridas Pier, Stuttgart on Sat, 16 Jan 2027.
+Chris Hirose is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Fridas Pier, Stuttgart on Sat, 16 Jan 2027.
 
 Chris Hirose is a techno and house artist based in Peru, with 16 gigs on soundcheck across Mannheim and Stuttgart. Often billed alongside Pan-Pot, Bjørnson and Alyne. Next up: Fridas Pier, Stuttgart on Sat 16 Jan.
 
@@ -25,4 +25,4 @@ Chris Hirose is a techno and house artist based in Peru, with 16 gigs on soundch
 
 Pan-Pot, Bjørnson, Alyne
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrishirose/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrishirose/)*

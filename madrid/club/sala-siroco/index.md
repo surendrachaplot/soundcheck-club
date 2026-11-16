@@ -1,14 +1,13 @@
 # Sala Siroco
 
-Sala Siroco is a music venue in Madrid with 7 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "MINCODE x ABYSS Techno Club" on Sun, 15 Nov 2026.
+Sala Siroco is a music venue in Madrid with 6 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "SOMØX invites SYNTH" on Wed, 18 Nov 2026.
 
-Sala Siroco is a music venue in Madrid listed on soundcheck. 7 upcoming gigs, with line-ups including ADRI.G, Andrés Ov, Belkan and Blood of Aza and 2 more. See dates, start times and who's playing. Calle San Dimas, 3, 28015 Madrid, Spain.
+Sala Siroco is a music venue in Madrid listed on soundcheck. 6 upcoming gigs, with line-ups including ADRI.G, Andrés Ov, Belkan and Blood of Aza and 2 more. See dates, start times and who's playing. Calle San Dimas, 3, 28015 Madrid, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 15 Nov 2026 | MINCODE x ABYSS Techno Club | ADRI.G, Nicolas Cetina. |
 | Wed, 18 Nov 2026 | SOMØX invites SYNTH | Andrés Ov, Xcire |
 | Sat, 21 Nov 2026 | 「lotura」presenta Blood of Aza + Cerescente + Klau + Ruidoso Paisaje takeover | Blood of Aza, Cerescente, Gael (2), KLAU (6), Muriel |
 | Thu, 26 Nov 2026 | GOMZ - Sala Siroco |  |
@@ -20,4 +19,4 @@ Sala Siroco is a music venue in Madrid listed on soundcheck. 7 upcoming gigs, wi
 
 Calle San Dimas, 3, 28015 Madrid, Spain, Madrid
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-siroco/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-siroco/)*

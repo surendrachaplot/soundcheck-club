@@ -1,6 +1,6 @@
 # Chittom
 
-Chittom is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Good Room, New York City on Sun, 22 Nov 2026.
+Chittom is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Good Room, New York City on Sun, 22 Nov 2026.
 
 Chittom is a disco and house artist based in United States of America, with 4 gigs on soundcheck across New York City. Often billed alongside Timo Lee, Angélique and Carozilla. Next up: Good Room, New York City on Sun 22 Nov.
 
@@ -20,4 +20,4 @@ Chittom is a disco and house artist based in United States of America, with 4 gi
 
 Timo Lee, Angélique, Carozilla
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chittom/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chittom/)*

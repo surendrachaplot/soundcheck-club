@@ -1,6 +1,6 @@
 # Mitch Elliott
 
-Mitch Elliott is a Noise and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Club Daphnia, Osaka on Fri, 20 Nov 2026.
+Mitch Elliott is a Noise and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Club Daphnia, Osaka on Fri, 20 Nov 2026.
 
 Mitch Elliott is a noise and experimental artist based in Australia, with 5 gigs on soundcheck across Hanoi, Osaka, Sydney and Tokyo. Often billed alongside Aspara, Lucas Abela and Manticora. Next up: Club Daphnia, Osaka on Fri 20 Nov.
 
@@ -21,4 +21,4 @@ Mitch Elliott is a noise and experimental artist based in Australia, with 5 gigs
 
 Aspara, Lucas Abela, Manticora
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mitchelliott/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mitchelliott/)*

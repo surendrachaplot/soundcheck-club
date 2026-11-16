@@ -1,6 +1,6 @@
 # Void Club
 
-Void Club is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Lucid Dreaming - 15 Years Anniversary with Seba (SE)" on Fri, 20 Nov 2026.
+Void Club is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Lucid Dreaming - 15 Years Anniversary with Seba (SE)" on Fri, 20 Nov 2026.
 
 Void Club is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line-ups including AAguilAA, Abriss Andrej, Alex Pastore and Anna Hoeber and 2 more. See dates, start times and who's playing. Wiesenweg 5-9, 10365.
 
@@ -23,4 +23,4 @@ Void Club is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, wit
 
 Wiesenweg 5-9, 10365, Berlin
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*

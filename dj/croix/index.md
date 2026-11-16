@@ -1,6 +1,6 @@
 # Croix
 
-Croix is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at L'Ostra Club, East on Sat, 21 Nov 2026.
+Croix is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at L'Ostra Club, East on Sat, 21 Nov 2026.
 
 Croix is an electronic artist based in France, with 2 gigs on soundcheck across East and Freiburg. Often billed alongside AKA AKA, AVAION and Adrian Mills. Next up: L'Ostra Club, East on Sat 21 Nov.
 
@@ -18,4 +18,4 @@ Croix is an electronic artist based in France, with 2 gigs on soundcheck across 
 
 AKA AKA, AVAION, Adrian Mills
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/croix/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/croix/)*

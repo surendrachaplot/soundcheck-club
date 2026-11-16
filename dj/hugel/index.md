@@ -1,14 +1,13 @@
 # Hugel
 
-Hugel is a House and Afro House artist with 6 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Club Hípico de Santiago, Santiago on Sat, 14 Nov 2026.
+Hugel is a House and Afro House artist with 5 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Olympic Stadium, Berlin on Fri, 20 Nov 2026.
 
-Hugel is a house and afro house artist based in France, with 156 gigs on soundcheck across Amsterdam, Athens, Atlanta and Auckland and 48 more. Often billed alongside Miss Monique, Juany Bravo and FISHER. Next up: Club Hípico de Santiago, Santiago on Sat 14 Nov.
+Hugel is a house and afro house artist based in France, with 156 gigs on soundcheck across Amsterdam, Athens, Atlanta and Auckland and 48 more. Often billed alongside Miss Monique, Juany Bravo and FISHER. Next up: Olympic Stadium, Berlin on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Club Hípico de Santiago | Santiago |
 | Fri, 20 Nov 2026 | Olympic Stadium | Berlin |
 | Fri, 20 Nov 2026 | TBA | Buenos Aires |
 | Fri, 27 Nov 2026 | Warehouse ZRH | Zurich |
@@ -30,4 +29,4 @@ Hugel is a house and afro house artist based in France, with 156 gigs on soundch
 
 Miss Monique, Juany Bravo, FISHER
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hugel/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hugel/)*

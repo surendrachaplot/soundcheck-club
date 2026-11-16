@@ -1,6 +1,6 @@
 # CIS (3)
 
-CIS (3) is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at BASIS, Utrecht on Sat, 6 Mar 2027.
+CIS (3) is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at BASIS, Utrecht on Sat, 6 Mar 2027.
 
 CIS is a house and trance artist based in Netherlands, with 5 gigs on soundcheck across Amsterdam, London and Utrecht. Often billed alongside SUPERSTRINGS, Eva Vrijdag and AUTOFLOWER. Next up: BASIS, Utrecht on Sat 6 Mar.
 
@@ -21,4 +21,4 @@ CIS is a house and trance artist based in Netherlands, with 5 gigs on soundcheck
 
 SUPERSTRINGS, Eva Vrijdag, AUTOFLOWER
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cis-3/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cis-3/)*

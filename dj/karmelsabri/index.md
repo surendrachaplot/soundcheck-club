@@ -1,6 +1,6 @@
 # Karmel Sabri
 
-Karmel Sabri is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at dubble, Amsterdam on Sat, 21 Nov 2026.
+Karmel Sabri is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at dubble, Amsterdam on Sat, 21 Nov 2026.
 
 Karmel Sabri is an electronic artist based in Netherlands, with 2 gigs on soundcheck across Amsterdam. Often billed alongside Cathy Grogan, MISA and Mo Wrights. Next up: dubble, Amsterdam on Sat 21 Nov.
 
@@ -18,4 +18,4 @@ Karmel Sabri is an electronic artist based in Netherlands, with 2 gigs on soundc
 
 Cathy Grogan, MISA, Mo Wrights
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karmelsabri/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karmelsabri/)*

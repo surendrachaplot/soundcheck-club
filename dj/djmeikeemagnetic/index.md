@@ -1,13 +1,14 @@
 # DJ Meikee Magnetic
 
-DJ Meikee Magnetic is a Italo Disco and Vaporwave artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Rickshaw Stop, San Francisco/Oakland on Fri, 8 Jan 2027.
+DJ Meikee Magnetic is a Disco and Italo Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Bella, San Francisco/Oakland on Thu, 31 Dec 2026.
 
-DJ Meikee Magnetic is an italo disco and vaporwave artist based in United States of America, with 2 gigs on soundcheck across San Francisco/Oakland. Often billed alongside DJ PlayStation, Infinite Jess and Mere Notilde. Next up: Rickshaw Stop, San Francisco/Oakland on Fri 8 Jan.
+DJ Meikee Magnetic is a disco and italo disco artist based in United States of America, with 3 gigs on soundcheck across San Francisco/Oakland. Often billed alongside DJ PlayStation, Infinite Jess and Mere Notilde. Next up: Bella, San Francisco/Oakland on Thu 31 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 31 Dec 2026 | Bella | San Francisco/Oakland |
 | Fri, 8 Jan 2027 | Rickshaw Stop | San Francisco/Oakland |
 
 ## Recently played
@@ -18,4 +19,4 @@ DJ Meikee Magnetic is an italo disco and vaporwave artist based in United States
 
 DJ PlayStation, Infinite Jess, Mere Notilde
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmeikeemagnetic/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmeikeemagnetic/)*

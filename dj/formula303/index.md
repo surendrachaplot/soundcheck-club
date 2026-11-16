@@ -1,6 +1,6 @@
 # formula303
 
-formula303 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Fabrique im Gängeviertel, Hamburg on Wed, 18 Nov 2026.
+formula303 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Fabrique im Gängeviertel, Hamburg on Wed, 18 Nov 2026.
 
 formula303 is a techno and trance artist based in Germany, with 25 gigs on soundcheck across Berlin, Hamburg and Hannover. Often billed alongside rodmor, DJ Hellfire and Jesse (DE). Next up: Fabrique im Gängeviertel, Hamburg on Wed 18 Nov.
 
@@ -25,4 +25,4 @@ formula303 is a techno and trance artist based in Germany, with 25 gigs on sound
 
 rodmor, DJ Hellfire, Jesse (DE)
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/formula303/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/formula303/)*

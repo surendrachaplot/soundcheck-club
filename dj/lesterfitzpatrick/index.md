@@ -1,14 +1,13 @@
 # Lester Fitzpatrick
 
-Lester Fitzpatrick is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at TBA, Chicago on Sat, 14 Nov 2026.
+Lester Fitzpatrick is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at TBA, Los Angeles on Wed, 25 Nov 2026.
 
-Lester Fitzpatrick is a techno and house artist based in United States of America, with 18 gigs on soundcheck across Chicago, Denver, Detroit and Los Angeles and 2 more. Often billed alongside Duke Shin, Andy Stroble and Jerome Baker. Next up: TBA, Chicago on Sat 14 Nov.
+Lester Fitzpatrick is a techno and house artist based in United States of America, with 18 gigs on soundcheck across Chicago, Denver, Detroit and Los Angeles and 2 more. Often billed alongside Duke Shin, Andy Stroble and Jerome Baker. Next up: TBA, Los Angeles on Wed 25 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | TBA | Chicago |
 | Wed, 25 Nov 2026 | TBA | Los Angeles |
 
 ## Recently played
@@ -26,4 +25,4 @@ Lester Fitzpatrick is a techno and house artist based in United States of Americ
 
 Duke Shin, Andy Stroble, Jerome Baker
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lesterfitzpatrick/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lesterfitzpatrick/)*

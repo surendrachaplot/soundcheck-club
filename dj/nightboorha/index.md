@@ -1,6 +1,6 @@
 # NIGHT BOORHA
 
-NIGHT BOORHA is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Aldea Club, Bratislava on Fri, 18 Dec 2026.
+NIGHT BOORHA is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Aldea Club, Bratislava on Fri, 18 Dec 2026.
 
 NIGHT BOORHA is a trance and techno artist based in Slovakia, with 8 gigs on soundcheck across Bratislava. Often billed alongside Sancta, DJ HDGDL and DJ Hdgdl. Next up: Aldea Club, Bratislava on Fri 18 Dec.
 
@@ -24,4 +24,4 @@ NIGHT BOORHA is a trance and techno artist based in Slovakia, with 8 gigs on sou
 
 Sancta, DJ HDGDL, DJ Hdgdl (2)
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nightboorha/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nightboorha/)*

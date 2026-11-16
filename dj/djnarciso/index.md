@@ -1,6 +1,6 @@
 # DJ Narciso
 
-DJ Narciso is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Salon des Amateurs, Düsseldorf on Fri, 27 Nov 2026.
+DJ Narciso is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Salon des Amateurs, Düsseldorf on Fri, 27 Nov 2026.
 
 DJ Narciso is a techno and club artist based in Portugal, with 43 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 12 more. Often billed alongside DJ Lycox, DJ Marfox and DJ Firmeza. Next up: Salon des Amateurs, Düsseldorf on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ DJ Narciso is a techno and club artist based in Portugal, with 43 gigs on soundc
 
 DJ Lycox, DJ Marfox, DJ Firmeza
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djnarciso/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djnarciso/)*

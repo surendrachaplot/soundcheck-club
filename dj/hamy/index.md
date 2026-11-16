@@ -1,6 +1,6 @@
 # HAMY
 
-HAMY is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Tresor / Globus, Berlin on Fri, 4 Dec 2026.
+HAMY is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Tresor / Globus, Berlin on Fri, 4 Dec 2026.
 
 HAMY is a techno and house artist based in Germany, with 62 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 10 more. Often billed alongside ENNIO, Faerber and N.R.M. Next up: Tresor / Globus, Berlin on Fri 4 Dec.
 
@@ -27,4 +27,4 @@ HAMY is a techno and house artist based in Germany, with 62 gigs on soundcheck a
 
 ENNIO, Faerber, N.R.M
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hamy/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hamy/)*

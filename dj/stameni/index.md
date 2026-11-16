@@ -1,8 +1,8 @@
 # Stameni
 
-Stameni is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Kult, Belgrade on Fri, 20 Nov 2026.
+Stameni is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at Kult, Belgrade on Fri, 20 Nov 2026.
 
-Stameni is a techno and house artist based in Serbia, with 22 gigs on soundcheck across Belgrade, Ljubljana and Sofia. Often billed alongside laccotti, Asarri and Moraitov. Next up: Kult, Belgrade on Fri 20 Nov.
+Stameni is a techno and house artist based in Serbia, with 23 gigs on soundcheck across Belgrade, Ljubljana and Sofia. Often billed alongside laccotti, Asarri and Moraitov. Next up: Kult, Belgrade on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Stameni is a techno and house artist based in Serbia, with 22 gigs on soundcheck
 | Fri, 20 Nov 2026 | Kult | Belgrade |
 | Sat, 21 Nov 2026 | Klub K4 | Ljubljana |
 | Fri, 4 Dec 2026 | Drugstore Beograd | Belgrade |
+| Fri, 15 Jan 2027 | Yalta Club | Sofia |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Stameni is a techno and house artist based in Serbia, with 22 gigs on soundcheck
 
 laccotti, Asarri, Moraitov
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stameni/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stameni/)*

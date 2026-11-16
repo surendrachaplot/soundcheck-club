@@ -1,8 +1,8 @@
 # Sidney & Matilda
 
-Sidney & Matilda is a music venue in Sheffield with 11 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "SolidariTEE Sounds" on Thu, 19 Nov 2026.
+Sidney & Matilda is a music venue in Sheffield with 12 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "SolidariTEE Sounds" on Thu, 19 Nov 2026.
 
-Sidney & Matilda is a music venue in Sheffield listed on soundcheck. 11 upcoming gigs, with line-ups including Addison Groove, Crazy P, Diverge and DJ Hazard and 2 more. See dates, start times and who's playing. Rivelin Works, 46B Sidney St, Sheffield S1 4RH, United Kingdom.
+Sidney & Matilda is a music venue in Sheffield listed on soundcheck. 12 upcoming gigs, with line-ups including Addison Groove, Crazy P, Diverge and DJ Hazard and 2 more. See dates, start times and who's playing. Rivelin Works, 46B Sidney St, Sheffield S1 4RH, United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Sidney & Matilda is a music venue in Sheffield listed on soundcheck. 11 upcoming
 
 Rivelin Works, 46B Sidney St, Sheffield S1 4RH, United Kingdom, Sheffield
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/sidney-matilda/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/sidney-matilda/)*

@@ -1,6 +1,6 @@
 # kent
 
-kent is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Koenji Cave, Tokyo on Sat, 21 Nov 2026.
+kent is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Koenji Cave, Tokyo on Sat, 21 Nov 2026.
 
 kent is a techno and club artist based in Armenia, with 2 gigs on soundcheck across Tokyo. Often billed alongside FUJI, Lemi and Miki. Next up: Koenji Cave, Tokyo on Sat 21 Nov.
 
@@ -18,4 +18,4 @@ kent is a techno and club artist based in Armenia, with 2 gigs on soundcheck acr
 
 FUJI (3), Lemi, Miki
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kent/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kent/)*

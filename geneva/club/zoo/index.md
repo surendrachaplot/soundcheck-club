@@ -1,6 +1,6 @@
 # Zoo
 
-Zoo is a music venue in Geneva with 6 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "CURATED: Ignez [Somov] • Somniac One • La Biche [VJ Hexos]" on Fri, 20 Nov 2026.
+Zoo is a music venue in Geneva with 6 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "CURATED: Ignez [Somov] • Somniac One • La Biche [VJ Hexos]" on Fri, 20 Nov 2026.
 
 Zoo is a music venue in Geneva listed on soundcheck. 6 upcoming gigs, with line-ups including Alex Nantaya, Antigone, BAUGRUPPE90 and Buds Buzzy and 2 more. See dates, start times and who's playing. Place des Volontaires 4; 1204, Genève; Switzerland.
 
@@ -19,4 +19,4 @@ Zoo is a music venue in Geneva listed on soundcheck. 6 upcoming gigs, with line-
 
 Place des Volontaires 4; 1204, Genève; Switzerland, Geneva
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/zoo/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/zoo/)*

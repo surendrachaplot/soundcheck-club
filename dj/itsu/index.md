@@ -1,6 +1,6 @@
 # ITSU
 
-ITSU is a Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
+ITSU is a Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
 
 ITSU is an experimental artist, with 2 gigs on soundcheck across Seoul and Thailand. Often billed alongside Afrodite, Alex Albrecht and Bins. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
 
@@ -18,4 +18,4 @@ ITSU is an experimental artist, with 2 gigs on soundcheck across Seoul and Thail
 
 Afrodite (2), Alex Albrecht, Bins
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/itsu/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/itsu/)*

@@ -1,6 +1,6 @@
 # Unfunk
 
-Unfunk is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Promenaden Eck, Berlin on Thu, 19 Nov 2026.
+Unfunk is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Promenaden Eck, Berlin on Thu, 19 Nov 2026.
 
 Unfunk is a house and electro artist based in Germany, with 3 gigs on soundcheck across Berlin. Often billed alongside James Love, PsyCare and Ric Piccolo. Next up: Promenaden Eck, Berlin on Thu 19 Nov.
 
@@ -19,4 +19,4 @@ Unfunk is a house and electro artist based in Germany, with 3 gigs on soundcheck
 
 James Love, PsyCare, Ric Piccolo
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/unfunk-de/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/unfunk-de/)*

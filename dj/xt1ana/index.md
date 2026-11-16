@@ -1,6 +1,6 @@
 # XT1ANA
 
-XT1ANA is a Club and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at UNLOCKED, London on Sat, 21 Nov 2026.
+XT1ANA is a Club and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at UNLOCKED, London on Sat, 21 Nov 2026.
 
 XT1ANA is a club and hip-hop artist based in United Kingdom, with 27 gigs on soundcheck across Brussels and London. Often billed alongside BBSHKALES, Jean Blaire and SALD3E. Next up: UNLOCKED, London on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ XT1ANA is a club and hip-hop artist based in United Kingdom, with 27 gigs on sou
 
 BBSHKALES, Jean Blaire, SALD3E
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xt1ana/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xt1ana/)*

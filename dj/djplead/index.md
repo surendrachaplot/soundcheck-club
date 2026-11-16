@@ -1,14 +1,13 @@
 # DJ Plead
 
-DJ Plead is a Techno and Bass artist with 5 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at Miscellania, Melbourne on Sun, 15 Nov 2026.
+DJ Plead is a Techno and Bass artist with 4 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
 
-DJ Plead is a techno and bass artist based in Australia, with 156 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Basel and 48 more. Often billed alongside rRoxymore, Azu Tiwaline and livwutang. Next up: Miscellania, Melbourne on Sun 15 Nov.
+DJ Plead is a techno and bass artist based in Australia, with 156 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Basel and 48 more. Often billed alongside rRoxymore, Azu Tiwaline and livwutang. Next up: The Wildlands, Melbourne on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 15 Nov 2026 | Miscellania | Melbourne |
 | Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 | Sat, 5 Dec 2026 | Club 77 | Sydney |
 | Fri, 26 Mar 2027 | TBA - Djargurd Wurrong Country (Victoria, Australia) | Melbourne |
@@ -16,6 +15,7 @@ DJ Plead is a techno and bass artist based in Australia, with 156 gigs on soundc
 
 ## Recently played
 
+- Miscellania, Melbourne · Sun, 15 Nov 2026
 - TivoliVredenburg, Utrecht · Thu, 5 Nov 2026
 - TBA - Secret Location (near Frankfurter Allee), Berlin · Wed, 4 Nov 2026
 - Centro Cultural Conde Duque, Madrid · Fri, 30 Oct 2026
@@ -23,10 +23,9 @@ DJ Plead is a techno and bass artist based in Australia, with 156 gigs on soundc
 - The White Hotel, Manchester · Sat, 17 Oct 2026
 - Hotel Forum, Krakow · Fri, 9 Oct 2026
 - Hotel Forum, Krakow · Thu, 8 Oct 2026
-- TBA - Madrid 15, Colonia Tabacalera, CDMX, Mexico City · Sat, 3 Oct 2026
 
 ## Shares bills with
 
 rRoxymore, Azu Tiwaline, livwutang
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djplead/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djplead/)*

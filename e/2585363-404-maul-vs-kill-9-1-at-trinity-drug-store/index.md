@@ -1,10 +1,10 @@
 # 404: Maul vs KILL 9 1 at Trinity Drug Store
 
-404: Maul vs KILL 9 1 at Trinity Drug Store on Sat 21 Nov, Toronto. 2 artists: KILL 9 1 and Maul. Techno and Hardcore. See the line-up on soundcheck.
+404: Maul vs KILL 9 1 at Trinity Drug Store on Sun 15 Nov, Toronto. 2 artists: KILL 9 1 and Maul. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 21 Nov 2026 |
+| Date | Sun, 15 Nov 2026 |
 | Venue | Trinity Drug Store |
 | City | Toronto |
 

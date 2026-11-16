@@ -1,6 +1,6 @@
 # Docks
 
-Docks is a music venue in Hamburg with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. The next is "Vertile - Everything Changes" on Fri, 27 Nov 2026.
+Docks is a music venue in Hamburg with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. The next is "Vertile - Everything Changes" on Fri, 27 Nov 2026.
 
 Docks is a music venue in Hamburg listed on soundcheck. 3 upcoming gigs, with line-ups including KLOFAMA and Lola Cerise. See dates, start times and who's playing. Spielbudenplatz 19, 20359 Hamburg.
 
@@ -16,4 +16,4 @@ Docks is a music venue in Hamburg listed on soundcheck. 3 upcoming gigs, with li
 
 Spielbudenplatz 19, 20359 Hamburg, Hamburg
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/docks/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/docks/)*

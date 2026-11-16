@@ -1,6 +1,6 @@
 # Mary Lake
 
-Mary Lake is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 15 Nov 2026. Next at RSO.BERLIN, Berlin on Fri, 20 Nov 2026.
+Mary Lake is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 16 Nov 2026. Next at RSO.BERLIN, Berlin on Fri, 20 Nov 2026.
 
 Mary Lake is a techno and house artist based in Netherlands, with 145 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 30 more. Often billed alongside TWIENA, Afra and Fafi Abdel Nour. Next up: RSO.BERLIN, Berlin on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ Mary Lake is a techno and house artist based in Netherlands, with 145 gigs on so
 
 TWIENA, Afra, Fafi Abdel Nour
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marylake/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marylake/)*

@@ -1,6 +1,6 @@
 # Sárqány
 
-Sárqány is a music venue in Budapest with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. The next is "Blin Blin - Latin Queer Fiesta" on Sat, 19 Dec 2026.
+Sárqány is a music venue in Budapest with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. The next is "Blin Blin - Latin Queer Fiesta" on Sat, 19 Dec 2026.
 
 Sárqány is a music venue in Budapest listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Sárqány is a music venue in Budapest listed on soundcheck. 1 upcoming gig. See
 | --- | --- | --- |
 | Sat, 19 Dec 2026 | Blin Blin - Latin Queer Fiesta |  |
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/s-rq-ny/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/s-rq-ny/)*

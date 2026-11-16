@@ -1,6 +1,6 @@
 # Happy Sticks(mas) at Soup
 
-Happy Sticks(mas) at Soup on Thu 3 Dec, Manchester. 2 artists: Joseph Tunde and Shadeda. House and Disco. See the line-up on soundcheck.
+Happy Sticks(mas) at Soup on Thu 3 Dec, Manchester. 3 artists: Joseph Tunde, KRS George and Shadeda. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Happy Sticks(mas) at Soup on Thu 3 Dec, Manchester. 2 artists: Joseph Tunde and 
 ## Line-up
 
 - Joseph Tunde
+- KRS George
 - Shadeda
 
 *Source: [soundcheck](https://soundcheck.club/e/2583780-happy-sticks-mas-at-soup/)*

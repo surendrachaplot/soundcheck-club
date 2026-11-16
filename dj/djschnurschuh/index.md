@@ -1,6 +1,6 @@
 # DJ Schnürschuh
 
-DJ Schnürschuh is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at Distillery, Leipzig on Tue, 17 Nov 2026.
+DJ Schnürschuh is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at Distillery, Leipzig on Tue, 17 Nov 2026.
 
 DJ Schnürschuh is a trance and techno artist based in Germany, with 12 gigs on soundcheck across Berlin, Hamburg and Leipzig. Often billed alongside Timstagram, VLUNA and kichererbsenstampf. Next up: Distillery, Leipzig on Tue 17 Nov.
 
@@ -25,4 +25,4 @@ DJ Schnürschuh is a trance and techno artist based in Germany, with 12 gigs on 
 
 Timstagram, VLUNA, kichererbsenstampf
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djschnurschuh/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djschnurschuh/)*

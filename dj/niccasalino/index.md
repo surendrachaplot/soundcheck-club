@@ -1,6 +1,6 @@
 # Nic Casalino
 
-Nic Casalino is a Electronica and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 15 Nov 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Fri, 20 Nov 2026.
+Nic Casalino is a Electronica and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 16 Nov 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Fri, 20 Nov 2026.
 
 Nic Casalino is an electronica and dub techno artist, with 3 gigs on soundcheck across Milan and Rome. Often billed alongside DNN, Deena Abdelwahed and Etta Simone. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Fri 20 Nov.
 
@@ -19,4 +19,4 @@ Nic Casalino is an electronica and dub techno artist, with 3 gigs on soundcheck 
 
 DNN, Deena Abdelwahed, Etta Simone
 
-*Updated Sun, 15 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/niccasalino/)*
+*Updated Mon, 16 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/niccasalino/)*
